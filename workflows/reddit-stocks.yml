@@ -1,0 +1,65 @@
+on:
+  reddit:
+    url: https://www.reddit.com/r/stocks/top/
+    source: json
+    config:
+      # limit: 1
+      filterScript: |
+        delete item.all_awardings
+        return item
+    requestConfig:
+      params:
+        raw_json: 1
+jobs:
+  save:
+    name: save to json
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+      - name: Translate to ZH
+        id: translation
+        uses: fabasoad/translation-action@main
+        with:
+          provider: microsoft
+          api_key: ${{ secrets.MICROSOFT_TRANSLATE_API_KEY }}
+          lang: 'zh-Hans'
+          api_additional_parameter: westus2
+          source: ${{ on.reddit.outputs.title }}
+      - name: Create Reddit JSON
+        uses: actions/github-script@v2
+        env:
+          TITLE_ZH: ${{steps.translation.outputs.text}}
+        with:
+          script: |
+            const path = require('path')
+            const fs = require('fs').promises
+            const outputs = ${{toJSON(on.reddit.outputs)}}
+            const item = outputs
+            const createdAt = new Date(item.created_utc)
+            let link = item.permalink;
+            if(link.endsWith('/')){
+              link = link.slice(0,-1)
+            }
+            item.title_zh = process.env.TITLE_ZH;
+            const redditFilePath = `./data/reddit-stocks${link}.json`
+            await fs.mkdir(path.dirname(redditFilePath), {
+                recursive: true
+            }).then(()=>{
+              return fs.writeFile(
+                  redditFilePath,
+                  JSON.stringify(item, null, 2),
+                  {
+                    flag: "wx"
+                  }
+              ).catch((e) => {
+                if (e.code === "EEXIST") {
+                  return Promise.resolve();
+                } else {
+                  return Promise.reject(e);
+                }
+              });
+            })
+            return outputs.length
