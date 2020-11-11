@@ -32,16 +32,17 @@ jobs:
         uses: actions/github-script@v2
         env:
           TITLE_ZH: ${{steps.translation.outputs.text}}
+          OUTPUTS: ${{toJSON(on.reddit.outputs)}}
         with:
           script: |
             const path = require('path')
             const fsPure = require('fs')
             const fs = fsPure.promises
-            const outputs = ${{toJSON(on.reddit.outputs)}}
+            const outputs = process.env.OUTPUTS;
             const item = outputs
             const createdAt = new Date(item.created_utc*1000)
             let link = item.permalink;
-            if(link.endsWith('/')){
+            if(link && link.endsWith('/')){
               link = link.slice(0,-1)
             }
             const redditFilePath = `./data/reddit-top${link}.json`
@@ -111,15 +112,15 @@ jobs:
               }
             }
             return outputs.length
-      - name: Commit changes
-        uses: EndBug/add-and-commit@v5
-        with:
-          message: "chore: add sources"
-          add: "data/* i18n/*"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Deploy site
-        uses: actionsflow/axios@v1
-        with:
-          url: ${{ secrets.VERCEL_HOOK }}
-          method: "GET"
+      # - name: Commit changes
+      #   uses: EndBug/add-and-commit@v5
+      #   with:
+      #     message: "chore: add sources"
+      #     add: "data/* i18n/*"
+      #   env:
+      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # - name: Deploy site
+      #   uses: actionsflow/axios@v1
+      #   with:
+      #     url: ${{ secrets.VERCEL_HOOK }}
+      #     method: "GET"
