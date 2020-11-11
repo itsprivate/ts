@@ -14,7 +14,4 @@ jobs:
     name: Run
     steps:
       - name: Deploy site
-        uses: actionsflow/axios@v1
-        with:
-          url: ${{ secrets.VERCEL_HOOK }}
-          method: "GET"
+        run: curl ${{ secrets.VERCEL_HOOK }}
