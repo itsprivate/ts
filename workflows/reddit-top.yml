@@ -39,7 +39,7 @@ jobs:
             const fsPure = require('fs')
             const fs = fsPure.promises
             const outputs = process.env.OUTPUTS;
-            const item = outputs
+            const item = JSON.parse(outputs)
             const createdAt = new Date(item.created_utc*1000)
             let link = item.permalink;
             if(link && link.endsWith('/')){
@@ -111,7 +111,7 @@ jobs:
                 await fs.writeFile(tagFilePath,JSON.stringify(tagLocaleObj,null,2))
               }
             }
-            return outputs.length
+            return true
       - name: Commit changes
         uses: EndBug/add-and-commit@v5
         with:
