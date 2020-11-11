@@ -4,6 +4,7 @@ on: pull_request_target
 
 jobs:
   auto-approve:
+    runs-on: ubuntu-latest
     steps:
       - name: Merge
         if: github.actor == 'theowenyoung' && github.head_ref == 'i10n_main'
