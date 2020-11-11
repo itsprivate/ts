@@ -3,7 +3,7 @@ on:
     url: https://www.reddit.com/r/all/top/
     source: json
     config:
-      limit: 1
+      # limit: 1
       filterScript: |
         delete item.all_awardings
         return item
