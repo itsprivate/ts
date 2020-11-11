@@ -6,7 +6,8 @@ jobs:
   auto-approve:
     runs-on: ubuntu-latest
     steps:
-      - uses: hmarr/auto-approve-action@v2.0.0
-        if: github.actor == 'theowenyoung' && github.head_ref == 'i10n_main'
+      - name: Merge
+        uses: KeisukeYamashita/auto-pull-request-merge@v1
         with:
-          github-token: "${{ secrets.GITHUB_TOKEN }}"
+          intervalSeconds: 10
+          timeoutSeconds: 30
