@@ -1,0 +1,20 @@
+name: Build Site
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "data/**"
+      - "content/**"
+      - "i18n/**"
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    name: Run
+    steps:
+      - name: Deploy site
+        uses: actionsflow/axios@v1
+        with:
+          url: ${{ secrets.VERCEL_HOOK }}
+          method: "GET"

@@ -111,3 +111,10 @@ jobs:
               }
             }
             return outputs.length
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v5
+        with:
+          message: "chore: add sources"
+          add: "data/*"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
