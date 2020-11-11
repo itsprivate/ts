@@ -3,8 +3,8 @@ on:
     url: https://www.reddit.com/r/all/top/
     source: json
     config:
-      limit: 2
-      force: true
+      # limit: 2
+      # force: true
       filterScript: |
         delete item.all_awardings
         return item
@@ -120,15 +120,15 @@ jobs:
               }
             }
             return true
-      # - name: Commit changes
-      #   uses: EndBug/add-and-commit@v5
-      #   with:
-      #     message: "chore: add sources"
-      #     add: "."
-      #   env:
-      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      # - name: Deploy site
-      #   uses: actionsflow/axios@v1
-      #   with:
-      #     url: ${{ secrets.VERCEL_HOOK }}
-      #     method: "GET"
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v5
+        with:
+          message: "chore: add sources"
+          add: "."
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Deploy site
+        uses: actionsflow/axios@v1
+        with:
+          url: ${{ secrets.VERCEL_HOOK }}
+          method: "GET"
