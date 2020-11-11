@@ -118,3 +118,8 @@ jobs:
           add: "data/*"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Deploy site
+        uses: actionsflow/axios@v1
+        with:
+          url: ${{ secrets.VERCEL_HOOK }}
+          method: "GET"
