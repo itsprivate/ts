@@ -3,6 +3,7 @@ on:
     url: https://www.reddit.com/r/stocks/top/
     source: json
     config:
+      active: false
       # limit: 1
       filterScript: |
         delete item.all_awardings
@@ -25,7 +26,7 @@ jobs:
         with:
           provider: microsoft
           api_key: ${{ secrets.MICROSOFT_TRANSLATE_API_KEY }}
-          lang: 'zh-Hans'
+          lang: "zh-Hans"
           api_additional_parameter: westus2
           source: ${{ on.reddit.outputs.title }}
       - name: Create Reddit JSON

@@ -1,6 +1,6 @@
 on:
   reddit:
-    url: https://www.reddit.com/r/redditdev/
+    url: https://www.reddit.com/r/all/top/
     source: json
     config:
       # limit: 1
@@ -35,15 +35,15 @@ jobs:
         with:
           script: |
             const path = require('path')
-            const fs = require('fs').promises
+            const fsPure = require('fs')
+            const fs = fsPure.promises
             const outputs = ${{toJSON(on.reddit.outputs)}}
             const item = outputs
-            const createdAt = new Date(item.created_utc)
+            const createdAt = new Date(item.created_utc*1000)
             let link = item.permalink;
             if(link.endsWith('/')){
               link = link.slice(0,-1)
             }
-            item.title_zh = process.env.TITLE_ZH;
             const redditFilePath = `./data/reddit-top${link}.json`
             await fs.mkdir(path.dirname(redditFilePath), {
                 recursive: true
@@ -62,4 +62,24 @@ jobs:
                 }
               });
             })
+            const utcYear = createdAt.getUTCFullYear();
+            const locales = ['en','zh'];
+            const title = item.title;
+            const titles = {
+              en: title,
+              zh: process.env.TITLE_ZH
+            }
+            for(let i=0;i<locales.length;i++){
+              const locale = locales[i];
+              const filePath = `./i18n/i18next/${locale}/reddit-title-${utcYear}.json`
+              const isExist = fsPure.existsSync(filePath);
+              if(!isExist){
+                  await fs.writeFile(filePath,'{}')
+              }
+              const localeJson = await fs.readFile(filePath,'utf8')
+              const localeObj = JSON.parse(localeJson)
+              localeObj[title] = titles[locale]
+              // write
+              await fs.writeFile(filePath,JSON.stringify(localeObj,null,2))
+            }
             return outputs.length
