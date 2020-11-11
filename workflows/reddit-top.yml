@@ -3,7 +3,7 @@ on:
     url: https://www.reddit.com/r/all/top/
     source: json
     config:
-      # limit: 1
+      limit: 1
       filterScript: |
         delete item.all_awardings
         return item
@@ -39,7 +39,9 @@ jobs:
             const fsPure = require('fs')
             const fs = fsPure.promises
             const outputs = process.env.OUTPUTS;
+            console.log('outputs',outputs)
             const item = JSON.parse(outputs)
+            console.log('outputs2',item)
             const createdAt = new Date(item.created_utc*1000)
             let link = item.permalink;
             if(link && link.endsWith('/')){
@@ -112,15 +114,15 @@ jobs:
               }
             }
             return true
-      - name: Commit changes
-        uses: EndBug/add-and-commit@v5
-        with:
-          message: "chore: add sources"
-          add: "data/* i18n/*"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Deploy site
-        uses: actionsflow/axios@v1
-        with:
-          url: ${{ secrets.VERCEL_HOOK }}
-          method: "GET"
+      # - name: Commit changes
+      #   uses: EndBug/add-and-commit@v5
+      #   with:
+      #     message: "chore: add sources"
+      #     add: "data/* i18n/*"
+      #   env:
+      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # - name: Deploy site
+      #   uses: actionsflow/axios@v1
+      #   with:
+      #     url: ${{ secrets.VERCEL_HOOK }}
+      #     method: "GET"
