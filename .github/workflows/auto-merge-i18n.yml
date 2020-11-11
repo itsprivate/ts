@@ -11,3 +11,8 @@ jobs:
         with:
           intervalSeconds: 10
           timeoutSeconds: 30
+      - name: Deploy site
+        uses: actionsflow/axios@v1
+        with:
+          url: ${{ secrets.VERCEL_HOOK }}
+          method: "GET"
