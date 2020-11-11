@@ -67,7 +67,7 @@ jobs:
             const title = item.title;
             const tags = [item.subreddit];
             if (item.link_flair_text) {
-              tags.push(node.link_flair_text)
+              tags.push(item.link_flair_text)
             }
             const titles = {
               en: title,
