@@ -1,6 +1,5 @@
-name: Auto approve
-
-on: 
+name: Auto merge i18n
+on:
   - pull_request_target
 jobs:
   auto-approve:
