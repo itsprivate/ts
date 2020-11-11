@@ -1,10 +1,12 @@
 on:
   reddit:
-    url: https://www.reddit.com/r/all/top/
+    url: https://www.reddit.com/r/stocks/top/
+    # url: https://www.reddit.com/r/all/top/
     source: json
     config:
       # limit: 2
       # force: true
+      outputsMode: combine
       filterScript: |
         delete item.all_awardings
         return item
@@ -20,11 +22,23 @@ jobs:
         with:
           persist-credentials: false
           fetch-depth: 0
-      - uses: oleksiyrudenko/gha-git-credentials@v1
+      # - uses: oleksiyrudenko/gha-git-credentials@v1
+      #   with:
+      #     token: "${{ secrets.GITHUB_TOKEN }}"
+      # - name: pull to the latest
+      #   run: git pull
+      - name: Format message
+        id: title
+        uses: actions/github-script@v2
         with:
-          token: "${{ secrets.GITHUB_TOKEN }}"
-      - name: pull to the latest
-        run: git pull
+          script: |
+            const outputs = ${{ toJSON(on.reddit.outputs) }}
+            const titles = outputs.map((item,index)=>{
+              return item.title
+            }).join("\n");
+            return {
+              title: titles
+            }
       - name: Translate to ZH
         id: translation
         uses: fabasoad/translation-action@main
@@ -33,11 +47,11 @@ jobs:
           api_key: ${{ secrets.MICROSOFT_TRANSLATE_API_KEY }}
           lang: "zh-Hans"
           api_additional_parameter: westus2
-          source: ${{ on.reddit.outputs.title }}
+          source: ${{fromJSON(steps.title.outputs.result).title}}
       - name: Create Reddit JSON
         uses: actions/github-script@v2
         env:
-          TITLE_ZH: ${{steps.translation.outputs.text}}
+          TEXT: ${{steps.translation.outputs.text}}
           OUTPUTS: ${{toJSON(on.reddit.outputs)}}
         with:
           script: |
@@ -45,90 +59,20 @@ jobs:
             const fsPure = require('fs')
             const fs = fsPure.promises
             const outputs = process.env.OUTPUTS;
-            console.log('outputs',outputs)
-            const item = JSON.parse(outputs)
-            console.log('outputs2',item)
-            const createdAt = new Date(item.created_utc*1000)
-            let link = item.permalink;
-            if(link && link.endsWith('/')){
-              link = link.slice(0,-1)
-            }
-            const redditFilePath = `./data/reddit-top${link}.json`
-            await fs.mkdir(path.dirname(redditFilePath), {
-                recursive: true
-            }).then(()=>{
-              return fs.writeFile(
-                  redditFilePath,
-                  JSON.stringify(item, null, 2),
-                  {
-                    flag: "wx"
-                  }
-              ).catch((e) => {
-                if (e.code === "EEXIST") {
-                  return Promise.resolve();
-                } else {
-                  return Promise.reject(e);
-                }
-              });
-            })
-            const utcYear = createdAt.getUTCFullYear();
-            const locales = ['en','zh'];
-            const title = item.title;
-            const tags = [item.subreddit];
-            if (item.link_flair_text) {
-              tags.push(item.link_flair_text)
-            }
-            const titles = {
-              en: title,
-              zh: process.env.TITLE_ZH
-            }
-            for(let i=0;i<locales.length;i++){
-              const locale = locales[i];
-              const filePath = `./i18n/i18next/${locale}/reddit-title-${utcYear}.json`
-              const tagFilePath = `./i18n/i18next/${locale}/common-tag.json`
-              const nextYearFilePath = `./i18n/i18next/${locale}/reddit-title-${utcYear+1}.json`
-              const isExist = fsPure.existsSync(filePath);
-              if(!isExist){
-                  await fs.writeFile(filePath,'{}')
-              }
-              const isNextYearExist = fsPure.existsSync(nextYearFilePath);
-              if(!isNextYearExist){
-                  await fs.writeFile(nextYearFilePath,'{}')
-              }
-              const isTagFileExist = fsPure.existsSync(tagFilePath);
-              if(!isTagFileExist){
-                  await fs.writeFile(tagFilePath,'{}')
-              }
-              const localeJson = await fs.readFile(filePath,'utf8')
-              const localeObj = JSON.parse(localeJson)
-              localeObj[title] = titles[locale]
-              // write
-              await fs.writeFile(filePath,JSON.stringify(localeObj,null,2))
-
-              const tagLocaleJson = await fs.readFile(tagFilePath,'utf8')
-              const tagLocaleObj = JSON.parse(tagLocaleJson)
-              let isChanged = false
-              tags.forEach(tag=>{
-                if(!tagLocaleObj[tag]){
-                  isChanged = true;
-                  tagLocaleObj[tag] = tag;
-                }
-              })
-              if(isChanged){
-                // write
-                await fs.writeFile(tagFilePath,JSON.stringify(tagLocaleObj,null,2))
-              }
-            }
+            const items = JSON.parse(outputs)
+            const titleStr = process.env.TEXT || "";
+            const titleArray = titleStr.split('\n')
+            console.log('titleArray',titleArray)
             return true
-      - name: Commit changes
-        uses: EndBug/add-and-commit@v5
-        with:
-          message: "chore: add sources"
-          add: "."
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Deploy site
-        uses: actionsflow/axios@v1
-        with:
-          url: ${{ secrets.VERCEL_HOOK }}
-          method: "GET"
+      # - name: Commit changes
+      #   uses: EndBug/add-and-commit@v5
+      #   with:
+      #     message: "chore: add sources"
+      #     add: "."
+      #   env:
+      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # - name: Deploy site
+      #   uses: actionsflow/axios@v1
+      #   with:
+      #     url: ${{ secrets.VERCEL_HOOK }}
+      #     method: "GET"

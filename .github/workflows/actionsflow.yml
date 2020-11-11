@@ -2,9 +2,9 @@ name: Actionsflow
 on:
   repository_dispatch:
   workflow_dispatch:
-  schedule:
-    - cron: "*/5 * * * *"
-  push:
+  # schedule:
+  #   - cron: "*/5 * * * *"
+  # push:
 jobs:
   run:
     runs-on: ubuntu-latest
