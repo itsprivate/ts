@@ -72,9 +72,14 @@ jobs:
             for(let i=0;i<locales.length;i++){
               const locale = locales[i];
               const filePath = `./i18n/i18next/${locale}/reddit-title-${utcYear}.json`
+              const nextYearFilePath = `./i18n/i18next/${locale}/reddit-title-${utcYear+1}.json`
               const isExist = fsPure.existsSync(filePath);
               if(!isExist){
                   await fs.writeFile(filePath,'{}')
+              }
+              const isNextYearExist = fsPure.existsSync(nextYearFilePath);
+              if(!isNextYearExist){
+                  await fs.writeFile(nextYearFilePath,'{}')
               }
               const localeJson = await fs.readFile(filePath,'utf8')
               const localeObj = JSON.parse(localeJson)
