@@ -1,10 +1,10 @@
 name: Actionsflow
 on:
-  # repository_dispatch:
+  repository_dispatch:
   workflow_dispatch:
   schedule:
     - cron: "*/5 * * * *"
-  # push:
+  push:
 jobs:
   run:
     runs-on: ubuntu-latest
