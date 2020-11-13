@@ -31,16 +31,19 @@ jobs:
             const titles = outputs.map((item,index)=>{
               return item.title
             }).join("\n");
+            console.log('titles',titles)
             return titles
           result-encoding: string
       - name: Translate to ZH
         id: translation
-        uses: fabasoad/translation-action@main
+        uses: theowenyoung/translation-action@main
         with:
-          provider: microsoft
-          api_key: ${{ secrets.MICROSOFT_TRANSLATE_API_KEY }}
-          lang: "zh-Hans"
-          api_additional_parameter: westus2
+          provider: tencent
+          api_key: ${{ secrets.TENCENT_TRANSLATION_SECRET_KEY }}
+          lang: "zh"
+          api_additional_parameter: ${{ secrets.TENCENT_TRANSLATION_SECRET_ID }}
+          api_additional_parameter2: na-siliconvalley
+          api_additional_parameter3: en
           source: ${{steps.title.outputs.result}}
       - name: Create Reddit JSON
         uses: actions/github-script@v2
@@ -55,6 +58,7 @@ jobs:
             const outputs = require(`${process.env.GITHUB_WORKSPACE}/${process.env.OUTPUTS_PATH}`)
             const items = outputs;
             const titleStr = process.env.TEXT || "";
+            console.log('titleStr',titleStr)
             const titleArray = titleStr.split('\n')
             for(let i=0;i<items.length;i++){
               const item = items[i]
