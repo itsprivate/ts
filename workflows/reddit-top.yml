@@ -117,6 +117,8 @@ jobs:
                 const localeObj = JSON.parse(localeJson)
                 if(titles[locale]){
                   localeObj[title] = titles[locale]
+                }else{
+                  console.log(`there is no ${locale} translation`,titleArray,i)
                 }
                 // write
                 await fs.writeFile(filePath,JSON.stringify(localeObj,null,2))
