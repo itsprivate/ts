@@ -62,6 +62,7 @@ jobs:
             const titleArray = titleStr.split('\n')
             for(let i=0;i<items.length;i++){
               const item = items[i]
+              // const createdAt = new Date(item.created_utc*1000)
               const createdAt = new Date(item.created_utc*1000)
               let link = item.permalink;
               if(link && link.endsWith('/')){
