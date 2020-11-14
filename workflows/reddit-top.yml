@@ -26,7 +26,6 @@ jobs:
           OUTPUTS_PATH: ${{ on.reddit.outputs.path }}
         with:
           script: |
-            const fs = require('fs');
             const outputs = require(`${process.env.GITHUB_WORKSPACE}/${process.env.OUTPUTS_PATH}`)
             const titles = outputs.map((item,index)=>{
               return item.title
@@ -63,7 +62,8 @@ jobs:
             for(let i=0;i<items.length;i++){
               const item = items[i]
               // const createdAt = new Date(item.created_utc*1000)
-              const createdAt = new Date(item.created_utc*1000)
+              const createdAt = new Date()
+              item.created_utc = Math.floor(createdAt.getTime()/1000)
               let link = item.permalink;
               if(link && link.endsWith('/')){
                 link = link.slice(0,-1)
