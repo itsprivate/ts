@@ -3,11 +3,12 @@ module.exports =
 /******/ 	var __webpack_modules__ = ({
 
 /***/ 14434:
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+/***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
 
 const core = __webpack_require__(42186);
 const tencentcloud = __webpack_require__(15144);
 const path = __webpack_require__(85622);
+const fs = __webpack_require__(35747).promises
 const githubWorkspace =
   process.env.GITHUB_WORKSPACE || path.resolve(__dirname, "../../../../");
 async function main() {
@@ -36,7 +37,8 @@ async function main() {
     for (let j = 0; j < locales.length; j++) {
       const locale = locales[j];
       const redditLocaleTitleFilePath = `i18n/i18next/${locale}/reddit-title-${year}.json`;
-      const localeTitle = require(`${githubWorkspace}/${redditLocaleTitleFilePath}`);
+      const finalFile = `${githubWorkspace}/${redditLocaleTitleFilePath}`
+      const localeTitle = require(finalFile);
       // check
       const enKeys = Object.keys(enTitle);
       let isChanged = false;
@@ -52,15 +54,18 @@ async function main() {
           };
           console.log("params", params);
 
-          // const data = await client.TextTranslate(params);
-          // // request
-          // localeTitle[key] = data.TargetText;
+          const data = await client.TextTranslate(params);
+          // request
+          localeTitle[key] = data.TargetText;
         }
       }
+      console.log('isChanged',isChanged);
+      console.log('localeTitle',localeTitle);
+      
       // if changed
       if (isChanged) {
         // write
-        console.log("write");
+        await fs.writeFile(finalFile,JSON.stringify(localeTitle,null,2))
       }
     }
   }
@@ -76,18 +81,9 @@ const getAllYears = () => {
 };
 main().catch((e) => {
   core.setFailed(e);
-});
-
-module.exports = (
-  apiKey,
-  text,
-  lang,
-  addParam,
-  addParam2,
-  addParam3,
-  addParam4
-) => {};
-
+}).then(()=>{
+  core.setOutput('success',true)
+})
 
 /***/ }),
 
