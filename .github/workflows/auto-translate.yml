@@ -1,0 +1,20 @@
+name: Auto translate
+on:
+  repository_dispatch:
+    types:
+      - new_item
+  workflow_dispatch:
+  # schedule:
+  #   - cron: "29 * * * *"
+
+jobs:
+  auto-translate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+      - name: Translate
+        uses: ./.github/actions/translate
+        with:
+          secret_id: ${{ secrets.TENCENT_TRANSLATION_SECRET_ID }}
+          secret_key: ${{ secrets.TENCENT_TRANSLATION_SECRET_KEY }}

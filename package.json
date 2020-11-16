@@ -5,6 +5,7 @@
   "version": "1.0.0",
   "author": "Owen Young <theowenyoung@gmail.com>",
   "devDependencies": {
+    "@vercel/ncc": "^0.25.1",
     "actionsflow": "^1.7.0"
   },
   "keywords": [
@@ -18,7 +19,8 @@
     "watch": "actionsflow start -w --verbose --interval 1 -- -b",
     "act": "act --workflows ./dist/workflows --secret-file ./dist/.secrets --eventpath ./dist/event.json --env-file ./dist/.env -P ubuntu-latest=actionsflow/act-environment:v1 -P ubuntu-18.04=actionsflow/act-environment:v1",
     "clean": "actionsflow clean",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:action": "ncc build .github/actions/translate/src/index.js -o .github/actions/translate/dist"
   },
   "repository": {
     "type": "git",
@@ -26,5 +28,9 @@
   },
   "bugs": {
     "url": "https://github.com/actionsflow/actionsflow-workflow-default/issues"
+  },
+  "dependencies": {
+    "@actions/core": "^1.2.6",
+    "tencentcloud-sdk-nodejs": "^4.0.16"
   }
 }
