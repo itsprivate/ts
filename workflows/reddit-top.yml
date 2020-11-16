@@ -19,35 +19,9 @@ jobs:
     name: save to json
     runs-on: ubuntu-latest
     steps:
-      - name: Format message
-        id: title
-        uses: actions/github-script@v2
-        env:
-          OUTPUTS_PATH: ${{ on.reddit.outputs.path }}
-        with:
-          script: |
-            const outputs = require(`${process.env.GITHUB_WORKSPACE}/${process.env.OUTPUTS_PATH}`)
-            const titles = outputs.map((item,index)=>{
-              return item.title
-            }).join("\n");
-            console.log('titles',titles)
-            return titles
-          result-encoding: string
-      - name: Translate to ZH
-        id: translation
-        uses: theowenyoung/translation-action@main
-        with:
-          provider: tencent
-          api_key: ${{ secrets.TENCENT_TRANSLATION_SECRET_KEY }}
-          lang: "zh"
-          api_additional_parameter: ${{ secrets.TENCENT_TRANSLATION_SECRET_ID }}
-          api_additional_parameter2: na-siliconvalley
-          api_additional_parameter3: en
-          source: ${{steps.title.outputs.result}}
       - name: Create Reddit JSON
         uses: actions/github-script@v2
         env:
-          TEXT: ${{steps.translation.outputs.text}}
           OUTPUTS_PATH: ${{ on.reddit.outputs.path }}
         with:
           script: |
@@ -56,9 +30,6 @@ jobs:
             const fs = fsPure.promises
             const outputs = require(`${process.env.GITHUB_WORKSPACE}/${process.env.OUTPUTS_PATH}`)
             const items = outputs;
-            const titleStr = process.env.TEXT || "";
-            console.log('titleStr',titleStr)
-            const titleArray = titleStr.split('\n')
             for(let i=0;i<items.length;i++){
               const item = items[i]
               // const createdAt = new Date(item.created_utc*1000)
@@ -87,7 +58,6 @@ jobs:
                 });
               })
               const utcYear = createdAt.getUTCFullYear();
-              const locales = ['en','zh'];
               const title = item.title;
               const tags = [item.subreddit];
               if (item.link_flair_text) {
@@ -95,61 +65,48 @@ jobs:
               }
               const titles = {
                 en: title,
-                zh: titleArray[i]
               }
-              for(let i=0;i<locales.length;i++){
-                const locale = locales[i];
-                const filePath = `./i18n/i18next/${locale}/reddit-title-${utcYear}.json`
-                const tagFilePath = `./i18n/i18next/${locale}/translation-tag.json`
-                const nextYearFilePath = `./i18n/i18next/${locale}/reddit-title-${utcYear+1}.json`
-                const isExist = fsPure.existsSync(filePath);
-                if(!isExist){
-                    await fs.writeFile(filePath,'{}')
+              const locale = 'en'
+              const filePath = `./i18n/i18next/${locale}/reddit-title-${utcYear}.json`
+              const tagFilePath = `./i18n/i18next/${locale}/translation-tag.json`
+              const nextYearFilePath = `./i18n/i18next/${locale}/reddit-title-${utcYear+1}.json`
+              const isExist = fsPure.existsSync(filePath);
+              if(!isExist){
+                  await fs.writeFile(filePath,'{}')
+              }
+              const isNextYearExist = fsPure.existsSync(nextYearFilePath);
+              if(!isNextYearExist){
+                  await fs.writeFile(nextYearFilePath,'{}')
+              }
+              const isTagFileExist = fsPure.existsSync(tagFilePath);
+              if(!isTagFileExist){
+                  await fs.writeFile(tagFilePath,'{}')
+              }
+              const localeJson = await fs.readFile(filePath,'utf8')
+              const localeObj = JSON.parse(localeJson)
+                localeObj[title] = title
+              }
+              // write
+              await fs.writeFile(filePath,JSON.stringify(localeObj,null,2))
+              const tagLocaleJson = await fs.readFile(tagFilePath,'utf8')
+              const tagLocaleObj = JSON.parse(tagLocaleJson)
+              let isChanged = false
+              tags.forEach(tag=>{
+                if(!tagLocaleObj[tag]){
+                  isChanged = true;
+                  tagLocaleObj[tag] = tag;
                 }
-                const isNextYearExist = fsPure.existsSync(nextYearFilePath);
-                if(!isNextYearExist){
-                    await fs.writeFile(nextYearFilePath,'{}')
-                }
-                const isTagFileExist = fsPure.existsSync(tagFilePath);
-                if(!isTagFileExist){
-                    await fs.writeFile(tagFilePath,'{}')
-                }
-                const localeJson = await fs.readFile(filePath,'utf8')
-                const localeObj = JSON.parse(localeJson)
-                if(titles[locale]){
-                  localeObj[title] = titles[locale]
-                }else{
-                  console.log(`there is no ${locale} translation`,titleArray,i)
-                }
+              })
+              if(isChanged){
                 // write
-                await fs.writeFile(filePath,JSON.stringify(localeObj,null,2))
-
-                const tagLocaleJson = await fs.readFile(tagFilePath,'utf8')
-                const tagLocaleObj = JSON.parse(tagLocaleJson)
-                let isChanged = false
-                tags.forEach(tag=>{
-                  if(!tagLocaleObj[tag]){
-                    isChanged = true;
-                    tagLocaleObj[tag] = tag;
-                  }
-                })
-                if(isChanged){
-                  // write
-                  await fs.writeFile(tagFilePath,JSON.stringify(tagLocaleObj,null,2))
-                }
+                await fs.writeFile(tagFilePath,JSON.stringify(tagLocaleObj,null,2))
               }
             }
-
             return true
-      - name: Commit changes
-        uses: EndBug/add-and-commit@v5
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v3
         with:
-          message: "chore: add sources"
-          add: "."
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Deploy site
-        uses: actionsflow/axios@v1
-        with:
-          url: ${{ secrets.VERCEL_HOOK }}
-          method: "GET"
+          token: ${{ secrets.PERSONAL_TOKEN }}
+          commit-message: "chore: new item"
+          branch: new-item
+          delete-branch: true

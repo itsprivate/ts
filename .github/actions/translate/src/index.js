@@ -46,16 +46,11 @@ async function main() {
             Target: locale,
             ProjectId: 0,
           };
-          console.log("params", params);
-
           const data = await client.TextTranslate(params);
           // request
           localeTitle[key] = data.TargetText;
         }
       }
-      console.log('isChanged',isChanged);
-      console.log('localeTitle',localeTitle);
-      
       // if changed
       if (isChanged) {
         // write
