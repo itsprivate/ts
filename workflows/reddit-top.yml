@@ -104,7 +104,6 @@ jobs:
             return true
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
-        if: env.GITHUB_ACTION=='true'
         with:
           token: ${{ secrets.PERSONAL_TOKEN }}
           commit-message: "chore: new item"
