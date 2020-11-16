@@ -6,7 +6,7 @@ on:
       - main
     paths:
       - "content/**"
-      - "i18n/**"
+      - "i18n/i18next/zh/**"
 jobs:
   run:
     runs-on: ubuntu-latest

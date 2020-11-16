@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - "data/**"
+      - "i18n/i18next/en/reddit-title*.json"
 jobs:
   auto-translate:
     runs-on: ubuntu-latest
