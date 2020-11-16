@@ -31,7 +31,8 @@ async function main() {
       const locale = locales[j];
       const redditLocaleTitleFilePath = `i18n/i18next/${locale}/reddit-title-${year}.json`;
       const finalFile = `${githubWorkspace}/${redditLocaleTitleFilePath}`
-      const localeTitle = require(finalFile);
+      const localeTitleJSON = await fs.readFile(finalFile,'utf8');
+      const localeTitle = JSON.parse(localeTitleJSON)
       // check
       const enKeys = Object.keys(enTitle);
       let isChanged = false;
