@@ -52,6 +52,9 @@ async function main() {
           localeTitle[key] = data.TargetText;
         }
       }
+      console.log('isChanged',isChanged);
+      console.log('localeTitle',localeTitle);
+      
       // if changed
       if (isChanged) {
         // write
