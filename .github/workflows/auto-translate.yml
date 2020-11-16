@@ -18,3 +18,10 @@ jobs:
         with:
           secret_id: ${{ secrets.TENCENT_TRANSLATION_SECRET_ID }}
           secret_key: ${{ secrets.TENCENT_TRANSLATION_SECRET_KEY }}
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v3
+        with:
+          token: ${{ secrets.PERSONAL_TOKEN }}
+          commit-message: "chore: auto translation"
+          branch: i18n-auto-translation
+          delete-branch: true

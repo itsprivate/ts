@@ -1,6 +1,7 @@
 const core = require("@actions/core");
 const tencentcloud = require("tencentcloud-sdk-nodejs");
 const path = require("path");
+const fs = require('fs').promises
 const githubWorkspace =
   process.env.GITHUB_WORKSPACE || path.resolve(__dirname, "../../../../");
 async function main() {
@@ -29,7 +30,8 @@ async function main() {
     for (let j = 0; j < locales.length; j++) {
       const locale = locales[j];
       const redditLocaleTitleFilePath = `i18n/i18next/${locale}/reddit-title-${year}.json`;
-      const localeTitle = require(`${githubWorkspace}/${redditLocaleTitleFilePath}`);
+      const finalFile = `${githubWorkspace}/${redditLocaleTitleFilePath}`
+      const localeTitle = require(finalFile);
       // check
       const enKeys = Object.keys(enTitle);
       let isChanged = false;
@@ -45,15 +47,15 @@ async function main() {
           };
           console.log("params", params);
 
-          // const data = await client.TextTranslate(params);
-          // // request
-          // localeTitle[key] = data.TargetText;
+          const data = await client.TextTranslate(params);
+          // request
+          localeTitle[key] = data.TargetText;
         }
       }
       // if changed
       if (isChanged) {
         // write
-        console.log("write");
+        await fs.writeFile(finalFile,JSON.stringify(localeTitle,null,2))
       }
     }
   }
@@ -69,14 +71,6 @@ const getAllYears = () => {
 };
 main().catch((e) => {
   core.setFailed(e);
-});
-
-module.exports = (
-  apiKey,
-  text,
-  lang,
-  addParam,
-  addParam2,
-  addParam3,
-  addParam4
-) => {};
+}).then(()=>{
+  core.setOutput('success',true)
+})
