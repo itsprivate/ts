@@ -1,12 +1,11 @@
 name: Auto translate
 on:
-  repository_dispatch:
-    types:
-      - new_item
   workflow_dispatch:
-  # schedule:
-  #   - cron: "29 * * * *"
-
+  push:
+    branches:
+      - main
+    paths:
+      - "data/**"
 jobs:
   auto-translate:
     runs-on: ubuntu-latest
