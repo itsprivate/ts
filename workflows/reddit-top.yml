@@ -60,9 +60,6 @@ jobs:
               const utcYear = createdAt.getUTCFullYear()
               const title = item.title
               const tags = [item.subreddit]
-              if (item.link_flair_text) {
-                tags.push(item.link_flair_text)
-              }
               const locale = "en"
               const filePath = `./i18n/i18next/${locale}/reddit-title-${utcYear}.json`
               const tagFilePath = `./i18n/i18next/${locale}/translation-tag.json`
