@@ -18,8 +18,14 @@ jobs:
         with:
           url: ${{ secrets.VERCEL_HOOK }}
           method: "GET"
-      - name: Deploy site
+      - name: Deploy site to Render
+        if: false
         uses: actionsflow/axios@v1
         with:
           url: ${{ secrets.RENDER_HOOK }}
           method: "GET"
+      - name: Repository Dispatch
+        uses: peter-evans/repository-dispatch@v1
+        with:
+          token: ${{ secrets.PERSONAL_TOKEN }}
+          event-type: redeploy

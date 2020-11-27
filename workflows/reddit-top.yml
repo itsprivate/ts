@@ -32,7 +32,7 @@ jobs:
             const items = outputs
             for (let i = 0; i < items.length; i++) {
               const item = items[i]
-              // const createdAt = new Date(item.created_utc*1000)
+              item.original_created_utc = item.created_utc
               const createdAt = new Date()
               item.created_utc = Math.floor(createdAt.getTime() / 1000)
               let link = item.permalink
