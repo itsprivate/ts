@@ -28,4 +28,5 @@ jobs:
         uses: peter-evans/repository-dispatch@v1
         with:
           token: ${{ secrets.PERSONAL_TOKEN }}
+          repository: reddit-top
           event-type: redeploy
