@@ -13,7 +13,13 @@ jobs:
     name: Run
     steps:
       - name: Deploy site
+        if: false
         uses: actionsflow/axios@v1
         with:
           url: ${{ secrets.VERCEL_HOOK }}
+          method: "GET"
+      - name: Deploy site
+        uses: actionsflow/axios@v1
+        with:
+          url: ${{ secrets.RENDER_HOOK }}
           method: "GET"
