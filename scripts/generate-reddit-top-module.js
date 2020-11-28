@@ -24,7 +24,6 @@ async function main() {
       createdAt = new Date(originalRedditItem.created_utc * 1000);
     }
     item.created_utc = Math.floor(createdAt.getTime() / 1000);
-    console.log("item", item);
 
     await fs
       .mkdir(path.dirname(redditFilePath), {

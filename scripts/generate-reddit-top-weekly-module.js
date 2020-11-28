@@ -91,13 +91,14 @@ async function main() {
         return false;
       }
     });
+  console.log("New items length: ", newItems.length);
   const allItemsMap = {};
   const uniqueMap = {};
   currentIssueItems.forEach((item) => {
-    uniqueMap[item.type + item.id] = item;
+    uniqueMap[item.type + item.slug] = item;
   });
   newItems.forEach((item) => {
-    uniqueMap[item.type + item.id] = item;
+    uniqueMap[item.type + item.slug] = item;
   });
   const newMergedItems = Object.keys(uniqueMap).map((key) => uniqueMap[key]);
 
