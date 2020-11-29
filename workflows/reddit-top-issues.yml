@@ -34,6 +34,6 @@ jobs:
         with:
           token: ${{ secrets.PERSONAL_TOKEN }}
           commit-message: "chore: new item"
-          branch: new-item
+          branch: new-issue-item
           delete-branch: true
           title: New item update
