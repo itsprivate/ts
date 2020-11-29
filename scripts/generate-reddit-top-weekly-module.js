@@ -144,6 +144,7 @@ async function main() {
     startedAt: currentIssueStartedAt,
     endedAt: currentIssueEndedAt,
     id: currentIssueNumber,
+    issueNumber: currentIssueNumber,
     year: currentYear,
     items: allItems,
     draft: draft,
