@@ -30,7 +30,7 @@ jobs:
             return true
       - name: Create Pull Request
         if: true
-        uses: peter-evans/create-pull-request@v3
+        uses: theowenyoung/create-pull-request@master
         with:
           token: ${{ secrets.PERSONAL_TOKEN }}
           commit-message: "chore: new item"

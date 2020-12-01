@@ -28,7 +28,7 @@ jobs:
             await generateSources()
             return true
       - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v3
+        uses: theowenyoung/create-pull-request@master
         if: true
         with:
           token: ${{ secrets.PERSONAL_TOKEN }}
