@@ -9,6 +9,10 @@ on:
       outputsMode: combine
       exportOutputs: true
       filterScript: |
+        if(item.score>75000){
+          return true
+        }
+      format: |
         delete item.all_awardings
         return item
     requestConfig:

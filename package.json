@@ -33,6 +33,7 @@
   "dependencies": {
     "@actions/core": "^1.2.6",
     "dotenv": "^8.2.0",
+    "micromatch": "^4.0.2",
     "tencentcloud-sdk-nodejs": "^4.0.16"
   }
 }
