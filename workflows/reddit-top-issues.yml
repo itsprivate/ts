@@ -22,6 +22,12 @@ jobs:
     name: save to json
     runs-on: ubuntu-latest
     steps:
+      - name: Format reddit JSON
+        env:
+          OUTPUTS_PATH: ${{ on.reddit.outputs.path }}
+        uses: ./.github/actions/format
+        with:
+          function: reddit
       - name: Create Reddit JSON
         uses: actions/github-script@v2
         env:

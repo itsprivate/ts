@@ -21,7 +21,8 @@
     "act": "act --workflows ./dist/workflows --secret-file ./dist/.secrets --eventpath ./dist/event.json --env-file ./dist/.env -P ubuntu-latest=actionsflow/act-environment:v1 -P ubuntu-18.04=actionsflow/act-environment:v1",
     "clean": "actionsflow clean",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build:action": "ncc build .github/actions/translate/src/index.js -o .github/actions/translate/dist"
+    "build:action": "ncc build .github/actions/translate/src/index.js -o .github/actions/translate/dist",
+    "build:format": "ncc build .github/actions/format/src/index.js -o .github/actions/format/dist"
   },
   "repository": {
     "type": "git",
@@ -33,6 +34,8 @@
   "dependencies": {
     "@actions/core": "^1.2.6",
     "dotenv": "^8.2.0",
+    "ellipsize": "^0.1.0",
+    "html-to-text": "^6.0.0",
     "micromatch": "^4.0.2",
     "tencentcloud-sdk-nodejs": "^4.0.16"
   }
