@@ -9,7 +9,7 @@ async function main() {
     const jsonPath = resolve(__dirname, "../", jsonFiles[i]);
     const jsonContent = await readFile(jsonPath, "utf8");
     let json = JSON.parse(jsonContent);
-    if (json.__excerpt === undefined) {
+    if (json.the_new_excerpt === undefined) {
       const newJson = format([json]);
       console.log("write", jsonPath);
       await writeFile(jsonPath, JSON.stringify(newJson[0], null, 2));

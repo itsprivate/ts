@@ -15,7 +15,7 @@ module.exports = function (outputs) {
         },
       });
     }
-    item.__excerpt = ellipsize(excerpt, 300);
+    item.the_new_excerpt = ellipsize(excerpt, 300);
     return item;
   });
 
