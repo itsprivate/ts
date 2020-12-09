@@ -35,13 +35,23 @@ async function main() {
     console.log(`Write reddit json ${redditFilePath} success.`);
     const utcYear = createdAt.getUTCFullYear();
     const title = item.title;
+    const id = item.id;
+    const excerpt = item.the_new_excerpt;
     const tags = [item.subreddit];
     const locale = "en";
+
     const filePath = `./i18n/i18next/${locale}/reddit-title-${utcYear}.json`;
-    const tagFilePath = `./i18n/i18next/${locale}/translation-tag.json`;
     const nextYearFilePath = `./i18n/i18next/${locale}/reddit-title-${
       utcYear + 1
     }.json`;
+
+    const excerptFilePath = `./i18n/i18next/${locale}/reddit-excerpt-${utcYear}.json`;
+    const nextYearExcerptFilePath = `./i18n/i18next/${locale}/reddit-excerpt-${
+      utcYear + 1
+    }.json`;
+
+    const tagFilePath = `./i18n/i18next/${locale}/translation-tag.json`;
+
     const isExist = fsPure.existsSync(filePath);
     if (!isExist) {
       await fs.writeFile(filePath, "{}");
@@ -50,17 +60,38 @@ async function main() {
     if (!isNextYearExist) {
       await fs.writeFile(nextYearFilePath, "{}");
     }
+
+    const isExcerptExist = fsPure.existsSync(excerptFilePath);
+    if (!isExcerptExist) {
+      await fs.writeFile(excerptFilePath, "{}");
+    }
+    const isExcerptNextYearExist = fsPure.existsSync(nextYearExcerptFilePath);
+    if (!isExcerptNextYearExist) {
+      await fs.writeFile(nextYearExcerptFilePath, "{}");
+    }
+
     const isTagFileExist = fsPure.existsSync(tagFilePath);
     if (!isTagFileExist) {
       await fs.writeFile(tagFilePath, "{}");
     }
+
     const localeJson = await fs.readFile(filePath, "utf8");
     const localeObj = JSON.parse(localeJson);
     localeObj[title] = title;
-
     // write
     await fs.writeFile(filePath, JSON.stringify(localeObj, null, 2));
     console.log(`Write ${filePath} success`);
+
+    const localeExcerptJson = await fs.readFile(excerptFilePath, "utf8");
+    const localeExcerptObj = JSON.parse(localeExcerptJson);
+    localeExcerptObj[id] = excerpt;
+    // write excerpt
+    await fs.writeFile(
+      excerptFilePath,
+      JSON.stringify(localeExcerptObj, null, 2)
+    );
+    console.log(`Write ${excerptFilePath} success`);
+
     const tagLocaleJson = await fs.readFile(tagFilePath, "utf8");
     const tagLocaleObj = JSON.parse(tagLocaleJson);
     let isChanged = false;
