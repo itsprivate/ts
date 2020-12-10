@@ -1,4 +1,6 @@
 const preTranslate = require("./pre-translate");
+const OpenCC = require("opencc");
+const converter = new OpenCC("s2t.json");
 
 module.exports = async ({
   client,
@@ -6,11 +8,23 @@ module.exports = async ({
   source = "en",
   target = "zh",
 }) => {
-  const preSourceText = preTranslate({
-    text: sourceText,
-    lang: target,
-  });
+  let preSourceText = sourceText;
+  if (source === "en") {
+    preSourceText = preTranslate({
+      text: sourceText,
+      lang: target,
+    });
+  }
+
   console.log("preSourceText", preSourceText);
+  if (source === "zh" && target === "zh-Hant") {
+    return converter.convertPromise(sourceText).then((converted) => {
+      console.log(converted); // 漢字
+      return {
+        TargetText: converted,
+      };
+    });
+  }
   const params = {
     SourceText: preSourceText,
     Source: source,

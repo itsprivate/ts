@@ -94,6 +94,59 @@ async function main() {
         }
       }
     }
+    // translate zh to zh-Hant
+    for (let j = 0; j < 1; j++) {
+      const redditZhTitleFilePath = `i18n/i18next/zh/reddit-title-${year}.json`;
+      const zhTitle = require(`${githubWorkspace}/${redditZhTitleFilePath}`);
+
+      const redditZhExcerptFilePath = `i18n/i18next/zh/reddit-excerpt-${year}.json`;
+      const zhExcerpt = require(`${githubWorkspace}/${redditZhExcerptFilePath}`);
+      const zhTodoTranslatedFiles = [
+        {
+          sourceObj: zhTitle,
+          ns: `reddit-title-${year}`,
+        },
+        {
+          sourceObj: zhExcerpt,
+          ns: `reddit-excerpt-${year}`,
+        },
+      ];
+      const locale = "zh-Hant";
+      for (let h = 0; h < zhTodoTranslatedFiles.length; h++) {
+        const todoTranslatedFile = zhTodoTranslatedFiles[h];
+        const redditLocaleTitleFilePath = `i18n/i18next/${locale}/${todoTranslatedFile.ns}.json`;
+        const finalFile = `${githubWorkspace}/${redditLocaleTitleFilePath}`;
+        const ifLocaleFileExist = fsPure.existsSync(finalFile);
+        if (!ifLocaleFileExist) {
+          await fs.writeFile(finalFile, "{}");
+        }
+        const localeTitleJSON = await fs.readFile(finalFile, "utf8");
+        const localeTitle = JSON.parse(localeTitleJSON);
+        // check
+        const enKeys = Object.keys(todoTranslatedFile.sourceObj);
+        let isChanged = false;
+        for (let k = 0; k < enKeys.length; k++) {
+          const key = enKeys[k];
+          const value = todoTranslatedFile.sourceObj[key];
+          if (!localeTitle[key]) {
+            isChanged = true;
+            const data = await translate({
+              client,
+              sourceText: value,
+              source: "zh",
+              target: locale,
+            });
+            // request
+            localeTitle[key] = data.TargetText;
+          }
+        }
+        // if changed
+        if (isChanged) {
+          // write
+          await fs.writeFile(finalFile, JSON.stringify(localeTitle, null, 2));
+        }
+      }
+    }
   }
 }
 
@@ -144,6 +197,8 @@ module.exports = ({ text, lang = "zh" }) => {
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 const preTranslate = __webpack_require__(941);
+const OpenCC = __webpack_require__(19844);
+const converter = new OpenCC("s2t.json");
 
 module.exports = async ({
   client,
@@ -151,11 +206,23 @@ module.exports = async ({
   source = "en",
   target = "zh",
 }) => {
-  const preSourceText = preTranslate({
-    text: sourceText,
-    lang: target,
-  });
+  let preSourceText = sourceText;
+  if (source === "en") {
+    preSourceText = preTranslate({
+      text: sourceText,
+      lang: target,
+    });
+  }
+
   console.log("preSourceText", preSourceText);
+  if (source === "zh" && target === "zh-Hant") {
+    return converter.convertPromise(sourceText).then((converted) => {
+      console.log(converted); // 漢字
+      return {
+        TargetText: converted,
+      };
+    });
+  }
   const params = {
     SourceText: preSourceText,
     Source: source,
@@ -7228,6 +7295,143 @@ module.exports = function isArguments(value) {
 			toStr.call(value.callee) === '[object Function]';
 	}
 	return isArgs;
+};
+
+
+/***/ }),
+
+/***/ 19844:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+/**
+ * @file
+ * Node.js API.
+ *
+ * @license
+ * Open Chinese Convert
+ *
+ * Copyright 2010-2014 Carbo Kuo <byvoid@byvoid.com>
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+/**
+ * @defgroup node_api Node.js API
+ * 
+ * Node.js language binding
+ */
+
+const path = __webpack_require__(85622);
+const bindingPath = __webpack_require__.ab + "build/Release/opencc.node";
+const binding = __webpack_require__(41035);
+
+const assetsPath = __webpack_require__.ab + "Release";
+const getConfigPath = function (config) {
+  let configPath = config;
+  if (config[0] !== '/' && config[1] !== ':') {
+    // Resolve relative path
+    configPath = __webpack_require__.ab + "Release/" + config;
+  }
+  return configPath;
+};
+
+/**
+ * OpenCC Node.js API
+ *
+ * @class OpenCC
+ * @constructor
+ * @ingroup node_api
+ */
+const OpenCC = module.exports = function (config) {
+  if (!config) {
+    config = 's2t.json';
+  }
+  config = getConfigPath(config);
+  this.handler = new binding.Opencc(config);
+};
+
+// This is to support both CommonJS and ES module.
+OpenCC.OpenCC = OpenCC;
+
+/**
+ * The version of OpenCC library.
+ *
+ * @fn OpenCC.version
+ * @memberof OpenCC
+ * @ingroup node_api
+ */
+OpenCC.version = binding.Opencc.version();
+
+/**
+ * Generates dictionary from another format.
+ *
+ * @fn string generateDict(string inputFileName, string outputFileName, string formatFrom, string formatTo)
+ * @memberof OpenCC
+ * @param inputFileName Input dictionary filename.
+ * @param outputFileName Output dictionary filename.
+ * @param formatFrom Input dictionary format.
+ * @param formatTo Input dictionary format.
+ * @ingroup node_api
+ */
+OpenCC.generateDict = function (inputFileName, outputFileName,
+  formatFrom, formatTo) {
+  return binding.Opencc.generateDict(inputFileName, outputFileName,
+    formatFrom, formatTo);
+}
+
+/**
+ * Converts input text.
+ *
+ * @fn void convert(string input, function callback)
+ * @memberof OpenCC
+ * @param input Input text.
+ * @param callback Callback function(err, convertedText).
+ * @ingroup node_api
+ */
+OpenCC.prototype.convert = function (input, callback) {
+  return this.handler.convert(input.toString(), callback);
+};
+
+/**
+ * Converts input text.
+ *
+ * @fn string convertSync(string input)
+ * @memberof OpenCC
+ * @param input Input text.
+ * @return Converted text.
+ * @ingroup node_api
+ */
+OpenCC.prototype.convertSync = function (input) {
+  return this.handler.convertSync(input.toString());
+};
+
+/**
+ * Converts input text asynchronously and returns a Promise.
+ *
+ * @fn Promise convertPromise(string input)
+ * @memberof OpenCC
+ * @param input Input text.
+ * @return The Promise that will yield the converted text.
+ * @ingroup node_api
+ */
+OpenCC.prototype.convertPromise = function (input) {
+  const self = this;
+  return new Promise(function (resolve, reject) {
+    self.handler.convert(input.toString(), function (err, text) {
+      if (err) reject(err);
+      else resolve(text);
+    });
+  });
 };
 
 
@@ -50462,6 +50666,13 @@ exports.Client = Client;
  */
 Object.defineProperty(exports, "__esModule", ({ value: true }));
 
+
+/***/ }),
+
+/***/ 41035:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+module.exports = require(__webpack_require__.ab + "build/Release/opencc.node")
 
 /***/ }),
 

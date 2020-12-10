@@ -16,6 +16,23 @@ function translateTest() {
     });
 }
 
+function translateTr() {
+  translate({
+    secretId: process.env.TENCENT_TRANSLATION_SECRET_ID,
+    secretKey: process.env.TENCENT_TRANSLATION_SECRET_KEY,
+    source: "zh",
+    target: "zh-Hant",
+    sourceText:
+      "叶片在接近100%的湿度下旋转会产生低压气囊--字面意思是让它下雨。",
+  })
+    .catch((e) => {
+      console.error("e", e);
+    })
+    .then((data) => {
+      console.log("data", data);
+    });
+}
+
 function preTranslateTest() {
   const text = preTranslate({
     text: "[OP] TIL Hello world TIL",
@@ -23,4 +40,4 @@ function preTranslateTest() {
   console.log("text", text);
 }
 // preTranslateTest();
-translateTest();
+translateTr();

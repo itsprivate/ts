@@ -79,6 +79,59 @@ async function main() {
         }
       }
     }
+    // translate zh to zh-Hant
+    for (let j = 0; j < 1; j++) {
+      const redditZhTitleFilePath = `i18n/i18next/zh/reddit-title-${year}.json`;
+      const zhTitle = require(`${githubWorkspace}/${redditZhTitleFilePath}`);
+
+      const redditZhExcerptFilePath = `i18n/i18next/zh/reddit-excerpt-${year}.json`;
+      const zhExcerpt = require(`${githubWorkspace}/${redditZhExcerptFilePath}`);
+      const zhTodoTranslatedFiles = [
+        {
+          sourceObj: zhTitle,
+          ns: `reddit-title-${year}`,
+        },
+        {
+          sourceObj: zhExcerpt,
+          ns: `reddit-excerpt-${year}`,
+        },
+      ];
+      const locale = "zh-Hant";
+      for (let h = 0; h < zhTodoTranslatedFiles.length; h++) {
+        const todoTranslatedFile = zhTodoTranslatedFiles[h];
+        const redditLocaleTitleFilePath = `i18n/i18next/${locale}/${todoTranslatedFile.ns}.json`;
+        const finalFile = `${githubWorkspace}/${redditLocaleTitleFilePath}`;
+        const ifLocaleFileExist = fsPure.existsSync(finalFile);
+        if (!ifLocaleFileExist) {
+          await fs.writeFile(finalFile, "{}");
+        }
+        const localeTitleJSON = await fs.readFile(finalFile, "utf8");
+        const localeTitle = JSON.parse(localeTitleJSON);
+        // check
+        const enKeys = Object.keys(todoTranslatedFile.sourceObj);
+        let isChanged = false;
+        for (let k = 0; k < enKeys.length; k++) {
+          const key = enKeys[k];
+          const value = todoTranslatedFile.sourceObj[key];
+          if (!localeTitle[key]) {
+            isChanged = true;
+            const data = await translate({
+              client,
+              sourceText: value,
+              source: "zh",
+              target: locale,
+            });
+            // request
+            localeTitle[key] = data.TargetText;
+          }
+        }
+        // if changed
+        if (isChanged) {
+          // write
+          await fs.writeFile(finalFile, JSON.stringify(localeTitle, null, 2));
+        }
+      }
+    }
   }
 }
 
