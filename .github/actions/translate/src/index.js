@@ -3,6 +3,7 @@ const tencentcloud = require("tencentcloud-sdk-nodejs");
 const path = require("path");
 const fsPure = require("fs");
 const fs = fsPure.promises;
+const translate = require("./translate");
 const githubWorkspace =
   process.env.GITHUB_WORKSPACE || path.resolve(__dirname, "../../../../");
 async function main() {
@@ -61,20 +62,12 @@ async function main() {
           const value = todoTranslatedFile.sourceObj[key];
           if (!localeTitle[key]) {
             isChanged = true;
-            const params = {
-              SourceText: value,
-              Source: "en",
-              Target: locale,
-              ProjectId: 0,
-            };
-            // special word not translate
-            if (key.startsWith("TIL ")) {
-              params.UntranslatedText = "TIL";
-            }
-            const data = await client.TextTranslate(params);
-            if (key.startsWith("TIL ")) {
-              data.TargetText.replace("TIL", "");
-            }
+            const data = await translate({
+              client,
+              sourceText: value,
+              source: "en",
+              target: locale,
+            });
             // request
             localeTitle[key] = data.TargetText;
           }
