@@ -101,6 +101,13 @@ async function main() {
 
       const redditZhExcerptFilePath = `i18n/i18next/zh/reddit-excerpt-${year}.json`;
       const zhExcerpt = require(`${githubWorkspace}/${redditZhExcerptFilePath}`);
+
+      const redditZhTagFilePath = `i18n/i18next/zh/translation-tag.json`;
+      const zhTagTitle = require(`${githubWorkspace}/${redditZhTagFilePath}`);
+
+      const redditZhCommonFilePath = `i18n/i18next/zh/translation.json`;
+      const zhCommon = require(`${githubWorkspace}/${redditZhCommonFilePath}`);
+
       const zhTodoTranslatedFiles = [
         {
           sourceObj: zhTitle,
@@ -109,6 +116,14 @@ async function main() {
         {
           sourceObj: zhExcerpt,
           ns: `reddit-excerpt-${year}`,
+        },
+        {
+          sourceObj: zhTagTitle,
+          ns: `translation-tag`,
+        },
+        {
+          sourceObj: zhCommon,
+          ns: `translation`,
         },
       ];
       const locale = "zh-Hant";
