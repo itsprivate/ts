@@ -60,7 +60,7 @@ async function main() {
         for (let k = 0; k < enKeys.length; k++) {
           const key = enKeys[k];
           const value = todoTranslatedFile.sourceObj[key];
-          if (!localeTitle[key]) {
+          if (value && localeTitle[key] === undefined) {
             isChanged = true;
             const data = await translate({
               client,
@@ -128,7 +128,7 @@ async function main() {
         for (let k = 0; k < enKeys.length; k++) {
           const key = enKeys[k];
           const value = todoTranslatedFile.sourceObj[key];
-          if (!localeTitle[key]) {
+          if (value && localeTitle[key] === undefined) {
             isChanged = true;
             const data = await translate({
               client,

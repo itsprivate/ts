@@ -25,6 +25,11 @@ module.exports = async ({
       };
     });
   }
+  if (!preSourceText) {
+    return {
+      TargetText: preSourceText,
+    };
+  }
   const params = {
     SourceText: preSourceText,
     Source: source,
