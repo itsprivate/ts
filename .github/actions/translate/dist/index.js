@@ -6,7 +6,7 @@ module.exports =
 /***/ ((module) => {
 
 "use strict";
-module.exports = JSON.parse("{\"TIL\":\"[今天我学到了]\",\"OP\":\"原创\"}");
+module.exports = JSON.parse("{\"TIL\":\"[今天我学到了]\",\"[OC]\":\"[原创]\",\"(OC)\":\"(原创)\"}");
 
 /***/ }),
 
