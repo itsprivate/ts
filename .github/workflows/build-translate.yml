@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - ".github/actions/translate"
+      - ".github/actions/translate/src/**"
 jobs:
   run:
     runs-on: ubuntu-latest
