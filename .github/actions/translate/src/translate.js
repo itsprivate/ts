@@ -16,10 +16,8 @@ module.exports = async ({
     });
   }
 
-  console.log("preSourceText", preSourceText);
   if (source === "zh" && target === "zh-Hant") {
     return converter.convertPromise(sourceText).then((converted) => {
-      console.log(converted); // 漢字
       return {
         TargetText: converted,
       };

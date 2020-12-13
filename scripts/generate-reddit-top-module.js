@@ -2,7 +2,7 @@ const path = require("path");
 const fsPure = require("fs");
 const fs = fsPure.promises;
 
-async function main() {
+async function main({ dest = "./data/reddit-top" } = {}) {
   const outputs = require(`${process.env.GITHUB_WORKSPACE}/${process.env.OUTPUTS_PATH}`);
   const items = outputs;
   console.log(`There are ${items.length} items.`);
@@ -14,7 +14,7 @@ async function main() {
     if (link && link.endsWith("/")) {
       link = link.slice(0, -1);
     }
-    const redditFilePath = `./data/reddit-top${link}.json`;
+    const redditFilePath = path.join(dest, `${link}.json`);
     // is exist
     const isRedditFileExist = fsPure.existsSync(redditFilePath);
     let createdAt = new Date();
