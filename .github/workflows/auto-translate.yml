@@ -5,8 +5,8 @@ on:
   #   branches:
   #     - main
   #   paths:
-  #     - "i18n/i18next/en/reddit-title*.json"
-  #     - "i18n/i18next/en/reddit-excerpt*.json"
+  #     - "i18n/i18next/zh/translation-tag*.json"
+  #     - "i18n/post-resource/en/*.json"
 jobs:
   auto-translate:
     runs-on: ubuntu-latest
@@ -18,6 +18,13 @@ jobs:
         with:
           secret_id: ${{ secrets.TENCENT_TRANSLATION_SECRET_ID }}
           secret_key: ${{ secrets.TENCENT_TRANSLATION_SECRET_KEY }}
+      - name: Sync to source
+        uses: actions/github-script@v3
+        with:
+          script: |
+            const syncResource = require(`${process.env.GITHUB_WORKSPACE}/scripts/sync-i18n-resource-module.js`)
+            await syncResource()
+            return true
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
         with:
