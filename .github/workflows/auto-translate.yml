@@ -1,12 +1,12 @@
 name: Auto translate
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - main
-    paths:
-      - "i18n/i18next/en/reddit-title*.json"
-      - "i18n/i18next/en/reddit-excerpt*.json"
+  # push:
+  #   branches:
+  #     - main
+  #   paths:
+  #     - "i18n/i18next/en/reddit-title*.json"
+  #     - "i18n/i18next/en/reddit-excerpt*.json"
 jobs:
   auto-translate:
     runs-on: ubuntu-latest

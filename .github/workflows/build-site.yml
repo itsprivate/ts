@@ -1,12 +1,12 @@
 name: Build Site
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - main
-    paths:
-      - "content/**"
-      - "i18n/i18next/zh/**"
+  # push:
+  #   branches:
+  #     - main
+  #   paths:
+  #     - "content/**"
+  #     - "i18n/i18next/zh/**"
 jobs:
   run:
     runs-on: ubuntu-latest

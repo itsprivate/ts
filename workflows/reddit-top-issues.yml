@@ -39,7 +39,7 @@ jobs:
             return true
       - name: Create Pull Request
         uses: theowenyoung/create-pull-request@master
-        if: true
+        if: env.ACTIONS_LOCAL!='true'
         with:
           token: ${{ secrets.PERSONAL_TOKEN }}
           commit-message: "chore: new item"

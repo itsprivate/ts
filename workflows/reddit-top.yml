@@ -39,7 +39,7 @@ jobs:
             await generateSources()
             return true
       - name: Create Pull Request
-        if: true
+        if: env.ACTIONS_LOCAL!='true'
         uses: theowenyoung/create-pull-request@master
         with:
           token: ${{ secrets.PERSONAL_TOKEN }}
