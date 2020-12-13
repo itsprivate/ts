@@ -49,7 +49,9 @@
     "gid_2": 1
   },
   "post_hint": "image",
-  "content_categories": ["photography"],
+  "content_categories": [
+    "photography"
+  ],
   "is_self": false,
   "mod_note": null,
   "created": 1606677014,
@@ -144,5 +146,13 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1606648214,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "i18nResource": {
+    "zh": {
+      "title": "我打扮得漂漂亮亮地和我的猫拍了一张迷人的照片。"
+    },
+    "zh-Hant": {
+      "title": "我打扮得漂漂亮亮地和我的貓拍了壹張迷人的照片。"
+    }
+  }
 }

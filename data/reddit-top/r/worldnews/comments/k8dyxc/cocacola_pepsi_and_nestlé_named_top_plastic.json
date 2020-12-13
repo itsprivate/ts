@@ -122,7 +122,9 @@
   "spoiler": false,
   "locked": false,
   "author_flair_text": null,
-  "treatment_tags": ["econ:render:lottie:redstar"],
+  "treatment_tags": [
+    "econ:render:lottie:redstar"
+  ],
   "visited": false,
   "removed_by": null,
   "num_reports": null,
@@ -153,5 +155,13 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "original_created_utc": 1607335801
+  "original_created_utc": 1607335801,
+  "i18nResource": {
+    "zh": {
+      "title": "可口可乐、百事可乐和雀巢连续第三年被评为最大的塑料污染源"
+    },
+    "zh-Hant": {
+      "title": "可口可樂、百事可樂和雀巢連續第三年被評為最大的塑料汙染源"
+    }
+  }
 }

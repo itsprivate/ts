@@ -125,7 +125,9 @@
   "spoiler": false,
   "locked": false,
   "author_flair_text": null,
-  "treatment_tags": ["econ:render:lottie:bulb"],
+  "treatment_tags": [
+    "econ:render:lottie:bulb"
+  ],
   "visited": false,
   "removed_by": null,
   "num_reports": null,
@@ -156,5 +158,13 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "original_created_utc": 1607399145
+  "original_created_utc": 1607399145,
+  "i18nResource": {
+    "zh": {
+      "title": "看看你有趣的新号码"
+    },
+    "zh-Hant": {
+      "title": "看看妳有趣的新號碼"
+    }
+  }
 }

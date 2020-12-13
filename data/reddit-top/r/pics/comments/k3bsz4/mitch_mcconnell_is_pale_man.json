@@ -48,7 +48,9 @@
     "gid_1": 32
   },
   "post_hint": "image",
-  "content_categories": ["photography"],
+  "content_categories": [
+    "photography"
+  ],
   "is_self": false,
   "mod_note": null,
   "created": 1606694703,
@@ -154,5 +156,13 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1606665903,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "i18nResource": {
+    "zh": {
+      "title": "米奇·麦康奈尔(Mitch McConnell)是苍白的人"
+    },
+    "zh-Hant": {
+      "title": "米奇·麥康奈爾(Mitch McConnell)是蒼白的人"
+    }
+  }
 }

@@ -50,7 +50,9 @@
     "gid_3": 1
   },
   "post_hint": "image",
-  "content_categories": ["photography"],
+  "content_categories": [
+    "photography"
+  ],
   "is_self": false,
   "mod_note": null,
   "created": 1605251597,
@@ -154,5 +156,13 @@
   "num_crossposts": 5,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "i18nResource": {
+    "zh": {
+      "title": "我的老兵爸爸！18岁对77岁！"
+    },
+    "zh-Hant": {
+      "title": "我的老兵爸爸！18歲對77歲！"
+    }
+  }
 }

@@ -125,7 +125,9 @@
   "spoiler": false,
   "locked": false,
   "author_flair_text": null,
-  "treatment_tags": ["econ:render:lottie:cutie"],
+  "treatment_tags": [
+    "econ:render:lottie:cutie"
+  ],
   "visited": false,
   "removed_by": null,
   "num_reports": null,
@@ -169,5 +171,13 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "original_created_utc": 1607346831
+  "original_created_utc": 1607346831,
+  "i18nResource": {
+    "zh": {
+      "title": "在家工作举步维艰"
+    },
+    "zh-Hant": {
+      "title": "在家工作舉步維艱"
+    }
+  }
 }

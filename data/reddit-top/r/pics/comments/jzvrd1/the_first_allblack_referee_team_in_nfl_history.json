@@ -49,7 +49,9 @@
     "gid_2": 3
   },
   "post_hint": "image",
-  "content_categories": ["photography"],
+  "content_categories": [
+    "photography"
+  ],
   "is_self": false,
   "mod_note": null,
   "created": 1606211871,
@@ -143,5 +145,13 @@
   "num_crossposts": 7,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "i18nResource": {
+    "zh": {
+      "title": "今晚，NFL历史上第一支全黑人裁判队伍"
+    },
+    "zh-Hant": {
+      "title": "今晚，NFL歷史上第壹支全黑人裁判隊伍"
+    }
+  }
 }

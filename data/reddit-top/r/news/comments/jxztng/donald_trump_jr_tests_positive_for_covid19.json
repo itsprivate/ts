@@ -123,7 +123,9 @@
   "spoiler": false,
   "locked": true,
   "author_flair_text": "Does not answer PMs",
-  "treatment_tags": ["econ:render:lottie:sunny2"],
+  "treatment_tags": [
+    "econ:render:lottie:sunny2"
+  ],
   "visited": false,
   "removed_by": null,
   "num_reports": null,
@@ -153,5 +155,13 @@
   "num_crossposts": 3,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "i18nResource": {
+    "zh": {
+      "title": "小唐纳德·特朗普(Donald Trump Jr.)冠状病毒测试呈阳性"
+    },
+    "zh-Hant": {
+      "title": "小唐納德·特朗普(Donald Trump Jr.)冠狀病毒測試呈陽性"
+    }
+  }
 }

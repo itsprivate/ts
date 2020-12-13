@@ -48,7 +48,9 @@
     "gid_1": 13
   },
   "post_hint": "image",
-  "content_categories": ["photography"],
+  "content_categories": [
+    "photography"
+  ],
   "is_self": false,
   "mod_note": null,
   "created": 1605468297,
@@ -142,5 +144,13 @@
   "num_crossposts": 9,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "i18nResource": {
+    "zh": {
+      "title": "从布什到奥巴马过渡的画面"
+    },
+    "zh-Hant": {
+      "title": "從布什到奧巴馬過渡的畫面"
+    }
+  }
 }

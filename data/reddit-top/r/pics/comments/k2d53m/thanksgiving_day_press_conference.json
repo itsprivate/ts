@@ -49,7 +49,9 @@
     "gid_2": 2
   },
   "post_hint": "image",
-  "content_categories": ["photography"],
+  "content_categories": [
+    "photography"
+  ],
   "is_self": false,
   "mod_note": null,
   "created": 1606551947,
@@ -155,5 +157,13 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1606523147,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "i18nResource": {
+    "zh": {
+      "title": "感恩节新闻发布会"
+    },
+    "zh-Hant": {
+      "title": "感恩節新聞發布會"
+    }
+  }
 }

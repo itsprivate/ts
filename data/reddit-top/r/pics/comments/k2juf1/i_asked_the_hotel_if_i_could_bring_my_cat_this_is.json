@@ -48,7 +48,9 @@
     "gid_1": 32
   },
   "post_hint": "image",
-  "content_categories": ["photography"],
+  "content_categories": [
+    "photography"
+  ],
   "is_self": false,
   "mod_note": null,
   "created": 1606578827,
@@ -143,5 +145,13 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1606550027,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "i18nResource": {
+    "zh": {
+      "title": "我问酒店能不能带我的猫来。这就是我们要去的地方。"
+    },
+    "zh-Hant": {
+      "title": "我問酒店能不能帶我的貓來。這就是我們要去的地方。"
+    }
+  }
 }

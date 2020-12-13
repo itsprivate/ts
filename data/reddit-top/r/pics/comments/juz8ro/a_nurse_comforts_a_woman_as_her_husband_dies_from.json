@@ -49,7 +49,9 @@
     "gid_2": 3
   },
   "post_hint": "image",
-  "content_categories": ["photography"],
+  "content_categories": [
+    "photography"
+  ],
   "is_self": false,
   "mod_note": null,
   "created": 1605524393,
@@ -153,5 +155,13 @@
   "num_crossposts": 14,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "i18nResource": {
+    "zh": {
+      "title": "一名护士在ICU安慰一名妇女，因为她的丈夫死于冠状病毒。"
+    },
+    "zh-Hant": {
+      "title": "壹名護士在ICU安慰壹名婦女，因為她的丈夫死於冠狀病毒。"
+    }
+  }
 }

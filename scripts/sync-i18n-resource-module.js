@@ -13,11 +13,14 @@ async function main({ dest = "./i18n/post-resource" } = {}) {
   console.log("\n");
   for (let a = 0; a < dirents.length; a++) {
     const locale = dirents[a];
+    if (locale.startsWith(".")) {
+      continue;
+    }
     if (locale === "en") {
       continue;
     }
     console.log("locale", locale);
-    const files = await getFiles(resolve(absoluteDest, locale));
+    const files = await getFiles(resolve(absoluteDest, locale), ".json");
     console.log(`There are ${files.length} files.`);
 
     for (let i = 0; i < files.length; i++) {
@@ -65,15 +68,24 @@ async function main({ dest = "./i18n/post-resource" } = {}) {
 
   return true;
 }
-async function getFiles(dir) {
+async function getFiles(dir, ext) {
   const dirents = await readdir(dir, { withFileTypes: true });
   const files = await Promise.all(
     dirents.map((dirent) => {
       const res = resolve(dir, dirent.name);
-      return dirent.isDirectory() ? getFiles(res) : relative(CWD, res);
+      const relativePath = relative(CWD, res);
+      return dirent.isDirectory() ? getFiles(res) : relativePath;
     })
   );
-  return Array.prototype.concat(...files);
+  return Array.prototype.concat(...files).filter((item) => {
+    console.log("item", item);
+
+    if (ext) {
+      return path.extname(item) === ext;
+    } else {
+      return true;
+    }
+  });
 }
 
 module.exports = main;

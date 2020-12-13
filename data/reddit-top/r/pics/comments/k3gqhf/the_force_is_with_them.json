@@ -49,7 +49,9 @@
     "gid_2": 2
   },
   "post_hint": "image",
-  "content_categories": ["photography"],
+  "content_categories": [
+    "photography"
+  ],
   "is_self": false,
   "mod_note": null,
   "created": 1606710899,
@@ -154,5 +156,13 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1606682099,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "i18nResource": {
+    "zh": {
+      "title": "原力与他们同在"
+    },
+    "zh-Hant": {
+      "title": "原力與他們同在"
+    }
+  }
 }

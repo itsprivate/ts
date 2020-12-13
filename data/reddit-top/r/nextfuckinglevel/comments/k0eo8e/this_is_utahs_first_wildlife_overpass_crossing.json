@@ -135,7 +135,9 @@
   "spoiler": false,
   "locked": false,
   "author_flair_text": null,
-  "treatment_tags": ["econ:render:lottie:cutie"],
+  "treatment_tags": [
+    "econ:render:lottie:cutie"
+  ],
   "visited": false,
   "removed_by": null,
   "num_reports": null,
@@ -178,5 +180,13 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "i18nResource": {
+    "zh": {
+      "title": "这是犹他州第一个用车辆避险的野生动物立交桥。"
+    },
+    "zh-Hant": {
+      "title": "這是猶他州第壹個用車輛避險的野生動物立交橋。"
+    }
+  }
 }

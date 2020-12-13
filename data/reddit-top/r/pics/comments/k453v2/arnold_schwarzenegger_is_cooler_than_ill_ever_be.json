@@ -48,7 +48,9 @@
     "gid_1": 8
   },
   "post_hint": "image",
-  "content_categories": ["photography"],
+  "content_categories": [
+    "photography"
+  ],
   "is_self": false,
   "mod_note": null,
   "created": 1606798789,
@@ -143,5 +145,13 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1606769989,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "i18nResource": {
+    "zh": {
+      "title": "阿诺德·施瓦辛格比我更酷"
+    },
+    "zh-Hant": {
+      "title": "阿諾德·施瓦辛格比我更酷"
+    }
+  }
 }
