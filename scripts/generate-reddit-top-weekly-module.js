@@ -63,7 +63,10 @@ async function main() {
       if (lastIssueDraft && now >= lastIssueEndedAt) {
         // change draft flag
         lastIssue.draft = false;
-        await fs.writeFile(lastIssueFilePath, JSON.stringify(lastIssue));
+        await fs.writeFile(
+          lastIssueFilePath,
+          JSON.stringify(lastIssue, null, 2)
+        );
       }
     }
   }
