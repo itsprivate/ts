@@ -56,7 +56,7 @@ async function main() {
       let isChanged = false;
       for (let k = 0; k < enKeys.length; k++) {
         const key = enKeys[k];
-        const value = targetObj[key];
+        const value = enSourceObj[key];
         if (value && targetObj[key] === undefined) {
           isChanged = true;
           const data = await translate({
