@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - "i18n/i18next/zh/translation-tag*.json"
+      - "i18n/i18next/zh/translation*.json"
       - "i18n/post-resource/en/*.json"
 jobs:
   auto-translate:

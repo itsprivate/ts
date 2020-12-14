@@ -2,7 +2,7 @@ const path = require("path");
 const fsPure = require("fs");
 const fs = fsPure.promises;
 
-async function main({ dest = "data/reddit-top" } = {}) {
+async function main({ dest = "data/reddit-top", name = "reddit-top" } = {}) {
   const outputs = require(`${process.env.GITHUB_WORKSPACE}/${process.env.OUTPUTS_PATH}`);
   const items = outputs;
   console.log(`There are ${items.length} items.`);
@@ -41,8 +41,8 @@ async function main({ dest = "data/reddit-top" } = {}) {
     const utcYear = createdAt.getUTCFullYear();
     const utcMonth = createdAt.getUTCMonth() + 1;
     const addZeroUtcMonth = utcMonth < 10 ? `0${utcMonth}` : `${utcMonth}`;
-    const titleLocaleFileName = `reddit_--_title_--_${utcYear}_--_${addZeroUtcMonth}.json`;
-    const excerptLocaleFileName = `reddit_--_the_new_excerpt_--_${utcYear}_--_${addZeroUtcMonth}.json`;
+    const titleLocaleFileName = `reddit_--_${name}_--_title_--_${utcYear}_--_${addZeroUtcMonth}.json`;
+    const excerptLocaleFileName = `reddit_--_${name}_--_the_new_excerpt_--_${utcYear}_--_${addZeroUtcMonth}.json`;
     const filePath = `./i18n/post-resource/${locale}/${titleLocaleFileName}`;
     const excerptFilePath = `./i18n/post-resource/${locale}/${excerptLocaleFileName}`;
     const tagFilePath = `./i18n/i18next/${locale}/translation-tag.json`;
