@@ -50,7 +50,7 @@ async function main({ dest = "./i18n/post-resource" } = {}) {
           sourceObj.i18nResource[locale] = {};
           isChanged = true;
         }
-        if (sourceObj.i18nResource[locale][field] === undefined) {
+        if (sourceObj.i18nResource[locale][field] !== text) {
           sourceObj.i18nResource[locale][field] = text;
           isChanged = true;
         }
