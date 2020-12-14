@@ -34,10 +34,10 @@ async function main() {
       const sourceFile = sourceFiles[j];
       const sourceFilename = basename(sourceFile, ".json");
       const filenameArr = sourceFilename.split("_--_");
-      if (filenameArr.length < 4) {
+      if (filenameArr.length < 5) {
         throw new Error(`file name invalid: ${sourceFile}`);
       }
-      const field = filenameArr[1];
+      const field = filenameArr[2];
       // TODO
       const sourceFileContent = await readFile(
         resolve(__dirname, "../", sourceFile),

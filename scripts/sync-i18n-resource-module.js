@@ -29,8 +29,7 @@ async function main({ dest = "./i18n/post-resource" } = {}) {
       if (filenameArr.length < 4) {
         throw new Error(`file name invalid: ${file}`);
       }
-      const fileType = filenameArr[0];
-      const field = filenameArr[1];
+      const field = filenameArr[2];
 
       const jsonPath = resolve(CWD, file);
       const jsonContent = await readFile(jsonPath, "utf8");

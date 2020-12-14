@@ -7,7 +7,7 @@ on:
     paths:
       - "content/**"
       - "i18n/i18next/zh/**"
-      - "i18n/post-resource/zh/**"
+      - "i18n/post-resource/zh/reddit_--_reddit-top*.json"
 jobs:
   run:
     runs-on: ubuntu-latest

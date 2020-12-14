@@ -16,8 +16,8 @@ async function main() {
     const utcYear = createdAt.getUTCFullYear();
     const utcMonth = createdAt.getUTCMonth() + 1;
     const addZeroUtcMonth = utcMonth < 10 ? `0${utcMonth}` : `${utcMonth}`;
-    const titleLocaleFileName = `reddit_--_title_--_${utcYear}_--_${addZeroUtcMonth}.json`;
-    const excerptLocaleFileName = `reddit_--_the_new_excerpt_--_${utcYear}_--_${addZeroUtcMonth}.json`;
+    const titleLocaleFileName = `reddit_--_reddit-top_--_title_--_${utcYear}_--_${addZeroUtcMonth}.json`;
+    const excerptLocaleFileName = `reddit_--_reddit-top_--_the_new_excerpt_--_${utcYear}_--_${addZeroUtcMonth}.json`;
     if (!allLocaleFiles[titleLocaleFileName]) {
       allLocaleFiles[titleLocaleFileName] = {};
     }
