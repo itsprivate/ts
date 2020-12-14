@@ -1,0 +1,54 @@
+on:
+  reddit:
+    url:
+      - https://www.reddit.com/r/stocks/top/
+      - https://www.reddit.com/r/investing/top/
+    # url: https://www.reddit.com/r/all/top/
+    source: json
+    config:
+      # limit: 2
+      # force: true
+      outputsMode: combine
+      exportOutputs: true
+      filterScript: |
+        if(item.score>100){
+          return true
+        }
+      format: |
+        delete item.all_awardings
+        return item
+    requestConfig:
+      params:
+        raw_json: 1
+jobs:
+  save:
+    name: save to json
+    runs-on: ubuntu-latest
+    steps:
+      - name: Format reddit JSON
+        env:
+          OUTPUTS_PATH: ${{ on.reddit.outputs.path }}
+        uses: ./.github/actions/format
+        with:
+          function: reddit
+      - name: Create Reddit JSON
+        uses: actions/github-script@v2
+        env:
+          OUTPUTS_PATH: ${{ on.reddit.outputs.path }}
+        with:
+          script: |
+            const generateSources = require(`${process.env.GITHUB_WORKSPACE}/scripts/generate-reddit-top-module.js`)
+            await generateSources({
+              dest:"./data/reddit-stocks",
+              name:"reddit-stocks"
+            })
+            return true
+      - name: Create Pull Request
+        if: env.ACTIONS_LOCAL!='true'
+        uses: theowenyoung/create-pull-request@master
+        with:
+          token: ${{ secrets.PERSONAL_TOKEN }}
+          commit-message: "chore: new item"
+          branch: new-item
+          delete-branch: true
+          title: New item update
