@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Merge
-        if: (github.actor=='theowenyoung' || github.actor=='imprivate') && (github.head_ref=='l10n_main' || github.head_ref=='i18n-auto-translation' || github.head_ref=='new-item' || github.head_ref=='new-issue-item')
+        if: (github.actor=='theowenyoung' || github.actor=='imprivate') && (github.head_ref=='l10n_main' || github.head_ref=='i18n-auto-translation' || startsWith(github.head_ref,'new-item') || github.head_ref=='new-issue-item')
         uses: KeisukeYamashita/auto-pull-request-merge@v1
         with:
           intervalSeconds: 10

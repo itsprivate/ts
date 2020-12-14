@@ -49,6 +49,6 @@ jobs:
         with:
           token: ${{ secrets.PERSONAL_TOKEN }}
           commit-message: "chore: new item"
-          branch: new-item
+          branch: new-item-with-reddit-stocks
           delete-branch: true
           title: New item update
