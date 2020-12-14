@@ -38,7 +38,6 @@ async function main() {
     for (let j = 0; j < locales.length; j++) {
       const locale = locales[j];
       const targetFilePath = `i18n/post-resource/${locale}/${filename}.json`;
-      console.log("targetFilePath", filename, targetFilePath);
 
       const targetAbsoluteFilePath = path.resolve(
         githubWorkspace,
