@@ -2,7 +2,7 @@ const path = require("path");
 const fsPure = require("fs");
 const fs = fsPure.promises;
 
-async function main({ dest = "./data/reddit-top" } = {}) {
+async function main({ dest = "data/reddit-top" } = {}) {
   const outputs = require(`${process.env.GITHUB_WORKSPACE}/${process.env.OUTPUTS_PATH}`);
   const items = outputs;
   console.log(`There are ${items.length} items.`);
@@ -33,43 +33,28 @@ async function main({ dest = "./data/reddit-top" } = {}) {
         return fs.writeFile(redditFilePath, JSON.stringify(item, null, 2));
       });
     console.log(`Write reddit json ${redditFilePath} success.`);
-    const utcYear = createdAt.getUTCFullYear();
     const title = item.title;
     const id = item.id;
     const excerpt = item.the_new_excerpt;
     const tags = [item.subreddit];
     const locale = "en";
-
-    const filePath = `./i18n/i18next/${locale}/reddit-title-${utcYear}.json`;
-    const nextYearFilePath = `./i18n/i18next/${locale}/reddit-title-${
-      utcYear + 1
-    }.json`;
-
-    const excerptFilePath = `./i18n/i18next/${locale}/reddit-excerpt-${utcYear}.json`;
-    const nextYearExcerptFilePath = `./i18n/i18next/${locale}/reddit-excerpt-${
-      utcYear + 1
-    }.json`;
-
+    const utcYear = createdAt.getUTCFullYear();
+    const utcMonth = createdAt.getUTCMonth() + 1;
+    const addZeroUtcMonth = utcMonth < 10 ? `0${utcMonth}` : `${utcMonth}`;
+    const titleLocaleFileName = `reddit_--_title_--_${utcYear}_--_${addZeroUtcMonth}.json`;
+    const excerptLocaleFileName = `reddit_--_the_new_excerpt_--_${utcYear}_--_${addZeroUtcMonth}.json`;
+    const filePath = `./i18n/post-resource/${locale}/${titleLocaleFileName}`;
+    const excerptFilePath = `./i18n/post-resource/${locale}/${excerptLocaleFileName}`;
     const tagFilePath = `./i18n/i18next/${locale}/translation-tag.json`;
 
     const isExist = fsPure.existsSync(filePath);
     if (!isExist) {
       await fs.writeFile(filePath, "{}");
     }
-    const isNextYearExist = fsPure.existsSync(nextYearFilePath);
-    if (!isNextYearExist) {
-      await fs.writeFile(nextYearFilePath, "{}");
-    }
-
     const isExcerptExist = fsPure.existsSync(excerptFilePath);
     if (!isExcerptExist) {
       await fs.writeFile(excerptFilePath, "{}");
     }
-    const isExcerptNextYearExist = fsPure.existsSync(nextYearExcerptFilePath);
-    if (!isExcerptNextYearExist) {
-      await fs.writeFile(nextYearExcerptFilePath, "{}");
-    }
-
     const isTagFileExist = fsPure.existsSync(tagFilePath);
     if (!isTagFileExist) {
       await fs.writeFile(tagFilePath, "{}");
@@ -77,14 +62,14 @@ async function main({ dest = "./data/reddit-top" } = {}) {
 
     const localeJson = await fs.readFile(filePath, "utf8");
     const localeObj = JSON.parse(localeJson);
-    localeObj[title] = title;
+    localeObj[redditFilePath] = title;
     // write
     await fs.writeFile(filePath, JSON.stringify(localeObj, null, 2));
     console.log(`Write ${filePath} success`);
 
     const localeExcerptJson = await fs.readFile(excerptFilePath, "utf8");
     const localeExcerptObj = JSON.parse(localeExcerptJson);
-    localeExcerptObj[id] = excerpt;
+    localeExcerptObj[redditFilePath] = excerpt;
     // write excerpt
     await fs.writeFile(
       excerptFilePath,
