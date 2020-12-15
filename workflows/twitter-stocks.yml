@@ -7,14 +7,16 @@ on:
       access_token: ${{ secrets.TWITTER_ACCESS_TOKEN }}
       access_token_secret: ${{ secrets.TWITTER_ACCESS_SECRET }}
     params:
-      count: 200
-      screen_name: charliebilello
+      - count: 200
+        screen_name: charliebilello
+      - count: 200
+        screen_name: Stocktwits
     config:
       exportOutputs: true
       outputsMode: combine
       filterScript: |
         const score = item.retweet_count*2 +item.favorite_count;
-        if(score>1000){
+        if(score>600){
           return true
         }
 jobs:
