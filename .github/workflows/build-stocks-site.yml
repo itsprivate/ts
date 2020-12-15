@@ -17,5 +17,5 @@ jobs:
         uses: peter-evans/repository-dispatch@v1
         with:
           token: ${{ secrets.PERSONAL_TOKEN }}
-          repository: itsprivate/rt
+          repository: itsprivate/rs
           event-type: redeploy
