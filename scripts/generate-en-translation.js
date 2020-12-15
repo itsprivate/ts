@@ -5,7 +5,8 @@ const fsPure = require("fs");
 const fs = fsPure.promises;
 const { readdir, readFile, writeFile } = fs;
 async function main() {
-  const files = await getFiles(resolve(__dirname, "../data/reddit-top"));
+  const folder = "reddit-stocks";
+  const files = await getFiles(resolve(__dirname, `../data/${folder}`));
   const jsonFiles = micromatch(files, "**/*.json");
   const allLocaleFiles = {};
   for (let i = 0; i < jsonFiles.length; i++) {
@@ -16,8 +17,8 @@ async function main() {
     const utcYear = createdAt.getUTCFullYear();
     const utcMonth = createdAt.getUTCMonth() + 1;
     const addZeroUtcMonth = utcMonth < 10 ? `0${utcMonth}` : `${utcMonth}`;
-    const titleLocaleFileName = `reddit_--_reddit-top_--_title_--_${utcYear}_--_${addZeroUtcMonth}.json`;
-    const excerptLocaleFileName = `reddit_--_reddit-top_--_the_new_excerpt_--_${utcYear}_--_${addZeroUtcMonth}.json`;
+    const titleLocaleFileName = `reddit_--_${folder}_--_title_--_${utcYear}_--_${addZeroUtcMonth}.json`;
+    const excerptLocaleFileName = `reddit_--_${folder}_--_the_new_excerpt_--_${utcYear}_--_${addZeroUtcMonth}.json`;
     if (!allLocaleFiles[titleLocaleFileName]) {
       allLocaleFiles[titleLocaleFileName] = {};
     }
