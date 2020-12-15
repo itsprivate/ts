@@ -11,6 +11,14 @@ on:
         screen_name: charliebilello
       - count: 200
         screen_name: Stocktwits
+      - count: 200
+        screen_name: MarketWatch
+      - count: 200
+        screen_name: The_Real_Fly
+      - count: 200
+        screen_name: awealthofcs
+      - count: 200
+        screen_name: michaelbatnick
     config:
       exportOutputs: true
       outputsMode: combine
