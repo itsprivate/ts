@@ -20,6 +20,7 @@ on:
       - count: 200
         screen_name: michaelbatnick
     config:
+      every: "35 * * * *"
       exportOutputs: true
       outputsMode: combine
       filterScript: |
