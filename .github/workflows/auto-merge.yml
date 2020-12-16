@@ -8,8 +8,7 @@ jobs:
     steps:
       - name: Merge
         if: (github.actor=='theowenyoung' || github.actor=='imprivate') && (github.head_ref=='l10n_main' || github.head_ref=='i18n-auto-translation' || startsWith(github.head_ref,'new-item') || github.head_ref=='new-issue-item')
-        uses: KeisukeYamashita/auto-pull-request-merge@v1
-        with:
-          intervalSeconds: 10
-          timeoutSeconds: 30
-          token: ${{ secrets.PERSONAL_TOKEN }}
+        uses: "pascalgn/automerge-action@v0.12.0"
+        env:
+          GITHUB_TOKEN: "${{ secrets.PERSONAL_TOKEN }}"
+          MERGE_DELETE_BRANCH: true
