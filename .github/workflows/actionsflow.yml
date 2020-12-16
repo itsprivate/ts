@@ -24,6 +24,8 @@ jobs:
         run: act --workflows ./dist/workflows --secret-file ./dist/.secrets --eventpath ./dist/event.json --env-file ./dist/.env -P ubuntu-latest=actionsflow/act-environment:v1 -P ubuntu-18.04=actionsflow/act-environment:v1 --bind
       - run: sleep 5
       - run: ls -l
+      - run: git status
+      - run: ls -l data/reddit-top/r/dankmemes/comments/kdoi5m
       - name: Create pull request
         uses: peter-evans/create-pull-request@v3
         with:
