@@ -19,7 +19,10 @@ on:
         screen_name: awealthofcs
       - count: 200
         screen_name: michaelbatnick
+      - count: 200
+        screen_name: InvestmentTalkk
     config:
+      force: true
       every: "35 * * * *"
       exportOutputs: true
       outputsMode: combine
@@ -29,7 +32,8 @@ on:
         return item;
       filterScript: |
         const score = item.retweet_count*2 +item.favorite_count;
-        if(score>400){
+        console.log('score',score)
+        if(score>300){
           return true
         }
 jobs:

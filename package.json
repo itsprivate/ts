@@ -16,7 +16,7 @@
   "license": "0BSD",
   "scripts": {
     "build": "actionsflow build",
-    "start": "ACTIONS_LOCAL=true actionsflow start --verbose -- -b",
+    "start": "ACTIONS_LOCAL=true actionsflow start -i twitter-stocks.yml --verbose -- -b",
     "watch": "actionsflow start -w --verbose --interval 1 -- -b",
     "act": "act --workflows ./dist/workflows --secret-file ./dist/.secrets --eventpath ./dist/event.json --env-file ./dist/.env -P ubuntu-latest=actionsflow/act-environment:v1 -P ubuntu-18.04=actionsflow/act-environment:v1",
     "clean": "actionsflow clean",

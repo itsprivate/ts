@@ -63,20 +63,29 @@ async function main({ dest = "data/reddit-top", name = "reddit-top" } = {}) {
 
     const localeJson = await fs.readFile(filePath, "utf8");
     const localeObj = JSON.parse(localeJson);
-    localeObj[redditFilePath] = title;
-    // write
-    await fs.writeFile(filePath, JSON.stringify(localeObj, null, 2));
-    console.log(`Write ${filePath} success`);
+
+    if (title) {
+      if (localeObj[redditFilePath] !== title) {
+        localeObj[redditFilePath] = title;
+        // write
+        await fs.writeFile(filePath, JSON.stringify(localeObj, null, 2));
+        console.log(`Write ${filePath} success`);
+      }
+    }
 
     const localeExcerptJson = await fs.readFile(excerptFilePath, "utf8");
     const localeExcerptObj = JSON.parse(localeExcerptJson);
-    localeExcerptObj[redditFilePath] = excerpt;
-    // write excerpt
-    await fs.writeFile(
-      excerptFilePath,
-      JSON.stringify(localeExcerptObj, null, 2)
-    );
-    console.log(`Write ${excerptFilePath} success`);
+    if (excerpt) {
+      if (localeExcerptObj[redditFilePath] !== excerpt) {
+        localeExcerptObj[redditFilePath] = excerpt;
+        // write excerpt
+        await fs.writeFile(
+          excerptFilePath,
+          JSON.stringify(localeExcerptObj, null, 2)
+        );
+        console.log(`Write ${excerptFilePath} success`);
+      }
+    }
 
     const tagLocaleJson = await fs.readFile(tagFilePath, "utf8");
     const tagLocaleObj = JSON.parse(tagLocaleJson);
