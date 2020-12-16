@@ -44,12 +44,3 @@ jobs:
               name:"reddit-stocks"
             })
             return true
-      - name: Create Pull Request
-        if: env.ACTIONS_LOCAL!='true'
-        uses: theowenyoung/create-pull-request@master
-        with:
-          token: ${{ secrets.PERSONAL_TOKEN }}
-          commit-message: "chore: new item"
-          branch: new-item-with-reddit-stocks
-          delete-branch: true
-          title: New item update

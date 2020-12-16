@@ -42,12 +42,3 @@ jobs:
             const syncTweets = require(`${process.env.GITHUB_WORKSPACE}/scripts/sync-tweets`)
             const result = await syncTweets()
             return result
-      - name: Create Pull Request
-        if: env.ACTIONS_LOCAL!='true'
-        uses: theowenyoung/create-pull-request@master
-        with:
-          token: ${{ secrets.PERSONAL_TOKEN }}
-          commit-message: "chore: new item"
-          branch: new-item-with-twitter-stocks
-          delete-branch: true
-          title: New item update

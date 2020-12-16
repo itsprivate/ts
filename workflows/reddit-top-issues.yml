@@ -37,12 +37,3 @@ jobs:
             const generateSources = require(`${process.env.GITHUB_WORKSPACE}/scripts/generate-reddit-top-weekly-module.js`)
             await generateSources()
             return true
-      - name: Create Pull Request
-        uses: theowenyoung/create-pull-request@master
-        if: env.ACTIONS_LOCAL!='true'
-        with:
-          token: ${{ secrets.PERSONAL_TOKEN }}
-          commit-message: "chore: new item"
-          branch: new-issue-item
-          delete-branch: true
-          title: New item update
