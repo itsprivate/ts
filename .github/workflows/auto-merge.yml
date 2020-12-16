@@ -12,3 +12,4 @@ jobs:
         env:
           GITHUB_TOKEN: "${{ secrets.PERSONAL_TOKEN }}"
           MERGE_DELETE_BRANCH: true
+          MERGE_LABELS: ""
