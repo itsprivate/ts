@@ -22,6 +22,7 @@ jobs:
         uses: actionsflow/setup-act-for-actionsflow@v1
       - name: Run act
         run: act --workflows ./dist/workflows --secret-file ./dist/.secrets --eventpath ./dist/event.json --env-file ./dist/.env -P ubuntu-latest=actionsflow/act-environment:v1 -P ubuntu-18.04=actionsflow/act-environment:v1 --bind
+      - run: sleep 5
       - run: ls -l
       - name: Create pull request
         uses: peter-evans/create-pull-request@v3
