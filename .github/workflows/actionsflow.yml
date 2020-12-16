@@ -25,7 +25,10 @@ jobs:
       - run: sleep 5
       - run: ls -l
       - run: git status
-      - run: ls -l data/reddit-top/r/memes/comments/kdpat0/
+      - uses: EndBug/add-and-commit@v5 # You can change this to use a specific version
+        with:
+          message: "chore: new item"
+          push: false
       - name: Create pull request
         uses: peter-evans/create-pull-request@v3
         with:
