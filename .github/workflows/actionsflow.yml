@@ -25,7 +25,7 @@ jobs:
       - run: sleep 5
       - run: ls -l
       - run: git status
-      - run: ls -l data/reddit-top/r/dankmemes/comments/kdoi5m
+      - run: ls -l data/reddit-top/r/memes/comments/kdpat0/
       - name: Create pull request
         uses: peter-evans/create-pull-request@v3
         with:
