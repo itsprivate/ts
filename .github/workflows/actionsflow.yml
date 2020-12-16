@@ -29,6 +29,7 @@ jobs:
         with:
           message: "chore: new item"
           push: false
+      - run: git status
       - name: Create pull request
         uses: peter-evans/create-pull-request@v3
         with:
