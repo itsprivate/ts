@@ -11,14 +11,44 @@ async function main() {
     const jsonContent = await readFile(jsonPath, "utf8");
     let json = JSON.parse(jsonContent);
 
-    if (json && !json.original_created_at) {
-      json.original_created_at = json.created_at;
+    if (json && typeof json.created_at === "number") {
+      json.created_at = toTwitterDate(new Date(json.created_at * 1000));
       console.log(`write ${jsonPath}`);
       await writeFile(jsonPath, JSON.stringify(json, null, 2));
     }
   }
 }
+function toTwitterDate(date) {
+  const daysOfWeek = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
+  const monthShort = [
+    "Jan",
+    "Feb",
+    "Mar",
+    "Apr",
+    "May",
+    "Jun",
+    "Jul",
+    "Aug",
+    "Sep",
+    "Oct",
+    "Nov",
+    "Dec",
+  ];
+  const addZero = (num) => {
+    if (num < 10) {
+      return `0${num}`;
+    } else {
+      return `${num}`;
+    }
+  };
 
+  const twitterDate = `${daysOfWeek[date.getUTCDay()]} ${
+    monthShort[date.getUTCMonth()]
+  } ${addZero(
+    date.getUTCDate()
+  )} ${date.getUTCHours()}:${date.getUTCMinutes()}:${date.getUTCSeconds()} +0000 ${date.getUTCFullYear()}`;
+  return twitterDate;
+}
 main().catch((e) => {
   console.error("e", e);
 });

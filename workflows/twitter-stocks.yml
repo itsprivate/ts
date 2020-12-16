@@ -28,7 +28,38 @@ on:
       outputsMode: combine
       format: |
         item.original_created_at = item.created_at;
-        item.created_at = Math.floor(Date.now() / 1000);
+        function toTwitterDate(date) {
+          const daysOfWeek = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
+          const monthShort = [
+            "Jan",
+            "Feb",
+            "Mar",
+            "Apr",
+            "May",
+            "Jun",
+            "Jul",
+            "Aug",
+            "Sep",
+            "Oct",
+            "Nov",
+            "Dec",
+          ];
+          const addZero = (num) => {
+            if (num < 10) {
+              return `0${num}`;
+            } else {
+              return `${num}`;
+            }
+          };
+
+          const twitterDate = `${daysOfWeek[date.getUTCDay()]} ${
+            monthShort[date.getUTCMonth()]
+          } ${addZero(
+            date.getUTCDate()
+          )} ${date.getUTCHours()}:${date.getUTCMinutes()}:${date.getUTCSeconds()} +0000 ${date.getUTCFullYear()}`;
+          return twitterDate;
+        }
+        item.created_at = toTwitterDate(new Date());
         return item;
       filterScript: |
         const score = item.retweet_count*2 +item.favorite_count;
