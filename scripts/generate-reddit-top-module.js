@@ -16,7 +16,7 @@ async function main({ dest = "data/reddit-top", name = "reddit-top" } = {}) {
     const redditFilePath = path.join(dest, `${link}.json`);
     // is exist
     const isRedditFileExist = fsPure.existsSync(redditFilePath);
-    const originalCreatedAt = item.original_created_at;
+    const originalCreatedAt = new Date(item.original_created_utc * 1000);
     if (isRedditFileExist) {
       const originalJson = await fs.readFile(redditFilePath, "utf8");
       const originalRedditItem = JSON.parse(originalJson);

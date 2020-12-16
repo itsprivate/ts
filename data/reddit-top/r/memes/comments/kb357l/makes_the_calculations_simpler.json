@@ -8,23 +8,28 @@
   "gilded": 0,
   "clicked": false,
   "title": "Makes the calculations simpler",
-  "link_flair_richtext": [],
+  "link_flair_richtext": [
+    {
+      "e": "text",
+      "t": "#1 MotW"
+    }
+  ],
   "subreddit_name_prefixed": "r/memes",
   "hidden": false,
   "pwls": 6,
-  "link_flair_css_class": null,
+  "link_flair_css_class": "",
   "downs": 0,
   "thumbnail_height": 99,
   "top_awarded_type": "INACTIVE",
   "hide_score": false,
   "name": "t3_kb357l",
   "quarantine": false,
-  "link_flair_text_color": "dark",
-  "upvote_ratio": 0.93,
+  "link_flair_text_color": "light",
+  "upvote_ratio": 0.94,
   "author_flair_background_color": null,
   "subreddit_type": "public",
-  "ups": 157558,
-  "total_awards_received": 1115,
+  "ups": 162597,
+  "total_awards_received": 1215,
   "media_embed": {},
   "thumbnail_width": 140,
   "author_flair_template_id": null,
@@ -35,9 +40,9 @@
   "is_meta": false,
   "category": null,
   "secure_media_embed": {},
-  "link_flair_text": null,
+  "link_flair_text": "#1 MotW",
   "can_mod_post": false,
-  "score": 157558,
+  "score": 162597,
   "approved_by": null,
   "author_premium": false,
   "thumbnail": "https://b.thumbs.redditmedia.com/t-rY-6YIxqvqeggRaqOi51DQlYxlv4_pLK23AJLF1Sw.jpg",
@@ -45,14 +50,14 @@
   "author_flair_css_class": null,
   "author_flair_richtext": [],
   "gildings": {
-    "gid_1": 272
+    "gid_1": 293
   },
   "post_hint": "image",
   "content_categories": null,
   "is_self": false,
   "mod_note": null,
   "created": 1607723492,
-  "link_flair_type": "text",
+  "link_flair_type": "richtext",
   "wls": 6,
   "removed_by_category": null,
   "banned_by": null,
@@ -152,6 +157,7 @@
   },
   "awarders": [],
   "media_only": false,
+  "link_flair_template_id": "62d04276-50f0-11ea-94c6-0e25a44c8e3b",
   "can_gild": false,
   "spoiler": false,
   "locked": false,
@@ -164,13 +170,13 @@
   "subreddit_id": "t5_2qjpg",
   "mod_reason_by": null,
   "removal_reason": null,
-  "link_flair_background_color": "",
+  "link_flair_background_color": "#0dd3bb",
   "id": "kb357l",
   "is_robot_indexable": true,
   "report_reasons": null,
   "author": "PianistCryuff",
   "discussion_type": null,
-  "num_comments": 898,
+  "num_comments": 958,
   "send_replies": true,
   "whitelist_status": "all_ads",
   "contest_mode": false,
@@ -181,19 +187,11 @@
   "parent_whitelist_status": "all_ads",
   "stickied": false,
   "url": "https://i.redd.it/v7opjah2ck461.gif",
-  "subreddit_subscribers": 14010296,
+  "subreddit_subscribers": 14071053,
   "created_utc": 1607711702,
-  "num_crossposts": 36,
+  "num_crossposts": 39,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "",
   "original_created_utc": 1607694692,
-  "i18nResource": {
-    "zh": {
-      "title": "使计算变得更简单"
-    },
-    "zh-Hant": {
-      "title": "使計算變得更簡單"
-    }
-  }
+  "the_new_excerpt": ""
 }
