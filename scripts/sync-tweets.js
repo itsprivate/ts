@@ -27,6 +27,9 @@ const main = async ({
       const originalJson = await fs.readFile(tweetFilePath, "utf8");
       const originalRedditItem = JSON.parse(originalJson);
       item.created_at = originalRedditItem.created_at;
+      if (originalRedditItem.i18nResource) {
+        item.i18nResource = originalRedditItem.i18nResource;
+      }
     }
     await fs
       .mkdir(path.dirname(tweetFilePath), {

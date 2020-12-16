@@ -21,6 +21,9 @@ async function main({ dest = "data/reddit-top", name = "reddit-top" } = {}) {
       const originalJson = await fs.readFile(redditFilePath, "utf8");
       const originalRedditItem = JSON.parse(originalJson);
       item.created_utc = originalRedditItem.created_utc;
+      if (originalRedditItem.i18nResource) {
+        item.i18nResource = originalRedditItem.i18nResource;
+      }
     }
 
     await fs
