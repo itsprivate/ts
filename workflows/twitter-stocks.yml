@@ -22,7 +22,7 @@ on:
       - count: 200
         screen_name: InvestmentTalkk
     config:
-      force: true
+      # force: true
       every: "35 * * * *"
       exportOutputs: true
       outputsMode: combine
@@ -32,7 +32,6 @@ on:
         return item;
       filterScript: |
         const score = item.retweet_count*2 +item.favorite_count;
-        console.log('score',score)
         if(score>300){
           return true
         }
