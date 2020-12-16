@@ -25,11 +25,3 @@ jobs:
             const syncResource = require(`${process.env.GITHUB_WORKSPACE}/scripts/sync-i18n-resource-module.js`)
             await syncResource()
             return true
-      - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v3
-        with:
-          token: ${{ secrets.PERSONAL_TOKEN }}
-          commit-message: "chore: auto translation"
-          branch: i18n-auto-translation
-          delete-branch: true
-          title: Auto translation
