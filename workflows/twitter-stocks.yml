@@ -23,6 +23,10 @@ on:
       every: "35 * * * *"
       exportOutputs: true
       outputsMode: combine
+      format: |
+        item.original_created_at = item.created_at;
+        item.created_at = Math.floor(Date.now() / 1000);
+        return item;
       filterScript: |
         const score = item.retweet_count*2 +item.favorite_count;
         if(score>400){

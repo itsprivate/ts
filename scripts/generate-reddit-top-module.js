@@ -9,7 +9,6 @@ async function main({ dest = "data/reddit-top", name = "reddit-top" } = {}) {
   console.log("\n");
   for (let i = 0; i < items.length; i++) {
     const item = items[i];
-    item.original_created_utc = item.created_utc;
     let link = item.permalink;
     if (link && link.endsWith("/")) {
       link = link.slice(0, -1);
@@ -17,13 +16,12 @@ async function main({ dest = "data/reddit-top", name = "reddit-top" } = {}) {
     const redditFilePath = path.join(dest, `${link}.json`);
     // is exist
     const isRedditFileExist = fsPure.existsSync(redditFilePath);
-    let createdAt = new Date();
+    const originalCreatedAt = item.original_created_at;
     if (isRedditFileExist) {
       const originalJson = await fs.readFile(redditFilePath, "utf8");
       const originalRedditItem = JSON.parse(originalJson);
-      createdAt = new Date(originalRedditItem.created_utc * 1000);
+      item.created_utc = originalRedditItem.created_utc;
     }
-    item.created_utc = Math.floor(createdAt.getTime() / 1000);
 
     await fs
       .mkdir(path.dirname(redditFilePath), {
@@ -38,8 +36,8 @@ async function main({ dest = "data/reddit-top", name = "reddit-top" } = {}) {
     const excerpt = item.the_new_excerpt;
     const tags = [item.subreddit];
     const locale = "en";
-    const utcYear = createdAt.getUTCFullYear();
-    const utcMonth = createdAt.getUTCMonth() + 1;
+    const utcYear = originalCreatedAt.getUTCFullYear();
+    const utcMonth = originalCreatedAt.getUTCMonth() + 1;
     const addZeroUtcMonth = utcMonth < 10 ? `0${utcMonth}` : `${utcMonth}`;
     const titleLocaleFileName = `reddit_--_${name}_--_title_--_${utcYear}_--_${addZeroUtcMonth}.json`;
     const excerptLocaleFileName = `reddit_--_${name}_--_the_new_excerpt_--_${utcYear}_--_${addZeroUtcMonth}.json`;

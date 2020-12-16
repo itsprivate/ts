@@ -9,18 +9,26 @@ const main = async ({
   const outputs = require(`${process.env.GITHUB_WORKSPACE}/${process.env.OUTPUTS_PATH}`);
   for (let i = 0; i < outputs.length; i++) {
     const item = outputs[i];
-    const createdAt = new Date(Date.parse(item.created_at));
+    const originalCreatedAt = new Date(Date.parse(item.original_created_at));
     const fileRelativePath = path.join(
       dest,
-      `${createdAt.getUTCFullYear()}/${createdAt.getUTCMonth() + 1}/${
-        item.id_str
-      }.json`
+      `${originalCreatedAt.getUTCFullYear()}/${
+        originalCreatedAt.getUTCMonth() + 1
+      }/${item.id_str}.json`
     );
     const tweetFilePath = path.resolve(
       process.env.GITHUB_WORKSPACE,
       fileRelativePath
     );
     console.log(`Write tweet json ${tweetFilePath}`);
+    // is exist
+    const isTargetFileExist = fsPure.existsSync(tweetFilePath);
+    const originalCreatedAt = item.original_created_at;
+    if (isTargetFileExist) {
+      const originalJson = await fs.readFile(tweetFilePath, "utf8");
+      const originalRedditItem = JSON.parse(originalJson);
+      item.created_at = originalRedditItem.created_at;
+    }
     await fs
       .mkdir(path.dirname(tweetFilePath), {
         recursive: true,
@@ -39,14 +47,13 @@ const main = async ({
           });
       });
     const full_text = item.full_text;
-    const id = item.id_str;
     const user = item.user;
     const tags = [user.name].concat(
       item.entities.hashtags.map((tag) => tag.text) || []
     );
     const locale = "en";
-    const utcYear = createdAt.getUTCFullYear();
-    const utcMonth = createdAt.getUTCMonth() + 1;
+    const utcYear = originalCreatedAt.getUTCFullYear();
+    const utcMonth = originalCreatedAt.getUTCMonth() + 1;
     const addZeroUtcMonth = utcMonth < 10 ? `0${utcMonth}` : `${utcMonth}`;
     const titleLocaleFileName = `tweet_--_${name}_--_full_text_--_${utcYear}_--_${addZeroUtcMonth}.json`;
     const filePath = `./i18n/post-resource/${locale}/${titleLocaleFileName}`;
