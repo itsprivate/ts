@@ -29,7 +29,7 @@ on:
           return true
         }
 jobs:
-  sync:
+  savetwitterstocks:
     name: Sync Tweets to JSON
     runs-on: ubuntu-latest
     steps:

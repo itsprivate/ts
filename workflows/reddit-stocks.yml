@@ -22,7 +22,7 @@ on:
       params:
         raw_json: 1
 jobs:
-  save:
+  saveredditstocks:
     name: save to json
     runs-on: ubuntu-latest
     steps:
