@@ -35,9 +35,9 @@ function translateTr() {
 
 function preTranslateTest() {
   const text = preTranslate({
-    text: "[OP] TIL Hello world TIL",
+    text: "$TAN [OP] TIL Hello $BA world TIL",
   });
   console.log("text", text);
 }
-// preTranslateTest();
-translateTr();
+preTranslateTest();
+// translateTr();

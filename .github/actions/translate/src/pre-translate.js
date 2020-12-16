@@ -10,8 +10,18 @@ module.exports = ({ text, lang = "zh" }) => {
     const keys = Object.keys(locale);
     keys.forEach((key) => {
       const value = locale[key];
+
       text = replaceAll(text, key, value);
     });
   }
-  return text;
+  // if include $XXX
+  const matchedResult = text.match(/(\$[A-Z]+[0-9]*)\s/);
+  let untranslatedText;
+  if (matchedResult) {
+    untranslatedText = matchedResult[1];
+  }
+  return {
+    text,
+    untranslatedText,
+  };
 };

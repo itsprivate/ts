@@ -9,11 +9,14 @@ module.exports = async ({
   target = "zh",
 }) => {
   let preSourceText = sourceText;
+  let untranslatedText;
   if (source === "en") {
-    preSourceText = preTranslate({
+    const { text, untranslatedText: untranslatedTextResult } = preTranslate({
       text: sourceText,
       lang: target,
     });
+    preSourceText = text;
+    untranslatedText = untranslatedTextResult;
   }
 
   if (source === "zh" && target === "zh-Hant") {
@@ -34,6 +37,9 @@ module.exports = async ({
     Target: target,
     ProjectId: 0,
   };
+  if (untranslatedText) {
+    params.UntranslatedText = untranslatedText;
+  }
 
   const data = await client.TextTranslate(params);
   return data;
