@@ -23,7 +23,6 @@ const main = async ({
     console.log(`Write tweet json ${tweetFilePath}`);
     // is exist
     const isTargetFileExist = fsPure.existsSync(tweetFilePath);
-    const originalCreatedAt = item.original_created_at;
     if (isTargetFileExist) {
       const originalJson = await fs.readFile(tweetFilePath, "utf8");
       const originalRedditItem = JSON.parse(originalJson);
