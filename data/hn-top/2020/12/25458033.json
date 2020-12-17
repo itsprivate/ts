@@ -1,0 +1,40 @@
+{
+  "created_at": "2020-12-17T19:23:09.030Z",
+  "title": "Sick of spending time on Auth, we built an open source 'Stripe for Auth'",
+  "url": null,
+  "author": "advaitruia",
+  "points": 100,
+  "story_text": "We (my cofounder and I) have built several startups previously and spent an unnecessary amount of effort on auth. This led us to build an open source alternative to Auth0 and AWS Cognito, that’s called SuperTokens. We’ve spoken to 100s of developers and startups to understand the pain points with current services and we hope you find this useful!<p>Why did we build this?\nTo be able to control our user data and have it stored in our own database.\nHave certain customisations that other identity providers do not offer\nWe couldn’t afford to pay\nIt took too long to understand the documentation of alternate service providers<p>How are we any easier?\nWe think that Auth0, Firebase etc are great services but auth is complex. There are many different use cases for different types of apps. Since services have to cater to each of these, they tend to become complex in their implementation (due to no fault of their own).<p>SuperTokens takes a modular approach - making it possible to pick only the features you need for your use case. This means you need not worry about complications associated with other features (eg: SSO and OAuth if you don’t need it) and this in turn makes it easier to implement and manage SuperTokens.<p>We are still early in the journey and working hard on building more functionality.<p>Please see our website: <a href=\"https:&#x2F;&#x2F;supertokens.io&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;supertokens.io&#x2F;</a>\nOur GitHub: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;supertokens&#x2F;supertokens-core\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;supertokens&#x2F;supertokens-core</a><p>Do let us know what you think - specifically whether you would consider SuperTokens for your app. Why or why not? What can we change or offer?<p>PS: We did a &quot;Launch HN&quot; post earlier when our product was only for securely managing session tokens. We realized we need to build more of the auth stack (signup &#x2F; signin, social login etc) and hence we&#x27;re excited to announce that we&#x27;ve built basic login functionality.",
+  "comment_text": null,
+  "num_comments": 48,
+  "story_id": null,
+  "story_title": null,
+  "story_url": null,
+  "parent_id": null,
+  "created_at_i": 1608227336,
+  "_tags": [
+    "story",
+    "author_advaitruia",
+    "story_25458033",
+    "front_page"
+  ],
+  "objectID": "25458033",
+  "_highlightResult": {
+    "title": {
+      "value": "Sick of spending time on Auth, we built an open source 'Stripe for Auth'",
+      "matchLevel": "none",
+      "matchedWords": []
+    },
+    "author": {
+      "value": "advaitruia",
+      "matchLevel": "none",
+      "matchedWords": []
+    },
+    "story_text": {
+      "value": "We (my cofounder and I) have built several startups previously and spent an unnecessary amount of effort on auth. This led us to build an open source alternative to Auth0 and AWS Cognito, that’s called SuperTokens. We’ve spoken to 100s of developers and startups to understand the pain points with current services and we hope you find this useful!<p>Why did we build this?\nTo be able to control our user data and have it stored in our own database.\nHave certain customisations that other identity providers do not offer\nWe couldn’t afford to pay\nIt took too long to understand the documentation of alternate service providers<p>How are we any easier?\nWe think that Auth0, Firebase etc are great services but auth is complex. There are many different use cases for different types of apps. Since services have to cater to each of these, they tend to become complex in their implementation (due to no fault of their own).<p>SuperTokens takes a modular approach - making it possible to pick only the features you need for your use case. This means you need not worry about complications associated with other features (eg: SSO and OAuth if you don’t need it) and this in turn makes it easier to implement and manage SuperTokens.<p>We are still early in the journey and working hard on building more functionality.<p>Please see our website: <a href=\"https://supertokens.io/\" rel=\"nofollow\">https://supertokens.io/</a>\nOur GitHub: <a href=\"https://github.com/supertokens/supertokens-core\" rel=\"nofollow\">https://github.com/supertokens/supertokens-core</a><p>Do let us know what you think - specifically whether you would consider SuperTokens for your app. Why or why not? What can we change or offer?<p>PS: We did a &quot;Launch HN&quot; post earlier when our product was only for securely managing session tokens. We realized we need to build more of the auth stack (signup / signin, social login etc) and hence we're excited to announce that we've built basic login functionality.",
+      "matchLevel": "none",
+      "matchedWords": []
+    }
+  },
+  "original_created_at": "2020-12-17T17:48:56.000Z"
+}
