@@ -1,16 +1,12 @@
 const fs = require("fs").promises;
 const path = require("path");
 const siteMeta = {
-  title: `Buzzing on Stocks`,
-  author: `Buzzing.cc`,
-  description: `See popular discussions in foreign stock communities in your native language`,
-  keywords: ["buzzing", "stocks", "U.S. stocks"],
-  siteUrl: "https://stocks.buzzing.cc",
+  title: `Buzzing on Hacker News`,
+  author: `Hacker News`,
+  description: `See what's buzzing on Hacker News in your native language`,
+  keywords: ["Hacker News", "HN", "buzzing"],
+  siteUrl: "https://hn.buzzing.cc",
   menuLinks: [
-    {
-      name: "Weekly Selection",
-      url: "/issues",
-    },
     {
       name: "RSS",
       url: "/rss.xml",
@@ -19,8 +15,8 @@ const siteMeta = {
   ],
   social: [
     {
-      name: `Reddit`,
-      url: `https://www.reddit.com/`,
+      name: `Hacker News`,
+      url: `https://news.ycombinator.com/`,
       external: true,
     },
   ],
