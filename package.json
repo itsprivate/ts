@@ -6,7 +6,7 @@
   "author": "Owen Young <theowenyoung@gmail.com>",
   "devDependencies": {
     "@vercel/ncc": "^0.25.1",
-    "actionsflow": "^1.7.3",
+    "actionsflow": "^1.8.0",
     "prettier": "^2.2.0"
   },
   "keywords": [
@@ -16,7 +16,7 @@
   "license": "0BSD",
   "scripts": {
     "build": "actionsflow build",
-    "start": "ACTIONS_LOCAL=true actionsflow start -i hn-top.yml --verbose -- -b",
+    "start": "ACTIONS_LOCAL=true actionsflow start -i ph-top.yml --force --verbose -- -b",
     "watch": "actionsflow start -w --verbose --interval 1 -- -b",
     "act": "act --workflows ./dist/workflows --secret-file ./dist/.secrets --eventpath ./dist/event.json --env-file ./dist/.env -P ubuntu-latest=actionsflow/act-environment:v1 -P ubuntu-18.04=actionsflow/act-environment:v1",
     "clean": "actionsflow clean",
