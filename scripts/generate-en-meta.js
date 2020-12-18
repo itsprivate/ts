@@ -1,11 +1,11 @@
 const fs = require("fs").promises;
 const path = require("path");
 const siteMeta = {
-  title: `Buzzing on Hacker News`,
-  author: `Hacker News`,
-  description: `See what's buzzing on Hacker News in your native language`,
-  keywords: ["Hacker News", "HN", "buzzing"],
-  siteUrl: "https://hn.buzzing.cc",
+  title: `Buzzing on Product Hunt`,
+  author: `Product Hunt`,
+  description: `See what's buzzing on Product Hunt in your native language`,
+  keywords: ["Product Hunt", "buzzing"],
+  siteUrl: "https://ph.buzzing.cc",
   menuLinks: [
     {
       name: "RSS",
@@ -15,8 +15,8 @@ const siteMeta = {
   ],
   social: [
     {
-      name: `Hacker News`,
-      url: `https://news.ycombinator.com/`,
+      name: `Product Hunt`,
+      url: `https://www.producthunt.com/`,
       external: true,
     },
   ],
