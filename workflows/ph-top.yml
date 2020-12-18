@@ -7,7 +7,7 @@ on:
       Authorization: Bearer ${{secrets.PRODUCTHUNT_TOKEN}}
     query: |
       query {
-        posts (after:"MjA=") {
+        posts {
           edges{
             node {
               id
