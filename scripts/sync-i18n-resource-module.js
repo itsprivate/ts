@@ -42,16 +42,23 @@ async function main({ dest = "./i18n/post-resource" } = {}) {
         const sourceJson = await readFile(sourceAbsolutePath, "utf8");
         const sourceObj = JSON.parse(sourceJson);
         let isChanged = false;
-        if (!sourceObj.i18nResource) {
-          sourceObj.i18nResource = {};
+        if (!sourceObj.localize) {
+          sourceObj.localize = [];
           isChanged = true;
         }
-        if (!sourceObj.i18nResource[locale]) {
-          sourceObj.i18nResource[locale] = {};
+        if (!isLocaleExist(sourceObj.localize, locale)) {
+          sourceObj.localize.push({
+            locale: locale,
+          });
           isChanged = true;
         }
-        if (sourceObj.i18nResource[locale][field] !== text) {
-          sourceObj.i18nResource[locale][field] = text;
+        if (isNeedChangeLocaleField(sourceObj.localize, locale, field, text)) {
+          sourceObj.localize = witeLocaleField(
+            sourceObj.localize,
+            locale,
+            field,
+            text
+          );
           isChanged = true;
         }
         if (isChanged) {
@@ -66,6 +73,39 @@ async function main({ dest = "./i18n/post-resource" } = {}) {
   }
 
   return true;
+}
+function isLocaleExist(localize = [], locale) {
+  if (!localize) {
+    return false;
+  }
+  return localize.filter((item) => item.locale === locale).length > 0;
+}
+function isNeedChangeLocaleField(localize = [], locale, field, value) {
+  if (!localize) {
+    return true;
+  }
+  for (let i = 0; i < localize.length; i++) {
+    const localeItem = localize[i];
+    if (localeItem.locale === locale) {
+      if (localeItem[field] !== value) {
+        return true;
+      }
+    }
+  }
+  return false;
+}
+function witeLocaleField(localize, locale, key, value) {
+  let tempLocalize = localize || [];
+  if (!isLocaleExist(tempLocalize, locale)) {
+    tempLocalize.push({ locale: locale });
+  }
+  for (let i = 0; i < tempLocalize.length; i++) {
+    const tempLocale = tempLocalize[i];
+    if (tempLocale.locale === locale) {
+      tempLocalize[i][key] = value;
+    }
+  }
+  return tempLocalize;
 }
 async function getFiles(dir, ext) {
   const dirents = await readdir(dir, { withFileTypes: true });

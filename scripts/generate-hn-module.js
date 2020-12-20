@@ -24,8 +24,8 @@ const main = async ({ dest = "data/hn-top", name = "hn-top" } = {}) => {
       const originalJson = await fs.readFile(hnFilePath, "utf8");
       const originalRedditItem = JSON.parse(originalJson);
       item.created_at = originalRedditItem.created_at;
-      if (originalRedditItem.i18nResource) {
-        item.i18nResource = originalRedditItem.i18nResource;
+      if (originalRedditItem.localize) {
+        item.localize = originalRedditItem.localize;
       }
     }
     await fs

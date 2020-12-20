@@ -28,8 +28,8 @@ const main = async ({
       const originalJson = await fs.readFile(targetFilePath, "utf8");
       const originalObj = JSON.parse(originalJson);
       item.createdAt = originalObj.createdAt;
-      if (originalObj.i18nResource) {
-        item.i18nResource = originalObj.i18nResource;
+      if (originalObj.localize) {
+        item.localize = originalObj.localize;
       }
     }
     await fs
