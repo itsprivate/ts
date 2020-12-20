@@ -174,13 +174,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606414784,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "不顾冠状病毒的家庭时刻。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "不顧冠狀病毒的家庭時刻。"
     }
-  },
-  "original_created_utc": 1606414784
+  ]
 }

@@ -160,12 +160,14 @@
   "is_video": false,
   "original_created_utc": 1607263800,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我创造了世界末日之城"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我創造了世界末日之城"
     }
-  }
+  ]
 }

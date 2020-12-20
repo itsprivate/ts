@@ -36,12 +36,14 @@
     }
   },
   "original_created_at": "2020-12-16T14:00:03.000Z",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "Git的TIG文本模式界面"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "Git的TIG文本模式界面"
     }
-  }
+  ]
 }

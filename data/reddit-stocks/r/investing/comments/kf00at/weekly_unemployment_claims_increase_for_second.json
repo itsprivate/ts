@@ -102,14 +102,16 @@
   "is_video": false,
   "original_created_utc": 1608220693,
   "the_new_excerpt": "https://www.reuters.com/article/usa-economy/u-s-weekly-jobless-claims-increase-further-idUKKBN28R1Y8\n\n> Initial claims for state unemployment benefits totaled a seasonally adjusted\n> 885,000 for the week ended Dec. 12, compared to 862,000 in the prior week, the\n> Labor Department said on Thursday.…",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "the_new_excerpt": "https://www.reuters.com/article/usa-economy/u-s-weekly-jobless-claims-increase-further-idUKKBN28R1Y8\n\n>首次申领州失业救济金人数经季节性调整后为\n截至12月12日的一周>885,000人，而前一周为862,000人\n>劳工部周四表示。…。",
       "title": "每周申领失业救济金人数连续第二周增加"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "the_new_excerpt": "https://www.reuters.com/article/usa-economy/u-s-weekly-jobless-claims-increase-further-idUKKBN28R1Y8\n\n>首次申領州失業救濟金人數經季節性調整後爲\n截至12月12日的一週>885,000人，而前一週爲862,000人\n>勞工部週四表示。…。",
       "title": "每週申領失業救濟金人數連續第二週增加"
     }
-  }
+  ]
 }

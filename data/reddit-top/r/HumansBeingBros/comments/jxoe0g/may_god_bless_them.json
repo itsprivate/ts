@@ -153,13 +153,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605909987,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "愿上帝保佑他们！！"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "願上帝保佑他們！！"
     }
-  },
-  "original_created_utc": 1605909987
+  ]
 }

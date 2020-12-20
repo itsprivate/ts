@@ -184,12 +184,14 @@
   "is_video": true,
   "original_created_utc": 1607200320,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "兄弟会男孩和亚洲人捣乱，被他妈的击倒"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "兄弟會男孩和亞洲人搗亂，被他媽的擊倒"
     }
-  }
+  ]
 }

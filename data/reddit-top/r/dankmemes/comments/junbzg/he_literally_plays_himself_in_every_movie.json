@@ -165,13 +165,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605493488,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "他真的在每部电影中扮演自己"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "他真的在每部電影中扮演自己"
     }
-  },
-  "original_created_utc": 1605493488
+  ]
 }

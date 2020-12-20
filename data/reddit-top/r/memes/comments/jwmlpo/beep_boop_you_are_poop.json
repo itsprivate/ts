@@ -153,13 +153,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605750488,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "哔哔，砰，你在拉屎"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "嗶嗶，砰，妳在拉屎"
     }
-  },
-  "original_created_utc": 1605750488
+  ]
 }

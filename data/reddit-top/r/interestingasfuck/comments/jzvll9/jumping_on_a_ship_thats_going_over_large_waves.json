@@ -191,13 +191,15 @@
   },
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606206360,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "跳上一艘翻越巨浪的船"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "跳上壹艘翻越巨浪的船"
     }
-  },
-  "original_created_utc": 1606206360
+  ]
 }

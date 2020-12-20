@@ -154,13 +154,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606451810,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "40岁生日，我妻子生病了，我最新的游戏机是PS3，但我刚刚打开这个，准备第一次启动它。祝我生日快乐!"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "40歲生日，我妻子生病了，我最新的遊戲機是PS3，但我剛剛打開這個，準備第壹次啟動它。祝我生日快樂!"
     }
-  },
-  "original_created_utc": 1606451810
+  ]
 }

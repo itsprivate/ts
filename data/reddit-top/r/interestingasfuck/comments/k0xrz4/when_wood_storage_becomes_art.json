@@ -144,13 +144,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606398291,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "当木材储存成为艺术时"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "當木材儲存成為藝術時"
     }
-  },
-  "original_created_utc": 1606398291
+  ]
 }

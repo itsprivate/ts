@@ -155,12 +155,14 @@
   "is_video": false,
   "original_created_utc": 1608119383,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我们都有不顺的日子，朋友，抬起头来"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我們都有不順的日子，朋友，擡起頭來"
     }
-  }
+  ]
 }

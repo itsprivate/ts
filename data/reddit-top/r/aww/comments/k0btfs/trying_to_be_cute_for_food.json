@@ -164,13 +164,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606318874,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "试着变得可爱起来吃东西！"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "試著變得可愛起來吃東西！"
     }
-  },
-  "original_created_utc": 1606318874
+  ]
 }

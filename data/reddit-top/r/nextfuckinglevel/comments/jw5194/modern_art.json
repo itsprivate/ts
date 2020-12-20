@@ -170,13 +170,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605705540,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "现代艺术。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "現代藝術。"
     }
-  },
-  "original_created_utc": 1605705540
+  ]
 }

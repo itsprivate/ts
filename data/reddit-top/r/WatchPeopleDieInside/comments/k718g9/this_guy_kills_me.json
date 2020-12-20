@@ -165,12 +165,14 @@
   "is_video": true,
   "original_created_utc": 1607143379,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "这家伙杀了我。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "這家夥殺了我。"
     }
-  }
+  ]
 }

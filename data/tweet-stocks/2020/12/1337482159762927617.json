@@ -489,13 +489,15 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "i18nResource": {
-    "zh": {
+  "original_created_at": "Fri Dec 11 19:39:30 +0000 2020",
+  "localize": [
+    {
+      "locale": "zh",
       "full_text": "rt@stoolPresident ente：政客们正在窃取赚取谋生https://t.co/9Yx9Vf1iP1的基本权利"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "full_text": "rt@stoolPresident ente：政客們正在竊取賺取謀生https://t.co/9Yx9Vf1iP1的基本權利"
     }
-  },
-  "original_created_at": "Fri Dec 11 19:39:30 +0000 2020"
+  ]
 }

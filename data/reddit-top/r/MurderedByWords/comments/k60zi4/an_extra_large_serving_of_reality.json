@@ -155,12 +155,14 @@
   "is_video": false,
   "original_created_utc": 1607014449,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "一份超大的现实服务"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "壹份超大的現實服務"
     }
-  }
+  ]
 }

@@ -154,12 +154,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607918973,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我们得等一等"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我們得等一等"
     }
-  }
+  ]
 }

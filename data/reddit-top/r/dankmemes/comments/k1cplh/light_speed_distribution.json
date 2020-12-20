@@ -203,13 +203,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606410692,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "光速分布"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "光速分布"
     }
-  },
-  "original_created_utc": 1606410692
+  ]
 }

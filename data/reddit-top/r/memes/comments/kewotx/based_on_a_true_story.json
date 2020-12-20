@@ -154,12 +154,14 @@
   "is_video": false,
   "original_created_utc": 1608208669,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "根据真实故事改编"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "根據真實故事改編"
     }
-  }
+  ]
 }

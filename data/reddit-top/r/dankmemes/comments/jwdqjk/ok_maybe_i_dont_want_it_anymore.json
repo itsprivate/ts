@@ -154,13 +154,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605734773,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "好的，也许我不想再要了。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "好的，也許我不想再要了。"
     }
-  },
-  "original_created_utc": 1605734773
+  ]
 }

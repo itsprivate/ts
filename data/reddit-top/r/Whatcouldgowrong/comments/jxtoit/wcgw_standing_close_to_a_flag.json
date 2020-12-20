@@ -155,13 +155,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605977801,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "WCGW站在靠近一面旗帜的地方"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "WCGW站在靠近壹面旗幟的地方"
     }
-  },
-  "original_created_utc": 1605977801
+  ]
 }

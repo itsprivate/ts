@@ -154,12 +154,14 @@
   "is_video": false,
   "original_created_utc": 1606765224,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "跳棋教授基本的华尔兹"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "跳棋教授基本的華爾茲"
     }
-  }
+  ]
 }

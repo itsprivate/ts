@@ -155,12 +155,14 @@
   "is_video": false,
   "original_created_utc": 1607110598,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我的发音还是不太好，呵呵。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我的發音還是不太好，呵呵。"
     }
-  }
+  ]
 }

@@ -149,12 +149,14 @@
   "is_video": false,
   "original_created_utc": 1606848540,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "她不该死"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "她不該死"
     }
-  }
+  ]
 }

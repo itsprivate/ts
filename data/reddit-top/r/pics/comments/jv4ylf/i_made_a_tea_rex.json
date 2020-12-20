@@ -157,13 +157,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605559899,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我做了一杯雷克斯茶"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我做了壹杯雷克斯茶"
     }
-  },
-  "original_created_utc": 1605559899
+  ]
 }

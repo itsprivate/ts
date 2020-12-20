@@ -234,12 +234,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607543512,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "从字面上讲，不能要求更好的第一个错误(NSFW)"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "從字面上講，不能要求更好的第壹個錯誤(NSFW)"
     }
-  }
+  ]
 }

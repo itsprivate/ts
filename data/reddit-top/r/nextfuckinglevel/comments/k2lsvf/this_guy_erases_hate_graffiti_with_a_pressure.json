@@ -176,12 +176,14 @@
   "is_video": true,
   "original_created_utc": 1606561044,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "这家伙用压力洗涤器擦去仇恨涂鸦"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "這家夥用壓力洗滌器擦去仇恨塗鴉"
     }
-  }
+  ]
 }

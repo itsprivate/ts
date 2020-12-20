@@ -183,12 +183,14 @@
   "is_video": true,
   "the_new_excerpt": "",
   "original_created_utc": 1607434641,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "这所特技学校"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "這所特技學校"
     }
-  }
+  ]
 }

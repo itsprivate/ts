@@ -166,13 +166,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605578131,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我的老师不怕冷。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我的老師不怕冷。"
     }
-  },
-  "original_created_utc": 1605578131
+  ]
 }

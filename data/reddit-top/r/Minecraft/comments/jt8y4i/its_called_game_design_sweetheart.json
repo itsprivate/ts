@@ -173,13 +173,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605235025,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "这叫游戏设计甜心"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "這叫遊戲設計甜心"
     }
-  },
-  "original_created_utc": 1605235025
+  ]
 }

@@ -155,12 +155,14 @@
   "is_video": false,
   "original_created_utc": 1606820816,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "厚颜无耻地喊出艺术家，骂他们的艺术垃圾，然后“修复他们”"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "厚顏無恥地喊出藝術家，罵他們的藝術垃圾，然後“修復他們”"
     }
-  }
+  ]
 }

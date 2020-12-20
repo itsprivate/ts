@@ -139,13 +139,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605636628,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "不是最聪明的孩子"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "不是最聰明的孩子"
     }
-  },
-  "original_created_utc": 1605636628
+  ]
 }

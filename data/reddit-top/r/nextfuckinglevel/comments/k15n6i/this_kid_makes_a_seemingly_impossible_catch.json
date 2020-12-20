@@ -190,13 +190,15 @@
   },
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606393468,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "这孩子在足球比赛中接住了一个看似不可能的球。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "這孩子在足球比賽中接住了壹個看似不可能的球。"
     }
-  },
-  "original_created_utc": 1606393468
+  ]
 }

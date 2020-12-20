@@ -180,12 +180,14 @@
   "is_video": true,
   "original_created_utc": 1606508004,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "一位苏格兰记者被骗认为她抱着的考拉是一只“致命的落水熊”。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "壹位蘇格蘭記者被騙認為她抱著的考拉是壹只“致命的落水熊”。"
     }
-  }
+  ]
 }

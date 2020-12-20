@@ -157,13 +157,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605209970,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我嫁给了我的梦中情人，因为我多年来一直担心她不在那里。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我嫁給了我的夢中情人，因為我多年來壹直擔心她不在那裏。"
     }
-  },
-  "original_created_utc": 1605209970
+  ]
 }

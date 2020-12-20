@@ -159,12 +159,14 @@
   "is_video": false,
   "original_created_utc": 1608396300,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "悲伤的猫"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "悲傷的貓"
     }
-  }
+  ]
 }

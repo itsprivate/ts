@@ -153,13 +153,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606102957,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "小时候梦想拥有一个PSP，在25岁时实现了这一梦想。我花过的最好的30美元。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "小時候夢想擁有壹個PSP，在25歲時實現了這壹夢想。我花過的最好的30美元。"
     }
-  },
-  "original_created_utc": 1606102957
+  ]
 }

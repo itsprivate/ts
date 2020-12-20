@@ -160,12 +160,14 @@
   "is_video": false,
   "original_created_utc": 1606535406,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "The System of a Down‘s“Chop Suey”成为首个YouTube点击量高达10亿次的金属音乐视频"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "The System of a Down‘s“Chop Suey”成為首個YouTube點擊量高達10億次的金屬音樂視頻"
     }
-  }
+  ]
 }

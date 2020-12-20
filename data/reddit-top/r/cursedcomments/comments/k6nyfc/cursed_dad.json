@@ -139,12 +139,14 @@
   "is_video": false,
   "original_created_utc": 1607098769,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "被诅咒的爸爸"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "被詛咒的爸爸"
     }
-  }
+  ]
 }

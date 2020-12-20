@@ -150,13 +150,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606410692,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "侏儒猴子对昆虫很着迷。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "侏儒猴子對昆蟲很著迷。"
     }
-  },
-  "original_created_utc": 1606410692
+  ]
 }

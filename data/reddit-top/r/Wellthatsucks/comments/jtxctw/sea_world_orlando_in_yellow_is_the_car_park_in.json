@@ -138,13 +138,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605335497,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "奥兰多海洋世界：黄色是停车场，红色是供人类划船玩耍的湖，蓝色是虎鲸度过一生的地方。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "奧蘭多海洋世界：黃色是停車場，紅色是供人類劃船玩耍的湖，藍色是虎鯨度過壹生的地方。"
     }
-  },
-  "original_created_utc": 1605335497
+  ]
 }

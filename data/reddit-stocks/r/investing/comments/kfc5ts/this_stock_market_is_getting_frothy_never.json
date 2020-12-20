@@ -102,14 +102,16 @@
   "is_video": false,
   "original_created_utc": 1608258675,
   "the_new_excerpt": "As we await confirmation of the stimulus bill, it's hard to imagine how much\nroom the market has to run without some kind of correction. It's days like today\nwhere we continue to see the stimulus bill get steadily price in and once the\ngavel hits in Washington I suspect much of it will already be…",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "the_new_excerpt": "在我们等待经济刺激法案确认的同时，很难想象会有多少\n市场必须在没有任何调整的情况下运行。就像今天一样\n我们继续看到刺激法案得到稳定的定价，一旦\n小木槌在华盛顿热播我怀疑其中大部分已经是…了",
       "title": "这个股票市场泡沫越来越大，永远不要为获利了结而道歉。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "the_new_excerpt": "在我們等待經濟刺激法案確認的同時，很難想象會有多少\n市場必須在沒有任何調整的情況下運行。就像今天一樣\n我們繼續看到刺激法案得到穩定的定價，一旦\n小木槌在華盛頓熱播我懷疑其中大部分已經是…了",
       "title": "這個股票市場泡沫越來越大，永遠不要爲獲利了結而道歉。"
     }
-  }
+  ]
 }

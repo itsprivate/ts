@@ -161,12 +161,14 @@
   "is_video": false,
   "original_created_utc": 1608284444,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "非常严重的副作用"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "非常嚴重的副作用"
     }
-  }
+  ]
 }

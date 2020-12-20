@@ -180,12 +180,14 @@
   "is_video": true,
   "original_created_utc": 1606426489,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "WCGW-醉酒男子带电梯"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "WCGW-醉酒男子帶電梯"
     }
-  }
+  ]
 }

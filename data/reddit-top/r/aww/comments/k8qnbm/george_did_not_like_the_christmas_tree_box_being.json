@@ -180,12 +180,14 @@
   "is_video": true,
   "the_new_excerpt": "",
   "original_created_utc": 1607378668,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "乔治不喜欢把圣诞树盒子放在他的垫子上！"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "喬治不喜歡把聖誕樹盒子放在他的墊子上！"
     }
-  }
+  ]
 }

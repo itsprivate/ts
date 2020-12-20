@@ -164,13 +164,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605969425,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "没有它我不能走"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "沒有它我不能走"
     }
-  },
-  "original_created_utc": 1605969425
+  ]
 }

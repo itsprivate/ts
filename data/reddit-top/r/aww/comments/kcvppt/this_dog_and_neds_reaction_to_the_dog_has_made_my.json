@@ -165,12 +165,14 @@
   "is_video": true,
   "the_new_excerpt": "",
   "original_created_utc": 1607944209,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "这只狗和奈德对这只狗的反应让我很开心：)"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "這隻狗和奈德對這隻狗的反應讓我很開心：)"
     }
-  }
+  ]
 }

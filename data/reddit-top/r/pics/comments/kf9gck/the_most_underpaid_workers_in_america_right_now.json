@@ -142,12 +142,14 @@
   "is_video": false,
   "original_created_utc": 1608249220,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "现在美国工资最低的工人"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "現在美國工資最低的工人"
     }
-  }
+  ]
 }

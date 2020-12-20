@@ -153,13 +153,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606259319,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "苏格兰将成为第一个拥有普遍免税期产品的国家"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "蘇格蘭將成為第壹個擁有普遍免稅期產品的國家"
     }
-  },
-  "original_created_utc": 1606259319
+  ]
 }

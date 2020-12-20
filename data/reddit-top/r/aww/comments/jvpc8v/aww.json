@@ -157,13 +157,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605657177,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "哇哦"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "哇哦"
     }
-  },
-  "original_created_utc": 1605657177
+  ]
 }

@@ -158,12 +158,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607308825,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "美国最好的医疗保健"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "美國最好的醫療保健"
     }
-  }
+  ]
 }

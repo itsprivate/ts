@@ -165,12 +165,14 @@
   "is_video": true,
   "original_created_utc": 1608378056,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "他的微笑让我的日子变得更美好！：)"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "他的微笑讓我的日子變得更美好！：)"
     }
-  }
+  ]
 }

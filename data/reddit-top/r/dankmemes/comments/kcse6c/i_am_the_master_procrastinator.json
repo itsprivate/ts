@@ -159,12 +159,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607927700,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我是拖延症大师"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我是拖延症大師"
     }
-  }
+  ]
 }

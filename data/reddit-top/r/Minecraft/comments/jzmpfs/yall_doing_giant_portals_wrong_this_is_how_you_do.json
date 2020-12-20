@@ -159,13 +159,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606228318,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "你们都做错了巨型门户，这就是你们怎么做的"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "妳們都做錯了巨型門戶，這就是妳們怎麽做的"
     }
-  },
-  "original_created_utc": 1606228318
+  ]
 }

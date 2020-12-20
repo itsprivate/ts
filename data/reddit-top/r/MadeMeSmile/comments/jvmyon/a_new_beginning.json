@@ -173,13 +173,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605662187,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "新的开始"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "新的開始"
     }
-  },
-  "original_created_utc": 1605662187
+  ]
 }

@@ -190,13 +190,15 @@
   },
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605922337,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "如何在装盒前正确定位钉子"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "如何在裝盒前正確定位釘子"
     }
-  },
-  "original_created_utc": 1605922337
+  ]
 }

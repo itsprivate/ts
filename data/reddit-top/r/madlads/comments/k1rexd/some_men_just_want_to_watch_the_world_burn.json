@@ -154,13 +154,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606494925,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "有些男人只想看着世界燃烧。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "有些男人只想看著世界燃燒。"
     }
-  },
-  "original_created_utc": 1606494925
+  ]
 }

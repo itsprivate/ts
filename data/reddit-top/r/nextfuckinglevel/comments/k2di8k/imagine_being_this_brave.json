@@ -140,12 +140,14 @@
   "is_video": false,
   "original_created_utc": 1606524450,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "想象一下自己如此勇敢"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "想象壹下自己如此勇敢"
     }
-  }
+  ]
 }

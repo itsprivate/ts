@@ -149,12 +149,14 @@
   "is_video": false,
   "original_created_utc": 1608129986,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "关于飞行员工资的那部分让我很吃惊"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "關於飛行員工資的那部分讓我很喫驚"
     }
-  }
+  ]
 }

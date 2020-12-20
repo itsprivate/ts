@@ -159,13 +159,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606411418,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "被诅咒的蜘蛛gf"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "被詛咒的蜘蛛gf"
     }
-  },
-  "original_created_utc": 1606411418
+  ]
 }

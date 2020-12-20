@@ -153,13 +153,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606248028,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "当你女儿不小心打碎了一个杯子..。对称地。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "當妳女兒不小心打碎了壹個杯子..。對稱地。"
     }
-  },
-  "original_created_utc": 1606248028
+  ]
 }

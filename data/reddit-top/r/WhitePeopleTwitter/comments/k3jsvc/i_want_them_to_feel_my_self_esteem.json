@@ -144,12 +144,14 @@
   "is_video": false,
   "original_created_utc": 1606692103,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我想让他们感受到我的自尊"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我想讓他們感受到我的自尊"
     }
-  }
+  ]
 }

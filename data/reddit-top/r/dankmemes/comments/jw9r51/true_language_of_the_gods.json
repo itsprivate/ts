@@ -170,13 +170,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605708285,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "众神的真实语言"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "眾神的真實語言"
     }
-  },
-  "original_created_utc": 1605708285
+  ]
 }

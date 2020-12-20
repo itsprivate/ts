@@ -182,12 +182,14 @@
   "is_video": true,
   "the_new_excerpt": "",
   "original_created_utc": 1607441394,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "2020年的Reddit"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "2020年的Reddit"
     }
-  }
+  ]
 }

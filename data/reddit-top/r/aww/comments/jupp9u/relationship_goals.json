@@ -1616,13 +1616,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605490031,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "关系目标"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "關系目標"
     }
-  },
-  "original_created_utc": 1605490031
+  ]
 }

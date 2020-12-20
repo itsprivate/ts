@@ -144,12 +144,14 @@
   "is_video": false,
   "original_created_utc": 1608395836,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "电影逻辑就像"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "電影邏輯就像"
     }
-  }
+  ]
 }

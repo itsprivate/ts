@@ -138,13 +138,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605590199,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "这就是我不做计划的下场。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "這就是我不做計劃的下場。"
     }
-  },
-  "original_created_utc": 1605590199
+  ]
 }

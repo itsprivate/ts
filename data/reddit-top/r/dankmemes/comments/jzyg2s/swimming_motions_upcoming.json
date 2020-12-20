@@ -175,13 +175,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606245428,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "游泳运动即将到来"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "遊泳運動即將到來"
     }
-  },
-  "original_created_utc": 1606245428
+  ]
 }

@@ -102,14 +102,16 @@
   "is_video": false,
   "original_created_utc": 1608300762,
   "the_new_excerpt": "https://www.bloomberg.com/news/articles/2020-12-18/citadel-trading-chief-says-tesla-is-risk-to-other-s-p-500-stocks?srnd=premium\n\n> Funds that mimic the benchmark are set to buy more than $70 billion of the\n> carmaker’s shares and dump an equal amount of stock in existing members,\n> producing…",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "the_new_excerpt": "https://www.bloomberg.com/news/articles/2020-12-18/citadel-trading-chief-says-tesla-is-risk-to-other-s-p-500-stocks?srnd=premium\n\n>模仿基准的基金将购买超过700亿美元的\n>汽车制造商的股票，并在现有成员中抛售同等数量的股票，\n>生产…",
       "title": "Citadel交易首席执行官表示，特斯拉对其他标准普尔500指数成份股构成风险"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "the_new_excerpt": "https://www.bloomberg.com/news/articles/2020-12-18/citadel-trading-chief-says-tesla-is-risk-to-other-s-p-500-stocks?srnd=premium\n\n>模仿基準的基金將購買超過700億美元的\n>汽車製造商的股票，並在現有成員中拋售同等數量的股票，\n>生產…",
       "title": "Citadel交易首席執行官表示，特斯拉對其他標準普爾500指數成份股構成風險"
     }
-  }
+  ]
 }

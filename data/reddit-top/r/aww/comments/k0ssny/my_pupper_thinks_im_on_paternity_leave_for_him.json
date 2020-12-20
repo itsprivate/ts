@@ -180,13 +180,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606342599,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我的学生以为我在休他的陪产假"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我的學生以為我在休他的陪產假"
     }
-  },
-  "original_created_utc": 1606342599
+  ]
 }

@@ -145,12 +145,14 @@
   "is_video": false,
   "original_created_utc": 1606960162,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "美国永远不会，哦，不要紧"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "美國永遠不會，哦，不要緊"
     }
-  }
+  ]
 }

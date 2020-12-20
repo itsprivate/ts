@@ -153,13 +153,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606492312,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "欧盟对两家制药公司处以罚款，原因是它们串通将一种廉价的睡眠障碍药物替代品挡在市场上，以谋取利润，并损害患者的利益。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "歐盟對兩家制藥公司處以罰款，原因是它們串通將壹種廉價的睡眠障礙藥物替代品擋在市場上，以謀取利潤，並損害患者的利益。"
     }
-  },
-  "original_created_utc": 1606492312
+  ]
 }

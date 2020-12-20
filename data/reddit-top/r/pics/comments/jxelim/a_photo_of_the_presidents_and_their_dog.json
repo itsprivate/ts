@@ -147,13 +147,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605863942,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "一张总统和他们的狗的照片。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "壹張總統和他們的狗的照片。"
     }
-  },
-  "original_created_utc": 1605863942
+  ]
 }

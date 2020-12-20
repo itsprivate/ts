@@ -254,12 +254,14 @@
   "retweeted": false,
   "lang": "nl",
   "original_created_at": "Tue Dec 08 15:05:47 +0000 2020",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "full_text": "成长型公司的价格销售比率w/MKT Cap&GT；1000亿美元。\n$Snow：242倍\n$ZM：62倍\n$Shop：53x\n$PDD：30倍\n现在$：25倍\n$TSLA：23倍\n$NVDA：23倍\n$MA：22倍\n$V：21倍\n$ADBE：19倍\n$AMD：13倍\n$PYPL：13倍\n$MSFT：11x\n$fB：10倍\n$CRM：10倍\n$NFLX：10倍\n$BABA：9X\n$AAPL：8倍\n$GOOGL：8x\n$AMZN：5X\n\n数据：@YCharts"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "full_text": "成長型公司的價格銷售比率w/MKT Cap&GT；1000億美元。\n$Snow：242倍\n$ZM：62倍\n$Shop：53x\n$PDD：30倍\n現在$：25倍\n$TSLA：23倍\n$NVDA：23倍\n$MA：22倍\n$V：21倍\n$ADBE：19倍\n$AMD：13倍\n$PYPL：13倍\n$MSFT：11x\n$fB：10倍\n$CRM：10倍\n$NFLX：10倍\n$BABA：9X\n$AAPL：8倍\n$GOOGL：8x\n$AMZN：5X\n\n數據：@YCharts"
     }
-  }
+  ]
 }

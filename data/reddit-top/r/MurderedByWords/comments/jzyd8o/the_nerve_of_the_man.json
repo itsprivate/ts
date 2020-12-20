@@ -148,13 +148,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606238873,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "这个男人的胆量！"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "這個男人的膽量！"
     }
-  },
-  "original_created_utc": 1606238873
+  ]
 }

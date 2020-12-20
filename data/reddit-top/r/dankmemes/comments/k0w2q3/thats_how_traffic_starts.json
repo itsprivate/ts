@@ -208,13 +208,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606354494,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "交通就是这样开始的"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "交通就是這樣開始的"
     }
-  },
-  "original_created_utc": 1606354494
+  ]
 }

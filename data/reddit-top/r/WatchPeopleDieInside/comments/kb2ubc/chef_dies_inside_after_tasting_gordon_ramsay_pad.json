@@ -165,12 +165,14 @@
   "is_video": true,
   "the_new_excerpt": "",
   "original_created_utc": 1607693594,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "厨师在品尝戈登·拉姆齐泰国菜后死亡"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "廚師在品嚐戈登·拉姆齊泰國菜後死亡"
     }
-  }
+  ]
 }

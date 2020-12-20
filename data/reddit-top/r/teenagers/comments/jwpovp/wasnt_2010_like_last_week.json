@@ -159,13 +159,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605789180,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "2010年不是像上周一样吗？"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "2010年不是像上周壹樣嗎？"
     }
-  },
-  "original_created_utc": 1605789180
+  ]
 }

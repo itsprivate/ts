@@ -155,12 +155,14 @@
   "is_video": false,
   "original_created_utc": 1608378026,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我们的猫米娅把她的前爪放在尾巴上，让它们远离冰冷的表面。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我們的貓米婭把她的前爪放在尾巴上，讓它們遠離冰冷的表面。"
     }
-  }
+  ]
 }

@@ -180,12 +180,14 @@
   "is_video": true,
   "the_new_excerpt": "",
   "original_created_utc": 1607640837,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "令人惊叹的事情在2077年成为可能"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "令人驚歎的事情在2077年成爲可能"
     }
-  }
+  ]
 }

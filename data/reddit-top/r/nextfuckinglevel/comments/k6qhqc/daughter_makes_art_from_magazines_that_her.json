@@ -171,12 +171,14 @@
   "is_video": true,
   "original_created_utc": 1607106388,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "女儿用爷爷从小送给她的杂志创作艺术！"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "女兒用爺爺從小送給她的雜誌創作藝術！"
     }
-  }
+  ]
 }

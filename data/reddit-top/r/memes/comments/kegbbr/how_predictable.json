@@ -156,12 +156,14 @@
   "is_video": false,
   "original_created_utc": 1608147911,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "如何预测"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "如何預測"
     }
-  }
+  ]
 }

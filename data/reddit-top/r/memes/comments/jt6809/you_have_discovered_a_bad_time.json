@@ -154,13 +154,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605224945,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "你发现了一段不愉快的时光"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "妳發現了壹段不愉快的時光"
     }
-  },
-  "original_created_utc": 1605224945
+  ]
 }

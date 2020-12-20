@@ -154,13 +154,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605229539,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "为我怀孕的寄养狗拍摄孕妇照"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "為我懷孕的寄養狗拍攝孕婦照"
     }
-  },
-  "original_created_utc": 1605229539
+  ]
 }

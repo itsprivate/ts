@@ -154,12 +154,14 @@
   "is_video": false,
   "original_created_utc": 1606473028,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "爱存在于所有类型的日子里"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "愛存在於所有類型的日子裏"
     }
-  }
+  ]
 }

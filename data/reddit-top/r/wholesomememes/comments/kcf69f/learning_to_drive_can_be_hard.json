@@ -144,12 +144,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607882347,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "学开车可能很难"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "學開車可能很難"
     }
-  }
+  ]
 }

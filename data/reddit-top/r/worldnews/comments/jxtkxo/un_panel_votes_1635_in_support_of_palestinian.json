@@ -150,13 +150,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605922337,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "联合国小组以163票对5票支持巴勒斯坦建国，结束占领"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "聯合國小組以163票對5票支持巴勒斯坦建國，結束占領"
     }
-  },
-  "original_created_utc": 1605922337
+  ]
 }

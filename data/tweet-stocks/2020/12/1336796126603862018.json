@@ -180,12 +180,14 @@
   "retweeted": false,
   "lang": "en",
   "original_created_at": "Wed Dec 09 22:13:27 +0000 2020",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "full_text": "2020年IPO：首日收益与发行价.\nCureVac$CVAC：+249%\nBigCommerce$BIGC：+201%\n伯克利灯光$BLI：+198%\nSEER$SEER：+197%\nAgora$API：+152%\n柠檬水$LMND：+139%\nNcino$NCNO：+133%\nVroom$Vrm：+118%\n雪花$雪花：+112%\n科氏控股$BEKE：+87%\nDoorDash$Dash：+86%"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "full_text": "2020年IPO：首日收益與發行價.\nCureVac$CVAC：+249%\nBigCommerce$BIGC：+201%\n伯克利燈光$BLI：+198%\nSEER$SEER：+197%\nAgora$API：+152%\n檸檬水$LMND：+139%\nNcino$NCNO：+133%\nVroom$Vrm：+118%\n雪花$雪花：+112%\n科氏控股$BEKE：+87%\nDoorDash$Dash：+86%"
     }
-  }
+  ]
 }

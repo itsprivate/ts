@@ -208,13 +208,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606434654,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "这种事我们大家都是难免的"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "這種事我們大家都是難免的"
     }
-  },
-  "original_created_utc": 1606434654
+  ]
 }

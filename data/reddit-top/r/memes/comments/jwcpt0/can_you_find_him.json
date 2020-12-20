@@ -139,13 +139,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605716505,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "你能找到他吗？"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "妳能找到他嗎？"
     }
-  },
-  "original_created_utc": 1605716505
+  ]
 }

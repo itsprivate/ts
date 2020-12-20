@@ -150,12 +150,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607781282,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "当一个政府抛弃它的时候，它的人民.."
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "當一個政府拋棄它的時候，它的人民.."
     }
-  }
+  ]
 }

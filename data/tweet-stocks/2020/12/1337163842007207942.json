@@ -181,12 +181,14 @@
   "possibly_sensitive": false,
   "lang": "en",
   "original_created_at": "Thu Dec 10 22:34:37 +0000 2020",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "full_text": "全球通货膨胀率。https://t.co/nQg39JbUBB"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "full_text": "全球通貨膨脹率。https://t.co/nQg39JbUBB"
     }
-  }
+  ]
 }

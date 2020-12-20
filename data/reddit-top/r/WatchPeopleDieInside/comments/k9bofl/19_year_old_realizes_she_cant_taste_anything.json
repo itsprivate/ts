@@ -180,12 +180,14 @@
   "is_video": true,
   "the_new_excerpt": "",
   "original_created_utc": 1607457519,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "19岁的她意识到自己什么都尝不到"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "19歲的她意識到自己什麽都嘗不到"
     }
-  }
+  ]
 }

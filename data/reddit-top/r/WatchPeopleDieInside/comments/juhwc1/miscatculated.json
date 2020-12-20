@@ -163,13 +163,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605467740,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "计算错误"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "計算錯誤"
     }
-  },
-  "original_created_utc": 1605467740
+  ]
 }

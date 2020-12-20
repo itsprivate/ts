@@ -189,12 +189,14 @@
   "possibly_sensitive": false,
   "lang": "en",
   "original_created_at": "Wed Dec 16 14:04:10 +0000 2020",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "full_text": "比特币：通向2万的道路.\n\nhttps://t.co/L6GkpjBUdp TC巴恩斯"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "full_text": "比特幣：通向2萬的道路.\n\nhttps://t.co/L6GkpjBUdp TC巴恩斯"
     }
-  }
+  ]
 }

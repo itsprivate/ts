@@ -145,12 +145,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607801877,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "如此神秘..。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "如此神祕..。"
     }
-  }
+  ]
 }

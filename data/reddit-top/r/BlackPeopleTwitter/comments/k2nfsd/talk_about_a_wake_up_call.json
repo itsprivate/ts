@@ -144,12 +144,14 @@
   "is_video": false,
   "original_created_utc": 1606569215,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "谈论叫醒服务"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "談論叫醒服務"
     }
-  }
+  ]
 }

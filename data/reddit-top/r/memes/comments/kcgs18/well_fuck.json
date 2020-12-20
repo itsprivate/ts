@@ -176,12 +176,14 @@
   "is_video": true,
   "the_new_excerpt": "",
   "original_created_utc": 1607887319,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "好吧，他妈的"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "好吧，他媽的"
     }
-  }
+  ]
 }

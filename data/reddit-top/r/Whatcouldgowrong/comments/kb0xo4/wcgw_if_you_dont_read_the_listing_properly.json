@@ -171,12 +171,14 @@
   "is_video": true,
   "the_new_excerpt": "",
   "original_created_utc": 1607685536,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "WCGW如果您没有正确阅读清单"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "WCGW如果您沒有正確閱讀清單"
     }
-  }
+  ]
 }

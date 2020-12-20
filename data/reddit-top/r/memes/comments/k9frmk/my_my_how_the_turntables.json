@@ -149,12 +149,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607470128,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "天啊，转盘怎么."
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "天啊，轉盤怎麽."
     }
-  }
+  ]
 }

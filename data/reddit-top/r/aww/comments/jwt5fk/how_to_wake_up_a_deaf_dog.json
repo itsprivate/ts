@@ -164,13 +164,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605790283,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "如何叫醒一只聋哑的狗"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "如何叫醒壹只聾啞的狗"
     }
-  },
-  "original_created_utc": 1605790283
+  ]
 }

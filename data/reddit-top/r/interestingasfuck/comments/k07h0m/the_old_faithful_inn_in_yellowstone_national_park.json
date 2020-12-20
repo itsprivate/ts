@@ -153,13 +153,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606266605,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "黄石国家公园的老忠实客栈"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "黃石國家公園的老忠實客棧"
     }
-  },
-  "original_created_utc": 1606266605
+  ]
 }

@@ -155,12 +155,14 @@
   "is_video": false,
   "original_created_utc": 1607315132,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我向任何有关于他们的电影的人道歉"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我向任何有關於他們的電影的人道歉"
     }
-  }
+  ]
 }

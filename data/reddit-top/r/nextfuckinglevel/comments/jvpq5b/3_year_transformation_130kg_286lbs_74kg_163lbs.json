@@ -154,13 +154,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605630786,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "3年改造，130公斤(286磅)->74公斤(163磅)"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "3年改造，130公斤(286磅)->74公斤(163磅)"
     }
-  },
-  "original_created_utc": 1605630786
+  ]
 }

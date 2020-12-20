@@ -145,12 +145,14 @@
   "is_video": false,
   "original_created_utc": 1607498305,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "去你妈的性感闹钟"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "去妳媽的性感鬧鐘"
     }
-  }
+  ]
 }

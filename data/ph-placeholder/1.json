@@ -119,14 +119,16 @@
     ]
   },
   "original_createdAt": "2020-12-17T08:03:53Z",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "description": "虚拟现实何时起飞？100美元的赌注",
       "tagline": "tag"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "description": "虛擬現實何時起飛？100美元的賭注",
       "tagline": "tag"
     }
-  }
+  ]
 }

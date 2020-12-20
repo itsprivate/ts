@@ -190,12 +190,14 @@
   "possibly_sensitive": false,
   "lang": "en",
   "original_created_at": "Fri Dec 18 15:49:50 +0000 2020",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "full_text": "今年社交媒体上84%的投资建议来自https://t.co/vkasTbEeyE"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "full_text": "今年社交媒體上84%的投資建議來自https://t.co/vkasTbEeyE"
     }
-  }
+  ]
 }

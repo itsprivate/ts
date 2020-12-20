@@ -144,12 +144,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607894701,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "“最后一代”"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "“最後一代”"
     }
-  }
+  ]
 }

@@ -144,12 +144,14 @@
   "is_video": false,
   "original_created_utc": 1606602572,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "没有凯伦，坏凯伦"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "沒有凱倫，壞凱倫"
     }
-  }
+  ]
 }

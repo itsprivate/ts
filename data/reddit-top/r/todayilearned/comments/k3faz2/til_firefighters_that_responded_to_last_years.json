@@ -154,12 +154,14 @@
   "is_video": false,
   "original_created_utc": 1606677349,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "[今天我学到了]对去年巴黎圣母院大火做出反应的消防员才知道要营救哪些艺术品，以及按照为此类灾难制定的协议按什么顺序救援。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "[今天我學到了]對去年巴黎聖母院大火做出反應的消防員才知道要營救哪些藝術品，以及按照為此類災難制定的協議按什麽順序救援。"
     }
-  }
+  ]
 }

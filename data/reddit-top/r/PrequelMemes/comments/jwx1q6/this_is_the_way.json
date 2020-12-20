@@ -164,13 +164,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605814930,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "就是这条路"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "就是這條路"
     }
-  },
-  "original_created_utc": 1605814930
+  ]
 }

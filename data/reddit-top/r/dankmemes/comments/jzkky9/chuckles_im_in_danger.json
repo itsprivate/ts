@@ -219,13 +219,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606179517,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "*咯咯地笑*我处于危险之中"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "*咯咯地笑*我處於危險之中"
     }
-  },
-  "original_created_utc": 1606179517
+  ]
 }

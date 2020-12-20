@@ -181,12 +181,14 @@
   "is_video": true,
   "original_created_utc": 1608109985,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "保佑我，诺拉，因为我有罪"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "保佑我，諾拉，因爲我有罪"
     }
-  }
+  ]
 }

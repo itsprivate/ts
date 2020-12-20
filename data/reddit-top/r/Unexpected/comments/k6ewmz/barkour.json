@@ -172,12 +172,14 @@
   "is_video": true,
   "original_created_utc": 1607060644,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "巴库"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "巴庫"
     }
-  }
+  ]
 }

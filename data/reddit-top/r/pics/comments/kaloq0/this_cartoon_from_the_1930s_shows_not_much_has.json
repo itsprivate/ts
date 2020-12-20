@@ -148,12 +148,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607627161,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "这幅20世纪30年代的卡通显示，在这方面没有太大变化。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "這幅20世紀30年代的卡通顯示，在這方面沒有太大變化。"
     }
-  }
+  ]
 }

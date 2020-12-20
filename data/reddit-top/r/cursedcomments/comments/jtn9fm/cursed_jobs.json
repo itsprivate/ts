@@ -159,13 +159,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605298283,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "受诅咒的工作"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "受詛咒的工作"
     }
-  },
-  "original_created_utc": 1605298283
+  ]
 }

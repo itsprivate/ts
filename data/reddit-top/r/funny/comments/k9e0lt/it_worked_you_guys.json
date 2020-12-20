@@ -181,12 +181,14 @@
   "is_video": true,
   "the_new_excerpt": "",
   "original_created_utc": 1607464599,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "成功了，伙计们！"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "成功了，夥計們！"
     }
-  }
+  ]
 }

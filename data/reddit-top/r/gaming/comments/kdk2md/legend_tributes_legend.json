@@ -155,12 +155,14 @@
   "is_video": false,
   "original_created_utc": 1608031673,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "传奇致敬传奇"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "傳奇致敬傳奇"
     }
-  }
+  ]
 }

@@ -155,12 +155,14 @@
   "is_video": false,
   "original_created_utc": 1607115690,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "他们都很爱我"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "他們都很愛我"
     }
-  }
+  ]
 }

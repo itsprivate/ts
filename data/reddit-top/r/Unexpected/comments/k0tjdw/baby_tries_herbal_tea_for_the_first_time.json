@@ -170,13 +170,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606389084,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "宝宝第一次品尝花草茶"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "寶寶第壹次品嘗花草茶"
     }
-  },
-  "original_created_utc": 1606389084
+  ]
 }

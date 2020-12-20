@@ -37,12 +37,14 @@
     }
   },
   "original_created_at": "2020-12-19T02:15:18.000Z",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "Zoom一名高管被控扰乱天安门广场纪念会议"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "Zoom一名高管被控擾亂天安門廣場紀念會議"
     }
-  }
+  ]
 }

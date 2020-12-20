@@ -144,13 +144,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605849447,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "为这位每个人的父亲大喊一声"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "為這位每個人的父親大喊壹聲"
     }
-  },
-  "original_created_utc": 1605849447
+  ]
 }

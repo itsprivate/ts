@@ -102,14 +102,16 @@
   "is_video": false,
   "original_created_utc": 1608214129,
   "the_new_excerpt": "Where do you think RH got $65m to settle with SEC?\n\nhttps://www.sec.gov/news/press-release/2020…",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "the_new_excerpt": "你认为RH是从哪里拿到6500万美元与SEC达成和解的？\n\nhttps://www.sec.gov/news/press-release/2020…",
       "title": "SEC指控罗宾汉6500万美元"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "the_new_excerpt": "你認爲RH是從哪裏拿到6500萬美元與SEC達成和解的？\n\nhttps://www.sec.gov/news/press-release/2020…",
       "title": "SEC指控羅賓漢6500萬美元"
     }
-  }
+  ]
 }

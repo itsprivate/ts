@@ -36,12 +36,14 @@
     }
   },
   "original_created_at": "2020-12-16T09:22:31.000Z",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "I3：改进的平铺窗口管理器"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "I3：改進的平鋪窗口管理器"
     }
-  }
+  ]
 }

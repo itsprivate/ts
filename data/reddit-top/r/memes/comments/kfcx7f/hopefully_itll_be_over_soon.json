@@ -159,12 +159,14 @@
   "is_video": false,
   "original_created_utc": 1608261430,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "希望它能很快结束"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "希望它能很快結束"
     }
-  }
+  ]
 }

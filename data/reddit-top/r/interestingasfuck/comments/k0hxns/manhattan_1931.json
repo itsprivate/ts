@@ -153,13 +153,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606308089,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "曼哈顿，1931年。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "曼哈頓，1931年。"
     }
-  },
-  "original_created_utc": 1606308089
+  ]
 }

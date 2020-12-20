@@ -194,12 +194,14 @@
   "is_video": false,
   "original_created_utc": 1607694692,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "使计算变得更简单"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "使計算變得更簡單"
     }
-  }
+  ]
 }

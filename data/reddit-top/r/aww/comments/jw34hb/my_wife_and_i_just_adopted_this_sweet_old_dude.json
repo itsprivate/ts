@@ -171,13 +171,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605676855,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我和我妻子刚刚收养了这个可爱的老头。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我和我妻子剛剛收養了這個可愛的老頭。"
     }
-  },
-  "original_created_utc": 1605676855
+  ]
 }

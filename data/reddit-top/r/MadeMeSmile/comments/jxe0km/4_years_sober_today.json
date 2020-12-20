@@ -171,13 +171,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605882104,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "今天戒酒4年了！"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "今天戒酒4年了！"
     }
-  },
-  "original_created_utc": 1605882104
+  ]
 }

@@ -181,13 +181,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606281588,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "这是犹他州第一个用车辆避险的野生动物立交桥。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "這是猶他州第壹個用車輛避險的野生動物立交橋。"
     }
-  },
-  "original_created_utc": 1606281588
+  ]
 }

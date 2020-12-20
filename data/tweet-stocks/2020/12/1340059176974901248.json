@@ -200,12 +200,14 @@
   "possibly_sensitive": false,
   "lang": "en",
   "original_created_at": "Fri Dec 18 22:19:39 +0000 2020",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "full_text": "下周一，当特斯拉加入标准普尔500指数时，它将拥有全球第六大市值(6420亿美元)，仅次于苹果(Apple)/微软(Microsoft)/亚马逊(Amazon)/谷歌(Google)/Facebook。\n\n其5.56亿美元的净收入将排在第319位。\n\n它的24倍的价格销售比将是第四高的。\n\n美国电话服务级别协议\n\n图表通过@ycharts https://t.co/8Y15REo7HA"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "full_text": "下週一，當特斯拉加入標準普爾500指數時，它將擁有全球第六大市值(6420億美元)，僅次於蘋果(Apple)/微軟(Microsoft)/亞馬遜(Amazon)/谷歌(Google)/Facebook。\n\n其5.56億美元的淨收入將排在第319位。\n\n它的24倍的價格銷售比將是第四高的。\n\n美國電話服務級別協議\n\n圖表通過@ycharts https://t.co/8Y15REo7HA"
     }
-  }
+  ]
 }

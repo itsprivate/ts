@@ -145,12 +145,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607945250,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "不错的尝试，MF"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "不錯的嘗試，MF"
     }
-  }
+  ]
 }

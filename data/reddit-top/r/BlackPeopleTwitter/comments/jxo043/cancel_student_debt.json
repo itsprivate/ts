@@ -144,13 +144,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605919884,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "取消学生债务"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "取消學生債務"
     }
-  },
-  "original_created_utc": 1605919884
+  ]
 }

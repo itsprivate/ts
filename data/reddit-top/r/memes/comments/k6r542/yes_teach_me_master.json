@@ -144,12 +144,14 @@
   "is_video": false,
   "original_created_utc": 1607108431,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "是的，教我师父吧！"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "是的，教我師父吧！"
     }
-  }
+  ]
 }

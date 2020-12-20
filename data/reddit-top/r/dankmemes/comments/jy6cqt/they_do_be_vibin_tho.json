@@ -225,13 +225,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605975983,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "他们确实是在颤抖"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "他們確實是在顫抖"
     }
-  },
-  "original_created_utc": 1605975983
+  ]
 }

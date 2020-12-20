@@ -165,12 +165,14 @@
   "is_video": true,
   "original_created_utc": 1606984913,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我没有看南方公园，所以完全措手不及。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我沒有看南方公園，所以完全措手不及。"
     }
-  }
+  ]
 }

@@ -143,13 +143,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605487769,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "德国欢呼沙发土豆为冠状病毒大流行的英雄"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "德國歡呼沙發土豆為冠狀病毒大流行的英雄"
     }
-  },
-  "original_created_utc": 1605487769
+  ]
 }

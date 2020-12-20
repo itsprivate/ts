@@ -103,14 +103,16 @@
   "is_video": false,
   "original_created_utc": 1608005818,
   "the_new_excerpt": "I am by no means an expert in the markets, but I’d like to hear what some better\ninformed people think of this. I keep hearing/reading that the markets are too\nhigh, everything is overvalued etc. etc. Well, could it just be the case that\nour metrics for market and stock valuations are outdated?…",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "the_new_excerpt": "我绝对不是市场方面的专家，但我想听听有什么更好的\n消息灵通的人会想到这一点。我一直听说/读到市场也\n高，所有的东西都被高估了等等。那么，会不会只是这样\n我们的市场和股票估值指标已经过时？…",
       "title": "“一切都被高估了”是吗，真的吗？"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "the_new_excerpt": "我絕對不是市場方面的專家，但我想聽聽有什麼更好的\n消息靈通的人會想到這一點。我一直聽說/讀到市場也\n高，所有的東西都被高估了等等。那麼，會不會只是這樣\n我們的市場和股票估值指標已經過時？…",
       "title": "“一切都被高估了”是嗎，真的嗎？"
     }
-  }
+  ]
 }

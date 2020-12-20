@@ -144,12 +144,14 @@
   "is_video": false,
   "original_created_utc": 1606473665,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "2019年年度最佳野生动物照片"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "2019年年度最佳野生動物照片"
     }
-  }
+  ]
 }

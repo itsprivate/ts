@@ -143,13 +143,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606270562,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "摇滚起来！：)"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "搖滾起來！：)"
     }
-  },
-  "original_created_utc": 1606270562
+  ]
 }

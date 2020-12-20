@@ -163,13 +163,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606424038,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "报道称，特朗普的核心圈子告诉他，朱利安尼和他法律团队的睡觉让他看起来像个白痴"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "報道稱，特朗普的核心圈子告訴他，朱利安尼和他法律團隊的睡覺讓他看起來像個白癡"
     }
-  },
-  "original_created_utc": 1606424038
+  ]
 }

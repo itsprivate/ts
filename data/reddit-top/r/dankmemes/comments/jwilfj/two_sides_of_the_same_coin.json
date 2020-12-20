@@ -159,13 +159,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605787818,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "一枚硬币的两面。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "壹枚硬幣的兩面。"
     }
-  },
-  "original_created_utc": 1605787818
+  ]
 }

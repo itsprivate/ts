@@ -175,13 +175,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606015715,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "尖叫引擎托马斯"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "尖叫引擎托馬斯"
     }
-  },
-  "original_created_utc": 1606015715
+  ]
 }

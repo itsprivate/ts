@@ -37,12 +37,14 @@
     }
   },
   "original_created_at": "2020-12-17T14:02:58.000Z",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "SEC指控罗宾汉在收入来源方面误导客户6500万美元"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "SEC指控羅賓漢在收入來源方面誤導客戶6500萬美元"
     }
-  }
+  ]
 }

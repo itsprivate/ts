@@ -224,12 +224,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607781356,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "这是新的潮流。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "這是新的潮流。"
     }
-  }
+  ]
 }

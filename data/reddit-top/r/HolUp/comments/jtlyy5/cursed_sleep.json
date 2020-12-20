@@ -148,13 +148,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605294355,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "被诅咒的睡眠"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "被詛咒的睡眠"
     }
-  },
-  "original_created_utc": 1605294355
+  ]
 }

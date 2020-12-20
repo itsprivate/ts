@@ -171,12 +171,14 @@
   "is_video": true,
   "original_created_utc": 1607201244,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "请尽情享受这些改变主意的鸭子吧"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "請盡情享受這些改變主意的鴨子吧"
     }
-  }
+  ]
 }

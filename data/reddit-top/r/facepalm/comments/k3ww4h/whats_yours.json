@@ -145,12 +145,14 @@
   "is_video": false,
   "original_created_utc": 1606746954,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "你的是什么？"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "妳的是什麽？"
     }
-  }
+  ]
 }

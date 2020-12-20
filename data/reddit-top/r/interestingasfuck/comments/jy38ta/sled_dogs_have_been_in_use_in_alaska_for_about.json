@@ -191,13 +191,15 @@
   },
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605961395,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "雪橇狗在阿拉斯加已经使用了大约9000年。这是他们在阿拉斯加的13人团队。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "雪橇狗在阿拉斯加已經使用了大約9000年。這是他們在阿拉斯加的13人團隊。"
     }
-  },
-  "original_created_utc": 1605961395
+  ]
 }

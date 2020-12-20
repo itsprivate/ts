@@ -106,13 +106,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605271226,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "你最喜欢的“死亡”系列电子游戏是什么？"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "妳最喜歡的“死亡”系列電子遊戲是什麽？"
     }
-  },
-  "original_created_utc": 1605271226
+  ]
 }

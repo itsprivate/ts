@@ -148,13 +148,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605698249,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "他们再也不会嘲笑我了，😈😈"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "他們再也不會嘲笑我了，😈😈"
     }
-  },
-  "original_created_utc": 1605698249
+  ]
 }

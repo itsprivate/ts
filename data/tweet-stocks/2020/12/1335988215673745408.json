@@ -191,12 +191,14 @@
   "possibly_sensitive": false,
   "lang": "en",
   "original_created_at": "Mon Dec 07 16:43:06 +0000 2020",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "full_text": "新帖子：\n\n回顾过去10年的首次公开募股市场和涌现出的令人难以置信的高增长公司…\n\nhttps://t.co/A8LeUHVNSl https://t.co/RBsGDNvPKB"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "full_text": "新帖子：\n\n回顧過去10年的首次公開募股市場和湧現出的令人難以置信的高增長公司…\n\nhttps://t.co/A8LeUHVNSl https://t.co/RBsGDNvPKB"
     }
-  }
+  ]
 }

@@ -152,12 +152,14 @@
   "is_video": false,
   "original_created_utc": 1607263381,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "SpaceX助推器返回地球再次重复使用"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "SpaceX助推器返回地球再次重復使用"
     }
-  }
+  ]
 }

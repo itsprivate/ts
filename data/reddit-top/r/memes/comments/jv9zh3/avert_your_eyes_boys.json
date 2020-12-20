@@ -148,13 +148,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605567848,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "把你们的眼睛移开，孩子们"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "把妳們的眼睛移開，孩子們"
     }
-  },
-  "original_created_utc": 1605567848
+  ]
 }

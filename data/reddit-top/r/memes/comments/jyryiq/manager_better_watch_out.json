@@ -153,13 +153,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606068006,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "经理最好当心点"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "經理最好當心點"
     }
-  },
-  "original_created_utc": 1606068006
+  ]
 }

@@ -143,13 +143,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606151491,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我总是对着这个表情包咯咯地笑。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我總是對著這個表情包咯咯地笑。"
     }
-  },
-  "original_created_utc": 1606151491
+  ]
 }

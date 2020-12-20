@@ -158,13 +158,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605551383,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "向别人吐痰是我与生俱来的权利"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "向別人吐痰是我與生俱來的權利"
     }
-  },
-  "original_created_utc": 1605551383
+  ]
 }

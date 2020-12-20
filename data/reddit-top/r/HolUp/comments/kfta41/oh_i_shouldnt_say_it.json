@@ -147,12 +147,14 @@
   "is_video": false,
   "original_created_utc": 1608324323,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "“哦，我不应该这么说”"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "“哦，我不應該這麼說”"
     }
-  }
+  ]
 }

@@ -153,13 +153,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605295701,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "奶奶的笑声愈演愈烈"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "奶奶的笑聲愈演愈烈"
     }
-  },
-  "original_created_utc": 1605295701
+  ]
 }

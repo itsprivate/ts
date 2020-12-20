@@ -169,13 +169,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606223918,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "完美的圣诞摄影"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "完美的聖誕攝影"
     }
-  },
-  "original_created_utc": 1606223918
+  ]
 }

@@ -159,12 +159,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607352653,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "来吧，我想告诉我的心上人我喜欢她"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "來吧，我想告訴我的心上人我喜歡她"
     }
-  }
+  ]
 }

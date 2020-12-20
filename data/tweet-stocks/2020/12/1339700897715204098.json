@@ -181,12 +181,14 @@
   "possibly_sensitive": false,
   "lang": "en",
   "original_created_at": "Thu Dec 17 22:35:59 +0000 2020",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "full_text": "美联储的资产负债表规模为7.363万亿美元，本周再创新高。\n\n自今年年初以来，资产增加了超过3万亿美元，美联储昨天再次承诺将继续以每月1200亿美元的速度购买债券。https://t.co/KC45JiRzat"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "full_text": "美聯儲的資產負債表規模爲7.363萬億美元，本週再創新高。\n\n自今年年初以來，資產增加了超過3萬億美元，美聯儲昨天再次承諾將繼續以每月1200億美元的速度購買債券。https://t.co/KC45JiRzat"
     }
-  }
+  ]
 }

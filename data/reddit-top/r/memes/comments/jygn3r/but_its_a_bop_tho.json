@@ -188,13 +188,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606009900,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "但这是波普托"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "但這是波普托"
     }
-  },
-  "original_created_utc": 1606009900
+  ]
 }

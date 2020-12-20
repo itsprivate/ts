@@ -154,12 +154,14 @@
   "is_video": false,
   "original_created_utc": 1606491665,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "Bugsnax开发人员充分利用了他们的洋葱评论"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "Bugsnax開發人員充分利用了他們的洋蔥評論"
     }
-  }
+  ]
 }

@@ -148,13 +148,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605207915,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "这是个合理的问题，戴夫"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "這是個合理的問題，戴夫"
     }
-  },
-  "original_created_utc": 1605207915
+  ]
 }

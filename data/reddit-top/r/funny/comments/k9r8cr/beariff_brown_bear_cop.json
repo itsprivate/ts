@@ -145,12 +145,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607517994,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "比尔夫·布朗：熊警察"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "比爾夫·布朗：熊警察"
     }
-  }
+  ]
 }

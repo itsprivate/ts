@@ -165,12 +165,14 @@
   "is_video": true,
   "original_created_utc": 1607084982,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "从字面上说它停在了它的轨道上"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "從字面上說它停在了它的軌道上"
     }
-  }
+  ]
 }

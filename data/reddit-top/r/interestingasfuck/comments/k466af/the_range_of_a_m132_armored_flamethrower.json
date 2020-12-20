@@ -196,12 +196,14 @@
   "is_video": false,
   "original_created_utc": 1606773033,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "M132装甲喷射火焰的射程"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "M132裝甲噴射火焰的射程"
     }
-  }
+  ]
 }

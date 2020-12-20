@@ -166,13 +166,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606350607,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "这家伙因为不参加公司强制祈祷而被解雇。北卡罗来纳州格林斯伯勒，奥罗拉专业服务公司"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "這家夥因為不參加公司強制祈禱而被解雇。北卡羅來納州格林斯伯勒，奧羅拉專業服務公司"
     }
-  },
-  "original_created_utc": 1606350607
+  ]
 }

@@ -191,12 +191,14 @@
   "is_video": false,
   "original_created_utc": 1608212697,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "给你的马盖好被子过夜。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "給你的馬蓋好被子過夜。"
     }
-  }
+  ]
 }

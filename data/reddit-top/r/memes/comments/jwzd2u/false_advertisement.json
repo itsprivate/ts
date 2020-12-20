@@ -168,13 +168,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605799237,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "虚假广告"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "虛假廣告"
     }
-  },
-  "original_created_utc": 1605799237
+  ]
 }

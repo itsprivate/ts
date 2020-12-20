@@ -155,12 +155,14 @@
   "is_video": false,
   "original_created_utc": 1606570149,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "Yo Mama胖子"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "Yo Mama胖子"
     }
-  }
+  ]
 }

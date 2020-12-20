@@ -139,12 +139,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607514240,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "如何辨别你是90后的孩子"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "如何辨別妳是90後的孩子"
     }
-  }
+  ]
 }

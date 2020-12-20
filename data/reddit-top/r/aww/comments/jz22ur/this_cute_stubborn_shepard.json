@@ -169,13 +169,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606117971,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "这只可爱而固执的牧羊犬"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "這只可愛而固執的牧羊犬"
     }
-  },
-  "original_created_utc": 1606117971
+  ]
 }

@@ -154,12 +154,14 @@
   "is_video": false,
   "original_created_utc": 1606663245,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "这个拉面在一个不存在的日子过期"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "這個拉面在壹個不存在的日子過期"
     }
-  }
+  ]
 }

@@ -156,12 +156,14 @@
   "is_video": false,
   "original_created_utc": 1608304244,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "纽约市调查发现，纽约警察局在乔治·弗洛伊德抗议期间过度使用武力"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "紐約市調查發現，紐約警察局在喬治·弗洛伊德抗議期間過度使用武力"
     }
-  }
+  ]
 }

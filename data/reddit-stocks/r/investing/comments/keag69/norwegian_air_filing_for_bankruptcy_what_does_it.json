@@ -102,14 +102,16 @@
   "is_video": false,
   "original_created_utc": 1608129886,
   "the_new_excerpt": "So apperently they are filing for bankruptcy:\n\nhttps://edition.cnn.com/2020/11/18/business/norwegian-air-bankruptcy-protection/index.html\n\nHowever it reads like they are trying to \"rebuild\" the company somehow and I'm\nwondering how this might play out. Would it be possible for them to…",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "the_new_excerpt": "因此，很明显，他们正在申请破产：\n\nhttps://edition.cnn.com/2020/11/18/business/norwegian-air-bankruptcy-protection/index.html\n\n然而，看起来他们似乎在试图以某种方式“重建”公司，而我\n想知道这件事会怎样发展。他们有没有可能…",
       "title": "挪威航空公司申请破产。什么意思？"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "the_new_excerpt": "因此，很明顯，他們正在申請破產：\n\nhttps://edition.cnn.com/2020/11/18/business/norwegian-air-bankruptcy-protection/index.html\n\n然而，看起來他們似乎在試圖以某種方式“重建”公司，而我\n想知道這件事會怎樣發展。他們有沒有可能…",
       "title": "挪威航空公司申請破產。什麼意思？"
     }
-  }
+  ]
 }

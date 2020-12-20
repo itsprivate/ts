@@ -143,13 +143,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605774025,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我是一名文学老师，这一点很深刻。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我是壹名文學老師，這壹點很深刻。"
     }
-  },
-  "original_created_utc": 1605774025
+  ]
 }

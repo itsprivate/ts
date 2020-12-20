@@ -187,12 +187,14 @@
   "is_video": true,
   "original_created_utc": 1606917396,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "回馈送货司机"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "回饋送貨司機"
     }
-  }
+  ]
 }

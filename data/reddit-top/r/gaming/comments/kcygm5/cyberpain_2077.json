@@ -140,12 +140,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607955553,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "CyberPain 2077"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "CyberPain 2077"
     }
-  }
+  ]
 }

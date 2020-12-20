@@ -153,13 +153,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605925325,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "为了庆祝稻谷丰收，日本北部的艺术家们用剩下的稻草制作了巨大的动物雕塑。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "為了慶祝稻谷豐收，日本北部的藝術家們用剩下的稻草制作了巨大的動物雕塑。"
     }
-  },
-  "original_created_utc": 1605925325
+  ]
 }

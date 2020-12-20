@@ -158,13 +158,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606288850,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "为什么是伙计们？为什么？"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "為什麽是夥計們？為什麽？"
     }
-  },
-  "original_created_utc": 1606288850
+  ]
 }

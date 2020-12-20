@@ -190,13 +190,15 @@
   },
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605728211,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "一艘商业飞船(SpaceX‘s Crew Dragon)的四名宇航员刚刚登上国际空间站，国际空间站的机组人员人数达到了7人。如果把尤达宝宝算在内，那么就是8人。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "壹艘商業飛船(SpaceX‘s Crew Dragon)的四名宇航員剛剛登上國際空間站，國際空間站的機組人員人數達到了7人。如果把尤達寶寶算在內，那麽就是8人。"
     }
-  },
-  "original_created_utc": 1605728211
+  ]
 }

@@ -98,14 +98,16 @@
     ]
   },
   "original_createdAt": "2020-12-17T08:01:00Z",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "description": "ProStyles是一款人工智能相机应用程序，在你拍摄照片和视频时，它会以专业摄影师的风格编辑它们。内置风格商店的特色是由一些最好的摄影师创建的人工智能风格模型。",
       "tagline": "AI Cam App-照片以专业风格自动编辑"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "description": "ProStyles是一款人工智能相機應用程序，在你拍攝照片和視頻時，它會以專業攝影師的風格編輯它們。內置風格商店的特色是由一些最好的攝影師創建的人工智能風格模型。",
       "tagline": "AI Cam App-照片以專業風格自動編輯"
     }
-  }
+  ]
 }

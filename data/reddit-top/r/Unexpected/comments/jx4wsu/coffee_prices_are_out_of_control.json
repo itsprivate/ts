@@ -170,13 +170,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605875245,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "咖啡价格已经失控。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "咖啡價格已經失控。"
     }
-  },
-  "original_created_utc": 1605875245
+  ]
 }

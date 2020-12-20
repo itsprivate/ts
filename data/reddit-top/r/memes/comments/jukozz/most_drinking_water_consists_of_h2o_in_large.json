@@ -143,13 +143,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605480768,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "大多数饮用水都含有大量的水"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "大多數飲用水都含有大量的水"
     }
-  },
-  "original_created_utc": 1605480768
+  ]
 }

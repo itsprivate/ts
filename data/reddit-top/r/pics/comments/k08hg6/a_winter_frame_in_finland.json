@@ -146,13 +146,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606270562,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "芬兰的冬日镜架"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "芬蘭的冬日鏡架"
     }
-  },
-  "original_created_utc": 1606270562
+  ]
 }

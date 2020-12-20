@@ -155,13 +155,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605982690,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "当美国医疗保健完蛋的时候"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "當美國醫療保健完蛋的時候"
     }
-  },
-  "original_created_utc": 1605982690
+  ]
 }

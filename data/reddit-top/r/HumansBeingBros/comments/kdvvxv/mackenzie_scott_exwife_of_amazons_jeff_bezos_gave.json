@@ -154,12 +154,14 @@
   "is_video": false,
   "original_created_utc": 1608070619,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "亚马逊杰夫·贝佐斯(Jeff Bezos)的前妻麦肯齐·斯科特(Mackenzie Scott)在过去4个月里捐赠了40多亿美元，以帮助那些受到流感大流行影响的人"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "亞馬遜傑夫·貝佐斯(Jeff Bezos)的前妻麥肯齊·斯科特(Mackenzie Scott)在過去4個月裏捐贈了40多億美元，以幫助那些受到流感大流行影響的人"
     }
-  }
+  ]
 }

@@ -153,13 +153,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605914249,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我希望我有机会参加这场比赛."
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我希望我有機會參加這場比賽."
     }
-  },
-  "original_created_utc": 1605914249
+  ]
 }

@@ -165,13 +165,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605286597,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "特穆埃拉·莫里森太棒了"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "特穆埃拉·莫裏森太棒了"
     }
-  },
-  "original_created_utc": 1605286597
+  ]
 }

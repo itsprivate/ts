@@ -153,13 +153,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606241064,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "[今天我学到了]苏珊·萨默斯(Suzanne Somers)被“三人行”(Three‘s Company)解雇，原因是她要求与男演员约翰·里特(John Ritter)同酬，后者的片酬是她的五倍。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "[今天我學到了]蘇珊·薩默斯(Suzanne Somers)被“三人行”(Three‘s Company)解雇，原因是她要求與男演員約翰·裏特(John Ritter)同酬，後者的片酬是她的五倍。"
     }
-  },
-  "original_created_utc": 1606241064
+  ]
 }

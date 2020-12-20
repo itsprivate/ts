@@ -154,12 +154,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607892556,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "那真是太糟糕了"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "那真是太糟糕了"
     }
-  }
+  ]
 }

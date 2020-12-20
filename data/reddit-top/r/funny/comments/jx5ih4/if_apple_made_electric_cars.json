@@ -139,13 +139,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605838936,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "如果苹果制造电动汽车"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "如果蘋果制造電動汽車"
     }
-  },
-  "original_created_utc": 1605838936
+  ]
 }

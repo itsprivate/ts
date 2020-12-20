@@ -188,12 +188,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607671368,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我很肯定前几天有只蜘蛛咬了他。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我很肯定前幾天有隻蜘蛛咬了他。"
     }
-  }
+  ]
 }

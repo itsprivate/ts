@@ -139,12 +139,14 @@
   "is_video": false,
   "original_created_utc": 1606806510,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "被诅咒的手"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "被詛咒的手"
     }
-  }
+  ]
 }

@@ -143,13 +143,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605983380,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "伦敦的居民"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "倫敦的居民"
     }
-  },
-  "original_created_utc": 1605983380
+  ]
 }

@@ -148,13 +148,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605536417,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "兄弟，请找人帮忙"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "兄弟，請找人幫忙"
     }
-  },
-  "original_created_utc": 1605536417
+  ]
 }

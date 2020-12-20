@@ -202,13 +202,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606290840,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我想知道为什么人们不这样说"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我想知道為什麽人們不這樣說"
     }
-  },
-  "original_created_utc": 1606290840
+  ]
 }

@@ -154,12 +154,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607624494,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "你的标准配对任务"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "你的標準配對任務"
     }
-  }
+  ]
 }

@@ -196,12 +196,14 @@
   "is_video": false,
   "original_created_utc": 1607111096,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "“保证杀死蜘蛛”是我在这个游戏中最喜欢的细节之一。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "“保證殺死蜘蛛”是我在這個遊戲中最喜歡的細節之壹。"
     }
-  }
+  ]
 }

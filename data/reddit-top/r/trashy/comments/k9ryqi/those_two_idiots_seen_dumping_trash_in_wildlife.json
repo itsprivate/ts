@@ -221,12 +221,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607521102,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "那两个白痴看到在野生动物保护区倾倒垃圾"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "那兩個白癡看到在野生動物保護區傾倒垃圾"
     }
-  }
+  ]
 }

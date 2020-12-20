@@ -153,13 +153,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605213570,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我现在出名了"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我現在出名了"
     }
-  },
-  "original_created_utc": 1605213570
+  ]
 }

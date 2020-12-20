@@ -36,12 +36,14 @@
     }
   },
   "original_created_at": "2020-12-16T16:20:29.000Z",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "英国第一个将空气污染列为死因的人"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "英國第一個將空氣污染列爲死因的人"
     }
-  }
+  ]
 }

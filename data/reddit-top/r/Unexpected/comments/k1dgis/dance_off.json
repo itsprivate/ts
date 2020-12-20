@@ -164,13 +164,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606432419,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "跳舞吧。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "跳舞吧。"
     }
-  },
-  "original_created_utc": 1606432419
+  ]
 }

@@ -149,12 +149,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607968178,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "给你，现在我的钱呢？"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "給你，現在我的錢呢？"
     }
-  }
+  ]
 }

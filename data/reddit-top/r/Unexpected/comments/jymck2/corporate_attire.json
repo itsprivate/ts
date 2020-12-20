@@ -169,13 +169,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606053250,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "公司着装"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "公司著裝"
     }
-  },
-  "original_created_utc": 1606053250
+  ]
 }

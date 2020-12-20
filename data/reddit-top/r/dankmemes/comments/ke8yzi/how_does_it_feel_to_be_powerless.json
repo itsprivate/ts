@@ -176,12 +176,14 @@
   "is_video": false,
   "original_created_utc": 1608124496,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "无能为力的感觉如何？"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "無能爲力的感覺如何？"
     }
-  }
+  ]
 }

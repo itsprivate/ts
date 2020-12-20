@@ -154,12 +154,14 @@
   "is_video": false,
   "original_created_utc": 1606653561,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我很感谢互联网"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我很感謝互聯網"
     }
-  }
+  ]
 }

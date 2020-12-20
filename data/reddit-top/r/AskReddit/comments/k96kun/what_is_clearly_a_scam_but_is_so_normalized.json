@@ -106,12 +106,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607442524,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "什么明显是一个骗局，但如此正常化，人们却没有注意到？"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "什麽明顯是壹個騙局，但如此正常化，人們卻沒有註意到？"
     }
-  }
+  ]
 }

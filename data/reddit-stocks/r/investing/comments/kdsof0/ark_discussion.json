@@ -102,14 +102,16 @@
   "is_video": false,
   "original_created_utc": 1608061000,
   "the_new_excerpt": "Hi y'all,\n\nLike a lot of you I have been following Cathy Woods and Ark Investments\nrecently. As many of you probably know, Cathy's investment strategy is based on\nWright's law, which states that for every cumulative doubling of units produced,\ncosts decline at a consistent rate. According to Cathy,…",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "the_new_excerpt": "大家好，\n\n像你们中的许多人一样，我一直在关注凯西·伍兹和方舟投资公司\n最近。你们中的许多人可能都知道，凯西的投资策略是基于\n赖特定律指出，单位产量每累计翻一番，\n成本以一致的速度下降。据凯西说，…",
       "title": "方舟讨论"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "the_new_excerpt": "大家好，\n\n像你們中的許多人一樣，我一直在關注凱西·伍茲和方舟投資公司\n最近。你們中的許多人可能都知道，凱西的投資策略是基於\n賴特定律指出，單位產量每累計翻一番，\n成本以一致的速度下降。據凱西說，…",
       "title": "方舟討論"
     }
-  }
+  ]
 }

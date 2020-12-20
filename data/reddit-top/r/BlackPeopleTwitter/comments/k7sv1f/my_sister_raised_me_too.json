@@ -144,12 +144,14 @@
   "is_video": false,
   "original_created_utc": 1607257374,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我妹妹把我也养大了😔"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我妹妹把我也養大了😔"
     }
-  }
+  ]
 }

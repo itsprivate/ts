@@ -171,12 +171,14 @@
   "is_video": true,
   "original_created_utc": 1606758661,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "当你100%控制了自行车，没有任何障碍可以阻止你的时候。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "當妳100%控制了自行車，沒有任何障礙可以阻止妳的時候。"
     }
-  }
+  ]
 }

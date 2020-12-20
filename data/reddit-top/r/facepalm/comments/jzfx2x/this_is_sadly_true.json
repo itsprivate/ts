@@ -144,13 +144,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606163002,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "可悲的是，这是真的。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "可悲的是，這是真的。"
     }
-  },
-  "original_created_utc": 1606163002
+  ]
 }

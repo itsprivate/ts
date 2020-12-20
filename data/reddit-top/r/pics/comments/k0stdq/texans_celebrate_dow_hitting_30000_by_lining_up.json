@@ -156,13 +156,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606335567,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "德克萨斯州人排队领取免费食物，庆祝道琼斯指数突破3万点。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "德克薩斯州人排隊領取免費食物，慶祝道瓊斯指數突破3萬點。"
     }
-  },
-  "original_created_utc": 1606335567
+  ]
 }

@@ -153,13 +153,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606154091,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "NPC类似于"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "NPC類似於"
     }
-  },
-  "original_created_utc": 1606154091
+  ]
 }

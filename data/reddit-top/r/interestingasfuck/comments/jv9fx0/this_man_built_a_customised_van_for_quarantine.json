@@ -189,13 +189,15 @@
   },
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605578131,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "这个人为隔离制造了一辆定制的面包车。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "這個人為隔離制造了壹輛定制的面包車。"
     }
-  },
-  "original_created_utc": 1605578131
+  ]
 }

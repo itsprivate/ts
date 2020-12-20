@@ -148,13 +148,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605973172,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "白人文化"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "白人文化"
     }
-  },
-  "original_created_utc": 1605973172
+  ]
 }

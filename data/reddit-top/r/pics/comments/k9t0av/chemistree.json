@@ -147,12 +147,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607524910,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "化学家"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "化學家"
     }
-  }
+  ]
 }

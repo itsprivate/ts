@@ -154,13 +154,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606169267,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "不，不，我说的有道理"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "不，不，我說的有道理"
     }
-  },
-  "original_created_utc": 1606169267
+  ]
 }

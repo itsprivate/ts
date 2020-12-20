@@ -154,12 +154,14 @@
   "is_video": false,
   "original_created_utc": 1607192698,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "维尼小熊维尼的新电影烂透了"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "維尼小熊維尼的新電影爛透了"
     }
-  }
+  ]
 }

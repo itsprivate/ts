@@ -242,13 +242,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606069157,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "游戏玩家将在赛前大堂想方设法打发时间。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "遊戲玩家將在賽前大堂想方設法打發時間。"
     }
-  },
-  "original_created_utc": 1606069157
+  ]
 }

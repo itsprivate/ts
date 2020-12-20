@@ -161,12 +161,14 @@
   "is_video": false,
   "original_created_utc": 1608348584,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "施瓦辛格。是。这个。最好的。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "施瓦辛格。是。這個。最好的。"
     }
-  }
+  ]
 }

@@ -36,12 +36,14 @@
     }
   },
   "original_created_at": "2020-12-17T16:31:13.000Z",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "发布HN：共享(YC W21)-轻松安全地共享内部网站"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "發佈HN：共享(YC W21)-輕鬆安全地共享內部網站"
     }
-  }
+  ]
 }

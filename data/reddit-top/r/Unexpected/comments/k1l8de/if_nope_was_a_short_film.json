@@ -145,13 +145,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606456182,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "如果“不”是一部短片。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "如果“不”是壹部短片。"
     }
-  },
-  "original_created_utc": 1606456182
+  ]
 }

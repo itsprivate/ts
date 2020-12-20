@@ -169,12 +169,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607869515,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "你们能不能别再比我强了？"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "你們能不能別再比我強了？"
     }
-  }
+  ]
 }

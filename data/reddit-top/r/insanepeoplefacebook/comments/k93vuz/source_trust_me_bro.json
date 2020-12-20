@@ -139,12 +139,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607433007,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "来源：“相信我兄弟”"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "來源：“相信我兄弟”"
     }
-  }
+  ]
 }

@@ -153,13 +153,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605503642,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "吞云吐雾不能通过。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "吞雲吐霧不能通過。"
     }
-  },
-  "original_created_utc": 1605503642
+  ]
 }

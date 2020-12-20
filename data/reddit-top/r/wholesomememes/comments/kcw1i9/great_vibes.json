@@ -144,12 +144,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607945825,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "巨大的共鸣"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "巨大的共鳴"
     }
-  }
+  ]
 }

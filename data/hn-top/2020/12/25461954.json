@@ -37,12 +37,14 @@
     }
   },
   "original_created_at": "2020-12-17T23:38:49.000Z",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "侵入微软的黑客狂潮"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "侵入微軟的黑客狂潮"
     }
-  }
+  ]
 }

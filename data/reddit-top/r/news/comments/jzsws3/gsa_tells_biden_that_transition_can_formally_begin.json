@@ -155,13 +155,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606202373,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "GSA告诉拜登，过渡可以正式开始"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "GSA告訴拜登，過渡可以正式開始"
     }
-  },
-  "original_created_utc": 1606202373
+  ]
 }

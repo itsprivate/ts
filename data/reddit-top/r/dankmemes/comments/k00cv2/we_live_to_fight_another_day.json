@@ -175,13 +175,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606247020,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我们活着是为了再战斗一天"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我們活著是為了再戰鬥壹天"
     }
-  },
-  "original_created_utc": 1606247020
+  ]
 }

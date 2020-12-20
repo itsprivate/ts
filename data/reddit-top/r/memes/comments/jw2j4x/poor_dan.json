@@ -144,13 +144,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605728700,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "可怜的丹"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "可憐的丹"
     }
-  },
-  "original_created_utc": 1605728700
+  ]
 }

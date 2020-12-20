@@ -153,13 +153,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605561772,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "谁需要证据呢？"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "誰需要證據呢？"
     }
-  },
-  "original_created_utc": 1605561772
+  ]
 }

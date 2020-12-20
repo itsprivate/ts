@@ -150,13 +150,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605474889,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "和丰厚的退休金"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "和豐厚的退休金"
     }
-  },
-  "original_created_utc": 1605474889
+  ]
 }

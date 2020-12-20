@@ -168,13 +168,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605375172,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "速记员，法庭记录员用来打字的机器！"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "速記員，法庭記錄員用來打字的機器！"
     }
-  },
-  "original_created_utc": 1605375172
+  ]
 }

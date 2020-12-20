@@ -154,13 +154,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605601280,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "毒品-如果你有钱就是上流的，如果你贫穷就是垃圾"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "毒品-如果妳有錢就是上流的，如果妳貧窮就是垃圾"
     }
-  },
-  "original_created_utc": 1605601280
+  ]
 }

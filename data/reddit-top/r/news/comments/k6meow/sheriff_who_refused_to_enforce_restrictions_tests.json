@@ -154,12 +154,14 @@
   "is_video": false,
   "original_created_utc": 1607093916,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "拒绝执行限制的警长冠状病毒检测呈阳性"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "拒絕執行限制的警長冠狀病毒檢測呈陽性"
     }
-  }
+  ]
 }

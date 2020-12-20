@@ -155,13 +155,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605209016,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "[原创]如果“我没有投票”在2020年大选中以美国总统候选人的身份参选怎么办？"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "[原創]如果“我沒有投票”在2020年大選中以美國總統候選人的身份參選怎麽辦？"
     }
-  },
-  "original_created_utc": 1605209016
+  ]
 }

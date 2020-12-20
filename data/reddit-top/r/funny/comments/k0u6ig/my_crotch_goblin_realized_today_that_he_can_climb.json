@@ -181,13 +181,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606335567,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我的小妖精今天意识到他可以爬出他的婴儿床了。谁来救救我。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我的小妖精今天意識到他可以爬出他的嬰兒床了。誰來救救我。"
     }
-  },
-  "original_created_utc": 1606335567
+  ]
 }

@@ -164,13 +164,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606000789,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我妈妈在脸书上找到最好的东西"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我媽媽在臉書上找到最好的東西"
     }
-  },
-  "original_created_utc": 1606000789
+  ]
 }

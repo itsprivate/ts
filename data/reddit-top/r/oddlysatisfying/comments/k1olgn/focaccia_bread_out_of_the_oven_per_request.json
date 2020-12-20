@@ -154,12 +154,14 @@
   "is_video": false,
   "original_created_utc": 1606428882,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "根据要求，提供从烤箱中取出的Focaccia面包"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "根據要求，提供從烤箱中取出的Focaccia面包"
     }
-  }
+  ]
 }

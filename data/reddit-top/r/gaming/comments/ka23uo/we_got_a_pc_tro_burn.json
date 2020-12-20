@@ -154,12 +154,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607552432,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "“我们有一台PC tro Burn”"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "“我們有一臺PC tro Burn”"
     }
-  }
+  ]
 }

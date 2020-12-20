@@ -143,13 +143,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605576453,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "还有，我和一个朋友分享了Netflix"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "還有，我和壹個朋友分享了Netflix"
     }
-  },
-  "original_created_utc": 1605576453
+  ]
 }

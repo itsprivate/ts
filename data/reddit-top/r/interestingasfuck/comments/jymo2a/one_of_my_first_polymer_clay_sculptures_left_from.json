@@ -218,13 +218,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606047887,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "这是我最早的聚合物粘土雕塑之一(左自2015年)，与我最近一次从本月开始的聚合物粘土雕塑(右)相比。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "這是我最早的聚合物粘土雕塑之壹(左自2015年)，與我最近壹次從本月開始的聚合物粘土雕塑(右)相比。"
     }
-  },
-  "original_created_utc": 1606047887
+  ]
 }

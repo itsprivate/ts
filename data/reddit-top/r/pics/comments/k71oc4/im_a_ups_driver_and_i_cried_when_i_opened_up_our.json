@@ -159,12 +159,14 @@
   "is_video": false,
   "original_created_utc": 1607145257,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我是一名UPS司机，当我打开儿子写给圣诞老人的信时，我哭了。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我是壹名UPS司機，當我打開兒子寫給聖誕老人的信時，我哭了。"
     }
-  }
+  ]
 }

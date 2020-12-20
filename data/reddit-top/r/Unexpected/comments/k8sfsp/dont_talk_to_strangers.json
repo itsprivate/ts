@@ -167,12 +167,14 @@
   "is_video": true,
   "the_new_excerpt": "",
   "original_created_utc": 1607384098,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "不要和陌生人说话"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "不要和陌生人說話"
     }
-  }
+  ]
 }

@@ -202,12 +202,14 @@
   "is_video": false,
   "original_created_utc": 1608160399,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我看到了足球在孩子们的未来"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我看到了足球在孩子們的未來"
     }
-  }
+  ]
 }

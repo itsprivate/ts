@@ -139,13 +139,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605360058,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "埃及发现了100具完整的、密封的和彩绘的棺材，以及40尊木制雕像，这是2020年埃及最大的考古发现。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "埃及發現了100具完整的、密封的和彩繪的棺材，以及40尊木制雕像，這是2020年埃及最大的考古發現。"
     }
-  },
-  "original_created_utc": 1605360058
+  ]
 }

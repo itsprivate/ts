@@ -207,13 +207,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605246910,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "那是我一生中最悲伤的一次行走"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "那是我壹生中最悲傷的壹次行走"
     }
-  },
-  "original_created_utc": 1605246910
+  ]
 }

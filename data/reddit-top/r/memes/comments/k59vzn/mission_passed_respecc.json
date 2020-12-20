@@ -188,12 +188,14 @@
   "is_video": false,
   "original_created_utc": 1606918237,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "任务分别通过"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "任務分別通過"
     }
-  }
+  ]
 }

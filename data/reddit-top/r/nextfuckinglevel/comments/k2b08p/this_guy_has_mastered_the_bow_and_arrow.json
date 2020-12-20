@@ -170,12 +170,14 @@
   "is_video": true,
   "original_created_utc": 1606515688,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "这家伙已经掌握了弓箭"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "這家夥已經掌握了弓箭"
     }
-  }
+  ]
 }

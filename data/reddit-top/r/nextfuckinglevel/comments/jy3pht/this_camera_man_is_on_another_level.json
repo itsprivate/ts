@@ -169,13 +169,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605961395,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "这位摄影师在另一层楼"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "這位攝影師在另壹層樓"
     }
-  },
-  "original_created_utc": 1605961395
+  ]
 }

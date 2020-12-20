@@ -181,12 +181,14 @@
   "is_video": true,
   "the_new_excerpt": "",
   "original_created_utc": 1607705351,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "老板今天真的在欺负我。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "老闆今天真的在欺負我。"
     }
-  }
+  ]
 }

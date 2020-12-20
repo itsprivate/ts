@@ -198,13 +198,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605590199,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "哇，这是怎么回事？"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "哇，這是怎麽回事？"
     }
-  },
-  "original_created_utc": 1605590199
+  ]
 }

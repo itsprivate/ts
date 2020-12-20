@@ -234,12 +234,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607981428,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "也许我需要更多硬币？"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "也許我需要更多硬幣？"
     }
-  }
+  ]
 }

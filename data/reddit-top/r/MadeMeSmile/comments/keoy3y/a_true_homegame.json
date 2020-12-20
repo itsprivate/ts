@@ -161,12 +161,14 @@
   "is_video": false,
   "original_created_utc": 1608174523,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "一场真正的主场比赛"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "一場真正的主場比賽"
     }
-  }
+  ]
 }

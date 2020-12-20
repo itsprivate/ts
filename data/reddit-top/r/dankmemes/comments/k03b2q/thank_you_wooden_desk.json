@@ -153,13 +153,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606245428,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "谢谢你，木桌"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "謝謝妳，木桌"
     }
-  },
-  "original_created_utc": 1606245428
+  ]
 }

@@ -214,13 +214,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606122057,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "这是我见过的最复杂的活页画像。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "這是我見過的最復雜的活頁畫像。"
     }
-  },
-  "original_created_utc": 1606122057
+  ]
 }

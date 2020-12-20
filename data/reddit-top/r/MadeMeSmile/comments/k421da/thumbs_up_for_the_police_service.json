@@ -171,12 +171,14 @@
   "is_video": false,
   "original_created_utc": 1606761463,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "对警察服务竖起大拇指。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "對警察服務豎起大拇指。"
     }
-  }
+  ]
 }

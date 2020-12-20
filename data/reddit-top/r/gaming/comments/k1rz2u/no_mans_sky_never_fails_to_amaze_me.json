@@ -154,12 +154,14 @@
   "is_video": false,
   "original_created_utc": 1606441488,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "“没有人的天空”总是让我惊叹不已。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "“沒有人的天空”總是讓我驚嘆不已。"
     }
-  }
+  ]
 }

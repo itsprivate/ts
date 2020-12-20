@@ -163,13 +163,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605968438,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "推特称将在就职日向拜登提供@POTUS账户"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "推特稱將在就職日向拜登提供@POTUS賬戶"
     }
-  },
-  "original_created_utc": 1605968438
+  ]
 }

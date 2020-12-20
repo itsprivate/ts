@@ -139,12 +139,14 @@
   "is_video": false,
   "original_created_utc": 1608125435,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "历史频道批准了这一点"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "歷史頻道批准了這一點"
     }
-  }
+  ]
 }

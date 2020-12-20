@@ -173,13 +173,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606328449,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "你该死的是从哪里来的？"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "妳該死的是從哪裏來的？"
     }
-  },
-  "original_created_utc": 1606328449
+  ]
 }

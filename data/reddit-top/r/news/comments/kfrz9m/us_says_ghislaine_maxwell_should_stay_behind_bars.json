@@ -145,12 +145,14 @@
   "is_video": false,
   "original_created_utc": 1608320161,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "美国称吉斯莱恩·马克斯韦尔应留在监狱里，不应保释"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "美國稱吉斯萊恩·馬克斯韋爾應留在監獄裏，不應保釋"
     }
-  }
+  ]
 }

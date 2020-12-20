@@ -144,12 +144,14 @@
   "is_video": false,
   "original_created_utc": 1606988390,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "抱歉，我不得不审查用户名，但我在评论中写道"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "抱歉，我不得不審查用戶名，但我在評論中寫道"
     }
-  }
+  ]
 }

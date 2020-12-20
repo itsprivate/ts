@@ -189,14 +189,16 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我尽力了",
       "the_new_excerpt": "test"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我盡力了",
       "the_new_excerpt": "test"
     }
-  }
+  ]
 }

@@ -170,13 +170,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605361282,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我是来给你上一课的，WB！"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我是來給妳上壹課的，WB！"
     }
-  },
-  "original_created_utc": 1605361282
+  ]
 }

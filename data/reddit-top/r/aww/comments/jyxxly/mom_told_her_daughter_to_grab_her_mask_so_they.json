@@ -153,13 +153,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606141253,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "妈妈告诉她女儿带上她的面具，这样他们就可以去商店了。这是她抢来的面具。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "媽媽告訴她女兒帶上她的面具，這樣他們就可以去商店了。這是她搶來的面具。"
     }
-  },
-  "original_created_utc": 1606141253
+  ]
 }

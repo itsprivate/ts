@@ -171,13 +171,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606350607,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "不管怎么说，谁在学习呢？/s"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "不管怎麽說，誰在學習呢？/s"
     }
-  },
-  "original_created_utc": 1606350607
+  ]
 }

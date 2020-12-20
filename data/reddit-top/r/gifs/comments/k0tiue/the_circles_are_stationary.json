@@ -196,13 +196,15 @@
   },
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606374018,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "圆圈是静止的"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "圓圈是靜止的"
     }
-  },
-  "original_created_utc": 1606374018
+  ]
 }

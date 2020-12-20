@@ -153,13 +153,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605719892,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "想点儿办法吧!"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "想點兒辦法吧!"
     }
-  },
-  "original_created_utc": 1605719892
+  ]
 }

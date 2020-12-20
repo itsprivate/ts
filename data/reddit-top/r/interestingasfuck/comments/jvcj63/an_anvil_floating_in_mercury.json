@@ -155,13 +155,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605630786,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "漂浮在水银中的铁砧"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "漂浮在水銀中的鐵砧"
     }
-  },
-  "original_created_utc": 1605630786
+  ]
 }

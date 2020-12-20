@@ -165,12 +165,14 @@
   "is_video": true,
   "original_created_utc": 1607160089,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "狗在主人午睡时保护他的主人不受羊群的伤害。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "狗在主人午睡時保護他的主人不受羊群的傷害。"
     }
-  }
+  ]
 }

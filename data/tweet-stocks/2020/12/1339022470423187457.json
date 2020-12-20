@@ -103,12 +103,14 @@
   "possibly_sensitive": false,
   "lang": "en",
   "original_created_at": "Wed Dec 16 01:40:09 +0000 2020",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "full_text": "麦肯齐·斯科特4个月内捐款41亿美元，力劝其他人捐出Too https://t.co/btfXah1GsP"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "full_text": "麥肯齊·斯科特4個月內捐款41億美元，力勸其他人捐出Too https://t.co/btfXah1GsP"
     }
-  }
+  ]
 }

@@ -163,13 +163,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606163002,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "别打我，妈妈，我是个巫师"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "別打我，媽媽，我是個巫師"
     }
-  },
-  "original_created_utc": 1606163002
+  ]
 }

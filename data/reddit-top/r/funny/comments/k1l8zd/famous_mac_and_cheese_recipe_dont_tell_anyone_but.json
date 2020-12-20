@@ -148,13 +148,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606487818,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "著名的通心粉和奶酪食谱。不要告诉任何人，但秘密成分是爱！"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "著名的通心粉和奶酪食譜。不要告訴任何人，但秘密成分是愛！"
     }
-  },
-  "original_created_utc": 1606487818
+  ]
 }

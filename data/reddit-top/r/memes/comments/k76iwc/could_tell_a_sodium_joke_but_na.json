@@ -210,12 +210,14 @@
   "is_video": false,
   "original_created_utc": 1607170719,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "可以讲一个钠的笑话，但是娜"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "可以講壹個鈉的笑話，但是娜"
     }
-  }
+  ]
 }

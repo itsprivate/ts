@@ -187,13 +187,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605411115,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "你不应该这样玩这个游戏"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "妳不應該這樣玩這個遊戲"
     }
-  },
-  "original_created_utc": 1605411115
+  ]
 }

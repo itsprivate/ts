@@ -156,12 +156,14 @@
   "is_video": false,
   "original_created_utc": 1606957708,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "尼古拉斯·凯奇带着儿子走在街上"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "尼古拉斯·凱奇帶著兒子走在街上"
     }
-  }
+  ]
 }

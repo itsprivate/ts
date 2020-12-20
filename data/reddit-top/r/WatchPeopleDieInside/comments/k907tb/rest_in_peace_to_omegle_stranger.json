@@ -171,12 +171,14 @@
   "is_video": true,
   "the_new_excerpt": "",
   "original_created_utc": 1607414037,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "和平中的睡觉给陌生的欧姆格尔"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "和平中的睡覺給陌生的歐姆格爾"
     }
-  }
+  ]
 }

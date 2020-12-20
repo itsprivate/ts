@@ -159,13 +159,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605286345,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "哇，每个人都爱我"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "哇，每個人都愛我"
     }
-  },
-  "original_created_utc": 1605286345
+  ]
 }

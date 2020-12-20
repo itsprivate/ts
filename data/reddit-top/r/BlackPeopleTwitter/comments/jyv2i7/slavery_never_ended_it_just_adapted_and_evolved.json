@@ -143,13 +143,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606083809,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "奴隶制从未结束。它只是适应和进化了"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "奴隸制從未結束。它只是適應和進化了"
     }
-  },
-  "original_created_utc": 1606083809
+  ]
 }

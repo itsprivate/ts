@@ -157,12 +157,14 @@
   "is_video": false,
   "original_created_utc": 1606758898,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我为她感到无比自豪。在经历了大量的血汗和泪水之后……但最有趣的是，我母亲完成了她的第一个黑暗灵魂游戏。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我為她感到無比自豪。在經歷了大量的血汗和淚水之後……但最有趣的是，我母親完成了她的第壹個黑暗靈魂遊戲。"
     }
-  }
+  ]
 }

@@ -153,13 +153,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606372224,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "Nimbus从皱巴巴的组织升级为超级模特"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "Nimbus從皺巴巴的組織升級為超級模特"
     }
-  },
-  "original_created_utc": 1606372224
+  ]
 }

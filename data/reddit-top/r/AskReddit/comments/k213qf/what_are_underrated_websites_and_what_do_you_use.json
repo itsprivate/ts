@@ -106,12 +106,14 @@
   "is_video": false,
   "original_created_utc": 1606483741,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "什么是被低估的网站？你用它们做什么？"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "什麽是被低估的網站？妳用它們做什麽？"
     }
-  }
+  ]
 }

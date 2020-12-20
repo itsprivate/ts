@@ -145,12 +145,14 @@
   "is_video": false,
   "original_created_utc": 1607254250,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "当晚最喜欢的台词"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "當晚最喜歡的臺詞"
     }
-  }
+  ]
 }

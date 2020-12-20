@@ -133,13 +133,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606402604,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "就这样"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "就這樣"
     }
-  },
-  "original_created_utc": 1606402604
+  ]
 }

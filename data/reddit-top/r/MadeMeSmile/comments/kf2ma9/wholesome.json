@@ -166,12 +166,14 @@
   "is_video": false,
   "original_created_utc": 1608228385,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "有益健康"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "有益健康"
     }
-  }
+  ]
 }

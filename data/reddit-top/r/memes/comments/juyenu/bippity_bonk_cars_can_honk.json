@@ -143,13 +143,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605536417,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "BIPPITY BANK汽车可以按喇叭"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "BIPPITY BANK汽車可以按喇叭"
     }
-  },
-  "original_created_utc": 1605536417
+  ]
 }

@@ -165,13 +165,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605900204,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "史诗般比例的巨魔。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "史詩般比例的巨魔。"
     }
-  },
-  "original_created_utc": 1605900204
+  ]
 }

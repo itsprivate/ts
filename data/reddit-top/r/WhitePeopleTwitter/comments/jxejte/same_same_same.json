@@ -143,13 +143,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605894762,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "一样的。一样的。一样的。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "壹樣的。壹樣的。壹樣的。"
     }
-  },
-  "original_created_utc": 1605894762
+  ]
 }

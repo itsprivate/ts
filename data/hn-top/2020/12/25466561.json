@@ -37,12 +37,14 @@
     }
   },
   "original_created_at": "2020-12-18T12:51:00.000Z",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "当重要组件变得稀缺时：CPU、GPU"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "當重要組件變得稀缺時：CPU、GPU"
     }
-  }
+  ]
 }

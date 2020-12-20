@@ -144,12 +144,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607726216,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "尽管它确实很糟糕"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "儘管它確實很糟糕"
     }
-  }
+  ]
 }

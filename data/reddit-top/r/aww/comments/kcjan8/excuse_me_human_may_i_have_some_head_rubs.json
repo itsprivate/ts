@@ -165,12 +165,14 @@
   "is_video": true,
   "the_new_excerpt": "",
   "original_created_utc": 1607895154,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "打扰一下人类。我可以按摩一下头吗？"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "打擾一下人類。我可以按摩一下頭嗎？"
     }
-  }
+  ]
 }

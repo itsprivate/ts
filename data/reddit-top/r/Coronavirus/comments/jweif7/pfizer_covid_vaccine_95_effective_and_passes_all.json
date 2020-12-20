@@ -154,13 +154,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605763237,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "最终分析显示，辉瑞Covid疫苗有效率为95%，并通过了所有安全检查"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "最終分析顯示，輝瑞Covid疫苗有效率為95%，並通過了所有安全檢查"
     }
-  },
-  "original_created_utc": 1605763237
+  ]
 }

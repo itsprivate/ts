@@ -171,12 +171,14 @@
   "is_video": true,
   "original_created_utc": 1608009954,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我姐姐的男朋友不小心把猫放了出来。这是史酷比·杜走廊追逐的信号。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我姐姐的男朋友不小心把貓放了出來。這是史酷比·杜走廊追逐的信號。"
     }
-  }
+  ]
 }

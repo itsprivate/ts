@@ -169,13 +169,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605214657,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "只是一些可爱的东西：)"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "只是壹些可愛的東西：)"
     }
-  },
-  "original_created_utc": 1605214657
+  ]
 }

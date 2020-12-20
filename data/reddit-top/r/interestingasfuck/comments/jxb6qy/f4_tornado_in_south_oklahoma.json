@@ -190,13 +190,15 @@
   },
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605863942,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "俄克拉荷马州南部F4龙卷风"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "俄克拉荷馬州南部F4龍卷風"
     }
-  },
-  "original_created_utc": 1605863942
+  ]
 }

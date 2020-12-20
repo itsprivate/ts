@@ -155,12 +155,14 @@
   "is_video": false,
   "original_created_utc": 1606749738,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "今天我50岁了，但是我在1989年夏天18岁的时候来到这里"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "今天我50歲了，但是我在1989年夏天18歲的時候來到這裏"
     }
-  }
+  ]
 }

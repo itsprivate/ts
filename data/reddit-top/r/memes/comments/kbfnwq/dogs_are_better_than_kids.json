@@ -146,12 +146,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607735457,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "狗比孩子好"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "狗比孩子好"
     }
-  }
+  ]
 }

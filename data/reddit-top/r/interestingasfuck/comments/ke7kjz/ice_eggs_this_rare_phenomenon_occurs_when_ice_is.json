@@ -144,12 +144,14 @@
   "is_video": false,
   "original_created_utc": 1608118217,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "冰蛋-当冰被风和水翻滚时，这种罕见的现象就会发生(芬兰北部)"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "冰蛋-當冰被風和水翻滾時，這種罕見的現象就會發生(芬蘭北部)"
     }
-  }
+  ]
 }

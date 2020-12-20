@@ -172,13 +172,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606040077,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "大日不，蒂米，停在那里"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "大日不，蒂米，停在那裏"
     }
-  },
-  "original_created_utc": 1606040077
+  ]
 }

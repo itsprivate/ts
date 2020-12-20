@@ -139,13 +139,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606342599,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "驯鹿的眼睛在冬天会变蓝，由于光线散射到视网膜上，这使得它们在黑暗中看得更清楚。夏天的眼睛反射95%的光线，而冬天的眼睛只反射40%的光线。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "馴鹿的眼睛在冬天會變藍，由於光線散射到視網膜上，這使得它們在黑暗中看得更清楚。夏天的眼睛反射95%的光線，而冬天的眼睛只反射40%的光線。"
     }
-  },
-  "original_created_utc": 1606342599
+  ]
 }

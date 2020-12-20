@@ -143,13 +143,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605644355,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "这片卷心菜地就像是可怕的抱脸外星人的产卵场。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "這片卷心菜地就像是可怕的抱臉外星人的產卵場。"
     }
-  },
-  "original_created_utc": 1605644355
+  ]
 }

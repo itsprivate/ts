@@ -156,12 +156,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607440410,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "关于法国人有一件事，他们喜欢暴动"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "關於法國人有壹件事，他們喜歡暴動"
     }
-  }
+  ]
 }

@@ -102,14 +102,16 @@
   "is_video": false,
   "original_created_utc": 1608393985,
   "the_new_excerpt": "Hi there! I just graduated college and my gift from my grandfather was 10k worth\nof Exxon shares.\n\nMy sister got the same gift four years ago, and obviously the worth has gone\ndown significantly. My whole family is telling me to leave it alone but I’m\nworried I’m letting it sit in a bad place.\n\nAny…",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "the_new_excerpt": "嗨，你们好！我刚大学毕业，爷爷送给我的礼物价值一万英镑。\n埃克森美孚的股票。\n\n我妹妹四年前得到了同样的礼物，很明显，它的价值一去不复返了。\n明显下降。我全家都告诉我不要管它，但我\n担心我把它放在一个不好的地方。\n\n任何…",
       "title": "赠送一万股埃克森美孚股票的毕业礼物"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "the_new_excerpt": "嗨，你們好！我剛大學畢業，爺爺送給我的禮物價值一萬英鎊。\n埃克森美孚的股票。\n\n我妹妹四年前得到了同樣的禮物，很明顯，它的價值一去不復返了。\n明顯下降。我全家都告訴我不要管它，但我\n擔心我把它放在一個不好的地方。\n\n任何…",
       "title": "贈送一萬股埃克森美孚股票的畢業禮物"
     }
-  }
+  ]
 }

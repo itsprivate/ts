@@ -143,13 +143,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605281398,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我差点忘了。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我差點忘了。"
     }
-  },
-  "original_created_utc": 1605281398
+  ]
 }

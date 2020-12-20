@@ -210,12 +210,14 @@
   "possibly_sensitive": false,
   "lang": "en",
   "original_created_at": "Mon Dec 07 21:53:50 +0000 2020",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "full_text": "线索：回顾过去10年的IPO…\n\n2010届大赢家：特斯拉美国电话SLA\n\n由@YCharts提供支持的数据\n\n发信人：https://t.co/A8LeUHVNSl https://t.co/l5CCHfCzya"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "full_text": "線索：回顧過去10年的IPO…\n\n2010屆大贏家：特斯拉美國電話SLA\n\n由@YCharts提供支持的數據\n\n發信人：https://t.co/A8LeUHVNSl https://t.co/l5CCHfCzya"
     }
-  }
+  ]
 }

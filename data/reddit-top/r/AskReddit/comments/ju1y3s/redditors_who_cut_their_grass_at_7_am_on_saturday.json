@@ -105,13 +105,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605360616,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "那些在周六早上7点割草，然后叫醒整个街区的红编们，你们为什么要这么做呢？"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "那些在周六早上7點割草，然後叫醒整個街區的紅編們，妳們為什麽要這麽做呢？"
     }
-  },
-  "original_created_utc": 1605360616
+  ]
 }

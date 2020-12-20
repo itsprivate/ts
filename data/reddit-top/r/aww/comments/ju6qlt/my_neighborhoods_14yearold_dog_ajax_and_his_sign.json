@@ -153,13 +153,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605464819,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我家附近14岁的狗阿贾克斯和他的牌子"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我家附近14歲的狗阿賈克斯和他的牌子"
     }
-  },
-  "original_created_utc": 1605464819
+  ]
 }

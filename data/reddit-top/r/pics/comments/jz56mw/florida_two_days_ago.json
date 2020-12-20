@@ -140,13 +140,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606122057,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "佛罗里达，两天前。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "佛羅裏達，兩天前。"
     }
-  },
-  "original_created_utc": 1606122057
+  ]
 }

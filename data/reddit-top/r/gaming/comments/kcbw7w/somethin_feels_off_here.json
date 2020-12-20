@@ -196,12 +196,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607871366,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "“这里有些东西感觉不对劲”"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "“這裏有些東西感覺不對勁”"
     }
-  }
+  ]
 }

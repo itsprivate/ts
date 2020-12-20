@@ -106,12 +106,14 @@
   "is_video": false,
   "original_created_utc": 1606915157,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "如果你死了，有人把VR耳机从你头上拿下来，问你虚拟生活怎么样，你首先会说什么？"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "如果妳死了，有人把VR耳機從妳頭上拿下來，問妳虛擬生活怎麽樣，妳首先會說什麽？"
     }
-  }
+  ]
 }

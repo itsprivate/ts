@@ -36,12 +36,14 @@
     }
   },
   "original_created_at": "2020-12-16T15:56:32.000Z",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我后悔离开了天体物理学"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我後悔離開了天體物理學"
     }
-  }
+  ]
 }

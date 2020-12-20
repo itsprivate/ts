@@ -181,12 +181,14 @@
   "possibly_sensitive": false,
   "lang": "en",
   "original_created_at": "Fri Dec 18 00:36:36 +0000 2020",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "full_text": "美国30年期抵押贷款利率降至2.67%，再创历史新低。https://t.co/3Piih1EJ4Y"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "full_text": "美國30年期抵押貸款利率降至2.67%，再創歷史新低。https://t.co/3Piih1EJ4Y"
     }
-  }
+  ]
 }

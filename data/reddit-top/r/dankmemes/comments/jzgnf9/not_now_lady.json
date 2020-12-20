@@ -160,13 +160,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606167438,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "现在不是时候，女士。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "現在不是時候，女士。"
     }
-  },
-  "original_created_utc": 1606167438
+  ]
 }

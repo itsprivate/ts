@@ -144,12 +144,14 @@
   "is_video": false,
   "original_created_utc": 1606832702,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "ICE T呼唤Covidiot"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "ICE T呼喚Covidiot"
     }
-  }
+  ]
 }

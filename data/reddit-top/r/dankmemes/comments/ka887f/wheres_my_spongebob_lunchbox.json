@@ -221,12 +221,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607573536,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我的海绵宝宝午餐盒呢？"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我的海綿寶寶午餐盒呢？"
     }
-  }
+  ]
 }

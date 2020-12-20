@@ -165,12 +165,14 @@
   "is_video": true,
   "original_created_utc": 1606904752,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "不小心把门开着，然后又回到了这个.."
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "不小心把門開著，然後又回到了這個.."
     }
-  }
+  ]
 }

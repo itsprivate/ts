@@ -202,13 +202,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606059981,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "为什么我要浪费时间做这个？(原创)"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "為什麽我要浪費時間做這個？(原創)"
     }
-  },
-  "original_created_utc": 1606059981
+  ]
 }

@@ -144,13 +144,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605737132,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我觉得它很有潜力。我只是不知道该怎么处理它。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我覺得它很有潛力。我只是不知道該怎麽處理它。"
     }
-  },
-  "original_created_utc": 1605737132
+  ]
 }

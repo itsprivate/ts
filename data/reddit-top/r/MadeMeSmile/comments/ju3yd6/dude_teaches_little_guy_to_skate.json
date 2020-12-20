@@ -179,13 +179,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605368999,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "哥们儿教小家伙滑冰"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "哥們兒教小家夥滑冰"
     }
-  },
-  "original_created_utc": 1605368999
+  ]
 }

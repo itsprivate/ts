@@ -154,12 +154,14 @@
   "is_video": false,
   "original_created_utc": 1608059530,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "[纸]王的回归"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "[紙]王的迴歸"
     }
-  }
+  ]
 }

@@ -149,13 +149,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606416607,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "心理灵活的人有更好的浪漫和家庭关系。它是关于对经历持开放态度，体验思想和感受而不是执着于它们，并继续朝着目标迈进，即使面对挫折也是如此。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "心理靈活的人有更好的浪漫和家庭關系。它是關於對經歷持開放態度，體驗思想和感受而不是執著於它們，並繼續朝著目標邁進，即使面對挫折也是如此。"
     }
-  },
-  "original_created_utc": 1606416607
+  ]
 }

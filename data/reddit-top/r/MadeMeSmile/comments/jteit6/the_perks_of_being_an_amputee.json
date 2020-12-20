@@ -183,13 +183,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605261718,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "截肢者的福利"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "截肢者的福利"
     }
-  },
-  "original_created_utc": 1605261718
+  ]
 }

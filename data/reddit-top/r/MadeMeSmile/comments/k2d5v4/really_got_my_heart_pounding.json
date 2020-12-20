@@ -170,12 +170,14 @@
   "is_video": false,
   "original_created_utc": 1606523223,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "真的让我心跳加速"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "真的讓我心跳加速"
     }
-  }
+  ]
 }

@@ -166,12 +166,14 @@
   "is_video": false,
   "original_created_utc": 1606767715,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "至少她在努力-\\{：)_/-"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "至少她在努力-\\{：)_/-"
     }
-  }
+  ]
 }

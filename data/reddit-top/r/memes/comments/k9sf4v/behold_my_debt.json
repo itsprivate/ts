@@ -164,12 +164,14 @@
   "is_video": false,
   "original_created_utc": 1607522822,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "看哪，这是我的债！"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "看哪，這是我的債！"
     }
-  }
+  ]
 }

@@ -205,13 +205,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606076241,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我正式没有癌症了"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我正式沒有癌癥了"
     }
-  },
-  "original_created_utc": 1606076241
+  ]
 }

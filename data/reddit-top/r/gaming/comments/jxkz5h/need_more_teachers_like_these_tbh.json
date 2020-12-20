@@ -143,13 +143,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605919884,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "需要更多像tbh这样的老师吗？"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "需要更多像tbh這樣的老師嗎？"
     }
-  },
-  "original_created_utc": 1605919884
+  ]
 }

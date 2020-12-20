@@ -138,13 +138,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606141253,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我是说，他可以带上20个人"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我是說，他可以帶上20個人"
     }
-  },
-  "original_created_utc": 1606141253
+  ]
 }

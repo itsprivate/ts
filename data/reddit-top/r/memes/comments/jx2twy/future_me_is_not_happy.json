@@ -153,13 +153,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605834650,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "未来的我并不快乐"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "未來的我並不快樂"
     }
-  },
-  "original_created_utc": 1605834650
+  ]
 }

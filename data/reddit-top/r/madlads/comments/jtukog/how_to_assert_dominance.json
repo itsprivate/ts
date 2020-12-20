@@ -143,13 +143,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605323051,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "如何维护统治地位"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "如何維護統治地位"
     }
-  },
-  "original_created_utc": 1605323051
+  ]
 }

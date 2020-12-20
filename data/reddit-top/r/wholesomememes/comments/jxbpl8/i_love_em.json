@@ -139,13 +139,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605898592,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我爱他们：)"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我愛他們：)"
     }
-  },
-  "original_created_utc": 1605898592
+  ]
 }

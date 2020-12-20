@@ -151,13 +151,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605368017,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "在一个脱发的客户身上纹了一些新的眉毛！"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "在壹個脫發的客戶身上紋了壹些新的眉毛！"
     }
-  },
-  "original_created_utc": 1605368017
+  ]
 }

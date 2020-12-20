@@ -154,13 +154,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605267939,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "另一张海报是对的，这东西太大了！"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "另壹張海報是對的，這東西太大了！"
     }
-  },
-  "original_created_utc": 1605267939
+  ]
 }

@@ -199,12 +199,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607678257,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "悲伤的玩家时刻"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "悲傷的玩家時刻"
     }
-  }
+  ]
 }

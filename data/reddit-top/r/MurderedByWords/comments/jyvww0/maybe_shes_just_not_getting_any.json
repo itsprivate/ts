@@ -158,13 +158,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606118600,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "也许她就是没拿到"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "也許她就是沒拿到"
     }
-  },
-  "original_created_utc": 1606118600
+  ]
 }

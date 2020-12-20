@@ -165,12 +165,14 @@
   "is_video": true,
   "original_created_utc": 1606648778,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "现在不是这样的一维仪器了，是吗？"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "現在不是這樣的壹維儀器了，是嗎？"
     }
-  }
+  ]
 }

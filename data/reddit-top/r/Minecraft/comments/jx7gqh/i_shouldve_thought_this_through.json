@@ -180,13 +180,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605885025,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我应该把这件事想清楚的..。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我應該把這件事想清楚的..。"
     }
-  },
-  "original_created_utc": 1605885025
+  ]
 }

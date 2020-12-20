@@ -196,12 +196,14 @@
   "is_video": false,
   "original_created_utc": 1607174543,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "多疯狂的相机和镜头啊！"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "多瘋狂的相機和鏡頭啊！"
     }
-  }
+  ]
 }

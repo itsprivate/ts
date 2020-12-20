@@ -170,12 +170,14 @@
   "is_video": true,
   "the_new_excerpt": "",
   "original_created_utc": 1607467405,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "从这个高度看，富士山看起来棒极了。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "從這個高度看，富士山看起來棒極了。"
     }
-  }
+  ]
 }

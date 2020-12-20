@@ -158,13 +158,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605939723,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "先知们怎么就不应该害怕呢？"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "先知們怎麽就不應該害怕呢？"
     }
-  },
-  "original_created_utc": 1605939723
+  ]
 }

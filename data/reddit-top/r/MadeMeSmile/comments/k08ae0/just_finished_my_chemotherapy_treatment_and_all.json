@@ -171,13 +171,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606259319,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我刚结束化疗，剩下的就是类固醇和放疗了，然后我就没有癌症了"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我剛結束化療，剩下的就是類固醇和放療了，然後我就沒有癌癥了"
     }
-  },
-  "original_created_utc": 1606259319
+  ]
 }

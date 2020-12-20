@@ -182,13 +182,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605683346,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "脑癌男孩喜极而泣"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "腦癌男孩喜極而泣"
     }
-  },
-  "original_created_utc": 1605683346
+  ]
 }

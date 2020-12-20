@@ -133,13 +133,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606026149,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "一只斑海龟在划船时出了事故，导致它的下喙失去了大部分。科学家们给了它一个新的3D打印钛喙。它看起来太难看了。他现在是一只机械乌龟。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "壹只斑海龜在劃船時出了事故，導致它的下喙失去了大部分。科學家們給了它壹個新的3D打印鈦喙。它看起來太難看了。他現在是壹只機械烏龜。"
     }
-  },
-  "original_created_utc": 1606026149
+  ]
 }

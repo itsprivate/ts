@@ -164,13 +164,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606476991,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "这是他妈的生食."
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "這是他媽的生食."
     }
-  },
-  "original_created_utc": 1606476991
+  ]
 }

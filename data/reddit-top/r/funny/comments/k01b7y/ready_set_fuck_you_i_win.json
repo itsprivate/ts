@@ -199,13 +199,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606245428,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "准备好的。准备好..。去你妈的，我赢了！"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "準備好的。準備好..。去妳媽的，我贏了！"
     }
-  },
-  "original_created_utc": 1606245428
+  ]
 }

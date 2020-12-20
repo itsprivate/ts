@@ -146,13 +146,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605702255,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "出自法国漫画家“Deligne”"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "出自法國漫畫家“Deligne”"
     }
-  },
-  "original_created_utc": 1605702255
+  ]
 }

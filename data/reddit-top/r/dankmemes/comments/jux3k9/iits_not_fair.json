@@ -219,13 +219,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605566698,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我-这不公平！"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我-這不公平！"
     }
-  },
-  "original_created_utc": 1605566698
+  ]
 }

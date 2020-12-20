@@ -170,13 +170,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606103988,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "曼哈顿14岁的老建筑使用自由式乐高积木"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "曼哈頓14歲的老建築使用自由式樂高積木"
     }
-  },
-  "original_created_utc": 1606103988
+  ]
 }

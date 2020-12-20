@@ -156,12 +156,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607692687,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "可悲的是，78年后也是如此。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "可悲的是，78年後也是如此。"
     }
-  }
+  ]
 }

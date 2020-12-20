@@ -146,12 +146,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607381578,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "特工突袭了被解雇的佛罗里达州数据科学家的家，他们建造了冠状病毒仪表盘"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "特工突襲了被解雇的佛羅裏達州數據科學家的家，他們建造了冠狀病毒儀表盤"
     }
-  }
+  ]
 }

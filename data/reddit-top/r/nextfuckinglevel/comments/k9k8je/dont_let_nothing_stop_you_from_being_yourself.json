@@ -144,12 +144,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607485486,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "别让任何事阻止你做你自己"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "別讓任何事阻止妳做妳自己"
     }
-  }
+  ]
 }

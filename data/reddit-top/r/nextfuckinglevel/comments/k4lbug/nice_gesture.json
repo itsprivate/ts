@@ -165,12 +165,14 @@
   "is_video": true,
   "original_created_utc": 1606831151,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "漂亮的手势"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "漂亮的手勢"
     }
-  }
+  ]
 }

@@ -144,12 +144,14 @@
   "is_video": false,
   "original_created_utc": 1608228677,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "当你在一夜之间醒来时，雪的温度高达40“-44”"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "當你在一夜之間醒來時，雪的溫度高達40“-44”"
     }
-  }
+  ]
 }

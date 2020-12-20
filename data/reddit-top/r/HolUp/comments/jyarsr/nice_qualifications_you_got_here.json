@@ -143,13 +143,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606013312,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "你在这里获得了不错的资历"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "妳在這裏獲得了不錯的資歷"
     }
-  },
-  "original_created_utc": 1606013312
+  ]
 }

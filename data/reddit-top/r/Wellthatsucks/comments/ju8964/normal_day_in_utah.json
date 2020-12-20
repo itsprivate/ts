@@ -162,13 +162,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605384196,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "犹他州正常的一天"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "猶他州正常的壹天"
     }
-  },
-  "original_created_utc": 1605384196
+  ]
 }

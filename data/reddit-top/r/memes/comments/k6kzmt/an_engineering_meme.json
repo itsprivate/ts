@@ -150,12 +150,14 @@
   "is_video": false,
   "original_created_utc": 1607088956,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "工程学模因"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "工程學模因"
     }
-  }
+  ]
 }

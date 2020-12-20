@@ -159,13 +159,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606148992,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "大脑时间"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "大腦時間"
     }
-  },
-  "original_created_utc": 1606148992
+  ]
 }

@@ -169,13 +169,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605827848,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "反面具者被捕"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "反面具者被捕"
     }
-  },
-  "original_created_utc": 1605827848
+  ]
 }

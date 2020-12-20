@@ -153,13 +153,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605916328,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "被诅咒的胜利🥇"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "被詛咒的勝利🥇"
     }
-  },
-  "original_created_utc": 1605916328
+  ]
 }

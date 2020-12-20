@@ -160,13 +160,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606018672,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我女儿今天化疗完了！"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我女兒今天化療完了！"
     }
-  },
-  "original_created_utc": 1606018672
+  ]
 }

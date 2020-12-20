@@ -143,13 +143,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606350607,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "真的，真的，真的很老，但是让我笑了"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "真的，真的，真的很老，但是讓我笑了"
     }
-  },
-  "original_created_utc": 1606350607
+  ]
 }

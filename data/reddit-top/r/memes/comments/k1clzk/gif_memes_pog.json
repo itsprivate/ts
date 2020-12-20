@@ -202,13 +202,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606420314,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "GIF模因POG"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "GIF模因POG"
     }
-  },
-  "original_created_utc": 1606420314
+  ]
 }

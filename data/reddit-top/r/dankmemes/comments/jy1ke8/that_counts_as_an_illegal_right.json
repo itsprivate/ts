@@ -149,13 +149,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605958482,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "这算违法的，对吧？"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "這算違法的，對吧？"
     }
-  },
-  "original_created_utc": 1605958482
+  ]
 }

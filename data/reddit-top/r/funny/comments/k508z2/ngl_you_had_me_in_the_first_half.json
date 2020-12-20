@@ -165,12 +165,14 @@
   "is_video": true,
   "original_created_utc": 1606876320,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "你在上半场赢了我"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "妳在上半場贏了我"
     }
-  }
+  ]
 }

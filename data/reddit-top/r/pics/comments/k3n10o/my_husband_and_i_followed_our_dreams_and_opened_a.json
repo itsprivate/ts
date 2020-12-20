@@ -156,12 +156,14 @@
   "is_video": false,
   "original_created_utc": 1606703712,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我和丈夫追随我们的梦想，开了一家热轮商店。这是我们的新树！"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我和丈夫追隨我們的夢想，開了壹家熱輪商店。這是我們的新樹！"
     }
-  }
+  ]
 }

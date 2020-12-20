@@ -184,12 +184,14 @@
   "is_video": true,
   "original_created_utc": 1606840687,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "金属耶稣COVID惊慌失措"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "金屬耶穌COVID驚慌失措"
     }
-  }
+  ]
 }

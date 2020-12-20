@@ -146,12 +146,14 @@
   "is_video": false,
   "original_created_utc": 1606572024,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "一头大象和它在大象孤儿院的看守人"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "壹頭大象和它在大象孤兒院的看守人"
     }
-  }
+  ]
 }

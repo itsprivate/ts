@@ -144,12 +144,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607781262,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "去挑战吧，伙计。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "去挑戰吧，夥計。"
     }
-  }
+  ]
 }

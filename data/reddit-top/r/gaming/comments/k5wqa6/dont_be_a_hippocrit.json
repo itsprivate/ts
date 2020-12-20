@@ -154,12 +154,14 @@
   "is_video": false,
   "original_created_utc": 1607000276,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "别做河马暴徒"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "別做河馬暴徒"
     }
-  }
+  ]
 }

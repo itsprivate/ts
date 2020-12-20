@@ -144,12 +144,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607350161,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我至少相信这些人中的一个。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我至少相信這些人中的壹個。"
     }
-  }
+  ]
 }

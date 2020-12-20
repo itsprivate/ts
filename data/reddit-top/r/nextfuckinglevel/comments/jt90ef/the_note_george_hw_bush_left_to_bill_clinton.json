@@ -143,13 +143,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605235275,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "乔治·H·W·布什(George HW Bush)在竞选失败后留给比尔·克林顿的便条"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "喬治·H·W·布什(George HW Bush)在競選失敗後留給比爾·克林頓的便條"
     }
-  },
-  "original_created_utc": 1605235275
+  ]
 }

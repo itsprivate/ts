@@ -149,12 +149,14 @@
   "is_video": false,
   "original_created_utc": 1606916711,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "这只猫穿得比我好看多了，lmao"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "這只貓穿得比我好看多了，lmao"
     }
-  }
+  ]
 }

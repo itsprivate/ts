@@ -37,12 +37,14 @@
     }
   },
   "original_created_at": "2020-12-20T01:06:33.000Z",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "所有问题都源于男人无法独自安静地坐在房间里(2014)"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "所有問題都源於男人無法獨自安靜地坐在房間裏(2014)"
     }
-  }
+  ]
 }

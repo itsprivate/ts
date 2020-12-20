@@ -169,13 +169,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605700825,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "强忍着泪水"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "強忍著淚水"
     }
-  },
-  "original_created_utc": 1605700825
+  ]
 }

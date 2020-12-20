@@ -215,12 +215,14 @@
   "is_video": false,
   "original_created_utc": 1608142026,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "你好，黑暗之魂，我的老朋友。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "你好，黑暗之魂，我的老朋友。"
     }
-  }
+  ]
 }

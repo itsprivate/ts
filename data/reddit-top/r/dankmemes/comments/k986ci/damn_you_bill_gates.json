@@ -151,12 +151,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607447374,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "该死的比尔·盖茨！"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "該死的比爾·蓋茨！"
     }
-  }
+  ]
 }

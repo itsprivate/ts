@@ -74,14 +74,16 @@
     ]
   },
   "original_createdAt": "2020-12-17T08:22:21Z",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "description": "FilterPixel是一款人工智能桌面应用程序，可以帮助摄影师更快地选择照片。摆脱乏味、疲惫和耗时的照片选择过程，这样你就可以花更多的时间做你喜欢的事情。",
       "tagline": "基于人工智能的摄影师照片选择"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "description": "FilterPixel是一款人工智能桌面應用程序，可以幫助攝影師更快地選擇照片。擺脫乏味、疲憊和耗時的照片選擇過程，這樣你就可以花更多的時間做你喜歡的事情。",
       "tagline": "基於人工智能的攝影師照片選擇"
     }
-  }
+  ]
 }

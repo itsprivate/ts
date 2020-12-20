@@ -153,13 +153,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606006893,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "披头士，一切音乐之王"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "披頭士，壹切音樂之王"
     }
-  },
-  "original_created_utc": 1606006893
+  ]
 }

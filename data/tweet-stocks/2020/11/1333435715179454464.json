@@ -122,12 +122,14 @@
   "possibly_sensitive": false,
   "lang": "en",
   "original_created_at": "Mon Nov 30 15:40:23 +0000 2020",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "full_text": "我的新书现在出版了\n\n关于退休储蓄你需要知道的一切\n\n它的目的是为那些需要帮助理顺自己的财务状况或需要启动退休储蓄的人起到指导作用。\n\nhttps://t.co/nuptRrfRiZ"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "full_text": "我的新書現在出版了\n\n關於退休儲蓄你需要知道的一切\n\n它的目的是爲那些需要幫助理順自己的財務狀況或需要啓動退休儲蓄的人起到指導作用。\n\nhttps://t.co/nuptRrfRiZ"
     }
-  }
+  ]
 }

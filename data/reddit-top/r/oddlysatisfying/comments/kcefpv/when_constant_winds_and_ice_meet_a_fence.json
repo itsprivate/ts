@@ -154,12 +154,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607880004,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "当持续不断的风和冰碰到栅栏时。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "當持續不斷的風和冰碰到柵欄時。"
     }
-  }
+  ]
 }

@@ -138,13 +138,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605497802,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "如果你来自雪国，这张照片应该会让你心惊肉跳。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "如果妳來自雪國，這張照片應該會讓妳心驚肉跳。"
     }
-  },
-  "original_created_utc": 1605497802
+  ]
 }

@@ -140,12 +140,14 @@
   "is_video": false,
   "original_created_utc": 1606567076,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "AOC：尼基·黑利(Nikki Haley)在市政和联邦之间感到困惑"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "AOC：尼基·黑利(Nikki Haley)在市政和聯邦之間感到困惑"
     }
-  }
+  ]
 }

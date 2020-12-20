@@ -153,13 +153,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606162174,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "酷老师=天使"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "酷老師=天使"
     }
-  },
-  "original_created_utc": 1606162174
+  ]
 }

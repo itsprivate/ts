@@ -144,13 +144,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606438522,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "善意有两种作用。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "善意有兩種作用。"
     }
-  },
-  "original_created_utc": 1606438522
+  ]
 }

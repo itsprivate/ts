@@ -139,13 +139,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606202373,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "保持坚强的国王。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "保持堅強的國王。"
     }
-  },
-  "original_created_utc": 1606202373
+  ]
 }

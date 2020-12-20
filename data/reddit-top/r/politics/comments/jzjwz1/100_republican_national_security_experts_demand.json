@@ -165,13 +165,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606179517,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "100名共和党国家安全专家要求共和党承认特朗普的失败"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "100名共和黨國家安全專家要求共和黨承認特朗普的失敗"
     }
-  },
-  "original_created_utc": 1606179517
+  ]
 }

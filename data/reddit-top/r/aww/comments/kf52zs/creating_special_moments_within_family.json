@@ -171,12 +171,14 @@
   "is_video": true,
   "original_created_utc": 1608235594,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "在家庭中创造特殊时刻"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "在家庭中創造特殊時刻"
     }
-  }
+  ]
 }

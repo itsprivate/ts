@@ -170,13 +170,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606410692,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "谁说我们要长大了？"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "誰說我們要長大了？"
     }
-  },
-  "original_created_utc": 1606410692
+  ]
 }

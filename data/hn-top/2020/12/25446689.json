@@ -36,12 +36,14 @@
     }
   },
   "original_created_at": "2020-12-16T18:52:06.000Z",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "2021年1月1日是公共领域日：1925年的作品向所有人开放"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "2021年1月1日是公共領域日：1925年的作品向所有人開放"
     }
-  }
+  ]
 }

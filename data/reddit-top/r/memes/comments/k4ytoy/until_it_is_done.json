@@ -149,12 +149,14 @@
   "is_video": false,
   "original_created_utc": 1606871567,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "在这件事完成之前"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "在這件事完成之前"
     }
-  }
+  ]
 }

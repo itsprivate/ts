@@ -139,12 +139,14 @@
   "is_video": false,
   "original_created_utc": 1606941414,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我真想狠狠地扇我年轻时的自己一巴掌"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我真想狠狠地扇我年輕時的自己壹巴掌"
     }
-  }
+  ]
 }

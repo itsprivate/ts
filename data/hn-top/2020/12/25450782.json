@@ -37,12 +37,14 @@
     }
   },
   "original_created_at": "2020-12-17T00:33:46.000Z",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "使用Inkscape和Gimp创建飞机比例图的书籍"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "使用Inkscape和Gimp創建飛機比例圖的書籍"
     }
-  }
+  ]
 }

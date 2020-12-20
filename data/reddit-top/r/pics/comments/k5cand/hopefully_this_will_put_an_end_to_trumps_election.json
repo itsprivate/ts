@@ -158,12 +158,14 @@
   "is_video": false,
   "original_created_utc": 1606925963,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "希望这将结束特朗普在选举中的愤怒。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "希望這將結束特朗普在選舉中的憤怒。"
     }
-  }
+  ]
 }

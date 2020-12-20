@@ -59,14 +59,16 @@
     ]
   },
   "original_createdAt": "2020-12-17T15:03:18Z",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "description": "伊迪丝是VSCode的开源语音助手。结账：https://github.com/Navan0/edith",
       "tagline": "vscode的开源语音助手"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "description": "伊迪絲是VSCode的開源語音助手。結賬：https://github.com/Navan0/edith",
       "tagline": "vscode的開源語音助手"
     }
-  }
+  ]
 }

@@ -165,12 +165,14 @@
   "is_video": true,
   "original_created_utc": 1607191554,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "用冰做冰柜"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "用冰做冰櫃"
     }
-  }
+  ]
 }

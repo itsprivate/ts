@@ -191,12 +191,14 @@
   "is_video": false,
   "original_created_utc": 1606900418,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "这只鹰的巨大体型"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "這只鷹的巨大體型"
     }
-  }
+  ]
 }

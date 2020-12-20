@@ -191,12 +191,14 @@
   "is_video": false,
   "original_created_utc": 1607289093,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "引入可堆叠的猫，在拥抱的同时节省空间"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "引入可堆疊的貓，在擁抱的同時節省空間"
     }
-  }
+  ]
 }

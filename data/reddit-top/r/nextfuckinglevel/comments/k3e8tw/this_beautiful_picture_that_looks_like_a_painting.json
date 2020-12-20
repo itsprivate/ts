@@ -146,12 +146,14 @@
   "is_video": false,
   "original_created_utc": 1606673886,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "这幅美丽的画看起来像一幅画。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "這幅美麗的畫看起來像壹幅畫。"
     }
-  }
+  ]
 }

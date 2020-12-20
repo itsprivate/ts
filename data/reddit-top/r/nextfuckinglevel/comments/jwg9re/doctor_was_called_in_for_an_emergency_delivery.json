@@ -143,13 +143,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605737132,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "医生在还穿着万圣节服装的时候被叫来急救"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "醫生在還穿著萬聖節服裝的時候被叫來急救"
     }
-  },
-  "original_created_utc": 1605737132
+  ]
 }

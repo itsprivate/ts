@@ -100,12 +100,14 @@
   "retweeted": false,
   "lang": "sv",
   "original_created_at": "Mon Dec 07 15:33:23 +0000 2020",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "full_text": "特斯拉股价上涨625美元。\n\n美国电话服务级别协议4.5%"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "full_text": "特斯拉股價上漲625美元。\n\n美國電話服務級別協議4.5%"
     }
-  }
+  ]
 }

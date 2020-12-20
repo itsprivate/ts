@@ -155,13 +155,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606379270,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "特朗普赦免前国家安全顾问迈克尔·弗林，后者承认向FBI撒谎"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "特朗普赦免前國家安全顧問邁克爾·弗林，後者承認向FBI撒謊"
     }
-  },
-  "original_created_utc": 1606379270
+  ]
 }

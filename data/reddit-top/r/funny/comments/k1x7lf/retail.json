@@ -144,12 +144,14 @@
   "is_video": false,
   "original_created_utc": 1606464733,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "零售业"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "零售業"
     }
-  }
+  ]
 }

@@ -143,13 +143,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605543588,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "这据信是苏格兰爱丁堡的首次航拍。20世纪20年代"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "這據信是蘇格蘭愛丁堡的首次航拍。20世紀20年代"
     }
-  },
-  "original_created_utc": 1605543588
+  ]
 }

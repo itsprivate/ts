@@ -170,13 +170,15 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "i18nResource": {
-    "zh": {
+  "original_created_at": "Mon Nov 23 20:52:35 +0000 2020",
+  "localize": [
+    {
+      "locale": "zh",
       "full_text": "美国80%的财富由60岁及以上的人持有\n\n来自美国银行https://t.co/Tc4l4BE1Me的图表"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "full_text": "美國80%的財富由60歲及以上的人持有\n\n來自美國銀行https://t.co/Tc4l4BE1Me的圖表"
     }
-  },
-  "original_created_at": "Mon Nov 23 20:52:35 +0000 2020"
+  ]
 }

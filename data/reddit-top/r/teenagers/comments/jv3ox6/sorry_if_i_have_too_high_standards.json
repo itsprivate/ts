@@ -150,13 +150,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605561771,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "如果我的标准太高，很抱歉。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "如果我的標準太高，很抱歉。"
     }
-  },
-  "original_created_utc": 1605561771
+  ]
 }

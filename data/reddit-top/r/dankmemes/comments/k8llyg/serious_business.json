@@ -210,12 +210,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607363802,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "严肃的业务"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "嚴肅的業務"
     }
-  }
+  ]
 }

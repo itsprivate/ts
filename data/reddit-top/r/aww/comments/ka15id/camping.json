@@ -145,12 +145,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607549433,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "露营"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "露營"
     }
-  }
+  ]
 }

@@ -141,12 +141,14 @@
   "is_video": false,
   "original_created_utc": 1608401929,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "凯蒂·萨克霍夫(Katee Sackhoff)把她的科幻迷爸爸带到了“曼达洛人”的片场。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "凱蒂·薩克霍夫(Katee Sackhoff)把她的科幻迷爸爸帶到了“曼達洛人”的片場。"
     }
-  }
+  ]
 }

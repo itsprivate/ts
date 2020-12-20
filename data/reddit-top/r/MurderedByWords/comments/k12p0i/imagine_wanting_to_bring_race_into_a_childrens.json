@@ -143,13 +143,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606418202,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "想象一下，想要把种族带入孩子们的游戏中"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "想象壹下，想要把種族帶入孩子們的遊戲中"
     }
-  },
-  "original_created_utc": 1606418202
+  ]
 }

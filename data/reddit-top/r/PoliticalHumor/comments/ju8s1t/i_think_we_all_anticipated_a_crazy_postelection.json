@@ -138,13 +138,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605386020,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我想我们都预料到了一场疯狂的选举后"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我想我們都預料到了壹場瘋狂的選舉後"
     }
-  },
-  "original_created_utc": 1605386020
+  ]
 }

@@ -165,12 +165,14 @@
   "is_video": true,
   "original_created_utc": 1606847927,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "德国动画片是这样的"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "德國動畫片是這樣的"
     }
-  }
+  ]
 }

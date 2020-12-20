@@ -138,13 +138,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605893777,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "斯泰西·艾布拉姆斯说，共和党人对选举“如此疯狂”的原因是他们压制选民的努力被阻止了"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "斯泰西·艾布拉姆斯說，共和黨人對選舉“如此瘋狂”的原因是他們壓制選民的努力被阻止了"
     }
-  },
-  "original_created_utc": 1605893777
+  ]
 }

@@ -111,12 +111,14 @@
   "retweeted": false,
   "lang": "en",
   "original_created_at": "Sun Dec 06 16:57:40 +0000 2020",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "full_text": "今天我第一次尝尝了我的麦肋\n\n我是以一个非麦当劳势利眼的人的身份这么说的：\n\n这是一种粗俗的感觉"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "full_text": "今天我第一次嚐嚐了我的麥肋\n\n我是以一個非麥當勞勢利眼的人的身份這麼說的：\n\n這是一種粗俗的感覺"
     }
-  }
+  ]
 }

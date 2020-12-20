@@ -149,12 +149,14 @@
   "is_video": false,
   "original_created_utc": 1608143773,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "资本主义是个道貌岸然的人"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "資本主義是個道貌岸然的人"
     }
-  }
+  ]
 }

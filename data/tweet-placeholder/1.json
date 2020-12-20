@@ -5,17 +5,26 @@
   "id_str": "1",
   "full_text": "Tesla's market cap is now $50 billion higher than Walmart.\n\nSales...\nTesla: $28 billion\nWalmart: $549 billion\n\nNet Income...\nTesla: $556 million\nWalmart: $20 billion\n\n$TSLA $WMT\n\nChart/Data via @ycharts https://t.co/ajSyGIsrOs",
   "truncated": false,
-  "display_text_range": [0, 202],
+  "display_text_range": [
+    0,
+    202
+  ],
   "entities": {
     "hashtags": [],
     "symbols": [
       {
         "text": "TSLA",
-        "indices": [167, 172]
+        "indices": [
+          167,
+          172
+        ]
       },
       {
         "text": "WMT",
-        "indices": [173, 177]
+        "indices": [
+          173,
+          177
+        ]
       }
     ],
     "user_mentions": [
@@ -24,7 +33,10 @@
         "name": "YCharts",
         "id": 22869238,
         "id_str": "22869238",
-        "indices": [194, 202]
+        "indices": [
+          194,
+          202
+        ]
       }
     ],
     "urls": [],
@@ -32,7 +44,10 @@
       {
         "id": 1329464526954238000,
         "id_str": "1329464526954237953",
-        "indices": [203, 226],
+        "indices": [
+          203,
+          226
+        ],
         "media_url": "http://pbs.twimg.com/media/EnM08YaXEAEekEk.png",
         "media_url_https": "https://pbs.twimg.com/media/EnM08YaXEAEekEk.png",
         "url": "https://t.co/ajSyGIsrOs",
@@ -69,7 +84,10 @@
       {
         "id": 1329464526954238000,
         "id_str": "1329464526954237953",
-        "indices": [203, 226],
+        "indices": [
+          203,
+          226
+        ],
         "media_url": "http://pbs.twimg.com/media/EnM08YaXEAEekEk.png",
         "media_url_https": "https://pbs.twimg.com/media/EnM08YaXEAEekEk.png",
         "url": "https://t.co/ajSyGIsrOs",
@@ -122,7 +140,10 @@
             "url": "https://t.co/1zNIPqZdEH",
             "expanded_url": "https://compoundadvisors.com/newsletter",
             "display_url": "compoundadvisors.com/newsletter",
-            "indices": [0, 23]
+            "indices": [
+              0,
+              23
+            ]
           }
         ]
       },
@@ -132,7 +153,10 @@
             "url": "https://t.co/1zNIPqZdEH",
             "expanded_url": "https://compoundadvisors.com/newsletter",
             "display_url": "compoundadvisors.com/newsletter",
-            "indices": [85, 108]
+            "indices": [
+              85,
+              108
+            ]
           }
         ]
       }
@@ -183,16 +207,18 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "full_text": "特斯拉的市值现在比沃尔玛高出500亿美元。\n\n销售量..。\n特斯拉：280亿美元\n沃尔玛：5490亿美元\n\n净收入.\n特斯拉：5.56亿美元\n沃尔玛：200亿美元\n\n$TSLA$WMT\n\n通过@ycharts https://t.co/ajSyGIsrOs查看图表/数据",
       "quoted_status_full_text": "測試quote",
       "retweeted_status_full_text": "測試"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "full_text": "特斯拉的市值現在比沃爾瑪高出500億美元。\n\n銷售量..。\n特斯拉：280億美元\n沃爾瑪：5490億美元\n\n淨收入.\n特斯拉：5.56億美元\n沃爾瑪：200億美元\n\n$TSLA$WMT\n\n通過@ycharts https://t.co/ajSyGIsrOs查看圖表/數據",
       "quoted_status_full_text": "測試quote",
       "retweeted_status_full_text": "測試"
     }
-  }
+  ]
 }

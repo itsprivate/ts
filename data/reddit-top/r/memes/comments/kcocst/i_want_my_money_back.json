@@ -193,12 +193,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607912049,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我想要回我的钱"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我想要回我的錢"
     }
-  }
+  ]
 }

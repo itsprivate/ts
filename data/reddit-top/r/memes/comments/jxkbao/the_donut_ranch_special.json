@@ -143,13 +143,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605911544,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "甜甜圈农场特色菜"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "甜甜圈農場特色菜"
     }
-  },
-  "original_created_utc": 1605911544
+  ]
 }

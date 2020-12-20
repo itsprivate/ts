@@ -144,12 +144,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607376473,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "哥伦比亚环保官员遇刺：2020年迄今该国已有284名环保领袖和土地卫士被杀"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "哥倫比亞環保官員遇刺：2020年迄今該國已有284名環保領袖和土地衛士被殺"
     }
-  }
+  ]
 }

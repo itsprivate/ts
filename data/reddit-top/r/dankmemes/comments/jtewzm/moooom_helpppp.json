@@ -153,13 +153,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605264057,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "Moooom帮助程序"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "Moooom幫助程序"
     }
-  },
-  "original_created_utc": 1605264057
+  ]
 }

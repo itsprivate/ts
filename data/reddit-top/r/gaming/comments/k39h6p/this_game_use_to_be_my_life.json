@@ -145,12 +145,14 @@
   "is_video": false,
   "original_created_utc": 1606656973,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "这个游戏曾经是我的生命"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "這個遊戲曾經是我的生命"
     }
-  }
+  ]
 }

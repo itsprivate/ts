@@ -190,13 +190,15 @@
   },
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605877063,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "瑞士格林德瓦尔德的美景"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "瑞士格林德瓦爾德的美景"
     }
-  },
-  "original_created_utc": 1605877063
+  ]
 }

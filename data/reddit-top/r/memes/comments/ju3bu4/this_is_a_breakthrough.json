@@ -174,13 +174,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605366572,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "这是一个突破"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "這是壹個突破"
     }
-  },
-  "original_created_utc": 1605366572
+  ]
 }

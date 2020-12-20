@@ -158,13 +158,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606333416,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "可以在精神层面上与此相关"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "可以在精神層面上與此相關"
     }
-  },
-  "original_created_utc": 1606333416
+  ]
 }

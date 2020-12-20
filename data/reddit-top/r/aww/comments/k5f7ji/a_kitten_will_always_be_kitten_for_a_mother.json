@@ -165,12 +165,14 @@
   "is_video": true,
   "original_created_utc": 1606934102,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "对于母亲来说，小猫永远是小猫。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "對於母親來說，小貓永遠是小貓。"
     }
-  }
+  ]
 }

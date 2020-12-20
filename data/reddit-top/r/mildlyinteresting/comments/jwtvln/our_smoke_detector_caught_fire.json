@@ -153,13 +153,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605812399,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我们的烟雾探测器着火了。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我們的煙霧探測器著火了。"
     }
-  },
-  "original_created_utc": 1605812399
+  ]
 }

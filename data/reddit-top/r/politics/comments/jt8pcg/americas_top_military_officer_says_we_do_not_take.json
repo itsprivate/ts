@@ -144,13 +144,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605234118,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "美国最高军事官员称“我们不向国王宣誓”"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "美國最高軍事官員稱“我們不向國王宣誓”"
     }
-  },
-  "original_created_utc": 1605234118
+  ]
 }

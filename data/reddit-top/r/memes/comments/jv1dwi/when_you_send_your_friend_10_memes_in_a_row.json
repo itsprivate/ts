@@ -153,13 +153,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605540086,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "当你连续给你的朋友发10条表情包时"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "當妳連續給妳的朋友發10條表情包時"
     }
-  },
-  "original_created_utc": 1605540086
+  ]
 }

@@ -194,12 +194,14 @@
   "is_video": false,
   "original_created_utc": 1608113017,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "打扰一下..。见鬼？"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "打擾一下..。見鬼？"
     }
-  }
+  ]
 }

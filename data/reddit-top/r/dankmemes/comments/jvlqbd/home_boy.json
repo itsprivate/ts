@@ -144,13 +144,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605642601,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "家里的男孩"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "家裏的男孩"
     }
-  },
-  "original_created_utc": 1605642601
+  ]
 }

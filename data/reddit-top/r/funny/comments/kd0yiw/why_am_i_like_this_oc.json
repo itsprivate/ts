@@ -154,12 +154,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607963642,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "为什么我会这样[原创]"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "爲什麼我會這樣[原創]"
     }
-  }
+  ]
 }

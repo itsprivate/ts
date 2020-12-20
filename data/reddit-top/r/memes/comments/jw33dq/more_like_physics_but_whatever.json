@@ -154,13 +154,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605676855,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "更像是物理，不过不管怎样。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "更像是物理，不過不管怎樣。"
     }
-  },
-  "original_created_utc": 1605676855
+  ]
 }

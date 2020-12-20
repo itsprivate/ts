@@ -144,13 +144,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606156071,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "所罗门群岛将以“民族团结”的名义禁止Facebook"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "所羅門群島將以“民族團結”的名義禁止Facebook"
     }
-  },
-  "original_created_utc": 1606156071
+  ]
 }

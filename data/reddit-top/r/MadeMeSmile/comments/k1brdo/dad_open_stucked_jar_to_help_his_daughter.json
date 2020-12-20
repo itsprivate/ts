@@ -190,13 +190,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606424038,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "爸爸打开塞着的罐子帮助他的女儿"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "爸爸打開塞著的罐子幫助他的女兒"
     }
-  },
-  "original_created_utc": 1606424038
+  ]
 }

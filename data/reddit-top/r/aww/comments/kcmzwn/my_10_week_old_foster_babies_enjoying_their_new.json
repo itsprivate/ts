@@ -154,12 +154,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607907283,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我10周大的寄养宝宝喜欢他们的新爪子"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我10周大的寄養寶寶喜歡他們的新爪子"
     }
-  }
+  ]
 }

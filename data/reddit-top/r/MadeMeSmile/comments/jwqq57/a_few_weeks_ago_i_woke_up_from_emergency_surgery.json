@@ -171,13 +171,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605810293,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "几周前，我从紧急手术中醒来，发现自己再也走不动了。几天前，我好不容易站了起来，拄着拐杖走了一小段路。如此多的微笑：-)"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "幾周前，我從緊急手術中醒來，發現自己再也走不動了。幾天前，我好不容易站了起來，拄著拐杖走了壹小段路。如此多的微笑：-)"
     }
-  },
-  "original_created_utc": 1605810293
+  ]
 }

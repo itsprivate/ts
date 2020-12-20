@@ -168,13 +168,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605667055,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "当爸爸是你最大的啦啦队长时"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "當爸爸是妳最大的啦啦隊長時"
     }
-  },
-  "original_created_utc": 1605667055
+  ]
 }

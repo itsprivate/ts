@@ -143,13 +143,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605561772,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "两只猫，一颗心。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "兩只貓，壹顆心。"
     }
-  },
-  "original_created_utc": 1605561772
+  ]
 }

@@ -154,12 +154,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607617024,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "唐纳德·特朗普被欧洲最大的新闻杂志评为“年度失败者”"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "唐納德·特朗普被歐洲最大的新聞雜誌評爲“年度失敗者”"
     }
-  }
+  ]
 }

@@ -144,12 +144,14 @@
   "is_video": false,
   "original_created_utc": 1606416799,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "受诅咒的DLC"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "受詛咒的DLC"
     }
-  }
+  ]
 }

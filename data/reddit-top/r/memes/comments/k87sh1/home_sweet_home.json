@@ -195,12 +195,14 @@
   "is_video": false,
   "original_created_utc": 1607308484,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "还是自己的家好"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "還是自己的家好"
     }
-  }
+  ]
 }

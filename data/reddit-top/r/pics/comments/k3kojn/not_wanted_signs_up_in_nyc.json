@@ -158,12 +158,14 @@
   "is_video": false,
   "original_created_utc": 1606695200,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "在纽约市不想要的招牌"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "在紐約市不想要的招牌"
     }
-  }
+  ]
 }

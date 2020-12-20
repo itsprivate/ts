@@ -156,12 +156,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607983554,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "这是烤前的牛排肉饼。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "這是烤前的牛排肉餅。"
     }
-  }
+  ]
 }

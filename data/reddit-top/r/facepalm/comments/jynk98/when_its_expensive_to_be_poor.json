@@ -144,13 +144,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606061665,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "当贫穷的代价很高的时候.."
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "當貧窮的代價很高的時候.."
     }
-  },
-  "original_created_utc": 1606061665
+  ]
 }

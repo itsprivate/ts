@@ -155,12 +155,14 @@
   "is_video": false,
   "original_created_utc": 1608069892,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我的祖母和姑姑(50多岁)"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我的祖母和姑姑(50多歲)"
     }
-  }
+  ]
 }

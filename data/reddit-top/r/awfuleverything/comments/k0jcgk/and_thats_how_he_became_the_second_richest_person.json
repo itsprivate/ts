@@ -153,13 +153,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606341323,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "这就是他成为世界第二大富豪的原因。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "這就是他成為世界第二大富豪的原因。"
     }
-  },
-  "original_created_utc": 1606341323
+  ]
 }

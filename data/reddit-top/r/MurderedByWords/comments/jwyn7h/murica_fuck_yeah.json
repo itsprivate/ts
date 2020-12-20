@@ -158,13 +158,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605806406,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "“穆里卡，他妈的耶！"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "“穆裏卡，他媽的耶！"
     }
-  },
-  "original_created_utc": 1605806406
+  ]
 }

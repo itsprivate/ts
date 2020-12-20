@@ -165,12 +165,14 @@
   "is_video": true,
   "original_created_utc": 1606578866,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "一位女士和她的猫的时间流逝"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "壹位女士和她的貓的時間流逝"
     }
-  }
+  ]
 }

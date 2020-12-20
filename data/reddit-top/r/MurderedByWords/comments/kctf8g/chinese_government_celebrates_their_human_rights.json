@@ -145,12 +145,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607932580,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "中国政府庆祝他们在人权方面取得的成就。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "中國政府慶祝他們在人權方面取得的成就。"
     }
-  }
+  ]
 }

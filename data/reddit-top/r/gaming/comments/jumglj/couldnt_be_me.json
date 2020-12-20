@@ -144,13 +144,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605478706,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "不可能是我"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "不可能是我"
     }
-  },
-  "original_created_utc": 1605478706
+  ]
 }

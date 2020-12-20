@@ -167,13 +167,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605239351,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "如此无畏！"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "如此無畏！"
     }
-  },
-  "original_created_utc": 1605239351
+  ]
 }

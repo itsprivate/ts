@@ -258,12 +258,14 @@
   "possibly_sensitive": false,
   "lang": "en",
   "original_created_at": "Fri Dec 18 04:48:12 +0000 2020",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "full_text": "护士接种COVID疫苗后在电视直播中晕倒，LOL\nhttps://t.co/pePEOJ0k7v"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "full_text": "護士接種COVID疫苗後在電視直播中暈倒，LOL\nhttps://t.co/pePEOJ0k7v"
     }
-  }
+  ]
 }

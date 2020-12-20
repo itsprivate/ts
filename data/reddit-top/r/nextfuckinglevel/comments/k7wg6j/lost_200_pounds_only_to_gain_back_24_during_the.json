@@ -155,12 +155,14 @@
   "is_video": false,
   "original_created_utc": 1607271127,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "体重减少了200磅，但在2020年下半年又回升了24磅。嗯，一个月内丢了9个。还有15个！"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "體重減少了200磅，但在2020年下半年又回升了24磅。嗯，壹個月內丟了9個。還有15個！"
     }
-  }
+  ]
 }

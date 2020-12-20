@@ -238,13 +238,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605619473,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "在海底"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "在海底"
     }
-  },
-  "original_created_utc": 1605619473
+  ]
 }

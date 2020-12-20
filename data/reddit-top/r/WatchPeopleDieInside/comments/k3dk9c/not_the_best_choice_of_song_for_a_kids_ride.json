@@ -180,12 +180,14 @@
   "is_video": true,
   "original_created_utc": 1606671675,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "不是儿童骑车的最佳歌曲选择"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "不是兒童騎車的最佳歌曲選擇"
     }
-  }
+  ]
 }

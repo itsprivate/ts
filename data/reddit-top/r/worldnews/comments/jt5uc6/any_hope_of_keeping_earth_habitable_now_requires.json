@@ -154,13 +154,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605223607,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "一项新的研究发现，现在任何保持地球宜居的希望都需要从大气中吸回碳"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "壹項新的研究發現，現在任何保持地球宜居的希望都需要從大氣中吸回碳"
     }
-  },
-  "original_created_utc": 1605223607
+  ]
 }

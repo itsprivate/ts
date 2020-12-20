@@ -154,12 +154,14 @@
   "is_video": false,
   "original_created_utc": 1606569561,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "评估"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "評估"
     }
-  }
+  ]
 }

@@ -146,12 +146,14 @@
   "is_video": false,
   "original_created_utc": 1606550027,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我问酒店能不能带我的猫来。这就是我们要去的地方。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我問酒店能不能帶我的貓來。這就是我們要去的地方。"
     }
-  }
+  ]
 }

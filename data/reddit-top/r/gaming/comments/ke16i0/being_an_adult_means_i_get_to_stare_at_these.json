@@ -154,12 +154,14 @@
   "is_video": false,
   "original_created_utc": 1608088759,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "作为一个成年人，意味着我每天都可以盯着它们看，但从来没有真正玩过，因为我下班后太累了"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "作爲一個成年人，意味着我每天都可以盯着它們看，但從來沒有真正玩過，因爲我下班後太累了"
     }
-  }
+  ]
 }

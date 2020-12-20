@@ -164,13 +164,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606307145,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "玩具总动员出了差错"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "玩具總動員出了差錯"
     }
-  },
-  "original_created_utc": 1606307145
+  ]
 }

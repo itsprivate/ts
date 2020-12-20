@@ -144,13 +144,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605426657,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "你已经看过了Obamium现在正在为……做好准备。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "妳已經看過了Obamium現在正在為……做好準備。"
     }
-  },
-  "original_created_utc": 1605426657
+  ]
 }

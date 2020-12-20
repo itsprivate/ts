@@ -143,13 +143,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605567848,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "不过，说真的，别说了"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "不過，說真的，別說了"
     }
-  },
-  "original_created_utc": 1605567848
+  ]
 }

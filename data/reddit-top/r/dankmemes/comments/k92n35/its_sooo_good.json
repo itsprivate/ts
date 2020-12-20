@@ -160,12 +160,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607427034,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "太好吃了"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "太好吃了"
     }
-  }
+  ]
 }

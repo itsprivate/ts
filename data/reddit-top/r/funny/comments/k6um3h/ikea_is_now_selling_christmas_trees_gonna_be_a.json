@@ -142,12 +142,14 @@
   "is_video": false,
   "original_created_utc": 1607119247,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "宜家现在正在出售圣诞树。将会是一个漫长的夜晚"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "宜家現在正在出售聖誕樹。將會是壹個漫長的夜晚"
     }
-  }
+  ]
 }

@@ -164,13 +164,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605939723,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "完美10落地"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "完美10落地"
     }
-  },
-  "original_created_utc": 1605939723
+  ]
 }

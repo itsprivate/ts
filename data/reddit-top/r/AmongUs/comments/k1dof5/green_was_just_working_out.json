@@ -139,13 +139,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606430801,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "格林刚刚在健身"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "格林剛剛在健身"
     }
-  },
-  "original_created_utc": 1606430801
+  ]
 }

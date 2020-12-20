@@ -163,13 +163,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605979934,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我不能再这样生活了"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我不能再這樣生活了"
     }
-  },
-  "original_created_utc": 1605979934
+  ]
 }

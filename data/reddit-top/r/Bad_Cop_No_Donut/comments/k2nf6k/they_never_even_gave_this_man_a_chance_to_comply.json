@@ -155,12 +155,14 @@
   "is_video": false,
   "original_created_utc": 1606569136,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "他们甚至没有给这个人一个机会在枪杀他之前顺从他！"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "他們甚至沒有給這個人壹個機會在槍殺他之前順從他！"
     }
-  }
+  ]
 }

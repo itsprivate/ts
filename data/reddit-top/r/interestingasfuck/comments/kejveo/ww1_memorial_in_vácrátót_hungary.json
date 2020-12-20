@@ -144,12 +144,14 @@
   "is_video": false,
   "original_created_utc": 1608158448,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "匈牙利瓦克拉托的第一次世界大战纪念馆"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "匈牙利瓦克拉託的第一次世界大戰紀念館"
     }
-  }
+  ]
 }

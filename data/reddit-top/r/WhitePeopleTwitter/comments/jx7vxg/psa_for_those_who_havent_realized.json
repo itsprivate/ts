@@ -144,13 +144,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605842711,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "对于那些还没有意识到这一点的人，请注意PSA。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "對於那些還沒有意識到這壹點的人，請註意PSA。"
     }
-  },
-  "original_created_utc": 1605842711
+  ]
 }

@@ -153,13 +153,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605932624,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "婴儿偷偷摸摸"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "嬰兒偷偷摸摸"
     }
-  },
-  "original_created_utc": 1605932624
+  ]
 }

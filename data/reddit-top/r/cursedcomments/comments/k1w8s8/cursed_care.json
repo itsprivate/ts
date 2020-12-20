@@ -155,12 +155,14 @@
   "is_video": false,
   "original_created_utc": 1606460006,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "受诅咒的关爱"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "受詛咒的關愛"
     }
-  }
+  ]
 }

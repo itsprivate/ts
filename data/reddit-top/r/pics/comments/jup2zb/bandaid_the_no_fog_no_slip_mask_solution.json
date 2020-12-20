@@ -157,13 +157,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605482213,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "创可贴：无雾、无滑面膜解决方案"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "創可貼：無霧、無滑面膜解決方案"
     }
-  },
-  "original_created_utc": 1605482213
+  ]
 }

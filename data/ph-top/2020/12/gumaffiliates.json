@@ -54,14 +54,16 @@
     ]
   },
   "original_createdAt": "2020-12-17T08:20:30Z",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "description": "GumRoad加盟和推荐营销变得简单：通过加盟推广您的产品，让您的受众有利可图！Gumaffialites是给你的，如果你有一个产品，想要推广它，你有一个受众，想要把它货币化。",
       "tagline": "GumRoad联盟和推荐营销变得简单。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "description": "GumRoad加盟和推薦營銷變得簡單：通過加盟推廣您的產品，讓您的受衆有利可圖！Gumaffialites是給你的，如果你有一個產品，想要推廣它，你有一個受衆，想要把它貨幣化。",
       "tagline": "GumRoad聯盟和推薦營銷變得簡單。"
     }
-  }
+  ]
 }

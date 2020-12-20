@@ -37,12 +37,14 @@
     }
   },
   "original_created_at": "2020-12-18T03:35:11.000Z",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "大Sur错误阻止升级到下一个版本"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "大Sur錯誤阻止升級到下一個版本"
     }
-  }
+  ]
 }

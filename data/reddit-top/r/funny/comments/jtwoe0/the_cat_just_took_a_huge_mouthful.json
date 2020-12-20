@@ -162,13 +162,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605332204,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "那只猫刚刚大口大口地吃了一大口。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "那只貓剛剛大口大口地吃了壹大口。"
     }
-  },
-  "original_created_utc": 1605332204
+  ]
 }

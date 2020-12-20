@@ -150,13 +150,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605307255,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "刺客之战：Ragnahalla"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "刺客之戰：Ragnahalla"
     }
-  },
-  "original_created_utc": 1605307255
+  ]
 }

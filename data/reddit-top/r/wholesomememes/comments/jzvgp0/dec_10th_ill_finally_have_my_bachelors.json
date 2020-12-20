@@ -150,13 +150,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606232638,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "12月10日，我终于有了我的单身汉：)"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "12月10日，我終於有了我的單身漢：)"
     }
-  },
-  "original_created_utc": 1606232638
+  ]
 }

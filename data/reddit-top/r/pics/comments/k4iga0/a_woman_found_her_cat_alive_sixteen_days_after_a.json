@@ -142,12 +142,14 @@
   "is_video": false,
   "original_created_utc": 1606818624,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "2011年，密苏里州乔普林的一场破坏性龙卷风过后16天，一名妇女发现她的猫还活着。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "2011年，密蘇裏州喬普林的壹場破壞性龍卷風過後16天，壹名婦女發現她的貓還活著。"
     }
-  }
+  ]
 }

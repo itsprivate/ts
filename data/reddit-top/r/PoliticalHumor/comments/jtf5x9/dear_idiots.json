@@ -153,13 +153,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605265497,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "亲爱的白痴们"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "親愛的白癡們"
     }
-  },
-  "original_created_utc": 1605265497
+  ]
 }

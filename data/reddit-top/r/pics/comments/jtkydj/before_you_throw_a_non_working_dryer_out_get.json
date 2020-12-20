@@ -155,13 +155,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605291304,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "在你扔掉不能工作的烘干机之前，拿起螺丝刀并把它打开。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "在妳扔掉不能工作的烘幹機之前，拿起螺絲刀並把它打開。"
     }
-  },
-  "original_created_utc": 1605291304
+  ]
 }

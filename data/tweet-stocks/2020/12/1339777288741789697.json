@@ -191,12 +191,14 @@
   "possibly_sensitive": false,
   "lang": "en",
   "original_created_at": "Fri Dec 18 03:39:32 +0000 2020",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "full_text": "过去10年的资产类别回报。\n\n接下来的10年？\n\n新邮报..。\n\nhttps://t.co/ctsmWg0Luc https://t.co/0g9S8us8wg"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "full_text": "過去10年的資產類別回報。\n\n接下來的10年？\n\n新郵報..。\n\nhttps://t.co/ctsmWg0Luc https://t.co/0g9S8us8wg"
     }
-  }
+  ]
 }

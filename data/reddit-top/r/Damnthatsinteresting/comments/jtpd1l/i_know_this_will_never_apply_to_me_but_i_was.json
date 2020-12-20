@@ -163,13 +163,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605304231,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我知道这永远不会适用于我，但我仍然印象深刻。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我知道這永遠不會適用於我，但我仍然印象深刻。"
     }
-  },
-  "original_created_utc": 1605304231
+  ]
 }

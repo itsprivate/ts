@@ -209,12 +209,14 @@
   "is_video": false,
   "original_created_utc": 1608221537,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "你上当了，你这个笨蛋"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "你上當了，你這個笨蛋"
     }
-  }
+  ]
 }

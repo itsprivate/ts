@@ -104,14 +104,16 @@
     ]
   },
   "original_createdAt": "2020-12-19T08:48:50Z",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "description": "Flex Widgets是iPhone和iPad的第一个真正的Widget编辑器。它允许您通过在小部件上放置元素，然后编辑、移动、调整大小和分层这些元素来自由构建小部件。所有这些都在一个超级直观的编辑器中完成。",
       "tagline": "适用于iPhone和iPad的小部件编辑器"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "description": "Flex Widgets是iPhone和iPad的第一個真正的Widget編輯器。它允許您通過在小部件上放置元素，然後編輯、移動、調整大小和分層這些元素來自由構建小部件。所有這些都在一個超級直觀的編輯器中完成。",
       "tagline": "適用於iPhone和iPad的小部件編輯器"
     }
-  }
+  ]
 }

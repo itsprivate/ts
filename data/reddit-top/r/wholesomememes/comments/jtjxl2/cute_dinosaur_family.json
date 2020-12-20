@@ -153,13 +153,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605288199,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "可爱的恐龙家族🦕"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "可愛的恐龍家族🦕"
     }
-  },
-  "original_created_utc": 1605288199
+  ]
 }

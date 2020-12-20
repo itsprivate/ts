@@ -144,13 +144,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605467740,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "当大流行变得政治化的时候.."
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "當大流行變得政治化的時候.."
     }
-  },
-  "original_created_utc": 1605467740
+  ]
 }

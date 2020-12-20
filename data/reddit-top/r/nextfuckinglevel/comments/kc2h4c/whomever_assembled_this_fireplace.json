@@ -144,12 +144,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607826813,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "是谁组装了这个壁炉。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "是誰組裝了這個壁爐。"
     }
-  }
+  ]
 }

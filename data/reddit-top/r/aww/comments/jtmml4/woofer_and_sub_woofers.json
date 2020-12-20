@@ -168,13 +168,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605296355,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "低音和低音扬声器"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "低音和低音揚聲器"
     }
-  },
-  "original_created_utc": 1605296355
+  ]
 }

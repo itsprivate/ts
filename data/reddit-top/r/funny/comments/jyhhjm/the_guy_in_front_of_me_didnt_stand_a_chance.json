@@ -154,13 +154,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606009900,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我前面的那个人根本没有机会"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我前面的那個人根本沒有機會"
     }
-  },
-  "original_created_utc": 1606009900
+  ]
 }

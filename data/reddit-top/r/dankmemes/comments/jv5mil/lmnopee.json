@@ -237,13 +237,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605561771,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "LMNOPee"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "LMNOPee"
     }
-  },
-  "original_created_utc": 1605561771
+  ]
 }

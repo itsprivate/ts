@@ -165,12 +165,14 @@
   "is_video": true,
   "the_new_excerpt": "",
   "original_created_utc": 1607540062,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "把冰块给他，否则事情不会好的"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "把冰塊給他，否則事情不會好的"
     }
-  }
+  ]
 }

@@ -146,12 +146,14 @@
   "is_video": false,
   "original_created_utc": 1606769989,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "阿诺德·施瓦辛格比我更酷"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "阿諾德·施瓦辛格比我更酷"
     }
-  }
+  ]
 }

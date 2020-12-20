@@ -154,13 +154,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606364278,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "一。工作。[原创]"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "壹。工作。[原創]"
     }
-  },
-  "original_created_utc": 1606364278
+  ]
 }

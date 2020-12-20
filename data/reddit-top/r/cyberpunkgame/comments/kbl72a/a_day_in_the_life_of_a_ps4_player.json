@@ -172,12 +172,14 @@
   "is_video": true,
   "the_new_excerpt": "",
   "original_created_utc": 1607759064,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "PS4玩家生命中的一天。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "PS4玩家生命中的一天。"
     }
-  }
+  ]
 }

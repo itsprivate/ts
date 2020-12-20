@@ -153,13 +153,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606438522,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "人们不能用吸尘器或使用门铃，因为亚马逊的云服务器停机了"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "人們不能用吸塵器或使用門鈴，因為亞馬遜的雲服務器停機了"
     }
-  },
-  "original_created_utc": 1606438522
+  ]
 }

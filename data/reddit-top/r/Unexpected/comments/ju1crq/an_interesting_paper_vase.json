@@ -162,13 +162,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605357606,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "一个有趣的纸瓶"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "壹個有趣的紙瓶"
     }
-  },
-  "original_created_utc": 1605357606
+  ]
 }

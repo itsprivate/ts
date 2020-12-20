@@ -191,13 +191,15 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "i18nResource": {
-    "zh": {
+  "original_created_at": "Sun Dec 13 15:35:59 +0000 2020",
+  "localize": [
+    {
+      "locale": "zh",
       "full_text": "自2008年以来的资产类别回报.\n\n通过@ycharts https://t.co/bXtSJ3MEah提供的数据"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "full_text": "自2008年以來的資產類別回報.\n\n通過@ycharts https://t.co/bXtSJ3MEah提供的數據"
     }
-  },
-  "original_created_at": "Sun Dec 13 15:35:59 +0000 2020"
+  ]
 }

@@ -152,12 +152,14 @@
   "is_video": false,
   "original_created_utc": 1606493072,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "2009年，乔治·W·布什(George W.Bush)邀请当选总统奥巴马和所有前总统共进午餐"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "2009年，喬治·W·布什(George W.Bush)邀請當選總統奧巴馬和所有前總統共進午餐"
     }
-  }
+  ]
 }

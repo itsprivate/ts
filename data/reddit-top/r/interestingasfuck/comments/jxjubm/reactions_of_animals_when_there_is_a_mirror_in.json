@@ -190,13 +190,15 @@
   },
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605892725,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "自然界中有镜子时动物的反应"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "自然界中有鏡子時動物的反應"
     }
-  },
-  "original_created_utc": 1605892725
+  ]
 }

@@ -158,12 +158,14 @@
   "is_video": false,
   "original_created_utc": 1606728845,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "健康高大的人"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "健康高大的人"
     }
-  }
+  ]
 }

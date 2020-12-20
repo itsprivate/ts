@@ -150,13 +150,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606390809,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我安装了膨胀软件..。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我安裝了膨脹軟件..。"
     }
-  },
-  "original_created_utc": 1606390809
+  ]
 }

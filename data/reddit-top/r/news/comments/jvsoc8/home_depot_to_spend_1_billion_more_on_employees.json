@@ -143,13 +143,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605658075,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "家得宝销售额激增，将在员工薪酬上再支出10亿美元"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "家得寶銷售額激增，將在員工薪酬上再支出10億美元"
     }
-  },
-  "original_created_utc": 1605658075
+  ]
 }

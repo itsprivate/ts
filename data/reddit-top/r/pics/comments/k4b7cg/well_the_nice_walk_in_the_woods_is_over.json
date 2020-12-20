@@ -147,12 +147,14 @@
   "is_video": false,
   "original_created_utc": 1606788592,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "好了，在树林里愉快的散步结束了。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "好了，在樹林裏愉快的散步結束了。"
     }
-  }
+  ]
 }

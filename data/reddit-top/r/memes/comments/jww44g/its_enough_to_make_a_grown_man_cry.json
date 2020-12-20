@@ -154,13 +154,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605786339,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "这足以让一个成年男人哭泣"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "這足以讓壹個成年男人哭泣"
     }
-  },
-  "original_created_utc": 1605786339
+  ]
 }

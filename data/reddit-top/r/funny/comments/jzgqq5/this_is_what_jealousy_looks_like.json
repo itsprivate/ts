@@ -190,13 +190,15 @@
   },
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606156071,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "这就是嫉妒的样子"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "這就是嫉妒的樣子"
     }
-  },
-  "original_created_utc": 1606156071
+  ]
 }

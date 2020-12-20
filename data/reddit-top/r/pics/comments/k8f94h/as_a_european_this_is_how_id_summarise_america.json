@@ -147,12 +147,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607341811,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "作为一个欧洲人，这就是我现在对美国的概括"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "作為壹個歐洲人，這就是我現在對美國的概括"
     }
-  }
+  ]
 }

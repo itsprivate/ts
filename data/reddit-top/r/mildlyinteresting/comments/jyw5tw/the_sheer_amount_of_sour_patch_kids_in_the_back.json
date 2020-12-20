@@ -153,13 +153,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606098074,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "这辆皮卡后面有大量的酸补丁"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "這輛皮卡後面有大量的酸補丁"
     }
-  },
-  "original_created_utc": 1606098074
+  ]
 }

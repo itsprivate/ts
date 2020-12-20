@@ -102,14 +102,16 @@
   "is_video": false,
   "original_created_utc": 1608220689,
   "the_new_excerpt": "Where does the upper bound lie for bitcoin's worth (in terms of current US\ndollars)?\n\nIf bitcoin became the defacto universal currency, it would stand to have the\nsame value as today's current money supply.\n\nThe current amount of money in circulation in the world is $1.7 Trillion.\nDividing by 21…",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "the_new_excerpt": "比特币价值的上限在哪里(就目前的美国而言\n美元)？\n\n如果比特币成为事实上的通用货币，它将拥有\n与今天的货币供应量相同的价值。\n\n目前全球流通的货币为1.7万亿美元。\n除以21…",
       "title": "比特币的理论上限是多少？"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "the_new_excerpt": "比特幣價值的上限在哪裏(就目前的美國而言\n美元)？\n\n如果比特幣成爲事實上的通用貨幣，它將擁有\n與今天的貨幣供應量相同的價值。\n\n目前全球流通的貨幣爲1.7萬億美元。\n除以21…",
       "title": "比特幣的理論上限是多少？"
     }
-  }
+  ]
 }

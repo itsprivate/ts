@@ -376,15 +376,17 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "i18nResource": {
-    "zh": {
+  "original_created_at": "Sun Dec 13 14:58:01 +0000 2020",
+  "localize": [
+    {
+      "locale": "zh",
       "full_text": "我知道我们还没有走出困境，但几乎感觉我们对疫苗的要求还不够高\n\n我还是不敢相信他们这么快就推出了https://t.co/kpcPl6oUjn",
       "quoted_status_full_text": "运送数百万剂第一种冠状病毒疫苗的卡车已经离开辉瑞的场地，这是在全国范围内分发疫苗的第一步。@WOODTV https://t.co/lC0GoFin6S"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "full_text": "我知道我們還沒有走出困境，但幾乎感覺我們對疫苗的要求還不夠高\n\n我還是不敢相信他們這麼快就推出了https://t.co/kpcPl6oUjn",
       "quoted_status_full_text": "運送數百萬劑第一種冠狀病毒疫苗的卡車已經離開輝瑞的場地，這是在全國範圍內分發疫苗的第一步。@WOODTV https://t.co/lC0GoFin6S"
     }
-  },
-  "original_created_at": "Sun Dec 13 14:58:01 +0000 2020"
+  ]
 }

@@ -140,13 +140,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606080365,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "人类帮助其他人类保护犀牛。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "人類幫助其他人類保護犀牛。"
     }
-  },
-  "original_created_utc": 1606080365
+  ]
 }

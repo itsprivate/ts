@@ -148,13 +148,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606066981,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "至少我可以留着面包皮"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "至少我可以留著面包皮"
     }
-  },
-  "original_created_utc": 1606066981
+  ]
 }

@@ -149,12 +149,14 @@
   "is_video": false,
   "original_created_utc": 1606687252,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "这个故事已经过时了，这个年轻人被隔离了14天，和她在一起！"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "這個故事已經過時了，這個年輕人被隔離了14天，和她在壹起！"
     }
-  }
+  ]
 }

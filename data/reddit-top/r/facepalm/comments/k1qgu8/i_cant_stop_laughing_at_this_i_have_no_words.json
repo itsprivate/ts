@@ -134,13 +134,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606481170,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我对此忍不住大笑。我无话可说"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我對此忍不住大笑。我無話可說"
     }
-  },
-  "original_created_utc": 1606481170
+  ]
 }

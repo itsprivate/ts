@@ -148,12 +148,14 @@
   "is_video": false,
   "original_created_utc": 1608296131,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "2015年洛杉矶Manifest Justice创意社区展艺术展"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "2015年洛杉磯Manifest Justice創意社區展藝術展"
     }
-  }
+  ]
 }

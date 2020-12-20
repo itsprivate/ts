@@ -153,13 +153,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606105422,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "希望我的新生儿变成这样哈哈"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "希望我的新生兒變成這樣哈哈"
     }
-  },
-  "original_created_utc": 1606105422
+  ]
 }

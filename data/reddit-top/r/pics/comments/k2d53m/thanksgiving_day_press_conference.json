@@ -158,12 +158,14 @@
   "is_video": false,
   "original_created_utc": 1606523147,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "感恩节新闻发布会"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "感恩節新聞發布會"
     }
-  }
+  ]
 }

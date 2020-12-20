@@ -154,13 +154,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605567848,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "今天是宫本茂的68岁生日！他是“马里奥”、“塞尔达传奇”、“金刚驴子”、“皮克明”和“星狐”的创造者。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "今天是宮本茂的68歲生日！他是“馬裏奧”、“塞爾達傳奇”、“金剛驢子”、“皮克明”和“星狐”的創造者。"
     }
-  },
-  "original_created_utc": 1605567848
+  ]
 }

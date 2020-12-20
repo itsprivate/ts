@@ -154,13 +154,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606459724,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "低调的有点害怕"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "低調的有點害怕"
     }
-  },
-  "original_created_utc": 1606459724
+  ]
 }

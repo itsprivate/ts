@@ -162,13 +162,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605649434,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "令人惊叹的足球技术"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "令人驚嘆的足球技術"
     }
-  },
-  "original_created_utc": 1605649434
+  ]
 }

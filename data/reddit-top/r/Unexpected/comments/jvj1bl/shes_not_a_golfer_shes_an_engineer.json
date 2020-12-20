@@ -162,13 +162,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605608527,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "她不是高尔夫球手。她是一名工程师。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "她不是高爾夫球手。她是壹名工程師。"
     }
-  },
-  "original_created_utc": 1605608527
+  ]
 }

@@ -149,13 +149,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606290840,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "德国人：可悲"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "德國人：可悲"
     }
-  },
-  "original_created_utc": 1606290840
+  ]
 }

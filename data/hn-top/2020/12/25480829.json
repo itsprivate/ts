@@ -37,12 +37,14 @@
     }
   },
   "original_created_at": "2020-12-19T20:21:22.000Z",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "不，SAR看不见建筑物"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "不，SAR看不見建築物"
     }
-  }
+  ]
 }

@@ -148,13 +148,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605298346,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "他是不是故意要这么让人毛骨悚然？"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "他是不是故意要這麽讓人毛骨悚然？"
     }
-  },
-  "original_created_utc": 1605298346
+  ]
 }

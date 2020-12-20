@@ -164,13 +164,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606126794,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "这台挖掘机跳过管道的方式"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "這臺挖掘機跳過管道的方式"
     }
-  },
-  "original_created_utc": 1606126794
+  ]
 }

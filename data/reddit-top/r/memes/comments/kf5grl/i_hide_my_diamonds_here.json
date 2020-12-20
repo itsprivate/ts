@@ -154,12 +154,14 @@
   "is_video": false,
   "original_created_utc": 1608236733,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我把我的钻石藏在这里"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我把我的鑽石藏在這裏"
     }
-  }
+  ]
 }

@@ -164,12 +164,14 @@
   "is_video": false,
   "original_created_utc": 1606833018,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "“汉斯，你这个混蛋！”"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "“漢斯，妳這個混蛋！”"
     }
-  }
+  ]
 }

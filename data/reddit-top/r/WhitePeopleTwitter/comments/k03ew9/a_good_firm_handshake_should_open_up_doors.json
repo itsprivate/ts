@@ -143,13 +143,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606252769,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "一次有力的握手应该会让你敞开心扉。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "壹次有力的握手應該會讓妳敞開心扉。"
     }
-  },
-  "original_created_utc": 1606252769
+  ]
 }

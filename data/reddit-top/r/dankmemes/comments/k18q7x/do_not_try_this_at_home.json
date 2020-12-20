@@ -186,13 +186,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606399490,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "不要在家里尝试这个。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "不要在家裏嘗試這個。"
     }
-  },
-  "original_created_utc": 1606399490
+  ]
 }

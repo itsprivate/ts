@@ -156,12 +156,14 @@
   "is_video": false,
   "original_created_utc": 1607269251,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "从我的厨房看到了这个景色。谢谢宇宙。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "從我的廚房看到了這個景色。謝謝宇宙。"
     }
-  }
+  ]
 }

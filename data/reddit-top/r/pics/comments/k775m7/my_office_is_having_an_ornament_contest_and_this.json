@@ -157,12 +157,14 @@
   "is_video": false,
   "original_created_utc": 1607173583,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我的办公室正在进行装饰品大赛，这是我的深渊翻滚。(它是粘土和卫生纸)"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我的辦公室正在進行裝飾品大賽，這是我的深淵翻滾。(它是粘土和衛生紙)"
     }
-  }
+  ]
 }

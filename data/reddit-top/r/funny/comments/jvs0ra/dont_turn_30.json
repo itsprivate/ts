@@ -143,13 +143,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605651683,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "别过了30岁。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "別過了30歲。"
     }
-  },
-  "original_created_utc": 1605651683
+  ]
 }

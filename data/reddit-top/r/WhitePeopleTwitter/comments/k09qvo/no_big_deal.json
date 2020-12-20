@@ -143,13 +143,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606278260,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "别小题大作"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "別小題大作"
     }
-  },
-  "original_created_utc": 1606278260
+  ]
 }

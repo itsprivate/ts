@@ -102,14 +102,16 @@
   "is_video": false,
   "original_created_utc": 1608173224,
   "the_new_excerpt": "I own some apple but have been struggling with the 2T$ value. I’ve been watching\nthe old Berkshire Hathaway annual meetings and it’s made me wonder “why does\nWarren continue hold so much Apple even though it’s the highest valued company\nin the world?” I get that it’s a great brand with a wide moat…",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "the_new_excerpt": "我有一些苹果，但一直在为2元新台币的价值而苦苦挣扎。我一直在看\n伯克希尔·哈撒韦的老年会让我不禁纳闷“为什么\n沃伦继续持有如此多的苹果，尽管它是估值最高的公司\n在这个世界上？“我知道这是个很棒的品牌，有宽阔的护城河…",
       "title": "为什么沃伦继续持有这么多苹果？"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "the_new_excerpt": "我有一些蘋果，但一直在爲2元新臺幣的價值而苦苦掙扎。我一直在看\n伯克希爾·哈撒韋的老年會讓我不禁納悶“爲什麼\n沃倫繼續持有如此多的蘋果，儘管它是估值最高的公司\n在這個世界上？“我知道這是個很棒的品牌，有寬闊的護城河…",
       "title": "爲什麼沃倫繼續持有這麼多蘋果？"
     }
-  }
+  ]
 }

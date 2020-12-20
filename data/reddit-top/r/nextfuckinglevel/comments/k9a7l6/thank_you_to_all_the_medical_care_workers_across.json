@@ -146,12 +146,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607453314,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "感谢世界各地的医务工作者的辛勤工作和奉献。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "感謝世界各地的醫務工作者的辛勤工作和奉獻。"
     }
-  }
+  ]
 }

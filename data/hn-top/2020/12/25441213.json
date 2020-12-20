@@ -36,12 +36,14 @@
     }
   },
   "original_created_at": "2020-12-16T11:04:04.000Z",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "bspwm：平铺窗口管理器，将窗口表示为二叉树的叶子"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "bspwm：平鋪窗口管理器，將窗口表示爲二叉樹的葉子"
     }
-  }
+  ]
 }

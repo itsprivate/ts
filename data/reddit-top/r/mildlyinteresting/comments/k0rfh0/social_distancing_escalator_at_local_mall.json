@@ -158,13 +158,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606357149,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "当地商场的社交距离自动扶梯。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "當地商場的社交距離自動扶梯。"
     }
-  },
-  "original_created_utc": 1606357149
+  ]
 }

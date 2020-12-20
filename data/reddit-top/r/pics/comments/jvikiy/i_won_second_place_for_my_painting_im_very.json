@@ -156,13 +156,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605599966,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我的画得了第二名！我很兴奋，希望你们不介意我分享。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我的畫得了第二名！我很興奮，希望妳們不介意我分享。"
     }
-  },
-  "original_created_utc": 1605599966
+  ]
 }

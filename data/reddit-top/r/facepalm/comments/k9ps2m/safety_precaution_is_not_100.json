@@ -140,12 +140,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607510979,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "安全预防措施不是100%"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "安全預防措施不是100%"
     }
-  }
+  ]
 }

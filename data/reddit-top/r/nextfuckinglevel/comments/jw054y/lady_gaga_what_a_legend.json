@@ -144,13 +144,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605670748,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "嘎嘎小姐，真是个传奇。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "嘎嘎小姐，真是個傳奇。"
     }
-  },
-  "original_created_utc": 1605670748
+  ]
 }

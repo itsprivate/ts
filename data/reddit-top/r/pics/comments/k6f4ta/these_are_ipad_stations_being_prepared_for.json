@@ -147,12 +147,14 @@
   "is_video": false,
   "original_created_utc": 1607061618,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "这些iPad工作站正在为医院的虚拟临终探访做准备。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "這些iPad工作站正在為醫院的虛擬臨終探訪做準備。"
     }
-  }
+  ]
 }

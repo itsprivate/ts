@@ -162,13 +162,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605644355,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "最好的过渡"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "最好的過渡"
     }
-  },
-  "original_created_utc": 1605644355
+  ]
 }

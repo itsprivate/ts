@@ -156,12 +156,14 @@
   "is_video": false,
   "original_created_utc": 1607287837,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "姜饼家庭破坏者的照片。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "姜餅家庭破壞者的照片。"
     }
-  }
+  ]
 }

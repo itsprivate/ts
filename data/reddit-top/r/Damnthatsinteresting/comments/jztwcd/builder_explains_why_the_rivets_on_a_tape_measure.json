@@ -165,13 +165,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606220832,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "Builder解释为什么卷尺上的铆钉如此重要"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "Builder解釋為什麽卷尺上的鉚釘如此重要"
     }
-  },
-  "original_created_utc": 1606220832
+  ]
 }

@@ -154,12 +154,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607468106,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "你的鼻子有多大？"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "妳的鼻子有多大？"
     }
-  }
+  ]
 }

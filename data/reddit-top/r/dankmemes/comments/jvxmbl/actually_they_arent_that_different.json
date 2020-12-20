@@ -159,13 +159,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605706032,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "事实上，它们并没有那么大的不同"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "事實上，它們並沒有那麽大的不同"
     }
-  },
-  "original_created_utc": 1605706032
+  ]
 }

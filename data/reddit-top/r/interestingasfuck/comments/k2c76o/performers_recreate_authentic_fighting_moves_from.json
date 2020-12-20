@@ -216,12 +216,14 @@
   "is_video": false,
   "original_created_utc": 1606519850,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "表演者再现了中世纪真实的格斗动作。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "表演者再現了中世紀真實的格鬥動作。"
     }
-  }
+  ]
 }

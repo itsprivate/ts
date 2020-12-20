@@ -144,13 +144,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605590199,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "围棋科学"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "圍棋科學"
     }
-  },
-  "original_created_utc": 1605590199
+  ]
 }

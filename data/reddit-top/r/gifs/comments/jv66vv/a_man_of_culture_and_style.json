@@ -213,13 +213,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605582048,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "有文化有格调的人"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "有文化有格調的人"
     }
-  },
-  "original_created_utc": 1605582048
+  ]
 }

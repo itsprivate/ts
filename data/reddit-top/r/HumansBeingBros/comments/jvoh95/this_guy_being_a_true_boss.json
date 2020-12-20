@@ -143,13 +143,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605636628,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "这家伙是个真正的老板"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "這家夥是個真正的老板"
     }
-  },
-  "original_created_utc": 1605636628
+  ]
 }

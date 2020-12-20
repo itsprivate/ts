@@ -155,12 +155,14 @@
   "is_video": false,
   "original_created_utc": 1606512457,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "她是个专业的胡说八道的人。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "她是個專業的胡說八道的人。"
     }
-  }
+  ]
 }

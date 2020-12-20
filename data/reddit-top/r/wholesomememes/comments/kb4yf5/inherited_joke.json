@@ -144,12 +144,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607700846,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "继承的笑话"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "繼承的笑話"
     }
-  }
+  ]
 }

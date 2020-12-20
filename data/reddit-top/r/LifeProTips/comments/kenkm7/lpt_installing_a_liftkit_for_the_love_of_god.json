@@ -108,12 +108,14 @@
   "is_video": false,
   "original_created_utc": 1608170086,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "LPT：安装升降机套件？看在上帝的份上，调一下前灯吧。你的起重卡车不再有低梁，现在要么是高梁，要么是高梁，你把每个人都弄瞎了。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "LPT：安裝升降機套件？看在上帝的份上，調一下前燈吧。你的起重卡車不再有低梁，現在要麼是高梁，要麼是高梁，你把每個人都弄瞎了。"
     }
-  }
+  ]
 }

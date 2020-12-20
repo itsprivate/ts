@@ -158,13 +158,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606252769,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "在我工作的地方，我们有一袋袋纯奥利奥奶油。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "在我工作的地方，我們有壹袋袋純奧利奧奶油。"
     }
-  },
-  "original_created_utc": 1606252769
+  ]
 }

@@ -37,12 +37,14 @@
     }
   },
   "original_created_at": "2020-12-17T18:45:04.000Z",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "苹果已停止为MacOS更新提供独立安装程序"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "蘋果已停止爲MacOS更新提供獨立安裝程序"
     }
-  }
+  ]
 }

@@ -199,13 +199,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606058155,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我是个好人"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我是個好人"
     }
-  },
-  "original_created_utc": 1606058155
+  ]
 }

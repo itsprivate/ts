@@ -157,12 +157,14 @@
   "is_video": false,
   "original_created_utc": 1606682099,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "原力与他们同在"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "原力與他們同在"
     }
-  }
+  ]
 }

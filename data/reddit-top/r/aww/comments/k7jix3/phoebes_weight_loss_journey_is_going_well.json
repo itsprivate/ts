@@ -155,12 +155,14 @@
   "is_video": false,
   "original_created_utc": 1607215655,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "菲比的减肥之旅进展顺利"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "菲比的減肥之旅進展順利"
     }
-  }
+  ]
 }

@@ -185,13 +185,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605781796,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "腾讯通3k送货日门廊海盗"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "騰訊通3k送貨日門廊海盜"
     }
-  },
-  "original_created_utc": 1605781796
+  ]
 }

@@ -143,13 +143,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606490616,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "条纹杜鹃的鸟与松果非常相似。这就是它们如何保护自己不受捕食者的伤害。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "條紋杜鵑的鳥與松果非常相似。這就是它們如何保護自己不受捕食者的傷害。"
     }
-  },
-  "original_created_utc": 1606490616
+  ]
 }

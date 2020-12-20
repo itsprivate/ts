@@ -143,13 +143,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605879772,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "古董袖珍购物单"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "古董袖珍購物單"
     }
-  },
-  "original_created_utc": 1605879772
+  ]
 }

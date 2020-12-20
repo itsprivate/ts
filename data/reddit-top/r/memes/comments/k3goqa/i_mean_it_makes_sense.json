@@ -140,12 +140,14 @@
   "is_video": false,
   "original_created_utc": 1606681931,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我是说这是有道理的"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我是說這是有道理的"
     }
-  }
+  ]
 }

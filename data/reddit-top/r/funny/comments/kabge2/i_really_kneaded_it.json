@@ -154,12 +154,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607587396,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我真的捏过了"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我真的捏過了"
     }
-  }
+  ]
 }

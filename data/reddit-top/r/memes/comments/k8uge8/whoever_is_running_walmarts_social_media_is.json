@@ -149,12 +149,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607391008,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "不管是谁在运营沃尔玛社交媒体，他都是直截了当的野蛮人。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "不管是誰在運營沃爾瑪社交媒體，他都是直截了當的野蠻人。"
     }
-  }
+  ]
 }

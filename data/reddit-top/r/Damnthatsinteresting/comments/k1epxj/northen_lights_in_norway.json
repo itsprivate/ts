@@ -175,13 +175,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606438522,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "挪威的“北国之光”"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "挪威的“北國之光”"
     }
-  },
-  "original_created_utc": 1606438522
+  ]
 }

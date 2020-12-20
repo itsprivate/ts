@@ -110,13 +110,15 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "i18nResource": {
-    "zh": {
+  "original_created_at": "Thu Dec 03 18:03:13 +0000 2020",
+  "localize": [
+    {
+      "locale": "zh",
       "full_text": "我有点嫉妒大学生\n\n疫苗接种后的派对将会是史诗般的"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "full_text": "我有點嫉妒大學生\n\n疫苗接種後的派對將會是史詩般的"
     }
-  },
-  "original_created_at": "Thu Dec 03 18:03:13 +0000 2020"
+  ]
 }

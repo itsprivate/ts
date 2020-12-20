@@ -37,12 +37,14 @@
     }
   },
   "original_created_at": "2020-12-18T19:43:16.000Z",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "js：JavaScript、C++、C#、Rust、Python几何代数生成器"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "js：JavaScript、C++、C#、Rust、Python幾何代數生成器"
     }
-  }
+  ]
 }

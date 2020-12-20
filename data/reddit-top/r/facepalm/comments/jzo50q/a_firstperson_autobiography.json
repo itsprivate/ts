@@ -144,13 +144,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606213290,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "第一人称自传？！"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "第壹人稱自傳？！"
     }
-  },
-  "original_created_utc": 1606213290
+  ]
 }

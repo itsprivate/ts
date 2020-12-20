@@ -149,12 +149,14 @@
   "is_video": false,
   "original_created_utc": 1606569511,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "美洲原住民重新推动数十年来在黑山开垦数百万英亩土地的努力"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "美洲原住民重新推動數十年來在黑山開墾數百萬英畝土地的努力"
     }
-  }
+  ]
 }

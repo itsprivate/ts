@@ -144,12 +144,14 @@
   "is_video": false,
   "original_created_utc": 1607014553,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "马医生"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "馬醫生"
     }
-  }
+  ]
 }

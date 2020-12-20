@@ -139,12 +139,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607772569,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "事实核查."
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "事實覈查."
     }
-  }
+  ]
 }

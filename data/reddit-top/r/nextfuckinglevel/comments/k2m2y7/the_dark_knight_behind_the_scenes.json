@@ -175,12 +175,14 @@
   "is_video": true,
   "original_created_utc": 1606562535,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "黑暗骑士，在幕后"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "黑暗騎士，在幕後"
     }
-  }
+  ]
 }

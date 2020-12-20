@@ -147,12 +147,14 @@
   "is_video": false,
   "original_created_utc": 1607090550,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "梅拉尼娅-多面人的女人"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "梅拉尼婭-多面人的女人"
     }
-  }
+  ]
 }

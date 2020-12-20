@@ -154,12 +154,14 @@
   "is_video": false,
   "original_created_utc": 1607229435,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "这个节省空间的座位真是太棒了！在另一个层面上确实如此。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "這個節省空間的座位真是太棒了！在另壹個層面上確實如此。"
     }
-  }
+  ]
 }

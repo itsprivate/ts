@@ -108,13 +108,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605510613,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "胶状蠕虫比真正的蠕虫有更多的骨头。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "膠狀蠕蟲比真正的蠕蟲有更多的骨頭。"
     }
-  },
-  "original_created_utc": 1605510613
+  ]
 }

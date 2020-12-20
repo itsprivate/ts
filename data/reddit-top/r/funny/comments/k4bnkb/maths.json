@@ -139,12 +139,14 @@
   "is_video": false,
   "original_created_utc": 1606790127,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "数学"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "數學"
     }
-  }
+  ]
 }

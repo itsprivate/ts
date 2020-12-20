@@ -37,12 +37,14 @@
     }
   },
   "original_created_at": "2020-12-19T21:39:37.000Z",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "设置您自己的Nextcloud实例以脱离Google"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "設置您自己的Nextcloud實例以脫離Google"
     }
-  }
+  ]
 }

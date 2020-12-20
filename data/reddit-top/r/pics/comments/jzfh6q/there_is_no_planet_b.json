@@ -155,13 +155,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606171329,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "没有(ET)B计划。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "沒有(ET)B計劃。"
     }
-  },
-  "original_created_utc": 1606171329
+  ]
 }

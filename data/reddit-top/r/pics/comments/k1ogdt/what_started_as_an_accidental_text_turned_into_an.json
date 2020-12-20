@@ -157,13 +157,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606448914,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "一开始只是一篇偶然的文字，后来变成了一年一度的传统！"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "壹開始只是壹篇偶然的文字，後來變成了壹年壹度的傳統！"
     }
-  },
-  "original_created_utc": 1606448914
+  ]
 }

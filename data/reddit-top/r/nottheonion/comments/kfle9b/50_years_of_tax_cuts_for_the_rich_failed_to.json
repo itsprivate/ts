@@ -155,12 +155,14 @@
   "is_video": false,
   "original_created_utc": 1608299226,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "经济学研究称，50年来为富人减税未能惠及民众"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "經濟學研究稱，50年來爲富人減稅未能惠及民衆"
     }
-  }
+  ]
 }

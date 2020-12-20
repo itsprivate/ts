@@ -154,12 +154,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607920167,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "密西西比河流域到底有多大？"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "密西西比河流域到底有多大？"
     }
-  }
+  ]
 }

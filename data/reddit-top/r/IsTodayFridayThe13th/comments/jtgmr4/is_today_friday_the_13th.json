@@ -107,15 +107,17 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "Yes.",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605275068,
+  "localize": [
+    {
+      "locale": "zh",
       "the_new_excerpt": "是。",
       "title": "今天是13号星期五吗？"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "the_new_excerpt": "是。",
       "title": "今天是13號星期五嗎？"
     }
-  },
-  "original_created_utc": 1605275068
+  ]
 }

@@ -165,12 +165,14 @@
   "is_video": true,
   "original_created_utc": 1606982270,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "太令人印象深刻了！"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "太令人印象深刻了！"
     }
-  }
+  ]
 }

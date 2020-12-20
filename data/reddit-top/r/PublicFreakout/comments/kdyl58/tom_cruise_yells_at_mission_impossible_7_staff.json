@@ -182,12 +182,14 @@
   "is_video": true,
   "original_created_utc": 1608079579,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "汤姆·克鲁斯因违反COVID安全协议向《碟中谍7》工作人员大喊大叫"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "湯姆·克魯斯因違反COVID安全協議向《碟中諜7》工作人員大喊大叫"
     }
-  }
+  ]
 }

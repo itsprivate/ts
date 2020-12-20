@@ -155,12 +155,14 @@
   "is_video": false,
   "original_created_utc": 1608066603,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "这就是80天后麻瓶的情况。大麻塑料无毒，可生物降解。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "這就是80天后麻瓶的情況。大麻塑料無毒，可生物降解。"
     }
-  }
+  ]
 }

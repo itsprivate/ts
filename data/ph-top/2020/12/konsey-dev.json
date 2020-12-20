@@ -84,14 +84,16 @@
     ]
   },
   "original_createdAt": "2020-12-17T08:01:00Z",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "description": "Konsey.dev是一个应用程序，允许您在一个地方管理不同平台的所有广告工作。目前，您可以管理您的Facebook和谷歌广告帐户+TikTok广告很快就会到来！",
       "tagline": "在一个位置创建和管理您的所有广告"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "description": "Konsey.dev是一個應用程序，允許您在一個地方管理不同平臺的所有廣告工作。目前，您可以管理您的Facebook和谷歌廣告帳戶+TikTok廣告很快就會到來！",
       "tagline": "在一個位置創建和管理您的所有廣告"
     }
-  }
+  ]
 }

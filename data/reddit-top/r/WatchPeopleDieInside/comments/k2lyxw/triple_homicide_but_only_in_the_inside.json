@@ -161,12 +161,14 @@
   "is_video": true,
   "original_created_utc": 1606561924,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "三重凶杀案(但仅限于内部^^)"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "三重兇殺案(但僅限於內部^^)"
     }
-  }
+  ]
 }

@@ -144,12 +144,14 @@
   "is_video": false,
   "original_created_utc": 1606695657,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我在FB上看到了这个，有人在找承包商。天啊!"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我在FB上看到了這個，有人在找承包商。天啊!"
     }
-  }
+  ]
 }

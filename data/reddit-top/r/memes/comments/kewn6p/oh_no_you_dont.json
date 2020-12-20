@@ -172,12 +172,14 @@
   "is_video": true,
   "original_created_utc": 1608208471,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "哦，不，你没有"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "哦，不，你沒有"
     }
-  }
+  ]
 }

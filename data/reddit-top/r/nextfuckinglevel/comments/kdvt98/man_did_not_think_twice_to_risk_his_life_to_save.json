@@ -171,12 +171,14 @@
   "is_video": true,
   "original_created_utc": 1608070372,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "为了救一个小女孩，男人毫不犹豫地冒着生命危险"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "爲了救一個小女孩，男人毫不猶豫地冒着生命危險"
     }
-  }
+  ]
 }

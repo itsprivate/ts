@@ -171,12 +171,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607596052,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "一个悲伤的故事。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "一個悲傷的故事。"
     }
-  }
+  ]
 }

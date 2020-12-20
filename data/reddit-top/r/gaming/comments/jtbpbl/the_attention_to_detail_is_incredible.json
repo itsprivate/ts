@@ -153,13 +153,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605246621,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "对细节的关注令人难以置信。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "對細節的關註令人難以置信。"
     }
-  },
-  "original_created_utc": 1605246621
+  ]
 }

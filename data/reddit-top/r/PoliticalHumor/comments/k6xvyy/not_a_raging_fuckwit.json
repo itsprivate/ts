@@ -155,12 +155,14 @@
   "is_video": false,
   "original_created_utc": 1607130252,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "不是一个疯狂的笨蛋"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "不是壹個瘋狂的笨蛋"
     }
-  }
+  ]
 }

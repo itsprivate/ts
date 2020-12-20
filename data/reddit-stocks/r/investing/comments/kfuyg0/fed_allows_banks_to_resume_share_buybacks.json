@@ -102,14 +102,16 @@
   "is_video": false,
   "original_created_utc": 1608329679,
   "the_new_excerpt": "> The Fed announced on Friday that it will allow the nation’s largest banks to\n> resume share buybacks in the first quarter of 2021 subject to certain rules.\n> \n> The partial relaxation of its buyback ban came after the Fed’s second round of\n> stress tests in 2020.\n> \n> JPMorgan Chase announced in…",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "the_new_excerpt": ">美联储周五宣布，将允许美国最大的银行\n>在符合某些规则的情况下，在2021年第一季度恢复股票回购。\n>\n>部分放松回购禁令是在美联储第二轮\n>2020年的压力测试。\n>\n>摩根大通在…宣布",
       "title": "美联储允许银行恢复股票回购"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "the_new_excerpt": ">美聯儲週五宣佈，將允許美國最大的銀行\n>在符合某些規則的情況下，在2021年第一季度恢復股票回購。\n>\n>部分放鬆回購禁令是在美聯儲第二輪\n>2020年的壓力測試。\n>\n>摩根大通在…宣佈",
       "title": "美聯儲允許銀行恢復股票回購"
     }
-  }
+  ]
 }

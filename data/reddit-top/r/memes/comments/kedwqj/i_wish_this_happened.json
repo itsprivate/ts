@@ -144,12 +144,14 @@
   "is_video": false,
   "original_created_utc": 1608140790,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我希望这会发生"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我希望這會發生"
     }
-  }
+  ]
 }

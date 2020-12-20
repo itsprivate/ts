@@ -169,13 +169,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606283637,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "甜蜜但悲伤。里普·凯尔"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "甜蜜但悲傷。裏普·凱爾"
     }
-  },
-  "original_created_utc": 1606283637
+  ]
 }

@@ -172,12 +172,14 @@
   "is_video": false,
   "original_created_utc": 1607535305,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "这真的很令人沮丧"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "這真的很令人沮喪"
     }
-  }
+  ]
 }

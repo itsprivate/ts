@@ -169,13 +169,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606238328,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "新腿"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "新腿"
     }
-  },
-  "original_created_utc": 1606238328
+  ]
 }

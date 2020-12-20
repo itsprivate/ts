@@ -138,13 +138,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606481170,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "服务器太棒了"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "服務器太棒了"
     }
-  },
-  "original_created_utc": 1606481170
+  ]
 }

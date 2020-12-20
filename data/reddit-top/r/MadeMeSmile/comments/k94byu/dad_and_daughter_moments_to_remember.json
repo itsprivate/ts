@@ -192,12 +192,14 @@
   "is_video": true,
   "the_new_excerpt": "",
   "original_created_utc": 1607434825,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "父亲和女儿值得纪念的时刻"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "父親和女兒值得紀念的時刻"
     }
-  }
+  ]
 }

@@ -194,12 +194,14 @@
   "is_video": false,
   "original_created_utc": 1606676267,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "它开始于一个外星人设备做它做的事情"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "它開始於壹個外星人設備做它做的事情"
     }
-  }
+  ]
 }

@@ -151,12 +151,14 @@
   "is_video": false,
   "original_created_utc": 1608295944,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "雪景动物园"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "雪景動物園"
     }
-  }
+  ]
 }

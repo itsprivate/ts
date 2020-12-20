@@ -151,12 +151,14 @@
   "is_video": false,
   "original_created_utc": 1606534619,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "看起来是一笔公平交易"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "看起來是壹筆公平交易"
     }
-  }
+  ]
 }

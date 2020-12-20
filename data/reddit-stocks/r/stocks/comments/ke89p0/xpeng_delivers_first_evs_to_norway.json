@@ -103,14 +103,16 @@
   "is_video": false,
   "original_created_utc": 1608121528,
   "the_new_excerpt": "Not sure if this has been posted already. But this sounds like good news for\nChina‘s EV cars.\n\nXpeng delivers first EV cars to Norway!\n[https://www.bloomberg.com/news/articles/2020-12-16/xpeng-delivers-first-evs-to-norway-in-slow-going-europe-entry]",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "the_new_excerpt": "不确定这是不是已经发布了。但这听起来像是个好消息\n中国的电动汽车。\n\n新鹏向挪威交付首批电动汽车！\n[https://www.bloomberg.com/news/articles/2020-12-16/xpeng-delivers-first-evs-to-norway-in-slow-going-europe-entry]",
       "title": "新鹏向挪威交付首批电动汽车！"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "the_new_excerpt": "不確定這是不是已經發布了。但這聽起來像是個好消息\n中國的電動汽車。\n\n新鵬向挪威交付首批電動汽車！\n[https://www.bloomberg.com/news/articles/2020-12-16/xpeng-delivers-first-evs-to-norway-in-slow-going-europe-entry]",
       "title": "新鵬向挪威交付首批電動汽車！"
     }
-  }
+  ]
 }

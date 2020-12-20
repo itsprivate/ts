@@ -173,13 +173,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606105422,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "果味浓郁"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "果味濃郁"
     }
-  },
-  "original_created_utc": 1606105422
+  ]
 }

@@ -154,12 +154,14 @@
   "is_video": false,
   "original_created_utc": 1606938786,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "你还在吗"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "妳還在嗎"
     }
-  }
+  ]
 }

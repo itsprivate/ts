@@ -166,13 +166,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606179517,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "那是一只威严的野兽"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "那是壹只威嚴的野獸"
     }
-  },
-  "original_created_utc": 1606179517
+  ]
 }

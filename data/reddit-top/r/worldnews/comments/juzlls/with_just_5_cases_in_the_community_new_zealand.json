@@ -153,13 +153,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605561772,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "新西兰只有5例病例，因此在公共交通工具上强制使用口罩。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "新西蘭只有5例病例，因此在公共交通工具上強制使用口罩。"
     }
-  },
-  "original_created_utc": 1605561772
+  ]
 }

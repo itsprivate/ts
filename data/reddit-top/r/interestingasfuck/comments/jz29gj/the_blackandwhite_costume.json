@@ -143,13 +143,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606105422,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "黑白服装"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "黑白服裝"
     }
-  },
-  "original_created_utc": 1606105422
+  ]
 }

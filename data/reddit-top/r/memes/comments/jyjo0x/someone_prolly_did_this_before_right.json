@@ -144,13 +144,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606027933,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "以前很可能有人这么做过，对吧？"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "以前很可能有人這麽做過，對吧？"
     }
-  },
-  "original_created_utc": 1606027933
+  ]
 }

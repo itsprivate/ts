@@ -161,12 +161,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607807796,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "内置的自动剃须刀不是很受欢迎。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "內置的自動剃鬚刀不是很受歡迎。"
     }
-  }
+  ]
 }

@@ -191,13 +191,15 @@
   },
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606004001,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "想象一下，在早上开车去上班之前看到了这一幕。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "想象壹下，在早上開車去上班之前看到了這壹幕。"
     }
-  },
-  "original_created_utc": 1606004001
+  ]
 }

@@ -193,13 +193,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606340820,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "它总是这样……"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "它總是這樣……"
     }
-  },
-  "original_created_utc": 1606340820
+  ]
 }

@@ -144,12 +144,14 @@
   "is_video": false,
   "original_created_utc": 1606968665,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我自豪地参加了07年的同性恋战争"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我自豪地參加了07年的同性戀戰爭"
     }
-  }
+  ]
 }

@@ -145,12 +145,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607424563,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "**穷人的哭声**"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "**窮人的哭聲**"
     }
-  }
+  ]
 }

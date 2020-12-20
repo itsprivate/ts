@@ -188,13 +188,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605750488,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "在这个游戏中我永远不能正常完成一个关卡：/"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "在這個遊戲中我永遠不能正常完成壹個關卡：/"
     }
-  },
-  "original_created_utc": 1605750488
+  ]
 }

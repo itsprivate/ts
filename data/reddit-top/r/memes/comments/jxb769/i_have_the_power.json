@@ -168,13 +168,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605856750,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我有能力"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我有能力"
     }
-  },
-  "original_created_utc": 1605856750
+  ]
 }

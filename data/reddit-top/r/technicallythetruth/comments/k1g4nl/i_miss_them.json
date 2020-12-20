@@ -148,13 +148,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606484826,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我想念他们..。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我想念他們..。"
     }
-  },
-  "original_created_utc": 1606484826
+  ]
 }

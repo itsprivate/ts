@@ -155,12 +155,14 @@
   "is_video": false,
   "original_created_utc": 1607105224,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "众议院刚刚投票决定将威德合法化"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "眾議院剛剛投票決定將威德合法化"
     }
-  }
+  ]
 }

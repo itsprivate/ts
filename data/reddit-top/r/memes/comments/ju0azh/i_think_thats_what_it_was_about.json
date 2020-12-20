@@ -143,13 +143,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605351636,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我想这就是它的意义所在。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我想這就是它的意義所在。"
     }
-  },
-  "original_created_utc": 1605351636
+  ]
 }

@@ -91,13 +91,15 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "i18nResource": {
-    "zh": {
+  "original_created_at": "Thu Dec 10 15:17:27 +0000 2020",
+  "localize": [
+    {
+      "locale": "zh",
       "full_text": "真不敢相信这些公司在私募市场上被低估了。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "full_text": "真不敢相信這些公司在私募市場上被低估了。"
     }
-  },
-  "original_created_at": "Thu Dec 10 15:17:27 +0000 2020"
+  ]
 }

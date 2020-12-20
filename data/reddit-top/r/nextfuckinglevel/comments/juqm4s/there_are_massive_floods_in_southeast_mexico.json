@@ -168,13 +168,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605482213,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "墨西哥东南部现在发生了大规模的洪水。这些人在船上发现了一个又冷又害怕的好男孩，他紧紧地依附在墙上。英雄们。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "墨西哥東南部現在發生了大規模的洪水。這些人在船上發現了壹個又冷又害怕的好男孩，他緊緊地依附在墻上。英雄們。"
     }
-  },
-  "original_created_utc": 1605482213
+  ]
 }

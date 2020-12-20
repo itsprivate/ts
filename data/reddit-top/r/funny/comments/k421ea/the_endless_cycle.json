@@ -155,12 +155,14 @@
   "is_video": false,
   "original_created_utc": 1606761465,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "无尽的循环"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "無盡的循環"
     }
-  }
+  ]
 }

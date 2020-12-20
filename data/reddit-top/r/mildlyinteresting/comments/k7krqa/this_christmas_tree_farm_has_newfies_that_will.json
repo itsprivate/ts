@@ -149,12 +149,14 @@
   "is_video": false,
   "original_created_utc": 1607220425,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "这个圣诞树农场有纽菲尔斯，它会帮你把圣诞树运到你的车里。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "這個聖誕樹農場有紐菲爾斯，它會幫妳把聖誕樹運到妳的車裏。"
     }
-  }
+  ]
 }

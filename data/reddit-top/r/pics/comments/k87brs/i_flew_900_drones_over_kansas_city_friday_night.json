@@ -157,12 +157,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607306818,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "周五晚上我驾驶900架无人机飞过堪萨斯城，也许你亲眼看到或在新闻上看到了"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "周五晚上我駕駛900架無人機飛過堪薩斯城，也許妳親眼看到或在新聞上看到了"
     }
-  }
+  ]
 }

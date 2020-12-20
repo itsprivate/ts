@@ -139,13 +139,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605967351,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "这一定是迄今为止最疯狂最疯狂的阴谋论"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "這壹定是迄今為止最瘋狂最瘋狂的陰謀論"
     }
-  },
-  "original_created_utc": 1605967351
+  ]
 }

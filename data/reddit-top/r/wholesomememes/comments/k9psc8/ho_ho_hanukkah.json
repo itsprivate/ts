@@ -144,12 +144,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607511019,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "呵呵，光明节！"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "呵呵，光明節！"
     }
-  }
+  ]
 }

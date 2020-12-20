@@ -154,12 +154,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607360245,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "Early Covid Starter Pack(早期Covid启动包)"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "Early Covid Starter Pack(早期Covid啟動包)"
     }
-  }
+  ]
 }

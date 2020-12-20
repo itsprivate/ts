@@ -139,12 +139,14 @@
   "is_video": false,
   "original_created_utc": 1606574416,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "他们说，她最多只能说不"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "他們說，她最多只能說不"
     }
-  }
+  ]
 }

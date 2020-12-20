@@ -155,12 +155,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607941876,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "科学太棒了！"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "科學太棒了！"
     }
-  }
+  ]
 }

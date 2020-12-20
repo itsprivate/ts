@@ -138,13 +138,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606489524,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我没想到会发生这种事"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我沒想到會發生這種事"
     }
-  },
-  "original_created_utc": 1606489524
+  ]
 }

@@ -176,12 +176,14 @@
   "is_video": true,
   "original_created_utc": 1606655618,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "和他们一起躺在你的狗的床上"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "和他們壹起躺在妳的狗的床上"
     }
-  }
+  ]
 }

@@ -202,13 +202,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606321976,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "圣诞节我只想要你！"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "聖誕節我只想要妳！"
     }
-  },
-  "original_created_utc": 1606321976
+  ]
 }

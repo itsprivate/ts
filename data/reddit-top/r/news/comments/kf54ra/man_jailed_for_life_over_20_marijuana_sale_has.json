@@ -149,12 +149,14 @@
   "is_video": false,
   "original_created_utc": 1608235736,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "一名男子因大麻销售超过20美元被判终身监禁，已被释放"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "一名男子因大麻銷售超過20美元被判終身監禁，已被釋放"
     }
-  }
+  ]
 }

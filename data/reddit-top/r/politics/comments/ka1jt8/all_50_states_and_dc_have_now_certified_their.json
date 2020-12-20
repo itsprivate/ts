@@ -154,12 +154,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607550687,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "所有50个州和华盛顿现在都已经证明了他们的总统选举结果。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "所有50個州和華盛頓現在都已經證明了他們的總統選舉結果。"
     }
-  }
+  ]
 }

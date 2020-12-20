@@ -153,13 +153,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606004001,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "绝对MADLAD拒绝使用字母F！"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "絕對MADLAD拒絕使用字母F！"
     }
-  },
-  "original_created_utc": 1606004001
+  ]
 }

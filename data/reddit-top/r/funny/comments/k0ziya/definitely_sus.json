@@ -138,13 +138,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606404660,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "绝对是苏斯"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "絕對是蘇斯"
     }
-  },
-  "original_created_utc": 1606404660
+  ]
 }

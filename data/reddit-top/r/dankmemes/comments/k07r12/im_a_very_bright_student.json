@@ -194,13 +194,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606264412,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我是一个非常聪明的学生。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我是壹個非常聰明的學生。"
     }
-  },
-  "original_created_utc": 1606264412
+  ]
 }

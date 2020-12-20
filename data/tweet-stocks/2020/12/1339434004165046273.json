@@ -181,12 +181,14 @@
   "possibly_sensitive": false,
   "lang": "en",
   "original_created_at": "Thu Dec 17 04:55:26 +0000 2020",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "full_text": "从极度恐惧(3月)到极度贪婪(今日)：股票卖权/看涨比率从未像现在这样低过…https://t.co/AGxg6X9wfg"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "full_text": "從極度恐懼(3月)到極度貪婪(今日)：股票賣權/看漲比率從未像現在這樣低過…https://t.co/AGxg6X9wfg"
     }
-  }
+  ]
 }

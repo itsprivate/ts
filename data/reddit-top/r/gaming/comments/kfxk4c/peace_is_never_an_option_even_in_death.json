@@ -146,12 +146,14 @@
   "is_video": false,
   "original_created_utc": 1608338258,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "和平从来都不是一种选择，即使在死亡中也是如此。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "和平從來都不是一種選擇，即使在死亡中也是如此。"
     }
-  }
+  ]
 }

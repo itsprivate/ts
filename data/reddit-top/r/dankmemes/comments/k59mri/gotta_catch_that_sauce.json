@@ -200,12 +200,14 @@
   "is_video": false,
   "original_created_utc": 1606917317,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "一定要抓住那个酱汁"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "壹定要抓住那個醬汁"
     }
-  }
+  ]
 }

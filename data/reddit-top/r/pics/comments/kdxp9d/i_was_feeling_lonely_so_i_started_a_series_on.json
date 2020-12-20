@@ -158,12 +158,14 @@
   "is_video": false,
   "original_created_utc": 1608076527,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我感到孤独，所以我在我的小镇照片#2中开始了一系列关于孤独的文章。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我感到孤獨，所以我在我的小鎮照片#2中開始了一系列關於孤獨的文章。"
     }
-  }
+  ]
 }

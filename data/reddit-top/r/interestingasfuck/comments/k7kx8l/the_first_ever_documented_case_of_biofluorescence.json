@@ -155,12 +155,14 @@
   "is_video": false,
   "original_created_utc": 1607221023,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "今晚在托莱多动物园捕获了有史以来第一例有记录的塔斯马尼亚魔鬼生物荧光病例。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "今晚在托萊多動物園捕獲了有史以來第壹例有記錄的塔斯馬尼亞魔鬼生物熒光病例。"
     }
-  }
+  ]
 }

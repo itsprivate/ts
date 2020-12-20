@@ -156,12 +156,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607729997,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "美国最高法院驳回德克萨斯州诉讼"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "美國最高法院駁回德克薩斯州訴訟"
     }
-  }
+  ]
 }

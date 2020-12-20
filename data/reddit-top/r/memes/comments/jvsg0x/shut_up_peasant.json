@@ -149,13 +149,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605644355,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "闭嘴农民"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "閉嘴農民"
     }
-  },
-  "original_created_utc": 1605644355
+  ]
 }

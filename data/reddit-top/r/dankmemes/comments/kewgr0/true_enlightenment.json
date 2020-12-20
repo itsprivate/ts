@@ -159,12 +159,14 @@
   "is_video": false,
   "original_created_utc": 1608207700,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "真正的启蒙"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "真正的啓蒙"
     }
-  }
+  ]
 }

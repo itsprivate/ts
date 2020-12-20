@@ -169,12 +169,14 @@
   "is_video": false,
   "original_created_utc": 1607103522,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "为什么他们甚至有这么多车道呢？"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "為什麽他們甚至有這麽多車道呢？"
     }
-  }
+  ]
 }

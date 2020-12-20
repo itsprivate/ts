@@ -138,13 +138,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606468799,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "是的，打我吧……对不起，不要"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "是的，打我吧……對不起，不要"
     }
-  },
-  "original_created_utc": 1606468799
+  ]
 }

@@ -149,12 +149,14 @@
   "is_video": false,
   "original_created_utc": 1608231372,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "DAD模式，激活"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "DAD模式，激活"
     }
-  }
+  ]
 }

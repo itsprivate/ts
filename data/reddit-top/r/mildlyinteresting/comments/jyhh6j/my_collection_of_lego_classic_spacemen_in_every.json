@@ -153,13 +153,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606048655,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我收藏的乐高经典太空人，每种官方颜色都有"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我收藏的樂高經典太空人，每種官方顏色都有"
     }
-  },
-  "original_created_utc": 1606048655
+  ]
 }

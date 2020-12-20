@@ -153,13 +153,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605226713,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "听他把话说完。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "聽他把話說完。"
     }
-  },
-  "original_created_utc": 1605226713
+  ]
 }

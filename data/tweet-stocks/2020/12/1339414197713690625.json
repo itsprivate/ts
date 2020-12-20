@@ -189,12 +189,14 @@
   "possibly_sensitive": false,
   "lang": "en",
   "original_created_at": "Thu Dec 17 03:36:44 +0000 2020",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "full_text": "比特币2.2万美元。https://t.co/Dy6Da7KI1Q TC巴恩斯"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "full_text": "比特幣2.2萬美元。https://t.co/Dy6Da7KI1Q TC巴恩斯"
     }
-  }
+  ]
 }

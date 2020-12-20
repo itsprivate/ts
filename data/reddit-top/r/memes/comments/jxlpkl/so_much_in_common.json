@@ -163,13 +163,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605885949,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "如此之多的共同点"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "如此之多的共同點"
     }
-  },
-  "original_created_utc": 1605885949
+  ]
 }

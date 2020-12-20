@@ -144,13 +144,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605827848,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我想不出这个名字"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我想不出這個名字"
     }
-  },
-  "original_created_utc": 1605827848
+  ]
 }

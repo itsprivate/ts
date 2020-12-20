@@ -102,14 +102,16 @@
   "is_video": false,
   "original_created_utc": 1608399170,
   "the_new_excerpt": "Hi everyone,\n\nHad some free time today so I ran some numbers on IPOs.\n\nAssumptions of the data / disclosures:\n\n- Survivorship bias (companies that did not make it are not included)\n\n- Removed companies for which no data was available in BBG (i.e. IPO date,\noffering size, etc.)\n\n- Some data points…",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "the_new_excerpt": "大家好，\n\n今天有一些空闲时间，所以我查了一些新股的数据。\n\n数据/披露的假设：\n\n-生存偏见(未入围的公司不包括在内)\n\n-删除在BBG中没有数据的公司(即IPO日期，\n产品规模等)\n\n-部分数据点…",
       "title": "百年IPO数据"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "the_new_excerpt": "大家好，\n\n今天有一些空閒時間，所以我查了一些新股的數據。\n\n數據/披露的假設：\n\n-生存偏見(未入圍的公司不包括在內)\n\n-刪除在BBG中沒有數據的公司(即IPO日期，\n產品規模等)\n\n-部分數據點…",
       "title": "百年IPO數據"
     }
-  }
+  ]
 }

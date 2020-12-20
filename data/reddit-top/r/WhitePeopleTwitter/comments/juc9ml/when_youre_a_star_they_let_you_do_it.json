@@ -144,13 +144,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605398950,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "“当你是明星的时候，他们会让你这么做”"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "“當妳是明星的時候，他們會讓妳這麽做”"
     }
-  },
-  "original_created_utc": 1605398950
+  ]
 }

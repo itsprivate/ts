@@ -155,12 +155,14 @@
   "is_video": false,
   "original_created_utc": 1606819252,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "看不见一部手机，只有活在当下的人"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "看不見壹部手機，只有活在當下的人"
     }
-  }
+  ]
 }

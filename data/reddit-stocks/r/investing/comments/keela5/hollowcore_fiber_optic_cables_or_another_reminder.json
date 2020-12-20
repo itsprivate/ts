@@ -102,14 +102,16 @@
   "is_video": false,
   "original_created_utc": 1608142822,
   "the_new_excerpt": "Today's WSJ has an article regarding high frequency traders using hollow-core\nfiber optic cables to shave milliseconds off their transaction latencies. It's\nbehind a paywall, but if you have an account you can read it here:\n\nhttps://www.wsj.com/articles/high-frequency-traders-push-closer-to-light…",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "the_new_excerpt": "今天的“华尔街日报”有一篇关于使用空芯的高频交易员的文章。\n光纤电缆可将其交易延迟缩短数毫秒。它是\n在付费墙后面，但如果你有账户，可以在这里阅读：\n\nhttps://www.wsj.com/articles/high-frequency-traders-push-closer-to-light…",
       "title": "空芯光缆或：再次提醒个人投资者不应试图与机构投资者竞争"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "the_new_excerpt": "今天的“華爾街日報”有一篇關於使用空芯的高頻交易員的文章。\n光纖電纜可將其交易延遲縮短數毫秒。它是\n在付費牆後面，但如果你有賬戶，可以在這裏閱讀：\n\nhttps://www.wsj.com/articles/high-frequency-traders-push-closer-to-light…",
       "title": "空芯光纜或：再次提醒個人投資者不應試圖與機構投資者競爭"
     }
-  }
+  ]
 }

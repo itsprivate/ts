@@ -153,13 +153,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606018672,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "大块头范伯尼(Big Bernie Fan)"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "大塊頭範伯尼(Big Bernie Fan)"
     }
-  },
-  "original_created_utc": 1606018672
+  ]
 }

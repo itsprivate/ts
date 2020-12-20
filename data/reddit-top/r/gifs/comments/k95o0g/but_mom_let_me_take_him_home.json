@@ -151,12 +151,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607439649,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "“但是妈妈，让我带他回家吧！”"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "“但是媽媽，讓我帶他回家吧！”"
     }
-  }
+  ]
 }

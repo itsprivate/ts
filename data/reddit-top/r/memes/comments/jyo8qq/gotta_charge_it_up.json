@@ -144,13 +144,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606040746,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "要充电了。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "要充電了。"
     }
-  },
-  "original_created_utc": 1606040746
+  ]
 }

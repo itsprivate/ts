@@ -200,12 +200,14 @@
   "is_video": false,
   "original_created_utc": 1606509730,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "一群蜜蜂为他们被大黄蜂杀死的朋友报仇。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "壹群蜜蜂為他們被大黃蜂殺死的朋友報仇。"
     }
-  }
+  ]
 }

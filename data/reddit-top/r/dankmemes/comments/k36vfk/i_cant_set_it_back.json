@@ -216,12 +216,14 @@
   "is_video": false,
   "original_created_utc": 1606643333,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我不能让它倒退"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我不能讓它倒退"
     }
-  }
+  ]
 }

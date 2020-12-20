@@ -170,12 +170,14 @@
   "is_video": true,
   "original_created_utc": 1608219629,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "深红色的雪，40英寸厚的雪。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "深紅色的雪，40英寸厚的雪。"
     }
-  }
+  ]
 }

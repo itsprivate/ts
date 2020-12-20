@@ -139,12 +139,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607765434,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "这具穆特博物馆的连体双胞胎骨架"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "這具穆特博物館的連體雙胞胎骨架"
     }
-  }
+  ]
 }

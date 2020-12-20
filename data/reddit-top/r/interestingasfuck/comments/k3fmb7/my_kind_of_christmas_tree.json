@@ -144,12 +144,14 @@
   "is_video": false,
   "original_created_utc": 1606678384,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我喜欢的圣诞树。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我喜歡的聖誕樹。"
     }
-  }
+  ]
 }

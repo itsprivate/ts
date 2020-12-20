@@ -37,12 +37,14 @@
     }
   },
   "original_created_at": "2020-12-17T21:16:28.000Z",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "FreeBSD src存储库本周末将从Subversion过渡到Git"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "FreeBSD src存儲庫本週末將從Subversion過渡到Git"
     }
-  }
+  ]
 }

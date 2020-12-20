@@ -172,12 +172,14 @@
   "is_video": true,
   "original_created_utc": 1606707060,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "切碎的荧光棒"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "切碎的熒光棒"
     }
-  }
+  ]
 }

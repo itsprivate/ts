@@ -180,12 +180,14 @@
   "is_video": true,
   "the_new_excerpt": "",
   "original_created_utc": 1607868726,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "是时候来点雪人了"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "是時候來點雪人了"
     }
-  }
+  ]
 }

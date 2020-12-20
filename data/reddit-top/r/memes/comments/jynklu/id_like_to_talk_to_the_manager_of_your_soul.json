@@ -153,13 +153,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606048655,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "“我想和你灵魂的管理者谈谈”"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "“我想和妳靈魂的管理者談談”"
     }
-  },
-  "original_created_utc": 1606048655
+  ]
 }

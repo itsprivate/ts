@@ -143,13 +143,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605903456,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "一只沙猫和她的迷你喵喵叫。可爱但坚强的幸存者"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "壹只沙貓和她的迷妳喵喵叫。可愛但堅強的幸存者"
     }
-  },
-  "original_created_utc": 1605903456
+  ]
 }

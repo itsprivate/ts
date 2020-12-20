@@ -144,12 +144,14 @@
   "is_video": false,
   "original_created_utc": 1608297296,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "日本仍在努力弄清楚圣诞节"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "日本仍在努力弄清楚聖誕節"
     }
-  }
+  ]
 }

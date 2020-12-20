@@ -157,12 +157,14 @@
   "is_video": false,
   "original_created_utc": 1608121695,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我们的新前门。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我們的新前門。"
     }
-  }
+  ]
 }

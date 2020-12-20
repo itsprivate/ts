@@ -163,13 +163,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605530602,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "女儿画着妈妈的脸，不知道爸爸为什么笑。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "女兒畫著媽媽的臉，不知道爸爸為什麽笑。"
     }
-  },
-  "original_created_utc": 1605530602
+  ]
 }

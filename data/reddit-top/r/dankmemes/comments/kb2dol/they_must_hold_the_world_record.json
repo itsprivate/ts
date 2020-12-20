@@ -254,12 +254,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607691813,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "他们必须保持世界纪录"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "他們必須保持世界紀錄"
     }
-  }
+  ]
 }

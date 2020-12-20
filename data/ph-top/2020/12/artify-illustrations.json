@@ -119,14 +119,16 @@
     ]
   },
   "original_createdAt": "2020-12-17T08:03:53Z",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "description": "在Artify Crew的新版本中，有5000多幅独特的插图可供高质量的PNG文件和矢量源下载，有70多种插图样式，从高质量的3D样式到简约和抽象的线条！",
       "tagline": "搜索并下载5000多幅矢量插图"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "description": "在Artify Crew的新版本中，有5000多幅獨特的插圖可供高質量的PNG文件和矢量源下載，有70多種插圖樣式，從高質量的3D樣式到簡約和抽象的線條！",
       "tagline": "搜索並下載5000多幅矢量插圖"
     }
-  }
+  ]
 }

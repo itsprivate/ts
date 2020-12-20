@@ -151,12 +151,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607550759,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "同性恋爸爸们会喜欢"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "同性戀爸爸們會喜歡"
     }
-  }
+  ]
 }

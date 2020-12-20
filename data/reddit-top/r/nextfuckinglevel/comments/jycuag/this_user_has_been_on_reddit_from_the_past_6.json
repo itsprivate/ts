@@ -154,13 +154,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605997116,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "该用户在过去6年中一直使用reddit，从未使用过字母“F”。无论是任何帖子或评论。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "該用戶在過去6年中壹直使用reddit，從未使用過字母“F”。無論是任何帖子或評論。"
     }
-  },
-  "original_created_utc": 1605997116
+  ]
 }

@@ -169,13 +169,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605481335,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "太健康了！：D"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "太健康了！：D"
     }
-  },
-  "original_created_utc": 1605481335
+  ]
 }

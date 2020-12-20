@@ -144,13 +144,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606092911,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "一点儿没错。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "壹點兒沒錯。"
     }
-  },
-  "original_created_utc": 1606092911
+  ]
 }

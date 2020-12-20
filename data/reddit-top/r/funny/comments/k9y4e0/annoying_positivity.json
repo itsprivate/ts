@@ -144,12 +144,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607540440,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "恼人的积极情绪"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "惱人的積極情緒"
     }
-  }
+  ]
 }

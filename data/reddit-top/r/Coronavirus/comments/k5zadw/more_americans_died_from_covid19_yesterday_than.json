@@ -124,12 +124,14 @@
   "is_video": false,
   "original_created_utc": 1607009368,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "昨天死于冠状病毒的美国人比9/11事件中死亡的人数还要多。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "昨天死於冠狀病毒的美國人比9/11事件中死亡的人數還要多。"
     }
-  }
+  ]
 }

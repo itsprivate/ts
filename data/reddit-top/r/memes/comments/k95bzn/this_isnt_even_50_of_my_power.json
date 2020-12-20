@@ -144,12 +144,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607438499,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "这还不到我力量的50%！"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "這還不到我力量的50%！"
     }
-  }
+  ]
 }

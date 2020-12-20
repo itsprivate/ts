@@ -165,13 +165,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606231224,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "不知道以前有没有贴过，但他揭露了他们，对他表示赞许。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "不知道以前有沒有貼過，但他揭露了他們，對他表示贊許。"
     }
-  },
-  "original_created_utc": 1606231224
+  ]
 }

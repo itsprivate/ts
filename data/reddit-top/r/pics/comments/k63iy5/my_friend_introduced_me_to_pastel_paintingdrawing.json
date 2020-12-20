@@ -157,12 +157,14 @@
   "is_video": false,
   "original_created_utc": 1607021598,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我的朋友向我介绍了粉笔画/素描，所以我决定为他画一幅肖像画！"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我的朋友向我介紹了粉筆畫/素描，所以我決定為他畫壹幅肖像畫！"
     }
-  }
+  ]
 }

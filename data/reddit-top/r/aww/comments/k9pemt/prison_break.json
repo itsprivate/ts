@@ -169,12 +169,14 @@
   "is_video": true,
   "original_created_utc": 1607508999,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "越狱"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "越獄"
     }
-  }
+  ]
 }

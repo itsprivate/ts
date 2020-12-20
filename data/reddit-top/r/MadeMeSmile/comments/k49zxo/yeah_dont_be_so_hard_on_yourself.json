@@ -143,12 +143,14 @@
   "is_video": false,
   "original_created_utc": 1606784625,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "是啊，别对自己太苛刻了。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "是啊，別對自己太苛刻了。"
     }
-  }
+  ]
 }

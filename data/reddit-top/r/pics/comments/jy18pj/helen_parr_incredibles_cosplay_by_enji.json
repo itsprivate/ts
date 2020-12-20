@@ -158,13 +158,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605980937,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "海伦·帕尔“超人特工队”角色扮演"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "海倫·帕爾“超人特工隊”角色扮演"
     }
-  },
-  "original_created_utc": 1605980937
+  ]
 }

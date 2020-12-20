@@ -155,12 +155,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607812415,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "特朗普在威斯康星州竞选挑战诉讼中败诉，进一步巩固拜登在总统竞选中的胜利"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "特朗普在威斯康星州競選挑戰訴訟中敗訴，進一步鞏固拜登在總統競選中的勝利"
     }
-  }
+  ]
 }

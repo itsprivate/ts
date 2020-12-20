@@ -181,13 +181,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606429223,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "花了3天时间在地板上使这块滑板停止运动"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "花了3天時間在地板上使這塊滑板停止運動"
     }
-  },
-  "original_created_utc": 1606429223
+  ]
 }

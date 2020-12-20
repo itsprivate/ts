@@ -155,12 +155,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607457474,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "受诅咒的地雷"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "受詛咒的地雷"
     }
-  }
+  ]
 }

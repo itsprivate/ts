@@ -181,12 +181,14 @@
   "possibly_sensitive": false,
   "lang": "en",
   "original_created_at": "Wed Nov 25 20:01:52 +0000 2020",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "full_text": "比特币现金信托的投资者为价值3.19美元的基础资产支付了37.90美元。对资产净值的1008%溢价。https://t.co/t8inyn2djT"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "full_text": "比特幣現金信託的投資者爲價值3.19美元的基礎資產支付了37.90美元。對資產淨值的1008%溢價。https://t.co/t8inyn2djT"
     }
-  }
+  ]
 }

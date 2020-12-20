@@ -143,13 +143,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605260874,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "只有一只穿羊毛衫的小猫，没别的了"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "只有壹只穿羊毛衫的小貓，沒別的了"
     }
-  },
-  "original_created_utc": 1605260874
+  ]
 }

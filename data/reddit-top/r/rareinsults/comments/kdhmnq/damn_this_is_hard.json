@@ -154,12 +154,14 @@
   "is_video": false,
   "original_created_utc": 1608019351,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "该死的这太难了..。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "該死的這太難了..。"
     }
-  }
+  ]
 }

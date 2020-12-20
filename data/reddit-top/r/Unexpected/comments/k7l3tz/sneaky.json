@@ -171,12 +171,14 @@
   "is_video": true,
   "original_created_utc": 1607221713,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "鬼鬼祟祟的"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "鬼鬼祟祟的"
     }
-  }
+  ]
 }

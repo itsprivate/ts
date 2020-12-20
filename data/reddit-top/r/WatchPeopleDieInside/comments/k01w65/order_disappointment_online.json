@@ -164,13 +164,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606253940,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "在网上订购令人失望的商品。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "在網上訂購令人失望的商品。"
     }
-  },
-  "original_created_utc": 1606253940
+  ]
 }

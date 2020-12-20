@@ -169,13 +169,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605982690,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我朋友的狗想要东西的时候就是这样坐的。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我朋友的狗想要東西的時候就是這樣坐的。"
     }
-  },
-  "original_created_utc": 1605982690
+  ]
 }

@@ -102,14 +102,16 @@
   "is_video": false,
   "original_created_utc": 1608240847,
   "the_new_excerpt": "Stock market intraday patterns – all times are in Eastern Standard Time!\n\nWhen day trading the US stock market you may notice certain patterns, based on\nthe time of day, that occur more often than not. These patterns, or tendencies,\nhappen often enough for professional day traders to base their…",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "the_new_excerpt": "股市盘中模式-所有时间都在东部标准时间！\n\n当日内交易美国股票市场时，你可能会注意到某些模式，基于\n一天中经常发生的时间。这些模式，或趋势，\n发生的频率足以让专业的日内交易者根据他们的…",
       "title": "了解市场需要了解市场心理"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "the_new_excerpt": "股市盤中模式-所有時間都在東部標準時間！\n\n當日內交易美國股票市場時，你可能會注意到某些模式，基於\n一天中經常發生的時間。這些模式，或趨勢，\n發生的頻率足以讓專業的日內交易者根據他們的…",
       "title": "瞭解市場需要了解市場心理"
     }
-  }
+  ]
 }

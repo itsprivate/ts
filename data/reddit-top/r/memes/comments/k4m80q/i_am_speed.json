@@ -205,12 +205,14 @@
   "is_video": false,
   "original_created_utc": 1606834134,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我是斯皮德"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我是斯皮德"
     }
-  }
+  ]
 }

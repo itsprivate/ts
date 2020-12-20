@@ -156,13 +156,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605934701,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "小唐纳德·特朗普(Donald Trump Jr.)冠状病毒测试呈阳性"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "小唐納德·特朗普(Donald Trump Jr.)冠狀病毒測試呈陽性"
     }
-  },
-  "original_created_utc": 1605934701
+  ]
 }

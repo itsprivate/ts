@@ -187,12 +187,14 @@
   "is_video": true,
   "original_created_utc": 1608220077,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我的相机被卡在车后面，一动不动。这是第三人称的V"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我的相機被卡在車後面，一動不動。這是第三人稱的V"
     }
-  }
+  ]
 }

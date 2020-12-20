@@ -145,13 +145,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605997668,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "意大利的一位和尚正在休息，去抚摸一只小猫。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "意大利的壹位和尚正在休息，去撫摸壹只小貓。"
     }
-  },
-  "original_created_utc": 1605997668
+  ]
 }

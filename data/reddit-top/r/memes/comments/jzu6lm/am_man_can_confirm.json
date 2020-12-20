@@ -144,13 +144,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606250234,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我是男人，可以确认"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我是男人，可以確認"
     }
-  },
-  "original_created_utc": 1606250234
+  ]
 }

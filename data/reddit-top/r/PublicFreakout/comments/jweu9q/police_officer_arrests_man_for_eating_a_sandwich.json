@@ -169,13 +169,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605749436,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "警察逮捕一名吃三明治的男子"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "警察逮捕壹名吃三明治的男子"
     }
-  },
-  "original_created_utc": 1605749436
+  ]
 }

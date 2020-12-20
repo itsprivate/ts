@@ -198,13 +198,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605986915,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "爸爸从来不喜欢我的研究，我知道为什么"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "爸爸從來不喜歡我的研究，我知道為什麽"
     }
-  },
-  "original_created_utc": 1605986915
+  ]
 }

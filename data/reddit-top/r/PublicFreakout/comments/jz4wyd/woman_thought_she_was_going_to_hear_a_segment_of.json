@@ -181,13 +181,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606134907,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "一位女士以为她会听到奥巴马新书的一段话"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "壹位女士以為她會聽到奧巴馬新書的壹段話"
     }
-  },
-  "original_created_utc": 1606134907
+  ]
 }

@@ -155,13 +155,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605827848,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "今天早上武警的一名神枪手用我的公寓作为监视位置。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "今天早上武警的壹名神槍手用我的公寓作為監視位置。"
     }
-  },
-  "original_created_utc": 1605827848
+  ]
 }

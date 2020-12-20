@@ -105,13 +105,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605307197,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "Reddit的律师说你的“等等！”你知道你会赢的那一刻？"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "Reddit的律師說妳的“等等！”妳知道妳會贏的那壹刻？"
     }
-  },
-  "original_created_utc": 1605307197
+  ]
 }

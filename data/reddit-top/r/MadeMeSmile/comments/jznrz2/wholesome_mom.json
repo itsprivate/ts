@@ -159,13 +159,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606182728,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "健康的母亲"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "健康的母親"
     }
-  },
-  "original_created_utc": 1606182728
+  ]
 }

@@ -37,12 +37,14 @@
     }
   },
   "original_created_at": "2020-12-19T10:15:26.000Z",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "马克斯：波音公司在坠机后的测试中对飞行员进行了“不适当的指导”"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "馬克斯：波音公司在墜機後的測試中對飛行員進行了“不適當的指導”"
     }
-  }
+  ]
 }

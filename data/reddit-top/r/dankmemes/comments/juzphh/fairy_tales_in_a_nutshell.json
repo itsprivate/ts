@@ -149,13 +149,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605532601,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "简而言之，童话故事"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "簡而言之，童話故事"
     }
-  },
-  "original_created_utc": 1605532601
+  ]
 }

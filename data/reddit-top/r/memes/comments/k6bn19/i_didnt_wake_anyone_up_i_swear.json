@@ -144,12 +144,14 @@
   "is_video": false,
   "original_created_utc": 1607048135,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我发誓我没有吵醒任何人"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我發誓我沒有吵醒任何人"
     }
-  }
+  ]
 }

@@ -173,13 +173,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606145975,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我女儿患有令人衰弱的焦虑症、多动症和抑郁症。她唯一的朋友能够来参加她以“我的世界”为主题的生日，这是她说过的最开心的一次。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我女兒患有令人衰弱的焦慮癥、多動癥和抑郁癥。她唯壹的朋友能夠來參加她以“我的世界”為主題的生日，這是她說過的最開心的壹次。"
     }
-  },
-  "original_created_utc": 1606145975
+  ]
 }

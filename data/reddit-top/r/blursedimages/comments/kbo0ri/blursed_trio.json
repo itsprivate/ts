@@ -139,12 +139,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607774469,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "模糊_三重奏"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "模糊_三重奏"
     }
-  }
+  ]
 }

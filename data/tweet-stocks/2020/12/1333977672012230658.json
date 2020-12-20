@@ -189,13 +189,15 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "i18nResource": {
-    "zh": {
+  "original_created_at": "Wed Dec 02 03:33:55 +0000 2020",
+  "localize": [
+    {
+      "locale": "zh",
       "full_text": "华尔街的第一个场景是一位老人抱怨说，在MKTS B/C是不可能赚钱的，便宜的美元太多了。\n\n这部电影于1987年上映，当时10年的回报率远高于8%。\n\n很高兴看到有些事情永远不会改变https://t.co/yderZyv53j"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "full_text": "華爾街的第一個場景是一位老人抱怨說，在MKTS B/C是不可能賺錢的，便宜的美元太多了。\n\n這部電影於1987年上映，當時10年的回報率遠高於8%。\n\n很高興看到有些事情永遠不會改變https://t.co/yderZyv53j"
     }
-  },
-  "original_created_at": "Wed Dec 02 03:33:55 +0000 2020"
+  ]
 }

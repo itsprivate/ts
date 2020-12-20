@@ -193,12 +193,14 @@
   "is_video": false,
   "original_created_utc": 1606674094,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "你不能这样伤害我，哈哈"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "妳不能這樣傷害我，哈哈"
     }
-  }
+  ]
 }

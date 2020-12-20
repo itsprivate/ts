@@ -159,13 +159,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606360513,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "总有一些人在外面"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "總有壹些人在外面"
     }
-  },
-  "original_created_utc": 1606360513
+  ]
 }

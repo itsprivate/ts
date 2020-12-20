@@ -166,12 +166,14 @@
   "is_video": true,
   "original_created_utc": 1608330101,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "你就等着吧"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "你就等着吧"
     }
-  }
+  ]
 }

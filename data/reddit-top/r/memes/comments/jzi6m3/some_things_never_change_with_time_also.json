@@ -153,13 +153,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606170293,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "有些事情也永远不会随着时间而改变"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "有些事情也永遠不會隨著時間而改變"
     }
-  },
-  "original_created_utc": 1606170293
+  ]
 }

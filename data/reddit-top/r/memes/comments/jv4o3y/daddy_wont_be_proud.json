@@ -153,13 +153,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605566204,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "爸爸不会骄傲的"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "爸爸不會驕傲的"
     }
-  },
-  "original_created_utc": 1605566204
+  ]
 }

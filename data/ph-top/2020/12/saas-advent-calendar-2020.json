@@ -64,14 +64,16 @@
     ]
   },
   "original_createdAt": "2020-12-17T08:08:39Z",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "description": "巧克力是甜的，但SaaS惊喜更甜-我们每天吃两个！午夜钟声敲响之际，SaaS Advent Calendar解锁了来自知名SaaS公司的独家交易，以及需要宝贵反馈的免费测试版SaaS。",
       "tagline": "萨亚圣诞老人要来镇上，他不会带煤来"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "description": "巧克力是甜的，但SaaS驚喜更甜-我們每天喫兩個！午夜鐘聲敲響之際，SaaS Advent Calendar解鎖了來自知名SaaS公司的獨家交易，以及需要寶貴反饋的免費測試版SaaS。",
       "tagline": "薩亞聖誕老人要來鎮上，他不會帶煤來"
     }
-  }
+  ]
 }

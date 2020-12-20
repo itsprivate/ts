@@ -155,13 +155,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606321976,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我想给朋友打个电话"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我想給朋友打個電話"
     }
-  },
-  "original_created_utc": 1606321976
+  ]
 }

@@ -163,13 +163,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605624452,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "为什么灯不亮？"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "為什麽燈不亮？"
     }
-  },
-  "original_created_utc": 1605624452
+  ]
 }

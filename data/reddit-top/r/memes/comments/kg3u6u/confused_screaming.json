@@ -208,12 +208,14 @@
   "is_video": false,
   "original_created_utc": 1608364711,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "困惑的尖叫"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "困惑的尖叫"
     }
-  }
+  ]
 }

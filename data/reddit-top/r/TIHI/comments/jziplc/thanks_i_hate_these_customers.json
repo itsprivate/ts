@@ -143,13 +143,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606179517,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "谢谢，我讨厌这些顾客"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "謝謝，我討厭這些顧客"
     }
-  },
-  "original_created_utc": 1606179517
+  ]
 }

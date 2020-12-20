@@ -153,13 +153,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605482213,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我们镇上的图书馆正在建设中，所以他们把一家旧杂货店用作临时图书馆。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我們鎮上的圖書館正在建設中，所以他們把壹家舊雜貨店用作臨時圖書館。"
     }
-  },
-  "original_created_utc": 1605482213
+  ]
 }

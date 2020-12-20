@@ -151,12 +151,14 @@
   "is_video": false,
   "original_created_utc": 1607131949,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "牌子错了"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "牌子錯了"
     }
-  }
+  ]
 }

@@ -185,12 +185,14 @@
   "is_video": false,
   "original_created_utc": 1608319545,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "一名波士顿警察在抗议活动中差点碾过我和其他一群人，他意识到自己在吹嘘这件事时被录音了"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "一名波士頓警察在抗議活動中差點碾過我和其他一羣人，他意識到自己在吹噓這件事時被錄音了"
     }
-  }
+  ]
 }

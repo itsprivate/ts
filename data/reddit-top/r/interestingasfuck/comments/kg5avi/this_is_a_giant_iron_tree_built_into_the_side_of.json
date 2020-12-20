@@ -144,12 +144,14 @@
   "is_video": false,
   "original_created_utc": 1608372526,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "这是一棵巨大的铁树，建在俄罗斯农业部的一侧。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "這是一棵巨大的鐵樹，建在俄羅斯農業部的一側。"
     }
-  }
+  ]
 }

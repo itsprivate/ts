@@ -144,13 +144,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605490031,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "上帝啊，请不要。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "上帝啊，請不要。"
     }
-  },
-  "original_created_utc": 1605490031
+  ]
 }

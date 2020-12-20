@@ -159,13 +159,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606357149,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "在蚂蚁身上大笑"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "在螞蟻身上大笑"
     }
-  },
-  "original_created_utc": 1606357149
+  ]
 }

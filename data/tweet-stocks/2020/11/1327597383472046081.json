@@ -103,12 +103,14 @@
   "possibly_sensitive": false,
   "lang": "en",
   "original_created_at": "Sat Nov 14 13:00:56 +0000 2020",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "full_text": "我如何投资我的钱\n\nhttps://t.co/fVv7VyvMly"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "full_text": "我如何投資我的錢\n\nhttps://t.co/fVv7VyvMly"
     }
-  }
+  ]
 }

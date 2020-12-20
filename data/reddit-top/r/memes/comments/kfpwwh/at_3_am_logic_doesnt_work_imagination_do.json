@@ -208,12 +208,14 @@
   "is_video": false,
   "original_created_utc": 1608313807,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "凌晨3点，逻辑不起作用，想象力起作用"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "凌晨3點，邏輯不起作用，想象力起作用"
     }
-  }
+  ]
 }

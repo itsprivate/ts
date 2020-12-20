@@ -144,12 +144,14 @@
   "is_video": false,
   "original_created_utc": 1607076023,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "摄氏还是华氏？"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "攝氏還是華氏？"
     }
-  }
+  ]
 }

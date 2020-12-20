@@ -169,13 +169,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606049207,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "这张拍摄自电影“翅膀”(1927年)的镜头实在太棒了。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "這張拍攝自電影“翅膀”(1927年)的鏡頭實在太棒了。"
     }
-  },
-  "original_created_utc": 1606049207
+  ]
 }

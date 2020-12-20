@@ -149,12 +149,14 @@
   "is_video": false,
   "original_created_utc": 1607074077,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "原谅我，女儿"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "原諒我，女兒"
     }
-  }
+  ]
 }

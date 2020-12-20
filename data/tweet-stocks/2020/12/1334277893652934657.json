@@ -103,12 +103,14 @@
   "possibly_sensitive": false,
   "lang": "en",
   "original_created_at": "Wed Dec 02 23:26:54 +0000 2020",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "full_text": "2016年，一名佐治亚州参议员买卖FireEye 61次，使他成为罗宾汉的买入并持有投资者。\n\nhttps://t.co/CLY9IQNiyp"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "full_text": "2016年，一名佐治亞州參議員買賣FireEye 61次，使他成爲羅賓漢的買入並持有投資者。\n\nhttps://t.co/CLY9IQNiyp"
     }
-  }
+  ]
 }

@@ -138,13 +138,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605815444,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "祝你们男人节快乐"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "祝妳們男人節快樂"
     }
-  },
-  "original_created_utc": 1605815444
+  ]
 }

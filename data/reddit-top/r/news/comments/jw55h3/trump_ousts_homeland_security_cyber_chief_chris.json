@@ -153,13 +153,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605688083,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "特朗普罢免国土安全部网络负责人克里斯·克雷布斯(Chris Krebs)，后者称选举是安全的"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "特朗普罷免國土安全部網絡負責人克裏斯·克雷布斯(Chris Krebs)，後者稱選舉是安全的"
     }
-  },
-  "original_created_utc": 1605688083
+  ]
 }

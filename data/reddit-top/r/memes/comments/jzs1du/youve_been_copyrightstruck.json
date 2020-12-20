@@ -148,13 +148,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606227809,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "你一直在..。版权所有！"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "妳壹直在..。版權所有！"
     }
-  },
-  "original_created_utc": 1606227809
+  ]
 }

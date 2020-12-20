@@ -143,13 +143,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606049207,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "日本学生提交请愿书，要求将同意年龄从13岁提高到16岁。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "日本學生提交請願書，要求將同意年齡從13歲提高到16歲。"
     }
-  },
-  "original_created_utc": 1606049207
+  ]
 }

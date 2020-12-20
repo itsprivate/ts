@@ -156,12 +156,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607390660,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我酒店浴室里的环镜在我眼镜上的反射是不同的，因为每只眼睛都有自己的处方。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我酒店浴室裏的環鏡在我眼鏡上的反射是不同的，因為每只眼睛都有自己的處方。"
     }
-  }
+  ]
 }

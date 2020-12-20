@@ -145,12 +145,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607435796,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "更简单的时代"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "更簡單的時代"
     }
-  }
+  ]
 }

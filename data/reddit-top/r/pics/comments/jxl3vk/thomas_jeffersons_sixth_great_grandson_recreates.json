@@ -145,13 +145,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605896408,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "托马斯·杰斐逊的第六个曾孙重现了他的照片"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "托馬斯·傑斐遜的第六個曾孫重現了他的照片"
     }
-  },
-  "original_created_utc": 1605896408
+  ]
 }

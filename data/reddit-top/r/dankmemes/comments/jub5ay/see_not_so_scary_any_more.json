@@ -164,13 +164,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605394703,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "看不再那么可怕了"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "看不再那麽可怕了"
     }
-  },
-  "original_created_utc": 1605394703
+  ]
 }

@@ -145,12 +145,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607786120,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "在百思买(Best Buy)网上申请"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "在百思買(Best Buy)網上申請"
     }
-  }
+  ]
 }

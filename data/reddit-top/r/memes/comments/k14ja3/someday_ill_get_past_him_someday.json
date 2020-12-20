@@ -148,13 +148,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606384499,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "总有一天我会超过他的。总有一天会的。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "總有壹天我會超過他的。總有壹天會的。"
     }
-  },
-  "original_created_utc": 1606384499
+  ]
 }

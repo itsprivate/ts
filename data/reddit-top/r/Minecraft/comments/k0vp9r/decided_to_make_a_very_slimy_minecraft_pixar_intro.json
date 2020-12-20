@@ -187,13 +187,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606357149,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "决定做一个非常粘滑的“我的世界”皮克斯简介！"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "決定做壹個非常粘滑的“我的世界”皮克斯簡介！"
     }
-  },
-  "original_created_utc": 1606357149
+  ]
 }

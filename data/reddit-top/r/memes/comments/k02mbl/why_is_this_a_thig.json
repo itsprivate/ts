@@ -143,13 +143,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606238328,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "为什么要这样做呢？"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "為什麽要這樣做呢？"
     }
-  },
-  "original_created_utc": 1606238328
+  ]
 }

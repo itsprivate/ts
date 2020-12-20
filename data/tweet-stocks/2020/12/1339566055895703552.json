@@ -263,14 +263,16 @@
   "retweeted": false,
   "lang": "en",
   "original_created_at": "Thu Dec 17 13:40:10 +0000 2020",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "full_text": "rt@matthewjdowd：1903年的今天，莱特兄弟飞翔第一次在北卡罗来纳州的基蒂霍克举行。我们每个人都能用…做的事情令人惊叹",
       "retweeted_status_full_text": "1903年的这一天，赖特兄弟飞翔第一次在北卡罗来纳州的基蒂霍克举行。我们每个人凭借勇气、希望和毅力所能做的事情是令人惊叹的。让我们用信仰和爱展翅飞翔，看看它会把我们带向何方。https://t.co/9ieVVTMidO"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "full_text": "rt@matthewjdowd：1903年的今天，萊特兄弟飛翔第一次在北卡羅來納州的基蒂霍克舉行。我們每個人都能用…做的事情令人驚歎",
       "retweeted_status_full_text": "1903年的這一天，賴特兄弟飛翔第一次在北卡羅來納州的基蒂霍克舉行。我們每個人憑藉勇氣、希望和毅力所能做的事情是令人驚歎的。讓我們用信仰和愛展翅飛翔，看看它會把我們帶向何方。https://t.co/9ieVVTMidO"
     }
-  }
+  ]
 }

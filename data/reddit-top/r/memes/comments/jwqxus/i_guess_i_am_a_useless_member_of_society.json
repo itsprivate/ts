@@ -143,13 +143,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605768420,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我想我是社会上无用的一员"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我想我是社會上無用的壹員"
     }
-  },
-  "original_created_utc": 1605768420
+  ]
 }

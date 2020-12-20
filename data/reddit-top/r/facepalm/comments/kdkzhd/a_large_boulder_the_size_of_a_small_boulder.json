@@ -145,12 +145,14 @@
   "is_video": false,
   "original_created_utc": 1608035897,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "一块小石头大小的大石头"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "一塊小石頭大小的大石頭"
     }
-  }
+  ]
 }

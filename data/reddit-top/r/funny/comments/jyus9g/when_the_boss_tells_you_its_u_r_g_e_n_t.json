@@ -154,13 +154,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606069157,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "当老板告诉你是你的时候"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "當老板告訴妳是妳的時候"
     }
-  },
-  "original_created_utc": 1606069157
+  ]
 }

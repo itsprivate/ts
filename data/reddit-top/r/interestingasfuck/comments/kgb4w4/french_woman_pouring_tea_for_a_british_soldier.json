@@ -140,12 +140,14 @@
   "is_video": false,
   "original_created_utc": 1608396235,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "1944年，一名法国妇女为在诺曼底作战的英国士兵倒茶。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "1944年，一名法國婦女爲在諾曼底作戰的英國士兵倒茶。"
     }
-  }
+  ]
 }

@@ -145,13 +145,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605228672,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "男孩们也需要爱"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "男孩們也需要愛"
     }
-  },
-  "original_created_utc": 1605228672
+  ]
 }

@@ -153,13 +153,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605820670,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "第一次发帖。如果转帖的话我会删除的。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "第壹次發帖。如果轉帖的話我會刪除的。"
     }
-  },
-  "original_created_utc": 1605820670
+  ]
 }

@@ -153,13 +153,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605377917,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "拿着这个！你在这里没有权力！"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "拿著這個！妳在這裏沒有權力！"
     }
-  },
-  "original_created_utc": 1605377917
+  ]
 }

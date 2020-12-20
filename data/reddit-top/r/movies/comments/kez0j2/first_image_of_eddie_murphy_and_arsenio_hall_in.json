@@ -160,12 +160,14 @@
   "is_video": false,
   "original_created_utc": 1608217391,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "埃迪·墨菲和阿森尼奥·霍尔在即将到来的美国2中的第一张照片"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "埃迪·墨菲和阿森尼奧·霍爾在即將到來的美國2中的第一張照片"
     }
-  }
+  ]
 }

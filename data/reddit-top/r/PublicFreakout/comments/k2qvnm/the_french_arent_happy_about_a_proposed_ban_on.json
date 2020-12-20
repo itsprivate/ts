@@ -181,12 +181,14 @@
   "is_video": true,
   "original_created_utc": 1606581958,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "法国人对禁止拍摄和拍摄警察的提议感到不满"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "法國人對禁止拍攝和拍攝警察的提議感到不滿"
     }
-  }
+  ]
 }

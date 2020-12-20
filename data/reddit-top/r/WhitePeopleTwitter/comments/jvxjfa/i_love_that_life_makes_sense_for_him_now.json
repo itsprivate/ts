@@ -148,13 +148,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605666071,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我喜欢他现在的生活有意义"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我喜歡他現在的生活有意義"
     }
-  },
-  "original_created_utc": 1605666071
+  ]
 }

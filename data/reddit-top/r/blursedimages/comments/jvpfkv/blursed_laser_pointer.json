@@ -153,13 +153,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605668055,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "模糊激光指针"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "模糊激光指針"
     }
-  },
-  "original_created_utc": 1605668055
+  ]
 }

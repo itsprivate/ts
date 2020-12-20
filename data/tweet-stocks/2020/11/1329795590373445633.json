@@ -191,12 +191,14 @@
   "possibly_sensitive": false,
   "lang": "en",
   "original_created_at": "Fri Nov 20 14:35:49 +0000 2020",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "full_text": "新帖子：\n\n比特币、泡沫和信仰。\n\nhttps://t.co/XQ7kfnOh0V https://t.co/zt0707HfPQ"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "full_text": "新帖子：\n\n比特幣、泡沫和信仰。\n\nhttps://t.co/XQ7kfnOh0V https://t.co/zt0707HfPQ"
     }
-  }
+  ]
 }

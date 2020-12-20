@@ -167,12 +167,14 @@
   "is_video": true,
   "the_new_excerpt": "",
   "original_created_utc": 1607568381,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "学习"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "學習"
     }
-  }
+  ]
 }

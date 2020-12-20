@@ -169,13 +169,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606220832,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "当你打电话给黑色加油站服务员时会发生什么，这是一个贬义的名字。"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "當妳打電話給黑色加油站服務員時會發生什麽，這是壹個貶義的名字。"
     }
-  },
-  "original_created_utc": 1606220832
+  ]
 }

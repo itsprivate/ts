@@ -150,12 +150,14 @@
   "is_video": false,
   "original_created_utc": 1608301964,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "AT-AT和雪警"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "AT-AT和雪警"
     }
-  }
+  ]
 }

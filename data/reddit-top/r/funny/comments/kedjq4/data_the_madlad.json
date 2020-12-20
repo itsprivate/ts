@@ -144,12 +144,14 @@
   "is_video": false,
   "original_created_utc": 1608139708,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "数据狂人"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "數據狂人"
     }
-  }
+  ]
 }

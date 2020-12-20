@@ -37,12 +37,14 @@
     }
   },
   "original_created_at": "2020-12-18T20:19:18.000Z",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "微软称在其系统中发现恶意软件"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "微軟稱在其系統中發現惡意軟件"
     }
-  }
+  ]
 }

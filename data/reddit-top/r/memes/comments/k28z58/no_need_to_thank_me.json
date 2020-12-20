@@ -145,12 +145,14 @@
   "is_video": false,
   "original_created_utc": 1606508831,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "用不着谢我"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "用不著謝我"
     }
-  }
+  ]
 }

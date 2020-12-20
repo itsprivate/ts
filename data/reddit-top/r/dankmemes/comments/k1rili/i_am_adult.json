@@ -138,13 +138,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606473074,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我是成年人了"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我是成年人了"
     }
-  },
-  "original_created_utc": 1606473074
+  ]
 }

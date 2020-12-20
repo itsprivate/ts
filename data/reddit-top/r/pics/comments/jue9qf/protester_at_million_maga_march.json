@@ -157,13 +157,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605406928,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "百万马加游行的抗议者"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "百萬馬加遊行的抗議者"
     }
-  },
-  "original_created_utc": 1605406928
+  ]
 }

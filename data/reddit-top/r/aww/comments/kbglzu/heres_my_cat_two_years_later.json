@@ -155,12 +155,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607739043,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "这是我两年后的猫：)"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "這是我兩年後的貓：)"
     }
-  }
+  ]
 }

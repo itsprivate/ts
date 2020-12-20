@@ -159,13 +159,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605487769,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "奥巴马说，特朗普拒绝承认失败已经造成了“损害”，并警告说：“这是不正常的。”"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "奧巴馬說，特朗普拒絕承認失敗已經造成了“損害”，並警告說：“這是不正常的。”"
     }
-  },
-  "original_created_utc": 1605487769
+  ]
 }

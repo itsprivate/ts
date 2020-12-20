@@ -162,13 +162,15 @@
   },
   "is_video": true,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605360996,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "生活离开了聊天"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "生活離開了聊天"
     }
-  },
-  "original_created_utc": 1605360996
+  ]
 }

@@ -200,12 +200,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607970673,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "12年前的今天，这件事发生了"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "12年前的今天，這件事發生了"
     }
-  }
+  ]
 }

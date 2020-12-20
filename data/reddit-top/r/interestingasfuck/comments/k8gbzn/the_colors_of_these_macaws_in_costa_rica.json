@@ -194,12 +194,14 @@
   "is_video": false,
   "the_new_excerpt": "",
   "original_created_utc": 1607346555,
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "哥斯达黎加这些金刚鹦鹉的颜色"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "哥斯達黎加這些金剛鸚鵡的顏色"
     }
-  }
+  ]
 }

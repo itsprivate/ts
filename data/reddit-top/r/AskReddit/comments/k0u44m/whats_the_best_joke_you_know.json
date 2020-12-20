@@ -107,13 +107,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1606385645,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "你知道的最好笑的笑话是什么？"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "妳知道的最好笑的笑話是什麽？"
     }
-  },
-  "original_created_utc": 1606385645
+  ]
 }

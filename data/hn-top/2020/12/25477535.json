@@ -37,12 +37,14 @@
     }
   },
   "original_created_at": "2020-12-19T14:20:05.000Z",
-  "i18nResource": {
-    "zh": {
+  "localize": [
+    {
+      "locale": "zh",
       "title": "我们第一个优秀的搜索引擎AltaVista是如何跌入数字深渊的"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "我們第一個優秀的搜索引擎AltaVista是如何跌入數字深淵的"
     }
-  }
+  ]
 }

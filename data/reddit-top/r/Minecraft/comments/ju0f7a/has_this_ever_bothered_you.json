@@ -149,13 +149,15 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "",
-  "i18nResource": {
-    "zh": {
+  "original_created_utc": 1605352338,
+  "localize": [
+    {
+      "locale": "zh",
       "title": "这有没有困扰过你？"
     },
-    "zh-Hant": {
+    {
+      "locale": "zh-Hant",
       "title": "這有沒有困擾過妳？"
     }
-  },
-  "original_created_utc": 1605352338
+  ]
 }
