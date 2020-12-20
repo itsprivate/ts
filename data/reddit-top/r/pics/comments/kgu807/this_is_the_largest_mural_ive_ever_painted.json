@@ -157,5 +157,15 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1608471900,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "这是我画过的最大的壁画。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是我畫過的最大的壁畫。"
+    }
+  ]
 }
