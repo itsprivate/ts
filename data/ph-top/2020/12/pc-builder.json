@@ -68,5 +68,17 @@
       }
     ]
   },
-  "original_createdAt": "2020-12-21T08:22:33Z"
+  "original_createdAt": "2020-12-21T08:22:33Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "PC Builder是一个网站，帮助人们创建兼容的PC部件列表，而不会遇到任何兼容性问题。这个网站是以初学者为中心创建的，其主要目标是让每个人都能轻松兼容。",
+      "tagline": "用于构建PC的自定义PC部件选取器工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "PC Builder是一個網站，幫助人們創建兼容的PC部件列表，而不會遇到任何兼容性問題。這個網站是以初學者爲中心創建的，其主要目標是讓每個人都能輕鬆兼容。",
+      "tagline": "用於構建PC的自定義PC部件選取器工具"
+    }
+  ]
 }
