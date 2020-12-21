@@ -63,5 +63,17 @@
       }
     ]
   },
-  "original_createdAt": "2020-12-20T08:00:00Z"
+  "original_createdAt": "2020-12-20T08:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "计算网站对环境的影响，查看故障，并了解可以采取哪些措施来改善它。",
+      "tagline": "计算网页足迹，您可以为此做些什么。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "計算網站對環境的影響，查看故障，並瞭解可以採取哪些措施來改善它。",
+      "tagline": "計算網頁足跡，您可以爲此做些什麼。"
+    }
+  ]
 }
