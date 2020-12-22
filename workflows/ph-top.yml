@@ -7,7 +7,7 @@ on:
       Authorization: Bearer ${{secrets.PRODUCTHUNT_TOKEN}}
     requestConfig:
       axios-retry:
-        retries: 3
+        retries: 8
     query: |
       query {
         posts {
