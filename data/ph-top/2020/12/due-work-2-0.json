@@ -107,5 +107,17 @@
       }
     ]
   },
-  "original_createdAt": "2020-12-22T08:00:00Z"
+  "original_createdAt": "2020-12-22T08:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "-团队和任务&nbsp；-笔记和文档&nbsp；-讨论&nbsp；-反馈和路线图&nbsp；-知识库",
+      "tagline": "团队协作、反馈和知识库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "-團隊和任務&nbsp；-筆記和文檔&nbsp；-討論&nbsp；-反饋和路線圖&nbsp；-知識庫",
+      "tagline": "團隊協作、反饋和知識庫"
+    }
+  ]
 }
