@@ -50,6 +50,15 @@ const main = async ({ dest = "data/hn-top", name = "hn-top" } = {}) => {
     let tags = [];
     if (item._tags.length > 0) {
       tags = [item._tags[0]];
+      if (item._tags.includes("show_hn")) {
+        tags.push("Show HN");
+      }
+      if (item._tags.includes("ask_hn")) {
+        tags.push("ASK HN");
+      }
+      if (item._tags.includes("poll")) {
+        tags.push("Poll");
+      }
     }
     const locale = "en";
     const utcYear = originalCreatedAt.getUTCFullYear();
