@@ -88,5 +88,17 @@
       }
     ]
   },
-  "original_createdAt": "2020-12-21T08:00:00Z"
+  "original_createdAt": "2020-12-21T08:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "这是一本滑稽、实用、深入的排版指南，面向设计师和作者。",
+      "tagline": "一本供设计师、作者和文字爱好者使用的排版手册"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是一本滑稽、實用、深入的排版指南，面向設計師和作者。",
+      "tagline": "一本供設計師、作者和文字愛好者使用的排版手冊"
+    }
+  ]
 }
