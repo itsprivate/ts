@@ -1,4 +1,4 @@
-const zhJson = require("./locales/zh.json");
+const zhJson = require("../locales/zh.json");
 const replaceAll = require("string.prototype.replaceall");
 
 const locales = {
