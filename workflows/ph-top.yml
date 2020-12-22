@@ -5,6 +5,9 @@ on:
     itemsPath: data.posts.edges
     headers:
       Authorization: Bearer ${{secrets.PRODUCTHUNT_TOKEN}}
+    requestConfig:
+      axios-retry:
+        retries: 3
     query: |
       query {
         posts {

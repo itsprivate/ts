@@ -18,6 +18,8 @@ on:
         item.created_utc = Math.floor(Date.now() / 1000);
         return item
     requestConfig:
+      axios-retry:
+        retries: 3
       params:
         raw_json: 1
 jobs:
