@@ -28,6 +28,8 @@ jobs:
       #   with:
       #     message: "chore: new item"
       #     push: false
+      - name: chown
+        run: sudo chown -R $USER:$USER ./
       - run: git status
       - name: Create pull request
         uses: peter-evans/create-pull-request@v3
