@@ -110,5 +110,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1608828909,
-  "the_new_excerpt": "Is this unhealthy? Should I take a step back?"
+  "the_new_excerpt": "Is this unhealthy? Should I take a step back?",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这是不健康的吗？我应该后退一步吗？",
+      "title": "如果我每天不停地看比特币价格，每天看比特币视频，我是不是疯了？每天都潜伏着比特币线索？并全天刷新所有这些内容以检查是否有更新？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這是不健康的嗎？我應該後退一步嗎？",
+      "title": "如果我每天不停地看比特幣價格，每天看比特幣視頻，我是不是瘋了？每天都潛伏着比特幣線索？並全天刷新所有這些內容以檢查是否有更新？"
+    }
+  ]
 }
