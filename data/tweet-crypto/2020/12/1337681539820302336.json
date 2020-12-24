@@ -266,5 +266,17 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Sat Dec 12 08:51:46 +0000 2020"
+  "original_created_at": "Sat Dec 12 08:51:46 +0000 2020",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "中本聪(Satoshi Nakamoto https://t.co/6tlXNIUYgP)表示：“如果有足够多的人(和公司)有同样的想法，那么购买一些(#比特币)可能是有意义的。如果有足够多的人(和公司)有同样的想法，那就会成为一个自我实现的预言。”--中本聪",
+      "quoted_status_full_text": "根据1940年的“投资公司法”，MicroStrategy并不是一家投资公司(IC)。IC是公司。这使≥将40%的资产(减去现金和政府证券)投资于“证券”。根据美国证券交易委员会(SEC)的说法，#BTC不是一种安全措施。因此，持有BTC并不会导致MicroStrategy成为IC。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "中本聰(Satoshi Nakamoto https://t.co/6tlXNIUYgP)表示：“如果有足夠多的人(和公司)有同樣的想法，那麼購買一些(#比特幣)可能是有意義的。如果有足夠多的人(和公司)有同樣的想法，那就會成爲一個自我實現的預言。”--中本聰",
+      "quoted_status_full_text": "根據1940年的“投資公司法”，MicroStrategy並不是一家投資公司(IC)。IC是公司。這使≥將40%的資產(減去現金和政府證券)投資於“證券”。根據美國證券交易委員會(SEC)的說法，#BTC不是一種安全措施。因此，持有BTC並不會導致MicroStrategy成爲IC。"
+    }
+  ]
 }

@@ -120,5 +120,15 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "und",
-  "original_created_at": "Thu Nov 26 22:27:53 +0000 2020"
+  "original_created_at": "Thu Nov 26 22:27:53 +0000 2020",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "#比特币\nhttps://t.co/oZ5hCy6I7k"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "#比特幣\nhttps://t.co/oZ5hCy6I7k"
+    }
+  ]
 }

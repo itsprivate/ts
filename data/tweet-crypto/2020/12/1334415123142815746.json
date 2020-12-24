@@ -495,5 +495,17 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Thu Dec 03 08:32:12 +0000 2020"
+  "original_created_at": "Thu Dec 03 08:32:12 +0000 2020",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "rt@block folio：所有加密推特到比特币rn：https://t.co/3qhRpyEe9h",
+      "retweeted_status_full_text": "所有加密推特到比特币rn：https://t.co/3qhRpyEe9h"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "rt@block folio：所有加密推特到比特幣rn：https://t.co/3qhRpyEe9h",
+      "retweeted_status_full_text": "所有加密推特到比特幣rn：https://t.co/3qhRpyEe9h"
+    }
+  ]
 }

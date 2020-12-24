@@ -188,5 +188,15 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Sat Dec 19 13:19:14 +0000 2020"
+  "original_created_at": "Sat Dec 19 13:19:14 +0000 2020",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "#比特币看起来很强劲，尽管美国KYC/AML垃圾https://t.co/D01V0omOiW"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "#比特幣看起來很強勁，儘管美國KYC/AML垃圾https://t.co/D01V0omOiW"
+    }
+  ]
 }
