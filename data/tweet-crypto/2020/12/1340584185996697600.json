@@ -193,5 +193,17 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Sun Dec 20 09:05:51 +0000 2020"
+  "original_created_at": "Sun Dec 20 09:05:51 +0000 2020",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "rt@elonmusk：比特币是我的安全密码",
+      "retweeted_status_full_text": "比特币是我的安全密码"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "rt@elonmusk：比特幣是我的安全密碼",
+      "retweeted_status_full_text": "比特幣是我的安全密碼"
+    }
+  ]
 }

@@ -231,5 +231,17 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Wed Dec 16 10:12:37 +0000 2020"
+  "original_created_at": "Wed Dec 16 10:12:37 +0000 2020",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "#比特币投资者https://t.co/34wqkjAJfK也是如此。",
+      "quoted_status_full_text": "我相当有信心在未来24小时内达成刺激协议。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "#比特幣投資者https://t.co/34wqkjAJfK也是如此。",
+      "quoted_status_full_text": "我相當有信心在未來24小時內達成刺激協議。"
+    }
+  ]
 }

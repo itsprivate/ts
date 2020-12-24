@@ -388,5 +388,17 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Fri Dec 18 16:04:15 +0000 2020"
+  "original_created_at": "Fri Dec 18 16:04:15 +0000 2020",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "rt@prestonPysh：有疑问时。缩小。\n#比特币https://t.co/RQfhqBp0je",
+      "retweeted_status_full_text": "当你有疑问的时候。缩小。\n#比特币https://t.co/RQfhqBp0je"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "rt@prestonPysh：有疑問時。縮小。\n#比特幣https://t.co/RQfhqBp0je",
+      "retweeted_status_full_text": "當你有疑問的時候。縮小。\n#比特幣https://t.co/RQfhqBp0je"
+    }
+  ]
 }

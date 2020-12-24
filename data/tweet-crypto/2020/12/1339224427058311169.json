@@ -206,5 +206,17 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Wed Dec 16 15:02:39 +0000 2020"
+  "original_created_at": "Wed Dec 16 15:02:39 +0000 2020",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT@斯诺登：一个词：比特币。",
+      "retweeted_status_full_text": "一个词：比特币。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT@斯諾登：一個詞：比特幣。",
+      "retweeted_status_full_text": "一個詞：比特幣。"
+    }
+  ]
 }
