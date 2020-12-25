@@ -86,5 +86,17 @@
       }
     ]
   },
-  "original_createdAt": "2020-12-25T08:00:00Z"
+  "original_createdAt": "2020-12-25T08:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "SnapSmilar是一款应用程序，它使用你的饮食习惯+你的牙齿图像，为你提供改善家里口腔健康所需的洞察力和建议。把SnapSmilar想象成你自己的牙科教练。",
+      "tagline": "我们使用机器学习来帮助改善您的牙齿健康"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "SnapSmilar是一款應用程序，它使用你的飲食習慣+你的牙齒圖像，爲你提供改善家裏口腔健康所需的洞察力和建議。把SnapSmilar想象成你自己的牙科教練。",
+      "tagline": "我們使用機器學習來幫助改善您的牙齒健康"
+    }
+  ]
 }
