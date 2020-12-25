@@ -52,8 +52,7 @@ const main = async ({
           });
       });
     const title = item.title;
-    const id = item.objectID;
-    let tags = [];
+    let tags = item.tags || [];
 
     const locale = "en";
     const utcYear = originalCreatedAt.getUTCFullYear();
