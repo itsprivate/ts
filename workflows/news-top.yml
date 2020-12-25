@@ -15,6 +15,7 @@ on:
         item.original_created_at = item.isoDate;
         item.created_at = new Date().toISOString()
         item.id = helpers.createContentDigest(item.guid)
+        item.tags = [source];
         return item
       limit: 10
       # force: true
