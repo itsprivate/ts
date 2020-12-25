@@ -73,5 +73,17 @@
       }
     ]
   },
-  "original_createdAt": "2020-12-24T08:00:00Z"
+  "original_createdAt": "2020-12-24T08:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "我们制造会说话的形状。形状有个性，有边和角。",
+      "tagline": "GPT-3动力机器人"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們製造會說話的形狀。形狀有個性，有邊和角。",
+      "tagline": "GPT-3動力機器人"
+    }
+  ]
 }
