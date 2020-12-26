@@ -91,5 +91,15 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Sat Dec 26 13:33:46 +0000 2020"
+  "original_created_at": "Sat Dec 26 13:33:46 +0000 2020",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "我不敢相信HQ Trivia曾经拥有1750亿美元的市值。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "我不敢相信HQ Trivia曾經擁有1750億美元的市值。"
+    }
+  ]
 }
