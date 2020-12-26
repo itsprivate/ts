@@ -8,6 +8,8 @@ const main = async ({
   dateField = "created_at",
   idField = `objectID`,
   type = "hn",
+  isTranslateTag = true,
+  translationFields = ["title"],
 } = {}) => {
   const outputs = require(`${process.env.GITHUB_WORKSPACE}/${process.env.OUTPUTS_PATH}`);
   for (let i = 0; i < outputs.length; i++) {
@@ -58,62 +60,65 @@ const main = async ({
     const utcYear = originalCreatedAt.getUTCFullYear();
     const utcMonth = originalCreatedAt.getUTCMonth() + 1;
     const addZeroUtcMonth = utcMonth < 10 ? `0${utcMonth}` : `${utcMonth}`;
-    const titleLocaleFileName = `${type}_--_${name}_--_title_--_${utcYear}_--_${addZeroUtcMonth}.json`;
 
-    const filePath = `./i18n/post-resource/${locale}/${titleLocaleFileName}`;
-    const absoluteFilePath = path.resolve(
-      process.env.GITHUB_WORKSPACE,
-      filePath
-    );
-
-    const tagFilePath = `./i18n/i18next/${locale}/translation-tag.json`;
-    const absoluteTagFilePath = path.resolve(
-      process.env.GITHUB_WORKSPACE,
-      tagFilePath
-    );
-    const isExist = fsPure.existsSync(absoluteFilePath);
-    if (!isExist) {
-      await fs.writeFile(absoluteFilePath, "{}");
+    for (let h = 0; h < translationFields.length; h++) {
+      const field = translationFields[h];
+      const fieldLocaleFileName = `${type}_--_${name}_--_${field}_--_${utcYear}_--_${addZeroUtcMonth}.json`;
+      const filePath = `./i18n/post-resource/${locale}/${fieldLocaleFileName}`;
+      const absoluteFilePath = path.resolve(
+        process.env.GITHUB_WORKSPACE,
+        filePath
+      );
+      const isExist = fsPure.existsSync(absoluteFilePath);
+      if (!isExist) {
+        await fs.writeFile(absoluteFilePath, "{}");
+      }
+      const localeJson = await fs.readFile(absoluteFilePath, "utf8");
+      const localeObj = JSON.parse(localeJson);
+      if (item[field]) {
+        if (localeObj[fileRelativePath] !== item[field]) {
+          localeObj[fileRelativePath] = item[field];
+          // write
+          await fs.writeFile(
+            absoluteFilePath,
+            JSON.stringify(localeObj, null, 2)
+          );
+          console.log(`Write ${filePath} success`);
+        }
+      }
     }
 
-    const isTagFileExist = fsPure.existsSync(absoluteTagFilePath);
-    if (!isTagFileExist) {
-      await fs.writeFile(absoluteTagFilePath, "{}");
-    }
-
-    const localeJson = await fs.readFile(absoluteFilePath, "utf8");
-    const localeObj = JSON.parse(localeJson);
-    if (title) {
-      if (localeObj[fileRelativePath] !== title) {
-        localeObj[fileRelativePath] = title;
+    if (isTranslateTag) {
+      const tagFilePath = `./i18n/i18next/${locale}/translation-tag.json`;
+      const absoluteTagFilePath = path.resolve(
+        process.env.GITHUB_WORKSPACE,
+        tagFilePath
+      );
+      const isTagFileExist = fsPure.existsSync(absoluteTagFilePath);
+      if (!isTagFileExist) {
+        await fs.writeFile(absoluteTagFilePath, "{}");
+      }
+      const tagLocaleJson = await fs.readFile(absoluteTagFilePath, "utf8");
+      const tagLocaleObj = JSON.parse(tagLocaleJson);
+      let isChanged = false;
+      tags.forEach((tag) => {
+        if (!tagLocaleObj[tag]) {
+          isChanged = true;
+          tagLocaleObj[tag] = tag;
+        }
+      });
+      if (isChanged) {
         // write
         await fs.writeFile(
-          absoluteFilePath,
-          JSON.stringify(localeObj, null, 2)
+          absoluteTagFilePath,
+          JSON.stringify(tagLocaleObj, null, 2)
         );
-        console.log(`Write ${filePath} success`);
+        console.log(`Write ${tagFilePath} success`);
+      } else {
+        console.log(`No changes for tags, skip write tag file`);
       }
     }
 
-    const tagLocaleJson = await fs.readFile(absoluteTagFilePath, "utf8");
-    const tagLocaleObj = JSON.parse(tagLocaleJson);
-    let isChanged = false;
-    tags.forEach((tag) => {
-      if (!tagLocaleObj[tag]) {
-        isChanged = true;
-        tagLocaleObj[tag] = tag;
-      }
-    });
-    if (isChanged) {
-      // write
-      await fs.writeFile(
-        absoluteTagFilePath,
-        JSON.stringify(tagLocaleObj, null, 2)
-      );
-      console.log(`Write ${tagFilePath} success`);
-    } else {
-      console.log(`No changes for tags, skip write tag file`);
-    }
     console.log("\n");
   }
 

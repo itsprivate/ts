@@ -90,11 +90,11 @@ const main = async ({
       retweetFilePath
     );
 
-    const tagFilePath = `./i18n/i18next/${locale}/translation-tag.json`;
-    const absoluteTagFilePath = path.resolve(
-      process.env.GITHUB_WORKSPACE,
-      tagFilePath
-    );
+    // const tagFilePath = `./i18n/i18next/${locale}/translation-tag.json`;
+    // const absoluteTagFilePath = path.resolve(
+    //   process.env.GITHUB_WORKSPACE,
+    //   tagFilePath
+    // );
     const isExist = fsPure.existsSync(absoluteFilePath);
     if (!isExist) {
       await fs.writeFile(absoluteFilePath, "{}");
@@ -107,10 +107,10 @@ const main = async ({
     if (!isRetweetExist) {
       await fs.writeFile(absoluteRetweetFilePath, "{}");
     }
-    const isTagFileExist = fsPure.existsSync(absoluteTagFilePath);
-    if (!isTagFileExist) {
-      await fs.writeFile(absoluteTagFilePath, "{}");
-    }
+    // const isTagFileExist = fsPure.existsSync(absoluteTagFilePath);
+    // if (!isTagFileExist) {
+    //   await fs.writeFile(absoluteTagFilePath, "{}");
+    // }
 
     const localeJson = await fs.readFile(absoluteFilePath, "utf8");
     const localeObj = JSON.parse(localeJson);
@@ -157,25 +157,25 @@ const main = async ({
       }
     }
 
-    const tagLocaleJson = await fs.readFile(absoluteTagFilePath, "utf8");
-    const tagLocaleObj = JSON.parse(tagLocaleJson);
-    let isChanged = false;
-    tags.forEach((tag) => {
-      if (!tagLocaleObj[tag]) {
-        isChanged = true;
-        tagLocaleObj[tag] = tag;
-      }
-    });
-    if (isChanged) {
-      // write
-      await fs.writeFile(
-        absoluteTagFilePath,
-        JSON.stringify(tagLocaleObj, null, 2)
-      );
-      console.log(`Write ${tagFilePath} success`);
-    } else {
-      console.log(`No changes for tags, skip write tag file`);
-    }
+    // const tagLocaleJson = await fs.readFile(absoluteTagFilePath, "utf8");
+    // const tagLocaleObj = JSON.parse(tagLocaleJson);
+    // let isChanged = false;
+    // tags.forEach((tag) => {
+    //   if (!tagLocaleObj[tag]) {
+    //     isChanged = true;
+    //     tagLocaleObj[tag] = tag;
+    //   }
+    // });
+    // if (isChanged) {
+    //   // write
+    //   await fs.writeFile(
+    //     absoluteTagFilePath,
+    //     JSON.stringify(tagLocaleObj, null, 2)
+    //   );
+    //   console.log(`Write ${tagFilePath} success`);
+    // } else {
+    //   console.log(`No changes for tags, skip write tag file`);
+    // }
     console.log("\n");
   }
 
