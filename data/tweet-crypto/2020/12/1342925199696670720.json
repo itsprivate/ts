@@ -206,5 +206,17 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Sat Dec 26 20:08:12 +0000 2020"
+  "original_created_at": "Sat Dec 26 20:08:12 +0000 2020",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "rt@saifedian：我在一条推文中提出了硬钱降低时间偏好的理论：\n\n钱越硬，就越有可能保持…的价值",
+      "retweeted_status_full_text": "我在一条推文中解释了硬通货为什么会降低时间偏好：\n\n钱越硬，就越有可能为未来保值。你越能给未来带来价值，未来变得越不确定，你对未来的贴现就越少。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "rt@saifedian：我在一條推文中提出了硬錢降低時間偏好的理論：\n\n錢越硬，就越有可能保持…的價值",
+      "retweeted_status_full_text": "我在一條推文中解釋了硬通貨爲什麼會降低時間偏好：\n\n錢越硬，就越有可能爲未來保值。你越能給未來帶來價值，未來變得越不確定，你對未來的貼現就越少。"
+    }
+  ]
 }

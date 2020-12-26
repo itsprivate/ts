@@ -531,5 +531,17 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Sat Dec 26 20:40:11 +0000 2020"
+  "original_created_at": "Sat Dec 26 20:40:11 +0000 2020",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "rt@100万亿美元：#比特币 供应短缺传入https://t.co/WluW2PWNpa",
+      "retweeted_status_full_text": "#比特币 供应短缺传入https://t.co/WluW2PWNpa"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "rt@100萬億美元：#比特幣 供應短缺傳入https://t.co/WluW2PWNpa",
+      "retweeted_status_full_text": "#比特幣 供應短缺傳入https://t.co/WluW2PWNpa"
+    }
+  ]
 }
