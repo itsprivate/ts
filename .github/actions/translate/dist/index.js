@@ -211,6 +211,21 @@ main()
 
 /***/ }),
 
+/***/ 9637:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+const replaceAll = __webpack_require__(45371);
+
+module.exports = (data) => {
+  if (data.Source === "en" && data.Target === "zh" && data.TargetText) {
+    data.TargetText = replaceAll(data.TargetText, /%%/g, " ");
+  }
+  return data;
+};
+
+
+/***/ }),
+
 /***/ 941:
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
@@ -229,7 +244,12 @@ module.exports = ({ text, lang = "zh" }) => {
 
       text = replaceAll(text, key, value);
     });
+    // tag space encode
+    if (text) {
+      text = replaceAll(text, /\B(#\w\w+\b)/g, "$1%%");
+    }
   }
+
   // if include $XXX
   const matchedResult = text.match(/(\$[A-Z]+[0-9]*)\s/);
   let untranslatedText;
@@ -251,7 +271,7 @@ module.exports = ({ text, lang = "zh" }) => {
 const preTranslate = __webpack_require__(941);
 const OpenCC = __webpack_require__(19844);
 const converter = new OpenCC("s2t.json");
-
+const postTranslate = __webpack_require__(9637);
 module.exports = async ({
   client,
   sourceText,
@@ -292,7 +312,8 @@ module.exports = async ({
   }
 
   const data = await client.TextTranslate(params);
-  return data;
+
+  return postTranslate(data);
 };
 
 
