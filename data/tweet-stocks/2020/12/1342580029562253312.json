@@ -110,5 +110,15 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Fri Dec 25 21:16:37 +0000 2020"
+  "original_created_at": "Fri Dec 25 21:16:37 +0000 2020",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "圣诞节午睡是一年中最好的午睡时间。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "聖誕節午睡是一年中最好的午睡時間。"
+    }
+  ]
 }
