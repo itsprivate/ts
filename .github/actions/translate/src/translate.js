@@ -1,7 +1,7 @@
 const preTranslate = require("./pre-translate");
 const OpenCC = require("opencc");
 const converter = new OpenCC("s2t.json");
-
+const postTranslate = require("./post-translate");
 module.exports = async ({
   client,
   sourceText,
@@ -42,5 +42,6 @@ module.exports = async ({
   }
 
   const data = await client.TextTranslate(params);
-  return data;
+
+  return postTranslate(data);
 };

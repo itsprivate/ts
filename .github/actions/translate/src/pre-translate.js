@@ -13,7 +13,12 @@ module.exports = ({ text, lang = "zh" }) => {
 
       text = replaceAll(text, key, value);
     });
+    // tag space encode
+    if (text) {
+      text = replaceAll(text, /\B(#\w\w+\b)/g, "$1%%");
+    }
   }
+
   // if include $XXX
   const matchedResult = text.match(/(\$[A-Z]+[0-9]*)\s/);
   let untranslatedText;
