@@ -14,5 +14,15 @@
   "tags": [
     "Fox News"
   ],
-  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/moderna-vaccine.jpg"
+  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/moderna-vaccine.jpg",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "据报道，医生对现代冠状病毒疫苗有严重过敏反应"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "據報道，醫生對現代冠狀病毒疫苗有嚴重過敏反應"
+    }
+  ]
 }
