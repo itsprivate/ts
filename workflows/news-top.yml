@@ -40,6 +40,7 @@ jobs:
                 dest : "data/redirect-newstop",
                 name : "redirect-newstop",
                 idField : `id`,
+                isGetMeta: true,
                 type : "redirect",
             })
             return true
