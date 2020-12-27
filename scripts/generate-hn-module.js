@@ -18,9 +18,16 @@ const main = async ({ dest = "data/hn-top", name = "hn-top" } = {}) => {
       fileRelativePath
     );
     // get metadata
-    const meta = await getMeta(item.url);
-    if (meta && meta.image) {
-      item.image = meta.image;
+    const itemUrl = item.url || item.link;
+    if (itemUrl) {
+      const meta = await getMeta(itemUrl);
+      if (meta && meta.image) {
+        item.image = meta.image;
+      } else {
+        item.image = "";
+      }
+    } else {
+      item.image = "";
     }
     console.log(`Write hn json ${hnFilePath}`);
     // is exist

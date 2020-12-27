@@ -2,11 +2,11 @@ const micromatch = require("micromatch");
 const { resolve, relative } = require("path");
 const fsPure = require("fs");
 const fs = fsPure.promises;
-const getMeta = require("./get-metadata/mac.index");
+const getMeta = require("./src/get-metadata");
 
 const { readdir, readFile, writeFile } = fs;
 async function main() {
-  const files = await getFiles(resolve(__dirname, "../data/redirect-newstop"));
+  const files = await getFiles(resolve(__dirname, "../data/hn-top"));
   const jsonFiles = micromatch(files, "**/*.json");
   for (let i = 0; i < jsonFiles.length; i++) {
     const jsonPath = resolve(__dirname, "../", jsonFiles[i]);
@@ -15,9 +15,25 @@ async function main() {
 
     if (json && json.image === undefined) {
       // get metadata
-      const meta = await getMeta(json.url || json.link);
-      if (meta && meta.image) {
-        json.image = meta.image;
+      const itemUrl = json.url || json.link;
+      if (itemUrl) {
+        try {
+          console.log("itemUrl", itemUrl);
+
+          const meta = await getMeta(itemUrl);
+          console.log("meta", meta);
+
+          if (meta && meta.image) {
+            json.image = meta.image;
+          } else {
+            json.image = "";
+          }
+        } catch (error) {
+          console.log("error", error);
+
+          console.warn("get image from ${itemUrl} failed", error);
+          json.image = "";
+        }
       } else {
         json.image = "";
       }
