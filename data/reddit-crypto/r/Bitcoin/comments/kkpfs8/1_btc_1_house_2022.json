@@ -103,5 +103,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1609014999,
-  "the_new_excerpt": "Start the meme."
+  "the_new_excerpt": "Start the meme.",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "开始发表情包吧。",
+      "title": "1 BTC=1栋房子2022"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "開始發表情包吧。",
+      "title": "1 BTC=1棟房子2022"
+    }
+  ]
 }
