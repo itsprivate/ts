@@ -533,5 +533,17 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Sun Dec 27 13:34:45 +0000 2020"
+  "original_created_at": "Sun Dec 27 13:34:45 +0000 2020",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT@saifedian：比特币的价格继续以惊人的精度跟踪@100万亿美元的库存到流量模型的预测值…",
+      "retweeted_status_full_text": "比特币的价格继续以惊人的精度跟踪@100万亿美元的库存到流量模型的预测值。https://t.co/lNoCmegzp3"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT@saifedian：比特幣的價格繼續以驚人的精度跟蹤@100萬億美元的庫存到流量模型的預測值…",
+      "retweeted_status_full_text": "比特幣的價格繼續以驚人的精度跟蹤@100萬億美元的庫存到流量模型的預測值。https://t.co/lNoCmegzp3"
+    }
+  ]
 }
