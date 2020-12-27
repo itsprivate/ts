@@ -103,5 +103,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1609011086,
-  "the_new_excerpt": "easy peasy."
+  "the_new_excerpt": "easy peasy.",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "很简单。",
+      "title": "新年3万美元。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "很簡單。",
+      "title": "新年3萬美元。"
+    }
+  ]
 }
