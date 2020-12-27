@@ -14,7 +14,10 @@ on:
         }
         item.original_created_at = item.isoDate;
         item.created_at = new Date().toISOString()
-        item.id = helpers.createContentDigest(item.guid)
+        const uniqueId = helpers.createContentDigest(item.link)
+        item.original_guid = item.guid;
+        item.id = uniqueId;
+        item.guid = uniqueId;
         item.tags = [source];
         return item
       limit: 10
