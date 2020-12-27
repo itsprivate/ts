@@ -6,7 +6,7 @@ const getMeta = require("./src/get-metadata");
 
 const { readdir, readFile, writeFile } = fs;
 async function main() {
-  const files = await getFiles(resolve(__dirname, "../data/hn-top"));
+  const files = await getFiles(resolve(__dirname, "../data/redirect-newstop"));
   const jsonFiles = micromatch(files, "**/*.json");
   for (let i = 0; i < jsonFiles.length; i++) {
     const jsonPath = resolve(__dirname, "../", jsonFiles[i]);
