@@ -1,7 +1,7 @@
 const path = require("path");
 const fsPure = require("fs");
 const fs = fsPure.promises;
-
+const getMeta = require("./get-metadata");
 const main = async ({ dest = "data/hn-top", name = "hn-top" } = {}) => {
   const outputs = require(`${process.env.GITHUB_WORKSPACE}/${process.env.OUTPUTS_PATH}`);
   for (let i = 0; i < outputs.length; i++) {
@@ -17,6 +17,11 @@ const main = async ({ dest = "data/hn-top", name = "hn-top" } = {}) => {
       process.env.GITHUB_WORKSPACE,
       fileRelativePath
     );
+    // get metadata
+    const meta = await getMeta(item.url);
+    if (meta && meta.image) {
+      item.image = meta.image;
+    }
     console.log(`Write hn json ${hnFilePath}`);
     // is exist
     const isTargetFileExist = fsPure.existsSync(hnFilePath);

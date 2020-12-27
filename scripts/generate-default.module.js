@@ -1,6 +1,7 @@
 const path = require("path");
 const fsPure = require("fs");
 const fs = fsPure.promises;
+const getMeta = require("./get-metadata");
 
 const main = async ({
   dest = "data/default-newstop",
@@ -9,6 +10,7 @@ const main = async ({
   idField = `objectID`,
   type = "hn",
   isTranslateTag = true,
+  isGetMeta = false,
   translationFields = ["title"],
 } = {}) => {
   const outputs = require(`${process.env.GITHUB_WORKSPACE}/${process.env.OUTPUTS_PATH}`);
@@ -25,6 +27,13 @@ const main = async ({
       process.env.GITHUB_WORKSPACE,
       fileRelativePath
     );
+    if (isGetMeta) {
+      // get metadata
+      const meta = await getMeta(item.url);
+      if (meta && meta.image) {
+        item.image = meta.image;
+      }
+    }
     console.log(`Write json ${hnFilePath}`);
     // is exist
     const isTargetFileExist = fsPure.existsSync(hnFilePath);
