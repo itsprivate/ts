@@ -25,7 +25,7 @@ async function main() {
       },
       paramsParser: (item) => {
         return {
-          name: item.naem,
+          name: item.name,
         };
       },
     },
@@ -47,7 +47,8 @@ async function main() {
     const type = directory.split("-")[0];
     const files = await getFiles(resolve(__dirname, `../data/${directory}`));
     const jsonFiles = micromatch(files, "**/*.json");
-    if (type === "youtube") {
+    let queueIndex = 0;
+    if (type === "youtube" || type === "reddit") {
       for (let i = 0; i < jsonFiles.length; i++) {
         const jsonPath = resolve(__dirname, "../", jsonFiles[i]);
         const jsonContent = await readFile(jsonPath, "utf8");
@@ -67,10 +68,12 @@ async function main() {
               ? fields[type].dateParser
               : (item) => new Date(item.created_at);
           const createdAt = dateParser(item);
-          console.log("createdAt", createdAt);
-          console.log("period", period);
 
           if (createdAt < period.end && createdAt >= period.start) {
+            queueIndex++;
+            if (queueIndex > 10) {
+              break;
+            }
             // check created at is belong the issue
             const paramsParser =
               fields[type] && fields[type].paramsParser
@@ -105,7 +108,6 @@ async function main() {
   typeKeys.forEach((typeKey) => {
     const currentTypeQueues = typeQueues[typeKey];
     const pages = Math.ceil(currentTypeQueues.length / queuesPerGroup);
-    console.log("pages", pages);
 
     for (let k = 0; k < pages; k++) {
       const page = k;
@@ -120,18 +122,16 @@ async function main() {
       groups.push(group);
     }
   });
-  console.log("groups", groups);
   for (let i = 0; i < groups.length; i++) {
     const group = groups[i];
     const type = group.type;
     const items = group.items;
-    console.log("items", items);
 
     const resultObj = await getList({
       type,
       params: items.map((item) => item.params),
     });
-    console.log("resultObj", resultObj);
+    console.log("resultObj", Object.keys(resultObj).length);
 
     for (let k = 0; k < items.length; k++) {
       const item = items[k];
@@ -140,8 +140,9 @@ async function main() {
         if (resultObj && resultObj[item.params.name]) {
           // write
           originalItem.score = resultObj[item.params.name].score;
-          console.log(`write ${item.path}`);
-          await writeFile(item.path, JSON.stringify(originalItem, null, 2));
+          originalItem.ups = resultObj[item.params.name].score;
+
+          await writeJson(item.path, originalItem);
         } else {
           console.warn(`there is no ${item.path} update result`);
         }
@@ -188,9 +189,9 @@ async function getFiles(dir) {
 
 function getLastUpdatedPeriod() {
   const now = Date.now();
-  const period = 7 * 24 * 60 * 60 * 1000;
+  const period = 8 * 24 * 60 * 60 * 1000;
   const start = now - period;
-  const end = now;
+  const end = now - 1 * 24 * 60 * 60 * 1000;
   return {
     start,
     end,
