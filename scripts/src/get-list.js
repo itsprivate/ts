@@ -14,8 +14,6 @@ const redditInit = {
 
 const reddit = new Reddit(redditInit);
 exports.getList = async ({ type, params }) => {
-  console.log("type, params", type, params);
-
   if (type === "youtube") {
     const results = await Youtube.videos.list({
       part: "statistics",

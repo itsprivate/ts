@@ -1,7 +1,7 @@
-require("dotenv").config();
+// require("dotenv").config();
 
 const micromatch = require("micromatch");
-const { resolve, relative } = require("path");
+const { resolve, relative, basename } = require("path");
 const fsPure = require("fs");
 const fs = fsPure.promises;
 const { getList } = require("./get-list");
@@ -9,11 +9,11 @@ const { getList } = require("./get-list");
 const { readdir, readFile, writeFile } = fs;
 async function main() {
   const directories = [
-    "reddit-top",
-    "tweet-stocks",
-    "youtube-top",
-    "hn-top",
-    "ph-top",
+    "data/reddit-top",
+    "data/tweet-stocks",
+    "data/youtube-top",
+    "data/hn-top",
+    "data/ph-top",
   ];
   const now = Date.now();
 
@@ -44,13 +44,16 @@ async function main() {
   const period = getLastUpdatedPeriod();
   for (let o = 0; o < directories.length; o++) {
     const directory = directories[o];
-    const type = directory.split("-")[0];
-    const files = await getFiles(resolve(__dirname, `../../data/${directory}`));
+    const type = basename(directory).split("-")[0];
+    const folder = resolve(__dirname, `../../`, directory);
+    const files = await getFiles(folder);
     const jsonFiles = micromatch(files, "**/*.json");
     let queueIndex = 0;
     if (type === "youtube" || type === "reddit") {
       for (let i = 0; i < jsonFiles.length; i++) {
         const jsonPath = resolve(__dirname, "../../", jsonFiles[i]);
+        console.log("jsonPath", jsonPath);
+
         const jsonContent = await readFile(jsonPath, "utf8");
         let item = JSON.parse(jsonContent);
 
