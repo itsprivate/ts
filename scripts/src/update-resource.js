@@ -40,9 +40,22 @@ async function main() {
       },
     },
     hn: {
+      dateParser: (item) => {
+        return new Date(item.created_at);
+      },
       paramsParser: (item) => {
         return {
           id: item.objectID,
+        };
+      },
+    },
+    ph: {
+      dateParser: (item) => {
+        return new Date(item.createdAt);
+      },
+      paramsParser: (item) => {
+        return {
+          id: item.id,
         };
       },
     },
@@ -56,7 +69,14 @@ async function main() {
     const files = await getFiles(folder);
     const jsonFiles = micromatch(files, "**/*.json");
     let queueIndex = 0;
-    if (type === "youtube" || type === "reddit" || type === "hn") {
+    console.log("type", type);
+
+    if (
+      type === "youtube" ||
+      type === "reddit" ||
+      type === "hn" ||
+      type === "ph"
+    ) {
       for (let i = 0; i < jsonFiles.length; i++) {
         const jsonPath = resolve(__dirname, "../../", jsonFiles[i]);
         const jsonContent = await readFile(jsonPath, "utf8");
@@ -128,6 +148,8 @@ async function main() {
       groups.push(group);
     }
   });
+  console.log("groups", groups);
+
   for (let i = 0; i < groups.length; i++) {
     const group = groups[i];
     const type = group.type;
@@ -137,7 +159,7 @@ async function main() {
       type,
       params: items.map((item) => item.params),
     });
-    console.log("resultObj", resultObj);
+    // console.log("resultObj", resultObj);
 
     for (let k = 0; k < items.length; k++) {
       const item = items[k];
@@ -172,6 +194,14 @@ async function main() {
         if (resultObj && resultObj[item.params.id]) {
           // write
           originalItem.points = resultObj[item.params.id].score;
+          await writeJson(item.path, originalItem);
+        } else {
+          console.warn(`there is no ${item.path} update result`);
+        }
+      } else if (type === "ph") {
+        if (resultObj && resultObj[item.params.id]) {
+          // write
+          originalItem.votesCount = resultObj[item.params.id].votesCount;
           await writeJson(item.path, originalItem);
         } else {
           console.warn(`there is no ${item.path} update result`);

@@ -18,6 +18,7 @@ jobs:
           REDDIT_APP_ID: ${{secrets.REDDIT_APP_ID}}
           REDDIT_USERNAME: ${{secrets.REDDIT_USERNAME}}
           REDDIT_PASSWORD: ${{secrets.REDDIT_PASSWORD}}
+          PRODUCTHUNT_TOKEN: ${{secrets.PRODUCTHUNT_TOKEN}}
         with:
           script: |
             const updateResource = require(`${process.env.GITHUB_WORKSPACE}/scripts/update-resource/index.js`)

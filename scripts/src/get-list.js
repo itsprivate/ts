@@ -30,26 +30,49 @@ exports.getList = async ({ type, params }) => {
       res.data.children.map((item) => item.data),
       "name"
     );
+  } else if (type === "ph") {
+    const promises = params
+      .map((item) => item.id)
+      .map((id) => {
+        return axios(`https://api.producthunt.com/v2/api/graphql`, {
+          method: "POST",
+          data: {
+            query: `query {
+                post(id: "${id}"){
+                  id
+                  votesCount
+                }
+              }`,
+            variables: {},
+          },
+          headers: {
+            Authorization: `Bearer ${process.env.PRODUCTHUNT_TOKEN}`,
+          },
+        })
+          .then((data) => {
+            return data.data.data.post;
+          })
+          .catch((e) => null);
+      });
+    const results = await Promise.all(promises).then((data) => {
+      return data.filter((item) => !!item).map((item) => item);
+    });
+    return generateObj(results, "id");
   } else if (type === "hn") {
-    console.log("params", params);
-
     const promises = params
       .map((item) => item.id)
       .map((id) => {
         return axios
           .get(`https://hacker-news.firebaseio.com/v0/item/${id}.json`)
           .then((data) => {
-            console.log("data1", data);
-
             return data.data;
-          });
+          })
+          .catch((e) => null);
       });
-    const hnResults = await Promise.all(promises).then((data) => {
-      console.log("data", data);
-
+    const results = await Promise.all(promises).then((data) => {
       return data.filter((item) => !!item).map((item) => item);
     });
-    return generateObj(hnResults, "id");
+    return generateObj(results, "id");
   } else {
     return {};
   }
