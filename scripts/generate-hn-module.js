@@ -20,10 +20,17 @@ const main = async ({ dest = "data/hn-top", name = "hn-top" } = {}) => {
     // get metadata
     const itemUrl = item.url || item.link;
     if (itemUrl) {
-      const meta = await getMeta(itemUrl);
-      if (meta && meta.image) {
-        item.image = meta.image;
-      } else {
+      try {
+        const meta = await getMeta(itemUrl);
+        if (meta && meta.image) {
+          item.image = meta.image;
+        } else {
+          item.image = "";
+        }
+      } catch (error) {
+        console.log("error", error);
+
+        console.warn("get image from ${itemUrl} failed", error);
         item.image = "";
       }
     } else {
