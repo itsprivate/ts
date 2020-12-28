@@ -45,12 +45,12 @@ async function main() {
   for (let o = 0; o < directories.length; o++) {
     const directory = directories[o];
     const type = directory.split("-")[0];
-    const files = await getFiles(resolve(__dirname, `../data/${directory}`));
+    const files = await getFiles(resolve(__dirname, `../../data/${directory}`));
     const jsonFiles = micromatch(files, "**/*.json");
     let queueIndex = 0;
     if (type === "youtube" || type === "reddit") {
       for (let i = 0; i < jsonFiles.length; i++) {
-        const jsonPath = resolve(__dirname, "../", jsonFiles[i]);
+        const jsonPath = resolve(__dirname, "../../", jsonFiles[i]);
         const jsonContent = await readFile(jsonPath, "utf8");
         let item = JSON.parse(jsonContent);
 
