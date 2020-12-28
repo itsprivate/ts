@@ -14,5 +14,15 @@
   "tags": [
     "BBC News"
   ],
-  "image": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.1.0/bbc_news_logo.png"
+  "image": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.1.0/bbc_news_logo.png",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "冠状病毒：韩国出现首例英格兰变异病例"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "冠狀病毒：韓國出現首例英格蘭變異病例"
+    }
+  ]
 }
