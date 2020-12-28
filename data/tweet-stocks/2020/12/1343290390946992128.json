@@ -256,5 +256,15 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Sun Dec 27 20:19:20 +0000 2020"
+  "original_created_at": "Sun Dec 27 20:19:20 +0000 2020",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "餐厅老板在搬家\nhttps://t.co/1OLylQoqQ5"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "餐廳老闆在搬家\nhttps://t.co/1OLylQoqQ5"
+    }
+  ]
 }
