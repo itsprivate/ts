@@ -1,0 +1,27 @@
+name: Update resource
+on:
+  repository_dispatch:
+  workflow_dispatch:
+  schedule:
+    - cron: "35 9 * * FRI"
+jobs:
+  update:
+    name: save to json
+    runs-on: ubuntu-latest
+    steps:
+      - name: update resource
+        uses: actions/github-script@v3
+        with:
+          script: |
+            const updateResource = require(`${process.env.GITHUB_WORKSPACE}/scripts/update-resource/index.js`)
+            await updateResource()
+            return true
+      - name: Create pull request
+        uses: peter-evans/create-pull-request@v3
+        with:
+          token: ${{ secrets.PERSONAL_TOKEN }}
+          labels: automerge
+          commit-message: "chore: update resource"
+          branch: new-item
+          delete-branch: true
+          title: Resource update
