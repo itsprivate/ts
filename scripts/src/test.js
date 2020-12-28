@@ -17,10 +17,10 @@ const test1 = () => {
 
 const test2 = () => {
   getList({
-    type: "ph",
+    type: "tweet",
     params: [
       {
-        id: "279100",
+        id: "1331474010501156865",
       },
     ],
   })

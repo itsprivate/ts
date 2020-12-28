@@ -1,6 +1,7 @@
 const Youtube = require("youtube-api");
 const Reddit = require("reddit");
 const axios = require("axios");
+const Twit = require("twit");
 Youtube.authenticate({
   type: "key",
   key: process.env.YOUTUBE_API_KEY,
@@ -73,6 +74,18 @@ exports.getList = async ({ type, params }) => {
       return data.filter((item) => !!item).map((item) => item);
     });
     return generateObj(results, "id");
+  } else if (type === "tweet") {
+    const twitter = new Twit({
+      consumer_key: process.env.TWITTER_CONSUMER_KEY,
+      consumer_secret: process.env.TWITTER_CONSUMER_SECRET,
+      access_token: process.env.TWITTER_ACCESS_TOKEN,
+      access_token_secret: process.env.TWITTER_ACCESS_SECRET,
+    });
+    const results = await twitter.get("statuses/lookup", {
+      id: params.map((item) => item.id).join(","),
+    });
+
+    return generateObj(results.data, "id_str");
   } else {
     return {};
   }

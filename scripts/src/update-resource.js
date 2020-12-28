@@ -10,10 +10,13 @@ const { readdir, readFile, writeFile } = fs;
 async function main() {
   const directories = [
     "data/reddit-top",
+    "data/reddit-crypto",
+    "data/reddit-stocks",
     "data/tweet-stocks",
     "data/youtube-top",
     "data/hn-top",
     "data/ph-top",
+    "data/tweet-crypto",
   ];
   const now = Date.now();
 
@@ -59,6 +62,16 @@ async function main() {
         };
       },
     },
+    tweet: {
+      dateParser: (item) => {
+        return new Date(Date.parse(item.created_at));
+      },
+      paramsParser: (item) => {
+        return {
+          id: item.id_str,
+        };
+      },
+    },
   };
   let queues = [];
   const period = getLastUpdatedPeriod();
@@ -75,7 +88,8 @@ async function main() {
       type === "youtube" ||
       type === "reddit" ||
       type === "hn" ||
-      type === "ph"
+      type === "ph" ||
+      type === "tweet"
     ) {
       for (let i = 0; i < jsonFiles.length; i++) {
         const jsonPath = resolve(__dirname, "../../", jsonFiles[i]);
@@ -99,9 +113,9 @@ async function main() {
 
           if (createdAt < period.end && createdAt >= period.start) {
             queueIndex++;
-            if (queueIndex > 10) {
-              break;
-            }
+            // if (queueIndex > 10) {
+            //   break;
+            // }
             // check created at is belong the issue
             const paramsParser =
               fields[type] && fields[type].paramsParser
@@ -202,6 +216,16 @@ async function main() {
         if (resultObj && resultObj[item.params.id]) {
           // write
           originalItem.votesCount = resultObj[item.params.id].votesCount;
+          await writeJson(item.path, originalItem);
+        } else {
+          console.warn(`there is no ${item.path} update result`);
+        }
+      } else if (type === "tweet") {
+        if (resultObj && resultObj[item.params.id]) {
+          // write
+          originalItem.retweet_count = resultObj[item.params.id].retweet_count;
+          originalItem.favorite_count =
+            resultObj[item.params.id].favorite_count;
           await writeJson(item.path, originalItem);
         } else {
           console.warn(`there is no ${item.path} update result`);
