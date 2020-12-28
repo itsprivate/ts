@@ -1,5 +1,6 @@
 const Youtube = require("youtube-api");
 const Reddit = require("reddit");
+const axios = require("axios");
 Youtube.authenticate({
   type: "key",
   key: process.env.YOUTUBE_API_KEY,
@@ -29,6 +30,26 @@ exports.getList = async ({ type, params }) => {
       res.data.children.map((item) => item.data),
       "name"
     );
+  } else if (type === "hn") {
+    console.log("params", params);
+
+    const promises = params
+      .map((item) => item.id)
+      .map((id) => {
+        return axios
+          .get(`https://hacker-news.firebaseio.com/v0/item/${id}.json`)
+          .then((data) => {
+            console.log("data1", data);
+
+            return data.data;
+          });
+      });
+    const hnResults = await Promise.all(promises).then((data) => {
+      console.log("data", data);
+
+      return data.filter((item) => !!item).map((item) => item);
+    });
+    return generateObj(hnResults, "id");
   } else {
     return {};
   }

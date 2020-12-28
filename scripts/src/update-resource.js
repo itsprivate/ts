@@ -1,4 +1,4 @@
-// require("dotenv").config();
+require("dotenv").config();
 
 const micromatch = require("micromatch");
 const { resolve, relative, basename } = require("path");
@@ -39,6 +39,13 @@ async function main() {
         };
       },
     },
+    hn: {
+      paramsParser: (item) => {
+        return {
+          id: item.objectID,
+        };
+      },
+    },
   };
   let queues = [];
   const period = getLastUpdatedPeriod();
@@ -49,11 +56,9 @@ async function main() {
     const files = await getFiles(folder);
     const jsonFiles = micromatch(files, "**/*.json");
     let queueIndex = 0;
-    if (type === "youtube" || type === "reddit") {
+    if (type === "youtube" || type === "reddit" || type === "hn") {
       for (let i = 0; i < jsonFiles.length; i++) {
         const jsonPath = resolve(__dirname, "../../", jsonFiles[i]);
-        console.log("jsonPath", jsonPath);
-
         const jsonContent = await readFile(jsonPath, "utf8");
         let item = JSON.parse(jsonContent);
 
@@ -94,8 +99,6 @@ async function main() {
         }
       }
     }
-    //           console.log(`write ${jsonPath}`);
-    //    await writeFile(jsonPath, JSON.stringify(item, null, 2));
   }
 
   const groups = [];
@@ -134,7 +137,7 @@ async function main() {
       type,
       params: items.map((item) => item.params),
     });
-    console.log("resultObj", Object.keys(resultObj).length);
+    console.log("resultObj", resultObj);
 
     for (let k = 0; k < items.length; k++) {
       const item = items[k];
@@ -161,6 +164,14 @@ async function main() {
             const average = (Number(statics.likeCount * 5) / count).toFixed(2);
             originalItem.starRating.average = average;
           }
+          await writeJson(item.path, originalItem);
+        } else {
+          console.warn(`there is no ${item.path} update result`);
+        }
+      } else if (type === "hn") {
+        if (resultObj && resultObj[item.params.id]) {
+          // write
+          originalItem.points = resultObj[item.params.id].score;
           await writeJson(item.path, originalItem);
         } else {
           console.warn(`there is no ${item.path} update result`);
