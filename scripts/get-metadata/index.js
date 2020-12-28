@@ -51730,7 +51730,9 @@ const metascraper = __webpack_require__(9054)([__webpack_require__(9721)()]);
 const got = __webpack_require__(3061);
 
 module.exports = async function getMetadata(targetUrl) {
-  const { body: html, url } = await got(targetUrl);
+  const { body: html, url } = await got(targetUrl, {
+    timeout: 10000,
+  });
   const metadata = await metascraper({ html, url });
   return metadata;
 };
