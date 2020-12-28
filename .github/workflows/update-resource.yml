@@ -9,8 +9,15 @@ jobs:
     name: save to json
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v2
       - name: update resource
         uses: actions/github-script@v3
+        env:
+          YOUTUBE_API_KEY: ${{secrets.YOUTUBE_API_KEY}}
+          REDDIT_APP_SECRET: ${{secrets.REDDIT_APP_SECRET}}
+          REDDIT_APP_ID: ${{secrets.REDDIT_APP_ID}}
+          REDDIT_USERNAME: ${{secrets.REDDIT_USERNAME}}
+          REDDIT_PASSWORD: ${{secrets.REDDIT_PASSWORD}}
         with:
           script: |
             const updateResource = require(`${process.env.GITHUB_WORKSPACE}/scripts/update-resource/index.js`)
