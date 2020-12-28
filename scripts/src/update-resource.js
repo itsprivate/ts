@@ -167,9 +167,6 @@ async function main() {
   }
 }
 
-main().catch((e) => {
-  console.error("e", e);
-});
 async function writeJson(filePath, obj) {
   console.log(`write ${filePath}`);
   obj.source_updated_at = new Date().getTime();
@@ -197,3 +194,4 @@ function getLastUpdatedPeriod() {
     end,
   };
 }
+module.exports = main;
