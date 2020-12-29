@@ -1,46 +1,103 @@
 const micromatch = require("micromatch");
-const { resolve, relative } = require("path");
+const { resolve, relative, basename } = require("path");
 const { readdir } = require("fs").promises;
 async function main() {
-  const files = await getFiles(resolve(__dirname, "../data/reddit-top"));
-  const jsonFiles = micromatch(files, "**/*.json");
-  const dataMap = {};
-  const result = {};
-  for (let i = 0; i < jsonFiles.length; i++) {
-    let json = require(resolve(__dirname, "../", jsonFiles[i]));
-    let score = json.score;
-    let created = json.created_utc * 1000;
-    const date = new Date(created);
-    let day =
-      date.getUTCFullYear() +
-      "-" +
-      (date.getUTCMonth() + 1) +
-      "-" +
-      date.getUTCDate();
-    if (!dataMap[day]) {
-      dataMap[day] = [];
+  const directories = [
+    "data/reddit-top",
+    "data/reddit-crypto",
+    "data/reddit-stocks",
+    "data/tweet-stocks",
+    "data/youtube-top",
+    "data/hn-top",
+    "data/ph-top",
+    "data/tweet-crypto",
+  ];
+  const now = Date.now();
+  const fields = {
+    reddit: {
+      dateParser: (item) => {
+        return new Date(item.created_utc * 1000);
+      },
+      paramsParser: (item) => {
+        return {
+          name: item.name,
+        };
+      },
+    },
+    youtube: {
+      dateParser: (item) => {
+        return new Date(item.isoDate);
+      },
+      paramsParser: (item) => {
+        return {
+          id: item.videoId,
+        };
+      },
+    },
+    hn: {
+      dateParser: (item) => {
+        return new Date(item.created_at);
+      },
+      paramsParser: (item) => {
+        return {
+          id: item.objectID,
+        };
+      },
+    },
+    ph: {
+      dateParser: (item) => {
+        return new Date(item.createdAt);
+      },
+      paramsParser: (item) => {
+        return {
+          id: item.id,
+        };
+      },
+    },
+    tweet: {
+      dateParser: (item) => {
+        return new Date(Date.parse(item.created_at));
+      },
+      paramsParser: (item) => {
+        return {
+          id: item.id_str,
+        };
+      },
+    },
+  };
+  for (let p = 0; p < directories.length; p++) {
+    const directory = directories[p];
+    const type = basename(directory).split("-")[0];
+    const files = await getFiles(resolve(__dirname, "../", directory));
+    const jsonFiles = micromatch(files, "**/*.json");
+    const dataMap = {};
+    const result = {};
+    for (let i = 0; i < jsonFiles.length; i++) {
+      let json = require(resolve(__dirname, "../", jsonFiles[i]));
+      let params = fields[type].paramsParser(json);
+      const date = fields[type].dateParser(json);
+      let day =
+        date.getUTCFullYear() +
+        "-" +
+        (date.getUTCMonth() + 1) +
+        "-" +
+        date.getUTCDate();
+      if (!dataMap[day]) {
+        dataMap[day] = [];
+      }
+      dataMap[day].push({
+        params: params,
+      });
     }
-    dataMap[day].push({
-      score: score,
+    const dateKeys = Object.keys(dataMap);
+    dateKeys.forEach((dateKey) => {
+      const dateData = dataMap[dateKey];
+      result[dateKey] = {
+        count: dateData.length,
+      };
     });
+    console.log(directory, result);
   }
-  const dateKeys = Object.keys(dataMap);
-  dateKeys.forEach((dateKey) => {
-    const dateData = dataMap[dateKey];
-    result[dateKey] = {
-      count: dateData.length,
-      gt70: dateData.filter((item) => {
-        return item.score > 70000;
-      }).length,
-      gt75: dateData.filter((item) => {
-        return item.score > 75000;
-      }).length,
-      gt80: dateData.filter((item) => {
-        return item.score > 80000;
-      }).length,
-    };
-  });
-  console.log("result", result);
 }
 
 main().catch((e) => {
