@@ -254,7 +254,7 @@ async function getFiles(dir) {
 
 function getLastUpdatedPeriod() {
   const now = Date.now();
-  const period = 108 * 24 * 60 * 60 * 1000;
+  const period = 8 * 24 * 60 * 60 * 1000;
   const start = now - period;
   const end = now - 1 * 6 * 60 * 60 * 1000;
   return {
