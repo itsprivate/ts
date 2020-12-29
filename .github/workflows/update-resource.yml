@@ -24,6 +24,13 @@ jobs:
             const updateResource = require(`${process.env.GITHUB_WORKSPACE}/scripts/update-resource/index.js`)
             await updateResource()
             return true
+      - name: generate issues
+        uses: actions/github-script@v3
+        with:
+          script: |
+            const updateResource = require(`${process.env.GITHUB_WORKSPACE}/scripts/generate-issues/index.js`)
+            await updateResource()
+            return true
       - name: Create pull request
         uses: peter-evans/create-pull-request@v3
         with:

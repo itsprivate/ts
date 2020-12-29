@@ -24,7 +24,8 @@
     "build:action": "ncc build .github/actions/translate/src/index.js -e ../locales/zh.json -o .github/actions/translate/dist",
     "build:format": "ncc build .github/actions/format/src/index.js -o .github/actions/format/dist",
     "build:meta": "ncc build ./scripts/src/get-metadata.js -o ./scripts/get-metadata",
-    "build:update": "ncc build ./scripts/src/update-resource.js -o ./scripts/update-resource"
+    "build:update": "ncc build ./scripts/src/update-resource.js -o ./scripts/update-resource",
+    "build:issues": "ncc build ./scripts/src/generate-issues.js -o ./scripts/generate-issues"
   },
   "repository": {
     "type": "git",
