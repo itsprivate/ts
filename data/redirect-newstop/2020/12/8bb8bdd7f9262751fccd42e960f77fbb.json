@@ -14,5 +14,15 @@
   "tags": [
     "The New York Times"
   ],
-  "image": "https://static01.nyt.com/images/2020/12/29/world/29virus-briefing-VIRUS-UK/29virus-briefing-VIRUS-UK-facebookJumbo.jpg"
+  "image": "https://static01.nyt.com/images/2020/12/29/world/29virus-briefing-VIRUS-UK/29virus-briefing-VIRUS-UK-facebookJumbo.jpg",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "冠状病毒实时更新：最新新闻"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "冠狀病毒實時更新：最新新聞"
+    }
+  ]
 }
