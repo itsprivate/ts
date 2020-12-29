@@ -1,4 +1,4 @@
-name: Update resource
+name: Generate Issues
 on:
   repository_dispatch:
   workflow_dispatch:
