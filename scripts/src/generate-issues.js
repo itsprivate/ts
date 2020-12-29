@@ -328,18 +328,22 @@ async function main() {
 
     if (issueFile) {
       // generate
-      const finalIssue = {
-        ...finalGroup.issueInfo,
-        items: finalGroup.items.map((item) => {
-          return {
-            slug: fields[item.type].slug(item.item),
-            type: item.type,
-          };
-        }),
-      };
-      console.log("finalIssue", JSON.stringify(finalIssue, null, 2));
+      if (finalGroup.items && finalGroup.items.length >= 20) {
+        const finalIssue = {
+          ...finalGroup.issueInfo,
+          items: finalGroup.items.map((item) => {
+            return {
+              slug: fields[item.type].slug(item.item),
+              type: item.type,
+            };
+          }),
+        };
+        console.log("finalIssue", JSON.stringify(finalIssue, null, 2));
 
-      await writeJson(issueFile, finalIssue);
+        await writeJson(issueFile, finalIssue);
+      } else {
+        console.log("no enough items");
+      }
     } else {
       console.log(`no need to generate ${issuesDir}`);
     }
