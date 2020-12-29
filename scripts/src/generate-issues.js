@@ -94,8 +94,6 @@ async function main() {
         };
       },
       sort: (a, b) => {
-        console.log("a", a);
-
         const aScore =
           (a.starRating.count * a.starRating.average * 10) / 5 +
           Number(a.statistics.views);
@@ -225,7 +223,6 @@ async function main() {
     for (let q = 0; q < folders.length; q++) {
       const directory = folders[q];
       const type = basename(directory).split("-")[0];
-      console.log("directoryItem.config", directoryItem.config);
 
       issuesMap[issuesDirRelative].items.push({
         type: type,
