@@ -14,5 +14,15 @@
   "tags": [
     "New York Post "
   ],
-  "image": "https://i1.wp.com/nypost.com/wp-content/uploads/sites/2/2020/12/wuhan-83.jpg?quality=90&strip=all&ssl=1"
+  "image": "https://i1.wp.com/nypost.com/wp-content/uploads/sites/2/2020/12/wuhan-83.jpg?quality=90&strip=all&ssl=1",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "中国疾控中心表示，武汉的冠状病毒病例可能高出十倍"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "中國疾控中心表示，武漢的冠狀病毒病例可能高出十倍"
+    }
+  ]
 }
