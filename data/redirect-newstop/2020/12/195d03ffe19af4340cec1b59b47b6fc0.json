@@ -14,5 +14,15 @@
   "tags": [
     "Fox News"
   ],
-  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2020/06/Wuhan-testing.jpg"
+  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2020/06/Wuhan-testing.jpg",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "中国疾控中心研究发现，武汉冠状病毒感染可能是报道的10倍"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "中國疾控中心研究發現，武漢冠狀病毒感染可能是報道的10倍"
+    }
+  ]
 }
