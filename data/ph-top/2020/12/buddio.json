@@ -62,5 +62,17 @@
       }
     ]
   },
-  "original_createdAt": "2020-12-30T08:00:00Z"
+  "original_createdAt": "2020-12-30T08:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Buddio是一款心理健康应用程序，可以帮助应对抑郁、压力和焦虑。由软件开发人员和心理学家根据科学支持疗法的原则开发。",
+      "tagline": "每个人的心理健康"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Buddio是一款心理健康應用程序，可以幫助應對抑鬱、壓力和焦慮。由軟件開發人員和心理學家根據科學支持療法的原則開發。",
+      "tagline": "每個人的心理健康"
+    }
+  ]
 }
