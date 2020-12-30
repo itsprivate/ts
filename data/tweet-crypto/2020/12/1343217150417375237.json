@@ -216,5 +216,17 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Sun Dec 27 15:28:19 +0000 2020"
+  "original_created_at": "Sun Dec 27 15:28:19 +0000 2020",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "rt@pierre_rochard：比特币的价格上涨会吸引很多需求。",
+      "retweeted_status_full_text": "比特币价格上涨将吸引大量需求。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "rt@pierre_rochard：比特幣的價格上漲會吸引很多需求。",
+      "retweeted_status_full_text": "比特幣價格上漲將吸引大量需求。"
+    }
+  ]
 }
