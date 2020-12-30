@@ -143,5 +143,15 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1609320076,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "我觉得这件衣服很适合打杂的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我覺得這件衣服很適合打雜的。"
+    }
+  ]
 }

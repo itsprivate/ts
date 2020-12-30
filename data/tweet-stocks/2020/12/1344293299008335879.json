@@ -554,5 +554,17 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Wed Dec 30 14:44:32 +0000 2020"
+  "original_created_at": "Wed Dec 30 14:44:32 +0000 2020",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT@JonErlichman：埃隆·马斯克(Elon Musk)和大卫·莱特曼(David Letterman)在2009年讨论电动汽车：\nhttps://t.co/k8rz6M0x6t",
+      "retweeted_status_full_text": "埃隆·马斯克(Elon Musk)和大卫·莱特曼(David Letterman)2009年讨论电动汽车：\nhttps://t.co/k8rz6M0x6t"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT@JonErlichman：埃隆·馬斯克(Elon Musk)和大衛·萊特曼(David Letterman)在2009年討論電動汽車：\nhttps://t.co/k8rz6M0x6t",
+      "retweeted_status_full_text": "埃隆·馬斯克(Elon Musk)和大衛·萊特曼(David Letterman)2009年討論電動汽車：\nhttps://t.co/k8rz6M0x6t"
+    }
+  ]
 }
