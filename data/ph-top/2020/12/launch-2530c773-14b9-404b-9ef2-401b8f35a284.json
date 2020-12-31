@@ -53,5 +53,17 @@
       }
     ]
   },
-  "original_createdAt": "2020-12-31T08:00:00Z"
+  "original_createdAt": "2020-12-31T08:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Launch是在产品猎头风格的网站中发现#nocode 工具和产品的地方。#nocode 社区每天都在寻找新的工具和产品。NoCodeDevs的一个项目！",
+      "tagline": "在那里#nocode 的制造者发现了他们下一个最喜欢的东西"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Launch是在產品獵頭風格的網站中發現#nocode 工具和產品的地方。#nocode 社區每天都在尋找新的工具和產品。NoCodeDevs的一個項目！",
+      "tagline": "在那裏#nocode 的製造者發現了他們下一個最喜歡的東西"
+    }
+  ]
 }
