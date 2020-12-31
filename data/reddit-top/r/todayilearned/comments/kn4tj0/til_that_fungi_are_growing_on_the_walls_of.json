@@ -144,5 +144,15 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1609344062,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "[今天我学到了]在切尔诺贝利被毁的核反应堆的墙壁上生长着真菌。它们似乎能吸收辐射，并将其转化为生长所需的化学能。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[今天我學到了]在切爾諾貝利被毀的核反應堆的牆壁上生長着真菌。它們似乎能吸收輻射，並將其轉化爲生長所需的化學能。"
+    }
+  ]
 }
