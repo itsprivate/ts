@@ -270,5 +270,15 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Wed Dec 30 23:00:26 +0000 2020"
+  "original_created_at": "Wed Dec 30 23:00:26 +0000 2020",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "来自纽约的新年快乐\nhttps://t.co/arpYbPSy5F"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "來自紐約的新年快樂\nhttps://t.co/arpYbPSy5F"
+    }
+  ]
 }
