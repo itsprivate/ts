@@ -63,5 +63,17 @@
       }
     ]
   },
-  "original_createdAt": "2020-12-30T17:04:38Z"
+  "original_createdAt": "2020-12-30T17:04:38Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "一个简单的应用程序，只需提示即可生成各种副本。它的使用范围包括总结长篇文本、回答问题、完成思想和撰写文章。该工具由OpenAI的GPT-3算法完成。",
+      "tagline": "OpenAI支持的AI文案编写器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個簡單的應用程序，只需提示即可生成各種副本。它的使用範圍包括總結長篇文本、回答問題、完成思想和撰寫文章。該工具由OpenAI的GPT-3算法完成。",
+      "tagline": "OpenAI支持的AI文案編寫器"
+    }
+  ]
 }
