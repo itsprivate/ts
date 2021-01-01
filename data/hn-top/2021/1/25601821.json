@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-01-01T08:50:34.000Z",
-  "image": "https://nullprogram.com/img/diagram/morse.svg"
+  "image": "https://nullprogram.com/img/diagram/morse.svg",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "状态机是很棒的工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "狀態機是很棒的工具"
+    }
+  ]
 }
