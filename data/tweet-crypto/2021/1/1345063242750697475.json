@@ -193,5 +193,17 @@
   "favorited": false,
   "retweeted": false,
   "lang": "und",
-  "original_created_at": "Fri Jan 01 17:44:01 +0000 2021"
+  "original_created_at": "Fri Jan 01 17:44:01 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "邮箱：rt@jack：🧡",
+      "retweeted_status_full_text": "🧡"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "郵箱：rt@jack：🧡",
+      "retweeted_status_full_text": "🧡"
+    }
+  ]
 }
