@@ -3,6 +3,7 @@ on:
     url:
       - https://www.reddit.com/r/stocks/top/
       - https://www.reddit.com/r/investing/top/
+      - https://www.reddit.com/r/wallstreetbets/top/
     # url: https://www.reddit.com/r/all/top/
     source: json
     config:
@@ -12,9 +13,13 @@ on:
       outputsMode: combine
       exportOutputs: true
       filterScript: |
+        if(item.subreddit==='wallstreetbets' && item.score<1000){
+          return false
+        }
         if(item.score>40){
           return true
         }
+
       format: |
         delete item.all_awardings
         item.original_created_utc = item.created_utc;
