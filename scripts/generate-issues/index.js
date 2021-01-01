@@ -4166,7 +4166,7 @@ async function main() {
         return b.score - a.score;
       },
       slug: (item) => {
-        return `reddit${item.permalink}`;
+        return `/reddit${item.permalink}`;
       },
     },
     youtube: {
@@ -4188,7 +4188,7 @@ async function main() {
         return bScore - aScore;
       },
       slug: (item) => {
-        return `youtube/${item.videoId}`;
+        return `/youtube/${item.videoId}`;
       },
     },
     hn: {
@@ -4204,7 +4204,7 @@ async function main() {
         return b.points - a.points;
       },
       slug: (item) => {
-        return `hn/${item.objectID}`;
+        return `/hn/${item.objectID}`;
       },
     },
     ph: {
@@ -4220,7 +4220,7 @@ async function main() {
         return b.votesCount - a.votesCount;
       },
       slug: (item) => {
-        return `ph/${item.slug}`;
+        return `/ph/${item.slug}`;
       },
     },
     tweet: {
@@ -4239,7 +4239,7 @@ async function main() {
         return bScore - aScore;
       },
       slug: (item) => {
-        return `tweet/${item.id_str}`;
+        return `/tweet/${item.id_str}`;
       },
     },
   };
