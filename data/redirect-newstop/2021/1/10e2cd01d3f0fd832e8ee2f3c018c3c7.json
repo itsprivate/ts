@@ -14,5 +14,15 @@
   "tags": [
     "Axios"
   ],
-  "image": "https://static.axios.com/img/axios-site/axios-placeholder-16x9.png"
+  "image": "https://static.axios.com/img/axios-site/axios-placeholder-16x9.png",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "英国退欧后的英国抵达"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "英國退歐後的英國抵達"
+    }
+  ]
 }
