@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-01-01T02:48:55.000Z",
-  "image": "https://omar.website/projects/tabfs.png"
+  "image": "https://omar.website/projects/tabfs.png",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "TabFS：将浏览器选项卡装载为文件系统"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "TabFS：將瀏覽器選項卡裝載爲文件系統"
+    }
+  ]
 }
