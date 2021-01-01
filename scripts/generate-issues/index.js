@@ -4119,13 +4119,7 @@ async function main() {
         ph: 20,
       },
     },
-    {
-      folders: ["data/ph-top"],
-      issueDir: "data/ph-top-issues",
-      config: {
-        ph: 20,
-      },
-    },
+
     {
       folders: ["data/reddit-stocks", "data/tweet-stocks"],
       issueDir: "data/stocks-issues",
