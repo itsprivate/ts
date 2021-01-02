@@ -71,5 +71,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-02T10:00:00Z"
+  "original_createdAt": "2021-01-02T10:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "保持高效率是很难的。成功是基于按优先顺序排列的任务列表和波莫多罗(Pomodoro)技术。计划你的一周，设定你的每日任务，反思过去几天以达到你所有的目标。",
+      "tagline": "极简主义的iOS/Android应用程序可跟踪日常任务"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "保持高效率是很難的。成功是基於按優先順序排列的任務列表和波莫多羅(Pomodoro)技術。計劃你的一週，設定你的每日任務，反思過去幾天以達到你所有的目標。",
+      "tagline": "極簡主義的iOS/Android應用程序可跟蹤日常任務"
+    }
+  ]
 }

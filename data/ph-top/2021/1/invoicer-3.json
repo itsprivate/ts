@@ -78,5 +78,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-02T09:19:00Z"
+  "original_createdAt": "2021-01-02T09:19:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Invoice是一个基于文档的发票制作应用程序，仅在iOS/iPadOS/MacOS平台上可用。您的所有发票文件和首选项都存储在iCloud中，因此您可以跨不同设备无缝工作，而无需创建用于同步的帐户。",
+      "tagline": "适用于iOS/iPadOS/MacOS的基于文档的发票生成器应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Invoice是一個基於文檔的發票製作應用程序，僅在iOS/iPadOS/MacOS平臺上可用。您的所有發票文件和首選項都存儲在iCloud中，因此您可以跨不同設備無縫工作，而無需創建用於同步的帳戶。",
+      "tagline": "適用於iOS/iPadOS/MacOS的基於文檔的發票生成器應用程序"
+    }
+  ]
 }
