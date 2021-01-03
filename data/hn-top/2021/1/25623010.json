@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-01-03T17:04:02.000Z",
-  "image": "https://samplesize.one/img/spreadsheet_banner.png"
+  "image": "https://samplesize.one/img/spreadsheet_banner.png",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "我全年每隔15分钟记录我的活动。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我全年每隔15分鐘記錄我的活動。"
+    }
+  ]
 }
