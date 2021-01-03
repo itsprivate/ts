@@ -105,5 +105,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1609650998,
-  "the_new_excerpt": "Welcome $34k. Next up $35k. HAPPY BIRTHDAY BITCOIN!"
+  "the_new_excerpt": "Welcome $34k. Next up $35k. HAPPY BIRTHDAY BITCOIN!",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "欢迎3万4千美元。下一个是35000美元。比特币生日快乐！",
+      "title": "34K美元BTC创历史新高"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "歡迎3萬4千美元。下一個是35000美元。比特幣生日快樂！",
+      "title": "34K美元BTC創歷史新高"
+    }
+  ]
 }
