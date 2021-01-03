@@ -91,5 +91,15 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Sun Jan 03 12:59:32 +0000 2021"
+  "original_created_at": "Sun Jan 03 12:59:32 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "当所有比特币都兑换成美元时，将会出现恶性通货膨胀。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "當所有比特幣都兌換成美元時，將會出現惡性通貨膨脹。"
+    }
+  ]
 }
