@@ -105,5 +105,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1609624607,
-  "the_new_excerpt": "Those were the days."
+  "the_new_excerpt": "Those were the days.",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "那些日子。",
+      "title": "我已经足够大了，还记得什么时候你可以花3万美元买下整枚比特币"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "那些日子。",
+      "title": "我已經足夠大了，還記得什麼時候你可以花3萬美元買下整枚比特幣"
+    }
+  ]
 }
