@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-01-04T15:50:51.000Z",
-  "image": "https://assets.gitlab-static.net/uploads/-/system/project/avatar/10582521/OpenRGB.png"
+  "image": "https://assets.gitlab-static.net/uploads/-/system/project/avatar/10582521/OpenRGB.png",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "用于键盘、风扇等的开源RGB照明控件。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "用於鍵盤、風扇等的開源RGB照明控件。"
+    }
+  ]
 }
