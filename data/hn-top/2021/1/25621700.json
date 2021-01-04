@@ -36,5 +36,15 @@
     }
   },
   "original_created_at": "2021-01-03T13:41:45.000Z",
-  "image": "http://ssalewski.de/gtkimages/simplegtk3c.png"
+  "image": "http://ssalewski.de/gtkimages/simplegtk3c.png",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "用于图形用户界面的GTK4"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "用於圖形用戶界面的GTK4"
+    }
+  ]
 }
