@@ -58,5 +58,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-04T08:01:00Z"
+  "original_createdAt": "2021-01-04T08:01:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "一个关于冠状病毒疫苗在全球范围内如何接种的实时仪表盘。",
+      "tagline": "看看在全球范围内接种疫苗的进展情况"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個關於冠狀病毒疫苗在全球範圍內如何接種的實時儀表盤。",
+      "tagline": "看看在全球範圍內接種疫苗的進展情況"
+    }
+  ]
 }
