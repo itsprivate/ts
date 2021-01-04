@@ -103,5 +103,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-04T08:00:00Z"
+  "original_createdAt": "2021-01-04T08:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Textcraft是一款适用于iPhone、iPad和Mac的神奇实用程序，允许您将任何文本实时转换为各种80多种不同的格式。",
+      "tagline": "魔术文本转换"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Textcraft是一款適用於iPhone、iPad和Mac的神奇實用程序，允許您將任何文本實時轉換爲各種80多種不同的格式。",
+      "tagline": "魔術文本轉換"
+    }
+  ]
 }
