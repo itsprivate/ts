@@ -103,5 +103,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1609756839,
-  "the_new_excerpt": "From someone who got in in 2016"
+  "the_new_excerpt": "From someone who got in in 2016",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "从一个在2016年入学的人那里",
+      "title": "所以浸泡已经结束了，祝贺所有的新手，你们通过了你们的第一次测试。还会有更多的人来。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "從一個在2016年入學的人那裏",
+      "title": "所以浸泡已經結束了，祝賀所有的新手，你們通過了你們的第一次測試。還會有更多的人來。"
+    }
+  ]
 }

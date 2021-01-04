@@ -58,5 +58,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-04T12:11:03Z"
+  "original_createdAt": "2021-01-04T12:11:03Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Startup Job Watch是一个每周更新的数据库，其中包含来自世界顶级初创公司的6000多个工作岗位。这些都是来自Business Insider、LinkedIn、AngelList等出版物的最佳公司名单！",
+      "tagline": "包含全球顶尖初创企业6000多个职位的数据库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Startup Job Watch是一個每週更新的數據庫，其中包含來自世界頂級初創公司的6000多個工作崗位。這些都是來自Business Insider、LinkedIn、AngelList等出版物的最佳公司名單！",
+      "tagline": "包含全球頂尖初創企業6000多個職位的數據庫"
+    }
+  ]
 }

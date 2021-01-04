@@ -62,5 +62,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-04T08:01:00Z"
+  "original_createdAt": "2021-01-04T08:01:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "2020年使用最多的语言、编辑器和WakaTime代码统计数据。",
+      "tagline": "2020年使用最多的语言、编辑器和代码统计数据"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "2020年使用最多的語言、編輯器和WakaTime代碼統計數據。",
+      "tagline": "2020年使用最多的語言、編輯器和代碼統計數據"
+    }
+  ]
 }
