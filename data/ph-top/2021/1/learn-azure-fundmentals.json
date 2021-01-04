@@ -82,5 +82,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-04T08:00:00Z"
+  "original_createdAt": "2021-01-04T08:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "学习Azure基础知识是一款应用程序，它通过在测试中回答问题来帮助你学习Microsoft Azure和云计算的基础知识。APP包含14个独特的测试，269个问题，132篇文章。离线学习。APP是绝对免费的。没有广告。",
+      "tagline": "通过测试学习Microsfot Azure基础知识"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "學習Azure基礎知識是一款應用程序，它通過在測試中回答問題來幫助你學習Microsoft Azure和雲計算的基礎知識。APP包含14個獨特的測試，269個問題，132篇文章。離線學習。APP是絕對免費的。沒有廣告。",
+      "tagline": "通過測試學習Microsfot Azure基礎知識"
+    }
+  ]
 }
