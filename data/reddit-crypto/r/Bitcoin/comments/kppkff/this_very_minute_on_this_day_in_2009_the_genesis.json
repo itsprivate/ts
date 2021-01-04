@@ -108,5 +108,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1609697717,
-  "the_new_excerpt": "Happy birthday bitcoin thanks for the insane gains :)"
+  "the_new_excerpt": "Happy birthday bitcoin thanks for the insane gains :)",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "生日快乐，比特币感谢你的疯狂收获：)",
+      "title": "就在2009年的这一天，创世纪挡路被开采出来"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "生日快樂，比特幣感謝你的瘋狂收穫：)",
+      "title": "就在2009年的這一天，創世紀擋路被開採出來"
+    }
+  ]
 }
