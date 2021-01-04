@@ -82,5 +82,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-04T09:48:00Z"
+  "original_createdAt": "2021-01-04T09:48:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "hijack your Feed是一个Safari扩展，它用你的待办事项取代了Twitter广告。它根据你的提醒创建吸引眼球的帖子，然后这些帖子会被劫持到你的Twitter feed中。旨在将您推向您的意图…远离末日卷轴。",
+      "tagline": "用您的待办事项替换Twitter广告"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "hijack your Feed是一個Safari擴展，它用你的待辦事項取代了Twitter廣告。它根據你的提醒創建吸引眼球的帖子，然後這些帖子會被劫持到你的Twitter feed中。旨在將您推向您的意圖…遠離末日卷軸。",
+      "tagline": "用您的待辦事項替換Twitter廣告"
+    }
+  ]
 }
