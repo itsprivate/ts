@@ -103,5 +103,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1609686025,
-  "the_new_excerpt": "There's still room to grow"
+  "the_new_excerpt": "There's still room to grow",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "还有增长的空间",
+      "title": "请记住，黄金的市值是10万亿美元。比特币目前为6,270亿。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "還有增長的空間",
+      "title": "請記住，黃金的市值是10萬億美元。比特幣目前爲6,270億。"
+    }
+  ]
 }

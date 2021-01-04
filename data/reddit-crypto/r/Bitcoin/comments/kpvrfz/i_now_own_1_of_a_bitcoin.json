@@ -103,5 +103,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1609716423,
-  "the_new_excerpt": "Not much I know, but it’s exciting nonetheless"
+  "the_new_excerpt": "Not much I know, but it’s exciting nonetheless",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我知道的不多，但不管怎样，这很令人兴奋",
+      "title": "我现在拥有1%的比特币"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我知道的不多，但不管怎樣，這很令人興奮",
+      "title": "我現在擁有1%的比特幣"
+    }
+  ]
 }
