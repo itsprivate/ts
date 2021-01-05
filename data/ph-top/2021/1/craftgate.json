@@ -73,5 +73,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-05T04:01:57Z"
+  "original_createdAt": "2021-01-05T04:01:57Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Craftgate是一个基于云的支付网关，通过单次集成为您提供安全的处理，让您的业务不断发展。",
+      "tagline": "基于云的支付网关"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Craftgate是一個基於雲的支付網關，通過單次集成爲您提供安全的處理，讓您的業務不斷髮展。",
+      "tagline": "基於雲的支付網關"
+    }
+  ]
 }
