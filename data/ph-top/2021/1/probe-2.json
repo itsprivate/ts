@@ -63,5 +63,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-05T08:05:00Z"
+  "original_createdAt": "2021-01-05T08:05:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "该应用程序根据您在Google Sheet中的订阅数据计算出知名的SaaS指标。以可识别的格式准备数据。包括订阅的客户ID、开始日期、结束日期和月值。一旦准备就绪，您就可以根据它计算与SaaS相关的订阅量。",
+      "tagline": "在Google Sheets中单击一下即可计算您的SaaS指标"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "該應用程序根據您在Google Sheet中的訂閱數據計算出知名的SaaS指標。以可識別的格式準備數據。包括訂閱的客戶ID、開始日期、結束日期和月值。一旦準備就緒，您就可以根據它計算與SaaS相關的訂閱量。",
+      "tagline": "在Google Sheets中單擊一下即可計算您的SaaS指標"
+    }
+  ]
 }
