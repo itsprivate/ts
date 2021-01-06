@@ -14,5 +14,15 @@
   "tags": [
     "The New York Times"
   ],
-  "image": "https://static01.nyt.com/images/2021/01/05/world/05virus-briefing-britain1/05virus-briefing-britain1-facebookJumbo.jpg"
+  "image": "https://static01.nyt.com/images/2021/01/05/world/05virus-briefing-britain1/05virus-briefing-britain1-facebookJumbo.jpg",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "官员们说，英国每50人中就有一人感染了这种病毒。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "官員們說，英國每50人中就有一人感染了這種病毒。"
+    }
+  ]
 }

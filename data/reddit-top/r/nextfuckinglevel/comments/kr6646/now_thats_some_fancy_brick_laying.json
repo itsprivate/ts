@@ -143,5 +143,15 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1609876285,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "这是一些花哨的砖块铺设。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是一些花哨的磚塊鋪設。"
+    }
+  ]
 }
