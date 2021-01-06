@@ -20,7 +20,7 @@ on:
         item.guid = uniqueId;
         item.tags = [source];
         return item
-      limit: 10
+      limit: 5
       # force: true
       outputsMode: combine
       exportOutputs: true
