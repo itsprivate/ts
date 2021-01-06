@@ -88,5 +88,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-06T08:01:34Z"
+  "original_createdAt": "2021-01-06T08:01:34Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Bird Buddy是一款智能的鸟类喂食器，它可以通知你有羽毛的访客，捕捉他们的照片，并将他们组织成一个美丽的集合。",
+      "tagline": "一个智能的鸟类喂食器，它会通知你有羽毛的访客"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Bird Buddy是一款智能的鳥類餵食器，它可以通知你有羽毛的訪客，捕捉他們的照片，並將他們組織成一個美麗的集合。",
+      "tagline": "一個智能的鳥類餵食器，它會通知你有羽毛的訪客"
+    }
+  ]
 }
