@@ -270,5 +270,15 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Wed Jan 06 19:30:50 +0000 2021"
+  "original_created_at": "Wed Jan 06 19:30:50 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "国会大厦内的抗议者\nhttps://t.co/JNMrtaty9b"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "國會大廈內的抗議者\nhttps://t.co/JNMrtaty9b"
+    }
+  ]
 }
