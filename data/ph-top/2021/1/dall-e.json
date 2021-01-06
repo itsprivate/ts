@@ -63,5 +63,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-06T09:34:48Z"
+  "original_createdAt": "2021-01-06T09:34:48Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "我们训练了一种名为Dall·E的神经网络，它从文本字幕中为一系列可以用自然语言表达的概念创建图像。",
+      "tagline": "从文本创建图像，从Open AI创建图像"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們訓練了一種名爲Dall·E的神經網絡，它從文本字幕中爲一系列可以用自然語言表達的概念創建圖像。",
+      "tagline": "從文本創建圖像，從Open AI創建圖像"
+    }
+  ]
 }
