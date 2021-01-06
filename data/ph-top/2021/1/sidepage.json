@@ -68,5 +68,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-06T08:21:58Z"
+  "original_createdAt": "2021-01-06T08:21:58Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "SidePage是一个使用侧栏菜单快速创建网站的简单工具。非常适合为您的项目创建专业文档。它很快，而且是免费的。",
+      "tagline": "用于构建简单侧栏布局网站的免费工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "SidePage是一個使用側欄菜單快速創建網站的簡單工具。非常適合爲您的項目創建專業文檔。它很快，而且是免費的。",
+      "tagline": "用於構建簡單側欄佈局網站的免費工具"
+    }
+  ]
 }
