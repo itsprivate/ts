@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-01-06T05:40:45.000Z",
-  "image": "https://dosbox-x.com/images/dosbox-x-logo.svg"
+  "image": "https://dosbox-x.com/images/dosbox-x-logo.svg",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "DOSBOX-X：免费、跨平台、完整的DOS、Windows 3.x和9x仿真"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "DOSBOX-X：免費、跨平臺、完整的DOS、Windows 3.x和9x仿真"
+    }
+  ]
 }
