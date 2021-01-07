@@ -105,5 +105,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1610042999,
-  "the_new_excerpt": "Bitcoin has just reached $40,000 or 1 Bitcoin per Bitcoin."
+  "the_new_excerpt": "Bitcoin has just reached $40,000 or 1 Bitcoin per Bitcoin.",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "比特币刚刚达到4万美元，也就是每枚比特币1个比特币。",
+      "title": "4万美元被攻破了！"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "比特幣剛剛達到4萬美元，也就是每枚比特幣1個比特幣。",
+      "title": "4萬美元被攻破了！"
+    }
+  ]
 }
