@@ -87,5 +87,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-07T08:34:20Z"
+  "original_createdAt": "2021-01-07T08:34:20Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "RHTRH是一个开源的Chrome扩展，当你举起你的(物理)手时，它会在Google Meet上举起你的(虚拟)手。RHTRH可在所有使用Google Workspace的组织的任何Chromium浏览器上使用。",
+      "tagline": "在现实生活中举起你的手，在会议上举起你的手"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "RHTRH是一個開源的Chrome擴展，當你舉起你的(物理)手時，它會在Google Meet上舉起你的(虛擬)手。RHTRH可在所有使用Google Workspace的組織的任何Chromium瀏覽器上使用。",
+      "tagline": "在現實生活中舉起你的手，在會議上舉起你的手"
+    }
+  ]
 }
