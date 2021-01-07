@@ -87,5 +87,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-07T08:15:41Z"
+  "original_createdAt": "2021-01-07T08:15:41Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Statusly是一款松弛机器人，它通过功能强大的例程帮助您自动执行松弛状态和免打扰/离开设置。将您的Google日历和缩放会议与您的自定义例程同步。欲了解更多信息，请访问https://statusly.app/.。",
+      "tagline": "根据您的日常工作🤖自动执行闲置状态和免打扰"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Statusly是一款鬆弛機器人，它通過功能強大的例程幫助您自動執行鬆弛狀態和免打擾/離開設置。將您的Google日曆和縮放會議與您的自定義例程同步。欲瞭解更多信息，請訪問https://statusly.app/.。",
+      "tagline": "根據您的日常工作🤖自動執行閒置狀態和免打擾"
+    }
+  ]
 }
