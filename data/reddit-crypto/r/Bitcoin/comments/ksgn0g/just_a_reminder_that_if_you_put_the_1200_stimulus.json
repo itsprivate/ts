@@ -103,5 +103,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1610036616,
-  "the_new_excerpt": "Have a nice day :)"
+  "the_new_excerpt": "Have a nice day :)",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "祝您有愉快的一天：)",
+      "title": "只是提醒一下，如果你把1200美元的刺激支票放进比特币，现在大约值5600美元。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "祝您有愉快的一天：)",
+      "title": "只是提醒一下，如果你把1200美元的刺激支票放進比特幣，現在大約值5600美元。"
+    }
+  ]
 }
