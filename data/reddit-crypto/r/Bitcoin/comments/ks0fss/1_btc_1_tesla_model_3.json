@@ -108,5 +108,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1609976828,
-  "the_new_excerpt": "So in January 2022, 1 BTC = ?"
+  "the_new_excerpt": "So in January 2022, 1 BTC = ?",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "那么在2022年1月，1BTC=？",
+      "title": "1 BTC=1特斯拉Model 3"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "那麼在2022年1月，1BTC=？",
+      "title": "1 BTC=1特斯拉Model 3"
+    }
+  ]
 }
