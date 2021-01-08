@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-01-07T19:00:07.000Z",
-  "image": "https://ninjalab.io/wp-content/uploads/2021/01/Titan_Bluetooth_EM_probe.png"
+  "image": "https://ninjalab.io/wp-content/uploads/2021/01/Titan_Bluetooth_EM_probe.png",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "CVE-2021-3011：Google Titan Key上的密钥恢复"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "CVE-2021-3011：Google Titan Key上的密鑰恢復"
+    }
+  ]
 }
