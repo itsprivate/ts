@@ -83,5 +83,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-07T08:01:00Z"
+  "original_createdAt": "2021-01-07T08:01:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "鸡尾酒是MacOS的一个通用实用程序，可以让你清洁、修复和优化你的Mac。这是一个强大的数字工具包，可以帮助世界各地的数十万Mac用户每天最大限度地利用他们的计算机。",
+      "tagline": "清理、修复和优化您的mac🍸"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "雞尾酒是MacOS的一個通用實用程序，可以讓你清潔、修復和優化你的Mac。這是一個強大的數字工具包，可以幫助世界各地的數十萬Mac用戶每天最大限度地利用他們的計算機。",
+      "tagline": "清理、修復和優化您的mac🍸"
+    }
+  ]
 }
