@@ -3,7 +3,7 @@
   "title": "Tell HN: Please update your DNS records when abandoning servers",
   "url": null,
   "author": "mwgarcia",
-  "points": 150,
+  "points": 175,
   "story_text": "I got contacted by someone wanting to buy the domain and was thoroughly surprised. It seems that the owner had it pointed to a Linode instance&#x2F;IP which was then abandoned and was subsequently &quot;inherited&quot; by me.<p>http:&#x2F;&#x2F;unstoppable.com&#x2F;<p>https:&#x2F;&#x2F;whois.domaintools.com&#x2F;unstoppable.com<p>https:&#x2F;&#x2F;reverseip.domaintools.com&#x2F;search&#x2F;?q=unstoppable.com",
   "comment_text": null,
   "num_comments": 57,
@@ -46,5 +46,6 @@
       "locale": "zh-Hant",
       "title": "告訴HN：請在放棄服務器時更新您的DNS記錄"
     }
-  ]
+  ],
+  "source_updated_at": 1610100761132
 }
