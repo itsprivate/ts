@@ -188,5 +188,15 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Fri Jan 08 13:31:44 +0000 2021"
+  "original_created_at": "Fri Jan 08 13:31:44 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "#比特币 是22盎司黄金。和不断上升的https://t.co/LXQ8QvuwmC"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "#比特幣 是22盎司黃金。和不斷上升的https://t.co/LXQ8QvuwmC"
+    }
+  ]
 }
