@@ -104,5 +104,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1610045263,
-  "the_new_excerpt": "See you again at 50K you losers ;-)."
+  "the_new_excerpt": "See you again at 50K you losers ;-).",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "50K再见，你们这些失败者；-)。",
+      "title": "在每一个心理价位，新手都会开始卖出。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "50K再見，你們這些失敗者；-)。",
+      "title": "在每一個心理價位，新手都會開始賣出。"
+    }
+  ]
 }
