@@ -58,5 +58,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-09T08:26:02Z"
+  "original_createdAt": "2021-01-09T08:26:02Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Project LightSpeed是一个独立的直播服务器。使用LightSpeed，您将能够部署自己的亚秒级延迟流媒体站点。LightSpeed存储库包含安装和部署整个应用程序的说明。",
+      "tagline": "来自OBS的次秒级开源自托管流"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Project LightSpeed是一個獨立的直播服務器。使用LightSpeed，您將能夠部署自己的亞秒級延遲流媒體站點。LightSpeed存儲庫包含安裝和部署整個應用程序的說明。",
+      "tagline": "來自OBS的次秒級開源自託管流"
+    }
+  ]
 }
