@@ -71,5 +71,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-09T08:08:47Z"
+  "original_createdAt": "2021-01-09T08:08:47Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "RecipeCart是一个免费的扩展，它可以立即以可供打印的格式向您显示食谱。打印、保存或将食谱发送到您的手机。在幕后，我们使用ML来确定出口到Insta或Amazon Fresh的确切配料+数量。",
+      "tagline": "在任何食谱网站上即时查看食谱或订购食材"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "RecipeCart是一個免費的擴展，它可以立即以可供打印的格式向您顯示食譜。打印、保存或將食譜發送到您的手機。在幕後，我們使用ML來確定出口到Insta或Amazon Fresh的確切配料+數量。",
+      "tagline": "在任何食譜網站上即時查看食譜或訂購食材"
+    }
+  ]
 }
