@@ -73,5 +73,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-10T08:30:01Z"
+  "original_createdAt": "2021-01-10T08:30:01Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Dev-Flow是一个网站，在这里你可以通过输入任何人的GitHub用户名来查看他们的GitHub统计数据和时间表。",
+      "tagline": "按用户名查看GitHub统计数据和时间表。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Dev-Flow是一個網站，在這裏你可以通過輸入任何人的GitHub用戶名來查看他們的GitHub統計數據和時間表。",
+      "tagline": "按用戶名查看GitHub統計數據和時間表。"
+    }
+  ]
 }
