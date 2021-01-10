@@ -103,5 +103,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-10T08:00:00Z"
+  "original_createdAt": "2021-01-10T08:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Mock Magic是一种特意简单的方式，可以为您的设计或产品创建漂亮的样机。",
+      "tagline": "一个简单的、免费的模型生成器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Mock Magic是一種特意簡單的方式，可以爲您的設計或產品創建漂亮的樣機。",
+      "tagline": "一個簡單的、免費的模型生成器"
+    }
+  ]
 }
