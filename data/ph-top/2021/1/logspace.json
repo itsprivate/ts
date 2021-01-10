@@ -68,5 +68,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-10T08:00:00Z"
+  "original_createdAt": "2021-01-10T08:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "LogSpace是一个以时间和费用跟踪为后盾的自动开票系统。它适合发送发票的自由职业者以及需要跟踪时间的团队。",
+      "tagline": "在线时间跟踪、费用和开票"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "LogSpace是一個以時間和費用跟蹤爲後盾的自動開票系統。它適合發送發票的自由職業者以及需要跟蹤時間的團隊。",
+      "tagline": "在線時間跟蹤、費用和開票"
+    }
+  ]
 }
