@@ -53,5 +53,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-09T09:44:33Z"
+  "original_createdAt": "2021-01-09T09:44:33Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "这是拜登就职典礼的可安装PWA倒计时。以防你等不及了。您可以随时查看还剩多少秒。一旦弹劾程序开始，它将被更新。",
+      "tagline": "特朗普离任的倒计时"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是拜登就職典禮的可安裝PWA倒計時。以防你等不及了。您可以隨時查看還剩多少秒。一旦彈劾程序開始，它將被更新。",
+      "tagline": "特朗普離任的倒計時"
+    }
+  ]
 }
