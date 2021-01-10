@@ -68,5 +68,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-10T08:00:00Z"
+  "original_createdAt": "2021-01-10T08:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "GitWrased允许你查看这些年来你的Github个人资料的统计数据，你写了多少行，你完成了多少拉请求等等！与您的朋友比较统计数据并在社交媒体上炫耀！#GitWraped #Wrabl #Github2020 ",
+      "tagline": "查看/分享这些年来您是如何为Github做出贡献的"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "GitWrased允許你查看這些年來你的Github個人資料的統計數據，你寫了多少行，你完成了多少拉請求等等！與您的朋友比較統計數據並在社交媒體上炫耀！#GitWraped #Wrabl #Github2020 ",
+      "tagline": "查看/分享這些年來您是如何爲Github做出貢獻的"
+    }
+  ]
 }

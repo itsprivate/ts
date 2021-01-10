@@ -63,5 +63,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-10T08:00:00Z"
+  "original_createdAt": "2021-01-10T08:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Linksistent是一个Chrome扩展，为最新的Figma设计文件或原型提供统一的访问点。",
+      "tagline": "适用于最新Figma设计的整合接入点。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Linksistent是一個Chrome擴展，爲最新的Figma設計文件或原型提供統一的訪問點。",
+      "tagline": "適用於最新Figma設計的整合接入點。"
+    }
+  ]
 }

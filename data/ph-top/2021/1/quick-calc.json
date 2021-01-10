@@ -58,5 +58,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-10T08:26:16Z"
+  "original_createdAt": "2021-01-10T08:26:16Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Quick Calc是一个简单易用的计算器，只需单击一个按钮，即可从菜单栏直接访问。",
+      "tagline": "一个优雅的计算器，为您的菜单栏。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Quick Calc是一個簡單易用的計算器，只需單擊一個按鈕，即可從菜單欄直接訪問。",
+      "tagline": "一個優雅的計算器，爲您的菜單欄。"
+    }
+  ]
 }
