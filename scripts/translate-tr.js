@@ -18,7 +18,7 @@ const clientConfig = {
 };
 const client = new TmtClient(clientConfig);
 async function main() {
-  const value = `Test #WholeLottaRed #PlayboiCarti`;
+  const value = `Test Slack`;
   const data = await translate({
     client,
     sourceText: value,

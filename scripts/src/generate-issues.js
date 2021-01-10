@@ -12,6 +12,7 @@ async function main() {
       config: {
         reddit: 20,
       },
+      sort: "simple",
     },
     {
       folders: ["data/hn-top"],
@@ -19,6 +20,7 @@ async function main() {
       config: {
         hn: 20,
       },
+      sort: "simple",
     },
     {
       folders: ["data/youtube-top"],
@@ -26,6 +28,7 @@ async function main() {
       config: {
         youtube: 20,
       },
+      sort: "simple",
     },
     {
       folders: ["data/ph-top"],
@@ -33,6 +36,7 @@ async function main() {
       config: {
         ph: 20,
       },
+      sort: "simple",
     },
 
     {
@@ -42,6 +46,7 @@ async function main() {
         reddit: 15,
         tweet: 5,
       },
+      sort: "group",
     },
     {
       folders: ["data/reddit-crypto", "data/tweet-crypto"],
@@ -50,6 +55,7 @@ async function main() {
         reddit: 15,
         tweet: 5,
       },
+      sort: "group",
     },
     {
       folders: ["data/reddit-changemyview"],
@@ -57,6 +63,7 @@ async function main() {
       config: {
         reddit: 20,
       },
+      sort: "simple",
     },
   ];
   const now = Date.now();
@@ -71,7 +78,11 @@ async function main() {
           name: item.name,
         };
       },
+      subtypeParser: (item) => {
+        return item.subreddit;
+      },
       sort: (a, b) => {
+        //
         return b.score - a.score;
       },
       slug: (item) => {
@@ -86,6 +97,9 @@ async function main() {
         return {
           id: item.videoId,
         };
+      },
+      subtypeParser: (item) => {
+        return item.channelId;
       },
       sort: (a, b) => {
         const aScore =
@@ -109,6 +123,9 @@ async function main() {
           id: item.objectID,
         };
       },
+      subtypeParser: (item) => {
+        return item.author;
+      },
       sort: (a, b) => {
         return b.points - a.points;
       },
@@ -125,6 +142,9 @@ async function main() {
           id: item.id,
         };
       },
+      subtypeParser: (item) => {
+        return "ph";
+      },
       sort: (a, b) => {
         return b.votesCount - a.votesCount;
       },
@@ -140,6 +160,9 @@ async function main() {
         return {
           id: item.id_str,
         };
+      },
+      subtypeParser: (item) => {
+        return item.user.id_str;
       },
       sort: (a, b) => {
         const aScore = a.retweet_count * 2 + a.favorite_count;
@@ -184,7 +207,6 @@ async function main() {
       issueDir: issuesDir,
       items: [],
     };
-    console.log("issuesIssueNumbers", issuesIssueNumbers);
     let isNeedToGenerateNewIssue = true;
     if (issuesIssueNumbers && issuesIssueNumbers[0]) {
       // last issue exists
@@ -224,13 +246,13 @@ async function main() {
           directoryItem.config && directoryItem.config[type]
             ? directoryItem.config[type]
             : 20,
+        sort: directoryItem.sort ? directoryItem.sort : "simple",
         items: [],
       });
       const folder = resolve(__dirname, `../../`, directory);
 
       const files = await getFiles(folder);
       const jsonFiles = micromatch(files, "**/*.json");
-      console.log("type", type);
       issueSourceFilesLength += jsonFiles.length;
       for (let i = 0; i < jsonFiles.length; i++) {
         const jsonPath = resolve(__dirname, "../../", jsonFiles[i]);
@@ -293,15 +315,66 @@ async function main() {
     });
   });
 
-  // filter
+  // filter and group by subtype, like subreddit
   const finalGroups = [];
   gruops.forEach((group) => {
     let groupItems = [];
     group.items.forEach((theGroupItem) => {
-      theGroupItem.items.slice(0, theGroupItem.count).forEach((item) => {
-        groupItems.push({
-          type: theGroupItem.type,
-          item: item,
+      const subtypeGroup = {};
+      theGroupItem.items.forEach((realItem) => {
+        // getSubType
+        let subtype = theGroupItem.type;
+        if (theGroupItem.sort === "group") {
+          subtype = `${theGroupItem.type}:${fields[
+            theGroupItem.type
+          ].subtypeParser(realItem)}`;
+        }
+        if (!subtypeGroup[subtype]) {
+          subtypeGroup[subtype] = {
+            type: theGroupItem.type,
+            subtype: subtype,
+            items: [],
+          };
+        }
+        subtypeGroup[subtype].items.push(realItem);
+      });
+
+      const subtypeGroupKeys = Object.keys(subtypeGroup);
+
+      // count ratio
+      subtypeGroupKeys.forEach((subtype, subIndex) => {
+        const subtypeItems = subtypeGroup[subtype].items;
+        let subcount = Math.floor(
+          (theGroupItem.count * subtypeItems.length) / theGroupItem.items.length
+        );
+
+        if (subIndex === subtypeGroupKeys.length - 1) {
+          // remain
+          let sum = 0;
+          for (
+            let sumIndex = 0;
+            sumIndex < subtypeGroupKeys.length - 1;
+            sumIndex++
+          ) {
+            const sumcount = subtypeGroup[subtypeGroupKeys[sumIndex]].subcount;
+            sum += sumcount;
+          }
+
+          subcount = theGroupItem.count - sum;
+        }
+
+        subtypeGroup[subtype].subcount = subcount;
+      });
+
+      subtypeGroupKeys.forEach((subtype) => {
+        const subtypeGroupItem = subtypeGroup[subtype];
+        const subtypecount = subtypeGroupItem.subcount;
+        const subtypeItems = subtypeGroupItem.items;
+        subtypeItems.slice(0, subtypecount).forEach((item) => {
+          groupItems.push({
+            type: theGroupItem.type,
+            item: item,
+          });
         });
       });
     });
@@ -333,7 +406,7 @@ async function main() {
 
         await writeJson(issueFile, finalIssue);
       } else {
-        console.log("no enough items");
+        console.log("no enough items", finalGroup.items.length);
       }
     } else {
       console.log(`no need to generate ${issuesDir}`);
