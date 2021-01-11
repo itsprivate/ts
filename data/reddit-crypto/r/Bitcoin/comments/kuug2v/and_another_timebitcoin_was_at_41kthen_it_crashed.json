@@ -103,5 +103,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1610336695,
-  "the_new_excerpt": "That dude jinxed us this weekend"
+  "the_new_excerpt": "That dude jinxed us this weekend",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "那个家伙这个周末让我们倒霉透了",
+      "title": "还有一次……比特币在41K……然后一路跌到34K。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "那個傢伙這個週末讓我們倒黴透了",
+      "title": "還有一次……比特幣在41K……然後一路跌到34K。"
+    }
+  ]
 }
