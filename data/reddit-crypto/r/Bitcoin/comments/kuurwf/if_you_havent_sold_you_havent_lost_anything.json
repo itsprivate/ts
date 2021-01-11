@@ -103,5 +103,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1610337875,
-  "the_new_excerpt": "You still have as many Sats as you had yesterday.\n\nThat is all."
+  "the_new_excerpt": "You still have as many Sats as you had yesterday.\n\nThat is all.",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你还有和昨天一样多的Sat。\n\n仅此而已。",
+      "title": "如果你没有卖出，你就没有损失任何东西..。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你還有和昨天一樣多的Sat。\n\n僅此而已。",
+      "title": "如果你沒有賣出，你就沒有損失任何東西..。"
+    }
+  ]
 }
