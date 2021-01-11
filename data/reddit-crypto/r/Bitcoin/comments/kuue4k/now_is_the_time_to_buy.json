@@ -105,5 +105,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1610336505,
-  "the_new_excerpt": "Don’t miss this opportunity"
+  "the_new_excerpt": "Don’t miss this opportunity",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "不要错过这个机会",
+      "title": "现在是买进的时候了"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "不要錯過這個機會",
+      "title": "現在是買進的時候了"
+    }
+  ]
 }
