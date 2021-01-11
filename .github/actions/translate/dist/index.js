@@ -2,6 +2,14 @@ module.exports =
 /******/ (() => { // webpackBootstrap
 /******/ 	var __webpack_modules__ = ({
 
+/***/ 90645:
+/***/ ((module) => {
+
+"use strict";
+module.exports = JSON.parse("{\"沙拉克\":\"Slack\",\"铁锈语言\":\"Rust\"}");
+
+/***/ }),
+
 /***/ 14434:
 /***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
 
@@ -214,11 +222,24 @@ main()
 /***/ 9637:
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
+const zhJson = __webpack_require__(90645);
 const replaceAll = __webpack_require__(45371);
 
+const locales = {
+  zh: zhJson,
+};
 module.exports = (data) => {
   if (data.Source === "en" && data.Target === "zh" && data.TargetText) {
     data.TargetText = replaceAll(data.TargetText, /%%/g, " ");
+
+    if (locales[data.Target]) {
+      const locale = locales[data.Target];
+      const keys = Object.keys(locale);
+      keys.forEach((key) => {
+        const value = locale[key];
+        data.TargetText = replaceAll(data.TargetText, key, value);
+      });
+    }
   }
   return data;
 };
