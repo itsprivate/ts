@@ -419,5 +419,17 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Mon Jan 11 22:20:48 +0000 2021"
+  "original_created_at": "Mon Jan 11 22:20:48 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT@Tyler：这是完全错误的。有巨大的机构需求，而且大部分都是沉默的。作为@Gemini…的经营者和所有者",
+      "retweeted_status_full_text": "这是完全错误的。有巨大的机构需求，而且大部分都是沉默的。作为@Gemini的经营者和经营者，我实际上知道，你不会知道。https://t.co/9487m9Bu3w"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT@Tyler：這是完全錯誤的。有巨大的機構需求，而且大部分都是沉默的。作爲@Gemini…的經營者和所有者",
+      "retweeted_status_full_text": "這是完全錯誤的。有巨大的機構需求，而且大部分都是沉默的。作爲@Gemini的經營者和經營者，我實際上知道，你不會知道。https://t.co/9487m9Bu3w"
+    }
+  ]
 }
