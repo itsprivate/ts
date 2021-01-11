@@ -78,5 +78,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-11T08:01:00Z"
+  "original_createdAt": "2021-01-11T08:01:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "晨间告诉你你在哪里度过你的时间，这样你就可以最大限度地利用时间。它是一个Chrome扩展，可以与Google Calendar一起使用。",
+      "tagline": "对您的日历事件进行智能分类"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "晨間告訴你你在哪裏度過你的時間，這樣你就可以最大限度地利用時間。它是一個Chrome擴展，可以與Google Calendar一起使用。",
+      "tagline": "對您的日曆事件進行智能分類"
+    }
+  ]
 }
