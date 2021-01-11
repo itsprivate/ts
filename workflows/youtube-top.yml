@@ -34,6 +34,7 @@ jobs:
         env:
           OUTPUTS_PATH: ${{ on.youtube.outputs.path }}
         with:
+          github-token: ${{ secrets.PERSONAL_TOKEN }}
           script: |
             const generateSources = require(`${process.env.GITHUB_WORKSPACE}/scripts/generate-default.module.js`)
             await generateSources({

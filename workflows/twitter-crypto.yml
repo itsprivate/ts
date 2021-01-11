@@ -66,6 +66,7 @@ jobs:
         env:
           OUTPUTS_PATH: ${{ on.twitter.outputs.path }}
         with:
+          github-token: ${{ secrets.PERSONAL_TOKEN }}
           script: |
             const syncTweets = require(`${process.env.GITHUB_WORKSPACE}/scripts/sync-tweets`)
             const result = await syncTweets({

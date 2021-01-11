@@ -21,6 +21,7 @@ jobs:
       - name: Sync to source
         uses: actions/github-script@v3
         with:
+          github-token: ${{ secrets.PERSONAL_TOKEN }}
           script: |
             const syncResource = require(`${process.env.GITHUB_WORKSPACE}/scripts/sync-i18n-resource-module.js`)
             await syncResource()

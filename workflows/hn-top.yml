@@ -25,6 +25,7 @@ jobs:
         env:
           OUTPUTS_PATH: ${{ on.poll.outputs.path }}
         with:
+          github-token: ${{ secrets.PERSONAL_TOKEN }}
           script: |
             const generateSources = require(`${process.env.GITHUB_WORKSPACE}/scripts/generate-hn-module.js`)
             await generateSources()

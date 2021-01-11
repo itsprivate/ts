@@ -30,6 +30,7 @@ jobs:
           ITEM_ID: ${{on.script.outputs.id}}
           ITEM_STATUS: ${{ steps.telegram.success }}
         with:
+          github-token: ${{ secrets.PERSONAL_TOKEN }}
           script: |
             const set = require(`${process.env.GITHUB_WORKSPACE}/scripts/set.js`)
             const t = new Date().toISOString()
@@ -56,6 +57,7 @@ jobs:
           ITEM_ID: ${{on.script.outputs.id}}
           ITEM_STATUS: ${{ steps.ifttt.success }}
         with:
+          github-token: ${{ secrets.PERSONAL_TOKEN }}
           script: |
             const set = require(`${process.env.GITHUB_WORKSPACE}/scripts/set.js`)
             const t = new Date().toISOString()
