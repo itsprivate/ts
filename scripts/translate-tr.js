@@ -1,6 +1,6 @@
 require("dotenv").config();
 const tencentcloud = require("tencentcloud-sdk-nodejs");
-
+const DeeplClient = require("../.github/actions/translate/src/deepl-client");
 const translate = require("../.github/actions/translate/src/translate");
 const TmtClient = tencentcloud.tmt.v20180321.Client;
 
@@ -17,10 +17,11 @@ const clientConfig = {
   },
 };
 const client = new TmtClient(clientConfig);
+const deelyClient = new DeeplClient();
 async function main() {
-  const value = `Test Slack`;
+  const value = `Hello World`;
   const data = await translate({
-    client,
+    client: deelyClient,
     sourceText: value,
     source: "en",
     target: "zh",

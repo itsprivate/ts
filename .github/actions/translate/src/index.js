@@ -4,11 +4,12 @@ const path = require("path");
 const fsPure = require("fs");
 const fs = fsPure.promises;
 const translate = require("./translate");
+const DeeplClient = require("./deepl-client");
 const { readdir } = fs;
 const { resolve, relative } = path;
 const githubWorkspace =
   process.env.GITHUB_WORKSPACE || path.resolve(__dirname, "../../../../");
-async function main() {
+async function main({ provider = "tencent" }) {
   const TmtClient = tencentcloud.tmt.v20180321.Client;
 
   const clientConfig = {
@@ -25,6 +26,11 @@ async function main() {
   };
 
   const client = new TmtClient(clientConfig);
+  const deeplClient = new DeeplClient();
+  const clientMap = {
+    tencent: client,
+    deepl: deeplClient,
+  };
   const locales = ["zh"];
   const allFiles = await getFiles("./i18n/post-resource/en");
   console.log("allFiles", allFiles);
@@ -60,7 +66,7 @@ async function main() {
         if (value && targetObj[key] === undefined) {
           isChanged = true;
           const data = await translate({
-            client,
+            client: clientMap[provider],
             sourceText: value,
             source: "en",
             target: locale,
@@ -70,6 +76,10 @@ async function main() {
         }
       }
       zhSourceObj = targetObj;
+      // clean
+      if (provider === "deepl") {
+        await deeplClient.quit();
+      }
       // if changed
       if (isChanged) {
         // write
