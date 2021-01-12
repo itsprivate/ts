@@ -63,5 +63,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-12T08:33:44Z"
+  "original_createdAt": "2021-01-12T08:33:44Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Bold是一个托管的无头CMS SaaS应用程序，它使出版商能够使用任何技术栈，通过结构化的API在现代设备和屏幕上毫不费力地创建、策划和发布他们的内容。",
+      "tagline": "了解您的内容的CMS"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Bold是一個託管的無頭CMS SaaS應用程序，它使出版商能夠使用任何技術棧，通過結構化的API在現代設備和屏幕上毫不費力地創建、策劃和發佈他們的內容。",
+      "tagline": "瞭解您的內容的CMS"
+    }
+  ]
 }
