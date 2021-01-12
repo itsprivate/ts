@@ -65,14 +65,18 @@ async function main() {
         const value = enSourceObj[key];
         if (value && targetObj[key] === undefined) {
           isChanged = true;
-          const data = await translate({
-            client: clientMap[provider],
-            sourceText: value,
-            source: "en",
-            target: locale,
-          });
-          // request
-          targetObj[key] = data.TargetText;
+          try {
+            const data = await translate({
+              client: clientMap[provider],
+              sourceText: value,
+              source: "en",
+              target: locale,
+            });
+            // request
+            targetObj[key] = data.TargetText;
+          } catch (error) {
+            console.error("translate error,", error);
+          }
         }
       }
       zhSourceObj = targetObj;
@@ -115,14 +119,18 @@ async function main() {
       const value = zhSourceObj[key];
       if (value && zhHantObj[key] === undefined) {
         isChanged = true;
-        const data = await translate({
-          client,
-          sourceText: value,
-          source: "zh",
-          target: "zh-Hant",
-        });
-        // request
-        zhHantObj[key] = data.TargetText;
+        try {
+          const data = await translate({
+            client,
+            sourceText: value,
+            source: "zh",
+            target: "zh-Hant",
+          });
+          // request
+          zhHantObj[key] = data.TargetText;
+        } catch (error) {
+          console.error("translate error", error);
+        }
       }
     }
     // if changed
