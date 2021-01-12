@@ -6,7 +6,8 @@ const getBrowser = async () => {
   if (browser) return browser;
   browser = await require("puppeteer").launch({
     defaultViewport: null,
-    executablePath: "./.github/actions/translate/dist/.local-chromium",
+    executablePath:
+      "./.github/actions/translate/local-chromium/linux-818858/chrome-linux",
   });
   browser.on("disconnected", () => (browser = null));
   return browser;
