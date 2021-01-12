@@ -16,7 +16,7 @@ jobs:
       - uses: actions/setup-node@v2-beta
         with:
           node-version: "12"
-      - run: npm install && npm run build:action
+      - run: PUPPETEER_DOWNLOAD_PATH="$PWD/.github/actions/translate/dist/.local-chromium" npm install && npm run build:action
         env:
           CI: true
       - uses: actions/upload-artifact@v2
