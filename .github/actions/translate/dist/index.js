@@ -44,8 +44,6 @@ const getBrowser = async () => {
   if (browser) return browser;
   browser = await __webpack_require__(19014).launch({
     defaultViewport: null,
-    executablePath:
-      "./.github/actions/translate/local-chromium/linux-818858/chrome-linux",
   });
   browser.on("disconnected", () => (browser = null));
   return browser;
