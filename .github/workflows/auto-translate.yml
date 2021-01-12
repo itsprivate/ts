@@ -16,6 +16,7 @@ jobs:
       - name: Translate
         uses: ./.github/actions/translate
         with:
+          provider: deepl
           secret_id: ${{ secrets.TENCENT_TRANSLATION_SECRET_ID }}
           secret_key: ${{ secrets.TENCENT_TRANSLATION_SECRET_KEY }}
       - name: Sync to source
