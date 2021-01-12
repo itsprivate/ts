@@ -11,7 +11,7 @@ const githubWorkspace =
   process.env.GITHUB_WORKSPACE || path.resolve(__dirname, "../../../../");
 async function main() {
   const TmtClient = tencentcloud.tmt.v20180321.Client;
-  const provider = core.getInput("provider") || 'tencent',
+  const provider = core.getInput("provider") || "tencent";
   const clientConfig = {
     credential: {
       secretId: core.getInput("secret_id"),
