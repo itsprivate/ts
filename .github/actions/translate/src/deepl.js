@@ -36,6 +36,7 @@ module.exports = {
     const page = await getNewPage();
     await page.setViewport({ width: 800, height: 1200 });
     await page.goto(homepage);
+    await page.waitForTimeout(1000);
     await page.click(sourceLangSelect);
     await page.waitForSelector(sourceLangMenu, { visible: true });
     try {
