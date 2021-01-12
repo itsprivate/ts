@@ -63,5 +63,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-11T17:55:08Z"
+  "original_createdAt": "2021-01-11T17:55:08Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "我们的Polaris for Admin Web UI工具包现在可以在图中找到。您可以通过可重用组件和最新的北极星指南、图标和调色板访问Figma中的完整套件。欲了解更多信息，请访问https://figma.com/@shopify和https://polaris.shopify.com",
+      "tagline": "Shopify Polaris UI套件现已在图中提供"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們的Polaris for Admin Web UI工具包現在可以在圖中找到。您可以通過可重用組件和最新的北極星指南、圖標和調色板訪問Figma中的完整套件。欲瞭解更多信息，請訪問https://figma.com/@shopify和https://polaris.shopify.com",
+      "tagline": "Shopify Polaris UI套件現已在圖中提供"
+    }
+  ]
 }
