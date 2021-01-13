@@ -39,11 +39,15 @@ module.exports = {
     await page.waitForTimeout(1000);
     await page.click(sourceLangSelect);
     await page.waitForSelector(sourceLangMenu, { visible: true });
+    await page.waitForTimeout(500);
+
     try {
       await page.click(sourceLangButton);
     } catch (_) {
       throw new Error("UNSUPPORTED_SOURCE_LANGUAGE");
     }
+    // await page.screenshot({ path: "buddy-screenshot0.png" });
+
     await page.waitForSelector(sourceLangMenu, { hidden: true });
 
     await page.click(targetLangSelect);
@@ -54,9 +58,10 @@ module.exports = {
       throw new Error("UNSUPPORTED_TARGET_LANGUAGE");
     }
     await page.waitForSelector(targetLangMenu, { hidden: true });
-
+    // await page.screenshot({ path: "buddy-screenshot.png" });
     await page.waitForSelector(originalSentenceField);
     await page.type(originalSentenceField, sentence);
+    await page.screenshot({ path: "buddy-screenshot2.png" });
 
     let sentences = [];
     let _res = {};
