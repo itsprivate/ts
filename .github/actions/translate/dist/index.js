@@ -19,7 +19,10 @@ module.exports = /******/ (() => {
           const setence = params.SourceText;
           const source = params.Source;
           const target = params.Target === "zh" ? "zh-ZH" : params.Target;
+          console.log("setence", source, target, setence);
+
           return await translate(setence, source, target).then((data) => {
+            console.log("result", data.target.translation);
             return {
               TargetText: data.target.translation,
             };
@@ -57722,11 +57725,10 @@ LimitTypes取值范围：
     /******/
     /******/ /******/ return module.exports;
     /******/
-  } /* webpack/runtime/compat */
+  } /* webpack/runtime/compat */ /******/
   /******/
   /************************************************************************/
-  /******/ /******/
-  /******/ __webpack_require__.ab =
+  /******/ /******/ __webpack_require__.ab =
     __dirname +
     "/"; /************************************************************************/ // module exports must be returned from runtime so entry inlining is disabled // startup // Load entry module and return exports
   /******/ /******/ /******/ /******/ return __webpack_require__(14434);
