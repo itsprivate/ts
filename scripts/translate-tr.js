@@ -19,13 +19,14 @@ const clientConfig = {
 const client = new TmtClient(clientConfig);
 const deelyClient = new DeeplClient();
 async function main() {
-  const value = `Hello World`;
+  const value = `HN提问: Brauchen wir eine Google-Kunden-Union? Könnte sie funktionieren?`;
   const data = await translate({
     client: deelyClient,
     sourceText: value,
     source: "en",
     target: "zh",
   });
+  await deelyClient.quit();
   console.log("data", data);
 }
 
