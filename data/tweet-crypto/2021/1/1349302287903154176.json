@@ -300,5 +300,17 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Wed Jan 13 10:28:28 +0000 2021"
+  "original_created_at": "Wed Jan 13 10:28:28 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "这应该是每一个金融机构、每一个CIO、每一个财务处的第一要务......但它还不是(尚未)🌪️https://t.co/e2BEGMchBH。",
+      "quoted_status_full_text": "#比特币%%期货基础收益率~20%年化https://t.co/XZ9jTXE8wb。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "這應該是每一個金融機構、每一個CIO、每一個財務處的第一要務......但它還不是(尚未)🌪️https://t.co/e2BEGMchBH。",
+      "quoted_status_full_text": "#比特幣%%期貨基礎收益率~20%年化https://t.co/XZ9jTXE8wb。"
+    }
+  ]
 }
