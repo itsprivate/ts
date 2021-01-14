@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-01-14T16:12:01.000Z",
-  "image": "https://source.winehq.org/git/git-logo.png"
+  "image": "https://source.winehq.org/git/git-logo.png",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "葡萄酒6.0"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "葡萄酒6.0"
+    }
+  ]
 }
