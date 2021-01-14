@@ -85,6 +85,7 @@ async function main() {
           isChanged = true;
           try {
             const data = await translate({
+              provider: provider,
               client: clientMap[provider],
               sourceText: value,
               source: "en",
@@ -96,6 +97,7 @@ async function main() {
               // translate zh-Hant
 
               const tempZhHantData = await translate({
+                provider,
                 client,
                 sourceText: targetObj[key],
                 source: "zh",
@@ -159,6 +161,7 @@ async function main() {
         isChanged = true;
         try {
           const data = await translate({
+            provider,
             client,
             sourceText: value,
             source: "zh",
@@ -221,6 +224,7 @@ async function main() {
         isChanged = true;
         const data = await translate({
           client,
+          provider,
           sourceText: value,
           source: "zh",
           target: targetLocale,

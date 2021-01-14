@@ -15,4 +15,7 @@ module.exports = class DeeplClient {
   async quit() {
     await quit();
   }
+  provider() {
+    return "deepl";
+  }
 };

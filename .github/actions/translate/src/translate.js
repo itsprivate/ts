@@ -4,13 +4,14 @@ const converter = new OpenCC("s2t.json");
 const postTranslate = require("./post-translate");
 module.exports = async ({
   client,
+  provider = "tencent",
   sourceText,
   source = "en",
   target = "zh",
 }) => {
   let preSourceText = sourceText;
   let untranslatedText;
-  if (source === "en") {
+  if (source === "en" && provider === "tencent") {
     const { text, untranslatedText: untranslatedTextResult } = preTranslate({
       text: sourceText,
       lang: target,
@@ -42,6 +43,9 @@ module.exports = async ({
   }
 
   const data = await client.TextTranslate(params);
-
-  return postTranslate(data);
+  if (provider === "tencent") {
+    return postTranslate(data);
+  } else {
+    return data;
+  }
 };
