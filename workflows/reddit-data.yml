@@ -1,9 +1,7 @@
 on:
   reddit:
     url:
-      - https://www.reddit.com/r/stocks/top/
-      - https://www.reddit.com/r/investing/top/
-      - https://www.reddit.com/r/wallstreetbets/top/
+      - https://www.reddit.com/r/dataisbeautiful/top/
     # url: https://www.reddit.com/r/all/top/
     source: json
     config:
@@ -12,10 +10,7 @@ on:
       outputsMode: combine
       exportOutputs: true
       filterScript: |
-        if(item.subreddit==='wallstreetbets' && item.score<1000){
-          return false
-        }
-        if(item.score>40){
+        if(item.score>100){
           return true
         }
 
@@ -49,7 +44,7 @@ jobs:
           script: |
             const generateSources = require(`${process.env.GITHUB_WORKSPACE}/scripts/generate-reddit-top-module.js`)
             await generateSources({
-              dest:"./data/reddit-stocks",
-              name:"reddit-stocks"
+              dest:"./data/reddit-data",
+              name:"reddit-data"
             })
             return true
