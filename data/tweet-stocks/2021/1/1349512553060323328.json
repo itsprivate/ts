@@ -91,5 +91,15 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Thu Jan 14 00:24:00 +0000 2021"
+  "original_created_at": "Thu Jan 14 00:24:00 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "你总是听说有人花了1万比特币买了几个披萨。那交易的另一方的人呢？\n\n这些币现在价值近4亿美元。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "你總是聽說有人花了1萬比特幣買了幾個披薩。那交易的另一方的人呢？\n\n這些幣現在價值近4億美元。"
+    }
+  ]
 }
