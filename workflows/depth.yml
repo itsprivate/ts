@@ -1,15 +1,8 @@
 on:
   reddit:
     url:
-      - https://www.reddit.com/r/AskReddit/top/
-      - https://www.reddit.com/r/Ask_Politics/top/
-      - https://www.reddit.com/r/AskHistorians/top/
-      - https://www.reddit.com/r/AskMen/top/
-      - https://www.reddit.com/r/AskWomen/top/
-      - https://www.reddit.com/r/TooAfraidToAsk/top/
-      - https://www.reddit.com/r/NoStupidQuestions/top/
-      - https://www.reddit.com/r/TrueAskReddit/top/
-      - https://www.reddit.com/r/askscience/top/
+      - https://www.reddit.com/r/TrueReddit/top/
+      - https://www.reddit.com/r/Foodforthought/top/
     # url: https://www.reddit.com/r/all/top/
     source: json
     config:
@@ -18,9 +11,6 @@ on:
       outputsMode: combine
       exportOutputs: true
       filterScript: |
-        if(item.subreddit==='AskReddit' && item.score<1000){
-          return false
-        }
         if(item.score>100){
           return true
         }
@@ -55,7 +45,7 @@ jobs:
           script: |
             const generateSources = require(`${process.env.GITHUB_WORKSPACE}/scripts/generate-reddit-top-module.js`)
             await generateSources({
-              dest:"./data/reddit-ask",
-              name:"reddit-ask"
+              dest:"./data/reddit-depth",
+              name:"reddit-depth"
             })
             return true
