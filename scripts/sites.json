@@ -286,6 +286,63 @@
       "telegram_chat_id": "-1001406368978"
     },
     {
+      "url": "https://ask.buzzing.cc",
+      "name": "Reddit 热门提问",
+      "short_name": "Reddit提问",
+      "start_url": "/",
+      "lang": "zh",
+      "description": "用中文浏览 Reddit 上的热门提问",
+      "background_color": "#f7f0eb",
+      "theme_color": "#FF4500",
+      "display": "standalone",
+      "telegram": "@buzzingcc",
+      "telegram_chat_id": "-1001406368978",
+      "cacheDigest": "7d9376199c46f0ffdd60844161742558",
+      "icons": [
+        {
+          "src": "icons/icon-48x48.png?v=7d9376199c46f0ffdd60844161742558",
+          "sizes": "48x48",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-72x72.png?v=7d9376199c46f0ffdd60844161742558",
+          "sizes": "72x72",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-96x96.png?v=7d9376199c46f0ffdd60844161742558",
+          "sizes": "96x96",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-144x144.png?v=7d9376199c46f0ffdd60844161742558",
+          "sizes": "144x144",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-192x192.png?v=7d9376199c46f0ffdd60844161742558",
+          "sizes": "192x192",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-256x256.png?v=7d9376199c46f0ffdd60844161742558",
+          "sizes": "256x256",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-384x384.png?v=7d9376199c46f0ffdd60844161742558",
+          "sizes": "384x384",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-512x512.png?v=7d9376199c46f0ffdd60844161742558",
+          "sizes": "512x512",
+          "type": "image/png"
+        }
+      ],
+      "issueCount": 0
+    },
+    {
       "url": "https://youtube.buzzing.cc",
       "name": "Youtuber热门",
       "short_name": "Youtube热门",
@@ -514,5 +571,5 @@
       "telegram_chat_id": "-1001406368978"
     }
   ],
-  "source_updated_at": 1610636130115
+  "source_updated_at": 1610644517541
 }
