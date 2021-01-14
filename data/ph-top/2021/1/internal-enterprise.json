@@ -93,5 +93,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-13T14:00:00Z"
+  "original_createdAt": "2021-01-13T14:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Internal新的企业级应用构建器包括一个灵活的拖放式UI以构建工具，强大的开发工具以连接到任何API，以及强大的安全选项，包括许可的数据流和SOC 2认证的云或内部托管。",
+      "tagline": "Erstellen Sie schnell unternehmenstaugliche interne Tools."
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Internal新的企業級應用構建器包括一個靈活的拖放式UI以構建工具，強大的開發工具以連接到任何API，以及強大的安全選項，包括許可的數據流和SOC 2認證的雲或內部託管。",
+      "tagline": "Erstellen Sie schnell unternehmenstaugliche interne Tools."
+    }
+  ]
 }
