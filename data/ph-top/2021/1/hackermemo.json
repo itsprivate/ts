@@ -102,5 +102,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-13T10:05:30Z"
+  "original_createdAt": "2021-01-13T10:05:30Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Hacker Memo ist eine einfache Memo-App, die nach \"Coolness\" strebt. Das Design ist an das Bild von Science-Fiction- und Spionagefilmen wie \"The Matrix\" und \"007\" angelehnt.",
+      "tagline": " 最酷的备忘录应用，适合科幻爱好者使用。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Hacker Memo ist eine einfache Memo-App, die nach \"Coolness\" strebt. Das Design ist an das Bild von Science-Fiction- und Spionagefilmen wie \"The Matrix\" und \"007\" angelehnt.",
+      "tagline": " 最酷的備忘錄應用，適合科幻愛好者使用。"
+    }
+  ]
 }
