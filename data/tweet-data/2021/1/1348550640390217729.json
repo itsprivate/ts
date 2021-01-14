@@ -91,5 +91,15 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Mon Jan 11 08:41:42 +0000 2021"
+  "original_created_at": "Mon Jan 11 08:41:42 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "金融界：比特币价格今天跌幅超过12%，现在交易价格为35400美元。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "金融界：比特幣價格今天跌幅超過12%，現在交易價格爲35400美元。"
+    }
+  ]
 }
