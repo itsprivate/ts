@@ -48,6 +48,7 @@ module.exports = /******/ (() => {
         if (browser) return browser;
         browser = await __webpack_require__(79750).launch({
           defaultViewport: null,
+          args: ["--lang=zh-Hans,zh"],
         });
         browser.on("disconnected", () => (browser = null));
         return browser;
@@ -98,7 +99,7 @@ module.exports = /******/ (() => {
 
           await page.click(targetLangSelect);
           await page.waitForSelector(targetLangMenu, { visible: true });
-          await page.waitForTimeout(500);
+          // await page.waitForTimeout(500);
           try {
             await page.click(targetLangButton);
           } catch (_) {
@@ -57730,11 +57731,10 @@ LimitTypes取值范围：
     /******/
     /******/ /******/ return module.exports;
     /******/
-  } /* webpack/runtime/compat */
+  } /* webpack/runtime/compat */ /******/
   /******/
   /************************************************************************/
-  /******/ /******/
-  /******/ __webpack_require__.ab =
+  /******/ /******/ __webpack_require__.ab =
     __dirname +
     "/"; /************************************************************************/ // module exports must be returned from runtime so entry inlining is disabled // startup // Load entry module and return exports
   /******/ /******/ /******/ /******/ return __webpack_require__(14434);

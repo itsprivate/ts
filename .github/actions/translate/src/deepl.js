@@ -6,6 +6,7 @@ const getBrowser = async () => {
   if (browser) return browser;
   browser = await require("puppeteer").launch({
     defaultViewport: null,
+    args: ["--lang=zh-Hans,zh"],
   });
   browser.on("disconnected", () => (browser = null));
   return browser;
@@ -37,6 +38,8 @@ module.exports = {
     await page.setViewport({ width: 800, height: 1200 });
     await page.goto(homepage);
     await page.waitForTimeout(1000);
+    // await page.screenshot({ path: "buddy-screenshot0.png" });
+
     await page.click(sourceLangSelect);
     await page.waitForSelector(sourceLangMenu, { visible: true });
     await page.waitForTimeout(500);
@@ -52,7 +55,6 @@ module.exports = {
 
     await page.click(targetLangSelect);
     await page.waitForSelector(targetLangMenu, { visible: true });
-    await page.waitForTimeout(500);
     try {
       await page.click(targetLangButton);
     } catch (_) {
