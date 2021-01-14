@@ -63,5 +63,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-14T09:00:35Z"
+  "original_createdAt": "2021-01-14T09:00:35Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "qr.eletto.dev是一个简单的二维码生成器，适用于开发者。它可以用于任何项目中快速生成二维码。不需要在你的项目中安装库来生成二维码，你只需要使用URL作为图像即可。",
+      "tagline": "在您的应用程序中生成QR码的快速API。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "qr.eletto.dev是一個簡單的二維碼生成器，適用於開發者。它可以用於任何項目中快速生成二維碼。不需要在你的項目中安裝庫來生成二維碼，你只需要使用URL作爲圖像即可。",
+      "tagline": "在您的應用程序中生成QR碼的快速API。"
+    }
+  ]
 }
