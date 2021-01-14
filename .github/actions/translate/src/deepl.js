@@ -55,6 +55,7 @@ module.exports = {
 
     await page.click(targetLangSelect);
     await page.waitForSelector(targetLangMenu, { visible: true });
+    await page.waitForTimeout(100);
     try {
       await page.click(targetLangButton);
     } catch (_) {
