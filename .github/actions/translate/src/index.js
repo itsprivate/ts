@@ -60,6 +60,24 @@ async function main() {
       // check
       const enKeys = Object.keys(enSourceObj);
       let isChanged = false;
+
+      const tempZhHantTarget = `i18n/post-resource/zh-Hant/${filename}.json`;
+      const tempZhHantTargetAbsolutePath = path.resolve(
+        githubWorkspace,
+        tempZhHantTarget
+      );
+      const tempIfLocaleFileExist = fsPure.existsSync(
+        tempZhHantTargetAbsolutePath
+      );
+      if (!tempIfLocaleFileExist) {
+        await fs.writeFile(tempZhHantTargetAbsolutePath, "{}");
+      }
+      const tempZhHantTargetJSON = await fs.readFile(
+        tempZhHantTargetAbsolutePath,
+        "utf8"
+      );
+      const tempZhHantObj = JSON.parse(tempZhHantTargetJSON);
+      let isZhHantChanged = false;
       for (let k = 0; k < enKeys.length; k++) {
         const key = enKeys[k];
         const value = enSourceObj[key];
@@ -74,6 +92,18 @@ async function main() {
             });
             // request
             targetObj[key] = data.TargetText;
+            if (locale === "zh") {
+              // translate zh-Hant
+
+              const tempZhHantData = await translate({
+                client,
+                sourceText: targetObj[key],
+                source: "zh",
+                target: "zh-Hant",
+              });
+              isZhHantChanged = true;
+              tempZhHantObj[key] = tempZhHantData.TargetText;
+            }
           } catch (error) {
             console.error("translate error,", error);
           }
@@ -91,6 +121,14 @@ async function main() {
         await fs.writeFile(
           targetAbsoluteFilePath,
           JSON.stringify(targetObj, null, 2)
+        );
+      }
+      if (isZhHantChanged) {
+        // write
+        console.log(`Write ${tempZhHantTargetAbsolutePath}`);
+        await fs.writeFile(
+          tempZhHantTargetAbsolutePath,
+          JSON.stringify(tempZhHantObj, null, 2)
         );
       }
     }
