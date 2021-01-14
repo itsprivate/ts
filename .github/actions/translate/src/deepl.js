@@ -52,6 +52,7 @@ module.exports = {
 
     await page.click(targetLangSelect);
     await page.waitForSelector(targetLangMenu, { visible: true });
+    await page.waitForTimeout(500);
     try {
       await page.click(targetLangButton);
     } catch (_) {
@@ -61,7 +62,7 @@ module.exports = {
     // await page.screenshot({ path: "buddy-screenshot.png" });
     await page.waitForSelector(originalSentenceField);
     await page.type(originalSentenceField, sentence);
-    await page.screenshot({ path: "buddy-screenshot2.png" });
+    // await page.screenshot({ path: "buddy-screenshot2.png" });
 
     let sentences = [];
     let _res = {};
