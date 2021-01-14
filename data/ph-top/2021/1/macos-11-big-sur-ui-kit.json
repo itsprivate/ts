@@ -88,5 +88,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-14T12:12:46Z"
+  "original_createdAt": "2021-01-14T12:12:46Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "为Sketch获得令人难以置信的详细和最准确的macOS UI Kit。该库加载了数百种组件、颜色和文本样式。可以说是最快的方式来开始你的Mac应用设计。",
+      "tagline": "最详细、最准确的macOS用户界面工具包，适用于Sketch💎。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "爲Sketch獲得令人難以置信的詳細和最準確的macOS UI Kit。該庫加載了數百種組件、顏色和文本樣式。可以說是最快的方式來開始你的Mac應用設計。",
+      "tagline": "最詳細、最準確的macOS用戶界面工具包，適用於Sketch💎。"
+    }
+  ]
 }
