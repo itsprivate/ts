@@ -103,5 +103,15 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1610578087,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "你的任务是向从未看过电影的人介绍3部电影。标准是：一部让你害怕的电影，一部让你大笑的电影，一部让你在最后被震撼的电影。你选哪3部电影？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你的任務是向從未看過電影的人介紹3部電影。標準是：一部讓你害怕的電影，一部讓你大笑的電影，一部讓你在最後被震撼的電影。你選哪3部電影？"
+    }
+  ]
 }
