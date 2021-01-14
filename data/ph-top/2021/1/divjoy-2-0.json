@@ -68,5 +68,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-14T08:47:16Z"
+  "original_createdAt": "2021-01-14T08:47:16Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Divjoy 使得开始您的下一个 React 项目变得非常简单。在您的代码库中挑选您需要的所有东西（UI 工具包、认证、数据库、支付等），选择一个漂亮的模板，然后导出一个完整的 React 代码库。一切都能正常工作 😻。",
+      "tagline": "React代码库和UI生成器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Divjoy 使得開始您的下一個 React 項目變得非常簡單。在您的代碼庫中挑選您需要的所有東西（UI 工具包、認證、數據庫、支付等），選擇一個漂亮的模板，然後導出一個完整的 React 代碼庫。一切都能正常工作 😻。",
+      "tagline": "React代碼庫和UI生成器"
+    }
+  ]
 }
