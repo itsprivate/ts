@@ -53,5 +53,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-14T09:17:37Z"
+  "original_createdAt": "2021-01-14T09:17:37Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "将Enlightn视为您的性能和安全顾问。120项自动检查可以 \"审查 \"你的代码, 服务器配置和更多, 以提供可操作的建议来提高你的Laravel应用程序的性能和安全性.",
+      "tagline": "个性化的建议来改善你的Laravel代码"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "將Enlightn視爲您的性能和安全顧問。120項自動檢查可以 \"審查 \"你的代碼, 服務器配置和更多, 以提供可操作的建議來提高你的Laravel應用程序的性能和安全性.",
+      "tagline": "個性化的建議來改善你的Laravel代碼"
+    }
+  ]
 }
