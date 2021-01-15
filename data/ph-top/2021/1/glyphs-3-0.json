@@ -98,5 +98,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-15T08:01:00Z"
+  "original_createdAt": "2021-01-15T08:01:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Glyphs 3是一款Mac字体编辑器，让你掌控一切：快速绘制高精度矢量，高效重用形状，轻松管理任意数量的字母、数字和符号。",
+      "tagline": "在 Mac 上建立、编辑和管理字体。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Glyphs 3是一款Mac字體編輯器，讓你掌控一切：快速繪製高精度矢量，高效重用形狀，輕鬆管理任意數量的字母、數字和符號。",
+      "tagline": "在 Mac 上建立、編輯和管理字體。"
+    }
+  ]
 }
