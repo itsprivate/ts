@@ -73,5 +73,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-15T08:01:00Z"
+  "original_createdAt": "2021-01-15T08:01:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Drata通过持续监控其安全态势并自动收集AWS、GCP、GitHub、Jira、Gusto、G Suite、Office365等的控制证据，每年可为公司节省数百小时的时间，以获得并保持SOC 2合规性。",
+      "tagline": "将SOC 2合规性置于自动驾驶状态"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Drata通過持續監控其安全態勢並自動收集AWS、GCP、GitHub、Jira、Gusto、G Suite、Office365等的控制證據，每年可爲公司節省數百小時的時間，以獲得並保持SOC 2合規性。",
+      "tagline": "將SOC 2合規性置於自動駕駛狀態"
+    }
+  ]
 }
