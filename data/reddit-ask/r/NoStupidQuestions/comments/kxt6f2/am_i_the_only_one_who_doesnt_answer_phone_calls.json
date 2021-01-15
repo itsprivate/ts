@@ -101,5 +101,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1610712024,
-  "the_new_excerpt": "I just let that shit go to voicemail, bad habit of mine"
+  "the_new_excerpt": "I just let that shit go to voicemail, bad habit of mine",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我只是让这狗屎转到语音信箱，我的坏习惯。",
+      "title": "难道只有我不知道是谁给我打电话就不接电话吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我只是讓這狗屎轉到語音信箱，我的壞習慣。",
+      "title": "難道只有我不知道是誰給我打電話就不接電話嗎？"
+    }
+  ]
 }
