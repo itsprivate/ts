@@ -268,5 +268,17 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Mon Jan 04 18:52:15 +0000 2021"
+  "original_created_at": "Mon Jan 04 18:52:15 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @Scaramucci：我们@SkyBridge在11/12月进入#比特币%%市场，目前持仓约300mm，今天推出了#比特币%%基金关...",
+      "retweeted_status_full_text": "我们@SkyBridge在11月/12月进入#比特币%%市场，目前持仓量约300mm，今天面向认可的投资者推出了#比特币%%基金发行。我们相信我们正处于一个新资产类别的早期阶段，具有巨大的上升空间。https://t.co/mVx5U4JV31。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @Scaramucci：我們@SkyBridge在11/12月進入#比特幣%%市場，目前持倉約300mm，今天推出了#比特幣%%基金關...",
+      "retweeted_status_full_text": "我們@SkyBridge在11月/12月進入#比特幣%%市場，目前持倉量約300mm，今天面向認可的投資者推出了#比特幣%%基金髮行。我們相信我們正處於一個新資產類別的早期階段，具有巨大的上升空間。https://t.co/mVx5U4JV31。"
+    }
+  ]
 }
