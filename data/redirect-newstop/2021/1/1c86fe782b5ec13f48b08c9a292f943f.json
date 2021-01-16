@@ -14,5 +14,15 @@
   "tags": [
     "Fox News"
   ],
-  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Icecream.jpg"
+  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Icecream.jpg",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "来自中国的冰激凌被冠状病毒污染：报告"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "來自中國的冰激凌被冠狀病毒污染：報告"
+    }
+  ]
 }
