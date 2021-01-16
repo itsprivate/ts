@@ -232,5 +232,17 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Sat Jan 16 09:41:18 +0000 2021"
+  "original_created_at": "Sat Jan 16 09:41:18 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "ICYMI \"Tether打印并不能Granger导致比特币价格变动。然而它确实提供了证据表明，比特币价格确实格兰杰导致Tether打印。\" https://t.co/Rr4wsebtsU。",
+      "quoted_status_full_text": "我刚刚发表了#比特币%%和美元Tetherhttps://t.co/zA7VJrFmle。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "ICYMI \"Tether打印並不能Granger導致比特幣價格變動。然而它確實提供了證據表明，比特幣價格確實格蘭傑導致Tether打印。\" https://t.co/Rr4wsebtsU。",
+      "quoted_status_full_text": "我剛剛發表了#比特幣%%和美元Tetherhttps://t.co/zA7VJrFmle。"
+    }
+  ]
 }

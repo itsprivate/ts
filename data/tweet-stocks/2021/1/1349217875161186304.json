@@ -361,5 +361,17 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Wed Jan 13 04:53:03 +0000 2021"
+  "original_created_at": "Wed Jan 13 04:53:03 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @zerohedge: 有人在说谎 https://t.co/LC9K8OjCI8",
+      "retweeted_status_full_text": "有人在撒谎https://t.co/LC9K8OjCI8"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @zerohedge: 有人在說謊 https://t.co/LC9K8OjCI8",
+      "retweeted_status_full_text": "有人在撒謊https://t.co/LC9K8OjCI8"
+    }
+  ]
 }
