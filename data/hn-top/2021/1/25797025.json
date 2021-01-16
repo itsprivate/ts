@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-01-15T21:52:19.000Z",
-  "image": "https://ziglang.org/heart.svg"
+  "image": "https://ziglang.org/heart.svg",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "既然已经有了C++、D和Rust，为什么还要Zig？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "既然已經有了C++、D和Rust，爲什麼還要Zig？"
+    }
+  ]
 }
