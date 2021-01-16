@@ -78,5 +78,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-16T08:49:19Z"
+  "original_createdAt": "2021-01-16T08:49:19Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "🚀 Codekeep 可以让你存储并与其他用户分享代码和文本片段。可以将代码片段组织到文件夹/标签中，以便即时重复使用。创建代码截图，并与codekeep链接。",
+      "tagline": "组织、发现和共享代码片段"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "🚀 Codekeep 可以讓你存儲並與其他用戶分享代碼和文本片段。可以將代碼片段組織到文件夾/標籤中，以便即時重複使用。創建代碼截圖，並與codekeep鏈接。",
+      "tagline": "組織、發現和共享代碼片段"
+    }
+  ]
 }
