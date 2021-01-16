@@ -14,5 +14,15 @@
   "tags": [
     "Fox News"
   ],
-  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/wuhan_resized.jpg"
+  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/wuhan_resized.jpg",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "国务院表示，武汉实验室研究人员可能在2019年秋季患上COVID。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "國務院表示，武漢實驗室研究人員可能在2019年秋季患上COVID。"
+    }
+  ]
 }
