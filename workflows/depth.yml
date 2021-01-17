@@ -11,7 +11,7 @@ on:
       outputsMode: combine
       exportOutputs: true
       filterScript: |
-        if(item.score>80){
+        if(item.score>50){
           return true
         }
 
