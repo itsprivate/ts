@@ -91,5 +91,15 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Fri Jan 15 11:09:19 +0000 2021"
+  "original_created_at": "Fri Jan 15 11:09:19 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "美国。根据美国广播公司新闻和《华盛顿邮报》的民调显示 特朗普总统将以38%的支持率和60%的反对率离任。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "美國。根據美國廣播公司新聞和《華盛頓郵報》的民調顯示 特朗普總統將以38%的支持率和60%的反對率離任。"
+    }
+  ]
 }
