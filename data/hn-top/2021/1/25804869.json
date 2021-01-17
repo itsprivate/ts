@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-01-16T19:48:16.000Z",
-  "image": "https://mnmnotmail.org/icon-dev-gray.svg"
+  "image": "https://mnmnotmail.org/icon-dev-gray.svg",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "Mnm - 一个取代电子邮件和SMTP的开源项目。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Mnm - 一個取代電子郵件和SMTP的開源項目。"
+    }
+  ]
 }
