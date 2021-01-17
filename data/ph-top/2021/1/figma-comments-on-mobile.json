@@ -81,5 +81,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-16T08:20:27Z"
+  "original_createdAt": "2021-01-16T08:20:27Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Figma Comments允许你在手机上直接查看和添加新的评论。您所要做的就是连接您的 Figma 帐户并选择您需要的文件。当你的队友回复时，你将会在应用程序上看到新的评论，而且是实时的。",
+      "tagline": "使用您的移动设备在Figma上查看和添加评论。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Figma Comments允許你在手機上直接查看和添加新的評論。您所要做的就是連接您的 Figma 帳戶並選擇您需要的文件。當你的隊友回覆時，你將會在應用程序上看到新的評論，而且是實時的。",
+      "tagline": "使用您的移動設備在Figma上查看和添加評論。"
+    }
+  ]
 }
