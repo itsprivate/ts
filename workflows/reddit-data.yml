@@ -10,7 +10,7 @@ on:
       outputsMode: combine
       exportOutputs: true
       filterScript: |
-        if(item.score>100){
+        if(item.score>80){
           return true
         }
 

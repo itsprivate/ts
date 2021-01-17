@@ -58,7 +58,7 @@ on:
         if(isInclude){
           return false
         }
-        if(score>5000){
+        if(score>4000){
           return true
         }
         return false
