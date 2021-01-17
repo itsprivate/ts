@@ -58,5 +58,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-17T08:00:00Z"
+  "original_createdAt": "2021-01-17T08:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "一个极简主义的cookie同意解决方案，具有自动cookie扫描和脚本拦截功能，由一个极简主义者设计和构建（由我设计哈哈）。",
+      "tagline": "符合GDPR的简单cookie同意解决方案"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個極簡主義的cookie同意解決方案，具有自動cookie掃描和腳本攔截功能，由一個極簡主義者設計和構建（由我設計哈哈）。",
+      "tagline": "符合GDPR的簡單cookie同意解決方案"
+    }
+  ]
 }
