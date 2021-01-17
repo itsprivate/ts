@@ -101,5 +101,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1610813983,
-  "the_new_excerpt": "This applies to both your own love and love from others"
+  "the_new_excerpt": "This applies to both your own love and love from others",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这既适用于自己的爱，也适用于别人的爱。",
+      "title": "你是怎么解脱的，不管是什么原因，你是不值得爱的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這既適用於自己的愛，也適用於別人的愛。",
+      "title": "你是怎麼解脫的，不管是什麼原因，你是不值得愛的？"
+    }
+  ]
 }
