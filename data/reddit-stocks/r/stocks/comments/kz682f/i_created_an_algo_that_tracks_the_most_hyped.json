@@ -102,5 +102,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1610889192,
-  "the_new_excerpt": "I created an algo that scans the most popular trading sub-reddits and logs the\ntickers mentioned in due-diligence or discussion-styled posts. Instead of\nscanning for how many times each ticker was mentioned in a comment, I logged how\npopular the post was among the sub-reddit. Essentially if it makes…"
+  "the_new_excerpt": "I created an algo that scans the most popular trading sub-reddits and logs the\ntickers mentioned in due-diligence or discussion-styled posts. Instead of\nscanning for how many times each ticker was mentioned in a comment, I logged how\npopular the post was among the sub-reddit. Essentially if it makes…",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我创建了一个算法，它可以扫描最受欢迎的交易分红，并记录下\n在尽职调查或讨论式的帖子中提到的股票。而不是\n扫描每个股票在评论中被提及的次数，我记录了每个股票在评论中被提及的次数。\n受欢迎的帖子是在sub-reddit之间。基本上如果它使...",
+      "title": "我创建了一个跟踪Reddit上最热门股票的算法。以下是本周的结果"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我創建了一個算法，它可以掃描最受歡迎的交易分紅，並記錄下\n在盡職調查或討論式的帖子中提到的股票。而不是\n掃描每個股票在評論中被提及的次數，我記錄了每個股票在評論中被提及的次數。\n受歡迎的帖子是在sub-reddit之間。基本上如果它使...",
+      "title": "我創建了一個跟蹤Reddit上最熱門股票的算法。以下是本週的結果"
+    }
+  ]
 }
