@@ -70,7 +70,7 @@ on:
         return node
       filterScript: |
         console.log('item.votesCount',item.votesCount)
-        if(item.votesCount>=60){
+        if(item.votesCount>=50){
           return true
         }
       outputsMode: combine
