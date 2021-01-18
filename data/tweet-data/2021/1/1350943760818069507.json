@@ -91,5 +91,15 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Sun Jan 17 23:11:06 +0000 2021"
+  "original_created_at": "Sun Jan 17 23:11:06 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "民意调查：特朗普总统的工作支持率。\n\n持率。34%\n不赞成。62%\n\n(CNN)"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "民意調查：特朗普總統的工作支持率。\n\n持率。34%\n不贊成。62%\n\n(CNN)"
+    }
+  ]
 }
