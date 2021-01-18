@@ -68,5 +68,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-18T08:00:00Z"
+  "original_createdAt": "2021-01-18T08:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "有没有想在没有代码的情况下展示一个入职培训？点击按钮就能显示营销信息？现在你有了朋友。",
+      "tagline": "您所有的flutter应用程序的无代码用户上岗。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有沒有想在沒有代碼的情況下展示一個入職培訓？點擊按鈕就能顯示營銷信息？現在你有了朋友。",
+      "tagline": "您所有的flutter應用程序的無代碼用戶上崗。"
+    }
+  ]
 }
