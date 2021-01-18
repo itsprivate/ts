@@ -78,5 +78,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-18T10:16:00Z"
+  "original_createdAt": "2021-01-18T10:16:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Mailmodo是一款电子邮件营销工具，由AMP Email提供支持，使用户能够创建和发送类似应用的交互式电子邮件，以提高转化率。由于互动发生在邮件内部，用户可以在邮件中无缝地采取行动。",
+      "tagline": "利用交互式AMP电子邮件提高电子邮件的转化率。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Mailmodo是一款電子郵件營銷工具，由AMP Email提供支持，使用戶能夠創建和發送類似應用的交互式電子郵件，以提高轉化率。由於互動發生在郵件內部，用戶可以在郵件中無縫地採取行動。",
+      "tagline": "利用交互式AMP電子郵件提高電子郵件的轉化率。"
+    }
+  ]
 }
