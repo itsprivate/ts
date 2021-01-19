@@ -76,5 +76,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-18T08:00:00Z"
+  "original_createdAt": "2021-01-18T08:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "网站安心。Haark跟踪你所有的网站，并确保你是第一个知道他们是否下降。开发人员和项目团队都使用Haark作为他们的早期预警系统，因此他们可以在他们的A-game与客户。",
+      "tagline": "监控您的网站并在网站瘫痪时通知您。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "網站安心。Haark跟蹤你所有的網站，並確保你是第一個知道他們是否下降。開發人員和項目團隊都使用Haark作爲他們的早期預警系統，因此他們可以在他們的A-game與客戶。",
+      "tagline": "監控您的網站並在網站癱瘓時通知您。"
+    }
+  ]
 }
