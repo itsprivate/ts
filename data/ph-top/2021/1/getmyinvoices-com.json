@@ -83,5 +83,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-19T09:15:34Z"
+  "original_createdAt": "2021-01-19T09:15:34Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "GetMyInvoices是贵公司的中央发票管理软件。该解决方案自动检索发票和其他文件从成千上万的来源 - 从门户网站的电子邮件邮箱和云存储到扫描文件。14天免费试用",
+      "tagline": "从上千个来源自动检索发票和文件。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "GetMyInvoices是貴公司的中央發票管理軟件。該解決方案自動檢索發票和其他文件從成千上萬的來源 - 從門戶網站的電子郵件郵箱和雲存儲到掃描文件。14天免費試用",
+      "tagline": "從上千個來源自動檢索發票和文件。"
+    }
+  ]
 }
