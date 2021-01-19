@@ -58,5 +58,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-19T16:00:00Z"
+  "original_createdAt": "2021-01-19T16:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "旗帜包是一个开源项目，它为您的数字产品提供了260多个令人惊叹的旗帜图标。可以在您的设计或代码项目中轻松实现。下载Figma、Sketch和Adobe XD（即将推出）或安装React、Vue或Angular（即将推出）。",
+      "tagline": "为您的数字产品提供令人惊叹的开源旗帜图标。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "旗幟包是一個開源項目，它爲您的數字產品提供了260多個令人驚歎的旗幟圖標。可以在您的設計或代碼項目中輕鬆實現。下載Figma、Sketch和Adobe XD（即將推出）或安裝React、Vue或Angular（即將推出）。",
+      "tagline": "爲您的數字產品提供令人驚歎的開源旗幟圖標。"
+    }
+  ]
 }
