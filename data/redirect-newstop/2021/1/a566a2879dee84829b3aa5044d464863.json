@@ -14,5 +14,15 @@
   "tags": [
     "Fox News"
   ],
-  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/china-mine-explosion.jpg"
+  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/china-mine-explosion.jpg",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "中国金矿爆炸。报道称，至少有十几名工人在被困一周后还活着。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "中國金礦爆炸。報道稱，至少有十幾名工人在被困一週後還活着。"
+    }
+  ]
 }
