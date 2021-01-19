@@ -63,5 +63,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-19T09:30:51Z"
+  "original_createdAt": "2021-01-19T09:30:51Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "http://blocks.wickedtemplates.com/ 是一个开放源码的布局块和组件集合，用Tailwind CSS V2构建，准备复制粘贴到您的Tailwind项目上。",
+      "tagline": "尾风V2块准备复制粘贴"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "http://blocks.wickedtemplates.com/ 是一個開放源碼的佈局塊和組件集合，用Tailwind CSS V2構建，準備複製粘貼到您的Tailwind項目上。",
+      "tagline": "尾風V2塊準備複製粘貼"
+    }
+  ]
 }
