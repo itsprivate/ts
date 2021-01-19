@@ -73,5 +73,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-19T08:05:00Z"
+  "original_createdAt": "2021-01-19T08:05:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Open Design是第一个从设计文件中读取、更改和显示数据的开发者工具包 📤 通过API处理任何Figma、Sketch、PSD、AI或XD文件 📥 以统一的JSON格式获取设计数据 🛠 构建自动化和工具以改善设计工作流程。",
+      "tagline": "从设计文件中读取、更改和显示数据的开发工具包。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Open Design是第一個從設計文件中讀取、更改和顯示數據的開發者工具包 📤 通過API處理任何Figma、Sketch、PSD、AI或XD文件 📥 以統一的JSON格式獲取設計數據 🛠 構建自動化和工具以改善設計工作流程。",
+      "tagline": "從設計文件中讀取、更改和顯示數據的開發工具包。"
+    }
+  ]
 }
