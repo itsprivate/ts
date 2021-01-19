@@ -398,5 +398,17 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "und",
-  "original_created_at": "Tue Jan 19 15:18:30 +0000 2021"
+  "original_created_at": "Tue Jan 19 15:18:30 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @BarrySilbert：https://t.co/4LJsRN9yr1",
+      "retweeted_status_full_text": "https://t.co/4LJsRN9yr1"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @BarrySilbert：https://t.co/4LJsRN9yr1",
+      "retweeted_status_full_text": "https://t.co/4LJsRN9yr1"
+    }
+  ]
 }
