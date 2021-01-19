@@ -14,5 +14,15 @@
   "tags": [
     "WMTW Portland"
   ],
-  "image": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/coronavirus-1582297917.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+  "image": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/coronavirus-1582297917.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "缅因州疾控中心报告新增5例COVID-19相关死亡病例，新增386例。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "緬因州疾控中心報告新增5例COVID-19相關死亡病例，新增386例。"
+    }
+  ]
 }
