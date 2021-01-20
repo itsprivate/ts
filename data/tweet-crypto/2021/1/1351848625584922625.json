@@ -495,5 +495,17 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Wed Jan 20 11:06:43 +0000 2021"
+  "original_created_at": "Wed Jan 20 11:06:43 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @danheld: \"但比特币没有内在价值\" 打印机男说. https://t.co/qisd6tSzJf.",
+      "retweeted_status_full_text": "\"但比特币没有内在价值 \"纸印机人说，https://t.co/qisd6tSzJf。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @danheld: \"但比特幣沒有內在價值\" 打印機男說. https://t.co/qisd6tSzJf.",
+      "retweeted_status_full_text": "\"但比特幣沒有內在價值 \"紙印機人說，https://t.co/qisd6tSzJf。"
+    }
+  ]
 }
