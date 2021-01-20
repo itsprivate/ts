@@ -217,5 +217,17 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Wed Jan 20 15:00:31 +0000 2021"
+  "original_created_at": "Wed Jan 20 15:00:31 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @carlquintanilla: * S&amp;P 500指数创历史新高。\n\n@CNBC",
+      "retweeted_status_full_text": "* S&amp;P 500指数创历史新高。\n\n@CNBC"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @carlquintanilla: * S&amp;P 500指數創歷史新高。\n\n@CNBC",
+      "retweeted_status_full_text": "* S&amp;P 500指數創歷史新高。\n\n@CNBC"
+    }
+  ]
 }
