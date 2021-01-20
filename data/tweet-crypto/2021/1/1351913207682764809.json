@@ -233,5 +233,17 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Wed Jan 20 15:23:20 +0000 2021"
+  "original_created_at": "Wed Jan 20 15:23:20 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @PrestonPysh。如果有人对学习#比特币%%感兴趣, 我强烈推荐这个免费的, 24门课程的视频讲座系列... ...",
+      "retweeted_status_full_text": "如果有人有兴趣了解#比特币%%，我强烈推荐这个由麻省理工学院带来的免费的24门课程视频讲座系列。\n\n老师是Gary Gensler教授--即将上任的SEC主席。 好好享受吧。\n\nhttps://t.co/xZmuGGuetW"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @PrestonPysh。如果有人對學習#比特幣%%感興趣, 我強烈推薦這個免費的, 24門課程的視頻講座系列... ...",
+      "retweeted_status_full_text": "如果有人有興趣瞭解#比特幣%%，我強烈推薦這個由麻省理工學院帶來的免費的24門課程視頻講座系列。\n\n老師是Gary Gensler教授--即將上任的SEC主席。 好好享受吧。\n\nhttps://t.co/xZmuGGuetW"
+    }
+  ]
 }
