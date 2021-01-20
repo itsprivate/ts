@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-01-20T05:56:41.000Z",
-  "image": "https://raw.githubusercontent.com/lspgn/edge-sql/main/extra/img.png"
+  "image": "https://raw.githubusercontent.com/lspgn/edge-sql/main/extra/img.png",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "无服务器SQLite"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "無服務器SQLite"
+    }
+  ]
 }
