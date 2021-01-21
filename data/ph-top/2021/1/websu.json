@@ -63,5 +63,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-20T09:45:06Z"
+  "original_createdAt": "2021-01-20T09:45:06Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Websu.io通过生成详细的速度报告，帮助您优化网络应用的速度。这些速度报告使用Chrome浏览器运行，并向您展示如何优化您的Web应用程序以提高性能。",
+      "tagline": "开源网站速度、优化和监控服务"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Websu.io通過生成詳細的速度報告，幫助您優化網絡應用的速度。這些速度報告使用Chrome瀏覽器運行，並向您展示如何優化您的Web應用程序以提高性能。",
+      "tagline": "開源網站速度、優化和監控服務"
+    }
+  ]
 }
