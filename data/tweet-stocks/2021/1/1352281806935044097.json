@@ -170,5 +170,15 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Thu Jan 21 15:48:01 +0000 2021"
+  "original_created_at": "Thu Jan 21 15:48:01 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "自动驾驶汽车，我。https://t.co/ancBO9sT8u。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "自動駕駛汽車，我。https://t.co/ancBO9sT8u。"
+    }
+  ]
 }

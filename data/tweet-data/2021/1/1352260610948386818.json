@@ -91,5 +91,15 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Thu Jan 21 14:23:48 +0000 2021"
+  "original_created_at": "Thu Jan 21 14:23:48 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "财经：比特币下跌9%，目前交易价格在32000美元以下。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "財經：比特幣下跌9%，目前交易價格在32000美元以下。"
+    }
+  ]
 }
