@@ -68,5 +68,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-21T09:03:14Z"
+  "original_createdAt": "2021-01-21T09:03:14Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Rollcall可以让您轻松组织任何时区的远程会议。添加到Slack，创建一个议程，安排一个时间框架，Rollcall机器人以文本，纯音频，屏幕共享和视频格式收集你的摊位。",
+      "tagline": "Slack中的异步站立会议。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Rollcall可以讓您輕鬆組織任何時區的遠程會議。添加到Slack，創建一個議程，安排一個時間框架，Rollcall機器人以文本，純音頻，屏幕共享和視頻格式收集你的攤位。",
+      "tagline": "Slack中的異步站立會議。"
+    }
+  ]
 }
