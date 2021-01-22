@@ -217,5 +217,17 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Thu Jan 21 10:07:30 +0000 2021"
+  "original_created_at": "Thu Jan 21 10:07:30 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @fluffypony：我主持的比特币白皮书，是聪聪在麻省理工学院授权下发布的，有原始比特币代码，在这...",
+      "retweeted_status_full_text": "我在这个网站上托管了Satoshi在MIT授权下发布的比特币白皮书与原始比特币代码。\nhttps://t.co/1FoHqgyd4C"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @fluffypony：我主持的比特幣白皮書，是聰聰在麻省理工學院授權下發布的，有原始比特幣代碼，在這...",
+      "retweeted_status_full_text": "我在這個網站上託管了Satoshi在MIT授權下發布的比特幣白皮書與原始比特幣代碼。\nhttps://t.co/1FoHqgyd4C"
+    }
+  ]
 }
