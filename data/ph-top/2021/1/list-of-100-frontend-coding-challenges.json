@@ -68,5 +68,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-22T11:07:01Z"
+  "original_createdAt": "2021-01-22T11:07:01Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "-所有PH用户可享受30%优惠! 曾经有过想写代码的冲动，但没有灵感或只是缺乏代码的想法？永远不会再没有编码想法了。获得Indrek Lasn的100多个前端挑战。",
+      "tagline": "再也不会没有编码的想法了。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "-所有PH用戶可享受30%優惠! 曾經有過想寫代碼的衝動，但沒有靈感或只是缺乏代碼的想法？永遠不會再沒有編碼想法了。獲得Indrek Lasn的100多個前端挑戰。",
+      "tagline": "再也不會沒有編碼的想法了。"
+    }
+  ]
 }
