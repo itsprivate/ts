@@ -196,5 +196,17 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Sat Jan 16 19:59:00 +0000 2021"
+  "original_created_at": "Sat Jan 16 19:59:00 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @BNONews: 突发新闻: 试图通过华盛顿特区警察检查站，用假的就职证书，而持有O.C.的男子被捕。",
+      "retweeted_status_full_text": "突发新闻: 试图用伪造的就职证书通过华盛顿特区警察检查站的男子被逮捕，同时拥有一把上膛的枪和500发子弹 - CNN"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @BNONews: 突發新聞: 試圖通過華盛頓特區警察檢查站，用假的就職證書，而持有O.C.的男子被捕。",
+      "retweeted_status_full_text": "突發新聞: 試圖用僞造的就職證書通過華盛頓特區警察檢查站的男子被逮捕，同時擁有一把上膛的槍和500發子彈 - CNN"
+    }
+  ]
 }

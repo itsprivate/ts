@@ -319,5 +319,17 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Thu Jan 21 14:08:59 +0000 2021"
+  "original_created_at": "Thu Jan 21 14:08:59 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @DocumentBitcoin：\"美联储无论如何都没有权力监管#Bitcoin%%，因为没有中央发行人或网络运营...。",
+      "retweeted_status_full_text": "\"美联储无论如何都没有权力监管#比特币%%，因为没有中央发行人或网络运营商来监管\"--财政部长提名人珍妮特-耶伦（2014年）https://t.co/80viYXR7nw。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @DocumentBitcoin：\"美聯儲無論如何都沒有權力監管#Bitcoin%%，因爲沒有中央發行人或網絡運營...。",
+      "retweeted_status_full_text": "\"美聯儲無論如何都沒有權力監管#比特幣%%，因爲沒有中央發行人或網絡運營商來監管\"--財政部長提名人珍妮特-耶倫（2014年）https://t.co/80viYXR7nw。"
+    }
+  ]
 }
