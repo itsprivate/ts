@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-01-22T15:37:32.000Z",
-  "image": "https://pidgin.im/images/pidgin-circle-256.png"
+  "image": "https://pidgin.im/images/pidgin-circle-256.png",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "Pidgin - 一个通用的聊天客户端"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Pidgin - 一個通用的聊天客戶端"
+    }
+  ]
 }

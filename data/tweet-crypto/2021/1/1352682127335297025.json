@@ -372,5 +372,17 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Fri Jan 22 18:18:45 +0000 2021"
+  "original_created_at": "Fri Jan 22 18:18:45 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @bitstein: \"然后我们就发布了一些关于双倍支出的FUD，但实际上从未发生过\" https://t.co/kGiqDEdMUK。",
+      "retweeted_status_full_text": "\"然后我们放出了一些关于从未实际发生过的双重支出的FUD\" https://t.co/kGiqDEdMUK"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @bitstein: \"然後我們就發佈了一些關於雙倍支出的FUD，但實際上從未發生過\" https://t.co/kGiqDEdMUK。",
+      "retweeted_status_full_text": "\"然後我們放出了一些關於從未實際發生過的雙重支出的FUD\" https://t.co/kGiqDEdMUK"
+    }
+  ]
 }
