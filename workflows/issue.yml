@@ -40,7 +40,9 @@ jobs:
               t:t
             })
             return true
-
+      - name: sleep for ifttt
+        if: on.script.outputs.type=="ifttt"
+        run: sleep 2m
       - name: Send a message to ifttt
         id: ifttt
         if: on.script.outputs.type=="ifttt"
