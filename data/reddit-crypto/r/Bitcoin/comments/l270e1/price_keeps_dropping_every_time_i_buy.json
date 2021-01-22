@@ -103,5 +103,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1611260986,
-  "the_new_excerpt": "Eventually I’ll own all the Bitcoin"
+  "the_new_excerpt": "Eventually I’ll own all the Bitcoin",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "最终我将拥有所有的比特币",
+      "title": "每次买的时候价格都在下降"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "最終我將擁有所有的比特幣",
+      "title": "每次買的時候價格都在下降"
+    }
+  ]
 }
