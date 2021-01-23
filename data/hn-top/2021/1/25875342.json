@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-01-22T19:35:14.000Z",
-  "image": "https://www.percona.com/blog/wp-content/uploads/2021/01/PostgreSQL-on-ARM-based-AWS-EC2-Instances.png"
+  "image": "https://www.percona.com/blog/wp-content/uploads/2021/01/PostgreSQL-on-ARM-based-AWS-EC2-Instances.png",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "基于ARM的AWS EC2实例上的PostgreSQL。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "基於ARM的AWS EC2實例上的PostgreSQL。"
+    }
+  ]
 }
