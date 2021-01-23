@@ -17,5 +17,5 @@ outputs:
   success: # id of output
     description: "The time we greeted you"
 runs:
-  using: "node12"
+  using: "node14"
   main: "dist/index.js"
