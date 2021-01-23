@@ -35,6 +35,7 @@ jobs:
         with:
           version: 0.2.18
       - name: Run act
+        continue-on-error: true
         run: act --workflows ./dist/workflows --secret-file ./dist/.secrets --eventpath ./dist/event.json --env-file ./dist/.env -P ubuntu-latest=actionsflow/act-environment:v1 -P ubuntu-18.04=actionsflow/act-environment:v1 --bind
       # - run: sleep 5
       # - run: ls -l
