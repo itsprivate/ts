@@ -183,5 +183,15 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Fri Jan 22 13:29:28 +0000 2021"
+  "original_created_at": "Fri Jan 22 13:29:28 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "今天上午的期货。 \n  \nS&amp;P 500 ▼ 0.70               \n纳斯达克 ▼ 0.60%               \n罗素 2K ▼ 1.08%。              \n道琼斯 ▼ 0.77% https://t.co/9YAjZS5oFS"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "今天上午的期貨。 \n  \nS&amp;P 500 ▼ 0.70               \n納斯達克 ▼ 0.60%               \n羅素 2K ▼ 1.08%。              \n道瓊斯 ▼ 0.77% https://t.co/9YAjZS5oFS"
+    }
+  ]
 }
