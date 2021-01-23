@@ -91,5 +91,15 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Fri Jan 22 20:44:12 +0000 2021"
+  "original_created_at": "Fri Jan 22 20:44:12 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "美国医学杂志》发表报告，补充说羟氯喹可用于SARS-COV-2门诊治疗**。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "美國醫學雜誌》發表報告，補充說羥氯喹可用於SARS-COV-2門診治療**。"
+    }
+  ]
 }
