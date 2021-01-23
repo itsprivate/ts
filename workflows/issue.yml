@@ -25,7 +25,7 @@ jobs:
             ${{ on.script.outputs.message }}
       - name: Generate a sent flag
         if: on.script.outputs.type=="telegram" && on.script.outputs.telegram_chat_id
-        uses: actions/github-script@v3.1.0
+        uses: actions/github-script@v3
         env:
           ITEM_ID: ${{on.script.outputs.id}}
           ITEM_STATUS: ${{ steps.telegram.success }}
@@ -54,7 +54,7 @@ jobs:
           value1: ${{ on.script.outputs.message }}
       - name: Generate a sent flag for ifttt
         if: on.script.outputs.type=="ifttt"
-        uses: actions/github-script@v3.1.0
+        uses: actions/github-script@v3
         env:
           ITEM_ID: ${{on.script.outputs.id}}
           ITEM_STATUS: ${{ steps.ifttt.success }}

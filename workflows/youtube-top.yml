@@ -30,7 +30,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Create JSON
-        uses: actions/github-script@v3.1.0
+        uses: actions/github-script@v3
         env:
           OUTPUTS_PATH: ${{ on.youtube.outputs.path }}
         with:

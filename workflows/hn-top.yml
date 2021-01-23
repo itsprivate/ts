@@ -21,7 +21,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Create Hackernews JSON
-        uses: actions/github-script@v3.1.0
+        uses: actions/github-script@v3
         env:
           OUTPUTS_PATH: ${{ on.poll.outputs.path }}
         with:
