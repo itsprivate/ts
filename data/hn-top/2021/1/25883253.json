@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-01-23T16:09:25.000Z",
-  "image": "https://jvns.ca/images/read-me.png"
+  "image": "https://jvns.ca/images/read-me.png",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "Firecracker：在一秒内启动虚拟机"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Firecracker：在一秒內啓動虛擬機"
+    }
+  ]
 }

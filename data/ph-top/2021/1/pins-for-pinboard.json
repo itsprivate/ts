@@ -78,5 +78,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-23T08:05:06Z"
+  "original_createdAt": "2021-01-23T08:05:06Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "离线访问所有 Pinboard 书签。使用智能收藏进行过滤。分享扩展、拖放、快捷方式应用。小工具、Spotlight 搜索、Handoff、多任务处理。",
+      "tagline": "2021年现代iOS/macOS Pinboard应用。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "離線訪問所有 Pinboard 書籤。使用智能收藏進行過濾。分享擴展、拖放、快捷方式應用。小工具、Spotlight 搜索、Handoff、多任務處理。",
+      "tagline": "2021年現代iOS/macOS Pinboard應用。"
+    }
+  ]
 }
