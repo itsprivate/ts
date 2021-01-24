@@ -101,5 +101,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1611450620,
-  "the_new_excerpt": "How did you learn?"
+  "the_new_excerpt": "How did you learn?",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你是怎么学会的？",
+      "title": "你有哪些职场经验值得借鉴？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你是怎麼學會的？",
+      "title": "你有哪些職場經驗值得借鑑？"
+    }
+  ]
 }
