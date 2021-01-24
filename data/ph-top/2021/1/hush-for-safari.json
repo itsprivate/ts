@@ -67,5 +67,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-24T08:00:00Z"
+  "original_createdAt": "2021-01-24T08:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "像它应该的那样浏览网页--没有接受cookies的唠叨或侵犯隐私的跟踪。它的体积小、速度快、免费、开放、安全，而且不会对您的数据进行任何访问。",
+      "tagline": "阻止nags接受cookies和侵犯隐私的跟踪。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "像它應該的那樣瀏覽網頁--沒有接受cookies的嘮叨或侵犯隱私的跟蹤。它的體積小、速度快、免費、開放、安全，而且不會對您的數據進行任何訪問。",
+      "tagline": "阻止nags接受cookies和侵犯隱私的跟蹤。"
+    }
+  ]
 }
