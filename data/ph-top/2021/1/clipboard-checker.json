@@ -58,5 +58,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-24T07:16:05Z"
+  "original_createdAt": "2021-01-24T07:16:05Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "剪贴板检查器是一个开源的设置并忘记它的chrome扩展，它可以扫描你在浏览器中复制的任何文本，以确定是否有恶意内容被添加或更改。",
+      "tagline": "保护你的剪贴板不被JS注入。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "剪貼板檢查器是一個開源的設置並忘記它的chrome擴展，它可以掃描你在瀏覽器中複製的任何文本，以確定是否有惡意內容被添加或更改。",
+      "tagline": "保護你的剪貼板不被JS注入。"
+    }
+  ]
 }
