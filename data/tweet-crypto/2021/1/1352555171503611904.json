@@ -512,5 +512,17 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Fri Jan 22 09:54:16 +0000 2021"
+  "original_created_at": "Fri Jan 22 09:54:16 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @saifedean: 🎯🎯。\n一切都在按计划进行",
+      "retweeted_status_full_text": "🎯🎯\n一切都在按计划进行https://t.co/9EHxif3uCB"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @saifedean: 🎯🎯。\n一切都在按計劃進行",
+      "retweeted_status_full_text": "🎯🎯\n一切都在按計劃進行https://t.co/9EHxif3uCB"
+    }
+  ]
 }
