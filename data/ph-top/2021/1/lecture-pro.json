@@ -63,5 +63,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-24T11:30:00Z"
+  "original_createdAt": "2021-01-24T11:30:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "LecturePro是一款帮助学生在课堂上专心听讲的笔记助手。它和你一起听课，还能为你做笔记。你可以下载这些笔记，也可以进行编辑!",
+      "tagline": "全球学生的笔记助手!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "LecturePro是一款幫助學生在課堂上專心聽講的筆記助手。它和你一起聽課，還能爲你做筆記。你可以下載這些筆記，也可以進行編輯!",
+      "tagline": "全球學生的筆記助手!"
+    }
+  ]
 }
