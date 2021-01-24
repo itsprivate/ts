@@ -38,5 +38,15 @@
     }
   },
   "original_created_at": "2021-01-23T20:30:53.000Z",
-  "image": "https://filmulator.org/images/filmulator512icon.png"
+  "image": "https://filmulator.org/images/filmulator512icon.png",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "显示HN：Filmulator--一个精简的、开源的原始照片编辑器。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "顯示HN：Filmulator--一個精簡的、開源的原始照片編輯器。"
+    }
+  ]
 }
