@@ -63,5 +63,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-24T08:00:00Z"
+  "original_createdAt": "2021-01-24T08:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Codeprints为书呆子和开发者提供极客墙艺。你可以为你的GitHub贡献创建一个个性化的打印，以激励你每天。一个由开发者为开发者创建的服务。",
+      "tagline": "你的代码就是艺术--git贡献在你的墙上。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Codeprints爲書呆子和開發者提供極客牆藝。你可以爲你的GitHub貢獻創建一個個性化的打印，以激勵你每天。一個由開發者爲開發者創建的服務。",
+      "tagline": "你的代碼就是藝術--git貢獻在你的牆上。"
+    }
+  ]
 }
