@@ -372,5 +372,17 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Mon Jan 25 13:22:14 +0000 2021"
+  "original_created_at": "Mon Jan 25 13:22:14 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @whale_map: 这是HODLer SOPR在之前的周期中的表现。我们现在远没有达到这些数值https://t.co/cg9QypMmsl。",
+      "retweeted_status_full_text": "这是HODLer SOPR在前几个周期的情况。我们现在远远没有达到这些数值https://t.co/cg9QypMmsl。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @whale_map: 這是HODLer SOPR在之前的週期中的表現。我們現在遠沒有達到這些數值https://t.co/cg9QypMmsl。",
+      "retweeted_status_full_text": "這是HODLer SOPR在前幾個週期的情況。我們現在遠遠沒有達到這些數值https://t.co/cg9QypMmsl。"
+    }
+  ]
 }
