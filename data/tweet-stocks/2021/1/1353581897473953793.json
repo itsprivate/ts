@@ -196,5 +196,17 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Mon Jan 25 05:54:07 +0000 2021"
+  "original_created_at": "Mon Jan 25 05:54:07 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @spectatorindex: 最新消息: 印度和中国士兵在锡金发生冲突 据报道，双方士兵均有受伤。",
+      "retweeted_status_full_text": "最新报道。印度和中国士兵在锡金发生冲突 据报道，双方士兵都受伤了。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @spectatorindex: 最新消息: 印度和中國士兵在錫金髮生衝突 據報道，雙方士兵均有受傷。",
+      "retweeted_status_full_text": "最新報道。印度和中國士兵在錫金髮生衝突 據報道，雙方士兵都受傷了。"
+    }
+  ]
 }
