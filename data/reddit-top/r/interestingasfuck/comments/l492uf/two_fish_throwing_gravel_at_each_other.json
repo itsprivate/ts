@@ -23,8 +23,8 @@
   "upvote_ratio": 0.92,
   "author_flair_background_color": null,
   "subreddit_type": "public",
-  "ups": 80887,
-  "total_awards_received": 283,
+  "ups": 81190,
+  "total_awards_received": 284,
   "media_embed": {
     "content": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2Funselfishwigglybeardeddragon&display_name=Gfycat&url=https%3A%2F%2Fgfycat.com%2Funselfishwigglybeardeddragon&image=https%3A%2F%2Fthumbs.gfycat.com%2FUnselfishWigglyBeardeddragon-size_restricted.gif&key=ed8fa8699ce04833838e66ce79ba05f1&type=text%2Fhtml&schema=gfycat\" width=\"600\" height=\"337\" scrolling=\"no\" title=\"Gfycat embed\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen=\"true\"></iframe>",
     "width": 600,
@@ -36,10 +36,12 @@
   "is_original_content": false,
   "user_reports": [],
   "secure_media": {
+    "type": "gfycat.com",
     "oembed": {
       "provider_url": "https://gfycat.com",
       "description": "Watch and share Fish GIFs on Gfycat",
       "title": "fish",
+      "type": "video",
       "author_name": "Gfycat",
       "height": 337,
       "width": 600,
@@ -48,10 +50,8 @@
       "version": "1.0",
       "provider_name": "Gfycat",
       "thumbnail_url": "https://thumbs.gfycat.com/UnselfishWigglyBeardeddragon-size_restricted.gif",
-      "type": "video",
       "thumbnail_height": 250
-    },
-    "type": "gfycat.com"
+    }
   },
   "is_reddit_media_domain": false,
   "is_meta": false,
@@ -65,7 +65,7 @@
   },
   "link_flair_text": "/r/ALL",
   "can_mod_post": false,
-  "score": 80887,
+  "score": 81190,
   "approved_by": null,
   "author_premium": true,
   "thumbnail": "https://b.thumbs.redditmedia.com/OchJXerOTDVRBsHua_TFAn5Tq1VOjtJgY5N9PLi5H2Q.jpg",
@@ -161,7 +161,7 @@
   "report_reasons": null,
   "author": "LittleFart",
   "discussion_type": null,
-  "num_comments": 1405,
+  "num_comments": 1408,
   "send_replies": true,
   "whitelist_status": "all_ads",
   "contest_mode": false,
@@ -172,14 +172,16 @@
   "parent_whitelist_status": "all_ads",
   "stickied": false,
   "url": "https://gfycat.com/unselfishwigglybeardeddragon",
-  "subreddit_subscribers": 7419115,
+  "subreddit_subscribers": 7419210,
   "created_utc": 1611586679,
-  "num_crossposts": 52,
+  "num_crossposts": 54,
   "media": {
+    "type": "gfycat.com",
     "oembed": {
       "provider_url": "https://gfycat.com",
       "description": "Watch and share Fish GIFs on Gfycat",
       "title": "fish",
+      "type": "video",
       "author_name": "Gfycat",
       "height": 337,
       "width": 600,
@@ -188,10 +190,8 @@
       "version": "1.0",
       "provider_name": "Gfycat",
       "thumbnail_url": "https://thumbs.gfycat.com/UnselfishWigglyBeardeddragon-size_restricted.gif",
-      "type": "video",
       "thumbnail_height": 250
-    },
-    "type": "gfycat.com"
+    }
   },
   "is_video": false,
   "original_created_utc": 1611526592,
