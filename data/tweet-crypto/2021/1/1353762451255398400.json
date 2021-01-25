@@ -301,5 +301,17 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Mon Jan 25 17:51:34 +0000 2021"
+  "original_created_at": "Mon Jan 25 17:51:34 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @rakenfx: 尽管只有时间才能证明, 股票对流量模型预测#比特币将达到新的ATH值超过8.5万美元 大约1...",
+      "retweeted_status_full_text": "虽然只有时间才能证明，但Stock-to-Flow模型预测，#比特币将在2020年5月减半后大约一年达到超过8.5万美元的新ATH📈https://t.co/NqMt4GMr1X。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @rakenfx: 儘管只有時間才能證明, 股票對流量模型預測#比特幣將達到新的ATH值超過8.5萬美元 大約1...",
+      "retweeted_status_full_text": "雖然只有時間才能證明，但Stock-to-Flow模型預測，#比特幣將在2020年5月減半後大約一年達到超過8.5萬美元的新ATH📈https://t.co/NqMt4GMr1X。"
+    }
+  ]
 }
