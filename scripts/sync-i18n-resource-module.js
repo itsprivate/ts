@@ -40,40 +40,46 @@ async function main({ dest = "./i18n/post-resource" } = {}) {
         const text = jsonObj[sourcePath];
         const sourceAbsolutePath = resolve(CWD, sourcePath);
         const sourceJson = await readFile(sourceAbsolutePath, "utf8");
-        let sourceObj = {};
-        try {
-          sourceObj = JSON.parse(sourceJson);
-        } catch (e) {
-          console.error("parse json error:", e);
-          console.log("sourceJson", sourceJson);
-          throw e;
-        }
-        let isChanged = false;
-        if (!sourceObj.localize) {
-          sourceObj.localize = [];
-          isChanged = true;
-        }
-        if (!isLocaleExist(sourceObj.localize, locale)) {
-          sourceObj.localize.push({
-            locale: locale,
-          });
-          isChanged = true;
-        }
-        if (isNeedChangeLocaleField(sourceObj.localize, locale, field, text)) {
-          sourceObj.localize = witeLocaleField(
-            sourceObj.localize,
-            locale,
-            field,
-            text
-          );
-          isChanged = true;
-        }
-        if (isChanged) {
-          console.log(`Write ${sourceAbsolutePath}`);
-          await writeFile(
-            sourceAbsolutePath,
-            JSON.stringify(sourceObj, null, 2)
-          );
+        if (sourceJson) {
+          let sourceObj = {};
+          try {
+            sourceObj = JSON.parse(sourceJson);
+          } catch (e) {
+            console.error("parse json error:", e);
+            console.log("sourceJson", sourceJson);
+            throw e;
+          }
+          let isChanged = false;
+          if (!sourceObj.localize) {
+            sourceObj.localize = [];
+            isChanged = true;
+          }
+          if (!isLocaleExist(sourceObj.localize, locale)) {
+            sourceObj.localize.push({
+              locale: locale,
+            });
+            isChanged = true;
+          }
+          if (
+            isNeedChangeLocaleField(sourceObj.localize, locale, field, text)
+          ) {
+            sourceObj.localize = witeLocaleField(
+              sourceObj.localize,
+              locale,
+              field,
+              text
+            );
+            isChanged = true;
+          }
+          if (isChanged) {
+            console.log(`Write ${sourceAbsolutePath}`);
+            await writeFile(
+              sourceAbsolutePath,
+              JSON.stringify(sourceObj, null, 2)
+            );
+          }
+        } else {
+          console.error(`${sourceAbsolutePath} not exist`);
         }
       }
     }
