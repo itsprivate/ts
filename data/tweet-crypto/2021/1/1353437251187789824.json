@@ -241,5 +241,17 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Sun Jan 24 20:19:20 +0000 2021"
+  "original_created_at": "Sun Jan 24 20:19:20 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @maxkeiser: #比特币11年来平均每年增长200% https://t.co/lIHsMIS97n 。",
+      "retweeted_status_full_text": "#比特币11年平均每年涨200%#https://t.co/lIHsMIS97n。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @maxkeiser: #比特幣11年來平均每年增長200% https://t.co/lIHsMIS97n 。",
+      "retweeted_status_full_text": "#比特幣11年平均每年漲200%#https://t.co/lIHsMIS97n。"
+    }
+  ]
 }
