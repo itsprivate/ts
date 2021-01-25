@@ -419,5 +419,17 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Mon Jan 25 14:13:40 +0000 2021"
+  "original_created_at": "Mon Jan 25 14:13:40 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @michael_saylor：\"我们还认为，以#比特币持有部分国库储备，将是比持有#比特币更好的长期战略。",
+      "retweeted_status_full_text": "\"我们也相信，以#比特币持有部分国库储备将是比持有美元更好的长期策略，类似于@微策略等其他具有前瞻性的公司。\"梅里克-冈本https://t.co/HlhM9CKqzt。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @michael_saylor：\"我們還認爲，以#比特幣持有部分國庫儲備，將是比持有#比特幣更好的長期戰略。",
+      "retweeted_status_full_text": "\"我們也相信，以#比特幣持有部分國庫儲備將是比持有美元更好的長期策略，類似於@微策略等其他具有前瞻性的公司。\"梅里克-岡本https://t.co/HlhM9CKqzt。"
+    }
+  ]
 }
