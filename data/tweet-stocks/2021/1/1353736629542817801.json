@@ -196,5 +196,17 @@
   "favorited": false,
   "retweeted": false,
   "lang": "tl",
-  "original_created_at": "Mon Jan 25 16:08:58 +0000 2021"
+  "original_created_at": "Mon Jan 25 16:08:58 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @chigrl: N\n        A\n             S\n                 D\n                    A\n                      a\n                       a…",
+      "retweeted_status_full_text": "N\n        A\n             S\n                 D\n                    A\n                      a\n                       a\n                        a\n                         q"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @chigrl: N\n        A\n             S\n                 D\n                    A\n                      a\n                       a…",
+      "retweeted_status_full_text": "N\n        A\n             S\n                 D\n                    A\n                      a\n                       a\n                        a\n                         q"
+    }
+  ]
 }
