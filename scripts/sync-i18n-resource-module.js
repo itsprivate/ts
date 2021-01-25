@@ -40,7 +40,14 @@ async function main({ dest = "./i18n/post-resource" } = {}) {
         const text = jsonObj[sourcePath];
         const sourceAbsolutePath = resolve(CWD, sourcePath);
         const sourceJson = await readFile(sourceAbsolutePath, "utf8");
-        const sourceObj = JSON.parse(sourceJson);
+        let sourceObj = {};
+        try {
+          sourceObj = JSON.parse(sourceJson);
+        } catch (e) {
+          console.error("parse json error:", e);
+          console.log("sourceJson", sourceJson);
+          throw e;
+        }
         let isChanged = false;
         if (!sourceObj.localize) {
           sourceObj.localize = [];
