@@ -68,5 +68,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-25T08:00:00Z"
+  "original_createdAt": "2021-01-25T08:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "我们帮你分享你最喜欢的推文。我们提供一键将任何推文的链接转换为精美的图片。",
+      "tagline": "将推文转换为美丽的图像"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們幫你分享你最喜歡的推文。我們提供一鍵將任何推文的鏈接轉換爲精美的圖片。",
+      "tagline": "將推文轉換爲美麗的圖像"
+    }
+  ]
 }

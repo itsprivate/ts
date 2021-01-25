@@ -92,5 +92,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-25T08:00:00Z"
+  "original_createdAt": "2021-01-25T08:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Firefox Relay 可以轻松创建别名，即随机生成的电子邮件地址，并转发到您的真实收件箱。使用它来保护你的在线账户和你的身份，防止黑客入侵。",
+      "tagline": "隐藏您的真实电子邮件地址，以帮助保护您的身份。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Firefox Relay 可以輕鬆創建別名，即隨機生成的電子郵件地址，並轉發到您的真實收件箱。使用它來保護你的在線賬戶和你的身份，防止黑客入侵。",
+      "tagline": "隱藏您的真實電子郵件地址，以幫助保護您的身份。"
+    }
+  ]
 }
