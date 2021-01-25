@@ -138,5 +138,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1611588455,
-  "the_new_excerpt": "https://www.sec.gov/edgar/search/#/q=bitcoin&dateRange=custom&entityName=Rothschild&startdt=2021-01-25&enddt=2021-01-25"
+  "the_new_excerpt": "https://www.sec.gov/edgar/search/#/q=bitcoin&dateRange=custom&entityName=Rothschild&startdt=2021-01-25&enddt=2021-01-25",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "https://www.sec.gov/edgar/search/#/q=bitcoin&dateRange=custom&entityName=Rothschild&startdt=2021-01-25&enddt=2021-01-25",
+      "title": "在今天上午向美国证券交易委员会提交的一份文件中，Rothschild投资公司报告说，拥有30,454股GBTC。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "https://www.sec.gov/edgar/search/#/q=bitcoin&dateRange=custom&entityName=Rothschild&startdt=2021-01-25&enddt=2021-01-25",
+      "title": "在今天上午向美國證券交易委員會提交的一份文件中，Rothschild投資公司報告說，擁有30,454股GBTC。"
+    }
+  ]
 }
