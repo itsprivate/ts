@@ -1,8 +1,8 @@
 on:
   reddit:
     url:
-      - https://www.reddit.com/r/booksuggestions/top/?t=month
-      - https://www.reddit.com/r/books/top/?t=month
+      - https://www.reddit.com/r/booksuggestions/top/
+      - https://www.reddit.com/r/books/top/
     source: json
     config:
       # limit: 2
