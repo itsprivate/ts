@@ -53,7 +53,7 @@
           "type": "image/png"
         }
       ],
-      "issueCount": 8,
+      "issueCount": 10,
       "telegram": "@reddit_zh",
       "telegram_chat_id": "-1001445816026"
     },
@@ -110,7 +110,7 @@
           "type": "image/png"
         }
       ],
-      "issueCount": 3,
+      "issueCount": 5,
       "telegram": "@stocks_top",
       "telegram_chat_id": " -1001246603580"
     },
@@ -167,7 +167,7 @@
           "type": "image/png"
         }
       ],
-      "issueCount": 3,
+      "issueCount": 5,
       "telegram": "@buzzingcc",
       "telegram_chat_id": "-1001406368978"
     },
@@ -224,7 +224,7 @@
           "type": "image/png"
         }
       ],
-      "issueCount": 3,
+      "issueCount": 5,
       "telegram": "@buzzingcc",
       "telegram_chat_id": "-1001406368978"
     },
@@ -457,118 +457,61 @@
       "issueCount": 0
     },
     {
-      "url": "https://youtube.buzzing.cc",
-      "name": "Youtuber热门",
-      "short_name": "Youtube热门",
+      "url": "https://books.buzzing.cc/",
+      "name": "Buzzing 读书",
+      "short_name": "Buzzing读书",
       "start_url": "/",
       "lang": "zh",
-      "description": "用中文浏览 Youtube 上的全球热门视频",
+      "description": "用中文浏览读书，荐书相关的讨论",
       "background_color": "#f7f0eb",
       "theme_color": "#FF4500",
       "display": "standalone",
-      "cacheDigest": "53199791f984b912a3f282e80a52a808",
+      "telegram": "@buzzingcc",
+      "telegram_chat_id": "-1001406368978",
+      "cacheDigest": "892cf710675ba731ec13129050b5912e",
       "icons": [
         {
-          "src": "icons/icon-48x48.png?v=53199791f984b912a3f282e80a52a808",
+          "src": "icons/icon-48x48.png?v=892cf710675ba731ec13129050b5912e",
           "sizes": "48x48",
           "type": "image/png"
         },
         {
-          "src": "icons/icon-72x72.png?v=53199791f984b912a3f282e80a52a808",
+          "src": "icons/icon-72x72.png?v=892cf710675ba731ec13129050b5912e",
           "sizes": "72x72",
           "type": "image/png"
         },
         {
-          "src": "icons/icon-96x96.png?v=53199791f984b912a3f282e80a52a808",
+          "src": "icons/icon-96x96.png?v=892cf710675ba731ec13129050b5912e",
           "sizes": "96x96",
           "type": "image/png"
         },
         {
-          "src": "icons/icon-144x144.png?v=53199791f984b912a3f282e80a52a808",
+          "src": "icons/icon-144x144.png?v=892cf710675ba731ec13129050b5912e",
           "sizes": "144x144",
           "type": "image/png"
         },
         {
-          "src": "icons/icon-192x192.png?v=53199791f984b912a3f282e80a52a808",
+          "src": "icons/icon-192x192.png?v=892cf710675ba731ec13129050b5912e",
           "sizes": "192x192",
           "type": "image/png"
         },
         {
-          "src": "icons/icon-256x256.png?v=53199791f984b912a3f282e80a52a808",
+          "src": "icons/icon-256x256.png?v=892cf710675ba731ec13129050b5912e",
           "sizes": "256x256",
           "type": "image/png"
         },
         {
-          "src": "icons/icon-384x384.png?v=53199791f984b912a3f282e80a52a808",
+          "src": "icons/icon-384x384.png?v=892cf710675ba731ec13129050b5912e",
           "sizes": "384x384",
           "type": "image/png"
         },
         {
-          "src": "icons/icon-512x512.png?v=53199791f984b912a3f282e80a52a808",
+          "src": "icons/icon-512x512.png?v=892cf710675ba731ec13129050b5912e",
           "sizes": "512x512",
           "type": "image/png"
         }
       ],
-      "issueCount": 2,
-      "telegram": "@buzzingcc",
-      "telegram_chat_id": "-1001406368978"
-    },
-    {
-      "url": "https://crypto.buzzing.cc",
-      "name": "加密货币国外热门讨论",
-      "short_name": "加密货币",
-      "start_url": "/",
-      "lang": "zh",
-      "description": "用中文浏览关于加密货币的国外热门讨论",
-      "background_color": "#f7f0eb",
-      "theme_color": "#FF4500",
-      "display": "standalone",
-      "cacheDigest": "169bfe8a7b690bccdbd5a525528c0464",
-      "icons": [
-        {
-          "src": "icons/icon-48x48.png?v=169bfe8a7b690bccdbd5a525528c0464",
-          "sizes": "48x48",
-          "type": "image/png"
-        },
-        {
-          "src": "icons/icon-72x72.png?v=169bfe8a7b690bccdbd5a525528c0464",
-          "sizes": "72x72",
-          "type": "image/png"
-        },
-        {
-          "src": "icons/icon-96x96.png?v=169bfe8a7b690bccdbd5a525528c0464",
-          "sizes": "96x96",
-          "type": "image/png"
-        },
-        {
-          "src": "icons/icon-144x144.png?v=169bfe8a7b690bccdbd5a525528c0464",
-          "sizes": "144x144",
-          "type": "image/png"
-        },
-        {
-          "src": "icons/icon-192x192.png?v=169bfe8a7b690bccdbd5a525528c0464",
-          "sizes": "192x192",
-          "type": "image/png"
-        },
-        {
-          "src": "icons/icon-256x256.png?v=169bfe8a7b690bccdbd5a525528c0464",
-          "sizes": "256x256",
-          "type": "image/png"
-        },
-        {
-          "src": "icons/icon-384x384.png?v=169bfe8a7b690bccdbd5a525528c0464",
-          "sizes": "384x384",
-          "type": "image/png"
-        },
-        {
-          "src": "icons/icon-512x512.png?v=169bfe8a7b690bccdbd5a525528c0464",
-          "sizes": "512x512",
-          "type": "image/png"
-        }
-      ],
-      "issueCount": 3,
-      "telegram": "@buzzingcc",
-      "telegram_chat_id": "-1001406368978"
+      "issueCount": 0
     },
     {
       "url": "https://data.buzzing.cc",
@@ -628,6 +571,177 @@
       "issueCount": 0
     },
     {
+      "url": "https://economist.buzzing.cc/",
+      "name": "经济学人",
+      "short_name": "经济学人",
+      "start_url": "/",
+      "lang": "zh",
+      "description": "用中文浏览经济学人",
+      "background_color": "#f7f0eb",
+      "theme_color": "#FF4500",
+      "display": "standalone",
+      "telegram": "@buzzingcc",
+      "telegram_chat_id": "-1001406368978",
+      "cacheDigest": "fe40cb73791fcfdc012b045463f5af85",
+      "icons": [
+        {
+          "src": "icons/icon-48x48.png?v=fe40cb73791fcfdc012b045463f5af85",
+          "sizes": "48x48",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-72x72.png?v=fe40cb73791fcfdc012b045463f5af85",
+          "sizes": "72x72",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-96x96.png?v=fe40cb73791fcfdc012b045463f5af85",
+          "sizes": "96x96",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-144x144.png?v=fe40cb73791fcfdc012b045463f5af85",
+          "sizes": "144x144",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-192x192.png?v=fe40cb73791fcfdc012b045463f5af85",
+          "sizes": "192x192",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-256x256.png?v=fe40cb73791fcfdc012b045463f5af85",
+          "sizes": "256x256",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-384x384.png?v=fe40cb73791fcfdc012b045463f5af85",
+          "sizes": "384x384",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-512x512.png?v=fe40cb73791fcfdc012b045463f5af85",
+          "sizes": "512x512",
+          "type": "image/png"
+        }
+      ],
+      "issueCount": 0
+    },
+    {
+      "url": "https://crypto.buzzing.cc",
+      "name": "加密货币国外热门讨论",
+      "short_name": "加密货币",
+      "start_url": "/",
+      "lang": "zh",
+      "description": "用中文浏览关于加密货币的国外热门讨论",
+      "background_color": "#f7f0eb",
+      "theme_color": "#FF4500",
+      "display": "standalone",
+      "cacheDigest": "169bfe8a7b690bccdbd5a525528c0464",
+      "icons": [
+        {
+          "src": "icons/icon-48x48.png?v=169bfe8a7b690bccdbd5a525528c0464",
+          "sizes": "48x48",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-72x72.png?v=169bfe8a7b690bccdbd5a525528c0464",
+          "sizes": "72x72",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-96x96.png?v=169bfe8a7b690bccdbd5a525528c0464",
+          "sizes": "96x96",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-144x144.png?v=169bfe8a7b690bccdbd5a525528c0464",
+          "sizes": "144x144",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-192x192.png?v=169bfe8a7b690bccdbd5a525528c0464",
+          "sizes": "192x192",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-256x256.png?v=169bfe8a7b690bccdbd5a525528c0464",
+          "sizes": "256x256",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-384x384.png?v=169bfe8a7b690bccdbd5a525528c0464",
+          "sizes": "384x384",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-512x512.png?v=169bfe8a7b690bccdbd5a525528c0464",
+          "sizes": "512x512",
+          "type": "image/png"
+        }
+      ],
+      "issueCount": 5,
+      "telegram": "@buzzingcc",
+      "telegram_chat_id": "-1001406368978"
+    },
+    {
+      "url": "https://youtube.buzzing.cc",
+      "name": "Youtuber热门",
+      "short_name": "Youtube热门",
+      "start_url": "/",
+      "lang": "zh",
+      "description": "用中文浏览 Youtube 上的全球热门视频",
+      "background_color": "#f7f0eb",
+      "theme_color": "#FF4500",
+      "display": "standalone",
+      "cacheDigest": "53199791f984b912a3f282e80a52a808",
+      "icons": [
+        {
+          "src": "icons/icon-48x48.png?v=53199791f984b912a3f282e80a52a808",
+          "sizes": "48x48",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-72x72.png?v=53199791f984b912a3f282e80a52a808",
+          "sizes": "72x72",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-96x96.png?v=53199791f984b912a3f282e80a52a808",
+          "sizes": "96x96",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-144x144.png?v=53199791f984b912a3f282e80a52a808",
+          "sizes": "144x144",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-192x192.png?v=53199791f984b912a3f282e80a52a808",
+          "sizes": "192x192",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-256x256.png?v=53199791f984b912a3f282e80a52a808",
+          "sizes": "256x256",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-384x384.png?v=53199791f984b912a3f282e80a52a808",
+          "sizes": "384x384",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-512x512.png?v=53199791f984b912a3f282e80a52a808",
+          "sizes": "512x512",
+          "type": "image/png"
+        }
+      ],
+      "issueCount": 4,
+      "telegram": "@buzzingcc",
+      "telegram_chat_id": "-1001406368978"
+    },
+    {
       "url": "https://changemyview.buzzing.cc",
       "name": "你可以改变我的想法吗？",
       "short_name": "改变我的想法",
@@ -680,10 +794,10 @@
           "type": "image/png"
         }
       ],
-      "issueCount": 1,
+      "issueCount": 3,
       "telegram": "@buzzingcc",
       "telegram_chat_id": "-1001406368978"
     }
   ],
-  "source_updated_at": 1610662173933
+  "source_updated_at": 1611637048802
 }
