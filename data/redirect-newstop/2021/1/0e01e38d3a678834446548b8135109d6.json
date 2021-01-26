@@ -14,5 +14,15 @@
   "tags": [
     "BBC News"
   ],
-  "image": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.1.0/bbc_news_logo.png"
+  "image": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.1.0/bbc_news_logo.png",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "科维德-19。英国死亡人数超过10万人，英国首相 \"深表遗憾"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "科維德-19。英國死亡人數超過10萬人，英國首相 \"深表遺憾"
+    }
+  ]
 }
