@@ -41,22 +41,22 @@
   "is_original_content": false,
   "user_reports": [],
   "secure_media": {
+    "type": "youtube.com",
     "oembed": {
       "provider_url": "https://www.youtube.com/",
+      "version": "1.0",
       "title": "1. Introduction for 15.S12 Blockchain and Money, Fall 2018",
-      "html": "<iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/EH6vE97qIP4?feature=oembed&enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "type": "video",
       "thumbnail_width": 480,
       "height": 200,
       "width": 356,
-      "version": "1.0",
+      "html": "<iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/EH6vE97qIP4?feature=oembed&enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "author_name": "MIT OpenCourseWare",
       "provider_name": "YouTube",
       "thumbnail_url": "https://i.ytimg.com/vi/EH6vE97qIP4/hqdefault.jpg",
-      "type": "video",
       "thumbnail_height": 360,
       "author_url": "https://www.youtube.com/c/mitocw"
-    },
-    "type": "youtube.com"
+    }
   },
   "is_reddit_media_domain": false,
   "is_meta": false,
@@ -169,26 +169,26 @@
   "parent_whitelist_status": "all_ads",
   "stickied": false,
   "url": "https://www.youtube.com/watch?v=EH6vE97qIP4",
-  "subreddit_subscribers": 1246251,
+  "subreddit_subscribers": 1246335,
   "created_utc": 1611651943,
   "num_crossposts": 5,
   "media": {
+    "type": "youtube.com",
     "oembed": {
       "provider_url": "https://www.youtube.com/",
+      "version": "1.0",
       "title": "1. Introduction for 15.S12 Blockchain and Money, Fall 2018",
-      "html": "<iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/EH6vE97qIP4?feature=oembed&enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "type": "video",
       "thumbnail_width": 480,
       "height": 200,
       "width": 356,
-      "version": "1.0",
+      "html": "<iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/EH6vE97qIP4?feature=oembed&enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "author_name": "MIT OpenCourseWare",
       "provider_name": "YouTube",
       "thumbnail_url": "https://i.ytimg.com/vi/EH6vE97qIP4/hqdefault.jpg",
-      "type": "video",
       "thumbnail_height": 360,
       "author_url": "https://www.youtube.com/c/mitocw"
-    },
-    "type": "youtube.com"
+    }
   },
   "is_video": false,
   "original_created_utc": 1611624616,
