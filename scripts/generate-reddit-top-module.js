@@ -1,7 +1,7 @@
 const path = require("path");
 const fsPure = require("fs");
 const fs = fsPure.promises;
-
+const writeJson = require("./write-json");
 async function main({ dest = "data/reddit-top", name = "reddit-top" } = {}) {
   const outputs = require(`${process.env.GITHUB_WORKSPACE}/${process.env.OUTPUTS_PATH}`);
   const items = outputs;
@@ -31,7 +31,7 @@ async function main({ dest = "data/reddit-top", name = "reddit-top" } = {}) {
         recursive: true,
       })
       .then(() => {
-        return fs.writeFile(redditFilePath, JSON.stringify(item, null, 2));
+        return writeJson(redditFilePath, item);
       });
     console.log(`Write reddit json ${redditFilePath} success.`);
     const title = item.title;
@@ -50,15 +50,15 @@ async function main({ dest = "data/reddit-top", name = "reddit-top" } = {}) {
 
     const isExist = fsPure.existsSync(filePath);
     if (!isExist) {
-      await fs.writeFile(filePath, "{}");
+      await writeJson(filePath, {});
     }
     const isExcerptExist = fsPure.existsSync(excerptFilePath);
     if (!isExcerptExist) {
-      await fs.writeFile(excerptFilePath, "{}");
+      await writeJson(excerptFilePath, {});
     }
     const isTagFileExist = fsPure.existsSync(tagFilePath);
     if (!isTagFileExist) {
-      await fs.writeFile(tagFilePath, "{}");
+      await writeJson(tagFilePath, {});
     }
 
     const localeJson = await fs.readFile(filePath, "utf8");
@@ -68,8 +68,7 @@ async function main({ dest = "data/reddit-top", name = "reddit-top" } = {}) {
       if (localeObj[redditFilePath] !== title) {
         localeObj[redditFilePath] = title;
         // write
-        await fs.writeFile(filePath, JSON.stringify(localeObj, null, 2));
-        console.log(`Write ${filePath} success`);
+        await writeJson(filePath, localeObj);
       }
     }
 
@@ -79,11 +78,7 @@ async function main({ dest = "data/reddit-top", name = "reddit-top" } = {}) {
       if (localeExcerptObj[redditFilePath] !== excerpt) {
         localeExcerptObj[redditFilePath] = excerpt;
         // write excerpt
-        await fs.writeFile(
-          excerptFilePath,
-          JSON.stringify(localeExcerptObj, null, 2)
-        );
-        console.log(`Write ${excerptFilePath} success`);
+        await writeJson(excerptFilePath, localeExcerptObj);
       }
     }
 
@@ -98,7 +93,7 @@ async function main({ dest = "data/reddit-top", name = "reddit-top" } = {}) {
     });
     if (isChanged) {
       // write
-      await fs.writeFile(tagFilePath, JSON.stringify(tagLocaleObj, null, 2));
+      await writeJson(tagFilePath, tagLocaleObj);
       console.log(`Write ${tagFilePath} success`);
     } else {
       console.log(`No changes for tags, skip write tag file`);

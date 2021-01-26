@@ -1,7 +1,7 @@
 const path = require("path");
 const fsPure = require("fs");
 const fs = fsPure.promises;
-
+const writeJson = require("./write-json");
 const main = async ({
   dest = "data/tweet-stocks",
   name = "tweet-stocks",
@@ -97,15 +97,15 @@ const main = async ({
     // );
     const isExist = fsPure.existsSync(absoluteFilePath);
     if (!isExist) {
-      await fs.writeFile(absoluteFilePath, "{}");
+      await writeJson(absoluteFilePath, {});
     }
     const isQuoteExist = fsPure.existsSync(absoluteQuoteFilePath);
     if (!isQuoteExist) {
-      await fs.writeFile(absoluteQuoteFilePath, "{}");
+      await writeJson(absoluteQuoteFilePath, {});
     }
     const isRetweetExist = fsPure.existsSync(absoluteRetweetFilePath);
     if (!isRetweetExist) {
-      await fs.writeFile(absoluteRetweetFilePath, "{}");
+      await writeJson(absoluteRetweetFilePath, {});
     }
     // const isTagFileExist = fsPure.existsSync(absoluteTagFilePath);
     // if (!isTagFileExist) {
@@ -118,11 +118,7 @@ const main = async ({
       if (localeObj[fileRelativePath] !== full_text) {
         localeObj[fileRelativePath] = full_text;
         // write
-        await fs.writeFile(
-          absoluteFilePath,
-          JSON.stringify(localeObj, null, 2)
-        );
-        console.log(`Write ${filePath} success`);
+        await writeJson(absoluteFilePath, localeObj);
       }
     }
 
@@ -132,11 +128,7 @@ const main = async ({
       if (localeQuoteObj[fileRelativePath] !== quoteFull_text) {
         localeQuoteObj[fileRelativePath] = quoteFull_text;
         // write
-        await fs.writeFile(
-          absoluteQuoteFilePath,
-          JSON.stringify(localeQuoteObj, null, 2)
-        );
-        console.log(`Write ${quoteFilePath} success`);
+        await writeJson(absoluteQuoteFilePath, localeQuoteObj);
       }
     }
 
@@ -149,11 +141,7 @@ const main = async ({
       if (localeRetweetObj[fileRelativePath] !== retweeted_status_full_text) {
         localeRetweetObj[fileRelativePath] = retweeted_status_full_text;
         // write
-        await fs.writeFile(
-          absoluteRetweetFilePath,
-          JSON.stringify(localeRetweetObj, null, 2)
-        );
-        console.log(`Write ${retweetFilePath} success`);
+        await writeJson(absoluteRetweetFilePath, localeRetweetObj);
       }
     }
 
