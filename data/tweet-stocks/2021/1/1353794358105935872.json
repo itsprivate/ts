@@ -206,5 +206,17 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Mon Jan 25 19:58:21 +0000 2021"
+  "original_created_at": "Mon Jan 25 19:58:21 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @morganhousel。艾伦-格林斯潘在1996年首次称市场为 \"非理性繁荣\" 纳斯达克指数又上涨了500%。所以...",
+      "retweeted_status_full_text": "艾伦-格林斯潘在1996年首次称市场为 \"非理性亢奋\"，纳斯达克指数接着又反弹了500%。所以谁也不知道。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @morganhousel。艾倫-格林斯潘在1996年首次稱市場爲 \"非理性繁榮\" 納斯達克指數又上漲了500%。所以...",
+      "retweeted_status_full_text": "艾倫-格林斯潘在1996年首次稱市場爲 \"非理性亢奮\"，納斯達克指數接着又反彈了500%。所以誰也不知道。"
+    }
+  ]
 }
