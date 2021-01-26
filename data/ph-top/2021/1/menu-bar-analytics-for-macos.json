@@ -83,5 +83,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-26T08:43:19Z"
+  "original_createdAt": "2021-01-26T08:43:19Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "- 在菜单栏中查看最新的网站数据 - 菜单栏分析图标旁边的数字显示了当日的用户访问量 - 使用标签在11个指标之间切换 - Google Analytics指标每5分钟更新一次 - 一次性价格为4.99美元。",
+      "tagline": "从Mac的菜单栏查看Google Analytics数据"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "- 在菜單欄中查看最新的網站數據 - 菜單欄分析圖標旁邊的數字顯示了當日的用戶訪問量 - 使用標籤在11個指標之間切換 - Google Analytics指標每5分鐘更新一次 - 一次性價格爲4.99美元。",
+      "tagline": "從Mac的菜單欄查看Google Analytics數據"
+    }
+  ]
 }
