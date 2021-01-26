@@ -39,8 +39,10 @@ async function main({ dest = "./i18n/post-resource" } = {}) {
         const sourcePath = keys[j];
         const text = jsonObj[sourcePath];
         const sourceAbsolutePath = resolve(CWD, sourcePath);
-        const sourceJson = await readFile(sourceAbsolutePath, "utf8");
-        if (sourceJson) {
+        const isSourceExist = fsPure.existsSync(sourceAbsolutePath);
+        if (isSourceExist) {
+          // exist
+          const sourceJson = await readFile(sourceAbsolutePath, "utf8");
           let sourceObj = {};
           try {
             sourceObj = JSON.parse(sourceJson);
