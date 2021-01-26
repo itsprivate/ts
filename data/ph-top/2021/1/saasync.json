@@ -80,5 +80,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-26T08:34:03Z"
+  "original_createdAt": "2021-01-26T08:34:03Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "SaaSync从QBO或Xero检索发票和其他数据。这些数据经过转换后可用于ChartMogul。不能自动同步的数据会出现在审查屏幕上，SaaSync用户可以在将剩余数据推送到ChartMogul之前对其进行编辑。",
+      "tagline": "用ChartMogul整合QuickBooks Online和Xero。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "SaaSync從QBO或Xero檢索發票和其他數據。這些數據經過轉換後可用於ChartMogul。不能自動同步的數據會出現在審查屏幕上，SaaSync用戶可以在將剩餘數據推送到ChartMogul之前對其進行編輯。",
+      "tagline": "用ChartMogul整合QuickBooks Online和Xero。"
+    }
+  ]
 }
