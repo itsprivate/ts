@@ -88,5 +88,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-26T12:00:00Z"
+  "original_createdAt": "2021-01-26T12:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "目前的工具很难听到你的想法。Totallib的笔记体验由GPT-3驱动，让你边写边想。通过链接的笔记来复合你的知识--从小种子到大图片。通过AI辅助写作激发新的想法。",
+      "tagline": "记笔记是为了更好的思考，在AI的加持下。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "目前的工具很難聽到你的想法。Totallib的筆記體驗由GPT-3驅動，讓你邊寫邊想。通過鏈接的筆記來複合你的知識--從小種子到大圖片。通過AI輔助寫作激發新的想法。",
+      "tagline": "記筆記是爲了更好的思考，在AI的加持下。"
+    }
+  ]
 }
