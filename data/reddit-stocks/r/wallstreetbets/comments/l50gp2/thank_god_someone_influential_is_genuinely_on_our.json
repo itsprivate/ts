@@ -28,8 +28,8 @@
   "upvote_ratio": 0.98,
   "author_flair_background_color": "",
   "subreddit_type": "public",
-  "ups": 7219,
-  "total_awards_received": 62,
+  "ups": 7546,
+  "total_awards_received": 67,
   "media_embed": {
     "content": "<iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/4EUbJcGoYQ4?feature=oembed&enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
     "width": 356,
@@ -41,22 +41,22 @@
   "is_original_content": false,
   "user_reports": [],
   "secure_media": {
-    "type": "youtube.com",
     "oembed": {
       "provider_url": "https://www.youtube.com/",
-      "version": "1.0",
       "title": "Why mainstream media's slander of wallstreetbets pisses me off regarding GME.",
-      "type": "video",
+      "html": "<iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/4EUbJcGoYQ4?feature=oembed&enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "thumbnail_width": 480,
       "height": 200,
       "width": 356,
-      "html": "<iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/4EUbJcGoYQ4?feature=oembed&enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "version": "1.0",
       "author_name": "Louis Rossmann",
       "provider_name": "YouTube",
       "thumbnail_url": "https://i.ytimg.com/vi/4EUbJcGoYQ4/hqdefault.jpg",
+      "type": "video",
       "thumbnail_height": 360,
       "author_url": "https://www.youtube.com/user/rossmanngroup"
-    }
+    },
+    "type": "youtube.com"
   },
   "is_reddit_media_domain": false,
   "is_meta": false,
@@ -70,7 +70,7 @@
   },
   "link_flair_text": "News",
   "can_mod_post": false,
-  "score": 7219,
+  "score": 7546,
   "approved_by": null,
   "author_premium": true,
   "thumbnail": "https://b.thumbs.redditmedia.com/UhDQaijRDg6nRCju4pzwykr7-EtOzDeN3NgkeaWBYzg.jpg",
@@ -83,7 +83,7 @@
     }
   ],
   "gildings": {
-    "gid_1": 10,
+    "gid_1": 11,
     "gid_2": 7,
     "gid_3": 2
   },
@@ -162,7 +162,7 @@
   "report_reasons": null,
   "author": "Powerful_Finger3896",
   "discussion_type": null,
-  "num_comments": 503,
+  "num_comments": 546,
   "send_replies": true,
   "whitelist_status": "some_ads",
   "contest_mode": false,
@@ -171,28 +171,28 @@
   "author_flair_text_color": "dark",
   "permalink": "/r/wallstreetbets/comments/l50gp2/thank_god_someone_influential_is_genuinely_on_our/",
   "parent_whitelist_status": "some_ads",
-  "stickied": true,
+  "stickied": false,
   "url": "https://www.youtube.com/watch?v=4EUbJcGoYQ4&ab_channel=LouisRossmann",
-  "subreddit_subscribers": 2293144,
+  "subreddit_subscribers": 2297185,
   "created_utc": 1611655278,
   "num_crossposts": 2,
   "media": {
-    "type": "youtube.com",
     "oembed": {
       "provider_url": "https://www.youtube.com/",
-      "version": "1.0",
       "title": "Why mainstream media's slander of wallstreetbets pisses me off regarding GME.",
-      "type": "video",
+      "html": "<iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/4EUbJcGoYQ4?feature=oembed&enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "thumbnail_width": 480,
       "height": 200,
       "width": 356,
-      "html": "<iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/4EUbJcGoYQ4?feature=oembed&enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "version": "1.0",
       "author_name": "Louis Rossmann",
       "provider_name": "YouTube",
       "thumbnail_url": "https://i.ytimg.com/vi/4EUbJcGoYQ4/hqdefault.jpg",
+      "type": "video",
       "thumbnail_height": 360,
       "author_url": "https://www.youtube.com/user/rossmanngroup"
-    }
+    },
+    "type": "youtube.com"
   },
   "is_video": false,
   "original_created_utc": 1611616947,
