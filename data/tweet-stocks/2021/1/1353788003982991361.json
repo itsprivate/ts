@@ -196,5 +196,17 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Mon Jan 25 19:33:06 +0000 2021"
+  "original_created_at": "Mon Jan 25 19:33:06 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @iancassel。投资是百分之五的智力和百分之九十五的气质。这是对你能否安静地坐在那里，什么都不做的考验，当你的情绪... ...",
+      "retweeted_status_full_text": "投资是5%的智力和95%的气质。这是对你的考验，当你的情绪在叫嚣着要做错事的时候，你能不能安静地坐着什么都不做。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @iancassel。投資是百分之五的智力和百分之九十五的氣質。這是對你能否安靜地坐在那裏，什麼都不做的考驗，當你的情緒... ...",
+      "retweeted_status_full_text": "投資是5%的智力和95%的氣質。這是對你的考驗，當你的情緒在叫囂着要做錯事的時候，你能不能安靜地坐着什麼都不做。"
+    }
+  ]
 }

@@ -68,5 +68,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-25T08:16:42Z"
+  "original_createdAt": "2021-01-25T08:16:42Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Ojoy可以放大低分辨率的照片和备忘录，并提高其质量。由于 Upscaler 和 TensorFlow.js 的一些智能，它 100% 在浏览器客户端实现了这一点。与仅仅调整它们的大小相比，输出的图像通常更加清晰。",
+      "tagline": "放大低分辨率图像并提高其质量。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Ojoy可以放大低分辨率的照片和備忘錄，並提高其質量。由於 Upscaler 和 TensorFlow.js 的一些智能，它 100% 在瀏覽器客戶端實現了這一點。與僅僅調整它們的大小相比，輸出的圖像通常更加清晰。",
+      "tagline": "放大低分辨率圖像並提高其質量。"
+    }
+  ]
 }
