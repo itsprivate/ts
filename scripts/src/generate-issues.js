@@ -65,6 +65,22 @@ async function main() {
       },
       sort: "simple",
     },
+    {
+      folders: ["data/reddit-ask"],
+      issueDir: "data/reddit-ask-issues",
+      config: {
+        reddit: 20,
+      },
+      sort: "group",
+    },
+    {
+      folders: ["data/reddit-ask"],
+      issueDir: "data/reddit-ask-issues",
+      config: {
+        reddit: 20,
+      },
+      sort: "group",
+    },
   ];
   const now = Date.now();
 
