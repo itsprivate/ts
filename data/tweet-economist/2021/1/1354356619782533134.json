@@ -228,5 +228,17 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Wed Jan 27 09:12:35 +0000 2021"
+  "original_created_at": "Wed Jan 27 09:12:35 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @demarionunn：在过去的6个月里，我一直在做uber eats的快递员，调查快递是如何不可逆转地改变我们的生活。",
+      "retweeted_status_full_text": "在过去的6个月里，我一直在做uber eats的快递员，调查外卖是如何不可逆转地改变我们对餐厅的概念，我们的饮食习惯，甚至是工作本身。我把它写进了@1843mag的长篇阅读中https://t.co/jGHt05nxIN。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @demarionunn：在過去的6個月裏，我一直在做uber eats的快遞員，調查快遞是如何不可逆轉地改變我們的生活。",
+      "retweeted_status_full_text": "在過去的6個月裏，我一直在做uber eats的快遞員，調查外賣是如何不可逆轉地改變我們對餐廳的概念，我們的飲食習慣，甚至是工作本身。我把它寫進了@1843mag的長篇閱讀中https://t.co/jGHt05nxIN。"
+    }
+  ]
 }
