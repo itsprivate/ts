@@ -23,7 +23,7 @@
   "upvote_ratio": 0.94,
   "author_flair_background_color": null,
   "subreddit_type": "public",
-  "ups": 4940,
+  "ups": 4986,
   "total_awards_received": 19,
   "media_embed": {},
   "thumbnail_width": null,
@@ -37,7 +37,7 @@
   "secure_media_embed": {},
   "link_flair_text": null,
   "can_mod_post": false,
-  "score": 4940,
+  "score": 4986,
   "approved_by": null,
   "author_premium": false,
   "thumbnail": "default",
@@ -77,7 +77,7 @@
       "author_flair_background_color": null,
       "subreddit_type": "public",
       "ups": 826,
-      "total_awards_received": 8,
+      "total_awards_received": 9,
       "media_embed": {},
       "thumbnail_width": null,
       "author_flair_template_id": null,
@@ -97,7 +97,9 @@
       "edited": false,
       "author_flair_css_class": null,
       "author_flair_richtext": [],
-      "gildings": {},
+      "gildings": {
+        "gid_1": 1
+      },
       "content_categories": null,
       "is_self": true,
       "mod_note": null,
@@ -289,6 +291,90 @@
           "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png"
         },
         {
+          "giver_coin_reward": null,
+          "subreddit_id": null,
+          "is_new": false,
+          "days_of_drip_extension": 0,
+          "coin_price": 100,
+          "id": "gid_1",
+          "penny_donate": null,
+          "award_sub_type": "GLOBAL",
+          "coin_reward": 0,
+          "icon_url": "https://www.redditstatic.com/gold/awards/icon/silver_512.png",
+          "days_of_premium": 0,
+          "tiers_by_required_awardings": null,
+          "resized_icons": [
+            {
+              "url": "https://www.redditstatic.com/gold/awards/icon/silver_16.png",
+              "width": 16,
+              "height": 16
+            },
+            {
+              "url": "https://www.redditstatic.com/gold/awards/icon/silver_32.png",
+              "width": 32,
+              "height": 32
+            },
+            {
+              "url": "https://www.redditstatic.com/gold/awards/icon/silver_48.png",
+              "width": 48,
+              "height": 48
+            },
+            {
+              "url": "https://www.redditstatic.com/gold/awards/icon/silver_64.png",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://www.redditstatic.com/gold/awards/icon/silver_128.png",
+              "width": 128,
+              "height": 128
+            }
+          ],
+          "icon_width": 512,
+          "static_icon_width": 512,
+          "start_date": null,
+          "is_enabled": true,
+          "awardings_required_to_grant_benefits": null,
+          "description": "Shows the Silver Award... and that's it.",
+          "end_date": null,
+          "subreddit_coin_reward": 0,
+          "count": 1,
+          "static_icon_height": 512,
+          "name": "Silver",
+          "resized_static_icons": [
+            {
+              "url": "https://www.redditstatic.com/gold/awards/icon/silver_16.png",
+              "width": 16,
+              "height": 16
+            },
+            {
+              "url": "https://www.redditstatic.com/gold/awards/icon/silver_32.png",
+              "width": 32,
+              "height": 32
+            },
+            {
+              "url": "https://www.redditstatic.com/gold/awards/icon/silver_48.png",
+              "width": 48,
+              "height": 48
+            },
+            {
+              "url": "https://www.redditstatic.com/gold/awards/icon/silver_64.png",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://www.redditstatic.com/gold/awards/icon/silver_128.png",
+              "width": 128,
+              "height": 128
+            }
+          ],
+          "icon_format": null,
+          "icon_height": 512,
+          "penny_price": null,
+          "award_type": "global",
+          "static_icon_url": "https://www.redditstatic.com/gold/awards/icon/silver_512.png"
+        },
+        {
           "giver_coin_reward": 0,
           "subreddit_id": null,
           "is_new": false,
@@ -393,7 +479,7 @@
       "report_reasons": null,
       "author": "moonxglade",
       "discussion_type": null,
-      "num_comments": 67,
+      "num_comments": 69,
       "send_replies": true,
       "whitelist_status": "no_ads",
       "contest_mode": false,
@@ -404,7 +490,7 @@
       "parent_whitelist_status": "no_ads",
       "stickied": false,
       "url": "https://www.reddit.com/r/ADHD/comments/l5nry9/i_did_it_i_finally_did_it_i_finished_a_book_for/",
-      "subreddit_subscribers": 1128925,
+      "subreddit_subscribers": 1128927,
       "created_utc": 1611695453,
       "num_crossposts": 1,
       "media": null,
@@ -450,7 +536,7 @@
   "report_reasons": null,
   "author": "moonxglade",
   "discussion_type": null,
-  "num_comments": 96,
+  "num_comments": 97,
   "send_replies": true,
   "whitelist_status": "all_ads",
   "contest_mode": false,
@@ -462,7 +548,7 @@
   "parent_whitelist_status": "all_ads",
   "stickied": false,
   "url": "/r/ADHD/comments/l5nry9/i_did_it_i_finally_did_it_i_finished_a_book_for/",
-  "subreddit_subscribers": 18922915,
+  "subreddit_subscribers": 18922934,
   "created_utc": 1611701619,
   "num_crossposts": 0,
   "media": null,
