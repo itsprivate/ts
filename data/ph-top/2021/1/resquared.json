@@ -68,5 +68,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-26T08:05:00Z"
+  "original_createdAt": "2021-01-26T08:05:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Resquared是一款网络应用，它拥有当地每家企业的数据，并通过内置的营销工具让你轻松接触到他们。如果你想向餐馆销售，你会打开Resquared，创建一个搜索，并可以访问成千上万的餐馆。",
+      "tagline": "覆盖本地企业的营销软件。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Resquared是一款網絡應用，它擁有當地每家企業的數據，並通過內置的營銷工具讓你輕鬆接觸到他們。如果你想向餐館銷售，你會打開Resquared，創建一個搜索，並可以訪問成千上萬的餐館。",
+      "tagline": "覆蓋本地企業的營銷軟件。"
+    }
+  ]
 }
