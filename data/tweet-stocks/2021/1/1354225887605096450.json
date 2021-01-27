@@ -382,5 +382,17 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Wed Jan 27 00:33:06 +0000 2021"
+  "original_created_at": "Wed Jan 27 00:33:06 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @nypost: 中国使用肛门拭子检测COVID-19：报告https://t.co/6fUhbm26jX https://t.co/Iw9IKAWHJS。",
+      "retweeted_status_full_text": "中国使用肛门拭子检测COVID-19：报告https://t.co/6fUhbm26jX https://t.co/Iw9IKAWHJS。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @nypost: 中國使用肛門拭子檢測COVID-19：報告https://t.co/6fUhbm26jX https://t.co/Iw9IKAWHJS。",
+      "retweeted_status_full_text": "中國使用肛門拭子檢測COVID-19：報告https://t.co/6fUhbm26jX https://t.co/Iw9IKAWHJS。"
+    }
+  ]
 }
