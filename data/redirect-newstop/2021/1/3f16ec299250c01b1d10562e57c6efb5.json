@@ -14,5 +14,15 @@
   "tags": [
     "BBC News"
   ],
-  "image": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.1.0/bbc_news_logo.png"
+  "image": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.1.0/bbc_news_logo.png",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "Covid-19。由于学校停课至3月，总理将提供最新情况"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Covid-19。由於學校停課至3月，總理將提供最新情況"
+    }
+  ]
 }
