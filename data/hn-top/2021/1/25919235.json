@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-01-26T18:12:21.000Z",
-  "image": ""
+  "image": "",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "Sudo中基于堆的缓冲区溢出。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Sudo中基於堆的緩衝區溢出。"
+    }
+  ]
 }
