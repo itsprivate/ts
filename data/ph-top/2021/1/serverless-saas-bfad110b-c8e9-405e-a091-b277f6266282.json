@@ -78,5 +78,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-27T09:21:04Z"
+  "original_createdAt": "2021-01-27T09:21:04Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "一个SaaS套件，可能是你下一个React项目的完美起点。节省时间，跳过实施认证、支付、团队等功能，这样你就可以专注于构建你的SaaS。",
+      "tagline": "使用React更快地构建SaaS应用"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個SaaS套件，可能是你下一個React項目的完美起點。節省時間，跳過實施認證、支付、團隊等功能，這樣你就可以專注於構建你的SaaS。",
+      "tagline": "使用React更快地構建SaaS應用"
+    }
+  ]
 }
