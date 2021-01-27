@@ -68,5 +68,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-27T11:23:00Z"
+  "original_createdAt": "2021-01-27T11:23:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Lens是MacOS上的一款简单的图像转换器。只需放下一张图片，或一堆图片，并在瞬间将它们转换为另一种格式。",
+      "tagline": "在飞行中转换图像"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Lens是MacOS上的一款簡單的圖像轉換器。只需放下一張圖片，或一堆圖片，並在瞬間將它們轉換爲另一種格式。",
+      "tagline": "在飛行中轉換圖像"
+    }
+  ]
 }
