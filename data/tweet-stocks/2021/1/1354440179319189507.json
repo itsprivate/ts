@@ -101,5 +101,15 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Wed Jan 27 14:44:37 +0000 2021"
+  "original_created_at": "Wed Jan 27 14:44:37 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "这是市场中最疯狂的行动，你可能会看到。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "這是市場中最瘋狂的行動，你可能會看到。"
+    }
+  ]
 }

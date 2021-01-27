@@ -73,5 +73,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-27T08:00:00Z"
+  "original_createdAt": "2021-01-27T08:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Assemble是一个为视频制作者和内容创作者提供的端到端项目管理平台。制作日历、任务列表、高级文件共享和反馈、云存储等。",
+      "tagline": "内容创作者的项目管理"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Assemble是一個爲視頻製作者和內容創作者提供的端到端項目管理平臺。製作日曆、任務列表、高級文件共享和反饋、雲存儲等。",
+      "tagline": "內容創作者的項目管理"
+    }
+  ]
 }
