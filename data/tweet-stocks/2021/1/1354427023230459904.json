@@ -178,5 +178,15 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Wed Jan 27 13:52:21 +0000 2021"
+  "original_created_at": "Wed Jan 27 13:52:21 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "$AMC盘前涨幅超过200%。 \n \n该股的交易价格为2019年5月以来的最高价。https://t.co/KgNjbzL4KP。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "$AMC盤前漲幅超過200%。 \n \n該股的交易價格爲2019年5月以來的最高價。https://t.co/KgNjbzL4KP。"
+    }
+  ]
 }
