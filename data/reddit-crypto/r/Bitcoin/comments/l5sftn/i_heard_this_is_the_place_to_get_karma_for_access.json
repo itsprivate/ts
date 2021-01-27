@@ -104,5 +104,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1611709006,
-  "the_new_excerpt": "I'm trying to contact their support people."
+  "the_new_excerpt": "I'm trying to contact their support people.",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我正试图联系他们的支持人员。",
+      "title": "听说这里是获取Karma获取Coinbase支持的地方？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我正試圖聯繫他們的支持人員。",
+      "title": "聽說這裏是獲取Karma獲取Coinbase支持的地方？"
+    }
+  ]
 }
