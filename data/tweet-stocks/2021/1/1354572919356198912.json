@@ -206,5 +206,17 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Wed Jan 27 23:32:05 +0000 2021"
+  "original_created_at": "Wed Jan 27 23:32:05 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @ChefGruel：GameStop的故事，以及报道/回应--纳斯达克威胁停止交易，说明了一个事实：有一套规则......",
+      "retweeted_status_full_text": "GameStop的故事，以及报道/回应--纳斯达克威胁停止交易，说明了一个事实，那就是一类人有一套规则，如果还有人想靠这套系统赚钱，就会被 \"大狗 \"责骂。FrEe MaRkEt怎么了？"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @ChefGruel：GameStop的故事，以及報道/迴應--納斯達克威脅停止交易，說明了一個事實：有一套規則......",
+      "retweeted_status_full_text": "GameStop的故事，以及報道/迴應--納斯達克威脅停止交易，說明了一個事實，那就是一類人有一套規則，如果還有人想靠這套系統賺錢，就會被 \"大狗 \"責罵。FrEe MaRkEt怎麼了？"
+    }
+  ]
 }
