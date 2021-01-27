@@ -73,5 +73,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-27T08:05:00Z"
+  "original_createdAt": "2021-01-27T08:05:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "SEED让团队使用serverless变得不费吹灰之力。-- 🤖 零配置部署Serverless Framework和CDK应用程序，无需构建脚本 💫 自定义部署基础设施，使部署速度提高100倍 🖥️ 还有一个仪表板来管理你的环境。",
+      "tagline": "无服务器部署速度提高100倍"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "SEED讓團隊使用serverless變得不費吹灰之力。-- 🤖 零配置部署Serverless Framework和CDK應用程序，無需構建腳本 💫 自定義部署基礎設施，使部署速度提高100倍 🖥️ 還有一個儀表板來管理你的環境。",
+      "tagline": "無服務器部署速度提高100倍"
+    }
+  ]
 }

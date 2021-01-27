@@ -73,5 +73,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-27T12:30:00Z"
+  "original_createdAt": "2021-01-27T12:30:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Waldo是世界上第一个无代码测试平台，让任何人都可以创建可靠的、自动化的移动测试，而无需编写脚本的麻烦。忘记您的移动测试脚本，使用Waldo。现在可以在Android上使用",
+      "tagline": "无代码的移动测试"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Waldo是世界上第一個無代碼測試平臺，讓任何人都可以創建可靠的、自動化的移動測試，而無需編寫腳本的麻煩。忘記您的移動測試腳本，使用Waldo。現在可以在Android上使用",
+      "tagline": "無代碼的移動測試"
+    }
+  ]
 }
