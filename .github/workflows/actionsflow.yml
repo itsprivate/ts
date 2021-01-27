@@ -44,6 +44,8 @@ jobs:
       #     push: false
       - name: chown
         run: sudo chown -R $USER:$USER ./
+      - name: git add
+        run: git add .
       - run: git status
       - name: Create pull request
         uses: peter-evans/create-pull-request@v3
