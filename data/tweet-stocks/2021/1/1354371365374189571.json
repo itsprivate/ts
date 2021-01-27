@@ -99,5 +99,15 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Wed Jan 27 10:11:11 +0000 2021"
+  "original_created_at": "Wed Jan 27 10:11:11 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "$GME的浮动股有4600万股。150%的浮动股是空头，其中大部分是非法的。GME每涨一个点，卖空者一致损失约7500万美元。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "$GME的浮動股有4600萬股。150%的浮動股是空頭，其中大部分是非法的。GME每漲一個點，賣空者一致損失約7500萬美元。"
+    }
+  ]
 }
