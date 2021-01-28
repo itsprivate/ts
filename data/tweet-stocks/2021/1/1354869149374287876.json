@@ -91,5 +91,15 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Thu Jan 28 19:09:12 +0000 2021"
+  "original_created_at": "Thu Jan 28 19:09:12 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "*戒指\n\n\"你好，游戏机公司，请问有什么可以帮你？\"\n\n\"是的，你好，我打电话买500股。\""
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "*戒指\n\n\"你好，遊戲機公司，請問有什麼可以幫你？\"\n\n\"是的，你好，我打電話買500股。\""
+    }
+  ]
 }
