@@ -73,5 +73,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-28T08:00:00Z"
+  "original_createdAt": "2021-01-28T08:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "使用在线编辑器节省时间，它有一个简单、直观的拖放界面和1000多个现成的UI组件。https://shuffle.dev/。",
+      "tagline": "尾风CSS、Bootstrap等的在线编辑器!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用在線編輯器節省時間，它有一個簡單、直觀的拖放界面和1000多個現成的UI組件。https://shuffle.dev/。",
+      "tagline": "尾風CSS、Bootstrap等的在線編輯器!"
+    }
+  ]
 }
