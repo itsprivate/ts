@@ -392,5 +392,17 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Thu Jan 28 18:12:17 +0000 2021"
+  "original_created_at": "Thu Jan 28 18:12:17 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @_rospearce: 高分辨率的卫星数据总是让人很高兴。\n\nhttps://t.co/ShrIYe1z6a https://t.co/TACOITOqi6",
+      "retweeted_status_full_text": "高分辨率的卫星数据总是让人感到愉悦。\n\nhttps://t.co/ShrIYe1z6a https://t.co/TACOITOqi6"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @_rospearce: 高分辨率的衛星數據總是讓人很高興。\n\nhttps://t.co/ShrIYe1z6a https://t.co/TACOITOqi6",
+      "retweeted_status_full_text": "高分辨率的衛星數據總是讓人感到愉悅。\n\nhttps://t.co/ShrIYe1z6a https://t.co/TACOITOqi6"
+    }
+  ]
 }
