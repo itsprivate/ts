@@ -203,5 +203,17 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Thu Jan 28 14:52:54 +0000 2021"
+  "original_created_at": "Thu Jan 28 14:52:54 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "这个老得可怜的https://t.co/aoBAJBt18v",
+      "quoted_status_full_text": "让百姓交易。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "這個老得可憐的https://t.co/aoBAJBt18v",
+      "quoted_status_full_text": "讓百姓交易。"
+    }
+  ]
 }
