@@ -128,5 +128,15 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Thu Jan 28 19:14:46 +0000 2021"
+  "original_created_at": "Thu Jan 28 19:14:46 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "在Robinhood限制了$GME和$AMC的交易后，交易员和其他人都在Twitter上进行交易。\"这是不可接受的，\"@AOC在推特上说。\n\nhttps://t.co/rt8iF4X17s"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "在Robinhood限制了$GME和$AMC的交易後，交易員和其他人都在Twitter上進行交易。\"這是不可接受的，\"@AOC在推特上說。\n\nhttps://t.co/rt8iF4X17s"
+    }
+  ]
 }
