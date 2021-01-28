@@ -73,5 +73,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-28T08:00:00Z"
+  "original_createdAt": "2021-01-28T08:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "保持对Slack频道的关注，需要您的注意力和时间！让Grok利用GPT-3的强大功能进行理解。让Grok利用GPT-3的强大功能进行理解。按需、在每日摘要中或在加入频道时对任何 Slack 频道进行总结。",
+      "tagline": "用GPT3对Slack频道进行总结。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "保持對Slack頻道的關注，需要您的注意力和時間！讓Grok利用GPT-3的強大功能進行理解。讓Grok利用GPT-3的強大功能進行理解。按需、在每日摘要中或在加入頻道時對任何 Slack 頻道進行總結。",
+      "tagline": "用GPT3對Slack頻道進行總結。"
+    }
+  ]
 }
