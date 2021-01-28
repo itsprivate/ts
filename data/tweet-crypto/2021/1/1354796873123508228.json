@@ -348,5 +348,17 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Thu Jan 28 14:22:00 +0000 2021"
+  "original_created_at": "Thu Jan 28 14:22:00 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @michael_saylor: 我们将开源我们的#比特币企业游戏手册, 一系列的文件包括治理，法律，财务... ...",
+      "retweeted_status_full_text": "我们将开源我们的#比特币企业游戏手册，一系列的文件涵盖了治理、法律、财务、技术和会计方面的考虑。 2月3/4日，在我们的 \"比特币公司 \"会议上获得简报&amp;早期访问。https://t.co/jHAhAkIq76 https://t.co/VylvaYyyfJ。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @michael_saylor: 我們將開源我們的#比特幣企業遊戲手冊, 一系列的文件包括治理，法律，財務... ...",
+      "retweeted_status_full_text": "我們將開源我們的#比特幣企業遊戲手冊，一系列的文件涵蓋了治理、法律、財務、技術和會計方面的考慮。 2月3/4日，在我們的 \"比特幣公司 \"會議上獲得簡報&amp;早期訪問。https://t.co/jHAhAkIq76 https://t.co/VylvaYyyfJ。"
+    }
+  ]
 }

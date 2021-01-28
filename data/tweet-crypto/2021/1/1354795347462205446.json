@@ -206,5 +206,17 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Thu Jan 28 14:15:56 +0000 2021"
+  "original_created_at": "Thu Jan 28 14:15:56 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @WSBChairman：他们只能控制我们，因为我们使用他们的货币。",
+      "retweeted_status_full_text": "他们能控制我们只是因为我们使用他们的货币。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @WSBChairman：他們只能控制我們，因爲我們使用他們的貨幣。",
+      "retweeted_status_full_text": "他們能控制我們只是因爲我們使用他們的貨幣。"
+    }
+  ]
 }
