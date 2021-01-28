@@ -32,6 +32,8 @@ jobs:
             const syncResource = require(`${process.env.GITHUB_WORKSPACE}/scripts/sync-i18n-resource-module.js`)
             await syncResource()
             return true
+      - name: git add
+        run: git add .
       - name: Create pull request
         uses: peter-evans/create-pull-request@v3
         with:
