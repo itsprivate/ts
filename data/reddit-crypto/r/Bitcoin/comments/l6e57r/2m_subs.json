@@ -103,5 +103,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1611780790,
-  "the_new_excerpt": "We just hit that milestone!\nCongrats y'all"
+  "the_new_excerpt": "We just hit that milestone!\nCongrats y'all",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我们刚刚达到了这个里程碑！\n恭喜你们",
+      "title": "2M Subs"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我們剛剛達到了這個里程碑！\n恭喜你們",
+      "title": "2M Subs"
+    }
+  ]
 }

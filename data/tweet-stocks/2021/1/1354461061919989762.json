@@ -180,5 +180,15 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Wed Jan 27 16:07:36 +0000 2021"
+  "original_created_at": "Wed Jan 27 16:07:36 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "目前，GameStop的市值已经超过260亿美元，超过了道富... https://t.co/QzKmF07dUa。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "目前，GameStop的市值已經超過260億美元，超過了道富... https://t.co/QzKmF07dUa。"
+    }
+  ]
 }
