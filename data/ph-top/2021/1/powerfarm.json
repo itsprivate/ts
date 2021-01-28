@@ -78,5 +78,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-28T11:18:23Z"
+  "original_createdAt": "2021-01-28T11:18:23Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "PowerFarm平台可以让您在云端运行和协调Selenium和移动测试。它可以快速、彻底地监控结果，并确保与存储库或其他平台顺利集成。通过加入我们的早期访问计划了解更多信息。",
+      "tagline": "在云端协调和管理您的测试。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "PowerFarm平臺可以讓您在雲端運行和協調Selenium和移動測試。它可以快速、徹底地監控結果，並確保與存儲庫或其他平臺順利集成。通過加入我們的早期訪問計劃瞭解更多信息。",
+      "tagline": "在雲端協調和管理您的測試。"
+    }
+  ]
 }
