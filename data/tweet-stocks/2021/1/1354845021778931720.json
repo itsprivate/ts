@@ -362,5 +362,17 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Thu Jan 28 17:33:19 +0000 2021"
+  "original_created_at": "Thu Jan 28 17:33:19 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @redditinvestors: 一个英雄对Robinhood提起了集体诉讼！我们向您致敬，先生。https://t.co/m0ISixYtlI",
+      "retweeted_status_full_text": "一位英雄对Robinhood提起了集体诉讼！我们向你致敬，先生。我们向你致敬，先生。https://t.co/m0ISixYtlI"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @redditinvestors: 一個英雄對Robinhood提起了集體訴訟！我們向您致敬，先生。https://t.co/m0ISixYtlI",
+      "retweeted_status_full_text": "一位英雄對Robinhood提起了集體訴訟！我們向你致敬，先生。我們向你致敬，先生。https://t.co/m0ISixYtlI"
+    }
+  ]
 }
