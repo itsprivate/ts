@@ -196,5 +196,17 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Thu Jan 28 05:15:35 +0000 2021"
+  "original_created_at": "Thu Jan 28 05:15:35 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @chamath: 一个主要经纪人说 \n\n1. 最大的4天对冲基金的脱销，他们见过的。 2.\n\n2. 多股上周亏损；三...",
+      "retweeted_status_full_text": "俄亥俄州的一个主要经纪人。\n\n1. 最大的4天从对冲基金中撤资，他们从未见过。\n\n2. Multi strats上周亏损；传统的L/S型基金本周亏损。听闻基金跌幅从高个位数到25%以上的YTD。\n\n市场只下跌了2.5%，所以散户买入，基金卖出。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @chamath: 一個主要經紀人說 \n\n1. 最大的4天對沖基金的脫銷，他們見過的。 2.\n\n2. 多股上週虧損；三...",
+      "retweeted_status_full_text": "俄亥俄州的一個主要經紀人。\n\n1. 最大的4天從對沖基金中撤資，他們從未見過。\n\n2. Multi strats上週虧損；傳統的L/S型基金本週虧損。聽聞基金跌幅從高個位數到25%以上的YTD。\n\n市場只下跌了2.5%，所以散戶買入，基金賣出。"
+    }
+  ]
 }

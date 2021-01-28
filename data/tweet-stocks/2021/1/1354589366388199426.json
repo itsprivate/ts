@@ -195,5 +195,17 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Thu Jan 28 00:37:26 +0000 2021"
+  "original_created_at": "Thu Jan 28 00:37:26 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @zerohedge: *SUNDHEIM的200亿美元D1资本本月损失约20%：BBG。\n\n尸横遍野",
+      "retweeted_status_full_text": "*舜天的200亿美元D1资本本月亏损约20%：BBG。\n\n尸横遍野"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @zerohedge: *SUNDHEIM的200億美元D1資本本月損失約20%：BBG。\n\n屍橫遍野",
+      "retweeted_status_full_text": "*舜天的200億美元D1資本本月虧損約20%：BBG。\n\n屍橫遍野"
+    }
+  ]
 }
