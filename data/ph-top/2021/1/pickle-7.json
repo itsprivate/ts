@@ -93,5 +93,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-28T08:05:00Z"
+  "original_createdAt": "2021-01-28T08:05:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Pickle帮助企业了解他们与客户的每一次电话和视频对话。我们通过自动转录电话并提取关键见解、问题和趋势来实现这一目标。",
+      "tagline": "抄录和分析电话和视频对话。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Pickle幫助企業瞭解他們與客戶的每一次電話和視頻對話。我們通過自動轉錄電話並提取關鍵見解、問題和趨勢來實現這一目標。",
+      "tagline": "抄錄和分析電話和視頻對話。"
+    }
+  ]
 }
