@@ -183,5 +183,17 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Thu Jan 28 21:39:43 +0000 2021"
+  "original_created_at": "Thu Jan 28 21:39:43 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @elonmusk：矮子的辩护者来了。\n不尊重他们\n矮子",
+      "retweeted_status_full_text": "矮子的辩护人来了\n不尊重他们\n矮子"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @elonmusk：矮子的辯護者來了。\n不尊重他們\n矮子",
+      "retweeted_status_full_text": "矮子的辯護人來了\n不尊重他們\n矮子"
+    }
+  ]
 }
