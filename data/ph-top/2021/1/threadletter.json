@@ -73,5 +73,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-28T09:03:54Z"
+  "original_createdAt": "2021-01-28T09:03:54Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Threadletter允许在几秒钟内将Revue通讯转换为Twitter主题。输入Revue的API密钥，选择问题，并通过Chirr App或复制粘贴到Twitter发布线程。",
+      "tagline": "在几秒钟内将Revue通讯转换为Twitter线程"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Threadletter允許在幾秒鐘內將Revue通訊轉換爲Twitter主題。輸入Revue的API密鑰，選擇問題，並通過Chirr App或複製粘貼到Twitter發佈線程。",
+      "tagline": "在幾秒鐘內將Revue通訊轉換爲Twitter線程"
+    }
+  ]
 }
