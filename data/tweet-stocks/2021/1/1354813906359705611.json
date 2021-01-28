@@ -99,5 +99,15 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Thu Jan 28 15:29:41 +0000 2021"
+  "original_created_at": "Thu Jan 28 15:29:41 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "ROBINHOOD不支持购买$AAL了。您只能出售**"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "ROBINHOOD不支持購買$AAL了。您只能出售**"
+    }
+  ]
 }
