@@ -78,5 +78,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-28T08:54:36Z"
+  "original_createdAt": "2021-01-28T08:54:36Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "PowerRouter是一种强大而简单的方法，可以通过您事先设置的智能规则将销售线索路由到Salesforce中的正确销售人员。您可以在不编写任何代码的情况下，以10倍的速度建立销售线索/联系人分配规则。",
+      "tagline": "将您的Salesforce销售线索路由速度提高10倍"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "PowerRouter是一種強大而簡單的方法，可以通過您事先設置的智能規則將銷售線索路由到Salesforce中的正確銷售人員。您可以在不編寫任何代碼的情況下，以10倍的速度建立銷售線索/聯繫人分配規則。",
+      "tagline": "將您的Salesforce銷售線索路由速度提高10倍"
+    }
+  ]
 }
