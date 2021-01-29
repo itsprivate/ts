@@ -73,5 +73,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-29T08:01:00Z"
+  "original_createdAt": "2021-01-29T08:01:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Paraglide是第一个机器学习API，让你可以在几分钟内创建、定制和协作自动化AI工作流程。修改你想要的东西，让我们来处理剩下的事情。",
+      "tagline": "在几分钟内创建自动化的AI工作流程。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Paraglide是第一個機器學習API，讓你可以在幾分鐘內創建、定製和協作自動化AI工作流程。修改你想要的東西，讓我們來處理剩下的事情。",
+      "tagline": "在幾分鐘內創建自動化的AI工作流程。"
+    }
+  ]
 }
