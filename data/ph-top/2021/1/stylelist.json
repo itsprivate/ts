@@ -68,5 +68,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-29T08:00:00Z"
+  "original_createdAt": "2021-01-29T08:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "在Figma中更快、更容易地为您的项目创建文本和颜色样式。",
+      "tagline": "Figma插件，用于快速创建文本和颜色样式。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在Figma中更快、更容易地爲您的項目創建文本和顏色樣式。",
+      "tagline": "Figma插件，用於快速創建文本和顏色樣式。"
+    }
+  ]
 }
