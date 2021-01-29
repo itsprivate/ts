@@ -91,5 +91,15 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Fri Jan 29 02:03:51 +0000 2021"
+  "original_created_at": "Fri Jan 29 02:03:51 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "Stocktwits将在美国东部时间晚上10点暂时下线以增加容量。谢谢您的耐心等待。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "Stocktwits將在美國東部時間晚上10點暫時下線以增加容量。謝謝您的耐心等待。"
+    }
+  ]
 }
