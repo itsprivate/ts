@@ -77,5 +77,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-28T12:57:30Z"
+  "original_createdAt": "2021-01-28T12:57:30Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "它的目标是提供一个可以在任何开发环境中轻松实现的轻量级解决方案。",
+      "tagline": "一个简约的CSS框架。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "它的目標是提供一個可以在任何開發環境中輕鬆實現的輕量級解決方案。",
+      "tagline": "一個簡約的CSS框架。"
+    }
+  ]
 }
