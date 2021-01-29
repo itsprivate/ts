@@ -52,5 +52,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-29T09:09:05Z"
+  "original_createdAt": "2021-01-29T09:09:05Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Pictogram 让你在 Mac 上轻松使用自定义 app 图标。它甚至可以在你的 app 更新后保留你的自定义图标。需要 macOS 11.0 或更新版本。",
+      "tagline": "轻松定制macOS应用图标"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Pictogram 讓你在 Mac 上輕鬆使用自定義 app 圖標。它甚至可以在你的 app 更新後保留你的自定義圖標。需要 macOS 11.0 或更新版本。",
+      "tagline": "輕鬆定製macOS應用圖標"
+    }
+  ]
 }
