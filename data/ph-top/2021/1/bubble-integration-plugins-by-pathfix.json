@@ -72,5 +72,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-29T08:00:00Z"
+  "original_createdAt": "2021-01-29T08:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "通过Pathfix构建的无代码插件，可以立即为你的Bubble.io应用添加OAuth集成。Pathfix插件处理整个OAuth过程，并让你立即访问提供者的行为，没有API或终端的复杂性。",
+      "tagline": "将OAuth集成到你的Bubble.io应用中，即刻就能实现。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "通過Pathfix構建的無代碼插件，可以立即爲你的Bubble.io應用添加OAuth集成。Pathfix插件處理整個OAuth過程，並讓你立即訪問提供者的行爲，沒有API或終端的複雜性。",
+      "tagline": "將OAuth集成到你的Bubble.io應用中，即刻就能實現。"
+    }
+  ]
 }
