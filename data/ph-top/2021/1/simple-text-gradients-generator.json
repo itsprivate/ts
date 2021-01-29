@@ -53,5 +53,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-28T12:57:57Z"
+  "original_createdAt": "2021-01-28T12:57:57Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "简单的文本渐变CSS生成器，只需编辑文本并选择你想使用的颜色。简单易行。",
+      "tagline": "生成文本渐变CSS，并使用它你的项目。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡單的文本漸變CSS生成器，只需編輯文本並選擇你想使用的顏色。簡單易行。",
+      "tagline": "生成文本漸變CSS，並使用它你的項目。"
+    }
+  ]
 }
