@@ -58,5 +58,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-29T08:00:00Z"
+  "original_createdAt": "2021-01-29T08:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "很多应用都包含了系统的 \"共享 \"菜单，但默认的共享服务通常都不是很有用。Shareful提供了一些有用的共享服务，比如复制、打开在、另存为和保存到下载。",
+      "tagline": "超级充电的macOS共享菜单"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "很多應用都包含了系統的 \"共享 \"菜單，但默認的共享服務通常都不是很有用。Shareful提供了一些有用的共享服務，比如複製、打開在、另存爲和保存到下載。",
+      "tagline": "超級充電的macOS共享菜單"
+    }
+  ]
 }
