@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-01-28T22:37:37.000Z",
-  "image": "https://nasa.github.io/openmct/static/res/images/logo-NASA-Silicon-Valley.png"
+  "image": "https://nasa.github.io/openmct/static/res/images/logo-NASA-Silicon-Valley.png",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "美国宇航局的开源任务控制软件"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "美國宇航局的開源任務控制軟件"
+    }
+  ]
 }
