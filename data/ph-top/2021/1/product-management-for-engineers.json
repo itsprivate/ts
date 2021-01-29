@@ -53,5 +53,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-29T09:26:10Z"
+  "original_createdAt": "2021-01-29T09:26:10Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "一个精选的博客文章列表，帮助你开始学习产品管理的基础知识。",
+      "tagline": "学习产品管理的博文精选列表"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個精選的博客文章列表，幫助你開始學習產品管理的基礎知識。",
+      "tagline": "學習產品管理的博文精選列表"
+    }
+  ]
 }
