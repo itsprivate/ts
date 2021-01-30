@@ -108,5 +108,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1611991792,
-  "the_new_excerpt": "Welcome! :) This is so exciting!"
+  "the_new_excerpt": "Welcome! :) This is so exciting!",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "欢迎你的到来! :) 这是如此令人兴奋！",
+      "title": "r/Bitcoin上一天就有100,000名新成员!"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "歡迎你的到來! :) 這是如此令人興奮！",
+      "title": "r/Bitcoin上一天就有100,000名新成員!"
+    }
+  ]
 }
