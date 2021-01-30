@@ -78,5 +78,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-30T08:01:00Z"
+  "original_createdAt": "2021-01-30T08:01:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Stonksfolio是一个由社区支持的免费项目，它可以在一个地方轻松跟踪多种股票、ETF和加密投资。⠀它显示了历史业绩和一些有用的指标，可以帮助你决定如何调整你的投资。",
+      "tagline": "深入了解股票和ETF的投资表现。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Stonksfolio是一個由社區支持的免費項目，它可以在一個地方輕鬆跟蹤多種股票、ETF和加密投資。⠀它顯示了歷史業績和一些有用的指標，可以幫助你決定如何調整你的投資。",
+      "tagline": "深入瞭解股票和ETF的投資表現。"
+    }
+  ]
 }
