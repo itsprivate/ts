@@ -63,5 +63,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-29T14:00:00Z"
+  "original_createdAt": "2021-01-29T14:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "通过一套便携式学习卡，对Scrum框架进行了简单易懂的概述，涵盖了你需要知道的关于Scrum的一切。",
+      "tagline": "简单易懂的Scrum框架概述。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "通過一套便攜式學習卡，對Scrum框架進行了簡單易懂的概述，涵蓋了你需要知道的關於Scrum的一切。",
+      "tagline": "簡單易懂的Scrum框架概述。"
+    }
+  ]
 }
