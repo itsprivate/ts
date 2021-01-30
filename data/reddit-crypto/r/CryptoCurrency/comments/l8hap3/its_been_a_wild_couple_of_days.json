@@ -162,5 +162,15 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1611995015,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "这是一个疯狂的几天。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是一個瘋狂的幾天。"
+    }
+  ]
 }
