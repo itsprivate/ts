@@ -345,5 +345,17 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Sat Jan 30 11:31:20 +0000 2021"
+  "original_created_at": "Sat Jan 30 11:31:20 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @Bloqport: 比特币亿万富翁@TimDraper说 \"其实我只是在买更多的[比特币]... ... 我没有兴趣出售我的#比特币#...",
+      "retweeted_status_full_text": "比特币亿万富翁@TimDraper说：\"其实我只是在购买更多的[比特币]......。我没有兴趣永远把我的#比特币卖掉换成美元。我为什么要拿未来的货币去卖掉它换取过去的货币呢？\" https://t.co/HvLlYxZJPi"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @Bloqport: 比特幣億萬富翁@TimDraper說 \"其實我只是在買更多的[比特幣]... ... 我沒有興趣出售我的#比特幣#...",
+      "retweeted_status_full_text": "比特幣億萬富翁@TimDraper說：\"其實我只是在購買更多的[比特幣]......。我沒有興趣永遠把我的#比特幣賣掉換成美元。我爲什麼要拿未來的貨幣去賣掉它換取過去的貨幣呢？\" https://t.co/HvLlYxZJPi"
+    }
+  ]
 }
