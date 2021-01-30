@@ -217,5 +217,17 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Sat Jan 30 18:44:02 +0000 2021"
+  "original_created_at": "Sat Jan 30 18:44:02 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @zerohedge: 不仅仅是Robinhood，Reddit的叛乱已经堵塞了整个金融系统的管道https://t.co/2xmaGsv9eI。",
+      "retweeted_status_full_text": "不只是Robinhood，Reddit的反叛已经堵塞了整个金融系统的管道https://t.co/2xmaGsv9eI。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @zerohedge: 不僅僅是Robinhood，Reddit的叛亂已經堵塞了整個金融系統的管道https://t.co/2xmaGsv9eI。",
+      "retweeted_status_full_text": "不只是Robinhood，Reddit的反叛已經堵塞了整個金融系統的管道https://t.co/2xmaGsv9eI。"
+    }
+  ]
 }
