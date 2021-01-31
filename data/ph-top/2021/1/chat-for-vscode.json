@@ -77,5 +77,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-31T08:00:00Z"
+  "original_createdAt": "2021-01-31T08:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "这个Visual Studio代码扩展允许直接从IDEA中轻松地与Slack和Discord聊天，而不需要改变窗口或应用程序。",
+      "tagline": "在VS Code中与你的Slack和Discord团队聊天。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這個Visual Studio代碼擴展允許直接從IDEA中輕鬆地與Slack和Discord聊天，而不需要改變窗口或應用程序。",
+      "tagline": "在VS Code中與你的Slack和Discord團隊聊天。"
+    }
+  ]
 }
