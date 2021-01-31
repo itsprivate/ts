@@ -91,5 +91,15 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Sun Jan 31 02:11:59 +0000 2021"
+  "original_created_at": "Sun Jan 31 02:11:59 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "民意调查：拜登总统支持率。\n\n支持率。59%\n不赞成。32%\n\n(Politico/Morning Consult)"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "民意調查：拜登總統支持率。\n\n支持率。59%\n不贊成。32%\n\n(Politico/Morning Consult)"
+    }
+  ]
 }
