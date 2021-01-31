@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-01-30T21:35:11.000Z",
-  "image": "https://www.simplecto.com/content/images/2021/01/docker-django2021.jpg"
+  "image": "https://www.simplecto.com/content/images/2021/01/docker-django2021.jpg",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "Docker、Django、Traefik和IntercoolerJS：我构建SaaS的首选栈。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Docker、Django、Traefik和IntercoolerJS：我構建SaaS的首選棧。"
+    }
+  ]
 }
