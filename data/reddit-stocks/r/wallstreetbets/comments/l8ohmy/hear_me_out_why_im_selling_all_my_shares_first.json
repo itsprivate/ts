@@ -112,5 +112,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1612022158,
-  "the_new_excerpt": "I’m not.\n\nWe ride at dawn and hold!"
+  "the_new_excerpt": "I’m not.\n\nWe ride at dawn and hold!",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我没有\n\n我们在黎明时分骑马，并保持！",
+      "title": "听我说完。为什么我周一早上第一件事就是卖掉所有的股票？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我沒有\n\n我們在黎明時分騎馬，並保持！",
+      "title": "聽我說完。爲什麼我週一早上第一件事就是賣掉所有的股票？"
+    }
+  ]
 }
