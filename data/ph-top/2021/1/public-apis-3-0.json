@@ -78,5 +78,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-31T08:11:34Z"
+  "original_createdAt": "2021-01-31T08:11:34Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "为开发者提供了1000多个免费公开和开放的REST API的集体列表，如电影API、动漫API、天气API、音乐API、游戏和漫画API、货币API、体育API、科学API、开放数据API等。",
+      "tagline": "一个公共APIS、工具和知识库的集体列表。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "爲開發者提供了1000多個免費公開和開放的REST API的集體列表，如電影API、動漫API、天氣API、音樂API、遊戲和漫畫API、貨幣API、體育API、科學API、開放數據API等。",
+      "tagline": "一個公共APIS、工具和知識庫的集體列表。"
+    }
+  ]
 }
