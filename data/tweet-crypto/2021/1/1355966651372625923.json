@@ -362,5 +362,17 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Sun Jan 31 19:50:16 +0000 2021"
+  "original_created_at": "Sun Jan 31 19:50:16 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @wmiddelkoop: 有人试图阻止白银突破30美元https://t.co/2VmuTbl9JJ。",
+      "retweeted_status_full_text": "有人想防止白银突破30美元https://t.co/2VmuTbl9JJ。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @wmiddelkoop: 有人試圖阻止白銀突破30美元https://t.co/2VmuTbl9JJ。",
+      "retweeted_status_full_text": "有人想防止白銀突破30美元https://t.co/2VmuTbl9JJ。"
+    }
+  ]
 }
