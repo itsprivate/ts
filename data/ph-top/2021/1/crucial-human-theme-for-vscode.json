@@ -67,5 +67,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-30T08:05:00Z"
+  "original_createdAt": "2021-01-30T08:05:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Crucial Human Theme是一款VSCode IDE的深色主题，身着皇家紫色的服装，旨在让你专注于此。点击 \"Get It \"从Visual Studio Marketplace安装它，或者只需在VSCode -> Extensions中搜索 \"Crucial Human\"。",
+      "tagline": "VSCode的皇家黑暗主题"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Crucial Human Theme是一款VSCode IDE的深色主題，身着皇家紫色的服裝，旨在讓你專注於此。點擊 \"Get It \"從Visual Studio Marketplace安裝它，或者只需在VSCode -> Extensions中搜索 \"Crucial Human\"。",
+      "tagline": "VSCode的皇家黑暗主題"
+    }
+  ]
 }
