@@ -67,5 +67,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-31T08:00:00Z"
+  "original_createdAt": "2021-01-31T08:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "微小的股票观察者的菜单栏。添加您喜欢的股票，随时查看当前价格。由雅虎财经API提供支持。在 Mac App Store 上购买，售价 0.99 美元，或通过 Xcode 免费安装。如有任何进一步的信息或功能，请随时联系我。",
+      "tagline": "小股票观察者"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "微小的股票觀察者的菜單欄。添加您喜歡的股票，隨時查看當前價格。由雅虎財經API提供支持。在 Mac App Store 上購買，售價 0.99 美元，或通過 Xcode 免費安裝。如有任何進一步的信息或功能，請隨時聯繫我。",
+      "tagline": "小股票觀察者"
+    }
+  ]
 }
