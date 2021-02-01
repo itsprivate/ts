@@ -76,5 +76,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-01T12:09:45Z"
+  "original_createdAt": "2021-02-01T12:09:45Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Bullet是一款移动和网络应用，它可以帮助你管理你的任务和事件，并在同一个地方写日记。它的灵感来自于流行的Bullet Journaling方法。",
+      "tagline": "在手机上管理你的任务、事件和日记。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Bullet是一款移動和網絡應用，它可以幫助你管理你的任務和事件，並在同一個地方寫日記。它的靈感來自於流行的Bullet Journaling方法。",
+      "tagline": "在手機上管理你的任務、事件和日記。"
+    }
+  ]
 }
