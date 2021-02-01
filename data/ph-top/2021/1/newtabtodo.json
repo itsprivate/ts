@@ -95,5 +95,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-01-31T10:52:35Z"
+  "original_createdAt": "2021-01-31T10:52:35Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "新标签Todo是一个简单的浏览器扩展，让您在打开浏览器的新标签时添加和管理您的日常任务! 试试吧，你会爱上它的。",
+      "tagline": "浏览器新标签中的任务管理"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "新標籤Todo是一個簡單的瀏覽器擴展，讓您在打開瀏覽器的新標籤時添加和管理您的日常任務! 試試吧，你會愛上它的。",
+      "tagline": "瀏覽器新標籤中的任務管理"
+    }
+  ]
 }
