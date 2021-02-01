@@ -68,5 +68,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-01T08:01:00Z"
+  "original_createdAt": "2021-02-01T08:01:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "SVG Waves可以让你用简洁的线条即时生成波浪。快速创建外观一致的波浪图案，非常适合在网站或文档中使用。",
+      "tagline": "即时生成SVG波浪 - 由一个12岁的孩子制作 🌊。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "SVG Waves可以讓你用簡潔的線條即時生成波浪。快速創建外觀一致的波浪圖案，非常適合在網站或文檔中使用。",
+      "tagline": "即時生成SVG波浪 - 由一個12歲的孩子製作 🌊。"
+    }
+  ]
 }
