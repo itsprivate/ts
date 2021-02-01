@@ -63,5 +63,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-01T09:57:07Z"
+  "original_createdAt": "2021-02-01T09:57:07Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "React UI Boutique是一套使用Chakra UI和Framer Motion构建的漂亮UI组件。你可以用它们来启动你的项目或获得灵感。创建好看的页面，而不需要聘请设计师，也不需要失去无数个自己动手的时间。",
+      "tagline": "使用Chakra UI和Framer Motion构建的漂亮UI块。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "React UI Boutique是一套使用Chakra UI和Framer Motion構建的漂亮UI組件。你可以用它們來啓動你的項目或獲得靈感。創建好看的頁面，而不需要聘請設計師，也不需要失去無數個自己動手的時間。",
+      "tagline": "使用Chakra UI和Framer Motion構建的漂亮UI塊。"
+    }
+  ]
 }
