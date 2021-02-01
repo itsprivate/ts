@@ -73,5 +73,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-01T08:05:00Z"
+  "original_createdAt": "2021-02-01T08:05:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Logica帮助财务团队进行预测。通过可视化地建立财务模型并连接QuickBooks和ProfitWell等工具来比较计划与实际情况，从而节省时间。",
+      "tagline": "在拖放画布中建立一个财务模型。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Logica幫助財務團隊進行預測。通過可視化地建立財務模型並連接QuickBooks和ProfitWell等工具來比較計劃與實際情況，從而節省時間。",
+      "tagline": "在拖放畫布中建立一個財務模型。"
+    }
+  ]
 }
