@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-02-01T17:20:19.000Z",
-  "image": "https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"
+  "image": "https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "FastAPI框架，高精尖，易学易用，快速编码，可用于生产"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "FastAPI框架，高精尖，易學易用，快速編碼，可用於生產"
+    }
+  ]
 }
