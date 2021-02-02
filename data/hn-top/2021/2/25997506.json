@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-02-02T04:39:35.000Z",
-  "image": ""
+  "image": "",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "Go 1.16将在OpenBSD上通过Libc进行系统调用。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Go 1.16將在OpenBSD上通過Libc進行系統調用。"
+    }
+  ]
 }
