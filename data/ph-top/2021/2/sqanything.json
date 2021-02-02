@@ -68,5 +68,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-02T13:37:45Z"
+  "original_createdAt": "2021-02-02T13:37:45Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "sqanything可以让你用SQL查询所有打开的Chrome标签页中的HTML表格。你可以将查询结果发送到Google Sheets，或者只是将网页上的所有表格发送到Google Sheets。",
+      "tagline": "使用SQL查询网络上的任何数据表。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "sqanything可以讓你用SQL查詢所有打開的Chrome標籤頁中的HTML表格。你可以將查詢結果發送到Google Sheets，或者只是將網頁上的所有表格發送到Google Sheets。",
+      "tagline": "使用SQL查詢網絡上的任何數據表。"
+    }
+  ]
 }
