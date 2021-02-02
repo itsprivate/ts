@@ -103,5 +103,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1612212031,
-  "the_new_excerpt": "Any suggestions for books similar to the LOTR?"
+  "the_new_excerpt": "Any suggestions for books similar to the LOTR?",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "有什么推荐的类似于《LOTR》的书吗？",
+      "title": "我在飞快地看《魔戒》系列"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "有什麼推薦的類似於《LOTR》的書嗎？",
+      "title": "我在飛快地看《魔戒》系列"
+    }
+  ]
 }
