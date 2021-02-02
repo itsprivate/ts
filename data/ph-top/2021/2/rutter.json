@@ -73,5 +73,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-02T08:05:00Z"
+  "original_createdAt": "2021-02-02T08:05:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "https://www.rutterapi.com 帮助你建立1个集成，与Shopify、WooCommerce以及更多的电商平台合作。用一组端点推拉产品、订单和客户数据。https://docs.rutterapi.com。",
+      "tagline": "每个电商平台都有一个API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "https://www.rutterapi.com 幫助你建立1個集成，與Shopify、WooCommerce以及更多的電商平臺合作。用一組端點推拉產品、訂單和客戶數據。https://docs.rutterapi.com。",
+      "tagline": "每個電商平臺都有一個API"
+    }
+  ]
 }
