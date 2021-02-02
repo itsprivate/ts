@@ -83,5 +83,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-02T08:01:00Z"
+  "original_createdAt": "2021-02-02T08:01:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Snazzy AI是市场上速度最快、质量最高、由GPT-3驱动的应用。通过结合OpenAI的一流技术和我们自己的ML层，你可以快速创建任何类型的内容，你可以想象。更妙的是，我们有一个永远免费的计划。",
+      "tagline": "AI驱动的内容创作。人人免费。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Snazzy AI是市場上速度最快、質量最高、由GPT-3驅動的應用。通過結合OpenAI的一流技術和我們自己的ML層，你可以快速創建任何類型的內容，你可以想象。更妙的是，我們有一個永遠免費的計劃。",
+      "tagline": "AI驅動的內容創作。人人免費。"
+    }
+  ]
 }
