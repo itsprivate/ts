@@ -103,5 +103,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1612336593,
-  "the_new_excerpt": "And Wall Street is the rat."
+  "the_new_excerpt": "And Wall Street is the rat.",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "而华尔街是老鼠。",
+      "title": "巴菲特说比特币是老鼠药是对的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "而華爾街是老鼠。",
+      "title": "巴菲特說比特幣是老鼠藥是對的。"
+    }
+  ]
 }
