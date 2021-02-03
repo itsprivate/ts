@@ -58,5 +58,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-03T09:47:13Z"
+  "original_createdAt": "2021-02-03T09:47:13Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "在Framer中引入智能组件，这是一个交互式组件设计的新标准。从具有多种状态的完整导航和按钮到嵌套的悬停效果，只需点击几下就能建立任何视觉效果--无需代码。https://bit.ly/3jhgLVF。",
+      "tagline": "设计具有多种变体的交互式组件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在Framer中引入智能組件，這是一個交互式組件設計的新標準。從具有多種狀態的完整導航和按鈕到嵌套的懸停效果，只需點擊幾下就能建立任何視覺效果--無需代碼。https://bit.ly/3jhgLVF。",
+      "tagline": "設計具有多種變體的交互式組件"
+    }
+  ]
 }
