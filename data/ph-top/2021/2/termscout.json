@@ -103,5 +103,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-03T09:43:46Z"
+  "original_createdAt": "2021-02-03T09:43:46Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "签坏合同是最糟糕的。TermScout利用NLP+人类律师分析常见SaaS协议中的600多个数据点，并根据客户好感度进行评分。减少谈判、减少法律、减少困惑。别再签烂合同了!",
+      "tagline": "对顶级SaaS合同的免费审查和评级"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "籤壞合同是最糟糕的。TermScout利用NLP+人類律師分析常見SaaS協議中的600多個數據點，並根據客戶好感度進行評分。減少談判、減少法律、減少困惑。別再籤爛合同了!",
+      "tagline": "對頂級SaaS合同的免費審查和評級"
+    }
+  ]
 }
