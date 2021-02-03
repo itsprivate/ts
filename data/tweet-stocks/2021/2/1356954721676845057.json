@@ -253,5 +253,17 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Wed Feb 03 13:16:31 +0000 2021"
+  "original_created_at": "Wed Feb 03 13:16:31 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @charliebilello：美国4大公司的年收入总和首次突破1万亿美元......\n苹果$AAPL：...",
+      "retweeted_status_full_text": "美国4大公司的年收入总和首次突破1万亿美元......\n苹果公司$AAPL：2940亿美元\n微软$MSFT：1530亿美元\n亚马逊$AMZN：3860亿美元\n谷歌$GOOGL：1830亿美元\n\n这比除16个国家以外的所有国家的GDP都要大。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @charliebilello：美國4大公司的年收入總和首次突破1萬億美元......\n蘋果$AAPL：...",
+      "retweeted_status_full_text": "美國4大公司的年收入總和首次突破1萬億美元......\n蘋果公司$AAPL：2940億美元\n微軟$MSFT：1530億美元\n亞馬遜$AMZN：3860億美元\n谷歌$GOOGL：1830億美元\n\n這比除16個國家以外的所有國家的GDP都要大。"
+    }
+  ]
 }
