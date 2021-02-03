@@ -93,5 +93,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-03T08:04:51Z"
+  "original_createdAt": "2021-02-03T08:04:51Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Bunnyshell是一个自助式的DevOps自动化平台，可以帮助团队缩短停机时间，并高速交付可靠的应用程序和服务。",
+      "tagline": "针对任何应用的自助式DevOps自动化"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Bunnyshell是一個自助式的DevOps自動化平臺，可以幫助團隊縮短停機時間，並高速交付可靠的應用程序和服務。",
+      "tagline": "針對任何應用的自助式DevOps自動化"
+    }
+  ]
 }
