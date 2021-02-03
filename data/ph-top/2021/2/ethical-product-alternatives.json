@@ -76,5 +76,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-03T08:03:40Z"
+  "original_createdAt": "2021-02-03T08:03:40Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Ethical Product Alternatives是一个简单的开源浏览器扩展，旨在帮助您在每次打开新标签页时发现新的、更注重隐私的道德工具。",
+      "tagline": "每当您打开一个新的标签时，都会看到符合道德标准的替代产品。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Ethical Product Alternatives是一個簡單的開源瀏覽器擴展，旨在幫助您在每次打開新標籤頁時發現新的、更注重隱私的道德工具。",
+      "tagline": "每當您打開一個新的標籤時，都會看到符合道德標準的替代產品。"
+    }
+  ]
 }
