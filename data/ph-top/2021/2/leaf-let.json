@@ -58,5 +58,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-03T09:44:21Z"
+  "original_createdAt": "2021-02-03T09:44:21Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Leaf-Let是一个自由格式的板子，用于可视化记事。具有真正的隐私性。",
+      "tagline": "自由格式的板块，用于可视化记事。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Leaf-Let是一個自由格式的板子，用於可視化記事。具有真正的隱私性。",
+      "tagline": "自由格式的板塊，用於可視化記事。"
+    }
+  ]
 }
