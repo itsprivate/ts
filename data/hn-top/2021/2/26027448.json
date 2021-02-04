@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-02-04T17:19:01.000Z",
-  "image": "https://hiringengineersbook.com/book.jpg"
+  "image": "https://hiringengineersbook.com/book.jpg",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "Peter Naur的编程观"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Peter Naur的編程觀"
+    }
+  ]
 }
