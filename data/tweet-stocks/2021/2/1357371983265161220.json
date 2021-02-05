@@ -170,5 +170,15 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Thu Feb 04 16:54:34 +0000 2021"
+  "original_created_at": "Thu Feb 04 16:54:34 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "这事发生在六天之内https://t.co/XIjdzTYBNQ"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "這事發生在六天之內https://t.co/XIjdzTYBNQ"
+    }
+  ]
 }
