@@ -83,5 +83,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-05T08:21:50Z"
+  "original_createdAt": "2021-02-05T08:21:50Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Flatlogic的React Bundle是一个各种模板的集合。你可以看到三个经典设计的管理模板，一个是素材模板，一个是移动启动模板，一个是用户管理模板，一个是会计模板。",
+      "tagline": "所有高级React主题和模板"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Flatlogic的React Bundle是一個各種模板的集合。你可以看到三個經典設計的管理模板，一個是素材模板，一個是移動啓動模板，一個是用戶管理模板，一個是會計模板。",
+      "tagline": "所有高級React主題和模板"
+    }
+  ]
 }
