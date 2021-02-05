@@ -544,5 +544,17 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Fri Feb 05 20:41:33 +0000 2021"
+  "original_created_at": "Fri Feb 05 20:41:33 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @michael_saylor: 我们@MicroStrategy已经决定加入COPA @opencryptoorg",
+      "retweeted_status_full_text": "我们@MicroStrategy决定加入COPA @opencryptoorg https://t.co/Y0rRp3WLZ9。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @michael_saylor: 我們@MicroStrategy已經決定加入COPA @opencryptoorg",
+      "retweeted_status_full_text": "我們@MicroStrategy決定加入COPA @opencryptoorg https://t.co/Y0rRp3WLZ9。"
+    }
+  ]
 }
