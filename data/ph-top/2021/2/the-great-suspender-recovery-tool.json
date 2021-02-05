@@ -68,5 +68,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-05T08:49:43Z"
+  "original_createdAt": "2021-02-05T08:49:43Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "该扩展程序通过搜索您的浏览器历史记录并显示任何发现的暂停标签，试图恢复您暂停的Great Suspender标签。然后您可以 - 调整分组、排序和细节 - 保存为文件夹和书签 - 将URL复制到剪贴板上",
+      "tagline": "恢复您丢失的Great Suspender tabs"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "該擴展程序通過搜索您的瀏覽器歷史記錄並顯示任何發現的暫停標籤，試圖恢復您暫停的Great Suspender標籤。然後您可以 - 調整分組、排序和細節 - 保存爲文件夾和書籤 - 將URL複製到剪貼板上",
+      "tagline": "恢復您丟失的Great Suspender tabs"
+    }
+  ]
 }
