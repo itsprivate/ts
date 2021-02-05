@@ -365,5 +365,17 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Fri Feb 05 08:29:37 +0000 2021"
+  "original_created_at": "Fri Feb 05 08:29:37 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @jack: Running #bitcoin https://t.co/W51ga3yrKb",
+      "retweeted_status_full_text": "运行#比特币https://t.co/W51ga3yrKb"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @jack: Running #bitcoin https://t.co/W51ga3yrKb",
+      "retweeted_status_full_text": "運行#比特幣https://t.co/W51ga3yrKb"
+    }
+  ]
 }
