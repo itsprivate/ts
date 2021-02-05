@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-02-05T15:38:22.000Z",
-  "image": "https://veloren.net/Logo_Square.png"
+  "image": "https://veloren.net/Logo_Square.png",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "Veloren - 用Rust编写的开源MMORPG。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Veloren - 用Rust編寫的開源MMORPG。"
+    }
+  ]
 }
