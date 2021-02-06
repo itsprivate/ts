@@ -53,5 +53,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-05T08:02:00Z"
+  "original_createdAt": "2021-02-05T08:02:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "copypad.io - 支持GPT3的人工智能工具，为你撰写电商产品文案。",
+      "tagline": "GPT3生成的电子商务产品描述"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "copypad.io - 支持GPT3的人工智能工具，爲你撰寫電商產品文案。",
+      "tagline": "GPT3生成的電子商務產品描述"
+    }
+  ]
 }
