@@ -88,5 +88,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-05T20:44:39Z"
+  "original_createdAt": "2021-02-05T20:44:39Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "这是一个多人速打游戏的集合，可以在Slack工作空间和Discord服务器上打发无聊的时间。",
+      "tagline": "Slack和Discord的多人速打游戏。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是一個多人速打遊戲的集合，可以在Slack工作空間和Discord服務器上打發無聊的時間。",
+      "tagline": "Slack和Discord的多人速打遊戲。"
+    }
+  ]
 }
