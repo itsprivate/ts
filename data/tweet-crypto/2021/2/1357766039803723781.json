@@ -477,5 +477,17 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Fri Feb 05 19:00:24 +0000 2021"
+  "original_created_at": "Fri Feb 05 19:00:24 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @sqcrypto: 我们不关心谁创造了比特币，只关心谁没有。 https://t.co/MwbD3CjzQH。",
+      "retweeted_status_full_text": "我们不在乎谁创造了比特币，只在乎谁没有创造。https://t.co/MwbD3CjzQH。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @sqcrypto: 我們不關心誰創造了比特幣，只關心誰沒有。 https://t.co/MwbD3CjzQH。",
+      "retweeted_status_full_text": "我們不在乎誰創造了比特幣，只在乎誰沒有創造。https://t.co/MwbD3CjzQH。"
+    }
+  ]
 }
