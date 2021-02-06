@@ -91,5 +91,15 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Sat Feb 06 11:53:32 +0000 2021"
+  "original_created_at": "Sat Feb 06 11:53:32 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "特斯拉的股价。\n\n两年前：61美元\n\n一年前：149美元\n\n六个月前：297美元\n\n现在: $852"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "特斯拉的股價。\n\n兩年前：61美元\n\n一年前：149美元\n\n六個月前：297美元\n\n現在: $852"
+    }
+  ]
 }
