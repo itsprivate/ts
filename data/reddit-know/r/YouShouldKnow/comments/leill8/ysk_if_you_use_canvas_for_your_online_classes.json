@@ -102,5 +102,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1612686311,
-  "the_new_excerpt": "Why YSK: Canvas may be showing your exact address to your classmates, which is a\nprivacy/security issue."
+  "the_new_excerpt": "Why YSK: Canvas may be showing your exact address to your classmates, which is a\nprivacy/security issue.",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么YSK：Canvas可能会把你的准确地址显示给你的同学，这是一个\n隐私/安全问题。",
+      "title": "YSK 如果你使用 Canvas 进行在线课程，你的确切家庭地址可以被所有同学默认查看。但你可以改变这一点，只显示你所在的城市（或者根本不显示）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼YSK：Canvas可能會把你的準確地址顯示給你的同學，這是一個\n隱私/安全問題。",
+      "title": "YSK 如果你使用 Canvas 進行在線課程，你的確切家庭地址可以被所有同學默認查看。但你可以改變這一點，只顯示你所在的城市（或者根本不顯示）。"
+    }
+  ]
 }
