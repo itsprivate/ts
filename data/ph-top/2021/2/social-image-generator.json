@@ -98,5 +98,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-07T08:00:00Z"
+  "original_createdAt": "2021-02-07T08:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "社交图片生成器是一个WordPress插件，它可以自动为你的内容创建社交分享图片，增加你的社交参与度，并节省你繁琐的工作时间。",
+      "tagline": "为您的WordPress网站自动生成社交图片"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "社交圖片生成器是一個WordPress插件，它可以自動爲你的內容創建社交分享圖片，增加你的社交參與度，並節省你繁瑣的工作時間。",
+      "tagline": "爲您的WordPress網站自動生成社交圖片"
+    }
+  ]
 }
