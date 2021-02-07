@@ -101,5 +101,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1612613487,
-  "the_new_excerpt": "It says “1-1/2lbs ground beef or turkey breast.” It’s written exactly like that.\nHow much do I use?"
+  "the_new_excerpt": "It says “1-1/2lbs ground beef or turkey breast.” It’s written exactly like that.\nHow much do I use?",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "上面写着 \"1 -1/2磅牛肉或火鸡胸肉\" 上面写的一模一样\n我该用多少？",
+      "title": "这个配方是告诉我用1磅的牛肉粉还是1.5磅？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "上面寫着 \"1 -1/2磅牛肉或火雞胸肉\" 上面寫的一模一樣\n我該用多少？",
+      "title": "這個配方是告訴我用1磅的牛肉粉還是1.5磅？"
+    }
+  ]
 }
