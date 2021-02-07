@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-02-07T00:08:18.000Z",
-  "image": "https://pages.cs.wisc.edu/~remzi/OSTEP/book-cover-two.jpg"
+  "image": "https://pages.cs.wisc.edu/~remzi/OSTEP/book-cover-two.jpg",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "操作系统。三个简单的部分"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "操作系統。三個簡單的部分"
+    }
+  ]
 }
