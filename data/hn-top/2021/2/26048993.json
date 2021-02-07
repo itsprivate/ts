@@ -38,5 +38,15 @@
     }
   },
   "original_created_at": "2021-02-06T19:11:28.000Z",
-  "image": "https://epub.to/static/epub.png"
+  "image": "https://epub.to/static/epub.png",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "显示HN：Epub.to - 电子书到pdf，mobi，Kindle，和一个API。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "顯示HN：Epub.to - 電子書到pdf，mobi，Kindle，和一個API。"
+    }
+  ]
 }
