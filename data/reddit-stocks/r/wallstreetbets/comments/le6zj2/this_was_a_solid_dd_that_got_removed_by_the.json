@@ -230,5 +230,15 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1612645994,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "这是个实实在在的DD，却被版主删除了。我相信这是值得一说的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是個實實在在的DD，卻被版主刪除了。我相信這是值得一說的。"
+    }
+  ]
 }
