@@ -63,5 +63,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-08T09:31:40Z"
+  "original_createdAt": "2021-02-08T09:31:40Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Sotion可以让你在你的Notion页面上添加密码访问。把你的Notion页面放在你自己的域名上，并在它前面加上密码访问页面。",
+      "tagline": "Notion页面的密码访问"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Sotion可以讓你在你的Notion頁面上添加密碼訪問。把你的Notion頁面放在你自己的域名上，並在它前面加上密碼訪問頁面。",
+      "tagline": "Notion頁面的密碼訪問"
+    }
+  ]
 }
