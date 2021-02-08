@@ -116,5 +116,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1612783135,
-  "the_new_excerpt": "Quarantine zone, enjoy!"
+  "the_new_excerpt": "Quarantine zone, enjoy!",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "隔离区，享受吧!",
+      "title": "2月8日星期一的GME大讨论"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "隔離區，享受吧!",
+      "title": "2月8日星期一的GME大討論"
+    }
+  ]
 }
