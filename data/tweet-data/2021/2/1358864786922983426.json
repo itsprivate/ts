@@ -91,5 +91,15 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Mon Feb 08 19:46:26 +0000 2021"
+  "original_created_at": "Mon Feb 08 19:46:26 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "加密货币，过去24小时。\n\n比特币：+12%\nEthereum。+7%\nXRP：+6%\n恒星。+2.7%\n链家：+4.1%。+4.1%\nDogecoin: +12%"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "加密貨幣，過去24小時。\n\n比特幣：+12%\nEthereum。+7%\nXRP：+6%\n恆星。+2.7%\n鏈家：+4.1%。+4.1%\nDogecoin: +12%"
+    }
+  ]
 }
