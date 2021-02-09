@@ -58,5 +58,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-09T08:00:00Z"
+  "original_createdAt": "2021-02-09T08:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "不要再浪费时间为你的Laravel应用程序建立管理面板了. 让Invoker来为你做这些艰苦的工作. 无需编码. 无需设置. 没有压力.",
+      "tagline": "无牛的Laravel工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "不要再浪費時間爲你的Laravel應用程序建立管理面板了. 讓Invoker來爲你做這些艱苦的工作. 無需編碼. 無需設置. 沒有壓力.",
+      "tagline": "無牛的Laravel工具"
+    }
+  ]
 }
