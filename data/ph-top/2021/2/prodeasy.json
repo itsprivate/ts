@@ -81,5 +81,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-09T08:50:08Z"
+  "original_createdAt": "2021-02-09T08:50:08Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "ProdEasy是一个产品管理平台，聪明的团队使用它来将客户置于所有产品管理活动的中心。",
+      "tagline": "为各种规模的团队提供产品管理平台"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "ProdEasy是一個產品管理平臺，聰明的團隊使用它來將客戶置於所有產品管理活動的中心。",
+      "tagline": "爲各種規模的團隊提供產品管理平臺"
+    }
+  ]
 }
