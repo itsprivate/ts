@@ -73,5 +73,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-08T08:59:59Z"
+  "original_createdAt": "2021-02-08T08:59:59Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "⚡ Hashnode博客卡是一组GET请求，它将通过少量参数从你的Hashnode ids中获取博客，并将创建SVG卡，为你的博客链接带来😎惊艳。🎉 Github 链接 https://github.com/Souravdey777/HashnodeBlogCards",
+      "tagline": "将您的Hashnode博客链接替换为博客卡。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "⚡ Hashnode博客卡是一組GET請求，它將通過少量參數從你的Hashnode ids中獲取博客，並將創建SVG卡，爲你的博客鏈接帶來😎驚豔。🎉 Github 鏈接 https://github.com/Souravdey777/HashnodeBlogCards",
+      "tagline": "將您的Hashnode博客鏈接替換爲博客卡。"
+    }
+  ]
 }
