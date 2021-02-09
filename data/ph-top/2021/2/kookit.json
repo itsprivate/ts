@@ -98,5 +98,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-09T08:00:00Z"
+  "original_createdAt": "2021-02-09T08:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "KooKit是一款突破性的MagSafe配件，在保持无线充电的同时，还能为手机降温。它能在电池寿命和手机性能之间进行调整，使手机长时间运行在最佳状态。",
+      "tagline": "保持手机凉爽，同时进行无线充电"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "KooKit是一款突破性的MagSafe配件，在保持無線充電的同時，還能爲手機降溫。它能在電池壽命和手機性能之間進行調整，使手機長時間運行在最佳狀態。",
+      "tagline": "保持手機涼爽，同時進行無線充電"
+    }
+  ]
 }
