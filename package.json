@@ -16,9 +16,9 @@
   "license": "0BSD",
   "scripts": {
     "build": "actionsflow build",
-    "start": "ACTIONS_LOCAL=true actionsflow start -i books.yml --verbose -- -b",
+    "start": "ACTIONS_LOCAL=true actionsflow start --verbose -- -b",
     "watch": "actionsflow start -w --verbose --interval 1 -- -b",
-    "act": "act --workflows ./dist/workflows --secret-file ./dist/.secrets --eventpath ./dist/event.json --env-file ./dist/.env -P ubuntu-latest=actionsflow/act-environment:v1 -P ubuntu-18.04=actionsflow/act-environment:v1",
+    "act": "act --workflows ./dist/workflows --secret-file ./dist/.secrets --eventpath ./dist/event.json --env-file ./dist/.env -P ubuntu-latest=actionsflow/act-environment:v1 -P ubuntu-18.04=actionsflow/act-environment:v1 -b",
     "clean": "actionsflow clean",
     "test": "echo \"Error: no test specified\" && exit 1",
     "build:action": "ncc build .github/actions/translate/src/index.js -e ../locales/zh.json -e puppeteer -o .github/actions/translate/dist",
