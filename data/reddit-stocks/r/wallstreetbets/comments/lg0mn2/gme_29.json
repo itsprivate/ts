@@ -116,5 +116,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1612869023,
-  "the_new_excerpt": "Is this still a thing?"
+  "the_new_excerpt": "Is this still a thing?",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这还是个东西吗？",
+      "title": "GME 2/9"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這還是個東西嗎？",
+      "title": "GME 2/9"
+    }
+  ]
 }
