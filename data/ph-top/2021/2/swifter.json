@@ -73,5 +73,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-09T12:04:19Z"
+  "original_createdAt": "2021-02-09T12:04:19Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Swifter是一款基于AI的邮件主题行生成器（使用GPT-3）。Swifter支持5种邮件类型（欢迎、放弃购物车、折扣、痛点、目标事件）和3种色调（友好、粗体、专业），适用于B2B和B2C邮件。",
+      "tagline": "基于GPT-3的B2B和B2C邮件主题行生成器。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Swifter是一款基於AI的郵件主題行生成器（使用GPT-3）。Swifter支持5種郵件類型（歡迎、放棄購物車、折扣、痛點、目標事件）和3種色調（友好、粗體、專業），適用於B2B和B2C郵件。",
+      "tagline": "基於GPT-3的B2B和B2C郵件主題行生成器。"
+    }
+  ]
 }
