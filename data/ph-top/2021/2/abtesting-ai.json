@@ -88,5 +88,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-09T12:00:00Z"
+  "original_createdAt": "2021-02-09T12:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "ABtesting.ai使用人工智能来创建、组合和测试不同的标题、副本、行动呼吁和图像的变化，以找到最适合您的受众，提高转换率并降低成本。",
+      "tagline": "在自动驾驶仪上大幅提升您的转换率（使用GPT-3）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "ABtesting.ai使用人工智能來創建、組合和測試不同的標題、副本、行動呼籲和圖像的變化，以找到最適合您的受衆，提高轉換率並降低成本。",
+      "tagline": "在自動駕駛儀上大幅提升您的轉換率（使用GPT-3）。"
+    }
+  ]
 }
