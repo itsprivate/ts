@@ -298,5 +298,17 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Wed Feb 10 19:50:02 +0000 2021"
+  "original_created_at": "Wed Feb 10 19:50:02 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "这对#比特币#是好事https://t.co/YtwT3os53W",
+      "quoted_status_full_text": "这是官方的。\n\n荷兰储蓄账户的负利率#ABN银行 https://t.co/bjDjDSGG80"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "這對#比特幣#是好事https://t.co/YtwT3os53W",
+      "quoted_status_full_text": "這是官方的。\n\n荷蘭儲蓄賬戶的負利率#ABN銀行 https://t.co/bjDjDSGG80"
+    }
+  ]
 }
