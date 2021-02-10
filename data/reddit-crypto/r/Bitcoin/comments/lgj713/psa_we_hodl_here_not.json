@@ -106,5 +106,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1612922006,
-  "the_new_excerpt": "Just preserving the core of the Bitcoin community."
+  "the_new_excerpt": "Just preserving the core of the Bitcoin community.",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "只是保留了比特币社区的核心。",
+      "title": "PSA：我们这里是HODL，不是\"🤲💎\"。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "只是保留了比特幣社區的核心。",
+      "title": "PSA：我們這裏是HODL，不是\"🤲💎\"。"
+    }
+  ]
 }
