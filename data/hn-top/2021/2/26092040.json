@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-02-10T17:22:53.000Z",
-  "image": "https://hellosystem.github.io/docs/_static/hello_logo.png"
+  "image": "https://hellosystem.github.io/docs/_static/hello_logo.png",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "哈啰系统"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "哈囉系統"
+    }
+  ]
 }
