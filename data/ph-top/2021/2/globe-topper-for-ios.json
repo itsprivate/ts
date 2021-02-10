@@ -73,5 +73,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-10T08:27:58Z"
+  "original_createdAt": "2021-02-10T08:27:58Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "基于苹果官方RSS源，Globe Topper是一款iOS应用，可以让你的应用在175个国家的App Store排名中出现! 最新版本还包括评级和评论，你可以用谷歌翻译翻译成你的语言。",
+      "tagline": "175个国家的App Store排名和评论"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "基於蘋果官方RSS源，Globe Topper是一款iOS應用，可以讓你的應用在175個國家的App Store排名中出現! 最新版本還包括評級和評論，你可以用谷歌翻譯翻譯成你的語言。",
+      "tagline": "175個國家的App Store排名和評論"
+    }
+  ]
 }
