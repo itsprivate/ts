@@ -106,5 +106,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-10T08:00:00Z"
+  "original_createdAt": "2021-02-10T08:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Valora是一款P2P支付应用，你可以像发短信一样给全球任何人发钱。在Celo区块链平台的支持下，Valora是唯一一个能够实现无信任的移动交易的钱包，具有易于使用的UX，几乎零费用。",
+      "tagline": "像短信一样向全球任何人发送资金"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Valora是一款P2P支付應用，你可以像發短信一樣給全球任何人發錢。在Celo區塊鏈平臺的支持下，Valora是唯一一個能夠實現無信任的移動交易的錢包，具有易於使用的UX，幾乎零費用。",
+      "tagline": "像短信一樣向全球任何人發送資金"
+    }
+  ]
 }
