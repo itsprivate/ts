@@ -67,5 +67,17 @@
   "topics": {
     "edges": []
   },
-  "original_createdAt": "2021-02-10T08:30:51Z"
+  "original_createdAt": "2021-02-10T08:30:51Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "PDFs是繁琐的，并且对现代网络技术的管理具有挑战性。Anvil PDF API简化了PDF的填充、生成和电子签名到RESTful终端，消除了使用PDF的痛苦。",
+      "tagline": "一个灵活的API，用于创建、填充和签署PDF文件。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "PDFs是繁瑣的，並且對現代網絡技術的管理具有挑戰性。Anvil PDF API簡化了PDF的填充、生成和電子簽名到RESTful終端，消除了使用PDF的痛苦。",
+      "tagline": "一個靈活的API，用於創建、填充和簽署PDF文件。"
+    }
+  ]
 }
