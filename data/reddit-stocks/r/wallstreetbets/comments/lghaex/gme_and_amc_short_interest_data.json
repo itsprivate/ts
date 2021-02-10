@@ -113,5 +113,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1612915796,
-  "the_new_excerpt": "Finra, Fintel, and Wall Street Journal are reporting different percentages.\n\nFinra - GME\n[http://finra-markets.morningstar.com/MarketData/EquityOptions/detail.jsp?query=126:0P000002CH]\n--- Short Interest: 78.46\nFinra - AMC\n[http://finra…"
+  "the_new_excerpt": "Finra, Fintel, and Wall Street Journal are reporting different percentages.\n\nFinra - GME\n[http://finra-markets.morningstar.com/MarketData/EquityOptions/detail.jsp?query=126:0P000002CH]\n--- Short Interest: 78.46\nFinra - AMC\n[http://finra…",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "Finra、Fintel和《华尔街日报》的报道比例不同。\n\nFinra - GME\n[http://finra-markets.morningstar.com/MarketData/EquityOptions/detail.jsp?query=126:0P000002CH]\n  78.46\nFinra - AMC\n[http://finra...",
+      "title": "GME和AMC短息数据"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "Finra、Fintel和《華爾街日報》的報道比例不同。\n\nFinra - GME\n[http://finra-markets.morningstar.com/MarketData/EquityOptions/detail.jsp?query=126:0P000002CH]\n  78.46\nFinra - AMC\n[http://finra...",
+      "title": "GME和AMC短息數據"
+    }
+  ]
 }
