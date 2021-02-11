@@ -116,5 +116,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1613048739,
-  "the_new_excerpt": "GME/Jim Cramer megathread"
+  "the_new_excerpt": "GME/Jim Cramer megathread",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "GME/Jim Cramer megathread(全球环境监测系统/吉姆-克拉默大讨论)",
+      "title": "GME 2/11"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "GME/Jim Cramer megathread(全球環境監測系統/吉姆-克拉默大討論)",
+      "title": "GME 2/11"
+    }
+  ]
 }
