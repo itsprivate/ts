@@ -63,5 +63,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-11T08:31:28Z"
+  "original_createdAt": "2021-02-11T08:31:28Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Incident Timer是一款专为开发者设计的 \"天无事故 \"计时器。设计精美的仪表盘可以帮助你跟踪重大软件事件。它是免费的，只需要2分钟就可以设置。",
+      "tagline": "开发者的 \"无事故天数 \"计时器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Incident Timer是一款專爲開發者設計的 \"天無事故 \"計時器。設計精美的儀表盤可以幫助你跟蹤重大軟件事件。它是免費的，只需要2分鐘就可以設置。",
+      "tagline": "開發者的 \"無事故天數 \"計時器"
+    }
+  ]
 }
