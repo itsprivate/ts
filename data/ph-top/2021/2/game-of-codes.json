@@ -73,5 +73,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-10T08:56:03Z"
+  "original_createdAt": "2021-02-10T08:56:03Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "基于Codeforces，Game of Codes是一款关于竞技编程的游戏，无论是练习、分析、学习，甚至是和你的朋友一起做比赛都是如此! 这是为Codeforces爱好者提供的全套服务，目前已有2000+用户注册，并在不断增长。",
+      "tagline": "提升您的代码水平"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "基於Codeforces，Game of Codes是一款關於競技編程的遊戲，無論是練習、分析、學習，甚至是和你的朋友一起做比賽都是如此! 這是爲Codeforces愛好者提供的全套服務，目前已有2000+用戶註冊，並在不斷增長。",
+      "tagline": "提升您的代碼水平"
+    }
+  ]
 }
