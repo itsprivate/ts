@@ -101,5 +101,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1613054040,
-  "the_new_excerpt": "I am the same I just can’t seem to eloquently describe why."
+  "the_new_excerpt": "I am the same I just can’t seem to eloquently describe why.",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我也一样，只是似乎无法雄辩地描述出原因。",
+      "title": "如果你在犹豫要不要孩子--这是为什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我也一樣，只是似乎無法雄辯地描述出原因。",
+      "title": "如果你在猶豫要不要孩子--這是爲什麼？"
+    }
+  ]
 }
