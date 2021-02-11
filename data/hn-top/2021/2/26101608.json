@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-02-11T14:06:18.000Z",
-  "image": "https://podman.io/images/podman.svg"
+  "image": "https://podman.io/images/podman.svg",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "Podman。一个无守护进程的容器引擎"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Podman。一個無守護進程的容器引擎"
+    }
+  ]
 }
