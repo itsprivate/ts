@@ -36,5 +36,15 @@
     }
   },
   "original_created_at": "2021-02-10T03:13:55.000Z",
-  "image": "https://computing.llnl.gov/tutorials/pthreads/images/process.gif"
+  "image": "https://computing.llnl.gov/tutorials/pthreads/images/process.gif",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "Posix线程编程"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Posix線程編程"
+    }
+  ]
 }
