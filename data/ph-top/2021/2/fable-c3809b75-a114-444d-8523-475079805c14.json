@@ -72,5 +72,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-11T12:34:11Z"
+  "original_createdAt": "2021-02-11T12:34:11Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "按下按钮，将产品规格中的用户故事发送到Jira上。Fable还将通过对Jira上的票据所做的任何更改来保持规格的新鲜感。不再需要从Docs复制+粘贴到Jira中，不再有陈旧的规格。",
+      "tagline": "在Docs和Jira之间同步用户故事和需求。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "按下按鈕，將產品規格中的用戶故事發送到Jira上。Fable還將通過對Jira上的票據所做的任何更改來保持規格的新鮮感。不再需要從Docs複製+粘貼到Jira中，不再有陳舊的規格。",
+      "tagline": "在Docs和Jira之間同步用戶故事和需求。"
+    }
+  ]
 }
