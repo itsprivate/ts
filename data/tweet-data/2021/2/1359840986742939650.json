@@ -91,5 +91,15 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Thu Feb 11 12:25:30 +0000 2021"
+  "original_created_at": "Thu Feb 11 12:25:30 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "特斯拉市值。\n\n2020年2月11日：1410亿美元\n\n2月11日，2021年：8180亿美元。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "特斯拉市值。\n\n2020年2月11日：1410億美元\n\n2月11日，2021年：8180億美元。"
+    }
+  ]
 }
