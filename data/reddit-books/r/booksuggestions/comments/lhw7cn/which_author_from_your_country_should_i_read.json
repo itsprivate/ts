@@ -105,5 +105,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1613081336,
-  "the_new_excerpt": "And what book should I read from his/her catalogue?"
+  "the_new_excerpt": "And what book should I read from his/her catalogue?",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "那我应该从他/她的目录中读什么书呢？",
+      "title": "我应该读贵国的哪位作家？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "那我應該從他/她的目錄中讀什麼書呢？",
+      "title": "我應該讀貴國的哪位作家？"
+    }
+  ]
 }
