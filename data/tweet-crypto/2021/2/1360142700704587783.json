@@ -501,5 +501,17 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Fri Feb 12 08:24:24 +0000 2021"
+  "original_created_at": "Fri Feb 12 08:24:24 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @Xentagz: 尼日利亚参议员说：\"#比特币让尼日利亚的货币变得无用&amp; 无价值.\" https://t.co/oQ8A29zHVN.",
+      "retweeted_status_full_text": "尼日利亚参议员表示，\"#比特币让尼日利亚货币变得无用&amp;无价 \"https://t.co/oQ8A29zHVN。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @Xentagz: 尼日利亞參議員說：\"#比特幣讓尼日利亞的貨幣變得無用&amp; 無價值.\" https://t.co/oQ8A29zHVN.",
+      "retweeted_status_full_text": "尼日利亞參議員表示，\"#比特幣讓尼日利亞貨幣變得無用&amp;無價 \"https://t.co/oQ8A29zHVN。"
+    }
+  ]
 }
