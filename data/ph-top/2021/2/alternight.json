@@ -72,5 +72,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-11T20:36:50Z"
+  "original_createdAt": "2021-02-11T20:36:50Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "一个现代的VS Code主题，适合那些在晚上写代码的人。",
+      "tagline": "一个现代化的VS Code主题，适合那些在晚上写代码的人。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個現代的VS Code主題，適合那些在晚上寫代碼的人。",
+      "tagline": "一個現代化的VS Code主題，適合那些在晚上寫代碼的人。"
+    }
+  ]
 }
