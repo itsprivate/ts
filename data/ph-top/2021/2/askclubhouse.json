@@ -63,5 +63,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-12T08:00:00Z"
+  "original_createdAt": "2021-02-12T08:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "有些房间实在太大，无法与你的Clubhouse听众互动。AskClubhouse是一个免费的工具，它允许你的听众提出书面问题，所以你选择他们并在舞台上现场回答他们。",
+      "tagline": "允许您的会所观众提出书面问题"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有些房間實在太大，無法與你的Clubhouse聽衆互動。AskClubhouse是一個免費的工具，它允許你的聽衆提出書面問題，所以你選擇他們並在舞臺上現場回答他們。",
+      "tagline": "允許您的會所觀衆提出書面問題"
+    }
+  ]
 }
