@@ -14,5 +14,15 @@
   "tags": [
     "WGAL Susquehanna Valley Pa."
   ],
-  "image": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/predictor-freezing-rain-1613222842.png?crop=0.969xw:1.00xh;0.0163xw,0&resize=1200:*"
+  "image": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/predictor-freezing-rain-1613222842.png?crop=0.969xw:1.00xh;0.0163xw,0&resize=1200:*",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "今天出现寒潮，今晚有零星冻雨。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "今天出現寒潮，今晚有零星凍雨。"
+    }
+  ]
 }
