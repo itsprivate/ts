@@ -117,5 +117,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1613163623,
-  "the_new_excerpt": "i love you guys"
+  "the_new_excerpt": "i love you guys",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我爱你们",
+      "title": "2021年2月12日的周末讨论主题。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我愛你們",
+      "title": "2021年2月12日的週末討論主題。"
+    }
+  ]
 }
