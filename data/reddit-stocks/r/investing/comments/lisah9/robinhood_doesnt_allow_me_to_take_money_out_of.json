@@ -101,5 +101,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1613187407,
-  "the_new_excerpt": "I just received an email from Robinhood saying the following : Hi Felix, A\nwithdrawal restriction has been placed on your brokerage account. This means you\ncannot transfer money from Robinhood to other accounts using any method, and any\ntransactions using your Robinhood debit card or ACH account and…"
+  "the_new_excerpt": "I just received an email from Robinhood saying the following : Hi Felix, A\nwithdrawal restriction has been placed on your brokerage account. This means you\ncannot transfer money from Robinhood to other accounts using any method, and any\ntransactions using your Robinhood debit card or ACH account and…",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我刚刚收到Robinhood发来的邮件，内容如下：Hi Felix, A。\n您的经纪账户已受到提款限制。这意味着您\n不能用任何方法从Robinhood转钱到其他账户，而且任何\n使用您的Robinhood借记卡或ACH账户进行交易，并...",
+      "title": "Robinhood不允许我从账户里取钱，我不知道为什么。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我剛剛收到Robinhood發來的郵件，內容如下：Hi Felix, A。\n您的經紀賬戶已受到提款限制。這意味着您\n不能用任何方法從Robinhood轉錢到其他賬戶，而且任何\n使用您的Robinhood借記卡或ACH賬戶進行交易，並...",
+      "title": "Robinhood不允許我從賬戶裏取錢，我不知道爲什麼。"
+    }
+  ]
 }
