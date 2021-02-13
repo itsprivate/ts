@@ -14,5 +14,15 @@
   "tags": [
     "The New York Times"
   ],
-  "image": "https://static01.nyt.com/images/2021/02/14/world/14japan-quake-1/14japan-quake-1-facebookJumbo.jpg"
+  "image": "https://static01.nyt.com/images/2021/02/14/world/14japan-quake-1/14japan-quake-1-facebookJumbo.jpg",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "日本发生强烈地震"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "日本發生強烈地震"
+    }
+  ]
 }
