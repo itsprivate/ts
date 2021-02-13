@@ -58,5 +58,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-12T15:28:30Z"
+  "original_createdAt": "2021-02-12T15:28:30Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "在您的React Native应用中进行A/B测试和功能管理。通过Taplytics React Native SDK，让您的团队可以灵活地进行实验和推出新功能。",
+      "tagline": "为您的React Native应用进行A/B测试和功能管理。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在您的React Native應用中進行A/B測試和功能管理。通過Taplytics React Native SDK，讓您的團隊可以靈活地進行實驗和推出新功能。",
+      "tagline": "爲您的React Native應用進行A/B測試和功能管理。"
+    }
+  ]
 }
