@@ -103,5 +103,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1613307039,
-  "the_new_excerpt": "I bought 2 medium pizzas from Papa John's to celebrate."
+  "the_new_excerpt": "I bought 2 medium pizzas from Papa John's to celebrate.",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我在Papa John's买了两个中号披萨来庆祝。",
+      "title": "10多年前，2个披萨是10000比特币。今天，2个比特币相当于10000个披萨。这个圈子已经完成了."
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我在Papa John's買了兩個中號披薩來慶祝。",
+      "title": "10多年前，2個披薩是10000比特幣。今天，2個比特幣相當於10000個披薩。這個圈子已經完成了."
+    }
+  ]
 }
