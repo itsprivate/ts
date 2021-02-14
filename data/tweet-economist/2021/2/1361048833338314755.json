@@ -112,5 +112,15 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Sun Feb 14 20:25:03 +0000 2021"
+  "original_created_at": "Sun Feb 14 20:25:03 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "\"我的预测是，超过50%的商务旅行......将会消失。\"比尔-盖茨说，https://t.co/nKVvj2QuaR。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "\"我的預測是，超過50%的商務旅行......將會消失。\"比爾-蓋茨說，https://t.co/nKVvj2QuaR。"
+    }
+  ]
 }
