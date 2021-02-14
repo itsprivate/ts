@@ -14,5 +14,15 @@
   "tags": [
     "Fox News"
   ],
-  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Japan3.jpg"
+  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Japan3.jpg",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "日本强震引发山体滑坡轻伤"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "日本強震引發山體滑坡輕傷"
+    }
+  ]
 }
