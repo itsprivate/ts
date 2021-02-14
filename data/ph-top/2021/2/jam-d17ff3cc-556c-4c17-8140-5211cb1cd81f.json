@@ -73,5 +73,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-14T08:18:46Z"
+  "original_createdAt": "2021-02-14T08:18:46Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "🍞 Jam是一个开源的音频空间实现（想想看：Clubhouse，Twitter Spaces，Orbit，...）。Jam让你可以创建可用于小组讨论、果酱会议、自由流动的对话、辩论、戏剧、音乐剧等的房间。",
+      "tagline": "您自己的小型会议和朋友聚会的会所版本。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "🍞 Jam是一個開源的音頻空間實現（想想看：Clubhouse，Twitter Spaces，Orbit，...）。Jam讓你可以創建可用於小組討論、果醬會議、自由流動的對話、辯論、戲劇、音樂劇等的房間。",
+      "tagline": "您自己的小型會議和朋友聚會的會所版本。"
+    }
+  ]
 }
