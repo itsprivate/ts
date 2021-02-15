@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-02-15T20:01:39.000Z",
-  "image": "https://comma.ai/meta-cover.jpg"
+  "image": "https://comma.ai/meta-cover.jpg",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "汽车上的自动驾驶，售价999元"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "汽車上的自動駕駛，售價999元"
+    }
+  ]
 }
