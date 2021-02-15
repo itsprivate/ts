@@ -91,5 +91,15 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Sun Feb 14 23:20:56 +0000 2021"
+  "original_created_at": "Sun Feb 14 23:20:56 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "冠状病毒：根据以色列最大的医疗保健提供商的研究，在那些服用两剂辉瑞疫苗的人中，严重感染病例下降了92%。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "冠狀病毒：根據以色列最大的醫療保健提供商的研究，在那些服用兩劑輝瑞疫苗的人中，嚴重感染病例下降了92%。"
+    }
+  ]
 }
