@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-02-15T09:47:16.000Z",
-  "image": "https://tanelpoder.com/files/images/tanelpoder_small.png"
+  "image": "https://tanelpoder.com/files/images/tanelpoder_small.png",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "为什么SELECT *对SQL性能不利"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲什麼SELECT *對SQL性能不利"
+    }
+  ]
 }
