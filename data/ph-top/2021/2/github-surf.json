@@ -53,5 +53,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-15T08:00:00Z"
+  "original_createdAt": "2021-02-15T08:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "🏄♂️ 像专业人员一样浏览你的版本库 ✅ Github 支持 - 在 vscode 环境下在浏览器上浏览 GitHub 版本库 ✅ Gist 支持 - 在 vscode 环境下在浏览器上浏览 Gist 版本库 ✅ 官方 CLI - 在终端打开 surf.",
+      "tagline": "在浏览器中打开VSCode环境下的资源库。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "🏄♂️ 像專業人員一樣瀏覽你的版本庫 ✅ Github 支持 - 在 vscode 環境下在瀏覽器上瀏覽 GitHub 版本庫 ✅ Gist 支持 - 在 vscode 環境下在瀏覽器上瀏覽 Gist 版本庫 ✅ 官方 CLI - 在終端打開 surf.",
+      "tagline": "在瀏覽器中打開VSCode環境下的資源庫。"
+    }
+  ]
 }
