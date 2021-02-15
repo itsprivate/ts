@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-02-15T15:33:57.000Z",
-  "image": "https://v8.dev/_img/v8-release-89/perf.svg"
+  "image": "https://v8.dev/_img/v8-release-89/perf.svg",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "更快的JavaScript调用"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "更快的JavaScript調用"
+    }
+  ]
 }
