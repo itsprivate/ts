@@ -68,5 +68,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-16T11:07:06Z"
+  "original_createdAt": "2021-02-16T11:07:06Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "VECA是我们即插即用、预建的意图识别系统，用于售后电商支持。训练了1000万用户的查询，只需点击一下就可以自动对话。",
+      "tagline": "您的电子商务助理"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "VECA是我們即插即用、預建的意圖識別系統，用於售後電商支持。訓練了1000萬用戶的查詢，只需點擊一下就可以自動對話。",
+      "tagline": "您的電子商務助理"
+    }
+  ]
 }
