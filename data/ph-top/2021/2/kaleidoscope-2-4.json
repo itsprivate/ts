@@ -108,5 +108,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-16T07:06:55Z"
+  "original_createdAt": "2021-02-16T07:06:55Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Kaleidoscope 2.4的特点是与Xcode调试器进行了新的强大集成。将任何调试器命令（ksp）或对象（kspo）输出发送到Kaleidoscope。这使其能够快速迭代常见的开发任务。",
+      "tagline": "比较调试输出。现在与Xcode集成"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Kaleidoscope 2.4的特點是與Xcode調試器進行了新的強大集成。將任何調試器命令（ksp）或對象（kspo）輸出發送到Kaleidoscope。這使其能夠快速迭代常見的開發任務。",
+      "tagline": "比較調試輸出。現在與Xcode集成"
+    }
+  ]
 }
