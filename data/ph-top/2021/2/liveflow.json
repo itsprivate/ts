@@ -98,5 +98,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-16T08:01:00Z"
+  "original_createdAt": "2021-02-16T08:01:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "LiveFlow (YC W21)是您的第一个完全自动化的下一代电子表格，它能在几秒钟内将来自Google Sheets、银行、会计和收入平台的实时数据连接到完全灵活和可定制的仪表盘。",
+      "tagline": "一个让您的财务自动化的中心"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "LiveFlow (YC W21)是您的第一個完全自動化的下一代電子表格，它能在幾秒鐘內將來自Google Sheets、銀行、會計和收入平臺的實時數據連接到完全靈活和可定製的儀表盤。",
+      "tagline": "一個讓您的財務自動化的中心"
+    }
+  ]
 }
