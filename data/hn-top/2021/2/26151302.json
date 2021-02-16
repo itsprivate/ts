@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-02-16T05:45:22.000Z",
-  "image": "https://sqlite.org/images/sqlite370_banner.gif"
+  "image": "https://sqlite.org/images/sqlite370_banner.gif",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "在SQLite中，许多小的查询都是高效的"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在SQLite中，許多小的查詢都是高效的"
+    }
+  ]
 }
