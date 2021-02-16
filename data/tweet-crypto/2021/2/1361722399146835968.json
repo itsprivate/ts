@@ -272,5 +272,17 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Tue Feb 16 17:01:34 +0000 2021"
+  "original_created_at": "Tue Feb 16 17:01:34 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @anilsaidso: Michael Saylor今天（用比特币和美元）做的事情 和Hugo Stinnes之前（用黄金和Papiermark）做的一样... ...",
+      "retweeted_status_full_text": "Michael Saylor今天（用比特币和美元）做的是魏玛共和国崩溃前Hugo Stinnes做的（用黄金和Papiermark）。https://t.co/vRt2TgcPF1。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @anilsaidso: Michael Saylor今天（用比特幣和美元）做的事情 和Hugo Stinnes之前（用黃金和Papiermark）做的一樣... ...",
+      "retweeted_status_full_text": "Michael Saylor今天（用比特幣和美元）做的是魏瑪共和國崩潰前Hugo Stinnes做的（用黃金和Papiermark）。https://t.co/vRt2TgcPF1。"
+    }
+  ]
 }
