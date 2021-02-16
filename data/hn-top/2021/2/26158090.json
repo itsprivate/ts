@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-02-16T20:01:04.000Z",
-  "image": "https://golang.org/lib/godoc/images/go-logo-blue.svg"
+  "image": "https://golang.org/lib/godoc/images/go-logo-blue.svg",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "Go 1.16 发行说明"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Go 1.16 發行說明"
+    }
+  ]
 }
