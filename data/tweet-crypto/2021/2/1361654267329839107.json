@@ -178,5 +178,15 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "und",
-  "original_created_at": "Tue Feb 16 12:30:50 +0000 2021"
+  "original_created_at": "Tue Feb 16 12:30:50 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "#比特币 5万美元 https://t.co/bsI4Q94qG7"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "#比特幣 5萬美元 https://t.co/bsI4Q94qG7"
+    }
+  ]
 }
