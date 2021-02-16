@@ -53,5 +53,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-16T10:59:30Z"
+  "original_createdAt": "2021-02-16T10:59:30Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Follab是一个收集、整理和分析客户反馈的平台。不再有过时的电子表格、caothic的Trello板或试图在Slack中跟踪一切。",
+      "tagline": "收集、整理、分析客户反馈"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Follab是一個收集、整理和分析客戶反饋的平臺。不再有過時的電子表格、caothic的Trello板或試圖在Slack中跟蹤一切。",
+      "tagline": "收集、整理、分析客戶反饋"
+    }
+  ]
 }
