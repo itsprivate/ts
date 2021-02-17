@@ -73,5 +73,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-17T08:00:00Z"
+  "original_createdAt": "2021-02-17T08:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "1. 从Slack/Teams中保存你的团队的重复问题，并提供给团队中的每个人访问。2. 创建一个主题专家目录，让团队成员知道该向谁询问什么。3. 让大家在需要的时候询问外部专家社区。",
+      "tagline": "Slack或MS Teams的内部问答平台。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "1. 從Slack/Teams中保存你的團隊的重複問題，並提供給團隊中的每個人訪問。2. 創建一個主題專家目錄，讓團隊成員知道該向誰詢問什麼。3. 讓大家在需要的時候詢問外部專家社區。",
+      "tagline": "Slack或MS Teams的內部問答平臺。"
+    }
+  ]
 }
