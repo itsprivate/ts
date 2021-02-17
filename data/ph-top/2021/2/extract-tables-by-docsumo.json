@@ -98,5 +98,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-17T10:01:25Z"
+  "original_createdAt": "2021-02-17T10:01:25Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Docsumo是一款文档人工智能软件，帮助企业捕捉和分析非结构化文档。使用预建的API将发票、银行对账单、纳税申报表、ACORD表格和身份证转换为JSON/CSV。获取准确的分析结果，实现自动化决策。",
+      "tagline": "从PDF和图像中提取表格的免费工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Docsumo是一款文檔人工智能軟件，幫助企業捕捉和分析非結構化文檔。使用預建的API將發票、銀行對賬單、納稅申報表、ACORD表格和身份證轉換爲JSON/CSV。獲取準確的分析結果，實現自動化決策。",
+      "tagline": "從PDF和圖像中提取表格的免費工具"
+    }
+  ]
 }
