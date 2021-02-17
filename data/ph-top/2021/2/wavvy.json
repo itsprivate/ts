@@ -53,5 +53,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-17T08:00:00Z"
+  "original_createdAt": "2021-02-17T08:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Wavvy是一个免费和开源的播客托管和分析平台。获得一个iTunes/Spotify的RSS源，一个可嵌入的音频播放器，基本的分析，以及一个可定制的单页网站。代码：https://github.com/toshvelaga/wavvy-clean。",
+      "tagline": "播客托管和分析"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Wavvy是一個免費和開源的播客託管和分析平臺。獲得一個iTunes/Spotify的RSS源，一個可嵌入的音頻播放器，基本的分析，以及一個可定製的單頁網站。代碼：https://github.com/toshvelaga/wavvy-clean。",
+      "tagline": "播客託管和分析"
+    }
+  ]
 }
