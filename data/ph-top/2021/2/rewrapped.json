@@ -73,5 +73,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-17T08:00:00Z"
+  "original_createdAt": "2021-02-17T08:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "重新包装你的Spotify Wrapped，根据你已经听过的歌曲的声音来发现你从未听过的艺术家。由Andrson算法提供支持，对200多个小时的音乐进行训练。",
+      "tagline": "声音驱动的音乐发现"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "重新包裝你的Spotify Wrapped，根據你已經聽過的歌曲的聲音來發現你從未聽過的藝術家。由Andrson算法提供支持，對200多個小時的音樂進行訓練。",
+      "tagline": "聲音驅動的音樂發現"
+    }
+  ]
 }
