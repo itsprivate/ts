@@ -108,5 +108,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-17T08:00:00Z"
+  "original_createdAt": "2021-02-17T08:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "我们的无服务器Kubernetes平台是为了满足快速发展的开发团队的需求而设计的，他们希望专注于交付应用程序，而不是操作。",
+      "tagline": "为云原生应用提供更智能的工作流程"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們的無服務器Kubernetes平臺是爲了滿足快速發展的開發團隊的需求而設計的，他們希望專注於交付應用程序，而不是操作。",
+      "tagline": "爲雲原生應用提供更智能的工作流程"
+    }
+  ]
 }
