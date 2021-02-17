@@ -110,5 +110,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1613584064,
-  "the_new_excerpt": "I don't care about dollars. I care about chickens. So I measure the price of\nBitcoin in chickens.\n\nMuch chickens."
+  "the_new_excerpt": "I don't care about dollars. I care about chickens. So I measure the price of\nBitcoin in chickens.\n\nMuch chickens.",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我不在乎美元。我关心的是鸡。所以我衡量的价格\n比特币在鸡。\n\n多鸡。",
+      "title": "现在1个BTC值1万多只鸡，@5美元/鸡。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我不在乎美元。我關心的是雞。所以我衡量的價格\n比特幣在雞。\n\n多雞。",
+      "title": "現在1個BTC值1萬多隻雞，@5美元/雞。"
+    }
+  ]
 }
