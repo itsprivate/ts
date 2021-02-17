@@ -105,5 +105,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1613565449,
-  "the_new_excerpt": "Here we go guys!"
+  "the_new_excerpt": "Here we go guys!",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "在这里，我们去的家伙！",
+      "title": "微策略公司现在筹集了9亿美元，而不是6亿美元--零利息! 投资者都在求他拿钱!"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "在這裏，我們去的傢伙！",
+      "title": "微策略公司現在籌集了9億美元，而不是6億美元--零利息! 投資者都在求他拿錢!"
+    }
+  ]
 }
