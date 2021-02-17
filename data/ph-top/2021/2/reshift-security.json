@@ -83,5 +83,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-17T08:01:00Z"
+  "original_createdAt": "2021-02-17T08:01:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Reshift是一款以开发者为先的安全工具，可以帮助开发者发现并修复自定义JavaScript代码中的漏洞。",
+      "tagline": "免费查找你的JavaScript代码中的漏洞!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Reshift是一款以開發者爲先的安全工具，可以幫助開發者發現並修復自定義JavaScript代碼中的漏洞。",
+      "tagline": "免費查找你的JavaScript代碼中的漏洞!"
+    }
+  ]
 }
