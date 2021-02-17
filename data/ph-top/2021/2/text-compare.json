@@ -67,5 +67,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-16T12:39:49Z"
+  "original_createdAt": "2021-02-16T12:39:49Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "文本比较可以让你立即看到两段文本之间的差异。按段落、单词或字符来比较文本。粘贴两段文字，Text Compare将突出显示在原文中插入或删除的内容。",
+      "tagline": "瞬间看到两段文字之间的差别"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "文本比較可以讓你立即看到兩段文本之間的差異。按段落、單詞或字符來比較文本。粘貼兩段文字，Text Compare將突出顯示在原文中插入或刪除的內容。",
+      "tagline": "瞬間看到兩段文字之間的差別"
+    }
+  ]
 }
