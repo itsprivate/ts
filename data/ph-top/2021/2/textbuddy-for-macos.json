@@ -68,5 +68,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-16T19:33:13Z"
+  "original_createdAt": "2021-02-16T19:33:13Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "TextBuddy 是一款用于操作文本的 Mac 应用程序。一把处理纯文本的瑞士军刀，在你需要时出现，在你不需要时隐藏。比你的IDE更快。比命令行更简单。还可以从图像和音频中转换和提取文本。",
+      "tagline": "纯文字的瑞士军刀。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "TextBuddy 是一款用於操作文本的 Mac 應用程序。一把處理純文本的瑞士軍刀，在你需要時出現，在你不需要時隱藏。比你的IDE更快。比命令行更簡單。還可以從圖像和音頻中轉換和提取文本。",
+      "tagline": "純文字的瑞士軍刀。"
+    }
+  ]
 }
