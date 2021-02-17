@@ -83,5 +83,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-17T09:47:17Z"
+  "original_createdAt": "2021-02-17T09:47:17Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "- FIFO队列使Github的CI/CD工作流程自动化 - 3分钟快速设置 - 避免冲突并保持绿色构建 - 保持Pull请求与基础分支的更新 - 自动取消失败构建的queue。",
+      "tagline": "在3分钟内自动完成Github的CI/CD工作。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "- FIFO隊列使Github的CI/CD工作流程自動化 - 3分鐘快速設置 - 避免衝突並保持綠色構建 - 保持Pull請求與基礎分支的更新 - 自動取消失敗構建的queue。",
+      "tagline": "在3分鐘內自動完成Github的CI/CD工作。"
+    }
+  ]
 }
