@@ -234,5 +234,17 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Wed Feb 17 15:55:41 +0000 2021"
+  "original_created_at": "Wed Feb 17 15:55:41 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @cameron：世界上最大的资产管理公司黑石集团（BlackRock）证实，他们开始涉足#比特币#。\n\nhttps://t.co/3cje8zWeno",
+      "retweeted_status_full_text": "全球最大的资产管理公司BlackRock证实他们开始涉足#比特币#。\n\nhttps://t.co/3cje8zWeno"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @cameron：世界上最大的資產管理公司黑石集團（BlackRock）證實，他們開始涉足#比特幣#。\n\nhttps://t.co/3cje8zWeno",
+      "retweeted_status_full_text": "全球最大的資產管理公司BlackRock證實他們開始涉足#比特幣#。\n\nhttps://t.co/3cje8zWeno"
+    }
+  ]
 }
