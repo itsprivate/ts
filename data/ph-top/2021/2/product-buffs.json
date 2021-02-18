@@ -93,5 +93,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-18T12:34:44Z"
+  "original_createdAt": "2021-02-18T12:34:44Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Product Buffs通过5周的产品发现实践辅导，为团队提供建立最佳主张所需的技能和知识。",
+      "tagline": "我们帮助团队避免构建错误的产品"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Product Buffs通過5周的產品發現實踐輔導，爲團隊提供建立最佳主張所需的技能和知識。",
+      "tagline": "我們幫助團隊避免構建錯誤的產品"
+    }
+  ]
 }
