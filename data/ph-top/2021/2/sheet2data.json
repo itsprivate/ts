@@ -48,5 +48,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-18T13:12:06Z"
+  "original_createdAt": "2021-02-18T13:12:06Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "获取您的Google Sheets数据作为一个直接链接tocsv或json文件，始终是最新的。忘了下载文件，然后重新上传它在其他地方的一些地方!",
+      "tagline": "将您的Google Sheets数据直接连接到.csv或.json的URL。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "獲取您的Google Sheets數據作爲一個直接鏈接tocsv或json文件，始終是最新的。忘了下載文件，然後重新上傳它在其他地方的一些地方!",
+      "tagline": "將您的Google Sheets數據直接連接到.csv或.json的URL。"
+    }
+  ]
 }
