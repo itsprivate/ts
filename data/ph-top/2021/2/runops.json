@@ -73,5 +73,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-18T08:10:00Z"
+  "original_createdAt": "2021-02-18T08:10:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Runops是一款命令行应用，让你可以用一个工具查询数据库和管理服务器。它为你从终端运行的每一条命令增加了Git版本管理、Slack中的审查和敏感数据屏蔽功能。",
+      "tagline": "将一次性脚本作为生产就绪的自动程序运行"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Runops是一款命令行應用，讓你可以用一個工具查詢數據庫和管理服務器。它爲你從終端運行的每一條命令增加了Git版本管理、Slack中的審查和敏感數據屏蔽功能。",
+      "tagline": "將一次性腳本作爲生產就緒的自動程序運行"
+    }
+  ]
 }
