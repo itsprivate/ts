@@ -48,5 +48,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-18T12:14:36Z"
+  "original_createdAt": "2021-02-18T12:14:36Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "由Jake Knapp和John Zeratsky为make time框架设计的一款简单、免费的配套应用。",
+      "tagline": "为重要的事情留出时间"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "由Jake Knapp和John Zeratsky爲make time框架設計的一款簡單、免費的配套應用。",
+      "tagline": "爲重要的事情留出時間"
+    }
+  ]
 }

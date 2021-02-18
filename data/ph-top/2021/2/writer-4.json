@@ -78,5 +78,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-18T12:25:20Z"
+  "original_createdAt": "2021-02-18T12:25:20Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Writer是一款美观、安全、快速的文本编辑和笔记应用，适用于iPhone、iPad，不久还适用于Mac和Apple Watch。它有许多功能，如Markdown支持，通过安全的Apple Cloud在设备之间同步，可定制的排版等等。",
+      "tagline": "美丽、快速、带Markdown的苹果原生笔记应用。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Writer是一款美觀、安全、快速的文本編輯和筆記應用，適用於iPhone、iPad，不久還適用於Mac和Apple Watch。它有許多功能，如Markdown支持，通過安全的Apple Cloud在設備之間同步，可定製的排版等等。",
+      "tagline": "美麗、快速、帶Markdown的蘋果原生筆記應用。"
+    }
+  ]
 }
