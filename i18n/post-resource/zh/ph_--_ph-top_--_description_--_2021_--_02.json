@@ -329,5 +329,6 @@
   "data/ph-top/2021/2/textbuddy-for-macos.json": "TextBuddy 是一款用于操作文本的 Mac 应用程序。一把处理纯文本的瑞士军刀，在你需要时出现，在你不需要时隐藏。比你的IDE更快。比命令行更简单。还可以从图像和音频中转换和提取文本。",
   "data/ph-top/2021/2/diagrams-2-0.json": "迄今为止最大的更新--Diagrams 2.0 Macaw，带来了针对macOS Big Sur和新M1 Mac的全面优化，以及许多新功能，如调色板预设、可自定义调色板和新的造型选项。",
   "data/ph-top/2021/2/wavvy.json": "Wavvy是一个免费和开源的播客托管和分析平台。获得一个iTunes/Spotify的RSS源，一个可嵌入的音频播放器，基本的分析，以及一个可定制的单页网站。代码：https://github.com/toshvelaga/wavvy-clean。",
-  "data/ph-top/2021/2/mergequeue.json": "- FIFO队列使Github的CI/CD工作流程自动化 - 3分钟快速设置 - 避免冲突并保持绿色构建 - 保持Pull请求与基础分支的更新 - 自动取消失败构建的queue。"
+  "data/ph-top/2021/2/mergequeue.json": "- FIFO队列使Github的CI/CD工作流程自动化 - 3分钟快速设置 - 避免冲突并保持绿色构建 - 保持Pull请求与基础分支的更新 - 自动取消失败构建的queue。",
+  "data/ph-top/2021/2/infracost.json": "Infracost是一个开源的云成本估算器，在拉取请求中。当你更改基础设施代码（Terraform）时，我们会在拉取请求中发布一条评论，告诉你对云计算账单的影响，例如 \"这将使你下个月的账单增加25%\"。"
 }
