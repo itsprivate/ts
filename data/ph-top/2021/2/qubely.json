@@ -78,5 +78,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-18T09:50:52Z"
+  "original_createdAt": "2021-02-18T09:50:52Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Qubely是一个成熟的古腾堡块工具包，它拥有大量的自定义块、预定义部分和启动包，可以创建漂亮的网页。它最大限度地减少了古腾堡编辑器的局限性，开启了无限的可能性。",
+      "tagline": "WordPress古腾堡块和页面构建器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Qubely是一個成熟的古騰堡塊工具包，它擁有大量的自定義塊、預定義部分和啓動包，可以創建漂亮的網頁。它最大限度地減少了古騰堡編輯器的侷限性，開啓了無限的可能性。",
+      "tagline": "WordPress古騰堡塊和頁面構建器"
+    }
+  ]
 }
