@@ -73,5 +73,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-18T08:01:00Z"
+  "original_createdAt": "2021-02-18T08:01:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "给图像贴标签是做好计算机视觉模型的关键。Roboflow Annotate使您能够轻松地对图像进行标注，并且模型辅助标注可以为您的图像进行第一次标注！Roboflow Annotate可以为您提供任何格式的输出（COCO JSON, TFRecord, VOC XML...）。你可以导出为任何格式（COCO JSON, TFRecord, VOC XML...）。",
+      "tagline": "轻松注释图像。导出为任何格式。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "給圖像貼標籤是做好計算機視覺模型的關鍵。Roboflow Annotate使您能夠輕鬆地對圖像進行標註，並且模型輔助標註可以爲您的圖像進行第一次標註！Roboflow Annotate可以爲您提供任何格式的輸出（COCO JSON, TFRecord, VOC XML...）。你可以導出爲任何格式（COCO JSON, TFRecord, VOC XML...）。",
+      "tagline": "輕鬆註釋圖像。導出爲任何格式。"
+    }
+  ]
 }
