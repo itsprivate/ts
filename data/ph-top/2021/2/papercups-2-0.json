@@ -68,5 +68,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-18T08:52:00Z"
+  "original_createdAt": "2021-02-18T08:52:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Papercups 是一个用 Elixir 编写的开源即时客户聊天应用。我们是 Intercom 和 Drift 的友好替代品，具有高度的可扩展性和可定制性。我们还集成了Slack，让您可以在Slack上进行回复。",
+      "tagline": "开源的Intercom和Drift替代品"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Papercups 是一個用 Elixir 編寫的開源即時客戶聊天應用。我們是 Intercom 和 Drift 的友好替代品，具有高度的可擴展性和可定製性。我們還集成了Slack，讓您可以在Slack上進行回覆。",
+      "tagline": "開源的Intercom和Drift替代品"
+    }
+  ]
 }
