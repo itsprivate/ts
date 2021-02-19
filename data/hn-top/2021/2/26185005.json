@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-02-18T20:25:36.000Z",
-  "image": "https://cve.mitre.org/images/cvelogobanner.png"
+  "image": "https://cve.mitre.org/images/cvelogobanner.png",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "Python 3.x: RCE在Python应用程序中接受floats作为不信任的输入。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Python 3.x: RCE在Python應用程序中接受floats作爲不信任的輸入。"
+    }
+  ]
 }
