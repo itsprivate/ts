@@ -88,5 +88,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-19T08:00:00Z"
+  "original_createdAt": "2021-02-19T08:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "有了 WhatsApp Actions，现在可以直接从 Hubspot 工作流向 WhatsApp 上的联系人发送消息。",
+      "tagline": "从HubSpot工作流发送WhatsApp消息"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有了 WhatsApp Actions，現在可以直接從 Hubspot 工作流向 WhatsApp 上的聯繫人發送消息。",
+      "tagline": "從HubSpot工作流發送WhatsApp消息"
+    }
+  ]
 }
