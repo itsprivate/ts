@@ -14,5 +14,15 @@
   "tags": [
     "The Wall Street Journal"
   ],
-  "image": "https://images.wsj.net/im-300306/social"
+  "image": "https://images.wsj.net/im-300306/social",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "新的证据表明，Covid-19在第一批确诊病例之前就已经在中国传播了。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "新的證據表明，Covid-19在第一批確診病例之前就已經在中國傳播了。"
+    }
+  ]
 }
