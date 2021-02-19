@@ -52,7 +52,7 @@
   "slug": "infracost",
   "tagline": "Open source cloud cost estimator in pull requests",
   "url": "https://www.producthunt.com/posts/infracost?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
-  "votesCount": 113,
+  "votesCount": 151,
   "website": "https://www.producthunt.com/r/358eb63e3d52ee?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
   "topics": {
     "edges": [
@@ -80,5 +80,6 @@
       "description": "Infracost是一個開源的雲成本估算器，在拉取請求中。當你更改基礎設施代碼（Terraform）時，我們會在拉取請求中發佈一條評論，告訴你對雲計算賬單的影響，例如 \"這將使你下個月的賬單增加25%\"。",
       "tagline": "拉請求中的開源雲成本估算器"
     }
-  ]
+  ],
+  "source_updated_at": 1613728639704
 }
