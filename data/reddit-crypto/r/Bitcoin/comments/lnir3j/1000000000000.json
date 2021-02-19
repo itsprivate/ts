@@ -105,5 +105,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1613749100,
-  "the_new_excerpt": "Bitcoin reaching the $53,500 / BTC gives Bitcoin a 1 Trillion dollar market cap."
+  "the_new_excerpt": "Bitcoin reaching the $53,500 / BTC gives Bitcoin a 1 Trillion dollar market cap.",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "比特币达到53500美元/BTC后，比特币市值达到1万亿美元。",
+      "title": "$1,000,000,000,000"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "比特幣達到53500美元/BTC後，比特幣市值達到1萬億美元。",
+      "title": "$1,000,000,000,000"
+    }
+  ]
 }
