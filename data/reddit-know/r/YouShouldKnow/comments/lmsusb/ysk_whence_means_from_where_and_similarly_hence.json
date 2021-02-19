@@ -102,5 +102,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1613671313,
-  "the_new_excerpt": "Why YSK: people frequently use \"from whence\" which is redundant since the \"from\"\nis already baked in."
+  "the_new_excerpt": "Why YSK: people frequently use \"from whence\" which is redundant since the \"from\"\nis already baked in.",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么是YSK：人们经常使用 \"from whence\"，这是多余的，因为 \"from\"\n是已经烤好的。",
+      "title": "YSK：\"whence \"的意思是 \"从哪里\"，同样，\"therefore \"和 \"thence \"的意思是 \"从这里 \"和 \"从那里\""
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼是YSK：人們經常使用 \"from whence\"，這是多餘的，因爲 \"from\"\n是已經烤好的。",
+      "title": "YSK：\"whence \"的意思是 \"從哪裏\"，同樣，\"therefore \"和 \"thence \"的意思是 \"從這裏 \"和 \"從那裏\""
+    }
+  ]
 }
