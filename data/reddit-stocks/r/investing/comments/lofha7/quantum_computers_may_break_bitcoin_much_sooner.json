@@ -105,5 +105,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1613851669,
-  "the_new_excerpt": "So quantum computers can break cryptocurrency in 2 ways. One, a quantum computer\ncan reverse engineer a wallet’s private key. A private key is generated at\nrandom, however, the public key is generated from the private key. A quantum\ncomputer can reverse engineer this process and take everyone’s…"
+  "the_new_excerpt": "So quantum computers can break cryptocurrency in 2 ways. One, a quantum computer\ncan reverse engineer a wallet’s private key. A private key is generated at\nrandom, however, the public key is generated from the private key. A quantum\ncomputer can reverse engineer this process and take everyone’s…",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "所以量子计算机可以通过2种方式破解加密货币。其一，量子计算机\n可以对钱包的私钥进行反向工程。私钥是在\n随机的，但是，公钥是由私钥生成的。一个量子\n计算机可以逆向工程这个过程，并采取每个人的... ...",
+      "title": "量子计算机可能会比之前想象的更早打破比特币。IBM希望在2023年之前拥有一台1000qubit的计算机。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "所以量子計算機可以通過2種方式破解加密貨幣。其一，量子計算機\n可以對錢包的私鑰進行反向工程。私鑰是在\n隨機的，但是，公鑰是由私鑰生成的。一個量子\n計算機可以逆向工程這個過程，並採取每個人的... ...",
+      "title": "量子計算機可能會比之前想象的更早打破比特幣。IBM希望在2023年之前擁有一臺1000qubit的計算機。"
+    }
+  ]
 }
