@@ -136,5 +136,15 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1613794297,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "BitPay现在要求小额交易的KYC。商家请停止使用BitPay，安装BTCPayServer直接接收比特币到自己的钱包。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "BitPay現在要求小額交易的KYC。商家請停止使用BitPay，安裝BTCPayServer直接接收比特幣到自己的錢包。"
+    }
+  ]
 }
