@@ -88,5 +88,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-20T08:09:20Z"
+  "original_createdAt": "2021-02-20T08:09:20Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "随着新的苹果Silicon Mac的推出，很多人都想了解特定应用的兼容性，然而，由于Mac上可以运行的应用有数千种，因此在购买苹果Silicon Mac之前，很难知道你需要的应用是否兼容。",
+      "tagline": "在购买M1 Mac之前，请测试您的应用程序的兼容性。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "隨着新的蘋果Silicon Mac的推出，很多人都想了解特定應用的兼容性，然而，由於Mac上可以運行的應用有數千種，因此在購買蘋果Silicon Mac之前，很難知道你需要的應用是否兼容。",
+      "tagline": "在購買M1 Mac之前，請測試您的應用程序的兼容性。"
+    }
+  ]
 }
