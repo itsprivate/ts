@@ -108,5 +108,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1613795815,
-  "the_new_excerpt": "It is my best drunk impulse. Basically just eat Taco Bell and buy Bitcoin."
+  "the_new_excerpt": "It is my best drunk impulse. Basically just eat Taco Bell and buy Bitcoin.",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这是我酒后最好的冲动。基本上就是吃塔克钟，买比特币。",
+      "title": "每次我喝醉了，我就买更多的比特币。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這是我酒後最好的衝動。基本上就是喫塔克鍾，買比特幣。",
+      "title": "每次我喝醉了，我就買更多的比特幣。"
+    }
+  ]
 }
