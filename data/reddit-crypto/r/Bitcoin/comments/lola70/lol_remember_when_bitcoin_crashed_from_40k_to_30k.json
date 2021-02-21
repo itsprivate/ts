@@ -110,5 +110,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1613869052,
-  "the_new_excerpt": "Seems like just yesterday."
+  "the_new_excerpt": "Seems like just yesterday.",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "好像就在昨天。",
+      "title": "Lol，还记得三周前，比特币从4万块钱 \"崩盘 \"到3万块钱吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "好像就在昨天。",
+      "title": "Lol，還記得三週前，比特幣從4萬塊錢 \"崩盤 \"到3萬塊錢嗎？"
+    }
+  ]
 }
