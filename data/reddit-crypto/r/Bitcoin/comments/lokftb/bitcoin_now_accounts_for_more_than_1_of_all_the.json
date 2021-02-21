@@ -103,5 +103,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1613866320,
-  "the_new_excerpt": "This includes: coins, banknotes and savings and deposit accounts."
+  "the_new_excerpt": "This includes: coins, banknotes and savings and deposit accounts.",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "其中包括：硬币、纸币和储蓄存款账户。",
+      "title": "比特币现在占世界上所有货币的1%以上。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "其中包括：硬幣、紙幣和儲蓄存款賬戶。",
+      "title": "比特幣現在佔世界上所有貨幣的1%以上。"
+    }
+  ]
 }
