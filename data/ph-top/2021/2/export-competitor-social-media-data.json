@@ -78,5 +78,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-21T15:21:02Z"
+  "original_createdAt": "2021-02-21T15:21:02Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "一个小工具，用于将竞争对手的社交媒体分析数据导出为csv和xlsx。该工具主要是免费的，但我们有一个9美元/月的高级版本，Facebook页面和hashtag/位置数据很快就可以使用。",
+      "tagline": "将社交媒体数据转化为CSV和XLSX格式。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個小工具，用於將競爭對手的社交媒體分析數據導出爲csv和xlsx。該工具主要是免費的，但我們有一個9美元/月的高級版本，Facebook頁面和hashtag/位置數據很快就可以使用。",
+      "tagline": "將社交媒體數據轉化爲CSV和XLSX格式。"
+    }
+  ]
 }
