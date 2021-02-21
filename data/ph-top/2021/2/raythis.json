@@ -57,5 +57,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-21T08:16:05Z"
+  "original_createdAt": "2021-02-21T08:16:05Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "⚠️不隶属于Ray.so⚠️Ray.so是一个漂亮的代码片段生成器，你可以用它来展示你的代码，现在你可以不离开你的代码编辑器就能使用它! 只要高亮显示你要上传的代码，然后在VSCode中运行RayThis命令就可以了! 🚀📷",
+      "tagline": "从VSCode中直接生成漂亮的代码片段。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "⚠️不隸屬於Ray.so⚠️Ray.so是一個漂亮的代碼片段生成器，你可以用它來展示你的代碼，現在你可以不離開你的代碼編輯器就能使用它! 只要高亮顯示你要上傳的代碼，然後在VSCode中運行RayThis命令就可以了! 🚀📷",
+      "tagline": "從VSCode中直接生成漂亮的代碼片段。"
+    }
+  ]
 }
