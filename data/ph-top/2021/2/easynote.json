@@ -97,5 +97,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-21T12:21:38Z"
+  "original_createdAt": "2021-02-21T12:21:38Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Easynote 是一个可定制的生产力和工作管理平台，可扩展到任何团队或项目。它允许你在一个地方组织一切。",
+      "tagline": "一个工具可以在一个地方管理你所有的工作"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Easynote 是一個可定製的生產力和工作管理平臺，可擴展到任何團隊或項目。它允許你在一個地方組織一切。",
+      "tagline": "一個工具可以在一個地方管理你所有的工作"
+    }
+  ]
 }
