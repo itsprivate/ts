@@ -149,5 +149,15 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1613867558,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "这将是很好的一个警告"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這將是很好的一個警告"
+    }
+  ]
 }

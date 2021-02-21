@@ -91,5 +91,15 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Sun Feb 21 10:11:40 +0000 2021"
+  "original_created_at": "Sun Feb 21 10:11:40 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "冠状病毒。根据以色列卫生部的数据，辉瑞公司的冠状病毒疫苗在第二剂后14天内能有效降低死亡率，有效率达98.9%。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "冠狀病毒。根據以色列衛生部的數據，輝瑞公司的冠狀病毒疫苗在第二劑後14天內能有效降低死亡率，有效率達98.9%。"
+    }
+  ]
 }
