@@ -102,5 +102,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1613497432,
-  "the_new_excerpt": "Why YSK: It's very useful to find a movie which can be unfindable on YouTube"
+  "the_new_excerpt": "Why YSK: It's very useful to find a movie which can be unfindable on YouTube",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么选择YSK：在YouTube上找不到的电影非常有用。",
+      "title": "YSK 您可以通过谷歌搜索 \"site:drive.google.com MOVIE NAME \"来搜索Google Drive上的电影。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼選擇YSK：在YouTube上找不到的電影非常有用。",
+      "title": "YSK 您可以通過谷歌搜索 \"site:drive.google.com MOVIE NAME \"來搜索Google Drive上的電影。"
+    }
+  ]
 }
