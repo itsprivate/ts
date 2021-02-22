@@ -68,5 +68,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-22T08:10:00Z"
+  "original_createdAt": "2021-02-22T08:10:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "FlutterFlow是一个在线无代码平台，它让人们能够可视化地构建原生移动应用，实现快速迭代。与其他无代码工具不同的是，FlutterFlow可以轻松查看和导出干净的Flutter代码，并可以进行定制。",
+      "tagline": "视觉上构建跨平台的Flutter移动应用。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "FlutterFlow是一個在線無代碼平臺，它讓人們能夠可視化地構建原生移動應用，實現快速迭代。與其他無代碼工具不同的是，FlutterFlow可以輕鬆查看和導出乾淨的Flutter代碼，並可以進行定製。",
+      "tagline": "視覺上構建跨平臺的Flutter移動應用。"
+    }
+  ]
 }
