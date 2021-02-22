@@ -58,5 +58,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-22T08:28:03Z"
+  "original_createdAt": "2021-02-22T08:28:03Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "CLIP Playground让你从浏览器中测试OpenAI的新模型CLIP。CLIP是一个类似于GPT-3的AI，你可以用它来执行各种图像和文本配对的任务。",
+      "tagline": "OpenAI的CLIP模型在你的浏览器中，就像GPT-3的图像一样。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "CLIP Playground讓你從瀏覽器中測試OpenAI的新模型CLIP。CLIP是一個類似於GPT-3的AI，你可以用它來執行各種圖像和文本配對的任務。",
+      "tagline": "OpenAI的CLIP模型在你的瀏覽器中，就像GPT-3的圖像一樣。"
+    }
+  ]
 }
