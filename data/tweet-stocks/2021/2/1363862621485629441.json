@@ -196,5 +196,17 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Mon Feb 22 14:46:02 +0000 2021"
+  "original_created_at": "Mon Feb 22 14:46:02 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @SarahPonczek: S&amp;P 500指数连续5天下跌。自2020年2月以来还没有发生过这种情况👀。",
+      "retweeted_status_full_text": "S&amp;P 500指数连续5天下跌。自2020年2月以来还没有发生过这种情况👀。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @SarahPonczek: S&amp;P 500指數連續5天下跌。自2020年2月以來還沒有發生過這種情況👀。",
+      "retweeted_status_full_text": "S&amp;P 500指數連續5天下跌。自2020年2月以來還沒有發生過這種情況👀。"
+    }
+  ]
 }
