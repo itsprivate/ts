@@ -103,5 +103,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-22T08:01:00Z"
+  "original_createdAt": "2021-02-22T08:01:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "第一款一体化的Clubhouse管理平台。MVP版的Direcon是为了解决在Clubhouse上管理房间的人的迫切问题 比如缺乏对房间的了解和有限的管理选择。",
+      "tagline": "一体化会所管理平台"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "第一款一體化的Clubhouse管理平臺。MVP版的Direcon是爲了解決在Clubhouse上管理房間的人的迫切問題 比如缺乏對房間的瞭解和有限的管理選擇。",
+      "tagline": "一體化會所管理平臺"
+    }
+  ]
 }
