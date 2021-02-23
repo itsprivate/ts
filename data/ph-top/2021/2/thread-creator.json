@@ -73,5 +73,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-23T08:30:30Z"
+  "original_createdAt": "2021-02-23T08:30:30Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "简单、轻松地创建、组织和安排你的Twitter主题。通过设置日期和时间自动发布您的主题。启用自动转发，设置推文之间的时间间隔，等等。",
+      "tagline": "创建和安排Twitter主题的最佳方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡單、輕鬆地創建、組織和安排你的Twitter主題。通過設置日期和時間自動發佈您的主題。啓用自動轉發，設置推文之間的時間間隔，等等。",
+      "tagline": "創建和安排Twitter主題的最佳方法"
+    }
+  ]
 }
