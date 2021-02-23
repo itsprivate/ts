@@ -91,5 +91,15 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Tue Feb 23 20:35:28 +0000 2021"
+  "original_created_at": "Tue Feb 23 20:35:28 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "这是新的规则。\n\n浸泡时间为6分钟\n\n回调持续6小时\n\n最后6天的更正\n\n熊市持续6周"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "這是新的規則。\n\n浸泡時間爲6分鐘\n\n回調持續6小時\n\n最後6天的更正\n\n熊市持續6周"
+    }
+  ]
 }
