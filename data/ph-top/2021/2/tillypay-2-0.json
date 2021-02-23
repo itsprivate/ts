@@ -68,5 +68,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-23T09:28:19Z"
+  "original_createdAt": "2021-02-23T09:28:19Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "TillyPay是一个强大的无代码支付平台，由Stripe提供支持。🔧 在几秒钟内建立漂亮的结账。💳收集120多种货币的经常性付款。🍏 接受所有主要的卡，包括 Apple Pay。🪟 在门户网站下管理所有客户。",
+      "tagline": "无需编码的计费平台，全部在自己的域名下。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "TillyPay是一個強大的無代碼支付平臺，由Stripe提供支持。🔧 在幾秒鐘內建立漂亮的結賬。💳收集120多種貨幣的經常性付款。🍏 接受所有主要的卡，包括 Apple Pay。🪟 在門戶網站下管理所有客戶。",
+      "tagline": "無需編碼的計費平臺，全部在自己的域名下。"
+    }
+  ]
 }
