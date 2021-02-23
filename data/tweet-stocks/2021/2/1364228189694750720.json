@@ -362,5 +362,17 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Tue Feb 23 14:58:41 +0000 2021"
+  "original_created_at": "Tue Feb 23 14:58:41 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @kgreifeld：纳斯达克100指数已经抹去了2021年的涨幅https://t.co/haajKDiHEf。",
+      "retweeted_status_full_text": "纳斯达克100指数已经抹去了2021年的收益https://t.co/haajKDiHEf。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @kgreifeld：納斯達克100指數已經抹去了2021年的漲幅https://t.co/haajKDiHEf。",
+      "retweeted_status_full_text": "納斯達克100指數已經抹去了2021年的收益https://t.co/haajKDiHEf。"
+    }
+  ]
 }
