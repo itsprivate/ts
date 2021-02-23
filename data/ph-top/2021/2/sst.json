@@ -68,5 +68,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-23T08:15:00Z"
+  "original_createdAt": "2021-02-23T08:15:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "SST(Serverless Stack)是一个可以轻松构建无服务器应用的框架。它的特点是 ",
+      "tagline": "在您的无服务器应用程序上实时工作"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "SST(Serverless Stack)是一個可以輕鬆構建無服務器應用的框架。它的特點是 ",
+      "tagline": "在您的無服務器應用程序上實時工作"
+    }
+  ]
 }
