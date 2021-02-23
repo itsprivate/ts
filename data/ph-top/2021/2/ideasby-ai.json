@@ -68,5 +68,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-23T08:28:29Z"
+  "original_createdAt": "2021-02-23T08:28:29Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "由A.I.生成的内容创意，寻找会所房间、博客文章和视频的灵感。由OpenAI的GPT-3提供支持。",
+      "tagline": "内容创意由A.I.产生。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "由A.I.生成的內容創意，尋找會所房間、博客文章和視頻的靈感。由OpenAI的GPT-3提供支持。",
+      "tagline": "內容創意由A.I.產生。"
+    }
+  ]
 }
