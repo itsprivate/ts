@@ -101,5 +101,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1614058653,
-  "the_new_excerpt": "HOW DOES THIS WORK?\n\nThese forecasts are produced by machine learning models trained on past closing\nprice data. Essentially the models try to learn the underlying dynamics of the\nclosing price and then project future closing price based on that. They are by\ndefinition not sensitive to any company…"
+  "the_new_excerpt": "HOW DOES THIS WORK?\n\nThese forecasts are produced by machine learning models trained on past closing\nprice data. Essentially the models try to learn the underlying dynamics of the\nclosing price and then project future closing price based on that. They are by\ndefinition not sensitive to any company…",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "如何工作？\n\n这些预测是由机器学习模型根据过去的收盘价训练出来的。\n价格数据。本质上，模型试图学习基本的动态。\n收盘价，然后根据这个价格来预测未来的收盘价。它们是由\n定义对任何公司都不敏感...",
+      "title": "我开发了一个机器学习预测系统来预测未来的股票价格。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "如何工作？\n\n這些預測是由機器學習模型根據過去的收盤價訓練出來的。\n價格數據。本質上，模型試圖學習基本的動態。\n收盤價，然後根據這個價格來預測未來的收盤價。它們是由\n定義對任何公司都不敏感...",
+      "title": "我開發了一個機器學習預測系統來預測未來的股票價格。"
+    }
+  ]
 }
