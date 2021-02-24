@@ -68,5 +68,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-23T11:19:19Z"
+  "original_createdAt": "2021-02-23T11:19:19Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "doodad.dev是一个让互联网更快、更方便、更有表现力的工具网站。图案生成器可以帮助你制作无缝、独特、免版税的图案。你可以导出为SVG、JPEG或PNG格式。它永远免费，没有跟踪等。享受吧!",
+      "tagline": "创建独特、无缝、免版税的图案"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "doodad.dev是一個讓互聯網更快、更方便、更有表現力的工具網站。圖案生成器可以幫助你製作無縫、獨特、免版稅的圖案。你可以導出爲SVG、JPEG或PNG格式。它永遠免費，沒有跟蹤等。享受吧!",
+      "tagline": "創建獨特、無縫、免版稅的圖案"
+    }
+  ]
 }
