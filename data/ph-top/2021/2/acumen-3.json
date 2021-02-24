@@ -83,5 +83,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-24T14:30:00Z"
+  "original_createdAt": "2021-02-24T14:30:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Acumen是开发团队按时交付高质量软件的秘密武器。该平台统一并分析工程数据，以创建团队活动的高分辨率图像，并推荐避免风险和提高生产力的步骤。",
+      "tagline": "软件工程团队的GPS"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Acumen是開發團隊按時交付高質量軟件的祕密武器。該平臺統一併分析工程數據，以創建團隊活動的高分辨率圖像，並推薦避免風險和提高生產力的步驟。",
+      "tagline": "軟件工程團隊的GPS"
+    }
+  ]
 }
