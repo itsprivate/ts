@@ -88,5 +88,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-24T08:38:05Z"
+  "original_createdAt": "2021-02-24T08:38:05Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "DocAcquire通过从任何文档中提取数据，消除了手动数据输入，并使其更快可用。",
+      "tagline": "更快地从任何文档中提取数据"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "DocAcquire通過從任何文檔中提取數據，消除了手動數據輸入，並使其更快可用。",
+      "tagline": "更快地從任何文檔中提取數據"
+    }
+  ]
 }
