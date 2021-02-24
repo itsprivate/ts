@@ -93,5 +93,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-24T10:08:35Z"
+  "original_createdAt": "2021-02-24T10:08:35Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "SigNoz是DataDog的开源替代产品。我们帮助开发人员发现他们在云上运行的软件中的问题，并快速解决这些问题。在您的基础架构中运行SigNoz，并以10倍的成本获得您的应用程序监控设置。",
+      "tagline": "Datadog的开源替代品"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "SigNoz是DataDog的開源替代產品。我們幫助開發人員發現他們在雲上運行的軟件中的問題，並快速解決這些問題。在您的基礎架構中運行SigNoz，並以10倍的成本獲得您的應用程序監控設置。",
+      "tagline": "Datadog的開源替代品"
+    }
+  ]
 }
