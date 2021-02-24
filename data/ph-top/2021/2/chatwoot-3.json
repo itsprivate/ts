@@ -83,5 +83,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-24T08:10:00Z"
+  "original_createdAt": "2021-02-24T08:10:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Chatwoot是一个开源的全渠道沟通平台，作为Intercom、Zendesk等的替代品。Chatwoot可以帮助你连接电子邮件、网站即时聊天、社交媒体手柄、WhatsApp等，从一个地方管理所有的客户互动。",
+      "tagline": "开源客户沟通平台"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Chatwoot是一個開源的全渠道溝通平臺，作爲Intercom、Zendesk等的替代品。Chatwoot可以幫助你連接電子郵件、網站即時聊天、社交媒體手柄、WhatsApp等，從一個地方管理所有的客戶互動。",
+      "tagline": "開源客戶溝通平臺"
+    }
+  ]
 }
