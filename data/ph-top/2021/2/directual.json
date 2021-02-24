@@ -68,5 +68,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-24T15:00:00Z"
+  "original_createdAt": "2021-02-24T15:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Directual是唯一的无代码平台，它结合了传统编码的灵活性、可扩展性和安全性，以及现代的可视化开发方法。您可以使用Directual构建可扩展、安全和复杂的应用程序。",
+      "tagline": "无码格式的编码能力"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Directual是唯一的無代碼平臺，它結合了傳統編碼的靈活性、可擴展性和安全性，以及現代的可視化開發方法。您可以使用Directual構建可擴展、安全和複雜的應用程序。",
+      "tagline": "無碼格式的編碼能力"
+    }
+  ]
 }
