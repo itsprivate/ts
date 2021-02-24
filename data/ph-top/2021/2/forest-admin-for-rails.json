@@ -88,5 +88,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-24T08:05:00Z"
+  "original_createdAt": "2021-02-24T08:05:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "在一分钟内为您的Rails应用程序建立一个管理面板。没有代码，没有麻烦--免费试用Forest Admin，节省时间和金钱。",
+      "tagline": "为Ruby on Rails应用程序提供功能齐全的管理面板。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在一分鐘內爲您的Rails應用程序建立一個管理面板。沒有代碼，沒有麻煩--免費試用Forest Admin，節省時間和金錢。",
+      "tagline": "爲Ruby on Rails應用程序提供功能齊全的管理面板。"
+    }
+  ]
 }
