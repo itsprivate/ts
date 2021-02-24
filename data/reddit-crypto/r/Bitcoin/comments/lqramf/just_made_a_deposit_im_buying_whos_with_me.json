@@ -103,5 +103,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1614109872,
-  "the_new_excerpt": "Let’s go! Such a good opportunity."
+  "the_new_excerpt": "Let’s go! Such a good opportunity.",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我们走吧！这么好的机会",
+      "title": "只是做了一个存款。我买了。谁跟我一起去？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我們走吧！這麼好的機會",
+      "title": "只是做了一個存款。我買了。誰跟我一起去？"
+    }
+  ]
 }
