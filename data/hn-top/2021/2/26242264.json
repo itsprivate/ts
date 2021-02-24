@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-02-23T20:10:55.000Z",
-  "image": "https://doesnotexist.codes/messlab.png"
+  "image": "https://doesnotexist.codes/messlab.png",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "试着猜测代码是真实的还是GPT2生成的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "試着猜測代碼是真實的還是GPT2生成的。"
+    }
+  ]
 }
