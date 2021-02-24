@@ -93,5 +93,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-24T08:15:53Z"
+  "original_createdAt": "2021-02-24T08:15:53Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Hasura通过实时的GraphQL和REST API使数据可即时访问，帮助开发者和组织更快地构建和发布现代应用程序和API。",
+      "tagline": "为您的所有数据提供即时的实时GraphQL"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Hasura通過實時的GraphQL和REST API使數據可即時訪問，幫助開發者和組織更快地構建和發佈現代應用程序和API。",
+      "tagline": "爲您的所有數據提供即時的實時GraphQL"
+    }
+  ]
 }
