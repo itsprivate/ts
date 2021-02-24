@@ -78,5 +78,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-23T09:11:23Z"
+  "original_createdAt": "2021-02-23T09:11:23Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Go Mail Merge使您能够轻松地从Google Sheets发送带有个性化附件的批量个性化电子邮件。使用Gmail和Google Sheets创建电子邮件活动。个性化和跟踪每封邮件的发送。",
+      "tagline": "发送带有个性化附件的批量个性化电子邮件。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Go Mail Merge使您能夠輕鬆地從Google Sheets發送帶有個性化附件的批量個性化電子郵件。使用Gmail和Google Sheets創建電子郵件活動。個性化和跟蹤每封郵件的發送。",
+      "tagline": "發送帶有個性化附件的批量個性化電子郵件。"
+    }
+  ]
 }
