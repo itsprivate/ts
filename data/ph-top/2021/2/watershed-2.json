@@ -68,5 +68,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-25T08:00:00Z"
+  "original_createdAt": "2021-02-25T08:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Watershed是一个运行世界级气候项目的软件平台。在数周内，而不是数年内，开始减少贵公司的碳足迹。",
+      "tagline": "帮助企业减少碳排放"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Watershed是一個運行世界級氣候項目的軟件平臺。在數週內，而不是數年內，開始減少貴公司的碳足跡。",
+      "tagline": "幫助企業減少碳排放"
+    }
+  ]
 }
