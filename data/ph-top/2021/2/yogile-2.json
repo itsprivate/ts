@@ -96,5 +96,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-24T08:01:00Z"
+  "original_createdAt": "2021-02-24T08:01:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Yogile是一款时尚的照片管理应用，它可以让你存储无限数量的照片，而不用担心手机或电脑的存储空间不够用。",
+      "tagline": "照片存储简化"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Yogile是一款時尚的照片管理應用，它可以讓你存儲無限數量的照片，而不用擔心手機或電腦的存儲空間不夠用。",
+      "tagline": "照片存儲簡化"
+    }
+  ]
 }
