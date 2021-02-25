@@ -82,5 +82,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-24T10:05:06Z"
+  "original_createdAt": "2021-02-24T10:05:06Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "一个可搜索的Airtable数据库，拥有超过200个精选资源，包括模板、论文、文章和框架，以帮助有抱负的PM和初创公司学习产品管理。",
+      "tagline": "200+产品管理学习资源库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個可搜索的Airtable數據庫，擁有超過200個精選資源，包括模板、論文、文章和框架，以幫助有抱負的PM和初創公司學習產品管理。",
+      "tagline": "200+產品管理學習資源庫"
+    }
+  ]
 }
