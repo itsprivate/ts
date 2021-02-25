@@ -100,5 +100,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-24T09:15:26Z"
+  "original_createdAt": "2021-02-24T09:15:26Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "RelaxTax是奥地利的第一个应用程序，能够创建自动报税，并以电子方式提交和跟进奥地利税务机关（FinanzOnline）。它有多种语言版本，目前是德语和英语，以后还会有更多语言版本。",
+      "tagline": "奥地利的简化报税"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "RelaxTax是奧地利的第一個應用程序，能夠創建自動報稅，並以電子方式提交和跟進奧地利稅務機關（FinanzOnline）。它有多種語言版本，目前是德語和英語，以後還會有更多語言版本。",
+      "tagline": "奧地利的簡化報稅"
+    }
+  ]
 }
