@@ -83,5 +83,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-25T08:01:00Z"
+  "original_createdAt": "2021-02-25T08:01:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Octohook是一个无代码的web应用程序，它可以帮助你通过强大的工作流来可视化、调试和重新分配你的webhooks。",
+      "tagline": "通过强大的工作流程来捕捉网钩并发送它们。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Octohook是一個無代碼的web應用程序，它可以幫助你通過強大的工作流來可視化、調試和重新分配你的webhooks。",
+      "tagline": "通過強大的工作流程來捕捉網鉤併發送它們。"
+    }
+  ]
 }
