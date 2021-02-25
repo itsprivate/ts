@@ -101,5 +101,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1614263300,
-  "the_new_excerpt": "Please keep all the comments and opinions about current GME, AMC, etc. here.\nThanks."
+  "the_new_excerpt": "Please keep all the comments and opinions about current GME, AMC, etc. here.\nThanks.",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "关于目前GME、AMC等的意见和看法，请保留在这里。\n谢谢。",
+      "title": "为GME等溢出粘性线。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "關於目前GME、AMC等的意見和看法，請保留在這裏。\n謝謝。",
+      "title": "爲GME等溢出粘性線。"
+    }
+  ]
 }
