@@ -378,5 +378,17 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Wed Feb 24 09:18:47 +0000 2021"
+  "original_created_at": "Wed Feb 24 09:18:47 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @Xentagz: #Bitcoin dip update. https://t.co/OHYpuENivG",
+      "retweeted_status_full_text": "#比特币跌价最新消息。https://t.co/OHYpuENivG"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @Xentagz: #Bitcoin dip update. https://t.co/OHYpuENivG",
+      "retweeted_status_full_text": "#比特幣跌價最新消息。https://t.co/OHYpuENivG"
+    }
+  ]
 }
