@@ -73,5 +73,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-25T16:00:00Z"
+  "original_createdAt": "2021-02-25T16:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Curvenote是一个科学家和工程师的协作写作平台。即时将Jupyter输出整合到客户报告、研究论文或内部文档中，并直接在Jupyter中查看实时评论和版本。",
+      "tagline": "从Jupyter Notebooks中写下、分享和混音想法。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Curvenote是一個科學家和工程師的協作寫作平臺。即時將Jupyter輸出整合到客戶報告、研究論文或內部文檔中，並直接在Jupyter中查看實時評論和版本。",
+      "tagline": "從Jupyter Notebooks中寫下、分享和混音想法。"
+    }
+  ]
 }
