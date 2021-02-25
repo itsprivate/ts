@@ -91,5 +91,15 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Thu Feb 25 13:01:30 +0000 2021"
+  "original_created_at": "Thu Feb 25 13:01:30 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "特斯拉的市值。\n\n两年前：510亿美元\n\n一年前：1460亿美元\n\n现在：6 700亿美元"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "特斯拉的市值。\n\n兩年前：510億美元\n\n一年前：1460億美元\n\n現在：6 700億美元"
+    }
+  ]
 }
