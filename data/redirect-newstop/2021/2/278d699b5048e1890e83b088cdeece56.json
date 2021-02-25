@@ -14,5 +14,15 @@
   "tags": [
     "The New York Times"
   ],
-  "image": "https://static01.nyt.com/images/2021/02/25/world/25japan-noisy-1/25japan-noisy-1-facebookJumbo.jpg"
+  "image": "https://static01.nyt.com/images/2021/02/25/world/25japan-noisy-1/25japan-noisy-1-facebookJumbo.jpg",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "本网站将喧闹的孩子和吵闹的邻居列入地图。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "本網站將喧鬧的孩子和吵鬧的鄰居列入地圖。"
+    }
+  ]
 }
