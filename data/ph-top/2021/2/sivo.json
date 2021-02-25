@@ -78,5 +78,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-25T08:00:00Z"
+  "original_createdAt": "2021-02-25T08:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Sivo提供债务即服务。我们的API允许企业获得债务融资，并大规模地借钱给用户。Sivo得到了Y Combinator（W21）的支持。",
+      "tagline": "获取债务资金，规模化借贷给用户"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Sivo提供債務即服務。我們的API允許企業獲得債務融資，並大規模地借錢給用戶。Sivo得到了Y Combinator（W21）的支持。",
+      "tagline": "獲取債務資金，規模化借貸給用戶"
+    }
+  ]
 }
