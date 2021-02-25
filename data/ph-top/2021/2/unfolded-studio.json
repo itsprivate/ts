@@ -93,5 +93,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-25T08:01:00Z"
+  "original_createdAt": "2021-02-25T08:01:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "🌍 Unfolded Studio是一个地理空间分析平台，可以轻松地拖放大型数据集，从浏览器中创建强大的可视化，并与团队分享。",
+      "tagline": "利用先进的地理空间分析技术探索数据世界。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "🌍 Unfolded Studio是一個地理空間分析平臺，可以輕鬆地拖放大型數據集，從瀏覽器中創建強大的可視化，並與團隊分享。",
+      "tagline": "利用先進的地理空間分析技術探索數據世界。"
+    }
+  ]
 }

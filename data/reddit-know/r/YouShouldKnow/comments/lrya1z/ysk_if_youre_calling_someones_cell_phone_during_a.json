@@ -102,5 +102,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1614227845,
-  "the_new_excerpt": "Why YSK: this can save you in an emergency when you need to get in touch with\nsomeone later than you might typically call."
+  "the_new_excerpt": "Why YSK: this can save you in an emergency when you need to get in touch with\nsomeone later than you might typically call.",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么选择YSK：这可以在紧急情况下拯救你，当你需要联系到你的时候。\n某个人比你通常打电话的时间晚。",
+      "title": "YSK：如果你在深夜的紧急情况下拨打某人的手机，请连续拨打两次。通常这将覆盖收件人可能设置的任何 \"请勿打扰 \"设置。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼選擇YSK：這可以在緊急情況下拯救你，當你需要聯繫到你的時候。\n某個人比你通常打電話的時間晚。",
+      "title": "YSK：如果你在深夜的緊急情況下撥打某人的手機，請連續撥打兩次。通常這將覆蓋收件人可能設置的任何 \"請勿打擾 \"設置。"
+    }
+  ]
 }
