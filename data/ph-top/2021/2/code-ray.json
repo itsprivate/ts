@@ -53,5 +53,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-25T17:42:07Z"
+  "original_createdAt": "2021-02-25T17:42:07Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "有了code-ray，你可以更快、更容易地修复代码中的bug，你可以设置断点来显示不同部分的实时状态。你可以设置断点来显示代码中不同部分的实时状态。code-ray可以链接到GitHub、GitLab和Bitbucket。有一个永久免费的版本。",
+      "tagline": "软件开发人员的实时调试工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有了code-ray，你可以更快、更容易地修復代碼中的bug，你可以設置斷點來顯示不同部分的實時狀態。你可以設置斷點來顯示代碼中不同部分的實時狀態。code-ray可以鏈接到GitHub、GitLab和Bitbucket。有一個永久免費的版本。",
+      "tagline": "軟件開發人員的實時調試工具"
+    }
+  ]
 }
