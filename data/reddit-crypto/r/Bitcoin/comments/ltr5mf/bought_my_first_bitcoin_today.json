@@ -111,5 +111,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1614441898,
-  "the_new_excerpt": "I have been a lurker for the longest time. Finally bought my first Bitcoin\ntoday! 😄"
+  "the_new_excerpt": "I have been a lurker for the longest time. Finally bought my first Bitcoin\ntoday! 😄",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我是一个潜伏时间最长的人。终于买了我的第一个比特币\n今天 😄",
+      "title": "今天买了我的第一个比特币。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我是一個潛伏時間最長的人。終於買了我的第一個比特幣\n今天 😄",
+      "title": "今天買了我的第一個比特幣。"
+    }
+  ]
 }
