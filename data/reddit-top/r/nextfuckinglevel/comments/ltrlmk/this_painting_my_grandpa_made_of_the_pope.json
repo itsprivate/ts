@@ -154,5 +154,15 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1614443271,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "这幅画是我爷爷为教皇画的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這幅畫是我爺爺爲教皇畫的。"
+    }
+  ]
 }
