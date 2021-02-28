@@ -68,5 +68,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-28T08:00:00Z"
+  "original_createdAt": "2021-02-28T08:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "这个设计工具可以帮助开发者为元素生成软UI/Neumorphism的CSS，并实时输出。这为开发者节省了为他们的项目设计软UI的时间 查看工具箱： http://santhoshsivan.com/toolbox.html",
+      "tagline": "面向前端开发的软UI CSS生成器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這個設計工具可以幫助開發者爲元素生成軟UI/Neumorphism的CSS，並實時輸出。這爲開發者節省了爲他們的項目設計軟UI的時間 查看工具箱： http://santhoshsivan.com/toolbox.html",
+      "tagline": "面向前端開發的軟UI CSS生成器"
+    }
+  ]
 }
