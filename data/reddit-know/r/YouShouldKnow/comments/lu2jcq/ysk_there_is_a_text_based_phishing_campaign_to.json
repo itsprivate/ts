@@ -104,5 +104,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1614476789,
-  "the_new_excerpt": "Why YSK: There is currently text bot sending very convincing texts claiming to\nbe Venmo's fraud service. They ask you to follow a link that looks like it's\nVenmo's and sign in. The link uses \"venmo\" as its third level domain so it\nappears legit, but the second level domain is something else meaning…"
+  "the_new_excerpt": "Why YSK: There is currently text bot sending very convincing texts claiming to\nbe Venmo's fraud service. They ask you to follow a link that looks like it's\nVenmo's and sign in. The link uses \"venmo\" as its third level domain so it\nappears legit, but the second level domain is something else meaning…",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么是YSK：目前有短信机器人发送非常有说服力的短信，自称是\n是Venmo的欺诈服务。他们要求你按照一个链接，看起来像它的\nVenmo的和登录。该链接使用 \"venmo \"作为其三级域名，所以它的\n看起来是合法的，但二级域名是别的意思... ...",
+      "title": "YSK有一个基于文本的网络钓鱼活动，以入侵人们的Venmos。如果你收到一个看起来像Venmo的短信，并声称有可疑的活动，报告它。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼是YSK：目前有短信機器人發送非常有說服力的短信，自稱是\n是Venmo的欺詐服務。他們要求你按照一個鏈接，看起來像它的\nVenmo的和登錄。該鏈接使用 \"venmo \"作爲其三級域名，所以它的\n看起來是合法的，但二級域名是別的意思... ...",
+      "title": "YSK有一個基於文本的網絡釣魚活動，以入侵人們的Venmos。如果你收到一個看起來像Venmo的短信，並聲稱有可疑的活動，報告它。"
+    }
+  ]
 }
