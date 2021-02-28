@@ -102,5 +102,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1614485197,
-  "the_new_excerpt": "Sorry but I must know"
+  "the_new_excerpt": "Sorry but I must know",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "对不起，但我必须知道",
+      "title": "在英国，他们把网站cookies叫做网站饼干吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "對不起，但我必須知道",
+      "title": "在英國，他們把網站cookies叫做網站餅乾嗎？"
+    }
+  ]
 }
