@@ -101,5 +101,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1614697976,
-  "the_new_excerpt": "As the title says"
+  "the_new_excerpt": "As the title says",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "正如标题所说",
+      "title": "Petsmart应该读作 \"Pets Mart \"还是 \"Pet Smart\"？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "正如標題所說",
+      "title": "Petsmart應該讀作 \"Pets Mart \"還是 \"Pet Smart\"？"
+    }
+  ]
 }
