@@ -16,6 +16,14 @@ jobs:
       - uses: actions/setup-node@v2-beta
         with:
           node-version: "12"
+      - name: check files
+        uses: actions/github-script@v3
+        with:
+          github-token: ${{ secrets.PERSONAL_TOKEN }}
+          script: |
+            const syncResource = require(`${process.env.GITHUB_WORKSPACE}/scripts/translate-check.js`)
+            await syncResource()
+            return true
       - name: install puppeteer
         run: npm i puppeteer
       - name: Translate
