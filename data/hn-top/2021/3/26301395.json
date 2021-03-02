@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-03-01T10:31:56.000Z",
-  "image": "https://perl.com/images/the_hijack_of_perldotcom/crime.jpg"
+  "image": "https://perl.com/images/the_hijack_of_perldotcom/crime.jpg",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "Perl.com的劫持"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Perl.com的劫持"
+    }
+  ]
 }

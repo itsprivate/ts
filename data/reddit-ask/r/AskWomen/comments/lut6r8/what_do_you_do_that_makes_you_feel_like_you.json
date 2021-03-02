@@ -101,5 +101,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1614553443,
-  "the_new_excerpt": "What activities etc do you feel truly yourself doing."
+  "the_new_excerpt": "What activities etc do you feel truly yourself doing.",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你觉得真正的自己在做什么活动等。",
+      "title": "你做了什么让你觉得是你？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你覺得真正的自己在做什麼活動等。",
+      "title": "你做了什麼讓你覺得是你？"
+    }
+  ]
 }

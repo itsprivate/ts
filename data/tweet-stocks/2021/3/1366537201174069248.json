@@ -205,5 +205,17 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Mon Mar 01 23:53:52 +0000 2021"
+  "original_created_at": "Mon Mar 01 23:53:52 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @jack: 🏦现在开放https://t.co/8MoWvUDny0。",
+      "retweeted_status_full_text": "🏦现在开放https://t.co/8MoWvUDny0。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @jack: 🏦現在開放https://t.co/8MoWvUDny0。",
+      "retweeted_status_full_text": "🏦現在開放https://t.co/8MoWvUDny0。"
+    }
+  ]
 }

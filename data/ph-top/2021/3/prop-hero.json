@@ -63,5 +63,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-02T08:01:00Z"
+  "original_createdAt": "2021-03-02T08:01:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Prop Hero是一个互动游戏平台，让体育直播的粉丝们在观看的同时，通过正确预测将要发生的事情来进行竞争。Prop Hero可以嵌入到直播流中，也可以作为第二屏体验使用。",
+      "tagline": "体育直播的互动预测游戏"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Prop Hero是一個互動遊戲平臺，讓體育直播的粉絲們在觀看的同時，通過正確預測將要發生的事情來進行競爭。Prop Hero可以嵌入到直播流中，也可以作爲第二屏體驗使用。",
+      "tagline": "體育直播的互動預測遊戲"
+    }
+  ]
 }
