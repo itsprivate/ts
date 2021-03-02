@@ -18,6 +18,8 @@ jobs:
           node-version: "12"
       - name: check files
         uses: actions/github-script@v3
+        env:
+          PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
         with:
           github-token: ${{ secrets.PERSONAL_TOKEN }}
           script: |

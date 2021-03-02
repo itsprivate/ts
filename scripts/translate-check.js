@@ -18,9 +18,9 @@ const main = async () => {
         const message = `翻译源文件出错,错误文件:${jsonPath} , 错误内容: ${e.message}`;
         // report
         https.get(
-          `https://webhook.actionsflow.workers.dev/theowenyoung/actionsflow-workflow/notice/webhook?__token=f76ec09d038d018ff33180a1955e5eac956080bf&message=${encodeURIComponent(
-            message
-          )}`
+          `https://webhook.actionsflow.workers.dev/theowenyoung/actionsflow-workflow/notice/webhook?__token=${
+            process.env.PERSONAL_TOKEN
+          }&message=${encodeURIComponent(message)}`
         );
         throw e;
       }
