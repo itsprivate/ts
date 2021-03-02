@@ -23,7 +23,7 @@ jobs:
         with:
           github-token: ${{ secrets.PERSONAL_TOKEN }}
           script: |
-            const syncResource = require(`${process.env.GITHUB_WORKSPACE}/scripts/translate-check.js`)
+            const syncResource = require(`${process.env.GITHUB_WORKSPACE}/scripts/translate-check-module.js`)
             await syncResource()
             return true
       - name: install puppeteer
