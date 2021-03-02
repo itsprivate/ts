@@ -88,5 +88,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-02T08:41:19Z"
+  "original_createdAt": "2021-03-02T08:41:19Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Repl.it Teams for Education是一个实时协作的编码环境，教师和学生可以用50多种语言编写代码。教师可以创建课程，促进配对编码组，提供即时代码反馈与注释和签名。",
+      "tagline": "为教师和学生提供零设置的协作式云IDE"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Repl.it Teams for Education是一個實時協作的編碼環境，教師和學生可以用50多種語言編寫代碼。教師可以創建課程，促進配對編碼組，提供即時代碼反饋與註釋和簽名。",
+      "tagline": "爲教師和學生提供零設置的協作式雲IDE"
+    }
+  ]
 }
