@@ -82,5 +82,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-02T09:18:23Z"
+  "original_createdAt": "2021-03-02T09:18:23Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Sprint Poker是一个直观的，轻量级的估算工具，适合你现有的Jira工作流程。🗳️ 估算可以自动同步回Jira 🃏 交互式卡片和自定义估算尺度 ⏰ 对分布式团队的同步友好。",
+      "tagline": "远程将规划扑克带入生活"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Sprint Poker是一個直觀的，輕量級的估算工具，適合你現有的Jira工作流程。🗳️ 估算可以自動同步回Jira 🃏 交互式卡片和自定義估算尺度 ⏰ 對分佈式團隊的同步友好。",
+      "tagline": "遠程將規劃撲克帶入生活"
+    }
+  ]
 }
