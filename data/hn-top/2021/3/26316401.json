@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-03-02T15:40:32.000Z",
-  "image": "https://pixeljets.com/blog/content/images/2021/02/demo2--1-.gif"
+  "image": "https://pixeljets.com/blog/content/images/2021/02/demo2--1-.gif",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "ClickHouse作为替代Elasticsearch的日志存储和分析。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "ClickHouse作爲替代Elasticsearch的日誌存儲和分析。"
+    }
+  ]
 }
