@@ -291,5 +291,17 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Mon Mar 01 13:33:35 +0000 2021"
+  "original_created_at": "Mon Mar 01 13:33:35 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @carlquintanilla：花旗银行有一份新的，长达108页的关于#比特币的报告，该报告的结论是加密货币 \"正处于一个临界点，我们可能会...",
+      "retweeted_status_full_text": "花旗银行有一份关于#比特币#的新报告，长达108页，报告的结论是加密货币 \"正处于一个临界点，我们可能是加密货币大规模转变为主流的开始。\" https://t.co/D3WxigW4zI。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @carlquintanilla：花旗銀行有一份新的，長達108頁的關於#比特幣的報告，該報告的結論是加密貨幣 \"正處於一個臨界點，我們可能會...",
+      "retweeted_status_full_text": "花旗銀行有一份關於#比特幣#的新報告，長達108頁，報告的結論是加密貨幣 \"正處於一個臨界點，我們可能是加密貨幣大規模轉變爲主流的開始。\" https://t.co/D3WxigW4zI。"
+    }
+  ]
 }

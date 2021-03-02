@@ -78,5 +78,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-01T08:01:00Z"
+  "original_createdAt": "2021-03-01T08:01:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Straw.Page是一款极其简单的网站建设工具，专注于创意。你可以用它直接从你的手机上设计出很棒的网站。",
+      "tagline": "极为简单的网站建设者"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Straw.Page是一款極其簡單的網站建設工具，專注於創意。你可以用它直接從你的手機上設計出很棒的網站。",
+      "tagline": "極爲簡單的網站建設者"
+    }
+  ]
 }

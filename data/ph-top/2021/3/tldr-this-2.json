@@ -101,5 +101,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-01T08:20:00Z"
+  "original_createdAt": "2021-03-01T08:20:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "TLDR这是一个网络应用（+chrome扩展），可以帮助你把任何一段文字总结成简洁、易消化的内容，让你从信息过载中解放出来。",
+      "tagline": "一键自动总结任何文章或网页。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "TLDR這是一個網絡應用（+chrome擴展），可以幫助你把任何一段文字總結成簡潔、易消化的內容，讓你從信息過載中解放出來。",
+      "tagline": "一鍵自動總結任何文章或網頁。"
+    }
+  ]
 }

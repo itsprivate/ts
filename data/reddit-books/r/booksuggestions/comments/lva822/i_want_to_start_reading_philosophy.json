@@ -103,5 +103,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1614608054,
-  "the_new_excerpt": "Hello I just recently decided to get into philosophy ,Any tips on where to start"
+  "the_new_excerpt": "Hello I just recently decided to get into philosophy ,Any tips on where to start",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你好，我最近决定进入哲学，任何提示在哪里开始。",
+      "title": "我想开始读哲学"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你好，我最近決定進入哲學，任何提示在哪裏開始。",
+      "title": "我想開始讀哲學"
+    }
+  ]
 }

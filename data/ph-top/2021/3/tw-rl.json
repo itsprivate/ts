@@ -108,5 +108,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-01T09:15:07Z"
+  "original_createdAt": "2021-03-01T09:15:07Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "tw-rl是一款先进的twitter书签和策划工具。一旦连接起来，就可以轻松地展示tweet媒体或将线程 \"循环 \"在一起。使用案例：组合、博客、心情板、灵感库。",
+      "tagline": "策划Twitter。保存和组织推文或线程"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "tw-rl是一款先進的twitter書籤和策劃工具。一旦連接起來，就可以輕鬆地展示tweet媒體或將線程 \"循環 \"在一起。使用案例：組合、博客、心情板、靈感庫。",
+      "tagline": "策劃Twitter。保存和組織推文或線程"
+    }
+  ]
 }

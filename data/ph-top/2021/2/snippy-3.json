@@ -58,5 +58,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-28T08:00:00Z"
+  "original_createdAt": "2021-02-28T08:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "通过使用Snippy！直接在谷歌浏览器中保存和管理您的代码片段。",
+      "tagline": "在Chrome中管理您的代码段"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "通過使用Snippy！直接在谷歌瀏覽器中保存和管理您的代碼片段。",
+      "tagline": "在Chrome中管理您的代碼段"
+    }
+  ]
 }

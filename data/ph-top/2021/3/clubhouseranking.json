@@ -73,5 +73,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-01T08:00:00Z"
+  "original_createdAt": "2021-03-01T08:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "会所上最受欢迎的用户、房间和活动的排名。",
+      "tagline": "全球首个会所排名和分析平台。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "會所上最受歡迎的用戶、房間和活動的排名。",
+      "tagline": "全球首個會所排名和分析平臺。"
+    }
+  ]
 }

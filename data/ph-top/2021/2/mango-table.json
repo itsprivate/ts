@@ -93,5 +93,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-02-28T14:11:44Z"
+  "original_createdAt": "2021-02-28T14:11:44Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "芒果台是立体项目管理服务。我们的服务专注于表达三维关系，如包含关系、优先级等，并将同时进行的项目可视化。获取更多信息请访问我们的https://mangotable.me。",
+      "tagline": "视觉化、层次化、关系型项目经理"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "芒果臺是立體項目管理服務。我們的服務專注於表達三維關係，如包含關係、優先級等，並將同時進行的項目可視化。獲取更多信息請訪問我們的https://mangotable.me。",
+      "tagline": "視覺化、層次化、關係型項目經理"
+    }
+  ]
 }

@@ -36,5 +36,15 @@
     }
   },
   "original_created_at": "2021-02-28T09:30:31.000Z",
-  "image": "https://atodorov.me/img/nomad/kubernetes.jpg#center"
+  "image": "https://atodorov.me/img/nomad/kubernetes.jpg#center",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "在跳上Kubernetes之前，先看看Nomad。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在跳上Kubernetes之前，先看看Nomad。"
+    }
+  ]
 }
