@@ -140,5 +140,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1614699370,
-  "the_new_excerpt": "just for you."
+  "the_new_excerpt": "just for you.",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "只为你。",
+      "title": "妈的，这是你每天的GME话题--超级话题3/2/21"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "只爲你。",
+      "title": "媽的，這是你每天的GME話題--超級話題3/2/21"
+    }
+  ]
 }
