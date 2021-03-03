@@ -112,5 +112,15 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Tue Mar 02 23:43:24 +0000 2021"
+  "original_created_at": "Tue Mar 02 23:43:24 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "自动语法检查器难以分析的句子，正是因为它们不符合语法https://t.co/DfL4MylcqW。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "自動語法檢查器難以分析的句子，正是因爲它們不符合語法https://t.co/DfL4MylcqW。"
+    }
+  ]
 }
