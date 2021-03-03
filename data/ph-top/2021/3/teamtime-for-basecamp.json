@@ -96,5 +96,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-02T09:11:00Z"
+  "original_createdAt": "2021-03-02T09:11:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "TeamTime是专门为https://basecamp.com 用户设计的最简单、最精简、最安全的时间记录工具（移动和网络）。我们在与其他工具斗争后，为https://www.clearbluedesign.com/ourselves 创建了它。我们把它与你分享。",
+      "tagline": "使用Basecamp的团队的时间跟踪"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "TeamTime是專門爲https://basecamp.com 用戶設計的最簡單、最精簡、最安全的時間記錄工具（移動和網絡）。我們在與其他工具鬥爭後，爲https://www.clearbluedesign.com/ourselves 創建了它。我們把它與你分享。",
+      "tagline": "使用Basecamp的團隊的時間跟蹤"
+    }
+  ]
 }
