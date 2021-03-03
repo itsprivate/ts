@@ -67,5 +67,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-02T09:38:35Z"
+  "original_createdAt": "2021-03-02T09:38:35Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "一个从文本中快速制作流程图的小程序⿻。",
+      "tagline": "一个从文本生成流程图的开源工具。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個從文本中快速製作流程圖的小程序⿻。",
+      "tagline": "一個從文本生成流程圖的開源工具。"
+    }
+  ]
 }
