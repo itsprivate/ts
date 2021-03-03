@@ -83,5 +83,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-03T08:01:00Z"
+  "original_createdAt": "2021-03-03T08:01:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Around是一个轻量级的视频协作工具，漂浮在你的桌面上，非常适合设计会议、头脑风暴和代码审查等。可供下载。现在附带EchoTerminator。",
+      "tagline": "视频呼唤混合-远程工作的未来。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Around是一個輕量級的視頻協作工具，漂浮在你的桌面上，非常適合設計會議、頭腦風暴和代碼審查等。可供下載。現在附帶EchoTerminator。",
+      "tagline": "視頻呼喚混合-遠程工作的未來。"
+    }
+  ]
 }
