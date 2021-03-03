@@ -78,5 +78,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-03T08:32:12Z"
+  "original_createdAt": "2021-03-03T08:32:12Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Avo通过一个指导性的工作流程，捕捉错误并在现有的工具（包括Amplitude和Mixpanel）之间同步，将繁忙的工作从分析中解放出来。对于那些厌倦了花更多的时间来管理数据而不是建立伟大的产品的人来说。",
+      "tagline": "防止您的分析错误"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Avo通過一個指導性的工作流程，捕捉錯誤並在現有的工具（包括Amplitude和Mixpanel）之間同步，將繁忙的工作從分析中解放出來。對於那些厭倦了花更多的時間來管理數據而不是建立偉大的產品的人來說。",
+      "tagline": "防止您的分析錯誤"
+    }
+  ]
 }
