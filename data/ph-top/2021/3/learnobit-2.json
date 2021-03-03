@@ -93,5 +93,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-03T16:13:02Z"
+  "original_createdAt": "2021-03-03T16:13:02Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "一款使用间隔重复、复杂的学习算法和树状结构的记事工具的网络应用。想想Workflowy和Anki的结合。它还汇集了各种学习理论和技巧。",
+      "tagline": "促进学习的认知工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一款使用間隔重複、複雜的學習算法和樹狀結構的記事工具的網絡應用。想想Workflowy和Anki的結合。它還彙集了各種學習理論和技巧。",
+      "tagline": "促進學習的認知工具"
+    }
+  ]
 }
