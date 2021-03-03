@@ -14,5 +14,15 @@
   "tags": [
     "Fox News"
   ],
-  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/AP21062196499140.jpg"
+  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/AP21062196499140.jpg",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "报道称，缅甸安全部队在新的冲突中至少杀死9名抗议者。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "報道稱，緬甸安全部隊在新的衝突中至少殺死9名抗議者。"
+    }
+  ]
 }
