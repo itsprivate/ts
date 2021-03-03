@@ -90,5 +90,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-02T20:00:00Z"
+  "original_createdAt": "2021-03-02T20:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "pNeura是一个让创业者能够分享他们的进展并与其他创业者和投资者联系的平台。投资者可以轻松地跟踪他们的投资组合。由Appello软件公司开发。",
+      "tagline": "探索创业公司和创始人"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "pNeura是一個讓創業者能夠分享他們的進展並與其他創業者和投資者聯繫的平臺。投資者可以輕鬆地跟蹤他們的投資組合。由Appello軟件公司開發。",
+      "tagline": "探索創業公司和創始人"
+    }
+  ]
 }
