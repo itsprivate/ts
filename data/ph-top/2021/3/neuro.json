@@ -93,5 +93,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-03T08:08:00Z"
+  "original_createdAt": "2021-03-03T08:08:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Neuro让您只需调用一个API就能访问GPU网络。获得即时的MLOps。⚖️ 无服务器计算 ⚖️ 只需为所使用的计算付费=不再需要24/7的托管费! ⚡️从原型到生产+10倍的速度。查看https://www.getneuro.ai/",
+      "tagline": "机器学习的即时基础设施"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Neuro讓您只需調用一個API就能訪問GPU網絡。獲得即時的MLOps。⚖️ 無服務器計算 ⚖️ 只需爲所使用的計算付費=不再需要24/7的託管費! ⚡️從原型到生產+10倍的速度。查看https://www.getneuro.ai/",
+      "tagline": "機器學習的即時基礎設施"
+    }
+  ]
 }
