@@ -199,5 +199,15 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Wed Mar 03 13:34:32 +0000 2021"
+  "original_created_at": "Wed Mar 03 13:34:32 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "这张图是我在2015年做的\n\n祝你好运，叫一个顶级的\n\nhttps://t.co/TApt3kZEIc https://t.co/qxacI7ECvN"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "這張圖是我在2015年做的\n\n祝你好運，叫一個頂級的\n\nhttps://t.co/TApt3kZEIc https://t.co/qxacI7ECvN"
+    }
+  ]
 }
