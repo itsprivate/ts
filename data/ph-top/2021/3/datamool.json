@@ -68,5 +68,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-03T08:00:00Z"
+  "original_createdAt": "2021-03-03T08:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "DataMool是一款预测性的住宅房地产投资分析工具，它可以帮助您找到并分析附近的最佳投资机会。",
+      "tagline": "预测房产投资机会。全球范围内。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "DataMool是一款預測性的住宅房地產投資分析工具，它可以幫助您找到並分析附近的最佳投資機會。",
+      "tagline": "預測房產投資機會。全球範圍內。"
+    }
+  ]
 }
