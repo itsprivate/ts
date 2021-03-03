@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-03-03T01:31:32.000Z",
-  "image": ""
+  "image": "",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "Deno v1.8 - 支持WebGPU、私有模块、IntlL等。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Deno v1.8 - 支持WebGPU、私有模塊、IntlL等。"
+    }
+  ]
 }
