@@ -14,5 +14,15 @@
   "tags": [
     "Fox News"
   ],
-  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/greece-earthquake.jpg"
+  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/greece-earthquake.jpg",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "希腊发生6.2级地震 震感强烈"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "希臘發生6.2級地震 震感強烈"
+    }
+  ]
 }
