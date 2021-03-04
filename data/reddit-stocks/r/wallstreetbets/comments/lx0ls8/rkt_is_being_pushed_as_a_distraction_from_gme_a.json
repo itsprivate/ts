@@ -1,0 +1,333 @@
+{
+  "approved_at_utc": null,
+  "subreddit": "wallstreetbets",
+  "selftext": "EDIT: Based on the fact that a number of comments seem to have been made without reading beyond the first 9 words of the title, and the fact that this is sitting at 60% upvoted, I'd encourage you to at least read to the TLDR.\n\nI usually stick to providing raw data, but this post has a little bit of added analysis. I don’t own $GME or $RKT (I don't actively invest to avoid accusations of bias in my data) and don’t like either stock over the other. I do like WSB though and don’t like baseless conspiracy theories, and I have seen a lot of conspiracy theories flying around WSB recently without much evidence to accompany them. Most recently, I got flooded by comments like this on my data post yesterday.\n\n[Comments](https://preview.redd.it/baa7ritypuk61.png?width=1432&format=png&auto=webp&s=d6b8eab6ff5519aac82a87a06e742d52aa74440e)\n\n&#x200B;\n\nThe goal of this post was to look at one of those theories and see if I can provide a base for it. The theory in question is “$RKT discussion is being artificially pushed to distract from $GME”. A TLDR of my analysis is:\n\n**A) Both $RKT and $GME are being discussed by a lot of accounts that are new to posting on WSB.**\n\n**B) Accounts discussing $GME are actually newer to WSB on average than accounts discussing $RKT**\n\n**C) There are a small, but non-zero, number of people trying to artificially manipulate discussion to get others to sell $GME. However, this is done with no relation to $RKT.**\n\n**D) Accounts mentioning $GME and $RKT behave similarly in promoting the respective stocks.**\n\nThrough my analysis I wasn’t able to find any solid evidence of $RKT being artificially pushed as a distraction from $GME. While it’s easy to complain about u/zjz's iron-fisted bot army, I think it deserves a lot of credit for curbing attempts at manipulation.\n\nNow I will provide the data backing up these conclusions, and call out one account I did find attempting to artificially manipulate discussion.\n\n&#x200B;\n\n**Both $RKT and $GME are being discussed by a lot of accounts that are new to posting on WSB. Accounts discussing $GME are actually newer to WSB on average than accounts discussing $RKT.**\n\nI don’t think I need to patronize you with a bunch of facts and figures showing how much attention has been drawn to wsb recently. Obviously this attention came with a lot of new posters, and that’s fully on display when we look at when accounts talking about $GME and $RKT first joined the wsb community. The motive behind looking at these numbers was to determine whether there were a bunch of new accounts who joined the community with the sole purpose of distracting from $GME.\n\nThe average $RKT poster first posted on wsb on December 10th, 2020. This is pretty shockingly young, but the average $GME poster is even newer to the community with an average date of December 22nd, 2020.\n\nHere are histograms showing when the accounts mentioning both stocks first joined the community, by year:\n\n[RKT Histogram](https://preview.redd.it/qp652yp7quk61.png?width=1726&format=png&auto=webp&s=2cc3b954aea59a00e2a3f0e570b825e614c0cec0)\n\n[GME Histogram](https://preview.redd.it/d79kdzu8quk61.png?width=1726&format=png&auto=webp&s=95408f675b12f97cbd9231e71fa96aac0c43b1d8)\n\n&#x200B;\n\n**There is a non-zero number of people trying to manipulate discussion to get others to sell $GME, but not enough to have a significant effect.**\n\nOne other thing I examined was how much different accounts were shilling $GME and $RKT. For the most part, there wasn’t too much spam of either ticker by individual accounts with a few notable exceptions. Below are scatter plots showing accounts with the date they joined WSB on the x-axis and the number of times they have mentioned $GME/$RKT in the last 5 days on the y-axis.\n\n[$GME date joined vs. mentions](https://preview.redd.it/g9vgmq6gquk61.png?width=1852&format=png&auto=webp&s=73571b1836771fc0c8fa3c80eebd738d13bd5d9b)\n\n[$RKT date joined vs. mentions](https://preview.redd.it/0a8xwqlkquk61.png?width=1752&format=png&auto=webp&s=a7e79bb797abbdf49eb43b4c7fd94c4541c6d58b)\n\nThere are 3 prominent outliers that I will examine, one of which I think probably deserves some sort of moderator action. On the $GME graph we have /u/char1101g way out in the upper right. He just started posting on here yesterday, and has been just absolutely spamming anti-GME shit since. Although posts like \"SELL YOU GME STOCK\" seem to match the grammar and speech patterns expected of a short-only investor, I don't really see this single example as solid evidence of a larger artificial anti-GME push.\n\nOn the $RKT side of things we have two accounts that are pretty clearly tied to real people, so I don’t want to call them out by username. While I’d say they’re pretty clearly innocent of being hedge fund accounts (old accounts, lots of personal info, lots of non-wsb posts), they’re absolutely guilty of living in the discussion threads, with dozens of comments already today. You could probably make an argument that someone commenting about $RKT all day long is having some impact on the overall discussion, but given that it’s just two random dudes I kind of doubt it has much of an effect in the grand scheme of things.\n\n**Accounts mentioning $GME and $RKT behave similarly in promoting the respective stocks.**\n\nThe last thing I wanted to look at was how accounts behaved in promoting $GME and $RKT. In particular, I wanted to see if accounts mentioning either stock were more likely to mention it repeatedly. I ended up not finding much of a significant difference. Below is a table where $GME/$RKT accounts are defined as accounts mentioning each respective stock.\n\n&#x200B;\n\n|Mentions of $RKT/$GME over last 5 days|$RKT accounts|$GME accounts|\n|:-|:-|:-|\n|\\>1|.806|.801|\n|\\>2|.653|.657|\n|\\>5|.454|.433|\n|\\>10|.331|.310|\n\n&#x200B;\n\nThere's a pretty small overlap (34%) between people talking about $GME and people talking about $RKT, likely leading to some of the conflict that we have seen, but from my research I wasn't able to find any solid evidence of $RKT being artificially pushed as a distraction from $GME.  That being said, I'm happy to hear criticisms on my work, let me know below if you have any thoughts.",
+  "author_fullname": "t2_43r35eha",
+  "saved": false,
+  "mod_reason_title": null,
+  "gilded": 1,
+  "clicked": false,
+  "title": "\"RKT is being pushed as a distraction from GME\": a quantitative analysis",
+  "link_flair_richtext": [
+    {
+      "e": "text",
+      "t": "Discussion"
+    }
+  ],
+  "subreddit_name_prefixed": "r/wallstreetbets",
+  "hidden": false,
+  "pwls": 7,
+  "link_flair_css_class": "question",
+  "downs": 0,
+  "thumbnail_height": 127,
+  "top_awarded_type": null,
+  "hide_score": false,
+  "media_metadata": {
+    "g9vgmq6gquk61": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 64,
+          "x": 108,
+          "u": "https://preview.redd.it/g9vgmq6gquk61.png?width=108&crop=smart&auto=webp&s=e685e757b860b1b6d8defd8de3c9f125b64054c5"
+        },
+        {
+          "y": 128,
+          "x": 216,
+          "u": "https://preview.redd.it/g9vgmq6gquk61.png?width=216&crop=smart&auto=webp&s=a5842d7780b58cb29e831aaacf0861a8007c9324"
+        },
+        {
+          "y": 191,
+          "x": 320,
+          "u": "https://preview.redd.it/g9vgmq6gquk61.png?width=320&crop=smart&auto=webp&s=14ca2d59fa8add75ef23c4ccf0c7658464d96606"
+        },
+        {
+          "y": 382,
+          "x": 640,
+          "u": "https://preview.redd.it/g9vgmq6gquk61.png?width=640&crop=smart&auto=webp&s=b21666fae2ab03efa14bdff0c5cf69db6b8eb917"
+        },
+        {
+          "y": 573,
+          "x": 960,
+          "u": "https://preview.redd.it/g9vgmq6gquk61.png?width=960&crop=smart&auto=webp&s=dfe947fca7c4102a4f589fd932749b9745671fac"
+        },
+        {
+          "y": 644,
+          "x": 1080,
+          "u": "https://preview.redd.it/g9vgmq6gquk61.png?width=1080&crop=smart&auto=webp&s=1976167809111ec0586225531542c39c38221e74"
+        }
+      ],
+      "s": {
+        "y": 1106,
+        "x": 1852,
+        "u": "https://preview.redd.it/g9vgmq6gquk61.png?width=1852&format=png&auto=webp&s=73571b1836771fc0c8fa3c80eebd738d13bd5d9b"
+      },
+      "id": "g9vgmq6gquk61"
+    },
+    "qp652yp7quk61": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 63,
+          "x": 108,
+          "u": "https://preview.redd.it/qp652yp7quk61.png?width=108&crop=smart&auto=webp&s=936631a4d9424fb8284678a42d8bd34f395a4c8e"
+        },
+        {
+          "y": 126,
+          "x": 216,
+          "u": "https://preview.redd.it/qp652yp7quk61.png?width=216&crop=smart&auto=webp&s=4b24a146eef98c102957c88c70f36af80249f4c2"
+        },
+        {
+          "y": 187,
+          "x": 320,
+          "u": "https://preview.redd.it/qp652yp7quk61.png?width=320&crop=smart&auto=webp&s=04676c43fd0abb846496c830c9e50aae76424b6f"
+        },
+        {
+          "y": 375,
+          "x": 640,
+          "u": "https://preview.redd.it/qp652yp7quk61.png?width=640&crop=smart&auto=webp&s=368cd06b33d84e64b624319a737fa2e40f0e47e7"
+        },
+        {
+          "y": 562,
+          "x": 960,
+          "u": "https://preview.redd.it/qp652yp7quk61.png?width=960&crop=smart&auto=webp&s=a79031a43c259451b3bc19472374b49f8b28d2e8"
+        },
+        {
+          "y": 633,
+          "x": 1080,
+          "u": "https://preview.redd.it/qp652yp7quk61.png?width=1080&crop=smart&auto=webp&s=374564c93c7fbda2a25d8aca6a2d2bfbb6db7a14"
+        }
+      ],
+      "s": {
+        "y": 1012,
+        "x": 1726,
+        "u": "https://preview.redd.it/qp652yp7quk61.png?width=1726&format=png&auto=webp&s=2cc3b954aea59a00e2a3f0e570b825e614c0cec0"
+      },
+      "id": "qp652yp7quk61"
+    },
+    "d79kdzu8quk61": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 63,
+          "x": 108,
+          "u": "https://preview.redd.it/d79kdzu8quk61.png?width=108&crop=smart&auto=webp&s=c384b723fb8e211f098c48a85424d298e4dcf925"
+        },
+        {
+          "y": 126,
+          "x": 216,
+          "u": "https://preview.redd.it/d79kdzu8quk61.png?width=216&crop=smart&auto=webp&s=9810d29ddf20b33a432c954488d36ce29de0d79f"
+        },
+        {
+          "y": 187,
+          "x": 320,
+          "u": "https://preview.redd.it/d79kdzu8quk61.png?width=320&crop=smart&auto=webp&s=e5bc3c92c4222fac753f77b81d28c27276d3e803"
+        },
+        {
+          "y": 375,
+          "x": 640,
+          "u": "https://preview.redd.it/d79kdzu8quk61.png?width=640&crop=smart&auto=webp&s=2d59071dff11f7849be40648a8d7bfa846b8cd09"
+        },
+        {
+          "y": 562,
+          "x": 960,
+          "u": "https://preview.redd.it/d79kdzu8quk61.png?width=960&crop=smart&auto=webp&s=75ea4b3df0b1438f5e22fcb2934ffdfcd0bab2d3"
+        },
+        {
+          "y": 633,
+          "x": 1080,
+          "u": "https://preview.redd.it/d79kdzu8quk61.png?width=1080&crop=smart&auto=webp&s=c4724ae10e04a97306970c6701c935ee39677353"
+        }
+      ],
+      "s": {
+        "y": 1012,
+        "x": 1726,
+        "u": "https://preview.redd.it/d79kdzu8quk61.png?width=1726&format=png&auto=webp&s=95408f675b12f97cbd9231e71fa96aac0c43b1d8"
+      },
+      "id": "d79kdzu8quk61"
+    },
+    "baa7ritypuk61": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 98,
+          "x": 108,
+          "u": "https://preview.redd.it/baa7ritypuk61.png?width=108&crop=smart&auto=webp&s=db9ebd5fd2c392c9a52e9d98436c7fec8fcb64df"
+        },
+        {
+          "y": 196,
+          "x": 216,
+          "u": "https://preview.redd.it/baa7ritypuk61.png?width=216&crop=smart&auto=webp&s=3d5e34a2654414f10b019dfe1c3b03b2e81a7932"
+        },
+        {
+          "y": 290,
+          "x": 320,
+          "u": "https://preview.redd.it/baa7ritypuk61.png?width=320&crop=smart&auto=webp&s=f77a226512fa71e9a5ce458d564e42eee14b19c6"
+        },
+        {
+          "y": 581,
+          "x": 640,
+          "u": "https://preview.redd.it/baa7ritypuk61.png?width=640&crop=smart&auto=webp&s=bef6f77e3f076b488d8ae20deffc0cb9dc33e7c9"
+        },
+        {
+          "y": 872,
+          "x": 960,
+          "u": "https://preview.redd.it/baa7ritypuk61.png?width=960&crop=smart&auto=webp&s=40dedcc79645857368731a8a5529bd90a787a352"
+        },
+        {
+          "y": 981,
+          "x": 1080,
+          "u": "https://preview.redd.it/baa7ritypuk61.png?width=1080&crop=smart&auto=webp&s=2c3b4123cb400f8eb0187df587943a5e58a60a92"
+        }
+      ],
+      "s": {
+        "y": 1302,
+        "x": 1432,
+        "u": "https://preview.redd.it/baa7ritypuk61.png?width=1432&format=png&auto=webp&s=d6b8eab6ff5519aac82a87a06e742d52aa74440e"
+      },
+      "id": "baa7ritypuk61"
+    },
+    "0a8xwqlkquk61": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 66,
+          "x": 108,
+          "u": "https://preview.redd.it/0a8xwqlkquk61.png?width=108&crop=smart&auto=webp&s=1d889406f04171f3220168ce889a8070d1deb2db"
+        },
+        {
+          "y": 132,
+          "x": 216,
+          "u": "https://preview.redd.it/0a8xwqlkquk61.png?width=216&crop=smart&auto=webp&s=1bb4c408c7a54cf6734bea6fb12a5246d1a48e0c"
+        },
+        {
+          "y": 196,
+          "x": 320,
+          "u": "https://preview.redd.it/0a8xwqlkquk61.png?width=320&crop=smart&auto=webp&s=e64388b28d48016ae03fe23be2234550a9dc947b"
+        },
+        {
+          "y": 393,
+          "x": 640,
+          "u": "https://preview.redd.it/0a8xwqlkquk61.png?width=640&crop=smart&auto=webp&s=5771efb07a692b96cca16dd7ed43748db2e24d63"
+        },
+        {
+          "y": 590,
+          "x": 960,
+          "u": "https://preview.redd.it/0a8xwqlkquk61.png?width=960&crop=smart&auto=webp&s=6d5ad9b19b20a6516fe70db08a8d61630e29caa9"
+        },
+        {
+          "y": 664,
+          "x": 1080,
+          "u": "https://preview.redd.it/0a8xwqlkquk61.png?width=1080&crop=smart&auto=webp&s=ea6e572749be44763a694b14428ba82f23662179"
+        }
+      ],
+      "s": {
+        "y": 1078,
+        "x": 1752,
+        "u": "https://preview.redd.it/0a8xwqlkquk61.png?width=1752&format=png&auto=webp&s=a7e79bb797abbdf49eb43b4c7fd94c4541c6d58b"
+      },
+      "id": "0a8xwqlkquk61"
+    }
+  },
+  "name": "t3_lx0ls8",
+  "quarantine": false,
+  "link_flair_text_color": "light",
+  "upvote_ratio": 0.82,
+  "author_flair_background_color": "",
+  "subreddit_type": "public",
+  "ups": 1862,
+  "total_awards_received": 10,
+  "media_embed": {},
+  "thumbnail_width": 140,
+  "author_flair_template_id": null,
+  "is_original_content": true,
+  "user_reports": [],
+  "secure_media": null,
+  "is_reddit_media_domain": false,
+  "is_meta": false,
+  "category": null,
+  "secure_media_embed": {},
+  "link_flair_text": "Discussion",
+  "can_mod_post": false,
+  "score": 1862,
+  "approved_by": null,
+  "author_premium": true,
+  "thumbnail": "https://a.thumbs.redditmedia.com/vpwhFjiX2AfA0hTmQUkFeh4HkLWMj-yGR5TzrZBnHK4.jpg",
+  "edited": 1614797292,
+  "author_flair_css_class": null,
+  "author_flair_richtext": [],
+  "gildings": {
+    "gid_1": 1,
+    "gid_2": 1
+  },
+  "content_categories": null,
+  "is_self": true,
+  "mod_note": null,
+  "created": 1614824428,
+  "link_flair_type": "richtext",
+  "wls": 7,
+  "removed_by_category": null,
+  "banned_by": null,
+  "author_flair_type": "text",
+  "domain": "self.wallstreetbets",
+  "allow_live_comments": true,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>EDIT: Based on the fact that a number of comments seem to have been made without reading beyond the first 9 words of the title, and the fact that this is sitting at 60% upvoted, I&#39;d encourage you to at least read to the TLDR.</p>\n\n<p>I usually stick to providing raw data, but this post has a little bit of added analysis. I don’t own $GME or $RKT (I don&#39;t actively invest to avoid accusations of bias in my data) and don’t like either stock over the other. I do like WSB though and don’t like baseless conspiracy theories, and I have seen a lot of conspiracy theories flying around WSB recently without much evidence to accompany them. Most recently, I got flooded by comments like this on my data post yesterday.</p>\n\n<p><a href=\"https://preview.redd.it/baa7ritypuk61.png?width=1432&amp;format=png&amp;auto=webp&amp;s=d6b8eab6ff5519aac82a87a06e742d52aa74440e\">Comments</a></p>\n\n<p>&#x200B;</p>\n\n<p>The goal of this post was to look at one of those theories and see if I can provide a base for it. The theory in question is “$RKT discussion is being artificially pushed to distract from $GME”. A TLDR of my analysis is:</p>\n\n<p><strong>A) Both $RKT and $GME are being discussed by a lot of accounts that are new to posting on WSB.</strong></p>\n\n<p><strong>B) Accounts discussing $GME are actually newer to WSB on average than accounts discussing $RKT</strong></p>\n\n<p><strong>C) There are a small, but non-zero, number of people trying to artificially manipulate discussion to get others to sell $GME. However, this is done with no relation to $RKT.</strong></p>\n\n<p><strong>D) Accounts mentioning $GME and $RKT behave similarly in promoting the respective stocks.</strong></p>\n\n<p>Through my analysis I wasn’t able to find any solid evidence of $RKT being artificially pushed as a distraction from $GME. While it’s easy to complain about <a href=\"/u/zjz\">u/zjz</a>&#39;s iron-fisted bot army, I think it deserves a lot of credit for curbing attempts at manipulation.</p>\n\n<p>Now I will provide the data backing up these conclusions, and call out one account I did find attempting to artificially manipulate discussion.</p>\n\n<p>&#x200B;</p>\n\n<p><strong>Both $RKT and $GME are being discussed by a lot of accounts that are new to posting on WSB. Accounts discussing $GME are actually newer to WSB on average than accounts discussing $RKT.</strong></p>\n\n<p>I don’t think I need to patronize you with a bunch of facts and figures showing how much attention has been drawn to wsb recently. Obviously this attention came with a lot of new posters, and that’s fully on display when we look at when accounts talking about $GME and $RKT first joined the wsb community. The motive behind looking at these numbers was to determine whether there were a bunch of new accounts who joined the community with the sole purpose of distracting from $GME.</p>\n\n<p>The average $RKT poster first posted on wsb on December 10th, 2020. This is pretty shockingly young, but the average $GME poster is even newer to the community with an average date of December 22nd, 2020.</p>\n\n<p>Here are histograms showing when the accounts mentioning both stocks first joined the community, by year:</p>\n\n<p><a href=\"https://preview.redd.it/qp652yp7quk61.png?width=1726&amp;format=png&amp;auto=webp&amp;s=2cc3b954aea59a00e2a3f0e570b825e614c0cec0\">RKT Histogram</a></p>\n\n<p><a href=\"https://preview.redd.it/d79kdzu8quk61.png?width=1726&amp;format=png&amp;auto=webp&amp;s=95408f675b12f97cbd9231e71fa96aac0c43b1d8\">GME Histogram</a></p>\n\n<p>&#x200B;</p>\n\n<p><strong>There is a non-zero number of people trying to manipulate discussion to get others to sell $GME, but not enough to have a significant effect.</strong></p>\n\n<p>One other thing I examined was how much different accounts were shilling $GME and $RKT. For the most part, there wasn’t too much spam of either ticker by individual accounts with a few notable exceptions. Below are scatter plots showing accounts with the date they joined WSB on the x-axis and the number of times they have mentioned $GME/$RKT in the last 5 days on the y-axis.</p>\n\n<p><a href=\"https://preview.redd.it/g9vgmq6gquk61.png?width=1852&amp;format=png&amp;auto=webp&amp;s=73571b1836771fc0c8fa3c80eebd738d13bd5d9b\">$GME date joined vs. mentions</a></p>\n\n<p><a href=\"https://preview.redd.it/0a8xwqlkquk61.png?width=1752&amp;format=png&amp;auto=webp&amp;s=a7e79bb797abbdf49eb43b4c7fd94c4541c6d58b\">$RKT date joined vs. mentions</a></p>\n\n<p>There are 3 prominent outliers that I will examine, one of which I think probably deserves some sort of moderator action. On the $GME graph we have <a href=\"/u/char1101g\">/u/char1101g</a> way out in the upper right. He just started posting on here yesterday, and has been just absolutely spamming anti-GME shit since. Although posts like &quot;SELL YOU GME STOCK&quot; seem to match the grammar and speech patterns expected of a short-only investor, I don&#39;t really see this single example as solid evidence of a larger artificial anti-GME push.</p>\n\n<p>On the $RKT side of things we have two accounts that are pretty clearly tied to real people, so I don’t want to call them out by username. While I’d say they’re pretty clearly innocent of being hedge fund accounts (old accounts, lots of personal info, lots of non-wsb posts), they’re absolutely guilty of living in the discussion threads, with dozens of comments already today. You could probably make an argument that someone commenting about $RKT all day long is having some impact on the overall discussion, but given that it’s just two random dudes I kind of doubt it has much of an effect in the grand scheme of things.</p>\n\n<p><strong>Accounts mentioning $GME and $RKT behave similarly in promoting the respective stocks.</strong></p>\n\n<p>The last thing I wanted to look at was how accounts behaved in promoting $GME and $RKT. In particular, I wanted to see if accounts mentioning either stock were more likely to mention it repeatedly. I ended up not finding much of a significant difference. Below is a table where $GME/$RKT accounts are defined as accounts mentioning each respective stock.</p>\n\n<p>&#x200B;</p>\n\n<table><thead>\n<tr>\n<th align=\"left\">Mentions of $RKT/$GME over last 5 days</th>\n<th align=\"left\">$RKT accounts</th>\n<th align=\"left\">$GME accounts</th>\n</tr>\n</thead><tbody>\n<tr>\n<td align=\"left\">&gt;1</td>\n<td align=\"left\">.806</td>\n<td align=\"left\">.801</td>\n</tr>\n<tr>\n<td align=\"left\">&gt;2</td>\n<td align=\"left\">.653</td>\n<td align=\"left\">.657</td>\n</tr>\n<tr>\n<td align=\"left\">&gt;5</td>\n<td align=\"left\">.454</td>\n<td align=\"left\">.433</td>\n</tr>\n<tr>\n<td align=\"left\">&gt;10</td>\n<td align=\"left\">.331</td>\n<td align=\"left\">.310</td>\n</tr>\n</tbody></table>\n\n<p>&#x200B;</p>\n\n<p>There&#39;s a pretty small overlap (34%) between people talking about $GME and people talking about $RKT, likely leading to some of the conflict that we have seen, but from my research I wasn&#39;t able to find any solid evidence of $RKT being artificially pushed as a distraction from $GME.  That being said, I&#39;m happy to hear criticisms on my work, let me know below if you have any thoughts.</p>\n</div><!-- SC_ON -->",
+  "likes": null,
+  "suggested_sort": "confidence",
+  "banned_at_utc": null,
+  "view_count": null,
+  "archived": false,
+  "no_follow": false,
+  "is_crosspostable": false,
+  "pinned": false,
+  "over_18": false,
+  "awarders": [],
+  "media_only": false,
+  "link_flair_template_id": "96f6c79e-b853-11e5-a4cb-0ebdf030e05d",
+  "can_gild": false,
+  "spoiler": false,
+  "locked": false,
+  "author_flair_text": "",
+  "treatment_tags": [],
+  "visited": false,
+  "removed_by": null,
+  "num_reports": null,
+  "distinguished": null,
+  "subreddit_id": "t5_2th52",
+  "mod_reason_by": null,
+  "removal_reason": null,
+  "link_flair_background_color": "#800080",
+  "id": "lx0ls8",
+  "is_robot_indexable": true,
+  "report_reasons": null,
+  "author": "pdwp90",
+  "discussion_type": null,
+  "num_comments": 358,
+  "send_replies": true,
+  "whitelist_status": "some_ads",
+  "contest_mode": false,
+  "mod_reports": [],
+  "author_patreon_flair": false,
+  "author_flair_text_color": "",
+  "permalink": "/r/wallstreetbets/comments/lx0ls8/rkt_is_being_pushed_as_a_distraction_from_gme_a/",
+  "parent_whitelist_status": "some_ads",
+  "stickied": false,
+  "url": "https://www.reddit.com/r/wallstreetbets/comments/lx0ls8/rkt_is_being_pushed_as_a_distraction_from_gme_a/",
+  "subreddit_subscribers": 9419531,
+  "created_utc": 1614870703,
+  "num_crossposts": 0,
+  "media": null,
+  "is_video": false,
+  "original_created_utc": 1614795628,
+  "the_new_excerpt": "EDIT: Based on the fact that a number of comments seem to have been made without\nreading beyond the first 9 words of the title, and the fact that this is sitting\nat 60% upvoted, I'd encourage you to at least read to the TLDR.\n\nI usually stick to providing raw data, but this post has a little bit of…"
+}
