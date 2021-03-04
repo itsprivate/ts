@@ -101,5 +101,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1614804741,
-  "the_new_excerpt": "Because I understand"
+  "the_new_excerpt": "Because I understand",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "因为我明白",
+      "title": "在这里发帖的人，你到底有没有试着去查你的问题，还是说你只是想找人交流？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "因爲我明白",
+      "title": "在這裏發帖的人，你到底有沒有試着去查你的問題，還是說你只是想找人交流？"
+    }
+  ]
 }
