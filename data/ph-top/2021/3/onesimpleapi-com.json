@@ -88,5 +88,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-04T11:37:17Z"
+  "original_createdAt": "2021-03-04T11:37:17Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "OneSimpleApi诞生于这样一个理念：在使用无代码工具时，应该有一种简单的方式来实现复杂的功能。一个工具箱，在这里你可以找到所有的API，这将使你的创作更上一层楼。只要... 一个简单的API。",
+      "tagline": "首个面向无码者的API工具包"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "OneSimpleApi誕生於這樣一個理念：在使用無代碼工具時，應該有一種簡單的方式來實現複雜的功能。一個工具箱，在這裏你可以找到所有的API，這將使你的創作更上一層樓。只要... 一個簡單的API。",
+      "tagline": "首個面向無碼者的API工具包"
+    }
+  ]
 }
