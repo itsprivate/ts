@@ -87,5 +87,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-04T08:01:00Z"
+  "original_createdAt": "2021-03-04T08:01:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Skizzle是Gmail的chrome扩展，让端到端加密变得简单--无需记忆、分享或管理密码--向任何Gmail地址发送加密附件--在公共区块链上验证文件访问--慷慨的免费永久计划。",
+      "tagline": "Gmail中的端到端加密附件。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Skizzle是Gmail的chrome擴展，讓端到端加密變得簡單--無需記憶、分享或管理密碼--向任何Gmail地址發送加密附件--在公共區塊鏈上驗證文件訪問--慷慨的免費永久計劃。",
+      "tagline": "Gmail中的端到端加密附件。"
+    }
+  ]
 }
