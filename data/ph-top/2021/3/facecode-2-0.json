@@ -98,5 +98,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-04T08:00:00Z"
+  "original_createdAt": "2021-03-04T08:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "FaceCode是有史以来最智能的编码面试工具。它能帮助面试官轻松、快速、准确地做出客观的招聘决定。",
+      "tagline": "史上最好的编码面试工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "FaceCode是有史以來最智能的編碼面試工具。它能幫助面試官輕鬆、快速、準確地做出客觀的招聘決定。",
+      "tagline": "史上最好的編碼面試工具"
+    }
+  ]
 }
