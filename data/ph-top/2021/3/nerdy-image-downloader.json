@@ -62,5 +62,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-04T10:44:46Z"
+  "original_createdAt": "2021-03-04T10:44:46Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "呆萌图片下载器是一款批量/批次下载图片的工具。从Pinterest板块下载图片。这款工具可以自动滚动为你收集所有图片，并将它们下载到一个zip文件夹中。",
+      "tagline": "从Pinterest板块下载图片到压缩包"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "呆萌圖片下載器是一款批量/批次下載圖片的工具。從Pinterest板塊下載圖片。這款工具可以自動滾動爲你收集所有圖片，並將它們下載到一個zip文件夾中。",
+      "tagline": "從Pinterest板塊下載圖片到壓縮包"
+    }
+  ]
 }
