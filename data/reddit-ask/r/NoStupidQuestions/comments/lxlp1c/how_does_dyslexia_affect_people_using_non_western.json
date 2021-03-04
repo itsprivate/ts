@@ -101,5 +101,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1614868040,
-  "the_new_excerpt": "Another question, does it effect vertical writing like Chinese differently?"
+  "the_new_excerpt": "Another question, does it effect vertical writing like Chinese differently?",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "还有一个问题，像中文这样的竖式书写是否有不同的影响？",
+      "title": "阅读障碍对使用非西方文字的人有什么影响？我知道在西方字符中，d和b就是一个例子......。我想泰语会是一个噩梦。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "還有一個問題，像中文這樣的豎式書寫是否有不同的影響？",
+      "title": "閱讀障礙對使用非西方文字的人有什麼影響？我知道在西方字符中，d和b就是一個例子......。我想泰語會是一個噩夢。"
+    }
+  ]
 }
