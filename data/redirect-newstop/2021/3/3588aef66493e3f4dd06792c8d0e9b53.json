@@ -14,5 +14,15 @@
   "tags": [
     "The Hill"
   ],
-  "image": "https://thehill.com/sites/default/files/vaccine_02262021_getty.jpg"
+  "image": "https://thehill.com/sites/default/files/vaccine_02262021_getty.jpg",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "报道称，阿斯利康的疫苗将在澳大利亚销售。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "報道稱，阿斯利康的疫苗將在澳大利亞銷售。"
+    }
+  ]
 }
