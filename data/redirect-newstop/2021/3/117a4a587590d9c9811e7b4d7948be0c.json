@@ -14,5 +14,15 @@
   "tags": [
     "San Francisco Chronicle"
   ],
-  "image": "https://www.sfchronicle.com/img/pages/article/opengraph_default.jpg"
+  "image": "https://www.sfchronicle.com/img/pages/article/opengraph_default.jpg",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "新西兰外海发生强烈地震，促使人们疏散。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "新西蘭外海發生強烈地震，促使人們疏散。"
+    }
+  ]
 }
