@@ -110,5 +110,15 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Fri Mar 05 16:31:34 +0000 2021"
+  "original_created_at": "Fri Mar 05 16:31:34 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "\"嗨，妈妈，保证金在电话里，他们想和你谈谈。\"\n\n-Liam，Robinhood交易员，自2020年4月起。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "\"嗨，媽媽，保證金在電話裏，他們想和你談談。\"\n\n-Liam，Robinhood交易員，自2020年4月起。"
+    }
+  ]
 }
