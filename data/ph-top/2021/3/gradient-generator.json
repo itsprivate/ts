@@ -53,5 +53,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-04T12:00:00Z"
+  "original_createdAt": "2021-03-04T12:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "轻松创建线性、径向和锥形渐变，避免了许多渐变中间可怕的 \"灰色区域\"。可导出为CSS或SVG。",
+      "tagline": "创建各种类型的感性平滑渐变。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "輕鬆創建線性、徑向和錐形漸變，避免了許多漸變中間可怕的 \"灰色區域\"。可導出爲CSS或SVG。",
+      "tagline": "創建各種類型的感性平滑漸變。"
+    }
+  ]
 }

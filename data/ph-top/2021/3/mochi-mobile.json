@@ -92,5 +92,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-04T09:22:00Z"
+  "original_createdAt": "2021-03-04T09:22:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Mochi = 间隔重复 + Zettelkasten + Markdown。",
+      "tagline": "用标记法做笔记，隔空重复学习。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Mochi = 間隔重複 + Zettelkasten + Markdown。",
+      "tagline": "用標記法做筆記，隔空重複學習。"
+    }
+  ]
 }
