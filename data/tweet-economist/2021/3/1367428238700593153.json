@@ -112,5 +112,15 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Thu Mar 04 10:54:32 +0000 2021"
+  "original_created_at": "Thu Mar 04 10:54:32 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "机器学习擅长发现模式，但对个人行为的预测能力较差，尤其是在数据稀缺的情况下--比如反恐https://t.co/9KJ6Gaivfe。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "機器學習擅長髮現模式，但對個人行爲的預測能力較差，尤其是在數據稀缺的情況下--比如反恐https://t.co/9KJ6Gaivfe。"
+    }
+  ]
 }
