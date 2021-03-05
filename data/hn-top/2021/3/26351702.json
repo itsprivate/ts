@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-03-05T02:21:33.000Z",
-  "image": "https://static.lwn.net/images/logo/barepenguin-70.png"
+  "image": "https://static.lwn.net/images/logo/barepenguin-70.png",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "关于5.12-rc1的警告"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "關於5.12-rc1的警告"
+    }
+  ]
 }
