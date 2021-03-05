@@ -63,5 +63,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-04T12:05:21Z"
+  "original_createdAt": "2021-03-04T12:05:21Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Spilldash是一款免费的Google Sheets插件，它可以让你以一种新的方式自动建立仪表盘。管理仪表盘的配置像一个Web应用程序，但没有复杂的。观看视频：https://www.youtube.com/watch?v=z7YxYpqDvRM",
+      "tagline": "在Google Sheets上创建报告的一种新的、自动化的方式。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Spilldash是一款免費的Google Sheets插件，它可以讓你以一種新的方式自動建立儀表盤。管理儀表盤的配置像一個Web應用程序，但沒有複雜的。觀看視頻：https://www.youtube.com/watch?v=z7YxYpqDvRM",
+      "tagline": "在Google Sheets上創建報告的一種新的、自動化的方式。"
+    }
+  ]
 }
