@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-03-04T18:02:34.000Z",
-  "image": "https://age.apache.org/assets/images/logo.png"
+  "image": "https://age.apache.org/assets/images/logo.png",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "Apache Age: PostgreSQL的图形扩展"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Apache Age: PostgreSQL的圖形擴展"
+    }
+  ]
 }
