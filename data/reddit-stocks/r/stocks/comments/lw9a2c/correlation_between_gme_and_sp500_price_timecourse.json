@@ -22,7 +22,7 @@
   "upvote_ratio": 0.84,
   "author_flair_background_color": null,
   "subreddit_type": "public",
-  "ups": 47,
+  "ups": 157,
   "total_awards_received": 1,
   "media_embed": {},
   "author_flair_template_id": null,
@@ -35,7 +35,7 @@
   "secure_media_embed": {},
   "link_flair_text": "Resources",
   "can_mod_post": false,
-  "score": 47,
+  "score": 157,
   "approved_by": null,
   "author_premium": false,
   "thumbnail": "",
@@ -114,5 +114,6 @@
       "the_new_excerpt": "我做了一個簡單的相關性分析，我發現，有一個顯著（在\n極限；p=0.05）GME與S&P500指數負相關（rho=-0.319）。\n價格。\n\nPython代碼。\n\nimport numpy as np, pandas as pd, matplotlib.pyplot as plt。\n從scipy.stats導入pearsonr。\n\nSP500=...",
       "title": "GME與S&P500價格時間進程的相關性"
     }
-  ]
+  ],
+  "source_updated_at": 1614937744913
 }
