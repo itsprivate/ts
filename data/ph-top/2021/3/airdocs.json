@@ -78,5 +78,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-04T15:56:12Z"
+  "original_createdAt": "2021-03-04T15:56:12Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Airdocs 是 Airtable 的文档生成服务。从您的数据中创建智能、美观的文档。拖放式设计器让您可以对文档进行终极控制。将您的文档发送到另一个应用程序或将它们存储回 Airtable 中。",
+      "tagline": "从Airtable生成文件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Airdocs 是 Airtable 的文檔生成服務。從您的數據中創建智能、美觀的文檔。拖放式設計器讓您可以對文檔進行終極控制。將您的文檔發送到另一個應用程序或將它們存儲回 Airtable 中。",
+      "tagline": "從Airtable生成文件"
+    }
+  ]
 }
