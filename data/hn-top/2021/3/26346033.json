@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-03-04T18:19:23.000Z",
-  "image": "https://static.lwn.net/images/logo/barepenguin-70.png"
+  "image": "https://static.lwn.net/images/logo/barepenguin-70.png",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "无锁算法简介"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "無鎖算法簡介"
+    }
+  ]
 }
