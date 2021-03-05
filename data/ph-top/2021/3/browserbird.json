@@ -62,5 +62,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-04T17:08:04Z"
+  "original_createdAt": "2021-03-04T17:08:04Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "制作你自己的自动程序--使用BrowserBird构建完全管理的浏览器自动程序。使用BrowserBird构建浏览器自动程序非常简单、快速，不需要任何编程知识。",
+      "tagline": "低代码浏览器自动化构建器和无服务器傀儡师"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "製作你自己的自動程序--使用BrowserBird構建完全管理的瀏覽器自動程序。使用BrowserBird構建瀏覽器自動程序非常簡單、快速，不需要任何編程知識。",
+      "tagline": "低代碼瀏覽器自動化構建器和無服務器傀儡師"
+    }
+  ]
 }
