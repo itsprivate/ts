@@ -3,7 +3,7 @@
   "title": "Shopify employees accessed customer databases without authorization",
   "url": null,
   "author": "synunlimited",
-  "points": 162,
+  "points": 175,
   "story_text": "Got this email from Fangamer about Shopify earlier today. \n----\nDear Fangamer customer,<p>Shopify, the company whose software runs the Fangamer store (and more than a million others online), has informed us that an internal security event it has been investigating since late last year included Fangamer customer data. Information regarding customer financial accounts and payment cards was not affected, but we are writing to make you aware of the situation.<p>According to Shopify, certain members of its support team used their Shopify credentials to obtain archived customer data from several hundred stores without authorization. The team members accessed data associated with order fulfillment — names, addresses, email addresses, cart contents, and phone numbers — but did not access or acquire any financial-account or payment-card information.<p>We are extremely frustrated and sorry to be sending you this email; Fangamer&#x27;s internal development team takes data security extremely seriously. Data not in Fangamer&#x27;s Shopify store — including Kickstarter backer information, account information and passwords, and email addresses used to sign up for our newsletter — was not accessed, and the store continues to operate as normal. Fangamer Japan, which operates as a separate store, was also not affected.<p>Shopify has terminated the employees who did this and eliminated the vulnerabilities that made it possible. Shopify has also reported that it will be providing any other relevant information to us as its investigation continues, and we&#x27;ll pass along any new material details. If you have any questions, though, please contact us at orders@fangamer.com.<p>Thank you,\nFangamer",
   "comment_text": null,
   "num_comments": 32,
@@ -46,5 +46,6 @@
       "locale": "zh-Hant",
       "title": "Shopify員工未經授權訪問客戶數據庫"
     }
-  ]
+  ],
+  "source_updated_at": 1614937762080
 }
