@@ -1,0 +1,203 @@
+{
+  "approved_at_utc": null,
+  "subreddit": "wallstreetbets",
+  "selftext": "*Before I start this post, I want to apologise for the late DD. Last few days we've seen quite a change in options trading throughout the operating hours of the market and I wanted to use the latest data for this post so it wouldn't be misleading. To those that know me from my previous DD, you'd know I threw a dart blindfolded (and high on coke) to predict a squeeze on the 24th (Close enough, I'll take it). I've tried to keep this post short as possible because 90% of you retards have the attention span of a 2-month-old dog.*\n\nGamma Squeeze Quick Recap\n\n**Gamma squeeze can begin when a large investor, typically referred to as a whale, buys short-dated call options**. The banks or brokers that sell the call options will typically buy the underlying stock so that they have very little or no net exposure. **The more call options the investor buys, the more shares the brokers that sold the options will have to buy to ensure they are net flat**. Brokers and dealers are motivated by the commissions and do not want to hold a trade either long or short. Given that these whales buy calls, the option purchases force the dealers to buy the underlying stock, which can push the share price higher. *If pulled off, this creates a positive feedback loop, thus can drive underlying stock(s) price higher for a period of time. In a roundabout way, the dealers must buy more and more of the underlying.*\n\nWhen the price of the stock reaches above the strike price (In the Money), those who've bought the call options **may** exercise their right to buy the shares.\n\nWhy does this matter?\n\nWell first let's look at the call options expiring this Friday (5th march) that are OTM currently. Just pretend to stare at the tables if you can't read, I'll explain later.\n\n&#x200B;\n\n&#x200B;\n\n[Call options on 2nd March](https://preview.redd.it/748f9dojo8l61.jpg?width=1350&format=pjpg&auto=webp&s=573a5e17efd9d4c303511e41f9562456c2d362e9)\n\n&#x200B;\n\n* Volume \\~ 46.4k\n* Shares above the $150 strike price \\~ 4.641 M\n* **OPEN INTEREST \\~ 0**\n\n&#x200B;\n\n&#x200B;\n\n[Call options on 3rd March](https://preview.redd.it/cm0irlcmo8l61.jpg?width=1328&format=pjpg&auto=webp&s=c83bb67a238acf8bc4c6a6ce72c6617b97993745)\n\n&#x200B;\n\n* Volume \\~ 36.3k\n* Shares above the $150 strike price \\~ 3.627M\n* **OPEN INTEREST \\~** **43.04k**\n\n# Open Interest and IV\n\n**Comparing the options chain between the two days, it could be seen that yesterday there was 43k in open interest in contrast to 0 on 2nd march. Why is this important?**\n\n*Open interest gives you key information regarding the* *liquidity* *of an option, it reflects upon the number of contracts that are ACTIVELY held by investors and traders (These are the positions that have been opened and not closed yet).*\n\nIf there is no open interest in an option, there is no secondary market for that option. When options have a significant open interest, it means there are a large number of buyers and sellers out there. An active secondary market increases the odds of getting option orders filled at good prices. At its core, open interest paints a picture of how much capital is being injected into a given market. Keeping an eye on open interest is vital to identifying trends, in that growing open interest signifies that an influx of money is likely to stimulate action and aid price extension. Conversely, falling open interest alludes to activity “drying up” or capital exiting the market. This suggests that the presence of any prevailing trend is short-lived and adopting a reversal strategy may be the best course of action.\n\n*All other things being equal, the bigger the open interest, the easier it will be to trade that option at a reasonable* *spread* *between the bid and ask.*\n\n**Linking back to the GME options chain, a significant 43.04k call options (going long) accumulated yesterday when compared to 0 of the previous day (2nd March) .** The rising prices during the uptrend (as seen in the last few hours of the market on 3rd march) coupled with the rising open interest, can mean that new money is coming into the market and **can be a sign of bullish sentiment.**\n\nAnother point I'd like to make is the implied volatility which is extremely high for the options chains with a strike price above $150 (Yes I'm looking at you Mr. $800). As expectations, or demand, rises for an option, the implied volatility (IV) increases proportionally and leads to a higher option premium due to the risky nature of the option. **Why would any sensible investor buy 9.7k calls with a 906% IV if the stock was bound to plummet**? And no, calls these huge are *probably not* bought by retail traders or people YOLOing. There's something larger at play and will probably require another post for institutional funds and hedgies ownership in GME (Trying to keep it on topic for now). The only viable reason I see is that large whales or investors see the potential for another gamma squeeze before the end of the week.\n\nEDIT 2: Took a look at the gamma squeeze predictor tool made by [u/indonesian\\_activist](https://www.reddit.com/u/indonesian_activist/) and will link the post here as well\n\n[https://www.reddit.com/r/wallstreetbets/comments/lxkeg0/repost\\_gme\\_squeeze\\_calculator/](https://www.reddit.com/r/wallstreetbets/comments/lxkeg0/repost_gme_squeeze_calculator/)\n\nThe post is pretty self-explanatory and gets deep down into the numbers if anyone is interested. It also provides a numerical value that backs the theory mentioned above. Take a look and fill in your 🍌🍌.\n\n*Disclaimer: Writing calls/puts do not have a direct impact on the price of the stock and only matter when the contracts are ITM and exercised. What I've mentioned above is a trend that I've noticed from the fundamentals of the option chain for GME. Do I think last week's squeeze is about to repeat itself? Yes. Should you take my word for it? Probably not a great idea, I wrote this at 4 am on a caffeine high. People need to realise that these call options only matter if they're In the Money (ITM) and can expire worthless if they're Out The money (OTM).*\n\n# Last week's squeeze\n\nI guess we can all agree last week's gamma squeeze was due to the market makers (MM) \"delta\" hedging strategy that seeks to be directionally neutral by establishing offsetting long and short positions in the same underlying assets.\n\nReaching ITM strike prices causes a surge in volume that is due to the calls being exercised. **If the stock reaches $150, that may cause an increase of 567k volume which will it boost it to the $200's and so on... (Domino effect)** Now what I'm stating isn't something new and has probably been mentioned by other users on this concept already. However, the volume of call options being expired is significant at the current stock price. Just to put it into perspective, **last week's gamma squeeze that was initiated by call options ITM had:**\n\n*1.86M shares at $55 = $102.3Million*\n\n*2.90M shares at $120 = $348Million*\n\n*Looking at the charts from last week, the spikes in the price directly correlated to options being exercised at the $55 and %120 strike price not to mention the volume increase due to FOMO and hype.* Comparing last week's data to 3rd march option chain:\n\n*the open contracts at $150 are alone worth more than last week's.*\n\n*567k shares at $150 = $85Million*\n\n*2.57M shares at $800= $2.06 Billion*\n\n**Please note the strike prices mentioned above are OTM currently and have been taken for comparison as per speculations if the stock price hits $150 by friday.**\n\nHuge value right? At this point, I won't be surprised if someone comes out and slaps me in the face because I would do the same to myself after looking at those numbers. Anyways, the point being is the week is similarly set up for a gamma squeeze like last week IF the $150 options are ITM by Friday. **Now, this is a big IF and it can go either way**, but if it does happen we'll be seeing the price skyrocket to the fucking moon just from the options being exercised.\n\n**TL;DR -**\n\n**High Calls OI coupled with increase in stock price shows bullish sentiment, this is reinforced with the increased Implied volatility for the options. Open interest at $800 is huge**\n\n**We might see a similar domino effect as calls could be exercised if they become ITM when the stock price reaches $150 that will ultimately push it to $200+ and so on.**\n\n&#x200B;\n\nWell you know the drill, now i'm out of coke and lost my last two remaining brain cells on this post. If I've messed up the calculations or numbers, please feel free to roast my ass so I've got the decency to edit and make them accurate. **Also, I'm no financial advisor and people should do their own research if they believe in a company**, what I've based this DD on is the trends I saw last week as well and is totally speculative at this point.\n\nAs always,\n\n**Lambos or instant noodles** 🚀🚀🙌💎",
+  "author_fullname": "t2_8lxn4rbt",
+  "saved": false,
+  "mod_reason_title": null,
+  "gilded": 0,
+  "clicked": false,
+  "title": "$GME DD part 2: Taking a look at the 06/03 calls open interest",
+  "link_flair_richtext": [
+    {
+      "e": "text",
+      "t": "DD"
+    }
+  ],
+  "subreddit_name_prefixed": "r/wallstreetbets",
+  "hidden": false,
+  "pwls": 7,
+  "link_flair_css_class": "dd",
+  "downs": 0,
+  "thumbnail_height": 22,
+  "top_awarded_type": null,
+  "hide_score": false,
+  "media_metadata": {
+    "748f9dojo8l61": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/jpg",
+      "p": [
+        {
+          "y": 17,
+          "x": 108,
+          "u": "https://preview.redd.it/748f9dojo8l61.jpg?width=108&crop=smart&auto=webp&s=6a49bb2da9af6ab23868fb41c97e850104cfc20c"
+        },
+        {
+          "y": 35,
+          "x": 216,
+          "u": "https://preview.redd.it/748f9dojo8l61.jpg?width=216&crop=smart&auto=webp&s=02817c917dcf53acb14c8f0f3d9a916594bfcf19"
+        },
+        {
+          "y": 52,
+          "x": 320,
+          "u": "https://preview.redd.it/748f9dojo8l61.jpg?width=320&crop=smart&auto=webp&s=0908b39f59ed68b934c57c2f2502727e5f9c96ce"
+        },
+        {
+          "y": 104,
+          "x": 640,
+          "u": "https://preview.redd.it/748f9dojo8l61.jpg?width=640&crop=smart&auto=webp&s=edf6db0fef8d2a5a6f2c13846a0fc5d9be109011"
+        },
+        {
+          "y": 157,
+          "x": 960,
+          "u": "https://preview.redd.it/748f9dojo8l61.jpg?width=960&crop=smart&auto=webp&s=5a237770e77571241363f5d95fe17ea87df07ac2"
+        },
+        {
+          "y": 176,
+          "x": 1080,
+          "u": "https://preview.redd.it/748f9dojo8l61.jpg?width=1080&crop=smart&auto=webp&s=8a62e2219d076e666b52f90c9b27fcd3204c87f8"
+        }
+      ],
+      "s": {
+        "y": 221,
+        "x": 1350,
+        "u": "https://preview.redd.it/748f9dojo8l61.jpg?width=1350&format=pjpg&auto=webp&s=573a5e17efd9d4c303511e41f9562456c2d362e9"
+      },
+      "id": "748f9dojo8l61"
+    },
+    "cm0irlcmo8l61": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/jpg",
+      "p": [
+        {
+          "y": 30,
+          "x": 108,
+          "u": "https://preview.redd.it/cm0irlcmo8l61.jpg?width=108&crop=smart&auto=webp&s=76d340201bac4cbf7c536241d09ad8a0b9f7a98d"
+        },
+        {
+          "y": 61,
+          "x": 216,
+          "u": "https://preview.redd.it/cm0irlcmo8l61.jpg?width=216&crop=smart&auto=webp&s=e79942d8c31716d1f33dba82efd6f771790e1830"
+        },
+        {
+          "y": 90,
+          "x": 320,
+          "u": "https://preview.redd.it/cm0irlcmo8l61.jpg?width=320&crop=smart&auto=webp&s=ff8e528ee03087c10be3e9f9a85bf2c439712545"
+        },
+        {
+          "y": 181,
+          "x": 640,
+          "u": "https://preview.redd.it/cm0irlcmo8l61.jpg?width=640&crop=smart&auto=webp&s=70d407600e09a74986c2cfcc9baf8680df62dfea"
+        },
+        {
+          "y": 271,
+          "x": 960,
+          "u": "https://preview.redd.it/cm0irlcmo8l61.jpg?width=960&crop=smart&auto=webp&s=b1ad8ecd2355bca204c7294b958cb695345361dd"
+        },
+        {
+          "y": 305,
+          "x": 1080,
+          "u": "https://preview.redd.it/cm0irlcmo8l61.jpg?width=1080&crop=smart&auto=webp&s=3e3a7a84ffb9fc4734b37793c1bfd2a06ae80662"
+        }
+      ],
+      "s": {
+        "y": 376,
+        "x": 1328,
+        "u": "https://preview.redd.it/cm0irlcmo8l61.jpg?width=1328&format=pjpg&auto=webp&s=c83bb67a238acf8bc4c6a6ce72c6617b97993745"
+      },
+      "id": "cm0irlcmo8l61"
+    }
+  },
+  "name": "t3_lycj6f",
+  "quarantine": false,
+  "link_flair_text_color": "light",
+  "upvote_ratio": 0.97,
+  "author_flair_background_color": null,
+  "subreddit_type": "public",
+  "ups": 2311,
+  "total_awards_received": 28,
+  "media_embed": {},
+  "thumbnail_width": 140,
+  "author_flair_template_id": null,
+  "is_original_content": false,
+  "user_reports": [],
+  "secure_media": null,
+  "is_reddit_media_domain": false,
+  "is_meta": false,
+  "category": null,
+  "secure_media_embed": {},
+  "link_flair_text": "DD",
+  "can_mod_post": false,
+  "score": 2311,
+  "approved_by": null,
+  "author_premium": true,
+  "thumbnail": "https://b.thumbs.redditmedia.com/E3DBj6z-TX_zo4bCB_4vq-rXfsJXOwCZFPdwzvetS5g.jpg",
+  "edited": 1614963057,
+  "author_flair_css_class": null,
+  "author_flair_richtext": [],
+  "gildings": {
+    "gid_1": 6
+  },
+  "content_categories": null,
+  "is_self": true,
+  "mod_note": null,
+  "created": 1614981977,
+  "link_flair_type": "richtext",
+  "wls": 7,
+  "removed_by_category": null,
+  "banned_by": null,
+  "author_flair_type": "text",
+  "domain": "self.wallstreetbets",
+  "allow_live_comments": true,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p><em>Before I start this post, I want to apologise for the late DD. Last few days we&#39;ve seen quite a change in options trading throughout the operating hours of the market and I wanted to use the latest data for this post so it wouldn&#39;t be misleading. To those that know me from my previous DD, you&#39;d know I threw a dart blindfolded (and high on coke) to predict a squeeze on the 24th (Close enough, I&#39;ll take it). I&#39;ve tried to keep this post short as possible because 90% of you retards have the attention span of a 2-month-old dog.</em></p>\n\n<p>Gamma Squeeze Quick Recap</p>\n\n<p><strong>Gamma squeeze can begin when a large investor, typically referred to as a whale, buys short-dated call options</strong>. The banks or brokers that sell the call options will typically buy the underlying stock so that they have very little or no net exposure. <strong>The more call options the investor buys, the more shares the brokers that sold the options will have to buy to ensure they are net flat</strong>. Brokers and dealers are motivated by the commissions and do not want to hold a trade either long or short. Given that these whales buy calls, the option purchases force the dealers to buy the underlying stock, which can push the share price higher. <em>If pulled off, this creates a positive feedback loop, thus can drive underlying stock(s) price higher for a period of time. In a roundabout way, the dealers must buy more and more of the underlying.</em></p>\n\n<p>When the price of the stock reaches above the strike price (In the Money), those who&#39;ve bought the call options <strong>may</strong> exercise their right to buy the shares.</p>\n\n<p>Why does this matter?</p>\n\n<p>Well first let&#39;s look at the call options expiring this Friday (5th march) that are OTM currently. Just pretend to stare at the tables if you can&#39;t read, I&#39;ll explain later.</p>\n\n<p>&#x200B;</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/748f9dojo8l61.jpg?width=1350&amp;format=pjpg&amp;auto=webp&amp;s=573a5e17efd9d4c303511e41f9562456c2d362e9\">Call options on 2nd March</a></p>\n\n<p>&#x200B;</p>\n\n<ul>\n<li>Volume ~ 46.4k</li>\n<li>Shares above the $150 strike price ~ 4.641 M</li>\n<li><strong>OPEN INTEREST ~ 0</strong></li>\n</ul>\n\n<p>&#x200B;</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/cm0irlcmo8l61.jpg?width=1328&amp;format=pjpg&amp;auto=webp&amp;s=c83bb67a238acf8bc4c6a6ce72c6617b97993745\">Call options on 3rd March</a></p>\n\n<p>&#x200B;</p>\n\n<ul>\n<li>Volume ~ 36.3k</li>\n<li>Shares above the $150 strike price ~ 3.627M</li>\n<li><strong>OPEN INTEREST ~</strong> <strong>43.04k</strong></li>\n</ul>\n\n<h1>Open Interest and IV</h1>\n\n<p><strong>Comparing the options chain between the two days, it could be seen that yesterday there was 43k in open interest in contrast to 0 on 2nd march. Why is this important?</strong></p>\n\n<p><em>Open interest gives you key information regarding the</em> <em>liquidity</em> <em>of an option, it reflects upon the number of contracts that are ACTIVELY held by investors and traders (These are the positions that have been opened and not closed yet).</em></p>\n\n<p>If there is no open interest in an option, there is no secondary market for that option. When options have a significant open interest, it means there are a large number of buyers and sellers out there. An active secondary market increases the odds of getting option orders filled at good prices. At its core, open interest paints a picture of how much capital is being injected into a given market. Keeping an eye on open interest is vital to identifying trends, in that growing open interest signifies that an influx of money is likely to stimulate action and aid price extension. Conversely, falling open interest alludes to activity “drying up” or capital exiting the market. This suggests that the presence of any prevailing trend is short-lived and adopting a reversal strategy may be the best course of action.</p>\n\n<p><em>All other things being equal, the bigger the open interest, the easier it will be to trade that option at a reasonable</em> <em>spread</em> <em>between the bid and ask.</em></p>\n\n<p><strong>Linking back to the GME options chain, a significant 43.04k call options (going long) accumulated yesterday when compared to 0 of the previous day (2nd March) .</strong> The rising prices during the uptrend (as seen in the last few hours of the market on 3rd march) coupled with the rising open interest, can mean that new money is coming into the market and <strong>can be a sign of bullish sentiment.</strong></p>\n\n<p>Another point I&#39;d like to make is the implied volatility which is extremely high for the options chains with a strike price above $150 (Yes I&#39;m looking at you Mr. $800). As expectations, or demand, rises for an option, the implied volatility (IV) increases proportionally and leads to a higher option premium due to the risky nature of the option. <strong>Why would any sensible investor buy 9.7k calls with a 906% IV if the stock was bound to plummet</strong>? And no, calls these huge are <em>probably not</em> bought by retail traders or people YOLOing. There&#39;s something larger at play and will probably require another post for institutional funds and hedgies ownership in GME (Trying to keep it on topic for now). The only viable reason I see is that large whales or investors see the potential for another gamma squeeze before the end of the week.</p>\n\n<p>EDIT 2: Took a look at the gamma squeeze predictor tool made by <a href=\"https://www.reddit.com/u/indonesian_activist/\">u/indonesian_activist</a> and will link the post here as well</p>\n\n<p><a href=\"https://www.reddit.com/r/wallstreetbets/comments/lxkeg0/repost_gme_squeeze_calculator/\">https://www.reddit.com/r/wallstreetbets/comments/lxkeg0/repost_gme_squeeze_calculator/</a></p>\n\n<p>The post is pretty self-explanatory and gets deep down into the numbers if anyone is interested. It also provides a numerical value that backs the theory mentioned above. Take a look and fill in your 🍌🍌.</p>\n\n<p><em>Disclaimer: Writing calls/puts do not have a direct impact on the price of the stock and only matter when the contracts are ITM and exercised. What I&#39;ve mentioned above is a trend that I&#39;ve noticed from the fundamentals of the option chain for GME. Do I think last week&#39;s squeeze is about to repeat itself? Yes. Should you take my word for it? Probably not a great idea, I wrote this at 4 am on a caffeine high. People need to realise that these call options only matter if they&#39;re In the Money (ITM) and can expire worthless if they&#39;re Out The money (OTM).</em></p>\n\n<h1>Last week&#39;s squeeze</h1>\n\n<p>I guess we can all agree last week&#39;s gamma squeeze was due to the market makers (MM) &quot;delta&quot; hedging strategy that seeks to be directionally neutral by establishing offsetting long and short positions in the same underlying assets.</p>\n\n<p>Reaching ITM strike prices causes a surge in volume that is due to the calls being exercised. <strong>If the stock reaches $150, that may cause an increase of 567k volume which will it boost it to the $200&#39;s and so on... (Domino effect)</strong> Now what I&#39;m stating isn&#39;t something new and has probably been mentioned by other users on this concept already. However, the volume of call options being expired is significant at the current stock price. Just to put it into perspective, <strong>last week&#39;s gamma squeeze that was initiated by call options ITM had:</strong></p>\n\n<p><em>1.86M shares at $55 = $102.3Million</em></p>\n\n<p><em>2.90M shares at $120 = $348Million</em></p>\n\n<p><em>Looking at the charts from last week, the spikes in the price directly correlated to options being exercised at the $55 and %120 strike price not to mention the volume increase due to FOMO and hype.</em> Comparing last week&#39;s data to 3rd march option chain:</p>\n\n<p><em>the open contracts at $150 are alone worth more than last week&#39;s.</em></p>\n\n<p><em>567k shares at $150 = $85Million</em></p>\n\n<p><em>2.57M shares at $800= $2.06 Billion</em></p>\n\n<p><strong>Please note the strike prices mentioned above are OTM currently and have been taken for comparison as per speculations if the stock price hits $150 by friday.</strong></p>\n\n<p>Huge value right? At this point, I won&#39;t be surprised if someone comes out and slaps me in the face because I would do the same to myself after looking at those numbers. Anyways, the point being is the week is similarly set up for a gamma squeeze like last week IF the $150 options are ITM by Friday. <strong>Now, this is a big IF and it can go either way</strong>, but if it does happen we&#39;ll be seeing the price skyrocket to the fucking moon just from the options being exercised.</p>\n\n<p><strong>TL;DR -</strong></p>\n\n<p><strong>High Calls OI coupled with increase in stock price shows bullish sentiment, this is reinforced with the increased Implied volatility for the options. Open interest at $800 is huge</strong></p>\n\n<p><strong>We might see a similar domino effect as calls could be exercised if they become ITM when the stock price reaches $150 that will ultimately push it to $200+ and so on.</strong></p>\n\n<p>&#x200B;</p>\n\n<p>Well you know the drill, now i&#39;m out of coke and lost my last two remaining brain cells on this post. If I&#39;ve messed up the calculations or numbers, please feel free to roast my ass so I&#39;ve got the decency to edit and make them accurate. <strong>Also, I&#39;m no financial advisor and people should do their own research if they believe in a company</strong>, what I&#39;ve based this DD on is the trends I saw last week as well and is totally speculative at this point.</p>\n\n<p>As always,</p>\n\n<p><strong>Lambos or instant noodles</strong> 🚀🚀🙌💎</p>\n</div><!-- SC_ON -->",
+  "likes": null,
+  "suggested_sort": "confidence",
+  "banned_at_utc": null,
+  "view_count": null,
+  "archived": false,
+  "no_follow": false,
+  "is_crosspostable": false,
+  "pinned": false,
+  "over_18": false,
+  "awarders": [],
+  "media_only": false,
+  "link_flair_template_id": "5692ce02-b860-11e5-b542-0edc7016bbd3",
+  "can_gild": false,
+  "spoiler": false,
+  "locked": false,
+  "author_flair_text": null,
+  "treatment_tags": [],
+  "visited": false,
+  "removed_by": null,
+  "num_reports": null,
+  "distinguished": null,
+  "subreddit_id": "t5_2th52",
+  "mod_reason_by": null,
+  "removal_reason": null,
+  "link_flair_background_color": "#365b8c",
+  "id": "lycj6f",
+  "is_robot_indexable": true,
+  "report_reasons": null,
+  "author": "CoastalHotDog835",
+  "discussion_type": null,
+  "num_comments": 362,
+  "send_replies": true,
+  "whitelist_status": "some_ads",
+  "contest_mode": false,
+  "mod_reports": [],
+  "author_patreon_flair": false,
+  "author_flair_text_color": null,
+  "permalink": "/r/wallstreetbets/comments/lycj6f/gme_dd_part_2_taking_a_look_at_the_0603_calls/",
+  "parent_whitelist_status": "some_ads",
+  "stickied": false,
+  "url": "https://www.reddit.com/r/wallstreetbets/comments/lycj6f/gme_dd_part_2_taking_a_look_at_the_0603_calls/",
+  "subreddit_subscribers": 9434922,
+  "created_utc": 1614976204,
+  "num_crossposts": 6,
+  "media": null,
+  "is_video": false,
+  "original_created_utc": 1614953177,
+  "the_new_excerpt": "Before I start this post, I want to apologise for the late DD. Last few days\nwe've seen quite a change in options trading throughout the operating hours of\nthe market and I wanted to use the latest data for this post so it wouldn't be\nmisleading. To those that know me from my previous DD, you'd know…"
+}
