@@ -53,5 +53,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-05T08:01:00Z"
+  "original_createdAt": "2021-03-05T08:01:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "WeLoveNoCode社区 - 一个与其他伟大的nocode开发者一起讨论、学习和团结的地方。它是免费的，社区驱动的，没有付费的会员资格。",
+      "tagline": "与Nocode一起学习、团结和建设。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "WeLoveNoCode社區 - 一個與其他偉大的nocode開發者一起討論、學習和團結的地方。它是免費的，社區驅動的，沒有付費的會員資格。",
+      "tagline": "與Nocode一起學習、團結和建設。"
+    }
+  ]
 }
