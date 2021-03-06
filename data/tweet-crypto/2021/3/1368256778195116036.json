@@ -195,5 +195,17 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Sat Mar 06 17:46:51 +0000 2021"
+  "original_created_at": "Sat Mar 06 17:46:51 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @zerohedge: *美国参议院通过了比登的190亿美元经济刺激法案。",
+      "retweeted_status_full_text": "*美国参议院通过了BIDEN的190亿美元经济刺激法案。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @zerohedge: *美國參議院通過了比登的190億美元經濟刺激法案。",
+      "retweeted_status_full_text": "*美國參議院通過了BIDEN的190億美元經濟刺激法案。"
+    }
+  ]
 }
