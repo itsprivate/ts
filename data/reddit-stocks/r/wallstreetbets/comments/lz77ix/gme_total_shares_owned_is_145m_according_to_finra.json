@@ -1,0 +1,314 @@
+{
+  "approved_at_utc": null,
+  "subreddit": "wallstreetbets",
+  "selftext": "Below I've calculated the short float and short % of shares outstanding based on the total shares owned by institutions and insiders based on [Finra](https://finra-markets.morningstar.com/MarketData/EquityOptions/detail.jsp?query=126%3A0P000002CH&sdkVersion=2.58.0&fbclid=IwAR3G67NlBN4QjI5jrYpg5sEyKzP6iUdyUMLj5ddt1z45DG9nfjX992UfZlY) which you can cross-reference the shareholder data and insiders data by clicking the tabs.\n\n[u/trey412](https://www.reddit.com/user/trey412/) DD is slightly wrong but thank you for the links and easy to read format. We are going to ignore the Fund Owners' Style and Equity Ownership Funds as these are all part of the Institutions shares. (They are showing the mutual funds and style of funds from large value to small value etc of the same shares.)\n\n&#x200B;\n\n**Number of Shares owned by Institutions:**  **140,703,372**\n\nhttps://preview.redd.it/py2reovn5gl61.png?width=611&format=png&auto=webp&s=98c1c6209e3313315e0943a8ab7ae9d9353ecd7b\n\nAbove is the total number of shares owned by ALL Institutions. If you calculate the Top 10 Institutions then you get 89,789,329.\n\nhttps://preview.redd.it/rqayg5oo5gl61.png?width=730&format=png&auto=webp&s=1891dc53e02e87c71749d565278b60468f8b1963\n\nEdit 2: I've just checked the 13F filings and FINRA ownership summary is duplicating the shareholder's 13F amended filings... Sorry guys I have to get ready, it's my birthday today in NZ so I'll update it in the next 6-8 hours!!! (But I suspect it's still 100K+ shares when you take the duplicates out.)\n\nhttps://preview.redd.it/41y0pjcjigl61.png?width=912&format=png&auto=webp&s=7e93c99c92766c3e987896f84950c8fc25ed3d0d\n\n**Number of Shares owned by Insiders:**   **4,412,111**\n\nhttps://preview.redd.it/i9rysmhp5gl61.png?width=650&format=png&auto=webp&s=b73f631607e64d6e3df2953360f5a81f596cc63c\n\n**Total Shares Outstanding = 145,115,483**\n\nThis is the number of shares owned by both Institutions and Insiders.\n\n&#x200B;\n\n**Total Shares Float = 65,200,000**\n\n[Yahoo! Finance Reported GME Balance Sheet](https://finance.yahoo.com/quote/GME/balance-sheet/)\n\nI've checked out other website's balance sheets for GME and they all slightly differ so rolling with the most popular company.\n\nThese are the total number of shares issued by Gamestop based off their balance sheets. Notice that Share Issued and Ordinary Shares Number are the same. This means that all 65,200,000 shares are available to the public. (This doesn't include insider shares.)\n\n[https:\\/\\/finance.yahoo.com\\/quote\\/GME\\/balance-sheet\\/](https://preview.redd.it/fdkk9klq5gl61.png?width=797&format=png&auto=webp&s=33ec28dfc1351d0aed5ee6ea58456269d83f81cf)\n\n**Total Shorted Shares = 79,915,483**\n\nThis is Total Shares owned by Institutions - Total Shares Float. Which means 55.1% of the 145,115,483 shares are shorted.\n\n**Short % of Shares Outstanding = 55.1%**\n\nThis is Total Shorted Shares ÷ Total Shares Outstanding x 100.\n\n**Short % of Float = 122.57%**\n\nThis is Total Shorted Shares ÷ Total Shares Float x 100.\n\n**Short Ratio (50 day) = 1.96**\n\nThis is the \"expected\" days to cover short positions (close out a company's outstanding shares that have been shorted).\n\n**79,915,483 SHARES NEED TO BE COVERED AND IT CAN TAKE UP TO** [13 CONSECUTIVE SETTLEMENT DAYS](https://financialreview.poole.ncsu.edu/wp-content/uploads/2015/07/Fails-to-deliver_before_and_after_the_implementation_of_Rule_203_and_Rule_204.pdf) **BEFORE BROKER-DEALERS ARE PROHIBITED FROM ACCEPTING SHORT SALE ORDERS.**\n\n[https://financialreview.poole.ncsu.edu/wp-content/uploads/2015/07/Fails-to-deliver\\_before\\_and\\_after\\_the\\_implementation\\_of\\_Rule\\_203\\_and\\_Rule\\_204.pdf](https://preview.redd.it/9bqdwhi9bdl61.png?width=665&format=png&auto=webp&s=52dd9bf75e3499fa82d33e314a7fe7ce53978f38)\n\n&#x200B;\n\n**My speculation (Don't take financial advice from me radarada I'm not a professional etc):** The increase in shorted shares since last month is because they're shorting GME to prevent eF-T-Ds (Failure to deliver) for the first bunch of shorted shares. **They're SELLING OUR SHARES BACK TO US to cover the original shares they owe us** until either we give up or **WE STOP BUYING** and allow the eF-T-Ds to come into action and they start **HAVING TO BUY THEM BACK**.\n\nLet's say they borrow your share and sell it to another retail investor for current shareprice of $100 then they buy a share for $100 too and then give it back to you. So they're basically increasing the share volume and covering their earlier shorts without paying a dime so that it doesn't cause eF-T-D. They could technically do this infinitely unless maybe government regulations intervenes?\n\nIt doesn't matter if the price drops, just hold your shares, you don't need to buy, you need to HOLD OR PLACE A SELL ORDER FOR WHATEVER AMOUNT YOU WANT TO SELL $1000+, $100,000+, whatever you want. The share price may drop (even if they continue doing ladder attacks) but the moment they start buying from the actual shareholders again, the price will rise extremely fast. If we all want to sell at $1000 then it will rise to $1000 immediately, it's just whatever an actual shareholder wants to sell at. And proof is in the pudding that majority only want to buy or hold.\n\nYOU CAN BUY OR NOT BUY. IT DOESN'T MATTER EITHER WAY, WE STILL CHOOSE OUR SELLING PRICE. If we stop buying then eF-T-D kicks in and they have to buy back shares at whatever price we want. If we keep buying then also that's good but just means it's a longer game and the pressure is going to be worse for them unless government or DTCC intervenes and forces them to close. Also worst case scenario for this whole thing is if hedgies do go bankrupt from this or Failure-To-Deliver and fined, then we still get our money from [clearing party](https://www.afr.com/companies/financial-services/quadrillion-dollar-corporation-at-the-heart-of-the-financial-system-20150707-gi6w7b)/broker. Basically we are win/win, set your desired sell price.\n\n**TL;DR**: Ape stonk 🦧🚀🚀🌚🍌🍌🍌 Shares are heavily shorted and increasing. If you sell at a loss you're defo a paper hand! Do your DD, Finra needs to write their data inputs properly. Good luck at the casino!\n\n^(I have to write eF-T-D to stop post being banned by ticker...)",
+  "author_fullname": "t2_gzjki",
+  "saved": false,
+  "mod_reason_title": null,
+  "gilded": 0,
+  "clicked": false,
+  "title": "GME total shares owned is 145M+ according to FINRA. That's more than 2.2x the available shares issued by GME.",
+  "link_flair_richtext": [
+    {
+      "e": "text",
+      "t": "DD"
+    }
+  ],
+  "subreddit_name_prefixed": "r/wallstreetbets",
+  "hidden": false,
+  "pwls": 7,
+  "link_flair_css_class": "dd",
+  "downs": 0,
+  "thumbnail_height": 32,
+  "top_awarded_type": null,
+  "hide_score": false,
+  "media_metadata": {
+    "i9rysmhp5gl61": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 122,
+          "x": 108,
+          "u": "https://preview.redd.it/i9rysmhp5gl61.png?width=108&crop=smart&auto=webp&s=81b2573b14216cac144c4b08f4c1f47ff79422bd"
+        },
+        {
+          "y": 245,
+          "x": 216,
+          "u": "https://preview.redd.it/i9rysmhp5gl61.png?width=216&crop=smart&auto=webp&s=24b820d9fad6455f949cc08fb4ef2684f613389b"
+        },
+        {
+          "y": 364,
+          "x": 320,
+          "u": "https://preview.redd.it/i9rysmhp5gl61.png?width=320&crop=smart&auto=webp&s=93564b465d4fd2b14ff326daf7aef6c46dd90a6e"
+        },
+        {
+          "y": 728,
+          "x": 640,
+          "u": "https://preview.redd.it/i9rysmhp5gl61.png?width=640&crop=smart&auto=webp&s=795e082bcabb68ee337f6836b3854a8cea9700ae"
+        }
+      ],
+      "s": {
+        "y": 740,
+        "x": 650,
+        "u": "https://preview.redd.it/i9rysmhp5gl61.png?width=650&format=png&auto=webp&s=b73f631607e64d6e3df2953360f5a81f596cc63c"
+      },
+      "id": "i9rysmhp5gl61"
+    },
+    "rqayg5oo5gl61": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 42,
+          "x": 108,
+          "u": "https://preview.redd.it/rqayg5oo5gl61.png?width=108&crop=smart&auto=webp&s=53eb714b02f584ae70f369926fdedd7bb0fdad3f"
+        },
+        {
+          "y": 84,
+          "x": 216,
+          "u": "https://preview.redd.it/rqayg5oo5gl61.png?width=216&crop=smart&auto=webp&s=acd75a480da5e27e649fd7d07e1f7906fea650e5"
+        },
+        {
+          "y": 124,
+          "x": 320,
+          "u": "https://preview.redd.it/rqayg5oo5gl61.png?width=320&crop=smart&auto=webp&s=6e5ad47410acc191857caea0b70cc3384ffa0b5b"
+        },
+        {
+          "y": 248,
+          "x": 640,
+          "u": "https://preview.redd.it/rqayg5oo5gl61.png?width=640&crop=smart&auto=webp&s=a8651e8f41a27b5dc0adfa850e37376007c8406f"
+        }
+      ],
+      "s": {
+        "y": 284,
+        "x": 730,
+        "u": "https://preview.redd.it/rqayg5oo5gl61.png?width=730&format=png&auto=webp&s=1891dc53e02e87c71749d565278b60468f8b1963"
+      },
+      "id": "rqayg5oo5gl61"
+    },
+    "41y0pjcjigl61": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 60,
+          "x": 108,
+          "u": "https://preview.redd.it/41y0pjcjigl61.png?width=108&crop=smart&auto=webp&s=c30377e27b69a2387969a4f28525f0df46f46b64"
+        },
+        {
+          "y": 121,
+          "x": 216,
+          "u": "https://preview.redd.it/41y0pjcjigl61.png?width=216&crop=smart&auto=webp&s=fce892367e5b45ea44c94004c3707455aa31ce04"
+        },
+        {
+          "y": 180,
+          "x": 320,
+          "u": "https://preview.redd.it/41y0pjcjigl61.png?width=320&crop=smart&auto=webp&s=5f549b9efbb76c4682ab0b108cf653b4e534f192"
+        },
+        {
+          "y": 361,
+          "x": 640,
+          "u": "https://preview.redd.it/41y0pjcjigl61.png?width=640&crop=smart&auto=webp&s=fb96800b4d1b0054c2c9a16e736b6319173446a2"
+        }
+      ],
+      "s": {
+        "y": 515,
+        "x": 912,
+        "u": "https://preview.redd.it/41y0pjcjigl61.png?width=912&format=png&auto=webp&s=7e93c99c92766c3e987896f84950c8fc25ed3d0d"
+      },
+      "id": "41y0pjcjigl61"
+    },
+    "py2reovn5gl61": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 65,
+          "x": 108,
+          "u": "https://preview.redd.it/py2reovn5gl61.png?width=108&crop=smart&auto=webp&s=48922d8f3a11507458070de71dea61e58ae143df"
+        },
+        {
+          "y": 130,
+          "x": 216,
+          "u": "https://preview.redd.it/py2reovn5gl61.png?width=216&crop=smart&auto=webp&s=22e181411e329dee98bf8ab9a752a370d6bfee21"
+        },
+        {
+          "y": 193,
+          "x": 320,
+          "u": "https://preview.redd.it/py2reovn5gl61.png?width=320&crop=smart&auto=webp&s=44f72a12eb8f35e6d35ff8d325826fcf4969332d"
+        }
+      ],
+      "s": {
+        "y": 370,
+        "x": 611,
+        "u": "https://preview.redd.it/py2reovn5gl61.png?width=611&format=png&auto=webp&s=98c1c6209e3313315e0943a8ab7ae9d9353ecd7b"
+      },
+      "id": "py2reovn5gl61"
+    },
+    "fdkk9klq5gl61": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 75,
+          "x": 108,
+          "u": "https://preview.redd.it/fdkk9klq5gl61.png?width=108&crop=smart&auto=webp&s=5281b7c0f10fdcf352bb8321169ed2b559b2213a"
+        },
+        {
+          "y": 151,
+          "x": 216,
+          "u": "https://preview.redd.it/fdkk9klq5gl61.png?width=216&crop=smart&auto=webp&s=7ddd2d3abd4ee59d8154f262e13ac813520c5256"
+        },
+        {
+          "y": 224,
+          "x": 320,
+          "u": "https://preview.redd.it/fdkk9klq5gl61.png?width=320&crop=smart&auto=webp&s=4ead03085af614d221f7160ccb2dae4bef19ac79"
+        },
+        {
+          "y": 448,
+          "x": 640,
+          "u": "https://preview.redd.it/fdkk9klq5gl61.png?width=640&crop=smart&auto=webp&s=815a7d6b3ac764e503ec781a8b426977997f6bf5"
+        }
+      ],
+      "s": {
+        "y": 559,
+        "x": 797,
+        "u": "https://preview.redd.it/fdkk9klq5gl61.png?width=797&format=png&auto=webp&s=33ec28dfc1351d0aed5ee6ea58456269d83f81cf"
+      },
+      "id": "fdkk9klq5gl61"
+    }
+  },
+  "name": "t3_lz77ix",
+  "quarantine": false,
+  "link_flair_text_color": "light",
+  "upvote_ratio": 0.91,
+  "author_flair_background_color": null,
+  "subreddit_type": "public",
+  "ups": 2379,
+  "total_awards_received": 19,
+  "media_embed": {},
+  "thumbnail_width": 140,
+  "author_flair_template_id": null,
+  "is_original_content": false,
+  "user_reports": [],
+  "secure_media": null,
+  "is_reddit_media_domain": false,
+  "is_meta": false,
+  "category": null,
+  "secure_media_embed": {},
+  "link_flair_text": "DD",
+  "can_mod_post": false,
+  "score": 2379,
+  "approved_by": null,
+  "author_premium": true,
+  "thumbnail": "https://b.thumbs.redditmedia.com/0OY_5yjOD7SU7wB5UD3isVTZNLQtZBsxiuQxNxHxnaQ.jpg",
+  "edited": 1615057942,
+  "author_flair_css_class": null,
+  "author_flair_richtext": [],
+  "gildings": {
+    "gid_1": 7
+  },
+  "post_hint": "self",
+  "content_categories": null,
+  "is_self": true,
+  "mod_note": null,
+  "created": 1615082548,
+  "link_flair_type": "richtext",
+  "wls": 7,
+  "removed_by_category": null,
+  "banned_by": null,
+  "author_flair_type": "text",
+  "domain": "self.wallstreetbets",
+  "allow_live_comments": true,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Below I&#39;ve calculated the short float and short % of shares outstanding based on the total shares owned by institutions and insiders based on <a href=\"https://finra-markets.morningstar.com/MarketData/EquityOptions/detail.jsp?query=126%3A0P000002CH&amp;sdkVersion=2.58.0&amp;fbclid=IwAR3G67NlBN4QjI5jrYpg5sEyKzP6iUdyUMLj5ddt1z45DG9nfjX992UfZlY\">Finra</a> which you can cross-reference the shareholder data and insiders data by clicking the tabs.</p>\n\n<p><a href=\"https://www.reddit.com/user/trey412/\">u/trey412</a> DD is slightly wrong but thank you for the links and easy to read format. We are going to ignore the Fund Owners&#39; Style and Equity Ownership Funds as these are all part of the Institutions shares. (They are showing the mutual funds and style of funds from large value to small value etc of the same shares.)</p>\n\n<p>&#x200B;</p>\n\n<p><strong>Number of Shares owned by Institutions:</strong>  <strong>140,703,372</strong></p>\n\n<p><a href=\"https://preview.redd.it/py2reovn5gl61.png?width=611&amp;format=png&amp;auto=webp&amp;s=98c1c6209e3313315e0943a8ab7ae9d9353ecd7b\">https://preview.redd.it/py2reovn5gl61.png?width=611&amp;format=png&amp;auto=webp&amp;s=98c1c6209e3313315e0943a8ab7ae9d9353ecd7b</a></p>\n\n<p>Above is the total number of shares owned by ALL Institutions. If you calculate the Top 10 Institutions then you get 89,789,329.</p>\n\n<p><a href=\"https://preview.redd.it/rqayg5oo5gl61.png?width=730&amp;format=png&amp;auto=webp&amp;s=1891dc53e02e87c71749d565278b60468f8b1963\">https://preview.redd.it/rqayg5oo5gl61.png?width=730&amp;format=png&amp;auto=webp&amp;s=1891dc53e02e87c71749d565278b60468f8b1963</a></p>\n\n<p>Edit 2: I&#39;ve just checked the 13F filings and FINRA ownership summary is duplicating the shareholder&#39;s 13F amended filings... Sorry guys I have to get ready, it&#39;s my birthday today in NZ so I&#39;ll update it in the next 6-8 hours!!! (But I suspect it&#39;s still 100K+ shares when you take the duplicates out.)</p>\n\n<p><a href=\"https://preview.redd.it/41y0pjcjigl61.png?width=912&amp;format=png&amp;auto=webp&amp;s=7e93c99c92766c3e987896f84950c8fc25ed3d0d\">https://preview.redd.it/41y0pjcjigl61.png?width=912&amp;format=png&amp;auto=webp&amp;s=7e93c99c92766c3e987896f84950c8fc25ed3d0d</a></p>\n\n<p><strong>Number of Shares owned by Insiders:</strong>   <strong>4,412,111</strong></p>\n\n<p><a href=\"https://preview.redd.it/i9rysmhp5gl61.png?width=650&amp;format=png&amp;auto=webp&amp;s=b73f631607e64d6e3df2953360f5a81f596cc63c\">https://preview.redd.it/i9rysmhp5gl61.png?width=650&amp;format=png&amp;auto=webp&amp;s=b73f631607e64d6e3df2953360f5a81f596cc63c</a></p>\n\n<p><strong>Total Shares Outstanding = 145,115,483</strong></p>\n\n<p>This is the number of shares owned by both Institutions and Insiders.</p>\n\n<p>&#x200B;</p>\n\n<p><strong>Total Shares Float = 65,200,000</strong></p>\n\n<p><a href=\"https://finance.yahoo.com/quote/GME/balance-sheet/\">Yahoo! Finance Reported GME Balance Sheet</a></p>\n\n<p>I&#39;ve checked out other website&#39;s balance sheets for GME and they all slightly differ so rolling with the most popular company.</p>\n\n<p>These are the total number of shares issued by Gamestop based off their balance sheets. Notice that Share Issued and Ordinary Shares Number are the same. This means that all 65,200,000 shares are available to the public. (This doesn&#39;t include insider shares.)</p>\n\n<p><a href=\"https://preview.redd.it/fdkk9klq5gl61.png?width=797&amp;format=png&amp;auto=webp&amp;s=33ec28dfc1351d0aed5ee6ea58456269d83f81cf\">https://finance.yahoo.com/quote/GME/balance-sheet/</a></p>\n\n<p><strong>Total Shorted Shares = 79,915,483</strong></p>\n\n<p>This is Total Shares owned by Institutions - Total Shares Float. Which means 55.1% of the 145,115,483 shares are shorted.</p>\n\n<p><strong>Short % of Shares Outstanding = 55.1%</strong></p>\n\n<p>This is Total Shorted Shares ÷ Total Shares Outstanding x 100.</p>\n\n<p><strong>Short % of Float = 122.57%</strong></p>\n\n<p>This is Total Shorted Shares ÷ Total Shares Float x 100.</p>\n\n<p><strong>Short Ratio (50 day) = 1.96</strong></p>\n\n<p>This is the &quot;expected&quot; days to cover short positions (close out a company&#39;s outstanding shares that have been shorted).</p>\n\n<p><strong>79,915,483 SHARES NEED TO BE COVERED AND IT CAN TAKE UP TO</strong> <a href=\"https://financialreview.poole.ncsu.edu/wp-content/uploads/2015/07/Fails-to-deliver_before_and_after_the_implementation_of_Rule_203_and_Rule_204.pdf\">13 CONSECUTIVE SETTLEMENT DAYS</a> <strong>BEFORE BROKER-DEALERS ARE PROHIBITED FROM ACCEPTING SHORT SALE ORDERS.</strong></p>\n\n<p><a href=\"https://preview.redd.it/9bqdwhi9bdl61.png?width=665&amp;format=png&amp;auto=webp&amp;s=52dd9bf75e3499fa82d33e314a7fe7ce53978f38\">https://financialreview.poole.ncsu.edu/wp-content/uploads/2015/07/Fails-to-deliver_before_and_after_the_implementation_of_Rule_203_and_Rule_204.pdf</a></p>\n\n<p>&#x200B;</p>\n\n<p><strong>My speculation (Don&#39;t take financial advice from me radarada I&#39;m not a professional etc):</strong> The increase in shorted shares since last month is because they&#39;re shorting GME to prevent eF-T-Ds (Failure to deliver) for the first bunch of shorted shares. <strong>They&#39;re SELLING OUR SHARES BACK TO US to cover the original shares they owe us</strong> until either we give up or <strong>WE STOP BUYING</strong> and allow the eF-T-Ds to come into action and they start <strong>HAVING TO BUY THEM BACK</strong>.</p>\n\n<p>Let&#39;s say they borrow your share and sell it to another retail investor for current shareprice of $100 then they buy a share for $100 too and then give it back to you. So they&#39;re basically increasing the share volume and covering their earlier shorts without paying a dime so that it doesn&#39;t cause eF-T-D. They could technically do this infinitely unless maybe government regulations intervenes?</p>\n\n<p>It doesn&#39;t matter if the price drops, just hold your shares, you don&#39;t need to buy, you need to HOLD OR PLACE A SELL ORDER FOR WHATEVER AMOUNT YOU WANT TO SELL $1000+, $100,000+, whatever you want. The share price may drop (even if they continue doing ladder attacks) but the moment they start buying from the actual shareholders again, the price will rise extremely fast. If we all want to sell at $1000 then it will rise to $1000 immediately, it&#39;s just whatever an actual shareholder wants to sell at. And proof is in the pudding that majority only want to buy or hold.</p>\n\n<p>YOU CAN BUY OR NOT BUY. IT DOESN&#39;T MATTER EITHER WAY, WE STILL CHOOSE OUR SELLING PRICE. If we stop buying then eF-T-D kicks in and they have to buy back shares at whatever price we want. If we keep buying then also that&#39;s good but just means it&#39;s a longer game and the pressure is going to be worse for them unless government or DTCC intervenes and forces them to close. Also worst case scenario for this whole thing is if hedgies do go bankrupt from this or Failure-To-Deliver and fined, then we still get our money from <a href=\"https://www.afr.com/companies/financial-services/quadrillion-dollar-corporation-at-the-heart-of-the-financial-system-20150707-gi6w7b\">clearing party</a>/broker. Basically we are win/win, set your desired sell price.</p>\n\n<p><strong>TL;DR</strong>: Ape stonk 🦧🚀🚀🌚🍌🍌🍌 Shares are heavily shorted and increasing. If you sell at a loss you&#39;re defo a paper hand! Do your DD, Finra needs to write their data inputs properly. Good luck at the casino!</p>\n\n<p><sup>I have to write eF-T-D to stop post being banned by ticker...</sup></p>\n</div><!-- SC_ON -->",
+  "likes": null,
+  "suggested_sort": "confidence",
+  "banned_at_utc": null,
+  "view_count": null,
+  "archived": false,
+  "no_follow": false,
+  "is_crosspostable": false,
+  "pinned": false,
+  "over_18": false,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/CqfK8GZdE3QyLYwFkhiJGjvb5Ti9VdElezV6DMGoDfg.png?auto=webp&s=cd766d7c69af78246195f2902461ac3473c8bb12",
+          "width": 665,
+          "height": 155
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/CqfK8GZdE3QyLYwFkhiJGjvb5Ti9VdElezV6DMGoDfg.png?width=108&crop=smart&auto=webp&s=0dab5fea93d57da46e446082404b28b2850324fd",
+            "width": 108,
+            "height": 25
+          },
+          {
+            "url": "https://external-preview.redd.it/CqfK8GZdE3QyLYwFkhiJGjvb5Ti9VdElezV6DMGoDfg.png?width=216&crop=smart&auto=webp&s=b3456df9d0102d16e59e70e93d108f69e5e6f6f8",
+            "width": 216,
+            "height": 50
+          },
+          {
+            "url": "https://external-preview.redd.it/CqfK8GZdE3QyLYwFkhiJGjvb5Ti9VdElezV6DMGoDfg.png?width=320&crop=smart&auto=webp&s=83de0539e4c48a2fbae1673b0f577c77798c5961",
+            "width": 320,
+            "height": 74
+          },
+          {
+            "url": "https://external-preview.redd.it/CqfK8GZdE3QyLYwFkhiJGjvb5Ti9VdElezV6DMGoDfg.png?width=640&crop=smart&auto=webp&s=54392a884893c0ba644a86ad36e2dc6ea98d0e6c",
+            "width": 640,
+            "height": 149
+          }
+        ],
+        "variants": {},
+        "id": "M7BKaKnGVFc5h5ywr8rd42JITuQIw4QUfGorVw2JdVI"
+      }
+    ],
+    "enabled": false
+  },
+  "awarders": [],
+  "media_only": false,
+  "link_flair_template_id": "5692ce02-b860-11e5-b542-0edc7016bbd3",
+  "can_gild": false,
+  "spoiler": false,
+  "locked": false,
+  "author_flair_text": null,
+  "treatment_tags": [],
+  "visited": false,
+  "removed_by": null,
+  "num_reports": null,
+  "distinguished": null,
+  "subreddit_id": "t5_2th52",
+  "mod_reason_by": null,
+  "removal_reason": null,
+  "link_flair_background_color": "#365b8c",
+  "id": "lz77ix",
+  "is_robot_indexable": true,
+  "report_reasons": null,
+  "author": "happychappyrose",
+  "discussion_type": null,
+  "num_comments": 298,
+  "send_replies": true,
+  "whitelist_status": "some_ads",
+  "contest_mode": false,
+  "mod_reports": [],
+  "author_patreon_flair": false,
+  "author_flair_text_color": null,
+  "permalink": "/r/wallstreetbets/comments/lz77ix/gme_total_shares_owned_is_145m_according_to_finra/",
+  "parent_whitelist_status": "some_ads",
+  "stickied": false,
+  "url": "https://www.reddit.com/r/wallstreetbets/comments/lz77ix/gme_total_shares_owned_is_145m_according_to_finra/",
+  "subreddit_subscribers": 9443784,
+  "created_utc": 1615069545,
+  "num_crossposts": 1,
+  "media": null,
+  "is_video": false,
+  "original_created_utc": 1615053748,
+  "the_new_excerpt": "Below I've calculated the short float and short % of shares outstanding based on\nthe total shares owned by institutions and insiders based on Finra\n[https://finra…"
+}
