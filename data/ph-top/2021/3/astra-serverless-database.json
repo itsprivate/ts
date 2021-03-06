@@ -68,5 +68,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-06T10:22:59Z"
+  "original_createdAt": "2021-03-06T10:22:59Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "按需扩展数据库资源，以满足应用需求和流量，因此您只需为您使用的资源付费。在每个云上运行，并提供开发者GraphQL、REST、JSON、CQL API。每月25美元的使用额度。",
+      "tagline": "按需数据库，为您的下一个项目增压"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "按需擴展數據庫資源，以滿足應用需求和流量，因此您只需爲您使用的資源付費。在每個雲上運行，並提供開發者GraphQL、REST、JSON、CQL API。每月25美元的使用額度。",
+      "tagline": "按需數據庫，爲您的下一個項目增壓"
+    }
+  ]
 }
