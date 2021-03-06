@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-03-05T18:27:00.000Z",
-  "image": "https://datatransferproject.dev/images/logo-dtp.png"
+  "image": "https://datatransferproject.dev/images/logo-dtp.png",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "苹果、Facebook、谷歌、微软等公司的数据传输项目。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "蘋果、Facebook、谷歌、微軟等公司的數據傳輸項目。"
+    }
+  ]
 }
