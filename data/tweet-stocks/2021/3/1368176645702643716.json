@@ -91,5 +91,15 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Sat Mar 06 12:28:26 +0000 2021"
+  "original_created_at": "Sat Mar 06 12:28:26 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "美国比英国做得更好的事情。\n\n- 炸鸡三明治   \n- 技术公司"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "美國比英國做得更好的事情。\n\n- 炸雞三明治   \n- 技術公司"
+    }
+  ]
 }
