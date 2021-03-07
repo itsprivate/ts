@@ -91,5 +91,15 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Sun Mar 07 13:04:02 +0000 2021"
+  "original_created_at": "Sun Mar 07 13:04:02 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "我今天早上6：45起床。我的孩子7点起床，也就是晚了3.5%。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "我今天早上6：45起牀。我的孩子7點起牀，也就是晚了3.5%。"
+    }
+  ]
 }
