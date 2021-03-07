@@ -68,5 +68,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-07T09:00:00Z"
+  "original_createdAt": "2021-03-07T09:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "我们的基于浏览器的插件可以让您在10分钟内建立Excel导入自动化流程。不需要任何代码。而且该工具可在任何在线业务系统中使用。",
+      "tagline": "自动将Excel导入到任何在线业务系统中"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們的基於瀏覽器的插件可以讓您在10分鐘內建立Excel導入自動化流程。不需要任何代碼。而且該工具可在任何在線業務系統中使用。",
+      "tagline": "自動將Excel導入到任何在線業務系統中"
+    }
+  ]
 }
