@@ -68,5 +68,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-08T05:16:16Z"
+  "original_createdAt": "2021-03-08T05:16:16Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "网络分析变得简单，因此对隐私友好。没有Cookies。没有记录。没有IP地址指纹。我们不收集个人数据，这允许以较少的托管成本为许多用户服务。源代码是在AGPL-v3许可下发布的。",
+      "tagline": "简单而免费的网络分析"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "網絡分析變得簡單，因此對隱私友好。沒有Cookies。沒有記錄。沒有IP地址指紋。我們不收集個人數據，這允許以較少的託管成本爲許多用戶服務。源代碼是在AGPL-v3許可下發布的。",
+      "tagline": "簡單而免費的網絡分析"
+    }
+  ]
 }
