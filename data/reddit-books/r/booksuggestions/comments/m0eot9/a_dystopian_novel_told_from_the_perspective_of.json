@@ -105,5 +105,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1615206587,
-  "the_new_excerpt": "Something like 1984 if from the POV of Big Brother"
+  "the_new_excerpt": "Something like 1984 if from the POV of Big Brother",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "就像《1984》一样，如果从大哥的角度来看的话",
+      "title": "以独裁者、霸主、上流社会型社会的视角讲述的荒诞小说。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "就像《1984》一樣，如果從大哥的角度來看的話",
+      "title": "以獨裁者、霸主、上流社會型社會的視角講述的荒誕小說。"
+    }
+  ]
 }
