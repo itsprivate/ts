@@ -73,5 +73,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-08T08:01:00Z"
+  "original_createdAt": "2021-03-08T08:01:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "https://pry.co 帮助创始人和制造商管理他们的财务。而不是使用Excel，创始人和企业主可以使用Pry来管理他们的预算、支出、招聘计划和现金跑道。",
+      "tagline": "创始人和制造者的融资"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "https://pry.co 幫助創始人和製造商管理他們的財務。而不是使用Excel，創始人和企業主可以使用Pry來管理他們的預算、支出、招聘計劃和現金跑道。",
+      "tagline": "創始人和製造者的融資"
+    }
+  ]
 }
