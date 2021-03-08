@@ -196,5 +196,17 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Sun Mar 07 15:05:20 +0000 2021"
+  "original_created_at": "Sun Mar 07 15:05:20 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @AllisonReichel: 很少有事情能像看着你的朋友成功一样令人愉快。",
+      "retweeted_status_full_text": "很少有事情能像看着你的朋友们成功一样令人愉快"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @AllisonReichel: 很少有事情能像看着你的朋友成功一樣令人愉快。",
+      "retweeted_status_full_text": "很少有事情能像看着你的朋友們成功一樣令人愉快"
+    }
+  ]
 }
