@@ -14,5 +14,15 @@
   "tags": [
     "BBC News"
   ],
-  "image": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.1.0/bbc_news_logo.png"
+  "image": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.1.0/bbc_news_logo.png",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "科维德：英国学校回归，总理将率领10号简报。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "科維德：英國學校迴歸，總理將率領10號簡報。"
+    }
+  ]
 }
