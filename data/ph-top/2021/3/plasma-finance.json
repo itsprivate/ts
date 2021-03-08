@@ -83,5 +83,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-08T11:30:34Z"
+  "original_createdAt": "2021-03-08T11:30:34Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Plasma.Finance是DeFi仪表板，它聚合了来自不同区块链的最流行的DeFi协议，允许用户在一个简单的界面上管理他们的DeFi投资组合。您可以使用Coinbase或Metamask钱包交易和购买任何ERC20代币。",
+      "tagline": "最简单的投资DeFi和管理加密投资组合的方法。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Plasma.Finance是DeFi儀表板，它聚合了來自不同區塊鏈的最流行的DeFi協議，允許用戶在一個簡單的界面上管理他們的DeFi投資組合。您可以使用Coinbase或Metamask錢包交易和購買任何ERC20代幣。",
+      "tagline": "最簡單的投資DeFi和管理加密投資組合的方法。"
+    }
+  ]
 }
