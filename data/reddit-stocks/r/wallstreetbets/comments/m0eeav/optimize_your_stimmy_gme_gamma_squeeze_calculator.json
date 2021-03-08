@@ -1,0 +1,479 @@
+{
+  "approved_at_utc": null,
+  "subreddit": "wallstreetbets",
+  "selftext": "The purpose of these posts is to provide tools that enable 🦍 🦍 🦍 to calculate the gamma squeeze effect for themselves.\n\nI've updated the gamma squeeze calculator to include all the option chains until 2023 and removed the 3/5 expired ones, it now contains a total of 2,603 strikes and expiries. I have also added several new parameters to address shortcomings that others had pointed out. If for example you wish to only include strikes that will expire ITM in that week, now you can do it via the filters.\n\nhttps://preview.redd.it/j8j3fot8nsl61.jpg?width=1120&format=pjpg&auto=webp&s=fbd7f7bfc8658ee73bf64e2ece3c680ec49d5de2\n\n**Download Link**\n\n[https://drive.google.com/file/d/1IcUJUL3f9T3DJrniKBlJts8EQEOBAriy/view?usp=sharing](https://drive.google.com/file/d/1IcUJUL3f9T3DJrniKBlJts8EQEOBAriy/view?usp=sharing)\n\n^(Takes time to load due to lots of vba calculation, does not contains viruses or malwares)\n\n**VirusTotal Scans**\n\nhttps://preview.redd.it/91mgdbfcnsl61.jpg?width=1869&format=pjpg&auto=webp&s=cc9ce5f895f2e0bf8c4b3b7c41833466280bf4a9\n\n[https://www.virustotal.com/gui/file/45d1f42c66f0fbeb91c4b8a81d7acac884e462fe2dab855b960d70dbcd0b1403/detection](https://www.virustotal.com/gui/file/45d1f42c66f0fbeb91c4b8a81d7acac884e462fe2dab855b960d70dbcd0b1403/detection)\n\nThe calculator can be used to simulate several projected delta hedging scenarios under different forecasted prices with the time value as a parameter\n\nhttps://preview.redd.it/ftfr19bmnsl61.jpg?width=421&format=pjpg&auto=webp&s=8ee056d4fbcd4c95690d429d53c780f719511d29\n\nWe see from the cover that even using very conservative parameters, MMs are holding close to 20% of the float just to delta hedge, which might partly explain the high float percentage owned by institutions as displayed on Bloomberg's terminal.\n\nNow 🦍 🦍 🦍 only have limited amount of 🍌🍌🍌, 🦍 🦍 🦍 need to ensure each 🍌 is used for maximum effect. Based on the calculator's BSM modeling, the best delta/price ratio in the options chain across all expiries would be\n\nhttps://preview.redd.it/7f1mifkqnsl61.jpg?width=1514&format=pjpg&auto=webp&s=c0b071e11c59970d61a5b84efe8e4cde2a28c3c1\n\nThe 3/12 270C, if apes were to buy one contract, 3.04 x 100 = $304, then MMs would need to hedge 0.137x100x137.74 = $1882 worth of shares to remain delta neutral\n\nGiving an amplification factor of\n\n**1 🍌 -> 6 🍌**\n\nOTM calls like these might be fine for YOLO-ers 🦍 , but carry very high risk of 🦍 loosing all 🍌, if 3/12 closing price ends below 270. A safer way for 🦍, would probably be ITM calls, somewhere around the 100-110C strike price\n\nhttps://preview.redd.it/nsheej6tnsl61.jpg?width=1517&format=pjpg&auto=webp&s=9ebb4ab3f305e9d3e940c030ca1229592e2fce75\n\nThis would still gives 1 🍌 -> 3 🍌 in delta hedge amplification\n\nThe profit / loss for 🦍🦍🦍 would be\n\nhttps://preview.redd.it/rbgtyh85osl61.jpg?width=421&format=pjpg&auto=webp&s=ad69aea9b0da22fda291cb21156cefba9bda245d\n\nSuppose $GME on 3/12 does close above 151, what should 🦍 do next ? Best would be to exercise those calls, but most 🦍🦍🦍 are poor(because they are 🦍🦍🦍) and don't have enough powder to exercise calls. The next best thing would be to rollover those calls, selling 🦍's calls that are expiring and buying the next week's ITM calls at higher strike, further propagating the gamma squeeze. Here's a graphical illustration of the process\n\nhttps://preview.redd.it/4tvci7b7osl61.jpg?width=1280&format=pjpg&auto=webp&s=16ac2e20103057ca7421be70b341850cef7bc34d\n\nthis way, 🦍 ape can ensure 🍌 is used to maximum effect, without taking on too much risk while also mitigating the shorts attacks.\n\n🦍🦍🦍 path to victory is almost ensured, but 🦍 should be aware that  🦍 is not in the final stage yet, 🦍 still needs to go through MMs first before showdown with 🐊👑 in WallStreet. MMs are cold blooded amphibian species that likes to dwell in polluted bodies of water, thus most can be found alongside the Chicago river in Wacker drive. The following map shows path to infinite 🍌🍌🍌\n\nhttps://preview.redd.it/7hc1j48dosl61.jpg?width=1293&format=pjpg&auto=webp&s=8e792ecfe8d5dcd35f7ce9aa4f742a32de431413\n\n# TL;DR 🦍🦍🦍 🤲 💪, 🦍🦍🦍 🤲 + 📊 = 👨‍🚀🚀🌕💰🏦\n\n&#x200B;\n\n&#x200B;\n\n^(Technical Notes:)\n\n^(- Update options data from Barchart) [^(https://www.barchart.com/stocks/quotes/GME/options)](https://www.barchart.com/stocks/quotes/GME/options) ^((Click download))\n\n^(- The Macro function delta results compared with OptionMatrix's BSM PolyApprox6 method is 0.809 vs 0.82, ie accuracy within +/-1.5%)\n\n^(- Yes nerd apes, I could have used American options model like Am Pepetual, Barone-Adhesi Whaley or discreet models like Trinomial Tree, but its difficult to get delta from those and it would totally kill excel to calculate >2000 options chain. Furthermore posting a win32 c binary instead of an excel macro in wsb would probably cause the mods to go ape shit.)",
+  "author_fullname": "t2_3ai9t1",
+  "saved": false,
+  "mod_reason_title": null,
+  "gilded": 2,
+  "clicked": false,
+  "title": "🦍 🦍 🦍 optimize your stimmy 🍌🍌🍌, $GME gamma squeeze calculator update",
+  "link_flair_richtext": [
+    {
+      "e": "text",
+      "t": "DD"
+    }
+  ],
+  "subreddit_name_prefixed": "r/wallstreetbets",
+  "hidden": false,
+  "pwls": 7,
+  "link_flair_css_class": "dd",
+  "downs": 0,
+  "thumbnail_height": 73,
+  "top_awarded_type": null,
+  "hide_score": false,
+  "media_metadata": {
+    "7f1mifkqnsl61": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/jpg",
+      "p": [
+        {
+          "y": 10,
+          "x": 108,
+          "u": "https://preview.redd.it/7f1mifkqnsl61.jpg?width=108&crop=smart&auto=webp&s=0250eae64014de1dbfffd73c948d01da87a6d4c5"
+        },
+        {
+          "y": 20,
+          "x": 216,
+          "u": "https://preview.redd.it/7f1mifkqnsl61.jpg?width=216&crop=smart&auto=webp&s=058eb31ec467cd689f8efee63ed48ef98b1cafa9"
+        },
+        {
+          "y": 30,
+          "x": 320,
+          "u": "https://preview.redd.it/7f1mifkqnsl61.jpg?width=320&crop=smart&auto=webp&s=673d497f3aac1ea10a14f7eacd178cd49f34056f"
+        },
+        {
+          "y": 60,
+          "x": 640,
+          "u": "https://preview.redd.it/7f1mifkqnsl61.jpg?width=640&crop=smart&auto=webp&s=de6d1024d0ddc4481d6268e0a04e5c9249f8b8ae"
+        },
+        {
+          "y": 91,
+          "x": 960,
+          "u": "https://preview.redd.it/7f1mifkqnsl61.jpg?width=960&crop=smart&auto=webp&s=7b79032210c7dfd024c0c27298197e849db6ec1e"
+        },
+        {
+          "y": 102,
+          "x": 1080,
+          "u": "https://preview.redd.it/7f1mifkqnsl61.jpg?width=1080&crop=smart&auto=webp&s=0924a6bc6ed613ced6645a43be9a6531a7cbed28"
+        }
+      ],
+      "s": {
+        "y": 144,
+        "x": 1514,
+        "u": "https://preview.redd.it/7f1mifkqnsl61.jpg?width=1514&format=pjpg&auto=webp&s=c0b071e11c59970d61a5b84efe8e4cde2a28c3c1"
+      },
+      "id": "7f1mifkqnsl61"
+    },
+    "91mgdbfcnsl61": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/jpg",
+      "p": [
+        {
+          "y": 18,
+          "x": 108,
+          "u": "https://preview.redd.it/91mgdbfcnsl61.jpg?width=108&crop=smart&auto=webp&s=eef540a6ad5c3355ec2678a8ee94fca3554fa3fa"
+        },
+        {
+          "y": 36,
+          "x": 216,
+          "u": "https://preview.redd.it/91mgdbfcnsl61.jpg?width=216&crop=smart&auto=webp&s=a59a94f1e558d0387d158250f7d7580c6c5b25c8"
+        },
+        {
+          "y": 53,
+          "x": 320,
+          "u": "https://preview.redd.it/91mgdbfcnsl61.jpg?width=320&crop=smart&auto=webp&s=e93be866a332e2020301ffc9312333bd0197708c"
+        },
+        {
+          "y": 107,
+          "x": 640,
+          "u": "https://preview.redd.it/91mgdbfcnsl61.jpg?width=640&crop=smart&auto=webp&s=a2ba9deba9c30060c948a9726867d753a0765026"
+        },
+        {
+          "y": 161,
+          "x": 960,
+          "u": "https://preview.redd.it/91mgdbfcnsl61.jpg?width=960&crop=smart&auto=webp&s=9fcbb7e4b5018f1037a200d7352b0bd956279031"
+        },
+        {
+          "y": 181,
+          "x": 1080,
+          "u": "https://preview.redd.it/91mgdbfcnsl61.jpg?width=1080&crop=smart&auto=webp&s=f03475167e1e4af60a820764af19d79ace5c3ab8"
+        }
+      ],
+      "s": {
+        "y": 314,
+        "x": 1869,
+        "u": "https://preview.redd.it/91mgdbfcnsl61.jpg?width=1869&format=pjpg&auto=webp&s=cc9ce5f895f2e0bf8c4b3b7c41833466280bf4a9"
+      },
+      "id": "91mgdbfcnsl61"
+    },
+    "nsheej6tnsl61": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/jpg",
+      "p": [
+        {
+          "y": 15,
+          "x": 108,
+          "u": "https://preview.redd.it/nsheej6tnsl61.jpg?width=108&crop=smart&auto=webp&s=4f4ce741363d2d63b2675f98e75f152ce8ebac80"
+        },
+        {
+          "y": 31,
+          "x": 216,
+          "u": "https://preview.redd.it/nsheej6tnsl61.jpg?width=216&crop=smart&auto=webp&s=0c0d97916f0ba3e228628ce471b0230b863bcdcc"
+        },
+        {
+          "y": 47,
+          "x": 320,
+          "u": "https://preview.redd.it/nsheej6tnsl61.jpg?width=320&crop=smart&auto=webp&s=500e4e13982ec2eec5249ba7e3f370931a834634"
+        },
+        {
+          "y": 94,
+          "x": 640,
+          "u": "https://preview.redd.it/nsheej6tnsl61.jpg?width=640&crop=smart&auto=webp&s=6a0dcc856ed285bc8ad171fedcdfbb52df983868"
+        },
+        {
+          "y": 141,
+          "x": 960,
+          "u": "https://preview.redd.it/nsheej6tnsl61.jpg?width=960&crop=smart&auto=webp&s=18979c5b2d1d654a57cabac1fed856c2556a91ae"
+        },
+        {
+          "y": 159,
+          "x": 1080,
+          "u": "https://preview.redd.it/nsheej6tnsl61.jpg?width=1080&crop=smart&auto=webp&s=c15e61f7b0e93c281219a05a5193ecf58da0ccdd"
+        }
+      ],
+      "s": {
+        "y": 224,
+        "x": 1517,
+        "u": "https://preview.redd.it/nsheej6tnsl61.jpg?width=1517&format=pjpg&auto=webp&s=9ebb4ab3f305e9d3e940c030ca1229592e2fce75"
+      },
+      "id": "nsheej6tnsl61"
+    },
+    "rbgtyh85osl61": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/jpg",
+      "p": [
+        {
+          "y": 14,
+          "x": 108,
+          "u": "https://preview.redd.it/rbgtyh85osl61.jpg?width=108&crop=smart&auto=webp&s=638afcd5bf839a221ca5b0a5acac6cd7e076468b"
+        },
+        {
+          "y": 29,
+          "x": 216,
+          "u": "https://preview.redd.it/rbgtyh85osl61.jpg?width=216&crop=smart&auto=webp&s=077892c9c6e32c6c78b48705e4267f27681f2e15"
+        },
+        {
+          "y": 43,
+          "x": 320,
+          "u": "https://preview.redd.it/rbgtyh85osl61.jpg?width=320&crop=smart&auto=webp&s=a7c9f7747204b317dad65dbdd59f44ab04c04a69"
+        }
+      ],
+      "s": {
+        "y": 57,
+        "x": 421,
+        "u": "https://preview.redd.it/rbgtyh85osl61.jpg?width=421&format=pjpg&auto=webp&s=ad69aea9b0da22fda291cb21156cefba9bda245d"
+      },
+      "id": "rbgtyh85osl61"
+    },
+    "j8j3fot8nsl61": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/jpg",
+      "p": [
+        {
+          "y": 63,
+          "x": 108,
+          "u": "https://preview.redd.it/j8j3fot8nsl61.jpg?width=108&crop=smart&auto=webp&s=4afc7da922acb3df9c7d130ab614fd20dbc49217"
+        },
+        {
+          "y": 127,
+          "x": 216,
+          "u": "https://preview.redd.it/j8j3fot8nsl61.jpg?width=216&crop=smart&auto=webp&s=70b44f8152fca86b9a86f9cbf539eeab2805019d"
+        },
+        {
+          "y": 189,
+          "x": 320,
+          "u": "https://preview.redd.it/j8j3fot8nsl61.jpg?width=320&crop=smart&auto=webp&s=fcb381b703da7c4b4b632fb602f412353dfecfc1"
+        },
+        {
+          "y": 378,
+          "x": 640,
+          "u": "https://preview.redd.it/j8j3fot8nsl61.jpg?width=640&crop=smart&auto=webp&s=33cdf00af580133493096d6750a9b527d7f35641"
+        },
+        {
+          "y": 567,
+          "x": 960,
+          "u": "https://preview.redd.it/j8j3fot8nsl61.jpg?width=960&crop=smart&auto=webp&s=d728392bbcee52b4740dbea9d791af4e3273b9a5"
+        },
+        {
+          "y": 638,
+          "x": 1080,
+          "u": "https://preview.redd.it/j8j3fot8nsl61.jpg?width=1080&crop=smart&auto=webp&s=7a1eee9a6e7da0ffab50f43ec74aefbfaf0cbfa8"
+        }
+      ],
+      "s": {
+        "y": 662,
+        "x": 1120,
+        "u": "https://preview.redd.it/j8j3fot8nsl61.jpg?width=1120&format=pjpg&auto=webp&s=fbd7f7bfc8658ee73bf64e2ece3c680ec49d5de2"
+      },
+      "id": "j8j3fot8nsl61"
+    },
+    "ftfr19bmnsl61": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/jpg",
+      "p": [
+        {
+          "y": 13,
+          "x": 108,
+          "u": "https://preview.redd.it/ftfr19bmnsl61.jpg?width=108&crop=smart&auto=webp&s=81bdcaaf8f33a7c8eb09da4f7b46b40e5f4faf94"
+        },
+        {
+          "y": 26,
+          "x": 216,
+          "u": "https://preview.redd.it/ftfr19bmnsl61.jpg?width=216&crop=smart&auto=webp&s=247cb104484ffbe8be6069e824f3e651e1cd680c"
+        },
+        {
+          "y": 38,
+          "x": 320,
+          "u": "https://preview.redd.it/ftfr19bmnsl61.jpg?width=320&crop=smart&auto=webp&s=567abf0bad3b27c7d5d417afc5ca0993e792a076"
+        }
+      ],
+      "s": {
+        "y": 51,
+        "x": 421,
+        "u": "https://preview.redd.it/ftfr19bmnsl61.jpg?width=421&format=pjpg&auto=webp&s=8ee056d4fbcd4c95690d429d53c780f719511d29"
+      },
+      "id": "ftfr19bmnsl61"
+    },
+    "7hc1j48dosl61": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/jpg",
+      "p": [
+        {
+          "y": 63,
+          "x": 108,
+          "u": "https://preview.redd.it/7hc1j48dosl61.jpg?width=108&crop=smart&auto=webp&s=b14dec28e728926f25525139a3911dd710296368"
+        },
+        {
+          "y": 126,
+          "x": 216,
+          "u": "https://preview.redd.it/7hc1j48dosl61.jpg?width=216&crop=smart&auto=webp&s=cc18698872d630408c96bc1d4e33c6ffd55b7aa5"
+        },
+        {
+          "y": 187,
+          "x": 320,
+          "u": "https://preview.redd.it/7hc1j48dosl61.jpg?width=320&crop=smart&auto=webp&s=2092e60e408f84b037572237c96a7af4f5f063d8"
+        },
+        {
+          "y": 374,
+          "x": 640,
+          "u": "https://preview.redd.it/7hc1j48dosl61.jpg?width=640&crop=smart&auto=webp&s=21283b1f7c8522a919fe0e31cff553f9d440ac69"
+        },
+        {
+          "y": 561,
+          "x": 960,
+          "u": "https://preview.redd.it/7hc1j48dosl61.jpg?width=960&crop=smart&auto=webp&s=a7c321d72d13a0f3c5a51939da7a0558bd541c3b"
+        },
+        {
+          "y": 631,
+          "x": 1080,
+          "u": "https://preview.redd.it/7hc1j48dosl61.jpg?width=1080&crop=smart&auto=webp&s=14a4bfc4d9e62d4a1d8ddd22f2b52c2af2b8bee1"
+        }
+      ],
+      "s": {
+        "y": 756,
+        "x": 1293,
+        "u": "https://preview.redd.it/7hc1j48dosl61.jpg?width=1293&format=pjpg&auto=webp&s=8e792ecfe8d5dcd35f7ce9aa4f742a32de431413"
+      },
+      "id": "7hc1j48dosl61"
+    },
+    "4tvci7b7osl61": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/jpg",
+      "p": [
+        {
+          "y": 52,
+          "x": 108,
+          "u": "https://preview.redd.it/4tvci7b7osl61.jpg?width=108&crop=smart&auto=webp&s=37433bac310da5f35e97b70252845d5992172804"
+        },
+        {
+          "y": 105,
+          "x": 216,
+          "u": "https://preview.redd.it/4tvci7b7osl61.jpg?width=216&crop=smart&auto=webp&s=6a6110a1dd8537d8d368f035ae5df14f73b03461"
+        },
+        {
+          "y": 156,
+          "x": 320,
+          "u": "https://preview.redd.it/4tvci7b7osl61.jpg?width=320&crop=smart&auto=webp&s=76b1774d406b1c4e8f557bf8444a5f65795419fe"
+        },
+        {
+          "y": 312,
+          "x": 640,
+          "u": "https://preview.redd.it/4tvci7b7osl61.jpg?width=640&crop=smart&auto=webp&s=4ddb15553a42649c30095cce6bd8b4fbe7a80dc4"
+        },
+        {
+          "y": 468,
+          "x": 960,
+          "u": "https://preview.redd.it/4tvci7b7osl61.jpg?width=960&crop=smart&auto=webp&s=3d813456dcd1fab592e1cd9cff07f9c34f4a8d33"
+        },
+        {
+          "y": 527,
+          "x": 1080,
+          "u": "https://preview.redd.it/4tvci7b7osl61.jpg?width=1080&crop=smart&auto=webp&s=a80a3297e002acd2b13f11eb49cd706ae2655459"
+        }
+      ],
+      "s": {
+        "y": 625,
+        "x": 1280,
+        "u": "https://preview.redd.it/4tvci7b7osl61.jpg?width=1280&format=pjpg&auto=webp&s=16ac2e20103057ca7421be70b341850cef7bc34d"
+      },
+      "id": "4tvci7b7osl61"
+    }
+  },
+  "name": "t3_m0eeav",
+  "quarantine": false,
+  "link_flair_text_color": "light",
+  "upvote_ratio": 0.98,
+  "author_flair_background_color": null,
+  "subreddit_type": "public",
+  "ups": 1973,
+  "total_awards_received": 31,
+  "media_embed": {},
+  "thumbnail_width": 140,
+  "author_flair_template_id": null,
+  "is_original_content": false,
+  "user_reports": [],
+  "secure_media": null,
+  "is_reddit_media_domain": false,
+  "is_meta": false,
+  "category": null,
+  "secure_media_embed": {},
+  "link_flair_text": "DD",
+  "can_mod_post": false,
+  "score": 1973,
+  "approved_by": null,
+  "author_premium": true,
+  "thumbnail": "https://b.thumbs.redditmedia.com/cNOgnaMMdwOpCQShKzkUciLFVmPdzqNuQ0pMZ6cXmaQ.jpg",
+  "edited": 1615210686,
+  "author_flair_css_class": null,
+  "author_flair_richtext": [],
+  "gildings": {
+    "gid_1": 6,
+    "gid_2": 2
+  },
+  "post_hint": "self",
+  "content_categories": null,
+  "is_self": true,
+  "mod_note": null,
+  "created": 1615234254,
+  "link_flair_type": "richtext",
+  "wls": 7,
+  "removed_by_category": null,
+  "banned_by": null,
+  "author_flair_type": "text",
+  "domain": "self.wallstreetbets",
+  "allow_live_comments": true,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>The purpose of these posts is to provide tools that enable 🦍 🦍 🦍 to calculate the gamma squeeze effect for themselves.</p>\n\n<p>I&#39;ve updated the gamma squeeze calculator to include all the option chains until 2023 and removed the 3/5 expired ones, it now contains a total of 2,603 strikes and expiries. I have also added several new parameters to address shortcomings that others had pointed out. If for example you wish to only include strikes that will expire ITM in that week, now you can do it via the filters.</p>\n\n<p><a href=\"https://preview.redd.it/j8j3fot8nsl61.jpg?width=1120&amp;format=pjpg&amp;auto=webp&amp;s=fbd7f7bfc8658ee73bf64e2ece3c680ec49d5de2\">https://preview.redd.it/j8j3fot8nsl61.jpg?width=1120&amp;format=pjpg&amp;auto=webp&amp;s=fbd7f7bfc8658ee73bf64e2ece3c680ec49d5de2</a></p>\n\n<p><strong>Download Link</strong></p>\n\n<p><a href=\"https://drive.google.com/file/d/1IcUJUL3f9T3DJrniKBlJts8EQEOBAriy/view?usp=sharing\">https://drive.google.com/file/d/1IcUJUL3f9T3DJrniKBlJts8EQEOBAriy/view?usp=sharing</a></p>\n\n<p><sup>Takes time to load due to lots of vba calculation, does not contains viruses or malwares</sup></p>\n\n<p><strong>VirusTotal Scans</strong></p>\n\n<p><a href=\"https://preview.redd.it/91mgdbfcnsl61.jpg?width=1869&amp;format=pjpg&amp;auto=webp&amp;s=cc9ce5f895f2e0bf8c4b3b7c41833466280bf4a9\">https://preview.redd.it/91mgdbfcnsl61.jpg?width=1869&amp;format=pjpg&amp;auto=webp&amp;s=cc9ce5f895f2e0bf8c4b3b7c41833466280bf4a9</a></p>\n\n<p><a href=\"https://www.virustotal.com/gui/file/45d1f42c66f0fbeb91c4b8a81d7acac884e462fe2dab855b960d70dbcd0b1403/detection\">https://www.virustotal.com/gui/file/45d1f42c66f0fbeb91c4b8a81d7acac884e462fe2dab855b960d70dbcd0b1403/detection</a></p>\n\n<p>The calculator can be used to simulate several projected delta hedging scenarios under different forecasted prices with the time value as a parameter</p>\n\n<p><a href=\"https://preview.redd.it/ftfr19bmnsl61.jpg?width=421&amp;format=pjpg&amp;auto=webp&amp;s=8ee056d4fbcd4c95690d429d53c780f719511d29\">https://preview.redd.it/ftfr19bmnsl61.jpg?width=421&amp;format=pjpg&amp;auto=webp&amp;s=8ee056d4fbcd4c95690d429d53c780f719511d29</a></p>\n\n<p>We see from the cover that even using very conservative parameters, MMs are holding close to 20% of the float just to delta hedge, which might partly explain the high float percentage owned by institutions as displayed on Bloomberg&#39;s terminal.</p>\n\n<p>Now 🦍 🦍 🦍 only have limited amount of 🍌🍌🍌, 🦍 🦍 🦍 need to ensure each 🍌 is used for maximum effect. Based on the calculator&#39;s BSM modeling, the best delta/price ratio in the options chain across all expiries would be</p>\n\n<p><a href=\"https://preview.redd.it/7f1mifkqnsl61.jpg?width=1514&amp;format=pjpg&amp;auto=webp&amp;s=c0b071e11c59970d61a5b84efe8e4cde2a28c3c1\">https://preview.redd.it/7f1mifkqnsl61.jpg?width=1514&amp;format=pjpg&amp;auto=webp&amp;s=c0b071e11c59970d61a5b84efe8e4cde2a28c3c1</a></p>\n\n<p>The 3/12 270C, if apes were to buy one contract, 3.04 x 100 = $304, then MMs would need to hedge 0.137x100x137.74 = $1882 worth of shares to remain delta neutral</p>\n\n<p>Giving an amplification factor of</p>\n\n<p><strong>1 🍌 -&gt; 6 🍌</strong></p>\n\n<p>OTM calls like these might be fine for YOLO-ers 🦍 , but carry very high risk of 🦍 loosing all 🍌, if 3/12 closing price ends below 270. A safer way for 🦍, would probably be ITM calls, somewhere around the 100-110C strike price</p>\n\n<p><a href=\"https://preview.redd.it/nsheej6tnsl61.jpg?width=1517&amp;format=pjpg&amp;auto=webp&amp;s=9ebb4ab3f305e9d3e940c030ca1229592e2fce75\">https://preview.redd.it/nsheej6tnsl61.jpg?width=1517&amp;format=pjpg&amp;auto=webp&amp;s=9ebb4ab3f305e9d3e940c030ca1229592e2fce75</a></p>\n\n<p>This would still gives 1 🍌 -&gt; 3 🍌 in delta hedge amplification</p>\n\n<p>The profit / loss for 🦍🦍🦍 would be</p>\n\n<p><a href=\"https://preview.redd.it/rbgtyh85osl61.jpg?width=421&amp;format=pjpg&amp;auto=webp&amp;s=ad69aea9b0da22fda291cb21156cefba9bda245d\">https://preview.redd.it/rbgtyh85osl61.jpg?width=421&amp;format=pjpg&amp;auto=webp&amp;s=ad69aea9b0da22fda291cb21156cefba9bda245d</a></p>\n\n<p>Suppose $GME on 3/12 does close above 151, what should 🦍 do next ? Best would be to exercise those calls, but most 🦍🦍🦍 are poor(because they are 🦍🦍🦍) and don&#39;t have enough powder to exercise calls. The next best thing would be to rollover those calls, selling 🦍&#39;s calls that are expiring and buying the next week&#39;s ITM calls at higher strike, further propagating the gamma squeeze. Here&#39;s a graphical illustration of the process</p>\n\n<p><a href=\"https://preview.redd.it/4tvci7b7osl61.jpg?width=1280&amp;format=pjpg&amp;auto=webp&amp;s=16ac2e20103057ca7421be70b341850cef7bc34d\">https://preview.redd.it/4tvci7b7osl61.jpg?width=1280&amp;format=pjpg&amp;auto=webp&amp;s=16ac2e20103057ca7421be70b341850cef7bc34d</a></p>\n\n<p>this way, 🦍 ape can ensure 🍌 is used to maximum effect, without taking on too much risk while also mitigating the shorts attacks.</p>\n\n<p>🦍🦍🦍 path to victory is almost ensured, but 🦍 should be aware that  🦍 is not in the final stage yet, 🦍 still needs to go through MMs first before showdown with 🐊👑 in WallStreet. MMs are cold blooded amphibian species that likes to dwell in polluted bodies of water, thus most can be found alongside the Chicago river in Wacker drive. The following map shows path to infinite 🍌🍌🍌</p>\n\n<p><a href=\"https://preview.redd.it/7hc1j48dosl61.jpg?width=1293&amp;format=pjpg&amp;auto=webp&amp;s=8e792ecfe8d5dcd35f7ce9aa4f742a32de431413\">https://preview.redd.it/7hc1j48dosl61.jpg?width=1293&amp;format=pjpg&amp;auto=webp&amp;s=8e792ecfe8d5dcd35f7ce9aa4f742a32de431413</a></p>\n\n<h1>TL;DR 🦍🦍🦍 🤲 💪, 🦍🦍🦍 🤲 + 📊 = 👨‍🚀🚀🌕💰🏦</h1>\n\n<p>&#x200B;</p>\n\n<p>&#x200B;</p>\n\n<p><sup>Technical Notes:</sup></p>\n\n<p><sup>- Update options data from Barchart</sup> <a href=\"https://www.barchart.com/stocks/quotes/GME/options\"><sup>https://www.barchart.com/stocks/quotes/GME/options</sup></a> <sup>(Click download</sup>)</p>\n\n<p><sup>- The Macro function delta results compared with OptionMatrix&#39;s BSM PolyApprox6 method is 0.809 vs 0.82, ie accuracy within +/-1.5%</sup></p>\n\n<p><sup>- Yes nerd apes, I could have used American options model like Am Pepetual, Barone-Adhesi Whaley or discreet models like Trinomial Tree, but its difficult to get delta from those and it would totally kill excel to calculate &gt;2000 options chain. Furthermore posting a win32 c binary instead of an excel macro in wsb would probably cause the mods to go ape shit.</sup></p>\n</div><!-- SC_ON -->",
+  "likes": null,
+  "suggested_sort": "confidence",
+  "banned_at_utc": null,
+  "view_count": null,
+  "archived": false,
+  "no_follow": false,
+  "is_crosspostable": false,
+  "pinned": false,
+  "over_18": false,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/nta3w8U8kSd63UEgbtccOMS9RNPIN8lC341AU1ZTPyg.jpg?auto=webp&s=69b25fe23faad4d5ed268966cc51ca2131cfb544",
+          "width": 1200,
+          "height": 630
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/nta3w8U8kSd63UEgbtccOMS9RNPIN8lC341AU1ZTPyg.jpg?width=108&crop=smart&auto=webp&s=0abf543484f888ad66d913b0a540d9f1baa558ce",
+            "width": 108,
+            "height": 56
+          },
+          {
+            "url": "https://external-preview.redd.it/nta3w8U8kSd63UEgbtccOMS9RNPIN8lC341AU1ZTPyg.jpg?width=216&crop=smart&auto=webp&s=85c35cadd63527bb9d0f6ed9fa238a6b7079ea1f",
+            "width": 216,
+            "height": 113
+          },
+          {
+            "url": "https://external-preview.redd.it/nta3w8U8kSd63UEgbtccOMS9RNPIN8lC341AU1ZTPyg.jpg?width=320&crop=smart&auto=webp&s=6a5e15daa8cd089f94520f431ca3a520a7338822",
+            "width": 320,
+            "height": 168
+          },
+          {
+            "url": "https://external-preview.redd.it/nta3w8U8kSd63UEgbtccOMS9RNPIN8lC341AU1ZTPyg.jpg?width=640&crop=smart&auto=webp&s=92daec092c4b0f3b411e062c6db4b97737c62fe4",
+            "width": 640,
+            "height": 336
+          },
+          {
+            "url": "https://external-preview.redd.it/nta3w8U8kSd63UEgbtccOMS9RNPIN8lC341AU1ZTPyg.jpg?width=960&crop=smart&auto=webp&s=4a8a327de62800463ba524af46587e397f7478be",
+            "width": 960,
+            "height": 504
+          },
+          {
+            "url": "https://external-preview.redd.it/nta3w8U8kSd63UEgbtccOMS9RNPIN8lC341AU1ZTPyg.jpg?width=1080&crop=smart&auto=webp&s=3113bebc0679d8fdbd05b30dcf71ed7868309b39",
+            "width": 1080,
+            "height": 567
+          }
+        ],
+        "variants": {},
+        "id": "QGKZA9ISaiCqOonB2wmPIWHDDe0CHaYEVtDgLSoKhGI"
+      }
+    ],
+    "enabled": false
+  },
+  "awarders": [],
+  "media_only": false,
+  "link_flair_template_id": "5692ce02-b860-11e5-b542-0edc7016bbd3",
+  "can_gild": false,
+  "spoiler": false,
+  "locked": false,
+  "author_flair_text": null,
+  "treatment_tags": [],
+  "visited": false,
+  "removed_by": null,
+  "num_reports": null,
+  "distinguished": null,
+  "subreddit_id": "t5_2th52",
+  "mod_reason_by": null,
+  "removal_reason": null,
+  "link_flair_background_color": "#365b8c",
+  "id": "m0eeav",
+  "is_robot_indexable": true,
+  "report_reasons": null,
+  "author": "indonesian_activist",
+  "discussion_type": null,
+  "num_comments": 155,
+  "send_replies": true,
+  "whitelist_status": "some_ads",
+  "contest_mode": false,
+  "mod_reports": [],
+  "author_patreon_flair": false,
+  "author_flair_text_color": null,
+  "permalink": "/r/wallstreetbets/comments/m0eeav/optimize_your_stimmy_gme_gamma_squeeze_calculator/",
+  "parent_whitelist_status": "some_ads",
+  "stickied": false,
+  "url": "https://www.reddit.com/r/wallstreetbets/comments/m0eeav/optimize_your_stimmy_gme_gamma_squeeze_calculator/",
+  "subreddit_subscribers": 9461257,
+  "created_utc": 1615224103,
+  "num_crossposts": 2,
+  "media": null,
+  "is_video": false,
+  "original_created_utc": 1615205454,
+  "the_new_excerpt": "The purpose of these posts is to provide tools that enable 🦍 🦍 🦍 to calculate\nthe gamma squeeze effect for themselves.\n\nI've updated the gamma squeeze calculator to include all the option chains until\n2023 and removed the 3/5 expired ones, it now contains a total of 2,603 strikes\nand expiries. I…"
+}
