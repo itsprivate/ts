@@ -58,5 +58,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-09T09:30:10Z"
+  "original_createdAt": "2021-03-09T09:30:10Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "有了Multistream Studio，你可以在使用你最喜欢的应用程序（如OBS或Zoom）、摄像机、硬件编码器或手机时，同时向多个视频直播服务进行广播。它就像一个中间人，将你的视频流复制到多个目的地。",
+      "tagline": "从任何软件广播到多个视频服务"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有了Multistream Studio，你可以在使用你最喜歡的應用程序（如OBS或Zoom）、攝像機、硬件編碼器或手機時，同時向多個視頻直播服務進行廣播。它就像一箇中間人，將你的視頻流複製到多個目的地。",
+      "tagline": "從任何軟件廣播到多個視頻服務"
+    }
+  ]
 }
