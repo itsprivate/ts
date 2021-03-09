@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-03-09T02:10:05.000Z",
-  "image": "http://static4.theroadchoseme.com/wp-content/uploads/2021/01/book-cover-fire-lg-720x480.jpg"
+  "image": "http://static4.theroadchoseme.com/wp-content/uploads/2021/01/book-cover-fire-lg-720x480.jpg",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "我使用LaTeX和Pandoc自助出版了平装书和电子书。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我使用LaTeX和Pandoc自助出版了平裝書和電子書。"
+    }
+  ]
 }
