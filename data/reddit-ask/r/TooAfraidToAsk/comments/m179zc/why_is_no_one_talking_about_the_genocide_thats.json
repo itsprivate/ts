@@ -102,5 +102,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1615299393,
-  "the_new_excerpt": "This is a real thing that’s happening right now and no one is saying one thing\nabout it."
+  "the_new_excerpt": "This is a real thing that’s happening right now and no one is saying one thing\nabout it.",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这是一个真实的事情，现在正在发生，没有人说一件事。\n关于它。",
+      "title": "为什么没有人谈论发生在中国的种族屠杀？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這是一個真實的事情，現在正在發生，沒有人說一件事。\n關於它。",
+      "title": "爲什麼沒有人談論發生在中國的種族屠殺？"
+    }
+  ]
 }
