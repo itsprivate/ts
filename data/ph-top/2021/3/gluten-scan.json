@@ -86,5 +86,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-09T08:00:00Z"
+  "original_createdAt": "2021-03-09T08:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "很难知道一个产品是否含有麸质？扫描它! 分享您的食谱和发现内容",
+      "tagline": "扫描产品并获取其麸质含量"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "很難知道一個產品是否含有麩質？掃描它! 分享您的食譜和發現內容",
+      "tagline": "掃描產品並獲取其麩質含量"
+    }
+  ]
 }

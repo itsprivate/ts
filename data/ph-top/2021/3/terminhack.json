@@ -67,5 +67,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-09T08:45:18Z"
+  "original_createdAt": "2021-03-09T08:45:18Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Terminhack让你假装是一个黑客运行真正的渗透测试工具。你可以直接从网站或从你的终端上运行它!",
+      "tagline": "假装是一个真正的黑客，给你的朋友留下深刻印象👨💻。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Terminhack讓你假裝是一個黑客運行真正的滲透測試工具。你可以直接從網站或從你的終端上運行它!",
+      "tagline": "假裝是一個真正的黑客，給你的朋友留下深刻印象👨💻。"
+    }
+  ]
 }
