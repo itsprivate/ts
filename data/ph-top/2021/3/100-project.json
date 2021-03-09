@@ -68,5 +68,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-09T12:00:00Z"
+  "original_createdAt": "2021-03-09T12:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "https://100project.co 是世界上第一个众包的NFT，是一个真正的集体艺术品。一旦所有作品被填满，最终的艺术品将被铸成NFT，如果售出，利润将归每件作品的所有者所有--所以购买一件作品也是一种投资。",
+      "tagline": "全球首个众包的NFT。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "https://100project.co 是世界上第一個衆包的NFT，是一個真正的集體藝術品。一旦所有作品被填滿，最終的藝術品將被鑄成NFT，如果售出，利潤將歸每件作品的所有者所有--所以購買一件作品也是一種投資。",
+      "tagline": "全球首個衆包的NFT。"
+    }
+  ]
 }

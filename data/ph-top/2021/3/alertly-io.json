@@ -93,5 +93,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-09T09:34:49Z"
+  "original_createdAt": "2021-03-09T09:34:49Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Alertly是您个性化的Slack机器人，用于获取JIRA提醒。设置重要的提醒，这些提醒是可操作的和个性化的，以便正确的人得到通知，所有这些都来自Slack!",
+      "tagline": "您个性化的JIRA警报懒惰机器人"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Alertly是您個性化的Slack機器人，用於獲取JIRA提醒。設置重要的提醒，這些提醒是可操作的和個性化的，以便正確的人得到通知，所有這些都來自Slack!",
+      "tagline": "您個性化的JIRA警報懶惰機器人"
+    }
+  ]
 }
