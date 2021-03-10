@@ -224,5 +224,17 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Wed Mar 10 13:25:53 +0000 2021"
+  "original_created_at": "Wed Mar 10 13:25:53 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @BigTechAlert: 👥 @jack(Twitter和Square的CEO)现在正在关注@100trillionUSD。",
+      "retweeted_status_full_text": "👥 @jack（Twitter和Square的CEO）现在关注了@100trillionUSD。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @BigTechAlert: 👥 @jack(Twitter和Square的CEO)現在正在關注@100trillionUSD。",
+      "retweeted_status_full_text": "👥 @jack（Twitter和Square的CEO）現在關注了@100trillionUSD。"
+    }
+  ]
 }
