@@ -73,5 +73,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-10T08:05:00Z"
+  "original_createdAt": "2021-03-10T08:05:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Webiny是一个开源框架，可以帮助开发者在无服务器基础设施之上架构、构建和部署应用。Webiny还附带了一个无服务器CMS，运行在AWS Lambda、DynamoDB和S3之上。",
+      "tagline": "在几分钟内构建无服务器应用程序和网站"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Webiny是一個開源框架，可以幫助開發者在無服務器基礎設施之上架構、構建和部署應用。Webiny還附帶了一個無服務器CMS，運行在AWS Lambda、DynamoDB和S3之上。",
+      "tagline": "在幾分鐘內構建無服務器應用程序和網站"
+    }
+  ]
 }
