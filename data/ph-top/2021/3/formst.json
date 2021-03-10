@@ -102,5 +102,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-10T08:05:00Z"
+  "original_createdAt": "2021-03-10T08:05:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Formst是一个用于在React中构建和验证表单的JavaScript库。它基于MobX-St-state-Tree，使得它简单且性能良好，它是建立在 \"UI作为事后考虑 \"的原则上。",
+      "tagline": "模型驱动的React表单库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Formst是一個用於在React中構建和驗證表單的JavaScript庫。它基於MobX-St-state-Tree，使得它簡單且性能良好，它是建立在 \"UI作爲事後考慮 \"的原則上。",
+      "tagline": "模型驅動的React表單庫"
+    }
+  ]
 }
