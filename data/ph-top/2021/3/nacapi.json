@@ -68,5 +68,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-10T08:05:00Z"
+  "original_createdAt": "2021-03-10T08:05:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Nacapi从任何类型的JSON中创建了一个记录良好的API： - 在控制台粘贴你的JSON文件 - 创建你独特的API - 支持GET，POST，PUT，DELETE http方法 - 执行操作：随机，过滤，限制，排序（以及更多即将到来的）。",
+      "tagline": "把你的JSON变成一个休息的API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Nacapi從任何類型的JSON中創建了一個記錄良好的API： - 在控制檯粘貼你的JSON文件 - 創建你獨特的API - 支持GET，POST，PUT，DELETE http方法 - 執行操作：隨機，過濾，限制，排序（以及更多即將到來的）。",
+      "tagline": "把你的JSON變成一個休息的API"
+    }
+  ]
 }
