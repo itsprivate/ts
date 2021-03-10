@@ -77,5 +77,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-09T13:00:00Z"
+  "original_createdAt": "2021-03-09T13:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "用Moon Visa®预付卡在美国任何接受Visa®的地方用加密支付。用比特币、莱特币、以太币等购买一次性使用的虚拟卡。Moon是私密安全的，我们不向用户收取任何费用。",
+      "tagline": "随处可见的加密支付"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "用Moon Visa®預付卡在美國任何接受Visa®的地方用加密支付。用比特幣、萊特幣、以太幣等購買一次性使用的虛擬卡。Moon是私密安全的，我們不向用戶收取任何費用。",
+      "tagline": "隨處可見的加密支付"
+    }
+  ]
 }
