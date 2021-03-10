@@ -83,5 +83,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-10T08:16:39Z"
+  "original_createdAt": "2021-03-10T08:16:39Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Amplication是一个开源的开发工具。它可以帮助你开发高质量的Node.js应用，而无需花费时间在重复的编码任务上。",
+      "tagline": "使用GraphQL和REST API即时生成Node.js应用。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Amplication是一個開源的開發工具。它可以幫助你開發高質量的Node.js應用，而無需花費時間在重複的編碼任務上。",
+      "tagline": "使用GraphQL和REST API即時生成Node.js應用。"
+    }
+  ]
 }
