@@ -362,5 +362,17 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "und",
-  "original_created_at": "Wed Mar 10 14:04:35 +0000 2021"
+  "original_created_at": "Wed Mar 10 14:04:35 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @chrisfralic：https://t.co/0aSavX0gsJ",
+      "retweeted_status_full_text": "https://t.co/0aSavX0gsJ"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @chrisfralic：https://t.co/0aSavX0gsJ",
+      "retweeted_status_full_text": "https://t.co/0aSavX0gsJ"
+    }
+  ]
 }
