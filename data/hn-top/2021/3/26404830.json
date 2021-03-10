@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-03-09T21:52:02.000Z",
-  "image": "https://www.openwall.com/logo.png"
+  "image": "https://www.openwall.com/logo.png",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "Git 恶意仓库可以在克隆时执行远程代码。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Git 惡意倉庫可以在克隆時執行遠程代碼。"
+    }
+  ]
 }
