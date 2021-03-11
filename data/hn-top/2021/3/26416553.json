@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-03-10T21:33:21.000Z",
-  "image": "https://tailscale.com/files/images/og-image.png"
+  "image": "https://tailscale.com/files/images/og-image.png",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "netaddr.IP：围棋的新IP地址类型。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "netaddr.IP：圍棋的新IP地址類型。"
+    }
+  ]
 }
