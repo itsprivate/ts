@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-03-11T12:48:41.000Z",
-  "image": "https://www.rtl-sdr.com/wp-content/uploads/2021/03/spacex_telem.png"
+  "image": "https://www.rtl-sdr.com/wp-content/uploads/2021/03/spacex_telem.png",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "用HackRF和1.2米卫星天线接收SpaceX猎鹰9号遥测数据。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "用HackRF和1.2米衛星天線接收SpaceX獵鷹9號遙測數據。"
+    }
+  ]
 }
