@@ -101,5 +101,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1615464018,
-  "the_new_excerpt": "A place to talk GME."
+  "the_new_excerpt": "A place to talk GME.",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "一个谈论GME的地方。",
+      "title": "GME主题 - 2021年3月11日"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "一個談論GME的地方。",
+      "title": "GME主題 - 2021年3月11日"
+    }
+  ]
 }
