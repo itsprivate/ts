@@ -170,5 +170,15 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Thu Mar 11 13:21:48 +0000 2021"
+  "original_created_at": "Thu Mar 11 13:21:48 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "这是90年代初最酷的运动鞋。简单的时代。https://t.co/qwSfRF6VZZ"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "這是90年代初最酷的運動鞋。簡單的時代。https://t.co/qwSfRF6VZZ"
+    }
+  ]
 }
