@@ -107,5 +107,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-11T08:05:00Z"
+  "original_createdAt": "2021-03-11T08:05:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Red：唯一一个从头到尾为Mac编写的全功能、专业的Redis客户端。Red提供了一个强大而又简单的界面来与Redis进行交互。",
+      "tagline": "一个强大而漂亮的Mac版Redis客户端"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Red：唯一一個從頭到尾爲Mac編寫的全功能、專業的Redis客戶端。Red提供了一個強大而又簡單的界面來與Redis進行交互。",
+      "tagline": "一個強大而漂亮的Mac版Redis客戶端"
+    }
+  ]
 }

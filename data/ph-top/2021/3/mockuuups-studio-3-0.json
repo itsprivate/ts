@@ -68,5 +68,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-11T12:20:55Z"
+  "original_createdAt": "2021-03-11T12:20:55Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "强大的模拟生成器，让你可以将不同的手部模型与设备和背景进行无缝混合和匹配。适用于macOS，Windows和Linux。也可作为https://www.figma.com/c/plugin/786250770157843670/Mockuuups-Studio。",
+      "tagline": "Mockup生成器具有多种手感和无限的可能性。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "強大的模擬生成器，讓你可以將不同的手部模型與設備和背景進行無縫混合和匹配。適用於macOS，Windows和Linux。也可作爲https://www.figma.com/c/plugin/786250770157843670/Mockuuups-Studio。",
+      "tagline": "Mockup生成器具有多種手感和無限的可能性。"
+    }
+  ]
 }
