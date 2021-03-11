@@ -91,5 +91,15 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Thu Mar 11 00:38:20 +0000 2021"
+  "original_created_at": "Thu Mar 11 00:38:20 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "连续3年，国防部的预算都是7000亿美元。\n\n但1400美元的支票要让我们破产。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "連續3年，國防部的預算都是7000億美元。\n\n但1400美元的支票要讓我們破產。"
+    }
+  ]
 }
