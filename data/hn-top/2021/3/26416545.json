@@ -36,5 +36,15 @@
     }
   },
   "original_created_at": "2021-03-10T21:32:48.000Z",
-  "image": "https://heroiclabs.com/assets/images/brand/og.png"
+  "image": "https://heroiclabs.com/assets/images/brand/og.png",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "用Godot和Nakama制作在线多人游戏。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "用Godot和Nakama製作在線多人遊戲。"
+    }
+  ]
 }
