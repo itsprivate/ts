@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-03-12T09:29:36.000Z",
-  "image": "https://bitwarden.com/images/social-banner.png"
+  "image": "https://bitwarden.com/images/social-banner.png",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "Bitwarden Send - 一种值得信赖的方式来安全地与任何人分享信息。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Bitwarden Send - 一種值得信賴的方式來安全地與任何人分享信息。"
+    }
+  ]
 }
