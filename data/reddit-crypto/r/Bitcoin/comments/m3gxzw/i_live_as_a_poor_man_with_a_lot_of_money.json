@@ -103,5 +103,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1615553645,
-  "the_new_excerpt": "You should too."
+  "the_new_excerpt": "You should too.",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你也应该。",
+      "title": "我活得像个穷光蛋，有很多钱"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你也應該。",
+      "title": "我活得像個窮光蛋，有很多錢"
+    }
+  ]
 }
