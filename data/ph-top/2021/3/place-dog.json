@@ -53,5 +53,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-12T08:32:45Z"
+  "original_createdAt": "2021-03-12T08:32:45Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "一个简单的服务，让可爱的狗作为你的网站和设计的占位符。只需在url的最后添加一个宽度和高度。",
+      "tagline": "可爱的狗作为你的网站和设计的占位符。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個簡單的服務，讓可愛的狗作爲你的網站和設計的佔位符。只需在url的最後添加一個寬度和高度。",
+      "tagline": "可愛的狗作爲你的網站和設計的佔位符。"
+    }
+  ]
 }
