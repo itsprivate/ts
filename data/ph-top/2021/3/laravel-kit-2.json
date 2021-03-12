@@ -58,5 +58,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-12T08:00:00Z"
+  "original_createdAt": "2021-03-12T08:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "一个简单而优雅的桌面应用程序来管理你的Laravel应用程序. - 在一个漂亮的界面中轻松执行Artisan命令. - 在一个神奇的代码编辑器中修补你的项目.",
+      "tagline": "桌面Laravel管理面板应用，无需配置。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個簡單而優雅的桌面應用程序來管理你的Laravel應用程序. - 在一個漂亮的界面中輕鬆執行Artisan命令. - 在一個神奇的代碼編輯器中修補你的項目.",
+      "tagline": "桌面Laravel管理面板應用，無需配置。"
+    }
+  ]
 }
