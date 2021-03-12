@@ -106,5 +106,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-12T08:04:47Z"
+  "original_createdAt": "2021-03-12T08:04:47Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Hypernotes是一款具有双向链接、勾画和超强协作功能的知识管理应用。",
+      "tagline": "以新的方式创造、分享和理解知识。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Hypernotes是一款具有雙向鏈接、勾畫和超強協作功能的知識管理應用。",
+      "tagline": "以新的方式創造、分享和理解知識。"
+    }
+  ]
 }
