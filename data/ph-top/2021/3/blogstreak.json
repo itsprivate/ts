@@ -58,5 +58,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-11T13:59:32Z"
+  "original_createdAt": "2021-03-11T13:59:32Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Blogstreak是你博客的工具库。如果你想为你的静态博客提供漂亮的掌声和评论，那么不用再看了，blogstreak有答案。Blogstreak使用最新的webcomponent技术，所以它是高度可定制的。",
+      "tagline": "运行静态博客所需的所有东西"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Blogstreak是你博客的工具庫。如果你想爲你的靜態博客提供漂亮的掌聲和評論，那麼不用再看了，blogstreak有答案。Blogstreak使用最新的webcomponent技術，所以它是高度可定製的。",
+      "tagline": "運行靜態博客所需的所有東西"
+    }
+  ]
 }
