@@ -20,15 +20,23 @@ const main = async () => {
         https.get(
           `https://webhook.actionsflow.workers.dev/theowenyoung/actionsflow-workflow/notice/webhook?__token=${
             process.env.PERSONAL_TOKEN
-          }&message=${encodeURIComponent(message)}`
+          }&message=${encodeURIComponent(message)}`,
+          () => {}
         );
+        await sleep(5000);
         throw e;
       }
     }
   }
 };
 module.exports = main;
-
+function sleep(time) {
+  return new Promise((resolve, reject) => {
+    setTimeout(() => {
+      resolve();
+    }, time);
+  });
+}
 async function getFiles(dir) {
   const cwd = process.cwd();
   const dirents = await readdir(dir, { withFileTypes: true });
