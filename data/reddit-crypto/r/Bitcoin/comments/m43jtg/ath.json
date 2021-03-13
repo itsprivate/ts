@@ -105,5 +105,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1615630412,
-  "the_new_excerpt": "It's back again, ATH boys!"
+  "the_new_excerpt": "It's back again, ATH boys!",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "又回来了，ATH的孩子们!",
+      "title": "ATH!!!"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "又回來了，ATH的孩子們!",
+      "title": "ATH!!!"
+    }
+  ]
 }
