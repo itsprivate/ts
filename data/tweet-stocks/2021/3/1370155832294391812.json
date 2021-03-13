@@ -195,5 +195,17 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Thu Mar 11 23:33:01 +0000 2021"
+  "original_created_at": "Thu Mar 11 23:33:01 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @zerohedge: *命令所有美国成年人有资格在5月1日之前接种疫苗。",
+      "retweeted_status_full_text": "*要求所有美国成年人在5月1日前有资格接种疫苗。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @zerohedge: *命令所有美國成年人有資格在5月1日之前接種疫苗。",
+      "retweeted_status_full_text": "*要求所有美國成年人在5月1日前有資格接種疫苗。"
+    }
+  ]
 }
