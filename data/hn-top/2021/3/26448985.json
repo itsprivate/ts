@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-03-13T19:03:11.000Z",
-  "image": "https://baserow.io/_nuxt/img/logo.ddb6ff1.svg"
+  "image": "https://baserow.io/_nuxt/img/logo.ddb6ff1.svg",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "Baserow.io - 自助式的Airtable替代方案。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Baserow.io - 自助式的Airtable替代方案。"
+    }
+  ]
 }
