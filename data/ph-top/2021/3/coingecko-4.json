@@ -96,5 +96,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-13T08:01:00Z"
+  "original_createdAt": "2021-03-13T08:01:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "CoinGecko提供加密市场的基本分析。除了跟踪价格、交易量和市值，CoinGecko还跟踪社区增长、开源代码开发、重大事件和链上指标。",
+      "tagline": "加密市场的360度概述"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "CoinGecko提供加密市場的基本分析。除了跟蹤價格、交易量和市值，CoinGecko還跟蹤社區增長、開源代碼開發、重大事件和鏈上指標。",
+      "tagline": "加密市場的360度概述"
+    }
+  ]
 }
