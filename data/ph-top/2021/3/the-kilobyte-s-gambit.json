@@ -73,5 +73,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-13T08:01:00Z"
+  "original_createdAt": "2021-03-13T08:01:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "你能打败用1KB的Javascript编写的棋牌电脑吗？",
+      "tagline": "尝试击败1024字节的Javascript"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你能打敗用1KB的Javascript編寫的棋牌電腦嗎？",
+      "tagline": "嘗試擊敗1024字節的Javascript"
+    }
+  ]
 }
