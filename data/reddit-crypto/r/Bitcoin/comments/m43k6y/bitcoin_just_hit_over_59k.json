@@ -103,5 +103,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1615630463,
-  "the_new_excerpt": "It's doing that thing again."
+  "the_new_excerpt": "It's doing that thing again.",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "它又在做那件事了。",
+      "title": "比特币刚刚突破5.9万!"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "它又在做那件事了。",
+      "title": "比特幣剛剛突破5.9萬!"
+    }
+  ]
 }
