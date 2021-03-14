@@ -38,5 +38,15 @@
     }
   },
   "original_created_at": "2021-03-14T00:24:15.000Z",
-  "image": "https://git.minix3.org/static/git-logo.png"
+  "image": "https://git.minix3.org/static/git-logo.png",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "问HN：Minix死了吗？自2018年以来没有提交过"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "問HN：Minix死了嗎？自2018年以來沒有提交過"
+    }
+  ]
 }
