@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-03-15T09:27:22.000Z",
-  "image": "https://benhoyt.com/images/count-words-knuth-vs-mcilroy.png"
+  "image": "https://benhoyt.com/images/count-words-knuth-vs-mcilroy.png",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "性能比较：Python、Go、C++、C、Awk、Forth、Rust中的数词。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "性能比較：Python、Go、C++、C、Awk、Forth、Rust中的數詞。"
+    }
+  ]
 }
