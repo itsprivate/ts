@@ -107,5 +107,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1615810348,
-  "the_new_excerpt": "Just as described in the Title/question."
+  "the_new_excerpt": "Just as described in the Title/question.",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "就像标题/问题中描述的那样。",
+      "title": "为什么我整天看到Reddit广播的蜜蜂？我在我的feed中看到的所有流都是相同的蜜蜂流。这是一个实验，或者是它只是流行？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "就像標題/問題中描述的那樣。",
+      "title": "爲什麼我整天看到Reddit廣播的蜜蜂？我在我的feed中看到的所有流都是相同的蜜蜂流。這是一個實驗，或者是它只是流行？"
+    }
+  ]
 }
