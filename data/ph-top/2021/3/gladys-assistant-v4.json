@@ -72,5 +72,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-15T07:04:36Z"
+  "original_createdAt": "2021-03-15T07:04:36Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "格莱迪助手是一款开源的家庭自动化软件。它很容易安装在Raspberry Pi、NAS或任何运行Linux的机器上。",
+      "tagline": "一个隐私优先、开源的家庭助手"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "格萊迪助手是一款開源的家庭自動化軟件。它很容易安裝在Raspberry Pi、NAS或任何運行Linux的機器上。",
+      "tagline": "一個隱私優先、開源的家庭助手"
+    }
+  ]
 }
