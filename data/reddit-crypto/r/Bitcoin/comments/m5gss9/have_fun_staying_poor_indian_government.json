@@ -105,5 +105,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1615800081,
-  "the_new_excerpt": "That’s the post"
+  "the_new_excerpt": "That’s the post",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "就是这个职位",
+      "title": "有乐趣留在贫穷的印度政府。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "就是這個職位",
+      "title": "有樂趣留在貧窮的印度政府。"
+    }
+  ]
 }
