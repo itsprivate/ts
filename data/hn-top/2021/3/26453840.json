@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-03-14T09:21:38.000Z",
-  "image": "https://critter.camera/images/hero-img.png"
+  "image": "https://critter.camera/images/hero-img.png",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "显示HN：Critter.Camera - 基于浏览器的运动检测和图像捕捉。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "顯示HN：Critter.Camera - 基於瀏覽器的運動檢測和圖像捕捉。"
+    }
+  ]
 }
