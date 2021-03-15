@@ -83,5 +83,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-15T07:37:36Z"
+  "original_createdAt": "2021-03-15T07:37:36Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "https://burnrate.fyi 是一款SaaS费用估算器，设计时考虑到了易用性。在三个简单的步骤中，你可以选择你想要的产品或服务，配置它们，并在每个月末看到你的预期燃烧率。",
+      "tagline": "5分钟内免费估算SaaS开支"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "https://burnrate.fyi 是一款SaaS費用估算器，設計時考慮到了易用性。在三個簡單的步驟中，你可以選擇你想要的產品或服務，配置它們，並在每個月末看到你的預期燃燒率。",
+      "tagline": "5分鐘內免費估算SaaS開支"
+    }
+  ]
 }
