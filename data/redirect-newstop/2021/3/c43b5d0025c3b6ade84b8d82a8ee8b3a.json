@@ -14,5 +14,15 @@
   "tags": [
     "The New York Times"
   ],
-  "image": "https://static01.nyt.com/images/2021/03/15/world/15china-sandstorm-01/15china-sandstorm-01-facebookJumbo-v2.jpg"
+  "image": "https://static01.nyt.com/images/2021/03/15/world/15china-sandstorm-01/15china-sandstorm-01-facebookJumbo-v2.jpg",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "中国的一场沙尘暴唤起了人们对 \"空难 \"往事的回忆。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "中國的一場沙塵暴喚起了人們對 \"空難 \"往事的回憶。"
+    }
+  ]
 }
