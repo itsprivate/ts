@@ -326,5 +326,15 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Tue Mar 16 11:24:42 +0000 2021"
+  "original_created_at": "Tue Mar 16 11:24:42 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @martgnz：在过去的几个月里，我们已经建立了一个统计模型，估计了死于或因covid住院的可能性。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @martgnz：在過去的幾個月裏，我們已經建立了一個統計模型，估計了死於或因covid住院的可能性。"
+    }
+  ]
 }
