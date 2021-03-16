@@ -47,5 +47,17 @@
   "topics": {
     "edges": []
   },
-  "original_createdAt": "2021-03-15T13:28:56Z"
+  "original_createdAt": "2021-03-15T13:28:56Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "基于React Native构建的Clubhouse Clone代码，带有后端和自定义微服务架构的音频会议，能够为数千名听众创建真正的巨大房间。",
+      "tagline": "安卓和iOS的Clubhouse克隆版"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "基於React Native構建的Clubhouse Clone代碼，帶有後端和自定義微服務架構的音頻會議，能夠爲數千名聽衆創建真正的巨大房間。",
+      "tagline": "安卓和iOS的Clubhouse克隆版"
+    }
+  ]
 }
