@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-03-16T11:53:05.000Z",
-  "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/03/wireguard-freebsd-desktop-760x380.png"
+  "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/03/wireguard-freebsd-desktop-760x380.png",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "内核的WireGuard已经在FreeBSD和pfSense路由器的路上了。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "內核的WireGuard已經在FreeBSD和pfSense路由器的路上了。"
+    }
+  ]
 }
