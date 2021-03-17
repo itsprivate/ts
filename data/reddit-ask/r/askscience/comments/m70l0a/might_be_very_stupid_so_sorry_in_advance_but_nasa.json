@@ -102,5 +102,15 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1615988262,
-  "the_new_excerpt": "English is not my first language so sorry about any mistakes I've made."
+  "the_new_excerpt": "English is not my first language so sorry about any mistakes I've made.",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "英语不是我的母语，所以很抱歉我犯了任何错误。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "英語不是我的母語，所以很抱歉我犯了任何錯誤。"
+    }
+  ]
 }
