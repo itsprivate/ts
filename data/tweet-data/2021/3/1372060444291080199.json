@@ -91,5 +91,15 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Wed Mar 17 05:41:16 +0000 2021"
+  "original_created_at": "Wed Mar 17 05:41:16 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "中国的GDP\n\n1990年：0.4万亿美元\n\n2000年：1.2万亿美元\n\n2010年：6万亿美元\n\n2020年：14.3万亿美元"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "中國的GDP\n\n1990年：0.4萬億美元\n\n2000年：1.2萬億美元\n\n2010年：6萬億美元\n\n2020年：14.3萬億美元"
+    }
+  ]
 }
