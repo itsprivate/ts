@@ -2,7 +2,7 @@ name: Auto translate
 on:
   workflow_dispatch:
   schedule:
-    - cron: "* */2 * * *"
+    - cron: "45 */2 * * *"
   # push:
   #   branches:
   #     - main
