@@ -36,5 +36,15 @@
     }
   },
   "original_created_at": "2021-03-18T07:12:36.000Z",
-  "image": "https://theartofmachinery.com/feed-icon-28x28.png"
+  "image": "https://theartofmachinery.com/feed-icon-28x28.png",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "逆向工程的Docker镜像"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "逆向工程的Docker鏡像"
+    }
+  ]
 }
