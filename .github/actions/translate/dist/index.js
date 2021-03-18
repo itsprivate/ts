@@ -48,8 +48,8 @@ let browser;
 const getBrowser = async () => {
   if (browser) return browser;
   browser = await __webpack_require__(79750).launch({
-    devtools: true,
-    headless: false,
+    // devtools: true,
+    // headless: false,
     defaultViewport: null,
     args: ["--lang=zh-Hans,zh"],
   });
