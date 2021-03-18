@@ -33,7 +33,7 @@ async function main() {
   };
   const locales = ["zh"];
   const allFiles = await getFiles("./i18n/post-resource/en");
-  console.log("allFiles", allFiles);
+  // console.log("allFiles", allFiles);
 
   for (let i = 0; i < allFiles.length; i++) {
     const file = allFiles[i];

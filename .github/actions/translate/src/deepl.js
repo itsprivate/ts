@@ -5,6 +5,8 @@ let browser;
 const getBrowser = async () => {
   if (browser) return browser;
   browser = await require("puppeteer").launch({
+    devtools: true,
+    headless: false,
     defaultViewport: null,
     args: ["--lang=zh-Hans,zh"],
   });
@@ -20,15 +22,12 @@ module.exports = {
       throw new Error("INVALID_SOURCE_LANGUAGE");
     if (!/^[a-z]{2}-[A-Z]{2}$/.test(targetLanguage))
       throw new Error("INVALID_TARGET_LANGUAGE");
-
     const sourceLangSelect = ".lmt__language_select--source button",
       targetLangSelect = ".lmt__language_select--target button",
-      sourceLangMenu =
-        ".lmt__language_select--source .lmt__language_select__menu",
-      targetLangMenu =
-        ".lmt__language_select--target .lmt__language_select__menu",
-      sourceLangButton = `.lmt__language_select--source button[dl-test=translator-lang-option-${sourceLanguage}]`,
-      targetLangButton = `.lmt__language_select--target button[dl-test=translator-lang-option-${targetLanguage}]`,
+      sourceLangMenu = "div[dl-test=translator-source-lang-list]",
+      targetLangMenu = "div[dl-test=translator-target-lang-list]",
+      sourceLangButton = `div[dl-test=translator-lang-option-${sourceLanguage}]`,
+      targetLangButton = `div[dl-test=translator-target-lang-list] div[dl-test=translator-lang-option-${targetLanguage}]`,
       originalSentenceField = ".lmt__source_textarea",
       targetSentenceField =
         ".lmt__target_textarea"; /*,
@@ -55,7 +54,7 @@ module.exports = {
 
     await page.click(targetLangSelect);
     await page.waitForSelector(targetLangMenu, { visible: true });
-    await page.waitForTimeout(100);
+    await page.waitForTimeout(1000);
     try {
       await page.click(targetLangButton);
     } catch (_) {

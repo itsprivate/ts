@@ -1,12 +1,18 @@
 require("dotenv").config();
+const DeeplClient = require("./deepl-client");
+
 const translate = require("./translate");
 const preTranslate = require("./pre-translate");
 function translateTest() {
+  const deeplClient = new DeeplClient();
+
   translate({
-    secretId: process.env.TENCENT_TRANSLATION_SECRET_ID,
-    secretKey: process.env.TENCENT_TRANSLATION_SECRET_KEY,
+    client: deeplClient,
     sourceText:
       "TIL that In 2018, A hacker broke into people’s routers (100,000 of them) and patched their vulnerabilities up so that they couldn’t be abused by other hackers.",
+    provider: "deepl",
+    source: "en",
+    target: "zh",
   })
     .catch((e) => {
       console.error("e", e);
@@ -39,5 +45,6 @@ function preTranslateTest() {
   });
   console.log("text", text);
 }
-preTranslateTest();
+// preTranslateTest();
 // translateTr();
+translateTest();
