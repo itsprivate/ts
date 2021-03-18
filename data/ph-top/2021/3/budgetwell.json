@@ -73,5 +73,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-17T09:23:02Z"
+  "original_createdAt": "2021-03-17T09:23:02Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Budgetwell是一款个人预算工具，它的设计是考虑到所有的收入，现在和未来，帮助你管理你的财务。",
+      "tagline": "清晰的个人预算"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Budgetwell是一款個人預算工具，它的設計是考慮到所有的收入，現在和未來，幫助你管理你的財務。",
+      "tagline": "清晰的個人預算"
+    }
+  ]
 }

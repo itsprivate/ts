@@ -343,5 +343,17 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Thu Mar 18 14:39:20 +0000 2021"
+  "original_created_at": "Thu Mar 18 14:39:20 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @SquawkCNBC: \"哥白尼说我们可能在绕着太阳转的时候，已经是1500年左右的事了 事情确实发生了变化，\"@Scaramucci说#比特... ...",
+      "retweeted_status_full_text": "\"哥白尼说我们可能会绕着太阳转的时候是1500年左右。事情确实在变。\"@Scaramucci对#比特币#btc说。\"在很多方面，如果你真的研究它，它比黄金更好。它更容易存储。你可以更快地移动它。\" https://t.co/X7vfu1A9eU"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @SquawkCNBC: \"哥白尼說我們可能在繞着太陽轉的時候，已經是1500年左右的事了 事情確實發生了變化，\"@Scaramucci說#比特... ...",
+      "retweeted_status_full_text": "\"哥白尼說我們可能會繞着太陽轉的時候是1500年左右。事情確實在變。\"@Scaramucci對#比特幣#btc說。\"在很多方面，如果你真的研究它，它比黃金更好。它更容易存儲。你可以更快地移動它。\" https://t.co/X7vfu1A9eU"
+    }
+  ]
 }

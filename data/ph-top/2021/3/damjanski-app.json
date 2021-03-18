@@ -81,5 +81,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-17T15:44:54Z"
+  "original_createdAt": "2021-03-17T15:44:54Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "拍照，应用会自动将任何一张脸替换成我的脸。",
+      "tagline": "Deepfake Damjanski 📷。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "拍照，應用會自動將任何一張臉替換成我的臉。",
+      "tagline": "Deepfake Damjanski 📷。"
+    }
+  ]
 }
