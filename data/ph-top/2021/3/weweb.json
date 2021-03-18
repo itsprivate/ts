@@ -108,5 +108,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-18T07:05:00Z"
+  "original_createdAt": "2021-03-18T07:05:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "WeWeb是一个无需代码的网站建设者，它能帮助你更快地建立网站，这要归功于。- 一个围绕协作而建立的专业编辑器 - 从任何后台/CMS（Airtable，无头CMS，REST API）获取数据 - 从GitHub（React / Vue）导入自定义组件。",
+      "tagline": "无需代码的网站建设者，集成了你喜欢的工具。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "WeWeb是一個無需代碼的網站建設者，它能幫助你更快地建立網站，這要歸功於。- 一個圍繞協作而建立的專業編輯器 - 從任何後臺/CMS（Airtable，無頭CMS，REST API）獲取數據 - 從GitHub（React / Vue）導入自定義組件。",
+      "tagline": "無需代碼的網站建設者，集成了你喜歡的工具。"
+    }
+  ]
 }
