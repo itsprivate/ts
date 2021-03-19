@@ -97,5 +97,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-19T07:05:00Z"
+  "original_createdAt": "2021-03-19T07:05:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "⭐ Tailwind UI Kit是一个集合了600多个现成的组件，以及30个支持react，angular和vue的模板。",
+      "tagline": "600多个组件，30个模板，支持React、Angular和Vue。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "⭐ Tailwind UI Kit是一個集合了600多個現成的組件，以及30個支持react，angular和vue的模板。",
+      "tagline": "600多個組件，30個模板，支持React、Angular和Vue。"
+    }
+  ]
 }
