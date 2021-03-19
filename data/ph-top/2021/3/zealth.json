@@ -68,5 +68,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-19T07:01:00Z"
+  "original_createdAt": "2021-03-19T07:01:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Zealth正在打造一款软件，帮助医院为癌症患者提供连续的全天候监测，一旦患者离开医院，如果患者处于高危状态，就会发出警报。",
+      "tagline": "癌症患者远程监测的SaaS"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Zealth正在打造一款軟件，幫助醫院爲癌症患者提供連續的全天候監測，一旦患者離開醫院，如果患者處於高危狀態，就會發出警報。",
+      "tagline": "癌症患者遠程監測的SaaS"
+    }
+  ]
 }
