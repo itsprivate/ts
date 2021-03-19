@@ -80,5 +80,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-18T11:49:44Z"
+  "original_createdAt": "2021-03-18T11:49:44Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Tailscale是一个零配置的VPN，用于构建安全网络。在几分钟内安装在任何设备上。从任何网络或物理位置远程访问。建立在WireGuard®上。",
+      "tagline": "一个安全的网络，只是工作"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Tailscale是一個零配置的VPN，用於構建安全網絡。在幾分鐘內安裝在任何設備上。從任何網絡或物理位置遠程訪問。建立在WireGuard®上。",
+      "tagline": "一個安全的網絡，只是工作"
+    }
+  ]
 }
