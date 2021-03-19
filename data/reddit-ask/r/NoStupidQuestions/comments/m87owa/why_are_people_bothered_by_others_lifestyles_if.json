@@ -107,5 +107,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1616122692,
-  "the_new_excerpt": "It literally makes absolutely no sense"
+  "the_new_excerpt": "It literally makes absolutely no sense",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这完全没有意义",
+      "title": "如果对自己没有影响，人们为什么要为别人的生活方式而烦恼呢？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這完全沒有意義",
+      "title": "如果對自己沒有影響，人們爲什麼要爲別人的生活方式而煩惱呢？"
+    }
+  ]
 }
