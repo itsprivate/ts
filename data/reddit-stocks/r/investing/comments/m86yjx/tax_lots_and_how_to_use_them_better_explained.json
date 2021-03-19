@@ -101,5 +101,15 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1616120196,
-  "the_new_excerpt": "> FIFO (first in first out) ----> Sells your oldest shares first\n> \n> LIFO (last in first out) ----> Sells your most recently purchased shares first\n> \n> Highest Cost ----> Sells your shares with the highest cost basis first\n> \n> Low Cost ----> Sells your shares with the lowest average first\n\nDollar…"
+  "the_new_excerpt": "> FIFO (first in first out) ----> Sells your oldest shares first\n> \n> LIFO (last in first out) ----> Sells your most recently purchased shares first\n> \n> Highest Cost ----> Sells your shares with the highest cost basis first\n> \n> Low Cost ----> Sells your shares with the lowest average first\n\nDollar…",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "> FIFO(先进先出) ----> 先卖出您最老的股票。\n> \n> LIFO（后进先出）----> 先卖出您最近买入的股票。\n> \n> 最高成本 ----> 先卖出成本最高的股票。\n> \n> 低成本----> 以最低的平均价格先卖出你的股票。\n\n美元..."
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "> FIFO(先進先出) ----> 先賣出您最老的股票。\n> \n> LIFO（後進先出）----> 先賣出您最近買入的股票。\n> \n> 最高成本 ----> 先賣出成本最高的股票。\n> \n> 低成本----> 以最低的平均價格先賣出你的股票。\n\n美元..."
+    }
+  ]
 }
