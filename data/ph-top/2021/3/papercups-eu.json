@@ -63,5 +63,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-18T16:00:00Z"
+  "original_createdAt": "2021-03-18T16:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Papercups EU 是一个开源的即时客户聊天工具，出于 GDPR 合规性的目的，它被托管在欧盟。我们提供React/React Native/Flutter/HTML聊天组件，提供大量的灵活性和可定制性。",
+      "tagline": "开源的即时聊天工具，托管在欧盟"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Papercups EU 是一個開源的即時客戶聊天工具，出於 GDPR 合規性的目的，它被託管在歐盟。我們提供React/React Native/Flutter/HTML聊天組件，提供大量的靈活性和可定製性。",
+      "tagline": "開源的即時聊天工具，託管在歐盟"
+    }
+  ]
 }
