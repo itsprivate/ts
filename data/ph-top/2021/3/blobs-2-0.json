@@ -98,5 +98,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-19T07:05:00Z"
+  "original_createdAt": "2021-03-19T07:05:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "生成blob形状： - 设置纯色 - 设置渐变色 - 设置图案背景 - 自定义图像剪裁 - 本地保存和管理blob - 可共享的URL - 黑暗模式 - 支持离线工作和PWA - 更快的初始加载速度和更好的性能 - Blob改变声音。",
+      "tagline": "为您的设计生成美丽的斑点"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "生成blob形狀： - 設置純色 - 設置漸變色 - 設置圖案背景 - 自定義圖像剪裁 - 本地保存和管理blob - 可共享的URL - 黑暗模式 - 支持離線工作和PWA - 更快的初始加載速度和更好的性能 - Blob改變聲音。",
+      "tagline": "爲您的設計生成美麗的斑點"
+    }
+  ]
 }
