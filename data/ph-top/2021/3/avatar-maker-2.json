@@ -81,11 +81,13 @@
   "localize": [
     {
       "locale": "zh",
-      "tagline": "创建自己的头像"
+      "tagline": "创建自己的头像",
+      "description": "从不同的地方收集你的头像。本程序的代码非常简单，任何开发人员都能理解。SVG是用来绘制头像的。项目演示版：https://avatar-maker-vue.netlify.app/"
     },
     {
       "locale": "zh-Hant",
-      "tagline": "創建自己的頭像"
+      "tagline": "創建自己的頭像",
+      "description": "從不同的地方收集你的頭像。本程序的代碼非常簡單，任何開發人員都能理解。SVG是用來繪製頭像的。項目演示版：https://avatar-maker-vue.netlify.app/"
     }
   ]
 }
