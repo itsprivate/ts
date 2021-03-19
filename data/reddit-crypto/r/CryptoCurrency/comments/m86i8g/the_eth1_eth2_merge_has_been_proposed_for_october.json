@@ -136,5 +136,15 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1616118699,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "Eth1 -> Eth2的合并已被提议在2021年10月进行。这将结束POW，将Eth完全过渡到POS。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Eth1 -> Eth2的合併已被提議在2021年10月進行。這將結束POW，將Eth完全過渡到POS。"
+    }
+  ]
 }
