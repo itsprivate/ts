@@ -97,5 +97,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-20T07:00:00Z"
+  "original_createdAt": "2021-03-20T07:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "全新的iOS和iPadOS，拥有个人建议、目标追踪、冥想场景、日常激励等功能。",
+      "tagline": "让2021年成为更好的一年：个人建议、目标与冥想。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "全新的iOS和iPadOS，擁有個人建議、目標追蹤、冥想場景、日常激勵等功能。",
+      "tagline": "讓2021年成爲更好的一年：個人建議、目標與冥想。"
+    }
+  ]
 }
