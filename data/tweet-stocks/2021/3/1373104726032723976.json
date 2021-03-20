@@ -544,5 +544,17 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Sat Mar 20 02:50:52 +0000 2021"
+  "original_created_at": "Sat Mar 20 02:50:52 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @APompliano: 这是我很久以来看到的最疯狂的视频 https://t.co/qgDQqFPOMx",
+      "retweeted_status_full_text": "这是我很久以来看到的最疯狂的视频https://t.co/qgDQqFPOMx。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @APompliano: 這是我很久以來看到的最瘋狂的視頻 https://t.co/qgDQqFPOMx",
+      "retweeted_status_full_text": "這是我很久以來看到的最瘋狂的視頻https://t.co/qgDQqFPOMx。"
+    }
+  ]
 }
