@@ -73,5 +73,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-20T07:13:59Z"
+  "original_createdAt": "2021-03-20T07:13:59Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "收集了90个网站和登陆页面的横幅。通过简单的编辑改变整个文本，只需用主组件检查它是如何工作的。与Figma兼容。",
+      "tagline": "90个醒目的Figma网站横幅。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "收集了90個網站和登陸頁面的橫幅。通過簡單的編輯改變整個文本，只需用主組件檢查它是如何工作的。與Figma兼容。",
+      "tagline": "90個醒目的Figma網站橫幅。"
+    }
+  ]
 }
