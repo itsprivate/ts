@@ -103,5 +103,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1616322250,
-  "the_new_excerpt": "A very happy Sunday to all :)"
+  "the_new_excerpt": "A very happy Sunday to all :)",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "祝大家周日快乐:)",
+      "title": "一觉醒来，买了蘸料!"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "祝大家週日快樂:)",
+      "title": "一覺醒來，買了蘸料!"
+    }
+  ]
 }
