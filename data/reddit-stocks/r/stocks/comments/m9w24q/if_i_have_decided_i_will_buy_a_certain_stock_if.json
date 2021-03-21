@@ -102,5 +102,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1616331159,
-  "the_new_excerpt": "For example, let's say I've decided I'm going to buy 100 shares of Ford if it\nfalls below $10/share. What downside is there to just selling a put for 100\nshares at $10 per share and make a little extra money at the same time? Why\nwould anyone use a buy limit order instead of just selling a put and…"
+  "the_new_excerpt": "For example, let's say I've decided I'm going to buy 100 shares of Ford if it\nfalls below $10/share. What downside is there to just selling a put for 100\nshares at $10 per share and make a little extra money at the same time? Why\nwould anyone use a buy limit order instead of just selling a put and…",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "例如，假设我决定要买入100股福特的股票，如果它\n跌破10元/股。只卖出100元的看跌期权，有什么不利因素？\n每股10元的股票，同时还能赚点外快？为什么要这样做？\n有人会使用买入限价单，而不是仅仅卖出认沽和...",
+      "title": "如果我已经决定，如果某只股票跌破了某个价格，我就会买入它，那么在这个价格上只卖出认沽，有什么坏处？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "例如，假設我決定要買入100股福特的股票，如果它\n跌破10元/股。只賣出100元的看跌期權，有什麼不利因素？\n每股10元的股票，同時還能賺點外快？爲什麼要這樣做？\n有人會使用買入限價單，而不是僅僅賣出認沽和...",
+      "title": "如果我已經決定，如果某隻股票跌破了某個價格，我就會買入它，那麼在這個價格上只賣出認沽，有什麼壞處？"
+    }
+  ]
 }
