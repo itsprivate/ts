@@ -14,5 +14,15 @@
   "tags": [
     "The Hill"
   ],
-  "image": "https://thehill.com/sites/default/files/astrazenecavaccine.jpg"
+  "image": "https://thehill.com/sites/default/files/astrazenecavaccine.jpg",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "报道称，英国将不会从欧盟获得阿斯利康疫苗。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "報道稱，英國將不會從歐盟獲得阿斯利康疫苗。"
+    }
+  ]
 }
