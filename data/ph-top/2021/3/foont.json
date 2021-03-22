@@ -68,5 +68,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-21T14:00:28Z"
+  "original_createdAt": "2021-03-21T14:00:28Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "一个非常简单的设计师的字体游戏。灵感来自https://cantunsee.space/ 🐛 这是测试版。欢迎提出任何建议，如bug、反馈、域名等。",
+      "tagline": "设计师识别字体的游戏"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個非常簡單的設計師的字體遊戲。靈感來自https://cantunsee.space/ 🐛 這是測試版。歡迎提出任何建議，如bug、反饋、域名等。",
+      "tagline": "設計師識別字體的遊戲"
+    }
+  ]
 }
