@@ -78,5 +78,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-22T07:01:00Z"
+  "original_createdAt": "2021-03-22T07:01:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "使用Bedrock启动您的下一个SaaS产品：现代的全栈Next.js和GraphQL模板，具有用户认证、订阅支付、团队、邀请、电子邮件和其他一切您需要的功能。",
+      "tagline": "用于SaaS产品的全栈Next.js和GraphQL模板。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用Bedrock啓動您的下一個SaaS產品：現代的全棧Next.js和GraphQL模板，具有用戶認證、訂閱支付、團隊、邀請、電子郵件和其他一切您需要的功能。",
+      "tagline": "用於SaaS產品的全棧Next.js和GraphQL模板。"
+    }
+  ]
 }
