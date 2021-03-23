@@ -73,5 +73,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-22T13:58:06Z"
+  "original_createdAt": "2021-03-22T13:58:06Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "声纳网提供每日自动网站分析。分析50多个SEO错误，检查所有网站页面的CSS、JS、HTML验证。每个网站单独付费，每个网站5万个页面的限制，每天检查，通知。",
+      "tagline": "网站每日自动分析"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "聲納網提供每日自動網站分析。分析50多個SEO錯誤，檢查所有網站頁面的CSS、JS、HTML驗證。每個網站單獨付費，每個網站5萬個頁面的限制，每天檢查，通知。",
+      "tagline": "網站每日自動分析"
+    }
+  ]
 }
