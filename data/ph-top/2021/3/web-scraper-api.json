@@ -68,5 +68,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-23T08:00:00Z"
+  "original_createdAt": "2021-03-23T08:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "这个API可以让您从任何网站上刮取任何数据，而不用担心代理，CAPTCHA，无头浏览器和许多其他复杂的网络刮取。我们确保你永远不会再被封杀!",
+      "tagline": "规模化搜刮网页，不被封杀。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這個API可以讓您從任何網站上刮取任何數據，而不用擔心代理，CAPTCHA，無頭瀏覽器和許多其他複雜的網絡刮取。我們確保你永遠不會再被封殺!",
+      "tagline": "規模化搜刮網頁，不被封殺。"
+    }
+  ]
 }
