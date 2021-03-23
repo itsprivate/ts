@@ -103,5 +103,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1616449879,
-  "the_new_excerpt": "Crazy discount."
+  "the_new_excerpt": "Crazy discount.",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "疯狂的折扣。",
+      "title": "现在是购买的时候了"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "瘋狂的折扣。",
+      "title": "現在是購買的時候了"
+    }
+  ]
 }
