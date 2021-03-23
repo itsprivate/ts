@@ -161,5 +161,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1616504298,
-  "the_new_excerpt": "Hey all,\n\nTHIS IS NOT A BUG REPORT. This is a warning to those of you who may have used\nthe \"Buy Crypto\" button on Binance.us [https://Binance.us]\n\nI attempted to make a purchase last night using the \"Buy Crypto\" button because\nit seemed easy. It returned an error four times with a red X that said…"
+  "the_new_excerpt": "Hey all,\n\nTHIS IS NOT A BUG REPORT. This is a warning to those of you who may have used\nthe \"Buy Crypto\" button on Binance.us [https://Binance.us]\n\nI attempted to make a purchase last night using the \"Buy Crypto\" button because\nit seemed easy. It returned an error four times with a red X that said…",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "大家好\n\n这不是一个BUG报告。这是一个警告，给那些可能已经使用了\n在Binance.us [https://Binance.us] 上的 \"购买加密 \"按钮。\n\n我昨晚试图使用 \"购买加密货币 \"按钮进行购买，因为\n它似乎很容易。它四次返回一个错误的红色X，说...",
+      "title": "警告--Binance的 \"购买加密货币 \"按钮坏了，Binance知道了。我被收取了五次交易费用，因为它说 \"错误，请重试\"。据说，\"修复工作正在进行中\"，但他们仍然在生产中启用了它。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "大家好\n\n這不是一個BUG報告。這是一個警告，給那些可能已經使用了\n在Binance.us [https://Binance.us] 上的 \"購買加密 \"按鈕。\n\n我昨晚試圖使用 \"購買加密貨幣 \"按鈕進行購買，因爲\n它似乎很容易。它四次返回一個錯誤的紅色X，說...",
+      "title": "警告--Binance的 \"購買加密貨幣 \"按鈕壞了，Binance知道了。我被收取了五次交易費用，因爲它說 \"錯誤，請重試\"。據說，\"修復工作正在進行中\"，但他們仍然在生產中啓用了它。"
+    }
+  ]
 }
