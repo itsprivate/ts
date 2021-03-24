@@ -183,5 +183,17 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Wed Mar 24 08:33:02 +0000 2021"
+  "original_created_at": "Wed Mar 24 08:33:02 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @elonmusk: 今年晚些时候，美国以外的地区可以使用比特币支付了",
+      "retweeted_status_full_text": "今年晚些时候在美国以外地区提供比特币支付功能"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @elonmusk: 今年晚些時候，美國以外的地區可以使用比特幣支付了",
+      "retweeted_status_full_text": "今年晚些時候在美國以外地區提供比特幣支付功能"
+    }
+  ]
 }
