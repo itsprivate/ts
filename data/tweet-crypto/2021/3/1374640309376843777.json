@@ -183,5 +183,17 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Wed Mar 24 08:32:43 +0000 2021"
+  "original_created_at": "Wed Mar 24 08:32:43 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @elonmusk：你现在可以用比特币购买特斯拉了。",
+      "retweeted_status_full_text": "你现在可以用比特币买一辆特斯拉了。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @elonmusk：你現在可以用比特幣購買特斯拉了。",
+      "retweeted_status_full_text": "你現在可以用比特幣買一輛特斯拉了。"
+    }
+  ]
 }
