@@ -72,11 +72,13 @@
   "localize": [
     {
       "locale": "zh",
-      "description": "Porter是一个让AWS/GCP像Heroku一样容易使用的平台。通过Git的即时部署、内置自动缩放和自动SSL，Porter为您提供了PaaS的便利，同时保留了灵活性和控制力。"
+      "description": "Porter是一个让AWS/GCP像Heroku一样容易使用的平台。通过Git的即时部署、内置自动缩放和自动SSL，Porter为您提供了PaaS的便利，同时保留了灵活性和控制力。",
+      "tagline": "运行在自己云端的Heroku"
     },
     {
       "locale": "zh-Hant",
-      "description": "Porter是一個讓AWS/GCP像Heroku一樣容易使用的平臺。通過Git的即時部署、內置自動縮放和自動SSL，Porter爲您提供了PaaS的便利，同時保留了靈活性和控制力。"
+      "description": "Porter是一個讓AWS/GCP像Heroku一樣容易使用的平臺。通過Git的即時部署、內置自動縮放和自動SSL，Porter爲您提供了PaaS的便利，同時保留了靈活性和控制力。",
+      "tagline": "運行在自己雲端的Heroku"
     }
   ]
 }
