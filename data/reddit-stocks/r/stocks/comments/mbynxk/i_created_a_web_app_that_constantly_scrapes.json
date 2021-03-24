@@ -102,5 +102,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1616565039,
-  "the_new_excerpt": "https://reddit-data-analysis.herokuapp.com/\n\nJust wanted to share a cool project I did over the past few weeks...\n\nThe process works like this: a program scrapes the top-rated comments from\ndiscussion boards on the WallStreetBets, Finance, Stock, and Investing\nsubreddits every single hour and…"
+  "the_new_excerpt": "https://reddit-data-analysis.herokuapp.com/\n\nJust wanted to share a cool project I did over the past few weeks...\n\nThe process works like this: a program scrapes the top-rated comments from\ndiscussion boards on the WallStreetBets, Finance, Stock, and Investing\nsubreddits every single hour and…",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "https://reddit-data-analysis.herokuapp.com/\n\n只是想分享一下我过去几周做的一个很酷的项目......。\n\n这个过程是这样的：一个程序会从你的评论中刮取排名靠前的评论。\n在WallStreetBets，金融，股票和投资的讨论板块\n子reddits每一个小时，并...",
+      "title": "我创建了一个网络应用，它不断地搜刮reddit论坛（比如这个），并返回每只股票的情绪和提及次数。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "https://reddit-data-analysis.herokuapp.com/\n\n只是想分享一下我過去幾周做的一個很酷的項目......。\n\n這個過程是這樣的：一個程序會從你的評論中刮取排名靠前的評論。\n在WallStreetBets，金融，股票和投資的討論板塊\n子reddits每一個小時，並...",
+      "title": "我創建了一個網絡應用，它不斷地搜刮reddit論壇（比如這個），並返回每隻股票的情緒和提及次數。"
+    }
+  ]
 }

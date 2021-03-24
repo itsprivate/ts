@@ -63,5 +63,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-23T17:50:37Z"
+  "original_createdAt": "2021-03-23T17:50:37Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "通过调色板，你可以将颜色添加到调色板中，当你需要一种颜色时，可以点击复制HEX。",
+      "tagline": "存储和共享应用程序之间的颜色"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "通過調色板，你可以將顏色添加到調色板中，當你需要一種顏色時，可以點擊複製HEX。",
+      "tagline": "存儲和共享應用程序之間的顏色"
+    }
+  ]
 }
