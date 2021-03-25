@@ -63,5 +63,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-25T07:01:00Z"
+  "original_createdAt": "2021-03-25T07:01:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Alpaca提供了全球首个免佣金的零碎交易API，让我们可以建立更灵活的量化交易模型和金融科技应用。",
+      "tagline": "免佣金的API，交易和投资的价格仅为1美元"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Alpaca提供了全球首個免佣金的零碎交易API，讓我們可以建立更靈活的量化交易模型和金融科技應用。",
+      "tagline": "免佣金的API，交易和投資的價格僅爲1美元"
+    }
+  ]
 }
