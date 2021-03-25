@@ -63,5 +63,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-24T18:10:42Z"
+  "original_createdAt": "2021-03-24T18:10:42Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Vantage是一个云成本透明平台，目前支持AWS。只需点击一个按钮，就能安全地链接你的AWS账户，我们会自动向你展示你的成本来自哪里，以及成本的趋势。",
+      "tagline": "云成本透明平台"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Vantage是一個雲成本透明平臺，目前支持AWS。只需點擊一個按鈕，就能安全地鏈接你的AWS賬戶，我們會自動向你展示你的成本來自哪裏，以及成本的趨勢。",
+      "tagline": "雲成本透明平臺"
+    }
+  ]
 }
