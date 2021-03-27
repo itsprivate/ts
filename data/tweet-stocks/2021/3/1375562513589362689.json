@@ -218,5 +218,17 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Fri Mar 26 21:37:14 +0000 2021"
+  "original_created_at": "Fri Mar 26 21:37:14 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @willjawando: 再一次，触发器警告 下面的you tube链接是很难看的。\n\nhttps://t.co/jNUFHOBCCK",
+      "retweeted_status_full_text": "再一次，触发器警告下面的you tube链接是很难看的。\n\nhttps://t.co/jNUFHOBCCK"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @willjawando: 再一次，觸發器警告 下面的you tube鏈接是很難看的。\n\nhttps://t.co/jNUFHOBCCK",
+      "retweeted_status_full_text": "再一次，觸發器警告下面的you tube鏈接是很難看的。\n\nhttps://t.co/jNUFHOBCCK"
+    }
+  ]
 }
