@@ -74,5 +74,17 @@
     ]
   },
   "original_createdAt": "2021-03-25T07:01:00Z",
-  "source_updated_at": 1616752840876
+  "source_updated_at": 1616752840876,
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Recipes是一种新的方式，可以在您的ReadMe文档中创建分步的代码演练。通过帮助您展示API的最佳用例，开发人员可以轻松上手，同时节省您的团队在开发人员支持上的时间。",
+      "tagline": "为您的API提供逐步的代码演练。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Recipes是一種新的方式，可以在您的ReadMe文檔中創建分步的代碼演練。通過幫助您展示API的最佳用例，開發人員可以輕鬆上手，同時節省您的團隊在開發人員支持上的時間。",
+      "tagline": "爲您的API提供逐步的代碼演練。"
+    }
+  ]
 }

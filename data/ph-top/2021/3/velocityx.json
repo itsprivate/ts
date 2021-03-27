@@ -58,5 +58,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-25T13:15:09Z"
+  "original_createdAt": "2021-03-25T13:15:09Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "一个简约的Flutter框架，灵感来自于TailwindCSS和SwiftUI，用于快速构建自定义设计。",
+      "tagline": "一个简约的Flutter框架"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個簡約的Flutter框架，靈感來自於TailwindCSS和SwiftUI，用於快速構建自定義設計。",
+      "tagline": "一個簡約的Flutter框架"
+    }
+  ]
 }

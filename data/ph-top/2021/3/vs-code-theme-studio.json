@@ -104,5 +104,17 @@
     ]
   },
   "original_createdAt": "2021-03-25T12:22:38Z",
-  "source_updated_at": 1616752842994
+  "source_updated_at": 1616752842994,
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "VS Code Theme Studio可以让你在一个直观的、用户友好的、基于网络的界面中快速、轻松地设计自己的VS Code主题。无需再使用讨厌的JSON文件，编辑原始的十六进制颜色代码，以及调整设置。",
+      "tagline": "在浏览器中轻松创建自己的VS Code主题。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "VS Code Theme Studio可以讓你在一個直觀的、用戶友好的、基於網絡的界面中快速、輕鬆地設計自己的VS Code主題。無需再使用討厭的JSON文件，編輯原始的十六進制顏色代碼，以及調整設置。",
+      "tagline": "在瀏覽器中輕鬆創建自己的VS Code主題。"
+    }
+  ]
 }

@@ -67,5 +67,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-25T07:51:55Z"
+  "original_createdAt": "2021-03-25T07:51:55Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "这个iOS小工具包允许您通过iOS快捷键在您的iPhone或iPad的主屏幕上用漂亮的图表来跟踪您的Gumroad分析。仪表板拉在Gumroad的指标，如订单/收入，再加上打破你最流行的产品。📊",
+      "tagline": "在主屏幕上跟踪Gumroad销售的iOS小工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這個iOS小工具包允許您通過iOS快捷鍵在您的iPhone或iPad的主屏幕上用漂亮的圖表來跟蹤您的Gumroad分析。儀表板拉在Gumroad的指標，如訂單/收入，再加上打破你最流行的產品。📊",
+      "tagline": "在主屏幕上跟蹤Gumroad銷售的iOS小工具"
+    }
+  ]
 }

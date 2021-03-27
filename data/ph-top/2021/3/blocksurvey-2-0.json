@@ -83,5 +83,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-26T07:00:00Z"
+  "original_createdAt": "2021-03-26T07:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "BlockSurvey是一个注重隐私和安全的在线表格和调查平台。把它看作是SurveyMonkey、Typeform、Google Forms的替代品，但注重隐私和安全。它由Stacks Blockchain提供支持。",
+      "tagline": "由Stacks区块链提供支持的安全表格和调查问卷。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "BlockSurvey是一個注重隱私和安全的在線表格和調查平臺。把它看作是SurveyMonkey、Typeform、Google Forms的替代品，但注重隱私和安全。它由Stacks Blockchain提供支持。",
+      "tagline": "由Stacks區塊鏈提供支持的安全表格和調查問卷。"
+    }
+  ]
 }

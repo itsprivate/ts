@@ -79,5 +79,17 @@
     ]
   },
   "original_createdAt": "2021-03-25T07:49:41Z",
-  "source_updated_at": 1616752839024
+  "source_updated_at": 1616752839024,
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "将您的SQL数据库连接到Clay，直接在Google Sheets中插入您的查询结果。告别在SQL编辑器、CSV下载、Excel和Dashboards之间跳来跳去。让你的财务模型、增长图表和客户名单始终保持最新。",
+      "tagline": "直接在Google Sheets中运行SQL查询"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "將您的SQL數據庫連接到Clay，直接在Google Sheets中插入您的查詢結果。告別在SQL編輯器、CSV下載、Excel和Dashboards之間跳來跳去。讓你的財務模型、增長圖表和客戶名單始終保持最新。",
+      "tagline": "直接在Google Sheets中運行SQL查詢"
+    }
+  ]
 }
