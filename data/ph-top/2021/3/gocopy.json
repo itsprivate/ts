@@ -79,5 +79,17 @@
     ]
   },
   "original_createdAt": "2021-03-24T15:54:58Z",
-  "source_updated_at": 1616752840866
+  "source_updated_at": 1616752840866,
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "GoCopy是一款AI写作助手。我们用AI驱动的写作工具增强您的创作过程。告别写作障碍，让您的创作灵感源源不断。",
+      "tagline": "使用GPT-3让写作更轻松"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "GoCopy是一款AI寫作助手。我們用AI驅動的寫作工具增強您的創作過程。告別寫作障礙，讓您的創作靈感源源不斷。",
+      "tagline": "使用GPT-3讓寫作更輕鬆"
+    }
+  ]
 }

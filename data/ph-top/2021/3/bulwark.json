@@ -78,5 +78,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-26T16:12:30Z"
+  "original_createdAt": "2021-03-26T16:12:30Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "一个漂亮、简约的TOTP双因素认证应用。",
+      "tagline": "精美简单的2FA"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個漂亮、簡約的TOTP雙因素認證應用。",
+      "tagline": "精美簡單的2FA"
+    }
+  ]
 }

@@ -58,5 +58,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-26T08:47:44Z"
+  "original_createdAt": "2021-03-26T08:47:44Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "找不到合适的开场白？我们使用GPT-3生成了数万条Tinder开场白，并从中挑选出最好的开场白（根据我们有限的经验）。",
+      "tagline": "GPT-3产生了数以千计的打开器，我们挑选了最好的打开器。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "找不到合適的開場白？我們使用GPT-3生成了數萬條Tinder開場白，並從中挑選出最好的開場白（根據我們有限的經驗）。",
+      "tagline": "GPT-3產生了數以千計的打開器，我們挑選了最好的打開器。"
+    }
+  ]
 }
