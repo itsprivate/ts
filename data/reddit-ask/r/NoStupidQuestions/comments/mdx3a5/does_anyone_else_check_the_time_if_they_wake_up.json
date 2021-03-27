@@ -106,5 +106,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1616788876,
-  "the_new_excerpt": "that time check determines how peacefully ill sleep after that"
+  "the_new_excerpt": "that time check determines how peacefully ill sleep after that",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "时差决定了此后的睡眠质量。",
+      "title": "如果半夜醒来，还有人看时间，知道自己离要醒来还有多少时间吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "時差決定了此後的睡眠質量。",
+      "title": "如果半夜醒來，還有人看時間，知道自己離要醒來還有多少時間嗎？"
+    }
+  ]
 }
