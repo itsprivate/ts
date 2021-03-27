@@ -1,0 +1,162 @@
+{
+  "approved_at_utc": null,
+  "subreddit": "CryptoCurrency",
+  "selftext": "I have recently started coding my own crypto trading bots, as a way to remove emotional impulses from my trading strategy and have tested a few designs with various degrees of success. \n\nI have recently been testing this particular bot with different coins and got some interesting results. While it underperformed on Bitcoin, it actually came in profit during a week of live-testing on XLM. \n\nHere are parameters that I set for the bot:\n\n* The bot will be trading Bitcoin automatically if the price has increased by more than 3% in the last 10 minutes. \n* We will have a stop loss of 5% and take profit of 8% - this can be improved with a trailing-stop functionality. \n\n Have you ever traded with a crypto bot or built one yourself? Let me know your thoughts!\n\nAnd of course, here is a guide you can follow to build your own along with the open-sourced code:\n\nGuide: [https://www.cryptomaton.org/2021/03/14/how-to-code-your-own-crypto-trading-bot-python/](https://www.cryptomaton.org/2021/03/14/how-to-code-your-own-crypto-trading-bot-python/)\n\nGitHub repo: [https://github.com/CyberPunkMetalHead/Bitcoin-Surge-Trading-Alpha](https://github.com/CyberPunkMetalHead/Bitcoin-Surge-Trading-Alpha)",
+  "author_fullname": "t2_283pt45k",
+  "saved": false,
+  "mod_reason_title": null,
+  "gilded": 0,
+  "clicked": false,
+  "title": "I'm sharing the code of my first crypto trading bot, so you can build your own",
+  "link_flair_richtext": [
+    {
+      "e": "text",
+      "t": "TRADING"
+    }
+  ],
+  "subreddit_name_prefixed": "r/CryptoCurrency",
+  "hidden": false,
+  "pwls": 6,
+  "link_flair_css_class": "TRADING",
+  "downs": 0,
+  "thumbnail_height": null,
+  "top_awarded_type": null,
+  "hide_score": false,
+  "name": "t3_meh6ve",
+  "quarantine": false,
+  "link_flair_text_color": "dark",
+  "upvote_ratio": 0.94,
+  "author_flair_background_color": "",
+  "subreddit_type": "public",
+  "ups": 179,
+  "total_awards_received": 11,
+  "media_embed": {},
+  "thumbnail_width": null,
+  "author_flair_template_id": null,
+  "is_original_content": false,
+  "user_reports": [],
+  "secure_media": null,
+  "is_reddit_media_domain": false,
+  "is_meta": false,
+  "category": null,
+  "secure_media_embed": {},
+  "link_flair_text": "TRADING",
+  "can_mod_post": false,
+  "score": 179,
+  "approved_by": null,
+  "author_premium": true,
+  "thumbnail": "self",
+  "edited": false,
+  "author_flair_css_class": "Transitioning",
+  "author_flair_richtext": [
+    {
+      "e": "text",
+      "t": " "
+    }
+  ],
+  "gildings": {
+    "gid_1": 2
+  },
+  "post_hint": "self",
+  "content_categories": null,
+  "is_self": true,
+  "mod_note": null,
+  "created": 1616891371,
+  "link_flair_type": "richtext",
+  "wls": 6,
+  "removed_by_category": null,
+  "banned_by": null,
+  "author_flair_type": "richtext",
+  "domain": "self.CryptoCurrency",
+  "allow_live_comments": true,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>I have recently started coding my own crypto trading bots, as a way to remove emotional impulses from my trading strategy and have tested a few designs with various degrees of success. </p>\n\n<p>I have recently been testing this particular bot with different coins and got some interesting results. While it underperformed on Bitcoin, it actually came in profit during a week of live-testing on XLM. </p>\n\n<p>Here are parameters that I set for the bot:</p>\n\n<ul>\n<li>The bot will be trading Bitcoin automatically if the price has increased by more than 3% in the last 10 minutes. </li>\n<li><p>We will have a stop loss of 5% and take profit of 8% - this can be improved with a trailing-stop functionality. </p>\n\n<p>Have you ever traded with a crypto bot or built one yourself? Let me know your thoughts!</p></li>\n</ul>\n\n<p>And of course, here is a guide you can follow to build your own along with the open-sourced code:</p>\n\n<p>Guide: <a href=\"https://www.cryptomaton.org/2021/03/14/how-to-code-your-own-crypto-trading-bot-python/\">https://www.cryptomaton.org/2021/03/14/how-to-code-your-own-crypto-trading-bot-python/</a></p>\n\n<p>GitHub repo: <a href=\"https://github.com/CyberPunkMetalHead/Bitcoin-Surge-Trading-Alpha\">https://github.com/CyberPunkMetalHead/Bitcoin-Surge-Trading-Alpha</a></p>\n</div><!-- SC_ON -->",
+  "likes": null,
+  "suggested_sort": null,
+  "banned_at_utc": null,
+  "view_count": null,
+  "archived": false,
+  "no_follow": false,
+  "is_crosspostable": false,
+  "pinned": false,
+  "over_18": false,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/mRUu2RIGeSn2XwJ-bYC1VnTXGd5_SaYsG4AKGxUuFf8.jpg?auto=webp&s=23f846e17317b371e1dffc425b7d5ca8fb867db6",
+          "width": 1024,
+          "height": 730
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/mRUu2RIGeSn2XwJ-bYC1VnTXGd5_SaYsG4AKGxUuFf8.jpg?width=108&crop=smart&auto=webp&s=d279c588487505d6cb40d05c6bb5006bc17c4a77",
+            "width": 108,
+            "height": 76
+          },
+          {
+            "url": "https://external-preview.redd.it/mRUu2RIGeSn2XwJ-bYC1VnTXGd5_SaYsG4AKGxUuFf8.jpg?width=216&crop=smart&auto=webp&s=939d6f7ded8a6a87e66efb50733f265c2402a924",
+            "width": 216,
+            "height": 153
+          },
+          {
+            "url": "https://external-preview.redd.it/mRUu2RIGeSn2XwJ-bYC1VnTXGd5_SaYsG4AKGxUuFf8.jpg?width=320&crop=smart&auto=webp&s=44baae2413c889bc89e4bc19311231d04d0631ba",
+            "width": 320,
+            "height": 228
+          },
+          {
+            "url": "https://external-preview.redd.it/mRUu2RIGeSn2XwJ-bYC1VnTXGd5_SaYsG4AKGxUuFf8.jpg?width=640&crop=smart&auto=webp&s=c47bbf7a2c0ec9a6c0693b6c989f634e2f89ac4d",
+            "width": 640,
+            "height": 456
+          },
+          {
+            "url": "https://external-preview.redd.it/mRUu2RIGeSn2XwJ-bYC1VnTXGd5_SaYsG4AKGxUuFf8.jpg?width=960&crop=smart&auto=webp&s=e1a743d3ea2ae29a8f9bb4662edb9e714590f432",
+            "width": 960,
+            "height": 684
+          }
+        ],
+        "variants": {},
+        "id": "B_7jdusw5wmO3zksa1i3TEbRQ7hFDk7NmpxM1D81nHI"
+      }
+    ],
+    "enabled": false
+  },
+  "awarders": [],
+  "media_only": false,
+  "link_flair_template_id": "b0dd934c-ad7d-11e7-8466-0e3335a91874",
+  "can_gild": false,
+  "spoiler": false,
+  "locked": false,
+  "author_flair_text": " ",
+  "treatment_tags": [],
+  "visited": false,
+  "removed_by": null,
+  "num_reports": null,
+  "distinguished": null,
+  "subreddit_id": "t5_2wlj3",
+  "mod_reason_by": null,
+  "removal_reason": null,
+  "link_flair_background_color": "",
+  "id": "meh6ve",
+  "is_robot_indexable": true,
+  "report_reasons": null,
+  "author": "CyberPunkMetalHead",
+  "discussion_type": null,
+  "num_comments": 111,
+  "send_replies": true,
+  "whitelist_status": "all_ads",
+  "contest_mode": false,
+  "mod_reports": [],
+  "author_patreon_flair": false,
+  "author_flair_text_color": "dark",
+  "permalink": "/r/CryptoCurrency/comments/meh6ve/im_sharing_the_code_of_my_first_crypto_trading/",
+  "parent_whitelist_status": "all_ads",
+  "stickied": false,
+  "url": "https://www.reddit.com/r/CryptoCurrency/comments/meh6ve/im_sharing_the_code_of_my_first_crypto_trading/",
+  "subreddit_subscribers": 1989466,
+  "created_utc": 1616873428,
+  "num_crossposts": 0,
+  "media": null,
+  "is_video": false,
+  "original_created_utc": 1616862571,
+  "the_new_excerpt": "I have recently started coding my own crypto trading bots, as a way to remove\nemotional impulses from my trading strategy and have tested a few designs with\nvarious degrees of success.\n\nI have recently been testing this particular bot with different coins and got\nsome interesting results. While it…"
+}
