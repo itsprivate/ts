@@ -5,8 +5,8 @@ let browser;
 const getBrowser = async () => {
   if (browser) return browser;
   browser = await require("puppeteer").launch({
-    devtools: true,
-    headless: false,
+    devtools: process.env.NODE_ENV === "development" ? true : false,
+    headless: process.env.NODE_ENV === "development" ? false : true,
     defaultViewport: null,
     args: ["--lang=zh-Hans,zh"],
   });
