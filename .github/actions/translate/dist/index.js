@@ -48,8 +48,8 @@ let browser;
 const getBrowser = async () => {
   if (browser) return browser;
   browser = await __webpack_require__(79750).launch({
-    // devtools: true,
-    // headless: false,
+    devtools: true,
+    headless: false,
     defaultViewport: null,
     args: ["--lang=zh-Hans,zh"],
   });
@@ -65,15 +65,15 @@ module.exports = {
       throw new Error("INVALID_SOURCE_LANGUAGE");
     if (!/^[a-z]{2}-[A-Z]{2}$/.test(targetLanguage))
       throw new Error("INVALID_TARGET_LANGUAGE");
-    const sourceLangSelect = ".lmt__language_select--source button",
-      targetLangSelect = ".lmt__language_select--target button",
+    const sourceLangSelect = "button[dl-test=translator-source-lang-btn]",
+      targetLangSelect = "button[dl-test=translator-target-lang-btn]",
       sourceLangMenu = "div[dl-test=translator-source-lang-list]",
       targetLangMenu = "div[dl-test=translator-target-lang-list]",
-      sourceLangButton = `div[dl-test=translator-lang-option-${sourceLanguage}]`,
-      targetLangButton = `div[dl-test=translator-target-lang-list] div[dl-test=translator-lang-option-${targetLanguage}]`,
-      originalSentenceField = ".lmt__source_textarea",
+      sourceLangButton = `div[dl-test=translator-source-lang-list] button[dl-test=translator-lang-option-${sourceLanguage}]`,
+      targetLangButton = `div[dl-test=translator-target-lang-list] button[dl-test=translator-lang-option-${targetLanguage}]`,
+      originalSentenceField = "textarea[dl-test=translator-source-input]",
       targetSentenceField =
-        ".lmt__target_textarea"; /*,
+        "textarea[dl-test=translator-target-input]"; /*,
 			 targetSentencesContainer = '.lmt__translations_as_text'*/
 
     const page = await getNewPage();
