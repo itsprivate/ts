@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-03-26T21:52:49.000Z",
-  "image": "http://alexyu.net/plenoctrees/img/pipeline.png"
+  "image": "http://alexyu.net/plenoctrees/img/pipeline.png",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "PlenOctrees用于神经辐射场（NeRFs）的实时渲染。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "PlenOctrees用於神經輻射場（NeRFs）的實時渲染。"
+    }
+  ]
 }
