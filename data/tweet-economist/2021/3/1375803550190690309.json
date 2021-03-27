@@ -112,5 +112,15 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Sat Mar 27 13:35:02 +0000 2021"
+  "original_created_at": "Sat Mar 27 13:35:02 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "受干扰消息影响，原油价格大涨5%https://t.co/cskxuRgZ4Q。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "受干擾消息影響，原油價格大漲5%https://t.co/cskxuRgZ4Q。"
+    }
+  ]
 }
