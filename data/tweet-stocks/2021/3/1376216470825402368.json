@@ -217,5 +217,17 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Sun Mar 28 16:55:50 +0000 2021"
+  "original_created_at": "Sun Mar 28 16:55:50 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @zerohedge: 观看： 两名少女劫车并杀死一名Uber司机；CNN称其为意外https://t.co/DqZLBkHOju。",
+      "retweeted_status_full_text": "观看。两名少女劫车并杀死一名Uber司机，CNN称其为意外https://t.co/DqZLBkHOju。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @zerohedge: 觀看： 兩名少女劫車並殺死一名Uber司機；CNN稱其爲意外https://t.co/DqZLBkHOju。",
+      "retweeted_status_full_text": "觀看。兩名少女劫車並殺死一名Uber司機，CNN稱其爲意外https://t.co/DqZLBkHOju。"
+    }
+  ]
 }
