@@ -212,5 +212,17 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Sun Mar 28 08:28:06 +0000 2021"
+  "original_created_at": "Sun Mar 28 08:28:06 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @tyler：美国政府永远不会禁止#比特币。这些问题已经由监管机构和法院在过去的时间里提出并回答了。",
+      "retweeted_status_full_text": "美国政府永远不会禁止#比特币。在过去的十年里，监管机构和法院一直在问和回答这些问题。这艘船已经航行了。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @tyler：美國政府永遠不會禁止#比特幣。這些問題已經由監管機構和法院在過去的時間裏提出並回答了。",
+      "retweeted_status_full_text": "美國政府永遠不會禁止#比特幣。在過去的十年裏，監管機構和法院一直在問和回答這些問題。這艘船已經航行了。"
+    }
+  ]
 }
