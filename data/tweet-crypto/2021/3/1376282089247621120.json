@@ -234,5 +234,17 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Sun Mar 28 21:16:34 +0000 2021"
+  "original_created_at": "Sun Mar 28 21:16:34 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @Xentagz: 新西兰养老基金在10月宣布投资1750万美元#比特币(BTC)https://t.co/eVYBOqWgvz。",
+      "retweeted_status_full_text": "新西兰养老基金在10月宣布投资1750万美元#比特币（BTC）https://t.co/eVYBOqWgvz。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @Xentagz: 新西蘭養老基金在10月宣佈投資1750萬美元#比特幣(BTC)https://t.co/eVYBOqWgvz。",
+      "retweeted_status_full_text": "新西蘭養老基金在10月宣佈投資1750萬美元#比特幣（BTC）https://t.co/eVYBOqWgvz。"
+    }
+  ]
 }
