@@ -367,5 +367,17 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Sun Mar 28 21:31:00 +0000 2021"
+  "original_created_at": "Sun Mar 28 21:31:00 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @DocumentingBTC：全球最大的托管银行BNY Mellon刚刚在报告中引用了@100trillionUSD、@hasufl和@nic__carter的工作。",
+      "retweeted_status_full_text": "全球最大的托管银行BNY Mellon刚刚在其最新的#比特币研究报告中引用了@100trillionUSD、@hasufl和@nic__carter的工作成果https://t.co/FrvByStES7。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @DocumentingBTC：全球最大的託管銀行BNY Mellon剛剛在報告中引用了@100trillionUSD、@hasufl和@nic__carter的工作。",
+      "retweeted_status_full_text": "全球最大的託管銀行BNY Mellon剛剛在其最新的#比特幣研究報告中引用了@100trillionUSD、@hasufl和@nic__carter的工作成果https://t.co/FrvByStES7。"
+    }
+  ]
 }
