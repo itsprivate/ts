@@ -63,5 +63,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-29T07:05:08Z"
+  "original_createdAt": "2021-03-29T07:05:08Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "一个简单的网络应用，程序化地生成随机的MIDI旋律，你可以在自己的作品中免费使用。",
+      "tagline": "随机生成的MIDI旋律，您可以免费使用。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個簡單的網絡應用，程序化地生成隨機的MIDI旋律，你可以在自己的作品中免費使用。",
+      "tagline": "隨機生成的MIDI旋律，您可以免費使用。"
+    }
+  ]
 }

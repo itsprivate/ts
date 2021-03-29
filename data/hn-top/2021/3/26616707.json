@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-03-29T01:21:00.000Z",
-  "image": "https://php.net/images/logos/php-logo.svg"
+  "image": "https://php.net/images/logos/php-logo.svg",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "PHP的Git服务器被入侵，转移到GitHub上。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "PHP的Git服務器被入侵，轉移到GitHub上。"
+    }
+  ]
 }
