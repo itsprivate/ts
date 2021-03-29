@@ -91,5 +91,15 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Sun Mar 28 21:43:17 +0000 2021"
+  "original_created_at": "Sun Mar 28 21:43:17 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "以前有一个电视频道 它的唯一目的就是播放其他所有频道的节目。\n\n仍然没有飞车，但我们已经走了很长的路。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "以前有一個電視頻道 它的唯一目的就是播放其他所有頻道的節目。\n\n仍然沒有飛車，但我們已經走了很長的路。"
+    }
+  ]
 }
