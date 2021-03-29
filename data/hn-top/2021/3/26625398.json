@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-03-29T17:38:25.000Z",
-  "image": "https://hpyproject.org/images/hpy-logo.svg"
+  "image": "https://hpyproject.org/images/hpy-logo.svg",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "你好，HPy"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你好，HPy"
+    }
+  ]
 }
