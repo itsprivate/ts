@@ -73,5 +73,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-29T07:00:00Z"
+  "original_createdAt": "2021-03-29T07:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Shuffle是一款针对尾风CSS、Bootstrap、Bulma和Material-UI的在线编辑器。今天，我们推出了我们的市场和两个新的UI库为尾风！https://shuffle.dev/marketplace。",
+      "tagline": "为繁忙的前端开发者提供一个市场"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Shuffle是一款針對尾風CSS、Bootstrap、Bulma和Material-UI的在線編輯器。今天，我們推出了我們的市場和兩個新的UI庫爲尾風！https://shuffle.dev/marketplace。",
+      "tagline": "爲繁忙的前端開發者提供一個市場"
+    }
+  ]
 }
