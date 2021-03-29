@@ -53,5 +53,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-28T15:57:52Z"
+  "original_createdAt": "2021-03-28T15:57:52Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "一个周末的小项目，可视化的Ever Given货船堵塞苏伊士运河的估计成本。有一个愚蠢的功能，你可以猜测什么时候堵塞会结束。",
+      "tagline": "看看要花多少钱&猜猜看什么时候堵完了"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個週末的小項目，可視化的Ever Given貨船堵塞蘇伊士運河的估計成本。有一個愚蠢的功能，你可以猜測什麼時候堵塞會結束。",
+      "tagline": "看看要花多少錢&猜猜看什麼時候堵完了"
+    }
+  ]
 }
