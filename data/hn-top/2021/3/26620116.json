@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-03-29T11:31:08.000Z",
-  "image": "https://deno.com/denoland_inc/cover.jpg"
+  "image": "https://deno.com/denoland_inc/cover.jpg",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "德诺公司"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "德諾公司"
+    }
+  ]
 }
