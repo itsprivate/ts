@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-03-29T16:35:52.000Z",
-  "image": "https://numi.app/images/demo.png"
+  "image": "https://numi.app/images/demo.png",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "Numi。美丽的计算器应用程序的Mac"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Numi。美麗的計算器應用程序的Mac"
+    }
+  ]
 }
