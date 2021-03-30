@@ -101,5 +101,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1617041921,
-  "the_new_excerpt": "Which ones have you seen and which ones did you enjoy the most?"
+  "the_new_excerpt": "Which ones have you seen and which ones did you enjoy the most?",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你看过哪些，最喜欢哪些？",
+      "title": "你最喜欢吉卜力工作室/宫崎骏的哪部电影？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你看過哪些，最喜歡哪些？",
+      "title": "你最喜歡吉卜力工作室/宮崎駿的哪部電影？"
+    }
+  ]
 }
