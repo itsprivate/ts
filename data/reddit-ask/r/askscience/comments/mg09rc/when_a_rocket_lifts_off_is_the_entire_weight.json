@@ -102,5 +102,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1617053912,
-  "the_new_excerpt": "If so, what specific part of the nozzle(s) bear the weight? How big is this\nconnection compared to the bell of the nozzle? And due to acceleration, do\nG-forces cause the weight to be greater than the rocket weighs at standstill?"
+  "the_new_excerpt": "If so, what specific part of the nozzle(s) bear the weight? How big is this\nconnection compared to the bell of the nozzle? And due to acceleration, do\nG-forces cause the weight to be greater than the rocket weighs at standstill?",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "如果是，请问喷嘴的哪个具体部位承受重量？这个有多大？\n与喷嘴的钟声相比，连接？而由于加速度的原因，是否\nG-力导致的重量比火箭静止时的重量大？",
+      "title": "火箭升空时，全部重量是否由喷管组件承担？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "如果是，請問噴嘴的哪個具體部位承受重量？這個有多大？\n與噴嘴的鐘聲相比，連接？而由於加速度的原因，是否\nG-力導致的重量比火箭靜止時的重量大？",
+      "title": "火箭升空時，全部重量是否由噴管組件承擔？"
+    }
+  ]
 }
