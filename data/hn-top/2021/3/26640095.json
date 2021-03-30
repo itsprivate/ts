@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-03-30T20:35:46.000Z",
-  "image": "https://cdn.confluent.io/wp-content/uploads/seo-logo-meadow.png"
+  "image": "https://cdn.confluent.io/wp-content/uploads/seo-logo-meadow.png",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "没有ZooKeeper的Kafka"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "沒有ZooKeeper的Kafka"
+    }
+  ]
 }
