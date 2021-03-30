@@ -83,5 +83,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-29T09:00:00Z"
+  "original_createdAt": "2021-03-29T09:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "随时随地在线接受支付，无需编码。PriceBlocs通过我们超低摩擦的支付链接帮助您在任何渠道完成更多的销售。只需点击几下就能接受Apple Pay和Google Pay。",
+      "tagline": "只需一个链接就能在线接受付款"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "隨時隨地在線接受支付，無需編碼。PriceBlocs通過我們超低摩擦的支付鏈接幫助您在任何渠道完成更多的銷售。只需點擊幾下就能接受Apple Pay和Google Pay。",
+      "tagline": "只需一個鏈接就能在線接受付款"
+    }
+  ]
 }
