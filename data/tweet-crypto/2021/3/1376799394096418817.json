@@ -209,5 +209,17 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Tue Mar 30 07:32:09 +0000 2021"
+  "original_created_at": "Tue Mar 30 07:32:09 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @BTC_Archive: 我们在批准#比特币ETF方面已经逾期了.  \n- 美国证券交易委员会委员，Hester Peirce",
+      "retweeted_status_full_text": "我们在批准#比特币ETF上已经逾期了。 \n- 美国证券交易委员会委员，Hester Peirce"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @BTC_Archive: 我們在批准#比特幣ETF方面已經逾期了.  \n- 美國證券交易委員會委員，Hester Peirce",
+      "retweeted_status_full_text": "我們在批准#比特幣ETF上已經逾期了。 \n- 美國證券交易委員會委員，Hester Peirce"
+    }
+  ]
 }
