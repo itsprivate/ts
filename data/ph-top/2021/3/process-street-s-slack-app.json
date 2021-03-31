@@ -88,5 +88,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-30T18:34:17Z"
+  "original_createdAt": "2021-03-30T18:34:17Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "我们的新 Slack App。将Process Street引入Slack，在一个地方管理和自动化您的所有工作流程。只需轻点几下即可处理任务、表格和审批，无需离开Slack。流程街让您团队的经常性工作变得有趣、快速和无懈可击。",
+      "tagline": "在一个地方管理和自动化您的重复性工作。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們的新 Slack App。將Process Street引入Slack，在一個地方管理和自動化您的所有工作流程。只需輕點幾下即可處理任務、表格和審批，無需離開Slack。流程街讓您團隊的經常性工作變得有趣、快速和無懈可擊。",
+      "tagline": "在一個地方管理和自動化您的重複性工作。"
+    }
+  ]
 }
