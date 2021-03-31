@@ -360,5 +360,17 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Wed Mar 31 12:46:29 +0000 2021"
+  "original_created_at": "Wed Mar 31 12:46:29 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @SquawkCNBC: 爆料：$GS将开始向其私人财富管理公司提供#比特币和其他数字资产相关投资...",
+      "retweeted_status_full_text": "爆料：据@hugh_son报道，$GS将在第二季度开始向其私人财富管理客户提供#比特币和其他数字资产相关投资：https://t.co/kgStpd9lFm。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @SquawkCNBC: 爆料：$GS將開始向其私人財富管理公司提供#比特幣和其他數字資產相關投資...",
+      "retweeted_status_full_text": "爆料：據@hugh_son報道，$GS將在第二季度開始向其私人財富管理客戶提供#比特幣和其他數字資產相關投資：https://t.co/kgStpd9lFm。"
+    }
+  ]
 }
