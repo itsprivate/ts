@@ -96,5 +96,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-31T07:52:19Z"
+  "original_createdAt": "2021-03-31T07:52:19Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "黑曜石是一款为安全、隐私、可用性和跨设备无缝同步而设计的OTP认证器。",
+      "tagline": "iOS和macOS的OTP验证器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "黑曜石是一款爲安全、隱私、可用性和跨設備無縫同步而設計的OTP認證器。",
+      "tagline": "iOS和macOS的OTP驗證器"
+    }
+  ]
 }
