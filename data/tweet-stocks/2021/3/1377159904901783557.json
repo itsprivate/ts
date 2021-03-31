@@ -207,5 +207,17 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Wed Mar 31 07:24:42 +0000 2021"
+  "original_created_at": "Wed Mar 31 07:24:42 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @sarahkliff: NEW:\n\n纽约市的一家精英医院一直在收取3000美元以上的COVID测试费用，在它通过急诊室运行的网站... ...",
+      "retweeted_status_full_text": "新：\n\n纽约市一家精英医院通过急诊室进行COVID测试，收费3000美元以上。\n\n一个家庭最终被收取了3.9万美元的12项测试费用，这些测试都是为了重返工作和学校而进行的。\n\nhttps://t.co/Kq0RILO3Mq"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @sarahkliff: NEW:\n\n紐約市的一家精英醫院一直在收取3000美元以上的COVID測試費用，在它通過急診室運行的網站... ...",
+      "retweeted_status_full_text": "新：\n\n紐約市一家精英醫院通過急診室進行COVID測試，收費3000美元以上。\n\n一個家庭最終被收取了3.9萬美元的12項測試費用，這些測試都是爲了重返工作和學校而進行的。\n\nhttps://t.co/Kq0RILO3Mq"
+    }
+  ]
 }
