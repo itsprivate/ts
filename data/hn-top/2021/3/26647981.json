@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-03-31T14:46:03.000Z",
-  "image": "https://www.gstatic.com/images/branding/lockups/2x/lockup_git_color_108x24dp.png"
+  "image": "https://www.gstatic.com/images/branding/lockups/2x/lockup_git_color_108x24dp.png",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "安卓新的蓝牙协议栈重写（Gabeldorsh）是用Rust写的"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "安卓新的藍牙協議棧重寫（Gabeldorsh）是用Rust寫的"
+    }
+  ]
 }
