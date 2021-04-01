@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-04-01T13:21:35.000Z",
-  "image": "https://www.openttd.org/static/img/layout/openttd-logo.png"
+  "image": "https://www.openttd.org/static/img/layout/openttd-logo.png",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "OpenTTD 1.11.0"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "OpenTTD 1.11.0"
+    }
+  ]
 }
