@@ -82,5 +82,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-03-31T16:28:42Z"
+  "original_createdAt": "2021-03-31T16:28:42Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Supabase是一个开源的Firebase替代品。今天，我们推出了我们最受欢迎的功能之一--存储。您可以通过编程或通过仪表板上传文件，并在您的Supabase应用程序中提供它们。",
+      "tagline": "存储和提供任何类型的数字内容"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Supabase是一個開源的Firebase替代品。今天，我們推出了我們最受歡迎的功能之一--存儲。您可以通過編程或通過儀表板上傳文件，並在您的Supabase應用程序中提供它們。",
+      "tagline": "存儲和提供任何類型的數字內容"
+    }
+  ]
 }
