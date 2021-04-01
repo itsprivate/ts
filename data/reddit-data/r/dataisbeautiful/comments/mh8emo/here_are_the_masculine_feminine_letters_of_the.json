@@ -181,5 +181,15 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1617204032,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "根据调查结果，以下是字母表中的阳性和阴性字母。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "根據調查結果，以下是字母表中的陽性和陰性字母。"
+    }
+  ]
 }
