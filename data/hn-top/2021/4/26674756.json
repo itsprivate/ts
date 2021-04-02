@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-04-02T19:02:37.000Z",
-  "image": "https://goteleport.com/gravitational/images/backgrounds/og-image.png"
+  "image": "https://goteleport.com/gravitational/images/backgrounds/og-image.png",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "确保Postgres数据库的安全"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "確保Postgres數據庫的安全"
+    }
+  ]
 }
