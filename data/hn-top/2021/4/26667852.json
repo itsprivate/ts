@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-04-02T00:13:59.000Z",
-  "image": "http://tom7.org/lowercase/lowercase1080.png"
+  "image": "http://tom7.org/lowercase/lowercase1080.png",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "大写字母和小写字母。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "大寫字母和小寫字母。"
+    }
+  ]
 }
