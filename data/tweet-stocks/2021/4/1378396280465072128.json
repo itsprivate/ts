@@ -182,5 +182,17 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Sat Apr 03 17:17:37 +0000 2021"
+  "original_created_at": "Sat Apr 03 17:17:37 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @Fxhedgers: ARCHEGOS CAPITAL在5天内使用500%的杠杆损失了1100亿美元-FT",
+      "retweeted_status_full_text": "ARCHEGOS CAPITAL用500%杠杆5天损失1100亿美元-FT"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @Fxhedgers: ARCHEGOS CAPITAL在5天內使用500%的槓桿損失了1100億美元-FT",
+      "retweeted_status_full_text": "ARCHEGOS CAPITAL用500%槓桿5天損失1100億美元-FT"
+    }
+  ]
 }
