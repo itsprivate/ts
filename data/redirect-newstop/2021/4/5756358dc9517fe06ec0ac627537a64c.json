@@ -14,5 +14,15 @@
   "tags": [
     "The Wall Street Journal"
   ],
-  "image": "https://images.wsj.net/im-319804/social"
+  "image": "https://images.wsj.net/im-319804/social",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "台湾火车出轨，造成50多人死亡。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "臺灣火車出軌，造成50多人死亡。"
+    }
+  ]
 }
