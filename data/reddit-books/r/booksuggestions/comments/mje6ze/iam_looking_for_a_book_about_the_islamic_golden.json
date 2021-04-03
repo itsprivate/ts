@@ -103,5 +103,17 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1617474373,
-  "the_new_excerpt": "Sorry for my english i am not a native speaker"
+  "the_new_excerpt": "Sorry for my english i am not a native speaker",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "对不起，我的英语不是很好，我不是母语。",
+      "title": "我在找一本关于 \"伊斯兰黄金时代 \"的书，如果有人能帮我，那就太好了。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "對不起，我的英語不是很好，我不是母語。",
+      "title": "我在找一本關於 \"伊斯蘭黃金時代 \"的書，如果有人能幫我，那就太好了。"
+    }
+  ]
 }
