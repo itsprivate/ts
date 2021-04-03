@@ -83,5 +83,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-03T07:15:26Z"
+  "original_createdAt": "2021-04-03T07:15:26Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Backprop是一个API/平台，它使利用机器学习增强软件变得简单。凭借强大的开箱即用的模型、简单的自定义上传、可扩展的基础设施和经济实惠的定价方案，Backprop拥有你所需要的一切。",
+      "tagline": "为每个开发者提供无服务器的机器学习API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Backprop是一個API/平臺，它使利用機器學習增強軟件變得簡單。憑藉強大的開箱即用的模型、簡單的自定義上傳、可擴展的基礎設施和經濟實惠的定價方案，Backprop擁有你所需要的一切。",
+      "tagline": "爲每個開發者提供無服務器的機器學習API"
+    }
+  ]
 }
