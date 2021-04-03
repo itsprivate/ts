@@ -77,5 +77,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-03T07:01:00Z"
+  "original_createdAt": "2021-04-03T07:01:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "JustStream可以将媒体流和屏幕广播到电视上，同时保持一个紧凑的形式，低CPU使用。以任何格式、任何分辨率（包括超高清）广播您的媒体，最重要的是，不需要任何电缆。",
+      "tagline": "Mac的屏幕镜像和流媒体软件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "JustStream可以將媒體流和屏幕廣播到電視上，同時保持一個緊湊的形式，低CPU使用。以任何格式、任何分辨率（包括超高清）廣播您的媒體，最重要的是，不需要任何電纜。",
+      "tagline": "Mac的屏幕鏡像和流媒體軟件"
+    }
+  ]
 }
