@@ -53,5 +53,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-04T07:16:00Z"
+  "original_createdAt": "2021-04-04T07:16:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Lip Gloss 是一个用于设计终端用户界面的 Go 库。它采用了一种表现性、声明性的方法来进行终端渲染。熟悉CSS的用户会对Lip Gloss有宾至如归的感觉。",
+      "tagline": "设计终端用户界面"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Lip Gloss 是一個用於設計終端用戶界面的 Go 庫。它採用了一種表現性、聲明性的方法來進行終端渲染。熟悉CSS的用戶會對Lip Gloss有賓至如歸的感覺。",
+      "tagline": "設計終端用戶界面"
+    }
+  ]
 }
