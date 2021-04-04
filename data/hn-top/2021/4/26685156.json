@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-04-03T22:05:09.000Z",
-  "image": "https://www.gaia-gis.it/fossil/libspatialite/logo"
+  "image": "https://www.gaia-gis.it/fossil/libspatialite/logo",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "SpatiaLite。SQLite的空间扩展"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "SpatiaLite。SQLite的空間擴展"
+    }
+  ]
 }
