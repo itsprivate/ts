@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-04-04T04:39:19.000Z",
-  "image": "https://postgis.net/images/logo-osgeo.svg"
+  "image": "https://postgis.net/images/logo-osgeo.svg",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "PostGIS - PostgreSQL的空间和地理对象。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "PostGIS - PostgreSQL的空間和地理對象。"
+    }
+  ]
 }
