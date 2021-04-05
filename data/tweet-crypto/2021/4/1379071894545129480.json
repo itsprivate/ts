@@ -520,5 +520,17 @@
   "favorited": false,
   "retweeted": false,
   "lang": "und",
-  "original_created_at": "Mon Apr 05 14:02:16 +0000 2021"
+  "original_created_at": "Mon Apr 05 14:02:16 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT@SnoopDogg：🙏🏿。",
+      "retweeted_status_full_text": "🙏🏿 https://t.co/EbhazjqFpJ"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT@SnoopDogg：🙏🏿。",
+      "retweeted_status_full_text": "🙏🏿 https://t.co/EbhazjqFpJ"
+    }
+  ]
 }
