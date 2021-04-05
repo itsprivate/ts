@@ -112,5 +112,15 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Sun Apr 04 11:39:03 +0000 2021"
+  "original_created_at": "Sun Apr 04 11:39:03 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "这场大流行表明，基因测序技术可以用来监测其他病原体，https://t.co/vBuAAyCMq1。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "這場大流行表明，基因測序技術可以用來監測其他病原體，https://t.co/vBuAAyCMq1。"
+    }
+  ]
 }
