@@ -261,9 +261,9 @@ module.exports = /******/ (() => {
             const locale = locales[j];
 
             // skip for ja-JA before 202104
-            const filenameArr = file.split("_--_");
+            const filenameArr = filename.split("_--_");
             if (filenameArr.length < 4) {
-              throw new Error(`file name invalid: ${file}`);
+              throw new Error(`file name invalid: ${filename}`);
             }
             console.log("filenameArr", filenameArr);
 
