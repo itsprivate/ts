@@ -49,8 +49,12 @@ async function main() {
       if (filenameArr.length < 4) {
         throw new Error(`file name invalid: ${file}`);
       }
+      console.log("filenameArr", filenameArr);
+
       const yearField = filenameArr[3];
       const monthField = filenameArr[4];
+      console.log("monthField", monthField);
+
       const year = Number(yearField);
       const month = Number(monthField);
       console.log("file", file);
