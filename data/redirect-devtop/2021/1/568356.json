@@ -44,5 +44,17 @@
   "original_created_at": "2021-01-11T05:24:55Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--B8sTzGjW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/jldvigb958mnww2rvcvx.jpeg",
   "author": "Aemie Jariwala",
-  "author_url": "https://dev.to/aemiej"
+  "author_url": "https://dev.to/aemiej",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Nginx是一个网络服务器，被用作反向代理、负载平衡器、邮件代理、HTTP缓存和...",
+      "title": "我希望多年前就知道的Nginx概念"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Nginx是一個網絡服務器，被用作反向代理、負載平衡器、郵件代理、HTTP緩存和...",
+      "title": "我希望多年前就知道的Nginx概念"
+    }
+  ]
 }
