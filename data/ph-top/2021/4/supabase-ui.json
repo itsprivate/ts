@@ -63,5 +63,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-05T10:53:53Z"
+  "original_createdAt": "2021-04-05T10:53:53Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Supabase UI是一个用React和TailwindCSS构建的UI组件的集合，Supabase用它来构建我们的内部应用。",
+      "tagline": "企业仪表盘的React组件库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Supabase UI是一個用React和TailwindCSS構建的UI組件的集合，Supabase用它來構建我們的內部應用。",
+      "tagline": "企業儀表盤的React組件庫"
+    }
+  ]
 }
