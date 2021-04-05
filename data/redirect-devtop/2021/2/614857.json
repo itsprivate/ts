@@ -44,5 +44,17 @@
   "original_created_at": "2021-02-22T17:22:02Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XwaDOI1k--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wzc7f6iu3kemoucu2aia.jpeg",
   "author": "Tyler Hawkins",
-  "author_url": "https://dev.to/thawkin3"
+  "author_url": "https://dev.to/thawkin3",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "干净的代码不仅仅是工作代码。干净的代码易于阅读，简单易懂，而且整洁。",
+      "title": "React Clean Code - 编写更好更干净的代码的简单方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "乾淨的代碼不僅僅是工作代碼。乾淨的代碼易於閱讀，簡單易懂，而且整潔。",
+      "title": "React Clean Code - 編寫更好更乾淨的代碼的簡單方法"
+    }
+  ]
 }
