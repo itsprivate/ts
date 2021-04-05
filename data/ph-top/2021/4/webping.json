@@ -48,5 +48,17 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-04T12:00:00Z"
+  "original_createdAt": "2021-04-04T12:00:00Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "webping.cloud是查找您与所有流行的云数据中心之间延迟的最简单方法。所有的内容都在一个页面上，同时进行检查。",
+      "tagline": "多云延迟测试的单页"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "webping.cloud是查找您與所有流行的雲數據中心之間延遲的最簡單方法。所有的內容都在一個頁面上，同時進行檢查。",
+      "tagline": "多雲延遲測試的單頁"
+    }
+  ]
 }
