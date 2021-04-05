@@ -53,6 +53,11 @@ async function main() {
       const monthField = filenameArr[4];
       const year = Number(yearField);
       const month = Number(monthField);
+      console.log("file", file);
+      console.log("year", year);
+      console.log("month", month);
+      console.log("locale", locale);
+
       if (locale === "ja-JA" && (year < 2021 || (year === 2021 && month < 4))) {
         continue;
       }
