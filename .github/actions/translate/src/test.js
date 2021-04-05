@@ -12,7 +12,7 @@ function translateTest() {
       "TIL that In 2018, A hacker broke into people’s routers (100,000 of them) and patched their vulnerabilities up so that they couldn’t be abused by other hackers.",
     provider: "deepl",
     source: "en",
-    target: "zh",
+    target: "ja-JA",
   })
     .catch((e) => {
       console.error("e", e);

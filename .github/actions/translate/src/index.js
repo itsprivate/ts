@@ -31,7 +31,7 @@ async function main() {
     tencent: client,
     deepl: deeplClient,
   };
-  const locales = ["zh"];
+  const locales = ["zh", "ja-JA"];
   const allFiles = await getFiles("./i18n/post-resource/en");
   // console.log("allFiles", allFiles);
 
@@ -43,6 +43,19 @@ async function main() {
     let zhSourceObj = {};
     for (let j = 0; j < locales.length; j++) {
       const locale = locales[j];
+
+      // skip for ja-JA before 202104
+      const filenameArr = file.split("_--_");
+      if (filenameArr.length < 4) {
+        throw new Error(`file name invalid: ${file}`);
+      }
+      const yearField = filenameArr[3];
+      const monthField = filenameArr[4];
+      const year = Number(yearField);
+      const month = Number(monthField);
+      if (locale === "ja-JA" && (year < 2021 || (year === 2021 && month < 4))) {
+        continue;
+      }
       const targetFilePath = `i18n/post-resource/${locale}/${filename}.json`;
 
       const targetAbsoluteFilePath = path.resolve(
