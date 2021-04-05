@@ -37,5 +37,15 @@
     }
   },
   "original_created_at": "2021-04-04T18:53:07.000Z",
-  "image": "https://haveibeenpwned.com/Content/Images/SocialLogo.png"
+  "image": "https://haveibeenpwned.com/Content/Images/SocialLogo.png",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "HaveIBeenPwned增加了昨天的Facebook违规事件。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "HaveIBeenPwned增加了昨天的Facebook違規事件。"
+    }
+  ]
 }
