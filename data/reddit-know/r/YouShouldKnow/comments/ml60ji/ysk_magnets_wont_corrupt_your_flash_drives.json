@@ -102,5 +102,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1617693433,
-  "the_new_excerpt": "Why YSK: People old enough to have ever held a floppy disk knows that magnets\ncorrupt the data saved on a floppy disk and makes the disk practically useless.\nFloppy disks are magnetic storage mediums and contact with magnets currupts data\nand 'firmware'. Flashdrives has tiny transistors that uses…"
+  "the_new_excerpt": "Why YSK: People old enough to have ever held a floppy disk knows that magnets\ncorrupt the data saved on a floppy disk and makes the disk practically useless.\nFloppy disks are magnetic storage mediums and contact with magnets currupts data\nand 'firmware'. Flashdrives has tiny transistors that uses…",
+  "localize": [
+    {
+      "locale": "ja-JA",
+      "the_new_excerpt": "なぜYSKなのか：フロッピーディスクを持ったことのある人なら、磁石がフロッピーディスクに保存されているデータを破壊してしまうことを知っているでしょう。\n磁石はフロッピーディスクに保存されているデータを破壊し、ディスクを実質的に使い物にならなくします。\nフロッピーディスクは磁気記録媒体であり、磁石に触れるとデータやファームウェアが破損します。\nや「ファームウェア」が壊れる。フロッピーディスクには、小さなトランジスタが搭載されていて、そのトランジスタを利用して...",
+      "title": "YSKマグネットは、フラッシュドライブを破損させません。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "Why YSK: 只要是拿过软盘的人都知道磁铁的作用。\n破坏软盘上保存的数据，使软盘几乎失去作用。\n软盘是磁性存储介质，与磁铁接触会破坏数据。\n和 \"固件\"。闪存盘有微小的晶体管，使用...",
+      "title": "YSK磁铁不会损坏您的闪存盘。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "Why YSK: 只要是拿過軟盤的人都知道磁鐵的作用。\n破壞軟盤上保存的數據，使軟盤幾乎失去作用。\n軟盤是磁性存儲介質，與磁鐵接觸會破壞數據。\n和 \"固件\"。閃存盤有微小的晶體管，使用...",
+      "title": "YSK磁鐵不會損壞您的閃存盤。"
+    }
+  ]
 }
