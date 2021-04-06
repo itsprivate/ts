@@ -104,5 +104,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1617705827,
-  "the_new_excerpt": "Why YSK: Terms of Service; Didn't Read [https://tosdr.org/index.html] (ToS;DR)\nis an open-source [https://github.com/tosdr/browser-extensions] internet browser\nadd-on that goes through the Terms of Service (ToS) of a website whenever you\nenter one. Each website (provided it's been reviewed) is…"
+  "the_new_excerpt": "Why YSK: Terms of Service; Didn't Read [https://tosdr.org/index.html] (ToS;DR)\nis an open-source [https://github.com/tosdr/browser-extensions] internet browser\nadd-on that goes through the Terms of Service (ToS) of a website whenever you\nenter one. Each website (provided it's been reviewed) is…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "Why YSK: Terms of Service; Didn't Read [https://tosdr.org/index.html] (ToS;DR)\nは、オープンソース [https://github.com/tosdr/browser-extensions] のインターネットブラウザ\nインターネットブラウザのアドオンで、ウェブサイトの利用規約（ToS）を入力するたびに\nを表示するオープンソースのインターネットブラウザアドオンです。各ウェブサイト（審査を受けたもの）は...",
+      "title": "YSKの利用規約について、読んでいません。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么是YSK：服务条款；没看 [https://tosdr.org/index.html] (ToS;DR)\n是一个开源的[https://github.com/tosdr/browser-extensions]互联网浏览器。\n附加组件，每当您在网站上进行服务条款（ToS）时，您就会看到它。\n进入一个。个网站（前提是经过审核）都是...",
+      "title": "YSK关于服务条款；没有读到。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼是YSK：服務條款；沒看 [https://tosdr.org/index.html] (ToS;DR)\n是一個開源的[https://github.com/tosdr/browser-extensions]互聯網瀏覽器。\n附加組件，每當您在網站上進行服務條款（ToS）時，您就會看到它。\n進入一個。個網站（前提是經過審覈）都是...",
+      "title": "YSK關於服務條款；沒有讀到。"
+    }
+  ]
 }

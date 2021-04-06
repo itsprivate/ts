@@ -153,5 +153,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1617709469,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] Dataviz rule #0 illustrated: プロット内のテキストは水平にすること"
+    },
+    {
+      "locale": "zh",
+      "title": "[主控]Dataviz规则#0说明：绘图中的文字应该是水平的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[主控]Dataviz規則#0說明：繪圖中的文字應該是水平的。"
+    }
+  ]
 }
