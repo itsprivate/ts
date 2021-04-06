@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-06T14:36:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cYS-YCW5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://blog.reedbarger.com/content/images/2021/04/7-ways-to-write-clean-react-code.png",
   "author": "Reed Barger",
-  "author_url": "https://dev.to/reedbarger"
+  "author_url": "https://dev.to/reedbarger",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事はReedBarger.comに掲載されたものです。 Reactの開発者であれば、誰もがよりクリーンなコードを書きたいと思うでしょう。",
+      "title": "よりクリーンなReactコードを書くための7つの方法"
+    },
+    {
+      "locale": "zh",
+      "description": "📣 这篇文章最初出现在 ReedBarger.com 上。 作为React开发者，我们都希望写出更干净的...",
+      "title": "今天写更干净的React代码的7种方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "📣 這篇文章最初出現在 ReedBarger.com 上。 作爲React開發者，我們都希望寫出更乾淨的...",
+      "title": "今天寫更乾淨的React代碼的7種方法"
+    }
+  ]
 }
