@@ -276,7 +276,7 @@ module.exports = /******/ (() => {
             const year = Number(yearField);
             const month = Number(monthField);
             //!(year === 2021 && month === 3)
-            if (locale !== "ja" || dataname !== "redirect-devtop") {
+            if (locale !== "ja" || dataname !== "tweet-quora") {
               continue;
             }
             const targetFilePath = `i18n/post-resource/${locale}/${filename}.json`;
