@@ -96,5 +96,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-06T07:04:04Z"
+  "original_createdAt": "2021-04-06T07:04:04Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Kaboomは、楽しいJavaScriptのゲームプログラミングライブラリ/環境です。 https://replit.com/kaboom https://kaboomjs.com/ https://github.com/replit/kaboom",
+      "tagline": "楽しいJavaScriptのゲームプログラミングライブラリ"
+    },
+    {
+      "locale": "zh",
+      "description": "Kaboom是一个有趣的JavaScript游戏编程库/环境。https://replit.com/kaboom https://replit.com/kaboom https://kaboomjs.com/ https://github.com/replit/kaboom。",
+      "tagline": "一个有趣的JavaScript游戏编程库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Kaboom是一個有趣的JavaScript遊戲編程庫/環境。https://replit.com/kaboom https://replit.com/kaboom https://kaboomjs.com/ https://github.com/replit/kaboom。",
+      "tagline": "一個有趣的JavaScript遊戲編程庫"
+    }
+  ]
 }
