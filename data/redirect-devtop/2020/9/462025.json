@@ -44,5 +44,17 @@
   "original_created_at": "2020-09-21T16:24:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rW47Q0Av--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/02567mpn1awfo5z99g8z.jpg",
   "author": "Ahmed Atef",
-  "author_url": "https://dev.to/ahmedatefae"
+  "author_url": "https://dev.to/ahmedatefae",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "什么是网络安全？  网络并不是每个用户都安全的，每天我们都会听到网站因为...",
+      "title": "网络安全知识你必须了解它（第一部分：HTTPS、TLS、SSL、CORS、CSP"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是網絡安全？  網絡並不是每個用戶都安全的，每天我們都會聽到網站因爲...",
+      "title": "網絡安全知識你必須瞭解它（第一部分：HTTPS、TLS、SSL、CORS、CSP"
+    }
+  ]
 }

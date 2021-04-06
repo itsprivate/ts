@@ -42,5 +42,17 @@
   "original_created_at": "2020-04-23T03:46:25Z",
   "image": "https://dev.to/social_previews/article/317209.png",
   "author": "Tomas Pustelnik",
-  "author_url": "https://dev.to/pustelto"
+  "author_url": "https://dev.to/pustelto",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "本文首发于我的个人博客。 前端开发是一个相当复杂的门类，...",
+      "title": "我用于前端开发的工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "本文首發於我的個人博客。 前端開發是一個相當複雜的門類，...",
+      "title": "我用於前端開發的工具"
+    }
+  ]
 }

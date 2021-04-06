@@ -42,5 +42,17 @@
   "original_created_at": "2020-10-28T20:01:09Z",
   "image": "https://dev.to/social_previews/article/500482.png",
   "author": "Sławek Kołodziej",
-  "author_url": "https://dev.to/slawomirkolodziej"
+  "author_url": "https://dev.to/slawomirkolodziej",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "在寻找第一份工作时，作为一个初级前端开发，它是非常困难的，以显示你的经验，一个...",
+      "title": "作为初级前端开发人员，你应该构建5个Javascript项目。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在尋找第一份工作時，作爲一個初級前端開發，它是非常困難的，以顯示你的經驗，一個...",
+      "title": "作爲初級前端開發人員，你應該構建5個Javascript項目。"
+    }
+  ]
 }

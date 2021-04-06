@@ -44,5 +44,17 @@
   "original_created_at": "2020-07-27T10:13:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--U8a7ZM_i--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/b78q19uf8m586phyqbs3.png",
   "author": "Chrissie",
-  "author_url": "https://dev.to/chrissiemhrk"
+  "author_url": "https://dev.to/chrissiemhrk",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "提交信息是对你在提交前添加的文件所做的修改的简短描述。",
+      "title": "如何写好提交信息"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "提交信息是對你在提交前添加的文件所做的修改的簡短描述。",
+      "title": "如何寫好提交信息"
+    }
+  ]
 }

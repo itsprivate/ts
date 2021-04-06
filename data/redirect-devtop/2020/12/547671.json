@@ -44,5 +44,17 @@
   "original_created_at": "2020-12-20T12:10:01Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OKLYwoNF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/z3csrm3kwt0acsx9thts.jpeg",
   "author": "Zhang Zeyu",
-  "author_url": "https://dev.to/zeyu2001"
+  "author_url": "https://dev.to/zeyu2001",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "国际象棋是一个伟大的游戏。如果你擅长的话，那就更好了。遗憾的是，我从未花时间... ...",
+      "title": "用JavaScript构建一个简单的棋牌AI"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "國際象棋是一個偉大的遊戲。如果你擅長的話，那就更好了。遺憾的是，我從未花時間... ...",
+      "title": "用JavaScript構建一個簡單的棋牌AI"
+    }
+  ]
 }

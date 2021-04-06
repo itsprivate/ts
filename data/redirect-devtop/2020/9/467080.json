@@ -44,5 +44,17 @@
   "original_created_at": "2020-09-27T13:57:00Z",
   "image": "https://dev.to/social_previews/article/467080.png",
   "author": "Tomer Raitz",
-  "author_url": "https://dev.to/tomeraitz"
+  "author_url": "https://dev.to/tomeraitz",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "作为我成为一个更好的JavaScript程序员的旅程的一部分，我需要深入研究JavaScript f...",
+      "title": "棘手的JavaScript问题"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "作爲我成爲一個更好的JavaScript程序員的旅程的一部分，我需要深入研究JavaScript f...",
+      "title": "棘手的JavaScript問題"
+    }
+  ]
 }

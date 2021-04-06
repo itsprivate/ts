@@ -42,5 +42,17 @@
   "original_created_at": "2020-06-15T17:43:40Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1dqLNE-w--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/41usiiatufdt7dndomfh.png",
   "author": "Ibrahima Ndaw",
-  "author_url": "https://dev.to/ibrahima92"
+  "author_url": "https://dev.to/ibrahima92",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "TypeScript是一种类型化的语言，它允许你指定变量、函数参数的类型。",
+      "title": "高级TypeScript类型小抄(带例子)"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "TypeScript是一種類型化的語言，它允許你指定變量、函數參數的類型。",
+      "title": "高級TypeScript類型小抄(帶例子)"
+    }
+  ]
 }

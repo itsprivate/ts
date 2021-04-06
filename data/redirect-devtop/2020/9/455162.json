@@ -44,5 +44,17 @@
   "original_created_at": "2020-09-13T20:30:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--96_Dldlt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/qo6msqyoi9rbji7pacov.jpg",
   "author": "Nader Dabit",
-  "author_url": "https://dev.to/dabit3"
+  "author_url": "https://dev.to/dabit3",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "使用AWS进行Next.js认证的完整指南--客户端、服务器和API路线。",
+      "title": "Next.js身份验证完整指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用AWS進行Next.js認證的完整指南--客戶端、服務器和API路線。",
+      "title": "Next.js身份驗證完整指南"
+    }
+  ]
 }

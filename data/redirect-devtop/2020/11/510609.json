@@ -42,5 +42,17 @@
   "original_created_at": "2020-11-09T20:37:41Z",
   "image": "https://dev.to/social_previews/article/510609.png",
   "author": "Anton Gunnarsson",
-  "author_url": "https://dev.to/awnton"
+  "author_url": "https://dev.to/awnton",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "在你的React组件中要避免的代码气味",
+      "title": "React组件中的7种代码气味"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在你的React組件中要避免的代碼氣味",
+      "title": "React組件中的7種代碼氣味"
+    }
+  ]
 }

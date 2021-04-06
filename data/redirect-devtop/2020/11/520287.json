@@ -44,5 +44,17 @@
   "original_created_at": "2020-11-20T17:08:03Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--c3ydzxvo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/lr99i70osadesouez86l.png",
   "author": "Killian Frappart",
-  "author_url": "https://dev.to/killianfrappartdev"
+  "author_url": "https://dev.to/killianfrappartdev",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "我已经学习了一年的Web开发，我刚刚为一个客户交付了我的第一个MVP。",
+      "title": "我是如何建立一个真实世界的项目的第一次🌈。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我已經學習了一年的Web開發，我剛剛爲一個客戶交付了我的第一個MVP。",
+      "title": "我是如何建立一個真實世界的項目的第一次🌈。"
+    }
+  ]
 }

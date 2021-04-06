@@ -44,5 +44,17 @@
   "original_created_at": "2020-06-27T02:52:28Z",
   "image": "https://dev.to/social_previews/article/370346.png",
   "author": "Akhil",
-  "author_url": "https://dev.to/akhilpokle"
+  "author_url": "https://dev.to/akhilpokle",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "在chrome上按Ctrl + F打开一个搜索框，用于查找网页、pdf等的文本。这是一个...",
+      "title": "Ctrl + F背后的算法。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在chrome上按Ctrl + F打開一個搜索框，用於查找網頁、pdf等的文本。這是一個...",
+      "title": "Ctrl + F背後的算法。"
+    }
+  ]
 }

@@ -51,5 +51,17 @@
   "original_created_at": "2020-05-06T17:32:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--iNoMHG8O--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/q19vviykh0oi1s5tkbqe.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "关于在DEV上举办的网络黑客马拉松的资助详情。",
+      "title": "在DEV上宣布对网络黑客马拉松的资助。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "關於在DEV上舉辦的網絡黑客馬拉松的資助詳情。",
+      "title": "在DEV上宣佈對網絡黑客馬拉松的資助。"
+    }
+  ]
 }

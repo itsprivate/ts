@@ -44,5 +44,17 @@
   "original_created_at": "2020-11-23T00:08:03Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--x6q6_wdm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/l1fhdoxruuma2ru64rm1.png",
   "author": "Manuel Vila",
-  "author_url": "https://dev.to/mvila"
+  "author_url": "https://dev.to/mvila",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "在构建一个单页应用或移动应用时，我们通常需要实现一个Web A...",
+      "title": "再见，Web APIs"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在構建一個單頁應用或移動應用時，我們通常需要實現一個Web A...",
+      "title": "再見，Web APIs"
+    }
+  ]
 }

@@ -51,5 +51,17 @@
   "original_created_at": "2020-08-30T19:06:45Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BBcZLoZG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/xm0fju6tj2npfbzuw64r.png",
   "author": "Adrian Bece",
-  "author_url": "https://dev.to/adrianbdesigns"
+  "author_url": "https://dev.to/adrianbdesigns",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "在我的上一篇文章中，我已经谈到了我如何通过暗示来提高我个人网站的Lighthouse分数。",
+      "title": "通过消除阻止渲染的CSS和JavaScript来提高网站性能。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在我的上一篇文章中，我已經談到了我如何通過暗示來提高我個人網站的Lighthouse分數。",
+      "title": "通過消除阻止渲染的CSS和JavaScript來提高網站性能。"
+    }
+  ]
 }

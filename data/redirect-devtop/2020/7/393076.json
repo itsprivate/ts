@@ -42,5 +42,17 @@
   "original_created_at": "2020-07-11T16:31:24Z",
   "image": "https://dev.to/social_previews/article/393076.png",
   "author": "Annie Liao",
-  "author_url": "https://dev.to/liaowow"
+  "author_url": "https://dev.to/liaowow",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "在过去的一周里，我有机会浏览了一家公司的编码指南，其中一些我觉得...",
+      "title": "8种SCSS最佳实践要牢记于心"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在過去的一週裏，我有機會瀏覽了一家公司的編碼指南，其中一些我覺得...",
+      "title": "8種SCSS最佳實踐要牢記於心"
+    }
+  ]
 }

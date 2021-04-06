@@ -44,5 +44,17 @@
   "original_created_at": "2020-07-06T01:31:39Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--W5e6NdMl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/gwsyuyg6iydpj5zda04m.png",
   "author": "Gabriel Abud",
-  "author_url": "https://dev.to/g_abud"
+  "author_url": "https://dev.to/g_abud",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Redux是React生态系统中的一项革命性技术。 它使我们能够拥有一个全球性的商店，并在其内部建立起了一个...",
+      "title": "为什么我停止使用Redux"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Redux是React生態系統中的一項革命性技術。 它使我們能夠擁有一個全球性的商店，並在其內部建立起了一個...",
+      "title": "爲什麼我停止使用Redux"
+    }
+  ]
 }

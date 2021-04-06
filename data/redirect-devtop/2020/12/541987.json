@@ -44,5 +44,17 @@
   "original_created_at": "2020-12-14T08:40:12Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Kx86oh0m--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/quws1vwtyw1hstvygcfm.jpg",
   "author": "Simon Holdorf",
-  "author_url": "https://dev.to/simonholdorf"
+  "author_url": "https://dev.to/simonholdorf",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "GitHub是分享各种技术、框架、库和代码的第一平台。",
+      "title": "为所有开发者准备的10个非凡的GitHub Repos。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "GitHub是分享各種技術、框架、庫和代碼的第一平臺。",
+      "title": "爲所有開發者準備的10個非凡的GitHub Repos。"
+    }
+  ]
 }

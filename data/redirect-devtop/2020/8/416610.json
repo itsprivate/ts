@@ -44,5 +44,17 @@
   "original_created_at": "2020-08-03T06:57:04Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pHm_pv7---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/ymwhz84dzmm9oco6mpyu.jpeg",
   "author": "Akhil Arjun",
-  "author_url": "https://dev.to/akhilarjun"
+  "author_url": "https://dev.to/akhilarjun",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "这是一个绝对不费吹灰之力的方法，将已经开发好的网站转换成支持黑暗模式......。",
+      "title": "一行 - 使用CSS的黑暗模式"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是一個絕對不費吹灰之力的方法，將已經開發好的網站轉換成支持黑暗模式......。",
+      "title": "一行 - 使用CSS的黑暗模式"
+    }
+  ]
 }

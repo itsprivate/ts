@@ -44,5 +44,17 @@
   "original_created_at": "2020-05-14T22:36:35Z",
   "image": "https://dev.to/social_previews/article/335173.png",
   "author": "Rich Harris",
-  "author_url": "https://dev.to/richharris"
+  "author_url": "https://dev.to/richharris",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "我希望我的这篇文章能让每个人都恼火：反JavaScript的十字军，只是惊愕于多少... ...",
+      "title": "为现代网络辩护"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我希望我的這篇文章能讓每個人都惱火：反JavaScript的十字軍，只是驚愕於多少... ...",
+      "title": "爲現代網絡辯護"
+    }
+  ]
 }

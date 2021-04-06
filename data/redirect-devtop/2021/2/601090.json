@@ -44,5 +44,17 @@
   "original_created_at": "2021-02-12T03:00:24Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mpULMf86--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/qofa4bh2p6v4z5zv66zc.jpg",
   "author": "Katherine Peterson",
-  "author_url": "https://dev.to/katherinecodes"
+  "author_url": "https://dev.to/katherinecodes",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "VSCode是一款非常棒的代码编辑器，其原因之一是它拥有庞大的扩展库。",
+      "title": "我最喜欢的12个VSCode扩展"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "VSCode是一款非常棒的代碼編輯器，其原因之一是它擁有龐大的擴展庫。",
+      "title": "我最喜歡的12個VSCode擴展"
+    }
+  ]
 }

@@ -40,5 +40,17 @@
   "original_created_at": "2020-12-30T07:58:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--u69A2wLF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/w97u56rs1nyj2v0ndblo.jpg",
   "author": "Shahid Shaikh",
-  "author_url": "https://dev.to/shaikhshahid"
+  "author_url": "https://dev.to/shaikhshahid",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "开发者在开发周期的最后往往会考虑到一个问题，那就是 \"安全\"...",
+      "title": "确保Node.js应用安全的指南。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "開發者在開發週期的最後往往會考慮到一個問題，那就是 \"安全\"...",
+      "title": "確保Node.js應用安全的指南。"
+    }
+  ]
 }
