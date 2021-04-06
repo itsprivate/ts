@@ -272,11 +272,11 @@ module.exports = /******/ (() => {
 
             const yearField = filenameArr[3];
             const monthField = filenameArr[4];
-            const dataname = filenameArr[1]
+            const dataname = filenameArr[1];
             const year = Number(yearField);
             const month = Number(monthField);
             //!(year === 2021 && month === 3)
-            if (locale !== "ja" || dataname!=='devtop') {
+            if (locale !== "ja" || dataname !== "redirect-devtop") {
               continue;
             }
             const targetFilePath = `i18n/post-resource/${locale}/${filename}.json`;
@@ -57801,11 +57801,10 @@ LimitTypes取值范围：
     /******/
     /******/ /******/ return module.exports;
     /******/
-  } /* webpack/runtime/compat */
+  } /* webpack/runtime/compat */ /******/
   /******/
   /************************************************************************/
-  /******/ /******/
-  /******/ __webpack_require__.ab =
+  /******/ /******/ __webpack_require__.ab =
     __dirname +
     "/"; /************************************************************************/ // module exports must be returned from runtime so entry inlining is disabled // startup // Load entry module and return exports
   /******/ /******/ /******/ /******/ return __webpack_require__(14434);
