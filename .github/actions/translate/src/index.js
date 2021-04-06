@@ -31,7 +31,7 @@ async function main() {
     tencent: client,
     deepl: deeplClient,
   };
-  const locales = ["zh", "ja-JA"];
+  const locales = ["zh", "ja"];
   const allFiles = await getFiles("./i18n/post-resource/en");
   // console.log("allFiles", allFiles);
 
@@ -53,16 +53,10 @@ async function main() {
 
       const yearField = filenameArr[3];
       const monthField = filenameArr[4];
-      console.log("monthField", monthField);
-
       const year = Number(yearField);
       const month = Number(monthField);
-      console.log("file", file);
-      console.log("year", year);
-      console.log("month", month);
-      console.log("locale", locale);
 
-      if (locale === "ja-JA" && (year < 2021 || (year === 2021 && month < 4))) {
+      if (locale === "ja" && (year < 2021 || (year === 2021 && month < 4))) {
         continue;
       }
       const targetFilePath = `i18n/post-resource/${locale}/${filename}.json`;
