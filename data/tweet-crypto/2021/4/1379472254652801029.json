@@ -391,5 +391,22 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Tue Apr 06 16:33:09 +0000 2021"
+  "original_created_at": "Tue Apr 06 16:33:09 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @jack: CCIを発表 #bitcoin https://t.co/cT3AQf0op7",
+      "retweeted_status_full_text": "CCIを発表する #ビットコイン https://t.co/cT3AQf0op7"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @jack：宣布CCI #比特币https://t.co/cT3AQf0op7。",
+      "retweeted_status_full_text": "宣布CCI#比特币https://t.co/cT3AQf0op7"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @jack：宣佈CCI #比特幣https://t.co/cT3AQf0op7。",
+      "retweeted_status_full_text": "宣佈CCI#比特幣https://t.co/cT3AQf0op7"
+    }
+  ]
 }
