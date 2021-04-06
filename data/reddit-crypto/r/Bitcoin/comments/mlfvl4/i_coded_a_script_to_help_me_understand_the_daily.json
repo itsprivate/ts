@@ -135,5 +135,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1617727214,
-  "the_new_excerpt": "The script searches the web for cryptocurrency news, taking keywords as input\nand then passes those to a text sentiment API, analysing how many of the\nheadlines are positive, neutral or negative.\n\nThe idea is that the script will check multiple sources and then calculate a %\nfor each of the 3…"
+  "the_new_excerpt": "The script searches the web for cryptocurrency news, taking keywords as input\nand then passes those to a text sentiment API, analysing how many of the\nheadlines are positive, neutral or negative.\n\nThe idea is that the script will check multiple sources and then calculate a %\nfor each of the 3…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "このスクリプトは、キーワードを入力としてウェブ上で暗号通貨のニュースを検索します。\nそのキーワードをテキストセンチメントAPIに渡して、見出しの中で肯定的なもの、中立的なもの、否定的なものの数を分析します。\n肯定的な見出し、中立的な見出し、否定的な見出しの数を分析します。\n\nこのスクリプトは、複数のソースをチェックして、3つのソースのそれぞれについて％を計算するというものです。\nを計算するというものです...",
+      "title": "私は、ビットコインに関する日々のニュースのセンチメントを理解して、潜在的なパンプやダンプを予測するのに役立つスクリプトをコーディングし、オープンソース化しました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "该脚本在网络上搜索加密货币新闻，将关键字作为输入。\n然后把这些传给一个文本情感API，分析其中有多少个\n标题是正面的、中性的或负面的。\n\n这个想法是，脚本将检查多个来源，然后计算出%的\n对于每一个3...",
+      "title": "我编写了一个脚本来帮助我了解比特币的每日新闻情绪，以帮助我预测潜在的抽水或跳水，并将其开源。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "該腳本在網絡上搜索加密貨幣新聞，將關鍵字作爲輸入。\n然後把這些傳給一個文本情感API，分析其中有多少個\n標題是正面的、中性的或負面的。\n\n這個想法是，腳本將檢查多個來源，然後計算出%的\n對於每一個3...",
+      "title": "我編寫了一個腳本來幫助我瞭解比特幣的每日新聞情緒，以幫助我預測潛在的抽水或跳水，並將其開源。"
+    }
+  ]
 }

@@ -102,5 +102,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1617737955,
-  "the_new_excerpt": "TLDR: Use PNG if your image contains solid colors (e.g. simple graphics, logos,\ntext) and JPG if it contains gradients (e.g. photos, most screenshots).\n\nWhy YSK: In general PNG looks better, but JPG uses much less memory. You can\nreduce the size of emails, texts, etc. by using the right kind of…"
+  "the_new_excerpt": "TLDR: Use PNG if your image contains solid colors (e.g. simple graphics, logos,\ntext) and JPG if it contains gradients (e.g. photos, most screenshots).\n\nWhy YSK: In general PNG looks better, but JPG uses much less memory. You can\nreduce the size of emails, texts, etc. by using the right kind of…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "TLDR: 画像にソリッドカラーが含まれる場合（シンプルなグラフィック、ロゴ、テキストなど）はPNGを、グラデーションが含まれる場合（写真、ほとんどのスクリーンショットなど）はJPGを使用してください。\nグラデーションを含む画像（写真やほとんどのスクリーンショットなど）はJPGを使用してください。\n\nYSKを使う理由: 一般的にPNGの方が見栄えが良いですが、JPGの方がメモリ使用量が少なくて済みます。以下のことが可能です。\nメールやテキストなどのサイズを小さくするには、適切な種類の...",
+      "title": "YSKさんは、主にJPGとPNGの2種類の画像は、それぞれ適したものがあり、使い分ければメモリを大幅に節約することができます。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "TLDR：如果你的图像包含纯色（如简单的图形，标志。\n文字）和JPG，如果它包含渐变（如照片，大多数截图）。\n\n为什么选择YSK：一般来说，PNG看起来更好，但JPG使用的内存更少。你可以\n减少电子邮件、短信等的大小，通过使用合适的...",
+      "title": "YSK认为，JPG和PNG这两种主要的图像类型，对于不同的东西来说是比较好的，如果你用对了，可以节省很多内存。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "TLDR：如果你的圖像包含純色（如簡單的圖形，標誌。\n文字）和JPG，如果它包含漸變（如照片，大多數截圖）。\n\n爲什麼選擇YSK：一般來說，PNG看起來更好，但JPG使用的內存更少。你可以\n減少電子郵件、短信等的大小，通過使用合適的...",
+      "title": "YSK認爲，JPG和PNG這兩種主要的圖像類型，對於不同的東西來說是比較好的，如果你用對了，可以節省很多內存。"
+    }
+  ]
 }
