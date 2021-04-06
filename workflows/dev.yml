@@ -1,6 +1,6 @@
 on:
   poll:
-    url: https://dev.to/api/articles?top=365&per_page=200
+    url: https://dev.to/api/articles?top=3
     requestConfig:
       axios-retry:
         retries: 3
