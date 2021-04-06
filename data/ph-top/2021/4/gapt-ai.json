@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-05T13:48:13Z"
+  "original_createdAt": "2021-04-05T13:48:13Z",
+  "localize": [
+    {
+      "locale": "ja-JA",
+      "description": "Gapt.aiは同様のGPT-3 APIを提供しており、性能も良く、完全にオープンソースのコードを使用しているので低コストです。",
+      "tagline": "GPT-3 APIの最初の代替品"
+    },
+    {
+      "locale": "zh",
+      "description": "Gapt.ai提供了类似GPT-3的API，性能良好，而且我们使用的是完全开源的代码，成本低。",
+      "tagline": "GPT-3 API的第一个替代品"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Gapt.ai提供了類似GPT-3的API，性能良好，而且我們使用的是完全開源的代碼，成本低。",
+      "tagline": "GPT-3 API的第一個替代品"
+    }
+  ]
 }

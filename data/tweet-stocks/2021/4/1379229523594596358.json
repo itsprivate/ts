@@ -110,5 +110,19 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Tue Apr 06 00:28:37 +0000 2021"
+  "original_created_at": "Tue Apr 06 00:28:37 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja-JA",
+      "full_text": "作家であることの37％は、自分が頻繁に使う言葉の同義語をググることだ。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "37%的作家只是在谷歌上搜索自己经常使用的词语的同义词而已"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "37%的作家只是在谷歌上搜索自己經常使用的詞語的同義詞而已"
+    }
+  ]
 }
