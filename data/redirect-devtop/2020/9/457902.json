@@ -44,5 +44,17 @@
   "original_created_at": "2020-09-16T17:37:28Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DjyqMllF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/admin-dashboards/bootstrap-templates/master/media/bootstrap-template-volt-dashboard.png",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "一个由开源爱好者免费提供的具有现代Bootstrap模板的精选列表。",
+      "title": "Bootstrap模板 - 开源和免费。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個由開源愛好者免費提供的具有現代Bootstrap模板的精選列表。",
+      "title": "Bootstrap模板 - 開源和免費。"
+    }
+  ]
 }

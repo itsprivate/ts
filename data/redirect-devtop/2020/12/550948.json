@@ -44,5 +44,17 @@
   "original_created_at": "2020-12-23T15:23:58Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ak1xe3Cw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/2tmrbuxol8wlsv74tqe0.jpeg",
   "author": "Simon Holdorf",
-  "author_url": "https://dev.to/simonholdorf"
+  "author_url": "https://dev.to/simonholdorf",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "React.js是目前前端开发者最受欢迎的JavaScript库。由Faceb发明的...",
+      "title": "8个了不起的React钩子"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "React.js是目前前端開發者最受歡迎的JavaScript庫。由Faceb發明的...",
+      "title": "8個了不起的React鉤子"
+    }
+  ]
 }

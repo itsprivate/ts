@@ -44,5 +44,17 @@
   "original_created_at": "2020-09-25T10:12:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rx_PZNLF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/7vazcxhlfigum0ngfk2u.png",
   "author": "Jane Tracy 👩🏽‍💻",
-  "author_url": "https://dev.to/tracycss"
+  "author_url": "https://dev.to/tracycss",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "背景故事 我在过去两周（包括本周）一直在学习React JS...",
+      "title": "免费的React资源，你应该放在口袋里。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "背景故事 我在過去兩週（包括本週）一直在學習React JS...",
+      "title": "免費的React資源，你應該放在口袋裏。"
+    }
+  ]
 }

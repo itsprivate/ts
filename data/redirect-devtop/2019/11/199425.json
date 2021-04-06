@@ -44,5 +44,17 @@
   "original_created_at": "2019-11-01T21:34:20Z",
   "image": "https://dev.to/social_previews/article/199425.png",
   "author": "Kim Maida",
-  "author_url": "https://dev.to/kimmaida"
+  "author_url": "https://dev.to/kimmaida",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "在我们构建的许多应用程序中，验证和授权是必要的。也许你已经...",
+      "title": "每个人的授权和认证"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在我們構建的許多應用程序中，驗證和授權是必要的。也許你已經...",
+      "title": "每個人的授權和認證"
+    }
+  ]
 }

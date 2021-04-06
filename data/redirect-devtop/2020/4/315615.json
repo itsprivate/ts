@@ -44,5 +44,17 @@
   "original_created_at": "2020-04-21T04:13:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--A4p-HUL3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/0yizlve4hmdwlmmi56pl.png",
   "author": "Samantha Ming",
-  "author_url": "https://dev.to/samanthaming"
+  "author_url": "https://dev.to/samanthaming",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "如果您正在寻找一个网站的URL信息，那么window.location对象就是您的最佳选择。使用它的属性...",
+      "title": "window.location 工作表"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果您正在尋找一個網站的URL信息，那麼window.location對象就是您的最佳選擇。使用它的屬性...",
+      "title": "window.location 工作表"
+    }
+  ]
 }

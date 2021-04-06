@@ -44,5 +44,17 @@
   "original_created_at": "2020-10-06T09:47:24Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1sbeprFD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/4t5s6u97jg9czgrdb6bk.png",
   "author": "themeselection",
-  "author_url": "https://dev.to/theme_selection"
+  "author_url": "https://dev.to/theme_selection",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "React JS或React是一个开源的、前端的、用于构建用户界面的JavaScript库。",
+      "title": "ReactJS 路线图 🗺 对于开发者来说 💻。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "React JS或React是一個開源的、前端的、用於構建用戶界面的JavaScript庫。",
+      "title": "ReactJS 路線圖 🗺 對於開發者來說 💻。"
+    }
+  ]
 }

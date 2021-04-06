@@ -42,5 +42,17 @@
   "original_created_at": "2021-01-24T21:07:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--eKUdDKvT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://i.imgur.com/jMyI2GG.png",
   "author": "Mauro Garcia",
-  "author_url": "https://dev.to/mauro_codes"
+  "author_url": "https://dev.to/mauro_codes",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "为Linux终端提供了一个全面的有用命令列表。",
+      "title": "Linux终端。终极攻略"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "爲Linux終端提供了一個全面的有用命令列表。",
+      "title": "Linux終端。終極攻略"
+    }
+  ]
 }

@@ -40,5 +40,17 @@
   "original_created_at": "2020-04-11T20:03:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jbf69ocG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/arwpijrmshn7upf2eo60.jpg",
   "author": "George Koniaris",
-  "author_url": "https://dev.to/gkoniaris"
+  "author_url": "https://dev.to/gkoniaris",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "文章原载于此。 在过去的几年里，JWT代币作为一种身份认证的方式被广泛使用，...",
+      "title": "如何安全地存储JWT代币。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "文章原載於此。 在過去的幾年裏，JWT代幣作爲一種身份認證的方式被廣泛使用，...",
+      "title": "如何安全地存儲JWT代幣。"
+    }
+  ]
 }

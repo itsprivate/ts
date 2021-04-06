@@ -51,5 +51,17 @@
   "original_created_at": "2020-03-31T14:00:13Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FBOXK9QS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://blog.bearer.sh/content/images/2020/03/security.png",
   "author": "Mark Michon",
-  "author_url": "https://dev.to/markmichon"
+  "author_url": "https://dev.to/markmichon",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "从本质上讲，API是用来使用的。即使你的所有用户都是内部用户，安全问题也可能会...",
+      "title": "API安全最佳实践"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "從本質上講，API是用來使用的。即使你的所有用戶都是內部用戶，安全問題也可能會...",
+      "title": "API安全最佳實踐"
+    }
+  ]
 }

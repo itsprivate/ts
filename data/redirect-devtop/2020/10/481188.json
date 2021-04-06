@@ -44,5 +44,17 @@
   "original_created_at": "2020-10-08T10:30:57Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--B8YhS38G--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/lbxnc0dis34c3cokgcu6.png",
   "author": "themeselection",
-  "author_url": "https://dev.to/theme_selection"
+  "author_url": "https://dev.to/theme_selection",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "你是一个初入职场的前端开发者的旅程吗？那么这本指南就是为你准备的。你将了解所有的...",
+      "title": "如何成为专业的前端开发人员😎💻。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你是一個初入職場的前端開發者的旅程嗎？那麼這本指南就是爲你準備的。你將瞭解所有的...",
+      "title": "如何成爲專業的前端開發人員😎💻。"
+    }
+  ]
 }

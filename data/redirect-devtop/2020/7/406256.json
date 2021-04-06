@@ -49,5 +49,17 @@
   "original_created_at": "2020-07-21T18:20:34Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Wg2SKb3O--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/dmm3nj78e2pj3r1t1yk2.png",
   "author": "Michelle Wirantono",
-  "author_url": "https://dev.to/michelle"
+  "author_url": "https://dev.to/michelle",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "JWT代币很厉害，但如何在前端安全地存储它们？我们就来介绍一下...",
+      "title": "LocalStorage vs Cookies: 您需要了解的关于在前端安全地存储JWT代币的所有信息。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "JWT代幣很厲害，但如何在前端安全地存儲它們？我們就來介紹一下...",
+      "title": "LocalStorage vs Cookies: 您需要了解的關於在前端安全地存儲JWT代幣的所有信息。"
+    }
+  ]
 }

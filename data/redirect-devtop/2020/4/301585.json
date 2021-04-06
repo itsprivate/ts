@@ -44,5 +44,17 @@
   "original_created_at": "2020-04-07T09:03:56Z",
   "image": "https://dev.to/social_previews/article/301585.png",
   "author": "Zeeshan Ahmd",
-  "author_url": "https://dev.to/ziishaned"
+  "author_url": "https://dev.to/ziishaned",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "什么是正则表达式？   正则表达式是一组字符或...",
+      "title": "轻松学习regex"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是正則表達式？   正則表達式是一組字符或...",
+      "title": "輕鬆學習regex"
+    }
+  ]
 }

@@ -44,5 +44,17 @@
   "original_created_at": "2020-07-20T12:31:48Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YRBUQmx3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/4ue1yjd4aw6hvtual2wk.png",
   "author": "Nick Scialli (he/him)",
-  "author_url": "https://dev.to/nas5w"
+  "author_url": "https://dev.to/nas5w",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "根据常见的混淆或误解领域，不断发展的JavaScript技巧汇编。",
+      "title": "基于常见困惑或误解的JavaScript技巧集锦。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "根據常見的混淆或誤解領域，不斷髮展的JavaScript技巧彙編。",
+      "title": "基於常見困惑或誤解的JavaScript技巧集錦。"
+    }
+  ]
 }

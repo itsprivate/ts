@@ -44,5 +44,17 @@
   "original_created_at": "2020-05-10T17:15:18Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ghdQvosC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://aralroca.com/images/cover-images/8_cover_image.jpg%3Fv%3D1",
   "author": "Aral Roca",
-  "author_url": "https://dev.to/aralroca"
+  "author_url": "https://dev.to/aralroca",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "通过创建一个聊天应用程序来了解Deno的工作原理以及它与Node.js的区别。",
+      "title": "学习德诺。聊天应用"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "通過創建一個聊天應用程序來了解Deno的工作原理以及它與Node.js的區別。",
+      "title": "學習德諾。聊天應用"
+    }
+  ]
 }

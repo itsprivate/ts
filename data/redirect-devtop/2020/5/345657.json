@@ -42,5 +42,17 @@
   "original_created_at": "2020-05-28T19:45:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0HhnL8G6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/0r9t8kyj95elzoim0rwk.jpeg",
   "author": "Arek Nawo",
-  "author_url": "https://dev.to/areknawo"
+  "author_url": "https://dev.to/areknawo",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "近年来，React已经成长为最流行、最广泛使用的JavaScript UI库。",
+      "title": "2020年学习React的最佳免费资源"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "近年來，React已經成長爲最流行、最廣泛使用的JavaScript UI庫。",
+      "title": "2020年學習React的最佳免費資源"
+    }
+  ]
 }

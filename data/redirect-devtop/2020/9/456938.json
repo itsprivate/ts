@@ -44,5 +44,17 @@
   "original_created_at": "2020-09-15T18:49:48Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pb7Yt-Fj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/50a8ourjc2euuzk0cxky.png",
   "author": "Jane Tracy 👩🏽‍💻",
-  "author_url": "https://dev.to/tracycss"
+  "author_url": "https://dev.to/tracycss",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "REACT JS背景故事 如果你刚刚完成了JavaScript在线课程或其他自学课程的学习，那么你就会发现，在你的学习过程中，你会遇到很多的问题。",
+      "title": "学习React JS之前要知道的vanilla Javascript基础知识。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "REACT JS背景故事 如果你剛剛完成了JavaScript在線課程或其他自學課程的學習，那麼你就會發現，在你的學習過程中，你會遇到很多的問題。",
+      "title": "學習React JS之前要知道的vanilla Javascript基礎知識。"
+    }
+  ]
 }

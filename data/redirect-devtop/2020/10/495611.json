@@ -44,5 +44,17 @@
   "original_created_at": "2020-10-23T10:34:52Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MEh363a1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/haraj7k4jl5vhkg05nmi.png",
   "author": "Amit Chaudhary",
-  "author_url": "https://dev.to/amitness"
+  "author_url": "https://dev.to/amitness",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "在NLP中，根据模式检查文本或从文本中提取部分内容是一项常见的任务。",
+      "title": "正则表达式的可视化指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在NLP中，根據模式檢查文本或從文本中提取部分內容是一項常見的任務。",
+      "title": "正則表達式的可視化指南"
+    }
+  ]
 }

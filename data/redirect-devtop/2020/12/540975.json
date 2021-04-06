@@ -44,5 +44,17 @@
   "original_created_at": "2020-12-12T20:32:35Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4ia6WU8L--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/a12gbzsd28irxe3raeo3.jpg",
   "author": "Abdisalan",
-  "author_url": "https://dev.to/abdisalan_js"
+  "author_url": "https://dev.to/abdisalan_js",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "我通过架构来了解它是如何发展的。",
+      "title": "一位开发者如何只用JavaScript重现AirDrop？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我通過架構來了解它是如何發展的。",
+      "title": "一位開發者如何只用JavaScript重現AirDrop？"
+    }
+  ]
 }

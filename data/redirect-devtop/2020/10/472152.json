@@ -44,5 +44,17 @@
   "original_created_at": "2020-10-02T11:54:10Z",
   "image": "https://dev.to/social_previews/article/472152.png",
   "author": "Martin Heinz",
-  "author_url": "https://dev.to/martinheinz"
+  "author_url": "https://dev.to/martinheinz",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "在容器的远古时代（其实更像是4年前），Docker是唯一一个在容器领域的玩家。",
+      "title": "是时候跟Docker说再见了"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在容器的遠古時代（其實更像是4年前），Docker是唯一一個在容器領域的玩家。",
+      "title": "是時候跟Docker說再見了"
+    }
+  ]
 }

@@ -44,5 +44,17 @@
   "original_created_at": "2021-01-05T05:26:44Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rw19-Wf8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/3zf2vymxhej8006pi1fi.png",
   "author": "Michael Sakhniuk",
-  "author_url": "https://dev.to/sakhnyuk"
+  "author_url": "https://dev.to/sakhnyuk",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "今天，我准备了一个巨大的React面试问题列表，从这个可怕的repo为更多的信息，我哈哈。",
+      "title": "300+React面试题"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "今天，我準備了一個巨大的React面試問題列表，從這個可怕的repo爲更多的信息，我哈哈。",
+      "title": "300+React面試題"
+    }
+  ]
 }

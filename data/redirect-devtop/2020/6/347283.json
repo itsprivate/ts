@@ -44,5 +44,17 @@
   "original_created_at": "2020-06-01T06:51:44Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EuMEnSXE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/na0x8xqjn8mlotx47yep.png",
   "author": "Fayaz Ahmed",
-  "author_url": "https://dev.to/fayaz"
+  "author_url": "https://dev.to/fayaz",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "成百上千的教程都是关于如何建造东西的，但从来没有他们解释下一步该怎么做。",
+      "title": "光有HTML、CSS和JS是不够的(尤其是当你打算做一个独立的开发时)"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "成百上千的教程都是關於如何建造東西的，但從來沒有他們解釋下一步該怎麼做。",
+      "title": "光有HTML、CSS和JS是不夠的(尤其是當你打算做一個獨立的開發時)"
+    }
+  ]
 }
