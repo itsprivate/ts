@@ -96,5 +96,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-06T15:53:08Z"
+  "original_createdAt": "2021-04-06T15:53:08Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "YESIMは、世界で最も機能的なeSIMアプリケーションです。eSIM対応の端末とYESIMアプリがあれば、ローミング料金やSIMカードの変更なしに、世界126カ国以上でモバイルインターネットに接続することができます。",
+      "tagline": "国際的なeSIMアプリケーション"
+    },
+    {
+      "locale": "zh",
+      "description": "YESIM是世界上功能最强大的eSIM应用。只需拥有eSIM兼容设备和YESIM应用，您就有机会在全球126个国家连接移动互联网，无需支付漫游费或更换SIM卡。",
+      "tagline": "国际eSIM应用"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "YESIM是世界上功能最強大的eSIM應用。只需擁有eSIM兼容設備和YESIM應用，您就有機會在全球126個國家連接移動互聯網，無需支付漫遊費或更換SIM卡。",
+      "tagline": "國際eSIM應用"
+    }
+  ]
 }

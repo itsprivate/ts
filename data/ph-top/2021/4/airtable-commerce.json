@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-06T15:40:22Z"
+  "original_createdAt": "2021-04-06T15:40:22Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Airtable Commerceは、AirtableのデータベースをEコマースのプラットフォームにするスターターキットです。顧客管理、注文管理、商品管理などの機能に加え、すぐに購入リンクを貼ることができます。",
+      "tagline": "Airtableを使って物を売り、Eコマースビジネスを展開する"
+    },
+    {
+      "locale": "zh",
+      "description": "Airtable Commerce是一个入门套件，它可以将您的Airtable数据库变成一个电子商务平台。它提供了客户、订单和产品管理支持，还能在几秒钟内为你的网站添加立即购买链接。",
+      "tagline": "使用Airtable销售东西和经营电子商务业务。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Airtable Commerce是一個入門套件，它可以將您的Airtable數據庫變成一個電子商務平臺。它提供了客戶、訂單和產品管理支持，還能在幾秒鐘內爲你的網站添加立即購買鏈接。",
+      "tagline": "使用Airtable銷售東西和經營電子商務業務。"
+    }
+  ]
 }
