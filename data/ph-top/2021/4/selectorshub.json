@@ -98,5 +98,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-07T08:52:46Z"
+  "original_createdAt": "2021-04-07T08:52:46Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "SelectorsHubは、XPathとcssSelectorsを生成、記述、検証するためのNext Gen XPathツールです。shadow dom、iframe、svg、動的要素、マルチセレクタの生成、エラー処理をサポートしています。すべてのブラウザで利用できる唯一のXPathツールです。",
+      "tagline": "次世代のXPath & cssSelector IDE"
+    },
+    {
+      "locale": "zh",
+      "description": "SelectorsHub是下一代XPath工具，用于生成、编写和验证XPath和cssSelectors。它支持shadow dom, iframe, svg, 动态元素，多选择器生成和错误处理。它是唯一一款适用于所有浏览器的XPath工具。",
+      "tagline": "下一代XPath & cssSelector IDE。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "SelectorsHub是下一代XPath工具，用於生成、編寫和驗證XPath和cssSelectors。它支持shadow dom, iframe, svg, 動態元素，多選擇器生成和錯誤處理。它是唯一一款適用於所有瀏覽器的XPath工具。",
+      "tagline": "下一代XPath & cssSelector IDE。"
+    }
+  ]
 }
