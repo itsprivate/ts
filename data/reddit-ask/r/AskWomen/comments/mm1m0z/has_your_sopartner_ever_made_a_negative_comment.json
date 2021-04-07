@@ -101,5 +101,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1617800697,
-  "the_new_excerpt": "Ex or current partners?"
+  "the_new_excerpt": "Ex or current partners?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "元・現在のパートナーは？",
+      "title": "あなたのSO/パートナーは、あなたの体重や見た目について否定的なコメントをしたことがありますか？どんなことを言われて、どんな反応をしましたか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "前任或现任合伙人？",
+      "title": "你的配偶/伴侣是否曾经对你的体重或你的外表做出过负面评价？他们说了什么，你有什么反应？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "前任或現任合夥人？",
+      "title": "你的配偶/伴侶是否曾經對你的體重或你的外表做出過負面評價？他們說了什麼，你有什麼反應？"
+    }
+  ]
 }
