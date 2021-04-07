@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-06T10:52:41Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dfbxTfcK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gf69syrg81zlziczj1dm.png",
   "author": "Daniel Krupnyy",
-  "author_url": "https://dev.to/danielkrupnyy"
+  "author_url": "https://dev.to/danielkrupnyy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "基本スキーム すべてのコンポーネントの状態は、グローバルな状態に保存されます。コンポーネントは読...",
+      "title": "Redux Basics Cheat Sheet」です。"
+    },
+    {
+      "locale": "zh",
+      "description": "基础方案 所有组件的状态都存储在全局状态中。组件可以读取...",
+      "title": "Redux基础知识攻略。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "基礎方案 所有組件的狀態都存儲在全局狀態中。組件可以讀取...",
+      "title": "Redux基礎知識攻略。"
+    }
+  ]
 }
