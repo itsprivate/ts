@@ -83,5 +83,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-06T07:32:58Z"
+  "original_createdAt": "2021-04-06T07:32:58Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ResumeMaker.Onlineでは、モダンで効果的な履歴書をわずか数分で作成することができます。会員登録不要で、今すぐ始められます。",
+      "tagline": "最も簡単に使える履歴書メーカー"
+    },
+    {
+      "locale": "zh",
+      "description": "ResumeMaker.Online允许用户在几分钟内创建一个现代有效的简历。无需注册，现在就开始",
+      "tagline": "最简单易用的简历制作器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "ResumeMaker.Online允許用戶在幾分鐘內創建一個現代有效的簡歷。無需註冊，現在就開始",
+      "tagline": "最簡單易用的簡歷製作器"
+    }
+  ]
 }
