@@ -102,5 +102,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1617815429,
-  "the_new_excerpt": "Why YSK:\n\nIf you've been in a situation where you have a password-protected excel file and\ncan't make changes or you forgot your password. There is a way to remove that\nprotection. If you did not know, Excel files are also zip files with coding. The\npassword protection is SHA-512\n\nChanging the excel…"
+  "the_new_excerpt": "Why YSK:\n\nIf you've been in a situation where you have a password-protected excel file and\ncan't make changes or you forgot your password. There is a way to remove that\nprotection. If you did not know, Excel files are also zip files with coding. The\npassword protection is SHA-512\n\nChanging the excel…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "なぜYSKなのか。\n\nパスワードで保護されたエクセルファイルを持っていて、変更できない、またはパスワードを忘れてしまったという状況になったことがあります。\nパスワードを忘れてしまって変更できないという状況に陥ったことがあります。その保護を解除する方法があります。\n保護を解除する方法があります。ご存知なかったかもしれませんが、エクセルファイルはコーディングされたZIPファイルでもあ のです。\nパスワード保護はSHA-512\n\nエクセルの変更...",
+      "title": "YSK: エクセルファイルをハックしてパスワード保護を解除することができる"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么选择YSK。\n\n如果你有一个受密码保护的excel文件，并且\n不能进行修改或忘记密码。有一种方法可以删除\n的保护。如果你不知道，Excel文件也是带编码的压缩文件。该\n密码保护是SHA-512\n\n改变excel的...",
+      "title": "YSK：你可以黑掉一个excel文件来摆脱密码保护。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼選擇YSK。\n\n如果你有一個受密碼保護的excel文件，並且\n不能進行修改或忘記密碼。有一種方法可以刪除\n的保護。如果你不知道，Excel文件也是帶編碼的壓縮文件。該\n密碼保護是SHA-512\n\n改變excel的...",
+      "title": "YSK：你可以黑掉一個excel文件來擺脫密碼保護。"
+    }
+  ]
 }
