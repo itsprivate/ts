@@ -36,5 +36,19 @@
     }
   },
   "original_created_at": "2021-04-06T19:19:54.000Z",
-  "image": "https://bevyengine.org/assets/bevy_logo_fill.png"
+  "image": "https://bevyengine.org/assets/bevy_logo_fill.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Bevy 0.5: Rustで作られたデータ指向のゲームエンジン"
+    },
+    {
+      "locale": "zh",
+      "title": "Bevy 0.5：用Rust构建的面向数据的游戏引擎。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Bevy 0.5：用Rust構建的面向數據的遊戲引擎。"
+    }
+  ]
 }
