@@ -54,7 +54,7 @@ on:
       filterScript: |
         const score = item.retweet_count*2 +item.favorite_count;
 
-        if(score>7 && item.full_text.includes("?")){
+        if(item.full_text.includes("?")){
           return true
         }
         return false
