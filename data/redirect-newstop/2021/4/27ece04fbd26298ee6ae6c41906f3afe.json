@@ -14,5 +14,19 @@
   "tags": [
     "Reuters"
   ],
-  "image": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+  "image": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "インド、過去最高の115,736人のCOVID-19新規感染者を報告"
+    },
+    {
+      "locale": "zh",
+      "title": "印度报告新增115,736例COVID-19感染病例，创历史新高。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "印度報告新增115,736例COVID-19感染病例，創歷史新高。"
+    }
+  ]
 }
