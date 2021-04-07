@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-07T09:46:10Z"
+  "original_createdAt": "2021-04-07T09:46:10Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Dashは、スポーツとテクノロジーへの情熱の集大成です。長い間、StravaのAPIを使って何かを作りたいと思っていたので、Dashは何年にもわたって様々な形をとってきました。最終的には、iOS 14がリリースされたときに、これはリリースするのに適した機会だと思いました。",
+      "tagline": "Strava用ラン＆ライドウィジェット"
+    },
+    {
+      "locale": "zh",
+      "description": "Dash是对运动和科技的热情的结晶。长久以来，我一直想利用Strava的API来构建一些东西，所以这些年来，Dash以多种形式出现。最终随着iOS 14的发布，我知道这是一个合适的机会来发布它。",
+      "tagline": "Strava的跑步和骑行小工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Dash是對運動和科技的熱情的結晶。長久以來，我一直想利用Strava的API來構建一些東西，所以這些年來，Dash以多種形式出現。最終隨着iOS 14的發佈，我知道這是一個合適的機會來發布它。",
+      "tagline": "Strava的跑步和騎行小工具"
+    }
+  ]
 }
