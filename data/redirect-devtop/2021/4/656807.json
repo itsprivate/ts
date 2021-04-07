@@ -42,5 +42,22 @@
   "original_created_at": "2021-04-06T15:02:47Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mU06ZYGo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/admin-dashboards/soft-ui-dashboard/main/media/soft-ui-dashboard-screen.png",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "有名な代理店や個人開発者によって作られたTailwindとBootstrapのテンプレートを集めたリスト - Soft UI Dashboard, Windmill, Volt Bootstrap 5",
+      "title": "Bootstrapテンプレート - 2021年に使用するモダンキット"
+    },
+    {
+      "locale": "zh",
+      "description": "由知名机构和个人开发者精心制作的尾风和Bootstrap模板的精选列表--Soft UI Dashboard, Windmill, Volt Bootstrap 5。",
+      "title": "Bootstrap模板--现代套件在2021年使用。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "由知名機構和個人開發者精心製作的尾風和Bootstrap模板的精選列表--Soft UI Dashboard, Windmill, Volt Bootstrap 5。",
+      "title": "Bootstrap模板--現代套件在2021年使用。"
+    }
+  ]
 }
