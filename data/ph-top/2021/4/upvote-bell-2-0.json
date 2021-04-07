@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-07T07:00:00Z"
+  "original_createdAt": "2021-04-07T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Upvote Bellは、Product Huntでプロジェクトを立ち上げたMakersのためのプロジェクト管理プラットフォームです。プロジェクトの統計情報、リアルタイムの通知、タスクやメモのボード、ハンターのリーダーボードなど、完璧なローンチのためのすべての機能が1つの場所に集約されています。",
+      "tagline": "Product Huntプロジェクトのダッシュボード"
+    },
+    {
+      "locale": "zh",
+      "description": "Upvote Bell是Makers的项目管理平台，它在猎品上推出了自己的项目。",
+      "tagline": "产品搜索项目的仪表板"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Upvote Bell是Makers的項目管理平臺，它在獵品上推出了自己的項目。",
+      "tagline": "產品搜索項目的儀表板"
+    }
+  ]
 }
