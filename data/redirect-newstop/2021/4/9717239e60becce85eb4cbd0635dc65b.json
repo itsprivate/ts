@@ -14,5 +14,19 @@
   "tags": [
     "BBC News"
   ],
-  "image": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.1.0/bbc_news_logo.png"
+  "image": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.1.0/bbc_news_logo.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Covid社：英国でのModerna投与開始に伴い、AZ社の血栓に関する最新情報を発表"
+    },
+    {
+      "locale": "zh",
+      "title": "科维德：AZ血栓更新到期，英国开始Moderna jabs。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "科維德：AZ血栓更新到期，英國開始Moderna jabs。"
+    }
+  ]
 }
