@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-07T05:07:04Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DZyYMhJy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mcx3bc99g6m3gjfhtm8p.jpeg",
   "author": "Tyler Hawkins",
-  "author_url": "https://dev.to/thawkin3"
+  "author_url": "https://dev.to/thawkin3",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ユニットテストは重要です。コードをリファクタリングする際にリグレッションを防ぎ、ドキュメントとして機能し、そして...",
+      "title": "ユニットテストでクリーンなコードを。テスト・スイートをクリーンに保つためのヒントとコツ"
+    },
+    {
+      "locale": "zh",
+      "description": "单元测试很重要。它们可以在重构代码时防止回归，作为文档，并...",
+      "title": "用单元测试来清洁代码。保持测试套件清洁的技巧和窍门"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "單元測試很重要。它們可以在重構代碼時防止迴歸，作爲文檔，並...",
+      "title": "用單元測試來清潔代碼。保持測試套件清潔的技巧和竅門"
+    }
+  ]
 }
