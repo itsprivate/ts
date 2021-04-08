@@ -93,5 +93,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-08T12:46:44Z"
+  "original_createdAt": "2021-04-08T12:46:44Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "BaseQLは、GraphQLのパワーをAirtableにもたらします。シンプルかつパワフルなエクスプローラーを使って、レコードのクエリ、フィルタリング、ミューティングができます。ローコードやノーコードのアプリケーションと簡単に統合できます。Slackでご参加ください： https://shorturl.at/nHR07",
+      "tagline": "GraphQL for Airtable"
+    },
+    {
+      "locale": "zh",
+      "description": "BaseQL为Airtable带来了GraphQL的强大功能，允许您使用一个简单而强大的资源管理器来查询、过滤和突变记录。将其与低代码和无代码应用程序轻松集成。在Slack上加入我们：https://shorturl.at/nHR07",
+      "tagline": "用于Airtable的GraphQL"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "BaseQL爲Airtable帶來了GraphQL的強大功能，允許您使用一個簡單而強大的資源管理器來查詢、過濾和突變記錄。將其與低代碼和無代碼應用程序輕鬆集成。在Slack上加入我們：https://shorturl.at/nHR07",
+      "tagline": "用於Airtable的GraphQL"
+    }
+  ]
 }
