@@ -151,5 +151,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1617848020,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"私たちは、集団免疫がどのようにして発生を阻止できるかを示すために、SIMVID-19という模擬疾患のシミュレーションを作成しました。\""
+    },
+    {
+      "locale": "zh",
+      "title": "\"我们创建了一个模拟疾病SIMVID-19，以显示群体免疫力如何在其轨道上停止爆发。\""
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"我們創建了一個模擬疾病SIMVID-19，以顯示羣體免疫力如何在其軌道上停止爆發。\""
+    }
+  ]
 }
