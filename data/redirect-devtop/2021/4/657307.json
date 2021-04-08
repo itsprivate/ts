@@ -42,5 +42,22 @@
   "original_created_at": "2021-04-07T03:29:57Z",
   "image": "https://dev.to/social_previews/article/657307.png",
   "author": "David Rios",
-  "author_url": "https://dev.to/davidrios"
+  "author_url": "https://dev.to/davidrios",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こちらにはブラジル・ポルトガル語版があります。                                        どのように設定すれば...",
+      "title": "Docker + VS Codeの開発環境を構成する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "这里有一个巴西葡萄牙语版本。                                        如何配置一个...",
+      "title": "如何配置Docker+VS Code开发环境？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這裏有一個巴西葡萄牙語版本。                                        如何配置一個...",
+      "title": "如何配置Docker+VS Code開發環境？"
+    }
+  ]
 }
