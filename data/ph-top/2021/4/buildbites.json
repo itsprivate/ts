@@ -88,5 +88,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-08T12:25:02Z"
+  "original_createdAt": "2021-04-08T12:25:02Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "BuildBitesは、あなたのサイドプロジェクト、エージェンシー、スタートアップを活性化するために、Webflow専任の開発者を月額料金で提供します。",
+      "tagline": "低額な月額料金でのウェブフロー開発"
+    },
+    {
+      "locale": "zh",
+      "description": "通过BuildBites，你只需支付一个月的费用，就能获得一个专门的Webflow开发，为你的兼职项目、代理公司或初创公司提供超级服务。",
+      "tagline": "以低廉的月费开发Webflow"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "通過BuildBites，你只需支付一個月的費用，就能獲得一個專門的Webflow開發，爲你的兼職項目、代理公司或初創公司提供超級服務。",
+      "tagline": "以低廉的月費開發Webflow"
+    }
+  ]
 }
