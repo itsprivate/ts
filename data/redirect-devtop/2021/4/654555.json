@@ -49,5 +49,22 @@
   "original_created_at": "2021-04-04T06:31:29Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WfGauxiK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yumipj4ljm6rj4yt0ryv.jpeg",
   "author": "annie.exe",
-  "author_url": "https://dev.to/anniedotexe"
+  "author_url": "https://dev.to/anniedotexe",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これは、HTML、CSS、JavaScriptで作られた、ミニマルでシンプルな音楽プレーヤーのUIデザインです。 このプロジェク...",
+      "title": "シンプルな音楽プレーヤーのUI"
+    },
+    {
+      "locale": "zh",
+      "description": "这是一个用HTML、CSS和JavaScript制作的简约而简单的音乐播放器UI设计。 这个项目...",
+      "title": "简单的音乐播放器UI"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是一個用HTML、CSS和JavaScript製作的簡約而簡單的音樂播放器UI設計。 這個項目...",
+      "title": "簡單的音樂播放器UI"
+    }
+  ]
 }
