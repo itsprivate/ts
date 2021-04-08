@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-05T21:56:44Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UMhjOTjU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uwwg552w0kh5yytnxkck.jpg",
   "author": "Elves Sousa",
-  "author_url": "https://dev.to/elvessousa"
+  "author_url": "https://dev.to/elvessousa",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "もし、この第3部のために、第1部も第2部も見ずにここにたどり着いたのなら、ぜひ、この第3部を見ることをお勧めします。",
+      "title": "Next.jsで多言語サイトを作る - Part 3"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你在这里结束了这第三部分，没有看到第一也没有看到第二，我强烈建议你。",
+      "title": "使用Next.js制作多语言网站 - 第三部分"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你在這裏結束了這第三部分，沒有看到第一也沒有看到第二，我強烈建議你。",
+      "title": "使用Next.js製作多語言網站 - 第三部分"
+    }
+  ]
 }
