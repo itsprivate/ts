@@ -38,5 +38,19 @@
     }
   },
   "original_created_at": "2021-04-07T18:19:06.000Z",
-  "image": "https://kaboomjs.com/pub/img/boom.svg"
+  "image": "https://kaboomjs.com/pub/img/boom.svg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Show HN: Kaboom.jsは、ゼロ依存の宣言型JavaScriptゲームライブラリです。"
+    },
+    {
+      "locale": "zh",
+      "title": "显示HN：Kaboom.js是一个零依赖的声明式JavaScript游戏库。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "顯示HN：Kaboom.js是一個零依賴的聲明式JavaScript遊戲庫。"
+    }
+  ]
 }
