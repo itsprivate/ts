@@ -228,5 +228,22 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Thu Apr 08 12:04:49 +0000 2021"
+  "original_created_at": "Thu Apr 08 12:04:49 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @GoingParabolic: BREAKING: アメリカで2番目に古い銀行! 3.1T AUM!\n\nhttps://t.co/5QM4hhRNMH",
+      "retweeted_status_full_text": "速報: 米国で2番目に古い銀行! 3.1T AUM!\n\nhttps://t.co/5QM4hhRNMH"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @Going Parabolic: 美国第二古老的银行! 3.1T AUM!\n\nhttps://t.co/5QM4hhRNMH",
+      "retweeted_status_full_text": "爆料：美国第二大银行! 3.1T AUM!\n\nhttps://t.co/5QM4hhRNMH"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @Going Parabolic: 美國第二古老的銀行! 3.1T AUM!\n\nhttps://t.co/5QM4hhRNMH",
+      "retweeted_status_full_text": "爆料：美國第二大銀行! 3.1T AUM!\n\nhttps://t.co/5QM4hhRNMH"
+    }
+  ]
 }
