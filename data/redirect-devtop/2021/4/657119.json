@@ -49,5 +49,22 @@
   "original_created_at": "2021-04-06T21:48:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZGzGgh3b--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kf9cowaurm8pfcbip15r.png",
   "author": "James Wallis",
-  "author_url": "https://dev.to/jameswallis"
+  "author_url": "https://dev.to/jameswallis",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "閲覧数の増加を見て、どの投稿が一番読まれているのか気になることはありませんか？私はそうでした。....",
+      "title": "Next.jsとAzure Functionsを使って、過去のデータを使った高度なDev.toダッシュボードを作ってみました📈。"
+    },
+    {
+      "locale": "zh",
+      "description": "你有没有看着自己的浏览量上升，想知道哪些帖子被阅读量最高？我知道我做过....。",
+      "title": "我使用Next.js和Azure函数📈建立了一个具有历史数据的高级Dev.to仪表盘。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你有沒有看着自己的瀏覽量上升，想知道哪些帖子被閱讀量最高？我知道我做過....。",
+      "title": "我使用Next.js和Azure函數📈建立了一個具有歷史數據的高級Dev.to儀表盤。"
+    }
+  ]
 }
