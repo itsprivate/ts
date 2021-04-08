@@ -48,5 +48,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-08T07:01:00Z"
+  "original_createdAt": "2021-04-08T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Have I Been Zuckered: Facebookのデータ流出にあなたの電話番号が含まれているかどうかを確認します。",
+      "tagline": "あなたの電話番号は、Facebookのデータ漏洩の中に存在していますか？"
+    },
+    {
+      "locale": "zh",
+      "description": "Have I Been Zuckered: 检查你的电话号码是否存在于Facebook数据泄露事件中。",
+      "tagline": "你的电话号码是否存在于Facebook数据泄露事件中？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Have I Been Zuckered: 檢查你的電話號碼是否存在於Facebook數據泄露事件中。",
+      "tagline": "你的電話號碼是否存在於Facebook數據泄露事件中？"
+    }
+  ]
 }
