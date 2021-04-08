@@ -49,5 +49,22 @@
   "original_created_at": "2021-04-08T00:28:24Z",
   "image": "https://dev.to/social_previews/article/658290.png",
   "author": "Adam Coster",
-  "author_url": "https://dev.to/adamcoster"
+  "author_url": "https://dev.to/adamcoster",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "プログラマーはドキュメントを書くのが嫌いです。ほとんどのプログラマーがそうです。それは、ただの邪魔なものです。",
+      "title": "💻 コードとしてのドキュメント"
+    },
+    {
+      "locale": "zh",
+      "description": "程序员讨厌写文档。大多数程序员，反正。那只是一些碍事的东西... ...",
+      "title": "💻 文件为代码。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "程序員討厭寫文檔。大多數程序員，反正。那只是一些礙事的東西... ...",
+      "title": "💻 文件爲代碼。"
+    }
+  ]
 }
