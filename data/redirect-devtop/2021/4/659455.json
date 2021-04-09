@@ -49,5 +49,22 @@
   "original_created_at": "2021-04-08T23:27:41Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mczlhT-D--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.ctfassets.net/zlsyc9paq6sa/4WZ30vxAhkA0uJ2vhIcJ0r/d375184bf3fbd8ee8b06057146a0cbef/1617922900_1171x509.png",
   "author": "Madza",
-  "author_url": "https://dev.to/madza"
+  "author_url": "https://dev.to/madza",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "数日前、私はmadza.devをどのようにして作ったかについて投稿しました。その中でも最もエキサイティングだったのは...",
+      "title": "オープンソースの音楽プレーヤーを作ってみた🎵🎶。"
+    },
+    {
+      "locale": "zh",
+      "description": "几天前，我发了一篇关于我如何创建madza.dev的文章。其中最激动人心的部分是创建...",
+      "title": "我创建了一个开源音乐播放器🎵🎶。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "幾天前，我發了一篇關於我如何創建madza.dev的文章。其中最激動人心的部分是創建...",
+      "title": "我創建了一個開源音樂播放器🎵🎶。"
+    }
+  ]
 }
