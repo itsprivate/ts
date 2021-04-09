@@ -67,5 +67,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-08T10:45:17Z"
+  "original_createdAt": "2021-04-08T10:45:17Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "マーケティングデータの詳細な情報を簡単に得ることができます。データソースを選択するだけで、すべてのデータをGoogleシートにまとめ、データのサマリーを作成します。",
+      "tagline": "PPCキャンペーンで得たマーケティングデータをGoogle Sheetsに取り込む"
+    },
+    {
+      "locale": "zh",
+      "description": "轻松获得有关您的营销数据的详细信息。您所要做的就是选择您的数据源，我们将把所有的数据都放到Google Sheets中，并为您创建数据摘要",
+      "tagline": "您的营销数据从PPC活动到谷歌表的数据"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "輕鬆獲得有關您的營銷數據的詳細信息。您所要做的就是選擇您的數據源，我們將把所有的數據都放到Google Sheets中，併爲您創建數據摘要",
+      "tagline": "您的營銷數據從PPC活動到谷歌表的數據"
+    }
+  ]
 }
