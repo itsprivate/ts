@@ -101,5 +101,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1617987165,
-  "the_new_excerpt": "For ladies"
+  "the_new_excerpt": "For ladies",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "女性向け",
+      "title": "高校での護身術の授業を義務化／任意化することについてどう思いますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "给女士们",
+      "title": "如何看待高中的义务/自愿自卫课？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "給女士們",
+      "title": "如何看待高中的義務/自願自衛課？"
+    }
+  ]
 }
