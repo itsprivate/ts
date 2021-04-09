@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-08T06:18:38Z",
   "image": "https://dev.to/social_previews/article/658610.png",
   "author": "Priyanshi Sharma",
-  "author_url": "https://dev.to/priyanshi_sharma"
+  "author_url": "https://dev.to/priyanshi_sharma",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "APIとWebサービスは、お互いに重なり合って混同される2つの言葉です。あなたは、この言葉を知っていますか？",
+      "title": "WebサービスとAPIの比較"
+    },
+    {
+      "locale": "zh",
+      "description": "API和Web服务是这两个术语，互相重叠和混淆。你移...",
+      "title": "网络服务与API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "API和Web服務是這兩個術語，互相重疊和混淆。你移...",
+      "title": "網絡服務與API"
+    }
+  ]
 }
