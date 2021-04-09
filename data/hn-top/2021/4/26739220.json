@@ -3,7 +3,7 @@
   "title": "Ask HN: Why is the Linux community struggling to implement hibernation?",
   "url": null,
   "author": "cyka178",
-  "points": 145,
+  "points": 280,
   "story_text": "Today I have found out that hibernation is by default disabled in my Ubuntu 18.04 distribution. After this, I found this 11 month old post <a href=\"https:&#x2F;&#x2F;discourse.ubuntu.com&#x2F;t&#x2F;re-visiting-hibernate-on-ubuntu&#x2F;15953\" rel=\"nofollow\">https:&#x2F;&#x2F;discourse.ubuntu.com&#x2F;t&#x2F;re-visiting-hibernate-on-ubun...</a> where I realized that the Linux community does not seem to be able to implement a working implementation of hibernate. Is there any reason why this is a difficult problem? I would like to have an option in my OS like VM&#x27;s have where everything that is currently running is saved on disk and can be resumed later without issues.",
   "comment_text": null,
   "num_comments": 135,
@@ -52,5 +52,6 @@
       "locale": "zh-Hant",
       "title": "問HN：爲什麼Linux社區在努力實現休眠？"
     }
-  ]
+  ],
+  "source_updated_at": 1617961885642
 }
