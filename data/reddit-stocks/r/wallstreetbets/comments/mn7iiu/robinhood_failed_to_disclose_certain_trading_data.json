@@ -147,5 +147,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1617935051,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ロビンフッドは、規制当局が以前に他の証券会社に罰金を科した特定の取引データの開示を怠った、と報告書に記載されています。"
+    },
+    {
+      "locale": "zh",
+      "title": "报道称，Robinhood未能披露某些交易数据，而监管机构此前曾因这些数据对其他券商进行过罚款。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "報道稱，Robinhood未能披露某些交易數據，而監管機構此前曾因這些數據對其他券商進行過罰款。"
+    }
+  ]
 }
