@@ -107,5 +107,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1617923045,
-  "the_new_excerpt": "I have never seen a microwave advertisement in my life!"
+  "the_new_excerpt": "I have never seen a microwave advertisement in my life!",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私は電子レンジの広告を見たことがありません。",
+      "title": "電子レンジの広告がないのはなぜですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我这辈子都没看过微波炉的广告!",
+      "title": "为什么没有微波炉广告？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我這輩子都沒看過微波爐的廣告!",
+      "title": "爲什麼沒有微波爐廣告？"
+    }
+  ]
 }
