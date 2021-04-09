@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-04-09T05:20:32.000Z",
-  "image": "https://git.kernel.org/cgit-data/cgit.png"
+  "image": "https://git.kernel.org/cgit-data/cgit.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "M1の初期サポートがLinux SoCツリーにマージされました。"
+    },
+    {
+      "locale": "zh",
+      "title": "最初的M1支持并入Linux SoC树中"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "最初的M1支持併入Linux SoC樹中"
+    }
+  ]
 }
