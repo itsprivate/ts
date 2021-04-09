@@ -44,5 +44,17 @@
   "original_created_at": "2021-03-28T19:09:29Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--J6E3hgSB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fxq0yu3jd7qw35itdxii.jpg",
   "author": "Nader Dabit",
-  "author_url": "https://dev.to/dabit3"
+  "author_url": "https://dev.to/dabit3",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "使用React、Ethers.js和Hardhat构建全栈dApps。",
+      "title": "全栈Ethereum开发完整指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用React、Ethers.js和Hardhat構建全棧dApps。",
+      "title": "全棧Ethereum開發完整指南"
+    }
+  ]
 }
