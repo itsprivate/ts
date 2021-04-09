@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-04-08T19:56:49.000Z",
-  "image": "https://tkainrad.dev/images/us-layout-keys.png"
+  "image": "https://tkainrad.dev/images/us-layout-keys.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "米国以外のレイアウトでキーボードショートカットが動作しない理由と、開発者がそれを修正する方法"
+    },
+    {
+      "locale": "zh",
+      "title": "为什么键盘快捷键在非美式布局上无法使用，以及开发人员如何修复它？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲什麼鍵盤快捷鍵在非美式佈局上無法使用，以及開發人員如何修復它？"
+    }
+  ]
 }

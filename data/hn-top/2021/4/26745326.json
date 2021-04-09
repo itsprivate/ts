@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-04-09T00:09:26.000Z",
-  "image": "https://scx2.b-cdn.net/gfx/news/hires/2021/riceintelopt.jpg"
+  "image": "https://scx2.b-cdn.net/gfx/news/hires/2021/riceintelopt.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "CPUベースのアルゴリズムは、最高のGPUに比べて最大15倍の速度でディープニューラルネットを学習する"
+    },
+    {
+      "locale": "zh",
+      "title": "基于CPU的算法训练深度神经网络的速度是顶级GPU的15倍。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "基於CPU的算法訓練深度神經網絡的速度是頂級GPU的15倍。"
+    }
+  ]
 }
