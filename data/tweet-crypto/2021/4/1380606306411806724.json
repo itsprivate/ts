@@ -237,5 +237,22 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Fri Apr 09 19:39:28 +0000 2021"
+  "original_created_at": "Fri Apr 09 19:39:28 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @100trillionUSD: @Isabel_Schnabel ジンバブエ、ベネズエラ、レバノン、トルコの人々はそうは思わないでしょう（中央銀行が自国の通貨にしたことを考えると）。",
+      "retweeted_status_full_text": "@Isabel_Schnabel ジンバブエ、ベネズエラ、レバノン、トルコの人々は、（中央銀行が彼らのお金にしたことを考えると）そうは思わないでしょう。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @100trillionUSD: @Isabel_Schnabel 津巴布韦、委内瑞拉、黎巴嫩、土耳其的人们不敢苟同（在央行对他们的Mo...",
+      "retweeted_status_full_text": "@Isabel_Schnabel 津巴布韦、委内瑞拉、黎巴嫩、土耳其的人们不敢苟同（在央行对他们的钱做了什么之后）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @100trillionUSD: @Isabel_Schnabel 津巴布韋、委內瑞拉、黎巴嫩、土耳其的人們不敢苟同（在央行對他們的Mo...",
+      "retweeted_status_full_text": "@Isabel_Schnabel 津巴布韋、委內瑞拉、黎巴嫩、土耳其的人們不敢苟同（在央行對他們的錢做了什麼之後）。"
+    }
+  ]
 }
