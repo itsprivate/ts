@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-09T13:51:58Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FiPFpEJJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u5korhoola2x9rip8crt.jpeg",
   "author": "Laurie",
-  "author_url": "https://dev.to/laurieontech"
+  "author_url": "https://dev.to/laurieontech",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、新しいマシンのセットアップをしていて、真っ先に手を伸ばしたのがこのツールでした。",
+      "title": "新しいマシンのセットアップ"
+    },
+    {
+      "locale": "zh",
+      "description": "我最近在安装一台新的机器，这些都是我首先接触到的工具。",
+      "title": "设置我的新机器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我最近在安裝一臺新的機器，這些都是我首先接觸到的工具。",
+      "title": "設置我的新機器"
+    }
+  ]
 }
