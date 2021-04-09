@@ -101,5 +101,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1617936765,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "みなさんも、何かをアルファベットで整理するときに、アルファベットの歌をさらっと歌いますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你们在按字母顺序整理东西时，也会快速地唱字母歌吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你們在按字母順序整理東西時，也會快速地唱字母歌嗎？"
+    }
+  ]
 }
