@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-04-09T03:06:39.000Z",
-  "image": "https://fly.io/public/images/flyctl-preview.png"
+  "image": "https://fly.io/public/images/flyctl-preview.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "DockerのないDocker"
+    },
+    {
+      "locale": "zh",
+      "title": "没有Docker的Docker"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "沒有Docker的Docker"
+    }
+  ]
 }
