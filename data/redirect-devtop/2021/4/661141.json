@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-10T12:42:35Z",
   "image": "https://dev.to/social_previews/article/661141.png",
   "author": "Masa Kudamatsu",
-  "author_url": "https://dev.to/masakudamatsu"
+  "author_url": "https://dev.to/masakudamatsu",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "セッション・トークンとJSONウェブ・トークンを比較した記事は、ウェブ上に無数にあります。",
+      "title": "JSONウェブトークンは、同じユーザーを繰り返し認証するためのものではありません。代わりにセッショントークンを使用してください。"
+    },
+    {
+      "locale": "zh",
+      "description": "网络上有无数的文章，比较会话令牌和JSON网络令牌的...",
+      "title": "JSON网络令牌不是用来重复验证同一个用户的。请使用会话令牌"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "網絡上有無數的文章，比較會話令牌和JSON網絡令牌的...",
+      "title": "JSON網絡令牌不是用來重複驗證同一個用戶的。請使用會話令牌"
+    }
+  ]
 }
