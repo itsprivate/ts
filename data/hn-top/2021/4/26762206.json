@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-04-10T15:33:37.000Z",
-  "image": "https://www.metabase.com/images/twitter/default.png"
+  "image": "https://www.metabase.com/images/twitter/default.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "SQLクエリを書くためのベスト・プラクティス"
+    },
+    {
+      "locale": "zh",
+      "title": "编写SQL查询的最佳实践"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "編寫SQL查詢的最佳實踐"
+    }
+  ]
 }
