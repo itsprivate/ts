@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-08T13:51:22Z",
   "image": "https://dev.to/social_previews/article/658983.png",
   "author": "Leopold",
-  "author_url": "https://dev.to/leopold"
+  "author_url": "https://dev.to/leopold",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは。これが私の初めての投稿です。私の英語がスムーズに伝わることを願っています。",
+      "title": "create-react-appのように、ウェブアプリのボイプレートを生成します。"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，这是我第一次在这里发帖，希望我的英语能够足够流畅，让...",
+      "title": "像 create-react-app 一样，生成你的 web-app boilerplate。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，這是我第一次在這裏發帖，希望我的英語能夠足夠流暢，讓...",
+      "title": "像 create-react-app 一樣，生成你的 web-app boilerplate。"
+    }
+  ]
 }
