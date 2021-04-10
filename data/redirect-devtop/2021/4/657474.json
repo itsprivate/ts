@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-07T07:54:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8nwNtbkm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/p8r49p57jaoqat7cpi9w.png",
   "author": "Devin Ford",
-  "author_url": "https://dev.to/devindford"
+  "author_url": "https://dev.to/devindford",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私はしばらくの間、React QueryとTailwindを試す理由を探していましたが、実際には何も見つかりませんでした。",
+      "title": "DEV APIを使ってWebサイトを作ってみた!"
+    },
+    {
+      "locale": "zh",
+      "description": "我一直在寻找一个理由来尝试React Query和Tailwind一段时间，但没有什么真正的St... ...",
+      "title": "我用DEV API建立了一个网站!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我一直在尋找一個理由來嘗試React Query和Tailwind一段時間，但沒有什麼真正的St... ...",
+      "title": "我用DEV API建立了一個網站!"
+    }
+  ]
 }
