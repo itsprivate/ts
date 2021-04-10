@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-10T07:07:26Z"
+  "original_createdAt": "2021-04-10T07:07:26Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Frontend Toolkitは、フロントエンドに関連する反復的な作業のためのユーティリティのコレクションです。カスタマイズ可能で、ニーズに合わせてすべてを設定することができます。",
+      "tagline": "定期的に発生するフロントエンドタスクのダッシュボード"
+    },
+    {
+      "locale": "zh",
+      "description": "Frontend Toolkit是一个实用工具的集合，用于处理与前端相关的重复性任务。它是可定制的，可以让你根据自己的需求来设置一切。",
+      "tagline": "前台任务的仪表板。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Frontend Toolkit是一個實用工具的集合，用於處理與前端相關的重複性任務。它是可定製的，可以讓你根據自己的需求來設置一切。",
+      "tagline": "前臺任務的儀表板。"
+    }
+  ]
 }
