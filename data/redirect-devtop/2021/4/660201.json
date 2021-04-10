@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-09T14:00:13Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XiRc2U3g--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://blog.reedbarger.com/content/images/2021/04/react-libraries-you-should-be-using-1.png",
   "author": "Reed Barger",
-  "author_url": "https://dev.to/reedbarger"
+  "author_url": "https://dev.to/reedbarger",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事はReedBarger.comに掲載されたものです。 この記事では、Reactのライブラリを5つご紹介します。",
+      "title": "2021年に使用すべき5つのReactライブラリ"
+    },
+    {
+      "locale": "zh",
+      "description": "📣 这篇文章最初出现在 ReedBarger.com 上。 让我们来看看五个React库，它们能让我们的生活变得更美好。",
+      "title": "2021年你应该使用的5个React库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "📣 這篇文章最初出現在 ReedBarger.com 上。 讓我們來看看五個React庫，它們能讓我們的生活變得更美好。",
+      "title": "2021年你應該使用的5個React庫"
+    }
+  ]
 }
