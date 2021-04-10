@@ -51,5 +51,17 @@
   "original_created_at": "2021-03-24T20:46:29Z",
   "image": "https://dev.to/social_previews/article/644752.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "我在CodeNewbie社区上看到一个很棒的帖子。          \"Self-studying 101: Advice From a S...",
+      "title": "CodeNewbie社区的自学建议"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我在CodeNewbie社區上看到一個很棒的帖子。          \"Self-studying 101: Advice From a S...",
+      "title": "CodeNewbie社區的自學建議"
+    }
+  ]
 }
