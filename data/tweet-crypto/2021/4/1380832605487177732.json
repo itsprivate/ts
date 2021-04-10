@@ -188,5 +188,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Sat Apr 10 10:38:42 +0000 2021"
+  "original_created_at": "Sat Apr 10 10:38:42 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "#bitcoin going for gold ($10T market cap) https://t.co/BvUpDHX5Fu"
+    },
+    {
+      "locale": "zh",
+      "full_text": "#比特币要去买黄金（10T市值）https://t.co/BvUpDHX5Fu。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "#比特幣要去買黃金（10T市值）https://t.co/BvUpDHX5Fu。"
+    }
+  ]
 }
