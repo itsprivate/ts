@@ -87,5 +87,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-10T07:05:05Z"
+  "original_createdAt": "2021-04-10T07:05:05Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "XAgoは、最後に散髪したのはいつだったか、野菜を食べたのはいつだったか、家に電話したのはいつだったか、映画を見たのはいつだったか、Product Huntに投稿したのはいつだったか、などを思い出すのに役立つシンプルなiPhoneアプリケーションです。",
+      "tagline": "最後に見たのはいつでしたか..."
+    },
+    {
+      "locale": "zh",
+      "description": "XAgo是一款简单的iPhone应用，它可以帮助你记住上一次理发、吃素、打电话回家、看电影或在Product Hunt上发帖是什么时候。",
+      "tagline": "跟踪你最后一次... ..."
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "XAgo是一款簡單的iPhone應用，它可以幫助你記住上一次理髮、喫素、打電話回家、看電影或在Product Hunt上發帖是什麼時候。",
+      "tagline": "跟蹤你最後一次... ..."
+    }
+  ]
 }
