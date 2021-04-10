@@ -40,5 +40,22 @@
   "original_created_at": "2021-04-07T19:47:38Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uXQD77R6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aq71u2r19cc9gg9j7w3y.png",
   "author": "Raunaq ",
-  "author_url": "https://dev.to/raunaqchawhan"
+  "author_url": "https://dev.to/raunaqchawhan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに この記事では、git stashコマンドとその使い方について説明します。私たちは...",
+      "title": "git stash - コミットされていない変更点を保存しておき、後で作業することができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "简介 在本篇文章中，我们将介绍git stash命令及其用法。我们来看看...",
+      "title": "git stash - 将您未提交的变更存储在一边，以便以后再做。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介 在本篇文章中，我們將介紹git stash命令及其用法。我們來看看...",
+      "title": "git stash - 將您未提交的變更存儲在一邊，以便以後再做。"
+    }
+  ]
 }
