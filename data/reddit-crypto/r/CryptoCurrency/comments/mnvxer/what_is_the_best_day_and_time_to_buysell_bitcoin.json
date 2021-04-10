@@ -1,0 +1,212 @@
+{
+  "approved_at_utc": null,
+  "subreddit": "CryptoCurrency",
+  "selftext": "I have always heard that the best time to buy bitcoin for a Dollar Cost Avg strategy was on Monday's. I wanted to check this for myself so I ran a back test.\n\nUsing data from Sep 2020 through April 2021, here are my takeaways:\n\n1. The best day to buy bitcoin is actually on **Sunday** at \\~9pm or 1pm EST\n2. The best day to sell bitcoin is on **Saturday** at \\~7am and and 3pm EST\n3. If you build a strategy that buys on Sunday and sells on Saturday, it does **NOT** beat buy and hold however buying on Sunday's will give you a lower cost basis.\n4. I published this analysis to [https://easyupload.io/w2258w](https://easyupload.io/w2258w) for anyone interested in the data\n\nThe first pivot table shows the count of day and time for the 31 weeks between Sep 2020 and April where the price was smallest during the week while the second pivot table shows where the price was largest during the week.\n\nhttps://preview.redd.it/lt8q9krc79s61.png?width=1784&format=png&auto=webp&s=3bd4724bd76d645ea61a8aaa6919495827db32db",
+  "author_fullname": "t2_4nwfa",
+  "saved": false,
+  "mod_reason_title": null,
+  "gilded": 0,
+  "clicked": false,
+  "title": "What is the best day and time to buy/sell Bitcoin? I ran a backtest to find out",
+  "link_flair_richtext": [
+    {
+      "e": "text",
+      "t": "METRICS"
+    }
+  ],
+  "subreddit_name_prefixed": "r/CryptoCurrency",
+  "hidden": false,
+  "pwls": 6,
+  "link_flair_css_class": "METRICS",
+  "downs": 0,
+  "thumbnail_height": 78,
+  "top_awarded_type": null,
+  "hide_score": false,
+  "media_metadata": {
+    "lt8q9krc79s61": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 60,
+          "x": 108,
+          "u": "https://preview.redd.it/lt8q9krc79s61.png?width=108&crop=smart&auto=webp&s=3eaf74f9dfb8182b51d7e44866032829327922e0"
+        },
+        {
+          "y": 120,
+          "x": 216,
+          "u": "https://preview.redd.it/lt8q9krc79s61.png?width=216&crop=smart&auto=webp&s=e3fd93663ce80892386a7245d2fba38e7871b4ce"
+        },
+        {
+          "y": 178,
+          "x": 320,
+          "u": "https://preview.redd.it/lt8q9krc79s61.png?width=320&crop=smart&auto=webp&s=3d79bad2bb7bdc37864bc5cb39177b78a18a342e"
+        },
+        {
+          "y": 356,
+          "x": 640,
+          "u": "https://preview.redd.it/lt8q9krc79s61.png?width=640&crop=smart&auto=webp&s=169f6a5fa7bbd086ed07985b433839a73a2d9f96"
+        },
+        {
+          "y": 534,
+          "x": 960,
+          "u": "https://preview.redd.it/lt8q9krc79s61.png?width=960&crop=smart&auto=webp&s=aeb22454f58deaf70e89bfe7198f7e1aae151c73"
+        },
+        {
+          "y": 601,
+          "x": 1080,
+          "u": "https://preview.redd.it/lt8q9krc79s61.png?width=1080&crop=smart&auto=webp&s=7d764e192af3628be6538fa47dddc2922377b285"
+        }
+      ],
+      "s": {
+        "y": 994,
+        "x": 1784,
+        "u": "https://preview.redd.it/lt8q9krc79s61.png?width=1784&format=png&auto=webp&s=3bd4724bd76d645ea61a8aaa6919495827db32db"
+      },
+      "id": "lt8q9krc79s61"
+    }
+  },
+  "name": "t3_mnvxer",
+  "quarantine": false,
+  "link_flair_text_color": "dark",
+  "upvote_ratio": 0.96,
+  "author_flair_background_color": null,
+  "subreddit_type": "public",
+  "ups": 160,
+  "total_awards_received": 7,
+  "media_embed": {},
+  "thumbnail_width": 140,
+  "author_flair_template_id": "38521cf8-291e-11e5-aaf3-0ee61c357d3b",
+  "is_original_content": false,
+  "user_reports": [],
+  "secure_media": null,
+  "is_reddit_media_domain": false,
+  "is_meta": false,
+  "category": null,
+  "secure_media_embed": {},
+  "link_flair_text": "METRICS",
+  "can_mod_post": false,
+  "score": 160,
+  "approved_by": null,
+  "author_premium": false,
+  "thumbnail": "https://b.thumbs.redditmedia.com/AGQ9FEv7jFROHykFHsbbLnGoYeY5sljaV-R5ENkc1hU.jpg",
+  "edited": 1618026447,
+  "author_flair_css_class": "Bitcoin",
+  "author_flair_richtext": [
+    {
+      "e": "text",
+      "t": "Gold | QC: BTC 35, ETH 25, CC 17 | TraderSubs 16"
+    }
+  ],
+  "gildings": {
+    "gid_1": 1
+  },
+  "post_hint": "self",
+  "content_categories": null,
+  "is_self": true,
+  "mod_note": null,
+  "created": 1618049424,
+  "link_flair_type": "richtext",
+  "wls": 6,
+  "removed_by_category": null,
+  "banned_by": null,
+  "author_flair_type": "richtext",
+  "domain": "self.CryptoCurrency",
+  "allow_live_comments": true,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>I have always heard that the best time to buy bitcoin for a Dollar Cost Avg strategy was on Monday&#39;s. I wanted to check this for myself so I ran a back test.</p>\n\n<p>Using data from Sep 2020 through April 2021, here are my takeaways:</p>\n\n<ol>\n<li>The best day to buy bitcoin is actually on <strong>Sunday</strong> at ~9pm or 1pm EST</li>\n<li>The best day to sell bitcoin is on <strong>Saturday</strong> at ~7am and and 3pm EST</li>\n<li>If you build a strategy that buys on Sunday and sells on Saturday, it does <strong>NOT</strong> beat buy and hold however buying on Sunday&#39;s will give you a lower cost basis.</li>\n<li>I published this analysis to <a href=\"https://easyupload.io/w2258w\">https://easyupload.io/w2258w</a> for anyone interested in the data</li>\n</ol>\n\n<p>The first pivot table shows the count of day and time for the 31 weeks between Sep 2020 and April where the price was smallest during the week while the second pivot table shows where the price was largest during the week.</p>\n\n<p><a href=\"https://preview.redd.it/lt8q9krc79s61.png?width=1784&amp;format=png&amp;auto=webp&amp;s=3bd4724bd76d645ea61a8aaa6919495827db32db\">https://preview.redd.it/lt8q9krc79s61.png?width=1784&amp;format=png&amp;auto=webp&amp;s=3bd4724bd76d645ea61a8aaa6919495827db32db</a></p>\n</div><!-- SC_ON -->",
+  "likes": null,
+  "suggested_sort": null,
+  "banned_at_utc": null,
+  "view_count": null,
+  "archived": false,
+  "no_follow": false,
+  "is_crosspostable": false,
+  "pinned": false,
+  "over_18": false,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/0nAMDxmwj7DLXLXsLQAvw-QPcobp_zIYwBC0yFW7cGM.png?auto=webp&s=e98f6e1359056b639d7d282dd23c6eaf40330f2f",
+          "width": 1784,
+          "height": 994
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/0nAMDxmwj7DLXLXsLQAvw-QPcobp_zIYwBC0yFW7cGM.png?width=108&crop=smart&auto=webp&s=33015ba2dccbb9c247af7e4fb013d632a2fbf3a1",
+            "width": 108,
+            "height": 60
+          },
+          {
+            "url": "https://external-preview.redd.it/0nAMDxmwj7DLXLXsLQAvw-QPcobp_zIYwBC0yFW7cGM.png?width=216&crop=smart&auto=webp&s=20bd9f75b2d25f40b67709be89973fddfa5964a7",
+            "width": 216,
+            "height": 120
+          },
+          {
+            "url": "https://external-preview.redd.it/0nAMDxmwj7DLXLXsLQAvw-QPcobp_zIYwBC0yFW7cGM.png?width=320&crop=smart&auto=webp&s=036c972568b92a848b41a18a6ee2911fd5da91e4",
+            "width": 320,
+            "height": 178
+          },
+          {
+            "url": "https://external-preview.redd.it/0nAMDxmwj7DLXLXsLQAvw-QPcobp_zIYwBC0yFW7cGM.png?width=640&crop=smart&auto=webp&s=eb037c156db77b0e15e5d6df01050725c4d4f1f1",
+            "width": 640,
+            "height": 356
+          },
+          {
+            "url": "https://external-preview.redd.it/0nAMDxmwj7DLXLXsLQAvw-QPcobp_zIYwBC0yFW7cGM.png?width=960&crop=smart&auto=webp&s=970c6973c47b83c5ca55b23d3ed3ad3740da374c",
+            "width": 960,
+            "height": 534
+          },
+          {
+            "url": "https://external-preview.redd.it/0nAMDxmwj7DLXLXsLQAvw-QPcobp_zIYwBC0yFW7cGM.png?width=1080&crop=smart&auto=webp&s=b0d8e090cb9951efe63bf0d84cddb7393d1587e2",
+            "width": 1080,
+            "height": 601
+          }
+        ],
+        "variants": {},
+        "id": "AwocZsSEIULLvOnPLA09-s7m4K2EguoMwt6iM7A_oNs"
+      }
+    ],
+    "enabled": false
+  },
+  "awarders": [],
+  "media_only": false,
+  "link_flair_template_id": "87049662-0882-11e5-82e1-0e9d1a9f7761",
+  "can_gild": false,
+  "spoiler": false,
+  "locked": false,
+  "author_flair_text": "Gold | QC: BTC 35, ETH 25, CC 17 | TraderSubs 16",
+  "treatment_tags": [],
+  "visited": false,
+  "removed_by": null,
+  "num_reports": null,
+  "distinguished": null,
+  "subreddit_id": "t5_2wlj3",
+  "mod_reason_by": null,
+  "removal_reason": null,
+  "link_flair_background_color": "",
+  "id": "mnvxer",
+  "is_robot_indexable": true,
+  "report_reasons": null,
+  "author": "ibelite",
+  "discussion_type": null,
+  "num_comments": 61,
+  "send_replies": true,
+  "whitelist_status": "all_ads",
+  "contest_mode": false,
+  "mod_reports": [],
+  "author_patreon_flair": false,
+  "author_flair_text_color": "dark",
+  "permalink": "/r/CryptoCurrency/comments/mnvxer/what_is_the_best_day_and_time_to_buysell_bitcoin/",
+  "parent_whitelist_status": "all_ads",
+  "stickied": false,
+  "url": "https://www.reddit.com/r/CryptoCurrency/comments/mnvxer/what_is_the_best_day_and_time_to_buysell_bitcoin/",
+  "subreddit_subscribers": 2061424,
+  "created_utc": 1618047029,
+  "num_crossposts": 0,
+  "media": null,
+  "is_video": false,
+  "original_created_utc": 1618020624,
+  "the_new_excerpt": "I have always heard that the best time to buy bitcoin for a Dollar Cost Avg\nstrategy was on Monday's. I wanted to check this for myself so I ran a back\ntest.\n\nUsing data from Sep 2020 through April 2021, here are my takeaways:\n\n 1. The best day to buy bitcoin is actually on Sunday at ~9pm or 1pm…"
+}
