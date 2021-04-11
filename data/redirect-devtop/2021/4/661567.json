@@ -42,5 +42,22 @@
   "original_created_at": "2021-04-11T01:13:09Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MlPgrTB6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7l2rsy2z6cy8hr2p8jjc.png",
   "author": "Piyush Sinha",
-  "author_url": "https://dev.to/sinhapiyush"
+  "author_url": "https://dev.to/sinhapiyush",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "現代のWeb開発には、開発者が考慮しなければならない様々な課題があります。例えば、p...",
+      "title": "フロントエンドセキュリティ"
+    },
+    {
+      "locale": "zh",
+      "description": "现代Web开发伴随着各种挑战，开发人员必须考虑，如P... ...",
+      "title": "前端安全"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "現代Web開發伴隨着各種挑戰，開發人員必須考慮，如P... ...",
+      "title": "前端安全"
+    }
+  ]
 }
