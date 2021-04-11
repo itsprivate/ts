@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-10T03:46:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--t-gDHHhm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h6a3puq1ckr63xu3krr2.jpeg",
   "author": "Rithik Samanthula",
-  "author_url": "https://dev.to/code2rithik"
+  "author_url": "https://dev.to/code2rithik",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "テキストエディタをこのように変更したい。   これに。   ここでは、8つのVSCodeテーマを紹介します。",
+      "title": "Visual Studio Codeのための8つのRadテーマ"
+    },
+    {
+      "locale": "zh",
+      "description": "想让你的把你的文本编辑器从这个。   改成这样    这里有八个激进的VSCode主题，你可以...",
+      "title": "8个Rad主题的Visual Studio代码"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "想讓你的把你的文本編輯器從這個。   改成這樣    這裏有八個激進的VSCode主題，你可以...",
+      "title": "8個Rad主題的Visual Studio代碼"
+    }
+  ]
 }
