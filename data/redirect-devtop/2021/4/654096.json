@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-03T12:01:03Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qRH4sief--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nu8u1kx7viam03j8ym9r.jpg",
   "author": "Dalibor Belic",
-  "author_url": "https://dev.to/daliboru"
+  "author_url": "https://dev.to/daliboru",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "GraphQLは、API内のデータを読み込んだり、変更したりするためのクエリ言語です。これが終わると、あなたは...",
+      "title": "GraphQLとは？"
+    },
+    {
+      "locale": "zh",
+      "description": "GraphQL是一种用于在API中读取和突变数据的查询语言，在本课程结束时，您将会了解...",
+      "title": "什么是GraphQL？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "GraphQL是一種用於在API中讀取和突變數據的查詢語言，在本課程結束時，您將會了解...",
+      "title": "什麼是GraphQL？"
+    }
+  ]
 }
