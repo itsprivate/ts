@@ -49,5 +49,22 @@
   "original_created_at": "2021-04-08T20:22:18Z",
   "image": "https://dev.to/social_previews/article/659311.png",
   "author": "Jay McDoniel",
-  "author_url": "https://dev.to/jmcdo29"
+  "author_url": "https://dev.to/jmcdo29",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "NestJSコアチームのメンバーであるJayは、主にDiscordやGithubでコミュニティを支援しています。",
+      "title": "nest-commanderの紹介"
+    },
+    {
+      "locale": "zh",
+      "description": "Jay是NestJS核心团队的成员，主要是在Discord和Github上为社区提供帮助。",
+      "title": "巢穴指挥官介绍"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Jay是NestJS核心團隊的成員，主要是在Discord和Github上爲社區提供幫助。",
+      "title": "巢穴指揮官介紹"
+    }
+  ]
 }
