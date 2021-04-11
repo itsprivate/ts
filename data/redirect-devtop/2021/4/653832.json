@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-03T04:01:45Z",
   "image": "https://dev.to/social_previews/article/653832.png",
   "author": "Tapajyoti Bose",
-  "author_url": "https://dev.to/ruppysuppy"
+  "author_url": "https://dev.to/ruppysuppy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "AOSとは？  フロントエンドの開発者として、クライアントからよく聞かれるのが「...",
+      "title": "AOS（Animate on Scroll）で究極のユーザーエクスペリエンスを実現する"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是AOS？  作为前端开发，你可能会从你的客户那里得到一个流行的要求是... ...",
+      "title": "使用AOS（滚动动画）创建终极用户体验。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是AOS？  作爲前端開發，你可能會從你的客戶那裏得到一個流行的要求是... ...",
+      "title": "使用AOS（滾動動畫）創建終極用戶體驗。"
+    }
+  ]
 }
