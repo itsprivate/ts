@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-04-10T21:09:00.000Z",
-  "image": "https://wewatchapp.xyz/img/feature.PNG"
+  "image": "https://wewatchapp.xyz/img/feature.PNG",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "大切な人のためにモバイルアプリを作ったのに、使ってもらえない"
+    },
+    {
+      "locale": "zh",
+      "title": "我为我的另一半做了一个手机应用，她却不肯用了。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我爲我的另一半做了一個手機應用，她卻不肯用了。"
+    }
+  ]
 }
