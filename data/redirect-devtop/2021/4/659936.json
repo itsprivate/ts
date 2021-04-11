@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-09T09:26:28Z",
   "image": "https://dev.to/social_previews/article/659936.png",
   "author": "Ján Regeš",
-  "author_url": "https://dev.to/janreges"
+  "author_url": "https://dev.to/janreges",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "トラフィックの多いプロジェクトで、大量の静的ファイルを配信する必要がある場合、これほど便利なものはありません。",
+      "title": "CDNの構築方法（1/3）：導入と基本コンポーネント"
+    },
+    {
+      "locale": "zh",
+      "description": "如果您的项目具有高流量，并且您需要交付大量的静态文件，那么就没有什么比这更容易了。",
+      "title": "如何构建CDN（1/3）：介绍和基本组件。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果您的項目具有高流量，並且您需要交付大量的靜態文件，那麼就沒有什麼比這更容易了。",
+      "title": "如何構建CDN（1/3）：介紹和基本組件。"
+    }
+  ]
 }
