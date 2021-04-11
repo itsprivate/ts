@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-10T09:56:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NdQ-lBY6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qjtl153ptrolcd8wek7d.jpg",
   "author": "Johannes Scharlach",
-  "author_url": "https://dev.to/johannes_scha"
+  "author_url": "https://dev.to/johannes_scha",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私は、Reactの世界、Node.jsの世界で起こっていることになんとか触れてきましたし、k...",
+      "title": "最新の情報を得るために"
+    },
+    {
+      "locale": "zh",
+      "description": "我设法保持与React世界、Node.js世界发生的事情保持联系，同时也了解到...",
+      "title": "我如何保持最新状态"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我設法保持與React世界、Node.js世界發生的事情保持聯繫，同時也瞭解到...",
+      "title": "我如何保持最新狀態"
+    }
+  ]
 }
