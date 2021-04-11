@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-04T07:45:29Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VFCX54MD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c8f0i3zogoqs7za4hixb.jpg",
   "author": "Rahul Nayak",
-  "author_url": "https://dev.to/pragyes31"
+  "author_url": "https://dev.to/pragyes31",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Webアプリケーションの30％がXSSの脆弱性を抱えている。 出典はこちら Acunetix 脆弱性レポート 2019 当社のデ...",
+      "title": "クッキーの盗難やクロスサイトスクリプティングからウェブサイトを保護する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "三成Web应用易受XSS攻击。 来源 Acunetix漏洞报告2019 我们的部署...",
+      "title": "如何保护你的网站，防止Cookie被盗和跨站点脚本攻击"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "三成Web應用易受XSS攻擊。 來源 Acunetix漏洞報告2019 我們的部署...",
+      "title": "如何保護你的網站，防止Cookie被盜和跨站點腳本攻擊"
+    }
+  ]
 }
