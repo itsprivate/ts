@@ -14,5 +14,19 @@
   "tags": [
     "The New York Times"
   ],
-  "image": "https://static01.nyt.com/images/2021/04/11/world/11myanmar-1sub/11myanmar-1sub-facebookJumbo.jpg"
+  "image": "https://static01.nyt.com/images/2021/04/11/world/11myanmar-1sub/11myanmar-1sub-facebookJumbo.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "抗議と殺戮が続くミャンマー"
+    },
+    {
+      "locale": "zh",
+      "title": "缅甸的抗议和杀戮仍在继续。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "緬甸的抗議和殺戮仍在繼續。"
+    }
+  ]
 }
