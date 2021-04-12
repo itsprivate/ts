@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-10T23:56:14Z",
   "image": "https://dev.to/social_previews/article/661558.png",
   "author": "Alessandro",
-  "author_url": "https://dev.to/dieman"
+  "author_url": "https://dev.to/dieman",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ここでは、iTerm2のインストールや接続など、当然ながらオプションの手順もあることを覚えておいてください。",
+      "title": "私のMacのセットアップ方法"
+    },
+    {
+      "locale": "zh",
+      "description": "请记住：其中一些步骤当然是可选的，如iTerm2的安装和调试。",
+      "title": "我如何设置我的Mac"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "請記住：其中一些步驟當然是可選的，如iTerm2的安裝和調試。",
+      "title": "我如何設置我的Mac"
+    }
+  ]
 }
