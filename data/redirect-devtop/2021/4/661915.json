@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-11T10:55:55Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_9Fs55IW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/32bmf6vi6qz0ew1xccos.png",
   "author": "Salma Alam-Naylor",
-  "author_url": "https://dev.to/whitep4nth3r"
+  "author_url": "https://dev.to/whitep4nth3r",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ここ数週間、私はTwitでライブ配信されているランダムコードジェネレーターを作るのがとても楽しかったです。",
+      "title": "ES6でノードモジュールを構築、テスト、リリースする方法"
+    },
+    {
+      "locale": "zh",
+      "description": "在过去的几个星期里，我有难以置信的乐趣，建立随机代码生成器在Twit上直播... ...",
+      "title": "如何在ES6中构建、测试和发布一个node模块？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在過去的幾個星期裏，我有難以置信的樂趣，建立隨機代碼生成器在Twit上直播... ...",
+      "title": "如何在ES6中構建、測試和發佈一個node模塊？"
+    }
+  ]
 }
