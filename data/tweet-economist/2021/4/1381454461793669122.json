@@ -112,5 +112,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Mon Apr 12 03:49:44 +0000 2021"
+  "original_created_at": "Mon Apr 12 03:49:44 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "最近まで、中国ではオオカミは害虫とみなされていました https://t.co/BFhOH9KVPM"
+    },
+    {
+      "locale": "zh",
+      "full_text": "直到最近，狼在中国还被视为一种害虫https://t.co/BFhOH9KVPM。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "直到最近，狼在中國還被視爲一種害蟲https://t.co/BFhOH9KVPM。"
+    }
+  ]
 }
