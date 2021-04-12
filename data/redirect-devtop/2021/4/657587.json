@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-07T10:13:35Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FHfKveEJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cy30ufd18lsrm45ji5pw.jpg",
   "author": "Maureen ",
-  "author_url": "https://dev.to/maureenoldyck"
+  "author_url": "https://dev.to/maureenoldyck",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私が担当していたプロジェクトでは、ユーザーがプロフィール写真を変更できるように画像をアップロードしたいと考えていました。",
+      "title": "React、ExpressJS、mySQLを使った画像のアップロード"
+    },
+    {
+      "locale": "zh",
+      "description": "在我正在进行的一个项目中，我们希望上传图片，以便用户可以更改他们的个人资料图片。",
+      "title": "用React、ExpressJS和mySQL上传图片。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在我正在進行的一個項目中，我們希望上傳圖片，以便用戶可以更改他們的個人資料圖片。",
+      "title": "用React、ExpressJS和mySQL上傳圖片。"
+    }
+  ]
 }
