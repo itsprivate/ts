@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-10T11:22:33Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kuY8EBrD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u4tnzcdwvsr17jlpqsa4.jpeg",
   "author": "Neha Gupta",
-  "author_url": "https://dev.to/nayyyhaa"
+  "author_url": "https://dev.to/nayyyhaa",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "シェイクスピアは天才だったかもしれませんが、一つだけ確かなことは、彼は私たちの言葉を話していなかったということです。彼のエ...",
+      "title": "JavaScript Fetch APIで独自のシェイクスピア翻訳ウェブアプリを作る"
+    },
+    {
+      "locale": "zh",
+      "description": "莎士比亚也许是个天才，但有一点是肯定的：他不说我们的语言。他的进化...",
+      "title": "使用JavaScript Fetch API构建自己的莎士比亚翻译网络应用。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "莎士比亞也許是個天才，但有一點是肯定的：他不說我們的語言。他的進化...",
+      "title": "使用JavaScript Fetch API構建自己的莎士比亞翻譯網絡應用。"
+    }
+  ]
 }
