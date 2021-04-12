@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-11T12:10:17Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_6_97JCW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ye3yf7b068cgl2w7w94u.png",
   "author": "Nikhil Bobade ",
-  "author_url": "https://dev.to/nikhil27b"
+  "author_url": "https://dev.to/nikhil27b",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、今日はCSS &amp; JSでシンプルなadd-to-cartのアニメーションを作りました。このようなアニメーションを作ることができました。",
+      "title": "CSSとJSによるシンプルなカート追加アニメーション"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，今天我创建了一个简单的添加到购物车的动画与CSS＆amp; JS。不是伟大的工作，但我希望哟...",
+      "title": "使用CSS和JS的简单添加到购物车的动画"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，今天我創建了一個簡單的添加到購物車的動畫與CSS＆amp; JS。不是偉大的工作，但我希望喲...",
+      "title": "使用CSS和JS的簡單添加到購物車的動畫"
+    }
+  ]
 }
