@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-11T16:16:17Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--evfzKsMG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ve5vbqcsqfdi6g0mcop5.png",
   "author": "Manten Devillé",
-  "author_url": "https://dev.to/vicible2"
+  "author_url": "https://dev.to/vicible2",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近のプロジェクトでは、上下にスクロールすると画像が回転するものを入れたいと思いました。その結果...",
+      "title": "スクロール時にオブジェクトをアニメーションさせる"
+    },
+    {
+      "locale": "zh",
+      "description": "在最近的一个项目中，我想加入一个当你向上或向下滚动时可以旋转的图像。在做了...",
+      "title": "在滚动中为对象添加动画"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在最近的一個項目中，我想加入一個當你向上或向下滾動時可以旋轉的圖像。在做了...",
+      "title": "在滾動中爲對象添加動畫"
+    }
+  ]
 }
