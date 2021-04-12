@@ -285,5 +285,22 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Mon Apr 12 18:12:22 +0000 2021"
+  "original_created_at": "Mon Apr 12 18:12:22 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @opencryptoorg: 本日、COPAは、Craig Wright氏が著作権の所有者ではないことを宣言するよう英国高等裁判所に求める訴訟を開始しました...",
+      "retweeted_status_full_text": "本日、COPAは、Craig Wright氏がビットコイン白書の著作権所有権を有していないことを宣言するよう、英国高等裁判所に求める訴訟を開始しました。我々は、ビットコイン開発者コミュニティや、白書をホストしていることで脅迫されている多くの人々を支援するために立ち上がった。https://t.co/QNDEq3H6Oq"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @opencryptoorg。今天，COPA发起了一项诉讼，要求英国高等法院宣布克雷格-赖特先生没有版权所有者...",
+      "retweeted_status_full_text": "今天，COPA发起诉讼，要求英国高等法院宣布Craig Wright先生对《比特币白皮书》不拥有版权所有权。我们支持比特币开发者社区和其他许多因托管白皮书而受到威胁的人。https://t.co/QNDEq3H6Oq。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @opencryptoorg。今天，COPA發起了一項訴訟，要求英國高等法院宣佈克雷格-賴特先生沒有版權所有者...",
+      "retweeted_status_full_text": "今天，COPA發起訴訟，要求英國高等法院宣佈Craig Wright先生對《比特幣白皮書》不擁有版權所有權。我們支持比特幣開發者社區和其他許多因託管白皮書而受到威脅的人。https://t.co/QNDEq3H6Oq。"
+    }
+  ]
 }
