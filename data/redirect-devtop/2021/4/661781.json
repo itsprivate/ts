@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-11T07:48:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lKwoRoZm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m5bg3xfjpja8u41lsywu.jpg",
   "author": "Peter",
-  "author_url": "https://dev.to/peterlunch"
+  "author_url": "https://dev.to/peterlunch",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これは私が長い間書こうと思っていた記事で、元々は私のブログで公開していたものです。",
+      "title": "プログラミングプロジェクトの計画と構築方法 - 初心者のための合法的なガイド"
+    },
+    {
+      "locale": "zh",
+      "description": "这是我想了很久要写的一篇文章，我最初发表在我的博客上，在...",
+      "title": "如何规划和建立一个编程项目--初学者的合法指南。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是我想了很久要寫的一篇文章，我最初發表在我的博客上，在...",
+      "title": "如何規劃和建立一個編程項目--初學者的合法指南。"
+    }
+  ]
 }
