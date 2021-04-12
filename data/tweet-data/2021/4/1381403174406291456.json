@@ -91,5 +91,19 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Mon Apr 12 00:25:56 +0000 2021"
+  "original_created_at": "Mon Apr 12 00:25:56 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "中国：中国疾病管理センター所長、同国のコロナウィルス・ワクチンは「防御率があまり高くない」と発言"
+    },
+    {
+      "locale": "zh",
+      "full_text": "中国：中国疾病控制中心主任称中国的冠状病毒疫苗 \"保护率不高"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "中國：中國疾病控制中心主任稱中國的冠狀病毒疫苗 \"保護率不高"
+    }
+  ]
 }

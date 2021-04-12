@@ -49,5 +49,22 @@
   "original_created_at": "2021-04-09T21:02:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IuHMFoE1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://inhu.co/demos/inhu-launch/img/countdown-holder/countdown853929782.gif",
   "author": "InHuOfficial",
-  "author_url": "https://dev.to/inhuofficial"
+  "author_url": "https://dev.to/inhuofficial",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "GIF用の画像シーケンスを作成するためのシンプルなユーティリティクラスをPHPで作成し、GIFチュートリアルを作成する。",
+      "title": "JS...もCSS...もHTMLも一切使わずにカウントダウンタイマーを作ってみた😲? [tutorial on dynamic GIFs for email marketing] (英語)"
+    },
+    {
+      "locale": "zh",
+      "description": "在PHP中创建一个简单的工具类，为GIF创建图像序列，并创建一个GIF教程。",
+      "title": "我在没有使用任何JS...或CSS...或HTML的情况下建立了一个倒计时计时器😲？[电子邮件营销的动态GIF教程] 。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在PHP中創建一個簡單的工具類，爲GIF創建圖像序列，並創建一個GIF教程。",
+      "title": "我在沒有使用任何JS...或CSS...或HTML的情況下建立了一個倒計時計時器😲？[電子郵件營銷的動態GIF教程] 。"
+    }
+  ]
 }
