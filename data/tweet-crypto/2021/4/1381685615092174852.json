@@ -225,5 +225,22 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Mon Apr 12 19:08:15 +0000 2021"
+  "original_created_at": "Mon Apr 12 19:08:15 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @jimcramer: ビットコインで払ってくれ！！。",
+      "retweeted_status_full_text": "ビットコインで支払ってください!"
+    },
+    {
+      "locale": "zh",
+      "full_text": "",
+      "retweeted_status_full_text": "用比特币付给我！!"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "",
+      "retweeted_status_full_text": "用比特幣付給我！!"
+    }
+  ]
 }
