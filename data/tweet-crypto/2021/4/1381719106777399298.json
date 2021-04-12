@@ -222,5 +222,22 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Mon Apr 12 21:21:20 +0000 2021"
+  "original_created_at": "Mon Apr 12 21:21:20 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @tyler: 世界には40,000社以上の上場企業があります。その中で #ビットコイン をバランスシートに載せているのは32社だけです。まだまだ、これからですね。",
+      "retweeted_status_full_text": "世界には40,000社以上の上場企業があります。そのうち、#ビットコインをバランスシートに載せているのは32社だけです。まだかなり早いですね。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @tyler：世界上有超过4万家上市公司。其中只有32家公司的资产负债表上有#比特币#. 它仍然是q...",
+      "retweeted_status_full_text": "世界上有超过4万家上市公司。其中只有32家公司的资产负债表上有#比特币。现在还很早。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @tyler：世界上有超過4萬家上市公司。其中只有32家公司的資產負債表上有#比特幣#. 它仍然是q...",
+      "retweeted_status_full_text": "世界上有超過4萬家上市公司。其中只有32家公司的資產負債表上有#比特幣。現在還很早。"
+    }
+  ]
 }
