@@ -118,5 +118,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-12T07:35:28Z"
+  "original_createdAt": "2021-04-12T07:35:28Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Waveは、Laravelで構築された究極のSoftware as a Serviceスターターキットです。バージョン2が書き直され、オープンソース化されました。このプロジェクトでは、記録的な速さで独自のSoftware as a Serviceを作成することができます🚀。",
+      "tagline": "オープンソースのSoftware as a Serviceスターターキット"
+    },
+    {
+      "locale": "zh",
+      "description": "Wave是用Laravel构建的终极软件即服务启动包。第二版已经重新编写并开源. 这个项目将允许你在创纪录的时间内创建自己的软件即服务。",
+      "tagline": "开放源码软件即服务启动包"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Wave是用Laravel構建的終極軟件即服務啓動包。第二版已經重新編寫並開源. 這個項目將允許你在創紀錄的時間內創建自己的軟件即服務。",
+      "tagline": "開放源碼軟件即服務啓動包"
+    }
+  ]
 }
