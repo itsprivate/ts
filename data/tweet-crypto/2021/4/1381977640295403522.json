@@ -338,5 +338,22 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Tue Apr 13 14:28:40 +0000 2021"
+  "original_created_at": "Tue Apr 13 14:28:40 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "M1マネーサプライが#bitcoinを下回る国は185カ国にのぼり、すべてが米ドルの価値の低下に苦しんでいる。もしも... https://t.co/FwtbxZ14G0",
+      "quoted_status_full_text": "ビットコインは、M1マネーサプライの観点から、世界の通貨のトップ10に入りました。https://t.co/4NpuhR1rSS https://t.co/nx2lYS1x6I"
+    },
+    {
+      "locale": "zh",
+      "full_text": "185个国家的M1货币供应量低于#比特币......都受到美元贬值的影响。如果... https://t.co/FwtbxZ14G0",
+      "quoted_status_full_text": "从M1货币供应量来看，比特币已经进入全球十大货币行列。https://t.co/4NpuhR1rSS https://t.co/nx2lYS1x6I。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "185個國家的M1貨幣供應量低於#比特幣......都受到美元貶值的影響。如果... https://t.co/FwtbxZ14G0",
+      "quoted_status_full_text": "從M1貨幣供應量來看，比特幣已經進入全球十大貨幣行列。https://t.co/4NpuhR1rSS https://t.co/nx2lYS1x6I。"
+    }
+  ]
 }
