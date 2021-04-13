@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-13T07:01:00Z"
+  "original_createdAt": "2021-04-13T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "SourceryはあなたのPythonコードを瞬時にレビューし、リファクタリングを行い、よりクリーンで読みやすいコードにします。まるでペアのプログラマーが常に隣で作業しているようなものです。PyCharm, VS Code, GitHub reposに1分でインストールできます。無料でご利用いただけます。",
+      "tagline": "Grammarly for code"
+    },
+    {
+      "locale": "zh",
+      "description": "Sourcery会立即审查你的Python代码，并对其进行重构，使其变得更干净、更可读。这就像有一对程序员总是在你身边工作。1分钟内安装到PyCharm、VS Code或你的GitHub仓库中。它是免费的",
+      "tagline": "代码的Grammarly"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Sourcery會立即審查你的Python代碼，並對其進行重構，使其變得更乾淨、更可讀。這就像有一對程序員總是在你身邊工作。1分鐘內安裝到PyCharm、VS Code或你的GitHub倉庫中。它是免費的",
+      "tagline": "代碼的Grammarly"
+    }
+  ]
 }
