@@ -1,0 +1,223 @@
+{
+  "approved_at_utc": null,
+  "subreddit": "wallstreetbets",
+  "selftext": "Hey Guys!\n\nOn   March 26th DFV made a few tweets that didn't seem to make sense.    Recently I found out about some stuff that I wanted to share and that I   think DFV was referencing.\n\nHere DFV tweeted the old Flash Gordon logo: [https://twitter.com/TheRoaringKitty/status/1375511751748247552](https://twitter.com/TheRoaringKitty/status/1375511751748247552)\n\nThen followed up with a cat tweet: [https://twitter.com/TheRoaringKitty/status/1375538164425756673](https://twitter.com/TheRoaringKitty/status/1375538164425756673)\n\nHere is the wikipedia article for the IEX (Investors Exchange): [https://en.wikipedia.org/wiki/IEX](https://en.wikipedia.org/wiki/IEX)\n\nThis exchange purports to be an exchange that is friendly to retail investors.\n\n\" IEX's main innovation is a 38-mile (61 km) coil of [optical fiber](https://en.wikipedia.org/wiki/Optical_fiber)placed in front of its trading engine. This 350 microsecond delay  adds  a  round-trip delay of 0.0007 seconds and is designed to negate  the   certain speed advantages utilized by some high-frequency traders.\"\n\nAdditionally they created the D-Limit Order to fight High Frequency Traders: [https://iextrading.com/alerts/?gclid=Cj0KCQjw38-DBhDpARIsADJ3kjkUf1YX2kUVNxyJ9ED4TMT-MwhzOcEl1yFsggqUlbU1ZC3WDQDMFsgaAtuMEALw\\_wcB#/121](https://iextrading.com/alerts/?gclid=Cj0KCQjw38-DBhDpARIsADJ3kjkUf1YX2kUVNxyJ9ED4TMT-MwhzOcEl1yFsggqUlbU1ZC3WDQDMFsgaAtuMEALw_wcB#/121)\n\nTL;DR;\n\nI think DFV was saying that by switching to the IEX we could fight Citadel's high frequency trading strategy.\n\nDFV tweeted Flash Gordon a possible reference to the IEX as detailed in   [*Flash Boys: A Wall Street Revolt*](https://en.wikipedia.org/wiki/Flash_Boys:_A_Wall_Street_Revolt) by Michael Lewis\n\nDFV tweeted a cat slapping a drone, which is a possible reference to a Robotic or Trading Algo.\n\n&#x200B;\n\nhttps://preview.redd.it/nkjcvav0ous61.png?width=1285&format=png&auto=webp&s=fa09121d0963cc389ff7ae47f517f24fa60b4178\n\nNot trying to piss you off mods.  I got deleted once because I marked it DD, hoping that I got it right this time.\n\n&#x200B;\n\nedit 1:  A responder of a cross post gave me this link: [https://iextrading.com/trading/](https://iextrading.com/trading/), it lists brokerages that will send trades to them. Thanks u/TabrisSeele!\n\n&#x200B;\n\nedit 2:  Great info by u/loldavelol!\n\nTDAmeritrade offers Direct Order  Routing to the Exchanges. \"Direct Access,\" as TDA calls it, allows you  to select a routing destination for your stock or options order.\n\n**It is a feature that must be enabled. It is disabled by default.**\n\nWhen disabled, all orders on TDA are submitted via [\\[\"Smart Routing\"\\]](https://www.tdameritrade.com/tools-and-platforms/order-execution.page), listed at the bottom of the page:\n\n>Execution quality statistics provided by S3 Matching Technologies\n\nWhich, if is the same S3 that reports SI, was recently learned to be owned by Citadel [\\[1\\]](https://www.reddit.com/r/GME/comments/me2xrj/the_s3_partners_ownership_rabbithole/) & [\\[2\\]](https://old.reddit.com/r/Superstonk/comments/mo2811/let_me_tell_you_the_tale_of_s3_partners_a/)\n\nOnce  Direct Routing is Enabled, this allows users to circumvent Kenny G from  poaching orders by routing orders directly to the exchange floor via  IEX, instead of through Citadel and NYSE/ARCA.\n\nThe downsides:\n\n* Orders may not get the best pricing (pennies on the share, TDA quotes savings $1.27 per 100 shares)\n* Might be more susceptible to partial fills (IE: $135 for 10 might fill for 3 until 7 more are found).\n* IEX is also only available during regular market hours, so no access to AM/PM trading.\n\nUnfortunately, on TDA, IEX orders have to be submitted from the Stock Buy/Sell Screen and cant be routed from SnapTicket.\n\n**Conclusion:**\n\nIf GME buyers started routing orders from their brokers through IEX then we would ~~apply massive buying pressure to the share price away from the NYSE flow that Citadel Controls~~ bypass Citadel as the MM.\n\nBonus, Citadel sued the SEC after approving IEX as a pathway to the stock market. [\\[1\\]](https://www.google.com/search?q=citadel+iex&rlz=1C1GCEU_enUS821US821&oq=&aqs=chrome.2.69i59i450l8.564081j0j7&sourceid=chrome&ie=UTF-8)\n\n>*“The  SEC failed to properly consider the costs and burdens imposed by this  proposal that will undermine the reliability of our markets and harm  tens of millions of retail investors,” a Citadel Securities spokeswoman  said in an email on Friday.*\n\nSounds like IEX is a threat to Citadel's position as an NYSE DMM.\n\n&#x200B;\n\nedit 3: Thanks! u/Bot_snot  Fidelity doesn't allow IEX, but pick another one, their default option goes through Dark Pools.\n\ntried to look it up. Looks like it’s  “directed trading”? I don’t see this exchange as an option though. I’ll  look in ATP when market opens. The feature isn’t available to even poke  around after hours.\n\nYou can click “directed trading” here: [https://www.fidelity.com/products/atbt/help/ActiveTraderTools\\_Trade\\_Help.html](https://www.fidelity.com/products/atbt/help/ActiveTraderTools_Trade_Help.html)\n\nI found this [https://www.fidelity.com/products/atbt/help/ActiveTraderTools\\_Trade\\_Help.html#availableroutes](https://www.fidelity.com/products/atbt/help/ActiveTraderTools_Trade_Help.html#availableroutes)\n\nNot so good, Fidelity might be using Dark Pools as one of their default routes.\n\n&#x200B;\n\nedit: Thanks u/ [OG\\_simple\\_rhyme\\_time](https://www.reddit.com/user/OG_simple_rhyme_time)  ROUTE YOUR ORDERS, DON'T GO DEFAULT!\n\nThis is from an article from one of the DDs from yesterday that appeared in 2015, who knows how bad its got since then:\n\n\"In Connect, Citadel makes active retail orders it has bought from  retail brokerages available to institutional investors and other firms.\n\nVery few stock orders that retail investors place with their brokers,  such as Charles Schwab Corp, TD Ameritrade, or Fidelity, go through  public stock exchanges, such as Intercontinental Exchange Inc’s New York  Stock Exchange. Instead, the brokers send the orders to other brokerage  firms like Citadel, or KCG Holdings, which trade against the incoming  orders, and then send the leftovers to other internalizers, dark pools,  or as a last resort, exchanges.\n\nBy doing this, the retail brokers not only avoid paying fees to the  exchanges for active orders, but actually receive payments and trading  rebates from the off-exchange trading venues.\"\n\nAll the brokers we think are clean, are doing all of retail very dirty. GLE\n\n&#x200B;\n\nedit:  THANKS! u/LMD_AU\n\nIBKR - Reroute your buy orders to IEX Exchange - in  order entry go to advanced - top left corner under \"Destination\"\n\nedit: THANKS!   [u/5tgAp3KWpPIEItHtLIVB](https://www.reddit.com/user/5tgAp3KWpPIEItHtLIVB/)\n\nI just checked IBKR, you can't \"manually\" route trades through the  smartphone app, but you can when you use the full \"trader  workstation/TWS\" application on PC.\n\n&#x200B;\n\nedit: THANKS! u/cisconate\n\nHey guys, for schwab you need to use streetsmart edge so that you can switch away from smart routing.",
+  "author_fullname": "t2_11gj0g",
+  "saved": false,
+  "mod_reason_title": null,
+  "gilded": 2,
+  "clicked": false,
+  "title": "A possible way to avoid Dark Pools",
+  "link_flair_richtext": [
+    {
+      "e": "text",
+      "t": "Discussion"
+    }
+  ],
+  "subreddit_name_prefixed": "r/wallstreetbets",
+  "hidden": false,
+  "pwls": 7,
+  "link_flair_css_class": "question",
+  "downs": 0,
+  "thumbnail_height": 140,
+  "top_awarded_type": null,
+  "hide_score": false,
+  "media_metadata": {
+    "nkjcvav0ous61": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 28,
+          "x": 108,
+          "u": "https://preview.redd.it/nkjcvav0ous61.png?width=108&crop=smart&auto=webp&s=d7095e845367ce7e59e3320e840dc5cc1e8fd0da"
+        },
+        {
+          "y": 57,
+          "x": 216,
+          "u": "https://preview.redd.it/nkjcvav0ous61.png?width=216&crop=smart&auto=webp&s=6da06050b302685278c079b86a32240ef2856558"
+        },
+        {
+          "y": 84,
+          "x": 320,
+          "u": "https://preview.redd.it/nkjcvav0ous61.png?width=320&crop=smart&auto=webp&s=43da0b08e0eedad2cd84919d16be1caabb7c66aa"
+        },
+        {
+          "y": 169,
+          "x": 640,
+          "u": "https://preview.redd.it/nkjcvav0ous61.png?width=640&crop=smart&auto=webp&s=9941b48e4d85377ec92066185ca93564ee892f17"
+        },
+        {
+          "y": 254,
+          "x": 960,
+          "u": "https://preview.redd.it/nkjcvav0ous61.png?width=960&crop=smart&auto=webp&s=439977f03b44d2f75364a51edda6fd74c54eaeb4"
+        },
+        {
+          "y": 285,
+          "x": 1080,
+          "u": "https://preview.redd.it/nkjcvav0ous61.png?width=1080&crop=smart&auto=webp&s=87de702495234d6b8c8da4a61200f0ff7c81af68"
+        }
+      ],
+      "s": {
+        "y": 340,
+        "x": 1285,
+        "u": "https://preview.redd.it/nkjcvav0ous61.png?width=1285&format=png&auto=webp&s=fa09121d0963cc389ff7ae47f517f24fa60b4178"
+      },
+      "id": "nkjcvav0ous61"
+    }
+  },
+  "name": "t3_mpsyyn",
+  "quarantine": false,
+  "link_flair_text_color": "light",
+  "upvote_ratio": 0.96,
+  "author_flair_background_color": null,
+  "subreddit_type": "public",
+  "ups": 1236,
+  "total_awards_received": 18,
+  "media_embed": {
+    "content": "<blockquote class=\"twitter-video\"><p lang=\"und\" dir=\"ltr\"><a href=\"https://t.co/TlhvTsgdfQ\">pic.twitter.com/TlhvTsgdfQ</a></p>&mdash; Roaring Kitty (@TheRoaringKitty) <a href=\"https://twitter.com/TheRoaringKitty/status/1375511751748247552?ref_src=twsrc%5Etfw\">March 26, 2021</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+    "width": 350,
+    "scrolling": false,
+    "height": 200
+  },
+  "thumbnail_width": 140,
+  "author_flair_template_id": null,
+  "is_original_content": false,
+  "user_reports": [],
+  "secure_media": {
+    "oembed": {
+      "provider_url": "https://twitter.com",
+      "url": "https://twitter.com/TheRoaringKitty/status/1375511751748247552",
+      "html": "<blockquote class=\"twitter-video\"><p lang=\"und\" dir=\"ltr\"><a href=\"https://t.co/TlhvTsgdfQ\">pic.twitter.com/TlhvTsgdfQ</a></p>&mdash; Roaring Kitty (@TheRoaringKitty) <a href=\"https://twitter.com/TheRoaringKitty/status/1375511751748247552?ref_src=twsrc%5Etfw\">March 26, 2021</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+      "author_name": "Roaring Kitty",
+      "height": null,
+      "width": 350,
+      "version": "1.0",
+      "author_url": "https://twitter.com/TheRoaringKitty",
+      "provider_name": "Twitter",
+      "cache_age": 3153600000,
+      "type": "rich"
+    },
+    "type": "twitter.com"
+  },
+  "is_reddit_media_domain": false,
+  "is_meta": false,
+  "category": null,
+  "secure_media_embed": {
+    "content": "<blockquote class=\"twitter-video\"><p lang=\"und\" dir=\"ltr\"><a href=\"https://t.co/TlhvTsgdfQ\">pic.twitter.com/TlhvTsgdfQ</a></p>&mdash; Roaring Kitty (@TheRoaringKitty) <a href=\"https://twitter.com/TheRoaringKitty/status/1375511751748247552?ref_src=twsrc%5Etfw\">March 26, 2021</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+    "width": 350,
+    "scrolling": false,
+    "media_domain_url": "https://www.redditmedia.com/mediaembed/mpsyyn",
+    "height": 200
+  },
+  "link_flair_text": "Discussion",
+  "can_mod_post": false,
+  "score": 1236,
+  "approved_by": null,
+  "author_premium": true,
+  "thumbnail": "https://b.thumbs.redditmedia.com/Xk7mD9firt0KUv4wkKZ9xDKVaEDVkI2boHqstSbYrAM.jpg",
+  "edited": 1618317492,
+  "author_flair_css_class": null,
+  "author_flair_richtext": [],
+  "gildings": {
+    "gid_2": 2
+  },
+  "post_hint": "self",
+  "content_categories": null,
+  "is_self": true,
+  "mod_note": null,
+  "created": 1618308916,
+  "link_flair_type": "richtext",
+  "wls": 7,
+  "removed_by_category": null,
+  "banned_by": null,
+  "author_flair_type": "text",
+  "domain": "self.wallstreetbets",
+  "allow_live_comments": true,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Hey Guys!</p>\n\n<p>On   March 26th DFV made a few tweets that didn&#39;t seem to make sense.    Recently I found out about some stuff that I wanted to share and that I   think DFV was referencing.</p>\n\n<p>Here DFV tweeted the old Flash Gordon logo: <a href=\"https://twitter.com/TheRoaringKitty/status/1375511751748247552\">https://twitter.com/TheRoaringKitty/status/1375511751748247552</a></p>\n\n<p>Then followed up with a cat tweet: <a href=\"https://twitter.com/TheRoaringKitty/status/1375538164425756673\">https://twitter.com/TheRoaringKitty/status/1375538164425756673</a></p>\n\n<p>Here is the wikipedia article for the IEX (Investors Exchange): <a href=\"https://en.wikipedia.org/wiki/IEX\">https://en.wikipedia.org/wiki/IEX</a></p>\n\n<p>This exchange purports to be an exchange that is friendly to retail investors.</p>\n\n<p>&quot; IEX&#39;s main innovation is a 38-mile (61 km) coil of <a href=\"https://en.wikipedia.org/wiki/Optical_fiber\">optical fiber</a>placed in front of its trading engine. This 350 microsecond delay  adds  a  round-trip delay of 0.0007 seconds and is designed to negate  the   certain speed advantages utilized by some high-frequency traders.&quot;</p>\n\n<p>Additionally they created the D-Limit Order to fight High Frequency Traders: <a href=\"https://iextrading.com/alerts/?gclid=Cj0KCQjw38-DBhDpARIsADJ3kjkUf1YX2kUVNxyJ9ED4TMT-MwhzOcEl1yFsggqUlbU1ZC3WDQDMFsgaAtuMEALw_wcB#/121\">https://iextrading.com/alerts/?gclid=Cj0KCQjw38-DBhDpARIsADJ3kjkUf1YX2kUVNxyJ9ED4TMT-MwhzOcEl1yFsggqUlbU1ZC3WDQDMFsgaAtuMEALw_wcB#/121</a></p>\n\n<p>TL;DR;</p>\n\n<p>I think DFV was saying that by switching to the IEX we could fight Citadel&#39;s high frequency trading strategy.</p>\n\n<p>DFV tweeted Flash Gordon a possible reference to the IEX as detailed in   <a href=\"https://en.wikipedia.org/wiki/Flash_Boys:_A_Wall_Street_Revolt\"><em>Flash Boys: A Wall Street Revolt</em></a> by Michael Lewis</p>\n\n<p>DFV tweeted a cat slapping a drone, which is a possible reference to a Robotic or Trading Algo.</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/nkjcvav0ous61.png?width=1285&amp;format=png&amp;auto=webp&amp;s=fa09121d0963cc389ff7ae47f517f24fa60b4178\">https://preview.redd.it/nkjcvav0ous61.png?width=1285&amp;format=png&amp;auto=webp&amp;s=fa09121d0963cc389ff7ae47f517f24fa60b4178</a></p>\n\n<p>Not trying to piss you off mods.  I got deleted once because I marked it DD, hoping that I got it right this time.</p>\n\n<p>&#x200B;</p>\n\n<p>edit 1:  A responder of a cross post gave me this link: <a href=\"https://iextrading.com/trading/\">https://iextrading.com/trading/</a>, it lists brokerages that will send trades to them. Thanks <a href=\"/u/TabrisSeele\">u/TabrisSeele</a>!</p>\n\n<p>&#x200B;</p>\n\n<p>edit 2:  Great info by <a href=\"/u/loldavelol\">u/loldavelol</a>!</p>\n\n<p>TDAmeritrade offers Direct Order  Routing to the Exchanges. &quot;Direct Access,&quot; as TDA calls it, allows you  to select a routing destination for your stock or options order.</p>\n\n<p><strong>It is a feature that must be enabled. It is disabled by default.</strong></p>\n\n<p>When disabled, all orders on TDA are submitted via <a href=\"https://www.tdameritrade.com/tools-and-platforms/order-execution.page\">[&quot;Smart Routing&quot;]</a>, listed at the bottom of the page:</p>\n\n<blockquote>\n<p>Execution quality statistics provided by S3 Matching Technologies</p>\n</blockquote>\n\n<p>Which, if is the same S3 that reports SI, was recently learned to be owned by Citadel <a href=\"https://www.reddit.com/r/GME/comments/me2xrj/the_s3_partners_ownership_rabbithole/\">[1]</a> &amp; <a href=\"https://old.reddit.com/r/Superstonk/comments/mo2811/let_me_tell_you_the_tale_of_s3_partners_a/\">[2]</a></p>\n\n<p>Once  Direct Routing is Enabled, this allows users to circumvent Kenny G from  poaching orders by routing orders directly to the exchange floor via  IEX, instead of through Citadel and NYSE/ARCA.</p>\n\n<p>The downsides:</p>\n\n<ul>\n<li>Orders may not get the best pricing (pennies on the share, TDA quotes savings $1.27 per 100 shares)</li>\n<li>Might be more susceptible to partial fills (IE: $135 for 10 might fill for 3 until 7 more are found).</li>\n<li>IEX is also only available during regular market hours, so no access to AM/PM trading.</li>\n</ul>\n\n<p>Unfortunately, on TDA, IEX orders have to be submitted from the Stock Buy/Sell Screen and cant be routed from SnapTicket.</p>\n\n<p><strong>Conclusion:</strong></p>\n\n<p>If GME buyers started routing orders from their brokers through IEX then we would <del>apply massive buying pressure to the share price away from the NYSE flow that Citadel Controls</del> bypass Citadel as the MM.</p>\n\n<p>Bonus, Citadel sued the SEC after approving IEX as a pathway to the stock market. <a href=\"https://www.google.com/search?q=citadel+iex&amp;rlz=1C1GCEU_enUS821US821&amp;oq=&amp;aqs=chrome.2.69i59i450l8.564081j0j7&amp;sourceid=chrome&amp;ie=UTF-8\">[1]</a></p>\n\n<blockquote>\n<p><em>“The  SEC failed to properly consider the costs and burdens imposed by this  proposal that will undermine the reliability of our markets and harm  tens of millions of retail investors,” a Citadel Securities spokeswoman  said in an email on Friday.</em></p>\n</blockquote>\n\n<p>Sounds like IEX is a threat to Citadel&#39;s position as an NYSE DMM.</p>\n\n<p>&#x200B;</p>\n\n<p>edit 3: Thanks! <a href=\"/u/Bot_snot\">u/Bot_snot</a>  Fidelity doesn&#39;t allow IEX, but pick another one, their default option goes through Dark Pools.</p>\n\n<p>tried to look it up. Looks like it’s  “directed trading”? I don’t see this exchange as an option though. I’ll  look in ATP when market opens. The feature isn’t available to even poke  around after hours.</p>\n\n<p>You can click “directed trading” here: <a href=\"https://www.fidelity.com/products/atbt/help/ActiveTraderTools_Trade_Help.html\">https://www.fidelity.com/products/atbt/help/ActiveTraderTools_Trade_Help.html</a></p>\n\n<p>I found this <a href=\"https://www.fidelity.com/products/atbt/help/ActiveTraderTools_Trade_Help.html#availableroutes\">https://www.fidelity.com/products/atbt/help/ActiveTraderTools_Trade_Help.html#availableroutes</a></p>\n\n<p>Not so good, Fidelity might be using Dark Pools as one of their default routes.</p>\n\n<p>&#x200B;</p>\n\n<p>edit: Thanks u/ <a href=\"https://www.reddit.com/user/OG_simple_rhyme_time\">OG_simple_rhyme_time</a>  ROUTE YOUR ORDERS, DON&#39;T GO DEFAULT!</p>\n\n<p>This is from an article from one of the DDs from yesterday that appeared in 2015, who knows how bad its got since then:</p>\n\n<p>&quot;In Connect, Citadel makes active retail orders it has bought from  retail brokerages available to institutional investors and other firms.</p>\n\n<p>Very few stock orders that retail investors place with their brokers,  such as Charles Schwab Corp, TD Ameritrade, or Fidelity, go through  public stock exchanges, such as Intercontinental Exchange Inc’s New York  Stock Exchange. Instead, the brokers send the orders to other brokerage  firms like Citadel, or KCG Holdings, which trade against the incoming  orders, and then send the leftovers to other internalizers, dark pools,  or as a last resort, exchanges.</p>\n\n<p>By doing this, the retail brokers not only avoid paying fees to the  exchanges for active orders, but actually receive payments and trading  rebates from the off-exchange trading venues.&quot;</p>\n\n<p>All the brokers we think are clean, are doing all of retail very dirty. GLE</p>\n\n<p>&#x200B;</p>\n\n<p>edit:  THANKS! <a href=\"/u/LMD_AU\">u/LMD_AU</a></p>\n\n<p>IBKR - Reroute your buy orders to IEX Exchange - in  order entry go to advanced - top left corner under &quot;Destination&quot;</p>\n\n<p>edit: THANKS!   <a href=\"https://www.reddit.com/user/5tgAp3KWpPIEItHtLIVB/\">u/5tgAp3KWpPIEItHtLIVB</a></p>\n\n<p>I just checked IBKR, you can&#39;t &quot;manually&quot; route trades through the  smartphone app, but you can when you use the full &quot;trader  workstation/TWS&quot; application on PC.</p>\n\n<p>&#x200B;</p>\n\n<p>edit: THANKS! <a href=\"/u/cisconate\">u/cisconate</a></p>\n\n<p>Hey guys, for schwab you need to use streetsmart edge so that you can switch away from smart routing.</p>\n</div><!-- SC_ON -->",
+  "likes": null,
+  "suggested_sort": "confidence",
+  "banned_at_utc": null,
+  "view_count": null,
+  "archived": false,
+  "no_follow": false,
+  "is_crosspostable": false,
+  "pinned": false,
+  "over_18": false,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/KIrS7g3MFNNrtnoGZAMzaAa6LxH88JnnzjDYAVshwCU.jpg?auto=webp&s=89a4acf8e4047bd3ea15060b4d131275cc54dc17",
+          "width": 140,
+          "height": 140
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/KIrS7g3MFNNrtnoGZAMzaAa6LxH88JnnzjDYAVshwCU.jpg?width=108&crop=smart&auto=webp&s=56a46c3592492228e66414e265cf39634fc71606",
+            "width": 108,
+            "height": 108
+          }
+        ],
+        "variants": {},
+        "id": "KATNtxFhmGW67Nlui4ALPvoN1DIVb_COg4tms-seaKI"
+      }
+    ],
+    "enabled": false
+  },
+  "awarders": [],
+  "media_only": false,
+  "link_flair_template_id": "96f6c79e-b853-11e5-a4cb-0ebdf030e05d",
+  "can_gild": false,
+  "spoiler": false,
+  "locked": false,
+  "author_flair_text": null,
+  "treatment_tags": [],
+  "visited": false,
+  "removed_by": null,
+  "num_reports": null,
+  "distinguished": null,
+  "subreddit_id": "t5_2th52",
+  "mod_reason_by": null,
+  "removal_reason": null,
+  "link_flair_background_color": "#800080",
+  "id": "mpsyyn",
+  "is_robot_indexable": true,
+  "report_reasons": null,
+  "author": "Syvaeren",
+  "discussion_type": null,
+  "num_comments": 196,
+  "send_replies": true,
+  "whitelist_status": "some_ads",
+  "contest_mode": false,
+  "mod_reports": [],
+  "author_patreon_flair": false,
+  "author_flair_text_color": null,
+  "permalink": "/r/wallstreetbets/comments/mpsyyn/a_possible_way_to_avoid_dark_pools/",
+  "parent_whitelist_status": "some_ads",
+  "stickied": false,
+  "url": "https://www.reddit.com/r/wallstreetbets/comments/mpsyyn/a_possible_way_to_avoid_dark_pools/",
+  "subreddit_subscribers": 9773380,
+  "created_utc": 1618317664,
+  "num_crossposts": 8,
+  "media": {
+    "oembed": {
+      "provider_url": "https://twitter.com",
+      "url": "https://twitter.com/TheRoaringKitty/status/1375511751748247552",
+      "html": "<blockquote class=\"twitter-video\"><p lang=\"und\" dir=\"ltr\"><a href=\"https://t.co/TlhvTsgdfQ\">pic.twitter.com/TlhvTsgdfQ</a></p>&mdash; Roaring Kitty (@TheRoaringKitty) <a href=\"https://twitter.com/TheRoaringKitty/status/1375511751748247552?ref_src=twsrc%5Etfw\">March 26, 2021</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+      "author_name": "Roaring Kitty",
+      "height": null,
+      "width": 350,
+      "version": "1.0",
+      "author_url": "https://twitter.com/TheRoaringKitty",
+      "provider_name": "Twitter",
+      "cache_age": 3153600000,
+      "type": "rich"
+    },
+    "type": "twitter.com"
+  },
+  "is_video": false,
+  "original_created_utc": 1618280116,
+  "the_new_excerpt": "Hey Guys!\n\nOn March 26th DFV made a few tweets that didn't seem to make sense. Recently I\nfound out about some stuff that I wanted to share and that I think DFV was\nreferencing.\n\nHere DFV tweeted the old Flash Gordon logo:\nhttps://twitter.com/TheRoaringKitty/status/1375511751748247552\n\nThen followed…"
+}
