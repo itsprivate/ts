@@ -49,5 +49,22 @@
   "original_created_at": "2021-04-11T10:15:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DUu_08kk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g08rhccy0bn0vqnaciqq.jpg",
   "author": "Paul Isaris",
-  "author_url": "https://dev.to/pavlosisaris"
+  "author_url": "https://dev.to/pavlosisaris",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "PHP 8のリリースとその機能についての考えについての投稿",
+      "title": "PHP 8 Is here! 正しい方向への一歩ですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "一篇关于 PHP 8 发行版的文章以及对其功能的看法。",
+      "title": "PHP 8来了! 方向正确的一步？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一篇關於 PHP 8 發行版的文章以及對其功能的看法。",
+      "title": "PHP 8來了! 方向正確的一步？"
+    }
+  ]
 }

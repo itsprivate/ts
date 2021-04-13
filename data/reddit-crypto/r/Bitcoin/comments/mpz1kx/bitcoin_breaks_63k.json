@@ -103,5 +103,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1618307497,
-  "the_new_excerpt": "The highest I've seen so far is $63,305!"
+  "the_new_excerpt": "The highest I've seen so far is $63,305!",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "これまでに見た最高額は63,305ドル!",
+      "title": "ビットコインが63kドルを突破!"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "目前我看到的最高价是63305元!",
+      "title": "比特币突破6.3万美元!"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "目前我看到的最高價是63305元!",
+      "title": "比特幣突破6.3萬美元!"
+    }
+  ]
 }
