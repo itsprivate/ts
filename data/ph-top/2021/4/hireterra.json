@@ -88,5 +88,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-13T07:10:00Z"
+  "original_createdAt": "2021-04-13T07:10:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Hireterraは、アメリカで転職を考えているITプロフェッショナルのための、慎重かつ非公開の多様な転職プラットフォームです。",
+      "tagline": "米国のITプロフェッショナルのための匿名の求人検索プラットフォーム"
+    },
+    {
+      "locale": "zh",
+      "description": "Hireterra是一个谨慎的、私密的、多样化的求职平台，为在美国寻找职业变化的IT专业人士提供服务。",
+      "tagline": "美国IT专业人士匿名求职平台。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Hireterra是一個謹慎的、私密的、多樣化的求職平臺，爲在美國尋找職業變化的IT專業人士提供服務。",
+      "tagline": "美國IT專業人士匿名求職平臺。"
+    }
+  ]
 }
