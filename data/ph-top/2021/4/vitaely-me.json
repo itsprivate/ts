@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-13T13:30:00Z"
+  "original_createdAt": "2021-04-13T13:30:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Vitaely.meでは、LinkedInアカウントのデータを同期することで、わずか2分で自分だけのランディングページを作成することができます。",
+      "tagline": "LinkedInプロフィールをランディングページに"
+    },
+    {
+      "locale": "zh",
+      "description": "Vitaely.me通过同步LinkedIn账户的数据，让你在两分钟内就能创建自己的个人登陆页面。",
+      "tagline": "把你的LinkedIn资料变成一个登陆页"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Vitaely.me通過同步LinkedIn賬戶的數據，讓你在兩分鐘內就能創建自己的個人登陸頁面。",
+      "tagline": "把你的LinkedIn資料變成一個登陸頁"
+    }
+  ]
 }
