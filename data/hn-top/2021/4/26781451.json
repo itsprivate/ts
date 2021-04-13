@@ -38,5 +38,19 @@
     }
   },
   "original_created_at": "2021-04-12T16:32:38.000Z",
-  "image": "https://volmarg.github.io/img/logo.png"
+  "image": "https://volmarg.github.io/img/logo.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "HNを表示：個人情報管理ダッシュボード"
+    },
+    {
+      "locale": "zh",
+      "title": "显示HN：个人数据管理仪表板"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "顯示HN：個人數據管理儀表板"
+    }
+  ]
 }
