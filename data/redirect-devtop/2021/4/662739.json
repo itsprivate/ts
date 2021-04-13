@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-12T07:23:50Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xTHV2PUf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://since1979.dev/wp-content/uploads/2021/04/small-css-tips-014.jpg",
   "author": "Stephan Nijman",
-  "author_url": "https://dev.to/vanaf1979"
+  "author_url": "https://dev.to/vanaf1979",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "毎日、小さなCSSのヒントをつぶやくようにしています。ここでは、その一部をご紹介します。",
+      "title": "Cssのちょっとしたコツ #014"
+    },
+    {
+      "locale": "zh",
+      "description": "我每天都会试着推送一个css小技巧。下面是其中一些的集合。",
+      "title": "一些小的Css技巧#014"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我每天都會試着推送一個css小技巧。下面是其中一些的集合。",
+      "title": "一些小的Css技巧#014"
+    }
+  ]
 }
