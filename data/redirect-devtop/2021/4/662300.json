@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-11T19:37:27Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Jg7pSkLL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4hzw03d7f66tqtfxtp6w.jpg",
   "author": "CodeOzz",
-  "author_url": "https://dev.to/codeozz"
+  "author_url": "https://dev.to/codeozz",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは！少し前に、新しいコンピュータで新しい開発環境を始めたので、すべてを再インストールする必要がありました...",
+      "title": "Web開発者のための基本設定"
+    },
+    {
+      "locale": "zh",
+      "description": "嘿！前段时间我在新的电脑上启动了一个新的开发环境，所以我需要重新安装所有...",
+      "title": "Web开发人员的基本设置"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嘿！前段時間我在新的電腦上啓動了一個新的開發環境，所以我需要重新安裝所有...",
+      "title": "Web開發人員的基本設置"
+    }
+  ]
 }
