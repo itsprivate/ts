@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-04-13T11:37:51.000Z",
-  "image": "https://image.jimcdn.com/app/cms/image/transf/none/path/s9044904ce8b43c5c/image/i39e552938bd0ec33/version/1505721195/image.jpg"
+  "image": "https://image.jimcdn.com/app/cms/image/transf/none/path/s9044904ce8b43c5c/image/i39e552938bd0ec33/version/1505721195/image.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "I2Cバスには何台のデバイスを接続できますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "您可以将多少个设备连接到I2C总线上？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "您可以將多少個設備連接到I2C總線上？"
+    }
+  ]
 }
