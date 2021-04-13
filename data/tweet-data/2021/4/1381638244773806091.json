@@ -91,5 +91,19 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Mon Apr 12 16:00:01 +0000 2021"
+  "original_created_at": "Mon Apr 12 16:00:01 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "アンゲラ・メルケルがドイツの首相になってからの米国の歴代大統領\n\n- ジョージ・W・ブッシュ\n- バラク・オバマ\n- ドナルド・トランプ\n- ジョー・バイデン"
+    },
+    {
+      "locale": "zh",
+      "full_text": "默克尔出任德国总理以来的美国总统。\n\n- 乔治-W-布什\n- 奥巴马\n- 唐纳德-特朗普\n- 乔-拜登"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "默克爾出任德國總理以來的美國總統。\n\n- 喬治-W-布什\n- 奧巴馬\n- 唐納德-特朗普\n- 喬-拜登"
+    }
+  ]
 }
