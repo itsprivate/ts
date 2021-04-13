@@ -54,5 +54,22 @@
   "original_created_at": "2021-04-12T12:05:24Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s---rgUxEGb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vagwqru8dba8pp324lvd.png",
   "author": "Sarthak Sharma",
-  "author_url": "https://dev.to/sarthology"
+  "author_url": "https://dev.to/sarthology",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "故障後の起動は不可能？",
+      "title": "人生の失敗から立ち直るには？"
+    },
+    {
+      "locale": "zh",
+      "description": "失败后启动似乎是不可能的，试试这个",
+      "title": "人生失败后如何挽回？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "失敗後啓動似乎是不可能的，試試這個",
+      "title": "人生失敗後如何挽回？"
+    }
+  ]
 }
