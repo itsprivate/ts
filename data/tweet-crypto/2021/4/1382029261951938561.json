@@ -217,5 +217,22 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Tue Apr 13 17:53:47 +0000 2021"
+  "original_created_at": "Tue Apr 13 17:53:47 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @MichaelJMorell: この研究が、イノベーターと政策立案者の間で、透明で事実に基づく対話を進めるための一助となることを願っています。",
+      "retweeted_status_full_text": "この研究が、革新的な技術の採用を妨げることなく国家安全保障を維持するために、イノベーターと政策立案者の間で透明で事実に基づく対話を進める一助となることを願っています。\n https://t.co/m7wawVVPcV"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT@MichaelJMorell：我希望这项研究将有助于推动创新者和政策制定者之间的透明和基于事实的对话，以帮助实现创新。",
+      "retweeted_status_full_text": "我希望这项研究将有助于推动创新者和政策制定者之间的透明和基于事实的对话，以帮助确保我们在维护国家安全的同时，不妨碍采用潜在的革命性技术。\n https://t.co/m7wawVVPcV"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT@MichaelJMorell：我希望這項研究將有助於推動創新者和政策制定者之間的透明和基於事實的對話，以幫助實現創新。",
+      "retweeted_status_full_text": "我希望這項研究將有助於推動創新者和政策制定者之間的透明和基於事實的對話，以幫助確保我們在維護國家安全的同時，不妨礙採用潛在的革命性技術。\n https://t.co/m7wawVVPcV"
+    }
+  ]
 }
