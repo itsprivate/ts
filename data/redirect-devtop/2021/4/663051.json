@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-12T14:00:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--B247QGYv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://reedbarger.com/content/images/2021/03/make-your-react-apps-responsive-with-a-custom-hook.png",
   "author": "Reed Barger",
-  "author_url": "https://dev.to/reedbarger"
+  "author_url": "https://dev.to/reedbarger",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事はReedBarger.comに掲載されたものです。 どのようにしてReactアプリケーションを応答性の高いものにしているのでしょうか...",
+      "title": "カスタムフックでReactアプリをレスポンシブにする"
+    },
+    {
+      "locale": "zh",
+      "description": "📣 这篇文章最初出现在ReedBarger.com上。 如何让你的React应用响应速度快？",
+      "title": "使用自定义钩子让你的React应用响应起来"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "📣 這篇文章最初出現在ReedBarger.com上。 如何讓你的React應用響應速度快？",
+      "title": "使用自定義鉤子讓你的React應用響應起來"
+    }
+  ]
 }
