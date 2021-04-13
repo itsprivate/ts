@@ -103,5 +103,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1618301848,
-  "the_new_excerpt": "Well done everyone!"
+  "the_new_excerpt": "Well done everyone!",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "皆さん、お疲れ様でした。",
+      "title": "NEW ATH!!!!"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "大家都做得很好!",
+      "title": "NEW ATH!!!!"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "大家都做得很好!",
+      "title": "NEW ATH!!!!"
+    }
+  ]
 }
