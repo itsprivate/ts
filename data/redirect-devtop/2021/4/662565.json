@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-12T04:27:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xzR8sckG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3106whyi3i24ld8r7mwm.jpg",
   "author": "Alvaro Montoro",
-  "author_url": "https://dev.to/alvaromontoro"
+  "author_url": "https://dev.to/alvaromontoro",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "週末のプロジェクト：あなたが読んでいる間にJeff Bezosがどれだけ稼いでいるかを計算する小さなWebページ。",
+      "title": "ベゾスの電卓"
+    },
+    {
+      "locale": "zh",
+      "description": "周末项目：一个小网页，计算杰夫-贝佐斯赚了多少钱，而你读它。",
+      "title": "贝佐斯的计算器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "週末項目：一個小網頁，計算傑夫-貝佐斯賺了多少錢，而你讀它。",
+      "title": "貝佐斯的計算器"
+    }
+  ]
 }
