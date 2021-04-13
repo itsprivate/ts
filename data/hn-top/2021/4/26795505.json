@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-04-13T17:08:13.000Z",
-  "image": "https://vivaldi.com/wp-content/uploads/Google_FloC_-Vivaldi_browser.png"
+  "image": "https://vivaldi.com/wp-content/uploads/Google_FloC_-Vivaldi_browser.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Vivaldiブラウザは、GoogleのFLoCをサポートしません。"
+    },
+    {
+      "locale": "zh",
+      "title": "Vivaldi浏览器将不支持谷歌的FLoC。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Vivaldi瀏覽器將不支持谷歌的FLoC。"
+    }
+  ]
 }
