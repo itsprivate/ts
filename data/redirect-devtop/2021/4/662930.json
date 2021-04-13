@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-12T10:56:09Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZY1EK-Eo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bcz1u90oq3prr5fga3fs.png",
   "author": "CodeBucks",
-  "author_url": "https://dev.to/codebucks"
+  "author_url": "https://dev.to/codebucks",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、私が何かを作るのは久しぶりです。私は家庭教師を作れというメッセージをたくさん受け取っていました。",
+      "title": "Reduxとは？簡単に説明します"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，我已经有一段时间没有创建任何东西了。我得到了很多的消息，创建导师... ...",
+      "title": "什么是Redux？简单解释"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，我已經有一段時間沒有創建任何東西了。我得到了很多的消息，創建導師... ...",
+      "title": "什麼是Redux？簡單解釋"
+    }
+  ]
 }
