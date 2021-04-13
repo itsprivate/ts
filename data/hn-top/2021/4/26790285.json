@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-04-13T10:11:51.000Z",
-  "image": "https://natto.dev/twitter.png"
+  "image": "https://natto.dev/twitter.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Natto.dev - JavaScriptのためのキャンバス"
+    },
+    {
+      "locale": "zh",
+      "title": "Natto.dev - JavaScript的画布。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Natto.dev - JavaScript的畫布。"
+    }
+  ]
 }

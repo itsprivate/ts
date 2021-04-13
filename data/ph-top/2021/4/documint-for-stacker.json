@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-13T09:40:43Z"
+  "original_createdAt": "2021-04-13T09:40:43Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Documint integration for Stackerを使用すると、Stackerアプリケーションに強力なドキュメント生成機能を追加することができます。",
+      "tagline": "Stackerでデータからドキュメントを作成"
+    },
+    {
+      "locale": "zh",
+      "description": "使用Stacker的Documint集成为您的Stacker应用程序添加强大的文档生成功能。",
+      "tagline": "在Stacker中直接从您的数据中创建文档"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用Stacker的Documint集成爲您的Stacker應用程序添加強大的文檔生成功能。",
+      "tagline": "在Stacker中直接從您的數據中創建文檔"
+    }
+  ]
 }
