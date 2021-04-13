@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-13T09:42:03Z"
+  "original_createdAt": "2021-04-13T09:42:03Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Cloudflare Pagesは、フロントエンド開発者がコラボレーションしてウェブサイトを展開するためのJAMstackプラットフォームです。",
+      "tagline": "JAMstackプラットフォームは、無料でコラボレーションとデプロイを可能にします。"
+    },
+    {
+      "locale": "zh",
+      "description": "Cloudflare Pages是一个JAMstack平台，供前端开发者协作和部署网站。",
+      "tagline": "JAMstack平台让你免费协作和部署。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Cloudflare Pages是一個JAMstack平臺，供前端開發者協作和部署網站。",
+      "tagline": "JAMstack平臺讓你免費協作和部署。"
+    }
+  ]
 }
