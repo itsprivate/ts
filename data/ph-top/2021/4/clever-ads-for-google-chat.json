@@ -82,5 +82,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-13T11:52:16Z"
+  "original_createdAt": "2021-04-13T11:52:16Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "- Googleチャットボットに指標やグラフを聞いて、PPCキャンペーンの進捗状況を評価 - Facebook広告、Google広告、Microsoft広告を興味に応じてフィルタリングし、そのパフォーマンスを把握 - 近日公開予定 アラート、スケジュールレポート、ヒント",
+      "tagline": "PPCレポートとアラートのためのGoogleチャットボット"
+    },
+    {
+      "locale": "zh",
+      "description": "- 向您的谷歌聊天机器人询问指标和图表，以评估您的PPC活动的进展 - 根据您的兴趣过滤Facebook广告、谷歌广告、微软广告，并在他们的表现中一瞥 - 即将推出。警报，定期报告和提示",
+      "tagline": "用于PPC报告和警报的谷歌聊天机器人。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "- 向您的谷歌聊天機器人詢問指標和圖表，以評估您的PPC活動的進展 - 根據您的興趣過濾Facebook廣告、谷歌廣告、微軟廣告，並在他們的表現中一瞥 - 即將推出。警報，定期報告和提示",
+      "tagline": "用於PPC報告和警報的谷歌聊天機器人。"
+    }
+  ]
 }
