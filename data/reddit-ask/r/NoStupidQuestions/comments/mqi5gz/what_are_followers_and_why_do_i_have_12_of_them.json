@@ -101,5 +101,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1618370336,
-  "the_new_excerpt": "get them off of me I don't wanna be followed"
+  "the_new_excerpt": "get them off of me I don't wanna be followed",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "追いかけられたくないんだ",
+      "title": "フォロワー」とは何か、なぜ私には12人ものフォロワーがいるのか、まるでレディット・ジーザスのようだ。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "把他们从我身上弄走 我不想被人跟踪",
+      "title": "什么是 \"追随者\"，为什么我有12个像某种Reddit耶稣一样的追随者？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "把他們從我身上弄走 我不想被人跟蹤",
+      "title": "什麼是 \"追隨者\"，爲什麼我有12個像某種Reddit耶穌一樣的追隨者？"
+    }
+  ]
 }
