@@ -49,5 +49,22 @@
   "original_created_at": "2021-04-11T12:44:17Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gggnKsIQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wjes2sccpz2gc472pfk1.gif",
   "author": "Vitor Amaral",
-  "author_url": "https://dev.to/vacom"
+  "author_url": "https://dev.to/vacom",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "モバイルタブバーのアニメーション このコードペンは、@amaralflavio（別名、私の弟）が作成したもので、...",
+      "title": "アメイジング・タブ・バー（アニメーション"
+    },
+    {
+      "locale": "zh",
+      "description": "动画移动标签栏 这个CodePen是由@amaralflavio (也就是我的小弟弟)创建的，它显示了。",
+      "title": "惊人的标签栏（动画"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "動畫移動標籤欄 這個CodePen是由@amaralflavio (也就是我的小弟弟)創建的，它顯示了。",
+      "title": "驚人的標籤欄（動畫"
+    }
+  ]
 }
