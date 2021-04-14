@@ -42,5 +42,22 @@
   "original_created_at": "2021-04-10T09:57:27Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qQTF0tvt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uylk3lbh2ovhzui2syuu.jpg",
   "author": "Stephan Meijer",
-  "author_url": "https://dev.to/smeijer"
+  "author_url": "https://dev.to/smeijer",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "関数、ループ、ジェネレータを使って木を歩く",
+      "title": "再帰を扱う3つの方法"
+    },
+    {
+      "locale": "zh",
+      "description": "使用函数、循环或生成器走下一棵树。",
+      "title": "处理递归的三种方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用函數、循環或生成器走下一棵樹。",
+      "title": "處理遞歸的三種方法"
+    }
+  ]
 }
