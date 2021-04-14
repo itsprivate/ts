@@ -49,5 +49,22 @@
   "original_created_at": "2021-04-13T13:16:40Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4JdqZC3R--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wq24wzg1gpa5wwgkhw07.jpg",
   "author": "InHuOfficial",
-  "author_url": "https://dev.to/inhuofficial"
+  "author_url": "https://dev.to/inhuofficial",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "多くの人が「できない」と言っているのを見てきましたが、....well（まだ）できないのです。 しかし、実際に見てみると...",
+      "title": "純粋なCSSのパスワードジェネレータ! 😱 できないと言われても...。"
+    },
+    {
+      "locale": "zh",
+      "description": "我见过很多人说 \"这不可能\"，....，好吧，这不可能（还没有）。 然而在看到...",
+      "title": "一个纯CSS密码生成器! 😱他们说这是不可能的......"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我見過很多人說 \"這不可能\"，....，好吧，這不可能（還沒有）。 然而在看到...",
+      "title": "一個純CSS密碼生成器! 😱他們說這是不可能的......"
+    }
+  ]
 }
