@@ -382,5 +382,22 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Wed Apr 14 12:34:38 +0000 2021"
+  "original_created_at": "Wed Apr 14 12:34:38 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @charliebilello: 世界のインフレ率... https://t.co/CMw5xszq5l",
+      "retweeted_status_full_text": "世界のインフレ率...https://t.co/CMw5xszq5l"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @charliebilello：全球通胀率... https://t.co/CMw5xszq5l。",
+      "retweeted_status_full_text": "全球通货膨胀率... https://t.co/CMw5xszq5l"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @charliebilello：全球通脹率... https://t.co/CMw5xszq5l。",
+      "retweeted_status_full_text": "全球通貨膨脹率... https://t.co/CMw5xszq5l"
+    }
+  ]
 }
