@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-04-13T22:15:52.000Z",
-  "image": ""
+  "image": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "最新のDSMアップデートにより、格安のSynologyモデルではbtrfsドライブが使用できなくなりました。"
+    },
+    {
+      "locale": "zh",
+      "title": "最新的 DSM 更新让经济型的 Synology 产品无法使用 btrfs 硬盘。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "最新的 DSM 更新讓經濟型的 Synology 產品無法使用 btrfs 硬盤。"
+    }
+  ]
 }
