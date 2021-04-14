@@ -112,5 +112,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-14T13:39:06Z"
+  "original_createdAt": "2021-04-14T13:39:06Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JXLは、Jiraのパワーとスプレッドシートの親しみやすさを組み合わせたもので、ユーザーはすべての作業を1つの場所で楽に管理することができます。使いやすさ、スピード、そしてセキュリティが中心になっています。元に戻りたくなくなるでしょう。https://tcrn.ch/2RzhkjV",
+      "tagline": "Jiraのパワーとスプレッドシートの親しみやすさの融合"
+    },
+    {
+      "locale": "zh",
+      "description": "JXL将Jira的强大功能与熟悉的电子表格相结合，使用户能够在一个地方毫不费力地管理他们的所有工作。易用性、速度和安全性是体验的核心。您将永远不会想回头。https://tcrn.ch/2RzhkjV。",
+      "tagline": "熟悉电子表格的Jira的强大功能"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "JXL將Jira的強大功能與熟悉的電子表格相結合，使用戶能夠在一個地方毫不費力地管理他們的所有工作。易用性、速度和安全性是體驗的核心。您將永遠不會想回頭。https://tcrn.ch/2RzhkjV。",
+      "tagline": "熟悉電子表格的Jira的強大功能"
+    }
+  ]
 }
