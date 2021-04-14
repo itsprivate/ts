@@ -228,5 +228,22 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Wed Apr 14 17:32:45 +0000 2021"
+  "original_created_at": "Wed Apr 14 17:32:45 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @DeItaone: COINBASE GLOBAL CLASS A SHARES OPEN AT $381 IN NASDAQ DEBUT VS REFERENCE PRICE OF $250 PER SHARE\nCOIN",
+      "retweeted_status_full_text": "コインベース・グローバル・クラスAの初値は381ドル、参考価格は250ドル\n$COIN"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @DeItaone: COINBASE GLOBAL CLASS A SHARES在纳斯达克开盘价为381美元，参考价为250美元/股。\n$COIN",
+      "retweeted_status_full_text": "COINBASE GLOBAL CLASS A股在纳斯达克开盘价为381美元，参考价为250美元/股。\n$COIN"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @DeItaone: COINBASE GLOBAL CLASS A SHARES在納斯達克開盤價爲381美元，參考價爲250美元/股。\n$COIN",
+      "retweeted_status_full_text": "COINBASE GLOBAL CLASS A股在納斯達克開盤價爲381美元，參考價爲250美元/股。\n$COIN"
+    }
+  ]
 }
