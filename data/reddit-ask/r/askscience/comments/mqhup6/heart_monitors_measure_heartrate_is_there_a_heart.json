@@ -102,5 +102,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1618369218,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "心臓モニターは心拍数を測定しますが、心臓の強さもありますか？弱い心拍を早くするのと、強い心拍を遅くするのとでは、どちらが有利ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "心电监护仪测心率，是否也有心强？弱拍快一点还是强拍慢一点有优势吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "心電監護儀測心率，是否也有心強？弱拍快一點還是強拍慢一點有優勢嗎？"
+    }
+  ]
 }
