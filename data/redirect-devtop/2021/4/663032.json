@@ -42,5 +42,22 @@
   "original_created_at": "2021-04-12T13:31:33Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--aZRNaaw7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4vufrxkr8byb4k9gkpwo.png",
   "author": "muhammadev",
-  "author_url": "https://dev.to/muhammadev"
+  "author_url": "https://dev.to/muhammadev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "前提条件 この記事は、React.jsフレームワークの基本的な理解があることを前提としています...",
+      "title": "React Contextの使い方"
+    },
+    {
+      "locale": "zh",
+      "description": "前提条件 本文假设你对React.js框架有基本的了解......",
+      "title": "如何使用React Context"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "前提條件 本文假設你對React.js框架有基本的瞭解......",
+      "title": "如何使用React Context"
+    }
+  ]
 }

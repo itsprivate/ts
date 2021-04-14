@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-04-14T10:25:41.000Z",
-  "image": "https://opensource.google.com/assets/static/images/home/blog/blog_image_1.jpg"
+  "image": "https://opensource.google.com/assets/static/images/home/blog/blog_image_1.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ロジカ：現代の論理プログラミング"
+    },
+    {
+      "locale": "zh",
+      "title": "Logica：现代逻辑编程"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Logica：現代邏輯編程"
+    }
+  ]
 }
