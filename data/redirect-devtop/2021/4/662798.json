@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-12T08:56:13Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MJXCQttN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/52efith531b6wefd8gc7.jpeg",
   "author": "Olena Drugalya",
-  "author_url": "https://dev.to/olenadrugalya"
+  "author_url": "https://dev.to/olenadrugalya",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このブログ記事は、ジュニアフロントのライブコーディングインタビューをどうやって攻略するかについてではありません。",
+      "title": "React Liveのコーディング面接のコツ"
+    },
+    {
+      "locale": "zh",
+      "description": "这篇博文并不是讲应该如何王牌或钉子的现场编码面试，对于初级前...",
+      "title": "React现场编码面试技巧"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這篇博文並不是講應該如何王牌或釘子的現場編碼面試，對於初級前...",
+      "title": "React現場編碼面試技巧"
+    }
+  ]
 }
