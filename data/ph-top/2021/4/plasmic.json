@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-14T14:17:49Z"
+  "original_createdAt": "2021-04-14T14:17:49Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コードベースとシームレスに連動する、ビジュアルフロントエンドビルダーとウェブデザインツールです。チームに障害を与えず、誰でも出荷できるようになります。",
+      "tagline": "React、Next、Gatsby用のビジュアルビルダー＆デザインツールです。"
+    },
+    {
+      "locale": "zh",
+      "description": "可视化前端构建器和网页设计工具，与您的代码库无缝对接。解放你的团队，授权任何人出货。",
+      "tagline": "针对React、Next和Gatsby的可视化构建器和设计工具。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "可視化前端構建器和網頁設計工具，與您的代碼庫無縫對接。解放你的團隊，授權任何人出貨。",
+      "tagline": "針對React、Next和Gatsby的可視化構建器和設計工具。"
+    }
+  ]
 }
