@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-04-14T19:41:21.000Z",
-  "image": "https://lkml.org/images/toprowlk.gif"
+  "image": "https://lkml.org/images/toprowlk.gif",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "LinuxカーネルにRustのサポートを追加するRFC"
+    },
+    {
+      "locale": "zh",
+      "title": "为Linux内核添加Rust支持的RFC。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲Linux內核添加Rust支持的RFC。"
+    }
+  ]
 }
