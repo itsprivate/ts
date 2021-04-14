@@ -51,5 +51,22 @@
   "original_created_at": "2021-04-07T13:10:25Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--niiP6agJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://icons.getbootstrap.com/assets/img/icons-hero.png",
   "author": "Carol Skelly",
-  "author_url": "https://dev.to/carolskelly"
+  "author_url": "https://dev.to/carolskelly",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "マルチレベルメニュー、アイコン、コラプシブルなどを備えたレスポンシブなサイドバーをBootstrap 5で作成できます。",
+      "title": "Bootstrap 5 サイドバーの例"
+    },
+    {
+      "locale": "zh",
+      "description": "在Bootstrap 5中创建一个具有多级菜单、图标、可折叠等功能的响应式侧栏。",
+      "title": "Bootstrap 5 侧栏示例"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在Bootstrap 5中創建一個具有多級菜單、圖標、可摺疊等功能的響應式側欄。",
+      "title": "Bootstrap 5 側欄示例"
+    }
+  ]
 }
