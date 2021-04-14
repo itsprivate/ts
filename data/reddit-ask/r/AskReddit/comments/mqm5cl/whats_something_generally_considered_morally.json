@@ -104,5 +104,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1618388225,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "一般的に道徳的に間違っていると思われることで、あなたが間違っていると思わないものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "什么是被普遍认为是道德错误的事情，而你又不认为是错误的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "什麼是被普遍認爲是道德錯誤的事情，而你又不認爲是錯誤的？"
+    }
+  ]
 }
