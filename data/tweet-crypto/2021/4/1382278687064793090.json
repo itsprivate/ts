@@ -463,5 +463,22 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Wed Apr 14 10:24:55 +0000 2021"
+  "original_created_at": "Wed Apr 14 10:24:55 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @michael_saylor #ビットコインは今世紀最強のテクノロジー https://t.co/1JltNLeXQ6",
+      "retweeted_status_full_text": "#ビットコインは今世紀最強のテクノロジー https://t.co/1JltNLeXQ6"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @Michael_Saylor: #比特币是本世纪最强大的技术. https://t.co/1JltNLeXQ6",
+      "retweeted_status_full_text": "#比特币是本世纪最强大的技术。https://t.co/1JltNLeXQ6。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @Michael_Saylor: #比特幣是本世紀最強大的技術. https://t.co/1JltNLeXQ6",
+      "retweeted_status_full_text": "#比特幣是本世紀最強大的技術。https://t.co/1JltNLeXQ6。"
+    }
+  ]
 }
