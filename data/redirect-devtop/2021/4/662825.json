@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-12T09:28:03Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Vxsz9z0v--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thomascullen-codepen.s3-eu-west-1.amazonaws.com/css-in-js-cover.png",
   "author": "Thomas Cullen",
-  "author_url": "https://dev.to/thomascullen"
+  "author_url": "https://dev.to/thomascullen",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CSS-in-JSライブラリがどのように機能するのか、そして自分で作るにはどうすればいいのかを学びましょう。",
+      "title": "CSS-in-JSライブラリをゼロから構築する"
+    },
+    {
+      "locale": "zh",
+      "description": "了解CSS-in-JS库的工作原理，以及如何制作自己的CSS库",
+      "title": "从零开始构建一个CSS-in-JS库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "瞭解CSS-in-JS庫的工作原理，以及如何製作自己的CSS庫",
+      "title": "從零開始構建一個CSS-in-JS庫"
+    }
+  ]
 }
