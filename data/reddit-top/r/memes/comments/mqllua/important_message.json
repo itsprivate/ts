@@ -138,5 +138,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1618385504,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "重要なメッセージ"
+    },
+    {
+      "locale": "zh",
+      "title": "重要信息"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "重要信息"
+    }
+  ]
 }
