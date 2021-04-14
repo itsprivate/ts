@@ -102,5 +102,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1617779956,
-  "the_new_excerpt": "Why YSK: If your email or cell number has been leaked you should change the\npassword on the sites it shows and if you use that password anywhere else. It\nhelped me alot"
+  "the_new_excerpt": "Why YSK: If your email or cell number has been leaked you should change the\npassword on the sites it shows and if you use that password anywhere else. It\nhelped me alot",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "なぜYSKなのかというと、もしあなたのメールや携帯電話の番号が流出した場合、表示されているサイトのパスワードを変更してください。\n表示されているサイトのパスワードを変更してください。それが\n私はとても助かりました。",
+      "title": "YSK: 「haveibeenpwned.com」というサイトで、自分の電子メールや携帯電話の番号が情報漏えいの対象になっていないかどうかを確認することができます。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么YSK：如果你的电子邮件或手机号码被泄露，你应该改变你的电子邮件或手机号码。\n密码在它显示的网站上，如果你在其他地方使用该密码。它\n帮了我大忙",
+      "title": "YSK: 你可以使用网站''haveibeenpwned.com''来检查你的电子邮件或手机号码是否已经成为数据泄露的一部分。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼YSK：如果你的電子郵件或手機號碼被泄露，你應該改變你的電子郵件或手機號碼。\n密碼在它顯示的網站上，如果你在其他地方使用該密碼。它\n幫了我大忙",
+      "title": "YSK: 你可以使用網站''haveibeenpwned.com''來檢查你的電子郵件或手機號碼是否已經成爲數據泄露的一部分。"
+    }
+  ]
 }
