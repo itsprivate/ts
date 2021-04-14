@@ -108,5 +108,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1618375448,
-  "the_new_excerpt": "Bitcoin just hit 64k let’s gooooo"
+  "the_new_excerpt": "Bitcoin just hit 64k let’s gooooo",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ビットコインが64kになったから、さあ、行こう",
+      "title": "64K!!!"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "比特币刚到6.4万，我们走吧。",
+      "title": "64K!!!"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "比特幣剛到6.4萬，我們走吧。",
+      "title": "64K!!!"
+    }
+  ]
 }
