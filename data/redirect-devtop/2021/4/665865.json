@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-14T13:15:39Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--atA6HNxT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/60sahgkpaddj63vx5vvy.jpg",
   "author": "Adriano Raiano",
-  "author_url": "https://dev.to/adrai"
+  "author_url": "https://dev.to/adrai",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "自社のソフトウェアを使用するユーザーの言語の壁を克服することは重要なテーマです。英語は...",
+      "title": "i18nextを使ってReactアプリケーションを適切に国際化する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "克服使用您的软件的用户的语言障碍是一个重要的话题。英语不是...",
+      "title": "如何使用i18next对React应用进行正确的国际化处理？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "克服使用您的軟件的用戶的語言障礙是一個重要的話題。英語不是...",
+      "title": "如何使用i18next對React應用進行正確的國際化處理？"
+    }
+  ]
 }
