@@ -49,5 +49,22 @@
   "original_created_at": "2021-04-13T14:48:02Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gTTAwLq_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c3llsa0ubsl1kdldone9.jpg",
   "author": "Adam Hollett",
-  "author_url": "https://dev.to/admhlt"
+  "author_url": "https://dev.to/admhlt",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私は毎日、端末を使って仕事をしています。動き回って物事を素早く処理できることは、大きなブー...",
+      "title": "私のドットファイルからのターミナルトリック"
+    },
+    {
+      "locale": "zh",
+      "description": "我每天都和终端机一起工作。能够四处移动，快速完成任务是一个巨大的助力。",
+      "title": "我的dotfiles的终端技巧"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我每天都和終端機一起工作。能夠四處移動，快速完成任務是一個巨大的助力。",
+      "title": "我的dotfiles的終端技巧"
+    }
+  ]
 }
