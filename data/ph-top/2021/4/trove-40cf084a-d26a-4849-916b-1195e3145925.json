@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-15T07:00:17Z"
+  "original_createdAt": "2021-04-15T07:00:17Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Troveは、インターネット上でハイライトやコメントを作成し、それをNotionに送信することができるクローム拡張機能です。今すぐ無料でTroveをお試しください。",
+      "tagline": "インターネット上でハイライトを作成し、Notionに送る"
+    },
+    {
+      "locale": "zh",
+      "description": "Trove是一款Chrome扩展程序，它允许您在互联网上创建亮点和评论，并将它们发送到Notion--无需离开您的浏览器。现在就免费试用Trove吧",
+      "tagline": "在互联网上创造亮点，并将其发送到Notion。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Trove是一款Chrome擴展程序，它允許您在互聯網上創建亮點和評論，並將它們發送到Notion--無需離開您的瀏覽器。現在就免費試用Trove吧",
+      "tagline": "在互聯網上創造亮點，並將其發送到Notion。"
+    }
+  ]
 }

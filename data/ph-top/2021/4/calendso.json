@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-15T07:01:00Z"
+  "original_createdAt": "2021-04-15T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Calendsoは、オープンソースのCalendlyに代わるサービスです。自分でホストすることも、私たちがホストすることもできます。高度なカスタマイズとオープンなAPIにより、あなたのビジネスにシームレスに統合します。デフォルトではホワイトレーベルで、あなたとあなたの訪問者にとって使いやすいようにデザインされています。",
+      "tagline": "Calendlyに代わるオープンソース"
+    },
+    {
+      "locale": "zh",
+      "description": "Calendso是开源的Calendly替代品。自主托管它，或者由我们托管。通过高级定制和开放的API，将其无缝集成到您的业务中。默认情况下是白标的，并且设计为您和您的访客提供使用的乐趣。",
+      "tagline": "开源的Calendly替代品"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Calendso是開源的Calendly替代品。自主託管它，或者由我們託管。通過高級定製和開放的API，將其無縫集成到您的業務中。默認情況下是白標的，並且設計爲您和您的訪客提供使用的樂趣。",
+      "tagline": "開源的Calendly替代品"
+    }
+  ]
 }
