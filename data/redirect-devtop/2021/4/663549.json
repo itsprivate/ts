@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-12T21:32:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Rm2JFDuo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xxnda5hy1dhk1xuw01y2.png",
   "author": "Meir Gabay",
-  "author_url": "https://dev.to/unfor19"
+  "author_url": "https://dev.to/unfor19",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "macOSまたはWindowsでローカルにKubernetesの開発環境を作り、WSL2.  この自作を通して...",
+      "title": "Kubernetesハンズオンセルフペースコース（無料"
+    },
+    {
+      "locale": "zh",
+      "description": "在macOS或Windows和WSL2上创建本地Kubernetes开发环境。 在整个这个自...",
+      "title": "Kubernetes实战自学课程(免费)"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在macOS或Windows和WSL2上創建本地Kubernetes開發環境。 在整個這個自...",
+      "title": "Kubernetes實戰自學課程(免費)"
+    }
+  ]
 }
