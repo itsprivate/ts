@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-14T17:15:24Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--iiEyhEsB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://reedbarger.com/content/images/2021/04/5-key-lessons-react-tutorials-dont-teach.png",
   "author": "Reed Barger",
-  "author_url": "https://dev.to/reedbarger"
+  "author_url": "https://dev.to/reedbarger",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactの開発者が知っておかなければならない重要な概念やレッスンは数多くありますが、それらは単純には理解されていません。",
+      "title": "Reactチュートリアルが教えてくれない5つの重要なレッスン"
+    },
+    {
+      "locale": "zh",
+      "description": "有很多React开发人员需要知道的基本概念和经验，根本不是c...",
+      "title": "React教程没有教的5个关键课程"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有很多React開發人員需要知道的基本概念和經驗，根本不是c...",
+      "title": "React教程沒有教的5個關鍵課程"
+    }
+  ]
 }
