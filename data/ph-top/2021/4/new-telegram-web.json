@@ -61,5 +61,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-14T20:39:40Z"
+  "original_createdAt": "2021-04-14T20:39:40Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Telegram messengerは、アプリケーションの新しいウェブバージョンを2つリリースしました。これらは基本的な機能をすべて備えており、モバイルおよびデスクトップ端末でご利用いただけます。",
+      "tagline": "モバイルとデスクトップ用のモダンなウェブメッセンジャー"
+    },
+    {
+      "locale": "zh",
+      "description": "Telegram messenger发布了两个新的网页版应用。它们执行所有基本功能，并可在移动和桌面设备上使用。",
+      "tagline": "现代化的移动和桌面网络信使"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Telegram messenger發佈了兩個新的網頁版應用。它們執行所有基本功能，並可在移動和桌面設備上使用。",
+      "tagline": "現代化的移動和桌面網絡信使"
+    }
+  ]
 }
