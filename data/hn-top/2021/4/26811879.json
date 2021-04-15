@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-04-14T19:27:37.000Z",
-  "image": "https://www.brandons.me/img/me.jpeg"
+  "image": "https://www.brandons.me/img/me.jpeg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "なぜRustの文字列は難しいのか"
+    },
+    {
+      "locale": "zh",
+      "title": "为什么Rust字符串看起来很难"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲什麼Rust字符串看起來很難"
+    }
+  ]
 }
