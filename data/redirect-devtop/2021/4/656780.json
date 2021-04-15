@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-06T14:13:22Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ThhF4Dvy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/445xx9f3nzkto6wxtyd2.jpg",
   "author": "Naseki",
-  "author_url": "https://dev.to/naseki"
+  "author_url": "https://dev.to/naseki",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "通常、ウェブサイトにメールアドレスを掲載してクリックしてもらう際には、何かしらの工夫が必要です。",
+      "title": "TIP: mailtoリンクにメールアドレスを生で入れてはいけません。代わりにすることは以下の通りです。"
+    },
+    {
+      "locale": "zh",
+      "description": "通常，当你在网站上留下你的电子邮件地址让人们点击时，你可能会做一些事情。",
+      "title": "提示：千万不要在mailto链接中留下你的电子邮件地址! 下面的做法是"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "通常，當你在網站上留下你的電子郵件地址讓人們點擊時，你可能會做一些事情。",
+      "title": "提示：千萬不要在mailto鏈接中留下你的電子郵件地址! 下面的做法是"
+    }
+  ]
 }
