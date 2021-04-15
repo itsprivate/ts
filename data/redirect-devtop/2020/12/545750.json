@@ -44,5 +44,17 @@
   "original_created_at": "2020-12-17T21:24:18Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1z0YF74q--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/id63zxemb2i0lnzaddvl.jpg",
   "author": "Anthony Gonzalez",
-  "author_url": "https://dev.to/elixirprogrammer"
+  "author_url": "https://dev.to/elixirprogrammer",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "更好的学习方式就是动手做东西，让我们建立一个简化的维...",
+      "title": "让我们用PETAL(Phoenix, Elixir, TailwindCSS, AlpineJS, LiveView)堆栈构建一个Instagram克隆。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "更好的學習方式就是動手做東西，讓我們建立一個簡化的維...",
+      "title": "讓我們用PETAL(Phoenix, Elixir, TailwindCSS, AlpineJS, LiveView)堆棧構建一個Instagram克隆。"
+    }
+  ]
 }
