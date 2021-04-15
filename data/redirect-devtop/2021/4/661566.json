@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-11T01:09:32Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xc-jN1-e--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tbgj11y2p0jxeyu3wg5m.png",
   "author": "Adam Nathaniel Davis",
-  "author_url": "https://dev.to/bytebodger"
+  "author_url": "https://dev.to/bytebodger",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私がこの記事を書こうと思ったのは、私が日頃から（私が思うに）大陸に不満を感じているからです。",
+      "title": "I'm An Impostor"
+    },
+    {
+      "locale": "zh",
+      "description": "我想写这篇文章，因为我经常被（我所认为的）持续不断的挫折所困扰。",
+      "title": "我是个骗子"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我想寫這篇文章，因爲我經常被（我所認爲的）持續不斷的挫折所困擾。",
+      "title": "我是個騙子"
+    }
+  ]
 }
