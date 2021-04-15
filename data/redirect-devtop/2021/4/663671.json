@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-13T01:07:13Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jNcdxw77--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/sfwcvweirpf2qka2lg2b.png",
   "author": "Jess Lee (she/her)",
-  "author_url": "https://dev.to/jess"
+  "author_url": "https://dev.to/jess",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この1週間にコミュニティで最も読まれ、最も愛された投稿をまとめました。",
+      "title": "この1週間で最も人気のあったDEVの記事7選"
+    },
+    {
+      "locale": "zh",
+      "description": "为大家总结了过去一周社区里阅读量最大、最受喜爱的投稿。",
+      "title": "过去一周最受欢迎的7个DEV帖子。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "爲大家總結了過去一週社區裏閱讀量最大、最受喜愛的投稿。",
+      "title": "過去一週最受歡迎的7個DEV帖子。"
+    }
+  ]
 }
