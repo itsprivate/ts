@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-12T08:03:50Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--k3Xna_E9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jjwfcyebb969msf7nt1g.png",
   "author": "Mike Eason",
-  "author_url": "https://dev.to/mikeeason"
+  "author_url": "https://dev.to/mikeeason",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "余暇にはSolarisというオープンソースのストラテジーゲームを開発していますので、ぜひご覧ください。 その中の一つに、「Solaris」というゲームがあります。",
+      "title": "開発環境をRaspberry Piに移行した経緯"
+    },
+    {
+      "locale": "zh",
+      "description": "业余时间，我开发了一款名为Solaris的开源策略游戏，可以看看。 其中一个专业...",
+      "title": "我是如何将我的开发环境迁移到Raspberry Pi上的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "業餘時間，我開發了一款名爲Solaris的開源策略遊戲，可以看看。 其中一個專業...",
+      "title": "我是如何將我的開發環境遷移到Raspberry Pi上的？"
+    }
+  ]
 }

@@ -42,5 +42,22 @@
   "original_created_at": "2021-04-12T15:49:44Z",
   "image": "https://dev.to/social_previews/article/663244.png",
   "author": "XCS",
-  "author_url": "https://dev.to/xcs"
+  "author_url": "https://dev.to/xcs",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "自分のドメイン名を使ったメールの送信を防ぐ 昨日、あるユーザーからTwitteで連絡がありました。",
+      "title": "自分のドメイン名を使って他の人がメールを送るのを防ぐ"
+    },
+    {
+      "locale": "zh",
+      "description": "防止别人用你的域名发邮件 昨天有用户在Twit上联系我...",
+      "title": "防止他人使用您的域名发送电子邮件。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "防止別人用你的域名發郵件 昨天有用戶在Twit上聯繫我...",
+      "title": "防止他人使用您的域名發送電子郵件。"
+    }
+  ]
 }
