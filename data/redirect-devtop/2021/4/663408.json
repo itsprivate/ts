@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-12T19:23:45Z",
   "image": "https://dev.to/social_previews/article/663408.png",
   "author": "Jordan Finneran",
-  "author_url": "https://dev.to/jordanfinners"
+  "author_url": "https://dev.to/jordanfinners",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "目次 イントロ 時間の要素 画像の切り取りの要素 ファイルの添付の要素 コピー...",
+      "title": "あなたが試すべき5つのGithub Elements"
+    },
+    {
+      "locale": "zh",
+      "description": "内容介绍 时间元素 图片裁剪元素 文件附件元素 复制...",
+      "title": "5个你必须要尝试的Github元素"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "內容介紹 時間元素 圖片裁剪元素 文件附件元素 複製...",
+      "title": "5個你必須要嘗試的Github元素"
+    }
+  ]
 }
