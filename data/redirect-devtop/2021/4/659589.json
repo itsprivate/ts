@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-09T02:29:08Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Tyk8zPrl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9aoe66asrlxook593tzb.jpg",
   "author": "Pranav Birajdar",
-  "author_url": "https://dev.to/prnvbirajdar"
+  "author_url": "https://dev.to/prnvbirajdar",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "独学でデータ構造やアルゴリズムを学ぶのは、少し気が引けますし、圧倒されますよね。",
+      "title": "データ構造とアルゴリズムに役立つビジュアルツールのリスト"
+    },
+    {
+      "locale": "zh",
+      "description": "作为一个自学成才的开发人员，学习数据结构和Algoris是有点畏惧和不知所措的。",
+      "title": "帮助数据结构和算法的可视化工具列表"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "作爲一個自學成才的開發人員，學習數據結構和Algoris是有點畏懼和不知所措的。",
+      "title": "幫助數據結構和算法的可視化工具列表"
+    }
+  ]
 }
