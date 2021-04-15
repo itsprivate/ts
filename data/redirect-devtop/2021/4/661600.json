@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-11T02:40:26Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PgDsdgyk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bbc5bek5atvngq2imz6d.png",
   "author": "Daniel Sasse",
-  "author_url": "https://dev.to/dsasse07"
+  "author_url": "https://dev.to/dsasse07",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ユニットテストは、テスト駆動開発(TDD)に不可欠な要素です。TDDとは、テストを定義するプロセスのことです。",
+      "title": "Jestによるユニットテストの初心者向けガイド"
+    },
+    {
+      "locale": "zh",
+      "description": "单元测试是测试驱动开发(TDD)的一个组成部分，它是定义测试的过程。",
+      "title": "使用Jest进行单元测试的初级指南。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "單元測試是測試驅動開發(TDD)的一個組成部分，它是定義測試的過程。",
+      "title": "使用Jest進行單元測試的初級指南。"
+    }
+  ]
 }
