@@ -111,5 +111,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1618486215,
-  "the_new_excerpt": "Good Morning Everyone!"
+  "the_new_excerpt": "Good Morning Everyone!",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "皆さん、おはようございます。",
+      "title": "2021年4月15日のGME Megathread"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "大家早上好",
+      "title": "2021年4月15日的全球环境监测系统Megathread。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "大家早上好",
+      "title": "2021年4月15日的全球環境監測系統Megathread。"
+    }
+  ]
 }

@@ -83,5 +83,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-15T07:01:00Z"
+  "original_createdAt": "2021-04-15T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "バグアウトは、API、ライブラリ、CLIの制作者が、⠀ - ユーザーが誰であるか - ソフトウェアをどのように使用しているか - どのような問題に直面しているか ⠀ ユーザーのプライバシーを尊重しながら、理解することができます。⠀ ユーザーが問題を抱えている場合、Bugoutはリアルタイムで修正を指示します。",
+      "tagline": "開発者向けツールのMixpanel"
+    },
+    {
+      "locale": "zh",
+      "description": "Bugout可以让API、库和CLI的创建者了解：⠀ - 他们的用户是谁 - 他们如何使用他们的软件 - 他们面临的问题是什么⠀，同时尊重用户的隐私。⠀ 如果用户遇到问题，Bugout会实时指导他们进行修复。",
+      "tagline": "开发工具的Mixpanel"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Bugout可以讓API、庫和CLI的創建者瞭解：⠀ - 他們的用戶是誰 - 他們如何使用他們的軟件 - 他們面臨的問題是什麼⠀，同時尊重用戶的隱私。⠀ 如果用戶遇到問題，Bugout會實時指導他們進行修復。",
+      "tagline": "開發工具的Mixpanel"
+    }
+  ]
 }
