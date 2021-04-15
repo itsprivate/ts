@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-15T09:23:31Z"
+  "original_createdAt": "2021-04-15T09:23:31Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Chrome拡張機能をインストールするだけで、GPT-3を使ってより良い、より速い文章を書くことができます。任意のテキストを選択して、より良いコンテンツのアイデアを生み出すことができます。",
+      "tagline": "GPT-3でより良く、より速く書くためのChrome拡張機能"
+    },
+    {
+      "locale": "zh",
+      "description": "只需安装一个Chrome扩展程序，就能用GPT-3更好更快地写作。选择任意文本，生成更好的内容创意!",
+      "tagline": "Chrome浏览器扩展，用GPT-3写得更好更快"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "只需安裝一個Chrome擴展程序，就能用GPT-3更好更快地寫作。選擇任意文本，生成更好的內容創意!",
+      "tagline": "Chrome瀏覽器擴展，用GPT-3寫得更好更快"
+    }
+  ]
 }
