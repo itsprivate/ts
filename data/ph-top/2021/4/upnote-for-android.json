@@ -112,5 +112,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-15T08:34:29Z"
+  "original_createdAt": "2021-04-15T08:34:29Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "UpNoteは、Android、Mac、Windows、iOSで動作する、エレガントでパワフルなノートアプリです。メモを取りやすく、集中力を維持できるように設計されたUpNoteは、美しいインターフェイスと流動的なワークフローを組み合わせ、洗練されたメモを取ることができます。",
+      "tagline": "プラットフォームを問わず、シンプルで美しいメモ帳アプリ"
+    },
+    {
+      "locale": "zh",
+      "description": "UpNote是一款优雅而强大的笔记应用，适用于Android，Mac，Windows和iOS。UpNote的设计是为了让你轻松地做笔记并保持专注，它结合了美丽的界面和流畅的工作流程，为你带来精致的笔记体验。",
+      "tagline": "简洁美观的跨平台记事应用。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "UpNote是一款優雅而強大的筆記應用，適用於Android，Mac，Windows和iOS。UpNote的設計是爲了讓你輕鬆地做筆記並保持專注，它結合了美麗的界面和流暢的工作流程，爲你帶來精緻的筆記體驗。",
+      "tagline": "簡潔美觀的跨平臺記事應用。"
+    }
+  ]
 }
