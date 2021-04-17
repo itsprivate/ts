@@ -161,5 +161,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1618579264,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "まだロビンフッドを使っている人は、もう何を言っていいかわかりません。あなたは十分に警告されています。"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你还在使用robinhood，不知道该说什么了。你已经被警告的够多了。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你還在使用robinhood，不知道該說什麼了。你已經被警告的夠多了。"
+    }
+  ]
 }
