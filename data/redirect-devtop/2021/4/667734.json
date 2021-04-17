@@ -42,5 +42,22 @@
   "original_created_at": "2021-04-16T05:38:51Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WU82jQ12--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r1kw76wg3u1hc5j1ywg4.jpg",
   "author": "Yogesh Chavan",
-  "author_url": "https://dev.to/myogeshchavan97"
+  "author_url": "https://dev.to/myogeshchavan97",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、Reactで書籍管理アプリを一から作り、その実行方法を学びます。",
+      "title": "React CRUDアプリチュートリアル - スクラッチからReactで書籍管理アプリを作る"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，你将从头开始在React中构建一个图书管理App，并学习如何执行。",
+      "title": "React CRUD应用教程--用React从零开始搭建图书管理应用。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，你將從頭開始在React中構建一個圖書管理App，並學習如何執行。",
+      "title": "React CRUD應用教程--用React從零開始搭建圖書管理應用。"
+    }
+  ]
 }

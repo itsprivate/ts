@@ -40,5 +40,22 @@
   "original_created_at": "2021-04-11T13:43:18Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TxMdIFNy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w9p981ehvibcmvjb88v4.jpeg",
   "author": "Florent Lagrede",
-  "author_url": "https://dev.to/flagrede"
+  "author_url": "https://dev.to/flagrede",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このデモでは、『Death Stranding』ゲームの主要なインターフェイスの一つを再現してみます。   デモ...",
+      "title": "Death StrandingのUIをreactとreact-three-fiberで再現する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "在这个演示中，我们将尝试重现死亡搁浅游戏的一个主界面。   演示...",
+      "title": "如何用react和react-three-fiber重现死亡搁浅UI？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這個演示中，我們將嘗試重現死亡擱淺遊戲的一個主界面。   演示...",
+      "title": "如何用react和react-three-fiber重現死亡擱淺UI？"
+    }
+  ]
 }
