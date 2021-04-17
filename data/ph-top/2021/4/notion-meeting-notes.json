@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-17T07:02:09Z"
+  "original_createdAt": "2021-04-17T07:02:09Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "会議でのタスク、アイデア、情報、イベントなどを記録するためのNotionシステム。",
+      "tagline": "Notionで会議ノートを整理する"
+    },
+    {
+      "locale": "zh",
+      "description": "一个Notion系统来跟踪您会议中的任务、想法、信息和事件。",
+      "tagline": "在Notion中整理你的会议记录"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個Notion系統來跟蹤您會議中的任務、想法、信息和事件。",
+      "tagline": "在Notion中整理你的會議記錄"
+    }
+  ]
 }
