@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-11T17:31:39Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JeM7K_XV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r3ui703pme0meo82pu5o.png",
   "author": "Eric Chapman",
-  "author_url": "https://dev.to/ericchapman"
+  "author_url": "https://dev.to/ericchapman",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私はあまりReactを使わないので、Reactでちょっとしたことでもやらなければならないときは、チェッ...",
+      "title": "React (work in progress) チートシート"
+    },
+    {
+      "locale": "zh",
+      "description": "我不经常使用React，所以每当我需要在React中做哪怕是最小的事情，我都要查...",
+      "title": "React (正在进行中) 工作表"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我不經常使用React，所以每當我需要在React中做哪怕是最小的事情，我都要查...",
+      "title": "React (正在進行中) 工作表"
+    }
+  ]
 }
