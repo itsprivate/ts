@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-04-17T06:21:21.000Z",
-  "image": "https://charigyang.github.io/motiongroup/resources/teaser.png"
+  "image": "https://charigyang.github.io/motiongroup/resources/teaser.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "モーション・グルーピングによる自己教師付き映像オブジェクト・セグメンテーション"
+    },
+    {
+      "locale": "zh",
+      "title": "通过运动分组进行自我监督的视频对象分割。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "通過運動分組進行自我監督的視頻對象分割。"
+    }
+  ]
 }
