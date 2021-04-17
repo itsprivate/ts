@@ -47,5 +47,22 @@
   "original_created_at": "2021-04-14T07:32:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ppYd_wkf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9h6991k85fjdn8dd5ep5.png",
   "author": "Stokry",
-  "author_url": "https://dev.to/stokry"
+  "author_url": "https://dev.to/stokry",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "本日は、PDFデータをExcelに取り込む作業を自動化する方法をご紹介します。これはサ...",
+      "title": "PythonによるPDFからExcelへのデータ入力の自動化"
+    },
+    {
+      "locale": "zh",
+      "description": "我今天将向您展示如何将PDF数据自动导入Excel的过程。这可以使...",
+      "title": "用Python将数据从PDF自动输入到Excel中。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我今天將向您展示如何將PDF數據自動導入Excel的過程。這可以使...",
+      "title": "用Python將數據從PDF自動輸入到Excel中。"
+    }
+  ]
 }

@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-15T16:51:58Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--iAkfhYIH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://reedbarger.com/content/images/2021/03/still-using-html-start-using-react-components.png",
   "author": "Reed Barger",
-  "author_url": "https://dev.to/reedbarger"
+  "author_url": "https://dev.to/reedbarger",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "HTMLはウェブの言語ですが、HTMLだけでウェブサイト全体を作成するのは反復的で手間がかかります。",
+      "title": "まだHTMLを使っていますか？Reactコンポーネントを使ってみよう"
+    },
+    {
+      "locale": "zh",
+      "description": "HTML是网络的语言，但仅用HTML创建整个网站可能是重复性的，而且很费时间。",
+      "title": "还在使用HTML？开始使用React组件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "HTML是網絡的語言，但僅用HTML創建整個網站可能是重複性的，而且很費時間。",
+      "title": "還在使用HTML？開始使用React組件"
+    }
+  ]
 }

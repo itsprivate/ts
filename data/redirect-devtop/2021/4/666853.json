@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-15T11:26:33Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Im2BeaC3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9dt8m49j0ghs0qc2ine9.png",
   "author": "Victor",
-  "author_url": "https://dev.to/vponamariov"
+  "author_url": "https://dev.to/vponamariov",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは。 先日、私はTwitterでさまざまなUI要素に関連する58のリンクのリストを投稿しました。その結果、このようなことが起こりました。",
+      "title": "ほぼすべてのUI要素をデザインする方法 58の記事を厳選して掲載しています。"
+    },
+    {
+      "locale": "zh",
+      "description": "嗨，你们好  最近，我在Twitter上发布了58个与不同UI元素相关的链接列表。它转...",
+      "title": "如何设计几乎所有的UI元素。精选58篇文章。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嗨，你們好  最近，我在Twitter上發佈了58個與不同UI元素相關的鏈接列表。它轉...",
+      "title": "如何設計幾乎所有的UI元素。精選58篇文章。"
+    }
+  ]
 }

@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-14T15:57:01Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UifJqj_L--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mnyd7gvulp31ho8kf7v0.png",
   "author": "Sowmen Rahman",
-  "author_url": "https://dev.to/sowmenappd"
+  "author_url": "https://dev.to/sowmenappd",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ロードバランシングとは何ですか？  ロードバランシングとは......。",
+      "title": "Docker、NGINX、AWS ELBを使用した高可用性のあるNode.jsアプリケーションの構築"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是负载均衡？  负载均衡是一种用于分配收入的技术（算法）。",
+      "title": "使用Docker、NGINX和AWS ELB构建一个高可用的Node.js应用。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是負載均衡？  負載均衡是一種用於分配收入的技術（算法）。",
+      "title": "使用Docker、NGINX和AWS ELB構建一個高可用的Node.js應用。"
+    }
+  ]
 }

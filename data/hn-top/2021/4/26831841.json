@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-04-16T09:59:34.000Z",
-  "image": "https://lkml.org/images/toprowlk.gif"
+  "image": "https://lkml.org/images/toprowlk.gif",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "リーナス・トーバルズ、カーネルでのRustサポートについて"
+    },
+    {
+      "locale": "zh",
+      "title": "Linus Torvalds关于内核中对Rust的支持"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Linus Torvalds關於內核中對Rust的支持"
+    }
+  ]
 }

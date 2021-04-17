@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-04-15T15:01:02.000Z",
-  "image": "https://tailscale.com/files/images/og-image.png"
+  "image": "https://tailscale.com/files/images/og-image.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "LinuxでのDNSクライアント設定の苦行"
+    },
+    {
+      "locale": "zh",
+      "title": "Linux上DNS客户端配置的西西弗任务。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Linux上DNS客戶端配置的西西弗任務。"
+    }
+  ]
 }

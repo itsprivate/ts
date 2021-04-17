@@ -44,5 +44,17 @@
   "original_created_at": "2021-02-04T14:52:29Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Bxpt9xt4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9lrj2s4p5f02kw1x2wep.png",
   "author": "Coderslang: Become a Software Engineer",
-  "author_url": "https://dev.to/coderslang"
+  "author_url": "https://dev.to/coderslang",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "什么会被记录到控制台？ . . . . . . . . . . . . . . . . .  在一个公司...",
+      "title": "JavaScript面试题第32题：0.1+0.1+0.1===0.3。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼會被記錄到控制檯？ . . . . . . . . . . . . . . . . .  在一個公司...",
+      "title": "JavaScript面試題第32題：0.1+0.1+0.1===0.3。"
+    }
+  ]
 }
