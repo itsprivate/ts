@@ -92,5 +92,19 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Thu Apr 15 13:23:50 +0000 2021"
+  "original_created_at": "Thu Apr 15 13:23:50 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "コインベースは2012年に設立されました。\n\n外から見ると、すべてが一夜にして成功したストーリーのように見えます。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "Coinbase成立于2012年。\n\n从外面看，一切都像是一夜之间成功的故事。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "Coinbase成立於2012年。\n\n從外面看，一切都像是一夜之間成功的故事。"
+    }
+  ]
 }

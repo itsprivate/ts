@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-04-16T20:56:49.000Z",
-  "image": "https://s3.amazonaws.com/standard-notes/media/SN-Icon-500.png"
+  "image": "https://s3.amazonaws.com/standard-notes/media/SN-Icon-500.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "スタンダードノートは、あなたのメモ、考え、ライフワークのための安全な場所です"
+    },
+    {
+      "locale": "zh",
+      "title": "标准笔记是一个安全的地方，你的笔记，思想和生活的工作"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "標準筆記是一個安全的地方，你的筆記，思想和生活的工作"
+    }
+  ]
 }

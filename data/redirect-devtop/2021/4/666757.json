@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-15T08:20:36Z",
   "image": "https://dev.to/social_previews/article/666757.png",
   "author": "Priyanshi Sharma",
-  "author_url": "https://dev.to/priyanshi_sharma"
+  "author_url": "https://dev.to/priyanshi_sharma",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "SOA（サービス指向アーキテクチャ）とマイクロサービスは、Webアプリケーションのための2つの異なるアーキテクチャです。",
+      "title": "SOAとMicroservicesの比較"
+    },
+    {
+      "locale": "zh",
+      "description": "SOA(面向服务的架构)和微服务是两种不同的Web应用架构，...",
+      "title": "SOA与微服务"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "SOA(面向服務的架構)和微服務是兩種不同的Web應用架構，...",
+      "title": "SOA與微服務"
+    }
+  ]
 }

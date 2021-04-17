@@ -117,5 +117,19 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Fri Apr 16 18:12:46 +0000 2021"
+  "original_created_at": "Fri Apr 16 18:12:46 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "本日の最高値では、Dogecoinの時価総額は560億ドルを超え、Twitterの時価総額を上回りました。\n\nドッグコイン $TWTR"
+    },
+    {
+      "locale": "zh",
+      "full_text": "在今天的高点，Dogecoin的市值超过560亿美元，比Twitter的市值还高。\n\n$DOGE $TWTR"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "在今天的高點，Dogecoin的市值超過560億美元，比Twitter的市值還高。\n\n$DOGE $TWTR"
+    }
+  ]
 }

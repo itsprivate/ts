@@ -51,5 +51,22 @@
   "original_created_at": "2021-04-14T22:31:08Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gJ9nwOAt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mmp38m21u2iivdcrs4ol.png",
   "author": "Ryan Thelin",
-  "author_url": "https://dev.to/ryanthelin"
+  "author_url": "https://dev.to/ryanthelin",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TypeScriptとは、Microsoft社が開発したオープンソースのJavaScriptのスーパーセットであり、JavaScriptの機能を追加するためのものです。",
+      "title": "TypeScriptインタビューの質問トップ50を解説"
+    },
+    {
+      "locale": "zh",
+      "description": "TypeScript是微软开发的JavaScript的一个开源超级集，它增加了额外的功能。",
+      "title": "50大TypeScript面试题解读"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "TypeScript是微軟開發的JavaScript的一個開源超級集，它增加了額外的功能。",
+      "title": "50大TypeScript面試題解讀"
+    }
+  ]
 }

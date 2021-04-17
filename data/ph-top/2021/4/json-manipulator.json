@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-16T08:04:40Z"
+  "original_createdAt": "2021-04-16T08:04:40Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Discoverable Jsonは、JSONデータ（ネストされていても）を有効なjavascriptの表現にフラット化します。絶対的なjavascriptのパスを使用することで、必要なデータの断片を簡単に検索することができます。また、自分に関係のないデータを削除することもできます。",
+      "tagline": "あらゆるJSONドキュメントの発見と操作"
+    },
+    {
+      "locale": "zh",
+      "description": "可发现的Json本质上是将你的JSON数据（无论如何嵌套）扁平化为有效的JavaScript表达式。通过绝对的javascript路径，你可以很容易地搜索你关心的数据片段。或者，删除那些与您无关的数据。",
+      "tagline": "发现和操作任何JSON文档"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "可發現的Json本質上是將你的JSON數據（無論如何嵌套）扁平化爲有效的JavaScript表達式。通過絕對的javascript路徑，你可以很容易地搜索你關心的數據片段。或者，刪除那些與您無關的數據。",
+      "tagline": "發現和操作任何JSON文檔"
+    }
+  ]
 }

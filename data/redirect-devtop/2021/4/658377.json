@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-08T01:51:56Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5s_w_HaL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://cdn.gaudi.sh/devto/hands2.jpg",
   "author": "Jonathan Experton",
-  "author_url": "https://dev.to/jexperton"
+  "author_url": "https://dev.to/jexperton",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "useEffectクリーンアップ関数でReactのメモリリーク警告を修正する方法",
+      "title": "Reactのメモリリーク警告を修正する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "如何用useEffect清理函数修复React内存泄漏警告？",
+      "title": "如何修复React内存泄漏警告"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如何用useEffect清理函數修復React內存泄漏警告？",
+      "title": "如何修復React內存泄漏警告"
+    }
+  ]
 }

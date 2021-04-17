@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-16T07:06:34Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JG2CWbRP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v7r2ne9ewcxkrwumi3dx.png",
   "author": "Nirazan Basnet",
-  "author_url": "https://dev.to/nirazanbasnet"
+  "author_url": "https://dev.to/nirazanbasnet",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このブログでは、メニューコンポーネントにアクセシビリティを実装するためのベスト・プラクティス・ガイダンスを紹介します。",
+      "title": "ヘッドレスUI tailwindcssによる完全にアクセス可能なメニューコンポーネント"
+    },
+    {
+      "locale": "zh",
+      "description": "这篇博客主要介绍了在菜单组件中实现无障碍的最佳实践指南，通过使用 \"无障碍菜单 \"来实现无障碍。",
+      "title": "通过无头UI尾风css完全访问菜单组件。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這篇博客主要介紹了在菜單組件中實現無障礙的最佳實踐指南，通過使用 \"無障礙菜單 \"來實現無障礙。",
+      "title": "通過無頭UI尾風css完全訪問菜單組件。"
+    }
+  ]
 }

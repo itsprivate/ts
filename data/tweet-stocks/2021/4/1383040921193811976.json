@@ -305,5 +305,22 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Fri Apr 16 12:53:45 +0000 2021"
+  "original_created_at": "Fri Apr 16 12:53:45 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @charliebilello: 本日、S&P500銘柄の96.4%が200日移動平均線を上回って引け、過去最高の割合となりました（データは2年前までさかのぼります）。",
+      "retweeted_status_full_text": "S&amp;P 500銘柄の96.4%が本日、200日移動平均線を上回って引け、過去最高の割合となりました（データは2002年までさかのぼります）。$SPX https://t.co/RYwfSIJIxi"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @charliebilello：今天S&amp;P 500指数中96.4%的股票收盘价高于200日移动平均线，是有史以来最高的百分比（数据可以追溯到2...",
+      "retweeted_status_full_text": "S&amp;P 500指数中96.4%的股票今天收盘价高于200日移动平均线，创下历史最高比例（数据可追溯到2002年）。$SPX https://t.co/RYwfSIJIxi"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @charliebilello：今天S&amp;P 500指數中96.4%的股票收盤價高於200日移動平均線，是有史以來最高的百分比（數據可以追溯到2...",
+      "retweeted_status_full_text": "S&amp;P 500指數中96.4%的股票今天收盤價高於200日移動平均線，創下歷史最高比例（數據可追溯到2002年）。$SPX https://t.co/RYwfSIJIxi"
+    }
+  ]
 }

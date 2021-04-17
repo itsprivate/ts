@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-04-16T14:01:41.000Z",
-  "image": "https://nvlabs.github.io/GANcraft/images/logo.png"
+  "image": "https://nvlabs.github.io/GANcraft/images/logo.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "GANクラフト。Minecraftワールドの教師なしの3Dニューラルレンダリング"
+    },
+    {
+      "locale": "zh",
+      "title": "GANcraft。Minecraft世界的无监督3D神经渲染"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "GANcraft。Minecraft世界的無監督3D神經渲染"
+    }
+  ]
 }

@@ -14,5 +14,19 @@
   "tags": [
     "Newsweek"
   ],
-  "image": "https://d.newsweek.com/en/full/1778982/ukrainian-servicemen.jpg"
+  "image": "https://d.newsweek.com/en/full/1778982/ukrainian-servicemen.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ロシアはウクライナを侵略しようとしているのか？"
+    },
+    {
+      "locale": "zh",
+      "title": "俄罗斯要入侵乌克兰了吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "俄羅斯要入侵烏克蘭了嗎？"
+    }
+  ]
 }
