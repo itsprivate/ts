@@ -384,5 +384,22 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Sat Apr 17 13:42:01 +0000 2021"
+  "original_created_at": "Sat Apr 17 13:42:01 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @charliebilello: 10億ドル以上の価値を持つ暗号資産が100件になりました。これは新記録です。https://t.co/hYXAMHrZq7",
+      "retweeted_status_full_text": "10億ドル以上の価値を持つ暗号資産が100件に。これは新記録です。https://t.co/hYXAMHrZq7"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @charliebilello：现在有100种加密资产价值超过10亿美元。这是一个新的记录。https://t.co/hYXAMHrZq7",
+      "retweeted_status_full_text": "现在有100种加密资产价值超过10亿美元。这是一个新的记录。https://t.co/hYXAMHrZq7"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @charliebilello：現在有100種加密資產價值超過10億美元。這是一個新的記錄。https://t.co/hYXAMHrZq7",
+      "retweeted_status_full_text": "現在有100種加密資產價值超過10億美元。這是一個新的記錄。https://t.co/hYXAMHrZq7"
+    }
+  ]
 }
