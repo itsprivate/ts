@@ -42,5 +42,22 @@
   "original_created_at": "2021-04-15T07:50:59Z",
   "image": "https://dev.to/social_previews/article/666739.png",
   "author": "Pramod Shinde",
-  "author_url": "https://dev.to/pramodshinde7"
+  "author_url": "https://dev.to/pramodshinde7",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私は5年前からJosh SoftwareでRuby on Railsの開発者として働いていますが、その時に感じたのは...",
+      "title": "優れたRuby on Rails開発者の10の兆候"
+    },
+    {
+      "locale": "zh",
+      "description": "在过去的五年里，我一直在Josh软件公司担任Ruby on Rails的开发人员，我觉得...",
+      "title": "优秀Ruby on Rails开发者的10个标志。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在過去的五年裏，我一直在Josh軟件公司擔任Ruby on Rails的開發人員，我覺得...",
+      "title": "優秀Ruby on Rails開發者的10個標誌。"
+    }
+  ]
 }
