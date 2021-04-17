@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-15T15:17:43Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s---GBEJPnk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/p86wbtbmb02o9fqmgxgo.png",
   "author": "Sean",
-  "author_url": "https://dev.to/seanolad"
+  "author_url": "https://dev.to/seanolad",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Firebaseは、アプリやWebサイトのバックエンドやデータベースに使われるツールです。これはテンポ...",
+      "title": "Firebase。アプリを作るためのGoogle API"
+    },
+    {
+      "locale": "zh",
+      "description": "本软件是一款功能强大的软件，可以让您在任何时候都能享受到最优质的服务。它是一个临时性的工具，可以让您在任何时候都可以使用。",
+      "title": "Firebase: 谷歌的API构建应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "本軟件是一款功能強大的軟件，可以讓您在任何時候都能享受到最優質的服務。它是一個臨時性的工具，可以讓您在任何時候都可以使用。",
+      "title": "Firebase: 谷歌的API構建應用程序"
+    }
+  ]
 }
