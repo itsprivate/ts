@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-18T13:07:39Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gX5YN_zJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v6sayrf35j4be2ehuyk5.png",
   "author": "Javid Mougamadou",
-  "author_url": "https://dev.to/javidjms"
+  "author_url": "https://dev.to/javidjms",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "📝注釈 Gitmojiは、GitHubでの絵文字の使い方を標準化し、説明するための取り組みです...",
+      "title": "🔨 [git]: Gitmojiでより良いコミットを書く"
+    },
+    {
+      "locale": "zh",
+      "description": "📝 Notes Gitmoji 是一个旨在规范和解释 GitHub 上表情符号使用的倡议。",
+      "title": "🔨 [git]: 用Gitmoji写更好的提交"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "📝 Notes Gitmoji 是一個旨在規範和解釋 GitHub 上表情符號使用的倡議。",
+      "title": "🔨 [git]: 用Gitmoji寫更好的提交"
+    }
+  ]
 }
