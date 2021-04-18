@@ -220,5 +220,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Sun Apr 18 20:37:05 +0000 2021"
+  "original_created_at": "Sun Apr 18 20:37:05 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "#ビットコインは少し下がったが、供給不足は現実であり、拡大している https://t.co/cfDQyKgkqH"
+    },
+    {
+      "locale": "zh",
+      "full_text": "#比特币跌了一点，但供应短缺是真实的......而且还在增加https://t.co/cfDQyKgkqH。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "#比特幣跌了一點，但供應短缺是真實的......而且還在增加https://t.co/cfDQyKgkqH。"
+    }
+  ]
 }
