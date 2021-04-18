@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-16T16:59:27Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RnVSgupZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/76hi44nkai2pv6wki0z3.jpg",
   "author": "Oleksii Trekhleb",
-  "author_url": "https://dev.to/trekhleb"
+  "author_url": "https://dev.to/trekhleb",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事のインタラクティブ版が用意されていて、そこでは、あなたのカスタムi.e.をアップロードしてサイズを変更することができます。",
+      "title": "JavaScriptでコンテンツを考慮した画像リサイズを実現"
+    },
+    {
+      "locale": "zh",
+      "description": "这个帖子有一个互动的版本，你可以上传和调整你的定制的i...",
+      "title": "在JavaScript中实现内容感知的图像大小调整。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這個帖子有一個互動的版本，你可以上傳和調整你的定製的i...",
+      "title": "在JavaScript中實現內容感知的圖像大小調整。"
+    }
+  ]
 }
