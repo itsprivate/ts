@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-18T07:00:00Z"
+  "original_createdAt": "2021-04-18T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Seam Carvingアルゴリズムに基づくコンテンツ認識型の画像リサイザ",
+      "tagline": "コンテンツを考慮した画像リサイザーとオブジェクトリムーバー"
+    },
+    {
+      "locale": "zh",
+      "description": "基于Seam Carving算法的内容感知型图像调整器",
+      "tagline": "内容感知的图像调整器和对象移除器。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "基於Seam Carving算法的內容感知型圖像調整器",
+      "tagline": "內容感知的圖像調整器和對象移除器。"
+    }
+  ]
 }
