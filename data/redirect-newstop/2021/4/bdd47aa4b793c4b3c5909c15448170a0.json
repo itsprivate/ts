@@ -14,5 +14,19 @@
   "tags": [
     "BBC News"
   ],
-  "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1FAE/production/_118101180_mediaitem118101178.jpg"
+  "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1FAE/production/_118101180_mediaitem118101178.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Covid社：英国で調査されているインドの亜種"
+    },
+    {
+      "locale": "zh",
+      "title": "科维德：英国正在调查印度变异体。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "科維德：英國正在調查印度變異體。"
+    }
+  ]
 }
