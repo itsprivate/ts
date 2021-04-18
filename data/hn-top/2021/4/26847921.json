@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-04-17T22:17:04.000Z",
-  "image": "https://torrentfreak.com/images/rip-image.png"
+  "image": "https://torrentfreak.com/images/rip-image.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "GitHubはyoutube-dlを復活させましたが、フォークの復元には問題があるようです。"
+    },
+    {
+      "locale": "zh",
+      "title": "GitHub恢复了youtube-dl，但恢复fork显然是个问题。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "GitHub恢復了youtube-dl，但恢復fork顯然是個問題。"
+    }
+  ]
 }
