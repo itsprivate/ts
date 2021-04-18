@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-17T09:11:25Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mefiu6nR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yxqfkrc2ly4xdsxmh0nt.png",
   "author": "Marcis Bergmanis",
-  "author_url": "https://dev.to/marcisbee"
+  "author_url": "https://dev.to/marcisbee",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TLDR: Exomeという新しいステートライブラリを作りました（Reactで動作し、Vue用のPRもあります）。",
+      "title": "シンプルで新しいステートマネージャー \"Exome \"を発表"
+    },
+    {
+      "locale": "zh",
+      "description": "TLDR：我创建了新的状态库，叫做Exome（与React一起工作，还有一个Vue的PR（原谅......",
+      "title": "公布新的和简单的状态管理器 \"Exome\""
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "TLDR：我創建了新的狀態庫，叫做Exome（與React一起工作，還有一個Vue的PR（原諒......",
+      "title": "公佈新的和簡單的狀態管理器 \"Exome\""
+    }
+  ]
 }
