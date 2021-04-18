@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-18T08:09:56Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DDWPJJrt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1o91lxa4qreqxecnodl1.png",
   "author": "Vishnu Chilamakuru",
-  "author_url": "https://dev.to/vishnuchilamakuru"
+  "author_url": "https://dev.to/vishnuchilamakuru",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Nginxは、ウェブサービング、リバースプロキシ、キャッシング、ロードバランシング、メディアストリームなどの機能を備えたオープンソースのソフトウェアです。",
+      "title": "Nginx Cheatsheet"
+    },
+    {
+      "locale": "zh",
+      "description": "Nginx是一个开源软件，用于网络服务、反向代理、缓存、负载均衡、媒体传输等。",
+      "title": "Nginx Cheatsheet"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Nginx是一個開源軟件，用於網絡服務、反向代理、緩存、負載均衡、媒體傳輸等。",
+      "title": "Nginx Cheatsheet"
+    }
+  ]
 }
