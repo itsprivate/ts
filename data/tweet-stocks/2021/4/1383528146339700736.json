@@ -504,5 +504,22 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Sat Apr 17 21:09:49 +0000 2021"
+  "original_created_at": "Sat Apr 17 21:09:49 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @kylascan: HWINはどうなっているんだろう？🥪 https://t.co/Enb7cznLzz",
+      "retweeted_status_full_text": "HWINはどうなっているのでしょうか？🥪 https://t.co/Enb7cznLzz"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @kylascan: $HWIN是怎么回事？🥪 https://t.co/Enb7cznLzz",
+      "retweeted_status_full_text": "$HWIN是怎么回事？🥪 https://t.co/Enb7cznLzz"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @kylascan: $HWIN是怎麼回事？🥪 https://t.co/Enb7cznLzz",
+      "retweeted_status_full_text": "$HWIN是怎麼回事？🥪 https://t.co/Enb7cznLzz"
+    }
+  ]
 }
