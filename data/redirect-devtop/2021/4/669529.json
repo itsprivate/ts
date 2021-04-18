@@ -42,5 +42,22 @@
   "original_created_at": "2021-04-17T16:50:18Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--s4nCdkFr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/15nsd65uqv80eqmvw7ma.jpg",
   "author": "Francisco  Inoque",
-  "author_url": "https://dev.to/frantchessico"
+  "author_url": "https://dev.to/frantchessico",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは。今回は、フォームのフィールドを認証する最もシンプルで簡単な方法についてご紹介します。",
+      "title": "フォームフィールドを検証するシンプルで簡単な方法"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，在这篇文章中，我将讲述最简单、最容易的验证表格字段的方法，accor...",
+      "title": "一个简单易行的验证表格字段的方法。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，在這篇文章中，我將講述最簡單、最容易的驗證表格字段的方法，accor...",
+      "title": "一個簡單易行的驗證表格字段的方法。"
+    }
+  ]
 }

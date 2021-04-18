@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-16T21:02:54Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bO2J9_C_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g1qk85odko7exdlv8ako.png",
   "author": "Santiago Correa",
-  "author_url": "https://dev.to/scorreaui"
+  "author_url": "https://dev.to/scorreaui",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、書籍を扱うプロジェクトに取り組んでいたところ、私のウェブアプリ全体が...",
+      "title": "React Router - Route ( WTF Moment )"
+    },
+    {
+      "locale": "zh",
+      "description": "最近，我在做一个由书籍组成的项目，我意识到我的整个网络应用都在等待。",
+      "title": "React Router - Route ( WTF Moment )"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "最近，我在做一個由書籍組成的項目，我意識到我的整個網絡應用都在等待。",
+      "title": "React Router - Route ( WTF Moment )"
+    }
+  ]
 }
