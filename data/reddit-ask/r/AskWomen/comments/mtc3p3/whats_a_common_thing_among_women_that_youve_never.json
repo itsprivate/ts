@@ -101,5 +101,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1618749702,
-  "the_new_excerpt": "title"
+  "the_new_excerpt": "title",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "タイトル",
+      "title": "自分が経験したことのない、女性にありがちなこととは？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "标题",
+      "title": "女人之间有什么共同的事情是你没有经历过的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "標題",
+      "title": "女人之間有什麼共同的事情是你沒有經歷過的？"
+    }
+  ]
 }

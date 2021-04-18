@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-18T07:00:00Z"
+  "original_createdAt": "2021-04-18T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CryptOrchidsは、NFTをベースとしたゲームで、プレイヤーは7日ごとに生きたCryptOrchidの花に正確に水を与えなければなりません。プレイヤーが1週間に3時間の水やりを怠ると、デジタルフラワーが枯れてしまい、販売できなくなります。",
+      "tagline": "NFTを利用したゲームでデジタルフラワーを生かす"
+    },
+    {
+      "locale": "zh",
+      "description": "CryptOrchids是一款基于NFT的游戏，玩家必须每隔7天给自己的活体CryptOrchid花精确浇水。如果玩家错过了每周3小时的浇水窗口，他们的数字花就会死亡，从而无法出售。",
+      "tagline": "一款基于NFT的游戏，让数字花卉保持活力"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "CryptOrchids是一款基於NFT的遊戲，玩家必須每隔7天給自己的活體CryptOrchid花精確澆水。如果玩家錯過了每週3小時的澆水窗口，他們的數字花就會死亡，從而無法出售。",
+      "tagline": "一款基於NFT的遊戲，讓數字花卉保持活力"
+    }
+  ]
 }
