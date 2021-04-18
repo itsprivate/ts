@@ -105,5 +105,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1618718814,
-  "the_new_excerpt": "If you bought the dip within your means... 👋"
+  "the_new_excerpt": "If you bought the dip within your means... 👋",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "手の届く範囲でディップを購入した場合は 👋",
+      "title": "ディップ購入者にはハイタッチ"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "如果你在经济能力范围内买了蘸料... ... 👋",
+      "title": "沾沾自喜的买家击掌"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "如果你在經濟能力範圍內買了蘸料... ... 👋",
+      "title": "沾沾自喜的買家擊掌"
+    }
+  ]
 }
