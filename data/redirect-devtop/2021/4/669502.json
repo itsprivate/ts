@@ -49,5 +49,22 @@
   "original_created_at": "2021-04-17T15:39:28Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4C9qc-Pf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://i.imgur.com/cAMPikT.png",
   "author": "Mehdi Zed",
-  "author_url": "https://dev.to/jesuisundev"
+  "author_url": "https://dev.to/jesuisundev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Javascriptは、最も身近な言語のひとつです。しかし、使う人と使いこなす人の間には、明確な違いがあります。",
+      "title": "Javascript: 理解できなかったこと"
+    },
+    {
+      "locale": "zh",
+      "description": "Javascript是最容易上手的语言之一。但在使用它的人和掌握它的人之间，却有着明显的区别。",
+      "title": "Javascript：我不明白的地方"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Javascript是最容易上手的語言之一。但在使用它的人和掌握它的人之間，卻有着明顯的區別。",
+      "title": "Javascript：我不明白的地方"
+    }
+  ]
 }
