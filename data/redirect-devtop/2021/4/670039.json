@@ -42,5 +42,22 @@
   "original_created_at": "2021-04-18T10:20:01Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Hj3b92YO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/isals2pc869yl1jut34h.png",
   "author": "Unnati Bamania",
-  "author_url": "https://dev.to/commentme"
+  "author_url": "https://dev.to/commentme",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "シンプルさの力を過小評価してはいけません。このようなコンセプトを適用することは、想像しがたいことですが...。",
+      "title": "Vanilla JSのライブラリを使ってみましょう。"
+    },
+    {
+      "locale": "zh",
+      "description": "永远不要低估简单的力量。很难想象，像Pu......等概念的应用。",
+      "title": "一些你必须尝试的香草JS库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "永遠不要低估簡單的力量。很難想象，像Pu......等概念的應用。",
+      "title": "一些你必須嘗試的香草JS庫"
+    }
+  ]
 }
