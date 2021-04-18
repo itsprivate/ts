@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-17T21:25:46Z",
   "image": "https://dev.to/social_previews/article/669702.png",
   "author": "christine-contreras",
-  "author_url": "https://dev.to/christinecontreras"
+  "author_url": "https://dev.to/christinecontreras",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "配列やオブジェクト内のデータにアクセスすることは、Javascriptの重要な部分であり、初心者の方には必須です。",
+      "title": "配列を反復処理する7つの方法とeachを使用するタイミング"
+    },
+    {
+      "locale": "zh",
+      "description": "在数组和对象中访问数据是Javascript的一个重要部分，每个初学者都应该这样做。",
+      "title": "在数组上迭代的7种方法以及何时使用每种方法？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在數組和對象中訪問數據是Javascript的一個重要部分，每個初學者都應該這樣做。",
+      "title": "在數組上迭代的7種方法以及何時使用每種方法？"
+    }
+  ]
 }
