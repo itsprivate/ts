@@ -113,5 +113,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Sun Apr 18 12:01:05 +0000 2021"
+  "original_created_at": "Sun Apr 18 12:01:05 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "これは、女性がオンラインで異なる働き方をしているからかもしれません。https://t.co/h2huCm86mM"
+    },
+    {
+      "locale": "zh",
+      "full_text": "这可能是因为女性在网上的工作方式不同https://t.co/h2huCm86mM。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "這可能是因爲女性在網上的工作方式不同https://t.co/h2huCm86mM。"
+    }
+  ]
 }
