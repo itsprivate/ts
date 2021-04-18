@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-04-18T00:52:45.000Z",
-  "image": "https://www.go350.com/images/stats-email.webp"
+  "image": "https://www.go350.com/images/stats-email.webp",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Google Analyticsをシェルスクリプトで置き換える"
+    },
+    {
+      "locale": "zh",
+      "title": "用一个shell脚本替换Google Analytics"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "用一個shell腳本替換Google Analytics"
+    }
+  ]
 }
