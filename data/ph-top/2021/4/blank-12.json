@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-19T07:02:51Z"
+  "original_createdAt": "2021-04-19T07:02:51Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Blankは、よく使われる8つのカテゴリーの200以上のすぐに使えるブロックを集めたライブラリです。クリーンなデザインと整理されたシンボルが特徴です。SketchとFigmaに対応しています。",
+      "tagline": "ウェブサイトを素早く構築するワイヤーフレームキット"
+    },
+    {
+      "locale": "zh",
+      "description": "Blank是一个涵盖了8个热门类别的200多个即用型块的库，涵盖了最常用的主题。设计简洁，符号有序。兼容Sketch和Figma。",
+      "tagline": "快速建立网站的线框套件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Blank是一個涵蓋了8個熱門類別的200多個即用型塊的庫，涵蓋了最常用的主題。設計簡潔，符號有序。兼容Sketch和Figma。",
+      "tagline": "快速建立網站的線框套件"
+    }
+  ]
 }
