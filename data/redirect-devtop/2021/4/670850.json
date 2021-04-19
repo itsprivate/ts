@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-18T21:08:57Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8RceyyqR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lr00kwvff0hc8mmhuirq.png",
   "author": "Kingsley Ubah",
-  "author_url": "https://dev.to/ubahthebuilder"
+  "author_url": "https://dev.to/ubahthebuilder",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JavaScriptのエコシステムは巨大で、常に進化し続けています。膨大な数のライブラリ、フレームワーク、ツールが開発されています。",
+      "title": "ウェブ開発者が知っておくべき21の人気JavaScriptライブラリ "
+    },
+    {
+      "locale": "zh",
+      "description": "在这里，您可以了解到，您所需要的是什么。众多的库、框架和工具都是在这个平台上开发的。",
+      "title": "每个Web开发者都应该知道的21个流行JavaScript库 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這裏，您可以瞭解到，您所需要的是什麼。衆多的庫、框架和工具都是在這個平臺上開發的。",
+      "title": "每個Web開發者都應該知道的21個流行JavaScript庫 "
+    }
+  ]
 }
