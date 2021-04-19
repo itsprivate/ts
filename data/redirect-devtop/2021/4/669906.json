@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-18T05:24:11Z",
   "image": "https://dev.to/social_previews/article/669906.png",
   "author": "AnxinYang",
-  "author_url": "https://dev.to/anxinyang"
+  "author_url": "https://dev.to/anxinyang",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、レイジーローディンを実現するためのReactフックとReactコンポーネントを書いてみます。",
+      "title": "ReactとIntersection Observer APIによる簡単なレイジーローディング"
+    },
+    {
+      "locale": "zh",
+      "description": "在本文中，我将编写一个React钩子和一个React组件，帮助你实现懒惰加载。",
+      "title": "使用React & Intersection Observer API轻松实现懒惰加载。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在本文中，我將編寫一個React鉤子和一個React組件，幫助你實現懶惰加載。",
+      "title": "使用React & Intersection Observer API輕鬆實現懶惰加載。"
+    }
+  ]
 }
