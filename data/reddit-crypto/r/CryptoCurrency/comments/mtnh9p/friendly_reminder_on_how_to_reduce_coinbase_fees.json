@@ -1,0 +1,286 @@
+{
+  "approved_at_utc": null,
+  "subreddit": "CryptoCurrency",
+  "selftext": "If you're a crypto veteran or are not a Coinbase user, you can move on, there is nothing for you to see here.\n\nIf you are new to crypto this bull run, or if you are just getting into crypto after the Coinbase public offering, and you're looking at Coinbase and trying to understand their fees, this post is for you.\n\n**Assumptions** \\- In this post, I am assuming a few things.\n\n* You are using Coinbase (duh). If you use Binance or something else, this won't be of any help to you.\n* You are using a bank account to purchase crypto from Coinbase, not using a wire transfer.\n* Your fiat currency is **USD**. If you are using Euro or another fiat currency, the numbers will be different but the concept is the same.\n\n**Lesson 1: Do not buy your favorite crypto directly from Coinbase.com**\n\nCoinbase.com will charge you fees which are explained in more detail [here](https://help.coinbase.com/en/coinbase/trading-and-funding/pricing-and-fees/fees.html). Let's assume you wish to purchase $500 worth of Bitcoin, so you go to Coinbase and punch in $500 of Bitcoin. Your Coinbase.com transaction would look like this:\n\n[Total Cost: $500. Fee: $7.34. Amount of Bitcoin Owned: $492.66](https://preview.redd.it/1turjgk400u61.png?width=732&format=png&auto=webp&s=88326ade69bef541626cb5953a263359fe03f7f6)\n\nAs you can see, there is a **$7.34** fee associated with this transaction, which means after you send Coinbase $500, you will own only $492.66 worth of Bitcoin. \n\nLet's see if we can get that fee lower. Don't buy directly from Coinbase.com, it's as simple as that.\n\n**Lesson 2: Coinbase Pro is free to Coinbase users, it's not a premium service, and it has more advanced features and lower fees.**\n\nApparently this isn't something that is common knowledge. People hear Coinbase \"Pro:\" and they think it's some sort of premium paid subscription service. That's not the case. If you have a Coinbase account, you have access to [Coinbase Pro](https://pro.coinbase.com/) for free.\n\nIn Coinbase Pro, go to your Default Portfolio and click the Deposit button in the upper right side of the screen. Select USD, then select BanK Account. You can deposit $500 to your portfolio here without incurring any fees.\n\nhttps://preview.redd.it/qz7h50w7d0u61.png?width=882&format=png&auto=webp&s=8a298d039c433123b28c791d680ba160c5a1d26a\n\nCoinbase also allows you to transfer any crypto or fiat between Coinbase and Coinbase Pro without incurring any fees. So if you have any fiat on Coinbase.com you want to use instead of transferring from your bank, you can do this by clicking the Deposit button, selecting USD or USDC, and selecting Coinbase.com as the source.\n\nAfter the above steps, you should now have $500 USD in your Coinbase Pro portfolio.\n\n**Lesson 3: Convert USD to and from USDC without incurring any fees.**\n\nCoinbase Pro only has a handful of trading pairs that are USDC based (example: BAT-USDC) and many more that are USD based (BTC-USD). Unless you are looking to buy BAT, chances are it makes most sense to have USD. But if you do need USDC, thankfully, this is free and easy to do.\n\nGo to your Portfolio page and look at the column on the far right hand side - **Conversions**. You can convert your USD to USDC or your USDC to USD.\n\n[If necessary for your preferred trading pair, convert your USDC to USD.](https://preview.redd.it/j6q8phhn70u61.png?width=478&format=png&auto=webp&s=3bd550cd8279885e19f321c2eb8d15630a7b4b9f)\n\nAlright - at this point you either funded your account from a bank transfer or moved your funds from Coinbase.com to Coinbase Pro. So now your portfolio has $500 in it. You might be wondering \"But I wanted $500 of Bitcoin, not USD.\" We're getting there...hang in there.\n\n**Lesson 4: Buy your favorite crypto on Coinbase Pro.**\n\nNow we're finally ready to purchase your favorite crypto from Coinbase Pro. Head over to the Trade page and select the trading pair you wish to purchase. I'll continue to use Bitcoin as an example. Let's purchase $500 of Bitcoin and see how much we are paying in fees.\n\n[Total Cost: $500. Fee: $2.49. Amount of Bitcoin Owned: $497.51](https://preview.redd.it/cr4a4gy0b0u61.png?width=750&format=png&auto=webp&s=f634f5b3483598ea1319caa5b1a232d86df17f76)\n\nI have set the limit price to match exactly the price we were quoted on Coinbase.com so we can compare apples to apples.\n\nAs you can see, your same $500 only incurs a **$2.49** fee on Coinbase Pro. So your $500 gets you nearly $5 more Bitcoin if you make the transaction on Coinbase Pro as opposed to directly from Coinbase. We're getting **0.00008587666** more Bitcoin.\n\nAfter purchasing your Bitcoin, if you want you can easily transfer your Bitcoin back to Coinbase.com if you like the portfolio value tracking charts they have there better, and as we previously discussed you will not incur any additional fees for that transfer.\n\n**Lesson 5: If you are trading more than $50K per month, always do Limit Orders, not Market Orders.**\n\nCoinbase Pro may have lower fees for Limit Orders if you are a high volume trader.\n\nhttps://preview.redd.it/5eagoq1s50u61.png?width=1016&format=png&auto=webp&s=8d18c41b38f9d838c22166b35b0e290e7e8910b3\n\nThe Pricing Tiers shown above is a 30 day rolling cumulative total of all the trades you've made on the Coinbase Pro platform. If you made 5 trades that were $10K each in the last 30 days, you would be in the $50K-$100K tier for your next trade.\n\nWhen you place a Market Order that gets filled immediately, you are considered a \"taker\" and pay the Taker Fee, which ranges between 0.50% and 0.04% based on the table above.\n\nWhen you place a Limit Order which is not immediately filled, that order is placed on the order book and when it is filled you are considered the \"maker\" and will pay the Maker Fee, which ranges between 0.00% and 0.50% based on the table above.\n\nFor anyone who is below the 50K pricing tier, it will not make any difference if you are placing Market or Limit orders in terms of the fees you pay, but for anyone who is trading higher volumes, it is to your advantage to always place Limit Orders, as the fees you will pay will be lower. There are plenty of other reasons to always place limit orders, but I won't get into those.\n\n**In Conclusion**\n\n$5 might not seem like a big deal, but if you are making many transactions over time, it definitely does add up. Remember, if you owned $5 of Bitcoin when it was worth $0.003 in March of 2010, that $5 would be worth $93.3 million today.\n\nFor those looking at Coinbase.com fees and wondering if they really have to pay that much, hopefully this was helpful to you. \n\nFor those who are interested in DCAing and making regular reoccurring purchases, it might be a few extra steps, but you could be saving significant money in the long run.\n\n**TL;DR** Don't trade on Coinbase.com, instead trade on Coinbase Pro.\n\nI also tried to find a similar post to this and wasn't having any luck, so decided I would write it up. If a similar post exists, please have a mod delete this.",
+  "author_fullname": "t2_13unwk4n",
+  "saved": false,
+  "mod_reason_title": null,
+  "gilded": 0,
+  "clicked": false,
+  "title": "Friendly reminder on how to reduce Coinbase fees",
+  "link_flair_richtext": [
+    {
+      "e": "text",
+      "t": "EDUCATIONAL"
+    }
+  ],
+  "subreddit_name_prefixed": "r/CryptoCurrency",
+  "hidden": false,
+  "pwls": 6,
+  "link_flair_css_class": "EDUCATIONAL",
+  "downs": 0,
+  "thumbnail_height": 122,
+  "top_awarded_type": null,
+  "hide_score": false,
+  "media_metadata": {
+    "qz7h50w7d0u61": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 84,
+          "x": 108,
+          "u": "https://preview.redd.it/qz7h50w7d0u61.png?width=108&crop=smart&auto=webp&s=cb5a3ce25b13334841a54140c17db5fe59d06953"
+        },
+        {
+          "y": 168,
+          "x": 216,
+          "u": "https://preview.redd.it/qz7h50w7d0u61.png?width=216&crop=smart&auto=webp&s=f9aded4d581109bd29470b6d2b0ab0bee9a4635b"
+        },
+        {
+          "y": 249,
+          "x": 320,
+          "u": "https://preview.redd.it/qz7h50w7d0u61.png?width=320&crop=smart&auto=webp&s=e913d80fbc8c116a6e9c03f05c371d7ba11ac854"
+        },
+        {
+          "y": 499,
+          "x": 640,
+          "u": "https://preview.redd.it/qz7h50w7d0u61.png?width=640&crop=smart&auto=webp&s=d9b8136f2a0992816c406f89b2689f7b2448a6a7"
+        }
+      ],
+      "s": {
+        "y": 688,
+        "x": 882,
+        "u": "https://preview.redd.it/qz7h50w7d0u61.png?width=882&format=png&auto=webp&s=8a298d039c433123b28c791d680ba160c5a1d26a"
+      },
+      "id": "qz7h50w7d0u61"
+    },
+    "1turjgk400u61": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 94,
+          "x": 108,
+          "u": "https://preview.redd.it/1turjgk400u61.png?width=108&crop=smart&auto=webp&s=f8c4b0ce00f4c2d58f0c9eb0ebb9470d85c1319c"
+        },
+        {
+          "y": 189,
+          "x": 216,
+          "u": "https://preview.redd.it/1turjgk400u61.png?width=216&crop=smart&auto=webp&s=13612e06de92f925a69f30d3fcfcafd001dc565b"
+        },
+        {
+          "y": 280,
+          "x": 320,
+          "u": "https://preview.redd.it/1turjgk400u61.png?width=320&crop=smart&auto=webp&s=1c85d57a0fcb6ea1254650efe8dfa69170bbc2d9"
+        },
+        {
+          "y": 561,
+          "x": 640,
+          "u": "https://preview.redd.it/1turjgk400u61.png?width=640&crop=smart&auto=webp&s=3df75f4157723163c5f6199c67c9cfcd7c0e08f2"
+        }
+      ],
+      "s": {
+        "y": 642,
+        "x": 732,
+        "u": "https://preview.redd.it/1turjgk400u61.png?width=732&format=png&auto=webp&s=88326ade69bef541626cb5953a263359fe03f7f6"
+      },
+      "id": "1turjgk400u61"
+    },
+    "cr4a4gy0b0u61": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 157,
+          "x": 108,
+          "u": "https://preview.redd.it/cr4a4gy0b0u61.png?width=108&crop=smart&auto=webp&s=2e06bd71862797a31c8443502e5e772e608f549c"
+        },
+        {
+          "y": 315,
+          "x": 216,
+          "u": "https://preview.redd.it/cr4a4gy0b0u61.png?width=216&crop=smart&auto=webp&s=9d4cb4f6d2a491964e741837ce7f8755dfa46fe5"
+        },
+        {
+          "y": 466,
+          "x": 320,
+          "u": "https://preview.redd.it/cr4a4gy0b0u61.png?width=320&crop=smart&auto=webp&s=df961cfa523e0099caee7374f41db3dc72da1eb9"
+        },
+        {
+          "y": 933,
+          "x": 640,
+          "u": "https://preview.redd.it/cr4a4gy0b0u61.png?width=640&crop=smart&auto=webp&s=8717e754646b3f58f1512f73b4b8bea69e549c8f"
+        }
+      ],
+      "s": {
+        "y": 1094,
+        "x": 750,
+        "u": "https://preview.redd.it/cr4a4gy0b0u61.png?width=750&format=png&auto=webp&s=f634f5b3483598ea1319caa5b1a232d86df17f76"
+      },
+      "id": "cr4a4gy0b0u61"
+    },
+    "5eagoq1s50u61": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 100,
+          "x": 108,
+          "u": "https://preview.redd.it/5eagoq1s50u61.png?width=108&crop=smart&auto=webp&s=595a1d6c036fa1a0e9daa9b1eb64ff70e810f037"
+        },
+        {
+          "y": 201,
+          "x": 216,
+          "u": "https://preview.redd.it/5eagoq1s50u61.png?width=216&crop=smart&auto=webp&s=1afdedbabd5fd5410d6252ccd11cdb39f48950fa"
+        },
+        {
+          "y": 299,
+          "x": 320,
+          "u": "https://preview.redd.it/5eagoq1s50u61.png?width=320&crop=smart&auto=webp&s=88f590fd8fe879f67a375022d97d51d26c17e0da"
+        },
+        {
+          "y": 598,
+          "x": 640,
+          "u": "https://preview.redd.it/5eagoq1s50u61.png?width=640&crop=smart&auto=webp&s=1aedf34be5375d5e1b467436a80aac337c5054ac"
+        },
+        {
+          "y": 897,
+          "x": 960,
+          "u": "https://preview.redd.it/5eagoq1s50u61.png?width=960&crop=smart&auto=webp&s=e6891e8c83756f8b245792b12a22abd0057ae3e4"
+        }
+      ],
+      "s": {
+        "y": 950,
+        "x": 1016,
+        "u": "https://preview.redd.it/5eagoq1s50u61.png?width=1016&format=png&auto=webp&s=8d18c41b38f9d838c22166b35b0e290e7e8910b3"
+      },
+      "id": "5eagoq1s50u61"
+    },
+    "j6q8phhn70u61": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 79,
+          "x": 108,
+          "u": "https://preview.redd.it/j6q8phhn70u61.png?width=108&crop=smart&auto=webp&s=ff8b3f2801690fa84b27fd2cbfd465ff6e5a9733"
+        },
+        {
+          "y": 158,
+          "x": 216,
+          "u": "https://preview.redd.it/j6q8phhn70u61.png?width=216&crop=smart&auto=webp&s=c7af6f3a720a65cbcefbc5038b973c9bb6237f63"
+        },
+        {
+          "y": 234,
+          "x": 320,
+          "u": "https://preview.redd.it/j6q8phhn70u61.png?width=320&crop=smart&auto=webp&s=968195c3d7b0d0043177b6a7971e997560d05971"
+        }
+      ],
+      "s": {
+        "y": 350,
+        "x": 478,
+        "u": "https://preview.redd.it/j6q8phhn70u61.png?width=478&format=png&auto=webp&s=3bd550cd8279885e19f321c2eb8d15630a7b4b9f"
+      },
+      "id": "j6q8phhn70u61"
+    }
+  },
+  "name": "t3_mtnh9p",
+  "quarantine": false,
+  "link_flair_text_color": "dark",
+  "upvote_ratio": 0.97,
+  "author_flair_background_color": "",
+  "subreddit_type": "public",
+  "ups": 278,
+  "total_awards_received": 6,
+  "media_embed": {},
+  "thumbnail_width": 140,
+  "author_flair_template_id": null,
+  "is_original_content": false,
+  "user_reports": [],
+  "secure_media": null,
+  "is_reddit_media_domain": false,
+  "is_meta": false,
+  "category": null,
+  "secure_media_embed": {},
+  "link_flair_text": "EDUCATIONAL",
+  "can_mod_post": false,
+  "score": 278,
+  "approved_by": null,
+  "author_premium": false,
+  "thumbnail": "https://b.thumbs.redditmedia.com/HludA39j8h4E6pas24-rR4HLFftD4NXywi93cm9j5Gw.jpg",
+  "edited": false,
+  "author_flair_css_class": "Warning-level2-2",
+  "author_flair_richtext": [
+    {
+      "e": "text",
+      "t": "Tin"
+    }
+  ],
+  "gildings": {
+    "gid_1": 1
+  },
+  "content_categories": null,
+  "is_self": true,
+  "mod_note": null,
+  "created": 1618815037,
+  "link_flair_type": "richtext",
+  "wls": 6,
+  "removed_by_category": null,
+  "banned_by": null,
+  "author_flair_type": "richtext",
+  "domain": "self.CryptoCurrency",
+  "allow_live_comments": true,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>If you&#39;re a crypto veteran or are not a Coinbase user, you can move on, there is nothing for you to see here.</p>\n\n<p>If you are new to crypto this bull run, or if you are just getting into crypto after the Coinbase public offering, and you&#39;re looking at Coinbase and trying to understand their fees, this post is for you.</p>\n\n<p><strong>Assumptions</strong> - In this post, I am assuming a few things.</p>\n\n<ul>\n<li>You are using Coinbase (duh). If you use Binance or something else, this won&#39;t be of any help to you.</li>\n<li>You are using a bank account to purchase crypto from Coinbase, not using a wire transfer.</li>\n<li>Your fiat currency is <strong>USD</strong>. If you are using Euro or another fiat currency, the numbers will be different but the concept is the same.</li>\n</ul>\n\n<p><strong>Lesson 1: Do not buy your favorite crypto directly from Coinbase.com</strong></p>\n\n<p>Coinbase.com will charge you fees which are explained in more detail <a href=\"https://help.coinbase.com/en/coinbase/trading-and-funding/pricing-and-fees/fees.html\">here</a>. Let&#39;s assume you wish to purchase $500 worth of Bitcoin, so you go to Coinbase and punch in $500 of Bitcoin. Your Coinbase.com transaction would look like this:</p>\n\n<p><a href=\"https://preview.redd.it/1turjgk400u61.png?width=732&amp;format=png&amp;auto=webp&amp;s=88326ade69bef541626cb5953a263359fe03f7f6\">Total Cost: $500. Fee: $7.34. Amount of Bitcoin Owned: $492.66</a></p>\n\n<p>As you can see, there is a <strong>$7.34</strong> fee associated with this transaction, which means after you send Coinbase $500, you will own only $492.66 worth of Bitcoin. </p>\n\n<p>Let&#39;s see if we can get that fee lower. Don&#39;t buy directly from Coinbase.com, it&#39;s as simple as that.</p>\n\n<p><strong>Lesson 2: Coinbase Pro is free to Coinbase users, it&#39;s not a premium service, and it has more advanced features and lower fees.</strong></p>\n\n<p>Apparently this isn&#39;t something that is common knowledge. People hear Coinbase &quot;Pro:&quot; and they think it&#39;s some sort of premium paid subscription service. That&#39;s not the case. If you have a Coinbase account, you have access to <a href=\"https://pro.coinbase.com/\">Coinbase Pro</a> for free.</p>\n\n<p>In Coinbase Pro, go to your Default Portfolio and click the Deposit button in the upper right side of the screen. Select USD, then select BanK Account. You can deposit $500 to your portfolio here without incurring any fees.</p>\n\n<p><a href=\"https://preview.redd.it/qz7h50w7d0u61.png?width=882&amp;format=png&amp;auto=webp&amp;s=8a298d039c433123b28c791d680ba160c5a1d26a\">https://preview.redd.it/qz7h50w7d0u61.png?width=882&amp;format=png&amp;auto=webp&amp;s=8a298d039c433123b28c791d680ba160c5a1d26a</a></p>\n\n<p>Coinbase also allows you to transfer any crypto or fiat between Coinbase and Coinbase Pro without incurring any fees. So if you have any fiat on Coinbase.com you want to use instead of transferring from your bank, you can do this by clicking the Deposit button, selecting USD or USDC, and selecting Coinbase.com as the source.</p>\n\n<p>After the above steps, you should now have $500 USD in your Coinbase Pro portfolio.</p>\n\n<p><strong>Lesson 3: Convert USD to and from USDC without incurring any fees.</strong></p>\n\n<p>Coinbase Pro only has a handful of trading pairs that are USDC based (example: BAT-USDC) and many more that are USD based (BTC-USD). Unless you are looking to buy BAT, chances are it makes most sense to have USD. But if you do need USDC, thankfully, this is free and easy to do.</p>\n\n<p>Go to your Portfolio page and look at the column on the far right hand side - <strong>Conversions</strong>. You can convert your USD to USDC or your USDC to USD.</p>\n\n<p><a href=\"https://preview.redd.it/j6q8phhn70u61.png?width=478&amp;format=png&amp;auto=webp&amp;s=3bd550cd8279885e19f321c2eb8d15630a7b4b9f\">If necessary for your preferred trading pair, convert your USDC to USD.</a></p>\n\n<p>Alright - at this point you either funded your account from a bank transfer or moved your funds from Coinbase.com to Coinbase Pro. So now your portfolio has $500 in it. You might be wondering &quot;But I wanted $500 of Bitcoin, not USD.&quot; We&#39;re getting there...hang in there.</p>\n\n<p><strong>Lesson 4: Buy your favorite crypto on Coinbase Pro.</strong></p>\n\n<p>Now we&#39;re finally ready to purchase your favorite crypto from Coinbase Pro. Head over to the Trade page and select the trading pair you wish to purchase. I&#39;ll continue to use Bitcoin as an example. Let&#39;s purchase $500 of Bitcoin and see how much we are paying in fees.</p>\n\n<p><a href=\"https://preview.redd.it/cr4a4gy0b0u61.png?width=750&amp;format=png&amp;auto=webp&amp;s=f634f5b3483598ea1319caa5b1a232d86df17f76\">Total Cost: $500. Fee: $2.49. Amount of Bitcoin Owned: $497.51</a></p>\n\n<p>I have set the limit price to match exactly the price we were quoted on Coinbase.com so we can compare apples to apples.</p>\n\n<p>As you can see, your same $500 only incurs a <strong>$2.49</strong> fee on Coinbase Pro. So your $500 gets you nearly $5 more Bitcoin if you make the transaction on Coinbase Pro as opposed to directly from Coinbase. We&#39;re getting <strong>0.00008587666</strong> more Bitcoin.</p>\n\n<p>After purchasing your Bitcoin, if you want you can easily transfer your Bitcoin back to Coinbase.com if you like the portfolio value tracking charts they have there better, and as we previously discussed you will not incur any additional fees for that transfer.</p>\n\n<p><strong>Lesson 5: If you are trading more than $50K per month, always do Limit Orders, not Market Orders.</strong></p>\n\n<p>Coinbase Pro may have lower fees for Limit Orders if you are a high volume trader.</p>\n\n<p><a href=\"https://preview.redd.it/5eagoq1s50u61.png?width=1016&amp;format=png&amp;auto=webp&amp;s=8d18c41b38f9d838c22166b35b0e290e7e8910b3\">https://preview.redd.it/5eagoq1s50u61.png?width=1016&amp;format=png&amp;auto=webp&amp;s=8d18c41b38f9d838c22166b35b0e290e7e8910b3</a></p>\n\n<p>The Pricing Tiers shown above is a 30 day rolling cumulative total of all the trades you&#39;ve made on the Coinbase Pro platform. If you made 5 trades that were $10K each in the last 30 days, you would be in the $50K-$100K tier for your next trade.</p>\n\n<p>When you place a Market Order that gets filled immediately, you are considered a &quot;taker&quot; and pay the Taker Fee, which ranges between 0.50% and 0.04% based on the table above.</p>\n\n<p>When you place a Limit Order which is not immediately filled, that order is placed on the order book and when it is filled you are considered the &quot;maker&quot; and will pay the Maker Fee, which ranges between 0.00% and 0.50% based on the table above.</p>\n\n<p>For anyone who is below the 50K pricing tier, it will not make any difference if you are placing Market or Limit orders in terms of the fees you pay, but for anyone who is trading higher volumes, it is to your advantage to always place Limit Orders, as the fees you will pay will be lower. There are plenty of other reasons to always place limit orders, but I won&#39;t get into those.</p>\n\n<p><strong>In Conclusion</strong></p>\n\n<p>$5 might not seem like a big deal, but if you are making many transactions over time, it definitely does add up. Remember, if you owned $5 of Bitcoin when it was worth $0.003 in March of 2010, that $5 would be worth $93.3 million today.</p>\n\n<p>For those looking at Coinbase.com fees and wondering if they really have to pay that much, hopefully this was helpful to you. </p>\n\n<p>For those who are interested in DCAing and making regular reoccurring purchases, it might be a few extra steps, but you could be saving significant money in the long run.</p>\n\n<p><strong>TL;DR</strong> Don&#39;t trade on Coinbase.com, instead trade on Coinbase Pro.</p>\n\n<p>I also tried to find a similar post to this and wasn&#39;t having any luck, so decided I would write it up. If a similar post exists, please have a mod delete this.</p>\n</div><!-- SC_ON -->",
+  "likes": null,
+  "suggested_sort": null,
+  "banned_at_utc": null,
+  "view_count": null,
+  "archived": false,
+  "no_follow": false,
+  "is_crosspostable": false,
+  "pinned": false,
+  "over_18": false,
+  "awarders": [],
+  "media_only": false,
+  "can_gild": false,
+  "spoiler": false,
+  "locked": false,
+  "author_flair_text": "Tin",
+  "treatment_tags": [],
+  "visited": false,
+  "removed_by": null,
+  "num_reports": null,
+  "distinguished": null,
+  "subreddit_id": "t5_2wlj3",
+  "mod_reason_by": null,
+  "removal_reason": null,
+  "link_flair_background_color": "",
+  "id": "mtnh9p",
+  "is_robot_indexable": true,
+  "report_reasons": null,
+  "author": "JollyFaithlessness3",
+  "discussion_type": null,
+  "num_comments": 100,
+  "send_replies": true,
+  "whitelist_status": "all_ads",
+  "contest_mode": false,
+  "mod_reports": [],
+  "author_patreon_flair": false,
+  "author_flair_text_color": "dark",
+  "permalink": "/r/CryptoCurrency/comments/mtnh9p/friendly_reminder_on_how_to_reduce_coinbase_fees/",
+  "parent_whitelist_status": "all_ads",
+  "stickied": false,
+  "url": "https://www.reddit.com/r/CryptoCurrency/comments/mtnh9p/friendly_reminder_on_how_to_reduce_coinbase_fees/",
+  "subreddit_subscribers": 2181002,
+  "created_utc": 1618807012,
+  "num_crossposts": 0,
+  "media": null,
+  "is_video": false,
+  "original_created_utc": 1618786237,
+  "the_new_excerpt": "If you're a crypto veteran or are not a Coinbase user, you can move on, there is\nnothing for you to see here.\n\nIf you are new to crypto this bull run, or if you are just getting into crypto\nafter the Coinbase public offering, and you're looking at Coinbase and trying to\nunderstand their fees, this…"
+}
