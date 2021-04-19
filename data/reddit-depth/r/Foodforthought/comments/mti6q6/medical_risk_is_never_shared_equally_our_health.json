@@ -102,5 +102,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1618769798,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "医療リスクは決して平等に共有されるものではありません。私たちの医療制度はそれを保証するように作られています。"
+    },
+    {
+      "locale": "zh",
+      "title": "医疗风险从来都不是平等分担的。我们的医疗保健系统就是为了保证这一点而建立的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "醫療風險從來都不是平等分擔的。我們的醫療保健系統就是爲了保證這一點而建立的。"
+    }
+  ]
 }
