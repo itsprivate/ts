@@ -361,5 +361,22 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Mon Apr 19 16:59:23 +0000 2021"
+  "original_created_at": "Mon Apr 19 16:59:23 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @DocumentingBTC: 午後5時以降と週末に閉まっている割には、エネルギー使用量が多いような気がします。https://t.co/xiHndvWJZC",
+      "retweeted_status_full_text": "夕方5時以降と週末に閉店している割には、エネルギー使用量が多いような気がします。https://t.co/xiHndvWJZC"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @DocumentingBTC：对于下午5点以后和周末关闭的东西来说，似乎能耗很大。https://t.co/xiHndvWJZC。",
+      "retweeted_status_full_text": "对于下午5点以后和周末关门的东西来说，似乎能耗很大。https://t.co/xiHndvWJZC。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @DocumentingBTC：對於下午5點以後和週末關閉的東西來說，似乎能耗很大。https://t.co/xiHndvWJZC。",
+      "retweeted_status_full_text": "對於下午5點以後和週末關門的東西來說，似乎能耗很大。https://t.co/xiHndvWJZC。"
+    }
+  ]
 }
