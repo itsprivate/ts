@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-17T22:28:09Z",
   "image": "https://dev.to/social_previews/article/669717.png",
   "author": "Stacie Taylor",
-  "author_url": "https://dev.to/the_real_stacie"
+  "author_url": "https://dev.to/the_real_stacie",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Photo by Christin Hume on Unsplash あなたは約束事をしすぎるタイプですか？私もそうです。基本的に、私はいつでも完了し...",
+      "title": "Git 過剰なコミットをしていませんか？そのコミットを潰しましょう\n"
+    },
+    {
+      "locale": "zh",
+      "description": "照片：Christin Hume on Unsplash 你是一个过度承诺者吗？我也是。基本上，每当我完成...",
+      "title": "Git。你是一个过度承诺者吗？压制这些提交\n"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "照片：Christin Hume on Unsplash 你是一個過度承諾者嗎？我也是。基本上，每當我完成...",
+      "title": "Git。你是一個過度承諾者嗎？壓制這些提交\n"
+    }
+  ]
 }
