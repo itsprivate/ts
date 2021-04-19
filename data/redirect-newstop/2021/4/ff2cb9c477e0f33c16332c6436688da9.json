@@ -14,5 +14,19 @@
   "tags": [
     "BBC News"
   ],
-  "image": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.1.0/bbc_news_logo.png"
+  "image": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.1.0/bbc_news_logo.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Covid社：インドが英国の渡航禁止リストに掲載されました。"
+    },
+    {
+      "locale": "zh",
+      "title": "科维德：印度被列入英国旅游红名单，有变异之忧。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "科維德：印度被列入英國旅遊紅名單，有變異之憂。"
+    }
+  ]
 }
