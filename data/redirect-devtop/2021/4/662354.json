@@ -42,5 +42,22 @@
   "original_created_at": "2021-04-11T22:19:04Z",
   "image": "https://dev.to/social_previews/article/662354.png",
   "author": "Joseph Midura",
-  "author_url": "https://dev.to/josephmidura"
+  "author_url": "https://dev.to/josephmidura",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、ある人が「すべてのアカウントに同じSSHキーを使っている」と言っているのを耳にしたのですが、これはバ...",
+      "title": "複数のSSHキーペアを管理する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "最近，我无意中看到有人说，他的所有账户都使用同一个SSH密钥，这是个巴...",
+      "title": "如何管理多个SSH密钥对"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "最近，我無意中看到有人說，他的所有賬戶都使用同一個SSH密鑰，這是個巴...",
+      "title": "如何管理多個SSH密鑰對"
+    }
+  ]
 }
