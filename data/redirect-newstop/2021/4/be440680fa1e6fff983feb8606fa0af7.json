@@ -14,5 +14,19 @@
   "tags": [
     "The Wall Street Journal"
   ],
-  "image": "https://images.wsj.net/im-326949/social"
+  "image": "https://images.wsj.net/im-326949/social",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "インドのニューデリーでは、コヴィド-19が医療システムを限界まで拡張しているため、閉鎖されています。"
+    },
+    {
+      "locale": "zh",
+      "title": "印度新德里锁定，Covid-19使医疗系统达到极限。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "印度新德里鎖定，Covid-19使醫療系統達到極限。"
+    }
+  ]
 }
