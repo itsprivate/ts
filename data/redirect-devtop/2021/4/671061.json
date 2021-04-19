@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-19T04:29:58Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lveU_XHf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u2i1ef6dmuq6dsw2x3ym.jpeg",
   "author": "🅰️ GEEK",
-  "author_url": "https://dev.to/ageekdev"
+  "author_url": "https://dev.to/ageekdev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "すでに知っていると思っていても、日々の生産性を高めるためには十分ではないかもしれない、高度なCSSのトピックを紹介します。",
+      "title": "知っておきたいCSSの14のトピック"
+    },
+    {
+      "locale": "zh",
+      "description": "一些你认为你已经知道但可能不够深入的高级CSS主题，在日常工作中非常有成效",
+      "title": "你必须知道的14个CSS主题"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一些你認爲你已經知道但可能不夠深入的高級CSS主題，在日常工作中非常有成效",
+      "title": "你必須知道的14個CSS主題"
+    }
+  ]
 }
