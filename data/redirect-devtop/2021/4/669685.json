@@ -42,5 +42,22 @@
   "original_created_at": "2021-04-17T20:10:25Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--l5dzJW4y--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/duku3fbh3ld0805rlkv1.png",
   "author": "Emmanuel Os",
-  "author_url": "https://dev.to/eworld"
+  "author_url": "https://dev.to/eworld",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JavaScriptでカウントアプリを構築しますが、その前に、これから行うステップを紹介します...",
+      "title": "カウントダウンアプリの構築 "
+    },
+    {
+      "locale": "zh",
+      "description": "用JavaScript构建计数应用程序，但在此之前，我将强调我们将采取的步骤......",
+      "title": "构建一个倒计时应用 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "用JavaScript構建計數應用程序，但在此之前，我將強調我們將採取的步驟......",
+      "title": "構建一個倒計時應用 "
+    }
+  ]
 }
