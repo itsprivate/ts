@@ -44,5 +44,22 @@
   "original_created_at": "2021-04-18T14:38:45Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--V46LRkXF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/20pic75rz84fla22t110.png",
   "author": "Abdul Basit",
-  "author_url": "https://dev.to/abdulbasit313"
+  "author_url": "https://dev.to/abdulbasit313",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "そこで、フロントエンドの開発者である私が、ReactJSアプリでUIを高速に構築するために心掛けている、個人的に従っている上位5つの方法をご紹介します。",
+      "title": "ReactJSでUIをより速く開発するための私のトップ5の方法"
+    },
+    {
+      "locale": "zh",
+      "description": "所以，作为一个前端开发，让我来给大家讲讲我牢记的5大方法，并亲自按照这些方法在ReactJS应用中更快地构建用户界面。",
+      "title": "我在ReactJS中更快地开发用户界面的5大方法。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "所以，作爲一個前端開發，讓我來給大家講講我牢記的5大方法，並親自按照這些方法在ReactJS應用中更快地構建用戶界面。",
+      "title": "我在ReactJS中更快地開發用戶界面的5大方法。"
+    }
+  ]
 }
