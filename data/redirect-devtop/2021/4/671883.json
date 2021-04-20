@@ -48,5 +48,22 @@
   "original_created_at": "2021-04-19T18:24:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pe0IQd1s--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rn1o6vbbg57mh9pvq8hv.jpg",
   "author": "Ali Spittel",
-  "author_url": "https://dev.to/aspittel"
+  "author_url": "https://dev.to/aspittel",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、同僚たちと、ウェブ開発者としての私には、しばしば...が必要ではないかという話をしました。",
+      "title": "バニラJavaScriptでオフライン対応のフォームを作る"
+    },
+    {
+      "locale": "zh",
+      "description": "我最近与一些同事进行了一次谈话，讨论我作为一个网络开发人员是否经常需要...",
+      "title": "用Vanilla JavaScript构建一个可离线使用的表单"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我最近與一些同事進行了一次談話，討論我作爲一個網絡開發人員是否經常需要...",
+      "title": "用Vanilla JavaScript構建一個可離線使用的表單"
+    }
+  ]
 }
