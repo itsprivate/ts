@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-04-20T01:49:50.000Z",
-  "image": "https://git.kernel.org/cgit-data/cgit.png"
+  "image": "https://git.kernel.org/cgit-data/cgit.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "IBM社員が個人の電子メールアドレスを使用したためにカーネルワークを中止させられる"
+    },
+    {
+      "locale": "zh",
+      "title": "IBM员工因使用个人邮箱地址被迫停止内核工作"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "IBM員工因使用個人郵箱地址被迫停止內核工作"
+    }
+  ]
 }
