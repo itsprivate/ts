@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-20T07:01:00Z"
+  "original_createdAt": "2021-04-20T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CryptoPoopsは、Ethereumのブロックチェーン上で鋳造時にライブで生成される、愛らしいいたずら好きのNFTです。色々な形や大きさがありますが、身近に置いておきたいタイプのプープです😘。",
+      "tagline": "地球上で最もクソなNFT"
+    },
+    {
+      "locale": "zh",
+      "description": "CryptoPoops是可爱的调皮的NFT，在以太坊区块链上铸币时现场生成！它们有各种形状，但它们是你想要的Poops。它们有各种形状和大小，但它们是你想拥有的那种Poops 😘",
+      "tagline": "世界上最糟糕的NFTs"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "CryptoPoops是可愛的調皮的NFT，在以太坊區塊鏈上鑄幣時現場生成！它們有各種形狀，但它們是你想要的Poops。它們有各種形狀和大小，但它們是你想擁有的那種Poops 😘",
+      "tagline": "世界上最糟糕的NFTs"
+    }
+  ]
 }

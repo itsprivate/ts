@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-04-20T00:28:27.000Z",
-  "image": "https://shadow.github.io/assets/img/shadow-logo.png"
+  "image": "https://shadow.github.io/assets/img/shadow-logo.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Shadow Simulator - インターネットのトポロジーをシミュレートして実際のアプリケーションを実行することができます。"
+    },
+    {
+      "locale": "zh",
+      "title": "影子模拟器 - 在模拟的互联网拓扑结构上运行真实的应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "影子模擬器 - 在模擬的互聯網拓撲結構上運行真實的應用程序"
+    }
+  ]
 }
