@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-19T10:57:02Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cDBAnC6k--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ygqy478sc4b22g0kz5cm.png",
   "author": "Mads Stoumann",
-  "author_url": "https://dev.to/madsstoumann"
+  "author_url": "https://dev.to/madsstoumann",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Tom Greenfords氏の著書「Sustainable Web Design」を読んだとき、ある事実が心に残りました。",
+      "title": "ダークモード」の方が省エネになる理由。画像のエネルギーコストの算出方法 "
+    },
+    {
+      "locale": "zh",
+      "description": "当我读到Tom Greenfords的《可持续网页设计》这本优秀的书时，有一个事实让我印象深刻。",
+      "title": "为什么 \"暗模式 \"更节能？如何计算图像的能源成本 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當我讀到Tom Greenfords的《可持續網頁設計》這本優秀的書時，有一個事實讓我印象深刻。",
+      "title": "爲什麼 \"暗模式 \"更節能？如何計算圖像的能源成本 "
+    }
+  ]
 }
