@@ -83,5 +83,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-20T17:19:33Z"
+  "original_createdAt": "2021-04-20T17:19:33Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Appleは本日、Appleの「Find My」アプリで大切なアイテムを管理し、見つけることができる、小さくてエレガントなデザインのアクセサリー「AirTag」を発表しました。",
+      "tagline": "デバイスを探すための、AppleのTileへの答え"
+    },
+    {
+      "locale": "zh",
+      "description": "苹果公司今天推出了AirTag，这是一款小巧而设计优雅的配件，有助于通过苹果公司的Find My应用程序跟踪和寻找最重要的物品。",
+      "tagline": "苹果对Tile的回应，用于寻找你的设备"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "蘋果公司今天推出了AirTag，這是一款小巧而設計優雅的配件，有助於通過蘋果公司的Find My應用程序跟蹤和尋找最重要的物品。",
+      "tagline": "蘋果對Tile的迴應，用於尋找你的設備"
+    }
+  ]
 }
