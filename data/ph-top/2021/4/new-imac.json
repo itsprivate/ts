@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-20T17:49:56Z"
+  "original_createdAt": "2021-04-20T17:49:56Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "iMacは、Mac史上最高のカメラ、マイク、スピーカーを搭載し、Touch IDを初めて搭載しました。",
+      "tagline": "鮮やかなカラーバリエーションの新デザインとM1チップを搭載"
+    },
+    {
+      "locale": "zh",
+      "description": "iMac提供了Mac上有史以来最好的摄像头、麦克风和扬声器，并首次推出了Touch ID。",
+      "tagline": "新设计的一系列鲜艳的颜色，加上M1芯片"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "iMac提供了Mac上有史以來最好的攝像頭、麥克風和揚聲器，並首次推出了Touch ID。",
+      "tagline": "新設計的一系列鮮豔的顏色，加上M1芯片"
+    }
+  ]
 }
