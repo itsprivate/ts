@@ -102,5 +102,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1618867501,
-  "the_new_excerpt": "I've seen a few times where someone will post a picture an envelope (for various\nreasons) and censor their address but not the postal barcode on the envelope.\nMany countries use postal barcodes to help with automated sorting, and they can\nbe printed by the postal service themselves on handwritten…"
+  "the_new_excerpt": "I've seen a few times where someone will post a picture an envelope (for various\nreasons) and censor their address but not the postal barcode on the envelope.\nMany countries use postal barcodes to help with automated sorting, and they can\nbe printed by the postal service themselves on handwritten…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "誰かが（様々な理由で）写真を封筒に入れて投稿し、住所は検閲するが、封筒の郵便バーコードは検閲しないというケースを何度か見たことがあります。\n住所は検閲しても、封筒の郵便バーコードは検閲しないというケースを何度か見たことがあります。\n多くの国では、自動仕分けのために郵便バーコードを使用しています。\n手書きのものに郵便局が印刷していることもありますが...。",
+      "title": "YSK: 封筒には、あなたの住所が記載された郵便バーコードが印刷されていることが多いですが、封筒の写真を投稿する場合は、そのバーコードを検閲する必要があります。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我见过几次，有人会发一张图片，一个信封（用于各种\n的原因），并检查其地址，但不检查信封上的邮政条形码。\n许多国家使用邮政条形码来帮助自动分拣，而且它们能\n由邮政部门自行印制在手写...",
+      "title": "YSK：信封上往往印有邮政条码，里面有你的地址，如果你要发一张信封的照片，你应该对这个条码进行审查。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我見過幾次，有人會發一張圖片，一個信封（用於各種\n的原因），並檢查其地址，但不檢查信封上的郵政條形碼。\n許多國家使用郵政條形碼來幫助自動分揀，而且它們能\n由郵政部門自行印製在手寫...",
+      "title": "YSK：信封上往往印有郵政條碼，裏面有你的地址，如果你要發一張信封的照片，你應該對這個條碼進行審查。"
+    }
+  ]
 }
