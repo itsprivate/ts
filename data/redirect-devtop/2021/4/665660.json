@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-14T10:38:04Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--88K2K9GD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lbsewswh9ftf7f1xefs4.jpg",
   "author": "Tamerlan Gudabayev",
-  "author_url": "https://dev.to/tamerlang"
+  "author_url": "https://dev.to/tamerlang",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "バックエンドシステムを設計するのは非常に難しいことです。様々なバリエーションがありますし、多くの...",
+      "title": "マイクロサービスアーキテクチャの紹介"
+    },
+    {
+      "locale": "zh",
+      "description": "设计一个后台系统可能是非常令人生畏的。有许多不同的变化，所以很多人都不知道。",
+      "title": "微服务架构简介"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "設計一個後臺系統可能是非常令人生畏的。有許多不同的變化，所以很多人都不知道。",
+      "title": "微服務架構簡介"
+    }
+  ]
 }
