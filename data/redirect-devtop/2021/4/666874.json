@@ -52,5 +52,22 @@
   "original_created_at": "2021-04-15T12:12:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gRRfgcbq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eudq8tnb0ixfbrpipuvl.png",
   "author": "Mateusz Burzyński",
-  "author_url": "https://dev.to/andaristrake"
+  "author_url": "https://dev.to/andaristrake",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "多くの開発者が思っているのとは逆に、ツリーシェイクはそれほど複雑なものではありません。議論の対象となるのは...",
+      "title": "JavaScriptライブラリ作者のためのツリーシェイキング"
+    },
+    {
+      "locale": "zh",
+      "description": "与大多数开发者的想法相反，摇树并不是很复杂。围绕着这个问题的讨论。",
+      "title": "为JavaScript库作者提供的树形摇晃"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "與大多數開發者的想法相反，搖樹並不是很複雜。圍繞着這個問題的討論。",
+      "title": "爲JavaScript庫作者提供的樹形搖晃"
+    }
+  ]
 }
