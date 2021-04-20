@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-19T19:00:47Z",
   "image": "https://dev.to/social_previews/article/671892.png",
   "author": "Jordan Finneran",
-  "author_url": "https://dev.to/jordanfinners"
+  "author_url": "https://dev.to/jordanfinners",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "目次 イントロ 数字の書式 通貨の書式 単位の書式 概要 In...",
+      "title": "数字や通貨のフォーマットライブラリはもう使わないでください。"
+    },
+    {
+      "locale": "zh",
+      "description": "目录 介绍 数字格式 货币格式 单位格式 摘要 在...",
+      "title": "永远不要再使用数字或货币格式库!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "目錄 介紹 數字格式 貨幣格式 單位格式 摘要 在...",
+      "title": "永遠不要再使用數字或貨幣格式庫!"
+    }
+  ]
 }
