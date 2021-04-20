@@ -14,5 +14,19 @@
   "tags": [
     "The New York Times"
   ],
-  "image": "https://static01.nyt.com/images/2021/04/19/world/19ukraine0/19ukraine0-facebookJumbo.jpg"
+  "image": "https://static01.nyt.com/images/2021/04/19/world/19ukraine0/19ukraine0-facebookJumbo.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ウクライナではロシア軍が国境に集結している。"
+    },
+    {
+      "locale": "zh",
+      "title": "俄罗斯军队在乌克兰边境集结，乌克兰发出警报"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "俄羅斯軍隊在烏克蘭邊境集結，烏克蘭發出警報"
+    }
+  ]
 }
