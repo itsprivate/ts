@@ -110,5 +110,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1618863535,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これは、LibertyStandardという、ビットコインを買うために作られた最初のウェブサイトです。1ドルで1578ビットコイン、今日では88,233,870ドルの価値があるものを買うことができたのです。"
+    },
+    {
+      "locale": "zh",
+      "title": "这是有史以来第一个购买比特币的网站，LibertyStandard。一块钱，你可以买到1578个比特币，今天价值88233870美元。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是有史以來第一個購買比特幣的網站，LibertyStandard。一塊錢，你可以買到1578個比特幣，今天價值88233870美元。"
+    }
+  ]
 }
