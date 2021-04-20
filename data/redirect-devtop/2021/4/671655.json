@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-19T14:30:14Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--l_TkLpeH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://reedbarger.com/content/images/2021/04/the-react-router-cheatsheet.png",
   "author": "Reed Barger",
-  "author_url": "https://dev.to/reedbarger"
+  "author_url": "https://dev.to/reedbarger",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Web用のReactアプリケーションを構築している場合、専用のルーターを使って...",
+      "title": "The React Router Cheatsheet: 知っておくべきこと"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你正在为网络构建React应用，你将需要使用一个专用的路由器来...",
+      "title": "React Router Cheatsheet: 你应该知道的一切"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你正在爲網絡構建React應用，你將需要使用一個專用的路由器來...",
+      "title": "React Router Cheatsheet: 你應該知道的一切"
+    }
+  ]
 }
