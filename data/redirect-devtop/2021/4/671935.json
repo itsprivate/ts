@@ -41,5 +41,22 @@
   "original_created_at": "2021-04-19T19:38:46Z",
   "image": "https://dev.to/social_previews/article/671935.png",
   "author": "Brian Boyko",
-  "author_url": "https://dev.to/brianboyko"
+  "author_url": "https://dev.to/brianboyko",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "フロントエンドの仕事をしている人なら、TailwindCSSについてよく耳にしていると思います。",
+      "title": "TailwindCSS。複雑さが増し、何もしません。"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你在前端工作，你可能已经听说了很多关于TailwindCSS的事情，这是一个CSS库，很像...",
+      "title": "TailwindCSS。增加了复杂性，什么也没做。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你在前端工作，你可能已經聽說了很多關於TailwindCSS的事情，這是一個CSS庫，很像...",
+      "title": "TailwindCSS。增加了複雜性，什麼也沒做。"
+    }
+  ]
 }
