@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-20T01:26:55Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oHGVqqcr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/53f4gry0zswjpv3dbfvp.png",
   "author": "Milecia",
-  "author_url": "https://dev.to/flippedcoding"
+  "author_url": "https://dev.to/flippedcoding",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "OWASPのウェブサイトにおけるセキュリティ問題トップ10の1つは、正しく実装されていない認証です。この記事では、Node.JSを使って独自の認証システムを作る方法の1つを紹介します。",
+      "title": "Node.JSでパスワードレス認証を実装する"
+    },
+    {
+      "locale": "zh",
+      "description": "OWASP排名前十的网站安全问题之一是没有正确实施的认证。在这篇快速文章中，你将看到用Node.JS制作自己的认证系统的方法之一。",
+      "title": "在Node.JS中实现无密码认证"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "OWASP排名前十的網站安全問題之一是沒有正確實施的認證。在這篇快速文章中，你將看到用Node.JS製作自己的認證系統的方法之一。",
+      "title": "在Node.JS中實現無密碼認證"
+    }
+  ]
 }
