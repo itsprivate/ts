@@ -55,5 +55,22 @@
   "original_created_at": "2021-04-21T09:36:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5QrvjN33--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0hgng8plb9uxvubhqmgd.jpg",
   "author": "Sarthak Sharma",
-  "author_url": "https://dev.to/sarthology"
+  "author_url": "https://dev.to/sarthology",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あなたのお気に入りの観光地とその理由は？",
+      "title": "どこに行くのが一番好きですか？🏔🏝"
+    },
+    {
+      "locale": "zh",
+      "description": "你最喜欢的旅游地是哪里，为什么？",
+      "title": "你最喜欢去哪里旅行？🏔🏝"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你最喜歡的旅遊地是哪裏，爲什麼？",
+      "title": "你最喜歡去哪裏旅行？🏔🏝"
+    }
+  ]
 }
