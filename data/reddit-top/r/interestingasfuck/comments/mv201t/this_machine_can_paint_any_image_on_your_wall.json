@@ -202,5 +202,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1618957288,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この機械は、壁にどんなイメージでも描くことができます。"
+    },
+    {
+      "locale": "zh",
+      "title": "这台机器可以在你的墙上绘制任何图像。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這臺機器可以在你的牆上繪製任何圖像。"
+    }
+  ]
 }

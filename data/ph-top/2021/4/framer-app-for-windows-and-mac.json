@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-21T07:15:38Z"
+  "original_createdAt": "2021-04-21T07:15:38Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "WindowsとMacに対応した全く新しいFramerデスクトップアプリケーションが登場しました。画像の書き出し、リアルタイムのコラボレーション、スマートコンポーネントを搭載した完全無料のアプリケーションです。ブラウザのプロトタイピング機能をデスクトップで実現します。今すぐダウンロード - https://bit.ly/3as5n67",
+      "tagline": "デスクトップでのプロトタイピングの高速化"
+    },
+    {
+      "locale": "zh",
+      "description": "适用于Windows和Mac的全新的Framer桌面应用程序来了。它是完全免费的，具有图像输出、实时协作和智能组件等功能。在您的桌面上获得浏览器的原型设计能力。现在下载 - https://bit.ly/3as5n67",
+      "tagline": "在桌面上更快地进行原型设计"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "適用於Windows和Mac的全新的Framer桌面應用程序來了。它是完全免費的，具有圖像輸出、實時協作和智能組件等功能。在您的桌面上獲得瀏覽器的原型設計能力。現在下載 - https://bit.ly/3as5n67",
+      "tagline": "在桌面上更快地進行原型設計"
+    }
+  ]
 }
