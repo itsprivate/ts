@@ -57,5 +57,22 @@
   "original_created_at": "2021-04-20T23:36:47Z",
   "image": "https://dev.to/social_previews/article/673255.png",
   "author": "Gracie Gregory (she/her)",
-  "author_url": "https://dev.to/graciegregory"
+  "author_url": "https://dev.to/graciegregory",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "DevDiscuss Podcastは、インタビューから始まり、リスナーからのコメントで終わりますが、私たちが好きなのは...",
+      "title": "Forem製品の将来について、最も知りたいことは何ですか？回答すると、ポッドキャストで紹介されるチャンスがありますよ。"
+    },
+    {
+      "locale": "zh",
+      "description": "DevDiscuss播客以采访开始，以听众的评论结束--我们喜欢...",
+      "title": "关于Forem产品的未来，你最想知道什么？请回答，以便有机会在我们的播客中进行介绍!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "DevDiscuss播客以採訪開始，以聽衆的評論結束--我們喜歡...",
+      "title": "關於Forem產品的未來，你最想知道什麼？請回答，以便有機會在我們的播客中進行介紹!"
+    }
+  ]
 }
