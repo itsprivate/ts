@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-10T16:01:59Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0JsNf2Vo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6yz9vbo774q566mkrwqz.png",
   "author": "Lathindu Pramuditha",
-  "author_url": "https://dev.to/lathindu1"
+  "author_url": "https://dev.to/lathindu1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今回は、Laravelコーディングスタンダード記事シリーズの第2回目です。  もし、あなたがこの記事を読んでいなかったら...",
+      "title": "Laravelベストプラクティス【コーディングスタンダード編02】🧑🦰👩🦰"
+    },
+    {
+      "locale": "zh",
+      "description": "朋友们好，这是Laravel编码标准文章系列的第二篇文章。  如果你还没有...",
+      "title": "Laravel最佳实践[编码标准第02部分] 🧑🦰🦰ﺇ🦰"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "朋友們好，這是Laravel編碼標準文章系列的第二篇文章。  如果你還沒有...",
+      "title": "Laravel最佳實踐[編碼標準第02部分] 🧑🦰🦰ﺇ🦰"
+    }
+  ]
 }
