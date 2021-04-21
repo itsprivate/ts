@@ -43,5 +43,22 @@
   "original_created_at": "2021-04-17T02:41:08Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QEqbgNPp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/48av4pqdbdwriknsjx4b.png",
   "author": "Chuck Choi",
-  "author_url": "https://dev.to/chuckchoiboi"
+  "author_url": "https://dev.to/chuckchoiboi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このキーワードは、JavaScriptの中でも最も混乱しやすいモンスターの一つです。特にこのキーワードを知らなかった人は、このキーワードの意味を理解できないでしょう。",
+      "title": "JavaScriptの \"this \"はそんなに複雑なのですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "这个关键字可能是JavaScript中最令人困惑的怪物之一。特别是那些没有学习过的人。",
+      "title": "在JavaScript中，\"this \"真的那么复杂吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這個關鍵字可能是JavaScript中最令人困惑的怪物之一。特別是那些沒有學習過的人。",
+      "title": "在JavaScript中，\"this \"真的那麼複雜嗎？"
+    }
+  ]
 }
