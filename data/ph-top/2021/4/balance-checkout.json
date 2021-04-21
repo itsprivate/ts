@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-21T07:05:00Z"
+  "original_createdAt": "2021-04-21T07:05:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Balance Checkoutは、B2Bのすべての決済ニーズに対応した初のセルフサービス型チェックアウトです。ネットタームファイナンスから請求書発行、小切手まで、B2Bのお客様は数回のクリックでお好きな方法でお支払いいただけます。",
+      "tagline": "最初のB2Bチェックアウト"
+    },
+    {
+      "locale": "zh",
+      "description": "Balance Checkout是第一个接受所有B2B支付需求的自助式结账。从净额融资到发票再到支票，您的B2B客户终于可以按他们想要的方式付款--只需点击几下。",
+      "tagline": "第一个B2B结账"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Balance Checkout是第一個接受所有B2B支付需求的自助式結賬。從淨額融資到發票再到支票，您的B2B客戶終於可以按他們想要的方式付款--只需點擊幾下。",
+      "tagline": "第一個B2B結賬"
+    }
+  ]
 }
