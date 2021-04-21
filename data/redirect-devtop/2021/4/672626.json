@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-20T12:09:19Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7bZ8yfWD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wc7sy9yir3xn4eob6wgt.png",
   "author": "Yogini Bende",
-  "author_url": "https://dev.to/ms_yogii"
+  "author_url": "https://dev.to/ms_yogii",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "みなさん、こんにちは。Reactでプロジェクトを開発していると、ほとんどの場合、条件付きの操作やp...",
+      "title": "React Error Boundaryで優雅にエラーを処理する"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，在用React开发任何项目时，我们主要是处理条件性操作或p...",
+      "title": "用React错误边界优雅地处理错误"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，在用React開發任何項目時，我們主要是處理條件性操作或p...",
+      "title": "用React錯誤邊界優雅地處理錯誤"
+    }
+  ]
 }
