@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-21T05:52:35Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bRpSYB0o--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vmq3jrcl337whho09klo.png",
   "author": "Fayaz Ahmed",
-  "author_url": "https://dev.to/fayaz"
+  "author_url": "https://dev.to/fayaz",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "前回の投稿から随分と時間が経ってしまいましたが、今回はちょっとした記事を書こうと思い、Paymeを受け付ける方法...",
+      "title": "Stripe、Nuxt.js、vercelで決済を受け付ける "
+    },
+    {
+      "locale": "zh",
+      "description": "距离我上一篇文章已经过去很长时间了，我想写一篇关于如何接受付款的小文章。",
+      "title": "用Stripe、Nuxt.js和vercel接受付款 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "距離我上一篇文章已經過去很長時間了，我想寫一篇關於如何接受付款的小文章。",
+      "title": "用Stripe、Nuxt.js和vercel接受付款 "
+    }
+  ]
 }
