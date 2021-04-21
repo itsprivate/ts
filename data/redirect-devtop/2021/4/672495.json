@@ -50,5 +50,22 @@
   "original_created_at": "2021-04-20T08:48:45Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s---9rf0mLK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yx9vdty4yvis0ssyjuou.jpg",
   "author": " 🐤🥇 Jasper de Jager",
-  "author_url": "https://dev.to/jmdejager"
+  "author_url": "https://dev.to/jmdejager",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今日は火曜日ですね。  新しい✔||🤢Commit or Vomitの時間です! 今回は、[].some(che...]の使い方についてです。",
+      "title": "✔||🤢 コミットまたは嘔吐 | checks.some()"
+    },
+    {
+      "locale": "zh",
+      "description": "今天是星期二!   是时候做一个新的✔||🤢承诺或呕吐了! 这一次是关于使用[].some(che...",
+      "title": "✔||🤢承诺或呕吐|检查.一些()"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "今天是星期二!   是時候做一個新的✔||🤢承諾或嘔吐了! 這一次是關於使用[].some(che...",
+      "title": "✔||🤢承諾或嘔吐|檢查.一些()"
+    }
+  ]
 }

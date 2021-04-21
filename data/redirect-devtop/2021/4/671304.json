@@ -43,5 +43,22 @@
   "original_created_at": "2021-04-19T09:48:22Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3lWxBS0J--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/app-generator/django-argon-charts/master/media/django-argon-charts-mockup.png",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "データベース、認証、アクティブチャートを備えた機能的な管理者用ダッシュボードを厳選してご紹介します。",
+      "title": "データベースを使った管理者用ダッシュボード - すぐに始められる無料プロジェクト"
+    },
+    {
+      "locale": "zh",
+      "description": "一个精心策划的列表，带有数据库、认证和活动图表的功能管理仪表板。",
+      "title": "带有数据库的管理仪表板 - 免费项目快速启动"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個精心策劃的列表，帶有數據庫、認證和活動圖表的功能管理儀表板。",
+      "title": "帶有數據庫的管理儀表板 - 免費項目快速啓動"
+    }
+  ]
 }
