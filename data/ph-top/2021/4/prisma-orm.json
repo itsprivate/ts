@@ -98,5 +98,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-21T10:01:00Z"
+  "original_createdAt": "2021-04-21T10:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Prismaは、Node.jsとTypeScriptのための次世代ORMです。Prismaは、PostgreSQL、MySQL、SQLite、Microsoft SQL Server (Preview)に対応したオープンソースのORMで、アプリケーション開発者がより速く、より少ないエラーで構築できるようにします。",
+      "tagline": "Node.jsとTypeScriptのための次世代ORM"
+    },
+    {
+      "locale": "zh",
+      "description": "Prisma是用于Node.js和TypeScript的下一代ORM! Prisma帮助应用程序开发人员更快地构建，并通过PostgreSQL、MySQL、SQLite和Microsoft SQL Server（预览版）的开源ORM来减少错误。",
+      "tagline": "用于Node.js和TypeScript的下一代ORM"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Prisma是用於Node.js和TypeScript的下一代ORM! Prisma幫助應用程序開發人員更快地構建，並通過PostgreSQL、MySQL、SQLite和Microsoft SQL Server（預覽版）的開源ORM來減少錯誤。",
+      "tagline": "用於Node.js和TypeScript的下一代ORM"
+    }
+  ]
 }
