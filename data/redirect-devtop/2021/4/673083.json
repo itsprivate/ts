@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-20T17:45:07Z",
   "image": "https://dev.to/social_previews/article/673083.png",
   "author": "Pawan Bhayde",
-  "author_url": "https://dev.to/pawanbhayde"
+  "author_url": "https://dev.to/pawanbhayde",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは。今日は、私がよく使うユニークなCSSテクニックを5つご紹介します。",
+      "title": "私が最も使っている5つのCSSテクニックとは？"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，今天我有5个独特的css技术，我大部分时间都在使用，有些技术...",
+      "title": "我最常使用的5种CSS技术...!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，今天我有5個獨特的css技術，我大部分時間都在使用，有些技術...",
+      "title": "我最常使用的5種CSS技術...!"
+    }
+  ]
 }
