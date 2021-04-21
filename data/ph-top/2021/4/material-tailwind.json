@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-21T09:53:51Z"
+  "original_createdAt": "2021-04-21T09:53:51Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Material Tailwindは、Tailwind CSSとMaterial Designのための使いやすいコンポーネントライブラリです。複数のReactコンポーネントが用意されており、すべてTailwind CSSクラスとMaterial Designガイドラインで記述されています。VueJSやAngularなどのコンポーネントも近日公開予定です。",
+      "tagline": "Tailwind CSSとMaterial Designのためのコンポーネントライブラリ"
+    },
+    {
+      "locale": "zh",
+      "description": "Material Tailwind是一个易于使用的Tailwind CSS和Material Design的组件库。它具有多个React组件，都是用Tailwind CSS类和Material Design指南编写的。即将推出用于VueJS、Angular和更多的组件。",
+      "tagline": "用于Tailwind CSS & Material Design的组件库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Material Tailwind是一個易於使用的Tailwind CSS和Material Design的組件庫。它具有多個React組件，都是用Tailwind CSS類和Material Design指南編寫的。即將推出用於VueJS、Angular和更多的組件。",
+      "tagline": "用於Tailwind CSS & Material Design的組件庫"
+    }
+  ]
 }
