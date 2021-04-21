@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-04-20T12:33:16.000Z",
-  "image": "https://hyperscript.org/img/light_logo.png"
+  "image": "https://hyperscript.org/img/light_logo.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "_hyperscript: jQueryとJavaScriptの代替"
+    },
+    {
+      "locale": "zh",
+      "title": "_hyperscript: 一个jQuery和JavaScript的替代品"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "_hyperscript: 一個jQuery和JavaScript的替代品"
+    }
+  ]
 }
