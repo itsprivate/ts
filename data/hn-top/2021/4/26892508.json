@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-04-21T17:14:40.000Z",
-  "image": "https://devblogs.microsoft.com/commandline/wp-content/uploads/sites/33/2019/03/CommandLineIcon.png"
+  "image": "https://devblogs.microsoft.com/commandline/wp-content/uploads/sites/33/2019/03/CommandLineIcon.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Windows Subsystem for LinuxでGUIアプリのサポートを開始"
+    },
+    {
+      "locale": "zh",
+      "title": "GUI应用程序支持现在可用于Linux的Windows子系统"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "GUI應用程序支持現在可用於Linux的Windows子系統"
+    }
+  ]
 }
