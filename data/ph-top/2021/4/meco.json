@@ -82,5 +82,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-22T07:01:00Z"
+  "original_createdAt": "2021-04-22T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Gmailの受信ボックスに余裕を持たせながら、マインドフル・リーディングのために作られたアプリでニュースレターを楽しむことができます。",
+      "tagline": "Gmailと連携したメルマガリーダーアプリ"
+    },
+    {
+      "locale": "zh",
+      "description": "在一个为用心阅读而设计的应用程序中享受你的新闻简报，同时给你的Gmail收件箱以呼吸的空间。",
+      "tagline": "与Gmail连接的新闻简报阅读器应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在一個爲用心閱讀而設計的應用程序中享受你的新聞簡報，同時給你的Gmail收件箱以呼吸的空間。",
+      "tagline": "與Gmail連接的新聞簡報閱讀器應用程序"
+    }
+  ]
 }
