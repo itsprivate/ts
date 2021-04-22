@@ -48,5 +48,22 @@
   "original_created_at": "2021-04-20T12:33:22Z",
   "image": "https://dev.to/social_previews/article/672670.png",
   "author": "Andrzej Krzywda",
-  "author_url": "https://dev.to/andrzejkrzywda"
+  "author_url": "https://dev.to/andrzejkrzywda",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "プログラミングは私の情熱です。チームで力を合わせて何かを成し遂げることは、何よりも素晴らしいことです。",
+      "title": "フロントエンド、バックエンド - もう一度友達になりましょう"
+    },
+    {
+      "locale": "zh",
+      "description": "编程是我的激情所在。没有什么比作为一个团队，一起工作来提供一些东西更好了。",
+      "title": "前端、后端--让我们再次成为朋友"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "編程是我的激情所在。沒有什麼比作爲一個團隊，一起工作來提供一些東西更好了。",
+      "title": "前端、後端--讓我們再次成爲朋友"
+    }
+  ]
 }
