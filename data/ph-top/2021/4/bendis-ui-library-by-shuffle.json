@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-22T07:00:00Z"
+  "original_createdAt": "2021-04-22T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Bendis UI Library for Shuffle Editorは、モダンで大胆なデザインです。あなたのサイトに命を吹き込み、あなたのプロジェクトに少しだけ火を入れます。https://shuffle.dev/marketplace/bendis",
+      "tagline": "Tailwind CSSのシャープな形状と大胆なスタイル"
+    },
+    {
+      "locale": "zh",
+      "description": "Bendis UI Library for Shuffle Editor是现代和大胆的。它为你的网站带来活力，并为你的项目添加一点火力。https://shuffle.dev/marketplace/bendis",
+      "tagline": "Tailwind CSS的锐利形状和大胆风格"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Bendis UI Library for Shuffle Editor是現代和大膽的。它爲你的網站帶來活力，併爲你的項目添加一點火力。https://shuffle.dev/marketplace/bendis",
+      "tagline": "Tailwind CSS的銳利形狀和大膽風格"
+    }
+  ]
 }
