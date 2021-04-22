@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-21T13:00:00Z"
+  "original_createdAt": "2021-04-21T13:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "FormTestrは、リードフォームのテストを自動化することで、送信エラーをなくし、リードを増やし、収益を向上させます。",
+      "tagline": "壊れたフォームのためにお金を失うことは二度とありません。"
+    },
+    {
+      "locale": "zh",
+      "description": "FormTestr自动进行线索表格测试，以消除提交错误，提高线索，并增加收入。",
+      "tagline": "再也不会因为破损的表格而损失金钱"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "FormTestr自動進行線索表格測試，以消除提交錯誤，提高線索，並增加收入。",
+      "tagline": "再也不會因爲破損的表格而損失金錢"
+    }
+  ]
 }

@@ -50,5 +50,22 @@
   "original_created_at": "2021-04-21T15:37:37Z",
   "image": "https://dev.to/social_previews/article/674011.png",
   "author": "Mbenga",
-  "author_url": "https://dev.to/jeremymonatte"
+  "author_url": "https://dev.to/jeremymonatte",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今朝起きて、私が作ったポップアップを皆さんにお見せしたいと思いました。気に入ってもらえると嬉しいです。",
+      "title": "わぁ～😱 このポップな感じがとても素敵です"
+    },
+    {
+      "locale": "zh",
+      "description": "我今天早上醒来，我只是想向你展示我创建的弹出式窗口。我希望你会喜欢它。",
+      "title": "哇哦 😱，这个弹幕太漂亮了"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我今天早上醒來，我只是想向你展示我創建的彈出式窗口。我希望你會喜歡它。",
+      "title": "哇哦 😱，這個彈幕太漂亮了"
+    }
+  ]
 }
