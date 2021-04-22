@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-20T12:18:14Z",
   "image": "https://dev.to/social_previews/article/672632.png",
   "author": "Vladimir Nikitin",
-  "author_url": "https://dev.to/loonywizard"
+  "author_url": "https://dev.to/loonywizard",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、外部依存のあるTypeScriptパッケージを公開するプロセスを説明します...",
+      "title": "NPMにTypeScriptパッケージを公開する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我将介绍一个发布具有外部依赖性的TypeScript包的过程。",
+      "title": "如何将TypeScript包发布到NPM"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我將介紹一個發佈具有外部依賴性的TypeScript包的過程。",
+      "title": "如何將TypeScript包發佈到NPM"
+    }
+  ]
 }
