@@ -88,5 +88,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-22T07:01:00Z"
+  "original_createdAt": "2021-04-22T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "https://www.clerk.dev/?ref=producthunt&utm_source=producthunt&utm_campaign=launch&utm_medium=desc ReactまたはNext.jsアプリに安全な認証とユーザー管理を追加 🔒 2 factor authやデバイス管理などの必須セキュリティ機能 📈 コンバージョンに最適化されたSign UpとSign Inフォーム 🎨 内蔵されたテーマとオープンAPIで簡単にカスタマイズ可能",
+      "tagline": "5分でReactまたはNext.jsアプリケーションのセキュリティを確保"
+    },
+    {
+      "locale": "zh",
+      "description": "https://www.clerk.dev/?ref=producthunt&utm_source=producthunt&utm_campaign=launch&utm_medium=desc，为您的React或Next.js应用程序添加安全认证和用户管理 🔒 基本安全功能，如2因素认证和设备管理 📈 转换优化的注册和登录表单 🎨 内置主题和开放API，易于定制",
+      "tagline": "在5分钟内确保你的React或Next.js应用程序的安全"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "https://www.clerk.dev/?ref=producthunt&utm_source=producthunt&utm_campaign=launch&utm_medium=desc，爲您的React或Next.js應用程序添加安全認證和用戶管理 🔒 基本安全功能，如2因素認證和設備管理 📈 轉換優化的註冊和登錄表單 🎨 內置主題和開放API，易於定製",
+      "tagline": "在5分鐘內確保你的React或Next.js應用程序的安全"
+    }
+  ]
 }
