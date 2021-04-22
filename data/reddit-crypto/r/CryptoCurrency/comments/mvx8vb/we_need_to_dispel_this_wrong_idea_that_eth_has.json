@@ -1,0 +1,197 @@
+{
+  "approved_at_utc": null,
+  "subreddit": "CryptoCurrency",
+  "selftext": "Recently, many newcomers have appeared in crypto subreddits and are interested in Ethereum. Inevitably, one of the questions they ask is about ETH's \"**infinite supply**\". Probably they got this wrong idea from some maximalist video or blogpost.\n\nETH does NOT have \"infinite supply\", even water on the planet Earth is not infinite!\n\n# 1) Ethereum was designed to decrease ETH inflation to ZERO over the long term\n\nHow this works is by having a linear fixed currency issuance, eventually the inflation rate will tend towards zero.\n\nZero inflation is not good enough for you? Just read further on till you see deflation (EIP-1559)!\n\n&#x200B;\n\n[Figure from Ethereum Whitepaper: https:\\/\\/ethereum.org\\/en\\/whitepaper\\/](https://preview.redd.it/60nd4tujjnu61.png?width=1030&format=png&auto=webp&s=4b4118cafde2c1a08678035ad4cea96c9633a486)\n\n# 2) Many ETH tokens are permanently lost!\n\nThere are many various reasons, from security breaches to human error, or even death. Sending ETH to a non-Ethereum address could also cause permanent loss. This happens to all coins, even Bitcoin.\n\nThese lost ETH tokens can be considered as permanently removed from ETH's total supply, it is as good as they don't exist anymore.\n\n# 3) EIP-1559 (upcoming in July) will BURN the base fee, which will permanently reduce the ETH total supply.\n\nBurning the base fee creates an interesting feedback loop between the network usage and the ETH supply. More network activity = more ETH burnt = less ETH available to be sold on the market by miners, making the already existing ETH more valuable. \n\nBurning the base fee basically rewards the users of the network by making their ETH more scarce instead of overpaying miners. \n\nThe fee burning mechanism also sparked a few discussions about **ETH becoming deflationary**. This would be possible if the **block reward is lower than the base fee burnt**. That would be the case, for example, during the recent DeFi gas fee craze where the network was constantly under heavy utilization. \n\nRead more: [https://finematics.com/ethereum-eip-1559-explained/](https://finematics.com/ethereum-eip-1559-explained/)\n\n&#x200B;\n\nhttps://preview.redd.it/8mxfjalnjnu61.png?width=1024&format=png&auto=webp&s=675d33af2a2fecfb4a50dda839d45f10b8f4e6f7\n\n# 4) Princeton researchers have found that \"fixed supply\" of coins is UNSTABLE!\n\nPrinceton researchers: [https://www.cs.princeton.edu/\\~arvindn/publications/mining\\_CCS.pdf](https://www.cs.princeton.edu/~arvindn/publications/mining_CCS.pdf)\n\nVitalik has already realized this when writing Ethereum's whitepaper. For example, once a cryptocurrency's last coin is mined, do you think the miners will be satisfied with earning puny transaction fees? Answer is probably no. Strange things can happen then, as discovered by Princeton researchers. ETH is immune from this, thanks to early foresight by Vitalik.\n\nReferences:\n\n\\- [https://learn.equos.io/news/how-does-eth-inflation-effect-its-value](https://learn.equos.io/news/how-does-eth-inflation-effect-its-value)\n\n\\- [https://www.finder.com/ethereum-inflation-rate](https://www.finder.com/ethereum-inflation-rate)\n\n\\- [https://finematics.com/ethereum-eip-1559-explained/](https://finematics.com/ethereum-eip-1559-explained/)",
+  "author_fullname": "t2_9qhbuoha",
+  "saved": false,
+  "mod_reason_title": null,
+  "gilded": 0,
+  "clicked": false,
+  "title": "We need to dispel this WRONG IDEA that ETH has \"infinite supply\" (MUST READ for Beginners)",
+  "link_flair_richtext": [
+    {
+      "e": "text",
+      "t": "FOCUSED-DISCUSSION"
+    }
+  ],
+  "subreddit_name_prefixed": "r/CryptoCurrency",
+  "hidden": false,
+  "pwls": 6,
+  "link_flair_css_class": "FOCUSED-DISCUSSION",
+  "downs": 0,
+  "thumbnail_height": 73,
+  "top_awarded_type": null,
+  "hide_score": false,
+  "media_metadata": {
+    "8mxfjalnjnu61": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 79,
+          "x": 108,
+          "u": "https://preview.redd.it/8mxfjalnjnu61.png?width=108&crop=smart&auto=webp&s=77e07062587efb300f73d24276ce3a8ab80d61e2"
+        },
+        {
+          "y": 159,
+          "x": 216,
+          "u": "https://preview.redd.it/8mxfjalnjnu61.png?width=216&crop=smart&auto=webp&s=13b1521bb6947227385cc5705faa1cf3c216a575"
+        },
+        {
+          "y": 236,
+          "x": 320,
+          "u": "https://preview.redd.it/8mxfjalnjnu61.png?width=320&crop=smart&auto=webp&s=42b5681f7042433f035dfb27f82fc2ac69aeaafd"
+        },
+        {
+          "y": 473,
+          "x": 640,
+          "u": "https://preview.redd.it/8mxfjalnjnu61.png?width=640&crop=smart&auto=webp&s=2cb425c94082effc960f3746d82de1b38c786cb8"
+        },
+        {
+          "y": 709,
+          "x": 960,
+          "u": "https://preview.redd.it/8mxfjalnjnu61.png?width=960&crop=smart&auto=webp&s=73ab245761f4618bb9fae4b2c59b9bbaedd1a9cc"
+        }
+      ],
+      "s": {
+        "y": 757,
+        "x": 1024,
+        "u": "https://preview.redd.it/8mxfjalnjnu61.png?width=1024&format=png&auto=webp&s=675d33af2a2fecfb4a50dda839d45f10b8f4e6f7"
+      },
+      "id": "8mxfjalnjnu61"
+    },
+    "60nd4tujjnu61": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 56,
+          "x": 108,
+          "u": "https://preview.redd.it/60nd4tujjnu61.png?width=108&crop=smart&auto=webp&s=b1c75f7b90f37493c0f96274b73e58182c8c4e3a"
+        },
+        {
+          "y": 113,
+          "x": 216,
+          "u": "https://preview.redd.it/60nd4tujjnu61.png?width=216&crop=smart&auto=webp&s=cecc9f3d6a287435db5dea96330f50df161fb836"
+        },
+        {
+          "y": 167,
+          "x": 320,
+          "u": "https://preview.redd.it/60nd4tujjnu61.png?width=320&crop=smart&auto=webp&s=c98d7cb09969dbbb3244737323de8c3635588b8e"
+        },
+        {
+          "y": 335,
+          "x": 640,
+          "u": "https://preview.redd.it/60nd4tujjnu61.png?width=640&crop=smart&auto=webp&s=201820422ac602d63c39f22db25dcb342acc60b1"
+        },
+        {
+          "y": 503,
+          "x": 960,
+          "u": "https://preview.redd.it/60nd4tujjnu61.png?width=960&crop=smart&auto=webp&s=80b32b3eed4dd7a1597c74caa3423c1cb110badd"
+        }
+      ],
+      "s": {
+        "y": 540,
+        "x": 1030,
+        "u": "https://preview.redd.it/60nd4tujjnu61.png?width=1030&format=png&auto=webp&s=4b4118cafde2c1a08678035ad4cea96c9633a486"
+      },
+      "id": "60nd4tujjnu61"
+    }
+  },
+  "name": "t3_mvx8vb",
+  "quarantine": false,
+  "link_flair_text_color": "dark",
+  "upvote_ratio": 0.9,
+  "author_flair_background_color": "",
+  "subreddit_type": "public",
+  "ups": 157,
+  "total_awards_received": 8,
+  "media_embed": {},
+  "thumbnail_width": 140,
+  "author_flair_template_id": null,
+  "is_original_content": false,
+  "user_reports": [],
+  "secure_media": null,
+  "is_reddit_media_domain": false,
+  "is_meta": false,
+  "category": null,
+  "secure_media_embed": {},
+  "link_flair_text": "FOCUSED-DISCUSSION",
+  "can_mod_post": false,
+  "score": 157,
+  "approved_by": null,
+  "author_premium": true,
+  "thumbnail": "https://a.thumbs.redditmedia.com/CVihnCwSP439mtFmD66c7EsdVxe_5n9Nw9NelXKnSs0.jpg",
+  "edited": 1619069877,
+  "author_flair_css_class": "Training",
+  "author_flair_richtext": [
+    {
+      "e": "text",
+      "t": "Redditor for 3 months."
+    }
+  ],
+  "gildings": {
+    "gid_1": 2
+  },
+  "content_categories": null,
+  "is_self": true,
+  "mod_note": null,
+  "created": 1619094447,
+  "link_flair_type": "richtext",
+  "wls": 6,
+  "removed_by_category": null,
+  "banned_by": null,
+  "author_flair_type": "richtext",
+  "domain": "self.CryptoCurrency",
+  "allow_live_comments": false,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Recently, many newcomers have appeared in crypto subreddits and are interested in Ethereum. Inevitably, one of the questions they ask is about ETH&#39;s &quot;<strong>infinite supply</strong>&quot;. Probably they got this wrong idea from some maximalist video or blogpost.</p>\n\n<p>ETH does NOT have &quot;infinite supply&quot;, even water on the planet Earth is not infinite!</p>\n\n<h1>1) Ethereum was designed to decrease ETH inflation to ZERO over the long term</h1>\n\n<p>How this works is by having a linear fixed currency issuance, eventually the inflation rate will tend towards zero.</p>\n\n<p>Zero inflation is not good enough for you? Just read further on till you see deflation (EIP-1559)!</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/60nd4tujjnu61.png?width=1030&amp;format=png&amp;auto=webp&amp;s=4b4118cafde2c1a08678035ad4cea96c9633a486\">Figure from Ethereum Whitepaper: https://ethereum.org/en/whitepaper/</a></p>\n\n<h1>2) Many ETH tokens are permanently lost!</h1>\n\n<p>There are many various reasons, from security breaches to human error, or even death. Sending ETH to a non-Ethereum address could also cause permanent loss. This happens to all coins, even Bitcoin.</p>\n\n<p>These lost ETH tokens can be considered as permanently removed from ETH&#39;s total supply, it is as good as they don&#39;t exist anymore.</p>\n\n<h1>3) EIP-1559 (upcoming in July) will BURN the base fee, which will permanently reduce the ETH total supply.</h1>\n\n<p>Burning the base fee creates an interesting feedback loop between the network usage and the ETH supply. More network activity = more ETH burnt = less ETH available to be sold on the market by miners, making the already existing ETH more valuable. </p>\n\n<p>Burning the base fee basically rewards the users of the network by making their ETH more scarce instead of overpaying miners. </p>\n\n<p>The fee burning mechanism also sparked a few discussions about <strong>ETH becoming deflationary</strong>. This would be possible if the <strong>block reward is lower than the base fee burnt</strong>. That would be the case, for example, during the recent DeFi gas fee craze where the network was constantly under heavy utilization. </p>\n\n<p>Read more: <a href=\"https://finematics.com/ethereum-eip-1559-explained/\">https://finematics.com/ethereum-eip-1559-explained/</a></p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/8mxfjalnjnu61.png?width=1024&amp;format=png&amp;auto=webp&amp;s=675d33af2a2fecfb4a50dda839d45f10b8f4e6f7\">https://preview.redd.it/8mxfjalnjnu61.png?width=1024&amp;format=png&amp;auto=webp&amp;s=675d33af2a2fecfb4a50dda839d45f10b8f4e6f7</a></p>\n\n<h1>4) Princeton researchers have found that &quot;fixed supply&quot; of coins is UNSTABLE!</h1>\n\n<p>Princeton researchers: <a href=\"https://www.cs.princeton.edu/%7Earvindn/publications/mining_CCS.pdf\">https://www.cs.princeton.edu/~arvindn/publications/mining_CCS.pdf</a></p>\n\n<p>Vitalik has already realized this when writing Ethereum&#39;s whitepaper. For example, once a cryptocurrency&#39;s last coin is mined, do you think the miners will be satisfied with earning puny transaction fees? Answer is probably no. Strange things can happen then, as discovered by Princeton researchers. ETH is immune from this, thanks to early foresight by Vitalik.</p>\n\n<p>References:</p>\n\n<p>- <a href=\"https://learn.equos.io/news/how-does-eth-inflation-effect-its-value\">https://learn.equos.io/news/how-does-eth-inflation-effect-its-value</a></p>\n\n<p>- <a href=\"https://www.finder.com/ethereum-inflation-rate\">https://www.finder.com/ethereum-inflation-rate</a></p>\n\n<p>- <a href=\"https://finematics.com/ethereum-eip-1559-explained/\">https://finematics.com/ethereum-eip-1559-explained/</a></p>\n</div><!-- SC_ON -->",
+  "likes": null,
+  "suggested_sort": null,
+  "banned_at_utc": null,
+  "view_count": null,
+  "archived": false,
+  "no_follow": false,
+  "is_crosspostable": false,
+  "pinned": false,
+  "over_18": false,
+  "awarders": [],
+  "media_only": false,
+  "can_gild": false,
+  "spoiler": false,
+  "locked": false,
+  "author_flair_text": "Redditor for 3 months.",
+  "treatment_tags": [],
+  "visited": false,
+  "removed_by": null,
+  "num_reports": null,
+  "distinguished": null,
+  "subreddit_id": "t5_2wlj3",
+  "mod_reason_by": null,
+  "removal_reason": null,
+  "link_flair_background_color": "",
+  "id": "mvx8vb",
+  "is_robot_indexable": true,
+  "report_reasons": null,
+  "author": "ethereum88",
+  "discussion_type": null,
+  "num_comments": 114,
+  "send_replies": true,
+  "whitelist_status": "all_ads",
+  "contest_mode": false,
+  "mod_reports": [],
+  "author_patreon_flair": false,
+  "author_flair_text_color": "dark",
+  "permalink": "/r/CryptoCurrency/comments/mvx8vb/we_need_to_dispel_this_wrong_idea_that_eth_has/",
+  "parent_whitelist_status": "all_ads",
+  "stickied": false,
+  "url": "https://www.reddit.com/r/CryptoCurrency/comments/mvx8vb/we_need_to_dispel_this_wrong_idea_that_eth_has/",
+  "subreddit_subscribers": 2262251,
+  "created_utc": 1619111460,
+  "num_crossposts": 0,
+  "media": null,
+  "is_video": false,
+  "original_created_utc": 1619065647,
+  "the_new_excerpt": "Recently, many newcomers have appeared in crypto subreddits and are interested\nin Ethereum. Inevitably, one of the questions they ask is about ETH's \"infinite\nsupply\". Probably they got this wrong idea from some maximalist video or\nblogpost.\n\nETH does NOT have \"infinite supply\", even water on the…"
+}
