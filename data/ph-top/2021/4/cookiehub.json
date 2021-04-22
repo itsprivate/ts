@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-21T07:01:00Z"
+  "original_createdAt": "2021-04-21T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CookieHubは、自動でクッキーをスキャンする機能を備えた、ウェブ訪問者から同意を得るために必要なすべての機能を提供するクッキー同意ソリューションです。",
+      "tagline": "パワフルで使いやすいクッキー同意ソリューション"
+    },
+    {
+      "locale": "zh",
+      "description": "CookieHub是一个功能齐全的cookie同意解决方案，具有自动扫描cookie的功能，提供你所需要的一切，以获得你的网络访客的同意。",
+      "tagline": "强大且易于使用的cookie同意解决方案"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "CookieHub是一個功能齊全的cookie同意解決方案，具有自動掃描cookie的功能，提供你所需要的一切，以獲得你的網絡訪客的同意。",
+      "tagline": "強大且易於使用的cookie同意解決方案"
+    }
+  ]
 }
