@@ -14,5 +14,19 @@
   "tags": [
     "Newsweek"
   ],
-  "image": "https://d.newsweek.com/en/full/1781649/ukrainian-servicemen.jpg"
+  "image": "https://d.newsweek.com/en/full/1781649/ukrainian-servicemen.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "NATOのF-16がバルト海上空でジェット機を迎撃した後、ロシア軍はウクライナ国境から撤退。"
+    },
+    {
+      "locale": "zh",
+      "title": "北约F-16战机在波罗的海上空拦截战机后，俄罗斯军队从乌克兰边境撤军"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "北約F-16戰機在波羅的海上空攔截戰機後，俄羅斯軍隊從烏克蘭邊境撤軍"
+    }
+  ]
 }

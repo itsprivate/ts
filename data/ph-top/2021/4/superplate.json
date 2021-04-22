@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-22T08:07:01Z"
+  "original_createdAt": "2021-04-22T08:07:01Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Superplateは、フロントエンド開発者のための画期的なCLIツールです。ビルド設定を必要とせず、数秒でボイラープレートプロジェクトを作成します。",
+      "tagline": "スーパーパワーを備えたフロントエンド・ボイプレート"
+    },
+    {
+      "locale": "zh",
+      "description": "Superplate是一个革命性的CLI工具，适用于前端开发者。它可以在几秒钟内创建模板项目，而不需要构建配置。",
+      "tagline": "具有超能力的前台模板"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Superplate是一個革命性的CLI工具，適用於前端開發者。它可以在幾秒鐘內創建模板項目，而不需要構建配置。",
+      "tagline": "具有超能力的前臺模板"
+    }
+  ]
 }
