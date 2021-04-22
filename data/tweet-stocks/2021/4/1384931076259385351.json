@@ -171,5 +171,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Wed Apr 21 18:04:34 +0000 2021"
+  "original_created_at": "Wed Apr 21 18:04:34 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "株式市場が暴落している https://t.co/JL4un3F0uk"
+    },
+    {
+      "locale": "zh",
+      "full_text": "股市正在崩溃 https://t.co/JL4un3F0uk"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "股市正在崩潰 https://t.co/JL4un3F0uk"
+    }
+  ]
 }
