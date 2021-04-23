@@ -515,5 +515,22 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Fri Apr 23 07:25:02 +0000 2021"
+  "original_created_at": "Fri Apr 23 07:25:02 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @saifedean: このモデルが発表されてから2年以上が経過しましたが、価格はモデルの予測を驚くほど忠実に再現しています...",
+      "retweeted_status_full_text": "このモデルが発表されてから2年以上が経過しましたが、価格はモデルの予測と驚くべき精度で一致しています。https://t.co/bb5lgQVI29"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @saifedean: 在这个模型发布两年多后，价格继续跟踪模型的预测，价格令人吃惊。",
+      "retweeted_status_full_text": "在这个模型发表两年多后，价格继续以惊人的精确度跟踪模型的预测。https://t.co/bb5lgQVI29。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @saifedean: 在這個模型發佈兩年多後，價格繼續跟蹤模型的預測，價格令人喫驚。",
+      "retweeted_status_full_text": "在這個模型發表兩年多後，價格繼續以驚人的精確度跟蹤模型的預測。https://t.co/bb5lgQVI29。"
+    }
+  ]
 }
