@@ -3,7 +3,7 @@
   "title": "Ask HN: Does anyone else find the AWS Lambda developer experience frustrating?",
   "url": null,
   "author": "tdfirth",
-  "points": 159,
+  "points": 418,
   "story_text": "Hey HN,<p>I&#x27;ve been using AWS lambda a bit recently, mostly as a way to glue together various bits and pieces.<p>Maybe I&#x27;m doing this wrong but does anyone else find the experience to be really frustrating?<p>I can unit test bits of the code just fine, but at some point I always end up stuck in a slow feedback loop where I deploy the code, do some manual invoking, go and dig through the logs in CloudWatch, add another print statement in my lambda... and so on.<p>What I want is to run the lambdas locally, ideally more than one, and then exercise them with streams of test events (perhaps captured from a real environment). It would be quite cool if I could define BDD style tests around them too.<p>Anyone have any suggestions or share my frustrations?<p>I have heard localstack is quite good although I haven&#x27;t given it a go yet. Would that work for me? I did try SAM but I was a bit underwhelmed and I don&#x27;t want to use a separate IaC tool for these.<p>Alternatively, do other FaaS providers solve this problem?<p>Thanks for any help.",
   "comment_text": null,
   "num_comments": 137,
@@ -52,5 +52,6 @@
       "locale": "zh-Hant",
       "title": "問HN：還有人覺得AWS Lambda開發者的體驗令人沮喪嗎？"
     }
-  ]
+  ],
+  "source_updated_at": 1619171535420
 }
