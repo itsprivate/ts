@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-04-22T05:33:21.000Z",
-  "image": "https://dbgate.org/assets/screenshots/datagrid.png"
+  "image": "https://dbgate.org/assets/screenshots/datagrid.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Show HN: DbGate - オープンソースで、クロスプラットフォームのSQL+noSQLデータベースクライアント"
+    },
+    {
+      "locale": "zh",
+      "title": "Show HN: DbGate - 开源的、跨平台的SQL+noSQL数据库客户端"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Show HN: DbGate - 開源的、跨平臺的SQL+noSQL數據庫客戶端"
+    }
+  ]
 }

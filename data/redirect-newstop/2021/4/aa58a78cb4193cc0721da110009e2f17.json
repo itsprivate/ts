@@ -14,5 +14,19 @@
   "tags": [
     "BBC News"
   ],
-  "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1350C/production/_118161197_delhicryingreuters.jpg"
+  "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1350C/production/_118161197_delhicryingreuters.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Covid-19: デリーの病院で酸素供給が不足"
+    },
+    {
+      "locale": "zh",
+      "title": "Covid-19: 德里医院的氧气供应耗尽"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Covid-19: 德里醫院的氧氣供應耗盡"
+    }
+  ]
 }

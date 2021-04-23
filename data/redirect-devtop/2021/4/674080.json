@@ -50,5 +50,22 @@
   "original_created_at": "2021-04-21T16:43:36Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tVi7zHpz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ugcea04pujq093ic1ao9.jpg",
   "author": "Alfredo Salzillo 🐺",
-  "author_url": "https://dev.to/alfredosalzillo"
+  "author_url": "https://dev.to/alfredosalzillo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "React Context地獄とは？  jQueryが前時代的に使われていた頃のコールバック地獄のようなものです。",
+      "title": "React Context hell"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是React Context地狱？  就像回调地狱一样，通常在jQuery被用来做Eve...",
+      "title": "React Context地狱"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是React Context地獄？  就像回調地獄一樣，通常在jQuery被用來做Eve...",
+      "title": "React Context地獄"
+    }
+  ]
 }
