@@ -42,5 +42,22 @@
   "original_created_at": "2021-04-22T11:11:42Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ShEnuR1V--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lje8slw7lz8btjpx1pm0.png",
   "author": "Sarthak Sharma",
-  "author_url": "https://dev.to/sarthology"
+  "author_url": "https://dev.to/sarthology",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは👋🏼。プロダクトハントに別のプロダクトが登場しました。それは、あなたの管理を支援するテンプレートです...",
+      "title": "この概念テンプレートで、あなたの財務を管理してください。"
+    },
+    {
+      "locale": "zh",
+      "description": "嘿，伙计们👋🏼。刚刚推出的另一个产品的产品狩猎。它是一个模板，可以帮助你管理你的网站。",
+      "title": "用这个概念模板管理你的财务状况💰"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嘿，夥計們👋🏼。剛剛推出的另一個產品的產品狩獵。它是一個模板，可以幫助你管理你的網站。",
+      "title": "用這個概念模板管理你的財務狀況💰"
+    }
+  ]
 }

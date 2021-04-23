@@ -50,5 +50,22 @@
   "original_created_at": "2021-04-21T14:49:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SpkiG8C_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/ixartz/Next-js-Blog-Boilerplate/master/public/assets/images/nextjs-starter-banner.png",
   "author": "Rem W.",
-  "author_url": "https://dev.to/ixartz"
+  "author_url": "https://dev.to/ixartz",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "NextJS、Tailwind CSS、TypeScriptで作られたポートフォリオテンプレートです。ReactコンポーネントとUIキットを使用しており、ソースコードはGitHubで公開されています。",
+      "title": "🔥 NextJS Portfolio Template Free with Tailwind CSS and TypeScript [Open Source] 🚀。"
+    },
+    {
+      "locale": "zh",
+      "description": "使用NextJS、Tailwind CSS和TypeScript制作的NextJS组合模板。使用React组件和UI工具包构建，源代码托管在GitHub上。",
+      "title": "🔥 NextJS Portfolio Template Free with Tailwind CSS and TypeScript [Open Source] 🚀"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用NextJS、Tailwind CSS和TypeScript製作的NextJS組合模板。使用React組件和UI工具包構建，源代碼託管在GitHub上。",
+      "title": "🔥 NextJS Portfolio Template Free with Tailwind CSS and TypeScript [Open Source] 🚀"
+    }
+  ]
 }
