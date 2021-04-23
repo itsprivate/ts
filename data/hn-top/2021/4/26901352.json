@@ -1,0 +1,42 @@
+{
+  "created_at": "2021-04-23T11:41:08.462Z",
+  "title": "Ask HN: Is there a way to efficiently subscribe to an SQL query for changes?",
+  "url": null,
+  "author": "vaughan",
+  "points": 140,
+  "story_text": "I know [RethinkDB][1] used to do this with their SQL-like ReQL language, but I looked around a bit and can&#x27;t find much else about it - and I would have thought it would be more common.<p>I&#x27;m more interesting in queries with joins and doing it efficiently, instead of just tracking updates to tables that are modified, and re-rerunning the entire query.<p>If we think about modern frontends using SQL-based backends, essentially every time we render, its ultimately the result of a tree of SQL queries (queries depend on results of other queries) running in the backend. Our frontend app state is just a tree of materialized views of our database which depend on each other. We&#x27;ve got a bunch of state management libraries that deal with trees but they don&#x27;t fit so well with relational&#x2F;graph-like data.<p>I came across a Postgres proposal for [Incremental View Maintenance][2] which generates a diff against an existing query with the purpose of updating a materialized view. Oracle also has [`FAST REFRESH`][3] for materialized views.<p>I guess it&#x27;s relatively easy to do until you start needing joins or traversing graphs&#x2F;hierarchies - which is why its maybe avoided.<p>EDIT: [Materialize][1] looks interesting in this space: &quot;Execute streaming SQL Joins&quot; but more focused on the event streams rather than general-purpose DML&#x2F;OLTP.<p>[1]: https:&#x2F;&#x2F;github.com&#x2F;rethinkdb&#x2F;rethinkdb_rebirth<p>[2]: https:&#x2F;&#x2F;wiki.postgresql.org&#x2F;wiki&#x2F;Incremental_View_Maintenance<p>[3]: https:&#x2F;&#x2F;docs.oracle.com&#x2F;database&#x2F;121&#x2F;DWHSG&#x2F;refresh.htm#DWHSG8361<p>[4]: https:&#x2F;&#x2F;materialize.com&#x2F;",
+  "comment_text": null,
+  "num_comments": 83,
+  "story_id": null,
+  "story_title": null,
+  "story_url": null,
+  "parent_id": null,
+  "created_at_i": 1619089499,
+  "_tags": [
+    "story",
+    "author_vaughan",
+    "story_26901352",
+    "ask_hn",
+    "front_page"
+  ],
+  "objectID": "26901352",
+  "_highlightResult": {
+    "title": {
+      "value": "Ask HN: Is there a way to efficiently subscribe to an SQL query for changes?",
+      "matchLevel": "none",
+      "matchedWords": []
+    },
+    "author": {
+      "value": "vaughan",
+      "matchLevel": "none",
+      "matchedWords": []
+    },
+    "story_text": {
+      "value": "I know [RethinkDB][1] used to do this with their SQL-like ReQL language, but I looked around a bit and can't find much else about it - and I would have thought it would be more common.<p>I'm more interesting in queries with joins and doing it efficiently, instead of just tracking updates to tables that are modified, and re-rerunning the entire query.<p>If we think about modern frontends using SQL-based backends, essentially every time we render, its ultimately the result of a tree of SQL queries (queries depend on results of other queries) running in the backend. Our frontend app state is just a tree of materialized views of our database which depend on each other. We've got a bunch of state management libraries that deal with trees but they don't fit so well with relational/graph-like data.<p>I came across a Postgres proposal for [Incremental View Maintenance][2] which generates a diff against an existing query with the purpose of updating a materialized view. Oracle also has [`FAST REFRESH`][3] for materialized views.<p>I guess it's relatively easy to do until you start needing joins or traversing graphs/hierarchies - which is why its maybe avoided.<p>EDIT: [Materialize][1] looks interesting in this space: &quot;Execute streaming SQL Joins&quot; but more focused on the event streams rather than general-purpose DML/OLTP.<p>[1]: https://github.com/rethinkdb/rethinkdb_rebirth<p>[2]: https://wiki.postgresql.org/wiki/Incremental_View_Maintenance<p>[3]: https://docs.oracle.com/database/121/DWHSG/refresh.htm#DWHSG8361<p>[4]: https://materialize.com/",
+      "matchLevel": "none",
+      "matchedWords": []
+    }
+  },
+  "original_created_at": "2021-04-22T11:04:59.000Z",
+  "image": ""
+}
