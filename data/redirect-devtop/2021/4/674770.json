@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-22T07:54:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SgWppm2D--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t15t33oldml97ct9mez5.jpeg",
   "author": "Elio Struyf",
-  "author_url": "https://dev.to/estruyf"
+  "author_url": "https://dev.to/estruyf",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、私はAlfredを使っていたが、Raycastに切り替えた。私がRaycastを選んだ理由は、そのシンプルさにあります...",
+      "title": "自動化を次のレベルに引き上げる新しいVSCode拡張機能"
+    },
+    {
+      "locale": "zh",
+      "description": "最近我从使用Alfred转到了Raycast。让我相信Raycast的原因是它的简单性。",
+      "title": "新的VSCode扩展，将自动化提升到新的水平"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "最近我從使用Alfred轉到了Raycast。讓我相信Raycast的原因是它的簡單性。",
+      "title": "新的VSCode擴展，將自動化提升到新的水平"
+    }
+  ]
 }
