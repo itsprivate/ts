@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-19T12:34:29Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9orua6zF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5rfvfdjgtaevgqqvnxb7.jpeg",
   "author": "Sandra Spanik",
-  "author_url": "https://dev.to/sanspanic"
+  "author_url": "https://dev.to/sanspanic",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "先日、私がコーディングを始めて1周年を迎えました。この1年の間には様々な変化がありました...",
+      "title": "もっと早くから信じていればよかったコーディングのアドバイス"
+    },
+    {
+      "locale": "zh",
+      "description": "我最近庆祝了我学习编码的一周年。在过去的一年里，有很多变化。",
+      "title": "我希望我早些相信的编码建议"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我最近慶祝了我學習編碼的一週年。在過去的一年裏，有很多變化。",
+      "title": "我希望我早些相信的編碼建議"
+    }
+  ]
 }
