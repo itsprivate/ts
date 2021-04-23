@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-23T12:12:00Z"
+  "original_createdAt": "2021-04-23T12:12:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Cusdis は、オープンソースで、軽量 (~5kb gzipped) で、プライバシーに配慮したコメントシステムです。",
+      "tagline": "オープンソースの軽量なコメントシステムです。"
+    },
+    {
+      "locale": "zh",
+      "description": "Cusdis是一个开源的、轻量级的（~5kb gzipped）、有利于隐私的评论系统。",
+      "tagline": "为你的网站提供开源、轻量级的评论系统"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Cusdis是一個開源的、輕量級的（~5kb gzipped）、有利於隱私的評論系統。",
+      "tagline": "爲你的網站提供開源、輕量級的評論系統"
+    }
+  ]
 }
