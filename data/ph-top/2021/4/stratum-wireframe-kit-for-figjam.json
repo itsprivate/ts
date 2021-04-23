@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-23T07:35:06Z"
+  "original_createdAt": "2021-04-23T07:35:06Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Stratum Wireframe Kitは、FigJamでワイヤーフレームを作成するためのコンポーネントを集めたライブラリです。オートレイアウトとバリアントをサポートしています。誰でも、いつまでも無料で使えます。",
+      "tagline": "FigJamでのワイヤーフレーム作成に欠けているコンポーネント"
+    },
+    {
+      "locale": "zh",
+      "description": "Stratum Wireframe Kit 是一个用于在 FigJam 中进行线框设计的组件库。支持自动布局和变体。每个人都可以免费使用，并且永远免费。",
+      "tagline": "FigJam中的线框设计所缺少的组件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Stratum Wireframe Kit 是一個用於在 FigJam 中進行線框設計的組件庫。支持自動佈局和變體。每個人都可以免費使用，並且永遠免費。",
+      "tagline": "FigJam中的線框設計所缺少的組件"
+    }
+  ]
 }
