@@ -83,5 +83,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-22T09:18:32Z"
+  "original_createdAt": "2021-04-22T09:18:32Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "HTTPDumpは、データをダンプし、リアルタイムで検査するためのユニークなエンドポイントを提供します。また、レスポンスの比較やモックを作成することもできます。",
+      "tagline": "HTTPリクエストの検査、比較、レスポンスのモックアップ"
+    },
+    {
+      "locale": "zh",
+      "description": "HTTPDump为你提供了独特的端点来转储数据和实时检查。它还使你能够比较或模拟响应。",
+      "tagline": "检查HTTP请求，比较它们或模拟响应"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "HTTPDump爲你提供了獨特的端點來轉儲數據和實時檢查。它還使你能夠比較或模擬響應。",
+      "tagline": "檢查HTTP請求，比較它們或模擬響應"
+    }
+  ]
 }

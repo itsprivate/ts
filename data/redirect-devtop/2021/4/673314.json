@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-21T03:10:55Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VaavUAHC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ak2fuy1fktt8wny594uw.jpeg",
   "author": "Alexandra",
-  "author_url": "https://dev.to/beendra"
+  "author_url": "https://dev.to/beendra",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactで動的なデータがあるときはどうしますか？ステートを使いましょう!  コンポーネントのステートは、そのプロップとは異なり...",
+      "title": "レアック＆ステート"
+    },
+    {
+      "locale": "zh",
+      "description": "当你在React中拥有动态数据时，你该怎么做？使用状态!  一个组件的状态，与它的道具不同...",
+      "title": "反应与状态"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當你在React中擁有動態數據時，你該怎麼做？使用狀態!  一個組件的狀態，與它的道具不同...",
+      "title": "反應與狀態"
+    }
+  ]
 }

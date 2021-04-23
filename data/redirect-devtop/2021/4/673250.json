@@ -57,5 +57,22 @@
   "original_created_at": "2021-04-20T23:19:07Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SYjgEvVZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pza3k7wa5a6y1iwiuuo6.png",
   "author": "Jess Lee (she/her)",
-  "author_url": "https://dev.to/jess"
+  "author_url": "https://dev.to/jess",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "アースデイ2021",
+      "title": "オープンソースソフトウェアで健康な地球を作る"
+    },
+    {
+      "locale": "zh",
+      "description": "2021年地球日",
+      "title": "用开源软件建设一个更健康的地球"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "2021年地球日",
+      "title": "用開源軟件建設一個更健康的地球"
+    }
+  ]
 }
