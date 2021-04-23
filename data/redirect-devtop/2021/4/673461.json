@@ -41,5 +41,22 @@
   "original_created_at": "2021-04-21T06:14:18Z",
   "image": "https://dev.to/social_previews/article/673461.png",
   "author": "Joanna Otmianowska",
-  "author_url": "https://dev.to/joannaotmianowska"
+  "author_url": "https://dev.to/joannaotmianowska",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、フォームを作っていて、ある日、フィールドの入力にタイプの検証を追加するというタスクがありました。私の...",
+      "title": "ファイルの入力タイプを検証する最もシンプルな方法"
+    },
+    {
+      "locale": "zh",
+      "description": "我最近在做一个表单，有一天我接到一个任务，要给字段输入添加类型验证。我的...",
+      "title": "验证文件输入类型的最简单方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我最近在做一個表單，有一天我接到一個任務，要給字段輸入添加類型驗證。我的...",
+      "title": "驗證文件輸入類型的最簡單方法"
+    }
+  ]
 }

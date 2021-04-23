@@ -81,5 +81,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-23T07:01:00Z"
+  "original_createdAt": "2021-04-23T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Wikipedia、Blinkist、Ankiの3人がバーに行く。酔っぱらって、落ち込んで、そして、それがある。knuggetでは、知識のナゲットを発見し、間隔を空けた反復の助けを借りて、それらを覚えておくことができます。",
+      "tagline": "コミュニティベースのBlinkist（間隔を空けた反復を組み込んだもの"
+    },
+    {
+      "locale": "zh",
+      "description": "维基百科、Blinkist和Anki走进了一家酒吧。他们喝得酩酊大醉，倒地不起，然后呼呼大睡--这就是了。在knugget上，你可以发现知识块，并在间隔重复的帮助下把它们记在心里。",
+      "tagline": "以社区为基础的Blinkist，有内置的间隔复读功能"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "維基百科、Blinkist和Anki走進了一家酒吧。他們喝得酩酊大醉，倒地不起，然後呼呼大睡--這就是了。在knugget上，你可以發現知識塊，並在間隔重複的幫助下把它們記在心裏。",
+      "tagline": "以社區爲基礎的Blinkist，有內置的間隔復讀功能"
+    }
+  ]
 }
