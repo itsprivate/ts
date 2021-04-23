@@ -50,5 +50,22 @@
   "original_created_at": "2021-04-21T17:17:57Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8WrF3GeW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8wxw10q5nz9h63f2y7po.jpeg",
   "author": "Ryan Carniato",
-  "author_url": "https://dev.to/ryansolid"
+  "author_url": "https://dev.to/ryansolid",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "新しいライブラリーを作ったことはありますか？仕事でプロジェクトを作成する際に、ギャップを感じたことがあると思います。そこで、あなたが取り組んだのは...",
+      "title": "ニワトリとブタの話 - クリエイターのセルフプロモーションのジレンマ"
+    },
+    {
+      "locale": "zh",
+      "description": "你有没有创建过一个新的图书馆？你在工作中创建一个项目时看到了一个缺口。于是你就在...",
+      "title": "鸡与猪》--造物主自我推销的窘境"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你有沒有創建過一個新的圖書館？你在工作中創建一個項目時看到了一個缺口。於是你就在...",
+      "title": "雞與豬》--造物主自我推銷的窘境"
+    }
+  ]
 }
