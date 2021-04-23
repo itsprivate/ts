@@ -153,5 +153,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1619136715,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Firefox が Windows のエラーに遭遇しました。"
+    },
+    {
+      "locale": "zh",
+      "title": "火狐浏览器遇到了一个Windows错误"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "火狐瀏覽器遇到了一個Windows錯誤"
+    }
+  ]
 }
