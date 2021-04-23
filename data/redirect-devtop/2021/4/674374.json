@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-21T22:04:51Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--H8gQP1_i--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z2htrg56of1pio7tmcng.png",
   "author": "Ellaine Tolentino",
-  "author_url": "https://dev.to/tolentinoel"
+  "author_url": "https://dev.to/tolentinoel",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私がコーディングブートキャンプに参加していた頃、あるプロジェクトでlocalStorageを利用していました。I...",
+      "title": "localStorageとは？"
+    },
+    {
+      "locale": "zh",
+      "description": "在我参加编码训练营的时候，我曾在一个项目中遇到过利用localStorage的情况。I...",
+      "title": "什么是localStorage？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在我參加編碼訓練營的時候，我曾在一個項目中遇到過利用localStorage的情況。I...",
+      "title": "什麼是localStorage？"
+    }
+  ]
 }
