@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-22T10:55:23Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Jgvk2hKj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5hv2is6ore1spdpllyrs.jpg",
   "author": "Creative Tim",
-  "author_url": "https://dev.to/creativetim_official"
+  "author_url": "https://dev.to/creativetim_official",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ユーザー・インターフェースを語るとき、最も重要なのはその外観です。それは、インタラクション...",
+      "title": "Web開発者のための新しいフレームワーク「Material Tailwind"
+    },
+    {
+      "locale": "zh",
+      "description": "当谈及用户界面时，最重要的是它的外观。它是互动的。",
+      "title": "Material Tailwind--网络开发者的新框架"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當談及用戶界面時，最重要的是它的外觀。它是互動的。",
+      "title": "Material Tailwind--網絡開發者的新框架"
+    }
+  ]
 }
