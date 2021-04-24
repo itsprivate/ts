@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-24T08:53:09Z"
+  "original_createdAt": "2021-04-24T08:53:09Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Memegineは、インターネット上のミームのための唯一の全文検索エンジンであり、インターネット上のあらゆる場所から数百万のミーム画像を検索することができます。",
+      "tagline": "ミームの検索エンジン"
+    },
+    {
+      "locale": "zh",
+      "description": "Memegine是唯一的互联网备忘录全文搜索引擎，允许你搜索来自互联网所有地方的数百万备忘录图片。",
+      "tagline": "记忆体的搜索引擎"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Memegine是唯一的互聯網備忘錄全文搜索引擎，允許你搜索來自互聯網所有地方的數百萬備忘錄圖片。",
+      "tagline": "記憶體的搜索引擎"
+    }
+  ]
 }
