@@ -43,5 +43,22 @@
   "original_created_at": "2021-04-22T19:55:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WFaJh19U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1j5ur8nkhy15b2twrsg8.jpeg",
   "author": "Kinanee Samson",
-  "author_url": "https://dev.to/kalashin1"
+  "author_url": "https://dev.to/kalashin1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "もしあなたがJavaScriptの開発者であれば、コンソールオブジェクトを何度も使ったことがあるかもしれません。",
+      "title": "Javascriptコンソールのスーパーパワー"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你是一个JavaScript开发人员，那么你可能已经使用了更多的控制台对象。",
+      "title": "Javascript控制台的超级力量"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你是一個JavaScript開發人員，那麼你可能已經使用了更多的控制檯對象。",
+      "title": "Javascript控制檯的超級力量"
+    }
+  ]
 }
