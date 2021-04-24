@@ -163,5 +163,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1619261099,
-  "the_new_excerpt": "I have recently shared my latest project with you guys - a trading algorithm\nconnected to Binance that buys cryptocurrencies based on how positive the daily\nnews sentiment is for the top 100 crypto news feeds.\n\nWith the help of some talented Redditors and GitHub contributors, the algorithm\nis now…"
+  "the_new_excerpt": "I have recently shared my latest project with you guys - a trading algorithm\nconnected to Binance that buys cryptocurrencies based on how positive the daily\nnews sentiment is for the top 100 crypto news feeds.\n\nWith the help of some talented Redditors and GitHub contributors, the algorithm\nis now…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私は先日、最新のプロジェクトを皆さんに紹介しました。\nBinanceに接続されていて、上位100の暗号ニュースフィードの日々のニュースセンチメントがどれだけポジティブかに基づいて暗号通貨を購入するというものです。\nこのアルゴリズムは、Binanceに接続されており、上位100の暗号ニュースフィードの日々のニュースセンチメントがどれだけポジティブかに基づいて暗号通貨を購入します。\n\n才能あるRedditorやGitHubのコントリビューターの助けを借りて、このアルゴリズムは今では\nは現在...",
+      "title": "私は、日々のニュースのセンチメントに基づいて取引を行う、私の暗号アルゴリズムのより強力なバージョンをリリースし、それはすべてオープンソースです。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我最近与你们分享了我的最新项目--一个与Binance相连的交易算法。\n连接到Binance，根据每日100条加密货币新闻的积极程度来购买加密货币。\n购入加密货币，其依据是每日前100个加密货币新闻的积极程度。\n\n在一些有才华的Redditors和GitHub贡献者的帮助下，该算法\n现在是...",
+      "title": "我已经发布了我的加密货币算法的一个更强大的版本，该算法根据每天的新闻情绪进行交易，而且它是全部开源的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我最近與你們分享了我的最新項目--一個與Binance相連的交易算法。\n連接到Binance，根據每日100條加密貨幣新聞的積極程度來購買加密貨幣。\n購入加密貨幣，其依據是每日前100個加密貨幣新聞的積極程度。\n\n在一些有才華的Redditors和GitHub貢獻者的幫助下，該算法\n現在是...",
+      "title": "我已經發布了我的加密貨幣算法的一個更強大的版本，該算法根據每天的新聞情緒進行交易，而且它是全部開源的。"
+    }
+  ]
 }
