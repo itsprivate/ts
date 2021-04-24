@@ -41,5 +41,22 @@
   "original_created_at": "2021-04-22T19:00:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IGv4xiYw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w56lzqh3m0eiwagk5m8s.jpeg",
   "author": "charly3pins",
-  "author_url": "https://dev.to/charly3pins"
+  "author_url": "https://dev.to/charly3pins",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "日中は勤めている会社のコーディングをして、夜や週末は...という時間が多いですね。",
+      "title": "VS Codeのための私の生産性のセットアップ"
+    },
+    {
+      "locale": "zh",
+      "description": "我白天花很多时间为我工作的公司编码，晚上或周末则花很多时间。",
+      "title": "我对VS Code的生产力设置"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我白天花很多時間爲我工作的公司編碼，晚上或週末則花很多時間。",
+      "title": "我對VS Code的生產力設置"
+    }
+  ]
 }
