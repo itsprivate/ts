@@ -52,5 +52,22 @@
   "original_created_at": "2021-04-21T14:30:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DXH5xL-n--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nehhcximvj9ba5s0sy7r.png",
   "author": "Taylor Reece",
-  "author_url": "https://dev.to/taylorreece"
+  "author_url": "https://dev.to/taylorreece",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "何ヶ月もの開発期間を経て、私のチームは先日、私たちのプラットフォームの一般公開を発表しました。このプラットフォームは...",
+      "title": "ラムダからECSに移行した理由"
+    },
+    {
+      "locale": "zh",
+      "description": "经过许多个月的开发，我的团队刚刚宣布我们的平台可以普遍使用。这...",
+      "title": "我们为什么从Lambda转移到ECS？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "經過許多個月的開發，我的團隊剛剛宣佈我們的平臺可以普遍使用。這...",
+      "title": "我們爲什麼從Lambda轉移到ECS？"
+    }
+  ]
 }

@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-22T12:22:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mWh8N6zk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o4reklrtpwpr9oh36uef.png",
   "author": "Kushagra Mehta",
-  "author_url": "https://dev.to/kushagra_mehta"
+  "author_url": "https://dev.to/kushagra_mehta",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "認証とは、簡単に言えば、アプリケーションに対して「あなたは誰ですか😕」と言うことです。認証とは...",
+      "title": "認証におけるゼロからヒーロー(▀̿Ĺ̯▀̿)まで｜第2回"
+    },
+    {
+      "locale": "zh",
+      "description": "简单地说，认证就是对一个应用程序说 \"你是谁\"。身份验证是指对一个应用程序说 \"你是谁\"。",
+      "title": "从零到英雄（̿Ĺ̯̿）的认证｜第二部分"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡單地說，認證就是對一個應用程序說 \"你是誰\"。身份驗證是指對一個應用程序說 \"你是誰\"。",
+      "title": "從零到英雄（̿Ĺ̯̿）的認證｜第二部分"
+    }
+  ]
 }
