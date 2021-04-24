@@ -41,5 +41,22 @@
   "original_created_at": "2021-04-23T09:02:28Z",
   "image": "https://dev.to/social_previews/article/676034.png",
   "author": "Cecilia Baggini",
-  "author_url": "https://dev.to/cbaggini"
+  "author_url": "https://dev.to/cbaggini",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、私はNode.jsとExpressを使ってAPIを構築する方法を学んでいます。決まった基準はありません。",
+      "title": "RESTful APIを構築するためのベスト・プラクティス"
+    },
+    {
+      "locale": "zh",
+      "description": "最近，我一直在学习如何使用Node.js和Express来构建API。没有固定的标准。",
+      "title": "构建RESTful API的最佳实践"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "最近，我一直在學習如何使用Node.js和Express來構建API。沒有固定的標準。",
+      "title": "構建RESTful API的最佳實踐"
+    }
+  ]
 }
