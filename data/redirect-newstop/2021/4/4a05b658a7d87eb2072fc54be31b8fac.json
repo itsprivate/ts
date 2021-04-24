@@ -14,5 +14,19 @@
   "tags": [
     "Fox News"
   ],
-  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Indonesian-sub-resize.jpg"
+  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Indonesian-sub-resize.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "インドネシアの潜水艦が沈没宣言、生存者の見込みなし"
+    },
+    {
+      "locale": "zh",
+      "title": "印尼潜艇宣布沉没，幸存者无望"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "印尼潛艇宣佈沉沒，倖存者無望"
+    }
+  ]
 }
