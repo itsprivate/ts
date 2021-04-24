@@ -41,5 +41,22 @@
   "original_created_at": "2021-04-23T10:36:42Z",
   "image": "https://dev.to/social_previews/article/676165.png",
   "author": "Julien Maury",
-  "author_url": "https://dev.to/jmau111"
+  "author_url": "https://dev.to/jmau111",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "信じられないかもしれませんが、2021年にjQueryを含む新しいプロジェクトを目にしますが、IMHOとしては残念なことです。ここでは、sh...",
+      "title": "jQuery: 王様は死んだ"
+    },
+    {
+      "locale": "zh",
+      "description": "信不信由你，我在2021年看到包括jQuery的新项目，而且，IMHO，这是一个耻辱。下面是一个关于jQuery的视频。",
+      "title": "jQuery：国王已死"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "信不信由你，我在2021年看到包括jQuery的新項目，而且，IMHO，這是一個恥辱。下面是一個關於jQuery的視頻。",
+      "title": "jQuery：國王已死"
+    }
+  ]
 }
