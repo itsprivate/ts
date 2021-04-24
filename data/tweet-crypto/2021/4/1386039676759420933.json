@@ -377,5 +377,22 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Sat Apr 24 19:29:44 +0000 2021"
+  "original_created_at": "Sat Apr 24 19:29:44 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @therationalroot: これは怖いくらいに近い展開になってきましたね。\n#ビットコイン https://t.co/ENxTlZilLl",
+      "retweeted_status_full_text": "これは怖いくらいに近い展開になってきましたね。\n#Bitcoin https://t.co/ENxTlZilLl"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @therationalroot: 这开始上演吓人的一幕。\n#Bitcoin https://t.co/ENxTlZilLl",
+      "retweeted_status_full_text": "这开始上演吓人的一幕。\n#Bitcoin https://t.co/ENxTlZilLl"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @therationalroot: 這開始上演嚇人的一幕。\n#Bitcoin https://t.co/ENxTlZilLl",
+      "retweeted_status_full_text": "這開始上演嚇人的一幕。\n#Bitcoin https://t.co/ENxTlZilLl"
+    }
+  ]
 }
