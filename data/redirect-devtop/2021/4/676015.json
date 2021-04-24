@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-23T08:26:42Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--T0Xa0okm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/si9y48tlb7z61y9d5qp3.png",
   "author": "Andrew Baisden",
-  "author_url": "https://dev.to/andrewbaisden"
+  "author_url": "https://dev.to/andrewbaisden",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このチュートリアルでは、Model-view-controller (MVC)を使ってNodeのバックエンドを作成する方法を学びます...",
+      "title": "MVCソフトウェアデザインパターンを用いたNodeバックエンドの作成"
+    },
+    {
+      "locale": "zh",
+      "description": "在本教程中，你将学习如何使用模型-视图-控制器（MVC）技术创建一个Node后端。",
+      "title": "使用MVC软件设计模式创建一个Node后端"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在本教程中，你將學習如何使用模型-視圖-控制器（MVC）技術創建一個Node後端。",
+      "title": "使用MVC軟件設計模式創建一個Node後端"
+    }
+  ]
 }
