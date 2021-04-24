@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-24T07:08:06Z"
+  "original_createdAt": "2021-04-24T07:08:06Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Notionでは、イベント、タスク、プロジェクトのスケジュールを立てることができます。",
+      "tagline": "イベント、タスク、プロジェクトのスケジュールを立てることができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "在Notion中安排你的事件、任务和项目。",
+      "tagline": "安排你的活动、任务和项目。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在Notion中安排你的事件、任務和項目。",
+      "tagline": "安排你的活動、任務和項目。"
+    }
+  ]
 }
