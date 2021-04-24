@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-23T08:21:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RxYJ3s2f--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hp35dcz4fpxc88vegple.gif",
   "author": "Jash Gopani",
-  "author_url": "https://dev.to/jashgopani"
+  "author_url": "https://dev.to/jashgopani",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Windows 10のホバー効果に魅了され、その効果を再現したいと考えている方にお勧めです。",
+      "title": "HTML, CSS, vanilla JSを使ったWindows 10ボタンのホバー効果"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你是那些对windows 10的悬停效果着迷的人之一，并想重新创建。",
+      "title": "使用HTML、CSS和vanilla JS的Windows 10按钮悬停效果"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你是那些對windows 10的懸停效果着迷的人之一，並想重新創建。",
+      "title": "使用HTML、CSS和vanilla JS的Windows 10按鈕懸停效果"
+    }
+  ]
 }
