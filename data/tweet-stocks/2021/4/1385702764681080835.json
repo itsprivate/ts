@@ -92,5 +92,19 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Fri Apr 23 21:10:58 +0000 2021"
+  "original_created_at": "Fri Apr 23 21:10:58 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "銘柄が修正されると、誰が宿題をしていたのか、誰がおんぶにだっこだったのかがわかります。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "当一只股票纠正时，你会发现谁做了功课，谁在搭便车。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "當一隻股票糾正時，你會發現誰做了功課，誰在搭便車。"
+    }
+  ]
 }
