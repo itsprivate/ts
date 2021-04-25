@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-23T18:54:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--i9nKAQgr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e0po4ke7wy5q36iz87qo.gif",
   "author": "Jash Gopani",
-  "author_url": "https://dev.to/jashgopani"
+  "author_url": "https://dev.to/jashgopani",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、前回の記事を読んでここにたどり着いた方、おめでとうございます。",
+      "title": "HTML, CSS, vanilla JSを使ったWindows 10グリッドホバー効果"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，如果你是在阅读了我的上一篇文章之后来到这里的，我想祝贺你，因为你在这里。",
+      "title": "使用HTML、CSS和vanilla JS的Windows 10网格悬停效果"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，如果你是在閱讀了我的上一篇文章之後來到這裏的，我想祝賀你，因爲你在這裏。",
+      "title": "使用HTML、CSS和vanilla JS的Windows 10網格懸停效果"
+    }
+  ]
 }
