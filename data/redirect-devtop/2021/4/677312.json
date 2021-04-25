@@ -43,5 +43,22 @@
   "original_created_at": "2021-04-24T15:43:04Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--El5FyxzH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://www.admin-dashboards.com/content/images/size/w2000/2021/04/cover-blog-notus-react-2.jpg",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Creative-Tim氏によるReactとTailwind CSSで作られたオープンソースのUIキットです。",
+      "title": "Notus React - 無料のTailwind UIキット"
+    },
+    {
+      "locale": "zh",
+      "description": "Creative-Tim使用React和Tailwind CSS制作的开源UI工具包 - 该项目可以直接从Github下载。",
+      "title": "Notus React - 免费的Tailwind UI工具包"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Creative-Tim使用React和Tailwind CSS製作的開源UI工具包 - 該項目可以直接從Github下載。",
+      "title": "Notus React - 免費的Tailwind UI工具包"
+    }
+  ]
 }
