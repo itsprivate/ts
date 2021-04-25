@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-04-25T07:21:09.000Z",
-  "image": "https://openastrotech.com/wp-content/plugins/revslider/public/assets/assets/dummy.png"
+  "image": "https://openastrotech.com/wp-content/plugins/revslider/public/assets/assets/dummy.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "OpenAstroTracker：3Dプリントされたオープンソースの星空観測装置"
+    },
+    {
+      "locale": "zh",
+      "title": "OpenAstroTracker：3D打印的开源恒星追踪器"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "OpenAstroTracker：3D打印的開源恆星追蹤器"
+    }
+  ]
 }
