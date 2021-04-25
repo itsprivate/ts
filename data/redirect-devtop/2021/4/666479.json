@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-15T02:08:16Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JzOMCXdH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hmg28y6wnaii0929wlem.png",
   "author": "Andrew",
-  "author_url": "https://dev.to/techcheck"
+  "author_url": "https://dev.to/techcheck",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "なぜFetchを使うのか？  ユーザーが特定のページに行ったときにデータをフェッチするのはとても一般的なことです。私たちも...",
+      "title": "カスタムReactフック - useFetch"
+    },
+    {
+      "locale": "zh",
+      "description": "为什么使用Fetch？  当用户进入某个页面时，获取数据是非常常见的。我们也...",
+      "title": "自定义React钩子 - useFetch"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "爲什麼使用Fetch？  當用戶進入某個頁面時，獲取數據是非常常見的。我們也...",
+      "title": "自定義React鉤子 - useFetch"
+    }
+  ]
 }
