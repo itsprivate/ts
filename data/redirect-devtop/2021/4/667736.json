@@ -50,5 +50,22 @@
   "original_created_at": "2021-04-16T05:53:50Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xc4C_fXK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pfe0th74612xqb53xqvl.png",
   "author": "Suraj Vishwakarma",
-  "author_url": "https://dev.to/surajondev"
+  "author_url": "https://dev.to/surajondev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに この慌ただしい世の中で、私たちは多くのことをしたいと思っていますが、24時間しかありません...。",
+      "title": "あなたの次のプロジェクトのためのカレンダー管理API "
+    },
+    {
+      "locale": "zh",
+      "description": "介绍：在这个繁忙的世界里，我们想做很多事情，但我们只有24小时。",
+      "title": "为你的下一个项目提供日历管理API "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹：在這個繁忙的世界裏，我們想做很多事情，但我們只有24小時。",
+      "title": "爲你的下一個項目提供日曆管理API "
+    }
+  ]
 }
