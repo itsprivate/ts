@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-23T20:49:19Z",
   "image": "https://dev.to/social_previews/article/676692.png",
   "author": "Waverley Leung",
-  "author_url": "https://dev.to/wlcreate"
+  "author_url": "https://dev.to/wlcreate",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "目次 はじめに 「配列」とは？配列はどうやって作るのか？ 方法 基本的には...",
+      "title": "JavaScriptの配列と配列メソッドのすべて"
+    },
+    {
+      "locale": "zh",
+      "description": "目录简介 什么是数组？我们如何创建数组？ 方法基础",
+      "title": "所有的JavaScript数组和数组方法!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "目錄簡介 什麼是數組？我們如何創建數組？ 方法基礎",
+      "title": "所有的JavaScript數組和數組方法!"
+    }
+  ]
 }
