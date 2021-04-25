@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-24T14:11:14Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tMLGDtUq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ndhgpddwdz7tggy9q5am.jpg",
   "author": "Danny Adams",
-  "author_url": "https://dev.to/doabledanny"
+  "author_url": "https://dev.to/doabledanny",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事は DoableDanny.com に掲載されたものです Intro 私は最近、瞑想の時間を作っていました。",
+      "title": "2021年にJavaScriptではなくTypeScriptを使うべき理由｜簡単な例を挙げてみた"
+    },
+    {
+      "locale": "zh",
+      "description": "本文原载于DoableDanny.com介绍 我最近在做一个冥想。",
+      "title": "为什么在2021年应该使用TypeScript而不是JavaScript？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "本文原載於DoableDanny.com介紹 我最近在做一個冥想。",
+      "title": "爲什麼在2021年應該使用TypeScript而不是JavaScript？"
+    }
+  ]
 }
