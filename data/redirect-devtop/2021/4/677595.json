@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-24T22:43:09Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ljZWTTrT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/na8ek2bezzjnmay3goq8.png",
   "author": "Kinanee Samson",
-  "author_url": "https://dev.to/kalashin1"
+  "author_url": "https://dev.to/kalashin1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは。CSSはウェブサイトにとって、女性にとっての「美」のようなものであり、悪い文章を書いても逃げられません。",
+      "title": "Cool CSS tips and Tricks"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，css对网站的作用就像美女对女人的作用一样，你不能因为写得不好而逃脱。",
+      "title": "酷炫的CSS技巧和窍门"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，css對網站的作用就像美女對女人的作用一樣，你不能因爲寫得不好而逃脫。",
+      "title": "酷炫的CSS技巧和竅門"
+    }
+  ]
 }
