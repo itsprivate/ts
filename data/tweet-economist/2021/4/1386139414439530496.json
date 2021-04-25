@@ -113,5 +113,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Sun Apr 25 02:06:04 +0000 2021"
+  "original_created_at": "Sun Apr 25 02:06:04 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "彼の大統領就任は、反乱から始まった。また、https://t.co/x4kgAQ9ch6 で終わった。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "他的总统任期始于一场叛乱。它也以一个https://t.co/x4kgAQ9ch6。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "他的總統任期始於一場叛亂。它也以一個https://t.co/x4kgAQ9ch6。"
+    }
+  ]
 }
