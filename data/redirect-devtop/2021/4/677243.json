@@ -52,5 +52,22 @@
   "original_created_at": "2021-04-24T13:28:27Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HR7RUvTm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ma04j73z6lzfvsf371f9.png",
   "author": "Adithya Sreyaj",
-  "author_url": "https://dev.to/adisreyaj"
+  "author_url": "https://dev.to/adisreyaj",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ここでは、ディレクティブの力を利用して、超シンプルなフルスクリーントグルを作成する方法を紹介します。",
+      "title": "Directivesを使ったAngularのフルスクリーントグル機能。"
+    },
+    {
+      "locale": "zh",
+      "description": "我们将看到如何利用指令的力量来创建一个超级简单的全屏切换功能。",
+      "title": "在Angular中使用Directives实现全屏切换功能。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們將看到如何利用指令的力量來創建一個超級簡單的全屏切換功能。",
+      "title": "在Angular中使用Directives實現全屏切換功能。"
+    }
+  ]
 }
