@@ -43,5 +43,22 @@
   "original_created_at": "2021-04-23T15:15:27Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hppIDwTc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s75bf9yptdth3mkmqtno.png",
   "author": "Guillermo Verón",
-  "author_url": "https://dev.to/guivern"
+  "author_url": "https://dev.to/guivern",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "やばい、このコミットはめちゃくちゃだ! 🤦♂️ 時々、誰もが嫌なことがありますが、その時にはコミットの内容を忘れてしまうことがあります。",
+      "title": "Git - 悪いコミットを修正する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "哦，不，这个提交是一个烂摊子! 🤦♂️有时，我们都有一个糟糕的一天，我们可以忘记包括一个F...",
+      "title": "Git - 如何修复一个错误的提交"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "哦，不，這個提交是一個爛攤子! 🤦♂️有時，我們都有一個糟糕的一天，我們可以忘記包括一個F...",
+      "title": "Git - 如何修復一個錯誤的提交"
+    }
+  ]
 }
