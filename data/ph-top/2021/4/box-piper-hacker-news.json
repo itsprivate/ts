@@ -98,5 +98,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-25T07:16:31Z"
+  "original_createdAt": "2021-04-25T07:16:31Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この10年のために革新的に再構築されたHNのバージョン。改良されたUI/UX、Snapchatのようなストーリーモード、そしてHNのコンテンツをすぐに消費できるように「202X」の方法でデザインすることに焦点を当てています。また、この街の新しいhttps://twitter.com/boxpiperapp、1日1回、HNを更新します。",
+      "tagline": "Hacker Newsを10年後に再構築しました。"
+    },
+    {
+      "locale": "zh",
+      "description": "这十年来，HN的一个创新和重新想象的版本。有了改进的UI/UX，像Snapchat一样的故事模式，并专注于以 \"202X \"的方式设计它，以便即时消费HN内容。此外，一个新的https://twitter.com/boxpiperapp，将使你的HN每天更新一次。",
+      "tagline": "重新想象一下这个十年的Hacker News。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這十年來，HN的一個創新和重新想象的版本。有了改進的UI/UX，像Snapchat一樣的故事模式，並專注於以 \"202X \"的方式設計它，以便即時消費HN內容。此外，一個新的https://twitter.com/boxpiperapp，將使你的HN每天更新一次。",
+      "tagline": "重新想象一下這個十年的Hacker News。"
+    }
+  ]
 }
