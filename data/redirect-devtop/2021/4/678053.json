@@ -43,5 +43,22 @@
   "original_created_at": "2021-04-25T14:00:56Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EFOn-Wm5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/da86u5vhfxlb1htu90rs.png",
   "author": "Jannik Wempe",
-  "author_url": "https://dev.to/jannikwempe"
+  "author_url": "https://dev.to/jannikwempe",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最初に整理しておきます。 これは、他のフレームワークをバッシングするためのものではありません。",
+      "title": "Svelteはなぜ違うのか、そして素晴らしいのか"
+    },
+    {
+      "locale": "zh",
+      "description": "我只是想在一开始就把这个问题说清楚。 这并不意味着要抨击其他的框架，而是要让人们知道，他们是如何做到的。",
+      "title": "为什么Svelte与众不同--而且令人敬畏!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我只是想在一開始就把這個問題說清楚。 這並不意味着要抨擊其他的框架，而是要讓人們知道，他們是如何做到的。",
+      "title": "爲什麼Svelte與衆不同--而且令人敬畏!"
+    }
+  ]
 }
