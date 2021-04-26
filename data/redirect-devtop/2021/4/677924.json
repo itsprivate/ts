@@ -43,5 +43,22 @@
   "original_created_at": "2021-04-25T10:44:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hUEuiptp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pfwensnt0096aznt23gz.jpg",
   "author": "Dalibor Belic",
-  "author_url": "https://dev.to/daliboru"
+  "author_url": "https://dev.to/daliboru",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは。あなたはJavaScriptの初心者ですか？この記事はそんなあなたにピッタリです。約束事をマスターするのは必須です...",
+      "title": "JavaScriptの約束事について"
+    },
+    {
+      "locale": "zh",
+      "description": "嗨！你在吗？你是JavaScript的新手吗？那么，这篇文章就很适合你了 掌握承诺是必须的。",
+      "title": "JavaScript承诺101"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嗨！你在嗎？你是JavaScript的新手嗎？那麼，這篇文章就很適合你了 掌握承諾是必須的。",
+      "title": "JavaScript承諾101"
+    }
+  ]
 }
