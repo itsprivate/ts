@@ -45,5 +45,17 @@
   "original_created_at": "2021-02-03T09:08:47Z",
   "image": "https://dev.to/social_previews/article/590778.png",
   "author": "Aleksei Berezkin",
-  "author_url": "https://dev.to/alekseiberezkin"
+  "author_url": "https://dev.to/alekseiberezkin",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "发电机是一个你可能不会每天都需要的功能。这是否意味着你可以完全无视它们呢？",
+      "title": "ES6生成器的3个用例"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "發電機是一個你可能不會每天都需要的功能。這是否意味着你可以完全無視它們呢？",
+      "title": "ES6生成器的3個用例"
+    }
+  ]
 }
