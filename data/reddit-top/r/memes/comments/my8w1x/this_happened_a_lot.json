@@ -148,5 +148,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1619359310,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これはよくあることです。"
+    },
+    {
+      "locale": "zh",
+      "title": "这种情况经常发生"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這種情況經常發生"
+    }
+  ]
 }
