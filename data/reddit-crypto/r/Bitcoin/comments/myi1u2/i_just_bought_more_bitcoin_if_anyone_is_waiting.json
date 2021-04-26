@@ -103,5 +103,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1619385980,
-  "the_new_excerpt": "You’re welcome"
+  "the_new_excerpt": "You’re welcome",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "どういたしまして",
+      "title": "ビットコインを買い足しました、もし誰かがもっと下がるのを待っているなら"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "不客气",
+      "title": "我刚刚买了更多的比特币，如果有人在等待它更多的跌幅的话"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "不客氣",
+      "title": "我剛剛買了更多的比特幣，如果有人在等待它更多的跌幅的話"
+    }
+  ]
 }
