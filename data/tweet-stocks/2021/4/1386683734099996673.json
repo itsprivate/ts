@@ -92,5 +92,19 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Mon Apr 26 14:09:00 +0000 2021"
+  "original_created_at": "Mon Apr 26 14:09:00 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "コンタンゴとバックワーデションを考えるには、ただ推測するのが一番です。正解する確率は半々です。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "思考contango与backwardation的最好方法就是猜测。你有50/50的机会猜对。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "思考contango與backwardation的最好方法就是猜測。你有50/50的機會猜對。"
+    }
+  ]
 }
