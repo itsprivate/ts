@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-26T07:27:50Z"
+  "original_createdAt": "2021-04-26T07:27:50Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ControlDでは、マルウェア、広告、ソーシャルネットワーク、アダルトコンテンツ、IoTテレメトリなどの15カテゴリーのドメインや、70以上のサービスをブロックすることができるので、データを採取されたり、時間を浪費されたりすることを防ぐことができます。",
+      "tagline": "Windscribe VPNのDNSサービス"
+    },
+    {
+      "locale": "zh",
+      "description": "ControlD允许你阻止15类域名，如恶意软件、广告、社交网络、成人内容、物联网遥测，以及70多项服务，这样你就可以防止它们收获你的数据或浪费你的时间。",
+      "tagline": "Windscribe VPN的DNS服务"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "ControlD允許你阻止15類域名，如惡意軟件、廣告、社交網絡、成人內容、物聯網遙測，以及70多項服務，這樣你就可以防止它們收穫你的數據或浪費你的時間。",
+      "tagline": "Windscribe VPN的DNS服務"
+    }
+  ]
 }
