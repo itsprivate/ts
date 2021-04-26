@@ -171,5 +171,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Sun Apr 25 20:08:59 +0000 2021"
+  "original_created_at": "Sun Apr 25 20:08:59 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "これは泣きながら終わる https://t.co/5MvMDvlh2i"
+    },
+    {
+      "locale": "zh",
+      "full_text": "这以泪水结束 https://t.co/5MvMDvlh2i"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "這以淚水結束 https://t.co/5MvMDvlh2i"
+    }
+  ]
 }
