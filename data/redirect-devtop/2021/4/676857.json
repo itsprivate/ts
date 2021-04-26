@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-24T03:47:41Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dyOM82CP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ksgzz5zybc5y73r5xcpy.jpg",
   "author": "Tapajyoti Bose",
-  "author_url": "https://dev.to/ruppysuppy"
+  "author_url": "https://dev.to/ruppysuppy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これは、ウェブサイトをインストール可能にするという前回のブログの続きです。",
+      "title": "PWAを使ってあなたのウェブサイトをスーパーチャージ。インストールの延期"
+    },
+    {
+      "locale": "zh",
+      "description": "这是之前关于使网站可安装的博客的延续，强烈建议你...",
+      "title": "使用PWA为你的网站增光添彩。推迟安装"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是之前關於使網站可安裝的博客的延續，強烈建議你...",
+      "title": "使用PWA爲你的網站增光添彩。推遲安裝"
+    }
+  ]
 }
