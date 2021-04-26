@@ -92,5 +92,19 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Sun Apr 25 21:28:04 +0000 2021"
+  "original_created_at": "Sun Apr 25 21:28:04 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "中国で巨大な暗号クジラが売られているという話 **。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "喋喋不休的大规模加密货币鲸鱼在中国销售 **"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "喋喋不休的大規模加密貨幣鯨魚在中國銷售 **"
+    }
+  ]
 }
