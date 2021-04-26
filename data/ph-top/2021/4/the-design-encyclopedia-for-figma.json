@@ -83,5 +83,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-26T11:11:07Z"
+  "original_createdAt": "2021-04-26T11:11:07Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Design Encyclopedia は、綿密にドキュメント化された数千もの UI トークン、UI コンポーネント、ページ・レイアウト、インタラクション・パターン、ビジュアライゼーションを含む Figma Design System です。",
+      "tagline": "世界最大のFigma UIキットです。"
+    },
+    {
+      "locale": "zh",
+      "description": "设计百科全书是一个Figma设计系统，其中包含数千个精心记录的UI标记、UI组件、页面布局、交互模式和可视化。",
+      "tagline": "世界上最大的Figma UI套件。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "設計百科全書是一個Figma設計系統，其中包含數千個精心記錄的UI標記、UI組件、頁面佈局、交互模式和可視化。",
+      "tagline": "世界上最大的Figma UI套件。"
+    }
+  ]
 }
