@@ -41,5 +41,22 @@
   "original_created_at": "2021-04-24T20:23:23Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kv-Kc1-w--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1f76o3tfyz6jjiojqxd9.png",
   "author": "Andrew Bone",
-  "author_url": "https://dev.to/link2twenty"
+  "author_url": "https://dev.to/link2twenty",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CSSに新しいエキサイティングなものが登場します。",
+      "title": "CSSコンテナクエリ"
+    },
+    {
+      "locale": "zh",
+      "description": "一些新的、令人兴奋的东西即将出现在CSS中，当我说'即将出现'时，我的意思是它不被支持在...",
+      "title": "CSS容器查询"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一些新的、令人興奮的東西即將出現在CSS中，當我說'即將出現'時，我的意思是它不被支持在...",
+      "title": "CSS容器查詢"
+    }
+  ]
 }

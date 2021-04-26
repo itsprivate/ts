@@ -57,5 +57,22 @@
   "topics": {
     "edges": []
   },
-  "original_createdAt": "2021-04-26T07:00:00Z"
+  "original_createdAt": "2021-04-26T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Zluriは、エンタープライズSaaS管理プラットフォーム（SMP）です。1つのダッシュボードから、SaaSアプリケーションの発見、管理、最適化、セキュリティの確保を支援します。要するに、ZluriはITチームをSaaS化された新しいランドスケープのコントロールに戻すのです。",
+      "tagline": "SaaSアプリケーションを発見、管理、最適化するためのプラットフォーム"
+    },
+    {
+      "locale": "zh",
+      "description": "Zluri是一个企业SaaS管理平台（SMP）。它可以帮助你从一个仪表板上发现、管理、优化和保护你的SaaS应用。简而言之，Zluri让IT团队重新控制他们新的SaaS化景观。",
+      "tagline": "发现、管理和优化SaaS应用的平台"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Zluri是一個企業SaaS管理平臺（SMP）。它可以幫助你從一個儀表板上發現、管理、優化和保護你的SaaS應用。簡而言之，Zluri讓IT團隊重新控制他們新的SaaS化景觀。",
+      "tagline": "發現、管理和優化SaaS應用的平臺"
+    }
+  ]
 }
