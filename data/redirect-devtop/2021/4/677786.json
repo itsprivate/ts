@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-25T07:06:16Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cx5huUWl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nigommoqt57x17bwt8m3.png",
   "author": "Neha Soni",
-  "author_url": "https://dev.to/nehasoni__"
+  "author_url": "https://dev.to/nehasoni__",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactとは？  まず第一に、ReactはJavaScriptのフレームワークではなく、単なるjavascript...",
+      "title": "ReactJSの紹介"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是React？  首先，React不是一个JavaScript框架，它只是一个javascript...",
+      "title": "ReactJS简介"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是React？  首先，React不是一個JavaScript框架，它只是一個javascript...",
+      "title": "ReactJS簡介"
+    }
+  ]
 }
