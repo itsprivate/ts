@@ -98,5 +98,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-27T07:17:29Z"
+  "original_createdAt": "2021-04-27T07:17:29Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Figma Design System には、あらゆる複雑さのインターフェイスを作成するために必要な要素がすべて含まれています。これで、すべての要素をゼロから作成する必要はありません。このセットを作成する際に、最新のFigmaの機能をすべて盛り込みました。",
+      "tagline": "FigmaでのUIデザインプロジェクトのためのスターターキット"
+    },
+    {
+      "locale": "zh",
+      "description": "Figma Design System 包含创建任何复杂界面的所有必要元素。现在，您不必再从头开始创建每个元素。在创建这套软件时，我们包含了所有最新的 Figma 功能。",
+      "tagline": "在Figma中为您的UI设计项目提供入门套件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Figma Design System 包含創建任何複雜界面的所有必要元素。現在，您不必再從頭開始創建每個元素。在創建這套軟件時，我們包含了所有最新的 Figma 功能。",
+      "tagline": "在Figma中爲您的UI設計項目提供入門套件"
+    }
+  ]
 }
