@@ -151,5 +151,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1619502370,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "2020年に出版社が発売した書籍の98％は、販売部数が5,000部未満であった"
+    },
+    {
+      "locale": "zh",
+      "title": "出版商在2020年发行的书籍中，98%的销量低于5,000册"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "出版商在2020年發行的書籍中，98%的銷量低於5,000冊"
+    }
+  ]
 }
