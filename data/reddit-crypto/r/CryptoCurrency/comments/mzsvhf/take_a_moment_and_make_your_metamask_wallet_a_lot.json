@@ -161,5 +161,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1619542299,
-  "the_new_excerpt": "I have seen a lot of posts lately where people have lost funds their funds\nthrough their MetaMask wallet. While there is no evidence that this is\nMetaMask's fault (and I don't think it is), the default installation of MetaMask\ndoes give them way more access to your personal data than they should…"
+  "the_new_excerpt": "I have seen a lot of posts lately where people have lost funds their funds\nthrough their MetaMask wallet. While there is no evidence that this is\nMetaMask's fault (and I don't think it is), the default installation of MetaMask\ndoes give them way more access to your personal data than they should…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "最近、MetaMaskウォレットで資金を失ったという投稿を多く目にしました。\nMetaMaskウォレットで資金を失ったという投稿をよく目にします。これがMetaMaskのせいだという証拠はありませんが\nMetaMaskのせいであるという証拠はありませんが（私はそうは思いません）、MetaMaskのデフォルトのインストールでは\nデフォルトでインストールされているMetaMaskは、あなたの個人データに必要以上のアクセスを与えています...",
+      "title": "あなたのMetaMaskウォレットをより安全なものにしてください。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我最近看到很多帖子，人们通过MetaMask钱包丢失了他们的资金。\n通过他们的MetaMask钱包。虽然没有证据表明这是\n虽然没有证据表明这是MetaMask的错（我也不认为是），但MetaMask的默认安装\n但默认安装的MetaMask确实让他们有更多机会接触到你的个人数据，而不是他们应该做的......",
+      "title": "花点时间，让你的MetaMask钱包变得更安全。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我最近看到很多帖子，人們通過MetaMask錢包丟失了他們的資金。\n通過他們的MetaMask錢包。雖然沒有證據表明這是\n雖然沒有證據表明這是MetaMask的錯（我也不認爲是），但MetaMask的默認安裝\n但默認安裝的MetaMask確實讓他們有更多機會接觸到你的個人數據，而不是他們應該做的......",
+      "title": "花點時間，讓你的MetaMask錢包變得更安全。"
+    }
+  ]
 }
