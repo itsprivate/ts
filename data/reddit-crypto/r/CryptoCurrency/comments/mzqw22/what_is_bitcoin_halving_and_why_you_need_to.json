@@ -110,5 +110,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1619537003,
-  "the_new_excerpt": "After every 210,000 blocks mined, or roughly every four years, the block reward\ngiven to Bitcoin miners for processing transactions is cut in half. This cuts in\nhalf the rate at which new Bitcoin is released into circulation. This is\nBitcoin's way of using a synthetic form of inflation that halves…"
+  "the_new_excerpt": "After every 210,000 blocks mined, or roughly every four years, the block reward\ngiven to Bitcoin miners for processing transactions is cut in half. This cuts in\nhalf the rate at which new Bitcoin is released into circulation. This is\nBitcoin's way of using a synthetic form of inflation that halves…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ブロックが21万個採掘されるごとに、つまり約4年ごとに、ビットコインの採掘者が取引を処理する際のブロック報酬が半分になります。\nビットコインの採掘者が取引を処理する際に受け取るブロック報酬が半分になります。これにより\n新しいビットコインが流通する速度が半分になります。これは\nビットコインは、半減する合成インフレを利用しています。",
+      "title": "ビットコインハービングとは何か、なぜそれを理解する必要があるのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "每开采21万个区块后，或大约每四年，给予比特币矿工的区块奖励\n给予处理交易的比特币矿工的区块奖励被削减一半。这就把\n新的比特币被释放到流通领域的速度减半。这就是\n比特币使用一种合成的通货膨胀形式，将新的比特币释放到流通领域的速度减半。",
+      "title": "什么是比特币减半，为什么你需要了解它？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "每開採21萬個區塊後，或大約每四年，給予比特幣礦工的區塊獎勵\n給予處理交易的比特幣礦工的區塊獎勵被削減一半。這就把\n新的比特幣被釋放到流通領域的速度減半。這就是\n比特幣使用一種合成的通貨膨脹形式，將新的比特幣釋放到流通領域的速度減半。",
+      "title": "什麼是比特幣減半，爲什麼你需要了解它？"
+    }
+  ]
 }
