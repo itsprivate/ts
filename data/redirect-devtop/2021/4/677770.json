@@ -43,5 +43,22 @@
   "original_created_at": "2021-04-25T05:57:37Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fjKMxHOg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k6b8v4tb461ahvg5zgus.png",
   "author": "Piyush Sinha",
-  "author_url": "https://dev.to/sinhapiyush"
+  "author_url": "https://dev.to/sinhapiyush",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Leaflet.jsは、モバイルフレンドリーなインタラクティブマップのためのオープンソースのJavaScriptライブラリです。軽量で、使いやすいのが特徴です。",
+      "title": "リーフレットを使ったインタラクティブマップ"
+    },
+    {
+      "locale": "zh",
+      "description": "Leaflet.js是一个开源的JavaScript库，用于移动友好的互动地图。它的重量很轻。",
+      "title": "使用传单的互动地图"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Leaflet.js是一個開源的JavaScript庫，用於移動友好的互動地圖。它的重量很輕。",
+      "title": "使用傳單的互動地圖"
+    }
+  ]
 }
