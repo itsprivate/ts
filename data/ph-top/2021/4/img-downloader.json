@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-27T07:30:00Z"
+  "original_createdAt": "2021-04-27T07:30:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Imdownloaderは、画像を一括してダウンロードすることができるオールインワンのオンラインツールです。まず、1つのURLを使用して任意のウェブページから画像を一括ダウンロードできます。次に、Googleの検索エンジンから画像を一括ダウンロードできます。さらに、URLをコピーすることで、Instagramから画像や動画をダウンロードすることもできます。",
+      "tagline": "ウェブページ、Google Images、Instagramから画像を一括ダウンロード"
+    },
+    {
+      "locale": "zh",
+      "description": "Imdownloader是一个多合一的在线工具，可以让你批量下载图片。首先，你可以通过使用一个Url从任何网页上批量下载图片。然后，你可以从谷歌搜索引擎批量下载图片。而且，你可以通过复制URL从Instagram下载图片和视频。",
+      "tagline": "从网页、谷歌图片和Instagram批量下载图片"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Imdownloader是一個多合一的在線工具，可以讓你批量下載圖片。首先，你可以通過使用一個Url從任何網頁上批量下載圖片。然後，你可以從谷歌搜索引擎批量下載圖片。而且，你可以通過複製URL從Instagram下載圖片和視頻。",
+      "tagline": "從網頁、谷歌圖片和Instagram批量下載圖片"
+    }
+  ]
 }
