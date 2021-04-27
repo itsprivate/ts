@@ -43,5 +43,22 @@
   "original_created_at": "2021-04-26T19:13:34Z",
   "image": "https://dev.to/social_previews/article/679397.png",
   "author": "Joanna Otmianowska",
-  "author_url": "https://dev.to/joannaotmianowska"
+  "author_url": "https://dev.to/joannaotmianowska",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Kent C. Dodds氏が書いた記事「Stop using isLoading boolean」を見て、最初に思ったことは、「なんだこれは？",
+      "title": "isLoading booleanの代わりにStatus？"
+    },
+    {
+      "locale": "zh",
+      "description": "当我看到Kent C. Dodds写的 \"停止使用isLoading布尔值 \"的文章时，我的第一个想法是--什么？",
+      "title": "状态，而不是 isLoading 布尔值？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當我看到Kent C. Dodds寫的 \"停止使用isLoading布爾值 \"的文章時，我的第一個想法是--什麼？",
+      "title": "狀態，而不是 isLoading 布爾值？"
+    }
+  ]
 }
