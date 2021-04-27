@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-22T17:55:18Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--istq1m-t--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/36uh99trwkhy0tpd0xjn.png",
   "author": "Kishan Sheth",
-  "author_url": "https://dev.to/koolkishan"
+  "author_url": "https://dev.to/koolkishan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "また、私のYouTube動画を参考にしていただければ、Virtual D...についてアニメーションで理解することができます。",
+      "title": "Virtual DOMとは何ですか？Virtual DOMの仕組みは？Reconciliationとは何ですか？diffingアルゴリズムとは何ですか？なぜReactはこんなに速いのですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "你也可以参考我的YouTube视频，通过动画了解虚拟世界的情况。",
+      "title": "什么是虚拟多姆？虚拟文件系统如何工作？什么是调和？什么是Differing算法? 是什么让React如此之快？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你也可以參考我的YouTube視頻，通過動畫了解虛擬世界的情況。",
+      "title": "什麼是虛擬多姆？虛擬文件系統如何工作？什麼是調和？什麼是Differing算法? 是什麼讓React如此之快？"
+    }
+  ]
 }
