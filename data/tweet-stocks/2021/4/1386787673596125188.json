@@ -92,5 +92,19 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Mon Apr 26 21:02:01 +0000 2021"
+  "original_created_at": "Mon Apr 26 21:02:01 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "新車よりも中古車の方が高くなった*。\n\n*中古車は1969年式コルベット、新車はKia Forte"
+    },
+    {
+      "locale": "zh",
+      "full_text": "现在二手车比新车更贵*。\n\n*二手车是1969年的克尔维特，新车是起亚Forte"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "現在二手車比新車更貴*。\n\n*二手車是1969年的克爾維特，新車是起亞Forte"
+    }
+  ]
 }
