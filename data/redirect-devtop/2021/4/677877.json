@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-25T09:25:59Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sqXFkEvv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1920px-Unofficial_JavaScript_logo_2.svg.png",
   "author": "Nikita Kozlov",
-  "author_url": "https://dev.to/kozlovzxc"
+  "author_url": "https://dev.to/kozlovzxc",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "面接でよくあるJSの質問にどう答えるか、考えてみましょう。",
+      "title": "2分でわかるJSインタビュー／バリューvsリファレンス"
+    },
+    {
+      "locale": "zh",
+      "description": "让我们试着弄清楚如何在面试中回答常见的JS问题。",
+      "title": "2分钟内的JS访谈/价值与参考"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "讓我們試着弄清楚如何在面試中回答常見的JS問題。",
+      "title": "2分鐘內的JS訪談/價值與參考"
+    }
+  ]
 }
