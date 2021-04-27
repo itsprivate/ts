@@ -48,5 +48,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-26T15:00:00Z"
+  "original_createdAt": "2021-04-26T15:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あなたが受け入れたブラウザのCookieの数を追跡するクロームプラグインを入手してください。できるだけ多くのブラウザのCookieを受け入れるように競争してください。100ポンドの（本当に本物の）クッキーが当たります。",
+      "tagline": "最も多くのブラウザのクッキーを受け入れ、100LBSのクッキーを獲得してください。"
+    },
+    {
+      "locale": "zh",
+      "description": "获得我们的铬合金插件，跟踪你接受了多少浏览器的cookies。比赛接受尽可能多的浏览器cookie。赢得100磅的（真正的，我们发誓）曲奇!",
+      "tagline": "接受最多的浏览器cookies，赢取100LBS的cookies!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "獲得我們的鉻合金插件，跟蹤你接受了多少瀏覽器的cookies。比賽接受盡可能多的瀏覽器cookie。贏得100磅的（真正的，我們發誓）曲奇!",
+      "tagline": "接受最多的瀏覽器cookies，贏取100LBS的cookies!"
+    }
+  ]
 }
