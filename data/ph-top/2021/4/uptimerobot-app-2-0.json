@@ -96,5 +96,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-27T07:46:16Z"
+  "original_createdAt": "2021-04-27T07:46:16Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ダウンタイムの通知を受け取ろう 設定、管理、そしてどこにいても通知を受けることができます。プッシュ通知と SMS 通知により、ダウンタイムや SSL 問題を二度と見逃しません。UptimeRobotの全面的に刷新されたモバイルアプリをお試しください。世界有数のアップタイム監視サービスです。",
+      "tagline": "Web、SSL、ポート、Cron-jobsの監視"
+    },
+    {
+      "locale": "zh",
+      "description": "停机时获得通知! 设置、管理并在任何地方保持通知! 由于推送和短信通知，再也不会错过停机时间或SSL问题。试试UptimeRobot的全面革新的移动应用程序。世界领先的正常运行时间监测服务。",
+      "tagline": "网络、SSL、端口和Cron-job监控"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "停機時獲得通知! 設置、管理並在任何地方保持通知! 由於推送和短信通知，再也不會錯過停機時間或SSL問題。試試UptimeRobot的全面革新的移動應用程序。世界領先的正常運行時間監測服務。",
+      "tagline": "網絡、SSL、端口和Cron-job監控"
+    }
+  ]
 }
