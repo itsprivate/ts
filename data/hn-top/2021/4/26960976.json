@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-04-27T20:18:26.000Z",
-  "image": "https://calibre-ebook.com/resources/img/home-feature.jpg"
+  "image": "https://calibre-ebook.com/resources/img/home-feature.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Calibre - 電子書籍の管理"
+    },
+    {
+      "locale": "zh",
+      "title": "Calibre - 电子书管理"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Calibre - 電子書管理"
+    }
+  ]
 }
