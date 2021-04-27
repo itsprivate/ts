@@ -101,5 +101,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1619498387,
-  "the_new_excerpt": "Something specific please"
+  "the_new_excerpt": "Something specific please",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "具体的にお願いします。",
+      "title": "SOがあなたに贈る最高の褒め言葉は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "请提供具体的信息",
+      "title": "你的SO能给你的最好的赞美是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "請提供具體的信息",
+      "title": "你的SO能給你的最好的讚美是什麼？"
+    }
+  ]
 }
