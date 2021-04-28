@@ -101,5 +101,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1619630544,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたは誘拐されました。30分後、誘拐犯はあなたを路上に捨てました。あなたが何について話すのを止めないからです。"
+    },
+    {
+      "locale": "zh",
+      "title": "你被绑架了。30分钟后，你的绑架者把你扔在了街上，因为你不停地谈论什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你被綁架了。30分鐘後，你的綁架者把你扔在了街上，因爲你不停地談論什麼？"
+    }
+  ]
 }
