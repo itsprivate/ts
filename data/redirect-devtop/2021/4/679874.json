@@ -43,5 +43,22 @@
   "original_created_at": "2021-04-27T07:50:58Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--huGJAo8j--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://www.admin-dashboards.com/content/images/size/w1000/2021/04/cover-blog-laravel-theme-download.jpg",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "登録ロックなしでダウンロードできるLaravelテーマとプロジェクトを厳選したリストです。",
+      "title": "Laravelテーマダウンロード - すぐに始められるモダンなUIキット"
+    },
+    {
+      "locale": "zh",
+      "description": "一个精心策划的列表，包括Laravel主题和项目，可供下载，无需注册锁 - 所有项目都在MIT许可下发布。",
+      "title": "拉威尔主题下载--现代UI套件，快速启动"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個精心策劃的列表，包括Laravel主題和項目，可供下載，無需註冊鎖 - 所有項目都在MIT許可下發布。",
+      "title": "拉威爾主題下載--現代UI套件，快速啓動"
+    }
+  ]
 }
