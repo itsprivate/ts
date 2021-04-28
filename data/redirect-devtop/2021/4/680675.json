@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-27T23:39:44Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mh8Oog8m--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rp51089c5mplsenq5lem.png",
   "author": "Craig Holliday",
-  "author_url": "https://dev.to/craigaholliday"
+  "author_url": "https://dev.to/craigaholliday",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TypeScriptを学んでいると、TypeScriptプロジェクトをゼロから始めるための簡単な方法を見つけるのに苦労することがあります。JavaScriptやGo、Swift、Kotlinなどの静的型付けされた言語から来た人は、プロジェクトがどのように動作すべきかを期待しているかもしれません。",
+      "title": "TypeScriptプロジェクトの始め方【2021年版"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你正在学习TypeScript，你可能很难找到一个简单的方法来从头开始TypeScript项目。取决于你是来自JavaScript还是像Go、Swift或Kotlin这样的静态类型语言，你可能对你的项目应该如何工作有一个期望。",
+      "title": "如何开始一个TypeScript项目[2021年]"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你正在學習TypeScript，你可能很難找到一個簡單的方法來從頭開始TypeScript項目。取決於你是來自JavaScript還是像Go、Swift或Kotlin這樣的靜態類型語言，你可能對你的項目應該如何工作有一個期望。",
+      "title": "如何開始一個TypeScript項目[2021年]"
+    }
+  ]
 }
