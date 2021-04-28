@@ -36,5 +36,19 @@
     }
   },
   "original_created_at": "2021-04-27T19:58:34.000Z",
-  "image": "https://text.bargains/img/amulet-monkey-500.png"
+  "image": "https://text.bargains/img/amulet-monkey-500.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "お守り - 縁起の良いSHA-256ハッシュを使った短いポエム"
+    },
+    {
+      "locale": "zh",
+      "title": "护身符 - 一首带有幸运SHA-256哈希值的短诗"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "護身符 - 一首帶有幸運SHA-256哈希值的短詩"
+    }
+  ]
 }
