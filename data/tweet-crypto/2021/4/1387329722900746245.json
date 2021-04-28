@@ -256,5 +256,22 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Wed Apr 28 08:55:55 +0000 2021"
+  "original_created_at": "Wed Apr 28 08:55:55 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @Independent です。#ビットコインはこの価格予測モデルに「驚くほど正確に」従っている。\n\nスレッド⬇️\n\nhttps://t.co/3IRCWI30Xa",
+      "retweeted_status_full_text": "#ビットコインはこの価格予測モデルに「驚異的な精度」で従っている \n\nスレッド⬇️\n\nhttps://t.co/3IRCWI30Xa"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @Independent: #比特币正在遵循这个价格预测模型 \"以惊人的精度 \n\nThread ⬇️\n\nhttps://t.co/3IRCWI30Xa",
+      "retweeted_status_full_text": "#比特币正在遵循这个价格预测模型 \"以惊人的精度 \n\n螺纹 ⬇️\n\nhttps://t.co/3IRCWI30Xa"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @Independent: #比特幣正在遵循這個價格預測模型 \"以驚人的精度 \n\nThread ⬇️\n\nhttps://t.co/3IRCWI30Xa",
+      "retweeted_status_full_text": "#比特幣正在遵循這個價格預測模型 \"以驚人的精度 \n\n螺紋 ⬇️\n\nhttps://t.co/3IRCWI30Xa"
+    }
+  ]
 }
