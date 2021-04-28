@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-04-28T12:44:50.000Z",
-  "image": "https://lkml.org/images/toprowlk.gif"
+  "image": "https://lkml.org/images/toprowlk.gif",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "提案されたfutex2は、LinuxがNTカーネルを模倣してワインのパフォーマンスを向上させることができる。"
+    },
+    {
+      "locale": "zh",
+      "title": "拟议的futex2允许Linux模仿NT内核以获得更好的葡萄酒性能"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "擬議的futex2允許Linux模仿NT內核以獲得更好的葡萄酒性能"
+    }
+  ]
 }
