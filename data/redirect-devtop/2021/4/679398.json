@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-26T19:15:23Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BdEvAymd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5ka9h02429veswl2ggtk.png",
   "author": "joy.does.artworks",
-  "author_url": "https://dev.to/artworks_joy"
+  "author_url": "https://dev.to/artworks_joy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今日は、CSSメディアクエリを使って、レスポンシブWebサイトを構築する方法を学びます &amp...",
+      "title": "CSSメディアクエリを3つのプロジェクトで学ぶ"
+    },
+    {
+      "locale": "zh",
+      "description": "今天，我们将学习如何使用CSS媒体查询来构建响应式网站&amp；通过实践来学习。",
+      "title": "通过建立三个项目学习CSS媒体查询"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "今天，我們將學習如何使用CSS媒體查詢來構建響應式網站&amp；通過實踐來學習。",
+      "title": "通過建立三個項目學習CSS媒體查詢"
+    }
+  ]
 }
