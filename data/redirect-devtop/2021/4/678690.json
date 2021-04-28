@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-26T06:22:11Z",
   "image": "https://dev.to/social_previews/article/678690.png",
   "author": "Priyanshi Sharma",
-  "author_url": "https://dev.to/priyanshi_sharma"
+  "author_url": "https://dev.to/priyanshi_sharma",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "米国では国の半分以上で医療目的の大麻が合法化されており、それに伴って大麻の生産量も増加しています。",
+      "title": "大麻の宅配アプリ。開発コストと機能"
+    },
+    {
+      "locale": "zh",
+      "description": "美国一半以上的国家已经将大麻合法化，用于医疗目的，这导致了大麻的普及。",
+      "title": "大麻递送应用程序。开发成本和功能"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "美國一半以上的國家已經將大麻合法化，用於醫療目的，這導致了大麻的普及。",
+      "title": "大麻遞送應用程序。開發成本和功能"
+    }
+  ]
 }
