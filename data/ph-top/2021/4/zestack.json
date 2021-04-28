@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-28T07:07:12Z"
+  "original_createdAt": "2021-04-28T07:07:12Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Zestackは、マーケティングと成長戦略のための \"Stack Overflow \"です。私たちの500人以上のコミュニティは、お互いに実践的な成長キャンペーンを学び、実行することに焦点を当てています。お待たせしました。今なら無料で参加できます。",
+      "tagline": "マーケティングと成長のためのStackoverflow"
+    },
+    {
+      "locale": "zh",
+      "description": "Zestack是营销和增长战略的 \"Stack Overflow\"。我们500多人的社区专注于帮助彼此学习和实施实用的增长活动。为什么要等待？现在就免费加入。",
+      "tagline": "营销与增长的Stackoverflow"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Zestack是營銷和增長戰略的 \"Stack Overflow\"。我們500多人的社區專注於幫助彼此學習和實施實用的增長活動。爲什麼要等待？現在就免費加入。",
+      "tagline": "營銷與增長的Stackoverflow"
+    }
+  ]
 }
