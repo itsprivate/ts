@@ -104,5 +104,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1619592999,
-  "the_new_excerpt": "Out of curiousity I wanted to understand how certain stocks moved around\nprevious earnings, however most of the websites with this functionality require\nyou to pay for a subscription. This tool allows you to browse the data for free.\n\nI added a few tickers in there to start with, but you can request…"
+  "the_new_excerpt": "Out of curiousity I wanted to understand how certain stocks moved around\nprevious earnings, however most of the websites with this functionality require\nyou to pay for a subscription. This tool allows you to browse the data for free.\n\nI added a few tickers in there to start with, but you can request…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "好奇心から、ある銘柄が前回の決算時にどのような動きをしたのかを知りたいと思いました。\nしかし、このような機能を持つサイトはほとんどが有料です。\nしかし、このような機能を持つウェブサイトの多くは、購読料を支払わなければなりません。このツールでは、無料でデータを閲覧することができます。\n\n私は最初にいくつかのティッカーを追加しましたが、あなたはリクエストすることができます...",
+      "title": "過去の決算で株価がどう動くかを見るためのオープンソースのサイトを作りました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "出于好奇，我想了解某些股票在以前的收益中是如何变动的。\n然而，大多数具有这种功能的网站都要求你付费订阅。\n你需要付费订阅。这个工具允许你免费浏览数据。\n\n我先在里面添加了几个股票，但你可以要求...",
+      "title": "我创建了一个开源网站，以查看股票价格如何围绕过去的盈利情况进行变动。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "出於好奇，我想了解某些股票在以前的收益中是如何變動的。\n然而，大多數具有這種功能的網站都要求你付費訂閱。\n你需要付費訂閱。這個工具允許你免費瀏覽數據。\n\n我先在裏面添加了幾個股票，但你可以要求...",
+      "title": "我創建了一個開源網站，以查看股票價格如何圍繞過去的盈利情況進行變動。"
+    }
+  ]
 }
