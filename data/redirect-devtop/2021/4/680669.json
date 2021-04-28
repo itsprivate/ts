@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-27T23:16:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ihXT-jRY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y61twruom9of9n5cp035.png",
   "author": "Kingsley Ubah",
-  "author_url": "https://dev.to/ubahthebuilder"
+  "author_url": "https://dev.to/ubahthebuilder",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactは、ユーザーインターフェースを構築するための、宣言的で、効率的で、柔軟なJavaScriptライブラリです。このライブラリは...",
+      "title": "Reactをわかりやすく学ぶ"
+    },
+    {
+      "locale": "zh",
+      "description": "React是一个声明性的、高效的、灵活的JavaScript库，用于构建用户界面。它的功能包括：1...",
+      "title": "用浅显的英语学习React"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "React是一個聲明性的、高效的、靈活的JavaScript庫，用於構建用戶界面。它的功能包括：1...",
+      "title": "用淺顯的英語學習React"
+    }
+  ]
 }
