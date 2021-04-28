@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-26T17:27:21Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UYRuLpRo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uhursfhx9siqne6tvh6q.jpg",
   "author": "Spyros Argalias",
-  "author_url": "https://dev.to/sargalias"
+  "author_url": "https://dev.to/sargalias",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "アプリケーションの端にあるコードユニットは、小さく、独立していて、一つのことしかしないものでなければなりません....",
+      "title": "クリーンなコードユニット（関数やメソッド）の書き方"
+    },
+    {
+      "locale": "zh",
+      "description": "在你的应用程序边缘的代码单元应该是小的，独立的，只做一件事....。",
+      "title": "如何编写干净的代码单元（函数和方法）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在你的應用程序邊緣的代碼單元應該是小的，獨立的，只做一件事....。",
+      "title": "如何編寫乾淨的代碼單元（函數和方法）。"
+    }
+  ]
 }
