@@ -230,5 +230,22 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Wed Apr 28 08:02:29 +0000 2021"
+  "original_created_at": "Wed Apr 28 08:02:29 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @saifedean: ビットコインのストックからフローへのモデルがThe Independentに掲載されました https://t.co/gT9ZX2JBtV",
+      "retweeted_status_full_text": "ビットコインのストックからフローへのモデルがThe Independent https://t.co/gT9ZX2JBtV に登場。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @saifedean: 比特币从库存到流动的模式进入了《独立报》 https://t.co/gT9ZX2JBtV",
+      "retweeted_status_full_text": "比特币存量到流量的模式使其成为独立的https://t.co/gT9ZX2JBtV"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @saifedean: 比特幣從庫存到流動的模式進入了《獨立報》 https://t.co/gT9ZX2JBtV",
+      "retweeted_status_full_text": "比特幣存量到流量的模式使其成爲獨立的https://t.co/gT9ZX2JBtV"
+    }
+  ]
 }

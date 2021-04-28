@@ -395,5 +395,22 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Wed Apr 28 07:57:55 +0000 2021"
+  "original_created_at": "Wed Apr 28 07:57:55 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @Blockworks_: 速報です。@Nexon_America が1億ドル相当のビットコインを購入 https://t.co/sGWnokunMp",
+      "retweeted_status_full_text": "ブレイキング。@Nexon_America が1億ドル相当のビットコインを購入 https://t.co/sGWnokunMp"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @Blockworks_: BREAKING: @Nexon_America购买了价值1亿美元的比特币。https://t.co/sGWnokunMp",
+      "retweeted_status_full_text": "爆炸性新闻。@Nexon_America购买了价值1亿美元的比特币。https://t.co/sGWnokunMp"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @Blockworks_: BREAKING: @Nexon_America購買了價值1億美元的比特幣。https://t.co/sGWnokunMp",
+      "retweeted_status_full_text": "爆炸性新聞。@Nexon_America購買了價值1億美元的比特幣。https://t.co/sGWnokunMp"
+    }
+  ]
 }

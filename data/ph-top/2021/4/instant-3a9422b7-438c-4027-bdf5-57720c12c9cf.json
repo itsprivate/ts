@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-28T07:01:00Z"
+  "original_createdAt": "2021-04-28T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Instantは、WooCommerceストア用のフリクションレスな1クリックチェックアウトで、オンラインセラーの売上を向上させるために開発されました。初回ユーザーはチェックアウト時に簡単なフォームに入力し、再来ユーザーはInstant対応ストアであれば1クリックチェックアウトが可能です。はじめよう- https://getinstant.co/ ⚡️",
+      "tagline": "Eコマースストアのための1クリックチェックアウト"
+    },
+    {
+      "locale": "zh",
+      "description": "Instant是一个用于WooCommerce商店的无摩擦一键式结账，为在线卖家增加销售。第一次使用的用户在结账时填写一个简短的表格；再次使用的用户可以在任何支持即时结账的商店中获得1键结账。开始吧- https://getinstant.co/ ⚡️",
+      "tagline": "电子商务商店的一键式结账"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Instant是一個用於WooCommerce商店的無摩擦一鍵式結賬，爲在線賣家增加銷售。第一次使用的用戶在結賬時填寫一個簡短的表格；再次使用的用戶可以在任何支持即時結賬的商店中獲得1鍵結賬。開始吧- https://getinstant.co/ ⚡️",
+      "tagline": "電子商務商店的一鍵式結賬"
+    }
+  ]
 }
