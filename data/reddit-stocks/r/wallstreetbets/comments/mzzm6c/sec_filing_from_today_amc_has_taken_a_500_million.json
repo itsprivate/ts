@@ -110,5 +110,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1619560298,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "本日のSEC提出書類で、AMCは5億株の希薄化を見送った。"
+    },
+    {
+      "locale": "zh",
+      "title": "从今天起，美国证券交易委员会的文件显示，AMC已将5亿股的稀释量拿下。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "從今天起，美國證券交易委員會的文件顯示，AMC已將5億股的稀釋量拿下。"
+    }
+  ]
 }
