@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-28T14:58:12Z"
+  "original_createdAt": "2021-04-28T14:58:12Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Fridoは、果てしなく続くToDoリストを作成する負担からあなたを解放するためにデザインされたToDoアプリです。",
+      "tagline": "自分のやり方で"
+    },
+    {
+      "locale": "zh",
+      "description": "Frido是一个待办事项应用程序，旨在将你从创建无尽的待办事项清单的负担中解放出来，你最终放弃了。",
+      "tagline": "用自己的方式做事"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Frido是一個待辦事項應用程序，旨在將你從創建無盡的待辦事項清單的負擔中解放出來，你最終放棄了。",
+      "tagline": "用自己的方式做事"
+    }
+  ]
 }
