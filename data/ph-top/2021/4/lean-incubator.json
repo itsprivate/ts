@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-29T07:04:25Z"
+  "original_createdAt": "2021-04-29T07:04:25Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "アイデア開発をインキュベート＆マネジメントするためのワークシステムテンプレートです。",
+      "tagline": "Notionであなたのアイデアをインキュベート"
+    },
+    {
+      "locale": "zh",
+      "description": "一个工作系统模板，用于孵化和管理你的想法发展。",
+      "tagline": "用Notion孵化你的想法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個工作系統模板，用於孵化和管理你的想法發展。",
+      "tagline": "用Notion孵化你的想法"
+    }
+  ]
 }
