@@ -221,5 +221,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Thu Apr 29 20:29:38 +0000 2021"
+  "original_created_at": "Thu Apr 29 20:29:38 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "アップル、マイクロソフト、アマゾン、グーグルの時価総額の合計は7.5兆ドルで、アメリカと中国を除く世界中の国のGDPよりも高いです。\n\nAAPL $MSFT $AMZN $GOOGL\n\nCharting via @ycharts https://t.co/HHhN6aJKL7"
+    },
+    {
+      "locale": "zh",
+      "full_text": "苹果、微软、亚马逊和谷歌的总市值为7.5万亿美元，比世界上除美国和中国以外的每个国家的GDP都要高。\n\n$aapl $msft $amzn $googl\n\n图表来自@ycharts https://t.co/HHhN6aJKL7"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "蘋果、微軟、亞馬遜和谷歌的總市值爲7.5萬億美元，比世界上除美國和中國以外的每個國家的GDP都要高。\n\n$aapl $msft $amzn $googl\n\n圖表來自@ycharts https://t.co/HHhN6aJKL7"
+    }
+  ]
 }
