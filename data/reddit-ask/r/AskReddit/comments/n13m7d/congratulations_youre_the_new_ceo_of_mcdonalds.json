@@ -101,5 +101,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1619700577,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "おめでとうございます! あなたはマクドナルドの新しいC.E.O.です! あなたの最初の議題は何ですか?"
+    },
+    {
+      "locale": "zh",
+      "title": "恭喜你! 你是麦当劳的新任首席执行官! 你议程上的第一个项目是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "恭喜你! 你是麥當勞的新任首席執行官! 你議程上的第一個項目是什麼？"
+    }
+  ]
 }
