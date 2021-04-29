@@ -1,0 +1,492 @@
+{
+  "created_at": "Thu Apr 29 2:25:27 +0000 2021",
+  "id": 1387577252469215200,
+  "id_str": "1387577252469215233",
+  "full_text": "RT @BrentTerhune: People that own cryptocurrency https://t.co/XlWbHmhIDC",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    72
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "BrentTerhune",
+        "name": "Brent Terhune",
+        "id": 30826525,
+        "id_str": "30826525",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 1387569554386296800,
+        "id_str": "1387569554386296835",
+        "indices": [
+          49,
+          72
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1387569554386296835/pu/img/NoriFvWU3Z07gjHq.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1387569554386296835/pu/img/NoriFvWU3Z07gjHq.jpg",
+        "url": "https://t.co/XlWbHmhIDC",
+        "display_url": "pic.twitter.com/XlWbHmhIDC",
+        "expanded_url": "https://twitter.com/BrentTerhune/status/1387569706673057795/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 604,
+            "h": 1080,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 604,
+            "h": 1080,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 380,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1387569706673057800,
+        "source_status_id_str": "1387569706673057795",
+        "source_user_id": 30826525,
+        "source_user_id_str": "30826525"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1387569554386296800,
+        "id_str": "1387569554386296835",
+        "indices": [
+          49,
+          72
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1387569554386296835/pu/img/NoriFvWU3Z07gjHq.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1387569554386296835/pu/img/NoriFvWU3Z07gjHq.jpg",
+        "url": "https://t.co/XlWbHmhIDC",
+        "display_url": "pic.twitter.com/XlWbHmhIDC",
+        "expanded_url": "https://twitter.com/BrentTerhune/status/1387569706673057795/video/1",
+        "type": "video",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 604,
+            "h": 1080,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 604,
+            "h": 1080,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 380,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1387569706673057800,
+        "source_status_id_str": "1387569706673057795",
+        "source_user_id": 30826525,
+        "source_user_id_str": "30826525",
+        "video_info": {
+          "aspect_ratio": [
+            151,
+            270
+          ],
+          "duration_millis": 83584,
+          "variants": [
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1387569554386296835/pu/vid/480x858/ynCEv3ALTJikulcs.mp4?tag=12"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1387569554386296835/pu/pl/sHve-0rOtRUiWd16.m3u8?tag=12&container=fmp4"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1387569554386296835/pu/vid/604x1080/aFzGsDEEDm3sL9AN.mp4?tag=12"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1387569554386296835/pu/vid/320x572/KVBVpU4QaSSSNFKn.mp4?tag=12"
+            }
+          ]
+        },
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "id": 30826525,
+            "id_str": "30826525",
+            "name": "Brent Terhune",
+            "screen_name": "BrentTerhune",
+            "location": "",
+            "description": "MGMT: nat@arsonhouse.com Rep: CAA",
+            "url": "https://t.co/2J8e4jlgj9",
+            "entities": {
+              "url": {
+                "urls": [
+                  {
+                    "url": "https://t.co/2J8e4jlgj9",
+                    "expanded_url": "https://linktr.ee/brentterhune",
+                    "display_url": "linktr.ee/brentterhune",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              },
+              "description": {
+                "urls": []
+              }
+            },
+            "protected": false,
+            "followers_count": 355109,
+            "friends_count": 4742,
+            "listed_count": 936,
+            "created_at": "Mon Apr 13 07:27:17 +0000 2009",
+            "favourites_count": 48164,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 7046,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C6E2EE",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1361814797222830085/tKHa_nK8_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1361814797222830085/tKHa_nK8_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/30826525/1613516924",
+            "profile_link_color": "1F98C7",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DAECF4",
+            "profile_text_color": "663B12",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+          }
+        }
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 93529573,
+    "id_str": "93529573",
+    "name": "Michael Batnick",
+    "screen_name": "michaelbatnick",
+    "location": "",
+    "description": "Long-distance reader",
+    "url": "https://t.co/Hsrw7tqiUp",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/Hsrw7tqiUp",
+            "expanded_url": "https://podcasts.apple.com/us/podcast/animal-spirits-podcast/id1310192007",
+            "display_url": "podcasts.apple.com/us/podcast/ani…",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 147199,
+    "friends_count": 1043,
+    "listed_count": 3430,
+    "created_at": "Mon Nov 30 01:36:02 +0000 2009",
+    "favourites_count": 82210,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 42338,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1157350851406716932/rNWwlpQL_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1157350851406716932/rNWwlpQL_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/93529573/1468512070",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Apr 29 00:49:32 +0000 2021",
+    "id": 1387569706673057800,
+    "id_str": "1387569706673057795",
+    "full_text": "People that own cryptocurrency https://t.co/XlWbHmhIDC",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      30
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1387569554386296800,
+          "id_str": "1387569554386296835",
+          "indices": [
+            31,
+            54
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1387569554386296835/pu/img/NoriFvWU3Z07gjHq.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1387569554386296835/pu/img/NoriFvWU3Z07gjHq.jpg",
+          "url": "https://t.co/XlWbHmhIDC",
+          "display_url": "pic.twitter.com/XlWbHmhIDC",
+          "expanded_url": "https://twitter.com/BrentTerhune/status/1387569706673057795/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 604,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 604,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 380,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1387569554386296800,
+          "id_str": "1387569554386296835",
+          "indices": [
+            31,
+            54
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1387569554386296835/pu/img/NoriFvWU3Z07gjHq.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1387569554386296835/pu/img/NoriFvWU3Z07gjHq.jpg",
+          "url": "https://t.co/XlWbHmhIDC",
+          "display_url": "pic.twitter.com/XlWbHmhIDC",
+          "expanded_url": "https://twitter.com/BrentTerhune/status/1387569706673057795/video/1",
+          "type": "video",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 604,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 604,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 380,
+              "h": 680,
+              "resize": "fit"
+            }
+          },
+          "video_info": {
+            "aspect_ratio": [
+              151,
+              270
+            ],
+            "duration_millis": 83584,
+            "variants": [
+              {
+                "bitrate": 950000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1387569554386296835/pu/vid/480x858/ynCEv3ALTJikulcs.mp4?tag=12"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1387569554386296835/pu/pl/sHve-0rOtRUiWd16.m3u8?tag=12&container=fmp4"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1387569554386296835/pu/vid/604x1080/aFzGsDEEDm3sL9AN.mp4?tag=12"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1387569554386296835/pu/vid/320x572/KVBVpU4QaSSSNFKn.mp4?tag=12"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 30826525,
+      "id_str": "30826525",
+      "name": "Brent Terhune",
+      "screen_name": "BrentTerhune",
+      "location": "",
+      "description": "MGMT: nat@arsonhouse.com Rep: CAA",
+      "url": "https://t.co/2J8e4jlgj9",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/2J8e4jlgj9",
+              "expanded_url": "https://linktr.ee/brentterhune",
+              "display_url": "linktr.ee/brentterhune",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 355109,
+      "friends_count": 4742,
+      "listed_count": 936,
+      "created_at": "Mon Apr 13 07:27:17 +0000 2009",
+      "favourites_count": 48164,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 7046,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C6E2EE",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1361814797222830085/tKHa_nK8_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1361814797222830085/tKHa_nK8_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/30826525/1613516924",
+      "profile_link_color": "1F98C7",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DAECF4",
+      "profile_text_color": "663B12",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 467,
+    "favorite_count": 2343,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 467,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en",
+  "original_created_at": "Thu Apr 29 01:19:31 +0000 2021"
+}
