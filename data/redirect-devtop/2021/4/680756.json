@@ -43,5 +43,22 @@
   "original_created_at": "2021-04-28T00:43:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--g-MUgcEO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3bxobl6a6d856vfg3zpo.gif",
   "author": "Temani Afif",
-  "author_url": "https://dev.to/afif"
+  "author_url": "https://dev.to/afif",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "300回のアニメーションでは足りない？よし、あと100回アニメをやってみたが、どうだろう、まだ余計なことはしていない...。",
+      "title": "100種類のアンダーライン/オーバーレイ・アニメーション｜The advanced CSS collection 🚀."
+    },
+    {
+      "locale": "zh",
+      "description": "300个动画还不够？好吧，我又做了100个动画，你猜怎么着，还是没有多余的电子。",
+      "title": "仍有100个下划线/覆盖动画|高级CSS集合 🚀"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "300個動畫還不夠？好吧，我又做了100個動畫，你猜怎麼着，還是沒有多餘的電子。",
+      "title": "仍有100個下劃線/覆蓋動畫|高級CSS集合 🚀"
+    }
+  ]
 }
