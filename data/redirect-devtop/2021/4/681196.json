@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-28T11:18:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QfoIns91--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ipla1fy21k28bwmr6in7.png",
   "author": "Mystery Code",
-  "author_url": "https://dev.to/foolishdeveloper"
+  "author_url": "https://dev.to/foolishdeveloper",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Random Password Generatorは、パスワードをランダムに自動生成するプログラムです。それらの生成された...",
+      "title": "JavaScript、HTML、CSSによるパスワードジェネレータ"
+    },
+    {
+      "locale": "zh",
+      "description": "随机密码生成器是一个能自动随机生成密码的程序。这些生成的密码将被保存下来。",
+      "title": "使用JavaScript、HTML和CSS的密码生成器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "隨機密碼生成器是一個能自動隨機生成密碼的程序。這些生成的密碼將被保存下來。",
+      "title": "使用JavaScript、HTML和CSS的密碼生成器"
+    }
+  ]
 }

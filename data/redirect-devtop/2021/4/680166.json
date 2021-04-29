@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-27T13:43:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rrmKW1aM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9ovod25kl6xl62xdgn87.png",
   "author": "Laurie",
-  "author_url": "https://dev.to/laurieontech"
+  "author_url": "https://dev.to/laurieontech",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Rustを学んできました。データ型の理解をどのようにマッピングするかが次の課題です。",
+      "title": "JavaScriptからRustへ：データタイプ"
+    },
+    {
+      "locale": "zh",
+      "description": "我一直在学习Rust。下一步是弄清楚如何映射我对数据类型的理解。",
+      "title": "从JavaScript到Rust：数据类型"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我一直在學習Rust。下一步是弄清楚如何映射我對數據類型的理解。",
+      "title": "從JavaScript到Rust：數據類型"
+    }
+  ]
 }
