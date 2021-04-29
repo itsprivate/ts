@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-28T17:06:38Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_wNvN8Bp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qssh11fupokknb3szizk.jpg",
   "author": "Adam Nathaniel Davis",
-  "author_url": "https://dev.to/bytebodger"
+  "author_url": "https://dev.to/bytebodger",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "注：1ヶ月前、私はFacebookに応募することを説明する記事を書きました。 この記事を読むと...",
+      "title": "Facebookに拒否される"
+    },
+    {
+      "locale": "zh",
+      "description": "[注：一个月前我写了一篇文章，解释我将申请加入Facebook。 你可以阅读...",
+      "title": "被Facebook拒绝"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "[注：一個月前我寫了一篇文章，解釋我將申請加入Facebook。 你可以閱讀...",
+      "title": "被Facebook拒絕"
+    }
+  ]
 }
