@@ -246,5 +246,22 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Thu Apr 29 12:55:39 +0000 2021"
+  "original_created_at": "Thu Apr 29 12:55:39 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @ForbesCrypto: ビットコインの価格予測ツールの1つであるStock-to-Flowが驚くほど正確であることが証明されました。ここでは、以下のことを知っておく必要があります: by...",
+      "retweeted_status_full_text": "ある#ビットコイン価格予測ツール、Stock-to-Flowが驚くほど正確であることが証明されました。ここでは、あなたが知っておくべきことを紹介します： by @Steven_Ehrlich https://t.co/ig21REAW9v"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @ForbesCrypto: 一个#比特币价格预测工具，Stock-to-Flow已经证明是非常准确的。以下是你需要知道的：通过...",
+      "retweeted_status_full_text": "一个#比特币价格预测工具，Stock-to-Flow已被证明是非常准确的。以下是你需要知道的： 作者：@Steven_Ehrlich https://t.co/ig21REAW9v"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @ForbesCrypto: 一個#比特幣價格預測工具，Stock-to-Flow已經證明是非常準確的。以下是你需要知道的：通過...",
+      "retweeted_status_full_text": "一個#比特幣價格預測工具，Stock-to-Flow已被證明是非常準確的。以下是你需要知道的： 作者：@Steven_Ehrlich https://t.co/ig21REAW9v"
+    }
+  ]
 }
