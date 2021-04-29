@@ -208,5 +208,22 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Thu Apr 29 21:50:48 +0000 2021"
+  "original_created_at": "Thu Apr 29 21:50:48 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @danheld: \"ビットコインはeNeRgYを使いすぎだ！\"彼は月々5,000ドルのアパートで、2,000ドルのMacbook proでタイプし、10ドルのデイリードリンクを飲みながら言った。",
+      "retweeted_status_full_text": "\"月々5,000ドルのアパートで、毎日10ドルのカフェラテを飲みながら、2,000ドルのMacbook proで「ビットコインはeNeRgYを使いすぎだ！」とタイプしている。バックグラウンドにはPaul Krugmanのポッドキャストが静かに流れている。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @danheld: \"他在他5000美元/月的公寓里用他2000美元的Macbook pro打字，同时喝着他的10美元日报。",
+      "retweeted_status_full_text": "\"比特币使用了太多的电子货币！\"他在5000美元/月的公寓里用2000美元的Macbook pro打字，同时啜饮着他每天10美元的拿铁咖啡。背景中轻轻地播放着保罗-克鲁格曼的播客。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @danheld: \"他在他5000美元/月的公寓裏用他2000美元的Macbook pro打字，同時喝着他的10美元日報。",
+      "retweeted_status_full_text": "\"比特幣使用了太多的電子貨幣！\"他在5000美元/月的公寓裏用2000美元的Macbook pro打字，同時啜飲着他每天10美元的拿鐵咖啡。背景中輕輕地播放着保羅-克魯格曼的播客。"
+    }
+  ]
 }
