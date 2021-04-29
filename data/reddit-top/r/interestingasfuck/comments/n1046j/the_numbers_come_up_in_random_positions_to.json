@@ -153,5 +153,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1619685706,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "数字はランダムな位置に配置されているので、摩耗パターンから推測することはできません。"
+    },
+    {
+      "locale": "zh",
+      "title": "数字出现的位置是随机的，以防止根据磨损模式进行猜测。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "數字出現的位置是隨機的，以防止根據磨損模式進行猜測。"
+    }
+  ]
 }
