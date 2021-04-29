@@ -488,5 +488,22 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Thu Apr 29 01:19:31 +0000 2021"
+  "original_created_at": "Thu Apr 29 01:19:31 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @BrentTerhune: 暗号通貨を持っている人 https://t.co/XlWbHmhIDC",
+      "retweeted_status_full_text": "暗号通貨を所有している人 https://t.co/XlWbHmhIDC"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @BrentTerhune: 拥有加密货币的人https://t.co/XlWbHmhIDC",
+      "retweeted_status_full_text": "拥有加密货币的人https://t.co/XlWbHmhIDC"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @BrentTerhune: 擁有加密貨幣的人https://t.co/XlWbHmhIDC",
+      "retweeted_status_full_text": "擁有加密貨幣的人https://t.co/XlWbHmhIDC"
+    }
+  ]
 }

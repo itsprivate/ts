@@ -92,5 +92,19 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Wed Apr 28 14:27:41 +0000 2021"
+  "original_created_at": "Wed Apr 28 14:27:41 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "ニューヨーク市、観光客の消費額が73%減で12億ドルの損失"
+    },
+    {
+      "locale": "zh",
+      "full_text": "游客消费下降73%，纽约市损失12亿美元"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "遊客消費下降73%，紐約市損失12億美元"
+    }
+  ]
 }
