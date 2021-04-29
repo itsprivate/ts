@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-20T21:03:45Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zUSGlay6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qofipr93pnv1xl3kbd7q.jpg",
   "author": "Vincent",
-  "author_url": "https://dev.to/vibioh"
+  "author_url": "https://dev.to/vibioh",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "なぜかというと、あなたが新品のコンピュータを受け取ったとします。あなたは、たくさんのソフトウェアをインストールしています...",
+      "title": "~/.dotfiles"
+    },
+    {
+      "locale": "zh",
+      "description": "为什么 假设你收到你的全新电脑。你有一大堆的软件要在你的电脑上使用。",
+      "title": "~/.dotfiles"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "爲什麼 假設你收到你的全新電腦。你有一大堆的軟件要在你的電腦上使用。",
+      "title": "~/.dotfiles"
+    }
+  ]
 }
