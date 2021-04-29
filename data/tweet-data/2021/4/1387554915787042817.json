@@ -92,5 +92,19 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Wed Apr 28 23:50:46 +0000 2021"
+  "original_created_at": "Wed Apr 28 23:50:46 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "ドージェコインの価格\n\n1ヶ月前：0.05ドル\n\n現在：0.32ドル"
+    },
+    {
+      "locale": "zh",
+      "full_text": "Dogecoin的价格。\n\n一个月前：0.05美元\n\n现在：0.32美元"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "Dogecoin的價格。\n\n一個月前：0.05美元\n\n現在：0.32美元"
+    }
+  ]
 }
