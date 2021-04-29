@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-28T17:01:46Z",
   "image": "https://dev.to/social_previews/article/681534.png",
   "author": "mrwolferinc",
-  "author_url": "https://dev.to/mrwolferinc"
+  "author_url": "https://dev.to/mrwolferinc",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "プロジェクトで実際に役立つCSSの小技10選です。もっと知りたいという方は、こちらをご覧ください。",
+      "title": "10 Helpful CSS Tips"
+    },
+    {
+      "locale": "zh",
+      "description": "这些是10个小的CSS技巧，可以在项目中实际帮助你。如果你想要求更多...",
+      "title": "10个有用的CSS技巧"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這些是10個小的CSS技巧，可以在項目中實際幫助你。如果你想要求更多...",
+      "title": "10個有用的CSS技巧"
+    }
+  ]
 }
