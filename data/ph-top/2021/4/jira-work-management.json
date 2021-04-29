@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-29T09:07:23Z"
+  "original_createdAt": "2021-04-29T09:07:23Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Jira Work Managementは、ビジネスチームがJiraのパワーにアクセスするための新しいフレンドリーで直感的な方法であり、現代的なスタイルのコラボレーションのために構築された新機能を備えています。",
+      "tagline": "Jiraのビジネスチームの新しい拠点"
+    },
+    {
+      "locale": "zh",
+      "description": "Jira工作管理是一种新的友好和直观的方式，使企业团队能够使用Jira的力量，并具有为现代协作风格建立的新功能。",
+      "tagline": "Jira上业务团队的新家"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Jira工作管理是一種新的友好和直觀的方式，使企業團隊能夠使用Jira的力量，並具有爲現代協作風格建立的新功能。",
+      "tagline": "Jira上業務團隊的新家"
+    }
+  ]
 }
