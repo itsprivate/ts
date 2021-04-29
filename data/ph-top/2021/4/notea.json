@@ -72,5 +72,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-29T07:04:36Z"
+  "original_createdAt": "2021-04-29T07:04:36Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Noteaは、S3に保存されているSelf hosted Note taking appで、ワンクリックでVercelやAWSにデプロイしたり、Docker🐳でデプロイすることができます。Amazon S3、MinIO、Aliyun OSSなどのストレージに対応しています。これはTypeScript🚀で動いており、Mark Downが大好きです。",
+      "tagline": "Notionのような、無料のセルフホスト型オープンソースノートアプリ"
+    },
+    {
+      "locale": "zh",
+      "description": "Notea是一个存储在S3上的自我托管的笔记应用程序，你可以一键部署到Vercel、AWS，或用Docker🐳部署。它支持亚马逊S3、MinIO、阿里云OSS等的存储。它由TypeScript🚀驱动，喜欢Mark Down。",
+      "tagline": "免费的自我托管的开源笔记应用程序，如Notion"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Notea是一個存儲在S3上的自我託管的筆記應用程序，你可以一鍵部署到Vercel、AWS，或用Docker🐳部署。它支持亞馬遜S3、MinIO、阿里雲OSS等的存儲。它由TypeScript🚀驅動，喜歡Mark Down。",
+      "tagline": "免費的自我託管的開源筆記應用程序，如Notion"
+    }
+  ]
 }
