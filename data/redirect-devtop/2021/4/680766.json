@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-28T02:21:52Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--di8dZD6k--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cl85q6dkyj369a77hnce.png",
   "author": "Mustafa KURU",
-  "author_url": "https://dev.to/hepter"
+  "author_url": "https://dev.to/hepter",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに 多くのプロジェクトでは、非同期呼び出しが行われています。このような場合、その動作は不自然なものになる可能性があります。",
+      "title": "loadioでReactのロード状況を管理するのはとても簡単です。"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍：许多项目包含异步调用。这些调用的操作可能是无用的。",
+      "title": "有了loadio，管理React的加载状态就容易多了。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹：許多項目包含異步調用。這些調用的操作可能是無用的。",
+      "title": "有了loadio，管理React的加載狀態就容易多了。"
+    }
+  ]
 }
