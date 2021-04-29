@@ -102,5 +102,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1619652858,
-  "the_new_excerpt": "Hi! I’ve seen some company’s analysis which are great, but I have to get out of\nthe app and search the stock’s name in order to understand it.\n\nThey usually start something like:\n\n“Here’s my analysis of $WXYZ. They are deeply undervalued because of the\nheadwinds it’s industry is experiencing. Their…"
+  "the_new_excerpt": "Hi! I’ve seen some company’s analysis which are great, but I have to get out of\nthe app and search the stock’s name in order to understand it.\n\nThey usually start something like:\n\n“Here’s my analysis of $WXYZ. They are deeply undervalued because of the\nheadwinds it’s industry is experiencing. Their…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "こんにちは！私はいくつかの企業の分析を見てきましたが、それは素晴らしいですが、私は理解するためにアプリから出て、株式の名前を検索する必要があります。\n理解するためには、アプリから出て銘柄名を検索しなければなりません。\n\nたいていは次のように始まります。\n\n\"これがWXYZドルの私の分析です。彼らは非常に過小評価されています。\nその業界が経験している逆風のために、彼らは非常に過小評価されています。彼らの...",
+      "title": "長く語る前に、銘柄の簡単な説明、あるいは名前だけでもいいので、教えてください。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你好！我看到一些公司的分析很好，但我必须走出应用程序，搜索股票名称才能理解。\n应用，并搜索股票的名称，以便理解它。\n\n他们通常会有这样的开头。\n\n\"这是我对$WXYZ的分析。他们的价值被严重低估了，因为\n他们的价值被严重低估，因为他们的行业正经历着逆风。他们的...",
+      "title": "在详细谈论一只股票之前，我们能不能只对它做一个简单的描述，或者甚至只说一个名字？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你好！我看到一些公司的分析很好，但我必須走出應用程序，搜索股票名稱才能理解。\n應用，並搜索股票的名稱，以便理解它。\n\n他們通常會有這樣的開頭。\n\n\"這是我對$WXYZ的分析。他們的價值被嚴重低估了，因爲\n他們的價值被嚴重低估，因爲他們的行業正經歷着逆風。他們的...",
+      "title": "在詳細談論一隻股票之前，我們能不能只對它做一個簡單的描述，或者甚至只說一個名字？"
+    }
+  ]
 }
