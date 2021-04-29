@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-29T08:35:32Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pf-J-o8Z--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/28nmc16youd5qln0zgzg.png",
   "author": "Eduardo Ferreira",
-  "author_url": "https://dev.to/eduferfer"
+  "author_url": "https://dev.to/eduferfer",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "少し前までは、Webのユーザーインターフェースは、標準的なHTMLとCSSで構築されることがほとんどでした。しかし、最近では...",
+      "title": "デザインシステム - UIコンポーネントのAPIをデザインする"
+    },
+    {
+      "locale": "zh",
+      "description": "不久前，网络的用户界面大多是用标准的HTML和CSS来构建的。崛起的...",
+      "title": "设计系统--设计UI组件的API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "不久前，網絡的用戶界面大多是用標準的HTML和CSS來構建的。崛起的...",
+      "title": "設計系統--設計UI組件的API"
+    }
+  ]
 }
