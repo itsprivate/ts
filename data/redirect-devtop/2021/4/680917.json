@@ -43,5 +43,22 @@
   "original_created_at": "2021-04-28T05:46:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--R3Zpu_e5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7falkkxbyhzuf6qnnz8k.jpg",
   "author": "Shubham Sananse",
-  "author_url": "https://dev.to/shubham_sns"
+  "author_url": "https://dev.to/shubham_sns",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このブログでは、Reactの基礎知識とuseStateフックを知っていることを前提としています。  私の記事を読んでください。",
+      "title": "useRef() : DOMとその先へ..."
+    },
+    {
+      "locale": "zh",
+      "description": "这篇博客假设你知道React的基本原理和useState钩。  请阅读我的文章，了解什么是 \"使用状态\"。",
+      "title": "useRef( )：DOM及其他..."
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這篇博客假設你知道React的基本原理和useState鉤。  請閱讀我的文章，瞭解什麼是 \"使用狀態\"。",
+      "title": "useRef( )：DOM及其他..."
+    }
+  ]
 }
