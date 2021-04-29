@@ -108,5 +108,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1619634461,
-  "the_new_excerpt": "Don't worry about being late to the party because you are not."
+  "the_new_excerpt": "Don't worry about being late to the party because you are not.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "遅れてきたからといって心配する必要はありません。",
+      "title": "これを読んでいる方は、ビットコインのアーリーアダプターです。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "不要担心会迟到，因为你没有迟到。",
+      "title": "如果你正在读这篇文章，你就是早期的比特币采用者。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "不要擔心會遲到，因爲你沒有遲到。",
+      "title": "如果你正在讀這篇文章，你就是早期的比特幣採用者。"
+    }
+  ]
 }
