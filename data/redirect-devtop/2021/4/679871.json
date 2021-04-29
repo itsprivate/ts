@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-27T07:47:02Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PpLu6UVs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7uyxxci70nzj70jux3u2.jpg",
   "author": "Lukasz Pietraszek",
-  "author_url": "https://dev.to/pietraszek"
+  "author_url": "https://dev.to/pietraszek",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "インタビューの質問に関する2つ目の記事へようこそ。前回の記事では、一般的な質問を取り上げましたが、今回の記事では...",
+      "title": "インタビューの質問 JavaScript"
+    },
+    {
+      "locale": "zh",
+      "description": "欢迎来到关于面试问题的第二篇文章。你可以阅读前一篇文章，其中包括一般问题。",
+      "title": "面试问题。JavaScript"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "歡迎來到關於面試問題的第二篇文章。你可以閱讀前一篇文章，其中包括一般問題。",
+      "title": "面試問題。JavaScript"
+    }
+  ]
 }
