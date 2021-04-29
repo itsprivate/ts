@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-29T10:07:44Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QmKQRIld--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/owziiqdqsms7emvtuvy0.png",
   "author": "Andrew Baisden",
-  "author_url": "https://dev.to/andrewbaisden"
+  "author_url": "https://dev.to/andrewbaisden",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに 私は昔から文章を書くことが好きでした。",
+      "title": "私の記事の書き方"
+    },
+    {
+      "locale": "zh",
+      "description": "简介：我一直对写作充满热情，因为我发现写作是我的工作之一。",
+      "title": "我是如何写文章的"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介：我一直對寫作充滿熱情，因爲我發現寫作是我的工作之一。",
+      "title": "我是如何寫文章的"
+    }
+  ]
 }
