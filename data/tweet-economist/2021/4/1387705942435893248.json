@@ -113,5 +113,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Thu Apr 29 09:50:53 +0000 2021"
+  "original_created_at": "Thu Apr 29 09:50:53 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "インドのほとんどの州では、最近の検査で陽性反応が出ていなくても、死亡原因がcovid-19であるとは言えない。しかし、特に大都市以外では、検査が普及していない。https://t.co/iSFeU8dNmf"
+    },
+    {
+      "locale": "zh",
+      "full_text": "在印度大多数邦，如果没有最近的阳性检测结果，死亡不会归因于covid-19。但检测，特别是在大城市以外的地方，并不普遍https://t.co/iSFeU8dNmf。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "在印度大多數邦，如果沒有最近的陽性檢測結果，死亡不會歸因於covid-19。但檢測，特別是在大城市以外的地方，並不普遍https://t.co/iSFeU8dNmf。"
+    }
+  ]
 }
