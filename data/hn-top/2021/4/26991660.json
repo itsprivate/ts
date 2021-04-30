@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-04-30T10:18:06.000Z",
-  "image": "https://tldp.org/images/ldp.gif"
+  "image": "https://tldp.org/images/ldp.gif",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "インターネットやスタックオーバーフローを使わずにLinuxを学ぶことができます。Linux HOWTOs"
+    },
+    {
+      "locale": "zh",
+      "title": "在没有互联网和堆栈溢出的情况下学习Linux。Linux HOWTOs"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在沒有互聯網和堆棧溢出的情況下學習Linux。Linux HOWTOs"
+    }
+  ]
 }

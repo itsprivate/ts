@@ -116,5 +116,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1619795431,
-  "the_new_excerpt": "If you're new to the space, here is a quick 101 on wallets.\n\nMetamask, Electrum, MEW, Trust, Coinomi, Atomic or whatever other application\nyou call a wallet is not really a wallet.\n\nThey are wallet applications that allow you to access and manage your\ncryptocurrency, NFTs or whatever blockchain…"
+  "the_new_excerpt": "If you're new to the space, here is a quick 101 on wallets.\n\nMetamask, Electrum, MEW, Trust, Coinomi, Atomic or whatever other application\nyou call a wallet is not really a wallet.\n\nThey are wallet applications that allow you to access and manage your\ncryptocurrency, NFTs or whatever blockchain…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "この分野に初めて触れる方のために、ウォレットに関する簡単な101を紹介します。\n\nMetamask、Electrum、MEW、Trust、Coinomi、Atomicなど、あなたがウォレットと呼ぶアプリケーションは、本当のウォレットではありません。\nウォレットと呼ばれているものは、実際にはウォレットではありません。\n\nそれらは、あなたの暗号通貨やNFTにアクセスし、管理するためのウォレットアプリケーションです。\n暗号通貨やNFTなどのブロックチェーンにアクセスして管理するためのアプリケーションです。",
+      "title": "財布は自分が思っているものとは違う"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "如果你是这个领域的新手，这里有一个关于钱包的快速101。\n\nMetamask、Electrum、MEW、Trust、Coinomi、Atomic或任何其他你称之为钱包的应用\n你称之为钱包的任何其他应用程序都不是真正的钱包。\n\n它们是钱包应用程序，允许你访问和管理你的\n加密货币、NFTs或任何区块链...",
+      "title": "钱包不是你想的那样"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "如果你是這個領域的新手，這裏有一個關於錢包的快速101。\n\nMetamask、Electrum、MEW、Trust、Coinomi、Atomic或任何其他你稱之爲錢包的應用\n你稱之爲錢包的任何其他應用程序都不是真正的錢包。\n\n它們是錢包應用程序，允許你訪問和管理你的\n加密貨幣、NFTs或任何區塊鏈...",
+      "title": "錢包不是你想的那樣"
+    }
+  ]
 }
