@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-28T23:10:17Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nBYdCjR0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q60b0x8v5n5z7s2lx98s.png",
   "author": "Kingsley Ubah",
-  "author_url": "https://dev.to/ubahthebuilder"
+  "author_url": "https://dev.to/ubahthebuilder",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "再びこんにちは。 前回はReactのイントロダクションを少し行いました。今日はその内容を少し変えてみました。",
+      "title": "セマンティックなHTML要素。div要素の代わりに使用する8つの要素を紹介します。"
+    },
+    {
+      "locale": "zh",
+      "description": "又见面了。 上次我们做了一个关于React的小介绍。今天，我稍稍转移了一下话题。",
+      "title": "语义学HTML元素。这里有8个元素可以用来代替div元素"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "又見面了。 上次我們做了一個關於React的小介紹。今天，我稍稍轉移了一下話題。",
+      "title": "語義學HTML元素。這裏有8個元素可以用來代替div元素"
+    }
+  ]
 }
