@@ -102,5 +102,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1619788993,
-  "the_new_excerpt": "Why YSK: if you’re going to mail something, you need to send it soon."
+  "the_new_excerpt": "Why YSK: if you’re going to mail something, you need to send it soon.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "なぜYSKかというと、何かを郵送するのであれば、すぐに送らなければならないからです。",
+      "title": "YSKさんは、母の日（米国）が来週の日曜日、5月9日であることを知っています。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么是YSK：如果你要邮寄东西，你需要尽快发送。",
+      "title": "YSK表示，母亲节（美国）是下周日，5月9日。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼是YSK：如果你要郵寄東西，你需要儘快發送。",
+      "title": "YSK表示，母親節（美國）是下週日，5月9日。"
+    }
+  ]
 }
