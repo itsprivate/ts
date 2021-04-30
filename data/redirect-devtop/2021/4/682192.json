@@ -43,5 +43,22 @@
   "original_created_at": "2021-04-29T10:07:39Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ReaVLLY1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yce4o8y2tkty91k72pz6.png",
   "author": "Kinanee Samson",
-  "author_url": "https://dev.to/kalashin1"
+  "author_url": "https://dev.to/kalashin1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今週は、これから2ヶ月間取り組むプロジェクトのために、node jsサーバーをセットアップする必要がありました。",
+      "title": "TypeScriptによるNode js、Express、Mongodb、Mongooseのセットアップ"
+    },
+    {
+      "locale": "zh",
+      "description": "本周，我不得不为一个项目设置一个node js服务器，我将在接下来的两个月内进行工作。",
+      "title": "用TypeScript设置Node js、Express、Mongodb和Mongoose"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "本週，我不得不爲一個項目設置一個node js服務器，我將在接下來的兩個月內進行工作。",
+      "title": "用TypeScript設置Node js、Express、Mongodb和Mongoose"
+    }
+  ]
 }
