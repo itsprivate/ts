@@ -3,7 +3,7 @@
   "title": "Ask HN: How would you store 10PB of data for your startup today?",
   "url": null,
   "author": "philippb",
-  "points": 146,
+  "points": 306,
   "story_text": "I&#x27;m running a startup and we&#x27;re storing north of 10PB of data and growing. We&#x27;re currently on AWS and our contract is up for renewal. I&#x27;m exploring other storage solutions.<p>Min requirements of AWS S3 One Zone IA (<a href=\"https:&#x2F;&#x2F;aws.amazon.com&#x2F;s3&#x2F;storage-classes&#x2F;?nc=sn&amp;loc=3\" rel=\"nofollow\">https:&#x2F;&#x2F;aws.amazon.com&#x2F;s3&#x2F;storage-classes&#x2F;?nc=sn&amp;loc=3</a>)<p>How would you store &gt;10PB if you&#x27;d be in my shoes? Thought experiment can be with and without data transfer cost our of current S3 buckets.\nPlease mention also what your experience is based on. Ideally you store large amounts of data yourself and speak of first hand experience.<p>Thank you for your support!! I will post a thread once we got to a decision on what we ended up doing.<p>Update: \nShould have mentioned earlier, data needs to be accessible at all time. It’s user generated data that is downloaded in the background to a mobile phone, so super low latency is not important, but less than 1000ms required.<p>The data is all images and videos, and no queries need to be performed on the data.",
   "comment_text": null,
   "num_comments": 184,
@@ -52,5 +52,6 @@
       "locale": "zh-Hant",
       "title": "詢問HN：今天你將如何爲你的創業公司存儲10PB的數據？"
     }
-  ]
+  ],
+  "source_updated_at": 1619776222683
 }
