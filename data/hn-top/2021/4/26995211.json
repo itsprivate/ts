@@ -1,0 +1,40 @@
+{
+  "created_at": "2021-04-30T22:56:31.357Z",
+  "title": "Beware HN: The rise of weaponized \"abuse\" reports",
+  "url": null,
+  "author": "tothrowaway",
+  "points": 140,
+  "story_text": "Reputation management companies are hired to clean up Google search results for their clients. They usually send scary sounding emails, or letters demanding some &quot;unauthorized&quot;, &quot;sensitive&quot; or &quot;threatening&quot; content (created by a user) be removed. They can&#x27;t use a DMCA notice because it isn&#x27;t a copyright complaint. If you do not give in to their demands, they will send the same scary sounding notices to abuse@[host], abuse@[registrar] and abuse@[dns provider].<p>The most unscrupulous reputation management company I&#x27;ve ever dealt with (izoologic) has apparently figured out that &quot;phishing&quot; is the best way to get what they want. They claimed a user-generated page on my site was phishing for credentials (because it happened to mention their client&#x27;s name and had a login form on it). I got this from Namecheap:<p>&quot;&quot;&quot;\nWe are writing from the Namecheap Legal and Abuse team.<p>It has come to our attention that phishing content is displayed on your website at the link:<p>[URL to an entirely innocent page]<p>As a reminder, phishing is expressly prohibited by our Universal Terms of Service Agreement, paragraph 7. &quot;Acceptable Use Policy (AUP)&quot; at https:&#x2F;&#x2F;www.namecheap.com&#x2F;legal&#x2F;universal&#x2F;universal-tos.aspx<p>We need you to act promptly in removing the reported content within the next 24 hours. While we always try to avoid having to interrupt our customers&#x27; services, if we receive no response from you or no action is taken within the mentioned time frame, unfortunately, we will be forced to suspend the domain until the matter is resolved.\n&quot;&quot;&quot;<p>From my logs, I can see Namecheap didn&#x27;t even visit the page before requiring me to take it down within 24 hours. If I had been on vacation, apparently my domain would have been suspended.<p>If you accept user generated content, you need to be vigilant about handling these weaponized abuse complaints. They can take down your business in a day if you are not paying attention.",
+  "comment_text": null,
+  "num_comments": 17,
+  "story_id": null,
+  "story_title": null,
+  "story_url": null,
+  "parent_id": null,
+  "created_at_i": 1619798594,
+  "_tags": [
+    "story",
+    "author_tothrowaway",
+    "story_26995211"
+  ],
+  "objectID": "26995211",
+  "_highlightResult": {
+    "title": {
+      "value": "Beware HN: The rise of weaponized \"abuse\" reports",
+      "matchLevel": "none",
+      "matchedWords": []
+    },
+    "author": {
+      "value": "tothrowaway",
+      "matchLevel": "none",
+      "matchedWords": []
+    },
+    "story_text": {
+      "value": "Reputation management companies are hired to clean up Google search results for their clients. They usually send scary sounding emails, or letters demanding some &quot;unauthorized&quot;, &quot;sensitive&quot; or &quot;threatening&quot; content (created by a user) be removed. They can't use a DMCA notice because it isn't a copyright complaint. If you do not give in to their demands, they will send the same scary sounding notices to abuse@[host], abuse@[registrar] and abuse@[dns provider].<p>The most unscrupulous reputation management company I've ever dealt with (izoologic) has apparently figured out that &quot;phishing&quot; is the best way to get what they want. They claimed a user-generated page on my site was phishing for credentials (because it happened to mention their client's name and had a login form on it). I got this from Namecheap:<p>&quot;&quot;&quot;\nWe are writing from the Namecheap Legal and Abuse team.<p>It has come to our attention that phishing content is displayed on your website at the link:<p>[URL to an entirely innocent page]<p>As a reminder, phishing is expressly prohibited by our Universal Terms of Service Agreement, paragraph 7. &quot;Acceptable Use Policy (AUP)&quot; at https://www.namecheap.com/legal/universal/universal-tos.aspx<p>We need you to act promptly in removing the reported content within the next 24 hours. While we always try to avoid having to interrupt our customers' services, if we receive no response from you or no action is taken within the mentioned time frame, unfortunately, we will be forced to suspend the domain until the matter is resolved.\n&quot;&quot;&quot;<p>From my logs, I can see Namecheap didn't even visit the page before requiring me to take it down within 24 hours. If I had been on vacation, apparently my domain would have been suspended.<p>If you accept user generated content, you need to be vigilant about handling these weaponized abuse complaints. They can take down your business in a day if you are not paying attention.",
+      "matchLevel": "none",
+      "matchedWords": []
+    }
+  },
+  "original_created_at": "2021-04-30T16:03:14.000Z",
+  "image": ""
+}
