@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-29T20:02:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oYkBXv9z--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q1znwwl3hctmtf5cel02.png",
   "author": "Jhey Tompkins",
-  "author_url": "https://dev.to/jh3y"
+  "author_url": "https://dev.to/jh3y",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Chrome 88のリリースでは、clip-path: path()がサポートされました。つまり、「m...」でサポートされるようになったということです。",
+      "title": "Squeaky Portraits: CSSのpath()関数を使ってみよう"
+    },
+    {
+      "locale": "zh",
+      "description": "随着Chrome 88的发布，我们得到了对clip-path: path()的支持。这意味着它现在支持在 \"m...",
+      "title": "吱吱喳喳的人像。使用CSS path()函数的乐趣"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "隨着Chrome 88的發佈，我們得到了對clip-path: path()的支持。這意味着它現在支持在 \"m...",
+      "title": "吱吱喳喳的人像。使用CSS path()函數的樂趣"
+    }
+  ]
 }
