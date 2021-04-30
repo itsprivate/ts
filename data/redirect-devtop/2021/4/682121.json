@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-29T08:54:01Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0V0UeI8_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0z92umflp5l2w7zq7gbf.jpeg",
   "author": "Lawson",
-  "author_url": "https://dev.to/abrahamlawson"
+  "author_url": "https://dev.to/abrahamlawson",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactスタイルガイド(2021) src: 元の記事: https://github.com/airbnb/javascript/tree...",
+      "title": "Reactスタイルガイド"
+    },
+    {
+      "locale": "zh",
+      "description": "React风格指南（2021） src: the original post: https://github.com/airbnb/javascript/tree...",
+      "title": "反应器风格指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "React風格指南（2021） src: the original post: https://github.com/airbnb/javascript/tree...",
+      "title": "反應器風格指南"
+    }
+  ]
 }
