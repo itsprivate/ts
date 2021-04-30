@@ -260,5 +260,22 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Fri Apr 30 10:26:08 +0000 2021"
+  "original_created_at": "Fri Apr 30 10:26:08 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @PedderSophie: フランスのデータサイエンティストは、シンプルさ、明瞭さ、アルゴリズムを武器に、フランスの行政を圧倒しています。25歳の男性がどのようにして...",
+      "retweeted_status_full_text": "フランスのデータサイエンティストたちは、シンプルさ、明快さ、アルゴリズムを武器に、フランスの行政を圧倒しています。25歳のエンジニア@GuillaumeRozier（他にも@covidlisteなど）が、フランスの予防接種の予約にどのように貢献しているか、今週の@TheEconomistで紹介されています。https://t.co/WOKEbrPhM4"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @PedderSophie: 法国的数据科学家以简单、清晰和算法为武器，正在颠覆其政府。一个拥有25年历史的法国人是如何做到的？",
+      "retweeted_status_full_text": "凭借简单、清晰和算法，法国的数据科学家们正在颠覆其行政管理。一位25岁的工程师@GuillaumeRozier（+其他如@covidliste）是如何帮助法国人预订疫苗的，在@TheEconomist本周https://t.co/WOKEbrPhM4。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @PedderSophie: 法國的數據科學家以簡單、清晰和算法爲武器，正在顛覆其政府。一個擁有25年曆史的法國人是如何做到的？",
+      "retweeted_status_full_text": "憑藉簡單、清晰和算法，法國的數據科學家們正在顛覆其行政管理。一位25歲的工程師@GuillaumeRozier（+其他如@covidliste）是如何幫助法國人預訂疫苗的，在@TheEconomist本週https://t.co/WOKEbrPhM4。"
+    }
+  ]
 }
