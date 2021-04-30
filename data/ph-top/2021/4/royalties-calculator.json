@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-29T09:25:12Z"
+  "original_createdAt": "2021-04-29T09:25:12Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このツールは、あらゆるミュージシャンを検索し、Spotify、Apple Music、Amazonなどの主要なストリーミング・プラットフォームでのロイヤリティがどれくらい発生するかを概算することができます。完全に無料です。",
+      "tagline": "音楽家の年収を知る"
+    },
+    {
+      "locale": "zh",
+      "description": "这个工具使你能够搜索任何音乐家，它可以估算出在所有主要流媒体平台上的版税收入，如Spotify、Apple Music、Amazon和许多其他平台！完全免费。完全免费!",
+      "tagline": "知道任何音乐家能赚多少钱"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這個工具使你能夠搜索任何音樂家，它可以估算出在所有主要流媒體平臺上的版稅收入，如Spotify、Apple Music、Amazon和許多其他平臺！完全免費。完全免費!",
+      "tagline": "知道任何音樂家能賺多少錢"
+    }
+  ]
 }
