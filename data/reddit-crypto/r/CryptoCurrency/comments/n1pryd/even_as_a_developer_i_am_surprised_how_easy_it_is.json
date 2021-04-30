@@ -1,0 +1,172 @@
+{
+  "approved_at_utc": null,
+  "subreddit": "CryptoCurrency",
+  "selftext": "Context: I am a developer usually doing Backend Web Development and/or Scripting. I recently got interested in this space and the tech really amazed me, naturally I started looking at developing in this space.\n\nI am surprised how easy it is to create and deploy something even on a L2 Mainnet without any money involved, I literally followed these steps:\n\n* Connect Metamask to official Matic Wallet site which airdrops 0.1 Matic(enough to pay for tons of transactions).\n* Copy paste an ERC-20 Template from OpenZeppelin\n* Edit the template to change token name, symbol and max supply.\n* Go to Remix Online IDE, add the code, and perform literally two clicks to compile the code and deploy it to Polygon(Matic) Mainnet.\n* Boom, I had the tokens in Matic Mainnet in my wallet.\n* Went to Quickswap and created a liquidity pool for my token using the remaining airdropped Matic.\n\nAnd Boom, for absolutely free, I now had Tokens on Matic Mainnet, which even had a little value because I created a trading pair on Quickswap.\n\nBTW, Quickswap is basically the Uniswap fork on Matic.\n\n**No shilling,** **since you can't buy unless you have the contract address anyway**, but here's some screenshots from Metamask and Quickswap:\n\n[Metamask Balance](https://preview.redd.it/j4xqc3hrw9w61.png?width=208&format=png&auto=webp&s=a4ca8a56f529173707428854d629aed4eced249a)\n\n[Quickswap Pool](https://preview.redd.it/4ytipsvuw9w61.png?width=673&format=png&auto=webp&s=c799c3931e79f96b45600b8f054ef6c4679f06cb)\n\nIf anything, this should tell you how easy it is to create a token and deploy it, and you should be a little cautious of any new random token which may seem promising.\n\nPS: Don't ask me why PZD, I don't know lol.\n\nPPS: Same steps exist for any network, be it Ethereum, Binance Smart Chain, xDai, Fantom etc. Just that Matic had super low fees and I had free 0.1 Matic airdropped from their site so I went with it.",
+  "author_fullname": "t2_yxm17",
+  "saved": false,
+  "mod_reason_title": null,
+  "gilded": 0,
+  "clicked": false,
+  "title": "Even as a developer, I am surprised how easy it is to Create and Deploy a Token, even with zero capital(free gas using Matic)",
+  "link_flair_richtext": [
+    {
+      "e": "text",
+      "t": "FINANCE"
+    }
+  ],
+  "subreddit_name_prefixed": "r/CryptoCurrency",
+  "hidden": false,
+  "pwls": 6,
+  "link_flair_css_class": "FINANCE",
+  "downs": 0,
+  "thumbnail_height": 67,
+  "top_awarded_type": null,
+  "hide_score": false,
+  "media_metadata": {
+    "4ytipsvuw9w61": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 51,
+          "x": 108,
+          "u": "https://preview.redd.it/4ytipsvuw9w61.png?width=108&crop=smart&auto=webp&s=2e1d8c4d453e8fe9c4aa5d34fa4d820367a45d3f"
+        },
+        {
+          "y": 102,
+          "x": 216,
+          "u": "https://preview.redd.it/4ytipsvuw9w61.png?width=216&crop=smart&auto=webp&s=5e00ef9d43146099317c721343e4d9e0b2f66358"
+        },
+        {
+          "y": 151,
+          "x": 320,
+          "u": "https://preview.redd.it/4ytipsvuw9w61.png?width=320&crop=smart&auto=webp&s=f197f929e7b9fc72c506b68a07d4188ad055faa1"
+        },
+        {
+          "y": 302,
+          "x": 640,
+          "u": "https://preview.redd.it/4ytipsvuw9w61.png?width=640&crop=smart&auto=webp&s=806e8e9b8ad3098793f7eca976d1aa20c8c8a348"
+        }
+      ],
+      "s": {
+        "y": 318,
+        "x": 673,
+        "u": "https://preview.redd.it/4ytipsvuw9w61.png?width=673&format=png&auto=webp&s=c799c3931e79f96b45600b8f054ef6c4679f06cb"
+      },
+      "id": "4ytipsvuw9w61"
+    },
+    "j4xqc3hrw9w61": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 52,
+          "x": 108,
+          "u": "https://preview.redd.it/j4xqc3hrw9w61.png?width=108&crop=smart&auto=webp&s=7346330850e1612a5ed79d774b8aef036233ff28"
+        }
+      ],
+      "s": {
+        "y": 101,
+        "x": 208,
+        "u": "https://preview.redd.it/j4xqc3hrw9w61.png?width=208&format=png&auto=webp&s=a4ca8a56f529173707428854d629aed4eced249a"
+      },
+      "id": "j4xqc3hrw9w61"
+    }
+  },
+  "name": "t3_n1pryd",
+  "quarantine": false,
+  "link_flair_text_color": "dark",
+  "upvote_ratio": 0.92,
+  "author_flair_background_color": "",
+  "subreddit_type": "public",
+  "ups": 175,
+  "total_awards_received": 1,
+  "media_embed": {},
+  "thumbnail_width": 140,
+  "author_flair_template_id": null,
+  "is_original_content": false,
+  "user_reports": [],
+  "secure_media": null,
+  "is_reddit_media_domain": false,
+  "is_meta": false,
+  "category": null,
+  "secure_media_embed": {},
+  "link_flair_text": "FINANCE",
+  "can_mod_post": false,
+  "score": 175,
+  "approved_by": null,
+  "author_premium": false,
+  "thumbnail": "https://b.thumbs.redditmedia.com/bNj1j7FB7XhVVxPRGhQbHfTR6sQDhIE-NyGbOBbKkpo.jpg",
+  "edited": 1619773737,
+  "author_flair_css_class": "Transitioning",
+  "author_flair_richtext": [
+    {
+      "e": "text",
+      "t": " "
+    }
+  ],
+  "gildings": {
+    "gid_1": 1
+  },
+  "content_categories": null,
+  "is_self": true,
+  "mod_note": null,
+  "created": 1619801425,
+  "link_flair_type": "richtext",
+  "wls": 6,
+  "removed_by_category": null,
+  "banned_by": null,
+  "author_flair_type": "richtext",
+  "domain": "self.CryptoCurrency",
+  "allow_live_comments": false,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Context: I am a developer usually doing Backend Web Development and/or Scripting. I recently got interested in this space and the tech really amazed me, naturally I started looking at developing in this space.</p>\n\n<p>I am surprised how easy it is to create and deploy something even on a L2 Mainnet without any money involved, I literally followed these steps:</p>\n\n<ul>\n<li>Connect Metamask to official Matic Wallet site which airdrops 0.1 Matic(enough to pay for tons of transactions).</li>\n<li>Copy paste an ERC-20 Template from OpenZeppelin</li>\n<li>Edit the template to change token name, symbol and max supply.</li>\n<li>Go to Remix Online IDE, add the code, and perform literally two clicks to compile the code and deploy it to Polygon(Matic) Mainnet.</li>\n<li>Boom, I had the tokens in Matic Mainnet in my wallet.</li>\n<li>Went to Quickswap and created a liquidity pool for my token using the remaining airdropped Matic.</li>\n</ul>\n\n<p>And Boom, for absolutely free, I now had Tokens on Matic Mainnet, which even had a little value because I created a trading pair on Quickswap.</p>\n\n<p>BTW, Quickswap is basically the Uniswap fork on Matic.</p>\n\n<p><strong>No shilling,</strong> <strong>since you can&#39;t buy unless you have the contract address anyway</strong>, but here&#39;s some screenshots from Metamask and Quickswap:</p>\n\n<p><a href=\"https://preview.redd.it/j4xqc3hrw9w61.png?width=208&amp;format=png&amp;auto=webp&amp;s=a4ca8a56f529173707428854d629aed4eced249a\">Metamask Balance</a></p>\n\n<p><a href=\"https://preview.redd.it/4ytipsvuw9w61.png?width=673&amp;format=png&amp;auto=webp&amp;s=c799c3931e79f96b45600b8f054ef6c4679f06cb\">Quickswap Pool</a></p>\n\n<p>If anything, this should tell you how easy it is to create a token and deploy it, and you should be a little cautious of any new random token which may seem promising.</p>\n\n<p>PS: Don&#39;t ask me why PZD, I don&#39;t know lol.</p>\n\n<p>PPS: Same steps exist for any network, be it Ethereum, Binance Smart Chain, xDai, Fantom etc. Just that Matic had super low fees and I had free 0.1 Matic airdropped from their site so I went with it.</p>\n</div><!-- SC_ON -->",
+  "likes": null,
+  "suggested_sort": null,
+  "banned_at_utc": null,
+  "view_count": null,
+  "archived": false,
+  "no_follow": false,
+  "is_crosspostable": false,
+  "pinned": false,
+  "over_18": false,
+  "awarders": [],
+  "media_only": false,
+  "can_gild": false,
+  "spoiler": false,
+  "locked": false,
+  "author_flair_text": " ",
+  "treatment_tags": [],
+  "visited": false,
+  "removed_by": null,
+  "num_reports": null,
+  "distinguished": null,
+  "subreddit_id": "t5_2wlj3",
+  "mod_reason_by": null,
+  "removal_reason": null,
+  "link_flair_background_color": "",
+  "id": "n1pryd",
+  "is_robot_indexable": true,
+  "report_reasons": null,
+  "author": "sggts04",
+  "discussion_type": null,
+  "num_comments": 81,
+  "send_replies": true,
+  "whitelist_status": "all_ads",
+  "contest_mode": false,
+  "mod_reports": [],
+  "author_patreon_flair": false,
+  "author_flair_text_color": "dark",
+  "permalink": "/r/CryptoCurrency/comments/n1pryd/even_as_a_developer_i_am_surprised_how_easy_it_is/",
+  "parent_whitelist_status": "all_ads",
+  "stickied": false,
+  "url": "https://www.reddit.com/r/CryptoCurrency/comments/n1pryd/even_as_a_developer_i_am_surprised_how_easy_it_is/",
+  "subreddit_subscribers": 2381817,
+  "created_utc": 1619803373,
+  "num_crossposts": 0,
+  "media": null,
+  "is_video": false,
+  "original_created_utc": 1619772625,
+  "the_new_excerpt": "Context: I am a developer usually doing Backend Web Development and/or\nScripting. I recently got interested in this space and the tech really amazed\nme, naturally I started looking at developing in this space.\n\nI am surprised how easy it is to create and deploy something even on a L2\nMainnet without…"
+}
