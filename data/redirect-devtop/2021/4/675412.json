@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-22T18:25:43Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EK5fSOcB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7ftl04kslb9qvyojy5an.jpg",
   "author": "Aurélie Vache",
-  "author_url": "https://dev.to/aurelievache"
+  "author_url": "https://dev.to/aurelievache",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ネットワークの概念に関するスケッチノートのシリーズです。ネットワークの原理を視覚的に説明しています。",
+      "title": "ネットワークを理解する：パート1 - L4 / L7層"
+    },
+    {
+      "locale": "zh",
+      "description": "一系列关于网络概念的素描笔记。以可视化的方式解释网络原理。",
+      "title": "了解网络事物：第一部分--L4/L7层"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一系列關於網絡概念的素描筆記。以可視化的方式解釋網絡原理。",
+      "title": "瞭解網絡事物：第一部分--L4/L7層"
+    }
+  ]
 }

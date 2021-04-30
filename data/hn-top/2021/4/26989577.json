@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-04-30T03:27:04.000Z",
-  "image": "https://fly.io/public/images/flyctl-preview.png"
+  "image": "https://fly.io/public/images/flyctl-preview.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Elixirによる分散型ターンベースゲームシステムの構築"
+    },
+    {
+      "locale": "zh",
+      "title": "在Elixir中建立一个分布式的回合制游戏系统"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在Elixir中建立一個分佈式的回合制遊戲系統"
+    }
+  ]
 }
