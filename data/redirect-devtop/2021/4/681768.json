@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-28T22:08:35Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--abn4UHf9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wh3m3195sgxh05c1vi0d.jpg",
   "author": "James Cox",
-  "author_url": "https://dev.to/jamesncox"
+  "author_url": "https://dev.to/jamesncox",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに ここでは、Reactでよく見られるJavaScriptの配列メソッドについて説明します....",
+      "title": "配列方法"
+    },
+    {
+      "locale": "zh",
+      "description": "引言 让我们讨论一下在React中经常看到的几个常见的JavaScript数组方法....。",
+      "title": "阵列方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "引言 讓我們討論一下在React中經常看到的幾個常見的JavaScript數組方法....。",
+      "title": "陣列方法"
+    }
+  ]
 }
