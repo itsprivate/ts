@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-04-29T18:47:51.000Z",
-  "image": "https://www.reaper.fm/v5img/logo.jpg"
+  "image": "https://www.reaper.fm/v5img/logo.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Reaper（リーパー）。デジタル・オーディオ・ワークステーション"
+    },
+    {
+      "locale": "zh",
+      "title": "Reaper: 数字音频工作站"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Reaper: 數字音頻工作站"
+    }
+  ]
 }
