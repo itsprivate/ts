@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-29T13:57:33Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yniNLpNP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/acoi0i645oiedougsy8g.jpg",
   "author": "Mahesh Pawar",
-  "author_url": "https://dev.to/maheshpawar"
+  "author_url": "https://dev.to/maheshpawar",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、DEVs！👋 皆さん、ご無事でお元気でしょうか？聴くべき音楽については、様々な議論がなされています。",
+      "title": "コーディングのための音楽🎧"
+    },
+    {
+      "locale": "zh",
+      "description": "嘿，DEV们！👋我希望你们都很安全，过得很好。有这么多关于听音乐的辩论在进行。",
+      "title": "编码的音乐 🎧"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嘿，DEV們！👋我希望你們都很安全，過得很好。有這麼多關於聽音樂的辯論在進行。",
+      "title": "編碼的音樂 🎧"
+    }
+  ]
 }
