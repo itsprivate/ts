@@ -43,5 +43,22 @@
   "original_created_at": "2021-04-30T20:37:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--N1MI7BEl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/up2mqcvkvvo482kiqprj.png",
   "author": "Alvaro Montoro",
-  "author_url": "https://dev.to/alvaromontoro"
+  "author_url": "https://dev.to/alvaromontoro",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今日は、HTMLとCSSで海賊の漫画を描いてみました。     いくつかのブラウザでは少し変に見えるかもしれませんが...。",
+      "title": "CSS海賊漫画"
+    },
+    {
+      "locale": "zh",
+      "description": "今天我用HTML和CSS画了一个海盗的卡通。     它在某些浏览器上可能看起来有点怪怪的，但它是一个很好的例子。",
+      "title": "CSS海盗卡通"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "今天我用HTML和CSS畫了一個海盜的卡通。     它在某些瀏覽器上可能看起來有點怪怪的，但它是一個很好的例子。",
+      "title": "CSS海盜卡通"
+    }
+  ]
 }
