@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-29T16:05:09Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--agfV1W03--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aq3z1d8gtu1tau788xho.png",
   "author": "Matsuuu",
-  "author_url": "https://dev.to/matsuuu"
+  "author_url": "https://dev.to/matsuuu",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Stoxyとは Stoxyは、Webアプリケーションのための、新しく、モダンで、リアクティブな状態管理システムです。 このシステムは...",
+      "title": "Stoxyによるデッドシンプルなステートマネジメント"
+    },
+    {
+      "locale": "zh",
+      "description": "Stoxy是一个新的、现代的、反应式的网络应用程序状态管理系统。 它是...",
+      "title": "用Stoxy进行简单的状态管理"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Stoxy是一個新的、現代的、反應式的網絡應用程序狀態管理系統。 它是...",
+      "title": "用Stoxy進行簡單的狀態管理"
+    }
+  ]
 }

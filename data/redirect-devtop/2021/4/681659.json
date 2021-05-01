@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-28T20:24:39Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xrf1-1oD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/72mla6ms9raq6nxuhhgw.jpg",
   "author": "Dylan Britz",
-  "author_url": "https://dev.to/britzdylan"
+  "author_url": "https://dev.to/britzdylan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "新しいWebサイトやアプリを立ち上げる際には、プロジェクトごとにいくつかの層に分かれています。",
+      "title": "ソフトウェア開発に欠かせない5つの層"
+    },
+    {
+      "locale": "zh",
+      "description": "当开始一个新的网站或应用程序时，每个项目都有几个层次，你需要确保...",
+      "title": "软件开发的5个基本层次"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當開始一個新的網站或應用程序時，每個項目都有幾個層次，你需要確保...",
+      "title": "軟件開發的5個基本層次"
+    }
+  ]
 }
