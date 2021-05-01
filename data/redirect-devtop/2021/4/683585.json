@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-30T12:22:17Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--czG6SPMS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bwjdl6c40y6odldr0fss.png",
   "author": "Kieran Roberts 👋",
-  "author_url": "https://dev.to/kieran6roberts"
+  "author_url": "https://dev.to/kieran6roberts",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ブログ記事を自分で書いてみたことがある人は、それが簡単なことではないことを実感していると思います....",
+      "title": "ブログ記事を書くための私のプロセスを、実行可能なステップでご紹介します。"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你曾经尝试过自己写博客文章，我相信你已经意识到这并不是一件容易的事情....。",
+      "title": "我写博客文章的过程，有可操作的步骤，你可以遵循"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你曾經嘗試過自己寫博客文章，我相信你已經意識到這並不是一件容易的事情....。",
+      "title": "我寫博客文章的過程，有可操作的步驟，你可以遵循"
+    }
+  ]
 }
