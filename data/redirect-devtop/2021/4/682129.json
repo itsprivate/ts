@@ -41,5 +41,22 @@
   "original_created_at": "2021-04-29T09:15:04Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NRc_GCzM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4lie0emd9qm6g7f96c9u.jpg",
   "author": "Bobby Iliev",
-  "author_url": "https://dev.to/bobbyiliev"
+  "author_url": "https://dev.to/bobbyiliev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに 無料のドメイン名を必要とする理由はさまざまです。",
+      "title": "Laravelプロジェクト用に無料でドメイン名を取得するには？"
+    },
+    {
+      "locale": "zh",
+      "description": "简介：你可能有各种原因需要一个免费的域名，以满足你的需求。",
+      "title": "如何为你的Laravel项目获得一个免费的域名?"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介：你可能有各種原因需要一個免費的域名，以滿足你的需求。",
+      "title": "如何爲你的Laravel項目獲得一個免費的域名?"
+    }
+  ]
 }

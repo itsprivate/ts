@@ -14,5 +14,19 @@
   "tags": [
     "The New York Times"
   ],
-  "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+  "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "中央アジアの国境紛争が米国のアフガン出兵に影を落とす"
+    },
+    {
+      "locale": "zh",
+      "title": "中亚边界争端给美国的阿富汗之行带来阴影"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "中亞邊界爭端給美國的阿富汗之行帶來陰影"
+    }
+  ]
 }
