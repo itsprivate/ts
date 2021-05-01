@@ -48,5 +48,22 @@
   "original_created_at": "2021-04-29T10:18:19Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wUzmcM4I--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xpr51rvgidwjjvoukcm1.png",
   "author": "Alfredo Salzillo 🐺",
-  "author_url": "https://dev.to/alfredosalzillo"
+  "author_url": "https://dev.to/alfredosalzillo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、必要なコレクションメソッドはArray.prototype.reduce.... だけであることを紹介します。",
+      "title": "必要なのは......削減"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我们将展示你唯一需要的集合方法是Array.prototype.reduce....。",
+      "title": "你唯一需要的是......减少"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我們將展示你唯一需要的集合方法是Array.prototype.reduce....。",
+      "title": "你唯一需要的是......減少"
+    }
+  ]
 }
