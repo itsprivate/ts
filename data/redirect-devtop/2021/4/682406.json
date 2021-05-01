@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-29T13:42:29Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IcDrI3yq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2cphmrvllva7onwosw85.png",
   "author": "Braydon Coyer",
-  "author_url": "https://dev.to/braydoncoyer"
+  "author_url": "https://dev.to/braydoncoyer",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "デザイン。怖いと思いますか？  フロントエンドの開発者がユーザーインターフェースをデザインすることは必須ではありませんが、デザインをすることはとても重要です。",
+      "title": "UIデザインを改善するための8つのヒント"
+    },
+    {
+      "locale": "zh",
+      "description": "设计。它吓到你了吗？  虽然对前端开发员来说，设计用户界面并不是强制性的，但它是一个非常重要的任务。",
+      "title": "改善你的用户界面设计的8个技巧"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "設計。它嚇到你了嗎？  雖然對前端開發員來說，設計用戶界面並不是強制性的，但它是一個非常重要的任務。",
+      "title": "改善你的用戶界面設計的8個技巧"
+    }
+  ]
 }
