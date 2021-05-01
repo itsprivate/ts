@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-04-30T14:01:00Z"
+  "original_createdAt": "2021-04-30T14:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "instamintは、クリエイターやinstagramユーザーが自分の投稿のNFTを作成できる初めてのプラットフォームです。お気に入りのinstagramのNFTを作成して共有することができるようになりました!",
+      "tagline": "インスタグラムの投稿からNFTを作成"
+    },
+    {
+      "locale": "zh",
+      "description": "instamint是第一个允许创作者和instagram用户为其帖子创建NFT的平台。你现在可以创建和分享你最喜欢的instagram的NFTs!",
+      "tagline": "从你的Instagram帖子中创建NFTs"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "instamint是第一個允許創作者和instagram用戶爲其帖子創建NFT的平臺。你現在可以創建和分享你最喜歡的instagram的NFTs!",
+      "tagline": "從你的Instagram帖子中創建NFTs"
+    }
+  ]
 }
