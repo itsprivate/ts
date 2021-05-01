@@ -101,5 +101,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1619878003,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この質問を考えたり読んだりしているときに、自分の声が「聞こえて」きますか？もしそうなら、その声はどのように聞こえますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "在思考或阅读这个问题时，你是否 \"听到 \"自己的声音？如果是的话，这个声音听起来如何？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在思考或閱讀這個問題時，你是否 \"聽到 \"自己的聲音？如果是的話，這個聲音聽起來如何？"
+    }
+  ]
 }
