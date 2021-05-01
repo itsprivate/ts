@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-05-01T13:58:48.000Z",
-  "image": "https://octetz.s3.us-east-2.amazonaws.com/running-a-minimal-hypervisor/title-card.png"
+  "image": "https://octetz.s3.us-east-2.amazonaws.com/running-a-minimal-hypervisor/title-card.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Linuxハイパーバイザーのセットアップ(Libvirt/QEMU/KVM)"
+    },
+    {
+      "locale": "zh",
+      "title": "Linux管理程序设置（Libvirt/QEMU/KVM"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Linux管理程序設置（Libvirt/QEMU/KVM"
+    }
+  ]
 }
