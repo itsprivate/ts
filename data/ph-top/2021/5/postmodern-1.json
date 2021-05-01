@@ -76,5 +76,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-01T07:30:00Z"
+  "original_createdAt": "2021-05-01T07:30:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Postmodernは、匿名で、短く、刹那的な1対1の会話をするためのアプリです。虚空を探る。",
+      "tagline": "他人との匿名の、短い、刹那的な会話"
+    },
+    {
+      "locale": "zh",
+      "description": "后现代是匿名的、简短的、短暂的一对一对话的应用程序。探索空虚。",
+      "tagline": "与他人进行匿名的、简短的、短暂的对话"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "後現代是匿名的、簡短的、短暫的一對一對話的應用程序。探索空虛。",
+      "tagline": "與他人進行匿名的、簡短的、短暫的對話"
+    }
+  ]
 }
