@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-30T14:13:01Z",
   "image": "https://dev.to/social_previews/article/683727.png",
   "author": "Amit Khonde",
-  "author_url": "https://dev.to/amitkhonde"
+  "author_url": "https://dev.to/amitkhonde",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このシリーズはどんなものですか？  皆さん、こんにちは。JavaScriptインタビュー質問シリーズへようこそ。",
+      "title": "JavaScriptのインタビューです。オブジェクトのディープコピーを作成する"
+    },
+    {
+      "locale": "zh",
+      "description": "这个系列是关于什么的？  大家好! 欢迎来到JavaScript面试问题系列...",
+      "title": "JavaScript访谈。创建一个对象的深度拷贝"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這個系列是關於什麼的？  大家好! 歡迎來到JavaScript面試問題系列...",
+      "title": "JavaScript訪談。創建一個對象的深度拷貝"
+    }
+  ]
 }
