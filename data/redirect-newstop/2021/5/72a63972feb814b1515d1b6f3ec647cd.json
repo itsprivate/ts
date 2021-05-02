@@ -14,5 +14,19 @@
   "tags": [
     "The New York Times"
   ],
-  "image": "https://static01.nyt.com/images/2021/05/02/world/02virus-briefing-promo3/02virus-briefing-promo3-facebookJumbo.jpg"
+  "image": "https://static01.nyt.com/images/2021/05/02/world/02virus-briefing-promo3/02virus-briefing-promo3-facebookJumbo.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Covid-19ライブニュース。ウイルス、ワクチン、バリアントに関する最新情報"
+    },
+    {
+      "locale": "zh",
+      "title": "Covid-19现场新闻。关于病毒、疫苗和变种的最新情况"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Covid-19現場新聞。關於病毒、疫苗和變種的最新情況"
+    }
+  ]
 }
