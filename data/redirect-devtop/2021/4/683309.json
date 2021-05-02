@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-30T07:25:33Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IAHyAWcE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mvjk7s2fbnce57qds0xi.png",
   "author": "Rinat Rezyapov",
-  "author_url": "https://dev.to/rinatrezyapov"
+  "author_url": "https://dev.to/rinatrezyapov",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "従来のReact.jsプロジェクトをNext.jsに移行する際に遭遇した問題とその解決方法",
+      "title": "Next.jsにプロジェクトを移行した経験 "
+    },
+    {
+      "locale": "zh",
+      "description": "我在将经典的React.js项目迁移到Next.js时遇到的问题以及我是如何解决的",
+      "title": "我将项目迁移到Next.js的经验 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我在將經典的React.js項目遷移到Next.js時遇到的問題以及我是如何解決的",
+      "title": "我將項目遷移到Next.js的經驗 "
+    }
+  ]
 }
