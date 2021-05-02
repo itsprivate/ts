@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-01T15:13:27Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--An-DWxug--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/modbchdsw4sk4h2cuzc0.png",
   "author": "Suprabha",
-  "author_url": "https://dev.to/suprabhasupi"
+  "author_url": "https://dev.to/suprabhasupi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "基本的なことを理解することは貴重です。ここでは、Javascriptがどのように動作するかという基本的なことについて説明します。",
+      "title": "JavaScriptの仕組み🤷🏻♀️。"
+    },
+    {
+      "locale": "zh",
+      "description": "了解基本原理是无价的。因此，让我们来讨论的根本，即如何Javascript的工作...",
+      "title": "JavaScript如何工作 🤷🏻♀️"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "瞭解基本原理是無價的。因此，讓我們來討論的根本，即如何Javascript的工作...",
+      "title": "JavaScript如何工作 🤷🏻♀️"
+    }
+  ]
 }
