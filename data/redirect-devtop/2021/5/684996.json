@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-01T23:32:07Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--g23-1Ee1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/phx1eda5tjp08wgghy6w.jpg",
   "author": "nshimiye_emmy",
-  "author_url": "https://dev.to/dev_emmy"
+  "author_url": "https://dev.to/dev_emmy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "クッキー、セッション、トークンの違いを理解するためには、基本的な考え方に立ち返る必要があります...",
+      "title": "誰も語らないCookie、Session、Tokenの違いとは？"
+    },
+    {
+      "locale": "zh",
+      "description": "为了理解cookies、session和tokens之间的区别，我们需要回到基础上，让我们来看看。",
+      "title": "Cookie、Session和Token之间真正的区别是什么，没有人在谈论这个问题？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "爲了理解cookies、session和tokens之間的區別，我們需要回到基礎上，讓我們來看看。",
+      "title": "Cookie、Session和Token之間真正的區別是什麼，沒有人在談論這個問題？"
+    }
+  ]
 }
