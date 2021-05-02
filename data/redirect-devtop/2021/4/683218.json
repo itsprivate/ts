@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-30T04:35:16Z",
   "image": "https://dev.to/social_previews/article/683218.png",
   "author": "arnu515",
-  "author_url": "https://dev.to/arnu515"
+  "author_url": "https://dev.to/arnu515",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、パスワードなしのサインイン、つまり「マジックリンク」サインインをあなたの会社に導入する方法を紹介します。",
+      "title": "アプリにパスワードなしの認証を導入する（マジックサインイン"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我将向你展示如何实现无密码登录，或 \"魔力链接 \"登录到你的网站。",
+      "title": "在你的应用程序中实施无密码认证（魔法登录）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我將向你展示如何實現無密碼登錄，或 \"魔力鏈接 \"登錄到你的網站。",
+      "title": "在你的應用程序中實施無密碼認證（魔法登錄）。"
+    }
+  ]
 }
