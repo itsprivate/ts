@@ -151,5 +151,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1619968167,
-  "the_new_excerpt": "The Algorand Foundation [https://algorand.foundation/] made the announcement\nhere [https://algorand.foundation/news/pnetwork-algorand].\n\nYou can read more about pNetwork here [https://p.network/learn]. It's an\ninteresting and highly useful project with approximately $66M currently locked\nup on its…"
+  "the_new_excerpt": "The Algorand Foundation [https://algorand.foundation/] made the announcement\nhere [https://algorand.foundation/news/pnetwork-algorand].\n\nYou can read more about pNetwork here [https://p.network/learn]. It's an\ninteresting and highly useful project with approximately $66M currently locked\nup on its…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "アルゴランド財団[https://algorand.foundation/]が発表しました。\nこちら [https://algorand.foundation/news/pnetwork-algorand]をご覧ください。\n\npNetworkについては、こちら[https://p.network/learn]をご覧ください。このプロジェクトは\n興味深い、非常に有用なプロジェクトで、現在約6600万ドルが\n確保されています。",
+      "title": "AlgorandはpNetworkと提携してクロスチェーンブリッジを立ち上げ、\"他のチェーンの資産やトークンがAlgorandのネットワーク上で自由に移動できるようにする\""
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "阿尔戈兰基金会[https://algorand.foundation/]宣布了这个消息\n这里[https://algorand.foundation/news/pnetwork-algorand]。\n\n你可以在这里阅读更多关于pNetwork的信息[https://p.network/learn]。这是一个\n这是一个有趣和非常有用的项目，目前锁定了大约6600万美元的资金。\n锁定在其上。",
+      "title": "Algorand与pNetwork合作推出跨链桥，\"使其他链上的资产和代币能够在Algorand网络上自由移动\""
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "阿爾戈蘭基金會[https://algorand.foundation/]宣佈了這個消息\n這裏[https://algorand.foundation/news/pnetwork-algorand]。\n\n你可以在這裏閱讀更多關於pNetwork的信息[https://p.network/learn]。這是一個\n這是一個有趣和非常有用的項目，目前鎖定了大約6600萬美元的資金。\n鎖定在其上。",
+      "title": "Algorand與pNetwork合作推出跨鏈橋，\"使其他鏈上的資產和代幣能夠在Algorand網絡上自由移動\""
+    }
+  ]
 }
