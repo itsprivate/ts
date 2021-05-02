@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-01T10:30:07Z",
   "image": "https://dev.to/social_previews/article/684552.png",
   "author": "Piyush Pandey",
-  "author_url": "https://dev.to/zephyrus21"
+  "author_url": "https://dev.to/zephyrus21",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "元の記事はNotionにあります。チェックアウトしてください。ここでは、Reactは、（Facebookからの）共同体を構築するためのライブラリです。",
+      "title": "Reactを学ぶための完全なロードマップ"
+    },
+    {
+      "locale": "zh",
+      "description": "原帖是在Notion。做结账。在这里，React是一个库（来自Facebook），用于建立合作关系。",
+      "title": "学习React的完整路线图"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "原帖是在Notion。做結賬。在這裏，React是一個庫（來自Facebook），用於建立合作關係。",
+      "title": "學習React的完整路線圖"
+    }
+  ]
 }
