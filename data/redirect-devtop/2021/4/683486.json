@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-30T10:19:13Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FoTqV3eO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hb4poy97snnm3ahjggzz.jpg",
   "author": "rwbeast",
-  "author_url": "https://dev.to/rwbeast"
+  "author_url": "https://dev.to/rwbeast",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ウェブ・コンポーネントという言葉を聞いて、早速グーグルで検索してみましたか。",
+      "title": "Web Componentsを嫌いになってはいけない "
+    },
+    {
+      "locale": "zh",
+      "description": "所以，你刚刚听说了这个叫做网络组件的东西，你做了一个快速的谷歌搜索。除了从...",
+      "title": "我们应该停止憎恨网络组件 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "所以，你剛剛聽說了這個叫做網絡組件的東西，你做了一個快速的谷歌搜索。除了從...",
+      "title": "我們應該停止憎恨網絡組件 "
+    }
+  ]
 }
