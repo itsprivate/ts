@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-05-01T23:46:38.000Z",
-  "image": "https://static.arxiv.org/static/browse/0.3.2.6/images/icons/social/bibsonomy.png"
+  "image": "https://static.arxiv.org/static/browse/0.3.2.6/images/icons/social/bibsonomy.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "libgccjitを使ってEmacsを2.3倍から42倍に高速化 [pdf] (2020)"
+    },
+    {
+      "locale": "zh",
+      "title": "使用libgccjit使Emacs的速度提高2.3倍到42倍 [pdf] (2020)"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "使用libgccjit使Emacs的速度提高2.3倍到42倍 [pdf] (2020)"
+    }
+  ]
 }
