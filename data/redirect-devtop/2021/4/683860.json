@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-30T16:39:51Z",
   "image": "https://dev.to/social_previews/article/683860.png",
   "author": "InesaFitsner",
-  "author_url": "https://dev.to/inesafitsner"
+  "author_url": "https://dev.to/inesafitsner",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このチュートリアルでは、Pgletを使ってPythonでToDo Webアプリを作成する方法をステップバイステップで紹介します。",
+      "title": "HTML/CSS/JavaScriptの知識がなくても、PythonでWebアプリを構築し、デプロイすることができる"
+    },
+    {
+      "locale": "zh",
+      "description": "在本教程中，我们将逐步向您展示如何使用Pglet在Python中创建一个ToDo网络应用。",
+      "title": "在没有HTML/CSS/JavaScript知识的情况下，用Python构建和部署一个网络应用。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在本教程中，我們將逐步向您展示如何使用Pglet在Python中創建一個ToDo網絡應用。",
+      "title": "在沒有HTML/CSS/JavaScript知識的情況下，用Python構建和部署一個網絡應用。"
+    }
+  ]
 }
