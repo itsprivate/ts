@@ -47,5 +47,22 @@
   "topics": {
     "edges": []
   },
-  "original_createdAt": "2021-05-02T07:01:00Z"
+  "original_createdAt": "2021-05-02T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Re:AMPは、Swiftで完全に書かれた、高速で柔軟性のある、忠実なmacOS X用の音楽プレーヤーです。Re:Ampは多くのオーディオフォーマットや、クラシックなWinampのスキンと呼ばれるカスタムインターフェースをサポートしています。Re:Ampはフリーウェアです。",
+      "tagline": "Winamp classicスキンに対応したMac用オーディオプレーヤー"
+    },
+    {
+      "locale": "zh",
+      "description": "Re:AMP是一个快速、灵活、高保真的macOS X音乐播放器，完全用Swift编写。Re:Amp支持大量的音频格式，支持被称为经典Winamp皮肤的自定义界面。Re:Amp是免费软件。",
+      "tagline": "支持Winamp经典皮肤的Mac音频播放器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Re:AMP是一個快速、靈活、高保真的macOS X音樂播放器，完全用Swift編寫。Re:Amp支持大量的音頻格式，支持被稱爲經典Winamp皮膚的自定義界面。Re:Amp是免費軟件。",
+      "tagline": "支持Winamp經典皮膚的Mac音頻播放器"
+    }
+  ]
 }
