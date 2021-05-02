@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-01T12:35:36Z",
   "image": "https://dev.to/social_previews/article/684635.png",
   "author": "Avindu Hewa",
-  "author_url": "https://dev.to/avinduhewa"
+  "author_url": "https://dev.to/avinduhewa",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Intro 私は、javascriptやNode.jsを使ったコーディングにかなりの時間を費やしてきました。",
+      "title": "Node.jsのフレームワークを探る"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍 我花了相当多的时间用javascript和Node.js进行编码，大部分时间是在工作...",
+      "title": "探索Node.js框架"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹 我花了相當多的時間用javascript和Node.js進行編碼，大部分時間是在工作...",
+      "title": "探索Node.js框架"
+    }
+  ]
 }
