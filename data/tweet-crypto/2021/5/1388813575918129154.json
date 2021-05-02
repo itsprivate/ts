@@ -210,5 +210,22 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Sun May 02 11:12:14 +0000 2021"
+  "original_created_at": "Sun May 02 11:12:14 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @KariDueAndresen: ホドリング #ビットコイン 🤟🏻。",
+      "retweeted_status_full_text": "ホドリング #ビットコイン🤟🏻"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @KariDueAndresen: hodling #比特币 🤟🏻",
+      "retweeted_status_full_text": "hodling #比特币 🤟🏻"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @KariDueAndresen: hodling #比特幣 🤟🏻",
+      "retweeted_status_full_text": "hodling #比特幣 🤟🏻"
+    }
+  ]
 }
