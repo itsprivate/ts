@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-01T12:59:40Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_3H0RNhq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7363cbved1rtirqg7uzc.png",
   "author": "Bibek",
-  "author_url": "https://dev.to/bibekkakati"
+  "author_url": "https://dev.to/bibekkakati",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、Javascriptでシングルトン・パターンを実装する方法を学びます。          何が...",
+      "title": "Javascriptのシングルトンパターン"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，你将学习如何在Javascript中实现单子模式。          什么是...",
+      "title": "Javascript中的单子模式"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，你將學習如何在Javascript中實現單子模式。          什麼是...",
+      "title": "Javascript中的單子模式"
+    }
+  ]
 }
