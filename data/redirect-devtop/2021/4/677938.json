@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-25T11:26:43Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--T3EkQ2Fh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gojvgxm94wlkhuiohcg2.png",
   "author": "Madalitso Nyemba",
-  "author_url": "https://dev.to/madalitsonyemba"
+  "author_url": "https://dev.to/madalitsonyemba",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに あらゆることがスピーディーに進行しているように見えるこのスピード感あふれる世界では、...",
+      "title": "GitHubアクションによる共用ホスティングでの継続的デプロイメント"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍：在这个快节奏的世界里，一切似乎都在迅速发生，它...",
+      "title": "在共享主机上使用GitHub动作进行持续部署"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹：在這個快節奏的世界裏，一切似乎都在迅速發生，它...",
+      "title": "在共享主機上使用GitHub動作進行持續部署"
+    }
+  ]
 }
