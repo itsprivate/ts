@@ -105,5 +105,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1619973258,
-  "the_new_excerpt": "https://taproot.watch/miners"
+  "the_new_excerpt": "https://taproot.watch/miners",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "https://taproot.watch/miners",
+      "title": "F2Pool、総ハッシュレートの1/5近くを占める最大のマイナーがTaprootにシグナルを送信! (3番目のマイニングプールがそれを実現)。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "https://taproot.watch/miners",
+      "title": "F2Pool，最大的矿工，有接近1/5的总hashrate信号给Taproot! (第三个矿池做到了)。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "https://taproot.watch/miners",
+      "title": "F2Pool，最大的礦工，有接近1/5的總hashrate信號給Taproot! (第三個礦池做到了)。"
+    }
+  ]
 }
