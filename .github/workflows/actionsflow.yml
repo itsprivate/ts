@@ -45,7 +45,7 @@ jobs:
       - name: chown
         run: sudo chown -R $USER:$USER ./
       - name: git config
-        run: git config --global user.name "github-actions[bot]" && git config --global user.email 41898282+github-actions[bot]@users.noreply.github.com
+        run: git config --global user.name "github-actions[bot]" && git config --global user.email github-actions-bot@users.noreply.github.com
       - name: git add
         run: git add .
       - run: git status
@@ -55,8 +55,8 @@ jobs:
           token: ${{ secrets.PERSONAL_TOKEN }}
           labels: automerge
           commit-message: "chore: new item"
-          committer: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
-          author: 41898282+github-actions[bot]@users.noreply.github.com
+          committer: github-actions[bot] <github-actions-bot@users.noreply.github.com>
+          author: github-actions-bot@users.noreply.github.com
           branch: new-item
           delete-branch: true
           title: New item update
