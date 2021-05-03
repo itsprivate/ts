@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-02T15:30:27Z",
   "image": "https://dev.to/social_previews/article/685524.png",
   "author": "Émile Perron",
-  "author_url": "https://dev.to/emileperron"
+  "author_url": "https://dev.to/emileperron",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Webコンポーネントは、スタイルと機能の優れたスコープを提供するネイティブな機能のセットです。",
+      "title": "2021年のWebコンポーネント：良いもの、悪いもの、そして醜いもの"
+    },
+    {
+      "locale": "zh",
+      "description": "网络组件是一个原生的功能集，提供了出色的风格和功能范围。",
+      "title": "2021年的网络组件：好、坏、丑"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "網絡組件是一個原生的功能集，提供了出色的風格和功能範圍。",
+      "title": "2021年的網絡組件：好、壞、醜"
+    }
+  ]
 }
