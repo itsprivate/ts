@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-02T15:14:23Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4m8cflUh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ag1yb0ckjfzyas6e5c0y.png",
   "author": "Dhruv Panchal",
-  "author_url": "https://dev.to/dhhruv"
+  "author_url": "https://dev.to/dhhruv",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "顔を認証して出席する非接触型勤怠管理システムです。✨ Motivation...",
+      "title": "顔認証を利用した非接触型勤怠管理システム"
+    },
+    {
+      "locale": "zh",
+      "description": "一个非接触式的考勤系统，你的脸可以被识别用于考勤。✨ 激励...",
+      "title": "基于人脸识别的非接触式考勤系统"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個非接觸式的考勤系統，你的臉可以被識別用於考勤。✨ 激勵...",
+      "title": "基於人臉識別的非接觸式考勤系統"
+    }
+  ]
 }
