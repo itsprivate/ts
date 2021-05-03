@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-28T11:38:52Z",
   "image": "https://dev.to/social_previews/article/681206.png",
   "author": "Aleksei Berezkin",
-  "author_url": "https://dev.to/alekseiberezkin"
+  "author_url": "https://dev.to/alekseiberezkin",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactは優れた開発環境を提供しています。ステートやプロップを定義し、コンポーネントを組み合わせていくことができます。",
+      "title": "2 React開発者のためのJavaScriptのメモリに関する懸念"
+    },
+    {
+      "locale": "zh",
+      "description": "React提供了极好的开发者体验：你可以定义状态和道具，将组件组合在一起。",
+      "title": "为React开发者提供的2个JavaScript内存问题"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "React提供了極好的開發者體驗：你可以定義狀態和道具，將組件組合在一起。",
+      "title": "爲React開發者提供的2個JavaScript內存問題"
+    }
+  ]
 }
