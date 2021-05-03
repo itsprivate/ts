@@ -110,5 +110,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1620049892,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "$NOK $NOK 死から蘇った!"
+    },
+    {
+      "locale": "zh",
+      "title": "$NOK $NOK 我死而复生了!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "$NOK $NOK 我死而復生了!"
+    }
+  ]
 }
