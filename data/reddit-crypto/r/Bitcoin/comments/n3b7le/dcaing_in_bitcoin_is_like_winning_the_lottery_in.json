@@ -103,5 +103,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1619976135,
-  "the_new_excerpt": "Do you agree?"
+  "the_new_excerpt": "Do you agree?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "賛成ですか？",
+      "title": "ビットコインでのDCAは、スローモーションで宝くじを当てるようなもの"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你同意吗？",
+      "title": "比特币的DCA就像在慢动作中赢得彩票一样"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你同意嗎？",
+      "title": "比特幣的DCA就像在慢動作中贏得彩票一樣"
+    }
+  ]
 }
