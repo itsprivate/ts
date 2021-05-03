@@ -101,5 +101,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-03T07:01:00Z"
+  "original_createdAt": "2021-05-03T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Typewiseを使えば、誤字脱字が4倍減り、100％のプライバシーを確保できます。🤖 AIによる自動修正（GboardやSwiftKeyよりも優れています） ⏪ 元に戻すボタン：修正内容を簡単に調整できます 💬 自動言語検出：手動で切り替える必要はありません 🔒 オフラインモード：データを最大限に保護します",
+      "tagline": "プライバシーに配慮した、無料のGボード代替品"
+    },
+    {
+      "locale": "zh",
+      "description": "使用Typewise，您可以减少4倍的错别字，并享受100%的隐私。🤖 AI驱动的自动更正（胜过Gboard和SwiftKey） ⏪ 撤销按钮：轻松调整更正 💬 自动语言检测：无需手动切换 🔒 离线模式：最大限度地保护数据",
+      "tagline": "保护隐私的免费Gboard替代品"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用Typewise，您可以減少4倍的錯別字，並享受100%的隱私。🤖 AI驅動的自動更正（勝過Gboard和SwiftKey） ⏪ 撤銷按鈕：輕鬆調整更正 💬 自動語言檢測：無需手動切換 🔒 離線模式：最大限度地保護數據",
+      "tagline": "保護隱私的免費Gboard替代品"
+    }
+  ]
 }
