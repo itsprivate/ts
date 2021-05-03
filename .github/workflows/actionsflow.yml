@@ -55,6 +55,8 @@ jobs:
           token: ${{ secrets.PERSONAL_TOKEN }}
           labels: automerge
           commit-message: "chore: new item"
+          committer: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+          author: 41898282+github-actions[bot]@users.noreply.github.com
           branch: new-item
           delete-branch: true
           title: New item update
