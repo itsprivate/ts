@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-03T10:24:58Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ebI1-POo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vswe6yw28v77fdc925vw.jpg",
   "author": "Hannah",
-  "author_url": "https://dev.to/hannahchoi"
+  "author_url": "https://dev.to/hannahchoi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "すべての面接は困難なものです。私はあなたがすべての可能な面接のヒントと電子を検索してどのように感じるか知っています...",
+      "title": "Reactの面接に向けて"
+    },
+    {
+      "locale": "zh",
+      "description": "所有的面试都是令人生畏的。我知道你的感受，你在寻找每一个可能的面试技巧和经验。",
+      "title": "为你的React面试做好准备"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "所有的面試都是令人生畏的。我知道你的感受，你在尋找每一個可能的面試技巧和經驗。",
+      "title": "爲你的React面試做好準備"
+    }
+  ]
 }
