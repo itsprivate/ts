@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-03T06:15:39Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s---EUhvrJ9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rc0qdhnqskbiwjumrqoy.jpg",
   "author": "Alex Devero",
-  "author_url": "https://dev.to/alexdevero"
+  "author_url": "https://dev.to/alexdevero",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "React useEffect Hookは、機能的なReactコンポーネントにおける副作用の管理をサポートします。また、このフックは...",
+      "title": "ReactのuseEffectフックが簡単に"
+    },
+    {
+      "locale": "zh",
+      "description": "React useEffect Hook帮助你管理React功能组件的副作用。它也使...",
+      "title": "简单的React useEffect Hook"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "React useEffect Hook幫助你管理React功能組件的副作用。它也使...",
+      "title": "簡單的React useEffect Hook"
+    }
+  ]
 }
