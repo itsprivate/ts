@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-05-03T23:18:50.000Z",
-  "image": "http://dotorgdoesntmeancredible.org/images/educateyourself.png"
+  "image": "http://dotorgdoesntmeancredible.org/images/educateyourself.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": ".orgは信頼できるという意味ではありません"
+    },
+    {
+      "locale": "zh",
+      "title": ".org并不意味着可信的"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": ".org並不意味着可信的"
+    }
+  ]
 }
