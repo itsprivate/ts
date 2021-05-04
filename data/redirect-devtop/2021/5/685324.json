@@ -50,5 +50,22 @@
   "original_created_at": "2021-05-02T10:13:19Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--eEATt4M0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/p6hqv8wqefzeabstecq5.png",
   "author": "Unnati Bamania",
-  "author_url": "https://dev.to/commentme"
+  "author_url": "https://dev.to/commentme",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "VS Codeは、軽量で優れたコードエディタの一つです。ダークなテーマと多彩な拡張機能で、コードエディタとしての機能性を高めています。",
+      "title": "Web開発に使用される最高のVSコード拡張機能"
+    },
+    {
+      "locale": "zh",
+      "description": "VS Code是最好的和轻量级的代码编辑器之一。它的黑暗主题和各种扩展功能，使其成为一个强大的编辑器。",
+      "title": "用于网络开发的最佳VS代码扩展"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "VS Code是最好的和輕量級的代碼編輯器之一。它的黑暗主題和各種擴展功能，使其成爲一個強大的編輯器。",
+      "title": "用於網絡開發的最佳VS代碼擴展"
+    }
+  ]
 }
