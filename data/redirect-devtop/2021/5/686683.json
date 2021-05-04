@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-03T20:06:21Z",
   "image": "https://dev.to/social_previews/article/686683.png",
   "author": "Mohmed Ishak",
-  "author_url": "https://dev.to/ishakmohmed"
+  "author_url": "https://dev.to/ishakmohmed",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "実は、ローディングアニメーションのようなクールなアニメーションをウェブアプリで実現するためには...。",
+      "title": "クールなデザイナーのアニメーションを簡単にWebアプリで使用するには？"
+    },
+    {
+      "locale": "zh",
+      "description": "事实是，要想在你的网络应用中拥有很酷的动画，如加载动画，你不需要...",
+      "title": "如何在你的网络应用中轻松地使用来自酷炫设计师的动画？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "事實是，要想在你的網絡應用中擁有很酷的動畫，如加載動畫，你不需要...",
+      "title": "如何在你的網絡應用中輕鬆地使用來自酷炫設計師的動畫？"
+    }
+  ]
 }
