@@ -108,5 +108,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1620115590,
-  "the_new_excerpt": "This is more exciting than watching the price"
+  "the_new_excerpt": "This is more exciting than watching the price",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "これは、価格を見るよりもエキサイティングです。",
+      "title": "AntpoolはTaprootにシグナルを送った"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这比看价格更令人兴奋",
+      "title": "蚂蚁窝刚刚为Taproot打出了信号"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這比看價格更令人興奮",
+      "title": "螞蟻窩剛剛爲Taproot打出了信號"
+    }
+  ]
 }
