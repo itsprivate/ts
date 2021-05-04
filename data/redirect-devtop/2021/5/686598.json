@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-03T17:40:43Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--69B3OR9g--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vwagzbe3dq7wxmc2gqho.png",
   "author": "Gurshehzad Singh",
-  "author_url": "https://dev.to/gurshehzadsingh"
+  "author_url": "https://dev.to/gurshehzadsingh",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ES6は、ECMAScript 6としても知られている、最新のJavaScript規格です。",
+      "title": "ES6のすべてを知る"
+    },
+    {
+      "locale": "zh",
+      "description": "ES6也被称为ECMAScript 6，是最新的JavaScript标准，目的是确保互操作性。",
+      "title": "了解关于ES6的一切"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "ES6也被稱爲ECMAScript 6，是最新的JavaScript標準，目的是確保互操作性。",
+      "title": "瞭解關於ES6的一切"
+    }
+  ]
 }
