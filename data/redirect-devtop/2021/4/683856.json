@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-30T16:33:43Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--M0B8if5t--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nf95ssg9zl4v9oyapugl.png",
   "author": "Nader Dabit",
-  "author_url": "https://dev.to/dabit3"
+  "author_url": "https://dev.to/dabit3",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、Ethereumブロックチェーンに格納されたデータを使用して、GraphQL APIを構築してデプロイする方法を学びます。",
+      "title": "イーサリアムでのGraphQL APIの構築"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，你将学习如何使用存储在以太坊区块链中的数据构建和部署GraphQL API。",
+      "title": "在以太坊上构建GraphQL APIs"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，你將學習如何使用存儲在以太坊區塊鏈中的數據構建和部署GraphQL API。",
+      "title": "在以太坊上構建GraphQL APIs"
+    }
+  ]
 }
