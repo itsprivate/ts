@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-04T07:01:00Z"
+  "original_createdAt": "2021-05-04T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Next.js と Snipcart を使って独自のヘッドレス E コマースストアフロントを構築し、Printful を使ってスワッグを提供します。エンド・ツー・エンドの商取引で、TailwindCSSを使ってスタイリングし、Vercelで展開しています。",
+      "tagline": "3つの簡単なステップで、あなただけのスワッグストアを立ち上げましょう。"
+    },
+    {
+      "locale": "zh",
+      "description": "使用Next.js和Snipcart建立你自己的无头电子商务店面，并由Printful提供赠品。端到端商务，使用TailwindCSS进行风格设计，并部署在Vercel上。",
+      "tagline": "用3个简单的步骤启动你自己的宣传品商店"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用Next.js和Snipcart建立你自己的無頭電子商務店面，並由Printful提供贈品。端到端商務，使用TailwindCSS進行風格設計，並部署在Vercel上。",
+      "tagline": "用3個簡單的步驟啓動你自己的宣傳品商店"
+    }
+  ]
 }
