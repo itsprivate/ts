@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-04T07:01:00Z"
+  "original_createdAt": "2021-05-04T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Vantaは、SOC 2、HIPAA、またはISO 27001の認証を迅速かつ簡単に取得する方法です。1000社以上の急成長中の企業がVantaを信頼し、セキュリティモニタリングを自動化し、最短2週間でセキュリティ監査に対応しています。",
+      "tagline": "自動化されたセキュリティとコンプライアンスのエキスパート"
+    },
+    {
+      "locale": "zh",
+      "description": "Vanta是获得SOC 2、HIPAA或ISO 27001认证的快速而简单的方法。超过1000家快速发展的公司信任Vanta，使他们的安全监测自动化，并在短短两周内为安全审计做好准备。",
+      "tagline": "您的自动化安全和合规专家"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Vanta是獲得SOC 2、HIPAA或ISO 27001認證的快速而簡單的方法。超過1000家快速發展的公司信任Vanta，使他們的安全監測自動化，並在短短兩週內爲安全審計做好準備。",
+      "tagline": "您的自動化安全和合規專家"
+    }
+  ]
 }
