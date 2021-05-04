@@ -487,5 +487,22 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Tue May 04 13:11:26 +0000 2021"
+  "original_created_at": "Tue May 04 13:11:26 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @woonomic: \"ビットコインはインターネットが求めるもの\" -@jack",
+      "retweeted_status_full_text": "\"Bitcoin is what the Internet wants\" -@jack https://t.co/gEZnwdrUXP"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @woonomic: \"比特币是互联网想要的东西\" -@jack",
+      "retweeted_status_full_text": "\"比特币是互联网想要的东西\" -@jack https://t.co/gEZnwdrUXP"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @woonomic: \"比特幣是互聯網想要的東西\" -@jack",
+      "retweeted_status_full_text": "\"比特幣是互聯網想要的東西\" -@jack https://t.co/gEZnwdrUXP"
+    }
+  ]
 }
