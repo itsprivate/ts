@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-03T11:11:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--aCVNL--n--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zmllc7ofpgtx5v355ehe.jpg",
   "author": "Kiran Raj R",
-  "author_url": "https://dev.to/kiranrajvjd"
+  "author_url": "https://dev.to/kiranrajvjd",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私たちは皆、HTMLについて知っています。それは、コンテンツを構造化するのに役立ち、私たちがコンテンツを表示するのに役立つ多くのタグがあります。",
+      "title": "知っているようで知らない24のHTMLタグ"
+    },
+    {
+      "locale": "zh",
+      "description": "我们都知道HTML，它帮助我们结构化内容，有许多标签帮助我们设计。",
+      "title": "24个你可能不知道的HTML标签。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們都知道HTML，它幫助我們結構化內容，有許多標籤幫助我們設計。",
+      "title": "24個你可能不知道的HTML標籤。"
+    }
+  ]
 }
