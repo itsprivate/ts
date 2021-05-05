@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-03T18:29:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wbZz70Ff--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h7cd7854hlrdetfyj93e.jpeg",
   "author": "Guy Torbet",
-  "author_url": "https://dev.to/torbet"
+  "author_url": "https://dev.to/torbet",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "機械学習やAI全体は、始めたばかりの頃は非常に困難なものに思えます。しかし",
+      "title": "機械学習の学び方。初心者による、初心者のための"
+    },
+    {
+      "locale": "zh",
+      "description": "机器学习和人工智能作为一个整体，在你刚开始的时候可能看起来非常令人生畏。在一个多月的时间里，你会发现，在你的生活中，机器学习和人工智能是最重要的。",
+      "title": "如何学习机器学习。为初学者准备的，由一个初学者编写的"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "機器學習和人工智能作爲一個整體，在你剛開始的時候可能看起來非常令人生畏。在一個多月的時間裏，你會發現，在你的生活中，機器學習和人工智能是最重要的。",
+      "title": "如何學習機器學習。爲初學者準備的，由一個初學者編寫的"
+    }
+  ]
 }
