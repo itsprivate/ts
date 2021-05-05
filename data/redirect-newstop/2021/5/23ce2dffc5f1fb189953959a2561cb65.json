@@ -14,5 +14,19 @@
   "tags": [
     "The Wall Street Journal"
   ],
-  "image": "https://images.wsj.net/im-333737/social"
+  "image": "https://images.wsj.net/im-333737/social",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "インドの「酸素エクスプレス」は病院への供給を急ぐが、在庫切れでコヴィドの患者が死亡"
+    },
+    {
+      "locale": "zh",
+      "title": "印度的 \"氧气快车 \"争先恐后地供应医院，但由于库存耗尽，Covid患者死亡。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "印度的 \"氧氣快車 \"爭先恐後地供應醫院，但由於庫存耗盡，Covid患者死亡。"
+    }
+  ]
 }
