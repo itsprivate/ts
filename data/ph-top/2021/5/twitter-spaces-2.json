@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-05T14:25:35Z"
+  "original_createdAt": "2021-05-05T14:25:35Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Twitter Spacesは、ライブオーディオの会話が行われる場所です。",
+      "tagline": "ツイッターでの音声によるライブ会話"
+    },
+    {
+      "locale": "zh",
+      "description": "推特空间是发生实时音频对话的地方。",
+      "tagline": "在Twitter上进行现场音频对话"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "推特空間是發生實時音頻對話的地方。",
+      "tagline": "在Twitter上進行現場音頻對話"
+    }
+  ]
 }
