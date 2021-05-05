@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-05-05T06:28:55.000Z",
-  "image": "http://depts.washington.edu/acelab/proj/dollar/$1.png"
+  "image": "http://depts.washington.edu/acelab/proj/dollar/$1.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "$1 一筆書きの認識装置"
+    },
+    {
+      "locale": "zh",
+      "title": "1美元的单笔画识别器"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "1美元的單筆畫識別器"
+    }
+  ]
 }

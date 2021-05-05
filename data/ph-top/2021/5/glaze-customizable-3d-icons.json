@@ -98,5 +98,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-04T14:00:00Z"
+  "original_createdAt": "2021-05-04T14:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Glazeは、Figma、Sketch、Photoshop用にカスタマイズ可能な80以上の3Dアイコンを集めたライブラリです。すべての色をブランドに合わせて変更し、美しいウェブサイト、アプリ、キーノートやソーシャルメディアのコンテンツを作成することができます。",
+      "tagline": "80種類以上のカスタマイズ可能な3Dアイコンで、あなたのプロジェクトを格上げします。"
+    },
+    {
+      "locale": "zh",
+      "description": "Glaze是一个由80多个可定制的3D图标组成的图书馆，适用于Figma、Sketch和Photoshop。你可以根据你的品牌改变和匹配所有的颜色，以创建美丽的网站、应用程序、主题演讲或社交媒体内容。",
+      "tagline": "用80多个可定制的3D图标提升你的项目"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Glaze是一個由80多個可定製的3D圖標組成的圖書館，適用於Figma、Sketch和Photoshop。你可以根據你的品牌改變和匹配所有的顏色，以創建美麗的網站、應用程序、主題演講或社交媒體內容。",
+      "tagline": "用80多個可定製的3D圖標提升你的項目"
+    }
+  ]
 }
