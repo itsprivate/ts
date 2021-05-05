@@ -92,5 +92,19 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Wed May 05 20:46:06 +0000 2021"
+  "original_created_at": "Wed May 05 20:46:06 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "売り上げの90倍というのは、企業にとって適正な価格ではないと思い始めている。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "开始认为90倍的销售额对一个公司来说不是一个公平的价格。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "開始認爲90倍的銷售額對一個公司來說不是一個公平的價格。"
+    }
+  ]
 }
