@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-04T13:20:09Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6luM70Xu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fge7dj1r5dex67pcougz.jpeg",
   "author": "Olena Drugalya",
-  "author_url": "https://dev.to/olenadrugalya"
+  "author_url": "https://dev.to/olenadrugalya",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このブログ記事は、NextJSとその機能について簡単に紹介しています。ただし、読み始める前に...",
+      "title": "NextJSの紹介"
+    },
+    {
+      "locale": "zh",
+      "description": "这篇博文是对NextJS和它的功能的简单介绍。然而，在开始阅读之前...",
+      "title": "NextJS简介"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這篇博文是對NextJS和它的功能的簡單介紹。然而，在開始閱讀之前...",
+      "title": "NextJS簡介"
+    }
+  ]
 }

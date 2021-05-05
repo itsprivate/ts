@@ -52,5 +52,22 @@
   "original_created_at": "2021-05-03T10:24:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vxKlUCAM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3x76vct1qot12he7bots.png",
   "author": "Matt Coulter",
-  "author_url": "https://dev.to/nideveloper"
+  "author_url": "https://dev.to/nideveloper",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "2021年4月30日、今年もCDK DAYが開催されました。世界各国から22名のスピーカーが参加し、18の講演を行いました。",
+      "title": "CDK Day In Review"
+    },
+    {
+      "locale": "zh",
+      "description": "2021年4月30日，CDK日再次发生。我们有来自全球各地的22位演讲者，他们在18个讲座中讲述了自己的观点。",
+      "title": "CDK日回顾"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "2021年4月30日，CDK日再次發生。我們有來自全球各地的22位演講者，他們在18個講座中講述了自己的觀點。",
+      "title": "CDK日回顧"
+    }
+  ]
 }
