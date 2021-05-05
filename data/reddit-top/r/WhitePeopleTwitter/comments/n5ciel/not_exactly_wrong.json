@@ -153,5 +153,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1620209530,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "正確には間違っていません。"
+    },
+    {
+      "locale": "zh",
+      "title": "并非完全错误"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "並非完全錯誤"
+    }
+  ]
 }
