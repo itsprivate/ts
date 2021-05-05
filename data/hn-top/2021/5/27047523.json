@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-05-05T08:31:39.000Z",
-  "image": "https://microkerneldude.files.wordpress.com/2020/06/tall_2.png?w=1200"
+  "image": "https://microkerneldude.files.wordpress.com/2020/06/tall_2.png?w=1200",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "RISC-V上のSeL4がバイナリコードになった"
+    },
+    {
+      "locale": "zh",
+      "title": "RISC-V上的SeL4验证为二进制代码"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "RISC-V上的SeL4驗證爲二進制代碼"
+    }
+  ]
 }
