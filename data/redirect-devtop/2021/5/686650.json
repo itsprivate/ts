@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-03T18:28:22Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--z0GH29A6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c3wuwzscrkigihlyv667.jpg",
   "author": "Alana Bishop",
-  "author_url": "https://dev.to/alanabishop"
+  "author_url": "https://dev.to/alanabishop",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "数ヶ月前、私がコーディングを始めたばかりの頃、私はあるCodepenについてツイートしたことがあります。",
+      "title": "ライトモードとダークモードの切り替え：白と黒だけではありません。"
+    },
+    {
+      "locale": "zh",
+      "description": "几个月前，在我的编码之旅即将开始的时候，我在推特上发表了一篇关于Codepen的文章，我是一个特别...",
+      "title": "在浅色和深色模式之间切换：并不全是黑与白。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "幾個月前，在我的編碼之旅即將開始的時候，我在推特上發表了一篇關於Codepen的文章，我是一個特別...",
+      "title": "在淺色和深色模式之間切換：並不全是黑與白。"
+    }
+  ]
 }
