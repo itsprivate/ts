@@ -43,5 +43,22 @@
   "original_created_at": "2021-05-04T04:12:21Z",
   "image": "https://dev.to/social_previews/article/687002.png",
   "author": "Chinmay Mhatre",
-  "author_url": "https://dev.to/chinmaymhatre"
+  "author_url": "https://dev.to/chinmaymhatre",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに 非同期JavaScriptは、学ぶのに大変な概念です。しかし、非同期JavaScriptは...",
+      "title": "非同期JavaScriptのクラッシュコース（第1回"
+    },
+    {
+      "locale": "zh",
+      "description": "引言 异步JavaScript可能是一个令人生畏的学习概念。然而，它是一个非常重要的概念。",
+      "title": "异步JavaScript速成班（第一部分"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "引言 異步JavaScript可能是一個令人生畏的學習概念。然而，它是一個非常重要的概念。",
+      "title": "異步JavaScript速成班（第一部分"
+    }
+  ]
 }
