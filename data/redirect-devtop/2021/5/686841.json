@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-03T23:37:13Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--r-BQkcol--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kn5g7kyx0pery7s4jac3.png",
   "author": "Temani Afif",
-  "author_url": "https://dev.to/afif"
+  "author_url": "https://dev.to/afif",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "リポンシブ・デザインを抜きにして、ウェブ制作を語ることはできません。後者は今では必...",
+      "title": "メディアクエリを使わずにレスポンシブWebサイトを構築"
+    },
+    {
+      "locale": "zh",
+      "description": "谈到网站开发，我们不能不谈Reponsive Design。后者现在是必须的。",
+      "title": "建立你的响应式网站，无需媒体查询"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "談到網站開發，我們不能不談Reponsive Design。後者現在是必須的。",
+      "title": "建立你的響應式網站，無需媒體查詢"
+    }
+  ]
 }
