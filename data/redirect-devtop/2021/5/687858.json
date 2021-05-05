@@ -43,5 +43,22 @@
   "original_created_at": "2021-05-04T20:05:51Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--u6tzVny---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0v383znjoqnb7yqkcrxk.png",
   "author": "Salma Alam-Naylor",
-  "author_url": "https://dev.to/whitep4nth3r"
+  "author_url": "https://dev.to/whitep4nth3r",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TL;DR ウェブページでは、「re...」のように、同じテキストで複数のリンクを表示することがよくあります。",
+      "title": "aria-labelsをHTMLで使用する場合"
+    },
+    {
+      "locale": "zh",
+      "description": "TL;DR 在一个网页上显示具有相同文字的多个链接是很常见的--例如 \"re...",
+      "title": "什么时候在你的HTML中使用ria-labels？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "TL;DR 在一個網頁上顯示具有相同文字的多個鏈接是很常見的--例如 \"re...",
+      "title": "什麼時候在你的HTML中使用ria-labels？"
+    }
+  ]
 }
