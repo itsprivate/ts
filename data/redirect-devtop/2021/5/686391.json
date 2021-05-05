@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-03T14:48:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2uofpL2Q--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hblvidvqydi2r53oe1qw.jpg",
   "author": "awedis",
-  "author_url": "https://dev.to/awedis"
+  "author_url": "https://dev.to/awedis",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、Reactの開発をより良いものにするために気をつけるべきことを紹介したいと思います。",
+      "title": "Reactのベスト・プラクティス"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我想分享一些需要注意的细节，这将使我们更好地开发React。",
+      "title": "React最佳实践"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我想分享一些需要注意的細節，這將使我們更好地開發React。",
+      "title": "React最佳實踐"
+    }
+  ]
 }
