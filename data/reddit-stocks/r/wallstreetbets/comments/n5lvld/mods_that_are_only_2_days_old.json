@@ -109,5 +109,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1620236701,
-  "the_new_excerpt": "Wow! They seem to have gotten a lot of experience in 48 hours!"
+  "the_new_excerpt": "Wow! They seem to have gotten a lot of experience in 48 hours!",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "うわぁ～。48時間でたくさんの経験を積んだようですね。",
+      "title": "2日しか経っていないMOD？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "哇! 他们似乎在48小时内获得了很多经验!",
+      "title": "只有2天时间的修改？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "哇! 他們似乎在48小時內獲得了很多經驗!",
+      "title": "只有2天時間的修改？"
+    }
+  ]
 }
