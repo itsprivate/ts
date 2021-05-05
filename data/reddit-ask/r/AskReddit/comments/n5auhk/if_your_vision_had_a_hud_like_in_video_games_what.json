@@ -103,5 +103,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1620202504,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの視界にゲーム機のようなHUDがあるとしたら、どんな情報を表示させたいですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你的视觉有一个像视频游戏中的HUD，你希望显示什么信息？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你的視覺有一個像視頻遊戲中的HUD，你希望顯示什麼信息？"
+    }
+  ]
 }
