@@ -86,5 +86,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-06T07:01:00Z"
+  "original_createdAt": "2021-05-06T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "https://passbase.com/ は、企業が190カ国以上のユーザーを登用したり、6,000の政府機関のIDを審査したりする際に役立つID認証およびhttps://passbase.com/aml-compliance。コードを全く使わずに、あるいはネイティブに https://docs.passbase.com/、チェックアウトフローに数秒で統合することができます。",
+      "tagline": "本人確認と安全なユーザーログインの両立"
+    },
+    {
+      "locale": "zh",
+      "description": "https://passbase.com/ 是一个身份验证和https://passbase.com/aml-compliance，可以帮助企业录入来自190多个国家的用户和筛选6000个政府身份。它可以在几秒钟内不需要任何代码或原生地集成到https://docs.passbase.com/ 和结账流程中。",
+      "tagline": "结合身份验证和安全用户登录"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "https://passbase.com/ 是一個身份驗證和https://passbase.com/aml-compliance，可以幫助企業錄入來自190多個國家的用戶和篩選6000個政府身份。它可以在幾秒鐘內不需要任何代碼或原生地集成到https://docs.passbase.com/ 和結賬流程中。",
+      "tagline": "結合身份驗證和安全用戶登錄"
+    }
+  ]
 }
