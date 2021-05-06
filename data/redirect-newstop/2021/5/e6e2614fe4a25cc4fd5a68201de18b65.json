@@ -14,5 +14,19 @@
   "tags": [
     "BBC News"
   ],
-  "image": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.1.0/bbc_news_logo.png"
+  "image": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.1.0/bbc_news_logo.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "2021年の選挙。投票日を終えた投票所"
+    },
+    {
+      "locale": "zh",
+      "title": "2021年选举。投票日结束后，投票站关闭"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "2021年選舉。投票日結束後，投票站關閉"
+    }
+  ]
 }

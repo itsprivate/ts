@@ -304,5 +304,22 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Thu May 06 21:12:21 +0000 2021"
+  "original_created_at": "Thu May 06 21:12:21 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @michael_saylor: #ビットコインへの関心が急上昇しており、@Squareがその先頭に立っています。\nhttps://t.co/OB64Zv0tMG",
+      "retweeted_status_full_text": "ビットコインへの関心が高まっており、@Squareがその先頭に立っています。\nhttps://t.co/OB64Zv0tMG"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @michael_saylor: 对#比特币的兴趣正在激增，而@Square正在引领潮流。\nhttps://t.co/OB64Zv0tMG",
+      "retweeted_status_full_text": "对#比特币的兴趣正在激增，而@Square正在引领潮流。\nhttps://t.co/OB64Zv0tMG"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @michael_saylor: 對#比特幣的興趣正在激增，而@Square正在引領潮流。\nhttps://t.co/OB64Zv0tMG",
+      "retweeted_status_full_text": "對#比特幣的興趣正在激增，而@Square正在引領潮流。\nhttps://t.co/OB64Zv0tMG"
+    }
+  ]
 }
