@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-05T02:31:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hBJipvJ5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://bholmes.dev/assets/blog/picture-perfect-image-optimization.png",
   "author": "Ben Holmes",
-  "author_url": "https://dev.to/bholmesdev"
+  "author_url": "https://dev.to/bholmesdev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "画像の最適化は、決して楽しい作業ではありません。ここでは、ピクチャーエレメントと11tyを使って、静的なサイトをロードタイムの増大から救う方法を学びましょう。",
+      "title": "あらゆるウェブフレームワークに対応した画像の最適化"
+    },
+    {
+      "locale": "zh",
+      "description": "图片优化从来都不是有趣的事情。让我们学习一下图片元素+11ty如何将任何静态网站从臃肿的加载时间中拯救出来。",
+      "title": "为任何网络框架提供完美的图像优化"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "圖片優化從來都不是有趣的事情。讓我們學習一下圖片元素+11ty如何將任何靜態網站從臃腫的加載時間中拯救出來。",
+      "title": "爲任何網絡框架提供完美的圖像優化"
+    }
+  ]
 }
