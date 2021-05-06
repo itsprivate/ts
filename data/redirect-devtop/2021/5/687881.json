@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-04T21:06:21Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--27q6Tu-f--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s5egvzbb1rh3fl5vb3sz.png",
   "author": "Kingsley Ubah",
-  "author_url": "https://dev.to/ubahthebuilder"
+  "author_url": "https://dev.to/ubahthebuilder",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんなことを覚えていませんか？ var text; for (i = 0; i &lt; 5; i++) { text += \"The number....",
+      "title": "Ditch For... ループ - ES6の配列メソッドを使って配列をループさせる方法"
+    },
+    {
+      "locale": "zh",
+      "description": "你还记得这样的事情吗？ var text; for (i = 0; i &lt; 5; i++) { text += \"The number...",
+      "title": "抛弃For... 循环 - 如何使用ES6数组方法在数组上循环操作"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你還記得這樣的事情嗎？ var text; for (i = 0; i &lt; 5; i++) { text += \"The number...",
+      "title": "拋棄For... 循環 - 如何使用ES6數組方法在數組上循環操作"
+    }
+  ]
 }

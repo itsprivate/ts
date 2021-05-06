@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-06T03:00:03Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AF1uI_Hm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hr98jmhc1c5zkfwhn1g1.png",
   "author": "Kingsley Ubah",
-  "author_url": "https://dev.to/ubahthebuilder"
+  "author_url": "https://dev.to/ubahthebuilder",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私がこの業界に入ってから約2年が経ちました。  この2年間は、学び、観察し、技術を身につけてきました。",
+      "title": "Web開発者を目指す人に贈る10のアドバイス "
+    },
+    {
+      "locale": "zh",
+      "description": "我在这个行业已经有将近两年的时间了。  在这两年中，我不断学习、观察、研究，并在此过程中不断改进。",
+      "title": "对每一个有抱负的网站开发人员的10条建议 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我在這個行業已經有將近兩年的時間了。  在這兩年中，我不斷學習、觀察、研究，並在此過程中不斷改進。",
+      "title": "對每一個有抱負的網站開發人員的10條建議 "
+    }
+  ]
 }
