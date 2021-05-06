@@ -148,5 +148,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1620234638,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "従業員を持たないと潰れてしまうような会社は、雇用者として分類すべきではありません。"
+    },
+    {
+      "locale": "zh",
+      "title": "如果一个公司基本上不能有雇员，否则就会倒闭，那么它就不应该被列为雇主。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果一個公司基本上不能有僱員，否則就會倒閉，那麼它就不應該被列爲僱主。"
+    }
+  ]
 }
