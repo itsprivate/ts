@@ -151,5 +151,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1620222195,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "NYDIG社との提携により、米国の数百の銀行でビットコインが利用できるようになるとの報道がなされました。"
+    },
+    {
+      "locale": "zh",
+      "title": "报道称，在与加密货币公司NYDIG的合作中，比特币很快将通过数百家美国银行提供。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "報道稱，在與加密貨幣公司NYDIG的合作中，比特幣很快將通過數百家美國銀行提供。"
+    }
+  ]
 }
