@@ -14,5 +14,19 @@
   "tags": [
     "The New York Times"
   ],
-  "image": "https://static01.nyt.com/images/2021/05/05/world/05france-macron/05france-macron-facebookJumbo.jpg"
+  "image": "https://static01.nyt.com/images/2021/05/05/world/05france-macron/05france-macron-facebookJumbo.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "マクロン大統領、ナポレオンによる奴隷制の復活を非難"
+    },
+    {
+      "locale": "zh",
+      "title": "马克龙谴责拿破仑恢复奴隶制的做法"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "馬克龍譴責拿破崙恢復奴隸制的做法"
+    }
+  ]
 }
