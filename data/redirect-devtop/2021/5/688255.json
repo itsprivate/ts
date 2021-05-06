@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-05T07:27:37Z",
   "image": "https://dev.to/social_previews/article/688255.png",
   "author": "Pavel Polívka",
-  "author_url": "https://dev.to/pavel_polivka"
+  "author_url": "https://dev.to/pavel_polivka",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私は開発者として何百回もコードレビューを行ってきました。これは私にとって、とても楽しいことでした。",
+      "title": "コードレビューの上手な受け方"
+    },
+    {
+      "locale": "zh",
+      "description": "在我作为一个开发者的时间里，我已经给了数百次的代码审查。这是我学会享受的事情。",
+      "title": "如何做好代码审查"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在我作爲一個開發者的時間裏，我已經給了數百次的代碼審查。這是我學會享受的事情。",
+      "title": "如何做好代碼審查"
+    }
+  ]
 }
