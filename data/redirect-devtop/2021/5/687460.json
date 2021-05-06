@@ -50,5 +50,22 @@
   "original_created_at": "2021-05-04T13:52:52Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bvXCg7Jn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fpoyee6upansjhiudoh2.jpg",
   "author": " 🐤🥇 Jasper de Jager",
-  "author_url": "https://dev.to/jmdejager"
+  "author_url": "https://dev.to/jmdejager",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "三項演算子 使うのは嬉しいけど、できるだけ使った方がいいのかな...。",
+      "title": "✔||🤢 Commit or Vomit | 入れ子になった三項演算子"
+    },
+    {
+      "locale": "zh",
+      "description": "三元运算符 使用它们是一件令人高兴的事，但我们是否应该尽可能多地使用它们...",
+      "title": "✔||🤢 Commit or Vomit | 嵌套三元运算符"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "三元運算符 使用它們是一件令人高興的事，但我們是否應該儘可能多地使用它們...",
+      "title": "✔||🤢 Commit or Vomit | 嵌套三元運算符"
+    }
+  ]
 }
