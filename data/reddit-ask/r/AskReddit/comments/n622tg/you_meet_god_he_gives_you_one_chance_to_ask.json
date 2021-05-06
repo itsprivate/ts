@@ -103,5 +103,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1620287590,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたは神に出会う。しかし、それはYesかNoで答えられる質問でなければなりません。あなたは神様にどんな質問をしますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你遇到了上帝。他给你一次机会，向他提出任何问题，但必须是一个回答是或不是的问题。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你遇到了上帝。他給你一次機會，向他提出任何問題，但必須是一個回答是或不是的問題。"
+    }
+  ]
 }
