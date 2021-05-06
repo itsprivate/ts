@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-04T07:44:44Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xJlfRup_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tbrkwr46ztbfk52alzkj.png",
   "author": "Shubham Jain",
-  "author_url": "https://dev.to/shubhamjain"
+  "author_url": "https://dev.to/shubhamjain",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "unpkg + svg-loaderを使用して、1行のコードで任意のアイコンを含めることができます。",
+      "title": "プロジェクトにアイコンを入れる最も簡単な方法。Unpkgの使用"
+    },
+    {
+      "locale": "zh",
+      "description": "使用unpkg + svg-loader，只需一行代码就能包含任何图标",
+      "title": "在你的项目中包含图标的最简单方法。使用Unpkg"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用unpkg + svg-loader，只需一行代碼就能包含任何圖標",
+      "title": "在你的項目中包含圖標的最簡單方法。使用Unpkg"
+    }
+  ]
 }
