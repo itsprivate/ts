@@ -41,5 +41,22 @@
   "original_created_at": "2021-05-04T16:30:37Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fat9klo0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/szwckldfgcbs3jj6qinv.png",
   "author": "Martin Šošić",
-  "author_url": "https://dev.to/martinsos"
+  "author_url": "https://dev.to/martinsos",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Waspでは、コミュニティのためのDiscordサーバーを用意しています。ここでは、Waspに興味を持ち、使用している人たちと話しています。",
+      "title": "新規メンバーに自己紹介を求めるDiscordのボットを（NodeJSで）実装する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "在Wasp，我们的社区有一个Discord服务器，在那里我们与对Wasp感兴趣和使用Wasp的人交谈。",
+      "title": "如何实现一个需要新成员自我介绍的Discord机器人（用NodeJS）？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在Wasp，我們的社區有一個Discord服務器，在那裏我們與對Wasp感興趣和使用Wasp的人交談。",
+      "title": "如何實現一個需要新成員自我介紹的Discord機器人（用NodeJS）？"
+    }
+  ]
 }
