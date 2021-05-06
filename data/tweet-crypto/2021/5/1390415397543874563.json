@@ -234,5 +234,22 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Thu May 06 21:17:18 +0000 2021"
+  "original_created_at": "Thu May 06 21:17:18 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @GoingParabolic: 丸ごと #ビットコイン を買う必要はありません。すべてのbtcには100,000,000 Satoshiが入っています。",
+      "retweeted_status_full_text": "1枚の #ビットコイン を丸ごと買う必要はありません。すべてのbtcには100,000,000 Satoshiがあります。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @GoingParabolic: 你不需要买一整个#比特币。每个比特币里有100,000,000个中本聪。",
+      "retweeted_status_full_text": "你不需要购买整个#比特币。每个比特币里有100,000,000个中本聪。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @GoingParabolic: 你不需要買一整個#比特幣。每個比特幣裏有100,000,000箇中本聰。",
+      "retweeted_status_full_text": "你不需要購買整個#比特幣。每個比特幣裏有100,000,000箇中本聰。"
+    }
+  ]
 }
