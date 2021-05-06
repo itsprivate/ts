@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-06T09:35:27Z",
   "image": "https://dev.to/social_previews/article/689558.png",
   "author": "Priyanshi Sharma",
-  "author_url": "https://dev.to/priyanshi_sharma"
+  "author_url": "https://dev.to/priyanshi_sharma",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "開発者は、Webアプリケーションの開発に、API...という3つの主要なビルディングブロックを使用してきました。",
+      "title": "API、Webサービス、マイクロサービスを理解するための基本概念"
+    },
+    {
+      "locale": "zh",
+      "description": "开发人员一直在使用三个主要的构建模块来开发网络应用程序，即API...",
+      "title": "理解API、网络服务和微服务的基本概念"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "開發人員一直在使用三個主要的構建模塊來開發網絡應用程序，即API...",
+      "title": "理解API、網絡服務和微服務的基本概念"
+    }
+  ]
 }
