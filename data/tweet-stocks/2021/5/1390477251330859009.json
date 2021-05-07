@@ -190,5 +190,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Fri May 07 01:23:05 +0000 2021"
+  "original_created_at": "Fri May 07 01:23:05 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "ねえ、@jackが今何をしているか見てよ $TWTR https://t.co/hYrsB6SIkO"
+    },
+    {
+      "locale": "zh",
+      "full_text": "嘿，看看@杰克现在在搞什么鬼 $TWTR https://t.co/hYrsB6SIkO"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "嘿，看看@傑克現在在搞什麼鬼 $TWTR https://t.co/hYrsB6SIkO"
+    }
+  ]
 }
