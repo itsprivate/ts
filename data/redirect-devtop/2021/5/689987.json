@@ -52,5 +52,22 @@
   "original_created_at": "2021-05-06T17:20:45Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8Fs_gxZg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lzsjynotz13tj6l001vs.png",
   "author": "Erin Schaffer",
-  "author_url": "https://dev.to/erineducative"
+  "author_url": "https://dev.to/erineducative",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactは、ハイテク業界で最も人気のあるフロントエンドフレームワークとなり、大手ハイテク企業で使用されています。",
+      "title": "Reactを使用する際に避けるべきミストップ10"
+    },
+    {
+      "locale": "zh",
+      "description": "React已经迅速成为科技界最流行的前端框架，被大型科技公司使用。",
+      "title": "使用React时应避免的十大错误"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "React已經迅速成爲科技界最流行的前端框架，被大型科技公司使用。",
+      "title": "使用React時應避免的十大錯誤"
+    }
+  ]
 }
