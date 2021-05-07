@@ -478,5 +478,22 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Fri May 07 20:56:15 +0000 2021"
+  "original_created_at": "Fri May 07 20:56:15 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @michael_saylor: #ビットコインは、充電し続けるエネルギーバンクです。",
+      "retweeted_status_full_text": "#ビットコインは、充電し続けるエネルギーバンク https://t.co/kWFoMMpd17。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @michael_saylor: #比特币是一个不断充电的能源银行。",
+      "retweeted_status_full_text": "#比特币是一个不断充电的能源银行。https://t.co/kWFoMMpd17"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @michael_saylor: #比特幣是一個不斷充電的能源銀行。",
+      "retweeted_status_full_text": "#比特幣是一個不斷充電的能源銀行。https://t.co/kWFoMMpd17"
+    }
+  ]
 }
