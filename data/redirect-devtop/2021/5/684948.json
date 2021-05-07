@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-01T20:27:50Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UdREpThm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/skiz0d2t6buuqpwvra0x.png",
   "author": "Niklas Tiede",
-  "author_url": "https://dev.to/niklastiede"
+  "author_url": "https://dev.to/niklastiede",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事は、複数回に渡る連載「スクリプトの進化」の第7回目です。この記事のコードはfou...",
+      "title": "Pythonの世界ではどのようにドキュメントを書くのか！？"
+    },
+    {
+      "locale": "zh",
+      "description": "这是 \"脚本的演变 \"多部分系列的第7部分。这篇文章的代码可以在这里找到。",
+      "title": "如何在Python世界里写文档!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是 \"腳本的演變 \"多部分系列的第7部分。這篇文章的代碼可以在這裏找到。",
+      "title": "如何在Python世界裏寫文檔!"
+    }
+  ]
 }
