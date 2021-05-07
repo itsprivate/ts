@@ -50,5 +50,22 @@
   "original_created_at": "2021-05-05T11:29:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JPwZ014x--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ymbnn94ppb1b2w4e6hg4.jpg",
   "author": "Maina Wycliffe",
-  "author_url": "https://dev.to/mainawycliffe"
+  "author_url": "https://dev.to/mainawycliffe",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "たまに、あるタイプのバリエーションが必要になることがあります。例えば...",
+      "title": "ユーティリティータイプを使ったTypeScriptでの型の変換"
+    },
+    {
+      "locale": "zh",
+      "description": "每隔一段时间，你就会遇到你需要某种类型的变体的情况。例如，你需要一个类型的变体。",
+      "title": "在TypeScript中用实用类型转换类型"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "每隔一段時間，你就會遇到你需要某種類型的變體的情況。例如，你需要一個類型的變體。",
+      "title": "在TypeScript中用實用類型轉換類型"
+    }
+  ]
 }
