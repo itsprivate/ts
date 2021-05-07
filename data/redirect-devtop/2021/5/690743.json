@@ -53,5 +53,22 @@
   "original_created_at": "2021-05-07T10:41:58Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oB6BdXHM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6jhjv710qfnzl2v37v2u.png",
   "author": "Sarthak Sharma",
-  "author_url": "https://dev.to/sarthology"
+  "author_url": "https://dev.to/sarthology",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは👋🏼 私たちは、Product huntに新たな製品を投入しました。これは、製品の開発に役立つ概念テンプレートです。",
+      "title": "このテンプレートを使って、一週間の食事を計画しましょう🥗。"
+    },
+    {
+      "locale": "zh",
+      "description": "嘿，伙计们👋🏼，我们刚刚推出了另一个产品的产品搜索。这是一个概念性的模板，可以帮助我们更好地了解产品。",
+      "title": "用这个模板计划你的每周膳食🥗。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嘿，夥計們👋🏼，我們剛剛推出了另一個產品的產品搜索。這是一個概念性的模板，可以幫助我們更好地瞭解產品。",
+      "title": "用這個模板計劃你的每週膳食🥗。"
+    }
+  ]
 }
