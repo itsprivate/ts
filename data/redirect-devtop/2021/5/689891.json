@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-06T15:40:55Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--O9cr9HNL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/55z3fraol668byw86ubb.png",
   "author": "Md. Shah Arafat",
-  "author_url": "https://dev.to/shaharafat"
+  "author_url": "https://dev.to/shaharafat",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このブログでは、JavaScriptのコアなコンセプトについて説明します。もしあなたがJavaScriptの世界に初めて足を踏み入れるのであれば、このブログは...",
+      "title": "知っておきたいJavaScriptの原則"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇博客中，我将讨论一些核心的JavaScript概念。如果你是JavaScript世界的新成员，那么你可以在这里找到你想要的。",
+      "title": "你应该知道的一些JavaScript原则。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇博客中，我將討論一些核心的JavaScript概念。如果你是JavaScript世界的新成員，那麼你可以在這裏找到你想要的。",
+      "title": "你應該知道的一些JavaScript原則。"
+    }
+  ]
 }

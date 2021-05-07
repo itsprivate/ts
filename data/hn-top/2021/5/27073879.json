@@ -36,5 +36,19 @@
     }
   },
   "original_created_at": "2021-05-07T09:00:21.000Z",
-  "image": "https://blog.racket-lang.org/img/racket-logo.svg"
+  "image": "https://blog.racket-lang.org/img/racket-logo.svg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Racket 8.1"
+    },
+    {
+      "locale": "zh",
+      "title": "Racket 8.1"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Racket 8.1"
+    }
+  ]
 }
