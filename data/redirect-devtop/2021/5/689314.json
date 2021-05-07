@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-06T04:31:17Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--c-qNlHQl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vglqaxiu16awpb4uiuxt.png",
   "author": "Mursal Furqan",
-  "author_url": "https://dev.to/mursalfk"
+  "author_url": "https://dev.to/mursalfk",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "前回の記事「ReactのHooks」には多くの反響をいただきましたが、お約束通り今回は第2弾の記事をお届けします。",
+      "title": "Reactの基本的なフック"
+    },
+    {
+      "locale": "zh",
+      "description": "在我之前的文章《React中的钩子》得到了很好的回应之后，正如我所承诺的那样，我又回来了，这是我的第二篇文章。",
+      "title": "React中的基本钩子"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在我之前的文章《React中的鉤子》得到了很好的迴應之後，正如我所承諾的那樣，我又回來了，這是我的第二篇文章。",
+      "title": "React中的基本鉤子"
+    }
+  ]
 }
