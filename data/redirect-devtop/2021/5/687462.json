@@ -52,5 +52,22 @@
   "original_created_at": "2021-05-04T13:57:29Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HtSzaKis--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mppez0w6lrud9f3pipy5.jpg",
   "author": "DevLorenzo",
-  "author_url": "https://dev.to/devlorenzo"
+  "author_url": "https://dev.to/devlorenzo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Hello World! ここDEVでは今週のベスト記事を連発しているようですが、これは...？",
+      "title": "Web Dev Notes - リソースコンピレーション＋チートシート"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，世界! 似乎我们在连轴转，成为本周DEV的最佳文章，这将...",
+      "title": "网络开发笔记--资源汇编+小抄表"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，世界! 似乎我們在連軸轉，成爲本週DEV的最佳文章，這將...",
+      "title": "網絡開發筆記--資源彙編+小抄表"
+    }
+  ]
 }

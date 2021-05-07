@@ -305,5 +305,22 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Fri May 07 13:17:11 +0000 2021"
+  "original_created_at": "Fri May 07 13:17:11 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @_rospearce: イギリスの都市の東側は貧しい傾向にあります。このパターンは、産業革命の頃にさかのぼることができます。",
+      "retweeted_status_full_text": "イギリスの都市では、東側の方が貧しい傾向にあります。このパターンは、産業革命時に公害を東に吹き飛ばす風が吹いて、金持ちが西に逃げたことにさかのぼることができます。\n\n#dataviz https://t.co/8f5bLKzUoo https://t.co/Bgm11JK2eO"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @_rospearce: 英国城市的东边往往更穷。这种模式可以追溯到工业革命时期，当时英国人的生活水平很高。",
+      "retweeted_status_full_text": "英国城市的东边往往更穷。这种模式可以追溯到工业革命时期，当时风把污染往东吹，导致富人往西逃。\n\n#dataviz https://t.co/8f5bLKzUoo https://t.co/Bgm11JK2eO"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @_rospearce: 英國城市的東邊往往更窮。這種模式可以追溯到工業革命時期，當時英國人的生活水平很高。",
+      "retweeted_status_full_text": "英國城市的東邊往往更窮。這種模式可以追溯到工業革命時期，當時風把污染往東吹，導致富人往西逃。\n\n#dataviz https://t.co/8f5bLKzUoo https://t.co/Bgm11JK2eO"
+    }
+  ]
 }
