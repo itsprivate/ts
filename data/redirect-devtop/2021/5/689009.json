@@ -48,5 +48,22 @@
   "original_created_at": "2021-05-05T19:32:25Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KLC33-S_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ed8kmydj3t4flknohmo0.jpg",
   "author": "Lucas Otaño",
-  "author_url": "https://dev.to/lucasota"
+  "author_url": "https://dev.to/lucasota",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Angularを使って2年間働いた後、フロントエンドスタックがReact、...というプロジェクトに配属されました。",
+      "title": "React: Angular開発者の考え"
+    },
+    {
+      "locale": "zh",
+      "description": "在使用Angular工作了两年后，我被分配到一个项目，那里的前端堆栈是React，...",
+      "title": "React：一个Angular开发者的想法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在使用Angular工作了兩年後，我被分配到一個項目，那裏的前端堆棧是React，...",
+      "title": "React：一個Angular開發者的想法"
+    }
+  ]
 }
