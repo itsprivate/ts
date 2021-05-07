@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-18T09:34:41Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AOoNMxls--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pk8pyc99nis579yvmi4r.jpeg",
   "author": "Oxy",
-  "author_url": "https://dev.to/oksygenn"
+  "author_url": "https://dev.to/oksygenn",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは！Oksanaです。 これは私の最初の投稿で、ソフトウェア開発者になるまでの私の道のりを紹介したいと思います。",
+      "title": "ペストリーシェフからウェブデベロッパーへ"
+    },
+    {
+      "locale": "zh",
+      "description": "嗨！我是奥克萨娜。 这是我的第一篇文章，我想分享我成为一名软件开发人员的历程。",
+      "title": "从糕点师到网络开发人员"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嗨！我是奧克薩娜。 這是我的第一篇文章，我想分享我成爲一名軟件開發人員的歷程。",
+      "title": "從糕點師到網絡開發人員"
+    }
+  ]
 }
