@@ -43,5 +43,22 @@
   "original_created_at": "2021-05-05T05:36:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7jybOMV0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l0awui3aymy671rqc3l7.jpg",
   "author": "Yogesh Chavan",
-  "author_url": "https://dev.to/myogeshchavan97"
+  "author_url": "https://dev.to/myogeshchavan97",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、Reactの開発者が犯しがちなミスと、それを回避する方法を...",
+      "title": "React開発者が陥りがちなミスとその対処法"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我们将看到React开发者所犯的一些常见错误以及避免这些错误的方法。",
+      "title": "React开发者常犯的错误--以及如何解决这些问题"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我們將看到React開發者所犯的一些常見錯誤以及避免這些錯誤的方法。",
+      "title": "React開發者常犯的錯誤--以及如何解決這些問題"
+    }
+  ]
 }
