@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-06T14:48:00Z"
+  "original_createdAt": "2021-05-06T14:48:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Bitskiは、ユニークで所有可能なデジタルコンテンツを通じて、コミュニティ、クリエーター、ブランドを結びつけます。これがメタバースの始まりです。",
+      "tagline": "NFTのためのShopifyのようなものです。"
+    },
+    {
+      "locale": "zh",
+      "description": "Bitski通过独特的、可拥有的数字内容连接社区、创作者和品牌。这就是元宇宙的开始。",
+      "tagline": "这就像NFT的Shopify。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Bitski通過獨特的、可擁有的數字內容連接社區、創作者和品牌。這就是元宇宙的開始。",
+      "tagline": "這就像NFT的Shopify。"
+    }
+  ]
 }
