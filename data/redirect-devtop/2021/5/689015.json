@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-05T19:47:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YVFFrQ5u--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ud79gc2sapf6otfde7jz.jpg",
   "author": "nshimiye_emmy",
-  "author_url": "https://dev.to/dev_emmy"
+  "author_url": "https://dev.to/dev_emmy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "APIについて簡単にご紹介します。  APIとは、Application Programming Interfaceの略で、日本語では「アプリケーション・プログラミング・インターフェース」と呼ばれています。",
+      "title": "ウェブサービス、SOAPとREST APIのすべて、SOAPとREST APIのウェブサービスの何を、なぜ、いつ、に答えます。"
+    },
+    {
+      "locale": "zh",
+      "description": "关于API的简要介绍。  API被称为应用程序设计接口，是一个 \"应用 \"的概念。",
+      "title": "所有关于网络服务，SOAP和REST API，回答SOAP和REST API网络服务的内容、原因和时间。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "關於API的簡要介紹。  API被稱爲應用程序設計接口，是一個 \"應用 \"的概念。",
+      "title": "所有關於網絡服務，SOAP和REST API，回答SOAP和REST API網絡服務的內容、原因和時間。"
+    }
+  ]
 }
