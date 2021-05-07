@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-06T10:49:57Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gR3t8LcN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x7iuewrj5dwgazm28c3o.png",
   "author": "Helen Anderson",
-  "author_url": "https://dev.to/helenanders26"
+  "author_url": "https://dev.to/helenanders26",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "アナリストは、特定の問題を解決するためのダッシュボードやメトリクスを素早く作成することを求められることがよくあります...",
+      "title": "ダッシュボードは本当に必要ですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "作为分析师，我们经常被要求快速制作仪表盘或指标，以解决一个具体的问题。",
+      "title": "你真的需要一个仪表板吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "作爲分析師，我們經常被要求快速製作儀表盤或指標，以解決一個具體的問題。",
+      "title": "你真的需要一個儀表板嗎？"
+    }
+  ]
 }
