@@ -207,5 +207,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Sat May 08 18:22:13 +0000 2021"
+  "original_created_at": "Sat May 08 18:22:13 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "$60K in sights https://t.co/LQ8ovSYSXV"
+    },
+    {
+      "locale": "zh",
+      "full_text": "6万美元的景点https://t.co/LQ8ovSYSXV"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "6萬美元的景點https://t.co/LQ8ovSYSXV"
+    }
+  ]
 }
