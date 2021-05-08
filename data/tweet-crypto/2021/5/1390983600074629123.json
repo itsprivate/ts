@@ -498,5 +498,22 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Sat May 08 10:55:08 +0000 2021"
+  "original_created_at": "Sat May 08 10:55:08 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @alistairmilne: ビットコインを押さえつけようとするクマのライブ映像... https://t.co/fAW64c7cfO",
+      "retweeted_status_full_text": "ビットコインを押さえつけようとするクマのライブ映像... https://t.co/fAW64c7cfO"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @alistairmilne: 试图压制比特币的熊的现场录像 ... https://t.co/fAW64c7cfO",
+      "retweeted_status_full_text": "试图压制比特币的熊的现场录像 ... https://t.co/fAW64c7cfO"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @alistairmilne: 試圖壓制比特幣的熊的現場錄像 ... https://t.co/fAW64c7cfO",
+      "retweeted_status_full_text": "試圖壓制比特幣的熊的現場錄像 ... https://t.co/fAW64c7cfO"
+    }
+  ]
 }
