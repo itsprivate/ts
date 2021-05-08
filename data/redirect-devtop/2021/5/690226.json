@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-06T21:58:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BpMMoP0l--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ao2m2l1skh8xfic16o4a.jpg",
   "author": "Rohit Singh Rana",
-  "author_url": "https://dev.to/rohitrana"
+  "author_url": "https://dev.to/rohitrana",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "記事を読み飛ばして、初心者の方に一番お勧めしたいのは何かを知りたいですか...。",
+      "title": "なぜReactがAngularに勝つのか？"
+    },
+    {
+      "locale": "zh",
+      "description": "你想跳过这篇文章，想知道我对初学者的首要偏好是什么，就从...",
+      "title": "为什么React会赢过Angular？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你想跳過這篇文章，想知道我對初學者的首要偏好是什麼，就從...",
+      "title": "爲什麼React會贏過Angular？"
+    }
+  ]
 }
