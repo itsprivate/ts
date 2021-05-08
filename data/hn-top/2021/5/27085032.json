@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-05-08T08:15:23.000Z",
-  "image": "https://blogs.windows.com/wp-content/themes/microsoft-stories-theme/img/theme/logos/windows.jpg"
+  "image": "https://blogs.windows.com/wp-content/themes/microsoft-stories-theme/img/theme/logos/windows.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ラスト・フォー・ウィンドウズ 0.9"
+    },
+    {
+      "locale": "zh",
+      "title": "用于Windows的Rust 0.9"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "用於Windows的Rust 0.9"
+    }
+  ]
 }
