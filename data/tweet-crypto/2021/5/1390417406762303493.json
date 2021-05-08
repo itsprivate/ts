@@ -237,5 +237,22 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Thu May 06 21:25:17 +0000 2021"
+  "original_created_at": "Thu May 06 21:25:17 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @adam3us: ビットコインの供給がさらに逼迫しています。一部のマイナーはHODLのために採掘しています（彼らは電力のためにBTCを売らず、より収益性の高いバックテストを行っています、例えばhttps://t...",
+      "retweeted_status_full_text": "ビットコインの供給はさらに逼迫しています。一部のマイナーはHODLのために採掘しています（BTCを電力のために売らず、より利益のあるバックテストを行っています。例：https://t.co/GSD7c8RYWo）また、採掘コストが1コインあたり5000ドルであるため、BTCを電力のために売っているマイナーでも、90％のコインを維持することができます。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @adam3us: 更多的比特币供应挤压：一些矿工挖矿是为了HODL（他们不卖BTC换取电力，更多的利润回测，例如https://t...",
+      "retweeted_status_full_text": "更多的比特币供应挤压：一些矿工挖矿是为了HODL（他们不卖BTC的电力，更有利可图的回测，例如https://t.co/GSD7c8RYWo）也有&lt;5000美元/币的挖矿成本，甚至矿工卖BTC的电力，可以保持&gt;90%的硬币。很多人会HODL 90%是permabulls。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @adam3us: 更多的比特幣供應擠壓：一些礦工挖礦是爲了HODL（他們不賣BTC換取電力，更多的利潤回測，例如https://t...",
+      "retweeted_status_full_text": "更多的比特幣供應擠壓：一些礦工挖礦是爲了HODL（他們不賣BTC的電力，更有利可圖的回測，例如https://t.co/GSD7c8RYWo）也有&lt;5000美元/幣的挖礦成本，甚至礦工賣BTC的電力，可以保持&gt;90%的硬幣。很多人會HODL 90%是permabulls。"
+    }
+  ]
 }
