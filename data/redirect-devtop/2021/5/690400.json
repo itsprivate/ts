@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-07T02:18:50Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3wh-JPFK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/361vfth6vjbpua6d13hk.jpg",
   "author": "Ruben Marcus",
-  "author_url": "https://dev.to/rubenmarcus"
+  "author_url": "https://dev.to/rubenmarcus",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、バックエンドにStrapiを使ってWebサイトを作ることのメリットと、Next...",
+      "title": "Next.js + Strapiを使う理由は？"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我将向你展示在后台用Strapi做网站的优势和下一步的工作。",
+      "title": "为什么使用Next.js + Strapi？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我將向你展示在後臺用Strapi做網站的優勢和下一步的工作。",
+      "title": "爲什麼使用Next.js + Strapi？"
+    }
+  ]
 }
