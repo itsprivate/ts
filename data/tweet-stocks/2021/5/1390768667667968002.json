@@ -181,5 +181,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Fri May 07 20:41:04 +0000 2021"
+  "original_created_at": "Fri May 07 20:41:04 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "過去12ヶ月間に木材価格が4倍以上に高騰したことにより、平均的な新築一戸建て住宅の価格が35,872ドルも上昇しました（出典：全米住宅建設業者協会）。https://t.co/pBNqlxSTZs"
+    },
+    {
+      "locale": "zh",
+      "full_text": "木材价格在过去12个月里翻了两番多，导致平均每套新的单户住宅的价格增加了35,872美元（来源：全国住宅建筑商协会）。https://t.co/pBNqlxSTZs。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "木材價格在過去12個月裏翻了兩番多，導致平均每套新的單戶住宅的價格增加了35,872美元（來源：全國住宅建築商協會）。https://t.co/pBNqlxSTZs。"
+    }
+  ]
 }
