@@ -43,5 +43,22 @@
   "original_created_at": "2021-05-01T15:02:19Z",
   "image": "https://dev.to/social_previews/article/684740.png",
   "author": "Omar Shehata",
-  "author_url": "https://dev.to/omar4ur"
+  "author_url": "https://dev.to/omar4ur",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このチュートリアルでは、任意の衛星の位置を可視化するウェブアプリの作成方法を説明します。",
+      "title": "30行のJavaScriptでゼロから衛星トラッカーを作る"
+    },
+    {
+      "locale": "zh",
+      "description": "本教程将指导你如何创建一个网络应用，使任何卫星的位置可视化。",
+      "title": "用30行的JavaScript从头开始创建一个卫星追踪器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "本教程將指導你如何創建一個網絡應用，使任何衛星的位置可視化。",
+      "title": "用30行的JavaScript從頭開始創建一個衛星追蹤器"
+    }
+  ]
 }
