@@ -151,5 +151,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1619433946,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私はhttps://make.rs、メーカーが自分の作ったものを世界に発信する場を作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了https://make.rs - 一个让制造商向世界展示他们所做的东西的地方。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了https://make.rs - 一個讓製造商向世界展示他們所做的東西的地方。"
+    }
+  ]
 }
