@@ -179,5 +179,15 @@
   },
   "is_video": true,
   "original_created_utc": 1614690367,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "过去几个月一直在学习React，并建立了一个Netflix的克隆。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "過去幾個月一直在學習React，並建立了一個Netflix的克隆。"
+    }
+  ]
 }

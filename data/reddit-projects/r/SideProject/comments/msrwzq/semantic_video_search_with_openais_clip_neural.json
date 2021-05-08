@@ -185,5 +185,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1618670343,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "OpenAIのCLIPニューラルネットワークによる*セマンティック*ビデオ検索（コメント欄にリンクあり"
+    },
+    {
+      "locale": "zh",
+      "title": "用OpenAI的CLIP神经网络进行*语义学*视频搜索（链接在评论中！）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "用OpenAI的CLIP神經網絡進行*語義學*視頻搜索（鏈接在評論中！）。"
+    }
+  ]
 }
