@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-07T17:56:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9NIv8d3U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uctuea5pwcko4esfx2iq.jpg",
   "author": "Brit Hemming",
-  "author_url": "https://dev.to/brityhemming"
+  "author_url": "https://dev.to/brityhemming",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "YouTubeで視聴する場合は、codepenへのリンクをクリックしてください。 JavaScriptの'this'キーワードは...",
+      "title": "JavaScriptの「this」とは？"
+    },
+    {
+      "locale": "zh",
+      "description": "在YouTube上观看，如果你想跟上的话，可以链接到codepen。 JavaScript中的'this'关键词可以是...",
+      "title": "JavaScript中的 \"this \"是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在YouTube上觀看，如果你想跟上的話，可以鏈接到codepen。 JavaScript中的'this'關鍵詞可以是...",
+      "title": "JavaScript中的 \"this \"是什麼？"
+    }
+  ]
 }
