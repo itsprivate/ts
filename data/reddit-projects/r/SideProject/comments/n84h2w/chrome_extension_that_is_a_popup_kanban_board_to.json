@@ -170,5 +170,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1620527550,
-  "the_new_excerpt": "Hello! I recently created a chrome extension that takes away the hassle of\nswitching between tabs just to update your task progress by implementing a\nKanban board as a pop-up wherever page you are, whenever you need it.\n\n\n\nHere is the chrome store…"
+  "the_new_excerpt": "Hello! I recently created a chrome extension that takes away the hassle of\nswitching between tabs just to update your task progress by implementing a\nKanban board as a pop-up wherever page you are, whenever you need it.\n\n\n\nHere is the chrome store…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "こんにちは。最近、タスクの進捗状況を確認するためにタブを切り替える手間を省くクローム拡張機能を作りました。\nタスクの進捗状況を確認するためにタブを切り替える手間を省くために\nこの拡張機能を使えば、タスクの進捗状況を確認するためにタブを切り替える手間が省けます。\n\n\n\nクロームストアは以下の通りです...",
+      "title": "タスクを管理するための、ポップアップ式のカンバンボードを備えたChrome拡張機能です。いつでも、どんなページでも使えます。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你好! 我最近创建了一个chrome扩展，它通过实现一个标签页之间的切换来更新你的任务进度，从而消除了麻烦。\n切换标签页来更新你的任务进度的麻烦。\n看板作为一个弹出式的页面，无论何时你需要它。\n\n\n\n这里是chrome商店...",
+      "title": "Chrome扩展是一个弹出式看板，用于跟踪你的任务。在任何时候，在任何页面使用。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你好! 我最近創建了一個chrome擴展，它通過實現一個標籤頁之間的切換來更新你的任務進度，從而消除了麻煩。\n切換標籤頁來更新你的任務進度的麻煩。\n看板作爲一個彈出式的頁面，無論何時你需要它。\n\n\n\n這裏是chrome商店...",
+      "title": "Chrome擴展是一個彈出式看板，用於跟蹤你的任務。在任何時候，在任何頁面使用。"
+    }
+  ]
 }
