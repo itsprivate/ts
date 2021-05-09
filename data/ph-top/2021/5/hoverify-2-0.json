@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-09T08:51:32Z"
+  "original_createdAt": "2021-05-09T08:51:32Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Hoverifyは、あなたのウェブ開発の経験を強化し、生産性を高めるためのツール群です。",
+      "tagline": "ウェブ開発のためのオールインワンのブラウザ拡張機能"
+    },
+    {
+      "locale": "zh",
+      "description": "Hoverify是一套工具，用于提高你的网页开发经验和提高你的生产力。",
+      "tagline": "用于网页开发的多合一浏览器扩展"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Hoverify是一套工具，用於提高你的網頁開發經驗和提高你的生產力。",
+      "tagline": "用於網頁開發的多合一瀏覽器擴展"
+    }
+  ]
 }
