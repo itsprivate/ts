@@ -199,5 +199,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Sun May 09 20:16:53 +0000 2021"
+  "original_created_at": "Sun May 09 20:16:53 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "#Bitcoin mempoolがクリアされています。1 sat/Byte手数料の取引が処理されています。ウォレットの再編成に最適なタイミングです。\nhttps://t.co/1XCBrGK7d1 https://t.co/EO4hBUCfbL"
+    },
+    {
+      "locale": "zh",
+      "full_text": "#Bitcoin mempool正在清算。1比特/字节费用的交易正在处理中。钱包重组的好时机!\nhttps://t.co/1XCBrGK7d1 https://t.co/EO4hBUCfbL"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "#Bitcoin mempool正在清算。1比特/字節費用的交易正在處理中。錢包重組的好時機!\nhttps://t.co/1XCBrGK7d1 https://t.co/EO4hBUCfbL"
+    }
+  ]
 }
