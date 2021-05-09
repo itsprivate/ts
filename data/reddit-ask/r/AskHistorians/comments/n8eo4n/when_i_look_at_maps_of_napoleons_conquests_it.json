@@ -101,5 +101,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1620568423,
-  "the_new_excerpt": "This is what I’m referring to.\n[https://upload.wikimedia.org/wikipedia/commons/8/8a/French_Empire_%281812%29.svg]"
+  "the_new_excerpt": "This is what I’m referring to.\n[https://upload.wikimedia.org/wikipedia/commons/8/8a/French_Empire_%281812%29.svg]",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "これを参考にしています。\n[https://upload.wikimedia.org/wikipedia/commons/8/8a/French_Empire_%281812%29.svg]",
+      "title": "ナポレオンが征服した地図を見ると、現在のクロアチアを除いて、ほとんどが彼のためにヨーロッパを運営する傀儡国家のシステムを構築したようです.....、彼は直接運営しました。なぜ？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这就是我所指的内容。\n[https://upload.wikimedia.org/wikipedia/commons/8/8a/French_Empire_%281812%29.svg]",
+      "title": "当我看拿破仑征服的地图时，似乎他大多建立了一个傀儡国家系统，为他管理欧洲，.....，除了现代的克罗地亚，他直接管理。为什么呢？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這就是我所指的內容。\n[https://upload.wikimedia.org/wikipedia/commons/8/8a/French_Empire_%281812%29.svg]",
+      "title": "當我看拿破崙征服的地圖時，似乎他大多建立了一個傀儡國家系統，爲他管理歐洲，.....，除了現代的克羅地亞，他直接管理。爲什麼呢？"
+    }
+  ]
 }
