@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-07T21:53:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GxPQI36_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2exk1gm8b5i4hn2u300u.png",
   "author": "Lex Swed",
-  "author_url": "https://dev.to/lexswed"
+  "author_url": "https://dev.to/lexswed",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "display: flexと何度も書いたことがありますか？あまりにもよくあることなので、displ...を適用しようとした人もいたようです。",
+      "title": "コンポーネント用APIの作成：フレックスボックスレイアウト"
+    },
+    {
+      "locale": "zh",
+      "description": "你写了多少次display: flex？这种情况如此普遍，以至于有些人试着应用位移...",
+      "title": "为组件创建API：Flexbox布局"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你寫了多少次display: flex？這種情況如此普遍，以至於有些人試着應用位移...",
+      "title": "爲組件創建API：Flexbox佈局"
+    }
+  ]
 }
