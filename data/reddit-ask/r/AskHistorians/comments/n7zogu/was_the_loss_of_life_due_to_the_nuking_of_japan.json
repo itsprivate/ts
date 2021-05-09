@@ -101,5 +101,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1620511575,
-  "the_new_excerpt": "Or is that post-war propaganda?"
+  "the_new_excerpt": "Or is that post-war propaganda?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "それとも、戦後のプロパガンダか？",
+      "title": "第二次世界大戦の日本への核攻撃による犠牲者は、実は陸軍の侵攻に比べて保守的だった？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "或者说是战后的宣传？",
+      "title": "与陆上入侵相比，二战中日本被核爆造成的生命损失实际上是保守的吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "或者說是戰後的宣傳？",
+      "title": "與陸上入侵相比，二戰中日本被核爆造成的生命損失實際上是保守的嗎？"
+    }
+  ]
 }
