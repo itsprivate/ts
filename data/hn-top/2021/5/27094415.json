@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-05-09T09:01:04.000Z",
-  "image": "http://www.gnuplot.info/faq/pdf-icon.png"
+  "image": "http://www.gnuplot.info/faq/pdf-icon.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "GnuplotはGNUではない"
+    },
+    {
+      "locale": "zh",
+      "title": "Gnuplot不是GNU"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Gnuplot不是GNU"
+    }
+  ]
 }
