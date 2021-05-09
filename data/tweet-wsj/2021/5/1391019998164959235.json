@@ -113,5 +113,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Sat May 08 13:19:46 +0000 2021"
+  "original_created_at": "Sat May 08 13:19:46 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "Breaking: 米国最大級の燃料パイプラインがサイバー攻撃を受け、すべての業務を停止しました。5,500マイルのシステムは、東海岸にガスとディーゼルを運んでいます。https://t.co/xlvcsJpSiP"
+    },
+    {
+      "locale": "zh",
+      "full_text": "突发事件。一场网络攻击迫使美国最大的燃料管道之一停止了所有业务。这个长达5500英里的系统向东海岸输送天然气和柴油。https://t.co/xlvcsJpSiP"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "突發事件。一場網絡攻擊迫使美國最大的燃料管道之一停止了所有業務。這個長達5500英里的系統向東海岸輸送天然氣和柴油。https://t.co/xlvcsJpSiP"
+    }
+  ]
 }
