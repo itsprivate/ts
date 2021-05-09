@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-07T14:41:55Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--f7AqWPOg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oegypmo24u7if4f5tv29.jpg",
   "author": "Foolish Developer",
-  "author_url": "https://dev.to/code_mystery"
+  "author_url": "https://dev.to/code_mystery",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ここでは、HTML、CSS、javascript、...を使って、レスポンシブなパーソナル・ポートフォリオ・ウェブサイトを作成する方法を学びます。",
+      "title": "HTML、CSS、JavaScriptを使用したレスポンシブ・パーソナル・ポートフォリオ・ウェブサイト"
+    },
+    {
+      "locale": "zh",
+      "description": "在这里，你可以学习如何使用HTML、CSS、javascript创建一个响应式的个人作品集网站。",
+      "title": "使用HTML、CSS和JavaScript的响应式个人组合网站"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這裏，你可以學習如何使用HTML、CSS、javascript創建一個響應式的個人作品集網站。",
+      "title": "使用HTML、CSS和JavaScript的響應式個人組合網站"
+    }
+  ]
 }
