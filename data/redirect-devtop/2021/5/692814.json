@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-09T15:29:12Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4VDh1xQr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wp0lygvxper8vof63u4y.jpeg",
   "author": "Linda",
-  "author_url": "https://dev.to/lindaojo"
+  "author_url": "https://dev.to/lindaojo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "イギリス人はクッキーの代わりにビスケットを使うそうですが・・・変ですね。 よし、集中しよう。 クッキーとは何ですか？",
+      "title": "HTTPクッキーの紹介"
+    },
+    {
+      "locale": "zh",
+      "description": "我听说英国人用饼干而不是曲奇......奇怪。 好吧，让我们集中精力。 什么是曲奇饼...",
+      "title": "HTTP Cookies简介"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我聽說英國人用餅乾而不是曲奇......奇怪。 好吧，讓我們集中精力。 什麼是曲奇餅...",
+      "title": "HTTP Cookies簡介"
+    }
+  ]
 }
