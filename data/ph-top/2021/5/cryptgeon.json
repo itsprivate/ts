@@ -82,5 +82,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-08T10:05:15Z"
+  "original_createdAt": "2021-05-08T10:05:15Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Cryptgeonは、高速で安全なオープンソースの自己破壊型ノート共有サービスです。PrivNoteにインスパイアされ、rustとsvelteが搭載されています。",
+      "tagline": "自爆したノートを安全に共有"
+    },
+    {
+      "locale": "zh",
+      "description": "Cryptgeon是一个快速、安全、开源的自毁式笔记分享服务。灵感来自于PrivNote，由Rust和svelte提供。",
+      "tagline": "安全地分享自毁的笔记"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Cryptgeon是一個快速、安全、開源的自毀式筆記分享服務。靈感來自於PrivNote，由Rust和svelte提供。",
+      "tagline": "安全地分享自毀的筆記"
+    }
+  ]
 }
