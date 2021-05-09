@@ -43,5 +43,22 @@
   "original_created_at": "2021-05-08T14:38:36Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WXxyIIbU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/admin-dashboards/berry-free-react-admin-template/main/media/react-dashboard-berry-screen.png",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CodedThemes社がMaterial UIデザインを用いて作成したオープンソースのReactダッシュボードテンプレートです（製品はGithubからダウンロードできます）。",
+      "title": "Berry - オープンソースのReactダッシュボードテンプレート"
+    },
+    {
+      "locale": "zh",
+      "description": "CodedThemes使用Material UI设计精心制作的开源React仪表盘模板--产品可以从Github下载。",
+      "title": "Berry - 开源的React仪表板模板"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "CodedThemes使用Material UI設計精心製作的開源React儀表盤模板--產品可以從Github下載。",
+      "title": "Berry - 開源的React儀表板模板"
+    }
+  ]
 }
