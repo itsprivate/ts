@@ -184,5 +184,22 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Sun May 09 13:39:57 +0000 2021"
+  "original_created_at": "Sun May 09 13:39:57 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @finkd: 良い一日だった。",
+      "retweeted_status_full_text": "いい日だ。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @finkd: 一个好日子。",
+      "retweeted_status_full_text": "一个好日子。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @finkd: 一個好日子。",
+      "retweeted_status_full_text": "一個好日子。"
+    }
+  ]
 }
