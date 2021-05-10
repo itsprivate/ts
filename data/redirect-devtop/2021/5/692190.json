@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-08T19:43:12Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5_UWYkcy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yqr8b1b561lajn63lw6l.png",
   "author": "Ahmed Nader Mohamed",
-  "author_url": "https://dev.to/ahmednader10"
+  "author_url": "https://dev.to/ahmednader10",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Kubernetes(k8s)は、コンテナオーケストレーションだけでなく、クラ...",
+      "title": "5分でわかるゼロからのKubernetes"
+    },
+    {
+      "locale": "zh",
+      "description": "Kubernetes(k8s)已经成为事实上的标准，不仅适用于容器协调，也适用于克隆。",
+      "title": "5分钟内从零到Kubernetes"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Kubernetes(k8s)已經成爲事實上的標準，不僅適用於容器協調，也適用於克隆。",
+      "title": "5分鐘內從零到Kubernetes"
+    }
+  ]
 }
