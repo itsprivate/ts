@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-08T18:27:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jrUL9Qno--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bne9v7qj14kseofqmoww.jpg",
   "author": "Kumar Prince",
-  "author_url": "https://dev.to/princekr700"
+  "author_url": "https://dev.to/princekr700",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは！今回が初めてのブログです。今回のブログでは、Spread Operator, Rest Ope...についてお話します。",
+      "title": "スプレッド演算子、レスト演算子、JSのデストラクション"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，这是我的第一个博客。在这篇博客中，我将谈一谈价差操作者，休息操作者。",
+      "title": "JS中的扩展运算符、休息运算符和解构器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，這是我的第一個博客。在這篇博客中，我將談一談價差操作者，休息操作者。",
+      "title": "JS中的擴展運算符、休息運算符和解構器"
+    }
+  ]
 }
