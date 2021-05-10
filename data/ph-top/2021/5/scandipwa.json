@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-10T07:26:22Z"
+  "original_createdAt": "2021-05-10T07:26:22Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "PWAテクノロジーは、ウェブサイトのスピードを飛躍的に向上させます。ScandiPWAは、完全にカスタマイズ可能な高速UXエクスペリエンスと豊富な機能サポートを備えた無料のPWA eコマースフロントエンドです! 🤩 🤩 🤩 Magento、Shopify、Shopwareでご利用いただけます。",
+      "tagline": "React PWAでEコマースストアの体験を向上させる"
+    },
+    {
+      "locale": "zh",
+      "description": "PWA技术极大地提高了网站的速度。ScandiPWA是一个免费的PWA电子商务前端，具有完全可定制的快速用户体验和丰富的功能支持! 🤩 🤩 🤩 可用于Magento, Shopify和Shopware。",
+      "tagline": "用React PWA来改善你的电子商务商店体验"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "PWA技術極大地提高了網站的速度。ScandiPWA是一個免費的PWA電子商務前端，具有完全可定製的快速用戶體驗和豐富的功能支持! 🤩 🤩 🤩 可用於Magento, Shopify和Shopware。",
+      "tagline": "用React PWA來改善你的電子商務商店體驗"
+    }
+  ]
 }
