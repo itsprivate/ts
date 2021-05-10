@@ -41,5 +41,22 @@
   "original_created_at": "2021-05-08T21:02:29Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--h5YVggu1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9hazlc2hydp5ejq0c1yf.jpg",
   "author": "Muhammad Ovi",
-  "author_url": "https://dev.to/ovi"
+  "author_url": "https://dev.to/ovi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今回は、生産性の向上やコードのデバッグに役立つ、本当に役に立つワンライナー（20＋ボーナス）をご紹介します。",
+      "title": "プロのようなコーディングを可能にする20のJavaScriptワンライナー"
+    },
+    {
+      "locale": "zh",
+      "description": "我将介绍一些真正有帮助的单句（20+Bonus），这些单句可以帮助你提高工作效率，并可以帮助调试代码。",
+      "title": "20个JavaScript单行线将帮助你像专业人士一样编码"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我將介紹一些真正有幫助的單句（20+Bonus），這些單句可以幫助你提高工作效率，並可以幫助調試代碼。",
+      "title": "20個JavaScript單行線將幫助你像專業人士一樣編碼"
+    }
+  ]
 }
