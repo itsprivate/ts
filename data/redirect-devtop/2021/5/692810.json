@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-09T15:16:54Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--viIC8XlX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/en5e7lrxwx13nk7ak0fw.jpg",
   "author": "Stackfindover",
-  "author_url": "https://dev.to/stackfindover"
+  "author_url": "https://dev.to/stackfindover",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Hello, guys このチュートリアルでは、前述の質問を解決しようとします。また、どのようにして...",
+      "title": "ドットローディングアニメーションの作り方"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，伙计们 在本教程中，我们将尝试解决所提到的问题。同时，我们也将学习如何将这些问题解决。",
+      "title": "如何创建一个点加载动画"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，夥計們 在本教程中，我們將嘗試解決所提到的問題。同時，我們也將學習如何將這些問題解決。",
+      "title": "如何創建一個點加載動畫"
+    }
+  ]
 }
