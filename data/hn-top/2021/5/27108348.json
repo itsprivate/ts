@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-05-10T17:15:13.000Z",
-  "image": "https://www.dragonflybsd.org/images/small_logo.png"
+  "image": "https://www.dragonflybsd.org/images/small_logo.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "DragonflyBSD 6.0"
+    },
+    {
+      "locale": "zh",
+      "title": "DragonflyBSD 6.0"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "DragonflyBSD 6.0"
+    }
+  ]
 }
