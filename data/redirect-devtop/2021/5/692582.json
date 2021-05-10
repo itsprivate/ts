@@ -50,5 +50,22 @@
   "original_created_at": "2021-05-09T08:30:22Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0erxXO1U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dvars25l78hn7hlz0gke.png",
   "author": "Jordi Enric",
-  "author_url": "https://dev.to/jordienr"
+  "author_url": "https://dev.to/jordienr",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "VSCode これらの拡張機能を使用しています。          Utilities Auto Close Tag: 自動的にHT...を追加します。",
+      "title": "シニア・フロントエンド・エンジニアとして毎日使っているもの"
+    },
+    {
+      "locale": "zh",
+      "description": "VSCode 我使用这些扩展。          实用工具 自动关闭标签。自动添加HT...",
+      "title": "作为一名高级前端工程师，我每天都在使用的东西"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "VSCode 我使用這些擴展。          實用工具 自動關閉標籤。自動添加HT...",
+      "title": "作爲一名高級前端工程師，我每天都在使用的東西"
+    }
+  ]
 }

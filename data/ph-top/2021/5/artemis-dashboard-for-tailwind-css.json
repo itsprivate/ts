@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-10T07:03:24Z"
+  "original_createdAt": "2021-05-10T07:03:24Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Artemis Dashboard for Tailwind CSSは、Shuffle Editorのための新しいUIライブラリです。ダッシュボードを数分で視覚的に作成することができます！ https://shuffle.dev/marketplace/artemis",
+      "tagline": "Shuffleチームによる忙しい開発者のための新しいUIライブラリ"
+    },
+    {
+      "locale": "zh",
+      "description": "Artemis Dashboard for Tailwind CSS是Shuffle Editor的新UI库。在几分钟内开始可视化地创建仪表板！https://shuffle.dev/marketplace/artemis",
+      "tagline": "由Shuffle团队为繁忙的开发者提供的新UI库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Artemis Dashboard for Tailwind CSS是Shuffle Editor的新UI庫。在幾分鐘內開始可視化地創建儀表板！https://shuffle.dev/marketplace/artemis",
+      "tagline": "由Shuffle團隊爲繁忙的開發者提供的新UI庫"
+    }
+  ]
 }
