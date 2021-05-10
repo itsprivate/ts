@@ -50,5 +50,22 @@
   "original_created_at": "2021-05-07T07:59:18Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WBvWd8EW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://img.freepik.com/free-vector/man-working-fall-concept-illustration_203587-53.jpg%3Fsize%3D626%26ext%3Djpg",
   "author": "Madza",
-  "author_url": "https://dev.to/madza"
+  "author_url": "https://dev.to/madza",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "多くの開発者は、休息や家族との時間も仕事と同じくらい重要だと厳しく考えており、週末になると...。",
+      "title": "週末にコーディングをすることはありますか？"
+    },
+    {
+      "locale": "zh",
+      "description": "许多开发人员严格认为，休息和家庭时间与工作同等重要，让周末...",
+      "title": "你会在周末编码吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "許多開發人員嚴格認爲，休息和家庭時間與工作同等重要，讓週末...",
+      "title": "你會在週末編碼嗎？"
+    }
+  ]
 }
