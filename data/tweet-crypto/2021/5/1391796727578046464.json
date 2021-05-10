@@ -229,5 +229,22 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Mon May 10 16:46:12 +0000 2021"
+  "original_created_at": "Mon May 10 16:46:12 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @RussellOkung: どうやら@TomBradyが転機になったようです。\n\n多くのアスリートがビットコインや暗号について私に尋ねてきます。",
+      "retweeted_status_full_text": "どうやら@TomBradyが転換点のようです。\n\n多くのアスリートがBitcoinやcryptoについて私に尋ねてくるので、私は毎日電話をしています。\n\n私はこの仕事が大好きですが、自動化するためのより良い方法を見つける必要があります。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @RussellOkung: 看起来@TomBrady是一个转折点。\n\n这么多的运动员在打我关于比特币和加密货币的电话，我每天都在做电话。",
+      "retweeted_status_full_text": "看上去@TomBrady是个转折点。\n\n这么多运动员在打我关于比特币和加密货币的电话，我每天都在做电话。\n\n我喜欢它，但我需要找到一个更好的方法来实现自动化。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @RussellOkung: 看起來@TomBrady是一個轉折點。\n\n這麼多的運動員在打我關於比特幣和加密貨幣的電話，我每天都在做電話。",
+      "retweeted_status_full_text": "看上去@TomBrady是個轉折點。\n\n這麼多運動員在打我關於比特幣和加密貨幣的電話，我每天都在做電話。\n\n我喜歡它，但我需要找到一個更好的方法來實現自動化。"
+    }
+  ]
 }
