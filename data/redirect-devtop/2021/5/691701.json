@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-08T07:53:34Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Os8RKyMS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/65a0b5combii7n97nw3s.png",
   "author": "daltonfury42",
-  "author_url": "https://dev.to/daltonfury42"
+  "author_url": "https://dev.to/daltonfury42",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Hii...立ち寄ってくれてありがとう。この記事に書かれていること   dockerとは何か？それは何を解決するのか？...",
+      "title": "開発者の生産性を高めるために、初心者がDockerを使い始めるための2つの方法"
+    },
+    {
+      "locale": "zh",
+      "description": "嗨......谢谢你的光临。在这篇文章中你会发现。  什么是docker？它能解决什么问题？",
+      "title": "初学者开始使用Docker以提高开发者生产力的两种方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嗨......謝謝你的光臨。在這篇文章中你會發現。  什麼是docker？它能解決什麼問題？",
+      "title": "初學者開始使用Docker以提高開發者生產力的兩種方法"
+    }
+  ]
 }
