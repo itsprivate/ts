@@ -38,5 +38,19 @@
     }
   },
   "original_created_at": "2021-05-10T15:53:54.000Z",
-  "image": "https://img.shields.io/pypi/v/django-sql-dashboard.svg"
+  "image": "https://img.shields.io/pypi/v/django-sql-dashboard.svg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "HNを表示：Django SQL Dashboard"
+    },
+    {
+      "locale": "zh",
+      "title": "显示HN：Django SQL仪表板"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "顯示HN：Django SQL儀表板"
+    }
+  ]
 }

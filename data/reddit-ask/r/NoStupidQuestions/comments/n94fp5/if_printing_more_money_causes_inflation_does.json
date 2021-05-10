@@ -107,5 +107,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1620653291,
-  "the_new_excerpt": "Deflation*"
+  "the_new_excerpt": "Deflation*",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "デフレ脱却",
+      "title": "お金を増刷するとインフレになるなら、お金を燃やすと逆にインフレになるのでは？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "通货紧缩*",
+      "title": "如果印更多的钱会导致通货膨胀，那么烧钱是否会导致反向通货膨胀？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "通貨緊縮*",
+      "title": "如果印更多的錢會導致通貨膨脹，那麼燒錢是否會導致反向通貨膨脹？"
+    }
+  ]
 }
