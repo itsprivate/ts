@@ -52,5 +52,22 @@
   "original_created_at": "2021-04-24T10:16:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Ns5FrL_w--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yfvmz4xrj4yljcc4wtzo.jpg",
   "author": "Ryan Carniato",
-  "author_url": "https://dev.to/ryansolid"
+  "author_url": "https://dev.to/ryansolid",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "数年前に「UIコンポーネントの本当のコスト」で、Jav...のコンポーネントのコストを探ったことがあります。",
+      "title": "コンポーネントは純粋なオーバーヘッド"
+    },
+    {
+      "locale": "zh",
+      "description": "几年前，在《UI组件的真实成本》中，我探讨了Jav.com中的组件成本。",
+      "title": "组件是纯粹的开销"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "幾年前，在《UI組件的真實成本》中，我探討了Jav.com中的組件成本。",
+      "title": "組件是純粹的開銷"
+    }
+  ]
 }
