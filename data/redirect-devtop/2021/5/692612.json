@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-09T09:16:07Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yuwRsLQi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jvivgru9nliact3sgmx8.png",
   "author": "Adrian Twarog",
-  "author_url": "https://dev.to/adriantwarog"
+  "author_url": "https://dev.to/adriantwarog",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私のコーディング歴は長く、10年以上になります。その間、JavaScriptやH...",
+      "title": "10年間の開発で学んだこと"
+    },
+    {
+      "locale": "zh",
+      "description": "我从事编码工作已经很长时间了，超过10年 在所有这些网站开发的JavaScript，H...",
+      "title": "经过10年的发展，我学到了什么"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我從事編碼工作已經很長時間了，超過10年 在所有這些網站開發的JavaScript，H...",
+      "title": "經過10年的發展，我學到了什麼"
+    }
+  ]
 }
