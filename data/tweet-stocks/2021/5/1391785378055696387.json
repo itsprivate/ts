@@ -92,5 +92,19 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Mon May 10 16:01:06 +0000 2021"
+  "original_created_at": "Mon May 10 16:01:06 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "家を売るかどうかの冷やかしの電話があっただけです。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "我刚刚接到一个冷淡的电话，问我是否要出售我的房子。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "我剛剛接到一個冷淡的電話，問我是否要出售我的房子。"
+    }
+  ]
 }

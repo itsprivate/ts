@@ -43,5 +43,22 @@
   "original_created_at": "2021-05-10T10:55:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zRt9NmDT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://www.admin-dashboards.com/content/images/2021/05/image.png",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Creative-Timが制作し、無料で公開しているオープンソース製品のキュレーションリスト：Reactのダッシュボード、Vueのテンプレート、NextJSのUIキット。",
+      "title": "Creative-Tim - オープンソース製品"
+    },
+    {
+      "locale": "zh",
+      "description": "一个由Creative-Tim精心制作并免费发布的开源产品列表：React仪表盘、Vue模板和NextJS UI工具包。",
+      "title": "Creative-Tim - 开源产品"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個由Creative-Tim精心製作並免費發佈的開源產品列表：React儀表盤、Vue模板和NextJS UI工具包。",
+      "title": "Creative-Tim - 開源產品"
+    }
+  ]
 }
