@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-08T15:39:50Z",
   "image": "https://dev.to/social_previews/article/692080.png",
   "author": "Benoît Rouleau",
-  "author_url": "https://dev.to/benface"
+  "author_url": "https://dev.to/benface",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "免責事項：この記事はTailwind CSSの私のバージョンです。複雑さを増し、何もしない。私が尊敬するのは...",
+      "title": "Tailwind CSSはあなたに合わないかもしれません。"
+    },
+    {
+      "locale": "zh",
+      "description": "免责声明：本文是我对Tailwind CSS的版本。增加复杂性，无所作为。我尊重...",
+      "title": "Tailwind CSS可能不适合你"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "免責聲明：本文是我對Tailwind CSS的版本。增加複雜性，無所作爲。我尊重...",
+      "title": "Tailwind CSS可能不適合你"
+    }
+  ]
 }
