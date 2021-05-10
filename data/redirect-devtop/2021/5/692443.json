@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-09T03:11:44Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7D_eotFn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a6vyicauqx22u7smupu9.png",
   "author": "Ben Fox",
-  "author_url": "https://dev.to/benjaminwfox"
+  "author_url": "https://dev.to/benjaminwfox",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "アトミック・デザイン・メスを中心としたコンポーネント・ベースのサイトやアプリを開発するための実践的なガイドです...",
+      "title": "開発者のためのアトミックデザイン。コンポーネントの構成と組織の改善"
+    },
+    {
+      "locale": "zh",
+      "description": "围绕原子设计方法开发基于组件的网站和应用程序的实用指南...",
+      "title": "开发人员的原子设计。更好的组件组成和组织"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "圍繞原子設計方法開發基於組件的網站和應用程序的實用指南...",
+      "title": "開發人員的原子設計。更好的組件組成和組織"
+    }
+  ]
 }
