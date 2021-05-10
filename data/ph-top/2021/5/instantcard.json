@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-10T07:01:04Z"
+  "original_createdAt": "2021-05-10T07:01:04Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "https://instantcard.co.uk/、記事からInstagramでの共有に最適な画像を生成します。シェアしたいウェブサイトのURLを入力するだけで、InstantCardが画像を作成してくれるので、自分の好みに合わせて調整し、ダウンロードして投稿することができます。",
+      "tagline": "記事をInstagramの画像にする"
+    },
+    {
+      "locale": "zh",
+      "description": "https://instantcard.co.uk/，从文章中生成图片，非常适合在Instagram上分享。只需输入你想分享的网站的URL，InstantCard就会创建一个图片，你可以调整到你满意的程度，下载，然后发布",
+      "tagline": "把你的文章变成Instagram图片"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "https://instantcard.co.uk/，從文章中生成圖片，非常適合在Instagram上分享。只需輸入你想分享的網站的URL，InstantCard就會創建一個圖片，你可以調整到你滿意的程度，下載，然後發佈",
+      "tagline": "把你的文章變成Instagram圖片"
+    }
+  ]
 }
