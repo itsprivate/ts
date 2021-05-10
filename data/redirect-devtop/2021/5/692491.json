@@ -41,5 +41,22 @@
   "original_created_at": "2021-05-09T05:31:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZS6qnf3c--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h5j7kxcepqre4c893oii.png",
   "author": "Ananta Bastola",
-  "author_url": "https://dev.to/ananta"
+  "author_url": "https://dev.to/ananta",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "注：この記事での「タイプ」とは、Typescriptの「タイプ」エイリアスのことです。",
+      "title": "タイプスクリプトにおける型とインターフェイス"
+    },
+    {
+      "locale": "zh",
+      "description": "注意：本文中的 \"类型 \"指的是Typescript中的 \"类型 \"别名 根据...",
+      "title": "类型与接口在Typescript中的关系"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "注意：本文中的 \"類型 \"指的是Typescript中的 \"類型 \"別名 根據...",
+      "title": "類型與接口在Typescript中的關係"
+    }
+  ]
 }
