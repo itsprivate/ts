@@ -43,5 +43,22 @@
   "original_created_at": "2021-05-09T06:28:32Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NZzWXJC8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2um2morad3la94xo9xjd.png",
   "author": "Deepansh Bhargava",
-  "author_url": "https://dev.to/deepansh946"
+  "author_url": "https://dev.to/deepansh946",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Promiseは、非同期操作の状態を表します。この非同期の操作は、任意の...",
+      "title": "Javascriptでの約束"
+    },
+    {
+      "locale": "zh",
+      "description": "Promise代表一个异步操作的状态。这个异步操作可以是任何东西。",
+      "title": "Javascript中的承诺"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Promise代表一個異步操作的狀態。這個異步操作可以是任何東西。",
+      "title": "Javascript中的承諾"
+    }
+  ]
 }
