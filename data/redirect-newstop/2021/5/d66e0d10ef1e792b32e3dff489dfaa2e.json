@@ -14,5 +14,19 @@
   "tags": [
     "CNN "
   ],
-  "image": "https://cdn.cnn.com/cnnnext/dam/assets/210510133740-us-map-cdc-covid-vaccines-adults-super-tease.jpg"
+  "image": "https://cdn.cnn.com/cnnnext/dam/assets/210510133740-us-map-cdc-covid-vaccines-adults-super-tease.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ワクチン接種率の高い州と低い州は以下の通りです。"
+    },
+    {
+      "locale": "zh",
+      "title": "这些是疫苗接种率最高和最低的州"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這些是疫苗接種率最高和最低的州"
+    }
+  ]
 }
