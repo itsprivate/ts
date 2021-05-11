@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-11T07:01:00Z"
+  "original_createdAt": "2021-05-11T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あなたのJoonbotを数秒であなたのionページに埋め込みます。お得なPHキャンペーンを実施しています。月間プランはPHM50A&nbsp;、年間プランはPHA50A&nbsp;となります。5月31日までの期間限定です。",
+      "tagline": "Notionのページにチャットボットを埋め込む"
+    },
+    {
+      "locale": "zh",
+      "description": "在几秒钟内将您的Joonbot嵌入您的概念页面。享受我们的PH特别优惠。所有计划一年内享受50%的折扣💸 PHM50A&nbsp;为&nbsp;月度&nbsp;计划|PHA50A&nbsp;为&nbsp;年度&nbsp;计划。可用至5月31日。",
+      "tagline": "在您的Notion页面中嵌入一个聊天机器人"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在幾秒鐘內將您的Joonbot嵌入您的概念頁面。享受我們的PH特別優惠。所有計劃一年內享受50%的折扣💸 PHM50A&nbsp;爲&nbsp;月度&nbsp;計劃|PHA50A&nbsp;爲&nbsp;年度&nbsp;計劃。可用至5月31日。",
+      "tagline": "在您的Notion頁面中嵌入一個聊天機器人"
+    }
+  ]
 }
