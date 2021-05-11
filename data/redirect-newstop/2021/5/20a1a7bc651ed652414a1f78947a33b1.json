@@ -14,5 +14,19 @@
   "tags": [
     "Fox News"
   ],
-  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/CDC_resized.jpg"
+  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/CDC_resized.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "CDCはインドのコロナウイルスの変異体を「注意深く監視」しているが、まだ「懸念すべき変異体」ではない。"
+    },
+    {
+      "locale": "zh",
+      "title": "疾病预防控制中心 \"密切监测 \"印度冠状病毒变体，尚不属于 \"令人担忧的变体"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "疾病預防控制中心 \"密切監測 \"印度冠狀病毒變體，尚不屬於 \"令人擔憂的變體"
+    }
+  ]
 }
