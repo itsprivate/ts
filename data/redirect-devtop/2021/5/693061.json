@@ -48,5 +48,22 @@
   "original_created_at": "2021-05-09T22:30:48Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EqjDy6Av--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ik5jmklr8nni5m5rmspc.jpg",
   "author": "Nabil Tharwat",
-  "author_url": "https://dev.to/kl13nt"
+  "author_url": "https://dev.to/kl13nt",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コードを学ぶことは一筋縄ではいきませんが、これらのヒントのおかげで、私はコードを上手に書けるようになりました。願わくば、最後には...",
+      "title": "メンターなしで苦労していた私がコードを習得するのに役立ったこと"
+    },
+    {
+      "locale": "zh",
+      "description": "学习编码不是一条直路，这些提示帮助我在这方面做得更好。希望到最后...",
+      "title": "我在没有导师的情况下苦苦挣扎，这些东西帮助我学习编程"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "學習編碼不是一條直路，這些提示幫助我在這方面做得更好。希望到最後...",
+      "title": "我在沒有導師的情況下苦苦掙扎，這些東西幫助我學習編程"
+    }
+  ]
 }
