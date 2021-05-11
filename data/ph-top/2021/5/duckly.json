@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-11T07:05:00Z"
+  "original_createdAt": "2021-05-11T07:05:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Ducklyは、あらゆるウェブサイト、ローカルホスト、IDE、あるいはターミナル・セッションにおいて、Figmaのようなエクスペリエンスで、チームがリアルタイムに会話やコラボレーションを行うことを可能にします。",
+      "tagline": "Figmaのような操作感で、どのページでもコラボレートできる"
+    },
+    {
+      "locale": "zh",
+      "description": "Duckly使团队能够在任何网站、本地主机、IDE、甚至终端会话中以类似Figma的体验进行实时对话和协作。",
+      "tagline": "以类似Figma的体验在任何页面上进行协作"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Duckly使團隊能夠在任何網站、本地主機、IDE、甚至終端會話中以類似Figma的體驗進行實時對話和協作。",
+      "tagline": "以類似Figma的體驗在任何頁面上進行協作"
+    }
+  ]
 }
