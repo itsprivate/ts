@@ -14,5 +14,19 @@
   "tags": [
     "The New York Times"
   ],
-  "image": "https://static01.nyt.com/images/2021/04/28/world/00china-census-hfo-sub/00china-census-hfo-sub-facebookJumbo.jpg"
+  "image": "https://static01.nyt.com/images/2021/04/28/world/00china-census-hfo-sub/00china-census-hfo-sub-facebookJumbo.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "中国の国勢調査によると、出生数が減少したため、人口は10年間でほとんど増加していないことが判明"
+    },
+    {
+      "locale": "zh",
+      "title": "中国的人口普查显示人口在10年内几乎没有增长，因为出生率急剧下降"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "中國的人口普查顯示人口在10年內幾乎沒有增長，因爲出生率急劇下降"
+    }
+  ]
 }
