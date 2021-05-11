@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-05-11T00:03:32.000Z",
-  "image": "http://atlasengineering.io/img/logo.png"
+  "image": "http://atlasengineering.io/img/logo.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "アトラス、より優れたエンジニアリングIDE"
+    },
+    {
+      "locale": "zh",
+      "title": "Atlas，一个（希望是）更好的工程IDE"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Atlas，一個（希望是）更好的工程IDE"
+    }
+  ]
 }
