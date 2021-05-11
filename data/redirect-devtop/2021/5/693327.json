@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-10T06:08:55Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sKkNSsbU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hrzwruotchx38h80bfjx.jpg",
   "author": "Alex Devero",
-  "author_url": "https://dev.to/alexdevero"
+  "author_url": "https://dev.to/alexdevero",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ReactのuseRefフックは、コンポーネント内に可変型の変数を作成する必要がある場合に役立ちます。",
+      "title": "ReactsのuseRefフック。その内容と使用方法"
+    },
+    {
+      "locale": "zh",
+      "description": "当你需要在你的组件中创建易变的变量时，React的useRef钩子会有帮助。",
+      "title": "Reacts useRef Hook。它是什么以及如何使用它"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當你需要在你的組件中創建易變的變量時，React的useRef鉤子會有幫助。",
+      "title": "Reacts useRef Hook。它是什麼以及如何使用它"
+    }
+  ]
 }
