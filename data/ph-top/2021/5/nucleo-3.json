@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-11T07:15:10Z"
+  "original_createdAt": "2021-05-11T07:15:10Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Nucleoは、MacとWindowsに対応した無料のアイコンマネージャーです。すべてのアイコンをインポート、整理、エクスポートすることができます。オプションとして、アプリとシームレスに動作する3万個のアイコンのライブラリであるNucleoアイコンを購入することができます。",
+      "tagline": "MacとWindows用のアイコンマネージャー"
+    },
+    {
+      "locale": "zh",
+      "description": "Nucleo是一个适用于Mac和Windows的免费图标管理器。用它来导入、组织和导出你所有的图标。你可以选择购买Nucleo图标，这是一个由3万个图标组成的库，可与该应用程序无缝连接。",
+      "tagline": "用于Mac和Windows的图标管理器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Nucleo是一個適用於Mac和Windows的免費圖標管理器。用它來導入、組織和導出你所有的圖標。你可以選擇購買Nucleo圖標，這是一個由3萬個圖標組成的庫，可與該應用程序無縫連接。",
+      "tagline": "用於Mac和Windows的圖標管理器"
+    }
+  ]
 }
