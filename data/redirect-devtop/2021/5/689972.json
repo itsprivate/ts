@@ -52,5 +52,22 @@
   "original_created_at": "2021-05-06T16:47:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MBk-Bv6H--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9vqeo2zmkrtuxiufrbio.png",
   "author": "Damir Drempetić",
-  "author_url": "https://dev.to/ddrempe"
+  "author_url": "https://dev.to/ddrempe",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "アプリのスタイルを決めるために数多くのオプションの中から選択することは、それ自体がプロジェクトになることもあります。🤯 私はこれまでに...",
+      "title": "JSSを使ってフロントエンドをエンジニアリング風味にする"
+    },
+    {
+      "locale": "zh",
+      "description": "在众多的选项中选择你的应用程序的风格，这本身就是一个项目。🤯 我已经为自己的应用程序选择了很多选项。",
+      "title": "通过使用JSS使你的前端具有工程的味道"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在衆多的選項中選擇你的應用程序的風格，這本身就是一個項目。🤯 我已經爲自己的應用程序選擇了很多選項。",
+      "title": "通過使用JSS使你的前端具有工程的味道"
+    }
+  ]
 }
