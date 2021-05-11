@@ -50,5 +50,22 @@
   "original_created_at": "2021-05-09T23:10:27Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XXOdK08a--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ig965tvt1pbsf85rw7kx.jpg",
   "author": "Amelia Vieira Rosado",
-  "author_url": "https://dev.to/technoglot"
+  "author_url": "https://dev.to/technoglot",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Photo by Matt Botsford on Unsplash Disclaimer 🚨: 誤解を招くようなタイトルになってしまいましたが、私はこの記事を書いています。",
+      "title": "DEVコミュニティでの検閲について😶🤐。"
+    },
+    {
+      "locale": "zh",
+      "description": "照片：Matt Botsford on Unsplash 免责声明 🚨。不，尽管我的诗的标题可能有误导性。",
+      "title": "对DEV社区的审查 😶🤐"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "照片：Matt Botsford on Unsplash 免責聲明 🚨。不，儘管我的詩的標題可能有誤導性。",
+      "title": "對DEV社區的審查 😶🤐"
+    }
+  ]
 }
