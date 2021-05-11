@@ -108,5 +108,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-11T07:01:00Z"
+  "original_createdAt": "2021-05-11T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "React UI Kitは、美しく堅牢な要素の膨大なコレクションで開発をスピードアップします。- オープンソース＆MITライセンス - Bootstrap 5 - Material Design 2.0 - アップデートされたガイドライン! - 超シンプルなインストール - PHコミュニティのためのPROバージョン割引",
+      "tagline": "Bootstrap 5とReact 17のための700以上のUIコンポーネントとテンプレート"
+    },
+    {
+      "locale": "zh",
+      "description": "React UI Kit通过一个巨大的美丽和强大的元素集合加速了开发。- 开源和MIT许可 - Bootstrap 5 - Material Design 2.0 - 更新指南! - 超级简单的安装 - 为PH社区提供专业版本的折扣",
+      "tagline": "700多个用于Bootstrap 5和React 17的UI组件和模板"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "React UI Kit通過一個巨大的美麗和強大的元素集合加速了開發。- 開源和MIT許可 - Bootstrap 5 - Material Design 2.0 - 更新指南! - 超級簡單的安裝 - 爲PH社區提供專業版本的折扣",
+      "tagline": "700多個用於Bootstrap 5和React 17的UI組件和模板"
+    }
+  ]
 }
