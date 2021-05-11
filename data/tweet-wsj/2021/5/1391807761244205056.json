@@ -144,5 +144,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Mon May 10 17:30:03 +0000 2021"
+  "original_created_at": "Mon May 10 17:30:03 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "@WSJopinionより。特許破棄はワクチン不足の解消にはならず、世界的な合意をより困難にする可能性があると、@llborioと@ScottGottliebMDが書いている。https://t.co/HiApKhmkni"
+    },
+    {
+      "locale": "zh",
+      "full_text": "来自@WSJopinion。突破专利并不能解决眼前的疫苗短缺问题，而且可能会使全球协议变得更加困难，@llborio和@ScottGottliebMDhttps://t.co/HiApKhmkni。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "來自@WSJopinion。突破專利並不能解決眼前的疫苗短缺問題，而且可能會使全球協議變得更加困難，@llborio和@ScottGottliebMDhttps://t.co/HiApKhmkni。"
+    }
+  ]
 }
