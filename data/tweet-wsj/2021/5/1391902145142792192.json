@@ -134,5 +134,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Mon May 10 23:45:06 +0000 2021"
+  "original_created_at": "Mon May 10 23:45:06 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "@WSJopinionより。全米科学アカデミーは、より多くのバイアスを明示的に導入することでバイアスと戦っている、と@LKrauss1が書いています https://t.co/GSIW9EOsKV"
+    },
+    {
+      "locale": "zh",
+      "full_text": "来自@WSJopinion。美国国家科学院通过明确引入更多的偏见来对抗偏见，@LKrauss1写道 https://t.co/GSIW9EOsKV"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "來自@WSJopinion。美國國家科學院通過明確引入更多的偏見來對抗偏見，@LKrauss1寫道 https://t.co/GSIW9EOsKV"
+    }
+  ]
 }
