@@ -4,6 +4,7 @@ on:
       - https://www.reddit.com/r/stocks/top/
       - https://www.reddit.com/r/investing/top/
       - https://www.reddit.com/r/wallstreetbets/top/
+      - https://www.reddit.com/r/Bogleheads/top/
     # url: https://www.reddit.com/r/all/top/
     source: json
     config:
@@ -16,6 +17,9 @@ on:
           return false
         }
         if(item.score>40){
+          return true
+        }
+        if(item.subreddit ==='Bogleheads' && item.score>15){
           return true
         }
 
