@@ -113,5 +113,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Tue May 11 00:00:16 +0000 2021"
+  "original_created_at": "Tue May 11 00:00:16 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "小児科医によると、パンデミックが始まって以来、多くの患者が直接来院しているため、子供や青年の体重が驚くほど増加しているとのことです。https://t.co/iPswXKuLJ2"
+    },
+    {
+      "locale": "zh",
+      "full_text": "儿科医生说，他们看到儿童和青少年的体重增加得令人震惊，因为许多人自大流行病开始以来首次返回亲自就诊，https://t.co/iPswXKuLJ2。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "兒科醫生說，他們看到兒童和青少年的體重增加得令人震驚，因爲許多人自大流行病開始以來首次返回親自就診，https://t.co/iPswXKuLJ2。"
+    }
+  ]
 }
