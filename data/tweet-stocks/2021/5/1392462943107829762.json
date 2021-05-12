@@ -111,5 +111,19 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Wed May 12 12:53:31 +0000 2021"
+  "original_created_at": "Wed May 12 12:53:31 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "今日のセーフワードは\n\nTransitory"
+    },
+    {
+      "locale": "zh",
+      "full_text": "今天的安全词是。\n\n过渡性"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "今天的安全詞是。\n\n過渡性"
+    }
+  ]
 }
