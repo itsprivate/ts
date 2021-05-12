@@ -14,5 +14,19 @@
   "tags": [
     "The Wall Street Journal"
   ],
-  "image": "https://images.wsj.net/im-337013/social"
+  "image": "https://images.wsj.net/im-337013/social",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Covid-19の初期対応に関する調査で、WHOは中国に遅れをとったが、中国は助かった。"
+    },
+    {
+      "locale": "zh",
+      "title": "对早期Covid-19反应的调查发现，世卫组织拖延了时间，但放过了中国。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "對早期Covid-19反應的調查發現，世衛組織拖延了時間，但放過了中國。"
+    }
+  ]
 }
