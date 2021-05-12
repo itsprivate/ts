@@ -50,5 +50,22 @@
   "original_created_at": "2021-05-11T12:46:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_8SmPZkS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2dy92k1q2m2pgxrf1qlx.jpg",
   "author": "Shaquil Maria",
-  "author_url": "https://dev.to/theowlsden"
+  "author_url": "https://dev.to/theowlsden",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Photo by Yancy Min on Unsplash Howdy DEV clan?   私たちは皆、お勧めのベストプラクティショナーの話を聞いたことがあります。",
+      "title": "Git-flow、非技術的なイントロダクション。"
+    },
+    {
+      "locale": "zh",
+      "description": "照片：Yancy Min on Unsplash 你好，DEV族？  我们都听说过在中国，有一种推荐和最好的做法。",
+      "title": "Git-flow，非技术性介绍。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "照片：Yancy Min on Unsplash 你好，DEV族？  我們都聽說過在中國，有一種推薦和最好的做法。",
+      "title": "Git-flow，非技術性介紹。"
+    }
+  ]
 }
