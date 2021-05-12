@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-05-12T09:56:06.000Z",
-  "image": "https://dmitry.gr/images/icons/zbs24x.png"
+  "image": "https://dmitry.gr/images/icons/zbs24x.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "未知のマイコンのリバースエンジニアリング"
+    },
+    {
+      "locale": "zh",
+      "title": "对未知的微控制器进行逆向工程"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "對未知的微控制器進行逆向工程"
+    }
+  ]
 }
