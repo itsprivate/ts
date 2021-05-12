@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-10T07:37:32Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--h8mBNbg5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ar6w19in652an4c6pm15.jpg",
   "author": "Daine Mawer",
-  "author_url": "https://dev.to/dainemawer"
+  "author_url": "https://dev.to/dainemawer",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コンピュータサイエンスの有名な言葉があります。  \"There are only two hard things in Computer Science: cach...",
+      "title": "多くのCSSメソドロジーが規模に応じて機能しない理由"
+    },
+    {
+      "locale": "zh",
+      "description": "有一句著名的计算机科学名言。  \"计算机科学中只有两件难事：缓存。",
+      "title": "为什么大多数的CSS方法论在规模上不起作用？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有一句著名的計算機科學名言。  \"計算機科學中只有兩件難事：緩存。",
+      "title": "爲什麼大多數的CSS方法論在規模上不起作用？"
+    }
+  ]
 }
