@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-05-12T18:52:32.000Z",
-  "image": "https://ridiculousfish.com/blog/images/layout/hand.jpg"
+  "image": "https://ridiculousfish.com/blog/images/layout/hand.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Apple M1とIntel AVX512におけるdivisionとlibdivideのベンチマーク"
+    },
+    {
+      "locale": "zh",
+      "title": "在苹果M1和英特尔AVX512上对除法和libdivide进行基准测试"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在蘋果M1和英特爾AVX512上對除法和libdivide進行基準測試"
+    }
+  ]
 }
