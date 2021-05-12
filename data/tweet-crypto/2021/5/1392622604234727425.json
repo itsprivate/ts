@@ -282,5 +282,22 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Wed May 12 23:27:57 +0000 2021"
+  "original_created_at": "Wed May 12 23:27:57 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @michael_saylor: @elonmusk 皮肉なことに、#ビットコインの取引ではエネルギーの増分は使われていません。エネルギーが使われるのは、暗号化の安全性を確保するためです。",
+      "retweeted_status_full_text": "@elonmusk 皮肉なことに、#ビットコインの取引では増分のエネルギーは使われていません。エネルギーは暗号資産ネットワークの安全性を確保するために使用されており、長期的な化石燃料消費への正味の影響は、あらゆる点を考慮してもマイナスです。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @michael_saylor: @elonmusk 讽刺的是，在#比特币交易中没有使用任何增量能源。这些能量是用来保证加密货币的安全。",
+      "retweeted_status_full_text": "@elonmusk 具有讽刺意味的是，在#比特币交易中没有使用任何增量能源。这些能源被用来保证加密资产网络的安全，随着时间的推移，对化石燃料消耗的净影响将是负面的，所有的事情都考虑到了。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @michael_saylor: @elonmusk 諷刺的是，在#比特幣交易中沒有使用任何增量能源。這些能量是用來保證加密貨幣的安全。",
+      "retweeted_status_full_text": "@elonmusk 具有諷刺意味的是，在#比特幣交易中沒有使用任何增量能源。這些能源被用來保證加密資產網絡的安全，隨着時間的推移，對化石燃料消耗的淨影響將是負面的，所有的事情都考慮到了。"
+    }
+  ]
 }

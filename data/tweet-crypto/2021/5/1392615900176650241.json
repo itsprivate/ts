@@ -405,5 +405,22 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Wed May 12 23:01:18 +0000 2021"
+  "original_created_at": "Wed May 12 23:01:18 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @100trillionUSD @elonmusk 強要されているときは2回まばたきをする！ https://t.co/23kZjvOgx8",
+      "retweeted_status_full_text": "@elonmusk Blink twice if I'm under duress! https://t.co/23kZjvOgx8"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @100trillionUSD: @elonmusk 如果你受到胁迫，请眨两次眼！https://t.co/23kZjvOgx8",
+      "retweeted_status_full_text": "@elonmusk 如果你受到胁迫，请眨两次眼！https://t.co/23kZjvOgx8"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @100trillionUSD: @elonmusk 如果你受到脅迫，請眨兩次眼！https://t.co/23kZjvOgx8",
+      "retweeted_status_full_text": "@elonmusk 如果你受到脅迫，請眨兩次眼！https://t.co/23kZjvOgx8"
+    }
+  ]
 }
