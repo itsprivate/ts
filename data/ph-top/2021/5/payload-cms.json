@@ -113,5 +113,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-12T11:54:44Z"
+  "original_createdAt": "2021-05-12T11:54:44Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Payloadは、開発者の効率を飛躍的に高めるために作られた、TypeScriptヘッドレスCMSです。あなたの設定から、Payloadは拡張可能なREST、GraphQL、Node APIを生成し、コンテンツ編集者が喜ぶパワフルなReact管理パネルを提供します。",
+      "tagline": "デベロッパーファーストのTypeScriptとReactのヘッドレスCMS"
+    },
+    {
+      "locale": "zh",
+      "description": "Payload是一个TypeScript无头CMS，它的建立是为了提升你作为一个开发者的效率。根据你的配置，Payload生成可扩展的REST、GraphQL和Node API，以及一个强大的React管理面板，你的内容编辑会喜欢。",
+      "tagline": "开发者至上的TypeScript和React无头CMS"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Payload是一個TypeScript無頭CMS，它的建立是爲了提升你作爲一個開發者的效率。根據你的配置，Payload生成可擴展的REST、GraphQL和Node API，以及一個強大的React管理面板，你的內容編輯會喜歡。",
+      "tagline": "開發者至上的TypeScript和React無頭CMS"
+    }
+  ]
 }
