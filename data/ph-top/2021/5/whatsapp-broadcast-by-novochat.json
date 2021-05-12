@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-12T07:01:00Z"
+  "original_createdAt": "2021-05-12T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "NovoChatのWhatsApp Broadcastは、既存または新規の連絡先にパーソナライズされたWhatsAppメッセージを一括して送信することができます。メッセージをCSV形式で作成し、アップロードすれば、メッセージが送信されるのを確認できます。ご利用開始 - novochat.co 🔥 。",
+      "tagline": "パーソナライズされたチャットメッセージを一括して送信"
+    },
+    {
+      "locale": "zh",
+      "description": "WhatsApp Broadcast by NovoChat使您能够向现有或新的联系人批量发送个性化的WhatsApp信息。在您的CSV中个性化的信息，上传它，并看到您的信息被发送出去 开始吧 - novochat.co 🔥",
+      "tagline": "批量发送个性化的聊天信息"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "WhatsApp Broadcast by NovoChat使您能夠向現有或新的聯繫人批量發送個性化的WhatsApp信息。在您的CSV中個性化的信息，上傳它，並看到您的信息被髮送出去 開始吧 - novochat.co 🔥",
+      "tagline": "批量發送個性化的聊天信息"
+    }
+  ]
 }

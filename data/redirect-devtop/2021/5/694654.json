@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-11T09:31:25Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--W2IBrYhB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rhrq3e9j6m4sdo9yev3c.png",
   "author": "MD Bootstrap",
-  "author_url": "https://dev.to/mdbootstrap"
+  "author_url": "https://dev.to/mdbootstrap",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Product HuntでReact Bootstrap 5をリリースしました。 Bo...の安定版がリリースされてからわずか数日後のことです。",
+      "title": "React Bootstrap 5"
+    },
+    {
+      "locale": "zh",
+      "description": "我们刚刚在Product Hunt上发布了React Bootstrap 5。 在Bootstrap的稳定版本发布后仅几天，我们就发布了Bootstrap 5。",
+      "title": "React Bootstrap 5"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們剛剛在Product Hunt上發佈了React Bootstrap 5。 在Bootstrap的穩定版本發佈後僅幾天，我們就發佈了Bootstrap 5。",
+      "title": "React Bootstrap 5"
+    }
+  ]
 }
