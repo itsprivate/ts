@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-11T07:42:17Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lM1VmX_v--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ebhp1s6h1feclyvm6f1t.png",
   "author": "Antoine Veuiller",
-  "author_url": "https://dev.to/aveuiller"
+  "author_url": "https://dev.to/aveuiller",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Kubernetesは、デプロイや自動化を容易にする強力なオーケストレーターで、すでにご存知の方も多いでしょう。",
+      "title": "Kubernetes: Apprentice Cookbook"
+    },
+    {
+      "locale": "zh",
+      "description": "你可能已经听说过Kubernetes，这是一个强大的协调器，将简化部署和自动化。",
+      "title": "Kubernetes。学徒烹饪手册"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你可能已經聽說過Kubernetes，這是一個強大的協調器，將簡化部署和自動化。",
+      "title": "Kubernetes。學徒烹飪手冊"
+    }
+  ]
 }
