@@ -404,5 +404,22 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Wed May 12 21:20:50 +0000 2021"
+  "original_created_at": "Wed May 12 21:20:50 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @rinusveekay: Indy500のための新しい車。リードを掴んでHODLしたいと思います。ありがとうサトシ! #Bitcoin https://t.co/nQhafb7SPY",
+      "retweeted_status_full_text": "インディ500のための私の新しい車。リードを掴んでHODLしたいと思います。ありがとうサトシ! #Bitcoin https://t.co/nQhafb7SPY"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @rinusveekay: 我参加#Indy500的新车。我想抢占先机，并以HODL为基础。谢谢你，Satoshi! #Bitcoin https://t.co/nQhafb7SPY",
+      "retweeted_status_full_text": "我参加#Indy500的新车。我想抢占先机，并以HODL为基础。谢谢你，Satoshi! #比特币https://t.co/nQhafb7SPY"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @rinusveekay: 我參加#Indy500的新車。我想搶佔先機，並以HODL爲基礎。謝謝你，Satoshi! #Bitcoin https://t.co/nQhafb7SPY",
+      "retweeted_status_full_text": "我參加#Indy500的新車。我想搶佔先機，並以HODL爲基礎。謝謝你，Satoshi! #比特幣https://t.co/nQhafb7SPY"
+    }
+  ]
 }
