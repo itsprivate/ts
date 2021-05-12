@@ -39,5 +39,22 @@
   "original_created_at": "2021-05-10T15:53:57Z",
   "image": "https://dev.to/social_previews/article/693882.png",
   "author": "Bobby Iliev",
-  "author_url": "https://dev.to/bobbyiliev"
+  "author_url": "https://dev.to/bobbyiliev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに あなたは先延ばしにしたことがありますか？もし「ない」と答えたら、あなたは完全に嘘つきです。  でも...。",
+      "title": "開発者として先延ばしをしない方法"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍：你是否曾经拖延过？如果你说 \"没有\"，你就完全是个骗子了！但是，如果你说 \"没有\"，你就完全是个骗子了。  但是...",
+      "title": "作为一个开发者，如何停止拖延症？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹：你是否曾經拖延過？如果你說 \"沒有\"，你就完全是個騙子了！但是，如果你說 \"沒有\"，你就完全是個騙子了。  但是...",
+      "title": "作爲一個開發者，如何停止拖延症？"
+    }
+  ]
 }
