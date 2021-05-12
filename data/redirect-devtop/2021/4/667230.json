@@ -50,5 +50,22 @@
   "original_created_at": "2021-04-15T17:25:52Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jKEUrfPt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/acitir9pujggo290ii8n.jpg",
   "author": "Adit Modi",
-  "author_url": "https://dev.to/aditmodi"
+  "author_url": "https://dev.to/aditmodi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "サーバーレス・コンピューティング・モデルでは、アプリケーションやサービスを構築・実行する際に、アプリケーションやサービスの開発者の手を煩わせることなく行うことができます。",
+      "title": "AWSによるサーバーレスの紹介"
+    },
+    {
+      "locale": "zh",
+      "description": "无服务器计算模型允许你建立和运行应用程序和服务，而不需要你去做。",
+      "title": "使用AWS的无服务器介绍"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "無服務器計算模型允許你建立和運行應用程序和服務，而不需要你去做。",
+      "title": "使用AWS的無服務器介紹"
+    }
+  ]
 }
