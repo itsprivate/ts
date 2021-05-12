@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-05-12T17:38:47.000Z",
-  "image": "https://flask.palletsprojects.com/en/2.0.x/_static/flask-icon.png"
+  "image": "https://flask.palletsprojects.com/en/2.0.x/_static/flask-icon.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Flask 2.0"
+    },
+    {
+      "locale": "zh",
+      "title": "Flask 2.0"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Flask 2.0"
+    }
+  ]
 }
