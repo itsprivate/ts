@@ -41,5 +41,22 @@
   "original_created_at": "2021-05-11T09:55:35Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HqPUeb4---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wysy17sthq3wrt9tijml.jpg",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "初心者向けのツールと、オープンソース・プロジェクトを構築するための簡単なセットアップを備えたショートリストです。",
+      "title": "ミニマル・プログラミング・キット"
+    },
+    {
+      "locale": "zh",
+      "description": "一个简短的清单，其中有适合初学者的工具，以及建立一个开源项目的简单设置。",
+      "title": "最低限度的编程工具包"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個簡短的清單，其中有適合初學者的工具，以及建立一個開源項目的簡單設置。",
+      "title": "最低限度的編程工具包"
+    }
+  ]
 }
