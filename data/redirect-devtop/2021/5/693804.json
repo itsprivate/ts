@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-10T14:28:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nmgceJZY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nvbw0z328c521otgtx9i.png",
   "author": "Sudarshan Sawandkar",
-  "author_url": "https://dev.to/sudarshansb143"
+  "author_url": "https://dev.to/sudarshansb143",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "📢 TL:DR : 私たちは皆、npmでユーティリティーパッケージを探しています。憧れていようがいまいが、誰もが...",
+      "title": "Javascriptのトップユーティリティーパッケージ"
+    },
+    {
+      "locale": "zh",
+      "description": "TL:DR : 我们都在npm上寻找实用程序包。无论我们是否欣赏它，每个人都...",
+      "title": "Javascript中的顶级实用程序包"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "TL:DR : 我們都在npm上尋找實用程序包。無論我們是否欣賞它，每個人都...",
+      "title": "Javascript中的頂級實用程序包"
+    }
+  ]
 }
