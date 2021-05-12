@@ -283,5 +283,22 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Wed May 12 08:55:56 +0000 2021"
+  "original_created_at": "Wed May 12 08:55:56 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @michael_saylor: 金融業界は、保険、銀行、投資などの業務に#ビットコインを組み込むことで、暗号の主流化を進めています...",
+      "retweeted_status_full_text": "金融業界は、保険、銀行、投資商品に#Bitcoinを組み込むことで、暗号化を主流にしています。 @Newsweekによると、4600万人のアメリカ人がビットコインを所有しているとのこと。\nhttps://t.co/Wj6Ymk0hYU"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @michael_saylor: 金融业正在通过将#比特币纳入他们的保险、银行和投资产品，使加密货币成为主流。",
+      "retweeted_status_full_text": "金融业正在通过将#比特币纳入他们的保险、银行和投资产品，使加密货币成为主流。 @Newsweek说，现在有4600万美国人拥有比特币。\nhttps://t.co/Wj6Ymk0hYU"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @michael_saylor: 金融業正在通過將#比特幣納入他們的保險、銀行和投資產品，使加密貨幣成爲主流。",
+      "retweeted_status_full_text": "金融業正在通過將#比特幣納入他們的保險、銀行和投資產品，使加密貨幣成爲主流。 @Newsweek說，現在有4600萬美國人擁有比特幣。\nhttps://t.co/Wj6Ymk0hYU"
+    }
+  ]
 }
