@@ -14,5 +14,19 @@
   "tags": [
     "The New York Times"
   ],
-  "image": "https://static01.nyt.com/images/2021/04/05/business/00china-births-1/00china-births-1-facebookJumbo.jpg"
+  "image": "https://static01.nyt.com/images/2021/04/05/business/00china-births-1/00china-births-1-facebookJumbo.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "中国は出生数の増加を望んでいる。しかし、コントロールを失うことを警戒している。"
+    },
+    {
+      "locale": "zh",
+      "title": "中国希望提高出生率。但它对失去控制感到担忧。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "中國希望提高出生率。但它對失去控制感到擔憂。"
+    }
+  ]
 }
