@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-09T10:24:28Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vopE2Vam--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bhyuint6zkphx5ol1ml2.png",
   "author": "Neha Soni",
-  "author_url": "https://dev.to/nehasoni__"
+  "author_url": "https://dev.to/nehasoni__",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "オブジェクトはJavaScriptの基本です。プリミティブなデータタイプ（null、undefined、numbe...）を除くすべてのものが、オブジェクトです。",
+      "title": "JavaScriptオブジェクトで遊ぶ"
+    },
+    {
+      "locale": "zh",
+      "description": "对象是JavaScript的基础。除了原始数据类型（null、undefined、numbe...",
+      "title": "玩转JavaScript对象"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "對象是JavaScript的基礎。除了原始數據類型（null、undefined、numbe...",
+      "title": "玩轉JavaScript對象"
+    }
+  ]
 }
