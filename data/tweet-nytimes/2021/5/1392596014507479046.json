@@ -113,5 +113,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Wed May 12 21:42:17 +0000 2021"
+  "original_created_at": "Wed May 12 21:42:17 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "速報です。コロニアル・パイプラインが操業を再開し始めたと、その運営会社が発表しました。同燃料ラインはランサムウェアの攻撃を受け、金曜日から停止していた。https://t.co/fhNRAo5Qto"
+    },
+    {
+      "locale": "zh",
+      "full_text": "突发新闻。殖民地输油管道开始恢复运营，其运营商说。自周五以来，该燃料管道在一次勒索软件攻击后被关闭。https://t.co/fhNRAo5Qto"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "突發新聞。殖民地輸油管道開始恢復運營，其運營商說。自週五以來，該燃料管道在一次勒索軟件攻擊後被關閉。https://t.co/fhNRAo5Qto"
+    }
+  ]
 }
