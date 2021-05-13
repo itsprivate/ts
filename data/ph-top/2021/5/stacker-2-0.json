@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-13T11:42:16Z"
+  "original_createdAt": "2021-05-13T11:42:16Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今日、私たちは、100万人の人々が必要なソフトウェアを自分たちで作れるようにするための、次世代のノーコード・プラットフォームを発表します。スタッカーの次のバージョンが登場しました。https://blog.stackerhq.com/announcing-the-next-version-of-stacker/",
+      "tagline": "次世代のノーコード・プラットフォームはこちら"
+    },
+    {
+      "locale": "zh",
+      "description": "今天，我们推出了我们的下一代无代码平台，使一百万人能够自己创造他们需要的软件。Stacker的下一个版本已经到来：https://blog.stackerhq.com/announcing-the-next-version-of-stacker/",
+      "tagline": "我们的下一代无代码平台就在这里"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "今天，我們推出了我們的下一代無代碼平臺，使一百萬人能夠自己創造他們需要的軟件。Stacker的下一個版本已經到來：https://blog.stackerhq.com/announcing-the-next-version-of-stacker/",
+      "tagline": "我們的下一代無代碼平臺就在這裏"
+    }
+  ]
 }
