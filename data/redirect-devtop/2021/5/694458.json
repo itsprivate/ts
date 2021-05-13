@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-11T06:16:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Wax1TbXU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g9q62n83inqmv4briy2i.png",
   "author": "Yogini Bende",
-  "author_url": "https://dev.to/ms_yogii"
+  "author_url": "https://dev.to/ms_yogii",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは。TailwindCSSは、ユーティリティーファーストのライブラリで、すべてをそれを使って構築することを推奨しています。",
+      "title": "ReactとTailwindによるフォーム入力"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，TailwindCSS是一个实用性优先的库，它鼓励使用它的功能来构建一切。",
+      "title": "使用React和Tailwind的表单输入"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，TailwindCSS是一個實用性優先的庫，它鼓勵使用它的功能來構建一切。",
+      "title": "使用React和Tailwind的表單輸入"
+    }
+  ]
 }
