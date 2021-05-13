@@ -101,5 +101,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1620927587,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "4が「four」と書かれているなら、40が「fourty」と書かれているのは、なぜミススペル扱いなのか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果4写成了 \"四\"，为什么40写成了 \"四十\"，被当作错别字？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果4寫成了 \"四\"，爲什麼40寫成了 \"四十\"，被當作錯別字？"
+    }
+  ]
 }
