@@ -92,5 +92,19 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Thu May 13 00:23:35 +0000 2021"
+  "original_created_at": "Thu May 13 00:23:35 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "ビットコインのデフレは一過性のもの"
+    },
+    {
+      "locale": "zh",
+      "full_text": "比特币的通货紧缩是过渡性的"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "比特幣的通貨緊縮是過渡性的"
+    }
+  ]
 }

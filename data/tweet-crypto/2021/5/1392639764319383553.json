@@ -226,5 +226,22 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Thu May 13 00:36:08 +0000 2021"
+  "original_created_at": "Thu May 13 00:36:08 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @adam3us: ドッグツイーターのディップを購入。\n沢山のサットをありがとう。",
+      "retweeted_status_full_text": "ドッグトゥイーターディップを購入。\nいつもサットをありがとうございます。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @adam3us: 买了狗仔队的蘸酱。\n谢谢你的所有支持。",
+      "retweeted_status_full_text": "买了狗尾巴草的浸泡。\n谢谢你的所有支持。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @adam3us: 買了狗仔隊的蘸醬。\n謝謝你的所有支持。",
+      "retweeted_status_full_text": "買了狗尾巴草的浸泡。\n謝謝你的所有支持。"
+    }
+  ]
 }

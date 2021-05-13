@@ -103,5 +103,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1620867173,
-  "the_new_excerpt": "Need some more fiat to buy BTC"
+  "the_new_excerpt": "Need some more fiat to buy BTC",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "BTCを買うためにもう少しフィアットが必要",
+      "title": "明日の朝、オープン時にTSLAを全部売った人は誰だと思いますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "需要一些更多的法币来购买BTC",
+      "title": "猜猜谁会在明天早上开盘时卖掉所有的TSLA"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "需要一些更多的法幣來購買BTC",
+      "title": "猜猜誰會在明天早上開盤時賣掉所有的TSLA"
+    }
+  ]
 }
