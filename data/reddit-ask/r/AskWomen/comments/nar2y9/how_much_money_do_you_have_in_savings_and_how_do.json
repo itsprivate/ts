@@ -101,5 +101,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1620832466,
-  "the_new_excerpt": "Edit to also ask how old are you"
+  "the_new_excerpt": "Edit to also ask how old are you",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "編集後記：「あなたは何歳ですか？",
+      "title": "あなたの貯金額とその金額についての感想を教えてください。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "编辑还想问，你多大了？",
+      "title": "你有多少钱的储蓄，你对这个数额有什么感觉？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "編輯還想問，你多大了？",
+      "title": "你有多少錢的儲蓄，你對這個數額有什麼感覺？"
+    }
+  ]
 }

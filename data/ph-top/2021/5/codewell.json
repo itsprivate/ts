@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-13T04:27:40Z"
+  "original_createdAt": "2021-05-13T04:27:40Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "実際のデザインテンプレートを使って練習することで、HTMLとCSSのスキルを向上させることができます。",
+      "tagline": "実際のデザインを使って練習することで、HTMLとCSSのスキルを向上させることができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "通过对真实世界的设计模板进行练习，提高你的HTML和CSS技能。",
+      "tagline": "通过在真实设计上的练习，提高你的HTML和CSS技能"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "通過對真實世界的設計模板進行練習，提高你的HTML和CSS技能。",
+      "tagline": "通過在真實設計上的練習，提高你的HTML和CSS技能"
+    }
+  ]
 }
