@@ -111,5 +111,19 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Thu May 13 00:29:30 +0000 2021"
+  "original_created_at": "Thu May 13 00:29:30 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "2012年に私が言っていたように、ビットコインは暴落するに違いないし、インフレはすぐそこまで来ている。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "正如我在2012年所说，比特币一定会崩溃，通货膨胀就在眼前"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "正如我在2012年所說，比特幣一定會崩潰，通貨膨脹就在眼前"
+    }
+  ]
 }
