@@ -113,5 +113,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Thu May 13 20:58:02 +0000 2021"
+  "original_created_at": "Thu May 13 20:58:02 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "パレスチナのロケット弾は、比較的初歩的で安価に製造されている。対照的に、イスラエルの迎撃ミサイルは1発約4万ドルと推定されている https://t.co/koAkiHbjVj"
+    },
+    {
+      "locale": "zh",
+      "full_text": "巴勒斯坦的火箭弹仍然相对简陋，而且生产成本低廉。相比之下，每枚以色列拦截导弹的成本估计约为40,000美元https://t.co/koAkiHbjVj。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "巴勒斯坦的火箭彈仍然相對簡陋，而且生產成本低廉。相比之下，每枚以色列攔截導彈的成本估計約爲40,000美元https://t.co/koAkiHbjVj。"
+    }
+  ]
 }
