@@ -163,5 +163,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1620930404,
-  "the_new_excerpt": "https://github.com/nanocurrency/nano-node/milestone/19\n\nFinally hit 100% complete. For those that don’t know this update is a fix to the\nspam problem nano was facing few months back.\n\nIt works by giving less priority to transactions that send dust amounts."
+  "the_new_excerpt": "https://github.com/nanocurrency/nano-node/milestone/19\n\nFinally hit 100% complete. For those that don’t know this update is a fix to the\nspam problem nano was facing few months back.\n\nIt works by giving less priority to transactions that send dust amounts.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "https://github.com/nanocurrency/nano-node/milestone/19\n\nようやく100％の完成度に達しました。今回のアップデートは、数ヶ月前にnanoが直面していたスパム問題を\n数ヶ月前にnanoが直面していたスパム問題を修正したものです。\n\nこのアップデートは、数ヶ月前にnanoが直面したスパム問題を修正するものです。",
+      "title": "Nano completed v22 update - スパム対策"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "https://github.com/nanocurrency/nano-node/milestone/19\n\n终于达到了100%的完成度。对于那些不知道的人来说，这次更新是对几个月前nano面临的垃圾邮件问题的修复。\nnano在几个月前面临的垃圾邮件问题。\n\n它的工作原理是给发送灰尘量的交易降低优先级。",
+      "title": "Nano完成了v22的更新--抵制垃圾邮件"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "https://github.com/nanocurrency/nano-node/milestone/19\n\n終於達到了100%的完成度。對於那些不知道的人來說，這次更新是對幾個月前nano面臨的垃圾郵件問題的修復。\nnano在幾個月前面臨的垃圾郵件問題。\n\n它的工作原理是給發送灰塵量的交易降低優先級。",
+      "title": "Nano完成了v22的更新--抵制垃圾郵件"
+    }
+  ]
 }
