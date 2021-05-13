@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-13T07:10:00Z"
+  "original_createdAt": "2021-05-13T07:10:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "50個のuiのヒントをツイートし、それを無料で本にしました。お楽しみに😊。",
+      "tagline": "無料で1時間でUI/UXのスキルを向上させることができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "我在推特上发布了50条ui技巧，并将其做成了一本免费的书。请欣赏😊",
+      "tagline": "在一个小时内免费提高你的UI/UX技能"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我在推特上發佈了50條ui技巧，並將其做成了一本免費的書。請欣賞😊",
+      "tagline": "在一個小時內免費提高你的UI/UX技能"
+    }
+  ]
 }
