@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-05-12T23:35:09.000Z",
-  "image": "https://evertpot.com/assets/cover/flower.png"
+  "image": "https://evertpot.com/assets/cover/flower.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "JWTはセッションのデフォルトではありません。"
+    },
+    {
+      "locale": "zh",
+      "title": "JWT不应该是你的默认会话"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "JWT不應該是你的默認會話"
+    }
+  ]
 }

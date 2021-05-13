@@ -134,5 +134,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Thu May 13 01:15:06 +0000 2021"
+  "original_created_at": "Thu May 13 01:15:06 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "@WSJopinionより。ジェフ・ベゾスは明らかに嘘をついているか、非常に不誠実であるが、主流メディアは関心がないようだ、と@HolmanJenkinsが書いている https://t.co/H9wlMKmkM7"
+    },
+    {
+      "locale": "zh",
+      "full_text": "来自@WSJopinion。杰夫-贝索斯直接撒谎或特别虚伪，但主流媒体似乎不感兴趣，@HolmanJenkins写道：https://t.co/H9wlMKmkM7"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "來自@WSJopinion。傑夫-貝索斯直接撒謊或特別虛僞，但主流媒體似乎不感興趣，@HolmanJenkins寫道：https://t.co/H9wlMKmkM7"
+    }
+  ]
 }
