@@ -43,5 +43,22 @@
   "original_created_at": "2021-05-07T17:32:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s---SIdfFMt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ctlud731fbx95cx270ng.png",
   "author": "Paul Everitt",
-  "author_url": "https://dev.to/pauleveritt"
+  "author_url": "https://dev.to/pauleveritt",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ReactJSは乱立しており、そのために乱立したサポートを受けています。TypeScriptはますます人気が出てきており、そのために...",
+      "title": "React、TypeScript、TDD"
+    },
+    {
+      "locale": "zh",
+      "description": "ReactJs是疯狂流行的，因此也是疯狂支持的。TypeScript越来越受欢迎，因此也越来越受到支持。",
+      "title": "React, TypeScript, 和TDD"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "ReactJs是瘋狂流行的，因此也是瘋狂支持的。TypeScript越來越受歡迎，因此也越來越受到支持。",
+      "title": "React, TypeScript, 和TDD"
+    }
+  ]
 }
