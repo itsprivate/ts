@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-10T17:30:29Z",
   "image": "https://dev.to/social_previews/article/693950.png",
   "author": "Ashish Ranjan",
-  "author_url": "https://dev.to/code_ashish"
+  "author_url": "https://dev.to/code_ashish",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reduxのライブラリは非常に独断的です。ストアのセットアップやその構成など、すべてを私たちが決めることができます。",
+      "title": "Modular Ducks - スケーラブルなreduxアーキテクチャのためのデザインパターン"
+    },
+    {
+      "locale": "zh",
+      "description": "Redux库是高度无主见的。它让我们决定一切，从商店的设置和它的结构。",
+      "title": "模块化的鸭子--可扩展的redux架构的设计模式"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Redux庫是高度無主見的。它讓我們決定一切，從商店的設置和它的結構。",
+      "title": "模塊化的鴨子--可擴展的redux架構的設計模式"
+    }
+  ]
 }
