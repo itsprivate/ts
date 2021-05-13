@@ -102,5 +102,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1620866218,
-  "the_new_excerpt": "For example the WNBA and the NBA"
+  "the_new_excerpt": "For example the WNBA and the NBA",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "例えば、WNBAとNBA",
+      "title": "なぜ女性のスポーツはそう呼ばれ、男性のスポーツはただのスポーツと呼ばれるのですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "例如，WNBA和NBA",
+      "title": "为什么女性运动被称为女性，而男性运动只被称为运动？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "例如，WNBA和NBA",
+      "title": "爲什麼女性運動被稱爲女性，而男性運動只被稱爲運動？"
+    }
+  ]
 }
