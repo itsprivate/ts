@@ -103,5 +103,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1620862924,
-  "the_new_excerpt": "Is this dip buyable?"
+  "the_new_excerpt": "Is this dip buyable?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "このディップは購入可能ですか？",
+      "title": "ディップを買っている人、手を挙げてください。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这种浸渍可以买吗？",
+      "title": "谁在买蘸酱，请举手!"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這種浸漬可以買嗎？",
+      "title": "誰在買蘸醬，請舉手!"
+    }
+  ]
 }
