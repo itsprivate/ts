@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-05-12T06:39:48.000Z",
-  "image": "https://static.lwn.net/images/logo/barepenguin-70.png"
+  "image": "https://static.lwn.net/images/logo/barepenguin-70.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Pyodide: ブラウザのためのPython"
+    },
+    {
+      "locale": "zh",
+      "title": "Pyodide。浏览器的Python"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Pyodide。瀏覽器的Python"
+    }
+  ]
 }
