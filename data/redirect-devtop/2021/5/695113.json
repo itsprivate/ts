@@ -50,5 +50,22 @@
   "original_created_at": "2021-05-11T17:44:13Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--j4upME2G--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/44g9w6ut36lvuwq1835u.jpg",
   "author": "David Dal Busco",
-  "author_url": "https://dev.to/daviddalbusco"
+  "author_url": "https://dev.to/daviddalbusco",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ドキュメントに加えられた変更を監視する機能を提供するMutationObserver Web APIの紹介です。",
+      "title": "MutationObserverのWeb API"
+    },
+    {
+      "locale": "zh",
+      "description": "对MutationObserver Web API的介绍，它提供了观察正在对文档进行的更改的能力。",
+      "title": "MutationObserver Web API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "對MutationObserver Web API的介紹，它提供了觀察正在對文檔進行的更改的能力。",
+      "title": "MutationObserver Web API"
+    }
+  ]
 }
