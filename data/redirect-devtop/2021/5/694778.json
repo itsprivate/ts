@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-11T12:49:48Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Ra46zZx3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mlmiu8c75id0ysdv21x7.png",
   "author": "Anjan Shomodder",
-  "author_url": "https://dev.to/thatanjan"
+  "author_url": "https://dev.to/thatanjan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私は、2020年にあるプロジェクトで初めてmaterial-uiを試しました。それ以来、私は本当に...",
+      "title": "私がMaterial-UIを愛する10の理由"
+    },
+    {
+      "locale": "zh",
+      "description": "早在2020年，我就为我的一个项目第一次尝试了material-ui。从那时起，我真的很喜欢这个项目。",
+      "title": "我喜欢Material-UI的10个原因"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "早在2020年，我就爲我的一個項目第一次嘗試了material-ui。從那時起，我真的很喜歡這個項目。",
+      "title": "我喜歡Material-UI的10個原因"
+    }
+  ]
 }
