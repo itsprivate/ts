@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-12T20:42:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BbienZcw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vni8ewjj38obow85kok2.jpeg",
   "author": "Arika O",
-  "author_url": "https://dev.to/arikaturika"
+  "author_url": "https://dev.to/arikaturika",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "その説明をする前に、まず、サーバーサイドシステムとの違いを理解する必要があります。",
+      "title": "Javascriptのローカルストレージ - ビギナーズガイド"
+    },
+    {
+      "locale": "zh",
+      "description": "在进行任何形式的解释之前，我们需要了解服务器端和网络端之间的区别。",
+      "title": "脚本本地存储 - 初学者指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在進行任何形式的解釋之前，我們需要了解服務器端和網絡端之間的區別。",
+      "title": "腳本本地存儲 - 初學者指南"
+    }
+  ]
 }
