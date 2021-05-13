@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-05-13T18:59:10.000Z",
-  "image": "https://fingerprintjs.com/static/f73d96104884f5e2129405e2af4dda11/cross-browsers-article-cover.png"
+  "image": "https://fingerprintjs.com/static/f73d96104884f5e2129405e2af4dda11/cross-browsers-article-cover.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "脆弱性により、Chrome、Firefox、Safari、Torでのクロスブラウザ・トラッキングが可能になる"
+    },
+    {
+      "locale": "zh",
+      "title": "漏洞允许在Chrome、Firefox、Safari和Tor中进行跨浏览器追踪"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "漏洞允許在Chrome、Firefox、Safari和Tor中進行跨瀏覽器追蹤"
+    }
+  ]
 }
