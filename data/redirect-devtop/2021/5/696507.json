@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-12T20:35:26Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XMnZ3DAi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e6b1op12977dnwkrrxi1.png",
   "author": "Brayan Arrieta",
-  "author_url": "https://dev.to/brayanarrieta"
+  "author_url": "https://dev.to/brayanarrieta",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "React.jsは、現在、フロントエンド開発者に最も人気のあるJavaScriptライブラリの1つです。  React...",
+      "title": "あなたのReactプロジェクトのためのMost Awesome Hooks"
+    },
+    {
+      "locale": "zh",
+      "description": "React.js是目前最受欢迎的前端开发者的JavaScript库之一。  React...",
+      "title": "为你的React项目提供最棒的钩子"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "React.js是目前最受歡迎的前端開發者的JavaScript庫之一。  React...",
+      "title": "爲你的React項目提供最棒的鉤子"
+    }
+  ]
 }
