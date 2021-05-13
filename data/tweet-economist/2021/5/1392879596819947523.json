@@ -219,5 +219,22 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Thu May 13 16:29:08 +0000 2021"
+  "original_created_at": "Thu May 13 16:29:08 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @EconCulture: 黒人の生活を可視化し、あらゆる意味で彼らを重要視することは、ステイシー・エイブラムスの文学作品の包括的な筋書きである。",
+      "retweeted_status_full_text": "黒人の生活を可視化し、あらゆる意味で彼らを重要視することは、ステーシー・エイブラムスの文学的、政治的な活動の包括的な筋書きである。https://t.co/evskPIdFof"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @EconCulture: 让黑人的生命变得明显--从任何意义上说，他们都是重要的，这也是斯泰西-艾布拉姆斯的文学作品的首要情节线。",
+      "retweeted_status_full_text": "让黑人的生活变得明显--从各种意义上说，他们都是有价值的--是斯泰西-艾布拉姆斯的文学和政治努力的首要情节线https://t.co/evskPIdFof。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @EconCulture: 讓黑人的生命變得明顯--從任何意義上說，他們都是重要的，這也是斯泰西-艾布拉姆斯的文學作品的首要情節線。",
+      "retweeted_status_full_text": "讓黑人的生活變得明顯--從各種意義上說，他們都是有價值的--是斯泰西-艾布拉姆斯的文學和政治努力的首要情節線https://t.co/evskPIdFof。"
+    }
+  ]
 }

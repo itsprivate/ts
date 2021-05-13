@@ -103,5 +103,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1620909646,
-  "the_new_excerpt": "(Not books related to survival or anything like that, although you can choose\nthose if you really want to)"
+  "the_new_excerpt": "(Not books related to survival or anything like that, although you can choose\nthose if you really want to)",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "サバイバル関連の本ではありません。\n選んでも構いません。)",
+      "title": "Snowpiercer』に搭乗する際、3冊の本・シリーズしか持っていけないとしたら、何を選ぶか、またその理由は？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "(不是与生存或类似的书籍，尽管你可以选择那些\n那些书，如果你真的想的话)",
+      "title": "如果你要登上Snowpiercer，只能带3本书/系列，你会选择什么，为什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "(不是與生存或類似的書籍，儘管你可以選擇那些\n那些書，如果你真的想的話)",
+      "title": "如果你要登上Snowpiercer，只能帶3本書/系列，你會選擇什麼，爲什麼？"
+    }
+  ]
 }
