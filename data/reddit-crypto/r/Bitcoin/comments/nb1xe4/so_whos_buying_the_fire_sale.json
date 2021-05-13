@@ -103,5 +103,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1620860255,
-  "the_new_excerpt": "I'm gonna put in $500"
+  "the_new_excerpt": "I'm gonna put in $500",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私は500ドルを投入する",
+      "title": "では、誰が炎上商法を買っているのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我将投入500美元",
+      "title": "那么，谁在购买火爆的销售？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我將投入500美元",
+      "title": "那麼，誰在購買火爆的銷售？"
+    }
+  ]
 }

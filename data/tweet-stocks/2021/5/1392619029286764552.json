@@ -103,5 +103,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Wed May 12 23:13:44 +0000 2021"
+  "original_created_at": "Wed May 12 23:13:44 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "イーロン・マスクが発表したビットコインの価格が沈み、テスラの株価が下落。\"テスラはビットコインを使った車両購入を停止しました。\"\nhttps://t.co/iAU0So3O33"
+    },
+    {
+      "locale": "zh",
+      "full_text": "埃隆-马斯克宣布后，比特币价格下挫，特斯拉股价下跌。\"特斯拉已经暂停使用比特币购买车辆\"。\nhttps://t.co/iAU0So3O33"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "埃隆-馬斯克宣佈後，比特幣價格下挫，特斯拉股價下跌。\"特斯拉已經暫停使用比特幣購買車輛\"。\nhttps://t.co/iAU0So3O33"
+    }
+  ]
 }

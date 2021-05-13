@@ -206,5 +206,22 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Wed May 12 23:40:35 +0000 2021"
+  "original_created_at": "Wed May 12 23:40:35 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @elonmusk: @nichegamer ツイッターでの暗号詐欺レベルが新しいレベルに達しています。これはクールではありません。",
+      "retweeted_status_full_text": "@nichegamer Twitterでのcrypto scamレベルが新しいレベルに達しています。これはクールではない。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @elonmusk: @nichegamer 推特上的加密货币诈骗水平正在达到新的水平。这一点也不酷。",
+      "retweeted_status_full_text": "@nichegamer 推特上的加密货币诈骗水平正在达到新的水平。这一点也不酷。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @elonmusk: @nichegamer 推特上的加密貨幣詐騙水平正在達到新的水平。這一點也不酷。",
+      "retweeted_status_full_text": "@nichegamer 推特上的加密貨幣詐騙水平正在達到新的水平。這一點也不酷。"
+    }
+  ]
 }

@@ -113,5 +113,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Wed May 12 23:31:00 +0000 2021"
+  "original_created_at": "Wed May 12 23:31:00 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "バイデン大統領は、国家安全保障や公共の安全に対する脅威が高まっていると指摘する米国の政府機関やソフトウェア会社に対し、サイバー攻撃に対する防御を強化するよう指示しました。https://t.co/jR1ETImmAB"
+    },
+    {
+      "locale": "zh",
+      "full_text": "美国总统拜登周三命令美国机构和为其提供服务的软件承包商加强对网络攻击的防御，官员们说这些攻击对国家安全和公共安全构成越来越大的威胁https://t.co/jR1ETImmAB。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "美國總統拜登週三命令美國機構和爲其提供服務的軟件承包商加強對網絡攻擊的防禦，官員們說這些攻擊對國家安全和公共安全構成越來越大的威脅https://t.co/jR1ETImmAB。"
+    }
+  ]
 }
