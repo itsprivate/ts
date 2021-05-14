@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-13T11:36:23Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--b8Qpw7IU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wcg9dbu0z2ca1e9dxy1g.png",
   "author": "Daniel Sasse",
-  "author_url": "https://dev.to/dsasse07"
+  "author_url": "https://dev.to/dsasse07",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "前回の記事「A Beginner's Guide to Unit-testing with Jest」では、Jestを使ってユニットテストを始める方法を紹介しました。",
+      "title": "ReactにおけるJestテストの初心者向けガイド"
+    },
+    {
+      "locale": "zh",
+      "description": "在我的上一篇文章《使用Jest进行单元测试的新手指南》中，我介绍了如何开始使用Jest。",
+      "title": "React中的Jest测试新手指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在我的上一篇文章《使用Jest進行單元測試的新手指南》中，我介紹瞭如何開始使用Jest。",
+      "title": "React中的Jest測試新手指南"
+    }
+  ]
 }
