@@ -92,5 +92,19 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Fri May 14 00:48:47 +0000 2021"
+  "original_created_at": "Fri May 14 00:48:47 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "ビル・マーはワクチンを接種しているにもかかわらず、COVIDに感染した##。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "比尔-马赫在接种疫苗后仍感染了COVID ###"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "比爾-馬赫在接種疫苗後仍感染了COVID ###"
+    }
+  ]
 }
