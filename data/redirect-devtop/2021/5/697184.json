@@ -52,5 +52,22 @@
   "original_created_at": "2021-05-13T12:43:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--l0mrLdoS--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dw71fyauz7yz9.cloudfront.net/video-upload__c89c350e6689263af2ce962be123499b/thumbs-video-upload__c89c350e6689263af2ce962be123499b-00001.png",
   "author": "Kevin Gilpin",
-  "author_url": "https://dev.to/kgilpin"
+  "author_url": "https://dev.to/kgilpin",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "AppMapはオープンソースのIntelliJ IDEAプラグインで、コードがどのように変化するかを表示することで、コードの改善を支援します。",
+      "title": "IntelliJ IDEAでJavaアプリのアーキテクチャを2¹/₂分で可視化"
+    },
+    {
+      "locale": "zh",
+      "description": "AppMap是一个开源的IntelliJ IDEA插件，它通过显示你的代码，帮助你改进你的代码。",
+      "title": "在 IntelliJ IDEA 中可视化你的 Java 应用程序的架构，只需 2 ¹/₂ 分钟。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "AppMap是一個開源的IntelliJ IDEA插件，它通過顯示你的代碼，幫助你改進你的代碼。",
+      "title": "在 IntelliJ IDEA 中可視化你的 Java 應用程序的架構，只需 2 ¹/₂ 分鐘。"
+    }
+  ]
 }
