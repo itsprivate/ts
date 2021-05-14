@@ -52,5 +52,22 @@
   "original_created_at": "2021-05-12T19:36:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Zw3dVisR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fh09s1frxabzguguyp9a.png",
   "author": "nothingismagick",
-  "author_url": "https://dev.to/nothingismagick"
+  "author_url": "https://dev.to/nothingismagick",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "エンジニア、プロジェクトマネージャー、テクノクラートの皆さん、こんにちは。今日、ちょうど2年の歳月をかけて、私たちは...",
+      "title": "Tauri Betaを発表 - より効率的なクロスプラットフォーム・アプリをより良い機能で提供"
+    },
+    {
+      "locale": "zh",
+      "description": "各位工程师、项目经理和技术官僚们，大家好! 今天，经过整整两年的工作，我们...",
+      "title": "宣布Tauri测试版--更高效的跨平台应用程序，具有更好的功能"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "各位工程師、項目經理和技術官僚們，大家好! 今天，經過整整兩年的工作，我們...",
+      "title": "宣佈Tauri測試版--更高效的跨平臺應用程序，具有更好的功能"
+    }
+  ]
 }
