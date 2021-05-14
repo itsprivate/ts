@@ -92,5 +92,19 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Fri May 14 12:28:22 +0000 2021"
+  "original_created_at": "Fri May 14 12:28:22 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "ある銘柄が70％下落した場合、最大でもあと30％の損失になります。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "如果一只股票下跌70%，它最多只能再损失30%。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "如果一隻股票下跌70%，它最多隻能再損失30%。"
+    }
+  ]
 }
