@@ -43,5 +43,22 @@
   "original_created_at": "2021-05-12T16:53:52Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EabS0EL---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bmni58cbyn52uk8r7xyt.png",
   "author": "Rajat Kapoor ",
-  "author_url": "https://dev.to/rajatkapoor"
+  "author_url": "https://dev.to/rajatkapoor",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "react hooksが発売された時、reactのエコシステムが完全に変わりました。私はこれまで、react...",
+      "title": "初めてのカスタムリアクトフックの作成 - useOutsideClick"
+    },
+    {
+      "locale": "zh",
+      "description": "当 react hooks 被推出时，它们完全改变了 react 生态系统。我一直在使用react...",
+      "title": "编写我的第一个自定义反应钩子 - useOutsideClick"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當 react hooks 被推出時，它們完全改變了 react 生態系統。我一直在使用react...",
+      "title": "編寫我的第一個自定義反應鉤子 - useOutsideClick"
+    }
+  ]
 }
