@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-14T14:45:00Z"
+  "original_createdAt": "2021-05-14T14:45:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "GrowthRanker は、Strip で検証された収益データに基づいてスタートアップをランク付けするウェブサイトです。ファウンダーが公共の場で構築し、発見されることを可能にし、投資家が次のユニコーンを見つけることを可能にします。",
+      "tagline": "次のユニコーンを見つける"
+    },
+    {
+      "locale": "zh",
+      "description": "GrowthRanker是一个基于Stripe验证的收入数据对初创企业进行排名的网站。它使创始人能够在公众面前建立并被发现，并使投资者能够找到下一个独角兽。",
+      "tagline": "发现下一个独角兽"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "GrowthRanker是一個基於Stripe驗證的收入數據對初創企業進行排名的網站。它使創始人能夠在公衆面前建立並被發現，並使投資者能夠找到下一個獨角獸。",
+      "tagline": "發現下一個獨角獸"
+    }
+  ]
 }
