@@ -103,5 +103,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1620967427,
-  "the_new_excerpt": "I feel as though I need to make some changes. What worked for you?"
+  "the_new_excerpt": "I feel as though I need to make some changes. What worked for you?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "何かを変えなければならないような気がしています。何が良かったですか？",
+      "title": "どのようにして格段に魅力的になったのでしょうか。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我觉得我好像需要做一些改变。什么对你有用？",
+      "title": "你是如何设法使自己的魅力大大增加的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我覺得我好像需要做一些改變。什麼對你有用？",
+      "title": "你是如何設法使自己的魅力大大增加的？"
+    }
+  ]
 }
