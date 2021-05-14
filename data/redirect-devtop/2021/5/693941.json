@@ -43,5 +43,22 @@
   "original_created_at": "2021-05-10T17:25:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--99tjDWiB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bieshfh1cbfhxmx8gbvq.png",
   "author": "Julien Hery",
-  "author_url": "https://dev.to/julienhery"
+  "author_url": "https://dev.to/julienhery",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私は3年以上前からReactアプリに取り組んでおり、大量のライブラリを使用してヴァージョンアップしてきました。",
+      "title": "2021年のReactライブラリの使用例"
+    },
+    {
+      "locale": "zh",
+      "description": "我从事React应用的工作已经超过3年了，我使用了大量的库来构建Va...",
+      "title": "我在2021年常用的React库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我從事React應用的工作已經超過3年了，我使用了大量的庫來構建Va...",
+      "title": "我在2021年常用的React庫"
+    }
+  ]
 }
