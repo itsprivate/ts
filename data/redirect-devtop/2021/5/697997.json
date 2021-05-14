@@ -50,5 +50,22 @@
   "original_created_at": "2021-05-14T08:55:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lwm16c5i--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tktkajubnstlkm2qqgnf.png",
   "author": "Juan Christian",
-  "author_url": "https://dev.to/hotpotatoc"
+  "author_url": "https://dev.to/hotpotatoc",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "DEVコミュニティの皆さん、こんにちは。最近、VueJSを使ってTwitterのクローンを作ろうとしています...。",
+      "title": "VueJSとGoでTwitter Cloneを作ってみた"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，DEV社区! 👋 我最近试图用VueJS做一个Twitter的克隆，作为其前台。",
+      "title": "我用VueJS和Go做了一个Twitter的克隆版"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，DEV社區! 👋 我最近試圖用VueJS做一個Twitter的克隆，作爲其前臺。",
+      "title": "我用VueJS和Go做了一個Twitter的克隆版"
+    }
+  ]
 }
