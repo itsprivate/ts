@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-12T14:49:18Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--R-3at09f--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bxqd37o6jk4hscpr7vhi.jpg",
   "author": "ingrid.e",
-  "author_url": "https://dev.to/opinionatedpie"
+  "author_url": "https://dev.to/opinionatedpie",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "顧客志向、信頼性志向、セキュリティ志向で開発することの重要性は周知の事実です。しかし、実際には...。",
+      "title": "セキュリティの脆弱性を検出して修正するための5つの開発者ツール"
+    },
+    {
+      "locale": "zh",
+      "description": "我们都知道用客户、可靠性或安全思维来开发的重要性。在现实中...",
+      "title": "5个用于检测和修复安全漏洞的开发者工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們都知道用客戶、可靠性或安全思維來開發的重要性。在現實中...",
+      "title": "5個用於檢測和修復安全漏洞的開發者工具"
+    }
+  ]
 }
