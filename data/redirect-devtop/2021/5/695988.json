@@ -52,5 +52,22 @@
   "original_created_at": "2021-05-12T12:52:39Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--iBEcNMO9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7fjw4lbqhq3fz9hbi1u3.png",
   "author": "Tom Zach",
-  "author_url": "https://dev.to/tomzach"
+  "author_url": "https://dev.to/tomzach",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、Lernaを使って2つのパッケージを管理し、公開する方法をご紹介します...",
+      "title": "Lerna Hello World: How to Create a Monorepo for Multiple Node Packages"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我将指导你如何使用Lerna来管理和发布两个包。",
+      "title": "Lerna Hello World: 如何为多个Node包创建一个Monorepo"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我將指導你如何使用Lerna來管理和發佈兩個包。",
+      "title": "Lerna Hello World: 如何爲多個Node包創建一個Monorepo"
+    }
+  ]
 }
