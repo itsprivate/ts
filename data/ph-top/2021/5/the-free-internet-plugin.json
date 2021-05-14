@@ -76,5 +76,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-14T07:20:02Z"
+  "original_createdAt": "2021-05-14T07:20:02Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "無料のインターネットは、より良いインターネットです。Free Internet Pluginは、Googleの検索結果から有料サイトを削除するプラグインです。HackerNoonのGitHubでオープンソース化されています。F*ck paywalls.",
+      "tagline": "Googleの検索結果から有料の記事を削除"
+    },
+    {
+      "locale": "zh",
+      "description": "一个免费的互联网是一个更好的互联网。免费互联网插件将已知的付费网站从你的谷歌搜索结果中移除。它在HackerNoon的GitHub上是开源的。该死的收费墙。",
+      "tagline": "从谷歌结果中删除付费故事"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個免費的互聯網是一個更好的互聯網。免費互聯網插件將已知的付費網站從你的谷歌搜索結果中移除。它在HackerNoon的GitHub上是開源的。該死的收費牆。",
+      "tagline": "從谷歌結果中刪除付費故事"
+    }
+  ]
 }
