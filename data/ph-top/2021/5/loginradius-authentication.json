@@ -83,5 +83,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-14T07:00:00Z"
+  "original_createdAt": "2021-05-14T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "LoginRadius for Developersは、安全な認証とシングルサインオン(SSO)を単一のコードで統合するための開発者コミュニティツールです。その上で、ダッシュボードから簡単にユーザーを管理することができます。",
+      "tagline": "安全で強固な認証、ユーザー管理を伴うSSO"
+    },
+    {
+      "locale": "zh",
+      "description": "LoginRadius for Developers是一个开发者社区工具，可以用一个代码整合安全认证和单点登录（SSO）。在此基础上，它可以让你轻松地从仪表盘上管理你的用户。",
+      "tagline": "安全和强大的认证，带有用户管理的SSO"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "LoginRadius for Developers是一個開發者社區工具，可以用一個代碼整合安全認證和單點登錄（SSO）。在此基礎上，它可以讓你輕鬆地從儀表盤上管理你的用戶。",
+      "tagline": "安全和強大的認證，帶有用戶管理的SSO"
+    }
+  ]
 }
