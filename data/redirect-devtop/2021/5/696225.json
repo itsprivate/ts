@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-12T15:55:51Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UqjqhMOo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/app-generator/flask-soft-ui-dashboard/master/media/flask-soft-ui-dashboard-screen.png",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "モダンなBootstrap 5 UI KitであるSoft UI Dashboardの上に構築された、シンプルなオープンソースのFlaskスターターです。",
+      "title": "ソフトUIダッシュボード - オープンソースのFlaskスターター"
+    },
+    {
+      "locale": "zh",
+      "description": "简单的开源Flask启动器建立在Soft UI Dashboard之上，这是一个现代Bootstrap 5 UI Kit。",
+      "title": "软UI仪表盘 - 开源的Flask启动器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡單的開源Flask啓動器建立在Soft UI Dashboard之上，這是一個現代Bootstrap 5 UI Kit。",
+      "title": "軟UI儀表盤 - 開源的Flask啓動器"
+    }
+  ]
 }
