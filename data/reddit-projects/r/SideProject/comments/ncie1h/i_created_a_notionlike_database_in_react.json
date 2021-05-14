@@ -215,5 +215,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1621024707,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "NotionのようなデータベースをReactで作ってみた"
+    },
+    {
+      "locale": "zh",
+      "title": "我在React中创建了一个类似Notion的数据库"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我在React中創建了一個類似Notion的數據庫"
+    }
+  ]
 }
