@@ -43,5 +43,22 @@
   "original_created_at": "2021-05-13T08:06:07Z",
   "image": "https://dev.to/social_previews/article/696891.png",
   "author": "Simon Brown",
-  "author_url": "https://dev.to/simonbrown"
+  "author_url": "https://dev.to/simonbrown",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コードとしてのダイアグラムは、ソフトウェア・アーキテクチャを図示する一般的な方法になりつつあります。",
+      "title": "コードとしてのダイアグラム 2.0"
+    },
+    {
+      "locale": "zh",
+      "description": "图解为代码正在成为一种流行的软件架构图解方式，特别是对于长周期的软件而言。",
+      "title": "作为代码的图表2.0"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "圖解爲代碼正在成爲一種流行的軟件架構圖解方式，特別是對於長週期的軟件而言。",
+      "title": "作爲代碼的圖表2.0"
+    }
+  ]
 }
