@@ -382,5 +382,22 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "und",
-  "original_created_at": "Fri May 14 19:02:22 +0000 2021"
+  "original_created_at": "Fri May 14 19:02:22 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @313ryan3 @PeterMcCormack https://t.co/399uZS80FX",
+      "retweeted_status_full_text": "@PeterMcCormack https://t.co/399uZS80FX"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @313ryan3: @PeterMcCormack https://t.co/399uZS80FX",
+      "retweeted_status_full_text": "@PeterMcCormack https://t.co/399uZS80FX"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @313ryan3: @PeterMcCormack https://t.co/399uZS80FX",
+      "retweeted_status_full_text": "@PeterMcCormack https://t.co/399uZS80FX"
+    }
+  ]
 }
