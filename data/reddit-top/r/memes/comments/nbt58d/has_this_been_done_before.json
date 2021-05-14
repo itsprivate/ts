@@ -153,5 +153,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1620944698,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これまでに行われたことはありますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "以前是否有过这样的情况"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "以前是否有過這樣的情況"
+    }
+  ]
 }
