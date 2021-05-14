@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-14T10:56:52Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--la7-OrYq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zpok786y0v1j7wo7kh24.jpg",
   "author": "Spyros Argalias",
-  "author_url": "https://dev.to/sargalias"
+  "author_url": "https://dev.to/sargalias",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事は、初心者のためのプログラミング原理の入門書です。 まず最初に私たちは、プログラミングの原理について説明します。",
+      "title": "クリーンコードとプログラミングの原則 - 初心者のための究極のガイド"
+    },
+    {
+      "locale": "zh",
+      "description": "这篇文章是初学者的编程原理入门指南。 首先，我们要说明的是...",
+      "title": "清洁代码和编程原则--初学者的终极指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這篇文章是初學者的編程原理入門指南。 首先，我們要說明的是...",
+      "title": "清潔代碼和編程原則--初學者的終極指南"
+    }
+  ]
 }
