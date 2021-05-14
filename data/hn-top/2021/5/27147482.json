@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-05-13T21:07:23.000Z",
-  "image": "https://fly.io/public/images/flyctl-preview.png"
+  "image": "https://fly.io/public/images/flyctl-preview.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "フライのプロメテウス・メトリクス"
+    },
+    {
+      "locale": "zh",
+      "title": "弗莱的普罗米修斯指标"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "弗萊的普羅米修斯指標"
+    }
+  ]
 }
