@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-13T03:53:21Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--S86-EJr8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2w09hnxcjp9crh65i3cw.jpg",
   "author": "Will",
-  "author_url": "https://dev.to/ravhawk"
+  "author_url": "https://dev.to/ravhawk",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私の名前はWillです。私は自分がコーダーだとは思っていませんが、将来の希望の星だと思っています。しかし、この年になっても...",
+      "title": "中途半端なコーディング初心者"
+    },
+    {
+      "locale": "zh",
+      "description": "我的名字叫威尔，我不认为自己是一个编码员，而是一个未来的希望。然而，即使在这个年龄...",
+      "title": "中年编码新手"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我的名字叫威爾，我不認爲自己是一個編碼員，而是一個未來的希望。然而，即使在這個年齡...",
+      "title": "中年編碼新手"
+    }
+  ]
 }
