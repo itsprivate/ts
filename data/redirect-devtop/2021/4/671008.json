@@ -52,5 +52,22 @@
   "original_created_at": "2021-04-19T03:04:09Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UqxT4Jjs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dabmygcf8fuvyj1ww670.png",
   "author": "Ibrahim Cesar",
-  "author_url": "https://dev.to/ibrahimcesar"
+  "author_url": "https://dev.to/ibrahimcesar",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Redisといえば速い。これは私が常に抱いていた印象でした。しかし同時に、私にとってのRedisは「ジュー...",
+      "title": "Redis  Redisをサーバーレスデータベースとして活用し、APIの冪等性を解決する"
+    },
+    {
+      "locale": "zh",
+      "description": "Redis意味着快速。这是我一直以来的印象。但是，与此同时，对我来说，Redis是 \"仅仅是...",
+      "title": "Redis。 探索Redis作为无服务器数据库，解决API中的空闲问题"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Redis意味着快速。這是我一直以來的印象。但是，與此同時，對我來說，Redis是 \"僅僅是...",
+      "title": "Redis。 探索Redis作爲無服務器數據庫，解決API中的空閒問題"
+    }
+  ]
 }
