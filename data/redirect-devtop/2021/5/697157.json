@@ -52,5 +52,22 @@
   "original_created_at": "2021-05-13T11:54:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--k2_imRa0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qvcdj4q258oyb2vt215m.png",
   "author": "Pauline P. Narvas (Paw)",
-  "author_url": "https://dev.to/pawlean"
+  "author_url": "https://dev.to/pawlean",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Website-as-a-Service(WaaS)プロジェクトの構築 Terraformを初めて知ったのは...。",
+      "title": "Website-as-a-Serviceプロジェクトの構築"
+    },
+    {
+      "locale": "zh",
+      "description": "建立我的网站即服务（WaaS）项目 我第一次发现Terraform...",
+      "title": "构建我的 \"网站即服务 \"项目"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "建立我的網站即服務（WaaS）項目 我第一次發現Terraform...",
+      "title": "構建我的 \"網站即服務 \"項目"
+    }
+  ]
 }
