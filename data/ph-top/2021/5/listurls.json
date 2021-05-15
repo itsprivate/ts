@@ -57,5 +57,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-15T07:06:10Z"
+  "original_createdAt": "2021-05-15T07:06:10Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ListURLs.comを使えば、URLリンクのリストを作成し、1つの短縮URLリンクとして共有することができます。",
+      "tagline": "尿のリストを作成し、1つのリンクとして共有する"
+    },
+    {
+      "locale": "zh",
+      "description": "在ListURLs.com的帮助下，你可以创建一个url链接的列表，并作为一个缩短的url链接来分享。",
+      "tagline": "创建一个尿液列表并作为一个链接共享"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在ListURLs.com的幫助下，你可以創建一個url鏈接的列表，並作爲一個縮短的url鏈接來分享。",
+      "tagline": "創建一個尿液列表並作爲一個鏈接共享"
+    }
+  ]
 }
