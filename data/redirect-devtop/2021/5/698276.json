@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-14T15:49:40Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SFRhTaNG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o3xy3yz85hwvvco8uuuh.png",
   "author": "Ludal 🚀",
-  "author_url": "https://dev.to/iamludal"
+  "author_url": "https://dev.to/iamludal",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Javascriptの開発をしていると、必ずこのような重要な問題に遭遇することがあります。",
+      "title": "😫 相対的な輸入品には飽きた？処分するなら今！？"
+    },
+    {
+      "locale": "zh",
+      "description": "在你的Javascript开发之旅的某个阶段，你肯定遇到过这些类型的重要问题。",
+      "title": "😫 厌倦了相对的进口商品？是时候摆脱它们了!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在你的Javascript開發之旅的某個階段，你肯定遇到過這些類型的重要問題。",
+      "title": "😫 厭倦了相對的進口商品？是時候擺脫它們了!"
+    }
+  ]
 }
