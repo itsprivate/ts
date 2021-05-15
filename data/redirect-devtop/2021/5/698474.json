@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-14T19:49:18Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DFbtibPY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k3j2a24erd7kfmxvbi6q.gif",
   "author": "Suprabha",
-  "author_url": "https://dev.to/suprabhasupi"
+  "author_url": "https://dev.to/suprabhasupi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "配列から重複したものをフィルタリングして、ユニークな値だけを返す方法は複数あります。....",
+      "title": "配列から重複した値を削除する"
+    },
+    {
+      "locale": "zh",
+      "description": "有多种方法可以过滤掉数组中的重复内容，只返回唯一的值....。",
+      "title": "从数组中删除重复的值"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有多種方法可以過濾掉數組中的重複內容，只返回唯一的值....。",
+      "title": "從數組中刪除重複的值"
+    }
+  ]
 }
