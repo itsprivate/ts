@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-15T02:37:03Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ygbXb3Ye--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k1vv2atv0mbh2vhc2n47.png",
   "author": "Sudarshan Sawandkar",
-  "author_url": "https://dev.to/sudarshansb143"
+  "author_url": "https://dev.to/sudarshansb143",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事を書いている時点で、Reactはバージョン17.02です。飛躍的な成長を目の当たりにするのはとても興味深いことです。",
+      "title": "あなたはReactを使っていますか？ならば、これを知らなければならないと思います。"
+    },
+    {
+      "locale": "zh",
+      "description": "在写这篇文章的时候，React的版本是17.02。看到这个指数级的增长是令人着迷的...",
+      "title": "你在使用React吗？那么我想你一定知道这个"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在寫這篇文章的時候，React的版本是17.02。看到這個指數級的增長是令人着迷的...",
+      "title": "你在使用React嗎？那麼我想你一定知道這個"
+    }
+  ]
 }
