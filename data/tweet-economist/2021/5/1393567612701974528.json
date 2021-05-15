@@ -224,5 +224,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Sat May 15 14:03:04 +0000 2021"
+  "original_created_at": "Sat May 15 14:03:04 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "パンデミックによる世界的な死亡者数は、公式発表された推定値をはるかに上回っています。我々のモデルでは、700万人から1300万人の過剰死亡があったと考えられます https://t.co/DXy1Cb1l40 https://t.co/Glhj0pDn76"
+    },
+    {
+      "locale": "zh",
+      "full_text": "这场大流行的全球死亡人数远远超过了官方的估计。我们的模型表明，已经有700万至1300万的超额死亡 https://t.co/DXy1Cb1l40 https://t.co/Glhj0pDn76"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "這場大流行的全球死亡人數遠遠超過了官方的估計。我們的模型表明，已經有700萬至1300萬的超額死亡 https://t.co/DXy1Cb1l40 https://t.co/Glhj0pDn76"
+    }
+  ]
 }
