@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-15T07:13:32Z"
+  "original_createdAt": "2021-05-15T07:13:32Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "GmailからNotionのワークスペースにメールを保存します。",
+      "tagline": "GmailからNotionのワークスペースにメールメッセージを保存する"
+    },
+    {
+      "locale": "zh",
+      "description": "将Gmail中的邮件信息保存到你的Notion工作区。",
+      "tagline": "从Gmail中保存电子邮件到你的Notion工作区"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "將Gmail中的郵件信息保存到你的Notion工作區。",
+      "tagline": "從Gmail中保存電子郵件到你的Notion工作區"
+    }
+  ]
 }
