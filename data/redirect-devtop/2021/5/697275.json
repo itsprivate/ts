@@ -43,5 +43,22 @@
   "original_created_at": "2021-05-13T15:17:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--48REPu1p--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y36nv4wzx7hbos1n8uum.png",
   "author": "Bibek",
-  "author_url": "https://dev.to/bibekkakati"
+  "author_url": "https://dev.to/bibekkakati",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さんこんにちは👋 今回は、zoomのようなアプリケーションがScreen Capture APIを使ってどのようにプロビジョニングを行うかをご紹介します。",
+      "title": "JavaScriptで画面をキャプチャーしてズームで流す"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好👋在这篇文章中，我们将看到像zoom这样的应用程序如何使用屏幕捕捉API提供的服务。",
+      "title": "使用JavaScript捕获屏幕并像缩放一样流媒体"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好👋在這篇文章中，我們將看到像zoom這樣的應用程序如何使用屏幕捕捉API提供的服務。",
+      "title": "使用JavaScript捕獲屏幕並像縮放一樣流媒體"
+    }
+  ]
 }
