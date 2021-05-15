@@ -52,5 +52,22 @@
   "original_created_at": "2021-05-13T23:29:40Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LB8B-ToX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rdxr1prseelk750dgbgs.png",
   "author": "Ryan Thelin",
-  "author_url": "https://dev.to/ryanthelin"
+  "author_url": "https://dev.to/ryanthelin",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "新しいプログラミング言語を学ぶことは難しく、誰もが同じ方法で学べるわけではありません。多くの人にとって、手...",
+      "title": "JavaScriptチュートリアル。モダンなJavaScriptでテトリスを作る"
+    },
+    {
+      "locale": "zh",
+      "description": "学习一种新的编程语言是很困难的，而且不是每个人的学习方式都一样。对许多人来说，手...",
+      "title": "JavaScript教程。用现代JavaScript构建俄罗斯方块"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "學習一種新的編程語言是很困難的，而且不是每個人的學習方式都一樣。對許多人來說，手...",
+      "title": "JavaScript教程。用現代JavaScript構建俄羅斯方塊"
+    }
+  ]
 }
