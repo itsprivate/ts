@@ -50,5 +50,22 @@
   "original_created_at": "2021-05-13T20:36:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BJ7lPn6l--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8pk5k9sudqd3v6zhwjm.jpeg",
   "author": "Arek Nawo",
-  "author_url": "https://dev.to/areknawo"
+  "author_url": "https://dev.to/areknawo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ウェブ開発者にとって、ブラウザの開発ツールは、ウェブアプリケーションと並んで最も重要な作業ツールであることは間違いありません。",
+      "title": "開発ツールのコンソール体験を向上させます。"
+    },
+    {
+      "locale": "zh",
+      "description": "作为一名网络开发人员，你的浏览器的开发工具肯定是最重要的工作工具，就在你的身边。",
+      "title": "为您的DevTools提供更好的控制台体验!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "作爲一名網絡開發人員，你的瀏覽器的開發工具肯定是最重要的工作工具，就在你的身邊。",
+      "title": "爲您的DevTools提供更好的控制檯體驗!"
+    }
+  ]
 }
