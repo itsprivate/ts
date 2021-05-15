@@ -205,5 +205,22 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Fri May 14 23:13:10 +0000 2021"
+  "original_created_at": "Fri May 14 23:13:10 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "貧しい人でも、カリフォルニア州では法律を破ることができる https://t.co/hKwkbMrQO7",
+      "quoted_status_full_text": "NEW: カリフォルニア州では、低所得のカリフォルニア州民を対象に、交通料金や罰金の債務を免除します。2015年から2021年6月までのチケットは免除されます。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "穷人可以在加州犯法 https://t.co/hKwkbMrQO7",
+      "quoted_status_full_text": "新消息：加州将消除低收入的加州人因交通费和罚款而欠下的债务。2015年至2021年6月的罚单将被免除。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "窮人可以在加州犯法 https://t.co/hKwkbMrQO7",
+      "quoted_status_full_text": "新消息：加州將消除低收入的加州人因交通費和罰款而欠下的債務。2015年至2021年6月的罰單將被免除。"
+    }
+  ]
 }
