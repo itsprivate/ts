@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-13T04:26:01Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2ybCDffe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://i.ibb.co/pRpcs6x/Angular-12.png",
   "author": "Sandeep Balachandran",
-  "author_url": "https://dev.to/sandeepbalachandran"
+  "author_url": "https://dev.to/sandeepbalachandran",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "バージョン12.0.0がリリースされ、Angular開発者のための素晴らしいアップデートが施されました。🎉...",
+      "title": "⭐Angular 12が登場しました。"
+    },
+    {
+      "locale": "zh",
+      "description": "嘿，12.0.0版本来了，它为各地的Angular开发者提供了一些伟大的更新。🎉...",
+      "title": "⭐Angular 12 现已上市 ⭐"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嘿，12.0.0版本來了，它爲各地的Angular開發者提供了一些偉大的更新。🎉...",
+      "title": "⭐Angular 12 現已上市 ⭐"
+    }
+  ]
 }
