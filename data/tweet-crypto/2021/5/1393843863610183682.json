@@ -195,5 +195,22 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Sun May 16 08:20:48 +0000 2021"
+  "original_created_at": "Sun May 16 08:20:48 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @ProfFeynman: \"意見を言えるほどの知識はありません \"と言うことが実際に可能であることをご存知でしたか？",
+      "retweeted_status_full_text": "\"意見を言えるほどの知識はありません \"と言うことが可能であることをご存知ですか？"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @ProfFeynman: 你知道吗，你实际上有可能说：\"我对这个问题了解不够，所以没有意见\"",
+      "retweeted_status_full_text": "你知道吗，实际上你有可能说：\"我对这个问题了解不够，所以没有意见\""
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @ProfFeynman: 你知道嗎，你實際上有可能說：\"我對這個問題了解不夠，所以沒有意見\"",
+      "retweeted_status_full_text": "你知道嗎，實際上你有可能說：\"我對這個問題了解不夠，所以沒有意見\""
+    }
+  ]
 }
