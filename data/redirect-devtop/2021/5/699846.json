@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-16T13:52:37Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dIJv4oZr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0zubogzgqli7k69orwqd.jpg",
   "author": "Naseki",
-  "author_url": "https://dev.to/naseki"
+  "author_url": "https://dev.to/naseki",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私のウェブサイトには、カーソルの位置を追跡する小さなイラストがあります。唯一のJavaScriptの動作は...",
+      "title": "ステップ・バイ・ステップ・ガイド JavaScriptでカーソルの位置をCSS変数に渡す"
+    },
+    {
+      "locale": "zh",
+      "description": "我的网站有一个小插图，可以跟踪你的光标的位置。唯一的JavaScript是，它是一个 \"小的\"。",
+      "title": "一步一步的指南。用JavaScript将你的光标位置传递给CSS变量"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我的網站有一個小插圖，可以跟蹤你的光標的位置。唯一的JavaScript是，它是一個 \"小的\"。",
+      "title": "一步一步的指南。用JavaScript將你的光標位置傳遞給CSS變量"
+    }
+  ]
 }
