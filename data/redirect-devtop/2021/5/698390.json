@@ -50,5 +50,22 @@
   "original_created_at": "2021-05-14T16:51:32Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OZ3KtT0k--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vlpe186xz9mul1whju3z.jpeg",
   "author": "Harsh Mangalam",
-  "author_url": "https://dev.to/harshmangalam"
+  "author_url": "https://dev.to/harshmangalam",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "開発者の皆様、こんにちは。私はfacebookクローンを一から作成し、基本的なものから高度なものまですべて追加しました。",
+      "title": "MERN スタックで Facebook クローンを作成しました。"
+    },
+    {
+      "locale": "zh",
+      "description": "嗨，开发人员，我已经创建了Facebook的克隆从地面上，并加入了所有基本的先进...",
+      "title": "我已经在MERN堆栈中创建了Facebook的克隆"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嗨，開發人員，我已經創建了Facebook的克隆從地面上，並加入了所有基本的先進...",
+      "title": "我已經在MERN堆棧中創建了Facebook的克隆"
+    }
+  ]
 }

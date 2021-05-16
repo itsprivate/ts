@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-16T04:16:37Z",
   "image": "https://dev.to/social_previews/article/699563.png",
   "author": "Sayem Mohammad Ismail",
-  "author_url": "https://dev.to/smismail"
+  "author_url": "https://dev.to/smismail",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "昨今、React JsはWeb開発のためのフレームワークとして非常に人気があります。このフレームワークには、いくつかの素晴らしい機能があります。",
+      "title": "React JSの10の基本コンセプト"
+    },
+    {
+      "locale": "zh",
+      "description": "如今，React Js已经是一个相当流行的网络开发框架。它有一些令人难以置信的壮举...",
+      "title": "React JS的10个基本概念"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如今，React Js已經是一個相當流行的網絡開發框架。它有一些令人難以置信的壯舉...",
+      "title": "React JS的10個基本概念"
+    }
+  ]
 }
