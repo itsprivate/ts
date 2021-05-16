@@ -72,5 +72,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-16T07:08:45Z"
+  "original_createdAt": "2021-05-16T07:08:45Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Simple Todoは、ブラウザの新規タブページに代わるカスタマイズ可能なツールです。👉 3つの定義済みリストでTodoアイテムを管理 🌒 ダークモード 🏞 設定可能なカラースキーム 🏞 Unsplashからの背景画像",
+      "tagline": "ブラウザの新規タブをシンプルなTodoリストに変える"
+    },
+    {
+      "locale": "zh",
+      "description": "Simple Todo是一个可定制的浏览器新标签页的替代品。管理三个预定义列表中的待办事项 🌒 黑暗模式 🎨 可配置的色彩方案 🏞 来自Unsplash的背景图片",
+      "tagline": "将浏览器的新标签改成一个简单的todo列表"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Simple Todo是一個可定製的瀏覽器新標籤頁的替代品。管理三個預定義列表中的待辦事項 🌒 黑暗模式 🎨 可配置的色彩方案 🏞 來自Unsplash的背景圖片",
+      "tagline": "將瀏覽器的新標籤改成一個簡單的todo列表"
+    }
+  ]
 }
