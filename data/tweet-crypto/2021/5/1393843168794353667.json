@@ -208,5 +208,22 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Sun May 16 08:18:02 +0000 2021"
+  "original_created_at": "Sun May 16 08:18:02 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @_benkaufman: 瞬時の確認、大きなブロック、低い手数料を求めるのであれば、ブロックチェーンではなく、SQLデータベースが必要です。",
+      "retweeted_status_full_text": "即座に確認でき、大規模なブロック、低い手数料を求めるなら、ブロックチェーンではなく、SQLデータベースが必要です。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @_benkaufman: 如果你想要即时确认、大区块和低费用，那么你不想要区块链，你想要SQL数据库。",
+      "retweeted_status_full_text": "如果你想要即时确认、大区块和低费用，那么你不需要区块链，你需要的是一个SQL数据库。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @_benkaufman: 如果你想要即時確認、大區塊和低費用，那麼你不想要區塊鏈，你想要SQL數據庫。",
+      "retweeted_status_full_text": "如果你想要即時確認、大區塊和低費用，那麼你不需要區塊鏈，你需要的是一個SQL數據庫。"
+    }
+  ]
 }

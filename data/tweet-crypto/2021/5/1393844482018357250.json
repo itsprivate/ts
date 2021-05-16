@@ -326,5 +326,22 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Sun May 16 08:23:15 +0000 2021"
+  "original_created_at": "Sun May 16 08:23:15 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @haydenzadams: 理想は、テスラのバッテリーが10倍長持ちして、10倍早く充電できて、コストが100倍下がること。そうすれば、圧倒的な勝利を得ることができます。",
+      "retweeted_status_full_text": "理想は、テスラのバッテリーが10倍長持ちして、10倍早く充電できて、コストが100倍下がること。そうなれば、圧倒的にTeslaの勝ちです。https://t.co/LUZyCGqrDI"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @haydenzadams: 理想情况下，特斯拉电池持续时间长10倍，充电速度快10倍&amp；成本下降100倍。那么它就会赢得胜利。",
+      "retweeted_status_full_text": "理想情况下，特斯拉电池持续时间长10倍，充电速度快10倍&amp；成本下降100倍。然后，它就赢得了胜利。https://t.co/LUZyCGqrDI"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @haydenzadams: 理想情況下，特斯拉電池持續時間長10倍，充電速度快10倍&amp；成本下降100倍。那麼它就會贏得勝利。",
+      "retweeted_status_full_text": "理想情況下，特斯拉電池持續時間長10倍，充電速度快10倍&amp；成本下降100倍。然後，它就贏得了勝利。https://t.co/LUZyCGqrDI"
+    }
+  ]
 }
