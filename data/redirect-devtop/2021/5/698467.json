@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-14T19:40:08Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IuoXvRYh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/65xa1ar3yxeq6zjvbhwk.png",
   "author": "Bibek",
-  "author_url": "https://dev.to/bibekkakati"
+  "author_url": "https://dev.to/bibekkakati",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さんこんにちは👋 今回は、Javのデータ型であるbooleanの挙動について説明してみたいと思います...",
+      "title": "JavaScriptでは、Trueは常にTrueではない"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好👋 在这篇文章中，我将尝试解释Jav.com的布尔数据类型的行为。",
+      "title": "在JavaScript中，\"真实 \"并不总是真实"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好👋 在這篇文章中，我將嘗試解釋Jav.com的布爾數據類型的行爲。",
+      "title": "在JavaScript中，\"真實 \"並不總是真實"
+    }
+  ]
 }

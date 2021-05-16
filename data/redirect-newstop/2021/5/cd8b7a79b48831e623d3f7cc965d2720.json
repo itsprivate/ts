@@ -14,5 +14,19 @@
   "tags": [
     "BBC News"
   ],
-  "image": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.1.0/bbc_news_logo.png"
+  "image": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.1.0/bbc_news_logo.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Covid社：イングランドの35歳以上の人々が今週中にワクチンを接種"
+    },
+    {
+      "locale": "zh",
+      "title": "科维德：英格兰35岁以上人群本周将接种疫苗"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "科維德：英格蘭35歲以上人羣本週將接種疫苗"
+    }
+  ]
 }
