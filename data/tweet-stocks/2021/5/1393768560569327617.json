@@ -203,5 +203,22 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Sun May 16 03:21:34 +0000 2021"
+  "original_created_at": "Sun May 16 03:21:34 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "これが現実だとは信じられない https://t.co/CeIAeWjV02",
+      "quoted_status_full_text": "@itsALLrisky 理想的なのは、Dogeがブロックタイムを10倍にして、ブロックサイズを10倍にして、手数料を100倍に下げることです。そうすれば、Dogeの圧勝です。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "我不相信这是真的https://t.co/CeIAeWjV02。",
+      "quoted_status_full_text": "@itsALLrisky 理想情况下，Doge将区块时间加快10倍，区块大小增加10倍&amp；将费用降低100倍。然后它就会赢得胜利。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "我不相信這是真的https://t.co/CeIAeWjV02。",
+      "quoted_status_full_text": "@itsALLrisky 理想情況下，Doge將區塊時間加快10倍，區塊大小增加10倍&amp；將費用降低100倍。然後它就會贏得勝利。"
+    }
+  ]
 }
