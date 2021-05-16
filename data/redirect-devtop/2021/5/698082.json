@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-14T11:23:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2oxhGZ8p--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qz5pwe7nh8fhlny2oa2a.png",
   "author": "Andrew Baisden",
-  "author_url": "https://dev.to/andrewbaisden"
+  "author_url": "https://dev.to/andrewbaisden",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ObsidianはMarkdownのエディタとリーダーで、Markdownファイルのフォルダを非常に強力なリーダーに変えることができます。",
+      "title": "Markdownアプリ「Obsidian」をセカンドブレインとして使う方法"
+    },
+    {
+      "locale": "zh",
+      "description": "Obsidian是一个Markdown编辑器和阅读器，可以将一个Markdown文件文件夹变成一个非常强大的工具。",
+      "title": "我是如何将Markdown应用Obsidian作为第二大脑的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Obsidian是一個Markdown編輯器和閱讀器，可以將一個Markdown文件文件夾變成一個非常強大的工具。",
+      "title": "我是如何將Markdown應用Obsidian作爲第二大腦的？"
+    }
+  ]
 }
