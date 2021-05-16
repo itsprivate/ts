@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-16T04:27:12Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1U_cJyJ9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u1ctm2b84lqdkwcnvmmc.jpg",
   "author": "Amandeep Singh",
-  "author_url": "https://dev.to/aman_singh"
+  "author_url": "https://dev.to/aman_singh",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "一歩踏み出すこと 学ぶことは終わりのないプロセスです。私たちが生きている時代は、様々なものを運んできます。",
+      "title": "コーディングスキルを向上させるニュースレターのキュレーションリスト\n"
+    },
+    {
+      "locale": "zh",
+      "description": "向前迈出一步 学习是一个无止境的过程。我们所处的时代蕴含着巨大的潜力。",
+      "title": "为提高你的编码技能而策划的新闻通讯清单\n"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "向前邁出一步 學習是一個無止境的過程。我們所處的時代蘊含着巨大的潛力。",
+      "title": "爲提高你的編碼技能而策劃的新聞通訊清單\n"
+    }
+  ]
 }
