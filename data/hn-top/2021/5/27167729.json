@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-05-15T18:37:11.000Z",
-  "image": "https://bibliogram.art/static/img/banner-min.svg"
+  "image": "https://bibliogram.art/static/img/banner-min.svg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Bibliogram - Instagramのオープンソース・フロントエンド"
+    },
+    {
+      "locale": "zh",
+      "title": "Bibliogram - Instagram的开源前端"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Bibliogram - Instagram的開源前端"
+    }
+  ]
 }
