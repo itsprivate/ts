@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-03T09:08:01Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--371t4kNb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1tu49zoep0lhw4v7c2c9.png",
   "author": "Arnold Samuel Chan",
-  "author_url": "https://dev.to/arnoldschan"
+  "author_url": "https://dev.to/arnoldschan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私はReact.jsを使ってウェブアプリを作ることを学んできました。そして、このプロジェクトはとても素晴らしいものになりました...。",
+      "title": "フルスタック・インスタグラム はじめに "
+    },
+    {
+      "locale": "zh",
+      "description": "我一直在学习使用React.js构建一个网络应用。而这个项目原来是相当棒的...",
+      "title": "全栈式Instagram。简介 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我一直在學習使用React.js構建一個網絡應用。而這個項目原來是相當棒的...",
+      "title": "全棧式Instagram。簡介 "
+    }
+  ]
 }
