@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-15T06:31:52Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Vw__2w8---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gjk51pt2v274f3ekoikn.png",
   "author": "Neha Soni",
-  "author_url": "https://dev.to/nehasoni__"
+  "author_url": "https://dev.to/nehasoni__",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "読者の皆様、こんにちは。この記事では、Javaでシンプルなアニメーションのデジタル時計をデザインする方法をご紹介します...",
+      "title": "JavaScriptを使ったデジタル時計"
+    },
+    {
+      "locale": "zh",
+      "description": "读者您好，在这篇文章中，您将学习如何在Java中设计一个简单的动画数字钟。",
+      "title": "使用JavaScript的数字时钟"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "讀者您好，在這篇文章中，您將學習如何在Java中設計一個簡單的動畫數字鐘。",
+      "title": "使用JavaScript的數字時鐘"
+    }
+  ]
 }
