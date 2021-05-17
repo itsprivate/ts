@@ -98,5 +98,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-17T08:07:33Z"
+  "original_createdAt": "2021-05-17T08:07:33Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "テレグラム・メッセンジャー上で、素早く便利にチケットを検索することができます。価格が変わるたびに雷のような通知を受けることができます。",
+      "tagline": "最安値のフライト情報をTelegramでお知らせ"
+    },
+    {
+      "locale": "zh",
+      "description": "在Telegram信使上快速方便地搜索门票。每当价格发生变化时，都能得到闪电般的通知。",
+      "tagline": "在Telegram上获得最便宜航班的通知"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在Telegram信使上快速方便地搜索門票。每當價格發生變化時，都能得到閃電般的通知。",
+      "tagline": "在Telegram上獲得最便宜航班的通知"
+    }
+  ]
 }
