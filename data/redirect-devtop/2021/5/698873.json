@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-15T07:39:38Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nUAb8DM1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rzhq0lq0743gx40ahdet.jpeg",
   "author": "faisal khan",
-  "author_url": "https://dev.to/faisalpathan"
+  "author_url": "https://dev.to/faisalpathan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "モーダルとは、ウェブサイトの最前面に表示される小さなUI要素のことで、通常は......として起動します。",
+      "title": "Reactでコンポーネントを作る。モーダル"
+    },
+    {
+      "locale": "zh",
+      "description": "模态是一个小的UI元素，它将出现在网站的前台，通常作为一个触发点。",
+      "title": "在React中构建组件。模态"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "模態是一個小的UI元素，它將出現在網站的前臺，通常作爲一個觸發點。",
+      "title": "在React中構建組件。模態"
+    }
+  ]
 }
