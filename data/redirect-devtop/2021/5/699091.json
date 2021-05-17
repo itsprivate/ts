@@ -43,5 +43,22 @@
   "original_created_at": "2021-05-15T13:14:40Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WVESWIzD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f8hudn7zkzd3b0xdv1sm.gif",
   "author": "Luke Garrigan",
-  "author_url": "https://dev.to/lukegarrigan"
+  "author_url": "https://dev.to/lukegarrigan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "普段は自分のためにやっていることなので、このようなブログを開発者に投稿することはありませんが、ゲーム開発は自分のためにやっています。",
+      "title": "蛇🐍のコーディング方法"
+    },
+    {
+      "locale": "zh",
+      "description": "我通常不会把这样的博客发到开发部，因为这是我通常为自己做的事情，游戏开发是我的工作。",
+      "title": "如何为蛇编码 🐍"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我通常不會把這樣的博客發到開發部，因爲這是我通常爲自己做的事情，遊戲開發是我的工作。",
+      "title": "如何爲蛇編碼 🐍"
+    }
+  ]
 }
