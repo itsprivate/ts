@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-17T07:24:37Z"
+  "original_createdAt": "2021-05-17T07:24:37Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "OutfunnelのApp connectorは、すべてのマーケティングツールとCRM（Copper、Pipedrive、HubSpot）の間で、驚くほど簡単に深いデータ接続を実現します。刺激的ではありませんが、営業担当者とマーケティング担当者を連携させたい場合には非常に便利です。",
+      "tagline": "セールスとマーケティングのデータを深く、簡単に結びつけることができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "Outfunnel的应用程序连接器使得在你所有的营销工具和CRM（Copper、Pipedrive、HubSpot）之间创建深度数据连接变得非常容易。这不是很令人兴奋，但如果你想让你的销售和营销人员一起工作，那就非常有用。",
+      "tagline": "深入轻松地连接你的销售和营销数据"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Outfunnel的應用程序連接器使得在你所有的營銷工具和CRM（Copper、Pipedrive、HubSpot）之間創建深度數據連接變得非常容易。這不是很令人興奮，但如果你想讓你的銷售和營銷人員一起工作，那就非常有用。",
+      "tagline": "深入輕鬆地連接你的銷售和營銷數據"
+    }
+  ]
 }
