@@ -103,5 +103,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1621241484,
-  "the_new_excerpt": "Any suggestions with a storyline like this?"
+  "the_new_excerpt": "Any suggestions with a storyline like this?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "このようなストーリーで何か提案はありますか？",
+      "title": "私は地図を破壊したが、私はそれを覚えているので、あなたは私を必要とします。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "对这样的故事情节有什么建议吗？",
+      "title": "我破坏了地图，但我记得它，所以你需要我的特质"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "對這樣的故事情節有什麼建議嗎？",
+      "title": "我破壞了地圖，但我記得它，所以你需要我的特質"
+    }
+  ]
 }
