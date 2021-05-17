@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-05-17T07:03:57.000Z",
-  "image": "https://www.jolie-lang.org/imgs/jolie_big_eye.png"
+  "image": "https://www.jolie-lang.org/imgs/jolie_big_eye.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "サービス指向プログラミング言語「Jolie"
+    },
+    {
+      "locale": "zh",
+      "title": "Jolie，面向服务的编程语言"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Jolie，面向服務的編程語言"
+    }
+  ]
 }
