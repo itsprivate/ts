@@ -207,5 +207,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Sun May 16 20:25:55 +0000 2021"
+  "original_created_at": "Sun May 16 20:25:55 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "始まりの経緯 進捗状況 https://t.co/ykvzkWCmAP"
+    },
+    {
+      "locale": "zh",
+      "full_text": "它是如何开始的 它是如何发展的 https://t.co/ykvzkWCmAP"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "它是如何開始的 它是如何發展的 https://t.co/ykvzkWCmAP"
+    }
+  ]
 }
