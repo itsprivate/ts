@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-16T14:24:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EnzJ-Zsn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rc3zq40aom4os8xurlpb.png",
   "author": "Yuvaraj",
-  "author_url": "https://dev.to/yuvgeek"
+  "author_url": "https://dev.to/yuvgeek",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "みなさん、こんにちは👋 今回は、Gitのstash機能についてご紹介します。この記事では、Gitのstash機能について説明します。",
+      "title": "Gitの隠れた機能を知る - Stash"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好👋，在这篇文章中，我们来讨论一下Git中的存储功能。我们将在本文中讨论Git的存储功能。",
+      "title": "学习Git中的隐藏功能--Stash"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好👋，在這篇文章中，我們來討論一下Git中的存儲功能。我們將在本文中討論Git的存儲功能。",
+      "title": "學習Git中的隱藏功能--Stash"
+    }
+  ]
 }
