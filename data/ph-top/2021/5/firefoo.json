@@ -98,5 +98,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-17T07:01:00Z"
+  "original_createdAt": "2021-05-17T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Firefooは、Firebase Cloud Firestoreの洗練されたGUIツールです。テーブルやツリー、JSONでのデータの表示や編集、JSONやCSVへのエクスポート、JavaScriptシェルからのクエリの実行などが可能です。",
+      "tagline": "スマートなGUIでCloud Firestoreのデータを管理できる"
+    },
+    {
+      "locale": "zh",
+      "description": "Firefoo是一个复杂的Firebase Cloud Firestore的GUI工具。在表格、树形或JSON中查看和编辑你的数据，导出到JSON和CSV，并从一个JavaScript外壳中运行查询。",
+      "tagline": "通过智能GUI获得对云端防火墙数据的控制权"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Firefoo是一個複雜的Firebase Cloud Firestore的GUI工具。在表格、樹形或JSON中查看和編輯你的數據，導出到JSON和CSV，並從一個JavaScript外殼中運行查詢。",
+      "tagline": "通過智能GUI獲得對雲端防火牆數據的控制權"
+    }
+  ]
 }
