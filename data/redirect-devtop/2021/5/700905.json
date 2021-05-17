@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-17T14:45:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vys-bnnx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2uuinjhsatdh0slpj9h9.png",
   "author": "Jared Nielsen",
-  "author_url": "https://dev.to/nielsenjared"
+  "author_url": "https://dev.to/nielsenjared",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "シンプルで覚えやすいテクニックを使って、どんなアルゴリズムでも解けてしまう方法をご紹介します。",
+      "title": "どんなアルゴリズムでも解けてしまう方法"
+    },
+    {
+      "locale": "zh",
+      "description": "学习如何使用这些简单易记的技术来解决任何算法。",
+      "title": "如何解决任何算法的问题"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "學習如何使用這些簡單易記的技術來解決任何算法。",
+      "title": "如何解決任何算法的問題"
+    }
+  ]
 }

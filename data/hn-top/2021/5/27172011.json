@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-05-16T07:59:05.000Z",
-  "image": "https://blog.robertelder.org/images/detect-keyup-linux-terminal-thumb_750x450_q92.jpeg"
+  "image": "https://blog.robertelder.org/images/detect-keyup-linux-terminal-thumb_750x450_q92.jpeg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "なぜLinuxではキーアップイベントの検出が難しいのですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "为什么在Linux上检测按键事件如此困难？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲什麼在Linux上檢測按鍵事件如此困難？"
+    }
+  ]
 }
