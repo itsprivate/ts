@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-16T19:48:52Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5_97J-36--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1ta1w8rjriiu8xl6abyo.png",
   "author": "Suprabha",
-  "author_url": "https://dev.to/suprabhasupi"
+  "author_url": "https://dev.to/suprabhasupi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JavaScriptの開発者なら誰でも、`console.log(\"message\")`を使ったことがあるでしょう。 これは、シンプルなデバッグコンソールを提供します。",
+      "title": "プロのようなJavascriptコンソールの使用"
+    },
+    {
+      "locale": "zh",
+      "description": "每个JavaScript开发者都使用过`console.log(\"message\")`。 它提供了一个简单的调试控制台。",
+      "title": "像专家一样使用Javascript控制台"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "每個JavaScript開發者都使用過`console.log(\"message\")`。 它提供了一個簡單的調試控制檯。",
+      "title": "像專家一樣使用Javascript控制檯"
+    }
+  ]
 }
