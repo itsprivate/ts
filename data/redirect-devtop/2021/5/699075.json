@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-15T12:47:13Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--A5vqwpLr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k0lp6aocc2jokdy3mqs5.jpg",
   "author": "Monica Powell",
-  "author_url": "https://dev.to/m0nica"
+  "author_url": "https://dev.to/m0nica",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "デバッグの進め方の概要",
+      "title": "探偵のようにソフトウェアをデバッグするためのヒント"
+    },
+    {
+      "locale": "zh",
+      "description": "人们可以采取的调试方式概述",
+      "title": "像侦探一样调试软件的技巧"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "人們可以採取的調試方式概述",
+      "title": "像偵探一樣調試軟件的技巧"
+    }
+  ]
 }
