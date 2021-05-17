@@ -248,5 +248,22 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Mon May 17 08:24:57 +0000 2021"
+  "original_created_at": "Mon May 17 08:24:57 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @bluepnume: @adam3us @PayPal PayPalでも、決済層と取引層の違いを理解しています。)",
+      "retweeted_status_full_text": "@adam3us @PayPal PayPalでも、決済層と取引層の違いを理解しています。)"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @bluepnume: @adam3us @PayPal 即使在PayPal，我们也明白结算层和交易层之间的区别。)",
+      "retweeted_status_full_text": "@adam3us @PayPal 即使在PayPal，我们也明白结算层和交易层之间的区别。)"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @bluepnume: @adam3us @PayPal 即使在PayPal，我們也明白結算層和交易層之間的區別。)",
+      "retweeted_status_full_text": "@adam3us @PayPal 即使在PayPal，我們也明白結算層和交易層之間的區別。)"
+    }
+  ]
 }

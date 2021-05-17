@@ -289,5 +289,22 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Mon May 17 07:56:29 +0000 2021"
+  "original_created_at": "Mon May 17 07:56:29 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "もしあなたが声明を出したいのであれば、テスラの株を売って代わりに#ビットコインを買うことは非常に効果的であると思います。https://t.co/MtWjcoha2t。",
+      "quoted_status_full_text": "なんてこった......これは美しい。俺の親父はテスラの株を捨ててビットコインを買い増ししているよ。https://t.co/F7nghJQO4B"
+    },
+    {
+      "locale": "zh",
+      "full_text": "如果你想发表声明，卖掉你的特斯拉股票并买入#比特币，可能是非常有效的做法。https://t.co/MtWjcoha2t",
+      "quoted_status_full_text": "我靠，这太美了。我爸爸正在抛售他的特斯拉股票以购买更多的比特币。https://t.co/F7nghJQO4B"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "如果你想發表聲明，賣掉你的特斯拉股票並買入#比特幣，可能是非常有效的做法。https://t.co/MtWjcoha2t",
+      "quoted_status_full_text": "我靠，這太美了。我爸爸正在拋售他的特斯拉股票以購買更多的比特幣。https://t.co/F7nghJQO4B"
+    }
+  ]
 }
