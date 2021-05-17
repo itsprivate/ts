@@ -101,5 +101,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1621271434,
-  "the_new_excerpt": "Thats it thats the question"
+  "the_new_excerpt": "Thats it thats the question",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "それが問題なのだ。",
+      "title": "なぜ、グリーンオリーブは瓶入りで、ブラックオリーブは缶入りなのですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "就这样，这就是问题所在",
+      "title": "为什么绿橄榄是罐装的，而黑橄榄是罐装的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "就這樣，這就是問題所在",
+      "title": "爲什麼綠橄欖是罐裝的，而黑橄欖是罐裝的？"
+    }
+  ]
 }
