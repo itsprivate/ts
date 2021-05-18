@@ -111,5 +111,19 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Tue May 18 15:43:51 +0000 2021"
+  "original_created_at": "Tue May 18 15:43:51 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "賃金上昇を悪いことだと考える人が多いのは、金融業界だけです。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "金融业是唯一一个人们认为工资上涨是一件坏事的行业。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "金融業是唯一一個人們認爲工資上漲是一件壞事的行業。"
+    }
+  ]
 }
