@@ -113,5 +113,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Mon May 17 20:32:11 +0000 2021"
+  "original_created_at": "Mon May 17 20:32:11 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "The New York Timesが調査した社内文書、およびAppleの現・元社員やセキュリティ専門家へのインタビューによると、Appleは中国当局をなだめるためにデータセキュリティを犠牲にしているという。https://t.co/rklL3ojOIt"
+    },
+    {
+      "locale": "zh",
+      "full_text": "根据《纽约时报》审查的公司内部文件以及对苹果公司现任和前任员工及安全专家的采访，苹果公司为安抚中国当局，在数据安全方面做出了妥协。https://t.co/rklL3ojOIt。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "根據《紐約時報》審查的公司內部文件以及對蘋果公司現任和前任員工及安全專家的採訪，蘋果公司爲安撫中國當局，在數據安全方面做出了妥協。https://t.co/rklL3ojOIt。"
+    }
+  ]
 }

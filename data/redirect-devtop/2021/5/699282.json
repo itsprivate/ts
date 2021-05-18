@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-15T17:55:25Z",
   "image": "https://dev.to/social_previews/article/699282.png",
   "author": "Rafael Rozon",
-  "author_url": "https://dev.to/rafaelrozon"
+  "author_url": "https://dev.to/rafaelrozon",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これは、Storybookとコンベンションについての投稿です。これは、私がこれまでStorybookを使ってきた経験に基づいています...",
+      "title": "10 ストーリーブックのベストプラクティス"
+    },
+    {
+      "locale": "zh",
+      "description": "这是一篇关于Storybook和公约的文章。它是基于我在过去几年中使用Storybook的经验。",
+      "title": "10个故事书的最佳做法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是一篇關於Storybook和公約的文章。它是基於我在過去幾年中使用Storybook的經驗。",
+      "title": "10個故事書的最佳做法"
+    }
+  ]
 }
