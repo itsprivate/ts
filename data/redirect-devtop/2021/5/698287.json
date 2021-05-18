@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-14T16:16:57Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UheQYGmN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0s4jmhvxw6sya3xq8bqj.png",
   "author": "Kiran Raj R",
-  "author_url": "https://dev.to/kiranrajvjd"
+  "author_url": "https://dev.to/kiranrajvjd",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ウェブ開発では、日付や時間の値を扱う必要がある場合が多くあります。",
+      "title": "JavaScriptのDateオブジェクトについて知っておくべきこと"
+    },
+    {
+      "locale": "zh",
+      "description": "在网络开发中，有很多情况下我们需要与日期/时间值进行交互，我们需要对其进行处理。",
+      "title": "关于JavaScript中的日期对象，你需要知道的一切"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在網絡開發中，有很多情況下我們需要與日期/時間值進行交互，我們需要對其進行處理。",
+      "title": "關於JavaScript中的日期對象，你需要知道的一切"
+    }
+  ]
 }
