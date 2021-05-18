@@ -14,5 +14,19 @@
   "tags": [
     "The New York Times"
   ],
-  "image": "https://static01.nyt.com/images/2021/05/17/world/17uk-virus1/17uk-virus1-facebookJumbo.jpg"
+  "image": "https://static01.nyt.com/images/2021/05/17/world/17uk-virus1/17uk-virus1-facebookJumbo.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "イギリスでロックダウンが終了、少なくとも今は"
+    },
+    {
+      "locale": "zh",
+      "title": "英国的封锁结束了，至少现在是这样"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "英國的封鎖結束了，至少現在是這樣"
+    }
+  ]
 }
