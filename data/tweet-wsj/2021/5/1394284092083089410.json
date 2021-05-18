@@ -113,5 +113,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Mon May 17 13:30:06 +0000 2021"
+  "original_created_at": "Mon May 17 13:30:06 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "イーロン・マスクのツイートにより、テスラが保有する暗号通貨https://t.co/Kaprb8DVAE を売却した、あるいは売却するのではないかという憶測が広がり、ビットコインのドル価値は7％以上下落しました。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "在埃隆-马斯克的一条推文促使人们猜测特斯拉已经或将要出售其持有的加密货币https://t.co/Kaprb8DVAE，比特币的美元价值下跌超过7%。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "在埃隆-馬斯克的一條推文促使人們猜測特斯拉已經或將要出售其持有的加密貨幣https://t.co/Kaprb8DVAE，比特幣的美元價值下跌超過7%。"
+    }
+  ]
 }
