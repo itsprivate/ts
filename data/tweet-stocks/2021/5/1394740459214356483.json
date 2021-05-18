@@ -92,5 +92,19 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Tue May 18 19:43:33 +0000 2021"
+  "original_created_at": "Tue May 18 19:43:33 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "売ってこそのねずみ講です。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "只有当你卖出时，它才是一个庞氏骗局。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "只有當你賣出時，它纔是一個龐氏騙局。"
+    }
+  ]
 }

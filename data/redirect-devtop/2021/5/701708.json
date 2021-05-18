@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-18T12:25:56Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ux4niQoz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v8uati1h8qzfe3dhmmoi.png",
   "author": "Daryl Lukas",
-  "author_url": "https://dev.to/daryllukas"
+  "author_url": "https://dev.to/daryllukas",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JavaScriptのコンソールオブジェクトには、デバッグ時に非常に便利なメソッドが多数用意されています。以下は、そのうちの一つです。",
+      "title": "console.log()以外にも様々なことができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "JavaScript控制台对象有许多方法，对调试非常有用。下面是一些方法。",
+      "title": "你可以做的不仅仅是 console.log()"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "JavaScript控制檯對象有許多方法，對調試非常有用。下面是一些方法。",
+      "title": "你可以做的不僅僅是 console.log()"
+    }
+  ]
 }
