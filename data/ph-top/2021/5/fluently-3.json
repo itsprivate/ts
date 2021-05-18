@@ -143,5 +143,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-18T07:55:15Z"
+  "original_createdAt": "2021-05-18T07:55:15Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Fluentlyは、翻訳機、多言語文法チェッカー、同義語ライブラリを内蔵した、気が散らないオンラインエディタです。外国語で書かれた文章を上達させましょう。",
+      "tagline": "どの言語でも流暢に書ける"
+    },
+    {
+      "locale": "zh",
+      "description": "Fluently是一个在线无干扰编辑器，内置翻译器、多语言语法检查器和同义词库。提高你的外语写作水平。",
+      "tagline": "用任何语言流利地写作"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Fluently是一個在線無干擾編輯器，內置翻譯器、多語言語法檢查器和同義詞庫。提高你的外語寫作水平。",
+      "tagline": "用任何語言流利地寫作"
+    }
+  ]
 }
