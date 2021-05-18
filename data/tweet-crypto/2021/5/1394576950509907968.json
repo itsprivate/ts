@@ -208,5 +208,22 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Tue May 18 08:53:49 +0000 2021"
+  "original_created_at": "Tue May 18 08:53:49 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @joinryze: 詐欺コインが増えてきた。ある人が私を騙しました。\n\n- 27兆円の流通量\n- 無制限の供給上限\n- ただ...",
+      "retweeted_status_full_text": "詐欺コインは異常に増えています。ある人が私を騙しました。\n\n- 27兆円の流通量\n- 無制限の供給上限\n- たった1つのノード\n- 供給量の25%が過去6ヶ月間に鋳造されている\n- 1%の保有者が30%を所有 \n\njk それはUSドルです。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @joinryze: 这些骗人的硬币越来越疯狂。有一个人刚刚骗了我。\n\n- 27万亿的流通量\n- 无限的供应上限\n- 只有...",
+      "retweeted_status_full_text": "这些骗人的钱币越来越疯狂。有一个人刚刚骗了我。\n\n- 27万亿的流通量\n- 无限的供应上限\n- 只有一个节点\n- 25%的供应量是在过去6个月铸造的\n- 1%的持有者拥有30%。\n\njk那是美元"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @joinryze: 這些騙人的硬幣越來越瘋狂。有一個人剛剛騙了我。\n\n- 27萬億的流通量\n- 無限的供應上限\n- 只有...",
+      "retweeted_status_full_text": "這些騙人的錢幣越來越瘋狂。有一個人剛剛騙了我。\n\n- 27萬億的流通量\n- 無限的供應上限\n- 只有一個節點\n- 25%的供應量是在過去6個月鑄造的\n- 1%的持有者擁有30%。\n\njk那是美元"
+    }
+  ]
 }

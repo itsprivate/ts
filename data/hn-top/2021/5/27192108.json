@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-05-18T07:35:17.000Z",
-  "image": "https://arturo-lang.io/resources/images/navlogo.png"
+  "image": "https://arturo-lang.io/resources/images/navlogo.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Show HN: Arturo - シンプルで表現力豊かなポータブルプログラミング言語"
+    },
+    {
+      "locale": "zh",
+      "title": "展示HN：Arturo--简单、富有表现力和可移植的编程语言"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "展示HN：Arturo--簡單、富有表現力和可移植的編程語言"
+    }
+  ]
 }
