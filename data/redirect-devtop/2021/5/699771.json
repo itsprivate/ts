@@ -50,5 +50,22 @@
   "original_created_at": "2021-05-16T12:24:26Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--B-zf4iwI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0o8rrhlbbwh53f9jgfda.jpg",
   "author": "Himanshu",
-  "author_url": "https://dev.to/hima_khaitan"
+  "author_url": "https://dev.to/hima_khaitan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ウェブサイト 私たちは、小さな部品やセクションで構成されたウェブサイトを作るのが大好きです。その一つが...",
+      "title": "このクールなレスポンシブ・ナビゲーション・バーをどうやって作ったか!"
+    },
+    {
+      "locale": "zh",
+      "description": "网站! 我们都喜欢制作由小部件和部分组成的网站。一个这样的网站",
+      "title": "我是如何制作这个很酷的响应式导航栏的!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "網站! 我們都喜歡製作由小部件和部分組成的網站。一個這樣的網站",
+      "title": "我是如何製作這個很酷的響應式導航欄的!"
+    }
+  ]
 }
