@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-17T05:55:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6yBSEAV3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tm4vz6f8onge2ryf67d1.jpg",
   "author": "Alex Devero",
-  "author_url": "https://dev.to/alexdevero"
+  "author_url": "https://dev.to/alexdevero",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ReactのuseCallbackフックは、Reactアプリのパフォーマンスを向上させるのに役立ちます。奇妙なことに、useC...",
+      "title": "ReactのuseCallbackフックのクイックガイド"
+    },
+    {
+      "locale": "zh",
+      "description": "React的useCallback钩子可以帮助你提高React应用程序的性能。很奇怪的是，useC...",
+      "title": "React useCallback钩的快速指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "React的useCallback鉤子可以幫助你提高React應用程序的性能。很奇怪的是，useC...",
+      "title": "React useCallback鉤的快速指南"
+    }
+  ]
 }
