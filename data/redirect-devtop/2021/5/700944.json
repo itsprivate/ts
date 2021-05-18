@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-17T16:23:58Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_bwA0Hvs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0swf6x0tvymj7eg1tew7.png",
   "author": "Michael Crump",
-  "author_url": "https://dev.to/mbcrump"
+  "author_url": "https://dev.to/mbcrump",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この1週間で見つけた10の面白い発見",
+      "title": "開発者のための10のクールなリンクを紹介します。"
+    },
+    {
+      "locale": "zh",
+      "description": "过去一周我发现的10个有趣的发现",
+      "title": "我认为你会喜欢的10个为开发者提供的很酷的链接 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "過去一週我發現的10個有趣的發現",
+      "title": "我認爲你會喜歡的10個爲開發者提供的很酷的鏈接 "
+    }
+  ]
 }
