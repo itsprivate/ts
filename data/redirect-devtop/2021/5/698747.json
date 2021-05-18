@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-15T04:55:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--e-_ehTsU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ge8g1gx25yxqumdnuqk1.png",
   "author": "Tapajyoti Bose",
-  "author_url": "https://dev.to/ruppysuppy"
+  "author_url": "https://dev.to/ruppysuppy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私は以前からオープンソースプロジェクトへの貢献に非常に興味を持っていましたが、そのための方法がありませんでした。",
+      "title": "Zero to Hero: オープンソースプロジェクトを始めよう"
+    },
+    {
+      "locale": "zh",
+      "description": "我对为开源项目做贡献已经有很长一段时间了，但没有一个好的办法。",
+      "title": "从零到英雄：开始接触开源项目"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我對爲開源項目做貢獻已經有很長一段時間了，但沒有一個好的辦法。",
+      "title": "從零到英雄：開始接觸開源項目"
+    }
+  ]
 }

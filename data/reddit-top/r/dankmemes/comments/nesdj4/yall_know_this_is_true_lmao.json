@@ -176,5 +176,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1621286786,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これは本当のことです。"
+    },
+    {
+      "locale": "zh",
+      "title": "你们都知道这是真的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你們都知道這是真的。"
+    }
+  ]
 }
