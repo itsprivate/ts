@@ -48,5 +48,22 @@
   "original_created_at": "2021-05-14T01:01:14Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EE4gBpB7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://i.imgur.com/nPuFFZj.png",
   "author": "Paula Santamaría",
-  "author_url": "https://dev.to/paulasantamaria"
+  "author_url": "https://dev.to/paulasantamaria",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Phaser 3、TypeScript、Snowpack、ESLintを使ってゲームを開発するためのオープンソースのテンプレートを作りました。",
+      "title": "このテンプレートを使って、TypeScript、Snowpack、ESLintを使ったゲームを作成します。"
+    },
+    {
+      "locale": "zh",
+      "description": "我创建了一个开源的模板，使用Phaser 3、TypeScript、Snowpack和ESLint开发游戏。",
+      "title": "用此模板创建使用TypeScript、Snowpack和ESLint的游戏"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我創建了一個開源的模板，使用Phaser 3、TypeScript、Snowpack和ESLint開發遊戲。",
+      "title": "用此模板創建使用TypeScript、Snowpack和ESLint的遊戲"
+    }
+  ]
 }
