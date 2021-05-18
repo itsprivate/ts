@@ -41,5 +41,22 @@
   "original_created_at": "2021-05-17T23:49:23Z",
   "image": "https://dev.to/social_previews/article/701205.png",
   "author": "Michael Burrows",
-  "author_url": "https://dev.to/michaelburrows"
+  "author_url": "https://dev.to/michaelburrows",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このチュートリアルでは、CSSを使ってアニメーションのスケルトン・ローディング・スクリーンを作成します。骸骨のロード画面...",
+      "title": "CSSスケルトンの読み込み画面のアニメーション"
+    },
+    {
+      "locale": "zh",
+      "description": "在本教程中，我们将使用CSS来创建一个动画的骨架加载屏幕。骨架加载屏幕",
+      "title": "CSS骨架加载屏幕动画"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在本教程中，我們將使用CSS來創建一個動畫的骨架加載屏幕。骨架加載屏幕",
+      "title": "CSS骨架加載屏幕動畫"
+    }
+  ]
 }
