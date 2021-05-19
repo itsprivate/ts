@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-05-19T04:51:17.000Z",
-  "image": "https://github.blog/wp-content/uploads/2021/05/ssh-security-key-support_social.png?fit=1200%2C600"
+  "image": "https://github.blog/wp-content/uploads/2021/05/ssh-security-key-support_social.png?fit=1200%2C600",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "SSHでのGit操作にセキュリティキーがサポートされました。"
+    },
+    {
+      "locale": "zh",
+      "title": "现在支持SSH Git操作的安全密钥"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "現在支持SSH Git操作的安全密鑰"
+    }
+  ]
 }
