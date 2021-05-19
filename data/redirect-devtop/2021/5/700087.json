@@ -43,5 +43,22 @@
   "original_created_at": "2021-05-16T19:17:54Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gDngtbep--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/apre556ayfz1yenqlec5.jpg",
   "author": "Tjaša",
-  "author_url": "https://dev.to/tjasa"
+  "author_url": "https://dev.to/tjasa",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CSSでの要素のセンタリングは、経験豊富な開発者でも頭を悩ませることがあります。このような問題を解決するには、さまざまな方法があります。",
+      "title": "CSSで要素を中央に配置する8つの方法"
+    },
+    {
+      "locale": "zh",
+      "description": "CSS中的元素居中有时会让人头疼，即使是有经验的开发者也是如此。有许多...",
+      "title": "用CSS使元素居中的8种方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "CSS中的元素居中有時會讓人頭疼，即使是有經驗的開發者也是如此。有許多...",
+      "title": "用CSS使元素居中的8種方法"
+    }
+  ]
 }
