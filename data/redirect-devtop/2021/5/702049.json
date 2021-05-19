@@ -41,5 +41,22 @@
   "original_created_at": "2021-05-18T17:54:37Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Ec9NWR5c--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t2rwqovwke3p72su2idc.gif",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "プログラミングを学んだり、新しいプロジェクトを作ったりするのに使える、まったくランダムなオープンソースのプロジェクトです。",
+      "title": "ランダムなオープンソース・プロジェクト"
+    },
+    {
+      "locale": "zh",
+      "description": "完全随机的开源项目，我们可以用它来学习编程或在上面建立新的项目。",
+      "title": "随机开放源代码项目"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "完全隨機的開源項目，我們可以用它來學習編程或在上面建立新的項目。",
+      "title": "隨機開放源代碼項目"
+    }
+  ]
 }
