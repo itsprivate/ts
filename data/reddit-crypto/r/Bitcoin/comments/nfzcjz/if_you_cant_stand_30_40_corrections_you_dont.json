@@ -103,5 +103,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1621409968,
-  "the_new_excerpt": "Simple as that, the fundamentals haven't changed"
+  "the_new_excerpt": "Simple as that, the fundamentals haven't changed",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "単純なことだが、基本は変わっていない",
+      "title": "30～40％の補正に耐えられなければ、300％以上の利益を得る資格はありません。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "就这么简单，基本面并没有改变",
+      "title": "如果你不能忍受30-40%的修正，你就不配获得300%以上的收益。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "就這麼簡單，基本面並沒有改變",
+      "title": "如果你不能忍受30-40%的修正，你就不配獲得300%以上的收益。"
+    }
+  ]
 }
