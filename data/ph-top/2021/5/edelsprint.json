@@ -88,5 +88,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-18T11:04:36Z"
+  "original_createdAt": "2021-05-18T11:04:36Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "edelsprintは、スクラムのための使いやすいプロジェクト管理ツールです。インタラクティブなチームミーティングや美しいスクラムボードなど、スプリントサイクル全体の機能を提供しています。スクラムコーチが内蔵されているので、あなたのチームはスプリントごとにより効果的になるでしょう。",
+      "tagline": "スクラムコーチを内蔵したシンプルなプロジェクト管理ツール"
+    },
+    {
+      "locale": "zh",
+      "description": "edelsprint是一个易于使用的Scrum项目管理工具。我们为整个Sprint周期提供功能，如互动式团队会议和一个漂亮的Scrum板。由于我们内置的Scrum教练，你的团队将在每个Sprint中变得更加有效",
+      "tagline": "一个简单的项目管理工具，内置Scrum教练"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "edelsprint是一個易於使用的Scrum項目管理工具。我們爲整個Sprint週期提供功能，如互動式團隊會議和一個漂亮的Scrum板。由於我們內置的Scrum教練，你的團隊將在每個Sprint中變得更加有效",
+      "tagline": "一個簡單的項目管理工具，內置Scrum教練"
+    }
+  ]
 }
