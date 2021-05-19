@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-19T07:05:00Z"
+  "original_createdAt": "2021-05-19T07:05:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "PhotoRoom APIは、マーケットプレイスやアプリで画像の背景を除去するための、手頃で迅速なソリューションです。私たちのAPIは競合他社の10倍の価格で、https://photoroom.com/、毎日100万件の背景を除去しています。",
+      "tagline": "マーケットプレイスやアプリの背景を除去して画像を改善"
+    },
+    {
+      "locale": "zh",
+      "description": "PhotoRoom API是一个经济而快速的解决方案，可以为市场和应用程序去除图像背景。我们的API比竞争对手的价格低10倍，并为https://photoroom.com/，每天去除100万个背景。",
+      "tagline": "移除背景并改善市场和应用程序的图像"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "PhotoRoom API是一個經濟而快速的解決方案，可以爲市場和應用程序去除圖像背景。我們的API比競爭對手的價格低10倍，併爲https://photoroom.com/，每天去除100萬個背景。",
+      "tagline": "移除背景並改善市場和應用程序的圖像"
+    }
+  ]
 }
