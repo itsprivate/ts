@@ -50,5 +50,22 @@
   "original_created_at": "2021-05-18T10:48:59Z",
   "image": "https://dev.to/social_previews/article/701655.png",
   "author": "ProgrammerHumor.io",
-  "author_url": "https://dev.to/prgrmmrhumor_io"
+  "author_url": "https://dev.to/prgrmmrhumor_io",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "プログラマーが自由な時間を過ごすためのウェブサイトを作成し、それによって大笑いすることもできた....",
+      "title": "プログラマーを笑わせるためのサイトを作りました。ProgrammerHumor.io"
+    },
+    {
+      "locale": "zh",
+      "description": "为程序员创建了一个网站，让他们在空闲时间里，也能从中得到一个很好的笑料....",
+      "title": "我做了一个网站，让程序员们发笑。ProgrammerHumor.io"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "爲程序員創建了一個網站，讓他們在空閒時間裏，也能從中得到一個很好的笑料....",
+      "title": "我做了一個網站，讓程序員們發笑。ProgrammerHumor.io"
+    }
+  ]
 }
