@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-17T08:38:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_03oq4pN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lf0vc9k43rfy4rz5e2of.jpeg",
   "author": "Nithish Kumar",
-  "author_url": "https://dev.to/nithish_13"
+  "author_url": "https://dev.to/nithish_13",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "前置きが長くなりましたが、Javascript.... の Primitive 型と Reference 型について簡単に説明します。",
+      "title": "Javascriptでオブジェクトを複製する3つの方法"
+    },
+    {
+      "locale": "zh",
+      "description": "在继续之前，让我非常简要地解释一下Javascript中的原始类型和引用类型....。",
+      "title": "在Javascript中克隆一个对象的3种方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在繼續之前，讓我非常簡要地解釋一下Javascript中的原始類型和引用類型....。",
+      "title": "在Javascript中克隆一個對象的3種方法"
+    }
+  ]
 }
