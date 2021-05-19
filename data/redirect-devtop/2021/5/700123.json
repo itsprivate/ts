@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-16T21:19:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GW8xxW8O--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a6e4xjtcr2w3f31oogsg.jpeg",
   "author": "Tyler Hawkins",
-  "author_url": "https://dev.to/thawkin3"
+  "author_url": "https://dev.to/thawkin3",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JavaScriptはシングルスレッドですが、メインスレッドをブロックせずに非同期コードを処理するにはどうすればいいのでしょうか？",
+      "title": "Node.jsのイベントループについて"
+    },
+    {
+      "locale": "zh",
+      "description": "JavaScript是单线程的，那么它是如何处理异步代码而不阻塞主线程的呢...",
+      "title": "了解Node.js的事件循环"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "JavaScript是單線程的，那麼它是如何處理異步代碼而不阻塞主線程的呢...",
+      "title": "瞭解Node.js的事件循環"
+    }
+  ]
 }
