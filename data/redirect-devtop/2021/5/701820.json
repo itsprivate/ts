@@ -57,5 +57,22 @@
   "original_created_at": "2021-05-18T14:38:35Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wroa7d5n--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/p7qfyg7e45xvqrz3j1va.png",
   "author": "Suraj Vishwakarma",
-  "author_url": "https://dev.to/surajondev"
+  "author_url": "https://dev.to/surajondev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに Microsoft社のVS codeは、市販されている最も人気のあるテキスト/コードエディタの一つです。",
+      "title": "16 VS Code Shortcuts for Faster Coding"
+    },
+    {
+      "locale": "zh",
+      "description": "简介：微软的VS代码是目前最流行的文本/代码编辑器之一。",
+      "title": "16个VS代码快捷键以加快编码速度"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介：微軟的VS代碼是目前最流行的文本/代碼編輯器之一。",
+      "title": "16個VS代碼快捷鍵以加快編碼速度"
+    }
+  ]
 }
