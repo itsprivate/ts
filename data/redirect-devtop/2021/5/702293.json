@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-18T23:58:37Z",
   "image": "https://dev.to/social_previews/article/702293.png",
   "author": "Craig Holliday",
-  "author_url": "https://dev.to/craigaholliday"
+  "author_url": "https://dev.to/craigaholliday",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "useReducer`フックは、`useState`フックの代替で、複雑なステートロジックを持っている場合や、次のステートが前のステートに依存する場合に好適です。",
+      "title": "ReactでuseReducerフックをTypeScriptで使う "
+    },
+    {
+      "locale": "zh",
+      "description": "`useReducer'钩子是`useState'钩子的替代品，当你有复杂的状态逻辑或者你的下一个状态取决于你的上一个状态时，这个钩子更受欢迎。",
+      "title": "用TypeScript在React中使用useReducer钩子 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "`useReducer'鉤子是`useState'鉤子的替代品，當你有複雜的狀態邏輯或者你的下一個狀態取決於你的上一個狀態時，這個鉤子更受歡迎。",
+      "title": "用TypeScript在React中使用useReducer鉤子 "
+    }
+  ]
 }

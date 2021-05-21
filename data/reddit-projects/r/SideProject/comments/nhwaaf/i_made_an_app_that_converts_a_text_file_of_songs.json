@@ -150,5 +150,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1621613584,
-  "the_new_excerpt": "You can check out the project repo here:\nhttps://github.com/pa-aggarwal/playlist-converter\n\nMy motivation for this project was that I was constantly putting songs that I\nwanted to add to a Spotify playlist in a note on my phone. Going into Spotify\nand manually adding each song seemed so tedious that…"
+  "the_new_excerpt": "You can check out the project repo here:\nhttps://github.com/pa-aggarwal/playlist-converter\n\nMy motivation for this project was that I was constantly putting songs that I\nwanted to add to a Spotify playlist in a note on my phone. Going into Spotify\nand manually adding each song seemed so tedious that…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "プロジェクトのレポはこちらからご覧いただけます。\nhttps://github.com/pa-aggarwal/playlist-converter\n\nこのプロジェクトの動機は、Spotifyのプレイリストに追加したい曲を常に携帯電話のメモに入れていたことです。\nSpotifyのプレイリストに追加したい曲を、常に携帯電話のメモに入れていたことです。Spotifyに入って\nに行って手動で曲を追加するのはとても面倒に感じていました...",
+      "title": "曲のテキストファイルをSpotifyアカウントのプレイリストに変換するアプリを作ってみた"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你可以在这里查看项目的Repo。\nhttps://github.com/pa-aggarwal/playlist-converter\n\n我做这个项目的动机是，我经常把我想加入Spotify播放列表的歌曲\n想添加到Spotify的播放列表中，并记在我的手机上。进入Spotify\n并手动添加每首歌曲，这似乎是非常乏味的。",
+      "title": "我做了一个应用程序，可以将歌曲的文本文件转换为你的Spotify账户上的播放列表"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你可以在這裏查看項目的Repo。\nhttps://github.com/pa-aggarwal/playlist-converter\n\n我做這個項目的動機是，我經常把我想加入Spotify播放列表的歌曲\n想添加到Spotify的播放列表中，並記在我的手機上。進入Spotify\n並手動添加每首歌曲，這似乎是非常乏味的。",
+      "title": "我做了一個應用程序，可以將歌曲的文本文件轉換爲你的Spotify賬戶上的播放列表"
+    }
+  ]
 }
