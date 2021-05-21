@@ -43,5 +43,22 @@
   "original_created_at": "2021-05-19T18:26:55Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fsKIvKFQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ap7cg9y2h5r1rdm9yq1c.png",
   "author": "milindsoorya",
-  "author_url": "https://dev.to/milindsoorya"
+  "author_url": "https://dev.to/milindsoorya",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ウェブ開発者として日常的に使っている最も便利なgitコマンドをいくつか紹介します。",
+      "title": "プログラマーが知っておくべき8つのgitコマンド（通常のpull、push、add、commitではありません。"
+    },
+    {
+      "locale": "zh",
+      "description": "作为一个网络开发者，我每天都在使用一些最有用的git命令",
+      "title": "每个程序员都应该知道的8个被低估的git命令（不是常见的拉、推、加、提交）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "作爲一個網絡開發者，我每天都在使用一些最有用的git命令",
+      "title": "每個程序員都應該知道的8個被低估的git命令（不是常見的拉、推、加、提交）。"
+    }
+  ]
 }

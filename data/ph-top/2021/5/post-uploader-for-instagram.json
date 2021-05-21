@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-21T07:01:00Z"
+  "original_createdAt": "2021-05-21T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "インスタグラム™️のポストアップローダーです。インスタグラムに写真や動画をアップロードします。次の形式でのアップロードをサポート - MP4、MOV、JPEG、JPG、PNG、SVG、GIFをPCからInstagramに。画像効果やフィルター、キャプションや位置情報を付けて投稿をアップロードします。",
+      "tagline": "PCからInstagramに投稿をアップロードすることができます。写真や動画を投稿しよう"
+    },
+    {
+      "locale": "zh",
+      "description": "Post uploader for Instagram™️。上传照片和视频到Instagram。支持从PC上传MP4、MOV、JPEG、JPG、PNG、SVG、GIF等格式到Instagram上。上传带有视觉图像效果或过滤器、标题和位置的帖子。",
+      "tagline": "从PC上传帖子到Instagram。发布照片和视频!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Post uploader for Instagram™️。上傳照片和視頻到Instagram。支持從PC上傳MP4、MOV、JPEG、JPG、PNG、SVG、GIF等格式到Instagram上。上傳帶有視覺圖像效果或過濾器、標題和位置的帖子。",
+      "tagline": "從PC上傳帖子到Instagram。發佈照片和視頻!"
+    }
+  ]
 }
