@@ -103,5 +103,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1621625374,
-  "the_new_excerpt": "It's the new drinking game. Wish me luck."
+  "the_new_excerpt": "It's the new drinking game. Wish me luck.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "これは新しい飲み会です。私の幸運を祈ってください。",
+      "title": "今後、中国がBTCを禁止するたびにBTCを買っている。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这是新的饮酒游戏。祝我好运。",
+      "title": "从现在开始，每次中国禁止BTC，我都会买BTC。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這是新的飲酒遊戲。祝我好運。",
+      "title": "從現在開始，每次中國禁止BTC，我都會買BTC。"
+    }
+  ]
 }
