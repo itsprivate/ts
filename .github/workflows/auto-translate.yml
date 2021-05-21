@@ -13,12 +13,29 @@ jobs:
   auto-translate:
     runs-on: ubuntu-20.04
     steps:
+      - name: Check is building
+        uses: actions/github-script@v4
+        id: shouldBuild
+        with:
+          github-token: ${{secrets.GITHUB_TOKEN}}
+          script: |
+            const runed = await github.actions.listWorkflowRuns({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: "actionsflow.yml",
+              status:"in_progress"
+            });
+            return runed.data.total_count
+          result-encoding: string
       - name: checkout
+        if: steps.shouldBuild.outputs.result=='1'
         uses: actions/checkout@v2
       - uses: actions/setup-node@v2-beta
+        if: steps.shouldBuild.outputs.result=='1'
         with:
           node-version: "12"
       - name: check files
+        if: steps.shouldBuild.outputs.result=='1'
         uses: actions/github-script@v3
         env:
           PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
@@ -29,14 +46,17 @@ jobs:
             await syncResource()
             return true
       - name: install puppeteer
+        if: steps.shouldBuild.outputs.result=='1'
         run: npm i puppeteer
       - name: Translate
+        if: steps.shouldBuild.outputs.result=='1'
         uses: ./.github/actions/translate
         with:
           provider: deepl
           secret_id: ${{ secrets.TENCENT_TRANSLATION_SECRET_ID }}
           secret_key: ${{ secrets.TENCENT_TRANSLATION_SECRET_KEY }}
       - name: Sync to source
+        if: steps.shouldBuild.outputs.result=='1'
         uses: actions/github-script@v3
         with:
           github-token: ${{ secrets.PERSONAL_TOKEN }}
@@ -45,8 +65,10 @@ jobs:
             await syncResource()
             return true
       - name: git add
+        if: steps.shouldBuild.outputs.result=='1'
         run: git add .
       - name: Create pull request
+        if: steps.shouldBuild.outputs.result=='1'
         uses: peter-evans/create-pull-request@v3
         with:
           token: ${{ secrets.PERSONAL_TOKEN }}
