@@ -92,5 +92,19 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Fri May 21 19:41:12 +0000 2021"
+  "original_created_at": "Fri May 21 19:41:12 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "ビットコインの価格。\n\n6時間前：41,400ドル\n\n現在：35,950ドル"
+    },
+    {
+      "locale": "zh",
+      "full_text": "比特币价格。\n\n六小时前：41,400美元\n\n现在：35,950美元"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "比特幣價格。\n\n六小時前：41,400美元\n\n現在：35,950美元"
+    }
+  ]
 }

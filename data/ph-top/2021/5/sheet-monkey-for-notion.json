@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-21T07:41:31Z"
+  "original_createdAt": "2021-05-21T07:41:31Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Sheet Monkeyでは、フォームをNotion Databasesに直接送信することができます。Webflow、Carrd、静的HTMLサイトに最適です。バックエンドのコードを必要とせず、すぐに使い始めることができます。",
+      "tagline": "フォームとNotionの接続"
+    },
+    {
+      "locale": "zh",
+      "description": "现在，Sheet Monkey让你直接将你的表单发送到Notion数据库。它是Webflow、Carrd、静态HTML网站的完美选择。它消除了对后端代码的需求，只需几秒钟就可以开始使用。",
+      "tagline": "将你的表格连接到Notion"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "現在，Sheet Monkey讓你直接將你的表單發送到Notion數據庫。它是Webflow、Carrd、靜態HTML網站的完美選擇。它消除了對後端代碼的需求，只需幾秒鐘就可以開始使用。",
+      "tagline": "將你的表格連接到Notion"
+    }
+  ]
 }

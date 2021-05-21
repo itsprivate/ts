@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-21T12:51:38Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6PozDtT2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qginkfwnjakwrjamu3qt.jpeg",
   "author": "Rohit Singh Rana",
-  "author_url": "https://dev.to/rohitrana"
+  "author_url": "https://dev.to/rohitrana",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ライブラリーとフレームワークという言葉は似ていますが、両者の仕組みは異なります。  多くの人は、...",
+      "title": "ライブラリとフレームワークの違いは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "虽然图书馆和框架这两个术语听起来很相似，但它们的工作方式不同。  许多人认为，它们的工作方式不同。",
+      "title": "图书馆与框架的区别是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "雖然圖書館和框架這兩個術語聽起來很相似，但它們的工作方式不同。  許多人認爲，它們的工作方式不同。",
+      "title": "圖書館與框架的區別是什麼？"
+    }
+  ]
 }
