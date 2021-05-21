@@ -151,5 +151,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1621498775,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Twitterのプロフィールにプログレスバーを表示し、自動更新するアプリを作ってみました"
+    },
+    {
+      "locale": "zh",
+      "title": "我建立了一个应用程序，在你的Twitter个人资料上显示一个进度条，自动更新!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我建立了一個應用程序，在你的Twitter個人資料上顯示一個進度條，自動更新!"
+    }
+  ]
 }

@@ -103,5 +103,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1621547894,
-  "the_new_excerpt": "It’s canceled"
+  "the_new_excerpt": "It’s canceled",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "中止になりました。",
+      "title": "ディップをキャンセルすることにしました"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "已经取消了",
+      "title": "我已经决定取消浸泡"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "已經取消了",
+      "title": "我已經決定取消浸泡"
+    }
+  ]
 }

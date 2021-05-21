@@ -38,5 +38,19 @@
   },
   "original_created_at": "2021-05-20T14:29:55.000Z",
   "image": "https://www.yodaiken.com/wp-content/uploads/2017/10/cropped-IMG_20171008_103816014-1.jpg",
-  "source_updated_at": 1621590808173
+  "source_updated_at": 1621590808173,
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "C言語の未定義の動作は読み取りエラー"
+    },
+    {
+      "locale": "zh",
+      "title": "C语言中的未定义行为是一个阅读错误"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "C語言中的未定義行爲是一個閱讀錯誤"
+    }
+  ]
 }

@@ -52,5 +52,22 @@
   "original_created_at": "2021-05-20T09:00:04Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--w3pVewDH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d1q6nj2h9lvqlyallts0.png",
   "author": "Craig Taub",
-  "author_url": "https://dev.to/craigtaub"
+  "author_url": "https://dev.to/craigtaub",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "fiitのWebサイトは、サブスクリプションの作成や、ユーザーがテレビでアプリにログインする際に使用されます。",
+      "title": "ウェブサイトのメモリーリークをどのように解決したか"
+    },
+    {
+      "locale": "zh",
+      "description": "fiit网站用于创建订阅，以及帮助用户在电视上登录应用程序。",
+      "title": "我们如何解决网站上的内存泄漏问题"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "fiit網站用於創建訂閱，以及幫助用戶在電視上登錄應用程序。",
+      "title": "我們如何解決網站上的內存泄漏問題"
+    }
+  ]
 }

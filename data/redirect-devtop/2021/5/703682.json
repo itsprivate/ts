@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-20T10:07:47Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6DFjMFay--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5yo70wlb86pholxpyv5o.gif",
   "author": "Suprabha",
-  "author_url": "https://dev.to/suprabhasupi"
+  "author_url": "https://dev.to/suprabhasupi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "cursor CSS プロパティは、マウスポインターが上にあるときに表示されるマウスカーソルの種類を設定します（もしあれば）。",
+      "title": "UXを向上させるためにCSSでカーソルを変更する"
+    },
+    {
+      "locale": "zh",
+      "description": "光标CSS属性设置了鼠标指针经过时要显示的鼠标光标的类型（如果有的话）。",
+      "title": "用CSS改变光标以获得更好的用户体验"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "光標CSS屬性設置了鼠標指針經過時要顯示的鼠標光標的類型（如果有的話）。",
+      "title": "用CSS改變光標以獲得更好的用戶體驗"
+    }
+  ]
 }
