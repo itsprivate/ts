@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-19T17:48:03Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4fLfgkyV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/08rnvzlai2o8zqmmgemy.png",
   "author": "Harsh Mangalam",
-  "author_url": "https://dev.to/harshmangalam"
+  "author_url": "https://dev.to/harshmangalam",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ジャバスクリプトは、ソフトウェア産業の世界でブームになっているのは間違いありません。フロントエンドからバックエンドに至るまで、すべてのソフトウェア業界において。",
+      "title": "Fullstackの最新ツールを探る"
+    },
+    {
+      "locale": "zh",
+      "description": "毋庸置疑，javascript在软件业的世界里正蓬勃发展。从前端到后端，每一个人都在使用javascript。",
+      "title": "探索全栈式现代工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "毋庸置疑，javascript在軟件業的世界裏正蓬勃發展。從前端到後端，每一個人都在使用javascript。",
+      "title": "探索全棧式現代工具"
+    }
+  ]
 }

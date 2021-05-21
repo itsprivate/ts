@@ -43,5 +43,22 @@
   "original_created_at": "2021-05-19T18:21:44Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vxoSh0jo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ln4r009zgnwlu2nn105g.jpg",
   "author": "Ali Spittel",
-  "author_url": "https://dev.to/aspittel"
+  "author_url": "https://dev.to/aspittel",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "頭字語はいつでも楽しいものです。頭字語を使うことで、長い文章を言い切る労力を減らすことができます。",
+      "title": "頭字語を分解する。SSRとSSGの違い"
+    },
+    {
+      "locale": "zh",
+      "description": "缩略语总是很有趣 -- 它们有助于减少说完整的啰嗦话的努力。",
+      "title": "破解首字母缩写词。SSR vs. SSG"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "縮略語總是很有趣 -- 它們有助於減少說完整的囉嗦話的努力。",
+      "title": "破解首字母縮寫詞。SSR vs. SSG"
+    }
+  ]
 }

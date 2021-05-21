@@ -52,5 +52,22 @@
   "original_created_at": "2021-05-18T14:18:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kSjfC__J--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1l3uu7ed4o2wzvc03rjp.png",
   "author": "Max Lynch",
-  "author_url": "https://dev.to/maxlynch"
+  "author_url": "https://dev.to/maxlynch",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ネイティブ・モバイル・アプリのための優れたWebViewの構築",
+      "title": "モバイルアプリのためのより良いWeb Viewの構築"
+    },
+    {
+      "locale": "zh",
+      "description": "为本地移动应用程序构建更好的WebView",
+      "title": "为移动应用程序构建更好的网络视图"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "爲本地移動應用程序構建更好的WebView",
+      "title": "爲移動應用程序構建更好的網絡視圖"
+    }
+  ]
 }

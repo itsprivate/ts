@@ -14,5 +14,19 @@
   "tags": [
     "WLWT Cincinnati"
   ],
-  "image": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/facts-on-vax-1621297694.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+  "image": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/facts-on-vax-1621297694.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ワクチンの事実を知る。アレルギー体質の人でもワクチンは大丈夫ですか？なぜ2回の接種が必要なのですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "了解关于疫苗的事实。疫苗对过敏体质的人是否安全？为什么我需要打两针？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "瞭解關於疫苗的事實。疫苗對過敏體質的人是否安全？爲什麼我需要打兩針？"
+    }
+  ]
 }

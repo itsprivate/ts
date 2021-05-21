@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-18T20:09:13Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8_MUebeH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/epj55lfmu9b4bt1zbpex.png",
   "author": "Mark",
-  "author_url": "https://dev.to/markhelmsglitch"
+  "author_url": "https://dev.to/markhelmsglitch",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "セルフホスティング!            (cough cough, this may be a while...it was for me) If you looking...",
+      "title": "Piによるセルフホスティング"
+    },
+    {
+      "locale": "zh",
+      "description": "自我主持!            (cough cough, this might take a while... it did for me) If your looking...",
+      "title": "用Pi进行自我托管"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "自我主持!            (cough cough, this might take a while... it did for me) If your looking...",
+      "title": "用Pi進行自我託管"
+    }
+  ]
 }

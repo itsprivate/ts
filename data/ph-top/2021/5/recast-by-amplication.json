@@ -88,5 +88,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-20T07:14:53Z"
+  "original_createdAt": "2021-05-20T07:14:53Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Amplication社のRecastは、Excelスキーマに基づいてTypeScript Node.jsのバックエンドとReactクライアントを生成するオープンソースツールです。GraphQLとRESTのAPI、ID管理、ロギングユーティリティ、エラーハンドラ、Reactの管理UIが含まれています。",
+      "tagline": "ExcelシートをTypeScript Node.jsのAPIに変換する"
+    },
+    {
+      "locale": "zh",
+      "description": "Amplication的Recast是一个开源工具，它可以根据Excel模式生成TypeScript Node.js后端和React客户端。它包括GraphQL和REST API、身份管理、日志工具、错误处理和React管理界面。",
+      "tagline": "将Excel表格转换为TypeScript Node.js API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Amplication的Recast是一個開源工具，它可以根據Excel模式生成TypeScript Node.js後端和React客戶端。它包括GraphQL和REST API、身份管理、日誌工具、錯誤處理和React管理界面。",
+      "tagline": "將Excel表格轉換爲TypeScript Node.js API"
+    }
+  ]
 }

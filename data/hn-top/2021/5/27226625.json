@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-05-20T20:18:32.000Z",
-  "image": "https://static.lwn.net/images/logo/barepenguin-70.png"
+  "image": "https://static.lwn.net/images/logo/barepenguin-70.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "RISC-VがKVMをサポートしていない理由"
+    },
+    {
+      "locale": "zh",
+      "title": "为什么RISC-V还不支持KVM？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲什麼RISC-V還不支持KVM？"
+    }
+  ]
 }

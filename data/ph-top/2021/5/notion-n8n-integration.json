@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-21T12:28:10Z"
+  "original_createdAt": "2021-05-21T12:28:10Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Notionのワークスペースをお気に入りのアプリに開放して、生産性を月並みに向上させましょう。n8nのNotionノードを使えば、Notionと他のアプリの間でデータを同期させることができます。ついでに、Notionとn8nを使って自分の製品を作ってみませんか？",
+      "tagline": "Notionのワークスペースとお気に入りのアプリの連携"
+    },
+    {
+      "locale": "zh",
+      "description": "将你的Notion工作空间开放给你最喜欢的应用程序，将你的生产力提升到月球。通过n8n的Notion节点，你将能够在Notion和其他应用程序之间同步数据。既然如此，为什么不利用Notion和n8n建立你自己的产品呢？",
+      "tagline": "将你的Notion工作区与你最喜欢的应用程序连接起来"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "將你的Notion工作空間開放給你最喜歡的應用程序，將你的生產力提升到月球。通過n8n的Notion節點，你將能夠在Notion和其他應用程序之間同步數據。既然如此，爲什麼不利用Notion和n8n建立你自己的產品呢？",
+      "tagline": "將你的Notion工作區與你最喜歡的應用程序連接起來"
+    }
+  ]
 }

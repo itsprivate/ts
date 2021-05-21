@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-20T13:39:52Z",
   "image": "https://dev.to/social_previews/article/703890.png",
   "author": "Ayaan Farooqui",
-  "author_url": "https://dev.to/thecoderelite"
+  "author_url": "https://dev.to/thecoderelite",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "HTML、CSS、JS、chart.jsライブラリを使用したローン計算機です。 Link to chart.js Library C...",
+      "title": "chart.jsを使ったローン計算機"
+    },
+    {
+      "locale": "zh",
+      "description": "这是一个使用HTML、CSS、JS和chart.js库制作的贷款计算器 链接到chart.js库 C...",
+      "title": "使用chart.js的贷款计算器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是一個使用HTML、CSS、JS和chart.js庫製作的貸款計算器 鏈接到chart.js庫 C...",
+      "title": "使用chart.js的貸款計算器"
+    }
+  ]
 }

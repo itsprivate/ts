@@ -43,5 +43,22 @@
   "original_created_at": "2021-05-11T07:11:55Z",
   "image": "https://dev.to/social_previews/article/694516.png",
   "author": "Neha Sharma ",
-  "author_url": "https://dev.to/hellonehha"
+  "author_url": "https://dev.to/hellonehha",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "もしあなたがフロントエンドの開発者で、AWSのどのサービスを学べばいいのか、そしてそれがどのように役立つのかについて混乱しているならば、あなたはこの記事を読むことをお勧めします。",
+      "title": "フロントエンド開発者のためのAWSサービスの必須知識 - Part 1"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你是一名前端开发员，并且对学习AWS的哪项服务以及它将如何发挥作用感到困惑。",
+      "title": "前端开发人员必须使用的AWS服务--第一部分"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你是一名前端開發員，並且對學習AWS的哪項服務以及它將如何發揮作用感到困惑。",
+      "title": "前端開發人員必須使用的AWS服務--第一部分"
+    }
+  ]
 }

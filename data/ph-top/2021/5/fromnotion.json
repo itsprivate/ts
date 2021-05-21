@@ -153,5 +153,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-21T07:15:30Z"
+  "original_createdAt": "2021-05-21T07:15:30Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "FromNotionは、個人サイトやランディングページなど、Notion上で1ページのサイトを構築することができます。シンプルでレスポンシブ、そしてコードのスキルも必要ありません。",
+      "tagline": "数分でNotionの美しい1ページサイトが完成"
+    },
+    {
+      "locale": "zh",
+      "description": "FromNotion让你在Notion上建立单页网站，无论是个人网站、登陆页面还是更复杂的东西。它很简单，反应迅速，而且不需要代码技能。",
+      "tagline": "在Notion上几分钟就能做出漂亮的单页网站"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "FromNotion讓你在Notion上建立單頁網站，無論是個人網站、登陸頁面還是更復雜的東西。它很簡單，反應迅速，而且不需要代碼技能。",
+      "tagline": "在Notion上幾分鐘就能做出漂亮的單頁網站"
+    }
+  ]
 }

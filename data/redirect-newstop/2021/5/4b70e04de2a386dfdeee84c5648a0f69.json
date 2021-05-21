@@ -14,5 +14,19 @@
   "tags": [
     "Fox News"
   ],
-  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/Screen-Shot-2021-05-20-at-6.59.08-PM.png"
+  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/Screen-Shot-2021-05-20-at-6.59.08-PM.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ABCの「ワールド・ニュース・トゥナイト」は、バイデン氏がイスラエルとハマスの停戦を仲介したことを示唆し、エジプトへの言及を避けています。"
+    },
+    {
+      "locale": "zh",
+      "title": "美国广播公司的 \"今晚世界新闻 \"暗示拜登促成了以色列和哈马斯之间的停火，并避免归功于埃及。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "美國廣播公司的 \"今晚世界新聞 \"暗示拜登促成了以色列和哈馬斯之間的停火，並避免歸功於埃及。"
+    }
+  ]
 }
