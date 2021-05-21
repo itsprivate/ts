@@ -22,7 +22,7 @@ jobs:
             const runed = await github.actions.listWorkflowRuns({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              workflow_id: "actionsflow.yml",
+              workflow_id: "auto-translate.yml",
               status:"in_progress"
             });
             return runed.data.total_count
