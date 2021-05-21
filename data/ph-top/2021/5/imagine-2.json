@@ -83,5 +83,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-20T07:25:19Z"
+  "original_createdAt": "2021-05-20T07:25:19Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Imagineは、あなたのアプリのバックエンドのためのスマートなコードジェネレータです。シンプルなUIでアプリの設定やデータモデルを追加すると、高品質なDjango/Nodeコード（REST/GraphQL APIやテストを含む）を即座に生成し、ダウンロードしてカスタマイズすることができます。無料でサインアップも必要ありません。",
+      "tagline": "アプリのDjango & Nodeソースコードを瞬時に生成"
+    },
+    {
+      "locale": "zh",
+      "description": "Imagine是一款为您的应用程序后台提供的智能代码生成器。通过一个简单的UI添加你的应用程序设置和数据模型，并立即生成高质量的Django/Node代码（包括REST/GraphQL APIs和测试），你可以下载和定制。免费且无需注册。",
+      "tagline": "为你的应用程序即时生成Django和Node源代码"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Imagine是一款爲您的應用程序後臺提供的智能代碼生成器。通過一個簡單的UI添加你的應用程序設置和數據模型，並立即生成高質量的Django/Node代碼（包括REST/GraphQL APIs和測試），你可以下載和定製。免費且無需註冊。",
+      "tagline": "爲你的應用程序即時生成Django和Node源代碼"
+    }
+  ]
 }

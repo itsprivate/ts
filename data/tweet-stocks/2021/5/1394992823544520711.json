@@ -194,5 +194,19 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Wed May 19 12:26:21 +0000 2021"
+  "original_created_at": "Wed May 19 12:26:21 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "暗号、2021年の高値を下回る割合\nソラナ $SOL: -29\nポルカドット $DOT -32%\nステラ $XLM: -38\nカルダノ $ADA： -39\nXRP（エックスアールピー） $XRP： -40\nチェーンリンク $LINK: -40%\nイーサリアム $ETH: -42\nライトコイン $LTC: -44\nビットコイン $BTC: -44パーセント\nバイナンス $BNB: -46\nユニスワップ $UNI: -46パーセント\nビットコインキャッシュ $BCH: -50パーセント\nドッグコイン $DOGE: -53%"
+    },
+    {
+      "locale": "zh",
+      "full_text": "隐性货币，低于2021年高点的%。\n索拉纳$SOL: -29%\nPolkadot $DOT: -32%\nStellar $XLM: -38\nCardano $ADA: -39%\nXRP $XRP: -40\nChainlink $LINK: -40%\n以太坊$ETH: -42\n利特币 $LTC: -44\n比特币 $BTC: -44\nBinance $BNB: -46\nUniswap $UNI: -46\nBitcoinCash $BCH: -50\nDogecoin $DOGE: -53%"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "隱性貨幣，低於2021年高點的%。\n索拉納$SOL: -29%\nPolkadot $DOT: -32%\nStellar $XLM: -38\nCardano $ADA: -39%\nXRP $XRP: -40\nChainlink $LINK: -40%\n以太坊$ETH: -42\n利特幣 $LTC: -44\n比特幣 $BTC: -44\nBinance $BNB: -46\nUniswap $UNI: -46\nBitcoinCash $BCH: -50\nDogecoin $DOGE: -53%"
+    }
+  ]
 }

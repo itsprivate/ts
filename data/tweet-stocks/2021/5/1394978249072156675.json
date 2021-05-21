@@ -171,5 +171,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Wed May 19 11:28:26 +0000 2021"
+  "original_created_at": "Wed May 19 11:28:26 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "この24時間はCrypto https://t.co/LGuMxGZUgl にとって厳しいものでした。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "过去24小时对加密货币来说是艰难的，https://t.co/LGuMxGZUgl"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "過去24小時對加密貨幣來說是艱難的，https://t.co/LGuMxGZUgl"
+    }
+  ]
 }

@@ -14,5 +14,19 @@
   "tags": [
     "KCRA Sacramento"
   ],
-  "image": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/getthefacts-1621287425.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+  "image": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/getthefacts-1621287425.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Vaxの事実を知る。ワクチンは複数回接種しないと効果がないのですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "了解关于Vax的事实。你必须接种多剂量的疫苗才会有效吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "瞭解關於Vax的事實。你必須接種多劑量的疫苗纔會有效嗎？"
+    }
+  ]
 }

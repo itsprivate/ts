@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-20T07:01:00Z"
+  "original_createdAt": "2021-05-20T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Tailwind CSSを使用してUIインターフェイスを構築し、実際のウェブサイトに統合するプロセスを簡素化します。",
+      "tagline": "Tailwind CSSとの統合のために作られたFigma UIキット"
+    },
+    {
+      "locale": "zh",
+      "description": "利用Tailwind CSS建立UI界面，并简化整合到实时网站的过程。",
+      "tagline": "为与Tailwind CSS整合而建立的Figma UI工具包"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "利用Tailwind CSS建立UI界面，並簡化整合到實時網站的過程。",
+      "tagline": "爲與Tailwind CSS整合而建立的Figma UI工具包"
+    }
+  ]
 }

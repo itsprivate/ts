@@ -83,5 +83,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-19T17:27:10Z"
+  "original_createdAt": "2021-05-19T17:27:10Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ZenHubのプランニング・ポーカーを使えば、ソフトウェア・チームは、楽に、柔軟に、偏りなく、一緒に見積もることができます。プロダクト・オーナーやスクラム・マスターは、より予測可能なスプリントを得ることができ、開発者はGitHubですぐに見積もりができるようになります。",
+      "tagline": "ZenHubを使ったGitHubでのストーリーポイント推定"
+    },
+    {
+      "locale": "zh",
+      "description": "有了ZenHub的计划扑克，软件团队可以毫不费力地、灵活地、不偏不倚地一起估算。产品所有者和Scrum Master可以获得更多可预测的冲刺，而开发者则可以在GitHub中直接进行估算。",
+      "tagline": "用ZenHub在GitHub中估算故事点"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有了ZenHub的計劃撲克，軟件團隊可以毫不費力地、靈活地、不偏不倚地一起估算。產品所有者和Scrum Master可以獲得更多可預測的衝刺，而開發者則可以在GitHub中直接進行估算。",
+      "tagline": "用ZenHub在GitHub中估算故事點"
+    }
+  ]
 }

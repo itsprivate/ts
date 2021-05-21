@@ -194,5 +194,19 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Thu May 20 01:35:45 +0000 2021"
+  "original_created_at": "Thu May 20 01:35:45 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "2021年の高値から今日の安値まで・・・。\nソラナ $SOL： -50\nXRP $XRP： -53\nビットコイン $BTC: -54\nイーサリアム $ETH： -56\nカルダノ $ADA： -58\nチェーンリンク $LINK: -58%\nライトコイン $LTC: -65\nポルカドット $DOT: -60%\nステラ $XLM: -60\nバイナンス $BNB: -60\nユニスワップ $UNI： -63\nドッグコイン $DOGE: -69%\nビットコインキャッシュ $BCH: -70"
+    },
+    {
+      "locale": "zh",
+      "full_text": "2021年的高点到今天的低点。\nSolana $SOL: -50%\nXRP $XRP: -53%\n比特币 $BTC: -54\n以太坊 $ETH: -56%\n卡达诺 $ADA: -58%\nChainlink $LINK: -58%\n立陶宛币 $LTC: -65\nPolkadot $DOT: -60%\nStellar $XLM: -60%\nBinance $BNB: -60%\nUniswap $UNI: -63\nDogecoin $DOGE: -69%\nBitcoinCash $BCH: -70"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "2021年的高點到今天的低點。\nSolana $SOL: -50%\nXRP $XRP: -53%\n比特幣 $BTC: -54\n以太坊 $ETH: -56%\n卡達諾 $ADA: -58%\nChainlink $LINK: -58%\n立陶宛幣 $LTC: -65\nPolkadot $DOT: -60%\nStellar $XLM: -60%\nBinance $BNB: -60%\nUniswap $UNI: -63\nDogecoin $DOGE: -69%\nBitcoinCash $BCH: -70"
+    }
+  ]
 }

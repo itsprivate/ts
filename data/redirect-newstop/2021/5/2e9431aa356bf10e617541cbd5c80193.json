@@ -14,5 +14,19 @@
   "tags": [
     "The New York Times"
   ],
-  "image": "https://static01.nyt.com/images/2021/05/20/world/20virus-taiwan01/20virus-taiwan01-facebookJumbo.jpg"
+  "image": "https://static01.nyt.com/images/2021/05/20/world/20virus-taiwan01/20virus-taiwan01-facebookJumbo.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "台湾で新型コヴィド-19感染症が急増"
+    },
+    {
+      "locale": "zh",
+      "title": "台湾面临着新的Covid-19感染的激增"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "臺灣面臨着新的Covid-19感染的激增"
+    }
+  ]
 }

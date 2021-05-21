@@ -52,5 +52,22 @@
   "original_created_at": "2021-05-18T06:12:18Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--c0beUux5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wxr2f7q1st9fu9gcx8c5.jpg",
   "author": "DevLorenzo",
-  "author_url": "https://dev.to/devlorenzo"
+  "author_url": "https://dev.to/devlorenzo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Hello World! 開発者は高速化を好み、時間を節約して本当の面白さを追求することを知っています。",
+      "title": "スピードアップのためのツール - Super Powers For Devs 🦸"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，世界! 我们都知道，开发人员喜欢加快进度，为真正的乐趣节省时间，所以今天我...",
+      "title": "加速的工具 - 开发人员的超级权力 🦸"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，世界! 我們都知道，開發人員喜歡加快進度，爲真正的樂趣節省時間，所以今天我...",
+      "title": "加速的工具 - 開發人員的超級權力 🦸"
+    }
+  ]
 }

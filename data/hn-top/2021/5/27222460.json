@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-05-20T15:31:22.000Z",
-  "image": "https://v2.parceljs.org/assets/parcel.png"
+  "image": "https://v2.parceljs.org/assets/parcel.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Parcel 2 Beta 3: Rustで書かれた10倍速いJavaScriptコンパイラ"
+    },
+    {
+      "locale": "zh",
+      "title": "Parcel 2 Beta 3：用Rust编写的10倍快的JavaScript编译器"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Parcel 2 Beta 3：用Rust編寫的10倍快的JavaScript編譯器"
+    }
+  ]
 }

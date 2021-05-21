@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-12T23:51:59Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JURgW2d7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0kneax4b71wch25ogx53.png",
   "author": "André Brandão",
-  "author_url": "https://dev.to/andrenbrandao"
+  "author_url": "https://dev.to/andrenbrandao",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Tmuxの使い方を覚えてから、つい最近ターミナルの設定を改善しました。この方法で、私は...",
+      "title": "Zsh+Tmux+ドラキュラテーマによるターミナル設定"
+    },
+    {
+      "locale": "zh",
+      "description": "在学习了如何使用Tmux之后，我最近刚刚改进了我的终端设置。它给了我一种方法来...",
+      "title": "用Zsh+Tmux+德古拉主题的终端设置"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在學習瞭如何使用Tmux之後，我最近剛剛改進了我的終端設置。它給了我一種方法來...",
+      "title": "用Zsh+Tmux+德古拉主題的終端設置"
+    }
+  ]
 }
