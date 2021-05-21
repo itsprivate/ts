@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-21T07:51:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hj0JvYa8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qtoowq2s1blfm94n3u3o.jpeg",
   "author": "Arika O",
-  "author_url": "https://dev.to/arikaturika"
+  "author_url": "https://dev.to/arikaturika",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "前回の記事では、ローカルストレージ（上のリンク参照）について説明しましたが、ローカルストレージとは何か、どのように使用するのかについて説明します。",
+      "title": "Javascriptのセッションストレージ - ビギナーズガイド"
+    },
+    {
+      "locale": "zh",
+      "description": "在上一篇文章中，我们谈到了本地存储（见上面的链接），它是什么，我们如何使用它？",
+      "title": "脚本会话存储 - 初学者指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在上一篇文章中，我們談到了本地存儲（見上面的鏈接），它是什麼，我們如何使用它？",
+      "title": "腳本會話存儲 - 初學者指南"
+    }
+  ]
 }
