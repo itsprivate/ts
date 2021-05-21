@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-20T05:50:42Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OGEmsMHa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oisplquf0cs9wmcaoic6.png",
   "author": "Pratik Kale",
-  "author_url": "https://dev.to/pratik_kale"
+  "author_url": "https://dev.to/pratik_kale",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あなたの端末をこんな風に変身させてみませんか！？           Before After...",
+      "title": "Zshとpowerlevel10kを使ったターミナルのカスタマイズ"
+    },
+    {
+      "locale": "zh",
+      "description": "把你的终端从这个变成这个！!            之前之后...",
+      "title": "使用Zsh和powerlevel10k定制你的终端"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "把你的終端從這個變成這個！!            之前之後...",
+      "title": "使用Zsh和powerlevel10k定製你的終端"
+    }
+  ]
 }
