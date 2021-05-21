@@ -14,5 +14,19 @@
   "tags": [
     "KABC-TV"
   ],
-  "image": "https://cdn.abcotvs.com/dip/images/59824_Earthquakes.jpg?w=1600"
+  "image": "https://cdn.abcotvs.com/dip/images/59824_Earthquakes.jpg?w=1600",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "USGSによると、マグニチュード6.1の地震の数時間後にマグニチュード7.3の地震が中国で発生"
+    },
+    {
+      "locale": "zh",
+      "title": "美国地质调查局称中国在发生6.1级地震数小时后发生7.3级地震"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "美國地質調查局稱中國在發生6.1級地震數小時後發生7.3級地震"
+    }
+  ]
 }

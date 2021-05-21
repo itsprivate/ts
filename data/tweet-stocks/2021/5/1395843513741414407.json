@@ -224,5 +224,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Fri May 21 20:46:41 +0000 2021"
+  "original_created_at": "Fri May 21 20:46:41 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "最近の高値からの暗号修正...\nビットコイン $BTC: -54\nイーサリアム $ETH: -56\nバイナンスコイン $BNB: -60\nカルダノ $ADA： -58\nXRP（エックスアールピー） $XRP： -53\nドージェコイン $DOGE: -69% https://t.co/ZrE320dWeP"
+    },
+    {
+      "locale": "zh",
+      "full_text": "加密货币从近期高点回调...\n比特币 $BTC: -54%\n以太坊 $ETH: -56%\nBinance Coin $BNB: -60\nCardano $ADA: -58%\nXRP $XRP: -53\nDogecoin $DOGE: -69% https://t.co/ZrE320dWeP"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "加密貨幣從近期高點回調...\n比特幣 $BTC: -54%\n以太坊 $ETH: -56%\nBinance Coin $BNB: -60\nCardano $ADA: -58%\nXRP $XRP: -53\nDogecoin $DOGE: -69% https://t.co/ZrE320dWeP"
+    }
+  ]
 }
