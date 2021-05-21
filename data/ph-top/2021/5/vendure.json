@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-19T10:27:26Z"
+  "original_createdAt": "2021-05-19T10:27:26Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Vendureは、Node.js、GraphQL、TypeScriptで構築された、オープンソースのヘッドレスEコマースフレームワークです。",
+      "tagline": "開発者向けのオープンソースのヘッドレスEコマースフレームワーク"
+    },
+    {
+      "locale": "zh",
+      "description": "Vendure是一个基于Node.js、GraphQL和TypeScript的开源无头电子商务框架。",
+      "tagline": "面向开发者的开源无头电子商务框架"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Vendure是一個基於Node.js、GraphQL和TypeScript的開源無頭電子商務框架。",
+      "tagline": "面向開發者的開源無頭電子商務框架"
+    }
+  ]
 }

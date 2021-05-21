@@ -150,5 +150,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1621439921,
-  "the_new_excerpt": "The URL is: podda.io [https://podda.io]\n\nProblem: I often hear someone on one podcast and want more, but there's not an\neasy way to find them elsewhere.\n\nPodda allows you to search podcasts by guest, and also receive a notification\nwhenever a person you like gets on a new podcast.\n\n\n\nCoded this in…"
+  "the_new_excerpt": "The URL is: podda.io [https://podda.io]\n\nProblem: I often hear someone on one podcast and want more, but there's not an\neasy way to find them elsewhere.\n\nPodda allows you to search podcasts by guest, and also receive a notification\nwhenever a person you like gets on a new podcast.\n\n\n\nCoded this in…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "URLは、podda.io [https://podda.io]です。\n\n問題点：1つのポッドキャストで誰かの話を聞いて、もっと聞きたいと思うことがよくあります。\nしかし、他の場所でその人を見つける簡単な方法がありません。\n\nPoddaでは、ゲストごとにポッドキャストを検索でき、さらに通知を受け取ることができます。\n気に入った人が新しいポッドキャストに出演すると通知を受けることができます。\n\n\n\nこれをコード化すると...",
+      "title": "ポッドキャストをゲスト別に検索するツールを作ってみた"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "网址是：podda.io [https://podda.io]\n\n问题：我经常在一个播客中听到某人，并希望得到更多，但没有一个简单的方法在其他地方找到他们。\n但没有一个简单的方法可以在其他地方找到他们。\n\nPodda允许你按嘉宾搜索播客，并在你喜欢的人加入新的播客时收到通知。\n每当你喜欢的人上了新的播客，你就会收到通知。\n\n\n\n将此编入...",
+      "title": "我建立了一个工具，按嘉宾搜索播客"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "網址是：podda.io [https://podda.io]\n\n問題：我經常在一個播客中聽到某人，並希望得到更多，但沒有一個簡單的方法在其他地方找到他們。\n但沒有一個簡單的方法可以在其他地方找到他們。\n\nPodda允許你按嘉賓搜索播客，並在你喜歡的人加入新的播客時收到通知。\n每當你喜歡的人上了新的播客，你就會收到通知。\n\n\n\n將此編入...",
+      "title": "我建立了一個工具，按嘉賓搜索播客"
+    }
+  ]
 }

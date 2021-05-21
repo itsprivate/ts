@@ -92,5 +92,19 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Wed May 19 07:15:28 +0000 2021"
+  "original_created_at": "Wed May 19 07:15:28 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "価格、過去24時間。\n\nビットコイン： -13\nイーサリアム： -16\nXRP： -6.6\nステラ： -15\nカルダノ： -19\nドージェコイン： -18"
+    },
+    {
+      "locale": "zh",
+      "full_text": "价格，过去24小时。\n\n比特币：-13%\n以太坊: -16%\nXRP：-6.6\nStellar: -15%\n卡达诺: -19%\nDogecoin: -18%"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "價格，過去24小時。\n\n比特幣：-13%\n以太坊: -16%\nXRP：-6.6\nStellar: -15%\n卡達諾: -19%\nDogecoin: -18%"
+    }
+  ]
 }

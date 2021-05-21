@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-19T16:04:43Z"
+  "original_createdAt": "2021-05-19T16:04:43Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "https://www.netlify.com/products/deploy-previews では、レビューアが実際のプレビューリンクからすぐにコメント、画面記録、注釈を行えるようになりました。みんなのフィードバックは、GitHubやその他の生産性向上ツールにきれいに戻されます。この機能は本日より利用可能で、すべてのNetlifyプランに含まれています。",
+      "tagline": "ウェブチームのための強力なコラボレーションツール"
+    },
+    {
+      "locale": "zh",
+      "description": "https://www.netlify.com/products/deploy-previews，现在审查者可以在实际的预览链接中进行评论、屏幕记录和注解! 每个人的反馈都被整齐地传递回GitHub或其他生产力工具。它今天就可以使用，并包括在所有Netlify计划中!",
+      "tagline": "为网络团队提供强大的协作工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "https://www.netlify.com/products/deploy-previews，現在審查者可以在實際的預覽鏈接中進行評論、屏幕記錄和註解! 每個人的反饋都被整齊地傳遞迴GitHub或其他生產力工具。它今天就可以使用，幷包括在所有Netlify計劃中!",
+      "tagline": "爲網絡團隊提供強大的協作工具"
+    }
+  ]
 }

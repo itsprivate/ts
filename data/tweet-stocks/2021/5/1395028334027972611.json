@@ -185,5 +185,22 @@
   "favorited": false,
   "retweeted": false,
   "lang": "es",
-  "original_created_at": "Wed May 19 14:47:27 +0000 2021"
+  "original_created_at": "Wed May 19 14:47:27 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @elonmusk です。テスラには💎🙌がある",
+      "retweeted_status_full_text": "テスラは💎🙌を"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @elonmusk: 特斯拉有 💎 🙌",
+      "retweeted_status_full_text": "特斯拉有💎 🙌。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @elonmusk: 特斯拉有 💎 🙌",
+      "retweeted_status_full_text": "特斯拉有💎 🙌。"
+    }
+  ]
 }

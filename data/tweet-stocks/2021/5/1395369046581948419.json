@@ -273,5 +273,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Thu May 20 13:21:20 +0000 2021"
+  "original_created_at": "Thu May 20 13:21:20 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "過去24時間...\nビットコイン $BTC: +37%)\nXRP $XRP: +39\nポルカドット $DOT +39%\nチェーンリンク $LINK: +39%\nライトコイン $LTC: +50\nユニスワップ $UNI： +52\nイーサリアム $ETH: +52\nビットコインキャッシュ $BCH: +53%\nEOS $EOS: +54%\nステラ $XLM: +58\nドッグコイン $DOGE: +72%\nカルダノ $ADA: +83%\nイーサリアムクラシック $ETC +89% https://t.co/Rpe4G9yTgh"
+    },
+    {
+      "locale": "zh",
+      "full_text": "过去24小时...\n比特币 $BTC: +37%\nXRP $XRP: +39%\nPolkadot $DOT: +39%\nChainlink $LINK: +39%\nLitecoin $LTC: +50\nUniswap $UNI: +52\n以太坊 $ETH: +52\n比特币现金 $BCH: +53%\nEOS $EOS: +54%\n恒星币 $XLM: +58\nDogecoin $DOGE: +72%\nCardano $ADA: +83%\nEthereum Classic $ETC: +89% https://t.co/Rpe4G9yTgh"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "過去24小時...\n比特幣 $BTC: +37%\nXRP $XRP: +39%\nPolkadot $DOT: +39%\nChainlink $LINK: +39%\nLitecoin $LTC: +50\nUniswap $UNI: +52\n以太坊 $ETH: +52\n比特幣現金 $BCH: +53%\nEOS $EOS: +54%\n恆星幣 $XLM: +58\nDogecoin $DOGE: +72%\nCardano $ADA: +83%\nEthereum Classic $ETC: +89% https://t.co/Rpe4G9yTgh"
+    }
+  ]
 }

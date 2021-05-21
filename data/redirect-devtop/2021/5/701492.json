@@ -50,5 +50,22 @@
   "original_created_at": "2021-05-18T07:29:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dydvF91F--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5kspiuid0w3o7ee94ltm.jpg",
   "author": " 🐤🥇 Jasper de Jager",
-  "author_url": "https://dev.to/jmdejager"
+  "author_url": "https://dev.to/jmdejager",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これが私です Look out 'cause here I come. 見られるのは怖くないよ。私は謝罪しない、その...",
+      "title": "これが私、\"開発者 \"なんです。"
+    },
+    {
+      "locale": "zh",
+      "description": "这就是我 小心点，因为我来了。我并不害怕被人看见。我没有任何歉意。",
+      "title": "这就是我，我是一个 \"开发者\" "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這就是我 小心點，因爲我來了。我並不害怕被人看見。我沒有任何歉意。",
+      "title": "這就是我，我是一個 \"開發者\" "
+    }
+  ]
 }

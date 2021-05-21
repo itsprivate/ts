@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-19T10:14:20Z"
+  "original_createdAt": "2021-05-19T10:14:20Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "スマートキャンバスは、GoogleドキュメントやGoogleシート内で、他のドキュメントへのリンク、同僚へのタグ付け、タスクの迅速な割り当てなどを行うことができます。",
+      "tagline": "Notionに対するGoogleの答え"
+    },
+    {
+      "locale": "zh",
+      "description": "智能画布可以让你做一些事情，如链接到其他文件，标记同事，并在谷歌文档或谷歌表格内快速分配任务。",
+      "tagline": "谷歌对Notion的回答"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "智能畫布可以讓你做一些事情，如鏈接到其他文件，標記同事，並在谷歌文檔或谷歌表格內快速分配任務。",
+      "tagline": "谷歌對Notion的回答"
+    }
+  ]
 }

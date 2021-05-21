@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-05-19T23:22:45.000Z",
-  "image": "http://0pointer.net/blog/theme/images/logo.png"
+  "image": "http://0pointer.net/blog/theme/images/logo.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ファイル記述子の限界"
+    },
+    {
+      "locale": "zh",
+      "title": "文件描述符的限制"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "文件描述符的限制"
+    }
+  ]
 }

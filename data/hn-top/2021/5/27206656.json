@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-05-19T10:21:53.000Z",
-  "image": "https://elixir-lang.org/images/logo/logo.png"
+  "image": "https://elixir-lang.org/images/logo/logo.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Elixir v1.12リリース"
+    },
+    {
+      "locale": "zh",
+      "title": "Elixir v1.12发布"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Elixir v1.12發佈"
+    }
+  ]
 }

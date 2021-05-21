@@ -52,5 +52,22 @@
   "original_created_at": "2021-05-16T06:14:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VepjVvFY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xilmeqoqs35u6ffqg84n.jpg",
   "author": "Ryan Carniato",
-  "author_url": "https://dev.to/ryansolid"
+  "author_url": "https://dev.to/ryansolid",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ざっと集計してみたところ、この2年半で70本近くの記事を書いていることがわかりました...。",
+      "title": "JavaScriptフレームワークの設計に関する2年間の執筆活動（2018年～2020年"
+    },
+    {
+      "locale": "zh",
+      "description": "我决定做一个简单的统计，我发现在过去的两年半里我已经写了将近70篇文章。",
+      "title": "两年来关于设计JavaScript框架的写作（2018-2020）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我決定做一個簡單的統計，我發現在過去的兩年半里我已經寫了將近70篇文章。",
+      "title": "兩年來關於設計JavaScript框架的寫作（2018-2020）。"
+    }
+  ]
 }

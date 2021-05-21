@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-18T22:30:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--STlIxcVm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yht9jkfqa44033ybufwu.png",
   "author": "Kingsley Ubah",
-  "author_url": "https://dev.to/ubahthebuilder"
+  "author_url": "https://dev.to/ubahthebuilder",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "React jsとVue jsは、間違いなく最も人気があり、広く使用されているJavaScriptフレームワーク（またはli...",
+      "title": "React vs Vue - ビギナーズガイド"
+    },
+    {
+      "locale": "zh",
+      "description": "React js和Vue js可以说是两个最流行和最广泛使用的JavaScript框架（或称li...",
+      "title": "React vs Vue - 初学者指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "React js和Vue js可以說是兩個最流行和最廣泛使用的JavaScript框架（或稱li...",
+      "title": "React vs Vue - 初學者指南"
+    }
+  ]
 }

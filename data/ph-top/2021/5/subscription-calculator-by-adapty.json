@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-19T09:03:54Z"
+  "original_createdAt": "2021-05-19T09:03:54Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "サブスクリプション数を入力し、ユニット・エコノミーを得ることができます。収益、LTV、利益、コミッション、ARPU、その他の指標。高度なカスタマイズ機能を解除し、社内で使用するためのGoogleシートをダウンロードできます。",
+      "tagline": "モバイルのアプリ内課金の経済性を算出"
+    },
+    {
+      "locale": "zh",
+      "description": "输入你的订阅数字，得到一个单位经济。收入、LTV、利润、佣金、ARPU和其他指标。解锁高级定制功能，并下载Google Sheet供内部使用。",
+      "tagline": "计算移动应用内订阅的经济性"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "輸入你的訂閱數字，得到一個單位經濟。收入、LTV、利潤、佣金、ARPU和其他指標。解鎖高級定製功能，並下載Google Sheet供內部使用。",
+      "tagline": "計算移動應用內訂閱的經濟性"
+    }
+  ]
 }
