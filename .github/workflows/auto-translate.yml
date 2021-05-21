@@ -25,6 +25,7 @@ jobs:
               workflow_id: "auto-translate.yml",
               status:"in_progress"
             });
+            console.log('runed.data.total_count',runed.data.total_count)
             return runed.data.total_count
           result-encoding: string
       - name: checkout
