@@ -113,5 +113,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Sat May 22 12:45:03 +0000 2021"
+  "original_created_at": "Sat May 22 12:45:03 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "中国の火星探査機「Zhurong」が火星表面に車輪を設置し、90日間の予定で赤い惑星のツアーを開始した。https://t.co/5OZ8IKCFVq"
+    },
+    {
+      "locale": "zh",
+      "full_text": "中国的 \"祝融 \"号探测器在火星表面启动车轮，开始了对这颗红色星球的巡视，预计将持续90天https://t.co/5OZ8IKCFVq。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "中國的 \"祝融 \"號探測器在火星表面啓動車輪，開始了對這顆紅色星球的巡視，預計將持續90天https://t.co/5OZ8IKCFVq。"
+    }
+  ]
 }
