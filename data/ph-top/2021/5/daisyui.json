@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-22T07:02:25Z"
+  "original_createdAt": "2021-05-22T07:02:25Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "DaisyUIはTailwind CSSのプラグインです - 美しいCSSコンポーネント - コンポーネントクラスによるクリーンなHTML - カスタマイズやテーマ設定が可能 - わずか2KB。JSなし、依存関係なし - 無料!",
+      "tagline": "Tailwind CSS用の無料UIコンポーネントプラグイン"
+    },
+    {
+      "locale": "zh",
+      "description": "DaisyUI是Tailwind CSS的一个插件 - 漂亮的CSS组件 - 带有组件类的干净HTML - 可定制和主题化 - 只有2KB。无JS，无依赖性 - 免费!",
+      "tagline": "用于Tailwind CSS的免费UI组件插件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "DaisyUI是Tailwind CSS的一個插件 - 漂亮的CSS組件 - 帶有組件類的乾淨HTML - 可定製和主題化 - 只有2KB。無JS，無依賴性 - 免費!",
+      "tagline": "用於Tailwind CSS的免費UI組件插件"
+    }
+  ]
 }
