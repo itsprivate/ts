@@ -83,5 +83,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-22T07:01:00Z"
+  "original_createdAt": "2021-05-22T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Circular Docsは、Google Docsのフォルダを取り込み、ナレッジベースを作成します。Google Docsを使っている人で、コンテンツのコレクションをウェブに公開したい人に最適です。新しい変更は自動的に公開されるので、サイトは常に最新の状態に保たれます。",
+      "tagline": "Google Driveのコンテンツでナレッジベースを作成"
+    },
+    {
+      "locale": "zh",
+      "description": "Circular Docs采用了Google Docs的一个文件夹并创建了一个知识库。对于任何使用谷歌文档并希望将内容集合发布到网络上的人来说是完美的。新的变化会自动发布，因此网站始终是最新的。",
+      "tagline": "用你的Google Drive内容创建一个知识库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Circular Docs採用了Google Docs的一個文件夾並創建了一個知識庫。對於任何使用谷歌文檔並希望將內容集合發佈到網絡上的人來說是完美的。新的變化會自動發佈，因此網站始終是最新的。",
+      "tagline": "用你的Google Drive內容創建一個知識庫"
+    }
+  ]
 }
