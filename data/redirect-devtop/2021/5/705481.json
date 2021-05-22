@@ -50,5 +50,22 @@
   "original_created_at": "2021-05-22T06:58:56Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--eBiCt4fo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xggjm8w9uenu8grwbtx9.png",
   "author": "Himanshu",
-  "author_url": "https://dev.to/hima_khaitan"
+  "author_url": "https://dev.to/hima_khaitan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "デザインのアイデア 本当のことを言うと、私は本当に1000もの開発者のポートフォリオ💻のウェブサイトを見てきました。",
+      "title": "このクールなGitHub UIベースのDEV Portfolioを作りました。"
+    },
+    {
+      "locale": "zh",
+      "description": "设计理念 吐露真相，我真的遇到了1000多个开发组合💻网站。",
+      "title": "我建立了这个很酷的基于GitHub UI的DEV Portfolio"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "設計理念 吐露真相，我真的遇到了1000多個開發組合💻網站。",
+      "title": "我建立了這個很酷的基於GitHub UI的DEV Portfolio"
+    }
+  ]
 }
