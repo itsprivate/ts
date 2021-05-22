@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-03T05:08:04Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kDPjt5XD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/padkm9hul596rluke6cj.png",
   "author": "Chuck Choi",
-  "author_url": "https://dev.to/chuckchoiboi"
+  "author_url": "https://dev.to/chuckchoiboi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "オリジン「http://localhost:3000」から「https://coolserver.com」にフェッチするアクセスは、...によってブロックされています。",
+      "title": "Cross-Origin Resource Sharing（CORS）について"
+    },
+    {
+      "locale": "zh",
+      "description": "从原产地'http://localhost:3000'获取'https://coolserver.com'的访问被阻止了。",
+      "title": "我们来谈谈跨源资源共享（CORS）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "從原產地'http://localhost:3000'獲取'https://coolserver.com'的訪問被阻止了。",
+      "title": "我們來談談跨源資源共享（CORS）。"
+    }
+  ]
 }
