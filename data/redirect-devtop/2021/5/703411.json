@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-20T02:03:36Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oPFEfoTE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zd82th6peqm3xxy65shu.png",
   "author": "Jucian0",
-  "author_url": "https://dev.to/jucian0"
+  "author_url": "https://dev.to/jucian0",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "もしあなたがソフトウェア開発者で、別世界にいるわけではないなら、おそらく何かを読んだり聞いたりしたことがあるでしょう。",
+      "title": "Reduxパターンの実装 "
+    },
+    {
+      "locale": "zh",
+      "description": "如果你是一个软件开发人员，而且不是在另一个世界，你可能已经读过或听说过一些东西。",
+      "title": "实现Redux模式 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你是一個軟件開發人員，而且不是在另一個世界，你可能已經讀過或聽說過一些東西。",
+      "title": "實現Redux模式 "
+    }
+  ]
 }
