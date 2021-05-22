@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-20T16:26:54Z",
   "image": "https://dev.to/social_previews/article/703982.png",
   "author": "Munem Prionto",
-  "author_url": "https://dev.to/munemprionto"
+  "author_url": "https://dev.to/munemprionto",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "            Frontend Mentorとは？  Frontend Mentorは、現実世界の問題を解決するためのプラットフォームです。",
+      "title": "私はFrontend Mentorを1週間試してみました。"
+    },
+    {
+      "locale": "zh",
+      "description": "            什么是Frontend Mentor？  Frontend Mentor是一个平台，你可以在这里解决现实世界的问题。",
+      "title": "我试用了Frontend Mentor一个星期。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "            什麼是Frontend Mentor？  Frontend Mentor是一個平臺，你可以在這裏解決現實世界的問題。",
+      "title": "我試用了Frontend Mentor一個星期。"
+    }
+  ]
 }
