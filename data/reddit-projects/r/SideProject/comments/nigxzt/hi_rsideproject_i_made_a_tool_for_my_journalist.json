@@ -150,5 +150,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1621684290,
-  "the_new_excerpt": "https://www.octopusbriefing.com/"
+  "the_new_excerpt": "https://www.octopusbriefing.com/",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "https://www.octopusbriefing.com/",
+      "title": "こんにちは、r/SideProjectです。私はジャーナリストの友人のために、毎日170以上のサッカークラブからプレスリリースを収集するツールを作りました。もし誰か試してみたい人がいたら、私にDMをください。どんな種類のウェブサイトでも動作します。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "https://www.octopusbriefing.com/",
+      "title": "嗨，r/SideProject，我为我的记者朋友做了一个工具，每天收集170多个足球俱乐部的新闻发布。如果有人想试试这个，请给我留言。它适用于任何类型的网站!"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "https://www.octopusbriefing.com/",
+      "title": "嗨，r/SideProject，我爲我的記者朋友做了一個工具，每天收集170多個足球俱樂部的新聞發佈。如果有人想試試這個，請給我留言。它適用於任何類型的網站!"
+    }
+  ]
 }
