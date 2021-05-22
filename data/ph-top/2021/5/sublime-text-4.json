@@ -82,5 +82,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-22T07:01:00Z"
+  "original_createdAt": "2021-05-22T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "✨ コンテキスト対応のオートコンプリート、タブでの複数選択、TypeScriptのサポートなど、よりスマートな作業を実現 🚀 ハードウェアアクセラレーションとApple Siliconのサポートにより、より速く作業を進めることができます。",
+      "tagline": "適切なテキスト編集"
+    },
+    {
+      "locale": "zh",
+      "description": "✨ 通过上下文感知的自动完成、标签多选、TypeScript支持等功能使工作更加智能 🚀 通过硬件加速和Apple Silicon支持使行动更加迅速",
+      "tagline": "文本编辑，做得很好"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "✨ 通過上下文感知的自動完成、標籤多選、TypeScript支持等功能使工作更加智能 🚀 通過硬件加速和Apple Silicon支持使行動更加迅速",
+      "tagline": "文本編輯，做得很好"
+    }
+  ]
 }
