@@ -108,5 +108,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1621631759,
-  "the_new_excerpt": "Just some context"
+  "the_new_excerpt": "Just some context",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "いくつかの背景",
+      "title": "昨年のこの日、ビットコインの価値は9,124.61ドルだった"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "只是一些背景",
+      "title": "去年这一天，比特币价值9,124.61美元"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "只是一些背景",
+      "title": "去年這一天，比特幣價值9,124.61美元"
+    }
+  ]
 }
