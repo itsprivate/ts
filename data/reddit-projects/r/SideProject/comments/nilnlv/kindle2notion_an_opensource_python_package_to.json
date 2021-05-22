@@ -146,5 +146,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1621699028,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Kindle2Notion - KindleデバイスからNotionのページに切り抜きを転送し、維持するためのオープンソースのPythonパッケージです。このプロジェクトに対する皆様のフィードバックをお待ちしています。"
+    },
+    {
+      "locale": "zh",
+      "title": "Kindle2Notion - 一个开源的Python包，可以帮助你把你的剪报从Kindle设备上转移到Notion的一个页面上并加以维护。渴望听到你对这个项目的反馈!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Kindle2Notion - 一個開源的Python包，可以幫助你把你的剪報從Kindle設備上轉移到Notion的一個頁面上並加以維護。渴望聽到你對這個項目的反饋!"
+    }
+  ]
 }
