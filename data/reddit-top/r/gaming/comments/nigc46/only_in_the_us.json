@@ -153,5 +153,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1621681963,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "米国内のみ"
+    },
+    {
+      "locale": "zh",
+      "title": "仅在美国"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "僅在美國"
+    }
+  ]
 }
