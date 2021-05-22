@@ -43,5 +43,22 @@
   "original_created_at": "2021-05-20T18:55:01Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--v7pjiPb8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xfr0kcfappv3p2i5q8fa.png",
   "author": "milindsoorya",
-  "author_url": "https://dev.to/milindsoorya"
+  "author_url": "https://dev.to/milindsoorya",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ドラッグ＆ドロップ機能を実装するためのライブラリは数多くありますが、ボンネット内でどのように動作しているのかを知りたい、肥大化したコンポーネントや依存関係を最小限に抑えたいという方には、以下の方法があります。",
+      "title": "Reactのドラッグ＆ドロップによるファイルアップロードコンポーネントをゼロから作成する 🥊"
+    },
+    {
+      "locale": "zh",
+      "description": "外面有许多库供你实现拖放功能，但如果你想知道它在引擎盖下是如何工作的，并想尽量减少臃肿的组件和依赖性，那么这里就是实现它的方法。",
+      "title": "从头开始创建一个React拖放文件上传组件 🥊"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "外面有許多庫供你實現拖放功能，但如果你想知道它在引擎蓋下是如何工作的，並想盡量減少臃腫的組件和依賴性，那麼這裏就是實現它的方法。",
+      "title": "從頭開始創建一個React拖放文件上傳組件 🥊"
+    }
+  ]
 }

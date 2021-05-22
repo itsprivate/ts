@@ -619,5 +619,22 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Sat May 22 13:50:31 +0000 2021"
+  "original_created_at": "Sat May 22 13:50:31 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @100trillionUSD: #bitcoin はS2Fモデル値を中心とした紺色の帯で揺れている。今日のような買い場は珍しい（2019年第1四半期に...",
+      "retweeted_status_full_text": "#ビットコインはS2Fモデル値を中心とした紺色の帯の中で揺れ動いています。今日のような買いの機会は稀だ（S2Fの記事を書いた2019年第1四半期、covidによる2020年3月、そして今）。人生は選択がすべてだ https://t.co/rlb5dsIFSg https://t.co/rQpTvzR3eW"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @100trillionUSD: #比特币在S2F模型值附近的深蓝色带子里震荡。像今天这样的买入机会很罕见（2019年第一季度时...",
+      "retweeted_status_full_text": "#比特币在S2F模型值附近的深蓝色带子里震荡。像今天这样的买入机会很少（2019年第一季度我写S2F文章的时候，2020年3月由于covid，还有现在）。生活就是选择。https://t.co/rlb5dsIFSg https://t.co/rQpTvzR3eW"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @100trillionUSD: #比特幣在S2F模型值附近的深藍色帶子裏震盪。像今天這樣的買入機會很罕見（2019年第一季度時...",
+      "retweeted_status_full_text": "#比特幣在S2F模型值附近的深藍色帶子裏震盪。像今天這樣的買入機會很少（2019年第一季度我寫S2F文章的時候，2020年3月由於covid，還有現在）。生活就是選擇。https://t.co/rlb5dsIFSg https://t.co/rQpTvzR3eW"
+    }
+  ]
 }
