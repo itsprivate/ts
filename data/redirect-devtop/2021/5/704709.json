@@ -41,5 +41,22 @@
   "original_created_at": "2021-05-21T09:27:37Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NpF6DwXw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ay4fqyysvusre0w86fzc.jpeg",
   "author": "TrinhDinhHuy",
-  "author_url": "https://dev.to/dinhhuyams"
+  "author_url": "https://dev.to/dinhhuyams",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "1. ログレベルとセマンティックメソッド 📚 Console docs console.log(\"hello world\") console.war...",
+      "title": "Javascriptの読みやすさを向上させる10のヒント"
+    },
+    {
+      "locale": "zh",
+      "description": "1. 日志级别和语义方法 📚 控制台文档 console.log(\"hello world\") console.war...",
+      "title": "提高Javascript可读性的10个技巧"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "1. 日誌級別和語義方法 📚 控制檯文檔 console.log(\"hello world\") console.war...",
+      "title": "提高Javascript可讀性的10個技巧"
+    }
+  ]
 }
