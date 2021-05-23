@@ -410,5 +410,22 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Sun May 23 18:17:49 +0000 2021"
+  "original_created_at": "Sun May 23 18:17:49 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "実際の#ビットコイン価格はS2Fモデルの下限値。心配ですか？いいえ、下限バンドは～/2、上限バンドは～/2です。\n- 上限バンド：12万ドル\n- モデル価格：6万ドル\n- 下限バンド：3万ドル\n何ヶ月も$32Kに留まっていても問題はないが、BTC価格は数日から数週間で跳ね返ってくると予想している。https://t.co/XvQybWBNds",
+      "quoted_status_full_text": "ストック・トゥー・フロー・マルチプル (463d)\n2021-05-22, 23:59 utc\n\nln(実際の価格 / モデル)\n\n実際の価格：37,643.42ドル\nモデル価格: $60,868.60\nS2F倍率：-0.48 https://t.co/ZIdZnFHcjg"
+    },
+    {
+      "locale": "zh",
+      "full_text": "实际#比特币价格处于S2F模型的下限。我担心吗？不，下限是~/2，上限是~*2。\n- 上限：12万美金\n- 模型价格：6万美金\n- 下限区间：3万美元\n如果我们在32K美元停留多个月也不行，但我预计BTC价格会在未来几天/几周反弹。https://t.co/XvQybWBNds",
+      "quoted_status_full_text": "库存与流量的比率 (463d)\n2021-05-22, 23:59 utc\n\nln(实际/模型)\n\n实际价格：37,643.42美元\n模型价格：60,868.60美元\nS2F倍数: -0.48 https://t.co/ZIdZnFHcjg"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "實際#比特幣價格處於S2F模型的下限。我擔心嗎？不，下限是~/2，上限是~*2。\n- 上限：12萬美金\n- 模型價格：6萬美金\n- 下限區間：3萬美元\n如果我們在32K美元停留多個月也不行，但我預計BTC價格會在未來幾天/幾周反彈。https://t.co/XvQybWBNds",
+      "quoted_status_full_text": "庫存與流量的比率 (463d)\n2021-05-22, 23:59 utc\n\nln(實際/模型)\n\n實際價格：37,643.42美元\n模型價格：60,868.60美元\nS2F倍數: -0.48 https://t.co/ZIdZnFHcjg"
+    }
+  ]
 }
