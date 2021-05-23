@@ -102,5 +102,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1621699817,
-  "the_new_excerpt": "For example, if person A gets a higher viral dose than person B, is his/her\ninfection more likely to be more severe and has there been any research/studies\nconducted on this? Also, I'd like to know if there's a minimum viral dose that\nis needed for symptomatic infection, and if this dose varies from…"
+  "the_new_excerpt": "For example, if person A gets a higher viral dose than person B, is his/her\ninfection more likely to be more severe and has there been any research/studies\nconducted on this? Also, I'd like to know if there's a minimum viral dose that\nis needed for symptomatic infection, and if this dose varies from…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "例えば、AさんがBさんよりも高いウイルス量を摂取した場合、AさんはBさんよりも感染しやすいのでしょうか？\n感染症が重症化する可能性は高いのでしょうか、またそのような研究結果はありますか？\nまた、そのような研究は行われていますか？また、症状のある感染に必要な最小のウイルス量はあるのでしょうか？\nまた、症状のある感染に必要な最小のウイルス量はあるのか、また、その量は...",
+      "title": "Covid-19では、ウイルス量が感染症の重症度を左右する要因の一つであると、いくつかの情報源から聞いたり読んだりしました。これはどこまで本当なのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "例如，如果A人得到的病毒剂量比B人高，他/她的\n他/她的感染是否更有可能更严重，是否有任何研究/调查\n是否有这方面的研究？另外，我想知道是否有一个最低的病毒剂量，即\n症状性感染所需的最低病毒剂量，以及该剂量是否因人而异。",
+      "title": "我从一些渠道听说/读到，病毒量是影响Covid-19感染严重程度的因素之一。这在多大程度上是真的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "例如，如果A人得到的病毒劑量比B人高，他/她的\n他/她的感染是否更有可能更嚴重，是否有任何研究/調查\n是否有這方面的研究？另外，我想知道是否有一個最低的病毒劑量，即\n症狀性感染所需的最低病毒劑量，以及該劑量是否因人而異。",
+      "title": "我從一些渠道聽說/讀到，病毒量是影響Covid-19感染嚴重程度的因素之一。這在多大程度上是真的？"
+    }
+  ]
 }

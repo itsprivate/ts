@@ -105,5 +105,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1621762167,
-  "the_new_excerpt": "See title. Comedy flair."
+  "the_new_excerpt": "See title. Comedy flair.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "タイトルを見る お笑いのセンスがある",
+      "title": "ビットコインの取り締まりは、中国製だから長くは続かない"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "见标题。喜剧天赋。",
+      "title": "比特币的打击不会持续太久，因为它是在中国制造的"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "見標題。喜劇天賦。",
+      "title": "比特幣的打擊不會持續太久，因爲它是在中國製造的"
+    }
+  ]
 }

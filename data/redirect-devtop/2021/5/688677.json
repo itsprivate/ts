@@ -41,5 +41,22 @@
   "original_created_at": "2021-05-05T15:04:44Z",
   "image": "https://dev.to/social_previews/article/688677.png",
   "author": "Siddharth",
-  "author_url": "https://dev.to/siddharthshyniben"
+  "author_url": "https://dev.to/siddharthshyniben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、私がどのようにしてプログラミングのプロジェクトを計画しているかを説明します。プロジェクトを計画することで、私は...",
+      "title": "プログラミングプロジェクトを計画するためのガイドです。"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我将解释我如何规划我的编程项目。规划一个项目可以使我的工作更有效率。",
+      "title": "一个规划编程项目的指南。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我將解釋我如何規劃我的編程項目。規劃一個項目可以使我的工作更有效率。",
+      "title": "一個規劃編程項目的指南。"
+    }
+  ]
 }
