@@ -45,5 +45,17 @@
   "original_created_at": "2020-12-25T08:50:04Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HoNGZWYt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/11u3xvf2kt8qb0shektw.png",
   "author": "△ LUKE知る",
-  "author_url": "https://dev.to/lukeshiru"
+  "author_url": "https://dev.to/lukeshiru",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "在你认为我疯了之前，我并不是说你不需要在内存中存储数据的方法，因为你不需要。",
+      "title": "你不需要变量"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在你認爲我瘋了之前，我並不是說你不需要在內存中存儲數據的方法，因爲你不需要。",
+      "title": "你不需要變量"
+    }
+  ]
 }
