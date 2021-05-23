@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-23T13:00:23Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6nxx0dwy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j0n9nxt1ds3g6c1gs335.jpg",
   "author": "kpiteng",
-  "author_url": "https://dev.to/kpiteng"
+  "author_url": "https://dev.to/kpiteng",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "開発者の皆さん、こんにちは。私たちの多くは、Reactアプリをより使いやすくするために、React開発で様々なデザインパターンを使用しています。",
+      "title": "Reactのクリーンなアーキテクチャ"
+    },
+    {
+      "locale": "zh",
+      "description": "开发者们，你们好! 我们中的许多人在React开发中使用各种设计模式，以使React应用程序更强大。",
+      "title": "React清洁架构"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "開發者們，你們好! 我們中的許多人在React開發中使用各種設計模式，以使React應用程序更強大。",
+      "title": "React清潔架構"
+    }
+  ]
 }
