@@ -52,5 +52,22 @@
   "original_created_at": "2021-05-22T04:38:07Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XHAU8T_F--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k35lsydru849w5xipzkh.png",
   "author": "Adithya Sreyaj",
-  "author_url": "https://dev.to/adisreyaj"
+  "author_url": "https://dev.to/adisreyaj",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "そこで今回は、ディレクティブを活用して、いかにしてあなたのビジネスに魔法をかけることができるかをご紹介したいと思います。",
+      "title": "AngularでDirectiveを使って超シンプルなBadgeコンポーネントを作る。"
+    },
+    {
+      "locale": "zh",
+      "description": "因此，我又写了一篇小文章，说明你如何利用指令在你的网站上做神奇的事情。",
+      "title": "使用指令在Angular中创建一个超级简单的Badge组件。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "因此，我又寫了一篇小文章，說明你如何利用指令在你的網站上做神奇的事情。",
+      "title": "使用指令在Angular中創建一個超級簡單的Badge組件。"
+    }
+  ]
 }
