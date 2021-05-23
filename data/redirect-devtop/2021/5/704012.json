@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-20T17:14:08Z",
   "image": "https://dev.to/social_previews/article/704012.png",
   "author": "Jack",
-  "author_url": "https://dev.to/jackmellis"
+  "author_url": "https://dev.to/jackmellis",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに 私は、ちょっとした建築が大好きです。アプリケーションをどのように構成するかは、非常に重要です。",
+      "title": "apiアーキテクチャの開発"
+    },
+    {
+      "locale": "zh",
+      "description": "简介：我喜欢架构。你如何构建你的应用程序是非常重要的...",
+      "title": "开发一个api架构"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介：我喜歡架構。你如何構建你的應用程序是非常重要的...",
+      "title": "開發一個api架構"
+    }
+  ]
 }
