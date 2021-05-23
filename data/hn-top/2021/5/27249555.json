@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-05-22T19:26:09.000Z",
-  "image": "https://opengraph.githubassets.com/0ac4e6ff488b8b6bed9c89de6cb46e161bd9c5efdd66a5f6954ff57bb8f87a99/mikroskeem/tosh"
+  "image": "https://opengraph.githubassets.com/0ac4e6ff488b8b6bed9c89de6cb46e161bd9c5efdd66a5f6954ff57bb8f87a99/mikroskeem/tosh",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Tosh: TOTPに基づいてSSHサーバのリスンアドレスを30秒ごとに変更する"
+    },
+    {
+      "locale": "zh",
+      "title": "Tosh：根据TOTP每30秒改变你的SSH服务器的监听地址"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Tosh：根據TOTP每30秒改變你的SSH服務器的監聽地址"
+    }
+  ]
 }
