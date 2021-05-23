@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-23T06:04:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HaVp5ebv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wnbps9shhjegha31wzj3.png",
   "author": "Yogesh Chavan",
-  "author_url": "https://dev.to/myogeshchavan97"
+  "author_url": "https://dev.to/myogeshchavan97",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "スライスとES8のpadStartメソッドを使って数字をマスクする簡単な方法 const creditCard = \"41111...",
+      "title": "JavaScript開発者のための超便利なTips&Tricks"
+    },
+    {
+      "locale": "zh",
+      "description": "使用slice和ES8 padStart方法快速屏蔽数字的方法 const creditCard = \"41111...",
+      "title": "为JavaScript开发人员提供的超级有用的技巧和窍门"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用slice和ES8 padStart方法快速屏蔽數字的方法 const creditCard = \"41111...",
+      "title": "爲JavaScript開發人員提供的超級有用的技巧和竅門"
+    }
+  ]
 }

@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-21T16:49:23Z",
   "image": "https://dev.to/social_previews/article/705003.png",
   "author": "Atul Vishwakarma",
-  "author_url": "https://dev.to/jerry45"
+  "author_url": "https://dev.to/jerry45",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに Visual Studio Code（VS Code）は、Web開発のための最も人気のあるエディタです。",
+      "title": "Web開発のためのVisual Studio Code拡張機能のマイ・トップ10"
+    },
+    {
+      "locale": "zh",
+      "description": "简介：Visual Studio Code或VS Code是网络开发中最受欢迎的编辑器。",
+      "title": "我的十大Visual Studio代码扩展，用于网络开发"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介：Visual Studio Code或VS Code是網絡開發中最受歡迎的編輯器。",
+      "title": "我的十大Visual Studio代碼擴展，用於網絡開發"
+    }
+  ]
 }
