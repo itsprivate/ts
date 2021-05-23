@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-23T08:51:52Z"
+  "original_createdAt": "2021-05-23T08:51:52Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "一度に多くのメールからGmailの添付ファイルを簡単にダウンロード・削除することができます。Windows、macOS、Ubuntuで動作します。プライバシー、満足度、返金を保証します。",
+      "tagline": "Gmailの添付ファイルを削除してGoogleのストレージを解放する"
+    },
+    {
+      "locale": "zh",
+      "description": "一次性轻松下载和/或删除许多邮件中的Gmail附件。在Windows、macOS和Ubuntu上工作。隐私、满意和退款保证。",
+      "tagline": "通过删除Gmail附件释放你的谷歌存储空间"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一次性輕鬆下載和/或刪除許多郵件中的Gmail附件。在Windows、macOS和Ubuntu上工作。隱私、滿意和退款保證。",
+      "tagline": "通過刪除Gmail附件釋放你的谷歌存儲空間"
+    }
+  ]
 }
