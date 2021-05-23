@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-19T04:44:41Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FzM7rsGm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gszif5u96v2y59akxyl0.png",
   "author": "Boonsuen Oh",
-  "author_url": "https://dev.to/wnxn"
+  "author_url": "https://dev.to/wnxn",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Big O記法と時間的複雑さは、コンピュータサイエンスの基本的な概念です。",
+      "title": "JavaScriptでのBig O表記とTime Complexityの紹介"
+    },
+    {
+      "locale": "zh",
+      "description": "大O符号和时间复杂性是计算机科学中的基本概念。",
+      "title": "JavaScript中的大O符号和时间复杂度介绍"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大O符號和時間複雜性是計算機科學中的基本概念。",
+      "title": "JavaScript中的大O符號和時間複雜度介紹"
+    }
+  ]
 }
