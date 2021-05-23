@@ -233,5 +233,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Sun May 23 16:30:00 +0000 2021"
+  "original_created_at": "Sun May 23 16:30:00 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "コーヒーの価格は上昇しており、専門家は、パンデミックのサプライチェーンの悩みや気候変動の影響で、この傾向は続くと予測しています #WSJWhatsNow https://t.co/M2126YT1gh https://t.co/evwtSsfBcL"
+    },
+    {
+      "locale": "zh",
+      "full_text": "由于大流行的供应链困境和气候变化，咖啡价格正在上涨，专家预测这一趋势将继续下去 #WSJWhatsNow https://t.co/M2126YT1gh https://t.co/evwtSsfBcL"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "由於大流行的供應鏈困境和氣候變化，咖啡價格正在上漲，專家預測這一趨勢將繼續下去 #WSJWhatsNow https://t.co/M2126YT1gh https://t.co/evwtSsfBcL"
+    }
+  ]
 }
