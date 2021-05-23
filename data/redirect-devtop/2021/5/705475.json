@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-22T06:35:56Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DQtzesgr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yo2kvgqe65wl9p0yrsjc.jpg",
   "author": "Ratul",
-  "author_url": "https://dev.to/ratuloss"
+  "author_url": "https://dev.to/ratuloss",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、開発者の皆さん。いかがお過ごしでしょうか。今日のこのブログでは、5つの便利なvs code ext...",
+      "title": "開発者の生産性を高める5つのVsコード拡張機能"
+    },
+    {
+      "locale": "zh",
+      "description": "嗨，开发人员。怎么样了。今天在这个博客中，我将向你展示5个有用的VS代码扩展。",
+      "title": "5个Vs代码扩展来提高你的开发者生产力"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嗨，開發人員。怎麼樣了。今天在這個博客中，我將向你展示5個有用的VS代碼擴展。",
+      "title": "5個Vs代碼擴展來提高你的開發者生產力"
+    }
+  ]
 }
