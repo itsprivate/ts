@@ -50,5 +50,22 @@
   "original_created_at": "2021-05-22T05:49:42Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mmvAQImx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y6hgplsnzuv7e9llo2r6.png",
   "author": "Alex Weininger",
-  "author_url": "https://dev.to/alexweininger"
+  "author_url": "https://dev.to/alexweininger",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "dev.toへの初投稿となる今回は、Appwrite for VS Code extensionについて、その内容を紹介する。",
+      "title": "Appwrite VS Code 拡張機能"
+    },
+    {
+      "locale": "zh",
+      "description": "在我发表在dev.to上的第一篇文章中，我将谈一谈Appwrite for VS Code扩展，以及你可以做什么。",
+      "title": "Appwrite VS Code扩展"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在我發表在dev.to上的第一篇文章中，我將談一談Appwrite for VS Code擴展，以及你可以做什麼。",
+      "title": "Appwrite VS Code擴展"
+    }
+  ]
 }
