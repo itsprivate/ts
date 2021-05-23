@@ -52,5 +52,17 @@
   "original_created_at": "2021-03-04T18:08:36Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--P4scpkNK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hmztcagpew24os6v5ads.png",
   "author": "Pete King",
-  "author_url": "https://dev.to/peteking"
+  "author_url": "https://dev.to/peteking",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "系列介绍 欢迎来到本博客系列的第10部分，该部分将从最基本的 \"中国人 \"开始。",
+      "title": "从开发到生产的API - 第10部分"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "系列介紹 歡迎來到本博客系列的第10部分，該部分將從最基本的 \"中國人 \"開始。",
+      "title": "從開發到生產的API - 第10部分"
+    }
+  ]
 }
