@@ -107,5 +107,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-24T07:49:57Z"
+  "original_createdAt": "2021-05-24T07:49:57Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Quod AIのChrome拡張機能は、ソフトウェア開発者が問題をよりスマートに解決するのに役立ちます。GithubやJiraの課題から、コードなどの検索候補をすぐに確認できます。AIを搭載しています。",
+      "tagline": "Github/Jiraの課題からコードやコンテキストを1クリックで検索可能"
+    },
+    {
+      "locale": "zh",
+      "description": "Quod AI的Chrome扩展帮助软件开发人员更聪明地解决问题。从你的Github或Jira问题中看到关于代码的即时搜索建议等。由人工智能提供。",
+      "tagline": "一键搜索Github/Jira问题中的代码和上下文"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Quod AI的Chrome擴展幫助軟件開發人員更聰明地解決問題。從你的Github或Jira問題中看到關於代碼的即時搜索建議等。由人工智能提供。",
+      "tagline": "一鍵搜索Github/Jira問題中的代碼和上下文"
+    }
+  ]
 }
