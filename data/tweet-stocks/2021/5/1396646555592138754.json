@@ -92,5 +92,19 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Mon May 24 01:57:41 +0000 2021"
+  "original_created_at": "Mon May 24 01:57:41 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "武漢の研究所スタッフが集団発生前にCovidに類似した症状で入院していたことが新たな情報で判明***。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "新的情报显示，武汉实验室工作人员在确认爆发之前就因类似于Covid的症状而住院 ***"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "新的情報顯示，武漢實驗室工作人員在確認爆發之前就因類似於Covid的症狀而住院 ***"
+    }
+  ]
 }

@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-22T03:24:38Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DDtxuOwr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pgweh1zw1jm6343lxx7r.jpg",
   "author": "Tapajyoti Bose",
-  "author_url": "https://dev.to/ruppysuppy"
+  "author_url": "https://dev.to/ruppysuppy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CSS疑似クラスとは何ですか？  CSS疑似クラスとは、特定のクラスを指定するセレクタです。",
+      "title": "便利なCSS疑似クラスをマスター"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是CSS伪类？  CSS伪类是一个选择器，它指定了一个特定的类别。",
+      "title": "掌握有用的CSS伪类"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是CSS僞類？  CSS僞類是一個選擇器，它指定了一個特定的類別。",
+      "title": "掌握有用的CSS僞類"
+    }
+  ]
 }
