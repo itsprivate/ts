@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-24T15:24:10Z"
+  "original_createdAt": "2021-05-24T15:24:10Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Figmaに追加したGIFをエクスポートしたいと思ったことはありませんか？今ならそれが可能です。しかも、テキストやフィルターなどを追加することができます。GIFプラグインを使った方法は次の通りです。キャンバス上で、GIFを使ったデザインのフレームを選択し、「GIFを再生」または「GIFをエクスポート」コマンドを実行します。",
+      "tagline": "FigmaからのGIFのエクスポート"
+    },
+    {
+      "locale": "zh",
+      "description": "您是否需要导出您添加到Figma的GIF？现在您可以了! 而且，还可以添加文本、过滤器和更多的内容! 以下是使用 GIF 插件的方法。在画布上选择一个带有GIF的设计框架，然后运行播放GIF或导出GIF命令。",
+      "tagline": "从Figma导出GIF"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "您是否需要導出您添加到Figma的GIF？現在您可以了! 而且，還可以添加文本、過濾器和更多的內容! 以下是使用 GIF 插件的方法。在畫布上選擇一個帶有GIF的設計框架，然後運行播放GIF或導出GIF命令。",
+      "tagline": "從Figma導出GIF"
+    }
+  ]
 }
