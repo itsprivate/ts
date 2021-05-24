@@ -43,5 +43,22 @@
   "original_created_at": "2021-05-22T19:23:00Z",
   "image": "https://dev.to/social_previews/article/705883.png",
   "author": "Mohmed Ishak",
-  "author_url": "https://dev.to/ishakmohmed"
+  "author_url": "https://dev.to/ishakmohmed",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コードを書くことは誰にでもできますが、きれいなコードを書くことはできますか？この記事では、私が実践しているクリーンなコーディング方法をご紹介します...",
+      "title": "クリーンなコードを書くための秘訣。私が実践している5つのコツ。"
+    },
+    {
+      "locale": "zh",
+      "description": "任何人都可以编码，但你能干净地编码吗？在这篇文章中，我将向你展示我常用的清洁编码技术。",
+      "title": "编写清洁代码的艺术。我的5个必备技巧。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "任何人都可以編碼，但你能幹淨地編碼嗎？在這篇文章中，我將向你展示我常用的清潔編碼技術。",
+      "title": "編寫清潔代碼的藝術。我的5個必備技巧。"
+    }
+  ]
 }
