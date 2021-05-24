@@ -151,5 +151,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1621796858,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Node JsとSpring Bootを使って作られたビデオストリーミングアプリケーション"
+    },
+    {
+      "locale": "zh",
+      "title": "使用Node Js和Spring Boot制作的视频流应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "使用Node Js和Spring Boot製作的視頻流應用程序"
+    }
+  ]
 }
