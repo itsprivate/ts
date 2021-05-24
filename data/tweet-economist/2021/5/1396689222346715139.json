@@ -113,5 +113,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Mon May 24 04:47:14 +0000 2021"
+  "original_created_at": "Mon May 24 04:47:14 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "パンデミックの発生は、マイクロチップ業界にとって最悪のタイミングでした。ロックダウンされた労働者はノートパソコンを購入し、クラウドコンピューティングの事業者はサーバーの追加に奔走した https://t.co/vTE8jPUf7i"
+    },
+    {
+      "locale": "zh",
+      "full_text": "对微芯片行业来说，这场大流行在最糟糕的时候到来。被封锁的工人购买了笔记本电脑，云计算运营商争相增加服务器https://t.co/vTE8jPUf7i。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "對微芯片行業來說，這場大流行在最糟糕的時候到來。被封鎖的工人購買了筆記本電腦，雲計算運營商爭相增加服務器https://t.co/vTE8jPUf7i。"
+    }
+  ]
 }
