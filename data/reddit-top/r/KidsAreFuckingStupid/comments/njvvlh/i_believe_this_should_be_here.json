@@ -154,5 +154,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1621856140,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これはここにあるべきだと思っています。"
+    },
+    {
+      "locale": "zh",
+      "title": "我相信这应该放在这里。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我相信這應該放在這裏。"
+    }
+  ]
 }
