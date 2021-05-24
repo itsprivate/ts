@@ -213,5 +213,22 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Mon May 24 12:28:28 +0000 2021"
+  "original_created_at": "Mon May 24 12:28:28 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @JiangZhuoer: 結局、中国のハッシュパワーは、2017年に取引所がそうであったように、海外に流れることになり、中国はあまり重要な役割を果たさなくなるだろう...",
+      "retweeted_status_full_text": "結局、2017年にエクスチェンジが行ったように、中国のハッシュパワーは海外に流れ、世界のハッシュパワーの流通において中国が果たす役割は小さくなるでしょう。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @JiangZhuoer: 最终，中国的力量将流向国外，就像2017年的交易所一样，中国将扮演一个不太重要的角色。",
+      "retweeted_status_full_text": "最后，中国的hashpower会像2017年的Exchanges一样流向国外，中国在全球hashpower分布中扮演的角色将不那么重要。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @JiangZhuoer: 最終，中國的力量將流向國外，就像2017年的交易所一樣，中國將扮演一個不太重要的角色。",
+      "retweeted_status_full_text": "最後，中國的hashpower會像2017年的Exchanges一樣流向國外，中國在全球hashpower分佈中扮演的角色將不那麼重要。"
+    }
+  ]
 }
