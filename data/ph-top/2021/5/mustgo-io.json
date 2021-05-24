@@ -67,5 +67,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-23T07:17:17Z"
+  "original_createdAt": "2021-05-23T07:17:17Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "インターネット上のあらゆる場所で見つけた旅行情報を https://mustgo.io の地図に保存して、 https://window.mustgo.io ですぐに背景として楽しむことができます。",
+      "tagline": "旅先のブックマークを背景にして「新しいタブ」に表示"
+    },
+    {
+      "locale": "zh",
+      "description": "将你在互联网上任何地方的旅行发现保存到你的https://mustgo.io 地图上，并在你的https://window.mustgo.io，将其作为背景欣赏。",
+      "tagline": "你的旅行书签就在你的新标签页上作为背景"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "將你在互聯網上任何地方的旅行發現保存到你的https://mustgo.io 地圖上，並在你的https://window.mustgo.io，將其作爲背景欣賞。",
+      "tagline": "你的旅行書籤就在你的新標籤頁上作爲背景"
+    }
+  ]
 }

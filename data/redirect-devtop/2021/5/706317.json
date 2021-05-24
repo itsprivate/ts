@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-23T11:25:27Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BOjuRPQA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/618kie311qph3e7xhhdi.png",
   "author": "Shaan Alam",
-  "author_url": "https://dev.to/shaan71845"
+  "author_url": "https://dev.to/shaan71845",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、自分のポートフォリオをNextJsでデザインし直すことにしました。そこで、ウェブ上で調べ始めたのが...",
+      "title": "Framer motionを使ってNextJSで素晴らしいページトランジションを作成する。"
+    },
+    {
+      "locale": "zh",
+      "description": "我最近决定用NextJs重新设计我的作品集。因此，我开始在网络上研究如何使用NextJs。",
+      "title": "在NextJS中使用Framer动议创建令人敬畏的页面转场"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我最近決定用NextJs重新設計我的作品集。因此，我開始在網絡上研究如何使用NextJs。",
+      "title": "在NextJS中使用Framer動議創建令人敬畏的頁面轉場"
+    }
+  ]
 }
