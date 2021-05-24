@@ -43,5 +43,22 @@
   "original_created_at": "2021-05-23T09:02:40Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RGPF9F6i--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1519682337058-a94d519337bc%3Fixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26ixlib%3Drb-1.2.1%26auto%3Dformat%26fit%3Dcrop%26w%3D1950%26q%3D80",
   "author": "Dany Tulumidis",
-  "author_url": "https://dev.to/danytulumidis"
+  "author_url": "https://dev.to/danytulumidis",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに こんにちは。私は長い間、ただファンタジーの本を読んでいました。そして、それが大好きでした。",
+      "title": "開発者としてのあなたを向上させる3冊の本"
+    },
+    {
+      "locale": "zh",
+      "description": "简介：大家好! 很长一段时间以来，我只读幻想类书籍。我喜欢它...",
+      "title": "3本将提高你的开发能力的书"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介：大家好! 很長一段時間以來，我只讀幻想類書籍。我喜歡它...",
+      "title": "3本將提高你的開發能力的書"
+    }
+  ]
 }
