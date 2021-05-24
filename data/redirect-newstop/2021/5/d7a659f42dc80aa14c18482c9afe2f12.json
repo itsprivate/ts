@@ -14,5 +14,19 @@
   "tags": [
     "The New York Times"
   ],
-  "image": "https://static01.nyt.com/images/2021/05/24/world/24samoa-election01/24samoa-election01-facebookJumbo.jpg"
+  "image": "https://static01.nyt.com/images/2021/05/24/world/24samoa-election01/24samoa-election01-facebookJumbo.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "首相になるはずが国会から閉め出されてしまった"
+    },
+    {
+      "locale": "zh",
+      "title": "她本应成为总理，但却被关在议会外"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "她本應成爲總理，但卻被關在議會外"
+    }
+  ]
 }
