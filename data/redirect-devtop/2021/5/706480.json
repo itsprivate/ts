@@ -41,5 +41,22 @@
   "original_created_at": "2021-05-23T15:43:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mDf_YP1z--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vlosi8wa5wclkiyoohv1.gif",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "小規模で読み込みの早いプロジェクトのコーディングに使えるLightweight CSS Frameworksの厳選リストです。Pico.CSS, Milligram, Pure CSS.",
+      "title": "軽量なCSSフレームワーク - 厳選されたリスト"
+    },
+    {
+      "locale": "zh",
+      "description": "我们可以用轻量级的CSS框架来编写小型、快速加载的项目，这是一个精心策划的列表。Pico.CSS, Milligram, Pure CSS.",
+      "title": "轻量级的CSS框架--一个精心策划的列表"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們可以用輕量級的CSS框架來編寫小型、快速加載的項目，這是一個精心策劃的列表。Pico.CSS, Milligram, Pure CSS.",
+      "title": "輕量級的CSS框架--一個精心策劃的列表"
+    }
+  ]
 }

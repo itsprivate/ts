@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-05-24T11:27:24.000Z",
-  "image": "https://www.netmeister.org/blog/images/envelope.png"
+  "image": "https://www.netmeister.org/blog/images/envelope.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "メールの検証ロジックが間違っている"
+    },
+    {
+      "locale": "zh",
+      "title": "你的电子邮件验证逻辑是错误的"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你的電子郵件驗證邏輯是錯誤的"
+    }
+  ]
 }
