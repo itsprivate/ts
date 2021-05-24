@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-24T07:01:00Z"
+  "original_createdAt": "2021-05-24T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "お客様がHubSpotのダッシュボードで直接通知を自動化したり、HubSpot CRMのデータを使って通知をパーソナライズしたり、ワークフローからOneSignalの分析やテンプレートに簡単にアクセスできるようにするための、使いやすい統合ソリューションです。",
+      "tagline": "HubSpot経由でモバイルやウェブのプッシュ通知を自動送信"
+    },
+    {
+      "locale": "zh",
+      "description": "一个易于使用的集成解决方案，允许客户直接在HubSpot仪表板中自动发出通知，使用HubSpot CRM数据个性化通知，并从工作流程中轻松访问OneSignal的分析和模板。",
+      "tagline": "通过HubSpot发送自动移动和网络推送通知"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個易於使用的集成解決方案，允許客戶直接在HubSpot儀表板中自動發出通知，使用HubSpot CRM數據個性化通知，並從工作流程中輕鬆訪問OneSignal的分析和模板。",
+      "tagline": "通過HubSpot發送自動移動和網絡推送通知"
+    }
+  ]
 }
