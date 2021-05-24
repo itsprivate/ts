@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-22T19:43:57Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RrEt3k2U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z5dezpadx6ikzzw1t8r6.jpg",
   "author": "Miquel Camps",
-  "author_url": "https://dev.to/vivirenremoto"
+  "author_url": "https://dev.to/vivirenremoto",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ゲームとしてのCaptcha",
+      "title": "Doom Captcha - キャプチャはつまらないものではありません。"
+    },
+    {
+      "locale": "zh",
+      "description": "验证码是一种游戏",
+      "title": "Doom Captcha - Captchas不一定很无聊"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "驗證碼是一種遊戲",
+      "title": "Doom Captcha - Captchas不一定很無聊"
+    }
+  ]
 }
