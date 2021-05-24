@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-22T03:25:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qLTL-qSn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ddrs8k3v53acc8ldtf6e.png",
   "author": "Luis Alvarez",
-  "author_url": "https://dev.to/mrluisfer"
+  "author_url": "https://dev.to/mrluisfer",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "パスエイリアス（相対パス）は、プロジェクトを進める際に役立ちます。",
+      "title": "React, Vuejs...のためのJavaScriptによるルートエイリアス。"
+    },
+    {
+      "locale": "zh",
+      "description": "路径别名或许多人可能知道的相对路径，在我们有一个项目时帮助我们。",
+      "title": "基于React、Vuejs的JavaScript异步程序。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "路徑別名或許多人可能知道的相對路徑，在我們有一個項目時幫助我們。",
+      "title": "基於React、Vuejs的JavaScript異步程序。"
+    }
+  ]
 }
