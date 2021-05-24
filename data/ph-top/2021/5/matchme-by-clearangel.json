@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-24T18:29:01Z"
+  "original_createdAt": "2021-05-24T18:29:01Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "MatchMeは、数千人のeコマースファウンダーからのフィードバックを基に構築された、AIを搭載したマーケットプレイスマッチングエンジンで、人気度、トラフィック、コンバージョン率などの要素に基づいてお勧めの商品を提供します。ClearAngelチームがClearco <3>で構築しました。",
+      "tagline": "AIを活用したマーケットプレイスのマッチングエンジン"
+    },
+    {
+      "locale": "zh",
+      "description": "MatchMe建立在数以千计的电子商务创始人的反馈之上，是一个由人工智能驱动的市场匹配引擎，根据人气、流量和转换率等因素给出推荐。由Clearco的ClearAngel团队建造<3",
+      "tagline": "人工智能驱动的市场匹配引擎"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "MatchMe建立在數以千計的電子商務創始人的反饋之上，是一個由人工智能驅動的市場匹配引擎，根據人氣、流量和轉換率等因素給出推薦。由Clearco的ClearAngel團隊建造<3",
+      "tagline": "人工智能驅動的市場匹配引擎"
+    }
+  ]
 }

@@ -43,5 +43,22 @@
   "original_created_at": "2021-05-19T18:21:43Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lR7SB7r7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6mwacuxipc96cgnq07ic.jpg",
   "author": "Ali Spittel",
-  "author_url": "https://dev.to/aspittel"
+  "author_url": "https://dev.to/aspittel",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私はReactアプリの足場としてCreate React Appをノンストップで使用しており、とても気に入っています。しかし、最近、私は...",
+      "title": "初心者のためのNext.js完全ガイド"
+    },
+    {
+      "locale": "zh",
+      "description": "我一直在不停地使用Create React App来构建React应用程序，我喜欢它。但最近，我一直在使用Create...",
+      "title": "Next.js的完整初学者指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我一直在不停地使用Create React App來構建React應用程序，我喜歡它。但最近，我一直在使用Create...",
+      "title": "Next.js的完整初學者指南"
+    }
+  ]
 }
