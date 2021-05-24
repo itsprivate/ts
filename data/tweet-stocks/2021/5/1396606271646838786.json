@@ -171,5 +171,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Sun May 23 23:17:37 +0000 2021"
+  "original_created_at": "Sun May 23 23:17:37 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "It's been a minute https://t.co/UKy8GXaTEQ"
+    },
+    {
+      "locale": "zh",
+      "full_text": "已经过了一分钟https://t.co/UKy8GXaTEQ"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "已經過了一分鐘https://t.co/UKy8GXaTEQ"
+    }
+  ]
 }
