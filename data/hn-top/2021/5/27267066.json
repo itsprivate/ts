@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-05-24T17:18:15.000Z",
-  "image": "http://www.cmyr.net/assets/icons/back.png"
+  "image": "http://www.cmyr.net/assets/icons/back.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Pythonic Rustの作成"
+    },
+    {
+      "locale": "zh",
+      "title": "编写Pythonic Rust"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "編寫Pythonic Rust"
+    }
+  ]
 }
