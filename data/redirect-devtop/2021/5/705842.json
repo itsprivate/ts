@@ -50,5 +50,22 @@
   "original_created_at": "2021-05-22T18:02:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Zb-u0wi---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o336n83ysod34iphjx8j.png",
   "author": "Mohammed Farmaan.",
-  "author_url": "https://dev.to/mohammedfarmaan"
+  "author_url": "https://dev.to/mohammedfarmaan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは。みんな元気にしてるかな？  さて、私が学習を開始してから1ヶ月が経ちました...",
+      "title": "ウェザーファイブ。React.💙で作られたお天気アプリ"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好! 希望你们都过得很好。  自从我开始学习以来，已经有一个月了...",
+      "title": "Weatherify: 一个用React构建的天气应用程序💙。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好! 希望你們都過得很好。  自從我開始學習以來，已經有一個月了...",
+      "title": "Weatherify: 一個用React構建的天氣應用程序💙。"
+    }
+  ]
 }
