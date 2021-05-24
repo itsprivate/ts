@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-05-24T14:48:57.000Z",
-  "image": "https://vivirenremoto.github.io/doomcaptcha/static/social.jpg"
+  "image": "https://vivirenremoto.github.io/doomcaptcha/static/social.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "DOOM Captcha"
+    },
+    {
+      "locale": "zh",
+      "title": "DOOM验证码"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "DOOM驗證碼"
+    }
+  ]
 }
