@@ -101,5 +101,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1621855808,
-  "the_new_excerpt": "(Genre Doesnt Matter)"
+  "the_new_excerpt": "(Genre Doesnt Matter)",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "(ジャンルは問わない)",
+      "title": "今まで読んだ本の中で最高のものと、誰にも勧められない最悪のものを教えてください。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "(流派并不重要)",
+      "title": "向我推荐你读过的最好的书和最差的书，你不会向任何人推荐*不要告诉我哪个是哪个*。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "(流派並不重要)",
+      "title": "向我推薦你讀過的最好的書和最差的書，你不會向任何人推薦*不要告訴我哪個是哪個*。"
+    }
+  ]
 }
