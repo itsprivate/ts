@@ -57,5 +57,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-24T07:01:00Z"
+  "original_createdAt": "2021-05-24T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "連絡先をずっと保存するのは疲れる、Whatsappには保存せずにチャットする機能がすでにあるが、書くのが面倒だ。そこで、その問題を解決するためのヘルパーサイトを作ってみました。国番号はlocalStorageに保存されます。",
+      "tagline": "連絡先に番号を保存しないためのWhatsAppヘルパー"
+    },
+    {
+      "locale": "zh",
+      "description": "一直保存联系人很累，Whatsapp已经有了不保存聊天的功能，但写起来很麻烦。所以我创建了一个辅助网站来解决这个问题。国家代码将被保存在localStorage中。",
+      "tagline": "一个避免将号码保存在联系人中的WhatsApp帮助工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一直保存聯繫人很累，Whatsapp已經有了不保存聊天的功能，但寫起來很麻煩。所以我創建了一個輔助網站來解決這個問題。國家代碼將被保存在localStorage中。",
+      "tagline": "一個避免將號碼保存在聯繫人中的WhatsApp幫助工具"
+    }
+  ]
 }
