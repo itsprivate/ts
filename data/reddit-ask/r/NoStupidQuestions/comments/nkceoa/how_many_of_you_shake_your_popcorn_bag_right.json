@@ -101,5 +101,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1621901885,
-  "the_new_excerpt": "I feel like it’s something everyone does unconsciously, without ever being\ntaught to do it."
+  "the_new_excerpt": "I feel like it’s something everyone does unconsciously, without ever being\ntaught to do it.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "誰もが教えられることなく無意識にやっていることのような気がします。\n無意識のうちにやっているような気がします。",
+      "title": "電子レンジから出した直後にポップコーンの袋を振っている人はどれくらいいますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我觉得这是每个人都会不自觉地做的事情，没有人教过他们做。\n教会做的。",
+      "title": "有多少人在爆米花袋从微波炉出来后立即摇晃它？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我覺得這是每個人都會不自覺地做的事情，沒有人教過他們做。\n教會做的。",
+      "title": "有多少人在爆米花袋從微波爐出來後立即搖晃它？"
+    }
+  ]
 }
