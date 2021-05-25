@@ -177,5 +177,19 @@
   },
   "is_video": true,
   "original_created_utc": 1621881273,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "CheapSheet APIを作りました。これは、あなたのGoogle Sheetsのために使用可能なCRUD APIを作成します。"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了CheapSheet API。它为你的Google Sheets创建了可用的CRUD APIs。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了CheapSheet API。它爲你的Google Sheets創建了可用的CRUD APIs。"
+    }
+  ]
 }
