@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-05-24T14:09:58.000Z",
-  "image": "https://pkg.go.dev/static/img/go-logo-white.svg"
+  "image": "https://pkg.go.dev/static/img/go-logo-white.svg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Rf: 実験的なGo用リファクタリングツール"
+    },
+    {
+      "locale": "zh",
+      "title": "Rf: Go的实验性重构工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Rf: Go的實驗性重構工具"
+    }
+  ]
 }
