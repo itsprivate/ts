@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-24T08:05:03Z"
+  "original_createdAt": "2021-05-24T08:05:03Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "PurePhotosは、任意の写真の背景を100％自動的に削除します - 人間のようにあなたの画像を理解します。⚡超高速 ⚡高解像度出力 ⚡精度向上 ⚡コスト削減",
+      "tagline": "写真の背景を自動的に取り除くことができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "PurePhotos 100%自动去除任何照片的背景 - 像人一样理解你的图像。⚡超快 ⚡高分辨率输出 ⚡更准确 ⚡为您省钱",
+      "tagline": "自动从你的照片中删除任何背景"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "PurePhotos 100%自動去除任何照片的背景 - 像人一樣理解你的圖像。⚡超快 ⚡高分辨率輸出 ⚡更準確 ⚡爲您省錢",
+      "tagline": "自動從你的照片中刪除任何背景"
+    }
+  ]
 }
