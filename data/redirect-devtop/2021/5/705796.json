@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-22T16:29:28Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--U06UG1IL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c1hkiqlxs2gjd2r1q09b.png",
   "author": "Shahed Nasser",
-  "author_url": "https://dev.to/shahednasser"
+  "author_url": "https://dev.to/shahednasser",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事は私の個人ブログに掲載されたものです。 このアンケートに参加して、あなたの声を聞かせてください。",
+      "title": "MongoDB RealmをReactと統合する方法。パート1"
+    },
+    {
+      "locale": "zh",
+      "description": "这篇文章最初发布在我的个人博客上，请参与这项调查，以表达你的意见。",
+      "title": "如何将MongoDB Realm与React整合。第一部分"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這篇文章最初發布在我的個人博客上，請參與這項調查，以表達你的意見。",
+      "title": "如何將MongoDB Realm與React整合。第一部分"
+    }
+  ]
 }
