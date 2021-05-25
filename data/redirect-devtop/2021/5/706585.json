@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-23T19:51:26Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bAMtK5Hk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r76hf0pnliq0rc1d2ndz.png",
   "author": "Terry Threatt",
-  "author_url": "https://dev.to/terrythreatt"
+  "author_url": "https://dev.to/terrythreatt",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CSS Flexboxとは CSS Flexboxとは、一次元のレイアウトモジュールであり、これを利用することで...",
+      "title": "5分でわかるCSSフレックスボックス"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是CSS Flexbox CSS Flexbox是一个一维的布局模块，可以用来创建一个新的、可持续的、可扩展的、可持续的布局。",
+      "title": "5分钟内完成CSS Flexbox"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是CSS Flexbox CSS Flexbox是一個一維的佈局模塊，可以用來創建一個新的、可持續的、可擴展的、可持續的佈局。",
+      "title": "5分鐘內完成CSS Flexbox"
+    }
+  ]
 }
