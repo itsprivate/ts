@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-28T03:09:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GTFdwhdE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fxjv2l3ffeeymozpf93j.png",
   "author": "Theodorus Clarence",
-  "author_url": "https://dev.to/theodorusclarence"
+  "author_url": "https://dev.to/theodorusclarence",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Back to Basicでは、私がCSSを学び始めた頃の疑問にお答えします。個人的には、...",
+      "title": "Back to Basic: FlexboxとGridのどちらを使うべきか？"
+    },
+    {
+      "locale": "zh",
+      "description": "Back to Basic将回答我刚开始学习CSS时的一些问题。我个人认为...",
+      "title": "回归本质：我们应该使用Flexbox还是Grid？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Back to Basic將回答我剛開始學習CSS時的一些問題。我個人認爲...",
+      "title": "迴歸本質：我們應該使用Flexbox還是Grid？"
+    }
+  ]
 }

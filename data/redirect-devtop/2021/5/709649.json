@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-26T23:06:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oRn6xxMx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://miro.medium.com/max/2400/1%2AXtup8wzAjdltb5M4Rr8LZg.png",
   "author": "Zack Hoherchak",
-  "author_url": "https://dev.to/chektek"
+  "author_url": "https://dev.to/chektek",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Flutterは、クロスプラットフォームの分野でメジャーな存在となっています。",
+      "title": "GoogleのFlutterのための11の初心者向けヒント"
+    },
+    {
+      "locale": "zh",
+      "description": "Flutter已经确立了自己在跨平台领域的主要地位。",
+      "title": "谷歌Flutter的11个初学者技巧"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Flutter已經確立了自己在跨平臺領域的主要地位。",
+      "title": "谷歌Flutter的11個初學者技巧"
+    }
+  ]
 }
