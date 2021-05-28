@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-28T07:01:00Z"
+  "original_createdAt": "2021-05-28T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Indie Podcasting Kitは、私がIndiecast Podcast（現在はIndie rocket）の構築やインディーハッカーへのインタビューで学んだテンプレートやガイドで、ポッドキャスティングの開始を支援するキットです。",
+      "tagline": "あなたのポッドキャストを今すぐ構築"
+    },
+    {
+      "locale": "zh",
+      "description": "独立播客工具包，是一个帮助你开始播客的工具包，包括模板和指南，从我建立Indiecast播客（现在是独立火箭），采访独立黑客的经验中获得。",
+      "tagline": "今天就建立你的播客"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "獨立播客工具包，是一個幫助你開始播客的工具包，包括模板和指南，從我建立Indiecast播客（現在是獨立火箭），採訪獨立黑客的經驗中獲得。",
+      "tagline": "今天就建立你的播客"
+    }
+  ]
 }

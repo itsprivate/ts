@@ -59,5 +59,22 @@
     ]
   },
   "original_createdAt": "2021-05-25T07:05:00Z",
-  "source_updated_at": 1622197395778
+  "source_updated_at": 1622197395778,
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Blobyですぐに使えるSVG blobを作成する。",
+      "tagline": "ランダムなSVG形状の生成 FREE"
+    },
+    {
+      "locale": "zh",
+      "description": "用Bloby创建随时可用的SVG blobs",
+      "tagline": "免费生成随机SVG形状"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "用Bloby創建隨時可用的SVG blobs",
+      "tagline": "免費生成隨機SVG形狀"
+    }
+  ]
 }

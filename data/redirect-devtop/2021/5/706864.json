@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-24T06:00:18Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TdztbMKj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/andgbx5vs35t0487cw2g.jpg",
   "author": "Alex Devero",
-  "author_url": "https://dev.to/alexdevero"
+  "author_url": "https://dev.to/alexdevero",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ReactのuseReducerフックは、複雑な状態を管理する必要がある場合に、useStateの代わりとして非常に有効です。",
+      "title": "ReactのuseReducerフックの紹介"
+    },
+    {
+      "locale": "zh",
+      "description": "当你需要管理复杂的状态时，React的useReducer钩子是useState的一个非常好的替代品。",
+      "title": "React useReducer Hook简介"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當你需要管理複雜的狀態時，React的useReducer鉤子是useState的一個非常好的替代品。",
+      "title": "React useReducer Hook簡介"
+    }
+  ]
 }

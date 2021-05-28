@@ -64,5 +64,22 @@
     ]
   },
   "original_createdAt": "2021-05-25T13:09:22Z",
-  "source_updated_at": 1622197397267
+  "source_updated_at": 1622197397267,
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Webサイトのテクノロジースタックを調べる。",
+      "tagline": "ウェブサイトの技術を特定する"
+    },
+    {
+      "locale": "zh",
+      "description": "找出任何网站的技术栈。",
+      "tagline": "识别网站上的技术"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "找出任何網站的技術棧。",
+      "tagline": "識別網站上的技術"
+    }
+  ]
 }

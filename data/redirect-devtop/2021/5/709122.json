@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-26T12:51:27Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7L3e0i4P--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://pbs.twimg.com/media/E2OJ-K0VoAsTD-7%3Fformat%3Djpg%26name%3Dmedium",
   "author": "Swastik Yadav",
-  "author_url": "https://dev.to/swastikyadav"
+  "author_url": "https://dev.to/swastikyadav",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あなたはFrontEnd開発者ですか？次のプロジェクトのデザインやブランディングに役立つ5つのウェブサイトをご紹介します。",
+      "title": "次のプロジェクトのデザインやブランディングに役立つ5つのウェブサイトをご紹介します。"
+    },
+    {
+      "locale": "zh",
+      "description": "你是一名前端开发员吗？这里有5个网站，可以帮助你完成下一个项目的设计和品牌推广。",
+      "title": "5个网站将帮助你进行下一个项目的设计和品牌推广。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你是一名前端開發員嗎？這裏有5個網站，可以幫助你完成下一個項目的設計和品牌推廣。",
+      "title": "5個網站將幫助你進行下一個項目的設計和品牌推廣。"
+    }
+  ]
 }

@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-25T07:01:41Z",
   "image": "https://dev.to/social_previews/article/707881.png",
   "author": "The Nerdy Dev",
-  "author_url": "https://dev.to/thenerdydev"
+  "author_url": "https://dev.to/thenerdydev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは👋🏻。今回は、Pro...で持っているとても重要なメソッドについて説明します。",
+      "title": "Promise.all、Promise.race、Promise.allSettledの理解 "
+    },
+    {
+      "locale": "zh",
+      "description": "嘿，大家好！在这篇文章中，让我们讨论一些非常重要的方法，我们在Pro...",
+      "title": "了解Promise.all、Promise.race和Promise.allSettled "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嘿，大家好！在這篇文章中，讓我們討論一些非常重要的方法，我們在Pro...",
+      "title": "瞭解Promise.all、Promise.race和Promise.allSettled "
+    }
+  ]
 }

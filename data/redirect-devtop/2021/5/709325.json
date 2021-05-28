@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-26T15:04:34Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bonpc5LH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4ikcmiebyvb1egzvphxq.png",
   "author": "Sudarshan Sawandkar",
-  "author_url": "https://dev.to/sudarshansb143"
+  "author_url": "https://dev.to/sudarshansb143",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "🍟 TL:DR : リアクトアプリのサービス化は、開発現場で直接行えばとても簡単です。",
+      "title": "⛴ Reactアプリをプロダクションで簡単にデプロイする😎。"
+    },
+    {
+      "locale": "zh",
+      "description": "🍟 TL:DR : 如果我们直接通过开发工具来做，服务于反应式应用程序是非常简单的。",
+      "title": "⛴ 在生产中相当容易地部署React应用程序 😎"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "🍟 TL:DR : 如果我們直接通過開發工具來做，服務於反應式應用程序是非常簡單的。",
+      "title": "⛴ 在生產中相當容易地部署React應用程序 😎"
+    }
+  ]
 }

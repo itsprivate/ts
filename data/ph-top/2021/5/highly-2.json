@@ -73,5 +73,22 @@
     ]
   },
   "original_createdAt": "2021-05-25T07:05:00Z",
-  "source_updated_at": 1622197395815
+  "source_updated_at": 1622197395815,
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Highlyは、読者がブログのコンテンツと対話できるツールチップです。読者は任意のテキストをハイライトして、ソーシャルメディア上のネットワークと共有したり、後で保存することができます。Highlyのツールチップは、LinkedIn、Facebook、Twitterへの共有をサポートしています。",
+      "tagline": "ブログを目立たせるMediumスタイルのツールチップ"
+    },
+    {
+      "locale": "zh",
+      "description": "高亮是一个工具提示，允许你的读者与你的博客内容互动。读者可以突出显示任何文本，以便在社交媒体上与他们的网络分享，或将其保存起来供以后使用。Highly工具提示支持分享到LinkedIn、Facebook和Twitter。",
+      "tagline": "中型风格的工具提示，使你的博客脱颖而出"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "高亮是一個工具提示，允許你的讀者與你的博客內容互動。讀者可以突出顯示任何文本，以便在社交媒體上與他們的網絡分享，或將其保存起來供以後使用。Highly工具提示支持分享到LinkedIn、Facebook和Twitter。",
+      "tagline": "中型風格的工具提示，使你的博客脫穎而出"
+    }
+  ]
 }

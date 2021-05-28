@@ -43,5 +43,22 @@
   "original_created_at": "2021-05-23T19:30:04Z",
   "image": "https://dev.to/social_previews/article/706574.png",
   "author": "Zach Klippenstein",
-  "author_url": "https://dev.to/zachklipp"
+  "author_url": "https://dev.to/zachklipp",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Jetpack Composeは、UIコードの書き方や考え方に全く新しい方法を提供します。その主要な機能の1つは...",
+      "title": "Composeのリアクティブステートモデルの歴史的な紹介"
+    },
+    {
+      "locale": "zh",
+      "description": "Jetpack Compose提供了一种全新的方式来编写和思考UI代码。它的一个关键特征是，它是一个 \"可信赖的 \"软件。",
+      "title": "金豪公司反应性状态模型的历史介绍"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Jetpack Compose提供了一種全新的方式來編寫和思考UI代碼。它的一個關鍵特徵是，它是一個 \"可信賴的 \"軟件。",
+      "title": "金豪公司反應性狀態模型的歷史介紹"
+    }
+  ]
 }

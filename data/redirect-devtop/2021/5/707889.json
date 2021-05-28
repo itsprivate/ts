@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-25T07:16:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--17zull7C--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0dozdyx8283clnehg0ow.gif",
   "author": "Suprabha",
-  "author_url": "https://dev.to/suprabhasupi"
+  "author_url": "https://dev.to/suprabhasupi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "placeholder-shown`のCSS疑似クラスは、現在表示されている `` または `` 要素を表します。",
+      "title": "CSS ::placeholder および :placeholder-shown"
+    },
+    {
+      "locale": "zh",
+      "description": "`:placeholder-shown`的CSS伪类代表任何``或``元素，目前显示在。",
+      "title": "CSS ::placeholder 和 :placeholder-shown"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "`:placeholder-shown`的CSS僞類代表任何``或``元素，目前顯示在。",
+      "title": "CSS ::placeholder 和 :placeholder-shown"
+    }
+  ]
 }

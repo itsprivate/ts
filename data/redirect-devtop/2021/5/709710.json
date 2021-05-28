@@ -50,5 +50,22 @@
   "original_created_at": "2021-05-27T01:06:02Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Opb4zC7P--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ns5ehkmbdf6ome5crc3z.jpg",
   "author": "InHuOfficial",
-  "author_url": "https://dev.to/inhuofficial"
+  "author_url": "https://dev.to/inhuofficial",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "前書き：今回もアクセシビリティについての私の怒りの叫びをお届けします。  まだご覧になっていない方は、こちらの記事をご覧ください。",
+      "title": "彼らは...どうしても...学ぼうとしない🤦♂️ - a button is a &lt;button&gt;! [シリーズ：アクセシビリティの乱れ]について"
+    },
+    {
+      "locale": "zh",
+      "description": "前言：在这里，我们将看到我对无障碍设施的又一次愤怒咆哮。  如果您还没有看到我的文章，请点击这里。",
+      "title": "他们......就是......不会......学习🤦♂️--按钮就是&lt;按钮&gt;! [系列：无障碍漫游]"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "前言：在這裏，我們將看到我對無障礙設施的又一次憤怒咆哮。  如果您還沒有看到我的文章，請點擊這裏。",
+      "title": "他們......就是......不會......學習🤦♂️--按鈕就是&lt;按鈕&gt;! [系列：無障礙漫遊]"
+    }
+  ]
 }

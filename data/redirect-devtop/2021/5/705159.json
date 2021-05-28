@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-21T20:51:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jytcAEQP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o4vvzwi3n4vwtucn8daw.png",
   "author": "Farhan Hasin Chowdhury",
-  "author_url": "https://dev.to/fhsinchy"
+  "author_url": "https://dev.to/fhsinchy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Laravelのサービスコンテナはフレームワークの中で最も重要な部分の1つですが、ほとんど使用されていません。",
+      "title": "Laravelのサービスコンテナとサービスプロバイダーの説明"
+    },
+    {
+      "locale": "zh",
+      "description": "Laravel的服务容器是框架中最重要的部分之一，但它得到的却很少。",
+      "title": "Laravel服务容器和服务提供商的解释"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Laravel的服務容器是框架中最重要的部分之一，但它得到的卻很少。",
+      "title": "Laravel服務容器和服務提供商的解釋"
+    }
+  ]
 }

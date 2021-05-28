@@ -49,5 +49,22 @@
     ]
   },
   "original_createdAt": "2021-05-26T17:39:53Z",
-  "source_updated_at": 1622197395815
+  "source_updated_at": 1622197395815,
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "HIGHSCOREドメインは、誰がより多くのドメイン名を所有しているかを知るためのリーダーボードです。あなたは何個のドメインを持っていますか？",
+      "tagline": "誰がより多くのドメインを所有しているかを競う楽しいリーダーボード"
+    },
+    {
+      "locale": "zh",
+      "description": "HIGHSCORE域名是一个排行榜，可以找出谁拥有更多的域名。你有多少个域名？",
+      "tagline": "一个有趣的排行榜，看看谁拥有更多的域名"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "HIGHSCORE域名是一個排行榜，可以找出誰擁有更多的域名。你有多少個域名？",
+      "tagline": "一個有趣的排行榜，看看誰擁有更多的域名"
+    }
+  ]
 }

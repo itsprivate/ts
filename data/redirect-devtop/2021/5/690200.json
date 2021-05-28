@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-06T21:20:52Z",
   "image": "https://dev.to/social_previews/article/690200.png",
   "author": "Iain Freestone",
-  "author_url": "https://dev.to/iainfreestone"
+  "author_url": "https://dev.to/iainfreestone",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私は昨年から、人気のあるウェブコンテンツを10個紹介するニュースレター「Trending projects」を監修しています。",
+      "title": "昨年の「Trending Projects」で最も人気のあった52のプロジェクト"
+    },
+    {
+      "locale": "zh",
+      "description": "在过去的一年里，我一直在策划 \"趋势 \"项目，这是一份简报，展示了10个流行的网络。",
+      "title": "趋势项目 \"过去一年中最受欢迎的52个项目"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在過去的一年裏，我一直在策劃 \"趨勢 \"項目，這是一份簡報，展示了10個流行的網絡。",
+      "title": "趨勢項目 \"過去一年中最受歡迎的52個項目"
+    }
+  ]
 }

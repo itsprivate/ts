@@ -114,5 +114,22 @@
     ]
   },
   "original_createdAt": "2021-05-27T07:01:00Z",
-  "source_updated_at": 1622197396734
+  "source_updated_at": 1622197396734,
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "NocoDBは、オープンソースのAircuitの代替品です。リレーショナルデータベースをスマートなスプレッドシートに変換します。私たちのアプリストアでは、ファイルストレージ用のS3や、ビジネスワークフロー用のSlackやTwilioなどのサードパーティアプリなど、あらゆるクラウドサービスに接続することができます。",
+      "tagline": "オープンソースのAirtableに代わるもの"
+    },
+    {
+      "locale": "zh",
+      "description": "NocoDB是一个开源的Airtable替代品。它将你的关系型数据库转变为智能电子表格。我们的应用程序商店允许你连接到任何云服务，如S3的文件存储和第三方应用程序，如Slack，Twilio的业务工作流程。",
+      "tagline": "开源的Airtable替代品"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "NocoDB是一個開源的Airtable替代品。它將你的關係型數據庫轉變爲智能電子表格。我們的應用程序商店允許你連接到任何雲服務，如S3的文件存儲和第三方應用程序，如Slack，Twilio的業務工作流程。",
+      "tagline": "開源的Airtable替代品"
+    }
+  ]
 }

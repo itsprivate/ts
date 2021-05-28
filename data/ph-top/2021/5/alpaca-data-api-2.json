@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-28T07:01:00Z"
+  "original_createdAt": "2021-05-28T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "アルパカ、米国株式市場データが無制限に利用できるDATA APIを提供開始。データは、市場へのAPIアクセスのバックボーンであり、私たちは、Alpacaプラットフォームとシームレスに統合された独自のデータ製品を確立しました。",
+      "tagline": "リアルタイムの米国株式市場データに無制限にアクセス可能"
+    },
+    {
+      "locale": "zh",
+      "description": "Alpaca推出DATA API，提供无限的美国股票市场数据。数据是进入市场的API的支柱，我们已经建立了我们自己的数据产品，与Alpaca平台无缝整合。",
+      "tagline": "无限制地访问美国股市的实时数据"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Alpaca推出DATA API，提供無限的美國股票市場數據。數據是進入市場的API的支柱，我們已經建立了我們自己的數據產品，與Alpaca平臺無縫整合。",
+      "tagline": "無限制地訪問美國股市的實時數據"
+    }
+  ]
 }

@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-25T15:46:21Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tdEjcFhR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2sjdtms4dmja2o6n47bz.png",
   "author": "UppLabs",
-  "author_url": "https://dev.to/upplabs"
+  "author_url": "https://dev.to/upplabs",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "UppLabsのためにKirill Bychkovが書きました。 簡単に動作するインターフェースがあれば、JavaScriptは簡単です。",
+      "title": "JavaScriptでの非同期の仕組み イベントループの概念"
+    },
+    {
+      "locale": "zh",
+      "description": "作者：Kirill Bychkov为UppLabs撰写。 当你只需要一个简单的工作界面时，JavaScript是很容易的。",
+      "title": "异步如何在JavaScript中工作。事件循环的概念"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "作者：Kirill Bychkov爲UppLabs撰寫。 當你只需要一個簡單的工作界面時，JavaScript是很容易的。",
+      "title": "異步如何在JavaScript中工作。事件循環的概念"
+    }
+  ]
 }

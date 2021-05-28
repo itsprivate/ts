@@ -79,5 +79,22 @@
     ]
   },
   "original_createdAt": "2021-05-25T07:48:01Z",
-  "source_updated_at": 1622197395780
+  "source_updated_at": 1622197395780,
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ClubhousePayは、会員登録による収益化を目指すクラブハウスのインフルエンサーのためのサービスです。",
+      "tagline": "クラブハウスでは、クラブの購読料を販売して収入を得ることができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "ClubhousePay是为希望通过会员订阅来实现俱乐部盈利的会所影响者提供的服务。",
+      "tagline": "在会所中通过出售俱乐部的订阅费用来挣钱"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "ClubhousePay是爲希望通過會員訂閱來實現俱樂部盈利的會所影響者提供的服務。",
+      "tagline": "在會所中通過出售俱樂部的訂閱費用來掙錢"
+    }
+  ]
 }

@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-19T20:45:12Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Gp14LVAA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gq3hrn1x1au4wu47uw28.png",
   "author": "Mariana Simon",
-  "author_url": "https://dev.to/simonpaix"
+  "author_url": "https://dev.to/simonpaix",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "'this'は、JavaScriptで最も重要な概念の一つです。基本中の基本であり、すぐにでも使いこなせるようになります。",
+      "title": "JavaScriptを使用しています。キーワード「this」を理解する"
+    },
+    {
+      "locale": "zh",
+      "description": "'this'是JavaScript中最重要的概念之一。它是基础知识的一部分，而且你越早使用它，就越有可能获得更多的好处。",
+      "title": "JavaScript。理解 \"this \"关键词"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "'this'是JavaScript中最重要的概念之一。它是基礎知識的一部分，而且你越早使用它，就越有可能獲得更多的好處。",
+      "title": "JavaScript。理解 \"this \"關鍵詞"
+    }
+  ]
 }

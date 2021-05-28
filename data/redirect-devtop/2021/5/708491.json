@@ -43,5 +43,22 @@
   "original_created_at": "2021-05-25T17:56:06Z",
   "image": "https://dev.to/social_previews/article/708491.png",
   "author": "Jordan Finneran",
-  "author_url": "https://dev.to/jordanfinners"
+  "author_url": "https://dev.to/jordanfinners",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "目次 Intro HTTPS Security Headers Summary Intro 私は、ちょっとした...",
+      "title": "ウェブサイト・セキュリティ・ウィーク!"
+    },
+    {
+      "locale": "zh",
+      "description": "目录 介绍 HTTPS安全头文件 摘要 介绍 我一直都有点...",
+      "title": "网站安全周!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "目錄 介紹 HTTPS安全頭文件 摘要 介紹 我一直都有點...",
+      "title": "網站安全周!"
+    }
+  ]
 }

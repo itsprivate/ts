@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-25T05:09:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PiVreI22--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kujgr3zhpj47hks2vqyo.png",
   "author": "Yogini Bende",
-  "author_url": "https://dev.to/ms_yogii"
+  "author_url": "https://dev.to/ms_yogii",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、アプリでのデータ管理は、多くのコンポーネントがデータを共有・更新している場合、少し厄介です。",
+      "title": "useContextでより良い状態管理を!"
+    },
+    {
+      "locale": "zh",
+      "description": "嗨，伙计们，当许多组件共享和更新数据时，管理应用程序中的数据是有点棘手的。",
+      "title": "useContext以实现更好的状态管理!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嗨，夥計們，當許多組件共享和更新數據時，管理應用程序中的數據是有點棘手的。",
+      "title": "useContext以實現更好的狀態管理!"
+    }
+  ]
 }

@@ -38,5 +38,19 @@
   },
   "original_created_at": "2021-05-25T06:57:04.000Z",
   "image": "https://bugzilla.mozilla.org/static/v20210517.1/extensions/BMO/web/images/moz-fav-one-color-white-rgb.svg",
-  "source_updated_at": 1622197394606
+  "source_updated_at": 1622197394606,
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Firefoxが21年前のバグを修正し、macOSでネイティブのコンテキストメニューを使用するようになる"
+    },
+    {
+      "locale": "zh",
+      "title": "火狐浏览器修复了21年前的错误，将在macOS上使用原生的上下文菜单"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "火狐瀏覽器修復了21年前的錯誤，將在macOS上使用原生的上下文菜單"
+    }
+  ]
 }

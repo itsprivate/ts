@@ -38,5 +38,19 @@
   },
   "original_created_at": "2021-05-25T11:49:50.000Z",
   "image": "https://www.codenotary.com/images/blog/immudb-mascot-small.png",
-  "source_updated_at": 1622197394612
+  "source_updated_at": 1622197394612,
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Immudb 1.0 - オープンソースで、SQLと検証済みのタイムトラベルを備えた不変データベース"
+    },
+    {
+      "locale": "zh",
+      "title": "Immudb 1.0 - 开源的、具有SQL和验证的时间旅行的不可变数据库"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Immudb 1.0 - 開源的、具有SQL和驗證的時間旅行的不可變數據庫"
+    }
+  ]
 }

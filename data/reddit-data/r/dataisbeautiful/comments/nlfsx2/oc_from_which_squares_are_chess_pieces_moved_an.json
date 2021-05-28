@@ -215,5 +215,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1622032127,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] チェスの駒はどのマスから動かされるか？10万局のデータをアニメーションで表現"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]国际象棋的棋子是从哪个位置移动的？来自100,000盘棋的数据的动画"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]國際象棋的棋子是從哪個位置移動的？來自100,000盤棋的數據的動畫"
+    }
+  ]
 }

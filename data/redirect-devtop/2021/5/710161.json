@@ -41,5 +41,22 @@
   "original_created_at": "2021-05-27T14:05:02Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kmRevkVB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zmn5ydkelyi8z5bmfbfk.png",
   "author": "Matt Pocock",
-  "author_url": "https://dev.to/mpocock1"
+  "author_url": "https://dev.to/mpocock1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TL;DR: 悪いブーリアンは状態を表しています。良いブーリアンは状態から派生します。 状態を管理していると...",
+      "title": "状態の管理。バッドブーリアンとグッドブーリアンの見分け方"
+    },
+    {
+      "locale": "zh",
+      "description": "TL;DR: 糟糕的布尔运算代表状态。好的布尔运算是由状态衍生出来的。 当你在管理状态时...",
+      "title": "国家管理。如何区分一个坏的布尔值和一个好的布尔值"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "TL;DR: 糟糕的布爾運算代表狀態。好的布爾運算是由狀態衍生出來的。 當你在管理狀態時...",
+      "title": "國家管理。如何區分一個壞的布爾值和一個好的布爾值"
+    }
+  ]
 }

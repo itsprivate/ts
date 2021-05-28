@@ -88,5 +88,22 @@
     ]
   },
   "original_createdAt": "2021-05-26T07:01:00Z",
-  "source_updated_at": 1622197396756
+  "source_updated_at": 1622197396756,
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "時間をかけて、洞察を得る。",
+      "tagline": "オープンソースのタイムトラッカー"
+    },
+    {
+      "locale": "zh",
+      "description": "标记你的时间，获得洞察力。",
+      "tagline": "开源时间跟踪器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "標記你的時間，獲得洞察力。",
+      "tagline": "開源時間跟蹤器"
+    }
+  ]
 }

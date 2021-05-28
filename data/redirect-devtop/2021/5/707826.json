@@ -41,5 +41,22 @@
   "original_created_at": "2021-05-25T05:13:42Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--c3QHrMMh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pfljwfdw7hlaju6sarya.png",
   "author": "Dmytro Danylov",
-  "author_url": "https://dev.to/ddmytro"
+  "author_url": "https://dev.to/ddmytro",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "目次 はじめに 日付のフォーマット 時間帯 Unix タイムスタンプ Date オブジェクト Cal...",
+      "title": "フルスタックJavaScript開発者のための日付と時刻の取り扱いガイド"
+    },
+    {
+      "locale": "zh",
+      "description": "目录 介绍 日期格式 时区 Unix时间戳 日期对象 Cal...",
+      "title": "全栈式JavaScript开发人员处理日期和时间的指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "目錄 介紹 日期格式 時區 Unix時間戳 日期對象 Cal...",
+      "title": "全棧式JavaScript開發人員處理日期和時間的指南"
+    }
+  ]
 }

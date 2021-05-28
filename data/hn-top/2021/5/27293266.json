@@ -38,5 +38,19 @@
   },
   "original_created_at": "2021-05-26T17:13:58.000Z",
   "image": "https://cdn.sanity.io/images/2ejqxsnu/production/9e370b3c185af5cddb54fcedfb5b0e7dd9121046-1459x848.png?w=1200",
-  "source_updated_at": 1622197394629
+  "source_updated_at": 1622197394629,
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ブラウザによって見える色が違う"
+    },
+    {
+      "locale": "zh",
+      "title": "不同的浏览器看到不同的颜色"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不同的瀏覽器看到不同的顏色"
+    }
+  ]
 }
