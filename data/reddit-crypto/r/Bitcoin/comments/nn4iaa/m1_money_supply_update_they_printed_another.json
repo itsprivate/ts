@@ -145,5 +145,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1622227128,
-  "the_new_excerpt": "https://fred.stlouisfed.org/series/M1SL"
+  "the_new_excerpt": "https://fred.stlouisfed.org/series/M1SL",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "https://fred.stlouisfed.org/series/M1SL",
+      "title": "M1マネーサプライ更新： 先月、さらに2億3,790万米ドルを刷った（1.27％増）。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "https://fred.stlouisfed.org/series/M1SL",
+      "title": "M1货币供应量更新：他们又印制了237,900,000,000美元，或在过去一个月中货币供应量增加了1.27%。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "https://fred.stlouisfed.org/series/M1SL",
+      "title": "M1貨幣供應量更新：他們又印製了237,900,000,000美元，或在過去一個月中貨幣供應量增加了1.27%。"
+    }
+  ]
 }
