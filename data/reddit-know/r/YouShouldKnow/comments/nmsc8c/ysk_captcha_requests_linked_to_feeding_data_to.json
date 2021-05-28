@@ -104,5 +104,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1622186831,
-  "the_new_excerpt": "This is in response to a recent YSK discussing CAPTCHA requests that are used to\nhelp build out AI systems.\n\nWhy YSK: Because, if you do not want to participate in giving free labor to some\nservice to build an AI to be used for who knows what purpose, I imagine it is\nyour right to refuse.\n\nThis may…"
+  "the_new_excerpt": "This is in response to a recent YSK discussing CAPTCHA requests that are used to\nhelp build out AI systems.\n\nWhy YSK: Because, if you do not want to participate in giving free labor to some\nservice to build an AI to be used for who knows what purpose, I imagine it is\nyour right to refuse.\n\nThis may…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "これは、最近のYSKがCAPTCHAリクエストについて議論していることを受けたものです。\nAIシステムを構築するために使用されるCAPTCHAリクエストについて議論しています。\n\nなぜYSKなのかというと、もしあなたが、あるサービスに無償で労働力を提供することに参加したくないのであれば\n何の目的で使われるかわからないAIを構築するために、あるサービスに無償で労働力を提供することに参加したくなければ、拒否する権利があると思うからです。\n拒否する権利があります。\n\nこれは、もしかしたら...",
+      "title": "YSK: AIシステムを構築するためのデータを入力するためのCaptchaリクエストは、必ずしもすべての正解を知っているわけではありません。不正解を与えても、何度か失敗することはありますが、最終的には通してくれます。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这是对最近YSK讨论CAPTCHA请求的回应，该请求被用于\n帮助建立人工智能系统。\n\n为什么是YSK：因为，如果你不想参与给一些免费的劳动\n构建人工智能的服务，我想这是你的权利。\n你有权拒绝。\n\n这可能...",
+      "title": "YSK：与输入数据建立人工智能系统有关的验证码请求不一定知道所有的正确答案。你可以给它提供不正确的答案，虽然你会失败几次，但它最终会让你通过，因为它不知道所有的图像是山/自行车/汽车等。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這是對最近YSK討論CAPTCHA請求的迴應，該請求被用於\n幫助建立人工智能系統。\n\n爲什麼是YSK：因爲，如果你不想參與給一些免費的勞動\n構建人工智能的服務，我想這是你的權利。\n你有權拒絕。\n\n這可能...",
+      "title": "YSK：與輸入數據建立人工智能系統有關的驗證碼請求不一定知道所有的正確答案。你可以給它提供不正確的答案，雖然你會失敗幾次，但它最終會讓你通過，因爲它不知道所有的圖像是山/自行車/汽車等。"
+    }
+  ]
 }

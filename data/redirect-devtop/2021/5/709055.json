@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-26T10:55:46Z",
   "image": "https://dev.to/social_previews/article/709055.png",
   "author": "Vikram Aditya",
-  "author_url": "https://dev.to/square"
+  "author_url": "https://dev.to/square",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これらは、JavaScript開発者が知っておくべき一般的なインタビューの質問です。1....",
+      "title": "5つのインタビュー質問\nJavaScript開発者が知っておくべきこと"
+    },
+    {
+      "locale": "zh",
+      "description": "这些是每个JavaScript开发人员应该知道的一些一般面试问题 1....",
+      "title": "5个面试问题\n每个JavaScript开发者都应该知道的问题"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這些是每個JavaScript開發人員應該知道的一些一般面試問題 1....",
+      "title": "5個面試問題\n每個JavaScript開發者都應該知道的問題"
+    }
+  ]
 }

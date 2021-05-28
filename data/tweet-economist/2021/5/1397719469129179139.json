@@ -113,5 +113,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Thu May 27 01:01:04 +0000 2021"
+  "original_created_at": "Thu May 27 01:01:04 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "自律システムは人工知能（AI）に依存しており、AIはシステムの周囲から収集したデータに依存しています。しかし、アルゴリズムは誤解を招き、壊滅的な結果を招くことがあります。https://t.co/NQEQItMDXM"
+    },
+    {
+      "locale": "zh",
+      "full_text": "自主系统依赖于人工智能（AI），而人工智能又依赖于从这些系统的周围环境收集的数据。但算法可能被误导，造成破坏性的后果https://t.co/NQEQItMDXM。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "自主系統依賴於人工智能（AI），而人工智能又依賴於從這些系統的周圍環境收集的數據。但算法可能被誤導，造成破壞性的後果https://t.co/NQEQItMDXM。"
+    }
+  ]
 }

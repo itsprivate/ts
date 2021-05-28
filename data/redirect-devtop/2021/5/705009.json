@@ -43,5 +43,22 @@
   "original_created_at": "2021-05-21T17:11:14Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bysVQy2Z--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png",
   "author": "Nikita Kozlov",
-  "author_url": "https://dev.to/kozlovzxc"
+  "author_url": "https://dev.to/kozlovzxc",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "論理演算子👻を使ったトリックを学んでみましょう。",
+      "title": "||と&&の隠された力"
+    },
+    {
+      "locale": "zh",
+      "description": "让我们来学习一些逻辑运算符的技巧👻。",
+      "title": "||和&&的隐藏力量"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "讓我們來學習一些邏輯運算符的技巧👻。",
+      "title": "||和&&的隱藏力量"
+    }
+  ]
 }

@@ -82,5 +82,22 @@
     ]
   },
   "original_createdAt": "2021-05-25T07:01:00Z",
-  "source_updated_at": 1622197395779
+  "source_updated_at": 1622197395779,
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私たちは、入力中に有益な情報を表示するAIライティングアシスタントを作りました。まずは、7日間の無料トライアルをご利用ください。",
+      "tagline": "知識を得るためのGrammarly"
+    },
+    {
+      "locale": "zh",
+      "description": "我们建立了一个人工智能写作助手，在你打字时浮现有用的信息。从7天的免费试用开始吧。",
+      "tagline": "知识的Grammarly"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們建立了一個人工智能寫作助手，在你打字時浮現有用的信息。從7天的免費試用開始吧。",
+      "tagline": "知識的Grammarly"
+    }
+  ]
 }

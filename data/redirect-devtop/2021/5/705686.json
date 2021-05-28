@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-22T13:18:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s---SBsNBoq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dx5xuz369h7xeijebh1c.png",
   "author": "Atul Bhatt",
-  "author_url": "https://dev.to/atulbhattsystem32"
+  "author_url": "https://dev.to/atulbhattsystem32",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "WhatsAppを開いているときに、たまにこの疑問が頭をよぎることがあるかもしれません。",
+      "title": "モバイルアプリの WhatsApp がないと WhatsApp Web が動作しないのはなぜ?"
+    },
+    {
+      "locale": "zh",
+      "description": "当你打开WhatsApp的时候，这个问题可能偶尔会在你的脑海中闪现。",
+      "title": "为什么没有WhatsApp的手机应用，WhatsApp网页就不能使用？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當你打開WhatsApp的時候，這個問題可能偶爾會在你的腦海中閃現。",
+      "title": "爲什麼沒有WhatsApp的手機應用，WhatsApp網頁就不能使用？"
+    }
+  ]
 }

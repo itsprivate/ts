@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-24T18:21:30Z",
   "image": "https://dev.to/social_previews/article/707472.png",
   "author": "Areeb ur Rub",
-  "author_url": "https://dev.to/areeburrub"
+  "author_url": "https://dev.to/areeburrub",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "スクロールダウンするとナビゲーションバーが自動的に...という効果を、いくつかのウェブサイトで見たことがあるはずです。",
+      "title": "スクロールダウン時にナビバーを非表示にする機能を、10行以下のjavascriptで実現しました。"
+    },
+    {
+      "locale": "zh",
+      "description": "你一定在一些网站上看到过这种效果，在那里你向下滚动，导航栏自动...",
+      "title": "在不到10行的javascript中，将导航条隐藏为向下滚动。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你一定在一些網站上看到過這種效果，在那裏你向下滾動，導航欄自動...",
+      "title": "在不到10行的javascript中，將導航條隱藏爲向下滾動。"
+    }
+  ]
 }

@@ -64,5 +64,22 @@
     ]
   },
   "original_createdAt": "2021-05-25T07:01:00Z",
-  "source_updated_at": 1622197395820
+  "source_updated_at": 1622197395820,
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "2021年の年明けに、learnjavascript.onlineのカリキュラムを書き直し始めたのですが、それが公開されましたのでお知らせします 👉 75章にわたるモダンなJavaScript 👉 フラッシュカードで段階的に学ぶ 👉 本物のAPIと対話する 👉 たくさんのDOM + Fetchプロジェクト",
+      "tagline": "ガイド付きテストとフラッシュカードでJavaScriptを学ぶ"
+    },
+    {
+      "locale": "zh",
+      "description": "2021年初，我开始重新编写learnjavascript.online的课程，我很高兴地宣布，它现在已经上线了! 现代JavaScript的75个章节 👉通过抽认卡一步步学习 👉与真正的API互动 👉大量的DOM+Fetch项目",
+      "tagline": "通过指导测试和闪卡学习JavaScript"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "2021年初，我開始重新編寫learnjavascript.online的課程，我很高興地宣佈，它現在已經上線了! 現代JavaScript的75個章節 👉通過抽認卡一步步學習 👉與真正的API互動 👉大量的DOM+Fetch項目",
+      "tagline": "通過指導測試和閃卡學習JavaScript"
+    }
+  ]
 }

@@ -102,5 +102,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1622131707,
-  "the_new_excerpt": "ive never asked anyone this question ever."
+  "the_new_excerpt": "ive never asked anyone this question ever.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私は今まで誰にもこの質問をしたことがありません。",
+      "title": "両手を横にぶら下げて歩くと、変な感じがすることはありませんか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我从来没有问过任何人这个问题。",
+      "title": "当你走路时，双手在身侧悬空，你有没有感到奇怪？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我從來沒有問過任何人這個問題。",
+      "title": "當你走路時，雙手在身側懸空，你有沒有感到奇怪？"
+    }
+  ]
 }

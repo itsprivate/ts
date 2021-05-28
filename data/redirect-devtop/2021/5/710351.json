@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-27T16:18:57Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jiWe1psh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ju26l3p8u2fqn2vxrsi2.jpg",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近更新されたオープンソースおよび有料の管理者用ダッシュボードを厳選したリストです。Soft UI, Volt Bootstrap 5, Windmill, Berry React.",
+      "title": "更新されたダッシュボード - Soft UI, AdminKit, Volt Bootstrap 5"
+    },
+    {
+      "locale": "zh",
+      "description": "一个精心策划的列表，包括最近更新的开源和付费的管理仪表板。Soft UI, Volt Bootstrap 5, Windmill, Berry React.",
+      "title": "更新的仪表盘--Soft UI, AdminKit, Volt Bootstrap 5"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個精心策劃的列表，包括最近更新的開源和付費的管理儀表板。Soft UI, Volt Bootstrap 5, Windmill, Berry React.",
+      "title": "更新的儀表盤--Soft UI, AdminKit, Volt Bootstrap 5"
+    }
+  ]
 }

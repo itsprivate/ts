@@ -313,5 +313,22 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Tue May 25 20:18:38 +0000 2021"
+  "original_created_at": "Tue May 25 20:18:38 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @_rospearce です。データを円周上にプロットする極座標図は、美しく印象的な #データビズ になります。 しかし、混乱を招くこともありますし...。",
+      "retweeted_status_full_text": "データを円の周りにプロットする極座標図は、美しく印象的な#datavizになります。 しかし、混乱を招いたり、最悪の場合、誤解を招いたりすることもあります。\n\n私はこのグラフについてニュースレターを書きましたが、なぜEconomist誌にはあまり掲載されないのでしょうか。\n\nhttps://t.co/GYZRAcfk2R https://t.co/g5ZCyPdY7H"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @_rospearce: 极地图，即围绕一个圆圈绘制的数据，是美丽而令人难忘的#dataviz。 但它们也可能令人困惑，或者说是令人失望。",
+      "retweeted_status_full_text": "极地图，即围绕一个圆圈绘制的数据，是美丽而令人难忘的#dataviz。 但它们也可能是混乱的，或者更糟糕的是，误导。\n\n我写了一篇关于这类图表的通讯，以及为什么它们不经常出现在《经济学人》上。\n\nhttps://t.co/GYZRAcfk2R https://t.co/g5ZCyPdY7H"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @_rospearce: 極地圖，即圍繞一個圓圈繪製的數據，是美麗而令人難忘的#dataviz。 但它們也可能令人困惑，或者說是令人失望。",
+      "retweeted_status_full_text": "極地圖，即圍繞一個圓圈繪製的數據，是美麗而令人難忘的#dataviz。 但它們也可能是混亂的，或者更糟糕的是，誤導。\n\n我寫了一篇關於這類圖表的通訊，以及爲什麼它們不經常出現在《經濟學人》上。\n\nhttps://t.co/GYZRAcfk2R https://t.co/g5ZCyPdY7H"
+    }
+  ]
 }

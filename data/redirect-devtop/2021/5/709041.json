@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-26T10:31:50Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rv4I8UwE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0a9h50milhlf1us6mn4a.png",
   "author": "CodeBucks",
-  "author_url": "https://dev.to/codebucks"
+  "author_url": "https://dev.to/codebucks",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Hi there 👋, Checkout this cool sidebar.  ここにデモリンクがあります： https://react-sidebar.vercel.app/ I...",
+      "title": "ReactJSでサイドバーナビゲーションメニューを構築し、react routerとframer-motionでクールなページトランジション効果を実現。"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，请看看这个很酷的侧边栏。 以下是演示链接： https://react-sidebar.vercel.app/ I...",
+      "title": "在ReactJS中用react router和framer-motion构建侧边栏导航菜单，以获得很酷的页面过渡效果"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，請看看這個很酷的側邊欄。 以下是演示鏈接： https://react-sidebar.vercel.app/ I...",
+      "title": "在ReactJS中用react router和framer-motion構建側邊欄導航菜單，以獲得很酷的頁面過渡效果"
+    }
+  ]
 }

@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-13T23:53:56Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Dnj-mdcp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eg0kl1z85ahedst1h5q1.png",
   "author": "Safak",
-  "author_url": "https://dev.to/safak"
+  "author_url": "https://dev.to/safak",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "もしあなたがフルスタックのウェブ開発者になりたいと思っていて、初心者向けのプロジェクトに留まっているなら、ここにチャンスがあります...",
+      "title": "MERNスタックを使ったソーシャルメディアアプリ"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你想成为一个全栈式的网络开发人员，而只是停留在初级项目上，那么机会就在这里。",
+      "title": "使用MERN堆栈的社交媒体应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你想成爲一個全棧式的網絡開發人員，而只是停留在初級項目上，那麼機會就在這裏。",
+      "title": "使用MERN堆棧的社交媒體應用程序"
+    }
+  ]
 }

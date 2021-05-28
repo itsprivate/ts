@@ -54,5 +54,22 @@
     ]
   },
   "original_createdAt": "2021-05-26T07:07:30Z",
-  "source_updated_at": 1622197395806
+  "source_updated_at": 1622197395806,
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Floppy Diskは、お気に入りのSlackスレッドをワンクリックでNotion、Airtable、Codaに保存できる無料のSlackアプリです! どこかレトロな雰囲気を漂わせながら。フロッピーディスクはスレッドの内容をすべて保存するので、コミュニティやチームは将来的に質の高いスレッドを参照することができます。",
+      "tagline": "SlackのスレッドをNotion、Coda、Airctableに保存する"
+    },
+    {
+      "locale": "zh",
+      "description": "Floppy Disk是一款免费的Slack应用，可以一键将你最喜欢的Slack线程保存到Notion、Airtable或Coda中！这款应用具有复古的特点。带有一些复古的气息。Floppy存储了一个线程的全部内容，这样你的社区或团队就可以在未来参考高质量的线程。",
+      "tagline": "在Notion、Coda或Airtable中存储Slack线程"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Floppy Disk是一款免費的Slack應用，可以一鍵將你最喜歡的Slack線程保存到Notion、Airtable或Coda中！這款應用具有復古的特點。帶有一些復古的氣息。Floppy存儲了一個線程的全部內容，這樣你的社區或團隊就可以在未來參考高質量的線程。",
+      "tagline": "在Notion、Coda或Airtable中存儲Slack線程"
+    }
+  ]
 }

@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-23T04:46:35Z",
   "image": "https://dev.to/social_previews/article/706113.png",
   "author": "mohammed afif ahmed",
-  "author_url": "https://dev.to/afif_ahmed"
+  "author_url": "https://dev.to/afif_ahmed",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに Dockerは、アプリケーションを構築し、配信し、実行するためのフリーでオープンなフレームワークです。",
+      "title": "Docker Swarmについて知っておくべきことのすべて"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍：Docker是一个免费和开放的框架，用于构建、交付和运行应用程序。",
+      "title": "关于Docker Swarm你需要知道的一切"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹：Docker是一個免費和開放的框架，用於構建、交付和運行應用程序。",
+      "title": "關於Docker Swarm你需要知道的一切"
+    }
+  ]
 }

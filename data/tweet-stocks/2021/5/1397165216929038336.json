@@ -93,5 +93,19 @@
   "retweeted": false,
   "lang": "en",
   "original_created_at": "Tue May 25 12:18:40 +0000 2021",
-  "source_updated_at": 1622197393347
+  "source_updated_at": 1622197393347,
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "ユニコーンとは、10億ドル以下の未公開企業のこと。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "独角兽是指价值低于10亿美元的私人公司。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "獨角獸是指價值低於10億美元的私人公司。"
+    }
+  ]
 }

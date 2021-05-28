@@ -38,5 +38,19 @@
   },
   "original_created_at": "2021-05-27T01:45:11.000Z",
   "image": "https://opengraph.githubassets.com/25cdae8d42d6dbda4ec7d9646641409ccbdee2d340ce6765e65b5cadef06a9a9/OpenHD/Open.HD",
-  "source_updated_at": 1622197394759
+  "source_updated_at": 1622197394759,
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "OpenHD - HDビデオ、UAVテレメトリー、オーディオ、RCコントロール"
+    },
+    {
+      "locale": "zh",
+      "title": "OpenHD - 高清视频、无人机遥测、音频和RC控制"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "OpenHD - 高清視頻、無人機遙測、音頻和RC控制"
+    }
+  ]
 }
