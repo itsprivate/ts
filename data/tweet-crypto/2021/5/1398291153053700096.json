@@ -306,5 +306,22 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Fri May 28 14:52:44 +0000 2021"
+  "original_created_at": "Fri May 28 14:52:44 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @MrBenLilly です。明日は月次オプションの満期日。4月限が満了することを意味する。過去5回の満期日を見ると...",
+      "retweeted_status_full_text": "明日は月次オプションの満期日。つまり、4月の契約が失効します。過去5回の満期日を見ると、ユニークなことがわかります。\n\n前日（つまり今日）の終値と4日後の高値を見てみると、平均で17％の上昇となっています。\n\nヘディング効果？🧵👇 https://t.co/exZPJuTRK6"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @MrBenLilly: 明天是月度期权到期日。意味着4月合约将到期。之前的五个到期日显示...",
+      "retweeted_status_full_text": "明天是月度期权到期日。意味着4月合约将到期。之前的五个到期日显示了一些独特的东西。\n\n以前一天的收盘价（也就是今天）为例，看看四天后的高点，平均涨幅为17%。\n\n对冲效应？👇https://t.co/exZPJuTRK6"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @MrBenLilly: 明天是月度期權到期日。意味着4月合約將到期。之前的五個到期日顯示...",
+      "retweeted_status_full_text": "明天是月度期權到期日。意味着4月合約將到期。之前的五個到期日顯示了一些獨特的東西。\n\n以前一天的收盤價（也就是今天）爲例，看看四天後的高點，平均漲幅爲17%。\n\n對沖效應？👇https://t.co/exZPJuTRK6"
+    }
+  ]
 }
