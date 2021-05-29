@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-28T11:44:12Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QdAf9Hl0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x7f4vwdfx8dygkq7350g.png",
   "author": "dastasoft",
-  "author_url": "https://dev.to/dastasoft"
+  "author_url": "https://dev.to/dastasoft",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "しばらくReactを使っていると、自由でワイルドな自然の中で、いくつかのケースに気づくでしょう。",
+      "title": "すべてのReact開発者が知っておくべきTypeScriptの基礎知識 - Part 1"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你已经使用了一段时间的React，你会注意到有些情况下，自由和狂野的自然环境会影响到你。",
+      "title": "这里是每个React开发者需要了解的TypeScript - 第一部分"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你已經使用了一段時間的React，你會注意到有些情況下，自由和狂野的自然環境會影響到你。",
+      "title": "這裏是每個React開發者需要了解的TypeScript - 第一部分"
+    }
+  ]
 }
