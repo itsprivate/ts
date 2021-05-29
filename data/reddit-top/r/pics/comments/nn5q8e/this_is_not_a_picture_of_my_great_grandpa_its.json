@@ -156,5 +156,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1622230582,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これは私の偉大な祖父の写真ではなく、116年前のカメラを使っている私の写真です。"
+    },
+    {
+      "locale": "zh",
+      "title": "这不是我曾祖父的照片，实际上是我用116年的相机拍摄的照片。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這不是我曾祖父的照片，實際上是我用116年的相機拍攝的照片。"
+    }
+  ]
 }
