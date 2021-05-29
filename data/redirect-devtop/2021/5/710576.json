@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-27T19:59:43Z",
   "image": "https://dev.to/social_previews/article/710576.png",
   "author": "Jordan Finneran",
-  "author_url": "https://dev.to/jordanfinners"
+  "author_url": "https://dev.to/jordanfinners",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "目次 はじめに X-Content-Type-Options X-XSS-Protection X-Frame-Options Summary...",
+      "title": "Xヘッダーとは何か、そしてその理由は？"
+    },
+    {
+      "locale": "zh",
+      "description": "内容介绍 X-Content-Type-Options X-XSS-Protection X-Frame-Options Summary...",
+      "title": "X-headers，是什么，为什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "內容介紹 X-Content-Type-Options X-XSS-Protection X-Frame-Options Summary...",
+      "title": "X-headers，是什麼，爲什麼？"
+    }
+  ]
 }
