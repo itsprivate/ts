@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-27T16:41:48Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s---eWxrX8l--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5di9wm9dwla98gd466cf.png",
   "author": "Favor Onuoha",
-  "author_url": "https://dev.to/heyonuoha"
+  "author_url": "https://dev.to/heyonuoha",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Flexboxは素晴らしく、CSSでの位置決めを、生の位置決め（絶対、...）よりもはるかに優れたものにしてくれます。",
+      "title": "シンプルなCSSフレックスボックスのチートシート"
+    },
+    {
+      "locale": "zh",
+      "description": "Flexbox很了不起，它们使CSS中的定位比原始定位（Absolute,...",
+      "title": "一个简单的CSS Flexbox小抄"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Flexbox很了不起，它們使CSS中的定位比原始定位（Absolute,...",
+      "title": "一個簡單的CSS Flexbox小抄"
+    }
+  ]
 }
