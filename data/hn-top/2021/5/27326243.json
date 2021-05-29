@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-05-29T16:22:43.000Z",
-  "image": "https://opengraph.githubassets.com/d5ceb98651431b231dcb30fc6177db171103e6dc97f8f8f536e3eaafe5514798/ProtonMail/WebClient/issues/242"
+  "image": "https://opengraph.githubassets.com/d5ceb98651431b231dcb30fc6177db171103e6dc97f8f8f536e3eaafe5514798/ProtonMail/WebClient/issues/242",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ProtonMailにはGoogle Recaptchaが搭載されており、毎回ログインすることができます。"
+    },
+    {
+      "locale": "zh",
+      "title": "ProtonMail包括Google Recaptcha，用于登录，每次都是如此。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "ProtonMail包括Google Recaptcha，用於登錄，每次都是如此。"
+    }
+  ]
 }
