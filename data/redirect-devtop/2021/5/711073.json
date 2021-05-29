@@ -53,5 +53,22 @@
   "original_created_at": "2021-05-28T10:24:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wS7Q5Cvz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iz4sxi30kzr1ij3too8b.png",
   "author": "Sarthak Sharma",
-  "author_url": "https://dev.to/sarthology"
+  "author_url": "https://dev.to/sarthology",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは👋🏼 私たちは、Product Huntで別の製品を発売しました。これは、あなたを助ける概念テンプレートです。",
+      "title": "コードを整理するためのテンプレート🎸とギター学習のためのノーション"
+    },
+    {
+      "locale": "zh",
+      "description": "嘿，伙计们 👋🏼 我们刚刚在Product Hunt上推出另一个产品。这是一个概念模板，可以帮助你...",
+      "title": "组织你的和弦🎸和学习吉他的概念模板"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嘿，夥計們 👋🏼 我們剛剛在Product Hunt上推出另一個產品。這是一個概念模板，可以幫助你...",
+      "title": "組織你的和絃🎸和學習吉他的概念模板"
+    }
+  ]
 }
