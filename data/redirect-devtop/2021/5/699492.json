@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-16T01:43:26Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--C4ZnPI2P--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y3r08crna5rxewocsndu.png",
   "author": "Josh Branchaud",
-  "author_url": "https://dev.to/jbranchaud"
+  "author_url": "https://dev.to/jbranchaud",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私は先週、PostgreSQLのパフォーマンス問題で完全にやられてしまいました。辛かったです。そして、...",
+      "title": "見つからない外部キーのインデックスに注意 Postgresのパフォーマンスに関する問題点"
+    },
+    {
+      "locale": "zh",
+      "description": "在过去的一周里，我被一些PostgreSQL的性能问题彻底打败了。这是很痛苦的。而且，...",
+      "title": "小心丢失的外键索引。糟糕的Postgres性能"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在過去的一週裏，我被一些PostgreSQL的性能問題徹底打敗了。這是很痛苦的。而且，...",
+      "title": "小心丟失的外鍵索引。糟糕的Postgres性能"
+    }
+  ]
 }
