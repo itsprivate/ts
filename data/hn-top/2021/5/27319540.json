@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-05-28T19:31:02.000Z",
-  "image": "https://unixgame.io/images/badges/badge_mini.png"
+  "image": "https://unixgame.io/images/badges/badge_mini.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "The Unix Game"
+    },
+    {
+      "locale": "zh",
+      "title": "Unix游戏"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Unix遊戲"
+    }
+  ]
 }
