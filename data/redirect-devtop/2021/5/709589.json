@@ -41,5 +41,22 @@
   "original_created_at": "2021-05-26T20:09:23Z",
   "image": "https://dev.to/social_previews/article/709589.png",
   "author": "Aneeqa Khan ✨",
-  "author_url": "https://dev.to/aneeqakhan"
+  "author_url": "https://dev.to/aneeqakhan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私は最近、いくつかのインタビューを与え、ほとんどすべての面接官は、これらの似たような質問をしたジャ...",
+      "title": "面接ではほとんどの場合、JavaScriptの概念的な質問をされます。"
+    },
+    {
+      "locale": "zh",
+      "description": "我最近参加了一些面试，大部分面试官都问了这些类似的问题，关于Ja...",
+      "title": "在面试中大多被问及JavaScript的概念性问题"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我最近參加了一些面試，大部分面試官都問了這些類似的問題，關於Ja...",
+      "title": "在面試中大多被問及JavaScript的概念性問題"
+    }
+  ]
 }
