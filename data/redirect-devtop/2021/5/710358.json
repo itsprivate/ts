@@ -50,5 +50,22 @@
   "original_created_at": "2021-05-27T16:22:04Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s---c-Sy3cc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://timdeschryver.dev/blog/how-to-set-up-a-dynamic-ci-cd-pipeline-with-github-actions/images/banner.jpg",
   "author": "Tim Deschryver",
-  "author_url": "https://dev.to/timdeschryver"
+  "author_url": "https://dev.to/timdeschryver",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "プルリクエストとマージのための単一パイプラインの作成",
+      "title": "Github ActionsでダイナミックなCI/CDパイプラインを構築する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "为你的拉动请求和合并创建一个单一的管道",
+      "title": "如何用Github Actions建立一个动态的CI/CD管道"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "爲你的拉動請求和合並創建一個單一的管道",
+      "title": "如何用Github Actions建立一個動態的CI/CD管道"
+    }
+  ]
 }
