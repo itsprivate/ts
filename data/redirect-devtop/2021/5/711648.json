@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-28T21:45:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9MIbAnbK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yi0n0nnmry0wyi0462yh.png",
   "author": "Nicholas Mendez",
-  "author_url": "https://dev.to/snickdx"
+  "author_url": "https://dev.to/snickdx",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ヒッチハイカーズシリーズについて このシリーズは、開発者が発見して...",
+      "title": "The Frontend Hitchhiker's Guide (フロントエンド・ヒッチハイカーズ・ガイド) UIライブラリ"
+    },
+    {
+      "locale": "zh",
+      "description": "关于搭便车系列 这是一个系列的帖子，致力于帮助开发者发现和...",
+      "title": "前端搭便车指南。UI库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "關於搭便車系列 這是一個系列的帖子，致力於幫助開發者發現和...",
+      "title": "前端搭便車指南。UI庫"
+    }
+  ]
 }
