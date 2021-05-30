@@ -148,5 +148,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1622326087,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "OC] すべての2文字の組み合わせが、英語の辞書に出現する回数。文字の頻度で並べた軸"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]英语词典中每两个字母组合出现的次数。(坐标轴按字母频率排列)"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]英語詞典中每兩個字母組合出現的次數。(座標軸按字母頻率排列)"
+    }
+  ]
 }
