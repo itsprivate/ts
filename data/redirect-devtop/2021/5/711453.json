@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-28T16:25:32Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hgayVIZq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dubqdygor1q8e5v23kw5.png",
   "author": "Sandra Spanik",
-  "author_url": "https://dev.to/sanspanic"
+  "author_url": "https://dev.to/sanspanic",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あなたはReactを学びました。少なくとも漠然と、仮想DOMが何であるかを知っていて、快適に...",
+      "title": "学ぶべき理由 Next Next"
+    },
+    {
+      "locale": "zh",
+      "description": "所以你已经学会了React。你知道，至少隐约知道什么是虚拟DOM，并能自如地使用...",
+      "title": "为什么你应该学习下一步"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "所以你已經學會了React。你知道，至少隱約知道什麼是虛擬DOM，並能自如地使用...",
+      "title": "爲什麼你應該學習下一步"
+    }
+  ]
 }
