@@ -48,5 +48,22 @@
   "original_created_at": "2021-05-28T14:55:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s---KJVMc-N--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/11ndud5gzv8syvf2uoax.png",
   "author": "Christine Kim",
-  "author_url": "https://dev.to/ckim328"
+  "author_url": "https://dev.to/ckim328",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、サードパーティのAPIからデータを要求するスクリプトを作成していたのですが、このスクリプトを実行すると...",
+      "title": "Javascriptのimportとrequireの違いは？"
+    },
+    {
+      "locale": "zh",
+      "description": "我最近在创建一个从第三方API请求数据的脚本，并且我在运行这个scr...",
+      "title": "Javascript的导入与要求？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我最近在創建一個從第三方API請求數據的腳本，並且我在運行這個scr...",
+      "title": "Javascript的導入與要求？"
+    }
+  ]
 }

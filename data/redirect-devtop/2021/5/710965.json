@@ -43,5 +43,22 @@
   "original_created_at": "2021-05-28T08:11:50Z",
   "image": "https://dev.to/social_previews/article/710965.png",
   "author": "Zach Klippenstein",
-  "author_url": "https://dev.to/zachklipp"
+  "author_url": "https://dev.to/zachklipp",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Jetpack Composeは、observable stateを扱う新しい方法を導入しています。導入のために、いくつか...",
+      "title": "Compose Snapshotシステムの紹介"
+    },
+    {
+      "locale": "zh",
+      "description": "Jetpack Compose引入了一种新的方式来处理可观察的状态。对于一个介绍，增加了一些...",
+      "title": "金普斯快照系统介绍"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Jetpack Compose引入了一種新的方式來處理可觀察的狀態。對於一個介紹，增加了一些...",
+      "title": "金普斯快照系統介紹"
+    }
+  ]
 }
