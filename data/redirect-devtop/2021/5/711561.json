@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-28T20:24:02Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--aoFtFSjk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/54wyyb2yf49cyjkbvc6w.jpg",
   "author": "Chaitanya Prabuddha",
-  "author_url": "https://dev.to/line"
+  "author_url": "https://dev.to/line",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "フロントエンドのWeb開発は、データをグラフィカルなインターフェイスに変換するために、...",
+      "title": "フロンテッド・マスターになるためのプロジェクト"
+    },
+    {
+      "locale": "zh",
+      "description": "前端网络开发是将数据转换为图形界面的做法，通过使用 \"网络 \"来实现。",
+      "title": "成为前线大师的项目"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "前端網絡開發是將數據轉換爲圖形界面的做法，通過使用 \"網絡 \"來實現。",
+      "title": "成爲前線大師的項目"
+    }
+  ]
 }

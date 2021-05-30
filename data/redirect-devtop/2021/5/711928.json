@@ -41,5 +41,22 @@
   "original_created_at": "2021-05-29T07:48:52Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7TKvPfDn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/to3cxv59vk07h7ixilbm.png",
   "author": "Ogheneyoma Obomate Okobiah",
-  "author_url": "https://dev.to/yomdroid"
+  "author_url": "https://dev.to/yomdroid",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私の受信箱には、宣伝用のコンテンツであったり、私があまりにも怠けていたために未読のメールがたくさんありました...。",
+      "title": "Pythonを使ったメールボックスの整理整頓"
+    },
+    {
+      "locale": "zh",
+      "description": "我的收件箱里有很多未读邮件，因为它们是促销内容，或者我只是太忙了。",
+      "title": "用Python整理邮箱"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我的收件箱裏有很多未讀郵件，因爲它們是促銷內容，或者我只是太忙了。",
+      "title": "用Python整理郵箱"
+    }
+  ]
 }
