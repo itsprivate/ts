@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-29T20:43:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ciGvMsDA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/obju5uyo9ihjs7yt32pu.png",
   "author": "Chaitanya Prabuddha",
-  "author_url": "https://dev.to/line"
+  "author_url": "https://dev.to/line",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今回は、この連載「開発者のためのWebサイト」のPART3であることをお伝えしたいと思います。          私は...",
+      "title": "開発者向けウェブサイトトップ10"
+    },
+    {
+      "locale": "zh",
+      "description": "我想告诉你，这是本系列的第三部分，即面向开发者的网站。          我想告诉大家的是，这是本系列文章的第三部分，即 \"面向开发者的网站\"，我是...",
+      "title": "开发者的十大网站"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我想告訴你，這是本系列的第三部分，即面向開發者的網站。          我想告訴大家的是，這是本系列文章的第三部分，即 \"面向開發者的網站\"，我是...",
+      "title": "開發者的十大網站"
+    }
+  ]
 }

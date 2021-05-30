@@ -50,5 +50,22 @@
   "original_created_at": "2021-05-28T00:02:12Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VNPU2vge--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qnt9mpocvs2gtfmnrpai.png",
   "author": "Joseph Maurer",
-  "author_url": "https://dev.to/mwrpwr"
+  "author_url": "https://dev.to/mwrpwr",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さんは、自分が使っているほとんどのプラットフォームにAPIが存在することを忘れがちです。一部の企業ではAPIを封印しているところもありますが...",
+      "title": "DEV.to APIの活用"
+    },
+    {
+      "locale": "zh",
+      "description": "你经常忘记，你使用的大多数平台都存在API。虽然有些公司锁定了这些API，但它们并不意味着它们就可以在你的平台上使用。",
+      "title": "探索DEV.to API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你經常忘記，你使用的大多數平臺都存在API。雖然有些公司鎖定了這些API，但它們並不意味着它們就可以在你的平臺上使用。",
+      "title": "探索DEV.to API"
+    }
+  ]
 }
