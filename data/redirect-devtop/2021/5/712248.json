@@ -52,5 +52,22 @@
   "original_created_at": "2021-05-29T16:57:29Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ru5J3uI_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uurynxhoqt5jy0ib3j5b.png",
   "author": "Salah Elhossiny",
-  "author_url": "https://dev.to/salah856"
+  "author_url": "https://dev.to/salah856",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このパートでは、NoSQLデータベースであるDynamoDBと対話するGraphQL APIを作成して、DynamoDBの機能を利用することになります。",
+      "title": "モダン・フルスタック・サーバーレス、パートIII"
+    },
+    {
+      "locale": "zh",
+      "description": "在这一部分中，你将创建一个GraphQL API，与DynamoDB NoSQL数据库互动，以实现每...",
+      "title": "现代全栈式无服务器，第三部分"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這一部分中，你將創建一個GraphQL API，與DynamoDB NoSQL數據庫互動，以實現每...",
+      "title": "現代全棧式無服務器，第三部分"
+    }
+  ]
 }
