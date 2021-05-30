@@ -43,5 +43,22 @@
   "original_created_at": "2021-05-28T20:08:05Z",
   "image": "https://dev.to/social_previews/article/711551.png",
   "author": "CyprianTinasheAarons",
-  "author_url": "https://dev.to/cypriantinasheaarons"
+  "author_url": "https://dev.to/cypriantinasheaarons",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ブロックチェーンとは？  ブロックチェーンとは、情報を記録する仕組みのことで、...",
+      "title": "イーサリアムブロックチェーン上でNFTを作成する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是区块链？  区块链是一个记录信息的系统，它使信息的使用更加方便。",
+      "title": "如何在以太坊区块链上创建一个NFT"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是區塊鏈？  區塊鏈是一個記錄信息的系統，它使信息的使用更加方便。",
+      "title": "如何在以太坊區塊鏈上創建一個NFT"
+    }
+  ]
 }
