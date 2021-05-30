@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-29T07:20:37Z"
+  "original_createdAt": "2021-05-29T07:20:37Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "https://github.com/krikienoid/flagwaver - ウェブ上やデバイスから画像をアップロードできます。- 縦横比の異なる国旗クロスに対応。- ホイスト側と旗の向きを設定できます。- さまざまな旗竿を試すことができます。- 風速と風向きの調整 - プログレッシブウェブアプリに対応しています。",
+      "tagline": "旗を振っている様子をシミュレートするウェブアプリです。"
+    },
+    {
+      "locale": "zh",
+      "description": "https://github.com/krikienoid/flagwaver - 从网络或设备中上传图片。- 支持具有不同长宽比的旗布。- 设置升旗面和旗帜方向。- 试用不同的旗杆。- 调整风速和风向。- 支持渐进式网络应用程序。",
+      "tagline": "一个模拟挥舞旗帜的网络应用。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "https://github.com/krikienoid/flagwaver - 從網絡或設備中上傳圖片。- 支持具有不同長寬比的旗布。- 設置升旗面和旗幟方向。- 試用不同的旗杆。- 調整風速和風向。- 支持漸進式網絡應用程序。",
+      "tagline": "一個模擬揮舞旗幟的網絡應用。"
+    }
+  ]
 }

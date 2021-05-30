@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-27T20:17:51Z",
   "image": "https://dev.to/social_previews/article/710580.png",
   "author": "Ricardo Borges",
-  "author_url": "https://dev.to/ricardo93borges"
+  "author_url": "https://dev.to/ricardo93borges",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "RESTに関するいくつかの注意点と、RESTful APIを設計するために私が実践しているベストプラクティスを紹介します。",
+      "title": "REST APIインターフェース設計のベストプラクティス"
+    },
+    {
+      "locale": "zh",
+      "description": "关于REST的一些说明以及我在设计RESTful API时遵循的最佳做法",
+      "title": "REST API界面设计的最佳实践"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "關於REST的一些說明以及我在設計RESTful API時遵循的最佳做法",
+      "title": "REST API界面設計的最佳實踐"
+    }
+  ]
 }

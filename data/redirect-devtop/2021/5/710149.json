@@ -43,5 +43,22 @@
   "original_created_at": "2021-05-27T13:48:42Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AAyHBnpt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ij4thjzlohp85qmzxlmo.JPG",
   "author": "Keerthi",
-  "author_url": "https://dev.to/keefdrive"
+  "author_url": "https://dev.to/keefdrive",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、カードのUIでいくつかの画像に異形の縁取りをする必要がありました。ほとんどの場合、あなたは...",
+      "title": "画像におしゃれな縁取りをすることができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "最近，我需要为一个卡片用户界面中的一些图像制作奇特的边框。大多数情况下，你都会为这些图片制作边框。",
+      "title": "为你的图像创建花哨的边框。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "最近，我需要爲一個卡片用戶界面中的一些圖像製作奇特的邊框。大多數情況下，你都會爲這些圖片製作邊框。",
+      "title": "爲你的圖像創建花哨的邊框。"
+    }
+  ]
 }

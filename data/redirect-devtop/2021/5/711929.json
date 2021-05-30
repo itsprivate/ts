@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-29T07:50:42Z",
   "image": "https://dev.to/social_previews/article/711929.png",
   "author": "chrisedrego",
-  "author_url": "https://dev.to/chrisedrego"
+  "author_url": "https://dev.to/chrisedrego",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "\"This is a curate long-list of 20+ Best Practises for Dockerfile for the Year 2020 \"とあります。 これは、2020年に向けたDockerfileのベストプラクティスを20以上集めたロングリストです。",
+      "title": "2021年のDockerfileに関する21のベストプラクティクス"
+    },
+    {
+      "locale": "zh",
+      "description": "\"这是一份精心策划的2020年Dockerfile的20多个最佳实践的长名单\"。 自2009年以来，Dockerfile已经在全球范围内得到了广泛的认可。",
+      "title": "2021年Dockerfile的21项最佳实践"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "\"這是一份精心策劃的2020年Dockerfile的20多個最佳實踐的長名單\"。 自2009年以來，Dockerfile已經在全球範圍內得到了廣泛的認可。",
+      "title": "2021年Dockerfile的21項最佳實踐"
+    }
+  ]
 }
