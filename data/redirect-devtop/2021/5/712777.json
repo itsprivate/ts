@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-30T11:23:52Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mxO7V9c_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r77alsjx3v4sosk2b89t.png",
   "author": "Dimer BWimBA",
-  "author_url": "https://dev.to/dimer191996"
+  "author_url": "https://dev.to/dimer191996",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "もうお分かりでしょうが、Reactフレームワークにはreact hooksというものがあります。Witchは、Reactフレームワークの中で、特別なフック機能です。",
+      "title": "React JsのHooksを徹底的に理解する｜パートI"
+    },
+    {
+      "locale": "zh",
+      "description": "你现在已经知道了React框架包括反应钩子。钩子是一种特殊的钩子函数。",
+      "title": "一劳永逸地理解React Js的钩子 | 第一部分"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你現在已經知道了React框架包括反應鉤子。鉤子是一種特殊的鉤子函數。",
+      "title": "一勞永逸地理解React Js的鉤子 | 第一部分"
+    }
+  ]
 }
