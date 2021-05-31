@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-05-30T20:47:16.000Z",
-  "image": "https://rfc.fyi/rfcfyi.png"
+  "image": "https://rfc.fyi/rfcfyi.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "RFC.fyi：RFCをキーワード、ID、コレクション別に閲覧可能"
+    },
+    {
+      "locale": "zh",
+      "title": "RFC.fyi: 按关键词、ID或集合浏览RFCs"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "RFC.fyi: 按關鍵詞、ID或集合瀏覽RFCs"
+    }
+  ]
 }
