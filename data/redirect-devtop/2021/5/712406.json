@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-29T23:17:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2ApwVA3P--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/70ig5s7dpp70p0y55n6u.png",
   "author": "Christine Contreras",
-  "author_url": "https://dev.to/christinecontreras"
+  "author_url": "https://dev.to/christinecontreras",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私は現在Flatironの生徒です。第1段階では、Javascriptの基礎を中心に学びましたが、第2段階では...",
+      "title": "パーフェクト・デート JavascriptとAPIを使ったプロジェクト"
+    },
+    {
+      "locale": "zh",
+      "description": "我目前是Flatiron的一名学生。我们第一阶段的重点是Javascript的基础知识，以及如何将这些知识运用到实践中。",
+      "title": "完美的约会。一个Javascript和API项目"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我目前是Flatiron的一名學生。我們第一階段的重點是Javascript的基礎知識，以及如何將這些知識運用到實踐中。",
+      "title": "完美的約會。一個Javascript和API項目"
+    }
+  ]
 }

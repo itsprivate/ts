@@ -141,5 +141,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1622425782,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインは銀行システムよりもはるかに少ないエネルギーしか使用していない、という論文が発表されました。"
+    },
+    {
+      "locale": "zh",
+      "title": "一篇新的论文说，比特币实际上比银行系统使用的能源要少得多"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一篇新的論文說，比特幣實際上比銀行系統使用的能源要少得多"
+    }
+  ]
 }
