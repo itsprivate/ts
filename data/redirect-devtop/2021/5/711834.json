@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-29T04:48:37Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--72RVfr7V--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ba0s8vdkhwg8fxs9m4es.jpg",
   "author": "deepak pd",
-  "author_url": "https://dev.to/deepakfilth"
+  "author_url": "https://dev.to/deepakfilth",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、私は個人的なブログサイトを開発し、ドメインを購入し、稼動させようとしましたが、アイデアがありませんでした...。",
+      "title": "ウェブサイトをHTTPからHTTPSに変換する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "最近我开发了一个个人博客网站，买了一个域名，想上线，但不知道...",
+      "title": "如何将你的网站从HTTP转换到HTTPS"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "最近我開發了一個個人博客網站，買了一個域名，想上線，但不知道...",
+      "title": "如何將你的網站從HTTP轉換到HTTPS"
+    }
+  ]
 }
