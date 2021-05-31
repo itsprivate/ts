@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-28T17:55:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--U0Lkoj7p--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/goordp55c98nbdcwtwg6.jpg",
   "author": "Andrew Jones",
-  "author_url": "https://dev.to/ajones_codes"
+  "author_url": "https://dev.to/ajones_codes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この新シリーズにようこそ 私はフロントエンド・デベロッパーで、最近SaaS製品のアイデアを思いついたので、...",
+      "title": "公共の場でSaaS製品を作る - アップデート1"
+    },
+    {
+      "locale": "zh",
+      "description": "欢迎来到这个新系列! 我是一个前端开发员，最近有一个关于SaaS产品的想法，所以...",
+      "title": "在公开场合打造SaaS产品--更新1"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "歡迎來到這個新系列! 我是一個前端開發員，最近有一個關於SaaS產品的想法，所以...",
+      "title": "在公開場合打造SaaS產品--更新1"
+    }
+  ]
 }
