@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-23T06:42:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9pu5g6VS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l6kbt3jwkv2fjdia9hhj.png",
   "author": "Fayaz Ahmed",
-  "author_url": "https://dev.to/fayaz"
+  "author_url": "https://dev.to/fayaz",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "トグルとスイッチ、どちらで呼ぶかはわかりませんが、Tailwi...でトグルボタンを作る方法をご紹介します。",
+      "title": "TailwindcssとVue.jsでカスタムトグル/スイッチボタンを作る"
+    },
+    {
+      "locale": "zh",
+      "description": "不知道你叫它们什么，拨动或开关，但这里是你如何用Tailwi制作一个拨动按钮...",
+      "title": "用Tailwindcss和Vue.js制作一个自定义的切换/开关按钮"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "不知道你叫它們什麼，撥動或開關，但這裏是你如何用Tailwi製作一個撥動按鈕...",
+      "title": "用Tailwindcss和Vue.js製作一個自定義的切換/開關按鈕"
+    }
+  ]
 }

@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-29T13:04:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2kLyzIHf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pnrhqbgs9c3qa51gibaq.png",
   "author": "Farhan",
-  "author_url": "https://dev.to/arriqaaq"
+  "author_url": "https://dev.to/arriqaaq",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事は元々こちらに掲載されていました。 シンプルなOSを作れるようになるまでの道のり 何回目だろうか？",
+      "title": "オペレーティングシステムの書き方 - ブートプロセス（その1"
+    },
+    {
+      "locale": "zh",
+      "description": "这篇文章最初发表在这里 我学习建立一个简单的操作系统的历程 有多少次...",
+      "title": "编写操作系统--启动过程（第一部分"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這篇文章最初發表在這裏 我學習建立一個簡單的操作系統的歷程 有多少次...",
+      "title": "編寫操作系統--啓動過程（第一部分"
+    }
+  ]
 }
