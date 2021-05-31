@@ -102,5 +102,19 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Sun May 30 23:09:02 +0000 2021"
+  "original_created_at": "Sun May 30 23:09:02 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "政府はマルクス主義過激派による16人の殺害を非難しているが、地元の市長は麻薬密売人の犯行ではないかと指摘している。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "政府指责马克思主义激进分子杀害了16人；当地市长认为贩毒者可能对此负责。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "政府指責馬克思主義激進分子殺害了16人；當地市長認爲販毒者可能對此負責。"
+    }
+  ]
 }
