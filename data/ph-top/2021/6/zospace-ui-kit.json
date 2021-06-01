@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-01T07:00:00Z"
+  "original_createdAt": "2021-06-01T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "美しいTailwindのテンプレートを作ることは、ロケットサイエンスではありません。✨ https://shuffle.dev/marketplace/zospace",
+      "tagline": "宇宙のように素晴らしいTailwindのテンプレートを数分で作成します。"
+    },
+    {
+      "locale": "zh",
+      "description": "创建美丽的Tailwind模板并不是火箭科学! ✨ https://shuffle.dev/marketplace/zospace",
+      "tagline": "在几分钟内创建宇宙级的Tailwind模板"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "創建美麗的Tailwind模板並不是火箭科學! ✨ https://shuffle.dev/marketplace/zospace",
+      "tagline": "在幾分鐘內創建宇宙級的Tailwind模板"
+    }
+  ]
 }
