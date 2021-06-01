@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-30T17:31:29Z",
   "image": "https://dev.to/social_previews/article/713005.png",
   "author": "Andrew Jones",
-  "author_url": "https://dev.to/ajones_codes"
+  "author_url": "https://dev.to/ajones_codes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事はバックエンドの経験が0の人に向けて書かれているので、誰でも学ぶことができるはずです。",
+      "title": "SQLクエリを1つも書かずにバックエンドAPIを作成する - フロントエンド開発者のためのPostgresとPrismaの紹介"
+    },
+    {
+      "locale": "zh",
+      "description": "这篇文章是为一个没有后台经验的人写的，所以任何人都应该能够从中学习。",
+      "title": "不用写一个SQL查询就能创建一个后台API--面向前端开发者的Postgres和Prisma介绍"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這篇文章是爲一個沒有後臺經驗的人寫的，所以任何人都應該能夠從中學習。",
+      "title": "不用寫一個SQL查詢就能創建一個後臺API--面向前端開發者的Postgres和Prisma介紹"
+    }
+  ]
 }
