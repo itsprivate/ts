@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-31T06:15:08Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ia3g1z60--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/amq5om3jsjomcztfppv9.jpg",
   "author": "Alex Devero",
-  "author_url": "https://dev.to/alexdevero"
+  "author_url": "https://dev.to/alexdevero",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "特に大規模なアプリケーションでは、パフォーマンスは重要です。ReactのuseMemoフックは、大規模アプリケーションのパフォーマンスを向上させるツールのひとつです。",
+      "title": "React の useMemo フックはシンプルです。"
+    },
+    {
+      "locale": "zh",
+      "description": "性能是很重要的，特别是在大规模应用中。React的useMemo钩子是你的一个工具。",
+      "title": "简单的React useMemo挂钩"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "性能是很重要的，特別是在大規模應用中。React的useMemo鉤子是你的一個工具。",
+      "title": "簡單的React useMemo掛鉤"
+    }
+  ]
 }
