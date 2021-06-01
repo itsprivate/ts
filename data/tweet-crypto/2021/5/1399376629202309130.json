@@ -390,5 +390,22 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Mon May 31 14:46:02 +0000 2021"
+  "original_created_at": "Mon May 31 14:46:02 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @DocumentingBTC: インド中央銀行は、新しいメモで#ビットコインと取引所が禁止されていないことを明確にした。https://t.co/ImYuEEeabH",
+      "retweeted_status_full_text": "インド中央銀行、新メモで#ビットコインと取引所は禁止されていないと明言 https://t.co/ImYuEEeabH"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @DocumentingBTC: 印度中央银行在新的备忘录中明确表示，#比特币和交易所不被禁止。https://t.co/ImYuEEeabH",
+      "retweeted_status_full_text": "印度中央银行在新的备忘录中明确表示，#比特币和交易所不被禁止。https://t.co/ImYuEEeabH"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @DocumentingBTC: 印度中央銀行在新的備忘錄中明確表示，#比特幣和交易所不被禁止。https://t.co/ImYuEEeabH",
+      "retweeted_status_full_text": "印度中央銀行在新的備忘錄中明確表示，#比特幣和交易所不被禁止。https://t.co/ImYuEEeabH"
+    }
+  ]
 }

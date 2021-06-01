@@ -101,5 +101,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1622472960,
-  "the_new_excerpt": "Hi guys,\n\nA couple of months ago we posted about a project me and a friend were working\non, called librimood (librimood.com). It is an AI powered search engine for\nfinding books based on your mood. For example you can search abstract queries\nlike “a book that will make me cry” or “a book with a…"
+  "the_new_excerpt": "Hi guys,\n\nA couple of months ago we posted about a project me and a friend were working\non, called librimood (librimood.com). It is an AI powered search engine for\nfinding books based on your mood. For example you can search abstract queries\nlike “a book that will make me cry” or “a book with a…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "皆さん、こんにちは。\n\n数ヶ月前に、私と友人が取り組んでいたプロジェクト、「librimood」（librimood.c.c.）について紹介しました。\nlibrimood (librimood.com)というプロジェクトがあります。これは、AIを使った検索エンジンで\n気分に応じて本を探すためのAI検索エンジンです。例えば、以下のような抽象的な質問を検索することができます。\n例えば、「泣ける本」や「...のある本」などの抽象的な検索ができます。",
+      "title": "自分の気分に合わせて本を探す"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "大家好。\n\n几个月前，我们发布了关于我和一个朋友正在从事的一个项目\n的项目，叫做librimood（librimood.com）。它是一个由人工智能驱动的搜索引擎，用于\n根据你的心情来找书。例如，你可以搜索抽象的查询\n如 \"一本会让我哭的书 \"或 \"一本有故事的书\"。",
+      "title": "根据你的心情寻找书籍"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "大家好。\n\n幾個月前，我們發佈了關於我和一個朋友正在從事的一個項目\n的項目，叫做librimood（librimood.com）。它是一個由人工智能驅動的搜索引擎，用於\n根據你的心情來找書。例如，你可以搜索抽象的查詢\n如 \"一本會讓我哭的書 \"或 \"一本有故事的書\"。",
+      "title": "根據你的心情尋找書籍"
+    }
+  ]
 }

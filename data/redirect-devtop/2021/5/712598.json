@@ -57,5 +57,22 @@
   "original_created_at": "2021-05-30T06:41:01Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FxpL3hs5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z4j33trzbgnbnohxphls.png",
   "author": "Suraj Vishwakarma",
-  "author_url": "https://dev.to/surajondev"
+  "author_url": "https://dev.to/surajondev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに オープンソースの世界では、良いリポジトリを見つけることが大きな課題となっています。",
+      "title": "貢献できるオープンソースプロジェクトを探す"
+    },
+    {
+      "locale": "zh",
+      "description": "引言 开源的一个主要忙碌的事情是找到一个好的资源库来。",
+      "title": "寻找开放源码项目以做出贡献"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "引言 開源的一個主要忙碌的事情是找到一個好的資源庫來。",
+      "title": "尋找開放源碼項目以做出貢獻"
+    }
+  ]
 }
