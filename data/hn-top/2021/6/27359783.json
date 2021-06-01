@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-06-01T19:12:15.000Z",
-  "image": "https://www.jeffgeerling.com/sites/default/files/images/it-has-been-zero-days-since-i-recompiled-the-linux-kernel.jpg"
+  "image": "https://www.jeffgeerling.com/sites/default/files/images/it-has-been-zero-days-since-i-recompiled-the-linux-kernel.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Apple M1は、私が使っているIntel i9よりも30%速くLinuxをコンパイルします。"
+    },
+    {
+      "locale": "zh",
+      "title": "苹果M1编译Linux的速度比我的英特尔i9快30%。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "蘋果M1編譯Linux的速度比我的英特爾i9快30%。"
+    }
+  ]
 }
