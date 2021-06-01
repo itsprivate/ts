@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-31T07:21:04Z"
+  "original_createdAt": "2021-05-31T07:21:04Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "FireCMSは、Firebase/Firestoreをベースにした、完全にフリーでオープンソースのカスタマイズ可能なCMS/管理パネルです。 必要に迫られて作ったもので、Firebaseプロジェクトを持っている人なら誰でもすぐにバックオフィスツールを作ることができます。",
+      "tagline": "FirestoreをベースにしたオープンソースのCMSと管理パネルです。"
+    },
+    {
+      "locale": "zh",
+      "description": "FireCMS是一个完全免费的、开源的、基于Firebase/Firestore的可定制的CMS/管理面板。我们出于需要建立了它，它允许任何拥有Firebase项目的人在短时间内建立他们的后台工具。",
+      "tagline": "一个基于Firestore的开源CMS和管理面板"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "FireCMS是一個完全免費的、開源的、基於Firebase/Firestore的可定製的CMS/管理面板。我們出於需要建立了它，它允許任何擁有Firebase項目的人在短時間內建立他們的後臺工具。",
+      "tagline": "一個基於Firestore的開源CMS和管理面板"
+    }
+  ]
 }

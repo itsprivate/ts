@@ -43,5 +43,22 @@
   "original_created_at": "2021-05-31T06:23:33Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Wq86hlQ8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6rkua5r9qrlzsaxmg205.jpg",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "シンプルな Django のテンプレートで、初心者が本番用のプロジェクトを素早くコーディングするのに役立ちます。",
+      "title": "Soft UI Dashboard - Bootstrap 5 FREE Django Template"
+    },
+    {
+      "locale": "zh",
+      "description": "一个简单的Django模板，可能会帮助初学者更快地编码一个可用于生产的项目",
+      "title": "Soft UI Dashboard - Bootstrap 5免费Django模板"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個簡單的Django模板，可能會幫助初學者更快地編碼一個可用於生產的項目",
+      "title": "Soft UI Dashboard - Bootstrap 5免費Django模板"
+    }
+  ]
 }

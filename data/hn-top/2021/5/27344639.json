@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-05-31T14:53:15.000Z",
-  "image": "http://blog.cleverelephant.ca/images/2017/postgis-logo.jpg"
+  "image": "http://blog.cleverelephant.ca/images/2017/postgis-logo.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "20歳のPostGIS、その始まり"
+    },
+    {
+      "locale": "zh",
+      "title": "PostGIS在20岁的时候，开始了"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "PostGIS在20歲的時候，開始了"
+    }
+  ]
 }

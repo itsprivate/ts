@@ -289,5 +289,22 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "und",
-  "original_created_at": "Mon May 31 16:30:44 +0000 2021"
+  "original_created_at": "Mon May 31 16:30:44 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "🟩 https://t.co/Qf9WjZXVFA",
+      "quoted_status_full_text": "$MARA https://t.co/CGidsjZgP4"
+    },
+    {
+      "locale": "zh",
+      "full_text": "🟩 https://t.co/Qf9WjZXVFA",
+      "quoted_status_full_text": "$MARA https://t.co/CGidsjZgP4"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "🟩 https://t.co/Qf9WjZXVFA",
+      "quoted_status_full_text": "$MARA https://t.co/CGidsjZgP4"
+    }
+  ]
 }
