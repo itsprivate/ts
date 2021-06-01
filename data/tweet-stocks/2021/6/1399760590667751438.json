@@ -92,5 +92,19 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Tue Jun 01 16:11:45 +0000 2021"
+  "original_created_at": "Tue Jun 01 16:11:45 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "すべての企業がAMCの1％だけでもバランスシートに載せれば、10万円になる。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "如果每家公司只把AMC的1%放到他们的资产负债表上，就可以达到10万。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "如果每家公司只把AMC的1%放到他們的資產負債表上，就可以達到10萬。"
+    }
+  ]
 }
