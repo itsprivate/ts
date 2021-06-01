@@ -52,5 +52,22 @@
   "original_created_at": "2021-05-24T11:55:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lwMfZgNO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m350kd0oye4nki5e8jc0.png",
   "author": "Eyar Zilberman",
-  "author_url": "https://dev.to/eyarz"
+  "author_url": "https://dev.to/eyarz",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "なぜスキーマ検証を実行するのか？  Kubernetesクラスターの安定性を確保するには？ホ...",
+      "title": "Kubernetesスキーマ検証の深層"
+    },
+    {
+      "locale": "zh",
+      "description": "为什么要运行模式验证？  如何确保你的Kubernetes集群的稳定性？如何...",
+      "title": "深入了解Kubernetes的模式验证"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "爲什麼要運行模式驗證？  如何確保你的Kubernetes集羣的穩定性？如何...",
+      "title": "深入瞭解Kubernetes的模式驗證"
+    }
+  ]
 }
