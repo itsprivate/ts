@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-31T17:01:04Z",
   "image": "https://dev.to/social_previews/article/714089.png",
   "author": "fawazsullia",
-  "author_url": "https://dev.to/fawazsullia"
+  "author_url": "https://dev.to/fawazsullia",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "お客様とのやりとりを伴うプロジェクトを構築している場合、おそらくどこかで...",
+      "title": "無料でできるnode jsでのメール送信方法 "
+    },
+    {
+      "locale": "zh",
+      "description": "如果你正在建立一个涉及客户互动的项目，那么可能在某些时候，你就会想。",
+      "title": "如何用node js免费发送电子邮件 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你正在建立一個涉及客戶互動的項目，那麼可能在某些時候，你就會想。",
+      "title": "如何用node js免費發送電子郵件 "
+    }
+  ]
 }

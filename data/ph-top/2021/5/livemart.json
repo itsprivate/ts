@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-05-31T07:01:00Z"
+  "original_createdAt": "2021-05-31T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "LiveMartは、任意のウェブサイト、モバイルアプリ、IoTデバイス、POSなどに接続するためのスケーラブルなGraphQLベースのeコマースAPIを提供します。",
+      "tagline": "グローバルブランドのためのヘッドレスなGraphQL eコマースAPI"
+    },
+    {
+      "locale": "zh",
+      "description": "LiveMart为您提供可扩展的基于GraphQL的电子商务API，以连接到任何网站、移动应用、物联网设备、POS等。",
+      "tagline": "为全球品牌提供无头的GraphQL电商API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "LiveMart爲您提供可擴展的基於GraphQL的電子商務API，以連接到任何網站、移動應用、物聯網設備、POS等。",
+      "tagline": "爲全球品牌提供無頭的GraphQL電商API"
+    }
+  ]
 }
