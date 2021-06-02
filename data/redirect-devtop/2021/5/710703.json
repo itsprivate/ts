@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-28T00:25:44Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lT1mgYzG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h0y0cf2fj9m16wpv7y2n.jpg",
   "author": "Lupita Code 🌄",
-  "author_url": "https://dev.to/lupitacode"
+  "author_url": "https://dev.to/lupitacode",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "美しい皆さん、こんにちは！👋 今回の記事では、displayプロパティとその値の違いについて説明します。",
+      "title": "CSSのdisplayプロパティ"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，美丽的人们！ 👋 在这篇文章中，我将解释关于显示属性和不同的价值。",
+      "title": "CSS中的显示属性"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，美麗的人們！ 👋 在這篇文章中，我將解釋關於顯示屬性和不同的價值。",
+      "title": "CSS中的顯示屬性"
+    }
+  ]
 }

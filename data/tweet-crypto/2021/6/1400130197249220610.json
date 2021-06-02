@@ -214,5 +214,22 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Wed Jun 02 16:40:26 +0000 2021"
+  "original_created_at": "Wed Jun 02 16:40:26 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @DeItaone: Google - 8月3日より、米国を対象とした暗号通貨取引所やワレットを提供する広告主は、製品の広告を出すことができます。",
+      "retweeted_status_full_text": "Google - 8月3日より、米国を対象とした暗号通貨取引所やワレットを提供する広告主は、製品やサービスの広告を出すことができるようになりました。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @DeItaone: GOOGLE - 从8月3日开始，提供CRYPTOCURRENCY Exchange &amp; WALLETS的广告商可以针对美国的产品进行广告。",
+      "retweeted_status_full_text": "GOOGLE - 从8月3日开始，提供加密货币交易所和加密货币钱包的广告商可以在美国进行产品和服务广告。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @DeItaone: GOOGLE - 從8月3日開始，提供CRYPTOCURRENCY Exchange &amp; WALLETS的廣告商可以針對美國的產品進行廣告。",
+      "retweeted_status_full_text": "GOOGLE - 從8月3日開始，提供加密貨幣交易所和加密貨幣錢包的廣告商可以在美國進行產品和服務廣告。"
+    }
+  ]
 }
