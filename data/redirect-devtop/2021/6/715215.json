@@ -52,5 +52,22 @@
   "original_created_at": "2021-06-01T14:39:13Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VGkjsigK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ac5fhv0dfxtcd90apxgq.jpg",
   "author": "Michael Haberman",
-  "author_url": "https://dev.to/habmic"
+  "author_url": "https://dev.to/habmic",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "マイクロサービス・アプリケーションは、メッセージングと非同期通信に大きく依存しており、すべてのものが...",
+      "title": "メッセージブローカーの選択 Kafka vs RabbitMQ vs AWS SQS/SNS"
+    },
+    {
+      "locale": "zh",
+      "description": "微服务应用程序在很大程度上依赖于消息传递和异步通信，以保持每一个细节。",
+      "title": "选择一个消息代理。Kafka vs RabbitMQ vs AWS SQS/SNS"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "微服務應用程序在很大程度上依賴於消息傳遞和異步通信，以保持每一個細節。",
+      "title": "選擇一個消息代理。Kafka vs RabbitMQ vs AWS SQS/SNS"
+    }
+  ]
 }

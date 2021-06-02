@@ -52,5 +52,22 @@
   "original_created_at": "2021-05-29T00:00:54Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hOzIum5V--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8dwj2osrn90ytre8f3x.jpeg",
   "author": "Ryan Carniato",
-  "author_url": "https://dev.to/ryansolid"
+  "author_url": "https://dev.to/ryansolid",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "2017年にTom Daleは、「Compilers are the New Frameworks」と書きました。そして彼は正しかった。2017年には、物事は alrea...",
+      "title": "JavaScriptフレームワークにおけるコンパイルの考察"
+    },
+    {
+      "locale": "zh",
+      "description": "2017年，汤姆-戴尔，写了《编译器是新的框架》。而他是对的。在2017年的时候，事情还没有结束。",
+      "title": "看一下JavaScript框架中的编译"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "2017年，湯姆-戴爾，寫了《編譯器是新的框架》。而他是對的。在2017年的時候，事情還沒有結束。",
+      "title": "看一下JavaScript框架中的編譯"
+    }
+  ]
 }
