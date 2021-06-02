@@ -168,5 +168,19 @@
   },
   "is_video": false,
   "original_created_utc": 1622569469,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Twitchでビットコイン寄付、Lightning経由で！？LNbitsを使って、Lightningによる寄付を静的なQRコードに統合することができました。寄付がきっかけでStreamlabs経由でアラートが表示されます。すべて非親告罪！？未来はやってくる。"
+    },
+    {
+      "locale": "zh",
+      "title": "Twitch上的比特币捐款，通过Lightning! 我已经设法用LNbits将Lightning捐款与静态二维码整合起来。捐款通过Streamlabs触发了一个警报。所有的非监护人! 未来即将到来。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Twitch上的比特幣捐款，通過Lightning! 我已經設法用LNbits將Lightning捐款與靜態二維碼整合起來。捐款通過Streamlabs觸發了一個警報。所有的非監護人! 未來即將到來。"
+    }
+  ]
 }
