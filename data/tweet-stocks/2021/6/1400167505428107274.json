@@ -110,5 +110,19 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Wed Jun 02 19:08:41 +0000 2021"
+  "original_created_at": "Wed Jun 02 19:08:41 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "AMCの時価総額は330億ドルで、年初来の70倍となり、S&P500の260社を上回っています。AMC"
+    },
+    {
+      "locale": "zh",
+      "full_text": "AMC的市值为330亿美元，比年初时大了70倍，现在超过了S&amp;P 500的260家公司。$AMC"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "AMC的市值爲330億美元，比年初時大了70倍，現在超過了S&amp;P 500的260家公司。$AMC"
+    }
+  ]
 }
