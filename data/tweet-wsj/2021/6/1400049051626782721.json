@@ -223,5 +223,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Wed Jun 02 11:18:00 +0000 2021"
+  "original_created_at": "Wed Jun 02 11:18:00 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "ブラジルに本社を置く世界最大の食肉会社JBSは、ランサムウェアによる攻撃を受けました。これにより、すでに緊張状態にある食のサプライチェーンへの圧力が高まり、消費者価格の上昇につながる可能性があります。 #WSJWhatsNow https://t.co/QTQgSAtCGx"
+    },
+    {
+      "locale": "zh",
+      "full_text": "总部位于巴西的JBS公司是世界上销售额最大的肉类公司，受到勒索软件的攻击，使已经处于紧张状态的食品供应链面临更大压力，并可能导致消费者价格上涨#WSJWhatsNow https://t.co/QTQgSAtCGx"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "總部位於巴西的JBS公司是世界上銷售額最大的肉類公司，受到勒索軟件的攻擊，使已經處於緊張狀態的食品供應鏈面臨更大壓力，並可能導致消費者價格上漲#WSJWhatsNow https://t.co/QTQgSAtCGx"
+    }
+  ]
 }

@@ -50,5 +50,22 @@
   "original_created_at": "2021-06-01T10:33:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1FdrsqBW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cqh8ku74hk9yfc8507gl.jpg",
   "author": "Emojipedia",
-  "author_url": "https://dev.to/emojipedia"
+  "author_url": "https://dev.to/emojipedia",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コピーして他のサイトやアプリに貼り付けられる絵文字の記号を👀探していませんか❓ オンラインで⌨️絵...",
+      "title": "絵文字のコピー＆ペースト ✂ 👍"
+    },
+    {
+      "locale": "zh",
+      "description": "你是否在寻找👀可以复制和粘贴到其他网站或应用程序的表情符号❓ 在线⌨️表情符号。",
+      "title": "复制和粘贴表情符号 ✂ 👍"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你是否在尋找👀可以複製和粘貼到其他網站或應用程序的表情符號❓ 在線⌨️表情符號。",
+      "title": "複製和粘貼表情符號 ✂ 👍"
+    }
+  ]
 }
