@@ -77,5 +77,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-02T07:17:54Z"
+  "original_createdAt": "2021-06-02T07:17:54Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "react-nice-avatarは、ユーザーのためのアバターを簡単に生成することができます。",
+      "tagline": "アバターを生成するReactコンポーネント"
+    },
+    {
+      "locale": "zh",
+      "description": "react-nic-avatar可以不费吹灰之力就为你的用户生成一个头像。",
+      "tagline": "用于生成头像的React组件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "react-nic-avatar可以不費吹灰之力就爲你的用戶生成一個頭像。",
+      "tagline": "用於生成頭像的React組件"
+    }
+  ]
 }

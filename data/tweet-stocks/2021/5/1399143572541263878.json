@@ -275,5 +275,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Sun May 30 23:19:57 +0000 2021"
+  "original_created_at": "Sun May 30 23:19:57 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "$MSTR\n https://t.co/g0mjfeheNB"
+    },
+    {
+      "locale": "zh",
+      "full_text": "$MSTR\n https://t.co/g0mjfeheNB"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "$MSTR\n https://t.co/g0mjfeheNB"
+    }
+  ]
 }
