@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-28T15:38:01Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UqMjDY1p--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ooanxer8epdlz0b0s8q5.jpg",
   "author": "Chinwike Maduabuchi",
-  "author_url": "https://dev.to/chinwike"
+  "author_url": "https://dev.to/chinwike",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Redux Toolkit（以降、RTKと呼ぶ）は、Reduxのエコシステムを大幅に改善するものです。",
+      "title": "Redux Toolkitアプリケーションでのロジックの分離"
+    },
+    {
+      "locale": "zh",
+      "description": "Redux Toolkit（此后，我将称为RTK）是对Redux生态系统的一个巨大改进。",
+      "title": "在你的Redux工具包应用程序中分离逻辑"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Redux Toolkit（此後，我將稱爲RTK）是對Redux生態系統的一個巨大改進。",
+      "title": "在你的Redux工具包應用程序中分離邏輯"
+    }
+  ]
 }
