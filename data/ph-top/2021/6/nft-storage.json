@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-01T19:24:30Z"
+  "original_createdAt": "2021-06-01T19:24:30Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "nft.storageは、オフチェーンのNFTデータを保存するために特別に作られた、全く新しいサービスです。データはIPFSとFilecoinに分散して保存されます。",
+      "tagline": "NFTの無料ストレージ"
+    },
+    {
+      "locale": "zh",
+      "description": "nft.storage是一项全新的服务，专门用于存储链外NFT数据。数据被分散地存储在IPFS和Filecoin上。",
+      "tagline": "NFT的免费存储"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "nft.storage是一項全新的服務，專門用於存儲鏈外NFT數據。數據被分散地存儲在IPFS和Filecoin上。",
+      "tagline": "NFT的免費存儲"
+    }
+  ]
 }
