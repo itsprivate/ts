@@ -41,5 +41,22 @@
   "original_created_at": "2021-05-31T17:45:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dxzGm40S--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0dl6ixkhlmogd424mwxu.png",
   "author": "Ishant Gaurav",
-  "author_url": "https://dev.to/ishant14"
+  "author_url": "https://dev.to/ishant14",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "システム設計の話をしたり、大きなMircoservice Architectureの図を見たりすると、そこには...",
+      "title": "マイクロサービスパターン：APIゲートウェイ"
+    },
+    {
+      "locale": "zh",
+      "description": "当我们谈论系统设计或看到那些大的Mircoservice架构图时，有一个...",
+      "title": "微服务模式：API网关"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當我們談論系統設計或看到那些大的Mircoservice架構圖時，有一個...",
+      "title": "微服務模式：API網關"
+    }
+  ]
 }

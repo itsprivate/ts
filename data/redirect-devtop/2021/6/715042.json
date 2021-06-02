@@ -43,5 +43,22 @@
   "original_created_at": "2021-06-01T12:53:32Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--F2RRta4a--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thevaluable.dev/images/2021/02_vim_advanced/vim-advanced.jpg",
   "author": "Matthieu Cneude",
-  "author_url": "https://dev.to/phantas0s"
+  "author_url": "https://dev.to/phantas0s",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今回は、Vimを使いこなすための道を歩み続け、生産性を向上させるVimの優れた機能を紹介します。",
+      "title": "上級者のためのVimガイド"
+    },
+    {
+      "locale": "zh",
+      "description": "我们继续走在通往Vim大师的道路上，回顾疯狂的Vim功能，这些功能将进一步提高你的生产力。",
+      "title": "给高级用户的Vim指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們繼續走在通往Vim大師的道路上，回顧瘋狂的Vim功能，這些功能將進一步提高你的生產力。",
+      "title": "給高級用戶的Vim指南"
+    }
+  ]
 }

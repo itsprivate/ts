@@ -88,5 +88,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-02T07:01:00Z"
+  "original_createdAt": "2021-06-02T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Process Street Automationsは、重要なワークアプリをまとめて、チームの最も重要なプロセスを推進します。自動化を支えるのは、Salesforce、Jira、Slack、DocuSign、Google Sheetsとの新しいネイティブ統合セットです。Salesforce、Jira、Slack、DocuSign、Google Sheets。",
+      "tagline": "オートメーションでSlack、Jira、Salesforceなどをレベルアップ"
+    },
+    {
+      "locale": "zh",
+      "description": "Process Street Automations将你的关键工作应用结合起来，以推动你的团队最重要的流程。自动化的动力是一套新的本地集成。Salesforce, Jira, Slack, DocuSign, & Google Sheets.",
+      "tagline": "用自动化提升Slack、Jira、Salesforce等的水平"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Process Street Automations將你的關鍵工作應用結合起來，以推動你的團隊最重要的流程。自動化的動力是一套新的本地集成。Salesforce, Jira, Slack, DocuSign, & Google Sheets.",
+      "tagline": "用自動化提升Slack、Jira、Salesforce等的水平"
+    }
+  ]
 }

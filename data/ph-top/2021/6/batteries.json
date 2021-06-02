@@ -77,5 +77,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-02T07:03:41Z"
+  "original_createdAt": "2021-06-02T07:03:41Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "iPhone、iPad、Apple Watch、Macのバッテリーを、すべてのデバイスで同時にトラッキングできます。あなたのデバイスに内蔵されているトラッキング技術を利用するので、バッテリーレベルは信頼できます。",
+      "tagline": "すべてのデバイスのバッテリー残量を把握"
+    },
+    {
+      "locale": "zh",
+      "description": "在每个设备上同时追踪你的iPhone、iPad、Apple Watch和Mac的电池。电池水平是可靠的，因为它使用了你的设备中内置的跟踪技术。",
+      "tagline": "追踪所有设备的电池水平"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在每個設備上同時追蹤你的iPhone、iPad、Apple Watch和Mac的電池。電池水平是可靠的，因爲它使用了你的設備中內置的跟蹤技術。",
+      "tagline": "追蹤所有設備的電池水平"
+    }
+  ]
 }
