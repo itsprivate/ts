@@ -87,5 +87,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-02T07:03:18Z"
+  "original_createdAt": "2021-06-02T07:03:18Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Form to Notionでは、Google Formを使ってNotion Tableにエントリを追加することができます。📝 Notion Tableに合ったFormを作成することができます。📌 このアドオンは、Google Form の改良版を Notion ページ内に埋め込むこともできます。",
+      "tagline": "GoogleフォームでNotionをパワーアップ"
+    },
+    {
+      "locale": "zh",
+      "description": "Form to Notion可以帮助你使用Google Form向Notion Table添加条目。📝 创建符合你的Notion表的表格。📌 该插件还可以帮助你在Notion页面中嵌入更好的Google Form版本。",
+      "tagline": "用谷歌表格为Notion增效"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Form to Notion可以幫助你使用Google Form向Notion Table添加條目。📝 創建符合你的Notion表的表格。📌 該插件還可以幫助你在Notion頁面中嵌入更好的Google Form版本。",
+      "tagline": "用谷歌表格爲Notion增效"
+    }
+  ]
 }
