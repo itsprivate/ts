@@ -43,5 +43,22 @@
   "original_created_at": "2021-06-02T04:45:53Z",
   "image": "https://dev.to/social_previews/article/715643.png",
   "author": "Siddharth",
-  "author_url": "https://dev.to/siddharthshyniben"
+  "author_url": "https://dev.to/siddharthshyniben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Virtual DOM (およびShadow DOM)について聞いたことがあるかもしれません。使ったこともあるかもしれません（JSXは...",
+      "title": "Virtual DOMとは？(作ってみよう！)"
+    },
+    {
+      "locale": "zh",
+      "description": "你可能听说过虚拟DOM（也包括影子DOM）。你甚至可能使用过它（JSX是...",
+      "title": "什么是虚拟DOM？(让我们来建造它！)"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你可能聽說過虛擬DOM（也包括影子DOM）。你甚至可能使用過它（JSX是...",
+      "title": "什麼是虛擬DOM？(讓我們來建造它！)"
+    }
+  ]
 }
