@@ -137,5 +137,19 @@
   },
   "is_video": true,
   "original_created_utc": 1622663216,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ショーの内容は"
+    },
+    {
+      "locale": "zh",
+      "title": "该节目是在"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "該節目是在"
+    }
+  ]
 }
