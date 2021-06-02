@@ -124,5 +124,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Wed Jun 02 05:30:06 +0000 2021"
+  "original_created_at": "Wed Jun 02 05:30:06 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "@WSJopinionより。Joe Bidenはテキサス州の選挙制度改革案を「民主主義への攻撃」と主張している。事実はそうではありません。https://t.co/gjIdLIBYIP"
+    },
+    {
+      "locale": "zh",
+      "full_text": "来自@WSJopinion。乔-拜登声称德克萨斯州的选举改革提案是 \"对民主的攻击\"。事实证明并非如此。https://t.co/gjIdLIBYIP"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "來自@WSJopinion。喬-拜登聲稱德克薩斯州的選舉改革提案是 \"對民主的攻擊\"。事實證明並非如此。https://t.co/gjIdLIBYIP"
+    }
+  ]
 }
