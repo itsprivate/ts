@@ -244,5 +244,22 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Thu Jun 03 00:16:33 +0000 2021"
+  "original_created_at": "Thu Jun 03 00:16:33 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @Bitcoinschurch: ケベック州では、1つの水力発電所が36GW以上の電力を生産しており、そのほとんどが未使用だと言うことですね。~このうち1/6～1/3は...",
+      "retweeted_status_full_text": "つまり、ケベック州では、1つの水力発電所が36GW以上の電力を生産しており、この電力のほとんどが未使用だということです。~この未使用電力の約1/6～1/3は、#ビットコインネットワーク全体を動かすことができます。エネルギーの偽装はやめるべきだ。全くもって馬鹿げています。@adam3usと@100trillionUSDが@PrestonPyshに登場。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @Bitcoinschurch: 所以在魁北克，你告诉我一个水力发电站产生了36+GW的电力，而这些电力大部分都没有被使用。~其中约1/6-1/3的电力没有被使用。",
+      "retweeted_status_full_text": "所以，在魁北克，你告诉我一个水力发电站产生了3600多万千瓦的电力，而这些电力的大部分都没有被使用。~这些未使用的电力的1/6-1/3可以运行整个#比特币网络。能源骗局需要停止。绝对是荒谬的。@adam3us and @100trillionUSD on @PrestonPysh ."
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @Bitcoinschurch: 所以在魁北克，你告訴我一個水力發電站產生了36+GW的電力，而這些電力大部分都沒有被使用。~其中約1/6-1/3的電力沒有被使用。",
+      "retweeted_status_full_text": "所以，在魁北克，你告訴我一個水力發電站產生了3600多萬千瓦的電力，而這些電力的大部分都沒有被使用。~這些未使用的電力的1/6-1/3可以運行整個#比特幣網絡。能源騙局需要停止。絕對是荒謬的。@adam3us and @100trillionUSD on @PrestonPysh ."
+    }
+  ]
 }

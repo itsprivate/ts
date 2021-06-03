@@ -92,5 +92,19 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Wed Jun 02 19:48:34 +0000 2021"
+  "original_created_at": "Wed Jun 02 19:48:34 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "今は、各社が「マルチシネマ」を冠するサイクルに入っています。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "我们正处于公司开始在其名称中加入 \"多影院 \"的周期点。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "我們正處於公司開始在其名稱中加入 \"多影院 \"的週期點。"
+    }
+  ]
 }

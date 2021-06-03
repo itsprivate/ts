@@ -111,5 +111,19 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Wed Jun 02 16:45:08 +0000 2021"
+  "original_created_at": "Wed Jun 02 16:45:08 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "12/31/20のマーケットキャップ\n\nAMC 4億7500万ドル\nGamestop社 13億ドル\n\n今日のマーケットキャップ\n\nAMC 250億ドル\nゲームストップ社 193億ドル"
+    },
+    {
+      "locale": "zh",
+      "full_text": "20年12月31日的市值。\n\nAMC 4.75亿美元\nGamestop 13亿美元\n\n今天的市值。\n\nAMC 250亿美元\nGamestop 19.3亿美元"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "20年12月31日的市值。\n\nAMC 4.75億美元\nGamestop 13億美元\n\n今天的市值。\n\nAMC 250億美元\nGamestop 19.3億美元"
+    }
+  ]
 }
