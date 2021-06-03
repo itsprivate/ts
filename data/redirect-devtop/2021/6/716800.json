@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-03T06:34:26Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--72UIPqEz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lio12yfvz0gbqt0fkmyt.jpg",
   "author": "Dragos Nedelcu",
-  "author_url": "https://dev.to/dragosgn"
+  "author_url": "https://dev.to/dragosgn",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これはあなたにとって身近なことでしょうか？  もしあなたがコーダー、プログラマー、ソフトウェア開発者であれば、...",
+      "title": "エンドレスなオンラインコースや何年も待つことなく、エキスパート・ソフトウェア・エンジニアになるための7つのステップ..."
+    },
+    {
+      "locale": "zh",
+      "description": "这对你来说听起来很熟悉吗？  如果你是一个编码员、程序员或软件开发人员，那么...",
+      "title": "成为专家级软件工程师的7个步骤，无需无休止的在线课程或等待多年..."
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這對你來說聽起來很熟悉嗎？  如果你是一個編碼員、程序員或軟件開發人員，那麼...",
+      "title": "成爲專家級軟件工程師的7個步驟，無需無休止的在線課程或等待多年..."
+    }
+  ]
 }
