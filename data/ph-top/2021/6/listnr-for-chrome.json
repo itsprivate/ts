@@ -67,5 +67,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-03T07:04:14Z"
+  "original_createdAt": "2021-06-03T07:04:14Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Listnr for Chromeでは、インターネット上のお気に入りのコンテンツをPodcastに変換して聴くことができます。",
+      "tagline": "ワンクリックで記事を音声化"
+    },
+    {
+      "locale": "zh",
+      "description": "Listnr for Chrome允许你通过将书面内容转换为播客，在互联网上收听你喜欢的内容。",
+      "tagline": "只需一次点击就能将你的文章转换为音频"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Listnr for Chrome允許你通過將書面內容轉換爲播客，在互聯網上收聽你喜歡的內容。",
+      "tagline": "只需一次點擊就能將你的文章轉換爲音頻"
+    }
+  ]
 }
