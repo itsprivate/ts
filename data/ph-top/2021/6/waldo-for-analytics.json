@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-03T07:30:00Z"
+  "original_createdAt": "2021-06-03T07:30:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "自動化された信頼性の高い方法で、分析イベントをテストすることができます。",
+      "tagline": "No-codeを使ってモバイルアプリの分析を検査・テストする"
+    },
+    {
+      "locale": "zh",
+      "description": "以自动、可靠的方式测试你的分析事件!",
+      "tagline": "用No-code检查和测试你的移动应用分析能力"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "以自動、可靠的方式測試你的分析事件!",
+      "tagline": "用No-code檢查和測試你的移動應用分析能力"
+    }
+  ]
 }
