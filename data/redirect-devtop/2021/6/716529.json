@@ -43,5 +43,22 @@
   "original_created_at": "2021-06-02T22:15:38Z",
   "image": "https://dev.to/social_previews/article/716529.png",
   "author": "Mohmed Ishak",
-  "author_url": "https://dev.to/ishakmohmed"
+  "author_url": "https://dev.to/ishakmohmed",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、Reactのエンジニアの皆さん。この記事では、Reactで知っておくべき4つの最も重要なフックについて説明します...",
+      "title": "React Hooks (useContext, useEffect, useState, useRef) Summarized Like Crazy (Short & Concise Article)です。"
+    },
+    {
+      "locale": "zh",
+      "description": "嘿，React的工程师们! 在这篇文章中，我将解释在React中你需要知道的4个最重要的钩子。",
+      "title": "React Hooks（useContext、useEffect、useState、useRef）的疯狂总结（短小精悍的文章）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嘿，React的工程師們! 在這篇文章中，我將解釋在React中你需要知道的4個最重要的鉤子。",
+      "title": "React Hooks（useContext、useEffect、useState、useRef）的瘋狂總結（短小精悍的文章）。"
+    }
+  ]
 }
