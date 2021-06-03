@@ -39,5 +39,22 @@
   "original_created_at": "2021-06-02T07:47:33Z",
   "image": "https://dev.to/social_previews/article/715767.png",
   "author": "Josh Lee",
-  "author_url": "https://dev.to/jleewebdev"
+  "author_url": "https://dev.to/jleewebdev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、ジョシュです。最近、私はRuby on RailsとReac...でプロジェクトを構築する方法を紹介しています。",
+      "title": "メディアクエリに大量のコードを記述することなく、瞬時にサイトをレスポンシブにするシンプルなCSSトリック"
+    },
+    {
+      "locale": "zh",
+      "description": "嘿，我是Josh。最近，我一直在向你展示如何用Ruby on Rails和Reac...",
+      "title": "一个简单的CSS技巧可以让网站立即响应，而无需在媒体查询中使用大量的代码"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嘿，我是Josh。最近，我一直在向你展示如何用Ruby on Rails和Reac...",
+      "title": "一個簡單的CSS技巧可以讓網站立即響應，而無需在媒體查詢中使用大量的代碼"
+    }
+  ]
 }
