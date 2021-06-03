@@ -83,5 +83,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-03T07:01:00Z"
+  "original_createdAt": "2021-06-03T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Castyrは、新しいソーシャル・ポッドキャスティング＆リスニング・プラットフォームです。最大5分間の音声をスニップして注釈を付け、コミュニティフィードで共有し、フォロー可能なプロフィール上でカスタマイズ可能なコレクションに整理することができます。TikTokとGoodreadsがポッドキャストの赤ちゃんを産んだようなものです。",
+      "tagline": "TikTokとGoodreadsの間にポッドキャストの赤ちゃんができたように"
+    },
+    {
+      "locale": "zh",
+      "description": "Castyr是一个新的社交播客和收听平台。剪下并注释长达5分钟的音频，在社区馈送中分享，并在你的可关注档案中组织成可定制的收藏。这就像TikTok和Goodreads有一个播客宝宝。",
+      "tagline": "就像TikTok和Goodreads有一个播客宝宝一样"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Castyr是一個新的社交播客和收聽平臺。剪下並註釋長達5分鐘的音頻，在社區饋送中分享，並在你的可關注檔案中組織成可定製的收藏。這就像TikTok和Goodreads有一個播客寶寶。",
+      "tagline": "就像TikTok和Goodreads有一個播客寶寶一樣"
+    }
+  ]
 }
