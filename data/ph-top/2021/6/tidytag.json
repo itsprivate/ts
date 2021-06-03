@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-03T07:57:04Z"
+  "original_createdAt": "2021-06-03T07:57:04Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "LinkedInは面倒くさい。そしてそれは、接続数が増えれば増えるほど悪化する。コネクションをセグメント化する便利な方法はありません。TidyTagがあれば大丈夫です。あなたのLinkedInを今すぐセグメント化しましょう",
+      "tagline": "カスタムタグでLinkedInコネクションをセグメント化"
+    },
+    {
+      "locale": "zh",
+      "description": "LinkedIn是混乱的。而且随着连接越来越多，情况会越来越糟。你没有任何方便的方法来划分你的连接。🏷有了TidyTag就不一样了。现在就对你的LinkedIn进行分类吧!",
+      "tagline": "用自定义标签对你的LinkedIn联系人进行分类"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "LinkedIn是混亂的。而且隨着連接越來越多，情況會越來越糟。你沒有任何方便的方法來劃分你的連接。🏷有了TidyTag就不一樣了。現在就對你的LinkedIn進行分類吧!",
+      "tagline": "用自定義標籤對你的LinkedIn聯繫人進行分類"
+    }
+  ]
 }
