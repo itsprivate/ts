@@ -43,5 +43,22 @@
   "original_created_at": "2021-06-02T07:42:42Z",
   "image": "https://dev.to/social_previews/article/715762.png",
   "author": "Gareth McCumskey",
-  "author_url": "https://dev.to/garethmcc"
+  "author_url": "https://dev.to/garethmcc",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "サーバーレスアプリケーションを構築する際にローカルで開発することは、面倒で大変なだけでなく、実は体にも良くありません。",
+      "title": "サーバーレスのローカル開発がアンチパターンである理由"
+    },
+    {
+      "locale": "zh",
+      "description": "在构建无服务器应用程序时，在本地开发不仅令人厌烦，而且很难做到，实际上对你不利。",
+      "title": "为什么无服务器的本地开发是一种反模式？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在構建無服務器應用程序時，在本地開發不僅令人厭煩，而且很難做到，實際上對你不利。",
+      "title": "爲什麼無服務器的本地開發是一種反模式？"
+    }
+  ]
 }
