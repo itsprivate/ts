@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-03T16:37:51Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VqTBT07d--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/im63g9n740fswjwdmgm8.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この度、ForemのiOSアプリがApp Storeに登場しましたので、お知らせします。入りたい...",
+      "title": "Forem社によるモバイルでの分散型ソーシャルメディアへの取り組み"
+    },
+    {
+      "locale": "zh",
+      "description": "我们很高兴地告诉你，Forem的iOS应用程序现在已经在App Store上线。我想进入...",
+      "title": "Forem对移动端去中心化社交媒体的做法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們很高興地告訴你，Forem的iOS應用程序現在已經在App Store上線。我想進入...",
+      "title": "Forem對移動端去中心化社交媒體的做法"
+    }
+  ]
 }

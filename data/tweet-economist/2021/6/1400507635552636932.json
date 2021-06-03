@@ -530,5 +530,22 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Thu Jun 03 17:40:15 +0000 2021"
+  "original_created_at": "Thu Jun 03 17:40:15 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @sarahmaslin: ここにあります。\n\nhttps://t.co/CXwdMjc9or https://t.co/jAvMdDJuUd https://t.co/0ZgOhv21Ef",
+      "retweeted_status_full_text": "ここにあります。\n\nhttps://t.co/CXwdMjc9or https://t.co/jAvMdDJuUd https://t.co/0ZgOhv21Ef"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @sarahmaslin: 在这里，它是。\n\nhttps://t.co/CXwdMjc9or https://t.co/jAvMdDJuUd https://t.co/0ZgOhv21Ef",
+      "retweeted_status_full_text": "在这里，它是。\n\nhttps://t.co/CXwdMjc9or https://t.co/jAvMdDJuUd https://t.co/0ZgOhv21Ef"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @sarahmaslin: 在這裏，它是。\n\nhttps://t.co/CXwdMjc9or https://t.co/jAvMdDJuUd https://t.co/0ZgOhv21Ef",
+      "retweeted_status_full_text": "在這裏，它是。\n\nhttps://t.co/CXwdMjc9or https://t.co/jAvMdDJuUd https://t.co/0ZgOhv21Ef"
+    }
+  ]
 }

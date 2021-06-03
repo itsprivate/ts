@@ -52,5 +52,22 @@
   "original_created_at": "2021-05-26T20:42:38Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Sj9mdu65--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/05xylqzo4i052gscy89g.png",
   "author": "Peter Kim Frank",
-  "author_url": "https://dev.to/peter"
+  "author_url": "https://dev.to/peter",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "新しいForemアプリをApp Storeでダウンロードする",
+      "title": "iOS版Foremが登場! ✨ "
+    },
+    {
+      "locale": "zh",
+      "description": "在App Store下载新的Forem应用程序",
+      "title": "Forem for iOS is here! ✨ "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在App Store下載新的Forem應用程序",
+      "title": "Forem for iOS is here! ✨ "
+    }
+  ]
 }

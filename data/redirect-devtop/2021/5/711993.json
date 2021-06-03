@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-29T10:02:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JszVhDtd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rd3omc5vp71r5k9z69b4.png",
   "author": "Eric Chapman",
-  "author_url": "https://dev.to/ericchapman"
+  "author_url": "https://dev.to/ericchapman",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Next.jsとは何ですか？ Reactによるフロントエンド開発のためのWebフレームワークで、次のような機能を実現します。",
+      "title": "Next.js ビギナーズガイド"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是Next.js？ 它是一个React前端开发网络框架，能够实现诸如...",
+      "title": "Next.js初学者指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是Next.js？ 它是一個React前端開發網絡框架，能夠實現諸如...",
+      "title": "Next.js初學者指南"
+    }
+  ]
 }
