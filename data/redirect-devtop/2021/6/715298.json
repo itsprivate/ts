@@ -35,5 +35,22 @@
   "original_created_at": "2021-06-01T17:28:37Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zy7YTTq_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e4vudyzwu51aeqdsx386.png",
   "author": "Erika Heidi",
-  "author_url": "https://dev.to/erikaheidi"
+  "author_url": "https://dev.to/erikaheidi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このガイドでは、PHPとPHP-GDライブラリを使って、Twitterのカバー画像を動的に更新し、最新のTwitterフォロワー数を表示するCLIスクリプトを作成する方法をご紹介します。",
+      "title": "PHP GDとTwitterOAuthを使ってTwitterのカバー画像を動的に更新し、最新のフォロワーを表示する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "在本指南中，你将学习如何使用PHP和PHP-GD库创建一个CLI脚本来动态更新你的Twitter封面图片以显示你最新的Twitter粉丝。",
+      "title": "如何使用PHP GD和TwitterOAuth动态更新Twitter封面图片以显示最新的关注人数"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在本指南中，你將學習如何使用PHP和PHP-GD庫創建一個CLI腳本來動態更新你的Twitter封面圖片以顯示你最新的Twitter粉絲。",
+      "title": "如何使用PHP GD和TwitterOAuth動態更新Twitter封面圖片以顯示最新的關注人數"
+    }
+  ]
 }
