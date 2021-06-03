@@ -102,5 +102,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-03T07:52:25Z"
+  "original_createdAt": "2021-06-03T07:52:25Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このShopifyプラグインを使うと、WhatsAppを介して潜在的な顧客に放棄されたカードの回収通知を自動的に送信し、顧客を喜ばせることができます。他にもWhatsAppでショッピングに関する最新情報を送信することができます。WhatsAppチャットウィジェットの追加。",
+      "tagline": "WhatsApp APIを利用して、カート放棄された収益を回収します。"
+    },
+    {
+      "locale": "zh",
+      "description": "这个Shopify插件允许您通过WhatsApp向您的潜在客户发送自动放弃卡恢复通知，并将他们变成满意的客户。您也可以在WhatsApp上发送其他购物相关的更新信息。添加WhatsApp聊天小工具。",
+      "tagline": "通过WhatsApp API恢复您的废弃购物车收入"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這個Shopify插件允許您通過WhatsApp向您的潛在客戶發送自動放棄卡恢復通知，並將他們變成滿意的客戶。您也可以在WhatsApp上發送其他購物相關的更新信息。添加WhatsApp聊天小工具。",
+      "tagline": "通過WhatsApp API恢復您的廢棄購物車收入"
+    }
+  ]
 }
