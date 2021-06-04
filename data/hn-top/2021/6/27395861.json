@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-06-04T17:06:33.000Z",
-  "image": "https://elixir-lang.org/images/cases/bg/mozilla-hubs.jpg"
+  "image": "https://elixir-lang.org/images/cases/bg/mozilla-hubs.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "MozillaでのElixirによるソーシャル・バーチャル・スペース"
+    },
+    {
+      "locale": "zh",
+      "title": "在Mozilla使用Elixir的社会虚拟空间"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在Mozilla使用Elixir的社會虛擬空間"
+    }
+  ]
 }
