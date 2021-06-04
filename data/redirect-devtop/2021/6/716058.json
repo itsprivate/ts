@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-02T13:43:52Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--on5cEtHT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/65k2ubmu3tpheyvz070b.jpg",
   "author": "Stackfindover",
-  "author_url": "https://dev.to/stackfindover"
+  "author_url": "https://dev.to/stackfindover",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは。この記事では、GASP S...を使ってシンプルなパララックス・スクロール効果を作成する方法をご紹介します。",
+      "title": "優れたパララックス・スクロール効果を作るには"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，在这篇文章中，我们将学习如何使用GASP S.A.C.创建简单的视差滚动效果。",
+      "title": "如何创建一个令人敬畏的视差滚动效果"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，在這篇文章中，我們將學習如何使用GASP S.A.C.創建簡單的視差滾動效果。",
+      "title": "如何創建一個令人敬畏的視差滾動效果"
+    }
+  ]
 }
