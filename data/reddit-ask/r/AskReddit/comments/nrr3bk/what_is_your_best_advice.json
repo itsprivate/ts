@@ -106,5 +106,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1622762956,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたのベストアドバイスをお願いします。"
+    },
+    {
+      "locale": "zh",
+      "title": "您的最佳建议是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "您的最佳建議是什麼？"
+    }
+  ]
 }
