@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-06-04T18:31:27.000Z",
-  "image": "https://binji.github.io/assets/2021-06-03-pokegb.gif"
+  "image": "https://binji.github.io/assets/2021-06-03-pokegb.gif",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Pokegb: ポケモン・ブルーだけを再生するゲームボーイ・エミュレータ、68行のC++で作成"
+    },
+    {
+      "locale": "zh",
+      "title": "Pokegb: 一个只播放神奇宝贝蓝色的游戏机模拟器，用68行C++语言编写。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Pokegb: 一個只播放神奇寶貝藍色的遊戲機模擬器，用68行C++語言編寫。"
+    }
+  ]
 }
