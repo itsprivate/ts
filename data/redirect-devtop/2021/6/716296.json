@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-02T16:25:47Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Uic5UMJp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ss31pimestylnup40fy8.gif",
   "author": "Jyotishman Saikia",
-  "author_url": "https://dev.to/jyotishman"
+  "author_url": "https://dev.to/jyotishman",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "子コンテナがスクロールすると、親コンテナがスクロールし始めるという現象を経験したことはありませんか？",
+      "title": "CSS Tip: スクロールチェイニングとは？"
+    },
+    {
+      "locale": "zh",
+      "description": "你是否经历过这样的行为，当父代容器开始滚动时，子代容器就开始滚动。",
+      "title": "CSS技巧。什么是滚动链？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你是否經歷過這樣的行爲，當父代容器開始滾動時，子代容器就開始滾動。",
+      "title": "CSS技巧。什麼是滾動鏈？"
+    }
+  ]
 }

@@ -52,5 +52,22 @@
   "original_created_at": "2021-06-02T22:23:04Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jJnqs8bH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lzm0zx5yx9ph0tjzcxsn.png",
   "author": "Ryan Thelin",
-  "author_url": "https://dev.to/ryanthelin"
+  "author_url": "https://dev.to/ryanthelin",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "分散アプリケーションは、現代のソフトウェア開発業界では欠かせない存在です。極めて重要な役割を果たしています...",
+      "title": "トップ5の分散システムデザインパターン"
+    },
+    {
+      "locale": "zh",
+      "description": "分布式应用是现代软件开发行业的主力军。它们对我们的工作至关重要。",
+      "title": "5大分布式系统设计模式"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "分佈式應用是現代軟件開發行業的主力軍。它們對我們的工作至關重要。",
+      "title": "5大分佈式系統設計模式"
+    }
+  ]
 }
