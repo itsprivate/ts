@@ -113,5 +113,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Fri Jun 04 09:01:11 +0000 2021"
+  "original_created_at": "Fri Jun 04 09:01:11 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "今年の5月10日時点でのパンデミックの死者数は、95％の確率で710万人から1270万人、中央値では1020万人と推定されています。https://t.co/FaV8cC7RtG"
+    },
+    {
+      "locale": "zh",
+      "full_text": "我们的超额死亡模型给出了95%的概率，即截至今年5月10日，大流行病的死亡人数在710万到1270万之间，中心估计为1020万，https://t.co/FaV8cC7RtG。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "我們的超額死亡模型給出了95%的概率，即截至今年5月10日，大流行病的死亡人數在710萬到1270萬之間，中心估計爲1020萬，https://t.co/FaV8cC7RtG。"
+    }
+  ]
 }
