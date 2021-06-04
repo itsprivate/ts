@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-30T14:33:32Z",
   "image": "https://dev.to/social_previews/article/712900.png",
   "author": "Pasca Vlad",
-  "author_url": "https://dev.to/pascavld"
+  "author_url": "https://dev.to/pascavld",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このスレッドに価値を見出した方は、私のツイートも楽しんでいただけると思いますので、ぜひフォローしてみてください。",
+      "title": "プロジェクトを作ってHTML、CSS、JavaScriptを学ぶために使える5つのリソース"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你在这个主题中发现了价值，你很可能也会喜欢我的推文，所以请确保你关注我...",
+      "title": "你可以利用5个资源，通过构建项目来学习HTML、CSS和JavaScript"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你在這個主題中發現了價值，你很可能也會喜歡我的推文，所以請確保你關注我...",
+      "title": "你可以利用5個資源，通過構建項目來學習HTML、CSS和JavaScript"
+    }
+  ]
 }
