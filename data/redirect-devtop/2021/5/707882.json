@@ -52,5 +52,22 @@
   "original_created_at": "2021-05-25T07:03:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LMRz7OBj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e1fuii5kt74wu9ttkq78.png",
   "author": "Michelle Mannering",
-  "author_url": "https://dev.to/mishmanners"
+  "author_url": "https://dev.to/mishmanners",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コマンドラインでGitを使っていますか？いつもパスワードを入力しなければならないことに気づいていますか？そうではなく...",
+      "title": "Gitを使うときにパスワードを入力しない方法"
+    },
+    {
+      "locale": "zh",
+      "description": "你在命令行上使用过Git吗？注意到你总是要输入密码了吗？不是...",
+      "title": "如何在使用Git时不输入密码"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你在命令行上使用過Git嗎？注意到你總是要輸入密碼了嗎？不是...",
+      "title": "如何在使用Git時不輸入密碼"
+    }
+  ]
 }
