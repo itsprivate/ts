@@ -53,5 +53,22 @@
   "original_created_at": "2021-05-25T18:59:58Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Rekt1qqE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g71kcnwxuqvebxfwxr4x.png",
   "author": "Gracie Gregory (she/her)",
-  "author_url": "https://dev.to/graciegregory"
+  "author_url": "https://dev.to/graciegregory",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この写真のキャプションを考えてみてください。",
+      "title": "DEV Community Caption Contest"
+    },
+    {
+      "locale": "zh",
+      "description": "帮助我们为这张照片想出最精彩的标题!",
+      "title": "DEV社区字幕大赛"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "幫助我們爲這張照片想出最精彩的標題!",
+      "title": "DEV社區字幕大賽"
+    }
+  ]
 }

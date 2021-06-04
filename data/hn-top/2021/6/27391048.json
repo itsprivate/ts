@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-06-04T06:02:48.000Z",
-  "image": "https://blog.golang.org/lib/godoc/images/go-logo-blue.svg"
+  "image": "https://blog.golang.org/lib/godoc/images/go-logo-blue.svg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Go: Fuzzingはベータ版に対応"
+    },
+    {
+      "locale": "zh",
+      "title": "去吧。嗡嗡声准备就绪"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "去吧。嗡嗡聲準備就緒"
+    }
+  ]
 }
