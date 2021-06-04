@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-03T08:37:07Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--s3C1mvup--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8ikh3opnlnawf4wq853m.gif",
   "author": "Suprabha",
-  "author_url": "https://dev.to/suprabhasupi"
+  "author_url": "https://dev.to/suprabhasupi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Webページはさまざまなセクションやコンポーネントで構成されていますが、それらをレスポンシブ化するためにCSSメ...",
+      "title": "CSSの未来 - コンテナクエリ"
+    },
+    {
+      "locale": "zh",
+      "description": "一个网页由不同的部分和组件组成，我们通过使用CSS手段使它们具有响应性。",
+      "title": "CSS的未来--容器查询"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個網頁由不同的部分和組件組成，我們通過使用CSS手段使它們具有響應性。",
+      "title": "CSS的未來--容器查詢"
+    }
+  ]
 }
