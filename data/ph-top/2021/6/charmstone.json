@@ -77,5 +77,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-04T07:01:00Z"
+  "original_createdAt": "2021-06-04T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "macOSのアプリケーションの起動と切り替えに空間記憶を使うと、驚くほどパフォーマンスが向上します。Charmstoneは、cmd+tabやDockをユニークかつシンプルにアレンジしたもので、あなたのワークフローに簡単に組み込むことができます。ドックを隠している場合は特に便利です。",
+      "tagline": "macOS用の素早いスイッチャーランチャー"
+    },
+    {
+      "locale": "zh",
+      "description": "在macOS中使用空间内存来启动和切换应用程序，会产生惊人的性能提升。Charmstone是对cmd+tab和dock的一种独特而简单的旋转，很容易融入你的工作流程。如果你隐藏了你的Dock，它就特别棒。",
+      "tagline": "为macOS提供更快速的切换启动器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在macOS中使用空間內存來啓動和切換應用程序，會產生驚人的性能提升。Charmstone是對cmd+tab和dock的一種獨特而簡單的旋轉，很容易融入你的工作流程。如果你隱藏了你的Dock，它就特別棒。",
+      "tagline": "爲macOS提供更快速的切換啓動器"
+    }
+  ]
 }

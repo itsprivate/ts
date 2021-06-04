@@ -111,5 +111,19 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Fri Jun 04 13:10:26 +0000 2021"
+  "original_created_at": "Fri Jun 04 13:10:26 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "最大のマクロ的逆風。\n\n株式：インフレの進行\n\n債券：インフレ率の上昇\n\nコモディティ - インフレ率の低下\n\n暗号-不安定な億万長者のつぶやき"
+    },
+    {
+      "locale": "zh",
+      "full_text": "最大的宏观逆风。\n\n股票 - 通货膨胀上升\n\n债券--通胀上升\n\n商品 - 通货膨胀下降\n\n加密货币--不稳定的亿万富翁的推文"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "最大的宏觀逆風。\n\n股票 - 通貨膨脹上升\n\n債券--通脹上升\n\n商品 - 通貨膨脹下降\n\n加密貨幣--不穩定的億萬富翁的推文"
+    }
+  ]
 }

@@ -14,5 +14,19 @@
   "tags": [
     "Fox News"
   ],
-  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/candle-lit-2.jpeg"
+  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/candle-lit-2.jpeg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "中国の天安門事件は、香港では禁止されているにもかかわらず、何百人もの人々によって記憶されています。"
+    },
+    {
+      "locale": "zh",
+      "title": "中国致命的天安门镇压，尽管有禁令，但在香港有数百人记得。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "中國致命的天安門鎮壓，儘管有禁令，但在香港有數百人記得。"
+    }
+  ]
 }
