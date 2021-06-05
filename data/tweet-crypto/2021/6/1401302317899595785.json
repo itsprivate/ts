@@ -224,5 +224,22 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Sat Jun 05 22:18:02 +0000 2021"
+  "original_created_at": "Sat Jun 05 22:18:02 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @DocumentingBTC: エルサルバドル🇸🇻、世界で初めて#Bitcoinをバランスシートに保有する国になる。",
+      "retweeted_status_full_text": "エルサルバドル🇸🇻、世界で初めて#ビットコインをバランスシートに保有する国に。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @DocumentingBTC: 萨尔瓦多🇸🇻将成为世界上第一个在其资产负债表上持有#比特币的国家。",
+      "retweeted_status_full_text": "萨尔瓦多🇸🇻成为世界上第一个在其资产负债表上持有#比特币的国家。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @DocumentingBTC: 薩爾瓦多🇸🇻將成爲世界上第一個在其資產負債表上持有#比特幣的國家。",
+      "retweeted_status_full_text": "薩爾瓦多🇸🇻成爲世界上第一個在其資產負債表上持有#比特幣的國家。"
+    }
+  ]
 }
