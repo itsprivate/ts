@@ -43,5 +43,22 @@
   "original_created_at": "2021-06-04T21:58:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2WONZiFO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2yawh4504dtwbn8d6xa6.jpg",
   "author": "Ivy Chen ",
-  "author_url": "https://dev.to/ivavay"
+  "author_url": "https://dev.to/ivavay",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "✨ What you're been making このチュートリアルでは、クロームの拡張機能を作る方法を説明します。",
+      "title": "javascriptでクロームの拡張機能を作る方法"
+    },
+    {
+      "locale": "zh",
+      "description": "✨ 你要做什么 在这个教程中，我将指导你如何用VCD制作一个Chrome扩展。",
+      "title": "如何用javascript制作一个chrome扩展"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "✨ 你要做什麼 在這個教程中，我將指導你如何用VCD製作一個Chrome擴展。",
+      "title": "如何用javascript製作一個chrome擴展"
+    }
+  ]
 }
