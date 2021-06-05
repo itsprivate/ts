@@ -43,5 +43,22 @@
   "original_created_at": "2021-06-04T17:12:56Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6Z4fRzaQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/psij81f333y7rujw74s1.png",
   "author": "Danial Dezfouli",
-  "author_url": "https://dev.to/danialdezfouli"
+  "author_url": "https://dev.to/danialdezfouli",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "React Hooksを使い始めたばかりの頃は、非同期のFunを使うと警告やバグが出ることに気づくかもしれません。",
+      "title": "💡 React Hooks: useEffectの中のasync関数"
+    },
+    {
+      "locale": "zh",
+      "description": "当你是React Hooks的新手时，你可能会注意到，如果你使用一个异步函数，你会得到警告和bug。",
+      "title": "💡 React Hooks: useEffect中的异步函数"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當你是React Hooks的新手時，你可能會注意到，如果你使用一個異步函數，你會得到警告和bug。",
+      "title": "💡 React Hooks: useEffect中的異步函數"
+    }
+  ]
 }
