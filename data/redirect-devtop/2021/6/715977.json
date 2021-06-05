@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-02T11:48:19Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zZKbE3bE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v97c5vpzyjjkt449okei.png",
   "author": "Techy Programmers",
-  "author_url": "https://dev.to/kunaal438"
+  "author_url": "https://dev.to/kunaal438",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは。私はクナールです。今日は、独自の右クリック操作を行う方法をご紹介します。",
+      "title": "素晴らしいカスタム右クリックオプション 純粋なCSSとJS"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，很高兴你在这里。我是kunaal，今天我们将看到如何制作我们自己的自定义右键操作。",
+      "title": "令人敬畏的自定义右键选项。纯粹的CSS和JS"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，很高興你在這裏。我是kunaal，今天我們將看到如何製作我們自己的自定義右鍵操作。",
+      "title": "令人敬畏的自定義右鍵選項。純粹的CSS和JS"
+    }
+  ]
 }

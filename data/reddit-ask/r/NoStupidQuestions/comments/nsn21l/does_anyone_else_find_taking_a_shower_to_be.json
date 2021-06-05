@@ -108,5 +108,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1622865292,
-  "the_new_excerpt": "I feel like I ran a mile each time."
+  "the_new_excerpt": "I feel like I ran a mile each time.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "毎回1マイルは走った気がします。",
+      "title": "誰もがシャワーを浴びることに疲れを感じています。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我感觉我每次都跑了一英里。",
+      "title": "还有人觉得洗澡是一件很累人的事吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我感覺我每次都跑了一英里。",
+      "title": "還有人覺得洗澡是一件很累人的事嗎？"
+    }
+  ]
 }

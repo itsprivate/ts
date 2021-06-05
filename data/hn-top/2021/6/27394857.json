@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-06-04T15:50:40.000Z",
-  "image": "https://blog.josephmorag.com/images/compiler-pipeline.png"
+  "image": "https://blog.josephmorag.com/images/compiler-pipeline.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "HaskellでのLLVM Micro Cコンパイラの実装"
+    },
+    {
+      "locale": "zh",
+      "title": "在Haskell中实现一个LLVM Micro C编译器"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在Haskell中實現一個LLVM Micro C編譯器"
+    }
+  ]
 }
