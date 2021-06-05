@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-04T11:58:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Evxd8CwE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g8maxfpn67poadkdjyr0.jpeg",
   "author": "Hiep Le",
-  "author_url": "https://dev.to/hieptl"
+  "author_url": "https://dev.to/hieptl",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "クリエーショナル・パターン - ビルダー・パターン   これは、私のシリーズ（23 GoF Design P...）の第3弾です。",
+      "title": "実際のプロジェクトを構築することでデザインパターンを習得する - Builder Pattern - Javascript"
+    },
+    {
+      "locale": "zh",
+      "description": "创造性模式--建造者模式。  这是我系列的第三部分（23个GoF设计方案）。",
+      "title": "通过构建真实项目掌握设计模式 - 构建者模式 - Javascript"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "創造性模式--建造者模式。  這是我係列的第三部分（23個GoF設計方案）。",
+      "title": "通過構建真實項目掌握設計模式 - 構建者模式 - Javascript"
+    }
+  ]
 }

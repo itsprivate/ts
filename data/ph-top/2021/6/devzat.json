@@ -98,5 +98,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-05T08:37:57Z"
+  "original_createdAt": "2021-06-05T08:37:57Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ターミナルから直接、SSHでチャットができます。無料でオープンソースです。github.com/quackduck/devzat。星をつけてください。",
+      "tagline": "ターミナルでSSHを使って他の開発者とチャットできる"
+    },
+    {
+      "locale": "zh",
+      "description": "通过SSH聊天，直接在终端上进行。免费和开放源代码：github.com/quackduck/devzat。给它一颗星!",
+      "tagline": "在你的终端中通过SSH与其他开发者聊天"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "通過SSH聊天，直接在終端上進行。免費和開放源代碼：github.com/quackduck/devzat。給它一顆星!",
+      "tagline": "在你的終端中通過SSH與其他開發者聊天"
+    }
+  ]
 }
