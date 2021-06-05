@@ -43,5 +43,22 @@
   "original_created_at": "2021-06-04T01:36:33Z",
   "image": "https://dev.to/social_previews/article/717561.png",
   "author": "Randy",
-  "author_url": "https://dev.to/djyde"
+  "author_url": "https://dev.to/djyde",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私は2021年4月にCusdisを作りました。これはオープンソースで軽量かつプライバシーに配慮したDisqusの代替システムです。I...",
+      "title": "Next.jsでSaaSを1週間で構築した方法"
+    },
+    {
+      "locale": "zh",
+      "description": "我在2021年4月建立了Cusdis，这是一个开源的、轻量级的、隐私友好的Disqus替代品。I...",
+      "title": "我如何在一周内用Next.js构建一个SaaS"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我在2021年4月建立了Cusdis，這是一個開源的、輕量級的、隱私友好的Disqus替代品。I...",
+      "title": "我如何在一週內用Next.js構建一個SaaS"
+    }
+  ]
 }
