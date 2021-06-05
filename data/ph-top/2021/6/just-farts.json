@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-05T07:01:00Z"
+  "original_createdAt": "2021-06-05T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "猫のおなら。⠀ それが狩りだ。⠀ 猫のおならです。",
+      "tagline": "ボタンを押すと、面白いおならの音がします。"
+    },
+    {
+      "locale": "zh",
+      "description": "猫放屁。⠀ 这就是狩猎。⠀ 猫放屁。",
+      "tagline": "按下按钮，聆听有趣的放屁声"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "貓放屁。⠀ 這就是狩獵。⠀ 貓放屁。",
+      "tagline": "按下按鈕，聆聽有趣的放屁聲"
+    }
+  ]
 }
