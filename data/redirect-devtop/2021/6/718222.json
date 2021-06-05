@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-04T16:42:59Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5e-_1nAU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w2nsz94qwt2tipdbqdiq.png",
   "author": "Mukul Jain",
-  "author_url": "https://dev.to/mukuljainx"
+  "author_url": "https://dev.to/mukuljainx",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近ではほとんどの人がフックに慣れ親しんでいますが、その中でもuseEffectは最も使われているフックの一つです。私の意見ですが",
+      "title": "ReactのuseEffect。基本と秘訣"
+    },
+    {
+      "locale": "zh",
+      "description": "现在几乎每个人都熟悉钩子，useEffect是最常用的钩子之一。我的2分钱...",
+      "title": "React useEffect。基础知识和秘诀"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "現在幾乎每個人都熟悉鉤子，useEffect是最常用的鉤子之一。我的2分錢...",
+      "title": "React useEffect。基礎知識和祕訣"
+    }
+  ]
 }
