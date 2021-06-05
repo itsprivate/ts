@@ -135,5 +135,19 @@
   },
   "is_video": true,
   "original_created_utc": 1622871688,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "S&P500指数による米国株式市場の150年間のパフォーマンス（1957年以前は逆算して表示"
+    },
+    {
+      "locale": "zh",
+      "title": "以标准普尔500指数衡量的150年美国股市表现（1957年之前的回溯计算）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "以標準普爾500指數衡量的150年美國股市表現（1957年之前的回溯計算）。"
+    }
+  ]
 }

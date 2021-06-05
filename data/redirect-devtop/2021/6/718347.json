@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-04T17:52:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YEKjFT6V--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://laurieontech.com/static/ce2043da38b20ee98a370c3b77f19e81/44720/_.webp",
   "author": "Laurie",
-  "author_url": "https://dev.to/laurieontech"
+  "author_url": "https://dev.to/laurieontech",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Lodashは、必ずしも必要ではないかもしれないユーティリティーの驚くべきライブラリーです。",
+      "title": "Let's talk about Lodash"
+    },
+    {
+      "locale": "zh",
+      "description": "Lodash是一个不可思议的实用程序库，你可能并不总是需要它。",
+      "title": "让我们来谈谈Lodash"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Lodash是一個不可思議的實用程序庫，你可能並不總是需要它。",
+      "title": "讓我們來談談Lodash"
+    }
+  ]
 }

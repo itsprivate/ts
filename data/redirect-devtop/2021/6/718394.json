@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-04T20:20:32Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BNpKmwfm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xnrtomg1b49hmmh8x7x1.png",
   "author": "Bibek",
-  "author_url": "https://dev.to/bibekkakati"
+  "author_url": "https://dev.to/bibekkakati",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは👋 今回の記事では、任意のHTML要素のPDFを生成する方法をご紹介します。",
+      "title": "ブラウザでHTML要素のPDFを生成する"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好！在这篇文章中，我们将看到我们如何能够生成任何HTML元素的PDF。",
+      "title": "在浏览器中生成HTML元素的PDF"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好！在這篇文章中，我們將看到我們如何能夠生成任何HTML元素的PDF。",
+      "title": "在瀏覽器中生成HTML元素的PDF"
+    }
+  ]
 }
