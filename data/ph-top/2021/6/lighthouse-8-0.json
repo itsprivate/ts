@@ -67,5 +67,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-06T07:22:22Z"
+  "original_createdAt": "2021-06-06T07:22:22Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Lighthouse 8.0が登場しました。パフォーマンススコアのCOVバランスの改善、PSIとCanaryのDevToolsに搭載されたLighthouse Treemapとメトリックフィルタリング、そして全く新しいCSP監査です。",
+      "tagline": "Webアプリケーションやサイトを分析し、最新のパフォーマンス指標を収集します。"
+    },
+    {
+      "locale": "zh",
+      "description": "Lighthouse 8.0来了! ⚡ 改进了性能评分的CWV平衡，Lighthouse树状图和指标过滤现在在PSI和Canary DevTools中，还有一个全新的CSP审计!",
+      "tagline": "分析网络应用和网站，收集现代性能指标"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Lighthouse 8.0來了! ⚡ 改進了性能評分的CWV平衡，Lighthouse樹狀圖和指標過濾現在在PSI和Canary DevTools中，還有一個全新的CSP審計!",
+      "tagline": "分析網絡應用和網站，收集現代性能指標"
+    }
+  ]
 }
