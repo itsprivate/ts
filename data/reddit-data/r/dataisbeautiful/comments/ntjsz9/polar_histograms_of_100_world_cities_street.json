@@ -259,5 +259,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1622979331,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "世界100都市の道路の向きの極座標ヒストグラム（最も格子状のものから最も格子状でないものまで"
+    },
+    {
+      "locale": "zh",
+      "title": "100个世界城市的街道方向的极性直方图，从最多到最少的网格状。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "100個世界城市的街道方向的極性直方圖，從最多到最少的網格狀。"
+    }
+  ]
 }
