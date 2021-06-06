@@ -256,5 +256,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1622968959,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "OC] 年別の映画本数、平均IMDb評価、上映期間。(1900-2020)"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC] 按年份划分的电影数量、IMDb平均评分和持续时间。(1900-2020)"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC] 按年份劃分的電影數量、IMDb平均評分和持續時間。(1900-2020)"
+    }
+  ]
 }
