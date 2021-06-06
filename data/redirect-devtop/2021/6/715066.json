@@ -57,5 +57,22 @@
   "original_created_at": "2021-06-01T13:21:17Z",
   "image": "https://dev.to/social_previews/article/715066.png",
   "author": "Malte Riechmann",
-  "author_url": "https://dev.to/malteriechmann"
+  "author_url": "https://dev.to/malteriechmann",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TL;DR DEV APIを使用すると、この記事のタイトルは60秒ごとに自動的に更新されます。",
+      "title": "この記事には50のポジティブな反応と17のコメントがあります。"
+    },
+    {
+      "locale": "zh",
+      "description": "TL;DR 使用DEV API，这篇文章的标题每60秒就会自动更新。",
+      "title": "这篇文章有50个正面反应和17个评论"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "TL;DR 使用DEV API，這篇文章的標題每60秒就會自動更新。",
+      "title": "這篇文章有50個正面反應和17個評論"
+    }
+  ]
 }
