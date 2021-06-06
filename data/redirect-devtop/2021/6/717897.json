@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-04T09:34:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s---K4k3RF0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iny0sghkhrcq87917ax7.png",
   "author": "Techy Programmers",
-  "author_url": "https://dev.to/kunaal438"
+  "author_url": "https://dev.to/kunaal438",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、ここに来てくれて嬉しいです。今日は、素晴らしいローディングアニメーションを作る方法をご紹介します...",
+      "title": "今まで見たことのないような素晴らしいローディングアニメーション。"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，很高兴你在这里。我是kunaal，今天我们将看到如何制作一个很棒的加载动画...",
+      "title": "令人敬畏的加载动画，你以前从未见过。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，很高興你在這裏。我是kunaal，今天我們將看到如何製作一個很棒的加載動畫...",
+      "title": "令人敬畏的加載動畫，你以前從未見過。"
+    }
+  ]
 }
