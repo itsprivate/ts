@@ -127,5 +127,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1622923058,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "CSSフレックスボックス＆グリッドレイアウトを学び、探求するためのシンプルなツールを作ってみました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个简单的工具来学习和探索CSS Flexbox和网格布局"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個簡單的工具來學習和探索CSS Flexbox和網格佈局"
+    }
+  ]
 }
