@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-06T11:56:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WX-6XLx2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6wk9oe5703wvs7fb4j8x.png",
   "author": "Chaitanya Prabuddha",
-  "author_url": "https://dev.to/line"
+  "author_url": "https://dev.to/line",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今回で4回目となる「開発者のためのWebサイトトップ10」は、多くの方にご覧いただいています。今回は「開発者のためのWebサイトトップ10」です。",
+      "title": "開発者向けウェブサイトトップ10"
+    },
+    {
+      "locale": "zh",
+      "description": "对于你们中的许多人来说，这是本系列的第四部分 \"开发人员的十大网站\"。你可以在这里找到...",
+      "title": "开发者的十大网站"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "對於你們中的許多人來說，這是本系列的第四部分 \"開發人員的十大網站\"。你可以在這裏找到...",
+      "title": "開發者的十大網站"
+    }
+  ]
 }
