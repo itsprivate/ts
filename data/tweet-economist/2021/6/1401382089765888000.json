@@ -113,5 +113,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Sun Jun 06 03:35:01 +0000 2021"
+  "original_created_at": "Sun Jun 06 03:35:01 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "判断に偏りがあるという問題はよく知られています。しかし、ノイズは、それが明らかでないという点でまさに異なっています。https://t.co/RdshxhZBDI"
+    },
+    {
+      "locale": "zh",
+      "full_text": "决策中的偏差问题是众所周知的。但噪音不同，正是因为它不太明显https://t.co/RdshxhZBDI。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "決策中的偏差問題是衆所周知的。但噪音不同，正是因爲它不太明顯https://t.co/RdshxhZBDI。"
+    }
+  ]
 }
