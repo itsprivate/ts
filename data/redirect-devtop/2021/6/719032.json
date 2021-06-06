@@ -43,5 +43,22 @@
   "original_created_at": "2021-06-05T13:39:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4jeA4YLt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wsw5btioixj7tq6uqrlp.jpg",
   "author": "Muhammad Bilal Bangash",
-  "author_url": "https://dev.to/bangash1996"
+  "author_url": "https://dev.to/bangash1996",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに   この記事を読む前に、React &amp; Reduxとその機能について知っておく必要があります。",
+      "title": "Introduction React-Redux using Hooks (useSelector && useDispatch)"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍。  在阅读这篇文章之前，你应该了解React &amp; Redux，它的工作原理。",
+      "title": "介绍React-Redux使用Hooks（useSelector && useDispatch）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹。  在閱讀這篇文章之前，你應該瞭解React &amp; Redux，它的工作原理。",
+      "title": "介紹React-Redux使用Hooks（useSelector && useDispatch）。"
+    }
+  ]
 }
