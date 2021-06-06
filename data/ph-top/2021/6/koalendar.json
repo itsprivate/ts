@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-06T10:27:19Z"
+  "original_createdAt": "2021-06-06T10:27:19Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Koalendarへようこそ! これは、ゲストが会議にサインアップできる使いやすいカレンダーです。Googleカレンダーと同期し、ZoomやGoogle Meetなどのビデオ会議ソフトと統合します。無料で簡単にデモができます- https://koalendar.com/e/demo",
+      "tagline": "無料オンラインアポイントメントスケジューリングソフト"
+    },
+    {
+      "locale": "zh",
+      "description": "欢迎来到Koalendar! 这是一个易于使用的日历，客人可以在上面报名参加会议。它与您的谷歌日历同步，并与您的视频会议软件（如Zoom或谷歌会议）集成。它是免费的，易于演示-- https://koalendar.com/e/demo",
+      "tagline": "免费的在线约会安排软件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "歡迎來到Koalendar! 這是一個易於使用的日曆，客人可以在上面報名參加會議。它與您的谷歌日曆同步，並與您的視頻會議軟件（如Zoom或谷歌會議）集成。它是免費的，易於演示-- https://koalendar.com/e/demo",
+      "tagline": "免費的在線約會安排軟件"
+    }
+  ]
 }

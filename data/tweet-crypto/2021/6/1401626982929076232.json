@@ -520,5 +520,22 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Sun Jun 06 19:48:08 +0000 2021"
+  "original_created_at": "Sun Jun 06 19:48:08 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @nayibbukele です。未来へようこそ🇸🇻 #Bitcoin https://t.co/j30vcZVXvJ",
+      "retweeted_status_full_text": "Welcome to the future 🇸🇻 #Bitcoin https://t.co/j30vcZVXvJ"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @nayibbukele: 欢迎来到未来 🇸🇻 #比特币 https://t.co/j30vcZVXvJ",
+      "retweeted_status_full_text": "欢迎来到未来 🇸🇻 #比特币 https://t.co/j30vcZVXvJ"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @nayibbukele: 歡迎來到未來 🇸🇻 #比特幣 https://t.co/j30vcZVXvJ",
+      "retweeted_status_full_text": "歡迎來到未來 🇸🇻 #比特幣 https://t.co/j30vcZVXvJ"
+    }
+  ]
 }
