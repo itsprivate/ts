@@ -492,5 +492,22 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Sun Jun 06 20:41:16 +0000 2021"
+  "original_created_at": "Sun Jun 06 20:41:16 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @wongmjane: TwitterはSuper Followsアプリケーションに取り組んでいます。\n\n条件は\n- フォロワー数が10000人以上\n- 25件以上のツイートをしている",
+      "retweeted_status_full_text": "TwitterがSuper Followsアプリケーションを開発中\n\n条件は\n- フォロワー数が10000人以上\n- 過去30日以内に25回以上ツイートしていること\n- 年齢が18歳以上であること\n\nカテゴリとプラットフォームの欄に、「アダルトコンテンツ」と「OnlyFans」の記載があること https://t.co/qSEjh0ohm8 https://t.co/yvkzx672V2"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @wongmjane: Twitter正在开发超级追随者应用程序\n\n要求。\n- 拥有至少10000名粉丝\n- 至少发布过25条微博。",
+      "retweeted_status_full_text": "推特正在开发超级追随者应用程序\n\n要求。\n- 拥有至少10000名粉丝\n- 在过去30天内至少发布过25条推文\n- 至少年满18岁\n\n值得注意的是，\"成人内容 \"和 \"OnlyFans \"在类别和平台部分被提及 https://t.co/qSEjh0ohm8 https://t.co/yvkzx672V2"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @wongmjane: Twitter正在開發超級追隨者應用程序\n\n要求。\n- 擁有至少10000名粉絲\n- 至少發佈過25條微博。",
+      "retweeted_status_full_text": "推特正在開發超級追隨者應用程序\n\n要求。\n- 擁有至少10000名粉絲\n- 在過去30天內至少發佈過25條推文\n- 至少年滿18歲\n\n值得注意的是，\"成人內容 \"和 \"OnlyFans \"在類別和平臺部分被提及 https://t.co/qSEjh0ohm8 https://t.co/yvkzx672V2"
+    }
+  ]
 }
