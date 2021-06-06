@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-05T09:24:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IrkQv9SR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7zqpx6l0gut63ofrj7dv.jpeg",
   "author": "Hiep Le",
-  "author_url": "https://dev.to/hieptl"
+  "author_url": "https://dev.to/hieptl",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "創造のパターン - 工場のパターン。  これは、私のシリーズ（23 GoF Design...）の第4弾です。",
+      "title": "本物のプロジェクトを作ることでデザインパターンをマスターする - Factoryパターン - Javascript"
+    },
+    {
+      "locale": "zh",
+      "description": "创造性模式--工厂模式。  这是我的系列文章的第四部分（23个GoF设计...",
+      "title": "通过构建真实项目掌握设计模式 - 工厂模式 - Javascript"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "創造性模式--工廠模式。  這是我的系列文章的第四部分（23個GoF設計...",
+      "title": "通過構建真實項目掌握設計模式 - 工廠模式 - Javascript"
+    }
+  ]
 }
