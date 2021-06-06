@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-04T04:38:31Z",
   "image": "https://dev.to/social_previews/article/717668.png",
   "author": "Tim Winfred (He/She/They)",
-  "author_url": "https://dev.to/twinfred"
+  "author_url": "https://dev.to/twinfred",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、友人の開発者から「仕事でどんなデザインパターンを使っているの？その質問は...",
+      "title": "JavaScriptのデザインパターン"
+    },
+    {
+      "locale": "zh",
+      "description": "最近，我的一个开发者朋友问我在工作中使用什么设计模式。这个问题...",
+      "title": "脚本中的设计模式"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "最近，我的一個開發者朋友問我在工作中使用什麼設計模式。這個問題...",
+      "title": "腳本中的設計模式"
+    }
+  ]
 }
