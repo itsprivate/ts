@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-03T22:00:36Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5csJjzvz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qzgyhxdfw6kcl7xcq6ix.png",
   "author": "Kingsley Ubah",
-  "author_url": "https://dev.to/ubahthebuilder"
+  "author_url": "https://dev.to/ubahthebuilder",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "高階関数とキュレーションを始める前に、まず通常の関数とは何かを確立する必要があります...",
+      "title": "ビギナーズガイド 高次関数、偏関数、キュレーションの使い方"
+    },
+    {
+      "locale": "zh",
+      "description": "在我们开始学习高阶函数和卷曲之前，我们需要首先确定什么是正常的函数。",
+      "title": "高阶函数、部分函数和卷曲的初学者指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在我們開始學習高階函數和捲曲之前，我們需要首先確定什麼是正常的函數。",
+      "title": "高階函數、部分函數和捲曲的初學者指南"
+    }
+  ]
 }
