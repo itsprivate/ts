@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-07T07:14:10Z"
+  "original_createdAt": "2021-06-07T07:14:10Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ToolJetはRetoolの代替となるオープンソースの製品です。ToolJetは、既存のデータベース、APIエンドポイント、外部サービスに接続し、コード不要のアプリビルダーを使って、データの上にアプリケーションを構築することができます。",
+      "tagline": "Retoolの代替となるオープンソース"
+    },
+    {
+      "locale": "zh",
+      "description": "ToolJet是Retool的一个开源替代品。ToolJet可以连接到你现有的数据库、API端点和外部服务，使用我们的无代码应用程序构建器在数据之上构建应用程序。",
+      "tagline": "Retool的开源替代品"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "ToolJet是Retool的一個開源替代品。ToolJet可以連接到你現有的數據庫、API端點和外部服務，使用我們的無代碼應用程序構建器在數據之上構建應用程序。",
+      "tagline": "Retool的開源替代品"
+    }
+  ]
 }

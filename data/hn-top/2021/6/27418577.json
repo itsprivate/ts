@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-06-07T03:04:06.000Z",
-  "image": "https://justsimply.dev/scribble.png"
+  "image": "https://justsimply.dev/scribble.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "誰かがあなたのドキュメントを読まなければならないとしたら、それは「シンプル」ではありません。"
+    },
+    {
+      "locale": "zh",
+      "title": "如果有人不得不阅读你的文件，那就不 \"简单\""
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果有人不得不閱讀你的文件，那就不 \"簡單\""
+    }
+  ]
 }
