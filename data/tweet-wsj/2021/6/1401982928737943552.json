@@ -113,5 +113,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Mon Jun 07 19:22:32 +0000 2021"
+  "original_created_at": "Mon Jun 07 19:22:32 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "ハッカーは、サンフランシスコの非営利団体から、手頃な価格の住宅に充てられていた65万ドルを盗み出しました。同団体は資金のほんの一部を回収しました。https://t.co/eRnnjIt5nj"
+    },
+    {
+      "locale": "zh",
+      "full_text": "黑客从旧金山的一个非营利组织盗走了65万美元的资金，这些资金专门用于经济适用房。该组织追回了一小部分资金。https://t.co/eRnnjIt5nj"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "黑客從舊金山的一個非營利組織盜走了65萬美元的資金，這些資金專門用於經濟適用房。該組織追回了一小部分資金。https://t.co/eRnnjIt5nj"
+    }
+  ]
 }

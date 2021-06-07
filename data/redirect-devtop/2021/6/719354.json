@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-06T02:30:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Hp2fX52s--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vd1xlw43avspkwrxswnd.png",
   "author": "David Asaolu",
-  "author_url": "https://dev.to/arshadayvid"
+  "author_url": "https://dev.to/arshadayvid",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、このチュートリアルへようこそ  今日は、画像にaltテキストを使用する方法について説明します...",
+      "title": "画像の適切なAltテキストの書き方"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，欢迎来到本教程  今天，我将解释如何为你的图片使用alt文本。",
+      "title": "如何为你的图片写好Alt文本"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，歡迎來到本教程  今天，我將解釋如何爲你的圖片使用alt文本。",
+      "title": "如何爲你的圖片寫好Alt文本"
+    }
+  ]
 }
