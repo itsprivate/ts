@@ -142,5 +142,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1623074012,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私は、オープンソースのデプロイメントツールを作りました。このツールは、カスタムドメイン、SSL証明書、MongoDB/MySQLデータベースを追加し、独自のフロントエンドとバックエンドのスタックを構成することができます - WordPress/PHP/Laravel/Node.js + Bootstrap/Angular/React/Vue/Tailwind"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个开源的部署工具，为早期用户提供免费主机。它使你能够添加一个自定义域名、SSL证书、MongoDB/MySQL数据库，并使用WordPress/PHP/Laravel/Node.js + Bootstrap/Angular/React/Vue/Tailwind组成你自己的前端+后端栈。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個開源的部署工具，爲早期用戶提供免費主機。它使你能夠添加一個自定義域名、SSL證書、MongoDB/MySQL數據庫，並使用WordPress/PHP/Laravel/Node.js + Bootstrap/Angular/React/Vue/Tailwind組成你自己的前端+後端棧。"
+    }
+  ]
 }
