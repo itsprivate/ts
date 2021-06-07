@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-06T10:34:23Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HPc78_mb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ouqefegna80q36bpj46v.jpeg",
   "author": "Hiep Le",
-  "author_url": "https://dev.to/hieptl"
+  "author_url": "https://dev.to/hieptl",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "創造的パターン - Abstract Factoryパターン。  今回は、私のシリーズの第5弾（23 GoF...",
+      "title": "実際のプロジェクトを作ることでデザインパターンをマスターする - Abstract Factory Pattern - Javascript"
+    },
+    {
+      "locale": "zh",
+      "description": "创造性模式--抽象工厂模式。  这是我系列的第五部分（23个GoF...",
+      "title": "通过构建真实项目掌握设计模式 - 抽象工厂模式 - Javascript"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "創造性模式--抽象工廠模式。  這是我係列的第五部分（23個GoF...",
+      "title": "通過構建真實項目掌握設計模式 - 抽象工廠模式 - Javascript"
+    }
+  ]
 }
