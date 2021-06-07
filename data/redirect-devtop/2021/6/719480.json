@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-06T08:04:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gKL_hCKB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dhsu9c3myeyhqn3pr8bk.jpg",
   "author": "Keyur Paralkar",
-  "author_url": "https://dev.to/keyurparalkar"
+  "author_url": "https://dev.to/keyurparalkar",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "customHooksを実装するための前提条件 機能的なコンポーネントの知識と、反応するための...",
+      "title": "リアクトでデータを取得するためのカスタムフックの作成"
+    },
+    {
+      "locale": "zh",
+      "description": "实现customHooks的先决条件 了解功能组件的知识，以及反应的能力。",
+      "title": "创建自定义钩子以获取反应中的数据"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "實現customHooks的先決條件 瞭解功能組件的知識，以及反應的能力。",
+      "title": "創建自定義鉤子以獲取反應中的數據"
+    }
+  ]
 }
