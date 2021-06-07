@@ -113,5 +113,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Mon Jun 07 20:50:03 +0000 2021"
+  "original_created_at": "Mon Jun 07 20:50:03 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "アップルは月曜日、iPhoneユーザーのプライバシー保護を目的とした新機能を発表しました。アプリが収集しているデータを知らせるレポートや、ユーザーのトラフィックをインターネットプロバイダーから隠す新サービスなどが含まれています。https://t.co/rMooUlHHCv"
+    },
+    {
+      "locale": "zh",
+      "full_text": "苹果公司周一公布了旨在保护iPhone用户隐私的新功能，包括一份报告，告诉人们应用程序正在收集关于他们的哪些数据--以及一项新的服务，将用户的流量从互联网供应商那里隐藏起来。https://t.co/rMooUlHHCv。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "蘋果公司週一公佈了旨在保護iPhone用戶隱私的新功能，包括一份報告，告訴人們應用程序正在收集關於他們的哪些數據--以及一項新的服務，將用戶的流量從互聯網供應商那裏隱藏起來。https://t.co/rMooUlHHCv。"
+    }
+  ]
 }
