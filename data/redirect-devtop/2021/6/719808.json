@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-06T17:47:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Ywoezb1m--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/to6hkr20oztr0ho883j8.jpg",
   "author": "InHuOfficial",
-  "author_url": "https://dev.to/inhuofficial"
+  "author_url": "https://dev.to/inhuofficial",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Google Lighthouse、Page Speed Insights、web.dev measureなどを使ってWebサイトを分析したことがある人は、その結果を知っていると思います。",
+      "title": "クイックヒント Page Speed Insights / Lighthouseの「Image elements do not have explicit width and height」を修正する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你已经通过Google Lighthouse、Page Speed Insights、web.dev measure等来运行你的网站，那么你就会发现，你的网站是一个很好的选择。",
+      "title": "快速提示。如何在Page Speed Insights / Lighthouse中修复 \"图像元素没有明确的宽度和高度 \"的问题"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你已經通過Google Lighthouse、Page Speed Insights、web.dev measure等來運行你的網站，那麼你就會發現，你的網站是一個很好的選擇。",
+      "title": "快速提示。如何在Page Speed Insights / Lighthouse中修復 \"圖像元素沒有明確的寬度和高度 \"的問題"
+    }
+  ]
 }

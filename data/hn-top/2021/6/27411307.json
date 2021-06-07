@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-06-06T06:52:20.000Z",
-  "image": "https://questdb.io/img/blog/2021-05-10/banner.png"
+  "image": "https://questdb.io/img/blog/2021-05-10/banner.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "1.4M行/秒の書き込み速度を実現した理由"
+    },
+    {
+      "locale": "zh",
+      "title": "我们是如何实现每秒1.4M行的写入速度的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們是如何實現每秒1.4M行的寫入速度的？"
+    }
+  ]
 }
