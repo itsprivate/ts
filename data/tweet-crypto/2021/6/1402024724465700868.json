@@ -207,5 +207,22 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Mon Jun 07 22:08:37 +0000 2021"
+  "original_created_at": "Mon Jun 07 22:08:37 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @zerohedge: ペンタゴンの35兆円の「会計上の調整」よりも早く、数百万枚の「追跡不可能な」ビットコインが見つかった。",
+      "retweeted_status_full_text": "ペンタゴンの35兆円の「会計調整」よりも早く、数百万枚の「追跡不可能な」ビットコインを発見した"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @zerohedge: 他们发现几百万个 \"无法追踪 \"的比特币比五角大楼的35万亿美元的 \"会计调整 \"还要快。",
+      "retweeted_status_full_text": "他们发现几百万个 \"无法追踪 \"的比特币比五角大楼35万亿美元的 \"会计调整 \"还要快"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @zerohedge: 他們發現幾百萬個 \"無法追蹤 \"的比特幣比五角大樓的35萬億美元的 \"會計調整 \"還要快。",
+      "retweeted_status_full_text": "他們發現幾百萬個 \"無法追蹤 \"的比特幣比五角大樓35萬億美元的 \"會計調整 \"還要快"
+    }
+  ]
 }
