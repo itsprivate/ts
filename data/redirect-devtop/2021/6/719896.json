@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-06T19:37:41Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8pKgGeLj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qaijbrsr2437gztdkq26.png",
   "author": "Abdulrahman",
-  "author_url": "https://dev.to/alotaibidev"
+  "author_url": "https://dev.to/alotaibidev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あらゆるSaaS製品の構築を学ぶことができるインタラクティブなプラットフォーム、devKametでは、...",
+      "title": "コンピュータサイエンスを学ぶためのオープンソースのプラットフォームを作りました。MERNスタックに興味のある方はチェックしてみてください。\n\n"
+    },
+    {
+      "locale": "zh",
+      "description": "通过devKamet学习构建任何SaaS产品，这是一个互动平台，可以学习SaaS产品的精华。",
+      "title": "我做了一个开源的平台来学习计算机科学。如果你对MERN堆栈感兴趣，请查看它。\n\n"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "通過devKamet學習構建任何SaaS產品，這是一個互動平臺，可以學習SaaS產品的精華。",
+      "title": "我做了一個開源的平臺來學習計算機科學。如果你對MERN堆棧感興趣，請查看它。\n\n"
+    }
+  ]
 }
