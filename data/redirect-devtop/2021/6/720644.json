@@ -50,5 +50,22 @@
   "original_created_at": "2021-06-07T14:28:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--veBcxQfa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/so8ot4yw1w7s2ccjous6.jpg",
   "author": "Arika O",
-  "author_url": "https://dev.to/arikaturika"
+  "author_url": "https://dev.to/arikaturika",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "前回の記事では、Javascriptは基本的に同期型であることをご紹介しました（コード内のステートメントは一斉に実行されます）。",
+      "title": "Javascript - 非同期コードの紹介"
+    },
+    {
+      "locale": "zh",
+      "description": "在上一篇文章中，我们看到，在其核心部分，Javascript是同步的（我们代码中的语句是e...",
+      "title": "Javascript - 介绍异步代码"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在上一篇文章中，我們看到，在其核心部分，Javascript是同步的（我們代碼中的語句是e...",
+      "title": "Javascript - 介紹異步代碼"
+    }
+  ]
 }
