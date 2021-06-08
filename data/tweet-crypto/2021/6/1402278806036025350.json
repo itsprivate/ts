@@ -216,5 +216,22 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Tue Jun 08 14:58:15 +0000 2021"
+  "original_created_at": "Tue Jun 08 14:58:15 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @tyler: 最初は無視されて、突然パラグアイ🇵🇾、アルゼンチン🇦🇷、パナマ🇵🇦、ブラジル🇧🇷、エルサルバドル🇸🇻、ニカラグア🇳🇮を抱きしめて #...",
+      "retweeted_status_full_text": "最初は無視されて、突然パラグアイ🇵🇾、アルゼンチン🇦🇷、パナマ🇵🇦、ブラジル🇧🇷、エルサルバドル🇸🇻、ニカラグア🇳🇮が抱きつく #ビットコイン"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @tyler: 首先他们无视你，然后突然巴拉圭🇵🇾，阿根廷🇦🇷，巴拿马🇵🇦，巴西🇧，萨尔瓦多🇸🇻，和尼加拉瓜🇳🇮 拥抱#...",
+      "retweeted_status_full_text": "首先他们不理会你，然后突然巴拉圭🇵🇾、阿根廷🇦🇷、巴拿马🇵🇦、巴西🇧、萨尔瓦多🇸🇻和尼加拉瓜🇳🇮，拥抱#Bitcoin"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @tyler: 首先他們無視你，然後突然巴拉圭🇵🇾，阿根廷🇦🇷，巴拿馬🇵🇦，巴西🇧，薩爾瓦多🇸🇻，和尼加拉瓜🇳🇮 擁抱#...",
+      "retweeted_status_full_text": "首先他們不理會你，然後突然巴拉圭🇵🇾、阿根廷🇦🇷、巴拿馬🇵🇦、巴西🇧、薩爾瓦多🇸🇻和尼加拉瓜🇳🇮，擁抱#Bitcoin"
+    }
+  ]
 }
