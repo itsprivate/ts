@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-08T07:01:00Z"
+  "original_createdAt": "2021-06-08T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "APITemplate.ioは、最新のAPIベースのプラットフォームで、メディアコンテンツ生成のための2つの強力なAPIを提供するように設計されています - 画像とPDF",
+      "tagline": "シンプルなAPIで画像やPDFを生成"
+    },
+    {
+      "locale": "zh",
+      "description": "APITemplate.io是最新的基于API的平台，旨在为您的媒体内容生成提供两个强大的API--图像和PDF。",
+      "tagline": "用简单的API生成图像和PDF"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "APITemplate.io是最新的基於API的平臺，旨在爲您的媒體內容生成提供兩個強大的API--圖像和PDF。",
+      "tagline": "用簡單的API生成圖像和PDF"
+    }
+  ]
 }

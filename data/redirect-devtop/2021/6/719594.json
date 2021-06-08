@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-06T11:00:45Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--V7LabSS6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pklczk7anarnfee02yku.png",
   "author": "Anudeep",
-  "author_url": "https://dev.to/asaianudeep"
+  "author_url": "https://dev.to/asaianudeep",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "APIテストとは、ソフトウェアテストの一種で、APIが期待通りのものかどうかを判断することに重点を置いたテストです。APIテストとは...",
+      "title": "JavaScriptのAPIテストツール"
+    },
+    {
+      "locale": "zh",
+      "description": "API测试是软件测试的一种类型，重点是确定API是否符合预期。它是指在一个特定的时间段内，在一个特定的地点进行测试。",
+      "title": "JavaScript中的API测试工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "API測試是軟件測試的一種類型，重點是確定API是否符合預期。它是指在一個特定的時間段內，在一個特定的地點進行測試。",
+      "title": "JavaScript中的API測試工具"
+    }
+  ]
 }
