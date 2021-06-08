@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-06-07T14:03:08.000Z",
-  "image": "https://s3.amazonaws.com/booleanbiotechpublic/boolean_logo.svg"
+  "image": "https://s3.amazonaws.com/booleanbiotechpublic/boolean_logo.svg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "自宅でゲノム配列を作成する方法"
+    },
+    {
+      "locale": "zh",
+      "title": "如何在家里对你的基因组进行测序"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如何在家裏對你的基因組進行測序"
+    }
+  ]
 }
