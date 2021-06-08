@@ -45,5 +45,21 @@
   "original_created_at": "2021-06-07T18:12:17Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kPjAikCY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gjqw5valwnmfn4427sbv.jpeg",
   "author": "Dominik D",
-  "author_url": "https://dev.to/tkdodo"
+  "author_url": "https://dev.to/tkdodo",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "React QueryでのWebSocketの使用"
+    },
+    {
+      "locale": "zh",
+      "description": "如何使用WebSockets与React Query一起处理实时数据，是被问及最多的问题之一。",
+      "title": "在React查询中使用WebSockets"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如何使用WebSockets與React Query一起處理實時數據，是被問及最多的問題之一。",
+      "title": "在React查詢中使用WebSockets"
+    }
+  ]
 }
