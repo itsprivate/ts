@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-06T20:48:41Z",
   "image": "https://dev.to/social_previews/article/719927.png",
   "author": "TANMOY MANDAL",
-  "author_url": "https://dev.to/tantanmoy"
+  "author_url": "https://dev.to/tantanmoy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "1. Anime.js Anime.jsは、シンプルかつパワフルなAPIを備えた軽量のJavaScriptアニメーションライブラリです。",
+      "title": "10 Best JavaScript Animation Libraries 🔥 (英語)"
+    },
+    {
+      "locale": "zh",
+      "description": "1. Anime.js Anime.js是一个轻量级的JavaScript动画库，具有简单而强大的API。",
+      "title": "10个最佳JavaScript动画库 🔥"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "1. Anime.js Anime.js是一個輕量級的JavaScript動畫庫，具有簡單而強大的API。",
+      "title": "10個最佳JavaScript動畫庫 🔥"
+    }
+  ]
 }
