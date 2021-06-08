@@ -112,5 +112,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1623158240,
-  "the_new_excerpt": "Every crypto wallet has a private key. Most of us are told, rightfully, to guard\nthis private key with our lives, because anyone who gets access to it will be\nable to take your hard earned cash away. But what if someone like the FBI\nguessed your private key? This is how private keys look like for…"
+  "the_new_excerpt": "Every crypto wallet has a private key. Most of us are told, rightfully, to guard\nthis private key with our lives, because anyone who gets access to it will be\nable to take your hard earned cash away. But what if someone like the FBI\nguessed your private key? This is how private keys look like for…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "すべての暗号化された財布には秘密鍵があります。ほとんどの人は、この秘密鍵を命がけで守るように言われていますが、それは当然のことです。\nなぜならば、この秘密鍵にアクセスした人は、その鍵を利用して\n稼いだ現金を奪うことができるからです。しかし、もしFBIのような人物が\nがあなたの秘密鍵を推測したとしたら？秘密鍵はこのようになっています...",
+      "title": "FBIはあなたの財布のアドレスを解読できない"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "每个加密货币钱包都有一个私钥。我们中的大多数人都被告知，要用生命来保护这个私钥，这是正确的。\n这把私人钥匙，因为任何获得它的人都将会\n能把你辛苦挣来的钱拿走。但是，如果有人像FBI一样\n猜到你的私钥怎么办？这就是私人钥匙的样子，对于...",
+      "title": "联邦调查局无法破解你的钱包地址"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "每個加密貨幣錢包都有一個私鑰。我們中的大多數人都被告知，要用生命來保護這個私鑰，這是正確的。\n這把私人鑰匙，因爲任何獲得它的人都將會\n能把你辛苦掙來的錢拿走。但是，如果有人像FBI一樣\n猜到你的私鑰怎麼辦？這就是私人鑰匙的樣子，對於...",
+      "title": "聯邦調查局無法破解你的錢包地址"
+    }
+  ]
 }
