@@ -43,5 +43,22 @@
   "original_created_at": "2021-06-07T13:37:34Z",
   "image": "https://dev.to/social_previews/article/720611.png",
   "author": "Stas Melnikov",
-  "author_url": "https://dev.to/melnik909"
+  "author_url": "https://dev.to/melnik909",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "プロジェクトのCSSをチェックしていると、Flexboxに関連したミスに直面することがよくあります。ここでは、そのことをお伝えしたいと思います...",
+      "title": "あなたのCSSをより良くするFlexboxに関する私の3つのヒント"
+    },
+    {
+      "locale": "zh",
+      "description": "我在检查项目的CSS时，经常会遇到一些与Flexbox有关的错误。我想告诉大家...",
+      "title": "我对Flexbox的三个建议，将使你的CSS变得更好"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我在檢查項目的CSS時，經常會遇到一些與Flexbox有關的錯誤。我想告訴大家...",
+      "title": "我對Flexbox的三個建議，將使你的CSS變得更好"
+    }
+  ]
 }
