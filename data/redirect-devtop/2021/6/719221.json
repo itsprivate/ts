@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-05T21:16:34Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wgb8GFz8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jq402yy6189ho5tc6kfa.png",
   "author": "Drew Clements",
-  "author_url": "https://dev.to/drewclem"
+  "author_url": "https://dev.to/drewclem",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、面白い課題を与えられました。その課題とは......これまでに紹介した方法を再現することでした。",
+      "title": "Promise.all()の再構築"
+    },
+    {
+      "locale": "zh",
+      "description": "最近，我遇到了一个有趣的挑战。这个挑战是要重新创建一个在美国和欧洲都能找到的方法。",
+      "title": "重建Promise.all()"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "最近，我遇到了一個有趣的挑戰。這個挑戰是要重新創建一個在美國和歐洲都能找到的方法。",
+      "title": "重建Promise.all()"
+    }
+  ]
 }
