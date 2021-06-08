@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-05T21:09:39Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--K7NqCYbi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c3siwo2omva7ccglzncb.jpg",
   "author": "arcanemachine",
-  "author_url": "https://dev.to/nicholas_moen"
+  "author_url": "https://dev.to/nicholas_moen",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "免責事項：私は、決してこの分野のベテランではありません。私はただの愛好家であり、この分野での経験はありません。",
+      "title": "Django、HTMX、Alpine.JS: A Match Made In Heaven"
+    },
+    {
+      "locale": "zh",
+      "description": "免责声明：无论如何，我不是这个领域的老手。我只是一个热心人，试图...",
+      "title": "Django、HTMX和Alpine.JS：天作之合"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "免責聲明：無論如何，我不是這個領域的老手。我只是一個熱心人，試圖...",
+      "title": "Django、HTMX和Alpine.JS：天作之合"
+    }
+  ]
 }
