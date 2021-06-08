@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-08T12:16:04Z"
+  "original_createdAt": "2021-06-08T12:16:04Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "WWDC21に遅れずに参加しよう。Raycastでは、今年のセッションを素早く検索、フィルタリング、お気に入り登録することができます。WWDCアプリを使用して、週中またはその後いつでもすべてのビデオをダウンロードして見ることができます。wwdc.ioと共同でRaycastが作成しました。",
+      "tagline": "WWDC21のすべてのセッションをMacで検索、視聴、ダウンロードすることができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "跟上WWDC21的步伐。在Raycast中快速搜索、过滤和收藏今年的会议。使用WWDC应用程序下载并在这一周或之后的任何时间观看所有视频。由Raycast与wwdc.io合作建立。",
+      "tagline": "在你的Mac上搜索、观看和下载所有WWDC21会议"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "跟上WWDC21的步伐。在Raycast中快速搜索、過濾和收藏今年的會議。使用WWDC應用程序下載並在這一週或之後的任何時間觀看所有視頻。由Raycast與wwdc.io合作建立。",
+      "tagline": "在你的Mac上搜索、觀看和下載所有WWDC21會議"
+    }
+  ]
 }
