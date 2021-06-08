@@ -14,5 +14,19 @@
   "tags": [
     "The Wall Street Journal"
   ],
-  "image": "https://images.wsj.net/im-349946/social"
+  "image": "https://images.wsj.net/im-349946/social",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "最高裁、不法に米国に入国した保護対象の非市民はグリーンカードを取得できないと判断"
+    },
+    {
+      "locale": "zh",
+      "title": "最高法院称非法进入美国的受保护非公民不能获得绿卡"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "最高法院稱非法進入美國的受保護非公民不能獲得綠卡"
+    }
+  ]
 }
