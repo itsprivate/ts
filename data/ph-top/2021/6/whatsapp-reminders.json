@@ -83,5 +83,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-08T07:03:29Z"
+  "original_createdAt": "2021-06-08T07:03:29Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "GoogleカレンダーからWhatsApp番号に直接、会議のリマインダーや日課を受信できます。リマインダーにはGoogle Meets LinkとCall Coordinatesが含まれます。会議の30分前(または指定した時間)に通知します。WhatsAppで日報を受信して、常に最新の情報を得ることができます。",
+      "tagline": "忙しい人のためのWhatsAppでのミーティングリマインダー"
+    },
+    {
+      "locale": "zh",
+      "description": "从您的谷歌日历直接接收会议提醒和每日议程到您的WhatsApp号码。提醒包括谷歌会议链接和通话坐标。提前30分钟（或选定时间）提醒您的会议。在WhatsApp上接收每日议程，并保持在事情的顶端。",
+      "tagline": "为忙碌的人提供WhatsApp上的会议提醒功能"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "從您的谷歌日曆直接接收會議提醒和每日議程到您的WhatsApp號碼。提醒包括谷歌會議鏈接和通話座標。提前30分鐘（或選定時間）提醒您的會議。在WhatsApp上接收每日議程，並保持在事情的頂端。",
+      "tagline": "爲忙碌的人提供WhatsApp上的會議提醒功能"
+    }
+  ]
 }
