@@ -39,5 +39,22 @@
   "original_created_at": "2021-06-08T18:03:02Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--U4Dl1yeC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1492412931596-e47811cc802f%3Fixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26ixlib%3Drb-1.2.1%26auto%3Dformat%26fit%3Dcrop%26w%3D1650%26q%3D80",
   "author": "Cassidy Williams",
-  "author_url": "https://dev.to/cassidoo"
+  "author_url": "https://dev.to/cassidoo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは。 随分とサスペンスになってしまいましたが、HECK社のReact開発者はいくつかの新機能を提供しています。",
+      "title": "React 18 Alphaがリリースされました。これからどうする？"
+    },
+    {
+      "locale": "zh",
+      "description": "你好!  他们让我们在悬念中呆得够久了，但HECK React的开发者有一些新的功能要介绍。",
+      "title": "React 18 Alpha发布了! 现在怎么办？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好!  他們讓我們在懸念中呆得夠久了，但HECK React的開發者有一些新的功能要介紹。",
+      "title": "React 18 Alpha發佈了! 現在怎麼辦？"
+    }
+  ]
 }
