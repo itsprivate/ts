@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-07T05:56:02Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QR8y-ZWv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/850iz3mp2qdcckx12ayx.jpg",
   "author": "Alex Devero",
-  "author_url": "https://dev.to/alexdevero"
+  "author_url": "https://dev.to/alexdevero",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JavaScript開発者にとって、TruthyとFalsyの値は理解すべき2つの重要な概念です。この記事では...",
+      "title": "JavaScriptのTruthy and Falsy Valuesの仕組み"
+    },
+    {
+      "locale": "zh",
+      "description": "真值和假值是JavaScript开发人员需要理解的两个重要概念。在本节课中，我们将介绍如何使用这些概念。",
+      "title": "JavaScript中的Truthy和Falsy值如何工作"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "真值和假值是JavaScript開發人員需要理解的兩個重要概念。在本節課中，我們將介紹如何使用這些概念。",
+      "title": "JavaScript中的Truthy和Falsy值如何工作"
+    }
+  ]
 }
