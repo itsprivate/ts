@@ -92,5 +92,19 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Tue Jun 08 20:27:06 +0000 2021"
+  "original_created_at": "Tue Jun 08 20:27:06 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "現在、あなたが注目している時価総額200億ドル以下の最も有望な企業は？"
+    },
+    {
+      "locale": "zh",
+      "full_text": "目前在你的雷达上，市值低于200亿美元的最有前途的公司？"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "目前在你的雷達上，市值低於200億美元的最有前途的公司？"
+    }
+  ]
 }
