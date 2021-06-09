@@ -134,5 +134,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Tue Jun 08 20:00:09 +0000 2021"
+  "original_created_at": "Tue Jun 08 20:00:09 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "@WSJopinionより。報道機関が1年前に伝えたように、実験室からの漏洩説が「否定された」わけではありません。検討することさえ許されなかったのだと、@gerardtbakerは書いています。https://t.co/YVdoTEZqz7"
+    },
+    {
+      "locale": "zh",
+      "full_text": "来自@WSJopinion。并不是像新闻机构一年前告诉我们的那样，实验室泄密理论被 \"揭穿 \"了。它甚至不被允许被考虑，@gerardtbaker写道：https://t.co/YVdoTEZqz7"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "來自@WSJopinion。並不是像新聞機構一年前告訴我們的那樣，實驗室泄密理論被 \"揭穿 \"了。它甚至不被允許被考慮，@gerardtbaker寫道：https://t.co/YVdoTEZqz7"
+    }
+  ]
 }

@@ -113,5 +113,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Wed Jun 09 01:15:02 +0000 2021"
+  "original_created_at": "Wed Jun 09 01:15:02 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "誰かのソーシャルメディアのアカウントを調べれば、「最初の30分ほどで必要なものが見つかることが多い」と、ハッカーが率いる企業（https://t.co/wtpFPdpKZk）のCEOは言います。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "通过搜索某人的社交媒体账户，\"我通常可以在前30分钟左右找到我需要的一切，\"一家由黑客领导的公司的首席执行官说，https://t.co/wtpFPdpKZk。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "通過搜索某人的社交媒體賬戶，\"我通常可以在前30分鐘左右找到我需要的一切，\"一家由黑客領導的公司的首席執行官說，https://t.co/wtpFPdpKZk。"
+    }
+  ]
 }
