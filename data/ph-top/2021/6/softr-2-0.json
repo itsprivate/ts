@@ -118,5 +118,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-09T07:01:00Z"
+  "original_createdAt": "2021-06-09T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Softrは、Airtableから強力なWebアプリケーションやポータルを、最も簡単に、数分で構築することができます。コードは必要ありません。Softrを使えば、クライアントポータル、社内ツール、マーケットプレイス、オンラインコミュニティ、リソースディレクトリ、ウェブサイトなどを構築できます。",
+      "tagline": "AirtableからコードレスでWebアプリやポータルを構築することができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "Softr是在几分钟内从Airtable建立强大的网络应用程序和门户的最简单和最快速的方法。不需要代码。使用Softr，你可以建立客户门户、内部工具、市场、在线社区、资源目录和网站。",
+      "tagline": "从Airtable建立网络应用和门户，不需要代码"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Softr是在幾分鐘內從Airtable建立強大的網絡應用程序和門戶的最簡單和最快速的方法。不需要代碼。使用Softr，你可以建立客戶門戶、內部工具、市場、在線社區、資源目錄和網站。",
+      "tagline": "從Airtable建立網絡應用和門戶，不需要代碼"
+    }
+  ]
 }

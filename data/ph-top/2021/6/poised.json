@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-09T07:01:00Z"
+  "original_createdAt": "2021-06-09T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Poisedは、パーソナライズされたデジタルコミュニケーションコーチであり、オンラインミーティング中に実用的なリアルタイムフィードバックを提供します。Poisedは、Zoom、Slack、Microsoft Teams、Google Meetなどのプラットフォームに対応しています。",
+      "tagline": "オンライン会議のためのAI搭載コミュニケーションコーチ"
+    },
+    {
+      "locale": "zh",
+      "description": "Poised是一个个性化的数字沟通教练，在在线会议期间提供可操作的实时反馈。Poised可与Zoom、Slack、Microsoft Teams和Google Meet等平台合作。",
+      "tagline": "人工智能驱动的在线会议沟通教练"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Poised是一個個性化的數字溝通教練，在在線會議期間提供可操作的實時反饋。Poised可與Zoom、Slack、Microsoft Teams和Google Meet等平臺合作。",
+      "tagline": "人工智能驅動的在線會議溝通教練"
+    }
+  ]
 }
