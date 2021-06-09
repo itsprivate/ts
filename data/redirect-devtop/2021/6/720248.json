@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-07T07:12:19Z",
   "image": "https://dev.to/social_previews/article/720248.png",
   "author": "Swastik Yadav",
-  "author_url": "https://dev.to/swastikyadav"
+  "author_url": "https://dev.to/swastikyadav",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "フレックスボックスは、ボックスの配置、方向、順序、サイズを完全にコントロールできます。これにより...",
+      "title": "CSSのFlexBoxを理解する。"
+    },
+    {
+      "locale": "zh",
+      "description": "Flexbox让你可以完全控制盒子的排列、方向、顺序和大小。它使...",
+      "title": "了解CSS FlexBox。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Flexbox讓你可以完全控制盒子的排列、方向、順序和大小。它使...",
+      "title": "瞭解CSS FlexBox。"
+    }
+  ]
 }
