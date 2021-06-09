@@ -98,5 +98,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-09T07:01:00Z"
+  "original_createdAt": "2021-06-09T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "BootStartersは、最新のBootstrap 5に対応した以下のようなスターターテンプレート集です：⠀ ・管理者用ダッシュボード ・ダークテーマ ・Fluent Design Theme ・ブログテンプレート ・eコマーステンプレート ・複数のカラムレイアウト ・価格、ログイン、マガジン⠀ など。",
+      "tagline": "Bootstrap 5用の無料テーマの巨大なオープンソースコレクション"
+    },
+    {
+      "locale": "zh",
+      "description": "BootStarters是最新的Bootstrap 5的启动模板集合，包括：⠀ - 管理仪表板 - 深色主题 - 流畅设计主题 - 博客模板 - 电子商务模板 - 多栏布局 - 定价，登录，杂志⠀等",
+      "tagline": "大量开源的Bootstrap 5免费主题集合"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "BootStarters是最新的Bootstrap 5的啓動模板集合，包括：⠀ - 管理儀表板 - 深色主題 - 流暢設計主題 - 博客模板 - 電子商務模板 - 多欄佈局 - 定價，登錄，雜誌⠀等",
+      "tagline": "大量開源的Bootstrap 5免費主題集合"
+    }
+  ]
 }
