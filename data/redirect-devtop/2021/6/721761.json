@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-08T17:15:55Z",
   "image": "https://dev.to/social_previews/article/721761.png",
   "author": "Roden",
-  "author_url": "https://dev.to/kerthin"
+  "author_url": "https://dev.to/kerthin",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに この記事は初心者を対象としていますが、経験豊富な開発者にとっては、この記事が...",
+      "title": "ファイルをアップロードする場所 🗄 リンクで使用するためのファイル 🔗 (JS, CSS, Fonts, Images)"
+    },
+    {
+      "locale": "zh",
+      "description": "简介：这篇文章是为初学者准备的，我理解对于有经验的开发者来说，这篇文章是为他们准备的。",
+      "title": "在哪里上传你的文件🗄以通过链接使用它们🔗（JS、CSS、字体、图像）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介：這篇文章是爲初學者準備的，我理解對於有經驗的開發者來說，這篇文章是爲他們準備的。",
+      "title": "在哪裏上傳你的文件🗄以通過鏈接使用它們🔗（JS、CSS、字體、圖像）。"
+    }
+  ]
 }

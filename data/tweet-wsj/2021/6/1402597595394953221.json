@@ -223,5 +223,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Wed Jun 09 12:05:00 +0000 2021"
+  "original_created_at": "Wed Jun 09 12:05:00 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "FBIが秘密裏に運営している暗号化されたメッセージング・プラットフォームを利用するよう騙され、世界規模のおとり捜査で何百人もの犯罪容疑者が逮捕されました #WSJWhatsNow https://t.co/eFW5YssWbE"
+    },
+    {
+      "locale": "zh",
+      "full_text": "数百名犯罪嫌疑人在一次全球刺杀行动中被逮捕，他们被骗使用由联邦调查局秘密运行的加密信息平台#WSJWhatsNowhttps://t.co/eFW5YssWbE。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "數百名犯罪嫌疑人在一次全球刺殺行動中被逮捕，他們被騙使用由聯邦調查局祕密運行的加密信息平臺#WSJWhatsNowhttps://t.co/eFW5YssWbE。"
+    }
+  ]
 }
