@@ -37,7 +37,8 @@ module.exports = {
     await page.setViewport({ width: 800, height: 1200 });
     await page.goto(homepage);
     await page.waitForTimeout(1000);
-    // await page.screenshot({ path: "buddy-screenshot0.png" });
+    // click  black
+    await page.screenshot({ path: "screens/1.png" });
 
     await page.click(sourceLangSelect);
     await page.waitForSelector(sourceLangMenu, { visible: true });
@@ -48,7 +49,7 @@ module.exports = {
     } catch (_) {
       throw new Error("UNSUPPORTED_SOURCE_LANGUAGE");
     }
-    // await page.screenshot({ path: "buddy-screenshot0.png" });
+    await page.screenshot({ path: "screens/2.png" });
 
     await page.waitForSelector(sourceLangMenu, { hidden: true });
 
