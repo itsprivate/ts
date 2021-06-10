@@ -45,6 +45,12 @@ module.exports = {
 
     await page.screenshot({ path: "screens/2.png" });
 
+    const element = await page.$eval(
+      "[dl-test=translator-source-lang]",
+      (el) => el.innerHTML
+    );
+    console.log("element", element);
+
     await page.waitForSelector(sourceLangMenu, { visible: true });
     await page.waitForTimeout(500);
 
