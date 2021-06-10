@@ -16,9 +16,11 @@ function translateTest() {
   })
     .catch((e) => {
       console.error("e", e);
+      deeplClient.quit();
     })
     .then((data) => {
       console.log("data", data);
+      deeplClient.quit();
     });
 }
 
