@@ -34,7 +34,7 @@ module.exports = {
 			 targetSentencesContainer = '.lmt__translations_as_text'*/
 
     const page = await getNewPage();
-    await page.setViewport({ width: 800, height: 1200 });
+    await page.setViewport({ width: 1370, height: 1200 });
     await page.goto(homepage);
     await page.waitForTimeout(1000);
     // click  black
