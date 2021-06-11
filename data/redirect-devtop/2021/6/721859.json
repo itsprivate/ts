@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-08T19:42:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IWcUXe7Z--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dkjpx2q7x1065dxb6hl0.png",
   "author": "anthony-campolo",
-  "author_url": "https://dev.to/ajcwebdev"
+  "author_url": "https://dev.to/ajcwebdev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "リリースされると、React 18には以下のようなすぐに使える改良が加えられます。  自動バッチ処理...",
+      "title": "VITEとNETLIFYを搭載したREACT 18の初公開"
+    },
+    {
+      "locale": "zh",
+      "description": "当它发布时，React 18将包括开箱即用的改进，包括。  自动批处理...",
+      "title": "初步了解React 18与Vite和Netlify的关系"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當它發佈時，React 18將包括開箱即用的改進，包括。  自動批處理...",
+      "title": "初步瞭解React 18與Vite和Netlify的關係"
+    }
+  ]
 }
