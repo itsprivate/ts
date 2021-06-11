@@ -154,5 +154,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1623383379,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインを読み込む... (loadingbitcoin.com)"
+    },
+    {
+      "locale": "zh",
+      "title": "正在加载比特币... (loadingbitcoin.com)"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "正在加載比特幣... (loadingbitcoin.com)"
+    }
+  ]
 }
