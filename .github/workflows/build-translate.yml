@@ -8,7 +8,7 @@ on:
       - ".github/actions/translate/src/**"
 jobs:
   run:
-    runs-on: ubuntu-20.04
+    runs-on: macos-latest
     name: Run
     steps:
       - name: Git checkout

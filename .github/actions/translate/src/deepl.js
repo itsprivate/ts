@@ -38,18 +38,18 @@ module.exports = {
     await page.goto(homepage);
     await page.waitForTimeout(1000);
     // click  black
-    await page.screenshot({ path: "screens/1.png" });
+    // await page.screenshot({ path: "screens/1.png" });
 
     await page.click(sourceLangSelect);
     await page.waitForTimeout(500);
 
-    await page.screenshot({ path: "screens/2.png" });
+    // await page.screenshot({ path: "screens/2.png" });
 
-    const element = await page.$eval(
-      "[dl-test=translator-source-lang]",
-      (el) => el.innerHTML
-    );
-    console.log("element", element);
+    // const element = await page.$eval(
+    //   "[dl-test=translator-source-lang]",
+    //   (el) => el.innerHTML
+    // );
+    // console.log("element", element);
 
     await page.waitForSelector(sourceLangMenu, { visible: true });
     await page.waitForTimeout(500);
@@ -59,7 +59,7 @@ module.exports = {
     } catch (_) {
       throw new Error("UNSUPPORTED_SOURCE_LANGUAGE");
     }
-    await page.screenshot({ path: "screens/3.png" });
+    // await page.screenshot({ path: "screens/3.png" });
 
     await page.waitForSelector(sourceLangMenu, { hidden: true });
 
