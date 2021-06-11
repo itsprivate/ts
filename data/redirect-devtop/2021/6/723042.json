@@ -57,5 +57,22 @@
   "original_created_at": "2021-06-09T13:26:50Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dSWfoRV7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oax4oet8phu25qlcbr8d.png",
   "author": "Josefine Schfr",
-  "author_url": "https://dev.to/josefine"
+  "author_url": "https://dev.to/josefine",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "勉強すればするほど、自分の知らないことがわかってくるような気がします。",
+      "title": "テクノロジーの最新情報をどのように入手していますか？"
+    },
+    {
+      "locale": "zh",
+      "description": "新手在这里寻求指导--我觉得我学得越多，就越能意识到我不知道的东西。",
+      "title": "你如何保持与科技的最新发展同步？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "新手在這裏尋求指導--我覺得我學得越多，就越能意識到我不知道的東西。",
+      "title": "你如何保持與科技的最新發展同步？"
+    }
+  ]
 }
