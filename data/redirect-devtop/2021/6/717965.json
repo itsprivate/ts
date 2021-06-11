@@ -43,5 +43,22 @@
   "original_created_at": "2021-06-04T12:01:16Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AeI423aC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xq65on1umyy4p6gope20.jpg",
   "author": "Eli H. Schei",
-  "author_url": "https://dev.to/elischei"
+  "author_url": "https://dev.to/elischei",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ウェブ・アクセシビリティの話題は膨大で、どこから手をつけていいかわからないことがあります。このブログ記事では、...",
+      "title": "今すぐ実践できる、5つのアクセシビリティ原則"
+    },
+    {
+      "locale": "zh",
+      "description": "网络可及性的主题是巨大的，可能很难知道从哪里开始。在这篇博文中，我...",
+      "title": "你现在可以开始实施的5个无障碍原则"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "網絡可及性的主題是巨大的，可能很難知道從哪裏開始。在這篇博文中，我...",
+      "title": "你現在可以開始實施的5個無障礙原則"
+    }
+  ]
 }

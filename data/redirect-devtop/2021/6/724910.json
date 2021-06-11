@@ -50,5 +50,22 @@
   "original_created_at": "2021-06-11T05:47:35Z",
   "image": "https://dev.to/social_previews/article/724910.png",
   "author": "Innocent Coder",
-  "author_url": "https://dev.to/innocentcoder"
+  "author_url": "https://dev.to/innocentcoder",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは！ここでは、私が日常的に使用している素晴らしいデザインリソースを紹介します。          色 色...",
+      "title": "私の秘密のデザインリソース"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好！我这里有我在日常生活中使用的很棒的设计资源。          颜色 颜色",
+      "title": "我的秘密设计资源"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好！我這裏有我在日常生活中使用的很棒的設計資源。          顏色 顏色",
+      "title": "我的祕密設計資源"
+    }
+  ]
 }
