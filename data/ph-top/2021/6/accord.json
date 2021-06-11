@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-11T07:15:00Z"
+  "original_createdAt": "2021-06-11T07:15:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Accordは、スタートアップ企業の法的文書の作成、編集、署名を支援するウェブアプリです。NDA、LOI、MOU、Privacy Policy、Pilot Agreementsなどの無料テンプレートから始めましょう。",
+      "tagline": "スタートアップのための法的文書の作成と署名"
+    },
+    {
+      "locale": "zh",
+      "description": "Accord是一个帮助初创企业创建、编辑和签署法律文件的网络应用。从我们的免费模板开始，包括NDAs、LOIs、MOUs、隐私政策、试点协议等。",
+      "tagline": "为你的创业公司生成和签署法律文件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Accord是一個幫助初創企業創建、編輯和簽署法律文件的網絡應用。從我們的免費模板開始，包括NDAs、LOIs、MOUs、隱私政策、試點協議等。",
+      "tagline": "爲你的創業公司生成和簽署法律文件"
+    }
+  ]
 }
