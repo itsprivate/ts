@@ -6,7 +6,7 @@ on:
 
 jobs:
   auto-translate:
-    runs-on: ubuntu-20.04
+    runs-on: macos-latest
     steps:
       - name: Check is building
         uses: actions/github-script@v4
