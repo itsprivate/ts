@@ -102,5 +102,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1623338476,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが知っている情報の中で、違法性を感じるものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你知道的一个信息是什么，感觉是非法的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你知道的一個信息是什麼，感覺是非法的？"
+    }
+  ]
 }
