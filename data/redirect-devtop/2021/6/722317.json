@@ -43,5 +43,22 @@
   "original_created_at": "2021-06-09T04:26:36Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wYlyzB51--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xk8zhp07rjrphhh0g0nq.jpg",
   "author": "Ashish J shetty",
-  "author_url": "https://dev.to/ashishjshetty"
+  "author_url": "https://dev.to/ashishjshetty",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このページをご覧になっている方は、おそらく「デバウンシング」という技術をご存知か、あるいは学びたいと思っているのではないでしょうか。",
+      "title": "javascriptでdebouncingを聞いたことがありますが、何ですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你在这里，你可能知道或想学习用于改善的脱胎换骨的做法。",
+      "title": "听说过javascript中的debouncing吗，它是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你在這裏，你可能知道或想學習用於改善的脫胎換骨的做法。",
+      "title": "聽說過javascript中的debouncing嗎，它是什麼？"
+    }
+  ]
 }
