@@ -102,5 +102,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1623374117,
-  "the_new_excerpt": "-a woman in her twenties"
+  "the_new_excerpt": "-a woman in her twenties",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "-20代の女性",
+      "title": "どのようにして、すべてのことに対して謝らなくて済むようになったのですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "-一个二十多岁的女人",
+      "title": "你是如何学会停止为......所有事情道歉的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "-一個二十多歲的女人",
+      "title": "你是如何學會停止爲......所有事情道歉的？"
+    }
+  ]
 }
