@@ -57,5 +57,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-09T11:18:40Z"
+  "original_createdAt": "2021-06-09T11:18:40Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最も重要なEuro 2020の試合が仕事中に行われることを考慮して、BBC iPlayerやITV playerのライブビデオストリームをビデオ通話に見せかけるChrome拡張機能を作りました。",
+      "tagline": "日中のEuro 2020観戦をビデオ通話に偽装する"
+    },
+    {
+      "locale": "zh",
+      "description": "由于一些最重要的2020年欧洲杯比赛是在工作日进行的，我们已经建立了一个Chrome扩展，将BBC iPlayer或ITV播放器上的现场视频流伪装成一个视频通话。",
+      "tagline": "将您白天观看2020年欧洲杯伪装成视频通话"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "由於一些最重要的2020年歐洲盃比賽是在工作日進行的，我們已經建立了一個Chrome擴展，將BBC iPlayer或ITV播放器上的現場視頻流僞裝成一個視頻通話。",
+      "tagline": "將您白天觀看2020年歐洲盃僞裝成視頻通話"
+    }
+  ]
 }

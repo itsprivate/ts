@@ -103,5 +103,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1623262182,
-  "the_new_excerpt": "Why YSK: The dew point is the temperature the air needs to be cooled to (at\nconstant pressure) in order to achieve a relative humidity (RH) of 100%. At this\npoint the air cannot hold more water in the gas form. If the air were to be\ncooled even more, water vapor would have to come out of the…"
+  "the_new_excerpt": "Why YSK: The dew point is the temperature the air needs to be cooled to (at\nconstant pressure) in order to achieve a relative humidity (RH) of 100%. At this\npoint the air cannot hold more water in the gas form. If the air were to be\ncooled even more, water vapor would have to come out of the…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "YSK: 露点とは、相対湿度（RH）を100％にするために、空気を（一定の圧力で）冷やす必要のある温度のことです。\n露点とは、相対湿度（RH）を100％にするために、空気を冷却する必要がある温度のことです（一定圧力時）。この時点で\nこの時点では、空気は気体の状態でそれ以上の水を保持することができません。もし空気がさらに冷やされると\n空気をさらに冷やすと、水蒸気が...",
+      "title": "YSK: 露点は、相対湿度よりも、外気の湿度を「感じる」のに適した測定方法です。露点＜55は快適、55～60は目立ちます。65以上は不愉快です。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么是YSK：露点是空气需要被冷却到的温度（在\n恒压），以达到100%的相对湿度（RH）。在这个\n空气不能以气体形式容纳更多的水。如果空气被冷却到\n如果空气被进一步冷却，水蒸气将不得不从空气中出来。",
+      "title": "YSK：露点是一个更好的测量方法，它比相对湿度更能反映出外面的潮湿 \"感觉\"。露点<55令人愉快，55-60是明显的。65以上是令人不快的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼是YSK：露點是空氣需要被冷卻到的溫度（在\n恆壓），以達到100%的相對溼度（RH）。在這個\n空氣不能以氣體形式容納更多的水。如果空氣被冷卻到\n如果空氣被進一步冷卻，水蒸氣將不得不從空氣中出來。",
+      "title": "YSK：露點是一個更好的測量方法，它比相對溼度更能反映出外面的潮溼 \"感覺\"。露點<55令人愉快，55-60是明顯的。65以上是令人不快的。"
+    }
+  ]
 }

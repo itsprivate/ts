@@ -113,5 +113,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Thu Jun 10 00:00:19 +0000 2021"
+  "original_created_at": "Thu Jun 10 00:00:19 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "航空会社の関係者によると、乗客と手荷物に使用される重量要件が約10％以上増加するとのことです。これにより、一部のフライトに影響が出て、より多くの乗客が移動したり、より多くの荷物を置いていかなければならない可能性があります。https://t.co/bqvJkwX30U"
+    },
+    {
+      "locale": "zh",
+      "full_text": "航空公司官员说，用于乘客和行李的重量要求将上升约10%或更多。这将影响一些航班，可能需要更多的乘客被撞，或更多的行李被遗弃。 https://t.co/bqvJkwX30U"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "航空公司官員說，用於乘客和行李的重量要求將上升約10%或更多。這將影響一些航班，可能需要更多的乘客被撞，或更多的行李被遺棄。 https://t.co/bqvJkwX30U"
+    }
+  ]
 }

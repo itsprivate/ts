@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-09T12:46:57Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pLUYdEq5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/woyl6by9qw1gwfmch1mv.png",
   "author": "Coderslang: Become a Software Engineer",
-  "author_url": "https://dev.to/coderslang"
+  "author_url": "https://dev.to/coderslang",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "デザインパターンとは、プログラミング上のよくある問題を迅速に解決するための青写真のようなものです。",
+      "title": "JavaScriptのデザインパターンを始める"
+    },
+    {
+      "locale": "zh",
+      "description": "设计模式是蓝图式的解决方案，你用它来迅速解决常见的编程问题。",
+      "title": "掌握JavaScript设计模式的入门方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "設計模式是藍圖式的解決方案，你用它來迅速解決常見的編程問題。",
+      "title": "掌握JavaScript設計模式的入門方法"
+    }
+  ]
 }

@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-10T07:12:38Z"
+  "original_createdAt": "2021-06-10T07:12:38Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Material Tailwind Kit Reactは、人気の高い2つのフロントエンド技術をベースにした、フリー＆オープンソースのUIキットです。Tailwind CSSとReactです。そのデザインは、GoogleのMaterial Designにインスパイアされています。✅ 120のエレメント ✅ 4つのサンプルページ",
+      "tagline": "Free Tailwind CSS & React UI Kit"
+    },
+    {
+      "locale": "zh",
+      "description": "Material Tailwind Kit React是一个免费和开源的UI工具包，基于两种流行的前端技术。尾风CSS和React。它的设计灵感来自于谷歌的Material Design。✅ 120个元素 ✅ 4个示例页面",
+      "tagline": "免费的Tailwind CSS & React UI工具包"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Material Tailwind Kit React是一個免費和開源的UI工具包，基於兩種流行的前端技術。尾風CSS和React。它的設計靈感來自於谷歌的Material Design。✅ 120個元素 ✅ 4個示例頁面",
+      "tagline": "免費的Tailwind CSS & React UI工具包"
+    }
+  ]
 }

@@ -92,5 +92,19 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Wed Jun 09 16:42:03 +0000 2021"
+  "original_created_at": "Wed Jun 09 16:42:03 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "企業は助けを求める看板を探すのに苦労しています。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "公司正在努力寻找帮助的标志。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "公司正在努力尋找幫助的標誌。"
+    }
+  ]
 }

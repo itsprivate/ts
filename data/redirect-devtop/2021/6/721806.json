@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-08T18:42:16Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--aUCcH8ck--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i2ux5s4c1a4dp3gruebn.png",
   "author": "Nitin Ranganath",
-  "author_url": "https://dev.to/itsnitinr"
+  "author_url": "https://dev.to/itsnitinr",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "バックエンドのパフォーマンスやセキュリティを他の機能と一緒に重視するようになると、...",
+      "title": "5分でNode.jsのバックエンドを保護する5つのNPMパッケージ "
+    },
+    {
+      "locale": "zh",
+      "description": "当你开始在关注其他功能的同时关注你的后台的性能和安全时，...",
+      "title": "5个NPM包在5分钟内保护你的Node.js后端 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當你開始在關注其他功能的同時關注你的後臺的性能和安全時，...",
+      "title": "5個NPM包在5分鐘內保護你的Node.js後端 "
+    }
+  ]
 }

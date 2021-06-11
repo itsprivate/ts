@@ -113,5 +113,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Wed Jun 09 15:45:15 +0000 2021"
+  "original_created_at": "Wed Jun 09 15:45:15 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "中国の広州市では、日曜日から火曜日にかけて、1870万人の全人口を対象に検査を実施し、18万人以上の住民を完全に隔離しました。これは、当局がデルタ型ウイルスに起因する新たなコビドの発生に対処するためです。https://t.co/37ZWwDzsHf"
+    },
+    {
+      "locale": "zh",
+      "full_text": "中国广州市在周日至周二期间几乎对其1,870万人口进行了测试，并对18万多居民进行了全面封锁，以应对官员们归咎于三角洲变体的新的柯维德疫情。https://t.co/37ZWwDzsHf。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "中國廣州市在週日至週二期間幾乎對其1,870萬人口進行了測試，並對18萬多居民進行了全面封鎖，以應對官員們歸咎於三角洲變體的新的柯維德疫情。https://t.co/37ZWwDzsHf。"
+    }
+  ]
 }

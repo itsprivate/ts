@@ -444,5 +444,22 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Wed Jun 09 23:47:55 +0000 2021"
+  "original_created_at": "Wed Jun 09 23:47:55 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @jack: 再生可能エネルギーのインセンティブとなる#bitcoin",
+      "retweeted_status_full_text": "#bitcoin incentivizes renewable energy https://t.co/UEMcyWPfhG"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @jack: #比特币激励了可再生能源",
+      "retweeted_status_full_text": "#比特币激励可再生能源https://t.co/UEMcyWPfhG"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @jack: #比特幣激勵了可再生能源",
+      "retweeted_status_full_text": "#比特幣激勵可再生能源https://t.co/UEMcyWPfhG"
+    }
+  ]
 }

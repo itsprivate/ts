@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-08T03:29:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AU3NlADb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5wkox81m9poofyee4ejx.jpg",
   "author": "Ash",
-  "author_url": "https://dev.to/ash_bergs"
+  "author_url": "https://dev.to/ash_bergs",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この数週間は、ちょっとした交通事故や長引く病気への対応など、慌ただしい日々が続いていました。",
+      "title": "React Hooksを理解するためのクイックガイド"
+    },
+    {
+      "locale": "zh",
+      "description": "过去几周，生活一直很忙碌--从处理一场小车祸，到一场长时间的疾病。",
+      "title": "了解React Hooks的快速指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "過去幾周，生活一直很忙碌--從處理一場小車禍，到一場長時間的疾病。",
+      "title": "瞭解React Hooks的快速指南"
+    }
+  ]
 }

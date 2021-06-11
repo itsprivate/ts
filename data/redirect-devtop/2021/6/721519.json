@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-08T12:54:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qw4n-IYp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0v6ecx4l43ysa7mqwav8.png",
   "author": "Akshay Pai",
-  "author_url": "https://dev.to/sadanandpai"
+  "author_url": "https://dev.to/sadanandpai",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "みなさん、こんにちは！ 「ソートアルゴリズムのビジュアライザー」を設計・開発しました（ReactとZustandを使用）。",
+      "title": "ソートアルゴリズムのビジュアライザ"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，我设计并开发了 \"排序算法可视化工具\"（使用React和Zustand），以帮助我的朋友们。",
+      "title": "排序算法展示台"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，我設計並開發了 \"排序算法可視化工具\"（使用React和Zustand），以幫助我的朋友們。",
+      "title": "排序算法展示臺"
+    }
+  ]
 }

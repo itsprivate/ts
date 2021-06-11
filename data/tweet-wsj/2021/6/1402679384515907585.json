@@ -233,5 +233,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Wed Jun 09 17:30:00 +0000 2021"
+  "original_created_at": "Wed Jun 09 17:30:00 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "#WSJWhatsNow エルサルバドルは水曜日に、ビットコインを法定通貨として承認した最初の国となる法律を可決しました。これが何を意味するのか、 https://t.co/f3hiFEtPJh https://t.co/Sdpx6zAxGM"
+    },
+    {
+      "locale": "zh",
+      "full_text": "#WSJWhatsNow: 萨尔瓦多周三通过了一项法律，使其成为第一个批准比特币为法定货币的国家。这意味着什么。https://t.co/f3hiFEtPJh https://t.co/Sdpx6zAxGM"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "#WSJWhatsNow: 薩爾瓦多週三通過了一項法律，使其成爲第一個批准比特幣爲法定貨幣的國家。這意味着什麼。https://t.co/f3hiFEtPJh https://t.co/Sdpx6zAxGM"
+    }
+  ]
 }

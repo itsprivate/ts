@@ -57,5 +57,22 @@
   "original_created_at": "2021-06-07T11:03:01Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--a0VqOvf_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4a6t7pmm323uaz9rv1rf.png",
   "author": "Saji Wang",
-  "author_url": "https://dev.to/sewangco"
+  "author_url": "https://dev.to/sewangco",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "開発やUXの世界では、配色ほど議論の対象になるものはありません。開発者の間では、...",
+      "title": "本当にダークモードでコーディングすべきなのか？"
+    },
+    {
+      "locale": "zh",
+      "description": "在开发和用户体验领域，很少有像配色方案这样有争议的争论。在开发和用户体验领域，很少有像配色方案这样的争论。",
+      "title": "你真的应该在黑暗模式下进行编码吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在開發和用戶體驗領域，很少有像配色方案這樣有爭議的爭論。在開發和用戶體驗領域，很少有像配色方案這樣的爭論。",
+      "title": "你真的應該在黑暗模式下進行編碼嗎？"
+    }
+  ]
 }

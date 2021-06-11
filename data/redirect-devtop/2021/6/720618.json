@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-07T13:49:12Z",
   "image": "https://dev.to/social_previews/article/720618.png",
   "author": "Krowser Web Services ",
-  "author_url": "https://dev.to/krowser"
+  "author_url": "https://dev.to/krowser",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この質問は何度も出ています。スタートアップ企業のコアチームを組むことから、このような質問まで。",
+      "title": "優れた開発者の条件とは？- オピニオン"
+    },
+    {
+      "locale": "zh",
+      "description": "这个问题一次又一次地出现了。从组建初创公司的核心团队到组建新公司，都是如此。",
+      "title": "什么造就了伟大的开发者？- 观点"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這個問題一次又一次地出現了。從組建初創公司的核心團隊到組建新公司，都是如此。",
+      "title": "什麼造就了偉大的開發者？- 觀點"
+    }
+  ]
 }
