@@ -50,5 +50,22 @@
   "original_created_at": "2021-06-08T19:56:25Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Jjauxhgx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ujwr2eimhtj7wrcr37s2.gif",
   "author": "Chris Greening",
-  "author_url": "https://dev.to/chrisgreening"
+  "author_url": "https://dev.to/chrisgreening",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私は古いビデオゲームが大好きです。  子供の頃の一番の思い出は、ロングアイランドのダイナーに一緒に行って...。",
+      "title": "私のポートフォリオのホームページにJavaScriptのアーケードゲームを追加しました。"
+    },
+    {
+      "locale": "zh",
+      "description": "我喜欢老式电子游戏。  我小时候最美好的记忆之一是和我的朋友一起去长岛的一家餐馆吃饭。",
+      "title": "我在我的投资组合的主页上添加了一个JavaScript街机游戏"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我喜歡老式電子遊戲。  我小時候最美好的記憶之一是和我的朋友一起去長島的一家餐館喫飯。",
+      "title": "我在我的投資組合的主頁上添加了一個JavaScript街機遊戲"
+    }
+  ]
 }
