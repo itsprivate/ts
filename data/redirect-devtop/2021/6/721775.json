@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-08T17:52:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Wii4IZpb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wubpju89fo5k6yxito58.png",
   "author": "CodeBucks",
-  "author_url": "https://dev.to/codebucks"
+  "author_url": "https://dev.to/codebucks",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "モーダルは、一般的なUXの要素です。モーダルとは、手書きの画面の上に表示されるダイアログボックス／ポップアップウィンドウのことです。",
+      "title": "フックとポータルを使ってReactで効率的なモーダルコンポーネントを作成する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "模态是一个常见的用户体验元素。模态是一个对话框/弹出式窗口，显示在计算机的顶部。",
+      "title": "如何在React中使用Hooks和Portals创建一个高效的Modal组件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "模態是一個常見的用戶體驗元素。模態是一個對話框/彈出式窗口，顯示在計算機的頂部。",
+      "title": "如何在React中使用Hooks和Portals創建一個高效的Modal組件"
+    }
+  ]
 }

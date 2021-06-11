@@ -151,5 +151,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1623340673,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このサブの状態です。止める必要があります。"
+    },
+    {
+      "locale": "zh",
+      "title": "这个子的状态。它需要停止。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個子的狀態。它需要停止。"
+    }
+  ]
 }
