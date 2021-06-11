@@ -107,5 +107,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1623377694,
-  "the_new_excerpt": "Today is my birthday and I always find i get really down every year. Is this\ncommon for people?"
+  "the_new_excerpt": "Today is my birthday and I always find i get really down every year. Is this\ncommon for people?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "今日は私の誕生日ですが、私は毎年、本当に落ち込んでしまいます。これは\n人にはよくあることなのでしょうか？",
+      "title": "誕生日や休日にすごく悲しくなる人はいませんか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "今天是我的生日，我总是发现我每年都非常沮丧。这是否\n人的普遍现象吗？",
+      "title": "还有人在自己的生日或节假日会非常难过吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "今天是我的生日，我總是發現我每年都非常沮喪。這是否\n人的普遍現象嗎？",
+      "title": "還有人在自己的生日或節假日會非常難過嗎？"
+    }
+  ]
 }
