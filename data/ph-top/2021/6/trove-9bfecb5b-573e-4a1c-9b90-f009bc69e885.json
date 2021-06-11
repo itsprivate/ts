@@ -87,5 +87,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-09T07:01:00Z"
+  "original_createdAt": "2021-06-09T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Troveは、共有する価値のある知識のための場所です。🗃️ メモやリンクをキュレーションして整理することができます 🕵️ 公開・非公開を問わず、他の人とコラボレーションすることができます🤝 💻 Chrome拡張機能で、ブラウザから直接保存することができます 👀 他の人をフォローすると、自分のフィードに他の人の知識が表示されます",
+      "tagline": "知識を得るためのPinterest"
+    },
+    {
+      "locale": "zh",
+      "description": "Trove是一个值得分享知识的地方。🗃️ 策划和组织笔记和链接 🕵️ 公开或私密 🤝 与他人合作 💻 Chrome扩展，直接从浏览器保存 👀 关注他人，在你的feed中看到他们的知识",
+      "tagline": "知识的Pinterest"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Trove是一個值得分享知識的地方。🗃️ 策劃和組織筆記和鏈接 🕵️ 公開或私密 🤝 與他人合作 💻 Chrome擴展，直接從瀏覽器保存 👀 關注他人，在你的feed中看到他們的知識",
+      "tagline": "知識的Pinterest"
+    }
+  ]
 }

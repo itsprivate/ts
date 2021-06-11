@@ -93,5 +93,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-10T07:05:00Z"
+  "original_createdAt": "2021-06-10T07:05:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "hotglueは、ユーザーに真の価値を提供するために開発者が必要とする拡張性を犠牲にすることなく、スケールするネイティブSaaS統合を構築する最もシンプルな方法です。今すぐhotglueチームとのチャットを予約してください。",
+      "tagline": "ネイティブなユーザーインターフェースのSaaS統合を顧客に提供"
+    },
+    {
+      "locale": "zh",
+      "description": "hotglue是建立本地SaaS集成的最简单的方法，它可以在不牺牲开发者为其用户增加真正价值所需的扩展性的情况下进行扩展。今天就来和hotglue团队聊一聊如何开始吧!",
+      "tagline": "向你的客户提供面向用户的本地SaaS整合服务"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "hotglue是建立本地SaaS集成的最簡單的方法，它可以在不犧牲開發者爲其用戶增加真正價值所需的擴展性的情況下進行擴展。今天就來和hotglue團隊聊一聊如何開始吧!",
+      "tagline": "向你的客戶提供面向用戶的本地SaaS整合服務"
+    }
+  ]
 }

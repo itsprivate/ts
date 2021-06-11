@@ -92,5 +92,19 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Thu Jun 10 12:57:31 +0000 2021"
+  "original_created_at": "Thu Jun 10 12:57:31 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "もし、FRBが経済を大恐慌に突入させていれば、消費者物価は上昇していなかっただろう。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "如果美联储只是让经济进入大萧条，消费者价格就不会上升。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "如果美聯儲只是讓經濟進入大蕭條，消費者價格就不會上升。"
+    }
+  ]
 }

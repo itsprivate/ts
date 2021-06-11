@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-10T07:01:00Z"
+  "original_createdAt": "2021-06-10T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あなたに相応しいモニターアプリです。もうすぐオープンベータ版が公開されます。そして発売はその数週間後になります。https://usage.pro",
+      "tagline": "あなたのMacのための最も先進的で近代的なモニタリング!"
+    },
+    {
+      "locale": "zh",
+      "description": "你们都值得拥有的监测应用程序! 它很快就可以在开放测试版中使用。而推出将在几周后。https://usage.pro",
+      "tagline": "为您的Mac提供最先进、最现代的监控!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你們都值得擁有的監測應用程序! 它很快就可以在開放測試版中使用。而推出將在幾周後。https://usage.pro",
+      "tagline": "爲您的Mac提供最先進、最現代的監控!"
+    }
+  ]
 }

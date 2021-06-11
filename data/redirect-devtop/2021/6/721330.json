@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-08T08:12:52Z",
   "image": "https://dev.to/social_previews/article/721330.png",
   "author": "Pavel Polívka",
-  "author_url": "https://dev.to/pavel_polivka"
+  "author_url": "https://dev.to/pavel_polivka",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "\"学び続けること\" この言葉は、優れた開発者になるためのガイドに必ず書かれていることのひとつです。",
+      "title": "開発者として学び続けるためには"
+    },
+    {
+      "locale": "zh",
+      "description": "\"继续学习\"。这是你在每一个关于如何成为一个好的开发者的指南上都会读到的东西之一。",
+      "title": "作为一个开发者如何不断学习"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "\"繼續學習\"。這是你在每一個關於如何成爲一個好的開發者的指南上都會讀到的東西之一。",
+      "title": "作爲一個開發者如何不斷學習"
+    }
+  ]
 }

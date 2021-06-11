@@ -178,5 +178,19 @@
   },
   "is_video": true,
   "original_created_utc": 1623271479,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "OC] ⚽️All the passes, 主要サッカーリーグ/カップで行われた890試合の約100万本のパスを可視化したものです。インタラクティブなビジュアル: https://observablehq.com/@karimdouieb/all-the-passes は、StatsBomb のデータを使用して Three.js で行われています。"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]⚽️所有的传球，一个来自主要足球联赛/杯赛的890场比赛的~100万次传球的可视化。互动视觉：https://observablehq.com/@karimdouieb/all-the-passes 使用StatsBomb的数据，用Three.js完成。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]⚽️所有的傳球，一個來自主要足球聯賽/盃賽的890場比賽的~100萬次傳球的可視化。互動視覺：https://observablehq.com/@karimdouieb/all-the-passes 使用StatsBomb的數據，用Three.js完成。"
+    }
+  ]
 }

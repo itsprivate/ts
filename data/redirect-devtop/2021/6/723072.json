@@ -50,5 +50,22 @@
   "original_created_at": "2021-06-09T14:22:19Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ABsW33gu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z7hv4g9221qw4qq5wi56.jpeg",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "昨日のFastlyの障害で影響を受けた方もいらっしゃると思います。同社は迅速に対応してくれましたが、それは...",
+      "title": "クラウド・コンピューティングの10年に備えよう"
+    },
+    {
+      "locale": "zh",
+      "description": "我相信你一定受到了昨天Fastly故障的影响。该公司迅速作出反应，而且它并没有影响到你。",
+      "title": "为云计算的疯狂十年扣好安全带"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我相信你一定受到了昨天Fastly故障的影響。該公司迅速作出反應，而且它並沒有影響到你。",
+      "title": "爲雲計算的瘋狂十年扣好安全帶"
+    }
+  ]
 }
