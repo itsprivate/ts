@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-08T15:38:17Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EuXDyv0E--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jpph117sbmz1tp0vpr6i.png",
   "author": "Cher",
-  "author_url": "https://dev.to/cher"
+  "author_url": "https://dev.to/cher",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ここ数年、Twitterの利用者が明らかに偏っているという声が大きくなってきました。",
+      "title": "STEMとTwitter。バイアスの検証"
+    },
+    {
+      "locale": "zh",
+      "description": "在过去的几年里，人们对推特的明显偏见越来越大声。",
+      "title": "STEM与Twitter。经证实的偏见"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在過去的幾年裏，人們對推特的明顯偏見越來越大聲。",
+      "title": "STEM與Twitter。經證實的偏見"
+    }
+  ]
 }
