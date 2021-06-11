@@ -52,5 +52,22 @@
   "original_created_at": "2021-06-09T11:01:18Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--eRapv-Zr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s0pa111ja39j0eni3da6.png",
   "author": "Temani Afif",
-  "author_url": "https://dev.to/afif"
+  "author_url": "https://dev.to/afif",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "FlexboxやCSS Gridが登場して以来、「floatは死んだ！」「floatを使うのはやめよう！」と誰もが同じことを言っています。",
+      "title": "ヘキサゴンとその先へ。レスポンシブ・グリッド・パターン、メディアクエリは不要"
+    },
+    {
+      "locale": "zh",
+      "description": "自从Flexbox和CSS Grid兴起以来，每个人都在叫嚣着：\"浮动已死！\"、\"停止使用浮动。",
+      "title": "六角形及其他。响应式网格模式，不需要媒体查询"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "自從Flexbox和CSS Grid興起以來，每個人都在叫囂着：\"浮動已死！\"、\"停止使用浮動。",
+      "title": "六角形及其他。響應式網格模式，不需要媒體查詢"
+    }
+  ]
 }
