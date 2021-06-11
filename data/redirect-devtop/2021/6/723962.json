@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-10T06:42:27Z",
   "image": "https://dev.to/social_previews/article/723962.png",
   "author": "The Nerdy Dev",
-  "author_url": "https://dev.to/thenerdydev"
+  "author_url": "https://dev.to/thenerdydev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "みんな、Reactを簡単に学べるように、本格的なビデオを作ったよ。 このビデオには...",
+      "title": "1つの大きなプロジェクトでReactを学ぶ [NOTES付属] - デモとビデオリンク"
+    },
+    {
+      "locale": "zh",
+      "description": "嘿，伙计们，我创建了一个成熟的视频，以帮助其他人轻松地学习React。 这段视频包括：1...",
+      "title": "用一个大项目学习React [包括注释] - 演示和视频链接"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嘿，夥計們，我創建了一個成熟的視頻，以幫助其他人輕鬆地學習React。 這段視頻包括：1...",
+      "title": "用一個大項目學習React [包括註釋] - 演示和視頻鏈接"
+    }
+  ]
 }
