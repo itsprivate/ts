@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-09T01:05:09Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--alISht9Q--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l79bx48ccmy0edd6w8xb.png",
   "author": "Danilo César",
-  "author_url": "https://dev.to/danilo"
+  "author_url": "https://dev.to/danilo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事は以下の言語でもご覧いただけます。ポルトガル語。  前回の記事で、私たちは...",
+      "title": "クロスサイト・リクエスト・フォージェリ（CSRFまたはXSRF）について"
+    },
+    {
+      "locale": "zh",
+      "description": "这个帖子还有以下语言版本。葡萄牙语。  在上一篇文章中，我们已经让...",
+      "title": "了解跨站请求伪造（CSRF或XSRF）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這個帖子還有以下語言版本。葡萄牙語。  在上一篇文章中，我們已經讓...",
+      "title": "瞭解跨站請求僞造（CSRF或XSRF）。"
+    }
+  ]
 }
