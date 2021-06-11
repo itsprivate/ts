@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-11T08:37:32Z"
+  "original_createdAt": "2021-06-11T08:37:32Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "真新しいAngelList Recruitは、スタートアップに適した人材を見つけ、つなぎ、採用するのに役立つ一連の製品です。AngelListの800万人以上のユーザーのネットワークを基に構築されたRecruitは、プレシードからポストIPOまでの10万社以上の企業の採用をサポートします。",
+      "tagline": "スタートアップに適した人材を見つけ、つなぎ、採用するための製品群"
+    },
+    {
+      "locale": "zh",
+      "description": "全新的AngelList Recruit是一套产品，可以帮助你寻找、联系和雇用适合创业的人才。基于AngelList 800多万用户的网络，Recruit为10多万家公司提供从种子期到上市后的招聘服务。",
+      "tagline": "寻找、联系和雇用适合创业的人才的产品套件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "全新的AngelList Recruit是一套產品，可以幫助你尋找、聯繫和僱用適合創業的人才。基於AngelList 800多萬用戶的網絡，Recruit爲10多萬家公司提供從種子期到上市後的招聘服務。",
+      "tagline": "尋找、聯繫和僱用適合創業的人才的產品套件"
+    }
+  ]
 }
