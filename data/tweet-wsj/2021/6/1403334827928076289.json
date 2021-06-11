@@ -113,5 +113,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Fri Jun 11 12:54:30 +0000 2021"
+  "original_created_at": "Fri Jun 11 12:54:30 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "マクドナルド社は、米国、韓国、台湾のシステムがデータ流出の被害を受けたと発表しました。これは、有名なグローバル企業にハッカーが侵入した最新の例です。https://t.co/yz33nnBbLa"
+    },
+    {
+      "locale": "zh",
+      "full_text": "麦当劳表示，其在美国、韩国和台湾的系统遭到了数据泄露，这是黑客渗透到一家高知名度的全球公司的最新例子https://t.co/yz33nnBbLa。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "麥當勞表示，其在美國、韓國和臺灣的系統遭到了數據泄露，這是黑客滲透到一家高知名度的全球公司的最新例子https://t.co/yz33nnBbLa。"
+    }
+  ]
 }
