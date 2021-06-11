@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-06-11T14:25:08.000Z",
-  "image": "https://engineering.theblueground.com/img/2021/05/migration.jpg"
+  "image": "https://engineering.theblueground.com/img/2021/05/migration.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ダウンタイムゼロのPostgres移行を実現"
+    },
+    {
+      "locale": "zh",
+      "title": "零停机时间的Postgres迁移，做得很好"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "零停機時間的Postgres遷移，做得很好"
+    }
+  ]
 }

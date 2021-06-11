@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-06-10T06:57:24.000Z",
-  "image": "https://openrgb.org/images/green.webp"
+  "image": "https://openrgb.org/images/green.webp",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "OpenRGB：オープンソースのRGB照明制御"
+    },
+    {
+      "locale": "zh",
+      "title": "OpenRGB: 开源的RGB照明控制"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "OpenRGB: 開源的RGB照明控制"
+    }
+  ]
 }
