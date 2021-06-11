@@ -102,5 +102,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1623384700,
-  "the_new_excerpt": "P.S. (The Final three beeps will betray you)"
+  "the_new_excerpt": "P.S. (The Final three beeps will betray you)",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "P.S. (最後の3回のビープ音があなたを裏切ります)",
+      "title": "0:01秒で電子レンジを止めて、自分の存在をアピールしないようにしている人はいますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "P.S. （最后的三声蜂鸣会出卖你）。",
+      "title": "是否有人会在0:01秒时停止使用微波炉，以便不宣布你的存在"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "P.S. （最後的三聲蜂鳴會出賣你）。",
+      "title": "是否有人會在0:01秒時停止使用微波爐，以便不宣佈你的存在"
+    }
+  ]
 }
