@@ -41,5 +41,22 @@
   "original_created_at": "2021-06-12T07:14:45Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TswGU8Iv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bwljgpmhqrthvujmw8iv.png",
   "author": "milindsoorya",
-  "author_url": "https://dev.to/milindsoorya"
+  "author_url": "https://dev.to/milindsoorya",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "プロミスをより快適に扱うために、「async/await」という特別な構文があります。これは驚くほど理解しやすく、使いやすいものです。",
+      "title": "Async/Awaitを使うためのヒント - より良いJavaScriptを書こう"
+    },
+    {
+      "locale": "zh",
+      "description": "有一种特殊的语法可以以一种更舒适的方式处理承诺，称为 \"async/await\"。它令人惊讶地易于理解和使用。",
+      "title": "使用Async/Await的技巧 - 编写更好的JavaScript!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有一種特殊的語法可以以一種更舒適的方式處理承諾，稱爲 \"async/await\"。它令人驚訝地易於理解和使用。",
+      "title": "使用Async/Await的技巧 - 編寫更好的JavaScript!"
+    }
+  ]
 }
