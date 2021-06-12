@@ -178,5 +178,19 @@
   },
   "is_video": true,
   "original_created_utc": 1623502272,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私は、ソフトウェア開発チームがアプリケーション内のコンテンツのスニペットを管理するためのツールを作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我建立了一个工具，帮助软件开发团队管理他们应用程序中的内容片段。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我建立了一個工具，幫助軟件開發團隊管理他們應用程序中的內容片段。"
+    }
+  ]
 }
