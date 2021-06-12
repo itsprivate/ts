@@ -159,5 +159,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1623475960,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "カルダノの公開テストネット「アロンゾ」では、初めてスマートコントラクトの実行に成功しました。"
+    },
+    {
+      "locale": "zh",
+      "title": "Alonzo，Cardano的公共测试网，有第一个智能合约成功执行。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Alonzo，Cardano的公共測試網，有第一個智能合約成功執行。"
+    }
+  ]
 }
