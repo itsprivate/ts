@@ -389,5 +389,22 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Sat Jun 12 08:25:14 +0000 2021"
+  "original_created_at": "Sat Jun 12 08:25:14 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @wef: 暗号通貨はグローバルな金融包摂を可能にします。@jpmorgan @cmoyall @makeopenmoney @jillruthcarlson https://t.co/Lx5WibKz2D...",
+      "retweeted_status_full_text": "暗号通貨はグローバルな金融包摂を可能にします。@jpmorgan @cmoyall @makeopenmoney @jillruthcarlson https://t.co/Lx5WibKz2D https://t.co/SmWzD7ss0p"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @wef: 加密货币可以实现全球金融包容性。@jpmorgan @cmoyall @makeopenmoney @jillruthcarlson https://t.co/Lx5WibKz2D...",
+      "retweeted_status_full_text": "加密货币可以实现全球金融包容性。@jpmorgan @cmoyall @makeopenmoney @jillruthcarlson https://t.co/Lx5WibKz2D https://t.co/SmWzD7ss0p"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @wef: 加密貨幣可以實現全球金融包容性。@jpmorgan @cmoyall @makeopenmoney @jillruthcarlson https://t.co/Lx5WibKz2D...",
+      "retweeted_status_full_text": "加密貨幣可以實現全球金融包容性。@jpmorgan @cmoyall @makeopenmoney @jillruthcarlson https://t.co/Lx5WibKz2D https://t.co/SmWzD7ss0p"
+    }
+  ]
 }
