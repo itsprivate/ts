@@ -102,5 +102,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1623462418,
-  "the_new_excerpt": "as kings*"
+  "the_new_excerpt": "as kings*",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "キングス*として",
+      "title": "中世の銀行家は、王様のような強力な顧客が融資を返済することをどのように保証したのでしょうか。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "作为国王的*。",
+      "title": "中世纪的银行家如何保证像国王这样有权势的客户会偿还贷款？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "作爲國王的*。",
+      "title": "中世紀的銀行家如何保證像國王這樣有權勢的客戶會償還貸款？"
+    }
+  ]
 }
