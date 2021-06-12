@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-08T21:46:26Z",
   "image": "https://dev.to/social_previews/article/721967.png",
   "author": "Krowser Web Services ",
-  "author_url": "https://dev.to/krowser"
+  "author_url": "https://dev.to/krowser",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "神話は古代から人間に寄り添ってきたもので、ハイテク化した現代でも存在しています。しかし、そのようなことはありません。",
+      "title": "ソフトウェア開発にまつわる神話"
+    },
+    {
+      "locale": "zh",
+      "description": "自古以来，神话一直伴随着人类，在我们的高科技世界中仍然存在。因此，尽管...",
+      "title": "软件开发的误区"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "自古以來，神話一直伴隨着人類，在我們的高科技世界中仍然存在。因此，儘管...",
+      "title": "軟件開發的誤區"
+    }
+  ]
 }
