@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-09T16:03:41Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_x1p8qZn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o1sm3huwzheuquup6gvy.png",
   "author": "Camilo Martinez",
-  "author_url": "https://dev.to/equiman"
+  "author_url": "https://dev.to/equiman",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CRA: Create React App」や「Vite」などのツールを使えば、ブートストラップのReactプロジェクトを作ることができます。",
+      "title": "強力なReactプロジェクトのセットアップ"
+    },
+    {
+      "locale": "zh",
+      "description": "实际上，你可以用CRA: Create React App, Vite等工具创建一个bootstrap React项目。",
+      "title": "强大的React项目设置"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "實際上，你可以用CRA: Create React App, Vite等工具創建一個bootstrap React項目。",
+      "title": "強大的React項目設置"
+    }
+  ]
 }
