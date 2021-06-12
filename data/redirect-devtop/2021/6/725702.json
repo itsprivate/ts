@@ -50,5 +50,22 @@
   "original_created_at": "2021-06-11T22:28:47Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oOGrODVl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/91a3tiqiwdkywqxujghi.png",
   "author": "Hello Dev World Blog",
-  "author_url": "https://dev.to/hellodevworldblog"
+  "author_url": "https://dev.to/hellodevworldblog",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事にはアフィリエイトリンクが含まれています。あなたがこれらのリンクを使って何かを購入した場合、私は手数料を得ることができます....",
+      "title": "2021年、ソフトウェア開発に最適なノートパソコン"
+    },
+    {
+      "locale": "zh",
+      "description": "这篇文章包含联盟链接。如果你使用这些链接购买东西，我可能会赚取佣金....。",
+      "title": "2021年最适合软件开发的笔记本电脑"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這篇文章包含聯盟鏈接。如果你使用這些鏈接購買東西，我可能會賺取佣金....。",
+      "title": "2021年最適合軟件開發的筆記本電腦"
+    }
+  ]
 }
