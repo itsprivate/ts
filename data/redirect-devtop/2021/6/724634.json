@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-10T21:54:09Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fVSC1n8P--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1o70xdpqx61z44qc4ohw.jpg",
   "author": "John Woodruff",
-  "author_url": "https://dev.to/johnbwoodruff"
+  "author_url": "https://dev.to/johnbwoodruff",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私は仕事やサイドプロジェクトでAngularを使うのが好きです。完全に意見ベースのこの記事で、その理由を読んでみてください。",
+      "title": "Angularを選択した私の完全に偏った理由"
+    },
+    {
+      "locale": "zh",
+      "description": "我喜欢在我的工作和辅助项目中使用Angular。在这篇完全基于观点的文章中，来看看为什么吧!",
+      "title": "我选择Angular的完全偏见的原因"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我喜歡在我的工作和輔助項目中使用Angular。在這篇完全基於觀點的文章中，來看看爲什麼吧!",
+      "title": "我選擇Angular的完全偏見的原因"
+    }
+  ]
 }
