@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-10T11:04:04Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EL3sqffM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oqumq0ltbyjd3vphdq5z.jpg",
   "author": "Abubakkar Sithik",
-  "author_url": "https://dev.to/abusithik"
+  "author_url": "https://dev.to/abusithik",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ビジュアルリグレッションテストとは？   有名なWikipediaの定義によると、回帰...",
+      "title": "BackstopJSによるビジュアル回帰テストの自動化"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是视觉回归测试？   在更著名的维基百科的定义中，回归...",
+      "title": "用BackstopJS进行自动化的视觉回归测试"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是視覺迴歸測試？   在更著名的維基百科的定義中，迴歸...",
+      "title": "用BackstopJS進行自動化的視覺迴歸測試"
+    }
+  ]
 }
