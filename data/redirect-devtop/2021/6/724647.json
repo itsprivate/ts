@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-10T22:28:24Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Ftj_If6f--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/blklu7hgo0vbbo6jienn.png",
   "author": "Anvil Engineering",
-  "author_url": "https://dev.to/useanvil"
+  "author_url": "https://dev.to/useanvil",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CORS (Cross-Origin Resource Sharing) は、開発者が製品を作る際に初期段階で問題となるものの一つです。",
+      "title": "CORSについて"
+    },
+    {
+      "locale": "zh",
+      "description": "CORS，即跨源资源共享，是一个在早期创建时就会咬住开发人员的东西。",
+      "title": "了解CORS"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "CORS，即跨源資源共享，是一個在早期創建時就會咬住開發人員的東西。",
+      "title": "瞭解CORS"
+    }
+  ]
 }
