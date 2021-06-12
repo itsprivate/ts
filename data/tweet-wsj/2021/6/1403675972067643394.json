@@ -124,5 +124,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Sat Jun 12 11:30:05 +0000 2021"
+  "original_created_at": "Sat Jun 12 11:30:05 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "@WSJopinionより。多くの専門家は実験室からの漏洩を積極的に否定していたが、今になってようやくそれを認めた。1年前に主張するのは勇気のいることだった。https://t.co/dTV6KBupro"
+    },
+    {
+      "locale": "zh",
+      "full_text": "来自@WSJopinion。许多专家极力否认实验室泄漏的可能性，现在才承认。一年前提出这个案子需要勇气。https://t.co/dTV6KBupro"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "來自@WSJopinion。許多專家極力否認實驗室泄漏的可能性，現在才承認。一年前提出這個案子需要勇氣。https://t.co/dTV6KBupro"
+    }
+  ]
 }
