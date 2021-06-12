@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-11T15:23:16Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oLgKoQwU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://reactbootcamp.com/content/images/2021/06/5-ways-to-level-up-your-react-conditionals.png",
   "author": "Reed Barger",
-  "author_url": "https://dev.to/reedbarger"
+  "author_url": "https://dev.to/reedbarger",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あなたはReactアプリケーション内で条件分岐を正しく書いていますか？ 優れたコンディショナルは、Reactアプリケーションには欠かせません。",
+      "title": "Reactのコンディショナルをレベルアップする方法"
+    },
+    {
+      "locale": "zh",
+      "description": "你在React应用程序中正确地编写了条件语句吗？ 好的条件语句是一个重要的组成部分。",
+      "title": "如何提升你的React条件反射水平"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你在React應用程序中正確地編寫了條件語句嗎？ 好的條件語句是一個重要的組成部分。",
+      "title": "如何提升你的React條件反射水平"
+    }
+  ]
 }

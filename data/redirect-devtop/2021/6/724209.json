@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-10T12:47:40Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DQ1La-kI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8vgpb2lmexikdmlytcb6.jpg",
   "author": "Hiep Le",
-  "author_url": "https://dev.to/hieptl"
+  "author_url": "https://dev.to/hieptl",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私はHiepです。フルタイムのソフトウェアエンジニアとして働いています。私のオープンソース・プロジェクトのほとんどは、1つの...",
+      "title": "ReactとReduxを学ぶ-Netflixを構築することでハンクを得る"
+    },
+    {
+      "locale": "zh",
+      "description": "我是Heep。我的工作是全职软件工程师。我的大部分开源项目都集中在一个...",
+      "title": "通过构建Netflix学习React和Redux-Thunk"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我是Heep。我的工作是全職軟件工程師。我的大部分開源項目都集中在一個...",
+      "title": "通過構建Netflix學習React和Redux-Thunk"
+    }
+  ]
 }
