@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-07T11:53:25Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3D5DoaPp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3sn6sm68ra5jbz4mbtqs.jpg",
   "author": "Wade Zimmerman",
-  "author_url": "https://dev.to/wadecodez"
+  "author_url": "https://dev.to/wadecodez",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "プログラマーなら誰でも、自分の人生の悪循環について語ることがあるだろう。ここでは、いくつかの一般的な形態をご紹介します。",
+      "title": "開発者が経験する地獄とは"
+    },
+    {
+      "locale": "zh",
+      "description": "每个程序员都有一个关于他们生活中的恶性循环的故事可以分享。这里有几个常见的形式...",
+      "title": "每个开发者都会经历的地狱"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "每個程序員都有一個關於他們生活中的惡性循環的故事可以分享。這裏有幾個常見的形式...",
+      "title": "每個開發者都會經歷的地獄"
+    }
+  ]
 }

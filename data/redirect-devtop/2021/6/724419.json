@@ -43,5 +43,22 @@
   "original_created_at": "2021-06-10T16:57:54Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xO4YnyYv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6ur3kx3298c7y1q08tfh.jpg",
   "author": "Ashley Connor",
-  "author_url": "https://dev.to/ashleyconnor"
+  "author_url": "https://dev.to/ashleyconnor",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "時には、ローカルの開発環境をできるだけ本番環境に近づけたいこともあります。",
+      "title": "ローカル開発用の自己署名入りSSL証明書の設定"
+    },
+    {
+      "locale": "zh",
+      "description": "有时，让你的本地开发环境尽可能地接近生产环境是比较好的。",
+      "title": "为本地开发配置自签名的SSL证书"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有時，讓你的本地開發環境儘可能地接近生產環境是比較好的。",
+      "title": "爲本地開發配置自簽名的SSL證書"
+    }
+  ]
 }
