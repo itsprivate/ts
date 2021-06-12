@@ -83,5 +83,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-12T07:01:00Z"
+  "original_createdAt": "2021-06-12T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "IONOSのDeploy Nowを使えば、ビルドや帯域幅の制限なく、GitHubから静的なWebサイトやWebプロジェクトを直接git pushすることができます。ステージング、SSL、ジオアダンダント、DDoSで保護されたインフラは、無料プランに含まれています。",
+      "tagline": "WebプロジェクトをGitでプッシュして、すぐに稼動させる"
+    },
+    {
+      "locale": "zh",
+      "description": "通过IONOS的Deploy Now，您可以直接从GitHub上git推送您的静态网站或网络项目，而不受任何构建或带宽限制。免费计划中包括暂存、SSL和地理冗余、DDoS保护的基础设施。",
+      "tagline": "通过Git推送你的网络项目并立即上线"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "通過IONOS的Deploy Now，您可以直接從GitHub上git推送您的靜態網站或網絡項目，而不受任何構建或帶寬限制。免費計劃中包括暫存、SSL和地理冗餘、DDoS保護的基礎設施。",
+      "tagline": "通過Git推送你的網絡項目並立即上線"
+    }
+  ]
 }
