@@ -43,5 +43,22 @@
   "original_created_at": "2021-06-11T13:41:22Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jLg1CQyS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ej9or0h3efale230ozmw.jpeg",
   "author": "Joseph McElroy",
-  "author_url": "https://dev.to/joemcelroy"
+  "author_url": "https://dev.to/joemcelroy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このチュートリアルでは、開発者が使いやすいElasticsearch用のGraphQL APIを素早く構築することができます。 検索...",
+      "title": "Search UI GraphQL API with Elasticsearch & Searchkit"
+    },
+    {
+      "locale": "zh",
+      "description": "本教程将帮助你为Elasticsearch快速建立一个开发者友好的GraphQL API。 搜索...",
+      "title": "用Elasticsearch和Searchkit搜索UI GraphQL API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "本教程將幫助你爲Elasticsearch快速建立一個開發者友好的GraphQL API。 搜索...",
+      "title": "用Elasticsearch和Searchkit搜索UI GraphQL API"
+    }
+  ]
 }
