@@ -113,5 +113,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Sat Jun 12 04:04:09 +0000 2021"
+  "original_created_at": "Sat Jun 12 04:04:09 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "ある意味では、中国のハイテク企業は、収集した個人データのおかげで、政府よりも国民のことをよく知っている。現在、中国政府はデータへのアクセスを求めています。https://t.co/EvePaIUnJE"
+    },
+    {
+      "locale": "zh",
+      "full_text": "在某些方面，中国的科技巨头比政府更了解这个国家的公民，这要归功于他们收集的个人数据。现在，中国政府正在要求获得这些数据。https://t.co/EvePaIUnJE"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "在某些方面，中國的科技巨頭比政府更瞭解這個國家的公民，這要歸功於他們收集的個人數據。現在，中國政府正在要求獲得這些數據。https://t.co/EvePaIUnJE"
+    }
+  ]
 }

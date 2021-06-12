@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-11T02:41:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jT_AV_HE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3ikm4ettq4djurj8vm15.png",
   "author": "Pratap Sharma",
-  "author_url": "https://dev.to/pratap2210"
+  "author_url": "https://dev.to/pratap2210",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Gitコマンドは必ずしも簡単ではありません。もしそうであれば、私たちはこれらのコマンドを自由に使うことができるでしょう。それは...",
+      "title": "あなたの人生を救うかもしれない便利なGitコマンド"
+    },
+    {
+      "locale": "zh",
+      "description": "Git命令并不总是那么简单。如果是这样，我们就会有这些命令供我们使用。它们会...",
+      "title": "可能拯救你生命的有用的Git命令"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Git命令並不總是那麼簡單。如果是這樣，我們就會有這些命令供我們使用。它們會...",
+      "title": "可能拯救你生命的有用的Git命令"
+    }
+  ]
 }
