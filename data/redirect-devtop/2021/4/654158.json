@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-03T14:26:57Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ftzspy_W--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ysttss61p7gaum0zyx7m.png",
   "author": "Joseph Mukorivo",
-  "author_url": "https://dev.to/josemukorivo"
+  "author_url": "https://dev.to/josemukorivo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ご存知のように、Reactは意見の多いライブラリではありません。それはつまり、明確に定義されたものがないということです。",
+      "title": "中規模のNextJsプロジェクトをどのように構成しているか"
+    },
+    {
+      "locale": "zh",
+      "description": "如你所知，React不是一个有主见的库。这意味着，没有明确定义的...",
+      "title": "我是如何组织我的中等规模的NextJs项目的"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如你所知，React不是一個有主見的庫。這意味着，沒有明確定義的...",
+      "title": "我是如何組織我的中等規模的NextJs項目的"
+    }
+  ]
 }
