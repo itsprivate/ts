@@ -321,5 +321,22 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Sun Jun 13 07:26:19 +0000 2021"
+  "original_created_at": "Sun Jun 13 07:26:19 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "ウォレットの再編成に最適な時期 https://t.co/4cMxzxVxtk",
+      "quoted_status_full_text": "そうです、空っぽなんです。\n\n#mempoolreport https://t.co/AMm0mEaVJ2"
+    },
+    {
+      "locale": "zh",
+      "full_text": "钱包重组的好时机 https://t.co/4cMxzxVxtk",
+      "quoted_status_full_text": "这是正确的，它是空的。\n\n#mempoolreport https://t.co/AMm0mEaVJ2"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "錢包重組的好時機 https://t.co/4cMxzxVxtk",
+      "quoted_status_full_text": "這是正確的，它是空的。\n\n#mempoolreport https://t.co/AMm0mEaVJ2"
+    }
+  ]
 }
