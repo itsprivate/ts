@@ -43,5 +43,22 @@
   "original_created_at": "2021-06-11T15:24:43Z",
   "image": "https://dev.to/social_previews/article/725374.png",
   "author": "Evandro Myller",
-  "author_url": "https://dev.to/emyller"
+  "author_url": "https://dev.to/emyller",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "マージもリベースも、Gitツールセットの中では優れたツールですが、それぞれのツールには独自の特徴があります。",
+      "title": "マージ vs リベース"
+    },
+    {
+      "locale": "zh",
+      "description": "合并和重构都是Git工具集中的优秀工具，而且每一个工具都与它们自己的功能相关。",
+      "title": "合并与重构"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "合併和重構都是Git工具集中的優秀工具，而且每一個工具都與它們自己的功能相關。",
+      "title": "合併與重構"
+    }
+  ]
 }

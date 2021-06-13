@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-12T12:41:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jLS1v4W4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rht4quc8yvqiitx41rsg.png",
   "author": "Bibek",
-  "author_url": "https://dev.to/bibekkakati"
+  "author_url": "https://dev.to/bibekkakati",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今回の記事では、クリップボードへのコピー機能をどのようにして...",
+      "title": "ウェブサイトにクリップボードへのコピーを実装する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我们将看到我们如何在我们的网站上实现复制到剪贴板的功能。",
+      "title": "如何在网站上实现复制到剪贴板？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我們將看到我們如何在我們的網站上實現複製到剪貼板的功能。",
+      "title": "如何在網站上實現複製到剪貼板？"
+    }
+  ]
 }
