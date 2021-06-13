@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-13T07:15:48Z"
+  "original_createdAt": "2021-06-13T07:15:48Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "NocodeでTwitterプロフィールのスクリーンショットをアルバムにして、dropboxに保存。一定時間後にプロフィールのスクリーンショットを自動撮影する方法をご紹介します。",
+      "tagline": "Twitterのプロフィールのスクリーンショットを保存し、思い出として残すことができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "用Nocode创建Twitter简介屏幕截图的相册，并保存到dropbox。学习如何在固定的时间内自动截图你的个人资料",
+      "tagline": "保存你的Twitter个人资料的截图，作为回忆。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "用Nocode創建Twitter簡介屏幕截圖的相冊，並保存到dropbox。學習如何在固定的時間內自動截圖你的個人資料",
+      "tagline": "保存你的Twitter個人資料的截圖，作爲回憶。"
+    }
+  ]
 }
