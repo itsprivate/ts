@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-12T15:47:03Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5IK6mR4Y--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r6jyxykkanx7g2ex80e5.gif",
   "author": "Shivam Sharma",
-  "author_url": "https://dev.to/shivams136"
+  "author_url": "https://dev.to/shivams136",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、AndroidやiOSで動作するReact Nativeアプリを作成する方法をご紹介します...",
+      "title": "Android、iOS、Web用のReact NativeアプリをExpoなしで作成する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我们将看到，如何创建一个可以在Android、iOS上运行的React Native App。",
+      "title": "如何在没有Expo的情况下为Android、iOS和Web创建React Native App"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我們將看到，如何創建一個可以在Android、iOS上運行的React Native App。",
+      "title": "如何在沒有Expo的情況下爲Android、iOS和Web創建React Native App"
+    }
+  ]
 }
