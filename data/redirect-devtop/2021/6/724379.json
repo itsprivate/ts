@@ -43,5 +43,22 @@
   "original_created_at": "2021-06-10T15:45:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GGMiWMU---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8yv7pyqqzqoe1kql2hr8.png",
   "author": "Elena Lape",
-  "author_url": "https://dev.to/elenalape"
+  "author_url": "https://dev.to/elenalape",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "独自のAPIを構築している場合でも、サードパーティのサービスを利用している場合でも、...",
+      "title": "HTTPieの使用方法"
+    },
+    {
+      "locale": "zh",
+      "description": "无论你是建立你自己的API，还是使用第三方服务，都是一个相当好的主意，使...",
+      "title": "开始使用HTTPie"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "無論你是建立你自己的API，還是使用第三方服務，都是一個相當好的主意，使...",
+      "title": "開始使用HTTPie"
+    }
+  ]
 }
