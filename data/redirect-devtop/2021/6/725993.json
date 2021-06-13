@@ -43,5 +43,22 @@
   "original_created_at": "2021-06-12T04:21:41Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--J52w_dMU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/48925wwqge7fssk1k4jm.jpg",
   "author": "Mudit Jain",
-  "author_url": "https://dev.to/muditdev"
+  "author_url": "https://dev.to/muditdev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "まだまだこれからですが、今回はその中でもトップレベルの新機能をご紹介します。",
+      "title": "What's new in React 18 ?"
+    },
+    {
+      "locale": "zh",
+      "description": "虽然还有很多事情要做，但我认为分享其顶级的新产品可能会很吸引人。",
+      "title": "React 18有什么新内容？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "雖然還有很多事情要做，但我認爲分享其頂級的新產品可能會很吸引人。",
+      "title": "React 18有什麼新內容？"
+    }
+  ]
 }
