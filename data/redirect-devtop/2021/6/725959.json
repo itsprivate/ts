@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-12T03:11:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kawBrcF5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y0ll392gqwm6i77k6lty.jpeg",
   "author": "Wojciech Matuszewski",
-  "author_url": "https://dev.to/wojciechmatuszewski"
+  "author_url": "https://dev.to/wojciechmatuszewski",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "useRefをインスタンス化する方法の違いが、refのmutabilityにどのように影響するかを学びます。",
+      "title": "ReactとTypeScriptでの可変型と不変型のuseRefセマンティクス"
+    },
+    {
+      "locale": "zh",
+      "description": "了解实例化useRef的不同方式如何影响ref的可变性。",
+      "title": "使用React和TypeScript的可变和不可变的useRef语义"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "瞭解實例化useRef的不同方式如何影響ref的可變性。",
+      "title": "使用React和TypeScript的可變和不可變的useRef語義"
+    }
+  ]
 }
