@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-11T04:39:03Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wimm9jHL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0329srtkv7alezrdn0js.png",
   "author": "Nicholas Mendez",
-  "author_url": "https://dev.to/snickdx"
+  "author_url": "https://dev.to/snickdx",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに reactやvueを使って大規模なSPAを構築する必要に迫られたことはないだろうか。その際、どのようにして...",
+      "title": "The Frontend Hitchhikers Guide: 状態管理"
+    },
+    {
+      "locale": "zh",
+      "description": "简介 你是否曾经需要用react或vue建立一个大型的SPA？你如何保持你的系统？",
+      "title": "前端搭车指南》。状态管理"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介 你是否曾經需要用react或vue建立一個大型的SPA？你如何保持你的系統？",
+      "title": "前端搭車指南》。狀態管理"
+    }
+  ]
 }
