@@ -52,5 +52,22 @@
   "original_created_at": "2021-06-11T17:12:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qRrSeNZT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8qm19b28fe6rfu2e7zzc.png",
   "author": "Jared Donboch",
-  "author_url": "https://dev.to/jdonboch"
+  "author_url": "https://dev.to/jdonboch",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TLDR;AWS Location Servicesを使って、AWS Community Buildersの地図を作ってみました。 地図はここをクリックして...",
+      "title": "AWSのロケーションサービス。私のAWS Community Buildersはどこにいる？ "
+    },
+    {
+      "locale": "zh",
+      "description": "TLDR; 我使用AWS定位服务建立了一个AWS社区建设者的地图。 点击这里查看地图，...",
+      "title": "AWS定位服务。我的AWS社区建设者在哪里？ "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "TLDR; 我使用AWS定位服務建立了一個AWS社區建設者的地圖。 點擊這裏查看地圖，...",
+      "title": "AWS定位服務。我的AWS社區建設者在哪裏？ "
+    }
+  ]
 }
