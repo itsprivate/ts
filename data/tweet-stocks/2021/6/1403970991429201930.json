@@ -196,5 +196,22 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Sun Jun 13 07:02:23 +0000 2021"
+  "original_created_at": "Sun Jun 13 07:02:23 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @JamieHaleSports: このタイトルの記事があるなんて信じられません。現実味がありませんね。昨日の夜、私たちはオフィスで一緒に仕事をしました。",
+      "retweeted_status_full_text": "こんなタイトルの記事があるなんて。現実味がありませんね。昨日の夜、私たちはオフィスでいつものように一緒に切り刻んでいました。\n\nなぜかはわからないけど。あなたのことを過去形で語ることはできません。今日の悲しみは耐えられない。\n\nhttps://t.co/iL3vFvG4DS"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @JamieHaleSports: 我不能相信我们有这样一篇文章的标题。这感觉并不真实。我们昨晚在办公室里一起讨论...",
+      "retweeted_status_full_text": "我无法相信我们有一篇文章的标题是这样的。这感觉并不真实。我们昨晚在办公室里一起切磋，就像我们一贯的做法。\n\n我不明白为什么。我不能用过去式来谈论你。今天的悲痛是无法忍受的。\n\nhttps://t.co/iL3vFvG4DS"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @JamieHaleSports: 我不能相信我們有這樣一篇文章的標題。這感覺並不真實。我們昨晚在辦公室裏一起討論...",
+      "retweeted_status_full_text": "我無法相信我們有一篇文章的標題是這樣的。這感覺並不真實。我們昨晚在辦公室裏一起切磋，就像我們一貫的做法。\n\n我不明白爲什麼。我不能用過去式來談論你。今天的悲痛是無法忍受的。\n\nhttps://t.co/iL3vFvG4DS"
+    }
+  ]
 }
