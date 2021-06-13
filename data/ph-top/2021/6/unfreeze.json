@@ -48,5 +48,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-13T07:34:49Z"
+  "original_createdAt": "2021-06-13T07:34:49Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "タイピングを減らし、コーディングを増やす。IDEに貼り付けられないコードのスクリーンショットにうんざりしていませんか？Unfreeze は、コードスニペット画像の OCR を行うシンプルな macOS アプリケーションです。- 要件：macOS Big Sur 11.0以上",
+      "tagline": "タイピングを減らし、コーディングを増やす"
+    },
+    {
+      "locale": "zh",
+      "description": "少打字，多编码。厌倦了那些你无法粘贴到IDE中的代码截图？Unfreeze是一个简单的macOS应用程序，可以对代码片段图像进行OCR。- 要求：macOS Big Sur 11.0以上",
+      "tagline": "少打字，多编码"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "少打字，多編碼。厭倦了那些你無法粘貼到IDE中的代碼截圖？Unfreeze是一個簡單的macOS應用程序，可以對代碼片段圖像進行OCR。- 要求：macOS Big Sur 11.0以上",
+      "tagline": "少打字，多編碼"
+    }
+  ]
 }
