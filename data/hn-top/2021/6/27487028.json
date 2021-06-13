@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-06-12T19:52:10.000Z",
-  "image": "https://bugs.python.org/@@file/committer.png"
+  "image": "https://bugs.python.org/@@file/committer.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "libpythonのコンパイルオプションを調整するだけでPythonが1.3倍速くなる"
+    },
+    {
+      "locale": "zh",
+      "title": "只需调整libpython的一些编译选项，Python就会快1.3倍。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "只需調整libpython的一些編譯選項，Python就會快1.3倍。"
+    }
+  ]
 }
