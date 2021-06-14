@@ -43,5 +43,22 @@
   "original_created_at": "2021-06-12T11:48:38Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--58WHInJa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/crisarji/blogs-dev.to/master/blog-posts/vue-experience-2021/assets/3-projects-year-and-half.png",
   "author": "crisarji",
-  "author_url": "https://dev.to/crisarji"
+  "author_url": "https://dev.to/crisarji",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "1.5年で3つのプロジェクトを経験して学んだベストプラクティスの数々",
+      "title": "1年半で3つのプロジェクトを終えた私のVue体験 "
+    },
+    {
+      "locale": "zh",
+      "description": "在1年半的时间里做了3个项目后，我学到了一些最佳做法",
+      "title": "我在18个月内完成3个项目后的Vue体验 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在1年半的時間裏做了3個項目後，我學到了一些最佳做法",
+      "title": "我在18個月內完成3個項目後的Vue體驗 "
+    }
+  ]
 }
