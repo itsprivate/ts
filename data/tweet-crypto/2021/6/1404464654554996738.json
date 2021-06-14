@@ -504,5 +504,22 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Mon Jun 14 15:44:01 +0000 2021"
+  "original_created_at": "Mon Jun 14 15:44:01 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @EllieFrost: サイバースズメバチが#ビットコインを40Kドル以上に押し上げる https://t.co/bhYLQql4WT",
+      "retweeted_status_full_text": "サイバースズメバチが #ビットコインを40Kドル以上に押し上げる https://t.co/bhYLQql4WT"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @EllieFrost: 网络大黄蜂将#比特币推到4万美元以上 https://t.co/bhYLQql4WT",
+      "retweeted_status_full_text": "网络大黄蜂将#比特币推到4万美元以上 https://t.co/bhYLQql4WT"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @EllieFrost: 網絡大黃蜂將#比特幣推到4萬美元以上 https://t.co/bhYLQql4WT",
+      "retweeted_status_full_text": "網絡大黃蜂將#比特幣推到4萬美元以上 https://t.co/bhYLQql4WT"
+    }
+  ]
 }
