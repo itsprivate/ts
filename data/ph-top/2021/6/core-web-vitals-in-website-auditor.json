@@ -88,5 +88,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-14T07:01:00Z"
+  "original_createdAt": "2021-06-14T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "何百ものページを1つ1つGoogleのPageSpeed Insightsに通すのは面倒ですよね。WebSite Auditorの新しいモジュール「Core Web Vitals」を使えば、ウェブサイトの重要なページスピードデータを一箇所で自動的にチェックすることができます。",
+      "tagline": "簡単で自動化されたコア・ウェブ・バイタルの一括監査とレポート"
+    },
+    {
+      "locale": "zh",
+      "description": "把几百个页面逐一通过Google的PageSpeed Insights是一件很痛苦的事情。有了WebSite Auditor的新的Core Web Vitals模块，你可以在一个地方自动检查网站的关键页面速度数据。",
+      "tagline": "简单、自动的核心网络生命体征批量审计和报告"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "把幾百個頁面逐一通過Google的PageSpeed Insights是一件很痛苦的事情。有了WebSite Auditor的新的Core Web Vitals模塊，你可以在一個地方自動檢查網站的關鍵頁面速度數據。",
+      "tagline": "簡單、自動的核心網絡生命體徵批量審計和報告"
+    }
+  ]
 }
