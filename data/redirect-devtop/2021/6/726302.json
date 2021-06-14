@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-12T13:06:38Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--He5oI7kG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/02ktr8c8a8qxw13oznww.jpeg",
   "author": "Sreashi Saha",
-  "author_url": "https://dev.to/sreashi"
+  "author_url": "https://dev.to/sreashi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Refsの転送は、Reactのテクニックです。ReactにおけるRefとは何か知っていますか？Refsは機能...",
+      "title": "Refsの転送"
+    },
+    {
+      "locale": "zh",
+      "description": "转发参考文献是React的一项技术。你知道什么是React中的Ref吗？Refs是一个函数...",
+      "title": "转发参考资料"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "轉發參考文獻是React的一項技術。你知道什麼是React中的Ref嗎？Refs是一個函數...",
+      "title": "轉發參考資料"
+    }
+  ]
 }
