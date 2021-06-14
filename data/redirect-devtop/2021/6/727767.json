@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-14T09:24:55Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_Zt09OZS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g5zvvlh36efxlukjizgv.png",
   "author": "Kingsley Ubah",
-  "author_url": "https://dev.to/ubahthebuilder"
+  "author_url": "https://dev.to/ubahthebuilder",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactは、ユーザーインターフェースを構築するための非常に人気の高いJavaScriptライブラリです。Reactを使うことで、...",
+      "title": "15+ Fantastic React UI Libraries to Consider for your Project（プロジェクトのために考慮すべき素晴らしいReact UIライブラリ"
+    },
+    {
+      "locale": "zh",
+      "description": "React是一个非常流行的用于构建用户界面的JavaScript库。使用React，可以使用户在使用过程中更加方便。",
+      "title": "15+神奇的React UI库，供你的项目参考"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "React是一個非常流行的用於構建用戶界面的JavaScript庫。使用React，可以使用戶在使用過程中更加方便。",
+      "title": "15+神奇的React UI庫，供你的項目參考"
+    }
+  ]
 }
