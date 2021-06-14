@@ -469,5 +469,22 @@
   "favorited": false,
   "retweeted": false,
   "lang": "und",
-  "original_created_at": "Mon Jun 14 15:30:15 +0000 2021"
+  "original_created_at": "Mon Jun 14 15:30:15 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @nayibbukele です。#BTC🌋♻🇸🇻",
+      "retweeted_status_full_text": "#BTC🌋♻🇸🇻 https://t.co/gqmj44DXve"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @nayibbukele: #BTC♻️🌋🇸🇻",
+      "retweeted_status_full_text": "#BTC♻️🌋🇸🇻 https://t.co/gqmj44DXve"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @nayibbukele: #BTC♻️🌋🇸🇻",
+      "retweeted_status_full_text": "#BTC♻️🌋🇸🇻 https://t.co/gqmj44DXve"
+    }
+  ]
 }
