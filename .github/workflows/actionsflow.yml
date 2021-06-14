@@ -50,7 +50,7 @@ jobs:
         if: steps.shouldBuild.outputs.result=='1'
         uses: actionsflow/setup-act-for-actionsflow@v1
         with:
-          version: 0.2.21
+          version: 0.2.23
       - name: Run act
         if: steps.shouldBuild.outputs.result=='1'
         continue-on-error: true
