@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-13T05:05:59Z",
   "image": "https://dev.to/social_previews/article/726775.png",
   "author": "Theodorus Clarence",
-  "author_url": "https://dev.to/theodorusclarence"
+  "author_url": "https://dev.to/theodorusclarence",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "pxを使うよりもRemとEmの単位を使う方が良い。  pxを使うということは、ハードコードして...",
+      "title": "Back to Basic：Rem、Em、Pixelのどれを使うべきか？"
+    },
+    {
+      "locale": "zh",
+      "description": "使用Rem和Em单位比使用px更好。  当我们使用px时，这意味着我们硬编码的...",
+      "title": "返璞归真：我们应该使用Rem、Em还是Pixel？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用Rem和Em單位比使用px更好。  當我們使用px時，這意味着我們硬編碼的...",
+      "title": "返璞歸真：我們應該使用Rem、Em還是Pixel？"
+    }
+  ]
 }
