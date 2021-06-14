@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-14T07:01:00Z"
+  "original_createdAt": "2021-06-14T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Tellaは、Webブラウザに常駐するカメラです。自分自身や画面、スライドなどを撮影することができます。ビデオの外観をカスタマイズすることができます。どこでも、すぐに共有できます。https://tella.video/intro-tella-20-3-cksh",
+      "tagline": "ウェブブラウザからすぐに共有できる動画を撮影することができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "泰拉是一个住在你的网络浏览器中的相机。记录你自己，你的屏幕，或幻灯片。定制你的视频的外观。在任何地方即时分享。https://tella.video/intro-tella-20-3-cksh",
+      "tagline": "从你的网络浏览器中即时录制可分享的视频"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "泰拉是一個住在你的網絡瀏覽器中的相機。記錄你自己，你的屏幕，或幻燈片。定製你的視頻的外觀。在任何地方即時分享。https://tella.video/intro-tella-20-3-cksh",
+      "tagline": "從你的網絡瀏覽器中即時錄製可分享的視頻"
+    }
+  ]
 }
