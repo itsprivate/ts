@@ -152,5 +152,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1623607520,
-  "the_new_excerpt": " * Your cryptocurrency is not in your wallet, it's on the blockchain\n * a blockchain is the network of nodes (=computers/servers) that\n   * run open-source software to be able to participate in distributed\n     decentralized blockchain/network\n   * must reach agreement=consensus reading the current…"
+  "the_new_excerpt": " * Your cryptocurrency is not in your wallet, it's on the blockchain\n * a blockchain is the network of nodes (=computers/servers) that\n   * run open-source software to be able to participate in distributed\n     decentralized blockchain/network\n   * must reach agreement=consensus reading the current…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": " * 暗号通貨は財布の中ではなく、ブロックチェーン上にあります。\n * ブロックチェーンとは、次のようなノード（＝コンピューター／サーバー）のネットワークです。\n   * ブロックチェーンとは、分散型ブロックチェーン/ネットワークに参加できるオープンソースソフトウェアを実行するノード（＝コンピュータ/サーバー）のネットワークです。\n     分散型のブロックチェーン/ネットワーク\n   * 現在の...を読んで合意＝コンセンサスに達する必要があります。",
+      "title": "ウォレット内のコインをHODLするのではなく、秘密鍵を所有しているだけ／ウォレットの仕組み"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": " *你的加密货币不在你的钱包里，它在区块链上\n *区块链是由节点（=计算机/服务器）组成的网络，这些节点\n   *运行开源软件，能够参与到分布式的\n     去中心化的区块链/网络\n   *必须达成协议=共识，读取当前的...",
+      "title": "你不会在你的钱包里HODL任何硬币，你只拥有一个私钥/钱包如何工作"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": " *你的加密貨幣不在你的錢包裏，它在區塊鏈上\n *區塊鏈是由節點（=計算機/服務器）組成的網絡，這些節點\n   *運行開源軟件，能夠參與到分佈式的\n     去中心化的區塊鏈/網絡\n   *必須達成協議=共識，讀取當前的...",
+      "title": "你不會在你的錢包裏HODL任何硬幣，你只擁有一個私鑰/錢包如何工作"
+    }
+  ]
 }
