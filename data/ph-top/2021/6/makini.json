@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-14T07:00:00Z"
+  "original_createdAt": "2021-06-14T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Makiniは、産業用システムのためのREST APIです。技術系企業は、顧客の産業用システムと接続するために、それがどのようなシステムであるかにかかわらず、すべて1つのシンプルなAPIを介して使用しています。これはPlaidのようなものですが、産業用です。",
+      "tagline": "1つのAPIで産業用システムに接続"
+    },
+    {
+      "locale": "zh",
+      "description": "Makini是工业系统的REST API。科技公司用它来连接他们客户的工业系统，无论它是什么系统--都是通过一个简单的API。它就像Plaid，但为工业界服务。",
+      "tagline": "通过一个API连接到工业系统"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Makini是工業系統的REST API。科技公司用它來連接他們客戶的工業系統，無論它是什麼系統--都是通過一個簡單的API。它就像Plaid，但爲工業界服務。",
+      "tagline": "通過一個API連接到工業系統"
+    }
+  ]
 }
