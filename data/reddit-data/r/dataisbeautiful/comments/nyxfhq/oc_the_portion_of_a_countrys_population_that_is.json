@@ -152,5 +152,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1623594350,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "COVIDを完全に接種した国の人口の割合（2021年6月時点）は、一人当たりのGDPに比例します。"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]一个国家的人口中完全接种COVID疫苗的部分（截至2021年6月）与人均GDP成比例。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]一個國家的人口中完全接種COVID疫苗的部分（截至2021年6月）與人均GDP成比例。"
+    }
+  ]
 }
