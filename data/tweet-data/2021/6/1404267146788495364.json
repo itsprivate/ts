@@ -92,5 +92,19 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Mon Jun 14 02:39:12 +0000 2021"
+  "original_created_at": "Mon Jun 14 02:39:12 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RESEARCH コロラド大学、MIT、ハーバード大学の研究者が行った研究によると、1時間早く起きることは、大うつ病のリスクを23％減少させるという。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "研究。根据科罗拉多大学、麻省理工学院和哈佛大学的研究人员进行的一项研究，提前一小时起床与重度抑郁症的风险减少23%有关。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "研究。根據科羅拉多大學、麻省理工學院和哈佛大學的研究人員進行的一項研究，提前一小時起牀與重度抑鬱症的風險減少23%有關。"
+    }
+  ]
 }
