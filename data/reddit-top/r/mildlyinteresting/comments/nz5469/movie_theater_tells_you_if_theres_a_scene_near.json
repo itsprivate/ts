@@ -154,5 +154,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1623615908,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "映画館では、映画のラスト近くにシーンがあるかどうかを教えてくれます。"
+    },
+    {
+      "locale": "zh",
+      "title": "电影院会告诉你是否有一个接近电影结束的场景。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "電影院會告訴你是否有一個接近電影結束的場景。"
+    }
+  ]
 }
