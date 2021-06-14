@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-12T23:20:32Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TJqhdNdC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/snnepdaahjijw46qx3z8.jpg",
   "author": "Valeria",
-  "author_url": "https://dev.to/valeriavg"
+  "author_url": "https://dev.to/valeriavg",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "二進法は、ウェブ開発に限らず、文字通りデジタルなものすべての核となるものです。",
+      "title": "5分でマスターバイナリー"
+    },
+    {
+      "locale": "zh",
+      "description": "二进制是一切数字的核心，不仅在网络开发中，而且在字面上是一切：...",
+      "title": "五分钟内掌握二进制"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "二進制是一切數字的核心，不僅在網絡開發中，而且在字面上是一切：...",
+      "title": "五分鐘內掌握二進制"
+    }
+  ]
 }
