@@ -14,5 +14,19 @@
   "tags": [
     "Fox News"
   ],
-  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/virus-positive-swab-sample.jpg"
+  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/virus-positive-swab-sample.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "専門家によると、英国ではデルタ型コロナウイルスが蔓延し、「実質的な第3の波」に直面するとのこと。"
+    },
+    {
+      "locale": "zh",
+      "title": "专家说，随着三角洲变体的传播，英国将面临 \"实质性的第三波 \"冠状病毒的袭击"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "專家說，隨着三角洲變體的傳播，英國將面臨 \"實質性的第三波 \"冠狀病毒的襲擊"
+    }
+  ]
 }
