@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-12T19:15:27Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dP8qN96u--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a0w75oyzbx58jzi6pylj.png",
   "author": "Suprabha",
-  "author_url": "https://dev.to/suprabhasupi"
+  "author_url": "https://dev.to/suprabhasupi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CSS プロパティの `-webkit-box-reflect` を使うと、要素のコンテンツを特定の場所に反映させることができます...",
+      "title": "CSSボックスリフレクト"
+    },
+    {
+      "locale": "zh",
+      "description": "`-webkit-box-reflect`这个CSS属性可以让你把一个元素的内容反映在一个特定的地方。",
+      "title": "CSS箱体反射"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "`-webkit-box-reflect`這個CSS屬性可以讓你把一個元素的內容反映在一個特定的地方。",
+      "title": "CSS箱體反射"
+    }
+  ]
 }

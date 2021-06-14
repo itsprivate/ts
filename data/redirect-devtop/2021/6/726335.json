@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-12T13:55:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--N9XukThe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4bvig759lnzhyp1j9inr.jpg",
   "author": "Hiep Le",
-  "author_url": "https://dev.to/hieptl"
+  "author_url": "https://dev.to/hieptl",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私はHiepです。フルタイムのソフトウェア・エンジニアとして働いています。私のオープンソース・プロジェクトのほとんどは、...",
+      "title": "Netflixを作ってReactと高次コンポーネントを学ぶ"
+    },
+    {
+      "locale": "zh",
+      "description": "我是Heep。我的工作是全职软件工程师。我的大部分开源项目都集中在...",
+      "title": "通过构建Netflix来学习React和高阶组件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我是Heep。我的工作是全職軟件工程師。我的大部分開源項目都集中在...",
+      "title": "通過構建Netflix來學習React和高階組件"
+    }
+  ]
 }
