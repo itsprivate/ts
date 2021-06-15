@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-13T14:53:34Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--paxTBPY0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dxwkad4kr4p2ywr940bt.jpg",
   "author": "Hiep Le",
-  "author_url": "https://dev.to/hieptl"
+  "author_url": "https://dev.to/hieptl",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私はHiepです。フルタイムのソフトウェアエンジニアとして働いています。私のオープンソース・プロジェクトのほとんどは、...",
+      "title": "Netflixを作ってReact Refを学ぶ"
+    },
+    {
+      "locale": "zh",
+      "description": "我是Heep。我的工作是全职软件工程师。我的大部分开源项目都集中在...",
+      "title": "通过构建Netflix来学习React Ref"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我是Heep。我的工作是全職軟件工程師。我的大部分開源項目都集中在...",
+      "title": "通過構建Netflix來學習React Ref"
+    }
+  ]
 }
