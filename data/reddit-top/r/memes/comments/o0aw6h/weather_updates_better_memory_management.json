@@ -145,5 +145,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1623752008,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "天気予報の更新 >>> メモリ管理の改善"
+    },
+    {
+      "locale": "zh",
+      "title": "天气更新 >> 更好的内存管理"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "天氣更新 >> 更好的內存管理"
+    }
+  ]
 }
