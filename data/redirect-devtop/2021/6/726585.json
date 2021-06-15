@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-12T21:01:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cE9lpXYK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kk97kyo0zbp4ostpvpse.jpg",
   "author": "Gastón Danielsen",
-  "author_url": "https://dev.to/gdcodev"
+  "author_url": "https://dev.to/gdcodev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JavaScriptには、配列を扱うための定義済み関数が多数用意されています。 その前に・・・。",
+      "title": "開発者が知っておくべき25のjavascriptの配列メソッド。"
+    },
+    {
+      "locale": "zh",
+      "description": "JavaScript为我们提供了许多预定义的函数来处理数组。 在我们...",
+      "title": "每个开发者都应该知道的javascript中的25个阵列方法。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "JavaScript爲我們提供了許多預定義的函數來處理數組。 在我們...",
+      "title": "每個開發者都應該知道的javascript中的25個陣列方法。"
+    }
+  ]
 }
