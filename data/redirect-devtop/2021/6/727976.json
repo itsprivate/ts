@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-14T14:15:00Z",
   "image": "https://dev.to/social_previews/article/727976.png",
   "author": "Stas Melnikov",
-  "author_url": "https://dev.to/melnik909"
+  "author_url": "https://dev.to/melnik909",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Googleでは、ほとんどのプログラミング言語のグッドプラクティスを見つけることができます。しかし、私はそれを言うことができません...",
+      "title": "7つのHTMLの良いコーディングの習慣"
+    },
+    {
+      "locale": "zh",
+      "description": "我们可以在谷歌上找到几乎所有编程语言的良好实践。但我不能这么说...",
+      "title": "7个HTML良好的编码习惯"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們可以在谷歌上找到幾乎所有編程語言的良好實踐。但我不能這麼說...",
+      "title": "7個HTML良好的編碼習慣"
+    }
+  ]
 }
