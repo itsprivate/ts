@@ -320,5 +320,22 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Tue Jun 15 21:00:17 +0000 2021"
+  "original_created_at": "Tue Jun 15 21:00:17 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "ディップを買うと...でもディップし続けると... https://t.co/ZiKiXte1vn",
+      "quoted_status_full_text": "My tinder Me in real\nprofile picture life https://t.co/FQ74CSm4Di"
+    },
+    {
+      "locale": "zh",
+      "full_text": "当你买了蘸酱......但它一直在蘸......https://t.co/ZiKiXte1vn",
+      "quoted_status_full_text": "我在现实中的tinder我\n资料图片 生活https://t.co/FQ74CSm4Di"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "當你買了蘸醬......但它一直在蘸......https://t.co/ZiKiXte1vn",
+      "quoted_status_full_text": "我在現實中的tinder我\n資料圖片 生活https://t.co/FQ74CSm4Di"
+    }
+  ]
 }
