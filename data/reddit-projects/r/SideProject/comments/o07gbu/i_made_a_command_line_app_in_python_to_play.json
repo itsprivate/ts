@@ -178,5 +178,19 @@
   },
   "is_video": true,
   "original_created_utc": 1623737829,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "pythonでコマンドラインアプリを作って、redditからランダムに動物の動画を再生して、元気を出してもらいました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我用python做了一个命令行应用程序，播放来自reddit的随机动物视频，让你振作起来!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我用python做了一個命令行應用程序，播放來自reddit的隨機動物視頻，讓你振作起來!"
+    }
+  ]
 }
