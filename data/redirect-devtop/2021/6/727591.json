@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-14T06:02:59Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lX1D2XvA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5t8m838969hrlf8loq7a.jpg",
   "author": "Alex Devero",
-  "author_url": "https://dev.to/alexdevero"
+  "author_url": "https://dev.to/alexdevero",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactには、すぐに使える組み込みのフックが多数用意されています。これらに加えて、あなたは...",
+      "title": "独自のReactカスタムフックを作成する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "React提供了许多你可以立即使用的内置钩子。除了这些，你还可以创建一个新的 \"钩子\"。",
+      "title": "如何创建你自己的React自定义钩子"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "React提供了許多你可以立即使用的內置鉤子。除了這些，你還可以創建一個新的 \"鉤子\"。",
+      "title": "如何創建你自己的React自定義鉤子"
+    }
+  ]
 }
