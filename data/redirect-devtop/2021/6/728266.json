@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-14T19:39:32Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Qt6m-Dcf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5ztrw4fxzv60wn79efhx.jpeg",
   "author": "Oscar Pacheco Ortiz",
-  "author_url": "https://dev.to/cleveroscar"
+  "author_url": "https://dev.to/cleveroscar",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに この記事では、あなたのJavascript...",
+      "title": "遅いJavascriptコードを避ける"
+    },
+    {
+      "locale": "zh",
+      "description": "简介 在这篇文章中，我们将讨论几个可以帮助你的Javascript的主题。",
+      "title": "避免缓慢的Javascript代码"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介 在這篇文章中，我們將討論幾個可以幫助你的Javascript的主題。",
+      "title": "避免緩慢的Javascript代碼"
+    }
+  ]
 }
