@@ -52,5 +52,22 @@
   "original_created_at": "2021-06-11T17:58:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fF0MpzgS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wsbs3hs1u90h34u7hcnu.png",
   "author": "Edward Allen Mercado",
-  "author_url": "https://dev.to/edwardmercado"
+  "author_url": "https://dev.to/edwardmercado",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "現在、多くの企業がオンプレミス・アプリケーションの移行に投資しています。",
+      "title": "クラウド・マイグレーションの6つのR"
+    },
+    {
+      "locale": "zh",
+      "description": "现在，很多公司都在为迁移他们的内部应用而投资。",
+      "title": "云迁移的6R原则"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "現在，很多公司都在爲遷移他們的內部應用而投資。",
+      "title": "雲遷移的6R原則"
+    }
+  ]
 }
