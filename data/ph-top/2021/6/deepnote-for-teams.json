@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-15T07:01:00Z"
+  "original_createdAt": "2021-06-15T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Deepnoteは、データの探索、分析、提示を最初から最後までチームで行うためのノートブックです。Jupyterと互換性があり、クラウド上でリアルタイムのコラボレーションが可能です。",
+      "tagline": "データチームが最高の仕事をする場所"
+    },
+    {
+      "locale": "zh",
+      "description": "Deepnote是一个笔记本，它将团队聚集在一起，从头到尾地探索、分析和展示数据。与Jupyter兼容的实时协作，在云中。",
+      "tagline": "数据团队在哪里做他们最好的工作"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Deepnote是一個筆記本，它將團隊聚集在一起，從頭到尾地探索、分析和展示數據。與Jupyter兼容的實時協作，在雲中。",
+      "tagline": "數據團隊在哪裏做他們最好的工作"
+    }
+  ]
 }
