@@ -92,5 +92,19 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Tue Jun 15 16:48:07 +0000 2021"
+  "original_created_at": "Tue Jun 15 16:48:07 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "連邦所得税を支払っているようでは、経済的に自立しているとは言えません。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "如果你仍然支付联邦所得税，你就不是经济独立。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "如果你仍然支付聯邦所得稅，你就不是經濟獨立。"
+    }
+  ]
 }
