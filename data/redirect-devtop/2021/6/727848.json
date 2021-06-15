@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-14T11:49:16Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rloRn4h7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wv02vly8wjtm70cdgyli.png",
   "author": "Techy Programmers",
-  "author_url": "https://dev.to/kunaal438"
+  "author_url": "https://dev.to/kunaal438",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、あなたがここにいることを嬉しく思います。私はkunaalです。今日は、素晴らしいヘッダーを作る方法を、...",
+      "title": "今まで見たことのないような素晴らしいヘッダーデザイン"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，很高兴你在这里。我是库纳尔，今天我们将看到如何用 \"大头贴 \"制作一个很棒的标题。",
+      "title": "令人敬畏的标题设计，你以前从未见过这样的设计"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，很高興你在這裏。我是庫納爾，今天我們將看到如何用 \"大頭貼 \"製作一個很棒的標題。",
+      "title": "令人敬畏的標題設計，你以前從未見過這樣的設計"
+    }
+  ]
 }
