@@ -43,5 +43,17 @@
   "original_created_at": "2021-03-12T16:16:52Z",
   "image": "https://dev.to/social_previews/article/633158.png",
   "author": "Aris Zagakos",
-  "author_url": "https://dev.to/zagaris"
+  "author_url": "https://dev.to/zagaris",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "在上一篇文章中，我们谈到了第一类函数，以及JavaScript是如何将函数作为一种工具来处理的。",
+      "title": "了解JavaScript中的map()、filter()和reduce()。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在上一篇文章中，我們談到了第一類函數，以及JavaScript是如何將函數作爲一種工具來處理的。",
+      "title": "瞭解JavaScript中的map()、filter()和reduce()。"
+    }
+  ]
 }
