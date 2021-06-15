@@ -208,5 +208,22 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Mon Jun 14 16:09:11 +0000 2021"
+  "original_created_at": "Mon Jun 14 16:09:11 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @anilsaidso: Build Back Bitcoin（ビットコインを取り戻す）。",
+      "retweeted_status_full_text": "ビルドバック・ビットコイン"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @anilsaidso: 建回比特币。",
+      "retweeted_status_full_text": "建回比特币。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @anilsaidso: 建回比特幣。",
+      "retweeted_status_full_text": "建回比特幣。"
+    }
+  ]
 }
