@@ -50,5 +50,22 @@
   "original_created_at": "2021-06-14T16:41:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--iZAf0ZT3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c1zxwjhhl497nrjidvcj.jpeg",
   "author": "Antonio Djigo",
-  "author_url": "https://dev.to/brownio"
+  "author_url": "https://dev.to/brownio",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "さて、久しぶりの投稿になりますが、ちょっと話したいことがありまして...。",
+      "title": "WordPressをやめてStrapiにする理由、できれば永遠に"
+    },
+    {
+      "locale": "zh",
+      "description": "好吧，我已经很久没有发过任何帖子了，我只是觉得我应该说一下......",
+      "title": "为什么我放弃了WordPress而选择了Strapi，希望是永远。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "好吧，我已經很久沒有發過任何帖子了，我只是覺得我應該說一下......",
+      "title": "爲什麼我放棄了WordPress而選擇了Strapi，希望是永遠。"
+    }
+  ]
 }
