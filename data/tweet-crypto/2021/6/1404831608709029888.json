@@ -294,5 +294,22 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Tue Jun 15 16:02:10 +0000 2021"
+  "original_created_at": "Tue Jun 15 16:02:10 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "というわけで、 https://t.co/GKcIYhwkDA を開始します。",
+      "quoted_status_full_text": "HODLer Net Position Changeが10月以来、初めて緑色に点灯しました。https://t.co/0hhjXrSdmF"
+    },
+    {
+      "locale": "zh",
+      "full_text": "因此，它开始https://t.co/GKcIYhwkDA",
+      "quoted_status_full_text": "自10月以来，HODLer净头寸变化首次翻绿。https://t.co/0hhjXrSdmF"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "因此，它開始https://t.co/GKcIYhwkDA",
+      "quoted_status_full_text": "自10月以來，HODLer淨頭寸變化首次翻綠。https://t.co/0hhjXrSdmF"
+    }
+  ]
 }
