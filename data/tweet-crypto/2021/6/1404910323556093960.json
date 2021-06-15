@@ -350,5 +350,22 @@
   "favorited": false,
   "retweeted": false,
   "lang": "und",
-  "original_created_at": "Tue Jun 15 21:14:57 +0000 2021"
+  "original_created_at": "Tue Jun 15 21:14:57 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @jack: 🇪🇹#bitcoin",
+      "retweeted_status_full_text": "🇪🇹#bitcoin https://t.co/jQSnJr5bv8"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @jack: 🇪🇹#比特币",
+      "retweeted_status_full_text": "🇪🇹#比特币 https://t.co/jQSnJr5bv8"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @jack: 🇪🇹#比特幣",
+      "retweeted_status_full_text": "🇪🇹#比特幣 https://t.co/jQSnJr5bv8"
+    }
+  ]
 }
