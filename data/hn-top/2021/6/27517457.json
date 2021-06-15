@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-06-15T16:06:44.000Z",
-  "image": "https://nextjs.org/static/blog/next-11/twitter-card.png"
+  "image": "https://nextjs.org/static/blog/next-11/twitter-card.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Next.js 11"
+    },
+    {
+      "locale": "zh",
+      "title": "Next.js 11"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Next.js 11"
+    }
+  ]
 }
