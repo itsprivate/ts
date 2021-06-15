@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-13T02:22:01Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--307U7B-p--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6eh21wi1pe2gvtrhn5hc.png",
   "author": "Victor Ikechukwu",
-  "author_url": "https://dev.to/mr_victor"
+  "author_url": "https://dev.to/mr_victor",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは👋 この記事では、私たちがホストするために使用することができる2つの異なる方法を見てみましょう...",
+      "title": "ReactアプリケーションをNetlifyにデプロイする"
+    },
+    {
+      "locale": "zh",
+      "description": "嘿，伙计们👋，在这篇文章中，我们要看一下我们可以用两种不同的方法来托管。",
+      "title": "在Netlify上部署一个React应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嘿，夥計們👋，在這篇文章中，我們要看一下我們可以用兩種不同的方法來託管。",
+      "title": "在Netlify上部署一個React應用程序"
+    }
+  ]
 }
