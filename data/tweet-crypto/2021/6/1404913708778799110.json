@@ -303,5 +303,22 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Tue Jun 15 21:28:24 +0000 2021"
+  "original_created_at": "Tue Jun 15 21:28:24 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @DocumentingBTC: 中南米17カ国に拠点を持つ大手通信事業者GoldConnectが、#Bitcoinを受け入れるようになりました...",
+      "retweeted_status_full_text": "中南米17カ国に拠点を持つ大手通信事業者GoldConnectが、#Bitcoinでの支払いに対応しました。https://t.co/RxPkPz1EzG。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @DocumentingBTC: 一家领先的电信供应商GoldConnect，在17个拉丁美洲国家设有分支机构，现在接受#比特币...",
+      "retweeted_status_full_text": "领先的电信供应商GoldConnect在17个拉美国家设有分支机构，现在接受#比特币作为支付手段。https://t.co/RxPkPz1EzG"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @DocumentingBTC: 一家領先的電信供應商GoldConnect，在17個拉丁美洲國家設有分支機構，現在接受#比特幣...",
+      "retweeted_status_full_text": "領先的電信供應商GoldConnect在17個拉美國家設有分支機構，現在接受#比特幣作爲支付手段。https://t.co/RxPkPz1EzG"
+    }
+  ]
 }
