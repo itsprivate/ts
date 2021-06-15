@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-13T18:00:43Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--daxZ9WIH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7mlq693kkp893fayc7px.png",
   "author": "ShreyasPahune",
-  "author_url": "https://dev.to/shreyazz"
+  "author_url": "https://dev.to/shreyazz",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JavaScriptにはたくさんの配列メソッドがありますが、このブログでは最も便利な配列メソッドだけをご紹介します。",
+      "title": "JavaScriptの配列メソッド"
+    },
+    {
+      "locale": "zh",
+      "description": "在JavaScript中，我们有很多数组方法，但在这篇博客中，你将只看到最有用的。",
+      "title": "JavaScript数组方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在JavaScript中，我們有很多數組方法，但在這篇博客中，你將只看到最有用的。",
+      "title": "JavaScript數組方法"
+    }
+  ]
 }
