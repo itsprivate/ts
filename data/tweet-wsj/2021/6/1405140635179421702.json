@@ -113,5 +113,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Wed Jun 16 12:30:08 +0000 2021"
+  "original_created_at": "Wed Jun 16 12:30:08 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "中国政府は、ここ数日ガスの蓄積により安全性が懸念されていたタイシャン原子力発電所において、放射能レベルが上昇したにもかかわらず、漏出はなかったと発表した。https://t.co/YSGd7yAFJ2"
+    },
+    {
+      "locale": "zh",
+      "full_text": "中国政府表示，尽管放射性水平上升，但泰山核电站没有发生泄漏，此前，最近几天气体的积累引起了安全问题https://t.co/YSGd7yAFJ2。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "中國政府表示，儘管放射性水平上升，但泰山核電站沒有發生泄漏，此前，最近幾天氣體的積累引起了安全問題https://t.co/YSGd7yAFJ2。"
+    }
+  ]
 }
