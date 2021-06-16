@@ -284,5 +284,22 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Tue Jun 15 13:54:22 +0000 2021"
+  "original_created_at": "Tue Jun 15 13:54:22 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "アナリストが目標株価を10ドルから15ドルに引き上げても、株価が50ドルの場合 https://t.co/eUlGC5Bbde",
+      "quoted_status_full_text": "ジェイムス・ハーデンは、今夜のバックス戦の出場を「疑わしい」にアップグレードしました https://t.co/qC4S5ro8N8"
+    },
+    {
+      "locale": "zh",
+      "full_text": "当分析师将他们的目标价格从10美元提高到15美元，但股票却在50美元https://t.co/eUlGC5Bbde。",
+      "quoted_status_full_text": "今晚对雄鹿的比赛，詹姆斯-哈登已经升级为出战成疑 https://t.co/qC4S5ro8N8"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "當分析師將他們的目標價格從10美元提高到15美元，但股票卻在50美元https://t.co/eUlGC5Bbde。",
+      "quoted_status_full_text": "今晚對雄鹿的比賽，詹姆斯-哈登已經升級爲出戰成疑 https://t.co/qC4S5ro8N8"
+    }
+  ]
 }
