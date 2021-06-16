@@ -1,0 +1,734 @@
+{
+  "approved_at_utc": null,
+  "subreddit": "wallstreetbets",
+  "selftext": "**Section 1: Float, Borrow Rate, and Short Interest**\n\n**ARVL Daily Chart**\n\nhttps://preview.redd.it/ed4elhwcyg571.png?width=925&format=png&auto=webp&s=fb854b5e7033bc68185a6d6407d5382c2042f483\n\n **ARVL - A deep look within** \n\n[ 606 MM shares outstanding, with the majority of shares subject to lock-up and 52mm shares in the public float. ](https://preview.redd.it/gz2amyyeyg571.png?width=962&format=png&auto=webp&s=38c72c623772897062101cb76c7c222c39bc4a92)\n\n&#x200B;\n\n[ From Yahoo Finance:](https://preview.redd.it/jg1sz1jgyg571.png?width=447&format=png&auto=webp&s=9f174218b42b9f00bc055e473187547b941891bb)\n\nThere are 9.62MM registered shares shorted. This does not include Failure to Delivers (FTD) — otherwise known as “Naked Shorts.”\n\nFrom Fintel, we can see that from the May data that there were over 1MM shares that “Failed to Deliver” on any given day.  \n\n&#x200B;\n\nhttps://preview.redd.it/oran9rvjyg571.png?width=1422&format=png&auto=webp&s=19041cb865d8f59e891050daef534311c02690cf\n\n \n\nIf we look at the borrow rate for the stock, it is extremely high. In fact, it’s been (at times) the second highest in the market. \n\nThis makes sense because there are almost no shares left to short (or borrow), which results in a very high interest rate to borrow shares to short. Today it topped 270% borrow rate. \n\nhttps://preview.redd.it/co42erslyg571.png?width=512&format=png&auto=webp&s=2e898cb8ddf16cfdcdeeaf95e977858e27462376\n\n It ranked #2 on Fintels “highest borrow rate” list today!  \n\n&#x200B;\n\nhttps://preview.redd.it/hft2ez5nyg571.png?width=1600&format=png&auto=webp&s=55e728df6a3700793c3500dc1aac00e1eed36c5d\n\n The borrow rate on ETRADE is 120% and listed as hard to borrow. \n\nhttps://preview.redd.it/5oet5c8qyg571.png?width=1435&format=png&auto=webp&s=f509ec43eca277fb8bcf69f6f07643f2bc621a41\n\n On Iborrowdesk, it’s the same story:  \n\nhttps://preview.redd.it/2ctdh0bryg571.png?width=763&format=png&auto=webp&s=58a311b851005695d39c0d20a3eeade442c46775\n\n When we look at the daily trading data (source: Fintel), we can see something doesn't add up: **a stock with almost no shares to short and a very high borrow rate…. yet, the table below shows an average of 60-70% of the daily volume is being sold short.  EVERY DAY.** \n\nhttps://preview.redd.it/8abtdw1tyg571.png?width=666&format=png&auto=webp&s=fd2fb4cd6f4a2ebfad55cd0ef25f5f4f0915a786\n\n \n\nHow on Earth is someone shorting millions of shares per day? Where are they finding these shares when three separate brokers have no shares available to short? \n\n**Section 2: Failure to Deliver and Suspicious Options Activity**\n\nhttps://preview.redd.it/56r7k0juyg571.png?width=1358&format=png&auto=webp&s=820e3de51e21ce9d0dd3feab11084929374a1bb8\n\n It looks like they have been shorting this stock for months. Let’s see who is disclosing some (not all) of their short positions:  \n\nhttps://preview.redd.it/dft3upnvyg571.png?width=1424&format=png&auto=webp&s=11a98750efcb5af5c7e9bf9f4258f48c6f2b298a\n\nQuestions: How are they still shorting with such a high borrow rate? How many shares are actually naked short and waiting for the unlock of more shares?  Is this from the PIPE which would cause selling pressure? It seems like someone is waiting for these shares to unlock so they can cover. \n\nThe answer is in the options flow: \n\nThe chart below is for the $10.00 June 18 (in the money) call options. Notice something? 6,000 Contracts purchased every day. \n\nhttps://preview.redd.it/dp2hro7xyg571.png?width=512&format=png&auto=webp&s=020a34d9f0d07f01729cb4428b8f9338173f91d5\n\n And this chart is for the $15.00 June 18 calls:\n\nhttps://preview.redd.it/3osoqdmyyg571.png?width=702&format=png&auto=webp&s=2003e1ee5e6ddab55815387d1f997f96ed4b4e6a\n\n **Added together (both June strikes)** someone is buying (or shorting) 14,000 contracts PER DAY, and the open interest is reset each day, which means they are being exercised. \n\nFor proof of the instant exercising of the calls, here are some calls bought on June 11th, showing 6.81k calls purchased, and the corresponding volume of 681k at the exact same date and time. (You can see the small volume bar at the bottom of the arrow on this minute candle chart) \n\nhttps://preview.redd.it/4bw1gc80zg571.png?width=1444&format=png&auto=webp&s=ca20e4af362f4152e17eb4e7d4394557751e243b\n\n[share volume corresponds perfectly with the options contract volume](https://preview.redd.it/g0felo73zg571.png?width=958&format=png&auto=webp&s=a20176ef26c50d93d3c6d6babb435cac1d1b7641)\n\n \n\n**Chapter 3: The Buy-Write Delay Strategy**\n\nThis “Buy-Write” Strategy is discussed in an SEC article on detecting illegal options trading strategies to reset close-out obligations:\n\n[Strengthening Practices for Preventing and Detecting Illegal Options Trading Used to Reset Reg SHO Close-out Obligations (sec.gov)](https://www.sec.gov/about/offices/ocie/options-trading-risk-alert.pdf)\n\nThis can be a complex process that we can go into in another post, but the gist of this is that when the fund shorting the stock needs to make a delivery on a hard to borrow security (like $ARVL), they give the appearance of satisfying the brokers-dealer’s close-out requirement — all the while MAINTAINING their short position) by engaging in these “reset transactions!” \n\nProof of the nefarious activity can be found by running through the checklist of SEC observations for these strategies and noting all which apply to ARVL (highlighted below)\n\n&#x200B;\n\nhttps://preview.redd.it/svuhhm08zg571.png?width=653&format=png&auto=webp&s=5297b9a988a9bcb6a0ee00a38e8827378a8319df\n\nThe implications of this don’t lead to easy conclusions, but it looks like the shorts are going all out in their attempts to maintain their positions. Likely, there are two or more funds engaging in this strategy, which is outlined in these highlighted sentences below:\n\n![img](d9zb1sv9zg571 \"\n\")\n\nWe can perform a rough calculation of how much the shorting fund will pay to buy time by using the call option and share price at the time of purchase and exercise.\n\n**Reverse Engineering** \n\n* June 18th $10 call contract @ 9.30$ per contract\n* Share price = $19.34\n* Quantity 10,000 contracts\n\nTherefore they are paying a $0.04 premium on the stock. \n\nWe can reverse engineer the equivalent borrow rate : $0.04 / $19.34 x 100% x 365 = 76% equivalent yearly  interest (or borrow rate)  they are paying on every transaction with the calls contracts.\n\nAs per the SEC document noted above, it seems like they are using the strategy called  “The Second Transaction to “Reset the Clock”\n\nParty A ( with large short interest)\n\nBalance -1,000,000 shares short\n\nParty B\n\nShorts 10,000 options contracts \n\nParty A buys and exercises contracts\n\nBalance 0 shares\n\nParty B\n\nBalance -1,000,000 shares\n\nParty A\n\nShort sells 1,000,000 shares\n\nBalance -1,000,000 shares\n\nParty B \n\nBuys 1,000,000 shares from party A\n\nBalance 0\n\nBoth parties have the same amount of shares they started with. Party A benefits from buying time and paying a reduced borrow rate \n\nThis explains why there is such high short interest every day. The party with the large short position is refusing to cover their position because they are waiting for the shares to unlock, which would create downward selling pressure. \n\n \n\n**Section 4: Conclusion**\n\n☑ Massive borrow rate (2nd largest) indicating a decrease in supply or vigorous short sale activity (or both)\n\n☑ Huge daily short volume over the past month\n\n☑ Failure to delivers (FTDs) caused by low float and massive short selling\n\n☑ Questionable buy-write activity indicating massive stuck short positions\n\n☑ Super tight float allowing for a large pump\n\n☑ Low IV allowing for call-option gamma squeeze further trapping the shorts\n\nTL;DR - short interest on $ARVL is massive, and interested parties seem to be betting on a PIPE unlock soon. They are paying over 100% for their borrow fee and could be forced to cover if the stock gains upward momentum. They appear to be manipulating the price and buying time through options contracts. \n\nHow much time they have is the salient question. Feel free to weigh in. \n\n*Disclaimer:*  *this is all public available data and we have no idea If we are deciphering it correctly*",
+  "author_fullname": "t2_79p4o",
+  "saved": false,
+  "mod_reason_title": null,
+  "gilded": 8,
+  "clicked": false,
+  "title": "$ARVL - The Second Transaction to “Reset the Clock”?",
+  "link_flair_richtext": [
+    {
+      "e": "text",
+      "t": "DD"
+    }
+  ],
+  "subreddit_name_prefixed": "r/wallstreetbets",
+  "hidden": false,
+  "pwls": 7,
+  "link_flair_css_class": "dd",
+  "downs": 0,
+  "top_awarded_type": null,
+  "hide_score": false,
+  "media_metadata": {
+    "d9zb1sv9zg571": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 41,
+          "x": 108,
+          "u": "https://preview.redd.it/d9zb1sv9zg571.png?width=108&crop=smart&auto=webp&s=4a27d3a6d0226f05a67022921d25e5afa3625392"
+        },
+        {
+          "y": 83,
+          "x": 216,
+          "u": "https://preview.redd.it/d9zb1sv9zg571.png?width=216&crop=smart&auto=webp&s=2aa47ac4de7fc266a6b76ab31fd484b691770712"
+        },
+        {
+          "y": 123,
+          "x": 320,
+          "u": "https://preview.redd.it/d9zb1sv9zg571.png?width=320&crop=smart&auto=webp&s=12c5f61965b662c9038347b63ce8dfb378cb1a78"
+        },
+        {
+          "y": 246,
+          "x": 640,
+          "u": "https://preview.redd.it/d9zb1sv9zg571.png?width=640&crop=smart&auto=webp&s=87164a8740ec5849b70789455a982d815c24ab12"
+        }
+      ],
+      "s": {
+        "y": 252,
+        "x": 653,
+        "u": "https://preview.redd.it/d9zb1sv9zg571.png?width=653&format=png&auto=webp&s=3178804d78256de28e0b1bb23615428e8b10811f"
+      },
+      "id": "d9zb1sv9zg571"
+    },
+    "5oet5c8qyg571": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 27,
+          "x": 108,
+          "u": "https://preview.redd.it/5oet5c8qyg571.png?width=108&crop=smart&auto=webp&s=e6832811bfc36d53afedcb4c283f0690f07aeb83"
+        },
+        {
+          "y": 55,
+          "x": 216,
+          "u": "https://preview.redd.it/5oet5c8qyg571.png?width=216&crop=smart&auto=webp&s=38e2275ca06535da2f73e563549d53f3f0d00662"
+        },
+        {
+          "y": 82,
+          "x": 320,
+          "u": "https://preview.redd.it/5oet5c8qyg571.png?width=320&crop=smart&auto=webp&s=73796ce672bc6b8ba8b0acb1f85c82268105e0f5"
+        },
+        {
+          "y": 165,
+          "x": 640,
+          "u": "https://preview.redd.it/5oet5c8qyg571.png?width=640&crop=smart&auto=webp&s=c6f89c2b619e103fdf4ed5f8109d6da76562ec0e"
+        },
+        {
+          "y": 248,
+          "x": 960,
+          "u": "https://preview.redd.it/5oet5c8qyg571.png?width=960&crop=smart&auto=webp&s=983d70beecae71bab655a61bcd647b060db8cd2c"
+        },
+        {
+          "y": 279,
+          "x": 1080,
+          "u": "https://preview.redd.it/5oet5c8qyg571.png?width=1080&crop=smart&auto=webp&s=fcaf12e9f41101a80bb429b5307d014b28644213"
+        }
+      ],
+      "s": {
+        "y": 371,
+        "x": 1435,
+        "u": "https://preview.redd.it/5oet5c8qyg571.png?width=1435&format=png&auto=webp&s=f509ec43eca277fb8bcf69f6f07643f2bc621a41"
+      },
+      "id": "5oet5c8qyg571"
+    },
+    "dp2hro7xyg571": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 67,
+          "x": 108,
+          "u": "https://preview.redd.it/dp2hro7xyg571.png?width=108&crop=smart&auto=webp&s=90c3abd926209359bd0915486cc6d18a6e39cea1"
+        },
+        {
+          "y": 134,
+          "x": 216,
+          "u": "https://preview.redd.it/dp2hro7xyg571.png?width=216&crop=smart&auto=webp&s=b14e9cfe60af195161515c9052966199e9a2c5da"
+        },
+        {
+          "y": 198,
+          "x": 320,
+          "u": "https://preview.redd.it/dp2hro7xyg571.png?width=320&crop=smart&auto=webp&s=e77f2a52d64850f16c71f890b02be4c8804b0df5"
+        }
+      ],
+      "s": {
+        "y": 318,
+        "x": 512,
+        "u": "https://preview.redd.it/dp2hro7xyg571.png?width=512&format=png&auto=webp&s=020a34d9f0d07f01729cb4428b8f9338173f91d5"
+      },
+      "id": "dp2hro7xyg571"
+    },
+    "2ctdh0bryg571": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 65,
+          "x": 108,
+          "u": "https://preview.redd.it/2ctdh0bryg571.png?width=108&crop=smart&auto=webp&s=a8f6ff0e2b6283ee8c376f7835a9f2370fa9419f"
+        },
+        {
+          "y": 131,
+          "x": 216,
+          "u": "https://preview.redd.it/2ctdh0bryg571.png?width=216&crop=smart&auto=webp&s=2790e855d55fe5cc55ed3d97a4fd23caf3c32b7f"
+        },
+        {
+          "y": 195,
+          "x": 320,
+          "u": "https://preview.redd.it/2ctdh0bryg571.png?width=320&crop=smart&auto=webp&s=cea81fe411ecba3e6701efebb463a065ca7e5a35"
+        },
+        {
+          "y": 390,
+          "x": 640,
+          "u": "https://preview.redd.it/2ctdh0bryg571.png?width=640&crop=smart&auto=webp&s=d498a66a914480da7f2048c803d27a8457a2f4ee"
+        }
+      ],
+      "s": {
+        "y": 466,
+        "x": 763,
+        "u": "https://preview.redd.it/2ctdh0bryg571.png?width=763&format=png&auto=webp&s=58a311b851005695d39c0d20a3eeade442c46775"
+      },
+      "id": "2ctdh0bryg571"
+    },
+    "gz2amyyeyg571": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 17,
+          "x": 108,
+          "u": "https://preview.redd.it/gz2amyyeyg571.png?width=108&crop=smart&auto=webp&s=173ab514e08eb5c218fd2aaa5f3d6f4e3758a2c6"
+        },
+        {
+          "y": 34,
+          "x": 216,
+          "u": "https://preview.redd.it/gz2amyyeyg571.png?width=216&crop=smart&auto=webp&s=6305fc5bfef8757f13e25226017527bd37cf4cba"
+        },
+        {
+          "y": 50,
+          "x": 320,
+          "u": "https://preview.redd.it/gz2amyyeyg571.png?width=320&crop=smart&auto=webp&s=7d0c82024363b178b54c68cd5047db1fe1c2b4f0"
+        },
+        {
+          "y": 101,
+          "x": 640,
+          "u": "https://preview.redd.it/gz2amyyeyg571.png?width=640&crop=smart&auto=webp&s=4792e90379de31026fcd5475f750556017152316"
+        },
+        {
+          "y": 151,
+          "x": 960,
+          "u": "https://preview.redd.it/gz2amyyeyg571.png?width=960&crop=smart&auto=webp&s=000e3db94ed9cb781493ecb853c1c337c3522ede"
+        }
+      ],
+      "s": {
+        "y": 152,
+        "x": 962,
+        "u": "https://preview.redd.it/gz2amyyeyg571.png?width=962&format=png&auto=webp&s=38c72c623772897062101cb76c7c222c39bc4a92"
+      },
+      "id": "gz2amyyeyg571"
+    },
+    "ed4elhwcyg571": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 72,
+          "x": 108,
+          "u": "https://preview.redd.it/ed4elhwcyg571.png?width=108&crop=smart&auto=webp&s=c03e37cb9325721d40876f5213e772d0351015bf"
+        },
+        {
+          "y": 145,
+          "x": 216,
+          "u": "https://preview.redd.it/ed4elhwcyg571.png?width=216&crop=smart&auto=webp&s=30abbb29ee2557db907e66d4176247c7dea31c43"
+        },
+        {
+          "y": 215,
+          "x": 320,
+          "u": "https://preview.redd.it/ed4elhwcyg571.png?width=320&crop=smart&auto=webp&s=23aa52fdbe3a883e5c28a8bb53f8b843885c1ce8"
+        },
+        {
+          "y": 431,
+          "x": 640,
+          "u": "https://preview.redd.it/ed4elhwcyg571.png?width=640&crop=smart&auto=webp&s=991133f190d7445cf55088260c10ee8695ecf3ee"
+        }
+      ],
+      "s": {
+        "y": 624,
+        "x": 925,
+        "u": "https://preview.redd.it/ed4elhwcyg571.png?width=925&format=png&auto=webp&s=fb854b5e7033bc68185a6d6407d5382c2042f483"
+      },
+      "id": "ed4elhwcyg571"
+    },
+    "svuhhm08zg571": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 84,
+          "x": 108,
+          "u": "https://preview.redd.it/svuhhm08zg571.png?width=108&crop=smart&auto=webp&s=d029ee4f93330fcd089c141f6363c452af5233da"
+        },
+        {
+          "y": 168,
+          "x": 216,
+          "u": "https://preview.redd.it/svuhhm08zg571.png?width=216&crop=smart&auto=webp&s=38e3586c73ad8759f933ba6f45407ac40e63ff25"
+        },
+        {
+          "y": 248,
+          "x": 320,
+          "u": "https://preview.redd.it/svuhhm08zg571.png?width=320&crop=smart&auto=webp&s=0e043c61114535f92ff80da5a9b8289e84071c1e"
+        },
+        {
+          "y": 497,
+          "x": 640,
+          "u": "https://preview.redd.it/svuhhm08zg571.png?width=640&crop=smart&auto=webp&s=01f3429016f49310c0a20ac5fe0013e9d306c025"
+        }
+      ],
+      "s": {
+        "y": 508,
+        "x": 653,
+        "u": "https://preview.redd.it/svuhhm08zg571.png?width=653&format=png&auto=webp&s=5297b9a988a9bcb6a0ee00a38e8827378a8319df"
+      },
+      "id": "svuhhm08zg571"
+    },
+    "56r7k0juyg571": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 61,
+          "x": 108,
+          "u": "https://preview.redd.it/56r7k0juyg571.png?width=108&crop=smart&auto=webp&s=c73e4dcc84cb0d5cea6d4339be568dd53b209449"
+        },
+        {
+          "y": 123,
+          "x": 216,
+          "u": "https://preview.redd.it/56r7k0juyg571.png?width=216&crop=smart&auto=webp&s=20bd8df295324b0fd83685caebf55d21b68fbe3a"
+        },
+        {
+          "y": 182,
+          "x": 320,
+          "u": "https://preview.redd.it/56r7k0juyg571.png?width=320&crop=smart&auto=webp&s=f123f7715dc68fb451d916d31ff5dc2c07dde770"
+        },
+        {
+          "y": 365,
+          "x": 640,
+          "u": "https://preview.redd.it/56r7k0juyg571.png?width=640&crop=smart&auto=webp&s=2674244f2782397b82188f55520ecbee3856d805"
+        },
+        {
+          "y": 547,
+          "x": 960,
+          "u": "https://preview.redd.it/56r7k0juyg571.png?width=960&crop=smart&auto=webp&s=f0add56a95a92aaf6188ab2646a2fb92c08e2d99"
+        },
+        {
+          "y": 616,
+          "x": 1080,
+          "u": "https://preview.redd.it/56r7k0juyg571.png?width=1080&crop=smart&auto=webp&s=c9fbc6b5e0af884fed2082685242a39edea12f8a"
+        }
+      ],
+      "s": {
+        "y": 775,
+        "x": 1358,
+        "u": "https://preview.redd.it/56r7k0juyg571.png?width=1358&format=png&auto=webp&s=820e3de51e21ce9d0dd3feab11084929374a1bb8"
+      },
+      "id": "56r7k0juyg571"
+    },
+    "co42erslyg571": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 40,
+          "x": 108,
+          "u": "https://preview.redd.it/co42erslyg571.png?width=108&crop=smart&auto=webp&s=9ce1f8d05d2d3d628219e0d754075462d52d1f6b"
+        },
+        {
+          "y": 80,
+          "x": 216,
+          "u": "https://preview.redd.it/co42erslyg571.png?width=216&crop=smart&auto=webp&s=25f419df53c8a405aaaf38da279d614a8382cffc"
+        },
+        {
+          "y": 119,
+          "x": 320,
+          "u": "https://preview.redd.it/co42erslyg571.png?width=320&crop=smart&auto=webp&s=06c36abec3f6088a1074eada1fad006bf7bcc3a3"
+        }
+      ],
+      "s": {
+        "y": 191,
+        "x": 512,
+        "u": "https://preview.redd.it/co42erslyg571.png?width=512&format=png&auto=webp&s=2e898cb8ddf16cfdcdeeaf95e977858e27462376"
+      },
+      "id": "co42erslyg571"
+    },
+    "hft2ez5nyg571": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 35,
+          "x": 108,
+          "u": "https://preview.redd.it/hft2ez5nyg571.png?width=108&crop=smart&auto=webp&s=22de9d34a3d324b8d59e6f03fbeac8b3639f2e18"
+        },
+        {
+          "y": 70,
+          "x": 216,
+          "u": "https://preview.redd.it/hft2ez5nyg571.png?width=216&crop=smart&auto=webp&s=0688c8c486e0a189df42c4b5d9401319501ac86e"
+        },
+        {
+          "y": 104,
+          "x": 320,
+          "u": "https://preview.redd.it/hft2ez5nyg571.png?width=320&crop=smart&auto=webp&s=677fbff4e515037f71f4db72c7b1709fc6ef9692"
+        },
+        {
+          "y": 209,
+          "x": 640,
+          "u": "https://preview.redd.it/hft2ez5nyg571.png?width=640&crop=smart&auto=webp&s=f075fab57081f811ba9508e8b3e1ea1e00ab87de"
+        },
+        {
+          "y": 314,
+          "x": 960,
+          "u": "https://preview.redd.it/hft2ez5nyg571.png?width=960&crop=smart&auto=webp&s=cb03f1469a4d2b265c0b2b0ce42d60c3d74389f9"
+        },
+        {
+          "y": 353,
+          "x": 1080,
+          "u": "https://preview.redd.it/hft2ez5nyg571.png?width=1080&crop=smart&auto=webp&s=5e17c69aa099e1d2b32c401c8e9ae581969bc67e"
+        }
+      ],
+      "s": {
+        "y": 524,
+        "x": 1600,
+        "u": "https://preview.redd.it/hft2ez5nyg571.png?width=1600&format=png&auto=webp&s=55e728df6a3700793c3500dc1aac00e1eed36c5d"
+      },
+      "id": "hft2ez5nyg571"
+    },
+    "g0felo73zg571": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 76,
+          "x": 108,
+          "u": "https://preview.redd.it/g0felo73zg571.png?width=108&crop=smart&auto=webp&s=aeb9a72ba4e0b4613ca95ab9e8a33ab38c89d359"
+        },
+        {
+          "y": 152,
+          "x": 216,
+          "u": "https://preview.redd.it/g0felo73zg571.png?width=216&crop=smart&auto=webp&s=a2073464abcc7ef41a7efcfc1f37cb7746da3c46"
+        },
+        {
+          "y": 225,
+          "x": 320,
+          "u": "https://preview.redd.it/g0felo73zg571.png?width=320&crop=smart&auto=webp&s=884c1ee4d9a2971b819c3fa4356fe2afed18783f"
+        },
+        {
+          "y": 451,
+          "x": 640,
+          "u": "https://preview.redd.it/g0felo73zg571.png?width=640&crop=smart&auto=webp&s=9697a69872364a4916180a6a511058a82a0703f9"
+        }
+      ],
+      "s": {
+        "y": 676,
+        "x": 958,
+        "u": "https://preview.redd.it/g0felo73zg571.png?width=958&format=png&auto=webp&s=a20176ef26c50d93d3c6d6babb435cac1d1b7641"
+      },
+      "id": "g0felo73zg571"
+    },
+    "dft3upnvyg571": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 37,
+          "x": 108,
+          "u": "https://preview.redd.it/dft3upnvyg571.png?width=108&crop=smart&auto=webp&s=d1a98bc719bed2517885f669a3341e2efd0a1d31"
+        },
+        {
+          "y": 74,
+          "x": 216,
+          "u": "https://preview.redd.it/dft3upnvyg571.png?width=216&crop=smart&auto=webp&s=7a42be75adb132bf9567e702c39938fd8be169df"
+        },
+        {
+          "y": 111,
+          "x": 320,
+          "u": "https://preview.redd.it/dft3upnvyg571.png?width=320&crop=smart&auto=webp&s=2a1d1330efa000f71b4b66077fbc6f34f26c231a"
+        },
+        {
+          "y": 222,
+          "x": 640,
+          "u": "https://preview.redd.it/dft3upnvyg571.png?width=640&crop=smart&auto=webp&s=7b89ab6de2ad55e144cc3cb23e849c86273da442"
+        },
+        {
+          "y": 333,
+          "x": 960,
+          "u": "https://preview.redd.it/dft3upnvyg571.png?width=960&crop=smart&auto=webp&s=f9ae14c670021c69f1dcc5dc31bcc3a8f65e5eba"
+        },
+        {
+          "y": 374,
+          "x": 1080,
+          "u": "https://preview.redd.it/dft3upnvyg571.png?width=1080&crop=smart&auto=webp&s=e04d323e3951c5a6e32bce8c49f9528540ef1cf9"
+        }
+      ],
+      "s": {
+        "y": 494,
+        "x": 1424,
+        "u": "https://preview.redd.it/dft3upnvyg571.png?width=1424&format=png&auto=webp&s=11a98750efcb5af5c7e9bf9f4258f48c6f2b298a"
+      },
+      "id": "dft3upnvyg571"
+    },
+    "4bw1gc80zg571": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 50,
+          "x": 108,
+          "u": "https://preview.redd.it/4bw1gc80zg571.png?width=108&crop=smart&auto=webp&s=2cc11a530bf0ac8d566595f87ea976f58c0806bf"
+        },
+        {
+          "y": 100,
+          "x": 216,
+          "u": "https://preview.redd.it/4bw1gc80zg571.png?width=216&crop=smart&auto=webp&s=2aa6f790fee8ab6ac0b618e7a02f990fc40caf90"
+        },
+        {
+          "y": 148,
+          "x": 320,
+          "u": "https://preview.redd.it/4bw1gc80zg571.png?width=320&crop=smart&auto=webp&s=8bfbde5d8fd28f2bf3d038da898dcacc921f13ea"
+        },
+        {
+          "y": 297,
+          "x": 640,
+          "u": "https://preview.redd.it/4bw1gc80zg571.png?width=640&crop=smart&auto=webp&s=2a4389ce12cd5db773f8f089e76320f53f68be18"
+        },
+        {
+          "y": 446,
+          "x": 960,
+          "u": "https://preview.redd.it/4bw1gc80zg571.png?width=960&crop=smart&auto=webp&s=2f0b66bc05444e748a086e718b8b720b68390e0a"
+        },
+        {
+          "y": 501,
+          "x": 1080,
+          "u": "https://preview.redd.it/4bw1gc80zg571.png?width=1080&crop=smart&auto=webp&s=647203e3e2e23930e04c1953da412508f77bc5f3"
+        }
+      ],
+      "s": {
+        "y": 671,
+        "x": 1444,
+        "u": "https://preview.redd.it/4bw1gc80zg571.png?width=1444&format=png&auto=webp&s=ca20e4af362f4152e17eb4e7d4394557751e243b"
+      },
+      "id": "4bw1gc80zg571"
+    },
+    "oran9rvjyg571": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 43,
+          "x": 108,
+          "u": "https://preview.redd.it/oran9rvjyg571.png?width=108&crop=smart&auto=webp&s=b2ba89953bf6ed8ee735fc278a533934ecd6db4e"
+        },
+        {
+          "y": 87,
+          "x": 216,
+          "u": "https://preview.redd.it/oran9rvjyg571.png?width=216&crop=smart&auto=webp&s=a1f49bd683a26fb0981730906015d7a98a0581bd"
+        },
+        {
+          "y": 130,
+          "x": 320,
+          "u": "https://preview.redd.it/oran9rvjyg571.png?width=320&crop=smart&auto=webp&s=e693ff5f9c6e42053d3e50a86c9481886ba9c4c2"
+        },
+        {
+          "y": 260,
+          "x": 640,
+          "u": "https://preview.redd.it/oran9rvjyg571.png?width=640&crop=smart&auto=webp&s=6513e68c618d6c11d71c24ca7c45455aa3d5526f"
+        },
+        {
+          "y": 390,
+          "x": 960,
+          "u": "https://preview.redd.it/oran9rvjyg571.png?width=960&crop=smart&auto=webp&s=cb311c5a5a3e00cbf6c9a366f6e6b09e194314ac"
+        },
+        {
+          "y": 438,
+          "x": 1080,
+          "u": "https://preview.redd.it/oran9rvjyg571.png?width=1080&crop=smart&auto=webp&s=f978a4339078d4b251dc8004126e219d4516f334"
+        }
+      ],
+      "s": {
+        "y": 578,
+        "x": 1422,
+        "u": "https://preview.redd.it/oran9rvjyg571.png?width=1422&format=png&auto=webp&s=19041cb865d8f59e891050daef534311c02690cf"
+      },
+      "id": "oran9rvjyg571"
+    },
+    "jg1sz1jgyg571": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 113,
+          "x": 108,
+          "u": "https://preview.redd.it/jg1sz1jgyg571.png?width=108&crop=smart&auto=webp&s=e51def5f886654a7345f871e94c8a489b61c7035"
+        },
+        {
+          "y": 227,
+          "x": 216,
+          "u": "https://preview.redd.it/jg1sz1jgyg571.png?width=216&crop=smart&auto=webp&s=1aac704709f79aa843c2c6a8f92820df51251d3c"
+        },
+        {
+          "y": 337,
+          "x": 320,
+          "u": "https://preview.redd.it/jg1sz1jgyg571.png?width=320&crop=smart&auto=webp&s=fa73c33098bf81c5c8766b7ab9b6f3d0c6f59e8b"
+        }
+      ],
+      "s": {
+        "y": 471,
+        "x": 447,
+        "u": "https://preview.redd.it/jg1sz1jgyg571.png?width=447&format=png&auto=webp&s=9f174218b42b9f00bc055e473187547b941891bb"
+      },
+      "id": "jg1sz1jgyg571"
+    },
+    "8abtdw1tyg571": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 76,
+          "x": 108,
+          "u": "https://preview.redd.it/8abtdw1tyg571.png?width=108&crop=smart&auto=webp&s=13183fba4002a386478af8cb7740048e00369603"
+        },
+        {
+          "y": 152,
+          "x": 216,
+          "u": "https://preview.redd.it/8abtdw1tyg571.png?width=216&crop=smart&auto=webp&s=35777ee2332628af62c0551566a1597aaa81fa68"
+        },
+        {
+          "y": 226,
+          "x": 320,
+          "u": "https://preview.redd.it/8abtdw1tyg571.png?width=320&crop=smart&auto=webp&s=fbb09a42b523fc51bc084c71e17207b167628fdf"
+        },
+        {
+          "y": 452,
+          "x": 640,
+          "u": "https://preview.redd.it/8abtdw1tyg571.png?width=640&crop=smart&auto=webp&s=596264d9290bebd6b3f97497aa9d8d705633b49e"
+        }
+      ],
+      "s": {
+        "y": 471,
+        "x": 666,
+        "u": "https://preview.redd.it/8abtdw1tyg571.png?width=666&format=png&auto=webp&s=fd2fb4cd6f4a2ebfad55cd0ef25f5f4f0915a786"
+      },
+      "id": "8abtdw1tyg571"
+    },
+    "3osoqdmyyg571": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 68,
+          "x": 108,
+          "u": "https://preview.redd.it/3osoqdmyyg571.png?width=108&crop=smart&auto=webp&s=5161dbab7f7a58b305268e2111109a855de35f46"
+        },
+        {
+          "y": 136,
+          "x": 216,
+          "u": "https://preview.redd.it/3osoqdmyyg571.png?width=216&crop=smart&auto=webp&s=e424d0392439270f37cb24eb886de612863c77af"
+        },
+        {
+          "y": 201,
+          "x": 320,
+          "u": "https://preview.redd.it/3osoqdmyyg571.png?width=320&crop=smart&auto=webp&s=dc26d567037b14934c22087c857702491cb1e696"
+        },
+        {
+          "y": 402,
+          "x": 640,
+          "u": "https://preview.redd.it/3osoqdmyyg571.png?width=640&crop=smart&auto=webp&s=33dfe4c1d2843e138374540cc9c47779fa876fb3"
+        }
+      ],
+      "s": {
+        "y": 442,
+        "x": 702,
+        "u": "https://preview.redd.it/3osoqdmyyg571.png?width=702&format=png&auto=webp&s=2003e1ee5e6ddab55815387d1f997f96ed4b4e6a"
+      },
+      "id": "3osoqdmyyg571"
+    }
+  },
+  "name": "t3_o0kufi",
+  "quarantine": false,
+  "link_flair_text_color": "light",
+  "upvote_ratio": 0.83,
+  "author_flair_background_color": "",
+  "subreddit_type": "public",
+  "ups": 1008,
+  "total_awards_received": 125,
+  "media_embed": {},
+  "author_flair_template_id": null,
+  "is_original_content": true,
+  "user_reports": [],
+  "secure_media": null,
+  "is_reddit_media_domain": false,
+  "is_meta": false,
+  "category": null,
+  "secure_media_embed": {},
+  "link_flair_text": "DD",
+  "can_mod_post": false,
+  "score": 1008,
+  "approved_by": null,
+  "is_created_from_ads_ui": false,
+  "author_premium": true,
+  "thumbnail": "",
+  "edited": false,
+  "author_flair_css_class": null,
+  "author_flair_richtext": [
+    {
+      "e": "text",
+      "t": "'s mom reads his posts"
+    }
+  ],
+  "gildings": {
+    "gid_1": 8,
+    "gid_2": 8,
+    "gid_3": 4
+  },
+  "content_categories": null,
+  "is_self": true,
+  "mod_note": null,
+  "created": 1623809775,
+  "link_flair_type": "richtext",
+  "wls": 7,
+  "removed_by_category": null,
+  "banned_by": null,
+  "author_flair_type": "richtext",
+  "domain": "self.wallstreetbets",
+  "allow_live_comments": true,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p><strong>Section 1: Float, Borrow Rate, and Short Interest</strong></p>\n\n<p><strong>ARVL Daily Chart</strong></p>\n\n<p><a href=\"https://preview.redd.it/ed4elhwcyg571.png?width=925&amp;format=png&amp;auto=webp&amp;s=fb854b5e7033bc68185a6d6407d5382c2042f483\">https://preview.redd.it/ed4elhwcyg571.png?width=925&amp;format=png&amp;auto=webp&amp;s=fb854b5e7033bc68185a6d6407d5382c2042f483</a></p>\n\n<p><strong>ARVL - A deep look within</strong> </p>\n\n<p><a href=\"https://preview.redd.it/gz2amyyeyg571.png?width=962&amp;format=png&amp;auto=webp&amp;s=38c72c623772897062101cb76c7c222c39bc4a92\"> 606 MM shares outstanding, with the majority of shares subject to lock-up and 52mm shares in the public float. </a></p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/jg1sz1jgyg571.png?width=447&amp;format=png&amp;auto=webp&amp;s=9f174218b42b9f00bc055e473187547b941891bb\"> From Yahoo Finance:</a></p>\n\n<p>There are 9.62MM registered shares shorted. This does not include Failure to Delivers (FTD) — otherwise known as “Naked Shorts.”</p>\n\n<p>From Fintel, we can see that from the May data that there were over 1MM shares that “Failed to Deliver” on any given day.  </p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/oran9rvjyg571.png?width=1422&amp;format=png&amp;auto=webp&amp;s=19041cb865d8f59e891050daef534311c02690cf\">https://preview.redd.it/oran9rvjyg571.png?width=1422&amp;format=png&amp;auto=webp&amp;s=19041cb865d8f59e891050daef534311c02690cf</a></p>\n\n<p>If we look at the borrow rate for the stock, it is extremely high. In fact, it’s been (at times) the second highest in the market. </p>\n\n<p>This makes sense because there are almost no shares left to short (or borrow), which results in a very high interest rate to borrow shares to short. Today it topped 270% borrow rate. </p>\n\n<p><a href=\"https://preview.redd.it/co42erslyg571.png?width=512&amp;format=png&amp;auto=webp&amp;s=2e898cb8ddf16cfdcdeeaf95e977858e27462376\">https://preview.redd.it/co42erslyg571.png?width=512&amp;format=png&amp;auto=webp&amp;s=2e898cb8ddf16cfdcdeeaf95e977858e27462376</a></p>\n\n<p>It ranked #2 on Fintels “highest borrow rate” list today!  </p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/hft2ez5nyg571.png?width=1600&amp;format=png&amp;auto=webp&amp;s=55e728df6a3700793c3500dc1aac00e1eed36c5d\">https://preview.redd.it/hft2ez5nyg571.png?width=1600&amp;format=png&amp;auto=webp&amp;s=55e728df6a3700793c3500dc1aac00e1eed36c5d</a></p>\n\n<p>The borrow rate on ETRADE is 120% and listed as hard to borrow. </p>\n\n<p><a href=\"https://preview.redd.it/5oet5c8qyg571.png?width=1435&amp;format=png&amp;auto=webp&amp;s=f509ec43eca277fb8bcf69f6f07643f2bc621a41\">https://preview.redd.it/5oet5c8qyg571.png?width=1435&amp;format=png&amp;auto=webp&amp;s=f509ec43eca277fb8bcf69f6f07643f2bc621a41</a></p>\n\n<p>On Iborrowdesk, it’s the same story:  </p>\n\n<p><a href=\"https://preview.redd.it/2ctdh0bryg571.png?width=763&amp;format=png&amp;auto=webp&amp;s=58a311b851005695d39c0d20a3eeade442c46775\">https://preview.redd.it/2ctdh0bryg571.png?width=763&amp;format=png&amp;auto=webp&amp;s=58a311b851005695d39c0d20a3eeade442c46775</a></p>\n\n<p>When we look at the daily trading data (source: Fintel), we can see something doesn&#39;t add up: <strong>a stock with almost no shares to short and a very high borrow rate…. yet, the table below shows an average of 60-70% of the daily volume is being sold short.  EVERY DAY.</strong> </p>\n\n<p><a href=\"https://preview.redd.it/8abtdw1tyg571.png?width=666&amp;format=png&amp;auto=webp&amp;s=fd2fb4cd6f4a2ebfad55cd0ef25f5f4f0915a786\">https://preview.redd.it/8abtdw1tyg571.png?width=666&amp;format=png&amp;auto=webp&amp;s=fd2fb4cd6f4a2ebfad55cd0ef25f5f4f0915a786</a></p>\n\n<p>How on Earth is someone shorting millions of shares per day? Where are they finding these shares when three separate brokers have no shares available to short? </p>\n\n<p><strong>Section 2: Failure to Deliver and Suspicious Options Activity</strong></p>\n\n<p><a href=\"https://preview.redd.it/56r7k0juyg571.png?width=1358&amp;format=png&amp;auto=webp&amp;s=820e3de51e21ce9d0dd3feab11084929374a1bb8\">https://preview.redd.it/56r7k0juyg571.png?width=1358&amp;format=png&amp;auto=webp&amp;s=820e3de51e21ce9d0dd3feab11084929374a1bb8</a></p>\n\n<p>It looks like they have been shorting this stock for months. Let’s see who is disclosing some (not all) of their short positions:  </p>\n\n<p><a href=\"https://preview.redd.it/dft3upnvyg571.png?width=1424&amp;format=png&amp;auto=webp&amp;s=11a98750efcb5af5c7e9bf9f4258f48c6f2b298a\">https://preview.redd.it/dft3upnvyg571.png?width=1424&amp;format=png&amp;auto=webp&amp;s=11a98750efcb5af5c7e9bf9f4258f48c6f2b298a</a></p>\n\n<p>Questions: How are they still shorting with such a high borrow rate? How many shares are actually naked short and waiting for the unlock of more shares?  Is this from the PIPE which would cause selling pressure? It seems like someone is waiting for these shares to unlock so they can cover. </p>\n\n<p>The answer is in the options flow: </p>\n\n<p>The chart below is for the $10.00 June 18 (in the money) call options. Notice something? 6,000 Contracts purchased every day. </p>\n\n<p><a href=\"https://preview.redd.it/dp2hro7xyg571.png?width=512&amp;format=png&amp;auto=webp&amp;s=020a34d9f0d07f01729cb4428b8f9338173f91d5\">https://preview.redd.it/dp2hro7xyg571.png?width=512&amp;format=png&amp;auto=webp&amp;s=020a34d9f0d07f01729cb4428b8f9338173f91d5</a></p>\n\n<p>And this chart is for the $15.00 June 18 calls:</p>\n\n<p><a href=\"https://preview.redd.it/3osoqdmyyg571.png?width=702&amp;format=png&amp;auto=webp&amp;s=2003e1ee5e6ddab55815387d1f997f96ed4b4e6a\">https://preview.redd.it/3osoqdmyyg571.png?width=702&amp;format=png&amp;auto=webp&amp;s=2003e1ee5e6ddab55815387d1f997f96ed4b4e6a</a></p>\n\n<p><strong>Added together (both June strikes)</strong> someone is buying (or shorting) 14,000 contracts PER DAY, and the open interest is reset each day, which means they are being exercised. </p>\n\n<p>For proof of the instant exercising of the calls, here are some calls bought on June 11th, showing 6.81k calls purchased, and the corresponding volume of 681k at the exact same date and time. (You can see the small volume bar at the bottom of the arrow on this minute candle chart) </p>\n\n<p><a href=\"https://preview.redd.it/4bw1gc80zg571.png?width=1444&amp;format=png&amp;auto=webp&amp;s=ca20e4af362f4152e17eb4e7d4394557751e243b\">https://preview.redd.it/4bw1gc80zg571.png?width=1444&amp;format=png&amp;auto=webp&amp;s=ca20e4af362f4152e17eb4e7d4394557751e243b</a></p>\n\n<p><a href=\"https://preview.redd.it/g0felo73zg571.png?width=958&amp;format=png&amp;auto=webp&amp;s=a20176ef26c50d93d3c6d6babb435cac1d1b7641\">share volume corresponds perfectly with the options contract volume</a></p>\n\n<p><strong>Chapter 3: The Buy-Write Delay Strategy</strong></p>\n\n<p>This “Buy-Write” Strategy is discussed in an SEC article on detecting illegal options trading strategies to reset close-out obligations:</p>\n\n<p><a href=\"https://www.sec.gov/about/offices/ocie/options-trading-risk-alert.pdf\">Strengthening Practices for Preventing and Detecting Illegal Options Trading Used to Reset Reg SHO Close-out Obligations (sec.gov)</a></p>\n\n<p>This can be a complex process that we can go into in another post, but the gist of this is that when the fund shorting the stock needs to make a delivery on a hard to borrow security (like $ARVL), they give the appearance of satisfying the brokers-dealer’s close-out requirement — all the while MAINTAINING their short position) by engaging in these “reset transactions!” </p>\n\n<p>Proof of the nefarious activity can be found by running through the checklist of SEC observations for these strategies and noting all which apply to ARVL (highlighted below)</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/svuhhm08zg571.png?width=653&amp;format=png&amp;auto=webp&amp;s=5297b9a988a9bcb6a0ee00a38e8827378a8319df\">https://preview.redd.it/svuhhm08zg571.png?width=653&amp;format=png&amp;auto=webp&amp;s=5297b9a988a9bcb6a0ee00a38e8827378a8319df</a></p>\n\n<p>The implications of this don’t lead to easy conclusions, but it looks like the shorts are going all out in their attempts to maintain their positions. Likely, there are two or more funds engaging in this strategy, which is outlined in these highlighted sentences below:</p>\n\n<p>![img](d9zb1sv9zg571 &quot;\n&quot;)</p>\n\n<p>We can perform a rough calculation of how much the shorting fund will pay to buy time by using the call option and share price at the time of purchase and exercise.</p>\n\n<p><strong>Reverse Engineering</strong> </p>\n\n<ul>\n<li>June 18th $10 call contract @ 9.30$ per contract</li>\n<li>Share price = $19.34</li>\n<li>Quantity 10,000 contracts</li>\n</ul>\n\n<p>Therefore they are paying a $0.04 premium on the stock. </p>\n\n<p>We can reverse engineer the equivalent borrow rate : $0.04 / $19.34 x 100% x 365 = 76% equivalent yearly  interest (or borrow rate)  they are paying on every transaction with the calls contracts.</p>\n\n<p>As per the SEC document noted above, it seems like they are using the strategy called  “The Second Transaction to “Reset the Clock”</p>\n\n<p>Party A ( with large short interest)</p>\n\n<p>Balance -1,000,000 shares short</p>\n\n<p>Party B</p>\n\n<p>Shorts 10,000 options contracts </p>\n\n<p>Party A buys and exercises contracts</p>\n\n<p>Balance 0 shares</p>\n\n<p>Party B</p>\n\n<p>Balance -1,000,000 shares</p>\n\n<p>Party A</p>\n\n<p>Short sells 1,000,000 shares</p>\n\n<p>Balance -1,000,000 shares</p>\n\n<p>Party B </p>\n\n<p>Buys 1,000,000 shares from party A</p>\n\n<p>Balance 0</p>\n\n<p>Both parties have the same amount of shares they started with. Party A benefits from buying time and paying a reduced borrow rate </p>\n\n<p>This explains why there is such high short interest every day. The party with the large short position is refusing to cover their position because they are waiting for the shares to unlock, which would create downward selling pressure. </p>\n\n<p><strong>Section 4: Conclusion</strong></p>\n\n<p>☑ Massive borrow rate (2nd largest) indicating a decrease in supply or vigorous short sale activity (or both)</p>\n\n<p>☑ Huge daily short volume over the past month</p>\n\n<p>☑ Failure to delivers (FTDs) caused by low float and massive short selling</p>\n\n<p>☑ Questionable buy-write activity indicating massive stuck short positions</p>\n\n<p>☑ Super tight float allowing for a large pump</p>\n\n<p>☑ Low IV allowing for call-option gamma squeeze further trapping the shorts</p>\n\n<p>TL;DR - short interest on $ARVL is massive, and interested parties seem to be betting on a PIPE unlock soon. They are paying over 100% for their borrow fee and could be forced to cover if the stock gains upward momentum. They appear to be manipulating the price and buying time through options contracts. </p>\n\n<p>How much time they have is the salient question. Feel free to weigh in. </p>\n\n<p><em>Disclaimer:</em>  <em>this is all public available data and we have no idea If we are deciphering it correctly</em></p>\n</div><!-- SC_ON -->",
+  "likes": null,
+  "suggested_sort": "confidence",
+  "banned_at_utc": null,
+  "view_count": null,
+  "archived": false,
+  "no_follow": false,
+  "is_crosspostable": false,
+  "pinned": false,
+  "over_18": false,
+  "awarders": [],
+  "media_only": false,
+  "link_flair_template_id": "5692ce02-b860-11e5-b542-0edc7016bbd3",
+  "can_gild": false,
+  "spoiler": false,
+  "locked": false,
+  "author_flair_text": "'s mom reads his posts",
+  "treatment_tags": [],
+  "visited": false,
+  "removed_by": null,
+  "num_reports": null,
+  "distinguished": null,
+  "subreddit_id": "t5_2th52",
+  "mod_reason_by": null,
+  "removal_reason": null,
+  "link_flair_background_color": "#365b8c",
+  "id": "o0kufi",
+  "is_robot_indexable": true,
+  "report_reasons": null,
+  "author": "Trancify",
+  "discussion_type": null,
+  "num_comments": 352,
+  "send_replies": true,
+  "whitelist_status": "some_ads",
+  "contest_mode": false,
+  "mod_reports": [],
+  "author_patreon_flair": false,
+  "author_flair_text_color": "dark",
+  "permalink": "/r/wallstreetbets/comments/o0kufi/arvl_the_second_transaction_to_reset_the_clock/",
+  "parent_whitelist_status": "some_ads",
+  "stickied": false,
+  "url": "https://www.reddit.com/r/wallstreetbets/comments/o0kufi/arvl_the_second_transaction_to_reset_the_clock/",
+  "subreddit_subscribers": 10531859,
+  "created_utc": 1623817989,
+  "num_crossposts": 4,
+  "media": null,
+  "is_video": false,
+  "original_created_utc": 1623780975,
+  "the_new_excerpt": "Section 1: Float, Borrow Rate, and Short Interest\n\nARVL Daily Chart\n\nhttps://preview.redd.it/ed4elhwcyg571.png?width=925&format=png&auto=webp&s=fb854b5e7033bc68185a6d6407d5382c2042f483\n\nARVL - A deep look within\n\n606 MM shares outstanding, with the majority of shares subject to lock-up and\n52mm…"
+}
