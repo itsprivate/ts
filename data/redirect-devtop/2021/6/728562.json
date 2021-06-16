@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-15T05:07:12Z",
   "image": "https://dev.to/social_previews/article/728562.png",
   "author": "Siddharth",
-  "author_url": "https://dev.to/siddharthshyniben"
+  "author_url": "https://dev.to/siddharthshyniben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "(neo)vimのドキュメントをちょっと見ただけで、正式に(neo)vim(とtmux)に移行することになりました! I...",
+      "title": "私はvimに乗り換えます!"
+    },
+    {
+      "locale": "zh",
+      "description": "我刚刚看了一下(neo)vim的文档，我正式转到(neo)vim(和tmux)! I...",
+      "title": "我正在改用vim!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我剛剛看了一下(neo)vim的文檔，我正式轉到(neo)vim(和tmux)! I...",
+      "title": "我正在改用vim!"
+    }
+  ]
 }
