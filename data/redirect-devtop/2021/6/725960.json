@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-12T03:17:56Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xOr9Rq_a--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s0c7ctdk04ac1jhirdej.png",
   "author": "zahrakhadijha",
-  "author_url": "https://dev.to/zahrakhadijha"
+  "author_url": "https://dev.to/zahrakhadijha",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "1ヶ月前、私はtwitterで、仕事でgit rebaseを学んでいて、それがどれほど怖いものかを投稿しました。",
+      "title": "An Introduction to Git Rebase: チュートリアル"
+    },
+    {
+      "locale": "zh",
+      "description": "一个月前，我在twitter上发帖说我在工作中学习git rebase，感觉很可怕。 ...",
+      "title": "Git Rebase的介绍。教程"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個月前，我在twitter上發帖說我在工作中學習git rebase，感覺很可怕。 ...",
+      "title": "Git Rebase的介紹。教程"
+    }
+  ]
 }
