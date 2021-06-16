@@ -91,5 +91,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-16T07:01:00Z"
+  "original_createdAt": "2021-06-16T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "インタラクティブなライブストリームでスペイン語、フランス語、ドイツ語を学べる初のアプリ「Chatterbug Streams」で、新しい言語を学びましょう。リアルタイムのクイズや投票で自分のレベルに合ったPelotonのようなライブストリームを見ることができます。",
+      "tagline": "ライブ・ストリーム・クラスで新しい言語を学ぶ"
+    },
+    {
+      "locale": "zh",
+      "description": "通过Chatterbug Streams学习新的语言，这是第一款通过互动直播学习西班牙语、法语和德语的应用程序。通过实时测验和投票，观看为您的水平量身定做的类似于Peloton的直播流。",
+      "tagline": "通过直播课程学习一门新的语言"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "通過Chatterbug Streams學習新的語言，這是第一款通過互動直播學習西班牙語、法語和德語的應用程序。通過實時測驗和投票，觀看爲您的水平量身定做的類似於Peloton的直播流。",
+      "tagline": "通過直播課程學習一門新的語言"
+    }
+  ]
 }
