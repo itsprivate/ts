@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-16T09:30:11Z",
   "image": "https://dev.to/social_previews/article/729835.png",
   "author": "Budibase",
-  "author_url": "https://dev.to/budibase"
+  "author_url": "https://dev.to/budibase",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "オープンソースの開発ツールには様々な形があり、適切なものを選ぶのは複雑なプロセスです。この記事では、あなたが試すべきツールを明らかにします。",
+      "title": "オープンソース開発ツールのトップ10（試行錯誤の結果"
+    },
+    {
+      "locale": "zh",
+      "description": "开源开发工具有很多形状和大小，选择合适的工具是一个复杂的过程。这篇文章指出了你需要尝试的工具。",
+      "title": "十大开源开发工具（经过测试的）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "開源開發工具有很多形狀和大小，選擇合適的工具是一個複雜的過程。這篇文章指出了你需要嘗試的工具。",
+      "title": "十大開源開發工具（經過測試的）。"
+    }
+  ]
 }
