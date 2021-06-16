@@ -35,5 +35,22 @@
   "original_created_at": "2021-05-26T00:19:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JhtGbBGl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g6oe1luw32ehgxsh08dk.png",
   "author": "Babatunde Koiki",
-  "author_url": "https://dev.to/bkoiki950"
+  "author_url": "https://dev.to/bkoiki950",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Google Password ManagerのクローンをReact JSとFaunaで構築する 執筆者：コネクティッド・マーティン",
+      "title": "React JS、Crypto JS、Faunaによるパスワードマネージャの構築"
+    },
+    {
+      "locale": "zh",
+      "description": "用React JS和Fauna建立一个克隆的谷歌密码管理器 Authored in connection...",
+      "title": "用React JS、Crypto JS和Fauna构建一个密码管理器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "用React JS和Fauna建立一個克隆的谷歌密碼管理器 Authored in connection...",
+      "title": "用React JS、Crypto JS和Fauna構建一個密碼管理器"
+    }
+  ]
 }
