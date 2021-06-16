@@ -106,5 +106,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1623768116,
-  "the_new_excerpt": "5 months to go fellow bitcoiners.\n\nSource:\n\nhttps://luke.dashjr.org/programs/bitcoin/files/charts/taproot.html"
+  "the_new_excerpt": "5 months to go fellow bitcoiners.\n\nSource:\n\nhttps://luke.dashjr.org/programs/bitcoin/files/charts/taproot.html",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "あと5ヶ月......ビットコインの仲間たちよ。\n\nソースはこちら\n\nhttps://luke.dashjr.org/programs/bitcoin/files/charts/taproot.html",
+      "title": "Taprootを導入しているノードは25%以下です。ノードを更新してください。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "还有5个月的时间，比特币同胞们。\n\n来源。\n\nhttps://luke.dashjr.org/programs/bitcoin/files/charts/taproot.html",
+      "title": "不到25%的节点执行Taproot，更新你的节点！!"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "還有5個月的時間，比特幣同胞們。\n\n來源。\n\nhttps://luke.dashjr.org/programs/bitcoin/files/charts/taproot.html",
+      "title": "不到25%的節點執行Taproot，更新你的節點！!"
+    }
+  ]
 }
