@@ -14,5 +14,19 @@
   "tags": [
     "BBC News"
   ],
-  "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1225E/production/_118943347_gaza.jpg"
+  "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1225E/production/_118943347_gaza.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "イスラエルがガザ地区で放火事件を起こした後に空爆"
+    },
+    {
+      "locale": "zh",
+      "title": "纵火案发生后，以色列在加沙进行打击"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "縱火案發生後，以色列在加沙進行打擊"
+    }
+  ]
 }
