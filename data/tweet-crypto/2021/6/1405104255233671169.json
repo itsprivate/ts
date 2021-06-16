@@ -251,5 +251,22 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Wed Jun 16 10:05:34 +0000 2021"
+  "original_created_at": "Wed Jun 16 10:05:34 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @nic__carter: @maxraskinの素晴らしい作品。\n\n https://t.co/EJ1YXqw6Cw",
+      "retweeted_status_full_text": "maxraskinの素晴らしい作品 \n\n https://t.co/EJ1YXqw6Cw"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @nic__carter: @maxraskin的精彩文章 \n\n https://t.co/EJ1YXqw6Cw",
+      "retweeted_status_full_text": "来自@maxraskin的精彩文章 \n\n https://t.co/EJ1YXqw6Cw"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @nic__carter: @maxraskin的精彩文章 \n\n https://t.co/EJ1YXqw6Cw",
+      "retweeted_status_full_text": "來自@maxraskin的精彩文章 \n\n https://t.co/EJ1YXqw6Cw"
+    }
+  ]
 }
