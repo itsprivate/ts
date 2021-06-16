@@ -43,5 +43,22 @@
   "original_created_at": "2021-06-15T07:31:42Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8HQaZQBt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ewpclnyo9wx5dlo516cj.jpeg",
   "author": "Eftykhar Rahman",
-  "author_url": "https://dev.to/iamraufu"
+  "author_url": "https://dev.to/iamraufu",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "React 17は、開発者にとって少し退屈なものでした。追加されたものは本当に少なかったですが、確かに...",
+      "title": "React 18 - What's New! "
+    },
+    {
+      "locale": "zh",
+      "description": "React 17对开发者来说有点无聊。真的没有增加很多东西，但它绝对不是...",
+      "title": "React 18 - 最新消息! "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "React 17對開發者來說有點無聊。真的沒有增加很多東西，但它絕對不是...",
+      "title": "React 18 - 最新消息! "
+    }
+  ]
 }
