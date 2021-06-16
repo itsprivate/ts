@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-12T11:20:13Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DvxC68LF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3opqtvjaowfnkjety43e.jpg",
   "author": "Patricia Nicole",
-  "author_url": "https://dev.to/pat_the99"
+  "author_url": "https://dev.to/pat_the99",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "[JS#3 WIL 🤔 Post] ほとんどのウェブサイトやアプリケーションは、ある時点でデータを要求します。",
+      "title": "Javascriptのコールバックとプロミスの基本"
+    },
+    {
+      "locale": "zh",
+      "description": "[JS#3 WIL 🤔 Post] 大多数网站和编写的应用程序会在某些时候要求数据...",
+      "title": "Javascript中的回调和承诺的基础知识"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "[JS#3 WIL 🤔 Post] 大多數網站和編寫的應用程序會在某些時候要求數據...",
+      "title": "Javascript中的回調和承諾的基礎知識"
+    }
+  ]
 }
