@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-16T05:55:36Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gchHpKmg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mouev8tf8rdrxl6g6fae.jpg",
   "author": "Benedict Steven ",
-  "author_url": "https://dev.to/bmsteven"
+  "author_url": "https://dev.to/bmsteven",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Cover photo credit: Unsplash フロントエンドの開発者であれば、画像を探すのに苦労したことがあるのではないでしょうか。",
+      "title": "フロントエンド開発者として私が利用している5つのリソースをご紹介します。"
+    },
+    {
+      "locale": "zh",
+      "description": "封面照片来源：Unsplash 作为一个前端开发者，你可能已经努力寻找图片，...",
+      "title": "我作为一个前端开发者使用的5个资源，你可能需要"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "封面照片來源：Unsplash 作爲一個前端開發者，你可能已經努力尋找圖片，...",
+      "title": "我作爲一個前端開發者使用的5個資源，你可能需要"
+    }
+  ]
 }
