@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-15T13:45:45Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--C5opwKQ1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qn8d10xj894htrj5fher.png",
   "author": "Jucian0",
-  "author_url": "https://dev.to/jucian0"
+  "author_url": "https://dev.to/jucian0",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactでフォームを作るのに、フォームライブラリは本当に必要か？ ハローフレンド、今日はあなたにお話します...",
+      "title": "Reactjs: フォームの構築"
+    },
+    {
+      "locale": "zh",
+      "description": "你真的需要一个表单库来构建React中的表单吗？ 朋友们好，今天我将和你们谈谈...",
+      "title": "Reactjs：构建表单"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你真的需要一個表單庫來構建React中的表單嗎？ 朋友們好，今天我將和你們談談...",
+      "title": "Reactjs：構建表單"
+    }
+  ]
 }
