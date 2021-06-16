@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-13T18:23:57Z",
   "image": "https://dev.to/social_previews/article/727237.png",
   "author": "ali",
-  "author_url": "https://dev.to/_ali_"
+  "author_url": "https://dev.to/_ali_",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは👋 React 16.8 Vにはいくつかの便利な機能が搭載されていますが、その一つがフックです。フックとは、超...",
+      "title": "Reactのカスタムフック：簡単な説明🐱👤。"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好 👋 React 16.8 V带有几个有用的功能，其中一个就是钩子。钩子是一个非常重要的功能。",
+      "title": "React自定义钩子：一个简单的解释🐱👤"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好 👋 React 16.8 V帶有幾個有用的功能，其中一個就是鉤子。鉤子是一個非常重要的功能。",
+      "title": "React自定義鉤子：一個簡單的解釋🐱👤"
+    }
+  ]
 }
