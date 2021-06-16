@@ -43,5 +43,22 @@
   "original_created_at": "2021-06-15T12:05:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--s8iVzpXQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8n60xsp0mco51odqisyr.png",
   "author": "Nick Bull",
-  "author_url": "https://dev.to/nickbulljs"
+  "author_url": "https://dev.to/nickbulljs",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あなたは5人です。あなたは世界についてほとんど何も知りません。そして、その中の一つを学ぼうとしていることを知っています...",
+      "title": "JavaScriptのコールバック関数を5歳児のように説明する"
+    },
+    {
+      "locale": "zh",
+      "description": "你是五岁。你对这个世界几乎一无所知。并知道你将学习其中的一个...",
+      "title": "解释JavaScript中的回调函数，就像你是5岁小孩一样"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你是五歲。你對這個世界幾乎一無所知。並知道你將學習其中的一個...",
+      "title": "解釋JavaScript中的回調函數，就像你是5歲小孩一樣"
+    }
+  ]
 }
