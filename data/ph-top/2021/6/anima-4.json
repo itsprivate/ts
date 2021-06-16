@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-16T07:13:20Z"
+  "original_createdAt": "2021-06-16T07:13:20Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Animaは、デザイナーと開発者のためのDesign to Codeプラットフォームです。Animaは、Figma、Adobe XD、Sketchのデザインを、開発者が使いやすいVue、HTML、Reactのコードに変換します。",
+      "tagline": "デザインをVueコードに変換して、フロント開発のgrunt作業を省く"
+    },
+    {
+      "locale": "zh",
+      "description": "Anima是一个为设计师和开发人员提供的设计到代码的平台。Anima将Figma、Adobe XD和Sketch的设计翻译成开发者友好的Vue、HTML和React代码。",
+      "tagline": "将设计转化为Vue代码并节省前台开发工作的费用"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Anima是一個爲設計師和開發人員提供的設計到代碼的平臺。Anima將Figma、Adobe XD和Sketch的設計翻譯成開發者友好的Vue、HTML和React代碼。",
+      "tagline": "將設計轉化爲Vue代碼並節省前臺開發工作的費用"
+    }
+  ]
 }
