@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-15T04:13:32Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--I9MkG19R--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i7d22xlk75owzhdsbisw.jpg",
   "author": "Ben Fox",
-  "author_url": "https://dev.to/benjaminwfox"
+  "author_url": "https://dev.to/benjaminwfox",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あるクライアントの話をしましょう。 このクライアントは要求が多かった。すべてのものを欲しがり、...",
+      "title": "Next.jsの思考法"
+    },
+    {
+      "locale": "zh",
+      "description": "让我告诉你一个关于客户的故事。 这个客户要求很高。他们想要所有的东西，而且...",
+      "title": "如何用Next.js思考"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "讓我告訴你一個關於客戶的故事。 這個客戶要求很高。他們想要所有的東西，而且...",
+      "title": "如何用Next.js思考"
+    }
+  ]
 }
