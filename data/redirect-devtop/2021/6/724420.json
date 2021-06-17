@@ -52,5 +52,22 @@
   "original_created_at": "2021-06-10T17:04:51Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UsGAv5Zr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tv4evy4jpcajkz9vopg4.png",
   "author": "David Pine",
-  "author_url": "https://dev.to/ievangelist"
+  "author_url": "https://dev.to/ievangelist",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "BlazorがSPA開発の次の合理的な選択である理由を学んでください。",
+      "title": "Blazorでシングルページアプリを作る理由"
+    },
+    {
+      "locale": "zh",
+      "description": "了解为什么Blazor是SPA开发的下一个合理选择。",
+      "title": "为什么要在Blazor中构建单页应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "瞭解爲什麼Blazor是SPA開發的下一個合理選擇。",
+      "title": "爲什麼要在Blazor中構建單頁應用程序"
+    }
+  ]
 }
