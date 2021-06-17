@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-15T13:43:45Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2bYMh6wB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mfdmwa1xrzl0qao3begk.png",
   "author": "KUMAR HARSH",
-  "author_url": "https://dev.to/cenacr007_harsh"
+  "author_url": "https://dev.to/cenacr007_harsh",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "React App* * create-react-appで作成 はじめに このチュートリアルでは、...",
+      "title": "ReactアプリをGitHub Pagesにデプロイする"
+    },
+    {
+      "locale": "zh",
+      "description": "React App* *使用create-react-app创建简介 在本教程中，...",
+      "title": "将React应用部署到GitHub页面上"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "React App* *使用create-react-app創建簡介 在本教程中，...",
+      "title": "將React應用部署到GitHub頁面上"
+    }
+  ]
 }
