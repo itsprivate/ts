@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-16T16:17:27Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HY0FbW4V--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qgzmdf7obnble0anabth.jpg",
   "author": "Keerthi",
-  "author_url": "https://dev.to/keefdrive"
+  "author_url": "https://dev.to/keefdrive",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "React.jsのアプリ開発でStyledコンポーネントを使用することは、ここ数年で静かなブームになっています。",
+      "title": "スタイルド・コンポーネント・チートシート"
+    },
+    {
+      "locale": "zh",
+      "description": "在React.js应用开发中使用样式化组件，在过去的几年中已变得悄然流行。",
+      "title": "风格化组件小抄"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在React.js應用開發中使用樣式化組件，在過去的幾年中已變得悄然流行。",
+      "title": "風格化組件小抄"
+    }
+  ]
 }
