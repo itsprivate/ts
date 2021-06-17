@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-17T14:25:43Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kCssLrxL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8xyb6y3dlnqan82mt1bk.jpg",
   "author": "CodeOzz",
-  "author_url": "https://dev.to/codeozz"
+  "author_url": "https://dev.to/codeozz",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、お元気ですか？今回は、VueJsに関するいくつかのヒントをご紹介します。",
+      "title": "2.5年の経験から得たVueJsの6つの要点 #1"
+    },
+    {
+      "locale": "zh",
+      "description": "嗨，你好吗？欢迎来到这里，我的名字是Code Oz，我将与你分享一些关于VueJs的技巧（我...",
+      "title": "从2.5年的经验看VueJs的6个要点提示#1"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嗨，你好嗎？歡迎來到這裏，我的名字是Code Oz，我將與你分享一些關於VueJs的技巧（我...",
+      "title": "從2.5年的經驗看VueJs的6個要點提示#1"
+    }
+  ]
 }
