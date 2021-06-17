@@ -134,5 +134,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Wed Jun 16 20:15:04 +0000 2021"
+  "original_created_at": "Wed Jun 16 20:15:04 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "@WSJopinionより。映画「ホテル・ルワンダ」の実在のヒーローが、ルワンダの刑務所で拷問を受けているが、米国は沈黙している、とKeir Pearsonと@tomzoellnerが書いています。https://t.co/yHR4PcwZYT"
+    },
+    {
+      "locale": "zh",
+      "full_text": "来自@WSJopinion。Keir Pearson和@tomzoellner写道：\"电影《卢旺达饭店》中的真实主人公在卢旺达监狱中遭受了酷刑，而美国一直保持沉默。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "來自@WSJopinion。Keir Pearson和@tomzoellner寫道：\"電影《盧旺達飯店》中的真實主人公在盧旺達監獄中遭受了酷刑，而美國一直保持沉默。"
+    }
+  ]
 }
