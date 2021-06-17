@@ -142,5 +142,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1623937146,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Stock-to-Flowモデルによると、ビットコイン（BTC）は過去10年間で最も過小評価されている資産です。"
+    },
+    {
+      "locale": "zh",
+      "title": "根据股票流动模型，比特币（BTC）是过去十年中被低估的资产。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "根據股票流動模型，比特幣（BTC）是過去十年中被低估的資產。"
+    }
+  ]
 }
