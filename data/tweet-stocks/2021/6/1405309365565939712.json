@@ -92,5 +92,19 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Wed Jun 16 23:40:36 +0000 2021"
+  "original_created_at": "Wed Jun 16 23:40:36 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "チキンポットパイは温めるのに1時間、冷やすのに1時間かかります。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "鸡肉馅饼需要一个小时来加热，一个小时来冷却。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "雞肉餡餅需要一個小時來加熱，一個小時來冷卻。"
+    }
+  ]
 }
