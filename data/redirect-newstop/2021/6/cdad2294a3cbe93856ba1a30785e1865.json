@@ -14,5 +14,19 @@
   "tags": [
     "Fox News"
   ],
-  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/9e7bbf3f-vaccine_card_istock.jpg"
+  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/9e7bbf3f-vaccine_card_istock.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "COVID-19ワクチンを混ぜて使用することはできますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你可以混合和匹配COVID-19疫苗吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你可以混合和匹配COVID-19疫苗嗎？"
+    }
+  ]
 }
