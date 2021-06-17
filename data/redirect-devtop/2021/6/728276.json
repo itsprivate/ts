@@ -43,5 +43,22 @@
   "original_created_at": "2021-06-14T20:04:44Z",
   "image": "https://dev.to/social_previews/article/728276.png",
   "author": "Krowser Web Services ",
-  "author_url": "https://dev.to/krowser"
+  "author_url": "https://dev.to/krowser",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私は時給制ではありませんので（一部の場合を除く）、生産性と健康を維持するために、...",
+      "title": "開発者としての生産性を維持する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "由于我不是按小时计酬（除了在某些情况下），所以作为一个人要保持生产力和健康。",
+      "title": "作为一名开发人员，如何保持高效率"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "由於我不是按小時計酬（除了在某些情況下），所以作爲一個人要保持生產力和健康。",
+      "title": "作爲一名開發人員，如何保持高效率"
+    }
+  ]
 }
