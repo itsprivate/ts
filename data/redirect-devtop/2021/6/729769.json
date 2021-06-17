@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-16T08:28:59Z",
   "image": "https://dev.to/social_previews/article/729769.png",
   "author": "Ahtsham Ajus",
-  "author_url": "https://dev.to/ahtshamajus"
+  "author_url": "https://dev.to/ahtshamajus",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "以下は私のHTMLコードです。 &lt;!DOCTYPE html&gt; &lt;html lang=\"en\"&gt; &lt;head&gt; &lt;meta...",
+      "title": "今日は、スクロールアニメーションについて学びました。"
+    },
+    {
+      "locale": "zh",
+      "description": "下面是我的HTML代码。 &lt;!DOCTYPE html&gt; &lt;html lang=\"en\"&gt; &lt;head&gt; &lt;meta...",
+      "title": "今天我学习了卷轴动画"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "下面是我的HTML代碼。 &lt;!DOCTYPE html&gt; &lt;html lang=\"en\"&gt; &lt;head&gt; &lt;meta...",
+      "title": "今天我學習了卷軸動畫"
+    }
+  ]
 }
