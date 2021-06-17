@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-17T07:00:43Z"
+  "original_createdAt": "2021-06-17T07:00:43Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "GraphCDNはあなたのGraphQL APIを拡張、検査、保護します。GraphQLエッジキャッシュでオリジンのトラフィックを最大95%削減し、アナリティクスでリクエストに関する洞察を得て、エラーを追跡し、悪意のあるクエリからAPIを保護します。",
+      "tagline": "キャッシング、アナリティクス、セキュリティを備えたGraphQL CDN"
+    },
+    {
+      "locale": "zh",
+      "description": "使用GraphCDN扩展、检查和保护你的GraphQL API。利用我们的 GraphQL 边缘缓存，将你的源流量减少 95%，通过分析了解你的请求，跟踪你的错误，并保护你的 API 免受恶意查询。",
+      "tagline": "具有缓存、分析和安全功能的GraphQL CDN"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用GraphCDN擴展、檢查和保護你的GraphQL API。利用我們的 GraphQL 邊緣緩存，將你的源流量減少 95%，通過分析瞭解你的請求，跟蹤你的錯誤，並保護你的 API 免受惡意查詢。",
+      "tagline": "具有緩存、分析和安全功能的GraphQL CDN"
+    }
+  ]
 }
