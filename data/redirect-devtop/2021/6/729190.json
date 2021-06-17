@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-15T16:43:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LourTnA2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/92lc3agr3g4blvd9yntj.jpg",
   "author": "Nikhil Bobade ",
-  "author_url": "https://dev.to/nikhil27b"
+  "author_url": "https://dev.to/nikhil27b",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、今日は開発者なら誰でも知っている5つの素晴らしいAPIについての記事を書きました...",
+      "title": "5 あなたのプロジェクトに最適なAPI"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，今天我写了这篇关于5个惊人的API的文章，每个开发人员都知道在这个世界上有。",
+      "title": "为你的项目提供5个惊人的API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，今天我寫了這篇關於5個驚人的API的文章，每個開發人員都知道在這個世界上有。",
+      "title": "爲你的項目提供5個驚人的API"
+    }
+  ]
 }
