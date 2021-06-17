@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-16T13:16:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--L5nCYfd6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zl12z4sstwwau57timpm.jpeg",
   "author": "Yohann Legrand",
-  "author_url": "https://dev.to/alarid"
+  "author_url": "https://dev.to/alarid",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Photo by Kelly Sikkema ☕️ この記事を私のブログで読む Reactでフォームを構築するとなると、...",
+      "title": "React🚀で質の高いフォームを作る"
+    },
+    {
+      "locale": "zh",
+      "description": "照片：Kelly Sikkema ☕️在我的博客上阅读这篇文章 当谈到用React构建表单时，...",
+      "title": "用React构建高质量的表单 🚀"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "照片：Kelly Sikkema ☕️在我的博客上閱讀這篇文章 當談到用React構建表單時，...",
+      "title": "用React構建高質量的表單 🚀"
+    }
+  ]
 }
