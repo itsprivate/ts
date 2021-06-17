@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-16T00:49:33Z",
   "image": "https://dev.to/social_previews/article/729510.png",
   "author": "Victor Ikechukwu",
-  "author_url": "https://dev.to/mr_victor"
+  "author_url": "https://dev.to/mr_victor",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あなたがJavaScriptの開発者であれば、最もよく使われる...",
+      "title": "JavaScriptの配列メソッドについて"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你是一名JavaScript开发人员，那么你应该熟悉最常用的...",
+      "title": "理解JavaScript数组方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你是一名JavaScript開發人員，那麼你應該熟悉最常用的...",
+      "title": "理解JavaScript數組方法"
+    }
+  ]
 }
