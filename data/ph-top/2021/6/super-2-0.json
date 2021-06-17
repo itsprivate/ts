@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-17T07:05:00Z"
+  "original_createdAt": "2021-06-17T07:05:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Super 2.0には、super.siteサブドメイン、ページごとのコード＆SEO設定、パスワードで保護されたページ、ライブサイトエディタ、自動プリティURL、RTL言語サポートなど、Notionでウェブサイトを構築するための新機能が搭載されています。",
+      "tagline": "Notionのシンプルな操作性でウェブサイトを構築"
+    },
+    {
+      "locale": "zh",
+      "description": "Super 2.0包括一套用Notion建立网站的新功能，包括super.site子域、每页代码和SEO设置、密码保护页面、实时网站编辑器、自动漂亮URL、RTL语言支持等。",
+      "tagline": "用Notion的简单性建立网站"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Super 2.0包括一套用Notion建立網站的新功能，包括super.site子域、每頁代碼和SEO設置、密碼保護頁面、實時網站編輯器、自動漂亮URL、RTL語言支持等。",
+      "tagline": "用Notion的簡單性建立網站"
+    }
+  ]
 }
