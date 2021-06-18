@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-17T19:07:21Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--z_HERJXI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/19a7teieovja2dect2tz.png",
   "author": "Sumeet Yadav",
-  "author_url": "https://dev.to/sumeet16"
+  "author_url": "https://dev.to/sumeet16",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CSSとはCascading Style Sheets（カスケーディング・スタイル・シート）の略で、HTMLの要素の表示方法を記述するのに使われます。CSSとは、Cascading Style Sheetsの略で、HTMLの要素の表示方法を記述するためのものです。",
+      "title": "開発者が知っておくべき5つの素晴らしいCSSトリック"
+    },
+    {
+      "locale": "zh",
+      "description": "CSS是层叠样式表，用于描述HTML元素应如何显示。它是一种...",
+      "title": "每个开发者都应该知道的5个了不起的CSS技巧"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "CSS是層疊樣式表，用於描述HTML元素應如何顯示。它是一種...",
+      "title": "每個開發者都應該知道的5個了不起的CSS技巧"
+    }
+  ]
 }
