@@ -52,5 +52,22 @@
   "original_created_at": "2021-06-15T14:04:54Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GXe-ldKo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/csxc5jqqhi3sj36358k1.png",
   "author": "Tom Michew",
-  "author_url": "https://dev.to/tweetfrog"
+  "author_url": "https://dev.to/tweetfrog",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ここにいらっしゃる方は、Tailwind CSSというCSSユーティリティーの良さをご存知でしょう。使うのは...",
+      "title": "Tailwind CSSを使った便利なページレイアウト"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你在这里，你可能已经熟悉了CSS工具的好处，即Tailwind CSS。使用Tailwind CSS，你就会发现它是一个很好的工具。",
+      "title": "使用Tailwind CSS的有用的页面布局"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你在這裏，你可能已經熟悉了CSS工具的好處，即Tailwind CSS。使用Tailwind CSS，你就會發現它是一個很好的工具。",
+      "title": "使用Tailwind CSS的有用的頁面佈局"
+    }
+  ]
 }
