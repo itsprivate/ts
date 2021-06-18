@@ -103,5 +103,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1624015251,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ある種の細菌やウイルスは、ある種の生物には致命的であるが、別の種には全く無害であることがある。"
+    },
+    {
+      "locale": "zh",
+      "title": "为什么某些细菌和病毒对一个物种是致命的，而对另一个物种却完全无害？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲什麼某些細菌和病毒對一個物種是致命的，而對另一個物種卻完全無害？"
+    }
+  ]
 }
