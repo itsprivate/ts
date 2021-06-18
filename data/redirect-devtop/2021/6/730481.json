@@ -52,5 +52,22 @@
   "original_created_at": "2021-06-16T22:20:53Z",
   "image": "https://dev.to/social_previews/article/730481.png",
   "author": "William Shepherd",
-  "author_url": "https://dev.to/iamwillshepherd"
+  "author_url": "https://dev.to/iamwillshepherd",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Webプッシュ通知は、UXの向上やリエンゲージメントに活用できる汎用性の高いチャネルです。",
+      "title": "Next.jsアプリにプッシュ通知を追加する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "网络推送通知是一个多功能的渠道，可以用来提高你的用户体验，重新吸引用户。",
+      "title": "如何在Next.js应用程序中添加推送通知"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "網絡推送通知是一個多功能的渠道，可以用來提高你的用戶體驗，重新吸引用戶。",
+      "title": "如何在Next.js應用程序中添加推送通知"
+    }
+  ]
 }
