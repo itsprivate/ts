@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-16T04:45:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9uzroQ2a--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tj7kw5eyur48a21tvohq.png",
   "author": "Ayushi Rawat ",
-  "author_url": "https://dev.to/ayushi7rawat"
+  "author_url": "https://dev.to/ayushi7rawat",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "読者の皆さん、こんにちは。  git repoに過去の日付で何かをコミットしたいと思ったことはありませんか？ここでは、その方法をご紹介します。",
+      "title": "Git Hack: 過去の日付でコミットする"
+    },
+    {
+      "locale": "zh",
+      "description": "读者您好!   有没有想过向git repo提交一些有过去日期的东西？以下是你如何能...",
+      "title": "Git Hack: 用过去的日期做提交"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "讀者您好!   有沒有想過向git repo提交一些有過去日期的東西？以下是你如何能...",
+      "title": "Git Hack: 用過去的日期做提交"
+    }
+  ]
 }
