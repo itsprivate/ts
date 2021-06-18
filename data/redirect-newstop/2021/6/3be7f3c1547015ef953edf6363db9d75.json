@@ -14,5 +14,19 @@
   "tags": [
     "BBC News"
   ],
-  "image": "https://ichef.bbci.co.uk/news/1024/branded_news/AF4D/production/_118977844_2_uk_street_scene_getty-2.jpg"
+  "image": "https://ichef.bbci.co.uk/news/1024/branded_news/AF4D/production/_118977844_2_uk_street_scene_getty-2.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "英国のCovid感染者数が増加し、デルタ型が主流に"
+    },
+    {
+      "locale": "zh",
+      "title": "英国Covid感染率上升，Delta变体占主导地位"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "英國Covid感染率上升，Delta變體占主導地位"
+    }
+  ]
 }
