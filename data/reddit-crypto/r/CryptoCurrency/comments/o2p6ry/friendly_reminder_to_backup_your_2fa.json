@@ -117,5 +117,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1624023160,
-  "the_new_excerpt": "First of all, if you're still using 2FA through SMS, you really should consider\nswitching to an authenticator app such as Google Authenticator or Authy. This is\na significantly safer option than receiving 2FA codes via SMS.\n\nOnce you've done that, save yourself a potentially MASSIVE headache in…"
+  "the_new_excerpt": "First of all, if you're still using 2FA through SMS, you really should consider\nswitching to an authenticator app such as Google Authenticator or Authy. This is\na significantly safer option than receiving 2FA codes via SMS.\n\nOnce you've done that, save yourself a potentially MASSIVE headache in…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "まず、SMSによる2FAを使用している場合は、Google AuthenticatorやAuthyなどの認証アプリへの切り替えを検討すべきです。\nGoogle AuthenticatorやAuthyなどの認証アプリに切り替えることをお勧めします。これは\nSMSで2FAコードを受信するよりもはるかに安全なオプションです。\n\nこのようにして、大きな頭痛の種となる可能性があります。",
+      "title": "2FAのバックアップについての注意事項"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "首先，如果你仍然通过短信使用2FA，你真的应该考虑\n切换到谷歌认证器或Authy等认证器应用。这是\n这是一个明显比通过短信接收2FA代码更安全的选择。\n\n一旦你这样做了，就可以为自己节省一个潜在的巨大的头痛问题。",
+      "title": "友情提醒：备份你的2FA"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "首先，如果你仍然通過短信使用2FA，你真的應該考慮\n切換到谷歌認證器或Authy等認證器應用。這是\n這是一個明顯比通過短信接收2FA代碼更安全的選擇。\n\n一旦你這樣做了，就可以爲自己節省一個潛在的巨大的頭痛問題。",
+      "title": "友情提醒：備份你的2FA"
+    }
+  ]
 }

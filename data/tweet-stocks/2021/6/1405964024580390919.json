@@ -192,5 +192,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Fri Jun 18 19:01:59 +0000 2021"
+  "original_created_at": "Fri Jun 18 19:01:59 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "今週、FRBの残高が初めて8兆ドルを超えました。2年前は4兆ドル以下だった。\n\nData via @ycharts https://t.co/zNys5cIcgz"
+    },
+    {
+      "locale": "zh",
+      "full_text": "美联储的余额本周首次超过了8万亿美元。两年前它还不到4万亿美元。\n\n数据来自@ycharts https://t.co/zNys5cIcgz"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "美聯儲的餘額本週首次超過了8萬億美元。兩年前它還不到4萬億美元。\n\n數據來自@ycharts https://t.co/zNys5cIcgz"
+    }
+  ]
 }
