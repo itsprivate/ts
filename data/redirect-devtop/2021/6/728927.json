@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-15T12:08:26Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CyJG5za7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zz2a5b9ayyyu1mlt3wiz.jpg",
   "author": "Romeo Agbor Peter",
-  "author_url": "https://dev.to/romeopeter"
+  "author_url": "https://dev.to/romeopeter",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "プログラミングには、オブジェクト指向プログラミングと呼ばれるコードの書き方があります。これは、...",
+      "title": "JavaScriptによるオブジェクト指向プログラミング"
+    },
+    {
+      "locale": "zh",
+      "description": "在编程中，有一种写代码的技术叫做面向对象编程。它是一种...",
+      "title": "面向对象的JavaScript编程"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在編程中，有一種寫代碼的技術叫做面向對象編程。它是一種...",
+      "title": "面向對象的JavaScript編程"
+    }
+  ]
 }
