@@ -124,5 +124,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Fri Jun 18 03:00:07 +0000 2021"
+  "original_created_at": "Fri Jun 18 03:00:07 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "@WSJopinionより。ジャーナリストはかつて、客観性を追求していた。今ではそのふりをするのもやっとだ、とKarl Roveが書いている。 https://t.co/MLVAQJLMal"
+    },
+    {
+      "locale": "zh",
+      "full_text": "来自@WSJopinion。记者们曾经渴望客观性。卡尔-罗夫写道：\"现在他们甚至懒得假装了，https://t.co/MLVAQJLMal。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "來自@WSJopinion。記者們曾經渴望客觀性。卡爾-羅夫寫道：\"現在他們甚至懶得假裝了，https://t.co/MLVAQJLMal。"
+    }
+  ]
 }
