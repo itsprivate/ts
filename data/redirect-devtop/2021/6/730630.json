@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-17T04:16:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--z4Om0oFh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hvh97kuuxesky3t0y8xe.png",
   "author": "David Asaolu",
-  "author_url": "https://dev.to/arshadayvid"
+  "author_url": "https://dev.to/arshadayvid",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、このチュートリアルへようこそ。今日は、よく使われるWebアプリケーションの構築方法について説明します。",
+      "title": "よく使われるWebコンポーネントを作成することで、Flexboxを学び、マスターすることができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，欢迎来到本教程。今天，我将解释如何建立常用的网页，并在此基础上建立新的网页。",
+      "title": "通过构建常用的网络组件来学习和掌握Flexbox "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，歡迎來到本教程。今天，我將解釋如何建立常用的網頁，並在此基礎上建立新的網頁。",
+      "title": "通過構建常用的網絡組件來學習和掌握Flexbox "
+    }
+  ]
 }
