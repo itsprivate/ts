@@ -67,5 +67,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-18T07:00:00Z"
+  "original_createdAt": "2021-06-18T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "dewey.では、既存のTwitterブックマークをすべて取得し、検索、ソート、タグ付け、コレクションの作成、共有ができます。",
+      "tagline": "Twitterのブックマークを最大限に活用する"
+    },
+    {
+      "locale": "zh",
+      "description": "有了dewey.你可以抓取你现有的所有Twitter书签，搜索、分类、标记、创建和分享收藏，是的，甚至可以将你的Twitter书签导出到你最喜欢的记事应用程序。",
+      "tagline": "充分利用你的Twitter书签"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有了dewey.你可以抓取你現有的所有Twitter書籤，搜索、分類、標記、創建和分享收藏，是的，甚至可以將你的Twitter書籤導出到你最喜歡的記事應用程序。",
+      "tagline": "充分利用你的Twitter書籤"
+    }
+  ]
 }

@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-18T05:25:44Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--I9wraJMC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/112cqt4f3cs0prahte5p.gif",
   "author": "murtuza",
-  "author_url": "https://dev.to/murtuzaalisurti"
+  "author_url": "https://dev.to/murtuzaalisurti",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このチュートリアルでは、主にCSSでのトランジションの使い方と、ライトのトグルボタンの作り方を紹介します。",
+      "title": "CSSによるダークモードトグルアニメーション !"
+    },
+    {
+      "locale": "zh",
+      "description": "本教程将主要介绍如何在CSS中使用过渡，并制作一个灯光的切换按钮。",
+      "title": "使用CSS的黑暗模式切换动画!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "本教程將主要介紹如何在CSS中使用過渡，並製作一個燈光的切換按鈕。",
+      "title": "使用CSS的黑暗模式切換動畫!"
+    }
+  ]
 }
