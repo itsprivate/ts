@@ -149,5 +149,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1624021303,
-  "the_new_excerpt": "It's been almost a year since my SIM card was hijacked for the first time.\n\nThankfully, We noticed it early (my wife and I), we acted quickly And dodged a\nbullet.\n\nThat day, And after resetting all my passwords and adding 2FA's on every account\nthat allows it and removing my phone # from any service…"
+  "the_new_excerpt": "It's been almost a year since my SIM card was hijacked for the first time.\n\nThankfully, We noticed it early (my wife and I), we acted quickly And dodged a\nbullet.\n\nThat day, And after resetting all my passwords and adding 2FA's on every account\nthat allows it and removing my phone # from any service…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私のSIMカードが初めて乗っ取られてから約1年が経ちました。\n\nありがたいことに、私たち夫婦は早めに気づいて、すぐに行動し、弾丸を避けました。\nした。\n\nその日のうちに、すべてのパスワードをリセットし、2FAが可能なすべてのアカウントに2FAを追加し、私の電話番号を削除しました。\n私の電話番号をすべてのサービスから削除した後に...",
+      "title": "またもやSIMスワップ攻撃を受けました！暗証番号を設定し、アカウントには「運転免許証を持って店に出向かない限り、誰にもアカウントへのアクセスや変更を許可しない」という注意書きがあるにもかかわらずです。T-Mobile。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我的SIM卡第一次被劫持已经快一年了。\n\n值得庆幸的是，我们很早就注意到了它（我和我的妻子），我们迅速采取行动，躲过了一劫。\n子弹。\n\n那天，在重设了我所有的密码并在每个账户上添加了2FA后\n并将我的手机号码从任何服务中删除......",
+      "title": "我又被SIM-Swap攻击了！尽管我有一个PIN码，并且在我的账户中写着不允许任何人访问或改变我的账户，除非我亲自到店，手里拿着驾驶执照！我被攻击了。T-Mobile。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我的SIM卡第一次被劫持已經快一年了。\n\n值得慶幸的是，我們很早就注意到了它（我和我的妻子），我們迅速採取行動，躲過了一劫。\n子彈。\n\n那天，在重設了我所有的密碼並在每個賬戶上添加了2FA後\n並將我的手機號碼從任何服務中刪除......",
+      "title": "我又被SIM-Swap攻擊了！儘管我有一個PIN碼，並且在我的賬戶中寫着不允許任何人訪問或改變我的賬戶，除非我親自到店，手裏拿着駕駛執照！我被攻擊了。T-Mobile。"
+    }
+  ]
 }
