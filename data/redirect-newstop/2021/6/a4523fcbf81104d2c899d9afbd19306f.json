@@ -14,5 +14,19 @@
   "tags": [
     "Fox News"
   ],
-  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Hong-Kong-Newspaper-AP-4.jpg"
+  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Hong-Kong-Newspaper-AP-4.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "香港の新聞編集者が中国の国家安全法に基づき逮捕される"
+    },
+    {
+      "locale": "zh",
+      "title": "香港报纸编辑根据中国国家安全法被捕"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "香港報紙編輯根據中國國家安全法被捕"
+    }
+  ]
 }
