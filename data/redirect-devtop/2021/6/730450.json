@@ -43,5 +43,22 @@
   "original_created_at": "2021-06-16T21:03:47Z",
   "image": "https://dev.to/social_previews/article/730450.png",
   "author": "Mohmed Ishak",
-  "author_url": "https://dev.to/ishakmohmed"
+  "author_url": "https://dev.to/ishakmohmed",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "正直なところ、機能するデータベースを構築することは、まったく難しいことではありません。本当に難しいのは、...",
+      "title": "プロのようなリレーショナルデータベースの構築（MySQL、PostgreSQLなど"
+    },
+    {
+      "locale": "zh",
+      "description": "让我们面对现实吧，建立一个能工作的数据库根本不是什么挑战。真正的挑战是要...",
+      "title": "像专家一样建立关系型数据库（MySQL、PostgreSQL等）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "讓我們面對現實吧，建立一個能工作的數據庫根本不是什麼挑戰。真正的挑戰是要...",
+      "title": "像專家一樣建立關係型數據庫（MySQL、PostgreSQL等）。"
+    }
+  ]
 }
