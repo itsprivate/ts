@@ -50,5 +50,22 @@
   "original_created_at": "2021-06-18T16:02:16Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--m9Ic9Qx6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6jqftg7llexq7m6iz9ji.png",
   "author": "Vishnu Chilamakuru",
-  "author_url": "https://dev.to/vishnuchilamakuru"
+  "author_url": "https://dev.to/vishnuchilamakuru",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JSONは、文字列、ブーリアン、リスト、数字、...などの多くのデータタイプを持つデータフォーマットです。",
+      "title": "生産性を向上させる6つのJSONツール"
+    },
+    {
+      "locale": "zh",
+      "description": "JSON是一种数据格式，有许多数据类型，如字符串、布尔运算、列表、数字、...",
+      "title": "6个JSON工具来提高你的工作效率"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "JSON是一種數據格式，有許多數據類型，如字符串、布爾運算、列表、數字、...",
+      "title": "6個JSON工具來提高你的工作效率"
+    }
+  ]
 }
