@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-19T08:19:30Z"
+  "original_createdAt": "2021-06-19T08:19:30Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "どんなテキストボックスでも文章をオートコンプリートしてくれるChrome ext。あらゆるウェブページのあらゆるテキストエリアで機能する、AIによる文章補完機能です。",
+      "tagline": "より速く入力し、AIが文章を仕上げる"
+    },
+    {
+      "locale": "zh",
+      "description": "在任何文本框中，Chrome都可以自动完成你的句子。由人工智能驱动的句子完成，可在任何网页的任何文本区域工作。",
+      "tagline": "打字更快，让AI完成你的句子"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在任何文本框中，Chrome都可以自動完成你的句子。由人工智能驅動的句子完成，可在任何網頁的任何文本區域工作。",
+      "tagline": "打字更快，讓AI完成你的句子"
+    }
+  ]
 }
