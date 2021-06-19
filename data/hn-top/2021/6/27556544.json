@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-06-19T00:16:00.000Z",
-  "image": "https://zenodo.org/static/img/zenodo.svg"
+  "image": "https://zenodo.org/static/img/zenodo.svg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "CatMeows: 公開された猫の鳴き声のデータセット"
+    },
+    {
+      "locale": "zh",
+      "title": "猫叫声。一个公开可用的猫咪发声数据集"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "貓叫聲。一個公開可用的貓咪發聲數據集"
+    }
+  ]
 }
