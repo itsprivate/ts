@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-18T05:59:41Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--V8tfjo8---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/do5epgq84jharkca859n.png",
   "author": "Yogesh Chavan",
-  "author_url": "https://dev.to/myogeshchavan97"
+  "author_url": "https://dev.to/myogeshchavan97",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ほとんどのアプリケーションでは、2021年6月18日や06/18/2021などのフォーマットされた日付を表示する必要があります...。",
+      "title": "外部ライブラリを使わずにJavaScriptで書式付きの日付を表示する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "在大多数应用程序中，我们需要显示一个格式化的日期，如2021年6月18日或06/18/2021...",
+      "title": "如何在不使用任何外部库的情况下在JavaScript中显示格式化的日期"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在大多數應用程序中，我們需要顯示一個格式化的日期，如2021年6月18日或06/18/2021...",
+      "title": "如何在不使用任何外部庫的情況下在JavaScript中顯示格式化的日期"
+    }
+  ]
 }
