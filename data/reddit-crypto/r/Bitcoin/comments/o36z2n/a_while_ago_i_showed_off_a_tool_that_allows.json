@@ -170,5 +170,19 @@
   },
   "is_video": false,
   "original_created_utc": 1624072846,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "少し前に、TwitchのストリーマーがBitcoin + Lightningの寄付をアラートに組み込むことができるツールを紹介しました。現在、このツールをオープンソースにしています。貢献してください。)"
+    },
+    {
+      "locale": "zh",
+      "title": "不久前，我展示了一个工具，允许Twitch流媒体人将比特币+闪电捐款整合到他们的提醒中。我现在把它开源了。请做出贡献 :)"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不久前，我展示了一個工具，允許Twitch流媒體人將比特幣+閃電捐款整合到他們的提醒中。我現在把它開源了。請做出貢獻 :)"
+    }
+  ]
 }
