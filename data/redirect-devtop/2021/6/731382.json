@@ -52,5 +52,22 @@
   "original_created_at": "2021-06-17T18:29:06Z",
   "image": "https://dev.to/social_previews/article/731382.png",
   "author": "Pascal Schilp",
-  "author_url": "https://dev.to/thepassle"
+  "author_url": "https://dev.to/thepassle",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Web-components.jsonのアイデアは、Webコンポーネントに関するGitHubの課題で初めて提案されました...",
+      "title": "ご紹介します。カスタムエレメント・マニフェスト"
+    },
+    {
+      "locale": "zh",
+      "description": "关于web-components.json的想法最早是在GitHub关于web组件的问题上提出的。",
+      "title": "介绍一下。自定义元素宣言"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "關於web-components.json的想法最早是在GitHub關於web組件的問題上提出的。",
+      "title": "介紹一下。自定義元素宣言"
+    }
+  ]
 }
