@@ -43,5 +43,22 @@
   "original_created_at": "2021-06-17T14:21:24Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s---I6vzw2T--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1gfu7q3s52rh42iigipq.png",
   "author": "Nikhil",
-  "author_url": "https://dev.to/tech_nikkhil"
+  "author_url": "https://dev.to/tech_nikkhil",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このキーワードは、多くの混乱を伴うものです。このキーワードの使用には、次のような条件があります。",
+      "title": "Javascriptの \"this \"キーワード"
+    },
+    {
+      "locale": "zh",
+      "description": "这个关键词一直与很多混淆有关。这个关键词的使用取决于...",
+      "title": "Javascript中的 \"this \"关键词"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這個關鍵詞一直與很多混淆有關。這個關鍵詞的使用取決於...",
+      "title": "Javascript中的 \"this \"關鍵詞"
+    }
+  ]
 }
