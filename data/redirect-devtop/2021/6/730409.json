@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-16T19:35:45Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9RwZtvlW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3u8p50bxluy1cya4vsp9.png",
   "author": "Nishant Mittal",
-  "author_url": "https://dev.to/nishantwrp"
+  "author_url": "https://dev.to/nishantwrp",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Webフレームワークを選択することは、特に市場に多くのフレームワークが存在する現在では困難です。",
+      "title": "Djangoが最高のウェブフレームワークである理由"
+    },
+    {
+      "locale": "zh",
+      "description": "选择一个网络框架是很难的，尤其是现在市场上有很多框架，...",
+      "title": "Django是最佳网络框架的原因"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "選擇一個網絡框架是很難的，尤其是現在市場上有很多框架，...",
+      "title": "Django是最佳網絡框架的原因"
+    }
+  ]
 }
