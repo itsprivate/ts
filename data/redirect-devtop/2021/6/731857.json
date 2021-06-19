@@ -41,5 +41,22 @@
   "original_created_at": "2021-06-18T08:31:41Z",
   "image": "https://dev.to/social_previews/article/731857.png",
   "author": "Akash Shyam",
-  "author_url": "https://dev.to/akashshyam"
+  "author_url": "https://dev.to/akashshyam",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Javascriptは素晴らしいですが、typescriptは（賛否両論ありますが）さらに優れています。型の安全性を...",
+      "title": "A Complete Guide To Decorators In Typescript"
+    },
+    {
+      "locale": "zh",
+      "description": "Javascript是伟大的，但typecript（有争议的）甚至更好。它将类型安全添加到了Javascript中。",
+      "title": "手稿中装饰器的完整指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Javascript是偉大的，但typecript（有爭議的）甚至更好。它將類型安全添加到了Javascript中。",
+      "title": "手稿中裝飾器的完整指南"
+    }
+  ]
 }
