@@ -14,5 +14,19 @@
   "tags": [
     "The New York Times"
   ],
-  "image": "https://static01.nyt.com/images/2021/06/18/world/18virus-russia01/18virus-russia01-facebookJumbo.jpg"
+  "image": "https://static01.nyt.com/images/2021/06/18/world/18virus-russia01/18virus-russia01-facebookJumbo.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ロシアでCovid感染者が再び急増、多くがDelta型の感染者"
+    },
+    {
+      "locale": "zh",
+      "title": "俄罗斯的Covid病例再次激增，许多人来自Delta变体"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "俄羅斯的Covid病例再次激增，許多人來自Delta變體"
+    }
+  ]
 }
