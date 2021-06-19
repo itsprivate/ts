@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-19T05:03:43Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PZ_B4484--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xrtlaiyzk0sm540k4ju3.png",
   "author": "Mursal Furqan",
-  "author_url": "https://dev.to/mursalfk"
+  "author_url": "https://dev.to/mursalfk",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは👋 久しぶりにReactシリーズの記事をお届けします！ 今回は2つの...",
+      "title": "Reactでカスタムフックを作ってみよう🐱👤。"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好 👋 经过一段时间的休息，我们又回到了React系列中的另一篇文章，其中有两篇文章是关于React的。",
+      "title": "让我们在React中创建一个自定义挂钩 🐱👤"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好 👋 經過一段時間的休息，我們又回到了React系列中的另一篇文章，其中有兩篇文章是關於React的。",
+      "title": "讓我們在React中創建一個自定義掛鉤 🐱👤"
+    }
+  ]
 }
