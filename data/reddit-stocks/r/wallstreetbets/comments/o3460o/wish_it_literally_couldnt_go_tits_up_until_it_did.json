@@ -112,5 +112,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1624062409,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "$WISH... 文字通りダメになることはなかったのですが、そうなるまでは"
+    },
+    {
+      "locale": "zh",
+      "title": "希望... 从字面上看，它不可能出现问题，直到它出现。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "希望... 從字面上看，它不可能出現問題，直到它出現。"
+    }
+  ]
 }
