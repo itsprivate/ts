@@ -43,5 +43,22 @@
   "original_created_at": "2021-06-16T12:35:44Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--a4DeNojJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pkbumki528hje8as16wn.jpg",
   "author": "Prasuk Jain",
-  "author_url": "https://dev.to/itzprasuk"
+  "author_url": "https://dev.to/itzprasuk",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactで外部APIからデータを取得する方法はたくさんあります。しかし、どれを使えばいいのか...",
+      "title": "Reactでフェッチするためのメソッド"
+    },
+    {
+      "locale": "zh",
+      "description": "在React中，有许多方法可以从外部API获取数据。但你应该选择哪一种呢？",
+      "title": "在React中获取的方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在React中，有許多方法可以從外部API獲取數據。但你應該選擇哪一種呢？",
+      "title": "在React中獲取的方法"
+    }
+  ]
 }
