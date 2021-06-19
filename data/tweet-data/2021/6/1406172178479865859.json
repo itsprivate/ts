@@ -92,5 +92,19 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Sat Jun 19 08:49:07 +0000 2021"
+  "original_created_at": "Sat Jun 19 08:49:07 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "史上最高のサッカー選手は誰だ？"
+    },
+    {
+      "locale": "zh",
+      "full_text": "谁是历史上最伟大的足球运动员？"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "誰是歷史上最偉大的足球運動員？"
+    }
+  ]
 }
