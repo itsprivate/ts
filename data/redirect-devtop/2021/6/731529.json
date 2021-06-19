@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-17T21:51:38Z",
   "image": "https://dev.to/social_previews/article/731529.png",
   "author": "Randy Rivera",
-  "author_url": "https://dev.to/rthefounding"
+  "author_url": "https://dev.to/rthefounding",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "関数型プログラミングでは、コードを小さな基本的な機能に整理し、それらを組み合わせることで...",
+      "title": "関数型プログラミングノート。"
+    },
+    {
+      "locale": "zh",
+      "description": "在函数式编程中，代码被组织成更小的基本功能，这些功能可以被组合成...",
+      "title": "函数式编程笔记。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在函數式編程中，代碼被組織成更小的基本功能，這些功能可以被組合成...",
+      "title": "函數式編程筆記。"
+    }
+  ]
 }
