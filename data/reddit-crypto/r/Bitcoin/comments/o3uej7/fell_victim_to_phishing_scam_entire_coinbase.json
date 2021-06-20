@@ -111,5 +111,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1624151793,
-  "the_new_excerpt": "A few hours ago, I received this text message:\n\n\"Coinbase: We have received withdrawal request on your account from unrecognized\ndevice. If this was not you, click here: [removed link from Reddit for safety]\"\n\nI was in the middle of a conversation and was completely not thinking. I clicked\nthe link,…"
+  "the_new_excerpt": "A few hours ago, I received this text message:\n\n\"Coinbase: We have received withdrawal request on your account from unrecognized\ndevice. If this was not you, click here: [removed link from Reddit for safety]\"\n\nI was in the middle of a conversation and was completely not thinking. I clicked\nthe link,…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "数時間前、こんなテキストメッセージが届いた。\n\n\"Coinbase: あなたのアカウントに、認識できない端末からの出金要求がありました。\nデバイスです。これがあなたでない場合は、ここをクリックしてください。[安全のためにRedditからリンクを削除]\"\n\n私は会話の最中で、まったく考えていませんでした。私はそのリンクをクリックしました。\nリンクをクリックしました...",
+      "title": "フィッシング詐欺の被害に遭いました。コインベースの全口座が清算され、未知の団体に譲渡されました。何かできることはありますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "几个小时前，我收到这条短信。\n\n\"Coinbase。我们收到了您的账户上来自未识别设备的提款请求。\n设备。如果这不是你，请点击这里。[为了安全起见，从Reddit删除了链接]\"\n\n我当时正在谈话中，完全没有思考。我点击了\n该链接，...",
+      "title": "沦为网络诈骗的受害者。整个Coinbase账户被清算并转移到未知实体。我可以做什么吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "幾個小時前，我收到這條短信。\n\n\"Coinbase。我們收到了您的賬戶上來自未識別設備的提款請求。\n設備。如果這不是你，請點擊這裏。[爲了安全起見，從Reddit刪除了鏈接]\"\n\n我當時正在談話中，完全沒有思考。我點擊了\n該鏈接，...",
+      "title": "淪爲網絡詐騙的受害者。整個Coinbase賬戶被清算並轉移到未知實體。我可以做什麼嗎？"
+    }
+  ]
 }
