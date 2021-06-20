@@ -57,5 +57,22 @@
   "original_created_at": "2021-06-17T21:50:22Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zki91MGg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ay4rkpmbj4tsqlzqjlt7.png",
   "author": "Kaylan Stock",
-  "author_url": "https://dev.to/kaystock"
+  "author_url": "https://dev.to/kaystock",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あなたが仕事をするときに好きな音楽は何ですか？それとも、静かに仕事をしたいので、音楽はかけない方がいいですか？",
+      "title": "Coding Playlistとは？"
+    },
+    {
+      "locale": "zh",
+      "description": "你最喜欢的工作音乐是什么？或者你喜欢不听音乐，因为你需要安静地工作。",
+      "title": "什么是编码播放列表？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你最喜歡的工作音樂是什麼？或者你喜歡不聽音樂，因爲你需要安靜地工作。",
+      "title": "什麼是編碼播放列表？"
+    }
+  ]
 }
