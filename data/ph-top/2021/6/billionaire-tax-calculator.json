@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-20T07:01:00Z"
+  "original_createdAt": "2021-06-20T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ForbesとProPublicaの画期的な調査に基づいたこの計算機を使えば、Maskify、Bezosify、Bloombergify、Buffettifyして税金を計算することができます。アメリカの税制がいかに超富裕層に有利なものになっているかがわかります。",
+      "tagline": "億万長者のように税金を払ったら、どれだけの税金を払うことになるのか。"
+    },
+    {
+      "locale": "zh",
+      "description": "基于福布斯和ProPublica的突破性研究，这个计算器可以让你把你的税收变成Muskify, Bezosify, Bloombergify, 和Buffetify。向你展示美国的税收制度是多么严重地偏向于超级富豪。",
+      "tagline": "如果你像亿万富翁那样交税，你会交多少税？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "基於福布斯和ProPublica的突破性研究，這個計算器可以讓你把你的稅收變成Muskify, Bezosify, Bloombergify, 和Buffetify。向你展示美國的稅收制度是多麼嚴重地偏向於超級富豪。",
+      "tagline": "如果你像億萬富翁那樣交稅，你會交多少稅？"
+    }
+  ]
 }
