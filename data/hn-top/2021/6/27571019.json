@@ -37,5 +37,19 @@
     }
   },
   "original_created_at": "2021-06-20T15:34:29.000Z",
-  "image": "https://www.matecdev.com/img/logo_full.png"
+  "image": "https://www.matecdev.com/img/logo_full.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Julia: Fortranよりも速く、Numpyよりもクリーンに"
+    },
+    {
+      "locale": "zh",
+      "title": "Julia：比Fortran更快，比Numpy更干净"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Julia：比Fortran更快，比Numpy更乾淨"
+    }
+  ]
 }
