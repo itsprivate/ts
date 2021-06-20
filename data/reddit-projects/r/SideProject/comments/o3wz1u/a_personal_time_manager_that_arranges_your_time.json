@@ -178,5 +178,19 @@
   },
   "is_video": true,
   "original_created_utc": 1624161144,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの時間を「仕事」「休憩」「自由時間」に分けて管理するパーソナルタイムマネージャです。"
+    },
+    {
+      "locale": "zh",
+      "title": "一个个人时间管理器，将你的时间安排为工作、休息和自由时间。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個個人時間管理器，將你的時間安排爲工作、休息和自由時間。"
+    }
+  ]
 }
