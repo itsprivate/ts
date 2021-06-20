@@ -263,5 +263,22 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Sun Jun 20 00:08:34 +0000 2021"
+  "original_created_at": "Sun Jun 20 00:08:34 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @stevenmazie です。アメリカの第116代判事になる可能性が最も高い人物についての私の週末のプロフィール https://t.co/KapOfLdLMM",
+      "retweeted_status_full_text": "アメリカの第116代判事になる可能性が最も高い人物についての私の週末のプロフィール https://t.co/KapOfLdLMM"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @stevenmazie: 我对最有可能成为美国第116位法官的人的周末简介 https://t.co/KapOfLdLMM",
+      "retweeted_status_full_text": "我对最有可能成为美国第116位大法官的人的周末简介 https://t.co/KapOfLdLMM"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @stevenmazie: 我對最有可能成爲美國第116位法官的人的週末簡介 https://t.co/KapOfLdLMM",
+      "retweeted_status_full_text": "我對最有可能成爲美國第116位大法官的人的週末簡介 https://t.co/KapOfLdLMM"
+    }
+  ]
 }
