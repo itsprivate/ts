@@ -1,0 +1,42 @@
+{
+  "created_at": "2021-06-20T03:59:52.201Z",
+  "title": "Ask HN: What huge mistake did you make early in your career?",
+  "url": null,
+  "author": "jamestimmins",
+  "points": 141,
+  "story_text": "We’ve all been there — a seemingly huge mistake as an intern or Junior developer that you were sure would get you fired. What’s your story?<p>Mine: I nearly took down production by joining multiple large tables on non-indexed columns. Every time a product was updated on the site, MySQL would run my query and join across millions of records.<p>Infrastructure folks couldn’t figure out why the DB servers kept rubbing out of memory, and I very nervously made the fix. Thankfully the team was understanding (and appreciated that the person reviewing my code had messed up), but it was a terrible day.",
+  "comment_text": null,
+  "num_comments": 221,
+  "story_id": null,
+  "story_title": null,
+  "story_url": null,
+  "parent_id": null,
+  "created_at_i": 1624001909,
+  "_tags": [
+    "story",
+    "author_jamestimmins",
+    "story_27548204",
+    "ask_hn",
+    "front_page"
+  ],
+  "objectID": "27548204",
+  "_highlightResult": {
+    "title": {
+      "value": "Ask HN: What huge mistake did you make early in your career?",
+      "matchLevel": "none",
+      "matchedWords": []
+    },
+    "author": {
+      "value": "jamestimmins",
+      "matchLevel": "none",
+      "matchedWords": []
+    },
+    "story_text": {
+      "value": "We’ve all been there — a seemingly huge mistake as an intern or Junior developer that you were sure would get you fired. What’s your story?<p>Mine: I nearly took down production by joining multiple large tables on non-indexed columns. Every time a product was updated on the site, MySQL would run my query and join across millions of records.<p>Infrastructure folks couldn’t figure out why the DB servers kept rubbing out of memory, and I very nervously made the fix. Thankfully the team was understanding (and appreciated that the person reviewing my code had messed up), but it was a terrible day.",
+      "matchLevel": "none",
+      "matchedWords": []
+    }
+  },
+  "original_created_at": "2021-06-18T07:38:29.000Z",
+  "image": ""
+}
