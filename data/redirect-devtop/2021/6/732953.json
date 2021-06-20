@@ -52,5 +52,22 @@
   "original_created_at": "2021-06-19T11:43:27Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7SgTjId1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nihgwg4vklt5m7npglgy.jpg",
   "author": "Anastasia 🏄🏻‍♀️",
-  "author_url": "https://dev.to/coffeestasia"
+  "author_url": "https://dev.to/coffeestasia",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "野心的な開発者の多くは、9時から5時までの仕事をして、ハッカソンに参加して......という同じパターンをたどります。",
+      "title": "開発者の燃え尽き症候群を予防・回復する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "大多数有雄心壮志的开发人员遵循同样的模式：他们做着朝九晚五的工作，参加黑客马拉松和...",
+      "title": "如何预防或恢复开发人员的倦怠感"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大多數有雄心壯志的開發人員遵循同樣的模式：他們做着朝九晚五的工作，參加黑客馬拉松和...",
+      "title": "如何預防或恢復開發人員的倦怠感"
+    }
+  ]
 }
