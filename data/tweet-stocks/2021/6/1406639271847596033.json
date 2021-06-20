@@ -92,5 +92,19 @@
   "favorited": false,
   "retweeted": false,
   "lang": "en",
-  "original_created_at": "Sun Jun 20 15:45:11 +0000 2021"
+  "original_created_at": "Sun Jun 20 15:45:11 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "クリプトは \"父の日の大虐殺 \"と呼ばれるように破壊されました"
+    },
+    {
+      "locale": "zh",
+      "full_text": "加密货币在被描述为 \"快乐的父亲节大屠杀 \"中被击溃"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "加密貨幣在被描述爲 \"快樂的父親節大屠殺 \"中被擊潰"
+    }
+  ]
 }
