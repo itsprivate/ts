@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-14T03:10:33Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GnxwuxRx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g20zuidczmkr9owjbwk5.png",
   "author": "codinglists-dev",
-  "author_url": "https://dev.to/codinglistsdev"
+  "author_url": "https://dev.to/codinglistsdev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コーディングに慣れていない人は、自分の手でコードを作れるかどうか不安になるかもしれません。",
+      "title": "JavaScriptでビギナーからプロになるための48の記事"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你是编码新手，你可能会考虑你是否能掌握编码的方法。",
+      "title": "48篇文章：从初级到专业的JavaScript教程"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你是編碼新手，你可能會考慮你是否能掌握編碼的方法。",
+      "title": "48篇文章：從初級到專業的JavaScript教程"
+    }
+  ]
 }
