@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-20T07:36:59Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oSRH7QtE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mf287xlagxbxip0bpdpx.jpg",
   "author": "Foolish Developer",
-  "author_url": "https://dev.to/code_mystery"
+  "author_url": "https://dev.to/code_mystery",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、HTML CSSとJavaScriptのコードを使ってサイドバーメニューを作成する方法をご紹介します。この記事は",
+      "title": "HTMLとCSSによるサイドバーメニュー"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，你将学习如何使用HTML CSS和JavaScript代码创建侧边栏菜单。喜欢...",
+      "title": "使用HTML和CSS的侧边栏菜单"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，你將學習如何使用HTML CSS和JavaScript代碼創建側邊欄菜單。喜歡...",
+      "title": "使用HTML和CSS的側邊欄菜單"
+    }
+  ]
 }
