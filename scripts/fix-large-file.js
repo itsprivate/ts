@@ -3,6 +3,7 @@ const { resolve, relative } = require("path");
 const fsPure = require("fs");
 const fs = fsPure.promises;
 const { readdir, readFile, writeFile } = fs;
+const format = require("./format");
 async function main() {
   const files = await getFiles(resolve(__dirname, "../data"));
   const jsonFiles = micromatch(files, "**/*.json");
@@ -13,7 +14,7 @@ async function main() {
       const jsonPath = resolve(__dirname, "../", jsonFiles[i]);
       const jsonContent = await readFile(jsonPath, "utf8");
       const json = JSON.parse(jsonContent);
-      const newJson = exports.format(type, json);
+      const newJson = format(type, json);
       console.log(`Write ${jsonFiles[i]}`);
       await fs.writeFile(jsonPath, JSON.stringify(newJson, null, 2));
     }

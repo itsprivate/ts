@@ -1,4 +1,4 @@
-exports.format = (type, item) => {
+module.exports = (type, item) => {
   if (type === "reddit") {
     const {
       title,
