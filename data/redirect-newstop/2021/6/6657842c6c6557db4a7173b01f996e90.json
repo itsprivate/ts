@@ -14,5 +14,19 @@
   "tags": [
     "The New York Times"
   ],
-  "image": "https://static01.nyt.com/images/2021/07/18/world/18virus-briefing-japan-olympics/18virus-briefing-japan-olympics-facebookJumbo.jpg"
+  "image": "https://static01.nyt.com/images/2021/07/18/world/18virus-briefing-japan-olympics/18virus-briefing-japan-olympics-facebookJumbo.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Covid-19ニュース ライブアップデート"
+    },
+    {
+      "locale": "zh",
+      "title": "Covid-19新闻。实时更新"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Covid-19新聞。實時更新"
+    }
+  ]
 }
