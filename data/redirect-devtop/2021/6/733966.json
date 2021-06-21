@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-20T20:07:21Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--l6O_ZkIM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yceo3xk3of14d3hbdkdp.png",
   "author": "Ritesh Kumar",
-  "author_url": "https://dev.to/wordssaysalot"
+  "author_url": "https://dev.to/wordssaysalot",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "GitHubは、単なるバージョン管理サービスではなく、素晴らしいコンテンツリソースです。",
+      "title": "開発者がフォローすべきGitHubの人気リポジトリ"
+    },
+    {
+      "locale": "zh",
+      "description": "GitHub不仅仅是一个版本控制服务；它还是一个了不起的内容资源。",
+      "title": "每个开发者都应该关注的热门GitHub存储库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "GitHub不僅僅是一個版本控制服務；它還是一個了不起的內容資源。",
+      "title": "每個開發者都應該關注的熱門GitHub存儲庫"
+    }
+  ]
 }
