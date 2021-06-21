@@ -1,9 +1,7 @@
 {
   "created_at": "Thu Dec 24 7:35:20 +0000 2020",
-  "id": 1333391250347741200,
   "id_str": "1333391250347741187",
   "full_text": "#phase5 Grayscale: \"we are just getting started\" https://t.co/04zzc83cRE",
-  "truncated": false,
   "display_text_range": [
     0,
     48
@@ -32,101 +30,32 @@
       }
     ]
   },
-  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
   "user": {
-    "id": 918804624303382500,
-    "id_str": "918804624303382528",
     "name": "PlanB",
     "screen_name": "100trillionUSD",
-    "location": "NOT FINANCIAL ADVICE",
-    "description": "#bitcoin\n1PRoNLcWHzM8DuKpGE4YM9hb1PjSEnWRpn\nArticles and podcasts on https://t.co/5Y254ILwhC",
-    "url": "https://t.co/5Y254ILwhC",
-    "entities": {
-      "url": {
-        "urls": [
-          {
-            "url": "https://t.co/5Y254ILwhC",
-            "expanded_url": "http://PlanBTC.com",
-            "display_url": "PlanBTC.com",
-            "indices": [
-              0,
-              23
-            ]
-          }
-        ]
-      },
-      "description": {
-        "urls": [
-          {
-            "url": "https://t.co/5Y254ILwhC",
-            "expanded_url": "http://PlanBTC.com",
-            "display_url": "PlanBTC.com",
-            "indices": [
-              69,
-              92
-            ]
-          }
-        ]
-      }
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117537706584702982/lMHLne7O_normal.jpg"
+  },
+  "retweet_count": 390,
+  "favorite_count": 2265,
+  "possibly_sensitive": false,
+  "original_created_at": "Mon Nov 30 12:43:41 +0000 2020",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "#阶段5灰度：“我们才刚刚开始”https://t.co/04zzc83cRE",
+      "quoted_status_full_text": "@Grayscale的@Sonnenshin在#比特币https://t.co/6d0GUBqgaM的价格上表示：“如果我们在灰度的资金流入表明了对这一资产类别感兴趣的投资者类型或正在进行的配置的规模，那么我们才刚刚开始。”"
     },
-    "protected": false,
-    "followers_count": 178114,
-    "friends_count": 203,
-    "listed_count": 2633,
-    "created_at": "Fri Oct 13 11:44:27 +0000 2017",
-    "favourites_count": 21481,
-    "utc_offset": null,
-    "time_zone": null,
-    "geo_enabled": false,
-    "verified": false,
-    "statuses_count": 5871,
-    "lang": null,
-    "contributors_enabled": false,
-    "is_translator": false,
-    "is_translation_enabled": false,
-    "profile_background_color": "F5F8FA",
-    "profile_background_image_url": null,
-    "profile_background_image_url_https": null,
-    "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1117537706584702982/lMHLne7O_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117537706584702982/lMHLne7O_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/918804624303382528/1601733353",
-    "profile_link_color": "1DA1F2",
-    "profile_sidebar_border_color": "C0DEED",
-    "profile_sidebar_fill_color": "DDEEF6",
-    "profile_text_color": "333333",
-    "profile_use_background_image": true,
-    "has_extended_profile": true,
-    "default_profile": true,
-    "default_profile_image": false,
-    "following": false,
-    "follow_request_sent": false,
-    "notifications": false,
-    "translator_type": "none"
-  },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
-  "is_quote_status": true,
-  "quoted_status_id": 1333388578752237600,
-  "quoted_status_id_str": "1333388578752237570",
-  "quoted_status_permalink": {
-    "url": "https://t.co/04zzc83cRE",
-    "expanded": "https://twitter.com/SquawkCNBC/status/1333388578752237570",
-    "display": "twitter.com/SquawkCNBC/sta…"
-  },
+    {
+      "locale": "zh-Hant",
+      "full_text": "#階段5灰度：“我們纔剛剛開始”https://t.co/04zzc83cRE",
+      "quoted_status_full_text": "@Grayscale的@Sonnenshin在#比特幣https://t.co/6d0GUBqgaM的價格上表示：“如果我們在灰度的資金流入表明了對這一資產類別感興趣的投資者類型或正在進行的配置的規模，那麼我們纔剛剛開始。”"
+    }
+  ],
+  "source_updated_at": 1609271718327,
   "quoted_status": {
     "created_at": "Mon Nov 30 12:33:04 +0000 2020",
-    "id": 1333388578752237600,
     "id_str": "1333388578752237570",
     "full_text": "\"If our inflows at Grayscale are any indication of the types of investors that are interested in this asset class or the sizes of allocations being made, we're just getting started,\" says @Grayscale's @Sonnenshein on the price of #bitcoin #btc https://t.co/6d0GUBqgaM",
-    "truncated": false,
     "display_text_range": [
       0,
       243
@@ -211,175 +140,13 @@
         }
       ]
     },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1333388487874187300,
-          "id_str": "1333388487874187264",
-          "indices": [
-            244,
-            267
-          ],
-          "media_url": "http://pbs.twimg.com/media/EoEl138XYAA3h0I.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/EoEl138XYAA3h0I.jpg",
-          "url": "https://t.co/6d0GUBqgaM",
-          "display_url": "pic.twitter.com/6d0GUBqgaM",
-          "expanded_url": "https://twitter.com/SquawkCNBC/status/1333388578752237570/video/1",
-          "type": "video",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1920,
-              "h": 1080,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 675,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 383,
-              "resize": "fit"
-            }
-          },
-          "video_info": {
-            "aspect_ratio": [
-              16,
-              9
-            ],
-            "duration_millis": 68035,
-            "variants": [
-              {
-                "bitrate": 2176000,
-                "content_type": "video/mp4",
-                "url": "https://video.twimg.com/amplify_video/1333388487874187264/vid/1280x720/MESIYS4T6VDLzNVO.mp4?tag=13"
-              },
-              {
-                "bitrate": 288000,
-                "content_type": "video/mp4",
-                "url": "https://video.twimg.com/amplify_video/1333388487874187264/vid/480x270/i5eiUibBaReBf6uc.mp4?tag=13"
-              },
-              {
-                "bitrate": 832000,
-                "content_type": "video/mp4",
-                "url": "https://video.twimg.com/amplify_video/1333388487874187264/vid/640x360/mCnazEiy72u9yO5U.mp4?tag=13"
-              },
-              {
-                "content_type": "application/x-mpegURL",
-                "url": "https://video.twimg.com/amplify_video/1333388487874187264/pl/7FAPBolNiwTbhR6O.m3u8?tag=13"
-              }
-            ]
-          },
-          "additional_media_info": {
-            "embeddable": true,
-            "monetizable": false
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://wildmoka.com\" rel=\"nofollow\">Wildmoka</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
     "user": {
-      "id": 404422077,
-      "id_str": "404422077",
       "name": "Squawk Box",
       "screen_name": "SquawkCNBC",
-      "location": "New York, NY",
-      "description": "Start your morning with Joe Kernen, Becky Quick, and Andrew Ross Sorkin - Monday through Friday from 6-9a ET.",
-      "url": "http://t.co/AMPUczhT7a",
-      "entities": {
-        "url": {
-          "urls": [
-            {
-              "url": "http://t.co/AMPUczhT7a",
-              "expanded_url": "http://squawkbox.cnbc.com",
-              "display_url": "squawkbox.cnbc.com",
-              "indices": [
-                0,
-                22
-              ]
-            }
-          ]
-        },
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 268093,
-      "friends_count": 805,
-      "listed_count": 3409,
-      "created_at": "Thu Nov 03 22:17:10 +0000 2011",
-      "favourites_count": 1905,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": true,
-      "verified": true,
-      "statuses_count": 26791,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "000000",
-      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1197996990644310018/jBN0g0AI_normal.png",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1197996990644310018/jBN0g0AI_normal.png",
-      "profile_banner_url": "https://pbs.twimg.com/profile_banners/404422077/1574459715",
-      "profile_link_color": "3473A3",
-      "profile_sidebar_border_color": "FFFFFF",
-      "profile_sidebar_fill_color": "E3E3E3",
-      "profile_text_color": "5E5E5E",
-      "profile_use_background_image": true,
-      "has_extended_profile": false,
-      "default_profile": false,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none"
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1197996990644310018/jBN0g0AI_normal.png"
     },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
     "retweet_count": 411,
     "favorite_count": 1558,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
-  },
-  "retweet_count": 390,
-  "favorite_count": 2265,
-  "favorited": false,
-  "retweeted": false,
-  "possibly_sensitive": false,
-  "lang": "en",
-  "original_created_at": "Mon Nov 30 12:43:41 +0000 2020",
-  "localize": [
-    {
-      "locale": "zh",
-      "full_text": "#阶段5灰度：“我们才刚刚开始”https://t.co/04zzc83cRE",
-      "quoted_status_full_text": "@Grayscale的@Sonnenshin在#比特币https://t.co/6d0GUBqgaM的价格上表示：“如果我们在灰度的资金流入表明了对这一资产类别感兴趣的投资者类型或正在进行的配置的规模，那么我们才刚刚开始。”"
-    },
-    {
-      "locale": "zh-Hant",
-      "full_text": "#階段5灰度：“我們纔剛剛開始”https://t.co/04zzc83cRE",
-      "quoted_status_full_text": "@Grayscale的@Sonnenshin在#比特幣https://t.co/6d0GUBqgaM的價格上表示：“如果我們在灰度的資金流入表明了對這一資產類別感興趣的投資者類型或正在進行的配置的規模，那麼我們纔剛剛開始。”"
-    }
-  ],
-  "source_updated_at": 1609271718327
+    "possibly_sensitive": false
+  }
 }

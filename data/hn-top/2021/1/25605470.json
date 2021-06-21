@@ -4,35 +4,15 @@
   "url": "https://github.com/artichoke/artichoke",
   "author": "ibraheemdev",
   "points": 325,
-  "story_text": null,
-  "comment_text": null,
   "num_comments": 30,
-  "story_id": null,
-  "story_title": null,
-  "story_url": null,
-  "parent_id": null,
-  "created_at_i": 1609526420,
-  "_tags": ["story", "author_ibraheemdev", "story_25605470", "front_page"],
+  "_tags": [
+    "story",
+    "author_ibraheemdev",
+    "story_25605470",
+    "front_page"
+  ],
   "objectID": "25605470",
-  "_highlightResult": {
-    "title": {
-      "value": "Artichoke is a Ruby made with Rust that compiles to WebAssembly",
-      "matchLevel": "none",
-      "matchedWords": []
-    },
-    "url": {
-      "value": "https://github.com/artichoke/artichoke",
-      "matchLevel": "none",
-      "matchedWords": []
-    },
-    "author": {
-      "value": "ibraheemdev",
-      "matchLevel": "none",
-      "matchedWords": []
-    }
-  },
   "original_created_at": "2021-01-01T18:40:20.000Z",
-  "image": "https://repository-images.githubusercontent.com/199196552/3b5f4100-4731-11eb-9873-fbca5428e628",
   "localize": [
     {
       "locale": "zh",
@@ -43,5 +23,6 @@
       "title": "Artichoke是一個用Rust製作的Ruby，可以編譯成WebAssembly"
     }
   ],
-  "source_updated_at": 1610100761121
+  "source_updated_at": 1610100761121,
+  "image": "https://repository-images.githubusercontent.com/199196552/3b5f4100-4731-11eb-9873-fbca5428e628"
 }

@@ -1,218 +1,23 @@
 {
-  "approved_at_utc": null,
-  "subreddit": "CryptoCurrency",
-  "selftext": "The Jungles asked ([**1**](https://np.reddit.com/r/banano/comments/ljiq7o/banano_airdrop_to_nano_holders/)) ([**2**](https://np.reddit.com/r/nanocurrency/comments/lkuv3p/every_wallet_delegating_a_certain_rep_even_if/)) and the Junta answered. It's time for a second round of instant, feeless, high-potassium deliveries to the people that take an active step to decentralizing the Network. In this article we will cover these questions:\n\n* How will the Airdrop work?\n* Who is Eligible? How do I Qualify?\n* My Nano is in X random place, will that work?\n* There is a bonus for changing to a small rep, why?\n* How do I claim the Banano once the Airdrop goes out?\n\nhttps://preview.redd.it/s1h41raphai61.png?width=945&format=png&auto=webp&s=f2fab4dcf835a668dad97f4b1b40d8410e95e347\n\n# How will the Airdrop work?\n\nBanano is going to be airdropped to **all non-custodial Nano wallets**!\n\n**What does that mean?**\n\nBanano is going to be airdropped to all wallets *that have access to their private keys*. There will be a snapshot of the Nano network *at an undisclosed time* ***between February 22nd-28th*** *(the real time is still a surprise).* Anyone holding Nano in their nano\\_wallet will be sent Banano to their identical ban\\_wallet. There is a detailed walkthrough on how to claim below.\n\n# Who is Eligible? How do I Qualify?\n\nTo qualify for the Airdrop, you need to:\n\n1. Have Nano\n2. Have that Nano in a wallet which you can control/export the *real* Nano private key\n3. Hodling between February 22nd to 28th (snapshot is at some point during this window)\n\nFunds on Exchanges, Games Accounts, Tipbots, etc. *are not eligible* to receive the airdrop.\n\n# My Nano is in X random place, will that work?\n\n**✔** **HERE IS A LIST OF ELIGIBLE WALLETS**!\n\n**This is a list of wallets that give you access to a real Nano seed/mnemonic.**\n\n* [**Natrium**](https://natrium.io/) (please note, the creators of Natrium and Banano's Kalium are the same)\n* [**Nault**](https://nault.cc/)\n* [**WeNano**](https://wenano.net/)\n* [**GoNano**](https://github.com/hectorchu/gonano-gui)\n* [**Kaiak**](https://kaiak.cc/) **(bip39 key ineligible, please refer to** [u/Joohansson](https://np.reddit.com/u/Joohansson/) [comment](https://np.reddit.com/r/nanocurrency/comments/lmhl3v/airdrop_to_nano_holders_round_2/gnvccq2))\n* [**Nalli**](https://nalli.app/)\n* [**Vola**](https://getvola.com/)\n* [**Keytools**](https://tools.nanos.cc/) **(dev)**\n* [**NF Wallet**](https://github.com/nanocurrency/nano-node) **(dev)**\n* TIX (all users are required to import their keys so should therefore already have them)\n\nThis list was created by reviewing [**Nanowallets.guide**](https://nanowallets.guide/) and referencing which wallets showed \"Seed Export\" as Nano and/or \"Mnemonic Export\" as 24 words. Please do your own research and double check this before using some of the lesser known options.\n\n**IMPORTANT: NOT ALL NANO WALLETS GIVE YOU ACCESS TO THE** ***REAL*** **PRIVATE KEY**\n\nSome wallets use their own private keys and they will not work for this. Bip39 and 12-word mnemonics are examples of private keys that are not \"real\" private keys.\n\n❌ **HERE IS A LIST OF INELIGIBLE WALLETS**\\*\\*!\\*\\*\n\n* **Please read** [**u/Joohansson**](https://www.reddit.com/u/Joohansson/)**'s** [**pinned comment**](https://www.reddit.com/r/nanocurrency/comments/lmhl3v/airdrop_to_nano_holders_round_2/gnvkkr2?utm_source=share&utm_medium=web2x&context=3) **about Ledgers**\n* **Atomic**\n* **Exodus**\n* **Guarda**\n* **Kaiak's Bip39 key**\n* **Nalli's Bip39 key**\n* **Nanollet (uses SeedFY, not well understood)**\n* **Trust Wallet**\n* **Pippin (dev)**\n\nThis list was created by reviewing [**Nanowallets.guide**](https://nanowallets.guide/)\n\n**But what if I have it here?**\n\nPlease read [u/Joohansson](https://np.reddit.com/u/Joohansson/)'s [pinned comment](https://np.reddit.com/r/nanocurrency/comments/lmhl3v/airdrop_to_nano_holders_round_2/gnvkkr2) about Ledgers\n\nMy Nano is on Binance, will that work? - no\n\nMy Nano is on Kucoin, will that work? - no\n\nMy Nano is on Coinbase, will that work? - no, wen Coinbase\n\nMy Nano is on Graham (nano\\_tip\\_bot) on Discord, will that work? - no\n\nMy Nano is on the Twitter and Reddit tipbots, will that work? - no\n\nMy Nano is at Nanogames, will that work? - no\n\n# There is a bonus for changing to a small rep, why?\n\nBanano is proud to utilize it's distribution as an incentive for education. As explained in the [**Nano Airdrop Round 1**](https://www.daily-peel.com/post/nanoairdrop), The way Banano and Nano reaches consensus is through a process known as *Open Representative Voting*. This is different than the Proof of Work and Proof of Stake methods of most blockchains and cryptocurrencies. This is what allows Banano/Nano to be instant and feeless, and is also why there is no mining or staking required. Instead, people run nodes for the network, and others delegate their voting weight to those node runners (also known as representatives). Basically summarized, everyone picks someone running a node (a rep) to speak to the blockchain on their behalf. You can select/change that representative at any time for free. When you create a wallet you are assigned a default rep associated with that wallet. If you have not changed it yourself, you will still be on that default rep. Banano wants to help encourage people to delegate their voting weight to less mainstream reps in an effort to further decentralize the network.\n\n**The Incentive:**\n\nThere will be a bonus to the airdrop for all accounts who have elected a principle representative with <1% voting weight. For perspective on why this is important, currently; 68.8% of all Nano are delegated to Representatives with >1% voting weight, and 34% of all Nano are held on exchanges.\n\nThis is a good tool for assessing Nano Representatives: [MyNano.Ninja](https://mynano.ninja/)\n\n**How to change your Representative:**\n\nFor the purpose of this section we will go through how to change our Representative using screenshots from Natrium mobile wallet.\n\n[Natrium's Change Representative Button](https://preview.redd.it/6hdskj1aiai61.png?width=896&format=png&auto=webp&s=871f97ed560e87eab981c11d7fa02c609f2d7b0c)\n\nFirst from the side panel select the \"Change Representative\" option. Once there, you will see a nano\\_address similar to the one below.\n\n[Example Representative Change and Pick From a List Menu](https://preview.redd.it/txmnl2tbiai61.png?width=700&format=png&auto=webp&s=b6ac7904afc0a50d2f4091fb05b4d37c193d0d35)\n\nThis Representative shown on the left is the one used for the [**first Banano-to-Nano Airdrop on February 13th**](https://www.daily-peel.com/post/nanoairdrop).\n\nThere is a list of Nodes and their stats on [**Nanocrawler.cc**](https://nanocrawler.cc/network) under the network tab. The Natrium \"Pick From a List\" option is also a good method to choose a rep with the voting weight requirements for the airdrop bonus.\n\n*Reminder: to receive the bonus your rep must have less than 1% of the total voting weight.*\n\n# When the Airdrop does go out, this is how you can claim:\n\n**Importing the Seed:**\n\n1. Export the Private Key or Mnemonic Phrase from your Nano Wallet\n2. Import the Private Key or Mnemonic Phrase into your Banano Wallet ([**Kalium**](https://kalium.banano.cc/), [**Vault**](https://vault.banano.cc/))\n3. The Ban\\_address version of your Nano\\_wallet will be holding the Banano. Withdraw them (or leave them in their since you do indeed hold the keys)\n4. *note that seeds/mnemonics can be used on both blockchains and the address stays the same. The only thing that changes is the nano\\_ or ban\\_ prefix of the public address.*\n\n**Sweeping the Wallet Balance:** ([**Kalium**](https://kalium.banano.cc/))\n\n[Kalium's Load from Paper Wallet \\(Sweep\\) Button](https://preview.redd.it/o85jg9ddiai61.png?width=839&format=png&auto=webp&s=8926893977046cd9af68ef234681b6f508c70817)\n\n1. Export the Private Key or Mnemonic Phrase from your Nano Wallet\n2. Locate Kalium's \"Load from Paper Wallet\" option in the side panel\n3. Select \"Manual Entry\"\n4. Paste the Private Key or Mnemonic Phrase to your Nano Wallet\n5. You will be prompted to withdraw the Balance of the inputted Seed to the Banano wallet you are currently signed in to within the app.\n\nWe hope that with educational rewards such as this more users will be encouraged to remove their funds from the exchanges, and truly take control of their coins in the way they were designed to be used. Decentralized Digital Currency is closer every day. *Don't let your memes be dreams*.\n\nSee Also:\n\n* [The Daily Peel](https://daily-peel.com/post/nanoairdrop2)\n* [r/Nano Thread](https://np.reddit.com/r/nanocurrency/comments/lmhl3v/airdrop_to_nano_holders_round_2/)\n* [r/Banano Thread](https://np.reddit.com/r/banano/comments/lmhj19/banano_airdrop_to_nano_holders_round_2/)\n* [Airdrop to Nano Holders Round 1 Thread](https://np.reddit.com/r/nanocurrency/comments/lkuv3p/every_wallet_delegating_a_certain_rep_even_if/)",
-  "author_fullname": "t2_45mhpxid",
-  "saved": false,
-  "mod_reason_title": null,
-  "gilded": 0,
-  "clicked": false,
+  "author": "Irrelephantoops",
+  "the_new_excerpt": "The Jungles asked (1\n[https://np.reddit.com/r/banano/comments/ljiq7o/banano_airdrop_to_nano_holders/])\n(2\n[https://np.reddit.com/r/nanocurrency/comments/lkuv3p/every_wallet_delegating_a_certain_rep_even_if/])\nand the Junta answered. It's time for a second round of instant, feeless,\nhigh-potassium…",
+  "original_created_utc": 1613677629,
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "丛林问(1)\n[https://np.reddit.com/r/banano/comments/ljiq7o/banano_airdrop_to_nano_holders/])\n(2\n[https://np.reddit.com/r/nanocurrency/comments/lkuv3p/every_wallet_delegating_a_certain_rep_even_if/])\n和军统的回答。是时候进行第二轮的即时，感觉无。\n高钾",
+      "title": "巴纳诺空投至纳米霍德勒人"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "叢林問(1)\n[https://np.reddit.com/r/banano/comments/ljiq7o/banano_airdrop_to_nano_holders/])\n(2\n[https://np.reddit.com/r/nanocurrency/comments/lkuv3p/every_wallet_delegating_a_certain_rep_even_if/])\n和軍統的回答。是時候進行第二輪的即時，感覺無。\n高鉀",
+      "title": "巴納諾空投至納米霍德勒人"
+    }
+  ],
   "title": "Banano Airdrop to Nano Hodlers",
-  "link_flair_richtext": [
-    {
-      "e": "text",
-      "t": "GENERAL-NEWS"
-    }
-  ],
-  "subreddit_name_prefixed": "r/CryptoCurrency",
-  "hidden": false,
-  "pwls": 6,
-  "link_flair_css_class": "GENERAL-NEWS",
-  "downs": 0,
-  "thumbnail_height": 73,
-  "top_awarded_type": null,
-  "hide_score": false,
-  "media_metadata": {
-    "s1h41raphai61": {
-      "status": "valid",
-      "e": "Image",
-      "m": "image/png",
-      "p": [
-        {
-          "y": 64,
-          "x": 108,
-          "u": "https://preview.redd.it/s1h41raphai61.png?width=108&crop=smart&auto=webp&s=add8ef064a1f01635a7f57c4cb173c36d7e574ea"
-        },
-        {
-          "y": 129,
-          "x": 216,
-          "u": "https://preview.redd.it/s1h41raphai61.png?width=216&crop=smart&auto=webp&s=0657e738622eb9cdd0dcafe36632852f084889f9"
-        },
-        {
-          "y": 192,
-          "x": 320,
-          "u": "https://preview.redd.it/s1h41raphai61.png?width=320&crop=smart&auto=webp&s=3812d3879c87710b34f8775979dec9502d536b40"
-        },
-        {
-          "y": 384,
-          "x": 640,
-          "u": "https://preview.redd.it/s1h41raphai61.png?width=640&crop=smart&auto=webp&s=29f1edf5c3664a73f8ff5a605cd68812430f1317"
-        }
-      ],
-      "s": {
-        "y": 567,
-        "x": 945,
-        "u": "https://preview.redd.it/s1h41raphai61.png?width=945&format=png&auto=webp&s=f2fab4dcf835a668dad97f4b1b40d8410e95e347"
-      },
-      "id": "s1h41raphai61"
-    },
-    "6hdskj1aiai61": {
-      "status": "valid",
-      "e": "Image",
-      "m": "image/png",
-      "p": [
-        {
-          "y": 24,
-          "x": 108,
-          "u": "https://preview.redd.it/6hdskj1aiai61.png?width=108&crop=smart&auto=webp&s=9ce1a24fed6dd539d4c29328140d8cb078e93c38"
-        },
-        {
-          "y": 48,
-          "x": 216,
-          "u": "https://preview.redd.it/6hdskj1aiai61.png?width=216&crop=smart&auto=webp&s=5d7cd87f84ff5b50af195a55cd50fc7c0273b4ff"
-        },
-        {
-          "y": 71,
-          "x": 320,
-          "u": "https://preview.redd.it/6hdskj1aiai61.png?width=320&crop=smart&auto=webp&s=9c3727207b09bb1b28085aebba08de0b0a926cc2"
-        },
-        {
-          "y": 143,
-          "x": 640,
-          "u": "https://preview.redd.it/6hdskj1aiai61.png?width=640&crop=smart&auto=webp&s=fb9cd78be91af0c605d9bfa303616f2f7989ec76"
-        }
-      ],
-      "s": {
-        "y": 201,
-        "x": 896,
-        "u": "https://preview.redd.it/6hdskj1aiai61.png?width=896&format=png&auto=webp&s=871f97ed560e87eab981c11d7fa02c609f2d7b0c"
-      },
-      "id": "6hdskj1aiai61"
-    },
-    "txmnl2tbiai61": {
-      "status": "valid",
-      "e": "Image",
-      "m": "image/png",
-      "p": [
-        {
-          "y": 86,
-          "x": 108,
-          "u": "https://preview.redd.it/txmnl2tbiai61.png?width=108&crop=smart&auto=webp&s=e8e145517b1ada4415f26a75cb4abb71c9a565d3"
-        },
-        {
-          "y": 173,
-          "x": 216,
-          "u": "https://preview.redd.it/txmnl2tbiai61.png?width=216&crop=smart&auto=webp&s=c1181d2e7362be1169d6841a9651a4204bc259e2"
-        },
-        {
-          "y": 256,
-          "x": 320,
-          "u": "https://preview.redd.it/txmnl2tbiai61.png?width=320&crop=smart&auto=webp&s=e317a889a5322bfda5e114587113e3eb9f749419"
-        },
-        {
-          "y": 512,
-          "x": 640,
-          "u": "https://preview.redd.it/txmnl2tbiai61.png?width=640&crop=smart&auto=webp&s=09f8b323225796100768dc1c1de15123b0434d88"
-        }
-      ],
-      "s": {
-        "y": 561,
-        "x": 700,
-        "u": "https://preview.redd.it/txmnl2tbiai61.png?width=700&format=png&auto=webp&s=b6ac7904afc0a50d2f4091fb05b4d37c193d0d35"
-      },
-      "id": "txmnl2tbiai61"
-    },
-    "o85jg9ddiai61": {
-      "status": "valid",
-      "e": "Image",
-      "m": "image/png",
-      "p": [
-        {
-          "y": 22,
-          "x": 108,
-          "u": "https://preview.redd.it/o85jg9ddiai61.png?width=108&crop=smart&auto=webp&s=25958154f5c9e432e59ccecb797f60772fd1714d"
-        },
-        {
-          "y": 45,
-          "x": 216,
-          "u": "https://preview.redd.it/o85jg9ddiai61.png?width=216&crop=smart&auto=webp&s=2ff583e6279c0d29973331eddbd8565764edbec7"
-        },
-        {
-          "y": 67,
-          "x": 320,
-          "u": "https://preview.redd.it/o85jg9ddiai61.png?width=320&crop=smart&auto=webp&s=d2610495f1e5e05d4d801a54946913d8aa191ce7"
-        },
-        {
-          "y": 135,
-          "x": 640,
-          "u": "https://preview.redd.it/o85jg9ddiai61.png?width=640&crop=smart&auto=webp&s=e1db612b34ce496122ca968cccf447fa1cd33d8d"
-        }
-      ],
-      "s": {
-        "y": 177,
-        "x": 839,
-        "u": "https://preview.redd.it/o85jg9ddiai61.png?width=839&format=png&auto=webp&s=8926893977046cd9af68ef234681b6f508c70817"
-      },
-      "id": "o85jg9ddiai61"
-    }
-  },
-  "name": "t3_lmvet5",
-  "quarantine": false,
-  "link_flair_text_color": "dark",
-  "upvote_ratio": 0.88,
-  "author_flair_background_color": "",
-  "subreddit_type": "public",
-  "ups": 381,
-  "total_awards_received": 8,
-  "media_embed": {},
-  "thumbnail_width": 140,
-  "author_flair_template_id": null,
-  "is_original_content": false,
-  "user_reports": [],
-  "secure_media": null,
-  "is_reddit_media_domain": false,
-  "is_meta": false,
-  "category": null,
-  "secure_media_embed": {},
-  "link_flair_text": "GENERAL-NEWS",
-  "can_mod_post": false,
-  "score": 381,
-  "approved_by": null,
-  "author_premium": true,
-  "thumbnail": "https://b.thumbs.redditmedia.com/bNM87jzsWqUYRnClC3WczmVlwGrTv3t-RnSy43TNjEo.jpg",
-  "edited": 1613691957,
-  "author_flair_css_class": "NANO",
-  "author_flair_richtext": [
-    {
-      "e": "text",
-      "t": "Platinum | QC: CC 82 | NANO 13"
-    }
-  ],
-  "gildings": {
-    "gid_1": 2
-  },
-  "post_hint": "self",
-  "content_categories": null,
-  "is_self": true,
-  "mod_note": null,
-  "created": 1613706429,
-  "link_flair_type": "richtext",
-  "wls": 6,
-  "removed_by_category": null,
-  "banned_by": null,
-  "author_flair_type": "richtext",
-  "domain": "self.CryptoCurrency",
-  "allow_live_comments": true,
+  "created_utc": 1613702498,
   "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>The Jungles asked (<a href=\"https://np.reddit.com/r/banano/comments/ljiq7o/banano_airdrop_to_nano_holders/\"><strong>1</strong></a>) (<a href=\"https://np.reddit.com/r/nanocurrency/comments/lkuv3p/every_wallet_delegating_a_certain_rep_even_if/\"><strong>2</strong></a>) and the Junta answered. It&#39;s time for a second round of instant, feeless, high-potassium deliveries to the people that take an active step to decentralizing the Network. In this article we will cover these questions:</p>\n\n<ul>\n<li>How will the Airdrop work?</li>\n<li>Who is Eligible? How do I Qualify?</li>\n<li>My Nano is in X random place, will that work?</li>\n<li>There is a bonus for changing to a small rep, why?</li>\n<li>How do I claim the Banano once the Airdrop goes out?</li>\n</ul>\n\n<p><a href=\"https://preview.redd.it/s1h41raphai61.png?width=945&amp;format=png&amp;auto=webp&amp;s=f2fab4dcf835a668dad97f4b1b40d8410e95e347\">https://preview.redd.it/s1h41raphai61.png?width=945&amp;format=png&amp;auto=webp&amp;s=f2fab4dcf835a668dad97f4b1b40d8410e95e347</a></p>\n\n<h1>How will the Airdrop work?</h1>\n\n<p>Banano is going to be airdropped to <strong>all non-custodial Nano wallets</strong>!</p>\n\n<p><strong>What does that mean?</strong></p>\n\n<p>Banano is going to be airdropped to all wallets <em>that have access to their private keys</em>. There will be a snapshot of the Nano network <em>at an undisclosed time</em> <strong><em>between February 22nd-28th</em></strong> <em>(the real time is still a surprise).</em> Anyone holding Nano in their nano_wallet will be sent Banano to their identical ban_wallet. There is a detailed walkthrough on how to claim below.</p>\n\n<h1>Who is Eligible? How do I Qualify?</h1>\n\n<p>To qualify for the Airdrop, you need to:</p>\n\n<ol>\n<li>Have Nano</li>\n<li>Have that Nano in a wallet which you can control/export the <em>real</em> Nano private key</li>\n<li>Hodling between February 22nd to 28th (snapshot is at some point during this window)</li>\n</ol>\n\n<p>Funds on Exchanges, Games Accounts, Tipbots, etc. <em>are not eligible</em> to receive the airdrop.</p>\n\n<h1>My Nano is in X random place, will that work?</h1>\n\n<p><strong>✔</strong> <strong>HERE IS A LIST OF ELIGIBLE WALLETS</strong>!</p>\n\n<p><strong>This is a list of wallets that give you access to a real Nano seed/mnemonic.</strong></p>\n\n<ul>\n<li><a href=\"https://natrium.io/\"><strong>Natrium</strong></a> (please note, the creators of Natrium and Banano&#39;s Kalium are the same)</li>\n<li><a href=\"https://nault.cc/\"><strong>Nault</strong></a></li>\n<li><a href=\"https://wenano.net/\"><strong>WeNano</strong></a></li>\n<li><a href=\"https://github.com/hectorchu/gonano-gui\"><strong>GoNano</strong></a></li>\n<li><a href=\"https://kaiak.cc/\"><strong>Kaiak</strong></a> <strong>(bip39 key ineligible, please refer to</strong> <a href=\"https://np.reddit.com/u/Joohansson/\">u/Joohansson</a> <a href=\"https://np.reddit.com/r/nanocurrency/comments/lmhl3v/airdrop_to_nano_holders_round_2/gnvccq2\">comment</a>)</li>\n<li><a href=\"https://nalli.app/\"><strong>Nalli</strong></a></li>\n<li><a href=\"https://getvola.com/\"><strong>Vola</strong></a></li>\n<li><a href=\"https://tools.nanos.cc/\"><strong>Keytools</strong></a> <strong>(dev)</strong></li>\n<li><a href=\"https://github.com/nanocurrency/nano-node\"><strong>NF Wallet</strong></a> <strong>(dev)</strong></li>\n<li>TIX (all users are required to import their keys so should therefore already have them)</li>\n</ul>\n\n<p>This list was created by reviewing <a href=\"https://nanowallets.guide/\"><strong>Nanowallets.guide</strong></a> and referencing which wallets showed &quot;Seed Export&quot; as Nano and/or &quot;Mnemonic Export&quot; as 24 words. Please do your own research and double check this before using some of the lesser known options.</p>\n\n<p><strong>IMPORTANT: NOT ALL NANO WALLETS GIVE YOU ACCESS TO THE</strong> <strong><em>REAL</em></strong> <strong>PRIVATE KEY</strong></p>\n\n<p>Some wallets use their own private keys and they will not work for this. Bip39 and 12-word mnemonics are examples of private keys that are not &quot;real&quot; private keys.</p>\n\n<p>❌ <strong>HERE IS A LIST OF INELIGIBLE WALLETS</strong>**!**</p>\n\n<ul>\n<li><strong>Please read</strong> <a href=\"https://www.reddit.com/u/Joohansson/\"><strong>u/Joohansson</strong></a><strong>&#39;s</strong> <a href=\"https://www.reddit.com/r/nanocurrency/comments/lmhl3v/airdrop_to_nano_holders_round_2/gnvkkr2?utm_source=share&amp;utm_medium=web2x&amp;context=3\"><strong>pinned comment</strong></a> <strong>about Ledgers</strong></li>\n<li><strong>Atomic</strong></li>\n<li><strong>Exodus</strong></li>\n<li><strong>Guarda</strong></li>\n<li><strong>Kaiak&#39;s Bip39 key</strong></li>\n<li><strong>Nalli&#39;s Bip39 key</strong></li>\n<li><strong>Nanollet (uses SeedFY, not well understood)</strong></li>\n<li><strong>Trust Wallet</strong></li>\n<li><strong>Pippin (dev)</strong></li>\n</ul>\n\n<p>This list was created by reviewing <a href=\"https://nanowallets.guide/\"><strong>Nanowallets.guide</strong></a></p>\n\n<p><strong>But what if I have it here?</strong></p>\n\n<p>Please read <a href=\"https://np.reddit.com/u/Joohansson/\">u/Joohansson</a>&#39;s <a href=\"https://np.reddit.com/r/nanocurrency/comments/lmhl3v/airdrop_to_nano_holders_round_2/gnvkkr2\">pinned comment</a> about Ledgers</p>\n\n<p>My Nano is on Binance, will that work? - no</p>\n\n<p>My Nano is on Kucoin, will that work? - no</p>\n\n<p>My Nano is on Coinbase, will that work? - no, wen Coinbase</p>\n\n<p>My Nano is on Graham (nano_tip_bot) on Discord, will that work? - no</p>\n\n<p>My Nano is on the Twitter and Reddit tipbots, will that work? - no</p>\n\n<p>My Nano is at Nanogames, will that work? - no</p>\n\n<h1>There is a bonus for changing to a small rep, why?</h1>\n\n<p>Banano is proud to utilize it&#39;s distribution as an incentive for education. As explained in the <a href=\"https://www.daily-peel.com/post/nanoairdrop\"><strong>Nano Airdrop Round 1</strong></a>, The way Banano and Nano reaches consensus is through a process known as <em>Open Representative Voting</em>. This is different than the Proof of Work and Proof of Stake methods of most blockchains and cryptocurrencies. This is what allows Banano/Nano to be instant and feeless, and is also why there is no mining or staking required. Instead, people run nodes for the network, and others delegate their voting weight to those node runners (also known as representatives). Basically summarized, everyone picks someone running a node (a rep) to speak to the blockchain on their behalf. You can select/change that representative at any time for free. When you create a wallet you are assigned a default rep associated with that wallet. If you have not changed it yourself, you will still be on that default rep. Banano wants to help encourage people to delegate their voting weight to less mainstream reps in an effort to further decentralize the network.</p>\n\n<p><strong>The Incentive:</strong></p>\n\n<p>There will be a bonus to the airdrop for all accounts who have elected a principle representative with &lt;1% voting weight. For perspective on why this is important, currently; 68.8% of all Nano are delegated to Representatives with &gt;1% voting weight, and 34% of all Nano are held on exchanges.</p>\n\n<p>This is a good tool for assessing Nano Representatives: <a href=\"https://mynano.ninja/\">MyNano.Ninja</a></p>\n\n<p><strong>How to change your Representative:</strong></p>\n\n<p>For the purpose of this section we will go through how to change our Representative using screenshots from Natrium mobile wallet.</p>\n\n<p><a href=\"https://preview.redd.it/6hdskj1aiai61.png?width=896&amp;format=png&amp;auto=webp&amp;s=871f97ed560e87eab981c11d7fa02c609f2d7b0c\">Natrium&#39;s Change Representative Button</a></p>\n\n<p>First from the side panel select the &quot;Change Representative&quot; option. Once there, you will see a nano_address similar to the one below.</p>\n\n<p><a href=\"https://preview.redd.it/txmnl2tbiai61.png?width=700&amp;format=png&amp;auto=webp&amp;s=b6ac7904afc0a50d2f4091fb05b4d37c193d0d35\">Example Representative Change and Pick From a List Menu</a></p>\n\n<p>This Representative shown on the left is the one used for the <a href=\"https://www.daily-peel.com/post/nanoairdrop\"><strong>first Banano-to-Nano Airdrop on February 13th</strong></a>.</p>\n\n<p>There is a list of Nodes and their stats on <a href=\"https://nanocrawler.cc/network\"><strong>Nanocrawler.cc</strong></a> under the network tab. The Natrium &quot;Pick From a List&quot; option is also a good method to choose a rep with the voting weight requirements for the airdrop bonus.</p>\n\n<p><em>Reminder: to receive the bonus your rep must have less than 1% of the total voting weight.</em></p>\n\n<h1>When the Airdrop does go out, this is how you can claim:</h1>\n\n<p><strong>Importing the Seed:</strong></p>\n\n<ol>\n<li>Export the Private Key or Mnemonic Phrase from your Nano Wallet</li>\n<li>Import the Private Key or Mnemonic Phrase into your Banano Wallet (<a href=\"https://kalium.banano.cc/\"><strong>Kalium</strong></a>, <a href=\"https://vault.banano.cc/\"><strong>Vault</strong></a>)</li>\n<li>The Ban_address version of your Nano_wallet will be holding the Banano. Withdraw them (or leave them in their since you do indeed hold the keys)</li>\n<li><em>note that seeds/mnemonics can be used on both blockchains and the address stays the same. The only thing that changes is the nano_ or ban_ prefix of the public address.</em></li>\n</ol>\n\n<p><strong>Sweeping the Wallet Balance:</strong> (<a href=\"https://kalium.banano.cc/\"><strong>Kalium</strong></a>)</p>\n\n<p><a href=\"https://preview.redd.it/o85jg9ddiai61.png?width=839&amp;format=png&amp;auto=webp&amp;s=8926893977046cd9af68ef234681b6f508c70817\">Kalium&#39;s Load from Paper Wallet (Sweep) Button</a></p>\n\n<ol>\n<li>Export the Private Key or Mnemonic Phrase from your Nano Wallet</li>\n<li>Locate Kalium&#39;s &quot;Load from Paper Wallet&quot; option in the side panel</li>\n<li>Select &quot;Manual Entry&quot;</li>\n<li>Paste the Private Key or Mnemonic Phrase to your Nano Wallet</li>\n<li>You will be prompted to withdraw the Balance of the inputted Seed to the Banano wallet you are currently signed in to within the app.</li>\n</ol>\n\n<p>We hope that with educational rewards such as this more users will be encouraged to remove their funds from the exchanges, and truly take control of their coins in the way they were designed to be used. Decentralized Digital Currency is closer every day. <em>Don&#39;t let your memes be dreams</em>.</p>\n\n<p>See Also:</p>\n\n<ul>\n<li><a href=\"https://daily-peel.com/post/nanoairdrop2\">The Daily Peel</a></li>\n<li><a href=\"https://np.reddit.com/r/nanocurrency/comments/lmhl3v/airdrop_to_nano_holders_round_2/\">r/Nano Thread</a></li>\n<li><a href=\"https://np.reddit.com/r/banano/comments/lmhj19/banano_airdrop_to_nano_holders_round_2/\">r/Banano Thread</a></li>\n<li><a href=\"https://np.reddit.com/r/nanocurrency/comments/lkuv3p/every_wallet_delegating_a_certain_rep_even_if/\">Airdrop to Nano Holders Round 1 Thread</a></li>\n</ul>\n</div><!-- SC_ON -->",
-  "likes": null,
-  "suggested_sort": null,
-  "banned_at_utc": null,
-  "view_count": null,
-  "archived": false,
-  "no_follow": false,
-  "is_crosspostable": false,
-  "pinned": false,
-  "over_18": false,
+  "score": 381,
   "preview": {
     "images": [
       {
@@ -259,56 +64,11 @@
     ],
     "enabled": false
   },
-  "awarders": [],
-  "media_only": false,
-  "link_flair_template_id": "87089520-34fa-11e4-8072-12313d281a98",
-  "can_gild": false,
-  "spoiler": false,
-  "locked": false,
-  "author_flair_text": "Platinum | QC: CC 82 | NANO 13",
-  "treatment_tags": [],
-  "visited": false,
-  "removed_by": null,
-  "num_reports": null,
-  "distinguished": null,
-  "subreddit_id": "t5_2wlj3",
-  "mod_reason_by": null,
-  "removal_reason": null,
-  "link_flair_background_color": "",
-  "id": "lmvet5",
-  "is_robot_indexable": true,
-  "report_reasons": null,
-  "author": "Irrelephantoops",
-  "discussion_type": null,
-  "num_comments": 180,
-  "send_replies": true,
-  "whitelist_status": "all_ads",
-  "contest_mode": false,
-  "mod_reports": [],
-  "author_patreon_flair": false,
-  "author_flair_text_color": "dark",
   "permalink": "/r/CryptoCurrency/comments/lmvet5/banano_airdrop_to_nano_hodlers/",
-  "parent_whitelist_status": "all_ads",
-  "stickied": false,
-  "url": "https://www.reddit.com/r/CryptoCurrency/comments/lmvet5/banano_airdrop_to_nano_hodlers/",
-  "subreddit_subscribers": 1733365,
-  "created_utc": 1613702498,
-  "num_crossposts": 0,
+  "subreddit": "CryptoCurrency",
+  "id": "lmvet5",
+  "is_self": true,
   "media": null,
   "is_video": false,
-  "original_created_utc": 1613677629,
-  "the_new_excerpt": "The Jungles asked (1\n[https://np.reddit.com/r/banano/comments/ljiq7o/banano_airdrop_to_nano_holders/])\n(2\n[https://np.reddit.com/r/nanocurrency/comments/lkuv3p/every_wallet_delegating_a_certain_rep_even_if/])\nand the Junta answered. It's time for a second round of instant, feeless,\nhigh-potassium…",
-  "localize": [
-    {
-      "locale": "zh",
-      "the_new_excerpt": "丛林问(1)\n[https://np.reddit.com/r/banano/comments/ljiq7o/banano_airdrop_to_nano_holders/])\n(2\n[https://np.reddit.com/r/nanocurrency/comments/lkuv3p/every_wallet_delegating_a_certain_rep_even_if/])\n和军统的回答。是时候进行第二轮的即时，感觉无。\n高钾",
-      "title": "巴纳诺空投至纳米霍德勒人"
-    },
-    {
-      "locale": "zh-Hant",
-      "the_new_excerpt": "叢林問(1)\n[https://np.reddit.com/r/banano/comments/ljiq7o/banano_airdrop_to_nano_holders/])\n(2\n[https://np.reddit.com/r/nanocurrency/comments/lkuv3p/every_wallet_delegating_a_certain_rep_even_if/])\n和軍統的回答。是時候進行第二輪的即時，感覺無。\n高鉀",
-      "title": "巴納諾空投至納米霍德勒人"
-    }
-  ],
   "source_updated_at": 1614332875932
 }

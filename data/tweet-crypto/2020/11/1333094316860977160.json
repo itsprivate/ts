@@ -1,9 +1,7 @@
 {
   "created_at": "Thu Dec 24 7:35:20 +0000 2020",
-  "id": 1333094316860977200,
   "id_str": "1333094316860977160",
   "full_text": "RT @danheld: Bitcoin stock to flow model animated. \n\nby @100trillionUSD https://t.co/h9iFTHJ5fQ",
-  "truncated": false,
   "display_text_range": [
     0,
     95
@@ -77,150 +75,32 @@
       }
     ]
   },
-  "extended_entities": {
-    "media": [
-      {
-        "id": 1332713858021122000,
-        "id_str": "1332713858021122049",
-        "indices": [
-          72,
-          95
-        ],
-        "media_url": "http://pbs.twimg.com/tweet_video_thumb/En7AMV6W4AESTfV.jpg",
-        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/En7AMV6W4AESTfV.jpg",
-        "url": "https://t.co/h9iFTHJ5fQ",
-        "display_url": "pic.twitter.com/h9iFTHJ5fQ",
-        "expanded_url": "https://twitter.com/danheld/status/1333048071001952259/photo/1",
-        "type": "animated_gif",
-        "sizes": {
-          "thumb": {
-            "w": 150,
-            "h": 150,
-            "resize": "crop"
-          },
-          "medium": {
-            "w": 800,
-            "h": 600,
-            "resize": "fit"
-          },
-          "large": {
-            "w": 800,
-            "h": 600,
-            "resize": "fit"
-          },
-          "small": {
-            "w": 680,
-            "h": 510,
-            "resize": "fit"
-          }
-        },
-        "source_status_id": 1333048071001952300,
-        "source_status_id_str": "1333048071001952259",
-        "source_user_id": 1598709350,
-        "source_user_id_str": "1598709350",
-        "video_info": {
-          "aspect_ratio": [
-            4,
-            3
-          ],
-          "variants": [
-            {
-              "bitrate": 0,
-              "content_type": "video/mp4",
-              "url": "https://video.twimg.com/tweet_video/En7AMV6W4AESTfV.mp4"
-            }
-          ]
-        }
-      }
-    ]
-  },
-  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
   "user": {
-    "id": 918804624303382500,
-    "id_str": "918804624303382528",
     "name": "PlanB",
     "screen_name": "100trillionUSD",
-    "location": "NOT FINANCIAL ADVICE",
-    "description": "#bitcoin\n1PRoNLcWHzM8DuKpGE4YM9hb1PjSEnWRpn\nArticles and podcasts on https://t.co/5Y254ILwhC",
-    "url": "https://t.co/5Y254ILwhC",
-    "entities": {
-      "url": {
-        "urls": [
-          {
-            "url": "https://t.co/5Y254ILwhC",
-            "expanded_url": "http://PlanBTC.com",
-            "display_url": "PlanBTC.com",
-            "indices": [
-              0,
-              23
-            ]
-          }
-        ]
-      },
-      "description": {
-        "urls": [
-          {
-            "url": "https://t.co/5Y254ILwhC",
-            "expanded_url": "http://PlanBTC.com",
-            "display_url": "PlanBTC.com",
-            "indices": [
-              69,
-              92
-            ]
-          }
-        ]
-      }
-    },
-    "protected": false,
-    "followers_count": 178114,
-    "friends_count": 203,
-    "listed_count": 2633,
-    "created_at": "Fri Oct 13 11:44:27 +0000 2017",
-    "favourites_count": 21481,
-    "utc_offset": null,
-    "time_zone": null,
-    "geo_enabled": false,
-    "verified": false,
-    "statuses_count": 5871,
-    "lang": null,
-    "contributors_enabled": false,
-    "is_translator": false,
-    "is_translation_enabled": false,
-    "profile_background_color": "F5F8FA",
-    "profile_background_image_url": null,
-    "profile_background_image_url_https": null,
-    "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1117537706584702982/lMHLne7O_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117537706584702982/lMHLne7O_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/918804624303382528/1601733353",
-    "profile_link_color": "1DA1F2",
-    "profile_sidebar_border_color": "C0DEED",
-    "profile_sidebar_fill_color": "DDEEF6",
-    "profile_text_color": "333333",
-    "profile_use_background_image": true,
-    "has_extended_profile": true,
-    "default_profile": true,
-    "default_profile_image": false,
-    "following": false,
-    "follow_request_sent": false,
-    "notifications": false,
-    "translator_type": "none"
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117537706584702982/lMHLne7O_normal.jpg"
   },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
+  "retweet_count": 588,
+  "favorite_count": 0,
+  "possibly_sensitive": false,
+  "original_created_at": "Sun Nov 29 17:03:47 +0000 2020",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "rt@danhold：比特币股票到流动模型的动画。\n\n由@100万亿美元https://t.co/h9iFTHJ5fQ",
+      "retweeted_status_full_text": "比特币股票到流量模型动画。\n\n由@100万亿美元https://t.co/h9iFTHJ5fQ"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "rt@danhold：比特幣股票到流動模型的動畫。\n\n由@100萬億美元https://t.co/h9iFTHJ5fQ",
+      "retweeted_status_full_text": "比特幣股票到流量模型動畫。\n\n由@100萬億美元https://t.co/h9iFTHJ5fQ"
+    }
+  ],
+  "source_updated_at": 1609271718326,
   "retweeted_status": {
     "created_at": "Sun Nov 29 14:00:01 +0000 2020",
-    "id": 1333048071001952300,
     "id_str": "1333048071001952259",
     "full_text": "Bitcoin stock to flow model animated. \n\nby @100trillionUSD https://t.co/h9iFTHJ5fQ",
-    "truncated": false,
     "display_text_range": [
       0,
       58
@@ -280,157 +160,13 @@
         }
       ]
     },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1332713858021122000,
-          "id_str": "1332713858021122049",
-          "indices": [
-            59,
-            82
-          ],
-          "media_url": "http://pbs.twimg.com/tweet_video_thumb/En7AMV6W4AESTfV.jpg",
-          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/En7AMV6W4AESTfV.jpg",
-          "url": "https://t.co/h9iFTHJ5fQ",
-          "display_url": "pic.twitter.com/h9iFTHJ5fQ",
-          "expanded_url": "https://twitter.com/danheld/status/1333048071001952259/photo/1",
-          "type": "animated_gif",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 800,
-              "h": 600,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 800,
-              "h": 600,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 510,
-              "resize": "fit"
-            }
-          },
-          "video_info": {
-            "aspect_ratio": [
-              4,
-              3
-            ],
-            "variants": [
-              {
-                "bitrate": 0,
-                "content_type": "video/mp4",
-                "url": "https://video.twimg.com/tweet_video/En7AMV6W4AESTfV.mp4"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
     "user": {
-      "id": 1598709350,
-      "id_str": "1598709350",
       "name": "Dan Held",
       "screen_name": "danheld",
-      "location": "San Francisco",
-      "description": "Follow me to learn about Bitcoin. \n\nGrowth @Krakenfx | Prior @InterchangeHQ (acq by @Krakenfx), Growth @Uber, PM @Blockchain, @ZeroBlock (acq by @Blockchain).",
-      "url": "https://t.co/7aHNfZddZ1",
-      "entities": {
-        "url": {
-          "urls": [
-            {
-              "url": "https://t.co/7aHNfZddZ1",
-              "expanded_url": "https://danheld.substack.com/",
-              "display_url": "danheld.substack.com",
-              "indices": [
-                0,
-                23
-              ]
-            }
-          ]
-        },
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 87191,
-      "friends_count": 812,
-      "listed_count": 1643,
-      "created_at": "Tue Jul 16 15:50:59 +0000 2013",
-      "favourites_count": 122422,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": true,
-      "verified": false,
-      "statuses_count": 44828,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "C0DEED",
-      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1241174712694145024/iqRlO2mD_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1241174712694145024/iqRlO2mD_normal.jpg",
-      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1598709350/1584665400",
-      "profile_link_color": "1DA1F2",
-      "profile_sidebar_border_color": "C0DEED",
-      "profile_sidebar_fill_color": "DDEEF6",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": false,
-      "default_profile": true,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none"
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1241174712694145024/iqRlO2mD_normal.jpg"
     },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
     "retweet_count": 590,
     "favorite_count": 2725,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
-  },
-  "is_quote_status": false,
-  "retweet_count": 588,
-  "favorite_count": 0,
-  "favorited": false,
-  "retweeted": false,
-  "possibly_sensitive": false,
-  "lang": "en",
-  "original_created_at": "Sun Nov 29 17:03:47 +0000 2020",
-  "localize": [
-    {
-      "locale": "zh",
-      "full_text": "rt@danhold：比特币股票到流动模型的动画。\n\n由@100万亿美元https://t.co/h9iFTHJ5fQ",
-      "retweeted_status_full_text": "比特币股票到流量模型动画。\n\n由@100万亿美元https://t.co/h9iFTHJ5fQ"
-    },
-    {
-      "locale": "zh-Hant",
-      "full_text": "rt@danhold：比特幣股票到流動模型的動畫。\n\n由@100萬億美元https://t.co/h9iFTHJ5fQ",
-      "retweeted_status_full_text": "比特幣股票到流量模型動畫。\n\n由@100萬億美元https://t.co/h9iFTHJ5fQ"
-    }
-  ],
-  "source_updated_at": 1609271718326
+    "possibly_sensitive": false
+  }
 }

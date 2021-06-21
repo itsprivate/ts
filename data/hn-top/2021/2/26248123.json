@@ -4,14 +4,7 @@
   "url": null,
   "author": "raphael-gold",
   "points": 185,
-  "story_text": "We&#x27;re Raphael, Florian and Marc, co-founders of weweb.io (<a href=\"https:&#x2F;&#x2F;www.weweb.io&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.weweb.io&#x2F;</a>). We are building a Webflow&#x2F;WordPress style product, but where users can drag &amp; drop their own React&#x2F;Vue components and use data fetched from any API.<p>We started working together on a side project in 2016, it was a mobile app in rails that lets people choose music in their favourite bars. The app didn&#x27;t bring much value to bar owners, but it was fun to build and we made good friends among our first customers. Aside from our jobs we loved spending time building and iterating on different web products, we even built a simple angular web-app that would let anyone create a website entirely from a mobile phone.<p>Fast-forward to 2018, we stumbled upon the Jamstack ecosystem and loved it. But one thing surprised us so much that we decided to quit our jobs to solve it: while many developers were switching their websites to the Jamstack, businesses were (almost) always pushing to go back to WordPress or no-code systems because Jamstack sites didn&#x27;t come with a no-code interface to update the front-end.<p>The thing is, even with headless CMSes, most changes on a website still need to be addressed by engineers, who usually don&#x27;t have the time to do it. This situation frustrates marketers, who then argue against their developers&#x27; technical choices.<p>That&#x27;s why we built weweb.io, to allow developers to use their favorite Jamstack tools while providing a nice GUI so marketers can edit their websites in autonomy.<p>The main uses-cases where people find weweb.io useful are 1) when they want to ship websites fast, with a no-code tool that&#x27;s not a black-box for developers, 2) when they want to create websites at scale (hundreds of landing pages) with data coming from an external back-end (API, database, Headless CMSes, Airtable, etc.) or 3) when they have a custom React&#x2F;Vue front-end and want to let marketers iterate faster on it.<p>We currently have integrations to fetch data from Airtable, Google Sheets, Ghost CMS, Strapi and any REST API. We are planning to release more integrations in the following months.<p>We have a free plan where users can build a site and redirect on their own domain name for free! We start charging a recurring fee when these sites are becoming more mature (more than 500 visits &#x2F; month)<p>To deploy a site, users hit a “publish” button and we pre-render the site, optimize the images and deploy the files on a CDN (Cloudfront). We are planning on opening the deployment system so developers can use their favorite platform (Netlify, Vercel, or anything) and choose their favorite SSR&#x2F;SSG (Next, Gatsby, Nuxt, Gridsome, etc.).<p>We currently support uploading Vue.js components from GitHub out-of-the-box, and make the props editable in our GUI thanks to a simple config file in the component.<p>Furthermore, we&#x27;re working on improving our support for React. On this subject, we would be interested to get your feedback on how to interpret React from a Vue app. We tinkered with libraries like <a href=\"https:&#x2F;&#x2F;github.com&#x2F;akxcv&#x2F;vuera\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;akxcv&#x2F;vuera</a> and were hoping to not have to rewrite our whole app using React. If you people have any advice on this, we would be more than happy to hear it!<p>We would also love to hear your feedback about the tool. Feel free to give it a spin at <a href=\"https:&#x2F;&#x2F;www.weweb.io&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.weweb.io&#x2F;</a>",
-  "comment_text": null,
   "num_comments": 77,
-  "story_id": null,
-  "story_title": null,
-  "story_url": null,
-  "parent_id": null,
-  "created_at_i": 1614158016,
   "_tags": [
     "story",
     "author_raphael-gold",
@@ -19,25 +12,7 @@
     "front_page"
   ],
   "objectID": "26248123",
-  "_highlightResult": {
-    "title": {
-      "value": "Launch HN: Weweb.io (YC W21) – Create websites visually using JAMstack tools",
-      "matchLevel": "none",
-      "matchedWords": []
-    },
-    "author": {
-      "value": "raphael-gold",
-      "matchLevel": "none",
-      "matchedWords": []
-    },
-    "story_text": {
-      "value": "We're Raphael, Florian and Marc, co-founders of weweb.io (<a href=\"https://www.weweb.io/\" rel=\"nofollow\">https://www.weweb.io/</a>). We are building a Webflow/WordPress style product, but where users can drag &amp; drop their own React/Vue components and use data fetched from any API.<p>We started working together on a side project in 2016, it was a mobile app in rails that lets people choose music in their favourite bars. The app didn't bring much value to bar owners, but it was fun to build and we made good friends among our first customers. Aside from our jobs we loved spending time building and iterating on different web products, we even built a simple angular web-app that would let anyone create a website entirely from a mobile phone.<p>Fast-forward to 2018, we stumbled upon the Jamstack ecosystem and loved it. But one thing surprised us so much that we decided to quit our jobs to solve it: while many developers were switching their websites to the Jamstack, businesses were (almost) always pushing to go back to WordPress or no-code systems because Jamstack sites didn't come with a no-code interface to update the front-end.<p>The thing is, even with headless CMSes, most changes on a website still need to be addressed by engineers, who usually don't have the time to do it. This situation frustrates marketers, who then argue against their developers' technical choices.<p>That's why we built weweb.io, to allow developers to use their favorite Jamstack tools while providing a nice GUI so marketers can edit their websites in autonomy.<p>The main uses-cases where people find weweb.io useful are 1) when they want to ship websites fast, with a no-code tool that's not a black-box for developers, 2) when they want to create websites at scale (hundreds of landing pages) with data coming from an external back-end (API, database, Headless CMSes, Airtable, etc.) or 3) when they have a custom React/Vue front-end and want to let marketers iterate faster on it.<p>We currently have integrations to fetch data from Airtable, Google Sheets, Ghost CMS, Strapi and any REST API. We are planning to release more integrations in the following months.<p>We have a free plan where users can build a site and redirect on their own domain name for free! We start charging a recurring fee when these sites are becoming more mature (more than 500 visits / month)<p>To deploy a site, users hit a “publish” button and we pre-render the site, optimize the images and deploy the files on a CDN (Cloudfront). We are planning on opening the deployment system so developers can use their favorite platform (Netlify, Vercel, or anything) and choose their favorite SSR/SSG (Next, Gatsby, Nuxt, Gridsome, etc.).<p>We currently support uploading Vue.js components from GitHub out-of-the-box, and make the props editable in our GUI thanks to a simple config file in the component.<p>Furthermore, we're working on improving our support for React. On this subject, we would be interested to get your feedback on how to interpret React from a Vue app. We tinkered with libraries like <a href=\"https://github.com/akxcv/vuera\" rel=\"nofollow\">https://github.com/akxcv/vuera</a> and were hoping to not have to rewrite our whole app using React. If you people have any advice on this, we would be more than happy to hear it!<p>We would also love to hear your feedback about the tool. Feel free to give it a spin at <a href=\"https://www.weweb.io/\" rel=\"nofollow\">https://www.weweb.io/</a>",
-      "matchLevel": "none",
-      "matchedWords": []
-    }
-  },
   "original_created_at": "2021-02-24T09:13:36.000Z",
-  "image": "",
   "localize": [
     {
       "locale": "zh",
@@ -48,5 +23,6 @@
       "title": "啓動HN：Weweb.io (YC W21)--使用JAMstack工具可視化創建網站。"
     }
   ],
-  "source_updated_at": 1614332904967
+  "source_updated_at": 1614332904967,
+  "image": ""
 }

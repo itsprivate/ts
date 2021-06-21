@@ -4,14 +4,7 @@
   "url": null,
   "author": "cyka178",
   "points": 322,
-  "story_text": "Today I have found out that hibernation is by default disabled in my Ubuntu 18.04 distribution. After this, I found this 11 month old post <a href=\"https:&#x2F;&#x2F;discourse.ubuntu.com&#x2F;t&#x2F;re-visiting-hibernate-on-ubuntu&#x2F;15953\" rel=\"nofollow\">https:&#x2F;&#x2F;discourse.ubuntu.com&#x2F;t&#x2F;re-visiting-hibernate-on-ubun...</a> where I realized that the Linux community does not seem to be able to implement a working implementation of hibernate. Is there any reason why this is a difficult problem? I would like to have an option in my OS like VM&#x27;s have where everything that is currently running is saved on disk and can be resumed later without issues.",
-  "comment_text": null,
   "num_comments": 135,
-  "story_id": null,
-  "story_title": null,
-  "story_url": null,
-  "parent_id": null,
-  "created_at_i": 1617892516,
   "_tags": [
     "story",
     "author_cyka178",
@@ -20,25 +13,7 @@
     "front_page"
   ],
   "objectID": "26739220",
-  "_highlightResult": {
-    "title": {
-      "value": "Ask HN: Why is the Linux community struggling to implement hibernation?",
-      "matchLevel": "none",
-      "matchedWords": []
-    },
-    "author": {
-      "value": "cyka178",
-      "matchLevel": "none",
-      "matchedWords": []
-    },
-    "story_text": {
-      "value": "Today I have found out that hibernation is by default disabled in my Ubuntu 18.04 distribution. After this, I found this 11 month old post <a href=\"https://discourse.ubuntu.com/t/re-visiting-hibernate-on-ubuntu/15953\" rel=\"nofollow\">https://discourse.ubuntu.com/t/re-visiting-hibernate-on-ubun...</a> where I realized that the Linux community does not seem to be able to implement a working implementation of hibernate. Is there any reason why this is a difficult problem? I would like to have an option in my OS like VM's have where everything that is currently running is saved on disk and can be resumed later without issues.",
-      "matchLevel": "none",
-      "matchedWords": []
-    }
-  },
   "original_created_at": "2021-04-08T14:35:16.000Z",
-  "image": "",
   "localize": [
     {
       "locale": "ja",
@@ -53,5 +28,6 @@
       "title": "問HN：爲什麼Linux社區在努力實現休眠？"
     }
   ],
-  "source_updated_at": 1618566625522
+  "source_updated_at": 1618566625522,
+  "image": ""
 }

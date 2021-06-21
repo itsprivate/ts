@@ -1,9 +1,7 @@
 {
   "created_at": "Thu Feb 11 3:38:46 +0000 2021",
-  "id": 1359603250459259000,
   "id_str": "1359603250459258882",
   "full_text": "Ben Carlson dollar-cost averaging into Bitcoin https://t.co/nlqOHDa3IZ",
-  "truncated": false,
   "display_text_range": [
     0,
     46
@@ -24,91 +22,32 @@
       }
     ]
   },
-  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
   "user": {
-    "id": 93529573,
-    "id_str": "93529573",
     "name": "Michael Batnick",
     "screen_name": "michaelbatnick",
-    "location": "",
-    "description": "Long-distance reader",
-    "url": "https://t.co/Hsrw7tqiUp",
-    "entities": {
-      "url": {
-        "urls": [
-          {
-            "url": "https://t.co/Hsrw7tqiUp",
-            "expanded_url": "https://podcasts.apple.com/us/podcast/animal-spirits-podcast/id1310192007",
-            "display_url": "podcasts.apple.com/us/podcast/ani…",
-            "indices": [
-              0,
-              23
-            ]
-          }
-        ]
-      },
-      "description": {
-        "urls": []
-      }
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1157350851406716932/rNWwlpQL_normal.jpg"
+  },
+  "retweet_count": 7,
+  "favorite_count": 359,
+  "possibly_sensitive": false,
+  "original_created_at": "Wed Feb 10 20:40:49 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "Ben Carlson美元成本平均到比特币https://t.co/nlqOHDa3IZ。",
+      "quoted_status_full_text": "布雷迪现在https://t.co/i9UpDBiHef。"
     },
-    "protected": false,
-    "followers_count": 133744,
-    "friends_count": 956,
-    "listed_count": 3228,
-    "created_at": "Mon Nov 30 01:36:02 +0000 2009",
-    "favourites_count": 80714,
-    "utc_offset": null,
-    "time_zone": null,
-    "geo_enabled": true,
-    "verified": true,
-    "statuses_count": 41336,
-    "lang": null,
-    "contributors_enabled": false,
-    "is_translator": false,
-    "is_translation_enabled": false,
-    "profile_background_color": "C0DEED",
-    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_tile": true,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1157350851406716932/rNWwlpQL_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1157350851406716932/rNWwlpQL_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/93529573/1468512070",
-    "profile_link_color": "0084B4",
-    "profile_sidebar_border_color": "C0DEED",
-    "profile_sidebar_fill_color": "DDEEF6",
-    "profile_text_color": "333333",
-    "profile_use_background_image": false,
-    "has_extended_profile": false,
-    "default_profile": false,
-    "default_profile_image": false,
-    "following": false,
-    "follow_request_sent": false,
-    "notifications": false,
-    "translator_type": "none"
-  },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
-  "is_quote_status": true,
-  "quoted_status_id": 1359602675051098000,
-  "quoted_status_id_str": "1359602675051098113",
-  "quoted_status_permalink": {
-    "url": "https://t.co/nlqOHDa3IZ",
-    "expanded": "https://twitter.com/barstoolsports/status/1359602675051098113",
-    "display": "twitter.com/barstoolsports…"
-  },
+    {
+      "locale": "zh-Hant",
+      "full_text": "Ben Carlson美元成本平均到比特幣https://t.co/nlqOHDa3IZ。",
+      "quoted_status_full_text": "布雷迪現在https://t.co/i9UpDBiHef。"
+    }
+  ],
+  "source_updated_at": 1613123223232,
   "quoted_status": {
     "created_at": "Wed Feb 10 20:38:32 +0000 2021",
-    "id": 1359602675051098000,
     "id_str": "1359602675051098113",
     "full_text": "Brady right now https://t.co/i9UpDBiHef",
-    "truncated": false,
     "display_text_range": [
       0,
       39
@@ -161,259 +100,13 @@
         }
       ]
     },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1224429777341337600,
-          "id_str": "1224429777341337601",
-          "indices": [
-            16,
-            39
-          ],
-          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1224429777341337601/pu/img/mlxJJergIjvGMzHh.jpg",
-          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1224429777341337601/pu/img/mlxJJergIjvGMzHh.jpg",
-          "url": "https://t.co/i9UpDBiHef",
-          "display_url": "pic.twitter.com/i9UpDBiHef",
-          "expanded_url": "https://twitter.com/barstoolsports/status/1224430206598946816/video/1",
-          "type": "video",
-          "sizes": {
-            "large": {
-              "w": 720,
-              "h": 900,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 544,
-              "h": 680,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 720,
-              "h": 900,
-              "resize": "fit"
-            }
-          },
-          "source_status_id": 1224430206598946800,
-          "source_status_id_str": "1224430206598946816",
-          "source_user_id": 22637974,
-          "source_user_id_str": "22637974",
-          "video_info": {
-            "aspect_ratio": [
-              4,
-              5
-            ],
-            "duration_millis": 17767,
-            "variants": [
-              {
-                "bitrate": 2176000,
-                "content_type": "video/mp4",
-                "url": "https://video.twimg.com/ext_tw_video/1224429777341337601/pu/vid/720x900/OgU-cec-tGIJ_lzK.mp4?tag=10"
-              },
-              {
-                "content_type": "application/x-mpegURL",
-                "url": "https://video.twimg.com/ext_tw_video/1224429777341337601/pu/pl/DHQUyFCq8ohoMH-I.m3u8?tag=10"
-              },
-              {
-                "bitrate": 832000,
-                "content_type": "video/mp4",
-                "url": "https://video.twimg.com/ext_tw_video/1224429777341337601/pu/vid/360x450/hchXUzqO4oaQEaoC.mp4?tag=10"
-              },
-              {
-                "bitrate": 632000,
-                "content_type": "video/mp4",
-                "url": "https://video.twimg.com/ext_tw_video/1224429777341337601/pu/vid/320x400/3S4dGiXvKmPcNuT1.mp4?tag=10"
-              }
-            ]
-          },
-          "additional_media_info": {
-            "monetizable": false,
-            "source_user": {
-              "id": 22637974,
-              "id_str": "22637974",
-              "name": "Barstool Sports",
-              "screen_name": "barstoolsports",
-              "location": "America",
-              "description": "Viva La Stool - Download the Barstool Sports app https://t.co/sxfRMbcsSw",
-              "url": "https://t.co/67MD8gf64M",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/67MD8gf64M",
-                      "expanded_url": "http://www.barstoolsports.com",
-                      "display_url": "barstoolsports.com",
-                      "indices": [
-                        0,
-                        23
-                      ]
-                    }
-                  ]
-                },
-                "description": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/sxfRMbcsSw",
-                      "expanded_url": "https://www.barstoolsports.com/download",
-                      "display_url": "barstoolsports.com/download",
-                      "indices": [
-                        49,
-                        72
-                      ]
-                    }
-                  ]
-                }
-              },
-              "protected": false,
-              "followers_count": 2752658,
-              "friends_count": 770,
-              "listed_count": 5047,
-              "created_at": "Tue Mar 03 16:01:13 +0000 2009",
-              "favourites_count": 4756,
-              "utc_offset": null,
-              "time_zone": null,
-              "geo_enabled": true,
-              "verified": true,
-              "statuses_count": 75861,
-              "lang": null,
-              "contributors_enabled": false,
-              "is_translator": false,
-              "is_translation_enabled": false,
-              "profile_background_color": "C0DEED",
-              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-              "profile_background_tile": true,
-              "profile_image_url": "http://pbs.twimg.com/profile_images/1222128514624892935/zC0ABl3m_normal.jpg",
-              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1222128514624892935/zC0ABl3m_normal.jpg",
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/22637974/1570797907",
-              "profile_link_color": "0084B4",
-              "profile_sidebar_border_color": "FFFFFF",
-              "profile_sidebar_fill_color": "DDEEF6",
-              "profile_text_color": "333333",
-              "profile_use_background_image": true,
-              "has_extended_profile": false,
-              "default_profile": false,
-              "default_profile_image": false,
-              "following": false,
-              "follow_request_sent": false,
-              "notifications": false,
-              "translator_type": "none"
-            }
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
     "user": {
-      "id": 22637974,
-      "id_str": "22637974",
       "name": "Barstool Sports",
       "screen_name": "barstoolsports",
-      "location": "America",
-      "description": "Viva La Stool - Download the Barstool Sports app https://t.co/sxfRMbcsSw",
-      "url": "https://t.co/67MD8gf64M",
-      "entities": {
-        "url": {
-          "urls": [
-            {
-              "url": "https://t.co/67MD8gf64M",
-              "expanded_url": "http://www.barstoolsports.com",
-              "display_url": "barstoolsports.com",
-              "indices": [
-                0,
-                23
-              ]
-            }
-          ]
-        },
-        "description": {
-          "urls": [
-            {
-              "url": "https://t.co/sxfRMbcsSw",
-              "expanded_url": "https://www.barstoolsports.com/download",
-              "display_url": "barstoolsports.com/download",
-              "indices": [
-                49,
-                72
-              ]
-            }
-          ]
-        }
-      },
-      "protected": false,
-      "followers_count": 2752658,
-      "friends_count": 770,
-      "listed_count": 5047,
-      "created_at": "Tue Mar 03 16:01:13 +0000 2009",
-      "favourites_count": 4756,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": true,
-      "verified": true,
-      "statuses_count": 75861,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "C0DEED",
-      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-      "profile_background_tile": true,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1222128514624892935/zC0ABl3m_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1222128514624892935/zC0ABl3m_normal.jpg",
-      "profile_banner_url": "https://pbs.twimg.com/profile_banners/22637974/1570797907",
-      "profile_link_color": "0084B4",
-      "profile_sidebar_border_color": "FFFFFF",
-      "profile_sidebar_fill_color": "DDEEF6",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": false,
-      "default_profile": false,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none"
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1222128514624892935/zC0ABl3m_normal.jpg"
     },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
     "retweet_count": 458,
     "favorite_count": 6747,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
-  },
-  "retweet_count": 7,
-  "favorite_count": 359,
-  "favorited": false,
-  "retweeted": false,
-  "possibly_sensitive": false,
-  "lang": "en",
-  "original_created_at": "Wed Feb 10 20:40:49 +0000 2021",
-  "localize": [
-    {
-      "locale": "zh",
-      "full_text": "Ben Carlson美元成本平均到比特币https://t.co/nlqOHDa3IZ。",
-      "quoted_status_full_text": "布雷迪现在https://t.co/i9UpDBiHef。"
-    },
-    {
-      "locale": "zh-Hant",
-      "full_text": "Ben Carlson美元成本平均到比特幣https://t.co/nlqOHDa3IZ。",
-      "quoted_status_full_text": "布雷迪現在https://t.co/i9UpDBiHef。"
-    }
-  ],
-  "source_updated_at": 1613123223232
+    "possibly_sensitive": false
+  }
 }

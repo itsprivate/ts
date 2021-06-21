@@ -4,14 +4,7 @@
   "url": "http://zellij.dev/news/beta#",
   "author": "ibraheemdev",
   "points": 414,
-  "story_text": null,
-  "comment_text": null,
   "num_comments": 115,
-  "story_id": null,
-  "story_title": null,
-  "story_url": null,
-  "parent_id": null,
-  "created_at_i": 1619097757,
   "_tags": [
     "story",
     "author_ibraheemdev",
@@ -19,25 +12,7 @@
     "front_page"
   ],
   "objectID": "26902430",
-  "_highlightResult": {
-    "title": {
-      "value": "Zellij – A Terminal Workspace and Multiplexer Written in Rust",
-      "matchLevel": "none",
-      "matchedWords": []
-    },
-    "url": {
-      "value": "http://zellij.dev/news/beta#",
-      "matchLevel": "none",
-      "matchedWords": []
-    },
-    "author": {
-      "value": "ibraheemdev",
-      "matchLevel": "none",
-      "matchedWords": []
-    }
-  },
   "original_created_at": "2021-04-22T13:22:37.000Z",
-  "image": "https://zellij.dev/img/beta-post-preview.png",
   "localize": [
     {
       "locale": "ja",
@@ -52,5 +27,6 @@
       "title": "Zellij - 一個用Rust編寫的終端工作區和多路複用器"
     }
   ],
-  "source_updated_at": 1619776222669
+  "source_updated_at": 1619776222669,
+  "image": "https://zellij.dev/img/beta-post-preview.png"
 }

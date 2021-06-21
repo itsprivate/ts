@@ -1,9 +1,7 @@
 {
   "created_at": "Tue Dec 29 15:35:22 +0000 2020",
-  "id": 1343930906348814300,
   "id_str": "1343930906348814337",
   "full_text": "RT @RussellOkung: Paid in Bitcoin. https://t.co/Ey6oOcmLjA",
-  "truncated": false,
   "display_text_range": [
     0,
     58
@@ -35,93 +33,32 @@
       }
     ]
   },
-  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
   "user": {
-    "id": 918804624303382500,
-    "id_str": "918804624303382528",
     "name": "PlanB",
     "screen_name": "100trillionUSD",
-    "location": "NOT FINANCIAL ADVICE",
-    "description": "#bitcoin\n1PRoNLcWHzM8DuKpGE4YM9hb1PjSEnWRpn\nArticles and podcasts on https://t.co/5Y254ILwhC",
-    "url": "https://t.co/5Y254ILwhC",
-    "entities": {
-      "url": {
-        "urls": [
-          {
-            "url": "https://t.co/5Y254ILwhC",
-            "expanded_url": "http://PlanBTC.com",
-            "display_url": "PlanBTC.com",
-            "indices": [
-              0,
-              23
-            ]
-          }
-        ]
-      },
-      "description": {
-        "urls": [
-          {
-            "url": "https://t.co/5Y254ILwhC",
-            "expanded_url": "http://PlanBTC.com",
-            "display_url": "PlanBTC.com",
-            "indices": [
-              69,
-              92
-            ]
-          }
-        ]
-      }
-    },
-    "protected": false,
-    "followers_count": 185093,
-    "friends_count": 202,
-    "listed_count": 2725,
-    "created_at": "Fri Oct 13 11:44:27 +0000 2017",
-    "favourites_count": 21549,
-    "utc_offset": null,
-    "time_zone": null,
-    "geo_enabled": false,
-    "verified": false,
-    "statuses_count": 5904,
-    "lang": null,
-    "contributors_enabled": false,
-    "is_translator": false,
-    "is_translation_enabled": false,
-    "profile_background_color": "F5F8FA",
-    "profile_background_image_url": null,
-    "profile_background_image_url_https": null,
-    "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1117537706584702982/lMHLne7O_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117537706584702982/lMHLne7O_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/918804624303382528/1601733353",
-    "profile_link_color": "1DA1F2",
-    "profile_sidebar_border_color": "C0DEED",
-    "profile_sidebar_fill_color": "DDEEF6",
-    "profile_text_color": "333333",
-    "profile_use_background_image": true,
-    "has_extended_profile": true,
-    "default_profile": true,
-    "default_profile_image": false,
-    "following": false,
-    "follow_request_sent": false,
-    "notifications": false,
-    "translator_type": "none"
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117537706584702982/lMHLne7O_normal.jpg"
   },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
+  "retweet_count": 4966,
+  "favorite_count": 0,
+  "possibly_sensitive": false,
+  "original_created_at": "Tue Dec 29 14:44:31 +0000 2020",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "rt@RussellOkung：比特币支付。https://t.co/Ey6oOcmLjA",
+      "retweeted_status_full_text": "用比特币支付。https://t.co/Ey6oOcmLjA"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "rt@RussellOkung：比特幣支付。https://t.co/Ey6oOcmLjA",
+      "retweeted_status_full_text": "用比特幣支付。https://t.co/Ey6oOcmLjA"
+    }
+  ],
+  "source_updated_at": 1609495336360,
   "retweeted_status": {
     "created_at": "Tue Dec 29 14:14:10 +0000 2020",
-    "id": 1343923267019698200,
     "id_str": "1343923267019698177",
     "full_text": "Paid in Bitcoin. https://t.co/Ey6oOcmLjA",
-    "truncated": false,
     "display_text_range": [
       0,
       16
@@ -142,91 +79,18 @@
         }
       ]
     },
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
     "user": {
-      "id": 135180235,
-      "id_str": "135180235",
       "name": "russ",
       "screen_name": "RussellOkung",
-      "location": "Homestead",
-      "description": "life, liberty, and #bitcoin",
-      "url": "https://t.co/J3vAxcwEls",
-      "entities": {
-        "url": {
-          "urls": [
-            {
-              "url": "https://t.co/J3vAxcwEls",
-              "expanded_url": "https://use.foldapp.com/r/BITCOINIS",
-              "display_url": "use.foldapp.com/r/BITCOINIS",
-              "indices": [
-                0,
-                23
-              ]
-            }
-          ]
-        },
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 205817,
-      "friends_count": 653,
-      "listed_count": 1576,
-      "created_at": "Tue Apr 20 15:18:31 +0000 2010",
-      "favourites_count": 11487,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": false,
-      "verified": true,
-      "statuses_count": 7168,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "C0DEED",
-      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1290923442468990977/coEa4mMG_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1290923442468990977/coEa4mMG_normal.jpg",
-      "profile_banner_url": "https://pbs.twimg.com/profile_banners/135180235/1587209393",
-      "profile_link_color": "1DA1F2",
-      "profile_sidebar_border_color": "C0DEED",
-      "profile_sidebar_fill_color": "DDEEF6",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": false,
-      "default_profile": true,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none"
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1290923442468990977/coEa4mMG_normal.jpg"
     },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 1128149326943834100,
-    "quoted_status_id_str": "1128149326943834113",
-    "quoted_status_permalink": {
-      "url": "https://t.co/Ey6oOcmLjA",
-      "expanded": "https://twitter.com/russellokung/status/1128149326943834113",
-      "display": "twitter.com/russellokung/s…"
-    },
+    "retweet_count": 400,
+    "favorite_count": 3341,
+    "possibly_sensitive": false,
     "quoted_status": {
       "created_at": "Tue May 14 04:05:34 +0000 2019",
-      "id": 1128149326943834100,
       "id_str": "1128149326943834113",
       "full_text": "Pay me in Bitcoin.",
-      "truncated": false,
       "display_text_range": [
         0,
         18
@@ -237,117 +101,13 @@
         "user_mentions": [],
         "urls": []
       },
-      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-      "in_reply_to_status_id": null,
-      "in_reply_to_status_id_str": null,
-      "in_reply_to_user_id": null,
-      "in_reply_to_user_id_str": null,
-      "in_reply_to_screen_name": null,
       "user": {
-        "id": 135180235,
-        "id_str": "135180235",
         "name": "russ",
         "screen_name": "RussellOkung",
-        "location": "Homestead",
-        "description": "life, liberty, and #bitcoin",
-        "url": "https://t.co/J3vAxcwEls",
-        "entities": {
-          "url": {
-            "urls": [
-              {
-                "url": "https://t.co/J3vAxcwEls",
-                "expanded_url": "https://use.foldapp.com/r/BITCOINIS",
-                "display_url": "use.foldapp.com/r/BITCOINIS",
-                "indices": [
-                  0,
-                  23
-                ]
-              }
-            ]
-          },
-          "description": {
-            "urls": []
-          }
-        },
-        "protected": false,
-        "followers_count": 205817,
-        "friends_count": 653,
-        "listed_count": 1576,
-        "created_at": "Tue Apr 20 15:18:31 +0000 2010",
-        "favourites_count": 11487,
-        "utc_offset": null,
-        "time_zone": null,
-        "geo_enabled": false,
-        "verified": true,
-        "statuses_count": 7168,
-        "lang": null,
-        "contributors_enabled": false,
-        "is_translator": false,
-        "is_translation_enabled": false,
-        "profile_background_color": "C0DEED",
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_tile": false,
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1290923442468990977/coEa4mMG_normal.jpg",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1290923442468990977/coEa4mMG_normal.jpg",
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/135180235/1587209393",
-        "profile_link_color": "1DA1F2",
-        "profile_sidebar_border_color": "C0DEED",
-        "profile_sidebar_fill_color": "DDEEF6",
-        "profile_text_color": "333333",
-        "profile_use_background_image": true,
-        "has_extended_profile": false,
-        "default_profile": true,
-        "default_profile_image": false,
-        "following": false,
-        "follow_request_sent": false,
-        "notifications": false,
-        "translator_type": "none"
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1290923442468990977/coEa4mMG_normal.jpg"
       },
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
       "retweet_count": 1226,
-      "favorite_count": 7277,
-      "favorited": false,
-      "retweeted": false,
-      "lang": "en"
-    },
-    "retweet_count": 400,
-    "favorite_count": 3341,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
-  },
-  "is_quote_status": true,
-  "quoted_status_id": 1128149326943834100,
-  "quoted_status_id_str": "1128149326943834113",
-  "quoted_status_permalink": {
-    "url": "https://t.co/Ey6oOcmLjA",
-    "expanded": "https://twitter.com/russellokung/status/1128149326943834113",
-    "display": "twitter.com/russellokung/s…"
-  },
-  "retweet_count": 4966,
-  "favorite_count": 0,
-  "favorited": false,
-  "retweeted": false,
-  "possibly_sensitive": false,
-  "lang": "en",
-  "original_created_at": "Tue Dec 29 14:44:31 +0000 2020",
-  "localize": [
-    {
-      "locale": "zh",
-      "full_text": "rt@RussellOkung：比特币支付。https://t.co/Ey6oOcmLjA",
-      "retweeted_status_full_text": "用比特币支付。https://t.co/Ey6oOcmLjA"
-    },
-    {
-      "locale": "zh-Hant",
-      "full_text": "rt@RussellOkung：比特幣支付。https://t.co/Ey6oOcmLjA",
-      "retweeted_status_full_text": "用比特幣支付。https://t.co/Ey6oOcmLjA"
+      "favorite_count": 7277
     }
-  ],
-  "source_updated_at": 1609495336360
+  }
 }

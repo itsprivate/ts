@@ -1,9 +1,7 @@
 {
   "created_at": "Sat Jan 30 9:40:49 +0000 2021",
-  "id": 1355444489423368200,
   "id_str": "1355444489423368194",
   "full_text": "🔴🟠 https://t.co/FSVTta84mc",
-  "truncated": false,
   "display_text_range": [
     0,
     2
@@ -52,150 +50,14 @@
       }
     ]
   },
-  "extended_entities": {
-    "media": [
-      {
-        "id": 1355444469030645800,
-        "id_str": "1355444469030645761",
-        "indices": [
-          3,
-          26
-        ],
-        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1355444469030645761/pu/img/aurENVwEyWQ07EIY.jpg",
-        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1355444469030645761/pu/img/aurENVwEyWQ07EIY.jpg",
-        "url": "https://t.co/FSVTta84mc",
-        "display_url": "pic.twitter.com/FSVTta84mc",
-        "expanded_url": "https://twitter.com/100trillionUSD/status/1355444489423368194/video/1",
-        "type": "video",
-        "sizes": {
-          "small": {
-            "w": 480,
-            "h": 480,
-            "resize": "fit"
-          },
-          "thumb": {
-            "w": 150,
-            "h": 150,
-            "resize": "crop"
-          },
-          "medium": {
-            "w": 480,
-            "h": 480,
-            "resize": "fit"
-          },
-          "large": {
-            "w": 480,
-            "h": 480,
-            "resize": "fit"
-          }
-        },
-        "video_info": {
-          "aspect_ratio": [
-            1,
-            1
-          ],
-          "duration_millis": 10600,
-          "variants": [
-            {
-              "bitrate": 432000,
-              "content_type": "video/mp4",
-              "url": "https://video.twimg.com/ext_tw_video/1355444469030645761/pu/vid/320x320/vfNkW1s7ZVZNknCh.mp4?tag=10"
-            },
-            {
-              "bitrate": 832000,
-              "content_type": "video/mp4",
-              "url": "https://video.twimg.com/ext_tw_video/1355444469030645761/pu/vid/480x480/OCDfo3CrS6Cj_F6o.mp4?tag=10"
-            },
-            {
-              "content_type": "application/x-mpegURL",
-              "url": "https://video.twimg.com/ext_tw_video/1355444469030645761/pu/pl/COxvTBLrfqupXEjA.m3u8?tag=10"
-            }
-          ]
-        },
-        "additional_media_info": {
-          "monetizable": false
-        }
-      }
-    ]
-  },
-  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
   "user": {
-    "id": 918804624303382500,
-    "id_str": "918804624303382528",
     "name": "PlanB",
     "screen_name": "100trillionUSD",
-    "location": "NOT FINANCIAL ADVICE",
-    "description": "#bitcoin\n1PRoNLcWHzM8DuKpGE4YM9hb1PjSEnWRpn",
-    "url": "https://t.co/5Y254ILwhC",
-    "entities": {
-      "url": {
-        "urls": [
-          {
-            "url": "https://t.co/5Y254ILwhC",
-            "expanded_url": "http://PlanBTC.com",
-            "display_url": "PlanBTC.com",
-            "indices": [
-              0,
-              23
-            ]
-          }
-        ]
-      },
-      "description": {
-        "urls": []
-      }
-    },
-    "protected": false,
-    "followers_count": 230698,
-    "friends_count": 205,
-    "listed_count": 3325,
-    "created_at": "Fri Oct 13 11:44:27 +0000 2017",
-    "favourites_count": 21854,
-    "utc_offset": null,
-    "time_zone": null,
-    "geo_enabled": false,
-    "verified": false,
-    "statuses_count": 6111,
-    "lang": null,
-    "contributors_enabled": false,
-    "is_translator": false,
-    "is_translation_enabled": false,
-    "profile_background_color": "F5F8FA",
-    "profile_background_image_url": null,
-    "profile_background_image_url_https": null,
-    "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1117537706584702982/lMHLne7O_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117537706584702982/lMHLne7O_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/918804624303382528/1601733353",
-    "profile_link_color": "1DA1F2",
-    "profile_sidebar_border_color": "C0DEED",
-    "profile_sidebar_fill_color": "DDEEF6",
-    "profile_text_color": "333333",
-    "profile_use_background_image": true,
-    "has_extended_profile": true,
-    "default_profile": true,
-    "default_profile_image": false,
-    "following": false,
-    "follow_request_sent": false,
-    "notifications": false,
-    "translator_type": "none"
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117537706584702982/lMHLne7O_normal.jpg"
   },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
-  "is_quote_status": false,
   "retweet_count": 250,
   "favorite_count": 3129,
-  "favorited": false,
-  "retweeted": false,
   "possibly_sensitive": false,
-  "lang": "und",
   "original_created_at": "Sat Jan 30 09:15:23 +0000 2021",
   "localize": [
     {

@@ -1,9 +1,7 @@
 {
   "created_at": "Thu Jan 28 17:48:12 +0000 2021",
-  "id": 1354845021778931700,
   "id_str": "1354845021778931720",
   "full_text": "RT @redditinvestors: A hero has filed a class action lawsuit against Robinhood! We salute you sir. https://t.co/m0ISixYtlI",
-  "truncated": false,
   "display_text_range": [
     0,
     122
@@ -67,127 +65,32 @@
       }
     ]
   },
-  "extended_entities": {
-    "media": [
-      {
-        "id": 1354844053767073800,
-        "id_str": "1354844053767073796",
-        "indices": [
-          99,
-          122
-        ],
-        "media_url": "http://pbs.twimg.com/media/Es1ffRbWMAQ2pa9.png",
-        "media_url_https": "https://pbs.twimg.com/media/Es1ffRbWMAQ2pa9.png",
-        "url": "https://t.co/m0ISixYtlI",
-        "display_url": "pic.twitter.com/m0ISixYtlI",
-        "expanded_url": "https://twitter.com/redditinvestors/status/1354844201721196547/photo/1",
-        "type": "photo",
-        "sizes": {
-          "medium": {
-            "w": 698,
-            "h": 543,
-            "resize": "fit"
-          },
-          "small": {
-            "w": 680,
-            "h": 529,
-            "resize": "fit"
-          },
-          "large": {
-            "w": 698,
-            "h": 543,
-            "resize": "fit"
-          },
-          "thumb": {
-            "w": 150,
-            "h": 150,
-            "resize": "crop"
-          }
-        },
-        "source_status_id": 1354844201721196500,
-        "source_status_id_str": "1354844201721196547",
-        "source_user_id": 1222987575369117700,
-        "source_user_id_str": "1222987575369117701"
-      }
-    ]
-  },
-  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
   "user": {
-    "id": 15079601,
-    "id_str": "15079601",
     "name": "The_Real_Fly",
     "screen_name": "The_Real_Fly",
-    "location": "United States",
-    "description": "Man of leisure. Sophisticate. Master Ace stock trader. Champion of Champions.",
-    "url": "https://t.co/LDd0DkVwH6",
-    "entities": {
-      "url": {
-        "urls": [
-          {
-            "url": "https://t.co/LDd0DkVwH6",
-            "expanded_url": "http://ibankcoin.com",
-            "display_url": "ibankcoin.com",
-            "indices": [
-              0,
-              23
-            ]
-          }
-        ]
-      },
-      "description": {
-        "urls": []
-      }
-    },
-    "protected": false,
-    "followers_count": 63912,
-    "friends_count": 324,
-    "listed_count": 2011,
-    "created_at": "Wed Jun 11 00:23:03 +0000 2008",
-    "favourites_count": 20682,
-    "utc_offset": null,
-    "time_zone": null,
-    "geo_enabled": false,
-    "verified": false,
-    "statuses_count": 155568,
-    "lang": null,
-    "contributors_enabled": false,
-    "is_translator": false,
-    "is_translation_enabled": false,
-    "profile_background_color": "FFFFFF",
-    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_tile": true,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1212283137855762432/_jRlhWr5_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1212283137855762432/_jRlhWr5_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/15079601/1489552662",
-    "profile_link_color": "FF691F",
-    "profile_sidebar_border_color": "000000",
-    "profile_sidebar_fill_color": "C0DFEC",
-    "profile_text_color": "333333",
-    "profile_use_background_image": true,
-    "has_extended_profile": false,
-    "default_profile": false,
-    "default_profile_image": false,
-    "following": false,
-    "follow_request_sent": false,
-    "notifications": false,
-    "translator_type": "none"
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1212283137855762432/_jRlhWr5_normal.jpg"
   },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
+  "retweet_count": 1109,
+  "favorite_count": 0,
+  "possibly_sensitive": false,
+  "original_created_at": "Thu Jan 28 17:33:19 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @redditinvestors: 一个英雄对Robinhood提起了集体诉讼！我们向您致敬，先生。https://t.co/m0ISixYtlI",
+      "retweeted_status_full_text": "一位英雄对Robinhood提起了集体诉讼！我们向你致敬，先生。我们向你致敬，先生。https://t.co/m0ISixYtlI"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @redditinvestors: 一個英雄對Robinhood提起了集體訴訟！我們向您致敬，先生。https://t.co/m0ISixYtlI",
+      "retweeted_status_full_text": "一位英雄對Robinhood提起了集體訴訟！我們向你致敬，先生。我們向你致敬，先生。https://t.co/m0ISixYtlI"
+    }
+  ],
+  "source_updated_at": 1612518568682,
   "retweeted_status": {
     "created_at": "Thu Jan 28 17:30:04 +0000 2021",
-    "id": 1354844201721196500,
     "id_str": "1354844201721196547",
     "full_text": "A hero has filed a class action lawsuit against Robinhood! We salute you sir. https://t.co/m0ISixYtlI",
-    "truncated": false,
     "display_text_range": [
       0,
       77
@@ -236,144 +139,13 @@
         }
       ]
     },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1354844053767073800,
-          "id_str": "1354844053767073796",
-          "indices": [
-            78,
-            101
-          ],
-          "media_url": "http://pbs.twimg.com/media/Es1ffRbWMAQ2pa9.png",
-          "media_url_https": "https://pbs.twimg.com/media/Es1ffRbWMAQ2pa9.png",
-          "url": "https://t.co/m0ISixYtlI",
-          "display_url": "pic.twitter.com/m0ISixYtlI",
-          "expanded_url": "https://twitter.com/redditinvestors/status/1354844201721196547/photo/1",
-          "type": "photo",
-          "sizes": {
-            "medium": {
-              "w": 698,
-              "h": 543,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 529,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 698,
-              "h": 543,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            }
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
     "user": {
-      "id": 1222987575369117700,
-      "id_str": "1222987575369117701",
       "name": "Reddit Investors",
       "screen_name": "redditinvestors",
-      "location": "The Internet ",
-      "description": "I track WallStreetBets. Sign up for our free newsletter. Not investment advice and not affiliated WSB or Reddit. My favorite financial site is @thestonkmarket1",
-      "url": "https://t.co/wyGE4477vF",
-      "entities": {
-        "url": {
-          "urls": [
-            {
-              "url": "https://t.co/wyGE4477vF",
-              "expanded_url": "https://redditinvestors.substack.com/",
-              "display_url": "redditinvestors.substack.com",
-              "indices": [
-                0,
-                23
-              ]
-            }
-          ]
-        },
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 93276,
-      "friends_count": 32,
-      "listed_count": 579,
-      "created_at": "Thu Jan 30 20:59:00 +0000 2020",
-      "favourites_count": 1390,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": false,
-      "verified": false,
-      "statuses_count": 378,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "F5F8FA",
-      "profile_background_image_url": null,
-      "profile_background_image_url_https": null,
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1353702010361704449/RVNVZpgP_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1353702010361704449/RVNVZpgP_normal.jpg",
-      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1222987575369117701/1611582752",
-      "profile_link_color": "1DA1F2",
-      "profile_sidebar_border_color": "C0DEED",
-      "profile_sidebar_fill_color": "DDEEF6",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": true,
-      "default_profile": true,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none"
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1353702010361704449/RVNVZpgP_normal.jpg"
     },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
     "retweet_count": 708,
     "favorite_count": 3526,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
-  },
-  "is_quote_status": false,
-  "retweet_count": 1109,
-  "favorite_count": 0,
-  "favorited": false,
-  "retweeted": false,
-  "possibly_sensitive": false,
-  "lang": "en",
-  "original_created_at": "Thu Jan 28 17:33:19 +0000 2021",
-  "localize": [
-    {
-      "locale": "zh",
-      "full_text": "RT @redditinvestors: 一个英雄对Robinhood提起了集体诉讼！我们向您致敬，先生。https://t.co/m0ISixYtlI",
-      "retweeted_status_full_text": "一位英雄对Robinhood提起了集体诉讼！我们向你致敬，先生。我们向你致敬，先生。https://t.co/m0ISixYtlI"
-    },
-    {
-      "locale": "zh-Hant",
-      "full_text": "RT @redditinvestors: 一個英雄對Robinhood提起了集體訴訟！我們向您致敬，先生。https://t.co/m0ISixYtlI",
-      "retweeted_status_full_text": "一位英雄對Robinhood提起了集體訴訟！我們向你致敬，先生。我們向你致敬，先生。https://t.co/m0ISixYtlI"
-    }
-  ],
-  "source_updated_at": 1612518568682
+    "possibly_sensitive": false
+  }
 }

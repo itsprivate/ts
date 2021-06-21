@@ -1,9 +1,7 @@
 {
   "created_at": "Thu Jan 21 19:35:23 +0000 2021",
-  "id": 1352236429053735000,
   "id_str": "1352236429053734914",
   "full_text": "RT @thebitcoinrabbi: Bitcoin: A Peer-to-Peer Electronic Cash System\n\nSatoshi Nakamoto \nsatoshin@gmx.com \nhttps://t.co/G8BUvnF9nT\n\nAbstract.…",
-  "truncated": false,
   "display_text_range": [
     0,
     140
@@ -35,93 +33,32 @@
       }
     ]
   },
-  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
   "user": {
-    "id": 918804624303382500,
-    "id_str": "918804624303382528",
     "name": "PlanB",
     "screen_name": "100trillionUSD",
-    "location": "NOT FINANCIAL ADVICE",
-    "description": "#bitcoin\n1PRoNLcWHzM8DuKpGE4YM9hb1PjSEnWRpn\nArticles and podcasts on https://t.co/5Y254ILwhC",
-    "url": "https://t.co/5Y254ILwhC",
-    "entities": {
-      "url": {
-        "urls": [
-          {
-            "url": "https://t.co/5Y254ILwhC",
-            "expanded_url": "http://PlanBTC.com",
-            "display_url": "PlanBTC.com",
-            "indices": [
-              0,
-              23
-            ]
-          }
-        ]
-      },
-      "description": {
-        "urls": [
-          {
-            "url": "https://t.co/5Y254ILwhC",
-            "expanded_url": "http://PlanBTC.com",
-            "display_url": "PlanBTC.com",
-            "indices": [
-              69,
-              92
-            ]
-          }
-        ]
-      }
-    },
-    "protected": false,
-    "followers_count": 220832,
-    "friends_count": 200,
-    "listed_count": 3207,
-    "created_at": "Fri Oct 13 11:44:27 +0000 2017",
-    "favourites_count": 21768,
-    "utc_offset": null,
-    "time_zone": null,
-    "geo_enabled": false,
-    "verified": false,
-    "statuses_count": 6065,
-    "lang": null,
-    "contributors_enabled": false,
-    "is_translator": false,
-    "is_translation_enabled": false,
-    "profile_background_color": "F5F8FA",
-    "profile_background_image_url": null,
-    "profile_background_image_url_https": null,
-    "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1117537706584702982/lMHLne7O_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117537706584702982/lMHLne7O_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/918804624303382528/1601733353",
-    "profile_link_color": "1DA1F2",
-    "profile_sidebar_border_color": "C0DEED",
-    "profile_sidebar_fill_color": "DDEEF6",
-    "profile_text_color": "333333",
-    "profile_use_background_image": true,
-    "has_extended_profile": true,
-    "default_profile": true,
-    "default_profile_image": false,
-    "following": false,
-    "follow_request_sent": false,
-    "notifications": false,
-    "translator_type": "none"
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117537706584702982/lMHLne7O_normal.jpg"
   },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
+  "retweet_count": 178,
+  "favorite_count": 0,
+  "possibly_sensitive": false,
+  "original_created_at": "Thu Jan 21 12:47:42 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @比特币拉比：比特币：一个点对点的电子现金系统。\n\nSatoshi Nakamoto \nsatoshin@gmx.com \nhttps://t.co/G8BUvnF9nT\n\n摘要....",
+      "retweeted_status_full_text": "比特币：点对点电子现金系统\n\n中本聪 \nsatoshin@gmx.com \nhttps://t.co/G8BUvnF9nT\n\n摘要。纯粹点对点版本的电子现金，可以让在线支付从一方直接发送到另一方，而不需要经过一个金融"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @比特幣拉比：比特幣：一個點對點的電子現金系統。\n\nSatoshi Nakamoto \nsatoshin@gmx.com \nhttps://t.co/G8BUvnF9nT\n\n摘要....",
+      "retweeted_status_full_text": "比特幣：點對點電子現金系統\n\n中本聰 \nsatoshin@gmx.com \nhttps://t.co/G8BUvnF9nT\n\n摘要。純粹點對點版本的電子現金，可以讓在線支付從一方直接發送到另一方，而不需要經過一個金融"
+    }
+  ],
+  "source_updated_at": 1611311231240,
   "retweeted_status": {
     "created_at": "Thu Jan 21 12:45:02 +0000 2021",
-    "id": 1352235756505473000,
     "id_str": "1352235756505473024",
     "full_text": "Bitcoin: A Peer-to-Peer Electronic Cash System\n\nSatoshi Nakamoto \nsatoshin@gmx.com \nhttps://t.co/G8BUvnF9nT\n\nAbstract. A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial",
-    "truncated": false,
     "display_text_range": [
       0,
       275
@@ -142,114 +79,13 @@
         }
       ]
     },
-    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
     "user": {
-      "id": 1057282882501308400,
-      "id_str": "1057282882501308416",
       "name": "The Whitepaper Rabbi",
       "screen_name": "thebitcoinrabbi",
-      "location": "",
-      "description": "Torah Maximalist. #Bitcoin & Judaism. Bitcoin Money book at https://t.co/wY6lf67x8J",
-      "url": "https://t.co/wY6lf67x8J",
-      "entities": {
-        "url": {
-          "urls": [
-            {
-              "url": "https://t.co/wY6lf67x8J",
-              "expanded_url": "http://bitcoinmoneybook.com",
-              "display_url": "bitcoinmoneybook.com",
-              "indices": [
-                0,
-                23
-              ]
-            }
-          ]
-        },
-        "description": {
-          "urls": [
-            {
-              "url": "https://t.co/wY6lf67x8J",
-              "expanded_url": "http://bitcoinmoneybook.com",
-              "display_url": "bitcoinmoneybook.com",
-              "indices": [
-                60,
-                83
-              ]
-            }
-          ]
-        }
-      },
-      "protected": false,
-      "followers_count": 12734,
-      "friends_count": 1386,
-      "listed_count": 230,
-      "created_at": "Tue Oct 30 14:47:37 +0000 2018",
-      "favourites_count": 40612,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": true,
-      "verified": false,
-      "statuses_count": 14200,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "F5F8FA",
-      "profile_background_image_url": null,
-      "profile_background_image_url_https": null,
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1352304800789123075/p9m-Sqa1_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1352304800789123075/p9m-Sqa1_normal.jpg",
-      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1057282882501308416/1553046487",
-      "profile_link_color": "1DA1F2",
-      "profile_sidebar_border_color": "C0DEED",
-      "profile_sidebar_fill_color": "DDEEF6",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": true,
-      "default_profile": true,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none"
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1352304800789123075/p9m-Sqa1_normal.jpg"
     },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
     "retweet_count": 154,
     "favorite_count": 599,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
-  },
-  "is_quote_status": false,
-  "retweet_count": 178,
-  "favorite_count": 0,
-  "favorited": false,
-  "retweeted": false,
-  "possibly_sensitive": false,
-  "lang": "en",
-  "original_created_at": "Thu Jan 21 12:47:42 +0000 2021",
-  "localize": [
-    {
-      "locale": "zh",
-      "full_text": "RT @比特币拉比：比特币：一个点对点的电子现金系统。\n\nSatoshi Nakamoto \nsatoshin@gmx.com \nhttps://t.co/G8BUvnF9nT\n\n摘要....",
-      "retweeted_status_full_text": "比特币：点对点电子现金系统\n\n中本聪 \nsatoshin@gmx.com \nhttps://t.co/G8BUvnF9nT\n\n摘要。纯粹点对点版本的电子现金，可以让在线支付从一方直接发送到另一方，而不需要经过一个金融"
-    },
-    {
-      "locale": "zh-Hant",
-      "full_text": "RT @比特幣拉比：比特幣：一個點對點的電子現金系統。\n\nSatoshi Nakamoto \nsatoshin@gmx.com \nhttps://t.co/G8BUvnF9nT\n\n摘要....",
-      "retweeted_status_full_text": "比特幣：點對點電子現金系統\n\n中本聰 \nsatoshin@gmx.com \nhttps://t.co/G8BUvnF9nT\n\n摘要。純粹點對點版本的電子現金，可以讓在線支付從一方直接發送到另一方，而不需要經過一個金融"
-    }
-  ],
-  "source_updated_at": 1611311231240
+    "possibly_sensitive": false
+  }
 }

@@ -1,9 +1,7 @@
 {
   "created_at": "Sat Jan 16 13:22:22 +0000 2021",
-  "id": 1349217875161186300,
   "id_str": "1349217875161186304",
   "full_text": "RT @zerohedge: Someone is lying https://t.co/LC9K8OjCI8",
-  "truncated": false,
   "display_text_range": [
     0,
     55
@@ -67,127 +65,32 @@
       }
     ]
   },
-  "extended_entities": {
-    "media": [
-      {
-        "id": 1349132046061461500,
-        "id_str": "1349132046061461510",
-        "indices": [
-          32,
-          55
-        ],
-        "media_url": "http://pbs.twimg.com/media/ErkUcqiW4AYXR5Z.jpg",
-        "media_url_https": "https://pbs.twimg.com/media/ErkUcqiW4AYXR5Z.jpg",
-        "url": "https://t.co/LC9K8OjCI8",
-        "display_url": "pic.twitter.com/LC9K8OjCI8",
-        "expanded_url": "https://twitter.com/zerohedge/status/1349132051585359878/photo/1",
-        "type": "photo",
-        "sizes": {
-          "thumb": {
-            "w": 150,
-            "h": 150,
-            "resize": "crop"
-          },
-          "small": {
-            "w": 680,
-            "h": 580,
-            "resize": "fit"
-          },
-          "medium": {
-            "w": 749,
-            "h": 639,
-            "resize": "fit"
-          },
-          "large": {
-            "w": 749,
-            "h": 639,
-            "resize": "fit"
-          }
-        },
-        "source_status_id": 1349132051585360000,
-        "source_status_id_str": "1349132051585359878",
-        "source_user_id": 18856867,
-        "source_user_id_str": "18856867"
-      }
-    ]
-  },
-  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
   "user": {
-    "id": 15079601,
-    "id_str": "15079601",
     "name": "The_Real_Fly",
     "screen_name": "The_Real_Fly",
-    "location": "United States",
-    "description": "Man of leisure. Sophisticate. Master Ace stock trader. Champion of Champions.",
-    "url": "https://t.co/LDd0DkVwH6",
-    "entities": {
-      "url": {
-        "urls": [
-          {
-            "url": "https://t.co/LDd0DkVwH6",
-            "expanded_url": "http://ibankcoin.com",
-            "display_url": "ibankcoin.com",
-            "indices": [
-              0,
-              23
-            ]
-          }
-        ]
-      },
-      "description": {
-        "urls": []
-      }
-    },
-    "protected": false,
-    "followers_count": 62991,
-    "friends_count": 329,
-    "listed_count": 1985,
-    "created_at": "Wed Jun 11 00:23:03 +0000 2008",
-    "favourites_count": 20533,
-    "utc_offset": null,
-    "time_zone": null,
-    "geo_enabled": false,
-    "verified": false,
-    "statuses_count": 155054,
-    "lang": null,
-    "contributors_enabled": false,
-    "is_translator": false,
-    "is_translation_enabled": false,
-    "profile_background_color": "FFFFFF",
-    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_tile": true,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1212283137855762432/_jRlhWr5_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1212283137855762432/_jRlhWr5_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/15079601/1489552662",
-    "profile_link_color": "FF691F",
-    "profile_sidebar_border_color": "000000",
-    "profile_sidebar_fill_color": "C0DFEC",
-    "profile_text_color": "333333",
-    "profile_use_background_image": true,
-    "has_extended_profile": false,
-    "default_profile": false,
-    "default_profile_image": false,
-    "following": false,
-    "follow_request_sent": false,
-    "notifications": false,
-    "translator_type": "none"
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1212283137855762432/_jRlhWr5_normal.jpg"
   },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
+  "retweet_count": 1777,
+  "favorite_count": 0,
+  "possibly_sensitive": false,
+  "original_created_at": "Wed Jan 13 04:53:03 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @zerohedge: 有人在说谎 https://t.co/LC9K8OjCI8",
+      "retweeted_status_full_text": "有人在撒谎https://t.co/LC9K8OjCI8"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @zerohedge: 有人在說謊 https://t.co/LC9K8OjCI8",
+      "retweeted_status_full_text": "有人在撒謊https://t.co/LC9K8OjCI8"
+    }
+  ],
+  "source_updated_at": 1611311231102,
   "retweeted_status": {
     "created_at": "Tue Jan 12 23:12:01 +0000 2021",
-    "id": 1349132051585360000,
     "id_str": "1349132051585359878",
     "full_text": "Someone is lying https://t.co/LC9K8OjCI8",
-    "truncated": false,
     "display_text_range": [
       0,
       16
@@ -236,143 +139,13 @@
         }
       ]
     },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1349132046061461500,
-          "id_str": "1349132046061461510",
-          "indices": [
-            17,
-            40
-          ],
-          "media_url": "http://pbs.twimg.com/media/ErkUcqiW4AYXR5Z.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/ErkUcqiW4AYXR5Z.jpg",
-          "url": "https://t.co/LC9K8OjCI8",
-          "display_url": "pic.twitter.com/LC9K8OjCI8",
-          "expanded_url": "https://twitter.com/zerohedge/status/1349132051585359878/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 680,
-              "h": 580,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 749,
-              "h": 639,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 749,
-              "h": 639,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
     "user": {
-      "id": 18856867,
-      "id_str": "18856867",
       "name": "zerohedge",
       "screen_name": "zerohedge",
-      "location": "",
-      "description": "",
-      "url": "http://t.co/VnB2R3phwV",
-      "entities": {
-        "url": {
-          "urls": [
-            {
-              "url": "http://t.co/VnB2R3phwV",
-              "expanded_url": "http://www.zerohedge.com",
-              "display_url": "zerohedge.com",
-              "indices": [
-                0,
-                22
-              ]
-            }
-          ]
-        },
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 831461,
-      "friends_count": 779,
-      "listed_count": 18467,
-      "created_at": "Sun Jan 11 04:08:58 +0000 2009",
-      "favourites_count": 13,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": false,
-      "verified": false,
-      "statuses_count": 412969,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "C0DEED",
-      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/72647502/tyler_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/72647502/tyler_normal.jpg",
-      "profile_link_color": "1DA1F2",
-      "profile_sidebar_border_color": "C0DEED",
-      "profile_sidebar_fill_color": "DDEEF6",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": false,
-      "default_profile": true,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "regular"
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/72647502/tyler_normal.jpg"
     },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
     "retweet_count": 1830,
     "favorite_count": 5126,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
-  },
-  "is_quote_status": false,
-  "retweet_count": 1777,
-  "favorite_count": 0,
-  "favorited": false,
-  "retweeted": false,
-  "possibly_sensitive": false,
-  "lang": "en",
-  "original_created_at": "Wed Jan 13 04:53:03 +0000 2021",
-  "localize": [
-    {
-      "locale": "zh",
-      "full_text": "RT @zerohedge: 有人在说谎 https://t.co/LC9K8OjCI8",
-      "retweeted_status_full_text": "有人在撒谎https://t.co/LC9K8OjCI8"
-    },
-    {
-      "locale": "zh-Hant",
-      "full_text": "RT @zerohedge: 有人在說謊 https://t.co/LC9K8OjCI8",
-      "retweeted_status_full_text": "有人在撒謊https://t.co/LC9K8OjCI8"
-    }
-  ],
-  "source_updated_at": 1611311231102
+    "possibly_sensitive": false
+  }
 }

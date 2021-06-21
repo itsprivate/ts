@@ -1,9 +1,7 @@
 {
   "created_at": "Sat Feb 20 9:42:8 +0000 2021",
-  "id": 1363053047841239000,
   "id_str": "1363053047841239041",
   "full_text": "#bitcoin reached the $55k target that I predicted in March 2019: https://t.co/n5P5uMCKHT\n$55k feels very natural and even low now, but back in early 2019 people laughed at Joe for just mentioning the possibility of $55k btc: https://t.co/hB1yYhuE6p",
-  "truncated": false,
   "display_text_range": [
     0,
     224
@@ -41,91 +39,32 @@
       }
     ]
   },
-  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
   "user": {
-    "id": 918804624303382500,
-    "id_str": "918804624303382528",
     "name": "PlanB",
     "screen_name": "100trillionUSD",
-    "location": "NOT FINANCIAL ADVICE",
-    "description": "#bitcoin\n1PRoNLcWHzM8DuKpGE4YM9hb1PjSEnWRpn",
-    "url": "https://t.co/5Y254ILwhC",
-    "entities": {
-      "url": {
-        "urls": [
-          {
-            "url": "https://t.co/5Y254ILwhC",
-            "expanded_url": "http://PlanBTC.com",
-            "display_url": "PlanBTC.com",
-            "indices": [
-              0,
-              23
-            ]
-          }
-        ]
-      },
-      "description": {
-        "urls": []
-      }
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1362766555684229129/kQYA5vQj_normal.jpg"
+  },
+  "retweet_count": 648,
+  "favorite_count": 4374,
+  "possibly_sensitive": false,
+  "original_created_at": "Sat Feb 20 09:09:05 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "#比特币达到了我在2019年3月预测的5.5万美元目标：https://t.co/n5P5uMCKHT。\n5.5万美元现在感觉非常自然，甚至很低，但早在2019年初，人们就嘲笑Joe只是提到了5.5万美元btc的可能性：https://t.co/hB1yYhuE6p。",
+      "quoted_status_full_text": "2020年5月，比特币会达到5.5万美元吗？@JoeSquawk与@StocktonKatie讨论#btchttps://t.co/r1b5rNhX1s。"
     },
-    "protected": false,
-    "followers_count": 274501,
-    "friends_count": 202,
-    "listed_count": 3855,
-    "created_at": "Fri Oct 13 11:44:27 +0000 2017",
-    "favourites_count": 21990,
-    "utc_offset": null,
-    "time_zone": null,
-    "geo_enabled": false,
-    "verified": false,
-    "statuses_count": 6285,
-    "lang": null,
-    "contributors_enabled": false,
-    "is_translator": false,
-    "is_translation_enabled": false,
-    "profile_background_color": "F5F8FA",
-    "profile_background_image_url": null,
-    "profile_background_image_url_https": null,
-    "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1362766555684229129/kQYA5vQj_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1362766555684229129/kQYA5vQj_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/918804624303382528/1601733353",
-    "profile_link_color": "1DA1F2",
-    "profile_sidebar_border_color": "C0DEED",
-    "profile_sidebar_fill_color": "DDEEF6",
-    "profile_text_color": "333333",
-    "profile_use_background_image": true,
-    "has_extended_profile": true,
-    "default_profile": true,
-    "default_profile_image": false,
-    "following": false,
-    "follow_request_sent": false,
-    "notifications": false,
-    "translator_type": "none"
-  },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
-  "is_quote_status": true,
-  "quoted_status_id": 1155834727376416800,
-  "quoted_status_id_str": "1155834727376416771",
-  "quoted_status_permalink": {
-    "url": "https://t.co/hB1yYhuE6p",
-    "expanded": "https://twitter.com/SquawkCNBC/status/1155834727376416771",
-    "display": "twitter.com/SquawkCNBC/sta…"
-  },
+    {
+      "locale": "zh-Hant",
+      "full_text": "#比特幣達到了我在2019年3月預測的5.5萬美元目標：https://t.co/n5P5uMCKHT。\n5.5萬美元現在感覺非常自然，甚至很低，但早在2019年初，人們就嘲笑Joe只是提到了5.5萬美元btc的可能性：https://t.co/hB1yYhuE6p。",
+      "quoted_status_full_text": "2020年5月，比特幣會達到5.5萬美元嗎？@JoeSquawk與@StocktonKatie討論#btchttps://t.co/r1b5rNhX1s。"
+    }
+  ],
+  "source_updated_at": 1614332903836,
   "quoted_status": {
     "created_at": "Mon Jul 29 13:37:28 +0000 2019",
-    "id": 1155834727376416800,
     "id_str": "1155834727376416771",
     "full_text": "Will bitcoin reach $55k by May 2020? @JoeSquawk discusses #btc with @StocktonKatie https://t.co/r1b5rNhX1s",
-    "truncated": false,
     "display_text_range": [
       0,
       82
@@ -203,175 +142,13 @@
         }
       ]
     },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1155834524162580500,
-          "id_str": "1155834524162580480",
-          "indices": [
-            83,
-            106
-          ],
-          "media_url": "http://pbs.twimg.com/media/EApZjleXsAA27c2.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/EApZjleXsAA27c2.jpg",
-          "url": "https://t.co/r1b5rNhX1s",
-          "display_url": "pic.twitter.com/r1b5rNhX1s",
-          "expanded_url": "https://twitter.com/SquawkCNBC/status/1155834727376416771/video/1",
-          "type": "video",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1920,
-              "h": 1080,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 675,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 383,
-              "resize": "fit"
-            }
-          },
-          "video_info": {
-            "aspect_ratio": [
-              16,
-              9
-            ],
-            "duration_millis": 79580,
-            "variants": [
-              {
-                "content_type": "application/x-mpegURL",
-                "url": "https://video.twimg.com/amplify_video/1155834524162580480/pl/IJnhruKwZ048NalP.m3u8?tag=13"
-              },
-              {
-                "bitrate": 2176000,
-                "content_type": "video/mp4",
-                "url": "https://video.twimg.com/amplify_video/1155834524162580480/vid/1280x720/jW9nNNuWDMQ8ffKN.mp4?tag=13"
-              },
-              {
-                "bitrate": 288000,
-                "content_type": "video/mp4",
-                "url": "https://video.twimg.com/amplify_video/1155834524162580480/vid/480x270/UPaSrnriK0w2PZHq.mp4?tag=13"
-              },
-              {
-                "bitrate": 832000,
-                "content_type": "video/mp4",
-                "url": "https://video.twimg.com/amplify_video/1155834524162580480/vid/640x360/2V4v1EtMbGIpa2hw.mp4?tag=13"
-              }
-            ]
-          },
-          "additional_media_info": {
-            "embeddable": true,
-            "monetizable": false
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://wildmoka.com\" rel=\"nofollow\">Wildmoka</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
     "user": {
-      "id": 404422077,
-      "id_str": "404422077",
       "name": "Squawk Box",
       "screen_name": "SquawkCNBC",
-      "location": "New York, NY",
-      "description": "Start your morning with Joe Kernen, Becky Quick, and Andrew Ross Sorkin - Monday through Friday from 6-9a ET.",
-      "url": "http://t.co/AMPUczhT7a",
-      "entities": {
-        "url": {
-          "urls": [
-            {
-              "url": "http://t.co/AMPUczhT7a",
-              "expanded_url": "http://squawkbox.cnbc.com",
-              "display_url": "squawkbox.cnbc.com",
-              "indices": [
-                0,
-                22
-              ]
-            }
-          ]
-        },
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 286168,
-      "friends_count": 845,
-      "listed_count": 3619,
-      "created_at": "Thu Nov 03 22:17:10 +0000 2011",
-      "favourites_count": 1907,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": true,
-      "verified": true,
-      "statuses_count": 27529,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "000000",
-      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1197996990644310018/jBN0g0AI_normal.png",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1197996990644310018/jBN0g0AI_normal.png",
-      "profile_banner_url": "https://pbs.twimg.com/profile_banners/404422077/1574459715",
-      "profile_link_color": "3473A3",
-      "profile_sidebar_border_color": "FFFFFF",
-      "profile_sidebar_fill_color": "E3E3E3",
-      "profile_text_color": "5E5E5E",
-      "profile_use_background_image": true,
-      "has_extended_profile": false,
-      "default_profile": false,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none"
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1197996990644310018/jBN0g0AI_normal.png"
     },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
     "retweet_count": 498,
     "favorite_count": 2293,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
-  },
-  "retweet_count": 648,
-  "favorite_count": 4374,
-  "favorited": false,
-  "retweeted": false,
-  "possibly_sensitive": false,
-  "lang": "en",
-  "original_created_at": "Sat Feb 20 09:09:05 +0000 2021",
-  "localize": [
-    {
-      "locale": "zh",
-      "full_text": "#比特币达到了我在2019年3月预测的5.5万美元目标：https://t.co/n5P5uMCKHT。\n5.5万美元现在感觉非常自然，甚至很低，但早在2019年初，人们就嘲笑Joe只是提到了5.5万美元btc的可能性：https://t.co/hB1yYhuE6p。",
-      "quoted_status_full_text": "2020年5月，比特币会达到5.5万美元吗？@JoeSquawk与@StocktonKatie讨论#btchttps://t.co/r1b5rNhX1s。"
-    },
-    {
-      "locale": "zh-Hant",
-      "full_text": "#比特幣達到了我在2019年3月預測的5.5萬美元目標：https://t.co/n5P5uMCKHT。\n5.5萬美元現在感覺非常自然，甚至很低，但早在2019年初，人們就嘲笑Joe只是提到了5.5萬美元btc的可能性：https://t.co/hB1yYhuE6p。",
-      "quoted_status_full_text": "2020年5月，比特幣會達到5.5萬美元嗎？@JoeSquawk與@StocktonKatie討論#btchttps://t.co/r1b5rNhX1s。"
-    }
-  ],
-  "source_updated_at": 1614332903836
+    "possibly_sensitive": false
+  }
 }

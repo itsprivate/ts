@@ -8,6 +8,8 @@ on:
         retries: 3
     config:
       format: |
+        const format = require(`${process.env.GITHUB_WORKSPACE}/scripts/format.js`)
+        item = format("hn",item)
         item.original_created_at = item.created_at;
         item.created_at = new Date().toISOString()
         return item

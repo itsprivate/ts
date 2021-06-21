@@ -1,9 +1,7 @@
 {
   "created_at": "Fri Jan 22 19:33:55 +0000 2021",
-  "id": 1352682127335297000,
   "id_str": "1352682127335297025",
   "full_text": "RT @bitstein: “And then we put out some FUD about a double spend that never actually happened” https://t.co/kGiqDEdMUK",
-  "truncated": false,
   "display_text_range": [
     0,
     118
@@ -67,137 +65,31 @@
       }
     ]
   },
-  "extended_entities": {
-    "media": [
-      {
-        "id": 1352423987402313700,
-        "id_str": "1352423987402313729",
-        "indices": [
-          95,
-          118
-        ],
-        "media_url": "http://pbs.twimg.com/media/EsTGc3rVEAEfGkA.jpg",
-        "media_url_https": "https://pbs.twimg.com/media/EsTGc3rVEAEfGkA.jpg",
-        "url": "https://t.co/kGiqDEdMUK",
-        "display_url": "pic.twitter.com/kGiqDEdMUK",
-        "expanded_url": "https://twitter.com/bitstein/status/1352423991114403841/photo/1",
-        "type": "photo",
-        "sizes": {
-          "thumb": {
-            "w": 150,
-            "h": 150,
-            "resize": "crop"
-          },
-          "large": {
-            "w": 500,
-            "h": 393,
-            "resize": "fit"
-          },
-          "small": {
-            "w": 500,
-            "h": 393,
-            "resize": "fit"
-          },
-          "medium": {
-            "w": 500,
-            "h": 393,
-            "resize": "fit"
-          }
-        },
-        "source_status_id": 1352423991114403800,
-        "source_status_id_str": "1352423991114403841",
-        "source_user_id": 820282353436201000,
-        "source_user_id_str": "820282353436200960"
-      }
-    ]
-  },
-  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
   "user": {
-    "id": 918804624303382500,
-    "id_str": "918804624303382528",
     "name": "PlanB",
     "screen_name": "100trillionUSD",
-    "location": "NOT FINANCIAL ADVICE",
-    "description": "#bitcoin\n1PRoNLcWHzM8DuKpGE4YM9hb1PjSEnWRpn\nArticles and podcasts on https://t.co/5Y254ILwhC",
-    "url": "https://t.co/5Y254ILwhC",
-    "entities": {
-      "url": {
-        "urls": [
-          {
-            "url": "https://t.co/5Y254ILwhC",
-            "expanded_url": "http://PlanBTC.com",
-            "display_url": "PlanBTC.com",
-            "indices": [
-              0,
-              23
-            ]
-          }
-        ]
-      },
-      "description": {
-        "urls": [
-          {
-            "url": "https://t.co/5Y254ILwhC",
-            "expanded_url": "http://PlanBTC.com",
-            "display_url": "PlanBTC.com",
-            "indices": [
-              69,
-              92
-            ]
-          }
-        ]
-      }
-    },
-    "protected": false,
-    "followers_count": 222710,
-    "friends_count": 200,
-    "listed_count": 3243,
-    "created_at": "Fri Oct 13 11:44:27 +0000 2017",
-    "favourites_count": 21786,
-    "utc_offset": null,
-    "time_zone": null,
-    "geo_enabled": false,
-    "verified": false,
-    "statuses_count": 6073,
-    "lang": null,
-    "contributors_enabled": false,
-    "is_translator": false,
-    "is_translation_enabled": false,
-    "profile_background_color": "F5F8FA",
-    "profile_background_image_url": null,
-    "profile_background_image_url_https": null,
-    "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1117537706584702982/lMHLne7O_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117537706584702982/lMHLne7O_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/918804624303382528/1601733353",
-    "profile_link_color": "1DA1F2",
-    "profile_sidebar_border_color": "C0DEED",
-    "profile_sidebar_fill_color": "DDEEF6",
-    "profile_text_color": "333333",
-    "profile_use_background_image": true,
-    "has_extended_profile": true,
-    "default_profile": true,
-    "default_profile_image": false,
-    "following": false,
-    "follow_request_sent": false,
-    "notifications": false,
-    "translator_type": "none"
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117537706584702982/lMHLne7O_normal.jpg"
   },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
+  "retweet_count": 227,
+  "favorite_count": 0,
+  "possibly_sensitive": false,
+  "original_created_at": "Fri Jan 22 18:18:45 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @bitstein: \"然后我们就发布了一些关于双倍支出的FUD，但实际上从未发生过\" https://t.co/kGiqDEdMUK。",
+      "retweeted_status_full_text": "\"然后我们放出了一些关于从未实际发生过的双重支出的FUD\" https://t.co/kGiqDEdMUK"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @bitstein: \"然後我們就發佈了一些關於雙倍支出的FUD，但實際上從未發生過\" https://t.co/kGiqDEdMUK。",
+      "retweeted_status_full_text": "\"然後我們放出了一些關於從未實際發生過的雙重支出的FUD\" https://t.co/kGiqDEdMUK"
+    }
+  ],
   "retweeted_status": {
     "created_at": "Fri Jan 22 01:13:00 +0000 2021",
-    "id": 1352423991114403800,
     "id_str": "1352423991114403841",
     "full_text": "“And then we put out some FUD about a double spend that never actually happened” https://t.co/kGiqDEdMUK",
-    "truncated": false,
     "display_text_range": [
       0,
       80
@@ -246,143 +138,13 @@
         }
       ]
     },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1352423987402313700,
-          "id_str": "1352423987402313729",
-          "indices": [
-            81,
-            104
-          ],
-          "media_url": "http://pbs.twimg.com/media/EsTGc3rVEAEfGkA.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/EsTGc3rVEAEfGkA.jpg",
-          "url": "https://t.co/kGiqDEdMUK",
-          "display_url": "pic.twitter.com/kGiqDEdMUK",
-          "expanded_url": "https://twitter.com/bitstein/status/1352423991114403841/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 500,
-              "h": 393,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 500,
-              "h": 393,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 500,
-              "h": 393,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
     "user": {
-      "id": 820282353436201000,
-      "id_str": "820282353436200960",
       "name": "Michael Goldstein",
       "screen_name": "bitstein",
-      "location": "Port 8333",
-      "description": "\"Every nation, whether rich or poor, powerful or feeble, can at any hour adopt the #Bitcoin standard.\" - Ludwig von Mises",
-      "url": "https://t.co/Y6notmTIY9",
-      "entities": {
-        "url": {
-          "urls": [
-            {
-              "url": "https://t.co/Y6notmTIY9",
-              "expanded_url": "https://www.bitstein.org",
-              "display_url": "bitstein.org",
-              "indices": [
-                0,
-                23
-              ]
-            }
-          ]
-        },
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 49820,
-      "friends_count": 1601,
-      "listed_count": 1310,
-      "created_at": "Sat Jan 14 14:52:08 +0000 2017",
-      "favourites_count": 45158,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": false,
-      "verified": false,
-      "statuses_count": 20358,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "F5F8FA",
-      "profile_background_image_url": null,
-      "profile_background_image_url_https": null,
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1149887149183000577/f1UWeILj_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1149887149183000577/f1UWeILj_normal.jpg",
-      "profile_banner_url": "https://pbs.twimg.com/profile_banners/820282353436200960/1484408682",
-      "profile_link_color": "1DA1F2",
-      "profile_sidebar_border_color": "C0DEED",
-      "profile_sidebar_fill_color": "DDEEF6",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": false,
-      "default_profile": true,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none"
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1149887149183000577/f1UWeILj_normal.jpg"
     },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
     "retweet_count": 227,
     "favorite_count": 1412,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
-  },
-  "is_quote_status": false,
-  "retweet_count": 227,
-  "favorite_count": 0,
-  "favorited": false,
-  "retweeted": false,
-  "possibly_sensitive": false,
-  "lang": "en",
-  "original_created_at": "Fri Jan 22 18:18:45 +0000 2021",
-  "localize": [
-    {
-      "locale": "zh",
-      "full_text": "RT @bitstein: \"然后我们就发布了一些关于双倍支出的FUD，但实际上从未发生过\" https://t.co/kGiqDEdMUK。",
-      "retweeted_status_full_text": "\"然后我们放出了一些关于从未实际发生过的双重支出的FUD\" https://t.co/kGiqDEdMUK"
-    },
-    {
-      "locale": "zh-Hant",
-      "full_text": "RT @bitstein: \"然後我們就發佈了一些關於雙倍支出的FUD，但實際上從未發生過\" https://t.co/kGiqDEdMUK。",
-      "retweeted_status_full_text": "\"然後我們放出了一些關於從未實際發生過的雙重支出的FUD\" https://t.co/kGiqDEdMUK"
-    }
-  ]
+    "possibly_sensitive": false
+  }
 }

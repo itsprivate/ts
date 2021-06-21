@@ -1,9 +1,7 @@
 {
   "created_at": "Thu Dec 24 7:35:20 +0000 2020",
-  "id": 1337681539820302300,
   "id_str": "1337681539820302336",
   "full_text": "\"It might make sense just to get some [#bitcoin] in case it catches on. If enough people [and companies] think the same way, that becomes a self fulfilling prophecy.\" - Satoshi Nakamoto https://t.co/6tlXNIUYgP",
-  "truncated": false,
   "display_text_range": [
     0,
     185
@@ -32,101 +30,32 @@
       }
     ]
   },
-  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
   "user": {
-    "id": 918804624303382500,
-    "id_str": "918804624303382528",
     "name": "PlanB",
     "screen_name": "100trillionUSD",
-    "location": "NOT FINANCIAL ADVICE",
-    "description": "#bitcoin\n1PRoNLcWHzM8DuKpGE4YM9hb1PjSEnWRpn\nArticles and podcasts on https://t.co/5Y254ILwhC",
-    "url": "https://t.co/5Y254ILwhC",
-    "entities": {
-      "url": {
-        "urls": [
-          {
-            "url": "https://t.co/5Y254ILwhC",
-            "expanded_url": "http://PlanBTC.com",
-            "display_url": "PlanBTC.com",
-            "indices": [
-              0,
-              23
-            ]
-          }
-        ]
-      },
-      "description": {
-        "urls": [
-          {
-            "url": "https://t.co/5Y254ILwhC",
-            "expanded_url": "http://PlanBTC.com",
-            "display_url": "PlanBTC.com",
-            "indices": [
-              69,
-              92
-            ]
-          }
-        ]
-      }
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117537706584702982/lMHLne7O_normal.jpg"
+  },
+  "retweet_count": 245,
+  "favorite_count": 1936,
+  "possibly_sensitive": false,
+  "original_created_at": "Sat Dec 12 08:51:46 +0000 2020",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "中本聪(Satoshi Nakamoto https://t.co/6tlXNIUYgP)表示：“如果有足够多的人(和公司)有同样的想法，那么购买一些(#比特币)可能是有意义的。如果有足够多的人(和公司)有同样的想法，那就会成为一个自我实现的预言。”--中本聪",
+      "quoted_status_full_text": "根据1940年的“投资公司法”，MicroStrategy并不是一家投资公司(IC)。IC是公司。这使≥将40%的资产(减去现金和政府证券)投资于“证券”。根据美国证券交易委员会(SEC)的说法，#BTC不是一种安全措施。因此，持有BTC并不会导致MicroStrategy成为IC。"
     },
-    "protected": false,
-    "followers_count": 178114,
-    "friends_count": 203,
-    "listed_count": 2633,
-    "created_at": "Fri Oct 13 11:44:27 +0000 2017",
-    "favourites_count": 21481,
-    "utc_offset": null,
-    "time_zone": null,
-    "geo_enabled": false,
-    "verified": false,
-    "statuses_count": 5871,
-    "lang": null,
-    "contributors_enabled": false,
-    "is_translator": false,
-    "is_translation_enabled": false,
-    "profile_background_color": "F5F8FA",
-    "profile_background_image_url": null,
-    "profile_background_image_url_https": null,
-    "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1117537706584702982/lMHLne7O_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117537706584702982/lMHLne7O_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/918804624303382528/1601733353",
-    "profile_link_color": "1DA1F2",
-    "profile_sidebar_border_color": "C0DEED",
-    "profile_sidebar_fill_color": "DDEEF6",
-    "profile_text_color": "333333",
-    "profile_use_background_image": true,
-    "has_extended_profile": true,
-    "default_profile": true,
-    "default_profile_image": false,
-    "following": false,
-    "follow_request_sent": false,
-    "notifications": false,
-    "translator_type": "none"
-  },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
-  "is_quote_status": true,
-  "quoted_status_id": 1337556620839166000,
-  "quoted_status_id_str": "1337556620839165952",
-  "quoted_status_permalink": {
-    "url": "https://t.co/6tlXNIUYgP",
-    "expanded": "https://twitter.com/michael_saylor/status/1337556620839165952",
-    "display": "twitter.com/michael_saylor…"
-  },
+    {
+      "locale": "zh-Hant",
+      "full_text": "中本聰(Satoshi Nakamoto https://t.co/6tlXNIUYgP)表示：“如果有足夠多的人(和公司)有同樣的想法，那麼購買一些(#比特幣)可能是有意義的。如果有足夠多的人(和公司)有同樣的想法，那就會成爲一個自我實現的預言。”--中本聰",
+      "quoted_status_full_text": "根據1940年的“投資公司法”，MicroStrategy並不是一家投資公司(IC)。IC是公司。這使≥將40%的資產(減去現金和政府證券)投資於“證券”。根據美國證券交易委員會(SEC)的說法，#BTC不是一種安全措施。因此，持有BTC並不會導致MicroStrategy成爲IC。"
+    }
+  ],
+  "source_updated_at": 1609271718620,
   "quoted_status": {
     "created_at": "Sat Dec 12 00:35:23 +0000 2020",
-    "id": 1337556620839166000,
     "id_str": "1337556620839165952",
     "full_text": "MicroStrategy is not an investment company (IC) per the 1940 Investment Co. Act.  An IC is a co. that invests ≥ 40% of assets (less cash &amp; govt securities) in “securities”.  Per the SEC, #BTC isn’t a security.   Ergo, holding BTC doesn’t cause MicroStrategy to become an IC.",
-    "truncated": false,
     "display_text_range": [
       0,
       278
@@ -145,139 +74,12 @@
       "user_mentions": [],
       "urls": []
     },
-    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
     "user": {
-      "id": 244647486,
-      "id_str": "244647486",
       "name": "Michael Saylor",
       "screen_name": "michael_saylor",
-      "location": "Tysons Corner, VA",
-      "description": "$MSTR Founder & CEO | @MIT Aerospace | bio @ https://t.co/ujOwMF6F7F | free education @ https://t.co/f30dcxd8Xv | #Bitcoin is https://t.co/47dA8aiixk & https://t.co/uSXhfX0Jm6. | All tweets are my own.",
-      "url": "https://t.co/lz9bT9Kvoy",
-      "entities": {
-        "url": {
-          "urls": [
-            {
-              "url": "https://t.co/lz9bT9Kvoy",
-              "expanded_url": "https://microstrategy.com",
-              "display_url": "microstrategy.com",
-              "indices": [
-                0,
-                23
-              ]
-            }
-          ]
-        },
-        "description": {
-          "urls": [
-            {
-              "url": "https://t.co/ujOwMF6F7F",
-              "expanded_url": "http://michael.com",
-              "display_url": "michael.com",
-              "indices": [
-                45,
-                68
-              ]
-            },
-            {
-              "url": "https://t.co/f30dcxd8Xv",
-              "expanded_url": "http://saylor.org",
-              "display_url": "saylor.org",
-              "indices": [
-                88,
-                111
-              ]
-            },
-            {
-              "url": "https://t.co/47dA8aiixk",
-              "expanded_url": "http://hope.com",
-              "display_url": "hope.com",
-              "indices": [
-                126,
-                149
-              ]
-            },
-            {
-              "url": "https://t.co/uSXhfX0Jm6",
-              "expanded_url": "http://strategy.com",
-              "display_url": "strategy.com",
-              "indices": [
-                152,
-                175
-              ]
-            }
-          ]
-        }
-      },
-      "protected": false,
-      "followers_count": 272740,
-      "friends_count": 298,
-      "listed_count": 1626,
-      "created_at": "Sat Jan 29 20:11:04 +0000 2011",
-      "favourites_count": 376,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": true,
-      "verified": true,
-      "statuses_count": 1279,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "C0DEED",
-      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1292849403989037065/3IKaJgh6_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1292849403989037065/3IKaJgh6_normal.jpg",
-      "profile_banner_url": "https://pbs.twimg.com/profile_banners/244647486/1606261344",
-      "profile_link_color": "1DA1F2",
-      "profile_sidebar_border_color": "C0DEED",
-      "profile_sidebar_fill_color": "DDEEF6",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": false,
-      "default_profile": true,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none"
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1292849403989037065/3IKaJgh6_normal.jpg"
     },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
     "retweet_count": 476,
-    "favorite_count": 6040,
-    "favorited": false,
-    "retweeted": false,
-    "lang": "en"
-  },
-  "retweet_count": 245,
-  "favorite_count": 1936,
-  "favorited": false,
-  "retweeted": false,
-  "possibly_sensitive": false,
-  "lang": "en",
-  "original_created_at": "Sat Dec 12 08:51:46 +0000 2020",
-  "localize": [
-    {
-      "locale": "zh",
-      "full_text": "中本聪(Satoshi Nakamoto https://t.co/6tlXNIUYgP)表示：“如果有足够多的人(和公司)有同样的想法，那么购买一些(#比特币)可能是有意义的。如果有足够多的人(和公司)有同样的想法，那就会成为一个自我实现的预言。”--中本聪",
-      "quoted_status_full_text": "根据1940年的“投资公司法”，MicroStrategy并不是一家投资公司(IC)。IC是公司。这使≥将40%的资产(减去现金和政府证券)投资于“证券”。根据美国证券交易委员会(SEC)的说法，#BTC不是一种安全措施。因此，持有BTC并不会导致MicroStrategy成为IC。"
-    },
-    {
-      "locale": "zh-Hant",
-      "full_text": "中本聰(Satoshi Nakamoto https://t.co/6tlXNIUYgP)表示：“如果有足夠多的人(和公司)有同樣的想法，那麼購買一些(#比特幣)可能是有意義的。如果有足夠多的人(和公司)有同樣的想法，那就會成爲一個自我實現的預言。”--中本聰",
-      "quoted_status_full_text": "根據1940年的“投資公司法”，MicroStrategy並不是一家投資公司(IC)。IC是公司。這使≥將40%的資產(減去現金和政府證券)投資於“證券”。根據美國證券交易委員會(SEC)的說法，#BTC不是一種安全措施。因此，持有BTC並不會導致MicroStrategy成爲IC。"
-    }
-  ],
-  "source_updated_at": 1609271718620
+    "favorite_count": 6040
+  }
 }

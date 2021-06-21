@@ -1,9 +1,7 @@
 {
   "created_at": "Tue Jan 19 15:57:1 +0000 2021",
-  "id": 1351549600725930000,
   "id_str": "1351549600725929993",
   "full_text": "RT @BarrySilbert: https://t.co/4LJsRN9yr1",
-  "truncated": false,
   "display_text_range": [
     0,
     41
@@ -67,150 +65,32 @@
       }
     ]
   },
-  "extended_entities": {
-    "media": [
-      {
-        "id": 1351301487327137800,
-        "id_str": "1351301487327137805",
-        "indices": [
-          18,
-          41
-        ],
-        "media_url": "http://pbs.twimg.com/tweet_video_thumb/EsDJixCXUA02EtU.jpg",
-        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EsDJixCXUA02EtU.jpg",
-        "url": "https://t.co/4LJsRN9yr1",
-        "display_url": "pic.twitter.com/4LJsRN9yr1",
-        "expanded_url": "https://twitter.com/BarrySilbert/status/1351301492708401152/photo/1",
-        "type": "animated_gif",
-        "sizes": {
-          "thumb": {
-            "w": 150,
-            "h": 150,
-            "resize": "crop"
-          },
-          "large": {
-            "w": 498,
-            "h": 248,
-            "resize": "fit"
-          },
-          "small": {
-            "w": 498,
-            "h": 248,
-            "resize": "fit"
-          },
-          "medium": {
-            "w": 498,
-            "h": 248,
-            "resize": "fit"
-          }
-        },
-        "source_status_id": 1351301492708401200,
-        "source_status_id_str": "1351301492708401152",
-        "source_user_id": 396045469,
-        "source_user_id_str": "396045469",
-        "video_info": {
-          "aspect_ratio": [
-            249,
-            124
-          ],
-          "variants": [
-            {
-              "bitrate": 0,
-              "content_type": "video/mp4",
-              "url": "https://video.twimg.com/tweet_video/EsDJixCXUA02EtU.mp4"
-            }
-          ]
-        }
-      }
-    ]
-  },
-  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
   "user": {
-    "id": 918804624303382500,
-    "id_str": "918804624303382528",
     "name": "PlanB",
     "screen_name": "100trillionUSD",
-    "location": "NOT FINANCIAL ADVICE",
-    "description": "#bitcoin\n1PRoNLcWHzM8DuKpGE4YM9hb1PjSEnWRpn\nArticles and podcasts on https://t.co/5Y254ILwhC",
-    "url": "https://t.co/5Y254ILwhC",
-    "entities": {
-      "url": {
-        "urls": [
-          {
-            "url": "https://t.co/5Y254ILwhC",
-            "expanded_url": "http://PlanBTC.com",
-            "display_url": "PlanBTC.com",
-            "indices": [
-              0,
-              23
-            ]
-          }
-        ]
-      },
-      "description": {
-        "urls": [
-          {
-            "url": "https://t.co/5Y254ILwhC",
-            "expanded_url": "http://PlanBTC.com",
-            "display_url": "PlanBTC.com",
-            "indices": [
-              69,
-              92
-            ]
-          }
-        ]
-      }
-    },
-    "protected": false,
-    "followers_count": 218097,
-    "friends_count": 200,
-    "listed_count": 3153,
-    "created_at": "Fri Oct 13 11:44:27 +0000 2017",
-    "favourites_count": 21758,
-    "utc_offset": null,
-    "time_zone": null,
-    "geo_enabled": false,
-    "verified": false,
-    "statuses_count": 6051,
-    "lang": null,
-    "contributors_enabled": false,
-    "is_translator": false,
-    "is_translation_enabled": false,
-    "profile_background_color": "F5F8FA",
-    "profile_background_image_url": null,
-    "profile_background_image_url_https": null,
-    "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1117537706584702982/lMHLne7O_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117537706584702982/lMHLne7O_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/918804624303382528/1601733353",
-    "profile_link_color": "1DA1F2",
-    "profile_sidebar_border_color": "C0DEED",
-    "profile_sidebar_fill_color": "DDEEF6",
-    "profile_text_color": "333333",
-    "profile_use_background_image": true,
-    "has_extended_profile": true,
-    "default_profile": true,
-    "default_profile_image": false,
-    "following": false,
-    "follow_request_sent": false,
-    "notifications": false,
-    "translator_type": "none"
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117537706584702982/lMHLne7O_normal.jpg"
   },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
+  "retweet_count": 240,
+  "favorite_count": 0,
+  "possibly_sensitive": false,
+  "original_created_at": "Tue Jan 19 15:18:30 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @BarrySilbert：https://t.co/4LJsRN9yr1",
+      "retweeted_status_full_text": "https://t.co/4LJsRN9yr1"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @BarrySilbert：https://t.co/4LJsRN9yr1",
+      "retweeted_status_full_text": "https://t.co/4LJsRN9yr1"
+    }
+  ],
+  "source_updated_at": 1611311231239,
   "retweeted_status": {
     "created_at": "Mon Jan 18 22:52:36 +0000 2021",
-    "id": 1351301492708401200,
     "id_str": "1351301492708401152",
     "full_text": "https://t.co/4LJsRN9yr1",
-    "truncated": false,
     "display_text_range": [
       0,
       0
@@ -259,157 +139,13 @@
         }
       ]
     },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1351301487327137800,
-          "id_str": "1351301487327137805",
-          "indices": [
-            0,
-            23
-          ],
-          "media_url": "http://pbs.twimg.com/tweet_video_thumb/EsDJixCXUA02EtU.jpg",
-          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EsDJixCXUA02EtU.jpg",
-          "url": "https://t.co/4LJsRN9yr1",
-          "display_url": "pic.twitter.com/4LJsRN9yr1",
-          "expanded_url": "https://twitter.com/BarrySilbert/status/1351301492708401152/photo/1",
-          "type": "animated_gif",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 498,
-              "h": 248,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 498,
-              "h": 248,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 498,
-              "h": 248,
-              "resize": "fit"
-            }
-          },
-          "video_info": {
-            "aspect_ratio": [
-              249,
-              124
-            ],
-            "variants": [
-              {
-                "bitrate": 0,
-                "content_type": "video/mp4",
-                "url": "https://video.twimg.com/tweet_video/EsDJixCXUA02EtU.mp4"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
     "user": {
-      "id": 396045469,
-      "id_str": "396045469",
       "name": "Barry Silbert",
       "screen_name": "BarrySilbert",
-      "location": "New York",
-      "description": "Founder/CEO @DCGco, parent of @Grayscale @GenesisTrading @CoinDesk @TradeBlock @FoundryServices @LunoGlobal, investor in 180 cos",
-      "url": "https://t.co/dI2vGljwzr",
-      "entities": {
-        "url": {
-          "urls": [
-            {
-              "url": "https://t.co/dI2vGljwzr",
-              "expanded_url": "http://www.dcg.co",
-              "display_url": "dcg.co",
-              "indices": [
-                0,
-                23
-              ]
-            }
-          ]
-        },
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 273388,
-      "friends_count": 362,
-      "listed_count": 4656,
-      "created_at": "Sat Oct 22 17:16:55 +0000 2011",
-      "favourites_count": 6253,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": false,
-      "verified": true,
-      "statuses_count": 9662,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "000000",
-      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1198708908136775684/GbjUois4_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1198708908136775684/GbjUois4_normal.jpg",
-      "profile_banner_url": "https://pbs.twimg.com/profile_banners/396045469/1549040804",
-      "profile_link_color": "3B94D9",
-      "profile_sidebar_border_color": "000000",
-      "profile_sidebar_fill_color": "000000",
-      "profile_text_color": "000000",
-      "profile_use_background_image": false,
-      "has_extended_profile": false,
-      "default_profile": false,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none"
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1198708908136775684/GbjUois4_normal.jpg"
     },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
     "retweet_count": 187,
     "favorite_count": 2151,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "und"
-  },
-  "is_quote_status": false,
-  "retweet_count": 240,
-  "favorite_count": 0,
-  "favorited": false,
-  "retweeted": false,
-  "possibly_sensitive": false,
-  "lang": "und",
-  "original_created_at": "Tue Jan 19 15:18:30 +0000 2021",
-  "localize": [
-    {
-      "locale": "zh",
-      "full_text": "RT @BarrySilbert：https://t.co/4LJsRN9yr1",
-      "retweeted_status_full_text": "https://t.co/4LJsRN9yr1"
-    },
-    {
-      "locale": "zh-Hant",
-      "full_text": "RT @BarrySilbert：https://t.co/4LJsRN9yr1",
-      "retweeted_status_full_text": "https://t.co/4LJsRN9yr1"
-    }
-  ],
-  "source_updated_at": 1611311231239
+    "possibly_sensitive": false
+  }
 }

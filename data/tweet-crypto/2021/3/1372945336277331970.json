@@ -1,9 +1,7 @@
 {
   "created_at": "Fri Mar 19 16:46:6 +0000 2021",
-  "id": 1372945336277332000,
   "id_str": "1372945336277331970",
   "full_text": "Important message indeed:\n67% of all energy produced is lost. #bitcoin mining primarily uses this waste energy. Energy concerns about bitcoin mining are mostly plain wrong.\nhttps://t.co/PxoWAnomdN https://t.co/3sTasOzfBH https://t.co/ZJLbp13nhh",
-  "truncated": false,
   "display_text_range": [
     0,
     220
@@ -79,131 +77,32 @@
       }
     ]
   },
-  "extended_entities": {
-    "media": [
-      {
-        "id": 1372944153202598000,
-        "id_str": "1372944153202597897",
-        "indices": [
-          221,
-          244
-        ],
-        "media_url": "http://pbs.twimg.com/media/Ew2tbuQXIAkH4CV.jpg",
-        "media_url_https": "https://pbs.twimg.com/media/Ew2tbuQXIAkH4CV.jpg",
-        "url": "https://t.co/ZJLbp13nhh",
-        "display_url": "pic.twitter.com/ZJLbp13nhh",
-        "expanded_url": "https://twitter.com/100trillionUSD/status/1372945336277331970/photo/1",
-        "type": "photo",
-        "sizes": {
-          "thumb": {
-            "w": 150,
-            "h": 150,
-            "resize": "crop"
-          },
-          "small": {
-            "w": 680,
-            "h": 400,
-            "resize": "fit"
-          },
-          "large": {
-            "w": 2048,
-            "h": 1205,
-            "resize": "fit"
-          },
-          "medium": {
-            "w": 1200,
-            "h": 706,
-            "resize": "fit"
-          }
-        }
-      }
-    ]
-  },
-  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
   "user": {
-    "id": 918804624303382500,
-    "id_str": "918804624303382528",
     "name": "PlanB",
     "screen_name": "100trillionUSD",
-    "location": "NOT FINANCIAL ADVICE",
-    "description": "#bitcoin\n1PRoNLcWHzM8DuKpGE4YM9hb1PjSEnWRpn",
-    "url": "https://t.co/5Y254ILwhC",
-    "entities": {
-      "url": {
-        "urls": [
-          {
-            "url": "https://t.co/5Y254ILwhC",
-            "expanded_url": "http://PlanBTC.com",
-            "display_url": "PlanBTC.com",
-            "indices": [
-              0,
-              23
-            ]
-          }
-        ]
-      },
-      "description": {
-        "urls": []
-      }
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1365332744990060546/0G6DqQlc_normal.jpg"
+  },
+  "retweet_count": 969,
+  "favorite_count": 3058,
+  "possibly_sensitive": false,
+  "original_created_at": "Fri Mar 19 16:17:30 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "确实是重要的信息。\n67%的能源被浪费了. #比特币挖矿主要使用这些浪费的能源。关于比特币挖矿的能源担忧大多是完全错误的。\nhttps://t.co/PxoWAnomdN https://t.co/3sTasOzfBH https://t.co/ZJLbp13nhh",
+      "quoted_status_full_text": "你知道吗？\n67%的能量都是在错误的时间，经济上无法获得，或者在转移过程中损失的？\n\n#比特币是有史以来最好的工具，可以解决第一&amp; 第二问题。\n\n理论上，采矿业可以与全球能源消耗相匹配，而不需要新的生产🤔https://t.co/TfLd39nQbU。"
     },
-    "protected": false,
-    "followers_count": 331812,
-    "friends_count": 204,
-    "listed_count": 4482,
-    "created_at": "Fri Oct 13 11:44:27 +0000 2017",
-    "favourites_count": 22412,
-    "utc_offset": null,
-    "time_zone": null,
-    "geo_enabled": false,
-    "verified": false,
-    "statuses_count": 6454,
-    "lang": null,
-    "contributors_enabled": false,
-    "is_translator": false,
-    "is_translation_enabled": false,
-    "profile_background_color": "F5F8FA",
-    "profile_background_image_url": null,
-    "profile_background_image_url_https": null,
-    "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1365332744990060546/0G6DqQlc_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1365332744990060546/0G6DqQlc_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/918804624303382528/1601733353",
-    "profile_link_color": "1DA1F2",
-    "profile_sidebar_border_color": "C0DEED",
-    "profile_sidebar_fill_color": "DDEEF6",
-    "profile_text_color": "333333",
-    "profile_use_background_image": true,
-    "has_extended_profile": true,
-    "default_profile": true,
-    "default_profile_image": false,
-    "following": false,
-    "follow_request_sent": false,
-    "notifications": false,
-    "translator_type": "none"
-  },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
-  "is_quote_status": true,
-  "quoted_status_id": 1372895831884501000,
-  "quoted_status_id_str": "1372895831884501002",
-  "quoted_status_permalink": {
-    "url": "https://t.co/3sTasOzfBH",
-    "expanded": "https://twitter.com/TheCryptoconomy/status/1372895831884501002",
-    "display": "twitter.com/TheCryptoconom…"
-  },
+    {
+      "locale": "zh-Hant",
+      "full_text": "確實是重要的信息。\n67%的能源被浪費了. #比特幣挖礦主要使用這些浪費的能源。關於比特幣挖礦的能源擔憂大多是完全錯誤的。\nhttps://t.co/PxoWAnomdN https://t.co/3sTasOzfBH https://t.co/ZJLbp13nhh",
+      "quoted_status_full_text": "你知道嗎？\n67%的能量都是在錯誤的時間，經濟上無法獲得，或者在轉移過程中損失的？\n\n#比特幣是有史以來最好的工具，可以解決第一&amp; 第二問題。\n\n理論上，採礦業可以與全球能源消耗相匹配，而不需要新的生產🤔https://t.co/TfLd39nQbU。"
+    }
+  ],
+  "source_updated_at": 1616752835046,
   "quoted_status": {
     "created_at": "Fri Mar 19 13:00:48 +0000 2021",
-    "id": 1372895831884501000,
     "id_str": "1372895831884501002",
     "full_text": "Did you know? \n67% of all energy produced is either lost b/c its at the wrong time, economically inaccessible, or during transfer?\n\n#Bitcoin is the best tool ever for the 1st &amp; 2nd problems\n\nTheoretically, mining could match global energy consumption, without new production 🤔 https://t.co/TfLd39nQbU",
-    "truncated": false,
     "display_text_range": [
       0,
       280
@@ -260,156 +159,13 @@
         }
       ]
     },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1372895830609383400,
-          "id_str": "1372895830609383429",
-          "indices": [
-            281,
-            304
-          ],
-          "media_url": "http://pbs.twimg.com/tweet_video_thumb/Ew2Be-kWUAUzjyi.jpg",
-          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ew2Be-kWUAUzjyi.jpg",
-          "url": "https://t.co/TfLd39nQbU",
-          "display_url": "pic.twitter.com/TfLd39nQbU",
-          "expanded_url": "https://twitter.com/TheCryptoconomy/status/1372895831884501002/photo/1",
-          "type": "animated_gif",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 500,
-              "h": 250,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 500,
-              "h": 250,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 500,
-              "h": 250,
-              "resize": "fit"
-            }
-          },
-          "video_info": {
-            "aspect_ratio": [
-              2,
-              1
-            ],
-            "variants": [
-              {
-                "bitrate": 0,
-                "content_type": "video/mp4",
-                "url": "https://video.twimg.com/tweet_video/Ew2Be-kWUAUzjyi.mp4"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
     "user": {
-      "id": 2402535456,
-      "id_str": "2402535456",
       "name": "Guy Swann #Taproot2021🌿",
       "screen_name": "TheCryptoconomy",
-      "location": "",
-      "description": "#Bitcoin \"The Guy who's read more about Bitcoin than anyone else you know.\" 😘 Host: @BitcoinAudible @ShitcoinInsider",
-      "url": "https://t.co/ffjl6JgkKL",
-      "entities": {
-        "url": {
-          "urls": [
-            {
-              "url": "https://t.co/ffjl6JgkKL",
-              "expanded_url": "http://guyswann.com",
-              "display_url": "guyswann.com",
-              "indices": [
-                0,
-                23
-              ]
-            }
-          ]
-        },
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 16883,
-      "friends_count": 2141,
-      "listed_count": 410,
-      "created_at": "Sat Mar 22 03:09:06 +0000 2014",
-      "favourites_count": 144213,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": false,
-      "verified": false,
-      "statuses_count": 30062,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "000000",
-      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1361924550477422595/y1YckOAF_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1361924550477422595/y1YckOAF_normal.jpg",
-      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2402535456/1596637953",
-      "profile_link_color": "E08600",
-      "profile_sidebar_border_color": "000000",
-      "profile_sidebar_fill_color": "000000",
-      "profile_text_color": "000000",
-      "profile_use_background_image": false,
-      "has_extended_profile": false,
-      "default_profile": false,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none"
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1361924550477422595/y1YckOAF_normal.jpg"
     },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
     "retweet_count": 44,
     "favorite_count": 219,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
-  },
-  "retweet_count": 969,
-  "favorite_count": 3058,
-  "favorited": false,
-  "retweeted": false,
-  "possibly_sensitive": false,
-  "lang": "en",
-  "original_created_at": "Fri Mar 19 16:17:30 +0000 2021",
-  "localize": [
-    {
-      "locale": "zh",
-      "full_text": "确实是重要的信息。\n67%的能源被浪费了. #比特币挖矿主要使用这些浪费的能源。关于比特币挖矿的能源担忧大多是完全错误的。\nhttps://t.co/PxoWAnomdN https://t.co/3sTasOzfBH https://t.co/ZJLbp13nhh",
-      "quoted_status_full_text": "你知道吗？\n67%的能量都是在错误的时间，经济上无法获得，或者在转移过程中损失的？\n\n#比特币是有史以来最好的工具，可以解决第一&amp; 第二问题。\n\n理论上，采矿业可以与全球能源消耗相匹配，而不需要新的生产🤔https://t.co/TfLd39nQbU。"
-    },
-    {
-      "locale": "zh-Hant",
-      "full_text": "確實是重要的信息。\n67%的能源被浪費了. #比特幣挖礦主要使用這些浪費的能源。關於比特幣挖礦的能源擔憂大多是完全錯誤的。\nhttps://t.co/PxoWAnomdN https://t.co/3sTasOzfBH https://t.co/ZJLbp13nhh",
-      "quoted_status_full_text": "你知道嗎？\n67%的能量都是在錯誤的時間，經濟上無法獲得，或者在轉移過程中損失的？\n\n#比特幣是有史以來最好的工具，可以解決第一&amp; 第二問題。\n\n理論上，採礦業可以與全球能源消耗相匹配，而不需要新的生產🤔https://t.co/TfLd39nQbU。"
-    }
-  ],
-  "source_updated_at": 1616752835046
+    "possibly_sensitive": false
+  }
 }

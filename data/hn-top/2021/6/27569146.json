@@ -4,14 +4,7 @@
   "url": "http://zsync.moria.org.uk/",
   "author": "gjvc",
   "points": 145,
-  "story_text": null,
-  "comment_text": null,
   "num_comments": 28,
-  "story_id": null,
-  "story_title": null,
-  "story_url": null,
-  "parent_id": null,
-  "created_at_i": 1624189469,
   "_tags": [
     "story",
     "author_gjvc",
@@ -19,25 +12,7 @@
     "front_page"
   ],
   "objectID": "27569146",
-  "_highlightResult": {
-    "title": {
-      "value": "Zsync: Differential file downloading over HTTP using the rsync algorithm (2010)",
-      "matchLevel": "none",
-      "matchedWords": []
-    },
-    "url": {
-      "value": "http://zsync.moria.org.uk/",
-      "matchLevel": "none",
-      "matchedWords": []
-    },
-    "author": {
-      "value": "gjvc",
-      "matchLevel": "none",
-      "matchedWords": []
-    }
-  },
   "original_created_at": "2021-06-20T11:44:29.000Z",
-  "image": "http://zsync.moria.org.uk/images/valid-xhtml11.png",
   "localize": [
     {
       "locale": "ja",
@@ -51,5 +26,6 @@
       "locale": "zh-Hant",
       "title": "Zsync: 使用rsync算法在HTTP上進行差異化的文件下載(2010)"
     }
-  ]
+  ],
+  "image": "http://zsync.moria.org.uk/images/valid-xhtml11.png"
 }

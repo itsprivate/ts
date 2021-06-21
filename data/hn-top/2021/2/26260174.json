@@ -4,14 +4,7 @@
   "url": null,
   "author": "ponny",
   "points": 608,
-  "story_text": "We&#x27;re a SaaS business currently listed on the Shopify App store.  Today we got this stern email from Shopify&#x27;s &#x27;Partner Governance&#x27; team.<p>TLDR: Don&#x27;t even have Stripe as an option for Shopify users or we&#x27;ll boot you.  Also backpay since Jan 2019.<p>&quot;At Shopify, it is critical to maintain high trust and integrity within the Shopify App Store, so merchants have a reliable place to find solutions to grow their business.<p>During a routine investigation, Partner Governance identified your app [our app] as offering external billing for Shopify merchants and not using the Billing API for all payments.<p>[a couple of images of our cart]<p>As you are aware, all paid apps are required to use our Billing API, as noted in our Partner Program Agreement (Section 3.2 Payments, Point 5) unless express permission is granted by Shopify.<p>Payment information should not be obtained from the merchant directly and all charges should be processed through the billing API.<p>We require that you make the required changes as soon as possible to ensure all future payments are handled through our billing API. This would include redirecting any current merchants to select their plan and re-approve the new subscription through the Billing API and ensuring that all new merchants are billed through the API.<p>Shopify has also recently rolled out an annual subscription feature on the Billing API that makes the yearly subscription event easier on the API.<p>Additionally, we will require a report of the merchants who have been billed outside of the Billing API and retroactive revenue share payment for any&#x2F;all qualifying 20% revenue dated January 2019 - Present.<p>Once the report has been reviewed, we will reach out with next steps on how to submit the transfer of funds to Shopify via wire transfer.&quot;<p>Pretty ironic too when you&#x27;ve got Shopify&#x27;s CEO tweeting about the unfair 30% cut Apple wants: <a href=\"https:&#x2F;&#x2F;twitter.com&#x2F;tobi&#x2F;status&#x2F;1362411841943711744\" rel=\"nofollow\">https:&#x2F;&#x2F;twitter.com&#x2F;tobi&#x2F;status&#x2F;1362411841943711744</a>",
-  "comment_text": null,
   "num_comments": 43,
-  "story_id": null,
-  "story_title": null,
-  "story_url": null,
-  "parent_id": null,
-  "created_at_i": 1614233081,
   "_tags": [
     "story",
     "author_ponny",
@@ -19,25 +12,7 @@
     "front_page"
   ],
   "objectID": "26260174",
-  "_highlightResult": {
-    "title": {
-      "value": "Shopify says remove Stripe billing or get booted from their app store",
-      "matchLevel": "none",
-      "matchedWords": []
-    },
-    "author": {
-      "value": "ponny",
-      "matchLevel": "none",
-      "matchedWords": []
-    },
-    "story_text": {
-      "value": "We're a SaaS business currently listed on the Shopify App store.  Today we got this stern email from Shopify's 'Partner Governance' team.<p>TLDR: Don't even have Stripe as an option for Shopify users or we'll boot you.  Also backpay since Jan 2019.<p>&quot;At Shopify, it is critical to maintain high trust and integrity within the Shopify App Store, so merchants have a reliable place to find solutions to grow their business.<p>During a routine investigation, Partner Governance identified your app [our app] as offering external billing for Shopify merchants and not using the Billing API for all payments.<p>[a couple of images of our cart]<p>As you are aware, all paid apps are required to use our Billing API, as noted in our Partner Program Agreement (Section 3.2 Payments, Point 5) unless express permission is granted by Shopify.<p>Payment information should not be obtained from the merchant directly and all charges should be processed through the billing API.<p>We require that you make the required changes as soon as possible to ensure all future payments are handled through our billing API. This would include redirecting any current merchants to select their plan and re-approve the new subscription through the Billing API and ensuring that all new merchants are billed through the API.<p>Shopify has also recently rolled out an annual subscription feature on the Billing API that makes the yearly subscription event easier on the API.<p>Additionally, we will require a report of the merchants who have been billed outside of the Billing API and retroactive revenue share payment for any/all qualifying 20% revenue dated January 2019 - Present.<p>Once the report has been reviewed, we will reach out with next steps on how to submit the transfer of funds to Shopify via wire transfer.&quot;<p>Pretty ironic too when you've got Shopify's CEO tweeting about the unfair 30% cut Apple wants: <a href=\"https://twitter.com/tobi/status/1362411841943711744\" rel=\"nofollow\">https://twitter.com/tobi/status/1362411841943711744</a>",
-      "matchLevel": "none",
-      "matchedWords": []
-    }
-  },
   "original_created_at": "2021-02-25T06:04:41.000Z",
-  "image": "",
   "localize": [
     {
       "locale": "zh",
@@ -48,5 +23,6 @@
       "title": "Shopify稱移除Stripe計費，否則將被他們的應用商店踢出。"
     }
   ],
-  "source_updated_at": 1614332904974
+  "source_updated_at": 1614332904974,
+  "image": ""
 }

@@ -4,14 +4,7 @@
   "url": "https://vpncloud.ddswd.de/",
   "author": "albatruss",
   "points": 191,
-  "story_text": null,
-  "comment_text": null,
   "num_comments": 58,
-  "story_id": null,
-  "story_title": null,
-  "story_url": null,
-  "parent_id": null,
-  "created_at_i": 1617429901,
   "_tags": [
     "story",
     "author_albatruss",
@@ -19,25 +12,7 @@
     "front_page"
   ],
   "objectID": "26678723",
-  "_highlightResult": {
-    "title": {
-      "value": "VPNCloud: Open-source peer-to-peer VPN written in rust",
-      "matchLevel": "none",
-      "matchedWords": []
-    },
-    "url": {
-      "value": "https://vpncloud.ddswd.de/",
-      "matchLevel": "none",
-      "matchedWords": []
-    },
-    "author": {
-      "value": "albatruss",
-      "matchLevel": "none",
-      "matchedWords": []
-    }
-  },
   "original_created_at": "2021-04-03T06:05:01.000Z",
-  "image": "https://vpncloud.ddswd.de/img/logo.png?b2a8c493e1",
   "localize": [
     {
       "locale": "zh",
@@ -56,5 +31,6 @@
       "title": "VPNCloudです。rust で書かれたオープンソースのピアツーピア VPN。"
     }
   ],
-  "source_updated_at": 1617961885325
+  "source_updated_at": 1617961885325,
+  "image": "https://vpncloud.ddswd.de/img/logo.png?b2a8c493e1"
 }

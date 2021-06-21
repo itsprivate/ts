@@ -1,9 +1,7 @@
 {
   "created_at": "Sun Feb 21 3:35:24 +0000 2021",
-  "id": 1363271353718210600,
   "id_str": "1363271353718210560",
   "full_text": "RT @nypost: Columbia professor: I do heroin regularly for 'work-life balance' https://t.co/YLsLDgJfA5 https://t.co/hZYWSbFLlH",
-  "truncated": false,
   "display_text_range": [
     0,
     125
@@ -77,127 +75,32 @@
       }
     ]
   },
-  "extended_entities": {
-    "media": [
-      {
-        "id": 1363270717383577600,
-        "id_str": "1363270717383577602",
-        "indices": [
-          102,
-          125
-        ],
-        "media_url": "http://pbs.twimg.com/media/EutPfppXEAI-xVe.jpg",
-        "media_url_https": "https://pbs.twimg.com/media/EutPfppXEAI-xVe.jpg",
-        "url": "https://t.co/hZYWSbFLlH",
-        "display_url": "pic.twitter.com/hZYWSbFLlH",
-        "expanded_url": "https://twitter.com/nypost/status/1363270719317168128/photo/1",
-        "type": "photo",
-        "sizes": {
-          "thumb": {
-            "w": 150,
-            "h": 150,
-            "resize": "crop"
-          },
-          "medium": {
-            "w": 1200,
-            "h": 802,
-            "resize": "fit"
-          },
-          "large": {
-            "w": 1200,
-            "h": 802,
-            "resize": "fit"
-          },
-          "small": {
-            "w": 680,
-            "h": 454,
-            "resize": "fit"
-          }
-        },
-        "source_status_id": 1363270719317168000,
-        "source_status_id_str": "1363270719317168128",
-        "source_user_id": 17469289,
-        "source_user_id_str": "17469289"
-      }
-    ]
-  },
-  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
   "user": {
-    "id": 15079601,
-    "id_str": "15079601",
     "name": "The_Real_Fly",
     "screen_name": "The_Real_Fly",
-    "location": "United States",
-    "description": "Man of leisure. Sophisticate. Master Ace stock trader. Champion of Champions.",
-    "url": "https://t.co/LDd0DkVwH6",
-    "entities": {
-      "url": {
-        "urls": [
-          {
-            "url": "https://t.co/LDd0DkVwH6",
-            "expanded_url": "http://ibankcoin.com",
-            "display_url": "ibankcoin.com",
-            "indices": [
-              0,
-              23
-            ]
-          }
-        ]
-      },
-      "description": {
-        "urls": []
-      }
-    },
-    "protected": false,
-    "followers_count": 65386,
-    "friends_count": 328,
-    "listed_count": 2053,
-    "created_at": "Wed Jun 11 00:23:03 +0000 2008",
-    "favourites_count": 20629,
-    "utc_offset": null,
-    "time_zone": null,
-    "geo_enabled": false,
-    "verified": false,
-    "statuses_count": 156430,
-    "lang": null,
-    "contributors_enabled": false,
-    "is_translator": false,
-    "is_translation_enabled": false,
-    "profile_background_color": "FFFFFF",
-    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_tile": true,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1212283137855762432/_jRlhWr5_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1212283137855762432/_jRlhWr5_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/15079601/1489552662",
-    "profile_link_color": "FF691F",
-    "profile_sidebar_border_color": "000000",
-    "profile_sidebar_fill_color": "C0DFEC",
-    "profile_text_color": "333333",
-    "profile_use_background_image": true,
-    "has_extended_profile": false,
-    "default_profile": false,
-    "default_profile_image": false,
-    "following": false,
-    "follow_request_sent": false,
-    "notifications": false,
-    "translator_type": "none"
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1212283137855762432/_jRlhWr5_normal.jpg"
   },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
+  "retweet_count": 201,
+  "favorite_count": 0,
+  "possibly_sensitive": false,
+  "original_created_at": "Sat Feb 20 23:36:33 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @nypost: 哥伦比亚大学教授： 我经常吸食海洛因以达到 \"工作与生活的平衡 \"https://t.co/YLsLDgJfA5 https://t.co/hZYWSbFLlH。",
+      "retweeted_status_full_text": "哥伦比亚大学教授。我经常吸食海洛因以达到 \"工作与生活的平衡 \"https://t.co/YLsLDgJfA5 https://t.co/hZYWSbFLlH。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @nypost: 哥倫比亞大學教授： 我經常吸食海洛因以達到 \"工作與生活的平衡 \"https://t.co/YLsLDgJfA5 https://t.co/hZYWSbFLlH。",
+      "retweeted_status_full_text": "哥倫比亞大學教授。我經常吸食海洛因以達到 \"工作與生活的平衡 \"https://t.co/YLsLDgJfA5 https://t.co/hZYWSbFLlH。"
+    }
+  ],
+  "source_updated_at": 1614332903634,
   "retweeted_status": {
     "created_at": "Sat Feb 20 23:34:02 +0000 2021",
-    "id": 1363270719317168000,
     "id_str": "1363270719317168128",
     "full_text": "Columbia professor: I do heroin regularly for 'work-life balance' https://t.co/YLsLDgJfA5 https://t.co/hZYWSbFLlH",
-    "truncated": false,
     "display_text_range": [
       0,
       89
@@ -256,144 +159,13 @@
         }
       ]
     },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1363270717383577600,
-          "id_str": "1363270717383577602",
-          "indices": [
-            90,
-            113
-          ],
-          "media_url": "http://pbs.twimg.com/media/EutPfppXEAI-xVe.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/EutPfppXEAI-xVe.jpg",
-          "url": "https://t.co/hZYWSbFLlH",
-          "display_url": "pic.twitter.com/hZYWSbFLlH",
-          "expanded_url": "https://twitter.com/nypost/status/1363270719317168128/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 802,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1200,
-              "h": 802,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 454,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
     "user": {
-      "id": 17469289,
-      "id_str": "17469289",
       "name": "New York Post",
       "screen_name": "nypost",
-      "location": "New York, NY",
-      "description": "Breaking news & features from The New York Post. Follow your favorite sections: @pagesix, @nypmetro, @nypostbiz, @nypostsports, @nypfashion, @nypostopinion",
-      "url": "https://t.co/MwyanWdKnl",
-      "entities": {
-        "url": {
-          "urls": [
-            {
-              "url": "https://t.co/MwyanWdKnl",
-              "expanded_url": "http://www.nypost.com",
-              "display_url": "nypost.com",
-              "indices": [
-                0,
-                23
-              ]
-            }
-          ]
-        },
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 2096139,
-      "friends_count": 11219,
-      "listed_count": 19259,
-      "created_at": "Tue Nov 18 19:46:36 +0000 2008",
-      "favourites_count": 1968,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": true,
-      "verified": true,
-      "statuses_count": 374300,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "000000",
-      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-      "profile_background_tile": true,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/966372680306868224/60wfGe9e_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/966372680306868224/60wfGe9e_normal.jpg",
-      "profile_banner_url": "https://pbs.twimg.com/profile_banners/17469289/1444326181",
-      "profile_link_color": "CC3333",
-      "profile_sidebar_border_color": "FFFFFF",
-      "profile_sidebar_fill_color": "DDFFCC",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": false,
-      "default_profile": false,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none"
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/966372680306868224/60wfGe9e_normal.jpg"
     },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
     "retweet_count": 156,
     "favorite_count": 412,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
-  },
-  "is_quote_status": false,
-  "retweet_count": 201,
-  "favorite_count": 0,
-  "favorited": false,
-  "retweeted": false,
-  "possibly_sensitive": false,
-  "lang": "en",
-  "original_created_at": "Sat Feb 20 23:36:33 +0000 2021",
-  "localize": [
-    {
-      "locale": "zh",
-      "full_text": "RT @nypost: 哥伦比亚大学教授： 我经常吸食海洛因以达到 \"工作与生活的平衡 \"https://t.co/YLsLDgJfA5 https://t.co/hZYWSbFLlH。",
-      "retweeted_status_full_text": "哥伦比亚大学教授。我经常吸食海洛因以达到 \"工作与生活的平衡 \"https://t.co/YLsLDgJfA5 https://t.co/hZYWSbFLlH。"
-    },
-    {
-      "locale": "zh-Hant",
-      "full_text": "RT @nypost: 哥倫比亞大學教授： 我經常吸食海洛因以達到 \"工作與生活的平衡 \"https://t.co/YLsLDgJfA5 https://t.co/hZYWSbFLlH。",
-      "retweeted_status_full_text": "哥倫比亞大學教授。我經常吸食海洛因以達到 \"工作與生活的平衡 \"https://t.co/YLsLDgJfA5 https://t.co/hZYWSbFLlH。"
-    }
-  ],
-  "source_updated_at": 1614332903634
+    "possibly_sensitive": false
+  }
 }

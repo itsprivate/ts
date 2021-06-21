@@ -1,9 +1,7 @@
 {
   "created_at": "Fri Apr 02 19:35:29 +0000 2021",
-  "id": 1378064421667410000,
   "id_str": "1378064421667409921",
   "full_text": "RT @ParisHilton: #NewProfilePic https://t.co/G471l4Cn9v",
-  "truncated": false,
   "display_text_range": [
     0,
     55
@@ -75,137 +73,42 @@
       }
     ]
   },
-  "extended_entities": {
-    "media": [
-      {
-        "id": 1378055895167377400,
-        "id_str": "1378055895167377408",
-        "indices": [
-          32,
-          55
-        ],
-        "media_url": "http://pbs.twimg.com/media/Ex_WiRAVoAAZg87.jpg",
-        "media_url_https": "https://pbs.twimg.com/media/Ex_WiRAVoAAZg87.jpg",
-        "url": "https://t.co/G471l4Cn9v",
-        "display_url": "pic.twitter.com/G471l4Cn9v",
-        "expanded_url": "https://twitter.com/ParisHilton/status/1378055896996093954/photo/1",
-        "type": "photo",
-        "sizes": {
-          "thumb": {
-            "w": 150,
-            "h": 150,
-            "resize": "crop"
-          },
-          "large": {
-            "w": 400,
-            "h": 400,
-            "resize": "fit"
-          },
-          "medium": {
-            "w": 400,
-            "h": 400,
-            "resize": "fit"
-          },
-          "small": {
-            "w": 400,
-            "h": 400,
-            "resize": "fit"
-          }
-        },
-        "source_status_id": 1378055896996094000,
-        "source_status_id_str": "1378055896996093954",
-        "source_user_id": 24929621,
-        "source_user_id_str": "24929621"
-      }
-    ]
-  },
-  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
   "user": {
-    "id": 918804624303382500,
-    "id_str": "918804624303382528",
     "name": "PlanB",
     "screen_name": "100trillionUSD",
-    "location": "NOT FINANCIAL ADVICE",
-    "description": "#bitcoin\nArticles & Podcasts on https://t.co/Ry7rqPRR8t\n1PRoNLcWHzM8DuKpGE4YM9hb1PjSEnWRpn\nNOT FINANCIAL ADVICE",
-    "url": "https://t.co/5Y254ILwhC",
-    "entities": {
-      "url": {
-        "urls": [
-          {
-            "url": "https://t.co/5Y254ILwhC",
-            "expanded_url": "http://PlanBTC.com",
-            "display_url": "PlanBTC.com",
-            "indices": [
-              0,
-              23
-            ]
-          }
-        ]
-      },
-      "description": {
-        "urls": [
-          {
-            "url": "https://t.co/Ry7rqPRR8t",
-            "expanded_url": "http://PlanBTC.com",
-            "display_url": "PlanBTC.com",
-            "indices": [
-              32,
-              55
-            ]
-          }
-        ]
-      }
-    },
-    "protected": false,
-    "followers_count": 356463,
-    "friends_count": 208,
-    "listed_count": 4747,
-    "created_at": "Fri Oct 13 11:44:27 +0000 2017",
-    "favourites_count": 22671,
-    "utc_offset": null,
-    "time_zone": null,
-    "geo_enabled": false,
-    "verified": false,
-    "statuses_count": 6575,
-    "lang": null,
-    "contributors_enabled": false,
-    "is_translator": false,
-    "is_translation_enabled": false,
-    "profile_background_color": "F5F8FA",
-    "profile_background_image_url": null,
-    "profile_background_image_url_https": null,
-    "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1365332744990060546/0G6DqQlc_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1365332744990060546/0G6DqQlc_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/918804624303382528/1601733353",
-    "profile_link_color": "1DA1F2",
-    "profile_sidebar_border_color": "C0DEED",
-    "profile_sidebar_fill_color": "DDEEF6",
-    "profile_text_color": "333333",
-    "profile_use_background_image": true,
-    "has_extended_profile": true,
-    "default_profile": true,
-    "default_profile_image": false,
-    "following": false,
-    "follow_request_sent": false,
-    "notifications": false,
-    "translator_type": "none"
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1365332744990060546/0G6DqQlc_normal.jpg"
   },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
+  "retweet_count": 3191,
+  "favorite_count": 0,
+  "possibly_sensitive": false,
+  "original_created_at": "Fri Apr 02 19:18:55 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @巴黎希尔顿: #NewProfilePic https://t.co/G471l4Cn9v",
+      "retweeted_status_full_text": "#NewProfilePic https://t.co/G471l4Cn9v"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @巴黎希爾頓: #NewProfilePic https://t.co/G471l4Cn9v",
+      "retweeted_status_full_text": "#NewProfilePic https://t.co/G471l4Cn9v"
+    },
+    {
+      "locale": "ja-JA",
+      "full_text": "RT @ParisHilton です。#NewProfilePic https://t.co/G471l4Cn9v",
+      "retweeted_status_full_text": "#NewProfilePic https://t.co/G471l4Cn9v"
+    },
+    {
+      "locale": "ja",
+      "full_text": "RT @ParisHilton です。#NewProfilePic https://t.co/G471l4Cn9v",
+      "retweeted_status_full_text": "#NewProfilePic https://t.co/G471l4Cn9v"
+    }
+  ],
+  "source_updated_at": 1617961884652,
   "retweeted_status": {
     "created_at": "Fri Apr 02 18:45:03 +0000 2021",
-    "id": 1378055896996094000,
     "id_str": "1378055896996093954",
     "full_text": "#NewProfilePic https://t.co/G471l4Cn9v",
-    "truncated": false,
     "display_text_range": [
       0,
       14
@@ -262,154 +165,13 @@
         }
       ]
     },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1378055895167377400,
-          "id_str": "1378055895167377408",
-          "indices": [
-            15,
-            38
-          ],
-          "media_url": "http://pbs.twimg.com/media/Ex_WiRAVoAAZg87.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/Ex_WiRAVoAAZg87.jpg",
-          "url": "https://t.co/G471l4Cn9v",
-          "display_url": "pic.twitter.com/G471l4Cn9v",
-          "expanded_url": "https://twitter.com/ParisHilton/status/1378055896996093954/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 400,
-              "h": 400,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 400,
-              "h": 400,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 400,
-              "h": 400,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
     "user": {
-      "id": 24929621,
-      "id_str": "24929621",
       "name": "Paris Hilton",
       "screen_name": "ParisHilton",
-      "location": "Los Angeles, CA",
-      "description": "Excited to announce the ultimate partner in my wellness journey - @getR3SET. Supplements that changed the way I deal with stress. Click link today!",
-      "url": "https://t.co/k8zUiHC7Kk",
-      "entities": {
-        "url": {
-          "urls": [
-            {
-              "url": "https://t.co/k8zUiHC7Kk",
-              "expanded_url": "http://R3set.com/Paris",
-              "display_url": "R3set.com/Paris",
-              "indices": [
-                0,
-                23
-              ]
-            }
-          ]
-        },
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 16919925,
-      "friends_count": 10190,
-      "listed_count": 46219,
-      "created_at": "Tue Mar 17 18:45:05 +0000 2009",
-      "favourites_count": 20889,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": true,
-      "verified": true,
-      "statuses_count": 21436,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": true,
-      "profile_background_color": "FFFFFF",
-      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
-      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1378055826192015362/3JWZSiTN_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1378055826192015362/3JWZSiTN_normal.jpg",
-      "profile_banner_url": "https://pbs.twimg.com/profile_banners/24929621/1597680336",
-      "profile_link_color": "E872C5",
-      "profile_sidebar_border_color": "FFFFFF",
-      "profile_sidebar_fill_color": "E5507E",
-      "profile_text_color": "544640",
-      "profile_use_background_image": true,
-      "has_extended_profile": false,
-      "default_profile": false,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "regular"
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1378055826192015362/3JWZSiTN_normal.jpg"
     },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
     "retweet_count": 588,
     "favorite_count": 4516,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "und"
-  },
-  "is_quote_status": false,
-  "retweet_count": 3191,
-  "favorite_count": 0,
-  "favorited": false,
-  "retweeted": false,
-  "possibly_sensitive": false,
-  "lang": "und",
-  "original_created_at": "Fri Apr 02 19:18:55 +0000 2021",
-  "localize": [
-    {
-      "locale": "zh",
-      "full_text": "RT @巴黎希尔顿: #NewProfilePic https://t.co/G471l4Cn9v",
-      "retweeted_status_full_text": "#NewProfilePic https://t.co/G471l4Cn9v"
-    },
-    {
-      "locale": "zh-Hant",
-      "full_text": "RT @巴黎希爾頓: #NewProfilePic https://t.co/G471l4Cn9v",
-      "retweeted_status_full_text": "#NewProfilePic https://t.co/G471l4Cn9v"
-    },
-    {
-      "locale": "ja-JA",
-      "full_text": "RT @ParisHilton です。#NewProfilePic https://t.co/G471l4Cn9v",
-      "retweeted_status_full_text": "#NewProfilePic https://t.co/G471l4Cn9v"
-    },
-    {
-      "locale": "ja",
-      "full_text": "RT @ParisHilton です。#NewProfilePic https://t.co/G471l4Cn9v",
-      "retweeted_status_full_text": "#NewProfilePic https://t.co/G471l4Cn9v"
-    }
-  ],
-  "source_updated_at": 1617961884652
+    "possibly_sensitive": false
+  }
 }

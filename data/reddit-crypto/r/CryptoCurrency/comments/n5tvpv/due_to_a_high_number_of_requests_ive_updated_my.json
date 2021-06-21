@@ -1,258 +1,28 @@
 {
-  "approved_at_utc": null,
-  "subreddit": "CryptoCurrency",
-  "selftext": "I previously posted a download link to my excel spreadsheet that I made for tracking my crypto portfolio. It supported the top 1000 coins. However I had many people message me asking how they could add support for more coins. I guess you guys really like your shitcoins and small caps. \n\nSo I decided to update it with 5000 of the top coins from coingecko and post it again for anyone who is interested. Yes it even supports live prices for r/cryptocurrency moons. \n\nThe main reason that I didn't have all these coins previously is because it really slows down the refresh time while its importing all the new data. To deal with this I made it adjustable so that you can choose how many coins to import (0-5000). If you only want live prices for the top 100 then set this cell to 100, if you want more then you can have more, you will just have to wait a few more seconds each time you press refresh. \n\nThere is a handful of other minor changes and bug fixes. \n\nThe spreadsheet now also measure your trading gain/loss in BTC not just fiat. So you can see how well your alts are doing versus just holding BTC.\n\nThe spreadsheet now logs the amount of coins you held over time, not just the fiat value of those coins. This should help a tax time if you are diligent at saving the spreadsheet after each trade (just update the portfolio tab with your new coins and save the spreadsheet). \n\nIt also lets you input fiat purchases of any crypto now (no longer limited to 3).\n\nsome screenshots;\n\n&#x200B;\n\nhttps://preview.redd.it/2iz5i2z5zdx61.png?width=1846&format=png&auto=webp&s=664340e0e4f78426d7ea6e76d55acf711790221e\n\n&#x200B;\n\nhttps://preview.redd.it/3cco3o5czdx61.png?width=1358&format=png&auto=webp&s=65aaa707797c52d15f656f9ac32e7061c4046025\n\n&#x200B;\n\nhttps://preview.redd.it/xzzphdtjzdx61.png?width=1434&format=png&auto=webp&s=b5fb706fc439ddecd40eead507ea5a7be308f95d\n\nStill has moon maths, regret calculator and lots of charts\n\nhttps://preview.redd.it/ing8hwyozdx61.png?width=1842&format=png&auto=webp&s=65b27a8b2b430927cd888f2df3b76d7edf2edf72\n\nDownload link\n\n[https://www.mediafire.com/file/wc24a9bgxiaxhep/Cryptoprices14-\\_for\\_others.xlsm/file](https://www.mediafire.com/file/wc24a9bgxiaxhep/Cryptoprices14-_for_others.xlsm/file)\n\nprevious version for reference and so you can see i'm not trying to scam or give you malware. Of course you shouldn't trust me and should scan the file for malware anyway (i.e [virustotal.com](https://virustotal.com)). It does contain external connections and macros which are required for fetching crypto prices and exchange rates from coingecko.com\n\n[https://www.reddit.com/r/CryptoCurrency/comments/mrv04i/i\\_made\\_a\\_crypto\\_tracking\\_spreadsheet\\_with\\_live/?utm\\_source=share&utm\\_medium=web2x&context=3](https://www.reddit.com/r/CryptoCurrency/comments/mrv04i/i_made_a_crypto_tracking_spreadsheet_with_live/?utm_source=share&utm_medium=web2x&context=3)",
-  "author_fullname": "t2_xy2dz",
-  "saved": false,
-  "mod_reason_title": null,
-  "gilded": 0,
-  "clicked": false,
+  "author": "Fly115",
+  "the_new_excerpt": "I previously posted a download link to my excel spreadsheet that I made for\ntracking my crypto portfolio. It supported the top 1000 coins. However I had\nmany people message me asking how they could add support for more coins. I guess\nyou guys really like your shitcoins and small caps.\n\nSo I decided…",
+  "original_created_utc": 1620257825,
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "以前、私の暗号ポートフォリオを追跡するために作成したエクセル・スプレッドシートのダウンロード・リンクを掲載しました。\n私の暗号ポートフォリオを追跡するために作ったエクセルシートのダウンロードリンクを掲載しました。これは、上位1000のコインをサポートしています。しかし、私は\n多くの人からメッセージをもらい、どうすればもっと多くのコインに対応できるのかを尋ねられました。思うに\nあなた方は本当にクソコインやスモールキャップが好きなんですね。\n\nそこで、私は...",
+      "title": "リクエストが多かったので、私のcrypto追跡スプレッドシートを更新し、トップ5000のcrypto（ムーンを含む）に対応しました。このスプレッドシートはあなたの暗号を追跡し、あなたの利益、損失、過去のポジションを記録します。クリプトプライス バージョン14"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我之前发布了一个下载链接到我的excel电子表格，我做这个表格是为了\n追踪我的加密货币组合。它支持前1000个硬币。然而，我有\n许多人给我留言，问我如何能增加对更多硬币的支持。我想\n你们真的很喜欢你们的垃圾币和小盘币。\n\n所以我决定...",
+      "title": "由于大量的要求，我已经更新了我的加密货币跟踪电子表格，现在支持前5000种加密货币（包括月球）。这个电子表格跟踪你的加密货币，并记录你的收益、损失和历史头寸。加密指数第14版"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我之前發佈了一個下載鏈接到我的excel電子表格，我做這個表格是爲了\n追蹤我的加密貨幣組合。它支持前1000個硬幣。然而，我有\n許多人給我留言，問我如何能增加對更多硬幣的支持。我想\n你們真的很喜歡你們的垃圾幣和小盤幣。\n\n所以我決定...",
+      "title": "由於大量的要求，我已經更新了我的加密貨幣跟蹤電子表格，現在支持前5000種加密貨幣（包括月球）。這個電子表格跟蹤你的加密貨幣，並記錄你的收益、損失和歷史頭寸。加密指數第14版"
+    }
+  ],
   "title": "Due to a high number of requests, I've updated my crypto tracking spreadsheet to now support the top 5000 crypto (moons included). This spreadsheet tracks your crypto and keeps a record of your gains, losses and historical positions. Cryptoprices version 14",
-  "link_flair_richtext": [
-    {
-      "e": "text",
-      "t": "METRICS"
-    }
-  ],
-  "subreddit_name_prefixed": "r/CryptoCurrency",
-  "hidden": false,
-  "pwls": 6,
-  "link_flair_css_class": "METRICS",
-  "downs": 0,
-  "thumbnail_height": null,
-  "top_awarded_type": null,
-  "hide_score": false,
-  "media_metadata": {
-    "2iz5i2z5zdx61": {
-      "status": "valid",
-      "e": "Image",
-      "m": "image/png",
-      "p": [
-        {
-          "y": 42,
-          "x": 108,
-          "u": "https://preview.redd.it/2iz5i2z5zdx61.png?width=108&crop=smart&auto=webp&s=c1b6b135e9a895cac55d28863a18c5dee8d6ff56"
-        },
-        {
-          "y": 84,
-          "x": 216,
-          "u": "https://preview.redd.it/2iz5i2z5zdx61.png?width=216&crop=smart&auto=webp&s=2e2b9b4518a43350b18603214d9d2e7c84214ce5"
-        },
-        {
-          "y": 125,
-          "x": 320,
-          "u": "https://preview.redd.it/2iz5i2z5zdx61.png?width=320&crop=smart&auto=webp&s=13430f5348ae4809c621144a79c9d3c992017613"
-        },
-        {
-          "y": 250,
-          "x": 640,
-          "u": "https://preview.redd.it/2iz5i2z5zdx61.png?width=640&crop=smart&auto=webp&s=2ae921c943681a405460244d1a23294da4b1d3bc"
-        },
-        {
-          "y": 375,
-          "x": 960,
-          "u": "https://preview.redd.it/2iz5i2z5zdx61.png?width=960&crop=smart&auto=webp&s=7ae62b9b657cc2d3d14a5fb51062022484d171df"
-        },
-        {
-          "y": 422,
-          "x": 1080,
-          "u": "https://preview.redd.it/2iz5i2z5zdx61.png?width=1080&crop=smart&auto=webp&s=188b8962f3346b84048035603d29ee537a0b2810"
-        }
-      ],
-      "s": {
-        "y": 722,
-        "x": 1846,
-        "u": "https://preview.redd.it/2iz5i2z5zdx61.png?width=1846&format=png&auto=webp&s=664340e0e4f78426d7ea6e76d55acf711790221e"
-      },
-      "id": "2iz5i2z5zdx61"
-    },
-    "3cco3o5czdx61": {
-      "status": "valid",
-      "e": "Image",
-      "m": "image/png",
-      "p": [
-        {
-          "y": 57,
-          "x": 108,
-          "u": "https://preview.redd.it/3cco3o5czdx61.png?width=108&crop=smart&auto=webp&s=8b204ddff5949ee7f711d987e72139d61984088c"
-        },
-        {
-          "y": 114,
-          "x": 216,
-          "u": "https://preview.redd.it/3cco3o5czdx61.png?width=216&crop=smart&auto=webp&s=c67d791a7d1a43175c1ccaa5230a2522462fbb48"
-        },
-        {
-          "y": 169,
-          "x": 320,
-          "u": "https://preview.redd.it/3cco3o5czdx61.png?width=320&crop=smart&auto=webp&s=f4763ad4dc67ad531ba5d4b8dc968683d6ce87ce"
-        },
-        {
-          "y": 338,
-          "x": 640,
-          "u": "https://preview.redd.it/3cco3o5czdx61.png?width=640&crop=smart&auto=webp&s=5bcdd5318855da29dcd5ac39c83d55f10e949511"
-        },
-        {
-          "y": 508,
-          "x": 960,
-          "u": "https://preview.redd.it/3cco3o5czdx61.png?width=960&crop=smart&auto=webp&s=e1a2b64c2577d426755bb492ed8e20c4be254dce"
-        },
-        {
-          "y": 571,
-          "x": 1080,
-          "u": "https://preview.redd.it/3cco3o5czdx61.png?width=1080&crop=smart&auto=webp&s=f6a051de5e99dd88fb5a42bbaae3afeab8737511"
-        }
-      ],
-      "s": {
-        "y": 719,
-        "x": 1358,
-        "u": "https://preview.redd.it/3cco3o5czdx61.png?width=1358&format=png&auto=webp&s=65aaa707797c52d15f656f9ac32e7061c4046025"
-      },
-      "id": "3cco3o5czdx61"
-    },
-    "xzzphdtjzdx61": {
-      "status": "valid",
-      "e": "Image",
-      "m": "image/png",
-      "p": [
-        {
-          "y": 47,
-          "x": 108,
-          "u": "https://preview.redd.it/xzzphdtjzdx61.png?width=108&crop=smart&auto=webp&s=b26c37e2e8b3453f719e55a6ad95615902ea75d2"
-        },
-        {
-          "y": 94,
-          "x": 216,
-          "u": "https://preview.redd.it/xzzphdtjzdx61.png?width=216&crop=smart&auto=webp&s=6a5511975d34b0c926342489ac2ab7cce25e39b2"
-        },
-        {
-          "y": 140,
-          "x": 320,
-          "u": "https://preview.redd.it/xzzphdtjzdx61.png?width=320&crop=smart&auto=webp&s=d77ca4ba96f7917f7a18fddc13f85a7864c733b1"
-        },
-        {
-          "y": 280,
-          "x": 640,
-          "u": "https://preview.redd.it/xzzphdtjzdx61.png?width=640&crop=smart&auto=webp&s=8c3f7f92bc1532ace14e5898ca365ae95f7f6c1a"
-        },
-        {
-          "y": 421,
-          "x": 960,
-          "u": "https://preview.redd.it/xzzphdtjzdx61.png?width=960&crop=smart&auto=webp&s=888d31c95757b0bf77a5d0b7cbe4606e57b55255"
-        },
-        {
-          "y": 473,
-          "x": 1080,
-          "u": "https://preview.redd.it/xzzphdtjzdx61.png?width=1080&crop=smart&auto=webp&s=b14758da5bf341855f3eea1802a399d6bb232daa"
-        }
-      ],
-      "s": {
-        "y": 629,
-        "x": 1434,
-        "u": "https://preview.redd.it/xzzphdtjzdx61.png?width=1434&format=png&auto=webp&s=b5fb706fc439ddecd40eead507ea5a7be308f95d"
-      },
-      "id": "xzzphdtjzdx61"
-    },
-    "ing8hwyozdx61": {
-      "status": "valid",
-      "e": "Image",
-      "m": "image/png",
-      "p": [
-        {
-          "y": 44,
-          "x": 108,
-          "u": "https://preview.redd.it/ing8hwyozdx61.png?width=108&crop=smart&auto=webp&s=7b0b3d5035ff6d5529aa5e6cf7950d84653c40df"
-        },
-        {
-          "y": 88,
-          "x": 216,
-          "u": "https://preview.redd.it/ing8hwyozdx61.png?width=216&crop=smart&auto=webp&s=03bdceb67aeb5e07ca4743883fdf0d319b78fdd9"
-        },
-        {
-          "y": 131,
-          "x": 320,
-          "u": "https://preview.redd.it/ing8hwyozdx61.png?width=320&crop=smart&auto=webp&s=33c789712fbd5dd3db5a8635bbd5895fa32babf7"
-        },
-        {
-          "y": 262,
-          "x": 640,
-          "u": "https://preview.redd.it/ing8hwyozdx61.png?width=640&crop=smart&auto=webp&s=9c6b5ba436e9995e792cad2f38ef51594bf05ec0"
-        },
-        {
-          "y": 393,
-          "x": 960,
-          "u": "https://preview.redd.it/ing8hwyozdx61.png?width=960&crop=smart&auto=webp&s=f02cd11d977426bc33a8ede2495ae2367d7dd906"
-        },
-        {
-          "y": 442,
-          "x": 1080,
-          "u": "https://preview.redd.it/ing8hwyozdx61.png?width=1080&crop=smart&auto=webp&s=ef65dc2293fc6100009cb2226bc867a96d938c23"
-        }
-      ],
-      "s": {
-        "y": 755,
-        "x": 1842,
-        "u": "https://preview.redd.it/ing8hwyozdx61.png?width=1842&format=png&auto=webp&s=65b27a8b2b430927cd888f2df3b76d7edf2edf72"
-      },
-      "id": "ing8hwyozdx61"
-    }
-  },
-  "name": "t3_n5tvpv",
-  "quarantine": false,
-  "link_flair_text_color": "dark",
-  "upvote_ratio": 0.96,
-  "author_flair_background_color": null,
-  "subreddit_type": "public",
-  "ups": 588,
-  "total_awards_received": 7,
-  "media_embed": {},
-  "thumbnail_width": null,
-  "author_flair_template_id": "38521cf8-291e-11e5-aaf3-0ee61c357d3b",
-  "is_original_content": true,
-  "user_reports": [],
-  "secure_media": null,
-  "is_reddit_media_domain": false,
-  "is_meta": false,
-  "category": null,
-  "secure_media_embed": {},
-  "link_flair_text": "METRICS",
-  "can_mod_post": false,
-  "score": 588,
-  "approved_by": null,
-  "author_premium": true,
-  "thumbnail": "self",
-  "edited": false,
-  "author_flair_css_class": "Bitcoin",
-  "author_flair_richtext": [
-    {
-      "e": "text",
-      "t": "Platinum | QC: BTC 285, CC 213, BCH 103"
-    }
-  ],
-  "gildings": {
-    "gid_1": 2
-  },
-  "post_hint": "self",
-  "content_categories": null,
-  "is_self": true,
-  "mod_note": null,
-  "created": 1620286625,
-  "link_flair_type": "richtext",
-  "wls": 6,
-  "removed_by_category": null,
-  "banned_by": null,
-  "author_flair_type": "richtext",
-  "domain": "self.CryptoCurrency",
-  "allow_live_comments": false,
+  "created_utc": 1620271979,
   "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>I previously posted a download link to my excel spreadsheet that I made for tracking my crypto portfolio. It supported the top 1000 coins. However I had many people message me asking how they could add support for more coins. I guess you guys really like your shitcoins and small caps. </p>\n\n<p>So I decided to update it with 5000 of the top coins from coingecko and post it again for anyone who is interested. Yes it even supports live prices for <a href=\"/r/cryptocurrency\">r/cryptocurrency</a> moons. </p>\n\n<p>The main reason that I didn&#39;t have all these coins previously is because it really slows down the refresh time while its importing all the new data. To deal with this I made it adjustable so that you can choose how many coins to import (0-5000). If you only want live prices for the top 100 then set this cell to 100, if you want more then you can have more, you will just have to wait a few more seconds each time you press refresh. </p>\n\n<p>There is a handful of other minor changes and bug fixes. </p>\n\n<p>The spreadsheet now also measure your trading gain/loss in BTC not just fiat. So you can see how well your alts are doing versus just holding BTC.</p>\n\n<p>The spreadsheet now logs the amount of coins you held over time, not just the fiat value of those coins. This should help a tax time if you are diligent at saving the spreadsheet after each trade (just update the portfolio tab with your new coins and save the spreadsheet). </p>\n\n<p>It also lets you input fiat purchases of any crypto now (no longer limited to 3).</p>\n\n<p>some screenshots;</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/2iz5i2z5zdx61.png?width=1846&amp;format=png&amp;auto=webp&amp;s=664340e0e4f78426d7ea6e76d55acf711790221e\">https://preview.redd.it/2iz5i2z5zdx61.png?width=1846&amp;format=png&amp;auto=webp&amp;s=664340e0e4f78426d7ea6e76d55acf711790221e</a></p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/3cco3o5czdx61.png?width=1358&amp;format=png&amp;auto=webp&amp;s=65aaa707797c52d15f656f9ac32e7061c4046025\">https://preview.redd.it/3cco3o5czdx61.png?width=1358&amp;format=png&amp;auto=webp&amp;s=65aaa707797c52d15f656f9ac32e7061c4046025</a></p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/xzzphdtjzdx61.png?width=1434&amp;format=png&amp;auto=webp&amp;s=b5fb706fc439ddecd40eead507ea5a7be308f95d\">https://preview.redd.it/xzzphdtjzdx61.png?width=1434&amp;format=png&amp;auto=webp&amp;s=b5fb706fc439ddecd40eead507ea5a7be308f95d</a></p>\n\n<p>Still has moon maths, regret calculator and lots of charts</p>\n\n<p><a href=\"https://preview.redd.it/ing8hwyozdx61.png?width=1842&amp;format=png&amp;auto=webp&amp;s=65b27a8b2b430927cd888f2df3b76d7edf2edf72\">https://preview.redd.it/ing8hwyozdx61.png?width=1842&amp;format=png&amp;auto=webp&amp;s=65b27a8b2b430927cd888f2df3b76d7edf2edf72</a></p>\n\n<p>Download link</p>\n\n<p><a href=\"https://www.mediafire.com/file/wc24a9bgxiaxhep/Cryptoprices14-_for_others.xlsm/file\">https://www.mediafire.com/file/wc24a9bgxiaxhep/Cryptoprices14-_for_others.xlsm/file</a></p>\n\n<p>previous version for reference and so you can see i&#39;m not trying to scam or give you malware. Of course you shouldn&#39;t trust me and should scan the file for malware anyway (i.e <a href=\"https://virustotal.com\">virustotal.com</a>). It does contain external connections and macros which are required for fetching crypto prices and exchange rates from coingecko.com</p>\n\n<p><a href=\"https://www.reddit.com/r/CryptoCurrency/comments/mrv04i/i_made_a_crypto_tracking_spreadsheet_with_live/?utm_source=share&amp;utm_medium=web2x&amp;context=3\">https://www.reddit.com/r/CryptoCurrency/comments/mrv04i/i_made_a_crypto_tracking_spreadsheet_with_live/?utm_source=share&amp;utm_medium=web2x&amp;context=3</a></p>\n</div><!-- SC_ON -->",
-  "likes": null,
-  "suggested_sort": null,
-  "banned_at_utc": null,
-  "view_count": null,
-  "archived": false,
-  "no_follow": false,
-  "is_crosspostable": false,
-  "pinned": false,
-  "over_18": false,
+  "score": 588,
   "preview": {
     "images": [
       {
@@ -279,61 +49,11 @@
     ],
     "enabled": false
   },
-  "awarders": [],
-  "media_only": false,
-  "link_flair_template_id": "87049662-0882-11e5-82e1-0e9d1a9f7761",
-  "can_gild": false,
-  "spoiler": false,
-  "locked": false,
-  "author_flair_text": "Platinum | QC: BTC 285, CC 213, BCH 103",
-  "treatment_tags": [],
-  "visited": false,
-  "removed_by": null,
-  "num_reports": null,
-  "distinguished": null,
-  "subreddit_id": "t5_2wlj3",
-  "mod_reason_by": null,
-  "removal_reason": null,
-  "link_flair_background_color": "",
-  "id": "n5tvpv",
-  "is_robot_indexable": true,
-  "report_reasons": null,
-  "author": "Fly115",
-  "discussion_type": null,
-  "num_comments": 46,
-  "send_replies": true,
-  "whitelist_status": "all_ads",
-  "contest_mode": false,
-  "mod_reports": [],
-  "author_patreon_flair": false,
-  "author_flair_text_color": "dark",
   "permalink": "/r/CryptoCurrency/comments/n5tvpv/due_to_a_high_number_of_requests_ive_updated_my/",
-  "parent_whitelist_status": "all_ads",
-  "stickied": false,
-  "url": "https://www.reddit.com/r/CryptoCurrency/comments/n5tvpv/due_to_a_high_number_of_requests_ive_updated_my/",
-  "subreddit_subscribers": 2485348,
-  "created_utc": 1620271979,
-  "num_crossposts": 0,
+  "subreddit": "CryptoCurrency",
+  "id": "n5tvpv",
+  "is_self": true,
   "media": null,
   "is_video": false,
-  "original_created_utc": 1620257825,
-  "the_new_excerpt": "I previously posted a download link to my excel spreadsheet that I made for\ntracking my crypto portfolio. It supported the top 1000 coins. However I had\nmany people message me asking how they could add support for more coins. I guess\nyou guys really like your shitcoins and small caps.\n\nSo I decided…",
-  "localize": [
-    {
-      "locale": "ja",
-      "the_new_excerpt": "以前、私の暗号ポートフォリオを追跡するために作成したエクセル・スプレッドシートのダウンロード・リンクを掲載しました。\n私の暗号ポートフォリオを追跡するために作ったエクセルシートのダウンロードリンクを掲載しました。これは、上位1000のコインをサポートしています。しかし、私は\n多くの人からメッセージをもらい、どうすればもっと多くのコインに対応できるのかを尋ねられました。思うに\nあなた方は本当にクソコインやスモールキャップが好きなんですね。\n\nそこで、私は...",
-      "title": "リクエストが多かったので、私のcrypto追跡スプレッドシートを更新し、トップ5000のcrypto（ムーンを含む）に対応しました。このスプレッドシートはあなたの暗号を追跡し、あなたの利益、損失、過去のポジションを記録します。クリプトプライス バージョン14"
-    },
-    {
-      "locale": "zh",
-      "the_new_excerpt": "我之前发布了一个下载链接到我的excel电子表格，我做这个表格是为了\n追踪我的加密货币组合。它支持前1000个硬币。然而，我有\n许多人给我留言，问我如何能增加对更多硬币的支持。我想\n你们真的很喜欢你们的垃圾币和小盘币。\n\n所以我决定...",
-      "title": "由于大量的要求，我已经更新了我的加密货币跟踪电子表格，现在支持前5000种加密货币（包括月球）。这个电子表格跟踪你的加密货币，并记录你的收益、损失和历史头寸。加密指数第14版"
-    },
-    {
-      "locale": "zh-Hant",
-      "the_new_excerpt": "我之前發佈了一個下載鏈接到我的excel電子表格，我做這個表格是爲了\n追蹤我的加密貨幣組合。它支持前1000個硬幣。然而，我有\n許多人給我留言，問我如何能增加對更多硬幣的支持。我想\n你們真的很喜歡你們的垃圾幣和小盤幣。\n\n所以我決定...",
-      "title": "由於大量的要求，我已經更新了我的加密貨幣跟蹤電子表格，現在支持前5000種加密貨幣（包括月球）。這個電子表格跟蹤你的加密貨幣，並記錄你的收益、損失和歷史頭寸。加密指數第14版"
-    }
-  ],
   "source_updated_at": 1620380965855
 }

@@ -1,9 +1,7 @@
 {
   "created_at": "Sun Mar 28 21:42:8 +0000 2021",
-  "id": 1376285718704705500,
   "id_str": "1376285718704705541",
   "full_text": "RT @DocumentingBTC: BNY Mellon, the largest custodian bank in the world, just cited work by @100trillionUSD, @hasufl, and @nic__carter in t…",
-  "truncated": false,
   "display_text_range": [
     0,
     140
@@ -55,83 +53,31 @@
     ],
     "urls": []
   },
-  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
   "user": {
-    "id": 918804624303382500,
-    "id_str": "918804624303382528",
     "name": "PlanB",
     "screen_name": "100trillionUSD",
-    "location": "NOT FINANCIAL ADVICE",
-    "description": "#bitcoin\n1PRoNLcWHzM8DuKpGE4YM9hb1PjSEnWRpn",
-    "url": "https://t.co/5Y254ILwhC",
-    "entities": {
-      "url": {
-        "urls": [
-          {
-            "url": "https://t.co/5Y254ILwhC",
-            "expanded_url": "http://PlanBTC.com",
-            "display_url": "PlanBTC.com",
-            "indices": [
-              0,
-              23
-            ]
-          }
-        ]
-      },
-      "description": {
-        "urls": []
-      }
-    },
-    "protected": false,
-    "followers_count": 349717,
-    "friends_count": 207,
-    "listed_count": 4685,
-    "created_at": "Fri Oct 13 11:44:27 +0000 2017",
-    "favourites_count": 22572,
-    "utc_offset": null,
-    "time_zone": null,
-    "geo_enabled": false,
-    "verified": false,
-    "statuses_count": 6526,
-    "lang": null,
-    "contributors_enabled": false,
-    "is_translator": false,
-    "is_translation_enabled": false,
-    "profile_background_color": "F5F8FA",
-    "profile_background_image_url": null,
-    "profile_background_image_url_https": null,
-    "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1365332744990060546/0G6DqQlc_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1365332744990060546/0G6DqQlc_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/918804624303382528/1601733353",
-    "profile_link_color": "1DA1F2",
-    "profile_sidebar_border_color": "C0DEED",
-    "profile_sidebar_fill_color": "DDEEF6",
-    "profile_text_color": "333333",
-    "profile_use_background_image": true,
-    "has_extended_profile": true,
-    "default_profile": true,
-    "default_profile_image": false,
-    "following": false,
-    "follow_request_sent": false,
-    "notifications": false,
-    "translator_type": "none"
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1365332744990060546/0G6DqQlc_normal.jpg"
   },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
+  "retweet_count": 357,
+  "favorite_count": 0,
+  "original_created_at": "Sun Mar 28 21:31:00 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @DocumentingBTC：全球最大的托管银行BNY Mellon刚刚在报告中引用了@100trillionUSD、@hasufl和@nic__carter的工作。",
+      "retweeted_status_full_text": "全球最大的托管银行BNY Mellon刚刚在其最新的#比特币研究报告中引用了@100trillionUSD、@hasufl和@nic__carter的工作成果https://t.co/FrvByStES7。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @DocumentingBTC：全球最大的託管銀行BNY Mellon剛剛在報告中引用了@100trillionUSD、@hasufl和@nic__carter的工作。",
+      "retweeted_status_full_text": "全球最大的託管銀行BNY Mellon剛剛在其最新的#比特幣研究報告中引用了@100trillionUSD、@hasufl和@nic__carter的工作成果https://t.co/FrvByStES7。"
+    }
+  ],
+  "source_updated_at": 1617357153253,
   "retweeted_status": {
     "created_at": "Sun Mar 28 16:15:58 +0000 2021",
-    "id": 1376206437421101000,
     "id_str": "1376206437421101058",
     "full_text": "BNY Mellon, the largest custodian bank in the world, just cited work by @100trillionUSD, @hasufl, and @nic__carter in their latest research report on #Bitcoin https://t.co/FrvByStES7",
-    "truncated": false,
     "display_text_range": [
       0,
       158
@@ -219,166 +165,13 @@
         }
       ]
     },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1376206435084869600,
-          "id_str": "1376206435084869636",
-          "indices": [
-            159,
-            182
-          ],
-          "media_url": "http://pbs.twimg.com/media/ExlEdhTXIAQ7Tq5.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/ExlEdhTXIAQ7Tq5.jpg",
-          "url": "https://t.co/FrvByStES7",
-          "display_url": "pic.twitter.com/FrvByStES7",
-          "expanded_url": "https://twitter.com/DocumentingBTC/status/1376206437421101058/photo/1",
-          "type": "photo",
-          "sizes": {
-            "large": {
-              "w": 1124,
-              "h": 632,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 1124,
-              "h": 632,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 382,
-              "resize": "fit"
-            }
-          }
-        },
-        {
-          "id": 1376206435089023000,
-          "id_str": "1376206435089022976",
-          "indices": [
-            159,
-            182
-          ],
-          "media_url": "http://pbs.twimg.com/media/ExlEdhUWgAAEuu3.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/ExlEdhUWgAAEuu3.jpg",
-          "url": "https://t.co/FrvByStES7",
-          "display_url": "pic.twitter.com/FrvByStES7",
-          "expanded_url": "https://twitter.com/DocumentingBTC/status/1376206437421101058/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1124,
-              "h": 632,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 1124,
-              "h": 632,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 382,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
     "user": {
-      "id": 1337780902680809500,
-      "id_str": "1337780902680809474",
       "name": "Documenting Bitcoin 📄",
       "screen_name": "DocumentingBTC",
-      "location": "DMs open for submissions ",
-      "description": "Follow along as #Bitcoin goes from magic internet money to the next global reserve currency, one submitted meme and statistic at a time.",
-      "url": null,
-      "entities": {
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 251168,
-      "friends_count": 553,
-      "listed_count": 2008,
-      "created_at": "Sat Dec 12 15:26:42 +0000 2020",
-      "favourites_count": 14412,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": false,
-      "verified": false,
-      "statuses_count": 2014,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "F5F8FA",
-      "profile_background_image_url": null,
-      "profile_background_image_url_https": null,
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1369025687743500288/-4tdBSu5_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1369025687743500288/-4tdBSu5_normal.jpg",
-      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1337780902680809474/1616351302",
-      "profile_link_color": "1DA1F2",
-      "profile_sidebar_border_color": "C0DEED",
-      "profile_sidebar_fill_color": "DDEEF6",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": false,
-      "default_profile": true,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none"
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1369025687743500288/-4tdBSu5_normal.jpg"
     },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
     "retweet_count": 172,
     "favorite_count": 1156,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
-  },
-  "is_quote_status": false,
-  "retweet_count": 357,
-  "favorite_count": 0,
-  "favorited": false,
-  "retweeted": false,
-  "lang": "en",
-  "original_created_at": "Sun Mar 28 21:31:00 +0000 2021",
-  "localize": [
-    {
-      "locale": "zh",
-      "full_text": "RT @DocumentingBTC：全球最大的托管银行BNY Mellon刚刚在报告中引用了@100trillionUSD、@hasufl和@nic__carter的工作。",
-      "retweeted_status_full_text": "全球最大的托管银行BNY Mellon刚刚在其最新的#比特币研究报告中引用了@100trillionUSD、@hasufl和@nic__carter的工作成果https://t.co/FrvByStES7。"
-    },
-    {
-      "locale": "zh-Hant",
-      "full_text": "RT @DocumentingBTC：全球最大的託管銀行BNY Mellon剛剛在報告中引用了@100trillionUSD、@hasufl和@nic__carter的工作。",
-      "retweeted_status_full_text": "全球最大的託管銀行BNY Mellon剛剛在其最新的#比特幣研究報告中引用了@100trillionUSD、@hasufl和@nic__carter的工作成果https://t.co/FrvByStES7。"
-    }
-  ],
-  "source_updated_at": 1617357153253
+    "possibly_sensitive": false
+  }
 }

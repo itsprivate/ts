@@ -1,9 +1,7 @@
 {
   "created_at": "Tue Jun 15 21:35:45 +0000 2021",
-  "id": 1404910323556094000,
   "id_str": "1404910323556093960",
   "full_text": "RT @jack: 🇪🇹#bitcoin",
-  "truncated": false,
   "display_text_range": [
     0,
     20
@@ -33,94 +31,35 @@
     ],
     "urls": []
   },
-  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
   "user": {
-    "id": 918804624303382500,
-    "id_str": "918804624303382528",
     "name": "PlanB",
     "screen_name": "100trillionUSD",
-    "location": "NOT FINANCIAL ADVICE",
-    "description": "#bitcoin\nhttps://t.co/Ry7rqPRR8t\nNOT FINANCIAL ADVICE\n1PRoNLcWHzM8DuKpGE4YM9hb1PjSEnWRpn",
-    "url": "https://t.co/Ry7rqPRR8t",
-    "entities": {
-      "url": {
-        "urls": [
-          {
-            "url": "https://t.co/Ry7rqPRR8t",
-            "expanded_url": "http://PlanBTC.com",
-            "display_url": "PlanBTC.com",
-            "indices": [
-              0,
-              23
-            ]
-          }
-        ]
-      },
-      "description": {
-        "urls": [
-          {
-            "url": "https://t.co/Ry7rqPRR8t",
-            "expanded_url": "http://PlanBTC.com",
-            "display_url": "PlanBTC.com",
-            "indices": [
-              9,
-              32
-            ]
-          }
-        ]
-      }
-    },
-    "protected": false,
-    "followers_count": 560561,
-    "friends_count": 193,
-    "listed_count": 6655,
-    "created_at": "Fri Oct 13 11:44:27 +0000 2017",
-    "favourites_count": 23781,
-    "utc_offset": null,
-    "time_zone": null,
-    "geo_enabled": false,
-    "verified": false,
-    "statuses_count": 7286,
-    "lang": null,
-    "contributors_enabled": false,
-    "is_translator": false,
-    "is_translation_enabled": false,
-    "profile_background_color": "F5F8FA",
-    "profile_background_image_url": null,
-    "profile_background_image_url_https": null,
-    "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1381894517708754948/EpK8VJPe_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1381894517708754948/EpK8VJPe_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/918804624303382528/1601733353",
-    "profile_link_color": "1DA1F2",
-    "profile_sidebar_border_color": "C0DEED",
-    "profile_sidebar_fill_color": "DDEEF6",
-    "profile_text_color": "333333",
-    "profile_use_background_image": true,
-    "has_extended_profile": true,
-    "default_profile": true,
-    "default_profile_image": false,
-    "following": false,
-    "follow_request_sent": false,
-    "notifications": false,
-    "translator_type": "none",
-    "withheld_in_countries": []
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1381894517708754948/EpK8VJPe_normal.jpg"
   },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
+  "retweet_count": 567,
+  "favorite_count": 0,
+  "original_created_at": "Tue Jun 15 21:14:57 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @jack: 🇪🇹#bitcoin",
+      "retweeted_status_full_text": "🇪🇹#bitcoin https://t.co/jQSnJr5bv8"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @jack: 🇪🇹#比特币",
+      "retweeted_status_full_text": "🇪🇹#比特币 https://t.co/jQSnJr5bv8"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @jack: 🇪🇹#比特幣",
+      "retweeted_status_full_text": "🇪🇹#比特幣 https://t.co/jQSnJr5bv8"
+    }
+  ],
   "retweeted_status": {
     "created_at": "Tue Jun 15 20:57:11 +0000 2021",
-    "id": 1404905853111746600,
     "id_str": "1404905853111746562",
     "full_text": "🇪🇹#bitcoin https://t.co/jQSnJr5bv8",
-    "truncated": false,
     "display_text_range": [
       0,
       10
@@ -149,79 +88,18 @@
         }
       ]
     },
-    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
     "user": {
-      "id": 12,
-      "id_str": "12",
       "name": "jack",
       "screen_name": "jack",
-      "location": "",
-      "description": "#bitcoin",
-      "url": null,
-      "entities": {
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 5519250,
-      "friends_count": 4736,
-      "listed_count": 29506,
-      "created_at": "Tue Mar 21 20:50:14 +0000 2006",
-      "favourites_count": 33966,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": true,
-      "verified": true,
-      "statuses_count": 27575,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "EBEBEB",
-      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
-      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1115644092329758721/AFjOr-K8_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1115644092329758721/AFjOr-K8_normal.jpg",
-      "profile_banner_url": "https://pbs.twimg.com/profile_banners/12/1584998840",
-      "profile_link_color": "990000",
-      "profile_sidebar_border_color": "DFDFDF",
-      "profile_sidebar_fill_color": "F3F3F3",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": false,
-      "default_profile": false,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "regular",
-      "withheld_in_countries": []
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1115644092329758721/AFjOr-K8_normal.jpg"
     },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 1404641097868062700,
-    "quoted_status_id_str": "1404641097868062723",
-    "quoted_status_permalink": {
-      "url": "https://t.co/jQSnJr5bv8",
-      "expanded": "https://twitter.com/projectmano/status/1404641097868062723",
-      "display": "twitter.com/projectmano/st…"
-    },
+    "retweet_count": 567,
+    "favorite_count": 3207,
+    "possibly_sensitive": false,
     "quoted_status": {
       "created_at": "Tue Jun 15 03:25:09 +0000 2021",
-      "id": 1404641097868062700,
       "id_str": "1404641097868062723",
       "full_text": "THREAD - For the last 6 months or so, we have been trying to push the Ethiopian Gov. to consider mining and storing #Bitcoin to combat the rising inequalities &amp; global inflation. We now have mobilized like-minded Ethiopians to start Project Mano https://t.co/ZIaIYbElEt \n\n1/4",
-      "truncated": false,
       "display_text_range": [
         0,
         279
@@ -250,122 +128,14 @@
           }
         ]
       },
-      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "in_reply_to_status_id": null,
-      "in_reply_to_status_id_str": null,
-      "in_reply_to_user_id": null,
-      "in_reply_to_user_id_str": null,
-      "in_reply_to_screen_name": null,
       "user": {
-        "id": 1201674760628965400,
-        "id_str": "1201674760628965377",
         "name": "Project Mano | ማኖ 🇪🇹",
         "screen_name": "projectmano",
-        "location": "",
-        "description": "ዲጂታል ወርቅ ለዲጂታል ኢትዮጵያ! Push Ethiopian Gov. into embrace Bitcoin!\n\n7 Step By Step plans for #Ethiopia to embrace #Bitcoin -\n\nJoin the movement!",
-        "url": "https://t.co/6WK0NH7gye",
-        "entities": {
-          "url": {
-            "urls": [
-              {
-                "url": "https://t.co/6WK0NH7gye",
-                "expanded_url": "https://projectmano.com",
-                "display_url": "projectmano.com",
-                "indices": [
-                  0,
-                  23
-                ]
-              }
-            ]
-          },
-          "description": {
-            "urls": []
-          }
-        },
-        "protected": false,
-        "followers_count": 584,
-        "friends_count": 11,
-        "listed_count": 17,
-        "created_at": "Tue Dec 03 01:29:43 +0000 2019",
-        "favourites_count": 446,
-        "utc_offset": null,
-        "time_zone": null,
-        "geo_enabled": false,
-        "verified": false,
-        "statuses_count": 16,
-        "lang": null,
-        "contributors_enabled": false,
-        "is_translator": false,
-        "is_translation_enabled": false,
-        "profile_background_color": "F5F8FA",
-        "profile_background_image_url": null,
-        "profile_background_image_url_https": null,
-        "profile_background_tile": false,
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1404625008664719361/RpSqaZ-d_normal.jpg",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1404625008664719361/RpSqaZ-d_normal.jpg",
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1201674760628965377/1623718827",
-        "profile_link_color": "1DA1F2",
-        "profile_sidebar_border_color": "C0DEED",
-        "profile_sidebar_fill_color": "DDEEF6",
-        "profile_text_color": "333333",
-        "profile_use_background_image": true,
-        "has_extended_profile": false,
-        "default_profile": true,
-        "default_profile_image": false,
-        "following": false,
-        "follow_request_sent": false,
-        "notifications": false,
-        "translator_type": "none",
-        "withheld_in_countries": []
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1404625008664719361/RpSqaZ-d_normal.jpg"
       },
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
       "retweet_count": 265,
       "favorite_count": 1201,
-      "favorited": false,
-      "retweeted": false,
-      "possibly_sensitive": false,
-      "lang": "en"
-    },
-    "retweet_count": 567,
-    "favorite_count": 3207,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "und"
-  },
-  "is_quote_status": true,
-  "quoted_status_id": 1404641097868062700,
-  "quoted_status_id_str": "1404641097868062723",
-  "quoted_status_permalink": {
-    "url": "https://t.co/jQSnJr5bv8",
-    "expanded": "https://twitter.com/projectmano/status/1404641097868062723",
-    "display": "twitter.com/projectmano/st…"
-  },
-  "retweet_count": 567,
-  "favorite_count": 0,
-  "favorited": false,
-  "retweeted": false,
-  "lang": "und",
-  "original_created_at": "Tue Jun 15 21:14:57 +0000 2021",
-  "localize": [
-    {
-      "locale": "ja",
-      "full_text": "RT @jack: 🇪🇹#bitcoin",
-      "retweeted_status_full_text": "🇪🇹#bitcoin https://t.co/jQSnJr5bv8"
-    },
-    {
-      "locale": "zh",
-      "full_text": "RT @jack: 🇪🇹#比特币",
-      "retweeted_status_full_text": "🇪🇹#比特币 https://t.co/jQSnJr5bv8"
-    },
-    {
-      "locale": "zh-Hant",
-      "full_text": "RT @jack: 🇪🇹#比特幣",
-      "retweeted_status_full_text": "🇪🇹#比特幣 https://t.co/jQSnJr5bv8"
+      "possibly_sensitive": false
     }
-  ]
+  }
 }

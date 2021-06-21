@@ -1,9 +1,7 @@
 {
   "created_at": "Fri Mar 19 9:47:8 +0000 2021",
-  "id": 1372835732461588500,
   "id_str": "1372835732461588482",
   "full_text": "Have a great weekend https://t.co/XX4LkAnQxb",
-  "truncated": false,
   "display_text_range": [
     0,
     20
@@ -52,137 +50,14 @@
       }
     ]
   },
-  "extended_entities": {
-    "media": [
-      {
-        "id": 1372835699104305200,
-        "id_str": "1372835699104305157",
-        "indices": [
-          21,
-          44
-        ],
-        "media_url": "http://pbs.twimg.com/tweet_video_thumb/Ew1Ky3QWUAUD5g6.jpg",
-        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ew1Ky3QWUAUD5g6.jpg",
-        "url": "https://t.co/XX4LkAnQxb",
-        "display_url": "pic.twitter.com/XX4LkAnQxb",
-        "expanded_url": "https://twitter.com/100trillionUSD/status/1372835732461588482/photo/1",
-        "type": "animated_gif",
-        "sizes": {
-          "thumb": {
-            "w": 150,
-            "h": 150,
-            "resize": "crop"
-          },
-          "medium": {
-            "w": 460,
-            "h": 816,
-            "resize": "fit"
-          },
-          "small": {
-            "w": 383,
-            "h": 680,
-            "resize": "fit"
-          },
-          "large": {
-            "w": 460,
-            "h": 816,
-            "resize": "fit"
-          }
-        },
-        "video_info": {
-          "aspect_ratio": [
-            115,
-            204
-          ],
-          "variants": [
-            {
-              "bitrate": 0,
-              "content_type": "video/mp4",
-              "url": "https://video.twimg.com/tweet_video/Ew1Ky3QWUAUD5g6.mp4"
-            }
-          ]
-        }
-      }
-    ]
-  },
-  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
   "user": {
-    "id": 918804624303382500,
-    "id_str": "918804624303382528",
     "name": "PlanB",
     "screen_name": "100trillionUSD",
-    "location": "NOT FINANCIAL ADVICE",
-    "description": "#bitcoin\n1PRoNLcWHzM8DuKpGE4YM9hb1PjSEnWRpn",
-    "url": "https://t.co/5Y254ILwhC",
-    "entities": {
-      "url": {
-        "urls": [
-          {
-            "url": "https://t.co/5Y254ILwhC",
-            "expanded_url": "http://PlanBTC.com",
-            "display_url": "PlanBTC.com",
-            "indices": [
-              0,
-              23
-            ]
-          }
-        ]
-      },
-      "description": {
-        "urls": []
-      }
-    },
-    "protected": false,
-    "followers_count": 331113,
-    "friends_count": 204,
-    "listed_count": 4470,
-    "created_at": "Fri Oct 13 11:44:27 +0000 2017",
-    "favourites_count": 22404,
-    "utc_offset": null,
-    "time_zone": null,
-    "geo_enabled": false,
-    "verified": false,
-    "statuses_count": 6450,
-    "lang": null,
-    "contributors_enabled": false,
-    "is_translator": false,
-    "is_translation_enabled": false,
-    "profile_background_color": "F5F8FA",
-    "profile_background_image_url": null,
-    "profile_background_image_url_https": null,
-    "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1365332744990060546/0G6DqQlc_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1365332744990060546/0G6DqQlc_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/918804624303382528/1601733353",
-    "profile_link_color": "1DA1F2",
-    "profile_sidebar_border_color": "C0DEED",
-    "profile_sidebar_fill_color": "DDEEF6",
-    "profile_text_color": "333333",
-    "profile_use_background_image": true,
-    "has_extended_profile": true,
-    "default_profile": true,
-    "default_profile_image": false,
-    "following": false,
-    "follow_request_sent": false,
-    "notifications": false,
-    "translator_type": "none"
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1365332744990060546/0G6DqQlc_normal.jpg"
   },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
-  "is_quote_status": false,
   "retweet_count": 270,
   "favorite_count": 3301,
-  "favorited": false,
-  "retweeted": false,
   "possibly_sensitive": false,
-  "lang": "en",
   "original_created_at": "Fri Mar 19 09:01:59 +0000 2021",
   "localize": [
     {

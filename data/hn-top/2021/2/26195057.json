@@ -4,14 +4,7 @@
   "url": null,
   "author": "adam_carrigan",
   "points": 176,
-  "story_text": "Hi HN,<p>Adam and Jorge here,  and today we’re very excited to share MindsDB with you (<a href=\"http:&#x2F;&#x2F;github.com&#x2F;mindsdb&#x2F;mindsdb\" rel=\"nofollow\">http:&#x2F;&#x2F;github.com&#x2F;mindsdb&#x2F;mindsdb</a>). MindsDB AutoML Server is an open-source platform designed to accelerate machine learning workflows for people with data inside databases by introducing virtual AI tables. We allow you to create and consume machine learning models as regular database tables.<p>Jorge and I have been friends for many years, having first met at college. We have previously founded and failed at another startup, but we stuck together as a team to start MindsDB. Initially a passion project, MindsDB began as an idea to help those who could not afford to hire a team of data scientists, which at the time was (and still is) very expensive. It has since grown into a thriving open-source community with contributors and users all over the globe.<p>With the plethora of data available in databases today, predictive modeling can often be a pain, especially if you need to write complex applications for ingesting data, training encoders and embedders, writing sampling algorithms, training models, optimizing, scheduling, versioning, moving models into production environments, maintaining them and then having to explain the predictions and the degree of confidence… we knew there had to be a better way!<p>We aim to steer you away from constantly reinventing the wheel by abstracting most of the unnecessary complexities around building, training, and deploying machine learning models.  MindsDB provides you with two techniques for this: build and train models as simply as you would write an SQL query, and seamlessly “publish” and manage machine learning models as virtual tables inside your databases (we support Clickhouse, MariaDB, MySQL, PostgreSQL, and MSSQL. MongoDB is coming soon.) We also support getting data from other sources, such as Snowflake, s3, SQLite, and any excel, JSON, or CSV file.<p>When we talk to our community, we find that they are using MindsDB for anything ranging from reducing financial risk in the payments sector to predicting in-app usage statistics - one user is even trying to predict the price of Bitcoin using sentiment analysis (we wish them luck). No matter what the use-case, what we hear most often is that the two most painful parts of the whole process are model generation (R&amp;D) and&#x2F;or moving the model into production.<p>For those who already have models (i.e. who have already done the R&amp;D part), we are launching the ability to bring your own models from frameworks like Pytorch, Tensorflow, scikit-learn, Keras, XGBoost, CatBoost, LightGBM, etc. directly into your database. If you’d like to try this experimental feature, you can sign-up here: (<a href=\"https:&#x2F;&#x2F;mindsdb.com&#x2F;bring-your-own-ml-models\" rel=\"nofollow\">https:&#x2F;&#x2F;mindsdb.com&#x2F;bring-your-own-ml-models</a>)<p>We currently have a handful of customers who pay us for support. However, we will soon be launching a cloud version of MindsDB for those who do not want to worry about DevOps, scalability, and managing GPU clusters. Nevertheless, MindsDB will always remain free and open-source, because democratizing machine learning is at the core of every decision we make.<p>We’re making good progress thanks to our open-source community and are also grateful to have the backing of the founders of MySQL &amp; MariaDB. We would love your feedback and invite you to try it out.<p>We’d also love to hear about your experience, so please share your feedback, thoughts, comments, and ideas below. <a href=\"https:&#x2F;&#x2F;docs.mindsdb.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;docs.mindsdb.com&#x2F;</a> or <a href=\"https:&#x2F;&#x2F;mindsdb.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;mindsdb.com&#x2F;</a><p>Thanks in advance,\nAdam &amp; Jorge",
-  "comment_text": null,
   "num_comments": 52,
-  "story_id": null,
-  "story_title": null,
-  "story_url": null,
-  "parent_id": null,
-  "created_at_i": 1613753702,
   "_tags": [
     "story",
     "author_adam_carrigan",
@@ -19,25 +12,7 @@
     "front_page"
   ],
   "objectID": "26195057",
-  "_highlightResult": {
-    "title": {
-      "value": "Launch HN: MindsDB (YC W20) – Machine Learning Inside Your Database",
-      "matchLevel": "none",
-      "matchedWords": []
-    },
-    "author": {
-      "value": "adam_carrigan",
-      "matchLevel": "none",
-      "matchedWords": []
-    },
-    "story_text": {
-      "value": "Hi HN,<p>Adam and Jorge here,  and today we’re very excited to share MindsDB with you (<a href=\"http://github.com/mindsdb/mindsdb\" rel=\"nofollow\">http://github.com/mindsdb/mindsdb</a>). MindsDB AutoML Server is an open-source platform designed to accelerate machine learning workflows for people with data inside databases by introducing virtual AI tables. We allow you to create and consume machine learning models as regular database tables.<p>Jorge and I have been friends for many years, having first met at college. We have previously founded and failed at another startup, but we stuck together as a team to start MindsDB. Initially a passion project, MindsDB began as an idea to help those who could not afford to hire a team of data scientists, which at the time was (and still is) very expensive. It has since grown into a thriving open-source community with contributors and users all over the globe.<p>With the plethora of data available in databases today, predictive modeling can often be a pain, especially if you need to write complex applications for ingesting data, training encoders and embedders, writing sampling algorithms, training models, optimizing, scheduling, versioning, moving models into production environments, maintaining them and then having to explain the predictions and the degree of confidence… we knew there had to be a better way!<p>We aim to steer you away from constantly reinventing the wheel by abstracting most of the unnecessary complexities around building, training, and deploying machine learning models.  MindsDB provides you with two techniques for this: build and train models as simply as you would write an SQL query, and seamlessly “publish” and manage machine learning models as virtual tables inside your databases (we support Clickhouse, MariaDB, MySQL, PostgreSQL, and MSSQL. MongoDB is coming soon.) We also support getting data from other sources, such as Snowflake, s3, SQLite, and any excel, JSON, or CSV file.<p>When we talk to our community, we find that they are using MindsDB for anything ranging from reducing financial risk in the payments sector to predicting in-app usage statistics - one user is even trying to predict the price of Bitcoin using sentiment analysis (we wish them luck). No matter what the use-case, what we hear most often is that the two most painful parts of the whole process are model generation (R&amp;D) and/or moving the model into production.<p>For those who already have models (i.e. who have already done the R&amp;D part), we are launching the ability to bring your own models from frameworks like Pytorch, Tensorflow, scikit-learn, Keras, XGBoost, CatBoost, LightGBM, etc. directly into your database. If you’d like to try this experimental feature, you can sign-up here: (<a href=\"https://mindsdb.com/bring-your-own-ml-models\" rel=\"nofollow\">https://mindsdb.com/bring-your-own-ml-models</a>)<p>We currently have a handful of customers who pay us for support. However, we will soon be launching a cloud version of MindsDB for those who do not want to worry about DevOps, scalability, and managing GPU clusters. Nevertheless, MindsDB will always remain free and open-source, because democratizing machine learning is at the core of every decision we make.<p>We’re making good progress thanks to our open-source community and are also grateful to have the backing of the founders of MySQL &amp; MariaDB. We would love your feedback and invite you to try it out.<p>We’d also love to hear about your experience, so please share your feedback, thoughts, comments, and ideas below. <a href=\"https://docs.mindsdb.com/\" rel=\"nofollow\">https://docs.mindsdb.com/</a> or <a href=\"https://mindsdb.com/\" rel=\"nofollow\">https://mindsdb.com/</a><p>Thanks in advance,\nAdam &amp; Jorge",
-      "matchLevel": "none",
-      "matchedWords": []
-    }
-  },
   "original_created_at": "2021-02-19T16:55:02.000Z",
-  "image": "",
   "localize": [
     {
       "locale": "zh",
@@ -48,5 +23,6 @@
       "title": "發佈HN：MindsDB (YC W20)--在您的數據庫中進行機器學習。"
     }
   ],
-  "source_updated_at": 1614332904465
+  "source_updated_at": 1614332904465,
+  "image": ""
 }

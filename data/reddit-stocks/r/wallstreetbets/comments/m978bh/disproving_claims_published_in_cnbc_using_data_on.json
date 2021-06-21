@@ -1,254 +1,23 @@
 {
-  "approved_at_utc": null,
-  "subreddit": "wallstreetbets",
-  "selftext": "Yesterday, CNBC and Market Watch published [articles](https://www.cnbc.com/2021/03/19/stimulus-checks-unlikely-to-spur-another-gamestop-mania-says-bofa.html) on research concluding that we shouldn't expect people to use stimulus money to buy GameStop stock. One of the main justifications they gave for this conclusion was that “the number of recent conversations \\[on Reddit\\] including both GME and stimulus is low.”\n\nAs some of you know, I’ve been collecting data on WSB discussion for quite a while now, and can quantitatively show that to be false.\n\nI'll try to keep this brief, as I know attention spans here are short. Please don't hesitate to ask questions below.\n\nTo start with, here is a graph of the total number of comments in my data mentioning \"stimulus\" or \"stimmy\" over time:\n\n[Stimulus Comments](https://preview.redd.it/68304hkrr6o61.png?width=1730&format=png&auto=webp&s=89e506d66c60fcfdb2c7f615e53cf952fa4dd522)\n\nHere is a graph of the number of comments in my data that mention BOTH stimulus & GME over time:\n\n[WSB comments discussing stimulus & GME](https://preview.redd.it/f5ubk3hhq6o61.png?width=1730&format=png&auto=webp&s=c3b50e38cb0eafa490bcfeba1bda3b6e023409ce)\n\nThe drop off at the end reflects the fact that it was 3:00pm as I am writing this and the day is only partially completed. One could argue that these numbers should be normalized based on the total of number of comments per day and, while I'd disagree, I'll include that graph below as well:\n\n[Normalized WSB comments discussing stimulus & GME](https://preview.redd.it/003y7k0mq6o61.png?width=1730&format=png&auto=webp&s=3b4b0762cf396708bdef53f795ce84ad7e0c4847)\n\nFrom both of these graphs I see no indication of the number of recent conversations including both GME and stimulus being low, as a matter of fact it has hit all time highs over the last few days Here's a chart of the top 5 days in which stimulus was mentioned the most in my data of WSB daily discussion.\n\n|**Day**|**Stimulus & GME mention count**|\n|:-|:-|\n|3/15/21|124|\n|3/14/21|103|\n|3/16/21|74|\n|3/13/21|69|\n|1/14/21|67|\n\nTo take it a step further, we can look at what % of comments mentioning different stocks also mention stimulus, as I did recently in the graphic below. A larger proportion of comments mentioning $GME on WSB also mention stimulus than for any other major meme stocks, save for $TSLA.\n\n[Most-discussed stocks in 2021 w\\/ \\\\\"stimmy ratio\\\\\"](https://preview.redd.it/d6gj9vj7r6o61.png?width=1072&format=png&auto=webp&s=6d7f1e3d99059a70494a08da9ea571f2832a2359)\n\nI don't know how the conclusion was reached that the number of recent conversations on reddit including GME and stimulus is low. Assuming that this is an honest mistake, I'd encourage BofA, Market Watch, CNBC, or any of the other parties involved to get better data. There are a lot of people out there who have started collecting data on WSB, but not many who do it well and with good intentions. I've been doing it for a while now, and I like to think I fit both those criteria which is why I feel qualified to write this post.\n\nNote:  I don’t have stake in $GME and don’t actively trade a portfolio, in order to avoid perceptions of bias in my analysis. This is not financial advice, or a recommendation to buy or sell any stock.",
-  "author_fullname": "t2_43r35eha",
-  "saved": false,
-  "mod_reason_title": null,
-  "gilded": 2,
-  "clicked": false,
+  "author": "pdwp90",
+  "the_new_excerpt": "Yesterday, CNBC and Market Watch published articles\n[https://www.cnbc.com/2021/03/19/stimulus-checks-unlikely-to-spur-another-gamestop-mania-says-bofa.html]\non research concluding that we shouldn't expect people to use stimulus money to\nbuy GameStop stock. One of the main justifications they gave…",
+  "original_created_utc": 1616247522,
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "昨天，CNBC和Market Watch发表文章\n[https://www.cnbc.com/2021/03/19/stimulus-checks-unlikely-to-spur-another-gamestop-mania-says-bofa.html]\n研究认为，我们不应该期望人们用刺激资金来购买商品，而应该用经济刺激的方式来购买商品。\n购买GameStop的股票。他们给出的一个主要理由是...",
+      "title": "用WSB讨论的数据反驳CNBC发表的说法。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "昨天，CNBC和Market Watch發表文章\n[https://www.cnbc.com/2021/03/19/stimulus-checks-unlikely-to-spur-another-gamestop-mania-says-bofa.html]\n研究認爲，我們不應該期望人們用刺激資金來購買商品，而應該用經濟刺激的方式來購買商品。\n購買GameStop的股票。他們給出的一個主要理由是...",
+      "title": "用WSB討論的數據反駁CNBC發表的說法。"
+    }
+  ],
   "title": "Disproving claims published in CNBC using data on WSB discussion",
-  "link_flair_richtext": [
-    {
-      "e": "text",
-      "t": "Discussion"
-    }
-  ],
-  "subreddit_name_prefixed": "r/wallstreetbets",
-  "hidden": false,
-  "pwls": 7,
-  "link_flair_css_class": "question",
-  "downs": 0,
-  "thumbnail_height": 93,
-  "top_awarded_type": null,
-  "hide_score": false,
-  "media_metadata": {
-    "68304hkrr6o61": {
-      "status": "valid",
-      "e": "Image",
-      "m": "image/png",
-      "p": [
-        {
-          "y": 60,
-          "x": 108,
-          "u": "https://preview.redd.it/68304hkrr6o61.png?width=108&crop=smart&auto=webp&s=4686ac7d31203bdaa97098fc986d5b099f40bcf2"
-        },
-        {
-          "y": 121,
-          "x": 216,
-          "u": "https://preview.redd.it/68304hkrr6o61.png?width=216&crop=smart&auto=webp&s=88a27d51187de1901593e27c49d64afce0bf6cc3"
-        },
-        {
-          "y": 180,
-          "x": 320,
-          "u": "https://preview.redd.it/68304hkrr6o61.png?width=320&crop=smart&auto=webp&s=c2c09a49fe62fdeeaef11c9dbf8c81c8dddd3a9b"
-        },
-        {
-          "y": 360,
-          "x": 640,
-          "u": "https://preview.redd.it/68304hkrr6o61.png?width=640&crop=smart&auto=webp&s=f0032568dd8c9fecf9c59a53422a734a0c7d13ee"
-        },
-        {
-          "y": 540,
-          "x": 960,
-          "u": "https://preview.redd.it/68304hkrr6o61.png?width=960&crop=smart&auto=webp&s=3f429b87a6de2af84b2cc102abbf572d68661a3f"
-        },
-        {
-          "y": 608,
-          "x": 1080,
-          "u": "https://preview.redd.it/68304hkrr6o61.png?width=1080&crop=smart&auto=webp&s=aef5e003e53c171127bd6d81995971cf9a8dd99c"
-        }
-      ],
-      "s": {
-        "y": 974,
-        "x": 1730,
-        "u": "https://preview.redd.it/68304hkrr6o61.png?width=1730&format=png&auto=webp&s=89e506d66c60fcfdb2c7f615e53cf952fa4dd522"
-      },
-      "id": "68304hkrr6o61"
-    },
-    "f5ubk3hhq6o61": {
-      "status": "valid",
-      "e": "Image",
-      "m": "image/png",
-      "p": [
-        {
-          "y": 60,
-          "x": 108,
-          "u": "https://preview.redd.it/f5ubk3hhq6o61.png?width=108&crop=smart&auto=webp&s=05bf7eb9097dff1017e3632f5e81c3157134fccf"
-        },
-        {
-          "y": 121,
-          "x": 216,
-          "u": "https://preview.redd.it/f5ubk3hhq6o61.png?width=216&crop=smart&auto=webp&s=c04075ed065e25558c731bac430dc2b3d83c56ad"
-        },
-        {
-          "y": 180,
-          "x": 320,
-          "u": "https://preview.redd.it/f5ubk3hhq6o61.png?width=320&crop=smart&auto=webp&s=54e7b930286fcf96f9c548f335b66ab74dcbefe5"
-        },
-        {
-          "y": 360,
-          "x": 640,
-          "u": "https://preview.redd.it/f5ubk3hhq6o61.png?width=640&crop=smart&auto=webp&s=feceb093f2220d6f3edbb7e729abd6560caa7f15"
-        },
-        {
-          "y": 540,
-          "x": 960,
-          "u": "https://preview.redd.it/f5ubk3hhq6o61.png?width=960&crop=smart&auto=webp&s=98f8c98fb8c05825da734e8b37bcc4fe2a3b397b"
-        },
-        {
-          "y": 608,
-          "x": 1080,
-          "u": "https://preview.redd.it/f5ubk3hhq6o61.png?width=1080&crop=smart&auto=webp&s=a2cc052f6c5003890630d0ab34b70be0b494d150"
-        }
-      ],
-      "s": {
-        "y": 974,
-        "x": 1730,
-        "u": "https://preview.redd.it/f5ubk3hhq6o61.png?width=1730&format=png&auto=webp&s=c3b50e38cb0eafa490bcfeba1bda3b6e023409ce"
-      },
-      "id": "f5ubk3hhq6o61"
-    },
-    "d6gj9vj7r6o61": {
-      "status": "valid",
-      "e": "Image",
-      "m": "image/png",
-      "p": [
-        {
-          "y": 103,
-          "x": 108,
-          "u": "https://preview.redd.it/d6gj9vj7r6o61.png?width=108&crop=smart&auto=webp&s=364391a045874390aded76ee6434a08a804d684c"
-        },
-        {
-          "y": 207,
-          "x": 216,
-          "u": "https://preview.redd.it/d6gj9vj7r6o61.png?width=216&crop=smart&auto=webp&s=0bb59ac780505950bb0b7e430bb469e594b00427"
-        },
-        {
-          "y": 306,
-          "x": 320,
-          "u": "https://preview.redd.it/d6gj9vj7r6o61.png?width=320&crop=smart&auto=webp&s=a1d2c1530175d6144abf1ad56b5e4deb1dad4b6b"
-        },
-        {
-          "y": 613,
-          "x": 640,
-          "u": "https://preview.redd.it/d6gj9vj7r6o61.png?width=640&crop=smart&auto=webp&s=a5e8ebb37ec5b557bd2579b160551d69a3d3d751"
-        },
-        {
-          "y": 920,
-          "x": 960,
-          "u": "https://preview.redd.it/d6gj9vj7r6o61.png?width=960&crop=smart&auto=webp&s=ce8fa10ad21aa2600fc0d747e03c1f97f5bf1a4f"
-        }
-      ],
-      "s": {
-        "y": 1028,
-        "x": 1072,
-        "u": "https://preview.redd.it/d6gj9vj7r6o61.png?width=1072&format=png&auto=webp&s=6d7f1e3d99059a70494a08da9ea571f2832a2359"
-      },
-      "id": "d6gj9vj7r6o61"
-    },
-    "003y7k0mq6o61": {
-      "status": "valid",
-      "e": "Image",
-      "m": "image/png",
-      "p": [
-        {
-          "y": 60,
-          "x": 108,
-          "u": "https://preview.redd.it/003y7k0mq6o61.png?width=108&crop=smart&auto=webp&s=49eeb7f42acb5dd8ff6d32eb52fc894ed30295b4"
-        },
-        {
-          "y": 121,
-          "x": 216,
-          "u": "https://preview.redd.it/003y7k0mq6o61.png?width=216&crop=smart&auto=webp&s=f33f292dda4a6a9bdc31fc526c9dd0de4f85ad90"
-        },
-        {
-          "y": 180,
-          "x": 320,
-          "u": "https://preview.redd.it/003y7k0mq6o61.png?width=320&crop=smart&auto=webp&s=10f8aaca12568a01f146d3477a8651b9a59cca50"
-        },
-        {
-          "y": 360,
-          "x": 640,
-          "u": "https://preview.redd.it/003y7k0mq6o61.png?width=640&crop=smart&auto=webp&s=1c449b338f276aea281970e54cbc7316b0aa23a1"
-        },
-        {
-          "y": 540,
-          "x": 960,
-          "u": "https://preview.redd.it/003y7k0mq6o61.png?width=960&crop=smart&auto=webp&s=da97c030bacf6c81129f8558501109ffb3b6e082"
-        },
-        {
-          "y": 608,
-          "x": 1080,
-          "u": "https://preview.redd.it/003y7k0mq6o61.png?width=1080&crop=smart&auto=webp&s=9437c868b8a3152a416c4638e4d70bd6a1a79a46"
-        }
-      ],
-      "s": {
-        "y": 974,
-        "x": 1730,
-        "u": "https://preview.redd.it/003y7k0mq6o61.png?width=1730&format=png&auto=webp&s=3b4b0762cf396708bdef53f795ce84ad7e0c4847"
-      },
-      "id": "003y7k0mq6o61"
-    }
-  },
-  "name": "t3_m978bh",
-  "quarantine": false,
-  "link_flair_text_color": "light",
-  "upvote_ratio": 0.98,
-  "author_flair_background_color": "#3ebafc",
-  "subreddit_type": "public",
-  "ups": 3108,
-  "total_awards_received": 13,
-  "media_embed": {},
-  "thumbnail_width": 140,
-  "author_flair_template_id": "28d11680-b4b7-11e8-8326-0e59e57bcd3e",
-  "is_original_content": true,
-  "user_reports": [],
-  "secure_media": null,
-  "is_reddit_media_domain": false,
-  "is_meta": false,
-  "category": null,
-  "secure_media_embed": {},
-  "link_flair_text": "Discussion",
-  "can_mod_post": false,
-  "score": 3108,
-  "approved_by": null,
-  "author_premium": true,
-  "thumbnail": "https://a.thumbs.redditmedia.com/5s_NHHiwJgTwe8mwezWxfX6mDD6FTbA98zAqA4pf5g8.jpg",
-  "edited": false,
-  "author_flair_css_class": null,
-  "author_flair_richtext": [
-    {
-      "e": "text",
-      "t": "Wrinkle Brain Scientist "
-    }
-  ],
-  "gildings": {
-    "gid_1": 2,
-    "gid_2": 2
-  },
-  "post_hint": "self",
-  "content_categories": null,
-  "is_self": true,
-  "mod_note": null,
-  "created": 1616276322,
-  "link_flair_type": "richtext",
-  "wls": 7,
-  "removed_by_category": null,
-  "banned_by": null,
-  "author_flair_type": "richtext",
-  "domain": "self.wallstreetbets",
-  "allow_live_comments": false,
+  "created_utc": 1616266512,
   "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Yesterday, CNBC and Market Watch published <a href=\"https://www.cnbc.com/2021/03/19/stimulus-checks-unlikely-to-spur-another-gamestop-mania-says-bofa.html\">articles</a> on research concluding that we shouldn&#39;t expect people to use stimulus money to buy GameStop stock. One of the main justifications they gave for this conclusion was that “the number of recent conversations [on Reddit] including both GME and stimulus is low.”</p>\n\n<p>As some of you know, I’ve been collecting data on WSB discussion for quite a while now, and can quantitatively show that to be false.</p>\n\n<p>I&#39;ll try to keep this brief, as I know attention spans here are short. Please don&#39;t hesitate to ask questions below.</p>\n\n<p>To start with, here is a graph of the total number of comments in my data mentioning &quot;stimulus&quot; or &quot;stimmy&quot; over time:</p>\n\n<p><a href=\"https://preview.redd.it/68304hkrr6o61.png?width=1730&amp;format=png&amp;auto=webp&amp;s=89e506d66c60fcfdb2c7f615e53cf952fa4dd522\">Stimulus Comments</a></p>\n\n<p>Here is a graph of the number of comments in my data that mention BOTH stimulus &amp; GME over time:</p>\n\n<p><a href=\"https://preview.redd.it/f5ubk3hhq6o61.png?width=1730&amp;format=png&amp;auto=webp&amp;s=c3b50e38cb0eafa490bcfeba1bda3b6e023409ce\">WSB comments discussing stimulus &amp; GME</a></p>\n\n<p>The drop off at the end reflects the fact that it was 3:00pm as I am writing this and the day is only partially completed. One could argue that these numbers should be normalized based on the total of number of comments per day and, while I&#39;d disagree, I&#39;ll include that graph below as well:</p>\n\n<p><a href=\"https://preview.redd.it/003y7k0mq6o61.png?width=1730&amp;format=png&amp;auto=webp&amp;s=3b4b0762cf396708bdef53f795ce84ad7e0c4847\">Normalized WSB comments discussing stimulus &amp; GME</a></p>\n\n<p>From both of these graphs I see no indication of the number of recent conversations including both GME and stimulus being low, as a matter of fact it has hit all time highs over the last few days Here&#39;s a chart of the top 5 days in which stimulus was mentioned the most in my data of WSB daily discussion.</p>\n\n<table><thead>\n<tr>\n<th align=\"left\"><strong>Day</strong></th>\n<th align=\"left\"><strong>Stimulus &amp; GME mention count</strong></th>\n</tr>\n</thead><tbody>\n<tr>\n<td align=\"left\">3/15/21</td>\n<td align=\"left\">124</td>\n</tr>\n<tr>\n<td align=\"left\">3/14/21</td>\n<td align=\"left\">103</td>\n</tr>\n<tr>\n<td align=\"left\">3/16/21</td>\n<td align=\"left\">74</td>\n</tr>\n<tr>\n<td align=\"left\">3/13/21</td>\n<td align=\"left\">69</td>\n</tr>\n<tr>\n<td align=\"left\">1/14/21</td>\n<td align=\"left\">67</td>\n</tr>\n</tbody></table>\n\n<p>To take it a step further, we can look at what % of comments mentioning different stocks also mention stimulus, as I did recently in the graphic below. A larger proportion of comments mentioning $GME on WSB also mention stimulus than for any other major meme stocks, save for $TSLA.</p>\n\n<p><a href=\"https://preview.redd.it/d6gj9vj7r6o61.png?width=1072&amp;format=png&amp;auto=webp&amp;s=6d7f1e3d99059a70494a08da9ea571f2832a2359\">Most-discussed stocks in 2021 w/ \\&quot;stimmy ratio\\&quot;</a></p>\n\n<p>I don&#39;t know how the conclusion was reached that the number of recent conversations on reddit including GME and stimulus is low. Assuming that this is an honest mistake, I&#39;d encourage BofA, Market Watch, CNBC, or any of the other parties involved to get better data. There are a lot of people out there who have started collecting data on WSB, but not many who do it well and with good intentions. I&#39;ve been doing it for a while now, and I like to think I fit both those criteria which is why I feel qualified to write this post.</p>\n\n<p>Note:  I don’t have stake in $GME and don’t actively trade a portfolio, in order to avoid perceptions of bias in my analysis. This is not financial advice, or a recommendation to buy or sell any stock.</p>\n</div><!-- SC_ON -->",
-  "likes": null,
-  "suggested_sort": "confidence",
-  "banned_at_utc": null,
-  "view_count": null,
-  "archived": false,
-  "no_follow": false,
-  "is_crosspostable": false,
-  "pinned": false,
-  "over_18": false,
+  "score": 3108,
   "preview": {
     "images": [
       {
@@ -295,56 +64,11 @@
     ],
     "enabled": false
   },
-  "awarders": [],
-  "media_only": false,
-  "link_flair_template_id": "96f6c79e-b853-11e5-a4cb-0ebdf030e05d",
-  "can_gild": false,
-  "spoiler": false,
-  "locked": false,
-  "author_flair_text": "Wrinkle Brain Scientist ",
-  "treatment_tags": [],
-  "visited": false,
-  "removed_by": null,
-  "num_reports": null,
-  "distinguished": null,
-  "subreddit_id": "t5_2th52",
-  "mod_reason_by": null,
-  "removal_reason": null,
-  "link_flair_background_color": "#800080",
-  "id": "m978bh",
-  "is_robot_indexable": true,
-  "report_reasons": null,
-  "author": "pdwp90",
-  "discussion_type": null,
-  "num_comments": 96,
-  "send_replies": true,
-  "whitelist_status": "some_ads",
-  "contest_mode": false,
-  "mod_reports": [],
-  "author_patreon_flair": false,
-  "author_flair_text_color": "light",
   "permalink": "/r/wallstreetbets/comments/m978bh/disproving_claims_published_in_cnbc_using_data_on/",
-  "parent_whitelist_status": "some_ads",
-  "stickied": false,
-  "url": "https://www.reddit.com/r/wallstreetbets/comments/m978bh/disproving_claims_published_in_cnbc_using_data_on/",
-  "subreddit_subscribers": 9618156,
-  "created_utc": 1616266512,
-  "num_crossposts": 2,
+  "subreddit": "wallstreetbets",
+  "id": "m978bh",
+  "is_self": true,
   "media": null,
   "is_video": false,
-  "original_created_utc": 1616247522,
-  "the_new_excerpt": "Yesterday, CNBC and Market Watch published articles\n[https://www.cnbc.com/2021/03/19/stimulus-checks-unlikely-to-spur-another-gamestop-mania-says-bofa.html]\non research concluding that we shouldn't expect people to use stimulus money to\nbuy GameStop stock. One of the main justifications they gave…",
-  "localize": [
-    {
-      "locale": "zh",
-      "the_new_excerpt": "昨天，CNBC和Market Watch发表文章\n[https://www.cnbc.com/2021/03/19/stimulus-checks-unlikely-to-spur-another-gamestop-mania-says-bofa.html]\n研究认为，我们不应该期望人们用刺激资金来购买商品，而应该用经济刺激的方式来购买商品。\n购买GameStop的股票。他们给出的一个主要理由是...",
-      "title": "用WSB讨论的数据反驳CNBC发表的说法。"
-    },
-    {
-      "locale": "zh-Hant",
-      "the_new_excerpt": "昨天，CNBC和Market Watch發表文章\n[https://www.cnbc.com/2021/03/19/stimulus-checks-unlikely-to-spur-another-gamestop-mania-says-bofa.html]\n研究認爲，我們不應該期望人們用刺激資金來購買商品，而應該用經濟刺激的方式來購買商品。\n購買GameStop的股票。他們給出的一個主要理由是...",
-      "title": "用WSB討論的數據反駁CNBC發表的說法。"
-    }
-  ],
   "source_updated_at": 1616752826454
 }

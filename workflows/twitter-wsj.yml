@@ -16,6 +16,8 @@ on:
       exportOutputs: true
       outputsMode: combine
       format: |
+        const format = require(`${process.env.GITHUB_WORKSPACE}/scripts/format.js`)
+        item = format("tweet",item)
         item.original_created_at = item.created_at;
         function toTwitterDate(date) {
           const daysOfWeek = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];

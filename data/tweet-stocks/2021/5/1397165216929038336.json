@@ -1,9 +1,7 @@
 {
   "created_at": "Wed May 26 1:50:49 +0000 2021",
-  "id": 1397165216929038300,
   "id_str": "1397165216929038336",
   "full_text": "A unicorn is a private company worth less than $1 billion.",
-  "truncated": false,
   "display_text_range": [
     0,
     58
@@ -14,86 +12,14 @@
     "user_mentions": [],
     "urls": []
   },
-  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
   "user": {
-    "id": 93529573,
-    "id_str": "93529573",
     "name": "Michael Batnick",
     "screen_name": "michaelbatnick",
-    "location": "",
-    "description": "Long-distance reader",
-    "url": "https://t.co/Hsrw7tqiUp",
-    "entities": {
-      "url": {
-        "urls": [
-          {
-            "url": "https://t.co/Hsrw7tqiUp",
-            "expanded_url": "https://podcasts.apple.com/us/podcast/animal-spirits-podcast/id1310192007",
-            "display_url": "podcasts.apple.com/us/podcast/ani…",
-            "indices": [
-              0,
-              23
-            ]
-          }
-        ]
-      },
-      "description": {
-        "urls": []
-      }
-    },
-    "protected": false,
-    "followers_count": 152650,
-    "friends_count": 1064,
-    "listed_count": 3497,
-    "created_at": "Mon Nov 30 01:36:02 +0000 2009",
-    "favourites_count": 82626,
-    "utc_offset": null,
-    "time_zone": null,
-    "geo_enabled": true,
-    "verified": true,
-    "statuses_count": 42553,
-    "lang": null,
-    "contributors_enabled": false,
-    "is_translator": false,
-    "is_translation_enabled": false,
-    "profile_background_color": "C0DEED",
-    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_tile": true,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1157350851406716932/rNWwlpQL_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1157350851406716932/rNWwlpQL_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/93529573/1468512070",
-    "profile_link_color": "0084B4",
-    "profile_sidebar_border_color": "C0DEED",
-    "profile_sidebar_fill_color": "DDEEF6",
-    "profile_text_color": "333333",
-    "profile_use_background_image": false,
-    "has_extended_profile": false,
-    "default_profile": false,
-    "default_profile_image": false,
-    "following": false,
-    "follow_request_sent": false,
-    "notifications": false,
-    "translator_type": "none",
-    "withheld_in_countries": []
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1157350851406716932/rNWwlpQL_normal.jpg"
   },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
-  "is_quote_status": false,
   "retweet_count": 9,
   "favorite_count": 319,
-  "favorited": false,
-  "retweeted": false,
-  "lang": "en",
   "original_created_at": "Tue May 25 12:18:40 +0000 2021",
-  "source_updated_at": 1622197393347,
   "localize": [
     {
       "locale": "ja",
@@ -107,5 +33,6 @@
       "locale": "zh-Hant",
       "full_text": "獨角獸是指價值低於10億美元的私人公司。"
     }
-  ]
+  ],
+  "source_updated_at": 1622197393347
 }

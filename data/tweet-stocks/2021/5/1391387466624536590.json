@@ -1,9 +1,7 @@
 {
   "created_at": "Sun May 09 14:42:21 +0000 2021",
-  "id": 1391387466624536600,
   "id_str": "1391387466624536590",
   "full_text": "RT @finkd: A good day.",
-  "truncated": false,
   "display_text_range": [
     0,
     22
@@ -25,165 +23,13 @@
     ],
     "urls": []
   },
-  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
   "user": {
-    "id": 1226182750866149400,
-    "id_str": "1226182750866149383",
     "name": "Conor",
     "screen_name": "InvestmentTalkk",
-    "location": "United Kingdom",
-    "description": "Analyst at Occasio Capital / Contributor at Investment Talk / Tweets ≠ Investment Advice",
-    "url": "https://t.co/D83vvTUCv3",
-    "entities": {
-      "url": {
-        "urls": [
-          {
-            "url": "https://t.co/D83vvTUCv3",
-            "expanded_url": "https://investmenttalk.substack.com/about",
-            "display_url": "investmenttalk.substack.com/about",
-            "indices": [
-              0,
-              23
-            ]
-          }
-        ]
-      },
-      "description": {
-        "urls": []
-      }
-    },
-    "protected": false,
-    "followers_count": 37486,
-    "friends_count": 178,
-    "listed_count": 718,
-    "created_at": "Sat Feb 08 16:35:34 +0000 2020",
-    "favourites_count": 74236,
-    "utc_offset": null,
-    "time_zone": null,
-    "geo_enabled": false,
-    "verified": false,
-    "statuses_count": 23918,
-    "lang": null,
-    "contributors_enabled": false,
-    "is_translator": false,
-    "is_translation_enabled": false,
-    "profile_background_color": "F5F8FA",
-    "profile_background_image_url": null,
-    "profile_background_image_url_https": null,
-    "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1357676311897071616/t3ILOzBV_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1357676311897071616/t3ILOzBV_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1226182750866149383/1616190167",
-    "profile_link_color": "1DA1F2",
-    "profile_sidebar_border_color": "C0DEED",
-    "profile_sidebar_fill_color": "DDEEF6",
-    "profile_text_color": "333333",
-    "profile_use_background_image": true,
-    "has_extended_profile": false,
-    "default_profile": true,
-    "default_profile_image": false,
-    "following": true,
-    "follow_request_sent": false,
-    "notifications": false,
-    "translator_type": "none",
-    "withheld_in_countries": []
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1357676311897071616/t3ILOzBV_normal.jpg"
   },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
-  "retweeted_status": {
-    "created_at": "Thu Mar 05 05:38:35 +0000 2009",
-    "id": 1282177499,
-    "id_str": "1282177499",
-    "full_text": "A good day.",
-    "truncated": false,
-    "display_text_range": [
-      0,
-      11
-    ],
-    "entities": {
-      "hashtags": [],
-      "symbols": [],
-      "user_mentions": [],
-      "urls": []
-    },
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-      "id": 20749410,
-      "id_str": "20749410",
-      "name": "Mark Zuckerberg",
-      "screen_name": "finkd",
-      "location": "",
-      "description": "",
-      "url": null,
-      "entities": {
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 478500,
-      "friends_count": 774,
-      "listed_count": 5386,
-      "created_at": "Fri Feb 13 05:09:01 +0000 2009",
-      "favourites_count": 0,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": false,
-      "verified": false,
-      "statuses_count": 19,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "C0DEED",
-      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/77846223/profile_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/77846223/profile_normal.jpg",
-      "profile_link_color": "1DA1F2",
-      "profile_sidebar_border_color": "C0DEED",
-      "profile_sidebar_fill_color": "DDEEF6",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": false,
-      "default_profile": true,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none",
-      "withheld_in_countries": []
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 526,
-    "favorite_count": 1409,
-    "favorited": false,
-    "retweeted": false,
-    "lang": "en"
-  },
-  "is_quote_status": false,
   "retweet_count": 525,
   "favorite_count": 0,
-  "favorited": false,
-  "retweeted": false,
-  "lang": "en",
   "original_created_at": "Sun May 09 13:39:57 +0000 2021",
   "localize": [
     {
@@ -202,5 +48,27 @@
       "retweeted_status_full_text": "一個好日子。"
     }
   ],
-  "source_updated_at": 1620986000389
+  "source_updated_at": 1620986000389,
+  "retweeted_status": {
+    "created_at": "Thu Mar 05 05:38:35 +0000 2009",
+    "id_str": "1282177499",
+    "full_text": "A good day.",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "user": {
+      "name": "Mark Zuckerberg",
+      "screen_name": "finkd",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/77846223/profile_normal.jpg"
+    },
+    "retweet_count": 526,
+    "favorite_count": 1409
+  }
 }

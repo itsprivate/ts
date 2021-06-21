@@ -1,9 +1,7 @@
 {
   "created_at": "Thu Feb 18 21:3:2 +0000 2021",
-  "id": 1362500596306223000,
   "id_str": "1362500596306223111",
   "full_text": "RT @tomjrowley: GREAT JOB KLAXON: We’re hiring a writer to join the Britain team @TheEconomist. No journalism experience necessary, just gr…",
-  "truncated": false,
   "display_text_range": [
     0,
     140
@@ -35,93 +33,30 @@
     ],
     "urls": []
   },
-  "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
   "user": {
-    "id": 5988062,
-    "id_str": "5988062",
     "name": "The Economist",
     "screen_name": "TheEconomist",
-    "location": "London",
-    "description": "News and analysis with a global perspective. Subscribe here: https://t.co/yGTEsN3MqU",
-    "url": "https://t.co/pN0OAmG4SP",
-    "entities": {
-      "url": {
-        "urls": [
-          {
-            "url": "https://t.co/pN0OAmG4SP",
-            "expanded_url": "http://www.economist.com",
-            "display_url": "economist.com",
-            "indices": [
-              0,
-              23
-            ]
-          }
-        ]
-      },
-      "description": {
-        "urls": [
-          {
-            "url": "https://t.co/yGTEsN3MqU",
-            "expanded_url": "http://econ.st/2NWbEyD",
-            "display_url": "econ.st/2NWbEyD",
-            "indices": [
-              61,
-              84
-            ]
-          }
-        ]
-      }
-    },
-    "protected": false,
-    "followers_count": 25478360,
-    "friends_count": 129,
-    "listed_count": 115898,
-    "created_at": "Sat May 12 13:04:50 +0000 2007",
-    "favourites_count": 150,
-    "utc_offset": null,
-    "time_zone": null,
-    "geo_enabled": false,
-    "verified": true,
-    "statuses_count": 248717,
-    "lang": null,
-    "contributors_enabled": false,
-    "is_translator": false,
-    "is_translation_enabled": true,
-    "profile_background_color": "DFDFDF",
-    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_tile": true,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/879361767914262528/HdRauDM-_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/879361767914262528/HdRauDM-_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/5988062/1613659117",
-    "profile_link_color": "E3120B",
-    "profile_sidebar_border_color": "FFFFFF",
-    "profile_sidebar_fill_color": "DDEEF6",
-    "profile_text_color": "2C2E2D",
-    "profile_use_background_image": true,
-    "has_extended_profile": false,
-    "default_profile": false,
-    "default_profile_image": false,
-    "following": true,
-    "follow_request_sent": false,
-    "notifications": false,
-    "translator_type": "none"
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/879361767914262528/HdRauDM-_normal.jpg"
   },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
+  "retweet_count": 76,
+  "favorite_count": 0,
+  "original_created_at": "Thu Feb 18 20:33:50 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @tomjrowley: 我们正在招聘一名作家加入《经济学家》的英国团队。不需要新闻经验，只需掌握...",
+      "retweeted_status_full_text": "Great JOB KLAXON：我们正在招聘一名作家加入英国团队@经济学家。无需新闻经验，只要有好的想法就可以了。 https://t.co/65NXhVsmgz"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @tomjrowley: 我們正在招聘一名作家加入《經濟學家》的英國團隊。不需要新聞經驗，只需掌握...",
+      "retweeted_status_full_text": "Great JOB KLAXON：我們正在招聘一名作家加入英國團隊@經濟學家。無需新聞經驗，只要有好的想法就可以了。 https://t.co/65NXhVsmgz"
+    }
+  ],
   "retweeted_status": {
     "created_at": "Thu Feb 18 17:36:22 +0000 2021",
-    "id": 1362455934333812700,
     "id_str": "1362455934333812740",
     "full_text": "GREAT JOB KLAXON: We’re hiring a writer to join the Britain team @TheEconomist. No journalism experience necessary, just great ideas. https://t.co/65NXhVsmgz",
-    "truncated": false,
     "display_text_range": [
       0,
       133
@@ -181,142 +116,13 @@
         }
       ]
     },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1362455398947713000,
-          "id_str": "1362455398947713034",
-          "indices": [
-            134,
-            157
-          ],
-          "media_url": "http://pbs.twimg.com/media/Euhp93yXcAo8t4a.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/Euhp93yXcAo8t4a.jpg",
-          "url": "https://t.co/65NXhVsmgz",
-          "display_url": "pic.twitter.com/65NXhVsmgz",
-          "expanded_url": "https://twitter.com/tomjrowley/status/1362455934333812740/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 680,
-              "h": 680,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 750,
-              "h": 750,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 750,
-              "h": 750,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
     "user": {
-      "id": 68782424,
-      "id_str": "68782424",
       "name": "Tom Rowley",
       "screen_name": "tomjrowley",
-      "location": "London, England",
-      "description": "Britain correspondent @TheEconomist. Cover social change and immigration. Keen for feedback and ideas via DM (they are open). 🌈",
-      "url": "https://t.co/4sPjgnie5A",
-      "entities": {
-        "url": {
-          "urls": [
-            {
-              "url": "https://t.co/4sPjgnie5A",
-              "expanded_url": "http://mediadirectory.economist.com/people/tom-rowley/",
-              "display_url": "mediadirectory.economist.com/people/tom-row…",
-              "indices": [
-                0,
-                23
-              ]
-            }
-          ]
-        },
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 7646,
-      "friends_count": 3428,
-      "listed_count": 130,
-      "created_at": "Tue Aug 25 19:26:32 +0000 2009",
-      "favourites_count": 7641,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": true,
-      "verified": true,
-      "statuses_count": 10513,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "C0DEED",
-      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-      "profile_background_tile": true,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1330952502414544897/yM1Th4Zr_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1330952502414544897/yM1Th4Zr_normal.jpg",
-      "profile_banner_url": "https://pbs.twimg.com/profile_banners/68782424/1516098630",
-      "profile_link_color": "0084B4",
-      "profile_sidebar_border_color": "C0DEED",
-      "profile_sidebar_fill_color": "DDEEF6",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": true,
-      "default_profile": false,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none"
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1330952502414544897/yM1Th4Zr_normal.jpg"
     },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
     "retweet_count": 76,
     "favorite_count": 135,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
-  },
-  "is_quote_status": false,
-  "retweet_count": 76,
-  "favorite_count": 0,
-  "favorited": false,
-  "retweeted": false,
-  "lang": "en",
-  "original_created_at": "Thu Feb 18 20:33:50 +0000 2021",
-  "localize": [
-    {
-      "locale": "zh",
-      "full_text": "RT @tomjrowley: 我们正在招聘一名作家加入《经济学家》的英国团队。不需要新闻经验，只需掌握...",
-      "retweeted_status_full_text": "Great JOB KLAXON：我们正在招聘一名作家加入英国团队@经济学家。无需新闻经验，只要有好的想法就可以了。 https://t.co/65NXhVsmgz"
-    },
-    {
-      "locale": "zh-Hant",
-      "full_text": "RT @tomjrowley: 我們正在招聘一名作家加入《經濟學家》的英國團隊。不需要新聞經驗，只需掌握...",
-      "retweeted_status_full_text": "Great JOB KLAXON：我們正在招聘一名作家加入英國團隊@經濟學家。無需新聞經驗，只要有好的想法就可以了。 https://t.co/65NXhVsmgz"
-    }
-  ]
+    "possibly_sensitive": false
+  }
 }

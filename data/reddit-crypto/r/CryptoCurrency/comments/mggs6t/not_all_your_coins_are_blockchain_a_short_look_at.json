@@ -1,243 +1,23 @@
 {
-  "approved_at_utc": null,
-  "subreddit": "CryptoCurrency",
-  "selftext": "*This is a small overview of the different DLT's, for a deep dive into these technologies I can recommend reading whitepapers of the coins mentioned.*\n\n**Blockchain:** transaction information is collected in 'blocks' and other blocks are building onto that creating a chain, blockchain. Each block has a hash that identifies the transaction which will change in a different transaction if someone tries to alter it. Blockchain is transparent due to its public ledger which every node (or viewer) on the network has access to.\n\n[visual representation of how blockchain works](https://preview.redd.it/pofac3hl36q61.png?width=400&format=png&auto=webp&s=737a17234c9b0b72b402673f859cfc2cbe218a96)\n\n\\- Participants get new tokens due to different consensus mechanisms; Staking or Mining for instance.\n\n\\- Known for scalability issues although this has become less of a problem due to new developments and L2 solutions.\n\nMost famous coins: Bitcoin, Ethereum, Cardano.\n\n**Scaling solution:**\n\n**Sharding:** ''Sharding splits a blockchain company's entire network into smaller partitions, known as \"shards.\" Each shard is comprised of its own data, making it distinctive and independent when compared to other shards.'' This will solve common congestion issues blockchain is known for.\n\nMost famous coins: Harmony, Elrond, Zilliqa, Ethereum soon™.\n\n**Directed Acyclic Graphs (DAG):**\n\nDAG is a way of trying to fix the limitations of blockchain. This type of DLT relies on consensus algorithms. This simply said means that transactions are valid when the majority of the network supports it. Nodes are all equal, which requires teamwork (nodes all need to be updated and about the same strenght). The previous transaction validates the new transaction to achieve consensus.\n\n[Visual representation of how a DAG works.](https://preview.redd.it/n4fpb6k136q61.png?width=1280&format=png&auto=webp&s=417725b5a95b119363c520bc269d6f591bce31f1)\n\n\\- Thanks to this structure DAG-based coins are better at scaling, cheap and TPS is extremely high.\n\n\\- The success of a transactions depends on its ability to validate two previous transactions.\n\nMost famous coins: IOTA, Nano, Avalanche, Dagcoin.\n\n**Hashgraph: ''Hashgraph** is an decentralized consensus mechanism using the blockchain concepts of \"gossip,\" \"gossip about gossip\" and virtual voting'. When only nodes have to achieve consensus using this these protocols it makes the process of completing a transaction way faster. I can recommend the site of Hedera Hashgraph if you're interested in how all these protocols work; [link here](https://hedera.com/learning/what-is-hedera-hashgraph)\n\n&#x200B;\n\n[Blockhain VS Hashgraph.](https://preview.redd.it/ou9r7r0e66q61.png?width=1600&format=png&auto=webp&s=64b8a8a887f87bab83cf8d2e3e94ee92642b1310)\n\n\\- extremely scalable & high TPS due to the unique consensus mechanism.\n\n\\- Validation of transactions depends on consensus.\n\nMost famous coins: Hedera Hashgraph\n\n**Holochain:** Holochain's goal is to change the structure of the internet as we know it, moving away from a server-client basis. You can see Holo as a combination of Bittorrent (p2p), blockchain and Github. This means that each node will run a chain of its own, operating autonomously from the network. So there will be no 'middle man' as data storage is locally on your device.\n\n[Centralised data storage vs Holochain.](https://preview.redd.it/wl1hr1s896q61.jpg?width=1125&format=pjpg&auto=webp&s=3188ec7fa5915d0f5ec3755334f754595754977d)\n\n\\- Unlimited TPS and scalability because each node runs its own ledger.\n\n\\- No network congestion, data is distributed amongst different nodes.\n\nMost famous coins: Holochain",
-  "author_fullname": "t2_3w8misp9",
-  "saved": false,
-  "mod_reason_title": null,
-  "gilded": 0,
-  "clicked": false,
+  "author": "SweetPie123",
+  "the_new_excerpt": "This is a small overview of the different DLT's, for a deep dive into these\ntechnologies I can recommend reading whitepapers of the coins mentioned.\n\nBlockchain: transaction information is collected in 'blocks' and other blocks\nare building onto that creating a chain, blockchain. Each block has a…",
+  "original_created_utc": 1617113043,
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这是对不同DLT的一个小的概述，为了深入了解这些。\n技术，我可以推荐大家阅读上述币种的白皮书。\n\n区块链：交易信息被收集在 \"区块 \"和其他区块中。\n正在建立在这个基础上，创造了一个链，区块链。每个区块都有一个...",
+      "title": "并非你所有的币都是区块链，简单介绍一下不同类型的分布式账本技术。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這是對不同DLT的一個小的概述，爲了深入瞭解這些。\n技術，我可以推薦大家閱讀上述幣種的白皮書。\n\n區塊鏈：交易信息被收集在 \"區塊 \"和其他區塊中。\n正在建立在這個基礎上，創造了一個鏈，區塊鏈。每個區塊都有一個...",
+      "title": "並非你所有的幣都是區塊鏈，簡單介紹一下不同類型的分佈式賬本技術。"
+    }
+  ],
   "title": "Not all your coins are Blockchain; a short look at different types of Distributed Ledger Technology",
-  "link_flair_richtext": [
-    {
-      "e": "text",
-      "t": "SCALABILITY"
-    }
-  ],
-  "subreddit_name_prefixed": "r/CryptoCurrency",
-  "hidden": false,
-  "pwls": 6,
-  "link_flair_css_class": "SCALABILITY",
-  "downs": 0,
-  "thumbnail_height": 78,
-  "top_awarded_type": null,
-  "hide_score": false,
-  "media_metadata": {
-    "pofac3hl36q61": {
-      "status": "valid",
-      "e": "Image",
-      "m": "image/png",
-      "p": [
-        {
-          "y": 72,
-          "x": 108,
-          "u": "https://preview.redd.it/pofac3hl36q61.png?width=108&crop=smart&auto=webp&s=2fea6e9de0e9b9097058af5f95768267b8d49530"
-        },
-        {
-          "y": 144,
-          "x": 216,
-          "u": "https://preview.redd.it/pofac3hl36q61.png?width=216&crop=smart&auto=webp&s=f9068fbd2dad2e028d93692c85cd0becbed0d1c9"
-        },
-        {
-          "y": 213,
-          "x": 320,
-          "u": "https://preview.redd.it/pofac3hl36q61.png?width=320&crop=smart&auto=webp&s=4ab87e7b9a6cec3fab145dde3a4d686b4a79273b"
-        }
-      ],
-      "s": {
-        "y": 267,
-        "x": 400,
-        "u": "https://preview.redd.it/pofac3hl36q61.png?width=400&format=png&auto=webp&s=737a17234c9b0b72b402673f859cfc2cbe218a96"
-      },
-      "id": "pofac3hl36q61"
-    },
-    "wl1hr1s896q61": {
-      "status": "valid",
-      "e": "Image",
-      "m": "image/jpg",
-      "p": [
-        {
-          "y": 107,
-          "x": 108,
-          "u": "https://preview.redd.it/wl1hr1s896q61.jpg?width=108&crop=smart&auto=webp&s=b92acfe9360a510c3b5f974755d8683204b21682"
-        },
-        {
-          "y": 215,
-          "x": 216,
-          "u": "https://preview.redd.it/wl1hr1s896q61.jpg?width=216&crop=smart&auto=webp&s=ededcd2a30c4a7dae44786708e4aef226857f731"
-        },
-        {
-          "y": 319,
-          "x": 320,
-          "u": "https://preview.redd.it/wl1hr1s896q61.jpg?width=320&crop=smart&auto=webp&s=fde9a55030acfedafb58a048df0adc7c88a01912"
-        },
-        {
-          "y": 638,
-          "x": 640,
-          "u": "https://preview.redd.it/wl1hr1s896q61.jpg?width=640&crop=smart&auto=webp&s=4708f1641aaa7162f074665a9880d1126bc84a3d"
-        },
-        {
-          "y": 957,
-          "x": 960,
-          "u": "https://preview.redd.it/wl1hr1s896q61.jpg?width=960&crop=smart&auto=webp&s=034f59cf2ffcd07bdca8889a8104eb57de482456"
-        },
-        {
-          "y": 1077,
-          "x": 1080,
-          "u": "https://preview.redd.it/wl1hr1s896q61.jpg?width=1080&crop=smart&auto=webp&s=7b3f17900da6ebe39ce13b20ed65ac790ef2735f"
-        }
-      ],
-      "s": {
-        "y": 1122,
-        "x": 1125,
-        "u": "https://preview.redd.it/wl1hr1s896q61.jpg?width=1125&format=pjpg&auto=webp&s=3188ec7fa5915d0f5ec3755334f754595754977d"
-      },
-      "id": "wl1hr1s896q61"
-    },
-    "n4fpb6k136q61": {
-      "status": "valid",
-      "e": "Image",
-      "m": "image/png",
-      "p": [
-        {
-          "y": 64,
-          "x": 108,
-          "u": "https://preview.redd.it/n4fpb6k136q61.png?width=108&crop=smart&auto=webp&s=ccf15ef10223d25b12f645cc57ff775eaa9fc287"
-        },
-        {
-          "y": 129,
-          "x": 216,
-          "u": "https://preview.redd.it/n4fpb6k136q61.png?width=216&crop=smart&auto=webp&s=98f4dab656ed374abb5a42a8538761c90c715eeb"
-        },
-        {
-          "y": 192,
-          "x": 320,
-          "u": "https://preview.redd.it/n4fpb6k136q61.png?width=320&crop=smart&auto=webp&s=1a7ef5078cd2be81d98d5afc3b66b2bb229ccda4"
-        },
-        {
-          "y": 384,
-          "x": 640,
-          "u": "https://preview.redd.it/n4fpb6k136q61.png?width=640&crop=smart&auto=webp&s=9605902b9486a47f2c3d48c0c1b35035e9e406ab"
-        },
-        {
-          "y": 576,
-          "x": 960,
-          "u": "https://preview.redd.it/n4fpb6k136q61.png?width=960&crop=smart&auto=webp&s=5868aa62f7fbc0c5d46fbcd639ae3673fb8ce811"
-        },
-        {
-          "y": 648,
-          "x": 1080,
-          "u": "https://preview.redd.it/n4fpb6k136q61.png?width=1080&crop=smart&auto=webp&s=17842db50d6bdccbd85d9fddbe586beffd583291"
-        }
-      ],
-      "s": {
-        "y": 768,
-        "x": 1280,
-        "u": "https://preview.redd.it/n4fpb6k136q61.png?width=1280&format=png&auto=webp&s=417725b5a95b119363c520bc269d6f591bce31f1"
-      },
-      "id": "n4fpb6k136q61"
-    },
-    "ou9r7r0e66q61": {
-      "status": "valid",
-      "e": "Image",
-      "m": "image/png",
-      "p": [
-        {
-          "y": 75,
-          "x": 108,
-          "u": "https://preview.redd.it/ou9r7r0e66q61.png?width=108&crop=smart&auto=webp&s=d88e4311edb2d4152778b08fbb49cc99bea2bf2c"
-        },
-        {
-          "y": 150,
-          "x": 216,
-          "u": "https://preview.redd.it/ou9r7r0e66q61.png?width=216&crop=smart&auto=webp&s=f55bd6e1a3fa42a641ed6012ca1e533bd927b55e"
-        },
-        {
-          "y": 223,
-          "x": 320,
-          "u": "https://preview.redd.it/ou9r7r0e66q61.png?width=320&crop=smart&auto=webp&s=8b41baca210454e03a0b6d8e6f1b2805ea511050"
-        },
-        {
-          "y": 446,
-          "x": 640,
-          "u": "https://preview.redd.it/ou9r7r0e66q61.png?width=640&crop=smart&auto=webp&s=6e7af8ec457dc54423240256003ec2f693f1e9ab"
-        },
-        {
-          "y": 669,
-          "x": 960,
-          "u": "https://preview.redd.it/ou9r7r0e66q61.png?width=960&crop=smart&auto=webp&s=ddb0c2d72b8a560957c43e5e11cad529c061ad08"
-        },
-        {
-          "y": 752,
-          "x": 1080,
-          "u": "https://preview.redd.it/ou9r7r0e66q61.png?width=1080&crop=smart&auto=webp&s=0d30d7de57da7101a9875e6be412a1a7957c5471"
-        }
-      ],
-      "s": {
-        "y": 1115,
-        "x": 1600,
-        "u": "https://preview.redd.it/ou9r7r0e66q61.png?width=1600&format=png&auto=webp&s=64b8a8a887f87bab83cf8d2e3e94ee92642b1310"
-      },
-      "id": "ou9r7r0e66q61"
-    }
-  },
-  "name": "t3_mggs6t",
-  "quarantine": false,
-  "link_flair_text_color": "dark",
-  "upvote_ratio": 0.96,
-  "author_flair_background_color": "",
-  "subreddit_type": "public",
-  "ups": 178,
-  "total_awards_received": 3,
-  "media_embed": {},
-  "thumbnail_width": 140,
-  "author_flair_template_id": null,
-  "is_original_content": false,
-  "user_reports": [],
-  "secure_media": null,
-  "is_reddit_media_domain": false,
-  "is_meta": false,
-  "category": null,
-  "secure_media_embed": {},
-  "link_flair_text": "SCALABILITY",
-  "can_mod_post": false,
-  "score": 178,
-  "approved_by": null,
-  "author_premium": true,
-  "thumbnail": "https://a.thumbs.redditmedia.com/HoHQHLrN2DyHU2FYtQiDdsIwJQWjZPekMMimr5zPj28.jpg",
-  "edited": 1617120765,
-  "author_flair_css_class": "",
-  "author_flair_richtext": [
-    {
-      "e": "text",
-      "t": "Platinum | QC: CC 526 | r/Buttcoin 8"
-    }
-  ],
-  "gildings": {
-    "gid_1": 1
-  },
-  "post_hint": "self",
-  "content_categories": null,
-  "is_self": true,
-  "mod_note": null,
-  "created": 1617141843,
-  "link_flair_type": "richtext",
-  "wls": 6,
-  "removed_by_category": null,
-  "banned_by": null,
-  "author_flair_type": "richtext",
-  "domain": "self.CryptoCurrency",
-  "allow_live_comments": false,
+  "created_utc": 1617169313,
   "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p><em>This is a small overview of the different DLT&#39;s, for a deep dive into these technologies I can recommend reading whitepapers of the coins mentioned.</em></p>\n\n<p><strong>Blockchain:</strong> transaction information is collected in &#39;blocks&#39; and other blocks are building onto that creating a chain, blockchain. Each block has a hash that identifies the transaction which will change in a different transaction if someone tries to alter it. Blockchain is transparent due to its public ledger which every node (or viewer) on the network has access to.</p>\n\n<p><a href=\"https://preview.redd.it/pofac3hl36q61.png?width=400&amp;format=png&amp;auto=webp&amp;s=737a17234c9b0b72b402673f859cfc2cbe218a96\">visual representation of how blockchain works</a></p>\n\n<p>- Participants get new tokens due to different consensus mechanisms; Staking or Mining for instance.</p>\n\n<p>- Known for scalability issues although this has become less of a problem due to new developments and L2 solutions.</p>\n\n<p>Most famous coins: Bitcoin, Ethereum, Cardano.</p>\n\n<p><strong>Scaling solution:</strong></p>\n\n<p><strong>Sharding:</strong> &#39;&#39;Sharding splits a blockchain company&#39;s entire network into smaller partitions, known as &quot;shards.&quot; Each shard is comprised of its own data, making it distinctive and independent when compared to other shards.&#39;&#39; This will solve common congestion issues blockchain is known for.</p>\n\n<p>Most famous coins: Harmony, Elrond, Zilliqa, Ethereum soon™.</p>\n\n<p><strong>Directed Acyclic Graphs (DAG):</strong></p>\n\n<p>DAG is a way of trying to fix the limitations of blockchain. This type of DLT relies on consensus algorithms. This simply said means that transactions are valid when the majority of the network supports it. Nodes are all equal, which requires teamwork (nodes all need to be updated and about the same strenght). The previous transaction validates the new transaction to achieve consensus.</p>\n\n<p><a href=\"https://preview.redd.it/n4fpb6k136q61.png?width=1280&amp;format=png&amp;auto=webp&amp;s=417725b5a95b119363c520bc269d6f591bce31f1\">Visual representation of how a DAG works.</a></p>\n\n<p>- Thanks to this structure DAG-based coins are better at scaling, cheap and TPS is extremely high.</p>\n\n<p>- The success of a transactions depends on its ability to validate two previous transactions.</p>\n\n<p>Most famous coins: IOTA, Nano, Avalanche, Dagcoin.</p>\n\n<p><strong>Hashgraph: &#39;&#39;Hashgraph</strong> is an decentralized consensus mechanism using the blockchain concepts of &quot;gossip,&quot; &quot;gossip about gossip&quot; and virtual voting&#39;. When only nodes have to achieve consensus using this these protocols it makes the process of completing a transaction way faster. I can recommend the site of Hedera Hashgraph if you&#39;re interested in how all these protocols work; <a href=\"https://hedera.com/learning/what-is-hedera-hashgraph\">link here</a></p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/ou9r7r0e66q61.png?width=1600&amp;format=png&amp;auto=webp&amp;s=64b8a8a887f87bab83cf8d2e3e94ee92642b1310\">Blockhain VS Hashgraph.</a></p>\n\n<p>- extremely scalable &amp; high TPS due to the unique consensus mechanism.</p>\n\n<p>- Validation of transactions depends on consensus.</p>\n\n<p>Most famous coins: Hedera Hashgraph</p>\n\n<p><strong>Holochain:</strong> Holochain&#39;s goal is to change the structure of the internet as we know it, moving away from a server-client basis. You can see Holo as a combination of Bittorrent (p2p), blockchain and Github. This means that each node will run a chain of its own, operating autonomously from the network. So there will be no &#39;middle man&#39; as data storage is locally on your device.</p>\n\n<p><a href=\"https://preview.redd.it/wl1hr1s896q61.jpg?width=1125&amp;format=pjpg&amp;auto=webp&amp;s=3188ec7fa5915d0f5ec3755334f754595754977d\">Centralised data storage vs Holochain.</a></p>\n\n<p>- Unlimited TPS and scalability because each node runs its own ledger.</p>\n\n<p>- No network congestion, data is distributed amongst different nodes.</p>\n\n<p>Most famous coins: Holochain</p>\n</div><!-- SC_ON -->",
-  "likes": null,
-  "suggested_sort": null,
-  "banned_at_utc": null,
-  "view_count": null,
-  "archived": false,
-  "no_follow": false,
-  "is_crosspostable": false,
-  "pinned": false,
-  "over_18": false,
+  "score": 178,
   "preview": {
     "images": [
       {
@@ -269,56 +49,11 @@
     ],
     "enabled": false
   },
-  "awarders": [],
-  "media_only": false,
-  "link_flair_template_id": "1e195abc-f3e5-11e5-8899-0e1af474c431",
-  "can_gild": false,
-  "spoiler": false,
-  "locked": false,
-  "author_flair_text": "Platinum | QC: CC 526 | r/Buttcoin 8",
-  "treatment_tags": [],
-  "visited": false,
-  "removed_by": null,
-  "num_reports": null,
-  "distinguished": null,
-  "subreddit_id": "t5_2wlj3",
-  "mod_reason_by": null,
-  "removal_reason": null,
-  "link_flair_background_color": "",
-  "id": "mggs6t",
-  "is_robot_indexable": true,
-  "report_reasons": null,
-  "author": "SweetPie123",
-  "discussion_type": null,
-  "num_comments": 57,
-  "send_replies": true,
-  "whitelist_status": "all_ads",
-  "contest_mode": false,
-  "mod_reports": [],
-  "author_patreon_flair": false,
-  "author_flair_text_color": "dark",
   "permalink": "/r/CryptoCurrency/comments/mggs6t/not_all_your_coins_are_blockchain_a_short_look_at/",
-  "parent_whitelist_status": "all_ads",
-  "stickied": false,
-  "url": "https://www.reddit.com/r/CryptoCurrency/comments/mggs6t/not_all_your_coins_are_blockchain_a_short_look_at/",
-  "subreddit_subscribers": 2006140,
-  "created_utc": 1617169313,
-  "num_crossposts": 0,
+  "subreddit": "CryptoCurrency",
+  "id": "mggs6t",
+  "is_self": true,
   "media": null,
   "is_video": false,
-  "original_created_utc": 1617113043,
-  "the_new_excerpt": "This is a small overview of the different DLT's, for a deep dive into these\ntechnologies I can recommend reading whitepapers of the coins mentioned.\n\nBlockchain: transaction information is collected in 'blocks' and other blocks\nare building onto that creating a chain, blockchain. Each block has a…",
-  "localize": [
-    {
-      "locale": "zh",
-      "the_new_excerpt": "这是对不同DLT的一个小的概述，为了深入了解这些。\n技术，我可以推荐大家阅读上述币种的白皮书。\n\n区块链：交易信息被收集在 \"区块 \"和其他区块中。\n正在建立在这个基础上，创造了一个链，区块链。每个区块都有一个...",
-      "title": "并非你所有的币都是区块链，简单介绍一下不同类型的分布式账本技术。"
-    },
-    {
-      "locale": "zh-Hant",
-      "the_new_excerpt": "這是對不同DLT的一個小的概述，爲了深入瞭解這些。\n技術，我可以推薦大家閱讀上述幣種的白皮書。\n\n區塊鏈：交易信息被收集在 \"區塊 \"和其他區塊中。\n正在建立在這個基礎上，創造了一個鏈，區塊鏈。每個區塊都有一個...",
-      "title": "並非你所有的幣都是區塊鏈，簡單介紹一下不同類型的分佈式賬本技術。"
-    }
-  ],
   "source_updated_at": 1617357138669
 }

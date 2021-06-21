@@ -1,9 +1,7 @@
 {
   "created_at": "Fri Feb 05 8:40:28 +0000 2021",
-  "id": 1357607296604512300,
   "id_str": "1357607296604512261",
   "full_text": "RT @jack: Running #bitcoin https://t.co/W51ga3yrKb",
-  "truncated": false,
   "display_text_range": [
     0,
     50
@@ -75,127 +73,32 @@
       }
     ]
   },
-  "extended_entities": {
-    "media": [
-      {
-        "id": 1357588748041506800,
-        "id_str": "1357588748041506817",
-        "indices": [
-          27,
-          50
-        ],
-        "media_url": "http://pbs.twimg.com/media/EtcfxgYU0AEBD1r.jpg",
-        "media_url_https": "https://pbs.twimg.com/media/EtcfxgYU0AEBD1r.jpg",
-        "url": "https://t.co/W51ga3yrKb",
-        "display_url": "pic.twitter.com/W51ga3yrKb",
-        "expanded_url": "https://twitter.com/jack/status/1357588751757627393/photo/1",
-        "type": "photo",
-        "sizes": {
-          "thumb": {
-            "w": 150,
-            "h": 150,
-            "resize": "crop"
-          },
-          "small": {
-            "w": 680,
-            "h": 531,
-            "resize": "fit"
-          },
-          "medium": {
-            "w": 816,
-            "h": 637,
-            "resize": "fit"
-          },
-          "large": {
-            "w": 816,
-            "h": 637,
-            "resize": "fit"
-          }
-        },
-        "source_status_id": 1357588751757627400,
-        "source_status_id_str": "1357588751757627393",
-        "source_user_id": 12,
-        "source_user_id_str": "12"
-      }
-    ]
-  },
-  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
   "user": {
-    "id": 918804624303382500,
-    "id_str": "918804624303382528",
     "name": "PlanB",
     "screen_name": "100trillionUSD",
-    "location": "NOT FINANCIAL ADVICE",
-    "description": "#bitcoin\n1PRoNLcWHzM8DuKpGE4YM9hb1PjSEnWRpn",
-    "url": "https://t.co/5Y254ILwhC",
-    "entities": {
-      "url": {
-        "urls": [
-          {
-            "url": "https://t.co/5Y254ILwhC",
-            "expanded_url": "http://PlanBTC.com",
-            "display_url": "PlanBTC.com",
-            "indices": [
-              0,
-              23
-            ]
-          }
-        ]
-      },
-      "description": {
-        "urls": []
-      }
-    },
-    "protected": false,
-    "followers_count": 239781,
-    "friends_count": 203,
-    "listed_count": 3438,
-    "created_at": "Fri Oct 13 11:44:27 +0000 2017",
-    "favourites_count": 21908,
-    "utc_offset": null,
-    "time_zone": null,
-    "geo_enabled": false,
-    "verified": false,
-    "statuses_count": 6154,
-    "lang": null,
-    "contributors_enabled": false,
-    "is_translator": false,
-    "is_translation_enabled": false,
-    "profile_background_color": "F5F8FA",
-    "profile_background_image_url": null,
-    "profile_background_image_url_https": null,
-    "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1117537706584702982/lMHLne7O_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117537706584702982/lMHLne7O_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/918804624303382528/1601733353",
-    "profile_link_color": "1DA1F2",
-    "profile_sidebar_border_color": "C0DEED",
-    "profile_sidebar_fill_color": "DDEEF6",
-    "profile_text_color": "333333",
-    "profile_use_background_image": true,
-    "has_extended_profile": true,
-    "default_profile": true,
-    "default_profile_image": false,
-    "following": false,
-    "follow_request_sent": false,
-    "notifications": false,
-    "translator_type": "none"
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117537706584702982/lMHLne7O_normal.jpg"
   },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
+  "retweet_count": 4911,
+  "favorite_count": 0,
+  "possibly_sensitive": false,
+  "original_created_at": "Fri Feb 05 08:29:37 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @jack: Running #bitcoin https://t.co/W51ga3yrKb",
+      "retweeted_status_full_text": "运行#比特币https://t.co/W51ga3yrKb"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @jack: Running #bitcoin https://t.co/W51ga3yrKb",
+      "retweeted_status_full_text": "運行#比特幣https://t.co/W51ga3yrKb"
+    }
+  ],
+  "source_updated_at": 1613123223383,
   "retweeted_status": {
     "created_at": "Fri Feb 05 07:15:55 +0000 2021",
-    "id": 1357588751757627400,
     "id_str": "1357588751757627393",
     "full_text": "Running #bitcoin https://t.co/W51ga3yrKb",
-    "truncated": false,
     "display_text_range": [
       0,
       16
@@ -252,131 +155,13 @@
         }
       ]
     },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1357588748041506800,
-          "id_str": "1357588748041506817",
-          "indices": [
-            17,
-            40
-          ],
-          "media_url": "http://pbs.twimg.com/media/EtcfxgYU0AEBD1r.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/EtcfxgYU0AEBD1r.jpg",
-          "url": "https://t.co/W51ga3yrKb",
-          "display_url": "pic.twitter.com/W51ga3yrKb",
-          "expanded_url": "https://twitter.com/jack/status/1357588751757627393/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 680,
-              "h": 531,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 816,
-              "h": 637,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 816,
-              "h": 637,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
     "user": {
-      "id": 12,
-      "id_str": "12",
       "name": "jack",
       "screen_name": "jack",
-      "location": "",
-      "description": "#bitcoin",
-      "url": null,
-      "entities": {
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 5214374,
-      "friends_count": 4548,
-      "listed_count": 28525,
-      "created_at": "Tue Mar 21 20:50:14 +0000 2006",
-      "favourites_count": 31910,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": true,
-      "verified": true,
-      "statuses_count": 27373,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "EBEBEB",
-      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
-      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1115644092329758721/AFjOr-K8_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1115644092329758721/AFjOr-K8_normal.jpg",
-      "profile_banner_url": "https://pbs.twimg.com/profile_banners/12/1584998840",
-      "profile_link_color": "990000",
-      "profile_sidebar_border_color": "DFDFDF",
-      "profile_sidebar_fill_color": "F3F3F3",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": false,
-      "default_profile": false,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "regular"
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1115644092329758721/AFjOr-K8_normal.jpg"
     },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
     "retweet_count": 1378,
     "favorite_count": 8728,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
-  },
-  "is_quote_status": false,
-  "retweet_count": 4911,
-  "favorite_count": 0,
-  "favorited": false,
-  "retweeted": false,
-  "possibly_sensitive": false,
-  "lang": "en",
-  "original_created_at": "Fri Feb 05 08:29:37 +0000 2021",
-  "localize": [
-    {
-      "locale": "zh",
-      "full_text": "RT @jack: Running #bitcoin https://t.co/W51ga3yrKb",
-      "retweeted_status_full_text": "运行#比特币https://t.co/W51ga3yrKb"
-    },
-    {
-      "locale": "zh-Hant",
-      "full_text": "RT @jack: Running #bitcoin https://t.co/W51ga3yrKb",
-      "retweeted_status_full_text": "運行#比特幣https://t.co/W51ga3yrKb"
-    }
-  ],
-  "source_updated_at": 1613123223383
+    "possibly_sensitive": false
+  }
 }

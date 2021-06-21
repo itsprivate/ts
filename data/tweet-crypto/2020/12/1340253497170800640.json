@@ -1,9 +1,7 @@
 {
   "created_at": "Sat Dec 26 18:50:12 +0000 2020",
-  "id": 1340253497170800600,
   "id_str": "1340253497170800640",
   "full_text": "RT @jchervinsky: 9/ Considering the FinCEN Files leak &amp; recent hacks, government hasn't really shown that it's using our information effect…",
-  "truncated": false,
   "display_text_range": [
     0,
     144
@@ -25,93 +23,31 @@
     ],
     "urls": []
   },
-  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
   "user": {
-    "id": 918804624303382500,
-    "id_str": "918804624303382528",
     "name": "PlanB",
     "screen_name": "100trillionUSD",
-    "location": "NOT FINANCIAL ADVICE",
-    "description": "#bitcoin\n1PRoNLcWHzM8DuKpGE4YM9hb1PjSEnWRpn\nArticles and podcasts on https://t.co/5Y254ILwhC",
-    "url": "https://t.co/5Y254ILwhC",
-    "entities": {
-      "url": {
-        "urls": [
-          {
-            "url": "https://t.co/5Y254ILwhC",
-            "expanded_url": "http://PlanBTC.com",
-            "display_url": "PlanBTC.com",
-            "indices": [
-              0,
-              23
-            ]
-          }
-        ]
-      },
-      "description": {
-        "urls": [
-          {
-            "url": "https://t.co/5Y254ILwhC",
-            "expanded_url": "http://PlanBTC.com",
-            "display_url": "PlanBTC.com",
-            "indices": [
-              69,
-              92
-            ]
-          }
-        ]
-      }
-    },
-    "protected": false,
-    "followers_count": 180326,
-    "friends_count": 203,
-    "listed_count": 2667,
-    "created_at": "Fri Oct 13 11:44:27 +0000 2017",
-    "favourites_count": 21516,
-    "utc_offset": null,
-    "time_zone": null,
-    "geo_enabled": false,
-    "verified": false,
-    "statuses_count": 5875,
-    "lang": null,
-    "contributors_enabled": false,
-    "is_translator": false,
-    "is_translation_enabled": false,
-    "profile_background_color": "F5F8FA",
-    "profile_background_image_url": null,
-    "profile_background_image_url_https": null,
-    "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1117537706584702982/lMHLne7O_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117537706584702982/lMHLne7O_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/918804624303382528/1601733353",
-    "profile_link_color": "1DA1F2",
-    "profile_sidebar_border_color": "C0DEED",
-    "profile_sidebar_fill_color": "DDEEF6",
-    "profile_text_color": "333333",
-    "profile_use_background_image": true,
-    "has_extended_profile": true,
-    "default_profile": true,
-    "default_profile_image": false,
-    "following": false,
-    "follow_request_sent": false,
-    "notifications": false,
-    "translator_type": "none"
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117537706584702982/lMHLne7O_normal.jpg"
   },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
+  "retweet_count": 150,
+  "favorite_count": 0,
+  "original_created_at": "Sat Dec 19 11:11:49 +0000 2020",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "rt@jchervinsky：9/考虑到FinCEN文件泄露和最近的黑客攻击，政府并没有真正表明它正在使用我们的信息效果…",
+      "retweeted_status_full_text": "9/考虑到最近的FinCEN文件泄露和黑客攻击事件，政府并没有真正表明它有效地利用了我们的信息或安全地存储了这些信息。\n\n现在不是扩大政府未经授权的大规模监视和数据收集行动的时候。\nhttps://t.co/pBVKoFlPzz"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "rt@jchervinsky：9/考慮到FinCEN文件泄露和最近的黑客攻擊，政府並沒有真正表明它正在使用我們的信息效果…",
+      "retweeted_status_full_text": "9/考慮到最近的FinCEN文件泄露和黑客攻擊事件，政府並沒有真正表明它有效地利用了我們的信息或安全地存儲了這些信息。\n\n現在不是擴大政府未經授權的大規模監視和數據收集行動的時候。\nhttps://t.co/pBVKoFlPzz"
+    }
+  ],
+  "source_updated_at": 1609495336353,
   "retweeted_status": {
     "created_at": "Sat Dec 19 03:21:09 +0000 2020",
-    "id": 1340135049971294200,
     "id_str": "1340135049971294209",
     "full_text": "9/ Considering the FinCEN Files leak &amp; recent hacks, government hasn't really shown that it's using our information effectively or storing it safely.\n\nNow isn't the time to expand government's warrantless mass surveillance &amp; data collection operations.\nhttps://t.co/pBVKoFlPzz",
-    "truncated": false,
     "display_text_range": [
       0,
       284
@@ -132,90 +68,13 @@
         }
       ]
     },
-    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1340135048826278000,
-    "in_reply_to_status_id_str": "1340135048826277888",
-    "in_reply_to_user_id": 47003920,
-    "in_reply_to_user_id_str": "47003920",
-    "in_reply_to_screen_name": "jchervinsky",
     "user": {
-      "id": 47003920,
-      "id_str": "47003920",
       "name": "Jake Chervinsky",
       "screen_name": "jchervinsky",
-      "location": "Washington, DC",
-      "description": "Lawyer, but not yours. GC @compoundfinance. DeFi group chair @blockchainassn. Board member @hodlpac. Tweets are not legal or financial advice. #bitcoin",
-      "url": null,
-      "entities": {
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 36437,
-      "friends_count": 418,
-      "listed_count": 698,
-      "created_at": "Sun Jun 14 01:21:58 +0000 2009",
-      "favourites_count": 17496,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": false,
-      "verified": false,
-      "statuses_count": 5125,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "000000",
-      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1250669357631524864/OZ6W4OFg_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250669357631524864/OZ6W4OFg_normal.jpg",
-      "profile_banner_url": "https://pbs.twimg.com/profile_banners/47003920/1559158066",
-      "profile_link_color": "ABB8C2",
-      "profile_sidebar_border_color": "000000",
-      "profile_sidebar_fill_color": "000000",
-      "profile_text_color": "000000",
-      "profile_use_background_image": false,
-      "has_extended_profile": false,
-      "default_profile": false,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none"
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250669357631524864/OZ6W4OFg_normal.jpg"
     },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
     "retweet_count": 151,
     "favorite_count": 883,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
-  },
-  "is_quote_status": false,
-  "retweet_count": 150,
-  "favorite_count": 0,
-  "favorited": false,
-  "retweeted": false,
-  "lang": "en",
-  "original_created_at": "Sat Dec 19 11:11:49 +0000 2020",
-  "localize": [
-    {
-      "locale": "zh",
-      "full_text": "rt@jchervinsky：9/考虑到FinCEN文件泄露和最近的黑客攻击，政府并没有真正表明它正在使用我们的信息效果…",
-      "retweeted_status_full_text": "9/考虑到最近的FinCEN文件泄露和黑客攻击事件，政府并没有真正表明它有效地利用了我们的信息或安全地存储了这些信息。\n\n现在不是扩大政府未经授权的大规模监视和数据收集行动的时候。\nhttps://t.co/pBVKoFlPzz"
-    },
-    {
-      "locale": "zh-Hant",
-      "full_text": "rt@jchervinsky：9/考慮到FinCEN文件泄露和最近的黑客攻擊，政府並沒有真正表明它正在使用我們的信息效果…",
-      "retweeted_status_full_text": "9/考慮到最近的FinCEN文件泄露和黑客攻擊事件，政府並沒有真正表明它有效地利用了我們的信息或安全地存儲了這些信息。\n\n現在不是擴大政府未經授權的大規模監視和數據收集行動的時候。\nhttps://t.co/pBVKoFlPzz"
-    }
-  ],
-  "source_updated_at": 1609495336353
+    "possibly_sensitive": false
+  }
 }

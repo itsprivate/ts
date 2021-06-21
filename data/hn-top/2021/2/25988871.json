@@ -4,14 +4,7 @@
   "url": "https://hakibenita.com/postgresql-unused-index-size",
   "author": "haki",
   "points": 373,
-  "story_text": null,
-  "comment_text": null,
   "num_comments": 39,
-  "story_id": null,
-  "story_title": null,
-  "story_url": null,
-  "parent_id": null,
-  "created_at_i": 1612189066,
   "_tags": [
     "story",
     "author_haki",
@@ -19,25 +12,7 @@
     "front_page"
   ],
   "objectID": "25988871",
-  "_highlightResult": {
-    "title": {
-      "value": "An unexpected find that freed 20gb of unused index space in PostgreSQL",
-      "matchLevel": "none",
-      "matchedWords": []
-    },
-    "url": {
-      "value": "https://hakibenita.com/postgresql-unused-index-size",
-      "matchLevel": "none",
-      "matchedWords": []
-    },
-    "author": {
-      "value": "haki",
-      "matchLevel": "none",
-      "matchedWords": []
-    }
-  },
   "original_created_at": "2021-02-01T14:17:46.000Z",
-  "image": "https://hakibenita.com/images/00-postgresql-unused-index-size.png",
   "localize": [
     {
       "locale": "zh",
@@ -48,5 +23,6 @@
       "title": "一個意外的發現，在PostgreSQL中釋放了20GB未使用的索引空間。"
     }
   ],
-  "source_updated_at": 1612518570295
+  "source_updated_at": 1612518570295,
+  "image": "https://hakibenita.com/images/00-postgresql-unused-index-size.png"
 }

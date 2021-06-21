@@ -1,9 +1,7 @@
 {
   "created_at": "Wed Jan 27 22:31:59 +0000 2021",
-  "id": 1354503515645862000,
   "id_str": "1354503515645861890",
   "full_text": "RT @jkrinskypga: Blockbuster up 4900% in 2 days... \n\nyup, that blockbuster https://t.co/xbJ4HkY8tb",
-  "truncated": false,
   "display_text_range": [
     0,
     98
@@ -67,127 +65,31 @@
       }
     ]
   },
-  "extended_entities": {
-    "media": [
-      {
-        "id": 1354501934816911400,
-        "id_str": "1354501934816911362",
-        "indices": [
-          75,
-          98
-        ],
-        "media_url": "http://pbs.twimg.com/media/EswoVVBXYAICVPi.png",
-        "media_url_https": "https://pbs.twimg.com/media/EswoVVBXYAICVPi.png",
-        "url": "https://t.co/xbJ4HkY8tb",
-        "display_url": "pic.twitter.com/xbJ4HkY8tb",
-        "expanded_url": "https://twitter.com/jkrinskypga/status/1354502047656243201/photo/1",
-        "type": "photo",
-        "sizes": {
-          "large": {
-            "w": 936,
-            "h": 521,
-            "resize": "fit"
-          },
-          "medium": {
-            "w": 936,
-            "h": 521,
-            "resize": "fit"
-          },
-          "small": {
-            "w": 680,
-            "h": 379,
-            "resize": "fit"
-          },
-          "thumb": {
-            "w": 150,
-            "h": 150,
-            "resize": "crop"
-          }
-        },
-        "source_status_id": 1354502047656243200,
-        "source_status_id_str": "1354502047656243201",
-        "source_user_id": 160584696,
-        "source_user_id_str": "160584696"
-      }
-    ]
-  },
-  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
   "user": {
-    "id": 14886375,
-    "id_str": "14886375",
     "name": "Stocktwits",
     "screen_name": "Stocktwits",
-    "location": "New York, NY",
-    "description": "The world's largest community of investors and traders.",
-    "url": "https://t.co/vsASyzSU5y",
-    "entities": {
-      "url": {
-        "urls": [
-          {
-            "url": "https://t.co/vsASyzSU5y",
-            "expanded_url": "https://stocktwits.com",
-            "display_url": "stocktwits.com",
-            "indices": [
-              0,
-              23
-            ]
-          }
-        ]
-      },
-      "description": {
-        "urls": []
-      }
-    },
-    "protected": false,
-    "followers_count": 770975,
-    "friends_count": 118395,
-    "listed_count": 11056,
-    "created_at": "Fri May 23 20:53:49 +0000 2008",
-    "favourites_count": 48440,
-    "utc_offset": null,
-    "time_zone": null,
-    "geo_enabled": true,
-    "verified": true,
-    "statuses_count": 69935,
-    "lang": null,
-    "contributors_enabled": false,
-    "is_translator": false,
-    "is_translation_enabled": false,
-    "profile_background_color": "FFFFFF",
-    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1151488812239020032/W7DI3qKd_normal.png",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151488812239020032/W7DI3qKd_normal.png",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/14886375/1563371327",
-    "profile_link_color": "40576F",
-    "profile_sidebar_border_color": "DDDDDD",
-    "profile_sidebar_fill_color": "EEEEEE",
-    "profile_text_color": "171717",
-    "profile_use_background_image": false,
-    "has_extended_profile": false,
-    "default_profile": false,
-    "default_profile_image": false,
-    "following": true,
-    "follow_request_sent": false,
-    "notifications": false,
-    "translator_type": "none"
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151488812239020032/W7DI3qKd_normal.png"
   },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
+  "retweet_count": 190,
+  "favorite_count": 0,
+  "possibly_sensitive": false,
+  "original_created_at": "Wed Jan 27 18:56:18 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT@jkrinskypga：大片2天涨4900%...... \n\n是啊，那部大片https://t.co/xbJ4HkY8tb。",
+      "retweeted_status_full_text": "百视达2天涨4900%... ... \n\n是啊，那部大片https://t.co/xbJ4HkY8tb"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT@jkrinskypga：大片2天漲4900%...... \n\n是啊，那部大片https://t.co/xbJ4HkY8tb。",
+      "retweeted_status_full_text": "百視達2天漲4900%... ... \n\n是啊，那部大片https://t.co/xbJ4HkY8tb"
+    }
+  ],
   "retweeted_status": {
     "created_at": "Wed Jan 27 18:50:28 +0000 2021",
-    "id": 1354502047656243200,
     "id_str": "1354502047656243201",
     "full_text": "Blockbuster up 4900% in 2 days... \n\nyup, that blockbuster https://t.co/xbJ4HkY8tb",
-    "truncated": false,
     "display_text_range": [
       0,
       57
@@ -236,129 +138,13 @@
         }
       ]
     },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1354501934816911400,
-          "id_str": "1354501934816911362",
-          "indices": [
-            58,
-            81
-          ],
-          "media_url": "http://pbs.twimg.com/media/EswoVVBXYAICVPi.png",
-          "media_url_https": "https://pbs.twimg.com/media/EswoVVBXYAICVPi.png",
-          "url": "https://t.co/xbJ4HkY8tb",
-          "display_url": "pic.twitter.com/xbJ4HkY8tb",
-          "expanded_url": "https://twitter.com/jkrinskypga/status/1354502047656243201/photo/1",
-          "type": "photo",
-          "sizes": {
-            "large": {
-              "w": 936,
-              "h": 521,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 936,
-              "h": 521,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 379,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            }
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
     "user": {
-      "id": 160584696,
-      "id_str": "160584696",
       "name": "Jonathan Krinsky,CMT",
       "screen_name": "jkrinskypga",
-      "location": "Minneapolis, MN",
-      "description": "Chief Market Technician; ex-PGA Pro. Runner. Snowboarder. All tweets and RT are my personal opinion, and do not reflect my firm's view.",
-      "url": null,
-      "entities": {
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 8746,
-      "friends_count": 661,
-      "listed_count": 293,
-      "created_at": "Mon Jun 28 15:53:46 +0000 2010",
-      "favourites_count": 9559,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": true,
-      "verified": false,
-      "statuses_count": 4685,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "C0DEED",
-      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/3236809285/f6f38c5674edaa03b37eb3fcc9fde4ef_normal.png",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/3236809285/f6f38c5674edaa03b37eb3fcc9fde4ef_normal.png",
-      "profile_link_color": "1DA1F2",
-      "profile_sidebar_border_color": "C0DEED",
-      "profile_sidebar_fill_color": "DDEEF6",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": false,
-      "default_profile": true,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none"
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/3236809285/f6f38c5674edaa03b37eb3fcc9fde4ef_normal.png"
     },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
     "retweet_count": 190,
     "favorite_count": 914,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
-  },
-  "is_quote_status": false,
-  "retweet_count": 190,
-  "favorite_count": 0,
-  "favorited": false,
-  "retweeted": false,
-  "possibly_sensitive": false,
-  "lang": "en",
-  "original_created_at": "Wed Jan 27 18:56:18 +0000 2021",
-  "localize": [
-    {
-      "locale": "zh",
-      "full_text": "RT@jkrinskypga：大片2天涨4900%...... \n\n是啊，那部大片https://t.co/xbJ4HkY8tb。",
-      "retweeted_status_full_text": "百视达2天涨4900%... ... \n\n是啊，那部大片https://t.co/xbJ4HkY8tb"
-    },
-    {
-      "locale": "zh-Hant",
-      "full_text": "RT@jkrinskypga：大片2天漲4900%...... \n\n是啊，那部大片https://t.co/xbJ4HkY8tb。",
-      "retweeted_status_full_text": "百視達2天漲4900%... ... \n\n是啊，那部大片https://t.co/xbJ4HkY8tb"
-    }
-  ]
+    "possibly_sensitive": false
+  }
 }

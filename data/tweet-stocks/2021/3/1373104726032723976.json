@@ -1,9 +1,7 @@
 {
   "created_at": "Sat Mar 20 3:44:50 +0000 2021",
-  "id": 1373104726032724000,
   "id_str": "1373104726032723976",
   "full_text": "RT @APompliano: This is the wildest video I’ve seen in a long time https://t.co/qgDQqFPOMx",
-  "truncated": false,
   "display_text_range": [
     0,
     90
@@ -67,209 +65,32 @@
       }
     ]
   },
-  "extended_entities": {
-    "media": [
-      {
-        "id": 1372614632150564900,
-        "id_str": "1372614632150564874",
-        "indices": [
-          67,
-          90
-        ],
-        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1372614632150564874/pu/img/5OQrA9VPjHdNUdZ6.jpg",
-        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1372614632150564874/pu/img/5OQrA9VPjHdNUdZ6.jpg",
-        "url": "https://t.co/qgDQqFPOMx",
-        "display_url": "pic.twitter.com/qgDQqFPOMx",
-        "expanded_url": "https://twitter.com/TomBoadle/status/1372614686496190475/video/1",
-        "type": "video",
-        "sizes": {
-          "thumb": {
-            "w": 150,
-            "h": 150,
-            "resize": "crop"
-          },
-          "large": {
-            "w": 320,
-            "h": 568,
-            "resize": "fit"
-          },
-          "small": {
-            "w": 320,
-            "h": 568,
-            "resize": "fit"
-          },
-          "medium": {
-            "w": 320,
-            "h": 568,
-            "resize": "fit"
-          }
-        },
-        "source_status_id": 1372614686496190500,
-        "source_status_id_str": "1372614686496190475",
-        "source_user_id": 193477384,
-        "source_user_id_str": "193477384",
-        "video_info": {
-          "aspect_ratio": [
-            40,
-            71
-          ],
-          "duration_millis": 95933,
-          "variants": [
-            {
-              "bitrate": 632000,
-              "content_type": "video/mp4",
-              "url": "https://video.twimg.com/ext_tw_video/1372614632150564874/pu/vid/320x568/ebGid1WLu6v6xPRc.mp4?tag=12"
-            },
-            {
-              "content_type": "application/x-mpegURL",
-              "url": "https://video.twimg.com/ext_tw_video/1372614632150564874/pu/pl/_klrfFgNmjWgtm4l.m3u8?tag=12"
-            }
-          ]
-        },
-        "additional_media_info": {
-          "monetizable": false,
-          "source_user": {
-            "id": 193477384,
-            "id_str": "193477384",
-            "name": "Tom Boadle",
-            "screen_name": "TomBoadle",
-            "location": "tom.boadle@sky.uk",
-            "description": "Senior News Editor @SkyNews | running the business desk | tweets auto-delete",
-            "url": "https://t.co/gY9rZVGBXq",
-            "entities": {
-              "url": {
-                "urls": [
-                  {
-                    "url": "https://t.co/gY9rZVGBXq",
-                    "expanded_url": "https://news.sky.com/",
-                    "display_url": "news.sky.com",
-                    "indices": [
-                      0,
-                      23
-                    ]
-                  }
-                ]
-              },
-              "description": {
-                "urls": []
-              }
-            },
-            "protected": false,
-            "followers_count": 5876,
-            "friends_count": 2972,
-            "listed_count": 131,
-            "created_at": "Tue Sep 21 22:38:00 +0000 2010",
-            "favourites_count": 3583,
-            "utc_offset": null,
-            "time_zone": null,
-            "geo_enabled": true,
-            "verified": false,
-            "statuses_count": 1364,
-            "lang": null,
-            "contributors_enabled": false,
-            "is_translator": false,
-            "is_translation_enabled": false,
-            "profile_background_color": "000000",
-            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
-            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
-            "profile_background_tile": true,
-            "profile_image_url": "http://pbs.twimg.com/profile_images/514858873308852224/ptXUrBXn_normal.jpeg",
-            "profile_image_url_https": "https://pbs.twimg.com/profile_images/514858873308852224/ptXUrBXn_normal.jpeg",
-            "profile_banner_url": "https://pbs.twimg.com/profile_banners/193477384/1427755989",
-            "profile_link_color": "5CABFF",
-            "profile_sidebar_border_color": "FFFFFF",
-            "profile_sidebar_fill_color": "EFEFEF",
-            "profile_text_color": "333333",
-            "profile_use_background_image": true,
-            "has_extended_profile": true,
-            "default_profile": false,
-            "default_profile_image": false,
-            "following": false,
-            "follow_request_sent": false,
-            "notifications": false,
-            "translator_type": "none"
-          }
-        }
-      }
-    ]
-  },
-  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
   "user": {
-    "id": 15079601,
-    "id_str": "15079601",
     "name": "The_Real_Fly",
     "screen_name": "The_Real_Fly",
-    "location": "United States",
-    "description": "Man of leisure. Sophisticate. Master Ace stock trader. Champion of Champions.",
-    "url": "https://t.co/2n3HjQfcOf",
-    "entities": {
-      "url": {
-        "urls": [
-          {
-            "url": "https://t.co/2n3HjQfcOf",
-            "expanded_url": "http://ibankcoin.com",
-            "display_url": "ibankcoin.com",
-            "indices": [
-              0,
-              23
-            ]
-          }
-        ]
-      },
-      "description": {
-        "urls": []
-      }
-    },
-    "protected": false,
-    "followers_count": 65932,
-    "friends_count": 333,
-    "listed_count": 2060,
-    "created_at": "Wed Jun 11 00:23:03 +0000 2008",
-    "favourites_count": 20960,
-    "utc_offset": null,
-    "time_zone": null,
-    "geo_enabled": false,
-    "verified": false,
-    "statuses_count": 157810,
-    "lang": null,
-    "contributors_enabled": false,
-    "is_translator": false,
-    "is_translation_enabled": false,
-    "profile_background_color": "FFFFFF",
-    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_tile": true,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1365459205453471751/LL4GKo3m_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1365459205453471751/LL4GKo3m_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/15079601/1489552662",
-    "profile_link_color": "FF691F",
-    "profile_sidebar_border_color": "000000",
-    "profile_sidebar_fill_color": "C0DFEC",
-    "profile_text_color": "333333",
-    "profile_use_background_image": true,
-    "has_extended_profile": false,
-    "default_profile": false,
-    "default_profile_image": false,
-    "following": false,
-    "follow_request_sent": false,
-    "notifications": false,
-    "translator_type": "none"
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1365459205453471751/LL4GKo3m_normal.jpg"
   },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
+  "retweet_count": 17410,
+  "favorite_count": 0,
+  "possibly_sensitive": false,
+  "original_created_at": "Sat Mar 20 02:50:52 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @APompliano: 这是我很久以来看到的最疯狂的视频 https://t.co/qgDQqFPOMx",
+      "retweeted_status_full_text": "这是我很久以来看到的最疯狂的视频https://t.co/qgDQqFPOMx。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @APompliano: 這是我很久以來看到的最瘋狂的視頻 https://t.co/qgDQqFPOMx",
+      "retweeted_status_full_text": "這是我很久以來看到的最瘋狂的視頻https://t.co/qgDQqFPOMx。"
+    }
+  ],
+  "source_updated_at": 1616752835030,
   "retweeted_status": {
     "created_at": "Sat Mar 20 02:47:13 +0000 2021",
-    "id": 1373103809354985500,
     "id_str": "1373103809354985472",
     "full_text": "This is the wildest video I’ve seen in a long time https://t.co/qgDQqFPOMx",
-    "truncated": false,
     "display_text_range": [
       0,
       74
@@ -322,240 +143,13 @@
         }
       ]
     },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1372614632150564900,
-          "id_str": "1372614632150564874",
-          "indices": [
-            51,
-            74
-          ],
-          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1372614632150564874/pu/img/5OQrA9VPjHdNUdZ6.jpg",
-          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1372614632150564874/pu/img/5OQrA9VPjHdNUdZ6.jpg",
-          "url": "https://t.co/qgDQqFPOMx",
-          "display_url": "pic.twitter.com/qgDQqFPOMx",
-          "expanded_url": "https://twitter.com/TomBoadle/status/1372614686496190475/video/1",
-          "type": "video",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 320,
-              "h": 568,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 320,
-              "h": 568,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 320,
-              "h": 568,
-              "resize": "fit"
-            }
-          },
-          "source_status_id": 1372614686496190500,
-          "source_status_id_str": "1372614686496190475",
-          "source_user_id": 193477384,
-          "source_user_id_str": "193477384",
-          "video_info": {
-            "aspect_ratio": [
-              40,
-              71
-            ],
-            "duration_millis": 95933,
-            "variants": [
-              {
-                "bitrate": 632000,
-                "content_type": "video/mp4",
-                "url": "https://video.twimg.com/ext_tw_video/1372614632150564874/pu/vid/320x568/ebGid1WLu6v6xPRc.mp4?tag=12"
-              },
-              {
-                "content_type": "application/x-mpegURL",
-                "url": "https://video.twimg.com/ext_tw_video/1372614632150564874/pu/pl/_klrfFgNmjWgtm4l.m3u8?tag=12"
-              }
-            ]
-          },
-          "additional_media_info": {
-            "monetizable": false,
-            "source_user": {
-              "id": 193477384,
-              "id_str": "193477384",
-              "name": "Tom Boadle",
-              "screen_name": "TomBoadle",
-              "location": "tom.boadle@sky.uk",
-              "description": "Senior News Editor @SkyNews | running the business desk | tweets auto-delete",
-              "url": "https://t.co/gY9rZVGBXq",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/gY9rZVGBXq",
-                      "expanded_url": "https://news.sky.com/",
-                      "display_url": "news.sky.com",
-                      "indices": [
-                        0,
-                        23
-                      ]
-                    }
-                  ]
-                },
-                "description": {
-                  "urls": []
-                }
-              },
-              "protected": false,
-              "followers_count": 5876,
-              "friends_count": 2972,
-              "listed_count": 131,
-              "created_at": "Tue Sep 21 22:38:00 +0000 2010",
-              "favourites_count": 3583,
-              "utc_offset": null,
-              "time_zone": null,
-              "geo_enabled": true,
-              "verified": false,
-              "statuses_count": 1364,
-              "lang": null,
-              "contributors_enabled": false,
-              "is_translator": false,
-              "is_translation_enabled": false,
-              "profile_background_color": "000000",
-              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
-              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
-              "profile_background_tile": true,
-              "profile_image_url": "http://pbs.twimg.com/profile_images/514858873308852224/ptXUrBXn_normal.jpeg",
-              "profile_image_url_https": "https://pbs.twimg.com/profile_images/514858873308852224/ptXUrBXn_normal.jpeg",
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/193477384/1427755989",
-              "profile_link_color": "5CABFF",
-              "profile_sidebar_border_color": "FFFFFF",
-              "profile_sidebar_fill_color": "EFEFEF",
-              "profile_text_color": "333333",
-              "profile_use_background_image": true,
-              "has_extended_profile": true,
-              "default_profile": false,
-              "default_profile_image": false,
-              "following": false,
-              "follow_request_sent": false,
-              "notifications": false,
-              "translator_type": "none"
-            }
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
     "user": {
-      "id": 339061487,
-      "id_str": "339061487",
       "name": "Pomp 🌪",
       "screen_name": "APompliano",
-      "location": "Global",
-      "description": "Building Pomp Investments. Have invested $100M+ in early stage companies, including multiple unicorns. Write a daily letter to 140k investors: https://t.co/tpCu2xhIBx",
-      "url": "https://t.co/DMdea5V5hf",
-      "entities": {
-        "url": {
-          "urls": [
-            {
-              "url": "https://t.co/DMdea5V5hf",
-              "expanded_url": "http://www.youtube.com/c/AnthonyPompliano",
-              "display_url": "youtube.com/c/AnthonyPompl…",
-              "indices": [
-                0,
-                23
-              ]
-            }
-          ]
-        },
-        "description": {
-          "urls": [
-            {
-              "url": "https://t.co/tpCu2xhIBx",
-              "expanded_url": "http://pompletter.com",
-              "display_url": "pompletter.com",
-              "indices": [
-                143,
-                166
-              ]
-            }
-          ]
-        }
-      },
-      "protected": false,
-      "followers_count": 649552,
-      "friends_count": 5554,
-      "listed_count": 7552,
-      "created_at": "Wed Jul 20 14:43:36 +0000 2011",
-      "favourites_count": 320954,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": false,
-      "verified": true,
-      "statuses_count": 53026,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "000000",
-      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
-      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1362803074121760768/IxlsR42x_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1362803074121760768/IxlsR42x_normal.jpg",
-      "profile_banner_url": "https://pbs.twimg.com/profile_banners/339061487/1615675610",
-      "profile_link_color": "1B95E0",
-      "profile_sidebar_border_color": "000000",
-      "profile_sidebar_fill_color": "000000",
-      "profile_text_color": "000000",
-      "profile_use_background_image": false,
-      "has_extended_profile": true,
-      "default_profile": false,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none"
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1362803074121760768/IxlsR42x_normal.jpg"
     },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
     "retweet_count": 905,
     "favorite_count": 4259,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
-  },
-  "is_quote_status": false,
-  "retweet_count": 17410,
-  "favorite_count": 0,
-  "favorited": false,
-  "retweeted": false,
-  "possibly_sensitive": false,
-  "lang": "en",
-  "original_created_at": "Sat Mar 20 02:50:52 +0000 2021",
-  "localize": [
-    {
-      "locale": "zh",
-      "full_text": "RT @APompliano: 这是我很久以来看到的最疯狂的视频 https://t.co/qgDQqFPOMx",
-      "retweeted_status_full_text": "这是我很久以来看到的最疯狂的视频https://t.co/qgDQqFPOMx。"
-    },
-    {
-      "locale": "zh-Hant",
-      "full_text": "RT @APompliano: 這是我很久以來看到的最瘋狂的視頻 https://t.co/qgDQqFPOMx",
-      "retweeted_status_full_text": "這是我很久以來看到的最瘋狂的視頻https://t.co/qgDQqFPOMx。"
-    }
-  ],
-  "source_updated_at": 1616752835030
+    "possibly_sensitive": false
+  }
 }

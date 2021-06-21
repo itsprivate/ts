@@ -1,9 +1,7 @@
 {
   "created_at": "Wed Apr 07 23:17:22 +0000 2021",
-  "id": 1379857184201310200,
   "id_str": "1379857184201310214",
   "full_text": "How artificial intelligence is being applied in the creative industries. Supported by @Mishcon_de_Reya  https://t.co/TcDYAGhWh4 https://t.co/vs0dV0Rstu",
-  "truncated": false,
   "display_text_range": [
     0,
     127
@@ -73,167 +71,14 @@
       }
     ]
   },
-  "extended_entities": {
-    "media": [
-      {
-        "id": 1379856572453634000,
-        "id_str": "1379856572453634049",
-        "indices": [
-          128,
-          151
-        ],
-        "media_url": "http://pbs.twimg.com/media/EyY8y3XWYAATjlo.jpg",
-        "media_url_https": "https://pbs.twimg.com/media/EyY8y3XWYAATjlo.jpg",
-        "url": "https://t.co/vs0dV0Rstu",
-        "display_url": "pic.twitter.com/vs0dV0Rstu",
-        "expanded_url": "https://twitter.com/TheEconomist/status/1379857184201310214/video/1",
-        "type": "video",
-        "sizes": {
-          "thumb": {
-            "w": 150,
-            "h": 150,
-            "resize": "crop"
-          },
-          "medium": {
-            "w": 720,
-            "h": 405,
-            "resize": "fit"
-          },
-          "small": {
-            "w": 680,
-            "h": 383,
-            "resize": "fit"
-          },
-          "large": {
-            "w": 720,
-            "h": 405,
-            "resize": "fit"
-          }
-        },
-        "video_info": {
-          "aspect_ratio": [
-            16,
-            9
-          ],
-          "duration_millis": 500440,
-          "variants": [
-            {
-              "content_type": "application/x-mpegURL",
-              "url": "https://video.twimg.com/amplify_video/1379856572453634049/pl/SmhmELzN221vnI0A.m3u8?tag=14"
-            },
-            {
-              "bitrate": 288000,
-              "content_type": "video/mp4",
-              "url": "https://video.twimg.com/amplify_video/1379856572453634049/vid/480x270/ahsPCBRcXH7l7PgW.mp4?tag=14"
-            },
-            {
-              "bitrate": 2176000,
-              "content_type": "video/mp4",
-              "url": "https://video.twimg.com/amplify_video/1379856572453634049/vid/1280x720/8i5JHUGV3zasywYg.mp4?tag=14"
-            },
-            {
-              "bitrate": 832000,
-              "content_type": "video/mp4",
-              "url": "https://video.twimg.com/amplify_video/1379856572453634049/vid/640x360/m2V_LBzb-o9ChzPS.mp4?tag=14"
-            }
-          ]
-        },
-        "additional_media_info": {
-          "title": "How AI is transforming the creative industries",
-          "description": "Artificial intelligence is helping humans make new kinds of art. It is more likely to emerge as a collaborator than a competitor for those working in creative industries. ",
-          "monetizable": false
-        }
-      }
-    ]
-  },
-  "source": "<a href=\"https://prod1.sprinklr.com\" rel=\"nofollow\">Sprinklr Publishing</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
   "user": {
-    "id": 5988062,
-    "id_str": "5988062",
     "name": "The Economist",
     "screen_name": "TheEconomist",
-    "location": "London",
-    "description": "News and analysis with a global perspective. Subscribe here: https://t.co/KCCoA2WEZ7",
-    "url": "https://t.co/pN0OAmG4SP",
-    "entities": {
-      "url": {
-        "urls": [
-          {
-            "url": "https://t.co/pN0OAmG4SP",
-            "expanded_url": "http://www.economist.com",
-            "display_url": "economist.com",
-            "indices": [
-              0,
-              23
-            ]
-          }
-        ]
-      },
-      "description": {
-        "urls": [
-          {
-            "url": "https://t.co/KCCoA2WEZ7",
-            "expanded_url": "http://econ.st/3lg3vlb",
-            "display_url": "econ.st/3lg3vlb",
-            "indices": [
-              61,
-              84
-            ]
-          }
-        ]
-      }
-    },
-    "protected": false,
-    "followers_count": 25620881,
-    "friends_count": 131,
-    "listed_count": 116483,
-    "created_at": "Sat May 12 13:04:50 +0000 2007",
-    "favourites_count": 151,
-    "utc_offset": null,
-    "time_zone": null,
-    "geo_enabled": false,
-    "verified": true,
-    "statuses_count": 254969,
-    "lang": null,
-    "contributors_enabled": false,
-    "is_translator": false,
-    "is_translation_enabled": true,
-    "profile_background_color": "DFDFDF",
-    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_tile": true,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/879361767914262528/HdRauDM-_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/879361767914262528/HdRauDM-_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/5988062/1617556140",
-    "profile_link_color": "E3120B",
-    "profile_sidebar_border_color": "FFFFFF",
-    "profile_sidebar_fill_color": "DDEEF6",
-    "profile_text_color": "2C2E2D",
-    "profile_use_background_image": true,
-    "has_extended_profile": false,
-    "default_profile": false,
-    "default_profile_image": false,
-    "following": true,
-    "follow_request_sent": false,
-    "notifications": false,
-    "translator_type": "none"
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/879361767914262528/HdRauDM-_normal.jpg"
   },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
-  "is_quote_status": false,
   "retweet_count": 33,
   "favorite_count": 85,
-  "favorited": false,
-  "retweeted": false,
   "possibly_sensitive": false,
-  "lang": "en",
   "original_created_at": "Wed Apr 07 18:02:43 +0000 2021",
   "localize": [
     {

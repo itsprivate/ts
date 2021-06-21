@@ -4,14 +4,7 @@
   "url": "https://voice2json.org/",
   "author": "easrng",
   "points": 485,
-  "story_text": null,
-  "comment_text": null,
   "num_comments": 32,
-  "story_id": null,
-  "story_title": null,
-  "story_url": null,
-  "parent_id": null,
-  "created_at_i": 1621613686,
   "_tags": [
     "story",
     "author_easrng",
@@ -19,25 +12,7 @@
     "front_page"
   ],
   "objectID": "27235970",
-  "_highlightResult": {
-    "title": {
-      "value": "Voice2json: Offline speech and intent recognition on Linux",
-      "matchLevel": "none",
-      "matchedWords": []
-    },
-    "url": {
-      "value": "https://voice2json.org/",
-      "matchLevel": "none",
-      "matchedWords": []
-    },
-    "author": {
-      "value": "easrng",
-      "matchLevel": "none",
-      "matchedWords": []
-    }
-  },
   "original_created_at": "2021-05-21T16:14:46.000Z",
-  "image": "https://voice2json.org/img/voice2json.svg",
   "localize": [
     {
       "locale": "ja",
@@ -52,5 +27,6 @@
       "title": "Voice2json。Linux上的離線語音和意圖識別"
     }
   ],
-  "source_updated_at": 1622197394132
+  "source_updated_at": 1622197394132,
+  "image": "https://voice2json.org/img/voice2json.svg"
 }

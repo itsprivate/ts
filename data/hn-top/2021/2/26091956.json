@@ -4,14 +4,7 @@
   "url": null,
   "author": "matijash",
   "points": 209,
-  "story_text": "Hi HN!<p>We are Martin and Matija, twin brothers and creators of Wasp (<a href=\"https:&#x2F;&#x2F;wasp-lang.dev\" rel=\"nofollow\">https:&#x2F;&#x2F;wasp-lang.dev</a>). Wasp is a declarative language that makes it really easy to build full-stack web apps while still using the latest technologies such as React, Node.js and Prisma.<p>Martin and I both studied computer science where we mostly focused on algorithms for bioinformatics. Afterwards we led engineering teams in several SaaS companies, on the way gaining plenty of experience in building web apps.<p>Moving from one project to another, we used various technologies:\nJQuery -&gt; Backbone -&gt; Angular -&gt; React, own scripts &#x2F; makefile -&gt; Grunt -&gt; Gulp -&gt; Webpack, PHP -&gt; Java -&gt; Node.js, … , and we always felt that things are harder than they should be. We were spending a lot of time adopting the latest tech stack and figuring out the best practices: how to make the web app performant, scalable, economical and secure and also how to connect all the pieces of the stack together.<p>While the tech stack kept advancing rapidly, the core requirements of the apps we were building changed very little (auth, routing, data model CRUD, ACL, …). That is why about 1.5 years ago we started thinking about separating web app specification (what it should do) from its implementation (how it should do it).<p>This led us to the idea of extracting common web app features and concepts into a special specification language from which we could generate code in the currently popular technologies. We don’t think it is feasible to replace everything with a single language so that is why we went with a DSL which integrates with the modern stack (right now React, NodeJS, Prisma).<p>Wasp lets you define high-level aspects of your web app (auth, routing, ACL, data models, CRUD) via a simple specification language and then write your specific logic in React and Node.js. The majority of the code is still being written in React and Node.js, with Wasp serving as the backbone of your whole application. To see some examples of what the language looks like in practice, take a look here: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;wasp-lang&#x2F;wasp&#x2F;blob&#x2F;master&#x2F;examples&#x2F;tutorials&#x2F;TodoApp&#x2F;main.wasp\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;wasp-lang&#x2F;wasp&#x2F;blob&#x2F;master&#x2F;examples&#x2F;tutor...</a><p>The main difference between Wasp and frameworks (e.g. Meteor, Blitz, Redwood) is that Wasp is a language, not a library. One benefit of that is a simpler and cleaner, declarative syntax, focused on the requirements and detached from the implementation details.<p>Another benefit of a DSL is that it allows Wasp to understand the web app’s requirements during the build time and reason about it before generating the final code. For example, when generating code to be deployed to production, it could pick the most appropriate architecture based on its understanding of the web app and deploy it to serverless or another type of architecture (or even a combination). Another example would be reusing your data model logic through all the parts of the stack while defining it just once in Wasp. DSL opens the potential for optimisations, static analysis and extensibility.<p>Wasp’s compiler is built in Haskell and it compiles the source code in Wasp + React&#x2F;Node.js into the target code in just React and Node.js (currently in Javascript, but we plan to move to Typescript soon). The generated code is human readable and can easily be inspected and even ejected if Wasp becomes too limiting.<p>We are currently in Alpha and many features are still rough or missing, but you can try it out and build and deploy web apps! There are things we haven’t solved yet and others that will probably change as we progress.<p>You can check out our repo at <a href=\"https:&#x2F;&#x2F;github.com&#x2F;wasp-lang&#x2F;wasp\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;wasp-lang&#x2F;wasp</a> and give it a try at <a href=\"https:&#x2F;&#x2F;wasp-lang.dev&#x2F;docs&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;wasp-lang.dev&#x2F;docs&#x2F;</a>.<p>Thank you for reading! We would love to get your feedback and also hear about your experiences building web apps - what has worked for you and where do you see the opportunities for improvement?",
-  "comment_text": null,
   "num_comments": 62,
-  "story_id": null,
-  "story_title": null,
-  "story_url": null,
-  "parent_id": null,
-  "created_at_i": 1612977350,
   "_tags": [
     "story",
     "author_matijash",
@@ -19,25 +12,7 @@
     "front_page"
   ],
   "objectID": "26091956",
-  "_highlightResult": {
-    "title": {
-      "value": "Launch HN: Wasp (YC W21) – DSL for building full-stack web apps",
-      "matchLevel": "none",
-      "matchedWords": []
-    },
-    "author": {
-      "value": "matijash",
-      "matchLevel": "none",
-      "matchedWords": []
-    },
-    "story_text": {
-      "value": "Hi HN!<p>We are Martin and Matija, twin brothers and creators of Wasp (<a href=\"https://wasp-lang.dev\" rel=\"nofollow\">https://wasp-lang.dev</a>). Wasp is a declarative language that makes it really easy to build full-stack web apps while still using the latest technologies such as React, Node.js and Prisma.<p>Martin and I both studied computer science where we mostly focused on algorithms for bioinformatics. Afterwards we led engineering teams in several SaaS companies, on the way gaining plenty of experience in building web apps.<p>Moving from one project to another, we used various technologies:\nJQuery -&gt; Backbone -&gt; Angular -&gt; React, own scripts / makefile -&gt; Grunt -&gt; Gulp -&gt; Webpack, PHP -&gt; Java -&gt; Node.js, … , and we always felt that things are harder than they should be. We were spending a lot of time adopting the latest tech stack and figuring out the best practices: how to make the web app performant, scalable, economical and secure and also how to connect all the pieces of the stack together.<p>While the tech stack kept advancing rapidly, the core requirements of the apps we were building changed very little (auth, routing, data model CRUD, ACL, …). That is why about 1.5 years ago we started thinking about separating web app specification (what it should do) from its implementation (how it should do it).<p>This led us to the idea of extracting common web app features and concepts into a special specification language from which we could generate code in the currently popular technologies. We don’t think it is feasible to replace everything with a single language so that is why we went with a DSL which integrates with the modern stack (right now React, NodeJS, Prisma).<p>Wasp lets you define high-level aspects of your web app (auth, routing, ACL, data models, CRUD) via a simple specification language and then write your specific logic in React and Node.js. The majority of the code is still being written in React and Node.js, with Wasp serving as the backbone of your whole application. To see some examples of what the language looks like in practice, take a look here: <a href=\"https://github.com/wasp-lang/wasp/blob/master/examples/tutorials/TodoApp/main.wasp\" rel=\"nofollow\">https://github.com/wasp-lang/wasp/blob/master/examples/tutor...</a><p>The main difference between Wasp and frameworks (e.g. Meteor, Blitz, Redwood) is that Wasp is a language, not a library. One benefit of that is a simpler and cleaner, declarative syntax, focused on the requirements and detached from the implementation details.<p>Another benefit of a DSL is that it allows Wasp to understand the web app’s requirements during the build time and reason about it before generating the final code. For example, when generating code to be deployed to production, it could pick the most appropriate architecture based on its understanding of the web app and deploy it to serverless or another type of architecture (or even a combination). Another example would be reusing your data model logic through all the parts of the stack while defining it just once in Wasp. DSL opens the potential for optimisations, static analysis and extensibility.<p>Wasp’s compiler is built in Haskell and it compiles the source code in Wasp + React/Node.js into the target code in just React and Node.js (currently in Javascript, but we plan to move to Typescript soon). The generated code is human readable and can easily be inspected and even ejected if Wasp becomes too limiting.<p>We are currently in Alpha and many features are still rough or missing, but you can try it out and build and deploy web apps! There are things we haven’t solved yet and others that will probably change as we progress.<p>You can check out our repo at <a href=\"https://github.com/wasp-lang/wasp\" rel=\"nofollow\">https://github.com/wasp-lang/wasp</a> and give it a try at <a href=\"https://wasp-lang.dev/docs/\" rel=\"nofollow\">https://wasp-lang.dev/docs/</a>.<p>Thank you for reading! We would love to get your feedback and also hear about your experiences building web apps - what has worked for you and where do you see the opportunities for improvement?",
-      "matchLevel": "none",
-      "matchedWords": []
-    }
-  },
   "original_created_at": "2021-02-10T17:15:50.000Z",
-  "image": "",
   "localize": [
     {
       "locale": "zh",
@@ -48,5 +23,6 @@
       "title": "發佈HN：黃蜂（YC W21）--用於構建全棧網絡應用的DSL。"
     }
   ],
-  "source_updated_at": 1613123224413
+  "source_updated_at": 1613123224413,
+  "image": ""
 }

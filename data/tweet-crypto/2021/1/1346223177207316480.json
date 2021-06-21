@@ -1,9 +1,7 @@
 {
   "created_at": "Mon Jan 04 23:47:57 +0000 2021",
-  "id": 1346223177207316500,
   "id_str": "1346223177207316480",
   "full_text": "RT @Scaramucci: #Bitcoin is better at being #Gold than Gold\n\nGold is popular alt store of value because of hard money properties. #Bitcoin…",
-  "truncated": false,
   "display_text_range": [
     0,
     139
@@ -47,93 +45,31 @@
     ],
     "urls": []
   },
-  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
   "user": {
-    "id": 918804624303382500,
-    "id_str": "918804624303382528",
     "name": "PlanB",
     "screen_name": "100trillionUSD",
-    "location": "NOT FINANCIAL ADVICE",
-    "description": "#bitcoin\n1PRoNLcWHzM8DuKpGE4YM9hb1PjSEnWRpn\nArticles and podcasts on https://t.co/5Y254ILwhC",
-    "url": "https://t.co/5Y254ILwhC",
-    "entities": {
-      "url": {
-        "urls": [
-          {
-            "url": "https://t.co/5Y254ILwhC",
-            "expanded_url": "http://PlanBTC.com",
-            "display_url": "PlanBTC.com",
-            "indices": [
-              0,
-              23
-            ]
-          }
-        ]
-      },
-      "description": {
-        "urls": [
-          {
-            "url": "https://t.co/5Y254ILwhC",
-            "expanded_url": "http://PlanBTC.com",
-            "display_url": "PlanBTC.com",
-            "indices": [
-              69,
-              92
-            ]
-          }
-        ]
-      }
-    },
-    "protected": false,
-    "followers_count": 195884,
-    "friends_count": 204,
-    "listed_count": 2844,
-    "created_at": "Fri Oct 13 11:44:27 +0000 2017",
-    "favourites_count": 21645,
-    "utc_offset": null,
-    "time_zone": null,
-    "geo_enabled": false,
-    "verified": false,
-    "statuses_count": 5945,
-    "lang": null,
-    "contributors_enabled": false,
-    "is_translator": false,
-    "is_translation_enabled": false,
-    "profile_background_color": "F5F8FA",
-    "profile_background_image_url": null,
-    "profile_background_image_url_https": null,
-    "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1117537706584702982/lMHLne7O_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117537706584702982/lMHLne7O_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/918804624303382528/1601733353",
-    "profile_link_color": "1DA1F2",
-    "profile_sidebar_border_color": "C0DEED",
-    "profile_sidebar_fill_color": "DDEEF6",
-    "profile_text_color": "333333",
-    "profile_use_background_image": true,
-    "has_extended_profile": true,
-    "default_profile": true,
-    "default_profile_image": false,
-    "following": false,
-    "follow_request_sent": false,
-    "notifications": false,
-    "translator_type": "none"
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117537706584702982/lMHLne7O_normal.jpg"
   },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
+  "retweet_count": 307,
+  "favorite_count": 0,
+  "original_created_at": "Mon Jan 04 22:33:11 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT@Scaramucci：#比特币 比黄金更擅长#黄金 \n\n由于硬通货的特性，黄金是很受欢迎的另一种储值手段。#比特币 …",
+      "retweeted_status_full_text": "#比特币 比黄金#更擅长成为#黄金 \n\n由于硬通货的特性，黄金是很受欢迎的另一种储值手段。#比特币 是固定供应的硬通货。黄金=10万亿美元上限。比特币=5000亿美元上限。我们预计比特币将占据&gt；50%的mkt份额。你自己算吧。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT@Scaramucci：#比特幣 比黃金更擅長#黃金 \n\n由於硬通貨的特性，黃金是很受歡迎的另一種儲值手段。#比特幣 …",
+      "retweeted_status_full_text": "#比特幣 比黃金#更擅長成爲#黃金 \n\n由於硬通貨的特性，黃金是很受歡迎的另一種儲值手段。#比特幣 是固定供應的硬通貨。黃金=10萬億美元上限。比特幣=5000億美元上限。我們預計比特幣將佔據&gt；50%的mkt份額。你自己算吧。"
+    }
+  ],
+  "source_updated_at": 1610100755968,
   "retweeted_status": {
     "created_at": "Mon Jan 04 22:03:49 +0000 2021",
-    "id": 1346215784062873600,
     "id_str": "1346215784062873602",
     "full_text": "#Bitcoin is better at being #Gold than Gold\n\nGold is popular alt store of value because of hard money properties. #Bitcoin is harder money w/ fixed supply. Gold = $10 trillion mkt cap. Bitcoin = $500 billion mkt cap. We expect Bitcoin to take &gt;50% of mkt share. You do the math.",
-    "truncated": false,
     "display_text_range": [
       0,
       281
@@ -166,102 +102,12 @@
       "user_mentions": [],
       "urls": []
     },
-    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
     "user": {
-      "id": 24578794,
-      "id_str": "24578794",
       "name": "Anthony Scaramucci",
       "screen_name": "Scaramucci",
-      "location": "Long Island, NY",
-      "description": "American entrepreneur. Founder @SkyBridge and @SALTConference. Presenter @MoochFM. HODL #bitcoin.",
-      "url": "https://t.co/rJjMaJ9Aa4",
-      "entities": {
-        "url": {
-          "urls": [
-            {
-              "url": "https://t.co/rJjMaJ9Aa4",
-              "expanded_url": "http://skybridgebitcoin.com",
-              "display_url": "skybridgebitcoin.com",
-              "indices": [
-                0,
-                23
-              ]
-            }
-          ]
-        },
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 981025,
-      "friends_count": 2270,
-      "listed_count": 4005,
-      "created_at": "Sun Mar 15 20:20:03 +0000 2009",
-      "favourites_count": 15429,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": true,
-      "verified": true,
-      "statuses_count": 29487,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "7DB5D1",
-      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-      "profile_background_tile": true,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1326351593659375617/nqMnNiWp_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1326351593659375617/nqMnNiWp_normal.jpg",
-      "profile_banner_url": "https://pbs.twimg.com/profile_banners/24578794/1609344057",
-      "profile_link_color": "3B94D9",
-      "profile_sidebar_border_color": "FFFFFF",
-      "profile_sidebar_fill_color": "DDEEF6",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": false,
-      "default_profile": false,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "regular"
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1326351593659375617/nqMnNiWp_normal.jpg"
     },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
     "retweet_count": 153,
-    "favorite_count": 841,
-    "favorited": false,
-    "retweeted": false,
-    "lang": "en"
-  },
-  "is_quote_status": false,
-  "retweet_count": 307,
-  "favorite_count": 0,
-  "favorited": false,
-  "retweeted": false,
-  "lang": "en",
-  "original_created_at": "Mon Jan 04 22:33:11 +0000 2021",
-  "localize": [
-    {
-      "locale": "zh",
-      "full_text": "RT@Scaramucci：#比特币 比黄金更擅长#黄金 \n\n由于硬通货的特性，黄金是很受欢迎的另一种储值手段。#比特币 …",
-      "retweeted_status_full_text": "#比特币 比黄金#更擅长成为#黄金 \n\n由于硬通货的特性，黄金是很受欢迎的另一种储值手段。#比特币 是固定供应的硬通货。黄金=10万亿美元上限。比特币=5000亿美元上限。我们预计比特币将占据&gt；50%的mkt份额。你自己算吧。"
-    },
-    {
-      "locale": "zh-Hant",
-      "full_text": "RT@Scaramucci：#比特幣 比黃金更擅長#黃金 \n\n由於硬通貨的特性，黃金是很受歡迎的另一種儲值手段。#比特幣 …",
-      "retweeted_status_full_text": "#比特幣 比黃金#更擅長成爲#黃金 \n\n由於硬通貨的特性，黃金是很受歡迎的另一種儲值手段。#比特幣 是固定供應的硬通貨。黃金=10萬億美元上限。比特幣=5000億美元上限。我們預計比特幣將佔據&gt；50%的mkt份額。你自己算吧。"
-    }
-  ],
-  "source_updated_at": 1610100755968
+    "favorite_count": 841
+  }
 }

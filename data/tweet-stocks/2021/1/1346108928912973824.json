@@ -1,9 +1,7 @@
 {
   "created_at": "Tue Jan 05 9:52:24 +0000 2021",
-  "id": 1346108928912973800,
   "id_str": "1346108928912973824",
   "full_text": "RT @charliebilello: New Post:\n\n2020: The Year in Charts...\n\nhttps://t.co/QxVNhMGg62 https://t.co/kcdgvoTcEf",
-  "truncated": false,
   "display_text_range": [
     0,
     107
@@ -77,137 +75,31 @@
       }
     ]
   },
-  "extended_entities": {
-    "media": [
-      {
-        "id": 1345939913481584600,
-        "id_str": "1345939913481584646",
-        "indices": [
-          84,
-          107
-        ],
-        "media_url": "http://pbs.twimg.com/media/Eq29OGAXAAYm1TC.png",
-        "media_url_https": "https://pbs.twimg.com/media/Eq29OGAXAAYm1TC.png",
-        "url": "https://t.co/kcdgvoTcEf",
-        "display_url": "pic.twitter.com/kcdgvoTcEf",
-        "expanded_url": "https://twitter.com/charliebilello/status/1345939933928820737/photo/1",
-        "type": "photo",
-        "sizes": {
-          "small": {
-            "w": 680,
-            "h": 367,
-            "resize": "fit"
-          },
-          "large": {
-            "w": 877,
-            "h": 473,
-            "resize": "fit"
-          },
-          "thumb": {
-            "w": 150,
-            "h": 150,
-            "resize": "crop"
-          },
-          "medium": {
-            "w": 877,
-            "h": 473,
-            "resize": "fit"
-          }
-        },
-        "source_status_id": 1345939933928820700,
-        "source_status_id_str": "1345939933928820737",
-        "source_user_id": 1413027896,
-        "source_user_id_str": "1413027896"
-      }
-    ]
-  },
-  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
   "user": {
-    "id": 1413027896,
-    "id_str": "1413027896",
     "name": "Charlie Bilello",
     "screen_name": "charliebilello",
-    "location": "Join free newsletter here...",
-    "description": "Founder and CEO of Compound Capital Advisors. Sharing ideas that compound over time. https://t.co/1zNIPqZdEH",
-    "url": "https://t.co/1zNIPqZdEH",
-    "entities": {
-      "url": {
-        "urls": [
-          {
-            "url": "https://t.co/1zNIPqZdEH",
-            "expanded_url": "https://compoundadvisors.com/newsletter",
-            "display_url": "compoundadvisors.com/newsletter",
-            "indices": [
-              0,
-              23
-            ]
-          }
-        ]
-      },
-      "description": {
-        "urls": [
-          {
-            "url": "https://t.co/1zNIPqZdEH",
-            "expanded_url": "https://compoundadvisors.com/newsletter",
-            "display_url": "compoundadvisors.com/newsletter",
-            "indices": [
-              85,
-              108
-            ]
-          }
-        ]
-      }
-    },
-    "protected": false,
-    "followers_count": 209054,
-    "friends_count": 111,
-    "listed_count": 4676,
-    "created_at": "Wed May 08 14:41:31 +0000 2013",
-    "favourites_count": 2477,
-    "utc_offset": null,
-    "time_zone": null,
-    "geo_enabled": false,
-    "verified": true,
-    "statuses_count": 20789,
-    "lang": null,
-    "contributors_enabled": false,
-    "is_translator": false,
-    "is_translation_enabled": false,
-    "profile_background_color": "050505",
-    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1207655488168574976/N0sQdj76_normal.png",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1207655488168574976/N0sQdj76_normal.png",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1413027896/1576780572",
-    "profile_link_color": "061014",
-    "profile_sidebar_border_color": "FFFFFF",
-    "profile_sidebar_fill_color": "DDEEF6",
-    "profile_text_color": "333333",
-    "profile_use_background_image": true,
-    "has_extended_profile": false,
-    "default_profile": false,
-    "default_profile_image": false,
-    "following": true,
-    "follow_request_sent": false,
-    "notifications": false,
-    "translator_type": "none"
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1207655488168574976/N0sQdj76_normal.png"
   },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
+  "retweet_count": 151,
+  "favorite_count": 0,
+  "possibly_sensitive": false,
+  "original_created_at": "Mon Jan 04 14:59:12 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "rt@charliebilello：新帖子：\n\n2020年：图表中的年份.\n\nhttps://t.co/QxVNhMGg62 https://t.co/kcdgvoTcEf",
+      "retweeted_status_full_text": "新帖子：\n\n2020年：图表中的年份.\n\nhttps://t.co/QxVNhMGg62 https://t.co/kcdgvoTcEf"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "rt@charliebilello：新帖子：\n\n2020年：圖表中的年份.\n\nhttps://t.co/QxVNhMGg62 https://t.co/kcdgvoTcEf",
+      "retweeted_status_full_text": "新帖子：\n\n2020年：圖表中的年份.\n\nhttps://t.co/QxVNhMGg62 https://t.co/kcdgvoTcEf"
+    }
+  ],
   "retweeted_status": {
     "created_at": "Mon Jan 04 03:47:41 +0000 2021",
-    "id": 1345939933928820700,
     "id_str": "1345939933928820737",
     "full_text": "New Post:\n\n2020: The Year in Charts...\n\nhttps://t.co/QxVNhMGg62 https://t.co/kcdgvoTcEf",
-    "truncated": false,
     "display_text_range": [
       0,
       63
@@ -266,153 +158,13 @@
         }
       ]
     },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1345939913481584600,
-          "id_str": "1345939913481584646",
-          "indices": [
-            64,
-            87
-          ],
-          "media_url": "http://pbs.twimg.com/media/Eq29OGAXAAYm1TC.png",
-          "media_url_https": "https://pbs.twimg.com/media/Eq29OGAXAAYm1TC.png",
-          "url": "https://t.co/kcdgvoTcEf",
-          "display_url": "pic.twitter.com/kcdgvoTcEf",
-          "expanded_url": "https://twitter.com/charliebilello/status/1345939933928820737/photo/1",
-          "type": "photo",
-          "sizes": {
-            "small": {
-              "w": 680,
-              "h": 367,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 877,
-              "h": 473,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 877,
-              "h": 473,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
     "user": {
-      "id": 1413027896,
-      "id_str": "1413027896",
       "name": "Charlie Bilello",
       "screen_name": "charliebilello",
-      "location": "Join free newsletter here...",
-      "description": "Founder and CEO of Compound Capital Advisors. Sharing ideas that compound over time. https://t.co/1zNIPqZdEH",
-      "url": "https://t.co/1zNIPqZdEH",
-      "entities": {
-        "url": {
-          "urls": [
-            {
-              "url": "https://t.co/1zNIPqZdEH",
-              "expanded_url": "https://compoundadvisors.com/newsletter",
-              "display_url": "compoundadvisors.com/newsletter",
-              "indices": [
-                0,
-                23
-              ]
-            }
-          ]
-        },
-        "description": {
-          "urls": [
-            {
-              "url": "https://t.co/1zNIPqZdEH",
-              "expanded_url": "https://compoundadvisors.com/newsletter",
-              "display_url": "compoundadvisors.com/newsletter",
-              "indices": [
-                85,
-                108
-              ]
-            }
-          ]
-        }
-      },
-      "protected": false,
-      "followers_count": 209054,
-      "friends_count": 111,
-      "listed_count": 4676,
-      "created_at": "Wed May 08 14:41:31 +0000 2013",
-      "favourites_count": 2477,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": false,
-      "verified": true,
-      "statuses_count": 20789,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "050505",
-      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1207655488168574976/N0sQdj76_normal.png",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1207655488168574976/N0sQdj76_normal.png",
-      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1413027896/1576780572",
-      "profile_link_color": "061014",
-      "profile_sidebar_border_color": "FFFFFF",
-      "profile_sidebar_fill_color": "DDEEF6",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": false,
-      "default_profile": false,
-      "default_profile_image": false,
-      "following": true,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none"
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1207655488168574976/N0sQdj76_normal.png"
     },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
     "retweet_count": 151,
     "favorite_count": 404,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
-  },
-  "is_quote_status": false,
-  "retweet_count": 151,
-  "favorite_count": 0,
-  "favorited": false,
-  "retweeted": false,
-  "possibly_sensitive": false,
-  "lang": "en",
-  "original_created_at": "Mon Jan 04 14:59:12 +0000 2021",
-  "localize": [
-    {
-      "locale": "zh",
-      "full_text": "rt@charliebilello：新帖子：\n\n2020年：图表中的年份.\n\nhttps://t.co/QxVNhMGg62 https://t.co/kcdgvoTcEf",
-      "retweeted_status_full_text": "新帖子：\n\n2020年：图表中的年份.\n\nhttps://t.co/QxVNhMGg62 https://t.co/kcdgvoTcEf"
-    },
-    {
-      "locale": "zh-Hant",
-      "full_text": "rt@charliebilello：新帖子：\n\n2020年：圖表中的年份.\n\nhttps://t.co/QxVNhMGg62 https://t.co/kcdgvoTcEf",
-      "retweeted_status_full_text": "新帖子：\n\n2020年：圖表中的年份.\n\nhttps://t.co/QxVNhMGg62 https://t.co/kcdgvoTcEf"
-    }
-  ]
+    "possibly_sensitive": false
+  }
 }

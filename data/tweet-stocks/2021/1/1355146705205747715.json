@@ -1,9 +1,7 @@
 {
   "created_at": "Fri Jan 29 14:38:29 +0000 2021",
-  "id": 1355146705205747700,
   "id_str": "1355146705205747715",
   "full_text": "Trending on Stocktwits... https://t.co/2MetmciksO",
-  "truncated": false,
   "display_text_range": [
     0,
     25
@@ -52,124 +50,14 @@
       }
     ]
   },
-  "extended_entities": {
-    "media": [
-      {
-        "id": 1355146641267810300,
-        "id_str": "1355146641267810305",
-        "indices": [
-          26,
-          49
-        ],
-        "media_url": "http://pbs.twimg.com/media/Es5ysLtU4AENDrf.jpg",
-        "media_url_https": "https://pbs.twimg.com/media/Es5ysLtU4AENDrf.jpg",
-        "url": "https://t.co/2MetmciksO",
-        "display_url": "pic.twitter.com/2MetmciksO",
-        "expanded_url": "https://twitter.com/Stocktwits/status/1355146705205747715/photo/1",
-        "type": "photo",
-        "sizes": {
-          "large": {
-            "w": 1314,
-            "h": 842,
-            "resize": "fit"
-          },
-          "medium": {
-            "w": 1200,
-            "h": 769,
-            "resize": "fit"
-          },
-          "small": {
-            "w": 680,
-            "h": 436,
-            "resize": "fit"
-          },
-          "thumb": {
-            "w": 150,
-            "h": 150,
-            "resize": "crop"
-          }
-        }
-      }
-    ]
-  },
-  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
   "user": {
-    "id": 14886375,
-    "id_str": "14886375",
     "name": "Stocktwits",
     "screen_name": "Stocktwits",
-    "location": "New York, NY",
-    "description": "The world's largest community of investors and traders.",
-    "url": "https://t.co/vsASyzSU5y",
-    "entities": {
-      "url": {
-        "urls": [
-          {
-            "url": "https://t.co/vsASyzSU5y",
-            "expanded_url": "https://stocktwits.com",
-            "display_url": "stocktwits.com",
-            "indices": [
-              0,
-              23
-            ]
-          }
-        ]
-      },
-      "description": {
-        "urls": []
-      }
-    },
-    "protected": false,
-    "followers_count": 789203,
-    "friends_count": 118381,
-    "listed_count": 11140,
-    "created_at": "Fri May 23 20:53:49 +0000 2008",
-    "favourites_count": 48510,
-    "utc_offset": null,
-    "time_zone": null,
-    "geo_enabled": true,
-    "verified": true,
-    "statuses_count": 69961,
-    "lang": null,
-    "contributors_enabled": false,
-    "is_translator": false,
-    "is_translation_enabled": false,
-    "profile_background_color": "FFFFFF",
-    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1151488812239020032/W7DI3qKd_normal.png",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151488812239020032/W7DI3qKd_normal.png",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/14886375/1563371327",
-    "profile_link_color": "40576F",
-    "profile_sidebar_border_color": "DDDDDD",
-    "profile_sidebar_fill_color": "EEEEEE",
-    "profile_text_color": "171717",
-    "profile_use_background_image": false,
-    "has_extended_profile": false,
-    "default_profile": false,
-    "default_profile_image": false,
-    "following": true,
-    "follow_request_sent": false,
-    "notifications": false,
-    "translator_type": "none"
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151488812239020032/W7DI3qKd_normal.png"
   },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
-  "is_quote_status": false,
   "retweet_count": 84,
   "favorite_count": 320,
-  "favorited": false,
-  "retweeted": false,
   "possibly_sensitive": false,
-  "lang": "en",
   "original_created_at": "Fri Jan 29 13:32:06 +0000 2021",
   "localize": [
     {

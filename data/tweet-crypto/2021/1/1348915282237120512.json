@@ -1,9 +1,7 @@
 {
   "created_at": "Tue Jan 12 10:5:41 +0000 2021",
-  "id": 1348915282237120500,
   "id_str": "1348915282237120512",
   "full_text": "Stock-to-Flow model still on track .. like clockwork https://t.co/h2fCs0A3uw",
-  "truncated": false,
   "display_text_range": [
     0,
     52
@@ -24,101 +22,32 @@
       }
     ]
   },
-  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
   "user": {
-    "id": 918804624303382500,
-    "id_str": "918804624303382528",
     "name": "PlanB",
     "screen_name": "100trillionUSD",
-    "location": "NOT FINANCIAL ADVICE",
-    "description": "#bitcoin\n1PRoNLcWHzM8DuKpGE4YM9hb1PjSEnWRpn\nArticles and podcasts on https://t.co/5Y254ILwhC",
-    "url": "https://t.co/5Y254ILwhC",
-    "entities": {
-      "url": {
-        "urls": [
-          {
-            "url": "https://t.co/5Y254ILwhC",
-            "expanded_url": "http://PlanBTC.com",
-            "display_url": "PlanBTC.com",
-            "indices": [
-              0,
-              23
-            ]
-          }
-        ]
-      },
-      "description": {
-        "urls": [
-          {
-            "url": "https://t.co/5Y254ILwhC",
-            "expanded_url": "http://PlanBTC.com",
-            "display_url": "PlanBTC.com",
-            "indices": [
-              69,
-              92
-            ]
-          }
-        ]
-      }
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117537706584702982/lMHLne7O_normal.jpg"
+  },
+  "retweet_count": 364,
+  "favorite_count": 2378,
+  "possibly_sensitive": false,
+  "original_created_at": "Tue Jan 12 08:50:39 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "库存到流量的模式仍在轨道上..就像钟表https://t.co/h2fCs0A3uw一样",
+      "quoted_status_full_text": "库存流量倍数(463d)\n世界协调时2021-01-11 23：59\n\nLn(实际/模型)\n\n实际售价：35269.51美元\n售价：28651.34美元\nS2F倍数：0.21 https://t.co/qIlikwiz7S"
     },
-    "protected": false,
-    "followers_count": 209589,
-    "friends_count": 202,
-    "listed_count": 3034,
-    "created_at": "Fri Oct 13 11:44:27 +0000 2017",
-    "favourites_count": 21701,
-    "utc_offset": null,
-    "time_zone": null,
-    "geo_enabled": false,
-    "verified": false,
-    "statuses_count": 5997,
-    "lang": null,
-    "contributors_enabled": false,
-    "is_translator": false,
-    "is_translation_enabled": false,
-    "profile_background_color": "F5F8FA",
-    "profile_background_image_url": null,
-    "profile_background_image_url_https": null,
-    "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1117537706584702982/lMHLne7O_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117537706584702982/lMHLne7O_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/918804624303382528/1601733353",
-    "profile_link_color": "1DA1F2",
-    "profile_sidebar_border_color": "C0DEED",
-    "profile_sidebar_fill_color": "DDEEF6",
-    "profile_text_color": "333333",
-    "profile_use_background_image": true,
-    "has_extended_profile": true,
-    "default_profile": true,
-    "default_profile_image": false,
-    "following": false,
-    "follow_request_sent": false,
-    "notifications": false,
-    "translator_type": "none"
-  },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
-  "is_quote_status": true,
-  "quoted_status_id": 1348868628377186300,
-  "quoted_status_id_str": "1348868628377186304",
-  "quoted_status_permalink": {
-    "url": "https://t.co/h2fCs0A3uw",
-    "expanded": "https://twitter.com/s2fmultiple/status/1348868628377186304",
-    "display": "twitter.com/s2fmultiple/st…"
-  },
+    {
+      "locale": "zh-Hant",
+      "full_text": "庫存到流量的模式仍在軌道上..就像鐘錶https://t.co/h2fCs0A3uw一樣",
+      "quoted_status_full_text": "庫存流量倍數(463d)\n世界協調時2021-01-11 23：59\n\nLn(實際/模型)\n\n實際售價：35269.51美元\n售價：28651.34美元\nS2F倍數：0.21 https://t.co/qIlikwiz7S"
+    }
+  ],
+  "source_updated_at": 1610706389221,
   "quoted_status": {
     "created_at": "Tue Jan 12 05:45:16 +0000 2021",
-    "id": 1348868628377186300,
     "id_str": "1348868628377186304",
     "full_text": "Stock-to-Flow Multiple (463d)\n2021-01-11, 23:59 UTC\n\nln(actual / model)\n\nActual price: $35,269.51\nModel price: $28,651.34\nS2F multiple: 0.21 https://t.co/qIlikwiz7S",
-    "truncated": false,
     "display_text_range": [
       0,
       140
@@ -167,251 +96,13 @@
         }
       ]
     },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1348868615022530600,
-          "id_str": "1348868615022530560",
-          "indices": [
-            141,
-            164
-          ],
-          "media_url": "http://pbs.twimg.com/media/Ergk29cXUAAxHMj.png",
-          "media_url_https": "https://pbs.twimg.com/media/Ergk29cXUAAxHMj.png",
-          "url": "https://t.co/qIlikwiz7S",
-          "display_url": "pic.twitter.com/qIlikwiz7S",
-          "expanded_url": "https://twitter.com/s2fmultiple/status/1348868628377186304/photo/1",
-          "type": "photo",
-          "sizes": {
-            "small": {
-              "w": 680,
-              "h": 408,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 720,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1600,
-              "h": 960,
-              "resize": "fit"
-            }
-          }
-        },
-        {
-          "id": 1348868618633834500,
-          "id_str": "1348868618633834496",
-          "indices": [
-            141,
-            164
-          ],
-          "media_url": "http://pbs.twimg.com/media/Ergk3K5XcAA8RmM.png",
-          "media_url_https": "https://pbs.twimg.com/media/Ergk3K5XcAA8RmM.png",
-          "url": "https://t.co/qIlikwiz7S",
-          "display_url": "pic.twitter.com/qIlikwiz7S",
-          "expanded_url": "https://twitter.com/s2fmultiple/status/1348868628377186304/photo/1",
-          "type": "photo",
-          "sizes": {
-            "large": {
-              "w": 1600,
-              "h": 960,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 720,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 408,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            }
-          }
-        },
-        {
-          "id": 1348868621951447000,
-          "id_str": "1348868621951447040",
-          "indices": [
-            141,
-            164
-          ],
-          "media_url": "http://pbs.twimg.com/media/Ergk3XQWMAAQpJz.png",
-          "media_url_https": "https://pbs.twimg.com/media/Ergk3XQWMAAQpJz.png",
-          "url": "https://t.co/qIlikwiz7S",
-          "display_url": "pic.twitter.com/qIlikwiz7S",
-          "expanded_url": "https://twitter.com/s2fmultiple/status/1348868628377186304/photo/1",
-          "type": "photo",
-          "sizes": {
-            "medium": {
-              "w": 1200,
-              "h": 720,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 408,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1600,
-              "h": 960,
-              "resize": "fit"
-            }
-          }
-        },
-        {
-          "id": 1348868625407553500,
-          "id_str": "1348868625407553537",
-          "indices": [
-            141,
-            164
-          ],
-          "media_url": "http://pbs.twimg.com/media/Ergk3kIWMAEYNXV.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/Ergk3kIWMAEYNXV.jpg",
-          "url": "https://t.co/qIlikwiz7S",
-          "display_url": "pic.twitter.com/qIlikwiz7S",
-          "expanded_url": "https://twitter.com/s2fmultiple/status/1348868628377186304/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1600,
-              "h": 960,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 408,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 720,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"https://medium.com/@100trillionUSD/modeling-bitcoins-value-with-scarcity-91fa0fc03e25\" rel=\"nofollow\">s2fmultiple</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
     "user": {
-      "id": 1207015830430666800,
-      "id_str": "1207015830430666752",
       "name": "S2F Multiple",
       "screen_name": "s2fmultiple",
-      "location": "",
-      "description": "Daily Bitcoin telemetry data tracking flight path to the moon. Created by @bitstein. Based on @hamal03's scripts, @100trillionusd's model. Daily time: 23:59 UTC",
-      "url": "https://t.co/qNkPd92wUv",
-      "entities": {
-        "url": {
-          "urls": [
-            {
-              "url": "https://t.co/qNkPd92wUv",
-              "expanded_url": "https://medium.com/@100trillionUSD/modeling-bitcoins-value-with-scarcity-91fa0fc03e25",
-              "display_url": "medium.com/@100trillionUS…",
-              "indices": [
-                0,
-                23
-              ]
-            }
-          ]
-        },
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 11427,
-      "friends_count": 3,
-      "listed_count": 241,
-      "created_at": "Tue Dec 17 19:13:08 +0000 2019",
-      "favourites_count": 0,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": false,
-      "verified": false,
-      "statuses_count": 390,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "F5F8FA",
-      "profile_background_image_url": null,
-      "profile_background_image_url_https": null,
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1207019096929378305/ByF8xn6J_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1207019096929378305/ByF8xn6J_normal.jpg",
-      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1207015830430666752/1583509075",
-      "profile_link_color": "1DA1F2",
-      "profile_sidebar_border_color": "C0DEED",
-      "profile_sidebar_fill_color": "DDEEF6",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": true,
-      "default_profile": true,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none"
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1207019096929378305/ByF8xn6J_normal.jpg"
     },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
     "retweet_count": 41,
     "favorite_count": 177,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
-  },
-  "retweet_count": 364,
-  "favorite_count": 2378,
-  "favorited": false,
-  "retweeted": false,
-  "possibly_sensitive": false,
-  "lang": "en",
-  "original_created_at": "Tue Jan 12 08:50:39 +0000 2021",
-  "localize": [
-    {
-      "locale": "zh",
-      "full_text": "库存到流量的模式仍在轨道上..就像钟表https://t.co/h2fCs0A3uw一样",
-      "quoted_status_full_text": "库存流量倍数(463d)\n世界协调时2021-01-11 23：59\n\nLn(实际/模型)\n\n实际售价：35269.51美元\n售价：28651.34美元\nS2F倍数：0.21 https://t.co/qIlikwiz7S"
-    },
-    {
-      "locale": "zh-Hant",
-      "full_text": "庫存到流量的模式仍在軌道上..就像鐘錶https://t.co/h2fCs0A3uw一樣",
-      "quoted_status_full_text": "庫存流量倍數(463d)\n世界協調時2021-01-11 23：59\n\nLn(實際/模型)\n\n實際售價：35269.51美元\n售價：28651.34美元\nS2F倍數：0.21 https://t.co/qIlikwiz7S"
-    }
-  ],
-  "source_updated_at": 1610706389221
+    "possibly_sensitive": false
+  }
 }

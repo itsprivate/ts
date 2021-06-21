@@ -1,9 +1,7 @@
 {
   "created_at": "Fri Dec 18 4:52:13 +0000 2020",
-  "id": 1339566055895703600,
   "id_str": "1339566055895703552",
   "full_text": "RT @matthewjdowd: On this day in 1903 the Wright Brothers fly for the first time at Kitty Hawk in NC.   It is amazing what we each can do w…",
-  "truncated": false,
   "display_text_range": [
     0,
     140
@@ -25,83 +23,31 @@
     ],
     "urls": []
   },
-  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
   "user": {
-    "id": 14886375,
-    "id_str": "14886375",
     "name": "Stocktwits",
     "screen_name": "Stocktwits",
-    "location": "New York, NY",
-    "description": "The world's largest community of investors and traders.",
-    "url": "https://t.co/vsASyzSU5y",
-    "entities": {
-      "url": {
-        "urls": [
-          {
-            "url": "https://t.co/vsASyzSU5y",
-            "expanded_url": "https://stocktwits.com",
-            "display_url": "stocktwits.com",
-            "indices": [
-              0,
-              23
-            ]
-          }
-        ]
-      },
-      "description": {
-        "urls": []
-      }
-    },
-    "protected": false,
-    "followers_count": 738588,
-    "friends_count": 119581,
-    "listed_count": 10686,
-    "created_at": "Fri May 23 20:53:49 +0000 2008",
-    "favourites_count": 46982,
-    "utc_offset": null,
-    "time_zone": null,
-    "geo_enabled": true,
-    "verified": true,
-    "statuses_count": 69582,
-    "lang": null,
-    "contributors_enabled": false,
-    "is_translator": false,
-    "is_translation_enabled": false,
-    "profile_background_color": "FFFFFF",
-    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1151488812239020032/W7DI3qKd_normal.png",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151488812239020032/W7DI3qKd_normal.png",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/14886375/1563371327",
-    "profile_link_color": "40576F",
-    "profile_sidebar_border_color": "DDDDDD",
-    "profile_sidebar_fill_color": "EEEEEE",
-    "profile_text_color": "171717",
-    "profile_use_background_image": false,
-    "has_extended_profile": false,
-    "default_profile": false,
-    "default_profile_image": false,
-    "following": true,
-    "follow_request_sent": false,
-    "notifications": false,
-    "translator_type": "none"
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151488812239020032/W7DI3qKd_normal.png"
   },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
+  "retweet_count": 160,
+  "favorite_count": 0,
+  "original_created_at": "Thu Dec 17 13:40:10 +0000 2020",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "rt@matthewjdowd：1903年的今天，莱特兄弟飞翔第一次在北卡罗来纳州的基蒂霍克举行。我们每个人都能用…做的事情令人惊叹",
+      "retweeted_status_full_text": "1903年的这一天，赖特兄弟飞翔第一次在北卡罗来纳州的基蒂霍克举行。我们每个人凭借勇气、希望和毅力所能做的事情是令人惊叹的。让我们用信仰和爱展翅飞翔，看看它会把我们带向何方。https://t.co/9ieVVTMidO"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "rt@matthewjdowd：1903年的今天，萊特兄弟飛翔第一次在北卡羅來納州的基蒂霍克舉行。我們每個人都能用…做的事情令人驚歎",
+      "retweeted_status_full_text": "1903年的這一天，賴特兄弟飛翔第一次在北卡羅來納州的基蒂霍克舉行。我們每個人憑藉勇氣、希望和毅力所能做的事情是令人驚歎的。讓我們用信仰和愛展翅飛翔，看看它會把我們帶向何方。https://t.co/9ieVVTMidO"
+    }
+  ],
+  "source_updated_at": 1609260496541,
   "retweeted_status": {
     "created_at": "Thu Dec 17 10:39:45 +0000 2020",
-    "id": 1339520655298076700,
     "id_str": "1339520655298076672",
     "full_text": "On this day in 1903 the Wright Brothers fly for the first time at Kitty Hawk in NC.   It is amazing what we each can do with courage, hope, and perseverance.  Let us spread our wings with faith and love, and see where it takes us. https://t.co/9ieVVTMidO",
-    "truncated": false,
     "display_text_range": [
       0,
       230
@@ -150,130 +96,13 @@
         }
       ]
     },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1339520651233792000,
-          "id_str": "1339520651233792001",
-          "indices": [
-            231,
-            254
-          ],
-          "media_url": "http://pbs.twimg.com/media/Epbu72oXEAEEj6o.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/Epbu72oXEAEEj6o.jpg",
-          "url": "https://t.co/9ieVVTMidO",
-          "display_url": "pic.twitter.com/9ieVVTMidO",
-          "expanded_url": "https://twitter.com/matthewjdowd/status/1339520655298076672/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 680,
-              "h": 492,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 868,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1920,
-              "h": 1388,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
     "user": {
-      "id": 288363743,
-      "id_str": "288363743",
       "name": "Matthew Dowd",
       "screen_name": "matthewjdowd",
-      "location": "",
-      "description": "Proud Pop, Proud Independent, Chief Political Analyst, ABC News; Founder, CountryOverParty; Author, A New Way: Embracing the Paradox as We Lead and Serve.",
-      "url": null,
-      "entities": {
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 191569,
-      "friends_count": 10887,
-      "listed_count": 2391,
-      "created_at": "Tue Apr 26 18:32:49 +0000 2011",
-      "favourites_count": 44943,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": false,
-      "verified": true,
-      "statuses_count": 171829,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "C0DEED",
-      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1181687823558205441/DtGEER_-_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1181687823558205441/DtGEER_-_normal.jpg",
-      "profile_banner_url": "https://pbs.twimg.com/profile_banners/288363743/1485974730",
-      "profile_link_color": "1DA1F2",
-      "profile_sidebar_border_color": "C0DEED",
-      "profile_sidebar_fill_color": "DDEEF6",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": false,
-      "default_profile": true,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none"
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1181687823558205441/DtGEER_-_normal.jpg"
     },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
     "retweet_count": 151,
     "favorite_count": 683,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
-  },
-  "is_quote_status": false,
-  "retweet_count": 160,
-  "favorite_count": 0,
-  "favorited": false,
-  "retweeted": false,
-  "lang": "en",
-  "original_created_at": "Thu Dec 17 13:40:10 +0000 2020",
-  "localize": [
-    {
-      "locale": "zh",
-      "full_text": "rt@matthewjdowd：1903年的今天，莱特兄弟飞翔第一次在北卡罗来纳州的基蒂霍克举行。我们每个人都能用…做的事情令人惊叹",
-      "retweeted_status_full_text": "1903年的这一天，赖特兄弟飞翔第一次在北卡罗来纳州的基蒂霍克举行。我们每个人凭借勇气、希望和毅力所能做的事情是令人惊叹的。让我们用信仰和爱展翅飞翔，看看它会把我们带向何方。https://t.co/9ieVVTMidO"
-    },
-    {
-      "locale": "zh-Hant",
-      "full_text": "rt@matthewjdowd：1903年的今天，萊特兄弟飛翔第一次在北卡羅來納州的基蒂霍克舉行。我們每個人都能用…做的事情令人驚歎",
-      "retweeted_status_full_text": "1903年的這一天，賴特兄弟飛翔第一次在北卡羅來納州的基蒂霍克舉行。我們每個人憑藉勇氣、希望和毅力所能做的事情是令人驚歎的。讓我們用信仰和愛展翅飛翔，看看它會把我們帶向何方。https://t.co/9ieVVTMidO"
-    }
-  ],
-  "source_updated_at": 1609260496541
+    "possibly_sensitive": false
+  }
 }

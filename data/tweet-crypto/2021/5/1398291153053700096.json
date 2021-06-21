@@ -1,9 +1,7 @@
 {
   "created_at": "Fri May 28 18:20:45 +0000 2021",
-  "id": 1398291153053700000,
   "id_str": "1398291153053700096",
   "full_text": "RT @MrBenLilly: Tomorrow is a monthly options expiration date. Meaning April contracts will expire. The previous five expiration dates show…",
-  "truncated": false,
   "display_text_range": [
     0,
     140
@@ -25,94 +23,35 @@
     ],
     "urls": []
   },
-  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
   "user": {
-    "id": 918804624303382500,
-    "id_str": "918804624303382528",
     "name": "PlanB",
     "screen_name": "100trillionUSD",
-    "location": "NOT FINANCIAL ADVICE",
-    "description": "Former institutional investor, turned #bitcoin \nS2F model, on-chain analysis, https://t.co/Ry7rqPRR8t\nNOT FINANCIAL ADVICE\n1PRoNLcWHzM8DuKpGE4YM9hb1PjSEnWRpn",
-    "url": "https://t.co/5Y254ILwhC",
-    "entities": {
-      "url": {
-        "urls": [
-          {
-            "url": "https://t.co/5Y254ILwhC",
-            "expanded_url": "http://PlanBTC.com",
-            "display_url": "PlanBTC.com",
-            "indices": [
-              0,
-              23
-            ]
-          }
-        ]
-      },
-      "description": {
-        "urls": [
-          {
-            "url": "https://t.co/Ry7rqPRR8t",
-            "expanded_url": "http://PlanBTC.com",
-            "display_url": "PlanBTC.com",
-            "indices": [
-              78,
-              101
-            ]
-          }
-        ]
-      }
-    },
-    "protected": false,
-    "followers_count": 524679,
-    "friends_count": 189,
-    "listed_count": 6357,
-    "created_at": "Fri Oct 13 11:44:27 +0000 2017",
-    "favourites_count": 23594,
-    "utc_offset": null,
-    "time_zone": null,
-    "geo_enabled": false,
-    "verified": false,
-    "statuses_count": 7145,
-    "lang": null,
-    "contributors_enabled": false,
-    "is_translator": false,
-    "is_translation_enabled": false,
-    "profile_background_color": "F5F8FA",
-    "profile_background_image_url": null,
-    "profile_background_image_url_https": null,
-    "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1381894517708754948/EpK8VJPe_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1381894517708754948/EpK8VJPe_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/918804624303382528/1601733353",
-    "profile_link_color": "1DA1F2",
-    "profile_sidebar_border_color": "C0DEED",
-    "profile_sidebar_fill_color": "DDEEF6",
-    "profile_text_color": "333333",
-    "profile_use_background_image": true,
-    "has_extended_profile": true,
-    "default_profile": true,
-    "default_profile_image": false,
-    "following": false,
-    "follow_request_sent": false,
-    "notifications": false,
-    "translator_type": "none",
-    "withheld_in_countries": []
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1381894517708754948/EpK8VJPe_normal.jpg"
   },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
+  "retweet_count": 162,
+  "favorite_count": 0,
+  "original_created_at": "Fri May 28 14:52:44 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @MrBenLilly です。明日は月次オプションの満期日。4月限が満了することを意味する。過去5回の満期日を見ると...",
+      "retweeted_status_full_text": "明日は月次オプションの満期日。つまり、4月の契約が失効します。過去5回の満期日を見ると、ユニークなことがわかります。\n\n前日（つまり今日）の終値と4日後の高値を見てみると、平均で17％の上昇となっています。\n\nヘディング効果？🧵👇 https://t.co/exZPJuTRK6"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @MrBenLilly: 明天是月度期权到期日。意味着4月合约将到期。之前的五个到期日显示...",
+      "retweeted_status_full_text": "明天是月度期权到期日。意味着4月合约将到期。之前的五个到期日显示了一些独特的东西。\n\n以前一天的收盘价（也就是今天）为例，看看四天后的高点，平均涨幅为17%。\n\n对冲效应？👇https://t.co/exZPJuTRK6"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @MrBenLilly: 明天是月度期權到期日。意味着4月合約將到期。之前的五個到期日顯示...",
+      "retweeted_status_full_text": "明天是月度期權到期日。意味着4月合約將到期。之前的五個到期日顯示了一些獨特的東西。\n\n以前一天的收盤價（也就是今天）爲例，看看四天後的高點，平均漲幅爲17%。\n\n對沖效應？👇https://t.co/exZPJuTRK6"
+    }
+  ],
   "retweeted_status": {
     "created_at": "Thu Apr 29 17:41:00 +0000 2021",
-    "id": 1387824250179006500,
     "id_str": "1387824250179006472",
     "full_text": "Tomorrow is a monthly options expiration date. Meaning April contracts will expire. The previous five expiration dates show something unique. \n\nTake the closing price from the day prior (aka today) and look at the high four days later, the avg increase is 17%\n\nHedging effect?🧵👇 https://t.co/exZPJuTRK6",
-    "truncated": false,
     "display_text_range": [
       0,
       278
@@ -161,167 +100,13 @@
         }
       ]
     },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1387815730389950500,
-          "id_str": "1387815730389950464",
-          "indices": [
-            279,
-            302
-          ],
-          "media_url": "http://pbs.twimg.com/media/E0KDDceXoAAGjSa.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/E0KDDceXoAAGjSa.jpg",
-          "url": "https://t.co/exZPJuTRK6",
-          "display_url": "pic.twitter.com/exZPJuTRK6",
-          "expanded_url": "https://twitter.com/MrBenLilly/status/1387824250179006472/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 2048,
-              "h": 1365,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 800,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 453,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
     "user": {
-      "id": 1278029682403917800,
-      "id_str": "1278029682403917828",
       "name": "Ben Lilly",
       "screen_name": "MrBenLilly",
-      "location": "",
-      "description": "Crypto Economist | Partner @Jarvis_Labs_LLC | Co-founder of https://t.co/B61I63Qsx3 | Editor of Espresso: https://t.co/TufZv1i3Nu | #Bitcoin",
-      "url": "https://t.co/kJUbclhSZo",
-      "entities": {
-        "url": {
-          "urls": [
-            {
-              "url": "https://t.co/kJUbclhSZo",
-              "expanded_url": "http://www.jarvis-labs.xyz",
-              "display_url": "jarvis-labs.xyz",
-              "indices": [
-                0,
-                23
-              ]
-            }
-          ]
-        },
-        "description": {
-          "urls": [
-            {
-              "url": "https://t.co/B61I63Qsx3",
-              "expanded_url": "http://ChainPulse.ai",
-              "display_url": "ChainPulse.ai",
-              "indices": [
-                60,
-                83
-              ]
-            },
-            {
-              "url": "https://t.co/TufZv1i3Nu",
-              "expanded_url": "http://jarvislabs.substack.com",
-              "display_url": "jarvislabs.substack.com",
-              "indices": [
-                106,
-                129
-              ]
-            }
-          ]
-        }
-      },
-      "protected": false,
-      "followers_count": 9267,
-      "friends_count": 300,
-      "listed_count": 238,
-      "created_at": "Tue Jun 30 18:16:54 +0000 2020",
-      "favourites_count": 611,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": false,
-      "verified": false,
-      "statuses_count": 1321,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "F5F8FA",
-      "profile_background_image_url": null,
-      "profile_background_image_url_https": null,
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1367247637980852230/qdm01tmY_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1367247637980852230/qdm01tmY_normal.jpg",
-      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1278029682403917828/1614267721",
-      "profile_link_color": "1DA1F2",
-      "profile_sidebar_border_color": "C0DEED",
-      "profile_sidebar_fill_color": "DDEEF6",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": true,
-      "default_profile": true,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none",
-      "withheld_in_countries": []
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1367247637980852230/qdm01tmY_normal.jpg"
     },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
     "retweet_count": 162,
     "favorite_count": 729,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
-  },
-  "is_quote_status": false,
-  "retweet_count": 162,
-  "favorite_count": 0,
-  "favorited": false,
-  "retweeted": false,
-  "lang": "en",
-  "original_created_at": "Fri May 28 14:52:44 +0000 2021",
-  "localize": [
-    {
-      "locale": "ja",
-      "full_text": "RT @MrBenLilly です。明日は月次オプションの満期日。4月限が満了することを意味する。過去5回の満期日を見ると...",
-      "retweeted_status_full_text": "明日は月次オプションの満期日。つまり、4月の契約が失効します。過去5回の満期日を見ると、ユニークなことがわかります。\n\n前日（つまり今日）の終値と4日後の高値を見てみると、平均で17％の上昇となっています。\n\nヘディング効果？🧵👇 https://t.co/exZPJuTRK6"
-    },
-    {
-      "locale": "zh",
-      "full_text": "RT @MrBenLilly: 明天是月度期权到期日。意味着4月合约将到期。之前的五个到期日显示...",
-      "retweeted_status_full_text": "明天是月度期权到期日。意味着4月合约将到期。之前的五个到期日显示了一些独特的东西。\n\n以前一天的收盘价（也就是今天）为例，看看四天后的高点，平均涨幅为17%。\n\n对冲效应？👇https://t.co/exZPJuTRK6"
-    },
-    {
-      "locale": "zh-Hant",
-      "full_text": "RT @MrBenLilly: 明天是月度期權到期日。意味着4月合約將到期。之前的五個到期日顯示...",
-      "retweeted_status_full_text": "明天是月度期權到期日。意味着4月合約將到期。之前的五個到期日顯示了一些獨特的東西。\n\n以前一天的收盤價（也就是今天）爲例，看看四天後的高點，平均漲幅爲17%。\n\n對沖效應？👇https://t.co/exZPJuTRK6"
-    }
-  ]
+    "possibly_sensitive": false
+  }
 }

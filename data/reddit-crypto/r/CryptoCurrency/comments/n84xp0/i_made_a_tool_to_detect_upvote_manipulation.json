@@ -1,170 +1,28 @@
 {
-  "approved_at_utc": null,
-  "subreddit": "CryptoCurrency",
-  "selftext": "Many have been complaining about upvote bots recently.\n\nSo made a tool called [UpvoteTracker](https://upvotetracker.com/) Link: [https://upvotetracker.com/](https://upvotetracker.com/)\n\nAll you have to do is to enter the link of a r/CryptoCurrency submission.\n\nhttps://preview.redd.it/8n068xbdf0y61.png?width=1315&format=png&auto=webp&s=22f4572ee3c7273df5253e22ea38fe3f169563d8\n\nIn case of a  manipulated submission the upvote history will look like this one:\n\n&#x200B;\n\nhttps://preview.redd.it/cxk7xiilf0y61.png?width=1663&format=png&auto=webp&s=1de6af3e757767ed934f3cb9cd26123fb438f7b5\n\nI plan to add an API and to autodetect manipulated submissions.\n\nAs an example, this is the upvote history of this post: [https://upvotetracker.com/post/r/CryptoCurrency/comments/n84xp0/i\\_made\\_a\\_tool\\_to\\_detect\\_upvote\\_manipulation/](https://upvotetracker.com/post/r/CryptoCurrency/comments/n84xp0/i_made_a_tool_to_detect_upvote_manipulation/)",
-  "author_fullname": "t2_32nx2e",
-  "saved": false,
-  "mod_reason_title": null,
-  "gilded": 0,
-  "clicked": false,
-  "title": "I made a tool to detect upvote manipulation",
-  "link_flair_richtext": [
+  "author": "pandoira",
+  "the_new_excerpt": "Many have been complaining about upvote bots recently.\n\nSo made a tool called UpvoteTracker [https://upvotetracker.com/] Link:\nhttps://upvotetracker.com/\n\nAll you have to do is to enter the link of a r/CryptoCurrency\n[/r/CryptoCurrency]…",
+  "original_created_utc": 1620529237,
+  "localize": [
     {
-      "e": "text",
-      "t": "SECURITY"
-    }
-  ],
-  "subreddit_name_prefixed": "r/CryptoCurrency",
-  "hidden": false,
-  "pwls": 6,
-  "link_flair_css_class": "SECURITY",
-  "downs": 0,
-  "thumbnail_height": 51,
-  "top_awarded_type": null,
-  "hide_score": false,
-  "media_metadata": {
-    "8n068xbdf0y61": {
-      "status": "valid",
-      "e": "Image",
-      "m": "image/png",
-      "p": [
-        {
-          "y": 17,
-          "x": 108,
-          "u": "https://preview.redd.it/8n068xbdf0y61.png?width=108&crop=smart&auto=webp&s=bbc6212f86875c34501d48973f39f5595ab2c1d9"
-        },
-        {
-          "y": 34,
-          "x": 216,
-          "u": "https://preview.redd.it/8n068xbdf0y61.png?width=216&crop=smart&auto=webp&s=900e84c432da5be7b21b0d1b10419bae81c556f8"
-        },
-        {
-          "y": 50,
-          "x": 320,
-          "u": "https://preview.redd.it/8n068xbdf0y61.png?width=320&crop=smart&auto=webp&s=af90cc0e9ddedba3a9902c3f9756b15b5a64ea92"
-        },
-        {
-          "y": 101,
-          "x": 640,
-          "u": "https://preview.redd.it/8n068xbdf0y61.png?width=640&crop=smart&auto=webp&s=2d56d076390888f4261ec3afe4a0096af6421905"
-        },
-        {
-          "y": 152,
-          "x": 960,
-          "u": "https://preview.redd.it/8n068xbdf0y61.png?width=960&crop=smart&auto=webp&s=2ade5db7cc6f7c28233b40afa6cb4d3c68e40f83"
-        },
-        {
-          "y": 171,
-          "x": 1080,
-          "u": "https://preview.redd.it/8n068xbdf0y61.png?width=1080&crop=smart&auto=webp&s=585cc52fd924e18b1c5e011f7b35758c5713fd72"
-        }
-      ],
-      "s": {
-        "y": 209,
-        "x": 1315,
-        "u": "https://preview.redd.it/8n068xbdf0y61.png?width=1315&format=png&auto=webp&s=22f4572ee3c7273df5253e22ea38fe3f169563d8"
-      },
-      "id": "8n068xbdf0y61"
+      "locale": "ja",
+      "the_new_excerpt": "最近、upvote botについて多くの人が不満を持っています。\n\nそこでUpvoteTrackerというツールを作りました [https://upvotetracker.com/] リンクです。\nhttps://upvotetracker.com/\n\nr/CryptoCurrencyのリンクを入力するだけでいいのです。\n[/r/CryptoCurrency]...",
+      "title": "upvoteの操作を検知するツールを作ってみた"
     },
-    "cxk7xiilf0y61": {
-      "status": "valid",
-      "e": "Image",
-      "m": "image/png",
-      "p": [
-        {
-          "y": 44,
-          "x": 108,
-          "u": "https://preview.redd.it/cxk7xiilf0y61.png?width=108&crop=smart&auto=webp&s=5d1bbedbaa95ba60b86de983cbb62ee716ab1f27"
-        },
-        {
-          "y": 88,
-          "x": 216,
-          "u": "https://preview.redd.it/cxk7xiilf0y61.png?width=216&crop=smart&auto=webp&s=bcef45e6e98b44d7193f976aa8341d843135ecd3"
-        },
-        {
-          "y": 131,
-          "x": 320,
-          "u": "https://preview.redd.it/cxk7xiilf0y61.png?width=320&crop=smart&auto=webp&s=df3cdaa3129e940b59ceeb17ea8de413013c6ab5"
-        },
-        {
-          "y": 262,
-          "x": 640,
-          "u": "https://preview.redd.it/cxk7xiilf0y61.png?width=640&crop=smart&auto=webp&s=1928ab8bef7f007798f1c184a4a50ca76d3a8da9"
-        },
-        {
-          "y": 393,
-          "x": 960,
-          "u": "https://preview.redd.it/cxk7xiilf0y61.png?width=960&crop=smart&auto=webp&s=cf96e003e5cee405e7dc6ff13ad5e61ed2c8a591"
-        },
-        {
-          "y": 442,
-          "x": 1080,
-          "u": "https://preview.redd.it/cxk7xiilf0y61.png?width=1080&crop=smart&auto=webp&s=90ab858bbf1ed318c0fa75e45c37bf6b932831b4"
-        }
-      ],
-      "s": {
-        "y": 682,
-        "x": 1663,
-        "u": "https://preview.redd.it/cxk7xiilf0y61.png?width=1663&format=png&auto=webp&s=1de6af3e757767ed934f3cb9cd26123fb438f7b5"
-      },
-      "id": "cxk7xiilf0y61"
-    }
-  },
-  "name": "t3_n84xp0",
-  "quarantine": false,
-  "link_flair_text_color": "dark",
-  "upvote_ratio": 0.91,
-  "author_flair_background_color": "",
-  "subreddit_type": "public",
-  "ups": 427,
-  "total_awards_received": 2,
-  "media_embed": {},
-  "thumbnail_width": 140,
-  "author_flair_template_id": null,
-  "is_original_content": false,
-  "user_reports": [],
-  "secure_media": null,
-  "is_reddit_media_domain": false,
-  "is_meta": false,
-  "category": null,
-  "secure_media_embed": {},
-  "link_flair_text": "SECURITY",
-  "can_mod_post": false,
-  "score": 427,
-  "approved_by": null,
-  "author_premium": false,
-  "thumbnail": "https://b.thumbs.redditmedia.com/z53cTHH062upJypDk1pu420nR8ff7OMbIp7_AW9SDbg.jpg",
-  "edited": 1620530031,
-  "author_flair_css_class": "Warning-level1-1",
-  "author_flair_richtext": [
     {
-      "e": "text",
-      "t": "Bronze"
+      "locale": "zh",
+      "the_new_excerpt": "最近，很多人都在抱怨涨票机器人。\n\n所以做了一个叫UpvoteTracker的工具 [https://upvotetracker.com/] 链接。\nhttps://upvotetracker.com/\n\n你所要做的就是输入一个r/CryptoCurrency的链接\n[/r/CryptoCurrency]...",
+      "title": "我做了一个工具来检测操纵上调票数的行为"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "最近，很多人都在抱怨漲票機器人。\n\n所以做了一個叫UpvoteTracker的工具 [https://upvotetracker.com/] 鏈接。\nhttps://upvotetracker.com/\n\n你所要做的就是輸入一個r/CryptoCurrency的鏈接\n[/r/CryptoCurrency]...",
+      "title": "我做了一個工具來檢測操縱上調票數的行爲"
     }
   ],
-  "gildings": {},
-  "post_hint": "self",
-  "content_categories": null,
-  "is_self": true,
-  "mod_note": null,
-  "created": 1620558037,
-  "link_flair_type": "richtext",
-  "wls": 6,
-  "removed_by_category": null,
-  "banned_by": null,
-  "author_flair_type": "richtext",
-  "domain": "self.CryptoCurrency",
-  "allow_live_comments": false,
+  "title": "I made a tool to detect upvote manipulation",
+  "created_utc": 1620556231,
   "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Many have been complaining about upvote bots recently.</p>\n\n<p>So made a tool called <a href=\"https://upvotetracker.com/\">UpvoteTracker</a> Link: <a href=\"https://upvotetracker.com/\">https://upvotetracker.com/</a></p>\n\n<p>All you have to do is to enter the link of a <a href=\"/r/CryptoCurrency\">r/CryptoCurrency</a> submission.</p>\n\n<p><a href=\"https://preview.redd.it/8n068xbdf0y61.png?width=1315&amp;format=png&amp;auto=webp&amp;s=22f4572ee3c7273df5253e22ea38fe3f169563d8\">https://preview.redd.it/8n068xbdf0y61.png?width=1315&amp;format=png&amp;auto=webp&amp;s=22f4572ee3c7273df5253e22ea38fe3f169563d8</a></p>\n\n<p>In case of a  manipulated submission the upvote history will look like this one:</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/cxk7xiilf0y61.png?width=1663&amp;format=png&amp;auto=webp&amp;s=1de6af3e757767ed934f3cb9cd26123fb438f7b5\">https://preview.redd.it/cxk7xiilf0y61.png?width=1663&amp;format=png&amp;auto=webp&amp;s=1de6af3e757767ed934f3cb9cd26123fb438f7b5</a></p>\n\n<p>I plan to add an API and to autodetect manipulated submissions.</p>\n\n<p>As an example, this is the upvote history of this post: <a href=\"https://upvotetracker.com/post/r/CryptoCurrency/comments/n84xp0/i_made_a_tool_to_detect_upvote_manipulation/\">https://upvotetracker.com/post/r/CryptoCurrency/comments/n84xp0/i_made_a_tool_to_detect_upvote_manipulation/</a></p>\n</div><!-- SC_ON -->",
-  "likes": null,
-  "suggested_sort": null,
-  "banned_at_utc": null,
-  "view_count": null,
-  "archived": false,
-  "no_follow": false,
-  "is_crosspostable": false,
-  "pinned": false,
-  "over_18": false,
+  "score": 427,
   "preview": {
     "images": [
       {
@@ -201,61 +59,11 @@
     ],
     "enabled": false
   },
-  "awarders": [],
-  "media_only": false,
-  "link_flair_template_id": "e533981c-10d9-11e7-89fd-0e374a7b7cbc",
-  "can_gild": false,
-  "spoiler": false,
-  "locked": false,
-  "author_flair_text": "Bronze",
-  "treatment_tags": [],
-  "visited": false,
-  "removed_by": null,
-  "num_reports": null,
-  "distinguished": null,
-  "subreddit_id": "t5_2wlj3",
-  "mod_reason_by": null,
-  "removal_reason": null,
-  "link_flair_background_color": "",
-  "id": "n84xp0",
-  "is_robot_indexable": true,
-  "report_reasons": null,
-  "author": "pandoira",
-  "discussion_type": null,
-  "num_comments": 75,
-  "send_replies": true,
-  "whitelist_status": "all_ads",
-  "contest_mode": false,
-  "mod_reports": [],
-  "author_patreon_flair": false,
-  "author_flair_text_color": "dark",
   "permalink": "/r/CryptoCurrency/comments/n84xp0/i_made_a_tool_to_detect_upvote_manipulation/",
-  "parent_whitelist_status": "all_ads",
-  "stickied": false,
-  "url": "https://www.reddit.com/r/CryptoCurrency/comments/n84xp0/i_made_a_tool_to_detect_upvote_manipulation/",
-  "subreddit_subscribers": 2571568,
-  "created_utc": 1620556231,
-  "num_crossposts": 0,
+  "subreddit": "CryptoCurrency",
+  "id": "n84xp0",
+  "is_self": true,
   "media": null,
   "is_video": false,
-  "original_created_utc": 1620529237,
-  "the_new_excerpt": "Many have been complaining about upvote bots recently.\n\nSo made a tool called UpvoteTracker [https://upvotetracker.com/] Link:\nhttps://upvotetracker.com/\n\nAll you have to do is to enter the link of a r/CryptoCurrency\n[/r/CryptoCurrency]…",
-  "localize": [
-    {
-      "locale": "ja",
-      "the_new_excerpt": "最近、upvote botについて多くの人が不満を持っています。\n\nそこでUpvoteTrackerというツールを作りました [https://upvotetracker.com/] リンクです。\nhttps://upvotetracker.com/\n\nr/CryptoCurrencyのリンクを入力するだけでいいのです。\n[/r/CryptoCurrency]...",
-      "title": "upvoteの操作を検知するツールを作ってみた"
-    },
-    {
-      "locale": "zh",
-      "the_new_excerpt": "最近，很多人都在抱怨涨票机器人。\n\n所以做了一个叫UpvoteTracker的工具 [https://upvotetracker.com/] 链接。\nhttps://upvotetracker.com/\n\n你所要做的就是输入一个r/CryptoCurrency的链接\n[/r/CryptoCurrency]...",
-      "title": "我做了一个工具来检测操纵上调票数的行为"
-    },
-    {
-      "locale": "zh-Hant",
-      "the_new_excerpt": "最近，很多人都在抱怨漲票機器人。\n\n所以做了一個叫UpvoteTracker的工具 [https://upvotetracker.com/] 鏈接。\nhttps://upvotetracker.com/\n\n你所要做的就是輸入一個r/CryptoCurrency的鏈接\n[/r/CryptoCurrency]...",
-      "title": "我做了一個工具來檢測操縱上調票數的行爲"
-    }
-  ],
   "source_updated_at": 1620985990899
 }

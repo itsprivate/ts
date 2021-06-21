@@ -1,9 +1,7 @@
 {
   "created_at": "Wed May 12 23:39:21 +0000 2021",
-  "id": 1392622604234727400,
   "id_str": "1392622604234727425",
   "full_text": "RT @michael_saylor: @elonmusk Ironic because no incremental energy is used in a #bitcoin transaction. The energy is used to secure the cryp…",
-  "truncated": false,
   "display_text_range": [
     0,
     140
@@ -43,94 +41,36 @@
     ],
     "urls": []
   },
-  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
   "user": {
-    "id": 918804624303382500,
-    "id_str": "918804624303382528",
     "name": "PlanB",
     "screen_name": "100trillionUSD",
-    "location": "NOT FINANCIAL ADVICE",
-    "description": "#bitcoin\nArticles & Podcasts on https://t.co/Ry7rqPRR8t\n1PRoNLcWHzM8DuKpGE4YM9hb1PjSEnWRpn\nNOT FINANCIAL ADVICE",
-    "url": "https://t.co/5Y254ILwhC",
-    "entities": {
-      "url": {
-        "urls": [
-          {
-            "url": "https://t.co/5Y254ILwhC",
-            "expanded_url": "http://PlanBTC.com",
-            "display_url": "PlanBTC.com",
-            "indices": [
-              0,
-              23
-            ]
-          }
-        ]
-      },
-      "description": {
-        "urls": [
-          {
-            "url": "https://t.co/Ry7rqPRR8t",
-            "expanded_url": "http://PlanBTC.com",
-            "display_url": "PlanBTC.com",
-            "indices": [
-              32,
-              55
-            ]
-          }
-        ]
-      }
-    },
-    "protected": false,
-    "followers_count": 448108,
-    "friends_count": 193,
-    "listed_count": 5780,
-    "created_at": "Fri Oct 13 11:44:27 +0000 2017",
-    "favourites_count": 23279,
-    "utc_offset": null,
-    "time_zone": null,
-    "geo_enabled": false,
-    "verified": false,
-    "statuses_count": 6948,
-    "lang": null,
-    "contributors_enabled": false,
-    "is_translator": false,
-    "is_translation_enabled": false,
-    "profile_background_color": "F5F8FA",
-    "profile_background_image_url": null,
-    "profile_background_image_url_https": null,
-    "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1381894517708754948/EpK8VJPe_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1381894517708754948/EpK8VJPe_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/918804624303382528/1601733353",
-    "profile_link_color": "1DA1F2",
-    "profile_sidebar_border_color": "C0DEED",
-    "profile_sidebar_fill_color": "DDEEF6",
-    "profile_text_color": "333333",
-    "profile_use_background_image": true,
-    "has_extended_profile": true,
-    "default_profile": true,
-    "default_profile_image": false,
-    "following": false,
-    "follow_request_sent": false,
-    "notifications": false,
-    "translator_type": "none",
-    "withheld_in_countries": []
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1381894517708754948/EpK8VJPe_normal.jpg"
   },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
+  "retweet_count": 6380,
+  "favorite_count": 0,
+  "original_created_at": "Wed May 12 23:27:57 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @michael_saylor: @elonmusk 皮肉なことに、#ビットコインの取引ではエネルギーの増分は使われていません。エネルギーが使われるのは、暗号化の安全性を確保するためです。",
+      "retweeted_status_full_text": "@elonmusk 皮肉なことに、#ビットコインの取引では増分のエネルギーは使われていません。エネルギーは暗号資産ネットワークの安全性を確保するために使用されており、長期的な化石燃料消費への正味の影響は、あらゆる点を考慮してもマイナスです。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @michael_saylor: @elonmusk 讽刺的是，在#比特币交易中没有使用任何增量能源。这些能量是用来保证加密货币的安全。",
+      "retweeted_status_full_text": "@elonmusk 具有讽刺意味的是，在#比特币交易中没有使用任何增量能源。这些能源被用来保证加密资产网络的安全，随着时间的推移，对化石燃料消耗的净影响将是负面的，所有的事情都考虑到了。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @michael_saylor: @elonmusk 諷刺的是，在#比特幣交易中沒有使用任何增量能源。這些能量是用來保證加密貨幣的安全。",
+      "retweeted_status_full_text": "@elonmusk 具有諷刺意味的是，在#比特幣交易中沒有使用任何增量能源。這些能源被用來保證加密資產網絡的安全，隨着時間的推移，對化石燃料消耗的淨影響將是負面的，所有的事情都考慮到了。"
+    }
+  ],
+  "source_updated_at": 1620986000715,
   "retweeted_status": {
     "created_at": "Wed May 12 23:22:25 +0000 2021",
-    "id": 1392621211302105000,
     "id_str": "1392621211302105091",
     "full_text": "@elonmusk Ironic because no incremental energy is used in a #bitcoin transaction. The energy is used to secure the crypto-asset network, and the net impact on fossil fuel consumption over time will be negative, all things considered.",
-    "truncated": false,
     "display_text_range": [
       10,
       233
@@ -160,145 +100,12 @@
       ],
       "urls": []
     },
-    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1392602041025843200,
-    "in_reply_to_status_id_str": "1392602041025843203",
-    "in_reply_to_user_id": 44196397,
-    "in_reply_to_user_id_str": "44196397",
-    "in_reply_to_screen_name": "elonmusk",
     "user": {
-      "id": 244647486,
-      "id_str": "244647486",
       "name": "Michael Saylor",
       "screen_name": "michael_saylor",
-      "location": "Miami Beach, FL",
-      "description": "$MSTR Founder & CEO | @MIT Aerospace | bio @ https://t.co/ujOwMF6F7F | free education @ https://t.co/f30dcxd8Xv | #Bitcoin is https://t.co/47dA8aiixk & https://t.co/uSXhfX0Jm6. | All tweets are my own.",
-      "url": "https://t.co/lz9bT9Kvoy",
-      "entities": {
-        "url": {
-          "urls": [
-            {
-              "url": "https://t.co/lz9bT9Kvoy",
-              "expanded_url": "https://microstrategy.com",
-              "display_url": "microstrategy.com",
-              "indices": [
-                0,
-                23
-              ]
-            }
-          ]
-        },
-        "description": {
-          "urls": [
-            {
-              "url": "https://t.co/ujOwMF6F7F",
-              "expanded_url": "http://michael.com",
-              "display_url": "michael.com",
-              "indices": [
-                45,
-                68
-              ]
-            },
-            {
-              "url": "https://t.co/f30dcxd8Xv",
-              "expanded_url": "http://saylor.org",
-              "display_url": "saylor.org",
-              "indices": [
-                88,
-                111
-              ]
-            },
-            {
-              "url": "https://t.co/47dA8aiixk",
-              "expanded_url": "http://hope.com",
-              "display_url": "hope.com",
-              "indices": [
-                126,
-                149
-              ]
-            },
-            {
-              "url": "https://t.co/uSXhfX0Jm6",
-              "expanded_url": "http://strategy.com",
-              "display_url": "strategy.com",
-              "indices": [
-                152,
-                175
-              ]
-            }
-          ]
-        }
-      },
-      "protected": false,
-      "followers_count": 819058,
-      "friends_count": 440,
-      "listed_count": 5692,
-      "created_at": "Sat Jan 29 20:11:04 +0000 2011",
-      "favourites_count": 963,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": true,
-      "verified": true,
-      "statuses_count": 1789,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "C0DEED",
-      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1391739753540853762/CDFXycp2_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1391739753540853762/CDFXycp2_normal.jpg",
-      "profile_banner_url": "https://pbs.twimg.com/profile_banners/244647486/1606261344",
-      "profile_link_color": "1DA1F2",
-      "profile_sidebar_border_color": "C0DEED",
-      "profile_sidebar_fill_color": "DDEEF6",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": false,
-      "default_profile": true,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none",
-      "withheld_in_countries": []
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1391739753540853762/CDFXycp2_normal.jpg"
     },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
     "retweet_count": 1466,
-    "favorite_count": 7915,
-    "favorited": false,
-    "retweeted": false,
-    "lang": "en"
-  },
-  "is_quote_status": false,
-  "retweet_count": 6380,
-  "favorite_count": 0,
-  "favorited": false,
-  "retweeted": false,
-  "lang": "en",
-  "original_created_at": "Wed May 12 23:27:57 +0000 2021",
-  "localize": [
-    {
-      "locale": "ja",
-      "full_text": "RT @michael_saylor: @elonmusk 皮肉なことに、#ビットコインの取引ではエネルギーの増分は使われていません。エネルギーが使われるのは、暗号化の安全性を確保するためです。",
-      "retweeted_status_full_text": "@elonmusk 皮肉なことに、#ビットコインの取引では増分のエネルギーは使われていません。エネルギーは暗号資産ネットワークの安全性を確保するために使用されており、長期的な化石燃料消費への正味の影響は、あらゆる点を考慮してもマイナスです。"
-    },
-    {
-      "locale": "zh",
-      "full_text": "RT @michael_saylor: @elonmusk 讽刺的是，在#比特币交易中没有使用任何增量能源。这些能量是用来保证加密货币的安全。",
-      "retweeted_status_full_text": "@elonmusk 具有讽刺意味的是，在#比特币交易中没有使用任何增量能源。这些能源被用来保证加密资产网络的安全，随着时间的推移，对化石燃料消耗的净影响将是负面的，所有的事情都考虑到了。"
-    },
-    {
-      "locale": "zh-Hant",
-      "full_text": "RT @michael_saylor: @elonmusk 諷刺的是，在#比特幣交易中沒有使用任何增量能源。這些能量是用來保證加密貨幣的安全。",
-      "retweeted_status_full_text": "@elonmusk 具有諷刺意味的是，在#比特幣交易中沒有使用任何增量能源。這些能源被用來保證加密資產網絡的安全，隨着時間的推移，對化石燃料消耗的淨影響將是負面的，所有的事情都考慮到了。"
-    }
-  ],
-  "source_updated_at": 1620986000715
+    "favorite_count": 7915
+  }
 }

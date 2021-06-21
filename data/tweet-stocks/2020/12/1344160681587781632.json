@@ -1,9 +1,7 @@
 {
   "created_at": "Wed Dec 30 6:35:21 +0000 2020",
-  "id": 1344160681587781600,
   "id_str": "1344160681587781632",
   "full_text": "RT @stoolpresidente: One of my absolute favorites calls.   Sieberts Clothing  https://t.co/gyggwB0kM6",
-  "truncated": false,
   "display_text_range": [
     0,
     101
@@ -67,222 +65,32 @@
       }
     ]
   },
-  "extended_entities": {
-    "media": [
-      {
-        "id": 1343909656117313500,
-        "id_str": "1343909656117313536",
-        "indices": [
-          78,
-          101
-        ],
-        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1343909656117313536/img/-cxmk3whMc9P6VnU.jpg",
-        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1343909656117313536/img/-cxmk3whMc9P6VnU.jpg",
-        "url": "https://t.co/gyggwB0kM6",
-        "display_url": "pic.twitter.com/gyggwB0kM6",
-        "expanded_url": "https://twitter.com/BarstoolFund/status/1343972801137565707/video/1",
-        "type": "video",
-        "sizes": {
-          "thumb": {
-            "w": 150,
-            "h": 150,
-            "resize": "crop"
-          },
-          "small": {
-            "w": 383,
-            "h": 680,
-            "resize": "fit"
-          },
-          "large": {
-            "w": 720,
-            "h": 1280,
-            "resize": "fit"
-          },
-          "medium": {
-            "w": 675,
-            "h": 1200,
-            "resize": "fit"
-          }
-        },
-        "source_status_id": 1343972801137565700,
-        "source_status_id_str": "1343972801137565707",
-        "source_user_id": 1339695104630657000,
-        "source_user_id_str": "1339695104630657024",
-        "video_info": {
-          "aspect_ratio": [
-            9,
-            16
-          ],
-          "duration_millis": 110143,
-          "variants": [
-            {
-              "bitrate": 832000,
-              "content_type": "video/mp4",
-              "url": "https://video.twimg.com/amplify_video/1343909656117313536/vid/360x640/BzI2qJ0ciyyUfMpA.mp4?tag=13"
-            },
-            {
-              "content_type": "application/x-mpegURL",
-              "url": "https://video.twimg.com/amplify_video/1343909656117313536/pl/WpiuEptMyt9sd5lG.m3u8?tag=13"
-            },
-            {
-              "bitrate": 632000,
-              "content_type": "video/mp4",
-              "url": "https://video.twimg.com/amplify_video/1343909656117313536/vid/320x568/G0Kw6jM_y_jxS7yE.mp4?tag=13"
-            },
-            {
-              "bitrate": 2176000,
-              "content_type": "video/mp4",
-              "url": "https://video.twimg.com/amplify_video/1343909656117313536/vid/720x1280/EV4S62wqq8TgzHl6.mp4?tag=13"
-            }
-          ]
-        },
-        "additional_media_info": {
-          "title": "",
-          "description": "",
-          "embeddable": true,
-          "monetizable": false,
-          "source_user": {
-            "id": 1339695104630657000,
-            "id_str": "1339695104630657024",
-            "name": "The Barstool Fund",
-            "screen_name": "BarstoolFund",
-            "location": "New York City",
-            "description": "Small business Covid-19 relief organization founded by @stoolpresidente & @barstoolsports | Email barstoolfund@barstoolsports.com your story #barstoolfund",
-            "url": "https://t.co/I2xyyvi1bI",
-            "entities": {
-              "url": {
-                "urls": [
-                  {
-                    "url": "https://t.co/I2xyyvi1bI",
-                    "expanded_url": "https://www.barstoolsports.com/the-barstool-fund",
-                    "display_url": "barstoolsports.com/the-barstool-f…",
-                    "indices": [
-                      0,
-                      23
-                    ]
-                  }
-                ]
-              },
-              "description": {
-                "urls": []
-              }
-            },
-            "protected": false,
-            "followers_count": 21071,
-            "friends_count": 2,
-            "listed_count": 19,
-            "created_at": "Thu Dec 17 22:13:07 +0000 2020",
-            "favourites_count": 6,
-            "utc_offset": null,
-            "time_zone": null,
-            "geo_enabled": false,
-            "verified": false,
-            "statuses_count": 86,
-            "lang": null,
-            "contributors_enabled": false,
-            "is_translator": false,
-            "is_translation_enabled": false,
-            "profile_background_color": "F5F8FA",
-            "profile_background_image_url": null,
-            "profile_background_image_url_https": null,
-            "profile_background_tile": false,
-            "profile_image_url": "http://pbs.twimg.com/profile_images/1341856712760934400/ra8aGLtp_normal.jpg",
-            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341856712760934400/ra8aGLtp_normal.jpg",
-            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1339695104630657024/1608244135",
-            "profile_link_color": "1DA1F2",
-            "profile_sidebar_border_color": "C0DEED",
-            "profile_sidebar_fill_color": "DDEEF6",
-            "profile_text_color": "333333",
-            "profile_use_background_image": true,
-            "has_extended_profile": false,
-            "default_profile": true,
-            "default_profile_image": false,
-            "following": false,
-            "follow_request_sent": false,
-            "notifications": false,
-            "translator_type": "none"
-          }
-        }
-      }
-    ]
-  },
-  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
   "user": {
-    "id": 15079601,
-    "id_str": "15079601",
     "name": "The_Real_Fly",
     "screen_name": "The_Real_Fly",
-    "location": "United States",
-    "description": "Man of leisure. Sophisticate. Master Ace stock trader. Champion of Champions.",
-    "url": "https://t.co/LDd0DkVwH6",
-    "entities": {
-      "url": {
-        "urls": [
-          {
-            "url": "https://t.co/LDd0DkVwH6",
-            "expanded_url": "http://ibankcoin.com",
-            "display_url": "ibankcoin.com",
-            "indices": [
-              0,
-              23
-            ]
-          }
-        ]
-      },
-      "description": {
-        "urls": []
-      }
-    },
-    "protected": false,
-    "followers_count": 62922,
-    "friends_count": 333,
-    "listed_count": 1957,
-    "created_at": "Wed Jun 11 00:23:03 +0000 2008",
-    "favourites_count": 20426,
-    "utc_offset": null,
-    "time_zone": null,
-    "geo_enabled": false,
-    "verified": false,
-    "statuses_count": 154104,
-    "lang": null,
-    "contributors_enabled": false,
-    "is_translator": false,
-    "is_translation_enabled": false,
-    "profile_background_color": "FFFFFF",
-    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_tile": true,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1212283137855762432/_jRlhWr5_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1212283137855762432/_jRlhWr5_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/15079601/1489552662",
-    "profile_link_color": "FF691F",
-    "profile_sidebar_border_color": "000000",
-    "profile_sidebar_fill_color": "C0DFEC",
-    "profile_text_color": "333333",
-    "profile_use_background_image": true,
-    "has_extended_profile": false,
-    "default_profile": false,
-    "default_profile_image": false,
-    "following": false,
-    "follow_request_sent": false,
-    "notifications": false,
-    "translator_type": "none"
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1212283137855762432/_jRlhWr5_normal.jpg"
   },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
+  "retweet_count": 6972,
+  "favorite_count": 0,
+  "possibly_sensitive": false,
+  "original_created_at": "Wed Dec 30 05:57:34 +0000 2020",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "rt@stoolPresident ente：我绝对最喜欢的电话之一。西伯茨服装https://t.co/gyggwB0kM6",
+      "retweeted_status_full_text": "我最喜欢的电话之一就是。西伯茨服装https://t.co/gyggwB0kM6"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "rt@stoolPresident ente：我絕對最喜歡的電話之一。西伯茨服裝https://t.co/gyggwB0kM6",
+      "retweeted_status_full_text": "我最喜歡的電話之一就是。西伯茨服裝https://t.co/gyggwB0kM6"
+    }
+  ],
+  "source_updated_at": 1609495336128,
   "retweeted_status": {
     "created_at": "Tue Dec 29 17:34:01 +0000 2020",
-    "id": 1343973561162207200,
     "id_str": "1343973561162207232",
     "full_text": "One of my absolute favorites calls.   Sieberts Clothing  https://t.co/gyggwB0kM6",
-    "truncated": false,
     "display_text_range": [
       0,
       80
@@ -335,275 +143,13 @@
         }
       ]
     },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1343909656117313500,
-          "id_str": "1343909656117313536",
-          "indices": [
-            57,
-            80
-          ],
-          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1343909656117313536/img/-cxmk3whMc9P6VnU.jpg",
-          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1343909656117313536/img/-cxmk3whMc9P6VnU.jpg",
-          "url": "https://t.co/gyggwB0kM6",
-          "display_url": "pic.twitter.com/gyggwB0kM6",
-          "expanded_url": "https://twitter.com/BarstoolFund/status/1343972801137565707/video/1",
-          "type": "video",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 383,
-              "h": 680,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 720,
-              "h": 1280,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 675,
-              "h": 1200,
-              "resize": "fit"
-            }
-          },
-          "source_status_id": 1343972801137565700,
-          "source_status_id_str": "1343972801137565707",
-          "source_user_id": 1339695104630657000,
-          "source_user_id_str": "1339695104630657024",
-          "video_info": {
-            "aspect_ratio": [
-              9,
-              16
-            ],
-            "duration_millis": 110143,
-            "variants": [
-              {
-                "bitrate": 832000,
-                "content_type": "video/mp4",
-                "url": "https://video.twimg.com/amplify_video/1343909656117313536/vid/360x640/BzI2qJ0ciyyUfMpA.mp4?tag=13"
-              },
-              {
-                "content_type": "application/x-mpegURL",
-                "url": "https://video.twimg.com/amplify_video/1343909656117313536/pl/WpiuEptMyt9sd5lG.m3u8?tag=13"
-              },
-              {
-                "bitrate": 632000,
-                "content_type": "video/mp4",
-                "url": "https://video.twimg.com/amplify_video/1343909656117313536/vid/320x568/G0Kw6jM_y_jxS7yE.mp4?tag=13"
-              },
-              {
-                "bitrate": 2176000,
-                "content_type": "video/mp4",
-                "url": "https://video.twimg.com/amplify_video/1343909656117313536/vid/720x1280/EV4S62wqq8TgzHl6.mp4?tag=13"
-              }
-            ]
-          },
-          "additional_media_info": {
-            "title": "",
-            "description": "",
-            "embeddable": true,
-            "monetizable": false,
-            "source_user": {
-              "id": 1339695104630657000,
-              "id_str": "1339695104630657024",
-              "name": "The Barstool Fund",
-              "screen_name": "BarstoolFund",
-              "location": "New York City",
-              "description": "Small business Covid-19 relief organization founded by @stoolpresidente & @barstoolsports | Email barstoolfund@barstoolsports.com your story #barstoolfund",
-              "url": "https://t.co/I2xyyvi1bI",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/I2xyyvi1bI",
-                      "expanded_url": "https://www.barstoolsports.com/the-barstool-fund",
-                      "display_url": "barstoolsports.com/the-barstool-f…",
-                      "indices": [
-                        0,
-                        23
-                      ]
-                    }
-                  ]
-                },
-                "description": {
-                  "urls": []
-                }
-              },
-              "protected": false,
-              "followers_count": 21071,
-              "friends_count": 2,
-              "listed_count": 19,
-              "created_at": "Thu Dec 17 22:13:07 +0000 2020",
-              "favourites_count": 6,
-              "utc_offset": null,
-              "time_zone": null,
-              "geo_enabled": false,
-              "verified": false,
-              "statuses_count": 86,
-              "lang": null,
-              "contributors_enabled": false,
-              "is_translator": false,
-              "is_translation_enabled": false,
-              "profile_background_color": "F5F8FA",
-              "profile_background_image_url": null,
-              "profile_background_image_url_https": null,
-              "profile_background_tile": false,
-              "profile_image_url": "http://pbs.twimg.com/profile_images/1341856712760934400/ra8aGLtp_normal.jpg",
-              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341856712760934400/ra8aGLtp_normal.jpg",
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1339695104630657024/1608244135",
-              "profile_link_color": "1DA1F2",
-              "profile_sidebar_border_color": "C0DEED",
-              "profile_sidebar_fill_color": "DDEEF6",
-              "profile_text_color": "333333",
-              "profile_use_background_image": true,
-              "has_extended_profile": false,
-              "default_profile": true,
-              "default_profile_image": false,
-              "following": false,
-              "follow_request_sent": false,
-              "notifications": false,
-              "translator_type": "none"
-            }
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
     "user": {
-      "id": 43775786,
-      "id_str": "43775786",
       "name": "Dave Portnoy",
       "screen_name": "stoolpresidente",
-      "location": "Boston",
-      "description": "El Presidente/3 time Bee Sting survivor. I own a ton of Penn Stock. I’m not a financial advisor. Don’t trust anything I say about stocks. Owner of DDTG Global",
-      "url": "https://t.co/nXDqi9fdtm",
-      "entities": {
-        "url": {
-          "urls": [
-            {
-              "url": "https://t.co/nXDqi9fdtm",
-              "expanded_url": "http://boston.barstoolsports.com",
-              "display_url": "boston.barstoolsports.com",
-              "indices": [
-                0,
-                23
-              ]
-            }
-          ]
-        },
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 1908591,
-      "friends_count": 1307,
-      "listed_count": 5035,
-      "created_at": "Sun May 31 23:08:06 +0000 2009",
-      "favourites_count": 2535,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": true,
-      "verified": false,
-      "statuses_count": 84506,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "00254C",
-      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-      "profile_background_tile": true,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1232762064805994509/ox2CjuYi_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1232762064805994509/ox2CjuYi_normal.jpg",
-      "profile_link_color": "050505",
-      "profile_sidebar_border_color": "CCCCCC",
-      "profile_sidebar_fill_color": "EEEEEE",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": false,
-      "default_profile": false,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none"
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1232762064805994509/ox2CjuYi_normal.jpg"
     },
-    "geo": null,
-    "coordinates": null,
-    "place": {
-      "id": "0121b92345f0e2b4",
-      "url": "https://api.twitter.com/1.1/geo/id/0121b92345f0e2b4.json",
-      "place_type": "city",
-      "name": "Miami Beach",
-      "full_name": "Miami Beach, FL",
-      "country_code": "US",
-      "country": "United States",
-      "contained_within": [],
-      "bounding_box": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -80.147162,
-              25.7613083
-            ],
-            [
-              -80.1187628,
-              25.7613083
-            ],
-            [
-              -80.1187628,
-              25.872623
-            ],
-            [
-              -80.147162,
-              25.872623
-            ]
-          ]
-        ]
-      },
-      "attributes": {}
-    },
-    "contributors": null,
-    "is_quote_status": false,
     "retweet_count": 4957,
     "favorite_count": 51075,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
-  },
-  "is_quote_status": false,
-  "retweet_count": 6972,
-  "favorite_count": 0,
-  "favorited": false,
-  "retweeted": false,
-  "possibly_sensitive": false,
-  "lang": "en",
-  "original_created_at": "Wed Dec 30 05:57:34 +0000 2020",
-  "localize": [
-    {
-      "locale": "zh",
-      "full_text": "rt@stoolPresident ente：我绝对最喜欢的电话之一。西伯茨服装https://t.co/gyggwB0kM6",
-      "retweeted_status_full_text": "我最喜欢的电话之一就是。西伯茨服装https://t.co/gyggwB0kM6"
-    },
-    {
-      "locale": "zh-Hant",
-      "full_text": "rt@stoolPresident ente：我絕對最喜歡的電話之一。西伯茨服裝https://t.co/gyggwB0kM6",
-      "retweeted_status_full_text": "我最喜歡的電話之一就是。西伯茨服裝https://t.co/gyggwB0kM6"
-    }
-  ],
-  "source_updated_at": 1609495336128
+    "possibly_sensitive": false
+  }
 }

@@ -1,9 +1,7 @@
 {
   "created_at": "Wed Jun 02 12:41:52 +0000 2021",
-  "id": 1399143572541264000,
   "id_str": "1399143572541263878",
   "full_text": "$MSTR\n https://t.co/g0mjfeheNB",
-  "truncated": false,
   "display_text_range": [
     0,
     30
@@ -64,217 +62,14 @@
       }
     ]
   },
-  "extended_entities": {
-    "media": [
-      {
-        "id": 1398766254672994300,
-        "id_str": "1398766254672994308",
-        "indices": [
-          7,
-          30
-        ],
-        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1398766254672994308/pu/img/fe82deCRMfNXxqe7.jpg",
-        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1398766254672994308/pu/img/fe82deCRMfNXxqe7.jpg",
-        "url": "https://t.co/g0mjfeheNB",
-        "display_url": "pic.twitter.com/g0mjfeheNB",
-        "expanded_url": "https://twitter.com/CryptoWhale/status/1398769233086009346/video/1",
-        "type": "video",
-        "sizes": {
-          "thumb": {
-            "w": 150,
-            "h": 150,
-            "resize": "crop"
-          },
-          "large": {
-            "w": 640,
-            "h": 360,
-            "resize": "fit"
-          },
-          "medium": {
-            "w": 640,
-            "h": 360,
-            "resize": "fit"
-          },
-          "small": {
-            "w": 640,
-            "h": 360,
-            "resize": "fit"
-          }
-        },
-        "source_status_id": 1398769233086009300,
-        "source_status_id_str": "1398769233086009346",
-        "source_user_id": 234638601,
-        "source_user_id_str": "234638601",
-        "video_info": {
-          "aspect_ratio": [
-            16,
-            9
-          ],
-          "duration_millis": 45000,
-          "variants": [
-            {
-              "content_type": "application/x-mpegURL",
-              "url": "https://video.twimg.com/ext_tw_video/1398766254672994308/pu/pl/HfUPb0f3AgSBhCE-.m3u8?tag=12"
-            },
-            {
-              "bitrate": 832000,
-              "content_type": "video/mp4",
-              "url": "https://video.twimg.com/ext_tw_video/1398766254672994308/pu/vid/640x360/wSkqkS9H1cy3X0T5.mp4?tag=12"
-            },
-            {
-              "bitrate": 256000,
-              "content_type": "video/mp4",
-              "url": "https://video.twimg.com/ext_tw_video/1398766254672994308/pu/vid/480x270/5Nrgb8_tXo_FRn9p.mp4?tag=12"
-            }
-          ]
-        },
-        "additional_media_info": {
-          "monetizable": false,
-          "source_user": {
-            "id": 234638601,
-            "id_str": "234638601",
-            "name": "Mr. Whale",
-            "screen_name": "CryptoWhale",
-            "location": "",
-            "description": "Crypto Analyst. Trading Crypto Since 2013. Follow for an Unbiased & Contrarian Perspective on the Stock + Crypto Markets!",
-            "url": "https://t.co/SkYfwxKbcJ",
-            "entities": {
-              "url": {
-                "urls": [
-                  {
-                    "url": "https://t.co/SkYfwxKbcJ",
-                    "expanded_url": "http://www.cryptowhale.org",
-                    "display_url": "cryptowhale.org",
-                    "indices": [
-                      0,
-                      23
-                    ]
-                  }
-                ]
-              },
-              "description": {
-                "urls": []
-              }
-            },
-            "protected": false,
-            "followers_count": 217226,
-            "friends_count": 512,
-            "listed_count": 1532,
-            "created_at": "Thu Jan 06 05:19:30 +0000 2011",
-            "favourites_count": 40150,
-            "utc_offset": null,
-            "time_zone": null,
-            "geo_enabled": false,
-            "verified": false,
-            "statuses_count": 14179,
-            "lang": null,
-            "contributors_enabled": false,
-            "is_translator": false,
-            "is_translation_enabled": false,
-            "profile_background_color": "C0DEED",
-            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-            "profile_background_tile": false,
-            "profile_image_url": "http://pbs.twimg.com/profile_images/1392707147998371841/fCeAiAdf_normal.jpg",
-            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1392707147998371841/fCeAiAdf_normal.jpg",
-            "profile_banner_url": "https://pbs.twimg.com/profile_banners/234638601/1619921959",
-            "profile_link_color": "1DA1F2",
-            "profile_sidebar_border_color": "C0DEED",
-            "profile_sidebar_fill_color": "DDEEF6",
-            "profile_text_color": "333333",
-            "profile_use_background_image": true,
-            "has_extended_profile": false,
-            "default_profile": true,
-            "default_profile_image": false,
-            "following": false,
-            "follow_request_sent": false,
-            "notifications": false,
-            "translator_type": "none",
-            "withheld_in_countries": []
-          }
-        }
-      }
-    ]
-  },
-  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
   "user": {
-    "id": 15079601,
-    "id_str": "15079601",
     "name": "The_Real_Fly",
     "screen_name": "The_Real_Fly",
-    "location": "United States",
-    "description": "Man of leisure. Sophisticate. Master Ace stock trader. Champion of Champions.",
-    "url": "https://t.co/2n3HjQfcOf",
-    "entities": {
-      "url": {
-        "urls": [
-          {
-            "url": "https://t.co/2n3HjQfcOf",
-            "expanded_url": "http://ibankcoin.com",
-            "display_url": "ibankcoin.com",
-            "indices": [
-              0,
-              23
-            ]
-          }
-        ]
-      },
-      "description": {
-        "urls": []
-      }
-    },
-    "protected": false,
-    "followers_count": 68188,
-    "friends_count": 332,
-    "listed_count": 2111,
-    "created_at": "Wed Jun 11 00:23:03 +0000 2008",
-    "favourites_count": 21653,
-    "utc_offset": null,
-    "time_zone": null,
-    "geo_enabled": false,
-    "verified": false,
-    "statuses_count": 161504,
-    "lang": null,
-    "contributors_enabled": false,
-    "is_translator": false,
-    "is_translation_enabled": false,
-    "profile_background_color": "FFFFFF",
-    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_tile": true,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1365459205453471751/LL4GKo3m_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1365459205453471751/LL4GKo3m_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/15079601/1489552662",
-    "profile_link_color": "FF691F",
-    "profile_sidebar_border_color": "000000",
-    "profile_sidebar_fill_color": "C0DFEC",
-    "profile_text_color": "333333",
-    "profile_use_background_image": true,
-    "has_extended_profile": false,
-    "default_profile": false,
-    "default_profile_image": false,
-    "following": false,
-    "follow_request_sent": false,
-    "notifications": false,
-    "translator_type": "none",
-    "withheld_in_countries": []
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1365459205453471751/LL4GKo3m_normal.jpg"
   },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
-  "is_quote_status": false,
   "retweet_count": 29,
   "favorite_count": 241,
-  "favorited": false,
-  "retweeted": false,
   "possibly_sensitive": false,
-  "lang": "en",
   "original_created_at": "Sun May 30 23:19:57 +0000 2021",
   "localize": [
     {

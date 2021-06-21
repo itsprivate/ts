@@ -1,9 +1,7 @@
 {
   "created_at": "Wed May 05 12:38:39 +0000 2021",
-  "id": 1389906020974137300,
   "id_str": "1389906020974137344",
   "full_text": "RT @CNBC: Bitcoin is coming to hundreds of U.S. banks this year, says crypto custody firm NYDIG https://t.co/bwzsRBY8c1",
-  "truncated": false,
   "display_text_range": [
     0,
     119
@@ -35,94 +33,37 @@
       }
     ]
   },
-  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
   "user": {
-    "id": 918804624303382500,
-    "id_str": "918804624303382528",
     "name": "PlanB",
     "screen_name": "100trillionUSD",
-    "location": "NOT FINANCIAL ADVICE",
-    "description": "#bitcoin\nArticles & Podcasts on https://t.co/Ry7rqPRR8t\n1PRoNLcWHzM8DuKpGE4YM9hb1PjSEnWRpn\nNOT FINANCIAL ADVICE",
-    "url": "https://t.co/5Y254ILwhC",
-    "entities": {
-      "url": {
-        "urls": [
-          {
-            "url": "https://t.co/5Y254ILwhC",
-            "expanded_url": "http://PlanBTC.com",
-            "display_url": "PlanBTC.com",
-            "indices": [
-              0,
-              23
-            ]
-          }
-        ]
-      },
-      "description": {
-        "urls": [
-          {
-            "url": "https://t.co/Ry7rqPRR8t",
-            "expanded_url": "http://PlanBTC.com",
-            "display_url": "PlanBTC.com",
-            "indices": [
-              32,
-              55
-            ]
-          }
-        ]
-      }
-    },
-    "protected": false,
-    "followers_count": 430211,
-    "friends_count": 195,
-    "listed_count": 5564,
-    "created_at": "Fri Oct 13 11:44:27 +0000 2017",
-    "favourites_count": 23178,
-    "utc_offset": null,
-    "time_zone": null,
-    "geo_enabled": false,
-    "verified": false,
-    "statuses_count": 6897,
-    "lang": null,
-    "contributors_enabled": false,
-    "is_translator": false,
-    "is_translation_enabled": false,
-    "profile_background_color": "F5F8FA",
-    "profile_background_image_url": null,
-    "profile_background_image_url_https": null,
-    "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1381894517708754948/EpK8VJPe_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1381894517708754948/EpK8VJPe_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/918804624303382528/1601733353",
-    "profile_link_color": "1DA1F2",
-    "profile_sidebar_border_color": "C0DEED",
-    "profile_sidebar_fill_color": "DDEEF6",
-    "profile_text_color": "333333",
-    "profile_use_background_image": true,
-    "has_extended_profile": true,
-    "default_profile": true,
-    "default_profile_image": false,
-    "following": false,
-    "follow_request_sent": false,
-    "notifications": false,
-    "translator_type": "none",
-    "withheld_in_countries": []
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1381894517708754948/EpK8VJPe_normal.jpg"
   },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
+  "retweet_count": 2416,
+  "favorite_count": 0,
+  "possibly_sensitive": false,
+  "original_created_at": "Wed May 05 11:33:13 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @CNBC: ビットコインは今年、米国の数百の銀行に登場すると、暗号化カストディ会社NYDIGが発表 https://t.co/bwzsRBY8c1",
+      "retweeted_status_full_text": "ビットコインは今年、何百もの米国の銀行にやってくる、と暗号化カストディ会社NYDIG https://t.co/bwzsRBY8c1"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @CNBC: 加密货币托管公司NYDIG表示，比特币今年将进入数百家美国银行 https://t.co/bwzsRBY8c1",
+      "retweeted_status_full_text": "加密货币托管公司NYDIG表示，比特币今年将进入数百家美国银行 https://t.co/bwzsRBY8c1"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @CNBC: 加密貨幣託管公司NYDIG表示，比特幣今年將進入數百家美國銀行 https://t.co/bwzsRBY8c1",
+      "retweeted_status_full_text": "加密貨幣託管公司NYDIG表示，比特幣今年將進入數百家美國銀行 https://t.co/bwzsRBY8c1"
+    }
+  ],
+  "source_updated_at": 1620380972540,
   "retweeted_status": {
     "created_at": "Wed May 05 11:29:16 +0000 2021",
-    "id": 1389905029818159000,
     "id_str": "1389905029818159104",
     "full_text": "Bitcoin is coming to hundreds of U.S. banks this year, says crypto custody firm NYDIG https://t.co/bwzsRBY8c1",
-    "truncated": false,
     "display_text_range": [
       0,
       109
@@ -143,110 +84,13 @@
         }
       ]
     },
-    "source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
     "user": {
-      "id": 20402945,
-      "id_str": "20402945",
       "name": "CNBC",
       "screen_name": "CNBC",
-      "location": "Englewood Cliffs, NJ",
-      "description": "First in business worldwide.",
-      "url": "https://t.co/fdcFKDtOzb",
-      "entities": {
-        "url": {
-          "urls": [
-            {
-              "url": "https://t.co/fdcFKDtOzb",
-              "expanded_url": "https://www.cnbc.com/",
-              "display_url": "cnbc.com",
-              "indices": [
-                0,
-                23
-              ]
-            }
-          ]
-        },
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 4120517,
-      "friends_count": 843,
-      "listed_count": 34914,
-      "created_at": "Mon Feb 09 00:03:41 +0000 2009",
-      "favourites_count": 633,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": true,
-      "verified": true,
-      "statuses_count": 422598,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "0D181F",
-      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1317082585382735874/DBEM-rWK_normal.png",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1317082585382735874/DBEM-rWK_normal.png",
-      "profile_banner_url": "https://pbs.twimg.com/profile_banners/20402945/1601925989",
-      "profile_link_color": "2D648A",
-      "profile_sidebar_border_color": "FFFFFF",
-      "profile_sidebar_fill_color": "EAEBEA",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": false,
-      "default_profile": false,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none",
-      "withheld_in_countries": []
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1317082585382735874/DBEM-rWK_normal.png"
     },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
     "retweet_count": 472,
     "favorite_count": 1506,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
-  },
-  "is_quote_status": false,
-  "retweet_count": 2416,
-  "favorite_count": 0,
-  "favorited": false,
-  "retweeted": false,
-  "possibly_sensitive": false,
-  "lang": "en",
-  "original_created_at": "Wed May 05 11:33:13 +0000 2021",
-  "localize": [
-    {
-      "locale": "ja",
-      "full_text": "RT @CNBC: ビットコインは今年、米国の数百の銀行に登場すると、暗号化カストディ会社NYDIGが発表 https://t.co/bwzsRBY8c1",
-      "retweeted_status_full_text": "ビットコインは今年、何百もの米国の銀行にやってくる、と暗号化カストディ会社NYDIG https://t.co/bwzsRBY8c1"
-    },
-    {
-      "locale": "zh",
-      "full_text": "RT @CNBC: 加密货币托管公司NYDIG表示，比特币今年将进入数百家美国银行 https://t.co/bwzsRBY8c1",
-      "retweeted_status_full_text": "加密货币托管公司NYDIG表示，比特币今年将进入数百家美国银行 https://t.co/bwzsRBY8c1"
-    },
-    {
-      "locale": "zh-Hant",
-      "full_text": "RT @CNBC: 加密貨幣託管公司NYDIG表示，比特幣今年將進入數百家美國銀行 https://t.co/bwzsRBY8c1",
-      "retweeted_status_full_text": "加密貨幣託管公司NYDIG表示，比特幣今年將進入數百家美國銀行 https://t.co/bwzsRBY8c1"
-    }
-  ],
-  "source_updated_at": 1620380972540
+    "possibly_sensitive": false
+  }
 }

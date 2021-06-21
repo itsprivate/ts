@@ -4,14 +4,7 @@
   "url": "https://veloren.net/",
   "author": "agluszak",
   "points": 307,
-  "story_text": null,
-  "comment_text": null,
   "num_comments": 71,
-  "story_id": null,
-  "story_title": null,
-  "story_url": null,
-  "parent_id": null,
-  "created_at_i": 1612539502,
   "_tags": [
     "story",
     "author_agluszak",
@@ -19,25 +12,7 @@
     "front_page"
   ],
   "objectID": "26037461",
-  "_highlightResult": {
-    "title": {
-      "value": "Veloren – Open-source MMORPG written in Rust",
-      "matchLevel": "none",
-      "matchedWords": []
-    },
-    "url": {
-      "value": "https://veloren.net/",
-      "matchLevel": "none",
-      "matchedWords": []
-    },
-    "author": {
-      "value": "agluszak",
-      "matchLevel": "none",
-      "matchedWords": []
-    }
-  },
   "original_created_at": "2021-02-05T15:38:22.000Z",
-  "image": "https://veloren.net/Logo_Square.png",
   "localize": [
     {
       "locale": "zh",
@@ -48,5 +23,6 @@
       "title": "Veloren - 用Rust編寫的開源MMORPG。"
     }
   ],
-  "source_updated_at": 1613123223987
+  "source_updated_at": 1613123223987,
+  "image": "https://veloren.net/Logo_Square.png"
 }

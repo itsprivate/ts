@@ -1,9 +1,7 @@
 {
   "created_at": "Thu Dec 24 7:35:20 +0000 2020",
-  "id": 1339964704853246000,
   "id_str": "1339964704853245952",
   "full_text": "RT @PrestonPysh: When in doubt.  Zoom out.  \n#Bitcoin https://t.co/RQfhqBp0je",
-  "truncated": false,
   "display_text_range": [
     0,
     77
@@ -75,137 +73,32 @@
       }
     ]
   },
-  "extended_entities": {
-    "media": [
-      {
-        "id": 1339961616683704300,
-        "id_str": "1339961616683704320",
-        "indices": [
-          54,
-          77
-        ],
-        "media_url": "http://pbs.twimg.com/media/Eph__a8XIAAsj40.jpg",
-        "media_url_https": "https://pbs.twimg.com/media/Eph__a8XIAAsj40.jpg",
-        "url": "https://t.co/RQfhqBp0je",
-        "display_url": "pic.twitter.com/RQfhqBp0je",
-        "expanded_url": "https://twitter.com/PrestonPysh/status/1339961727920779266/photo/1",
-        "type": "photo",
-        "sizes": {
-          "thumb": {
-            "w": 150,
-            "h": 150,
-            "resize": "crop"
-          },
-          "large": {
-            "w": 1157,
-            "h": 640,
-            "resize": "fit"
-          },
-          "small": {
-            "w": 680,
-            "h": 376,
-            "resize": "fit"
-          },
-          "medium": {
-            "w": 1157,
-            "h": 640,
-            "resize": "fit"
-          }
-        },
-        "source_status_id": 1339961727920779300,
-        "source_status_id_str": "1339961727920779266",
-        "source_user_id": 538399586,
-        "source_user_id_str": "538399586"
-      }
-    ]
-  },
-  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
   "user": {
-    "id": 918804624303382500,
-    "id_str": "918804624303382528",
     "name": "PlanB",
     "screen_name": "100trillionUSD",
-    "location": "NOT FINANCIAL ADVICE",
-    "description": "#bitcoin\n1PRoNLcWHzM8DuKpGE4YM9hb1PjSEnWRpn\nArticles and podcasts on https://t.co/5Y254ILwhC",
-    "url": "https://t.co/5Y254ILwhC",
-    "entities": {
-      "url": {
-        "urls": [
-          {
-            "url": "https://t.co/5Y254ILwhC",
-            "expanded_url": "http://PlanBTC.com",
-            "display_url": "PlanBTC.com",
-            "indices": [
-              0,
-              23
-            ]
-          }
-        ]
-      },
-      "description": {
-        "urls": [
-          {
-            "url": "https://t.co/5Y254ILwhC",
-            "expanded_url": "http://PlanBTC.com",
-            "display_url": "PlanBTC.com",
-            "indices": [
-              69,
-              92
-            ]
-          }
-        ]
-      }
-    },
-    "protected": false,
-    "followers_count": 178114,
-    "friends_count": 203,
-    "listed_count": 2633,
-    "created_at": "Fri Oct 13 11:44:27 +0000 2017",
-    "favourites_count": 21481,
-    "utc_offset": null,
-    "time_zone": null,
-    "geo_enabled": false,
-    "verified": false,
-    "statuses_count": 5871,
-    "lang": null,
-    "contributors_enabled": false,
-    "is_translator": false,
-    "is_translation_enabled": false,
-    "profile_background_color": "F5F8FA",
-    "profile_background_image_url": null,
-    "profile_background_image_url_https": null,
-    "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1117537706584702982/lMHLne7O_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117537706584702982/lMHLne7O_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/918804624303382528/1601733353",
-    "profile_link_color": "1DA1F2",
-    "profile_sidebar_border_color": "C0DEED",
-    "profile_sidebar_fill_color": "DDEEF6",
-    "profile_text_color": "333333",
-    "profile_use_background_image": true,
-    "has_extended_profile": true,
-    "default_profile": true,
-    "default_profile_image": false,
-    "following": false,
-    "follow_request_sent": false,
-    "notifications": false,
-    "translator_type": "none"
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117537706584702982/lMHLne7O_normal.jpg"
   },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
+  "retweet_count": 372,
+  "favorite_count": 0,
+  "possibly_sensitive": false,
+  "original_created_at": "Fri Dec 18 16:04:15 +0000 2020",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "rt@prestonPysh：有疑问时。缩小。\n#比特币https://t.co/RQfhqBp0je",
+      "retweeted_status_full_text": "当你有疑问的时候。缩小。\n#比特币https://t.co/RQfhqBp0je"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "rt@prestonPysh：有疑問時。縮小。\n#比特幣https://t.co/RQfhqBp0je",
+      "retweeted_status_full_text": "當你有疑問的時候。縮小。\n#比特幣https://t.co/RQfhqBp0je"
+    }
+  ],
+  "source_updated_at": 1609271718638,
   "retweeted_status": {
     "created_at": "Fri Dec 18 15:52:25 +0000 2020",
-    "id": 1339961727920779300,
     "id_str": "1339961727920779266",
     "full_text": "When in doubt.  Zoom out.  \n#Bitcoin https://t.co/RQfhqBp0je",
-    "truncated": false,
     "display_text_range": [
       0,
       36
@@ -262,144 +155,13 @@
         }
       ]
     },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1339961616683704300,
-          "id_str": "1339961616683704320",
-          "indices": [
-            37,
-            60
-          ],
-          "media_url": "http://pbs.twimg.com/media/Eph__a8XIAAsj40.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/Eph__a8XIAAsj40.jpg",
-          "url": "https://t.co/RQfhqBp0je",
-          "display_url": "pic.twitter.com/RQfhqBp0je",
-          "expanded_url": "https://twitter.com/PrestonPysh/status/1339961727920779266/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1157,
-              "h": 640,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 376,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 1157,
-              "h": 640,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
     "user": {
-      "id": 538399586,
-      "id_str": "538399586",
       "name": "Preston Pysh",
       "screen_name": "PrestonPysh",
-      "location": "Cyberspace",
-      "description": "Investing, finance, & #Bitcoin. Obsession with books. Critical thinker w/ focus on first principles. Cofounder of The Investor’s Podcast Network. Family first.",
-      "url": "https://t.co/jTYkT7PnBy",
-      "entities": {
-        "url": {
-          "urls": [
-            {
-              "url": "https://t.co/jTYkT7PnBy",
-              "expanded_url": "https://www.theinvestorspodcast.com/",
-              "display_url": "theinvestorspodcast.com",
-              "indices": [
-                0,
-                23
-              ]
-            }
-          ]
-        },
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 122921,
-      "friends_count": 498,
-      "listed_count": 2144,
-      "created_at": "Tue Mar 27 18:53:50 +0000 2012",
-      "favourites_count": 31916,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": true,
-      "verified": true,
-      "statuses_count": 15337,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "ABB8C2",
-      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
-      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
-      "profile_background_tile": true,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1338651849432428544/WDfpOAJ5_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1338651849432428544/WDfpOAJ5_normal.jpg",
-      "profile_banner_url": "https://pbs.twimg.com/profile_banners/538399586/1539568685",
-      "profile_link_color": "ABB8C2",
-      "profile_sidebar_border_color": "EEEEEE",
-      "profile_sidebar_fill_color": "EFEFEF",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": true,
-      "default_profile": false,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none"
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1338651849432428544/WDfpOAJ5_normal.jpg"
     },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
     "retweet_count": 361,
     "favorite_count": 2408,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
-  },
-  "is_quote_status": false,
-  "retweet_count": 372,
-  "favorite_count": 0,
-  "favorited": false,
-  "retweeted": false,
-  "possibly_sensitive": false,
-  "lang": "en",
-  "original_created_at": "Fri Dec 18 16:04:15 +0000 2020",
-  "localize": [
-    {
-      "locale": "zh",
-      "full_text": "rt@prestonPysh：有疑问时。缩小。\n#比特币https://t.co/RQfhqBp0je",
-      "retweeted_status_full_text": "当你有疑问的时候。缩小。\n#比特币https://t.co/RQfhqBp0je"
-    },
-    {
-      "locale": "zh-Hant",
-      "full_text": "rt@prestonPysh：有疑問時。縮小。\n#比特幣https://t.co/RQfhqBp0je",
-      "retweeted_status_full_text": "當你有疑問的時候。縮小。\n#比特幣https://t.co/RQfhqBp0je"
-    }
-  ],
-  "source_updated_at": 1609271718638
+    "possibly_sensitive": false
+  }
 }

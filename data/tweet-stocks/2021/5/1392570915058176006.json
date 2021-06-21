@@ -1,9 +1,7 @@
 {
   "created_at": "Wed May 12 22:53:25 +0000 2021",
-  "id": 1392570915058176000,
   "id_str": "1392570915058176006",
   "full_text": "The markets are closed. \n \n✦ S&amp;P 500 ▼ 2.15%                  \n✦ Nasdaq ▼ 2.67%                  \n✦ Russell 2K ▼ 3.26%                  \n✦ Dow Jones ▼ 1.99% https://t.co/ZRBH1EL9QK",
-  "truncated": false,
   "display_text_range": [
     0,
     160
@@ -52,138 +50,14 @@
       }
     ]
   },
-  "extended_entities": {
-    "media": [
-      {
-        "id": 1392570875858227200,
-        "id_str": "1392570875858227209",
-        "indices": [
-          161,
-          184
-        ],
-        "media_url": "http://pbs.twimg.com/tweet_video_thumb/E1Nn1VwVkAku_dV.jpg",
-        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E1Nn1VwVkAku_dV.jpg",
-        "url": "https://t.co/ZRBH1EL9QK",
-        "display_url": "pic.twitter.com/ZRBH1EL9QK",
-        "expanded_url": "https://twitter.com/Stocktwits/status/1392570915058176006/photo/1",
-        "type": "animated_gif",
-        "sizes": {
-          "medium": {
-            "w": 480,
-            "h": 322,
-            "resize": "fit"
-          },
-          "thumb": {
-            "w": 150,
-            "h": 150,
-            "resize": "crop"
-          },
-          "large": {
-            "w": 480,
-            "h": 322,
-            "resize": "fit"
-          },
-          "small": {
-            "w": 480,
-            "h": 322,
-            "resize": "fit"
-          }
-        },
-        "video_info": {
-          "aspect_ratio": [
-            240,
-            161
-          ],
-          "variants": [
-            {
-              "bitrate": 0,
-              "content_type": "video/mp4",
-              "url": "https://video.twimg.com/tweet_video/E1Nn1VwVkAku_dV.mp4"
-            }
-          ]
-        }
-      }
-    ]
-  },
-  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
   "user": {
-    "id": 14886375,
-    "id_str": "14886375",
     "name": "Stocktwits",
     "screen_name": "Stocktwits",
-    "location": "New York, NY",
-    "description": "The world's largest community of investors and traders.",
-    "url": "https://t.co/vsASyzSU5y",
-    "entities": {
-      "url": {
-        "urls": [
-          {
-            "url": "https://t.co/vsASyzSU5y",
-            "expanded_url": "https://stocktwits.com",
-            "display_url": "stocktwits.com",
-            "indices": [
-              0,
-              23
-            ]
-          }
-        ]
-      },
-      "description": {
-        "urls": []
-      }
-    },
-    "protected": false,
-    "followers_count": 891272,
-    "friends_count": 117848,
-    "listed_count": 11893,
-    "created_at": "Fri May 23 20:53:49 +0000 2008",
-    "favourites_count": 48462,
-    "utc_offset": null,
-    "time_zone": null,
-    "geo_enabled": true,
-    "verified": true,
-    "statuses_count": 70519,
-    "lang": null,
-    "contributors_enabled": false,
-    "is_translator": false,
-    "is_translation_enabled": false,
-    "profile_background_color": "FFFFFF",
-    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1151488812239020032/W7DI3qKd_normal.png",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151488812239020032/W7DI3qKd_normal.png",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/14886375/1563371327",
-    "profile_link_color": "40576F",
-    "profile_sidebar_border_color": "DDDDDD",
-    "profile_sidebar_fill_color": "EEEEEE",
-    "profile_text_color": "171717",
-    "profile_use_background_image": false,
-    "has_extended_profile": false,
-    "default_profile": false,
-    "default_profile_image": false,
-    "following": true,
-    "follow_request_sent": false,
-    "notifications": false,
-    "translator_type": "none",
-    "withheld_in_countries": []
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151488812239020032/W7DI3qKd_normal.png"
   },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
-  "is_quote_status": false,
   "retweet_count": 54,
   "favorite_count": 248,
-  "favorited": false,
-  "retweeted": false,
   "possibly_sensitive": false,
-  "lang": "en",
   "original_created_at": "Wed May 12 20:02:33 +0000 2021",
   "localize": [
     {

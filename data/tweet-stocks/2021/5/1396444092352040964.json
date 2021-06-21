@@ -1,9 +1,7 @@
 {
   "created_at": "Wed May 26 17:52:32 +0000 2021",
-  "id": 1396444092352041000,
   "id_str": "1396444092352040964",
   "full_text": "New covid-19 cases in the US are now down 90% from their peak in January, lowest levels since last June. 🙏 https://t.co/vJ3U0giFNN",
-  "truncated": false,
   "display_text_range": [
     0,
     106
@@ -52,137 +50,15 @@
       }
     ]
   },
-  "extended_entities": {
-    "media": [
-      {
-        "id": 1396444061767241700,
-        "id_str": "1396444061767241730",
-        "indices": [
-          107,
-          130
-        ],
-        "media_url": "http://pbs.twimg.com/media/E2EqebpXEAIydDd.png",
-        "media_url_https": "https://pbs.twimg.com/media/E2EqebpXEAIydDd.png",
-        "url": "https://t.co/vJ3U0giFNN",
-        "display_url": "pic.twitter.com/vJ3U0giFNN",
-        "expanded_url": "https://twitter.com/charliebilello/status/1396444092352040964/photo/1",
-        "type": "photo",
-        "sizes": {
-          "small": {
-            "w": 680,
-            "h": 418,
-            "resize": "fit"
-          },
-          "medium": {
-            "w": 732,
-            "h": 450,
-            "resize": "fit"
-          },
-          "large": {
-            "w": 732,
-            "h": 450,
-            "resize": "fit"
-          },
-          "thumb": {
-            "w": 150,
-            "h": 150,
-            "resize": "crop"
-          }
-        }
-      }
-    ]
-  },
-  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
   "user": {
-    "id": 1413027896,
-    "id_str": "1413027896",
     "name": "Charlie Bilello",
     "screen_name": "charliebilello",
-    "location": "Join free newsletter here...",
-    "description": "Founder and CEO of Compound Capital Advisors. Sharing ideas that compound over time. https://t.co/1zNIPqZdEH",
-    "url": "https://t.co/1zNIPqZdEH",
-    "entities": {
-      "url": {
-        "urls": [
-          {
-            "url": "https://t.co/1zNIPqZdEH",
-            "expanded_url": "https://compoundadvisors.com/newsletter",
-            "display_url": "compoundadvisors.com/newsletter",
-            "indices": [
-              0,
-              23
-            ]
-          }
-        ]
-      },
-      "description": {
-        "urls": [
-          {
-            "url": "https://t.co/1zNIPqZdEH",
-            "expanded_url": "https://compoundadvisors.com/newsletter",
-            "display_url": "compoundadvisors.com/newsletter",
-            "indices": [
-              85,
-              108
-            ]
-          }
-        ]
-      }
-    },
-    "protected": false,
-    "followers_count": 272210,
-    "friends_count": 113,
-    "listed_count": 5575,
-    "created_at": "Wed May 08 14:41:31 +0000 2013",
-    "favourites_count": 2488,
-    "utc_offset": null,
-    "time_zone": null,
-    "geo_enabled": false,
-    "verified": true,
-    "statuses_count": 21915,
-    "lang": null,
-    "contributors_enabled": false,
-    "is_translator": false,
-    "is_translation_enabled": false,
-    "profile_background_color": "050505",
-    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1207655488168574976/N0sQdj76_normal.png",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1207655488168574976/N0sQdj76_normal.png",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1413027896/1576780572",
-    "profile_link_color": "061014",
-    "profile_sidebar_border_color": "FFFFFF",
-    "profile_sidebar_fill_color": "DDEEF6",
-    "profile_text_color": "333333",
-    "profile_use_background_image": true,
-    "has_extended_profile": false,
-    "default_profile": false,
-    "default_profile_image": false,
-    "following": true,
-    "follow_request_sent": false,
-    "notifications": false,
-    "translator_type": "none",
-    "withheld_in_countries": []
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1207655488168574976/N0sQdj76_normal.png"
   },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
-  "is_quote_status": false,
   "retweet_count": 35,
   "favorite_count": 232,
-  "favorited": false,
-  "retweeted": false,
   "possibly_sensitive": false,
-  "lang": "en",
   "original_created_at": "Sun May 23 12:33:10 +0000 2021",
-  "source_updated_at": 1622197393335,
   "localize": [
     {
       "locale": "ja",
@@ -196,5 +72,6 @@
       "locale": "zh-Hant",
       "full_text": "美國新的covid-19病例現在比1月份的峯值下降了90%，是去年6月以來的最低水平。🙏https://t.co/vJ3U0giFNN"
     }
-  ]
+  ],
+  "source_updated_at": 1622197393335
 }

@@ -4,14 +4,7 @@
   "url": "http://pile.eleuther.ai/",
   "author": "leogao",
   "points": 221,
-  "story_text": null,
-  "comment_text": null,
   "num_comments": 37,
-  "story_id": null,
-  "story_title": null,
-  "story_url": null,
-  "parent_id": null,
-  "created_at_i": 1609539572,
   "_tags": [
     "story",
     "author_leogao",
@@ -19,25 +12,7 @@
     "front_page"
   ],
   "objectID": "25607809",
-  "_highlightResult": {
-    "title": {
-      "value": "The Pile: An 800GB Dataset of Diverse Text for Language Modeling",
-      "matchLevel": "none",
-      "matchedWords": []
-    },
-    "url": {
-      "value": "http://pile.eleuther.ai/",
-      "matchLevel": "none",
-      "matchedWords": []
-    },
-    "author": {
-      "value": "leogao",
-      "matchLevel": "none",
-      "matchedWords": []
-    }
-  },
   "original_created_at": "2021-01-01T22:19:32.000Z",
-  "image": "https://pile.eleuther.ai/logo.png",
   "localize": [
     {
       "locale": "zh",
@@ -48,5 +23,6 @@
       "title": "堆：用於語言建模的800 GB不同文本的數據集"
     }
   ],
-  "source_updated_at": 1610100761123
+  "source_updated_at": 1610100761123,
+  "image": "https://pile.eleuther.ai/logo.png"
 }

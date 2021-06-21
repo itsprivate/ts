@@ -1,9 +1,7 @@
 {
   "created_at": "Thu Mar 18 10:48:17 +0000 2021",
-  "id": 1372476633114873900,
   "id_str": "1372476633114873857",
   "full_text": "After almost 20 years of war with America, the Taliban control ever more territory in Afghanistan. Why has America failed to defeat them? https://t.co/I6ErLoGzgw https://t.co/CltCuBQMw1",
-  "truncated": false,
   "display_text_range": [
     0,
     161
@@ -62,165 +60,14 @@
       }
     ]
   },
-  "extended_entities": {
-    "media": [
-      {
-        "id": 1371491742965452800,
-        "id_str": "1371491742965452805",
-        "indices": [
-          162,
-          185
-        ],
-        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1371491742965452805/img/ch2ti9Tjs2Xo25z1.jpg",
-        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1371491742965452805/img/ch2ti9Tjs2Xo25z1.jpg",
-        "url": "https://t.co/CltCuBQMw1",
-        "display_url": "pic.twitter.com/CltCuBQMw1",
-        "expanded_url": "https://twitter.com/TheEconomist/status/1372476633114873857/video/1",
-        "type": "video",
-        "sizes": {
-          "thumb": {
-            "w": 150,
-            "h": 150,
-            "resize": "crop"
-          },
-          "medium": {
-            "w": 1200,
-            "h": 675,
-            "resize": "fit"
-          },
-          "small": {
-            "w": 680,
-            "h": 383,
-            "resize": "fit"
-          },
-          "large": {
-            "w": 1280,
-            "h": 720,
-            "resize": "fit"
-          }
-        },
-        "video_info": {
-          "aspect_ratio": [
-            16,
-            9
-          ],
-          "duration_millis": 373280,
-          "variants": [
-            {
-              "bitrate": 2176000,
-              "content_type": "video/mp4",
-              "url": "https://video.twimg.com/amplify_video/1371491742965452805/vid/1280x720/4M2l6TJJb6MopDHi.mp4?tag=14"
-            },
-            {
-              "content_type": "application/x-mpegURL",
-              "url": "https://video.twimg.com/amplify_video/1371491742965452805/pl/TOu7eu6YqNZUhfQv.m3u8?tag=14"
-            },
-            {
-              "bitrate": 832000,
-              "content_type": "video/mp4",
-              "url": "https://video.twimg.com/amplify_video/1371491742965452805/vid/640x360/iCu9vSZL4bqULGhV.mp4?tag=14"
-            },
-            {
-              "bitrate": 288000,
-              "content_type": "video/mp4",
-              "url": "https://video.twimg.com/amplify_video/1371491742965452805/vid/480x270/yU2H9vT0a2w2GwGn.mp4?tag=14"
-            }
-          ]
-        },
-        "additional_media_info": {
-          "monetizable": false
-        }
-      }
-    ]
-  },
-  "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
   "user": {
-    "id": 5988062,
-    "id_str": "5988062",
     "name": "The Economist",
     "screen_name": "TheEconomist",
-    "location": "London",
-    "description": "News and analysis with a global perspective. Subscribe here: https://t.co/KCCoA2WEZ7",
-    "url": "https://t.co/pN0OAmG4SP",
-    "entities": {
-      "url": {
-        "urls": [
-          {
-            "url": "https://t.co/pN0OAmG4SP",
-            "expanded_url": "http://www.economist.com",
-            "display_url": "economist.com",
-            "indices": [
-              0,
-              23
-            ]
-          }
-        ]
-      },
-      "description": {
-        "urls": [
-          {
-            "url": "https://t.co/KCCoA2WEZ7",
-            "expanded_url": "http://econ.st/3lg3vlb",
-            "display_url": "econ.st/3lg3vlb",
-            "indices": [
-              61,
-              84
-            ]
-          }
-        ]
-      }
-    },
-    "protected": false,
-    "followers_count": 25559771,
-    "friends_count": 130,
-    "listed_count": 116222,
-    "created_at": "Sat May 12 13:04:50 +0000 2007",
-    "favourites_count": 150,
-    "utc_offset": null,
-    "time_zone": null,
-    "geo_enabled": false,
-    "verified": true,
-    "statuses_count": 252274,
-    "lang": null,
-    "contributors_enabled": false,
-    "is_translator": false,
-    "is_translation_enabled": true,
-    "profile_background_color": "DFDFDF",
-    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_tile": true,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/879361767914262528/HdRauDM-_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/879361767914262528/HdRauDM-_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/5988062/1615471899",
-    "profile_link_color": "E3120B",
-    "profile_sidebar_border_color": "FFFFFF",
-    "profile_sidebar_fill_color": "DDEEF6",
-    "profile_text_color": "2C2E2D",
-    "profile_use_background_image": true,
-    "has_extended_profile": false,
-    "default_profile": false,
-    "default_profile_image": false,
-    "following": true,
-    "follow_request_sent": false,
-    "notifications": false,
-    "translator_type": "none"
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/879361767914262528/HdRauDM-_normal.jpg"
   },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
-  "is_quote_status": false,
   "retweet_count": 33,
   "favorite_count": 85,
-  "favorited": false,
-  "retweeted": false,
   "possibly_sensitive": false,
-  "lang": "en",
   "original_created_at": "Thu Mar 18 09:15:03 +0000 2021",
   "localize": [
     {

@@ -4,14 +4,7 @@
   "url": null,
   "author": "kevsim",
   "points": 266,
-  "story_text": "Hi HN! We’re Kevin and Sigurd (SigKill9), the founders of Kitemaker (<a href=\"https:&#x2F;&#x2F;kitemaker.co\" rel=\"nofollow\">https:&#x2F;&#x2F;kitemaker.co</a>). We&#x27;ve been working on building a tool to replace typical issue trackers for remote teams and we&#x27;re excited to share it with you.<p>We made Kitemaker because in our previous jobs, we were managing distributed teams and we always had a bunch of challenges with the tools we used. It was really hard to find a tool that the whole team was comfortable using. Designers were never happy using GitHub Issues, engineers were never happy using Trello, and no one was happy using Jira. We would often hear grumbles from the team that we used these tools because they were &quot;good for the managers&quot;, but as the managers we were completely unhappy with the tools too! We had to bug people just to get them to go into the tool and update things.<p>Even more of a bummer was the fact that these tools didn&#x27;t really help us solve the core problems we had working in a distributed team. Things like the fact that discussions often started before anything reached the issue tracker, spread out across a maze of Google docs and slack discussions that often resulted in (at best) a giant mess or (at worst) critical people missing discussions. Or that engineering would have a tough time keeping track of the never ending flow of new designs from our designers. Or PRs that would be created and rot while waiting for someone to review them.<p>So we built Kitemaker to try and scratch our own itch - to be a tool that can help manage the development process from end to end and connect to all of the other great tools teams use every day. One of our top goals is to make Kitemaker a tool you actually want to use, whether you&#x27;re a developer, PM or designer. It&#x27;s flexible without having a lot of fiddly configuration. It&#x27;s really snappy, you can do everything without lifting your hands off off the keyboard (Superhuman was a big influence for us), and our editor supports markdown and a bunch of different elements (images, Loom videos, Figma designs, code blocks, etc.). The editor is built with SlateJS in case anyone&#x27;s curious.<p>Remote teams tend to rely a lot more on written communication, so we made Kitemaker to be a place to gather things that would otherwise be spread across documents and chat threads. Our work items are rich documents where teams can document their plans, break down their work into individual tasks, and have discussions in Slack-like comment threads.<p>Finally, we wanted to hook into the other tools our teams used every day and connect activities happening in those tools back to the work items in Kitemaker. Our GitHub integration provides the same kind of functionality that you get from using GitHub issues (GitLab is on the way too!). Our Slack and Discord integrations make it easy to link chat conversations to work items so you don&#x27;t lose things in your chat history, as well as providing access to a lot of Kitemaker&#x27;s functionality right from your chat app.<p>We also have a freshly-launched GraphQL API. It&#x27;s early days but we&#x27;d love for people to kick the tires and see how it feels. It has webhook support via Diahooks (that was launched here on HN the other day).<p>The two of us have been working tirelessly on Kitemaker and we&#x27;re really excited to share it with all of you. Head over to <a href=\"https:&#x2F;&#x2F;kitemaker.co\" rel=\"nofollow\">https:&#x2F;&#x2F;kitemaker.co</a> to sign up and try it out. We&#x27;re hanging out here all day and would love to hear your feedback, questions and cool ideas!",
-  "comment_text": null,
   "num_comments": 65,
-  "story_id": null,
-  "story_title": null,
-  "story_url": null,
-  "parent_id": null,
-  "created_at_i": 1616420714,
   "_tags": [
     "story",
     "author_kevsim",
@@ -19,25 +12,7 @@
     "front_page"
   ],
   "objectID": "26540692",
-  "_highlightResult": {
-    "title": {
-      "value": "Launch HN: Kitemaker (YC W21) – Fast alternative to Jira, built for remote teams",
-      "matchLevel": "none",
-      "matchedWords": []
-    },
-    "author": {
-      "value": "kevsim",
-      "matchLevel": "none",
-      "matchedWords": []
-    },
-    "story_text": {
-      "value": "Hi HN! We’re Kevin and Sigurd (SigKill9), the founders of Kitemaker (<a href=\"https://kitemaker.co\" rel=\"nofollow\">https://kitemaker.co</a>). We've been working on building a tool to replace typical issue trackers for remote teams and we're excited to share it with you.<p>We made Kitemaker because in our previous jobs, we were managing distributed teams and we always had a bunch of challenges with the tools we used. It was really hard to find a tool that the whole team was comfortable using. Designers were never happy using GitHub Issues, engineers were never happy using Trello, and no one was happy using Jira. We would often hear grumbles from the team that we used these tools because they were &quot;good for the managers&quot;, but as the managers we were completely unhappy with the tools too! We had to bug people just to get them to go into the tool and update things.<p>Even more of a bummer was the fact that these tools didn't really help us solve the core problems we had working in a distributed team. Things like the fact that discussions often started before anything reached the issue tracker, spread out across a maze of Google docs and slack discussions that often resulted in (at best) a giant mess or (at worst) critical people missing discussions. Or that engineering would have a tough time keeping track of the never ending flow of new designs from our designers. Or PRs that would be created and rot while waiting for someone to review them.<p>So we built Kitemaker to try and scratch our own itch - to be a tool that can help manage the development process from end to end and connect to all of the other great tools teams use every day. One of our top goals is to make Kitemaker a tool you actually want to use, whether you're a developer, PM or designer. It's flexible without having a lot of fiddly configuration. It's really snappy, you can do everything without lifting your hands off off the keyboard (Superhuman was a big influence for us), and our editor supports markdown and a bunch of different elements (images, Loom videos, Figma designs, code blocks, etc.). The editor is built with SlateJS in case anyone's curious.<p>Remote teams tend to rely a lot more on written communication, so we made Kitemaker to be a place to gather things that would otherwise be spread across documents and chat threads. Our work items are rich documents where teams can document their plans, break down their work into individual tasks, and have discussions in Slack-like comment threads.<p>Finally, we wanted to hook into the other tools our teams used every day and connect activities happening in those tools back to the work items in Kitemaker. Our GitHub integration provides the same kind of functionality that you get from using GitHub issues (GitLab is on the way too!). Our Slack and Discord integrations make it easy to link chat conversations to work items so you don't lose things in your chat history, as well as providing access to a lot of Kitemaker's functionality right from your chat app.<p>We also have a freshly-launched GraphQL API. It's early days but we'd love for people to kick the tires and see how it feels. It has webhook support via Diahooks (that was launched here on HN the other day).<p>The two of us have been working tirelessly on Kitemaker and we're really excited to share it with all of you. Head over to <a href=\"https://kitemaker.co\" rel=\"nofollow\">https://kitemaker.co</a> to sign up and try it out. We're hanging out here all day and would love to hear your feedback, questions and cool ideas!",
-      "matchLevel": "none",
-      "matchedWords": []
-    }
-  },
   "original_created_at": "2021-03-22T13:45:14.000Z",
-  "image": "",
   "localize": [
     {
       "locale": "zh",
@@ -48,5 +23,6 @@
       "title": "啓動HN：Kitemaker（YC W21）--Jira的快速替代方案，專爲遠程團隊而建。"
     }
   ],
-  "source_updated_at": 1616752836423
+  "source_updated_at": 1616752836423,
+  "image": ""
 }

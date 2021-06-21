@@ -1,9 +1,7 @@
 {
   "created_at": "Sun Mar 28 22:35:56 +0000 2021",
-  "id": 1376300840311525400,
   "id_str": "1376300840311525379",
   "full_text": "RT @ChartsBtc: #bitcoin linear scale by epoch - Each epoch scale is 20x the prior one\n\n1st draft - feedback welcome https://t.co/Bu5i8Z3QIr",
-  "truncated": false,
   "display_text_range": [
     0,
     139
@@ -75,127 +73,32 @@
       }
     ]
   },
-  "extended_entities": {
-    "media": [
-      {
-        "id": 1376264593119404000,
-        "id_str": "1376264593119404033",
-        "indices": [
-          116,
-          139
-        ],
-        "media_url": "http://pbs.twimg.com/media/Exl5Ww3UYAEskSw.jpg",
-        "media_url_https": "https://pbs.twimg.com/media/Exl5Ww3UYAEskSw.jpg",
-        "url": "https://t.co/Bu5i8Z3QIr",
-        "display_url": "pic.twitter.com/Bu5i8Z3QIr",
-        "expanded_url": "https://twitter.com/ChartsBtc/status/1376265659286347776/photo/1",
-        "type": "photo",
-        "sizes": {
-          "small": {
-            "w": 680,
-            "h": 383,
-            "resize": "fit"
-          },
-          "thumb": {
-            "w": 150,
-            "h": 150,
-            "resize": "crop"
-          },
-          "large": {
-            "w": 1200,
-            "h": 675,
-            "resize": "fit"
-          },
-          "medium": {
-            "w": 1200,
-            "h": 675,
-            "resize": "fit"
-          }
-        },
-        "source_status_id": 1376265659286347800,
-        "source_status_id_str": "1376265659286347776",
-        "source_user_id": 997524641664061400,
-        "source_user_id_str": "997524641664061440"
-      }
-    ]
-  },
-  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
   "user": {
-    "id": 918804624303382500,
-    "id_str": "918804624303382528",
     "name": "PlanB",
     "screen_name": "100trillionUSD",
-    "location": "NOT FINANCIAL ADVICE",
-    "description": "#bitcoin\n1PRoNLcWHzM8DuKpGE4YM9hb1PjSEnWRpn",
-    "url": "https://t.co/5Y254ILwhC",
-    "entities": {
-      "url": {
-        "urls": [
-          {
-            "url": "https://t.co/5Y254ILwhC",
-            "expanded_url": "http://PlanBTC.com",
-            "display_url": "PlanBTC.com",
-            "indices": [
-              0,
-              23
-            ]
-          }
-        ]
-      },
-      "description": {
-        "urls": []
-      }
-    },
-    "protected": false,
-    "followers_count": 349863,
-    "friends_count": 207,
-    "listed_count": 4680,
-    "created_at": "Fri Oct 13 11:44:27 +0000 2017",
-    "favourites_count": 22574,
-    "utc_offset": null,
-    "time_zone": null,
-    "geo_enabled": false,
-    "verified": false,
-    "statuses_count": 6527,
-    "lang": null,
-    "contributors_enabled": false,
-    "is_translator": false,
-    "is_translation_enabled": false,
-    "profile_background_color": "F5F8FA",
-    "profile_background_image_url": null,
-    "profile_background_image_url_https": null,
-    "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1365332744990060546/0G6DqQlc_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1365332744990060546/0G6DqQlc_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/918804624303382528/1601733353",
-    "profile_link_color": "1DA1F2",
-    "profile_sidebar_border_color": "C0DEED",
-    "profile_sidebar_fill_color": "DDEEF6",
-    "profile_text_color": "333333",
-    "profile_use_background_image": true,
-    "has_extended_profile": true,
-    "default_profile": true,
-    "default_profile_image": false,
-    "following": false,
-    "follow_request_sent": false,
-    "notifications": false,
-    "translator_type": "none"
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1365332744990060546/0G6DqQlc_normal.jpg"
   },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
+  "retweet_count": 1825,
+  "favorite_count": 0,
+  "possibly_sensitive": false,
+  "original_created_at": "Sun Mar 28 22:31:05 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @ChartsBtc: #比特币线性比例按时代划分 - 每个时代的比例是前一个时代的20倍。\n\n第一稿--欢迎反馈意见https://t.co/Bu5i8Z3QIr",
+      "retweeted_status_full_text": "#比特币线性比例按纪元划分 - 每个纪元的比例是前一个纪元的20倍。\n\n第一稿--欢迎反馈意见https://t.co/Bu5i8Z3QIr"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @ChartsBtc: #比特幣線性比例按時代劃分 - 每個時代的比例是前一個時代的20倍。\n\n第一稿--歡迎反饋意見https://t.co/Bu5i8Z3QIr",
+      "retweeted_status_full_text": "#比特幣線性比例按紀元劃分 - 每個紀元的比例是前一個紀元的20倍。\n\n第一稿--歡迎反饋意見https://t.co/Bu5i8Z3QIr"
+    }
+  ],
+  "source_updated_at": 1617357153253,
   "retweeted_status": {
     "created_at": "Sun Mar 28 20:11:17 +0000 2021",
-    "id": 1376265659286347800,
     "id_str": "1376265659286347776",
     "full_text": "#bitcoin linear scale by epoch - Each epoch scale is 20x the prior one\n\n1st draft - feedback welcome https://t.co/Bu5i8Z3QIr",
-    "truncated": false,
     "display_text_range": [
       0,
       100
@@ -252,144 +155,13 @@
         }
       ]
     },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1376264593119404000,
-          "id_str": "1376264593119404033",
-          "indices": [
-            101,
-            124
-          ],
-          "media_url": "http://pbs.twimg.com/media/Exl5Ww3UYAEskSw.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/Exl5Ww3UYAEskSw.jpg",
-          "url": "https://t.co/Bu5i8Z3QIr",
-          "display_url": "pic.twitter.com/Bu5i8Z3QIr",
-          "expanded_url": "https://twitter.com/ChartsBtc/status/1376265659286347776/photo/1",
-          "type": "photo",
-          "sizes": {
-            "small": {
-              "w": 680,
-              "h": 383,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1200,
-              "h": 675,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 675,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
     "user": {
-      "id": 997524641664061400,
-      "id_str": "997524641664061440",
       "name": "ChartsBTC",
       "screen_name": "ChartsBtc",
-      "location": "",
-      "description": "A bitcoiner with a spreadsheet. Obsessed with the 4 year halving cycle. A picture is worth a thousand words. #DCA #HODL #bitcoin",
-      "url": "https://t.co/BJTWMdPdrt",
-      "entities": {
-        "url": {
-          "urls": [
-            {
-              "url": "https://t.co/BJTWMdPdrt",
-              "expanded_url": "http://tippin.me/@ChartsBtc",
-              "display_url": "tippin.me/@ChartsBtc",
-              "indices": [
-                0,
-                23
-              ]
-            }
-          ]
-        },
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 34089,
-      "friends_count": 6727,
-      "listed_count": 702,
-      "created_at": "Fri May 18 17:09:42 +0000 2018",
-      "favourites_count": 10261,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": false,
-      "verified": false,
-      "statuses_count": 4799,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "F5F8FA",
-      "profile_background_image_url": null,
-      "profile_background_image_url_https": null,
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1362597046943772675/6nTG7b5-_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1362597046943772675/6nTG7b5-_normal.jpg",
-      "profile_banner_url": "https://pbs.twimg.com/profile_banners/997524641664061440/1601056647",
-      "profile_link_color": "1DA1F2",
-      "profile_sidebar_border_color": "C0DEED",
-      "profile_sidebar_fill_color": "DDEEF6",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": false,
-      "default_profile": true,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none"
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1362597046943772675/6nTG7b5-_normal.jpg"
     },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
     "retweet_count": 353,
     "favorite_count": 1196,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
-  },
-  "is_quote_status": false,
-  "retweet_count": 1825,
-  "favorite_count": 0,
-  "favorited": false,
-  "retweeted": false,
-  "possibly_sensitive": false,
-  "lang": "en",
-  "original_created_at": "Sun Mar 28 22:31:05 +0000 2021",
-  "localize": [
-    {
-      "locale": "zh",
-      "full_text": "RT @ChartsBtc: #比特币线性比例按时代划分 - 每个时代的比例是前一个时代的20倍。\n\n第一稿--欢迎反馈意见https://t.co/Bu5i8Z3QIr",
-      "retweeted_status_full_text": "#比特币线性比例按纪元划分 - 每个纪元的比例是前一个纪元的20倍。\n\n第一稿--欢迎反馈意见https://t.co/Bu5i8Z3QIr"
-    },
-    {
-      "locale": "zh-Hant",
-      "full_text": "RT @ChartsBtc: #比特幣線性比例按時代劃分 - 每個時代的比例是前一個時代的20倍。\n\n第一稿--歡迎反饋意見https://t.co/Bu5i8Z3QIr",
-      "retweeted_status_full_text": "#比特幣線性比例按紀元劃分 - 每個紀元的比例是前一個紀元的20倍。\n\n第一稿--歡迎反饋意見https://t.co/Bu5i8Z3QIr"
-    }
-  ],
-  "source_updated_at": 1617357153253
+    "possibly_sensitive": false
+  }
 }

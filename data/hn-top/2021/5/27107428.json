@@ -4,14 +4,7 @@
   "url": "https://django-sql-dashboard.datasette.io/en/latest/",
   "author": "simonw",
   "points": 203,
-  "story_text": null,
-  "comment_text": null,
   "num_comments": 21,
-  "story_id": null,
-  "story_title": null,
-  "story_url": null,
-  "parent_id": null,
-  "created_at_i": 1620662034,
   "_tags": [
     "story",
     "author_simonw",
@@ -20,25 +13,7 @@
     "front_page"
   ],
   "objectID": "27107428",
-  "_highlightResult": {
-    "title": {
-      "value": "Show HN: Django SQL Dashboard",
-      "matchLevel": "none",
-      "matchedWords": []
-    },
-    "url": {
-      "value": "https://django-sql-dashboard.datasette.io/en/latest/",
-      "matchLevel": "none",
-      "matchedWords": []
-    },
-    "author": {
-      "value": "simonw",
-      "matchLevel": "none",
-      "matchedWords": []
-    }
-  },
   "original_created_at": "2021-05-10T15:53:54.000Z",
-  "image": "https://img.shields.io/pypi/v/django-sql-dashboard.svg",
   "localize": [
     {
       "locale": "ja",
@@ -53,5 +28,6 @@
       "title": "顯示HN：Django SQL儀表板"
     }
   ],
-  "source_updated_at": 1620986002154
+  "source_updated_at": 1620986002154,
+  "image": "https://img.shields.io/pypi/v/django-sql-dashboard.svg"
 }
