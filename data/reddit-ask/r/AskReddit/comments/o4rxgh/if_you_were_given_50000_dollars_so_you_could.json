@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、夢を追いかけるために5万円が与えられるとしたら、どんな夢を追いかけますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果给你5万美元，让你去追逐你的梦想，你会去追逐什么梦想？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果給你5萬美元，讓你去追逐你的夢想，你會去追逐什麼夢想？"
+    }
+  ]
 }
