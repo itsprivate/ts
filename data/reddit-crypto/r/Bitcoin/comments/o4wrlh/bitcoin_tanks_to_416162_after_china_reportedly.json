@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "中国が暗号通貨取引所を禁止したと報じられたビットコインが4,161.62ドルに暴落 2017年9月11日"
+    },
+    {
+      "locale": "zh",
+      "title": "据报道，中国禁止加密货币交易后，比特币跌至4161.62美元 2017年9月11日。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "據報道，中國禁止加密貨幣交易後，比特幣跌至4161.62美元 2017年9月11日。"
+    }
+  ]
 }
