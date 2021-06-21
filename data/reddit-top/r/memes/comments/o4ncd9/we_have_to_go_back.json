@@ -91,5 +91,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "戻らなければなりません。"
+    },
+    {
+      "locale": "zh",
+      "title": "我们必须回去。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們必須回去。"
+    }
+  ]
 }
