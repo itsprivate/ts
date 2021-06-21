@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Coinbaseユーザーの60%以上が、暗号をフィアットに変換するのではなく、小売商品の購入に使用したいと考えています。"
+    },
+    {
+      "locale": "zh",
+      "title": "超过60%的Coinbase用户不想将他们的加密货币兑换成法币，而是用它来购买零售商品"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "超過60%的Coinbase用戶不想將他們的加密貨幣兌換成法幣，而是用它來購買零售商品"
+    }
+  ]
 }
