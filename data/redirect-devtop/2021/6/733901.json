@@ -43,5 +43,22 @@
   "original_created_at": "2021-06-20T18:31:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XbCXZlnb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kf6lfpdk14pxexi77axq.png",
   "author": "Pritam Patil",
-  "author_url": "https://dev.to/pritampatil"
+  "author_url": "https://dev.to/pritampatil",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "セレクタをグループ化するときは、個々のセレクタを1行にまとめてください。プロパティ値の前には...",
+      "title": "12 CSS Best Practices by Twitter"
+    },
+    {
+      "locale": "zh",
+      "description": "当分组选择器时，将单个选择器保持在一行中。不要给属性值加前缀...",
+      "title": "Twitter的12项CSS最佳实践"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當分組選擇器時，將單個選擇器保持在一行中。不要給屬性值加前綴...",
+      "title": "Twitter的12項CSS最佳實踐"
+    }
+  ]
 }
