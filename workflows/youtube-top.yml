@@ -8,8 +8,6 @@ on:
       outputsMode: combine
       exportOutputs: true
       format: |
-        const format = require(`${process.env.GITHUB_WORKSPACE}/scripts/format.js`)
-        item = format("tweet",item)
         function findHashtags(searchText) {
           searchText = searchText || '';
           const regexp = /\B\#\w\w+\b/g;
