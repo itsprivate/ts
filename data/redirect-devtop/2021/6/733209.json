@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-19T18:18:59Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_USboWgD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zsmr2ypi9bnxe3xllwe8.png",
   "author": "Matvey Romanov",
-  "author_url": "https://dev.to/ra1nbow1"
+  "author_url": "https://dev.to/ra1nbow1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、CSSファイルの読み込みが遅くなる問題についての記事を目にしました...",
+      "title": "CSS、JavaScript、ブロッキングによるWebページの解析"
+    },
+    {
+      "locale": "zh",
+      "description": "最近，我看到一篇关于加载CSS文件的问题的文章，它减慢了...",
+      "title": "CSS、JavaScript和阻断网页解析"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "最近，我看到一篇關於加載CSS文件的問題的文章，它減慢了...",
+      "title": "CSS、JavaScript和阻斷網頁解析"
+    }
+  ]
 }
