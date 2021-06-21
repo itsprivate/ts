@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "redditの投稿のうち、少なくとも90％は捏造や誇張されたものだと感じたことはありませんか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你有没有感觉到，reddit上至少有90%的帖子是假的或经过修饰的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你有沒有感覺到，reddit上至少有90%的帖子是假的或經過修飾的？"
+    }
+  ]
 }

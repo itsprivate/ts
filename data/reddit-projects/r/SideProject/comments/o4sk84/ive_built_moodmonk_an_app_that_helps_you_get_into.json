@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私はMoodmonkというアプリを作りました。毎日のリフレクション、ポジティブなアファメーション、そして何百ものエクササイズでポジティブな気分になることができるアプリです iOS版は現在公開中です：moodmonk.app"
+    },
+    {
+      "locale": "zh",
+      "title": "我建立了Moodmonk，这是一个帮助你进入积极情绪的应用程序，每天都有反思、积极的肯定和数以百计的练习! 现在可用于iOS：moodmonk.app"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我建立了Moodmonk，這是一個幫助你進入積極情緒的應用程序，每天都有反思、積極的肯定和數以百計的練習! 現在可用於iOS：moodmonk.app"
+    }
+  ]
 }

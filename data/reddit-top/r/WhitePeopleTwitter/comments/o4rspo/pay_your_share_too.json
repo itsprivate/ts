@@ -42,5 +42,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "自分の分も払う"
+    },
+    {
+      "locale": "zh",
+      "title": "也支付你的份额"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "也支付你的份額"
+    }
+  ]
 }
