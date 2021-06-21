@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-12T04:29:18Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--A1lr_ED0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mwpnd4ztvt2yme2zyipl.jpg",
   "author": "Dhaiwat Pandya",
-  "author_url": "https://dev.to/dhaiwat10"
+  "author_url": "https://dev.to/dhaiwat10",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "フロントエンドのコードを簡単に書くことができます。しかし、信頼できるフロントエンドコードを書くのは それは大変なことです。 最近のUIは...",
+      "title": "Reactコンポーネントを分離して開発・テスト"
+    },
+    {
+      "locale": "zh",
+      "description": "编写前端代码很容易。但编写可靠的前端代码？那就很难了。 现代UI是...",
+      "title": "孤立地开发和测试React组件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "編寫前端代碼很容易。但編寫可靠的前端代碼？那就很難了。 現代UI是...",
+      "title": "孤立地開發和測試React組件"
+    }
+  ]
 }
