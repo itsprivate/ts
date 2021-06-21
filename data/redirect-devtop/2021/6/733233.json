@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-19T19:55:26Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0c19Pz8---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ni236wf7zxr2a78ppjwm.png",
   "author": "Mukul Jain",
-  "author_url": "https://dev.to/mukuljainx"
+  "author_url": "https://dev.to/mukuljainx",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "OSクローンとしてオンラインのポートフォリオを構築しようと考えていたのですが、私の考えでは...。",
+      "title": "マイクロフロントエンド。マイクロアプリを搭載した Windows クローン"
+    },
+    {
+      "locale": "zh",
+      "description": "我正计划建立一个在线投资组合，作为操作系统的克隆，我的想法是把它建成一个投资组合...",
+      "title": "微型前端。带有微型应用程序的Windows克隆"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我正計劃建立一個在線投資組合，作爲操作系統的克隆，我的想法是把它建成一個投資組合...",
+      "title": "微型前端。帶有微型應用程序的Windows克隆"
+    }
+  ]
 }
