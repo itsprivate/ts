@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-21T02:24:39Z",
   "image": "https://dev.to/social_previews/article/734102.png",
   "author": "SilvenLEAF",
-  "author_url": "https://dev.to/silvenleaf"
+  "author_url": "https://dev.to/silvenleaf",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TypeScript BackENDプロジェクトをどうやって作るか悩んでいる方、恐れないでください、私の勇敢な騎士よ。その方法とは...",
+      "title": "ExpressJSで最も簡単にTypeScriptプロジェクトを作成する方法とは？"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你想知道如何创建一个TypeScript BackEND项目，不要害怕，我勇敢的骑士。它的方式...",
+      "title": "如何用ExpressJS创建一个最简单的TypeScript项目！？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你想知道如何創建一個TypeScript BackEND項目，不要害怕，我勇敢的騎士。它的方式...",
+      "title": "如何用ExpressJS創建一個最簡單的TypeScript項目！？"
+    }
+  ]
 }
