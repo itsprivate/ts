@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Short answer- because they can’t."
+  "the_new_excerpt": "Short answer- because they can’t.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "簡単に言うと、「できないから」です。",
+      "title": "なぜ中国は、フェイスブックやグーグルを一度禁止するだけで済んだのに、毎年のようにビットコインを「禁止」しなければならないのか...。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "简短的回答--因为他们不能。",
+      "title": "为什么中国只需要禁止Facebook和谷歌一次，但它似乎每年都要再次 \"禁止 \"比特币..."
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "簡短的回答--因爲他們不能。",
+      "title": "爲什麼中國只需要禁止Facebook和谷歌一次，但它似乎每年都要再次 \"禁止 \"比特幣..."
+    }
+  ]
 }
