@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Most Interviews seemingly take place during normal work hours, so what do you do\nif you're already working during normal work hours?"
+  "the_new_excerpt": "Most Interviews seemingly take place during normal work hours, so what do you do\nif you're already working during normal work hours?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ほとんどのインタビューは通常の勤務時間中に行われるようですが、すでに通常の勤務時間中に仕事をしている場合はどうすればいいのでしょうか？\n通常の仕事をしている人はどうするの？",
+      "title": "すでに仕事を持っているのに、どうやって別の仕事の面接をするのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "大多数面试似乎是在正常工作时间内进行的，那么，如果你已经在正常工作时间内工作，你该怎么做？\n如果你已经在正常工作时间内工作了，你该怎么办？",
+      "title": "当你已经有一份工作时，你该如何面试另一份工作？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "大多數面試似乎是在正常工作時間內進行的，那麼，如果你已經在正常工作時間內工作，你該怎麼做？\n如果你已經在正常工作時間內工作了，你該怎麼辦？",
+      "title": "當你已經有一份工作時，你該如何面試另一份工作？"
+    }
+  ]
 }
