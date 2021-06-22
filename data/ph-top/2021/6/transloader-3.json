@@ -111,5 +111,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-21T13:16:43Z"
+  "original_createdAt": "2021-06-21T13:16:43Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Macで何かをダウンロードしたいが、手の届かないところにあるのでは？問題ありません。Transloaderを使えば、どこにいても、iPhone、iPad、その他のMacからMacへのダウンロードを割り当てることができます。",
+      "tagline": "あなたのMacで、他のデバイスからリモートでダウンロード開始"
+    },
+    {
+      "locale": "zh",
+      "description": "你想在你的Mac上下载一些东西，但它不在你手中？没问题。有了Transloader，你可以从你的iPhone、iPad和其他Mac指定下载，无论你在哪里。",
+      "tagline": "在你的Mac上开始下载，从其他设备上远程下载"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你想在你的Mac上下載一些東西，但它不在你手中？沒問題。有了Transloader，你可以從你的iPhone、iPad和其他Mac指定下載，無論你在哪裏。",
+      "tagline": "在你的Mac上開始下載，從其他設備上遠程下載"
+    }
+  ]
 }
