@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-21T14:04:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zJoSpqxl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6pb5le1v2qwwpojjbvlk.png",
   "author": "Ponikar",
-  "author_url": "https://dev.to/ponikar"
+  "author_url": "https://dev.to/ponikar",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに こんにちは、Darshan Ponikarです。今日は、...",
+      "title": "TypeScriptの紹介"
+    },
+    {
+      "locale": "zh",
+      "description": "简介：大家好，我是Darshan Ponikar，今天我们要谈的是...",
+      "title": "TypeScript简介"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介：大家好，我是Darshan Ponikar，今天我們要談的是...",
+      "title": "TypeScript簡介"
+    }
+  ]
 }
