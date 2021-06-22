@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "テスラがWiFiのように空気中に電気を流すことを目指していたのなら、技術が進歩した今、なぜそれができないのか。"
+    },
+    {
+      "locale": "zh",
+      "title": "如果特斯拉走的是让电力通过空气传导的道路，就像WiFi一样，既然技术如此发达，为什么我们现在不能做到呢？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果特斯拉走的是讓電力通過空氣傳導的道路，就像WiFi一樣，既然技術如此發達，爲什麼我們現在不能做到呢？"
+    }
+  ]
 }
