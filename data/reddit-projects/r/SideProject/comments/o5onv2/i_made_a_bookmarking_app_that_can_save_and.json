@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "技術関連の一口サイズの学習リソースを保存・発見できるブックマークアプリを作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个书签应用，可以保存和发现与科技相关的点状学习资源。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個書籤應用，可以保存和發現與科技相關的點狀學習資源。"
+    }
+  ]
 }

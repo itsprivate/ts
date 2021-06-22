@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私の目標はあなたの理解を超えている"
+    },
+    {
+      "locale": "zh",
+      "title": "我的目标是你无法理解的"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我的目標是你無法理解的"
+    }
+  ]
 }
