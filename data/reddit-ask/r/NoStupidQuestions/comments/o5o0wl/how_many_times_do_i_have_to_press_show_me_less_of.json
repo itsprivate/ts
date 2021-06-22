@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "その生放送で、何度「これより少ないものを表示」を押すと、見えなくなるのか？"
+    },
+    {
+      "locale": "zh",
+      "title": "在那些直播中，我得按多少次 \"少给我看这个\"，直到我不再看到它们？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在那些直播中，我得按多少次 \"少給我看這個\"，直到我不再看到它們？"
+    }
+  ]
 }

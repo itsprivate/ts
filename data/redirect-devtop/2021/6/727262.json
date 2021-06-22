@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-13T19:08:18Z",
   "image": "https://dev.to/social_previews/article/727262.png",
   "author": "Stas Melnikov",
-  "author_url": "https://dev.to/melnik909"
+  "author_url": "https://dev.to/melnik909",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "type属性 カスタムクラスを作成する際には、余分なクラスを使用する習慣があります。",
+      "title": "CSSを削減するHTML属性 "
+    },
+    {
+      "locale": "zh",
+      "description": "类型属性 有一种做法是，当我们创建了一个自定义的 \"类型 \"时，使用额外的类。",
+      "title": "可以减少你的CSS的HTML属性 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "類型屬性 有一種做法是，當我們創建了一個自定義的 \"類型 \"時，使用額外的類。",
+      "title": "可以減少你的CSS的HTML屬性 "
+    }
+  ]
 }
