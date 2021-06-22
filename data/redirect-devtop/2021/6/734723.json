@@ -41,5 +41,22 @@
   "original_created_at": "2021-06-21T14:51:01Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UsASuA2L--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9tsy1jvndyoozpqhew73.jpeg",
   "author": "Ruben Gabrielyan",
-  "author_url": "https://dev.to/rubengabrielian"
+  "author_url": "https://dev.to/rubengabrielian",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私がReactに出会ったとき、私はJSの知識をほとんど持っていませんでした。周りの人たちからも言われていましたし...",
+      "title": "始めた時に知っておきたかった3つのReactのコンセプト"
+    },
+    {
+      "locale": "zh",
+      "description": "当我偶然发现React的时候，我几乎没有任何JS知识。我的同行和我的朋友都告诉我，React是一个很好的工具。",
+      "title": "3个我希望在开始时就知道的React概念"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當我偶然發現React的時候，我幾乎沒有任何JS知識。我的同行和我的朋友都告訴我，React是一個很好的工具。",
+      "title": "3個我希望在開始時就知道的React概念"
+    }
+  ]
 }
