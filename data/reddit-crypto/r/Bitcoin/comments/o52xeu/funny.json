@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "面白い"
+    },
+    {
+      "locale": "zh",
+      "title": "幽默"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "幽默"
+    }
+  ]
 }
