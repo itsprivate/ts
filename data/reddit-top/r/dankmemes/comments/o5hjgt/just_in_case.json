@@ -121,5 +121,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "念のため"
+    },
+    {
+      "locale": "zh",
+      "title": "以防万一"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "以防萬一"
+    }
+  ]
 }
