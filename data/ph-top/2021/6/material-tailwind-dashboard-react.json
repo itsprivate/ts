@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-22T07:38:23Z"
+  "original_createdAt": "2021-06-22T07:38:23Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Material Tailwind Dashboard Reactは、人気の高い2つのフロントエンド技術をベースにした、フリー＆オープンソースのダッシュボードです。Tailwind CSSとReactです。GoogleのMaterial Designにインスパイアされたデザインで、完全にコード化された膨大な数のコンポーネントを搭載しています。✅ 120のエレメント ✅ 2つのカスタマイズされたプラグイン ✅ 4つのサンプルページ",
+      "tagline": "無料のTailwind CSS & React管理テンプレート"
+    },
+    {
+      "locale": "zh",
+      "description": "Material Tailwind Dashboard React是一个免费和开源的Dashboard，基于两个流行的前端技术。尾风CSS和React。它的设计灵感来自于谷歌的Material Design，它具有大量的完全编码的组件。✅ 120个元素 ✅ 2个自定义插件 ✅ 4个示例页面",
+      "tagline": "免费的Tailwind CSS & React管理模板"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Material Tailwind Dashboard React是一個免費和開源的Dashboard，基於兩個流行的前端技術。尾風CSS和React。它的設計靈感來自於谷歌的Material Design，它具有大量的完全編碼的組件。✅ 120個元素 ✅ 2個自定義插件 ✅ 4個示例頁面",
+      "tagline": "免費的Tailwind CSS & React管理模板"
+    }
+  ]
 }
