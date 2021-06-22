@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-22T07:05:00Z"
+  "original_createdAt": "2021-06-22T07:05:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "NotionとTallyを使って、4つの簡単なステップで、完全に無料で「Audience Feedback/Ask Me Anything」を作成するテンプレートです。",
+      "tagline": "視聴者からの質問/フィードバックを直接Notionに届ける"
+    },
+    {
+      "locale": "zh",
+      "description": "使用Notion和Tally，通过4个简单的步骤，完全免费地创建你的观众反馈/问我任何问题的模板。",
+      "tagline": "将观众的问题/反馈直接传递给Notion"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用Notion和Tally，通過4個簡單的步驟，完全免費地創建你的觀衆反饋/問我任何問題的模板。",
+      "tagline": "將觀衆的問題/反饋直接傳遞給Notion"
+    }
+  ]
 }
