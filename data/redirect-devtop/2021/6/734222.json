@@ -43,5 +43,22 @@
   "original_created_at": "2021-06-21T06:58:41Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1G3NtlOO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c6q6n8b7roryu6ypzd4z.jpeg",
   "author": "Shubham Khatri",
-  "author_url": "https://dev.to/skhatri"
+  "author_url": "https://dev.to/skhatri",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "よく、小さなゲームに出会って、「これはどれくらい複雑なんだろう？作れるだろうか？という疑問を持つことがあります。",
+      "title": "Reactでカードメモリーゲームを作る"
+    },
+    {
+      "locale": "zh",
+      "description": "很多时候，我们遇到小游戏，想知道它有多复杂？我们能建立它吗？更多的时候是...",
+      "title": "用React建立一个卡片记忆游戏"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "很多時候，我們遇到小遊戲，想知道它有多複雜？我們能建立它嗎？更多的時候是...",
+      "title": "用React建立一個卡片記憶遊戲"
+    }
+  ]
 }
