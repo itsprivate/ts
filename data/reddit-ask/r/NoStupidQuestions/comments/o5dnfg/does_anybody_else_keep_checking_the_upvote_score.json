@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "自分の投稿のupvoteスコアを数分おきにチェックしている人はいませんか？そして、それが変わらなかったり、下がったりすると落ち込んでしまう？"
+    },
+    {
+      "locale": "zh",
+      "title": "还有人每隔几分钟就会查看自己帖子上的投票分数吗？当它保持不变或下降时，会感到很沮丧？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "還有人每隔幾分鐘就會查看自己帖子上的投票分數嗎？當它保持不變或下降時，會感到很沮喪？"
+    }
+  ]
 }
