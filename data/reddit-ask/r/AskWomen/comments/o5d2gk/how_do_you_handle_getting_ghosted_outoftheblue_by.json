@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Friend, significant other, or something in-between."
+  "the_new_excerpt": "Friend, significant other, or something in-between.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "友人、大切な人、その中間の人。",
+      "title": "人生で大切な人、長く付き合っている人から突然ゴーストになった場合、どのように対処しますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "朋友，重要的另一半，或介于两者之间的东西。",
+      "title": "你如何处理被你生命中一个重要的、长期的人突然抛弃的情况？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "朋友，重要的另一半，或介於兩者之間的東西。",
+      "title": "你如何處理被你生命中一個重要的、長期的人突然拋棄的情況？"
+    }
+  ]
 }
