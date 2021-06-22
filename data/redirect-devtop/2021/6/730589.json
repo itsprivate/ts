@@ -50,5 +50,22 @@
   "original_created_at": "2021-06-17T02:46:34Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rqHbW9JW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uli7y3jjwcq0bt80b4f5.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "カンファレンスCFP公開中（7月20日まで",
+      "title": "CodeLandのCFPがオープンしました。"
+    },
+    {
+      "locale": "zh",
+      "description": "会议CFP现正开放至7月20日",
+      "title": "CodeLand CFP开放了!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "會議CFP現正開放至7月20日",
+      "title": "CodeLand CFP開放了!"
+    }
+  ]
 }
