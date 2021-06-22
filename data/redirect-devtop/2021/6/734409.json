@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-21T10:55:48Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gQm7hDZ4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vcm9ttohqbkhghhy4udu.png",
   "author": "Ankit Anand ✨",
-  "author_url": "https://dev.to/ankit01oss"
+  "author_url": "https://dev.to/ankit01oss",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、DevOpsのコンテンツキュレーターのAnkitです。私は多くの記事を読みましたが、その中には...",
+      "title": "ドッカーファイルの イメージ構築のためのベストプラクティス"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，我是Ankit，你们友好的DevOps内容策划人。我读了很多关于...",
+      "title": "Dockerfile。构建镜像的最佳实践"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，我是Ankit，你們友好的DevOps內容策劃人。我讀了很多關於...",
+      "title": "Dockerfile。構建鏡像的最佳實踐"
+    }
+  ]
 }
