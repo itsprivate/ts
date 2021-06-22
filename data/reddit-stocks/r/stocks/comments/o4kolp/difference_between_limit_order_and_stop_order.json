@@ -102,5 +102,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1624241547,
-  "the_new_excerpt": "From what I understand, the variables stated in a limit order will be sold at\nthat price, whereas in a stop order, there is a trigger price that will sell at\na market price?\n\nIsn't a limit order technically a market price at the right timing? I do not\nknow if I understand the difference between a…"
+  "the_new_excerpt": "From what I understand, the variables stated in a limit order will be sold at\nthat price, whereas in a stop order, there is a trigger price that will sell at\na market price?\n\nIsn't a limit order technically a market price at the right timing? I do not\nknow if I understand the difference between a…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私の理解では、指値注文で指定された変数はその価格で売られるのに対し、逆指値注文ではその価格で売られるトリガー価格があります。\n一方、逆指値注文では、市場価格で売られるトリガー価格があります。\n市場価格で売られますか？\n\n指値注文は技術的には適切なタイミングで市場価格になるのでは？私には\nの違いを理解しているかどうかはわかりません。",
+      "title": "指値注文と逆指値注文の違い"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "据我所知，限价单中的变量将以该价格出售。\n而在止损单中，有一个触发价格，将以市场价格出售。\n一个市场价格？\n\n从技术上讲，限价单不就是在合适的时机以市场价格出售吗？我不\n我不知道我是否理解限价单和止损单的区别。",
+      "title": "限价单和止损单的区别"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "據我所知，限價單中的變量將以該價格出售。\n而在止損單中，有一個觸發價格，將以市場價格出售。\n一個市場價格？\n\n從技術上講，限價單不就是在合適的時機以市場價格出售嗎？我不\n我不知道我是否理解限價單和止損單的區別。",
+      "title": "限價單和止損單的區別"
+    }
+  ]
 }
