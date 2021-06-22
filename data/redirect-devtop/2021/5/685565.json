@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-02T17:13:21Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zdvrGSzQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/93cjgkk5aplyxioefuyz.png",
   "author": "Joy Shaheb",
-  "author_url": "https://dev.to/joyshaheb"
+  "author_url": "https://dev.to/joyshaheb",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今日はアイスクリーム屋さんを運営しながら、非同期JSを学ぶことにしましょう。その過程で、私たちは...",
+      "title": "コールバック、プロミス、Async/Awaitをアイスクリームを作ることで学ぶ 🍧🍨🍦。"
+    },
+    {
+      "locale": "zh",
+      "description": "今天我们要经营一家冰淇淋店，学习异步JS。在这一过程中，我们将了解...",
+      "title": "通过制作冰淇淋学习回调、承诺、异步/等待 🍧🍨🍦"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "今天我們要經營一家冰淇淋店，學習異步JS。在這一過程中，我們將瞭解...",
+      "title": "通過製作冰淇淋學習回調、承諾、異步/等待 🍧🍨🍦"
+    }
+  ]
 }
