@@ -1,4 +1,4 @@
-module.exports = (type, item) => {
+function format(type, item) {
   if (type === "reddit") {
     const {
       title,
@@ -84,10 +84,10 @@ module.exports = (type, item) => {
     } = item;
     const { name, screen_name, profile_image_url_https } = user;
     if (retweeted_status) {
-      retweeted_status = exports.format("tweet", retweeted_status);
+      retweeted_status = format("tweet", retweeted_status);
     }
     if (quoted_status) {
-      quoted_status = exports.format("tweet", quoted_status);
+      quoted_status = format("tweet", quoted_status);
     }
     return {
       created_at,
@@ -107,4 +107,5 @@ module.exports = (type, item) => {
     };
   }
   return item;
-};
+}
+module.exports = format;
