@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "自分が話せない言語の曲で好きなものは？"
+    },
+    {
+      "locale": "zh",
+      "title": "你最喜欢哪首你不会说的语言的歌曲？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你最喜歡哪首你不會說的語言的歌曲？"
+    }
+  ]
 }
