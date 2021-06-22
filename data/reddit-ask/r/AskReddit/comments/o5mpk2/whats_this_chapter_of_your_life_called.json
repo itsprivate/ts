@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの人生のこの章は何と呼ばれていますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你生命中的这一章叫什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你生命中的這一章叫什麼？"
+    }
+  ]
 }
