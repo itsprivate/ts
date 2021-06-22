@@ -52,5 +52,22 @@
   "original_created_at": "2021-06-21T20:23:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--y2n27r81--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n6rzqeyn5rduielrwq7r.png",
   "author": "Chris Noring",
-  "author_url": "https://dev.to/softchris"
+  "author_url": "https://dev.to/softchris",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ウェブ開発、HTML、CSS、JavaScriptを学ぶ",
+      "title": "初心者のためのWeb開発。Microsoft Learnの新しいラーニングパス"
+    },
+    {
+      "locale": "zh",
+      "description": "学习网络开发、HTML、CSS和JavaScript",
+      "title": "初学者的网络开发。在微软学习的新的学习路径"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "學習網絡開發、HTML、CSS和JavaScript",
+      "title": "初學者的網絡開發。在微軟學習的新的學習路徑"
+    }
+  ]
 }
