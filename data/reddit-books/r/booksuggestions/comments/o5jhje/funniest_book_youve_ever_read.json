@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "What is the funniest book you have read? Please provide a line of plot summary\nwith no spoilers. Thanks!"
+  "the_new_excerpt": "What is the funniest book you have read? Please provide a line of plot summary\nwith no spoilers. Thanks!",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "今まで読んだ本の中で一番面白かったものは？ネタバレのない範囲で、1行程度のあらすじを教えてください。\nネタバレなしでお願いします。ありがとうございます。",
+      "title": "今まで読んだ中で一番面白かった本は？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你读过的最有趣的书是什么？请提供一行情节摘要\n不带破坏性的。谢谢!",
+      "title": "你读过的最有趣的书？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你讀過的最有趣的書是什麼？請提供一行情節摘要\n不帶破壞性的。謝謝!",
+      "title": "你讀過的最有趣的書？"
+    }
+  ]
 }
