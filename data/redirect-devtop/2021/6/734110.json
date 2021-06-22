@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-21T03:18:40Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--t2FsJNt---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/08sh7ihx781rtua3fk4w.png",
   "author": "kpiteng",
-  "author_url": "https://dev.to/kpiteng"
+  "author_url": "https://dev.to/kpiteng",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "フックは、コードの行数を減らしたり、コードをきれいにしたり、より多くのコードを書いたりするのに役立ち、開発者の生活を楽にします。",
+      "title": "Top 10 React Hooks Library"
+    },
+    {
+      "locale": "zh",
+      "description": "钩子通过帮助编写更少的代码行、更干净的代码、更多的代码，使开发者的生活变得简单。",
+      "title": "10大React钩子库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "鉤子通過幫助編寫更少的代碼行、更乾淨的代碼、更多的代碼，使開發者的生活變得簡單。",
+      "title": "10大React鉤子庫"
+    }
+  ]
 }
