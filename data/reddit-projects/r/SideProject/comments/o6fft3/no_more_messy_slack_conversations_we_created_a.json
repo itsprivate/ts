@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "💬もうSlackでの面倒な会話は必要ありません。Slackをナレッジベースにすることができる無料のSlackアドオンを作成しました。"
+    },
+    {
+      "locale": "zh",
+      "title": "💬 不再有混乱的Slack对话。我们创建了一个免费的Slack插件，帮助你把Slack变成一个知识库。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "💬 不再有混亂的Slack對話。我們創建了一個免費的Slack插件，幫助你把Slack變成一個知識庫。"
+    }
+  ]
 }
