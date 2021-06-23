@@ -134,5 +134,22 @@
     "retweet_count": 2559,
     "favorite_count": 8802,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @officialmcafee: なぜ権力は腐敗するのか https://t.co/cwbKHcaQsd",
+      "retweeted_status_full_text": "Why power corrupts. https://t.co/cwbKHcaQsd"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @officialmcafee: 为什么权力会腐化。https://t.co/cwbKHcaQsd",
+      "retweeted_status_full_text": "为什么权力会腐败。https://t.co/cwbKHcaQsd"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @officialmcafee: 爲什麼權力會腐化。https://t.co/cwbKHcaQsd",
+      "retweeted_status_full_text": "爲什麼權力會腐敗。https://t.co/cwbKHcaQsd"
+    }
+  ]
 }
