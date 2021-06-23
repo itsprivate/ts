@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Cheetah go brrrr..."
+    },
+    {
+      "locale": "zh",
+      "title": "猎豹去brrrrrrr..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "獵豹去brrrrrrr..."
+    }
+  ]
 }
