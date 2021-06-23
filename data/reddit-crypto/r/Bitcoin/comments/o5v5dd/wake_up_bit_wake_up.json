@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Wake Up BIT Wake Up !"
+    },
+    {
+      "locale": "zh",
+      "title": "醒来吧 BIT 醒来吧 !"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "醒來吧 BIT 醒來吧 !"
+    }
+  ]
 }
