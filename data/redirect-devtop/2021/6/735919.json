@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-22T16:48:43Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hqPCGsAI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w90oniu86j8qbwmg2qqq.png",
   "author": "kpiteng",
-  "author_url": "https://dev.to/kpiteng"
+  "author_url": "https://dev.to/kpiteng",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "開発者の皆様、こんにちは。Axiosまたはfetchを使用して、サーバーとのデータのやり取りを行っています。....",
+      "title": "Axios vs Fetch"
+    },
+    {
+      "locale": "zh",
+      "description": "开发者们，你们好! 我们都在使用Axios或fetch来与server.... 进行通信/交换数据。",
+      "title": "Axios vs Fetch"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "開發者們，你們好! 我們都在使用Axios或fetch來與server.... 進行通信/交換數據。",
+      "title": "Axios vs Fetch"
+    }
+  ]
 }
