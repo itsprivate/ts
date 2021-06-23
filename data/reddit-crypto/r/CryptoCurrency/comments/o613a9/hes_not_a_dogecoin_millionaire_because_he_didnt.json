@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼はDogecoinのミリオネアではない。なぜなら、彼は売れなかったから"
+    },
+    {
+      "locale": "zh",
+      "title": "他不是Dogecoin百万富翁。因为他没有卖掉"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他不是Dogecoin百萬富翁。因爲他沒有賣掉"
+    }
+  ]
 }
