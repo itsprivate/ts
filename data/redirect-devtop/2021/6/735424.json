@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-22T09:59:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PMsh8RtC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4ybybyuh887hlms4n2hg.jpg",
   "author": "Foolish Developer",
-  "author_url": "https://dev.to/code_mystery"
+  "author_url": "https://dev.to/code_mystery",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、HTML、CSS、JavaScriptを使ってデジタル時計を作成する方法をご紹介します。",
+      "title": "JavaScript, Html & CSSを使った日付入りデジタル時計"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，你将学习如何使用HTML CSS和JavaScript创建数字时钟。",
+      "title": "使用JavaScript、Html和CSS制作带日期的数字时钟"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，你將學習如何使用HTML CSS和JavaScript創建數字時鐘。",
+      "title": "使用JavaScript、Html和CSS製作帶日期的數字時鐘"
+    }
+  ]
 }
