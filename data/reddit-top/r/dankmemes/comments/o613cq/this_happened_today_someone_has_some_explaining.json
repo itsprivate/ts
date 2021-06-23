@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今日の出来事です。誰かが説明しなければならないことがある。"
+    },
+    {
+      "locale": "zh",
+      "title": "今天发生了这件事。有人要做一些解释。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "今天發生了這件事。有人要做一些解釋。"
+    }
+  ]
 }
