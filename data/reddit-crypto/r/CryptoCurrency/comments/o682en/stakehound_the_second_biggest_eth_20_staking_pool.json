@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ETH 2.0ステークスプールで2番目に大きいStakeHoundが、ユーザーの秘密鍵を紛失しました。38,178 ETH (~$75m) が永遠に失われました。あなたの鍵ではなく、あなたのコインでもありません"
+    },
+    {
+      "locale": "zh",
+      "title": "StakeHound，第二大ETH 2.0赌注池丢失了他们的用户私钥。38,178个ETH（约7500万美元）永远失去了。不是你的钥匙，也不是你的币!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "StakeHound，第二大ETH 2.0賭注池丟失了他們的用戶私鑰。38,178個ETH（約7500萬美元）永遠失去了。不是你的鑰匙，也不是你的幣!"
+    }
+  ]
 }
