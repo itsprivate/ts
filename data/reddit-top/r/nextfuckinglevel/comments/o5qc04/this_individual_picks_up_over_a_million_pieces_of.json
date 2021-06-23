@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この人は100万個以上のゴミを拾う"
+    },
+    {
+      "locale": "zh",
+      "title": "这个人捡起了超过一百万件的垃圾"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個人撿起了超過一百萬件的垃圾"
+    }
+  ]
 }
