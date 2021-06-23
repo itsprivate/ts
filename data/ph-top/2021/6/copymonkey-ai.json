@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-23T07:12:50Z"
+  "original_createdAt": "2021-06-23T07:12:50Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CopyMonkey.aiは、Eコマース向けの商品説明文を生成・改善します。既存の説明文を評価し、不足している説明文を生成し、より良いパフォーマンスを確認することができます。",
+      "tagline": "Eコマース向けAIコンテンツ：単なるgpt-3生成機ではない"
+    },
+    {
+      "locale": "zh",
+      "description": "CopyMonkey.ai为电子商务生成并改进产品描述。你可以评估你现有的描述，生成缺少的描述，看看什么表现更好",
+      "tagline": "电子商务的人工智能内容：不仅仅是一个gpt-3生成器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "CopyMonkey.ai爲電子商務生成並改進產品描述。你可以評估你現有的描述，生成缺少的描述，看看什麼表現更好",
+      "tagline": "電子商務的人工智能內容：不僅僅是一個gpt-3生成器"
+    }
+  ]
 }

@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-23T07:16:00Z"
+  "original_createdAt": "2021-06-23T07:16:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Tweetflickは、お気に入りのツイートを保存、整理し、アクセスするためのスマートな方法です。ツイッターのパワーユーザーのためのツイートブックマークマネージャーです。",
+      "tagline": "Twitterを最大限に活用するために、ツイートを保存、整理、検索することができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "Tweetflick是保存、组织和访问您喜爱的推文的智能方式。为Twitter的强大用户提供的推文书签管理器。",
+      "tagline": "保存、组织和查找推文，以便最大限度地利用Twitter"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Tweetflick是保存、組織和訪問您喜愛的推文的智能方式。爲Twitter的強大用戶提供的推文書籤管理器。",
+      "tagline": "保存、組織和查找推文，以便最大限度地利用Twitter"
+    }
+  ]
 }
