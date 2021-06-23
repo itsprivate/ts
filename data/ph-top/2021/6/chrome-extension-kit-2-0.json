@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-23T07:01:00Z"
+  "original_createdAt": "2021-06-23T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "マニフェストや環境の設定ではなく、Chrome Extensionの構築に時間を割く。Chrome Extension Kit には、実際に使用されている 17 種類のスターター テンプレートが含まれているため、面倒な作業を回避して、これまで以上に迅速な出荷に集中することができます。",
+      "tagline": "次のChrome Extensionプロジェクトをこれまで以上に迅速に立ち上げることができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "花时间构建您的Chrome扩展，而不是设置清单和环境。Chrome Extension Kit包括17种不同的、经过实战检验的启动模板，因此您可以避免繁琐的事情，专注于比以往更快的发货。",
+      "tagline": "以前所未有的速度启动您的下一个Chrome扩展项目"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "花時間構建您的Chrome擴展，而不是設置清單和環境。Chrome Extension Kit包括17種不同的、經過實戰檢驗的啓動模板，因此您可以避免繁瑣的事情，專注於比以往更快的發貨。",
+      "tagline": "以前所未有的速度啓動您的下一個Chrome擴展項目"
+    }
+  ]
 }
