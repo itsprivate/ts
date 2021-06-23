@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-22T15:41:22Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vlWKKwIp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u4pzg1p8kdb48oxuzmyv.png",
   "author": "Reed Barger",
-  "author_url": "https://dev.to/reedbarger"
+  "author_url": "https://dev.to/reedbarger",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今日は、自分のために作ることのできる最も重要なアプリのひとつ、「自分の...」を作ります。",
+      "title": "Reactで素晴らしいポートフォリオサイトを作る"
+    },
+    {
+      "locale": "zh",
+      "description": "今天，你将创建一个最重要的应用程序，你可以为自己建立：你的...",
+      "title": "用React建立一个惊人的组合网站"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "今天，你將創建一個最重要的應用程序，你可以爲自己建立：你的...",
+      "title": "用React建立一個驚人的組合網站"
+    }
+  ]
 }
