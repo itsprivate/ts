@@ -52,5 +52,22 @@
   "original_created_at": "2021-06-21T18:18:09Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--aq4t2CTn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wvojzfs74683ykdbfgvc.png",
   "author": "Daniel Polito",
-  "author_url": "https://dev.to/dbpolito"
+  "author_url": "https://dev.to/dbpolito",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "たった3つの簡単なステップで、Kool CLIのkool createコマンドを使って、新しいLaravelアプリケーションを開始することができます...",
+      "title": "KoolでLaravelをDocker上で動かすのはとても簡単です。"
+    },
+    {
+      "locale": "zh",
+      "description": "只需3个简单的步骤, 你就可以使用Kool CLI的kool create命令来启动一个新的Laravel应用程序...",
+      "title": "用Kool在Docker上运行Laravel真的很简单"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "只需3個簡單的步驟, 你就可以使用Kool CLI的kool create命令來啓動一個新的Laravel應用程序...",
+      "title": "用Kool在Docker上運行Laravel真的很簡單"
+    }
+  ]
 }
