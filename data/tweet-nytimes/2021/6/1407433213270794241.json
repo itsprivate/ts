@@ -113,5 +113,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Tue Jun 22 20:20:01 +0000 2021"
+  "original_created_at": "Tue Jun 22 20:20:01 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "中国のワクチンに依存していた一部の国で発生したコヴィドの流行は、厳しい現実を露呈しています。一国のパンデミック回復は、どのワクチンを接種するかにかかっているのかもしれません。https://t.co/zw4rgaBm7o"
+    },
+    {
+      "locale": "zh",
+      "full_text": "在一些依赖中国疫苗的国家爆发的科维德疫情暴露了一个残酷的现实。一个国家的大流行病的恢复可能取决于它打出的哪一针。https://t.co/zw4rgaBm7o"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "在一些依賴中國疫苗的國家爆發的科維德疫情暴露了一個殘酷的現實。一個國家的大流行病的恢復可能取決於它打出的哪一針。https://t.co/zw4rgaBm7o"
+    }
+  ]
 }
