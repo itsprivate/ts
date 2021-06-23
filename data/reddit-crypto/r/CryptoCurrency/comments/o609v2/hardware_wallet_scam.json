@@ -42,5 +42,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "If you've purchased a hardware wallet and it came with a recovery seed sheet\nbeneath silver scratch off foil, TRANSFER YOUR FUNDS IMMEDIATELY. Someone else\nhas access to your wallet. Not a single hardware wallet has a recovery phrase\npre-installed. Only use the wallet after you have reset it. And…"
+  "the_new_excerpt": "If you've purchased a hardware wallet and it came with a recovery seed sheet\nbeneath silver scratch off foil, TRANSFER YOUR FUNDS IMMEDIATELY. Someone else\nhas access to your wallet. Not a single hardware wallet has a recovery phrase\npre-installed. Only use the wallet after you have reset it. And…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ハードウェアウォレットを購入した際に、銀色のスクラッチシートの下にリカバリーシードシートが付いていた場合は\n銀色のスクラッチ・オフ・フォイルの下に、リカバリー・シード・シートが付いていた場合は、直ちに資金を移してください。他の誰かが\nあなたのウォレットにアクセスしています。ハードウェアウォレットの中には、リカバリー用のフレーズが\nプリインストールされていません。ウォレットをリセットしてから使用してください。そして...",
+      "title": "ハードウェアウォレット詐欺"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "如果你已经购买了一个硬件钱包，并且它附带了一个恢复种子表\n在银色的刮开箔下面，立即转移你的资金。其他人\n有机会接触到你的钱包。没有一个硬件钱包预装了一个恢复短语\n预装的。只有在你重置了钱包之后才能使用。还有...",
+      "title": "硬件钱包骗局"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "如果你已經購買了一個硬件錢包，並且它附帶了一個恢復種子表\n在銀色的刮開箔下面，立即轉移你的資金。其他人\n有機會接觸到你的錢包。沒有一個硬件錢包預裝了一個恢復短語\n預裝的。只有在你重置了錢包之後才能使用。還有...",
+      "title": "硬件錢包騙局"
+    }
+  ]
 }
