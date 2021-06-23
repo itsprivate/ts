@@ -87,5 +87,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-23T07:19:24Z"
+  "original_createdAt": "2021-06-23T07:19:24Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "✅ 1分で既存のGoogleフォームをインタラクティブなチャットボットに変換することができます。✅ Googleフォームのアドオンとして作られており、チャットボットはCollect.chat内で作成されます。",
+      "tagline": "Googleフォームを1クリックでチャットボットに変換"
+    },
+    {
+      "locale": "zh",
+      "description": "在一分钟内，你可以将你现有的谷歌表格转换为一个互动的聊天机器人。它是作为Google Form的一个附加组件而建立的，而聊天机器人是在Collect.chat内创建的。",
+      "tagline": "一键将谷歌表格转换为聊天机器人"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在一分鐘內，你可以將你現有的谷歌表格轉換爲一個互動的聊天機器人。它是作爲Google Form的一個附加組件而建立的，而聊天機器人是在Collect.chat內創建的。",
+      "tagline": "一鍵將谷歌表格轉換爲聊天機器人"
+    }
+  ]
 }
