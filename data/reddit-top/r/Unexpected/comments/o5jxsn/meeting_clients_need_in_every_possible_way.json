@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "顧客のニーズにあらゆる方法で応える..."
+    },
+    {
+      "locale": "zh",
+      "title": "以一切可能的方式满足客户的需求..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "以一切可能的方式滿足客戶的需求..."
+    }
+  ]
 }
