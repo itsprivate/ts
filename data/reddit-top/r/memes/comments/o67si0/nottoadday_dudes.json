@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Not-TOAD-day dudes"
+    },
+    {
+      "locale": "zh",
+      "title": "非托德日的帅哥"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "非託德日的帥哥"
+    }
+  ]
 }
