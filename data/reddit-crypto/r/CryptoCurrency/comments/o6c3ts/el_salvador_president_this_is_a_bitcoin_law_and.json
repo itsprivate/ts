@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "エルサルバドル大統領 これはビットコイン法であり、いかなるアルトコインも法定通貨にはならない"
+    },
+    {
+      "locale": "zh",
+      "title": "萨尔瓦多总统。这是一部比特币法，没有任何一种新币会成为法定货币"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "薩爾瓦多總統。這是一部比特幣法，沒有任何一種新幣會成爲法定貨幣"
+    }
+  ]
 }
