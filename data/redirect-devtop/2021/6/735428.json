@@ -43,5 +43,22 @@
   "original_created_at": "2021-06-22T10:07:07Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kGOtwAN2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ibwhzdzpziw7txuyq5oh.png",
   "author": "Nabanita Sarkar",
-  "author_url": "https://dev.to/nabanita_sarkar"
+  "author_url": "https://dev.to/nabanita_sarkar",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "インターネット上の様々な記事では、react-queryを使用することの利点がすでに述べられています。簡単で...",
+      "title": "React Query - Beyond Basics"
+    },
+    {
+      "locale": "zh",
+      "description": "互联网上的各种文章已经讨论了使用react-query的好处。它的便利性...",
+      "title": "React查询--超越基础知识"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "互聯網上的各種文章已經討論了使用react-query的好處。它的便利性...",
+      "title": "React查詢--超越基礎知識"
+    }
+  ]
 }
