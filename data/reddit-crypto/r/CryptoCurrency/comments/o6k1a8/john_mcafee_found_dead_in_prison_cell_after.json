@@ -47,5 +47,19 @@
     "type": "twitter.com"
   },
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ジョン・マカフィー氏、スペイン高等裁判所が身柄引き渡しを認めた後、獄中で死亡しているのが発見される（スペインの新聞「El Mundo」より"
+    },
+    {
+      "locale": "zh",
+      "title": "据西班牙《世界报》报道，在西班牙高等法院允许引渡后，约翰-麦卡菲被发现死在牢房里。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "據西班牙《世界報》報道，在西班牙高等法院允許引渡後，約翰-麥卡菲被發現死在牢房裏。"
+    }
+  ]
 }
