@@ -52,5 +52,22 @@
   "original_created_at": "2021-06-23T08:26:13Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oZCox0pY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nm390pila84ec7wwp9ji.png",
   "author": "Agnieszka Stec",
-  "author_url": "https://dev.to/stecagnieszka"
+  "author_url": "https://dev.to/stecagnieszka",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Gitのパワーユーザーになることは、すべての開発者のバケットリストに載っています。今日、私たちは5つのGitのヒントを用意しました...",
+      "title": "トップ5のGit Tips & Tricks"
+    },
+    {
+      "locale": "zh",
+      "description": "成为Git强大的用户是每个开发者的梦想清单。今天，我们准备了5个Git技巧，这些技巧可以让你在工作中更加得心应手。",
+      "title": "5大Git技巧和窍门"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "成爲Git強大的用戶是每個開發者的夢想清單。今天，我們準備了5個Git技巧，這些技巧可以讓你在工作中更加得心應手。",
+      "title": "5大Git技巧和竅門"
+    }
+  ]
 }
