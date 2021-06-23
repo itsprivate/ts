@@ -52,5 +52,22 @@
   "original_created_at": "2021-06-22T02:53:52Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UY7CohAg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o2kaoykc73em80011di8.PNG",
   "author": "Yan Jin",
-  "author_url": "https://dev.to/yjin81"
+  "author_url": "https://dev.to/yjin81",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "インターネットやモバイルの発展に伴い、クロスプラットフォームのリアルタイムチャット体験を構築することは、...",
+      "title": "Web PubSubとStatic Web Appsでサーバーレスのリアルタイムチャットアプリケーションを構築"
+    },
+    {
+      "locale": "zh",
+      "description": "随着互联网和移动互联网的发展，将跨平台的实时聊天体验打造为...",
+      "title": "用Web PubSub和静态Web应用程序构建无服务器实时聊天应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "隨着互聯網和移動互聯網的發展，將跨平臺的實時聊天體驗打造爲...",
+      "title": "用Web PubSub和靜態Web應用程序構建無服務器實時聊天應用程序"
+    }
+  ]
 }
