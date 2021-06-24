@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "なぜなら、すべての命は貴重だからです"
+    },
+    {
+      "locale": "zh",
+      "title": "因为每一个生命都是宝贵的!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "因爲每一個生命都是寶貴的!"
+    }
+  ]
 }
