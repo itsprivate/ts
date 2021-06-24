@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-21T17:31:25Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OUrjHZjz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2duft5eg25rr2v4rpw2j.jpg",
   "author": "Ankur Tyagi",
-  "author_url": "https://dev.to/tyaga001"
+  "author_url": "https://dev.to/tyaga001",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JavaScriptを実践するには、プロジェクトに取り組むのが一番です。  \"Don't take on the Project whole at...",
+      "title": "シンプルで効果的な方法で、JavaScriptを学び、練習することができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "练习JavaScript的最好方法是在项目中工作。  \"不要在项目上全盘接受...",
+      "title": "学习和练习JavaScript的简单而有效的方法。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "練習JavaScript的最好方法是在項目中工作。  \"不要在項目上全盤接受...",
+      "title": "學習和練習JavaScript的簡單而有效的方法。"
+    }
+  ]
 }
