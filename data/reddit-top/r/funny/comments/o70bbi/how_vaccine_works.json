@@ -65,5 +65,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ワクチンの仕組み"
+    },
+    {
+      "locale": "zh",
+      "title": "疫苗如何发挥作用"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "疫苗如何發揮作用"
+    }
+  ]
 }
