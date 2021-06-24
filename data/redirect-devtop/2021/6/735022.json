@@ -39,5 +39,22 @@
   "original_created_at": "2021-06-21T22:10:28Z",
   "image": "https://dev.to/social_previews/article/735022.png",
   "author": "OdunayoO",
-  "author_url": "https://dev.to/odunayoo_"
+  "author_url": "https://dev.to/odunayoo_",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "開発者であれば、認可と認証という2つの用語を目にしたことがあるかもしれません。....",
+      "title": "認証と権限付与 "
+    },
+    {
+      "locale": "zh",
+      "description": "作为一名开发人员，授权和认证是你可能遇到的两个术语，....。",
+      "title": "认证与授权 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "作爲一名開發人員，授權和認證是你可能遇到的兩個術語，....。",
+      "title": "認證與授權 "
+    }
+  ]
 }
