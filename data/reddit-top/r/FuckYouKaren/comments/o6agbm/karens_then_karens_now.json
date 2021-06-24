@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "当時のカレン、今のカレン....."
+    },
+    {
+      "locale": "zh",
+      "title": "Karens then, Karens now....."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Karens then, Karens now....."
+    }
+  ]
 }
