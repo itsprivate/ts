@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-23T19:06:45Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yDNsQ3_4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gl136wplgijcmgz4wly0.png",
   "author": "Miško Hevery",
-  "author_url": "https://dev.to/mhevery"
+  "author_url": "https://dev.to/mhevery",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Builder.ioでは、開発者ではない人でも、パワフルなビジュアルで高速なサイトを構築・編集できるようにしています。",
+      "title": "HTMLファーストのフレームワーク「Qwik」を見てみよう"
+    },
+    {
+      "locale": "zh",
+      "description": "在Builder.io，我们使非开发人员能够以强大的视觉效果建立和编辑极快的网站。",
+      "title": "对Qwik的初步了解--HTML第一框架"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在Builder.io，我們使非開發人員能夠以強大的視覺效果建立和編輯極快的網站。",
+      "title": "對Qwik的初步瞭解--HTML第一框架"
+    }
+  ]
 }
