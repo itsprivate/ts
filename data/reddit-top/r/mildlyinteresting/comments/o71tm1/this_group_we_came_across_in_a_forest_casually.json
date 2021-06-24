@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "森の中で中世の衣装を着て気軽にハイキングしていたグループ。"
+    },
+    {
+      "locale": "zh",
+      "title": "我们在一个森林里遇到的这群人，他们穿着中世纪的服装随意地徒步旅行。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們在一個森林裏遇到的這羣人，他們穿着中世紀的服裝隨意地徒步旅行。"
+    }
+  ]
 }
