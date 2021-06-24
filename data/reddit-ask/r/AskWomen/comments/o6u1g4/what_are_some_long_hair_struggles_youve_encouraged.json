@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": " * encountered"
+  "the_new_excerpt": " * encountered",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": " * 遭遇",
+      "title": "励まされたロングヘアの苦労話は？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": " *遇到了",
+      "title": "你鼓励过的长发斗争有哪些？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": " *遇到了",
+      "title": "你鼓勵過的長髮鬥爭有哪些？"
+    }
+  ]
 }
