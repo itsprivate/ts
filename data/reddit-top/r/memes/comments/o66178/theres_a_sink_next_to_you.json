@@ -91,5 +91,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの隣にはシンクがあります"
+    },
+    {
+      "locale": "zh",
+      "title": "你旁边有一个水槽"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你旁邊有一個水槽"
+    }
+  ]
 }
