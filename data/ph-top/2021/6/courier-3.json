@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-24T09:00:00Z"
+  "original_createdAt": "2021-06-24T09:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CourierのAPIとStudioにより、開発者は適切なメッセージを適切なユーザーに適切なタイミングで届けることができます。無料で使える｜CC不要のSDK（Node.js、Python、Ruby、PHP、Go、Java用）。自動化｜ホワイトラベル｜受信トレイ／アプリ内｜環境設定",
+      "tagline": "適切なメッセージを、適切なユーザーに、適切なタイミングで届ける"
+    },
+    {
+      "locale": "zh",
+      "description": "Courier的API和工作室使开发者能够在正确的时间向正确的用户传递正确的信息。免费使用 | 无需CC的Node.js、Python、Ruby、PHP、Go和Java的SDK。自动化｜白标签｜收件箱/应用内｜偏好设置",
+      "tagline": "在正确的时间向正确的用户传递正确的信息"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Courier的API和工作室使開發者能夠在正確的時間向正確的用戶傳遞正確的信息。免費使用 | 無需CC的Node.js、Python、Ruby、PHP、Go和Java的SDK。自動化｜白標籤｜收件箱/應用內｜偏好設置",
+      "tagline": "在正確的時間向正確的用戶傳遞正確的信息"
+    }
+  ]
 }

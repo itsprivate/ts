@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-22T02:33:43Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_2GgchWg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3hfesrr3hs31o5exzvnq.png",
   "author": "Eric The Coder",
-  "author_url": "https://dev.to/ericchapman"
+  "author_url": "https://dev.to/ericchapman",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Follow me! Follow @EricTheCoder_ 新しいウェブ開発者の多くは、Ruby on... を全く知らない。",
+      "title": "なぜWeb開発者はRuby on Railsを使い続けるのか？"
+    },
+    {
+      "locale": "zh",
+      "description": "跟着我！。Follow @EricTheCoder_ 许多新的网络开发者完全不知道什么是Ruby on...",
+      "title": "为什么Web开发人员仍然使用Ruby on Rails？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "跟着我！。Follow @EricTheCoder_ 許多新的網絡開發者完全不知道什麼是Ruby on...",
+      "title": "爲什麼Web開發人員仍然使用Ruby on Rails？"
+    }
+  ]
 }
