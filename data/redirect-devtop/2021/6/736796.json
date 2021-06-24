@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-23T13:34:21Z",
   "image": "https://dev.to/social_previews/article/736796.png",
   "author": "Sergiy Babich",
-  "author_url": "https://dev.to/sergiybabich"
+  "author_url": "https://dev.to/sergiybabich",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "そう、これは純粋なCSSがいかに素晴らしいか、どうすればクールなことができるかについての、また別の「記事」なのです。",
+      "title": "純粋なCSSによるアコーディオンタブ"
+    },
+    {
+      "locale": "zh",
+      "description": "是的，这又是一篇关于纯CSS是多么神奇以及你如何做一些很酷的事情的 \"文章\"。",
+      "title": "使用纯CSS的手风琴标签"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "是的，這又是一篇關於純CSS是多麼神奇以及你如何做一些很酷的事情的 \"文章\"。",
+      "title": "使用純CSS的手風琴標籤"
+    }
+  ]
 }
