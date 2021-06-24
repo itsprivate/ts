@@ -52,5 +52,22 @@
   "original_created_at": "2021-06-23T08:36:40Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pfmMfpK8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9njibnh4d0ii8crbq08m.png",
   "author": "Benny Neugebauer",
-  "author_url": "https://dev.to/bennycode"
+  "author_url": "https://dev.to/bennycode",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Webpackは、本来ブラウザで実行するために書かれたものではないコードを、ブラウザで実行できるようにするためのビルドツールです。",
+      "title": "Webpackを設定する6つの方法"
+    },
+    {
+      "locale": "zh",
+      "description": "Webpack是一个构建工具，可以使那些主要不是为在浏览器中执行而编写的代码，...",
+      "title": "配置Webpack的6种方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Webpack是一個構建工具，可以使那些主要不是爲在瀏覽器中執行而編寫的代碼，...",
+      "title": "配置Webpack的6種方法"
+    }
+  ]
 }
