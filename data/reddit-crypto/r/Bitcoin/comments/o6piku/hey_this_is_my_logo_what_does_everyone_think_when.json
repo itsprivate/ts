@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "おい、これが俺のロゴだ。みんな、これを見てどう思うかな？"
+    },
+    {
+      "locale": "zh",
+      "title": "嘿，这是我的标志。当每个人看到它时，他们会怎么想？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "嘿，這是我的標誌。當每個人看到它時，他們會怎麼想？"
+    }
+  ]
 }
