@@ -116,5 +116,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1624478440,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ようやく遅延証明書を受け取りました。ポジションは、無価値に失効したROOTのコールの束と、無価値に失効したGMEのコールの束でした。"
+    },
+    {
+      "locale": "zh",
+      "title": "终于收到了我的弱智信。仓位是一堆ROOT看涨期权，到期后毫无价值，还有一些GME看涨期权，到期后毫无价值。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "終於收到了我的弱智信。倉位是一堆ROOT看漲期權，到期後毫無價值，還有一些GME看漲期權，到期後毫無價值。"
+    }
+  ]
 }
