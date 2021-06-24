@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "肩に触れただけで命を救った男。"
+    },
+    {
+      "locale": "zh",
+      "title": "一个人通过触摸另一个人的肩膀救了他的命。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個人通過觸摸另一個人的肩膀救了他的命。"
+    }
+  ]
 }
