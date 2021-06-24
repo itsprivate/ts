@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "月への訪問"
+    },
+    {
+      "locale": "zh",
+      "title": "访问月球"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "訪問月球"
+    }
+  ]
 }
