@@ -30,5 +30,19 @@
   "retweet_count": 33,
   "favorite_count": 98,
   "possibly_sensitive": false,
-  "original_created_at": "Thu Jun 24 04:20:36 +0000 2021"
+  "original_created_at": "Thu Jun 24 04:20:36 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "イベントの正確な順序は、https://t.co/5sgdHyYpwQ で争われています。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "事件的确切顺序是有争议的https://t.co/5sgdHyYpwQ。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "事件的確切順序是有爭議的https://t.co/5sgdHyYpwQ。"
+    }
+  ]
 }
