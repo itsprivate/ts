@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-24T07:01:00Z"
+  "original_createdAt": "2021-06-24T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "StockHoundはShopify Storeのためのインテリジェントな在庫切れ監視員🐶です。StockHoundは、各商品の在庫切れの日付を予測し、在庫切れになりそうな商品のリストを送信します。複雑な問題をシンプルかつ効果的に解決してくれます。",
+      "tagline": "Shopifyストア用の無料在庫切れ予測レポート"
+    },
+    {
+      "locale": "zh",
+      "description": "StockHound是一个为Shopify商店提供的智能出库监控🐶。StockHound预测每个产品的缺货日期，并发送即将缺货的产品列表。这是一个复杂问题的简单而有效的解决方案。",
+      "tagline": "为Shopify商店免费提供缺货预测报告"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "StockHound是一個爲Shopify商店提供的智能出庫監控🐶。StockHound預測每個產品的缺貨日期，併發送即將缺貨的產品列表。這是一個複雜問題的簡單而有效的解決方案。",
+      "tagline": "爲Shopify商店免費提供缺貨預測報告"
+    }
+  ]
 }

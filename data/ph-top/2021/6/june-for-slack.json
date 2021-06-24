@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-24T07:13:44Z"
+  "original_createdAt": "2021-06-24T07:13:44Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Slackですぐに分析ができます。📊 指一本動かすことなくメトリクスを受け取ることができます🎉 マイルストーンが達成されたらお祝いしましょう👯♂️ メトリクスに基づいてチームをまとめることができます👉 試してみてください: https://slack.june.so",
+      "tagline": "Slackですぐに分析が可能"
+    },
+    {
+      "locale": "zh",
+      "description": "即时分析，就在Slack中。不用动一根手指头就能收到指标 🎉 👯♂️ 召集你的团队支持你的指标 👉 试一试：https://slack.june.so",
+      "tagline": "即时分析，就在Slack中"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "即時分析，就在Slack中。不用動一根手指頭就能收到指標 🎉 👯♂️ 召集你的團隊支持你的指標 👉 試一試：https://slack.june.so",
+      "tagline": "即時分析，就在Slack中"
+    }
+  ]
 }
