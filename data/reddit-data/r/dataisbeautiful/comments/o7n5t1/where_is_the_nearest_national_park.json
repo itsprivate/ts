@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "一番近い国立公園はどこですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "最近的国家公园在哪里？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "最近的國家公園在哪裏？"
+    }
+  ]
 }
