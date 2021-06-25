@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "言葉で説明できなくても、誰かが何かを知っていることがあるだろうか。"
+    },
+    {
+      "locale": "zh",
+      "title": "有人能在不能够用语言解释的情况下知道一些事情吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有人能在不能夠用語言解釋的情況下知道一些事情嗎？"
+    }
+  ]
 }
