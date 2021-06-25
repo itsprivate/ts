@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-23T10:25:14Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7dsHkoug--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fnjfi8vkp3e63tvtcfva.gif",
   "author": "Jash Gopani",
-  "author_url": "https://dev.to/jashgopani"
+  "author_url": "https://dev.to/jashgopani",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、皆さん🙋♂️ この短い記事は、私の最近のサイドプロジェクトである ... についてです。",
+      "title": "次のプロジェクトのために正しいカラーパレットを選んでください。"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，🙋♂️这篇短文是关于我最近的副业项目，叫做 ...",
+      "title": "为你的下一个项目选择正确的调色板!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，🙋♂️這篇短文是關於我最近的副業項目，叫做 ...",
+      "title": "爲你的下一個項目選擇正確的調色板!"
+    }
+  ]
 }
