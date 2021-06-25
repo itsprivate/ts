@@ -71,5 +71,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-25T07:00:00Z"
+  "original_createdAt": "2021-06-25T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Profilehuntは、あなたの仕事探しを整理するために作られたカンバンボードです。ブラウザの拡張機能を使って、どのウェブサイトからでも求人情報をボードに追加することができます。Profilehuntは、毎週リマインダーを送り、応募状況をアップデートします。",
+      "tagline": "就活の整理に役立つかんばんボード"
+    },
+    {
+      "locale": "zh",
+      "description": "Profilehunt是一个看板，用于组织你的工作搜索。它有一个浏览器扩展，所以你可以从任何网站上添加工作到你的看板。Profilehunt每周都会发送提醒和更新申请。",
+      "tagline": "一个帮助你组织求职的看板"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Profilehunt是一個看板，用於組織你的工作搜索。它有一個瀏覽器擴展，所以你可以從任何網站上添加工作到你的看板。Profilehunt每週都會發送提醒和更新申請。",
+      "tagline": "一個幫助你組織求職的看板"
+    }
+  ]
 }
