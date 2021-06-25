@@ -52,5 +52,22 @@
   "original_created_at": "2021-06-24T12:05:48Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mT_dJjuk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0c1uk1ie9rifpgspyip1.png",
   "author": "Saji Wang",
-  "author_url": "https://dev.to/sewangco"
+  "author_url": "https://dev.to/sewangco",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "何か新しいことを学ぼうとするときには、ついつい先入観にとらわれてしまいがちです。",
+      "title": "NodeJSで独自のブロックチェーンを構築する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "当我们试图学习新的东西时，有时会很想一头扎进去。",
+      "title": "如何在NodeJS中建立你自己的区块链"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當我們試圖學習新的東西時，有時會很想一頭扎進去。",
+      "title": "如何在NodeJS中建立你自己的區塊鏈"
+    }
+  ]
 }

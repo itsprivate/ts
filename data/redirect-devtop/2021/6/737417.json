@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-24T04:42:54Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sWiPz8SI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4r63kof169wo3kkiy8uu.jpeg",
   "author": "Tyler Hawkins",
-  "author_url": "https://dev.to/thawkin3"
+  "author_url": "https://dev.to/thawkin3",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今、DevOpsがホットです。ソフトウェアエンジニアリングの求人情報には必ずと言っていいほど、DevOpsが必要とされているようです。",
+      "title": "ソフトウェアエンジニアにも必要なDevOps、それはCI/CDから始まる"
+    },
+    {
+      "locale": "zh",
+      "description": "DevOps现在很热。似乎每一个软件工程的招聘职位都需要DevOps...",
+      "title": "软件工程师也需要了解DevOps，而这要从CI/CD开始"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "DevOps現在很熱。似乎每一個軟件工程的招聘職位都需要DevOps...",
+      "title": "軟件工程師也需要了解DevOps，而這要從CI/CD開始"
+    }
+  ]
 }
