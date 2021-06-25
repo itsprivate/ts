@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "おっさんのテニスのサーブ。"
+    },
+    {
+      "locale": "zh",
+      "title": "老家伙的网球发球。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "老傢伙的網球發球。"
+    }
+  ]
 }
