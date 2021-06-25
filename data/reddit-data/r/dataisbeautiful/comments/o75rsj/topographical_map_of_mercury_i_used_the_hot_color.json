@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "水星の地形図です。水星はかなり暑いと思われるので、「ホット」カラーの地図を使用した。[OC]."
+    },
+    {
+      "locale": "zh",
+      "title": "水星的地形图。我使用了 \"热 \"色地图，因为我估计水星是相当热的。[OC]"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "水星的地形圖。我使用了 \"熱 \"色地圖，因爲我估計水星是相當熱的。[OC]"
+    }
+  ]
 }
