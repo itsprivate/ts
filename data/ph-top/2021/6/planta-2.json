@@ -98,5 +98,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-25T07:01:00Z"
+  "original_createdAt": "2021-06-25T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Plantaはスマートな農場管理ソフトウェアで、農場のすべての活動を簡単に計画、監視、分析することができます。",
+      "tagline": "スマートなファームコンサルタントを指先に"
+    },
+    {
+      "locale": "zh",
+      "description": "Planta是一款智能农场管理软件，可以帮助你轻松地计划、监测和分析农场的所有活动。",
+      "tagline": "指尖上的智能农场顾问"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Planta是一款智能農場管理軟件，可以幫助你輕鬆地計劃、監測和分析農場的所有活動。",
+      "tagline": "指尖上的智能農場顧問"
+    }
+  ]
 }
