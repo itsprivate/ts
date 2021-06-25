@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "エルサルバドルの大統領が、パワーポイントを使って国中に向けてビットコインの仕組みを説明しました。"
+    },
+    {
+      "locale": "zh",
+      "title": "萨尔瓦多总统刚刚通过powerpoint向他的整个国家解释了比特币是如何运作的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "薩爾瓦多總統剛剛通過powerpoint向他的整個國家解釋了比特幣是如何運作的。"
+    }
+  ]
 }
