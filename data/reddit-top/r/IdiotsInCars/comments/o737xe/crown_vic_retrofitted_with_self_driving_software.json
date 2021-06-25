@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "自動運転ソフトウェアを搭載したクラウン・ビック"
+    },
+    {
+      "locale": "zh",
+      "title": "Crown Vic加装了自动驾驶软件"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Crown Vic加裝了自動駕駛軟件"
+    }
+  ]
 }
