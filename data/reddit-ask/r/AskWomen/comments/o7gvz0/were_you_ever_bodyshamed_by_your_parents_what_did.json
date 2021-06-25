@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたは親にボディシェイムされたことがありますか？何を言われ、どう影響を受けましたか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你曾经被你的父母羞辱过吗？他们说了什么，对你有什么影响？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你曾經被你的父母羞辱過嗎？他們說了什麼，對你有什麼影響？"
+    }
+  ]
 }
