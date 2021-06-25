@@ -101,5 +101,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-25T07:14:47Z"
+  "original_createdAt": "2021-06-25T07:14:47Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "SlackやMS Teamsの中で、リアルタイムにチームと一緒に楽しいゲームをしましょう。1. トリビアクイズ (50K+ Qs, 毎月更新) 2. 人気のない意見の投票 3. ごちゃまぜワード 4. クロスワード 5. お絵かきクイズ 6. This or That 7. True or False 8. GIF Charades 9. ウォータークーラー",
+      "tagline": "クイズやパズル、ゲームをSlackやTeamsで同僚と楽しむことができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "在Slack和MS Teams内与你的团队一起实时玩有趣的游戏! 1. 琐事问答（50K+问题，每月更新） 2. (不)受欢迎的意见调查 3. 杂乱无章的单词 4. 填字游戏 5. 词典 6. 这个或那个 7. 真或假 8. GIF猜谜 9. 水冷却器",
+      "tagline": "在Slack和Teams中与同事们一起玩猜谜、拼图和游戏"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在Slack和MS Teams內與你的團隊一起實時玩有趣的遊戲! 1. 瑣事問答（50K+問題，每月更新） 2. (不)受歡迎的意見調查 3. 雜亂無章的單詞 4. 填字遊戲 5. 詞典 6. 這個或那個 7. 真或假 8. GIF猜謎 9. 水冷卻器",
+      "tagline": "在Slack和Teams中與同事們一起玩猜謎、拼圖和遊戲"
+    }
+  ]
 }
