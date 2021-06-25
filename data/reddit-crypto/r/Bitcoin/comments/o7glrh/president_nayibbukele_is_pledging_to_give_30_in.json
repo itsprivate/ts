@@ -47,5 +47,19 @@
     "type": "twitter.com"
   },
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "大統領の @nayibbukele は、すべてのエルサルバドル人に30ドルの #Bitcoin を贈ることを約束しています。"
+    },
+    {
+      "locale": "zh",
+      "title": "总统@nayibbukele承诺向每个萨尔瓦多人提供30美元的#比特币。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "總統@nayibbukele承諾向每個薩爾瓦多人提供30美元的#比特幣。"
+    }
+  ]
 }
