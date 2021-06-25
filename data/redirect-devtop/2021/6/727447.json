@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-14T01:16:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BC8KDj9Q--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d9qepnblnnsk4vlyahpl.jpg",
   "author": "Elegberun Olugbenga",
-  "author_url": "https://dev.to/gbengelebs"
+  "author_url": "https://dev.to/gbengelebs",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Cover Photo by Alexander Shatov on Unsplash Netflixは、世界のインターネットの約15％を占めています...",
+      "title": "Netflixのシステム設計-バックエンドアーキテクチャ"
+    },
+    {
+      "locale": "zh",
+      "description": "封面照片：Alexander Shatov on Unsplash Netflix约占世界互联网的15%。",
+      "title": "Netflix系统设计-后端架构"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "封面照片：Alexander Shatov on Unsplash Netflix約佔世界互聯網的15%。",
+      "title": "Netflix系統設計-後端架構"
+    }
+  ]
 }
