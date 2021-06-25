@@ -52,5 +52,22 @@
   "original_created_at": "2021-06-24T06:37:29Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gz6fQHAH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gewayci55svprpczz20n.jpg",
   "author": "Maina Wycliffe",
-  "author_url": "https://dev.to/mainawycliffe"
+  "author_url": "https://dev.to/mainawycliffe",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、テンプレートリテラルの種類と、それを利用する方法について詳しく説明します。",
+      "title": "TypeScriptのテンプレートリテラル型"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我们将仔细研究模板字面的类型，以及你如何能利用它。",
+      "title": "TypeScript中的模板字面类型"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我們將仔細研究模板字面的類型，以及你如何能利用它。",
+      "title": "TypeScript中的模板字面類型"
+    }
+  ]
 }
