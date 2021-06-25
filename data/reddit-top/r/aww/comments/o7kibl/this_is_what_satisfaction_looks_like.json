@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これが満足感の正体です。"
+    },
+    {
+      "locale": "zh",
+      "title": "这就是满意的模样。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這就是滿意的模樣。"
+    }
+  ]
 }
