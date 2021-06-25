@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "友だち同士でわちゃわちゃ"
+    },
+    {
+      "locale": "zh",
+      "title": "朋友们在一起胡闹"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "朋友們在一起胡鬧"
+    }
+  ]
 }
