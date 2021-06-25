@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-25T01:47:38Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4Uz9XIMK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/evb8h4b4svzmujts7s2x.png",
   "author": "Anjan Shomodder",
-  "author_url": "https://dev.to/thatanjan"
+  "author_url": "https://dev.to/thatanjan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Top UI frameworks for react UIライブラリは、美しい外観を実現するために非常に人気があります...",
+      "title": "ReactのためのトップUIフレームワーク"
+    },
+    {
+      "locale": "zh",
+      "description": "顶尖的UI框架的反应UI库是非常流行的，用于创建美丽的外观。",
+      "title": "适用于React的顶级UI框架"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "頂尖的UI框架的反應UI庫是非常流行的，用於創建美麗的外觀。",
+      "title": "適用於React的頂級UI框架"
+    }
+  ]
 }
