@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "中国からのCO2排出量に関する非常に興味深いデータです。"
+    },
+    {
+      "locale": "zh",
+      "title": "关于来自中国的二氧化碳排放的非常有趣的数据。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "關於來自中國的二氧化碳排放的非常有趣的數據。"
+    }
+  ]
 }

@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "家の中の蛇穴"
+    },
+    {
+      "locale": "zh",
+      "title": "房子里的蛇洞"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "房子裏的蛇洞"
+    }
+  ]
 }
