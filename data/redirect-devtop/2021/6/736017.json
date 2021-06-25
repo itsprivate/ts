@@ -52,5 +52,22 @@
   "original_created_at": "2021-06-22T20:15:54Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--p_Cnourd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5d6ldraidazi5m1yrcvt.png",
   "author": "Carol Skelly",
-  "author_url": "https://dev.to/carolskelly"
+  "author_url": "https://dev.to/carolskelly",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Bootstrap 5とVue.jsを使った計算機の作り方",
+      "title": "VueとBootstrap 5を使ったシンプルな計算機"
+    },
+    {
+      "locale": "zh",
+      "description": "如何使用Bootstrap 5和Vue.js创建一个计算器",
+      "title": "使用Vue和Bootstrap 5的简单计算器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如何使用Bootstrap 5和Vue.js創建一個計算器",
+      "title": "使用Vue和Bootstrap 5的簡單計算器"
+    }
+  ]
 }

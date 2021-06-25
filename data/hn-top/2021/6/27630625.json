@@ -13,5 +13,19 @@
   ],
   "objectID": "27630625",
   "original_created_at": "2021-06-25T13:40:51.000Z",
-  "image": ""
+  "image": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Go 1.17では、従来の「go get」の使用を非推奨としています。"
+    },
+    {
+      "locale": "zh",
+      "title": "Go 1.17正在废除 \"go get \"的传统用法。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Go 1.17正在廢除 \"go get \"的傳統用法。"
+    }
+  ]
 }
