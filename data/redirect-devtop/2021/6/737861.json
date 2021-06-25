@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-24T13:28:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QsdptG49--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k34n580fjmhbil513xo6.png",
   "author": "Rudolf Cicko",
-  "author_url": "https://dev.to/cicko"
+  "author_url": "https://dev.to/cicko",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Angularはフレームワークで、ReactやVueはライブラリなので、Angularの方が重いです。",
+      "title": "React vs Angular vs Vue (簡単な説明)"
+    },
+    {
+      "locale": "zh",
+      "description": "Angular是一个框架，而React和Vue则是库，因此Angular要比库重。",
+      "title": "React vs Angular vs Vue（简述"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Angular是一個框架，而React和Vue則是庫，因此Angular要比庫重。",
+      "title": "React vs Angular vs Vue（簡述"
+    }
+  ]
 }
