@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-24T15:40:16Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OiQIgwSr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9mw0kv6mcof8oagtrl0v.jpg",
   "author": "Ash G",
-  "author_url": "https://dev.to/ash_grover"
+  "author_url": "https://dev.to/ash_grover",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私は「Brisqi」というオフライン・ファーストのパーソナル・カンバン・アプリを開発し、5つの異なるバージョンで発売しました。",
+      "title": "私は、React、React Native、NextJSでアプリを作りました。学んだこと"
+    },
+    {
+      "locale": "zh",
+      "description": "我开发了一个离线第一的个人看板应用，名为Brisqi，并为5个不同的公司推出了它。",
+      "title": "我在React、React Native和NextJS中构建了我的应用程序。学到的经验。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我開發了一個離線第一的個人看板應用，名爲Brisqi，併爲5個不同的公司推出了它。",
+      "title": "我在React、React Native和NextJS中構建了我的應用程序。學到的經驗。"
+    }
+  ]
 }
