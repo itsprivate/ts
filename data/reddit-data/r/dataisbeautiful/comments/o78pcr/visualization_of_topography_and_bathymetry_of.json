@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "1975年のヴィンテージUSGSベースマップを用いたハワイの地形と水深の可視化（3Dレンダリング） [OC]."
+    },
+    {
+      "locale": "zh",
+      "title": "使用1975年美国地质调查局的老式基图对夏威夷的地形和水深进行可视化（3D渲染） [OC]"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "使用1975年美國地質調查局的老式基圖對夏威夷的地形和水深進行可視化（3D渲染） [OC]"
+    }
+  ]
 }
