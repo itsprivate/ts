@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Edit: meant to write Later in life not late"
+  "the_new_excerpt": "Edit: meant to write Later in life not late",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "Edit: late in lifeではなくLater in lifeと書きたかった。",
+      "title": "30歳以上の女性の皆さん、人生の後半に始めた趣味で、自分でも驚くほど楽しかったものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "编辑：我想写的是生命中的后期，而不是后期",
+      "title": "30岁以上的女性，你有什么爱好是你在生活中很晚才开始的，你对自己有多喜欢它感到惊讶？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "編輯：我想寫的是生命中的後期，而不是後期",
+      "title": "30歲以上的女性，你有什麼愛好是你在生活中很晚纔開始的，你對自己有多喜歡它感到驚訝？"
+    }
+  ]
 }
