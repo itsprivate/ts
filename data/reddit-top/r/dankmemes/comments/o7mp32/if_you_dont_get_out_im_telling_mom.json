@@ -91,5 +91,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし出てこなかったら、お母さんに言うよ。"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你不出来，我就告诉妈妈"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你不出來，我就告訴媽媽"
+    }
+  ]
 }
