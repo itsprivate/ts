@@ -14,5 +14,19 @@
   "tags": [
     "The New York Times"
   ],
-  "image": "https://static01.nyt.com/images/2021/06/25/world/25germany/25germany-facebookJumbo.jpg"
+  "image": "https://static01.nyt.com/images/2021/06/25/world/25germany/25germany-facebookJumbo.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ドイツでの刺殺事件で3名の死亡が報告される"
+    },
+    {
+      "locale": "zh",
+      "title": "德国发生刺杀事件，据报有三人死亡"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "德國發生刺殺事件，據報有三人死亡"
+    }
+  ]
 }
