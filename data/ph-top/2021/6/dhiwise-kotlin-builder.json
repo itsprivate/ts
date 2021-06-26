@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-26T07:00:00Z"
+  "original_createdAt": "2021-06-26T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "DhiWiseは、Android開発者のためのデザイン・トゥー・コード・プラットフォームです。あなたのFigmaファイルを、開発者が使いやすい、生産に適したAppコードに、光速で変換します。",
+      "tagline": "数回のクリックでFigmaデザインをKotlinコードに落とし込むことができる"
+    },
+    {
+      "locale": "zh",
+      "description": "DhiWise是一个面向安卓开发者的设计到代码的平台。以闪电般的速度将您的Figma文件转化为对开发者友好的、可用于生产的App代码。",
+      "tagline": "将Figma设计转化为Kotlin代码，只需点击几下即可完成"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "DhiWise是一個面向安卓開發者的設計到代碼的平臺。以閃電般的速度將您的Figma文件轉化爲對開發者友好的、可用於生產的App代碼。",
+      "tagline": "將Figma設計轉化爲Kotlin代碼，只需點擊幾下即可完成"
+    }
+  ]
 }
