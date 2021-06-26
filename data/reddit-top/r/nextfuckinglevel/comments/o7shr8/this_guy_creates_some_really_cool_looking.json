@@ -65,5 +65,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この人は、おもちゃを使ってとてもかっこいい写真を作っています。"
+    },
+    {
+      "locale": "zh",
+      "title": "这个人利用玩具创造了一些看起来非常酷的摄影作品"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個人利用玩具創造了一些看起來非常酷的攝影作品"
+    }
+  ]
 }
