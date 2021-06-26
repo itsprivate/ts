@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "エルサルバドルでビットコインを使ってコーヒーを買う。"
+    },
+    {
+      "locale": "zh",
+      "title": "用比特币在萨尔瓦多买咖啡。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "用比特幣在薩爾瓦多買咖啡。"
+    }
+  ]
 }
