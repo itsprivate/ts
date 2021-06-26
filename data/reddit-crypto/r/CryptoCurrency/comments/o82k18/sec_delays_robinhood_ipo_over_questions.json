@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "SECがRobinhoodのIPOを延期、同社の暗号ビジネスに関する質問で"
+    },
+    {
+      "locale": "zh",
+      "title": "美国证券交易委员会推迟Robinhood的IPO，原因是有关公司的加密货币业务的问题"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "美國證券交易委員會推遲Robinhood的IPO，原因是有關公司的加密貨幣業務的問題"
+    }
+  ]
 }
