@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-24T03:04:25Z",
   "image": "https://dev.to/social_previews/article/737347.png",
   "author": "cole-flournoy",
-  "author_url": "https://dev.to/coleflournoy"
+  "author_url": "https://dev.to/coleflournoy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このポストは、React Nativeの経験があるからこそ、React Nativeに興味があるという人のためのものです。",
+      "title": "React JSから来たReact Nativeについて何を知っておくべきですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "这个职位是为那些对React Native感兴趣的人准备的，因为他们有这方面的经验...",
+      "title": "从React JS来到React Native，我需要了解什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這個職位是爲那些對React Native感興趣的人準備的，因爲他們有這方面的經驗...",
+      "title": "從React JS來到React Native，我需要了解什麼？"
+    }
+  ]
 }

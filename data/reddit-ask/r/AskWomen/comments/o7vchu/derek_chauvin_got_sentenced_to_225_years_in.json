@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "The original was to be at 30 years. How do you feel about the sentence he got?"
+  "the_new_excerpt": "The original was to be at 30 years. How do you feel about the sentence he got?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "当初は30年の予定でした。彼が受けた判決についてはどう思いますか？",
+      "title": "Derek ChauvinはGeorge Floydを殺害した罪で22.5年の実刑判決を受けましたが、これについてどう思われますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "原本要判30年的。你对他的判决有什么看法？",
+      "title": "Derek Chauvin因谋杀George Floyd被判处22.5年监禁，你对此有何看法？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "原本要判30年的。你對他的判決有什麼看法？",
+      "title": "Derek Chauvin因謀殺George Floyd被判處22.5年監禁，你對此有何看法？"
+    }
+  ]
 }
