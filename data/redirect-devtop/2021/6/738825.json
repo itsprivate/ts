@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-25T04:54:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yd2yWXhC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lkkltz8nexc3xzbim3hz.png",
   "author": "Dale Zak",
-  "author_url": "https://dev.to/dalezak"
+  "author_url": "https://dev.to/dalezak",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Railsアプリを作り始めて以来、いつかRailsでモバイルアプリを作ることを夢見ていました....",
+      "title": "再利用可能なTurbo-iOSプロジェクトがRailsアプリから完全に構成される"
+    },
+    {
+      "locale": "zh",
+      "description": "自从我开始构建Rails应用以来，我一直梦想着有一天能用Rails构建移动应用....。",
+      "title": "可重复使用的Turbo-iOS项目完全由你的Rails应用程序配置"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "自從我開始構建Rails應用以來，我一直夢想着有一天能用Rails構建移動應用....。",
+      "title": "可重複使用的Turbo-iOS項目完全由你的Rails應用程序配置"
+    }
+  ]
 }
