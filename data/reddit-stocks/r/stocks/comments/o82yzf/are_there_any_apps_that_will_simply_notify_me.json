@@ -103,5 +103,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1624678461,
-  "the_new_excerpt": "Like I can choose some companies and it will analyze news sources for them, and\nsend notifications if there seems to be a large amount of good/bad news\nhappening for those companies. Could be useful for daytrading"
+  "the_new_excerpt": "Like I can choose some companies and it will analyze news sources for them, and\nsend notifications if there seems to be a large amount of good/bad news\nhappening for those companies. Could be useful for daytrading",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "例えば、いくつかの企業を選択すると、その企業のニュースソースを分析して\nニュースソースを分析して、それらの企業に大量の良い/悪いニュースが発生した場合に通知を送ります。\n通知してくれます。デイトレードに役立ちそうです。",
+      "title": "企業に関する良いニュースや悪いニュースが多いときに、簡単に通知してくれるアプリはありませんか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "比如我可以选择一些公司，它将分析这些公司的新闻来源，如果有大量的好的/坏的新闻，就发送通知。\n如果这些公司似乎有大量的好消息/坏消息，它就会发出通知。\n的通知。对日间交易可能很有用",
+      "title": "是否有任何应用程序可以在一家公司出现大量的好/坏消息时简单地通知我？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "比如我可以選擇一些公司，它將分析這些公司的新聞來源，如果有大量的好的/壞的新聞，就發送通知。\n如果這些公司似乎有大量的好消息/壞消息，它就會發出通知。\n的通知。對日間交易可能很有用",
+      "title": "是否有任何應用程序可以在一家公司出現大量的好/壞消息時簡單地通知我？"
+    }
+  ]
 }
