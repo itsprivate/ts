@@ -57,5 +57,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Hi, everyone!\nI am happy to share my recent small utility project with you all. It is a\ncommand-line tool that helps developers to automate some obvious tasks like\nscaffolding a new react application and generating a new component. It supports\nboth typescript & javascript templates.\n\nRefer to the…"
+  "the_new_excerpt": "Hi, everyone!\nI am happy to share my recent small utility project with you all. It is a\ncommand-line tool that helps developers to automate some obvious tasks like\nscaffolding a new react application and generating a new component. It supports\nboth typescript & javascript templates.\n\nRefer to the…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "皆さん、こんにちは。\n今回は、私が最近手がけた小さなユーティリティープロジェクトを皆さんにご紹介します。これは\nコマンドラインツールです。\n新しいReactアプリケーションの足場作りや、新しいコンポーネントの生成などの明白なタスクを自動化するためのコマンドラインツールです。このツールは\ntypecriptとjavascriptの両方のテンプレートをサポートしています。\n\n詳細はこちらをご覧ください。",
+      "title": "REACTアプリケーション用コマンドラインツール"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "大家好!\n我很高兴与大家分享我最近的小型实用项目。它是一个\n它是一个命令行工具，可以帮助开发者自动完成一些明显的任务，如\n构建一个新的react应用和生成一个新的组件。它支持\n它同时支持typecript和javascript模板。\n\n请参考...",
+      "title": "用于REACT应用的命令行工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "大家好!\n我很高興與大家分享我最近的小型實用項目。它是一個\n它是一個命令行工具，可以幫助開發者自動完成一些明顯的任務，如\n構建一個新的react應用和生成一個新的組件。它支持\n它同時支持typecript和javascript模板。\n\n請參考...",
+      "title": "用於REACT應用的命令行工具"
+    }
+  ]
 }
