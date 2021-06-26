@@ -43,5 +43,22 @@
   "original_created_at": "2021-06-24T05:54:12Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q7UzuL0a--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ennh33qrn6a996bgw4am.jpg",
   "author": "Yogesh Chavan",
-  "author_url": "https://dev.to/myogeshchavan97"
+  "author_url": "https://dev.to/myogeshchavan97",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、あまり知られていないが、非常に便利な機能を提供している...",
+      "title": "意外と知られていないReactアプリ作成時の便利な機能"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我们将探究由美国政府提供的鲜为人知但非常有用的功能。",
+      "title": "你可能不知道的创建React应用程序所提供的非常有用的功能"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我們將探究由美國政府提供的鮮爲人知但非常有用的功能。",
+      "title": "你可能不知道的創建React應用程序所提供的非常有用的功能"
+    }
+  ]
 }
