@@ -39,5 +39,22 @@
   "original_created_at": "2021-06-24T01:43:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--L_bQd-9F--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cb1w7fpw4eyzykkizied.png",
   "author": "Nour El-Din Shobier",
-  "author_url": "https://dev.to/noureldinshobier"
+  "author_url": "https://dev.to/noureldinshobier",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、Flutteringを始めて2年が経過した今、私が経験したベスト・プラクティスを紹介したいと思います。",
+      "title": "スケーラブルなFlutterアプリの構築（アーキテクチャ、スタイリング、規約、状態管理"
+    },
+    {
+      "locale": "zh",
+      "description": "经过两年的Fluttering工作，我想在这篇文章中分享我的最佳实践。",
+      "title": "构建可扩展的Flutter应用程序（架构、风格、惯例、状态管理）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "經過兩年的Fluttering工作，我想在這篇文章中分享我的最佳實踐。",
+      "title": "構建可擴展的Flutter應用程序（架構、風格、慣例、狀態管理）。"
+    }
+  ]
 }
