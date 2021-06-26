@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-26T07:03:56Z"
+  "original_createdAt": "2021-06-26T07:03:56Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "スタンドアップを行い、レポートを生成するためのセルフホスティングのslackボットです。",
+      "tagline": "スタンドアップを行うためのセルフホスト型のSlackボットです。"
+    },
+    {
+      "locale": "zh",
+      "description": "一个自我托管的Slack机器人，用于进行站立和生成报告。",
+      "tagline": "一个自我托管的Slack机器人，用于进行Standups。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個自我託管的Slack機器人，用於進行站立和生成報告。",
+      "tagline": "一個自我託管的Slack機器人，用於進行Standups。"
+    }
+  ]
 }
