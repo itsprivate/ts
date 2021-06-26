@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-11T19:33:24Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5JNB3hqC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y5uxca0cdrdtimo2gue7.jpg",
   "author": "InHuOfficial",
-  "author_url": "https://dev.to/inhuofficial"
+  "author_url": "https://dev.to/inhuofficial",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TL;DR In a rush? この記事は2つの文章で構成されています。タグの重み付けの値を高く設定することで、...",
+      "title": "💡 クイック・ティップス DEV.TOのホームフィードをより良くする「アンチフォロー」タグの重み付けについて "
+    },
+    {
+      "locale": "zh",
+      "description": "TL;DR 在匆忙中？这篇文章两句话。在你的标签上设置一个较高的权重值，以便...",
+      "title": "💡 快速提示。使用 \"反关注 \"标签权重使你的DEV.TO主页更出色 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "TL;DR 在匆忙中？這篇文章兩句話。在你的標籤上設置一個較高的權重值，以便...",
+      "title": "💡 快速提示。使用 \"反關注 \"標籤權重使你的DEV.TO主頁更出色 "
+    }
+  ]
 }
