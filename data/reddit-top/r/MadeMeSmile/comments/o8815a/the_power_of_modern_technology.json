@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "現代のテクノロジーの力"
+    },
+    {
+      "locale": "zh",
+      "title": "现代技术的力量"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "現代技術的力量"
+    }
+  ]
 }
