@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-07T16:08:55Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Eik_Z52U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qqeez0ueok0acvk4unfi.jpg",
   "author": "Kritika Srivastava",
-  "author_url": "https://dev.to/kritika27"
+  "author_url": "https://dev.to/kritika27",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、開発者の皆さん。ウェブ開発を学んでいると、学ぶべきことが多すぎて圧倒されてしまうことがよくあります。",
+      "title": "ウェブサイト/アプリ構築のためのボイラープレート"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，开发部的朋友们。在我们学习网络开发的过程中，我们经常会因为要学习的东西太多而不知所措。",
+      "title": "网站/应用程序建设的锅炉板"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，開發部的朋友們。在我們學習網絡開發的過程中，我們經常會因爲要學習的東西太多而不知所措。",
+      "title": "網站/應用程序建設的鍋爐板"
+    }
+  ]
 }
