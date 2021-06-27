@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "中性浮力になるまでヘリウム風船にテープを貼ってみましたが、まるで宇宙空間にいるようです。"
+    },
+    {
+      "locale": "zh",
+      "title": "我在一个氦气球上贴了胶带，直到它有中性浮力。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我在一個氦氣球上貼了膠帶，直到它有中性浮力。"
+    }
+  ]
 }

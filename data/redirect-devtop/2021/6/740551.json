@@ -50,5 +50,22 @@
   "original_created_at": "2021-06-27T05:40:44Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--P9oCD-d0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fglxyj8e270wrb3cswrc.png",
   "author": "Innocent Coder",
-  "author_url": "https://dev.to/innocentcoder"
+  "author_url": "https://dev.to/innocentcoder",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは。今日は、javascriptを学ぶのに使えるリソースのトップ5をご紹介します。Javascriptは...",
+      "title": "Javascriptを学ぶのに最適なリソーストップ5"
+    },
+    {
+      "locale": "zh",
+      "description": "朋友们好，今天我们有五大资源，你可以用来学习javascript。爪哇语是一种语言。",
+      "title": "学习Javascript的五大最佳资源"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "朋友們好，今天我們有五大資源，你可以用來學習javascript。爪哇語是一種語言。",
+      "title": "學習Javascript的五大最佳資源"
+    }
+  ]
 }
