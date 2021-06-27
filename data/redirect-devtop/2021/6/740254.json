@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-26T17:46:24Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EXXMvtdk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xe41of5krkfxophk04ye.png",
   "author": "chinedu | ddevguys",
-  "author_url": "https://dev.to/chinedu"
+  "author_url": "https://dev.to/chinedu",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Big(O)とは，2つのプログラムのアルゴリズムの複雑さを，標準的な方法で比較する方法です．",
+      "title": "Big(O)記法をまとめてみました"
+    },
+    {
+      "locale": "zh",
+      "description": "Big(O)是我们比较两个程序的算法复杂性的方式，在一个标准的...",
+      "title": "大(O)记号的总结!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Big(O)是我們比較兩個程序的算法複雜性的方式，在一個標準的...",
+      "title": "大(O)記號的總結!"
+    }
+  ]
 }
