@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、死刑判決を受けて、自分で方法を選べるとしたら、それは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你被判处死刑，但他们让你选择自己的方法，那会是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你被判處死刑，但他們讓你選擇自己的方法，那會是什麼？"
+    }
+  ]
 }

@@ -50,5 +50,22 @@
   "original_created_at": "2021-06-26T06:34:16Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5E-2Imlu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/42po739z0xpf144bmxmy.png",
   "author": "Naman vyas",
-  "author_url": "https://dev.to/namanvyas"
+  "author_url": "https://dev.to/namanvyas",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは。1ヶ月ほど前、私は退屈しのぎに簡単なソーシャルメディアサイトを作りました...",
+      "title": "Next JS、TailwindCss、Firebaseを使って8日間でソーシャルメディアサイトを構築する"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，大约一个月前，我创建了一个简单的社会媒体网站，因为我很无聊，而且...",
+      "title": "在8天内用Next JS、TailwindCss和Firebase建立一个社会媒体网站"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，大約一個月前，我創建了一個簡單的社會媒體網站，因爲我很無聊，而且...",
+      "title": "在8天內用Next JS、TailwindCss和Firebase建立一個社會媒體網站"
+    }
+  ]
 }
