@@ -57,5 +57,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Ethereum transaction fees are currently 3 gweis ~($0.12)! Which is already\ncheaper than some blockchains without smart contracts. Ethereum is scaling while\nmaintaining decentralized security!\n\nSource: https://www.gasnow.org/"
+  "the_new_excerpt": "Ethereum transaction fees are currently 3 gweis ~($0.12)! Which is already\ncheaper than some blockchains without smart contracts. Ethereum is scaling while\nmaintaining decentralized security!\n\nSource: https://www.gasnow.org/",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "イーサリアムの取引手数料は現在3グウェイス～（0.12ドル）です。これはすでに\nスマートコントラクトを持たないいくつかのブロックチェーンよりも安いです。イーサリアムはスケーリングしながら\n非中央集権的なセキュリティを維持しています。\n\n出典: https://www.gasnow.org/",
+      "title": "イーサリアムの取引手数料は、現在3グウェイス～（0.12ドル）です。これは、スマートコントラクトを持たないいくつかのブロックチェーンよりもすでに安いです。イーサリアムは非中央集権的なセキュリティを維持しながらスケーリングしています。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "以太坊的交易费目前是3格威~(0.12美元)! 这已经\n比一些没有智能合约的区块链更便宜。以太坊在扩大规模的同时\n保持去中心化的安全!\n\n来源：https://www.gasnow.org/",
+      "title": "以太坊的交易费用目前是3格威~（0.12美元）! 这已经比一些没有智能合约的区块链便宜了。以太坊在保持去中心化安全的同时，也在不断扩大规模!"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "以太坊的交易費目前是3格威~(0.12美元)! 這已經\n比一些沒有智能合約的區塊鏈更便宜。以太坊在擴大規模的同時\n保持去中心化的安全!\n\n來源：https://www.gasnow.org/",
+      "title": "以太坊的交易費用目前是3格威~（0.12美元）! 這已經比一些沒有智能合約的區塊鏈便宜了。以太坊在保持去中心化安全的同時，也在不斷擴大規模!"
+    }
+  ]
 }
