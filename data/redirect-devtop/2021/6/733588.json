@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-20T08:44:44Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--L0oXIdU_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pgd5rr67siutfaaml6mj.png",
   "author": "programmer-list",
-  "author_url": "https://dev.to/programmerlist"
+  "author_url": "https://dev.to/programmerlist",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "開発者コミュニティでは、毎日たくさんの記事が投稿されています。そこで今日は、この同じ平均...",
+      "title": "読んで損はない開発記事ベスト10"
+    },
+    {
+      "locale": "zh",
+      "description": "在开发者社区，每天都有许多文章发布。因此，今天在这个相同的平均...",
+      "title": "10篇你不能错过的最佳发展文章"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在開發者社區，每天都有許多文章發佈。因此，今天在這個相同的平均...",
+      "title": "10篇你不能錯過的最佳發展文章"
+    }
+  ]
 }
