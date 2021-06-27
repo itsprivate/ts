@@ -11,5 +11,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ノードは6%増、チャネルは10%増、容量は19%増。ライトニングネットワークにとって、今日は良い日"
+    },
+    {
+      "locale": "zh",
+      "title": "节点增长6%，通道增长10%，容量增长19%。今天是闪电网络的好日子"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "節點增長6%，通道增長10%，容量增長19%。今天是閃電網絡的好日子"
+    }
+  ]
 }
