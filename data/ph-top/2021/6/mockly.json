@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-27T07:00:00Z"
+  "original_createdAt": "2021-06-27T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Mocklyをチェック! 電子書籍やその他のファイルのための、カスタマイズ可能で魅力的なモックアップを素早く生成する方法です。PH/Gumroadローンチに最適です。PS: これはPHでの私の最初のプロダクトローンチです。",
+      "tagline": "数分で美しい電子書籍のモックアップを作成"
+    },
+    {
+      "locale": "zh",
+      "description": "看看Mockly! 最快的方式为您的电子书和其他文件生成高度可定制但令人惊叹的模拟图。非常适合你的PH/gumroad发布会。PS: 这是我第一次在PH上发布产品。",
+      "tagline": "在几分钟内完成令人惊叹的电子书模拟图"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "看看Mockly! 最快的方式爲您的電子書和其他文件生成高度可定製但令人驚歎的模擬圖。非常適合你的PH/gumroad發佈會。PS: 這是我第一次在PH上發佈產品。",
+      "tagline": "在幾分鐘內完成令人驚歎的電子書模擬圖"
+    }
+  ]
 }
