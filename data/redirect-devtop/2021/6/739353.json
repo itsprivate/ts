@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-25T16:27:52Z",
   "image": "https://dev.to/social_previews/article/739353.png",
   "author": "Robson Muniz",
-  "author_url": "https://dev.to/robsonmuniz16"
+  "author_url": "https://dev.to/robsonmuniz16",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "開発者の皆さん、今日はスライドアニメーションを使った素晴らしいログイン・登録フォームを作ってみましょう...",
+      "title": "🎬HTML＆CSS＆JSを使ったログイン＆登録フォーム✨です。"
+    },
+    {
+      "locale": "zh",
+      "description": "嘿，开发者们，今天我们要做一个带滑动动画的超棒的登录和注册表格...",
+      "title": "使用HTML & CSS & JS的登录和注册表格✨"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嘿，開發者們，今天我們要做一個帶滑動動畫的超棒的登錄和註冊表格...",
+      "title": "使用HTML & CSS & JS的登錄和註冊表格✨"
+    }
+  ]
 }
