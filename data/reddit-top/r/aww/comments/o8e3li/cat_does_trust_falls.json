@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ネコは人を信じている"
+    },
+    {
+      "locale": "zh",
+      "title": "猫咪确实信任跌倒。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "貓咪確實信任跌倒。"
+    }
+  ]
 }
