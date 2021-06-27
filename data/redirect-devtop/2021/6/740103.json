@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-26T13:47:29Z",
   "image": "https://dev.to/social_previews/article/740103.png",
   "author": "Ahtsham Ajus",
-  "author_url": "https://dev.to/ahtshamajus"
+  "author_url": "https://dev.to/ahtshamajus",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "さて、次はこれらのボタン、つまりアイコンボタンのスタイルを決め、配置したいと思います。 私たちがしたいのは...",
+      "title": "今日は「よくある質問のまとめ方」を学びました。"
+    },
+    {
+      "locale": "zh",
+      "description": "好了，现在我们要为这些按钮设计样式，这些图标按钮，定位它们。 我们要给...",
+      "title": "今天我学会了 \"创建常见问题崩溃\"。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "好了，現在我們要爲這些按鈕設計樣式，這些圖標按鈕，定位它們。 我們要給...",
+      "title": "今天我學會了 \"創建常見問題崩潰\"。"
+    }
+  ]
 }
