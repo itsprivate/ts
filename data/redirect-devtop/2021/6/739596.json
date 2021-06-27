@@ -43,5 +43,22 @@
   "original_created_at": "2021-06-25T21:31:19Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WMxdYEMm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jmj7nu6xhrop9vlnls8j.jpg",
   "author": "Mayank Kumar",
-  "author_url": "https://dev.to/mayank0508"
+  "author_url": "https://dev.to/mayank0508",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "React.jsとは何ですか？   React.jsとは、オープンソースのJavaScriptライブラリであり、ユーザーインターフェースの構築に使用されています。",
+      "title": "React.jsに飛びつく前にマスターしておくべきこと !"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是React.js？   React.js是一个开源的JavaScript库，用于构建用户体验。",
+      "title": "在你跳上React.js之前，你应该掌握的事情！!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是React.js？   React.js是一個開源的JavaScript庫，用於構建用戶體驗。",
+      "title": "在你跳上React.js之前，你應該掌握的事情！!"
+    }
+  ]
 }
