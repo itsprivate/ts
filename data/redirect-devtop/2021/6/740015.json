@@ -43,5 +43,22 @@
   "original_created_at": "2021-06-26T11:24:31Z",
   "image": "https://dev.to/social_previews/article/740015.png",
   "author": "Andrea Cappuccio",
-  "author_url": "https://dev.to/hood"
+  "author_url": "https://dev.to/hood",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私たちIT関係者は、新しい技術的なものをいじるのが大好きで、Dockerも例外ではありません。実際のところ、Dockerは...",
+      "title": "Docker CMD vs ENTRYPOINT：違いを説明する"
+    },
+    {
+      "locale": "zh",
+      "description": "我们IT人喜欢捣鼓新的技术东西，Docker也不例外。事实上，...",
+      "title": "Docker CMD与ENTRYPOINT：解释区别"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們IT人喜歡搗鼓新的技術東西，Docker也不例外。事實上，...",
+      "title": "Docker CMD與ENTRYPOINT：解釋區別"
+    }
+  ]
 }
