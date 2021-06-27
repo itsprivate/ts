@@ -52,5 +52,22 @@
   "original_created_at": "2021-05-20T19:17:56Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6oP_Q7OH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2jbu4zopyadh4ynbrqmi.jpeg",
   "author": "Ryan Carniato",
-  "author_url": "https://dev.to/ryansolid"
+  "author_url": "https://dev.to/ryansolid",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近はSolid 1.0のリリースに向けた最適化に注力していますが、今回は...。",
+      "title": "UIコンポーネントのリアルコスト再考"
+    },
+    {
+      "locale": "zh",
+      "description": "最近我的注意力回到了为Solid 1.0版本的优化上，我想我应该...",
+      "title": "重新审视UI组件的真实成本"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "最近我的注意力回到了爲Solid 1.0版本的優化上，我想我應該...",
+      "title": "重新審視UI組件的真實成本"
+    }
+  ]
 }
