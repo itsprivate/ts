@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Additionally is there anything I would recognise like a latte or espresso?"
+  "the_new_excerpt": "Additionally is there anything I would recognise like a latte or espresso?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "さらに、ラテやエスプレッソのような認識をするものはありますか？",
+      "title": "17世紀のイギリスのコーヒーハウスに入ったんだけど、メニューは何があるの？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "此外，是否有什么我认可的东西，如拿铁或浓缩咖啡？",
+      "title": "我走进了一个17世纪的英国咖啡馆，菜单上有什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "此外，是否有什麼我認可的東西，如拿鐵或濃縮咖啡？",
+      "title": "我走進了一個17世紀的英國咖啡館，菜單上有什麼？"
+    }
+  ]
 }
