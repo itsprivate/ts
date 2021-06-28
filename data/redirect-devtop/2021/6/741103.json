@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-27T17:47:03Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Dgw-dFCB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/790ajjopfbylbnn38gr7.png",
   "author": "Anjan Shomodder",
-  "author_url": "https://dev.to/thatanjan"
+  "author_url": "https://dev.to/thatanjan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactjsは、javascriptのフレームワークです。しかし、初心者はしっかりとしたjavascriptを身につけていないと苦労します...。",
+      "title": " Reactjsを学ぶ前に理解すべき11のJavaScriptコンセプト"
+    },
+    {
+      "locale": "zh",
+      "description": "Reactjs是一个javascript框架。但是，如果初学者没有扎实的javascript基础，就会陷入困境...",
+      "title": " 学习Reactjs之前需要了解的11个JavaScript概念"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Reactjs是一個javascript框架。但是，如果初學者沒有紮實的javascript基礎，就會陷入困境...",
+      "title": " 學習Reactjs之前需要了解的11個JavaScript概念"
+    }
+  ]
 }
