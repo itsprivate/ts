@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-28T08:00:00Z"
+  "original_createdAt": "2021-06-28T08:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Notionウェブサイトテンプレートのオールインワンライブラリ これらのテンプレートを使えば、Notionを使って素早く簡単に自分のウェブサイトやポートフォリオを作成することができます。",
+      "tagline": "概念ベースのウェブサイトテンプレート"
+    },
+    {
+      "locale": "zh",
+      "description": "一体化的Notion网站模板库 有了这些模板，你就能用Notion快速、轻松地创建自己的网站/作品集。",
+      "tagline": "基于概念的网站模板"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一體化的Notion網站模板庫 有了這些模板，你就能用Notion快速、輕鬆地創建自己的網站/作品集。",
+      "tagline": "基於概念的網站模板"
+    }
+  ]
 }
