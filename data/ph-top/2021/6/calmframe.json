@@ -48,5 +48,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-28T18:05:06Z"
+  "original_createdAt": "2021-06-28T18:05:06Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Calmframeは、メッセンジャーのプロフィール写真にテキストフレームを作成する小さなウェブアプリで、もしかしたらあなたの休暇を救ってくれるかもしれません。",
+      "tagline": "穏やかな休暇を過ごすためのプロフィールフォトフレーム"
+    },
+    {
+      "locale": "zh",
+      "description": "Calmframe是一个小小的网络应用，可以为你的信使个人资料图片创建一个文本框架--也许它可以拯救你的假期。",
+      "tagline": "平静度假的简介相框"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Calmframe是一個小小的網絡應用，可以爲你的信使個人資料圖片創建一個文本框架--也許它可以拯救你的假期。",
+      "tagline": "平靜度假的簡介相框"
+    }
+  ]
 }
