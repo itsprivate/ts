@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この女性はロックスターだ"
+    },
+    {
+      "locale": "zh",
+      "title": "这位女士是一位摇滚明星"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這位女士是一位搖滾明星"
+    }
+  ]
 }
