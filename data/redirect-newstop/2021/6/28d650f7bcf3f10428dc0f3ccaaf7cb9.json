@@ -14,5 +14,19 @@
   "tags": [
     "The New York Times"
   ],
-  "image": "https://static01.nyt.com/images/2021/06/28/world/28LONDON-FIRE1/28LONDON-FIRE1-facebookJumbo.jpg"
+  "image": "https://static01.nyt.com/images/2021/06/28/world/28LONDON-FIRE1/28LONDON-FIRE1-facebookJumbo.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ロンドンの鉄道駅付近で火災が発生し、道路が閉鎖され、避難が呼びかけられました。"
+    },
+    {
+      "locale": "zh",
+      "title": "伦敦火车站附近发生火灾，道路被关闭，人员被疏散"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "倫敦火車站附近發生火災，道路被關閉，人員被疏散"
+    }
+  ]
 }
