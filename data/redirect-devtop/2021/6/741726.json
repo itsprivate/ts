@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-28T12:22:41Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ShQ2sB58--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fe0nxci7uiln3j04d0i3.jpg",
   "author": "KUMAR HARSH",
-  "author_url": "https://dev.to/cenacr007_harsh"
+  "author_url": "https://dev.to/cenacr007_harsh",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactは、UIコンポーネントを構築するためのJavaScriptライブラリです。Reactのエコシステムは本当に膨大で...",
+      "title": "React.jsの入門編⚛と必要なJavaScript! "
+    },
+    {
+      "locale": "zh",
+      "description": "React是一个用于构建UI组件的JavaScript库。React的生态系统真的很庞大...",
+      "title": "介绍React.js ⚛和所需的JavaScript! "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "React是一個用於構建UI組件的JavaScript庫。React的生態系統真的很龐大...",
+      "title": "介紹React.js ⚛和所需的JavaScript! "
+    }
+  ]
 }
