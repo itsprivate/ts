@@ -111,5 +111,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1624894614,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "$PLAYはプレイですか？希望する"
+    },
+    {
+      "locale": "zh",
+      "title": "$PLAY是游戏？我希望"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "$PLAY是遊戲？我希望"
+    }
+  ]
 }
