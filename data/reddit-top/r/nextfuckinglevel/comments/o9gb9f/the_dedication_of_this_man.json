@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この人の献身は"
+    },
+    {
+      "locale": "zh",
+      "title": "这个人的奉献精神"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個人的奉獻精神"
+    }
+  ]
 }
