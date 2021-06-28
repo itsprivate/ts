@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "1年3ヶ月を経て、ついに私のデータビジュアライゼーションソフトウェアのProバージョンを発表しました。"
+    },
+    {
+      "locale": "zh",
+      "title": "经过1年零3个月，我终于推出了我的数据可视化软件的专业版本。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "經過1年零3個月，我終於推出了我的數據可視化軟件的專業版本。"
+    }
+  ]
 }
