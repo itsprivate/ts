@@ -37,5 +37,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Coinbaseは、ドイツの金融監督庁から暗号カストディライセンスを取得した最初の企業となりました"
+    },
+    {
+      "locale": "zh",
+      "title": "Coinbase成为首家获得德国金融监管局颁发的加密货币托管许可证的公司"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Coinbase成爲首家獲得德國金融監管局頒發的加密貨幣託管許可證的公司"
+    }
+  ]
 }

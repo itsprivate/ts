@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-24T11:19:54Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qxYDM5Nn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dhwi93wdjm5z3dmqg53u.png",
   "author": "Ryan Carniato",
-  "author_url": "https://dev.to/ryansolid"
+  "author_url": "https://dev.to/ryansolid",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ここまでの道のりは長かったですね。いつ始めたのかさえも思い出せないほど長い道のりでした。私はログ...",
+      "title": "SolidJSの公式リリース。1.0への長い道のり"
+    },
+    {
+      "locale": "zh",
+      "description": "走到这里是一条漫长的道路。它已经如此之长，我甚至不记得我是什么时候开始的。我登录了...",
+      "title": "SolidJS正式发布。通往1.0的漫长道路"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "走到這裏是一條漫長的道路。它已經如此之長，我甚至不記得我是什麼時候開始的。我登錄了...",
+      "title": "SolidJS正式發佈。通往1.0的漫長道路"
+    }
+  ]
 }
