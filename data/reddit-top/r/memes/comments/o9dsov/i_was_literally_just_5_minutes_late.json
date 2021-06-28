@@ -133,5 +133,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "文字通り5分の遅刻だった"
+    },
+    {
+      "locale": "zh",
+      "title": "我真的只迟到了5分钟"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我真的只遲到了5分鐘"
+    }
+  ]
 }
