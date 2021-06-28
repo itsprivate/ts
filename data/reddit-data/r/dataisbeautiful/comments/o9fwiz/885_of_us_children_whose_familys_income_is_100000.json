@@ -47,5 +47,19 @@
     }
   },
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "世帯収入が10万ドル以上の米国の子どもの88.5％は、両親が結婚している状態で暮らしている（出典：http://census.gov）。"
+    },
+    {
+      "locale": "zh",
+      "title": "88.5%的美国儿童，其家庭收入在10万美元以上，与父母双方共同生活（来源：http://census.gov）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "88.5%的美國兒童，其家庭收入在10萬美元以上，與父母雙方共同生活（來源：http://census.gov）。"
+    }
+  ]
 }
