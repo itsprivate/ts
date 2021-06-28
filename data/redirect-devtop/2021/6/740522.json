@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-27T03:26:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Cm35uuLo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/td95yezoyas4au9wzlny.png",
   "author": "Tapajyoti Bose",
-  "author_url": "https://dev.to/ruppysuppy"
+  "author_url": "https://dev.to/ruppysuppy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Gitは、バージョン管理を効率的に行うことができるため、技術業界で最も使用されているツールの1つです...",
+      "title": "Gitの基礎知識。概念とコマンドの簡略化"
+    },
+    {
+      "locale": "zh",
+      "description": "Git是技术行业中最常用的工具之一，因为它有效地解决了版本控制问题。",
+      "title": "Git基础知识。简化的概念和命令"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Git是技術行業中最常用的工具之一，因爲它有效地解決了版本控制問題。",
+      "title": "Git基礎知識。簡化的概念和命令"
+    }
+  ]
 }
