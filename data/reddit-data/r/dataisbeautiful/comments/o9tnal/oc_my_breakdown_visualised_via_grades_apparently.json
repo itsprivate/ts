@@ -42,5 +42,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] 成績で可視化された私の内訳。どうやら私はどん底に落ちて、跳ね返ったようです。"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]我的崩溃是通过成绩可视化的。显然，我跌到了谷底，以至于弹了起来。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]我的崩潰是通過成績可視化的。顯然，我跌到了谷底，以至於彈了起來。"
+    }
+  ]
 }
