@@ -91,5 +91,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私はここで何をしているのだろうと自問する"
+    },
+    {
+      "locale": "zh",
+      "title": "我问自己，我在这里做什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我問自己，我在這裏做什麼？"
+    }
+  ]
 }

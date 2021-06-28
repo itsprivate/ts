@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "自作自演ではない"
+    },
+    {
+      "locale": "zh",
+      "title": "不是自作主张的人"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不是自作主張的人"
+    }
+  ]
 }
