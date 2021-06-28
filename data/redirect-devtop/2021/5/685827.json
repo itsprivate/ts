@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-03T00:47:39Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gh2tsoEm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kemauetddjar4x5vtq0w.png",
   "author": "Mangabo Kolawole",
-  "author_url": "https://dev.to/koladev"
+  "author_url": "https://dev.to/koladev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "フルスタック開発者として、バックエンド技術を用いて認証システムを構築する方法を理解する。",
+      "title": "FullStack React & Django 認証 : Django REST、TypeScript、Axios、Redux、React Router"
+    },
+    {
+      "locale": "zh",
+      "description": "作为一个全栈开发者，了解如何利用后台技术建立一个认证系统...",
+      "title": "FullStack React & Django认证。Django REST ,TypeScript, Axios, Redux & React Router"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "作爲一個全棧開發者，瞭解如何利用後臺技術建立一個認證系統...",
+      "title": "FullStack React & Django認證。Django REST ,TypeScript, Axios, Redux & React Router"
+    }
+  ]
 }

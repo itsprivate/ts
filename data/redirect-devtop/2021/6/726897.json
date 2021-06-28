@@ -41,5 +41,22 @@
   "original_created_at": "2021-06-13T10:12:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jLF8Fhul--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uvlumopn81m82vm78x2y.png",
   "author": "Dewald Els",
-  "author_url": "https://dev.to/sumodevelopment"
+  "author_url": "https://dev.to/sumodevelopment",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "データとエラーの配列を返す任意のPromiseを実行する再利用可能な関数。 Async/Awaitを使うと...",
+      "title": "JavaScriptを使用しています。非同期/アウェイトラッパー"
+    },
+    {
+      "locale": "zh",
+      "description": "可重复使用的函数，运行任何返回数据和错误数组的Promise。 使用Async/Await是...",
+      "title": "脚本。异步/等待包络器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "可重複使用的函數，運行任何返回數據和錯誤數組的Promise。 使用Async/Await是...",
+      "title": "腳本。異步/等待包絡器"
+    }
+  ]
 }
