@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-29T07:19:43Z"
+  "original_createdAt": "2021-06-29T07:19:43Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Massless Media APIは、メディアの作成、処理、および共有のためのシンプルなREST APIを提供することで、開発を高速化します。この API を使用して、メディアアプリケーションを迅速に試作できます。",
+      "tagline": "画像、ドキュメント、ビデオのためのRESTful API"
+    },
+    {
+      "locale": "zh",
+      "description": "Massless Media API为媒体的创建、处理和共享提供了一个简单的REST API，从而加速了开发。利用这个API可以快速建立媒体应用的原型。",
+      "tagline": "用于图像、文件和视频的RESTful API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Massless Media API爲媒體的創建、處理和共享提供了一個簡單的REST API，從而加速了開發。利用這個API可以快速建立媒體應用的原型。",
+      "tagline": "用於圖像、文件和視頻的RESTful API"
+    }
+  ]
 }
