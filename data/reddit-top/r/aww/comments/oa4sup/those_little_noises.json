@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "その小さな音は"
+    },
+    {
+      "locale": "zh",
+      "title": "那些小声音"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "那些小聲音"
+    }
+  ]
 }
