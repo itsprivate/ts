@@ -93,5 +93,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-28T07:01:00Z"
+  "original_createdAt": "2021-06-28T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ScreenFlow 10は、macOS Big Sur向けに刷新された完全に新しいUIを持ち、カスタマイズ可能な新しいツールバー、再構築された環境設定ウィンドウ、改善されたタイムライントラック機能とメインメニューの構成を備えています。",
+      "tagline": "画面、マイク、カメラの同時録画ができる唯一のアプリ"
+    },
+    {
+      "locale": "zh",
+      "description": "ScreenFlow 10有一个全新的用户界面--为macOS Big Sur刷新了一个新的可定制的工具栏，重新制作了偏好窗口，改进了时间线轨迹功能和主菜单组织。",
+      "tagline": "唯一同时进行屏幕、麦克风和摄像头录制的应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "ScreenFlow 10有一個全新的用戶界面--爲macOS Big Sur刷新了一個新的可定製的工具欄，重新制作了偏好窗口，改進了時間線軌跡功能和主菜單組織。",
+      "tagline": "唯一同時進行屏幕、麥克風和攝像頭錄製的應用程序"
+    }
+  ]
 }
