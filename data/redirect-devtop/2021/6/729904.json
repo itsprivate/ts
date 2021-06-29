@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-16T10:24:05Z",
   "image": "https://dev.to/social_previews/article/729904.png",
   "author": "Siddharth",
-  "author_url": "https://dev.to/siddharthshyniben"
+  "author_url": "https://dev.to/siddharthshyniben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "テキストエリアを改良したので、その方法をここで紹介します  これが最終的な結果です： ...",
+      "title": "テキストエリアを改善しよう"
+    },
+    {
+      "locale": "zh",
+      "description": "我改进了文本区域，我将在这里向你展示我是如何做到的!  这是最后的结果：...",
+      "title": "让我们改进textarea!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我改進了文本區域，我將在這裏向你展示我是如何做到的!  這是最後的結果：...",
+      "title": "讓我們改進textarea!"
+    }
+  ]
 }
