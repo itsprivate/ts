@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "でも、ハグしてもらってもいいですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "是的，但我可以得到一个拥抱吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "是的，但我可以得到一個擁抱嗎？"
+    }
+  ]
 }
