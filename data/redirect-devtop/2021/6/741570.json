@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-28T07:39:01Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fJwHv5lZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mtio0zfd161z1vkhv4jw.png",
   "author": "Karan Pratap Singh",
-  "author_url": "https://dev.to/karanpratapsingh"
+  "author_url": "https://dev.to/karanpratapsingh",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、私が手がけていたプロジェクトをTypeScriptに移行しました。その際にWebpackを使うことにしました...",
+      "title": "WebpackとESBuildによるTypeScriptの高速化"
+    },
+    {
+      "locale": "zh",
+      "description": "最近，我把我一直在做的一个项目迁移到了TypeScript。我决定在这个项目中使用Webpack...",
+      "title": "使用Webpack和ESBuild的快速TypeScript"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "最近，我把我一直在做的一個項目遷移到了TypeScript。我決定在這個項目中使用Webpack...",
+      "title": "使用Webpack和ESBuild的快速TypeScript"
+    }
+  ]
 }
