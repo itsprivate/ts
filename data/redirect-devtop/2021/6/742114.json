@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-28T18:07:56Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--O7nHruJF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/35fn3bb8newiyshri46k.jpg",
   "author": "Benjamin Daniel",
-  "author_url": "https://dev.to/benjamindaniel"
+  "author_url": "https://dev.to/benjamindaniel",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに サーバーの状態を管理するのに苦労したことはありませんか？ また、長い文章を書くのに苦労したことはありませんか？",
+      "title": "React/React NativeプロジェクトでReact-Queryを使用する必要がある理由"
+    },
+    {
+      "locale": "zh",
+      "description": "简介 你有管理服务器状态的问题吗？或者发现自己在写长篇大论的文章时，有什么问题？",
+      "title": "为什么你需要在你的React/React Native项目中使用React-Query？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介 你有管理服務器狀態的問題嗎？或者發現自己在寫長篇大論的文章時，有什麼問題？",
+      "title": "爲什麼你需要在你的React/React Native項目中使用React-Query？"
+    }
+  ]
 }
