@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-28T08:00:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--O93gEavF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dfpvvg5cx47dla4it3t7.jpg",
   "author": "tbaveja",
-  "author_url": "https://dev.to/tbaveja"
+  "author_url": "https://dev.to/tbaveja",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "多くの開発者は、GraphQLを使用しているときにRESTに常に引きずられていると感じることがあり、その逆の場合もあります。",
+      "title": "GraphQLとRESTの比較 - まとめ"
+    },
+    {
+      "locale": "zh",
+      "description": "通常情况下，开发人员在使用GraphQL时往往会感觉到REST的不断拉动，反之亦然，因为...",
+      "title": "GraphQL vs REST - 结论"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "通常情況下，開發人員在使用GraphQL時往往會感覺到REST的不斷拉動，反之亦然，因爲...",
+      "title": "GraphQL vs REST - 結論"
+    }
+  ]
 }
