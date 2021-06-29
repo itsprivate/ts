@@ -106,5 +106,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "負けモードと勝ちモード"
+    },
+    {
+      "locale": "zh",
+      "title": "失败与胜利的模式"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "失敗與勝利的模式"
+    }
+  ]
 }
