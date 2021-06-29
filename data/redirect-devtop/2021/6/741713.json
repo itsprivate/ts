@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-28T12:04:50Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lAXcZo4a--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/whdwyowj0na2r33mbiwb.jpg",
   "author": "Dhaiwat Pandya",
-  "author_url": "https://dev.to/dhaiwat10"
+  "author_url": "https://dev.to/dhaiwat10",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactを使用したことがあれば、APIへの問い合わせが必要になったことがあるだろう。データの重要性は...",
+      "title": "Reactでデータを取得するための魔法のような方法"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你曾经使用过React，你有可能不得不查询一个API。数据的重要性。",
+      "title": "在React中获取数据的一种神奇的方式"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你曾經使用過React，你有可能不得不查詢一個API。數據的重要性。",
+      "title": "在React中獲取數據的一種神奇的方式"
+    }
+  ]
 }
