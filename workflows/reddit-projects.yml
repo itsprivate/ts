@@ -10,7 +10,7 @@ on:
       outputsMode: combine
       exportOutputs: true
       filterScript: |
-        if(item.score>10){
+        if(item.score>4){
           return true
         }
 
