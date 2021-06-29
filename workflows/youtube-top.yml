@@ -3,7 +3,7 @@ on:
     playlist_id:
       - PLrEnWoR732-BHrPp_Pm8_VleD68f9s14-
     config:
-      # limit: 2
+      limit: 2
       # force: true
       outputsMode: combine
       exportOutputs: true
