@@ -91,5 +91,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"事実はあなたの感情を気にしない\""
+    },
+    {
+      "locale": "zh",
+      "title": "\"事实并不关心你的感受\""
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"事實並不關心你的感受\""
+    }
+  ]
 }
