@@ -50,5 +50,22 @@
   "original_created_at": "2021-06-29T09:09:28Z",
   "image": "https://dev.to/social_previews/article/742651.png",
   "author": "SnowBit",
-  "author_url": "https://dev.to/snowbit7"
+  "author_url": "https://dev.to/snowbit7",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "アルゴリア・プレイス   Algolia Placesは、フォームのオートコンプリートを支援するJavaScriptライブラリで、...",
+      "title": "2021年に知っておくべきJavascriptのベストライブラリ"
+    },
+    {
+      "locale": "zh",
+      "description": "Algolia Places:   Algolia Places是一个JavaScript库，它可以帮助你自动完成表格，并且可以让你在任何时候都可以使用。",
+      "title": "2021年你应该知道的最佳Javascript库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Algolia Places:   Algolia Places是一個JavaScript庫，它可以幫助你自動完成表格，並且可以讓你在任何時候都可以使用。",
+      "title": "2021年你應該知道的最佳Javascript庫"
+    }
+  ]
 }
