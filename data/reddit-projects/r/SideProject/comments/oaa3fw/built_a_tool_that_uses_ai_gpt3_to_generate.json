@@ -71,5 +71,19 @@
     }
   },
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "AI（GPT-3）を利用してオーダーメイドのレジュメを自動生成するツールを構築"
+    },
+    {
+      "locale": "zh",
+      "title": "建立了一个使用人工智能（GPT-3）的工具，自动生成定制的简历"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "建立了一個使用人工智能（GPT-3）的工具，自動生成定製的簡歷"
+    }
+  ]
 }
