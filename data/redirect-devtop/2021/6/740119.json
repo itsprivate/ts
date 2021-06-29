@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-26T14:32:45Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VMG8csmt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r64patkoma3v60wua11i.jpg",
   "author": "Michał Pietraszko",
-  "author_url": "https://dev.to/pietmichal"
+  "author_url": "https://dev.to/pietmichal",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私が担当した最高のコードベースは、アプリが提供する機能を中心にフォルダが構成されていました。",
+      "title": "規模に応じたアプリの構成方法。"
+    },
+    {
+      "locale": "zh",
+      "description": "我发现自己工作的最好的代码库，其文件夹是围绕着应用程序提供的功能而构建的。",
+      "title": "如何以可扩展的方式构建你的应用程序。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我發現自己工作的最好的代碼庫，其文件夾是圍繞着應用程序提供的功能而構建的。",
+      "title": "如何以可擴展的方式構建你的應用程序。"
+    }
+  ]
 }
