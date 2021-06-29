@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Google辞書拡張に代わるもの"
+    },
+    {
+      "locale": "zh",
+      "title": "谷歌词典的替代扩展"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "谷歌詞典的替代擴展"
+    }
+  ]
 }

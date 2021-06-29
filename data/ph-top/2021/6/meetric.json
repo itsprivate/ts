@@ -98,5 +98,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-29T07:05:00Z"
+  "original_createdAt": "2021-06-29T07:05:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Meetricは、カレンダー📆に接続して、会議のメモ✍️やToDo✅を会議に参加している誰とでも簡単に書き込めるSaas製品です🧑🤝🧑。",
+      "tagline": "カレンダーと連動した生産性の高いミーティングノート"
+    },
+    {
+      "locale": "zh",
+      "description": "Meetric是一个连接到你的日历📆的Saas产品，可以轻松地写下会议笔记✍️和待办事项✅与会议中的任何人🧑🤝🧑。",
+      "tagline": "超高生产力的会议记录，与你的日历相连"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Meetric是一個連接到你的日曆📆的Saas產品，可以輕鬆地寫下會議筆記✍️和待辦事項✅與會議中的任何人🧑🤝🧑。",
+      "tagline": "超高生產力的會議記錄，與你的日曆相連"
+    }
+  ]
 }

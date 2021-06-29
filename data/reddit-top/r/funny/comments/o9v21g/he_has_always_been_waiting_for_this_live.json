@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このライブをずっと待っていたそうです。"
+    },
+    {
+      "locale": "zh",
+      "title": "他一直在等待这个现场表演"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他一直在等待這個現場表演"
+    }
+  ]
 }

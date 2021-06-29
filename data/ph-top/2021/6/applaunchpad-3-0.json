@@ -83,5 +83,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-29T07:00:00Z"
+  "original_createdAt": "2021-06-29T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "AppLaunchpadは、App StoreやGoogle Playに掲載する魅力的なスクリーンショットを作成するためのデザインツールです。特徴 1) 無制限のレイアウトとデバイスフレームの色 2) Unsplashによる何百万もの背景画像 3) ローカライズ 4) 100以上の事前構築されたデザイナーテンプレート",
+      "tagline": "App StoreとGoogle Playのページのための美しい画像をデザインします。"
+    },
+    {
+      "locale": "zh",
+      "description": "AppLaunchpad是一个设计工具，可以为App Store和Google Play创建令人惊叹的屏幕截图。功能亮点 1) 无限的布局和设备框架颜色 2) 由Unsplash提供的数百万背景图片 3) 本地化 4) 100多个预建的设计模板",
+      "tagline": "为App Store和Google Play页面设计漂亮的图片"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "AppLaunchpad是一個設計工具，可以爲App Store和Google Play創建令人驚歎的屏幕截圖。功能亮點 1) 無限的佈局和設備框架顏色 2) 由Unsplash提供的數百萬背景圖片 3) 本地化 4) 100多個預建的設計模板",
+      "tagline": "爲App Store和Google Play頁面設計漂亮的圖片"
+    }
+  ]
 }

@@ -103,5 +103,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-29T07:02:50Z"
+  "original_createdAt": "2021-06-29T07:02:50Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "地元の人のように世界のすべてのビーチを知ることができます。何千ものクラウドソースのデータをナビゲートして、夏を楽しむためにあなたの近くのベストビーチを見つけてください。https://beachnearby.com",
+      "tagline": "あなたの近くのベストビーチを見つけよう"
+    },
+    {
+      "locale": "zh",
+      "description": "像当地人一样了解世界上的每一个海滩。浏览数以千计的众包数据，找出你附近的最佳海滩来享受夏天。 https://beachnearby.com",
+      "tagline": "发现你附近的最佳海滩"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "像當地人一樣瞭解世界上的每一個海灘。瀏覽數以千計的衆包數據，找出你附近的最佳海灘來享受夏天。 https://beachnearby.com",
+      "tagline": "發現你附近的最佳海灘"
+    }
+  ]
 }

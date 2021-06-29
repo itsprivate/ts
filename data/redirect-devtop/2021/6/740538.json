@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-27T04:54:12Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cAG2LsCG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://i.imgur.com/KXEPKc9h.png",
   "author": "Praveen Kumar",
-  "author_url": "https://dev.to/praveenscience"
+  "author_url": "https://dev.to/praveenscience",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今はJavaScriptの時代です。フルスタックのいたるところにJavaScriptが登場しています。2月14日からの30日間で、私が抱えていた30のクレイジーな問題を解決してみましょう!",
+      "title": "30 Days of React JS: 30日間で30の問題を解決する!"
+    },
+    {
+      "locale": "zh",
+      "description": "这是JavaScript的时代。JavaScript在全栈中无处不在。让我们从2月14日开始，在接下来的30天里，尝试解决我遇到的30个疯狂的问题吧!",
+      "title": "30天的React JS：30天内解决30个问题!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是JavaScript的時代。JavaScript在全棧中無處不在。讓我們從2月14日開始，在接下來的30天裏，嘗試解決我遇到的30個瘋狂的問題吧!",
+      "title": "30天的React JS：30天內解決30個問題!"
+    }
+  ]
 }
