@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-30T07:02:53Z"
+  "original_createdAt": "2021-06-30T07:02:53Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "GitHubのすべての課題、ラベル、担当者をNotionと自動的に同期します。複数のリポジトリを同期します。ワンクリックで設定できます。",
+      "tagline": "NotionでGitHubの課題を同期させる"
+    },
+    {
+      "locale": "zh",
+      "description": "自动将你所有的GitHub问题、标签和指定人与Notion同步。同步多个存储库。一键设置。",
+      "tagline": "将你的GitHub问题与Notion同步化"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "自動將你所有的GitHub問題、標籤和指定人與Notion同步。同步多個存儲庫。一鍵設置。",
+      "tagline": "將你的GitHub問題與Notion同步化"
+    }
+  ]
 }
