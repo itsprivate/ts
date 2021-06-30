@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ロビンフッドは規制違反でお咎めなし。ロビンフッドを暗号に使ってはいけない!"
+    },
+    {
+      "locale": "zh",
+      "title": "Robinhood因违反监管规定而被打了一巴掌。不要用Robinhood买加密货币!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Robinhood因違反監管規定而被打了一巴掌。不要用Robinhood買加密貨幣!"
+    }
+  ]
 }

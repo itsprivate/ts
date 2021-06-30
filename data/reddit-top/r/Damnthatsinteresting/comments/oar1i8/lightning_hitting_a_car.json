@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "車に当たる雷"
+    },
+    {
+      "locale": "zh",
+      "title": "闪电击中了一辆汽车"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "閃電擊中了一輛汽車"
+    }
+  ]
 }
