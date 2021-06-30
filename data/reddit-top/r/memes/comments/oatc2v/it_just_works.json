@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ただ、それだけです。"
+    },
+    {
+      "locale": "zh",
+      "title": "它只是工作！!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "它只是工作！!"
+    }
+  ]
 }
