@@ -57,5 +57,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "https://dico.app\n\n18 seconds demo [https://reddit.com/link/oaxk6z/video/2nk1k6yfqe871/player]"
+  "the_new_excerpt": "https://dico.app\n\n18 seconds demo [https://reddit.com/link/oaxk6z/video/2nk1k6yfqe871/player]",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "https://dico.app\n\n18秒デモ [https://reddit.com/link/oaxk6z/video/2nk1k6yfqe871/player]",
+      "title": "ハードコードされた文字列を編集可能なコンテンツに変換するツールを構築しました"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "https://dico.app\n\n18秒演示 [https://reddit.com/link/oaxk6z/video/2nk1k6yfqe871/player]",
+      "title": "我们已经建立了一个工具，将硬编码的字符串变成可编辑的内容"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "https://dico.app\n\n18秒演示 [https://reddit.com/link/oaxk6z/video/2nk1k6yfqe871/player]",
+      "title": "我們已經建立了一個工具，將硬編碼的字符串變成可編輯的內容"
+    }
+  ]
 }
