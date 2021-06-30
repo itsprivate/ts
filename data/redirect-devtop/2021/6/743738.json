@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-30T10:32:57Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--H8TJdKPr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k5azfbko2wuo71uf2udw.png",
   "author": "Dragos Nedelcu",
-  "author_url": "https://dev.to/dragosnedelcu"
+  "author_url": "https://dev.to/dragosnedelcu",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "簡単なアプリを作ったことがなくても、コンピュータサイエンスの学位を持っていなくても、問題ありません。",
+      "title": "42人の開発者に772.441ドルの昇給と昇進を支援してきました。"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你从来没有超越建立简单的应用程序，没有计算机科学的学位，那也没有关系。",
+      "title": "我们帮助42名开发人员获得了772.441美元的加薪和晋升，以下是我们学到的东西"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你從來沒有超越建立簡單的應用程序，沒有計算機科學的學位，那也沒有關係。",
+      "title": "我們幫助42名開發人員獲得了772.441美元的加薪和晉升，以下是我們學到的東西"
+    }
+  ]
 }
