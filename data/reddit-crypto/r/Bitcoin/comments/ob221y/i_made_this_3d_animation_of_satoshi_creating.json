@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインのジェネシスブロックを作るサトシの3Dアニメーションを作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了这个中本聪创造比特币创世块的3D动画。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了這個中本聰創造比特幣創世塊的3D動畫。"
+    }
+  ]
 }
