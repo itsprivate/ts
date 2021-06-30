@@ -48,5 +48,22 @@
   "original_created_at": "2021-06-29T11:01:24Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YRtFz6wA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d8fyvwt8kfhmssh187d7.gif",
   "author": "Vladimir Nikitin",
-  "author_url": "https://dev.to/loonywizard"
+  "author_url": "https://dev.to/loonywizard",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "みなさん、こんにちは。 私のライブラリjs-confettiが絵文字をサポートしたことをお知らせします。 こちらをご覧ください...",
+      "title": "絵文字を使ったJS Confettiライブラリ⚡️ 🎉"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好!  很高兴地宣布，我的库js-confetti现在支持emojis了！请看看我的库。 请看...",
+      "title": "JS Confetti库中的表情符号 ⚡️ 🎉"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好!  很高興地宣佈，我的庫js-confetti現在支持emojis了！請看看我的庫。 請看...",
+      "title": "JS Confetti庫中的表情符號 ⚡️ 🎉"
+    }
+  ]
 }
