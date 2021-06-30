@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "React, Redux, Firebase & Framer Motionで作られたNetflixクローン、Fakeflixをご紹介します。"
+    },
+    {
+      "locale": "zh",
+      "title": "很自豪地向您介绍Fakeflix，一个用React、Redux、Firebase和Framer Motion构建的Netflix克隆。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "很自豪地向您介紹Fakeflix，一個用React、Redux、Firebase和Framer Motion構建的Netflix克隆。"
+    }
+  ]
 }
