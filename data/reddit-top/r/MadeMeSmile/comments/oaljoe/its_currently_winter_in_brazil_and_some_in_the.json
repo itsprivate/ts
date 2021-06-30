@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ブラジルは現在冬で、南部では初めて雪が降ったところもあるそうです。"
+    },
+    {
+      "locale": "zh",
+      "title": "目前是巴西的冬季，南部的一些地区有史以来第一次看到了雪!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "目前是巴西的冬季，南部的一些地區有史以來第一次看到了雪!"
+    }
+  ]
 }

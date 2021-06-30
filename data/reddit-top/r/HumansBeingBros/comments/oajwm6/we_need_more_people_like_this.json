@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このような人がもっと必要です。"
+    },
+    {
+      "locale": "zh",
+      "title": "我们需要更多这样的人。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們需要更多這樣的人。"
+    }
+  ]
 }
