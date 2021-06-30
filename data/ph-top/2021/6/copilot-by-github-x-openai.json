@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-29T19:07:20Z"
+  "original_createdAt": "2021-06-29T19:07:20Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "GitHub Copilotは、エディター上であなたと一緒に働き、行や関数全体を提案してくれます。OpenAIを搭載し、何十億行もの公開コードで鍛えられたCopilotは、あなたの時間を節約し、集中力を維持するのに役立ちます。",
+      "tagline": "あなたのAIペアプログラマー"
+    },
+    {
+      "locale": "zh",
+      "description": "GitHub Copilot在你的编辑器中直接工作，为你推荐整行或整个功能。它由OpenAI提供技术支持，在数十亿行公共代码上进行训练，为你节省时间并帮助你保持专注。",
+      "tagline": "你的人工智能配对程序员"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "GitHub Copilot在你的編輯器中直接工作，爲你推薦整行或整個功能。它由OpenAI提供技術支持，在數十億行公共代碼上進行訓練，爲你節省時間並幫助你保持專注。",
+      "tagline": "你的人工智能配對程序員"
+    }
+  ]
 }
