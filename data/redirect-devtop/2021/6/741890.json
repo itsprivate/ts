@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-28T14:32:29Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JINa-0S2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ew9p3nunorwelye3ohg1.png",
   "author": "Diego Silva",
-  "author_url": "https://dev.to/coderamos"
+  "author_url": "https://dev.to/coderamos",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この驚異的なライブラリを使ってプロジェクトを改善するための2つのベスト・プラクティスを紹介します。 styled-componentsは...",
+      "title": "スタイルドコンポーネントによる生産性向上"
+    },
+    {
+      "locale": "zh",
+      "description": "两种最佳做法，用这个惊人的库来改善你的项目 风格化的组件是一个...",
+      "title": "用风格化的组件提高生产力"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "兩種最佳做法，用這個驚人的庫來改善你的項目 風格化的組件是一個...",
+      "title": "用風格化的組件提高生產力"
+    }
+  ]
 }

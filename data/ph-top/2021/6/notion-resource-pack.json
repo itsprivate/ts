@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-30T07:01:00Z"
+  "original_createdAt": "2021-06-30T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Notionを使う人のためのリソースを厳選して紹介しています。",
+      "tagline": "Notionの100以上のリソースを調べる"
+    },
+    {
+      "locale": "zh",
+      "description": "为使用Notion的人精心策划的资源集合。",
+      "tagline": "探索100多个关于Notion的资源"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "爲使用Notion的人精心策劃的資源集合。",
+      "tagline": "探索100多個關於Notion的資源"
+    }
+  ]
 }
