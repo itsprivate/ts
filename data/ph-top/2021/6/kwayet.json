@@ -96,5 +96,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-30T07:01:00Z"
+  "original_createdAt": "2021-06-30T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "チームでコミュニケーションをとるためのアプリはいくつかありますが、どれもWhatsAppやiMessageのような直感性や利便性に欠けています。⠀ Kwayetは、WhatsAppやiMessageのような直感的で便利な機能をチームにもたらし、電話番号も必要ありません。",
+      "tagline": "チームチャット＆コラボレーションアプリ、Slackのシンプルな方法"
+    },
+    {
+      "locale": "zh",
+      "description": "虽然有几个用于团队沟通的应用程序，但它们都缺乏WhatsApp和iMessage的直观性和便利性。⠀ Kwayet为你的团队带来了WhatsApp和iMessage的直观性和便利性，甚至不需要电话号码。",
+      "tagline": "团队聊天和协作应用程序，是Slack的一种简单方式"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "雖然有幾個用於團隊溝通的應用程序，但它們都缺乏WhatsApp和iMessage的直觀性和便利性。⠀ Kwayet爲你的團隊帶來了WhatsApp和iMessage的直觀性和便利性，甚至不需要電話號碼。",
+      "tagline": "團隊聊天和協作應用程序，是Slack的一種簡單方式"
+    }
+  ]
 }
