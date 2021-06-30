@@ -14,5 +14,19 @@
   "tags": [
     "The New York Times"
   ],
-  "image": "https://static01.nyt.com/images/2021/06/30/us/30virus-briefing-promo2/30virus-briefing-promo2-facebookJumbo.jpg"
+  "image": "https://static01.nyt.com/images/2021/06/30/us/30virus-briefing-promo2/30virus-briefing-promo2-facebookJumbo.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Live CovidのニュースとDelta Variantのアップデート"
+    },
+    {
+      "locale": "zh",
+      "title": "实时的Covid新闻和Delta变体更新"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "實時的Covid新聞和Delta變體更新"
+    }
+  ]
 }
