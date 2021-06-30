@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-27T16:31:07Z",
   "image": "https://dev.to/social_previews/article/741056.png",
   "author": "Nader Dabit",
-  "author_url": "https://dev.to/dabit3"
+  "author_url": "https://dev.to/dabit3",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "IPFS HTTPクライアントとInfuraを使ってWebアプリケーションからIPFSにファイルをアップロードする方法",
+      "title": "WebアプリケーションからIPFSへのファイルのアップロード"
+    },
+    {
+      "locale": "zh",
+      "description": "如何使用IPFS HTTP客户端和Infura从网络应用中向IPFS上传文件",
+      "title": "从Web应用上传文件到IPFS"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如何使用IPFS HTTP客戶端和Infura從網絡應用中向IPFS上傳文件",
+      "title": "從Web應用上傳文件到IPFS"
+    }
+  ]
 }

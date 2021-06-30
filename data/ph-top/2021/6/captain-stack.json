@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-30T07:11:21Z"
+  "original_createdAt": "2021-06-30T07:11:21Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Captain Stack は VSCode の拡張機能で、StackOverflow のコードの断片をエディタから直接見つけることができます。VSCode Insider (最新/非安定版VSCode)を使用する必要があります。VSCode Insider は https://code.visualstudio.com/insiders/ で入手できます。",
+      "tagline": "GitHub Copilotのオープンソース版"
+    },
+    {
+      "locale": "zh",
+      "description": "Captain Stack是一个VSCode扩展，帮助你从编辑器中直接找到StackOverflow的代码片段。你需要使用VSCode Insider（最新/不稳定的VSCode）。VSCode Insider可在https://code.visualstudio.com/insiders/。",
+      "tagline": "GitHub Copilot的一个开源替代品"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Captain Stack是一個VSCode擴展，幫助你從編輯器中直接找到StackOverflow的代碼片段。你需要使用VSCode Insider（最新/不穩定的VSCode）。VSCode Insider可在https://code.visualstudio.com/insiders/。",
+      "tagline": "GitHub Copilot的一個開源替代品"
+    }
+  ]
 }

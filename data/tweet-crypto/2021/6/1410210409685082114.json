@@ -134,5 +134,22 @@
     "retweet_count": 227,
     "favorite_count": 1122,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @fintechfrank: 今朝のWSJにNYDIGの大きな広告が掲載されました。\n\n\"Bitcoin for the people\" https://t.co/xamF7BiwFA",
+      "retweeted_status_full_text": "今朝のWSJにNYDIGの大きな広告が掲載されました。\n\n\"Bitcoin for the people\" https://t.co/xamF7BiwFA"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @fintechfrank: 今天早上WSJ上有一个很大的NYDIG广告 \n\n\"人民的比特币\" https://t.co/xamF7BiwFA",
+      "retweeted_status_full_text": "今早WSJ上的NYDIG大广告 \n\n\"人民的比特币\" https://t.co/xamF7BiwFA"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @fintechfrank: 今天早上WSJ上有一個很大的NYDIG廣告 \n\n\"人民的比特幣\" https://t.co/xamF7BiwFA",
+      "retweeted_status_full_text": "今早WSJ上的NYDIG大廣告 \n\n\"人民的比特幣\" https://t.co/xamF7BiwFA"
+    }
+  ]
 }
