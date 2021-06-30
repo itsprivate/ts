@@ -94,5 +94,22 @@
     "retweet_count": 175,
     "favorite_count": 600,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @ForbesCrypto: EXCLUSIVE: 企業向け決済大手の@NCRCorporationがビットコイン購入を650の銀行と信用組合に開放: by @DelRayMa...",
+      "retweeted_status_full_text": "EXCLUSIVE: 企業向け決済大手の@NCRCorporationがビットコインでの購入を650の銀行と信用組合に開放: by @DelRayMan \n\nhttps://t.co/Vi5EnhLKQD"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @ForbesCrypto: 独家：企业支付巨头@NCRCorporation向650家银行和信用社开放比特币购买：由@DelRayMa...",
+      "retweeted_status_full_text": "独家：企业支付巨头@NCRCorporation向650家银行和信用社开放比特币购买：作者：@DelRayMan \n\nhttps://t.co/Vi5EnhLKQD"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @ForbesCrypto: 獨家：企業支付巨頭@NCRCorporation向650家銀行和信用社開放比特幣購買：由@DelRayMa...",
+      "retweeted_status_full_text": "獨家：企業支付巨頭@NCRCorporation向650家銀行和信用社開放比特幣購買：作者：@DelRayMan \n\nhttps://t.co/Vi5EnhLKQD"
+    }
+  ]
 }

@@ -107,5 +107,22 @@
     "retweet_count": 185,
     "favorite_count": 1237,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @BTC_Archive: 中国で水力発電所が販売開始 #ビットコインのマイニング取り締まりで電力需要が減少したため。\n- 中国南部の...",
+      "retweeted_status_full_text": "中国で水力発電所が販売開始 #ビットコインマイニング取り締まりで電力需要が減少したため。\n- サウスチャイナモーニングポスト https://t.co/QKEbUzWN4g"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @BTC_Archive: 中国的水力发电站开始销售，因为#比特币挖矿的打击减少了对电力的需求。\n- 华南地区...",
+      "retweeted_status_full_text": "中国的水电站开始销售，因为#比特币挖矿的打击减少了对电力的需求。\n- 南华早报 https://t.co/QKEbUzWN4g"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @BTC_Archive: 中國的水力發電站開始銷售，因爲#比特幣挖礦的打擊減少了對電力的需求。\n- 華南地區...",
+      "retweeted_status_full_text": "中國的水電站開始銷售，因爲#比特幣挖礦的打擊減少了對電力的需求。\n- 南華早報 https://t.co/QKEbUzWN4g"
+    }
+  ]
 }
