@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-29T06:20:24Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--STbPNY8I--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pzo4zv7cs0tx6n8ai6rd.jpg",
   "author": "Michael Hoffmann",
-  "author_url": "https://dev.to/mokkapps"
+  "author_url": "https://dev.to/mokkapps",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、私が候補者に質問するReactインタビューの質問リストをまとめ、その...",
+      "title": "私のReactインタビューのトップ質問"
+    },
+    {
+      "locale": "zh",
+      "description": "本文总结了一份我想问候选人的React面试问题清单，这些问题都是我...",
+      "title": "我的顶级React面试问题"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "本文總結了一份我想問候選人的React面試問題清單，這些問題都是我...",
+      "title": "我的頂級React面試問題"
+    }
+  ]
 }
