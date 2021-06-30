@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私のビルの芝生を管理している人は、ミツバチが使えるように野の花を四角く残してくれました。"
+    },
+    {
+      "locale": "zh",
+      "title": "为我的楼房做草的人留下了一个长方形的野花，这样蜜蜂就可以使用它们了。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲我的樓房做草的人留下了一個長方形的野花，這樣蜜蜂就可以使用它們了。"
+    }
+  ]
 }
