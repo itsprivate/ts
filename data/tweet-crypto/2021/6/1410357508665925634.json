@@ -58,5 +58,19 @@
   "retweet_count": 146,
   "favorite_count": 705,
   "possibly_sensitive": false,
-  "original_created_at": "Wed Jun 30 22:00:07 +0000 2021"
+  "original_created_at": "Wed Jun 30 22:00:07 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "getrawtransaction 54e48e5f5c656b26c3bca14a8c95aa583d07ebe84dde3b7dd4a78f4e4186e713 0 00000000000000ecbbff6bafb7efa2f7df05b227d5c73dca8f2635af32a2e949 | sed 's/0100000000000000/\\n/g' | tail -n +2 | cut -c7-136, 139-268,271-400 | tr -d '\\n' | cut -c17-368600 | xxd -p -r &gt; bitcoin pdf https://t.co/ljU0JQle2w"
+    },
+    {
+      "locale": "zh",
+      "full_text": "getrawtransaction 54e48e5f5c656b26c3bca14a8c95aa583d07ebe84dde3b7dd4a78f4e4186e713 0 0000000000ecbbff6bafb7efa2f7df05b227d5c73dca8f2635af32a2e949 | sed 's/01000000000000/\\n/g' | tail -n +2 | cut -c7-136。 139-268,271-400 | tr -d '\\n' | cut -c17-368600 | xxd -p -r &gt; 比特币。 pdf https://t.co/ljU0JQle2w"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "getrawtransaction 54e48e5f5c656b26c3bca14a8c95aa583d07ebe84dde3b7dd4a78f4e4186e713 0 0000000000ecbbff6bafb7efa2f7df05b227d5c73dca8f2635af32a2e949 | sed 's/01000000000000/\\n/g' | tail -n +2 | cut -c7-136。 139-268,271-400 | tr -d '\\n' | cut -c17-368600 | xxd -p -r &gt; 比特幣。 pdf https://t.co/ljU0JQle2w"
+    }
+  ]
 }
