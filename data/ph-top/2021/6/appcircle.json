@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-06-30T08:13:40Z"
+  "original_createdAt": "2021-06-30T08:13:40Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "iOS、Android、React Native、Flutter用のモバイルアプリの継続的インテグレーション、継続的デリバリ、継続的テストのための自動化されたモバイルDevOpsプラットフォームです。AppcircleはエンタープライズグレードのDevOpsを誰にでも提供します。DevOpsの知識もMacも必要ありません!",
+      "tagline": "モバイルアプリケーションの構築、デプロイ、テストを迅速かつ容易に行うことができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "自动化的移动DevOps平台，用于iOS、Android、React Native和Flutter的移动应用程序的持续集成、持续交付和持续测试。Appcircle为每个人提供企业级的DevOps! 不需要DevOps知识，也不需要Mac!",
+      "tagline": "快速、轻松地构建、部署和测试移动应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "自動化的移動DevOps平臺，用於iOS、Android、React Native和Flutter的移動應用程序的持續集成、持續交付和持續測試。Appcircle爲每個人提供企業級的DevOps! 不需要DevOps知識，也不需要Mac!",
+      "tagline": "快速、輕鬆地構建、部署和測試移動應用程序"
+    }
+  ]
 }
