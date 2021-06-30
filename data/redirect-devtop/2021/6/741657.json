@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-28T10:08:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kfLim-IF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r7dsewdjm4x2wremmobr.png",
   "author": "CAST AI",
-  "author_url": "https://dev.to/castai"
+  "author_url": "https://dev.to/castai",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "過剰なプロビジョニングは、チームがクラウドの請求額を増やし続ける最大の理由です。しかし、クラウドを選択することで...",
+      "title": "15分でAmazon EKSのコストを半分にする方法"
+    },
+    {
+      "locale": "zh",
+      "description": "过度配置是团队看到他们的云计算账单不断增长的首要原因。但是，选择...",
+      "title": "如何在15分钟内将你的亚马逊EKS成本减少一半"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "過度配置是團隊看到他們的雲計算賬單不斷增長的首要原因。但是，選擇...",
+      "title": "如何在15分鐘內將你的亞馬遜EKS成本減少一半"
+    }
+  ]
 }

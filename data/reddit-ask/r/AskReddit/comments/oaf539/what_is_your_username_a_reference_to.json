@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたのユーザーネームは何を意味していますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你的用户名是指什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你的用戶名是指什麼？"
+    }
+  ]
 }
