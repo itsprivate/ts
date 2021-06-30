@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "タスクやイベントを自動的に認識して、googleカレンダーに追加するマークダウンエディタを作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个能自动识别任务/事件并将其添加到谷歌日历的markdown编辑器。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個能自動識別任務/事件並將其添加到谷歌日曆的markdown編輯器。"
+    }
+  ]
 }
