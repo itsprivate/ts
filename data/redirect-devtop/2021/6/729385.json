@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-15T20:58:16Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--huZPMA_5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bjbtz9v7yxeyqo578nx3.jpeg",
   "author": "Matteo Frana",
-  "author_url": "https://dev.to/matfrana"
+  "author_url": "https://dev.to/matfrana",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あなたは開発者です。あなたはヘッドレスCMSが大好きです。 煩わしさのないAPIを持ち、モダンな...",
+      "title": "React CMS。ミッシングリンク"
+    },
+    {
+      "locale": "zh",
+      "description": "你是一个开发者。你喜欢你的无头CMS。 拥有一个没有任何麻烦的API和一个现代的数据库。",
+      "title": "React CMS。缺少的环节"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你是一個開發者。你喜歡你的無頭CMS。 擁有一個沒有任何麻煩的API和一個現代的數據庫。",
+      "title": "React CMS。缺少的環節"
+    }
+  ]
 }
