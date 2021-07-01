@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "世の中のほとんど全てのコントローラーがそうです。"
+    },
+    {
+      "locale": "zh",
+      "title": "几乎所有的控制器都在那里。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "幾乎所有的控制器都在那裏。"
+    }
+  ]
 }
