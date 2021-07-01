@@ -136,5 +136,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "瞬時にTelegramからNotionにコンテンツを送信するTelegramボット"
+    },
+    {
+      "locale": "zh",
+      "title": "一个Telegram机器人，可以即时将内容从Telegram发送到Notion上。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個Telegram機器人，可以即時將內容從Telegram發送到Notion上。"
+    }
+  ]
 }
