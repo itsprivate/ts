@@ -50,5 +50,22 @@
   "original_created_at": "2021-06-29T13:06:33Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xuiGK1Mx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5exwq6nax4943b99wdwb.png",
   "author": "AJ Stuyvenberg",
-  "author_url": "https://dev.to/astuyve"
+  "author_url": "https://dev.to/astuyve",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "クラウドインフラをラムダコードから分離し、CloudFormation Outputsを使用してリソースを共有し、SSMを使用してTerraformや他のIaCツールとうまく連携させることで、複雑性、認知的負荷、デプロイメント時間を削減します。",
+      "title": "Serverless at (Team) Scale "
+    },
+    {
+      "locale": "zh",
+      "description": "通过将云基础设施与lambda代码分开，使用CloudFormation Outputs来共享资源，并使用SSM与Terraform和其他IaC工具打好关系，从而降低复杂性、认知负荷和部署时间。",
+      "title": "无服务器的（团队）规模 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "通過將雲基礎設施與lambda代碼分開，使用CloudFormation Outputs來共享資源，並使用SSM與Terraform和其他IaC工具打好關係，從而降低複雜性、認知負荷和部署時間。",
+      "title": "無服務器的（團隊）規模 "
+    }
+  ]
 }
