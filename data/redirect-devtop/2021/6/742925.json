@@ -43,5 +43,22 @@
   "original_created_at": "2021-06-29T14:57:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QWJBWakk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ntctbvqzn5bict74wlz3.png",
   "author": "CAST AI",
-  "author_url": "https://dev.to/castai"
+  "author_url": "https://dev.to/castai",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "クラウドのコストを配分するのは難しく、予測するのはさらに困難です。 ピンタレストはかつて...",
+      "title": "AWSのリザーブドインスタンスとセービングプランは本当にコスト削減になるのか？"
+    },
+    {
+      "locale": "zh",
+      "description": "分配云计算成本是困难的，而预测它们就更难了。 Pinterest公司曾经承诺...",
+      "title": "AWS保留实例和节约计划真的能降低成本吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "分配雲計算成本是困難的，而預測它們就更難了。 Pinterest公司曾經承諾...",
+      "title": "AWS保留實例和節約計劃真的能降低成本嗎？"
+    }
+  ]
 }
