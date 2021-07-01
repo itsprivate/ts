@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"窓を割らないでください、犬はもう死んでいます\""
+    },
+    {
+      "locale": "zh",
+      "title": "\"请不要打破我的窗户，狗已经死了\""
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"請不要打破我的窗戶，狗已經死了\""
+    }
+  ]
 }
