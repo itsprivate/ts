@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼は雨が降っていても気にせず、小さな男のためにバイクを修理するまでやめようとしませんでした。尊敬しています。"
+    },
+    {
+      "locale": "zh",
+      "title": "他不在乎是否下着大雨，他不会停下来，直到他为这个小家伙修好那辆自行车。尊重。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他不在乎是否下着大雨，他不會停下來，直到他爲這個小傢伙修好那輛自行車。尊重。"
+    }
+  ]
 }
