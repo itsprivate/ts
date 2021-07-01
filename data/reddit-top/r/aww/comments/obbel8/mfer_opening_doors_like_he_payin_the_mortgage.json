@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "住宅ローンを払うようにドアを開けるMFer"
+    },
+    {
+      "locale": "zh",
+      "title": "这家伙打开门，就像他在支付抵押贷款。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這傢伙打開門，就像他在支付抵押貸款。"
+    }
+  ]
 }
