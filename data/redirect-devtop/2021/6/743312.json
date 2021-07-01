@@ -50,5 +50,22 @@
   "original_created_at": "2021-06-29T22:48:28Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7IDQmftN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ur3hjp3lchm06ztg59i5.png",
   "author": "Matteo Bruni",
-  "author_url": "https://dev.to/matteobruni"
+  "author_url": "https://dev.to/matteobruni",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "tsParticlesと1.30バージョンで作られた新しい紙吹雪のアニメーションについての記事を書きました。        ...",
+      "title": "[React.js] tsParticlesを使って美しくリアルな紙吹雪のアニメーションを作成する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "我写了一篇关于tsParticles和1.30版本中创建的新彩纸动画的文章。        ...",
+      "title": "[React.js] 如何使用tsParticles创建美丽而逼真的纸屑动画"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我寫了一篇關於tsParticles和1.30版本中創建的新彩紙動畫的文章。        ...",
+      "title": "[React.js] 如何使用tsParticles創建美麗而逼真的紙屑動畫"
+    }
+  ]
 }
