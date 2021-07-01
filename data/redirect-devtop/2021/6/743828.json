@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-30T12:32:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OCYeXgqR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9vu045q1s799899xj17a.png",
   "author": "Naveenchandar",
-  "author_url": "https://dev.to/naveenchandar"
+  "author_url": "https://dev.to/naveenchandar",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "もしあなたがjavascriptや関連するフレームワークのプロジェクトに携わっているなら、間違いなくこのような状況に遭遇するでしょう。",
+      "title": "Package.jsonファイルの説明!!!"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你一直在从事javascript或相关框架项目的工作，那么你肯定遇到过...",
+      "title": "Package.json文件解释！!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你一直在從事javascript或相關框架項目的工作，那麼你肯定遇到過...",
+      "title": "Package.json文件解釋！!"
+    }
+  ]
 }
