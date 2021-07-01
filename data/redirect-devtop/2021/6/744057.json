@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-30T14:49:48Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lLKvVP1m--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/co53m571njci9eudp2zt.jpg",
   "author": "Saad Irfan",
-  "author_url": "https://dev.to/msaaddev"
+  "author_url": "https://dev.to/msaaddev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これが私の好きな方法です。ゆえに、みんなと共有しているのです。でも、もしあなたが何かをするとしたら...。",
+      "title": "オープンソースプロジェクトに必要なファイル"
+    },
+    {
+      "locale": "zh",
+      "description": "这就是我喜欢的方式。因此，我与大家分享这一点。但是，如果你做的事情...",
+      "title": "每个开源项目必须具备的文件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這就是我喜歡的方式。因此，我與大家分享這一點。但是，如果你做的事情...",
+      "title": "每個開源項目必須具備的文件"
+    }
+  ]
 }
