@@ -52,5 +52,22 @@
   "original_created_at": "2021-06-30T20:44:46Z",
   "image": "https://dev.to/social_previews/article/744465.png",
   "author": "Chris Noring",
-  "author_url": "https://dev.to/softchris"
+  "author_url": "https://dev.to/softchris",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "MLを学んでみませんか？ここでは、全体のコース",
+      "title": "MLの24のレッスンがGitHubに登場"
+    },
+    {
+      "locale": "zh",
+      "description": "想学习ML吗？这里有一个完整的课程",
+      "title": "关于ML的24节课，现在在GitHub上"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "想學習ML嗎？這裏有一個完整的課程",
+      "title": "關於ML的24節課，現在在GitHub上"
+    }
+  ]
 }

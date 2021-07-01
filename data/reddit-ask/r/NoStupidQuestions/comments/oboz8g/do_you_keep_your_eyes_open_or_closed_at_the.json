@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "歯医者さんでは、目を開けていますか、それとも閉じていますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你在看牙医时是睁眼还是闭眼？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你在看牙醫時是睜眼還是閉眼？"
+    }
+  ]
 }
