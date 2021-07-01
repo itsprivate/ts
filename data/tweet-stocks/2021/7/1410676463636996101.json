@@ -134,5 +134,22 @@
     "retweet_count": 479,
     "favorite_count": 1861,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @zerohedge: ロビンフッドは元SEC長官のダン・ギャラガー氏に3,000万ドルを支払い、そのほとんどが株式で支払われた https://t.co/aTxrpsuv1c",
+      "retweeted_status_full_text": "ロビンフッドは元SEC長官のダン・ギャラガー氏に3,000万ドルを支払い、そのほとんどが株式であった https://t.co/aTxrpsuv1c"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @zerohedge: Robinhood支付给前SEC负责人Dan Gallagher 3000万美元，其中大部分是股票https://t.co/aTxrpsuv1c。",
+      "retweeted_status_full_text": "Robinhood向前SEC负责人Dan Gallagher支付了3000万美元，其中大部分为股票https://t.co/aTxrpsuv1c"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @zerohedge: Robinhood支付給前SEC負責人Dan Gallagher 3000萬美元，其中大部分是股票https://t.co/aTxrpsuv1c。",
+      "retweeted_status_full_text": "Robinhood向前SEC負責人Dan Gallagher支付了3000萬美元，其中大部分爲股票https://t.co/aTxrpsuv1c"
+    }
+  ]
 }
