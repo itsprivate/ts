@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-29T09:59:40Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TdWKDunK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5im0nrnlk9lskhn7b4p1.jpg",
   "author": "Keerthi",
-  "author_url": "https://dev.to/keefdrive"
+  "author_url": "https://dev.to/keefdrive",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あなたのポートフォリオサイトにアニメーションを使用することは、ユーザーの注目を集め、...",
+      "title": "IntersectionObserverを用いたスクロール時のアニメーション"
+    },
+    {
+      "locale": "zh",
+      "description": "在你的投资组合网站中使用动画将是一个吸引用户注意力的好方法，并使...",
+      "title": "使用IntersectionObserver在滚动中制作动画"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在你的投資組合網站中使用動畫將是一個吸引用戶注意力的好方法，並使...",
+      "title": "使用IntersectionObserver在滾動中製作動畫"
+    }
+  ]
 }
