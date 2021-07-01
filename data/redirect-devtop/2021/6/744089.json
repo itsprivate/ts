@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-30T15:47:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LxB7lalq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ezy2s8z9oa4fjoey2n6v.gif",
   "author": "Karan Kumar",
-  "author_url": "https://dev.to/karankmr"
+  "author_url": "https://dev.to/karankmr",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "シンプルなToDoアプリです。初心者のうちは、DOM操作やアニメーションなど、これらの機能を作成すること...",
+      "title": "Vanilla JavaScriptでTo-Doリストを作成 "
+    },
+    {
+      "locale": "zh",
+      "description": "这是一个简单的To-do应用程序。作为一个初学者，创建这些功能，如DOM操作，动画...",
+      "title": "使用Vanilla JavaScript创建待办事项列表 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是一個簡單的To-do應用程序。作爲一個初學者，創建這些功能，如DOM操作，動畫...",
+      "title": "使用Vanilla JavaScript創建待辦事項列表 "
+    }
+  ]
 }
