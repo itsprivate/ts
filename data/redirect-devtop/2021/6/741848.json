@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-28T13:54:54Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QoMavTLr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bu7f6p5cmjcgah4rx2s8.jpg",
   "author": "Shubham Khatri",
-  "author_url": "https://dev.to/skhatri"
+  "author_url": "https://dev.to/skhatri",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "レイジーローディングは、アセットを多用するほとんどの企業で採用されている一般的なパフォーマンス最適化手法です。",
+      "title": "Reactにおける画像のプログレッシブローディング"
+    },
+    {
+      "locale": "zh",
+      "description": "懒惰加载是一种常见的性能优化技术，几乎所有重资产的公司都遵循这一技术。",
+      "title": "在React中逐步加载图像"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "懶惰加載是一種常見的性能優化技術，幾乎所有重資產的公司都遵循這一技術。",
+      "title": "在React中逐步加載圖像"
+    }
+  ]
 }
