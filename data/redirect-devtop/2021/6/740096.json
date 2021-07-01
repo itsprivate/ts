@@ -41,5 +41,22 @@
   "original_created_at": "2021-06-26T13:31:26Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0p6XWX-b--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5htibyc4x76h5mz0hm9v.png",
   "author": "Leandro Proença",
-  "author_url": "https://dev.to/leandronsp"
+  "author_url": "https://dev.to/leandronsp",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "もしあなたがDockerを使いこなせていなかったり、コンテナや仮想マシンのような話題がまだ苦手だと感じていたら、ぜひこの記事を読んでみてください。",
+      "title": "開発現場でのDockerの正しい使い方"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你不精通Docker，或者认为容器和虚拟机等主题仍然是一个问题。",
+      "title": "在开发中以正确的方式使用Docker"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你不精通Docker，或者認爲容器和虛擬機等主題仍然是一個問題。",
+      "title": "在開發中以正確的方式使用Docker"
+    }
+  ]
 }
