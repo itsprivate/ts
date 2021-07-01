@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私と友人は、Amazon、ブログ、YouTube、Redditなどから何千ものバックパックのレビューを分析するサイトを作りました。また、任意のバックパックを提出して分析してもらうこともできます。すべては最新のNLP技術で動いています。"
+    },
+    {
+      "locale": "zh",
+      "title": "我的朋友和我创建了一个网站，分析来自亚马逊、博客、YouTube、Reddit等的数千条背包评论。你也可以提交任何背包来进行分析。所有这些都由最新的NLP技术驱动。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我的朋友和我創建了一個網站，分析來自亞馬遜、博客、YouTube、Reddit等的數千條揹包評論。你也可以提交任何揹包來進行分析。所有這些都由最新的NLP技術驅動。"
+    }
+  ]
 }
