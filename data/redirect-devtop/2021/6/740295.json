@@ -52,5 +52,22 @@
   "original_created_at": "2021-06-26T18:52:59Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_wiMsAdX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j2poj47sso0q9l06m4uk.png",
   "author": "Jen Looper",
-  "author_url": "https://dev.to/jenlooper"
+  "author_url": "https://dev.to/jenlooper",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "回帰、クラスタリング、分類、自然言語処理、強化学習、時系列予測など、古典的な機械学習の基礎をマイクロソフトのEducation Cloud Advocatesと一緒に学びます。",
+      "title": "新しい無料カリキュラムを発表 初心者のための機械学習"
+    },
+    {
+      "locale": "zh",
+      "description": "与微软的教育云倡导者一起学习经典机器学习的基础知识，包括回归、聚类、分类、自然语言处理、强化学习、时间序列预测等。",
+      "title": "宣布一个新的免费课程。机器学习的初学者"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "與微軟的教育雲倡導者一起學習經典機器學習的基礎知識，包括迴歸、聚類、分類、自然語言處理、強化學習、時間序列預測等。",
+      "title": "宣佈一個新的免費課程。機器學習的初學者"
+    }
+  ]
 }
