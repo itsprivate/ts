@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Jack Maller氏のStrikeは、BTC取引の仲介に0.3%しかかかりませんが、これはCoinbaseの3.99%の手数料を大幅に下回るものです。"
+    },
+    {
+      "locale": "zh",
+      "title": "Jack Maller的Strike只收取0.3%的BTC交易中介费，这大大降低了Coinbase 3.99%的费用。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Jack Maller的Strike只收取0.3%的BTC交易中介費，這大大降低了Coinbase 3.99%的費用。"
+    }
+  ]
 }
