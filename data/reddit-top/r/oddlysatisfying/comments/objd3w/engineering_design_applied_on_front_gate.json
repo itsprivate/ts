@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "フロントゲートに施されたエンジニアリングデザイン..."
+    },
+    {
+      "locale": "zh",
+      "title": "工程设计在前门的应用..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "工程設計在前門的應用..."
+    }
+  ]
 }
