@@ -52,5 +52,22 @@
   "original_created_at": "2021-06-30T10:31:27Z",
   "image": "https://dev.to/social_previews/article/743736.png",
   "author": "Aswin Rajeev",
-  "author_url": "https://dev.to/aswinrajeevofficial"
+  "author_url": "https://dev.to/aswinrajeevofficial",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今日は、TalkJS Chat APIを使って、WhatsAppに似たチャットUIを作成する方法をご紹介します。今回は...",
+      "title": "TalkJS APIでWhatsAppのようなチャットアプリを構築する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "今天，我们将向你展示如何使用TalkJS Chat API创建一个类似于WhatsApp的聊天用户界面。我们将...",
+      "title": "如何用TalkJS API建立一个看起来像WhatsApp的聊天应用"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "今天，我們將向你展示如何使用TalkJS Chat API創建一個類似於WhatsApp的聊天用戶界面。我們將...",
+      "title": "如何用TalkJS API建立一個看起來像WhatsApp的聊天應用"
+    }
+  ]
 }
