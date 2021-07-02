@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "インボックスを完全に消去して、ゼロからやり直す"
+    },
+    {
+      "locale": "zh",
+      "title": "彻底清除你的收件箱，从头开始"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "徹底清除你的收件箱，從頭開始"
+    }
+  ]
 }
