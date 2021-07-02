@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-30T10:57:55Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0YKWSTGO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a29d8nuic0kg3q6wkncg.jpeg",
   "author": "Huy Ta Quoc",
-  "author_url": "https://dev.to/huytaquoc"
+  "author_url": "https://dev.to/huytaquoc",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今回は「フロントエンド開発者のためのUI/UX」というシリーズの第1回です。新しい記事が公開されます...",
+      "title": "フロントエンド開発者のためのUI/UXのヒント（第1回"
+    },
+    {
+      "locale": "zh",
+      "description": "这是被称为 \"UI/UX for Frontend Developers \"系列的第一部分。一篇新的文章将被发表...",
+      "title": "前端开发者的UI/UX技巧（第一部分"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是被稱爲 \"UI/UX for Frontend Developers \"系列的第一部分。一篇新的文章將被髮表...",
+      "title": "前端開發者的UI/UX技巧（第一部分"
+    }
+  ]
 }
