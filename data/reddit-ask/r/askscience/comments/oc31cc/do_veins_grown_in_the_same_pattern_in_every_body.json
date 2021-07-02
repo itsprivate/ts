@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "静脈は誰にでも同じパターンで生えているのか、それとも指紋のように固有のものなのか。"
+    },
+    {
+      "locale": "zh",
+      "title": "每个人身上的静脉都以相同的模式生长，还是像指纹一样独一无二？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "每個人身上的靜脈都以相同的模式生長，還是像指紋一樣獨一無二？"
+    }
+  ]
 }
