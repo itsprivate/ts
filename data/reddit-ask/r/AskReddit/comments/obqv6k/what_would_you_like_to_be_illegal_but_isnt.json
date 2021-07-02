@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "違法であってほしいが、違法ではないものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你希望什么是非法的，但不是吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你希望什麼是非法的，但不是嗎？"
+    }
+  ]
 }

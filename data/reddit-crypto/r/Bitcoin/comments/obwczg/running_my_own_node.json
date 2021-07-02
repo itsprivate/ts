@@ -11,5 +11,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "自分のノードを運営しています"
+    },
+    {
+      "locale": "zh",
+      "title": "运行我自己的节点!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "運行我自己的節點!"
+    }
+  ]
 }
