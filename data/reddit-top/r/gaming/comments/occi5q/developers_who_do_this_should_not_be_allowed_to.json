@@ -42,5 +42,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "こんなことをする開発者はもうゲームを作ってはいけません。"
+    },
+    {
+      "locale": "zh",
+      "title": "不应再允许这样做的开发者制作游戏。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不應再允許這樣做的開發者製作遊戲。"
+    }
+  ]
 }
