@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Do you educate them?"
+  "the_new_excerpt": "Do you educate them?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "教育していますか？",
+      "title": "グーグルが存在するのに、何かを教えてくれと言ってくる人をどう思いますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你对他们进行教育吗？",
+      "title": "你怎么看那些要求你教育他们的人，当谷歌存在的时候，你怎么看？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你對他們進行教育嗎？",
+      "title": "你怎麼看那些要求你教育他們的人，當谷歌存在的時候，你怎麼看？"
+    }
+  ]
 }
