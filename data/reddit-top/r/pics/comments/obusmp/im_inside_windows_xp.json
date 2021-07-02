@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私はWindows XPを使用しています。"
+    },
+    {
+      "locale": "zh",
+      "title": "我在Windows XP里面"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我在Windows XP裏面"
+    }
+  ]
 }
