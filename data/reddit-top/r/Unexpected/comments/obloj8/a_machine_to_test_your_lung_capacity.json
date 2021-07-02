@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "肺活量を測定する機械"
+    },
+    {
+      "locale": "zh",
+      "title": "测试你的肺活量的机器"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "測試你的肺活量的機器"
+    }
+  ]
 }
