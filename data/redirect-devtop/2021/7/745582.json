@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-01T20:48:01Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ABN1CcNS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ia36t5mkvbmlqd4yzhj6.jpg",
   "author": "Yuma-Tsushima ",
-  "author_url": "https://dev.to/yumatsushima07"
+  "author_url": "https://dev.to/yumatsushima07",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私が普段使っているJavaScriptのコードを見てみると、デストラクションの代入がいたるところにあります。 読...",
+      "title": "[JavaScript] JavaScriptのデストラクションの面白い使い方5選!"
+    },
+    {
+      "locale": "zh",
+      "description": "观察我的常规JavaScript代码，我发现到处都是析构作业。 阅读...",
+      "title": "[JavaScript]JavaScript去结构化的5个有趣的用途!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "觀察我的常規JavaScript代碼，我發現到處都是析構作業。 閱讀...",
+      "title": "[JavaScript]JavaScript去結構化的5個有趣的用途!"
+    }
+  ]
 }
