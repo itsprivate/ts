@@ -45,5 +45,22 @@
   "original_created_at": "2021-04-02T19:39:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--E4IjhZCX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sef59c6zp3ztoe6bttjb.jpg",
   "author": "InHuOfficial",
-  "author_url": "https://dev.to/inhuofficial"
+  "author_url": "https://dev.to/inhuofficial",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、実際にアクセス可能で、簡単に使える星評価システムをどのように構築したかを説明します。",
+      "title": "5つ星評価システム - ACTUALLY accessible, no JS, no WAI-ARIA and Semantic HTML! ⭐⭐⭐⭐⭐ [あらゆるフレームワークにも簡単に変換できます!]"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我将解释我是如何建立一个真正可以访问的、易于使用的星级评价系统的。",
+      "title": "5星评级系统 - 真正的无障碍，没有JS，没有WAI-ARIA和Semantic HTML! ⭐⭐⭐⭐⭐ [也可轻松转换为任何框架！]"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我將解釋我是如何建立一個真正可以訪問的、易於使用的星級評價系統的。",
+      "title": "5星評級系統 - 真正的無障礙，沒有JS，沒有WAI-ARIA和Semantic HTML! ⭐⭐⭐⭐⭐ [也可輕鬆轉換爲任何框架！]"
+    }
+  ]
 }
