@@ -14,5 +14,19 @@
   "tags": [
     "The New York Times"
   ],
-  "image": "https://static01.nyt.com/images/2021/07/02/us/02virus-briefing-promo/02virus-briefing-promo-facebookJumbo.jpg"
+  "image": "https://static01.nyt.com/images/2021/07/02/us/02virus-briefing-promo/02virus-briefing-promo-facebookJumbo.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Live Covidのニュースとアップデート"
+    },
+    {
+      "locale": "zh",
+      "title": "Covid的实时新闻和更新"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Covid的實時新聞和更新"
+    }
+  ]
 }
