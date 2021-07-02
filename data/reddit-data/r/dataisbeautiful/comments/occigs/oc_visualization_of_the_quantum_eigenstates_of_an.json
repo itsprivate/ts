@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "OC] 磁場中に置かれた箱の中に閉じ込められた電子の量子固有状態の可視化"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]电子的量子特征状态的可视化，该电子被限制在一个浸在磁场中的盒子里"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]電子的量子特徵狀態的可視化，該電子被限制在一個浸在磁場中的盒子裏"
+    }
+  ]
 }
