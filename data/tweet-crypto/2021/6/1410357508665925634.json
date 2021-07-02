@@ -55,8 +55,8 @@
     "screen_name": "100trillionUSD",
     "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407223894600302594/gBUVNH89_normal.jpg"
   },
-  "retweet_count": 146,
-  "favorite_count": 705,
+  "retweet_count": 725,
+  "favorite_count": 3018,
   "possibly_sensitive": false,
   "original_created_at": "Wed Jun 30 22:00:07 +0000 2021",
   "localize": [
@@ -72,5 +72,6 @@
       "locale": "zh-Hant",
       "full_text": "getrawtransaction 54e48e5f5c656b26c3bca14a8c95aa583d07ebe84dde3b7dd4a78f4e4186e713 0 0000000000ecbbff6bafb7efa2f7df05b227d5c73dca8f2635af32a2e949 | sed 's/01000000000000/\\n/g' | tail -n +2 | cut -c7-136。 139-268,271-400 | tr -d '\\n' | cut -c17-368600 | xxd -p -r &gt; 比特幣。 pdf https://t.co/ljU0JQle2w"
     }
-  ]
+  ],
+  "source_updated_at": 1625218974154
 }
