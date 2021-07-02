@@ -52,5 +52,22 @@
   "original_created_at": "2021-07-01T21:17:29Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SEDVtWbx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ayyq0e1cktf3w795h1ec.jpeg",
   "author": "Sebastian Bille",
-  "author_url": "https://dev.to/tastefulelk"
+  "author_url": "https://dev.to/tastefulelk",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "スロービルドは、時間の浪費だけでなく、コストもかかる傾向にあります。数秒以上経ってしまうと・・・。",
+      "title": "非常に高速でシンプルなTypescriptによるServerlessビルド"
+    },
+    {
+      "locale": "zh",
+      "description": "缓慢的建设往往要付出更多的代价，而不仅仅是他们所浪费的时间。超过几秒钟，你就会被淘汰......",
+      "title": "快如闪电的简单Typescript无服务器构建"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "緩慢的建設往往要付出更多的代價，而不僅僅是他們所浪費的時間。超過幾秒鐘，你就會被淘汰......",
+      "title": "快如閃電的簡單Typescript無服務器構建"
+    }
+  ]
 }
