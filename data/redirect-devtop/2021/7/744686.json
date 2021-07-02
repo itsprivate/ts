@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-01T01:35:03Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--X-k7FgjG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kiba5gsdggdmt7j098av.gif",
   "author": "Davide Mandelli",
-  "author_url": "https://dev.to/th3wall"
+  "author_url": "https://dev.to/th3wall",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは。私の最新プロジェクトをご紹介します。Fakeflixです。   私は、このプロジェクトを、...",
+      "title": "React, Redux, Firebase & Framer Motionで作られたNetflixクローン、Fakeflixをご紹介します。"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，我很自豪地向大家介绍我的最新项目。Fakeflix。   我已经开始了这个项目。",
+      "title": "很自豪地向您介绍Fakeflix，一个用React、Redux、Firebase和Framer Motion构建的Netflix克隆。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，我很自豪地向大家介紹我的最新項目。Fakeflix。   我已經開始了這個項目。",
+      "title": "很自豪地向您介紹Fakeflix，一個用React、Redux、Firebase和Framer Motion構建的Netflix克隆。"
+    }
+  ]
 }
