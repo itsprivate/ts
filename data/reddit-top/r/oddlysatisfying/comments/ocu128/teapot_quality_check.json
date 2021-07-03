@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ティーポットの品質チェック"
+    },
+    {
+      "locale": "zh",
+      "title": "茶壶质量检查。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "茶壺質量檢查。"
+    }
+  ]
 }
