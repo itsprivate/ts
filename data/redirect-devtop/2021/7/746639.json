@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-03T02:31:41Z",
   "image": "https://dev.to/social_previews/article/746639.png",
   "author": "Michael Lin",
-  "author_url": "https://dev.to/unadlib"
+  "author_url": "https://dev.to/unadlib",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "マイクロフロントエンド 独立して提供できるフロントエンドを実現するアーキテクチャスタイル。",
+      "title": "先進的なマイクロフロントエンドフレームワーク - Fronts"
+    },
+    {
+      "locale": "zh",
+      "description": "微前端 一种架构风格，其中独立交付的前端...",
+      "title": "一个渐进式的微型前端框架 - Fronts"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "微前端 一種架構風格，其中獨立交付的前端...",
+      "title": "一個漸進式的微型前端框架 - Fronts"
+    }
+  ]
 }
