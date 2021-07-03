@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-02T20:27:08Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sTlMLUny--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ivns518b5brjpjclez3d.png",
   "author": "Aiden Bai",
-  "author_url": "https://dev.to/aidenybai"
+  "author_url": "https://dev.to/aidenybai",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Plug: 百万ドルの開発に協力しました: &lt;1kb virtual DOM - it's fast!            はじめに Virtual...",
+      "title": "なぜVirtual DOMが必要なのか？"
+    },
+    {
+      "locale": "zh",
+      "description": "插头：我帮助开发百万：&lt;1kb的虚拟DOM--它的速度很快!            简介：虚拟DOM",
+      "title": "为什么虚拟DOM是必要的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "插頭：我幫助開發百萬：&lt;1kb的虛擬DOM--它的速度很快!            簡介：虛擬DOM",
+      "title": "爲什麼虛擬DOM是必要的？"
+    }
+  ]
 }

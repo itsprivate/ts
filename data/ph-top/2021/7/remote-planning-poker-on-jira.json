@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-03T07:00:00Z"
+  "original_createdAt": "2021-07-03T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "アジャイル計画・見積りツール Jira Agile Planning Pokerセッションでチームと一緒に楽しみながらユーザーストーリーを素早く見積もることができます。",
+      "tagline": "チームの仲間を集めてポーカーをしたり、企画をプロデュースしたり"
+    },
+    {
+      "locale": "zh",
+      "description": "敏捷计划和估算工具。在Jira Agile Planning Poker会议上，与团队一起快速估算用户故事，同时享受乐趣。",
+      "tagline": "召集你的队友玩扑克，制作计划书"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "敏捷計劃和估算工具。在Jira Agile Planning Poker會議上，與團隊一起快速估算用戶故事，同時享受樂趣。",
+      "tagline": "召集你的隊友玩撲克，製作計劃書"
+    }
+  ]
 }
