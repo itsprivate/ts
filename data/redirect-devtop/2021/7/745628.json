@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-02T00:22:33Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--W-q-1CrA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://i.imgur.com/Q94LUcv.jpeg",
   "author": "Federico Ramirez",
-  "author_url": "https://dev.to/gosukiwi"
+  "author_url": "https://dev.to/gosukiwi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "深いモジュールを使うべきか、小さなオブジェクトを使うべきか。",
+      "title": "ソフトウェアデザイン。ディープモジュール"
+    },
+    {
+      "locale": "zh",
+      "description": "我们应该使用深度模块还是小物体？",
+      "title": "软件设计。深度模块"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們應該使用深度模塊還是小物體？",
+      "title": "軟件設計。深度模塊"
+    }
+  ]
 }
