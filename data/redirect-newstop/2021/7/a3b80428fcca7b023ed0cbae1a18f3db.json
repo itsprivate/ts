@@ -14,5 +14,19 @@
   "tags": [
     "The New York Times"
   ],
-  "image": "https://static01.nyt.com/images/2021/07/03/world/03japan-landslide-promo/03japan-landslide-promo-facebookJumbo.jpg"
+  "image": "https://static01.nyt.com/images/2021/07/03/world/03japan-landslide-promo/03japan-landslide-promo-facebookJumbo.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "日本の地滑りで少なくとも19人が行方不明に"
+    },
+    {
+      "locale": "zh",
+      "title": "日本山体滑坡造成至少19人失踪"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "日本山體滑坡造成至少19人失蹤"
+    }
+  ]
 }
