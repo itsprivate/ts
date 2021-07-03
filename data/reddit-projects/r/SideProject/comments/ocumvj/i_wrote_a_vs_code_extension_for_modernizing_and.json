@@ -42,5 +42,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "JavaScriptのコードをモダンでシンプルにするためのVS Code拡張機能を書きました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我写了一个VS Code扩展，用于现代化和简化JavaScript代码"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我寫了一個VS Code擴展，用於現代化和簡化JavaScript代碼"
+    }
+  ]
 }
