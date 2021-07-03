@@ -50,5 +50,22 @@
   "original_created_at": "2021-07-01T01:41:42Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OhdkgAwY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lk7byplj33y31w2bsnhx.png",
   "author": "Ivy Chen ",
-  "author_url": "https://dev.to/ivavay"
+  "author_url": "https://dev.to/ivavay",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このチュートリアルでは、バニラを使ってブラックアウト・ポエトリー・メーカーを作る方法を説明します...",
+      "title": "javascriptでブラックアウト・ポエトリー・メーカーを作る"
+    },
+    {
+      "locale": "zh",
+      "description": "在本教程中，我将指导你如何用香草的方式建立一个黑夜诗歌的制作者。",
+      "title": "用javascript创建一个停电诗的制作者"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在本教程中，我將指導你如何用香草的方式建立一個黑夜詩歌的製作者。",
+      "title": "用javascript創建一個停電詩的製作者"
+    }
+  ]
 }
