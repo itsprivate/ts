@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-01T21:07:19Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QCdRUDA4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mykwamchgy4z6oz6xht3.jpg",
   "author": "Ash G",
-  "author_url": "https://dev.to/ash_grover"
+  "author_url": "https://dev.to/ash_grover",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "先週、React、React Native、NextJSでどのようにアプリを作ったかについてブログ記事を書きました。このブログ記事は...",
+      "title": "オフラインファーストのアプリをどうデザインしたか 概要を説明します。"
+    },
+    {
+      "locale": "zh",
+      "description": "上周我写了一篇博文，介绍了我如何用React、React Native和NextJS构建我的应用程序。这篇博文...",
+      "title": "我是如何设计一个离线优先的应用程序的。一个纲要。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "上週我寫了一篇博文，介紹了我如何用React、React Native和NextJS構建我的應用程序。這篇博文...",
+      "title": "我是如何設計一個離線優先的應用程序的。一個綱要。"
+    }
+  ]
 }
