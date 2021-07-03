@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "古いタイプライターや不要になったタイプライターの文字や数字を使って絵を描くのですが、これは最近、屋上から完成させたものです。"
+    },
+    {
+      "locale": "zh",
+      "title": "我利用旧的/不需要的打字机上的字母和数字作画，这是我最近在屋顶上完成的一幅画"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我利用舊的/不需要的打字機上的字母和數字作畫，這是我最近在屋頂上完成的一幅畫"
+    }
+  ]
 }
