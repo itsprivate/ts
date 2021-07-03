@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "(Asking for a friend of course)"
+  "the_new_excerpt": "(Asking for a friend of course)",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "勿論、友人にもお願いします。",
+      "title": "ベッドに入ると枕を抱きしめて、頭の中で実際に幸せになるためのシナリオを作ってしまうのは私だけでしょうか。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "(当然是为朋友而问)",
+      "title": "是不是只有我一个人在睡觉时抱着枕头，在脑海中编造假的场景，让自己真正快乐起来？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "(當然是爲朋友而問)",
+      "title": "是不是隻有我一個人在睡覺時抱着枕頭，在腦海中編造假的場景，讓自己真正快樂起來？"
+    }
+  ]
 }
