@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-29T14:20:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oM9XiLbH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fuhp6dmb45gdc1gwdsl2.png",
   "author": "Abayomi Ogunnusi",
-  "author_url": "https://dev.to/drsimplegraffiti"
+  "author_url": "https://dev.to/drsimplegraffiti",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今日は、NodeJSを使って、IDEからメールを送信する方法を学びましょう。その...",
+      "title": "NodeJSを使ったメール送信"
+    },
+    {
+      "locale": "zh",
+      "description": "嘿，朋友们！今天我们要学习如何发送电子邮件，就在我们的IDE中使用NodeJS。这是个好主意。",
+      "title": "使用NodeJS发送邮件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嘿，朋友們！今天我們要學習如何發送電子郵件，就在我們的IDE中使用NodeJS。這是個好主意。",
+      "title": "使用NodeJS發送郵件"
+    }
+  ]
 }
