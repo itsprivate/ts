@@ -65,5 +65,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "異なるニーズを持つ人々に均等な機会を与える"
+    },
+    {
+      "locale": "zh",
+      "title": "给予有不同需求的人平等的机会"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "給予有不同需求的人平等的機會"
+    }
+  ]
 }
