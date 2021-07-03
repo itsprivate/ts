@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私の祖父は芸術家で、古い時代のシンボルと現代のシンボルを対比させるのが好きです。"
+    },
+    {
+      "locale": "zh",
+      "title": "我的祖父是一位艺术家，他喜欢将老式的符号与现代的符号进行对比。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我的祖父是一位藝術家，他喜歡將老式的符號與現代的符號進行對比。"
+    }
+  ]
 }
