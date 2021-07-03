@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "OC] ベクデル・テストに合格した作品のジャンル別割合"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]按类型划分，通过Bechdel测试的电影的百分比"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]按類型劃分，通過Bechdel測試的電影的百分比"
+    }
+  ]
 }
