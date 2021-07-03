@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-03T09:17:25Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DYDHmyUY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kluxzrh61916m047dymz.png",
   "author": "berack kaunda",
-  "author_url": "https://dev.to/berack"
+  "author_url": "https://dev.to/berack",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Tailwindは、公式サイトで説明されているように、実用性を重視したCSSフレームワークで、様々なクラスが用意されています。",
+      "title": "通常のCSSからTailwind CSSに切り替えた理由"
+    },
+    {
+      "locale": "zh",
+      "description": "正如他们的官方网站所解释的那样，Tailwind是一个以实用为先的CSS框架，其中包含了很多的类...",
+      "title": "我为什么从普通的CSS转到Tailwind CSS"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "正如他們的官方網站所解釋的那樣，Tailwind是一個以實用爲先的CSS框架，其中包含了很多的類...",
+      "title": "我爲什麼從普通的CSS轉到Tailwind CSS"
+    }
+  ]
 }
