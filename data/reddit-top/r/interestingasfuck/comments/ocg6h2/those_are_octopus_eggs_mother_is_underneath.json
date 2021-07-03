@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "それはタコの卵です。母親が下で守っている"
+    },
+    {
+      "locale": "zh",
+      "title": "那些是章鱼蛋。母亲在下面看守它们"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "那些是章魚蛋。母親在下面看守它們"
+    }
+  ]
 }
