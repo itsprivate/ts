@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたを助けてくれたサブレディットは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "有哪些子版块对你帮助很大？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有哪些子版塊對你幫助很大？"
+    }
+  ]
 }
