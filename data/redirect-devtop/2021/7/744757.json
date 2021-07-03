@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-01T05:04:55Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZbjHj5L4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mak2r7guv82nwgeiz71n.jpg",
   "author": "Yogesh Chavan",
-  "author_url": "https://dev.to/myogeshchavan97"
+  "author_url": "https://dev.to/myogeshchavan97",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、アプリケーションで使用されているnpmパッケージを簡単に更新する方法をご紹介します...",
+      "title": "アプリケーションを壊す心配なく、npmパッケージを簡単にアップデートできる"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我们将探讨如何轻松地更新你的应用程序中使用的npm包...",
+      "title": "轻松更新npm包而不用担心破坏应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我們將探討如何輕鬆地更新你的應用程序中使用的npm包...",
+      "title": "輕鬆更新npm包而不用擔心破壞應用程序"
+    }
+  ]
 }
