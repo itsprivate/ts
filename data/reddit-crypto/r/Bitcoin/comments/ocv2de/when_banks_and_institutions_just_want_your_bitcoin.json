@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "銀行や機関があなたのビットコインを欲しがるとき"
+    },
+    {
+      "locale": "zh",
+      "title": "当银行和机构只想要你的比特币时"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當銀行和機構只想要你的比特幣時"
+    }
+  ]
 }

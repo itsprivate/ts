@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-01T02:43:44Z",
   "image": "https://dev.to/social_previews/article/744723.png",
   "author": "Dias",
-  "author_url": "https://dev.to/saulodias"
+  "author_url": "https://dev.to/saulodias",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "三項演算子は、値の代入を簡潔に記述するのに適した方法で、より多くの...",
+      "title": "三元演算子。より良い代替手段"
+    },
+    {
+      "locale": "zh",
+      "description": "三元运算符是一种很好的方法，可以写出简洁的值赋值，而不必写出更多。",
+      "title": "三元运算符。更好的替代方案"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "三元運算符是一種很好的方法，可以寫出簡潔的值賦值，而不必寫出更多。",
+      "title": "三元運算符。更好的替代方案"
+    }
+  ]
 }
