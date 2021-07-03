@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "すべてが順調だよ。どうですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "一切都很好，兄弟。怎么了？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一切都很好，兄弟。怎麼了？"
+    }
+  ]
 }
