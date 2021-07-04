@@ -47,5 +47,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "I have launched PDFMark. It is an HTML to PDF conversion API. PDF generation is\na requirement for many companies. Programmers often need to generate PDF\ndocuments programmatically for things like invoice, tickets, reports, account\nstatements etc. There are several free and paid libraries for…"
+  "the_new_excerpt": "I have launched PDFMark. It is an HTML to PDF conversion API. PDF generation is\na requirement for many companies. Programmers often need to generate PDF\ndocuments programmatically for things like invoice, tickets, reports, account\nstatements etc. There are several free and paid libraries for…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "PDFMarkを発表しました。これは、HTMLからPDFへの変換APIです。PDFの生成は\n多くの企業で必要とされています。プログラマーはしばしば、請求書、チケット、リ\nドキュメントをプログラムで生成する必要があります。\n明細書などです。PDFを作成するための無料および有料のライブラリがいくつかあります。",
+      "title": "HTML to PDF APIのpdfmark.comを立ち上げました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我已经推出了PDFMark。它是一个HTML到PDF的转换API。PDF的生成是\n是许多公司的要求。程序员经常需要以编程方式生成PDF\n文件，如发票、票据、报告、账户、报表等。\n报表等。有几个免费和付费的库用于生成PDF。",
+      "title": "我推出了pdfmark.com一个HTML转PDF的API"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我已經推出了PDFMark。它是一個HTML到PDF的轉換API。PDF的生成是\n是許多公司的要求。程序員經常需要以編程方式生成PDF\n文件，如發票、票據、報告、賬戶、報表等。\n報表等。有幾個免費和付費的庫用於生成PDF。",
+      "title": "我推出了pdfmark.com一個HTML轉PDF的API"
+    }
+  ]
 }
