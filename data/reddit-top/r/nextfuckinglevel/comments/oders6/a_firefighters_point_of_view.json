@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "消防士の視点から見た"
+    },
+    {
+      "locale": "zh",
+      "title": "一个消防员的观点"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個消防員的觀點"
+    }
+  ]
 }
