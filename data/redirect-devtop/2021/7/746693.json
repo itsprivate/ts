@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-03T04:50:34Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s---gEH7u25--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xbvnvqoyton98zwxdij4.png",
   "author": "Suhail Kakar",
-  "author_url": "https://dev.to/suhailkakar"
+  "author_url": "https://dev.to/suhailkakar",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、Firebase上でreact jsアプリケーションを無料でデプロイする方法をご紹介します。",
+      "title": "Firebase 2021でReact JSアプリケーションを無料でデプロイする方法"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我将告诉你如何在Firebase上免费部署react js应用程序，首先让我们...",
+      "title": "如何在Firebase 2021上免费部署React JS应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我將告訴你如何在Firebase上免費部署react js應用程序，首先讓我們...",
+      "title": "如何在Firebase 2021上免費部署React JS應用程序"
+    }
+  ]
 }
