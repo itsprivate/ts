@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-02T12:55:50Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YXHC8ycX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o31y3fukc51x3tbhms3o.png",
   "author": "Jaskaran Singh",
-  "author_url": "https://dev.to/jaskaran"
+  "author_url": "https://dev.to/jaskaran",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに Reactとは？  Reactは、人気のあるJavaScriptのフロントエンドライブラリで...",
+      "title": "Reactの基礎 - 動画アプリを作る"
+    },
+    {
+      "locale": "zh",
+      "description": "简介 什么是React？  React是一个流行的JavaScript前台库...",
+      "title": "React的基础知识--建立一个视频应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介 什麼是React？  React是一個流行的JavaScript前臺庫...",
+      "title": "React的基礎知識--建立一個視頻應用程序"
+    }
+  ]
 }
