@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-04T07:18:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZmPd30s4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lamoa1m50lkoz1nc8l2w.png",
   "author": "Temani Afif",
-  "author_url": "https://dev.to/afif"
+  "author_url": "https://dev.to/afif",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私の \"スター評価 \"システムを紹介します。 ✔️ JavaScriptを使用していません。✔️ 複雑なHTMLコードはなく、必要なものだけです。",
+      "title": "スケーラブルな「星の評価」をJSなしで実現（星のSVGや画像も不要"
+    },
+    {
+      "locale": "zh",
+      "description": "在这里，我与我的 \"星级评价 \"系统。 ✔️没有JavaScript。✔️没有复杂的HTML代码，只有需要的代码。",
+      "title": "可扩展的 \"星级评价\"，不需要JS（也不需要SVG或图片来表示星星）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這裏，我與我的 \"星級評價 \"系統。 ✔️沒有JavaScript。✔️沒有複雜的HTML代碼，只有需要的代碼。",
+      "title": "可擴展的 \"星級評價\"，不需要JS（也不需要SVG或圖片來表示星星）。"
+    }
+  ]
 }
