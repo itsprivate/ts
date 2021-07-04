@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-02T13:57:39Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jD5KNzo---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fcnzm9r89c849liyl4p6.jpeg",
   "author": "Joseph Mukorivo",
-  "author_url": "https://dev.to/josemukorivo"
+  "author_url": "https://dev.to/josemukorivo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Chakra UIやMaterial UIのようなコンポーネントライブラリを使用したことがある方なら、その使い勝手の良さをご存知でしょう。",
+      "title": "styled-systemとstyled-componentsで再利用性の高いボタンを作成します。"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你曾经使用过像Chakra UI或Material UI这样的组件库，你可能知道如何...",
+      "title": "用styled-system和styled-components创建一个高度可重复使用的按钮。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你曾經使用過像Chakra UI或Material UI這樣的組件庫，你可能知道如何...",
+      "title": "用styled-system和styled-components創建一個高度可重複使用的按鈕。"
+    }
+  ]
 }
