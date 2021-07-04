@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "一緒に祝ってくれる友人はいませんが、新年から一本もタバコを吸っていません"
+    },
+    {
+      "locale": "zh",
+      "title": "我没有朋友一起庆祝，但我从新年开始就没有抽过一根烟！我想这是我的梦想。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我沒有朋友一起慶祝，但我從新年開始就沒有抽過一根菸！我想這是我的夢想。"
+    }
+  ]
 }
