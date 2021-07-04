@@ -52,5 +52,22 @@
   "original_created_at": "2021-07-02T16:35:22Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--88w3qSSh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kqjjjbnp7gvrmfs3k9j9.png",
   "author": "Erin Schaffer",
-  "author_url": "https://dev.to/erineducative"
+  "author_url": "https://dev.to/erineducative",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "REST APIは、Webサービスを作成するためのアーキテクチャパターンです。RESTは、一連のルールに...",
+      "title": "Python REST API チュートリアル FastAPIを使ってみよう"
+    },
+    {
+      "locale": "zh",
+      "description": "REST API是一种创建网络服务的架构模式。REST是一套规则，...",
+      "title": "Python REST API 教程。开始使用FastAPI"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "REST API是一種創建網絡服務的架構模式。REST是一套規則，...",
+      "title": "Python REST API 教程。開始使用FastAPI"
+    }
+  ]
 }
