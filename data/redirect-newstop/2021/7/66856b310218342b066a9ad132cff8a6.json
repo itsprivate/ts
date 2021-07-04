@@ -14,5 +14,19 @@
   "tags": [
     "The New York Times"
   ],
-  "image": "https://static01.nyt.com/images/2021/07/04/world/04philippines-crash2/04philippines-crash2-facebookJumbo.jpg"
+  "image": "https://static01.nyt.com/images/2021/07/04/world/04philippines-crash2/04philippines-crash2-facebookJumbo.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "フィリピンの軍用機が墜落、92名が搭乗"
+    },
+    {
+      "locale": "zh",
+      "title": "菲律宾军用飞机坠毁，机上有92人受伤"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "菲律賓軍用飛機墜毀，機上有92人受傷"
+    }
+  ]
 }
