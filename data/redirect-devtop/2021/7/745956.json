@@ -43,5 +43,22 @@
   "original_created_at": "2021-07-02T11:15:53Z",
   "image": "https://dev.to/social_previews/article/745956.png",
   "author": "Rahul Shaw",
-  "author_url": "https://dev.to/rahulshawdev"
+  "author_url": "https://dev.to/rahulshawdev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに ESLintとprettierは、ほとんどの人が使用している最もポピュラーなツールです。",
+      "title": "VSコードでESLintとPrettierを設定する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "简介：ESLint和prettier是最流行的工具，几乎被用于...",
+      "title": "如何在VS代码中设置ESLint和Prettier"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介：ESLint和prettier是最流行的工具，幾乎被用於...",
+      "title": "如何在VS代碼中設置ESLint和Prettier"
+    }
+  ]
 }
