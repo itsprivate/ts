@@ -53,5 +53,19 @@
     }
   },
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ペンプロッタをtwitchに接続したので、共同でアート作品を作ることができます。"
+    },
+    {
+      "locale": "zh",
+      "title": "我把我的钢笔绘图仪连接到twitch上，这样你就可以创建一个合作的艺术作品。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我把我的鋼筆繪圖儀連接到twitch上，這樣你就可以創建一個合作的藝術作品。"
+    }
+  ]
 }
