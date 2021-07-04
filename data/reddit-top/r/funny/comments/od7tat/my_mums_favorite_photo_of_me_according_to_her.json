@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ママのお気に入りの写真だそうです。"
+    },
+    {
+      "locale": "zh",
+      "title": "据我妈妈说，这是她最喜欢的我的照片。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "據我媽媽說，這是她最喜歡的我的照片。"
+    }
+  ]
 }
