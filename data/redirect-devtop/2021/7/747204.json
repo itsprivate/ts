@@ -45,5 +45,21 @@
   "original_created_at": "2021-07-03T16:19:27Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--X1vA-S9d--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://eloquentjavascript.net/img/cover.jpg",
   "author": "Alex Kharouk",
-  "author_url": "https://dev.to/kharouk"
+  "author_url": "https://dev.to/kharouk",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "面接で失敗した経験を活かして、JavaScriptの基礎を学び直しました。"
+    },
+    {
+      "locale": "zh",
+      "description": "我是如何利用一次糟糕的面试经历来重新学习JavaScript基础知识的。",
+      "title": "图书俱乐部。雄辩的Javascript - 第一章"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我是如何利用一次糟糕的面試經歷來重新學習JavaScript基礎知識的。",
+      "title": "圖書俱樂部。雄辯的Javascript - 第一章"
+    }
+  ]
 }
