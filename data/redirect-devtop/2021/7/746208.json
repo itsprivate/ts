@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-02T16:11:04Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--t5aQjxzR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bdswkru2iqs5lj5wxref.png",
   "author": "Eden Ella",
-  "author_url": "https://dev.to/giteden"
+  "author_url": "https://dev.to/giteden",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私たちの多くは、Webプロジェクトをコンポーネントで構築しています。コンポーネントを使うことで、コードの再利用性が高まり、より...",
+      "title": "Bitを使ってプロジェクト全体でコンポーネントを共同開発する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "我们大多数人都用组件来构建我们的网络项目。它使我们的代码更可重复使用，更...",
+      "title": "如何用比特进行跨项目的组件协作"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們大多數人都用組件來構建我們的網絡項目。它使我們的代碼更可重複使用，更...",
+      "title": "如何用比特進行跨項目的組件協作"
+    }
+  ]
 }
