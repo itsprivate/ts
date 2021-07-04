@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-04T07:56:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Nsqhat0P--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ttqxgn6rzodx3s9f31te.png",
   "author": "kpiteng",
-  "author_url": "https://dev.to/kpiteng"
+  "author_url": "https://dev.to/kpiteng",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "すべての人が知っておくべきReactのベスト・コーディング・プラクティス、ティップス、トリックをご紹介します...",
+      "title": "開発者が使うべきReactのトリックトップ10"
+    },
+    {
+      "locale": "zh",
+      "description": "发现一套React的最佳编码实践、技巧和窍门，这些都是所有人应该知道的。",
+      "title": "每个开发者都应该使用的10大React技巧"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "發現一套React的最佳編碼實踐、技巧和竅門，這些都是所有人應該知道的。",
+      "title": "每個開發者都應該使用的10大React技巧"
+    }
+  ]
 }
