@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-04T02:43:23Z",
   "image": "https://dev.to/social_previews/article/747441.png",
   "author": "Riri",
-  "author_url": "https://dev.to/riyanagueco"
+  "author_url": "https://dev.to/riyanagueco",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは。前回の投稿からしばらく経ってしまいました。私は、Frontend Mentorの課題をこなすのに忙しかったので...",
+      "title": "私はFrontend Mentorのチャレンジを3週間行いましたが、以下のことを学びました。"
+    },
+    {
+      "locale": "zh",
+      "description": "你好! 距离我上次发帖已经有一段时间了。我一直在忙于做Frontend Mentor的挑战。",
+      "title": "我做了三个星期的Frontend Mentor挑战，以下是我学到的东西"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好! 距離我上次發帖已經有一段時間了。我一直在忙於做Frontend Mentor的挑戰。",
+      "title": "我做了三個星期的Frontend Mentor挑戰，以下是我學到的東西"
+    }
+  ]
 }
