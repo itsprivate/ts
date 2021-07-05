@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Many blockchains are implementing pretty awesome features using smart contracts.\nMultisig, custom tokens, exchanges, anchored currencies (wBTC/Tether/USDC) and\nmore. These are great, but in practice they do currently have some downsides for\nday-to-day use - there can be issues with unpredictable gas…"
+  "the_new_excerpt": "Many blockchains are implementing pretty awesome features using smart contracts.\nMultisig, custom tokens, exchanges, anchored currencies (wBTC/Tether/USDC) and\nmore. These are great, but in practice they do currently have some downsides for\nday-to-day use - there can be issues with unpredictable gas…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "多くのブロックチェーンでは、スマートコントラクトを使ってかなり素晴らしい機能を実装しています。\nマルチシグ、カスタムトークン、取引所、アンカリングされた通貨（wBTC/テザー/USDC）など\nなどがあります。これらは素晴らしいものですが、実際には以下のようなデメリットがあります。\n予測不可能なガスの問題があります...",
+      "title": "Stellar/XLMができるクールなこと（スマートコントラクトなしで！）。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "许多区块链正在使用智能合约实现相当棒的功能。\n多重认证、自定义代币、交易所、锚定货币（wBTC/Tether/USDC）等等。\n更多。这些都很好，但在实践中，它们目前确实有一些缺点，如\n日常使用--可能存在不可预测的气体问题......",
+      "title": "Stellar/XLM可以做的一些很酷的事情（没有智能合约！）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "許多區塊鏈正在使用智能合約實現相當棒的功能。\n多重認證、自定義代幣、交易所、錨定貨幣（wBTC/Tether/USDC）等等。\n更多。這些都很好，但在實踐中，它們目前確實有一些缺點，如\n日常使用--可能存在不可預測的氣體問題......",
+      "title": "Stellar/XLM可以做的一些很酷的事情（沒有智能合約！）。"
+    }
+  ]
 }
