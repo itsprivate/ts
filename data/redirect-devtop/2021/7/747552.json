@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-04T06:36:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vVqARh3c--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8lu28lqqbh96v9sbfkhx.png",
   "author": "Bodhisha Thomas",
-  "author_url": "https://dev.to/bodhisha"
+  "author_url": "https://dev.to/bodhisha",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あなたがフロントエンドの開発者であれば、フロントエンドを修正するために必要な時間や考えは明らかです。",
+      "title": "Get-svg-icons : VSコード拡張 "
+    },
+    {
+      "locale": "zh",
+      "description": "如果你是一名前端开发员，你花在修复上的时间和想法是显而易见的。",
+      "title": "Get-svg-icons : VS代码扩展 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你是一名前端開發員，你花在修復上的時間和想法是顯而易見的。",
+      "title": "Get-svg-icons : VS代碼擴展 "
+    }
+  ]
 }
