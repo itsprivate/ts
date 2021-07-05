@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-04T20:24:40Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XuQOtfL9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5xheyse2hp0wxfm2ck6e.jpg",
   "author": "Sreashi Saha",
-  "author_url": "https://dev.to/sreashi"
+  "author_url": "https://dev.to/sreashi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コード・スプリッティングを知る前に、なぜコード・スプリッティングが必要なのかを知る必要がありますが、まず必要なのは...",
+      "title": "Reactのコード分割"
+    },
+    {
+      "locale": "zh",
+      "description": "在了解代码拆分之前，我们需要知道为什么我们需要代码拆分，首先我们需要...",
+      "title": "React代码拆分"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在瞭解代碼拆分之前，我們需要知道爲什麼我們需要代碼拆分，首先我們需要...",
+      "title": "React代碼拆分"
+    }
+  ]
 }
