@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-05T07:50:56Z"
+  "original_createdAt": "2021-07-05T07:50:56Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最も使用されているVue UIフレームワークの1つであるVuetifyをベースにした、Figmaのための巨大なデザイン・システム",
+      "tagline": "巨大なコンポーネント・ライブラリがFigmaで利用可能に"
+    },
+    {
+      "locale": "zh",
+      "description": "一个巨大的Figma设计系统，基于Vuetify，最常用的Vue UI框架之一。",
+      "tagline": "一个巨大的组件库现在可用于Figma"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個巨大的Figma設計系統，基於Vuetify，最常用的Vue UI框架之一。",
+      "tagline": "一個巨大的組件庫現在可用於Figma"
+    }
+  ]
 }
