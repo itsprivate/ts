@@ -42,5 +42,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "何とも紛らわしいサインだ。"
+    },
+    {
+      "locale": "zh",
+      "title": "多么令人困惑的标志。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "多麼令人困惑的標誌。"
+    }
+  ]
 }
