@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "待って、それはやってはいけないことなの？"
+    },
+    {
+      "locale": "zh",
+      "title": "等等，他们不应该这样做吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "等等，他們不應該這樣做嗎？"
+    }
+  ]
 }
