@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "犬でも猫が落ち着くと動けなくなることを知っている"
+    },
+    {
+      "locale": "zh",
+      "title": "即使是狗哥也知道，一旦猫咪舒服了，你就不能再动了"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "即使是狗哥也知道，一旦貓咪舒服了，你就不能再動了"
+    }
+  ]
 }
