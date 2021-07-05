@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-04T19:48:42Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--g5TZLS6m--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jp3oiq1yez9ba2x440gu.png",
   "author": "Terry Threatt",
-  "author_url": "https://dev.to/terrythreatt"
+  "author_url": "https://dev.to/terrythreatt",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Node.jsとは Node.jsは、オープンソースのJavascriptランタイムです。このランタイムを使って...",
+      "title": "node.jsを使う5つの理由"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是Node.js Node.js是一个开源的Javascript运行时间。它被用来创建...",
+      "title": "使用node.js的5个理由"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是Node.js Node.js是一個開源的Javascript運行時間。它被用來創建...",
+      "title": "使用node.js的5個理由"
+    }
+  ]
 }
