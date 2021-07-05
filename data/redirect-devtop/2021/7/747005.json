@@ -50,5 +50,22 @@
   "original_created_at": "2021-07-03T09:56:14Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--y1-4TBs2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wxapp7lcardicykfvr5l.png",
   "author": "Patricia Nicole",
-  "author_url": "https://dev.to/pat_the99"
+  "author_url": "https://dev.to/pat_the99",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "[JS#4 WIL 🤔投稿] テスト駆動開発（TDD）の主な考え方は、単純に作業を開始して...",
+      "title": "Jestを用いたJavascriptによるテスト駆動開発（TDD）の基礎"
+    },
+    {
+      "locale": "zh",
+      "description": "[JS#4 WIL 🤔 Post] 测试驱动开发（TDD）的主要思想是简单地开始在...",
+      "title": "使用Jest的Javascript测试驱动开发（TDD）的基础知识"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "[JS#4 WIL 🤔 Post] 測試驅動開發（TDD）的主要思想是簡單地開始在...",
+      "title": "使用Jest的Javascript測試驅動開發（TDD）的基礎知識"
+    }
+  ]
 }
