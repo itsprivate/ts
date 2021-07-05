@@ -62,5 +62,19 @@
   "retweet_count": 32,
   "favorite_count": 260,
   "possibly_sensitive": false,
-  "original_created_at": "Sun Jul 04 22:50:59 +0000 2021"
+  "original_created_at": "Sun Jul 04 22:50:59 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "このロボットの名前は「Oculus Prime」。\n\nhttps://t.co/lhBA3R9J84"
+    },
+    {
+      "locale": "zh",
+      "full_text": "这个机器人的名字是Oculus Prime \n\nhttps://t.co/lhBA3R9J84"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "這個機器人的名字是Oculus Prime \n\nhttps://t.co/lhBA3R9J84"
+    }
+  ]
 }
