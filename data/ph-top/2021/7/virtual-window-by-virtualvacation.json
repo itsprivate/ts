@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-05T07:00:00Z"
+  "original_createdAt": "2021-07-05T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Virtual Window by VirtualVacation」は、世界中の窓からの景色を体験できるWebアプリです。窓を見ることは日常的なことです。オフィスでも家でも、Virtual Windowを使えば、世界に目を向けることができます。✨🌎",
+      "tagline": "世界の窓辺の風景を体験してみませんか？"
+    },
+    {
+      "locale": "zh",
+      "description": "VirtualVacation的虚拟窗口是一个网络应用程序，让你体验全球各地窗口的景色。观赏窗户是一种日常行为。无论是从办公室，还是从你的房子，虚拟窗口让你扩大你的世界范围。✨🌎",
+      "tagline": "体验来自全球各地的窗景 🌎"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "VirtualVacation的虛擬窗口是一個網絡應用程序，讓你體驗全球各地窗口的景色。觀賞窗戶是一種日常行爲。無論是從辦公室，還是從你的房子，虛擬窗口讓你擴大你的世界範圍。✨🌎",
+      "tagline": "體驗來自全球各地的窗景 🌎"
+    }
+  ]
 }
