@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-25T07:07:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--q8FB6dkM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cuyhi09epu5pv9mmu11c.png",
   "author": "Tamerlan Gudabayev",
-  "author_url": "https://dev.to/tamerlang"
+  "author_url": "https://dev.to/tamerlang",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "デザインパターンのシリーズに戻ってきました。  今週は、Builderパターンに取り組みます。  このパターンは...",
+      "title": "Design Patterns（デザインパターン）。ビルダー"
+    },
+    {
+      "locale": "zh",
+      "description": "欢迎回到我们的设计模式系列。  本周我们将讨论Builder模式。  它是...",
+      "title": "设计模式。构建者"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "歡迎回到我們的設計模式系列。  本週我們將討論Builder模式。  它是...",
+      "title": "設計模式。構建者"
+    }
+  ]
 }
