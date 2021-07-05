@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが知っている最も賢い人を思い浮かべてください。彼らが今までにした最も愚かなことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "想想你认识的最聪明的人，他们做过的最愚蠢的事情是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "想想你認識的最聰明的人，他們做過的最愚蠢的事情是什麼？"
+    }
+  ]
 }
