@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "間違った地域を覗く"
+    },
+    {
+      "locale": "zh",
+      "title": "在错误的街区偷窥"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在錯誤的街區偷窺"
+    }
+  ]
 }

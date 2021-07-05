@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-03T22:00:01Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ea7XJS8j--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h4c6buxj2aacuo4v7xs5.jpg",
   "author": "Talha Altınel",
-  "author_url": "https://dev.to/mrwormhole"
+  "author_url": "https://dev.to/mrwormhole",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "    皆さんこんにちは。今回は、Terraformを使ってlocalstackを実行する方法をご紹介します...",
+      "title": "AWSをローカルで運用するためのTerraformとDockerを備えたLocalstack"
+    },
+    {
+      "locale": "zh",
+      "description": "    大家好，在这篇文章中，我将演示如何用Terraform运行localstack...",
+      "title": "Localstack与Terraform和Docker用于本地运行AWS"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "    大家好，在這篇文章中，我將演示如何用Terraform運行localstack...",
+      "title": "Localstack與Terraform和Docker用於本地運行AWS"
+    }
+  ]
 }

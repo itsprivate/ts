@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "View Poll [https://www.reddit.com/poll/odlx3y]"
+  "the_new_excerpt": "View Poll [https://www.reddit.com/poll/odlx3y]",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "View Poll [https://www.reddit.com/poll/odlx3y]",
+      "title": "NBAファイナルを制するのは？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "查看投票 [https://www.reddit.com/poll/odlx3y]",
+      "title": "谁将赢得NBA总决赛？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "查看投票 [https://www.reddit.com/poll/odlx3y]",
+      "title": "誰將贏得NBA總決賽？"
+    }
+  ]
 }
