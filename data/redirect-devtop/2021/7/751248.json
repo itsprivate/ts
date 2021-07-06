@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-06T10:31:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CTrX6TG1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uea6x5ysjxe58rp3drwl.png",
   "author": "Jamie Swift",
-  "author_url": "https://dev.to/jamieswift90"
+  "author_url": "https://dev.to/jamieswift90",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "そう、みんなターミナルニンジャになって、すべてのgitコマンドを暗記しなければならないのです。それとも、例えば...",
+      "title": "Gitを強化するためのVS Code拡張機能（GitLens以外にもあります"
+    },
+    {
+      "locale": "zh",
+      "description": "是的，我知道，我们都应该成为终端忍者，记住每一个git命令，哒哒哒。或者，像...",
+      "title": "最好的VS Code扩展来增强Git的功能（是的，比GitLens更多！）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "是的，我知道，我們都應該成爲終端忍者，記住每一個git命令，噠噠噠。或者，像...",
+      "title": "最好的VS Code擴展來增強Git的功能（是的，比GitLens更多！）。"
+    }
+  ]
 }
