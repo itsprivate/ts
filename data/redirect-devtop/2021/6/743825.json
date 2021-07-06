@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-30T12:27:01Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ebjr2jDd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h4hgm4fh52teptdi1528.jpg",
   "author": "Alex Omeyer",
-  "author_url": "https://dev.to/alexomeyer"
+  "author_url": "https://dev.to/alexomeyer",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私たちのコードを整理し、複雑さを減らし、機能を向上させる方法を探している人は、これらの...",
+      "title": "リファクタリングを容易にする5つのVS Code拡張機能"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你正在寻找方法来清理我们的代码，减少复杂性和改善功能 - 这些...",
+      "title": "5个VS代码扩展，让重构变得简单"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你正在尋找方法來清理我們的代碼，減少複雜性和改善功能 - 這些...",
+      "title": "5個VS代碼擴展，讓重構變得簡單"
+    }
+  ]
 }
