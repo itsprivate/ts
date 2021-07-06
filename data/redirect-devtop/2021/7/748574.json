@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-05T13:13:26Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ujY0M4E9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ks7x7xkyhy81awdjsszu.png",
   "author": "Andrew Bone",
-  "author_url": "https://dev.to/link2twenty"
+  "author_url": "https://dev.to/link2twenty",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あまり知られていないかもしれませんが、この1週間、影の戦争が起こっています。",
+      "title": "ユニコードの星を使ったスターレイティング"
+    },
+    {
+      "locale": "zh",
+      "description": "你可能不知道，但在过去一周里，有一场影子战争正在发生，就在...",
+      "title": "使用Unicode星星进行评级"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你可能不知道，但在過去一週裏，有一場影子戰爭正在發生，就在...",
+      "title": "使用Unicode星星進行評級"
+    }
+  ]
 }
