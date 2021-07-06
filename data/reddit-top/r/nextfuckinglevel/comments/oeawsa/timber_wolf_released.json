@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Timber Wolf発売!"
+    },
+    {
+      "locale": "zh",
+      "title": "林狼被释放了!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "林狼被釋放了!"
+    }
+  ]
 }
