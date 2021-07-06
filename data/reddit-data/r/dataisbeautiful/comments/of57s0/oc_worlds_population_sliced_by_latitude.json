@@ -106,5 +106,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] 🌎🔪世界の人口を緯度でスライスしてみました。(インタラクティブ版: https://observablehq.com/@karimdouieb/worlds-population-sliced-by-latitude)"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC] 🌎🔪世界人口按纬度切分。(互动版本：https://observablehq.com/@karimdouieb/worlds-population-sliced by-latitude)"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC] 🌎🔪世界人口按緯度切分。(互動版本：https://observablehq.com/@karimdouieb/worlds-population-sliced by-latitude)"
+    }
+  ]
 }
