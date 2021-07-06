@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今までに付けられた最悪の名前は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你听说过的最糟糕的孩子名字是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你聽說過的最糟糕的孩子名字是什麼？"
+    }
+  ]
 }
