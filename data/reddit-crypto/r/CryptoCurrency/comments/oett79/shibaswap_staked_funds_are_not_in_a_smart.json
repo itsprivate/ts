@@ -47,5 +47,19 @@
     "type": "twitter.com"
   },
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "シバスワップ。ステイクされた資金はスマートコントラクトの中にはなく、いつでも開発者によって荒らされる可能性があります。"
+    },
+    {
+      "locale": "zh",
+      "title": "希巴斯特瓦普（Shibaswap）。抵押的资金不在智能合约中，可以在任何时候被开发者加固。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "希巴斯特瓦普（Shibaswap）。抵押的資金不在智能合約中，可以在任何時候被開發者加固。"
+    }
+  ]
 }
