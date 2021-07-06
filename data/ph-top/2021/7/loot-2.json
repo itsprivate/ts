@@ -48,5 +48,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-06T09:28:28Z"
+  "original_createdAt": "2021-07-06T09:28:28Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Lootは、ワンクリックでクローム拡張機能で、チェックアウトページですぐに割引情報をポップアップ表示し、ソフトウェアの購入をお得にすることができます。簡単に言うと、Lootはあなたがソフトウェアを買いすぎないようにサポートします。Lootには150以上のソフトウェア割引があり、毎日追加されています。",
+      "tagline": "Honey for SaaS"
+    },
+    {
+      "locale": "zh",
+      "description": "Loot是一个一键式的chrome扩展，在结账页面直接弹出折扣，帮助你节省购买软件的费用。简单地说，Loot可以帮助你不为软件支付过多费用。Loot有150多个软件折扣，而且每天都在增加。",
+      "tagline": "用于SaaS的蜂蜜"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Loot是一個一鍵式的chrome擴展，在結賬頁面直接彈出折扣，幫助你節省購買軟件的費用。簡單地說，Loot可以幫助你不爲軟件支付過多費用。Loot有150多個軟件折扣，而且每天都在增加。",
+      "tagline": "用於SaaS的蜂蜜"
+    }
+  ]
 }
