@@ -14,5 +14,19 @@
   "tags": [
     "Fox News"
   ],
-  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/07/2an26-xxxxxx.jpg"
+  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/07/2an26-xxxxxx.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ロシア航空機が行方不明。28人が搭乗していたと思われる"
+    },
+    {
+      "locale": "zh",
+      "title": "俄罗斯飞机失踪。据信机上有28人"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "俄羅斯飛機失蹤。據信機上有28人"
+    }
+  ]
 }
