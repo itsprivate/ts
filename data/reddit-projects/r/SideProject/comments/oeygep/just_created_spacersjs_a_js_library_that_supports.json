@@ -136,5 +136,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "SpacersJSは、パディングやマージン、リンク機能などを制御する複数のスペーサーをサポートするJSライブラリです。"
+    },
+    {
+      "locale": "zh",
+      "title": "刚刚创建了SpacersJS--一个支持多个间隔符的JS库，用于控制填充/边距，链接功能和更多的功能!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "剛剛創建了SpacersJS--一個支持多個間隔符的JS庫，用於控制填充/邊距，鏈接功能和更多的功能!"
+    }
+  ]
 }
