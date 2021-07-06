@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-03T00:39:57Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Xxyj8D1z--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qx6s78a87w0ux231gujx.png",
   "author": "Roger Torres",
-  "author_url": "https://dev.to/rogertorres"
+  "author_url": "https://dev.to/rogertorres",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TL;DR: これは、私が示す初心者のための記事です。  この記事では、以下のことを説明しています： プロジェクト内のファイルをどのように構成して、...",
+      "title": "RustによるREST APIラッパー"
+    },
+    {
+      "locale": "zh",
+      "description": "TL;DR: 这是一个为初学者准备的帖子，我展示了。  我是如何将项目中的文件结构化的，以便于...",
+      "title": "使用Rust的REST API封装器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "TL;DR: 這是一個爲初學者準備的帖子，我展示了。  我是如何將項目中的文件結構化的，以便於...",
+      "title": "使用Rust的REST API封裝器"
+    }
+  ]
 }
