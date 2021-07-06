@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-05T11:59:08Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KqakgGcY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://cdn-images-1.medium.com/max/1200/0%2A7Vq1uUDc9MSdtvvc",
   "author": "Prathamesh More",
-  "author_url": "https://dev.to/pprathameshmore"
+  "author_url": "https://dev.to/pprathameshmore",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このチュートリアルでは、バックエンドをExpress.jsで、フロントエンドをReact.jsで実装したYouTube Downloaderを構築します。",
+      "title": "Node.jsとReact.jsでYouTubeダウンローダーを作る方法"
+    },
+    {
+      "locale": "zh",
+      "description": "在本教程中，我们将建立YouTube下载器，后端用Express.js实现，前端用React.js。",
+      "title": "如何用Node.js和React.js创建一个YouTube下载器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在本教程中，我們將建立YouTube下載器，後端用Express.js實現，前端用React.js。",
+      "title": "如何用Node.js和React.js創建一個YouTube下載器"
+    }
+  ]
 }
