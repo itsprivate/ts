@@ -83,5 +83,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-06T10:58:24Z"
+  "original_createdAt": "2021-07-06T10:58:24Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Universal Data Visualizationは、Figmaでチャートやインフォグラフィックを作成するための高品質なツールです。データを数秒で視覚化する簡単な方法です。",
+      "tagline": "Figma のチャートとインフォグラフィックスのコンストラクタ"
+    },
+    {
+      "locale": "zh",
+      "description": "Universal Data Visualization是一个高质量的工具，用于在Figma中创建图表和信息图。在几秒钟内使你的数据可视化的简单方法。",
+      "tagline": "Figma中的图表和信息图示构造器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Universal Data Visualization是一個高質量的工具，用於在Figma中創建圖表和信息圖。在幾秒鐘內使你的數據可視化的簡單方法。",
+      "tagline": "Figma中的圖表和信息圖示構造器"
+    }
+  ]
 }
