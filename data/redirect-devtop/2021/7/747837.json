@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-04T15:50:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wn14pIl0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1n8ka76wddjiehcbegmu.jpg",
   "author": "manish srivastava",
-  "author_url": "https://dev.to/manishfoodtechs"
+  "author_url": "https://dev.to/manishfoodtechs",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "時にはDockerの中にDockerを入れたい。例えば、CIパイプライン、JenkinsのDockerベースのダイナミック...",
+      "title": "dockerの中のdocker"
+    },
+    {
+      "locale": "zh",
+      "description": "有时候，我们希望在Docker里面有Docker。例如：CI流水线、Jenkins基于Docker的动态管理。",
+      "title": "docker inside docker"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有時候，我們希望在Docker裏面有Docker。例如：CI流水線、Jenkins基於Docker的動態管理。",
+      "title": "docker inside docker"
+    }
+  ]
 }
