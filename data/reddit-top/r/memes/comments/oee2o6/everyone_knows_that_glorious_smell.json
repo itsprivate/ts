@@ -106,5 +106,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "誰もが知っているあの華やかな香り"
+    },
+    {
+      "locale": "zh",
+      "title": "每个人都知道那种光辉的味道"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "每個人都知道那種光輝的味道"
+    }
+  ]
 }
