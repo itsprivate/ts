@@ -104,5 +104,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-06T09:43:43Z"
+  "original_createdAt": "2021-07-06T09:43:43Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Super Agentは、お客様の好みに応じてクッキー同意書を記入しますので、時間を節約し、お客様のプライバシーを管理することができます。",
+      "tagline": "クッキーの自動承諾"
+    },
+    {
+      "locale": "zh",
+      "description": "超级代理根据您的喜好填写cookie同意书，为您节省时间，让您控制自己的隐私。",
+      "tagline": "自动的cookie同意"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "超級代理根據您的喜好填寫cookie同意書，爲您節省時間，讓您控制自己的隱私。",
+      "tagline": "自動的cookie同意"
+    }
+  ]
 }
