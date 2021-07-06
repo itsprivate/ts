@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-04T18:28:55Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JNDhhom_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7b7u8mkkfjd4khrhxlsg.jpeg",
   "author": "Joe Pea",
-  "author_url": "https://dev.to/trusktr"
+  "author_url": "https://dev.to/trusktr",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Solidは、シンプルな操作でDOMを構成し、操作することができる反応性の高い宣言型ツールです。",
+      "title": "私がSolid.jsを好きな理由はいくつかあります。"
+    },
+    {
+      "locale": "zh",
+      "description": "Solid是这样一个惊人的反应式声明工具，它可以用简单的方法组成和操作DOM。",
+      "title": "我喜欢Solid.js的几个原因"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Solid是這樣一個驚人的反應式聲明工具，它可以用簡單的方法組成和操作DOM。",
+      "title": "我喜歡Solid.js的幾個原因"
+    }
+  ]
 }

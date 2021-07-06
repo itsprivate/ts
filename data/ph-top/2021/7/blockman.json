@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-06T07:01:00Z"
+  "original_createdAt": "2021-07-06T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "VSCode拡張機能「Blockman」。ブロックの色、深さ、フォーカスのオン/オフ、カール/スクエア/ラウンドブラケットなどをカスタマイズできます... Python、Dart、Rust、Swift、R、Go、PHP、JavaScript、JSX、TypeScript、TSX、C、C#、C++、Java、HTML、CSSなどをサポートしています...",
+      "tagline": "ネストしたコードブロックのハイライト"
+    },
+    {
+      "locale": "zh",
+      "description": "VSCode扩展 - Blockman。你可以自定义块的颜色、深度、打开/关闭焦点、大括号/方括号/圆括号，以及更多... 支持Python、Dart、Rust、Swift、R、Go、PHP、JavaScript、JJSX、TypeScript、TSX、C、C#、C++、Java、HTML、CSS和更多...",
+      "tagline": "突出显示嵌套的代码块"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "VSCode擴展 - Blockman。你可以自定義塊的顏色、深度、打開/關閉焦點、大括號/方括號/圓括號，以及更多... 支持Python、Dart、Rust、Swift、R、Go、PHP、JavaScript、JJSX、TypeScript、TSX、C、C#、C++、Java、HTML、CSS和更多...",
+      "tagline": "突出顯示嵌套的代碼塊"
+    }
+  ]
 }
