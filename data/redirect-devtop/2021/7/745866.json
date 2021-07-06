@@ -52,5 +52,22 @@
   "original_created_at": "2021-07-02T07:50:58Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EDr2VgVt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/chmbxjwbqxkqf2sdei80.jpeg",
   "author": "Ryan Carniato",
-  "author_url": "https://dev.to/ryansolid"
+  "author_url": "https://dev.to/ryansolid",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "先週、私たちはSolidJS 1.0をリリースしました。昔のアイデアを基に作られたJavaScriptフレームワークで、...",
+      "title": "JavaScriptフレームワークとMetagaming"
+    },
+    {
+      "locale": "zh",
+      "description": "上周我们发布了 SolidJS 1.0。一个建立在很久以前思想基础上的JavaScript框架...",
+      "title": "JavaScript框架和Metagaming"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "上週我們發佈了 SolidJS 1.0。一個建立在很久以前思想基礎上的JavaScript框架...",
+      "title": "JavaScript框架和Metagaming"
+    }
+  ]
 }
