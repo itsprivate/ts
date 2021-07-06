@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私のオープンソースプロジェクト - Jina, an AI search framework is on #1 monthly trending list of GitHub"
+    },
+    {
+      "locale": "zh",
+      "title": "我的开源项目--Jina，一个人工智能搜索框架，在GitHub的月度趋势列表中排名第一。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我的開源項目--Jina，一個人工智能搜索框架，在GitHub的月度趨勢列表中排名第一。"
+    }
+  ]
 }
