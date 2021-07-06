@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "小さな町の映画館は、最後の映画が上映されて以来、売りに出されています。"
+    },
+    {
+      "locale": "zh",
+      "title": "小镇电影院自最后一场电影放映后出售。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "小鎮電影院自最後一場電影放映後出售。"
+    }
+  ]
 }
