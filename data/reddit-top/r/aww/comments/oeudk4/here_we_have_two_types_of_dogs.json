@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ここでは、2種類の犬が登場します。"
+    },
+    {
+      "locale": "zh",
+      "title": "这里我们有两种类型的狗"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這裏我們有兩種類型的狗"
+    }
+  ]
 }

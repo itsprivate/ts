@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "TAKE THAT! この動作するスプリンクラーは、泥棒を遠ざけるための一つの方法です。"
+    },
+    {
+      "locale": "zh",
+      "title": "接招吧! 这种运动激活的洒水器是阻止小偷的一种方法。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "接招吧! 這種運動激活的灑水器是阻止小偷的一種方法。"
+    }
+  ]
 }
