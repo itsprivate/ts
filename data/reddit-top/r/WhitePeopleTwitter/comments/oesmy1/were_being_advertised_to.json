@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "に宣伝されています。"
+    },
+    {
+      "locale": "zh",
+      "title": "我们被宣传的对象是"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們被宣傳的對象是"
+    }
+  ]
 }
