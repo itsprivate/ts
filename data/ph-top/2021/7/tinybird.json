@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-05T20:01:06Z"
+  "original_createdAt": "2021-07-05T20:01:06Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Tinybirdは、数分で構築できる分析APIエンドポイントを通じて、データチームがリアルタイムの回答を大規模に提供できるようにします。",
+      "tagline": "生データを大規模なリアルタイムのAPIに"
+    },
+    {
+      "locale": "zh",
+      "description": "Tinybird帮助数据团队通过分析性的API端点来提供大规模的实时答案，这些端点只需几分钟就能建立。",
+      "tagline": "规模化地将原始数据转化为实时的API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Tinybird幫助數據團隊通過分析性的API端點來提供大規模的實時答案，這些端點只需幾分鐘就能建立。",
+      "tagline": "規模化地將原始數據轉化爲實時的API"
+    }
+  ]
 }
