@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "https://twitter.com/taproot_signal\n\nMiners did their part with the signalling, now it's up to the users."
+  "the_new_excerpt": "https://twitter.com/taproot_signal\n\nMiners did their part with the signalling, now it's up to the users.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "https://twitter.com/taproot_signal\n\n鉱山労働者は信号の役割を果たした、あとはユーザー次第だ。",
+      "title": "ノードを運用している場合は、Taprootをサポートするようにアップデートすることを忘れないでください。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "https://twitter.com/taproot_signal\n\n矿工在信号方面做了他们的工作，现在就看用户的了。",
+      "title": "如果你运行的是一个节点，记得更新它以支持Taproot，到目前为止只有27%的节点支持。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "https://twitter.com/taproot_signal\n\n礦工在信號方面做了他們的工作，現在就看用戶的了。",
+      "title": "如果你運行的是一個節點，記得更新它以支持Taproot，到目前爲止只有27%的節點支持。"
+    }
+  ]
 }
