@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインを初めて使う人は、雑音を無視してください。単純にstack satsとHODL"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你是比特币的新手，不要理会这些噪音。简单地堆积sats和HODL"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你是比特幣的新手，不要理會這些噪音。簡單地堆積sats和HODL"
+    }
+  ]
 }
