@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "コードを速く書くためのツールを作ってみた"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个工具，帮助我更快地编码"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個工具，幫助我更快地編碼"
+    }
+  ]
 }
