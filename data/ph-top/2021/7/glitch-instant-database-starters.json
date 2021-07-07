@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-07T16:20:38Z"
+  "original_createdAt": "2021-07-07T16:20:38Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Glitchでは、SQLiteやCassandra（DataStax Astraを使用）、さらにはAirctableなどのデータベースを利用して、本格的なフルスタックのWebアプリを即座に構築することができます。すべての設定が完了しているので、チームで共有したり、ドメインを追加したりして、すぐに実行できます。",
+      "tagline": "データベースでバックアップされたフルスタックアプリケーションを1分以内に構築することができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "Glitch可以让你立即建立一个真正的、全栈式的网络应用，由SQLite、Cassandra（使用DataStax Astra）、甚至Airtable等数据库提供支持。一切都已配置好，准备好让你与你的团队分享或添加一个域，并在一分钟内运行。",
+      "tagline": "在一分钟内建立一个以数据库为基础的全栈应用。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Glitch可以讓你立即建立一個真正的、全棧式的網絡應用，由SQLite、Cassandra（使用DataStax Astra）、甚至Airtable等數據庫提供支持。一切都已配置好，準備好讓你與你的團隊分享或添加一個域，並在一分鐘內運行。",
+      "tagline": "在一分鐘內建立一個以數據庫爲基礎的全棧應用。"
+    }
+  ]
 }
