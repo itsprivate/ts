@@ -52,5 +52,22 @@
   "original_created_at": "2021-07-05T14:25:52Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_h1UYiQz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gerrfurulmnyacpmmvvc.jpg",
   "author": "Alexandre Ruban",
-  "author_url": "https://dev.to/alexandreruban"
+  "author_url": "https://dev.to/alexandreruban",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、ポリモーフィズムを用いたリファクタリング（replace conditional with polymorphism）についてご紹介します。",
+      "title": "条件付きをポリモーフィズムに置き換えることで、きれいなオブジェクト指向コードを書くことができる。"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我将谈论一种叫做用多态性替换条件的重构，我们可以用多态性代替条件。",
+      "title": "通过用多态性取代条件性来编写干净的面向对象的代码"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我將談論一種叫做用多態性替換條件的重構，我們可以用多態性代替條件。",
+      "title": "通過用多態性取代條件性來編寫乾淨的面向對象的代碼"
+    }
+  ]
 }
