@@ -57,5 +57,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Is has been just announced that EIP-1559 will be released on ETH on the 4th of\nAugust. It will be confirmed this friday but these are very bullish news for ETH\nas the burning will begin, and potentially making ETH a deflationary coin.\n\nEdit: Source: https://github.com/ethereum/eth1.0-specs/pull/223"
+  "the_new_excerpt": "Is has been just announced that EIP-1559 will be released on ETH on the 4th of\nAugust. It will be confirmed this friday but these are very bullish news for ETH\nas the burning will begin, and potentially making ETH a deflationary coin.\n\nEdit: Source: https://github.com/ethereum/eth1.0-specs/pull/223",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "EIP-1559が8月4日にETHでリリースされることが発表されました。\n8月4日にETHでリリースされることが発表されました。今週の金曜日に確認されますが、ETHにとって非常に強気のニュースです。\nにとって非常に強気のニュースです。なぜなら、燃焼が始まり、ETHがデフレコインになる可能性があるからです。\n\n編集：ソース：https://github.com/ethereum/eth1.0-specs/pull/223",
+      "title": "EIP-1559は8月4日に発売されます。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "刚刚宣布，EIP-1559将于8月4日在ETH上发布。\n8月4日发布。这将在本周五得到确认，但这些消息对ETH来说是非常看涨的。\n燃烧将开始，并有可能使ETH成为通缩币。\n\n编辑：来源：https://github.com/ethereum/eth1.0-specs/pull/223",
+      "title": "EIP-1559将于8月4日到来"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "剛剛宣佈，EIP-1559將於8月4日在ETH上發佈。\n8月4日發佈。這將在本週五得到確認，但這些消息對ETH來說是非常看漲的。\n燃燒將開始，並有可能使ETH成爲通縮幣。\n\n編輯：來源：https://github.com/ethereum/eth1.0-specs/pull/223",
+      "title": "EIP-1559將於8月4日到來"
+    }
+  ]
 }
