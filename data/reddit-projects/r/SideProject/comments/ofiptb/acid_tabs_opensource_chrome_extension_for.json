@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Acid Tabs: URLパターンでタブを自動グループ化するオープンソースのChrome拡張機能"
+    },
+    {
+      "locale": "zh",
+      "title": "Acid Tabs: 开源的Chrome扩展程序，用于按URL模式自动分组标签"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Acid Tabs: 開源的Chrome擴展程序，用於按URL模式自動分組標籤"
+    }
+  ]
 }
