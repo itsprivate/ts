@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "timetrace: 作業時間を記録するためのシンプルなCLI"
+    },
+    {
+      "locale": "zh",
+      "title": "Timetrace: 一个简单的CLI，用于跟踪你的工作时间"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Timetrace: 一個簡單的CLI，用於跟蹤你的工作時間"
+    }
+  ]
 }
