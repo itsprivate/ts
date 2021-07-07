@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "地理は難しい"
+    },
+    {
+      "locale": "zh",
+      "title": "地理是硬道理"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "地理是硬道理"
+    }
+  ]
 }
