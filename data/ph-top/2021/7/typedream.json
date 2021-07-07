@@ -98,5 +98,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-07T07:01:00Z"
+  "original_createdAt": "2021-07-07T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "✨ 使い慣れたNotionのようなインターフェイスで素早くページを構築し、コンテンツに集中する ⠀ 🖼️ 美しくモダンなデフォルトで、どんなウェブサイトも最小限の労力で見栄えよく仕上げる ⠀ 🏃 NextJS on Vercelで実現した高パフォーマンスの静的ページと最適化された画像",
+      "tagline": "Notionのように簡単に、Webflowのように美しく、コードレスのサイトビルダー。"
+    },
+    {
+      "locale": "zh",
+      "description": "⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ 通过熟悉的Notion-like界面快速建立页面，并专注于内容 ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ʄ",
+      "tagline": "无代码网站建设者，像Notion一样简单，像Webflow一样漂亮"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ 通過熟悉的Notion-like界面快速建立頁面，並專注於內容 ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ʄ",
+      "tagline": "無代碼網站建設者，像Notion一樣簡單，像Webflow一樣漂亮"
+    }
+  ]
 }
