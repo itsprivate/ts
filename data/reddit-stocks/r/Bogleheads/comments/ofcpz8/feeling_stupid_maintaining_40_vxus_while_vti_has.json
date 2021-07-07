@@ -102,5 +102,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1625636418,
-  "the_new_excerpt": "Is the 60:40 allocation still valid?\n\nor should be adjusted intelligently"
+  "the_new_excerpt": "Is the 60:40 allocation still valid?\n\nor should be adjusted intelligently",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "60：40の配分はまだ有効ですか？\n\nそれとも賢く調整すべきか",
+      "title": "VTIがここ数年（つまりここ10年以上）、ものすごく上昇しているのに、VXUSを40％も維持しているのは馬鹿げている。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "60:40的分配方式是否仍然有效？\n\n还是应该智能调整",
+      "title": "感觉自己很傻，维持40%的VXUS，而VTI这些年（我指的是这10多年）一直在疯狂地上涨。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "60:40的分配方式是否仍然有效？\n\n還是應該智能調整",
+      "title": "感覺自己很傻，維持40%的VXUS，而VTI這些年（我指的是這10多年）一直在瘋狂地上漲。"
+    }
+  ]
 }
