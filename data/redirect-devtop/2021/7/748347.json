@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-05T08:13:32Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--aAn3rBtQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fjleb0o6chllm5ejisj4.png",
   "author": "Navraj Sandhu",
-  "author_url": "https://dev.to/asyncnavi"
+  "author_url": "https://dev.to/asyncnavi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは。この記事では、reactとreact...を使って、三目並べアプリを作成します。",
+      "title": "Reactでチックタックトーを作ってみましょう。"
+    },
+    {
+      "locale": "zh",
+      "description": "欢迎大家，在这篇文章中，我们将使用react和react创建一个井字形的应用程序。",
+      "title": "让我们用React创建一个井字形游戏。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "歡迎大家，在這篇文章中，我們將使用react和react創建一個井字形的應用程序。",
+      "title": "讓我們用React創建一個井字形遊戲。"
+    }
+  ]
 }
