@@ -57,5 +57,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Hey, I've been working at the weekends on an automation tool where you can sync\nGoogle Spreadsheets (airtable, hubspot soon) with 3rd party APIs such as Email\nHunter, Zerobounce, LinkedIn Enrichments using an UI similar to Zapier. Goal is\nto let people build their own enrichment tools code free and…"
+  "the_new_excerpt": "Hey, I've been working at the weekends on an automation tool where you can sync\nGoogle Spreadsheets (airtable, hubspot soon) with 3rd party APIs such as Email\nHunter, Zerobounce, LinkedIn Enrichments using an UI similar to Zapier. Goal is\nto let people build their own enrichment tools code free and…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "やあ、週末に自動化ツールを作っていたんだ。\nGoogleスプレッドシート（airtable、Hubspotも間もなく）と、Email Hunter、Zerobounce、LinkedIn EnrichmentsなどのサードパーティのAPIを同期できる自動化ツールを作っています。\nHunter、Zerobounce、LinkedIn EnrichmentsなどのサードパーティのAPIと同期できる自動化ツールを作っています。目標は\n人々が独自のエンリッチメントツールをコードフリーで構築できるようにすること、そして...",
+      "title": "No Code リードジェネレーション/データエンリッチメントツール"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "嘿，我在周末一直在做一个自动化工具，你可以把\n谷歌电子表格（airtable，hubspot很快）与第三方API，如Email\nHunter, Zerobounce, LinkedIn Enrichments，使用类似于Zapier的用户界面。目标是\n让人们免费建立他们自己的丰富的工具代码，并...",
+      "title": "无代码线索生成/数据充实工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "嘿，我在週末一直在做一個自動化工具，你可以把\n谷歌電子表格（airtable，hubspot很快）與第三方API，如Email\nHunter, Zerobounce, LinkedIn Enrichments，使用類似於Zapier的用戶界面。目標是\n讓人們免費建立他們自己的豐富的工具代碼，並...",
+      "title": "無代碼線索生成/數據充實工具"
+    }
+  ]
 }
