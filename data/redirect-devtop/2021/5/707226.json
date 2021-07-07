@@ -50,5 +50,22 @@
   "original_created_at": "2021-05-24T13:13:29Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zz947vJi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g02cajxgnuo3mu90f13p.png",
   "author": "James Wallis",
-  "author_url": "https://dev.to/jameswallis"
+  "author_url": "https://dev.to/jameswallis",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Framer Motionでページ遷移のアニメーションを追加して、Next.jsアプリを生き生きとしたものにしましょう。",
+      "title": "Framer MotionでNext.jsのページトランジションをアニメーション化する"
+    },
+    {
+      "locale": "zh",
+      "description": "通过使用Framer Motion添加页面过渡动画，使你的Next.js应用程序变得生动。",
+      "title": "用Framer Motion制作Next.js页面过渡的动画"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "通過使用Framer Motion添加頁面過渡動畫，使你的Next.js應用程序變得生動。",
+      "title": "用Framer Motion製作Next.js頁面過渡的動畫"
+    }
+  ]
 }
