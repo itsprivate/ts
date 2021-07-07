@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-06T16:35:19Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CQrbFlxC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3ppqu7c4eyuczgn0fm2s.png",
   "author": "CodeOzz",
-  "author_url": "https://dev.to/codeozz"
+  "author_url": "https://dev.to/codeozz",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ようこそ、私の友人。今日は、Netlifyを使って静的なウェブサイトを無料で展開する方法をご紹介します...",
+      "title": "あなたのウェブサイトを無料でオンラインにする方法（ボーナス：2ドルでドメイン名を取得する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "欢迎我的朋友! 今天我将向你展示如何用Netlify免费部署你的静态网站...",
+      "title": "如何在网上免费推送你的网站（奖励：如何用2美元获得域名）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "歡迎我的朋友! 今天我將向你展示如何用Netlify免費部署你的靜態網站...",
+      "title": "如何在網上免費推送你的網站（獎勵：如何用2美元獲得域名）。"
+    }
+  ]
 }
