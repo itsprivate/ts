@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが知っている最高のジョークは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你知道的最好的笑话是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你知道的最好的笑話是什麼？"
+    }
+  ]
 }
