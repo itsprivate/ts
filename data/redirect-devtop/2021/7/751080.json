@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-06T08:33:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xzbycKld--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o4k3p2jlw9iafa102lw1.png",
   "author": "Arsenii Gorushkin",
-  "author_url": "https://dev.to/agorushkin"
+  "author_url": "https://dev.to/agorushkin",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私に言わせれば、モジュールは機能的にとても重要だと思います。おかげさまで...",
+      "title": "ES6モジュールとその仕組み"
+    },
+    {
+      "locale": "zh",
+      "description": "如果有人问我，我会说模块因其功能而真的很重要。感谢...",
+      "title": "ES6模块和它们的工作原理"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果有人問我，我會說模塊因其功能而真的很重要。感謝...",
+      "title": "ES6模塊和它們的工作原理"
+    }
+  ]
 }
