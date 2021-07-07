@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "日本が中国の攻撃に備えて米国と共同で台湾を防衛することを示唆したことに対し、北京が抗議声明を発表"
+    },
+    {
+      "locale": "zh",
+      "title": "日本发出信号，表示将在中国进攻时与美国一起保卫台湾，北京对此提出抗议"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "日本發出信號，表示將在中國進攻時與美國一起保衛臺灣，北京對此提出抗議"
+    }
+  ]
 }
