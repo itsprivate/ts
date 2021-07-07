@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "アルジェリアのサハラ砂漠の真ん中でドロメダリーを失神させてしまった。"
+    },
+    {
+      "locale": "zh",
+      "title": "晕倒在阿尔及利亚撒哈拉沙漠中间的单峰驼，热度几乎达到60c°（140 f°）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "暈倒在阿爾及利亞撒哈拉沙漠中間的單峯駝，熱度幾乎達到60c°（140 f°）。"
+    }
+  ]
 }
