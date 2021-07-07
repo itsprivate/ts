@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-04T16:24:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rLiYqyRV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4l4p9cpsykic213131y9.jpg",
   "author": "Amitav Mishra",
-  "author_url": "https://dev.to/amitavmishra99"
+  "author_url": "https://dev.to/amitavmishra99",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JavaScriptのPromiseは、非同期の操作が終わった後に結果を返すオブジェクトです。",
+      "title": "JavaScriptにおけるプロミスの簡単なガイド"
+    },
+    {
+      "locale": "zh",
+      "description": "JavaScript中的Promise是一个对象，它在异步操作后返回一个结果...",
+      "title": "JavaScript中承诺的简要指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "JavaScript中的Promise是一個對象，它在異步操作後返回一個結果...",
+      "title": "JavaScript中承諾的簡要指南"
+    }
+  ]
 }

@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-07T07:11:23Z"
+  "original_createdAt": "2021-07-07T07:11:23Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Approveitは、Slackでチームの承認ワークフローを構築・管理する新しい方法である、待望のツール「Workflows」を発表します。シンプルでパワフルなビジュアルビルダーを使って、Slackでカスタム承認ワークフローを作成します。",
+      "tagline": "チームの承認ワークフローをSlackで管理する"
+    },
+    {
+      "locale": "zh",
+      "description": "Approveit提出了最令人期待的工具--工作流程，一种在Slack中建立和管理团队审批工作流程的新方式。通过一个简单而强大的可视化构建器在Slack中创建您的自定义审批工作流程。",
+      "tagline": "在Slack中管理你的团队的审批工作流程"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Approveit提出了最令人期待的工具--工作流程，一種在Slack中建立和管理團隊審批工作流程的新方式。通過一個簡單而強大的可視化構建器在Slack中創建您的自定義審批工作流程。",
+      "tagline": "在Slack中管理你的團隊的審批工作流程"
+    }
+  ]
 }
