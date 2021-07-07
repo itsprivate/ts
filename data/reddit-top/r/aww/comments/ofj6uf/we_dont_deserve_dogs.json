@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私たちには犬は似合わない"
+    },
+    {
+      "locale": "zh",
+      "title": "我们不配做狗"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們不配做狗"
+    }
+  ]
 }
