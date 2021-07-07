@@ -42,5 +42,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "タイタニック号の最後の写真"
+    },
+    {
+      "locale": "zh",
+      "title": "泰坦尼克号的最后一张照片"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "泰坦尼克號的最後一張照片"
+    }
+  ]
 }
