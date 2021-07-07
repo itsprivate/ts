@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Visaは50社以上の暗号会社と提携し、世界中の7,000万の加盟店の顧客がデジタル資産を変換して使用できるようにします。"
+    },
+    {
+      "locale": "zh",
+      "title": "Visa正与50多家加密货币公司合作，允许全球7000万商家的客户转换和消费数字资产。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Visa正與50多家加密貨幣公司合作，允許全球7000萬商家的客戶轉換和消費數字資產。"
+    }
+  ]
 }
