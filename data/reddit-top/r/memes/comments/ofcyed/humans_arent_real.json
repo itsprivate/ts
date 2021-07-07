@@ -65,5 +65,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "人間は実在しない。"
+    },
+    {
+      "locale": "zh",
+      "title": "人类并不真实。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "人類並不真實。"
+    }
+  ]
 }
