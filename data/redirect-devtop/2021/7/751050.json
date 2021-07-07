@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-06T07:50:33Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--aV6qUDAm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uce69mpse4advw4v4gf2.png",
   "author": "Bruno Henrique Gusmão Vasconcelos",
-  "author_url": "https://dev.to/brunohgv"
+  "author_url": "https://dev.to/brunohgv",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "様々な理由から、APIコールを制限する必要があるかもしれません。それは、クラウドでの余分なコストを避けるためであったり、...",
+      "title": "express-rate-limitでNode.jsのAPIコールを制限する"
+    },
+    {
+      "locale": "zh",
+      "description": "由于许多原因，你可能需要限制你的API调用。这可能是为了避免在云端的额外成本，也可能是为了避免在云端的额外成本。",
+      "title": "用express-rate-limit限制Node.js的API调用"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "由於許多原因，你可能需要限制你的API調用。這可能是爲了避免在雲端的額外成本，也可能是爲了避免在雲端的額外成本。",
+      "title": "用express-rate-limit限制Node.js的API調用"
+    }
+  ]
 }
