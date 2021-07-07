@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-30T23:39:13Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WP3IQWDx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pfofv47dooojerkmfgr4.png",
   "author": "Nader Dabit",
-  "author_url": "https://dev.to/dabit3"
+  "author_url": "https://dev.to/dabit3",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Next.js、Tailwind、Solidity、Polygonによるデジタルマーケットプレイスの構築",
+      "title": "ポリゴンによるイーサリアム上でのスケーラブルなフルスタックアプリケーションの構築"
+    },
+    {
+      "locale": "zh",
+      "description": "用Next.js、Tailwind、Solidity和Polygon建立一个数字市场",
+      "title": "与Polygon一起在以太坊上构建可扩展的全栈应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "用Next.js、Tailwind、Solidity和Polygon建立一個數字市場",
+      "title": "與Polygon一起在以太坊上構建可擴展的全棧應用程序"
+    }
+  ]
 }
