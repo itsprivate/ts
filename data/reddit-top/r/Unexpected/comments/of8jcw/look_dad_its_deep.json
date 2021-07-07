@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "look dad its deep"
+    },
+    {
+      "locale": "zh",
+      "title": "看，爸爸，它很深"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "看，爸爸，它很深"
+    }
+  ]
 }
