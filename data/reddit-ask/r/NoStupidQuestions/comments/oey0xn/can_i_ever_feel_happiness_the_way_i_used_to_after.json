@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "I'm 17. Am I screwed?"
+  "the_new_excerpt": "I'm 17. Am I screwed?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私は17歳です。私はダメになったのでしょうか？",
+      "title": "クリスタルメスをやめても、以前のように幸せを感じることはできないのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我17岁了。我是不是完蛋了？",
+      "title": "戒掉冰毒后，我还能像以前那样感受到幸福吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我17歲了。我是不是完蛋了？",
+      "title": "戒掉冰毒後，我還能像以前那樣感受到幸福嗎？"
+    }
+  ]
 }
