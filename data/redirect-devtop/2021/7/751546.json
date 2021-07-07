@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-06T15:15:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rz6ZsTiE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3j9o6d5fx9jijhov54wu.png",
   "author": "Temani Afif",
-  "author_url": "https://dev.to/afif"
+  "author_url": "https://dev.to/afif",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近では、多くの人々が星評価システムを提供しようと努力しています。さて、そろそろTHE...",
+      "title": "ONE starレーティングシステム - レーティングの未来"
+    },
+    {
+      "locale": "zh",
+      "description": "最近，很多人都在尽力提供星级评定系统。现在，是时候把THE...",
+      "title": "一颗星评级系统--评级的未来"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "最近，很多人都在盡力提供星級評定系統。現在，是時候把THE...",
+      "title": "一顆星評級系統--評級的未來"
+    }
+  ]
 }
