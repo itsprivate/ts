@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-06T13:23:32Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9UROjt_A--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8xnan8bgc1l29k1gig58.jpg",
   "author": "Valentine Solonechnyi",
-  "author_url": "https://dev.to/vlntsolo"
+  "author_url": "https://dev.to/vlntsolo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このガイドでは、Django プロジェクトの CI-CD ワークフローを Amazon... で設定するために必要なすべての手順を説明します。",
+      "title": "DjangoのフルCI-CDフローをGitHub ActionsとS3でAWSへ"
+    },
+    {
+      "locale": "zh",
+      "description": "本指南涵盖了为Django项目建立CI-CD工作流所需的所有步骤，并附有Amazon...",
+      "title": "使用GitHub Actions和S3的Django完整CI-CD流程到AWS"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "本指南涵蓋了爲Django項目建立CI-CD工作流所需的所有步驟，並附有Amazon...",
+      "title": "使用GitHub Actions和S3的Django完整CI-CD流程到AWS"
+    }
+  ]
 }
