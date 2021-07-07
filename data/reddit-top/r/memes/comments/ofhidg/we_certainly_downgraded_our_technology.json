@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "確かに技術力は格段に落ちました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我们当然降低了我们的技术等级"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們當然降低了我們的技術等級"
+    }
+  ]
 }
