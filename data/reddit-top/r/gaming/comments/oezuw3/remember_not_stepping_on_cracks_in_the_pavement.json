@@ -106,5 +106,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "舗装のひび割れを踏まないことを覚えていますか？この1年、私はこのことをゲームにしてきました。"
+    },
+    {
+      "locale": "zh",
+      "title": "还记得不要踩到人行道上的裂缝吗？在过去的一年里，我一直在做一个关于这个的游戏!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "還記得不要踩到人行道上的裂縫嗎？在過去的一年裏，我一直在做一個關於這個的遊戲!"
+    }
+  ]
 }
