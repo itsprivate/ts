@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "標準外のアーキテクチャ・ソリューション。キュービックウィンドウは、パラレルワールドへの通路のようなものです。"
+    },
+    {
+      "locale": "zh",
+      "title": "一个非标准的架构解决方案。一个立方体的窗户就像一个通往平行世界的通道。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個非標準的架構解決方案。一個立方體的窗戶就像一個通往平行世界的通道。"
+    }
+  ]
 }

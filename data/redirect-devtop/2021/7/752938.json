@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-07T22:11:13Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xIjaJfbR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://bholmes.dev/assets/blog/spas-clientside-routing/thumbnail.png",
   "author": "Ben Holmes",
-  "author_url": "https://dev.to/bholmesdev"
+  "author_url": "https://dev.to/bholmesdev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "シングルページアプリとは何か、どのように機能するのか、サーバーサイドルーティングとはどこが違うのか、明確にしておきましょう。",
+      "title": "シングルページアプリとクライアントサイドルーティングの理解"
+    },
+    {
+      "locale": "zh",
+      "description": "让我们弄清楚什么是单页应用程序，它们如何工作，以及它们与服务器端路由的不同之处。",
+      "title": "了解单页应用程序和客户端路由"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "讓我們弄清楚什麼是單頁應用程序，它們如何工作，以及它們與服務器端路由的不同之處。",
+      "title": "瞭解單頁應用程序和客戶端路由"
+    }
+  ]
 }
