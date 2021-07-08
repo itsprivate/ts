@@ -43,5 +43,22 @@
   "original_created_at": "2021-07-07T10:17:47Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qIYWrik5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s0i9fihpvbpncpy03b54.jpg",
   "author": "Domagoj Vidovic",
-  "author_url": "https://dev.to/domagojvidovic"
+  "author_url": "https://dev.to/domagojvidovic",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "フロントエンドの世界を学び始めると、すぐに「...」という言葉に出くわします。",
+      "title": "なぜバーチャルDOMは速いのか？"
+    },
+    {
+      "locale": "zh",
+      "description": "当你开始了解前端世界时，你几乎会立即偶然发现这个术语...",
+      "title": "为什么虚拟DOM这么快？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當你開始瞭解前端世界時，你幾乎會立即偶然發現這個術語...",
+      "title": "爲什麼虛擬DOM這麼快？"
+    }
+  ]
 }

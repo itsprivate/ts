@@ -93,5 +93,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-08T07:36:19Z"
+  "original_createdAt": "2021-07-08T07:36:19Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "AWSは難しい。Diggerは、あなたのコードのためのインフラを自動的に生成することで、それを簡単にします。ワンクリックでコンテナ、ウェブアプリ、関数をデプロイできます。Herokuよりも簡単で、2～10倍安くなります。フードの下にあるTerraformでカスタマイズできます。AWSの無料クレジットをご利用ください。",
+      "tagline": "AWSを学ばずにAWS上で構築する、ノーコードのDevOps"
+    },
+    {
+      "locale": "zh",
+      "description": "AWS是很难的。Digger通过为你的代码自动生成基础设施使其变得简单。一键部署容器、webapp和函数。比Heroku更容易，价格便宜2-10倍。用Terraform在引擎盖下进行定制。使用你的AWS免费积分!",
+      "tagline": "无需学习就能在AWS上构建，无代码的DevOps"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "AWS是很難的。Digger通過爲你的代碼自動生成基礎設施使其變得簡單。一鍵部署容器、webapp和函數。比Heroku更容易，價格便宜2-10倍。用Terraform在引擎蓋下進行定製。使用你的AWS免費積分!",
+      "tagline": "無需學習就能在AWS上構建，無代碼的DevOps"
+    }
+  ]
 }

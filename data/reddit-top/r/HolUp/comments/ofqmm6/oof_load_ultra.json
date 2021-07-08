@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Oof load。ウルトラ"
+    },
+    {
+      "locale": "zh",
+      "title": "Oof负载。超级"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Oof負載。超級"
+    }
+  ]
 }
