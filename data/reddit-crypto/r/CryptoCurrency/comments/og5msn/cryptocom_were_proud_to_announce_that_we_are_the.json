@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Crypto.com - \"私たちは、マルタ金融サービス機構（MFSA）から電子マネー機関（EMI）ライセンスを取得した最初のグローバル暗号通貨プラットフォームであることを発表できることを誇りに思います。\""
+    },
+    {
+      "locale": "zh",
+      "title": "Crypto.com - \"我们很自豪地宣布，我们是第一个从马耳他金融服务管理局（MFSA）获得电子货币机构（EMI）许可证的全球加密货币平台。\""
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Crypto.com - \"我們很自豪地宣佈，我們是第一個從馬耳他金融服務管理局（MFSA）獲得電子貨幣機構（EMI）許可證的全球加密貨幣平臺。\""
+    }
+  ]
 }
