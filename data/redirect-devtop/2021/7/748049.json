@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-04T21:59:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jo7Im9a7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/anoz6utfl7iwpxkzjv9t.png",
   "author": "Michael Liendo",
-  "author_url": "https://dev.to/mtliendo"
+  "author_url": "https://dev.to/mtliendo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "アプリケーションを構築する際、電子メールの送信は頻繁に必要とされる機能です。加えて、それは...",
+      "title": "AWS Amplifyを使ったサーバーレスコンタクトフォーム"
+    },
+    {
+      "locale": "zh",
+      "description": "在构建应用程序时，发送电子邮件是一个经常需要的功能。此外，它也是...",
+      "title": "使用AWS Amplify的无服务器联系表"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在構建應用程序時，發送電子郵件是一個經常需要的功能。此外，它也是...",
+      "title": "使用AWS Amplify的無服務器聯繫表"
+    }
+  ]
 }

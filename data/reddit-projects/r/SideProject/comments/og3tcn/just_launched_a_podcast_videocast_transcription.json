@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ポッドキャスト（およびビデオキャスト）のトランスクリプションツールを発売しました。しかも、無料です。"
+    },
+    {
+      "locale": "zh",
+      "title": "刚刚推出了一个播客（和视频广播）转录工具。而且它是免费的!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "剛剛推出了一個播客（和視頻廣播）轉錄工具。而且它是免費的!"
+    }
+  ]
 }
