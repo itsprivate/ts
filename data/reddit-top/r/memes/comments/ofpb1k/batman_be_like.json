@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "バットマンのように"
+    },
+    {
+      "locale": "zh",
+      "title": "蝙蝠侠是这样的"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "蝙蝠俠是這樣的"
+    }
+  ]
 }
