@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "SOUND ON! こんなにヨーデルを聞いたことがない...。"
+    },
+    {
+      "locale": "zh",
+      "title": "声音响起! 我的天啊，我从来没有听过这样的约德尔舞......"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "聲音響起! 我的天啊，我從來沒有聽過這樣的約德爾舞......"
+    }
+  ]
 }
