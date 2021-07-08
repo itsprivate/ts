@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "すべてのボックスの外側"
+    },
+    {
+      "locale": "zh",
+      "title": "在每个盒子外面"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在每個盒子外面"
+    }
+  ]
 }
