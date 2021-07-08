@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-05T17:18:09Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--iD7njjNa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2xhwq0c5pwrhxib68k3s.png",
   "author": "Sebastien Filion",
-  "author_url": "https://dev.to/sebastienfilion"
+  "author_url": "https://dev.to/sebastienfilion",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あら、お久しぶりです。 この \"Build the System \"の2つ目の記事にたどり着いてくれて嬉しいよ。HTTPサーバー」...",
+      "title": "ゼロからのHTTPサーバー構築 リクエストとレスポンスの理解"
+    },
+    {
+      "locale": "zh",
+      "description": "哦，你好！我很高兴你能看到 \"建立系统：建立系统 \"的第二篇文章。 我很高兴你能看到这个 \"建立系统 \"的第二篇文章。HTTP服务器 \"的第二篇文章...",
+      "title": "从头开始建立一个HTTP服务器。了解请求和响应"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "哦，你好！我很高興你能看到 \"建立系統：建立系統 \"的第二篇文章。 我很高興你能看到這個 \"建立系統 \"的第二篇文章。HTTP服務器 \"的第二篇文章...",
+      "title": "從頭開始建立一個HTTP服務器。瞭解請求和響應"
+    }
+  ]
 }
