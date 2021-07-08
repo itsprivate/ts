@@ -50,5 +50,22 @@
   "original_created_at": "2021-07-07T19:09:26Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VIJOPrl3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zi7uivasslu9kqaxvmfj.jpg",
   "author": "Redžep Murati",
-  "author_url": "https://dev.to/rmurati"
+  "author_url": "https://dev.to/rmurati",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "プロの開発者として、常に最新の技術動向を把握する必要があります。....",
+      "title": "React.jsにおける条件レンダリングの簡素化\n"
+    },
+    {
+      "locale": "zh",
+      "description": "作为一个专业的开发人员，你不得不跟上技术的最新趋势....。",
+      "title": "简化React.js中的条件渲染\n"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "作爲一個專業的開發人員，你不得不跟上技術的最新趨勢....。",
+      "title": "簡化React.js中的條件渲染\n"
+    }
+  ]
 }
