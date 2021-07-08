@@ -52,5 +52,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "I coded and open-sourced a crypto trading algorithm that places trades on\nBinance based on Reddit post sentiment on relevant cryptocurrency subreddits.\n\nDespite my rational mind telling me it's not the best decision to just let this\nrun on a live account, I decided to bite the bullet and let the…"
+  "the_new_excerpt": "I coded and open-sourced a crypto trading algorithm that places trades on\nBinance based on Reddit post sentiment on relevant cryptocurrency subreddits.\n\nDespite my rational mind telling me it's not the best decision to just let this\nrun on a live account, I decided to bite the bullet and let the…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "に取引を行う暗号取引アルゴリズムをコード化し、オープンソース化しました。\nBinanceで取引を行うアルゴリズムをコード化してオープンソース化しましたが、これは関連する暗号通貨サブレディットのRedditポストのセンチメントに基づいています。\n\n理性的な考えでは、このアルゴリズムをただ放置するのは最善の選択ではないと思っています。\nライブアカウントで実行させるのは最善の決断ではないと理性的に考えていましたが、私は弾丸を噛み砕いて、このアルゴリズムを実行させることにしました。",
+      "title": "Redditのハイブマインドに自分のポートフォリオをコントロールさせてしまった - Redditの暗号センチメントを分析するアルゴリズムを使って暗号通貨を買った最初の週"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我编码并开源了一个加密货币交易算法，该算法根据相关加密货币分论坛上的Reddit帖子的情绪在Binance上进行交易。\nBinance上的交易，该算法基于相关加密货币子版块的Reddit帖子情绪。\n\n尽管我的理性思维告诉我，让它在真实账户上运行并不是最好的决定。\n在一个真实账户上运行，但我还是决定咬紧牙关，让...",
+      "title": "我已经让Reddit蜂群控制了我的投资组合--使用分析Reddit加密货币情绪的算法购买加密货币的第一个星期"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我編碼並開源了一個加密貨幣交易算法，該算法根據相關加密貨幣分論壇上的Reddit帖子的情緒在Binance上進行交易。\nBinance上的交易，該算法基於相關加密貨幣子版塊的Reddit帖子情緒。\n\n儘管我的理性思維告訴我，讓它在真實賬戶上運行並不是最好的決定。\n在一個真實賬戶上運行，但我還是決定咬緊牙關，讓...",
+      "title": "我已經讓Reddit蜂羣控制了我的投資組合--使用分析Reddit加密貨幣情緒的算法購買加密貨幣的第一個星期"
+    }
+  ]
 }
