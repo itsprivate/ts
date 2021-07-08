@@ -43,5 +43,22 @@
   "original_created_at": "2021-07-06T05:11:03Z",
   "image": "https://dev.to/social_previews/article/750128.png",
   "author": "Arsenii Gorushkin",
-  "author_url": "https://dev.to/agorushkin"
+  "author_url": "https://dev.to/agorushkin",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは。  今日は、Web...を使って、ターミナルでちょっとしたチャットをする方法をご紹介します。",
+      "title": "NodeJSでターミナル内チャット"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好!   今天，我将向大家展示如何在终端中使用Web.com进行小规模聊天。",
+      "title": "用NodeJS在终端内聊天"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好!   今天，我將向大家展示如何在終端中使用Web.com進行小規模聊天。",
+      "title": "用NodeJS在終端內聊天"
+    }
+  ]
 }

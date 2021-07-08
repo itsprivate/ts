@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-08T07:01:20Z"
+  "original_createdAt": "2021-07-08T07:01:20Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "SideItは、あなたの生活をより快適にするために作られたオンラインツールです。画像を合成するために、PhotoshopやCanvasのような巨大なアプリケーションを開く必要はありません。たった3つのステップで、オンラインで、しかも無料でできるのです。",
+      "tagline": "サイド・バイ・サイド・イメージを簡単に生成"
+    },
+    {
+      "locale": "zh",
+      "description": "SideIt是一个为使你的生活更轻松而制作的在线工具。你不需要为了合并图片而打开像Photoshop或Canvas这样庞大的应用程序。你只需3个步骤就可以做到，而且是在线的，免费的。",
+      "tagline": "轻松地生成并排的图像"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "SideIt是一個爲使你的生活更輕鬆而製作的在線工具。你不需要爲了合併圖片而打開像Photoshop或Canvas這樣龐大的應用程序。你只需3個步驟就可以做到，而且是在線的，免費的。",
+      "tagline": "輕鬆地生成並排的圖像"
+    }
+  ]
 }

@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが好きな映画で、多くの人に不評だったり、知られていないものはありますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "有什么你喜欢的电影是不受欢迎的或不为大多数人所知的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有什麼你喜歡的電影是不受歡迎的或不爲大多數人所知的？"
+    }
+  ]
 }
