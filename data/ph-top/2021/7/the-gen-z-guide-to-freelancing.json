@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-08T07:00:00Z"
+  "original_createdAt": "2021-07-08T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "クリエーターによる、クリエーターのための、フリーランス・ビジネス開始と向上のためのガイドです。制作：Continuum.works",
+      "tagline": "フリーランスのビジネスを始め、高めるためのガイド"
+    },
+    {
+      "locale": "zh",
+      "description": "由创意者提供，为创意者提供的自由职业者业务启动和提升指南。由Continuum.works创建",
+      "tagline": "启动和提升自由职业者业务的指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "由創意者提供，爲創意者提供的自由職業者業務啓動和提升指南。由Continuum.works創建",
+      "tagline": "啓動和提升自由職業者業務的指南"
+    }
+  ]
 }
