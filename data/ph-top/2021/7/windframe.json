@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-08T08:51:06Z"
+  "original_createdAt": "2021-07-08T08:51:06Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コード不要のドラッグ＆ドロップビルダーを使って、TailwindCSSウェブサイトを記録的な速さで作成します。Windframeは、計り知れないカスタマイズオプションを持つドラッグ＆ドロップインターフェイスを使ってTailwindCSSウェブサイトを構築し、デザインをプレビューし、コードをエクスポートする機能を提供します。",
+      "tagline": "コードなし TailwindCSSページビルダー"
+    },
+    {
+      "locale": "zh",
+      "description": "在创纪录的时间内使用无代码拖放构建器创建TailwindCSS网站。Windframe使您能够使用一个具有不可估量的定制选项的拖放界面来建立TailwindCSS网站，预览您的设计并导出代码。",
+      "tagline": "无代码TailwindCSS页面生成器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在創紀錄的時間內使用無代碼拖放構建器創建TailwindCSS網站。Windframe使您能夠使用一個具有不可估量的定製選項的拖放界面來建立TailwindCSS網站，預覽您的設計並導出代碼。",
+      "tagline": "無代碼TailwindCSS頁面生成器"
+    }
+  ]
 }
