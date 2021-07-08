@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ニュース記事によると、インフレのアップサイドは賃金の上昇だそうです。私たちは本当に馬鹿だと思っている"
+    },
+    {
+      "locale": "zh",
+      "title": "新闻文章说，通货膨胀的上风是工资上涨。他们真的认为我们都是傻子"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "新聞文章說，通貨膨脹的上風是工資上漲。他們真的認爲我們都是傻子"
+    }
+  ]
 }
