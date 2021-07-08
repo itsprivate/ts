@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Moons distribution sheet was just posted with a karma ratio of .304 moons/karma.\nIf you're on mobile and can't view the CSV sheet, I'll help you out by searching\nfor your name and calculating the moons earned for you! :)"
+  "the_new_excerpt": "Moons distribution sheet was just posted with a karma ratio of .304 moons/karma.\nIf you're on mobile and can't view the CSV sheet, I'll help you out by searching\nfor your name and calculating the moons earned for you! :)",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ムーン分布シートは、カルマ比が0.304ムーン/カルマと掲載されたばかりです。\nモバイルでCSVシートが見られない方は、私が検索して\nあなたの名前を検索して、あなたのために獲得した月数を計算します。:)",
+      "title": "携帯電話をお使いの方は、下記のコメント欄にご記入ください。今月は何個の月がもらえるかをお伝えします。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "月亮分布表刚刚发布，业力比率为0.304个月亮/业力。\n如果你在手机上，无法查看CSV表，我可以通过搜索你的名字来帮助你。\n你的名字，并为你计算所赚取的月球! :)",
+      "title": "手机用户，请在下面评论，我会告诉你这个月你会得到多少个月亮"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "月亮分佈表剛剛發佈，業力比率爲0.304個月亮/業力。\n如果你在手機上，無法查看CSV表，我可以通過搜索你的名字來幫助你。\n你的名字，併爲你計算所賺取的月球! :)",
+      "title": "手機用戶，請在下面評論，我會告訴你這個月你會得到多少個月亮"
+    }
+  ]
 }
