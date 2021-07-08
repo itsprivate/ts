@@ -47,5 +47,19 @@
     "type": "twitter.com"
   },
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "中央銀行はFedCoinを使ってすべてのお金を監視・管理するつもりです。"
+    },
+    {
+      "locale": "zh",
+      "title": "中央银行打算使用美联储硬币来监测和控制所有货币"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "中央銀行打算使用美聯儲硬幣來監測和控制所有貨幣"
+    }
+  ]
 }
