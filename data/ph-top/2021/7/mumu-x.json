@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-08T07:01:00Z"
+  "original_createdAt": "2021-07-08T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Mumuは、同義語を使ってより早く絵文字を見つけることができるので、検索時に絵文字の名前を覚える必要がありません。",
+      "tagline": "GPT-3を搭載した、macOSで最も便利な絵文字ピッカー"
+    },
+    {
+      "locale": "zh",
+      "description": "Mumu通过同义词更快地找到你的表情符号，所以你在搜索时不必记住表情符号的名称。",
+      "tagline": "macOS上最方便的表情符号挑选器，现在有了GPT-3"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Mumu通過同義詞更快地找到你的表情符號，所以你在搜索時不必記住表情符號的名稱。",
+      "tagline": "macOS上最方便的表情符號挑選器，現在有了GPT-3"
+    }
+  ]
 }
