@@ -102,5 +102,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1625811079,
-  "the_new_excerpt": "It just works."
+  "the_new_excerpt": "It just works.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ただ、それだけです。",
+      "title": "金融・投資に関する難しい質問がありますか？Difficult question X bogleheads」とグーグルで検索してみてください。bogleheadsという単語を入れて、フォーラム（あるいはこのsubreddit）へのリンクをクリックすると、あなたの難しい質問がすでに質問され、13ページに及ぶ詳細な回答がなされていることがわかります。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "它只是工作。",
+      "title": "有一个困难的金融/投资问题？试试在谷歌上搜索 \"疑难问题X bogleheads\"。只要把 \"bogleheads \"这个词放在那里，点击论坛的链接（或者有时是这个子版块），就会发现你的难题已经被问过了，并且有13页的详细解答。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "它只是工作。",
+      "title": "有一個困難的金融/投資問題？試試在谷歌上搜索 \"疑難問題X bogleheads\"。只要把 \"bogleheads \"這個詞放在那裏，點擊論壇的鏈接（或者有時是這個子版塊），就會發現你的難題已經被問過了，並且有13頁的詳細解答。"
+    }
+  ]
 }
