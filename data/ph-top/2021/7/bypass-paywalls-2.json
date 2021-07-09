@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-09T13:00:30Z"
+  "original_createdAt": "2021-07-09T13:00:30Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Githubで無料公開されているシンプルなブラウザ拡張機能で、ウェブ上の煩わしいペイウォールを回避することができます。",
+      "tagline": "コンテンツのロックを解除するクロームの拡張機能"
+    },
+    {
+      "locale": "zh",
+      "description": "通过Github上免费提供的一个简单的浏览器扩展，绕过全网恼人的付费墙。",
+      "tagline": "一个可以解锁内容的铬合金扩展"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "通過Github上免費提供的一個簡單的瀏覽器擴展，繞過全網惱人的付費牆。",
+      "tagline": "一個可以解鎖內容的鉻合金擴展"
+    }
+  ]
 }

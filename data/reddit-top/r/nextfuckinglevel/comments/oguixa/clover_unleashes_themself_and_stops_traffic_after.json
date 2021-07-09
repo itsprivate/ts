@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"Clover \"は、飼い主が発作を起こした後、自分を解き放ち、交通を止めます"
+    },
+    {
+      "locale": "zh",
+      "title": "\"四叶草 \"在主人癫痫发作后释放了自己并阻止了交通!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"四葉草 \"在主人癲癇發作後釋放了自己並阻止了交通!"
+    }
+  ]
 }
