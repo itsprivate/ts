@@ -50,5 +50,22 @@
   "original_created_at": "2021-07-08T21:15:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--32J76c3k--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rydzkkagutpdqpbain2c.jpg",
   "author": "InHuOfficial",
-  "author_url": "https://dev.to/inhuofficial"
+  "author_url": "https://dev.to/inhuofficial",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最初は、便利で使いやすい星の評価システムを作ろうという無邪気な投稿でした。",
+      "title": "星の評価システム - たった168BYTES😲、JSもCSSも画像もない😨、アクセシブル（のようなもの）...戦争は終わった。"
+    },
+    {
+      "locale": "zh",
+      "description": "一开始只是一个关于创建一个无障碍的星级评价系统的纯洁帖子，这个系统是有用的，而且是一个很好的工具。",
+      "title": "星级评分系统--只有168个字节😲，没有JS，没有CSS，没有图片😨，可访问（有点）......战争结束了"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一開始只是一個關於創建一個無障礙的星級評價系統的純潔帖子，這個系統是有用的，而且是一個很好的工具。",
+      "title": "星級評分系統--只有168個字節😲，沒有JS，沒有CSS，沒有圖片😨，可訪問（有點）......戰爭結束了"
+    }
+  ]
 }
