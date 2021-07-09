@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-08T14:07:07Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--q4OdDNvs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uax4bl72vzcpn3ddg1ei.png",
   "author": "Koen Bok",
-  "author_url": "https://dev.to/koen"
+  "author_url": "https://dev.to/koen",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コードとキャンバスは相性がいい。コードを使えば、どんな複雑なアイデアでも、ロジックや...",
+      "title": "Code-on-Canvas 開発とデザインを同時に行うことができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "代码加帆布是天作之合。代码可以让你表达任何复杂的想法，使用逻辑、...",
+      "title": "画布上的代码。同时进行开发和设计。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "代碼加帆布是天作之合。代碼可以讓你表達任何複雜的想法，使用邏輯、...",
+      "title": "畫布上的代碼。同時進行開發和設計。"
+    }
+  ]
 }
