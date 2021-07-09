@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-06T20:24:33Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--K3WQiTAw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aiuf2qi1krzxegbxiua0.png",
   "author": "Michael Liendo",
-  "author_url": "https://dev.to/mtliendo"
+  "author_url": "https://dev.to/mtliendo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "本連載の第1回では、お問い合わせフォームを作成してメールを送信する方法を学びました。今回は...",
+      "title": "AWS Amplifyを利用したレジュメアップローダーの作成"
+    },
+    {
+      "locale": "zh",
+      "description": "在本系列的第一部分，我们学习了如何通过创建一个联系表来发送电子邮件。在这一部分中，我们学习了如何通过创建联系表格来发送电子邮件。",
+      "title": "使用AWS Amplify创建一个简历上传器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在本系列的第一部分，我們學習瞭如何通過創建一個聯繫表來發送電子郵件。在這一部分中，我們學習瞭如何通過創建聯繫表格來發送電子郵件。",
+      "title": "使用AWS Amplify創建一個簡歷上傳器"
+    }
+  ]
 }
