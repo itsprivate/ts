@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "バンク・オブ・アメリカは暗号に対して不安を煽ってきたが、内部メモによると実際には強気であるとのこと。"
+    },
+    {
+      "locale": "zh",
+      "title": "美国银行公开散布对加密货币的疑虑，但内部备忘录称他们实际上看涨加密货币"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "美國銀行公開散佈對加密貨幣的疑慮，但內部備忘錄稱他們實際上看漲加密貨幣"
+    }
+  ]
 }
