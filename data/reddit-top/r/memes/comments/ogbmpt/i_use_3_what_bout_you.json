@@ -42,5 +42,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私は3を使っていますが、あなたはどうですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "我使用3个，你呢？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我使用3個，你呢？"
+    }
+  ]
 }
