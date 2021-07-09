@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-09T07:04:51Z"
+  "original_createdAt": "2021-07-09T07:04:51Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Glassmorphismのデザイン仕様に基づいた無料のCSSジェネレータをご利用ください。",
+      "tagline": "グラスモーフィズムのためのCSSジェネレータ"
+    },
+    {
+      "locale": "zh",
+      "description": "开始使用这个基于glassmorphism设计规范的免费CSS生成器吧。",
+      "tagline": "用于玻璃形态的CSS生成器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "開始使用這個基於glassmorphism設計規範的免費CSS生成器吧。",
+      "tagline": "用於玻璃形態的CSS生成器"
+    }
+  ]
 }

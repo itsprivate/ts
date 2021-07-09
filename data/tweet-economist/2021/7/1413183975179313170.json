@@ -74,5 +74,22 @@
     "retweet_count": 76,
     "favorite_count": 175,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @michaelreid52: ペルーでは、選挙結果をめぐる衝突が続いています。私のコラムです。\nhttps://t.co/prMrSpAgCs",
+      "retweeted_status_full_text": "ペルーでは選挙結果をめぐる衝突が続いている。私のコラムです。\nhttps://t.co/prMrSpAgCs"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @michaelreid52: 秘鲁因选举结果而发生的冲突仍在继续。我的专栏。\nhttps://t.co/prMrSpAgCs",
+      "retweeted_status_full_text": "秘鲁因选举结果而发生的冲突仍在继续。我的专栏。\nhttps://t.co/prMrSpAgCs"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @michaelreid52: 祕魯因選舉結果而發生的衝突仍在繼續。我的專欄。\nhttps://t.co/prMrSpAgCs",
+      "retweeted_status_full_text": "祕魯因選舉結果而發生的衝突仍在繼續。我的專欄。\nhttps://t.co/prMrSpAgCs"
+    }
+  ]
 }
