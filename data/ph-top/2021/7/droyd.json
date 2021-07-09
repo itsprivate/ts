@@ -93,5 +93,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-09T07:01:00Z"
+  "original_createdAt": "2021-07-09T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "⚙️ https://droyd.io/product-hunt にレポートを任せましょう。Slackでメトリクス＆ゴールを追う。🙌 お使いのアプリ（CRM、Billing、Warehouse...）を数分で接続し、主要な指標や目標を同期してレポートを作成します。✅ Slackやメールへの自動更新をスケジューリングし、チームで進捗を確認できます。",
+      "tagline": "SlackでKPIの更新をスケジューリング"
+    },
+    {
+      "locale": "zh",
+      "description": "⚙️让https://droyd.io/product-hunt 运行你的报告。在Slack中关注指标和目标。🙌在几分钟内连接你的应用程序（CRM、账单、仓库...），同步你的关键指标或目标并建立报告。✅安排自动更新到Slack或电子邮件，并作为一个团队关注进展情况!",
+      "tagline": "在Slack中安排KPI更新"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "⚙️讓https://droyd.io/product-hunt 運行你的報告。在Slack中關注指標和目標。🙌在幾分鐘內連接你的應用程序（CRM、賬單、倉庫...），同步你的關鍵指標或目標並建立報告。✅安排自動更新到Slack或電子郵件，並作爲一個團隊關注進展情況!",
+      "tagline": "在Slack中安排KPI更新"
+    }
+  ]
 }

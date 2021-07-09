@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-08T06:23:38Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yJuyKhMJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9rex3d9ncucphoelj4a2.png",
   "author": "Samuel FAURE",
-  "author_url": "https://dev.to/samuelfaure"
+  "author_url": "https://dev.to/samuelfaure",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事は私のブログでも公開しています。 私はよく、ある人に説明するという課題に直面します...。",
+      "title": "Technical Debtをキッチンに例えて説明しています。"
+    },
+    {
+      "locale": "zh",
+      "description": "这篇文章也可以在我的博客上找到。 我经常面临的挑战是，如何向一个人解释 \"我是谁\"。",
+      "title": "用一个厨房的比喻来解释技术性债务。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這篇文章也可以在我的博客上找到。 我經常面臨的挑戰是，如何向一個人解釋 \"我是誰\"。",
+      "title": "用一個廚房的比喻來解釋技術性債務。"
+    }
+  ]
 }
