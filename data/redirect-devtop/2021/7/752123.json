@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-07T05:41:21Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5Le1x9-p--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xr4yzzn2rytm8lg1eq99.png",
   "author": "Yogesh Chavan",
-  "author_url": "https://dev.to/myogeshchavan97"
+  "author_url": "https://dev.to/myogeshchavan97",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このチュートリアルでは、キャッシュ目的のデータベースとしてRedisを使用し、データをロードする方法を見てみましょう...",
+      "title": "Netlify関数のデータベースとしてServerless Redisを使用する"
+    },
+    {
+      "locale": "zh",
+      "description": "在本教程中，我们将看到如何将Redis作为数据库用于缓存目的，以加载数据...",
+      "title": "使用无服务器的Redis作为Netlify函数的数据库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在本教程中，我們將看到如何將Redis作爲數據庫用於緩存目的，以加載數據...",
+      "title": "使用無服務器的Redis作爲Netlify函數的數據庫"
+    }
+  ]
 }

@@ -52,5 +52,22 @@
   "original_created_at": "2021-06-30T10:20:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9Gt1fEN_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/84yo496d79bm8vho79jb.png",
   "author": "Benny Neugebauer",
-  "author_url": "https://dev.to/bennycode"
+  "author_url": "https://dev.to/bennycode",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ReactをTypeScriptで使うメリットとして、（関数）のpropsを簡単に入力できることが挙げられます...。",
+      "title": "ReactのプロップをTypeScriptで打ち込む"
+    },
+    {
+      "locale": "zh",
+      "description": "使用React和TypeScript的一个好处是，你可以很容易地输入你的（函数）的道具。",
+      "title": "在TypeScript中为React Props打字"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用React和TypeScript的一個好處是，你可以很容易地輸入你的（函數）的道具。",
+      "title": "在TypeScript中爲React Props打字"
+    }
+  ]
 }
