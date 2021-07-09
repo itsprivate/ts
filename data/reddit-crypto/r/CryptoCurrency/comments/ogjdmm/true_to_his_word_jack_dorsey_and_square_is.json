@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ジャック・ドーシーとSquareは、その言葉通り、ビットコインを「より主流」にすることを目標に、ハードウェアの暗号ウォレットとサービスを構築しています。"
+    },
+    {
+      "locale": "zh",
+      "title": "杰克-多尔西和Square正在建立一个硬件加密货币钱包和服务，目的是使比特币 \"更主流化\"。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "傑克-多爾西和Square正在建立一個硬件加密貨幣錢包和服務，目的是使比特幣 \"更主流化\"。"
+    }
+  ]
 }
