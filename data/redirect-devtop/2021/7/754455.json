@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-09T07:56:34Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s---LOnr6xq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/48lpp1nudqikcftmu06i.png",
   "author": "Pawel",
-  "author_url": "https://dev.to/pb"
+  "author_url": "https://dev.to/pb",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ReactJS、VueJS、Angular、SvelteJSなどのライブラリやフレームワークが登場しました。",
+      "title": "よりよいJavaScript開発者になるための10のGitHubリポジトリ"
+    },
+    {
+      "locale": "zh",
+      "description": "随着ReactJS、VueJS、Angular、SvelteJS等库和框架的引入，这些库和框架也在不断发展。",
+      "title": "10个GitHub存储库让你成为更好的JavaScript开发者"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "隨着ReactJS、VueJS、Angular、SvelteJS等庫和框架的引入，這些庫和框架也在不斷髮展。",
+      "title": "10個GitHub存儲庫讓你成爲更好的JavaScript開發者"
+    }
+  ]
 }
