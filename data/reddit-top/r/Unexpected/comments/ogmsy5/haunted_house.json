@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "お化け屋敷"
+    },
+    {
+      "locale": "zh",
+      "title": "鬼屋"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "鬼屋"
+    }
+  ]
 }
