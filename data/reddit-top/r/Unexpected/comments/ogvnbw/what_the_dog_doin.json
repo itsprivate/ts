@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "What the dog doin?"
+    },
+    {
+      "locale": "zh",
+      "title": "这只狗在做什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這隻狗在做什麼？"
+    }
+  ]
 }
