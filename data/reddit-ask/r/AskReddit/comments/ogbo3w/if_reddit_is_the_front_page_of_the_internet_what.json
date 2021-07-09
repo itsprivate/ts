@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Redditが「インターネットのフロントページ」だとしたら、インターネットのバックページは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果Reddit是 \"互联网的头版\"，那么互联网的尾版是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果Reddit是 \"互聯網的頭版\"，那麼互聯網的尾版是什麼？"
+    }
+  ]
 }
