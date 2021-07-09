@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あと6分しか生きられないとしたら、最後に聴く曲は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你的生命只剩下六分钟，你最后听的歌会是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你的生命只剩下六分鐘，你最後聽的歌會是什麼？"
+    }
+  ]
 }
