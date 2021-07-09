@@ -48,5 +48,22 @@
   "original_created_at": "2021-07-05T14:57:01Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gJVDtsMW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/05fhepybktsv34lisgx6.png",
   "author": "Kaiwalya Koparkar",
-  "author_url": "https://dev.to/kaiwalyakoparkar"
+  "author_url": "https://dev.to/kaiwalyakoparkar",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに みなさん、こんにちは。私は数日前から初めてのDiscordボットを開発しています。",
+      "title": "🤖 JSを使って独自のdiscord botを作成する 🤖"
+    },
+    {
+      "locale": "zh",
+      "description": "简介：大家好，我从几天前就在开发我的第一个discord bot...",
+      "title": "🤖 使用JS创建你自己的discord机器人 🤖"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介：大家好，我從幾天前就在開發我的第一個discord bot...",
+      "title": "🤖 使用JS創建你自己的discord機器人 🤖"
+    }
+  ]
 }
