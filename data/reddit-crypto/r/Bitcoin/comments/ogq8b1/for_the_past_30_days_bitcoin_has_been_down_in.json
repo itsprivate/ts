@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Does anyone else have any more interesting stats to throw our way with regards\nto lightning?"
+  "the_new_excerpt": "Does anyone else have any more interesting stats to throw our way with regards\nto lightning?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "誰か雷に関する面白い統計を持っている人はいませんか？\n雷についての興味深い統計があれば教えてください。",
+      "title": "この30日間、ビットコインは価格が下がっていましたが、ライトニングネットワークは352BTCもの容量を追加しました。これで採用が増えています。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "还有谁有更多有趣的统计资料可以提供给我们吗？\n的问题？",
+      "title": "在过去的30天里，比特币的价格一直在下降，但闪电网络的容量又增加了352个BTC。这正在增加采用。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "還有誰有更多有趣的統計資料可以提供給我們嗎？\n的問題？",
+      "title": "在過去的30天裏，比特幣的價格一直在下降，但閃電網絡的容量又增加了352個BTC。這正在增加採用。"
+    }
+  ]
 }
