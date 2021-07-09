@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これは文字通り、私を泣かせました。"
+    },
+    {
+      "locale": "zh",
+      "title": "这简直是让我哭了，伙计"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這簡直是讓我哭了，夥計"
+    }
+  ]
 }
