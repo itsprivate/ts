@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Line Color 3D Game : Adventure \"というカラーパスゲームを作りました。あなたの意見を聞かせてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个名为 \"线色3D游戏：冒险 \"的彩色路径游戏。请让我知道你对它的看法。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個名爲 \"線色3D遊戲：冒險 \"的彩色路徑遊戲。請讓我知道你對它的看法。"
+    }
+  ]
 }
