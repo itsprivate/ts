@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"プロ \"のCODプレイヤーがGameStopに来店し、誰もがパニックになって自分を認識することを期待していたが、全く誰も気に留めなかった。"
+    },
+    {
+      "locale": "zh",
+      "title": "\"职业 \"COD玩家走进GameStop，希望所有人都能认出他来，但绝对没有人在乎。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"職業 \"COD玩家走進GameStop，希望所有人都能認出他來，但絕對沒有人在乎。"
+    }
+  ]
 }
