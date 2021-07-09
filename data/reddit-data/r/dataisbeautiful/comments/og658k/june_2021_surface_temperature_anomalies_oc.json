@@ -106,5 +106,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "2021年6月の地表面温度平年差[OC]."
+    },
+    {
+      "locale": "zh",
+      "title": "2021年6月地表温度异常值[OC]"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "2021年6月地表溫度異常值[OC]"
+    }
+  ]
 }
