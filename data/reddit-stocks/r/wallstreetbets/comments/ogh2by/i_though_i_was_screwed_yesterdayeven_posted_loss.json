@@ -109,5 +109,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1625780136,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今日の市場が開くまでは、昨日は失敗したと思っていました...（損失を計上したことも）。"
+    },
+    {
+      "locale": "zh",
+      "title": "昨天我还以为自己被坑了......（甚至公布了损失），直到今天开市"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "昨天我還以爲自己被坑了......（甚至公佈了損失），直到今天開市"
+    }
+  ]
 }
