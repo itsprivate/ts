@@ -84,5 +84,22 @@
     "retweet_count": 76,
     "favorite_count": 205,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @MarieSegger あなたはデータビジュアライゼーションが好きですか？@TheEconomistのデータチームが募集しています。データビジュアライゼーションの研修生を2名募集しています： ht...",
+      "retweeted_status_full_text": "データビジュアライゼーションはお好きですか？@TheEconomistのデータチームが採用しています! 2名のデータビジュアライゼーション研修生を募集しています。https://t.co/E8gcscIyTy"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @MarieSegger: 你喜欢数据可视化吗？@TheEconomist的数据团队正在招聘! 我们正在寻找两名数据可视化实习生： ht...",
+      "retweeted_status_full_text": "你喜欢数据可视化吗？@TheEconomist的数据团队正在招聘! 我们正在寻找两名数据可视化的实习生：https://t.co/E8gcscIyTy"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @MarieSegger: 你喜歡數據可視化嗎？@TheEconomist的數據團隊正在招聘! 我們正在尋找兩名數據可視化實習生： ht...",
+      "retweeted_status_full_text": "你喜歡數據可視化嗎？@TheEconomist的數據團隊正在招聘! 我們正在尋找兩名數據可視化的實習生：https://t.co/E8gcscIyTy"
+    }
+  ]
 }
