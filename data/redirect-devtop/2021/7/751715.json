@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-06T19:18:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--V3oih7PG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7j02jtk290sd9hcogqh2.png",
   "author": "_CODE",
-  "author_url": "https://dev.to/underscorecode"
+  "author_url": "https://dev.to/underscorecode",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは。🚀 ここ数日、私は現在入手可能な...について調べています。",
+      "title": "JavaScript バンドル。徹底的に比較してみた👍👎 2021年もWebpackが最高のバンドルラー？📦"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好! 🚀 在过去的几天里，我一直在做一些研究，对目前可...",
+      "title": "捆绑器。深度比较👍👎 2021年，Webpack仍然是最好的捆绑器吗？📦"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好! 🚀 在過去的幾天裏，我一直在做一些研究，對目前可...",
+      "title": "捆綁器。深度比較👍👎 2021年，Webpack仍然是最好的捆綁器嗎？📦"
+    }
+  ]
 }
