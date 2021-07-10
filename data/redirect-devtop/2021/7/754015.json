@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-08T19:04:38Z",
   "image": "https://dev.to/social_previews/article/754015.png",
   "author": "StevenMcGown",
-  "author_url": "https://dev.to/stevenmcgown"
+  "author_url": "https://dev.to/stevenmcgown",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Dockerは、よく耳にするサービスですが、使ったことがない人も多いのではないでしょうか。私は使ったことがありませんが...",
+      "title": "Docker for Dummies"
+    },
+    {
+      "locale": "zh",
+      "description": "Docker是那些你总是听说但可能从未使用过的服务之一。我从未使用过...",
+      "title": "傻瓜式的Docker"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Docker是那些你總是聽說但可能從未使用過的服務之一。我從未使用過...",
+      "title": "傻瓜式的Docker"
+    }
+  ]
 }
