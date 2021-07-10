@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "割れた岩を見つけたが、ほとんど違和感なく組み立てることができた。"
+    },
+    {
+      "locale": "zh",
+      "title": "发现这块裂开的石头，几乎可以无缝地重新组合在一起"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "發現這塊裂開的石頭，幾乎可以無縫地重新組合在一起"
+    }
+  ]
 }
