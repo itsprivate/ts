@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-07T21:06:14Z",
   "image": "https://dev.to/social_previews/article/752874.png",
   "author": "Robson Muniz",
-  "author_url": "https://dev.to/robsonmuniz16"
+  "author_url": "https://dev.to/robsonmuniz16",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "開発者の皆さん、今日のエピソードでは、「CSSレスポンシブカード」をゼロから段階的に作成していきます。",
+      "title": "🎬レスポンシブカードのホバーエフェクト｜Html & CSS✨のページです。"
+    },
+    {
+      "locale": "zh",
+      "description": "在今天的节目中，我们将从头开始，一步一步地创建一个 \"CSS响应式卡片\"。",
+      "title": "🎬响应式卡片悬停效果 | Html & CSS✨"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在今天的節目中，我們將從頭開始，一步一步地創建一個 \"CSS響應式卡片\"。",
+      "title": "🎬響應式卡片懸停效果 | Html & CSS✨"
+    }
+  ]
 }
