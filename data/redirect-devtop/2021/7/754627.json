@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-09T11:19:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RKBwZFfD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://i.imgur.com/FOpUG38.jpeg",
   "author": "Deepu K Sasidharan",
-  "author_url": "https://dev.to/deepu105"
+  "author_url": "https://dev.to/deepu105",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ポリグロットな開発者であれば、他の言語よりも好きな言語があるはずで、私の場合は以下の通りです。",
+      "title": "私が好きなプログラミング言語とその理由"
+    },
+    {
+      "locale": "zh",
+      "description": "作为一个多语言的开发者，会有一些你喜欢的语言而不是其他语言，这里是我的。",
+      "title": "我喜欢的编程语言以及我为什么喜欢它们"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "作爲一個多語言的開發者，會有一些你喜歡的語言而不是其他語言，這裏是我的。",
+      "title": "我喜歡的編程語言以及我爲什麼喜歡它們"
+    }
+  ]
 }
