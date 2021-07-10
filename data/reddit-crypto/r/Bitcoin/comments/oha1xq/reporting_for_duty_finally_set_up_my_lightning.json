@@ -11,5 +11,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Reporting for Duty: ようやくLIGHTNINGノードをセットアップしました。"
+    },
+    {
+      "locale": "zh",
+      "title": "报到：终于设置了我的LIGHTNING节点"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "報到：終於設置了我的LIGHTNING節點"
+    }
+  ]
 }
