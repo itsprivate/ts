@@ -52,5 +52,22 @@
   "original_created_at": "2021-07-09T11:30:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--m1bvpCO4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7q6lnhp8gz5o9gb9uff7.png",
   "author": "Saji Wang",
-  "author_url": "https://dev.to/sewangco"
+  "author_url": "https://dev.to/sewangco",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今週は、コードが金融市場を劇的に変化させたことを紹介しました...。",
+      "title": "Pythonで株式売買ボットを作る方法"
+    },
+    {
+      "locale": "zh",
+      "description": "本周早些时候，我们探讨了代码是如何通过使用金融市场而急剧变化的。",
+      "title": "如何用Python构建一个股票交易机器人"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "本週早些時候，我們探討了代碼是如何通過使用金融市場而急劇變化的。",
+      "title": "如何用Python構建一個股票交易機器人"
+    }
+  ]
 }
