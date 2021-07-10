@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-07T03:10:27Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TYjQuAPY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ctfj1uv4umpr1gtbgajd.png",
   "author": "Maxine Meurer",
-  "author_url": "https://dev.to/mmeurer00"
+  "author_url": "https://dev.to/mmeurer00",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "目次 はじめに Redux Toolkitには何が含まれていますか？RTKクエリー...とは？",
+      "title": "Redux Toolkitとは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "目录简介 Redux Toolkit里面包括什么？RTK查询 什么是...",
+      "title": "什么是Redux工具箱？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "目錄簡介 Redux Toolkit裏面包括什麼？RTK查詢 什麼是...",
+      "title": "什麼是Redux工具箱？"
+    }
+  ]
 }
