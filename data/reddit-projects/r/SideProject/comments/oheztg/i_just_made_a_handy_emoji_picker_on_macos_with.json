@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "GPT-3を使ってmacOSで便利な絵文字ピッカーを作ってみた"
+    },
+    {
+      "locale": "zh",
+      "title": "我刚刚用GPT-3在macOS上做了一个方便的表情符号选择器"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我剛剛用GPT-3在macOS上做了一個方便的表情符號選擇器"
+    }
+  ]
 }
