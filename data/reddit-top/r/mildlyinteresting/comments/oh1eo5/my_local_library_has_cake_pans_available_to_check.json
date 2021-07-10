@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私の地元の図書館では、ケーキ型の貸し出しをしていますよ。"
+    },
+    {
+      "locale": "zh",
+      "title": "我当地的图书馆有蛋糕盘可供借阅!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我當地的圖書館有蛋糕盤可供借閱!"
+    }
+  ]
 }
