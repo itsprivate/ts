@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-10T07:06:15Z"
+  "original_createdAt": "2021-07-10T07:06:15Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "hipCVは、オンラインで履歴書やカバーレターを作成するツールです。",
+      "tagline": "印象的な履歴書を数分で作成"
+    },
+    {
+      "locale": "zh",
+      "description": "hipCV是一个在线简历和求职信制作工具。",
+      "tagline": "在几分钟内创建一份令人印象深刻的简历"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "hipCV是一個在線簡歷和求職信製作工具。",
+      "tagline": "在幾分鐘內創建一份令人印象深刻的簡歷"
+    }
+  ]
 }
