@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-09T07:01:00Z"
+  "original_createdAt": "2021-07-09T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Music Widgetは、macOSでApple Musicを利用するためのリモートアプリです。2005年のMac OS X \"Tiger \"でDashboardとともに導入されたiTunes Widgetをベースにしています。インターフェイスのほとんどがコードで描かれているため、Music WidgetはRetinaディスプレイ上で非常にシャープに見えます。",
+      "tagline": "伝統的なiTunes Widgetの一例"
+    },
+    {
+      "locale": "zh",
+      "description": "音乐小工具是MacOS上苹果音乐的一个远程应用。它是对2005年在Mac OS X 'Tiger'中与Dashboard一起推出的原始iTunes Widget的一种改进。音乐小工具在视网膜显示器上看起来特别清晰，因为它的大部分界面是用代码绘制的。",
+      "tagline": "对经典的iTunes小工具的一种尝试"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "音樂小工具是MacOS上蘋果音樂的一個遠程應用。它是對2005年在Mac OS X 'Tiger'中與Dashboard一起推出的原始iTunes Widget的一種改進。音樂小工具在視網膜顯示器上看起來特別清晰，因爲它的大部分界面是用代碼繪製的。",
+      "tagline": "對經典的iTunes小工具的一種嘗試"
+    }
+  ]
 }
