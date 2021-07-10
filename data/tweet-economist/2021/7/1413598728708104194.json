@@ -74,5 +74,22 @@
     "retweet_count": 76,
     "favorite_count": 324,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @lanegreene: ようやくまとまった説明と、少し広い範囲での考えを書いてみました。\nhttps://t.co/4uLTDxLhir",
+      "retweeted_status_full_text": "ようやくまとまった説明と、少し広い範囲での感想を書きました。\nhttps://t.co/4uLTDxLhir"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @lanegreene: 终于写下了一个更连贯的叙述，以及一些更广泛的想法。\nhttps://t.co/4uLTDxLhir",
+      "retweeted_status_full_text": "终于写下了一个比较连贯的叙述，以及一些比较广泛的想法。\nhttps://t.co/4uLTDxLhir"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @lanegreene: 終於寫下了一個更連貫的敘述，以及一些更廣泛的想法。\nhttps://t.co/4uLTDxLhir",
+      "retweeted_status_full_text": "終於寫下了一個比較連貫的敘述，以及一些比較廣泛的想法。\nhttps://t.co/4uLTDxLhir"
+    }
+  ]
 }
