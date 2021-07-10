@@ -106,5 +106,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] CO2総排出量を一人当たりの排出量でソートした場合"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC] 按人均排放量排序的二氧化碳总排放量"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC] 按人均排放量排序的二氧化碳總排放量"
+    }
+  ]
 }
