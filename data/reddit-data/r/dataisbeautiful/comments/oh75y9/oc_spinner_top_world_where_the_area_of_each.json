@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "OC] 🌎スピナートップワールドでは、各緯度の円盤の面積が、そこに住む人々の数に比例して変更されます。"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC] 🌎Spinner Top世界，每个纬度盘的面积与生活在其中的人口数量成比例地重新调整。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC] 🌎Spinner Top世界，每個緯度盤的面積與生活在其中的人口數量成比例地重新調整。"
+    }
+  ]
 }
