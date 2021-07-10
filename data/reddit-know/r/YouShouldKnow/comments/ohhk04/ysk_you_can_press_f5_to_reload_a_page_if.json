@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Why YSK;\n\nMany websites break, especially ones with shitty videoplayers or something like\nthat. We have all experienced it at one point or another.\n\nWell, page refreshing isn't new, and that's kind of what causes what we are\ntalking about. See, back in the days of 56k modems where you could wait for…"
+  "the_new_excerpt": "Why YSK;\n\nMany websites break, especially ones with shitty videoplayers or something like\nthat. We have all experienced it at one point or another.\n\nWell, page refreshing isn't new, and that's kind of what causes what we are\ntalking about. See, back in the days of 56k modems where you could wait for…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "なぜYSKなのか。\n\n多くのウェブサイトが壊れています。特に、ビデオプレーヤーなどが壊れているものは\nしています。誰もが一度は経験したことがあるでしょう。\n\nページの更新は今に始まったことではありませんし、それが今回の話の原因のようなものです。\nの原因となっています。56kモデムの時代には、ページ更新を待つことができましたが......。",
+      "title": "YSK: 何かが壊れた場合、F5キーを押してページを再読み込みすることができますが、読み込みを速くするためにページデータの多くが保存されており、それが壊れた原因になっている可能性があります。Control+F5を押すと、このデータが消去され、最初から完全なリロードが行われ、多くの問題が解決されます。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么是YSK。\n\n许多网站都坏了，特别是那些有低劣的视频播放机或类似的东西。\n这样的网站。我们都或多或少地经历过这种情况。\n\n好吧，页面刷新并不新鲜，这也是导致我们所说的\n所说的原因。看，在56K调制解调器的时代，你可以等待...",
+      "title": "YSK: 如果有什么问题，你可以按F5重新加载一个页面，但很多页面数据被保存起来以加快加载速度，这可能就是问题所在。Control+F5可以清除这些数据，并从头开始进行全面的重新加载，从而解决许多问题。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼是YSK。\n\n許多網站都壞了，特別是那些有低劣的視頻播放機或類似的東西。\n這樣的網站。我們都或多或少地經歷過這種情況。\n\n好吧，頁面刷新並不新鮮，這也是導致我們所說的\n所說的原因。看，在56K調制解調器的時代，你可以等待...",
+      "title": "YSK: 如果有什麼問題，你可以按F5重新加載一個頁面，但很多頁面數據被保存起來以加快加載速度，這可能就是問題所在。Control+F5可以清除這些數據，並從頭開始進行全面的重新加載，從而解決許多問題。"
+    }
+  ]
 }
