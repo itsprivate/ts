@@ -91,5 +91,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-10T07:11:25Z"
+  "original_createdAt": "2021-07-10T07:11:25Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Colorgizesは、Alphabagが提供するカラーツールです。カラーパレットを作成するために、一般の人が使用できるように設計されています。簡単な操作で、携帯電話でカラーパレットを管理することができます。",
+      "tagline": "カスタマイズされたカラーパレットの作成"
+    },
+    {
+      "locale": "zh",
+      "description": "Colorgizes是一个由Alphabag提供的颜色工具。它是为非专业人士设计的，用于建立调色板。人们可以通过简单的步骤在手机上管理他们的调色板。",
+      "tagline": "创建可定制的调色板"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Colorgizes是一個由Alphabag提供的顏色工具。它是爲非專業人士設計的，用於建立調色板。人們可以通過簡單的步驟在手機上管理他們的調色板。",
+      "tagline": "創建可定製的調色板"
+    }
+  ]
 }
