@@ -43,5 +43,22 @@
   "original_created_at": "2021-07-10T00:25:21Z",
   "image": "https://dev.to/social_previews/article/755142.png",
   "author": "Michael Fatemi",
-  "author_url": "https://dev.to/myfatemi04"
+  "author_url": "https://dev.to/myfatemi04",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "プログレッシブ・ウェブ・アプリケーション（PWA）は、通常のアプリケーションをオフラインでもアクセス可能にします。また、PWAには、より多くの...",
+      "title": "作成したReactアプリを100秒でプログレッシブウェブアプリにする"
+    },
+    {
+      "locale": "zh",
+      "description": "渐进式网络应用程序（PWA）让普通的应用程序变得可以离线访问。它们还可以访问更多的...",
+      "title": "在100秒内将你的创建React应用变成渐进式Web应用"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "漸進式網絡應用程序（PWA）讓普通的應用程序變得可以離線訪問。它們還可以訪問更多的...",
+      "title": "在100秒內將你的創建React應用變成漸進式Web應用"
+    }
+  ]
 }

@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "And sometimes like I'm walking wrong or in a funny way."
+  "the_new_excerpt": "And sometimes like I'm walking wrong or in a funny way.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "また、歩き方が間違っていたり、おかしな歩き方をしているように感じることもあります。",
+      "title": "自分の歩き方を気にする人はいますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "有时还像我走错了路，或者走得很滑稽。",
+      "title": "还有人对自己的走路方式感到自责吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "有時還像我走錯了路，或者走得很滑稽。",
+      "title": "還有人對自己的走路方式感到自責嗎？"
+    }
+  ]
 }

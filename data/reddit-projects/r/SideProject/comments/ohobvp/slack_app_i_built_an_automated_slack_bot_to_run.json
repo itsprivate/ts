@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Slackアプリ】スタンドアップを自動で実行するSlackボットを作ってみた"
+    },
+    {
+      "locale": "zh",
+      "title": "[Slack App]我建立了一个自动化的Slack机器人来为你运行Standups"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[Slack App]我建立了一個自動化的Slack機器人來爲你運行Standups"
+    }
+  ]
 }
