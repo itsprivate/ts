@@ -39,5 +39,22 @@
   "original_created_at": "2021-07-09T11:23:13Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mZhMqL1Y--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xmtwxq72bx8b5ujw3j2s.png",
   "author": "Brandon Roberts",
-  "author_url": "https://dev.to/brandontroberts"
+  "author_url": "https://dev.to/brandontroberts",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "以前のバージョンのAngularからAngular v12にアップグレードした後、あなたのngサーブが気になるかもしれません...",
+      "title": "Angular v12にアップグレードした後の開発ビルドの高速化"
+    },
+    {
+      "locale": "zh",
+      "description": "当你从以前的Angular版本升级到Angular v12后，你可能会注意到你的ng服务...",
+      "title": "在升级到Angular v12后加快开发构建的速度"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當你從以前的Angular版本升級到Angular v12後，你可能會注意到你的ng服務...",
+      "title": "在升級到Angular v12後加快開發構建的速度"
+    }
+  ]
 }
