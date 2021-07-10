@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-10T06:06:41Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9F5dDyP9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rw6lqicu4v2qkh3ne7u7.png",
   "author": "Amarjit Singh",
-  "author_url": "https://dev.to/amarjits"
+  "author_url": "https://dev.to/amarjits",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "useReducerとは？ useReducerは、React 16.8に同梱された追加フックのひとつです。",
+      "title": "ReactのuseReducerフックを理解する"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是useReducer？ useReducer是React 16.8中的一个附加钩子。",
+      "title": "了解React中的useReducer钩子"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是useReducer？ useReducer是React 16.8中的一個附加鉤子。",
+      "title": "瞭解React中的useReducer鉤子"
+    }
+  ]
 }
