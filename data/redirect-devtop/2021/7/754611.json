@@ -52,5 +52,22 @@
   "original_created_at": "2021-07-09T10:32:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--23MDRwz8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/noicu453tpizoq90dknm.png",
   "author": "Grégory D'Angelo",
-  "author_url": "https://dev.to/gdangelo"
+  "author_url": "https://dev.to/gdangelo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "STRIPE + NEXT.jsでの決済方法（ステップバイステップ・チュートリアル） 今日は、...",
+      "title": "STRIPE + NEXT.Jsによる決済の収集方法（ステップ・バイ・ステップ・チュートリアル"
+    },
+    {
+      "locale": "zh",
+      "description": "如何用STRIPE+NEXT.js收款（分步教程）今天，我们将...",
+      "title": "如何用STRIPE+NEXT.Js收款（分步教程"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如何用STRIPE+NEXT.js收款（分步教程）今天，我們將...",
+      "title": "如何用STRIPE+NEXT.Js收款（分步教程"
+    }
+  ]
 }
