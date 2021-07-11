@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-09T19:11:14Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NtaSJS4d--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xy1c8ckhb7tazlc1ekse.jpeg",
   "author": "Rajat Verma",
-  "author_url": "https://dev.to/rajat2502"
+  "author_url": "https://dev.to/rajat2502",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "第3章 スコープチェーン このノートは、書籍「You Don't...」の第3章のノートです。",
+      "title": "JavaScriptのスコープチェーン"
+    },
+    {
+      "locale": "zh",
+      "description": "第三章：范围链 这些是《你不知道》一书第三章的注释。",
+      "title": "JavaScript中的范围链"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "第三章：範圍鏈 這些是《你不知道》一書第三章的註釋。",
+      "title": "JavaScript中的範圍鏈"
+    }
+  ]
 }
