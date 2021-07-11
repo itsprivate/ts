@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Just wondering cause I swear my dog has been acting kinda abnormal lately"
+  "the_new_excerpt": "Just wondering cause I swear my dog has been acting kinda abnormal lately",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "最近、うちの犬の様子がおかしいので、気になっています。",
+      "title": "犬も人間と同じようにADHDや人格障害を発症することがあるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我只是想知道，因为我发誓我的狗最近一直表现得有点不正常。",
+      "title": "狗有可能像人类一样患上多动症或人格障碍吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我只是想知道，因爲我發誓我的狗最近一直表現得有點不正常。",
+      "title": "狗有可能像人類一樣患上多動症或人格障礙嗎？"
+    }
+  ]
 }
