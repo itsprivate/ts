@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ジャンプ恐怖症は手に負えなくなっている。"
+    },
+    {
+      "locale": "zh",
+      "title": "跳楼恐惧症正在失去控制。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "跳樓恐懼症正在失去控制。"
+    }
+  ]
 }
