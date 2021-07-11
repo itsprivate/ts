@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Poeは \"Upside down Time \"が大好きです。"
+    },
+    {
+      "locale": "zh",
+      "title": "坡喜欢 \"颠倒的时间\""
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "坡喜歡 \"顛倒的時間\""
+    }
+  ]
 }
