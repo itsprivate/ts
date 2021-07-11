@@ -41,5 +41,22 @@
   "original_created_at": "2021-07-10T11:09:02Z",
   "image": "https://dev.to/social_previews/article/755482.png",
   "author": "Mr. Unity Buddy",
-  "author_url": "https://dev.to/unitybuddy"
+  "author_url": "https://dev.to/unitybuddy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Hello, buddies! 成功しているプログラマーは皆、自分なりの習慣を持っています。今日は、その習慣を見てみましょう...",
+      "title": "成功するプログラマーの5つの習慣"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，伙伴们! 每个成功的程序员都有自己的习惯。那么今天我们就来看看什么是...",
+      "title": "成功的程序员的5个习惯"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，夥伴們! 每個成功的程序員都有自己的習慣。那麼今天我們就來看看什麼是...",
+      "title": "成功的程序員的5個習慣"
+    }
+  ]
 }
