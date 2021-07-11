@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインSVが攻撃され、二重に使われ、再編成される。暗号取引所への入金がブロックされた。ビットコインが1つ減った！"
+    },
+    {
+      "locale": "zh",
+      "title": "比特币SV被攻击，双倍花费和重新组织。在加密货币交易所的存款被封锁。一个比特币倒下了!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比特幣SV被攻擊，雙倍花費和重新組織。在加密貨幣交易所的存款被封鎖。一個比特幣倒下了!"
+    }
+  ]
 }
