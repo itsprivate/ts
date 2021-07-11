@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これまでに起こった最も説明のつかない出来事は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "发生在你身上最无法解释的事情是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "發生在你身上最無法解釋的事情是什麼？"
+    }
+  ]
 }
