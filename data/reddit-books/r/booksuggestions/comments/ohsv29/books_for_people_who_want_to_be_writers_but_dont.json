@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "That would be me"
+  "the_new_excerpt": "That would be me",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "それは私です。",
+      "title": "作家になりたいが、よく書かれた本がどんなものかわからない人のための本。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这将是我",
+      "title": "为那些想成为作家，但不知道一本好书是什么样子的人提供的书。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這將是我",
+      "title": "爲那些想成爲作家，但不知道一本好書是什麼樣子的人提供的書。"
+    }
+  ]
 }
