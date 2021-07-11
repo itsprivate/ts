@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-10T12:36:41Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--n-kk5T3i--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/963pk4tbadc4jqyizr1w.jpg",
   "author": "Ahmed Murtaza",
-  "author_url": "https://dev.to/ahmedgmurtaza"
+  "author_url": "https://dev.to/ahmedgmurtaza",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JavaScriptでは関数が一級市民であるだけでなく、他にもたくさんの機能があります。",
+      "title": "JavaScriptにおけるメモリ最適化のためのクロージャの使用（ケーススタディ"
+    },
+    {
+      "locale": "zh",
+      "description": "除了函数是JavaScript中的一等公民外，还有很多其他的功能。",
+      "title": "在JavaScript中使用闭包进行内存优化（一个案例研究"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "除了函數是JavaScript中的一等公民外，還有很多其他的功能。",
+      "title": "在JavaScript中使用閉包進行內存優化（一個案例研究"
+    }
+  ]
 }
