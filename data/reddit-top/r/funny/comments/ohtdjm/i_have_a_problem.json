@@ -42,5 +42,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "問題がある"
+    },
+    {
+      "locale": "zh",
+      "title": "我有一个问题"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我有一個問題"
+    }
+  ]
 }
