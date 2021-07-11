@@ -45,5 +45,17 @@
   "original_created_at": "2020-09-30T10:18:01Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--27rw9Xcq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b7g3tykbgrhmx46q76ra.jpg",
   "author": "Tawanda Nyahuye",
-  "author_url": "https://dev.to/towernter"
+  "author_url": "https://dev.to/towernter",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "让我们进入这个问题，我已经在那里，如果你不是一个新手，你可能已经在那里了。",
+      "title": "从一个由其他开发者编写的项目开始"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "讓我們進入這個問題，我已經在那裏，如果你不是一個新手，你可能已經在那裏了。",
+      "title": "從一個由其他開發者編寫的項目開始"
+    }
+  ]
 }
