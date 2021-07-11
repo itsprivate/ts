@@ -88,5 +88,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-11T07:03:41Z"
+  "original_createdAt": "2021-07-11T07:03:41Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Flacked AIは、思考の整理や文章作成の効率化をサポートすることで、文章作成のプロセスをより短時間で簡略化するAIライターです。",
+      "tagline": "ライティングプロセスの簡素化"
+    },
+    {
+      "locale": "zh",
+      "description": "Flacked AI是一个人工智能作家，它通过帮助人们在更短的时间内组织他们的思想和精简他们的写作，简化了写作过程。",
+      "tagline": "简化你的写作过程"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Flacked AI是一個人工智能作家，它通過幫助人們在更短的時間內組織他們的思想和精簡他們的寫作，簡化了寫作過程。",
+      "tagline": "簡化你的寫作過程"
+    }
+  ]
 }
