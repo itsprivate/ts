@@ -106,5 +106,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私は脳腫瘍を摘出しました。脳外科医に頭の中のビフォーアフターの写真を撮ってもらいました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我切除了一个脑瘤。我要求神经外科医生在我的脑袋里拍一张前后的照片。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我切除了一個腦瘤。我要求神經外科醫生在我的腦袋裏拍一張前後的照片。"
+    }
+  ]
 }
