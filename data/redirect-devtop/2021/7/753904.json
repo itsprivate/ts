@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-08T18:16:20Z",
   "image": "https://dev.to/social_previews/article/753904.png",
   "author": "Everton Reis",
-  "author_url": "https://dev.to/evertoont"
+  "author_url": "https://dev.to/evertoont",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "考察 この記事は入門編であり、React...を使用する方法を紹介しています。",
+      "title": "React Contextの紹介～簡単な使い方"
+    },
+    {
+      "locale": "zh",
+      "description": "考虑因素 这是一篇介绍性文章，介绍了一种使用React...",
+      "title": "React Context介绍--如何简单使用它"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "考慮因素 這是一篇介紹性文章，介紹了一種使用React...",
+      "title": "React Context介紹--如何簡單使用它"
+    }
+  ]
 }
