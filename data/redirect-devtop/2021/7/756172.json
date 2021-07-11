@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-11T11:13:04Z",
   "image": "https://dev.to/social_previews/article/756172.png",
   "author": "Valeria",
-  "author_url": "https://dev.to/valeriavg"
+  "author_url": "https://dev.to/valeriavg",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "基本的に、Gitはテキストの変更を監視しますが、定義はバージョンコントロールシステムです。チャンス...",
+      "title": "7分でマスターするGit"
+    },
+    {
+      "locale": "zh",
+      "description": "从本质上讲，Git可以记录文本的变化，但其定义是一个版本控制系统。机会...",
+      "title": "在7分钟内掌握Git"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "從本質上講，Git可以記錄文本的變化，但其定義是一個版本控制系統。機會...",
+      "title": "在7分鐘內掌握Git"
+    }
+  ]
 }
