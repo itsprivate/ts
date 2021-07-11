@@ -107,5 +107,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-10T07:00:00Z"
+  "original_createdAt": "2021-07-10T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "XClipperは、Windows & Android用のスマートなクリップボードマネージャで、クリップボードのアクティビティを追跡し、多くの機能でクリップボードとのやり取りを簡単にしてくれます。また、2つのプラットフォーム間でクリップボードを同期することができます。",
+      "tagline": "AndroidとWindows用のスマートなクリップボードマネージャー"
+    },
+    {
+      "locale": "zh",
+      "description": "XClipper是一个适用于Windows和Android的智能剪贴板管理器，它有助于跟踪剪贴板活动，并通过大量的功能使其更容易与之互动。它还有助于在这两个平台之间同步你的剪贴板。",
+      "tagline": "适用于安卓和Windows的智能剪贴板管理器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "XClipper是一個適用於Windows和Android的智能剪貼板管理器，它有助於跟蹤剪貼板活動，並通過大量的功能使其更容易與之互動。它還有助於在這兩個平臺之間同步你的剪貼板。",
+      "tagline": "適用於安卓和Windows的智能剪貼板管理器"
+    }
+  ]
 }
