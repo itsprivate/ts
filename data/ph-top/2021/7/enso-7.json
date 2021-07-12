@@ -98,5 +98,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-12T07:05:00Z"
+  "original_createdAt": "2021-07-12T07:05:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Enso（YC S21）は、ビジュアルなコンポーネントをつなぐだけで、データの分析、可視化、処理の自動化を実現します。Ensoは新世代のビジュアルプログラミング言語を搭載しており、Java、JavaScript、R、Pythonで拡張することができます（近日公開予定）。",
+      "tagline": "データフローグラフの作成によるデータの分析と可視化"
+    },
+    {
+      "locale": "zh",
+      "description": "Enso (YC S21)让你只需将视觉组件连接在一起，就能实现数据分析、可视化和自动化处理。它由新一代的可视化编程语言提供支持，你可以用Java、JavaScript、R和Python进行扩展（更多即将推出）。",
+      "tagline": "通过建立数据流图分析和可视化数据"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Enso (YC S21)讓你只需將視覺組件連接在一起，就能實現數據分析、可視化和自動化處理。它由新一代的可視化編程語言提供支持，你可以用Java、JavaScript、R和Python進行擴展（更多即將推出）。",
+      "tagline": "通過建立數據流圖分析和可視化數據"
+    }
+  ]
 }
