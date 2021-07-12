@@ -43,5 +43,22 @@
   "original_created_at": "2021-07-10T07:23:18Z",
   "image": "https://dev.to/social_previews/article/755283.png",
   "author": "Megan Lo",
-  "author_url": "https://dev.to/mehmehmehlol"
+  "author_url": "https://dev.to/mehmehmehlol",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "免責事項：この記事は、どのコンポーネントが優れているかということではなく、どちらかというと...",
+      "title": "Reactにおけるクラスコンポーネントと機能コンポーネント"
+    },
+    {
+      "locale": "zh",
+      "description": "免责声明：本文不是关于哪个组件更好，而是更多讨论...",
+      "title": "类组件与React中的功能组件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "免責聲明：本文不是關於哪個組件更好，而是更多討論...",
+      "title": "類組件與React中的功能組件"
+    }
+  ]
 }
