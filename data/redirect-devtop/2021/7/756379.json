@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-11T18:02:51Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--w4DlmEPP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bcepxzsxahwpthf1ig0m.png",
   "author": "Shreyas Pahune",
-  "author_url": "https://dev.to/shreyazz"
+  "author_url": "https://dev.to/shreyazz",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは👋🏻 今日はdiscordのbot🤖を作ろうと思っています。",
+      "title": "たった30行のコードでDiscordのボットを作ることができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "嘿，大家好👋🏻，今天我们要做一个discord机器人🤖，它将根据需要发送gif。",
+      "title": "只需30行代码就能制作一个Discord机器人。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嘿，大家好👋🏻，今天我們要做一個discord機器人🤖，它將根據需要發送gif。",
+      "title": "只需30行代碼就能製作一個Discord機器人。"
+    }
+  ]
 }
