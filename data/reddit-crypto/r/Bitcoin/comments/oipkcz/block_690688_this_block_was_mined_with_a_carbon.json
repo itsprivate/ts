@@ -57,5 +57,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Block 690688\n(https://mempool.space/de/block/0000000000000000001218611efa70033c58cb7af006a1096f4d76d634e9db58?showDetails=true#details)\n: \"This block was mined with a carbon negative power source\""
+  "the_new_excerpt": "Block 690688\n(https://mempool.space/de/block/0000000000000000001218611efa70033c58cb7af006a1096f4d76d634e9db58?showDetails=true#details)\n: \"This block was mined with a carbon negative power source\"",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ブロック 690688\n(https://mempool.space/de/block/0000000000000000001218611efa70033c58cb7af006a1096f4d76d634e9db58?showDetails=true#details)\n: \"このブロックはカーボンマイナスの電源で採掘されました\"",
+      "title": "ブロック690688 - \"このブロックはカーボンマイナスの電源で採掘された\""
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "第690688号街区\n(https://mempool.space/de/block/0000000000000000001218611efa70033c58cb7af006a1096f4d76d634e9db58?showDetails=true#details)\n: \"这个区块是用负碳动力源开采的\"",
+      "title": "690688区块 - \"该区块是用负碳动力源开采的\""
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "第690688號街區\n(https://mempool.space/de/block/0000000000000000001218611efa70033c58cb7af006a1096f4d76d634e9db58?showDetails=true#details)\n: \"這個區塊是用負碳動力源開採的\"",
+      "title": "690688區塊 - \"該區塊是用負碳動力源開採的\""
+    }
+  ]
 }
