@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "If someone offered you x amount to leave/quit, how much would it need to be?"
+  "the_new_excerpt": "If someone offered you x amount to leave/quit, how much would it need to be?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "もし誰かがあなたに退職/辞めるためのX額を提示したとしたら、それはいくらである必要がありますか？",
+      "title": "仕事を辞めるにはどれくらいのお金が必要ですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "如果有人给你提供X数额的离开/辞职，那需要多少钱呢？",
+      "title": "辞掉工作需要多少钱？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "如果有人給你提供X數額的離開/辭職，那需要多少錢呢？",
+      "title": "辭掉工作需要多少錢？"
+    }
+  ]
 }
