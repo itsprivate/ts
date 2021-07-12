@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "何十回もの失敗を経て、ついに永久不滅のナイフを作り上げることができました。"
+    },
+    {
+      "locale": "zh",
+      "title": "在几十次破碎的失败之后，我终于成功地锻造了一把几乎无坚不摧的刀。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在幾十次破碎的失敗之後，我終於成功地鍛造了一把幾乎無堅不摧的刀。"
+    }
+  ]
 }
