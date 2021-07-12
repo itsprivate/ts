@@ -65,5 +65,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ハング10？というよりも、Hang 10,000!"
+    },
+    {
+      "locale": "zh",
+      "title": "挂10？更像是挂10000个!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "掛10？更像是掛10000個!"
+    }
+  ]
 }
