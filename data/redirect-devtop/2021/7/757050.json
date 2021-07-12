@@ -52,5 +52,22 @@
   "original_created_at": "2021-07-12T12:01:56Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7MoEog0U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dz1ktzu8fhgawhn216sn.png",
   "author": "Fabrício José Souza",
-  "author_url": "https://dev.to/fabriciojs"
+  "author_url": "https://dev.to/fabriciojs",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "マイクロサービスの文脈でDockerコンテナを扱うことが多くなってきました...",
+      "title": "Koolを使って、ローカル開発環境で複数のDockerアプリケーションを同時に実行する"
+    },
+    {
+      "locale": "zh",
+      "description": "我们越来越多地发现自己在微服务的背景下与Docker容器合作。",
+      "title": "使用Kool在你的本地开发环境中同时运行多个Docker应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們越來越多地發現自己在微服務的背景下與Docker容器合作。",
+      "title": "使用Kool在你的本地開發環境中同時運行多個Docker應用程序"
+    }
+  ]
 }
