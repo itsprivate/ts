@@ -115,5 +115,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1626087220,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今後5週間の最も期待される決算発表（発表が確定したもののみを表示しています"
+    },
+    {
+      "locale": "zh",
+      "title": "未来5周最值得期待的收益发布（只显示 \"确认 \"的发布日期！）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "未來5周最值得期待的收益發布（只顯示 \"確認 \"的發佈日期！）。"
+    }
+  ]
 }
