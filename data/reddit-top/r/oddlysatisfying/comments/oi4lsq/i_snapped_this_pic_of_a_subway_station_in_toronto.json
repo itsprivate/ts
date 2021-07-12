@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この写真はトロントの地下鉄の駅で撮ったものです。"
+    },
+    {
+      "locale": "zh",
+      "title": "我在多伦多的一个地铁站拍下了这张照片。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我在多倫多的一個地鐵站拍下了這張照片。"
+    }
+  ]
 }
