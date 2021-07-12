@@ -41,5 +41,22 @@
   "original_created_at": "2021-07-11T19:16:10Z",
   "image": "https://dev.to/social_previews/article/756410.png",
   "author": "Ameni Ben Saada",
-  "author_url": "https://dev.to/amenibensaada"
+  "author_url": "https://dev.to/amenibensaada",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Node.jsは、オープンソースでクロスプラットフォームのランタイム環境であり、...",
+      "title": "Expressを使ってみよう "
+    },
+    {
+      "locale": "zh",
+      "description": "Node.js是一个开源的、跨平台的运行环境，它允许你写...",
+      "title": "开始使用Express "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Node.js是一個開源的、跨平臺的運行環境，它允許你寫...",
+      "title": "開始使用Express "
+    }
+  ]
 }
