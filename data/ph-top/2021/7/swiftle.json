@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-12T08:52:57Z"
+  "original_createdAt": "2021-07-12T08:52:57Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "BubbleとJavascriptを組み合わせた複雑なプラットフォームを開発する必要があるが、Webflowのランディングページから始めたいと考えていますか？Swiftleでアイデアをテストし、成功したものを1つの開発チームでスケールアップします。開発者の選択はこれまでになく簡単です。",
+      "tagline": "ハイブリッド開発"
+    },
+    {
+      "locale": "zh",
+      "description": "需要开发一个结合Bubble和Javascript的复杂平台，但又想从Webflow的登陆页面开始？用Swiftle测试你的想法，并在一个开发团队中扩展成功的想法。选择开发人员从未如此简单",
+      "tagline": "混合发展"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "需要開發一個結合Bubble和Javascript的複雜平臺，但又想從Webflow的登陸頁面開始？用Swiftle測試你的想法，並在一個開發團隊中擴展成功的想法。選擇開發人員從未如此簡單",
+      "tagline": "混合發展"
+    }
+  ]
 }
