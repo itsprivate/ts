@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Yey...wait-Yeeeey!"
+    },
+    {
+      "locale": "zh",
+      "title": "耶......等等--耶耶!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "耶......等等--耶耶!"
+    }
+  ]
 }
