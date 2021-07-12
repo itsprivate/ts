@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-12T07:03:55Z"
+  "original_createdAt": "2021-07-12T07:03:55Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "イーサリアムやIPFSのような分散型ネットワークの上にAPIを構築 ネットワークに公開されたAPI上でキュレーションを行うことで、クエリフィーを得る。Ethereum上で大規模に稼働した最初のキュレーション市場の一つです。開発ガイド https://www.youtube.com/watch?v=HfDgC2oNnwo",
+      "tagline": "GraphQLでパフォーマンスの高いブロックチェーンアプリケーションを構築"
+    },
+    {
+      "locale": "zh",
+      "description": "在以太坊和IPFS等去中心化网络之上建立API，通过对发布到网络上的API进行策划，赚取查询费。以太坊上首批大规模上线的策展市场之一。开发指南 https://www.youtube.com/watch?v=HfDgC2oNnwo",
+      "tagline": "用GraphQL构建高性能的区块链应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在以太坊和IPFS等去中心化網絡之上建立API，通過對發佈到網絡上的API進行策劃，賺取查詢費。以太坊上首批大規模上線的策展市場之一。開發指南 https://www.youtube.com/watch?v=HfDgC2oNnwo",
+      "tagline": "用GraphQL構建高性能的區塊鏈應用程序"
+    }
+  ]
 }
