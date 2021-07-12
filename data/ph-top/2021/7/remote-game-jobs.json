@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-11T07:37:07Z"
+  "original_createdAt": "2021-07-11T07:37:07Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Remote Game Jobsは、ゲーム業界でのリモートワークに特化したジョブボードです。パンデミック後も長期的にリモートの仕事は100% REMOTEと表示されます。",
+      "tagline": "ゲーム業界でのリモートワークのためのジョブボード"
+    },
+    {
+      "locale": "zh",
+      "description": "远程游戏工作是一个专门针对游戏行业远程工作的招聘网站。即使在大流行之后，长期远程工作也会被标记为100% REMOTE。",
+      "tagline": "游戏行业远程工作的招聘网站"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "遠程遊戲工作是一個專門針對遊戲行業遠程工作的招聘網站。即使在大流行之後，長期遠程工作也會被標記爲100% REMOTE。",
+      "tagline": "遊戲行業遠程工作的招聘網站"
+    }
+  ]
 }
