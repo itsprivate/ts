@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "それは、基本的な地理的条件です。"
+    },
+    {
+      "locale": "zh",
+      "title": "这是基本的地理环境"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是基本的地理環境"
+    }
+  ]
 }

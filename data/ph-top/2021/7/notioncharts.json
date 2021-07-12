@@ -98,5 +98,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-12T08:13:40Z"
+  "original_createdAt": "2021-07-12T08:13:40Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Notionのテーブルから埋め込み可能な美しいチャートを作成します。9種類のチャートタイプから選択し、Notion Tableを選択すると、チャートの埋め込みURLを取得できます。",
+      "tagline": "Notionテーブルから埋め込み可能なチャートを作成します。"
+    },
+    {
+      "locale": "zh",
+      "description": "从你的Notion Tables创建漂亮的可嵌入的图表。从9种图表类型中选择，选择一个Notion表并获得一个图表嵌入网址。",
+      "tagline": "从你的Notion表格创建可嵌入的图表"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "從你的Notion Tables創建漂亮的可嵌入的圖表。從9種圖表類型中選擇，選擇一個Notion表並獲得一個圖表嵌入網址。",
+      "tagline": "從你的Notion表格創建可嵌入的圖表"
+    }
+  ]
 }

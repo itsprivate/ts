@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "明らかに特定のものに不快感を覚えることは許されていると思います。"
+    },
+    {
+      "locale": "zh",
+      "title": "很明显，你可以对某些事情感到被冒犯。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "很明顯，你可以對某些事情感到被冒犯。"
+    }
+  ]
 }

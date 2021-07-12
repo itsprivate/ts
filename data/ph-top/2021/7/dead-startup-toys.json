@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-12T15:00:00Z"
+  "original_createdAt": "2021-07-12T15:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "失敗した象徴的なスタートアップのおもちゃバージョン。",
+      "tagline": "JuiceroやTheranosなどの失敗したスタートアップのおもちゃ版"
+    },
+    {
+      "locale": "zh",
+      "description": "标志性的失败创业公司的玩具版。",
+      "tagline": "Juicero和Theranos等失败初创公司的玩具版"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "標誌性的失敗創業公司的玩具版。",
+      "tagline": "Juicero和Theranos等失敗初創公司的玩具版"
+    }
+  ]
 }
