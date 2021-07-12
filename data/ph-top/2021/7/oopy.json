@@ -103,5 +103,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-12T07:03:00Z"
+  "original_createdAt": "2021-07-12T07:03:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Notionで作ったコンテンツをビジネスに。Stripeを利用したサブスクリプションで収益を上げることができます。すべてのコードを書く必要はありません。Oopyはウェブサイトのホスト、メンバーシップの管理、Stripe APIの処理を行いますので、あなたは価値あるコンテンツの作成に集中することができます。",
+      "tagline": "NotionとStripeでサブスクリプションビジネスを始めよう"
+    },
+    {
+      "locale": "zh",
+      "description": "把你在Notion中的内容变成一门生意。通过Stripe支持的订阅来赚钱。所有这些都不需要写一行代码。Oopy托管网站，管理会员，并处理Stripe API，这样你就可以专注于创造有价值的内容。",
+      "tagline": "用Notion和Stripe开始你的订阅业务"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "把你在Notion中的內容變成一門生意。通過Stripe支持的訂閱來賺錢。所有這些都不需要寫一行代碼。Oopy託管網站，管理會員，並處理Stripe API，這樣你就可以專注於創造有價值的內容。",
+      "tagline": "用Notion和Stripe開始你的訂閱業務"
+    }
+  ]
 }
