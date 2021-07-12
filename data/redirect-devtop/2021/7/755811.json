@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-10T21:34:55Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--h9NNOEfj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ijknkpm47llja6wl5i0v.png",
   "author": "Abhay Krishna Arunachalam",
-  "author_url": "https://dev.to/abhaykrishna"
+  "author_url": "https://dev.to/abhaykrishna",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Gitの使い方を調べるたびに1ドルあれば、新しい...を立ち上げることができます。",
+      "title": "あなたのGit-fuを高めてください。"
+    },
+    {
+      "locale": "zh",
+      "description": "如果我每次在Git中查找如何......都能得到一美元，我就有足够的钱来启动一个新的......。",
+      "title": "提升你的Git-fu!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果我每次在Git中查找如何......都能得到一美元，我就有足夠的錢來啓動一個新的......。",
+      "title": "提升你的Git-fu!"
+    }
+  ]
 }
