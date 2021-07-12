@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "コインベースのCEOです。法的に実行可能なすべての暗号資産をリストアップする予定です"
+    },
+    {
+      "locale": "zh",
+      "title": "Coinbase首席执行官。我们计划在法律上可行的地方列出每一种加密货币资产"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Coinbase首席執行官。我們計劃在法律上可行的地方列出每一種加密貨幣資產"
+    }
+  ]
 }
