@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "まだ試合が始まってもいないのに"
+    },
+    {
+      "locale": "zh",
+      "title": "而比赛甚至还没有开始"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "而比賽甚至還沒有開始"
+    }
+  ]
 }
