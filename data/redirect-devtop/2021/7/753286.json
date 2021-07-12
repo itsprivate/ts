@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-08T05:33:57Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wG6q6u5Y--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5gce4h1sq84far8qku4f.png",
   "author": "Bharati Subramanian",
-  "author_url": "https://dev.to/bharati21"
+  "author_url": "https://dev.to/bharati21",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CSSには、ドキュメント内で要素がどのように表示されるかを指定するpositionプロパティが用意されています。この...",
+      "title": "ポジション・プロパティの解説"
+    },
+    {
+      "locale": "zh",
+      "description": "CSS提供了位置属性，指定一个元素应该如何在文档中出现。这...",
+      "title": "揭开位置属性的神秘面纱"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "CSS提供了位置屬性，指定一個元素應該如何在文檔中出現。這...",
+      "title": "揭開位置屬性的神祕面紗"
+    }
+  ]
 }
