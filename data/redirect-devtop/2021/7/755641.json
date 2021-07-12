@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-10T15:19:43Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6CaXkuJ3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aco5mu2lmpem2uw76gc6.png",
   "author": "Fatih Pense",
-  "author_url": "https://dev.to/fatihpense"
+  "author_url": "https://dev.to/fatihpense",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactアプリの中でSolid要素を使いたいと思いました。最終的には、とてもスムーズに...",
+      "title": "Web Componentsを使ったReactアプリのSolid Component"
+    },
+    {
+      "locale": "zh",
+      "description": "我想在React应用中使用一个Solid元素。最后，我很惊喜地发现，它是如此的顺畅...",
+      "title": "在React应用程序中使用Web组件的固体组件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我想在React應用中使用一個Solid元素。最後，我很驚喜地發現，它是如此的順暢...",
+      "title": "在React應用程序中使用Web組件的固體組件"
+    }
+  ]
 }
