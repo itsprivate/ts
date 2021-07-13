@@ -41,5 +41,22 @@
   "original_created_at": "2021-07-12T16:08:04Z",
   "image": "https://dev.to/social_previews/article/757246.png",
   "author": "Mr. Unity Buddy",
-  "author_url": "https://dev.to/unitybuddy"
+  "author_url": "https://dev.to/unitybuddy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "バディの皆さん、こんにちは。早速ですが、今回のテーマについて説明したいと思います。  コードを書くのは簡単です....",
+      "title": "開発者が知っておくべきコーディングの原則トップ10"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，伙伴们! 我想在不浪费时间的情况下进入我们的主题。  写代码很容易....",
+      "title": "每个开发人员必须知道的十大编码原则"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，夥伴們! 我想在不浪費時間的情況下進入我們的主題。  寫代碼很容易....",
+      "title": "每個開發人員必須知道的十大編碼原則"
+    }
+  ]
 }
