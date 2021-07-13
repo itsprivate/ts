@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-11T13:08:28Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OjrCcB0C--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k7kh51pwu9fvrk35eibc.png",
   "author": "Amey Bhavsar",
-  "author_url": "https://dev.to/ameybhavsar"
+  "author_url": "https://dev.to/ameybhavsar",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "WolframAlpha APIとの間でクエリを実行し，結果を取得するWhatsapp Webボット．コードとチュートリアルを含む．npm nodeを使用しています。",
+      "title": "数学の問題を解くWhatsAppボットを作ってみた"
+    },
+    {
+      "locale": "zh",
+      "description": "Whatsapp网络机器人可以查询和获取WolframAlpha API的结果。包含代码和教程。使用npm node制作。",
+      "title": "我做了一个WhatsApp机器人来解决数学问题"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Whatsapp網絡機器人可以查詢和獲取WolframAlpha API的結果。包含代碼和教程。使用npm node製作。",
+      "title": "我做了一個WhatsApp機器人來解決數學問題"
+    }
+  ]
 }
