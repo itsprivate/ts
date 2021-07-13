@@ -87,5 +87,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-13T07:05:00Z"
+  "original_createdAt": "2021-07-13T07:05:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reframeは、脳科学に基づいた、お酒をやめたり減らしたりするためのアプリです。",
+      "tagline": "脳科学でお酒を減らす"
+    },
+    {
+      "locale": "zh",
+      "description": "Reframe是一个基于神经科学的应用程序，帮助你戒酒或减少饮酒。",
+      "tagline": "用神经科学减少饮酒"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Reframe是一個基於神經科學的應用程序，幫助你戒酒或減少飲酒。",
+      "tagline": "用神經科學減少飲酒"
+    }
+  ]
 }

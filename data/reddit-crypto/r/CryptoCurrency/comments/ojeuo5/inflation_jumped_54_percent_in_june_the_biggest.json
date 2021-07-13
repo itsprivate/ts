@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "6月のインフレ率は5.4％と、2008年以来最大の上昇率となりました。"
+    },
+    {
+      "locale": "zh",
+      "title": "6月份通货膨胀率跃升5.4%，是2008年以来最大的涨幅。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "6月份通貨膨脹率躍升5.4%，是2008年以來最大的漲幅。"
+    }
+  ]
 }
