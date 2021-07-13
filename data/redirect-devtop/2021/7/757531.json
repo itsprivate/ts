@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-12T21:53:22Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--clHcNUfu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6q7ahh9bzywhm6j1cs5o.png",
   "author": "Emmanuel Ugwu",
-  "author_url": "https://dev.to/ugwutotheeshoes"
+  "author_url": "https://dev.to/ugwutotheeshoes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、あるウェブサイトを訪れた際に、そのウェブサイトのチャットボットが私の...",
+      "title": "Vanilla JavaScriptでチャットボットを作る"
+    },
+    {
+      "locale": "zh",
+      "description": "最近，我访问了一个网站，在浏览网站时，网站的聊天机器人吸引了我。",
+      "title": "用Vanilla JavaScript建立一个聊天机器人"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "最近，我訪問了一個網站，在瀏覽網站時，網站的聊天機器人吸引了我。",
+      "title": "用Vanilla JavaScript建立一個聊天機器人"
+    }
+  ]
 }
