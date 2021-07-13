@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、自分と全く同じ人間と1日過ごさなければならないとしたら、どのように過ごしますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你被迫与一个完全复制的自己共度一天，你会如何度过？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你被迫與一個完全複製的自己共度一天，你會如何度過？"
+    }
+  ]
 }
