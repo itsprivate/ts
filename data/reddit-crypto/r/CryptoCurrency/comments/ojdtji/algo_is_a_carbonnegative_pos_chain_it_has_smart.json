@@ -57,5 +57,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "ALGO is a PoS chain which may seem like good enough, right? Still, nodes use\nelectricity so they implemented a mechanism to automatically offset their\nemissions. How cool is that!\n\n> We announced recently on Earth Day that we're the first carbon-negative chain.\n> We have smart contracts that look at…"
+  "the_new_excerpt": "ALGO is a PoS chain which may seem like good enough, right? Still, nodes use\nelectricity so they implemented a mechanism to automatically offset their\nemissions. How cool is that!\n\n> We announced recently on Earth Day that we're the first carbon-negative chain.\n> We have smart contracts that look at…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ALGOはPoSチェーンなので、これで十分だと思われるかもしれません。しかし、ノードは電気を使います。\nノードは電気を使うので、その排出量を自動的に相殺する仕組みを導入しました。\n排出量を自動的に相殺する仕組みを実装しました。これはすごいことですよね。\n\n> 私たちは先日のアースデイで、カーボンネガティブチェーンの第一号であることを発表しました。\n> スマートコントラクトでは...",
+      "title": "ALGOはカーボン・ネガティブなPoSチェーンです。排出量を監視するスマートコントラクトを持ち、ClimateTradeからオフセットを購入しています。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "ALGO是一个PoS链，这看起来似乎足够好，对吗？但是，节点使用\n所以他们实施了一个机制来自动抵消他们的\n排放。这有多酷啊!\n\n> 我们最近在地球日宣布，我们是第一个负碳链。\n> 我们有智能合约，看...",
+      "title": "ALGO是一个负碳的PoS链。它有监测排放的智能合约，并从ClimateTrade购买抵消。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "ALGO是一個PoS鏈，這看起來似乎足夠好，對嗎？但是，節點使用\n所以他們實施了一個機制來自動抵消他們的\n排放。這有多酷啊!\n\n> 我們最近在地球日宣佈，我們是第一個負碳鏈。\n> 我們有智能合約，看...",
+      "title": "ALGO是一個負碳的PoS鏈。它有監測排放的智能合約，並從ClimateTrade購買抵消。"
+    }
+  ]
 }
