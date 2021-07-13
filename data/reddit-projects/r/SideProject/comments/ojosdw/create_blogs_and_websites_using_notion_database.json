@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Notion Database（ベータ版）を使用して、ブログやウェブサイトを作成することができます。詳細はコメントにて"
+    },
+    {
+      "locale": "zh",
+      "title": "使用Notion数据库（beta）创建博客和网站。更多细节请见评论"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "使用Notion數據庫（beta）創建博客和網站。更多細節請見評論"
+    }
+  ]
 }
