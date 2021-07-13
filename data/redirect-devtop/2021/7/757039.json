@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-12T11:27:19Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NYrsDUAE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0q6yjo8ayj9g7gx55aeh.jpg",
   "author": "Domagoj Vidovic",
-  "author_url": "https://dev.to/domagojvidovic"
+  "author_url": "https://dev.to/domagojvidovic",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Vuexのチュートリアルを見ていると、そのほとんどが非常にシンプルであることがわかります。 ロジックの説明は...",
+      "title": "本番アプリのために大規模なVuexストアを構築する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "在看Vuex教程的时候，你可以看到大多数的教程都很简单。 逻辑被解释为...",
+      "title": "如何构建一个大规模的Vuex商店，用于制作应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在看Vuex教程的時候，你可以看到大多數的教程都很簡單。 邏輯被解釋爲...",
+      "title": "如何構建一個大規模的Vuex商店，用於製作應用程序"
+    }
+  ]
 }
