@@ -14,5 +14,19 @@
   "tags": [
     "BBC News"
   ],
-  "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6C08/production/_119365672_francepubsmall.jpg"
+  "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6C08/production/_119365672_francepubsmall.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "フランスCovid社：すべての医療従事者にワクチン接種を義務化"
+    },
+    {
+      "locale": "zh",
+      "title": "法国Covid：所有卫生工作者必须接受疫苗接种"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "法國Covid：所有衛生工作者必須接受疫苗接種"
+    }
+  ]
 }
