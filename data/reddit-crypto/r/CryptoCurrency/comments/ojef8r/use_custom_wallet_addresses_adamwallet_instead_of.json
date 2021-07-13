@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "One of the best things I learned this year was you can create mint domain names\n(as NFTs aka ERC721 tokens) then point them at your own public keys. Someone can\nsend ETH, BTC, Doge, XMR, (200+) tokens to the same domain “adam.wallet” and it\nall ends up in the corresponding crypto wallet.\n\n--…"
+  "the_new_excerpt": "One of the best things I learned this year was you can create mint domain names\n(as NFTs aka ERC721 tokens) then point them at your own public keys. Someone can\nsend ETH, BTC, Doge, XMR, (200+) tokens to the same domain “adam.wallet” and it\nall ends up in the corresponding crypto wallet.\n\n--…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "今年学んだことの中で最も良かったことの一つは、ミント・ドメイン名を作成して\n(NFT、別名ERC721トークンとして)を作成し、自分の公開鍵を指すことができるということです。誰かが\nETH、BTC、Doge、XMRなど（200以上）のトークンを同じドメイン「adam.wallet」に送ると\nすべてが対応する暗号ウォレットに入ります。\n\n--...",
+      "title": "紛らわしい公開鍵の代わりに、カスタムウォレットアドレス（adam.wallet）を使用してください。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我今年学到的最好的事情之一是你可以创建薄荷域名\n(作为NFT（又称ERC721代币），然后将其指向你自己的公钥。有人可以\n发送ETH、BTC、Doge、XMR等（200多种）代币到同一个域名 \"adam.wallet\"，然后全部进入相应的加密货币。\n所有这些都会出现在相应的加密货币钱包中。\n\n--...",
+      "title": "使用自定义的钱包地址（adam.wallet），而不是混乱的公钥!"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我今年學到的最好的事情之一是你可以創建薄荷域名\n(作爲NFT（又稱ERC721代幣），然後將其指向你自己的公鑰。有人可以\n發送ETH、BTC、Doge、XMR等（200多種）代幣到同一個域名 \"adam.wallet\"，然後全部進入相應的加密貨幣。\n所有這些都會出現在相應的加密貨幣錢包中。\n\n--...",
+      "title": "使用自定義的錢包地址（adam.wallet），而不是混亂的公鑰!"
+    }
+  ]
 }
