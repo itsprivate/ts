@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "最初は写真を台無しにしたと怒りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "起初我很生气，因为我毁了这幅画。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "起初我很生氣，因爲我毀了這幅畫。"
+    }
+  ]
 }

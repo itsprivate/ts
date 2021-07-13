@@ -57,5 +57,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "I've been looking into getting real time data on crypto prices for some Python\ncode, and thought I'd make a quick graphic for some well-known coins about their\ncurrent price (13 July 2021) compared to their all time high prices.\n\nThe code uses the Python cryptocompare…"
+  "the_new_excerpt": "I've been looking into getting real time data on crypto prices for some Python\ncode, and thought I'd make a quick graphic for some well-known coins about their\ncurrent price (13 July 2021) compared to their all time high prices.\n\nThe code uses the Python cryptocompare…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "あるPythonコードのために、暗号価格のリアルタイムデータを得ることを検討していました。\n有名なコインの現在の価格（2021年7月13日）と過去の高値との比較を簡単に図にしてみました。\n現在の価格（2021年7月13日）と過去の最高値との比較を簡単に図にしてみました。\n\nコードにはPython cryptocompare...",
+      "title": "現在の暗号価格の史上最高値に対する割合"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我一直在研究为一些Python代码获取加密货币价格的实时数据。\n代码，并认为我应该为一些著名的硬币做一个快速的图形，关于它们的\n目前的价格（2021年7月13日）与它们的历史最高价格相比。\n\n该代码使用Python cryptocompare...",
+      "title": "当前加密货币价格占其历史最高点的百分比"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我一直在研究爲一些Python代碼獲取加密貨幣價格的實時數據。\n代碼，並認爲我應該爲一些著名的硬幣做一個快速的圖形，關於它們的\n目前的價格（2021年7月13日）與它們的歷史最高價格相比。\n\n該代碼使用Python cryptocompare...",
+      "title": "當前加密貨幣價格佔其歷史最高點的百分比"
+    }
+  ]
 }
