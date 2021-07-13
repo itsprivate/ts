@@ -1,0 +1,15 @@
+{
+  "author": "lynndotpy",
+  "original_created_utc": 1626125133,
+  "title": "YSK: Never plug in a flash drive you don't recognize to a computer you care about. Malicious USB devices can hack or fry your computer.",
+  "created_utc": 1626140119,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>There exist devices that look like flash drives, but actually <strong>emulate keyboards to hack your computer, or use capacitors to fry your computer.</strong></p>\n\n<p><strong>Do not plug in a flash drive you do not recognize into a computer you care about!</strong> Also, if you lose your flash drive for awhile, it might have been converted to a malicious USB. </p>\n\n<p>I made a meme to demonstrate:</p>\n\n<p><a href=\"https://i.imgur.com/qVR6F49.jpg\">https://i.imgur.com/qVR6F49.jpg</a></p>\n\n<p>The flash drives that emulate keyboards (known as &quot;Bad USB&quot; or &quot;Rubbery Ducky&quot;) come with scripts that covertly open command prompts on your computer and execute scripts. These can cost less than $5, repurposing an original flash drive.. <a href=\"https://www.youtube.com/watch?v=eriptvQ1BHg\">Here is a short, fictional, educational episode demonstrating  how this works.</a></p>\n\n<p>Flash drives that <em>fry</em> your computer are known as &quot;USB killers&quot;. They use capacitors to charge up from the USB port, and then send the power back to &quot;tase&quot; your computer. <a href=\"https://www.youtube.com/watch?v=3hbuhFwFsDU\">Here is a short video demonstrating the effect.</a>. These can cost from $30 to $100.</p>\n\n<p>If you find a USB device laying around at a place of business or work, give it to your boss or sysadmin. Unknown flash drives should be  investigated on an expendable computer (such as a Raspberry Pi) in a non-networked environment. More advanced Bad USBs can come with a SIM card and cell modem built in, giving it the ability to &quot;phone home&quot; even on a non-networked computer.</p>\n\n<p>Why YSK: This is a very common method for cyberattacks. <a href=\"https://en.wikipedia.org/wiki/Stuxnet\">The US hacked the Iran nuclear program just by leaving USB drives around</a>, but this attack is effective to target almost anyone.</p>\n</div><!-- SC_ON -->",
+  "score": 1151,
+  "permalink": "/r/YouShouldKnow/comments/oj0tx1/ysk_never_plug_in_a_flash_drive_you_dont/",
+  "subreddit": "YouShouldKnow",
+  "id": "oj0tx1",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "There exist devices that look like flash drives, but actually emulate keyboards\nto hack your computer, or use capacitors to fry your computer.\n\nDo not plug in a flash drive you do not recognize into a computer you care\nabout! Also, if you lose your flash drive for awhile, it might have…"
+}
