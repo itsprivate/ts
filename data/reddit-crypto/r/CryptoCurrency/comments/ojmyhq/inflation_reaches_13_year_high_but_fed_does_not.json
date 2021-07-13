@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "インフレ率は13年ぶりの高水準だが、FRBはお金を刷るのをやめる必要はないと考えている"
+    },
+    {
+      "locale": "zh",
+      "title": "通货膨胀达到13年高点，但美联储认为没有必要停止印钞票"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "通貨膨脹達到13年高點，但美聯儲認爲沒有必要停止印鈔票"
+    }
+  ]
 }
