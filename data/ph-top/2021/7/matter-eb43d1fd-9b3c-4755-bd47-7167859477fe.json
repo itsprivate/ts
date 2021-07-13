@@ -88,5 +88,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-13T07:01:00Z"
+  "original_createdAt": "2021-07-13T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Kudosでチームメンバーを評価したり、継続的なフィードバックを収集したり、その他多くの機能を備えています。Matter for Teamsには、無制限のシート、Slackとの統合、そしてFeedback Ritualが含まれます。",
+      "tagline": "TeamsやSlackで、より強く、より幸せなリモートチームの文化を築く"
+    },
+    {
+      "locale": "zh",
+      "description": "用Kudos表彰你的团队成员，收集持续的反馈，以及更多。Matter for Teams包括无限制的席位、Slack整合和反馈仪式。",
+      "tagline": "在Teams、Slack上建立更强大、更快乐的远程团队文化"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "用Kudos表彰你的團隊成員，收集持續的反饋，以及更多。Matter for Teams包括無限制的席位、Slack整合和反饋儀式。",
+      "tagline": "在Teams、Slack上建立更強大、更快樂的遠程團隊文化"
+    }
+  ]
 }
