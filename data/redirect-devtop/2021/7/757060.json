@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-12T12:30:17Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wMjCapFi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lsimic4s7m0k14qpinv9.png",
   "author": "Jorge Sánchez Fernández",
-  "author_url": "https://dev.to/xurxodev"
+  "author_url": "https://dev.to/xurxodev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事は、私のブログの原文を英訳したものです。Alejándonos de ReactJs y VueJs en...",
+      "title": "ReactJsやVueJsからの脱却を目指したClean Architectureによるフロントエンドの構築"
+    },
+    {
+      "locale": "zh",
+      "description": "这篇文章是我博客中原文的英文翻译。Alejándonos de ReactJs y VueJs en...",
+      "title": "在前端使用Clean Architecture摆脱ReactJs和VueJs的影响"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這篇文章是我博客中原文的英文翻譯。Alejándonos de ReactJs y VueJs en...",
+      "title": "在前端使用Clean Architecture擺脫ReactJs和VueJs的影響"
+    }
+  ]
 }
