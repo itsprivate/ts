@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-09T02:44:02Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OBFkokGB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/njm7pjw2mjufpevmeu4k.jpg",
   "author": "Roger Torres",
-  "author_url": "https://dev.to/rogertorres"
+  "author_url": "https://dev.to/rogertorres",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TL;DR: これからDockerをインストールし、Rustプログラム用に5つの異なるコンテナを作成し、それぞれ...",
+      "title": "Docker + Rustの最初のステップ"
+    },
+    {
+      "locale": "zh",
+      "description": "TL;DR: 我们将安装Docker，并为一个Rust程序创建五个不同的容器，每个容器...",
+      "title": "使用Docker + Rust的第一个步骤"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "TL;DR: 我們將安裝Docker，併爲一個Rust程序創建五個不同的容器，每個容器...",
+      "title": "使用Docker + Rust的第一個步驟"
+    }
+  ]
 }
