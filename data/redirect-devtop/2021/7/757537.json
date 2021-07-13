@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-12T22:10:32Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ASZGVIxr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hh20qf2iasphmrzk93h6.png",
   "author": "Nader Dabit",
-  "author_url": "https://dev.to/dabit3"
+  "author_url": "https://dev.to/dabit3",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、ナビゲーション、認証、認可、リダイレクト（クライアントおよびサーバーサイド）、プロフィール表示を可能にするNext.jsアプリを構築していきます。",
+      "title": "SupabaseとNext.jsによるマジックリンク認証とルートコントロール"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我们将建立一个Next.js应用程序，实现导航、认证、授权、重定向（客户端和服务器端），以及一个配置文件视图。",
+      "title": "使用Supabase和Next.js的神奇链接认证和路由控制"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我們將建立一個Next.js應用程序，實現導航、認證、授權、重定向（客戶端和服務器端），以及一個配置文件視圖。",
+      "title": "使用Supabase和Next.js的神奇鏈接認證和路由控制"
+    }
+  ]
 }
