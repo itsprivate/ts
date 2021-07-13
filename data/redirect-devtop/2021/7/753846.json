@@ -43,5 +43,22 @@
   "original_created_at": "2021-07-08T16:21:24Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5uUxu7YW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://welearncode.com/build-a-fullstack-app-nextjs/twitter-image.jpg",
   "author": "Ali Spittel",
-  "author_url": "https://dev.to/aspittel"
+  "author_url": "https://dev.to/aspittel",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Next.jsは私のお気に入りのウェブ開発ツールの一つですが、これはフロントエンドフレームワークです。どうすれば...",
+      "title": "認証、データ、ストレージを備えたフルスタックのNext.jsアプリの作成"
+    },
+    {
+      "locale": "zh",
+      "description": "Next.js是我最喜欢的网络开发工具之一 -- 但它是一个前端框架。你怎么能...",
+      "title": "创建一个具有认证、数据和存储功能的全栈式Next.js应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Next.js是我最喜歡的網絡開發工具之一 -- 但它是一個前端框架。你怎麼能...",
+      "title": "創建一個具有認證、數據和存儲功能的全棧式Next.js應用程序"
+    }
+  ]
 }
