@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "There exist devices that look like flash drives, but actually emulate keyboards\nto hack your computer, or use capacitors to fry your computer.\n\nDo not plug in a flash drive you do not recognize into a computer you care\nabout! Also, if you lose your flash drive for awhile, it might have…"
+  "the_new_excerpt": "There exist devices that look like flash drives, but actually emulate keyboards\nto hack your computer, or use capacitors to fry your computer.\n\nDo not plug in a flash drive you do not recognize into a computer you care\nabout! Also, if you lose your flash drive for awhile, it might have…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "フラッシュドライブのように見えて、実際にはキーボードをエミュレートするデバイスが存在します。\nを使ってコンピュータをハッキングしたり、コンデンサを使ってコンピュータを破壊したりする装置があります。\n\n身に覚えのないフラッシュドライブを大切なコンピュータに接続しないでください。\nお気をつけください。また、フラッシュ・ドライブをしばらくの間紛失してしまうと、それが...",
+      "title": "YSK: 見覚えのないフラッシュドライブを大切なコンピュータに接続しないでください。悪意のあるUSBデバイスは、あなたのコンピュータをハッキングしたり、故障させたりする可能性があります。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "有一些设备看起来像闪存驱动器，但实际上是模拟键盘\n来入侵你的电脑，或使用电容器来烧毁你的电脑。\n\n不要把你不认识的闪存盘插入你关心的电脑中。\n的电脑上！。此外，如果你的闪存驱动器丢失了一段时间，它可能有...",
+      "title": "YSK：千万不要把你不认识的闪存盘插到你关心的电脑上。恶意的USB设备可以入侵或烧毁你的电脑。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "有一些設備看起來像閃存驅動器，但實際上是模擬鍵盤\n來入侵你的電腦，或使用電容器來燒燬你的電腦。\n\n不要把你不認識的閃存盤插入你關心的電腦中。\n的電腦上！。此外，如果你的閃存驅動器丟失了一段時間，它可能有...",
+      "title": "YSK：千萬不要把你不認識的閃存盤插到你關心的電腦上。惡意的USB設備可以入侵或燒燬你的電腦。"
+    }
+  ]
 }

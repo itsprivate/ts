@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これはあまりにも真実です。"
+    },
+    {
+      "locale": "zh",
+      "title": "这一点太真实了。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這一點太真實了。"
+    }
+  ]
 }
