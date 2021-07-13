@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ロケットトレイルで地上に誘導された稲妻"
+    },
+    {
+      "locale": "zh",
+      "title": "霹雳火通过火箭轨道被引导至地面"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "霹靂火通過火箭軌道被引導至地面"
+    }
+  ]
 }
