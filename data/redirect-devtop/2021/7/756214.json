@@ -43,5 +43,22 @@
   "original_created_at": "2021-07-11T13:05:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qwOg24Ad--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cv7xcilm6qjduoczs17q.jpg",
   "author": "yossarian",
-  "author_url": "https://dev.to/captainyossarian"
+  "author_url": "https://dev.to/captainyossarian",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事は4つのパートで構成されていますが、それぞれは互いに無関係です。 働いている人はみんな",
+      "title": "プロが教えるReactのプロップスの打ち方"
+    },
+    {
+      "locale": "zh",
+      "description": "这篇文章由4个部分组成，它们之间互不相关。 每个人都在与...",
+      "title": "如何像专家一样打出React道具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這篇文章由4個部分組成，它們之間互不相關。 每個人都在與...",
+      "title": "如何像專家一樣打出React道具"
+    }
+  ]
 }
