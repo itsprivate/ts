@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-13T07:05:44Z"
+  "original_createdAt": "2021-07-13T07:05:44Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "\"Webflowコミュニティが待ち望んでいたノーコードツール\" Wizedは、Webflowプロジェクトの上に100%カスタムのWebアプリケーションを構築することができます。",
+      "tagline": "WebflowでWebアプリケーションを設計し、Wizedで構築することができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "\"Webflow社区一直在等待的无代码工具\"。Wized使您能够在Webflow项目的基础上建立100%的自定义Web应用程序。",
+      "tagline": "用Webflow设计你的网络应用程序，用Wized构建它"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "\"Webflow社區一直在等待的無代碼工具\"。Wized使您能夠在Webflow項目的基礎上建立100%的自定義Web應用程序。",
+      "tagline": "用Webflow設計你的網絡應用程序，用Wized構建它"
+    }
+  ]
 }
