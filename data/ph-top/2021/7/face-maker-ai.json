@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-13T07:14:15Z"
+  "original_createdAt": "2021-07-13T07:14:15Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Face Maker AIは、スケッチをもとに、写真のようにリアルな顔を生成します。",
+      "tagline": "スケッチをフォトリアリスティックな顔に変える"
+    },
+    {
+      "locale": "zh",
+      "description": "Face Maker AI将一张草图生成一张逼真的脸。",
+      "tagline": "将草图变成逼真的面孔"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Face Maker AI將一張草圖生成一張逼真的臉。",
+      "tagline": "將草圖變成逼真的面孔"
+    }
+  ]
 }
