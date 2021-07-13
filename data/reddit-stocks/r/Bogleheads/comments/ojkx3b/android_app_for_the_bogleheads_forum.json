@@ -102,5 +102,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1626198696,
-  "the_new_excerpt": "Hi Bogleheads community,\n\nI wrote a free app called Boglefeed [https://boglefeed.netlify.app/], which\ndisplays content from the Bogleheads forum in an infinite scrolling feed. If you\nare a regular Bogleheads user and prefer a mobile-native experience on your\nphone, this app is for you.\n\nAny feedback…"
+  "the_new_excerpt": "Hi Bogleheads community,\n\nI wrote a free app called Boglefeed [https://boglefeed.netlify.app/], which\ndisplays content from the Bogleheads forum in an infinite scrolling feed. If you\nare a regular Bogleheads user and prefer a mobile-native experience on your\nphone, this app is for you.\n\nAny feedback…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "こんにちは、Bogleheadsコミュニティです。\n\n私はBoglefeed [https://boglefeed.netlify.app/]という無料アプリを書きました。\nBogleheadsのフォーラムからのコンテンツを無限にスクロールするフィードで表示します。もしあなたが\nいつも Bogleheads を利用していて、モバイルネイティブな体験をしたい場合は\nこのアプリはあなたのためのものです。\n\nご意見・ご感想は...",
+      "title": "BogleheadsフォーラムのAndroidアプリ"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "嗨，Bogleheads社区。\n\n我写了一个叫Boglefeed的免费应用[https://boglefeed.netlify.app/]，它可以\n它以无限滚动的方式显示来自Bogleheads论坛的内容。如果你\n是一个普通的Bogleheads用户，并且喜欢在你的手机上有一个移动原生的体验。\n手机上的体验，这个应用程序是为你准备的。\n\n任何反馈...",
+      "title": "Bogleheads论坛的安卓应用"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "嗨，Bogleheads社區。\n\n我寫了一個叫Boglefeed的免費應用[https://boglefeed.netlify.app/]，它可以\n它以無限滾動的方式顯示來自Bogleheads論壇的內容。如果你\n是一個普通的Bogleheads用戶，並且喜歡在你的手機上有一個移動原生的體驗。\n手機上的體驗，這個應用程序是爲你準備的。\n\n任何反饋...",
+      "title": "Bogleheads論壇的安卓應用"
+    }
+  ]
 }
