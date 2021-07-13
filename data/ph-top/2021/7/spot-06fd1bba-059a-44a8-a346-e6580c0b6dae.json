@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-13T07:05:00Z"
+  "original_createdAt": "2021-07-13T07:05:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Spotは、既存のツールと連携するナレッジベースです。一口サイズのドキュメントをその場で書いたり、Slackでは失われてしまうものをバックアップしたり、Drive、Notion、Intercom、Zendeskなどに散らばっているナレッジを検索したりすることができます。",
+      "tagline": "チームに合わせて拡張できるナレッジベース"
+    },
+    {
+      "locale": "zh",
+      "description": "Spot是与你现有的工具一起工作的知识库：即时编写一口大小的文档，备份本来会在Slack中丢失的内容，并搜索散落在Drive、Notion、Intercom、Zendesk和其他许多地方的知识。",
+      "tagline": "与你的团队一起扩展的知识库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Spot是與你現有的工具一起工作的知識庫：即時編寫一口大小的文檔，備份本來會在Slack中丟失的內容，並搜索散落在Drive、Notion、Intercom、Zendesk和其他許多地方的知識。",
+      "tagline": "與你的團隊一起擴展的知識庫"
+    }
+  ]
 }
