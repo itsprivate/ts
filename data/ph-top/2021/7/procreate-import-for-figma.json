@@ -48,5 +48,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-13T12:13:15Z"
+  "original_createdAt": "2021-07-13T12:13:15Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "作成したファイルを、名前の付いたレイヤー、ブレンド・モード、クリッピング・マスクを使ってFigmaにインポートします。",
+      "tagline": ".procreateファイルをFigmaにインポート"
+    },
+    {
+      "locale": "zh",
+      "description": "将您的创作文件导入Figma，并配有命名的图层、混合模式和剪裁遮罩。",
+      "tagline": "将你的.procreate文件导入Figma"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "將您的創作文件導入Figma，並配有命名的圖層、混合模式和剪裁遮罩。",
+      "tagline": "將你的.procreate文件導入Figma"
+    }
+  ]
 }
