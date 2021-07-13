@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-05T16:33:08Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vfih2pus--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q5h2eyqvkatv3xqhgvo5.png",
   "author": "kpiteng",
-  "author_url": "https://dev.to/kpiteng"
+  "author_url": "https://dev.to/kpiteng",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "安全なReactネイティブアプリケーションを開発する方法をご紹介します。 キーポイント - スクリーンショット...",
+      "title": "React Nativeアプリケーションのセキュリティ"
+    },
+    {
+      "locale": "zh",
+      "description": "发现开发安全的react native应用程序的方法。 关键点 - 截图...",
+      "title": "保证React Native应用的安全"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "發現開發安全的react native應用程序的方法。 關鍵點 - 截圖...",
+      "title": "保證React Native應用的安全"
+    }
+  ]
 }
