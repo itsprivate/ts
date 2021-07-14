@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これは、ちょっとしたライトのようです。"
+    },
+    {
+      "locale": "zh",
+      "title": "这看起来还挺有吸引力的"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這看起來還挺有吸引力的"
+    }
+  ]
 }
