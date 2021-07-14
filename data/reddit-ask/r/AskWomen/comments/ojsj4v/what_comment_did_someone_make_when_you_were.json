@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "若い頃に誰かに言われて、（良くも悪くも）ずっと心に残っているコメントはありますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "在你年轻的时候，有人对你的外表做了什么评论，一直让你记忆犹新（无论好坏）？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在你年輕的時候，有人對你的外表做了什麼評論，一直讓你記憶猶新（無論好壞）？"
+    }
+  ]
 }
