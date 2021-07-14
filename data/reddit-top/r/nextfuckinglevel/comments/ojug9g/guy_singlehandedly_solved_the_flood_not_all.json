@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ガイはたった一人で洪水を解決した。すべてのヒーローがマントを着ているわけではありません。"
+    },
+    {
+      "locale": "zh",
+      "title": "盖伊单枪匹马地解决了洪水问题。不是所有的英雄都穿上了斗篷。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "蓋伊單槍匹馬地解決了洪水問題。不是所有的英雄都穿上了斗篷。"
+    }
+  ]
 }
