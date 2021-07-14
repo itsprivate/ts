@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-14T07:07:05Z"
+  "original_createdAt": "2021-07-14T07:07:05Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Hexomaticは、コード不要のデータ抽出・作業自動化プラットフォームです。インターネットをデータソースとして活用し、すぐに使える自動化機能を活用して、時間のかかる作業を任せることができます。HexometerとHexowatchを開発したチームがお届けします。",
+      "tagline": "コード不要のポイント＆クリック式グロースハッキング・プラットフォーム"
+    },
+    {
+      "locale": "zh",
+      "description": "Hexomatic是一个没有代码的数据提取和工作自动化平台，使你能够利用互联网作为你自己的数据源，并利用现成的自动化来委托耗时的任务。由Hexometer和Hexowatch背后的团队为您带来。",
+      "tagline": "无代码的点击式增长黑客平台"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Hexomatic是一個沒有代碼的數據提取和工作自動化平臺，使你能夠利用互聯網作爲你自己的數據源，並利用現成的自動化來委託耗時的任務。由Hexometer和Hexowatch背後的團隊爲您帶來。",
+      "tagline": "無代碼的點擊式增長黑客平臺"
+    }
+  ]
 }
