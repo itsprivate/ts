@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-12T15:04:03Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--b5N2g-dA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bgkdl50423vyx7rfrtxx.jpg",
   "author": "Dhaiwat Pandya",
-  "author_url": "https://dev.to/dhaiwat10"
+  "author_url": "https://dev.to/dhaiwat10",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "React Testing Libraryが嫌いな人はいないでしょう。Reactのテストを書いている人は、おそらくよく使っていると思います....",
+      "title": "Reactテストライブラリの理解"
+    },
+    {
+      "locale": "zh",
+      "description": "谁不喜欢React测试库？如果你为React写测试，你可能经常使用它....",
+      "title": "了解React测试库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "誰不喜歡React測試庫？如果你爲React寫測試，你可能經常使用它....",
+      "title": "瞭解React測試庫"
+    }
+  ]
 }
