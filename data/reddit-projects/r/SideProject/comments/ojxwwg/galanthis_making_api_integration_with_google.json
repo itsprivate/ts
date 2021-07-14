@@ -57,5 +57,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "OVERVIEW\n\nHi folks,\n\nI've been hankering for a 'real life' project to build for a fair while, and\nwhile quite simple I'm really pleased to introduce Galanthis, an API designed to\nmake other API's easier to use with Google Sheets.\n\nGalanthis really just acts as a middleman, converting JSON objects…"
+  "the_new_excerpt": "OVERVIEW\n\nHi folks,\n\nI've been hankering for a 'real life' project to build for a fair while, and\nwhile quite simple I'm really pleased to introduce Galanthis, an API designed to\nmake other API's easier to use with Google Sheets.\n\nGalanthis really just acts as a middleman, converting JSON objects…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "オーバービュー\n\n皆さん、こんにちは。\n\nしばらくの間、私は「現実の」プロジェクトを作りたいと思っていました。\n非常にシンプルなものですが、Galanthisをご紹介します。\nGalanthisは、他のAPIをGoogle Sheetsで使いやすくするために設計されたAPIです。\n\nGalanthisは、JSONオブジェクトを...",
+      "title": "Galanthis。Google SheetsでのAPI統合をより良くするために"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "综述\n\n嗨，伙计们。\n\n我一直想做一个 \"现实生活 \"的项目，已经有一段时间了。\n虽然很简单，但我真的很高兴地介绍Galanthis，一个旨在让用户在使用过程中不受影响的API。\n一个旨在使其他API更容易与Google Sheets一起使用的API。\n\nGalanthis实际上只是充当一个中间人，将JSON对象转换为其他API。",
+      "title": "Galanthis。让API与谷歌表格的整合更完美"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "綜述\n\n嗨，夥計們。\n\n我一直想做一個 \"現實生活 \"的項目，已經有一段時間了。\n雖然很簡單，但我真的很高興地介紹Galanthis，一個旨在讓用戶在使用過程中不受影響的API。\n一個旨在使其他API更容易與Google Sheets一起使用的API。\n\nGalanthis實際上只是充當一箇中間人，將JSON對象轉換爲其他API。",
+      "title": "Galanthis。讓API與谷歌表格的整合更完美"
+    }
+  ]
 }
