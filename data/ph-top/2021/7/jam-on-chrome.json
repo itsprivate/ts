@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-14T07:05:00Z"
+  "original_createdAt": "2021-07-14T07:05:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Jam on Chromeは、ウェブサイトのコピーにコメントや注釈を付けたり、ページ上で更新することができるクローム拡張機能です。",
+      "tagline": "ウェブ上の付箋紙 - ウェブサイト上でコメントができる"
+    },
+    {
+      "locale": "zh",
+      "description": "Jam on Chrome是一个chrome扩展，让你在页面上评论、注释，甚至更新你的网站副本。",
+      "tagline": "网络便条--在你的网站上直接发表评论"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Jam on Chrome是一個chrome擴展，讓你在頁面上評論、註釋，甚至更新你的網站副本。",
+      "tagline": "網絡便條--在你的網站上直接發表評論"
+    }
+  ]
 }
