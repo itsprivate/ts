@@ -134,5 +134,22 @@
     "retweet_count": 179,
     "favorite_count": 1546,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @PawelMorski: インフレヘッジ https://t.co/S5sLYxsf7d",
+      "retweeted_status_full_text": "インフレヘッジ https://t.co/S5sLYxsf7d"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @PawelMorski: 通胀对冲https://t.co/S5sLYxsf7d",
+      "retweeted_status_full_text": "通货膨胀套期保值 https://t.co/S5sLYxsf7d"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @PawelMorski: 通脹對沖https://t.co/S5sLYxsf7d",
+      "retweeted_status_full_text": "通貨膨脹套期保值 https://t.co/S5sLYxsf7d"
+    }
+  ]
 }
