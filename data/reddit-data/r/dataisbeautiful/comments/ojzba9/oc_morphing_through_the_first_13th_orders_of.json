@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] Zernike多項式の最初の13次までのモーフィング"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]通过Zernike Polynomials的前13阶进行变形"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]通過Zernike Polynomials的前13階進行變形"
+    }
+  ]
 }
