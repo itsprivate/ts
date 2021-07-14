@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-13T06:21:13Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YL8MpIY1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/703ef88pi5k0sjdku961.jpg",
   "author": "Chris Bongers",
-  "author_url": "https://dev.to/dailydevtips1"
+  "author_url": "https://dev.to/dailydevtips1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "マージリクエストからのコミットや、Dependabotのバッジに「...」と書かれているのを見たことがあるかもしれません。",
+      "title": "GitHubで自分のコミットを検証する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "你可能已经看到一些来自合并-请求或Dependabot的提交有一个徽章，说明...",
+      "title": "如何验证你在GitHub上的提交"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你可能已經看到一些來自合併-請求或Dependabot的提交有一個徽章，說明...",
+      "title": "如何驗證你在GitHub上的提交"
+    }
+  ]
 }
