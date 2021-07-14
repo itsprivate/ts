@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-12T04:48:39Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dsqDBAjj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tpl8yxgiz434ds904orl.jpg",
   "author": "KUMAR HARSH",
-  "author_url": "https://dev.to/cenacr007_harsh"
+  "author_url": "https://dev.to/cenacr007_harsh",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "同じコードを何度も書くことにうんざりしていたり、時間を節約したいと思っていたり...。",
+      "title": "VSコードでのカスタムスニペット"
+    },
+    {
+      "locale": "zh",
+      "description": "厌倦了一遍又一遍地写同样的代码吗？或者想在一个地方节省时间。",
+      "title": "VS代码中的自定义片段"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "厭倦了一遍又一遍地寫同樣的代碼嗎？或者想在一個地方節省時間。",
+      "title": "VS代碼中的自定義片段"
+    }
+  ]
 }
