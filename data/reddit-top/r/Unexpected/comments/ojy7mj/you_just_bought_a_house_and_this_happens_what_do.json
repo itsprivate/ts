@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "家を買ったばかりでこんなことになるのか。あなたはどうしますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你刚买了房子，就发生了这种情况。你会怎么做？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你剛買了房子，就發生了這種情況。你會怎麼做？"
+    }
+  ]
 }
