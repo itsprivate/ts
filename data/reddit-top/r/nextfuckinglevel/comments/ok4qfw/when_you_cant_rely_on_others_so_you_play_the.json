@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "人に頼れないので、フルートとピアノを同時に演奏する場合。"
+    },
+    {
+      "locale": "zh",
+      "title": "当你不能依靠别人的时候，所以你同时吹奏长笛和钢琴。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當你不能依靠別人的時候，所以你同時吹奏長笛和鋼琴。"
+    }
+  ]
 }
