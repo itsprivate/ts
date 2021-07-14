@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-13T17:46:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zHUYmQGI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hhf2lj1uf4mmcu84n4tu.png",
   "author": "Blue edge",
-  "author_url": "https://dev.to/blueedgetechno"
+  "author_url": "https://dev.to/blueedgetechno",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "開発者の皆さん、こんにちは。これは私が7日間かけてReactで作ったwindows11クローンです。ご希望は...",
+      "title": "React JsでのWindows 11対応💻🌈。"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，这是我在7天内用React做的一个windows11的克隆。你是否想...",
+      "title": "Windows 11 in React Js 💻 🌈"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，這是我在7天內用React做的一個windows11的克隆。你是否想...",
+      "title": "Windows 11 in React Js 💻 🌈"
+    }
+  ]
 }
