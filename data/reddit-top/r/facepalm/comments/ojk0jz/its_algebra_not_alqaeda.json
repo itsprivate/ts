@@ -42,5 +42,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "アルカイダではなく、アル・ゲブラです。"
+    },
+    {
+      "locale": "zh",
+      "title": "是Al-Gebra，不是Al-Qaeda"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "是Al-Gebra，不是Al-Qaeda"
+    }
+  ]
 }
