@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-14T07:05:00Z"
+  "original_createdAt": "2021-07-14T07:05:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ContainIQ（YC S21）は、Kubernetesのネイティブなモニタリングを即座に提供します。事前に構築されたダッシュボードとモニターは、1行のインストールですぐに使用できます。eBPFを使用して、カーネルから直接、深いレベルのインサイトを提供します。",
+      "tagline": "瞬時にKubernetesネイティブなモニタリングを実現"
+    },
+    {
+      "locale": "zh",
+      "description": "ContainIQ（YC S21）即时提供Kubernetes原生监控。我们预制的仪表板和监控器只需单线安装就可以使用。使用eBPF，我们直接从内核中提供深层次的洞察力。",
+      "tagline": "Kubernetes原生监控的即时性"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "ContainIQ（YC S21）即時提供Kubernetes原生監控。我們預製的儀表板和監控器只需單線安裝就可以使用。使用eBPF，我們直接從內核中提供深層次的洞察力。",
+      "tagline": "Kubernetes原生監控的即時性"
+    }
+  ]
 }
