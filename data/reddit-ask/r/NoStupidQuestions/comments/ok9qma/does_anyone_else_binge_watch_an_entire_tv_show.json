@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "テレビ番組を最後の数話を除いて全部見てしまい、何ヶ月も最後まで見ないという人はいませんか？"
+    },
+    {
+      "locale": "zh",
+      "title": "是否有人会狂看整部电视剧，除了最后几集，然后推后几个月才看完？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "是否有人會狂看整部電視劇，除了最後幾集，然後推後幾個月纔看完？"
+    }
+  ]
 }
