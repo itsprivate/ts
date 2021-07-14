@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] 1週間の無効なSSHログイン試行回数、国別"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]一周内无效的SSH登录尝试的数量，按国家分类"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]一週內無效的SSH登錄嘗試的數量，按國家分類"
+    }
+  ]
 }
