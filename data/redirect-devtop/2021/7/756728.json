@@ -50,5 +50,22 @@
   "original_created_at": "2021-07-12T06:19:40Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qDS3eG_o--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/innu1q7znffloq0rfifv.jpeg",
   "author": "Aditya Gaur",
-  "author_url": "https://dev.to/adityagaur"
+  "author_url": "https://dev.to/adityagaur",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "クラウド・コンピューティングの世界では、セキュリティは二重性を持つものです。二重性というのは、...",
+      "title": "クラウドを保護するための10のステップ"
+    },
+    {
+      "locale": "zh",
+      "description": "在云计算领域，安全是拥有双重性的东西。从这个意义上说，双重性是指...",
+      "title": "保护你的云的10个步骤"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在雲計算領域，安全是擁有雙重性的東西。從這個意義上說，雙重性是指...",
+      "title": "保護你的雲的10個步驟"
+    }
+  ]
 }
