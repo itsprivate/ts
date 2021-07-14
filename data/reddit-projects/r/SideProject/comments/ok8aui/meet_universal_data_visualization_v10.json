@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ユニバーサルデータビジュアライゼーション v1.0のご紹介"
+    },
+    {
+      "locale": "zh",
+      "title": "满足通用数据可视化v1.0"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "滿足通用數據可視化v1.0"
+    }
+  ]
 }

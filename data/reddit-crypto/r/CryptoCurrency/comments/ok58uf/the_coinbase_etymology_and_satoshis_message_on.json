@@ -42,5 +42,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "To most people, Coinbase just means the crypto exchange. However, it took its\nname from a special field in Bitcoin blocks called \"coinbase\".\n\nThe fun part is that this field can contain arbitrary data, and this has been\nused by Satoshi himself, digital graffiti artists and nerds looking for a…"
+  "the_new_excerpt": "To most people, Coinbase just means the crypto exchange. However, it took its\nname from a special field in Bitcoin blocks called \"coinbase\".\n\nThe fun part is that this field can contain arbitrary data, and this has been\nused by Satoshi himself, digital graffiti artists and nerds looking for a…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ほとんどの人にとって、Coinbaseは暗号化された取引所を意味するだけです。しかし、その名前の由来は\n名前の由来は、ビットコインのブロック内にある \"coinbase \"という特殊なフィールドです。\n\n面白いのは、このフィールドには任意のデータを入れることができ、これをサトシ自身や、デジタルグラフィティアーティスト、オタクが利用してきました。\nこのフィールドは、サトシ自身や、デジタルグラフィティアーティスト、オタクたちが使用しています。",
+      "title": "コインベースの語源とビットコインのブロックチェーンにおけるサトシのメッセージ"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "对大多数人来说，Coinbase只是意味着加密货币交易所。然而，它的名字\n它的名字来自于比特币区块中一个名为 \"coinbase \"的特殊字段。\n\n有趣的是，这个字段可以包含任意的数据，而这一点已经被\n这被中本聪本人、数字涂鸦艺术家和正在寻找 \"硬币 \"的书呆子们所使用。",
+      "title": "Coinbase的词源和中本聪在比特币区块链上的信息"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "對大多數人來說，Coinbase只是意味着加密貨幣交易所。然而，它的名字\n它的名字來自於比特幣區塊中一個名爲 \"coinbase \"的特殊字段。\n\n有趣的是，這個字段可以包含任意的數據，而這一點已經被\n這被中本聰本人、數字塗鴉藝術家和正在尋找 \"硬幣 \"的書呆子們所使用。",
+      "title": "Coinbase的詞源和中本聰在比特幣區塊鏈上的信息"
+    }
+  ]
 }
