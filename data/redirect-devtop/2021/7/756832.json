@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-12T08:48:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--otwwMwES--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://szkolatestow.online/wp-content/uploads/2021/07/tdd.png",
   "author": "Ola Kunysz",
-  "author_url": "https://dev.to/olaqnysz"
+  "author_url": "https://dev.to/olaqnysz",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "テスト駆動開発は、テストやプログラミングに対する考え方を変えるテクニックです。しかし、それはシームレスで簡単に始められるということではありません。実際に始めてみると、さまざまな課題があります。そこで今回は、それらの課題を解決し、プログラマの生活を楽にするためのヒントをいくつかご紹介したいと思います。",
+      "title": "TDDを使わない理由とは？"
+    },
+    {
+      "locale": "zh",
+      "description": "测试驱动开发是一种改变我们对测试和编程思考方式的技术。这并不意味着它是无缝的或容易开始的。当你开始的时候，在你的路上有很多挑战。这就是为什么我想解决其中的一些问题，并分享一些提示，使你的程序员的生活更轻松。",
+      "title": "为什么你可能不愿意使用TDD？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "測試驅動開發是一種改變我們對測試和編程思考方式的技術。這並不意味着它是無縫的或容易開始的。當你開始的時候，在你的路上有很多挑戰。這就是爲什麼我想解決其中的一些問題，並分享一些提示，使你的程序員的生活更輕鬆。",
+      "title": "爲什麼你可能不願意使用TDD？"
+    }
+  ]
 }
