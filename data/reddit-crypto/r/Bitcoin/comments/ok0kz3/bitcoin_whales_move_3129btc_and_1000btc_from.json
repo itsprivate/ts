@@ -59,5 +59,19 @@
     "type": "youtube.com"
   },
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインホエールは、3,129BTCと1,000BTCをBinanceとCoinbaseからウォレットに移動。"
+    },
+    {
+      "locale": "zh",
+      "title": "比特币鲸鱼从Binance和Coinbase转移3,129BTC和1,000BTC到钱包。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比特幣鯨魚從Binance和Coinbase轉移3,129BTC和1,000BTC到錢包。"
+    }
+  ]
 }
