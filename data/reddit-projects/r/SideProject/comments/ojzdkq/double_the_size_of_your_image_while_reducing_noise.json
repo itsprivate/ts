@@ -37,5 +37,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "So managed to resize an image with size 256x256px to 1600x1600px without loosing\nthe quality.\n\nOriginal image: https://i.imgur.com/ZzvYfYX.jpeg\nResized Image using ReSizer.in : https://i.imgur.com/EPKarz0.jpeg\n\nThe tool is 100% free!\nReSizer.in [https://ReSizer.in]"
+  "the_new_excerpt": "So managed to resize an image with size 256x256px to 1600x1600px without loosing\nthe quality.\n\nOriginal image: https://i.imgur.com/ZzvYfYX.jpeg\nResized Image using ReSizer.in : https://i.imgur.com/EPKarz0.jpeg\n\nThe tool is 100% free!\nReSizer.in [https://ReSizer.in]",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "256x256pxの画像を1600x1600pxに画質を落とさずにリサイズできました。\nリサイズすることができた。\n\n元の画像： https://i.imgur.com/ZzvYfYX.jpeg\nReSizer.inでリサイズした画像： https://i.imgur.com/EPKarz0.jpeg\n\nこのツールは100％無料です。\nReSizer.in [https://ReSizer.in]",
+      "title": "ノイズを抑えつつ、画像サイズを2倍にすることができます"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "所以我设法将一张256x256px的图片调整到1600x1600px而不损失质量。\n质量。\n\n原始图像：https://i.imgur.com/ZzvYfYX.jpeg\n使用ReSizer.in调整的图片：https://i.imgur.com/EPKarz0.jpeg\n\n该工具是100%免费的!\nReSizer.in [https://ReSizer.in]",
+      "title": "在减少噪音的同时，使你的图像尺寸增加一倍"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "所以我設法將一張256x256px的圖片調整到1600x1600px而不損失質量。\n質量。\n\n原始圖像：https://i.imgur.com/ZzvYfYX.jpeg\n使用ReSizer.in調整的圖片：https://i.imgur.com/EPKarz0.jpeg\n\n該工具是100%免費的!\nReSizer.in [https://ReSizer.in]",
+      "title": "在減少噪音的同時，使你的圖像尺寸增加一倍"
+    }
+  ]
 }
