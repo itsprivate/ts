@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "食べる。眠る。Bitcoin。繰り返す。"
+    },
+    {
+      "locale": "zh",
+      "title": "吃饭。睡觉。比特币。重复。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "喫飯。睡覺。比特幣。重複。"
+    }
+  ]
 }
