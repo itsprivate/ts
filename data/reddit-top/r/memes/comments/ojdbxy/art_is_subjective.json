@@ -42,5 +42,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "アートは主観的なもの"
+    },
+    {
+      "locale": "zh",
+      "title": "艺术是主观的"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "藝術是主觀的"
+    }
+  ]
 }
