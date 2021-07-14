@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-09T18:24:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vGSveTE2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tpqis0m3dgk5ajydjucf.png",
   "author": "Christopher Glikpo",
-  "author_url": "https://dev.to/cglikpo"
+  "author_url": "https://dev.to/cglikpo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Socket.ioは、クライアントとウェブアプリケーション間のリアルタイム通信を可能にする、ウェブアプリケーション用のJavascriptライブラリです。",
+      "title": "Socket.ioを始めよう"
+    },
+    {
+      "locale": "zh",
+      "description": "Socket.io是一个用于网络应用的Javascript库，允许客户端之间进行实时通信。",
+      "title": "开始使用Socket.io"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Socket.io是一個用於網絡應用的Javascript庫，允許客戶端之間進行實時通信。",
+      "title": "開始使用Socket.io"
+    }
+  ]
 }
