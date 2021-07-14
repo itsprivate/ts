@@ -93,5 +93,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-14T07:01:00Z"
+  "original_createdAt": "2021-07-14T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Teal's Job Trackerは、最も効率的で楽しい求職活動の方法です。LinkedIn や Indeed などのサイトからの求人情報を、Chrome 拡張機能を使って簡単に保存できます。検索結果を整理し、進捗状況を確認して、最適な仕事を見つけましょう。",
+      "tagline": "あなたの求職活動を1つの場所で、無料で追跡・整理することができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "Teal的工作跟踪器是管理求职的最有效和最有趣的方式。通过我们的Chrome扩展，可以轻松地保存LinkedIn和Indeed等网站的工作。组织你的搜索，跟踪你的进展，并找到完美的工作。",
+      "tagline": "在一个地方免费跟踪和组织你的工作搜索"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Teal的工作跟蹤器是管理求職的最有效和最有趣的方式。通過我們的Chrome擴展，可以輕鬆地保存LinkedIn和Indeed等網站的工作。組織你的搜索，跟蹤你的進展，並找到完美的工作。",
+      "tagline": "在一個地方免費跟蹤和組織你的工作搜索"
+    }
+  ]
 }
