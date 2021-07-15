@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Googleマップで4日間歩くと表示されるのは、休憩時間を考慮しているのか、それとも4日間歩きっぱなしなのか。"
+    },
+    {
+      "locale": "zh",
+      "title": "当谷歌地图说一段旅程需要步行4天时，是否考虑到了休息时间或只是不停地步行4天？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當谷歌地圖說一段旅程需要步行4天時，是否考慮到了休息時間或只是不停地步行4天？"
+    }
+  ]
 }
