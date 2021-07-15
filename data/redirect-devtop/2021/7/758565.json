@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-13T21:06:53Z",
   "image": "https://dev.to/social_previews/article/758565.png",
   "author": "Guilherme_Konan",
-  "author_url": "https://dev.to/gmkonan"
+  "author_url": "https://dev.to/gmkonan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactがkey属性の使用について悩んでいることを不思議に思ったことはありませんか？なぜこれを使用しなければならないのか...",
+      "title": "なぜReactでは \"key \"を使うのか？"
+    },
+    {
+      "locale": "zh",
+      "description": "有没有想过，为什么React一直在烦着你使用key属性？为什么我们需要使用这个，如果...",
+      "title": "为什么我们在React中使用 \"key\"？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有沒有想過，爲什麼React一直在煩着你使用key屬性？爲什麼我們需要使用這個，如果...",
+      "title": "爲什麼我們在React中使用 \"key\"？"
+    }
+  ]
 }
