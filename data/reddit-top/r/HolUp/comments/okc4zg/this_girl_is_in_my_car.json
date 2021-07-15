@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"この少女は私の車にいる\""
+    },
+    {
+      "locale": "zh",
+      "title": "\"这个女孩在我的车里\""
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"這個女孩在我的車裏\""
+    }
+  ]
 }
