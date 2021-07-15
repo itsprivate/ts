@@ -52,5 +52,22 @@
   "original_created_at": "2021-07-13T20:54:35Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lUjplSHh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5m1f803xlnlrrniuz7bm.png",
   "author": "Ryan Carniato",
-  "author_url": "https://dev.to/ryansolid"
+  "author_url": "https://dev.to/ryansolid",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このような記事を書く必要があるとは想像もしていなかった時期がありました。もし、あなたが...",
+      "title": "eコマースを制するJavaScriptフレームワークの構築"
+    },
+    {
+      "locale": "zh",
+      "description": "曾几何时，我从未想象过需要写这样一篇文章。如果你是...",
+      "title": "构建JavaScript框架，征服电商"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "曾幾何時，我從未想象過需要寫這樣一篇文章。如果你是...",
+      "title": "構建JavaScript框架，征服電商"
+    }
+  ]
 }
