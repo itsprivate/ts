@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-14T04:18:58Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--M7wP4wnW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4jjyskr1surj0wvjnyf2.png",
   "author": "Ayushi Rawat ",
-  "author_url": "https://dev.to/ayushi7rawat"
+  "author_url": "https://dev.to/ayushi7rawat",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "読者の皆さん、こんにちは。  クライアントがサーバーにリクエストを送ると、レスポンスには必ずステータス...",
+      "title": "知っておきたいHTTPステータスコード"
+    },
+    {
+      "locale": "zh",
+      "description": "读者您好!   每当客户端向服务器发送请求时，响应总是包含一个状态...",
+      "title": "你必须知道的HTTP状态代码"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "讀者您好!   每當客戶端向服務器發送請求時，響應總是包含一個狀態...",
+      "title": "你必須知道的HTTP狀態代碼"
+    }
+  ]
 }
