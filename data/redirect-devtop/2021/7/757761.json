@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-13T04:22:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DDi82wMF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/igcz0gwpcadh1mlrwj07.png",
   "author": "Miško Hevery",
-  "author_url": "https://dev.to/mhevery"
+  "author_url": "https://dev.to/mhevery",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "すべてのフレームワークは、状態を保持する必要があります。フレームワークは、テンプレートを実行することで、状態を構築します。ほとんどの...",
+      "title": "HTMLを先に、JavaScriptを後に：ウェブスピードの秘訣とは？"
+    },
+    {
+      "locale": "zh",
+      "description": "所有的框架都需要保持状态。框架通过执行模板建立起状态。大多数...",
+      "title": "以HTML为先，以JavaScript为后：网络速度的秘密!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "所有的框架都需要保持狀態。框架通過執行模板建立起狀態。大多數...",
+      "title": "以HTML爲先，以JavaScript爲後：網絡速度的祕密!"
+    }
+  ]
 }
