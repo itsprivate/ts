@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-15T07:04:59Z"
+  "original_createdAt": "2021-07-15T07:04:59Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "unavatar.ioは、DeviantArt、Dribbble、DuckDuckGo、GitHub、Gravatar、Instagram、Reddit、SoundCloud、Substack、Telegram、Twitter、YouTubeなど、サポートされているプロバイダに対してアバターのクエリを実行する小さなサービスです。",
+      "tagline": "ユニファイド・ユーザー・アバターの取得"
+    },
+    {
+      "locale": "zh",
+      "description": "unavatar.io是一个小小的服务，它将获得对供应商支持的头像查询，是DeviantArt、Dribbble、DuckDuckGo、GitHub、Gravatar、Instagram、Reddit、SoundCloud、Substack、Telegram、Twitter、YouTube，以及更多的供应商。",
+      "tagline": "获得统一的用户头像"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "unavatar.io是一個小小的服務，它將獲得對供應商支持的頭像查詢，是DeviantArt、Dribbble、DuckDuckGo、GitHub、Gravatar、Instagram、Reddit、SoundCloud、Substack、Telegram、Twitter、YouTube，以及更多的供應商。",
+      "tagline": "獲得統一的用戶頭像"
+    }
+  ]
 }
