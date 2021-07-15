@@ -66,5 +66,19 @@
   "retweet_count": 50,
   "favorite_count": 55,
   "possibly_sensitive": false,
-  "original_created_at": "Thu Jul 15 11:07:44 +0000 2021"
+  "original_created_at": "Thu Jul 15 11:07:44 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "Johnson &amp; Johnsonは、一部のサンプルから発がん性のある化学物質であるベンゼンが検出されたため、米国の店舗から一部の日焼け止めを回収すると発表しました #WSJWhatsNow https://t.co/uJHx9H8dw7"
+    },
+    {
+      "locale": "zh",
+      "full_text": "强生公司表示，它正在从美国商店召回一些防晒霜，因为在一些样品中检测到了苯，一种潜在的致癌化学物质，#WSJWhatsNow https://t.co/uJHx9H8dw7。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "強生公司表示，它正在從美國商店召回一些防曬霜，因爲在一些樣品中檢測到了苯，一種潛在的致癌化學物質，#WSJWhatsNow https://t.co/uJHx9H8dw7。"
+    }
+  ]
 }
