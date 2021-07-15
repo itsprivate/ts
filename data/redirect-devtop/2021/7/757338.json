@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-12T17:55:29Z",
   "image": "https://dev.to/social_previews/article/757338.png",
   "author": "StevenMcGown",
-  "author_url": "https://dev.to/stevenmcgown"
+  "author_url": "https://dev.to/stevenmcgown",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私が投稿した「Docker for Dummies」に多くの好意的なフィードバックをいただいた後、私は記事を作成したいと思いました...",
+      "title": "Kubernetes for Dummies"
+    },
+    {
+      "locale": "zh",
+      "description": "在收到对我的帖子 \"傻瓜式的Docker \"的许多积极反馈后，我想创建一个帖子。",
+      "title": "傻瓜式的Kubernetes"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在收到對我的帖子 \"傻瓜式的Docker \"的許多積極反饋後，我想創建一個帖子。",
+      "title": "傻瓜式的Kubernetes"
+    }
+  ]
 }
