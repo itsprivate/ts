@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "他の出身地のファンにしか伝わらないような短いフレーズを教えてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "你可以说什么短语，只有其他的粉丝才会明白它的来历？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你可以說什麼短語，只有其他的粉絲纔會明白它的來歷？"
+    }
+  ]
 }
