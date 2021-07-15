@@ -113,5 +113,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Thu Jul 15 10:50:03 +0000 2021"
+  "original_created_at": "Thu Jul 15 10:50:03 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "中国で、55歳の男性が鳥インフルエンザ（H5N6型）に感染し、入院しました。中国の国営ニュースメディアは、大規模な感染の危険性は低いと述べています。https://t.co/l844JijHDN"
+    },
+    {
+      "locale": "zh",
+      "full_text": "在中国，一名55岁的男子在感染H5N6禽流感病毒后被送往医院。中国国家新闻媒体说，大规模传播的风险很低。https://t.co/l844JijHDN"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "在中國，一名55歲的男子在感染H5N6禽流感病毒後被送往醫院。中國國家新聞媒體說，大規模傳播的風險很低。https://t.co/l844JijHDN"
+    }
+  ]
 }

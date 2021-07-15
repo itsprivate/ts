@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "押すたびに1万ドルが手に入るが、同時に世界中の見知らぬ人を1人殺すボタンを押しますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你会按下一个每次都能给你1万美元的按钮，但同时也会杀死世界上一个随机的陌生人吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你會按下一個每次都能給你1萬美元的按鈕，但同時也會殺死世界上一個隨機的陌生人嗎？"
+    }
+  ]
 }
