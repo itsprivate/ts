@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ちょっと待ってください。"
+    },
+    {
+      "locale": "zh",
+      "title": "现在，请等待该死的一分钟"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "現在，請等待該死的一分鐘"
+    }
+  ]
 }
