@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "赤ちゃんに殺される確率は低いですが、ゼロではありません。"
+    },
+    {
+      "locale": "zh",
+      "title": "被婴儿杀死的几率很低，但不是零。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "被嬰兒殺死的機率很低，但不是零。"
+    }
+  ]
 }

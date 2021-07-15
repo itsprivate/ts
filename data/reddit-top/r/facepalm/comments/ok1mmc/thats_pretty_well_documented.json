@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "そのことはよく知られています。"
+    },
+    {
+      "locale": "zh",
+      "title": "这是很好的记录"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是很好的記錄"
+    }
+  ]
 }
