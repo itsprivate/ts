@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-14T13:09:55Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctT9wKwU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qbe37hf2h9ls7z23wgby.jpg",
   "author": "Jerry Ng",
-  "author_url": "https://dev.to/jerrynsh"
+  "author_url": "https://dev.to/jerrynsh",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "クリーンなコード」とは一体何でしょうか？一般的に、クリーンコードとは、理解しやすく、...",
+      "title": "Pythonでクリーンなコードを書くには"
+    },
+    {
+      "locale": "zh",
+      "description": "究竟什么是 \"干净的代码\"？一般来说，干净的代码是指容易理解的代码，并且...",
+      "title": "如何在Python中编写干净的代码"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "究竟什麼是 \"乾淨的代碼\"？一般來說，乾淨的代碼是指容易理解的代碼，並且...",
+      "title": "如何在Python中編寫乾淨的代碼"
+    }
+  ]
 }
