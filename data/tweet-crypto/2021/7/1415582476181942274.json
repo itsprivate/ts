@@ -134,5 +134,22 @@
     "retweet_count": 1728,
     "favorite_count": 16668,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @espn: Saquon Barkleyは今後、マーケティング費用を100%ビットコインで受け取ることを発表しました。https://t.co/WZcuZ6Gbdl",
+      "retweeted_status_full_text": "Saquon Barkleyは、今後、マーケティング費用を100％ビットコインで受け取ることを発表した。https://t.co/WZcuZ6Gbdl"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @espn: Saquon Barkley宣布，从现在开始，他将100%地用比特币支付他的营销费用。https://t.co/WZcuZ6Gbdl",
+      "retweeted_status_full_text": "Saquon Barkley宣布，从现在开始，他将以比特币的形式拿100%的营销资金。https://t.co/WZcuZ6Gbdl"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @espn: Saquon Barkley宣佈，從現在開始，他將100%地用比特幣支付他的營銷費用。https://t.co/WZcuZ6Gbdl",
+      "retweeted_status_full_text": "Saquon Barkley宣佈，從現在開始，他將以比特幣的形式拿100%的營銷資金。https://t.co/WZcuZ6Gbdl"
+    }
+  ]
 }
