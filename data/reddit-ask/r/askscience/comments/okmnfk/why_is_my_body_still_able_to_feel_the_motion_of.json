@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "this mostly occurs right before i am about to fall asleep."
+  "the_new_excerpt": "this mostly occurs right before i am about to fall asleep.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "これはほとんどの場合、眠りにつく直前に起こります。",
+      "title": "浜辺を離れても、波の動きを体で感じることができるのはなぜだろう。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这主要发生在我即将入睡之前。",
+      "title": "为什么我的身体在离开海滩后仍能感受到海浪的运动？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這主要發生在我即將入睡之前。",
+      "title": "爲什麼我的身體在離開海灘後仍能感受到海浪的運動？"
+    }
+  ]
 }
