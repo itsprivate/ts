@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-13T14:15:13Z",
   "image": "https://dev.to/social_previews/article/758187.png",
   "author": "tsuyan",
-  "author_url": "https://dev.to/tsuyusk"
+  "author_url": "https://dev.to/tsuyusk",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは。 しばらく新しい記事がなかったので、今回は本当に役に立つヒントをご紹介することにしました...",
+      "title": "コードのインポートを改善する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "你们好!  经过一段时间没有新的帖子，我决定带着一个非常有用的提示回来。",
+      "title": "如何在你的代码中改进导入"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你們好!  經過一段時間沒有新的帖子，我決定帶着一個非常有用的提示回來。",
+      "title": "如何在你的代碼中改進導入"
+    }
+  ]
 }
