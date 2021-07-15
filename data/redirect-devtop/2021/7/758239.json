@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-13T15:26:09Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XsVZxEeK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6023hqmo40cau0f1d3en.png",
   "author": "_CODE",
-  "author_url": "https://dev.to/underscorecode"
+  "author_url": "https://dev.to/underscorecode",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは。こんにちは👋 そして、Styled Components 101シリーズの最初の講義にようこそ。 今回は...",
+      "title": "Styled Components 101 💅 Lecture 1: Introduction + Setup in React Environment ⚛️."
+    },
+    {
+      "locale": "zh",
+      "description": "大家好! 👋 欢迎来到《风格化组件101》系列的第一讲。 在这个讲座中",
+      "title": "风格化组件101 💅讲座1：介绍+React环境下的设置 ⚛️"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好! 👋 歡迎來到《風格化組件101》系列的第一講。 在這個講座中",
+      "title": "風格化組件101 💅講座1：介紹+React環境下的設置 ⚛️"
+    }
+  ]
 }
