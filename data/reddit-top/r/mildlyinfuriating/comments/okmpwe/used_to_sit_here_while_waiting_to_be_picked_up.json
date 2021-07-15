@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "お迎えを待つ間、ここに座っていましたが、このようなものが追加されました。"
+    },
+    {
+      "locale": "zh",
+      "title": "以前在这里坐着等待被接走，后来他们增加了这些"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "以前在這裏坐着等待被接走，後來他們增加了這些"
+    }
+  ]
 }
