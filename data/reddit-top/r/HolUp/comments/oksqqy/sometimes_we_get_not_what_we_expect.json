@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "時には期待とは違うものを得ることもある"
+    },
+    {
+      "locale": "zh",
+      "title": "有时我们得到的不是我们所期望的"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有時我們得到的不是我們所期望的"
+    }
+  ]
 }
