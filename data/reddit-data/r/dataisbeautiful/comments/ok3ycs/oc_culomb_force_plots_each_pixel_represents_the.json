@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] Culomb Force Plots - 各ピクセルは正電荷粒子の色を表し、そのピクセルの初期位置にある負電荷粒子が静止する位置を示す"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC] Culomb力图--每个像素代表带正电的粒子的颜色，带负电的粒子在该像素的初始位置会静止。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC] Culomb力圖--每個像素代表帶正電的粒子的顏色，帶負電的粒子在該像素的初始位置會靜止。"
+    }
+  ]
 }
