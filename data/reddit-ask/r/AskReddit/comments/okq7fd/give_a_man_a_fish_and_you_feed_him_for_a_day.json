@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "人に魚を与えれば、一日分の食料になる。人に魚を教えれば、その人を一生涯養うことができる。このことについて、どのような例がありますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "给人一条鱼，就能养活他一天。教人捕鱼，就能养活他一生。这方面的例子有哪些？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "給人一條魚，就能養活他一天。教人捕魚，就能養活他一生。這方面的例子有哪些？"
+    }
+  ]
 }
