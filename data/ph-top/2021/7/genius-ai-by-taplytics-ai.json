@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-15T14:29:08Z"
+  "original_createdAt": "2021-07-15T14:29:08Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "一行のコードも書かずに、どんなオーディエンスにもパーソナライズされたコピーを瞬時に生成します。TaplyticsのGenius AIをご紹介します。",
+      "tagline": "AIを活用したスケールの大きいパーソナライゼーション"
+    },
+    {
+      "locale": "zh",
+      "description": "不用写一行代码，就能立即为任何受众生成个性化的副本。认识一下Taplytics的Genius AI。",
+      "tagline": "由人工智能提供的大规模个性化服务"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "不用寫一行代碼，就能立即爲任何受衆生成個性化的副本。認識一下Taplytics的Genius AI。",
+      "tagline": "由人工智能提供的大規模個性化服務"
+    }
+  ]
 }
