@@ -43,5 +43,22 @@
   "original_created_at": "2021-07-14T00:47:51Z",
   "image": "https://dev.to/social_previews/article/758670.png",
   "author": "Neha Sharma ",
-  "author_url": "https://dev.to/hellonehha"
+  "author_url": "https://dev.to/hellonehha",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コードを改善するために、どのような部分に気をつければいいのか考えたことはありますか？論理的なコード...",
+      "title": "あなたのJavaScriptコードを改善するために、これらの..."
+    },
+    {
+      "locale": "zh",
+      "description": "你有没有想过，要改善你的代码，需要注意哪些方面或事项？逻辑性的代码...",
+      "title": "用这些方法来改进你的JavaScript代码..."
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你有沒有想過，要改善你的代碼，需要注意哪些方面或事項？邏輯性的代碼...",
+      "title": "用這些方法來改進你的JavaScript代碼..."
+    }
+  ]
 }

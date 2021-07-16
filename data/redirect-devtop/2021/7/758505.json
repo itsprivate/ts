@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-13T20:17:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1eRNMcY9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xjv33hlbjonlqo2st5n5.png",
   "author": "Clean Code Studio",
-  "author_url": "https://dev.to/cleancodestudio"
+  "author_url": "https://dev.to/cleancodestudio",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "14 JS Array Methods (In 8 Minutes) Screencast let stocks = [ { name: 'Apple',...",
+      "title": "14個のJavaScript配列メソッド（8分でわかる"
+    },
+    {
+      "locale": "zh",
+      "description": "14种JS数组方法（8分钟内）截屏 let stocks = [ { name: 'Apple',...",
+      "title": "14种JavaScript数组方法（8分钟内完成"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "14種JS數組方法（8分鐘內）截屏 let stocks = [ { name: 'Apple',...",
+      "title": "14種JavaScript數組方法（8分鐘內完成"
+    }
+  ]
 }
