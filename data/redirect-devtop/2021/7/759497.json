@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-14T19:34:04Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_1L1jPde--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f5845dmeznxm4iju2244.jpg",
   "author": "Domagoj Vidovic",
-  "author_url": "https://dev.to/domagojvidovic"
+  "author_url": "https://dev.to/domagojvidovic",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "キャリアをスタートした頃は、コードの変更を失うことを常に恐れていました。時々、私はコピーして...",
+      "title": "毎日使っている11のGitコマンド"
+    },
+    {
+      "locale": "zh",
+      "description": "当我开始我的职业生涯时，我总是害怕失去我的代码修改。有时，我会复制...",
+      "title": "我每天都在使用的11个Git命令"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當我開始我的職業生涯時，我總是害怕失去我的代碼修改。有時，我會複製...",
+      "title": "我每天都在使用的11個Git命令"
+    }
+  ]
 }
