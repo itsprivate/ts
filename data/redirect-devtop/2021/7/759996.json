@@ -43,5 +43,22 @@
   "original_created_at": "2021-07-15T10:03:35Z",
   "image": "https://dev.to/social_previews/article/759996.png",
   "author": "Patrick Wendo",
-  "author_url": "https://dev.to/w3ndo"
+  "author_url": "https://dev.to/w3ndo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、PCをUbuntuとWindowsのデュアルブートにしたのですが、Ubuntuでの最初の2、3日は、...",
+      "title": "基本的なBashの自動化。ダウンロードフォルダを整理するスクリプト"
+    },
+    {
+      "locale": "zh",
+      "description": "最近，我用Ubuntu和Windows双机启动了我的电脑，在Ubuntu上的头几天，我...",
+      "title": "基本的Bash自动化。一个整理我的下载文件夹的脚本"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "最近，我用Ubuntu和Windows雙機啓動了我的電腦，在Ubuntu上的頭幾天，我...",
+      "title": "基本的Bash自動化。一個整理我的下載文件夾的腳本"
+    }
+  ]
 }
