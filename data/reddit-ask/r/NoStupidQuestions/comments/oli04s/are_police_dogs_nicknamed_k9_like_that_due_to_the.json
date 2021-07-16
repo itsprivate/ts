@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "警察犬の愛称である「K-9」は、「Canine」（犬）と同じ音だから、そう呼ばれているのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "警犬的绰号 \"K-9 \"是由于它与 \"canine\"（狗）的发音相同而这样命名的吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "警犬的綽號 \"K-9 \"是由於它與 \"canine\"（狗）的發音相同而這樣命名的嗎？"
+    }
+  ]
 }
