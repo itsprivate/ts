@@ -59,5 +59,19 @@
     }
   },
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "LCD付き温度・湿度計、サーボによるゲージ"
+    },
+    {
+      "locale": "zh",
+      "title": "带LCD的温湿度计和使用伺服的测量仪"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "帶LCD的溫溼度計和使用伺服的測量儀"
+    }
+  ]
 }
