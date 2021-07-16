@@ -52,5 +52,22 @@
   "original_created_at": "2021-07-14T12:27:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZW4qkzQF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://payloadcms.com/images/blog/build-your-own-rbac-dev-to.jpg",
   "author": "Elliot DeNolf",
-  "author_url": "https://dev.to/denolfe"
+  "author_url": "https://dev.to/denolfe",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Payloadで独自のロールベースのアクセスコントロールを構築する方法をご紹介します。",
+      "title": "Payloadで独自のロールベースのアクセスコントロールを構築する"
+    },
+    {
+      "locale": "zh",
+      "description": "了解如何在Payload中建立你自己的基于角色的访问控制",
+      "title": "在Payload中建立你自己的基于角色的访问控制"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "瞭解如何在Payload中建立你自己的基於角色的訪問控制",
+      "title": "在Payload中建立你自己的基於角色的訪問控制"
+    }
+  ]
 }
