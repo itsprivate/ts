@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-15T14:02:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jV5Lhg15--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9wcuzoasrmjfmekr9zia.png",
   "author": "Yuvaraj",
-  "author_url": "https://dev.to/yuvgeek"
+  "author_url": "https://dev.to/yuvgeek",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、なぜArray.forEach（または）ではなくArray.someを使うべきなのかを学んでいきます。",
+      "title": "なぜ「for」ループやforEachの代わりにArray.someを使うべきなのか？"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我们将学习为什么我们应该使用Array.some而不是Array.forEach（或）...",
+      "title": "为什么要使用Array.some而不是'for'循环或forEach？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我們將學習爲什麼我們應該使用Array.some而不是Array.forEach（或）...",
+      "title": "爲什麼要使用Array.some而不是'for'循環或forEach？"
+    }
+  ]
 }
