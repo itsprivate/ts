@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-14T19:39:01Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_QvfElUp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zy9d19ebeq09gmsc2zud.png",
   "author": "François Wouts",
-  "author_url": "https://dev.to/fwouts"
+  "author_url": "https://dev.to/fwouts",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは。 数ヶ月前からReact Previewを作っています。現在のところ、利用可能なのは...",
+      "title": "React Preview - VS Code上でコンポーネントを即座にライブでプレビューすることができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好!  我已经在React Preview上工作了几个月。它目前只提供...",
+      "title": "React预览 - 在VS代码中对组件进行即时、实时预览"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好!  我已經在React Preview上工作了幾個月。它目前只提供...",
+      "title": "React預覽 - 在VS代碼中對組件進行即時、實時預覽"
+    }
+  ]
 }
