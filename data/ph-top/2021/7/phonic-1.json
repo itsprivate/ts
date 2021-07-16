@@ -88,5 +88,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-16T07:18:50Z"
+  "original_createdAt": "2021-07-16T07:18:50Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Phonicでは、音声と動画のフィードバックをスケーリングしているので、質と量をトレードオフする必要はありません。",
+      "tagline": "音声と映像によるフィードバックを大規模に"
+    },
+    {
+      "locale": "zh",
+      "description": "Phonic对语音和视频反馈进行分级，因此您永远不必为数量而牺牲质量。",
+      "tagline": "规模化的语音和视频反馈"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Phonic對語音和視頻反饋進行分級，因此您永遠不必爲數量而犧牲質量。",
+      "tagline": "規模化的語音和視頻反饋"
+    }
+  ]
 }
