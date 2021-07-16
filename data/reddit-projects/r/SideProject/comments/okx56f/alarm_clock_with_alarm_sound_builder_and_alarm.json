@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "アラーム音作成機能とアラーム音共有機能を備えた目覚まし時計"
+    },
+    {
+      "locale": "zh",
+      "title": "闹钟，有闹钟声音生成器和闹钟声音共享功能"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "鬧鐘，有鬧鐘聲音生成器和鬧鐘聲音共享功能"
+    }
+  ]
 }
