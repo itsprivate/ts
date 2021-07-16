@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この人はあきらめずに成功した。"
+    },
+    {
+      "locale": "zh",
+      "title": "这个人没有放弃，并且成功了"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個人沒有放棄，並且成功了"
+    }
+  ]
 }
