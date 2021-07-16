@@ -83,5 +83,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-16T07:05:00Z"
+  "original_createdAt": "2021-07-16T07:05:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "VerihubsはAPIベースの検証で、デジタル企業がローカルのデータソースを使ってユーザーを検証し、ユーザーの財務情報やアイデンティティ情報にアクセスできるようにします。",
+      "tagline": "東南アジアの検証インフラ"
+    },
+    {
+      "locale": "zh",
+      "description": "Verihubs是一个基于API的验证，帮助数字公司使用本地数据源验证其用户，并访问用户的财务和身份信息。",
+      "tagline": "东南亚的核查基础设施"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Verihubs是一個基於API的驗證，幫助數字公司使用本地數據源驗證其用戶，並訪問用戶的財務和身份信息。",
+      "tagline": "東南亞的核查基礎設施"
+    }
+  ]
 }
