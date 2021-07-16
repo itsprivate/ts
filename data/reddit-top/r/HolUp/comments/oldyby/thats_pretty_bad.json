@@ -42,5 +42,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "それはかなりひどいですね...。"
+    },
+    {
+      "locale": "zh",
+      "title": "这是很糟糕的..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是很糟糕的..."
+    }
+  ]
 }
