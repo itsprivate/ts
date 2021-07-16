@@ -48,5 +48,22 @@
   "original_created_at": "2021-07-13T19:17:02Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RbgvPgI0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/906lexg0ojlqut1nww4u.jpg",
   "author": "Jean-Michel Fayard 🇫🇷🇩🇪🇬🇧🇪🇸🇨🇴",
-  "author_url": "https://dev.to/jmfayard"
+  "author_url": "https://dev.to/jmfayard",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "自分でコマンドラインツールを書けるというのは、素晴らしいスキルです。",
+      "title": "マルチプラットフォームのKotlinでコマンドラインツールを書くには"
+    },
+    {
+      "locale": "zh",
+      "description": "能够编写自己的命令行工具是一项很好的技能：将所有程序自动化。",
+      "title": "如何用Kotlin编写一个多平台的命令行工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "能夠編寫自己的命令行工具是一項很好的技能：將所有程序自動化。",
+      "title": "如何用Kotlin編寫一個多平臺的命令行工具"
+    }
+  ]
 }
