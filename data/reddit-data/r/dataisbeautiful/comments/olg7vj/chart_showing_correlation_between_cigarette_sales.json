@@ -47,5 +47,19 @@
     }
   },
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "たばこ販売量と肺がん死亡者数の相関関係を示すグラフ"
+    },
+    {
+      "locale": "zh",
+      "title": "显示香烟销售和肺癌死亡之间的相关性的图表"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "顯示香菸銷售和肺癌死亡之間的相關性的圖表"
+    }
+  ]
 }
