@@ -113,5 +113,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Sat Jul 17 11:01:07 +0000 2021"
+  "original_created_at": "Sat Jul 17 11:01:07 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "これは、チョコチップクッキーを作ってくれと頼む人が求めているクッキーです。氷のように冷たい牛乳の入ったグラスに沈めて食べることを要求するようなクッキーです。https://t.co/CJ8CNwo9E1。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "这些饼干是任何要求你做巧克力片饼干的人所要求的--那种要求被灌入一杯冰牛奶的饼干。https://t.co/CJ8CNwo9E1。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "這些餅乾是任何要求你做巧克力片餅乾的人所要求的--那種要求被灌入一杯冰牛奶的餅乾。https://t.co/CJ8CNwo9E1。"
+    }
+  ]
 }
