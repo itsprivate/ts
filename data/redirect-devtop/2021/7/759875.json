@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-15T08:09:50Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_ytZfwpH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8iwkvu68wcbc8r2srojd.jpg",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "オープンソースのReact DashboardsがすでにJWT認証でコーディングされており、バックエンドが使えるものがショートリストに入っています。",
+      "title": "React ダッシュボード - オープンソースのフルスタック製品"
+    },
+    {
+      "locale": "zh",
+      "description": "开源React仪表盘的短名单，已经用JWT认证和可用的后端进行编码。",
+      "title": "React仪表盘 - 开源的全栈产品"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "開源React儀表盤的短名單，已經用JWT認證和可用的後端進行編碼。",
+      "title": "React儀表盤 - 開源的全棧產品"
+    }
+  ]
 }
