@@ -14,5 +14,19 @@
   "tags": [
     "The Wall Street Journal"
   ],
-  "image": "https://images.wsj.net/im-371120/social"
+  "image": "https://images.wsj.net/im-371120/social",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ドイツとベルギーで洪水による大規模な避難が発生し、死者数が160人を超えました。"
+    },
+    {
+      "locale": "zh",
+      "title": "洪水导致德国和比利时大规模疏散，死亡人数超过160人"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "洪水導致德國和比利時大規模疏散，死亡人數超過160人"
+    }
+  ]
 }
