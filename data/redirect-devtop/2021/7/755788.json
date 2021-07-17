@@ -41,5 +41,22 @@
   "original_created_at": "2021-07-10T19:44:36Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--x8lsxQSc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/utysh7y325t3ly8rzbxk.png",
   "author": "Aurélie Vache",
-  "author_url": "https://dev.to/aurelievache"
+  "author_url": "https://dev.to/aurelievache",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "具体的なアプリケーションを例にしてGolang言語を学ぶための記事シリーズ",
+      "title": "事例で学ぶ囲碁。はじめに "
+    },
+    {
+      "locale": "zh",
+      "description": "以具体应用为例，学习Golang语言的系列文章",
+      "title": "通过实例学习围棋。简介 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "以具體應用爲例，學習Golang語言的系列文章",
+      "title": "通過實例學習圍棋。簡介 "
+    }
+  ]
 }
