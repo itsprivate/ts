@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-17T09:36:06Z"
+  "original_createdAt": "2021-07-17T09:36:06Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "誰でも使える無料の人気イラストライブラリ、高品質の無料イラストをそのままFigmaに挿入できるプラグインです。ドラッグ＆ドロップするだけで、Figmaに追加できます。",
+      "tagline": "誰でも無料で使えるイラストライブラリー"
+    },
+    {
+      "locale": "zh",
+      "description": "为大家提供免费的流行插图库，插件可以让你在Figma中直接插入高质量的免费插图。只需拖放即可将其添加到Figma上。",
+      "tagline": "每个人的免费插图库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "爲大家提供免費的流行插圖庫，插件可以讓你在Figma中直接插入高質量的免費插圖。只需拖放即可將其添加到Figma上。",
+      "tagline": "每個人的免費插圖庫"
+    }
+  ]
 }
