@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-15T14:27:19Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dG3Vj0pg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gtm9r9v6pjxxei2np9go.jpg",
   "author": "Francisco Mendes",
-  "author_url": "https://dev.to/franciscomendes10866"
+  "author_url": "https://dev.to/franciscomendes10866",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "誰でも、ネストしたデータを扱うときには、飽和状態になってしまうことがあると思うんです。",
+      "title": "ZustandとImmerを使ってReactアプリの状態を管理する"
+    },
+    {
+      "locale": "zh",
+      "description": "我相信，每个人在某些时候，当他们在处理嵌套数据时，都变得如此饱和...",
+      "title": "使用Zustand和Immer来管理你的React应用程序的状态"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我相信，每個人在某些時候，當他們在處理嵌套數據時，都變得如此飽和...",
+      "title": "使用Zustand和Immer來管理你的React應用程序的狀態"
+    }
+  ]
 }
