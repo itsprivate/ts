@@ -43,5 +43,22 @@
   "original_created_at": "2021-07-17T01:35:16Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kNybSdQ1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kxcefyjvd7r9z3dumn1x.jpeg",
   "author": "Kritika",
-  "author_url": "https://dev.to/kritikapattalam"
+  "author_url": "https://dev.to/kritikapattalam",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、何人かの友人が私に連絡してきて、彼らの助けになるリソースへのリンクを求めてきました。",
+      "title": "JavaScriptを始めよう - 究極の無料リソース"
+    },
+    {
+      "locale": "zh",
+      "description": "最近一段时间，很少有朋友向我伸出援手，要求提供可以帮助他们的资源链接。",
+      "title": "初步了解JavaScript--终极免费资源"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "最近一段時間，很少有朋友向我伸出援手，要求提供可以幫助他們的資源鏈接。",
+      "title": "初步瞭解JavaScript--終極免費資源"
+    }
+  ]
 }
