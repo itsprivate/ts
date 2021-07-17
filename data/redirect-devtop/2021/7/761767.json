@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-17T07:50:41Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Omiu9X8j--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r8o8hgtwehq3gg683ucw.jpg",
   "author": "Rajshree Vatsa",
-  "author_url": "https://dev.to/rajshreevats"
+  "author_url": "https://dev.to/rajshreevats",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、HTML、CSS、および...を使ってランディングページに3D効果を追加する方法をご紹介します。",
+      "title": "立体感のあるランディングページの作成"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我将向你展示如何使用HTML、CSS和DMP为登陆页面添加三维效果。",
+      "title": "创建具有3-D效果的登陆页"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我將向你展示如何使用HTML、CSS和DMP爲登陸頁面添加三維效果。",
+      "title": "創建具有3-D效果的登陸頁"
+    }
+  ]
 }
