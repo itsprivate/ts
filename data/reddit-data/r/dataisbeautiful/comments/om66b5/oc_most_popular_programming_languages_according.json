@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC】GitHub公開リポジトリで最も人気のあるプログラミング言語"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]根据公开的GitHub存储库，最受欢迎的编程语言"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]根據公開的GitHub存儲庫，最受歡迎的編程語言"
+    }
+  ]
 }
