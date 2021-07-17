@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-16T08:59:45Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--iWNLRA2h--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nu47alkqqrhgdcu8qx1b.png",
   "author": "Temani Afif",
-  "author_url": "https://dev.to/afif"
+  "author_url": "https://dev.to/afif",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "先日、cubic-bezier()を使って複雑なCSSアニメーションを実現する方法をご紹介しましたが、今回はその方法をご紹介します。",
+      "title": "カスタムプロパティとcubic-bezier()を用いた複雑なCSSトランジションの構築"
+    },
+    {
+      "locale": "zh",
+      "description": "我最近说明了我们如何使用cubic-bezier()实现复杂的CSS动画，以及如何做...",
+      "title": "使用自定义属性和cubic-bezier()构建复杂的CSS过渡效果"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我最近說明了我們如何使用cubic-bezier()實現複雜的CSS動畫，以及如何做...",
+      "title": "使用自定義屬性和cubic-bezier()構建複雜的CSS過渡效果"
+    }
+  ]
 }
