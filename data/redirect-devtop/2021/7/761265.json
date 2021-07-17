@@ -52,5 +52,22 @@
   "original_created_at": "2021-07-16T15:58:38Z",
   "image": "https://dev.to/social_previews/article/761265.png",
   "author": "Andrew",
-  "author_url": "https://dev.to/andybone"
+  "author_url": "https://dev.to/andybone",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、TalkJSのチャットにビデオ通話機能を追加する方法をご紹介します。リモートワークでは...",
+      "title": "Daily APIを使用してTalkJSのチャットにオーディオおよびビデオ通話を追加する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我们将探讨如何在TalkJS聊天中添加视频通话功能。随着远程工作...",
+      "title": "如何通过使用Daily API在TalkJS聊天中添加音频和视频通话"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我們將探討如何在TalkJS聊天中添加視頻通話功能。隨着遠程工作...",
+      "title": "如何通過使用Daily API在TalkJS聊天中添加音頻和視頻通話"
+    }
+  ]
 }
