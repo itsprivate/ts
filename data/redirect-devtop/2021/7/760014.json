@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-15T10:59:29Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CiAXc7sO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wgqbz8utl46vjiecjnf1.png",
   "author": "Pathetic Geek",
-  "author_url": "https://dev.to/patheticgeek"
+  "author_url": "https://dev.to/patheticgeek",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに これは単なるフックとコンテキストのチュートリアルではなく、...",
+      "title": "ステロイドのようなReactのフック"
+    },
+    {
+      "locale": "zh",
+      "description": "引言 这不是一个简单的钩子和上下文教程，这将是...",
+      "title": "类固醇的React钩子"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "引言 這不是一個簡單的鉤子和上下文教程，這將是...",
+      "title": "類固醇的React鉤子"
+    }
+  ]
 }
