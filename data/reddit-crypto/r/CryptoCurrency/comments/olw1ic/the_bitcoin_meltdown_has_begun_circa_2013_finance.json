@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"The Bitcoin Meltdown Has Begun\" - 2013年頃 - ファイナンス教授が、ビットコインは1コインあたり10ドル以下に下落し、最終的には無価値になると予測。"
+    },
+    {
+      "locale": "zh",
+      "title": "\"比特币的崩溃已经开始\"--大约在2013年--金融学教授预测比特币将跌至每币10美元以下，最终一文不值。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"比特幣的崩潰已經開始\"--大約在2013年--金融學教授預測比特幣將跌至每幣10美元以下，最終一文不值。"
+    }
+  ]
 }

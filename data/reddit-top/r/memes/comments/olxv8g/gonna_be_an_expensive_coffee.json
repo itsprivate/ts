@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "高価なコーヒーになりそうですね。"
+    },
+    {
+      "locale": "zh",
+      "title": "这将是一种昂贵的咖啡。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這將是一種昂貴的咖啡。"
+    }
+  ]
 }

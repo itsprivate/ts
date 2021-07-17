@@ -43,5 +43,22 @@
   "original_created_at": "2021-07-15T13:30:26Z",
   "image": "https://dev.to/social_previews/article/760155.png",
   "author": "Ahmed Samir",
-  "author_url": "https://dev.to/aseldesouky"
+  "author_url": "https://dev.to/aseldesouky",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、皆さん、今日はAWSオリジナルの最も重要なホワイトペーパーの1つをご紹介します。",
+      "title": "AWS Well-Architected Framework｜AWS Whitepaper Summary"
+    },
+    {
+      "locale": "zh",
+      "description": "嗨，伙计们，今天我将通过与AWS原始的最重要的白皮书之一。",
+      "title": "AWS架构良好的框架|AWS白皮书摘要"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嗨，夥計們，今天我將通過與AWS原始的最重要的白皮書之一。",
+      "title": "AWS架構良好的框架|AWS白皮書摘要"
+    }
+  ]
 }
