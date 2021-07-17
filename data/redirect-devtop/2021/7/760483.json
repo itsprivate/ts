@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-15T19:39:03Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qw1gHyhE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nh0fr14ouln2r83gxna7.jpg",
   "author": "Eden Ella",
-  "author_url": "https://dev.to/giteden"
+  "author_url": "https://dev.to/giteden",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コンポーネントライブラリを設計するのは簡単なことではありません。膨大な数の決定が必要となり、その結果として...",
+      "title": "Bitによるコンポーネントライブラリの作成"
+    },
+    {
+      "locale": "zh",
+      "description": "设计一个组件库不是一件容易的事。它需要一长串的决定，而这些决定可能会变得很复杂。",
+      "title": "用比特创建一个组件库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "設計一個組件庫不是一件容易的事。它需要一長串的決定，而這些決定可能會變得很複雜。",
+      "title": "用比特創建一個組件庫"
+    }
+  ]
 }
