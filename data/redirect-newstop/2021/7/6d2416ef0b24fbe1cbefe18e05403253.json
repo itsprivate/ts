@@ -14,5 +14,19 @@
   "tags": [
     "The New York Times"
   ],
-  "image": "https://static01.nyt.com/images/2021/07/17/us/europe-flood-map-promo-1626498708852/europe-flood-map-promo-1626498708852-facebookJumbo.png"
+  "image": "https://static01.nyt.com/images/2021/07/17/us/europe-flood-map-promo-1626498708852/europe-flood-map-promo-1626498708852-facebookJumbo.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ヨーロッパの洪水の地図はこちら"
+    },
+    {
+      "locale": "zh",
+      "title": "以下是欧洲洪水的地图"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "以下是歐洲洪水的地圖"
+    }
+  ]
 }
