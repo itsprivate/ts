@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "インターンシップが見つからないので、AIロボットハンドを作ってみた"
+    },
+    {
+      "locale": "zh",
+      "title": "找不到实习机会，所以我做了一个人工智能机器人手"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "找不到實習機會，所以我做了一個人工智能機器人手"
+    }
+  ]
 }
