@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "主流になる暗号 #ビットコイン"
+    },
+    {
+      "locale": "zh",
+      "title": "加密货币成为主流 #比特币"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "加密貨幣成爲主流 #比特幣"
+    }
+  ]
 }
