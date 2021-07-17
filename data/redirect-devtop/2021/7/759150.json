@@ -50,5 +50,22 @@
   "original_created_at": "2021-07-14T12:30:15Z",
   "image": "https://dev.to/social_previews/article/759150.png",
   "author": "Molly Struve (she/her)",
-  "author_url": "https://dev.to/molly"
+  "author_url": "https://dev.to/molly",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このレトロな事件は、他の事件に比べて共有するのが難しいものでした。というのも、問題は深刻であるにもかかわらず、...",
+      "title": "インシデント・レトロ：コメント作成の失敗＋誤ったプッシュ通知 "
+    },
+    {
+      "locale": "zh",
+      "description": "这一事件的回顾比大多数人更难分享，因为尽管问题很严重，但它...",
+      "title": "事件回顾：评论创建失败+错误的推送通知 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這一事件的回顧比大多數人更難分享，因爲儘管問題很嚴重，但它...",
+      "title": "事件回顧：評論創建失敗+錯誤的推送通知 "
+    }
+  ]
 }
