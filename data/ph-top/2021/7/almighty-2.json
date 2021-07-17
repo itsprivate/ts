@@ -82,5 +82,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-17T08:00:00Z"
+  "original_createdAt": "2021-07-17T08:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Almightyは、あなたのMacでの日々のワークフローを強化するネイティブMacアプリです。50 以上のクールな Mac の調整と追加ユーティリティで、あなたの Mac 体験を飛躍的に向上させます。Almighty」を使えば、ワンクリックでスーパーユーザーになれます。",
+      "tagline": "Macをより快適に使うための調整とユーティリティ"
+    },
+    {
+      "locale": "zh",
+      "description": "Almighty是一个原生的Mac应用程序，以提高你的Mac日常工作流程。超过50个很酷的Mac调整和额外的实用程序，以增强你的Mac体验。有了Almighty，成为超级用户只需一键即可。",
+      "tagline": "为你的Mac体验增光添彩的Mac调整和实用工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Almighty是一個原生的Mac應用程序，以提高你的Mac日常工作流程。超過50個很酷的Mac調整和額外的實用程序，以增強你的Mac體驗。有了Almighty，成爲超級用戶只需一鍵即可。",
+      "tagline": "爲你的Mac體驗增光添彩的Mac調整和實用工具"
+    }
+  ]
 }
