@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "I MEANT HYPOTHETICALLY"
+  "the_new_excerpt": "I MEANT HYPOTHETICALLY",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "仮定の話ですが",
+      "title": "もし私が5匹のクモを捕まえてバスルームに放したら、ミバエが蔓延していた痕跡を消すことができるでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我的意思是假设性的",
+      "title": "如果我比喻为得到了5只蜘蛛，并将它们释放在我的浴室里，它们是否能够清除果蝇侵扰的残余物？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我的意思是假設性的",
+      "title": "如果我比喻爲得到了5只蜘蛛，並將它們釋放在我的浴室裏，它們是否能夠清除果蠅侵擾的殘餘物？"
+    }
+  ]
 }
