@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ストラドクのアプリを作ってみました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我创建了一个带有每日挑战的Stradoku应用程序，现在我正在寻找诚实的批评、赞扬和建议（Android/iOS）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我創建了一個帶有每日挑戰的Stradoku應用程序，現在我正在尋找誠實的批評、讚揚和建議（Android/iOS）。"
+    }
+  ]
 }
