@@ -41,5 +41,22 @@
   "original_created_at": "2021-07-10T19:50:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7KIswzVd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yn1r8r8rwq6viu4mtm48.png",
   "author": "Bhavesh Kasturi",
-  "author_url": "https://dev.to/duhbhavesh"
+  "author_url": "https://dev.to/duhbhavesh",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "クロージャを定義しよう クロージャとは、外部で定義された変数を利用する関数のことです。",
+      "title": "クロージャーの説明"
+    },
+    {
+      "locale": "zh",
+      "description": "让我们来定义闭包 一个闭包是一个利用外部定义的变量的函数。",
+      "title": "封闭的解释!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "讓我們來定義閉包 一個閉包是一個利用外部定義的變量的函數。",
+      "title": "封閉的解釋!"
+    }
+  ]
 }
