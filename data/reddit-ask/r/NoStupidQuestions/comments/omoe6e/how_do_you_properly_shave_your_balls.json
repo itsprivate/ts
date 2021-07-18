@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "I just think I've been doing it the wrong way"
+  "the_new_excerpt": "I just think I've been doing it the wrong way",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "今までのやり方が間違っていたのだと思います。",
+      "title": "タマの正しい剃り方は？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我只是觉得我一直在用错误的方式做这件事",
+      "title": "如何正确地剃掉你的蛋蛋？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我只是覺得我一直在用錯誤的方式做這件事",
+      "title": "如何正確地剃掉你的蛋蛋？"
+    }
+  ]
 }
