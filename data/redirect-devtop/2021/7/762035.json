@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-17T15:05:26Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RLswQYKe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5yp4tyvy7m0xjj0f2i7j.png",
   "author": "Samuel FAURE",
-  "author_url": "https://dev.to/samuelfaure"
+  "author_url": "https://dev.to/samuelfaure",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この投稿は、私の妻に捧げられています。彼は、私が知っている中で最も賢い人の一人であるにもかかわらず、いまだに最低です...",
+      "title": "Gitをゆっくり学ぶ方法。"
+    },
+    {
+      "locale": "zh",
+      "description": "这篇文章献给我的妻子，尽管她是我认识的最聪明的人之一，但仍然很糟糕。",
+      "title": "如何慢慢学习Git。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這篇文章獻給我的妻子，儘管她是我認識的最聰明的人之一，但仍然很糟糕。",
+      "title": "如何慢慢學習Git。"
+    }
+  ]
 }
