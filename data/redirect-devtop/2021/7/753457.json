@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-08T08:25:33Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FCGIAyD5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7hit5l6qe034o4ktvyc6.png",
   "author": "Techworld with Nana",
-  "author_url": "https://dev.to/techworld_with_nana"
+  "author_url": "https://dev.to/techworld_with_nana",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "DevOps tool of the monthは、毎月1つの新しい便利なDevOpsツールを紹介するシリーズで、2021年に...",
+      "title": "Kubernetesのバックアップ＆リストアが簡単になりました。"
+    },
+    {
+      "locale": "zh",
+      "description": "每月的DevOps工具是一个系列，每个月我都会在2021年介绍一个新的有用的DevOps工具。",
+      "title": "Kubernetes的备份和恢复变得简单了!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "每月的DevOps工具是一個系列，每個月我都會在2021年介紹一個新的有用的DevOps工具。",
+      "title": "Kubernetes的備份和恢復變得簡單了!"
+    }
+  ]
 }
