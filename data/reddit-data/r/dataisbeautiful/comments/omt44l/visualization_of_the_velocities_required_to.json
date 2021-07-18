@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "選択した太陽系天体からの脱出に必要な速度の可視化 [OC]."
+    },
+    {
+      "locale": "zh",
+      "title": "逃离选定的太阳系天体所需速度的可视化 [OC]"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "逃離選定的太陽系天體所需速度的可視化 [OC]"
+    }
+  ]
 }
