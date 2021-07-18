@@ -59,5 +59,19 @@
     }
   },
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "TIL ヴィタリクは中国語がとても流暢です。この男は最高に才能がある。"
+    },
+    {
+      "locale": "zh",
+      "title": "TIL 维塔利克能说非常流利的中文。这家伙真是才华横溢。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "TIL 維塔利克能說非常流利的中文。這傢伙真是才華橫溢。"
+    }
+  ]
 }
