@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今まで読んだ中で一番怖かった本は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你读过的最可怕的书是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你讀過的最可怕的書是什麼？"
+    }
+  ]
 }
