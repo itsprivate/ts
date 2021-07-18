@@ -50,5 +50,22 @@
   "original_created_at": "2021-07-18T03:33:55Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8I0SReSG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y79urree7xgycipcurvd.png",
   "author": "Tapajyoti Bose",
-  "author_url": "https://dev.to/ruppysuppy"
+  "author_url": "https://dev.to/ruppysuppy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あなたが岩の下に住んでいない限り、あなたはGitHubに関する記事やビデオを目にしたことがあるはずです...",
+      "title": "GitHubコパイロット 一週間使ってみての感想"
+    },
+    {
+      "locale": "zh",
+      "description": "除非你生活在岩石下，否则你一定遇到过一些关于GitHub的文章或视频...",
+      "title": "GitHub Copilot。我使用一周后的体验"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "除非你生活在岩石下，否則你一定遇到過一些關於GitHub的文章或視頻...",
+      "title": "GitHub Copilot。我使用一週後的體驗"
+    }
+  ]
 }

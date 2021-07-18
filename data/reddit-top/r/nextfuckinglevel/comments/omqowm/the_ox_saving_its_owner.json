@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "飼い主を救う牛。"
+    },
+    {
+      "locale": "zh",
+      "title": "这头牛救了它的主人。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這頭牛救了它的主人。"
+    }
+  ]
 }
