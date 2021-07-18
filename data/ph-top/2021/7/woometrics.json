@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-18T07:02:17Z"
+  "original_createdAt": "2021-07-18T07:02:17Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "WooMetricsでは、週間、月間、年間の注文数と総売上高の比較や、注文の詳細を確認することができ、ダッシュボードから直接新規注文を追跡することができます。",
+      "tagline": "WooCommerceのストアオーナーのための販売分析ダッシュボード"
+    },
+    {
+      "locale": "zh",
+      "description": "通过WooMetrics，你可以查看你的销售数据，并对每周、每月和每年的订单数量和总收入进行比较，还可以看到订单的全部细节--让你直接从仪表盘上使用它来跟踪新的订单。",
+      "tagline": "为WooCommerce店主提供的销售分析仪表板"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "通過WooMetrics，你可以查看你的銷售數據，並對每週、每月和每年的訂單數量和總收入進行比較，還可以看到訂單的全部細節--讓你直接從儀表盤上使用它來跟蹤新的訂單。",
+      "tagline": "爲WooCommerce店主提供的銷售分析儀表板"
+    }
+  ]
 }
