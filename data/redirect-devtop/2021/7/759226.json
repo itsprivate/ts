@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-14T13:51:13Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LLu7nrc8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cfld0fo96cw947ii5ht7.png",
   "author": "Mads Stoumann",
-  "author_url": "https://dev.to/madsstoumann"
+  "author_url": "https://dev.to/madsstoumann",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "dev.toの \"Reaction Component \"はよく知られています（とはいえ、ユニコーンが何なのかはまだわかりませんが）。",
+      "title": "リアクションコンポーネントの構築"
+    },
+    {
+      "locale": "zh",
+      "description": "我们都熟悉dev.to的 \"反应组件\"（虽然我仍然不确定，这个独角兽是什么...",
+      "title": "构建一个反应组件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們都熟悉dev.to的 \"反應組件\"（雖然我仍然不確定，這個獨角獸是什麼...",
+      "title": "構建一個反應組件"
+    }
+  ]
 }

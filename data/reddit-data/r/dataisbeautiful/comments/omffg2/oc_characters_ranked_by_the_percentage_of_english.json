@@ -42,5 +42,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] 英語辞書に掲載されている単語の割合でランキングされた文字"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]按其出现在英语词典中的百分比排列的字符"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]按其出現在英語詞典中的百分比排列的字符"
+    }
+  ]
 }
