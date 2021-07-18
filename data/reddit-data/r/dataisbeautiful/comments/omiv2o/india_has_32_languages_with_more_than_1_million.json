@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "インドには32の言語があり、それぞれ100万人以上の話者がいます。"
+    },
+    {
+      "locale": "zh",
+      "title": "印度有32种语言，每种语言的使用者超过100万。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "印度有32種語言，每種語言的使用者超過100萬。"
+    }
+  ]
 }
