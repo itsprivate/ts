@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-16T20:06:09Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vqSuvOQs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dt631329iaqy40c0gi78.png",
   "author": "Alex Salgado",
-  "author_url": "https://dev.to/alextsalg"
+  "author_url": "https://dev.to/alextsalg",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "誰もが理解できる読みやすいCSSを書く 開発者が苦労することの1つに、...",
+      "title": "CSSの構造"
+    },
+    {
+      "locale": "zh",
+      "description": "编写易于阅读、人人都能理解的CSS 开发人员的奋斗目标之一是...",
+      "title": "CSS结构"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "編寫易於閱讀、人人都能理解的CSS 開發人員的奮鬥目標之一是...",
+      "title": "CSS結構"
+    }
+  ]
 }

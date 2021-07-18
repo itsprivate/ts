@@ -43,5 +43,22 @@
   "original_created_at": "2021-07-15T19:24:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XjNAOoEZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/45oz2z7cxpu29q0kgdes.jpeg",
   "author": "Mohit Tanwani⚡",
-  "author_url": "https://dev.to/tanwanimohit"
+  "author_url": "https://dev.to/tanwanimohit",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "チートシートは、概念を復習したいときにはいいですが、最初からやるのはちょっと...。",
+      "title": "Python Cheatsheet 🔥（パイソンチートシート"
+    },
+    {
+      "locale": "zh",
+      "description": "当你想复习一些概念时，作弊表是很好的，但不是一个闲置的开始方式......",
+      "title": "Python Cheatsheet 🔥"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當你想複習一些概念時，作弊表是很好的，但不是一個閒置的開始方式......",
+      "title": "Python Cheatsheet 🔥"
+    }
+  ]
 }
