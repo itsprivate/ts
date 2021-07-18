@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "インタービットコイン"
+    },
+    {
+      "locale": "zh",
+      "title": "国际比特币"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "國際比特幣"
+    }
+  ]
 }

@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今まで見た中で最も満足度の高い事故"
+    },
+    {
+      "locale": "zh",
+      "title": "我所见过的最令人满意的事故"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我所見過的最令人滿意的事故"
+    }
+  ]
 }
