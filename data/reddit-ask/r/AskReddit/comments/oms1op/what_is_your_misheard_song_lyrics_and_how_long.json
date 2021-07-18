@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが聞き間違えた曲の歌詞と、その間違いに気づくまでの時間を教えてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "你听错的歌词是什么，多久后你才发现自己错了？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你聽錯的歌詞是什麼，多久後你才發現自己錯了？"
+    }
+  ]
 }
