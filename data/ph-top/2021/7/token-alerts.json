@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-18T07:14:50Z"
+  "original_createdAt": "2021-07-18T07:14:50Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Binance Smart Chainをスキャンして、利益を得るためにフリップできるポンピングトークンをアラートします。Redditと統合し、リアルタイムで更新します。",
+      "tagline": "どのミームコインが人気なのかを確認し、それをフリップして利益を得る"
+    },
+    {
+      "locale": "zh",
+      "description": "扫描Binance智能链，提醒你可以翻转获利的抽水代币。与Reddit整合并实时更新。",
+      "tagline": "看看哪些纪念币是流行的，并翻转它们以获取利润"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "掃描Binance智能鏈，提醒你可以翻轉獲利的抽水代幣。與Reddit整合並實時更新。",
+      "tagline": "看看哪些紀念幣是流行的，並翻轉它們以獲取利潤"
+    }
+  ]
 }
