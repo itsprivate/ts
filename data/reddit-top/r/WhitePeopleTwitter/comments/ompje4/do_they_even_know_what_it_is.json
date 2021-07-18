@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼らはそれが何であるかを知っていますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "他们甚至知道它是什么吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他們甚至知道它是什麼嗎？"
+    }
+  ]
 }
