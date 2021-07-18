@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "パパがこれからは中で遊んで欲しいと言っていますが、いいですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "爸爸希望你从现在开始在里面玩，好吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爸爸希望你從現在開始在裏面玩，好嗎？"
+    }
+  ]
 }
