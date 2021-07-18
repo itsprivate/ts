@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これを作った人は...すごい"
+    },
+    {
+      "locale": "zh",
+      "title": "做这个的人......哇"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "做這個的人......哇"
+    }
+  ]
 }
