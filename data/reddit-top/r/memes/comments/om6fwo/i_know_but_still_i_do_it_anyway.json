@@ -54,5 +54,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "わかっていても、ついやってしまう。"
+    },
+    {
+      "locale": "zh",
+      "title": "我知道，但我还是要这样做"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我知道，但我還是要這樣做"
+    }
+  ]
 }
