@@ -50,5 +50,22 @@
   "original_created_at": "2021-07-16T05:34:11Z",
   "image": "https://dev.to/social_previews/article/760811.png",
   "author": "Salah Elhossiny",
-  "author_url": "https://dev.to/salah856"
+  "author_url": "https://dev.to/salah856",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、AWSのサービスを使ってCI/CDパイプラインを構築する方法を説明します。この記事では、AWSサービスを使ってCI/CDパイプラインを構築する方法を説明しています。",
+      "title": "CodeGuruとUnitTestによるAWS CI/CDパイプライン "
+    },
+    {
+      "locale": "zh",
+      "description": "这篇文章解释了如何使用AWS服务建立一个CI/CD管道。它还解释了如何组织一个新的、可持续的、可持续的、可持续的、可持续的、可持续的、可持续的、可持续的、可持续的系统。",
+      "title": "使用CodeGuru和UnitTest的AWS CI/CD管线 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這篇文章解釋瞭如何使用AWS服務建立一個CI/CD管道。它還解釋瞭如何組織一個新的、可持續的、可持續的、可持續的、可持續的、可持續的、可持續的、可持續的、可持續的系統。",
+      "title": "使用CodeGuru和UnitTest的AWS CI/CD管線 "
+    }
+  ]
 }
