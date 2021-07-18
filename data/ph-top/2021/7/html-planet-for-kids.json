@@ -98,5 +98,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-18T07:02:22Z"
+  "original_createdAt": "2021-07-18T07:02:22Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "HTML Planet for Kidsは、子供たちがHTMLとCSSを学び、楽しいクリエイティブなプロジェクトでスキルを磨くためのオンラインスペースです。",
+      "tagline": "HTMLとCSSを楽しく学ぶことができる"
+    },
+    {
+      "locale": "zh",
+      "description": "儿童HTML星球是一个在线空间，儿童在这里学习HTML和CSS，并在有趣的创意项目中练习他们的技能。",
+      "tagline": "学习HTML和CSS的有趣方式"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "兒童HTML星球是一個在線空間，兒童在這裏學習HTML和CSS，並在有趣的創意項目中練習他們的技能。",
+      "tagline": "學習HTML和CSS的有趣方式"
+    }
+  ]
 }
