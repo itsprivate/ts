@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-16T22:49:26Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mHNTEJ6L--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s0v3prk7rq4dwk7qppw3.png",
   "author": "Nicholas Mendez",
-  "author_url": "https://dev.to/snickdx"
+  "author_url": "https://dev.to/snickdx",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "そのためのパッケージがあります Webアプリケーション全体をゼロから構築する必要はありません。そこに...",
+      "title": "The Frontend Hitchhiker's Guide（フロントエンド・ヒッチハイカーズ・ガイド）。サードパーティコード"
+    },
+    {
+      "locale": "zh",
+      "description": "有一个软件包可以解决这个问题 你不需要从头开始建立你的整个网络应用。有...",
+      "title": "前端搭车指南》。第三方代码"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有一個軟件包可以解決這個問題 你不需要從頭開始建立你的整個網絡應用。有...",
+      "title": "前端搭車指南》。第三方代碼"
+    }
+  ]
 }
