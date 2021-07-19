@@ -92,5 +92,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-19T07:02:31Z"
+  "original_createdAt": "2021-07-19T07:02:31Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Serendipityにはダークテーマとライトテーマが用意されており、Retinaスクリーンで動作するように細心の注意を払って作られています。",
+      "tagline": "レティナディスプレイ対応の美しいVS Codeテーマ、ダーク＆ライト"
+    },
+    {
+      "locale": "zh",
+      "description": "Serendipity有深色和浅色主题，为在视网膜屏幕上工作而精心制作。",
+      "tagline": "一个可爱的VS代码主题，适用于视网膜显示器，深色和浅色。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Serendipity有深色和淺色主題，爲在視網膜屏幕上工作而精心製作。",
+      "tagline": "一個可愛的VS代碼主題，適用於視網膜顯示器，深色和淺色。"
+    }
+  ]
 }
