@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-19T07:36:30Z"
+  "original_createdAt": "2021-07-19T07:36:30Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "アプリを作ったり、機能をテストしたり。私たちはそれを簡単にするために20以上の開発ツールを作りました。Retool Utilitiesは、RegExジェネレーターからPostgreSQLへのモックデータの書き込みまで、アプリの構築をより簡単かつ迅速に行うための開発ツールのハブとなっています。",
+      "tagline": "CSVからPostgreSQLへのインポート、モックAPIの生成など、20以上の機能を備えています。"
+    },
+    {
+      "locale": "zh",
+      "description": "构建一个应用程序或测试一个功能？我们已经建立了20多个开发工具，使之变得简单。Retool Utilities 是一个开发工具的中心，从 RegEx 生成器到向 PostgreSQL 写入模拟数据，这些工具使应用程序的构建更加简单和快速。",
+      "tagline": "导入CSV到PostgreSQL，生成模拟API，以及其他20多项功能"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "構建一個應用程序或測試一個功能？我們已經建立了20多個開發工具，使之變得簡單。Retool Utilities 是一個開發工具的中心，從 RegEx 生成器到向 PostgreSQL 寫入模擬數據，這些工具使應用程序的構建更加簡單和快速。",
+      "tagline": "導入CSV到PostgreSQL，生成模擬API，以及其他20多項功能"
+    }
+  ]
 }

@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-18T11:21:38Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IIHTzZ3z--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uivm1u7wo7eoia0c16wg.png",
   "author": "Theodorus Clarence",
-  "author_url": "https://dev.to/theodorusclarence"
+  "author_url": "https://dev.to/theodorusclarence",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "メンタルモデルとは、外部の現実を個人的に内部で表現したものであり、人々が対話する際に使用するものです。",
+      "title": "基本に立ち返る：フレックスボックスを理解するためのメンタルモデル"
+    },
+    {
+      "locale": "zh",
+      "description": "心智模式是个人的、对外部现实的内部表述，人们用它来互动。",
+      "title": "返璞归真：理解Flexbox的心理模型"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "心智模式是個人的、對外部現實的內部表述，人們用它來互動。",
+      "title": "返璞歸真：理解Flexbox的心理模型"
+    }
+  ]
 }
