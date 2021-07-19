@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-18T15:55:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DnAeCOp_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dpm88x3os47ra4j0lgp2.gif",
   "author": "Temani Afif",
-  "author_url": "https://dev.to/afif"
+  "author_url": "https://dev.to/afif",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "星の評価のように、リアクションは多くのウェブサイトで広く使われているものなので、ここでは私自身の...",
+      "title": "絵文字を使ったCSSのみのリアクションコンポーネント"
+    },
+    {
+      "locale": "zh",
+      "description": "像星级评定一样，反应是许多网站广泛使用的东西，所以我在这里有我自己的...",
+      "title": "一个使用表情符号的纯CSS反应组件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "像星級評定一樣，反應是許多網站廣泛使用的東西，所以我在這裏有我自己的...",
+      "title": "一個使用表情符號的純CSS反應組件"
+    }
+  ]
 }
