@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このような写真はもう二度と撮れないだろう。ドーセット州ポートランドにて撮影。"
+    },
+    {
+      "locale": "zh",
+      "title": "我想我永远也不会再拍到这样的照片了！！。摄于多塞特郡的波特兰。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我想我永遠也不會再拍到這樣的照片了！！。攝於多塞特郡的波特蘭。"
+    }
+  ]
 }
