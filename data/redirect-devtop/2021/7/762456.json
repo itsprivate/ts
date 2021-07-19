@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-18T07:00:27Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--R7ql4x2k--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e23nvhppv8js7e6l7ybt.gif",
   "author": "murtuza",
-  "author_url": "https://dev.to/murtuzaalisurti"
+  "author_url": "https://dev.to/murtuzaalisurti",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このチュートリアルでは、Googleのテキスト入力フィールドのアニメーションとデザインを再現しています。",
+      "title": "GoogleのMaterial Designテキスト入力フィールドをCSSとJavaScriptで作成するには？"
+    },
+    {
+      "locale": "zh",
+      "description": "在本教程中，我们试图重新创建谷歌的文本输入字段的动画和设计。",
+      "title": "如何使用CSS和JavaScript创建谷歌的Material Design文本输入框？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在本教程中，我們試圖重新創建谷歌的文本輸入字段的動畫和設計。",
+      "title": "如何使用CSS和JavaScript創建谷歌的Material Design文本輸入框？"
+    }
+  ]
 }
