@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC】無限に複雑な関数（フラクタル）であるマンデルブロ集合のごく小さな領域です。"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]这是曼德布罗特集的一个非常小的区域，一个无限复杂的函数（分形）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]這是曼德布羅特集的一個非常小的區域，一個無限複雜的函數（分形）。"
+    }
+  ]
 }
