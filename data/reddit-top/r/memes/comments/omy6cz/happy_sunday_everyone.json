@@ -42,5 +42,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "皆さん、ハッピーサンデー"
+    },
+    {
+      "locale": "zh",
+      "title": "大家周日快乐"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "大家週日快樂"
+    }
+  ]
 }

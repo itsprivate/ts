@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] 新型コビトの死亡数とコビトの予防接種数の相関関係 - 特定の国"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]新的冠状病毒死亡和冠状病毒疫苗接种的相关性--选定国家"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]新的冠狀病毒死亡和冠狀病毒疫苗接種的相關性--選定國家"
+    }
+  ]
 }
