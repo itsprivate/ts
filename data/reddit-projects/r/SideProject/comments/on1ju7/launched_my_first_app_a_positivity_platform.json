@@ -52,5 +52,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Hey everyone! I'm a high school student from the Bay Area, and I just launched\nmy first app today! It's called Lapis News, and it's an app designed to make\npeople smile and spread positivity. I used a mixture of sentiment analysis AI,\ncuration, and APIs to create Lapis News, which displays good…"
+  "the_new_excerpt": "Hey everyone! I'm a high school student from the Bay Area, and I just launched\nmy first app today! It's called Lapis News, and it's an app designed to make\npeople smile and spread positivity. I used a mixture of sentiment analysis AI,\ncuration, and APIs to create Lapis News, which displays good…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "皆さん、こんにちは。私はベイエリアの高校生で、今日初めてアプリをリリースしました。\n今日、初めてのアプリをリリースしました。これはLapis Newsというアプリで、人々を笑顔にし、ポジティブにするために作られたアプリです。\n人々を笑顔にし、ポジティブな気持ちを広めるためのアプリです。センチメント分析AIとキュレーション、APIを組み合わせて作りました。\n感情分析AI、キュレーション、APIを組み合わせて、Lapis Newsを作りました。",
+      "title": "初めてのアプリを立ち上げました 人々を笑顔にするためのポジティブなプラットフォームです :)"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "大家好! 我是一名来自湾区的高中生，我今天刚刚推出了我的第一个应用程序\n我今天刚刚推出了我的第一个应用程序! 它被称为 \"Lapis News\"，是一个旨在使人们微笑和传播积极性的应用程序。\n它是一个旨在使人们微笑和传播积极性的应用程序。我使用了情感分析、人工智能、策展和API的混合方法来创建。\n我使用了情感分析人工智能、策展和API的混合物来创建Lapis新闻，它显示了良好的信息。",
+      "title": "推出了我的第一个应用程序! 一个旨在让人们微笑的积极性平台 :)"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "大家好! 我是一名來自灣區的高中生，我今天剛剛推出了我的第一個應用程序\n我今天剛剛推出了我的第一個應用程序! 它被稱爲 \"Lapis News\"，是一個旨在使人們微笑和傳播積極性的應用程序。\n它是一個旨在使人們微笑和傳播積極性的應用程序。我使用了情感分析、人工智能、策展和API的混合方法來創建。\n我使用了情感分析人工智能、策展和API的混合物來創建Lapis新聞，它顯示了良好的信息。",
+      "title": "推出了我的第一個應用程序! 一個旨在讓人們微笑的積極性平臺 :)"
+    }
+  ]
 }
