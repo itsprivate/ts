@@ -65,5 +65,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この70歳の男性は、34年間の毎日のワークアウトで30代のように見える。"
+    },
+    {
+      "locale": "zh",
+      "title": "这位70岁的老人经过34年的日常锻炼，看起来像30多岁。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這位70歲的老人經過34年的日常鍛鍊，看起來像30多歲。"
+    }
+  ]
 }
