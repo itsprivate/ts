@@ -111,5 +111,19 @@
   },
   "retweet_count": 94,
   "favorite_count": 300,
-  "original_created_at": "Mon Jul 19 21:20:57 +0000 2021"
+  "original_created_at": "Mon Jul 19 21:20:57 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "暗号、％が2021年の高値を下回る\nビットコイン $BTC: -54\nカルダノ $ADA： -55\nイーサリアム $ETH： -59\nソラナ $SOL： -59\nバイナンス $BNB： -61\nユニスワップ $UNI： -66\nXRP $XRP: -72\nチェーンリンク $LINK: -73%\nステラ $XLM: -73\nライトコイン $LTC: -73\nビットコインキャッシュ $BCH: -75パーセント\nドッグコイン $DOGE: -77%\nポルカドット $DOT: -78%"
+    },
+    {
+      "locale": "zh",
+      "full_text": "加密货币，低于2021年高点的%。\n比特币 $BTC: -54%\n卡达诺 $ADA: -55%\n以太坊 $ETH: -59%\nSolana $SOL: -59%\nBinance $BNB: -61\nUniswap $UNI: -66\nXRP $XRP: -72\nChainlink $LINK: -73%\nStellar $XLM: -73\nLitecoin $LTC: -73\nBitcoinCash $BCH: -75\nDogecoin $DOGE: -77%\nPolkadot $DOT: -78%"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "加密貨幣，低於2021年高點的%。\n比特幣 $BTC: -54%\n卡達諾 $ADA: -55%\n以太坊 $ETH: -59%\nSolana $SOL: -59%\nBinance $BNB: -61\nUniswap $UNI: -66\nXRP $XRP: -72\nChainlink $LINK: -73%\nStellar $XLM: -73\nLitecoin $LTC: -73\nBitcoinCash $BCH: -75\nDogecoin $DOGE: -77%\nPolkadot $DOT: -78%"
+    }
+  ]
 }

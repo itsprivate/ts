@@ -41,5 +41,22 @@
   "original_created_at": "2021-07-18T08:16:40Z",
   "image": "https://dev.to/social_previews/article/762475.png",
   "author": "Lucretius Biah",
-  "author_url": "https://dev.to/biah"
+  "author_url": "https://dev.to/biah",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "レイジーローディングという言葉をご存知でしょうか。wikipediaから引用させていただきます。   \"レイジーローディングとは、デバイスパターンの一つで...",
+      "title": "独自のJavaScript関数によるスタイルシートのレイジーロード"
+    },
+    {
+      "locale": "zh",
+      "description": "因此，你听说过懒惰加载。让我引用维基百科的内容。   \"懒惰加载是一种设备模式...",
+      "title": "用你自己的JavaScript函数懒洋洋地加载样式表"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "因此，你聽說過懶惰加載。讓我引用維基百科的內容。   \"懶惰加載是一種設備模式...",
+      "title": "用你自己的JavaScript函數懶洋洋地加載樣式表"
+    }
+  ]
 }
