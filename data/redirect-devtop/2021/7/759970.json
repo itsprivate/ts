@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-15T09:30:29Z",
   "image": "https://dev.to/social_previews/article/759970.png",
   "author": "Code_Jedi",
-  "author_url": "https://dev.to/code_jedi"
+  "author_url": "https://dev.to/code_jedi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ここでは、pythonのgithubリポジトリとライブラリのトップリストを調査し、厳選して紹介します。",
+      "title": "初心者のPython開発者に必須の5つのGitHubプロジェクト "
+    },
+    {
+      "locale": "zh",
+      "description": "这里是一个经过研究和精心挑选的顶级Python github仓库和库的列表。",
+      "title": "5个GitHub项目对每个初级Python开发者来说都是必不可少的 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這裏是一個經過研究和精心挑選的頂級Python github倉庫和庫的列表。",
+      "title": "5個GitHub項目對每個初級Python開發者來說都是必不可少的 "
+    }
+  ]
 }
