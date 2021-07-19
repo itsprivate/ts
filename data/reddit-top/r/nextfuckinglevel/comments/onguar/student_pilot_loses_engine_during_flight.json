@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "学生パイロットが飛行中にエンジンを失う"
+    },
+    {
+      "locale": "zh",
+      "title": "学生飞行员在飞行中失去了引擎"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "學生飛行員在飛行中失去了引擎"
+    }
+  ]
 }
