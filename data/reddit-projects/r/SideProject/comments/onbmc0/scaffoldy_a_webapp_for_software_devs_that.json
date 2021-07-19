@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Scaffoldy - カスタマイズ可能なDocker Composeテンプレートプロジェクトを数回のクリックで生成するソフトウェア開発者向けウェブアプリ"
+    },
+    {
+      "locale": "zh",
+      "title": "Scaffoldy - 为软件开发人员提供的网络应用程序，只需点击几下就能生成可定制的Docker Compose模板项目。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Scaffoldy - 爲軟件開發人員提供的網絡應用程序，只需點擊幾下就能生成可定製的Docker Compose模板項目。"
+    }
+  ]
 }
