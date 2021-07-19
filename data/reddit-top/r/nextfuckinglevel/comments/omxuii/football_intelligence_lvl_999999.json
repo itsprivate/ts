@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "サッカーの知性のレベルは999999"
+    },
+    {
+      "locale": "zh",
+      "title": "足球智力等级999999"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "足球智力等級999999"
+    }
+  ]
 }
