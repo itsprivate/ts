@@ -14,5 +14,19 @@
   "tags": [
     "The New York Times"
   ],
-  "image": "https://static01.nyt.com/images/2021/07/19/world/00Taiwan-train-top1/00Taiwan-train-top1-facebookJumbo.jpg"
+  "image": "https://static01.nyt.com/images/2021/07/19/world/00Taiwan-train-top1/00Taiwan-train-top1-facebookJumbo.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "台湾で起きた列車事故では、49人が死亡しました。起こるべきではなかった。"
+    },
+    {
+      "locale": "zh",
+      "title": "台湾的这起火车事故造成49人死亡。它不需要发生。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "臺灣的這起火車事故造成49人死亡。它不需要發生。"
+    }
+  ]
 }
