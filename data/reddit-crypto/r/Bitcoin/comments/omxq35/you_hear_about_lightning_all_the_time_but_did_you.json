@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "It's easy to become skeptical of pronouncements about massive new developments\nthat are caveated with \"and the real world applications will get there\neventually.\" For example, the Lightning Network as secure off-chain settlement\nto solve Bitcoin's scaleability. Always sounded reasonable, but many,…"
+  "the_new_excerpt": "It's easy to become skeptical of pronouncements about massive new developments\nthat are caveated with \"and the real world applications will get there\neventually.\" For example, the Lightning Network as secure off-chain settlement\nto solve Bitcoin's scaleability. Always sounded reasonable, but many,…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "大規模な新開発の発表には懐疑的になりがちです。\n大規模な新開発についての発表で、「実際のアプリケーションはいずれそこに到達するだろう」という言葉で締めくくられていると\nという言葉には懐疑的になりがちです。例えば、ビットコインのスケーラビリティを解決するために、オフチェーンで安全に決済するライトニングネットワーク\nは、ビットコインのスケーラビリティを解決するためのものです。常に合理的に聞こえましたが、多くの...",
+      "title": "Lightningはよく耳にしますが、使ったことはありますか？とにかくやってみてください。ビットコインがすでに世界の決済ネットワークになれることを証明している。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我们很容易对那些以 \"我不知道 \"为借口的大规模新发展的声明持怀疑态度。\n很容易对那些以 \"现实世界的应用最终会达到 \"为前提的大规模新发展的声明持怀疑态度。\n最终。\" 例如，闪电网络作为安全的链外结算\n来解决比特币的可扩展性。听起来总是很合理，但许多人，...",
+      "title": "你经常听说 \"闪电\"，但你有没有使用过它？就去做吧。它证明了比特币已经能够成为世界上的支付网络。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我們很容易對那些以 \"我不知道 \"爲藉口的大規模新發展的聲明持懷疑態度。\n很容易對那些以 \"現實世界的應用最終會達到 \"爲前提的大規模新發展的聲明持懷疑態度。\n最終。\" 例如，閃電網絡作爲安全的鏈外結算\n來解決比特幣的可擴展性。聽起來總是很合理，但許多人，...",
+      "title": "你經常聽說 \"閃電\"，但你有沒有使用過它？就去做吧。它證明了比特幣已經能夠成爲世界上的支付網絡。"
+    }
+  ]
 }
