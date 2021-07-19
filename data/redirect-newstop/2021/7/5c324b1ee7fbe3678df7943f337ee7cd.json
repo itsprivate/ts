@@ -14,5 +14,19 @@
   "tags": [
     "The Wall Street Journal"
   ],
-  "image": "https://images.wsj.net/im-371461/social"
+  "image": "https://images.wsj.net/im-371461/social",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "バイデン政権、マイクロソフト社のサイバー攻撃の原因を中国のハッカーに求める"
+    },
+    {
+      "locale": "zh",
+      "title": "拜登政府指责与中国有联系的黑客对微软的网络攻击狂潮。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "拜登政府指責與中國有聯繫的黑客對微軟的網絡攻擊狂潮。"
+    }
+  ]
 }
