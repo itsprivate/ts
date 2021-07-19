@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "I sometimes see people on here saying they sent crypto to the wrong address or\nan address for a different crypto by mistake and thus losing it forever. Why\ncan't exchanges or wallets just run a simple check for a valid address for that\ncrypto before sending it, and if it's unable to locate an…"
+  "the_new_excerpt": "I sometimes see people on here saying they sent crypto to the wrong address or\nan address for a different crypto by mistake and thus losing it forever. Why\ncan't exchanges or wallets just run a simple check for a valid address for that\ncrypto before sending it, and if it's unable to locate an…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ここでは、間違ったアドレスに暗号を送ってしまったとか、別の暗号のアドレスに送ってしまったという人を時々見かけます。\n誤って別の暗号のアドレスに送信してしまい、永久に失ってしまったという人を時々見かけます。なぜ\n取引所やウォレットは、暗号を送信する前に、その暗号に有効なアドレスかどうかを簡単にチェックすることができないのでしょうか。\n暗号を送信する前に、その暗号の有効なアドレスを簡単にチェックして、見つからない場合は...",
+      "title": "なぜ暗号を送信する前に、送信先のアドレスがその暗号に有効なアドレスかどうかを自動的にチェックしないのですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我有时在这里看到有人说他们把加密货币发送到了错误的地址或\n错了一个不同的加密货币的地址，从而永远失去了它。为什么\n交易所或钱包就不能简单地检查一下该密码的有效地址吗？\n交易所或钱包为什么不能在发送前简单地检查一下该加密货币的有效地址，如果它无法找到一个有效的地址，就可以将其发送出去。",
+      "title": "为什么在发送加密货币之前没有一个自动检查，看看你要发送的地址是否是该加密货币的有效地址？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我有時在這裏看到有人說他們把加密貨幣發送到了錯誤的地址或\n錯了一個不同的加密貨幣的地址，從而永遠失去了它。爲什麼\n交易所或錢包就不能簡單地檢查一下該密碼的有效地址嗎？\n交易所或錢包爲什麼不能在發送前簡單地檢查一下該加密貨幣的有效地址，如果它無法找到一個有效的地址，就可以將其發送出去。",
+      "title": "爲什麼在發送加密貨幣之前沒有一個自動檢查，看看你要發送的地址是否是該加密貨幣的有效地址？"
+    }
+  ]
 }
