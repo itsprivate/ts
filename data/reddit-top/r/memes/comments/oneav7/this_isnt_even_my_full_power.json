@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これは私の全力ではありません。"
+    },
+    {
+      "locale": "zh",
+      "title": "这甚至还不是我的全部力量。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這甚至還不是我的全部力量。"
+    }
+  ]
 }
