@@ -13,5 +13,19 @@
   ],
   "objectID": "27893181",
   "original_created_at": "2021-07-20T13:00:55.000Z",
-  "image": "https://www.openwall.com/logo.png"
+  "image": "https://www.openwall.com/logo.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Linux のファイルシステム層における size_t-to-int 脆弱性"
+    },
+    {
+      "locale": "zh",
+      "title": "Linux的文件系统层存在size_t-to-int的漏洞"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Linux的文件系統層存在size_t-to-int的漏洞"
+    }
+  ]
 }
