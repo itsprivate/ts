@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼らは何かを学ばなければならない...。"
+    },
+    {
+      "locale": "zh",
+      "title": "他们必须学习一些东西..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他們必須學習一些東西..."
+    }
+  ]
 }
