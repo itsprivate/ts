@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "If it's just audio, is there a speaker behind the dash specifically for this?"
+  "the_new_excerpt": "If it's just audio, is there a speaker behind the dash specifically for this?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "オーディオだけであれば、ダッシュの後ろに専用のスピーカーがありますか？",
+      "title": "ウインカーを点灯させるときに聞こえる「ティクティク」という音は、本当の機械音なのでしょうか、それとも単なるオーディオの効果音なのでしょうか。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "如果只是音频，在仪表盘后面是否有专门用于此的扬声器？",
+      "title": "你在打开转向灯时听到的 \"嘀嘀 \"声是真正的机械噪音还是只是一种音频效果？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "如果只是音頻，在儀表盤後面是否有專門用於此的揚聲器？",
+      "title": "你在打開轉向燈時聽到的 \"嘀嘀 \"聲是真正的機械噪音還是隻是一種音頻效果？"
+    }
+  ]
 }
