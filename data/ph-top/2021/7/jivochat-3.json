@@ -93,5 +93,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-20T07:01:00Z"
+  "original_createdAt": "2021-07-20T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JivoChatは、すべてのビジネスコミュニケーションのためのメッセンジャーです。Jivo Team Chatでチームメートと話したり、11のチャンネルで顧客をサポートしたりできます。ライブチャット、Instagram、Facebook、WhatsApp、メール、電話、SMS、Telegram、Viber、チャットボット、Apple Business Chat。",
+      "tagline": "インスタグラムを含む11のチャネルでお客様をサポート"
+    },
+    {
+      "locale": "zh",
+      "description": "JivoChat是一个适合你所有业务沟通的信使。在Jivo团队聊天中与队友交谈，并在11个渠道上支持客户。即时聊天、Instagram、Facebook、WhatsApp、电子邮件、电话、短信、Telegram、Viber、聊天机器人和苹果商务聊天。",
+      "tagline": "在包括Instagram在内的11个渠道支持客户"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "JivoChat是一個適合你所有業務溝通的信使。在Jivo團隊聊天中與隊友交談，並在11個渠道上支持客戶。即時聊天、Instagram、Facebook、WhatsApp、電子郵件、電話、短信、Telegram、Viber、聊天機器人和蘋果商務聊天。",
+      "tagline": "在包括Instagram在內的11個渠道支持客戶"
+    }
+  ]
 }
