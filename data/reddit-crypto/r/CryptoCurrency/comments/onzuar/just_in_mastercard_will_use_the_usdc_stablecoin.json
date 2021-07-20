@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ちょうどいい。Mastercardは、USDC安定コインを、暗号通貨を使って商品の支払いをしたいカード会員のためのブリッジ資産として使用する。"
+    },
+    {
+      "locale": "zh",
+      "title": "刚进去。万事达卡将使用USDC稳定币作为桥梁资产，供希望使用加密货币支付商品的持卡人使用。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "剛進去。萬事達卡將使用USDC穩定幣作爲橋樑資產，供希望使用加密貨幣支付商品的持卡人使用。"
+    }
+  ]
 }
