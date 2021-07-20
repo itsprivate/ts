@@ -42,5 +42,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私は彼らの成績のためにFを押しました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我确实按F......为他们的成绩。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我確實按F......爲他們的成績。"
+    }
+  ]
 }

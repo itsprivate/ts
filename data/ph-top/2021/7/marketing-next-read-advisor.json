@@ -48,5 +48,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-20T07:01:00Z"
+  "original_createdAt": "2021-07-20T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "次に何を読むべきかを知るための、迅速で効果的な方法です。",
+      "tagline": "これが最適な選択を知るための方法です。"
+    },
+    {
+      "locale": "zh",
+      "description": "一个快速而有效的方法来知道下一步该读什么。",
+      "tagline": "这就是如何知道你的最佳选择。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個快速而有效的方法來知道下一步該讀什麼。",
+      "tagline": "這就是如何知道你的最佳選擇。"
+    }
+  ]
 }
