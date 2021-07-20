@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] It's a dog's life? 小さい犬種も寿命が長いが、残念な例外もある。"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC] 这是一只狗的生命？较小的品种也有较长的寿命，但有一些不幸的异常值。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC] 這是一隻狗的生命？較小的品種也有較長的壽命，但有一些不幸的異常值。"
+    }
+  ]
 }
