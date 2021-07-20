@@ -136,5 +136,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "GoogleカレンダーとNotionの2WAYシンクを作ってみた！Plug & Play!"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个双向同步的谷歌日历和Notion，即插即用!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個雙向同步的谷歌日曆和Notion，即插即用!"
+    }
+  ]
 }
