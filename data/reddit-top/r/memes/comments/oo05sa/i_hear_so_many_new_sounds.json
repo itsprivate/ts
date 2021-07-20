@@ -42,5 +42,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "たくさんの新しい音が聞こえてきます。"
+    },
+    {
+      "locale": "zh",
+      "title": "我听到许多新的声音"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我聽到許多新的聲音"
+    }
+  ]
 }
