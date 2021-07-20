@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-19T14:57:34Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3L2uk3uK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nqi92e92e0qrb0vv6g7y.jpeg",
   "author": "Nazeeh Vahora",
-  "author_url": "https://dev.to/nazeeh21"
+  "author_url": "https://dev.to/nazeeh21",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "前回のブログでは、Solidityを使ってスマートコントラクトを書き、それと対話することについて説明しました...",
+      "title": "あなたのReactアプリとスマートコントラクトの統合"
+    },
+    {
+      "locale": "zh",
+      "description": "在上一篇博客中，我们讨论了使用Solidity编写智能合约并与之进行交互...",
+      "title": "将你的React应用与智能合约结合起来"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在上一篇博客中，我們討論了使用Solidity編寫智能合約並與之進行交互...",
+      "title": "將你的React應用與智能合約結合起來"
+    }
+  ]
 }
