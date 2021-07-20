@@ -52,5 +52,22 @@
     },
     "retweet_count": 212,
     "favorite_count": 1918
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @ParikPatelCFA: 世界を去ったジェフ・ベゾスはもはや世界で最も裕福な男ではない",
+      "retweeted_status_full_text": "世界を去ったジェフ・ベゾスはもはや世界一の金持ちではない"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @ParikPatelCFA: 杰夫-贝佐斯在离开世界后不再是世界上最富有的人",
+      "retweeted_status_full_text": "杰夫-贝佐斯离开世界后不再是世界上最富有的人"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @ParikPatelCFA: 傑夫-貝佐斯在離開世界後不再是世界上最富有的人",
+      "retweeted_status_full_text": "傑夫-貝佐斯離開世界後不再是世界上最富有的人"
+    }
+  ]
 }

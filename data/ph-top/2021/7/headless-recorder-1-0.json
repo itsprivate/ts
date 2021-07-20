@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-20T08:44:21Z"
+  "original_createdAt": "2021-07-20T08:44:21Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Headless Recorder 1.0は、ブラウザの操作を記録し、コーディングせずにPlaywright/Puppeteerのスクリプトを生成する、フリーでオープンソースのChrome拡張機能です。テスト、モニタリング、スクレイピングのために、スクリプトを簡単に記録、コピー、実行することができます。",
+      "tagline": "閲覧中にPlaywright/Puppeteerのスクリプトを簡単に生成することができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "Headless Recorder 1.0是一个免费和开源的Chrome扩展，它可以记录你的浏览器互动，并生成Playwright/Puppeteer脚本，无需编码。轻松地记录、复制和运行您的脚本，用于测试、监控或刮擦。",
+      "tagline": "在浏览时轻松生成Playwright/Puppeteer脚本"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Headless Recorder 1.0是一個免費和開源的Chrome擴展，它可以記錄你的瀏覽器互動，並生成Playwright/Puppeteer腳本，無需編碼。輕鬆地記錄、複製和運行您的腳本，用於測試、監控或刮擦。",
+      "tagline": "在瀏覽時輕鬆生成Playwright/Puppeteer腳本"
+    }
+  ]
 }
