@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "manganato-cli: Manganatoの漫画ダウンロードツール（私の最初のプロジェクト）。フィードバックはとてもありがたいです。"
+    },
+    {
+      "locale": "zh",
+      "title": "manganato-cli: Manganato的漫画下载器（我的第一个项目）。非常感谢您的反馈意见"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "manganato-cli: Manganato的漫畫下載器（我的第一個項目）。非常感謝您的反饋意見"
+    }
+  ]
 }
