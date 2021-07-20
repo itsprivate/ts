@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "株式市場のETFから企業を切り出す方法を作った(#buildinpublic)"
+    },
+    {
+      "locale": "zh",
+      "title": "我们做出了一种将公司从股市ETF中剔除的方法（#buildinpublic）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們做出了一種將公司從股市ETF中剔除的方法（#buildinpublic）。"
+    }
+  ]
 }
