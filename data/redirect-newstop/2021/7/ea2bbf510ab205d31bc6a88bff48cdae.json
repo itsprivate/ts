@@ -14,5 +14,19 @@
   "tags": [
     "The New York Times"
   ],
-  "image": "https://static01.nyt.com/images/2021/07/19/business/19facebook-misinfo/19facebook-misinfo-facebookJumbo.jpg"
+  "image": "https://static01.nyt.com/images/2021/07/19/business/19facebook-misinfo/19facebook-misinfo-facebookJumbo.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ホワイトハウス問題でFacebookの誤報に対する盲点が明らかに"
+    },
+    {
+      "locale": "zh",
+      "title": "白宫争端暴露了Facebook在错误信息方面的盲点"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "白宮爭端暴露了Facebook在錯誤信息方面的盲點"
+    }
+  ]
 }
