@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "すべては写真のために"
+    },
+    {
+      "locale": "zh",
+      "title": "所有这些都是为了一张照片!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "所有這些都是爲了一張照片!"
+    }
+  ]
 }
