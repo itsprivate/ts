@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"底面が側面に10cm以上ないこと\""
+    },
+    {
+      "locale": "zh",
+      "title": "\"底部两侧不得超过10厘米\""
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"底部兩側不得超過10釐米\""
+    }
+  ]
 }
