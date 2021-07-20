@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-20T07:04:39Z"
+  "original_createdAt": "2021-07-20T07:04:39Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "カレンダーとNotionの同期、その逆も可能です。数分で始められ、すべてのミーティングノートがGoogleカレンダーと自動的に接続されます。",
+      "tagline": "NotionとGoogleカレンダーとの双方向の同期"
+    },
+    {
+      "locale": "zh",
+      "description": "将你的日历与Notion同步，反之亦然。在几分钟内就可以开始使用，让你所有的会议记录与你的谷歌日历自动连接。",
+      "tagline": "在Notion和你的谷歌日历之间进行双向同步"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "將你的日曆與Notion同步，反之亦然。在幾分鐘內就可以開始使用，讓你所有的會議記錄與你的谷歌日曆自動連接。",
+      "tagline": "在Notion和你的谷歌日曆之間進行雙向同步"
+    }
+  ]
 }
