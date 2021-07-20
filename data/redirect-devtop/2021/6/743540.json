@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-30T05:43:52Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SkYT6Zb6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eldpg22ajgkfee23pydy.png",
   "author": "Tamerlan Gudabayev",
-  "author_url": "https://dev.to/tamerlang"
+  "author_url": "https://dev.to/tamerlang",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "プロトタイプ？ あなたはきっと、こんなことを考えているのではないでしょうか。   記事を作ってみたい...",
+      "title": "デザインパターン。プロトタイプ"
+    },
+    {
+      "locale": "zh",
+      "description": "原型？ 你可能在想这个：或者甚至可能是这个。   我很想做一篇文章...",
+      "title": "设计模式。原型"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "原型？ 你可能在想這個：或者甚至可能是這個。   我很想做一篇文章...",
+      "title": "設計模式。原型"
+    }
+  ]
 }
