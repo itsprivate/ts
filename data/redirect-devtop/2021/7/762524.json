@@ -43,5 +43,22 @@
   "original_created_at": "2021-07-18T10:05:51Z",
   "image": "https://dev.to/social_previews/article/762524.png",
   "author": "Stas Melnikov",
-  "author_url": "https://dev.to/melnik909"
+  "author_url": "https://dev.to/melnik909",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "オーバーライドしないモバイルファースト モバイルファーストの考え方では、私たちは...",
+      "title": "CSSをシンプルにするためのテクニック"
+    },
+    {
+      "locale": "zh",
+      "description": "移动优先，没有重写 有移动优先的方法决定了我们应该...",
+      "title": "帮助简化CSS的技术"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "移動優先，沒有重寫 有移動優先的方法決定了我們應該...",
+      "title": "幫助簡化CSS的技術"
+    }
+  ]
 }
