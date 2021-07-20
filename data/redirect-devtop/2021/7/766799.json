@@ -57,5 +57,22 @@
   "original_created_at": "2021-07-20T18:21:07Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s---cFmabdl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w9wzphs3zus8yr4ngkbw.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "本日、独自のForemコミュニティをセルフホスティングするためのプレイブックが正式に公開されました。すべてを読む...",
+      "title": "Foremのセルフホストが正式にサポートされました。"
+    },
+    {
+      "locale": "zh",
+      "description": "今天，自我托管你自己的Forem社区的游戏手册正式上线。阅读全文...",
+      "title": "Forem Self-Host现已得到官方支持"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "今天，自我託管你自己的Forem社區的遊戲手冊正式上線。閱讀全文...",
+      "title": "Forem Self-Host現已得到官方支持"
+    }
+  ]
 }
