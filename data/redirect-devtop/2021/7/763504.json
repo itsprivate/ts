@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-19T14:19:43Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Nrffl-_P--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rd0iin7sl58jkuusgn4o.jpg",
   "author": "Hiep Le",
-  "author_url": "https://dev.to/hieptl"
+  "author_url": "https://dev.to/hieptl",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "プロジェクトを気に入ったら⭐をクリックしてください。Pull Request is highly appreciated ❤️ Github link:...",
+      "title": "Netflixを作ってReactとReduxを学ぶ"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你喜欢这个项目，请点击⭐。如果你喜欢这个项目，请点击⭐，如果你喜欢这个项目，请点击⭐，如果你喜欢这个项目，请点击⭐，如果你喜欢这个项目，请点击⭐。",
+      "title": "通过构建Netflix来学习React和Redux"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你喜歡這個項目，請點擊⭐。如果你喜歡這個項目，請點擊⭐，如果你喜歡這個項目，請點擊⭐，如果你喜歡這個項目，請點擊⭐，如果你喜歡這個項目，請點擊⭐。",
+      "title": "通過構建Netflix來學習React和Redux"
+    }
+  ]
 }
