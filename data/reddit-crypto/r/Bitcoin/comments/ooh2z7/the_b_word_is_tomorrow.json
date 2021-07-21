@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Bワードは明日"
+    },
+    {
+      "locale": "zh",
+      "title": "B字是明天"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "B字是明天"
+    }
+  ]
 }
