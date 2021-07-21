@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-21T07:03:23Z"
+  "original_createdAt": "2021-07-21T07:03:23Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "meet.atSlackは、Slackのワークプレイスにおいて、紹介やミーティングのスケジューリングを行うことで、人と人とのつながりを生み出します。",
+      "tagline": "Slackでのチームビルディング"
+    },
+    {
+      "locale": "zh",
+      "description": "meet.atSlack通过介绍和安排会议，在Slack的工作场所创建人际关系。",
+      "tagline": "在Slack上的团队建设"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "meet.atSlack通過介紹和安排會議，在Slack的工作場所創建人際關係。",
+      "tagline": "在Slack上的團隊建設"
+    }
+  ]
 }
