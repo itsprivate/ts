@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "何を禁止するのですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你会禁止什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你會禁止什麼？"
+    }
+  ]
 }

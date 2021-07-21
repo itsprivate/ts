@@ -14,5 +14,19 @@
   "tags": [
     "The New York Times"
   ],
-  "image": "https://static01.nyt.com/images/2021/07/20/lens/20china-flood-photo/20china-flood-photo-facebookJumbo.jpg"
+  "image": "https://static01.nyt.com/images/2021/07/20/lens/20china-flood-photo/20china-flood-photo-facebookJumbo.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "中国中部で大規模な洪水が発生し、少なくとも12名の方が亡くなりました。"
+    },
+    {
+      "locale": "zh",
+      "title": "中国中部地区的严重洪灾造成至少12人死亡"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "中國中部地區的嚴重洪災造成至少12人死亡"
+    }
+  ]
 }

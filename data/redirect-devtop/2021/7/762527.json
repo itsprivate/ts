@@ -43,5 +43,22 @@
   "original_created_at": "2021-07-18T10:12:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OBK8ildL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uqytmu5mjxor1tqshwkn.png",
   "author": "Karan Pratap Singh",
-  "author_url": "https://dev.to/karanpratapsingh"
+  "author_url": "https://dev.to/karanpratapsingh",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、Viteを試してみたところ、その速さに驚かされました。アプリを起動したかどうかを再確認したところ...。",
+      "title": "Viteは速すぎる!"
+    },
+    {
+      "locale": "zh",
+      "description": "最近我尝试了Vite，我被它的速度吓到了。我重新检查了我是否启动了这个应用程序...",
+      "title": "维特的速度太快了!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "最近我嘗試了Vite，我被它的速度嚇到了。我重新檢查了我是否啓動了這個應用程序...",
+      "title": "維特的速度太快了!"
+    }
+  ]
 }

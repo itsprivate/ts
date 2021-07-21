@@ -102,5 +102,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1626822836,
-  "the_new_excerpt": "For your run-of-the-mill taxable brokerage, what online platform (company) do\nyou use and why?"
+  "the_new_excerpt": "For your run-of-the-mill taxable brokerage, what online platform (company) do\nyou use and why?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "一般的な課税対象となる証券会社では、どのようなオンラインプラットフォーム（会社）を使用していますか？\n使っていますか？",
+      "title": "どのようなプラットフォームを使用していますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "对于你的普通应税经纪业务，你使用什么在线平台（公司）？\n你使用什么在线平台，为什么？",
+      "title": "你使用什么平台？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "對於你的普通應稅經紀業務，你使用什麼在線平臺（公司）？\n你使用什麼在線平臺，爲什麼？",
+      "title": "你使用什麼平臺？"
+    }
+  ]
 }
