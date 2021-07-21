@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "トレーナーがフィットネスプログラムを作成・配信するためのアプリデザイン。UI/UXに関するご意見をお聞かせください。"
+    },
+    {
+      "locale": "zh",
+      "title": "为培训师设计应用程序，以创建和发布健身计划。感谢你对UI/UX的反馈。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲培訓師設計應用程序，以創建和發佈健身計劃。感謝你對UI/UX的反饋。"
+    }
+  ]
 }
