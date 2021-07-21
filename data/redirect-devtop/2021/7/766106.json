@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-20T00:30:47Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WKIt1KyH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1uuiv7g94zprorjht8ik.jpg",
   "author": "Salah Eddine Lalami",
-  "author_url": "https://dev.to/lalami"
+  "author_url": "https://dev.to/lalami",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Starter Antd Admin (Crud &amp; auth) Mern Stackをベースにしたアプリ DigitalOceanのために作られたアプリ...",
+      "title": "Mern App ( Node.js / React / Redux / Ant Design ) Crud & Auth"
+    },
+    {
+      "locale": "zh",
+      "description": "初始Antd管理（Crud &amp; auth）应用程序基于Mern Stack应用程序为DigitalOcean建立。",
+      "title": "Mern App ( Node.js / React / Redux / Ant Design ) Crud & Auth"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "初始Antd管理（Crud &amp; auth）應用程序基於Mern Stack應用程序爲DigitalOcean建立。",
+      "title": "Mern App ( Node.js / React / Redux / Ant Design ) Crud & Auth"
+    }
+  ]
 }

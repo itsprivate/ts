@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "一日を仕事、休憩、自由時間に分けて管理するパーソナルタイムマネージャー。"
+    },
+    {
+      "locale": "zh",
+      "title": "个人时间管理器，将你的整个一天安排为工作、休息和自由时间。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "個人時間管理器，將你的整個一天安排爲工作、休息和自由時間。"
+    }
+  ]
 }
