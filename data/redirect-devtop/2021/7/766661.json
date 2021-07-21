@@ -50,5 +50,22 @@
   "original_created_at": "2021-07-20T13:51:18Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kD6haYc9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ymry09qc0xpa37fl9vn1.png",
   "author": "o1lab",
-  "author_url": "https://dev.to/o1lab"
+  "author_url": "https://dev.to/o1lab",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "NocoDB nocodb / ノコドブ ...",
+      "title": "NocoDB : オープンソースのAirtable代替品"
+    },
+    {
+      "locale": "zh",
+      "description": "NocoDB nocodb / nocodb ...",
+      "title": "NocoDB : 开源的Airtable替代品"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "NocoDB nocodb / nocodb ...",
+      "title": "NocoDB : 開源的Airtable替代品"
+    }
+  ]
 }
