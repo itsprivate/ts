@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この犬は高レベルのトロール"
+    },
+    {
+      "locale": "zh",
+      "title": "这条狗是一个高水平的巨魔"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這條狗是一個高水平的巨魔"
+    }
+  ]
 }

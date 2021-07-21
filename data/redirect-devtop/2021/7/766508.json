@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-20T12:24:48Z",
   "image": "https://dev.to/social_previews/article/766508.png",
   "author": "Mwenda Harun Mbaabu",
-  "author_url": "https://dev.to/grayhat"
+  "author_url": "https://dev.to/grayhat",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Pythonは、Guido van Rossumによって作られ、1991年にリリースされたインタプリタ型の高水準言語です。この言語は...",
+      "title": "Python 101! Pythonの紹介"
+    },
+    {
+      "locale": "zh",
+      "description": "Python是一种解释性的高级语言，由Guido van Rossum创建，于1991年发布。它...",
+      "title": "Python 101! Python简介"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Python是一種解釋性的高級語言，由Guido van Rossum創建，於1991年發佈。它...",
+      "title": "Python 101! Python簡介"
+    }
+  ]
 }
