@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Comment just made on The B Word conference"
+  "the_new_excerpt": "Comment just made on The B Word conference",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "The B Word」カンファレンスにコメントを寄せました",
+      "title": "イーロン・マスク：Tesla、SpaceX、そして私はビットコインを売らない"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "刚刚对The B Word会议发表的评论",
+      "title": "埃隆-马斯克：特斯拉、SpaceX和我都不卖比特币"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "剛剛對The B Word會議發表的評論",
+      "title": "埃隆-馬斯克：特斯拉、SpaceX和我都不賣比特幣"
+    }
+  ]
 }
