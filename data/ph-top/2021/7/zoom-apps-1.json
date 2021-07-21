@@ -178,5 +178,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-21T13:10:00Z"
+  "original_createdAt": "2021-07-21T13:10:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Zoom Appsは、サードパーティのアプリケーションをZoom Meetingsやデスクトップクライアントのエクスペリエンスにシームレスに組み込み、コラボレーション、生産性、エンターテインメントを強化します。現在、50以上のZoom Appsが利用可能で、さらに多くのZoom Appsが開発されており、近日公開予定です。",
+      "tagline": "Zoomで動作するアプリ"
+    },
+    {
+      "locale": "zh",
+      "description": "Zoom Apps在Zoom Meetings和桌面客户端体验中无缝嵌入了第三方应用程序，增强了协作、生产力和娱乐性。现在有超过50个Zoom Apps，还有更多正在开发的应用，很快就可以使用。",
+      "tagline": "在Zoom上运行的应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Zoom Apps在Zoom Meetings和桌面客戶端體驗中無縫嵌入了第三方應用程序，增強了協作、生產力和娛樂性。現在有超過50個Zoom Apps，還有更多正在開發的應用，很快就可以使用。",
+      "tagline": "在Zoom上運行的應用程序"
+    }
+  ]
 }
