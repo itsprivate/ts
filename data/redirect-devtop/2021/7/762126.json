@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-17T17:27:19Z",
   "image": "https://dev.to/social_previews/article/762126.png",
   "author": "Bharati Subramanian",
-  "author_url": "https://dev.to/bharati21"
+  "author_url": "https://dev.to/bharati21",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "HTML文書に外部スクリプトファイルを追加することは、寝ている間にできるほど簡単です。 しかし...",
+      "title": "JavaScriptの読み込み技術とパフォーマンス "
+    },
+    {
+      "locale": "zh",
+      "description": "在你的HTML文档中添加外部脚本文件很简单，你可以在睡梦中完成它。 但是...",
+      "title": "JavaScript加载技术和性能 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在你的HTML文檔中添加外部腳本文件很簡單，你可以在睡夢中完成它。 但是...",
+      "title": "JavaScript加載技術和性能 "
+    }
+  ]
 }

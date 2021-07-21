@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-21T13:15:00Z"
+  "original_createdAt": "2021-07-21T13:15:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Avoma Assistant for Zoom Appsは、会議の準備を簡素化し、メモの取り方を自動化し、知識の共有を効率化し、AIが導き出した洞察に基づいてデータに基づく意思決定を支援します。",
+      "tagline": "あなたのZoomミーティングを実用的でスマートなものにする"
+    },
+    {
+      "locale": "zh",
+      "description": "适用于Zoom Apps的Avoma Assistant简化了会议的准备工作，自动记录，简化了知识共享，并有助于根据人工智能的洞察力做出数据驱动的决定--就在你的Zoom体验中。",
+      "tagline": "让你的Zoom会议可操作，更智能"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "適用於Zoom Apps的Avoma Assistant簡化了會議的準備工作，自動記錄，簡化了知識共享，並有助於根據人工智能的洞察力做出數據驅動的決定--就在你的Zoom體驗中。",
+      "tagline": "讓你的Zoom會議可操作，更智能"
+    }
+  ]
 }
