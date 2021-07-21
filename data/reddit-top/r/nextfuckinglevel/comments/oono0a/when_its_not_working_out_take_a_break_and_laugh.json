@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "上手くいかない時は一休みして笑う"
+    },
+    {
+      "locale": "zh",
+      "title": "当它不工作的时候，休息一下，笑一笑"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當它不工作的時候，休息一下，笑一笑"
+    }
+  ]
 }

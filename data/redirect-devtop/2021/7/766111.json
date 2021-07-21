@@ -41,5 +41,22 @@
   "original_created_at": "2021-07-20T02:04:30Z",
   "image": "https://dev.to/social_previews/article/766111.png",
   "author": "Michael Kohl",
-  "author_url": "https://dev.to/citizen428"
+  "author_url": "https://dev.to/citizen428",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私はなぜか、いくつかのブランチを並行して作業することが多く、いくつかのものは私の人生を...",
+      "title": "Gitクイック・ティップス2：多数のブランチを扱う"
+    },
+    {
+      "locale": "zh",
+      "description": "不知何故，我经常最终在几个分支上并行工作，有些事情让我的生活...",
+      "title": "Git快速入门技巧#2：与许多分支一起工作"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "不知何故，我經常最終在幾個分支上並行工作，有些事情讓我的生活...",
+      "title": "Git快速入門技巧#2：與許多分支一起工作"
+    }
+  ]
 }
