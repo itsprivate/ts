@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Alluder - NetflixやHuluで配信されているテレビ番組や映画に注釈を加えることができるウェブサイトとクローム拡張機能です。"
+    },
+    {
+      "locale": "zh",
+      "title": "Alluder - 一个网站和chrome扩展，可以让你在Netflix和Hulu的任何电视节目或电影中添加注释。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Alluder - 一個網站和chrome擴展，可以讓你在Netflix和Hulu的任何電視節目或電影中添加註釋。"
+    }
+  ]
 }
