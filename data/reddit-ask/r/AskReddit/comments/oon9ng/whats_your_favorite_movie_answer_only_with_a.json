@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの好きな映画は何ですか？(その映画からの引用でのみ回答）？)"
+    },
+    {
+      "locale": "zh",
+      "title": "你最喜欢的电影是什么？(只能用其中的一句话来回答）？)"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你最喜歡的電影是什麼？(只能用其中的一句話來回答）？)"
+    }
+  ]
 }

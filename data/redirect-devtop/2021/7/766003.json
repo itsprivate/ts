@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-19T21:35:58Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--R22K1dhg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wegqgbakevtf8h9tcu3j.jpg",
   "author": "Guy Dumais",
-  "author_url": "https://dev.to/guydumais"
+  "author_url": "https://dev.to/guydumais",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Next.jsは4つのレンダリングストラテジーを用いてReactシングルページアプリ（SPA）を構築、配信、レンダリングします。1....",
+      "title": "Next.js: ページレンダリングのための究極のチートシート"
+    },
+    {
+      "locale": "zh",
+      "description": "Next.js使用4种渲染策略来构建、交付和渲染React单页应用程序（SPA）：1....",
+      "title": "Next.js：页面渲染的终极骗局"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Next.js使用4種渲染策略來構建、交付和渲染React單頁應用程序（SPA）：1....",
+      "title": "Next.js：頁面渲染的終極騙局"
+    }
+  ]
 }
