@@ -102,5 +102,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1626836089,
-  "the_new_excerpt": "If it's a feature somewhere, I haven't seen it yet. The idea is that you\nallocate a percentage of your portfolio to each stock. Say you have 2 stocks and\n$1000 capital, you allocate 70% to stock 1 and 30% to stock 2. $700 of stock 1\nis bought and $300 of stock 2. 30 minutes before market close,…"
+  "the_new_excerpt": "If it's a feature somewhere, I haven't seen it yet. The idea is that you\nallocate a percentage of your portfolio to each stock. Say you have 2 stocks and\n$1000 capital, you allocate 70% to stock 1 and 30% to stock 2. $700 of stock 1\nis bought and $300 of stock 2. 30 minutes before market close,…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "どこかに機能があったとしても、まだ見たことがありません。アイデアは、あなたが\n各銘柄に自分のポートフォリオの何パーセントかを割り当てるというものです。例えば、2つの銘柄を持っていて\n株1が700ドル、株2が300ドル買われたとします。\nが買われ、株2が300ドル買われました。マーケットクローズの30分前に、...",
+      "title": "ブローカーが自動でポートフォリオを管理できるようになるといいですね。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "如果它是某处的一个功能，我还没有看到。这个想法是，你\n将你的投资组合的一个百分比分配给每只股票。假设你有两只股票和1000美元的资本，你将70%分配给股票1，30%分配给股票2。\n1000美元的资本，你将70%分配给股票1，30%分配给股票2。\n被买入，300美元被买入股票2。收市前30分钟，...",
+      "title": "我希望看到经纪商允许自动管理投资组合。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "如果它是某處的一個功能，我還沒有看到。這個想法是，你\n將你的投資組合的一個百分比分配給每隻股票。假設你有兩隻股票和1000美元的資本，你將70%分配給股票1，30%分配給股票2。\n1000美元的資本，你將70%分配給股票1，30%分配給股票2。\n被買入，300美元被買入股票2。收市前30分鐘，...",
+      "title": "我希望看到經紀商允許自動管理投資組合。"
+    }
+  ]
 }
