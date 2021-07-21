@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "同じ写真です"
+    },
+    {
+      "locale": "zh",
+      "title": "这是同一张照片"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是同一張照片"
+    }
+  ]
 }
