@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "カレンは、「何もいいことがないなら、何も言わなければいい」ということを学んだ。"
+    },
+    {
+      "locale": "zh",
+      "title": "凯伦学会了如果你没有什么好话可说，那就什么都不要说的艰难方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "凱倫學會了如果你沒有什麼好話可說，那就什麼都不要說的艱難方法"
+    }
+  ]
 }
