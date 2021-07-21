@@ -39,5 +39,22 @@
   "original_created_at": "2021-07-20T18:05:33Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nc_UGLmy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qmc7o8jk8au13r3qm4ev.jpeg",
   "author": "Rocky",
-  "author_url": "https://dev.to/codelivly"
+  "author_url": "https://dev.to/codelivly",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": " このページでは、初心者のためのJavaScriptプロジェクトを10以上掲載しています フレームワークを使わず、それぞれの...",
+      "title": " 初心者向けのJavascriptプロジェクト"
+    },
+    {
+      "locale": "zh",
+      "description": " 本页列出了10多个适合初学者的JavaScript项目! 没有任何框架，每个项目都有自己的特点。",
+      "title": " 初学者的顶尖Javascript项目"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": " 本頁列出了10多個適合初學者的JavaScript項目! 沒有任何框架，每個項目都有自己的特點。",
+      "title": " 初學者的頂尖Javascript項目"
+    }
+  ]
 }
