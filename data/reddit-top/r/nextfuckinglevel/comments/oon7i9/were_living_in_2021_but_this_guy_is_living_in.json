@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "我々は2021年に生きているが、この男は40,019年に生きている。"
+    },
+    {
+      "locale": "zh",
+      "title": "我们生活在2021年，但这家伙却生活在40,019年"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們生活在2021年，但這傢伙卻生活在40,019年"
+    }
+  ]
 }
