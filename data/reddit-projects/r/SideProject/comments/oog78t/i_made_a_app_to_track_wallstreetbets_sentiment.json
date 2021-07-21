@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "WallStreetBetsのSentimentを追跡するアプリを作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个应用来跟踪WallStreetBets的情绪"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個應用來跟蹤WallStreetBets的情緒"
+    }
+  ]
 }
