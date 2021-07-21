@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-19T14:29:16Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1eZ5q1uw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rpkegg9gque7a9lg49ww.jpg",
   "author": "Luis Velásquez",
-  "author_url": "https://dev.to/luvejo"
+  "author_url": "https://dev.to/luvejo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "複雑なサードパーティのライブラリのドキュメントを読む代わりに、私は、どのようにして...を構築するかを考えてみました。",
+      "title": "Vue.jsを使って一からカルーセルを作る"
+    },
+    {
+      "locale": "zh",
+      "description": "我没有翻阅复杂的第三方库文档，而是试图弄清楚如何建立一个...",
+      "title": "使用Vue.js从头开始构建一个旋转木马"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我沒有翻閱複雜的第三方庫文檔，而是試圖弄清楚如何建立一個...",
+      "title": "使用Vue.js從頭開始構建一個旋轉木馬"
+    }
+  ]
 }
