@@ -107,5 +107,22 @@
     "retweet_count": 410,
     "favorite_count": 1597,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @BitcoinMagazine: BREAKING - BNY Mellonは6つの銀行とともに、新しい#ビットコイン取引所Pure Digitalを支援しました。最初の取引の予定は...",
+      "retweeted_status_full_text": "速報 - BNY Mellonは6つの銀行とともに、新しい#ビットコイン取引所Pure Digitalを支援しました。最初の取引は「1週間以内」に行われる予定だ。https://t.co/Vf6WJ3wFte"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @BitcoinMagazine: BREAKING - 纽约梅隆银行刚刚加入六家银行，支持新的#比特币交易所Pure Digital。第一笔交易的时间安排是...",
+      "retweeted_status_full_text": "爆炸 - 纽约梅隆银行刚刚加入六家银行，支持新的#比特币交易所Pure Digital。第一笔交易计划在 \"一周内 \"进行。https://t.co/Vf6WJ3wFte。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @BitcoinMagazine: BREAKING - 紐約梅隆銀行剛剛加入六家銀行，支持新的#比特幣交易所Pure Digital。第一筆交易的時間安排是...",
+      "retweeted_status_full_text": "爆炸 - 紐約梅隆銀行剛剛加入六家銀行，支持新的#比特幣交易所Pure Digital。第一筆交易計劃在 \"一週內 \"進行。https://t.co/Vf6WJ3wFte。"
+    }
+  ]
 }
