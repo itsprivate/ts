@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-12T12:48:04Z",
   "image": "https://dev.to/social_previews/article/757067.png",
   "author": "Code_Jedi",
-  "author_url": "https://dev.to/code_jedi"
+  "author_url": "https://dev.to/code_jedi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "リアクションの仕事をしてみたいけど、何から始めればいいのかわからないという方は、ぜひ参考にしてください。",
+      "title": "初めてのリアクトプロジェクト "
+    },
+    {
+      "locale": "zh",
+      "description": "如果你正在寻找与反应有关的工作，但不知道从哪里开始，那么你就来了。",
+      "title": "你的第一个反应项目 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你正在尋找與反應有關的工作，但不知道從哪裏開始，那麼你就來了。",
+      "title": "你的第一個反應項目 "
+    }
+  ]
 }
