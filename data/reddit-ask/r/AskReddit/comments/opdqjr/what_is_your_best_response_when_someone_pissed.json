@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "怒られて「Chill out」や「Calm Down」と言われたとき、あなたはどのように対応しますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "当有人惹恼了你，叫你 \"冷静 \"或 \"淡定 \"时，你最好的反应是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當有人惹惱了你，叫你 \"冷靜 \"或 \"淡定 \"時，你最好的反應是什麼？"
+    }
+  ]
 }
