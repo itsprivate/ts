@@ -91,5 +91,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼はそこで生まれた...。"
+    },
+    {
+      "locale": "zh",
+      "title": "他在那里出生..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他在那裏出生..."
+    }
+  ]
 }

@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-22T01:10:57Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cphuxabO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y8a8rei2svzfbrwze9pj.jpg",
   "author": "Aya Bouchiha",
-  "author_url": "https://dev.to/ayabouchiha"
+  "author_url": "https://dev.to/ayabouchiha",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは。私はアヤ・ボチハです。この素晴らしい日に、すべての文字列のメソッドについて、...",
+      "title": "すべてのJS文字列メソッドを1つの記事にまとめました"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，我是Aya Bouchiha，在这个美好的日子里，我们将讨论所有的字符串方法。",
+      "title": "一篇文章中的所有JS字符串方法!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，我是Aya Bouchiha，在這個美好的日子裏，我們將討論所有的字符串方法。",
+      "title": "一篇文章中的所有JS字符串方法!"
+    }
+  ]
 }

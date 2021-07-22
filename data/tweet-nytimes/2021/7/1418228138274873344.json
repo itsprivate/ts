@@ -113,5 +113,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Thu Jul 22 15:15:12 +0000 2021"
+  "original_created_at": "Thu Jul 22 15:15:12 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "Breaking Newsです。DeepMindと呼ばれる人工知能研究所が、科学者が何年もかかる作業である数十万のタンパク質の形状を数時間で予測しました。この技術は医療や科学の研究を大きく加速させる可能性があります。\nhttps://t.co/L9ZBTamYh5"
+    },
+    {
+      "locale": "zh",
+      "full_text": "爆炸性新闻。一个名为DeepMind的人工智能实验室在数小时内预测了数十万种蛋白质的形状--这是一项需要科学家花费数年时间的任务。这项技术可以大大加快医学和科学研究的速度。\nhttps://t.co/L9ZBTamYh5"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "爆炸性新聞。一個名爲DeepMind的人工智能實驗室在數小時內預測了數十萬種蛋白質的形狀--這是一項需要科學家花費數年時間的任務。這項技術可以大大加快醫學和科學研究的速度。\nhttps://t.co/L9ZBTamYh5"
+    }
+  ]
 }

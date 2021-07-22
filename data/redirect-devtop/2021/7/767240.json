@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-21T05:41:14Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--X0eSjjoa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r6ffi7w2oc2cc67t24p8.png",
   "author": "The Nerdy Dev",
-  "author_url": "https://dev.to/thenerdydev"
+  "author_url": "https://dev.to/thenerdydev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは👋🏻 今回は、React.jsのuseRefフックについて理解してみましょう。          SYNTAX...",
+      "title": "useRefフック｜useRef vs useState"
+    },
+    {
+      "locale": "zh",
+      "description": "Hey everyone 👋🏻, In this article, let us understand the useRef hook in React.js.           SYNTAX...",
+      "title": "useRef Hook | useRef vs useState"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Hey everyone 👋🏻, In this article, let us understand the useRef hook in React.js.           SYNTAX...",
+      "title": "useRef Hook | useRef vs useState"
+    }
+  ]
 }
