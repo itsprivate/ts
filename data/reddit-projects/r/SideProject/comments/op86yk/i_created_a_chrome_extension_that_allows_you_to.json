@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "https://i.redd.it/pfcrm6p3ipc71.gif"
+  "the_new_excerpt": "https://i.redd.it/pfcrm6p3ipc71.gif",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "https://i.redd.it/pfcrm6p3ipc71.gif",
+      "title": "どんなウェブページにもコメント（+スレッド）を残せるクローム拡張機能を作りました! 他のユーザーのコメントを探ったり、友達をタグ付けしたりすることもできます。基本的に、この拡張機能を使えば、インターネット全体が巨大なソーシャルプラットフォームになります。コメントのリンク"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "https://i.redd.it/pfcrm6p3ipc71.gif",
+      "title": "我创建了一个chrome扩展，允许你在任何网页上留下评论（+主题）！你可以探索其他用户的评论，也可以标记朋友。你可以探索其他用户的评论，也可以标记朋友。基本上，有了这个扩展，整个互联网本身就成为一个巨大的社交平台。评论中的链接。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "https://i.redd.it/pfcrm6p3ipc71.gif",
+      "title": "我創建了一個chrome擴展，允許你在任何網頁上留下評論（+主題）！你可以探索其他用戶的評論，也可以標記朋友。你可以探索其他用戶的評論，也可以標記朋友。基本上，有了這個擴展，整個互聯網本身就成爲一個巨大的社交平臺。評論中的鏈接。"
+    }
+  ]
 }
