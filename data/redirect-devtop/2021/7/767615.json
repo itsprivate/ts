@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-21T15:05:44Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--va7YgSA4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q640s9ru93wxv0uizxhn.png",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "テンプレート以上のFullStack React Examplesを含むキュレーションされたリストです。記載されている製品はすべて、認証、データベース、使用可能なAPIが提供されています。",
+      "title": "FullStack React - 早く始めるためのコード例"
+    },
+    {
+      "locale": "zh",
+      "description": "一个精心策划的列表，包含了FullStack React的例子，它们不仅仅是模板。所有提到的产品都提供了认证、数据库和可用的API。",
+      "title": "FullStack React - 快速入门的代码实例"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個精心策劃的列表，包含了FullStack React的例子，它們不僅僅是模板。所有提到的產品都提供了認證、數據庫和可用的API。",
+      "title": "FullStack React - 快速入門的代碼實例"
+    }
+  ]
 }
