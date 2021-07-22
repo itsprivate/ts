@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-22T08:50:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--P7WVZ2iF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ljh5ygnhbznew2gyawy8.jpg",
   "author": "Adrian Twarog",
-  "author_url": "https://dev.to/adriantwarog"
+  "author_url": "https://dev.to/adriantwarog",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ブログを書かないプログラマーは、今すぐ始めるべき。未来の自分が、あなたのブログに感謝するでしょう。",
+      "title": "ブログを書いていないプログラマーは今すぐ始めよう"
+    },
+    {
+      "locale": "zh",
+      "description": "不写博客的程序员应该现在就开始。你未来的自己会感谢你，当你的博客...",
+      "title": "不写博客的程序员应该现在就开始写"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "不寫博客的程序員應該現在就開始。你未來的自己會感謝你，當你的博客...",
+      "title": "不寫博客的程序員應該現在就開始寫"
+    }
+  ]
 }
