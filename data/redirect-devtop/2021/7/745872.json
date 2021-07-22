@@ -52,5 +52,22 @@
   "original_created_at": "2021-07-02T08:03:00Z",
   "image": "https://dev.to/social_previews/article/745872.png",
   "author": "Natalia Venditto",
-  "author_url": "https://dev.to/anfibiacreativa"
+  "author_url": "https://dev.to/anfibiacreativa",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "つまり、正式なCS教育を受けていなくても、何年か前から開発をしている人や、...",
+      "title": "開発者から（ソリューション）アーキテクトへ。 シンプルなガイドです。"
+    },
+    {
+      "locale": "zh",
+      "description": "因此，你没有受过正规的CS教育，但已经做了一些年的开发，或者你是一个...",
+      "title": "从开发人员到（解决方案）架构师。 一个简单的指南。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "因此，你沒有受過正規的CS教育，但已經做了一些年的開發，或者你是一個...",
+      "title": "從開發人員到（解決方案）架構師。 一個簡單的指南。"
+    }
+  ]
 }
