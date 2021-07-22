@@ -59,5 +59,19 @@
     "type": "youtube.com"
   },
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "待っていてください...。"
+    },
+    {
+      "locale": "zh",
+      "title": "等着看吧..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "等着看吧..."
+    }
+  ]
 }

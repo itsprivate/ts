@@ -65,5 +65,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "それは魚ではなく、川の怪物だ。"
+    },
+    {
+      "locale": "zh",
+      "title": "那不是鱼，是河里的怪物"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "那不是魚，是河裏的怪物"
+    }
+  ]
 }
