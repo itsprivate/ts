@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-22T07:01:00Z"
+  "original_createdAt": "2021-07-22T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Dotsは、オンラインで決済を行うための最もシンプルな方法です。特に、マーケットプレイスや1099人の労働者を雇用している場合に便利です。私たちのAPIは、あなたのお気に入りのクレジットカードプロセッサー、PayPalなどからの支払いを受け付けます。また、Venmo、ACH、Zelleなどを使った支払いも可能です。",
+      "tagline": "インターネットのための現金"
+    },
+    {
+      "locale": "zh",
+      "description": "Dots是在线发送和接受付款的最简单方式，特别是如果你是一个市场或雇用1099工人。我们的API接受来自你喜欢的信用卡处理器、PayPal等的付款。它还可以使用Venmo、ACH、Zelle等进行支付。",
+      "tagline": "互联网的现金"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Dots是在線發送和接受付款的最簡單方式，特別是如果你是一個市場或僱用1099工人。我們的API接受來自你喜歡的信用卡處理器、PayPal等的付款。它還可以使用Venmo、ACH、Zelle等進行支付。",
+      "tagline": "互聯網的現金"
+    }
+  ]
 }
