@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-16T16:02:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PEw9H_Vc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fjeajz1ncf3wppb88y7t.png",
   "author": "Nilanth",
-  "author_url": "https://dev.to/nilanth"
+  "author_url": "https://dev.to/nilanth",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これらのパッケージを使用して開発段階でReactアプリを最適化し、開発中の問題を回避することができます。",
+      "title": "開発中のReactアプリを最適化・高速化する5つのパッケージ"
+    },
+    {
+      "locale": "zh",
+      "description": "使用这些软件包在开发阶段优化你的React应用程序，并避免在开发过程中出现问题...",
+      "title": "在开发过程中优化和加速你的React应用的5个包"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用這些軟件包在開發階段優化你的React應用程序，並避免在開發過程中出現問題...",
+      "title": "在開發過程中優化和加速你的React應用的5個包"
+    }
+  ]
 }
