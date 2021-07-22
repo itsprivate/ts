@@ -97,5 +97,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-22T07:01:00Z"
+  "original_createdAt": "2021-07-22T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Judoは、コードレスでネイティブなモバイルインターフェイスを構築するためのMacアプリです。また、Airbnb、Spotify、Facebookなどの企業で採用されている新しい技術である、サーバー駆動型のUIを実現するためのプラットフォームでもあります。",
+      "tagline": "iOS/Androidアプリのための、ノーコードでサーバー駆動のUI"
+    },
+    {
+      "locale": "zh",
+      "description": "Judo是一款Mac应用程序，用于在没有代码的情况下构建原生移动界面。它也是一个实现服务器驱动UI的平台--这是一种新兴的技术，被Airbnb、Spotify和Facebook等公司使用。",
+      "tagline": "适用于iOS和Android应用程序的无代码、服务器驱动的用户界面"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Judo是一款Mac應用程序，用於在沒有代碼的情況下構建原生移動界面。它也是一個實現服務器驅動UI的平臺--這是一種新興的技術，被Airbnb、Spotify和Facebook等公司使用。",
+      "tagline": "適用於iOS和Android應用程序的無代碼、服務器驅動的用戶界面"
+    }
+  ]
 }
