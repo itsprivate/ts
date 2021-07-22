@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-21T18:36:40Z",
   "image": "https://dev.to/social_previews/article/767877.png",
   "author": "Mrinalini Sugosh (Mrina)",
-  "author_url": "https://dev.to/mrinasugosh"
+  "author_url": "https://dev.to/mrinasugosh",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "NodeJSアプリで古いES構文を使っている人はどれくらいいるでしょうか？ const express =...",
+      "title": "ES6はNodeの道を歩む"
+    },
+    {
+      "locale": "zh",
+      "description": "有多少人在我们的NodeJS应用程序中仍然使用旧的ES语法？ const express =...",
+      "title": "ES6是Node的发展方向"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有多少人在我們的NodeJS應用程序中仍然使用舊的ES語法？ const express =...",
+      "title": "ES6是Node的發展方向"
+    }
+  ]
 }
