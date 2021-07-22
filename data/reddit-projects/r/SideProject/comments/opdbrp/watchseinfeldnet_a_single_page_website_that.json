@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "WatchSeinfeld.net - 「となりのサインフェルド」のエピソードを24時間365日ストリーミングするシングルページのウェブサイトです。いつでも、どこでも、視聴できます。"
+    },
+    {
+      "locale": "zh",
+      "title": "WatchSeinfeld.net - 一个单页网站，24/7播放Seinfeld的剧集，没有其他内容。随时随地都可以收看。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "WatchSeinfeld.net - 一個單頁網站，24/7播放Seinfeld的劇集，沒有其他內容。隨時隨地都可以收看。"
+    }
+  ]
 }
