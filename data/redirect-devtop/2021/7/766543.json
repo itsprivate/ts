@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-20T13:03:58Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NyGJn9sp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9mhln40h2o01tr2uw486.png",
   "author": "sumit kumar bighaniya",
-  "author_url": "https://dev.to/ammyy9908"
+  "author_url": "https://dev.to/ammyy9908",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "事前に見る：見る  この記事では、ReactJS+Reduxを使ってspotifyクローンのWebアプリを構築した方法を紹介します...",
+      "title": "ReactJS+Spotify WEB APIでSpotifyのWebクローンを作る。"
+    },
+    {
+      "locale": "zh",
+      "description": "预览：浏览。 在这篇文章中，我介绍了我是如何使用ReactJS+Redux建立一个Spotify克隆的网络应用。",
+      "title": "用ReactJS+Spotify WEB API创建一个Spotify Web克隆。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "預覽：瀏覽。 在這篇文章中，我介紹了我是如何使用ReactJS+Redux建立一個Spotify克隆的網絡應用。",
+      "title": "用ReactJS+Spotify WEB API創建一個Spotify Web克隆。"
+    }
+  ]
 }
