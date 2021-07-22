@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-20T23:37:22Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--iyZzlWiH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f6a8ithhr0dy0e57i80m.jpg",
   "author": "Aya Bouchiha",
-  "author_url": "https://dev.to/ayabouchiha"
+  "author_url": "https://dev.to/ayabouchiha",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、Aya Bouchihaです。今日は、Javascriptで便利なArrayメソッドについてお話します。         ...",
+      "title": "Javascriptの5つの便利な配列メソッド"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，我是Aya Bouchiha，我今天要讲的是Javascript中有用的Array方法。         ...",
+      "title": "Javascript中5个有用的数组方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，我是Aya Bouchiha，我今天要講的是Javascript中有用的Array方法。         ...",
+      "title": "Javascript中5個有用的數組方法"
+    }
+  ]
 }
