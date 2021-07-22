@@ -41,5 +41,22 @@
   "original_created_at": "2021-07-22T06:28:03Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fjg-fIPb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/41j0h96fsnt8pzzrlegg.jpeg",
   "author": "Rocky",
-  "author_url": "https://dev.to/codelivly"
+  "author_url": "https://dev.to/codelivly",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": " NodeJS開発でキャリアを積むことを決意した方のために、私たちはnodeJSのリストを集めました。",
+      "title": "初心者のためのトップNodejsプロジェクト"
+    },
+    {
+      "locale": "zh",
+      "description": " 如果你已经决定在NodeJS开发中建立你的职业生涯，我们已经收集了一份NodeJS的清单。",
+      "title": "初学者的顶级Nodejs项目"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": " 如果你已經決定在NodeJS開發中建立你的職業生涯，我們已經收集了一份NodeJS的清單。",
+      "title": "初學者的頂級Nodejs項目"
+    }
+  ]
 }
