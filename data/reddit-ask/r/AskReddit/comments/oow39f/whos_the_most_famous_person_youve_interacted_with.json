@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今まで交流した中で、一番有名な人は誰ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "谁是你交往过的最有名的人？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "誰是你交往過的最有名的人？"
+    }
+  ]
 }
