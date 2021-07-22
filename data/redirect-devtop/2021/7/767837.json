@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-21T17:48:17Z",
   "image": "https://dev.to/social_previews/article/767837.png",
   "author": "enoch ndika",
-  "author_url": "https://dev.to/enochndika"
+  "author_url": "https://dev.to/enochndika",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "背景 業務用にいくつかのダッシュボードを作成したところ、最終的には...",
+      "title": "React、Next、Vue、Nuxt用にTailwindで作られた8つの無料ダッシュボードテンプレートを作りました。"
+    },
+    {
+      "locale": "zh",
+      "description": "背景 通过为我的专业用途创建几个仪表板，我最终得到了...",
+      "title": "我为React、Next、Vue和Nuxt创建了8个用Tailwind构建的免费仪表板模板。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "背景 通過爲我的專業用途創建幾個儀表板，我最終得到了...",
+      "title": "我爲React、Next、Vue和Nuxt創建了8個用Tailwind構建的免費儀表板模板。"
+    }
+  ]
 }
