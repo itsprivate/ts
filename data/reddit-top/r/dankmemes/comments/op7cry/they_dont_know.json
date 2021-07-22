@@ -106,5 +106,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼らは知らない"
+    },
+    {
+      "locale": "zh",
+      "title": "他们不知道"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他們不知道"
+    }
+  ]
 }
