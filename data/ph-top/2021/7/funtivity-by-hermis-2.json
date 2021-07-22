@@ -113,5 +113,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-21T13:10:00Z"
+  "original_createdAt": "2021-07-21T13:10:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Funtivity by Hermis」は、会議参加者がTrivia、Bingo、Escape Room、Survey Trivia、Scavenger Huntなどのアクティビティを行うことで、分散した従業員のエンゲージメントを実現するZoom用アプリです。",
+      "tagline": "分散したチームのバーチャルアクティビティのためのZoom用アプリ"
+    },
+    {
+      "locale": "zh",
+      "description": "Hermis的Funtivity是一款适用于Zoom的应用程序，通过允许会议参与者玩小游戏、宾果游戏、逃生室、调查小游戏、寻宝游戏等活动，使分散的员工参与其中。",
+      "tagline": "适用于Zoom的应用程序，用于分布式团队的虚拟活动"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Hermis的Funtivity是一款適用於Zoom的應用程序，通過允許會議參與者玩小遊戲、賓果遊戲、逃生室、調查小遊戲、尋寶遊戲等活動，使分散的員工參與其中。",
+      "tagline": "適用於Zoom的應用程序，用於分佈式團隊的虛擬活動"
+    }
+  ]
 }
