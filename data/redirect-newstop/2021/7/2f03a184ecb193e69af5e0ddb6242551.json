@@ -14,5 +14,19 @@
   "tags": [
     "BBC News"
   ],
-  "image": "https://ichef.bbci.co.uk/news/1024/branded_news/15DBD/production/_119533598_gettyimages-1227767456.jpg"
+  "image": "https://ichef.bbci.co.uk/news/1024/branded_news/15DBD/production/_119533598_gettyimages-1227767456.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "NHS Covid-19アプリで60万人以上が隔離を指示される"
+    },
+    {
+      "locale": "zh",
+      "title": "60多万人被NHS的Covid-19应用程序告知要隔离"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "60多萬人被NHS的Covid-19應用程序告知要隔離"
+    }
+  ]
 }
