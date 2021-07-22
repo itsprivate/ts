@@ -88,5 +88,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-22T07:05:00Z"
+  "original_createdAt": "2021-07-22T07:05:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Arenguは、製品メーカーがあらゆるAPIを使ってサインアップフローを数分で構築することを可能にします。AirbnbやStripe、Slackと同じようなサインアップ体験を、あなたのアプリケーションのために、しかもフルのエンジニアリングチームを割くことなく構築することができます。",
+      "tagline": "どんなAPIでも数分でサインアップフローを構築"
+    },
+    {
+      "locale": "zh",
+      "description": "Arengu允许产品制造商在几分钟内用任何API建立注册流。你可以为你的应用程序建立与Airbnb、Stripe或Slack一样的注册体验，而且不需要专门的工程团队。",
+      "tagline": "在几分钟内用任何API建立注册流"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Arengu允許產品製造商在幾分鐘內用任何API建立註冊流。你可以爲你的應用程序建立與Airbnb、Stripe或Slack一樣的註冊體驗，而且不需要專門的工程團隊。",
+      "tagline": "在幾分鐘內用任何API建立註冊流"
+    }
+  ]
 }
