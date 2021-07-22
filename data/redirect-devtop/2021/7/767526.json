@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-21T12:48:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0eUzBD8v--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t8t7vqjrfnw2lr2udgc2.png",
   "author": "Mritunjay Saha",
-  "author_url": "https://dev.to/mritunjaysaha"
+  "author_url": "https://dev.to/mritunjaysaha",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今回は、バックエンド・アプリケーションのフロントエンド・アプリケーションを作成します。          その前に...",
+      "title": "MERNスタックのTODOアプリケーション[Frontend]について"
+    },
+    {
+      "locale": "zh",
+      "description": "我们将为我们的后端应用程序创建前端应用程序。          在我们开始之前...",
+      "title": "MERN堆栈TODO应用程序[前端]"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們將爲我們的後端應用程序創建前端應用程序。          在我們開始之前...",
+      "title": "MERN堆棧TODO應用程序[前端]"
+    }
+  ]
 }
