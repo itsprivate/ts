@@ -52,5 +52,22 @@
     },
     "retweet_count": 269,
     "favorite_count": 2404
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @BarrySilbert: JPモルガンが大手銀行の中で初めて、個人のウェルスマネジメントの顧客に......を許可したのは、実に面白いことです。",
+      "retweeted_status_full_text": "実際、JPモルガンが大手銀行の中で初めて、リテールのウェルスマネジメントの顧客にグレースケール・ファミリーのファンドへの投資を許可したのは、とても面白いことです。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @BarrySilbert: 摩根大通最终成为第一家允许其零售财富管理客户的大银行，这其实很有趣。",
+      "retweeted_status_full_text": "实际上，摩根大通最终成为第一家允许其零售财富管理客户投资灰度系列基金的大银行，这很有趣。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @BarrySilbert: 摩根大通最終成爲第一家允許其零售財富管理客戶的大銀行，這其實很有趣。",
+      "retweeted_status_full_text": "實際上，摩根大通最終成爲第一家允許其零售財富管理客戶投資灰度系列基金的大銀行，這很有趣。"
+    }
+  ]
 }

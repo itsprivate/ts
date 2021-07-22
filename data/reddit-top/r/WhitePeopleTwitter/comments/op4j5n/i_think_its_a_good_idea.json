@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "いいと思うよ"
+    },
+    {
+      "locale": "zh",
+      "title": "我认为这是个好主意"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我認爲這是個好主意"
+    }
+  ]
 }
