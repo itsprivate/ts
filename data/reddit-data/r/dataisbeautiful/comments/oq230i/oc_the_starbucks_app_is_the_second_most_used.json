@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] スターバックスのアプリは、店頭での取引に使用されるモバイル決済アプリとしては2番目に多く使用されています。(データは数百万人のユーザー数)"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]星巴克的应用程序是销售点交易中第二大使用的移动支付应用程序。(数据以百万用户计)"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]星巴克的應用程序是銷售點交易中第二大使用的移動支付應用程序。(數據以百萬用戶計)"
+    }
+  ]
 }
