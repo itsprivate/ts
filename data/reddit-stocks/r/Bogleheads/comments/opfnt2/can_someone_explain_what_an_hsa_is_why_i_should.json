@@ -102,5 +102,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1626966340,
-  "the_new_excerpt": "Can I choose the investments in this? Should I contribute to this prior to a\ntaxable brokerage?"
+  "the_new_excerpt": "Can I choose the investments in this? Should I contribute to this prior to a\ntaxable brokerage?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "この中で投資先を選ぶことはできますか？課税対象となる証券会社に先立って、これに貢献すべきでしょうか？\n課税対象となる証券会社に先立って拠出すべきでしょうか？",
+      "title": "誰かHSAとは何か、なぜ持つべきなのか、どこで手に入れられるのかを説明してください。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我可以选择这里面的投资吗？我是否应该在应税经纪公司之前向其捐款？\n缴税的经纪人？",
+      "title": "谁能解释一下什么是HSA，为什么我应该拥有它，以及我可以去哪里获得一个？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我可以選擇這裏面的投資嗎？我是否應該在應稅經紀公司之前向其捐款？\n繳稅的經紀人？",
+      "title": "誰能解釋一下什麼是HSA，爲什麼我應該擁有它，以及我可以去哪裏獲得一個？"
+    }
+  ]
 }
