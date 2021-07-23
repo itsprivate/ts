@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "EIP-3675 Ethereum Upgrade forProof-of-Stake Mergeのドラフトがリリースされました。It's On Baby!"
+    },
+    {
+      "locale": "zh",
+      "title": "EIP-3675: EIP-3675: 以太坊升级为证明的合并草案已发布! 开始了，宝贝!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "EIP-3675: EIP-3675: 以太坊升級爲證明的合併草案已發佈! 開始了，寶貝!"
+    }
+  ]
 }
