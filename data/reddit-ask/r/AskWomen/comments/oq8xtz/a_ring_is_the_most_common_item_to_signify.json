@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "婚約を示すアイテムとしては、指輪が一般的です。指輪よりも欲しいものはありますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "戒指是象征订婚的最常见物品。比起戒指，你更愿意拥有什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "戒指是象徵訂婚的最常見物品。比起戒指，你更願意擁有什麼？"
+    }
+  ]
 }
