@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "機械学習を利用したビデオや画像の背景除去装置、オープンソース"
+    },
+    {
+      "locale": "zh",
+      "title": "使用机器学习的视频和图像的背景去除器，开放源代码"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "使用機器學習的視頻和圖像的背景去除器，開放源代碼"
+    }
+  ]
 }
