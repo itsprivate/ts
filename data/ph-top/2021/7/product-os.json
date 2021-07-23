@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-23T16:04:17Z"
+  "original_createdAt": "2021-07-23T16:04:17Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Product OSは、製品チームや技術チームのための完全なNotionワークスペースです。Jira、Trello、ProductBoard、または現在のNotionのワークスペースを置き換えることができます。",
+      "tagline": "製品・技術チームのためのワークスペース「NOTION"
+    },
+    {
+      "locale": "zh",
+      "description": "产品操作系统是为产品和技术团队提供的一个完整的Notion工作空间。它为你节省了数周的Notion设置，并取代了Jira、Trello、ProductBoard或你目前的Notion工作区。",
+      "tagline": "产品和技术团队的Notion工作空间"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "產品操作系統是爲產品和技術團隊提供的一個完整的Notion工作空間。它爲你節省了數週的Notion設置，並取代了Jira、Trello、ProductBoard或你目前的Notion工作區。",
+      "tagline": "產品和技術團隊的Notion工作空間"
+    }
+  ]
 }
