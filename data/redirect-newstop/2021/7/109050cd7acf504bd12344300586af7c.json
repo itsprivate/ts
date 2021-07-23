@@ -14,5 +14,19 @@
   "tags": [
     "Fox News"
   ],
-  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/sinopharm.jpg"
+  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/sinopharm.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "中国のシノファーム社のCOVID-19ワクチンは高齢者の防御力が低い可能性がある：研究結果"
+    },
+    {
+      "locale": "zh",
+      "title": "研究显示，中国的国药集团COVID-19疫苗可能为老年人提供不良保护"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "研究顯示，中國的國藥集團COVID-19疫苗可能爲老年人提供不良保護"
+    }
+  ]
 }
