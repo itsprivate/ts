@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "こんなことができるなんて知らなかった"
+    },
+    {
+      "locale": "zh",
+      "title": "我不知道他们能做到这一点"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我不知道他們能做到這一點"
+    }
+  ]
 }
