@@ -329,5 +329,22 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Fri Jul 23 11:57:04 +0000 2021"
+  "original_created_at": "Fri Jul 23 11:57:04 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "パンデミック中の大会開催に抗議するため、東京のオリンピックスタジアム付近に数百人の人々が集まっています。スタジアムは静かなので、式典の最中でも彼らの声は聞こえています。https://t.co/5gtlk6YROh\n\nhttps://t.co/7TBSguuOFB",
+      "quoted_status_full_text": "東京のオリンピックスタジアムの外で行われた抗議活動の様子です。静かな時間帯であれば、スタジアム内でもすぐに聞くことができます。https://t.co/AUQQrTDjcF"
+    },
+    {
+      "locale": "zh",
+      "full_text": "几百人聚集在东京奥林匹克体育场附近，抗议在大流行病期间举行奥运会。体育场内很安静，在仪式上可以听到他们的声音。https://t.co/5gtlk6YROh\n\nhttps://t.co/7TBSguuOFB",
+      "quoted_status_full_text": "这是东京奥林匹克体育场外的抗议活动，在安静的时候很容易听到里面的声音https://t.co/AUQQrTDjcF。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "幾百人聚集在東京奧林匹克體育場附近，抗議在大流行病期間舉行奧運會。體育場內很安靜，在儀式上可以聽到他們的聲音。https://t.co/5gtlk6YROh\n\nhttps://t.co/7TBSguuOFB",
+      "quoted_status_full_text": "這是東京奧林匹克體育場外的抗議活動，在安靜的時候很容易聽到裏面的聲音https://t.co/AUQQrTDjcF。"
+    }
+  ]
 }

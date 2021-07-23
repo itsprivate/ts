@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-22T14:00:28Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1toR65X2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ymj382o000hsbgha26ox.png",
   "author": "Ander Rodriguez",
-  "author_url": "https://dev.to/anderrv"
+  "author_url": "https://dev.to/anderrv",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ウェブサイトスクレイピングは、CSSセレクタを使ってコンテンツを抽出するだけではありません。私たちは何年にもわたって蓄積してきた情報をまとめました。",
+      "title": "PythonでマスターするWebスクレイピング。ゼロからヒーローへ"
+    },
+    {
+      "locale": "zh",
+      "description": "网站搜刮远不止是用一些CSS选择器来提取内容。我们总结了多年的经验。",
+      "title": "掌握Python中的网络刮削。从零到英雄"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "網站搜刮遠不止是用一些CSS選擇器來提取內容。我們總結了多年的經驗。",
+      "title": "掌握Python中的網絡刮削。從零到英雄"
+    }
+  ]
 }
