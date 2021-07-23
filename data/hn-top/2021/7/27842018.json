@@ -3,7 +3,7 @@
   "title": "CVE-2021-22555: Turning \\x00\\x00 into 10000$",
   "url": "https://google.github.io/security-research/pocs/linux/cve-2021-22555/writeup.html",
   "author": "defect",
-  "points": 333,
+  "points": 344,
   "num_comments": 18,
   "_tags": [
     "story",
@@ -28,5 +28,5 @@
       "title": "cve-2021-22555。將 \\x00\\x00 變成 10000$"
     }
   ],
-  "source_updated_at": 1626428576442
+  "source_updated_at": 1627033385291
 }
