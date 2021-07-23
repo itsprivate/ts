@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-22T13:00:00Z"
+  "original_createdAt": "2021-07-22T13:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Envelopは、開発者がGraphQLの実行層を新機能で強化するプラグインを作成するための軽量ライブラリです。それは、あなたのGraphQLレイヤーのためのプラグインシステムです。",
+      "tagline": "GraphQLのプラグインシステム"
+    },
+    {
+      "locale": "zh",
+      "description": "Envelop是一个轻量级的库，允许开发者创建插件，用新的功能丰富GraphQL执行层。它是你的GraphQL层的插件系统。",
+      "tagline": "GraphQL插件系统"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Envelop是一個輕量級的庫，允許開發者創建插件，用新的功能豐富GraphQL執行層。它是你的GraphQL層的插件系統。",
+      "tagline": "GraphQL插件系統"
+    }
+  ]
 }
