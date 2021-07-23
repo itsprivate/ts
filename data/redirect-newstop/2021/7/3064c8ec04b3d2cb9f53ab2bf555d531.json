@@ -14,5 +14,19 @@
   "tags": [
     "BBC News"
   ],
-  "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0A18/production/_119548520_mediaitem119548516.jpg"
+  "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0A18/production/_119548520_mediaitem119548516.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "中国の習近平国家主席が問題の多いチベットを訪問"
+    },
+    {
+      "locale": "zh",
+      "title": "中国国家主席习近平访问西藏动荡地区"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "中國國家主席習近平訪問西藏動盪地區"
+    }
+  ]
 }
