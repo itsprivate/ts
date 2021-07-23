@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-22T19:18:29Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CNvKF1ul--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k00asa9r7zajtap840yb.png",
   "author": "Elijah Trillionz",
-  "author_url": "https://dev.to/elijahtrillionz"
+  "author_url": "https://dev.to/elijahtrillionz",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは。この記事では、Fastifyを使ってNodeJSのCRUD APIを構築していきます。Fastifyは、...",
+      "title": "FastifyでCRUD APIを構築する"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，在这篇文章中，我们将用Fastify构建一个NodeJS CRUD API。Fastify是一个在NodeJS中使用的应用程序。",
+      "title": "用Fastify建立一个CRUD API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，在這篇文章中，我們將用Fastify構建一個NodeJS CRUD API。Fastify是一個在NodeJS中使用的應用程序。",
+      "title": "用Fastify建立一個CRUD API"
+    }
+  ]
 }
