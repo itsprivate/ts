@@ -52,5 +52,22 @@
   "original_created_at": "2021-07-22T17:39:43Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Le24PXah--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v7e3wmv98ql24smnwhe0.png",
   "author": "Ryan Carniato",
-  "author_url": "https://dev.to/ryansolid"
+  "author_url": "https://dev.to/ryansolid",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Svelteは、昨年から注目を集めている素晴らしいJavaScriptフレームワークです....",
+      "title": "Svelteの開発者になるためのReactからの3つの教訓"
+    },
+    {
+      "locale": "zh",
+      "description": "Svelte是一个了不起的JavaScript框架，在去年得到了很多关注....。",
+      "title": "来自React的3个教训，可以让你成为更好的Svelte开发者"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Svelte是一個了不起的JavaScript框架，在去年得到了很多關注....。",
+      "title": "來自React的3個教訓，可以讓你成爲更好的Svelte開發者"
+    }
+  ]
 }
