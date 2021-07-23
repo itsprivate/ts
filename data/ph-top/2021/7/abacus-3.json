@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-23T07:01:00Z"
+  "original_createdAt": "2021-07-23T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "PuzzlのGross-to-Net Calculation APIであるAbacusは、開発者がシンプルなAPIを介して、米国内の50州と準州のための準拠した給与計算にアクセスできるようにします。",
+      "tagline": "いつでも正確な給与計算が可能"
+    },
+    {
+      "locale": "zh",
+      "description": "Puzzl的毛额到净额计算API Abacus让开发者通过一个简单的API访问美国所有50个州和地区的合规薪资计算。",
+      "tagline": "每次都能准确地计算出薪资"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Puzzl的毛額到淨額計算API Abacus讓開發者通過一個簡單的API訪問美國所有50個州和地區的合規薪資計算。",
+      "tagline": "每次都能準確地計算出薪資"
+    }
+  ]
 }
