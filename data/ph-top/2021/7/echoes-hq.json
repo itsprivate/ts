@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-23T07:05:00Z"
+  "original_createdAt": "2021-07-23T07:05:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Echoes HQは、エンジニアの活動を測定するという問題に対して、エンジニアの仕事の目的と影響に焦点を当てた、全く新しい試みです。",
+      "tagline": "ビジネスバリューのレンズを通したエンジニアリング・アナリティクス"
+    },
+    {
+      "locale": "zh",
+      "description": "Echoes HQ是对衡量工程活动问题的一种全新的看法，重点是工程师工作的目的和影响。",
+      "tagline": "通过商业价值的视角进行工程分析"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Echoes HQ是對衡量工程活動問題的一種全新的看法，重點是工程師工作的目的和影響。",
+      "tagline": "通過商業價值的視角進行工程分析"
+    }
+  ]
 }
