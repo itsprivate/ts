@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "溺れた象の命を救ったインドの村"
+    },
+    {
+      "locale": "zh",
+      "title": "印度的一个村庄救了一头溺水大象的命"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "印度的一個村莊救了一頭溺水大象的命"
+    }
+  ]
 }
