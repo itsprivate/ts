@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "勝っていますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你赢了吗，儿子？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你贏了嗎，兒子？"
+    }
+  ]
 }
