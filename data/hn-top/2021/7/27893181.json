@@ -3,7 +3,7 @@
   "title": "size_t-to-int vulnerability in Linux’s filesystem layer",
   "url": "https://www.openwall.com/lists/oss-security/2021/07/20/1",
   "author": "jwilk",
-  "points": 149,
+  "points": 383,
   "num_comments": 39,
   "_tags": [
     "story",
@@ -27,5 +27,6 @@
       "locale": "zh-Hant",
       "title": "Linux的文件系統層存在size_t-to-int的漏洞"
     }
-  ]
+  ],
+  "source_updated_at": 1627033385684
 }
