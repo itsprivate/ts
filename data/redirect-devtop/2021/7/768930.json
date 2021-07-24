@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-22T20:59:38Z",
   "image": "https://dev.to/social_previews/article/768930.png",
   "author": "Swarnali Roy",
-  "author_url": "https://dev.to/swarnaliroy94"
+  "author_url": "https://dev.to/swarnaliroy94",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "読者の皆様、こんにちは。 今回のエピソードは、「JavaScriptの基本的なデータ構造」です。今回のエピソードでは...",
+      "title": "JavaScriptでの配列へのアクセス"
+    },
+    {
+      "locale": "zh",
+      "description": "读者朋友们，大家好!  这一集是《JavaScript中的基本数据结构》系列。数组的内容包括如何...",
+      "title": "在JavaScript中访问数组"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "讀者朋友們，大家好!  這一集是《JavaScript中的基本數據結構》系列。數組的內容包括如何...",
+      "title": "在JavaScript中訪問數組"
+    }
+  ]
 }
