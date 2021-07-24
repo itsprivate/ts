@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-24T11:39:48Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--D8DHpfvG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nauccdpve30t42d1pxz5.png",
   "author": "Domagoj Štrekelj",
-  "author_url": "https://dev.to/dstrekelj"
+  "author_url": "https://dev.to/dstrekelj",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ユニットテストは、開発プロセスの中で重要でありながら見落とされがちな部分です。ユニットテストは...",
+      "title": "Jestを使ってJavaScriptでユニットテストを書く方法"
+    },
+    {
+      "locale": "zh",
+      "description": "单元测试是开发过程中一个重要的、经常被忽视的部分。它被认为是...",
+      "title": "如何用Jest在JavaScript中编写单元测试"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "單元測試是開發過程中一個重要的、經常被忽視的部分。它被認爲是...",
+      "title": "如何用Jest在JavaScript中編寫單元測試"
+    }
+  ]
 }
