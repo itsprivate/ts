@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "頻繁にお酒を飲むことでアルコール耐性を身につけた場合、実際にお酒を飲んだ後のBACは一般の人よりも低いということですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "当一个人因经常喝酒而产生酒精耐受性时，是否意味着他们喝酒后的酒精浓度实际上比一般人低？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當一個人因經常喝酒而產生酒精耐受性時，是否意味着他們喝酒後的酒精濃度實際上比一般人低？"
+    }
+  ]
 }
