@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-23T15:25:28Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PxE_8ErG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zszyg86um0342ufgatwh.png",
   "author": "Artem Zakharchenko",
-  "author_url": "https://dev.to/kettanaito"
+  "author_url": "https://dev.to/kettanaito",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Mock Service Workerがリリースされたとき、その明確な使命は、APIのモッキングを......を必要とせずに実現することでした。",
+      "title": "Mock Service WorkerのリクエストハンドラからHTTPサーバを生成します。"
+    },
+    {
+      "locale": "zh",
+      "description": "当Mock Service Worker发布时，它有一个明确的使命，即在不需要的情况下实现API嘲弄。",
+      "title": "从你的Mock Service Worker请求处理程序生成一个HTTP服务器。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當Mock Service Worker發佈時，它有一個明確的使命，即在不需要的情況下實現API嘲弄。",
+      "title": "從你的Mock Service Worker請求處理程序生成一個HTTP服務器。"
+    }
+  ]
 }
