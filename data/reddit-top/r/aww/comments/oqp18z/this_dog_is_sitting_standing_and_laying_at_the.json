@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この犬は、座っている時、立っている時、寝ている時、同時に"
+    },
+    {
+      "locale": "zh",
+      "title": "这只狗同时在坐着、站着和躺着。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這隻狗同時在坐着、站着和躺着。"
+    }
+  ]
 }
