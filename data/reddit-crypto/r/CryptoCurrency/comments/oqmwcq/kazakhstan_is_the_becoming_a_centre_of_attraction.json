@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "カザフスタンは、電気代が安いことから、ビットコインマイニングの中心地として注目されています。"
+    },
+    {
+      "locale": "zh",
+      "title": "哈萨克斯坦由于其廉价的电力，正在成为吸引比特币开采的中心。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "哈薩克斯坦由於其廉價的電力，正在成爲吸引比特幣開採的中心。"
+    }
+  ]
 }
