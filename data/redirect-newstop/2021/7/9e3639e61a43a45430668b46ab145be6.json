@@ -14,5 +14,19 @@
   "tags": [
     "The New York Times"
   ],
-  "image": "https://static01.nyt.com/images/2021/07/24/world/24china-floods01/24china-floods01-facebookJumbo.jpg"
+  "image": "https://static01.nyt.com/images/2021/07/24/world/24china-floods01/24china-floods01-facebookJumbo.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "気候変動による道路のリスクを示す中国の洪水による死亡者数"
+    },
+    {
+      "locale": "zh",
+      "title": "中国水灾死亡人数显示气候变化带来的道路风险"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "中國水災死亡人數顯示氣候變化帶來的道路風險"
+    }
+  ]
 }
