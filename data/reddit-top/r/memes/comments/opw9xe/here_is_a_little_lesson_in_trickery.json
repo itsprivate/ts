@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ここでは、ちょっとしたトリックのレッスンをご紹介します。"
+    },
+    {
+      "locale": "zh",
+      "title": "这里有一个关于诡计的小课程"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這裏有一個關於詭計的小課程"
+    }
+  ]
 }
