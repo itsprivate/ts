@@ -14,5 +14,19 @@
   "tags": [
     "WISN Milwaukee"
   ],
-  "image": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/3203266-wisn-coronavirus-2-1580163655.jpg?crop=1xw:1xh;center,top&resize=1200:*"
+  "image": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/3203266-wisn-coronavirus-2-1580163655.jpg?crop=1xw:1xh;center,top&resize=1200:*",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "医師、新たなCOVID-19感染者の発生を予測"
+    },
+    {
+      "locale": "zh",
+      "title": "医生们认为新的COVID-19病例浪潮即将到来"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "醫生們認爲新的COVID-19病例浪潮即將到來"
+    }
+  ]
 }
