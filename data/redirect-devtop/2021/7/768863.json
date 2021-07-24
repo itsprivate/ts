@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-22T18:23:59Z",
   "image": "https://dev.to/social_previews/article/768863.png",
   "author": "akshayrak",
-  "author_url": "https://dev.to/akshayrak"
+  "author_url": "https://dev.to/akshayrak",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "シンプルな計算機は、反応の概念を理解するのに最適な方法です。教えてください。",
+      "title": "Reactによるシンプルな電卓アプリ "
+    },
+    {
+      "locale": "zh",
+      "description": "简单的计算器是建立对反应概念良好理解的最好方式。让我知道，如果...",
+      "title": "React中的简单计算器应用 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡單的計算器是建立對反應概念良好理解的最好方式。讓我知道，如果...",
+      "title": "React中的簡單計算器應用 "
+    }
+  ]
 }
