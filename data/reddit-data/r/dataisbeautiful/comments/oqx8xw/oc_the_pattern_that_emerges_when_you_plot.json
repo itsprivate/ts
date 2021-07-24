@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] 分数を分母（Y軸）と換算した割合（X軸）でプロットしたときに出現するパターン"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]当你按分母（Y轴）和转换后的百分比（X轴）绘制分数时出现的模式"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]當你按分母（Y軸）和轉換後的百分比（X軸）繪製分數時出現的模式"
+    }
+  ]
 }
