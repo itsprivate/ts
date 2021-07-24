@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-24T07:00:00Z"
+  "original_createdAt": "2021-07-24T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "完全無料でファイルを変換できます。SVG、PNG、JPG、PDFなどのファイル形式をワンクリックで変換できます。",
+      "tagline": "クイック＆フリーファイルコンバータ"
+    },
+    {
+      "locale": "zh",
+      "description": "完全免费地转换你的文件。只需点击一下就可以转换SVG、PNG、JPG和PDF等文件格式。",
+      "tagline": "快速和免费的文件转换器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "完全免費地轉換你的文件。只需點擊一下就可以轉換SVG、PNG、JPG和PDF等文件格式。",
+      "tagline": "快速和免費的文件轉換器"
+    }
+  ]
 }
