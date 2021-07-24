@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "打ち切られた番組の中で、復活してほしいと思うものはありますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你最喜欢的一个被取消的节目是什么，你希望他们能把它带回来？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你最喜歡的一個被取消的節目是什麼，你希望他們能把它帶回來？"
+    }
+  ]
 }
