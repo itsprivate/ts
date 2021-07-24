@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "最後に見た番組で、とても良かったものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你看的最后一个非常好的节目是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你看的最後一個非常好的節目是什麼？"
+    }
+  ]
 }
