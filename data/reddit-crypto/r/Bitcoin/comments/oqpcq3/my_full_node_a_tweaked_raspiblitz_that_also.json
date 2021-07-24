@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私のフルノード - ニュースや価格情報も取得できるように改良されたラズパイブリッツ"
+    },
+    {
+      "locale": "zh",
+      "title": "我的完整节点--一个经过调整的raspiblitz，也能检索到新闻/价格信息"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我的完整節點--一個經過調整的raspiblitz，也能檢索到新聞/價格信息"
+    }
+  ]
 }
