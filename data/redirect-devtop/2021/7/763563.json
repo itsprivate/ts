@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-19T16:06:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6lOoOgTf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7p3a2tbotez5v36udnkd.jpg",
   "author": "Paulo Santos",
-  "author_url": "https://dev.to/gitpaulo"
+  "author_url": "https://dev.to/gitpaulo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "もしあなたがRxJSのクイックスタートを探しているのであれば、この記事はあなたのためのものではありません。 ここで私が取り組むのは...",
+      "title": "リアクティブプログラミング🌫️ - RxJSを使ったデミスティファイド"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你正在寻找RxJS的快速入门，那么这篇文章就不适合你了!  在这里，我将会处理...",
+      "title": "反应式编程🌫️--使用RxJS解密"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你正在尋找RxJS的快速入門，那麼這篇文章就不適合你了!  在這裏，我將會處理...",
+      "title": "反應式編程🌫️--使用RxJS解密"
+    }
+  ]
 }
