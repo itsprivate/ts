@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-24T07:00:00Z"
+  "original_createdAt": "2021-07-24T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "WSB trackerは、r/WallStreetBetsでの人気銘柄の言及や統計情報を追跡する専門サイトです。",
+      "tagline": "r/WallStreetBetsで人気銘柄のメンションを追う"
+    },
+    {
+      "locale": "zh",
+      "description": "WSB追踪器是一个专门追踪r/WallStreetBets上热门股票提及和统计的网站。",
+      "tagline": "追踪r/WallStreetBets上的热门股票提及情况"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "WSB追蹤器是一個專門追蹤r/WallStreetBets上熱門股票提及和統計的網站。",
+      "tagline": "追蹤r/WallStreetBets上的熱門股票提及情況"
+    }
+  ]
 }
