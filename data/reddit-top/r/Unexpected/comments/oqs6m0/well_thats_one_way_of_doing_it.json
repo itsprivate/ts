@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "それもひとつの方法です。"
+    },
+    {
+      "locale": "zh",
+      "title": "那是一种方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "那是一種方法"
+    }
+  ]
 }
