@@ -43,5 +43,22 @@
   "original_created_at": "2021-07-24T08:04:27Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wZ4ZPuzF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2o14v3ufy564qilmqvux.jpeg",
   "author": "Dominik D",
-  "author_url": "https://dev.to/tkdodo"
+  "author_url": "https://dev.to/tkdodo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "非同期関数は素晴らしいものです。特に、複数の関数を連続して呼び出して、それらの関数が...を返さなければならない場合に有効です。",
+      "title": "非同期関数について"
+    },
+    {
+      "locale": "zh",
+      "description": "异步函数很好，尤其是当你必须连续调用多个返回的函数时。",
+      "title": "关于异步函数"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "異步函數很好，尤其是當你必須連續調用多個返回的函數時。",
+      "title": "關於異步函數"
+    }
+  ]
 }
