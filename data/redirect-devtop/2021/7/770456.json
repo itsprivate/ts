@@ -43,5 +43,22 @@
   "original_created_at": "2021-07-24T15:52:47Z",
   "image": "https://dev.to/social_previews/article/770456.png",
   "author": "Menard Maranan",
-  "author_url": "https://dev.to/menard_codes"
+  "author_url": "https://dev.to/menard_codes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今回の投稿は、私が投稿する他のものとは異なり、単なる#ショートコンテンツになります。 開発者として、私たちは自分の仕事が...",
+      "title": "JavaScript ベストプラクティス（GitHub Repo付"
+    },
+    {
+      "locale": "zh",
+      "description": "这篇帖子将只是一个#简短的内容，与我发布的其他内容相比。 作为开发人员，我们知道我们的工作是...",
+      "title": "JavaScript最佳实践（含GitHub Repo）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這篇帖子將只是一個#簡短的內容，與我發佈的其他內容相比。 作爲開發人員，我們知道我們的工作是...",
+      "title": "JavaScript最佳實踐（含GitHub Repo）。"
+    }
+  ]
 }
