@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] u/ptogrmanに触発されて、分数を分母と変換後の割合でプロットする際に、四捨五入をせずに"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]受u/ptogrman的启发，在按分母和转换后的百分比绘制分数时，但不进行四舍五入。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]受u/ptogrman的啓發，在按分母和轉換後的百分比繪製分數時，但不進行四捨五入。"
+    }
+  ]
 }
