@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Let’s make a list!\n\nReply with your website :)\n\nAny type of business counts."
+  "the_new_excerpt": "Let’s make a list!\n\nReply with your website :)\n\nAny type of business counts.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "リストを作りましょう!\n\nあなたのウェブサイトを返信してください :)\n\nビジネスの種類は問いません。",
+      "title": "あなたは自己資金で*収益性の高い*ビジネスを行っていますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "让我们制定一个清单!\n\n请回复您的网站 :)\n\n任何类型的企业都算。",
+      "title": "你是否经营着一个自筹资金的*赚钱的生意？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "讓我們制定一個清單!\n\n請回復您的網站 :)\n\n任何類型的企業都算。",
+      "title": "你是否經營着一個自籌資金的*賺錢的生意？"
+    }
+  ]
 }
