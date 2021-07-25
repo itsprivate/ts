@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-25T07:36:40Z"
+  "original_createdAt": "2021-07-25T07:36:40Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CryoLayerは、あなたのWebflowサイトを最適化し、高性能なJamstackサイトに変換するコード不要のツールです。Webflowを変更するたびに同期が保たれます。",
+      "tagline": "Webflowサイトを最適化し、Netlifyに展開します。"
+    },
+    {
+      "locale": "zh",
+      "description": "CryoLayer是一个没有代码的工具，它可以将你的Webflow网站优化并转换成一个高性能的Jamstack网站。在每一个Webflow的变化上保持同步!",
+      "tagline": "优化并将您的Webflow网站部署到Netlify。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "CryoLayer是一個沒有代碼的工具，它可以將你的Webflow網站優化並轉換成一個高性能的Jamstack網站。在每一個Webflow的變化上保持同步!",
+      "tagline": "優化並將您的Webflow網站部署到Netlify。"
+    }
+  ]
 }
