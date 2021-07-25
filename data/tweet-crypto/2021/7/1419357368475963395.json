@@ -107,5 +107,22 @@
     "retweet_count": 393,
     "favorite_count": 1665,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @DocumentingBTC: あなたが今年目にする最もサイバーパンクなものは、#ビットコイン採掘機が、本来ならば排出されてしまうガスを再利用していることです。",
+      "retweeted_status_full_text": "今年見られる最もサイバーパンクなもの#ビットコイン採掘機は、本来なら大気中に排出されるガスを再利用しています。https://t.co/WxOLPCUlir"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @DocumentingBTC: 今年你会看到的最赛博朋克的东西--#比特币挖矿机回收气体，否则会被排入大气。",
+      "retweeted_status_full_text": "今年你会看到的最赛博朋克的东西--#比特币挖矿机回收气体，否则会被排放到大气中。https://t.co/WxOLPCUlir"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @DocumentingBTC: 今年你會看到的最賽博朋克的東西--#比特幣挖礦機回收氣體，否則會被排入大氣。",
+      "retweeted_status_full_text": "今年你會看到的最賽博朋克的東西--#比特幣挖礦機回收氣體，否則會被排放到大氣中。https://t.co/WxOLPCUlir"
+    }
+  ]
 }
