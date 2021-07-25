@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-25T07:09:58Z"
+  "original_createdAt": "2021-07-25T07:09:58Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "exegesisは、ノンリニアで意識の流れに沿った思考をするためのライティングアプリです。https://exegesis.io/learn/journaling また、exegesis上で、自分のノートをそのまま公開することもできます。https://exegesis.io/post/aadd99000-08ed-11eb-ae72-c39eea4ba4be",
+      "tagline": "無秩序で、創造的で、非線形な思考のためのライティングアプリ"
+    },
+    {
+      "locale": "zh",
+      "description": "exegesis是一款用于非线性、意识流思考的写作应用。https://exegesis.io/learn/journaling，你也可以在exegesis上直接发布你的笔记，在你的https://exegesis.io/post/aadd99000-08ed-11eb-ae72-c39eea4ba4be。",
+      "tagline": "为无序的、创造性的、非线性思维的写作应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "exegesis是一款用於非線性、意識流思考的寫作應用。https://exegesis.io/learn/journaling，你也可以在exegesis上直接發佈你的筆記，在你的https://exegesis.io/post/aadd99000-08ed-11eb-ae72-c39eea4ba4be。",
+      "tagline": "爲無序的、創造性的、非線性思維的寫作應用程序"
+    }
+  ]
 }
