@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-23T14:42:59Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RXcBTsm5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eiilklt54w859p0jnlg1.png",
   "author": "Mehdi Aoussiad",
-  "author_url": "https://dev.to/aoussiadmehdi"
+  "author_url": "https://dev.to/aoussiadmehdi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "HTTPリクエストを行い、APIからデータを取得したい場合は、fetch APIを使用すると良いでしょう。それは...",
+      "title": "JavaScriptのFetch APIでasync/awaitを使用する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你想进行HTTP请求并从API中获取数据，使用fetch API是一个好主意。它是...",
+      "title": "如何在JavaScript中使用async/await与Fetch API的关系"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你想進行HTTP請求並從API中獲取數據，使用fetch API是一個好主意。它是...",
+      "title": "如何在JavaScript中使用async/await與Fetch API的關係"
+    }
+  ]
 }
