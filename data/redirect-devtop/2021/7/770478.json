@@ -43,5 +43,22 @@
   "original_created_at": "2021-07-24T16:33:03Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Nxgbd4J9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tkoynyz400jmzsma3m0l.jpg",
   "author": "Nipu Chakraborty",
-  "author_url": "https://dev.to/nipu"
+  "author_url": "https://dev.to/nipu",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TIPS 1: 文字列から整数への変換の最も簡単な方法。 const value_1 = \"1\" const...",
+      "title": "ジャバスクリプトとリアクトのヒントとコツ"
+    },
+    {
+      "locale": "zh",
+      "description": "TIPS 1: 最简单的字符串到整数的转换方式。 const value_1 = \"1\" const...",
+      "title": "javascript和react的技巧和窍门"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "TIPS 1: 最簡單的字符串到整數的轉換方式。 const value_1 = \"1\" const...",
+      "title": "javascript和react的技巧和竅門"
+    }
+  ]
 }
