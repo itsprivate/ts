@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC】学生は常にギリギリまで宿題を待つという証拠。ニューヨーク大学の学習管理システム「Anubis」から生成された1分ごとの使用データ。"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC] 证明学生总是等到最后一分钟才做作业。纽约大学的Anubis学习管理系统产生的每分钟使用数据。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC] 證明學生總是等到最後一分鐘才做作業。紐約大學的Anubis學習管理系統產生的每分鐘使用數據。"
+    }
+  ]
 }
