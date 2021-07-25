@@ -86,5 +86,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-25T07:01:00Z"
+  "original_createdAt": "2021-07-25T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "SVG Gobblerは、オープンソースのブラウザ拡張機能で、ベクターコンテンツの検索、処理、エクスポート、最適化、管理を行い、デザインや開発を容易にします。",
+      "tagline": "ベクトルSVGのダウンロード、最適化、加工"
+    },
+    {
+      "locale": "zh",
+      "description": "SVG Gobbler是一个开源的浏览器扩展，通过查找、处理、导出、优化和管理矢量内容，帮助设计和开发更容易。",
+      "tagline": "下载、优化和处理矢量SVG"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "SVG Gobbler是一個開源的瀏覽器擴展，通過查找、處理、導出、優化和管理矢量內容，幫助設計和開發更容易。",
+      "tagline": "下載、優化和處理矢量SVG"
+    }
+  ]
 }
