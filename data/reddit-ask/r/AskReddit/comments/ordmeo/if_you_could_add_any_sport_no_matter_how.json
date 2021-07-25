@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、どんなスポーツでも（どんなに馬鹿げていても）オリンピック種目に加えることができるとしたら、どのスポーツを選びますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你能在奥运会上增加任何运动（无论多么荒谬），你会选择哪项运动？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你能在奧運會上增加任何運動（無論多麼荒謬），你會選擇哪項運動？"
+    }
+  ]
 }
