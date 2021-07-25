@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "崖から落ちる岩石"
+    },
+    {
+      "locale": "zh",
+      "title": "从悬崖上掉下来的岩石"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "從懸崖上掉下來的岩石"
+    }
+  ]
 }
