@@ -43,5 +43,22 @@
   "original_created_at": "2021-07-23T02:02:49Z",
   "image": "https://dev.to/social_previews/article/769066.png",
   "author": "sajrashid",
-  "author_url": "https://dev.to/sajrashid"
+  "author_url": "https://dev.to/sajrashid",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "いくつかのボタンを追加してみましょう &lt;button class=\"primary\"&gt;OK&lt;/button&gt; &lt;button...",
+      "title": "すべてのボタンやリンクを1行で表示するCSS Hover style"
+    },
+    {
+      "locale": "zh",
+      "description": "让我们添加几个按钮 &lt;button class=\"primary\"&gt;OK&lt;/button&gt; &lt;按钮...",
+      "title": "一行中的所有按钮/链接的CSS悬停样式"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "讓我們添加幾個按鈕 &lt;button class=\"primary\"&gt;OK&lt;/button&gt; &lt;按鈕...",
+      "title": "一行中的所有按鈕/鏈接的CSS懸停樣式"
+    }
+  ]
 }
