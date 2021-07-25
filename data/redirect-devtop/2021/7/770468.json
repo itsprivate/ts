@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-24T16:19:29Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RI3BrgHI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0lmg63ldv8kiq0mnctur.jpg",
   "author": "George Oliveira",
-  "author_url": "https://dev.to/foolonthehill"
+  "author_url": "https://dev.to/foolonthehill",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに この記事では、Micronaut...を使って、Javaでイベントドリブンなアプリを作ってみましょう。",
+      "title": "Micronaut、Kafka、Debeziumを使ったイベントドリブンなアプリの構築"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍 在这篇文章中，我们将在Java中使用Micronaut构建一个事件驱动的应用程序。",
+      "title": "用Micronaut、Kafka和Debezium建立一个事件驱动的应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹 在這篇文章中，我們將在Java中使用Micronaut構建一個事件驅動的應用程序。",
+      "title": "用Micronaut、Kafka和Debezium建立一個事件驅動的應用程序"
+    }
+  ]
 }
