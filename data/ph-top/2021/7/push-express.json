@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-24T14:06:41Z"
+  "original_createdAt": "2021-07-24T14:06:41Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "開発者向けの強力なプッシュ通知テストツールです。すべての署名IDフォーマット（p8、p12、pem、keychain）をサポートしています。毎日使いたくなるような美しいUI。",
+      "tagline": "開発者向けの強力なプッシュ通知テストツール"
+    },
+    {
+      "locale": "zh",
+      "description": "为开发者提供强大的推送通知测试工具。支持所有的签名身份格式（p8、p12、pem、keychain）。好看的用户界面，让你想每天都使用它。",
+      "tagline": "一个为开发者提供的强大的推送通知测试工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "爲開發者提供強大的推送通知測試工具。支持所有的簽名身份格式（p8、p12、pem、keychain）。好看的用戶界面，讓你想每天都使用它。",
+      "tagline": "一個爲開發者提供的強大的推送通知測試工具"
+    }
+  ]
 }
