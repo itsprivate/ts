@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "何のことはない、警官が証拠を仕込んでいるだけだ...。"
+    },
+    {
+      "locale": "zh",
+      "title": "这里没有什么可看的，只是一个警察在伪造证据......"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這裏沒有什麼可看的，只是一個警察在僞造證據......"
+    }
+  ]
 }
