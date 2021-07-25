@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] インフレ調整された最低賃金の歴史を示す、私の2回目の試みです。これは、より良いビジュアルを提供するはずです。"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]这是我第二次尝试显示按通货膨胀调整的最低工资历史。这应该能提供一个更好的视觉效果。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]這是我第二次嘗試顯示按通貨膨脹調整的最低工資歷史。這應該能提供一個更好的視覺效果。"
+    }
+  ]
 }
