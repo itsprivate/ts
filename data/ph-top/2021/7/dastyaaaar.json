@@ -82,5 +82,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-24T08:38:21Z"
+  "original_createdAt": "2021-07-24T08:38:21Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "新しいタブページに表示されるパーソナルダッシュボードは、自己管理と生産性の向上に役立ちます。これはDastyarというChromeの生産性向上のための拡張機能で、新しいタブページに個人用のダッシュボードを上書きします。",
+      "tagline": "生産性を向上させるChrome用パーソナルダッシュボード"
+    },
+    {
+      "locale": "zh",
+      "description": "在你的新标签页上有一个个人仪表板，帮助你自我管理，提高工作效率。这是Dastyar，一个Chrome生产力扩展，用个人仪表板覆盖你的新标签页。",
+      "tagline": "用于Chrome浏览器的个人仪表板，帮助你提高工作效率"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在你的新標籤頁上有一個個人儀表板，幫助你自我管理，提高工作效率。這是Dastyar，一個Chrome生產力擴展，用個人儀表板覆蓋你的新標籤頁。",
+      "tagline": "用於Chrome瀏覽器的個人儀表板，幫助你提高工作效率"
+    }
+  ]
 }
