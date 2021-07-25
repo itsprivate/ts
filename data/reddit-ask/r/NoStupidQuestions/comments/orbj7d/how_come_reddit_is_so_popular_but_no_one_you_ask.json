@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "I asked a few of my friends about it the other day, but no one uses it, and some\ndon't even know it exists."
+  "the_new_excerpt": "I asked a few of my friends about it the other day, but no one uses it, and some\ndon't even know it exists.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "先日、何人かの友人に聞いてみましたが、誰も使っていませんし、何人かは\n存在を知らない人もいるようです。",
+      "title": "どうしてRedditはこんなに人気があるのに、誰に聞いても使っていないし、聞いたこともないのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "前几天我问了我的几个朋友，但没有人使用它，有些人甚至不知道它的存在。\n有些人甚至不知道它的存在。",
+      "title": "为什么Reddit如此受欢迎，但你问的人都不使用它，甚至没有听说过它？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "前幾天我問了我的幾個朋友，但沒有人使用它，有些人甚至不知道它的存在。\n有些人甚至不知道它的存在。",
+      "title": "爲什麼Reddit如此受歡迎，但你問的人都不使用它，甚至沒有聽說過它？"
+    }
+  ]
 }
