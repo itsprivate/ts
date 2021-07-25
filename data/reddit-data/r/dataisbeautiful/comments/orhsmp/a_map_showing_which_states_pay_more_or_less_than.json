@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "連邦政府からの援助額よりも、どの州の負担額が大きいか小さいかを示す地図。"
+    },
+    {
+      "locale": "zh",
+      "title": "一张地图显示哪些州支付的费用多于或少于其获得的联邦援助。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一張地圖顯示哪些州支付的費用多於或少於其獲得的聯邦援助。"
+    }
+  ]
 }
