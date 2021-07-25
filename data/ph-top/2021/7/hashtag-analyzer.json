@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-25T07:09:37Z"
+  "original_createdAt": "2021-07-25T07:09:37Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "All Day Trendsは、世界中のtwitterのトレンドトピックを見つけることができるウェブアプリです。同じハッシュタグがトレンドになっている場所を探すなど、様々な機能を備えています。",
+      "tagline": "ツイッターで世界的に流行しているハッシュタグを分析。"
+    },
+    {
+      "locale": "zh",
+      "description": "全天候趋势是一个网络应用程序，在这里你可以找到来自世界各地的twitter的趋势话题。查找相同的标签正在流行的地点以及更多。",
+      "tagline": "分析Twitter上的全球趋势标签。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "全天候趨勢是一個網絡應用程序，在這裏你可以找到來自世界各地的twitter的趨勢話題。查找相同的標籤正在流行的地點以及更多。",
+      "tagline": "分析Twitter上的全球趨勢標籤。"
+    }
+  ]
 }

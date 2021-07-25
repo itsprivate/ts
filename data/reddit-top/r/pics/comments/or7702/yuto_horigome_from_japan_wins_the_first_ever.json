@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "日本の堀米勇人選手がオリンピックのスケートボードで初の金メダルを獲得。"
+    },
+    {
+      "locale": "zh",
+      "title": "来自日本的Yuto Horigome赢得了有史以来第一枚奥运滑板金牌。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "來自日本的Yuto Horigome贏得了有史以來第一枚奧運滑板金牌。"
+    }
+  ]
 }
