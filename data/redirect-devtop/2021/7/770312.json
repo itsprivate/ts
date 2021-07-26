@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-24T12:41:58Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--aHkSmvRL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1442sjc5xik7iszjex94.png",
   "author": "EswaraPrakash Vaithiyanathan",
-  "author_url": "https://dev.to/eswaraprakash"
+  "author_url": "https://dev.to/eswaraprakash",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ReactのuseContextとuseReducerフックの簡単な例で、Reactで利用可能な...",
+      "title": "ReactのuseContextとuseReducerのフックです。"
+    },
+    {
+      "locale": "zh",
+      "description": "一个简单的React useContext和useReducer Hooks的例子，在React中可用，可以是...",
+      "title": "React的useContext和useReducer钩子。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個簡單的React useContext和useReducer Hooks的例子，在React中可用，可以是...",
+      "title": "React的useContext和useReducer鉤子。"
+    }
+  ]
 }

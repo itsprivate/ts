@@ -87,5 +87,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-26T13:00:00Z"
+  "original_createdAt": "2021-07-26T13:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "DocketのZoom用の新しいアプリは、生産性の高いチームがより良いミーティングを行うのに役立ちます。すべての会議を最大限に活用する必要があるチームのために構築されたZoom用Docketアプリは、Zoomのビデオ会議とDocketの会議管理用コラボレーションフレームワークのパワーを統合します。",
+      "tagline": "ミーティングのアジェンダ、メモ、タスクをZoomミーティングですぐに確認できます。"
+    },
+    {
+      "locale": "zh",
+      "description": "Docket适用于Zoom的新应用程序帮助富有成效的团队举行更好的会议。为那些需要充分利用每次会议的团队设计的Docket应用，将Zoom的视频会议和Docket的会议管理协作框架的力量统一起来。",
+      "tagline": "在你的Zoom会议中直接提供会议议程、笔记和任务。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Docket適用於Zoom的新應用程序幫助富有成效的團隊舉行更好的會議。爲那些需要充分利用每次會議的團隊設計的Docket應用，將Zoom的視頻會議和Docket的會議管理協作框架的力量統一起來。",
+      "tagline": "在你的Zoom會議中直接提供會議議程、筆記和任務。"
+    }
+  ]
 }
