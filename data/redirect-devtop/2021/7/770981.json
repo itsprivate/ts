@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-25T10:09:38Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VJviC0mG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/126va06gcwwsl6udfufo.png",
   "author": "Vikrant Bhat",
-  "author_url": "https://dev.to/bhatvikrant"
+  "author_url": "https://dev.to/bhatvikrant",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "フロントエンドの開発者としては、短時間で見栄えのするUIを完成させたいと思うことがよくあります。",
+      "title": "UIを素早く構築するための無料のTailwindCSSコンポーネント "
+    },
+    {
+      "locale": "zh",
+      "description": "作为一个前端开发者，很多时候我们想在短时间内吐出一个漂亮的用户界面。",
+      "title": "免费的TailwindCSS组件可以更快地构建UI "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "作爲一個前端開發者，很多時候我們想在短時間內吐出一個漂亮的用戶界面。",
+      "title": "免費的TailwindCSS組件可以更快地構建UI "
+    }
+  ]
 }
