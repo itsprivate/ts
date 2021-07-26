@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "メールコレクター、テーマ、アナリティクス、カスタムドメイン機能を備えた無料のブログプラットフォームを持っています。"
+    },
+    {
+      "locale": "zh",
+      "title": "我有一个免费的博客平台，有电子邮件收集器、主题、分析和自定义域名功能。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我有一個免費的博客平臺，有電子郵件收集器、主題、分析和自定義域名功能。"
+    }
+  ]
 }
