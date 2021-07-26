@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Oh Japan, Never change"
+    },
+    {
+      "locale": "zh",
+      "title": "哦，日本，永不改变"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "哦，日本，永不改變"
+    }
+  ]
 }
