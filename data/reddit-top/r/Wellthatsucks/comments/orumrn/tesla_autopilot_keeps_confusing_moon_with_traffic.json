@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "テスラのオートパイロット、月と信号機を間違えて減速し続ける"
+    },
+    {
+      "locale": "zh",
+      "title": "特斯拉自动驾驶仪不断将月亮与红绿灯混淆，然后放慢速度"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "特斯拉自動駕駛儀不斷將月亮與紅綠燈混淆，然後放慢速度"
+    }
+  ]
 }
