@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-12T03:49:24Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uHWALdu7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/190qjqblhmuaw0y5cb92.jpeg",
   "author": "Siddharth",
-  "author_url": "https://dev.to/siddharthshyniben"
+  "author_url": "https://dev.to/siddharthshyniben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "READMEは、あなたのプロジェクトで何ができるのか、そしてなぜそれが重要なのかを人々に示すための素晴らしい方法です。",
+      "title": "良いREADMEの書き方"
+    },
+    {
+      "locale": "zh",
+      "description": "README是向人们展示你的项目能做什么，以及为什么它很重要的一个好方法，在这里我将...",
+      "title": "如何写好README"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "README是向人們展示你的項目能做什麼，以及爲什麼它很重要的一個好方法，在這裏我將...",
+      "title": "如何寫好README"
+    }
+  ]
 }
