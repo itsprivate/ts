@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-25T17:26:32Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DFj0FhVa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s65qinyaeazsyiw5aagm.png",
   "author": "Sreashi Saha",
-  "author_url": "https://dev.to/sreashi"
+  "author_url": "https://dev.to/sreashi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "フレーマーモーションを知る前に、まず、なぜフレーマーモーションが必要なのかを知る必要があります。Framer...",
+      "title": "Framer Motionを使ったReactのアニメーション"
+    },
+    {
+      "locale": "zh",
+      "description": "在了解Framer Motion之前，我们首先应该知道为什么我们需要Framer Motion？帧运动...",
+      "title": "使用Framer Motion的React动画"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在瞭解Framer Motion之前，我們首先應該知道爲什麼我們需要Framer Motion？幀運動...",
+      "title": "使用Framer Motion的React動畫"
+    }
+  ]
 }
