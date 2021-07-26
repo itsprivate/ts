@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ツイッターのナイスミーム"
+    },
+    {
+      "locale": "zh",
+      "title": "叽叽喳喳的漂亮备忘录"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "嘰嘰喳喳的漂亮備忘錄"
+    }
+  ]
 }
