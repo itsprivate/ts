@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "the Olympic spirit"
+    },
+    {
+      "locale": "zh",
+      "title": "奥林匹克精神"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "奧林匹克精神"
+    }
+  ]
 }
