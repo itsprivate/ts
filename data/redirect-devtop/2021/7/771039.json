@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-25T12:43:28Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--er3MdXgO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vrvuidep9p9zxwy0lvlm.png",
   "author": "Kritika Srivastava",
-  "author_url": "https://dev.to/kritika27"
+  "author_url": "https://dev.to/kritika27",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、デブ友の皆さん。「アプリケーションを作るときにどのように考えればいいのか」これは、私が知らなかった質問です...",
+      "title": "Webアプリケーションを構築する際の考え方"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，开发部的朋友们。\"如何在构建应用程序时进行思考？\"这是我不知道如何解决的问题。",
+      "title": "构建网络应用程序时如何思考"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，開發部的朋友們。\"如何在構建應用程序時進行思考？\"這是我不知道如何解決的問題。",
+      "title": "構建網絡應用程序時如何思考"
+    }
+  ]
 }

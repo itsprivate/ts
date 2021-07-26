@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-26T07:15:13Z"
+  "original_createdAt": "2021-07-26T07:15:13Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "MojoAuthは、最も安全なパスワードレス認証ソリューションで、ユーザーがメールのOTPやマジックリンク、WebAuthnを使ってシームレスにログインすることができ、その結果、ビジネスに強力なセキュリティを提供します。アプリは無料でご利用いただけます。https://mojoauth.com/ から始めてください。",
+      "tagline": "ユーザーがパスワードなしでログインできるようにする"
+    },
+    {
+      "locale": "zh",
+      "description": "MojoAuth是最安全的无密码认证解决方案，使您的用户能够通过电子邮件OTP或魔法链接或WebAuthn无缝登录，从而为您的企业提供更强的安全性。该应用程序是免费使用的，请在https://mojoauth.com/。",
+      "tagline": "允许用户在没有密码的情况下登录"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "MojoAuth是最安全的無密碼認證解決方案，使您的用戶能夠通過電子郵件OTP或魔法鏈接或WebAuthn無縫登錄，從而爲您的企業提供更強的安全性。該應用程序是免費使用的，請在https://mojoauth.com/。",
+      "tagline": "允許用戶在沒有密碼的情況下登錄"
+    }
+  ]
 }
