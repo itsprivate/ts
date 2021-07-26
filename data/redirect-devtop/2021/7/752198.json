@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-07T07:45:27Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qoTxQ59d--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jgley7ge3b99j43twgwj.png",
   "author": "Tamerlan Gudabayev",
-  "author_url": "https://dev.to/tamerlang"
+  "author_url": "https://dev.to/tamerlang",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この1年で30本以上の記事を発表しましたが、それに伴って多くの調査を行い、多くの...",
+      "title": "シンプルなプログラミングパラダイムの解説"
+    },
+    {
+      "locale": "zh",
+      "description": "在过去的一年里，我发表了30多篇文章，随之而来的是大量的研究，我看到了很多。",
+      "title": "编程范式的简单指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在過去的一年裏，我發表了30多篇文章，隨之而來的是大量的研究，我看到了很多。",
+      "title": "編程範式的簡單指南"
+    }
+  ]
 }
