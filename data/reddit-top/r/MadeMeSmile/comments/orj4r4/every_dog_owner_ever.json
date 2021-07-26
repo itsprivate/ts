@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今までのすべての犬の飼い主は"
+    },
+    {
+      "locale": "zh",
+      "title": "每个狗主人都曾"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "每個狗主人都曾"
+    }
+  ]
 }

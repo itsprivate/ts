@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-23T17:46:24Z",
   "image": "https://dev.to/social_previews/article/769779.png",
   "author": "Hajar | هاجر",
-  "author_url": "https://dev.to/hajarnasr"
+  "author_url": "https://dev.to/hajarnasr",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、オンライン決済システムのフロントエンド側を実装したのですが、意外にも...",
+      "title": "Stripeの決済をReactで統合する"
+    },
+    {
+      "locale": "zh",
+      "description": "我最近实施了一个在线支付系统的前端，令人惊讶的是它是...",
+      "title": "用React整合Stripe支付"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我最近實施了一個在線支付系統的前端，令人驚訝的是它是...",
+      "title": "用React整合Stripe支付"
+    }
+  ]
 }
