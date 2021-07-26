@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-25T11:42:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bZPHeglO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3dxzqxin28ip8n65nm5a.png",
   "author": "capscode",
-  "author_url": "https://dev.to/capscode"
+  "author_url": "https://dev.to/capscode",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このブログでは、「CSSを使ってCONSOLE.LOG()をどのようにスタイリングするか」についてご紹介します。",
+      "title": "console.log()をプロのように使いこなす"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，在这篇博客中，我将引导大家了解 \"我们如何使用CSS来设计CONSOLE.LOG()\"，我...",
+      "title": "风格 console.log() 像一个专业人员一样"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，在這篇博客中，我將引導大家瞭解 \"我們如何使用CSS來設計CONSOLE.LOG()\"，我...",
+      "title": "風格 console.log() 像一個專業人員一樣"
+    }
+  ]
 }

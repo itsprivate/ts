@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ジム"
+    },
+    {
+      "locale": "zh",
+      "title": "体育馆"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "體育館"
+    }
+  ]
 }
