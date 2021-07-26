@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "HODLing strong..."
+  "the_new_excerpt": "HODLing strong...",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "HODLING STRONG...",
+      "title": "たった今、$38kに到達しましたか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "HODLing强...",
+      "title": "我们刚刚达到3.8万美元吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "HODLing強...",
+      "title": "我們剛剛達到3.8萬美元嗎？"
+    }
+  ]
 }
