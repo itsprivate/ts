@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-26T07:00:00Z"
+  "original_createdAt": "2021-07-26T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "消費に応じた価格になりやすい。自社で構築する手間を省き、消費量に応じた課金を実現します。最短30分で設定が可能です。https://www.getoctane.io/ でお試しください。",
+      "tagline": "使用量に応じた価格設定が容易な、頭痛のないSaaS課金"
+    },
+    {
+      "locale": "zh",
+      "description": "轻松地按消费定价。提供以消费为基础的计费，而不需要在内部建立它的麻烦! 只需30分钟即可完成设置。试用https://www.getoctane.io/",
+      "tagline": "轻松地按使用量定价，SaaS计费，无需头痛。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "輕鬆地按消費定價。提供以消費爲基礎的計費，而不需要在內部建立它的麻煩! 只需30分鐘即可完成設置。試用https://www.getoctane.io/",
+      "tagline": "輕鬆地按使用量定價，SaaS計費，無需頭痛。"
+    }
+  ]
 }
