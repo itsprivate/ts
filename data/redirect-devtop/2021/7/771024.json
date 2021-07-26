@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-25T12:21:14Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OcNnSaMp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/16do4dym9xj1oxyudhca.png",
   "author": "Beginner Developer",
-  "author_url": "https://dev.to/beginnerdeveloper"
+  "author_url": "https://dev.to/beginnerdeveloper",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "アドレスタグ HTML要素の&lt;address&gt;は、囲まれたHTMLが...を提供することを示します。",
+      "title": "過小評価されているHTMLタグ"
+    },
+    {
+      "locale": "zh",
+      "description": "地址标签 &lt;address&gt;HTML元素表示所包围的HTML提供...",
+      "title": "一些被低估的HTML标签"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "地址標籤 &lt;address&gt;HTML元素表示所包圍的HTML提供...",
+      "title": "一些被低估的HTML標籤"
+    }
+  ]
 }
