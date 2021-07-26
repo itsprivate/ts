@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "チェスの駒が与えられたマスに到着するために必要な最小移動数 [OC]"
+    },
+    {
+      "locale": "zh",
+      "title": "国际象棋棋子到达指定位置所需的最小移动数 [OC]"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "國際象棋棋子到達指定位置所需的最小移動數 [OC]"
+    }
+  ]
 }
