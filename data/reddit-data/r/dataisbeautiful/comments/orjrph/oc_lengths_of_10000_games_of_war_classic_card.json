@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] 10000 games of war（古典的なカードゲーム）の長さをPythonでシミュレートしました。"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC] 用Python模拟10000场战争（经典纸牌游戏）的长度。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC] 用Python模擬10000場戰爭（經典紙牌遊戲）的長度。"
+    }
+  ]
 }
