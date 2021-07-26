@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-26T10:50:50Z"
+  "original_createdAt": "2021-07-26T10:50:50Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "既存のCMSソリューションは、小規模なプロジェクトでは手間をかけられないことが多い。Justfieldsは簡単で迅速です。最小限のCMSをオンラインで数秒で設定し、最新のコンテンツをプロジェクトで使用することができます。",
+      "tagline": "小規模プロジェクト向けヘッドレスCMS"
+    },
+    {
+      "locale": "zh",
+      "description": "现有的CMS解决方案往往不值得小项目的麻烦。Justfields是简单和快速的。在几秒钟内在线配置一个最小的CMS，并在你的项目中使用最新的内容。",
+      "tagline": "适用于小型项目的无头CMS"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "現有的CMS解決方案往往不值得小項目的麻煩。Justfields是簡單和快速的。在幾秒鐘內在線配置一個最小的CMS，並在你的項目中使用最新的內容。",
+      "tagline": "適用於小型項目的無頭CMS"
+    }
+  ]
 }

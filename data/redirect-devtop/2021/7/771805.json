@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-26T10:15:37Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WNEcZfFV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/05id795s6qjpl1xstsgg.png",
   "author": "Rahul Shaw",
-  "author_url": "https://dev.to/rahulshawdev"
+  "author_url": "https://dev.to/rahulshawdev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "INTRODUCTION 今日は、フロントエンドの知識を磨くべきだと思い、チェックしてみました。",
+      "title": "JavaScriptで天気予報アプリを作る【1日目"
+    },
+    {
+      "locale": "zh",
+      "description": "引言 今天，我想也许我应该练习我的前端知识，所以我检查...",
+      "title": "使用JavaScript创建天气应用程序 [第1天]"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "引言 今天，我想也許我應該練習我的前端知識，所以我檢查...",
+      "title": "使用JavaScript創建天氣應用程序 [第1天]"
+    }
+  ]
 }
