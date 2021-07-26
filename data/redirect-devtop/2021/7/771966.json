@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-26T11:55:16Z",
   "image": "https://dev.to/social_previews/article/771966.png",
   "author": "Mr. Unity Buddy",
-  "author_url": "https://dev.to/unitybuddy"
+  "author_url": "https://dev.to/unitybuddy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ビギナーバディのためのシンプルなJavaScriptのチートシート!",
+      "title": "初心者のためのJavaScript Cheatsheet 🔥」です。"
+    },
+    {
+      "locale": "zh",
+      "description": "一个简单的JavaScript小抄，适合初学者的小伙伴们!",
+      "title": "脚本初学者的脚本小贴士 🔥"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個簡單的JavaScript小抄，適合初學者的小夥伴們!",
+      "title": "腳本初學者的腳本小貼士 🔥"
+    }
+  ]
 }
