@@ -88,5 +88,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-27T07:01:00Z"
+  "original_createdAt": "2021-07-27T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Dorikは、美しいテンプレートと何百ものUIブロックを備えた、使いやすく、柔軟で、最も手頃なウェブサイト構築プラットフォームです。また、Airtable、Stripe、Paypal、Memberstack、Zapier、MailChimp、MailerLiteなどの統合機能も搭載しています。",
+      "tagline": "無制限のページ数で美しいウェブサイトをコードレスで構築"
+    },
+    {
+      "locale": "zh",
+      "description": "Dorik是一个易于使用、灵活和最实惠的网站建设平台，拥有漂亮的模板和数百个用户界面块。此外，它还集成了Airtable、Stripe、Paypal、Memberstack、Zapier、MailChimp、MailerLite等功能。",
+      "tagline": "无需代码就能建立具有无限页面的美丽网站"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Dorik是一個易於使用、靈活和最實惠的網站建設平臺，擁有漂亮的模板和數百個用戶界面塊。此外，它還集成了Airtable、Stripe、Paypal、Memberstack、Zapier、MailChimp、MailerLite等功能。",
+      "tagline": "無需代碼就能建立具有無限頁面的美麗網站"
+    }
+  ]
 }
