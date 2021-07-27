@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-27T07:05:00Z"
+  "original_createdAt": "2021-07-27T07:05:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Meticulousは、ウェブアプリケーションのJavaScriptのバグをゼロエフォートでキャッチするツールです。お客様のサイトに当社の1行スニペットを挿入すると、何千ものユーザーセッションを記録します。そして、それらのセッションを新しいコードで再生し、自動的にバグを発見します。",
+      "tagline": "Webアプリケーション上のJavaScriptのバグを、手間をかけずに検出することができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "Meticulous是一个可以在网络应用中零距离捕捉JavaScript错误的工具。在你的网站上插入我们的1行代码，我们将记录成千上万的用户会话。然后我们在新的代码上重放这些会话，自动为你找到错误。",
+      "tagline": "零距离捕捉网络应用中的JavaScript漏洞"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Meticulous是一個可以在網絡應用中零距離捕捉JavaScript錯誤的工具。在你的網站上插入我們的1行代碼，我們將記錄成千上萬的用戶會話。然後我們在新的代碼上重放這些會話，自動爲你找到錯誤。",
+      "tagline": "零距離捕捉網絡應用中的JavaScript漏洞"
+    }
+  ]
 }
