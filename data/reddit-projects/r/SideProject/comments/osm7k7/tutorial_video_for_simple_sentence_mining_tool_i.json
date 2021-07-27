@@ -59,5 +59,19 @@
     }
   },
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "数週間前に作成したSimple Sentence Miningツールのチュートリアルビデオです。"
+    },
+    {
+      "locale": "zh",
+      "title": "我几周前创建的简单句子挖掘工具的教程视频，该工具可从句子中快速生成词汇卡片"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我幾周前創建的簡單句子挖掘工具的教程視頻，該工具可從句子中快速生成詞彙卡片"
+    }
+  ]
 }
