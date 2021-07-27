@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この女の子のバランス感覚は"
+    },
+    {
+      "locale": "zh",
+      "title": "这个女孩的平衡能力"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個女孩的平衡能力"
+    }
+  ]
 }
