@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私は今朝、昨夜寝たシャツをソファの背もたれに投げつけました。Happy boiはそれを抱きしめたがった。"
+    },
+    {
+      "locale": "zh",
+      "title": "今天早上，我把昨晚睡觉时穿的衬衫扔在了沙发后面。Happy Boi想和它拥抱在一起。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "今天早上，我把昨晚睡覺時穿的襯衫扔在了沙發後面。Happy Boi想和它擁抱在一起。"
+    }
+  ]
 }
