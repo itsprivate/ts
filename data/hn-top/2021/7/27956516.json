@@ -13,5 +13,19 @@
   ],
   "objectID": "27956516",
   "original_created_at": "2021-07-26T07:04:19.000Z",
-  "image": "https://marektoth.com/images/password-image.png"
+  "image": "https://marektoth.com/images/password-image.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "パスワードマネージャーの自動入力でログイン情報が盗まれることがある"
+    },
+    {
+      "locale": "zh",
+      "title": "密码管理器中的自动填充功能可使登录凭证被盗"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "密碼管理器中的自動填充功能可使登錄憑證被盜"
+    }
+  ]
 }
