@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-19T09:45:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ktBShl50--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/76mslmw67uf54elr6zw3.jpg",
   "author": "Robin Pokorny",
-  "author_url": "https://dev.to/robinpokorny"
+  "author_url": "https://dev.to/robinpokorny",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "小さなサイドプロジェクトであるライブラリを制作していたとき、欠損値を表現する必要がありました。その中で...",
+      "title": "nullをES6の記号に置き換える"
+    },
+    {
+      "locale": "zh",
+      "description": "当我在做我的小型副业库时，我需要表示一个缺失的值。在...",
+      "title": "用ES6符号替换空值"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當我在做我的小型副業庫時，我需要表示一個缺失的值。在...",
+      "title": "用ES6符號替換空值"
+    }
+  ]
 }
