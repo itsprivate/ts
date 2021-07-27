@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-25T17:54:36Z",
   "image": "https://dev.to/social_previews/article/771275.png",
   "author": "Yuiko Ito",
-  "author_url": "https://dev.to/yuikoito"
+  "author_url": "https://dev.to/yuikoito",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは。私はBodyPixを使って、オリジナルの背景を削除して...というアプリケーションを開発しました。",
+      "title": "TensorFlow + Next.js + TypeScript。Webカメラで背景を除去し、仮想背景画像を追加する"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，我用BodyPix开发了一个应用程序，它可以删除一个原始的背景，并将其作为一个新的应用程序。",
+      "title": "TensorFlow + Next.js + TypeScript。用网络摄像头删除背景并添加虚拟背景图片"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，我用BodyPix開發了一個應用程序，它可以刪除一個原始的背景，並將其作爲一個新的應用程序。",
+      "title": "TensorFlow + Next.js + TypeScript。用網絡攝像頭刪除背景並添加虛擬背景圖片"
+    }
+  ]
 }
