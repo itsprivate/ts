@@ -83,5 +83,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-27T08:05:40Z"
+  "original_createdAt": "2021-07-27T08:05:40Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ここでは、TwitterでCrypto Artを表示しています。毎日、あなたのプロフィール画像は、あなたのNFTコレクションに基づいてランダムに更新されます。Twitterに接続し、openSeaウォレットを同期させ、お気に入りのNFTを選びます。あとは私たちにお任せください。",
+      "tagline": "あなたのプロフィール写真は、あなたのNFTに基づいて毎日更新されます。"
+    },
+    {
+      "locale": "zh",
+      "description": "在这里，我们在Twitter上展示我们的加密货币艺术。每天，你的个人资料图片会根据你的NFT收藏随机更新。与Twitter连接，同步你的openSea钱包，并选择你最喜欢的NFTs。剩下的事情由我们来做。",
+      "tagline": "你的个人资料图片每天都会根据你的NFTs进行更新。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這裏，我們在Twitter上展示我們的加密貨幣藝術。每天，你的個人資料圖片會根據你的NFT收藏隨機更新。與Twitter連接，同步你的openSea錢包，並選擇你最喜歡的NFTs。剩下的事情由我們來做。",
+      "tagline": "你的個人資料圖片每天都會根據你的NFTs進行更新。"
+    }
+  ]
 }
