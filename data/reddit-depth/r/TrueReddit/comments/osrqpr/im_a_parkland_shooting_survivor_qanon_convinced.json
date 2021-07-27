@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私はパークランド・シューティングの生存者です。QAnonは私の父にすべてがデマであると確信させました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我是帕克兰枪击案的幸存者。QAnon让我父亲相信这一切都是骗局。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我是帕克蘭槍擊案的倖存者。QAnon讓我父親相信這一切都是騙局。"
+    }
+  ]
 }
