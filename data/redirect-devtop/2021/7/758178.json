@@ -50,5 +50,22 @@
   "original_created_at": "2021-07-13T14:06:38Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RdtvmoNe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1l9twb06v1blsm2z2age.png",
   "author": "Maël Nison",
-  "author_url": "https://dev.to/arcanis"
+  "author_url": "https://dev.to/arcanis",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは。ご無沙汰しております。12月に入ってから、次のメジャーリリースに向けて動き出すことにしました。",
+      "title": "Yarn 3.0 🚀🤖パフォーマンス、ESビルド、ベターパッチ、...。"
+    },
+    {
+      "locale": "zh",
+      "description": "你好! 好久没见了! 早在12月，我们就决定开始着手开发我们的下一个主要版本，即 \"新版\"。",
+      "title": "Yarn 3.0 🚀🤖性能，ESBuild，更好的补丁，..."
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好! 好久沒見了! 早在12月，我們就決定開始着手開發我們的下一個主要版本，即 \"新版\"。",
+      "title": "Yarn 3.0 🚀🤖性能，ESBuild，更好的補丁，..."
+    }
+  ]
 }
