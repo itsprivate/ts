@@ -42,5 +42,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインIRAに入れたお金には税金がかかりますが、口座内の投資収益は非課税であることをTIL"
+    },
+    {
+      "locale": "zh",
+      "title": "尽管你为投入比特币IRA的钱纳税，但账户中的投资收益是免税的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "儘管你爲投入比特幣IRA的錢納稅，但賬戶中的投資收益是免稅的。"
+    }
+  ]
 }
