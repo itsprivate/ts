@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-25T09:36:24Z",
   "image": "https://dev.to/social_previews/article/770949.png",
   "author": "Oskar Filipowicz",
-  "author_url": "https://dev.to/ofilipowicz"
+  "author_url": "https://dev.to/ofilipowicz",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Next.jsでは、開発者はページごとにダイナミックなレイアウトを設定することができます。このアプローチの利点と詳細...",
+      "title": "Next.js パーページレイアウトとTypeScript"
+    },
+    {
+      "locale": "zh",
+      "description": "Next.js允许开发者在每个页面设置动态布局。这种方法的好处和细节...",
+      "title": "Next.js每页布局和TypeScript"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Next.js允許開發者在每個頁面設置動態佈局。這種方法的好處和細節...",
+      "title": "Next.js每頁佈局和TypeScript"
+    }
+  ]
 }
