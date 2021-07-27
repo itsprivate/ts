@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "味がするほど近い!"
+    },
+    {
+      "locale": "zh",
+      "title": "如此接近，我们可以尝到它的味道!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如此接近，我們可以嚐到它的味道!"
+    }
+  ]
 }
