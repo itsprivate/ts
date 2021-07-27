@@ -93,5 +93,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-27T07:05:28Z"
+  "original_createdAt": "2021-07-27T07:05:28Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "APIに接続しようとすると、まず認証が必要になります。Vaultは、OAuthフローの処理、APIキーの保存、アクセストークンのリフレッシュをサポートします。ユーザーに次のことをさせましょう - 🔐 50以上のAPIに接続 - ⚙️ 統合設定の管理 - 🕵🏻♀️ 統合の発見",
+      "tagline": "APIと統合をつなぐための新しいスタンダード"
+    },
+    {
+      "locale": "zh",
+      "description": "当你想连接到一个API时，第一步是认证。Vault帮助你处理OAuth流程，存储API密钥，并刷新访问令牌。让你的用户： - 🔐连接50多个API - ⚙️管理整合设置 - 🕵🏻♀️发现整合内容",
+      "tagline": "连接API和集成的新标准"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當你想連接到一個API時，第一步是認證。Vault幫助你處理OAuth流程，存儲API密鑰，並刷新訪問令牌。讓你的用戶： - 🔐連接50多個API - ⚙️管理整合設置 - 🕵🏻♀️發現整合內容",
+      "tagline": "連接API和集成的新標準"
+    }
+  ]
 }
