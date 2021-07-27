@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-23T18:59:24Z",
   "image": "https://dev.to/social_previews/article/769800.png",
   "author": "Mrinalini Sugosh (Mrina)",
-  "author_url": "https://dev.to/mrinasugosh"
+  "author_url": "https://dev.to/mrinasugosh",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私は最近、機械学習の分野を探求しています。正直なところ、私は...",
+      "title": "JavascriptによるMLの基礎知識"
+    },
+    {
+      "locale": "zh",
+      "description": "我最近一直在探索机器学习领域；老实说，我不得不...",
+      "title": "Javascript中的ML基础知识"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我最近一直在探索機器學習領域；老實說，我不得不...",
+      "title": "Javascript中的ML基礎知識"
+    }
+  ]
 }
