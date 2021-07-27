@@ -43,5 +43,22 @@
   "original_created_at": "2021-07-27T08:27:47Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PDGLFrIv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b89ptguvtlmatb040uhn.jpg",
   "author": "Silvestar Bistrović",
-  "author_url": "https://dev.to/starbist"
+  "author_url": "https://dev.to/starbist",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ここからは私の考えですが、ウェブサイトを作っているのであれば、（ほとんどの場合）Reactは必要ありません。 私はこれまで...",
+      "title": "Webサイトの構築にReactは必要ありません"
+    },
+    {
+      "locale": "zh",
+      "description": "我是这样想的：如果你正在建设网站，你不需要React（在大多数情况下）。 我一直在...",
+      "title": "你不需要用React来建设网站"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我是這樣想的：如果你正在建設網站，你不需要React（在大多數情況下）。 我一直在...",
+      "title": "你不需要用React來建設網站"
+    }
+  ]
 }
