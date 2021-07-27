@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-26T11:44:07Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_D-OgshM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/khdd9has5hs67kjh9aey.png",
   "author": "Nukala Suraj",
-  "author_url": "https://dev.to/lucidmach"
+  "author_url": "https://dev.to/lucidmach",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今日の超高速ペースの世界では、まだロードされていないWebサイトの3秒は十分すぎるほどの価値があります。",
+      "title": "Webパフォーマンスを80%向上させる20%の最適化"
+    },
+    {
+      "locale": "zh",
+      "description": "在今天这个超快节奏的世界里，一个尚未加载的网站的3秒钟已经足够了。",
+      "title": "20%的优化能提高80%的网络性能"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在今天這個超快節奏的世界裏，一個尚未加載的網站的3秒鐘已經足夠了。",
+      "title": "20%的優化能提高80%的網絡性能"
+    }
+  ]
 }

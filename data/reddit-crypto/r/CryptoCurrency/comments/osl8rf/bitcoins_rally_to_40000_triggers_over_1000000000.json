@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインが4万ドルまで上昇したことで、10億円以上の清算が発生しました。"
+    },
+    {
+      "locale": "zh",
+      "title": "比特币反弹至40,000美元引发了超过1,000,000美元的清算。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比特幣反彈至40,000美元引發了超過1,000,000美元的清算。"
+    }
+  ]
 }
