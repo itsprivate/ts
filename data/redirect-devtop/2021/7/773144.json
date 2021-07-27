@@ -48,5 +48,22 @@
   "original_created_at": "2021-07-27T13:51:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FFFyg8va--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ncpd2truabm95sgmaaov.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "そう、あなたです。 この投稿は今、トレンドになっています...                                         タイプスクリプトに...",
+      "title": "TypeScriptを学ぶべきでしょう。"
+    },
+    {
+      "locale": "zh",
+      "description": "是的，你。 这个帖子现在正在流行...                                         为了排版...",
+      "title": "你也许应该学习TypeScript"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "是的，你。 這個帖子現在正在流行...                                         爲了排版...",
+      "title": "你也許應該學習TypeScript"
+    }
+  ]
 }
