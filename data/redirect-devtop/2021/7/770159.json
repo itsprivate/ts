@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-24T08:30:17Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PjnfZJ6p--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5jixffw2673jm91ho89x.gif",
   "author": "Patricia Nicole",
-  "author_url": "https://dev.to/pat_the99"
+  "author_url": "https://dev.to/pat_the99",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "[JS#5 WIL 🤔投稿] JavaScriptのホイスティングとは、コンパイラが...を確保するプロセスのことです。",
+      "title": "JavaScriptの引き上げ"
+    },
+    {
+      "locale": "zh",
+      "description": "[JS#5 WIL 🤔 Post] JavaScript吊装指的是编译器分配的过程。",
+      "title": "悬挂的JavaScript"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "[JS#5 WIL 🤔 Post] JavaScript吊裝指的是編譯器分配的過程。",
+      "title": "懸掛的JavaScript"
+    }
+  ]
 }

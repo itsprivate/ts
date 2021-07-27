@@ -57,5 +57,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "What is a Hard Fork?\n\nA hard fork is when nodes of the newest version of a blockchain no longer accept\nthe older version(s) of the blockchain; which creates a permanent divergence\nfrom the previous version of the blockchain.\n\nAdding a new rule to the code essentially creates a fork in the…"
+  "the_new_excerpt": "What is a Hard Fork?\n\nA hard fork is when nodes of the newest version of a blockchain no longer accept\nthe older version(s) of the blockchain; which creates a permanent divergence\nfrom the previous version of the blockchain.\n\nAdding a new rule to the code essentially creates a fork in the…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ハードフォークとは何ですか？\n\nハードフォークとは、最新バージョンのブロックチェーンのノードが、旧バージョンのブロックチェーンを受け入れなくなることです。\nブロックチェーンの最新バージョンのノードが、旧バージョンのブロックチェーンを受け入れなくなることです。\nハードフォークとは、最新バージョンのブロックチェーンのノードが旧バージョンのブロックチェーンを受け入れなくなることです。\n\nコードに新しいルールを追加することで、実質的にはフォークが発生します...",
+      "title": "9日後にやってくるイーサリアムのアップグレード「ロンドン」は「ハードフォーク」になりますが、その意味を調べましたので、あなたはその必要はありません。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "什么是硬分叉？\n\n硬分叉是指一个区块链的最新版本的节点不再接受\n区块链的旧版本；这就造成了与区块链旧版本的永久分歧。\n与区块链的前一版本产生了永久性的分歧。\n\n在代码中添加一个新的规则，本质上是在区块链中创造了一个分叉...",
+      "title": "9天后即将到来的以太坊升级 \"伦敦 \"将是一个 \"硬分叉\"，我发现了这意味着什么，所以你不需要知道。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "什麼是硬分叉？\n\n硬分叉是指一個區塊鏈的最新版本的節點不再接受\n區塊鏈的舊版本；這就造成了與區塊鏈舊版本的永久分歧。\n與區塊鏈的前一版本產生了永久性的分歧。\n\n在代碼中添加一個新的規則，本質上是在區塊鏈中創造了一個分叉...",
+      "title": "9天后即將到來的以太坊升級 \"倫敦 \"將是一個 \"硬分叉\"，我發現了這意味着什麼，所以你不需要知道。"
+    }
+  ]
 }
