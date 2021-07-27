@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ホスピタリティが行き過ぎると"
+    },
+    {
+      "locale": "zh",
+      "title": "当好客之道走得太远"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當好客之道走得太遠"
+    }
+  ]
 }
