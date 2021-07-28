@@ -88,5 +88,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-28T09:16:51Z"
+  "original_createdAt": "2021-07-28T09:16:51Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Octopods WhatsApp for Intercomは、最も人気のあるソーシャルメッセージングチャンネルをIntercom Inboxに導入します。Octopodsは、公式のWhatsApp Business APIを使用してIntercomと深く統合し、IntercomとWhatsAppの長所を生かしたサービスを提供しています。",
+      "tagline": "Intercomの受信箱でWhatsAppメッセージを送受信する"
+    },
+    {
+      "locale": "zh",
+      "description": "Octopods WhatsApp for Intercom为您的Intercom收件箱带来最受欢迎的社交信息渠道。Octopods使用官方的WhatsApp商业API与Intercom进行深度整合，为您提供Intercom和WhatsApp的优点。",
+      "tagline": "在您的Intercom收件箱中发送和接收WhatsApp信息"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Octopods WhatsApp for Intercom爲您的Intercom收件箱帶來最受歡迎的社交信息渠道。Octopods使用官方的WhatsApp商業API與Intercom進行深度整合，爲您提供Intercom和WhatsApp的優點。",
+      "tagline": "在您的Intercom收件箱中發送和接收WhatsApp信息"
+    }
+  ]
 }
