@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-27T13:26:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PYpBsmNT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/26tixnjx5i9092uja1a2.jpg",
   "author": "Hiep Le",
-  "author_url": "https://dev.to/hieptl"
+  "author_url": "https://dev.to/hieptl",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このプロジェクトが気に入ったら⭐をクリックしてください。Pull Requestsは大歓迎です❤️ Github link:...",
+      "title": "Netflixを作ってReactとReact Contextを学ぶ"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你喜欢这个项目，请点击⭐。非常感谢你的拉动请求❤️ Github链接：...",
+      "title": "通过构建Netflix来学习React和React Context"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你喜歡這個項目，請點擊⭐。非常感謝你的拉動請求❤️ Github鏈接：...",
+      "title": "通過構建Netflix來學習React和React Context"
+    }
+  ]
 }
