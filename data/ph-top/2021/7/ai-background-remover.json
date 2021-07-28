@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-28T07:38:12Z"
+  "original_createdAt": "2021-07-28T07:38:12Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "自動で、正確で、⚡️ライティングが速い画像背景除去ツールです。",
+      "tagline": "ウェブ上で任意の画像の背景を3秒で消すことができる"
+    },
+    {
+      "locale": "zh",
+      "description": "自动，准确，和⚡️照明快速的图像背景去除工具。",
+      "tagline": "在网络上3秒内删除任何图像的背景"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "自動，準確，和⚡️照明快速的圖像背景去除工具。",
+      "tagline": "在網絡上3秒內刪除任何圖像的背景"
+    }
+  ]
 }

@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-28T07:01:00Z"
+  "original_createdAt": "2021-07-28T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "録画したビデオから最高の瞬間を取り出し、ハイライト映像としてまとめることができるMilk Video。ハイライトビデオは、バーチャルイベントの記録、Zoomミーティングの概要、個人的なセールス活動などに使用されます。",
+      "tagline": "ビデオをハイライトリールに"
+    },
+    {
+      "locale": "zh",
+      "description": "从你的视频记录中提取最佳时刻，并通过Milk Video将它们编入亮点卷轴。卷轴可用于虚拟活动回顾、Zoom会议总结、个性化销售推广等。",
+      "tagline": "将视频转化为亮点卷轴"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "從你的視頻記錄中提取最佳時刻，並通過Milk Video將它們編入亮點卷軸。卷軸可用於虛擬活動回顧、Zoom會議總結、個性化銷售推廣等。",
+      "tagline": "將視頻轉化爲亮點卷軸"
+    }
+  ]
 }
