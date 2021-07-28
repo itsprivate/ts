@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今、見ている番組は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你目前正在热播的节目是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你目前正在熱播的節目是什麼？"
+    }
+  ]
 }
