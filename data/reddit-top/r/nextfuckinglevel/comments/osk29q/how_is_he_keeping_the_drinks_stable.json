@@ -64,5 +64,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼はどうやって飲み物を安定させているのか？"
+    },
+    {
+      "locale": "zh",
+      "title": "他是如何保持饮料稳定的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他是如何保持飲料穩定的？"
+    }
+  ]
 }
