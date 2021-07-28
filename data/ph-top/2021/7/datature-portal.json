@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-28T07:46:32Z"
+  "original_createdAt": "2021-07-28T07:46:32Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Portalはビジョンモデルの視覚的検査ツールです☝️ モデルの視覚化やテストのためにcv2やmatplotlibのコードと格闘する必要はありません、特にビデオでは。Portalは、データセット上のニューラルネットワーク推論を検査する最速の方法です。",
+      "tagline": "ニューラルネットワークの検査にはPortalが最適"
+    },
+    {
+      "locale": "zh",
+      "description": "Portal是一个视觉模型的视觉检测工具 ☝️ 不用再纠结于cv2或matplotlib代码来可视化或测试你的模型，尤其是在视频上。Portal是在你的数据集上检查你的神经网络推论的最快方式。",
+      "tagline": "门户网站是检查你的神经网络的最快方式"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Portal是一個視覺模型的視覺檢測工具 ☝️ 不用再糾結於cv2或matplotlib代碼來可視化或測試你的模型，尤其是在視頻上。Portal是在你的數據集上檢查你的神經網絡推論的最快方式。",
+      "tagline": "門戶網站是檢查你的神經網絡的最快方式"
+    }
+  ]
 }
