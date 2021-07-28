@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-28T07:01:00Z"
+  "original_createdAt": "2021-07-28T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Mint Clubは、コードを書く必要がなく、即時に流動性を提供する暗号構築プラットフォームです（Binance Smart Chainをベースにしています）。誰でも簡単なクリック操作でスマートトークンを立ち上げることができます。",
+      "tagline": "瞬時に流動性が得られるノーコードのクリプトビルダー"
+    },
+    {
+      "locale": "zh",
+      "description": "Mint Club是加密货币构建平台，不需要编码，提供即时流动性（基于Binance智能链）。任何人只需简单点击几下，就可以推出一个智能代币。",
+      "tagline": "具有即时流动性的无代码加密货币构建器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Mint Club是加密貨幣構建平臺，不需要編碼，提供即時流動性（基於Binance智能鏈）。任何人只需簡單點擊幾下，就可以推出一個智能代幣。",
+      "tagline": "具有即時流動性的無代碼加密貨幣構建器"
+    }
+  ]
 }
