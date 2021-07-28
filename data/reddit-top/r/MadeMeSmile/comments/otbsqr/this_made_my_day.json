@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これは私の日を作った :)"
+    },
+    {
+      "locale": "zh",
+      "title": "这让我很高兴 :)"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這讓我很高興 :)"
+    }
+  ]
 }
