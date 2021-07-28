@@ -52,5 +52,22 @@
   "original_created_at": "2021-07-27T13:37:49Z",
   "image": "https://dev.to/social_previews/article/773138.png",
   "author": "Natalia Venditto",
-  "author_url": "https://dev.to/anfibiacreativa"
+  "author_url": "https://dev.to/anfibiacreativa",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私のフォロワーの皆さんは、私がもうフロントエンド・デベロッパーとして働いていないことをご存知だと思いますが、私はほとんどの期間、フロントエンド・デベロッパーとして働いていました。",
+      "title": "CSSのz-indexの例示"
+    },
+    {
+      "locale": "zh",
+      "description": "我的追随者们知道，我不再从事前端开发工作，然而，我曾作为一个前端开发员工作了近一年。",
+      "title": "图示的CSS z-index"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我的追隨者們知道，我不再從事前端開發工作，然而，我曾作爲一個前端開發員工作了近一年。",
+      "title": "圖示的CSS z-index"
+    }
+  ]
 }
