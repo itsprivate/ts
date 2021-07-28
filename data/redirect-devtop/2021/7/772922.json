@@ -48,5 +48,22 @@
   "original_created_at": "2021-07-27T10:14:57Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zYulMdjH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0n4g9h7np3igjxvjzadg.png",
   "author": "Akash Shyam",
-  "author_url": "https://dev.to/akashshyam"
+  "author_url": "https://dev.to/akashshyam",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "前回の記事では、読者の一人がtypecriptに対して非常に良い指摘をしていましたが、それは...",
+      "title": "To Typescript Or To Not?"
+    },
+    {
+      "locale": "zh",
+      "description": "在我之前的文章中，我的一个读者，说了一些非常好的观点，反对排版，是...",
+      "title": "要不要排版？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在我之前的文章中，我的一個讀者，說了一些非常好的觀點，反對排版，是...",
+      "title": "要不要排版？"
+    }
+  ]
 }
