@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-27T08:36:15Z"
+  "original_createdAt": "2021-07-27T08:36:15Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "LiveChatアプリに最新の機能が追加されたことで、顧客が別のコミュニケーションチャネルを介してビジネスにコンタクトできるようになり、すべての顧客とのコミュニケーションを一箇所にまとめることができます。",
+      "tagline": "お客様がWhatsappで連絡できるようにする"
+    },
+    {
+      "locale": "zh",
+      "description": "有了最新加入的LiveChat应用程序，你可以让你的客户通过另一个沟通渠道联系你的业务，并将所有的客户沟通放在一个地方。",
+      "tagline": "让你的客户通过Whatsapp联系你"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有了最新加入的LiveChat應用程序，你可以讓你的客戶通過另一個溝通渠道聯繫你的業務，並將所有的客戶溝通放在一個地方。",
+      "tagline": "讓你的客戶通過Whatsapp聯繫你"
+    }
+  ]
 }
