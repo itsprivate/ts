@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "好きなテレビのテーマソングは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你最喜欢的电视主题曲是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你最喜歡的電視主題曲是什麼？"
+    }
+  ]
 }
