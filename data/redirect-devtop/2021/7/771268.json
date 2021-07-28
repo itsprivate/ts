@@ -43,5 +43,22 @@
   "original_created_at": "2021-07-25T17:39:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fvWYE9Hk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3uv5wnlhkk86pvqjlwh2.jpg",
   "author": "Mahmoud EL-kariouny",
-  "author_url": "https://dev.to/mahmoudessa"
+  "author_url": "https://dev.to/mahmoudessa",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "変数 コンピュータのメモリにデータを一時的に格納するために、変数を使用します。 price =...",
+      "title": "python開発初心者のためのチートシート "
+    },
+    {
+      "locale": "zh",
+      "description": "变量 我们使用变量在计算机内存中临时存储数据。 价格=...",
+      "title": "为初学者提供的Python开发小抄 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "變量 我們使用變量在計算機內存中臨時存儲數據。 價格=...",
+      "title": "爲初學者提供的Python開發小抄 "
+    }
+  ]
 }
