@@ -91,5 +91,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このGIFは私を傷つけます。"
+    },
+    {
+      "locale": "zh",
+      "title": "这张图让我很受伤"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這張圖讓我很受傷"
+    }
+  ]
 }
