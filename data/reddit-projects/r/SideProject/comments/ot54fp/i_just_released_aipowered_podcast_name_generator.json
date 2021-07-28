@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "600K以上のポッドキャストの名前と説明を学習したAI搭載のPodcast Name Generatorをリリースしました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我刚刚发布了由人工智能驱动的播客名称生成器，对60多万个播客名称和描述进行了培训"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我剛剛發佈了由人工智能驅動的播客名稱生成器，對60多萬個播客名稱和描述進行了培訓"
+    }
+  ]
 }
