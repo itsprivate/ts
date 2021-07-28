@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Looking for books that can help with anxiety! Mostly for social anxiety"
+  "the_new_excerpt": "Looking for books that can help with anxiety! Mostly for social anxiety",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "不安を解消してくれる本を探しています! 主に社交不安症向け",
+      "title": "不安を解消してくれる本を探しています!"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "寻找可以帮助解决焦虑的书籍! 主要是针对社交焦虑症",
+      "title": "寻找可以帮助解决焦虑的书籍!"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "尋找可以幫助解決焦慮的書籍! 主要是針對社交焦慮症",
+      "title": "尋找可以幫助解決焦慮的書籍!"
+    }
+  ]
 }
