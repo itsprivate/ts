@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-26T17:32:51Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sX8FdrLq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yatn1xjzegzged8ijq6i.jpg",
   "author": "Mike Talbot",
-  "author_url": "https://dev.to/miketalbot"
+  "author_url": "https://dev.to/miketalbot",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Photo by Adrian Infernus on Unsplash はじめに 私たちのフロントエンドの中核を成すのは、よく...",
+      "title": "フックを使ってReactの強力な非同期コンポーネントを作る方法（サスペンスもなし"
+    },
+    {
+      "locale": "zh",
+      "description": "照片：Adrian Infernus on Unsplash 简介 经常是我们前端的核心。",
+      "title": "如何使用钩子（和无悬念）编制一个强大的React异步组件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "照片：Adrian Infernus on Unsplash 簡介 經常是我們前端的核心。",
+      "title": "如何使用鉤子（和無懸念）編制一個強大的React異步組件"
+    }
+  ]
 }
