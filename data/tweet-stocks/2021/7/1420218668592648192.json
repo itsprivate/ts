@@ -150,5 +150,22 @@
     "retweet_count": 156,
     "favorite_count": 938,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @chadsgx です。#ビットコイン 先週：対今週： https://t.co/ryy4ULZ2vk",
+      "retweeted_status_full_text": "#ビットコイン 先週：対今週： https://t.co/ryy4ULZ2vk"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @chadsgx: #比特币上周：与本周：https://t.co/ryy4ULZ2vk",
+      "retweeted_status_full_text": "#比特币上周：与本周：https://t.co/ryy4ULZ2vk"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @chadsgx: #比特幣上週：與本週：https://t.co/ryy4ULZ2vk",
+      "retweeted_status_full_text": "#比特幣上週：與本週：https://t.co/ryy4ULZ2vk"
+    }
+  ]
 }

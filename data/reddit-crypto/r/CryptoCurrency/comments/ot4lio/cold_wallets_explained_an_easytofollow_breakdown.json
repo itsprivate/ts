@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "You've probably heard that the point of a physical wallet is to have a place\nthat knows your private keys that is never connected to the internet. This is\n(at least partially) correct, but it's a bit more complicated than that. Really,\na hard wallet is an offline transaction signer. Let's go into a…"
+  "the_new_excerpt": "You've probably heard that the point of a physical wallet is to have a place\nthat knows your private keys that is never connected to the internet. This is\n(at least partially) correct, but it's a bit more complicated than that. Really,\na hard wallet is an offline transaction signer. Let's go into a…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "物理的な財布の意味は、インターネットに接続されていない、自分の秘密鍵を知っている場所を持つことだと聞いたことがあるでしょう。\n物理的な財布の意義は、インターネットに接続されていない、あなたの秘密鍵を知っている場所を持つことだと聞いたことがあるでしょう。これは\n(少なくとも部分的には）正しいのですが、もう少し複雑です。本当にそうです。\nハードウォレットとは、オフラインの取引署名者のことです。ここでは、ハードウォレットの概要について説明します。",
+      "title": "コールドウォレットの説明：コールドウォレットが実際に何をしているのか、なぜ、どのようにしてホットウォレットよりも高いセキュリティを提供するのかをわかりやすく説明します。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你可能听说过，实体钱包的意义在于有一个知道你的私钥的地方，并且永远不与互联网连接。\n知道你的私钥的地方，并且永远不会连接到互联网。这一点是\n(至少是部分正确的，但它比这更复杂。真的。\n硬钱包是一个离线交易签名器。让我们进入一个...",
+      "title": "冷钱包解释：简单明了地分析了冷钱包的实际作用，以及为什么和如何提供比热钱包更高的安全性"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你可能聽說過，實體錢包的意義在於有一個知道你的私鑰的地方，並且永遠不與互聯網連接。\n知道你的私鑰的地方，並且永遠不會連接到互聯網。這一點是\n(至少是部分正確的，但它比這更復雜。真的。\n硬錢包是一個離線交易簽名器。讓我們進入一個...",
+      "title": "冷錢包解釋：簡單明瞭地分析了冷錢包的實際作用，以及爲什麼和如何提供比熱錢包更高的安全性"
+    }
+  ]
 }
