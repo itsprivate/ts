@@ -106,5 +106,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "自分の場所を知っている人"
+    },
+    {
+      "locale": "zh",
+      "title": "了解你的位置，傻子"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "瞭解你的位置，傻子"
+    }
+  ]
 }

@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "体操競技で3つの飛行要素を連続して行ったのは、この男性が初めてです。"
+    },
+    {
+      "locale": "zh",
+      "title": "这个人是第一个在体操比赛中连续完成三个飞行元素的人"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個人是第一個在體操比賽中連續完成三個飛行元素的人"
+    }
+  ]
 }
