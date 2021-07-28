@@ -43,5 +43,22 @@
   "original_created_at": "2021-07-26T20:22:35Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--G81bPkfn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0nviz16xvjex3260qjh2.jpg",
   "author": "Samson Andrew",
-  "author_url": "https://dev.to/maswerdna"
+  "author_url": "https://dev.to/maswerdna",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、「Consuming REST APIs in your React Project」という講義資料を準備する必要があったので、...",
+      "title": "Dev-to-Blog - Dev.toのReactJSクローンです。"
+    },
+    {
+      "locale": "zh",
+      "description": "最近，我需要准备一份关于在React项目中使用REST APIs的讲座材料，所以我...",
+      "title": "Dev-to-Blog - 一个ReactJS克隆的Dev.to"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "最近，我需要準備一份關於在React項目中使用REST APIs的講座材料，所以我...",
+      "title": "Dev-to-Blog - 一個ReactJS克隆的Dev.to"
+    }
+  ]
 }
