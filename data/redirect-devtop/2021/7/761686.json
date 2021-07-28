@@ -57,5 +57,22 @@
   "original_created_at": "2021-07-17T04:49:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hFBU8zDX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l146uid0guzg1hgtu9tx.png",
   "author": "Suraj Vishwakarma",
-  "author_url": "https://dev.to/surajondev"
+  "author_url": "https://dev.to/surajondev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに ニュースレターは、企業の進捗状況を知るための良い情報源となります。",
+      "title": "10 開発者向けニュースレター"
+    },
+    {
+      "locale": "zh",
+      "description": "简介：通讯可以是一个很好的来源，可以让人了解到最新的进展。",
+      "title": "10份面向开发者的新闻简报"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介：通訊可以是一個很好的來源，可以讓人瞭解到最新的進展。",
+      "title": "10份面向開發者的新聞簡報"
+    }
+  ]
 }
