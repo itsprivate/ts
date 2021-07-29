@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-27T09:29:04Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zF0q_m8A--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sq4b9v64bizsjh54edqs.png",
   "author": "Eevis (she/her)",
-  "author_url": "https://dev.to/eevajonnapanula"
+  "author_url": "https://dev.to/eevajonnapanula",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "\"Hey, guys \"という言葉をよく耳にします。 続いて、\"What do you think about... \"という言葉が出てきます。",
+      "title": "なぜ私は仲間ではないのか"
+    },
+    {
+      "locale": "zh",
+      "description": "\"嘿，伙计们 \"是我经常听到的一句话。 它通常以 \"你觉得...... \"之类的话继续。",
+      "title": "为什么我不是那些人中的一员"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "\"嘿，夥計們 \"是我經常聽到的一句話。 它通常以 \"你覺得...... \"之類的話繼續。",
+      "title": "爲什麼我不是那些人中的一員"
+    }
+  ]
 }
