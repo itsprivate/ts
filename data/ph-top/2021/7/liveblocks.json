@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-29T07:13:21Z"
+  "original_createdAt": "2021-07-29T07:13:21Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Liveblocks はパフォーマンスと信頼性の高いコラボレーティブな体験の作成を支援する API セットです。Liveblocks を使えば、どんなものでも数分でコラボレイティブにすることができ、コア製品に必要な注意を払うことができます。",
+      "tagline": "驚異的なリアルタイムコラボレーション製品の構築"
+    },
+    {
+      "locale": "zh",
+      "description": "Liveblocks是一套API，帮助你创建高性能和可靠的协作体验。有了Liveblocks，你可以在几分钟内实现任何协作，这样你就可以给你的核心产品以应有的关注。",
+      "tagline": "构建惊人的实时协作产品"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Liveblocks是一套API，幫助你創建高性能和可靠的協作體驗。有了Liveblocks，你可以在幾分鐘內實現任何協作，這樣你就可以給你的核心產品以應有的關注。",
+      "tagline": "構建驚人的實時協作產品"
+    }
+  ]
 }
