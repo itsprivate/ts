@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-23T15:17:23Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--slZzrD9J--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q7o5dkgh4371q3e3doni.png",
   "author": "Nilanth",
-  "author_url": "https://dev.to/nilanth"
+  "author_url": "https://dev.to/nilanth",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reduxは、JavaScriptアプリケーションのためのステートマネージャーです。主にReactで使用されています。大規模なアプリケーションの多くは...",
+      "title": "Redux Toolkit - The Standard Way to Write Redux"
+    },
+    {
+      "locale": "zh",
+      "description": "Redux是一个JavaScript应用程序的状态管理器。大多与React一起使用。大多数大规模的...",
+      "title": "Redux工具箱 - 编写Redux的标准方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Redux是一個JavaScript應用程序的狀態管理器。大多與React一起使用。大多數大規模的...",
+      "title": "Redux工具箱 - 編寫Redux的標準方法"
+    }
+  ]
 }
