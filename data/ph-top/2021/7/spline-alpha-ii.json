@@ -82,5 +82,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-29T07:01:00Z"
+  "original_createdAt": "2021-07-29T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "🔥 ブラウザからSplineが使えるようになりました! (app.spline.designでお試しください)。ベクター編集機能に加えて、マテリアルアセットや完全なモデリングツールを導入し、多くの修正や改善を行っています。3Dファーストのデザインプロセスへの大きな一歩です。",
+      "tagline": "次世代の3Dファーストデザインツール"
+    },
+    {
+      "locale": "zh",
+      "description": "🔥 现在你可以从浏览器中使用Spline了! (在app.spline.design中尝试)。我们正在引入材料资产和一个完整的建模工具，以及矢量编辑功能和大量的修复和改进 ⠀ 朝着3D-First设计流程迈出了一大步。",
+      "tagline": "下一个级别的3D优先设计工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "🔥 現在你可以從瀏覽器中使用Spline了! (在app.spline.design中嘗試)。我們正在引入材料資產和一個完整的建模工具，以及矢量編輯功能和大量的修復和改進 ⠀ 朝着3D-First設計流程邁出了一大步。",
+      "tagline": "下一個級別的3D優先設計工具"
+    }
+  ]
 }
