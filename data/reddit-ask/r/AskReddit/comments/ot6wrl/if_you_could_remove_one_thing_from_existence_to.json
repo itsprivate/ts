@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、みんなを不快にさせるものを一つだけ取り除けるとしたら、何を選びますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你能从存在中移除一件东西，让每个人都感到不舒服，你会选择什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你能從存在中移除一件東西，讓每個人都感到不舒服，你會選擇什麼？"
+    }
+  ]
 }
