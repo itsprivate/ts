@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-29T08:44:47Z"
+  "original_createdAt": "2021-07-29T08:44:47Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Knights of the Flexbox tableは、Tailwind CSSと組み合わせてFlexboxがどのように機能するかを学ぶことができる、楽しいインタラクティブなブラウザゲームです。",
+      "tagline": "Tailwind CSSでFlexboxを学び、覚えるためのゲーム"
+    },
+    {
+      "locale": "zh",
+      "description": "Flexbox表的骑士是一个有趣的、互动的浏览器游戏，在这里你可以学习Flexbox如何与Tailwind CSS结合工作。",
+      "tagline": "用Tailwind CSS学习和记忆Flexbox的游戏"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Flexbox表的騎士是一個有趣的、互動的瀏覽器遊戲，在這裏你可以學習Flexbox如何與Tailwind CSS結合工作。",
+      "tagline": "用Tailwind CSS學習和記憶Flexbox的遊戲"
+    }
+  ]
 }
