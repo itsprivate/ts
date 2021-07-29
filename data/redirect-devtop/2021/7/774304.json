@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-28T13:36:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JzHgDRLK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v3khb2320ngswmf6gvz0.jpg",
   "author": "Omri Grossman",
-  "author_url": "https://dev.to/omrigm"
+  "author_url": "https://dev.to/omrigm",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TensorFlow.js（略してtfjs）は、学習済みのMachine...を作成、訓練、使用するためのライブラリです。",
+      "title": "TensorFlow.js（ReactJS）を使って、ブラウザ上で機械学習モデルを実行します。"
+    },
+    {
+      "locale": "zh",
+      "description": "TensorFlow.js（简称tfjs）是一个库，可以让你创建、训练和使用训练有素的机器。",
+      "title": "用TensorFlow.js（ReactJS）在浏览器中运行机器学习模型"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "TensorFlow.js（簡稱tfjs）是一個庫，可以讓你創建、訓練和使用訓練有素的機器。",
+      "title": "用TensorFlow.js（ReactJS）在瀏覽器中運行機器學習模型"
+    }
+  ]
 }
