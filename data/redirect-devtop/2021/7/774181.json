@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-28T13:10:51Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--as7E-dcK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lio1nb6pdyamemd4q423.jpg",
   "author": "Foolish Developer",
-  "author_url": "https://dev.to/code_mystery"
+  "author_url": "https://dev.to/code_mystery",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、ランダムなパスワードジェネレータを作成する方法をご紹介します。",
+      "title": "Javascriptによるランダムパスワードジェネレータ"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我将向你展示如何借助于 \"随机密码生成器 \"来创建一个随机密码。",
+      "title": "使用Javascript生成随机密码"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我將向你展示如何藉助於 \"隨機密碼生成器 \"來創建一個隨機密碼。",
+      "title": "使用Javascript生成隨機密碼"
+    }
+  ]
 }
