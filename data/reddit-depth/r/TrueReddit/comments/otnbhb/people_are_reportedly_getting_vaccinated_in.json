@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "アンチワクチン派の家族や友人からの批判を避けるために、偽装してワクチンを接種する人もいると言われています。"
+    },
+    {
+      "locale": "zh",
+      "title": "据报道，人们正在变相地接种疫苗，以避免反疫苗的家人和朋友的评判。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "據報道，人們正在變相地接種疫苗，以避免反疫苗的家人和朋友的評判。"
+    }
+  ]
 }
