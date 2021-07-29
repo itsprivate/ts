@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "すっきりとした使いやすいタイムボックス型のタスクマネージャーで、タスクを徹底的に管理します。"
+    },
+    {
+      "locale": "zh",
+      "title": "简洁和用户友好的时间框任务管理器，用于处理你的任务。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "簡潔和用戶友好的時間框任務管理器，用於處理你的任務。"
+    }
+  ]
 }

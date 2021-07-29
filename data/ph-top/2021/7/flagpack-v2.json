@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-29T10:28:09Z"
+  "original_createdAt": "2021-07-29T10:28:09Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "🏴 Flagpackは、デジタル製品のための250以上の素晴らしい国旗アイコンを集めたオープンソースプロジェクトです。あなたのデザインやコードプロジェクトに簡単に導入できます。Figma VariantsとSvelte Componentsも含まれています。",
+      "tagline": "デジタル製品のための見事な国旗アイコン"
+    },
+    {
+      "locale": "zh",
+      "description": "🏴Flagpack是一个开源项目，为您的数字产品提供250多个令人惊叹的旗帜图标。可在您的设计或代码项目中轻松实现。现在有Figma Variants和Svelte Components。",
+      "tagline": "为你的数字产品提供惊人的旗帜图标"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "🏴Flagpack是一個開源項目，爲您的數字產品提供250多個令人驚歎的旗幟圖標。可在您的設計或代碼項目中輕鬆實現。現在有Figma Variants和Svelte Components。",
+      "tagline": "爲你的數字產品提供驚人的旗幟圖標"
+    }
+  ]
 }
