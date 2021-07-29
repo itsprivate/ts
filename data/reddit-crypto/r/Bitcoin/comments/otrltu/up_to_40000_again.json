@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "また最大4万円!"
+    },
+    {
+      "locale": "zh",
+      "title": "又是高达40,000美元!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "又是高達40,000美元!"
+    }
+  ]
 }
