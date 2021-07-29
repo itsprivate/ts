@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "BTC価格が40Kドルを突破したことで、ビットコインが1日の取引所流出額として過去1年で最大を記録"
+    },
+    {
+      "locale": "zh",
+      "title": "BTC价格突破4万美元，比特币创下1年来的最大单日交易所流出量"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "BTC價格突破4萬美元，比特幣創下1年來的最大單日交易所流出量"
+    }
+  ]
 }
