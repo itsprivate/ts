@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-28T03:42:43Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Uzz-foG8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kfxc4ae6edh8m3ew0nh3.jpg",
   "author": "Cameron Lucas",
-  "author_url": "https://dev.to/camskithedev"
+  "author_url": "https://dev.to/camskithedev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Lodashは、配列、オブジェクト、文字列などを扱うことができるJavascriptのユーティリティーライブラリです。",
+      "title": "Lodashの5つの方法を紹介します。"
+    },
+    {
+      "locale": "zh",
+      "description": "Lodash是一个Javascript工具库，它可以帮助你处理数组、对象、字符串，甚至是其他东西。",
+      "title": "5个必须知道的Lodash方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Lodash是一個Javascript工具庫，它可以幫助你處理數組、對象、字符串，甚至是其他東西。",
+      "title": "5個必須知道的Lodash方法"
+    }
+  ]
 }
