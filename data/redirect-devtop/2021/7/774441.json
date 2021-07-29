@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-28T17:17:29Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5V7y-eSq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dh3clt6kkm635wh6in3h.png",
   "author": "Kingsley Ubah",
-  "author_url": "https://dev.to/ubahthebuilder"
+  "author_url": "https://dev.to/ubahthebuilder",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JavaScriptを使い始めることは、楽しくもあり、同時に圧倒されることでもあります。楽しいのは、それが...",
+      "title": "JavaScriptを学んでいますか？- あなたが必要とする唯一のガイドがここにあります。"
+    },
+    {
+      "locale": "zh",
+      "description": "开始使用JavaScript可能既有趣又让人不知所措。有趣的是，它是...",
+      "title": "你在学习JavaScript吗？- 这是你唯一需要的指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "開始使用JavaScript可能既有趣又讓人不知所措。有趣的是，它是...",
+      "title": "你在學習JavaScript嗎？- 這是你唯一需要的指南"
+    }
+  ]
 }
