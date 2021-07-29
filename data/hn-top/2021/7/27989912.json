@@ -13,5 +13,19 @@
   ],
   "objectID": "27989912",
   "original_created_at": "2021-07-28T21:23:32.000Z",
-  "image": "https://ldpreload.com/images/geofft-edinburgh.jpg"
+  "image": "https://ldpreload.com/images/geofft-edinburgh.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "git bisect runでカーネル回帰を30分で見つける"
+    },
+    {
+      "locale": "zh",
+      "title": "用git bisect run在半小时内找到内核回归的方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "用git bisect run在半小時內找到內核迴歸的方法"
+    }
+  ]
 }
