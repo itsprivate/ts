@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私たちは、実在する場所を訪れてXPを獲得し、レベルアップしていくモバイル探索ゲームを作りました"
+    },
+    {
+      "locale": "zh",
+      "title": "我们制作了一款移动探索游戏，在访问现实生活中的地方时，你可以赚取XP并提升级别"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們製作了一款移動探索遊戲，在訪問現實生活中的地方時，你可以賺取XP並提升級別"
+    }
+  ]
 }
