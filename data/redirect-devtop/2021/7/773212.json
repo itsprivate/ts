@@ -52,5 +52,22 @@
   "original_created_at": "2021-07-27T15:11:44Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wCWNONyc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jpq0bmq2r6cx3diktjau.png",
   "author": "Daniel Polito",
-  "author_url": "https://dev.to/dbpolito"
+  "author_url": "https://dev.to/dbpolito",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "たった2つの簡単なステップで、Koolを使って、ローカルのDocker...で動作する新しいHugoアプリケーションを開始することができます。",
+      "title": "Hugoの静的サイトをDocker上で動作させるクールな方法"
+    },
+    {
+      "locale": "zh",
+      "description": "只需2个简单的步骤，你就可以用Kool来启动一个新的Hugo应用程序，在本地Docker中运行。",
+      "title": "在Docker上运行Hugo静态网站的酷方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "只需2個簡單的步驟，你就可以用Kool來啓動一個新的Hugo應用程序，在本地Docker中運行。",
+      "title": "在Docker上運行Hugo靜態網站的酷方法"
+    }
+  ]
 }

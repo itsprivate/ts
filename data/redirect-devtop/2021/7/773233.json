@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-27T15:58:34Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ofXXZQme--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2uubjecluwo65f1vbydn.png",
   "author": "Posandu Mapa",
-  "author_url": "https://dev.to/posandu"
+  "author_url": "https://dev.to/posandu",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ここでは、1つの要素しかないPure CSSのチェックボックスを紹介します。また、アクセシビリティにも配慮しています。",
+      "title": "1つの要素でピュアなCSSチェックボックスを実現"
+    },
+    {
+      "locale": "zh",
+      "description": "下面是一个只有一个元素的纯CSS复选框。它也是无障碍的。 ...",
+      "title": "纯粹的CSS复选框，只有一个元素"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "下面是一個只有一個元素的純CSS複選框。它也是無障礙的。 ...",
+      "title": "純粹的CSS複選框，只有一個元素"
+    }
+  ]
 }
