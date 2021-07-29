@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あの湖を渡るのは大変だナ...私には無理だ。"
+    },
+    {
+      "locale": "zh",
+      "title": "很难越过那个湖，呐，对我来说不是。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "很難越過那個湖，吶，對我來說不是。"
+    }
+  ]
 }
