@@ -14,5 +14,19 @@
   "tags": [
     "The Wall Street Journal"
   ],
-  "image": "https://images.wsj.net/im-377859/social"
+  "image": "https://images.wsj.net/im-377859/social",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "中国のCovid-19戦略を試すDelta Variant"
+    },
+    {
+      "locale": "zh",
+      "title": "三角洲变体测试中国的Covid-19战略"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "三角洲變體測試中國的Covid-19戰略"
+    }
+  ]
 }
