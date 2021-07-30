@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "This is the stupidest nostupidquestion but I'm genuinely curious."
+  "the_new_excerpt": "This is the stupidest nostupidquestion but I'm genuinely curious.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "くだらないnostupidquestionですが、純粋に気になります。",
+      "title": "コンクリート職人は、トーストの上に物を広げるのが得意なのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这是最愚蠢的问题，但我真的很好奇。",
+      "title": "混凝土工人是否更善于在土司上/在一般情况下铺设东西？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這是最愚蠢的問題，但我真的很好奇。",
+      "title": "混凝土工人是否更善於在土司上/在一般情況下鋪設東西？"
+    }
+  ]
 }
