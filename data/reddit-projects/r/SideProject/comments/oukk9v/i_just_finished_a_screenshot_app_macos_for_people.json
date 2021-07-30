@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ピクセルにこだわる人のためのスクリーンショットアプリ(macOS)が完成しました。コメントでいくつか質問があります。"
+    },
+    {
+      "locale": "zh",
+      "title": "我刚刚完成了一个屏幕截图应用程序（macOS），为那些关心他们的像素的人。在评论中有几个问题。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我剛剛完成了一個屏幕截圖應用程序（macOS），爲那些關心他們的像素的人。在評論中有幾個問題。"
+    }
+  ]
 }

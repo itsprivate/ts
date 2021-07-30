@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "早くどこかに隠れたい"
+    },
+    {
+      "locale": "zh",
+      "title": "快让我躲在某个地方"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "快讓我躲在某個地方"
+    }
+  ]
 }
