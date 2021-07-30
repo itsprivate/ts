@@ -57,5 +57,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "https://www.tradingview.com/x/pfL12KvS/\n\nResults may vary depending on which exchange's data you are using, some have not\nclosed green today"
+  "the_new_excerpt": "https://www.tradingview.com/x/pfL12KvS/\n\nResults may vary depending on which exchange's data you are using, some have not\nclosed green today",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "https://www.tradingview.com/x/pfL12KvS/\n\n結果は、使用している取引所のデータによって異なる場合があります。\n本日のグリーンクローズ",
+      "title": "ビットコインは9日間連続でグリーンにクローズしており、2015年10月30日の日付以来、最長の連勝記録となりました"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "https://www.tradingview.com/x/pfL12KvS/\n\n结果可能会有所不同，这取决于你使用的是哪个交易所的数据，有些交易所还没有\n今天收绿",
+      "title": "比特币已经连续9天收绿，这是自2015年10月30日以来最长的连续收绿时间!"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "https://www.tradingview.com/x/pfL12KvS/\n\n結果可能會有所不同，這取決於你使用的是哪個交易所的數據，有些交易所還沒有\n今天收綠",
+      "title": "比特幣已經連續9天收綠，這是自2015年10月30日以來最長的連續收綠時間!"
+    }
+  ]
 }
