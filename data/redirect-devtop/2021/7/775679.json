@@ -35,5 +35,22 @@
   "original_created_at": "2021-07-29T19:08:39Z",
   "image": "https://dev.to/social_previews/article/775679.png",
   "author": "Randall",
-  "author_url": "https://dev.to/mistval"
+  "author_url": "https://dev.to/mistval",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JavaScriptの開発者は、エキサイティングな仕事です。ほとんど毎日、何かを見つけることができます...",
+      "title": "JavaScriptの忘れられたキーワード（with"
+    },
+    {
+      "locale": "zh",
+      "description": "成为一名JavaScript开发人员可以是一份令人兴奋的工作。几乎每一天你都会发现一些事情。",
+      "title": "JavaScript的被遗忘的关键词（含）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "成爲一名JavaScript開發人員可以是一份令人興奮的工作。幾乎每一天你都會發現一些事情。",
+      "title": "JavaScript的被遺忘的關鍵詞（含）。"
+    }
+  ]
 }
