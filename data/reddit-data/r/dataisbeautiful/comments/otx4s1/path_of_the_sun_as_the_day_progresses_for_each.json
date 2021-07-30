@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "異なる緯度における1年の各日の太陽の軌跡 [OC]."
+    },
+    {
+      "locale": "zh",
+      "title": "不同纬度地区一年中每一天的太阳轨迹[OC]。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不同緯度地區一年中每一天的太陽軌跡[OC]。"
+    }
+  ]
 }
