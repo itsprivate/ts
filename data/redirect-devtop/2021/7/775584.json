@@ -50,5 +50,22 @@
   "original_created_at": "2021-07-29T14:57:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FOOoSYnM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4hxnrk934iouumcuzvhb.png",
   "author": "Stan Lo",
-  "author_url": "https://dev.to/st0012"
+  "author_url": "https://dev.to/st0012",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ruby / debug デバッグ...",
+      "title": "Rubyの新しいデバッガを覗いてみよう!"
+    },
+    {
+      "locale": "zh",
+      "description": "ruby / debug 调试...",
+      "title": "抢先体验Ruby的新调试器!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "ruby / debug 調試...",
+      "title": "搶先體驗Ruby的新調試器!"
+    }
+  ]
 }

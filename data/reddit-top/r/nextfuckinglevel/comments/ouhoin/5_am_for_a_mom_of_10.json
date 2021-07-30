@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "10人のママの朝5時"
+    },
+    {
+      "locale": "zh",
+      "title": "上午5点，一个10岁的妈妈"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "上午5點，一個10歲的媽媽"
+    }
+  ]
 }
