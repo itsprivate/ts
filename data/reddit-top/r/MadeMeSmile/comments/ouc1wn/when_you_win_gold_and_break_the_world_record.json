@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "金メダルを取った時、世界記録を更新した時!"
+    },
+    {
+      "locale": "zh",
+      "title": "当你赢得金牌，并打破世界纪录时!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當你贏得金牌，並打破世界紀錄時!"
+    }
+  ]
 }
