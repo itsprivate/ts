@@ -50,5 +50,22 @@
   "original_created_at": "2021-07-19T09:44:28Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bahdL8Ye--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eayj8jucb452xp070x43.png",
   "author": "Joe_Sky",
-  "author_url": "https://dev.to/joesky"
+  "author_url": "https://dev.to/joesky",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "テスト",
+      "title": "Reactコンポーネントの各パーツを同一画面上の複数のスプリットエディターに書き込めるvscodeプラグインを作ってみた"
+    },
+    {
+      "locale": "zh",
+      "description": "测试",
+      "title": "我做了一个vscode插件，可以在同一个屏幕上的多个分割编辑器中写出React组件的每个部分"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "測試",
+      "title": "我做了一個vscode插件，可以在同一個屏幕上的多個分割編輯器中寫出React組件的每個部分"
+    }
+  ]
 }

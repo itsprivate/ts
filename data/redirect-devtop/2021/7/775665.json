@@ -35,5 +35,22 @@
   "original_created_at": "2021-07-29T18:09:41Z",
   "image": "https://dev.to/social_previews/article/775665.png",
   "author": "SAIFULLAH🇮🇳",
-  "author_url": "https://dev.to/saifullah"
+  "author_url": "https://dev.to/saifullah",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "開発を学んでいる私が、より良い開発のために知っておくべき7つのCSSトリックを紹介したいと思います。",
+      "title": "知っておきたいCSSトリック7選"
+    },
+    {
+      "locale": "zh",
+      "description": "由于我正在学习开发，我想与大家分享这7个你应该知道的CSS技巧，以获得更好的效果。",
+      "title": "你应该知道的7个CSS技巧!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "由於我正在學習開發，我想與大家分享這7個你應該知道的CSS技巧，以獲得更好的效果。",
+      "title": "你應該知道的7個CSS技巧!"
+    }
+  ]
 }
