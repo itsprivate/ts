@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "プールのステップの色が微妙に変わってきたら"
+    },
+    {
+      "locale": "zh",
+      "title": "当泳池台阶的颜色稍有偏差时"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當泳池臺階的顏色稍有偏差時"
+    }
+  ]
 }
