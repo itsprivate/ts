@@ -50,5 +50,22 @@
   "original_created_at": "2021-07-27T00:32:56Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Z3aFPolx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pgzwqpfmic6u3xqia8yd.png",
   "author": "Alvaro Montoro",
-  "author_url": "https://dev.to/alvaromontoro"
+  "author_url": "https://dev.to/alvaromontoro",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Fridaは、JavaScriptとWeb Speech APIを使って開発されたティーチャーアシスタントです。",
+      "title": "JS音声認識を利用したバーチャルアシスタントの構築"
+    },
+    {
+      "locale": "zh",
+      "description": "Frida是一个用JavaScript和Web Speech APIs开发的教师助手。",
+      "title": "使用JS语音识别建立一个虚拟助手"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Frida是一個用JavaScript和Web Speech APIs開發的教師助手。",
+      "title": "使用JS語音識別建立一個虛擬助手"
+    }
+  ]
 }
