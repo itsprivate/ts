@@ -101,5 +101,22 @@
     "retweet_count": 76,
     "favorite_count": 226,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @gelliottmorris: The Economist/YouGovの世論調査を利用して作成したcovid-19モデルについての短い記事ですが、世論調査の結果がどれほどのものかを調べています。",
+      "retweeted_status_full_text": "ここでは、The Economist/YouGovの世論調査を利用して、トランプ支持者、福音主義者、高卒者などの条件付きで、他の条件を全て同じにした場合に、どれだけワクチンを受ける可能性があるかを調べたcovid-19モデルについてのショートストーリーをご紹介します。\n\nhttps://t.co/pj615JdfBP https://t.co/nNofo45VmM"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @gelliottmorris: 这里有一个关于我们使用经济学人/YouGov民调建立的covid-19模型的简短故事，以了解一个人有多大的可能性。",
+      "retweeted_status_full_text": "这里有一个关于covid-19模型的小故事，我们利用《经济学人》/YouGov的民意调查，看看一个人在特朗普支持者、福音派、高中毕业生等条件下接种疫苗的可能性有多大；其他条件不变。\n\nhttps://t.co/pj615JdfBP https://t.co/nNofo45VmM"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @gelliottmorris: 這裏有一個關於我們使用經濟學人/YouGov民調建立的covid-19模型的簡短故事，以瞭解一個人有多大的可能性。",
+      "retweeted_status_full_text": "這裏有一個關於covid-19模型的小故事，我們利用《經濟學人》/YouGov的民意調查，看看一個人在特朗普支持者、福音派、高中畢業生等條件下接種疫苗的可能性有多大；其他條件不變。\n\nhttps://t.co/pj615JdfBP https://t.co/nNofo45VmM"
+    }
+  ]
 }
