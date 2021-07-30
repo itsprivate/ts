@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-28T10:06:08Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9j5GfzRs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n2fz30x6mzo2gjzczesw.jpg",
   "author": "InHuOfficial",
-  "author_url": "https://dev.to/inhuofficial"
+  "author_url": "https://dev.to/inhuofficial",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは！私はリスティクルを書きました。心配しなくても大丈夫です。今回ご紹介するのは、「アクセシビリティに関する101のヒント」です。",
+      "title": "デジタル・アクセシビリティに関する101のヒントとコツ"
+    },
+    {
+      "locale": "zh",
+      "description": "嘿，伙伴们，是的，我写了一篇列表文章。别担心，我没有问题。请允许我介绍101条无障碍提示...",
+      "title": "101个数字无障碍技巧和窍门"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嘿，夥伴們，是的，我寫了一篇列表文章。別擔心，我沒有問題。請允許我介紹101條無障礙提示...",
+      "title": "101個數字無障礙技巧和竅門"
+    }
+  ]
 }
