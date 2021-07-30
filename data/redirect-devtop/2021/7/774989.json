@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-29T06:36:18Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--o2GVwmSP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/71x7q9y2lix1z0jols31.png",
   "author": "Suprabha",
-  "author_url": "https://dev.to/suprabhasupi"
+  "author_url": "https://dev.to/suprabhasupi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "関数を定義する方法はいろいろあります。 一つの方法は、functionキーワードを使うことです。   // function...",
+      "title": "レギュラー機能とアロー機能"
+    },
+    {
+      "locale": "zh",
+      "description": "以多种方式定义你的职能。 一种方法是使用函数关键字。   // function...",
+      "title": "正则函数与箭头函数"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "以多種方式定義你的職能。 一種方法是使用函數關鍵字。   // function...",
+      "title": "正則函數與箭頭函數"
+    }
+  ]
 }
