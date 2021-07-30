@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "吹き飛ばせ!"
+    },
+    {
+      "locale": "zh",
+      "title": "把这个炸掉！"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "把這個炸掉！"
+    }
+  ]
 }
