@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これを見て、画像フォーマットを作らなければならなかった"
+    },
+    {
+      "locale": "zh",
+      "title": "看到这个，不得不做一个图片格式"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "看到這個，不得不做一個圖片格式"
+    }
+  ]
 }
