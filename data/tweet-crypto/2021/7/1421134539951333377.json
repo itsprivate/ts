@@ -134,5 +134,22 @@
     "retweet_count": 2280,
     "favorite_count": 17252,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @BrentToderian: インフラには、オランダのインフラがあります。https://t.co/Gjken1k5A5",
+      "retweeted_status_full_text": "インフラがあって、オランダのインフラがある。https://t.co/Gjken1k5A5"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @BrentToderian: There's infrastructure, and then there's Dutch infrastructure. https://t.co/Gjken1k5A5",
+      "retweeted_status_full_text": "有基础设施，就有荷兰的基础设施。https://t.co/Gjken1k5A5。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @BrentToderian: There's infrastructure, and then there's Dutch infrastructure. https://t.co/Gjken1k5A5",
+      "retweeted_status_full_text": "有基礎設施，就有荷蘭的基礎設施。https://t.co/Gjken1k5A5。"
+    }
+  ]
 }
