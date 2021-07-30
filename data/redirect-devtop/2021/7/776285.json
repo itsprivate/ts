@@ -43,5 +43,22 @@
   "original_created_at": "2021-07-30T10:11:47Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2u3wZvpG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t5zv4p82w90gp8k3t29v.png",
   "author": "CodeOzz",
-  "author_url": "https://dev.to/codeozz"
+  "author_url": "https://dev.to/codeozz",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私の新しいアカデミー「Webpack Academy」へようこそ!  私のWebpackに関する知識を共有していきたいと思います。 それでは...",
+      "title": "Webpack Academy #0: webpackとは何か、なぜ使うのか？"
+    },
+    {
+      "locale": "zh",
+      "description": "欢迎来到我的新学院，Webpack学院!  我将努力分享我的webpack知识!  让我们...",
+      "title": "Webpack学院#0：什么是webpack，为什么使用它？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "歡迎來到我的新學院，Webpack學院!  我將努力分享我的webpack知識!  讓我們...",
+      "title": "Webpack學院#0：什麼是webpack，爲什麼使用它？"
+    }
+  ]
 }

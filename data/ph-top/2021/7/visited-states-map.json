@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-30T10:26:08Z"
+  "original_createdAt": "2021-07-30T10:26:08Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "訪れた州をマークして、自分好みの色を選ぶことができます。自分のウェブサイトに地図を埋め込む。FacebookやTwitterなどでシェアして、友達に自分の行った場所を紹介する。",
+      "tagline": "自分だけのインタラクティブな訪問国マップを作ることができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "标记你访问过的州，并根据你自己的喜好选择颜色。在你的网站上嵌入地图。分享到Facebook、Twitter等，向你的朋友展示你去过的地方。",
+      "tagline": "创建你自己的互动式受访州/国家地图"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "標記你訪問過的州，並根據你自己的喜好選擇顏色。在你的網站上嵌入地圖。分享到Facebook、Twitter等，向你的朋友展示你去過的地方。",
+      "tagline": "創建你自己的互動式受訪州/國家地圖"
+    }
+  ]
 }
