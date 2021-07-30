@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ほとんどの人からはRobbieと呼ばれていますが、いつでも呼んでください。"
+    },
+    {
+      "locale": "zh",
+      "title": "大多数人叫我罗比，但你可以随时叫我。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "大多數人叫我羅比，但你可以隨時叫我。"
+    }
+  ]
 }
