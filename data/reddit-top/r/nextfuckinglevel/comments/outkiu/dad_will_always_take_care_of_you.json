@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "パパはいつもあなたのことを大切にしています。"
+    },
+    {
+      "locale": "zh",
+      "title": "爸爸会一直照顾你。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爸爸會一直照顧你。"
+    }
+  ]
 }
