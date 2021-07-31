@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-29T02:34:16Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yJdB-BrS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vkgwk64iq98gw2hnnrnw.jpg",
   "author": "Michael R.",
-  "author_url": "https://dev.to/killshot13"
+  "author_url": "https://dev.to/killshot13",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これは、決定的なリストではなく、一般的なガイドラインを提供することを目的としています。",
+      "title": "ベストプラクティス サインインフォーム"
+    },
+    {
+      "locale": "zh",
+      "description": "这不是一个结论性的清单，而是试图提供一个一般性的指导方针，它既是...",
+      "title": "最佳实践。签到表格"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這不是一個結論性的清單，而是試圖提供一個一般性的指導方針，它既是...",
+      "title": "最佳實踐。簽到表格"
+    }
+  ]
 }
