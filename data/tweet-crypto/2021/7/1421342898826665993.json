@@ -52,5 +52,22 @@
     },
     "retweet_count": 307,
     "favorite_count": 2188
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @cameron: 地方分権は、人権と尊厳を守るための競争です。",
+      "retweeted_status_full_text": "地方分権は、人権と尊厳を守るための競争です。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @cameron: 权力下放是一场保护人权和尊严的竞赛。",
+      "retweeted_status_full_text": "权力下放是一场保护人权和尊严的竞赛。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @cameron: 權力下放是一場保護人權和尊嚴的競賽。",
+      "retweeted_status_full_text": "權力下放是一場保護人權和尊嚴的競賽。"
+    }
+  ]
 }
