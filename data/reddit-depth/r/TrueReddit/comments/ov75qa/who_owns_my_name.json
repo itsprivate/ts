@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私の名前は誰のもの？"
+    },
+    {
+      "locale": "zh",
+      "title": "谁拥有我的名字？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "誰擁有我的名字？"
+    }
+  ]
 }
