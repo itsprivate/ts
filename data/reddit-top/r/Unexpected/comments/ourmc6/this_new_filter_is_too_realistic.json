@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この新フィルターはリアルすぎる！？"
+    },
+    {
+      "locale": "zh",
+      "title": "这个新的过滤器太逼真了!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個新的過濾器太逼真了!"
+    }
+  ]
 }

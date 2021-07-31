@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "インターネットがなくても、ハムラジオ、衛星、メッシュネットワークを使ってビットコインが機能することをCypherpunksが証明"
+    },
+    {
+      "locale": "zh",
+      "title": "疯子证明比特币在没有互联网的情况下可以通过火腿肠、卫星、网状网络工作"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "瘋子證明比特幣在沒有互聯網的情況下可以通過火腿腸、衛星、網狀網絡工作"
+    }
+  ]
 }
