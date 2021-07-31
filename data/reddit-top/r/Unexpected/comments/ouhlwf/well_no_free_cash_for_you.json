@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたには無料のキャッシュはありません。"
+    },
+    {
+      "locale": "zh",
+      "title": "好吧，没有免费的现金给你"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "好吧，沒有免費的現金給你"
+    }
+  ]
 }

@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これはドローイングです。125時間かけて、すべて木炭とグラファイトペンシルで描いたものです。"
+    },
+    {
+      "locale": "zh",
+      "title": "这是一幅画。它花了125个小时，完全用木炭和石墨铅笔完成。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是一幅畫。它花了125個小時，完全用木炭和石墨鉛筆完成。"
+    }
+  ]
 }
