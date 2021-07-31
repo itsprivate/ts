@@ -50,5 +50,22 @@
   "original_created_at": "2021-07-29T13:59:24Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pZREpOYD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pczf0i5htf97oxnhb41k.png",
   "author": "AJ Stuyvenberg",
-  "author_url": "https://dev.to/astuyve"
+  "author_url": "https://dev.to/astuyve",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Lambdaにおける2つの一般的なAPIパターンの分析的比較",
+      "title": "モノラル・ラムダと単機能APIの違いは何か、なぜ、いつ？"
+    },
+    {
+      "locale": "zh",
+      "description": "Lambda中两种常见API模式的分析比较",
+      "title": "Mono-Lambda与单函数API的内容、原因和时间"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Lambda中兩種常見API模式的分析比較",
+      "title": "Mono-Lambda與單函數API的內容、原因和時間"
+    }
+  ]
 }
