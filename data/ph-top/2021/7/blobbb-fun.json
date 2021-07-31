@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-31T07:00:00Z"
+  "original_createdAt": "2021-07-31T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Blobbbは、デザイナーや開発者がblobのような形のSVGをオンラインで作成するための楽しい新しい方法です。Blobbbを使えば、見栄えのするSVGを簡単に生成、修正し、すぐにダウンロードすることができます。あなたのblobで楽しんでください。🥳",
+      "tagline": "ふんわりとしたボビーなSVG形状の作成"
+    },
+    {
+      "locale": "zh",
+      "description": "Blobbb是设计师和开发人员在线创建他们的blob状形状SVG的有趣新方法。有了Blobbb，你可以在短时间内轻松生成、修改和下载一个漂亮的SVG。享受你的Blobb的乐趣吧! 🥳",
+      "tagline": "创建蓬松的blobby SVG形状"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Blobbb是設計師和開發人員在線創建他們的blob狀形狀SVG的有趣新方法。有了Blobbb，你可以在短時間內輕鬆生成、修改和下載一個漂亮的SVG。享受你的Blobb的樂趣吧! 🥳",
+      "tagline": "創建蓬鬆的blobby SVG形狀"
+    }
+  ]
 }
