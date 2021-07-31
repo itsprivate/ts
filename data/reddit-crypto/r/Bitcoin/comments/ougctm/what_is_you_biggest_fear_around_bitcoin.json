@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "I go first. Banned world wide and prosecution."
+  "the_new_excerpt": "I go first. Banned world wide and prosecution.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私が先に行く。世界的に禁止され、起訴される。",
+      "title": "ビットコインに対する一番の不安は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我先走了。在世界范围内被禁止，被起诉。",
+      "title": "围绕比特币，你最大的恐惧是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我先走了。在世界範圍內被禁止，被起訴。",
+      "title": "圍繞比特幣，你最大的恐懼是什麼？"
+    }
+  ]
 }
