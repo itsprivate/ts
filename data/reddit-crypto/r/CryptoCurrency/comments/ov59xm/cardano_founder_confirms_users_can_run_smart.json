@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Cardanoの創設者、ハードフォークが始まった瞬間にユーザーが「スマートコントラクトを実行」できることを確認"
+    },
+    {
+      "locale": "zh",
+      "title": "Cardano创始人确认用户可以在硬分叉到来的那一刻 \"运行智能合约\""
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Cardano創始人確認用戶可以在硬分叉到來的那一刻 \"運行智能合約\""
+    }
+  ]
 }

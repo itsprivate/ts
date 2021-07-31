@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "警察は死亡事故現場のために道路を封鎖しました。誰かがそこを通り抜けようとした"
+    },
+    {
+      "locale": "zh",
+      "title": "警方封锁了致命车祸现场的道路。有人还是试图开车通过它"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "警方封鎖了致命車禍現場的道路。有人還是試圖開車通過它"
+    }
+  ]
 }
