@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-31T08:28:54Z"
+  "original_createdAt": "2021-07-31T08:28:54Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Polotno SDKは、ウェブアプリケーションでキャンバスエディタを作るためのJavaScriptライブラリとReactコンポーネントのセットです。テンプレート、googleフォント、テキストスタイル、ストックフォト、ビジュアルエディットなどのサポートが組み込まれています。",
+      "tagline": "ウェブデザインエディターを作成するツールキット"
+    },
+    {
+      "locale": "zh",
+      "description": "Polotno SDK是一个JavaScript库和一组React组件，用于在你的Web应用程序中制作画布编辑器。它内置了对模板、谷歌字体、文本样式、图片、视觉编辑等的支持。",
+      "tagline": "创建网页设计编辑器的工具包"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Polotno SDK是一個JavaScript庫和一組React組件，用於在你的Web應用程序中製作畫布編輯器。它內置了對模板、谷歌字體、文本樣式、圖片、視覺編輯等的支持。",
+      "tagline": "創建網頁設計編輯器的工具包"
+    }
+  ]
 }
