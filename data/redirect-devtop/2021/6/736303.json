@@ -43,5 +43,22 @@
   "original_created_at": "2021-06-23T03:13:16Z",
   "image": "https://dev.to/social_previews/article/736303.png",
   "author": "Jordan Brennan",
-  "author_url": "https://dev.to/jfbrennan"
+  "author_url": "https://dev.to/jfbrennan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私のVueプロジェクトでは、いくつかのシンプルなパターンを採用しています。",
+      "title": "Vueで使っている便利なパターン"
+    },
+    {
+      "locale": "zh",
+      "description": "在我的Vue项目中，我倾向于遵循一些简单的模式，我认为这些模式足够好用。",
+      "title": "我在Vue中使用的有用的模式"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在我的Vue項目中，我傾向於遵循一些簡單的模式，我認爲這些模式足夠好用。",
+      "title": "我在Vue中使用的有用的模式"
+    }
+  ]
 }
