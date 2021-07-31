@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今のみんな"
+    },
+    {
+      "locale": "zh",
+      "title": "每个人现在都在"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "每個人現在都在"
+    }
+  ]
 }
