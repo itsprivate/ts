@@ -50,5 +50,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "インターネットは時に健全なものである"
+    },
+    {
+      "locale": "zh",
+      "title": "互联网有时也可以是健康的"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "互聯網有時也可以是健康的"
+    }
+  ]
 }
