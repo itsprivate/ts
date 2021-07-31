@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-30T00:32:08Z",
   "image": "https://dev.to/social_previews/article/775917.png",
   "author": "Pierre-Guillaume Laurin",
-  "author_url": "https://dev.to/pierreguillaumelaurin"
+  "author_url": "https://dev.to/pierreguillaumelaurin",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "お急ぎですか？チュートリアルや実例へスキップ 多くのウェブ開発者がそうであるように、私もかなりの時間をかけて...",
+      "title": "Next.js E-Commerce Tutorial: SPAの例"
+    },
+    {
+      "locale": "zh",
+      "description": "匆忙中？跳到教程或现场示例 像许多网络开发人员一样，我一直在做相当多的工作。",
+      "title": "Next.js电子商务教程。SPA实例"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "匆忙中？跳到教程或現場示例 像許多網絡開發人員一樣，我一直在做相當多的工作。",
+      "title": "Next.js電子商務教程。SPA實例"
+    }
+  ]
 }
