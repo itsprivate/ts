@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-30T13:17:33Z",
   "image": "https://dev.to/social_previews/article/776479.png",
   "author": "Kat Holder",
-  "author_url": "https://dev.to/katholder"
+  "author_url": "https://dev.to/katholder",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TypeScriptは、定義上、JavaScriptの型付きスーパーセットです。その結果、現在のJavaScriptはすべて...",
+      "title": "TypeScriptを使ったプログラミングはどのように優れているのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "description": "根据定义，TypeScript是一个类型化的JavaScript超集。因此，目前所有的JavaScript都是...",
+      "title": "如何使用TypeScript进行编程是更好的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "根據定義，TypeScript是一個類型化的JavaScript超集。因此，目前所有的JavaScript都是...",
+      "title": "如何使用TypeScript進行編程是更好的？"
+    }
+  ]
 }
