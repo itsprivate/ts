@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-30T16:56:56Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2gQuPBA8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t4gsogg2lcd8yq00d0hs.png",
   "author": "Beginner Developer",
-  "author_url": "https://dev.to/beginnerdeveloper"
+  "author_url": "https://dev.to/beginnerdeveloper",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "HTMLのCapture属性でデバイスのカメラを開いて画像をキャプチャし、accept属性で...",
+      "title": "HTMLで開くモバイルカメラ"
+    },
+    {
+      "locale": "zh",
+      "description": "HTML捕获属性打开设备摄像头以捕获图像，然后是接受属性。",
+      "title": "用HTML打开手机摄像头"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "HTML捕獲屬性打開設備攝像頭以捕獲圖像，然後是接受屬性。",
+      "title": "用HTML打開手機攝像頭"
+    }
+  ]
 }
