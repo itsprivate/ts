@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "技術に精通しているRedditの皆さん、皆さんがきっと聞いたことのないコンピュータのヒントは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "Reddit的技术专家们，你们确信大多数人都没有听说过的电脑技巧是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Reddit的技術專家們，你們確信大多數人都沒有聽說過的電腦技巧是什麼？"
+    }
+  ]
 }
