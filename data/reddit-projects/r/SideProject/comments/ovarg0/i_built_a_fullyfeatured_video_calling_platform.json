@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Hey everyone!\n\nI built a fully-featured clone of Microsoft Teams using Next.js, Twilio Video,\nTailwindCSS, and MongoDB. It can support up to 25 participants in a call. It\nalso supports features like background filters, screen sharing (beta), network\nquality indicators and group chat during, before…"
+  "the_new_excerpt": "Hey everyone!\n\nI built a fully-featured clone of Microsoft Teams using Next.js, Twilio Video,\nTailwindCSS, and MongoDB. It can support up to 25 participants in a call. It\nalso supports features like background filters, screen sharing (beta), network\nquality indicators and group chat during, before…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "皆さん、こんにちは。\n\nNext.js、Twilio Video、TailwindCSS、MongoDBを使って、Microsoft Teamsの完全な機能を持ったクローンを作りました。\nTailwindCSS、そしてMongoDBを使っています。最大で25人の通話参加者をサポートします。また\nまた、バックグラウンドフィルタ、画面共有（ベータ版）、ネットワーク\nクオリティインジケータ、グループチャットなどの機能をサポートしています。",
+      "title": "Next.jsとTwilio Videoを使って、フル機能のVideo Callingプラットフォームを構築しました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "大家好!\n\n我使用Next.js、Twilio Video和MongoDB建立了一个功能齐全的微软团队克隆。\nTailwindCSS和MongoDB。它可以在一次通话中支持多达25个参与者。它\n它还支持诸如背景过滤器、屏幕共享（测试版）、网络\n它还支持背景过滤、屏幕共享（测试版）、网络质量指标以及通话过程中、通话前的群聊等功能。",
+      "title": "我使用Next.js和Twilio视频建立了一个功能齐全的视频通话平台。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "大家好!\n\n我使用Next.js、Twilio Video和MongoDB建立了一個功能齊全的微軟團隊克隆。\nTailwindCSS和MongoDB。它可以在一次通話中支持多達25個參與者。它\n它還支持諸如背景過濾器、屏幕共享（測試版）、網絡\n它還支持背景過濾、屏幕共享（測試版）、網絡質量指標以及通話過程中、通話前的羣聊等功能。",
+      "title": "我使用Next.js和Twilio視頻建立了一個功能齊全的視頻通話平臺。"
+    }
+  ]
 }
