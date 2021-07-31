@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-31T07:00:00Z"
+  "original_createdAt": "2021-07-31T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Interial Clarityは、画像の解像度を4倍に拡大するためのクラウド型ツールです。InterialはAIを活用して、拡大処理を可能な限り正確に行います。また、Interial ClarityはAWSによってバックアップされており、高速なアップスケーリング処理を実現しています。",
+      "tagline": "画像の解像度をアップスケールしてシャープにするAIウェブアプリ"
+    },
+    {
+      "locale": "zh",
+      "description": "Interial Clarity是一个基于云的工具，帮助你将图像的分辨率放大4倍。Interial利用AI来确保放大过程尽可能准确。此外，Interial Clarity由AWS支持，以确保快速放大过程。",
+      "tagline": "AI网络应用，提升和锐化你的图像分辨率"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Interial Clarity是一個基於雲的工具，幫助你將圖像的分辨率放大4倍。Interial利用AI來確保放大過程儘可能準確。此外，Interial Clarity由AWS支持，以確保快速放大過程。",
+      "tagline": "AI網絡應用，提升和銳化你的圖像分辨率"
+    }
+  ]
 }
