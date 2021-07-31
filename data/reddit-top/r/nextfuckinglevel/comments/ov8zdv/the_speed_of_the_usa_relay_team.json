@@ -65,5 +65,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "アメリカリレーチームのスピード"
+    },
+    {
+      "locale": "zh",
+      "title": "美国接力队的速度"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "美國接力隊的速度"
+    }
+  ]
 }
