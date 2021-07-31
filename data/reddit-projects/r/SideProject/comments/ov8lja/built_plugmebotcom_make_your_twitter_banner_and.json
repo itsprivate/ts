@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Built plugmebot.com - Twitterのバナーやプロフィール写真をダイナミックにして、多くの統合機能を提供します。"
+    },
+    {
+      "locale": "zh",
+      "title": "建立plugmebot.com - 通过大量的整合，使你的Twitter横幅和个人资料图片变得动态。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "建立plugmebot.com - 通過大量的整合，使你的Twitter橫幅和個人資料圖片變得動態。"
+    }
+  ]
 }

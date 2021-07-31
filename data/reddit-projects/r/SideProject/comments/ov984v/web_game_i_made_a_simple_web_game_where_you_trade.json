@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[ウェブゲーム】 架空の株を取引して、45秒でどれだけ利益を出せるかを競うシンプルなウェブゲームを作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "[网页游戏] 我做了一个简单的网页游戏，你可以交易一只假股票，看看你能在45秒内赚多少钱。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[網頁遊戲] 我做了一個簡單的網頁遊戲，你可以交易一隻假股票，看看你能在45秒內賺多少錢。"
+    }
+  ]
 }
