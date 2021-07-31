@@ -43,5 +43,22 @@
   "original_created_at": "2021-07-28T06:29:26Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--22xHeLoy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/29gvmhev8wy4032l4ve3.jpg",
   "author": "Benjamin Thorpe",
-  "author_url": "https://dev.to/benjithorpe"
+  "author_url": "https://dev.to/benjithorpe",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "スヴェルトとは？  公式サイトによると、「Svelte（スベルテ）は、革新的で新しいアプローチの...",
+      "title": "Svelteのご利用にあたって"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是Svelte？  根据官方网站，\"Svelte是一种彻底的新方法。",
+      "title": "开始使用Svelte"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是Svelte？  根據官方網站，\"Svelte是一種徹底的新方法。",
+      "title": "開始使用Svelte"
+    }
+  ]
 }
