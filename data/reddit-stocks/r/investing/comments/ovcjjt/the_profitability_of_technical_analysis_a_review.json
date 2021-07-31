@@ -103,5 +103,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1627756906,
-  "the_new_excerpt": "Read full paper…"
+  "the_new_excerpt": "Read full paper…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "フルペーパーを読む...",
+      "title": "テクニカル分析の収益性について。A Review 【研究論文"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "阅读全文...",
+      "title": "技术分析的盈利能力。回顾[研究论文]"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "閱讀全文...",
+      "title": "技術分析的盈利能力。回顧[研究論文]"
+    }
+  ]
 }
