@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "INTRO\n\nIn this guide, I'll begin with how order books on centralized exchanges actually\nwork, and how automated market makers (AMMs) allow us to cut out the centralized\nmiddlemen and their order books, and trade peer-to-peer. Then I'll go into\nliquidity pools, which is the core innovation that makes…"
+  "the_new_excerpt": "INTRO\n\nIn this guide, I'll begin with how order books on centralized exchanges actually\nwork, and how automated market makers (AMMs) allow us to cut out the centralized\nmiddlemen and their order books, and trade peer-to-peer. Then I'll go into\nliquidity pools, which is the core innovation that makes…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "イントロ\n\nこのガイドでは、まず中央集権的な取引所のオーダーブックが実際にどのように機能しているのか、そして自動化されたマーケットメーカー（AMM）がどのように中央集権的なものを取り除いてくれるのかについて説明します。\nそして、自動化されたマーケットメーカー（AMM）によって、中央集権的な仲買人とそのオーダーブックを切り離して\nこのガイドでは、まず中央取引所のオーダーブックがどのように機能しているか、そして自動化されたマーケットメーカー（AMM）によって、中央取引所とそのオーダーブックを切り離し、ピアツーピアで取引を行うことができることを説明します。次に、次のことを説明します。\n続いて、流動性プールについて説明します。",
+      "title": "\"でも、DeFiって実際どうなの？\" 自動化されたマーケットメーカー、流動性プール、無期限の損失についてのガイドです。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "简介\n\n在本指南中，我将首先介绍集中式交易所的订单簿实际上是如何工作的\n的工作原理，以及自动做市商（AMM）如何让我们摆脱集中化的\n交易所的订单簿，并进行点对点的交易。然后我将讨论\n流动性池，这是一个核心的创新，使...",
+      "title": "\"但DeFi究竟是如何运作的？\" 自动做市商、流动资金池和无常损失的指南。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "簡介\n\n在本指南中，我將首先介紹集中式交易所的訂單簿實際上是如何工作的\n的工作原理，以及自動做市商（AMM）如何讓我們擺脫集中化的\n交易所的訂單簿，並進行點對點的交易。然後我將討論\n流動性池，這是一個核心的創新，使...",
+      "title": "\"但DeFi究竟是如何運作的？\" 自動做市商、流動資金池和無常損失的指南。"
+    }
+  ]
 }
