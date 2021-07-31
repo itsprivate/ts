@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-07-31T07:16:55Z"
+  "original_createdAt": "2021-07-31T07:16:55Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "洗練された外観と使いやすさを重視した、Mastodon初のiOS用公式アプリです。分散型SNS「Mastodon」を始めるにあたって、これまで以上にわかりやすくなっています。",
+      "tagline": "分散型ソーシャルネットワークの公式アプリ"
+    },
+    {
+      "locale": "zh",
+      "description": "第一个官方的Mastodon应用程序的iOS，有一个抛光的外观和一个重点是易用性。开始使用分散的社交网络Mastodon从来没有这么简单过",
+      "tagline": "去中心化社交网络的官方应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "第一個官方的Mastodon應用程序的iOS，有一個拋光的外觀和一個重點是易用性。開始使用分散的社交網絡Mastodon從來沒有這麼簡單過",
+      "tagline": "去中心化社交網絡的官方應用程序"
+    }
+  ]
 }
