@@ -150,5 +150,22 @@
     "retweet_count": 1384,
     "favorite_count": 8475,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @100trillionUSD #ビットコイン 7月終値 41,490ドル ... 時計のように安値から跳ね返された https://t.co/xZIlbaBBqI",
+      "retweeted_status_full_text": "#ビットコイン 7月の終値 41,490ドル ... 時計のように安値から跳ね返された https://t.co/xZIlbaBBqI"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @100trillionUSD: #比特币7月收盘价41,490美元......它从低点反弹，像时钟一样https://t.co/xZIlbaBBqI",
+      "retweeted_status_full_text": "#比特币7月收盘价41,490美元......它从低点反弹，像时钟一样https://t.co/xZIlbaBBqI。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @100trillionUSD: #比特幣7月收盤價41,490美元......它從低點反彈，像時鐘一樣https://t.co/xZIlbaBBqI",
+      "retweeted_status_full_text": "#比特幣7月收盤價41,490美元......它從低點反彈，像時鐘一樣https://t.co/xZIlbaBBqI。"
+    }
+  ]
 }
