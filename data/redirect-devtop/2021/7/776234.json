@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-30T08:37:40Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--emQhL0Xg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pis2iyn83ajvjrr79x22.png",
   "author": "Karan Pratap Singh",
-  "author_url": "https://dev.to/karanpratapsingh"
+  "author_url": "https://dev.to/karanpratapsingh",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、ビルダーパターンを理解することで、小型のDockerコンテナを構築する方法を学びます...",
+      "title": "小さなコンテナを作る技術"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我们将学习如何通过了解构建者模式来构建小型docker容器。",
+      "title": "建造小型集装箱的艺术"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我們將學習如何通過了解構建者模式來構建小型docker容器。",
+      "title": "建造小型集裝箱的藝術"
+    }
+  ]
 }

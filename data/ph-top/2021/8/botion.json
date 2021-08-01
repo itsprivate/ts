@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-01T07:01:00Z"
+  "original_createdAt": "2021-08-01T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Botionとの連携により、NotionユーザーはNotionのワークスペースから直接顧客に請求書を送ることができます。設定、顧客の追加、請求書の送信を数分で行うことができます。詳細は https://api.botion.so/guide のドキュメントをご覧ください。",
+      "tagline": "Notionのワークスペースから直接請求書を送ることができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "使用Botion集成，Notion用户可以直接从他们的Notion工作区向客户发送发票。快速配置你的设置，添加客户，并在几分钟内发送发票! 请阅读 https://api.botion.so/guide 上的文档，了解更多信息!",
+      "tagline": "直接从任何Notion工作区发送发票"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用Botion集成，Notion用戶可以直接從他們的Notion工作區向客戶發送發票。快速配置你的設置，添加客戶，並在幾分鐘內發送發票! 請閱讀 https://api.botion.so/guide 上的文檔，瞭解更多信息!",
+      "tagline": "直接從任何Notion工作區發送發票"
+    }
+  ]
 }
