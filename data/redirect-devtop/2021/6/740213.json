@@ -48,5 +48,22 @@
   "original_created_at": "2021-06-26T16:10:50Z",
   "image": "https://dev.to/social_previews/article/740213.png",
   "author": "Sofia Sanchez Urbano",
-  "author_url": "https://dev.to/sofisdev"
+  "author_url": "https://dev.to/sofisdev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "なぜウェブ・パフォーマンスという言葉を聞き続けるのか？  WPO(Web Performance Optimization)とは...",
+      "title": "ジェダイのようにウェブパフォーマンスを使いこなす"
+    },
+    {
+      "locale": "zh",
+      "description": "为什么我们不断听到关于网络性能的消息？  WPO或网络性能优化的分析...",
+      "title": "像绝地武士一样掌握网络性能"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "爲什麼我們不斷聽到關於網絡性能的消息？  WPO或網絡性能優化的分析...",
+      "title": "像絕地武士一樣掌握網絡性能"
+    }
+  ]
 }

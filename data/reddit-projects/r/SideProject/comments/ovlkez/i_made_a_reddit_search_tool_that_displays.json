@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ユーザーの分析データを表示したり、pushshiftを使ってRedditを検索できるなど、Redditの検索ツールを作ってみました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个Reddit搜索工具，可以显示用户的分析数据，允许你使用pushshift在Reddit上进行搜索，还有更多的功能!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個Reddit搜索工具，可以顯示用戶的分析數據，允許你使用pushshift在Reddit上進行搜索，還有更多的功能!"
+    }
+  ]
 }
