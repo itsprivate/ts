@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-31T15:13:42Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GnmHoIke--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ni6gw60rev3xdhz1vmqz.jpeg",
   "author": "Mayank Yadav",
-  "author_url": "https://dev.to/myk"
+  "author_url": "https://dev.to/myk",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "🔰call() ✔call()メソッドは、与えられたthis値と与えられた引数で、関数を呼び出します...",
+      "title": "#11)call()、apply()、bind()を説明してください❓。"
+    },
+    {
+      "locale": "zh",
+      "description": "🔰call() ✔call()方法以给定的this值和提供的参数调用一个函数。",
+      "title": "#11）解释call()、apply()和bind()的含义 ❓"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "🔰call() ✔call()方法以給定的this值和提供的參數調用一個函數。",
+      "title": "#11）解釋call()、apply()和bind()的含義 ❓"
+    }
+  ]
 }
