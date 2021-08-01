@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-30T22:01:07Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--S8LGPcro--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kdcolz9j1vwh450f2a5o.jpg",
   "author": "Foolish Developer",
-  "author_url": "https://dev.to/code_mystery"
+  "author_url": "https://dev.to/code_mystery",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JavaScriptのカウントダウンタイマーは、ECサイトや工事中のサイトなど、さまざまな場面で使われています。",
+      "title": "JavaScriptを使ったシンプルなカウントダウン・タイマー"
+    },
+    {
+      "locale": "zh",
+      "description": "JavaScript倒计时器被用于各种电子商务和正在建设的网站，以...",
+      "title": "使用JavaScript的简单倒计时器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "JavaScript倒計時器被用於各種電子商務和正在建設的網站，以...",
+      "title": "使用JavaScript的簡單倒計時器"
+    }
+  ]
 }
