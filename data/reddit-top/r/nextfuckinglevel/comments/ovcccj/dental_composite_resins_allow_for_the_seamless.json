@@ -65,5 +65,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "歯科用コンポジットレジンは、歯にできた大きな穴をシームレスに修復することができる🦷。"
+    },
+    {
+      "locale": "zh",
+      "title": "牙科复合树脂可以对牙齿上的大洞进行无缝修复 🦷"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "牙科複合樹脂可以對牙齒上的大洞進行無縫修復 🦷"
+    }
+  ]
 }
