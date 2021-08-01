@@ -87,5 +87,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-01T07:06:47Z"
+  "original_createdAt": "2021-08-01T07:06:47Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Slickrは、hashnodeブログの美しいカバー画像を作成するための、最も強力で最も簡単なアプリです。Slickrでは、背景、グラデーション、パターン、画像、アイコン、ブックマーク、アップロードなど、様々な機能を柔軟に扱うことができます。",
+      "tagline": "Hashnodeブログのための強力なカバーイメージジェネレータ"
+    },
+    {
+      "locale": "zh",
+      "description": "Slickr是最强大和最简单的应用程序，可以为你的hashnode博客创建美丽的封面图片。Slickr可以让你灵活地处理背景、梯度、图案、图像、图标、书签、上传和更多。",
+      "tagline": "为你的Hashnode博客提供强大的封面图片生成器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Slickr是最強大和最簡單的應用程序，可以爲你的hashnode博客創建美麗的封面圖片。Slickr可以讓你靈活地處理背景、梯度、圖案、圖像、圖標、書籤、上傳和更多。",
+      "tagline": "爲你的Hashnode博客提供強大的封面圖片生成器"
+    }
+  ]
 }
