@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-30T17:34:34Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1uMp87HQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n15h9nor8p1xfy1mpr6j.png",
   "author": "Aniket Bhattacharyea",
-  "author_url": "https://dev.to/heraldofsolace"
+  "author_url": "https://dev.to/heraldofsolace",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "日常的にUnixやLinuxを使用していると、cd、ls、grep、findなどの様々なツールを使用します。これらは...",
+      "title": "既存のUnixユーティリティーをこれらの最新の代替品で置き換える"
+    },
+    {
+      "locale": "zh",
+      "description": "在你日常的Unix或Linux使用中，你会使用不同的工具，如cd、ls、grep或find。这些都是...",
+      "title": "用这些现代的替代品取代你现有的Unix实用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在你日常的Unix或Linux使用中，你會使用不同的工具，如cd、ls、grep或find。這些都是...",
+      "title": "用這些現代的替代品取代你現有的Unix實用程序"
+    }
+  ]
 }
