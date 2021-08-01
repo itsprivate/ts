@@ -7,7 +7,13 @@ on:
           - source
     config:
       format: |
-        const source = item.source;
+        let source = "Unknown";
+        if(typeof item.source === "string"){
+          source = item.source;
+        }
+        if(typeof item.source !== "string" && item.source && item.source.$ && item.source.$.url){
+          source=item.source.$.url
+        }
         const titleSuffix = ` - ${source}`
         if(item.title && source && item.title.endsWith(titleSuffix)){
           item.title = item.title.slice(0,Math.abs(titleSuffix.length) * -1)
