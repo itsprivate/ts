@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "KindleでHacker Newsを読みたいと思い、このようなものを作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我想在Kindle上阅读黑客新闻，所以我创建了这个"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我想在Kindle上閱讀黑客新聞，所以我創建了這個"
+    }
+  ]
 }
