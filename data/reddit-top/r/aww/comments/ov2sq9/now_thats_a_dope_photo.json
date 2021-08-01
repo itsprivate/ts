@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これはいい写真だ"
+    },
+    {
+      "locale": "zh",
+      "title": "现在，那是一张漂亮的照片"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "現在，那是一張漂亮的照片"
+    }
+  ]
 }

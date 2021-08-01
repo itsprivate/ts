@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "他のプレイヤーではなく、世界記録と競う場合"
+    },
+    {
+      "locale": "zh",
+      "title": "当你与世界纪录而不是其他球员竞争时"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當你與世界紀錄而不是其他球員競爭時"
+    }
+  ]
 }
