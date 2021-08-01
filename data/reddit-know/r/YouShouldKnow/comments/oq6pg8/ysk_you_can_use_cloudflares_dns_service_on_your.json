@@ -1,0 +1,32 @@
+{
+  "author": "gianthooverpig",
+  "original_created_utc": 1627059834,
+  "title": "YSK you can use Cloudflare's DNS service on your router to automatically block adult and malicious content",
+  "created_utc": 1627122287,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Why YSK: Cloudflare&#39;s <a href=\"https://1.1.1.1\">1.1.1.1</a> service has been an easy way to get free, private, secure DNS lookups (and in the case of your mobile devices, a VPN too) for a few years now. However, I only just found out today that they also offer two small variants to this service which all you to either 1) block malicious content, or 2) block malicious and adult content, which is very useful for homes with young kids, to stop them from ending up on inappropriate websites.</p>\n\n<p>With the normal DNS service, you can configure your router to use the following 4 DNS servers for improved performance and privacy:</p>\n\n<ul>\n<li>1.1.1.1</li>\n<li>1.0.0.1</li>\n<li>2606:4700:4700::1111</li>\n<li>2606:4700:4700::1001</li>\n</ul>\n\n<p>If you want to also block malicious content, change the final &quot;1&quot; of each address to a &quot;2&quot; (i.e. 1.1.1.2, 1.0.0.2 etc.) and to also block adult content, change each final &quot;1&quot; to a &quot;3&quot;:</p>\n\n<ul>\n<li>1.1.1.3</li>\n<li>1.0.0.3</li>\n<li>2606:4700:4700::1113</li>\n<li>2606:4700:4700::1003</li>\n</ul>\n\n<p><a href=\"https://developers.cloudflare.com/1.1.1.1/1.1.1.1-for-families\">More details and instructions</a></p>\n</div><!-- SC_ON -->",
+  "score": 51,
+  "permalink": "/r/YouShouldKnow/comments/oq6pg8/ysk_you_can_use_cloudflares_dns_service_on_your/",
+  "subreddit": "YouShouldKnow",
+  "id": "oq6pg8",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Why YSK: Cloudflare's 1.1.1.1 [https://1.1.1.1] service has been an easy way to\nget free, private, secure DNS lookups (and in the case of your mobile devices, a\nVPN too) for a few years now. However, I only just found out today that they\nalso offer two small variants to this service which all you to…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "なぜYSKかというと、Cloudflareの1.1.1.1 [https://1.1.1.1]というサービスは、以下のようなことを簡単に行うことができるからです。\nサービスは、無料でプライベートで安全なDNSルックアップ（モバイル機器の場合はVPNも）を簡単に利用できる方法です。\nVPNも）数年前から簡単に利用できるようになりました。しかし、私は今日、彼らが以下のサービスを提供していることを知りました。\nこのサービスには、2つの小さなバリエーションがあります。",
+      "title": "YSKさんは、ルーターにCloudflareのDNSサービスを利用することで、アダルトや悪質なコンテンツを自動的にブロックすることができます。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么选择YSK：Cloudflare的1.1.1.1[https://1.1.1.1]服务一直是一个简单的方法，以\n获得免费、私密、安全的DNS查询（如果是你的移动设备，还可以获得一个\nVPN）已经有几年时间了。然而，我今天才发现，他们\n他们还提供了两种小型的服务，让你可以使用。",
+      "title": "YSK你可以在你的路由器上使用Cloudflare的DNS服务来自动阻止成人和恶意的内容"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼選擇YSK：Cloudflare的1.1.1.1[https://1.1.1.1]服務一直是一個簡單的方法，以\n獲得免費、私密、安全的DNS查詢（如果是你的移動設備，還可以獲得一個\nVPN）已經有幾年時間了。然而，我今天才發現，他們\n他們還提供了兩種小型的服務，讓你可以使用。",
+      "title": "YSK你可以在你的路由器上使用Cloudflare的DNS服務來自動阻止成人和惡意的內容"
+    }
+  ]
+}

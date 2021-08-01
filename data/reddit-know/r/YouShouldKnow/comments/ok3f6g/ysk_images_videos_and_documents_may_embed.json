@@ -1,0 +1,32 @@
+{
+  "author": "Asu01",
+  "original_created_utc": 1626266119,
+  "title": "YSK: Images, videos, and documents may embed metadata with private informations. Remove them before sending to protect your privacy.",
+  "created_utc": 1626273232,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Why YSK: These private informations may include GPS coordinates, device ID, account ID, time created, program used, and more. They&#39;re handy for personal use, but probably aren&#39;t desirable for when you need to send the file to someone else. Most messenger apps strips image and video metadata automatically. Sending the raw file such as attached email will not remove the metadata out of the file.</p>\n\n<p><a href=\"https://www.reddit.com/r/todayilearned/comments/ebewfs/til_in_2012_a_burger_king_employee_anonymously/\">A case when EXIF in an image was used to track down the exact location of the person</a></p>\n</div><!-- SC_ON -->",
+  "score": 109,
+  "permalink": "/r/YouShouldKnow/comments/ok3f6g/ysk_images_videos_and_documents_may_embed/",
+  "subreddit": "YouShouldKnow",
+  "id": "ok3f6g",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Why YSK: These private informations may include GPS coordinates, device ID,\naccount ID, time created, program used, and more. They're handy for personal\nuse, but probably aren't desirable for when you need to send the file to someone\nelse. Most messenger apps strips image and video metadata…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "なぜYSKなのか: これらの個人情報には、GPS座標、デバイスID、アカウントID、作成した時間、使用したプログラムなどが含まれます。\nアカウントID、作成時間、使用したプログラムなどが含まれます。個人的な使用には便利ですが\n個人的な使用には便利ですが、ファイルを誰かに送る必要がある場合には、望ましくないでしょう。\n他の人にファイルを送るときには好ましくありません。ほとんどのメッセンジャーアプリは、画像や動画のメタデータを...",
+      "title": "YSK: 画像、動画、ドキュメントには、個人情報を含むメタデータが埋め込まれている場合があります。個人情報保護のため、送信前に削除してください。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么是YSK：这些私人信息可能包括GPS坐标、设备ID。\n帐户ID，创建时间，使用的程序，以及更多。这些信息对个人来说很方便\n但当你需要将文件发送给别人时，可能就不太理想了。\n别人。大多数信使应用程序都会剥离图像和视频元数据...",
+      "title": "YSK: 图片、视频和文件可能嵌入了带有私人信息的元数据。请在发送前将其删除以保护您的隐私。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼是YSK：這些私人信息可能包括GPS座標、設備ID。\n帳戶ID，創建時間，使用的程序，以及更多。這些信息對個人來說很方便\n但當你需要將文件發送給別人時，可能就不太理想了。\n別人。大多數信使應用程序都會剝離圖像和視頻元數據...",
+      "title": "YSK: 圖片、視頻和文件可能嵌入了帶有私人信息的元數據。請在發送前將其刪除以保護您的隱私。"
+    }
+  ]
+}
