@@ -62,5 +62,19 @@
     "type": "twitter.com"
   },
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "100ドルのビットコインをLightning Strikeアプリで購入すると、手数料がゼロになります。Coinbaseアカウントにバイバイ!"
+    },
+    {
+      "locale": "zh",
+      "title": "在Lightning Strike应用程序上购买100美元比特币，没有任何费用。再见Coinbase账户!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在Lightning Strike應用程序上購買100美元比特幣，沒有任何費用。再見Coinbase賬戶!"
+    }
+  ]
 }
