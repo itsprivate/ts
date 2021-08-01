@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-31T11:17:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xFIYVPYn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l2ler3zuesj4vjswezmz.png",
   "author": "Kunal Bagaria",
-  "author_url": "https://dev.to/kb24x7"
+  "author_url": "https://dev.to/kb24x7",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Webサイトにポップアップを設置したいが、良いチュートリアルが見つからない...。",
+      "title": "外側をクリックすると閉じるポップアップメニューをReactで作成する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "所以，你在这里，你想在你的网站上制作你的弹出窗口，但你找不到一个好的教程。",
+      "title": "如何在React中创建一个弹出式菜单，在点击外部时关闭"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "所以，你在這裏，你想在你的網站上製作你的彈出窗口，但你找不到一個好的教程。",
+      "title": "如何在React中創建一個彈出式菜單，在點擊外部時關閉"
+    }
+  ]
 }

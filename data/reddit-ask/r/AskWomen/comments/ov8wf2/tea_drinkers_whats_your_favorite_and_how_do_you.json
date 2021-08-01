@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Any special flavor combos? Sweetened, with milk, or natural? Hot or cold?"
+  "the_new_excerpt": "Any special flavor combos? Sweetened, with milk, or natural? Hot or cold?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "特別な味の組み合わせはありますか？甘いもの、ミルク入り、それともナチュラル？ホットかコールドか？",
+      "title": "お茶を飲む人：お気に入りのお茶とその飲み方を教えてください。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "有什么特别的口味组合吗？加糖的，加牛奶的，还是天然的？热的还是冷的？",
+      "title": "喝茶的人：你最喜欢什么，怎么喝？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "有什麼特別的口味組合嗎？加糖的，加牛奶的，還是天然的？熱的還是冷的？",
+      "title": "喝茶的人：你最喜歡什麼，怎麼喝？"
+    }
+  ]
 }
