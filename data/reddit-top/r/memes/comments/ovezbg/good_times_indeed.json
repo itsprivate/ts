@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "楽しかったですね。"
+    },
+    {
+      "locale": "zh",
+      "title": "确实是好时光"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "確實是好時光"
+    }
+  ]
 }
