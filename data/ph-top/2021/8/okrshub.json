@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-01T07:01:00Z"
+  "original_createdAt": "2021-08-01T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "OKRsHubは、個人的な目標や仕事上の目標を記録する最も簡単な方法です。Google、Facebook、LinkedInは、実績のあるObjectives and KeyResults(OKRs)を使って組織の目標を追跡しています。OKRsHubを使えば、自分のモチベーションを維持し、軌道に乗せることができるのです。",
+      "tagline": "OKRで個人的な目標と仕事上の目標を追跡する"
+    },
+    {
+      "locale": "zh",
+      "description": "OKRsHub是你追踪个人和职业目标的最简单方法。谷歌、Facebook和LinkedIn使用成熟的Objectives and KeyResults(OKRs)来跟踪他们的组织目标。使用OKRsHub，你可以保持自己的积极性并保持在正确的轨道上!",
+      "tagline": "用OKRs追踪你的个人和职业目标"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "OKRsHub是你追蹤個人和職業目標的最簡單方法。谷歌、Facebook和LinkedIn使用成熟的Objectives and KeyResults(OKRs)來跟蹤他們的組織目標。使用OKRsHub，你可以保持自己的積極性並保持在正確的軌道上!",
+      "tagline": "用OKRs追蹤你的個人和職業目標"
+    }
+  ]
 }
