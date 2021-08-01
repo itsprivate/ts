@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "2000年に作られた100万ドルのコンピューターと、現在の2000ドルのコンピューターでは、どちらが優れているでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "2000年的百万美元电脑和今天的2000美元电脑，哪个更好？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "2000年的百萬美元電腦和今天的2000美元電腦，哪個更好？"
+    }
+  ]
 }
