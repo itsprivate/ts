@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "自分をフォローしてくれない人をフォロー解除するために作ったInstagramのbot。"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个Instagram机器人，用来取消那些没有回复我的人的关注。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個Instagram機器人，用來取消那些沒有回覆我的人的關注。"
+    }
+  ]
 }
