@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もしあなたが、何の影響もなく時間を止められる懐中時計を持っていたら、どうしますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你有一块怀表，可以让时间停止而没有任何后果，你会怎么做？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你有一塊懷錶，可以讓時間停止而沒有任何後果，你會怎麼做？"
+    }
+  ]
 }
