@@ -43,5 +43,22 @@
   "original_created_at": "2021-07-31T20:37:50Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4oXcPxBl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bc4ziyvm0a9znbvn4g8b.png",
   "author": "Nabil Alamin",
-  "author_url": "https://dev.to/arndom"
+  "author_url": "https://dev.to/arndom",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに💨 PWAは、ロード時間が短く、全体的に優れているため、あなたのアプリにとって素晴らしいものです。",
+      "title": "Reactアプリをプログレッシブウェブアプリ（PWA）にする方法"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍 💨 PWA对你的应用程序来说是很好的，因为；加载时间短，总体上更好。",
+      "title": "如何让你的React应用成为渐进式网络应用（PWA）？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹 💨 PWA對你的應用程序來說是很好的，因爲；加載時間短，總體上更好。",
+      "title": "如何讓你的React應用成爲漸進式網絡應用（PWA）？"
+    }
+  ]
 }
