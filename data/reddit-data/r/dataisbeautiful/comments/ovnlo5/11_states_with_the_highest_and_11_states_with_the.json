@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "過去7日間の100KあたりのCOVID死亡者数が最も多い11州と最も少ない11州 [OC]."
+    },
+    {
+      "locale": "zh",
+      "title": "过去7天内每10万人中COVID死亡人数最高的11个州和最低的11个州 [OC]"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "過去7天內每10萬人中COVID死亡人數最高的11個州和最低的11個州 [OC]"
+    }
+  ]
 }
