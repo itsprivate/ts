@@ -42,5 +42,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "オリンピックのメダルのようなものですね。"
+    },
+    {
+      "locale": "zh",
+      "title": "这有点像奥运会的奖牌，对吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這有點像奧運會的獎牌，對嗎？"
+    }
+  ]
 }
