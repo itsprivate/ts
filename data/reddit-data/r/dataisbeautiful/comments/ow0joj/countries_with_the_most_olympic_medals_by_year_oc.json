@@ -136,5 +136,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "オリンピックメダル獲得数の多い国（年別） [OC]"
+    },
+    {
+      "locale": "zh",
+      "title": "拥有最多奥运奖牌的国家（按年份） [OC]"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "擁有最多奧運獎牌的國家（按年份） [OC]"
+    }
+  ]
 }
