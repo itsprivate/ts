@@ -43,5 +43,22 @@
   "original_created_at": "2021-08-01T14:07:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cl8J0JMX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o7ww9k2zy732ruz0g0ew.png",
   "author": "Mangabo Kolawole",
-  "author_url": "https://dev.to/koladev"
+  "author_url": "https://dev.to/koladev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "関数とは、1つのアクションを実行するために使用される、組織化された再利用可能なコードのブロックのことです。 多くの関数と同様に...",
+      "title": "JavaScriptで関数を書くための5つの方法"
+    },
+    {
+      "locale": "zh",
+      "description": "一个函数是一个有组织的可重复使用的代码块，用于执行一个单一的动作。 像许多...",
+      "title": "在JavaScript中编写函数的5种方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個函數是一個有組織的可重複使用的代碼塊，用於執行一個單一的動作。 像許多...",
+      "title": "在JavaScript中編寫函數的5種方法"
+    }
+  ]
 }
