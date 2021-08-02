@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-01T07:00:00Z"
+  "original_createdAt": "2021-08-01T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Coasterでは、Unsplashの膨大なフリーストックフォトのライブラリから写真を簡単に検索することができます。ダウンロード、クリップボードへのコピーなど、デスクトップ上のシンプルなインターフェイスで様々なことができます。",
+      "tagline": "ワンクリックでUnsplashの写真を検索し、デスクトップの背景に設定できます。"
+    },
+    {
+      "locale": "zh",
+      "description": "Coaster让你更容易从Unsplash的大量免费图片库中搜索到照片。下载，复制到剪贴板，在你的桌面上用一个更简单的界面做更多的事情。",
+      "tagline": "搜索Unsplash照片，一键设置桌面背景"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Coaster讓你更容易從Unsplash的大量免費圖片庫中搜索到照片。下載，複製到剪貼板，在你的桌面上用一個更簡單的界面做更多的事情。",
+      "tagline": "搜索Unsplash照片，一鍵設置桌面背景"
+    }
+  ]
 }

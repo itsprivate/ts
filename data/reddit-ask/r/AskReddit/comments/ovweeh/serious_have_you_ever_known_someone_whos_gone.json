@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[真面目な話] 行方不明になった人を知っていますか？その場合、どんな話をしていますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "[严肃]你是否认识一个失踪的人？如果有，故事是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[嚴肅]你是否認識一個失蹤的人？如果有，故事是什麼？"
+    }
+  ]
 }
