@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたは何歳で、何回くらい真剣に付き合ったことがありますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你多大了，有多少次严肃的关系？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你多大了，有多少次嚴肅的關係？"
+    }
+  ]
 }
