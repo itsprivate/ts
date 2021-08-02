@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-02T10:00:00Z"
+  "original_createdAt": "2021-08-02T10:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ここでは、新しいアプリの情報を得たり、SwiftUIで自分のアプリを作るためのインスピレーションを得たりすることができます。これらのアプリは、SwiftUIの能力を示す最高の例ですので、今すぐサイトにアクセスしてチェックしてみてください。",
+      "tagline": "SwiftUIで作られたアプリのコレクション"
+    },
+    {
+      "locale": "zh",
+      "description": "这里是了解新应用的地方，也是激发你在SwiftUI中构建自己的灵感的地方！这些应用是SwiftUI能力的最佳范例，请在近期访问网站查看它们。这些应用是SwiftUI能力的最好例子，今天就来看看这些应用吧!",
+      "tagline": "用SwiftUI构建的应用程序集合"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這裏是瞭解新應用的地方，也是激發你在SwiftUI中構建自己的靈感的地方！這些應用是SwiftUI能力的最佳範例，請在近期訪問網站查看它們。這些應用是SwiftUI能力的最好例子，今天就來看看這些應用吧!",
+      "tagline": "用SwiftUI構建的應用程序集合"
+    }
+  ]
 }
