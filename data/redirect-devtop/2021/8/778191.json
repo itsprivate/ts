@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-01T08:31:07Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GHpNXFMo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g9awwxf2xxxkf7d5dh7w.png",
   "author": "Sankalp Swami",
-  "author_url": "https://dev.to/swamisankalp"
+  "author_url": "https://dev.to/swamisankalp",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JAVASCRIPTは、業界の新しいボスです。Javascriptは不可能なことはないと言います。Javascriptは...",
+      "title": "Let vs Var vs Const"
+    },
+    {
+      "locale": "zh",
+      "description": "JAVASCRIPT是行业中的新老大。Javascript说，没有什么是不可能的。Javascript是...",
+      "title": "Let vs Var vs Const"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "JAVASCRIPT是行業中的新老大。Javascript說，沒有什麼是不可能的。Javascript是...",
+      "title": "Let vs Var vs Const"
+    }
+  ]
 }
