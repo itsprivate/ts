@@ -113,5 +113,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Mon Aug 02 05:00:02 +0000 2021"
+  "original_created_at": "Mon Aug 02 05:00:02 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "猫は人間を必要としていないが、人間は猫を必要としている。飼い猫や野生猫のゲノムを研究している研究者たちは、彼らのDNAが人間や猫の健康の手がかりになると言っている。https://t.co/l8F31eP4kC"
+    },
+    {
+      "locale": "zh",
+      "full_text": "猫不需要我们，但我们需要它们。从事家猫和野猫基因组研究的研究人员说，它们的DNA掌握着人类以及猫科动物健康的线索。https://t.co/l8F31eP4kC"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "貓不需要我們，但我們需要它們。從事家貓和野貓基因組研究的研究人員說，它們的DNA掌握着人類以及貓科動物健康的線索。https://t.co/l8F31eP4kC"
+    }
+  ]
 }
