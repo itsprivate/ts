@@ -43,5 +43,22 @@
   "original_created_at": "2021-07-31T12:23:09Z",
   "image": "https://dev.to/social_previews/article/777538.png",
   "author": "ajay upreti",
-  "author_url": "https://dev.to/ajayupreti"
+  "author_url": "https://dev.to/ajayupreti",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、Web Pushを実装する方法の完全な例を見ていきます...",
+      "title": "AngularでPush Notificationsを使うには？"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我们将通过一个完整的例子来说明如何实现网络推送。",
+      "title": "如何在Angular中使用推送通知？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我們將通過一個完整的例子來說明如何實現網絡推送。",
+      "title": "如何在Angular中使用推送通知？"
+    }
+  ]
 }
