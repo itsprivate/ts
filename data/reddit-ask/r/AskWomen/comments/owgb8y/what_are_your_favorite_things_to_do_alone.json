@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Some things are just better when by yourself."
+  "the_new_excerpt": "Some things are just better when by yourself.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ひとりの方がいいものもあります。",
+      "title": "一人でするお気に入りのことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "有些事情由自己来做会更好。",
+      "title": "你最喜欢独自做什么事情？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "有些事情由自己來做會更好。",
+      "title": "你最喜歡獨自做什麼事情？"
+    }
+  ]
 }
