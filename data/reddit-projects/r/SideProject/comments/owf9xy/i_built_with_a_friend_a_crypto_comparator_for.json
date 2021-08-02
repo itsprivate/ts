@@ -136,5 +136,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "友人と一緒に、価格、ボリューム、取引所などの暗号比較ツールを作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我和一个朋友建立了一个加密货币的价格、数量、交易所等的比较器"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我和一個朋友建立了一個加密貨幣的價格、數量、交易所等的比較器"
+    }
+  ]
 }
