@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-31T15:54:06Z",
   "image": "https://dev.to/social_previews/article/777600.png",
   "author": "Ahmed Gouda",
-  "author_url": "https://dev.to/ahmedgouda"
+  "author_url": "https://dev.to/ahmedgouda",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Gitとは Gitは、あなたがファイルに加えた変更を記録するソフトウェアで、...",
+      "title": "Gitの歴史"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是Git Git是一种软件，它可以跟踪你对文件的修改，并对你的修改进行记录。",
+      "title": "Git背后的历史"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是Git Git是一種軟件，它可以跟蹤你對文件的修改，並對你的修改進行記錄。",
+      "title": "Git背後的歷史"
+    }
+  ]
 }
