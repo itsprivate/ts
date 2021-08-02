@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[SERIOUS] 聴いていて鳥肌が立つような曲があれば教えてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "[严肃]哪首歌，如果有的话，当你听它的时候会让你起鸡皮疙瘩？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[嚴肅]哪首歌，如果有的話，當你聽它的時候會讓你起雞皮疙瘩？"
+    }
+  ]
 }
