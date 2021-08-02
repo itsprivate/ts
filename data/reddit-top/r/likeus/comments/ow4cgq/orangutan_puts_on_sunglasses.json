@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "サングラスをかけたオランウータン"
+    },
+    {
+      "locale": "zh",
+      "title": "猩猩戴上太阳镜"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "猩猩戴上太陽鏡"
+    }
+  ]
 }

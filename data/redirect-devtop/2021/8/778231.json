@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-01T10:42:42Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--woyYN1bI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pza5kexx2be62rlt95y2.png",
   "author": "Modern Web",
-  "author_url": "https://dev.to/kunaal438"
+  "author_url": "https://dev.to/kunaal438",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、ようこそ。今日は、ボタンのホバー効果を簡単に作る方法をご紹介します...",
+      "title": "Button CSS Hover Effectの作り方。Pure CSS Wavy Design。Htmlボタン。"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，欢迎。今天，我们将看到，我们如何能够轻松地创建一个令人敬畏的波浪形按钮悬停效果。",
+      "title": "如何制作按钮的CSS悬停效果。纯粹的CSS波浪形设计。Html按钮。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，歡迎。今天，我們將看到，我們如何能夠輕鬆地創建一個令人敬畏的波浪形按鈕懸停效果。",
+      "title": "如何製作按鈕的CSS懸停效果。純粹的CSS波浪形設計。Html按鈕。"
+    }
+  ]
 }
