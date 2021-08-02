@@ -50,5 +50,22 @@
   "original_created_at": "2021-07-31T11:29:54Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ysgROCOD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://nextlessjs.com/assets/images/hero-image.png",
   "author": "Remi W.",
-  "author_url": "https://dev.to/ixartz"
+  "author_url": "https://dev.to/ixartz",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Next JS SaaS starterを使って、SaaS製品を素早く構築しましょう。Node JS開発者のためのフルスタックのReact Boilerplateで、ビジネスを素早く開始することができます。",
+      "title": "Nextless.js - Next JS SaaS Boilerplate Template with Serverless backend"
+    },
+    {
+      "locale": "zh",
+      "description": "使用Next JS SaaS starter更快地构建你的SaaS产品。一个为Node JS开发者提供的全栈式React模板，可以快速启动你的业务。",
+      "title": "Nextless.js - 带有无服务器后台的Next JS SaaS模板"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用Next JS SaaS starter更快地構建你的SaaS產品。一個爲Node JS開發者提供的全棧式React模板，可以快速啓動你的業務。",
+      "title": "Nextless.js - 帶有無服務器後臺的Next JS SaaS模板"
+    }
+  ]
 }

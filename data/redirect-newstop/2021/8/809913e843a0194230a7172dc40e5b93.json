@@ -14,5 +14,19 @@
   "tags": [
     "Fox News"
   ],
-  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/AP21214337448044.jpg"
+  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/AP21214337448044.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "中国で発生した洪水による死者数が300人以上に増加"
+    },
+    {
+      "locale": "zh",
+      "title": "中国最近的洪灾中死亡人数猛增至300多人"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "中國最近的洪災中死亡人數猛增至300多人"
+    }
+  ]
 }
