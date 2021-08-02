@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "MAGAは、大きなトランプの優勝旗を広げたため、テキサス・レンジャーズの試合から退場させられる。"
+    },
+    {
+      "locale": "zh",
+      "title": "MAGA们因为展开特朗普赢得的大旗而被赶出德州游骑兵队的比赛。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "MAGA們因爲展開特朗普贏得的大旗而被趕出德州遊騎兵隊的比賽。"
+    }
+  ]
 }
