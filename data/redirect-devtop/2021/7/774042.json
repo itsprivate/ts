@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-28T08:39:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DcpWg8_X--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ue1ktcp51x9uh46ropdh.png",
   "author": "Matej Bačo",
-  "author_url": "https://dev.to/meldiron"
+  "author_url": "https://dev.to/meldiron",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事と並行して、Angular、TailwindCSS、Blurhashを使ったデモプロジェクトを書きました。あなたは...",
+      "title": "⚡ Blurhashによるウェブの高速化"
+    },
+    {
+      "locale": "zh",
+      "description": "在写这篇文章的同时，我写了一个用Angular、TailwindCSS和Blurhash制作的演示项目。你可以...",
+      "title": "⚡ 用Blurhash加速你的网站"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在寫這篇文章的同時，我寫了一個用Angular、TailwindCSS和Blurhash製作的演示項目。你可以...",
+      "title": "⚡ 用Blurhash加速你的網站"
+    }
+  ]
 }
