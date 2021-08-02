@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "人質の状況"
+    },
+    {
+      "locale": "zh",
+      "title": "人质情况"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "人質情況"
+    }
+  ]
 }

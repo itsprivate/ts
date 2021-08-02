@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私のビットコイン残高からそのまま出金し、FIATでベンダーに支払います。"
+    },
+    {
+      "locale": "zh",
+      "title": "直接从我的比特币余额中提现，然后用FIAT支付给卖家。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "直接從我的比特幣餘額中提現，然後用FIAT支付給賣家。"
+    }
+  ]
 }
