@@ -43,5 +43,22 @@
   "original_created_at": "2021-07-28T15:23:27Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1pSy8v4U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/p8j12k5aovf9owl4rplm.jpg",
   "author": "Ali Spittel",
-  "author_url": "https://dev.to/aspittel"
+  "author_url": "https://dev.to/aspittel",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このチュートリアルでは、認可について、AWS Amplifyの...でどのように実装するかを説明します。",
+      "title": "承認・認証でReactアプリを作る"
+    },
+    {
+      "locale": "zh",
+      "description": "在本教程中，我们将讨论授权问题以及如何用AWS Amplify的授权来实现它。",
+      "title": "用授权和认证构建一个React应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在本教程中，我們將討論授權問題以及如何用AWS Amplify的授權來實現它。",
+      "title": "用授權和認證構建一個React應用程序"
+    }
+  ]
 }
