@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-01T23:25:43Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--e_g_ihuA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/23eljinrb0eq87qcxdyl.jpg",
   "author": "Aya Bouchiha",
-  "author_url": "https://dev.to/ayabouchiha"
+  "author_url": "https://dev.to/ayabouchiha",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、Aya Bouchihaです。この美しい、そして素晴らしい日に、私はあなたと一緒にYoutube...",
+      "title": "Youtube講座、Javascriptをマスターするためのプロジェクト"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，我是Aya Bouchiha，在这个美丽的amp;惊人的一天，我将与你分享Youtube...",
+      "title": "Youtube课程，掌握Javascript的项目"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，我是Aya Bouchiha，在這個美麗的amp;驚人的一天，我將與你分享Youtube...",
+      "title": "Youtube課程，掌握Javascript的項目"
+    }
+  ]
 }

@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-01T20:42:44Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gzGtiipd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xowrbjtlqa44pnxc54iw.jpg",
   "author": "Swarnali Roy",
-  "author_url": "https://dev.to/swarnaliroy94"
+  "author_url": "https://dev.to/swarnaliroy94",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "読者の皆様、今回の記事は、JavaScriptのとても便利で重要なコンセプトについてです。私は、すべての...",
+      "title": "JavaScriptを使用しています。プロミスの概念"
+    },
+    {
+      "locale": "zh",
+      "description": "亲爱的读者，这篇文章是关于JavaScript的一个非常有用和重要的概念。我认为每个人都...",
+      "title": "JavaScript。诺言的概念"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "親愛的讀者，這篇文章是關於JavaScript的一個非常有用和重要的概念。我認爲每個人都...",
+      "title": "JavaScript。諾言的概念"
+    }
+  ]
 }
