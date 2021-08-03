@@ -43,5 +43,22 @@
   "original_created_at": "2021-08-02T05:49:42Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TudiDobi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x6pku7t4v7hzs2619guq.png",
   "author": "Ruben Sanchez",
-  "author_url": "https://dev.to/rubenwap"
+  "author_url": "https://dev.to/rubenwap",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "The Pragmatic Programmer」は、1999年にAndrew HuntとDavid Thomasによって書かれた本です。私はこれまで...",
+      "title": "The Pragmatic Programmerから得た69のヒント"
+    },
+    {
+      "locale": "zh",
+      "description": "实用主义程序员》是Andrew Hunt和David Thomas在1999年写的一本书。我一直在...",
+      "title": "我从《务实的程序员》中得到的69个提示"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "實用主義程序員》是Andrew Hunt和David Thomas在1999年寫的一本書。我一直在...",
+      "title": "我從《務實的程序員》中得到的69個提示"
+    }
+  ]
 }
