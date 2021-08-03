@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "シンプルかつ頑丈な..."
+    },
+    {
+      "locale": "zh",
+      "title": "简单而结实..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "簡單而結實..."
+    }
+  ]
 }
