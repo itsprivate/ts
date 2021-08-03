@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-01T16:45:47Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bZoii4a1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vqikd6szi0m7896k947s.jpeg",
   "author": "Luca Restagno",
-  "author_url": "https://dev.to/ikoichi"
+  "author_url": "https://dev.to/ikoichi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "2018年の夏にマルコ・ザニとイータスペースを始めました。計画では、ツールを構築して、...",
+      "title": "ReactとAWSでSaaSを構築した方法"
+    },
+    {
+      "locale": "zh",
+      "description": "我在2018年夏天与马可-扎尼开始了iterspace。当时的计划是建立一个工具，可以...",
+      "title": "我们如何用React和AWS建立一个SaaS"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我在2018年夏天與馬可-扎尼開始了iterspace。當時的計劃是建立一個工具，可以...",
+      "title": "我們如何用React和AWS建立一個SaaS"
+    }
+  ]
 }
