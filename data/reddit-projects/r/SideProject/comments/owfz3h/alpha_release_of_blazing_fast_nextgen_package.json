@@ -57,5 +57,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Thrilled to announce that we recently release the alpha release of Novus Package\nManager (https://www.novuspkg.com).\n\nNovus is a windows package manager which is up to 5x faster than the latest\nwindows package manager. It was developed using Rust.\n\nDon't forget to share this with others and star the…"
+  "the_new_excerpt": "Thrilled to announce that we recently release the alpha release of Novus Package\nManager (https://www.novuspkg.com).\n\nNovus is a windows package manager which is up to 5x faster than the latest\nwindows package manager. It was developed using Rust.\n\nDon't forget to share this with others and star the…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "先日、Novus Package Managerのアルファ版をリリースしました。\nManager (https://www.novuspkg.com)のアルファ版をリリースしました。\n\nNovusは、最新のWindowsパッケージマネージャよりも最大で5倍高速なWindowsパッケージマネージャです。\nパッケージマネージャーです。Rustを使って開発されています。\n\nこの記事を他の人と共有して、スターをつけるのを忘れないでください。",
+      "title": "Windows用パッケージマネージャー「blazing fast nextgen」のアルファ版をリリース"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "很高兴地宣布，我们最近发布了Novus Package Manager的alpha版本。\nManager (https://www.novuspkg.com)。\n\nNovus是一个windows软件包管理器，比最新的windows软件包管理器快5倍。\n的软件包管理器快5倍。它是用Rust开发的。\n\n不要忘了与他人分享，并将其作为明星。",
+      "title": "适用于Windows的极速Nextgen软件包管理器的阿尔法版本"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "很高興地宣佈，我們最近發佈了Novus Package Manager的alpha版本。\nManager (https://www.novuspkg.com)。\n\nNovus是一個windows軟件包管理器，比最新的windows軟件包管理器快5倍。\n的軟件包管理器快5倍。它是用Rust開發的。\n\n不要忘了與他人分享，並將其作爲明星。",
+      "title": "適用於Windows的極速Nextgen軟件包管理器的阿爾法版本"
+    }
+  ]
 }

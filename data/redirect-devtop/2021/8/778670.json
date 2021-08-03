@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-02T00:05:12Z",
   "image": "https://dev.to/social_previews/article/778670.png",
   "author": "James Lau",
-  "author_url": "https://dev.to/jameslau"
+  "author_url": "https://dev.to/jameslau",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "プロジェクトの開始時には、ほとんどのマネージャーが「どのようにして...」と同じ基本的な設定を問いかけます。",
+      "title": "私の基本的なフロントエンド開発のGitフローのルーチン"
+    },
+    {
+      "locale": "zh",
+      "description": "在每个项目开始时，大多数管理人员一般都会问同样的基本设置问题，\"应该如何...",
+      "title": "我的前端开发Git流程的基本程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在每個項目開始時，大多數管理人員一般都會問同樣的基本設置問題，\"應該如何...",
+      "title": "我的前端開發Git流程的基本程序"
+    }
+  ]
 }
