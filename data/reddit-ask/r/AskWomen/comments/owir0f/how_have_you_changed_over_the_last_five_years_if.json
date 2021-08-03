@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この5年間で、あなたに変化があったとすれば、それは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "在过去的五年里，你有什么变化，如果有的话？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在過去的五年裏，你有什麼變化，如果有的話？"
+    }
+  ]
 }
