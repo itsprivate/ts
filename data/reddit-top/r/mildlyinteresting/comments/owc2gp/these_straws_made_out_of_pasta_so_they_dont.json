@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "パスタでできたストローなので、紙のように溶けません"
+    },
+    {
+      "locale": "zh",
+      "title": "这些吸管是用意大利面做的，所以不会像纸一样溶化"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這些吸管是用意大利麪做的，所以不會像紙一樣溶化"
+    }
+  ]
 }
