@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "SARS-Cov-2は、犬、鹿、霊長類、コウモリなどで発見されていますが、ウイルスが種間でこれほど広く拡散することはよくあることなのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "SARS-Cov-2已在狗、鹿、灵长类动物、蝙蝠等身上发现，一种病毒在物种间如此广泛地传播，这是否常见？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "SARS-Cov-2已在狗、鹿、靈長類動物、蝙蝠等身上發現，一種病毒在物種間如此廣泛地傳播，這是否常見？"
+    }
+  ]
 }
