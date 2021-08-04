@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-04T07:09:07Z"
+  "original_createdAt": "2021-08-04T07:09:07Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Mockfireは、デザイナーやマーケターがインタラクティブなモックアップを作成し、ソーシャルメディアやGoogle広告のコンテンツをよりプロフェッショナルに表現することを可能にします。また、MockfireはGoogleバナー広告用のモックアップエディタを統合した最初のツールです。",
+      "tagline": "SMやGoogle広告のモックアップを作成するCanvaのようなツール"
+    },
+    {
+      "locale": "zh",
+      "description": "Mockfire可以让任何设计师或营销人员创建互动式模拟，并为社交媒体和谷歌广告更专业地展示他们的内容。它也是第一个为谷歌横幅广告整合模拟编辑器的工具。",
+      "tagline": "类似于Canva的工具，为SM和谷歌广告创建模拟图。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Mockfire可以讓任何設計師或營銷人員創建互動式模擬，併爲社交媒體和谷歌廣告更專業地展示他們的內容。它也是第一個爲谷歌橫幅廣告整合模擬編輯器的工具。",
+      "tagline": "類似於Canva的工具，爲SM和谷歌廣告創建模擬圖。"
+    }
+  ]
 }
