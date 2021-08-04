@@ -65,5 +65,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ほら、簡単でしょう。"
+    },
+    {
+      "locale": "zh",
+      "title": "看，就是这么简单。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "看，就是這麼簡單。"
+    }
+  ]
 }
