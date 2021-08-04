@@ -124,6 +124,7 @@ async function main() {
             }
           } catch (error) {
             console.error("translate error,", error);
+            throw error;
           }
         }
       }

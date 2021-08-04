@@ -426,6 +426,7 @@ module.exports = /******/ (() => {
                 zhHantObj[key] = data.TargetText;
               } catch (error) {
                 console.error("translate error", error);
+                throw error
               }
             }
           }

@@ -53,6 +53,7 @@ jobs:
       - name: Translate
         if: steps.shouldBuild.outputs.result=='1'
         uses: ./.github/actions/translate
+        continue-on-error: true
         with:
           provider: deepl
           secret_id: ${{ secrets.TENCENT_TRANSLATION_SECRET_ID }}
