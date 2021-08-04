@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ドルフィーは大丈夫なのか？"
+    },
+    {
+      "locale": "zh",
+      "title": "Dolphy会没事吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Dolphy會沒事嗎？"
+    }
+  ]
 }

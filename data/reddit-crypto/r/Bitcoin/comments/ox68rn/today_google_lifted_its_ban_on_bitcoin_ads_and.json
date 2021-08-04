@@ -57,5 +57,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "https://finance.yahoo.com/news/google-reverse-crypto-exchange-wallet-073215325.html"
+  "the_new_excerpt": "https://finance.yahoo.com/news/google-reverse-crypto-exchange-wallet-073215325.html",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "https://finance.yahoo.com/news/google-reverse-crypto-exchange-wallet-073215325.html",
+      "title": "本日、Googleは#Bitcoin広告の禁止を解除し、今後は許可されることになりました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "https://finance.yahoo.com/news/google-reverse-crypto-exchange-wallet-073215325.html",
+      "title": "今天，谷歌解除了对#比特币广告的禁令，它们现在将被允许。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "https://finance.yahoo.com/news/google-reverse-crypto-exchange-wallet-073215325.html",
+      "title": "今天，谷歌解除了對#比特幣廣告的禁令，它們現在將被允許。"
+    }
+  ]
 }

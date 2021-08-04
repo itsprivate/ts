@@ -52,5 +52,19 @@
   "original_created_at": "2021-07-29T11:37:42Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vOjPWp_f--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j0e5qyifbogd14k4bno0.png",
   "author": "Andrew",
-  "author_url": "https://dev.to/andrewgl"
+  "author_url": "https://dev.to/andrewgl",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ああ、恐ろしい「コンフリクトの解消」のメッセージ。完璧なコードを完成させたのに、ちょっとしたことで...。"
+    },
+    {
+      "locale": "zh",
+      "description": "啊，可怕的解决冲突信息。你已经完成了完美的代码制作，只需快速..."
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "啊，可怕的解決衝突信息。你已經完成了完美的代碼製作，只需快速..."
+    }
+  ]
 }

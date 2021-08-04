@@ -45,5 +45,15 @@
   "original_created_at": "2021-08-02T10:26:33Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DHEzzzYD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4sl5e7xn2zuj3updkwaw.jpg",
   "author": "Alex Devero",
-  "author_url": "https://dev.to/alexdevero"
+  "author_url": "https://dev.to/alexdevero",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "在JavaScript中，对象是处理和传递数据的最流行方式之一。在《圣经》中..."
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在JavaScript中，對象是處理和傳遞數據的最流行方式之一。在《聖經》中..."
+    }
+  ]
 }

@@ -42,5 +42,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Redditで実際に初めてビットコインの投稿が行われました。2009年5月、サトシ・ナカモトがビットコインのソフトウェアを公開してからわずか4ヶ月後のこと。"
+    },
+    {
+      "locale": "zh",
+      "title": "Reddit上有史以来第一个比特币帖子。来自2009年5月，在中本聪发布比特币软件后仅4个月。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Reddit上有史以來第一個比特幣帖子。來自2009年5月，在中本聰發佈比特幣軟件後僅4個月。"
+    }
+  ]
 }

@@ -41,5 +41,19 @@
   "original_created_at": "2021-07-24T21:06:37Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pJpcTm4S--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/75qnzatgqj55rqr9zrvs.jpg",
   "author": "Maroun Baydoun",
-  "author_url": "https://dev.to/maroun_baydoun"
+  "author_url": "https://dev.to/maroun_baydoun",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、ブラウザの拡張機能をReactからWebコンポーネントに移行しました。この投稿では、私の..."
+    },
+    {
+      "locale": "zh",
+      "description": "我最近把一个浏览器扩展从React迁移到Web组件。这篇文章描述了我的..."
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我最近把一個瀏覽器擴展從React遷移到Web組件。這篇文章描述了我的..."
+    }
+  ]
 }
