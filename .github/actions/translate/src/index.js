@@ -124,6 +124,9 @@ async function main() {
             }
           } catch (error) {
             console.error("translate error,", error);
+            if (provider === "deepl") {
+              await deeplClient.quit();
+            }
             throw error;
           }
         }
