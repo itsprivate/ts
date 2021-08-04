@@ -49,11 +49,18 @@
   "localize": [
     {
       "locale": "zh",
-      "description": "当我们在开发JavaScript包时，有一系列的重复性工作，我们必须要..."
+      "description": "当我们在开发JavaScript包时，有一系列的重复性工作，我们必须要...",
+      "title": "使用GitHub Actions和semantic-release进行自动版本管理和软件包发布"
     },
     {
       "locale": "zh-Hant",
-      "description": "當我們在開發JavaScript包時，有一系列的重複性工作，我們必須要..."
+      "description": "當我們在開發JavaScript包時，有一系列的重複性工作，我們必須要...",
+      "title": "使用GitHub Actions和semantic-release進行自動版本管理和軟件包發佈"
+    },
+    {
+      "locale": "ja",
+      "description": "JavaScriptのパッケージを開発していると、一連の繰り返し作業が発生してしまいます。",
+      "title": "GitHub Actionsとsemantic-releaseによるバージョン管理とパッケージ公開の自動化"
     }
   ]
 }

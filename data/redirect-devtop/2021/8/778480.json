@@ -49,11 +49,18 @@
   "localize": [
     {
       "locale": "zh",
-      "description": "仅用HTML、CSS和Javascript构建一个报价切换组件"
+      "description": "仅用HTML、CSS和Javascript构建一个报价切换组件",
+      "title": "用Vanilla JS建立一个报价切换器"
     },
     {
       "locale": "zh-Hant",
-      "description": "僅用HTML、CSS和Javascript構建一個報價切換組件"
+      "description": "僅用HTML、CSS和Javascript構建一個報價切換組件",
+      "title": "用Vanilla JS建立一個報價切換器"
+    },
+    {
+      "locale": "ja",
+      "description": "HTML、CSS、Javascriptだけで見積書切り替えコンポーネントを作る",
+      "title": "Vanilla JSで見積もりスイッチャーを作る"
     }
   ]
 }
