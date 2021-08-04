@@ -89,5 +89,19 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-04T08:33:52Z"
+  "original_createdAt": "2021-08-04T08:33:52Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Foresightを使用して、CIパイプラインの完全な観測が可能になります。時間のかかるテストや不具合のあるテストを特定し、グリーンビルドを迅速に実現します。"
+    },
+    {
+      "locale": "zh",
+      "description": "利用Foresight为你的CI管道获得完全的可观察性。识别缓慢和不稳定的测试，更快地实现绿色构建。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "利用Foresight爲你的CI管道獲得完全的可觀察性。識別緩慢和不穩定的測試，更快地實現綠色構建。"
+    }
+  ]
 }

@@ -87,5 +87,19 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-04T07:05:00Z"
+  "original_createdAt": "2021-08-04T07:05:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Evidently は、運用中の機械学習モデルの評価と監視に役立ちます。このツールは、モデルのパフォーマンスに関する視覚的なレポートを生成し、問題の検出とデバッグを行います。Githubでリリースをフォローする： https://github.com/evidentlyai/evidently"
+    },
+    {
+      "locale": "zh",
+      "description": "Evidently帮助评估和监测生产中的机器学习模型。该工具生成关于模型性能的可视化报告，以检测和调试问题。在Github上关注这些版本：https://github.com/evidentlyai/evidently"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Evidently幫助評估和監測生產中的機器學習模型。該工具生成關於模型性能的可視化報告，以檢測和調試問題。在Github上關注這些版本：https://github.com/evidentlyai/evidently"
+    }
+  ]
 }
