@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-02T20:22:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uFjoVqdG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mlo8s2tfn02q3cfr9yac.png",
   "author": "Chris Hansen ",
-  "author_url": "https://dev.to/hyggedev"
+  "author_url": "https://dev.to/hyggedev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "React Nav Popup Menuの構築は、難しいことではありません。そして、style-componentsを使いながら...",
+      "title": "レスポンシブな📱Reactナビゲーションメニューをスタイルドコンポーネント💻で構築する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "构建React Nav弹出式菜单不一定是令人生畏的。让我们在使用样式组件的同时...",
+      "title": "如何用风格化组件建立一个响应式的📱导航菜单 💻。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "構建React Nav彈出式菜單不一定是令人生畏的。讓我們在使用樣式組件的同時...",
+      "title": "如何用風格化組件建立一個響應式的📱導航菜單 💻。"
+    }
+  ]
 }
