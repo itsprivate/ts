@@ -57,5 +57,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "This is why BTC doesn’t have bigger blocks so this doesn’t happen…\n\nhttps://finance.yahoo.com/news/bsv-suffers-51-attack-report-020910445.html"
+  "the_new_excerpt": "This is why BTC doesn’t have bigger blocks so this doesn’t happen…\n\nhttps://finance.yahoo.com/news/bsv-suffers-51-attack-report-020910445.html",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "このようなことが起こらないように、BTCではブロックを大きくしていないのですが...。\n\nhttps://finance.yahoo.com/news/bsv-suffers-51-attack-report-020910445.html",
+      "title": "Bitcoin SVは51％の攻撃を受けた。レポート"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这就是为什么BTC没有更大的区块，所以这不会发生......\n\nhttps://finance.yahoo.com/news/bsv-suffers-51-attack-report-020910445.html",
+      "title": "比特币SV遭遇51%的攻击。报告"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這就是爲什麼BTC沒有更大的區塊，所以這不會發生......\n\nhttps://finance.yahoo.com/news/bsv-suffers-51-attack-report-020910445.html",
+      "title": "比特幣SV遭遇51%的攻擊。報告"
+    }
+  ]
 }
