@@ -35,6 +35,7 @@ jobs:
               workflow_id: "actionsflow.yml",
               status:"in_progress"
             });
+            console.log("runed",runed);
             return runed.data.total_count
           result-encoding: string
       - uses: actions/checkout@v2
