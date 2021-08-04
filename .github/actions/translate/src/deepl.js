@@ -1,23 +1,10 @@
-const homepage = "https://www.deepl.com/translator";
-
-let browser;
-
-const getBrowser = async () => {
-  if (browser) return browser;
-  browser = await require("puppeteer").launch({
-    devtools: process.env.NODE_ENV === "development" ? true : false,
-    headless: process.env.NODE_ENV === "development" ? false : true,
-    defaultViewport: null,
-    args: ["--lang=zh-Hans,zh"],
-  });
-  browser.on("disconnected", () => (browser = null));
-  return browser;
-};
-
-const getNewPage = async () => await (await getBrowser()).newPage();
-
 module.exports = {
-  translate: async (sentence, sourceLanguage = "auto", targetLanguage) => {
+  translate: async (
+    page,
+    sentence,
+    sourceLanguage = "auto",
+    targetLanguage
+  ) => {
     if (!/^(auto|[a-z]{2})$/.test(sourceLanguage))
       throw new Error("INVALID_SOURCE_LANGUAGE");
     if (!/^[a-z]{2}-[A-Z]{2}$/.test(targetLanguage))
@@ -26,20 +13,13 @@ module.exports = {
       targetLangSelect = "button[dl-test=translator-target-lang-btn]",
       sourceLangMenu = "div[dl-test=translator-source-lang-list]",
       targetLangMenu = "div[dl-test=translator-target-lang-list]",
-      sourceLangButton = `div[dl-test=translator-source-lang-list] button[dl-test=translator-lang-option-${sourceLanguage}]`,
-      targetLangButton = `div[dl-test=translator-target-lang-list] button[dl-test=translator-lang-option-${targetLanguage}]`,
+      sourceLangButton = `button[dl-test=translator-lang-option-${sourceLanguage}]`,
+      targetLangButton = `button[dl-test=translator-lang-option-${targetLanguage}]`,
       originalSentenceField = "textarea[dl-test=translator-source-input]",
       targetSentenceField =
         "textarea[dl-test=translator-target-input]"; /*,
 			 targetSentencesContainer = '.lmt__translations_as_text'*/
 
-    const page = await getNewPage();
-    await page.setUserAgent(
-      "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-    );
-    await page.setViewport({ width: 1370, height: 1200 });
-    await page.goto(homepage);
-    await page.waitForTimeout(1000);
     // click  black
     // await page.screenshot({ path: "screens/1.png" });
 
@@ -67,14 +47,33 @@ module.exports = {
     await page.waitForSelector(sourceLangMenu, { hidden: true });
 
     await page.click(targetLangSelect);
-    await page.waitForSelector(targetLangMenu, { visible: true });
+    await page.waitForTimeout(1000);
+
+    // a/b test
+    const uiType = await page.evaluate(() => {
+      return {
+        smallerLangSwitch:
+          document.querySelector("div[dl-test=translator-source-lang-list]") !==
+          null,
+      };
+    });
+    const isSmallerLangSwitch = uiType.smallerLangSwitch;
+    if (isSmallerLangSwitch) {
+      await page.waitForSelector(sourceLangMenu, { visible: true });
+    } else {
+      await page.waitForSelector(targetLangMenu, { visible: true });
+    }
     await page.waitForTimeout(1000);
     try {
       await page.click(targetLangButton);
     } catch (_) {
       throw new Error("UNSUPPORTED_TARGET_LANGUAGE");
     }
-    await page.waitForSelector(targetLangMenu, { hidden: true });
+    if (isSmallerLangSwitch) {
+      await page.waitForSelector(sourceLangMenu, { hidden: true });
+    } else {
+      await page.waitForSelector(targetLangMenu, { hidden: true });
+    }
     // await page.screenshot({ path: "buddy-screenshot.png" });
     await page.waitForSelector(originalSentenceField);
     await page.type(originalSentenceField, sentence);
@@ -122,7 +121,13 @@ module.exports = {
       targetSentenceField,
       (el) => el.value
     );
-    page.close().catch(() => {});
+    // page.close().catch(() => {});
+    await page.evaluate(
+      () =>
+        (document.querySelector(
+          "textarea[dl-test=translator-source-input]"
+        ).value = "")
+    );
 
     return _res;
   },

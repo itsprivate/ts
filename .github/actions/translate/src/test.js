@@ -4,10 +4,25 @@ const DeeplClient = require("./deepl-client");
 const translate = require("./translate");
 const preTranslate = require("./pre-translate");
 process.env.NODE_ENV = "development";
-function translateTest() {
+async function translateTest() {
   const deeplClient = new DeeplClient();
 
-  translate({
+  await translate({
+    client: deeplClient,
+    sourceText: "Hello World.",
+    provider: "deepl",
+    source: "en",
+    target: "ja-JA",
+  })
+    .catch((e) => {
+      console.error("e", e);
+      // deeplClient.quit();
+    })
+    .then((data) => {
+      console.log("data", data);
+      // deeplClient.quit();
+    });
+  await translate({
     client: deeplClient,
     sourceText:
       "TIL that In 2018, A hacker broke into people’s routers (100,000 of them) and patched their vulnerabilities up so that they couldn’t be abused by other hackers.",
