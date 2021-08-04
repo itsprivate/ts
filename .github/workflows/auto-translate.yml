@@ -23,10 +23,11 @@ jobs:
               owner: context.repo.owner,
               repo: context.repo.repo,
               workflow_id: "auto-translate.yml",
-              status:"in_progress"
             });
-            console.log('runed.data.total_count',runed.data.total_count)
-            return runed.data.total_count
+            const totalCount=runed.data.workflow_runs.filter(item=>item.status==="in_progress").length;
+            console.log("totalCount",totalCount)
+            console.log("runed",JSON.stringify(runed,null,2));
+            return totalCount
           result-encoding: string
       - name: checkout
         if: steps.shouldBuild.outputs.result=='1'
