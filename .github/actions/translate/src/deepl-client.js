@@ -1,4 +1,4 @@
-const { translate, quit } = require("./deepl");
+const { translate } = require("./deepl");
 const homepage = "https://www.deepl.com/translator";
 
 let browser;
@@ -46,7 +46,7 @@ module.exports = class DeeplClient {
     });
   }
   async quit() {
-    await quit();
+    if (browser) await browser.close();
   }
   provider() {
     return "deepl";

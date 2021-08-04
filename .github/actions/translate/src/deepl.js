@@ -131,9 +131,7 @@ module.exports = {
 
     return _res;
   },
-  quit: async () => {
-    if (browser) await browser.close();
-  },
+  quit: async () => {},
   getSupportedLanguages: async () => {
     const { data } = await require("axios").get(homepage);
     const res = {
