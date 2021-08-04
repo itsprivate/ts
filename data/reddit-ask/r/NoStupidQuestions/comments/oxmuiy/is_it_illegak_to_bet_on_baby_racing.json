@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "just wonderin"
+  "the_new_excerpt": "just wonderin",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "Just wonderin"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "只是想知道"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "只是想知道"
+    }
+  ]
 }
