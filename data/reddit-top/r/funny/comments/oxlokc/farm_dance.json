@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ファームダンス"
+    },
+    {
+      "locale": "zh",
+      "title": "农场舞蹈"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "農場舞蹈"
+    }
+  ]
 }
