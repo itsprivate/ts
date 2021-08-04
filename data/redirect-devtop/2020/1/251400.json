@@ -41,5 +41,17 @@
   "original_created_at": "2020-01-30T03:39:30Z",
   "image": "https://dev.to/social_previews/article/251400.png",
   "author": "Jordan Brennan",
-  "author_url": "https://dev.to/jfbrennan"
+  "author_url": "https://dev.to/jfbrennan",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "注：我在一年多前写了这个，决定不发表。我宁愿专注于写作...",
+      "title": "真的，为什么是React？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "注：我在一年多前寫了這個，決定不發表。我寧願專注於寫作...",
+      "title": "真的，爲什麼是React？"
+    }
+  ]
 }
