@@ -46,6 +46,9 @@ module.exports = class DeeplClient {
     });
   }
   async quit() {
+    if (this.page) {
+      this.page.close().catch(() => {});
+    }
     if (browser) await browser.close();
   }
   provider() {

@@ -63,6 +63,9 @@ module.exports = /******/ (() => {
           );
         }
         async quit() {
+          if (this.page) {
+            this.page.close().catch(() => {});
+          }
           if (browser) await browser.close();
         }
         provider() {
