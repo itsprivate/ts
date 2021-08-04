@@ -132,10 +132,7 @@ async function main() {
         }
       }
       zhSourceObj = targetObj;
-      // clean
-      if (provider === "deepl") {
-        await deeplClient.quit();
-      }
+
       // if changed
       if (isChanged) {
         // write
@@ -260,6 +257,10 @@ async function main() {
 
       await fs.writeFile(finalFile, JSON.stringify(localeTitle, null, 2));
     }
+  }
+  // clean
+  if (provider === "deepl") {
+    await deeplClient.quit();
   }
 }
 async function getFiles(dir) {

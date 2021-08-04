@@ -406,10 +406,7 @@ module.exports = /******/ (() => {
               }
             }
             zhSourceObj = targetObj;
-            // clean
-            if (provider === "deepl") {
-              await deeplClient.quit();
-            }
+
             // if changed
             if (isChanged) {
               // write
@@ -533,6 +530,10 @@ module.exports = /******/ (() => {
             console.log(`Write ${finalFile}`);
 
             await fs.writeFile(finalFile, JSON.stringify(localeTitle, null, 2));
+          }
+          // clean
+          if (provider === "deepl") {
+            await deeplClient.quit();
           }
         }
       }
