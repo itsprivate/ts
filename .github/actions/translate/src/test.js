@@ -3,6 +3,7 @@ const DeeplClient = require("./deepl-client");
 
 const translate = require("./translate");
 const preTranslate = require("./pre-translate");
+process.env.NODE_ENV = "development";
 function translateTest() {
   const deeplClient = new DeeplClient();
 
@@ -16,11 +17,11 @@ function translateTest() {
   })
     .catch((e) => {
       console.error("e", e);
-      deeplClient.quit();
+      // deeplClient.quit();
     })
     .then((data) => {
       console.log("data", data);
-      deeplClient.quit();
+      // deeplClient.quit();
     });
 }
 

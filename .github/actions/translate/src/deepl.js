@@ -34,6 +34,9 @@ module.exports = {
 			 targetSentencesContainer = '.lmt__translations_as_text'*/
 
     const page = await getNewPage();
+    await page.setUserAgent(
+      "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+    );
     await page.setViewport({ width: 1370, height: 1200 });
     await page.goto(homepage);
     await page.waitForTimeout(1000);
