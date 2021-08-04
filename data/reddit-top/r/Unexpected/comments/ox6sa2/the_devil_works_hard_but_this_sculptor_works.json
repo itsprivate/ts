@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "悪魔はよく働くが、この彫刻家はもっとよく働く。"
+    },
+    {
+      "locale": "zh",
+      "title": "恶魔的工作很辛苦，但这位雕塑家的工作更辛苦。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "惡魔的工作很辛苦，但這位雕塑家的工作更辛苦。"
+    }
+  ]
 }

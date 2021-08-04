@@ -97,5 +97,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-04T08:45:51Z"
+  "original_createdAt": "2021-08-04T08:45:51Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "https://www.getdoubletick.com は、GmailとG-Suite用の無料かつ無制限のメール追跡ツールで、メールが受信者に読まれた場合、ダブルチェックマーク✔✔を追加し、リアルタイムで通知します（WhatsAppのように）。",
+      "tagline": "メールの開封状況を把握し、受信者がどのメールを開封したかを知ることができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "https://www.getdoubletick.com 是一个免费和无限制的电子邮件跟踪工具，适用于Gmail和G-Suite，如果你的邮件被收件人阅读，就会在邮件上添加双钩✔（就像WhatsApp），并以实时通知你。",
+      "tagline": "追踪邮件打开情况，了解收件人打开了哪些邮件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "https://www.getdoubletick.com 是一個免費和無限制的電子郵件跟蹤工具，適用於Gmail和G-Suite，如果你的郵件被收件人閱讀，就會在郵件上添加雙鉤✔（就像WhatsApp），並以實時通知你。",
+      "tagline": "追蹤郵件打開情況，瞭解收件人打開了哪些郵件"
+    }
+  ]
 }

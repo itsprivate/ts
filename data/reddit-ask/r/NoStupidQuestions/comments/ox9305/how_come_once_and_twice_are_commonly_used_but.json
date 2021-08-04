@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "1回」と「2回」はよく使われますが、「3回」は使われないのはなぜですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "为什么 \"一次 \"和 \"两次 \"是常用的，而 \"三次 \"却不是？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲什麼 \"一次 \"和 \"兩次 \"是常用的，而 \"三次 \"卻不是？"
+    }
+  ]
 }

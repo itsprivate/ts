@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "コブラの攻撃から身を守るキャット"
+    },
+    {
+      "locale": "zh",
+      "title": "猫咪自卫，不受攻击的眼镜蛇"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "貓咪自衛，不受攻擊的眼鏡蛇"
+    }
+  ]
 }

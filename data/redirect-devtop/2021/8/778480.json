@@ -45,5 +45,15 @@
   "original_created_at": "2021-08-01T17:38:32Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SaAs1GRg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c1l7imzmz5cwbvehcpc3.jpg",
   "author": "Juan F Gonzalez ",
-  "author_url": "https://dev.to/juanfrank77"
+  "author_url": "https://dev.to/juanfrank77",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "仅用HTML、CSS和Javascript构建一个报价切换组件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "僅用HTML、CSS和Javascript構建一個報價切換組件"
+    }
+  ]
 }

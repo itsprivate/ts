@@ -45,5 +45,15 @@
   "original_created_at": "2021-08-03T01:59:41Z",
   "image": "https://dev.to/social_previews/article/779820.png",
   "author": "Siddharth",
-  "author_url": "https://dev.to/siddharthshyniben"
+  "author_url": "https://dev.to/siddharthshyniben",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Deno，由Node的创造者Ryan Dahl在JSConf 2018期间推出，已经发展成为一个主要的..."
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Deno，由Node的創造者Ryan Dahl在JSConf 2018期間推出，已經發展成爲一個主要的..."
+    }
+  ]
 }

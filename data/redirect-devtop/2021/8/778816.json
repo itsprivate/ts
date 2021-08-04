@@ -45,5 +45,15 @@
   "original_created_at": "2021-08-02T04:33:40Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yxWjyvGJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e721vb970jkxwyth7p58.png",
   "author": "Suraj Vishwakarma",
-  "author_url": "https://dev.to/surajondev"
+  "author_url": "https://dev.to/surajondev",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "介绍 这里列出了5本由专业人员创作的电子书，它们都是非常重要的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹 這裏列出了5本由專業人員創作的電子書，它們都是非常重要的。"
+    }
+  ]
 }

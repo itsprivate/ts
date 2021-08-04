@@ -45,5 +45,15 @@
   "original_created_at": "2021-08-03T11:15:01Z",
   "image": "https://dev.to/social_previews/article/780240.png",
   "author": "KR Tirtho",
-  "author_url": "https://dev.to/krtirtho"
+  "author_url": "https://dev.to/krtirtho",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "我将讨论最新的JavaScript/Typescript技巧，其中也包括ES2020的新增内容&amp; ..."
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我將討論最新的JavaScript/Typescript技巧，其中也包括ES2020的新增內容&amp; ..."
+    }
+  ]
 }

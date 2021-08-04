@@ -45,5 +45,15 @@
   "original_created_at": "2021-08-01T11:33:56Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UdR_JcxR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aj1vj59r6undxxl4aefl.png",
   "author": "Giannis Koutsaftakis",
-  "author_url": "https://dev.to/kouts"
+  "author_url": "https://dev.to/kouts",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "当我们在开发JavaScript包时，有一系列的重复性工作，我们必须要..."
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當我們在開發JavaScript包時，有一系列的重複性工作，我們必須要..."
+    }
+  ]
 }

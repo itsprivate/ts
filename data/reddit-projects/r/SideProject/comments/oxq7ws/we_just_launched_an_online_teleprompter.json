@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "オンライン・テレプロンプターを開始しました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我们刚刚推出了一个在线提词器!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們剛剛推出了一個在線提詞器!"
+    }
+  ]
 }

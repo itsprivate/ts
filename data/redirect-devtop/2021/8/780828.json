@@ -45,5 +45,15 @@
   "original_created_at": "2021-08-03T19:45:38Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RBi-MguL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2ex11pmvwyzl8xpufpj2.jpg",
   "author": "Carsten Behrens",
-  "author_url": "https://dev.to/carstenbehrens"
+  "author_url": "https://dev.to/carstenbehrens",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "JSON网络令牌是一个拟议的互联网标准，允许无状态认证。         ..."
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "JSON網絡令牌是一個擬議的互聯網標準，允許無狀態認證。         ..."
+    }
+  ]
 }
