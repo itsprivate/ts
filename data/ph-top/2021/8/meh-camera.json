@@ -91,5 +91,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-04T10:28:57Z"
+  "original_createdAt": "2021-08-04T10:28:57Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "MEHカメラへようこそ 写真を撮って、顔を自分がアップロードしたものと入れ替えてみましょう。楽しくて、MEHツウじゃない。",
+      "tagline": "どんな写真でも自分の顔を使ってDeepfake"
+    },
+    {
+      "locale": "zh",
+      "description": "欢迎来到MEH相机 ツ抓拍一张照片，用你上传的任何面孔替换。这很有趣，而且不是MEH ツ",
+      "tagline": "用你的脸深度伪造任何照片"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "歡迎來到MEH相機 ツ抓拍一張照片，用你上傳的任何面孔替換。這很有趣，而且不是MEH ツ",
+      "tagline": "用你的臉深度僞造任何照片"
+    }
+  ]
 }
