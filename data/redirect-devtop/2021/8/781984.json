@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-05T00:28:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OyT0XPpO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xeievgw393r9xm3txdyq.gif",
   "author": "Enes Kılıç",
-  "author_url": "https://dev.to/enesskilic"
+  "author_url": "https://dev.to/enesskilic",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今回は、CSSの変数を使ってテーマを作る方法についてご紹介します。今回の例では、...",
+      "title": "CSSの変数を使ったTheming。"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我将谈论如何用CSS变量做主题。通过这个例子，我们将...",
+      "title": "用CSS变量做主题。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我將談論如何用CSS變量做主題。通過這個例子，我們將...",
+      "title": "用CSS變量做主題。"
+    }
+  ]
 }
