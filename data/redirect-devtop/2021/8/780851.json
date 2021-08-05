@@ -43,5 +43,22 @@
   "original_created_at": "2021-08-03T21:13:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--c6P_fI3y--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fy9qhnphpwqjoc9pbhbj.jpg",
   "author": "Kinanee Samson",
-  "author_url": "https://dev.to/kalashin1"
+  "author_url": "https://dev.to/kalashin1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "オブジェクト指向プログラミングは、それ自体は素晴らしいソフトウェア開発アプローチですが、あなたのソフトウェア開発のためには必要不可欠です。",
+      "title": "ソリッドデザインの原則 "
+    },
+    {
+      "locale": "zh",
+      "description": "面向对象的编程本身是一种伟大的软件开发方法，然而，随着你的工作的开展，你会发现，你的工作会变得越来越好。",
+      "title": "坚实的设计原则 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "面向對象的編程本身是一種偉大的軟件開發方法，然而，隨着你的工作的開展，你會發現，你的工作會變得越來越好。",
+      "title": "堅實的設計原則 "
+    }
+  ]
 }
