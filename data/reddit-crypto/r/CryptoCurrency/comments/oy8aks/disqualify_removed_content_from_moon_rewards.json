@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Currently, karma is counted towards the monthly moons distribution even if the\nmoderators remove content from which the karma is earned. The reason for this\nstems back to when the community use to have an event called Weekend Memes. The\nintention was to count karma even though all meme posts were…"
+  "the_new_excerpt": "Currently, karma is counted towards the monthly moons distribution even if the\nmoderators remove content from which the karma is earned. The reason for this\nstems back to when the community use to have an event called Weekend Memes. The\nintention was to count karma even though all meme posts were…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "現在、カルマは以下のような場合でも、毎月のムーンの分配にカウントされます。\nカルマが獲得されたコンテンツをモデレーターが削除しても、月の分配にカウントされます。この理由は\nこの理由は、かつてコミュニティでWeekend Memesというイベントが行われていたことに由来します。これは\n意図していたのは、すべてのミームの投稿が...",
+      "title": "削除されたコンテンツをムーンリワードの対象外とする。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "目前，业力被计入每月的月度分配中，即使是\n版主删除了获得业力的内容。这样做的原因\n可以追溯到社区曾经有一个叫做 \"周末备忘录 \"的活动。活动的目的是为了计算 \"月 \"的数量。\n其目的是为了计算业力，即使所有的备忘录帖子都是...",
+      "title": "取消被删除内容的月度奖励资格。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "目前，業力被計入每月的月度分配中，即使是\n版主刪除了獲得業力的內容。這樣做的原因\n可以追溯到社區曾經有一個叫做 \"週末備忘錄 \"的活動。活動的目的是爲了計算 \"月 \"的數量。\n其目的是爲了計算業力，即使所有的備忘錄帖子都是...",
+      "title": "取消被刪除內容的月度獎勵資格。"
+    }
+  ]
 }
