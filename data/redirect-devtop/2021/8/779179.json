@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-02T12:10:43Z",
   "image": "https://dev.to/social_previews/article/779179.png",
   "author": "Web Dev Ken",
-  "author_url": "https://dev.to/webdevken"
+  "author_url": "https://dev.to/webdevken",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事を書いた目的は、あなたが自分の専門分野の知識を深めることを強調することです。",
+      "title": "フルスタックの仕事を探すのをやめて、フロントエンドエンジニアのままでいることにした理由"
+    },
+    {
+      "locale": "zh",
+      "description": "我写这个帖子的目的是强调你要加深你在这个领域的知识。",
+      "title": "为什么我决定继续做前端工程师而不再寻找全栈工作？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我寫這個帖子的目的是強調你要加深你在這個領域的知識。",
+      "title": "爲什麼我決定繼續做前端工程師而不再尋找全棧工作？"
+    }
+  ]
 }
