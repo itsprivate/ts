@@ -41,5 +41,22 @@
   "original_created_at": "2021-08-03T18:04:38Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6SLLt3HC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8ue834t7jgnwvvx51yjw.jpg",
   "author": "Voider",
-  "author_url": "https://dev.to/voider"
+  "author_url": "https://dev.to/voider",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに 私は、成功には2つのことが大きく関係していると考えています。それは、自分がどのように世界を見ているかということです。",
+      "title": "すべてのソフトウェア・エンジニアがコンピュータ・アーキテクチャを学ぶべき理由 "
+    },
+    {
+      "locale": "zh",
+      "description": "引言 我相信，成功与两件事有很大的关系，你如何看待这个问题。",
+      "title": "为什么每个软件工程师都应该学习计算机结构。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "引言 我相信，成功與兩件事有很大的關係，你如何看待這個問題。",
+      "title": "爲什麼每個軟件工程師都應該學習計算機結構。"
+    }
+  ]
 }
