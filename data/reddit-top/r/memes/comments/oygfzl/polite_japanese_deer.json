@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "礼儀正しい日本の鹿"
+    },
+    {
+      "locale": "zh",
+      "title": "礼貌的日本鹿"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "禮貌的日本鹿"
+    }
+  ]
 }
