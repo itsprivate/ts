@@ -59,5 +59,19 @@
     }
   },
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "フォロワーを管理する｜タグ別、場所別にフォローする｜ワンクリックで全員をフォロー解除する"
+    },
+    {
+      "locale": "zh",
+      "title": "管理你的追随者 | 按标签、按地点追随 | 一键取消所有人的追随"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "管理你的追隨者 | 按標籤、按地點追隨 | 一鍵取消所有人的追隨"
+    }
+  ]
 }
