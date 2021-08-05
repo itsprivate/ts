@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "誰もが自分の最もアップブレートされたコメントを数ヶ月後に見て、「自分はとても面白い」と思うのではないでしょうか。"
+    },
+    {
+      "locale": "zh",
+      "title": "是否有人在你发表评论几个月后，看着你最受欢迎的评论，并对自己说 \"我太有趣了\"。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "是否有人在你發表評論幾個月後，看着你最受歡迎的評論，並對自己說 \"我太有趣了\"。"
+    }
+  ]
 }
