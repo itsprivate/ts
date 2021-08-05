@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今朝、窓際でコウモリが寝ているのを見つけました...。網戸の内側で。"
+    },
+    {
+      "locale": "zh",
+      "title": "今天早上，我发现一只蝙蝠睡在我的窗户上......。在纱窗里面。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "今天早上，我發現一隻蝙蝠睡在我的窗戶上......。在紗窗裏面。"
+    }
+  ]
 }
