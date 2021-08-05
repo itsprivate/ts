@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-04T21:41:45Z",
   "image": "https://dev.to/social_previews/article/781873.png",
   "author": "Benjamin Delespierre",
-  "author_url": "https://dev.to/bdelespierre"
+  "author_url": "https://dev.to/bdelespierre",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Laravelアプリのビジネスロジックを切り離す方法を学びます。",
+      "title": "Laravelでクリーンなアーキテクチャを実現する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "学习如何在你的Laravel应用中解耦你的业务逻辑",
+      "title": "如何用Laravel实现清洁架构"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "學習如何在你的Laravel應用中解耦你的業務邏輯",
+      "title": "如何用Laravel實現清潔架構"
+    }
+  ]
 }
