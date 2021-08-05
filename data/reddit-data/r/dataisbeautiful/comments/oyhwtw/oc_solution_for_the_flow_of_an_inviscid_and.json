@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] 円柱周りの非粘性・非圧縮性流体の流れの解法"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]无粘性和不可压缩的流体围绕圆柱体流动的解决方案"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]無粘性和不可壓縮的流體圍繞圓柱體流動的解決方案"
+    }
+  ]
 }
