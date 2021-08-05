@@ -1,0 +1,46 @@
+{
+  "author": "CryptoMaximalist",
+  "original_created_utc": 1628128471,
+  "title": "Algorithmic limit for number of coin posts",
+  "created_utc": 1628168446,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>This rule change would make the limit  on the number of posts a coin is allowed to have in the top 50 be  determined algorithmically. Currently BTC is allowed unlimited posts,  ETH is allowed four posts, and all other coins are allowed two.</p>\n\n<p>This  rule proposes adopting a formula to determine the limit for all coins  based on market cap.  The formula I&#39;ve come up with is: </p>\n\n<p># of posts allowed = floor(10*R*(1+R-<sup>0.7</sup>)) </p>\n\n<p>where R is ratio of the coin&#39;s market cap to total market cap, and outside top 10 we still enforce two posts per coin. This would look like for the top 10 (from May 8th when this was originally proposed):</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/b5xj8k1z2gf71.png?width=590&amp;format=png&amp;auto=webp&amp;s=f69e679aa05df357ffa5e807de233558efcbb377\">https://preview.redd.it/b5xj8k1z2gf71.png?width=590&amp;format=png&amp;auto=webp&amp;s=f69e679aa05df357ffa5e807de233558efcbb377</a></p>\n\n<p>&lt;Posted on behalf of u/jwinterm, who [originally proposed it here](https://www.reddit.com/r/CryptoCurrency/comments/nb1414/algorithmic_limit_for_number_of_coin_posts/) before Moon Week gave sufficient promotion to polls &gt;</p>\n\n<p><a href=\"https://www.reddit.com/poll/oy7mva\">View Poll</a></p>\n</div><!-- SC_ON -->",
+  "score": 166,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/bgwLo3saELfZPprabi4OOLqP1ighAELbXgN1JZVnXWc.png?auto=webp&s=05b3e04ee046e5d0d303d3f34b3e4014a9e308ce",
+          "width": 590,
+          "height": 276
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/bgwLo3saELfZPprabi4OOLqP1ighAELbXgN1JZVnXWc.png?width=108&crop=smart&auto=webp&s=21cab78fb592e10a89c4275e5af46d63c1fd0b8e",
+            "width": 108,
+            "height": 50
+          },
+          {
+            "url": "https://external-preview.redd.it/bgwLo3saELfZPprabi4OOLqP1ighAELbXgN1JZVnXWc.png?width=216&crop=smart&auto=webp&s=8aab8e8706913d9eb1644ec9781242a612fc3c54",
+            "width": 216,
+            "height": 101
+          },
+          {
+            "url": "https://external-preview.redd.it/bgwLo3saELfZPprabi4OOLqP1ighAELbXgN1JZVnXWc.png?width=320&crop=smart&auto=webp&s=ee9d9f7950819a74b4d42b9c3bf59662db8fe6f6",
+            "width": 320,
+            "height": 149
+          }
+        ],
+        "variants": {},
+        "id": "AUYATN2IL2bP6nCae08Xp6eUh9mAWsksUcdx9PzkuXU"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/oy7mva/algorithmic_limit_for_number_of_coin_posts/",
+  "subreddit": "CryptoCurrency",
+  "id": "oy7mva",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "This rule change would make the limit on the number of posts a coin is allowed\nto have in the top 50 be determined algorithmically. Currently BTC is allowed\nunlimited posts, ETH is allowed four posts, and all other coins are allowed two.\n\nThis rule proposes adopting a formula to determine the limit…"
+}
