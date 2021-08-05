@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-04T16:42:07Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5e7w6leE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2naxdibbplf2uu1h8rsz.jpg",
   "author": "npm run dev",
-  "author_url": "https://dev.to/npmrundev"
+  "author_url": "https://dev.to/npmrundev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "1. 小さなバンドルサイズ＝驚異的なパフォーマンス 開発モードでは、Tailwindの出力サイズは...",
+      "title": "従来のCSSではなくTailwindを使用する6つの理由"
+    },
+    {
+      "locale": "zh",
+      "description": "1. 小小的捆绑尺寸=难以置信的性能 当处于开发模式时，Tailwind的输出尺寸为1.5米。",
+      "title": "与传统CSS相比，使用Tailwind的6个理由"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "1. 小小的捆綁尺寸=難以置信的性能 當處於開發模式時，Tailwind的輸出尺寸爲1.5米。",
+      "title": "與傳統CSS相比，使用Tailwind的6個理由"
+    }
+  ]
 }
