@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-05T07:51:39Z"
+  "original_createdAt": "2021-08-05T07:51:39Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Kid Pix 1.0にはたくさんの思い出があるので、それをウェブサイトとしてリメイクしました。",
+      "tagline": "JS/HTMLでリメイクされたKid Pix 1.0"
+    },
+    {
+      "locale": "zh",
+      "description": "我对Kid Pix 1.0有很多美好的回忆，所以我把它改造成一个网站。",
+      "tagline": "儿童皮克斯1.0用JS/HTML重新制作"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我對Kid Pix 1.0有很多美好的回憶，所以我把它改造成一個網站。",
+      "tagline": "兒童皮克斯1.0用JS/HTML重新制作"
+    }
+  ]
 }
