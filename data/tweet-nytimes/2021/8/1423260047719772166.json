@@ -113,5 +113,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Thu Aug 05 12:30:12 +0000 2021"
+  "original_created_at": "Thu Aug 05 12:30:12 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "モデナ社のCovidワクチンは、2回目の接種から6ヶ月間、予防効果が衰えないことが明らかになりました。\n\nこのデータは、昨年開始した臨床試験を新たに分析したものです。https://t.co/DDw1xowrlJ"
+    },
+    {
+      "locale": "zh",
+      "full_text": "该公司在一份声明中说，Moderna公司的Covid疫苗提供的保护在第二针后的头六个月内不会减弱。\n\n这些数据来自对其去年开始的临床试验的新分析。https://t.co/DDw1xowrlJ"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "該公司在一份聲明中說，Moderna公司的Covid疫苗提供的保護在第二針後的頭六個月內不會減弱。\n\n這些數據來自對其去年開始的臨牀試驗的新分析。https://t.co/DDw1xowrlJ"
+    }
+  ]
 }
