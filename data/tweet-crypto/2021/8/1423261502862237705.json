@@ -66,5 +66,19 @@
   "retweet_count": 75,
   "favorite_count": 647,
   "possibly_sensitive": false,
-  "original_created_at": "Thu Aug 05 12:35:59 +0000 2021"
+  "original_created_at": "Thu Aug 05 12:35:59 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "BSVコインへの51%の攻撃が#ビットコインにも起こるのではないかというメッセージを受け取ることがあります...。\n\nそんなことはありません。BTCのハッシュレート(~100EH/s)は、BSV(~0.1EH/s)の1000倍です。チャート参照：X軸に近い右下のオレンジ色の線がBSV（2018年にフォークされた）、青い線がBTC https://t.co/myvAEM9vn3"
+    },
+    {
+      "locale": "zh",
+      "full_text": "我收到人们的留言，询问目前对BSV币的51%攻击是否也会发生在#比特币上......\n\n事实并非如此! BTC hashrate（~100EH/s）比BSV（~0.1EH/s）高1000倍。见图表：X轴附近的橙色线右下方是BSV（2018年分叉），蓝色线是BTC。https://t.co/myvAEM9vn3"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "我收到人們的留言，詢問目前對BSV幣的51%攻擊是否也會發生在#比特幣上......\n\n事實並非如此! BTC hashrate（~100EH/s）比BSV（~0.1EH/s）高1000倍。見圖表：X軸附近的橙色線右下方是BSV（2018年分叉），藍色線是BTC。https://t.co/myvAEM9vn3"
+    }
+  ]
 }
