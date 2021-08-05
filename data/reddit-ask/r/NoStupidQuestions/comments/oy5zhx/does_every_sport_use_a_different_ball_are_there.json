@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "スポーツごとにボールは違うのですか？同じボールを使う異なるスポーツの例はありますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "每项运动都使用不同的球吗？有没有不同运动使用相同的球的例子？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "每項運動都使用不同的球嗎？有沒有不同運動使用相同的球的例子？"
+    }
+  ]
 }
