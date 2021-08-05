@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-05T07:01:00Z"
+  "original_createdAt": "2021-08-05T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "チームによるCI/CD導入時間を87%短縮 最も複雑なCI/CDワークフローでも数分で作成可能。BuddyはDevOps導入の勝者です。平均デプロイ時間12秒 スマートな変更検知、最先端のキャッシング、並列処理、最適化",
+      "tagline": "最速のCI/CDで、より良いアプリをより早く作ることができる"
+    },
+    {
+      "locale": "zh",
+      "description": "团队采用CI/CD的时间加快87% 即使是最复杂的CI/CD工作流程也只需几分钟就能创建。Buddy是DevOps采用的赢家。12秒的平均部署时间 智能变化检测、最先进的缓存、并行性和优化功能",
+      "tagline": "获得最快的CI/CD以更快地构建更好的应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "團隊採用CI/CD的時間加快87% 即使是最複雜的CI/CD工作流程也只需幾分鐘就能創建。Buddy是DevOps採用的贏家。12秒的平均部署時間 智能變化檢測、最先進的緩存、並行性和優化功能",
+      "tagline": "獲得最快的CI/CD以更快地構建更好的應用程序"
+    }
+  ]
 }
