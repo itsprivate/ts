@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-03T19:07:55Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DDNehvMC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bkyac1lnborlusjljh2k.jpg",
   "author": "Mike Talbot",
-  "author_url": "https://dev.to/miketalbot"
+  "author_url": "https://dev.to/miketalbot",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "関数型プログラミングやキュレーションは、壁を見ながら「...」と言っている人もいるような話題です。",
+      "title": "迫力のあるカレーで、Javascriptにスパイスを効かせてみませんか？(関数型プログラミング)"
+    },
+    {
+      "locale": "zh",
+      "description": "函数式编程和咖喱是让我们中的一些人盯着墙壁说......的话题。",
+      "title": "用一些强大的咖喱来调剂你的Javascript! (功能编程)"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "函數式編程和咖喱是讓我們中的一些人盯着牆壁說......的話題。",
+      "title": "用一些強大的咖喱來調劑你的Javascript! (功能編程)"
+    }
+  ]
 }
