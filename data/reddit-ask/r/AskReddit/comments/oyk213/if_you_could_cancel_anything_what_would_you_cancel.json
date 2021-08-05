@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "何でもキャンセルできるとしたら、何をキャンセルしますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你可以取消任何事情，你会取消什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你可以取消任何事情，你會取消什麼？"
+    }
+  ]
 }
