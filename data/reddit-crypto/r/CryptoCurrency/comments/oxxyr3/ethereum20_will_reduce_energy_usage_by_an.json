@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "イーサリアム2.0は、エネルギー使用量を推定99.5%削減し、取引の効率と速度を向上させ、デフォルトでデフレを導入する"
+    },
+    {
+      "locale": "zh",
+      "title": "以太坊2.0将减少约99.5%的能源使用，提高交易效率和速度，并将引入默认的通货紧缩。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "以太坊2.0將減少約99.5%的能源使用，提高交易效率和速度，並將引入默認的通貨緊縮。"
+    }
+  ]
 }
