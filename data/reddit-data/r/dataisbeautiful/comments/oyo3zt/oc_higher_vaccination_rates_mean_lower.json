@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] ワクチン接種率が高いほど入院率が低い。CDC/NYTデータ、Datawrapper viz"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC] 更高的疫苗接种率意味着更低的住院率。CDC/NYT数据，Datawrapper viz"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC] 更高的疫苗接種率意味着更低的住院率。CDC/NYT數據，Datawrapper viz"
+    }
+  ]
 }

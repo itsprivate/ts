@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ここでは、北米のすべての川と水路を、それぞれが属する主要な水域に応じて色分けしています。ズームイン! [OC]."
+    },
+    {
+      "locale": "zh",
+      "title": "这里是北美所有的河流和水道，根据它们所属的主要水文盆地进行着色。放大! [OC]"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這裏是北美所有的河流和水道，根據它們所屬的主要水文盆地進行着色。放大! [OC]"
+    }
+  ]
 }

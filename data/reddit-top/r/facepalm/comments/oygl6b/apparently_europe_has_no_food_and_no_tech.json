@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ヨーロッパには食料も技術もないらしい。"
+    },
+    {
+      "locale": "zh",
+      "title": "显然，欧洲没有食物，也没有 \"技术\""
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "顯然，歐洲沒有食物，也沒有 \"技術\""
+    }
+  ]
 }
