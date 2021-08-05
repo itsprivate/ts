@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-04T08:48:26Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--g_WpcOrW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q8zmruhq4xbjdcg6iy7r.png",
   "author": "Anton Yakutovich",
-  "author_url": "https://dev.to/drakulavich"
+  "author_url": "https://dev.to/drakulavich",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "DEVコミュニティの皆さん、こんにちは。私はソフトウェアテストの分野で8年以上働いています。それ以外にも...",
+      "title": "GitLab CI：キャッシュとアーティファクトを例に解説"
+    },
+    {
+      "locale": "zh",
+      "description": "嗨，DEV社区! 我在软件测试领域已经工作了8年多。除了...",
+      "title": "GitLab CI: 缓存和工件的实例解释"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嗨，DEV社區! 我在軟件測試領域已經工作了8年多。除了...",
+      "title": "GitLab CI: 緩存和工件的實例解釋"
+    }
+  ]
 }
