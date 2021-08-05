@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "イーサリアムはEIP-1559のアップグレード後、毎分1万ドルを燃やしている"
+    },
+    {
+      "locale": "zh",
+      "title": "EIP-1559升级后，以太坊每分钟烧掉1万美元"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "EIP-1559升級後，以太坊每分鐘燒掉1萬美元"
+    }
+  ]
 }
