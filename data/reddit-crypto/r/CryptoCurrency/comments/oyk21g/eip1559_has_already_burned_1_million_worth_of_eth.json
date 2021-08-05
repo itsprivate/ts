@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "EIP-1559はすでに100万ドル分のETHを燃やしました。"
+    },
+    {
+      "locale": "zh",
+      "title": "EIP-1559已经烧掉了价值100万美元的ETH"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "EIP-1559已經燒掉了價值100萬美元的ETH"
+    }
+  ]
 }
