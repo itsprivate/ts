@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "巨大なナマズを捕まえようとじっと待つ犬"
+    },
+    {
+      "locale": "zh",
+      "title": "狗狗耐心地等待捕捉巨大的鲶鱼"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "狗狗耐心地等待捕捉巨大的鮎魚"
+    }
+  ]
 }
