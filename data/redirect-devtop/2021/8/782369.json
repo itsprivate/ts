@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-05T11:30:28Z",
   "image": "https://dev.to/social_previews/article/782369.png",
   "author": "KR Tirtho",
-  "author_url": "https://dev.to/krtirtho"
+  "author_url": "https://dev.to/krtirtho",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "VSCodeは本当に素晴らしいコードエディタで、IDEに近いというか、それ以上のものです。しかし、これにはコストがかかります・・・。",
+      "title": "VSCodeを軽量化する🪶"
+    },
+    {
+      "locale": "zh",
+      "description": "VSCode是一个非常棒的代码编辑器，可以说几乎是一个IDE，甚至比它更好。但是，这需要花费一定的费用。",
+      "title": "让VSCode更轻盈🪶"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "VSCode是一個非常棒的代碼編輯器，可以說幾乎是一個IDE，甚至比它更好。但是，這需要花費一定的費用。",
+      "title": "讓VSCode更輕盈🪶"
+    }
+  ]
 }
