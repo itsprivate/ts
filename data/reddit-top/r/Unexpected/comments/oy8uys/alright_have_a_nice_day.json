@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "それでは、良い一日を"
+    },
+    {
+      "locale": "zh",
+      "title": "好了，祝你有个愉快的一天"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "好了，祝你有個愉快的一天"
+    }
+  ]
 }
