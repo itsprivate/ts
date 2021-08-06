@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-03T15:22:26Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ke-p9A-_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h7udv8bl1xd3rm1q8rfn.jpg",
   "author": "Clément Gaudinière",
-  "author_url": "https://dev.to/clementgaudiniere"
+  "author_url": "https://dev.to/clementgaudiniere",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは。タイトルにもあるように、今日はQRの原点に立ち返ってみましょう。",
+      "title": "QRコードの仕組みは？"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，正如你在标题中看到的，今天我们要回到二维码的起源。",
+      "title": "二维码是如何工作的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，正如你在標題中看到的，今天我們要回到二維碼的起源。",
+      "title": "二維碼是如何工作的？"
+    }
+  ]
 }
