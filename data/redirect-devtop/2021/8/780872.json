@@ -43,5 +43,22 @@
   "original_created_at": "2021-08-03T23:02:28Z",
   "image": "https://dev.to/social_previews/article/780872.png",
   "author": "Djamaile",
-  "author_url": "https://dev.to/djamaile"
+  "author_url": "https://dev.to/djamaile",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "(code is hosted at: https://github.com/djamaile/react-boilerplate-2021) (last years post:...)",
+      "title": "私のReact /TSアプリケーションの構成方法 (2021)"
+    },
+    {
+      "locale": "zh",
+      "description": "(代码托管在：https://github.com/djamaile/react-boilerplate-2021) (去年的帖子：...",
+      "title": "我是如何构建我的React /TS应用程序的（2021）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "(代碼託管在：https://github.com/djamaile/react-boilerplate-2021) (去年的帖子：...",
+      "title": "我是如何構建我的React /TS應用程序的（2021）。"
+    }
+  ]
 }
