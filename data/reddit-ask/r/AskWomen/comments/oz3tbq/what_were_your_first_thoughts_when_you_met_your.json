@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Or what kind of feeling/intuition did you have about that person when you first\nspoke to them?"
+  "the_new_excerpt": "Or what kind of feeling/intuition did you have about that person when you first\nspoke to them?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "あるいは、最初に話をしたときに、その人に対してどのような感覚・直感を持っていたか。\nその人と最初に話したとき、どんな感じがしましたか？",
+      "title": "現在の、あるいは以前のSOと出会ったときの最初の感想は？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "或者说，当你第一次和这个人谈话时，你对他有什么样的感觉/直觉？\n与他们交谈时，你对这个人有什么样的感觉/直觉？",
+      "title": "当你遇到你现在/以前的SO时，你的第一想法是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "或者說，當你第一次和這個人談話時，你對他有什麼樣的感覺/直覺？\n與他們交談時，你對這個人有什麼樣的感覺/直覺？",
+      "title": "當你遇到你現在/以前的SO時，你的第一想法是什麼？"
+    }
+  ]
 }
