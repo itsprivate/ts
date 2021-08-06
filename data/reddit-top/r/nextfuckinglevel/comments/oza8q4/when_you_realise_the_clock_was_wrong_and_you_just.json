@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "時計が間違っていて、世界新記録を出したことに気づいたとき...。"
+    },
+    {
+      "locale": "zh",
+      "title": "当你意识到时钟是错的，而你刚刚创造了一个新的世界纪录......"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當你意識到時鐘是錯的，而你剛剛創造了一個新的世界紀錄......"
+    }
+  ]
 }
