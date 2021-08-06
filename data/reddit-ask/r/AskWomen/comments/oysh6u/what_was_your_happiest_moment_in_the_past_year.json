@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この1年で一番嬉しかったことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "在过去一年中，你最开心的时刻是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在過去一年中，你最開心的時刻是什麼？"
+    }
+  ]
 }
