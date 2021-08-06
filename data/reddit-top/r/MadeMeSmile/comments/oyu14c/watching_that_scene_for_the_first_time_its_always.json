@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あのシーンを初めて見るときは、いつも怖いものです。"
+    },
+    {
+      "locale": "zh",
+      "title": "第一次看那个场景，总是很吓人"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "第一次看那個場景，總是很嚇人"
+    }
+  ]
 }
