@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "asking for a friend (a very close friend)"
+  "the_new_excerpt": "asking for a friend (a very close friend)",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "友人（とても親しい友人）を尋ねる",
+      "title": "バカで無能な人間に高給取りの仕事があるのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "求助于一个朋友（一个非常亲密的朋友）。",
+      "title": "对于愚蠢无能的人来说，什么是高薪工作？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "求助於一個朋友（一個非常親密的朋友）。",
+      "title": "對於愚蠢無能的人來說，什麼是高薪工作？"
+    }
+  ]
 }
