@@ -3,7 +3,7 @@
   "title": "Implement window.{alert, prompt, confirm} removal from cross-origin iframes",
   "url": "https://bugs.chromium.org/p/chromium/issues/detail?id=1065085",
   "author": "maltenuhn",
-  "points": 190,
+  "points": 211,
   "num_comments": 136,
   "_tags": [
     "story",
@@ -26,5 +26,6 @@
       "locale": "zh-Hant",
       "title": "實施window.{alert, prompt, confirm}從跨源iframes中移除。"
     }
-  ]
+  ],
+  "source_updated_at": 1628242945877
 }
