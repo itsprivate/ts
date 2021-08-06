@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Youtubeでビデオプレイリストを作ってみた"
+    },
+    {
+      "locale": "zh",
+      "title": "我在Youtube上做了一个视频播放列表"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我在Youtube上做了一個視頻播放列表"
+    }
+  ]
 }
