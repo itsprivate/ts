@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "https://pwa-nes.vercel.app [https://pwa-nes.vercel.app/] (open on a touch\ndevice)\n\nMash-up from JSNES, NES.css and NES Controller CSS. ROMS for this app can be\nfound on WoWroMs\n[https://wowroms.com/en/roms/list/nintendo%2Bentertainment%2Bsystem] Please\nupvote on HN…"
+  "the_new_excerpt": "https://pwa-nes.vercel.app [https://pwa-nes.vercel.app/] (open on a touch\ndevice)\n\nMash-up from JSNES, NES.css and NES Controller CSS. ROMS for this app can be\nfound on WoWroMs\n[https://wowroms.com/en/roms/list/nintendo%2Bentertainment%2Bsystem] Please\nupvote on HN…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "https://pwa-nes.vercel.app [https://pwa-nes.vercel.app/] （タッチデバイスで開く\nデバイスで開く)\n\nJSNES, NES.css, NES Controller CSSからのマッシュアップです。このアプリのROMはWoWroMsにあります。\nWoWroMsにあります。\n[https://wowroms.com/en/roms/list/nintendo%2Bentertainment%2Bsystem] お願いします。\nHNにupvoteをお願いします...",
+      "title": "プログレッシブWebアプリとしての8ビットファミコンエミュレータ"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "https://pwa-nes.vercel.app [https://pwa-nes.vercel.app/] （在触摸设备上打开\n设备上打开)\n\n由JSNES、NES.css和NES控制器CSS混搭而成。这个应用程序的ROMS可以在\n在WoWroMs上找到\n[https://wowroms.com/en/roms/list/nintendo%2Bentertainment%2Bsystem] 请\n在HN上投票...",
+      "title": "8位NES仿真器作为渐进式网络应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "https://pwa-nes.vercel.app [https://pwa-nes.vercel.app/] （在觸摸設備上打開\n設備上打開)\n\n由JSNES、NES.css和NES控制器CSS混搭而成。這個應用程序的ROMS可以在\n在WoWroMs上找到\n[https://wowroms.com/en/roms/list/nintendo%2Bentertainment%2Bsystem] 請\n在HN上投票...",
+      "title": "8位NES仿真器作爲漸進式網絡應用程序"
+    }
+  ]
 }
