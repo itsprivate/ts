@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ガードマンは子供のために規則を破った。"
+    },
+    {
+      "locale": "zh",
+      "title": "警卫员打破常规，只为让孩子们过上好日子"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "警衛員打破常規，只爲讓孩子們過上好日子"
+    }
+  ]
 }

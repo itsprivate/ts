@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "I need suggestions"
+  "the_new_excerpt": "I need suggestions",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "提案が欲しい",
+      "title": "あなたが生き続ける理由は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我需要建议",
+      "title": "你有什么理由继续生活下去？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我需要建議",
+      "title": "你有什麼理由繼續生活下去？"
+    }
+  ]
 }
