@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もしあなたが悲しい気持ちになったら、この犬が東京でお店を持っていることを思い出してください。"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你感到悲伤，请记住这只狗在东京拥有一家商店。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你感到悲傷，請記住這隻狗在東京擁有一家商店。"
+    }
+  ]
 }
