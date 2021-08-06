@@ -50,5 +50,22 @@
   "original_created_at": "2021-08-05T19:11:00Z",
   "image": "https://dev.to/social_previews/article/782922.png",
   "author": "The Vik",
-  "author_url": "https://dev.to/heheprogrammer"
+  "author_url": "https://dev.to/heheprogrammer",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "qrコードジェネレーターを作るのはとても簡単です。",
+      "title": "JavaScriptでqrコードジェネレータを作る方法"
+    },
+    {
+      "locale": "zh",
+      "description": "制作一个qr码生成器是非常简单的，因为现有的东西都可以在网上找到。",
+      "title": "如何用JavaScript制作一个qr码生成器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "製作一個qr碼生成器是非常簡單的，因爲現有的東西都可以在網上找到。",
+      "title": "如何用JavaScript製作一個qr碼生成器"
+    }
+  ]
 }

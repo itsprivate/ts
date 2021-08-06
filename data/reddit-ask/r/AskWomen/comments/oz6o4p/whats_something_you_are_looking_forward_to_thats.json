@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "It can be anything that you're excited about."
+  "the_new_excerpt": "It can be anything that you're excited about.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "自分がワクワクすることなら何でもいいんです。",
+      "title": "近日中に行われるイベントで、あなたが楽しみにしていることは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "它可以是任何你感到兴奋的东西。",
+      "title": "你对即将发生的事情有什么期待？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "它可以是任何你感到興奮的東西。",
+      "title": "你對即將發生的事情有什麼期待？"
+    }
+  ]
 }
