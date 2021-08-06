@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-01T07:45:44Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dw4Uzvuj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pl2amfnfjia07tmjc58x.jpeg",
   "author": "Somsubhra Das",
-  "author_url": "https://dev.to/somsubhra1"
+  "author_url": "https://dev.to/somsubhra1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Supabaseは、オープンソースのFirebaseの代替として、様々な企業にBackend as a Serviceを提供しています。",
+      "title": "Supabase - オープンソースのFirebase代替製品"
+    },
+    {
+      "locale": "zh",
+      "description": "Supabase是一个开源的Firebase替代方案，为各种类型的企业提供后台服务。",
+      "title": "Supabase - 一个开源的Firebase替代品"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Supabase是一個開源的Firebase替代方案，爲各種類型的企業提供後臺服務。",
+      "title": "Supabase - 一個開源的Firebase替代品"
+    }
+  ]
 }
