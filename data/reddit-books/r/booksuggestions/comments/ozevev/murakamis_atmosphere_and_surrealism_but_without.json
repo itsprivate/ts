@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Any suggestions?"
+  "the_new_excerpt": "Any suggestions?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "何か提案はありますか？",
+      "title": "村上さんの雰囲気やシュールレアリズム、でも性悪説はなし"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "有什么建议吗？",
+      "title": "村上的气氛和超现实主义，但没有性别歧视"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "有什麼建議嗎？",
+      "title": "村上的氣氛和超現實主義，但沒有性別歧視"
+    }
+  ]
 }
