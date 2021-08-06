@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "以前と現在"
+    },
+    {
+      "locale": "zh",
+      "title": "以前与现在"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "以前與現在"
+    }
+  ]
 }
