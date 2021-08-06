@@ -47,5 +47,19 @@
     }
   },
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ホワイトハウスは、ワーナー・ポートマン・シネマの暗号修正案を正式に支持し、Toomey・Wyden・Lummisの案には暗黙のうちに反対している。"
+    },
+    {
+      "locale": "zh",
+      "title": "白宫正式出面支持华纳-波特曼-西内玛加密修正案，暗中反对托米-维登-卢米斯计划。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "白宮正式出面支持華納-波特曼-西內瑪加密修正案，暗中反對托米-維登-盧米斯計劃。"
+    }
+  ]
 }
