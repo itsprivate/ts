@@ -13,5 +13,19 @@
   ],
   "objectID": "28081656",
   "original_created_at": "2021-08-06T00:05:30.000Z",
-  "image": "https://lovr.org/static/img/logo.png"
+  "image": "https://lovr.org/static/img/logo.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "LÖVR - 没入型3D体験を迅速に構築するためのオープンソースフレームワーク"
+    },
+    {
+      "locale": "zh",
+      "title": "LÖVR - 一个用于快速构建沉浸式3D体验的开源框架"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "LÖVR - 一個用於快速構建沉浸式3D體驗的開源框架"
+    }
+  ]
 }
