@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-03T23:00:26Z",
   "image": "https://dev.to/social_previews/article/780871.png",
   "author": "mrick",
-  "author_url": "https://dev.to/mrick"
+  "author_url": "https://dev.to/mrick",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事は、スタートアップとエンジニアリングに関する私の無料日刊ニュースレターに掲載されたものです。 あなたが参加できるのは...",
+      "title": "10,000時間のプログラミングを振り返って"
+    },
+    {
+      "locale": "zh",
+      "description": "这篇文章最初出现在我关于初创企业和工程的免费每日通讯中。 你可以加入...",
+      "title": "对10,000小时编程的反思"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這篇文章最初出現在我關於初創企業和工程的免費每日通訊中。 你可以加入...",
+      "title": "對10,000小時編程的反思"
+    }
+  ]
 }
