@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-04T18:40:54Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--i-NU5Fe7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m5u8lu1494f8x5mq4ty7.png",
   "author": "Nukala Suraj",
-  "author_url": "https://dev.to/lucidmach"
+  "author_url": "https://dev.to/lucidmach",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "node.jsをご存知の方は、超高速⚡超スケーラブル⚖️超...であることをご存知でしょう。",
+      "title": "Node.JS上のPythonスクリプトのためのReact UI "
+    },
+    {
+      "locale": "zh",
+      "description": "如果你熟悉node.js，你就知道它是超快的⚡超可扩展的⚖️超快的。",
+      "title": "Node.JS上的Python脚本的React UI "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你熟悉node.js，你就知道它是超快的⚡超可擴展的⚖️超快的。",
+      "title": "Node.JS上的Python腳本的React UI "
+    }
+  ]
 }
