@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-05T08:33:12Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--q3-sAZn7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6bulxq8sb7j70kfujsqz.jpg",
   "author": "Taslan Graham",
-  "author_url": "https://dev.to/taslangraham"
+  "author_url": "https://dev.to/taslangraham",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Nodeのイベントドリブンなアーキテクチャは、何かが起こったときに特定のアクションを実行することができます。これは...",
+      "title": "Node.jsのイベントエミッター"
+    },
+    {
+      "locale": "zh",
+      "description": "Node的事件驱动架构允许我们在事情发生时执行某些行动。这就是...",
+      "title": "Node.js事件发射器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Node的事件驅動架構允許我們在事情發生時執行某些行動。這就是...",
+      "title": "Node.js事件發射器"
+    }
+  ]
 }
