@@ -43,5 +43,22 @@
   "original_created_at": "2021-08-05T14:47:00Z",
   "image": "https://dev.to/social_previews/article/782629.png",
   "author": "Itay Schechner",
-  "author_url": "https://dev.to/itays123"
+  "author_url": "https://dev.to/itays123",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは。私はItayです。フルスタックのウェブ開発者で、バックオブフロントエンドのコードを専門とし...",
+      "title": "React Context APIの正しい使い方（時間短縮のために"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好! 我是Itay，一个全栈式的网络开发者，擅长于前台后台代码，也是一个有能力的人。",
+      "title": "使用React Context API，正确的方法（节省时间）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好! 我是Itay，一個全棧式的網絡開發者，擅長於前臺後臺代碼，也是一個有能力的人。",
+      "title": "使用React Context API，正確的方法（節省時間）。"
+    }
+  ]
 }
