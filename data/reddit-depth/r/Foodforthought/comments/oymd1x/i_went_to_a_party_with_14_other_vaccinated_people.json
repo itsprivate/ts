@@ -11,5 +11,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ワクチンを接種した14人とパーティーに行き、うち11人がCOVIDを接種しました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我和其他14个接种过疫苗的人一起参加了一个聚会；我们中的11人接种了COVID。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我和其他14個接種過疫苗的人一起參加了一個聚會；我們中的11人接種了COVID。"
+    }
+  ]
 }
