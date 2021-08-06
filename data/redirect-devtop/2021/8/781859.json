@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-04T21:27:34Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8zJ6WbWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pewixxpmv6hgigueqq04.png",
   "author": "mrwolferinc",
-  "author_url": "https://dev.to/mrwolferinc"
+  "author_url": "https://dev.to/mrwolferinc",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "HTMLとCSSを使った罫線入りのペーパーパターンです。",
+      "title": "CSS ルールドペーパー"
+    },
+    {
+      "locale": "zh",
+      "description": "一个带有HTML和CSS的划线纸图案。",
+      "title": "CSS 划线纸"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個帶有HTML和CSS的劃線紙圖案。",
+      "title": "CSS 劃線紙"
+    }
+  ]
 }
