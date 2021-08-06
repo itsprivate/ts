@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ヘルメットは基本的にワクチン"
+    },
+    {
+      "locale": "zh",
+      "title": "头盔基本上就是疫苗"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "頭盔基本上就是疫苗"
+    }
+  ]
 }
