@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "COVID-19 米国におけるバリアントの割合[OC)"
+    },
+    {
+      "locale": "zh",
+      "title": "美国的COVID-19变异体比例[OC]。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "美國的COVID-19變異體比例[OC]。"
+    }
+  ]
 }
