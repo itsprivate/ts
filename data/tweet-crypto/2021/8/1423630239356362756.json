@@ -134,5 +134,22 @@
     "retweet_count": 547,
     "favorite_count": 2664,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @DocumentingBTC: https://t.co/rZh6BEWHDU",
+      "retweeted_status_full_text": "https://t.co/rZh6BEWHDU"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @DocumentingBTC: https://t.co/rZh6BEWHDU",
+      "retweeted_status_full_text": "https://t.co/rZh6BEWHDU"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @DocumentingBTC: https://t.co/rZh6BEWHDU",
+      "retweeted_status_full_text": "https://t.co/rZh6BEWHDU"
+    }
+  ]
 }
