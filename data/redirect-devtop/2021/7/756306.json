@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-11T15:21:14Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zAVzouND--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kwgjfwyax0icenru9tg1.png",
   "author": "Aurélie Vache",
-  "author_url": "https://dev.to/aurelievache"
+  "author_url": "https://dev.to/aurelievache",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "具体的なアプリケーションを例にしてGolang言語を学ぶための記事シリーズ",
+      "title": "例題で学ぶ囲碁：パート4 - Discordのボットを囲碁で作る"
+    },
+    {
+      "locale": "zh",
+      "description": "以具体应用为例，学习Golang语言的系列文章",
+      "title": "通过实例学习围棋：第四部分--用围棋为Discord创建一个机器人"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "以具體應用爲例，學習Golang語言的系列文章",
+      "title": "通過實例學習圍棋：第四部分--用圍棋爲Discord創建一個機器人"
+    }
+  ]
 }
