@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "モックアップビルダーが新しくなりました。誰でも使えるようになりました。"
+    },
+    {
+      "locale": "zh",
+      "title": "新的模型构建器更新! 现在它对每个人都可用!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "新的模型構建器更新! 現在它對每個人都可用!"
+    }
+  ]
 }
