@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC】任意のTVシリーズのIMDb評価と投票をグラフ化するウェブアプリを作りました。ここではゲーム・オブ・スローンズ"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]我做了一个网络应用程序，可以对任何电视剧的IMDb评分和投票进行图表分析。这里是《权力的游戏》。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]我做了一個網絡應用程序，可以對任何電視劇的IMDb評分和投票進行圖表分析。這裏是《權力的遊戲》。"
+    }
+  ]
 }
