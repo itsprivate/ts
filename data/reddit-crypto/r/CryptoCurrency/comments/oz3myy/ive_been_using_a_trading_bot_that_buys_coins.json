@@ -52,5 +52,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "I coded a crypto trading bot that buys cryptocurrency based on how reddit feels\nabout that particular coin, with a specific criteria:\n\n\n\n * The coin needs to be in top 40 by marketcap\n * No Stablecoins\n\nWith that in mind, I created a bot that looks at reddit posts from various\ndifferent subreddits,…"
+  "the_new_excerpt": "I coded a crypto trading bot that buys cryptocurrency based on how reddit feels\nabout that particular coin, with a specific criteria:\n\n\n\n * The coin needs to be in top 40 by marketcap\n * No Stablecoins\n\nWith that in mind, I created a bot that looks at reddit posts from various\ndifferent subreddits,…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私は、redditが特定のコインについてどう感じているかに基づいて暗号通貨を購入する暗号取引ボットをコーディングしました。\n特定の基準で、特定のコインに対するredditの評価に基づいて暗号通貨を購入するbotをコーディングしました。\n\n\n\n * コインはマーケットキャップでトップ40に入る必要があります。\n * ステーブルコインでないこと\n\nこれを念頭に置いて、様々なサブレディットからredditの投稿を見るボットを作りました。\n様々なsubredditsからredditの投稿を見て、...",
+      "title": "私は、redditの評価に基づいてコインを購入するトレーディング・ボットを1ヶ月以上使用してきました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我编写了一个加密货币交易机器人，根据Reddit对该特定硬币的感觉购买加密货币。\n币的感觉，并有一个特定的标准。\n\n\n\n * 该币必须是市值前40的币种\n *没有稳定币\n\n考虑到这一点，我创建了一个机器人，该机器人会查看reddit上的各种帖子\n不同的subreddits的帖子，...",
+      "title": "我一直在使用一个交易机器人，根据reddit对它们的看法来购买硬币，现在已经超过一个月了，以下是结果"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我編寫了一個加密貨幣交易機器人，根據Reddit對該特定硬幣的感覺購買加密貨幣。\n幣的感覺，並有一個特定的標準。\n\n\n\n * 該幣必須是市值前40的幣種\n *沒有穩定幣\n\n考慮到這一點，我創建了一個機器人，該機器人會查看reddit上的各種帖子\n不同的subreddits的帖子，...",
+      "title": "我一直在使用一個交易機器人，根據reddit對它們的看法來購買硬幣，現在已經超過一個月了，以下是結果"
+    }
+  ]
 }
