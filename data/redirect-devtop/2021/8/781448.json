@@ -52,5 +52,22 @@
   "original_created_at": "2021-08-04T12:29:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZCD1bZ5h--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/np4mse8xxr1ta3jhdpdu.png",
   "author": "Nikita Grechino",
-  "author_url": "https://dev.to/fromaline"
+  "author_url": "https://dev.to/fromaline",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに 昨今、多くの企業がCanvas APIを採用し、新しい機能を実装するようになってきました。",
+      "title": "HTML5 Canvasで最高のスクロール性能を実現するには"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍 现在，越来越多的公司采用Canvas API来实现新的闪亮的东西。",
+      "title": "如何使用HTML5画布实现一流的滚动性能"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹 現在，越來越多的公司採用Canvas API來實現新的閃亮的東西。",
+      "title": "如何使用HTML5畫布實現一流的滾動性能"
+    }
+  ]
 }
