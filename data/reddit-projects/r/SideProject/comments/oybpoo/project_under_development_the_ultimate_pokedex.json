@@ -59,5 +59,19 @@
     }
   },
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "開発中のプロジェクト：The Ultimate Pokedex!"
+    },
+    {
+      "locale": "zh",
+      "title": "正在开发的项目：终极Pokedex!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "正在開發的項目：終極Pokedex!"
+    }
+  ]
 }
