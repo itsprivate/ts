@@ -107,5 +107,22 @@
     "retweet_count": 179,
     "favorite_count": 652,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @Schuldensuehner: このグラフは、#ECB が実際には金利を上げることができない理由を示しています。そうすると、過剰な金利を支払わなければならなくなります...",
+      "retweeted_status_full_text": "このチャートは、#ECB が実際には金利を上げることができない理由を示しています。そうなると、債券購入によって作られた過剰流動性に利子を払わなければならず、ユーロの中央銀行のバランスシートと利益を台無しにしてしまう。https://t.co/tXwxnGJQxs"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @Schuldensuehner: 这个图表显示了为什么#ECB不能真正提高利率。那么就必须对多余的贷款支付利息。",
+      "retweeted_status_full_text": "这张图显示了为什么#ECB不能真正提高利率。那么就必须对购买债券所创造的超额流动性支付利息，而这将毁掉欧元央行的资产负债表和利润。https://t.co/tXwxnGJQxs"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @Schuldensuehner: 這個圖表顯示了爲什麼#ECB不能真正提高利率。那麼就必須對多餘的貸款支付利息。",
+      "retweeted_status_full_text": "這張圖顯示了爲什麼#ECB不能真正提高利率。那麼就必須對購買債券所創造的超額流動性支付利息，而這將毀掉歐元央行的資產負債表和利潤。https://t.co/tXwxnGJQxs"
+    }
+  ]
 }
