@@ -14,5 +14,19 @@
   "tags": [
     "Fox News"
   ],
-  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/1000.jpg"
+  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/1000.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "東京の電車内で刺され、少なくとも10人の乗客が負傷"
+    },
+    {
+      "locale": "zh",
+      "title": "东京火车上发生刺杀事件，至少有10名乘客受伤"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "東京火車上發生刺殺事件，至少有10名乘客受傷"
+    }
+  ]
 }
