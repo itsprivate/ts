@@ -65,5 +65,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビーストモード発動"
+    },
+    {
+      "locale": "zh",
+      "title": "激活的野兽模式"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "激活的野獸模式"
+    }
+  ]
 }
