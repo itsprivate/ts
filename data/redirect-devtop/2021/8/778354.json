@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-01T14:24:37Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xvXYLuU1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dn59886s9f3se1k7stm5.jpg",
   "author": "SagarTrimukhe",
-  "author_url": "https://dev.to/sagartrimukhe"
+  "author_url": "https://dev.to/sagartrimukhe",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "目次 Reactを使ってシンプルなTodo UIを作る。シンプルなバックエンド・サーバーを作る",
+      "title": "シンプルなフルスタックアプリケーションをDockerでデプロイするための完全ガイド"
+    },
+    {
+      "locale": "zh",
+      "description": "目录 使用React创建一个简单的todo UI。创建一个简单的后端服务器...",
+      "title": "在Docker中部署一个简单的全栈应用程序的完整指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "目錄 使用React創建一個簡單的todo UI。創建一個簡單的後端服務器...",
+      "title": "在Docker中部署一個簡單的全棧應用程序的完整指南"
+    }
+  ]
 }
