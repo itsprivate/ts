@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "コインベースは、ワイデン・ラムミス・トゥーミーの修正案にYES、ワーナー・ポートマンの修正案にNOを投票するよう、上院議員に送るメールを自動生成するページを作成しました。"
+    },
+    {
+      "locale": "zh",
+      "title": "Coinbase创建了一个页面，自动生成一封电子邮件，发送给你的参议员，让他对Wyden-Lummis-Toomey修正案投赞成票，对Warner-Portman修正案投反对票。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Coinbase創建了一個頁面，自動生成一封電子郵件，發送給你的參議員，讓他對Wyden-Lummis-Toomey修正案投贊成票，對Warner-Portman修正案投反對票。"
+    }
+  ]
 }

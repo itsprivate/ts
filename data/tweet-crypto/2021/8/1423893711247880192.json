@@ -52,5 +52,22 @@
     },
     "retweet_count": 292,
     "favorite_count": 1820
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @jchervinsky: そう遠くない将来、政治家が「暗号化に反対」することは、現在の政治家と同じくらい意味のあることになるでしょう。",
+      "retweeted_status_full_text": "そう遠くない将来、政治家が「暗号に反対する」ことは、今日の「インターネットに反対する」ことと同じように意味を持つようになるだろう。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @jchervinsky: 在不远的将来，一个政治家 \"反对加密货币 \"的意义就像今天一个人 \"反对加密货币 \"的意义一样大。",
+      "retweeted_status_full_text": "在不远的将来，政治家 \"反对加密货币 \"和今天 \"反对互联网 \"一样有意义。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @jchervinsky: 在不遠的將來，一個政治家 \"反對加密貨幣 \"的意義就像今天一個人 \"反對加密貨幣 \"的意義一樣大。",
+      "retweeted_status_full_text": "在不遠的將來，政治家 \"反對加密貨幣 \"和今天 \"反對互聯網 \"一樣有意義。"
+    }
+  ]
 }
