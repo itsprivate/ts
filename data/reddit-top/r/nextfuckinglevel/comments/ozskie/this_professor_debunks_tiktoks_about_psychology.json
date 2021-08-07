@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この教授は、「心理学」に関するTikToksを論破し、私たちはそれに応えています。"
+    },
+    {
+      "locale": "zh",
+      "title": "这位教授驳斥了TikToks关于 \"心理学 \"的观点，我们在此表示欢迎。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這位教授駁斥了TikToks關於 \"心理學 \"的觀點，我們在此表示歡迎。"
+    }
+  ]
 }
