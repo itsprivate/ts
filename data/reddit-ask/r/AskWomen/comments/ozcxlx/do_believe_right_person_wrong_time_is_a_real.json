@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "right person, wrong time」は現実に存在すると思いますか？あなたの経験ではどうですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你相信 \"正确的人，错误的时间 \"是一个真实的事情吗？你在这方面有什么经验？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你相信 \"正確的人，錯誤的時間 \"是一個真實的事情嗎？你在這方面有什麼經驗？"
+    }
+  ]
 }
