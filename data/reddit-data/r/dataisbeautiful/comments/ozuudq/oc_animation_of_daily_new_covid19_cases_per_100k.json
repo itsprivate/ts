@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] 過去1年間の米国におけるCOVID-19の10万人当たりの新規症例数のアニメーション"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]过去一年中美国（部分地区）每10万人中每日新增COVID-19病例的动画"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]過去一年中美國（部分地區）每10萬人中每日新增COVID-19病例的動畫"
+    }
+  ]
 }
