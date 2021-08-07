@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼は子供たちを怖がらせるのが大好きなんです"
+    },
+    {
+      "locale": "zh",
+      "title": "他喜欢吓唬孩子!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他喜歡嚇唬孩子!"
+    }
+  ]
 }
