@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "仕事でパントマイムを披露するこの人"
+    },
+    {
+      "locale": "zh",
+      "title": "这家伙在工作中展示他的哑剧技巧"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這傢伙在工作中展示他的啞劇技巧"
+    }
+  ]
 }
