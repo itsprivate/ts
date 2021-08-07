@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "If so, how long do you actually clean them and do you always use soap?"
+  "the_new_excerpt": "If so, how long do you actually clean them and do you always use soap?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "その場合、実際にどのくらい洗浄しているのか、また常に石鹸を使用しているのか。",
+      "title": "ウンチをした後、必ず手を洗いますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "如果是这样，你究竟要清洗多长时间，是否总是使用肥皂？",
+      "title": "你总是在大便后洗手吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "如果是這樣，你究竟要清洗多長時間，是否總是使用肥皂？",
+      "title": "你總是在大便後洗手嗎？"
+    }
+  ]
 }
