@@ -66,5 +66,19 @@
     }
   },
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "外向的な人の中の内向的な人"
+    },
+    {
+      "locale": "zh",
+      "title": "外向者中的内向者"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "外向者中的內向者"
+    }
+  ]
 }
