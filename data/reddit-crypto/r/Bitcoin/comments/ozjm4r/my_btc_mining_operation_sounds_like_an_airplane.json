@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私のBTCマイニングオペレーションは、まるで飛行機が離陸するような音がします。早急に液冷に切り替えるつもりです。"
+    },
+    {
+      "locale": "zh",
+      "title": "我的BTC采矿行动听起来像飞机起飞。我将尽快改用液体冷却。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我的BTC採礦行動聽起來像飛機起飛。我將盡快改用液體冷卻。"
+    }
+  ]
 }
