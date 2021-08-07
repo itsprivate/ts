@@ -63,5 +63,22 @@
     "retweet_count": 6213,
     "favorite_count": 14929,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @Snowden: 🚨アップルは「子供を守るため」に、すべてのiPhoneをアップデートして、写真とクラウドストレージを継続的に比較すると言っていますが、また...。",
+      "retweeted_status_full_text": "🚨Appleは「子供を守る」ために、全てのiPhoneをアップデートして、写真やクラウドストレージを秘密のブラックリストと継続的に比較しているそうです。ヒットした場合は警察に通報されます。\n\nまた、iOSはiMessageでヌードを見た場合、両親に伝えるとのこと。\n\nhttps://t.co/VZCTsrVnnc"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @Snowden: 🚨🚨苹果公司说，为了 \"保护儿童\"，他们正在更新每部iPhone，再次持续比较你的照片和云存储...",
+      "retweeted_status_full_text": "苹果公司说，为了 \"保护儿童\"，他们正在更新每部iPhone，将你的照片和云存储与一个秘密黑名单进行持续比较。如果发现有问题，他们会打电话给警察。\n\n如果你在iMessage中查看裸体，iOS也会告诉你的父母。\n\nhttps://t.co/VZCTsrVnnc"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @Snowden: 🚨🚨蘋果公司說，爲了 \"保護兒童\"，他們正在更新每部iPhone，再次持續比較你的照片和雲存儲...",
+      "retweeted_status_full_text": "蘋果公司說，爲了 \"保護兒童\"，他們正在更新每部iPhone，將你的照片和雲存儲與一個祕密黑名單進行持續比較。如果發現有問題，他們會打電話給警察。\n\n如果你在iMessage中查看裸體，iOS也會告訴你的父母。\n\nhttps://t.co/VZCTsrVnnc"
+    }
+  ]
 }
