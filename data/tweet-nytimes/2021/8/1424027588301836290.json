@@ -113,5 +113,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Sat Aug 07 15:20:08 +0000 2021"
+  "original_created_at": "Sat Aug 07 15:20:08 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "CDCが発表した小規模な研究によると、コヴィド-19に罹患したことのあるワクチン未接種者は、検査で陽性反応が出てワクチンで自然免疫を強化した人に比べて、再び感染する可能性が2倍以上になる可能性があるとのことです。https://t.co/8hBHS6eM16"
+    },
+    {
+      "locale": "zh",
+      "full_text": "根据CDC发表的一项小型研究，与那些测试结果呈阳性并通过疫苗增强其自然免疫力的人相比，未接种疫苗的人如果患过Covid-19，再次被感染的可能性可能是后者的两倍多。https://t.co/8hBHS6eM16。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "根據CDC發表的一項小型研究，與那些測試結果呈陽性並通過疫苗增強其自然免疫力的人相比，未接種疫苗的人如果患過Covid-19，再次被感染的可能性可能是後者的兩倍多。https://t.co/8hBHS6eM16。"
+    }
+  ]
 }

@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Will it move around here for some days or will we see its next stop 46000$\ntoday?"
+  "the_new_excerpt": "Will it move around here for some days or will we see its next stop 46000$\ntoday?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ここで何日か動き回るのか、それとも次のストップである46000ドルを見るのか。\n今日のところは？",
+      "title": "Bitcoin >= 44000$"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "它将在这里移动几天，或者我们将看到它的下一站46000美元。\n今天？",
+      "title": "比特币>=44000美元"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "它將在這裏移動幾天，或者我們將看到它的下一站46000美元。\n今天？",
+      "title": "比特幣>=44000美元"
+    }
+  ]
 }
