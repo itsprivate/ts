@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-05T17:50:03Z",
   "image": "https://dev.to/social_previews/article/782809.png",
   "author": "STeve Shary",
-  "author_url": "https://dev.to/stevesmashcode"
+  "author_url": "https://dev.to/stevesmashcode",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "dockerイメージの構築は年々進化しており、新しい戦略も出てきています。 ひとつは...",
+      "title": "CI/CDパイプラインでDockerイメージを（素早く）構築するためのヒント"
+    },
+    {
+      "locale": "zh",
+      "description": "多年来，构建docker镜像一直在发展，有新的策略可以做到这一点。 一个是...",
+      "title": "在CI/CD管道中构建Docker镜像（快速）的技巧"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "多年來，構建docker鏡像一直在發展，有新的策略可以做到這一點。 一個是...",
+      "title": "在CI/CD管道中構建Docker鏡像（快速）的技巧"
+    }
+  ]
 }
