@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Should someone go check on them?"
+  "the_new_excerpt": "Should someone go check on them?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "誰かが様子を見に行った方がいいのでは？",
+      "title": "3万円で売って2万円で買い戻すと投稿したRedditersは"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "是否应该有人去看看他们？",
+      "title": "那些发帖说以3万美元卖出，以2万美元买回的Redditors..."
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "是否應該有人去看看他們？",
+      "title": "那些發帖說以3萬美元賣出，以2萬美元買回的Redditors..."
+    }
+  ]
 }
