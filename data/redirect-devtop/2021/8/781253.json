@@ -42,5 +42,22 @@
   "original_created_at": "2021-08-04T10:19:00Z",
   "image": "https://dev.to/social_previews/article/781253.png",
   "author": "Saji Wang",
-  "author_url": "https://dev.to/sewangco"
+  "author_url": "https://dev.to/sewangco",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今週の初めに、開発者の燃え尽き症候群についてお話ししました。",
+      "title": "長くではなく、賢くコードを書くための10のJS Tips"
+    },
+    {
+      "locale": "zh",
+      "description": "本周早些时候，我们谈到了开发人员的倦怠，一项研究发现，83%的开发人员...",
+      "title": "10个JS技巧帮助你更聪明地编码，而不是更长的时间"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "本週早些時候，我們談到了開發人員的倦怠，一項研究發現，83%的開發人員...",
+      "title": "10個JS技巧幫助你更聰明地編碼，而不是更長的時間"
+    }
+  ]
 }
