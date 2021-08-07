@@ -50,5 +50,22 @@
   "original_created_at": "2021-08-04T18:22:21Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--t0WMScTk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3fokkv21y1errzth9qp6.png",
   "author": "Jakub Skoneczny",
-  "author_url": "https://dev.to/skona27"
+  "author_url": "https://dev.to/skona27",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "モノレポという言葉を以前に聞いたことがあるかもしれません。しかし、何も聞いていない人にとっては...。",
+      "title": "自分のモノレポをコントロールする🗄️。"
+    },
+    {
+      "locale": "zh",
+      "description": "你以前可能听说过monorepo这个词。但是，对于那些没有听说过的人...",
+      "title": "控制你的Monorepo 🗄️ "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你以前可能聽說過monorepo這個詞。但是，對於那些沒有聽說過的人...",
+      "title": "控制你的Monorepo 🗄️ "
+    }
+  ]
 }

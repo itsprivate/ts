@@ -52,5 +52,22 @@
     },
     "retweet_count": 329,
     "favorite_count": 2801
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @scottmelker 先月のパニック売りは今月のパニック買い。",
+      "retweeted_status_full_text": "先月のパニックセラーは、今月のパニックバイヤー。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @scottmelker: 上个月的恐慌性卖家是这个月的恐慌性买家。",
+      "retweeted_status_full_text": "上个月的恐慌性卖家就是这个月的恐慌性买家。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @scottmelker: 上個月的恐慌性賣家是這個月的恐慌性買家。",
+      "retweeted_status_full_text": "上個月的恐慌性賣家就是這個月的恐慌性買家。"
+    }
+  ]
 }
