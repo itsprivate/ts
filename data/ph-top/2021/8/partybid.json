@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-06T19:08:21Z"
+  "original_createdAt": "2021-08-06T19:08:21Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "PartyBidは、グループで資金を出し合い、一緒にNFTオークションに入札することができる製品です。誰でもPartyBidを作成または参加し、ETHを拠出して、集団の一員として入札を行うことができます。",
+      "tagline": "チームで協力してNFTオークションを勝ち抜こう"
+    },
+    {
+      "locale": "zh",
+      "description": "PartyBid是一个让一群人结合他们的资本并一起在NFT拍卖上投标的产品。任何人都可以创建或加入PartyBid，贡献ETH，并作为集体的一部分出价。",
+      "tagline": "一起加入，以团队形式赢得NFT拍卖会"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "PartyBid是一個讓一羣人結合他們的資本並一起在NFT拍賣上投標的產品。任何人都可以創建或加入PartyBid，貢獻ETH，並作爲集體的一部分出價。",
+      "tagline": "一起加入，以團隊形式贏得NFT拍賣會"
+    }
+  ]
 }
