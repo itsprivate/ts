@@ -52,5 +52,22 @@
   "original_created_at": "2021-08-06T08:52:45Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vpY0efze--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ajhktj39nwixdm1cip8s.png",
   "author": "Johannes Kettmann",
-  "author_url": "https://dev.to/jkettmann"
+  "author_url": "https://dev.to/jkettmann",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "新人の開発者は、仕事を得るためにはウェブサイトが必要だと思っています。しかし、採用担当者は気にも留めないのでしょうか？この調査の結果は明確で、より良い代替案を提供しています。",
+      "title": "60人以上の採用担当者を対象としたこの調査で明らかになりました。(Reactの)ポートフォリオサイトで時間を無駄にしてはいけない"
+    },
+    {
+      "locale": "zh",
+      "description": "新的开发人员认为他们需要一个网站来获得工作。但是，招聘经理是否在乎呢？这项调查的结果很清楚，并提供了更好的选择。",
+      "title": "这项针对60多位招聘经理的调查显示。不要把时间浪费在（React）投资组合网站上"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "新的開發人員認爲他們需要一個網站來獲得工作。但是，招聘經理是否在乎呢？這項調查的結果很清楚，並提供了更好的選擇。",
+      "title": "這項針對60多位招聘經理的調查顯示。不要把時間浪費在（React）投資組合網站上"
+    }
+  ]
 }

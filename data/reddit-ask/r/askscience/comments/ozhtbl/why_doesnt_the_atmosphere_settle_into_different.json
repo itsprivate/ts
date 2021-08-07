@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "同じガス分子でも密度が違うのに、なぜ大気は異なる層に沈まないのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "为什么大气层不会沉降到不同的气体分子层中，因为它们的密度不同？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲什麼大氣層不會沉降到不同的氣體分子層中，因爲它們的密度不同？"
+    }
+  ]
 }
