@@ -42,5 +42,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Hey all,\n\n\nTL:DR\n\nI published a free & ad-free Flutter app named Scored! for Android and Web. You\ncan find the apk on Google Play\n[https://play.google.com/store/apps/details?id=be.tteo.scored], the Web app here\n[https://scored.gitlab.io/#/] and the sources on…"
+  "the_new_excerpt": "Hey all,\n\n\nTL:DR\n\nI published a free & ad-free Flutter app named Scored! for Android and Web. You\ncan find the apk on Google Play\n[https://play.google.com/store/apps/details?id=be.tteo.scored], the Web app here\n[https://scored.gitlab.io/#/] and the sources on…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "皆さん、こんにちは。\n\n\nTL:DR\n\n私は無料で広告なしのFlutterアプリ「Scored！」をAndroidとWebで公開しました。このアプリは\napkはGoogle Playにあります。\n[https://play.google.com/store/apps/details?id=be.tteo.scored]、ウェブアプリはこちら\n[https://scored.gitlab.io/#/]、ソースは...",
+      "title": "Google Playで「Scored！」を公開しました - シンプルに数えられるものを記録する方法"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "嘿，大家好。\n\n\nTL:DR\n\n我发布了一个免费和无广告的Flutter应用程序，名为Scored！用于Android和Web。你\n你可以在Google Play上找到这个apk\n[https://play.google.com/store/apps/details?id=be.tteo.scored]，网络应用在这里\n[https://scored.gitlab.io/#/]，而源代码则在...",
+      "title": "我在Google Play上发布了《得分！》--用简单的方法来记录任何可计算的东西"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "嘿，大家好。\n\n\nTL:DR\n\n我發佈了一個免費和無廣告的Flutter應用程序，名爲Scored！用於Android和Web。你\n你可以在Google Play上找到這個apk\n[https://play.google.com/store/apps/details?id=be.tteo.scored]，網絡應用在這裏\n[https://scored.gitlab.io/#/]，而源代碼則在...",
+      "title": "我在Google Play上發佈了《得分！》--用簡單的方法來記錄任何可計算的東西"
+    }
+  ]
 }
