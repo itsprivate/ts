@@ -43,5 +43,22 @@
   "original_created_at": "2021-08-05T13:20:30Z",
   "image": "https://dev.to/social_previews/article/782588.png",
   "author": "Ben Read",
-  "author_url": "https://dev.to/endymion1818"
+  "author_url": "https://dev.to/endymion1818",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "NextJSでReactアプリケーションを構築することは、顧客の前に素早く物を出すための素晴らしい方法です。しかし、サイトが遅すぎるために顧客がサイトを利用していないことに気づくかもしれません。ここでは、NextJSアプリケーションのパフォーマンスを向上させるためにできることをご紹介します。",
+      "title": "NextJSパフォーマンスチェックリスト"
+    },
+    {
+      "locale": "zh",
+      "description": "用NextJS构建React应用程序是一种快速将东西送到客户面前的好方法。但你可能会发现，他们并没有使用你的网站，因为它太慢了。这里有一个清单，你可以做一些事情来提高你的NextJS应用程序的性能。",
+      "title": "下一页JS性能检查表"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "用NextJS構建React應用程序是一種快速將東西送到客戶面前的好方法。但你可能會發現，他們並沒有使用你的網站，因爲它太慢了。這裏有一個清單，你可以做一些事情來提高你的NextJS應用程序的性能。",
+      "title": "下一頁JS性能檢查表"
+    }
+  ]
 }
