@@ -67,5 +67,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-07T10:48:49Z"
+  "original_createdAt": "2021-08-07T10:48:49Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "PH100では、ProductHuntが100 upvoteを達成した際に更新されます。これらは🔥🔥🔥とみなされます。TelegramとAirtableベースで自動更新されます。各ローンチはTimeTo100、メーカー、CommentUpvoteRatioなどで分析されます。https://www.ph100.club にアクセスしてください。",
+      "tagline": "PHの起動時に100 upvotesを獲得すると警告する非公式のボットです。"
+    },
+    {
+      "locale": "zh",
+      "description": "PH100为您更新ProductHunt推出的达到100个赞的信息。这些被认为是🔥🔥。可在Telegram和自动更新的Airtable基础上使用。每一次发布都会被分析为时间到100，制造者，评论投票率和更多。在 https://www.ph100.club 上获得访问权",
+      "tagline": "非官方机器人在PH启动时提醒你获得100个支持率"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "PH100爲您更新ProductHunt推出的達到100個讚的信息。這些被認爲是🔥🔥。可在Telegram和自動更新的Airtable基礎上使用。每一次發佈都會被分析爲時間到100，製造者，評論投票率和更多。在 https://www.ph100.club 上獲得訪問權",
+      "tagline": "非官方機器人在PH啓動時提醒你獲得100個支持率"
+    }
+  ]
 }
