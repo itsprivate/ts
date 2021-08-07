@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このバレーボールの保存は非常に素晴らしいです。"
+    },
+    {
+      "locale": "zh",
+      "title": "这个排球救球是疯狂的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個排球救球是瘋狂的。"
+    }
+  ]
 }
