@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "最近、このサイトにアメリカ人が多いことに気づいたので、彼らを驚かせるためにこれを投稿しようと思いました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我注意到最近有很多美国人在这里，所以我想我应该把这个东西扔给他们，让他们感到害怕。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我注意到最近有很多美國人在這裏，所以我想我應該把這個東西扔給他們，讓他們感到害怕。"
+    }
+  ]
 }
