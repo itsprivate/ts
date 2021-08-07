@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ここでは、アジア（ロシアを除く）のすべての川と水路を、それぞれが属する主要な水域ごとに色分けして紹介します。ズームイン! [OC]."
+    },
+    {
+      "locale": "zh",
+      "title": "以下是亚洲（不包括俄罗斯）的所有河流和水道，根据它们所属的主要水文盆地着色。放大! [OC]"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "以下是亞洲（不包括俄羅斯）的所有河流和水道，根據它們所屬的主要水文盆地着色。放大! [OC]"
+    }
+  ]
 }
