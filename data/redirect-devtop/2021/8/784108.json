@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-07T02:48:21Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vzgxogXC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tcv4xfypmja0yz4diry3.jpg",
   "author": "Alvaro Montoro",
-  "author_url": "https://dev.to/alvaromontoro"
+  "author_url": "https://dev.to/alvaromontoro",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "css, webdev, html, art",
+      "title": "HTMLとCSSでマンガを描く（動画あり"
+    },
+    {
+      "locale": "zh",
+      "description": "css, webdev, html, 艺术",
+      "title": "用HTML和CSS画卡通（附视频"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "css, webdev, html, 藝術",
+      "title": "用HTML和CSS畫卡通（附視頻"
+    }
+  ]
 }
