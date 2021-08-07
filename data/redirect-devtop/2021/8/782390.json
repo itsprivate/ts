@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-05T12:16:09Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lbVa2P8a--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/13tnsgbyf9g9go5qisay.png",
   "author": "Neha Soni",
-  "author_url": "https://dev.to/nehasoni__"
+  "author_url": "https://dev.to/nehasoni__",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "デバッグは、すべての開発者がツールボックスに入れておくべきスキルです🧰 console.log()は間違いなく...",
+      "title": "JavaScriptにおけるconsole.table()の威力💪🏻😎。"
+    },
+    {
+      "locale": "zh",
+      "description": "调试是所有开发人员都应该在他们的工具箱中掌握的技能🧰毫无疑问，console.log()是一个重要的工具。",
+      "title": "在JavaScript中console.table()的力量💪🏻😎"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "調試是所有開發人員都應該在他們的工具箱中掌握的技能🧰毫無疑問，console.log()是一個重要的工具。",
+      "title": "在JavaScript中console.table()的力量💪🏻😎"
+    }
+  ]
 }
