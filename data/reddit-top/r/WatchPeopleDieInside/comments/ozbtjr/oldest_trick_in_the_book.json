@@ -66,5 +66,19 @@
     }
   },
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "本の中で最も古いトリック"
+    },
+    {
+      "locale": "zh",
+      "title": "书中最古老的技巧"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "書中最古老的技巧"
+    }
+  ]
 }
