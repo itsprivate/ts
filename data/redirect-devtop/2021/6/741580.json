@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-28T07:55:50Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gRxQYJfs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/evazggy0bm6pzbhdzq2x.png",
   "author": "Mads Stoumann",
-  "author_url": "https://dev.to/madsstoumann"
+  "author_url": "https://dev.to/madsstoumann",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このタグは、Webの世界観を表現するのに欠かせないものですが、その導入には長い年月を要しました。",
+      "title": "最小限のAutoSuggestの構築"
+    },
+    {
+      "locale": "zh",
+      "description": "网络花了很多年才引入了&lt;datalist&gt;-tag，这对创建其中的一个项目至关重要。",
+      "title": "建立一个最小的自动建议"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "網絡花了很多年才引入了&lt;datalist&gt;-tag，這對創建其中的一個項目至關重要。",
+      "title": "建立一個最小的自動建議"
+    }
+  ]
 }
