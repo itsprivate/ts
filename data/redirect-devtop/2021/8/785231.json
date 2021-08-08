@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-08T12:49:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0zmuHPIh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9woiuxrlqhgfeq9l2ihi.jpg",
   "author": "Francisco Mendes",
-  "author_url": "https://dev.to/franciscomendes10866"
+  "author_url": "https://dev.to/franciscomendes10866",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "現在、興味を持っていることの一つに、検索バーの作成がありますが、私は検索バーを作りたくありませんでした。",
+      "title": "Reactで検索バーを作成する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "我目前感兴趣的事情之一是创建一个搜索栏，然而我并不想...",
+      "title": "如何在React中创建一个搜索栏"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我目前感興趣的事情之一是創建一個搜索欄，然而我並不想...",
+      "title": "如何在React中創建一個搜索欄"
+    }
+  ]
 }
