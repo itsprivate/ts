@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "クリティーク。質問に対して、検索結果ではなくウェブ上の人間らしい回答を返すAIツール。フィードバックをお待ちしています"
+    },
+    {
+      "locale": "zh",
+      "title": "批评。人工智能工具，用网络上类似人类的答案来回应问题，而不是搜索结果。希望得到反馈!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "批評。人工智能工具，用網絡上類似人類的答案來回應問題，而不是搜索結果。希望得到反饋!"
+    }
+  ]
 }
