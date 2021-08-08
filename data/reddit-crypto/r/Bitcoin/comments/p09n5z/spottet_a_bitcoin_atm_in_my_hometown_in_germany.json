@@ -11,5 +11,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ドイツの私の故郷では、汚いフィアットATMの隣にビットコインATMが設置されています。"
+    },
+    {
+      "locale": "zh",
+      "title": "在我的家乡德国，发现了一台比特币ATM机，就在一台肮脏的菲亚特ATM机旁边。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在我的家鄉德國，發現了一臺比特幣ATM機，就在一臺骯髒的菲亞特ATM機旁邊。"
+    }
+  ]
 }
