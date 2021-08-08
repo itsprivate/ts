@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-06T19:54:22Z",
   "image": "https://dev.to/social_previews/article/783922.png",
   "author": "Adam Gordon Bell",
-  "author_url": "https://dev.to/adamgordonbell"
+  "author_url": "https://dev.to/adamgordonbell",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは👋 私はプロのソフトウェア開発者として15年になりますが、この...",
+      "title": "📚 Gitのブランチをストーリー仕立てで解説します。"
+    },
+    {
+      "locale": "zh",
+      "description": "👋 你好 👋 我做了15年的专业软件开发人员，我已经有这个...",
+      "title": "📚 用一个故事解释Git分支 📚"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "👋 你好 👋 我做了15年的專業軟件開發人員，我已經有這個...",
+      "title": "📚 用一個故事解釋Git分支 📚"
+    }
+  ]
 }
