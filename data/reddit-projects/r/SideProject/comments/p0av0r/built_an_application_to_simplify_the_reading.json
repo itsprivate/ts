@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "J.R.R.トールキンの「シルマリオン」を簡単に読むことができるアプリケーションを開発しました。"
+    },
+    {
+      "locale": "zh",
+      "title": "建立一个应用程序，以简化J.R.R托尔金的 \"Silmarillion \"的阅读体验。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "建立一個應用程序，以簡化J.R.R托爾金的 \"Silmarillion \"的閱讀體驗。"
+    }
+  ]
 }
