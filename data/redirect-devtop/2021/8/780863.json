@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-03T22:10:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ya1P1Y_V--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nfwmlgn7fr47cypo4bv9.png",
   "author": "CodeOzz",
-  "author_url": "https://dev.to/codeozz"
+  "author_url": "https://dev.to/codeozz",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "新生vue academyへようこそ! vueに関するたくさんの記事が掲載されています。私は2年半の...",
+      "title": "Vue Academy #4: v-forディレクティブ"
+    },
+    {
+      "locale": "zh",
+      "description": "欢迎来到新的vue学院! 它将是一个关于vue的大量文章的列表! 我有2.5年的工作经验...",
+      "title": "Vue学院#4：v-for指令"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "歡迎來到新的vue學院! 它將是一個關於vue的大量文章的列表! 我有2.5年的工作經驗...",
+      "title": "Vue學院#4：v-for指令"
+    }
+  ]
 }
