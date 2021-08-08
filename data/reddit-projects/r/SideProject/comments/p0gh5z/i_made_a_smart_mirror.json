@@ -59,5 +59,19 @@
     }
   },
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "スマートミラーを作ってみた"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个智能镜子"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個智能鏡子"
+    }
+  ]
 }

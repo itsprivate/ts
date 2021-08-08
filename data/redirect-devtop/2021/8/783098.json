@@ -41,5 +41,22 @@
   "original_created_at": "2021-08-06T03:25:47Z",
   "image": "https://dev.to/social_previews/article/783098.png",
   "author": "Claire Lipskey",
-  "author_url": "https://dev.to/clairebaire"
+  "author_url": "https://dev.to/clairebaire",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これは良い質問ですね。と言いたくなるような会社もあります（例えば、AccessiBe、...）。",
+      "title": "なぜ、1行のスクリプトタグでアクセシビリティを解決できないのか？"
+    },
+    {
+      "locale": "zh",
+      "description": "这是个好问题。有一些公司想求同存异（如AccessiBe，...",
+      "title": "为什么我们不能用一个单行脚本标签来解决可及性问题？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是個好問題。有一些公司想求同存異（如AccessiBe，...",
+      "title": "爲什麼我們不能用一個單行腳本標籤來解決可及性問題？"
+    }
+  ]
 }
