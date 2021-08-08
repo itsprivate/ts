@@ -35,5 +35,22 @@
   "original_created_at": "2021-08-07T02:11:59Z",
   "image": "https://dev.to/social_previews/article/784105.png",
   "author": "Yisar",
-  "author_url": "https://dev.to/132"
+  "author_url": "https://dev.to/132",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近では、大量のデータのレンダリングが特に遅いという反応がありました....",
+      "title": "Freはreactの10倍の速さです"
+    },
+    {
+      "locale": "zh",
+      "description": "最近，一些人用react发现，渲染大量数据的速度特别慢....。",
+      "title": "Fre比反应快10倍!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "最近，一些人用react發現，渲染大量數據的速度特別慢....。",
+      "title": "Fre比反應快10倍!"
+    }
+  ]
 }
