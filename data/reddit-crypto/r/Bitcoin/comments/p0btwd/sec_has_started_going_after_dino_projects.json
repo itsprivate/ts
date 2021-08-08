@@ -47,5 +47,19 @@
     }
   },
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "SECはDINOプロジェクト（Decentralized In Name Only）の追及を始めました。Gary Gensler氏によると、これはBitcoin以外のすべてのプロジェクトを意味しているとのことです。"
+    },
+    {
+      "locale": "zh",
+      "title": "SEC已经开始对DINO项目（去中心化的名义）进行处理。根据Gary Gensler的说法，这可能意味着比特币以外的一切"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "SEC已經開始對DINO項目（去中心化的名義）進行處理。根據Gary Gensler的說法，這可能意味着比特幣以外的一切"
+    }
+  ]
 }

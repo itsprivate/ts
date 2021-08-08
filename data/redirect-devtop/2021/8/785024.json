@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-08T07:22:12Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RA2K4YET--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r44xgmabww8fogfkdayr.jpg",
   "author": "InHuOfficial",
-  "author_url": "https://dev.to/inhuofficial"
+  "author_url": "https://dev.to/inhuofficial",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事は、@cleancodestudioのクリーンコードに関する記事を受けての、日曜日のちょっとしたお楽しみです ...",
+      "title": "きれいなDEV記事を書くための10のコツ!"
+    },
+    {
+      "locale": "zh",
+      "description": "因此，这是周日的一点乐趣，以回应@cleancodestudio关于清洁代码的这篇文章 ...",
+      "title": "清洁DEV文章的10个提示!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "因此，這是週日的一點樂趣，以迴應@cleancodestudio關於清潔代碼的這篇文章 ...",
+      "title": "清潔DEV文章的10個提示!"
+    }
+  ]
 }
