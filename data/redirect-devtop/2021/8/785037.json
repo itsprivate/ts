@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-08T08:13:40Z",
   "image": "https://dev.to/social_previews/article/785037.png",
   "author": "The Vik",
-  "author_url": "https://dev.to/heheprogrammer"
+  "author_url": "https://dev.to/heheprogrammer",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "さて、私の前の2つのブログがたくさんのビューを獲得したので、今度は別のブログを作ろうと思っています。",
+      "title": "JavaScriptでDrag-n-Dropを作成する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "好了，我之前的两个博客得到了很多人的关注，现在我想再做一个博客。",
+      "title": "如何在JavaScript中进行拖放操作"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "好了，我之前的兩個博客得到了很多人的關注，現在我想再做一個博客。",
+      "title": "如何在JavaScript中進行拖放操作"
+    }
+  ]
 }
