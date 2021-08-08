@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "避けられないことを受け入れる"
+    },
+    {
+      "locale": "zh",
+      "title": "接受不可避免的事情"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "接受不可避免的事情"
+    }
+  ]
 }
