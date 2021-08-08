@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-07T15:28:04Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--L5dcQgct--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/82jui4q58uzivddw4h96.png",
   "author": "Matej Bačo",
-  "author_url": "https://dev.to/meldiron"
+  "author_url": "https://dev.to/meldiron",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このプロジェクトは、フロントエンドでの適切な状態管理を学ぼうとしたときに作りました。私が望んだのは...",
+      "title": "Faker.js Generator - もう手作業でサンプルデータを書く必要はありません⌛"
+    },
+    {
+      "locale": "zh",
+      "description": "当我试图在前端学习正确的状态管理时，我创建了这个项目。我想...",
+      "title": "Faker.js生成器 - 再也不用手动编写样本数据了 ⌛"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當我試圖在前端學習正確的狀態管理時，我創建了這個項目。我想...",
+      "title": "Faker.js生成器 - 再也不用手動編寫樣本數據了 ⌛"
+    }
+  ]
 }
