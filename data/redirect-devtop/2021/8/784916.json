@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-08T05:35:48Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QUb7OYNw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d2db0bvcss75exc5es3d.png",
   "author": "Modern Web",
-  "author_url": "https://dev.to/kunaal438"
+  "author_url": "https://dev.to/kunaal438",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは。今日は、HTML、CSS、JSだけで簡単にnetflixクローンを作成する方法をご紹介します。いや...",
+      "title": "Node App: netflix cloneの作り方。HTML,CSS,JSでNetflixのクローンを作る。"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，今天我们将看到，我们如何只用HTML、CSS和JS就能轻松创建一个netflix克隆。不...",
+      "title": "节点应用。如何创建Netflix的克隆。用HTML、CSS、JS克隆Netflix。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，今天我們將看到，我們如何只用HTML、CSS和JS就能輕鬆創建一個netflix克隆。不...",
+      "title": "節點應用。如何創建Netflix的克隆。用HTML、CSS、JS克隆Netflix。"
+    }
+  ]
 }
