@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "コカコーラを注ぐように"
+    },
+    {
+      "locale": "zh",
+      "title": "浇灌可口可乐就像"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "澆灌可口可樂就像"
+    }
+  ]
 }
