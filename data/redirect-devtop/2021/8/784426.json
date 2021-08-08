@@ -43,5 +43,22 @@
   "original_created_at": "2021-08-07T10:14:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--07PDtHf8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/87jsn8trdu3ukpg7b879.jpg",
   "author": "Andrew Bone",
-  "author_url": "https://dev.to/link2twenty"
+  "author_url": "https://dev.to/link2twenty",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今日は、メディアクエリを受け取り、そのクエリが...かどうかを返すReactフックを作ります。",
+      "title": "リアクト。メディアクエリのカスタムフック 📱💻。"
+    },
+    {
+      "locale": "zh",
+      "description": "今天我们将制作一个React钩子，它将接受一个媒体查询，并将返回该查询是否...",
+      "title": "反应。媒体查询的自定义钩子📱💻"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "今天我們將製作一個React鉤子，它將接受一個媒體查詢，並將返回該查詢是否...",
+      "title": "反應。媒體查詢的自定義鉤子📱💻"
+    }
+  ]
 }
