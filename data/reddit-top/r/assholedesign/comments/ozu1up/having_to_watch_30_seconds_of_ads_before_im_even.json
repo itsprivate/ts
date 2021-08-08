@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ガソリンを入れる前に30秒の広告を見なければならない WTF"
+    },
+    {
+      "locale": "zh",
+      "title": "在我能够使用加油机之前，不得不看30秒的广告 WTF"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在我能夠使用加油機之前，不得不看30秒的廣告 WTF"
+    }
+  ]
 }
