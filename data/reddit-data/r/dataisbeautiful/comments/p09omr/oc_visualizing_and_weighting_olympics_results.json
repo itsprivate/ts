@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] オリンピックの結果を視覚化（および重み付け）する"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]可视化（和加权）奥运会结果"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]可視化（和加權）奧運會結果"
+    }
+  ]
 }
