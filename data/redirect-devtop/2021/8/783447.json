@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-06T09:06:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8xNUdFRV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k7vkxfts8h2m6u9x0cc2.png",
   "author": "Abhishek Raj",
-  "author_url": "https://dev.to/abhishekraj272"
+  "author_url": "https://dev.to/abhishekraj272",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに フルスタックデベロッパーである私は、バックエンドデベロッパーのポジションに応募しました。",
+      "title": "バックエンド開発者(Node)のインタビューでよく聞かれる質問"
+    },
+    {
+      "locale": "zh",
+      "description": "简介作为一个全栈式的开发人员，我曾出现在后端开发的位置...",
+      "title": "后台开发人员的顶级面试问题(Node)"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介作爲一個全棧式的開發人員，我曾出現在後端開發的位置...",
+      "title": "後臺開發人員的頂級面試問題(Node)"
+    }
+  ]
 }

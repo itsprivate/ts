@@ -113,5 +113,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Sun Aug 08 01:40:04 +0000 2021"
+  "original_created_at": "Sun Aug 08 01:40:04 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "Moderna社のCovidワクチンによる保護機能は、2回目の接種後6ヶ月間は衰えないとのことです。\n\nこのデータは、昨年開始した臨床試験を新たに分析したものです。https://t.co/ziiUf6itFM"
+    },
+    {
+      "locale": "zh",
+      "full_text": "该公司在一份声明中说，Moderna公司的Covid疫苗提供的保护在第二针后的前六个月并没有减弱。\n\n这些数据来自对其去年开始的临床试验的新分析。https://t.co/ziiUf6itFM"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "該公司在一份聲明中說，Moderna公司的Covid疫苗提供的保護在第二針後的前六個月並沒有減弱。\n\n這些數據來自對其去年開始的臨牀試驗的新分析。https://t.co/ziiUf6itFM"
+    }
+  ]
 }
