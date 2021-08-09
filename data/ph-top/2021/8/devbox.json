@@ -137,5 +137,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-09T07:01:00Z"
+  "original_createdAt": "2021-08-09T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "デスクトップアプリケーション（Windows、macOS、Linuxに対応）で、ソフトウェア（エンコーダー、デコーダー、ジェネレーター、ビューアーなど）の小さな便利なコレクションです。",
+      "tagline": "日常的な開発者のための日常的なユーティリティ"
+    },
+    {
+      "locale": "zh",
+      "description": "一个小型有用的软件集合（编码器、解码器、生成器、查看器等）在一个桌面应用程序（支持Windows、macOS和Linux）。",
+      "tagline": "面向日常开发者的日常实用工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個小型有用的軟件集合（編碼器、解碼器、生成器、查看器等）在一個桌面應用程序（支持Windows、macOS和Linux）。",
+      "tagline": "面向日常開發者的日常實用工具"
+    }
+  ]
 }
