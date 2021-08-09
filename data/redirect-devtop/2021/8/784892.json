@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-08T03:04:26Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KJ6Us0yB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9hewrkzmzy77j8xfxdgw.png",
   "author": "Nicholas Mendez",
-  "author_url": "https://dev.to/snickdx"
+  "author_url": "https://dev.to/snickdx",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに 初心者にとって、JavaScriptで最も悪名高いgotchasの1つは、...という考えです。",
+      "title": "Asyncシリーズ。コールバック"
+    },
+    {
+      "locale": "zh",
+      "description": "简介 对于初学者来说，JavaScript中最臭名昭著的问题之一就是 \"不知道该怎么办\"。",
+      "title": "异步系列。回调"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介 對於初學者來說，JavaScript中最臭名昭著的問題之一就是 \"不知道該怎麼辦\"。",
+      "title": "異步系列。回調"
+    }
+  ]
 }
