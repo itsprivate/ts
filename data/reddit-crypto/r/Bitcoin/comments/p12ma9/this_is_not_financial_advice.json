@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これは財務上のアドバイスではありません"
+    },
+    {
+      "locale": "zh",
+      "title": "这不是财务建议"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這不是財務建議"
+    }
+  ]
 }
