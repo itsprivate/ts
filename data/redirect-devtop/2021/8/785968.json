@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-09T09:46:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PhPYrNT6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uedue3njlgaarep4hatc.png",
   "author": "Shubham Khatri",
-  "author_url": "https://dev.to/shubhamreacts"
+  "author_url": "https://dev.to/shubhamreacts",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "どのような言語でも、一般的には再利用可能なデザインソリューションを使用する傾向があります。",
+      "title": "JavaScriptにおけるObserverデザインパターン"
+    },
+    {
+      "locale": "zh",
+      "description": "在使用任何语言工作时，我们倾向于使用几个可重复使用的设计方案，以普遍地使用。",
+      "title": "JavaScript中的观察者设计模式"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在使用任何語言工作時，我們傾向於使用幾個可重複使用的設計方案，以普遍地使用。",
+      "title": "JavaScript中的觀察者設計模式"
+    }
+  ]
 }
