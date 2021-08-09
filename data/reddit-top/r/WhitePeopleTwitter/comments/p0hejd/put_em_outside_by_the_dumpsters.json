@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ゴミ箱のそばに置いておく"
+    },
+    {
+      "locale": "zh",
+      "title": "把它们放在外面的垃圾箱旁"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "把它們放在外面的垃圾箱旁"
+    }
+  ]
 }
