@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが何を"
+    },
+    {
+      "locale": "zh",
+      "title": "你在什么"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你在什麼"
+    }
+  ]
 }
