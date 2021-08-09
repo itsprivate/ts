@@ -134,5 +134,22 @@
     "retweet_count": 332,
     "favorite_count": 1421,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @DiligentNinja: https://t.co/q8ySV1yN8M",
+      "retweeted_status_full_text": "https://t.co/q8ySV1yN8M"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @DiligentNinja: https://t.co/q8ySV1yN8M",
+      "retweeted_status_full_text": "https://t.co/q8ySV1yN8M"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @DiligentNinja: https://t.co/q8ySV1yN8M",
+      "retweeted_status_full_text": "https://t.co/q8ySV1yN8M"
+    }
+  ]
 }
