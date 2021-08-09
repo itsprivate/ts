@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-08T07:05:00Z"
+  "original_createdAt": "2021-08-08T07:05:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "LiveMartはストアフロントを提供します。ストアフロントを使用すると、SSL＆CDNはonlivemart.storeのサブドメインをバックアップし、数分であなたのオンラインストアを作成することができます。また、カスタムドメインを設定することができます。",
+      "tagline": "数分で素晴らしいEコマースストアを構築"
+    },
+    {
+      "locale": "zh",
+      "description": "LiveMart提供店面。使用店面，你可以在几分钟内创建你的网上商店，并有SSL和CDN支持的子域onlivemart.store。您还可以配置自定义域名。",
+      "tagline": "在几分钟内建立惊人的电子商务商店"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "LiveMart提供店面。使用店面，你可以在幾分鐘內創建你的網上商店，並有SSL和CDN支持的子域onlivemart.store。您還可以配置自定義域名。",
+      "tagline": "在幾分鐘內建立驚人的電子商務商店"
+    }
+  ]
 }
