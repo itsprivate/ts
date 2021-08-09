@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "If someone asked you “What’s your favorite book? And why?” What’s your answer?"
+  "the_new_excerpt": "If someone asked you “What’s your favorite book? And why?” What’s your answer?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "もし誰かに「あなたの好きな本は何ですか？そしてその理由は？\" あなたは何と答えますか？",
+      "title": "Happy National Book Lovers Day!"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "如果有人问你 \"你最喜欢的书是什么？以及为什么？\" 你的答案是什么？",
+      "title": "全国爱书人日快乐!"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "如果有人問你 \"你最喜歡的書是什麼？以及爲什麼？\" 你的答案是什麼？",
+      "title": "全國愛書人日快樂!"
+    }
+  ]
 }
