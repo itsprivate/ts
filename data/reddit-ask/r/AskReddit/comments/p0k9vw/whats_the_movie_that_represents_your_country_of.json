@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの出身国を最もよく表している映画は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "什么电影能以最好的方式代表你的原籍国？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "什麼電影能以最好的方式代表你的原籍國？"
+    }
+  ]
 }
