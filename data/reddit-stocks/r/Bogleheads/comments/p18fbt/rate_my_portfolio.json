@@ -103,5 +103,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1628536884,
-  "the_new_excerpt": "100% VT"
+  "the_new_excerpt": "100% VT",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "100% VT",
+      "title": "私のポートフォリオを評価する"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "100%的VT",
+      "title": "给我的投资组合评分"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "100%的VT",
+      "title": "給我的投資組合評分"
+    }
+  ]
 }
