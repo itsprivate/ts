@@ -92,5 +92,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-09T09:52:56Z"
+  "original_createdAt": "2021-08-09T09:52:56Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Spotifyで最も聴かれている音楽を、曲とアーティストの両方で確認できます。また、最も聴いた曲からSpotifyのプレイリストを作成することもできます。",
+      "tagline": "Spotifyの統計情報とプレイリストメーカー"
+    },
+    {
+      "locale": "zh",
+      "description": "查看你在Spotify上听得最多的音乐，包括歌曲和艺术家。此外，还可以从你听得最多的歌曲中创建Spotify播放列表。",
+      "tagline": "Spotify统计和播放列表制作工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "查看你在Spotify上聽得最多的音樂，包括歌曲和藝術家。此外，還可以從你聽得最多的歌曲中創建Spotify播放列表。",
+      "tagline": "Spotify統計和播放列表製作工具"
+    }
+  ]
 }
