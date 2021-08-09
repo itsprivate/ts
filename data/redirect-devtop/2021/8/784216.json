@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-07T05:40:23Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Hby2RPeh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zw6ade965aztnwz1kur3.png",
   "author": "Nilanth",
-  "author_url": "https://dev.to/nilanth"
+  "author_url": "https://dev.to/nilanth",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "React Routerを使ってReactアプリにパブリックルートとプライベートルートを記述する手順 Reactアプリを開発する際に、React...",
+      "title": "React Routerを使ってパブリックルートとプライベートルートを作成する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "使用React Router在React应用中编写公共和私有路由的步骤 在开发React应用时，我们可以使用React...",
+      "title": "如何使用React Router创建公共和私人路由"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用React Router在React應用中編寫公共和私有路由的步驟 在開發React應用時，我們可以使用React...",
+      "title": "如何使用React Router創建公共和私人路由"
+    }
+  ]
 }
