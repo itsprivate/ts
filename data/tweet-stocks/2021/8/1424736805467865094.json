@@ -150,5 +150,22 @@
     "retweet_count": 158,
     "favorite_count": 3606,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @ParikPatelCFA: ここ数ヶ月、#BitcoinをHODLしていた私 https://t.co/Mjp2isppU5",
+      "retweeted_status_full_text": "ここ数ヶ月、#BitcoinをHODLした後の私 https://t.co/Mjp2isppU5"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @ParikPatelCFA: 在过去几个月里，我在HODLing我的#比特币后https://t.co/Mjp2isppU5。",
+      "retweeted_status_full_text": "在过去的几个月里，我在HODLing我的#比特币#后https://t.co/Mjp2isppU5。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @ParikPatelCFA: 在過去幾個月裏，我在HODLing我的#比特幣後https://t.co/Mjp2isppU5。",
+      "retweeted_status_full_text": "在過去的幾個月裏，我在HODLing我的#比特幣#後https://t.co/Mjp2isppU5。"
+    }
+  ]
 }
