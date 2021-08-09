@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-08T09:13:13Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--seCrYPpj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2lxwyawpp2oegbbnpjtm.png",
   "author": "Sankalp Swami",
-  "author_url": "https://dev.to/swamisankalp"
+  "author_url": "https://dev.to/swamisankalp",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Node.jsは、オープンソースでクロスプラットフォームのバックエンドJavaScript実行環境で、...",
+      "title": "2つの異なるデータベースに同時にデータを保存する方法 "
+    },
+    {
+      "locale": "zh",
+      "description": "Node.js是一个开源的、跨平台的、后端的JavaScript运行环境，运行在...",
+      "title": "我如何在两个不同的数据库中同时存储数据 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Node.js是一個開源的、跨平臺的、後端的JavaScript運行環境，運行在...",
+      "title": "我如何在兩個不同的數據庫中同時存儲數據 "
+    }
+  ]
 }
