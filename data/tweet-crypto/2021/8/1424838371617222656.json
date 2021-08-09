@@ -104,5 +104,22 @@
       "retweet_count": 838,
       "favorite_count": 4158
     }
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @jack: 💯 https://t.co/4wcgah2F4X",
+      "retweeted_status_full_text": "💯 https://t.co/4wcgah2F4X"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @jack: 💯 https://t.co/4wcgah2F4X",
+      "retweeted_status_full_text": "💯 https://t.co/4wcgah2F4X"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @jack: 💯 https://t.co/4wcgah2F4X",
+      "retweeted_status_full_text": "💯 https://t.co/4wcgah2F4X"
+    }
+  ]
 }
