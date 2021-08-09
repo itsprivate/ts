@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-09T07:05:00Z"
+  "original_createdAt": "2021-08-09T07:05:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "SnapCalorie」は、どんな食事でも写真を撮れば、正確なカロリー計算ができるアプリです。Google Lensの共同設立者によって作られたSnapCalorieは、数秒で食事の記録を取ることができ、平均して訓練を受けた栄養士よりも正確に記録することができます。",
+      "tagline": "写真1枚でカロリー計算"
+    },
+    {
+      "locale": "zh",
+      "description": "SnapCalorie是一个应用程序，你可以对任何食物拍照，并获得准确的卡路里计数。由Google Lens的联合创始人创建，用SnapCalorie记录一顿饭只需几秒钟，平均来说比受过训练的营养师更准确。",
+      "tagline": "用一张照片追踪卡路里"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "SnapCalorie是一個應用程序，你可以對任何食物拍照，並獲得準確的卡路里計數。由Google Lens的聯合創始人創建，用SnapCalorie記錄一頓飯只需幾秒鐘，平均來說比受過訓練的營養師更準確。",
+      "tagline": "用一張照片追蹤卡路里"
+    }
+  ]
 }
