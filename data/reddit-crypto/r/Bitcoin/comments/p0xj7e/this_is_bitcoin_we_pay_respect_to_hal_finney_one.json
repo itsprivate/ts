@@ -24,5 +24,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "This is Bitcoin. 私たちは、最初のビットコイン貢献者の一人であるHal Finneyに敬意を表します。彼はまた、ビットコインの生みの親であるサトシ・ナカモトから最初のビットコイン取引を受け取りました。- twitter.com/@ThrillerLN"
+    },
+    {
+      "locale": "zh",
+      "title": "这就是比特币。我们向首批比特币贡献者之一的哈尔-芬尼表示敬意。他还从比特币的创造者中本聪那里得到了第一笔比特币交易。- twitter.com/@ThrillerLN"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這就是比特幣。我們向首批比特幣貢獻者之一的哈爾-芬尼表示敬意。他還從比特幣的創造者中本聰那裏得到了第一筆比特幣交易。- twitter.com/@ThrillerLN"
+    }
+  ]
 }

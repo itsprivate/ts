@@ -96,5 +96,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-09T10:55:57Z"
+  "original_createdAt": "2021-08-09T10:55:57Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ReadMarkは、「マーク可能」なRSSリーダーです。他のRSSリーダーや既読サービスが提供する基本的な機能に加えて、ReadMarkは独自に、スムーズで気が散らないメモ取り体験「マーク」を提供します。ぜひお試しください。",
+      "tagline": "マーカブルなRSSリーダーです。"
+    },
+    {
+      "locale": "zh",
+      "description": "ReadMark是一个RSS阅读器，它是...可标记的。除了其他RSS阅读器和延迟阅读服务所提供的基本功能外，ReadMark独特地提供了一个流畅和无干扰的笔记体验，\"标记\"。试试吧!",
+      "tagline": "一个可标记的RSS阅读器。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "ReadMark是一個RSS閱讀器，它是...可標記的。除了其他RSS閱讀器和延遲閱讀服務所提供的基本功能外，ReadMark獨特地提供了一個流暢和無干擾的筆記體驗，\"標記\"。試試吧!",
+      "tagline": "一個可標記的RSS閱讀器。"
+    }
+  ]
 }
