@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "何千人もの患者が、FDAが危険性を認識していた心臓ポンプを移植されていた"
+    },
+    {
+      "locale": "zh",
+      "title": "数以千计的患者被植入了美国食品和药物管理局明知可能有危险的心脏泵。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "數以千計的患者被植入了美國食品和藥物管理局明知可能有危險的心臟泵。"
+    }
+  ]
 }
