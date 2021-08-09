@@ -50,5 +50,22 @@
   "original_created_at": "2021-08-08T06:37:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CTzPbxlf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/su8cknypn53snlrctwgg.png",
   "author": "Mads Stoumann",
-  "author_url": "https://dev.to/madsstoumann"
+  "author_url": "https://dev.to/madsstoumann",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ヴァルテックのテクニカル・ディレクターとして7年間働いた後、私はフリーランスになることを決めました...再び（...",
+      "title": "The Frontend Agency"
+    },
+    {
+      "locale": "zh",
+      "description": "在Valtech公司担任了7年的技术总监后，我决定再次成为自由职业者...（我...",
+      "title": "前端机构"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在Valtech公司擔任了7年的技術總監後，我決定再次成爲自由職業者...（我...",
+      "title": "前端機構"
+    }
+  ]
 }
