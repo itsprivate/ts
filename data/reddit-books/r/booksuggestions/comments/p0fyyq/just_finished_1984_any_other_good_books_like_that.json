@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Recommend some books for me please"
+  "the_new_excerpt": "Recommend some books for me please",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "おすすめの本を教えてください",
+      "title": "ちょうど1984年を終えたところですが、他にもこのような良い本はありますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "请为我推荐一些书籍",
+      "title": "刚刚完成的《1984》还有其他类似的好书吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "請爲我推薦一些書籍",
+      "title": "剛剛完成的《1984》還有其他類似的好書嗎？"
+    }
+  ]
 }
