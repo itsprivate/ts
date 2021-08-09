@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-07T12:23:43Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nuQWkezG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7yjisjpzrmlot0s1ge00.png",
   "author": "_CODE",
-  "author_url": "https://dev.to/underscorecode"
+  "author_url": "https://dev.to/underscorecode",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは。👋 そして、Styled Components 101シリーズの第3回目の講義にようこそ🙌 今回は...",
+      "title": "Styled Components 101 💅 Lecture 3: SSR with Next.js + Custom Icon Fonts 😍。"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好! 👋 欢迎来到《风格化组件101》系列的第3讲 🙌 在这一讲中，我们将介绍我们的产品。",
+      "title": "风格化组件101 💅 第3讲：SSR与Next.js+自定义图标字体😍"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好! 👋 歡迎來到《風格化組件101》系列的第3講 🙌 在這一講中，我們將介紹我們的產品。",
+      "title": "風格化組件101 💅 第3講：SSR與Next.js+自定義圖標字體😍"
+    }
+  ]
 }
