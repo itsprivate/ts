@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-08T07:30:04Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7xNNYLRR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/un7s6kjnt4cu0sw048jb.png",
   "author": "KR Tirtho",
-  "author_url": "https://dev.to/krtirtho"
+  "author_url": "https://dev.to/krtirtho",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Nestjsはサーバーサイドのフレームワークで、よく「サーバーサイドのAngular」という言葉と混同されますが、...",
+      "title": "Nestjs🐺⚡｜Nodejsのフレームワーク(Part-1)"
+    },
+    {
+      "locale": "zh",
+      "description": "Nestjs是一个服务器端框架，经常与 \"服务器端Angular \"一词混淆，尽管...",
+      "title": "Nestjs⚡ | Nodejs的框架 (第一部分)"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Nestjs是一個服務器端框架，經常與 \"服務器端Angular \"一詞混淆，儘管...",
+      "title": "Nestjs⚡ | Nodejs的框架 (第一部分)"
+    }
+  ]
 }

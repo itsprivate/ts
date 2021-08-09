@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-08T20:29:58Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--k617tbpK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/766iodze3iduocrtst8p.png",
   "author": "Anmol Raj",
-  "author_url": "https://dev.to/anmolraj"
+  "author_url": "https://dev.to/anmolraj",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JavaScript Basics JavaScriptの基本的な構文を追加、実行、記述するためのセット...",
+      "title": "初心者から上級者までのJavaScript Cheatsheet..."
+    },
+    {
+      "locale": "zh",
+      "description": "JavaScript基础知识 一套JavaScript基本语法，用于添加、执行和编写基本...",
+      "title": "从初学者到进阶者的JavaScript Cheatsheet..."
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "JavaScript基礎知識 一套JavaScript基本語法，用於添加、執行和編寫基本...",
+      "title": "從初學者到進階者的JavaScript Cheatsheet..."
+    }
+  ]
 }
