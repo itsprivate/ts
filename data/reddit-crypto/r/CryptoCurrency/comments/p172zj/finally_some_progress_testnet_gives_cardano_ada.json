@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "やっとこさの進展です。テストネットでは、カルダノ（ADA）に初のスマートコントラクトを付与。Alonzo Purpleのテストネットが稼働しました。"
+    },
+    {
+      "locale": "zh",
+      "title": "终于有了一些进展! 测试网让Cardano（ADA）有了第一个智能合约。Alonzo Purple测试网现在已经启动并运行。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "終於有了一些進展! 測試網讓Cardano（ADA）有了第一個智能合約。Alonzo Purple測試網現在已經啓動並運行。"
+    }
+  ]
 }
