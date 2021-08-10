@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"I love the poorly educated\""
+    },
+    {
+      "locale": "zh",
+      "title": "\"我喜欢受教育程度低的人\""
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"我喜歡受教育程度低的人\""
+    }
+  ]
 }
