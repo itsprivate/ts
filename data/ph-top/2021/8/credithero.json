@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-10T08:55:04Z"
+  "original_createdAt": "2021-08-10T08:55:04Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "AWSの無料クレジットが不足していませんか？CreditHeroでは、最大2000ドル/月の追加利用が可能です。スタートアップ企業のうち、クレジットを使い切るのはわずか25%です。CreditHeroは、あなたのスタックを他の参加スタートアップのAWSアカウントにデプロイします - 簡単です!",
+      "tagline": "AWSのフリークレジットを延長する"
+    },
+    {
+      "locale": "zh",
+      "description": "AWS的免费点数用完了？有了CreditHero，你可以使用高达2000美元/月的额外费用。只有25%的初创企业花光了他们的信用额度。CreditHero将你的堆栈部署到另一个参与的初创企业的AWS账户中--简单！这就是CreditHero。",
+      "tagline": "延长您的AWS免费点数"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "AWS的免費點數用完了？有了CreditHero，你可以使用高達2000美元/月的額外費用。只有25%的初創企業花光了他們的信用額度。CreditHero將你的堆棧部署到另一個參與的初創企業的AWS賬戶中--簡單！這就是CreditHero。",
+      "tagline": "延長您的AWS免費點數"
+    }
+  ]
 }
