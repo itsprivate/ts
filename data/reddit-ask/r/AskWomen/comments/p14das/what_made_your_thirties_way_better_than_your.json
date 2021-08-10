@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "And why?"
+  "the_new_excerpt": "And why?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "その理由は？",
+      "title": "20代よりも30代の方が良かった点は？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么呢？",
+      "title": "是什么让你的三十岁比你的二十岁要好？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼呢？",
+      "title": "是什麼讓你的三十歲比你的二十歲要好？"
+    }
+  ]
 }
