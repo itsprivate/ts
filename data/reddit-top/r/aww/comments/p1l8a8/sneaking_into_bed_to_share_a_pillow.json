@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ベッドに忍び込んで枕を共有する"
+    },
+    {
+      "locale": "zh",
+      "title": "偷偷溜到床上共用一个枕头"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "偷偷溜到牀上共用一個枕頭"
+    }
+  ]
 }
