@@ -113,5 +113,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Tue Aug 10 05:30:06 +0000 2021"
+  "original_created_at": "Tue Aug 10 05:30:06 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "このケーキは夏にローフパンで作ります。デザートやおやつとして食べるのはもちろんですが、熱いコーヒーや紅茶と一緒に朝食に食べると特に美味しいですよ。https://t.co/wsI1SIWcT6"
+    },
+    {
+      "locale": "zh",
+      "full_text": "这个蛋糕是夏天用面包盘做的。把它作为甜点或零食吃，但在早餐时配上热咖啡或茶特别好。https://t.co/wsI1SIWcT6"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "這個蛋糕是夏天用麪包盤做的。把它作爲甜點或零食喫，但在早餐時配上熱咖啡或茶特別好。https://t.co/wsI1SIWcT6"
+    }
+  ]
 }

@@ -199,5 +199,22 @@
     "retweet_count": 418,
     "favorite_count": 1934,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @Nakadai_mon: インターステラー・セイラー。\n#ビットコイン #ハイパービットコイン化 #21ミリオン\n\ncc @michael_saylor https://t.co/GflYJpDbho",
+      "retweeted_status_full_text": "インターステラー・セイラー\n#ビットコイン #ハイパービットコイン化 #21ミリオン\n\ncc @michael_saylor https://t.co/GflYJpDbho"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @Nakadai_mon: Interstellar Saylor.\n#比特币#超比特币化#21Million\n\ncc @michael_saylor https://t.co/GflYJpDbho",
+      "retweeted_status_full_text": "星际赛尔。\n#比特币#超比特币化#21Million\n\ncc @michael_saylor https://t.co/GflYJpDbho"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @Nakadai_mon: Interstellar Saylor.\n#比特幣#超比特幣化#21Million\n\ncc @michael_saylor https://t.co/GflYJpDbho",
+      "retweeted_status_full_text": "星際賽爾。\n#比特幣#超比特幣化#21Million\n\ncc @michael_saylor https://t.co/GflYJpDbho"
+    }
+  ]
 }
