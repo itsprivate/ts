@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-02T15:24:23Z",
   "image": "https://dev.to/social_previews/article/779427.png",
   "author": "Clean Code Studio",
-  "author_url": "https://dev.to/cleancodestudio"
+  "author_url": "https://dev.to/cleancodestudio",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "確かに、ブラウザもnode.jsもJavaScriptというソフトウェア言語を使用していますが、リテラルランタイム...",
+      "title": "Node.jsとブラウザの違い"
+    },
+    {
+      "locale": "zh",
+      "description": "是的，浏览器和node.js都使用JavaScript软件语言--但字面上的运行时间...",
+      "title": "Node.js和浏览器之间的差异"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "是的，瀏覽器和node.js都使用JavaScript軟件語言--但字面上的運行時間...",
+      "title": "Node.js和瀏覽器之間的差異"
+    }
+  ]
 }
