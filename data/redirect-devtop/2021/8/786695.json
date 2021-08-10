@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-10T03:26:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_PmuVRKi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/odisyn3acqovrzdd06rs.png",
   "author": "Eugene Kopich",
-  "author_url": "https://dev.to/web2033"
+  "author_url": "https://dev.to/web2033",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Vue.js 3.2 \"Quintessential Quintuplets \"のリリースを発表できることを嬉しく思います。このリリースには、多くの重要な新機能とパフォーマンスの向上が含まれており、破壊的な変更は含まれていません。",
+      "title": "Vue 3.2がリリースされました。"
+    },
+    {
+      "locale": "zh",
+      "description": "我们很高兴地宣布Vue.js 3.2 \"Quintessential Quintuplets \"的发布! 这个版本包括许多重要的新功能和性能改进，并且不包含任何破坏性的变化。",
+      "title": "Vue 3.2发布了!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們很高興地宣佈Vue.js 3.2 \"Quintessential Quintuplets \"的發佈! 這個版本包括許多重要的新功能和性能改進，並且不包含任何破壞性的變化。",
+      "title": "Vue 3.2發佈了!"
+    }
+  ]
 }
