@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-10T07:50:12Z",
   "image": "https://dev.to/social_previews/article/786917.png",
   "author": "Ismaili Simba",
-  "author_url": "https://dev.to/ismailisimba"
+  "author_url": "https://dev.to/ismailisimba",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、マウスの水平スクロールを特徴とする美しいhtml5テンプレートをここで見つけました。私は...",
+      "title": "HTML、CSS、JavaScriptによるマウスの水平スクロールの実現"
+    },
+    {
+      "locale": "zh",
+      "description": "我最近在这里发现了一个漂亮的html5模板，其特点是鼠标水平滚动。我不...",
+      "title": "用HTML、CSS和JavaScript实现鼠标的水平滚动"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我最近在這裏發現了一個漂亮的html5模板，其特點是鼠標水平滾動。我不...",
+      "title": "用HTML、CSS和JavaScript實現鼠標的水平滾動"
+    }
+  ]
 }
