@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "If you order something, it gets delayed, but you already informed amazon that I\ngot lost in the mail. Now they sent you the thing again, and you have it twice.\nAt this point you should keep it.\n\nWhy YSK: If you give it back, it will likely go to a landfill. Even if it gets\nsold again, it will cost…"
+  "the_new_excerpt": "If you order something, it gets delayed, but you already informed amazon that I\ngot lost in the mail. Now they sent you the thing again, and you have it twice.\nAt this point you should keep it.\n\nWhy YSK: If you give it back, it will likely go to a landfill. Even if it gets\nsold again, it will cost…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "注文すると遅れてしまうのですが、すでにamazonには「メールが届かない」と連絡してありました。\n迷子になりました。それがまた送られてきて、2回持っていることになります。\nこの時点で、あなたはそれを持っているべきです。\n\nなぜYSKなのかというと、返却するとゴミ処理場行きになってしまうからです。仮に再販されたとしても\n売るにしてもコストがかかりますよね。",
+      "title": "YSK: もし、amazonで2回買い物をしたら、そのままにしておいてください。彼らは戻ってくることを望んでいません。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "如果你订购的东西，它被延迟，但你已经通知亚马逊，我\n在邮件中丢失了。现在他们又把东西寄给了你，而你有了两次。\n在这一点上，你应该保留它。\n\n为什么是YSK：如果你把它送回去，它很可能会被送到垃圾场。即使它被\n再卖出去，它也要花费...",
+      "title": "YSK：如果你从亚马逊买了两次东西，就保留它。他们不希望它被退回。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "如果你訂購的東西，它被延遲，但你已經通知亞馬遜，我\n在郵件中丟失了。現在他們又把東西寄給了你，而你有了兩次。\n在這一點上，你應該保留它。\n\n爲什麼是YSK：如果你把它送回去，它很可能會被送到垃圾場。即使它被\n再賣出去，它也要花費...",
+      "title": "YSK：如果你從亞馬遜買了兩次東西，就保留它。他們不希望它被退回。"
+    }
+  ]
 }
