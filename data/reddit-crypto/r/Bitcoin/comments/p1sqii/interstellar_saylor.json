@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "インターステラー・セイラー"
+    },
+    {
+      "locale": "zh",
+      "title": "星际赛勒"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "星際賽勒"
+    }
+  ]
 }

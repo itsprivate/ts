@@ -13,5 +13,19 @@
   ],
   "objectID": "28128476",
   "original_created_at": "2021-08-10T13:22:01.000Z",
-  "image": "https://tech.marksblogg.com/theme/images/mark.jpg"
+  "image": "https://tech.marksblogg.com/theme/images/mark.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "MinIO: AWS S3のためのベアメタル・ドロップイン"
+    },
+    {
+      "locale": "zh",
+      "title": "MinIO：AWS S3的裸机插件"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "MinIO：AWS S3的裸機插件"
+    }
+  ]
 }

@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これはちょっと健全なものだと思いました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我认为这是很健康的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我認爲這是很健康的。"
+    }
+  ]
 }
