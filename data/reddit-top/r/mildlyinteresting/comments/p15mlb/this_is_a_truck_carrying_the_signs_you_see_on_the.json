@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "高速道路で見かける看板を運ぶトラックです"
+    },
+    {
+      "locale": "zh",
+      "title": "这是一辆载着你在州际公路上看到的标志的卡车"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是一輛載着你在州際公路上看到的標誌的卡車"
+    }
+  ]
 }
