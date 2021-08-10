@@ -47,5 +47,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "I finally launched my first ever game https://werlocks.io\n[https://werlocks.io?s=sideproject]! I've been programming for awhile now, but\nI've never attempted anything game related. I had no idea what to expect and I\nknew absolutely nothing about the technology it takes to make…"
+  "the_new_excerpt": "I finally launched my first ever game https://werlocks.io\n[https://werlocks.io?s=sideproject]! I've been programming for awhile now, but\nI've never attempted anything game related. I had no idea what to expect and I\nknew absolutely nothing about the technology it takes to make…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ついに初のゲームを発売しました！ https://werlocks.io\n[https://werlocks.io?s=sideproject]! 私は今までプログラミングをしてきましたが\nゲームに関することはやったことがありませんでした。何が起こるかわからないし\n作るのに必要な技術についても全く知りませんでした...",
+      "title": "私はこの1年間、マルチプレイヤーのウェブゲームをTypescript/Nodeで作っていました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我终于推出了我的第一个游戏https://werlocks.io\n[https://werlocks.io?s=sideproject]! 我从事编程已经有一段时间了，但\n我从来没有尝试过与游戏有关的东西。我不知道该期待什么，也不知道\n我对制作游戏所需的技术完全一无所知...",
+      "title": "在过去的一年里，我用Typescript/Node构建了一个多人网页游戏。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我終於推出了我的第一個遊戲https://werlocks.io\n[https://werlocks.io?s=sideproject]! 我從事編程已經有一段時間了，但\n我從來沒有嘗試過與遊戲有關的東西。我不知道該期待什麼，也不知道\n我對製作遊戲所需的技術完全一無所知...",
+      "title": "在過去的一年裏，我用Typescript/Node構建了一個多人網頁遊戲。"
+    }
+  ]
 }
