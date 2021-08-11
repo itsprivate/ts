@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-11T07:01:00Z"
+  "original_createdAt": "2021-08-11T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Fusebot: SlackとDiscordのための究極の開発者ボット。Node.jsでカスタムコマンドを書きます。SlackやDiscord上で何でも自動化、統合、実行できます。サーバーは必要ありません。あなたがコードを書けるなら、Fusebotはそれを実行できます。✨",
+      "tagline": "Slack/Discord上のあらゆるものを数秒で統合・自動化します。"
+    },
+    {
+      "locale": "zh",
+      "description": "Fusebot。用于Slack和Discord的终极开发者机器人。在Node.js中编写自定义命令。在Slack或Discord上实现自动化、集成和做任何事情。不需要服务器。如果你能编码，Fusebot可以运行它。✨",
+      "tagline": "在几秒钟内整合并自动处理Slack/Discord上的任何事情"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Fusebot。用於Slack和Discord的終極開發者機器人。在Node.js中編寫自定義命令。在Slack或Discord上實現自動化、集成和做任何事情。不需要服務器。如果你能編碼，Fusebot可以運行它。✨",
+      "tagline": "在幾秒鐘內整合並自動處理Slack/Discord上的任何事情"
+    }
+  ]
 }
