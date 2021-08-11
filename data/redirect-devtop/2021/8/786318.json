@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-09T17:19:57Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vl6-6L7T--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/swr2w5zvn1dkq2h5ztkz.png",
   "author": "Jakub Jabłoński",
-  "author_url": "https://dev.to/jjablonskiit"
+  "author_url": "https://dev.to/jjablonskiit",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに これは、3つの最も一般的なプログラミング言語の違いを示す実例です。",
+      "title": "関数型 vs オブジェクト指向 vs 手続き型プログラミング\n"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍 这是一个现实生活中的例子，显示了三种最常见的编程方式的差异。",
+      "title": "功能性编程 VS 面向对象编程 VS 程序性编程\n"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹 這是一個現實生活中的例子，顯示了三種最常見的編程方式的差異。",
+      "title": "功能性編程 VS 面向對象編程 VS 程序性編程\n"
+    }
+  ]
 }
