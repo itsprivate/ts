@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "最悪の関係の中で、一番良かった点は何ですか？あなたの最高の人間関係の最悪の側面は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你最糟糕的关系中最好的方面是什么？你最好的方面是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你最糟糕的關係中最好的方面是什麼？你最好的方面是什麼？"
+    }
+  ]
 }
