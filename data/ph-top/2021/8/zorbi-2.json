@@ -86,5 +86,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-11T07:01:00Z"
+  "original_createdAt": "2021-08-11T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "🧠 Zorbiは、忘れたときにだけ表示されるフラッシュカードで勉強を簡単にします。事前に作成されたデッキをインポートし、進捗状況を確認しながら、NotionのノートやあらゆるWebサイト/PDFからシームレスにカードを作成できます。",
+      "tagline": "NotionまたはChromeから間隔を空けた反復のフラッシュカードを作る"
+    },
+    {
+      "locale": "zh",
+      "description": "🧠Zorbi通过闪卡使学习变得简单，只有在你忘记时才显示出来。导入预制卡组，跟踪你的进度，并从你的Notion笔记或任何网站/PDF中无缝制作卡片。",
+      "tagline": "从Notion或Chrome中制作间隔重复的闪卡"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "🧠Zorbi通過閃卡使學習變得簡單，只有在你忘記時才顯示出來。導入預製卡組，跟蹤你的進度，並從你的Notion筆記或任何網站/PDF中無縫製作卡片。",
+      "tagline": "從Notion或Chrome中製作間隔重複的閃卡"
+    }
+  ]
 }
