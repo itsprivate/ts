@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "The general narrative about Bitcoin seems to be, that Bitcoin got rid of the\nmiddle-man, aka people that you have to pay money to process your transactions\nand that can, in theory, censor you. Even the 2008 Bitcoin white-paper is titled\n“Bitcoin: A Peer-to-Peer Electronic Cash System”, implying that…"
+  "the_new_excerpt": "The general narrative about Bitcoin seems to be, that Bitcoin got rid of the\nmiddle-man, aka people that you have to pay money to process your transactions\nand that can, in theory, censor you. Even the 2008 Bitcoin white-paper is titled\n“Bitcoin: A Peer-to-Peer Electronic Cash System”, implying that…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ビットコインに関する一般的な物語は、「ビットコインは中間層を取り除いた」というものだと思われます。\nつまり、取引を処理するためにお金を払わなければならず、理論的にはあなたを検閲することができる人々です。\nつまり、取引を処理するためにお金を払わなければならず、理論的にはあなたを検閲できる人たちです。2008年に発行されたビットコインのホワイトペーパーのタイトルも\n\"Bitcoin: A Peer-to-Peer Electronic Cash System \"と題されていますが、これはつまり",
+      "title": "不人気な意見。ビットコインは中間業者を排除できなかった"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "关于比特币的一般说法似乎是，比特币摆脱了\n中间人，也就是那些你必须付钱给他们来处理你的交易的人\n理论上，他们可以审查你。甚至2008年的比特币白皮书的标题也是\n\"比特币：一个点对点的电子现金系统\"，暗示...",
+      "title": "不受欢迎的意见。比特币没有摆脱中间人的束缚"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "關於比特幣的一般說法似乎是，比特幣擺脫了\n中間人，也就是那些你必須付錢給他們來處理你的交易的人\n理論上，他們可以審查你。甚至2008年的比特幣白皮書的標題也是\n\"比特幣：一個點對點的電子現金系統\"，暗示...",
+      "title": "不受歡迎的意見。比特幣沒有擺脫中間人的束縛"
+    }
+  ]
 }
