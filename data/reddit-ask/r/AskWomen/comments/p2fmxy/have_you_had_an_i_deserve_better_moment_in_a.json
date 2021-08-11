@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたは、恋愛において「もっといい人がいるはず」と思ったことがありますか？それは何でしたか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你在一段关系中是否有过 \"我应该得到更好的 \"的时刻？它是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你在一段關係中是否有過 \"我應該得到更好的 \"的時刻？它是什麼？"
+    }
+  ]
 }
