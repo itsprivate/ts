@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-11T07:10:35Z"
+  "original_createdAt": "2021-08-11T07:10:35Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "OpenAIのCodexは、英語で書かれたテキストをコードに翻訳する新しい機械学習ツールです。Codexは、プロのプログラマーの作業をスピードアップするだけでなく、アマチュアがコーディングを始めるのにも役立つように設計されています。",
+      "tagline": "あなたのためにコードを書いてくれるAI"
+    },
+    {
+      "locale": "zh",
+      "description": "OpenAI的Codex是一个新的机器学习工具，可以将你的英文文本翻译成代码。Codex旨在加快专业程序员的工作，同时也帮助业余爱好者开始编码。",
+      "tagline": "为你写代码的人工智能"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "OpenAI的Codex是一個新的機器學習工具，可以將你的英文文本翻譯成代碼。Codex旨在加快專業程序員的工作，同時也幫助業餘愛好者開始編碼。",
+      "tagline": "爲你寫代碼的人工智能"
+    }
+  ]
 }

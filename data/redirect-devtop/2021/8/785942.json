@@ -50,5 +50,22 @@
   "original_created_at": "2021-08-09T09:02:27Z",
   "image": "https://dev.to/social_previews/article/785942.png",
   "author": "Lina Jelinčić",
-  "author_url": "https://dev.to/linajelincic"
+  "author_url": "https://dev.to/linajelincic",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "例えば、クライアントから「画像がアップロードされたら、何か処理をしてほしい」という要望があったとします。",
+      "title": "Symfonyのメッセンジャーコンポーネントによるバックグラウンドジョブ"
+    },
+    {
+      "locale": "zh",
+      "description": "比方说，你的客户提出了这样的要求：每当有图片上传时，对其进行处理。",
+      "title": "使用Symfony信使组件的背景工作"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "比方說，你的客戶提出了這樣的要求：每當有圖片上傳時，對其進行處理。",
+      "title": "使用Symfony信使組件的背景工作"
+    }
+  ]
 }

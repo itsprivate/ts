@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私はFacebookのオーディエンスを自動化するツールを作っています -- Facebookページに新しいビデオをアップロードすると、自動的に人々をカスタムオーディエンスに追加します🚀。"
+    },
+    {
+      "locale": "zh",
+      "title": "我创建了一个工具来自动化Facebook受众 -- 当你向你的Facebook页面上传一个新的视频时，它会自动将人们添加到一个自定义的受众中 🚀"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我創建了一個工具來自動化Facebook受衆 -- 當你向你的Facebook頁面上傳一個新的視頻時，它會自動將人們添加到一個自定義的受衆中 🚀"
+    }
+  ]
 }
