@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-10T11:50:50Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--feaIhCSk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ajwl1vnktgu11rinircy.jpeg",
   "author": "Kumar Nitesh",
-  "author_url": "https://dev.to/knitesh"
+  "author_url": "https://dev.to/knitesh",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私は今、自分のプロジェクトのためにスタイルガイドを作成しているところで、オンラインで既存のスタイルガイドを探し始めました。",
+      "title": "Reactスタイルガイド集"
+    },
+    {
+      "locale": "zh",
+      "description": "我正在为我的反应项目创建风格指南，并开始在网上寻找已经...",
+      "title": "React风格指南集"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我正在爲我的反應項目創建風格指南，並開始在網上尋找已經...",
+      "title": "React風格指南集"
+    }
+  ]
 }

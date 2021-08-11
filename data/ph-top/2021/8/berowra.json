@@ -103,5 +103,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-11T07:04:15Z"
+  "original_createdAt": "2021-08-11T07:04:15Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Berowraは、趣味や小規模ビジネスのためのオープンソースCMSで、わずか3分でコンテンツの上に構築を始めることができます。API、ファイルホスティング、Markdownサポートなどが付属しています。現時点では、Deta Spaceでベータ版が公開されています。",
+      "tagline": "最終的には楽しめるオープンソースのCMS"
+    },
+    {
+      "locale": "zh",
+      "description": "Berowra是一个为业余爱好者和小型企业提供的开源CMS，使他们能够在短短三分钟内开始在他们的内容之上进行建设。它有一个API，文件托管，支持Markdown和更多! 目前，它正在Deta Space上进行测试。",
+      "tagline": "一个你最终会喜欢的开源CMS"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Berowra是一個爲業餘愛好者和小型企業提供的開源CMS，使他們能夠在短短三分鐘內開始在他們的內容之上進行建設。它有一個API，文件託管，支持Markdown和更多! 目前，它正在Deta Space上進行測試。",
+      "tagline": "一個你最終會喜歡的開源CMS"
+    }
+  ]
 }
