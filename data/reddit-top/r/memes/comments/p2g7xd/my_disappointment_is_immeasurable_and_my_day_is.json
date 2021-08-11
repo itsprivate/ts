@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "悔しさは計り知れず、一日が台無しです。"
+    },
+    {
+      "locale": "zh",
+      "title": "我的失望是不可估量的，我的一天被毁了。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我的失望是不可估量的，我的一天被毀了。"
+    }
+  ]
 }
