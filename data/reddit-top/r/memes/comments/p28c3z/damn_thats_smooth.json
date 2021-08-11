@@ -65,5 +65,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "スムーズですね"
+    },
+    {
+      "locale": "zh",
+      "title": "该死的，这很顺利"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "該死的，這很順利"
+    }
+  ]
 }
