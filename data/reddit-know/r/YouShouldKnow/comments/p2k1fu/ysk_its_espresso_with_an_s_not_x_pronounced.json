@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Why YSK: because apparently this is not common knowledge. I watch tons of recipe\nvideos online and I promise you, people still say expresso."
+  "the_new_excerpt": "Why YSK: because apparently this is not common knowledge. I watch tons of recipe\nvideos online and I promise you, people still say expresso.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "なぜYSKなのかというと、どうやらこれは一般的な知識ではないようだからです。私はオンラインで何度もレシピビデオを見ました。\nネット上のレシピ動画を見ていても、未だにみんな「expresso」と言っています。",
+      "title": "YSK: \"エスプレッソ \"です。X.... \"S-press-O \"と発音するのではなく、Sをつけて。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么是YSK：因为显然这不是常识。我在网上看了大量的食谱\n的视频，我向你保证，人们仍然说Expresso。",
+      "title": "YSK：是浓缩咖啡。不是X....，发音为 \"S-press-O\""
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼是YSK：因爲顯然這不是常識。我在網上看了大量的食譜\n的視頻，我向你保證，人們仍然說Expresso。",
+      "title": "YSK：是濃縮咖啡。不是X....，發音爲 \"S-press-O\""
+    }
+  ]
 }

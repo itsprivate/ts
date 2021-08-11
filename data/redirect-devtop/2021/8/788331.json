@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-11T11:37:52Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PS_pgVWE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ixqe0nppd83526d4cgwv.png",
   "author": "Tien Nguyen",
-  "author_url": "https://dev.to/tienbku"
+  "author_url": "https://dev.to/tienbku",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このチュートリアルでは、MySQLを使ったシンプルなNode.jsのCRUD操作を構築する手順を説明します...",
+      "title": "MySQLによるNode.jsのCRUD操作の例"
+    },
+    {
+      "locale": "zh",
+      "description": "本教程将指导你完成用MySQL构建一个简单的Node.js CRUD操作的步骤。",
+      "title": "Node.js与MySQL的CRUD操作实例"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "本教程將指導你完成用MySQL構建一個簡單的Node.js CRUD操作的步驟。",
+      "title": "Node.js與MySQL的CRUD操作實例"
+    }
+  ]
 }
