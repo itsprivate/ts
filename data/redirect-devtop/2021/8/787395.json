@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-10T14:46:25Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qa88qLfw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://coursetro.s3.amazonaws.com/stuff/Untitled-1.jpg",
   "author": "designcourse",
-  "author_url": "https://dev.to/designcourse"
+  "author_url": "https://dev.to/designcourse",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "DesignCourse YouTubeちゃんのゲイリーです。2083年の架空のSF設定でUIデザインを教える「The Boja」という新シリーズを作っています。",
+      "title": "UIデザインを学ぶレトロSFシリーズを作っています（予告編"
+    },
+    {
+      "locale": "zh",
+      "description": "我是DesignCourse YouTube频道的Gary，我正在创建一个名为 \"The Boja \"的新系列，我在2083年的一个虚构的科幻环境中教授UI设计。",
+      "title": "我正在制作一个复古科幻系列，教授UI设计（预告片）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我是DesignCourse YouTube頻道的Gary，我正在創建一個名爲 \"The Boja \"的新系列，我在2083年的一個虛構的科幻環境中教授UI設計。",
+      "title": "我正在製作一個復古科幻系列，教授UI設計（預告片）。"
+    }
+  ]
 }
