@@ -98,5 +98,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-11T15:14:10Z"
+  "original_createdAt": "2021-08-11T15:14:10Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Hiro Walletは、STXを管理し、分散型アプリにサインインし、Stacksブロックチェーンと対話しながら資金を保護する安全な方法です。",
+      "tagline": "ChromeやFirefoxでStacksを使って構築されたDeFiやWeb 3アプリにアクセス可能"
+    },
+    {
+      "locale": "zh",
+      "description": "Hiro钱包是管理你的STX的安全方式，签入去中心化的应用程序，并在与Stacks区块链互动时保护你的资金。",
+      "tagline": "在Chrome和Firefox中访问用Stacks构建的DeFi和Web 3应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Hiro錢包是管理你的STX的安全方式，簽入去中心化的應用程序，並在與Stacks區塊鏈互動時保護你的資金。",
+      "tagline": "在Chrome和Firefox中訪問用Stacks構建的DeFi和Web 3應用程序"
+    }
+  ]
 }
