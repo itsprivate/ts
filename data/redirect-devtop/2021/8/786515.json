@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-09T19:18:17Z",
   "image": "https://dev.to/social_previews/article/786515.png",
   "author": "Nditah",
-  "author_url": "https://dev.to/nditah"
+  "author_url": "https://dev.to/nditah",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに Prismaは、Rustで書かれたNodejsとTypeScriptのためのオープンソースのORMです。Prismaは...",
+      "title": "Node、Prisma、PostgreSQLでREST APIを構築する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "引言 Prisma是一个用Rust编写的用于Nodejs和TypeScript的开源ORM。它是由Rust编写的。",
+      "title": "如何用Node、Prisma和PostgreSQL构建REST API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "引言 Prisma是一個用Rust編寫的用於Nodejs和TypeScript的開源ORM。它是由Rust編寫的。",
+      "title": "如何用Node、Prisma和PostgreSQL構建REST API"
+    }
+  ]
 }
