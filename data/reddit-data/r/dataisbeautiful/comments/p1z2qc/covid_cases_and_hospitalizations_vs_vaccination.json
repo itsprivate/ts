@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "COVIDの症例および入院数と、州ごとのワクチン接種率の比較 [OC)"
+    },
+    {
+      "locale": "zh",
+      "title": "每个州的COVID病例和住院人数与疫苗接种率[OC]"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "每個州的COVID病例和住院人數與疫苗接種率[OC]"
+    }
+  ]
 }
