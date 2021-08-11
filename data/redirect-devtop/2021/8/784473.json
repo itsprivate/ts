@@ -43,5 +43,22 @@
   "original_created_at": "2021-08-07T12:53:44Z",
   "image": "https://dev.to/social_previews/article/784473.png",
   "author": "Stas Melnikov",
-  "author_url": "https://dev.to/melnik909"
+  "author_url": "https://dev.to/melnik909",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "すべてのテキストが見出しになるわけではありません。 見出しは、HTMLの非常に重要な部分で、人々が見出しをつけるのに役立ちます。",
+      "title": "6 HTMLとCSSの良いコーディングの習慣"
+    },
+    {
+      "locale": "zh",
+      "description": "不是所有的文字都是标题 标题是HTML的一个非常重要的部分，可以帮助人们...",
+      "title": "6个HTML和CSS的良好编码习惯"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "不是所有的文字都是標題 標題是HTML的一個非常重要的部分，可以幫助人們...",
+      "title": "6個HTML和CSS的良好編碼習慣"
+    }
+  ]
 }
