@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-09T17:48:28Z",
   "image": "https://dev.to/social_previews/article/786388.png",
   "author": "Menard Maranan",
-  "author_url": "https://dev.to/menard_codes"
+  "author_url": "https://dev.to/menard_codes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "静的なページやサイトをReact Appに変換するのは、実は思ったよりも簡単です。その...",
+      "title": "静的なHTML/CSSサイトをReactアプリに変換する"
+    },
+    {
+      "locale": "zh",
+      "description": "将静态页面或网站转换为React App，实际上比一些人想象的要简单。这就是为什么我们要把一个静态页面或网站转换成React应用程序。",
+      "title": "将静态HTML/CSS网站转换为React App"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "將靜態頁面或網站轉換爲React App，實際上比一些人想象的要簡單。這就是爲什麼我們要把一個靜態頁面或網站轉換成React應用程序。",
+      "title": "將靜態HTML/CSS網站轉換爲React App"
+    }
+  ]
 }
