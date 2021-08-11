@@ -43,5 +43,22 @@
   "original_created_at": "2021-08-11T04:59:40Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EuQZfZZb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dtzspahk2jeyhc44lfx1.png",
   "author": "kpiteng",
-  "author_url": "https://dev.to/kpiteng"
+  "author_url": "https://dev.to/kpiteng",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私たちが知っているのは、アプリケーションの開発、デプロイ、保守に役立つマイクロサービスのことです。",
+      "title": "Reactによるマイクロフロントエンド"
+    },
+    {
+      "locale": "zh",
+      "description": "我们所了解的微服务，有助于开发、部署和维护应用程序...",
+      "title": "使用React的微前端"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們所瞭解的微服務，有助於開發、部署和維護應用程序...",
+      "title": "使用React的微前端"
+    }
+  ]
 }
