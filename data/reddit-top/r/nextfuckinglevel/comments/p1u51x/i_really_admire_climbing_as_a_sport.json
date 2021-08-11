@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "スポーツとしてのクライミングに憧れています"
+    },
+    {
+      "locale": "zh",
+      "title": "我真的很佩服攀岩这项运动"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我真的很佩服攀巖這項運動"
+    }
+  ]
 }
