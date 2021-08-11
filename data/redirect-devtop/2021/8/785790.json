@@ -41,5 +41,22 @@
   "original_created_at": "2021-08-09T07:20:59Z",
   "image": "https://dev.to/social_previews/article/785790.png",
   "author": "Salah Elhossiny",
-  "author_url": "https://dev.to/salah856"
+  "author_url": "https://dev.to/salah856",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "シンプルなコード   サッカーをすることはとてもシンプルですが、シンプルなサッカーをすることが一番難しい...。",
+      "title": "ドメイン・ドリブン・デザインの実装 パート1"
+    },
+    {
+      "locale": "zh",
+      "description": "简单的代码!   踢足球是非常简单的，但踢简单的足球是最难的。",
+      "title": "实施领域驱动设计。第一部分"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡單的代碼!   踢足球是非常簡單的，但踢簡單的足球是最難的。",
+      "title": "實施領域驅動設計。第一部分"
+    }
+  ]
 }
