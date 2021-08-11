@@ -50,5 +50,22 @@
   "original_created_at": "2021-08-09T14:00:35Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ng8IsVzD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8h69y5xlazbug3mxrpqu.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "数日経ちました。皆さんも読んだことがあるでしょう。          アップルは米国のiPhoneをスキャンして...",
+      "title": "アップルは何を考えているのか？"
+    },
+    {
+      "locale": "zh",
+      "description": "已经有几天了。你可能已经读到了这个消息。          苹果公司计划对美国的iPhone手机进行扫描，以...",
+      "title": "苹果在想什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "已經有幾天了。你可能已經讀到了這個消息。          蘋果公司計劃對美國的iPhone手機進行掃描，以...",
+      "title": "蘋果在想什麼？"
+    }
+  ]
 }
