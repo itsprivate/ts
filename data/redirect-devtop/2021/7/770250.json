@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-24T09:46:28Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LE1Abzl7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u5tkkhrpvsi7t5zjwi3d.png",
   "author": "Ponikar",
-  "author_url": "https://dev.to/ponikar"
+  "author_url": "https://dev.to/ponikar",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、ご無事でしたか。さて、今日はWebRTCについてお話しましょう。(Web Real Time...",
+      "title": "WebRTCの紹介"
+    },
+    {
+      "locale": "zh",
+      "description": "嗨，我希望你是安全的。因此，今天我们将讨论WebRTC。(Web Real Time...",
+      "title": "WebRTC简介"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嗨，我希望你是安全的。因此，今天我們將討論WebRTC。(Web Real Time...",
+      "title": "WebRTC簡介"
+    }
+  ]
 }
