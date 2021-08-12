@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] 想定されるすべての気候変動シナリオを網羅したインタラクティブ・アトラス"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]一个包含所有可能的气候变化情景的交互式地图集"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]一個包含所有可能的氣候變化情景的交互式地圖集"
+    }
+  ]
 }
