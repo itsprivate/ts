@@ -52,5 +52,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "We built DataFetch (https://www.datafetch.io/) to make company information\nsearchable to those within your company. Let us know what you think!\n\nSave time by searching all your major systems - Salesforce, Pardot, Adobe\nMarketo Engage, Hubspot, Eventbrite, Splash, SQL databases, etc. - simply use\nthe…"
+  "the_new_excerpt": "We built DataFetch (https://www.datafetch.io/) to make company information\nsearchable to those within your company. Let us know what you think!\n\nSave time by searching all your major systems - Salesforce, Pardot, Adobe\nMarketo Engage, Hubspot, Eventbrite, Splash, SQL databases, etc. - simply use\nthe…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "会社の情報を社内で検索できるように、DataFetch（https://www.datafetch.io/）を作りました。\n社内の人が検索できるようにしました。ご意見をお聞かせください\n\nすべての主要システムを検索して時間を節約 - Salesforce, Pardot, Adobe\nMarketo Engage, Hubspot, Eventbrite, Splash, SQLデータベースなど。- を使用するだけです。\nをクリックしてください。",
+      "title": "DataFetch - ユニバーサル・サーチをSlackに導入しました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我们建立了DataFetch（https://www.datafetch.io/），使公司信息\n检索到你公司内部的信息。让我们知道你的想法!\n\n通过搜索您所有的主要系统来节省时间 - Salesforce, Pardot, Adobe\nMarketo Engage, Hubspot, Eventbrite, Splash, SQL数据库等。- 只需使用\n的方式搜索。",
+      "title": "DataFetch - 将通用搜索引入Slack"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我們建立了DataFetch（https://www.datafetch.io/），使公司信息\n檢索到你公司內部的信息。讓我們知道你的想法!\n\n通過搜索您所有的主要系統來節省時間 - Salesforce, Pardot, Adobe\nMarketo Engage, Hubspot, Eventbrite, Splash, SQL數據庫等。- 只需使用\n的方式搜索。",
+      "title": "DataFetch - 將通用搜索引入Slack"
+    }
+  ]
 }
