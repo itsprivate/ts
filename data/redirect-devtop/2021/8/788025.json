@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-11T07:34:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nZwkhNhX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gdpoaeadake6v9dpotaw.png",
   "author": "Ajithmadhan",
-  "author_url": "https://dev.to/ajithmadhan11"
+  "author_url": "https://dev.to/ajithmadhan11",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Javascriptは、現代において最も強力な言語の一つです。",
+      "title": "いくつかの強力なJsワンライナー"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我们将对Javascript在现代世界中的作用进行分析。",
+      "title": "一些强大的Js单行道"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我們將對Javascript在現代世界中的作用進行分析。",
+      "title": "一些強大的Js單行道"
+    }
+  ]
 }
