@@ -37,5 +37,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "In 2010 Gavin Andresen made the website freebitcoins.appspot.com, where he\npersonally loaded it with 1.1k BTC. Each BTC was about $0.001 at that time so\nobviously he didn't care. Also, fees were almost non-existent due to very light\nnetwork usage. In total it dispensed 19.7k BTC which is over $1.2B…"
+  "the_new_excerpt": "In 2010 Gavin Andresen made the website freebitcoins.appspot.com, where he\npersonally loaded it with 1.1k BTC. Each BTC was about $0.001 at that time so\nobviously he didn't care. Also, fees were almost non-existent due to very light\nnetwork usage. In total it dispensed 19.7k BTC which is over $1.2B…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "2010年、Gavin Andresenはfreebitcoins.appspot.comというウェブサイトを立ち上げました。\n1.1k BTCを搭載しました。当時、1BTCは約0.001ドルだったので\n明らかに彼は気にしていませんでした。また、ネットワークの使用量が非常に少ないため、手数料もほとんどかかりませんでした。\nネットワークの使用量が非常に少なかったため、手数料はほとんどありませんでした。合計で19.7k BTCを分配し、1.2Bを超えました。",
+      "title": "最初のビットコイン・フォーセットでは、1回の請求で5BTCが得られました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "2010年，加文-安德烈森建立了freebitcoins.appspot.com网站，他在该网站上\n亲自加载了1.1万个BTC。当时每个BTC大约是0.001美元，所以\n显然他并不在乎。此外，由于网络使用量非常小，费用几乎不存在。\n网络使用。它总共发放了19.7k BTC，超过12亿美元......",
+      "title": "第一个比特币水龙头给了每份申请5个BTC。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "2010年，加文-安德烈森建立了freebitcoins.appspot.com網站，他在該網站上\n親自加載了1.1萬個BTC。當時每個BTC大約是0.001美元，所以\n顯然他並不在乎。此外，由於網絡使用量非常小，費用幾乎不存在。\n網絡使用。它總共發放了19.7k BTC，超過12億美元......",
+      "title": "第一個比特幣水龍頭給了每份申請5個BTC。"
+    }
+  ]
 }
