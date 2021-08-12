@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-10T21:06:40Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ixHY1Whl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pw69lumnods5wm9zun56.png",
   "author": "Nitzan Hen",
-  "author_url": "https://dev.to/nitzanhen"
+  "author_url": "https://dev.to/nitzanhen",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "2年以上もReactコンポーネントの定型文を手書きで書いてきた私が、ついに...",
+      "title": "コンポーネント生成のためのReact CLIであるAgrippaの紹介"
+    },
+    {
+      "locale": "zh",
+      "description": "最后，在用手写了两年多的React组件的模板后，我决定...",
+      "title": "认识Agrippa，用于生成组件的React CLI"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "最後，在用手寫了兩年多的React組件的模板後，我決定...",
+      "title": "認識Agrippa，用於生成組件的React CLI"
+    }
+  ]
 }
