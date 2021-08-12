@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-12T07:05:00Z"
+  "original_createdAt": "2021-08-12T07:05:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "AppTranaはフルマネージドWAFソリューションですが、この度、Behavioural DDOS Protection機能をリリースしました。この機能により、アプリケーション・トラフィックの挙動を理解し、変化するトレンドに合わせて保護設定を行うことができます。",
+      "tagline": "フルマネージドDDoSプロテクション"
+    },
+    {
+      "locale": "zh",
+      "description": "AppTrana是一个完全管理的WAF解决方案，我们很高兴地宣布发布行为DDOS保护功能。有了这个功能，人们可以了解其应用流量的行为，并确保保护设置能够适应不断变化的趋势。",
+      "tagline": "全面管理的DDoS保护"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "AppTrana是一個完全管理的WAF解決方案，我們很高興地宣佈發佈行爲DDOS保護功能。有了這個功能，人們可以瞭解其應用流量的行爲，並確保保護設置能夠適應不斷變化的趨勢。",
+      "tagline": "全面管理的DDoS保護"
+    }
+  ]
 }
