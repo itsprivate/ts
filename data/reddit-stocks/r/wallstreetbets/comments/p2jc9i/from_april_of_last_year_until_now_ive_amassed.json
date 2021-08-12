@@ -117,5 +117,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1628707488,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "去年の4月から今までに、7万円以上の損失を出しています。"
+    },
+    {
+      "locale": "zh",
+      "title": "从去年4月到现在，我已经积累了超过7万的损失，这还不算我现在的仓位，这些仓位都在下跌。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "從去年4月到現在，我已經積累了超過7萬的損失，這還不算我現在的倉位，這些倉位都在下跌。"
+    }
+  ]
 }
