@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "初めてプレイしたゲームは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你记得自己玩的第一个视频游戏是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你記得自己玩的第一個視頻遊戲是什麼？"
+    }
+  ]
 }
