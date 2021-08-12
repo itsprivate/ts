@@ -92,5 +92,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-12T07:02:28Z"
+  "original_createdAt": "2021-08-12T07:02:28Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "WhatsFormは、WhatsAppの会話でビジネスを管理する人のために作られています。1️⃣ WhatsApp内でデータを収集するためのフォームを作成 2️⃣ WhatsAppは各メッセージの98%の開封率を保証 3️⃣ 収集されたデータを使って、ビジネスを2倍速く行うことができます。",
+      "tagline": "WhatsAppでデータを収集するための美しいフォームの作成"
+    },
+    {
+      "locale": "zh",
+      "description": "WhatsForm是为那些通过WhatsApp对话管理他们的业务的人建立的。1️⃣在WhatsApp内部创建表格来收集数据 2️⃣WhatsApp保证每条信息有98%的打开率 3️⃣有了所有收集到的数据，商业运作可以快2倍",
+      "tagline": "在WhatsApp中创建漂亮的表格来收集数据"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "WhatsForm是爲那些通過WhatsApp對話管理他們的業務的人建立的。1️⃣在WhatsApp內部創建表格來收集數據 2️⃣WhatsApp保證每條信息有98%的打開率 3️⃣有了所有收集到的數據，商業運作可以快2倍",
+      "tagline": "在WhatsApp中創建漂亮的表格來收集數據"
+    }
+  ]
 }
