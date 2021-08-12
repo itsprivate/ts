@@ -88,5 +88,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-12T07:05:00Z"
+  "original_createdAt": "2021-08-12T07:05:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Evidence は、オープンソースのコードベースのビジネスインテリジェンスツールです。従来のBIツールのようなドラッグ＆ドロップのインターフェースではなく、アナリストがSQLやマークダウンを記述することで、自動化されたレポートを構築することができます。",
+      "tagline": "SQLとマークダウンだけで美しいレポートを作成"
+    },
+    {
+      "locale": "zh",
+      "description": "Evidence是一个开源的、基于代码的商业智能工具。它使分析师能够通过编写SQL和markdown来建立自动报告，而不是像你在传统商业智能工具中发现的那样使用拖放界面。",
+      "tagline": "只用SQL和markdown就能得到漂亮的报告"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Evidence是一個開源的、基於代碼的商業智能工具。它使分析師能夠通過編寫SQL和markdown來建立自動報告，而不是像你在傳統商業智能工具中發現的那樣使用拖放界面。",
+      "tagline": "只用SQL和markdown就能得到漂亮的報告"
+    }
+  ]
 }
