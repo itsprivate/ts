@@ -83,5 +83,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-12T07:01:00Z"
+  "original_createdAt": "2021-08-12T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Candorは、採用中のテクノロジー企業のリーダーシップ、採用担当者、同僚についての本音を伝えることで、求職者がより良いキャリアを選択できるようサポートします。",
+      "tagline": "Candorは、スタートアップのプロフェッショナルのレビューを収集し、検証します。"
+    },
+    {
+      "locale": "zh",
+      "description": "Candor通过对招聘技术公司的领导层、招聘经理和同事的真实评价，帮助求职者做出更好的职业决定。",
+      "tagline": "Candor收集并核实初创企业专业人士的评论"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Candor通過對招聘技術公司的領導層、招聘經理和同事的真實評價，幫助求職者做出更好的職業決定。",
+      "tagline": "Candor收集並覈實初創企業專業人士的評論"
+    }
+  ]
 }

@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-11T09:29:19Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--m7HapLYr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c9olez4y8015glrzu33r.png",
   "author": "Anatolii",
-  "author_url": "https://dev.to/pas8"
+  "author_url": "https://dev.to/pas8",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "イントロダクション おそらく建築について発言するであろう人々に警告したいと思っています。",
+      "title": "最高のReduxアーキテクチャ"
+    },
+    {
+      "locale": "zh",
+      "description": "我想提醒人们，可能会有关于建筑的评论，我...",
+      "title": "最佳Redux架构"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我想提醒人們，可能會有關於建築的評論，我...",
+      "title": "最佳Redux架構"
+    }
+  ]
 }
