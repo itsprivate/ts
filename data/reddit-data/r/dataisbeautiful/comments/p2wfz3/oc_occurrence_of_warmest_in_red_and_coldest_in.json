@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] 世界各地で記録された最も暖かい気温（赤）と最も寒い気温（青）の出現率"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]全球最热（红色）和最冷（蓝色）温度记录的出现情况"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]全球最熱（紅色）和最冷（藍色）溫度記錄的出現情況"
+    }
+  ]
 }
