@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-12T07:08:25Z"
+  "original_createdAt": "2021-08-12T07:08:25Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Youtube Highlightは、検索アシスタント＆Web Highlightingサービス「LINER」の新機能です。インスピレーションを受けた文章だけでなく、動画の好きな部分をハイライトすることができます。",
+      "tagline": "ライナーでYouTube動画のお気に入りの瞬間を保存・共有"
+    },
+    {
+      "locale": "zh",
+      "description": "Youtube高亮是搜索助手和网络高亮服务的一项新功能，即LINER。你不仅可以突出显示给你带来灵感的文本，还可以突出显示视频中你最喜欢的部分。",
+      "tagline": "保存和分享YouTube视频中最喜欢的时刻，并与内页分享"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Youtube高亮是搜索助手和網絡高亮服務的一項新功能，即LINER。你不僅可以突出顯示給你帶來靈感的文本，還可以突出顯示視頻中你最喜歡的部分。",
+      "tagline": "保存和分享YouTube視頻中最喜歡的時刻，並與內頁分享"
+    }
+  ]
 }
