@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これは熟成されていない"
+    },
+    {
+      "locale": "zh",
+      "title": "这不是一个好主意"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這不是一個好主意"
+    }
+  ]
 }
