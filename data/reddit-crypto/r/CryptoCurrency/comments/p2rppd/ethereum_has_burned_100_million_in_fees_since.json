@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "EIP-1559の発効以来、イーサリアムは1億ドルの手数料を消費した"
+    },
+    {
+      "locale": "zh",
+      "title": "自EIP-1559生效以来，以太坊已经烧掉了1亿美元的费用"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "自EIP-1559生效以來，以太坊已經燒掉了1億美元的費用"
+    }
+  ]
 }

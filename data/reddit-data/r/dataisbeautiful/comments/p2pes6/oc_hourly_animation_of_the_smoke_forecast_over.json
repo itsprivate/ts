@@ -136,5 +136,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] フィンランド気象研究所のSILAMモデルを用いて、コロラド州の町や都市を中心に、今後数日間の煙の予報を1時間ごとにアニメーションで表現したもの。"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]使用芬兰气象研究所的SILAM模型，对未来几天的烟雾预测做了每小时的动画，重点是科罗拉多州的城镇和城市。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]使用芬蘭氣象研究所的SILAM模型，對未來幾天的煙霧預測做了每小時的動畫，重點是科羅拉多州的城鎮和城市。"
+    }
+  ]
 }
