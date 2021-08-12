@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Has anyone here read the Song of Achilles and if so, would u recommend it?"
+  "the_new_excerpt": "Has anyone here read the Song of Achilles and if so, would u recommend it?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "誰か「アキレスの歌」を読んだ人はいますか？",
+      "title": "アキレスの歌"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这里有没有人读过《阿基里斯之歌》，如果有，你会推荐吗？",
+      "title": "阿基里斯之歌"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這裏有沒有人讀過《阿基里斯之歌》，如果有，你會推薦嗎？",
+      "title": "阿基里斯之歌"
+    }
+  ]
 }
