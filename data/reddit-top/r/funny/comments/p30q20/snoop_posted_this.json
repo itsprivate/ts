@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "スヌープが投稿しました。"
+    },
+    {
+      "locale": "zh",
+      "title": "Snoop发布了这个消息"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Snoop發佈了這個消息"
+    }
+  ]
 }

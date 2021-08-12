@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "警官が関与した爆発事故の分析：LAPDのE.27thストリート花火大会の事後検証"
+    },
+    {
+      "locale": "zh",
+      "title": "警官参与的爆炸事件剖析：对洛杉矶警察局第27街烟花爆炸事件的事后分析"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "警官參與的爆炸事件剖析：對洛杉磯警察局第27街煙花爆炸事件的事後分析"
+    }
+  ]
 }
