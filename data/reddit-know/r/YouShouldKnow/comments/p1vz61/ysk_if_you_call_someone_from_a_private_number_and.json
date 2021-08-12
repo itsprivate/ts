@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Why YSK:\n\nWhen you call from a Private Number, the person has no way to return contact. In\nthe event they accidentally disconnected while answering (new and unfamiliar or\nfumbled phone, large or slippery fingers, being distracted from a\nfocus-intensive activity, etc), they cannot reach out to you to…"
+  "the_new_excerpt": "Why YSK:\n\nWhen you call from a Private Number, the person has no way to return contact. In\nthe event they accidentally disconnected while answering (new and unfamiliar or\nfumbled phone, large or slippery fingers, being distracted from a\nfocus-intensive activity, etc), they cannot reach out to you to…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "なぜYSKなのか。\n\nプライベートナンバーから電話をかけると、相手は連絡を返す手段がありません。もし\n電話に出ている間に誤って切断されてしまった場合（新しい不慣れな電話機や\n電話をかけたばかりで不慣れだったり、指が大きくて滑りやすかったり、集中力を欠いていたりして\n誤って切断してしまった場合、相手はあなたに連絡を取ることができません。",
+      "title": "YSK: プライベートナンバーから電話をかけて、すぐに電話が切れてしまった場合は、もう一度かけ直すのがよいでしょう。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么是YSK。\n\n当你用私人号码打电话时，对方没有办法返回联系。在\n如果他们在接听时不小心断开连接（新的、不熟悉的或\n摸索的电话，大的或滑溜溜的手指，被分心的一个\n集中注意力的活动，等等），他们就无法联系到你......",
+      "title": "YSK: 如果你用私人号码给别人打电话，而电话马上被挂断，那么第二次回拨是一个好的做法。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼是YSK。\n\n當你用私人號碼打電話時，對方沒有辦法返回聯繫。在\n如果他們在接聽時不小心斷開連接（新的、不熟悉的或\n摸索的電話，大的或滑溜溜的手指，被分心的一個\n集中注意力的活動，等等），他們就無法聯繫到你......",
+      "title": "YSK: 如果你用私人號碼給別人打電話，而電話馬上被掛斷，那麼第二次回撥是一個好的做法。"
+    }
+  ]
 }
