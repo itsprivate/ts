@@ -43,5 +43,22 @@
   "original_created_at": "2021-08-12T03:52:02Z",
   "image": "https://dev.to/social_previews/article/789036.png",
   "author": "Natalie Taktachev",
-  "author_url": "https://dev.to/stuxnat"
+  "author_url": "https://dev.to/stuxnat",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "やりましたー！ふらっとスクールの最終プロジェクトが完成しました!!! これは、シンプルな症状追跡アプリです。",
+      "title": "ファイナルReactプロジェクト"
+    },
+    {
+      "locale": "zh",
+      "description": "我做到了--我完成了我在Flatiron学校的期末项目！! 它是一个简单的症状跟踪应用程序...",
+      "title": "最后的React项目"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我做到了--我完成了我在Flatiron學校的期末項目！! 它是一個簡單的症狀跟蹤應用程序...",
+      "title": "最後的React項目"
+    }
+  ]
 }
