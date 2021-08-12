@@ -111,5 +111,22 @@
     "retweet_count": 384,
     "favorite_count": 1645,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @DocumentingBTCです。#ビットコインは、銀行や軍隊に守ってもらう必要はありません。\n\n代わりにこのSHA-256ハッシュ関数を実行します 100,000,000,000...",
+      "retweeted_status_full_text": "#ビットコインは、銀行や軍隊に守ってもらう必要はありません。\n\n代わりにこのSHA-256ハッシュ関数を1秒間に100,000,000,000,000回実行して、76億人のデジタル財産権を確保します。\n\nhttps://t.co/pX1UKJiI6d"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @DocumentingBTC: #比特币不需要银行或军队来保护它。\n\n相反，它运行这个SHA-256哈希函数100,000,000,000...",
+      "retweeted_status_full_text": "#比特币不需要银行或军队来保护它。\n\n相反，它每秒运行这个SHA-256哈希函数100,000,000,000,000次，以确保76亿人的数字产权。\n\nhttps://t.co/pX1UKJiI6d"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @DocumentingBTC: #比特幣不需要銀行或軍隊來保護它。\n\n相反，它運行這個SHA-256哈希函數100,000,000,000...",
+      "retweeted_status_full_text": "#比特幣不需要銀行或軍隊來保護它。\n\n相反，它每秒運行這個SHA-256哈希函數100,000,000,000,000次，以確保76億人的數字產權。\n\nhttps://t.co/pX1UKJiI6d"
+    }
+  ]
 }
