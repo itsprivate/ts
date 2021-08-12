@@ -41,5 +41,22 @@
   "original_created_at": "2021-08-09T20:50:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--t2pc8iRO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cuhc7v2vx49ioj9ifn8k.png",
   "author": "popoola Temitope",
-  "author_url": "https://dev.to/popoolatopzy"
+  "author_url": "https://dev.to/popoolatopzy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "node.jsプロジェクトとMySQLデータベースの接続は、以下の手順で簡単に行えます。",
+      "title": "Node.jsとMySQLデータベースの組み合わせ。"
+    },
+    {
+      "locale": "zh",
+      "description": "连接node.js项目与MySQL数据库是很容易的，按照以下步骤来连接到...",
+      "title": "Node.js与MySQL数据库。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "連接node.js項目與MySQL數據庫是很容易的，按照以下步驟來連接到...",
+      "title": "Node.js與MySQL數據庫。"
+    }
+  ]
 }
