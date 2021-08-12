@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "認証、ユーザー管理、課金などを備えたSaaS用のNode.js React boilerplateを作ってみました。ぜひ見てください。"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个Node.js React模板，用于SaaS的认证、用户管理、计费等。请看一下!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個Node.js React模板，用於SaaS的認證、用戶管理、計費等。請看一下!"
+    }
+  ]
 }
