@@ -43,5 +43,22 @@
   "original_created_at": "2021-07-25T07:33:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EzqilDmr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lvuxkc7wvrm5r1951mqa.png",
   "author": "Aurélie Vache",
-  "author_url": "https://dev.to/aurelievache"
+  "author_url": "https://dev.to/aurelievache",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "具体的なアプリケーションを例にしてGolang言語を学ぶための記事シリーズ",
+      "title": "例題で学ぶ囲碁：パート5 - ゲームボーイアドバンス（GBA）のゲームを囲碁で作る"
+    },
+    {
+      "locale": "zh",
+      "description": "以具体应用为例，学习Golang语言的系列文章",
+      "title": "通过实例学习围棋：第5部分--用围棋创建一个Game Boy Advance（GBA）游戏"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "以具體應用爲例，學習Golang語言的系列文章",
+      "title": "通過實例學習圍棋：第5部分--用圍棋創建一個Game Boy Advance（GBA）遊戲"
+    }
+  ]
 }
