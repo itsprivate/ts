@@ -43,5 +43,22 @@
   "original_created_at": "2021-08-12T16:14:36Z",
   "image": "https://dev.to/social_previews/article/789832.png",
   "author": "Samar Mohan",
-  "author_url": "https://dev.to/samarmohan"
+  "author_url": "https://dev.to/samarmohan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに Node.jsやExpressのAPIを構成する方法は非常に多く、それぞれが...",
+      "title": "Node.jsとExpressのバックエンドを構成する"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍：有很多方法可以构建Node.js和Express的API，每一种方法都有其特点。",
+      "title": "构建一个Node.js和Express的后端"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹：有很多方法可以構建Node.js和Express的API，每一種方法都有其特點。",
+      "title": "構建一個Node.js和Express的後端"
+    }
+  ]
 }
