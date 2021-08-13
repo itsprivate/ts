@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコイン価格は本日45,000ドルを超え、暗号通貨市場は3ヶ月後に2兆ドルに到達"
+    },
+    {
+      "locale": "zh",
+      "title": "比特币价格今日突破45000美元；加密货币市场3个月后达到2万亿美元"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比特幣價格今日突破45000美元；加密貨幣市場3個月後達到2萬億美元"
+    }
+  ]
 }
