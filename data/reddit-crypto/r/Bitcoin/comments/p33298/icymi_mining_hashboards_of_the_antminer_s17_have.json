@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ICYMI：Antminer S17のマイニングハッシュボードには、「In Math We Trust」と書かれています。"
+    },
+    {
+      "locale": "zh",
+      "title": "ICYMI：Antminer S17的采矿哈希板上写着 \"In Math We Trust\"。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "ICYMI：Antminer S17的採礦哈希板上寫着 \"In Math We Trust\"。"
+    }
+  ]
 }
