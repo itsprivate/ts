@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Just wanted to let everyone know."
+  "the_new_excerpt": "Just wanted to let everyone know.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "皆さんにお知らせしたいことがあります。",
+      "title": "船の事故でビットコインをすべて失った。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "只是想让大家知道。",
+      "title": "在一次划船事故中失去了我所有的比特币。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "只是想讓大家知道。",
+      "title": "在一次划船事故中失去了我所有的比特幣。"
+    }
+  ]
 }
