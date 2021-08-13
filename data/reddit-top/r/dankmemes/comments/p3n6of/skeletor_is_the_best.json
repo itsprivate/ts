@@ -106,5 +106,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Skeletorは最高だ!"
+    },
+    {
+      "locale": "zh",
+      "title": "骷髅头是最棒的!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "骷髏頭是最棒的!"
+    }
+  ]
 }
