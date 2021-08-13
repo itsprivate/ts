@@ -3,7 +3,7 @@
   "title": "Bug in Lynx' SSL certificate validation – leaks password in clear text via SNI",
   "url": "https://www.openwall.com/lists/oss-security/2021/08/07/1",
   "author": "jwilk",
-  "points": 143,
+  "points": 202,
   "num_comments": 41,
   "_tags": [
     "story",
@@ -27,5 +27,6 @@
       "locale": "zh-Hant",
       "title": "Lynx的SSL證書驗證中的錯誤--通過SNI泄露密碼的明文。"
     }
-  ]
+  ],
+  "source_updated_at": 1628847704301
 }
