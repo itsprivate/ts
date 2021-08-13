@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ストリングスシューター"
+    },
+    {
+      "locale": "zh",
+      "title": "弦乐射手"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "絃樂射手"
+    }
+  ]
 }
