@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-13T07:01:00Z"
+  "original_createdAt": "2021-08-13T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "StreamFollowsは、あなたの新しいフォロワーのために、カスタマイズ可能なウェルカムページを自動的に生成します。すべての視聴者は、あなたのコミュニティへの温かい歓迎を受けるに値します。",
+      "tagline": "新規フォロワーのためのウェルカムページを自動生成"
+    },
+    {
+      "locale": "zh",
+      "description": "StreamFollows会自动为你的新粉丝生成可定制的欢迎页面。每一位观众都应该得到一个热烈的欢迎进入你的社区。",
+      "tagline": "为新追随者自动生成欢迎页面"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "StreamFollows會自動爲你的新粉絲生成可定製的歡迎頁面。每一位觀衆都應該得到一個熱烈的歡迎進入你的社區。",
+      "tagline": "爲新追隨者自動生成歡迎頁面"
+    }
+  ]
 }
