@@ -52,5 +52,22 @@
   "original_created_at": "2021-08-09T19:28:08Z",
   "image": "https://dev.to/social_previews/article/786516.png",
   "author": "AIDRI",
-  "author_url": "https://dev.to/aidri"
+  "author_url": "https://dev.to/aidri",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Hy guys!  今日は、Pythonでマスターするための最高のヒントとコツをご紹介します!  これらのヒントは...",
+      "title": "初心者が知っておくべき15のPythonのヒントとトリック !"
+    },
+    {
+      "locale": "zh",
+      "description": "诸位!  今天，我将与你们分享掌握Python的最佳技巧和窍门  这些技巧...",
+      "title": "每个初学者都应该知道的15个Python技巧和窍门 !"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "諸位!  今天，我將與你們分享掌握Python的最佳技巧和竅門  這些技巧...",
+      "title": "每個初學者都應該知道的15個Python技巧和竅門 !"
+    }
+  ]
 }
