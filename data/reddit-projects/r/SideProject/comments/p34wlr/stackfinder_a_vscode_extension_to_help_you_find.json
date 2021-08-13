@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "スタックファインダーです。Stack Overflowの回答を見つけて利用するためのVSCode拡張機能です。"
+    },
+    {
+      "locale": "zh",
+      "title": "StackFinder。一个VSCode扩展，帮助你寻找和使用Stack Overflow的答案。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "StackFinder。一個VSCode擴展，幫助你尋找和使用Stack Overflow的答案。"
+    }
+  ]
 }
