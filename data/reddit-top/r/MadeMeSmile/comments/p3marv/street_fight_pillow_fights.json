@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ストリートファイト・ピローファイト"
+    },
+    {
+      "locale": "zh",
+      "title": "街头打架的枕头大战"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "街頭打架的枕頭大戰"
+    }
+  ]
 }
