@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-11T03:49:04Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yhI6NXWE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rp642i4qyqct1okpu6uz.PNG",
   "author": "menomanabdulla",
-  "author_url": "https://dev.to/menomanabdulla"
+  "author_url": "https://dev.to/menomanabdulla",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今日の世界では、フロントエンド開発者は、エキスパートであろうとなかろうと、flex-boxなしでは生きていけません。",
+      "title": "CSS3のフレックスボックスを初心者が簡単にマスターできるようにしました。"
+    },
+    {
+      "locale": "zh",
+      "description": "当今世界，作为一个前端开发者，无论你是专家还是普通人，都离不开灵活的box。",
+      "title": "以简单的方式让初学者掌握CSS3 Flexbox。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當今世界，作爲一個前端開發者，無論你是專家還是普通人，都離不開靈活的box。",
+      "title": "以簡單的方式讓初學者掌握CSS3 Flexbox。"
+    }
+  ]
 }
