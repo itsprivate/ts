@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-11T19:27:23Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mkDFrDNX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/584gjk5kfuayntom6q6u.png",
   "author": "Ismail",
-  "author_url": "https://dev.to/ismailsk"
+  "author_url": "https://dev.to/ismailsk",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "クラウドサービスが将来的に重要であることは周知の事実であり、awsは主要なクラウドサービスプロバイダーの1つです。",
+      "title": "AWS AmplifyによるReact-Appのデプロイ"
+    },
+    {
+      "locale": "zh",
+      "description": "我们都知道，云服务是未来，而AWS是领先的云服务提供商之一。",
+      "title": "用AWS Amplify部署React-App"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們都知道，雲服務是未來，而AWS是領先的雲服務提供商之一。",
+      "title": "用AWS Amplify部署React-App"
+    }
+  ]
 }
