@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-02T07:47:09Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fjS-OIQR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nd6guco5rfn4hfg1mjp2.png",
   "author": "Siddharth",
-  "author_url": "https://dev.to/siddharthshyniben"
+  "author_url": "https://dev.to/siddharthshyniben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "リアクティビティは、多くのウェブインターフェイスの核心です。堅牢でインタラクティブなWebプログラミングを可能にします...",
+      "title": "ゼロからのReactivityの実装"
+    },
+    {
+      "locale": "zh",
+      "description": "反应性是许多网络界面的核心。它使编程变得稳健和互动的网络。",
+      "title": "从头开始实施Reactivity"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "反應性是許多網絡界面的核心。它使編程變得穩健和互動的網絡。",
+      "title": "從頭開始實施Reactivity"
+    }
+  ]
 }

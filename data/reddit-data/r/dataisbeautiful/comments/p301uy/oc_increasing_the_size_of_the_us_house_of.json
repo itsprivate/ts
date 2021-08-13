@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] 米国下院の規模拡大は、全体の代表性を高め、州間の不平等を是正する"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]增加美国众议院的规模可以改善整体的代表性，减少各州之间的不平等。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]增加美國衆議院的規模可以改善整體的代表性，減少各州之間的不平等。"
+    }
+  ]
 }
