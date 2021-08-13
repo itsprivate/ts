@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この写真が10年前のものであることが信じられません。"
+    },
+    {
+      "locale": "zh",
+      "title": "我绝对无法相信，这张照片现在已经是十年前的事了。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我絕對無法相信，這張照片現在已經是十年前的事了。"
+    }
+  ]
 }
