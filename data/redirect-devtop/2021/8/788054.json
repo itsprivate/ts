@@ -43,5 +43,22 @@
   "original_created_at": "2021-08-11T08:51:20Z",
   "image": "https://dev.to/social_previews/article/788054.png",
   "author": "Sergey Vasiliev",
-  "author_url": "https://dev.to/vasilievserg"
+  "author_url": "https://dev.to/vasilievserg",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今日は、アプリケーションの適切な場所で小さな最適化を行うことで、いかに...",
+      "title": ".NETアプリケーションの最適化：小さな編集が大きな成果を生む"
+    },
+    {
+      "locale": "zh",
+      "description": "今天，我们要讨论的是，在应用程序的正确位置进行小的优化，可以使应用程序的性能得到提高。",
+      "title": ".NET应用程序的优化：小编辑的大成果"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "今天，我們要討論的是，在應用程序的正確位置進行小的優化，可以使應用程序的性能得到提高。",
+      "title": ".NET應用程序的優化：小編輯的大成果"
+    }
+  ]
 }
