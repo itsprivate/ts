@@ -11,5 +11,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ドクター・スースは50年前に警告したが、我々は「The Lorax」を聞かなかった。"
+    },
+    {
+      "locale": "zh",
+      "title": "苏斯博士50年前就警告过我们，但我们没有听从 \"洛雷克斯\"。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "蘇斯博士50年前就警告過我們，但我們沒有聽從 \"洛雷克斯\"。"
+    }
+  ]
 }
