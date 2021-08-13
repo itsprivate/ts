@@ -43,5 +43,22 @@
   "original_created_at": "2021-08-11T15:15:08Z",
   "image": "https://dev.to/social_previews/article/788615.png",
   "author": "Mr. Unity Buddy",
-  "author_url": "https://dev.to/unitybuddy"
+  "author_url": "https://dev.to/unitybuddy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Hello, buddies! 私たちはpythonが大好きですよね。今日は、いくつかの驚くべきことを見てみましょう...",
+      "title": "Pythonを使ってできる9つの驚くべきこと"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，伙伴们! 我们喜欢蟒蛇，对吗？所以今天我们将看到一些神奇的东西，可以...",
+      "title": "用Python做的9件了不起的事"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，夥伴們! 我們喜歡蟒蛇，對嗎？所以今天我們將看到一些神奇的東西，可以...",
+      "title": "用Python做的9件了不起的事"
+    }
+  ]
 }

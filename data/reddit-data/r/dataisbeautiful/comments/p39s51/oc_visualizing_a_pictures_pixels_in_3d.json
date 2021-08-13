@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] 写真のピクセルを3Dで可視化する"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]将图片的像素以3D方式可视化"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]將圖片的像素以3D方式可視化"
+    }
+  ]
 }
