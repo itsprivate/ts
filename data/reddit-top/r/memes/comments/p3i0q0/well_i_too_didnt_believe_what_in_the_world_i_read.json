@@ -91,5 +91,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私も自分が読んだ本の内容は信じられませんでした。"
+    },
+    {
+      "locale": "zh",
+      "title": "我也不相信我读到的东西。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我也不相信我讀到的東西。"
+    }
+  ]
 }
