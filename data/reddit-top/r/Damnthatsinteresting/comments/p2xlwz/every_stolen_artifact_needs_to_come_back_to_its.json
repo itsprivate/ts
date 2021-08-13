@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "盗まれたものはすべて、その土地に戻ってくる必要があります。"
+    },
+    {
+      "locale": "zh",
+      "title": "每一件被盗的文物都需要回到它的土地上。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "每一件被盜的文物都需要回到它的土地上。"
+    }
+  ]
 }
