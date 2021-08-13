@@ -83,5 +83,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-13T07:01:00Z"
+  "original_createdAt": "2021-08-13T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Telegramで自分に通知を送る。あなたのサーバー/アプリ/ビジネスで発生したイベントを最も簡単に通知できます。",
+      "tagline": "Telegramで自分に通知を送る"
+    },
+    {
+      "locale": "zh",
+      "description": "在Telegram中向自己发送通知。最简单的方式来通知你的服务器/应用程序/业务中的任何事件。",
+      "tagline": "在Telegram中向自己发送通知"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在Telegram中向自己發送通知。最簡單的方式來通知你的服務器/應用程序/業務中的任何事件。",
+      "tagline": "在Telegram中向自己發送通知"
+    }
+  ]
 }
