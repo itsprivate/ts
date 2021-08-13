@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この小さな男は、この世界に入ったばかりのはずだ。"
+    },
+    {
+      "locale": "zh",
+      "title": "这个小家伙一定是刚刚来到这个世界"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個小傢伙一定是剛剛來到這個世界"
+    }
+  ]
 }
