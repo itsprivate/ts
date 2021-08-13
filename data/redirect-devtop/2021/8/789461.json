@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-12T11:03:39Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mTFNUy1Y--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ehg95227qe3y6pjg6nay.png",
   "author": "Eric The Coder",
-  "author_url": "https://dev.to/ericchapman"
+  "author_url": "https://dev.to/ericchapman",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "VueRouter、Vuex、Composition APIを含むほとんどのVueJSコンセプト",
+      "title": "究極のVue.js（2021年版）チートシート"
+    },
+    {
+      "locale": "zh",
+      "description": "大多数VueJS概念，包括VueRouter、Vuex和Composition API",
+      "title": "终极Vue.js（2021）小抄"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大多數VueJS概念，包括VueRouter、Vuex和Composition API",
+      "title": "終極Vue.js（2021）小抄"
+    }
+  ]
 }
