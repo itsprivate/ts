@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-13T10:11:58Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--B6IT4Ofe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/27mi6sm0pjcj80xa1ya8.png",
   "author": "Riddhi Agrawal",
-  "author_url": "https://dev.to/riddhiagrawal001"
+  "author_url": "https://dev.to/riddhiagrawal001",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "基本的なreactアプリを作成する最も簡単な方法は、npx create-react-appを実行し、基本的なreactアプリを作成することです。",
+      "title": "create-react-appを使わずにReactアプリを作成することができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "创建一个基本的react应用的最简单方法是运行npx create-react-app，然后启动你的基本react...",
+      "title": "不用create-react-app创建React App !"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "創建一個基本的react應用的最簡單方法是運行npx create-react-app，然後啓動你的基本react...",
+      "title": "不用create-react-app創建React App !"
+    }
+  ]
 }
