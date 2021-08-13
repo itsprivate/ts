@@ -67,5 +67,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-13T10:23:50Z"
+  "original_createdAt": "2021-08-13T10:23:50Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Rarible Protocolは、NFTのプロジェクトやアイデアの市場投入プロセスを簡素化するためのツール群です。もうゼロから作る必要はありません。代わりに自分が本当に得意なことに集中してください - https://link.medium.com/YpblzPOcFib",
+      "tagline": "NFTイノベーションのためのオープンソース・クロスチェーンツール"
+    },
+    {
+      "locale": "zh",
+      "description": "Rarible Protocol是一套简化NFT项目和想法进入市场过程的工具。不用再从头开始建立。专注于你真正擅长的事情 - https://link.medium.com/YpblzPOcFib",
+      "tagline": "一个用于NFT创新的开源、跨链工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Rarible Protocol是一套簡化NFT項目和想法進入市場過程的工具。不用再從頭開始建立。專注於你真正擅長的事情 - https://link.medium.com/YpblzPOcFib",
+      "tagline": "一個用於NFT創新的開源、跨鏈工具"
+    }
+  ]
 }
