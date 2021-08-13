@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたのユーザーネームがお店になりました。何を売っていますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你的用户名现在是一个商店。你卖什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你的用戶名現在是一個商店。你賣什麼？"
+    }
+  ]
 }
