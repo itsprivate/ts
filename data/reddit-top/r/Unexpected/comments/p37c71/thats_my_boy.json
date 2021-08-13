@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "That's my boy"
+    },
+    {
+      "locale": "zh",
+      "title": "那是我的孩子"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "那是我的孩子"
+    }
+  ]
 }
