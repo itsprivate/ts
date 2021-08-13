@@ -43,5 +43,22 @@
   "original_created_at": "2021-08-12T12:09:07Z",
   "image": "https://dev.to/social_previews/article/789485.png",
   "author": "Salma Alam-Naylor",
-  "author_url": "https://dev.to/whitep4nth3r"
+  "author_url": "https://dev.to/whitep4nth3r",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Contentfulのドキュメントをご覧になった方は、REST APIとGraphQL APIを提供していることをご存知でしょう。",
+      "title": "APIとは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你读过Contentful的文档，你会看到我们提供了一个REST API和一个GraphQL API，以满足你的需求。",
+      "title": "什么是API？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你讀過Contentful的文檔，你會看到我們提供了一個REST API和一個GraphQL API，以滿足你的需求。",
+      "title": "什麼是API？"
+    }
+  ]
 }
