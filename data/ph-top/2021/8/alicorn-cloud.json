@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-13T07:01:00Z"
+  "original_createdAt": "2021-08-13T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Alicornは、スタートアップ企業のための、クラウドに依存しないプラットフォームです。AWSでもGCPでもAzureでも、Alicornがあればあなたのスタックはどこでも動きます。ワンクリックでクラウドプロバイダーを切り替え、ベンダーロックインを回避し、無料クレジットを使い切ることはありません。",
+      "tagline": "AWS、GCP、Azureをワンクリックで切り替えることができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "Alicorn是一个面向初创企业的云计算平台。AWS、GCP或Azure - 有了Alicorn，你的堆栈可以在任何地方运行。一键切换云供应商，摆脱供应商的锁定，并且永远不会耗尽免费点数",
+      "tagline": "在AWS、GCP和Azure之间一键切换"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Alicorn是一個面向初創企業的雲計算平臺。AWS、GCP或Azure - 有了Alicorn，你的堆棧可以在任何地方運行。一鍵切換雲供應商，擺脫供應商的鎖定，並且永遠不會耗盡免費點數",
+      "tagline": "在AWS、GCP和Azure之間一鍵切換"
+    }
+  ]
 }
