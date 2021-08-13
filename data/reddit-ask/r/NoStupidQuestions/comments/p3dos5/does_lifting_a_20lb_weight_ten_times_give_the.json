@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "20ポンドの重りを10回持ち上げるのと、10ポンドの重りを20回持ち上げるのとでは、同じ効果が得られますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "举起20磅的重量10次与举起10磅的重量20次所带来的好处是一样的吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "舉起20磅的重量10次與舉起10磅的重量20次所帶來的好處是一樣的嗎？"
+    }
+  ]
 }
