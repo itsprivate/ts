@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "個人的には"
+    },
+    {
+      "locale": "zh",
+      "title": "就我个人而言，我可以"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "就我個人而言，我可以"
+    }
+  ]
 }
