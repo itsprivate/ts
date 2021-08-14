@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "悲しいことに、アメリカ人はテロリストと戦い、その結果、自分の孫がテロリストになってしまった。"
+    },
+    {
+      "locale": "zh",
+      "title": "可悲的是，美国人与恐怖分子作战，只是为了让他们的孙子成为恐怖分子。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "可悲的是，美國人與恐怖分子作戰，只是爲了讓他們的孫子成爲恐怖分子。"
+    }
+  ]
 }
