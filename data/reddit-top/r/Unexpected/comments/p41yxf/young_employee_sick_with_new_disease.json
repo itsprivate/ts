@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "若い社員が新しい病気にかかった"
+    },
+    {
+      "locale": "zh",
+      "title": "年轻员工患上新疾病"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "年輕員工患上新疾病"
+    }
+  ]
 }
