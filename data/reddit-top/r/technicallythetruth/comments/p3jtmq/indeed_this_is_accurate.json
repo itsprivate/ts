@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "確かにこれは正確です。"
+    },
+    {
+      "locale": "zh",
+      "title": "这的确是准确的"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這的確是準確的"
+    }
+  ]
 }
