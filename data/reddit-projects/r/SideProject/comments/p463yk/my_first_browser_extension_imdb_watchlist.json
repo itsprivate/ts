@@ -91,5 +91,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私の初めてのブラウザ拡張機能。IMDBウォッチリスト・ランダマイザー"
+    },
+    {
+      "locale": "zh",
+      "title": "我的第一个浏览器扩展。IMDB观看列表随机化器"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我的第一個瀏覽器擴展。IMDB觀看列表隨機化器"
+    }
+  ]
 }
