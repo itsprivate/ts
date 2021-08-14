@@ -43,5 +43,22 @@
   "original_created_at": "2021-08-13T11:07:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Fub8QEz_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xvnrg87cx0btafzb6py3.png",
   "author": "Leonid Fenko",
-  "author_url": "https://dev.to/fenok"
+  "author_url": "https://dev.to/fenok",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "React 17におけるクライアントサイドとサーバーサイドのデータフェッチのアプローチ、その長所と短所について説明します。",
+      "title": "Reactにおけるクライアントサイドおよびサーバーサイドのデータフェッチ"
+    },
+    {
+      "locale": "zh",
+      "description": "这是一个关于React 17中客户端和服务器端数据获取方法的概述，它们的优点和缺点。",
+      "title": "React中的客户端和服务器端数据获取"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是一個關於React 17中客戶端和服務器端數據獲取方法的概述，它們的優點和缺點。",
+      "title": "React中的客戶端和服務器端數據獲取"
+    }
+  ]
 }
