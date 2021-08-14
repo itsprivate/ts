@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ダウン症の若者が、TikTokの料理動画で有名になりました。伝説の人ですね。"
+    },
+    {
+      "locale": "zh",
+      "title": "患有唐氏综合症的小伙子通过他在TikTok上的烹饪视频成名。这真是一个传奇!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "患有唐氏綜合症的小夥子通過他在TikTok上的烹飪視頻成名。這真是一個傳奇!"
+    }
+  ]
 }

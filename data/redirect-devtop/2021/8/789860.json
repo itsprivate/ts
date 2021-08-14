@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-12T17:30:21Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Jsl_A6Hy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ctg508ogq6eubo486dbw.jpg",
   "author": "Mike Talbot",
-  "author_url": "https://dev.to/miketalbot"
+  "author_url": "https://dev.to/miketalbot",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TLDR; 私は新しいReact Virtual Windowコンポーネントを作りました。",
+      "title": "React Virtual Window - あらゆるものを仮想化してパフォーマンスを向上させることができます。 "
+    },
+    {
+      "locale": "zh",
+      "description": "TLDR; 我做了一个新的React虚拟窗口组件，可以虚拟出列表和任何...",
+      "title": "React虚拟窗口--虚拟任何东西，以提高性能!  "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "TLDR; 我做了一個新的React虛擬窗口組件，可以虛擬出列表和任何...",
+      "title": "React虛擬窗口--虛擬任何東西，以提高性能!  "
+    }
+  ]
 }
