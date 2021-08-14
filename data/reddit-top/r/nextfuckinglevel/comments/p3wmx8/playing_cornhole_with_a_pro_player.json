@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "プロ棋士とコーンホールで対戦"
+    },
+    {
+      "locale": "zh",
+      "title": "与职业选手一起玩Cornhole"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "與職業選手一起玩Cornhole"
+    }
+  ]
 }
