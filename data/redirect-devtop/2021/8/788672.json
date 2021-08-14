@@ -41,5 +41,22 @@
   "original_created_at": "2021-08-11T17:17:43Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Zz6-U2-d--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/llcj9tiacb9ctx9ht5i4.png",
   "author": "Siddharth Venkatesh",
-  "author_url": "https://dev.to/sidv93"
+  "author_url": "https://dev.to/sidv93",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "レイジーローディング レイジーローディングとは、必要なときにだけコンテンツを読み込む方法です。....",
+      "title": "ダイナミックインポートとインターセクションオブザーバーによる react コンポーネントのレイジーローディング"
+    },
+    {
+      "locale": "zh",
+      "description": "懒惰加载 懒惰加载是一种方式，我们可以在需要时才加载内容....。",
+      "title": "使用动态导入和交叉观察器的懒散加载反应组件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "懶惰加載 懶惰加載是一種方式，我們可以在需要時才加載內容....。",
+      "title": "使用動態導入和交叉觀察器的懶散加載反應組件"
+    }
+  ]
 }
