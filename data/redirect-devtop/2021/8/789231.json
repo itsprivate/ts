@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-12T06:27:05Z",
   "image": "https://dev.to/social_previews/article/789231.png",
   "author": "DevGraph",
-  "author_url": "https://dev.to/devgraph"
+  "author_url": "https://dev.to/devgraph",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Railsアプリのスケーリングは、アプリのアーキテクチャとそれを支えるインフラをマスターするプロセスです。開発者向けのRailsガイドから、その方法を直接学ぶことができます。",
+      "title": "デベロッパーズ ガイド トゥ スケーリング Rails アプリケーション"
+    },
+    {
+      "locale": "zh",
+      "description": "扩展Rails应用程序是一个主应用程序架构和支持基础设施的过程。直接从我们的开发者友好型Rails指南中了解它是如何做到的。",
+      "title": "扩展Rails应用程序的开发者指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "擴展Rails應用程序是一個主應用程序架構和支持基礎設施的過程。直接從我們的開發者友好型Rails指南中瞭解它是如何做到的。",
+      "title": "擴展Rails應用程序的開發者指南"
+    }
+  ]
 }
