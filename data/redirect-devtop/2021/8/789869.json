@@ -43,5 +43,22 @@
   "original_created_at": "2021-08-12T18:01:44Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TeUMbra5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xyuakr3c84o4setigicu.jpeg",
   "author": "Anthony Chung",
-  "author_url": "https://dev.to/anchobies"
+  "author_url": "https://dev.to/anchobies",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Be not afraid! あなたは、コンピュータで最も恐れられている科目の1つを学ぼうとしています。",
+      "title": "/^15 Regex$/について知っておくべきこと"
+    },
+    {
+      "locale": "zh",
+      "description": "不要害怕! 你将要学习的是计算机领域最令人恐惧的科目之一。",
+      "title": "/^15 Things to Know About Regex$/ 关于Regex的15件事"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "不要害怕! 你將要學習的是計算機領域最令人恐懼的科目之一。",
+      "title": "/^15 Things to Know About Regex$/ 關於Regex的15件事"
+    }
+  ]
 }
