@@ -48,5 +48,22 @@
   "original_created_at": "2021-08-12T16:30:54Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9gG6cuzG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/16vr2ain5u1l20ca40wk.jpg",
   "author": "Narate Ketram",
-  "author_url": "https://dev.to/narate"
+  "author_url": "https://dev.to/narate",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "สวัสดีครับ ผมนเรศ หรือว่า เรียกสั้น ๆ ว่า นเรศ เฉย ๆ ก็ได้ วันี้ ผมจะมาวิเคราะห์ระบลงทะเบียน...。",
+      "title": "ระบบลงทะเบียน ใช้ Firebase ดีไหม?"
+    },
+    {
+      "locale": "zh",
+      "description": "สวัสดีครับ ผมนเรศหรือว่า เรียกสั้น ๆ ว่า เรศ เฉย ๆ กจะมา วิเคราะห์รบ ลงทะเบียน...",
+      "title": "您是否有兴趣了解Firebase？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "สวัสดีครับ ผมนเรศหรือว่า เรียกสั้น ๆ ว่า เรศ เฉย ๆ กจะมา วิเคราะห์รบ ลงทะเบียน...",
+      "title": "您是否有興趣瞭解Firebase？"
+    }
+  ]
 }
