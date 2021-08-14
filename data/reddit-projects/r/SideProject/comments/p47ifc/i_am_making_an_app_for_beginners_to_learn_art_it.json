@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私は、初心者がアートを学ぶためのアプリを作っています。このアプリは、あなたのペースに合わせて、ステップごとに音声で芸術のアニメーションを再生します。描いた絵を自動的に比較して採点してくれます。感想をお寄せいただければ幸いです。事前登録は https://play.google.com/store/apps/details?id=io.github.alamkanak.artguide で。"
+    },
+    {
+      "locale": "zh",
+      "title": "我正在制作一个供初学者学习艺术的应用程序。它按照你的节奏一步一步地播放艺术的配音动画。它可以自动比较并给你的艺术打分。如果你能分享一些反馈意见，我将非常高兴。预先注册：https://play.google.com/store/apps/details?id=io.github.alamkanak.artguide"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我正在製作一個供初學者學習藝術的應用程序。它按照你的節奏一步一步地播放藝術的配音動畫。它可以自動比較並給你的藝術打分。如果你能分享一些反饋意見，我將非常高興。預先註冊：https://play.google.com/store/apps/details?id=io.github.alamkanak.artguide"
+    }
+  ]
 }
