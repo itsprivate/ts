@@ -39,5 +39,22 @@
   "original_created_at": "2021-07-30T14:47:36Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TDUwXxCo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rbbs8jgf5kh60izniw5m.png",
   "author": "Alexandre Freire",
-  "author_url": "https://dev.to/alexandrefreire"
+  "author_url": "https://dev.to/alexandrefreire",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "By https://github.com/trekhleb/javascript-algorithms JavaScript Algorithms and Data...",
+      "title": "JavaScriptのアルゴリズムとデータ構造"
+    },
+    {
+      "locale": "zh",
+      "description": "通过https://github.com/trekhleb/javascript-algorithms JavaScript算法和数据...",
+      "title": "JavaScript算法和数据结构"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "通過https://github.com/trekhleb/javascript-algorithms JavaScript算法和數據...",
+      "title": "JavaScript算法和數據結構"
+    }
+  ]
 }
