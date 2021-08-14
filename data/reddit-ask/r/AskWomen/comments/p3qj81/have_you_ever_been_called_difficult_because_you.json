@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "基準があるから難しいと言われたことはありますか？それを受け入れるためにどのような努力をしましたか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你有没有因为你有标准而被称为难缠？你是如何努力接受它的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你有沒有因爲你有標準而被稱爲難纏？你是如何努力接受它的？"
+    }
+  ]
 }

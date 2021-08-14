@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼はまだ探している"
+    },
+    {
+      "locale": "zh",
+      "title": "他仍在寻找"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他仍在尋找"
+    }
+  ]
 }

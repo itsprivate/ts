@@ -35,5 +35,22 @@
   "original_created_at": "2021-08-12T19:21:03Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s---MeRQEQq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4cypgtbty6g7qmmz5k37.png",
   "author": "TechSnack - Technology Tutorials",
-  "author_url": "https://dev.to/techsnack"
+  "author_url": "https://dev.to/techsnack",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "レスポンシブデザインは難しいものではありません。 Flex Boxを使えば、簡単に...",
+      "title": "Pure CSS Flex Box レスポンシブデザイン - メディアクエリなし"
+    },
+    {
+      "locale": "zh",
+      "description": "响应性设计不一定很困难 有了Flex Box，我们可以很容易地使其成为世界上最好的设计。",
+      "title": "纯粹的CSS Flex Box响应式设计--无需媒体查询"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "響應性設計不一定很困難 有了Flex Box，我們可以很容易地使其成爲世界上最好的設計。",
+      "title": "純粹的CSS Flex Box響應式設計--無需媒體查詢"
+    }
+  ]
 }
