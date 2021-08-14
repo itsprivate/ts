@@ -52,5 +52,22 @@
   "original_created_at": "2021-08-13T16:25:02Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VmdmIOpq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ev607b14eboz1jnlucdl.gif",
   "author": "Lee Reilly",
-  "author_url": "https://dev.to/leereilly"
+  "author_url": "https://dev.to/leereilly",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あなたは、13kB以下のJavaScript、CSS、HTMLを使って、たった30分でゲームを作れると思いますか？",
+      "title": "Kontra.jsでJS13K用の小さなゲームを作る"
+    },
+    {
+      "locale": "zh",
+      "description": "你认为你能在短短30天内用不到13kB的JavaScript、CSS和/或HTML构建一个游戏吗？",
+      "title": "用Kontra.js为JS13K建立一个小游戏"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你認爲你能在短短30天內用不到13kB的JavaScript、CSS和/或HTML構建一個遊戲嗎？",
+      "title": "用Kontra.js爲JS13K建立一個小遊戲"
+    }
+  ]
 }
