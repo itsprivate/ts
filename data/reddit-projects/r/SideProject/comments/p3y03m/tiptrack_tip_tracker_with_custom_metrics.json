@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "TipTrack - カスタムメトリクスを備えたチップトラッカー。"
+    },
+    {
+      "locale": "zh",
+      "title": "TipTrack - 具有自定义指标的提示跟踪器。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "TipTrack - 具有自定義指標的提示跟蹤器。"
+    }
+  ]
 }
