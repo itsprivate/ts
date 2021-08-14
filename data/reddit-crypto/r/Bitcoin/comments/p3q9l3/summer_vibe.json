@@ -65,5 +65,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "夏の雰囲気"
+    },
+    {
+      "locale": "zh",
+      "title": "夏天的气息"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "夏天的氣息"
+    }
+  ]
 }
