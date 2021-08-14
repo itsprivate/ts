@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "JFKはビットコインを発明した"
+    },
+    {
+      "locale": "zh",
+      "title": "JFK发明了比特币"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "JFK發明了比特幣"
+    }
+  ]
 }
