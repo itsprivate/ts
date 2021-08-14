@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-11T17:00:54Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zsZdol3b--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2ez4oruk4cn2qyjjurjq.png",
   "author": "Andrei Chirila",
-  "author_url": "https://dev.to/kerosz"
+  "author_url": "https://dev.to/kerosz",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、アルゴリズムの複雑さと、その複雑さを大まかに表す方法をご紹介します。",
+      "title": "ビッグ・オー、コード効率解析"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我将尽力向你介绍算法的复杂性和一种大致的方法。",
+      "title": "大O，代码效率分析"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我將盡力向你介紹算法的複雜性和一種大致的方法。",
+      "title": "大O，代碼效率分析"
+    }
+  ]
 }
