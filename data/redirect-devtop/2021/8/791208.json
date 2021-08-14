@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-13T21:50:20Z",
   "image": "https://dev.to/social_previews/article/791208.png",
   "author": "Pavan K Jadda",
-  "author_url": "https://dev.to/pavankjadda"
+  "author_url": "https://dev.to/pavankjadda",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "オーソライズドガードは、許可されていないユーザーが、許可されていない時にWebページにアクセスすることを防ぎます。",
+      "title": "React Routerによる認証ガード\n"
+    },
+    {
+      "locale": "zh",
+      "description": "授权卫士可以防止未经授权的用户在他们不在时访问网页。",
+      "title": "使用React Router的授权卫士\n"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "授權衛士可以防止未經授權的用戶在他們不在時訪問網頁。",
+      "title": "使用React Router的授權衛士\n"
+    }
+  ]
 }
