@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-12T11:03:58Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GN3qgMZw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/36pefz690wntlzspwjpu.png",
   "author": "Emma Donery",
-  "author_url": "https://dev.to/emma_donery"
+  "author_url": "https://dev.to/emma_donery",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Dockerは、アプリケーションを作成、デプロイ、実行するために設計された、オープンソースの集中型プラットフォームです。それは...",
+      "title": "Docker - 基礎を理解する"
+    },
+    {
+      "locale": "zh",
+      "description": "Docker是一个开源的集中式平台，旨在创建、部署和运行应用程序。它...",
+      "title": "Docker - 了解基础知识"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Docker是一個開源的集中式平臺，旨在創建、部署和運行應用程序。它...",
+      "title": "Docker - 瞭解基礎知識"
+    }
+  ]
 }
