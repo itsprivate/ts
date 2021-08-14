@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ここにタンクのビデオがあります、あなた方は彼がどれほど愚かでかわいいかを評価しました。"
+    },
+    {
+      "locale": "zh",
+      "title": "这是坦克的视频，因为你们欣赏他的愚蠢可爱。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是坦克的視頻，因爲你們欣賞他的愚蠢可愛。"
+    }
+  ]
 }
