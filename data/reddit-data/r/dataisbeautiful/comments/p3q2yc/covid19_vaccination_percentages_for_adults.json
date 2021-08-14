@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "COVID-19 ワクチン接種率（2021年8月12日現在、米国、EU、カリフォルニア、AUの主要な西欧文明圏に位置する成人を対象としています。[OC]."
+    },
+    {
+      "locale": "zh",
+      "title": "截至2021年8月12日，位于美国、欧盟、加州和澳大利亚等主要西方文明国家的成年人的COVID-19疫苗接种率。[OC]"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "截至2021年8月12日，位於美國、歐盟、加州和澳大利亞等主要西方文明國家的成年人的COVID-19疫苗接種率。[OC]"
+    }
+  ]
 }
