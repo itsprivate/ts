@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-12T08:08:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--muig9umo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ec4opt4162v2gm3rdpx0.jpg",
   "author": "Benjamin Kalungi",
-  "author_url": "https://dev.to/bk_973"
+  "author_url": "https://dev.to/bk_973",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ソフトウェア開発者は、コードの書き方を学ぶだけでは終わりません。それは始まりに過ぎないのです...",
+      "title": "これらの習慣は、あなたをより良い開発者にするでしょう。"
+    },
+    {
+      "locale": "zh",
+      "description": "学习如何编码并不是一个软件开发人员旅程的终点。它只是一个开始...",
+      "title": "这些习惯将使你成为更好的开发者"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "學習如何編碼並不是一個軟件開發人員旅程的終點。它只是一個開始...",
+      "title": "這些習慣將使你成爲更好的開發者"
+    }
+  ]
 }
