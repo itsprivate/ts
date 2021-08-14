@@ -91,5 +91,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "美しい瞬間"
+    },
+    {
+      "locale": "zh",
+      "title": "这样一个美丽的时刻"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這樣一個美麗的時刻"
+    }
+  ]
 }
