@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-13T21:36:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--c8ZptLZa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/egd6bb2f8lojm9be13cb.png",
   "author": "Anvil Engineering",
-  "author_url": "https://dev.to/useanvil"
+  "author_url": "https://dev.to/useanvil",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "AnvilのPDF生成APIエンドポイントは、HTMLやCSSからのPDF生成に対応しています。そのために...",
+      "title": "Reactとstyled-componentsを使ってPDFを生成する。"
+    },
+    {
+      "locale": "zh",
+      "description": "Anvil的PDF生成API端点支持从HTML和CSS生成PDF。为了...",
+      "title": "使用React和styled-components来生成PDF文件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Anvil的PDF生成API端點支持從HTML和CSS生成PDF。爲了...",
+      "title": "使用React和styled-components來生成PDF文件"
+    }
+  ]
 }
