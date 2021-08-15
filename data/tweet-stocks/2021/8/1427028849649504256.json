@@ -63,5 +63,22 @@
     },
     "retweet_count": 232,
     "favorite_count": 381
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @PeterAlexander 新着情報：米軍は少なくとも500人の大使館員を軍用機でアフガニスタンから脱出させたと、国防当局が発表しました。",
+      "retweeted_status_full_text": "NEW: 米軍は少なくとも500人の大使館員を軍用機でアフガニスタンから脱出させたと国防当局者が@ckubeNBCに語っています。\n1日に5,000人の輸送を目指しているが、2、3日はその能力がないだろう。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @PeterAlexander: 新消息：国防部官员表示，美国军方已经用军用飞机将至少500名使馆人员送出阿富汗。",
+      "retweeted_status_full_text": "新消息：国防部官员告诉@ckubeNBC，美军已经用军用飞机将至少500名使馆人员送出阿富汗。\n他们正在努力争取每天运送5000人，但在几天内不会有这种能力。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @PeterAlexander: 新消息：國防部官員表示，美國軍方已經用軍用飛機將至少500名使館人員送出阿富汗。",
+      "retweeted_status_full_text": "新消息：國防部官員告訴@ckubeNBC，美軍已經用軍用飛機將至少500名使館人員送出阿富汗。\n他們正在努力爭取每天運送5000人，但在幾天內不會有這種能力。"
+    }
+  ]
 }
