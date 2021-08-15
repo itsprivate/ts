@@ -76,5 +76,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-14T07:00:00Z"
+  "original_createdAt": "2021-08-14T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このアプリの背景にあるアイデアはシンプルで、私の個人的な1年間の実験（ここで読むことができます： https://skob.medium.com/ ）や以下のような本に基づいています。📘 The Slight Edge 📗 Atomic Habits 📙 The Power of Habit あなたは習慣追跡アプリについて、どのような点が好きですか、嫌いですか？",
+      "tagline": "習慣形成アプリ"
+    },
+    {
+      "locale": "zh",
+      "description": "这个应用程序背后的想法很简单，是基于我个人为期1年的实验（你可以在这里阅读：https://skob.medium.com/ ）和一些书籍，例如： 📘 The Slight Edge 📗 Atomic Habits 📙 The Power of Habit 你喜欢/不喜欢习惯追踪应用程序吗？",
+      "tagline": "习惯养成应用"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這個應用程序背後的想法很簡單，是基於我個人爲期1年的實驗（你可以在這裏閱讀：https://skob.medium.com/ ）和一些書籍，例如： 📘 The Slight Edge 📗 Atomic Habits 📙 The Power of Habit 你喜歡/不喜歡習慣追蹤應用程序嗎？",
+      "tagline": "習慣養成應用"
+    }
+  ]
 }

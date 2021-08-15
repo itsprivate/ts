@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[記事］マッケンジー・スコットのマネーボムは、たった一人でアメリカを再構築している。"
+    },
+    {
+      "locale": "zh",
+      "title": "[文章]麦肯锡-斯科特的金钱炸弹正在单枪匹马地重塑美国。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[文章]麥肯錫-斯科特的金錢炸彈正在單槍匹馬地重塑美國。"
+    }
+  ]
 }
