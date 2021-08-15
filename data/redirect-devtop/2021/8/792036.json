@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-14T23:25:39Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kOrNuNAY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0niv97ie6ccvqhc6uq3d.jpg",
   "author": "Aya Bouchiha",
-  "author_url": "https://dev.to/ayabouchiha"
+  "author_url": "https://dev.to/ayabouchiha",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さんこんにちは、Aya Bouchihaです。この記事では、10個の素晴らしいjavascriptライブラリ.... をご紹介します。",
+      "title": "10種類の素晴らしいJSライブラリをご紹介します！あなたのプロジェクトで使用することをお楽しみください。"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，我是Aya Bouchiha，在这篇文章中，我将与大家分享10个惊人的javascript库....。",
+      "title": "10个最惊人的JS库，几乎你会喜欢在你的项目中使用它们!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，我是Aya Bouchiha，在這篇文章中，我將與大家分享10個驚人的javascript庫....。",
+      "title": "10個最驚人的JS庫，幾乎你會喜歡在你的項目中使用它們!"
+    }
+  ]
 }
