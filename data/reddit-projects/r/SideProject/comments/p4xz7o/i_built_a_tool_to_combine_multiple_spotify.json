@@ -42,5 +42,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Anyone who uses Spotify as much as I do knows their shuffle algorithm is\ndesigned to feel random but isn't really random.\n\nSpotify prefers the same subset of songs you listen to the most and plays them\nin random order when you hit shuffle on a playlist, this is a problem because\nyou end up losing…"
+  "the_new_excerpt": "Anyone who uses Spotify as much as I do knows their shuffle algorithm is\ndesigned to feel random but isn't really random.\n\nSpotify prefers the same subset of songs you listen to the most and plays them\nin random order when you hit shuffle on a playlist, this is a problem because\nyou end up losing…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私と同じようにSpotifyを利用している人なら、そのシャッフルアルゴリズムが\nランダムに感じるように設計されていますが、実際にはランダムではありません。\n\nSpotifyは、あなたが最もよく聴く曲の同じサブセットを好み、プレイリストでシャッフルを押すと、それらをランダムな順序で再生します。\nプレイリストのシャッフルボタンを押すと、ランダムな順番で再生されます。\nこれが問題なのです...",
+      "title": "複数のSpotifyプレイリストを偏りなくシャッフルして組み合わせるツールを作ってみた"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "任何像我一样经常使用Spotify的人都知道他们的随机算法是\n被设计成感觉是随机的，但并不是真的随机。\n\nSpotify更喜欢你听得最多的歌曲子集，当你在播放列表上按随机顺序播放它们时\n当你在播放列表上点击随机顺序时，这是个问题，因为\n你最终会失去...",
+      "title": "我建立了一个工具，将多个Spotify播放列表与无偏见的洗牌相结合"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "任何像我一樣經常使用Spotify的人都知道他們的隨機算法是\n被設計成感覺是隨機的，但並不是真的隨機。\n\nSpotify更喜歡你聽得最多的歌曲子集，當你在播放列表上按隨機順序播放它們時\n當你在播放列表上點擊隨機順序時，這是個問題，因爲\n你最終會失去...",
+      "title": "我建立了一個工具，將多個Spotify播放列表與無偏見的洗牌相結合"
+    }
+  ]
 }
