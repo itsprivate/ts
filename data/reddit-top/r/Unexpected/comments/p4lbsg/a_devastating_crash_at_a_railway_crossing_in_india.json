@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "インドの踏切で発生した大惨事"
+    },
+    {
+      "locale": "zh",
+      "title": "在印度的一个铁路口岸发生了毁灭性的车祸"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在印度的一個鐵路口岸發生了毀滅性的車禍"
+    }
+  ]
 }
