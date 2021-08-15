@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-15T01:51:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ujzjNqIQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t5z9zbkniv5zmz8shxfn.png",
   "author": "TechSnack - Technology Tutorials",
-  "author_url": "https://dev.to/techsnack"
+  "author_url": "https://dev.to/techsnack",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "PWAとは何ですか？   PWA（Progressive Web Application）とは、アプリソフトの一種であり、...",
+      "title": "プログレッシブウェブアプリを理解する。モバイル体験を提供する - 2021年のHTML5とJavaScriptのサービスワーカー"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是PWA？   PWA（渐进式网络应用程序）是一种交付的应用程序软件。",
+      "title": "了解渐进式网络应用程序。提供移动体验 - 2021年的HTML5和JavaScript服务工作者"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是PWA？   PWA（漸進式網絡應用程序）是一種交付的應用程序軟件。",
+      "title": "瞭解漸進式網絡應用程序。提供移動體驗 - 2021年的HTML5和JavaScript服務工作者"
+    }
+  ]
 }

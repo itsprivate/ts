@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これを作った感想は？"
+    },
+    {
+      "locale": "zh",
+      "title": "做了这个，有什么想法？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "做了這個，有什麼想法？"
+    }
+  ]
 }
