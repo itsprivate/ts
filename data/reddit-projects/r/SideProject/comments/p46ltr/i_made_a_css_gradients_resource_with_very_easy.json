@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "とても簡単に編集できるCSSグラデーションのリソースを作ってみました。(コメントにリンク)"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个CSS梯度资源，非常容易编辑。(链接在评论中)"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個CSS梯度資源，非常容易編輯。(鏈接在評論中)"
+    }
+  ]
 }
