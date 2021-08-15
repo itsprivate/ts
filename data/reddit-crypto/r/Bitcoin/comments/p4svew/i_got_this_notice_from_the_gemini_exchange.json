@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ジェミニ取引所から、違法行為を告発するこの通知が届きました。誰かこのようなものを受け取った人はいますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "我收到双子座交易所的这个通知，指控我从事非法活动。还有人收到这样的通知吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我收到雙子座交易所的這個通知，指控我從事非法活動。還有人收到這樣的通知嗎？"
+    }
+  ]
 }
