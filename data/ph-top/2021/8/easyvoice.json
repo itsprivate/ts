@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-15T07:00:00Z"
+  "original_createdAt": "2021-08-15T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Easyvoiceは、Amazon AlexaやGoogle Assistant向けの音声アプリをデザイン、プロトタイプ、公開するための、無料のオンライン・ノーコード・ツールです。あなたのアイデアを音声アプリで実現してみませんか？",
+      "tagline": "コードレスの開発プラットフォームで、魅力的な音声アプリを作ることができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "Easyvoice是一个免费的在线无代码工具，用于设计、制作原型并向亚马逊Alexa和谷歌助手发布语音应用。让你的想法通过语音应用变成现实吧!",
+      "tagline": "利用无代码开发平台制作令人惊叹的语音应用程序。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Easyvoice是一個免費的在線無代碼工具，用於設計、製作原型並向亞馬遜Alexa和谷歌助手發佈語音應用。讓你的想法通過語音應用變成現實吧!",
+      "tagline": "利用無代碼開發平臺製作令人驚歎的語音應用程序。"
+    }
+  ]
 }
