@@ -39,5 +39,22 @@
   "original_created_at": "2021-08-04T02:33:29Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bWFjc1fk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nbhgtq6u13pkfw1flua7.jpg",
   "author": "M. Akbar Nugroho",
-  "author_url": "https://dev.to/thexdev"
+  "author_url": "https://dev.to/thexdev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "フォームは、どのようなアプリケーションにも必ず存在する中核的な機能の一つです。この機能により、私たちは...",
+      "title": "react-hook-formによるフォーム検証"
+    },
+    {
+      "locale": "zh",
+      "description": "表格是任何应用程序中必须存在的核心功能之一。这一功能使我们能够...",
+      "title": "用react-hook-form进行表单验证"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "表格是任何應用程序中必須存在的核心功能之一。這一功能使我們能夠...",
+      "title": "用react-hook-form進行表單驗證"
+    }
+  ]
 }
