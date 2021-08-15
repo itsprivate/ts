@@ -1,0 +1,83 @@
+{
+  "created_at": "Sun Aug 15 21:35:32 +0000 2021",
+  "id_str": "1427019170995183618",
+  "full_text": "My twitter account is under attack. Hundreds of scam bot spam comments like below under my tweets. I already closed DM because of spam, now I also have to close replies. @twitter @TwitterSupport your platform is becoming unusable because of all spam bots. https://t.co/l7V8QZCOQO",
+  "display_text_range": [
+    0,
+    255
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Twitter",
+        "name": "Twitter",
+        "id": 783214,
+        "id_str": "783214",
+        "indices": [
+          170,
+          178
+        ]
+      },
+      {
+        "screen_name": "TwitterSupport",
+        "name": "Twitter Support",
+        "id": 17874544,
+        "id_str": "17874544",
+        "indices": [
+          179,
+          194
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 1427019168218554400,
+        "id_str": "1427019168218554372",
+        "indices": [
+          256,
+          279
+        ],
+        "media_url": "http://pbs.twimg.com/media/E83KX3FXIAQuavd.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/E83KX3FXIAQuavd.jpg",
+        "url": "https://t.co/l7V8QZCOQO",
+        "display_url": "pic.twitter.com/l7V8QZCOQO",
+        "expanded_url": "https://twitter.com/100trillionUSD/status/1427019170995183618/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 314,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 554,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 945,
+            "h": 2048,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "PlanB",
+    "screen_name": "100trillionUSD",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407223894600302594/gBUVNH89_normal.jpg"
+  },
+  "retweet_count": 64,
+  "favorite_count": 465,
+  "possibly_sensitive": false,
+  "original_created_at": "Sun Aug 15 21:27:37 +0000 2021"
+}
