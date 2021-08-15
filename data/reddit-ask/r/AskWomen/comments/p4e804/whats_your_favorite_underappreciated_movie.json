@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの好きな低評価の映画は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你最喜欢哪部不被重视的电影？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你最喜歡哪部不被重視的電影？"
+    }
+  ]
 }
