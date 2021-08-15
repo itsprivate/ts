@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-13T18:03:24Z",
   "image": "https://dev.to/social_previews/article/791142.png",
   "author": "Aryan Chopra",
-  "author_url": "https://dev.to/aryanchopra"
+  "author_url": "https://dev.to/aryanchopra",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "サーバーサイドレンダリングとクライアントサイドレンダリングって一体何なんだろうと思われた方。そんなあなたには",
+      "title": "次のプロジェクトでのクライアントサイドレンダリングとサーバーサイドレンダリングの選択"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你想知道什么是服务器端渲染和客户端渲染？让我给你...",
+      "title": "为你的*下一个项目在客户端渲染和服务器端渲染之间做出选择"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你想知道什麼是服務器端渲染和客戶端渲染？讓我給你...",
+      "title": "爲你的*下一個項目在客戶端渲染和服務器端渲染之間做出選擇"
+    }
+  ]
 }
