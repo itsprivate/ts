@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-14T21:07:37Z",
   "image": "https://dev.to/social_previews/article/792020.png",
   "author": "Danyson",
-  "author_url": "https://dev.to/danyson"
+  "author_url": "https://dev.to/danyson",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Node.jsのconsole.logとconsole.error Node.jsに組み込まれているこのコンソールモジュールでは...",
+      "title": "デバッグにconsole.log()を使ってはいけない理由は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "Node.js的console.log和console.error 这个Node.js的内置控制台模块可以让你...",
+      "title": "为什么你不应该使用 console.log( )进行调试？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Node.js的console.log和console.error 這個Node.js的內置控制檯模塊可以讓你...",
+      "title": "爲什麼你不應該使用 console.log( )進行調試？"
+    }
+  ]
 }
