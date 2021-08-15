@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この人のピザ生地の食べ方！？"
+    },
+    {
+      "locale": "zh",
+      "title": "这个人做比萨饼面团的方式!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個人做比薩餅麪糰的方式!"
+    }
+  ]
 }
