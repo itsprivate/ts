@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-14T08:07:32Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rDXnoB_i--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bdpf9zokln7lasxxznor.jpg",
   "author": "Gogulaanand",
-  "author_url": "https://dev.to/gogulaanand"
+  "author_url": "https://dev.to/gogulaanand",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、マジックリンクでユーザーを認証するケースが増えています（正当な理由があります）。マジックリンクとは、...",
+      "title": "Reactでのマジックリンクによる認証"
+    },
+    {
+      "locale": "zh",
+      "description": "通过魔法链接认证用户的做法最近正在兴起（有一个很好的理由）。魔力链接是一个很好的解决方案。",
+      "title": "在React中用魔法链接进行认证"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "通過魔法鏈接認證用戶的做法最近正在興起（有一個很好的理由）。魔力鏈接是一個很好的解決方案。",
+      "title": "在React中用魔法鏈接進行認證"
+    }
+  ]
 }
