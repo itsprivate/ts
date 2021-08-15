@@ -43,5 +43,22 @@
   "original_created_at": "2021-06-15T12:23:34Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Jc0yW3QM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v6y62nl6gxyl2bkdcf17.png",
   "author": "Siddharth Venkatesh",
-  "author_url": "https://dev.to/sidv93"
+  "author_url": "https://dev.to/sidv93",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "データフェッチは、ステートマネジメントのような重要性や脚光を浴びることはないと感じていますが...。",
+      "title": "リアクトクエリーでよりきれいにデータを取得する"
+    },
+    {
+      "locale": "zh",
+      "description": "我觉得数据获取没有得到像状态管理那样的重视和关注。",
+      "title": "用react-query进行更清洁的数据获取"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我覺得數據獲取沒有得到像狀態管理那樣的重視和關注。",
+      "title": "用react-query進行更清潔的數據獲取"
+    }
+  ]
 }

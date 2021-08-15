@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "グイナピッグトラフィック"
+    },
+    {
+      "locale": "zh",
+      "title": "吉娜猪交通"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "吉娜豬交通"
+    }
+  ]
 }
