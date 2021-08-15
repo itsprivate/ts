@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Why YSK: You may, for example, be paying for a UHD 4k Netflix plan but only\ngetting 540p or even 480p streams depending on your device. Check with your\nstreaming provider for their list of \"compatible devices\"."
+  "the_new_excerpt": "Why YSK: You may, for example, be paying for a UHD 4k Netflix plan but only\ngetting 540p or even 480p streams depending on your device. Check with your\nstreaming provider for their list of \"compatible devices\".",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "YSKの理由：例えば、NetflixのUHD 4kプランを購入しても\n例えば、NetflixのUHD 4kプランを利用していても、デバイスによっては540pや480pのストリームしか見られない場合があります。ストリーミングプロバイダーに\nストリーミングプロバイダーの「互換性のあるデバイス」のリストを確認してください。",
+      "title": "YSKは、Googleのストリーミングコンテンツ用DRMソリューションであるWidevineについて、次のように述べています。Widevineは、ほとんどの主要なストリーミングプラットフォームで使用されており、デバイスごとに、料金に関係なく、どのビデオ解像度でのストリーミングを許可するかを決定します。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么是YSK：例如，你可能为一个UHD 4k Netflix计划付费，但只得到540p甚至480p的流媒体，这取决于你的设备。\n得到540p甚至480p的流，这取决于你的设备。请向您的\n流媒体供应商的 \"兼容设备 \"列表。",
+      "title": "YSK关于Widevine，谷歌的流媒体内容的DRM解决方案。它被大多数顶级流媒体平台所使用，并决定了每个设备允许以何种视频分辨率进行流媒体播放，而不管你支付的是什么。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼是YSK：例如，你可能爲一個UHD 4k Netflix計劃付費，但只得到540p甚至480p的流媒體，這取決於你的設備。\n得到540p甚至480p的流，這取決於你的設備。請向您的\n流媒體供應商的 \"兼容設備 \"列表。",
+      "title": "YSK關於Widevine，谷歌的流媒體內容的DRM解決方案。它被大多數頂級流媒體平臺所使用，並決定了每個設備允許以何種視頻分辨率進行流媒體播放，而不管你支付的是什麼。"
+    }
+  ]
 }
