@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この地図は、Countries WikiProjectによる、ウィキペディアの記事の質を示しています。(注：これは国の質ではなく、ウィキペディアの記事の質です。) [OC]."
+    },
+    {
+      "locale": "zh",
+      "title": "这张地图显示了维基百科文章的质量，根据Country WikiProject的数据。(注意：这不是国家的质量，这是维基百科文章的质量) [OC]"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這張地圖顯示了維基百科文章的質量，根據Country WikiProject的數據。(注意：這不是國家的質量，這是維基百科文章的質量) [OC]"
+    }
+  ]
 }
