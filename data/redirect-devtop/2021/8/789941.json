@@ -52,5 +52,22 @@
   "original_created_at": "2021-08-12T20:40:29Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--x9q_cVRD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b4bahwdddwjgbinwk2fe.png",
   "author": "Erin Schaffer",
-  "author_url": "https://dev.to/erineducative"
+  "author_url": "https://dev.to/erineducative",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "効果的なWebアプリケーションを設計するためには、ソフトウェア・アーキテクチャを正しく理解することが重要です。....",
+      "title": "六角柱建築のチュートリアル。保守性の高いウェブアプリケーションの構築"
+    },
+    {
+      "locale": "zh",
+      "description": "在设计一个有效的网络应用程序时，重要的是要把你的软件架构做好....。",
+      "title": "六边形架构教程。构建可维护的网络应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在設計一個有效的網絡應用程序時，重要的是要把你的軟件架構做好....。",
+      "title": "六邊形架構教程。構建可維護的網絡應用程序"
+    }
+  ]
 }
