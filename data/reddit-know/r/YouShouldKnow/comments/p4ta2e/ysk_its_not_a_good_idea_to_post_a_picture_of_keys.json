@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Why YSK: it is so easy to make a copy of a key from a picture."
+  "the_new_excerpt": "Why YSK: it is so easy to make a copy of a key from a picture.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "なぜYSKかというと、写真からキーのコピーを作るのはとても簡単だからです。",
+      "title": "YSK キーの写真をネットにアップするのはよくないですね。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么是YSK：从图片中复制一个钥匙是如此容易。",
+      "title": "YSK在网上发布钥匙的照片不是一个好主意。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼是YSK：從圖片中複製一個鑰匙是如此容易。",
+      "title": "YSK在網上發佈鑰匙的照片不是一個好主意。"
+    }
+  ]
 }

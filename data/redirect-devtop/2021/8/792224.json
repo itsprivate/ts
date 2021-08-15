@@ -43,5 +43,22 @@
   "original_created_at": "2021-08-15T07:29:35Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--torJcUep--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sqiei2s1ymuuq9n9qg6l.jpg",
   "author": "Trung Hieu Nguyen",
-  "author_url": "https://dev.to/trunghieu99tt"
+  "author_url": "https://dev.to/trunghieu99tt",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "useEffectは、ReactJS開発者が知っておくべき最も一般的なReact Hooksの一つです。しかし、使用...",
+      "title": "あなたはuseEffectを知りません。"
+    },
+    {
+      "locale": "zh",
+      "description": "useEffect是最常见的React Hooks之一，每个ReactJS开发者都应该知道。但使用...",
+      "title": "你不知道useEffect"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "useEffect是最常見的React Hooks之一，每個ReactJS開發者都應該知道。但使用...",
+      "title": "你不知道useEffect"
+    }
+  ]
 }
