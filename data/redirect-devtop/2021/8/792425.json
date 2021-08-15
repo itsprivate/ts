@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-15T12:29:51Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UICVO2or--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iey6fxonkgrenjr8yxi6.png",
   "author": "Nilanth",
-  "author_url": "https://dev.to/nilanth"
+  "author_url": "https://dev.to/nilanth",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Create React Appでサードパーティのパッケージを使わずに絶対的なImportを設定する手順。 あなたは...",
+      "title": "Reactでの.../.../...インポートの廃止"
+    },
+    {
+      "locale": "zh",
+      "description": "在Create React App中配置绝对导入的步骤，无需任何第三方软件包。 你是否...",
+      "title": "在React中不再有./././的导入"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在Create React App中配置絕對導入的步驟，無需任何第三方軟件包。 你是否...",
+      "title": "在React中不再有./././的導入"
+    }
+  ]
 }
