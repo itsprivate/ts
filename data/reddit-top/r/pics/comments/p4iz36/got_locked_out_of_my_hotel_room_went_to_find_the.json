@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ホテルの部屋から閉め出されてしまい、フロントの女性を探しに行くと、カウンターにこれが置いてありました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我被锁在酒店房间外面，去找前台小姐，柜台上有这个。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我被鎖在酒店房間外面，去找前臺小姐，櫃檯上有這個。"
+    }
+  ]
 }
