@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このビデオはここに属していると思います。"
+    },
+    {
+      "locale": "zh",
+      "title": "我认为这个视频属于这里。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我認爲這個視頻屬於這裏。"
+    }
+  ]
 }
