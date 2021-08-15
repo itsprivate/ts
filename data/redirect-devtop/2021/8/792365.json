@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-15T10:10:58Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--h3HhCmWr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fkkm0apz7u709x3yxpex.png",
   "author": "Modern Web",
-  "author_url": "https://dev.to/kunaal438"
+  "author_url": "https://dev.to/kunaal438",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは。今日は、HTML、CSS、JSのみを使ってdisney plusのUIクローンを簡単に作成する方法をご紹介します....。",
+      "title": "純粋なHTML、CSS、JSでDisney plusのクローンを作る方法"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，今天我们将看到，我们如何使用HTML、CSS和JS轻松创建一个迪斯尼加的UI克隆....。",
+      "title": "如何用纯HTML、CSS、JS创建Disney plus的克隆产品"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，今天我們將看到，我們如何使用HTML、CSS和JS輕鬆創建一個迪斯尼加的UI克隆....。",
+      "title": "如何用純HTML、CSS、JS創建Disney plus的克隆產品"
+    }
+  ]
 }
