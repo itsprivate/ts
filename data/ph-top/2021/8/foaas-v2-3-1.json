@@ -72,5 +72,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-15T07:01:00Z"
+  "original_createdAt": "2021-08-15T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "FOAAS（Fuck Off As A Service）は、人に「消えろ」と言うという一般的な問題に対して、最新のRESTfulでスケーラブルなソリューションを提供します。",
+      "tagline": "F*** Off As A Service"
+    },
+    {
+      "locale": "zh",
+      "description": "FOAAS（Fuck Off As A Service）为告诉人们滚蛋的常见问题提供了一个现代、RESTful、可扩展的解决方案。",
+      "tagline": "摆脱困境作为一种服务"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "FOAAS（Fuck Off As A Service）爲告訴人們滾蛋的常見問題提供了一個現代、RESTful、可擴展的解決方案。",
+      "tagline": "擺脫困境作爲一種服務"
+    }
+  ]
 }
