@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "What are you favourite 10 pages or less short stories?"
+  "the_new_excerpt": "What are you favourite 10 pages or less short stories?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "お気に入りの10ページ以内のショートストーリーを教えてください。",
+      "title": "お気に入りの10ページ以内のショートストーリーを教えてください。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你最喜欢的10页或更少的短篇小说是什么？",
+      "title": "你最喜欢的10页或更少的短篇小说是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你最喜歡的10頁或更少的短篇小說是什麼？",
+      "title": "你最喜歡的10頁或更少的短篇小說是什麼？"
+    }
+  ]
 }
