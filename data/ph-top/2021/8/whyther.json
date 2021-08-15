@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-14T07:01:00Z"
+  "original_createdAt": "2021-08-14T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Whytherは、シンプルで正確な天気予報アプリです。ウェブサイトとPWA( https://en.wikipedia.org/wiki/Progressive_web_application )でご利用いただけます。Whytherは、あなたが必要とするすべての天気を1つのエレガントなレイアウトで表示します。お客様のデータは一切保存されません。",
+      "tagline": "シンプルで正確な天気予報アプリです。"
+    },
+    {
+      "locale": "zh",
+      "description": "Whyther是一个简单而准确的天气应用程序。它可以作为网站和PWA（https://en.wikipedia.org/wiki/Progressive_web_application）使用。Whyther在一个优雅的布局中显示你所有的天气需求。我们不存储您的任何数据。",
+      "tagline": "一个简单而准确的天气应用程序。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Whyther是一個簡單而準確的天氣應用程序。它可以作爲網站和PWA（https://en.wikipedia.org/wiki/Progressive_web_application）使用。Whyther在一個優雅的佈局中顯示你所有的天氣需求。我們不存儲您的任何數據。",
+      "tagline": "一個簡單而準確的天氣應用程序。"
+    }
+  ]
 }
