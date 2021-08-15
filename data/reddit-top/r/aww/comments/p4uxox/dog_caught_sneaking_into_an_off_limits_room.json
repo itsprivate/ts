@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "立ち入り禁止の部屋に忍び込んだ犬"
+    },
+    {
+      "locale": "zh",
+      "title": "偷偷溜进禁闭室的狗被抓"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "偷偷溜進禁閉室的狗被抓"
+    }
+  ]
 }

@@ -58,5 +58,19 @@
   "retweet_count": 32,
   "favorite_count": 276,
   "possibly_sensitive": false,
-  "original_created_at": "Sun Aug 15 20:07:32 +0000 2021"
+  "original_created_at": "Sun Aug 15 20:07:32 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "実際にリリースされたのはこのhttps://t.co/eCHTo8HuOi。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "他们实际上发布了这个https://t.co/eCHTo8HuOi"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "他們實際上發佈了這個https://t.co/eCHTo8HuOi"
+    }
+  ]
 }
