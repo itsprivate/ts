@@ -155,5 +155,22 @@
     "retweet_count": 384,
     "favorite_count": 864,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @RichardEngel です。カブール空港。@AFPから https://t.co/Qw8cC05VRV",
+      "retweeted_status_full_text": "カブール空港 @AFPから https://t.co/Qw8cC05VRV"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @RichardEngel: 喀布尔机场。来自@AFP https://t.co/Qw8cC05VRV",
+      "retweeted_status_full_text": "喀布尔机场。来自@AFP https://t.co/Qw8cC05VRV"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @RichardEngel: 喀布爾機場。來自@AFP https://t.co/Qw8cC05VRV",
+      "retweeted_status_full_text": "喀布爾機場。來自@AFP https://t.co/Qw8cC05VRV"
+    }
+  ]
 }
