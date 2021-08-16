@@ -52,5 +52,22 @@
     },
     "retweet_count": 8526,
     "favorite_count": 46050
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @POTUS: 本日午後3時45分（米国東部時間）より、アフガニスタンについて国民に向けて演説を行います。",
+      "retweeted_status_full_text": "私は本日午後3時45分（日本時間）から、アフガニスタンについて国民に向けて演説を行います。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @POTUS: 我将在今天东部时间下午3:45就阿富汗问题向全国发表讲话。",
+      "retweeted_status_full_text": "我将于今天东部时间下午3:45就阿富汗问题向全国发表讲话。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @POTUS: 我將在今天東部時間下午3:45就阿富汗問題向全國發表講話。",
+      "retweeted_status_full_text": "我將於今天東部時間下午3:45就阿富汗問題向全國發表講話。"
+    }
+  ]
 }
