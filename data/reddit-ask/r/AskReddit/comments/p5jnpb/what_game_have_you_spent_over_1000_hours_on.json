@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "1000時間以上プレイしたゲームは？"
+    },
+    {
+      "locale": "zh",
+      "title": "你在什么游戏上花了超过1000小时？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你在什麼遊戲上花了超過1000小時？"
+    }
+  ]
 }
