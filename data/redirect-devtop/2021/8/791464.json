@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-14T06:01:29Z",
   "image": "https://dev.to/social_previews/article/791464.png",
   "author": "sakethk",
-  "author_url": "https://dev.to/sakethkowtha"
+  "author_url": "https://dev.to/sakethkowtha",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは👋 この記事では、context apiの助けを借りて、独自のreact-reduxを構築しようとしています ...",
+      "title": "reactのcontext apiを使って独自のreact-reduxを作成する。"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我们将在上下文api的帮助下建立自己的react-redux ...",
+      "title": "使用react中的context api创建自己的react-redux"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我們將在上下文api的幫助下建立自己的react-redux ...",
+      "title": "使用react中的context api創建自己的react-redux"
+    }
+  ]
 }
