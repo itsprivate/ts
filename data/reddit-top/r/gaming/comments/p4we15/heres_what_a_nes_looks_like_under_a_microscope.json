@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ファミコンを顕微鏡で見るとこんな感じです。"
+    },
+    {
+      "locale": "zh",
+      "title": "下面是NES在显微镜下的样子。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "下面是NES在顯微鏡下的樣子。"
+    }
+  ]
 }
