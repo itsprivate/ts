@@ -93,5 +93,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-16T12:50:00Z"
+  "original_createdAt": "2021-08-16T12:50:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近のLinkedInスクレーパーは使いづらく、ひどいメール検索を提供しています。この問題を解決するために、ClearbitとHunter.ioに直接接続してメール検索を行っています。",
+      "tagline": "ClearbitとHunter.ioでプロファイルをダウンロードしてメールを探す"
+    },
+    {
+      "locale": "zh",
+      "description": "今天的LinkedIn搜刮器很难使用，并提供糟糕的电子邮件查找。我们通过直接连接Clearbit和Hunter.io的电子邮件查找功能解决了这一问题--现在你只需一次点击就能刮取Sales Nav +查找高质量的电子邮件",
+      "tagline": "用Clearbit和Hunter.io下载配置文件+查找电子邮件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "今天的LinkedIn搜刮器很難使用，並提供糟糕的電子郵件查找。我們通過直接連接Clearbit和Hunter.io的電子郵件查找功能解決了這一問題--現在你只需一次點擊就能刮取Sales Nav +查找高質量的電子郵件",
+      "tagline": "用Clearbit和Hunter.io下載配置文件+查找電子郵件"
+    }
+  ]
 }
