@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ETHのステーキングがLedgerハードウェアウォレットから直接できるようになりました。"
+    },
+    {
+      "locale": "zh",
+      "title": "现在可以直接从你的Ledger硬件钱包中获得ETH定金了"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "現在可以直接從你的Ledger硬件錢包中獲得ETH定金了"
+    }
+  ]
 }
