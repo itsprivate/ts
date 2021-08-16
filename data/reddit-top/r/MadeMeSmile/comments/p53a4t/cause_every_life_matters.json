@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "すべての命が大切だから。"
+    },
+    {
+      "locale": "zh",
+      "title": "因为每个生命都很重要。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "因爲每個生命都很重要。"
+    }
+  ]
 }
