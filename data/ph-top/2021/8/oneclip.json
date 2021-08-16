@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-16T07:01:00Z"
+  "original_createdAt": "2021-08-16T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "クリップボードを近くの人と共有することができます。オープンソース、セットアップなし、サインアップなし。",
+      "tagline": "クリップボードを近くの人と共有"
+    },
+    {
+      "locale": "zh",
+      "description": "与附近的人分享你的剪贴板。开源，无需设置，无需注册。",
+      "tagline": "与附近的人分享你的剪贴板"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "與附近的人分享你的剪貼板。開源，無需設置，無需註冊。",
+      "tagline": "與附近的人分享你的剪貼板"
+    }
+  ]
 }
