@@ -50,5 +50,22 @@
   "original_created_at": "2021-08-16T06:57:29Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uFJkbOC5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9l6az8iq7ovvw7z07pey.jpg",
   "author": "Mike Talbot",
-  "author_url": "https://dev.to/miketalbot"
+  "author_url": "https://dev.to/miketalbot",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Lodashとアンダースコアは私のJavascriptの書き方を永遠に変えてしまいましたが、今日はもっと良い方法があるかもしれません。",
+      "title": "lodashを捨ててバンドルサイズを小さくするために作った14の関数..."
+    },
+    {
+      "locale": "zh",
+      "description": "Lodash和下划线永远改变了我编写Javascript的方式，但今天可能有更好的...",
+      "title": "我做了14个函数来倾倒lodash并减少我的包的大小..."
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Lodash和下劃線永遠改變了我編寫Javascript的方式，但今天可能有更好的...",
+      "title": "我做了14個函數來傾倒lodash並減少我的包的大小..."
+    }
+  ]
 }
