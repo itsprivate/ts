@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Why YSK When you attach your account to these services using Plaid, they store\nyour bank account password and log into your account periodically to download\nyour entire activity. They know how much you make, how much you spend, etc.\n\nWhy now? On August 9th, Plaid settled $58M lawsuit over data…"
+  "the_new_excerpt": "Why YSK When you attach your account to these services using Plaid, they store\nyour bank account password and log into your account periodically to download\nyour entire activity. They know how much you make, how much you spend, etc.\n\nWhy now? On August 9th, Plaid settled $58M lawsuit over data…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "なぜYSKなのか Plaidを使ってこれらのサービスにあなたのアカウントを添付すると、彼らは以下を保存します。\n銀行口座のパスワードを保存し、定期的にお客様の口座にログインして\nあなたの行動全体をダウンロードします。あなたがいくら稼いだか、いくら使ったか、などがわかってしまうのです。\n\nなぜ今なのか？8月9日、Plaidはデータに関する5800万ドルの訴訟で和解しました。...",
+      "title": "銀行口座をVenmo/Robinhood/Bettermentに接続している場合、Plaidという会社があなたの銀行口座の活動をすべて記録していることをYSKは知っています。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么是YSK 当你使用Plaid将你的账户连接到这些服务时，他们会存储\n你的银行账户密码，并定期登录你的账户，下载\n你的全部活动。他们知道你赚了多少钱，你花了多少钱，等等。\n\n为什么是现在？8月9日，Plaid就数据问题解决了5800万美元的诉讼...",
+      "title": "YSK说，如果你把你的银行账户连接到Venmo/Robinhood/Betterment，一家名为Plaid的公司正在记录你所有的银行账户活动。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼是YSK 當你使用Plaid將你的賬戶連接到這些服務時，他們會存儲\n你的銀行賬戶密碼，並定期登錄你的賬戶，下載\n你的全部活動。他們知道你賺了多少錢，你花了多少錢，等等。\n\n爲什麼是現在？8月9日，Plaid就數據問題解決了5800萬美元的訴訟...",
+      "title": "YSK說，如果你把你的銀行賬戶連接到Venmo/Robinhood/Betterment，一家名爲Plaid的公司正在記錄你所有的銀行賬戶活動。"
+    }
+  ]
 }
