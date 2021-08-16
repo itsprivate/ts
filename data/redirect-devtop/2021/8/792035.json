@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-14T23:12:07Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HUfOc9dz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2kjt0hxm455abogiz794.png",
   "author": "DevCronin",
-  "author_url": "https://dev.to/devcronin"
+  "author_url": "https://dev.to/devcronin",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Level up with JavaScript」へようこそ このブログシリーズのチュートリアルでは...",
+      "title": "JavaScriptでレベルアップ"
+    },
+    {
+      "locale": "zh",
+      "description": "欢迎来到Level up with JavaScript 在这个博客系列教程中，你将被介绍到...",
+      "title": "用JavaScript提高水平"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "歡迎來到Level up with JavaScript 在這個博客系列教程中，你將被介紹到...",
+      "title": "用JavaScript提高水平"
+    }
+  ]
 }
