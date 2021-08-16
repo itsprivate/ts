@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-13T17:10:44Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NJcFZeQf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ojdk07qrwvhd0y6kcmsa.jpeg",
   "author": "Sankalp Swami",
-  "author_url": "https://dev.to/swamisankalp"
+  "author_url": "https://dev.to/swamisankalp",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに 私たちは、gitとGithubのない生活は考えられません。開発者として、それは...",
+      "title": "Gitエッセンシャル"
+    },
+    {
+      "locale": "zh",
+      "description": "简介：我们无法想象没有git和Github的生活。作为一个开发者，它是...",
+      "title": "Git基础知识"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介：我們無法想象沒有git和Github的生活。作爲一個開發者，它是...",
+      "title": "Git基礎知識"
+    }
+  ]
 }
