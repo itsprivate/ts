@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "プライベートなGitHubリポジトリやローカルなディレクトリから、あたかもGitHubリポジトリのように、選択したファイルを提供する。"
+    },
+    {
+      "locale": "zh",
+      "title": "从私有的GitHub repo或本地目录中提供选定的文件，就像它是GitHub repo一样。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "從私有的GitHub repo或本地目錄中提供選定的文件，就像它是GitHub repo一樣。"
+    }
+  ]
 }
