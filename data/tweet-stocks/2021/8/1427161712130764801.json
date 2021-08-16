@@ -52,5 +52,22 @@
     },
     "retweet_count": 409,
     "favorite_count": 1211
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @RichardEngel: カブールの空港付近で銃撃戦があったと思われる場所をアパッチが飛行中。",
+      "retweeted_status_full_text": "カブールの空港付近で銃撃戦があったと思われる地域をアパッチが飛行中。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @RichardEngel: 阿帕奇现在飞越了听起来像是喀布尔机场附近发生枪战的地区。",
+      "retweeted_status_full_text": "阿帕奇现在飞越听起来像是喀布尔机场附近发生枪战的地区。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @RichardEngel: 阿帕奇現在飛越了聽起來像是喀布爾機場附近發生槍戰的地區。",
+      "retweeted_status_full_text": "阿帕奇現在飛越聽起來像是喀布爾機場附近發生槍戰的地區。"
+    }
+  ]
 }
