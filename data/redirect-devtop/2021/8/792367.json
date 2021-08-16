@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-15T10:16:42Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9JuzlAxQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kstqw3sm2uvf4h3m313p.jpg",
   "author": "Suvendu Karmakar",
-  "author_url": "https://dev.to/suvik023"
+  "author_url": "https://dev.to/suvik023",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ZoneJsを理解し、問題を解決するための短いガイドです。     前置きがないのはいかがなものか...。",
+      "title": "Angular - Zoned Out !"
+    },
+    {
+      "locale": "zh",
+      "description": "一个了解ZoneJs和解决一个问题的简短指南。     怎么样，没有前期的...",
+      "title": "Angular - Zoned Out !"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個瞭解ZoneJs和解決一個問題的簡短指南。     怎麼樣，沒有前期的...",
+      "title": "Angular - Zoned Out !"
+    }
+  ]
 }
