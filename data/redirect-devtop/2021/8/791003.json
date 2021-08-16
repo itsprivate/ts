@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-13T17:33:02Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kvJvrR2i--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7xqlf91z06lgernfwnir.png",
   "author": "Matteo Mazzarolo",
-  "author_url": "https://dev.to/mmazzarolo"
+  "author_url": "https://dev.to/mmazzarolo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TL;DR: Create React App...を使ってデスクトップアプリケーションを作成する方法を説明するステップバイステップのチュートリアルです。",
+      "title": "Electronを使ったデスクトップアプリケーションの構築とReactアプリの作成"
+    },
+    {
+      "locale": "zh",
+      "description": "TL;DR: 一个分步骤的教程，解释如何使用Create React App创建一个桌面应用程序...",
+      "title": "使用Electron和Create React App构建一个桌面应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "TL;DR: 一個分步驟的教程，解釋如何使用Create React App創建一個桌面應用程序...",
+      "title": "使用Electron和Create React App構建一個桌面應用程序"
+    }
+  ]
 }
