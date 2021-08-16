@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの「ひどくてもいいから、やっぱり好き」な映画は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "什么是你的 \"我不在乎它是否糟糕，我仍然爱它 \"的电影？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "什麼是你的 \"我不在乎它是否糟糕，我仍然愛它 \"的電影？"
+    }
+  ]
 }
