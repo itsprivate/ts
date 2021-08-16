@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-14T19:33:42Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zZx81Pia--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rn7oa32r3nx3iirbmycw.jpg",
   "author": "TheDailyTechTalk",
-  "author_url": "https://dev.to/thedailytechtalk"
+  "author_url": "https://dev.to/thedailytechtalk",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Top 10 Must-Know JavaScript Functions Please check out full article here 1...",
+      "title": "知っておきたいJavaScriptの関数トップ10 "
+    },
+    {
+      "locale": "zh",
+      "description": "十大必知的JavaScript函数 请在此查看全文 1...",
+      "title": "十大必知的JavaScript函数 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "十大必知的JavaScript函數 請在此查看全文 1...",
+      "title": "十大必知的JavaScript函數 "
+    }
+  ]
 }
