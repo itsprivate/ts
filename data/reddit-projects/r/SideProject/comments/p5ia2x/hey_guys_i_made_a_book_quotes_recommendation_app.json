@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "みんな、僕は本の名言を推薦するアプリを作ったよ！Tinderのように名言をスワイプするんだ。)"
+    },
+    {
+      "locale": "zh",
+      "title": "嘿，伙计们，我做了一个图书引言推荐应用，你可以像Tinder一样刷刷引言:)"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "嘿，夥計們，我做了一個圖書引言推薦應用，你可以像Tinder一樣刷刷引言:)"
+    }
+  ]
 }
