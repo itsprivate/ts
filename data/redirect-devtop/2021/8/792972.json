@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-15T22:28:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--aG1eL9FP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6ia8rr30xv3nkb0c868x.jpeg",
   "author": "Jeff Edmondson",
-  "author_url": "https://dev.to/jeff_codes"
+  "author_url": "https://dev.to/jeff_codes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "🏃🏻♂️TLDR React Native + Redux + NodeJs + MongoDB Atlas + Heroku = Daily Discomfort ...",
+      "title": "初めてのReact Nativeアプリを作って公開した方法（日々の違和感"
+    },
+    {
+      "locale": "zh",
+      "description": "🏃🏻♂️TLDR React Native + Redux + NodeJs + MongoDB Atlas + Heroku = Daily Discomfort ...",
+      "title": "我是如何构建并发布我的第一个React Native应用的 (Daily Discomfort)"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "🏃🏻♂️TLDR React Native + Redux + NodeJs + MongoDB Atlas + Heroku = Daily Discomfort ...",
+      "title": "我是如何構建併發布我的第一個React Native應用的 (Daily Discomfort)"
+    }
+  ]
 }
