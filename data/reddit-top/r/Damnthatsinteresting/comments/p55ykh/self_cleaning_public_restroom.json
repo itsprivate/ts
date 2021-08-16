@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "セルフクリーニング式公衆トイレ"
+    },
+    {
+      "locale": "zh",
+      "title": "自清洁公共厕所"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "自清潔公共廁所"
+    }
+  ]
 }
