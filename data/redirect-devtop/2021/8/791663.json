@@ -41,5 +41,22 @@
   "original_created_at": "2021-08-14T11:42:02Z",
   "image": "https://dev.to/social_previews/article/791663.png",
   "author": "Salah Elhossiny",
-  "author_url": "https://dev.to/salah856"
+  "author_url": "https://dev.to/salah856",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "外部サービスを必要とするエンティティのビジネスロジック 外部サービスを必要とするエンティティのビジネスロジックを簡単に実装することができます。",
+      "title": "ドメイン駆動設計の実装。パート3"
+    },
+    {
+      "locale": "zh",
+      "description": "需要外部服务的实体中的业务逻辑 实现一个 \"需要外部服务的实体 \"是很简单的。",
+      "title": "实施领域驱动设计。第三部分"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "需要外部服務的實體中的業務邏輯 實現一個 \"需要外部服務的實體 \"是很簡單的。",
+      "title": "實施領域驅動設計。第三部分"
+    }
+  ]
 }
