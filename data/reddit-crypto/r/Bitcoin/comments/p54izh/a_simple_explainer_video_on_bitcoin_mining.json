@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインマイニングの簡単な説明ビデオです。"
+    },
+    {
+      "locale": "zh",
+      "title": "一个关于比特币开采的简单解释视频"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個關於比特幣開採的簡單解釋視頻"
+    }
+  ]
 }
