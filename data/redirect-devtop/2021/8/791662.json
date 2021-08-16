@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-14T11:19:18Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Ev441cKa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5yybo6o6dp1jml2ezieq.jpg",
   "author": "Ismaili Simba",
-  "author_url": "https://dev.to/ismailisimba"
+  "author_url": "https://dev.to/ismailisimba",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Web APIとは何ですか？  API（Application Programming Interface）とは、簡単に言えば、他の...",
+      "title": "JavaScriptでRESTful Web APIを読んで使う方法。スタジオジブリの例"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是网络API？  API--应用编程接口--是一种简单的方式，供其他公司使用。",
+      "title": "如何用JavaScript阅读和使用RESTful Web API。一个吉卜力工作室的例子"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是網絡API？  API--應用編程接口--是一種簡單的方式，供其他公司使用。",
+      "title": "如何用JavaScript閱讀和使用RESTful Web API。一個吉卜力工作室的例子"
+    }
+  ]
 }
