@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今までに経験した中で、最も苦しかったことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你经历过的最痛苦的事情是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你經歷過的最痛苦的事情是什麼？"
+    }
+  ]
 }
