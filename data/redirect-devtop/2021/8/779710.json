@@ -43,5 +43,22 @@
   "original_created_at": "2021-08-02T21:21:14Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BClcENc5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xfura4ny47nxk77980q3.jpeg",
   "author": "Kedar.K",
-  "author_url": "https://dev.to/kedark"
+  "author_url": "https://dev.to/kedark",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "プロモーションは一切なく、純粋に私のようなデブブロガーを支援するためのものです。以下のいくつかのツールは...",
+      "title": "ブロガーにとって必須のツール。"
+    },
+    {
+      "locale": "zh",
+      "description": "不包含任何促销活动；这是真正为了帮助像我这样的开发博主。下面的一些工具是...",
+      "title": "博主必须拥有的工具。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "不包含任何促銷活動；這是真正爲了幫助像我這樣的開發博主。下面的一些工具是...",
+      "title": "博主必須擁有的工具。"
+    }
+  ]
 }
