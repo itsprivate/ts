@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-16T07:00:40Z"
+  "original_createdAt": "2021-08-16T07:00:40Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あなたのプラットフォームをNSFWコンテンツから守るために、すべて無料で利用できます。画像（ビデオやその他の近未来のコンテンツ）をアップロードするだけで、NSFW（仕事には安全ではない）かどうかを簡単に検出できます。nsfw.restを利用しているプラットフォームの一つにfile.coffeeがあります!",
+      "tagline": "あなたのプラットフォームをNSFWコンテンツから守るための無料ソリューション"
+    },
+    {
+      "locale": "zh",
+      "description": "让你的平台远离NSFW内容，所有这些都是免费的。您只需将图片（视频和近期的其他内容）上传到我们这里，就可以轻松地检测出它是否是NSFW（对工作不安全）。使用nsfw.rest的平台之一是file.coffee!",
+      "tagline": "保持你的平台没有NSFW内容的免费解决方案"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "讓你的平臺遠離NSFW內容，所有這些都是免費的。您只需將圖片（視頻和近期的其他內容）上傳到我們這裏，就可以輕鬆地檢測出它是否是NSFW（對工作不安全）。使用nsfw.rest的平臺之一是file.coffee!",
+      "tagline": "保持你的平臺沒有NSFW內容的免費解決方案"
+    }
+  ]
 }
