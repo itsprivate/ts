@@ -106,5 +106,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "こんにちは、r/sidproject! 私は、簡単な自然言語からデータサイエンスのPythonコードを自動生成するJupyter notebookアドインを作りました。いかがでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "嗨，r/sidproject! 我建立了一个Jupyter笔记本插件，可以从简单的自然语言自动生成数据科学Python代码。你觉得怎么样？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "嗨，r/sidproject! 我建立了一個Jupyter筆記本插件，可以從簡單的自然語言自動生成數據科學Python代碼。你覺得怎麼樣？"
+    }
+  ]
 }
