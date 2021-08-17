@@ -65,5 +65,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "反転したカメを助ける"
+    },
+    {
+      "locale": "zh",
+      "title": "帮助一只翻转的海龟"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "幫助一隻翻轉的海龜"
+    }
+  ]
 }
