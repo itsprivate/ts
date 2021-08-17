@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] ロサンゼルスエリアのドット密度（2020年国勢調査）。1人、1ドット。18Mドット"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC] 洛杉矶地区的点密度（2020年人口普查）。1个人，1个点。18M个点"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC] 洛杉磯地區的點密度（2020年人口普查）。1個人，1個點。18M個點"
+    }
+  ]
 }
