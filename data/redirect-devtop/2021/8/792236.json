@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-15T07:55:57Z",
   "image": "https://dev.to/social_previews/article/792236.png",
   "author": "Rahul Kumawat",
-  "author_url": "https://dev.to/rahulkumawat04"
+  "author_url": "https://dev.to/rahulkumawat04",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "初心者がnodeJSでクイズアプリを作るには？  NodeJSはバックエンドを動かすためのプラットフォームで...",
+      "title": "初心者向けのNodeJSを使ったクイズアプリです。"
+    },
+    {
+      "locale": "zh",
+      "description": "作为一个初学者，如何在nodeJS中创建一个测验应用程序？  NodeJS是一个后端平台，用于运行...",
+      "title": "用NodeJS为初学者提供测验应用程序。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "作爲一個初學者，如何在nodeJS中創建一個測驗應用程序？  NodeJS是一個後端平臺，用於運行...",
+      "title": "用NodeJS爲初學者提供測驗應用程序。"
+    }
+  ]
 }

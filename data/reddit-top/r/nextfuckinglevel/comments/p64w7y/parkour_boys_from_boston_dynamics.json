@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ボストン・ダイナミクス社のパルクールボーイ"
+    },
+    {
+      "locale": "zh",
+      "title": "波士顿动力公司的跑酷男孩"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "波士頓動力公司的跑酷男孩"
+    }
+  ]
 }
