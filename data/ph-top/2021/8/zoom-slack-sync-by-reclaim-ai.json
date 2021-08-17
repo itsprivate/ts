@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-17T07:01:00Z"
+  "original_createdAt": "2021-08-17T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "カレンダーに登録されていないZoom通話に参加したり、Zoom通話を終了したりすると、Slackのステータスが自動的に「会議中」や「邪魔しないで」に更新されます（カレンダーに登録されていない場合や、通話が早く終わった場合も同様です）。ZoomとSlackとGoogleカレンダーを連携させることで、気が散らない会議を実現できます。",
+      "tagline": "SlackのステータスをZoomの通話に自動同期させる"
+    },
+    {
+      "locale": "zh",
+      "description": "当你进入或离开Zoom电话时，自动将你的Slack状态更新为 \"正在开会 \"和/或 \"请勿打扰\"--即使它不在你的日历上，或者它提前结束。当你连接Zoom + Slack + Google日历时，保持你的会议不受干扰。",
+      "tagline": "自动同步你的Slack状态和Zoom电话"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當你進入或離開Zoom電話時，自動將你的Slack狀態更新爲 \"正在開會 \"和/或 \"請勿打擾\"--即使它不在你的日曆上，或者它提前結束。當你連接Zoom + Slack + Google日曆時，保持你的會議不受干擾。",
+      "tagline": "自動同步你的Slack狀態和Zoom電話"
+    }
+  ]
 }

@@ -65,5 +65,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "The Humanity Globeです。30km^2あたりの世界の人口密度 [OC)"
+    },
+    {
+      "locale": "zh",
+      "title": "人类的地球。每30km^2的世界人口密度 [OC] 。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "人類的地球。每30km^2的世界人口密度 [OC] 。"
+    }
+  ]
 }
