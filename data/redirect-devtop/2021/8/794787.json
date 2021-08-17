@@ -52,5 +52,22 @@
   "original_created_at": "2021-08-17T11:14:41Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--utqR8hTR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vj6dkjmb5ttpz2m8dcbk.png",
   "author": "Suraj Vishwakarma",
-  "author_url": "https://dev.to/surajondev"
+  "author_url": "https://dev.to/surajondev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに 私はAPIの持つ力が好きです。APIは、シンプルなアプリケーションを、より便利で使いやすいものに変えてくれます...",
+      "title": "次のプロジェクトを開発するための5つのAPI"
+    },
+    {
+      "locale": "zh",
+      "description": "引言 我喜欢API的力量。它们把简单的应用变成了更有用的，更有价值的。",
+      "title": "开发你的下一个项目的5个API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "引言 我喜歡API的力量。它們把簡單的應用變成了更有用的，更有價值的。",
+      "title": "開發你的下一個項目的5個API"
+    }
+  ]
 }

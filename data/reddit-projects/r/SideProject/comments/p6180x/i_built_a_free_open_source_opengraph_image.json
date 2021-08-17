@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私は無料でオープンソースのopengraph画像ジェネレータを作りましたが、フィードバックが欲しいです"
+    },
+    {
+      "locale": "zh",
+      "title": "我建立了一个免费的、开源的opengraph图像生成器，希望得到一些反馈意见"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我建立了一個免費的、開源的opengraph圖像生成器，希望得到一些反饋意見"
+    }
+  ]
 }
