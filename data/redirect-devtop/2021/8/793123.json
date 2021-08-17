@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-16T04:50:21Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KXQAQV0s--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gdk58li948w9d6rwainp.png",
   "author": "Suhail Kakar",
-  "author_url": "https://dev.to/suhailkakar"
+  "author_url": "https://dev.to/suhailkakar",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに 📚 GitHubに行って他の開発者のコードを見ると、そのほとんどが...",
+      "title": "コンポーネントのインポート時に「./.../.../」を使用するのをやめて、この方法を使用してください。"
+    },
+    {
+      "locale": "zh",
+      "description": "简介 📚 当你去GitHub上看到其他一些开发者的代码时，他们中的大多数都是...",
+      "title": "在导入组件时，不要再使用./././，而是使用这个方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介 📚 當你去GitHub上看到其他一些開發者的代碼時，他們中的大多數都是...",
+      "title": "在導入組件時，不要再使用./././，而是使用這個方法"
+    }
+  ]
 }

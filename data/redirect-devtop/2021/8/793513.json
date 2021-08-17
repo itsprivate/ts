@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-16T11:52:18Z",
   "image": "https://dev.to/social_previews/article/793513.png",
   "author": "Mwenda Harun Mbaabu",
-  "author_url": "https://dev.to/grayhat"
+  "author_url": "https://dev.to/grayhat",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Ansible Ansibleとは？  Ansible（アンシブル）は、オープンソースのITコンフィグレーション...",
+      "title": "DevOps 101 : Ansibleの紹介"
+    },
+    {
+      "locale": "zh",
+      "description": "Ansible 什么是Ansible？  Ansible是一个开源的IT配置工具。",
+      "title": "DevOps 101 : Ansible简介"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Ansible 什麼是Ansible？  Ansible是一個開源的IT配置工具。",
+      "title": "DevOps 101 : Ansible簡介"
+    }
+  ]
 }
