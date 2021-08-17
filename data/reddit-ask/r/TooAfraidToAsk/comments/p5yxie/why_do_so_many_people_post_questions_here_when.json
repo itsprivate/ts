@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "グーグルで調べればすぐに答えが出るのに、なぜ多くの人がここに質問を投稿するのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "为什么这么多人在这里发布问题，因为他们可以在谷歌上搜索并立即得到答案？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲什麼這麼多人在這裏發佈問題，因爲他們可以在谷歌上搜索並立即得到答案？"
+    }
+  ]
 }
