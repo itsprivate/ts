@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-15T21:18:51Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--J4TIWar3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hjqsorwqfxatctij7ik6.jpg",
   "author": "Veed - The Hood Developer",
-  "author_url": "https://dev.to/veedjohnson"
+  "author_url": "https://dev.to/veedjohnson",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今日は、ダイヤモンドカードのレイアウト（アイテムは正確に4つ）をデザインする方法をご紹介します。",
+      "title": "CSSによるダイヤモンドカードのレイアウト"
+    },
+    {
+      "locale": "zh",
+      "description": "今天，我将向你展示如何设计一个钻石卡的布局（项目应该正好是四个），有几个...",
+      "title": "使用CSS的钻石卡版面设计"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "今天，我將向你展示如何設計一個鑽石卡的佈局（項目應該正好是四個），有幾個...",
+      "title": "使用CSS的鑽石卡版面設計"
+    }
+  ]
 }
