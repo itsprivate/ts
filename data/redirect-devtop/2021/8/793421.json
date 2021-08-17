@@ -41,5 +41,22 @@
   "original_created_at": "2021-08-16T10:35:05Z",
   "image": "https://dev.to/social_previews/article/793421.png",
   "author": "Shubhra Agarwal",
-  "author_url": "https://dev.to/shubhracodes"
+  "author_url": "https://dev.to/shubhracodes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ここでは、JavaScript開発者が知っておくべき7つのJavaScript略語をご紹介します。",
+      "title": "あなたのコードを他の人のコードよりもきれいにする、クールなJavaScriptショートハンド"
+    },
+    {
+      "locale": "zh",
+      "description": "这里有7个JavaScript速记，作为一个JavaScript开发者，你应该知道，因为谁不知道...",
+      "title": "一些很酷的JavaScript速记，可以使你的代码比你的同行的代码更干净"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這裏有7個JavaScript速記，作爲一個JavaScript開發者，你應該知道，因爲誰不知道...",
+      "title": "一些很酷的JavaScript速記，可以使你的代碼比你的同行的代碼更乾淨"
+    }
+  ]
 }
