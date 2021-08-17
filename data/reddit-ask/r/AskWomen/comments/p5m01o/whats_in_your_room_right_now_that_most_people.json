@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今、あなたの部屋にあるもので、おそらく多くの人が持っていないものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "现在你的房间里有什么东西是大多数人可能没有的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "現在你的房間裏有什麼東西是大多數人可能沒有的？"
+    }
+  ]
 }

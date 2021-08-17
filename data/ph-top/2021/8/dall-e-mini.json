@@ -83,5 +83,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-16T07:03:24Z"
+  "original_createdAt": "2021-08-16T07:03:24Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "DALL-E miniは、任意のテキストプロンプトから新しいイメージを生成することができます。上記の例をご覧になるか、今すぐお試しください。無料です。",
+      "tagline": "AIがテキストを画像に変換"
+    },
+    {
+      "locale": "zh",
+      "description": "DALL-E mini可以从任何文本提示生成新的图像。看看上面的不同例子或现在就试试。它是免费的",
+      "tagline": "AI将文本转换为图像"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "DALL-E mini可以從任何文本提示生成新的圖像。看看上面的不同例子或現在就試試。它是免費的",
+      "tagline": "AI將文本轉換爲圖像"
+    }
+  ]
 }
