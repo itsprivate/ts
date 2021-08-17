@@ -52,5 +52,22 @@
   "original_created_at": "2021-08-11T10:21:23Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1w-Hw97G--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3q4d1mcsxopvi9cie4vc.png",
   "author": "Sunny",
-  "author_url": "https://dev.to/sunnnygl"
+  "author_url": "https://dev.to/sunnnygl",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "GitLive 14.0が到着しました。今回のアップデートは、ユーザーからの要望が多かった機能を中心に、あなたの...",
+      "title": "GitLive 14.0: 電話をかけずにコードシェア、チームメイトのプッシュした変更の閲覧など"
+    },
+    {
+      "locale": "zh",
+      "description": "GitLive 14.0已经到来! 这次更新主要是由我们的用户要求的功能组成的，你的...",
+      "title": "GitLive 14.0: 无需调用代码共享，查看队友推送的修改，以及更多"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "GitLive 14.0已經到來! 這次更新主要是由我們的用戶要求的功能組成的，你的...",
+      "title": "GitLive 14.0: 無需調用代碼共享，查看隊友推送的修改，以及更多"
+    }
+  ]
 }
