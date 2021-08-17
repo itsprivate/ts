@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この人のコントロールは尋常じゃない。"
+    },
+    {
+      "locale": "zh",
+      "title": "这家伙的控制力非同一般。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這傢伙的控制力非同一般。"
+    }
+  ]
 }
