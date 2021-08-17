@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが今までにしたこと、させたことの中で、最も奇妙なことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你做过或让别人对你做的最奇怪的事情是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你做過或讓別人對你做的最奇怪的事情是什麼？"
+    }
+  ]
 }
