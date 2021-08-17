@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC】国別COVIDデイリーケース(2021年8月更新)"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC] 按国家划分的每日COVID案例（2021年8月更新"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC] 按國家劃分的每日COVID案例（2021年8月更新"
+    }
+  ]
 }
