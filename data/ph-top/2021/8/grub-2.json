@@ -72,5 +72,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-17T07:34:34Z"
+  "original_createdAt": "2021-08-17T07:34:34Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Grubは、Java/Kotlinで作られたオープンソースで100%無料のUberEats UIクローンで、Android、iOS、Desktop & Webに対応しています。UberEats、Foodpanda、GrubHubなどのようなクロスプラットフォームのフードデリバリーアプリを単一のコードベースで構築することができます。⠀ ⭐ ⠀ https://github.com/sergeyCodenameOne/UberEatsClone でスターをつけてください。",
+      "tagline": "Java/Kotlinによるオープンソースのフードデリバリーアプリのテンプレート"
+    },
+    {
+      "locale": "zh",
+      "description": "Grub是一个开源的、100%免费的UberEats UI克隆，采用Java/Kotlin，适用于Android、iOS、桌面和Web。它可以帮助建立一个精心设计的跨平台食品递送应用程序，如UberEats、Foodpanda、GrubHub等，只需使用一个代码库。⠀ ⭐ ⠀Star us on https://github.com/sergeyCodenameOne/UberEatsClone",
+      "tagline": "用Java/Kotlin开发的开源送餐应用模板"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Grub是一個開源的、100%免費的UberEats UI克隆，採用Java/Kotlin，適用於Android、iOS、桌面和Web。它可以幫助建立一個精心設計的跨平臺食品遞送應用程序，如UberEats、Foodpanda、GrubHub等，只需使用一個代碼庫。⠀ ⭐ ⠀Star us on https://github.com/sergeyCodenameOne/UberEatsClone",
+      "tagline": "用Java/Kotlin開發的開源送餐應用模板"
+    }
+  ]
 }
