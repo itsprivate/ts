@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-16T13:32:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--M3y8fHO1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jpr2v8wxuecia41h5des.png",
   "author": "Modern Web",
-  "author_url": "https://dev.to/kunaal438"
+  "author_url": "https://dev.to/kunaal438",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは。今日は、HTML、CSS、JSだけで簡単にミュージックプレーヤーを作る方法をご紹介します。他に...",
+      "title": "純粋なHTML、CSS、JSで音楽プレーヤーを作成する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，今天我们将看到，我们如何只用HTML、CSS和JS就能轻松创建一个音乐播放器。没有其他的东西。",
+      "title": "如何用纯HTML、CSS、JS创建音乐播放器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，今天我們將看到，我們如何只用HTML、CSS和JS就能輕鬆創建一個音樂播放器。沒有其他的東西。",
+      "title": "如何用純HTML、CSS、JS創建音樂播放器"
+    }
+  ]
 }
