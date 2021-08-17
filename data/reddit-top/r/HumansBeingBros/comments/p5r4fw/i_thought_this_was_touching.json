@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これは感動的だと思いました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我认为这很感人"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我認爲這很感人"
+    }
+  ]
 }
