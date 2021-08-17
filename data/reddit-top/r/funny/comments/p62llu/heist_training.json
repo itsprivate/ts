@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ヘイストトレーニング"
+    },
+    {
+      "locale": "zh",
+      "title": "抢劫训练"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "搶劫訓練"
+    }
+  ]
 }
