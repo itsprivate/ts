@@ -43,5 +43,22 @@
   "original_created_at": "2021-08-17T03:55:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zluZiAjN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hale3dwcf76spl621tuy.png",
   "author": "Code Hunter ",
-  "author_url": "https://dev.to/codehunterbd"
+  "author_url": "https://dev.to/codehunterbd",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "1. 変数のスコープを拡張するクロージャ JavaScriptのクロージャは、かなりわかりやすい...",
+      "title": "知っておきたい6つの高度なJavaScriptの概念"
+    },
+    {
+      "locale": "zh",
+      "description": "1. Closures扩展变量范围 JavaScript中的Closures是一种相当直接的方法。",
+      "title": "你应该知道的6个高级JavaScript概念"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "1. Closures擴展變量範圍 JavaScript中的Closures是一種相當直接的方法。",
+      "title": "你應該知道的6個高級JavaScript概念"
+    }
+  ]
 }
