@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-16T19:54:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Vy1b00kN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n4wn9wqqtuvr8dnq9xdm.png",
   "author": "Eric The Coder",
-  "author_url": "https://dev.to/ericchapman"
+  "author_url": "https://dev.to/ericchapman",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "What and Why TypeScript? TypeScriptとJavascriptの違いは？",
+      "title": "はじめてのTypeScript入門"
+    },
+    {
+      "locale": "zh",
+      "description": "什么和为什么是TypeScript？TypeScript 与 Javascript 之间的区别？",
+      "title": "你的第一份TypeScript介绍"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼和爲什麼是TypeScript？TypeScript 與 Javascript 之間的區別？",
+      "title": "你的第一份TypeScript介紹"
+    }
+  ]
 }
