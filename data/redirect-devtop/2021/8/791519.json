@@ -57,5 +57,22 @@
   "original_created_at": "2021-08-14T08:14:16Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cXDuEQkG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tvjy0go7ypt3maba1s6z.png",
   "author": "Saji Wang",
-  "author_url": "https://dev.to/sewangco"
+  "author_url": "https://dev.to/sewangco",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "数週間ごとに新しい画期的なJSフレームワークが登場しているように思えますが、その中には、...",
+      "title": "Blitz.jsは次の大きなJSフレームワークになり得るか？"
+    },
+    {
+      "locale": "zh",
+      "description": "在JS框架方面，似乎每隔几周就会出现一个新的游戏规则。",
+      "title": "Blitz.js能否成为下一个大的JS框架？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在JS框架方面，似乎每隔幾周就會出現一個新的遊戲規則。",
+      "title": "Blitz.js能否成爲下一個大的JS框架？"
+    }
+  ]
 }
