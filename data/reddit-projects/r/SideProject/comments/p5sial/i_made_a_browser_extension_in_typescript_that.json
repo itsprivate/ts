@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "YouTube動画やWebページのRedditコメントを見ることができるブラウザ拡張機能をTypescriptで作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我用Typescript做了一个浏览器扩展，可以让你查看任何YouTube视频或网页的Reddit评论。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我用Typescript做了一個瀏覽器擴展，可以讓你查看任何YouTube視頻或網頁的Reddit評論。"
+    }
+  ]
 }
