@@ -43,5 +43,22 @@
   "original_created_at": "2021-08-16T17:57:52Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gJL_mha_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/99p1xzv5ty43ieyavwdm.png",
   "author": "Stas Melnikov",
-  "author_url": "https://dev.to/melnik909"
+  "author_url": "https://dev.to/melnik909",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "友人たちよ、CSSのdisplayプロパティの仕組みを学ぶのに役立つチートシートを作った。あなたは...",
+      "title": "display: flexとdisplay: gridの仕組みについてのチートシートです。"
+    },
+    {
+      "locale": "zh",
+      "description": "朋友们，我做了一份小抄，可以帮助你们学习CSS显示属性的工作原理。你可以...",
+      "title": "关于 display: flex 和 display: grid 如何工作的小抄"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "朋友們，我做了一份小抄，可以幫助你們學習CSS顯示屬性的工作原理。你可以...",
+      "title": "關於 display: flex 和 display: grid 如何工作的小抄"
+    }
+  ]
 }
