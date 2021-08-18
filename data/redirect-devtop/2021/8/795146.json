@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-17T17:02:48Z",
   "image": "https://dev.to/social_previews/article/795146.png",
   "author": "Leandro Coelho",
-  "author_url": "https://dev.to/leandrocoelho1"
+  "author_url": "https://dev.to/leandrocoelho1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "エラー時にUIがクラッシュしないようにして、このエラーを表示する予備のUIも用意したい場合...。",
+      "title": "Reactのエラー境界とフォールバックコンポーネントによるユーザーフレンドリーなエラー"
+    },
+    {
+      "locale": "zh",
+      "description": "如果我们想防止我们的用户界面在出错时崩溃，同时有一个回退的用户界面来显示这个错误......",
+      "title": "使用React错误边界和回退组件的用户友好型错误"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果我們想防止我們的用戶界面在出錯時崩潰，同時有一個回退的用戶界面來顯示這個錯誤......",
+      "title": "使用React錯誤邊界和回退組件的用戶友好型錯誤"
+    }
+  ]
 }
