@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-18T07:01:00Z"
+  "original_createdAt": "2021-08-18T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "メールでやりとりする代わりに、TidyCalのリンクを共有して、相手に都合の良い時間を選んでもらいましょう。複数の予約タイプを作成し、最大10個のカレンダーを接続し、Zoom、Google Meet、Zapier、Google Calendar、Office 365と統合することができます。",
+      "tagline": "10倍のスピードと10倍のシンプルさを持つスケジューリング"
+    },
+    {
+      "locale": "zh",
+      "description": "与其来回发送电子邮件，不如分享一个TidyCal链接，让对方选择一个适合自己的时间。创建多种预订类型，连接多达10个日历，并与Zoom、Google Meet、Zapier、Google Calendar和Office 365集成。",
+      "tagline": "日程安排快10倍，简单10倍"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "與其來回發送電子郵件，不如分享一個TidyCal鏈接，讓對方選擇一個適合自己的時間。創建多種預訂類型，連接多達10個日曆，並與Zoom、Google Meet、Zapier、Google Calendar和Office 365集成。",
+      "tagline": "日程安排快10倍，簡單10倍"
+    }
+  ]
 }
