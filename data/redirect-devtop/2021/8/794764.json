@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-17T10:30:27Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AJV4DN-5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://cdn.hashnode.com/res/hashnode/image/upload/v1629188340364/z8X0txbe-x.jpeg%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress",
   "author": "Zack Sheppard",
-  "author_url": "https://dev.to/zackdotcomputer"
+  "author_url": "https://dev.to/zackdotcomputer",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "プロミスを扱うことで、\"async \"な気分になることはないでしょう。プロミスはコールバック地獄から逃れるためのものです。",
+      "title": "Javascriptのasyncを理解するのに時間はかからないことを約束します。"
+    },
+    {
+      "locale": "zh",
+      "description": "与承诺打交道不应该给你 \"async \"的感觉。它们是你逃离回调地狱的方法。",
+      "title": "我保证你不用等很久就能理解Javascript中的async。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "與承諾打交道不應該給你 \"async \"的感覺。它們是你逃離回調地獄的方法。",
+      "title": "我保證你不用等很久就能理解Javascript中的async。"
+    }
+  ]
 }
