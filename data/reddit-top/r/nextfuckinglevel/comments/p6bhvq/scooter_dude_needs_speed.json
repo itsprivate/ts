@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Scooter Dude Needs Speed..."
+    },
+    {
+      "locale": "zh",
+      "title": "滑板车老兄需要速度..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "滑板車老兄需要速度..."
+    }
+  ]
 }
