@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-16T05:17:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tuwbQSpb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g3kjt2gqh8vsfqay3avn.jpg",
   "author": "Vic Shóstak",
-  "author_url": "https://dev.to/koddr"
+  "author_url": "https://dev.to/koddr",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに Hello and welcome, DEV friends! 👋 ご存知のように、印刷された本は、...",
+      "title": "📖 Go Fiber by Examples: Fiber Web Frameworkはどのように役立つのか？"
+    },
+    {
+      "locale": "zh",
+      "description": "简介 你好，欢迎你，DEV的朋友们! 👋 正如你可能知道的，印刷的书...",
+      "title": "📖 通过实例走近光纤。光纤网络框架如何发挥作用？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介 你好，歡迎你，DEV的朋友們! 👋 正如你可能知道的，印刷的書...",
+      "title": "📖 通過實例走近光纖。光纖網絡框架如何發揮作用？"
+    }
+  ]
 }
