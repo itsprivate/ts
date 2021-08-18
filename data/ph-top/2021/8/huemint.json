@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-18T07:05:53Z"
+  "original_createdAt": "2021-08-18T07:05:53Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Huemintは、機械学習によってカラーパレットを生成します。ロゴのモックアップやウェブサイト、イラストなどで、配色を瞬時に視覚化することができます。",
+      "tagline": "AIカラーパレット・ジェネレーター"
+    },
+    {
+      "locale": "zh",
+      "description": "Huemint使用机器学习生成颜色调色板。在标志模拟图、网站或插图中立即将你的色彩方案可视化。",
+      "tagline": "AI调色板生成器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Huemint使用機器學習生成顏色調色板。在標誌模擬圖、網站或插圖中立即將你的色彩方案可視化。",
+      "tagline": "AI調色板生成器"
+    }
+  ]
 }
