@@ -50,5 +50,22 @@
   "original_created_at": "2021-08-17T11:19:40Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--x_w9eN0b--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q78e0hushuc74mlwkiy1.png",
   "author": "Andreas Pappas",
-  "author_url": "https://dev.to/andrewpap22"
+  "author_url": "https://dev.to/andrewpap22",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは👋 /// NOTE❗ これは大きな記事になります 🌩️ 早い手順で立ち上げていくために...",
+      "title": "97.7%のJavaScriptテンプレートのブログサイト"
+    },
+    {
+      "locale": "zh",
+      "description": "嗨，👋///注意❗这将是一个大的帖子 对于🌩️快速指示，以获得和运行。",
+      "title": "一个97.7%的JavaScript模板博客网站"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嗨，👋///注意❗這將是一個大的帖子 對於🌩️快速指示，以獲得和運行。",
+      "title": "一個97.7%的JavaScript模板博客網站"
+    }
+  ]
 }
