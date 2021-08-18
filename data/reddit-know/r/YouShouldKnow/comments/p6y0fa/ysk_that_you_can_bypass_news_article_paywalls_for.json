@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Why YSK: Tons of websites have \"subscriber only\" articles, and they'll only let\nyou sit on the page for a few seconds before an unavoidable popup appears asking\nyou to pay.\n\nTo bypass this, simply start the URL with \"https://outline . com/\" (no spaces);\nit'll parse the article and load it up with no…"
+  "the_new_excerpt": "Why YSK: Tons of websites have \"subscriber only\" articles, and they'll only let\nyou sit on the page for a few seconds before an unavoidable popup appears asking\nyou to pay.\n\nTo bypass this, simply start the URL with \"https://outline . com/\" (no spaces);\nit'll parse the article and load it up with no…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "なぜYSKかというと、多くのウェブサイトには「購読者限定」の記事があり、その記事を読むことができるのは\n数秒しか表示されないようになっていて、その間に支払いを求める不可避のポップアップが表示されます。\nお金を払ってください。\n\nこれを回避するには、URLを \"https://outline . com/\"で始めます。(スペースなし)で始めます。\nこれで記事が解析され、何もせずに読み込まれます。",
+      "title": "リンクの前に「outline.com/」と入力することで、ニュース記事のペイウォールを無料で回避できるというYSK"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么是YSK：很多网站都有 \"仅限订阅者 \"的文章，而且他们只让你在页面上停留几秒钟，然后就会让你离开。\n他们只会让你在页面上停留几秒钟，然后出现一个不可避免的弹出窗口，要求你付款。\n要求你付款。\n\n要绕过这一点，只需以 \"https://outline . com/\"作为URL的开头。(没有空格)。\n它就会解析文章，并以无空格的方式将其加载。",
+      "title": "YSK，你可以通过在链接前输入 \"outline.com/\"免费绕过新闻文章的付费墙。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼是YSK：很多網站都有 \"僅限訂閱者 \"的文章，而且他們只讓你在頁面上停留幾秒鐘，然後就會讓你離開。\n他們只會讓你在頁面上停留幾秒鐘，然後出現一個不可避免的彈出窗口，要求你付款。\n要求你付款。\n\n要繞過這一點，只需以 \"https://outline . com/\"作爲URL的開頭。(沒有空格)。\n它就會解析文章，並以無空格的方式將其加載。",
+      "title": "YSK，你可以通過在鏈接前輸入 \"outline.com/\"免費繞過新聞文章的付費牆。"
+    }
+  ]
 }
