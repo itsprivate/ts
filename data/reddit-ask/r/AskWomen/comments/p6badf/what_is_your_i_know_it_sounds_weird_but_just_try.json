@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの「変に聞こえるかもしれないけど、とりあえずやってみて」というのは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你的 \"我知道这听起来很奇怪，但就是要试试 \"是什么意思？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你的 \"我知道這聽起來很奇怪，但就是要試試 \"是什麼意思？"
+    }
+  ]
 }

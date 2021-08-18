@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "本日COVID-19の陽性反応が出たTX州知事アボット氏、昨日の共和党クラブの会合にて"
+    },
+    {
+      "locale": "zh",
+      "title": "德克萨斯州州长艾伯特今天在共和党俱乐部会议上接受了COVID-19的检测，结果为+。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "德克薩斯州州長艾伯特今天在共和黨俱樂部會議上接受了COVID-19的檢測，結果爲+。"
+    }
+  ]
 }

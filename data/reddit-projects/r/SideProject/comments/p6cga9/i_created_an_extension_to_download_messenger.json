@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "メッセンジャーの会話をダウンロードする拡張機能を作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我创建了一个扩展来下载信使的对话。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我創建了一個擴展來下載信使的對話。"
+    }
+  ]
 }
