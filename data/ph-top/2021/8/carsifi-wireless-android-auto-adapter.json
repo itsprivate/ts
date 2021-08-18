@@ -87,5 +87,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-18T11:57:58Z"
+  "original_createdAt": "2021-08-18T11:57:58Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このアダプターを使えば、車にWiFiが搭載されていなくても、コードを使わずにワイヤレスでAndroid Autoに接続することができます。Kickstarterで初日に100%以上の資金調達を達成🚀。",
+      "tagline": "Android Autoに携帯電話をワイヤレスで接続、すべての車に対応"
+    },
+    {
+      "locale": "zh",
+      "description": "我们的适配器帮助司机避免使用电线，而是以无线方式连接到Android Auto，即使汽车没有内置WiFi。在Kickstarter上第一天就获得了100%以上的资金🚀。",
+      "tagline": "无线连接手机到Android Auto，适用于所有汽车"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們的適配器幫助司機避免使用電線，而是以無線方式連接到Android Auto，即使汽車沒有內置WiFi。在Kickstarter上第一天就獲得了100%以上的資金🚀。",
+      "tagline": "無線連接手機到Android Auto，適用於所有汽車"
+    }
+  ]
 }
