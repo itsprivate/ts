@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "トップテキスト"
+    },
+    {
+      "locale": "zh",
+      "title": "热门文本"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "熱門文本"
+    }
+  ]
 }
