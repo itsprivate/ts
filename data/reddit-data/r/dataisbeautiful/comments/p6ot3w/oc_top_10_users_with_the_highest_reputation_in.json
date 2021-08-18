@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] Stackoverflowで最も高い評価を得ているユーザートップ10"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]Stackoverflow中声誉最高的前10名用户"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]Stackoverflow中聲譽最高的前10名用戶"
+    }
+  ]
 }
