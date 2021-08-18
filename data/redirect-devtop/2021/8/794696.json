@@ -43,5 +43,22 @@
   "original_created_at": "2021-08-17T08:33:19Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tsE2AY86--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qyb9msine7h6g3twki2v.png",
   "author": "Garima",
-  "author_url": "https://dev.to/garimasharma"
+  "author_url": "https://dev.to/garimasharma",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ウェブスクレイピングとは何ですか？  Webサイトから情報を収集する作業を自動化することです...",
+      "title": "Node.jsによるWebスクレイピングの究極のガイド"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是网络搜刮？  它涉及自动收集信息的任务，从...",
+      "title": "使用Node.js进行网络刮削的终极指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是網絡搜刮？  它涉及自動收集信息的任務，從...",
+      "title": "使用Node.js進行網絡刮削的終極指南"
+    }
+  ]
 }
