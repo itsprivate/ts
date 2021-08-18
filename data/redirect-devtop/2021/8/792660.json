@@ -41,5 +41,22 @@
   "original_created_at": "2021-08-15T17:10:10Z",
   "image": "https://dev.to/social_previews/article/792660.png",
   "author": "Salah Elhossiny",
-  "author_url": "https://dev.to/salah856"
+  "author_url": "https://dev.to/salah856",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "オブジェクトからオブジェクトへのマッピング オブジェクトからオブジェクトへの自動マッピングは、コピー...",
+      "title": "ドメイン駆動設計の実装。パート4"
+    },
+    {
+      "locale": "zh",
+      "description": "对象到对象的映射 自动对象到对象的映射是一个有用的方法来复制...",
+      "title": "实施领域驱动设计。第四部分"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "對象到對象的映射 自動對象到對象的映射是一個有用的方法來複制...",
+      "title": "實施領域驅動設計。第四部分"
+    }
+  ]
 }

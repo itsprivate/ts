@@ -43,5 +43,22 @@
   "original_created_at": "2021-08-16T15:19:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Z53Fo37J--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4rt00vk9poo7sckmrcd6.png",
   "author": "kubona Martin Yafesi",
-  "author_url": "https://dev.to/kubona_my"
+  "author_url": "https://dev.to/kubona_my",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "親愛なる読者の皆さん、また新たな学びの場にようこそ。あなたの献身的な努力に拍手を送りたいと思います。",
+      "title": "Docker 101!"
+    },
+    {
+      "locale": "zh",
+      "description": "欢迎亲爱的读者来到另一个学习机会。我为你的承诺而喝彩。",
+      "title": "Docker 101!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "歡迎親愛的讀者來到另一個學習機會。我爲你的承諾而喝彩。",
+      "title": "Docker 101!"
+    }
+  ]
 }
