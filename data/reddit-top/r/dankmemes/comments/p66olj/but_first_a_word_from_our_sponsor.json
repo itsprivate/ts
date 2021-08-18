@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "その前に、スポンサーからのメッセージです。"
+    },
+    {
+      "locale": "zh",
+      "title": "但首先是我们的赞助商的一句话"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "但首先是我們的贊助商的一句話"
+    }
+  ]
 }
