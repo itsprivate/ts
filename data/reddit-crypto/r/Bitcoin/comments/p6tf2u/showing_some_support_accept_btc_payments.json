@@ -11,5 +11,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "BTCでの支払いに対応しているサポートもあります。"
+    },
+    {
+      "locale": "zh",
+      "title": "显示一些支持接受BTC付款"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "顯示一些支持接受BTC付款"
+    }
+  ]
 }
