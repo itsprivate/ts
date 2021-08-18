@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-16T18:16:12Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--V-Hi2RN7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fkwu8c2hqi4nfn5qcku4.jpg",
   "author": "Simon Barker",
-  "author_url": "https://dev.to/allthecode"
+  "author_url": "https://dev.to/allthecode",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "フルスタック開発者に必要なスキルは長く、何が必要なのかを正確に把握するのは難しいかもしれません。",
+      "title": "フルスタック開発者に必要なスキル：チェックリスト"
+    },
+    {
+      "locale": "zh",
+      "description": "成为全栈开发人员所需的技能清单很长，而且很难知道到底是什么。",
+      "title": "成为全栈开发者所需的技能：一份检查清单"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "成爲全棧開發人員所需的技能清單很長，而且很難知道到底是什麼。",
+      "title": "成爲全棧開發者所需的技能：一份檢查清單"
+    }
+  ]
 }
