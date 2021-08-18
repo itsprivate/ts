@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "I'm a curious cat"
+  "the_new_excerpt": "I'm a curious cat",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私は好奇心旺盛な猫です",
+      "title": "AutoModeratorによってピン留めされたコメントを自動的に無視する人はいませんか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我是一只好奇的猫",
+      "title": "还有人自动忽略被AutoModerator钉住的评论吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我是一隻好奇的貓",
+      "title": "還有人自動忽略被AutoModerator釘住的評論嗎？"
+    }
+  ]
 }
