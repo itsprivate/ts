@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これが掲載できるのは今日だけです。"
+    },
+    {
+      "locale": "zh",
+      "title": "今天是唯一可以发布的日子。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "今天是唯一可以發佈的日子。"
+    }
+  ]
 }

@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-11T12:54:57Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--F9QFficI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n6rvr3e8e8ksrfgfrxa1.png",
   "author": "Chetan Atrawalkar👉CA.",
-  "author_url": "https://dev.to/chetan_atrawalkar"
+  "author_url": "https://dev.to/chetan_atrawalkar",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "😯 Reactアプリに絵文字ピッカーを追加するシンプルで簡単な方法です。  絵文字は今ではとても重要なものになっています。",
+      "title": "😃 ReactアプリのInput FieldにEmoji Pickerを追加する【簡単な方法】。"
+    },
+    {
+      "locale": "zh",
+      "description": "😯 在你的React应用程序中添加表情符号选取器的简单和最容易的方法。  表情符号现在是一个非常重要的工具。",
+      "title": "😃 在React应用程序的输入字段中添加Emoji Picker [简易方法]。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "😯 在你的React應用程序中添加表情符號選取器的簡單和最容易的方法。  表情符號現在是一個非常重要的工具。",
+      "title": "😃 在React應用程序的輸入字段中添加Emoji Picker [簡易方法]。"
+    }
+  ]
 }
