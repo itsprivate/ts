@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-18T07:05:00Z"
+  "original_createdAt": "2021-08-18T07:05:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "AppXは、クリエイターがオンラインアカデミーのアプリ📱を立ち上げ、オンラインでコースを販売することができます。",
+      "tagline": "10分でオンライン・アカデミー・アプリを立ち上げよう"
+    },
+    {
+      "locale": "zh",
+      "description": "AppX让创作者🧑🎨🧑🍳🧑🎤🧑💻🧑🔬推出他们的在线学院app📱，并在线销售课程。",
+      "tagline": "在10分钟内启动你的在线学院应用"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "AppX讓創作者🧑🎨🧑🍳🧑🎤🧑💻🧑🔬推出他們的在線學院app📱，並在線銷售課程。",
+      "tagline": "在10分鐘內啓動你的在線學院應用"
+    }
+  ]
 }
