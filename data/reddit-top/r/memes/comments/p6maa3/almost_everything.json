@@ -91,5 +91,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ほとんどすべて"
+    },
+    {
+      "locale": "zh",
+      "title": "几乎所有的东西"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "幾乎所有的東西"
+    }
+  ]
 }

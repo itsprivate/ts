@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Pretty damn annoying"
+  "the_new_excerpt": "Pretty damn annoying",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "かなりイライラする",
+      "title": "誰かのredditが超遅くなっていませんか...？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "相当令人讨厌",
+      "title": "有谁的reddit超级慢吗...？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "相當令人討厭",
+      "title": "有誰的reddit超級慢嗎...？"
+    }
+  ]
 }
