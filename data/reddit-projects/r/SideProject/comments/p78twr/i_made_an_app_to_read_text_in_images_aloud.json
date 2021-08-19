@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "画像内の文字を読み上げるアプリを作ってみた"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个应用程序，可以大声读出图片中的文字"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個應用程序，可以大聲讀出圖片中的文字"
+    }
+  ]
 }

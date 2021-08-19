@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-17T02:30:51Z",
   "image": "https://dev.to/social_previews/article/794357.png",
   "author": "Sammy Shear",
-  "author_url": "https://dev.to/sammyshear"
+  "author_url": "https://dev.to/sammyshear",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これは、「Fireship」というYouTubeチャンネルのおかげで、私がやりたいと思っていたことの一つです。",
+      "title": "同じアプリを5回作る"
+    },
+    {
+      "locale": "zh",
+      "description": "这是我受到启发而做的事情，因为YouTube频道的Fireship，它使...",
+      "title": "构建相同的应用程序5次"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是我受到啓發而做的事情，因爲YouTube頻道的Fireship，它使...",
+      "title": "構建相同的應用程序5次"
+    }
+  ]
 }
