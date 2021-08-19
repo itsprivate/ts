@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC】過去1年間にStravaで記録したサイクリング活動を、PythonでGPS座標を抽出し、Godotゲームエンジンを使って視覚化するツールを作りました。なかなかいい感じに仕上がりました。"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC] 制作了一个工具，可以 \"重温 \"我过去一年在Strava上记录的骑行活动，使用python提取gps坐标，并使用Godot游戏引擎将其可视化。结果很好。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC] 製作了一個工具，可以 \"重溫 \"我過去一年在Strava上記錄的騎行活動，使用python提取gps座標，並使用Godot遊戲引擎將其可視化。結果很好。"
+    }
+  ]
 }
