@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "老人が過去を回想する"
+    },
+    {
+      "locale": "zh",
+      "title": "老人回忆他的过去"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "老人回憶他的過去"
+    }
+  ]
 }
