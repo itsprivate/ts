@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが持っているもので、他の誰も持っていないと思われるものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你有什么东西是你非常确定别人没有的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你有什麼東西是你非常確定別人沒有的？"
+    }
+  ]
 }
