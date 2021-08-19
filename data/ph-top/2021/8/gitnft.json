@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-19T07:01:00Z"
+  "original_createdAt": "2021-08-19T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "GitNFTは、開発者がGitHubのコミットのNFTをミントし、シームレスにOpenSeaのマーケットプレイスに掲載することを可能にします。ミンティングのコストは、家計に優しい🍺です。",
+      "tagline": "GitHubのコミットをNFTとしてサインして販売する"
+    },
+    {
+      "locale": "zh",
+      "description": "GitNFT让开发者将他们的GitHub提交的内容制成NFT，并在OpenSea市场上无缝上市 铸币费用自理 🍺",
+      "tagline": "将你的GitHub提交内容作为NFT签名并出售"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "GitNFT讓開發者將他們的GitHub提交的內容製成NFT，並在OpenSea市場上無縫上市 鑄幣費用自理 🍺",
+      "tagline": "將你的GitHub提交內容作爲NFT簽名並出售"
+    }
+  ]
 }

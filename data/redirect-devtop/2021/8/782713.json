@@ -43,5 +43,22 @@
   "original_created_at": "2021-08-05T17:23:28Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ii2rMWyX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o5ojkggncxj5xjcput3q.png",
   "author": "Ali Spittel",
-  "author_url": "https://dev.to/aspittel"
+  "author_url": "https://dev.to/aspittel",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このチュートリアルでは、Stripeを使ってチェックアウトシステムを構築し、次に...",
+      "title": "Stripeを使ってサーバーレスで購読サイトを構築"
+    },
+    {
+      "locale": "zh",
+      "description": "在本教程中，我们将建立一个网站，使用Stripe来创建一个结账系统，然后...",
+      "title": "用Stripe建立一个无服务器的订阅网站"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在本教程中，我們將建立一個網站，使用Stripe來創建一個結賬系統，然後...",
+      "title": "用Stripe建立一個無服務器的訂閱網站"
+    }
+  ]
 }
