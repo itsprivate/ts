@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "それは、文字通り名前の通り"
+    },
+    {
+      "locale": "zh",
+      "title": "从字面上看，它的名字就很好听"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "從字面上看，它的名字就很好聽"
+    }
+  ]
 }
