@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] IMDbのトップ1000タイトルにおけるジャンルの共起性"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]IMDb前1000名标题中的流派共现情况"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]IMDb前1000名標題中的流派共現情況"
+    }
+  ]
 }
