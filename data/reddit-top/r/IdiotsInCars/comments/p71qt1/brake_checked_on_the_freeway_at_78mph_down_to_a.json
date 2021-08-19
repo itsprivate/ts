@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "フリーウェイで時速78マイルで停止した状態でブレーキチェック。"
+    },
+    {
+      "locale": "zh",
+      "title": "在高速公路上以78英里/小时的速度检查了刹车，然后停了下来。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在高速公路上以78英里/小時的速度檢查了剎車，然後停了下來。"
+    }
+  ]
 }
