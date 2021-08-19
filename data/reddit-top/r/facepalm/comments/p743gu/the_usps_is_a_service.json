@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "USPSは、サービス"
+    },
+    {
+      "locale": "zh",
+      "title": "美国邮政是一项服务"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "美國郵政是一項服務"
+    }
+  ]
 }
