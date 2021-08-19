@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-18T15:29:09Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dD9gBHjz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rlwwxp9me6hvali8qsd5.png",
   "author": "Maria Antonella 🦋",
-  "author_url": "https://dev.to/antoomartini"
+  "author_url": "https://dev.to/antoomartini",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "🐞 今日は、JavaScriptで文字列を配列に変換する4つの方法をご紹介します。 const str =...",
+      "title": "Javascriptで文字列を配列に変換する4つの方法 "
+    },
+    {
+      "locale": "zh",
+      "description": "🐞 今天我和大家分享在JavaScript中把字符串转换成数组的四种方法。 const str =...",
+      "title": "在Javascript中把字符串转换为数组的4种方法 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "🐞 今天我和大家分享在JavaScript中把字符串轉換成數組的四種方法。 const str =...",
+      "title": "在Javascript中把字符串轉換爲數組的4種方法 "
+    }
+  ]
 }
