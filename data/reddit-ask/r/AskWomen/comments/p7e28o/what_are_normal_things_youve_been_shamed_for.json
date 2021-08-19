@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "女性であることで恥ずかしい思いをしたことはありますか（例：毛深い脇の下、おっぱいの汗）？"
+    },
+    {
+      "locale": "zh",
+      "title": "哪些是你因为是女人而被羞辱的正常事情（如腋下长毛，胸部出汗）？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "哪些是你因爲是女人而被羞辱的正常事情（如腋下長毛，胸部出汗）？"
+    }
+  ]
 }
