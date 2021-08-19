@@ -65,5 +65,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Netflixの地域制限コンテンツを回避できるブラウザ拡張機能を作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个浏览器扩展，让你绕过Netflix的地理限制内容。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個瀏覽器擴展，讓你繞過Netflix的地理限制內容。"
+    }
+  ]
 }
