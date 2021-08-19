@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "インターステラー・パニック・セラー"
+    },
+    {
+      "locale": "zh",
+      "title": "星际恐慌卖家"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "星際恐慌賣家"
+    }
+  ]
 }
