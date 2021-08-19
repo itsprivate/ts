@@ -50,5 +50,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "サトシは今、BTCをHODLしている"
+    },
+    {
+      "locale": "zh",
+      "title": "中本聪现在就在做BTC的HODLing。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "中本聰現在就在做BTC的HODLing。"
+    }
+  ]
 }
