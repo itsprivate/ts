@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "弁護士は弁護士を雇って弁護してもらうのか、それとも法廷で自分で弁護するのか。"
+    },
+    {
+      "locale": "zh",
+      "title": "律师是聘请律师为他们辩护，还是在法庭上为自己辩护？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "律師是聘請律師爲他們辯護，還是在法庭上爲自己辯護？"
+    }
+  ]
 }
