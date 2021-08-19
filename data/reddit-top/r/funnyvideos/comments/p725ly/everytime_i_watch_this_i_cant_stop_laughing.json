@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "観るたびに笑いが止まらない"
+    },
+    {
+      "locale": "zh",
+      "title": "每次我看这个都会笑个不停"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "每次我看這個都會笑個不停"
+    }
+  ]
 }
