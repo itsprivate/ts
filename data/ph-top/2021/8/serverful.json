@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-19T07:01:00Z"
+  "original_createdAt": "2021-08-19T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Serverfulは、サーバーレスの経験をコンテナにもたらします。ホスティングでも、AWSアカウントでも Githubリポジトリを接続するだけでデプロイできます。",
+      "tagline": "関数のようにコンテナをデプロイする"
+    },
+    {
+      "locale": "zh",
+      "description": "Serverful为容器带来了无服务器的体验。托管或在您的AWS账户中 只需连接您的Github仓库并进行部署!",
+      "tagline": "像函数一样部署容器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Serverful爲容器帶來了無服務器的體驗。託管或在您的AWS賬戶中 只需連接您的Github倉庫並進行部署!",
+      "tagline": "像函數一樣部署容器"
+    }
+  ]
 }

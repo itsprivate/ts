@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-15T10:52:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lSkD28fy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1k4vkpo8vtj6vljpmtu7.jpg",
   "author": "Suhail Shaikh",
-  "author_url": "https://dev.to/suhailzone"
+  "author_url": "https://dev.to/suhailzone",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは。このブログでは、Reactを学ぶためのロードマップを説明します。",
+      "title": "初心者のためのReactJsロードマップ🗺 - 2021年版"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，在这篇博客中，我将带领你了解学习React的路线图，我已经把React的内容分解了。",
+      "title": "面向初学者的ReactJs路线图🗺 - 2021年"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，在這篇博客中，我將帶領你瞭解學習React的路線圖，我已經把React的內容分解了。",
+      "title": "面向初學者的ReactJs路線圖🗺 - 2021年"
+    }
+  ]
 }
