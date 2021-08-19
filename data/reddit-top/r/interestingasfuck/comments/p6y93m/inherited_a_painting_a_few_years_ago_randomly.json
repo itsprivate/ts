@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "数年前に絵を譲り受け、旅先で偶然にも絵の中の建物に出会った"
+    },
+    {
+      "locale": "zh",
+      "title": "几年前继承了一幅画，在一次旅行中偶然发现了画中的建筑。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "幾年前繼承了一幅畫，在一次旅行中偶然發現了畫中的建築。"
+    }
+  ]
 }
