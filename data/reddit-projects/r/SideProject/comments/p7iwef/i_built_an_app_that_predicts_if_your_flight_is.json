@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "飛行機が遅れるかどうかを98％の精度で予測するアプリを作ってみた"
+    },
+    {
+      "locale": "zh",
+      "title": "我建立了一个应用程序，可以预测你的航班是否延误，准确率高达98%。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我建立了一個應用程序，可以預測你的航班是否延誤，準確率高達98%。"
+    }
+  ]
 }
