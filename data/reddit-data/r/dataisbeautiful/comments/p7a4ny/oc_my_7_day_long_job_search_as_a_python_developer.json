@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC】経験2年のPython開発者の私の7日間の転職活動。(大学中退)"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]我作为一个有2年经验的Python开发者，长达7天的求职过程。(大学辍学)"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]我作爲一個有2年經驗的Python開發者，長達7天的求職過程。(大學輟學)"
+    }
+  ]
 }
