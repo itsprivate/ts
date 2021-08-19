@@ -52,5 +52,22 @@
   "original_created_at": "2021-08-05T00:11:03Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7SvJIZ0J--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/05c2l9abib9mhtk89erx.jpeg",
   "author": "Ryan Carniato",
-  "author_url": "https://dev.to/ryansolid"
+  "author_url": "https://dev.to/ryansolid",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ソフトウェア開発では、ライブラリやツールの選択肢がよく出てきます...",
+      "title": "JavaScript対JavaScript。ファイトー！！！（笑"
+    },
+    {
+      "locale": "zh",
+      "description": "在软件开发方面，我们经常会遇到库和工具的替代选择。",
+      "title": "JavaScript vs. JavaScript. 战斗吧!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在軟件開發方面，我們經常會遇到庫和工具的替代選擇。",
+      "title": "JavaScript vs. JavaScript. 戰鬥吧!"
+    }
+  ]
 }
