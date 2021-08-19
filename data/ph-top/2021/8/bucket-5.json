@@ -88,5 +88,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-18T07:01:00Z"
+  "original_createdAt": "2021-08-18T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Bucketは、やりたいことや一緒にやる人を見つけるためのソーシャルメディアプラットフォームです。",
+      "tagline": "バケットリストのソーシャル化"
+    },
+    {
+      "locale": "zh",
+      "description": "Bucket是一个社交媒体平台，用于寻找可以做的事情和可以一起做的人。",
+      "tagline": "社会化的遗愿清单"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Bucket是一個社交媒體平臺，用於尋找可以做的事情和可以一起做的人。",
+      "tagline": "社會化的遺願清單"
+    }
+  ]
 }
