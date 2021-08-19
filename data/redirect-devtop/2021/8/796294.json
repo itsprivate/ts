@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-18T18:04:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wjWcCwEI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/euvtw4j6g61yepuz2vcu.png",
   "author": "Anatolii",
-  "author_url": "https://dev.to/pas8"
+  "author_url": "https://dev.to/pas8",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに 私はこれまで、最高のコーディングツールを作るために多くの時間を費やしてきました。",
+      "title": "最高のVSコード設定"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍：所以我一直在花很多（这么多）时间创造最好的编码。",
+      "title": "最佳VS代码设置"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹：所以我一直在花很多（這麼多）時間創造最好的編碼。",
+      "title": "最佳VS代碼設置"
+    }
+  ]
 }
