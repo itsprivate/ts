@@ -1,0 +1,62 @@
+{
+  "created_at": "Thu Aug 19 15:47:26 +0000 2021",
+  "id_str": "1428373697849593857",
+  "full_text": "S2F model: BTC=a*(S2F ratio)^b\nTime model: BTC=a*(months from Jan09)^b\n\nWhy I prefer S2F model:\n- tells you when price increases: after halvings\n- more robust parameters (a,b)\n- time not an input variable, S2FX not a time series\n- interpolation possible\n- usable with other assets https://t.co/k23uyqSCZ9",
+  "display_text_range": [
+    0,
+    280
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+      {
+        "id": 1428369192189714400,
+        "id_str": "1428369192189714445",
+        "indices": [
+          281,
+          304
+        ],
+        "media_url": "http://pbs.twimg.com/media/E9KWNmSUYA0jpqn.png",
+        "media_url_https": "https://pbs.twimg.com/media/E9KWNmSUYA0jpqn.png",
+        "url": "https://t.co/k23uyqSCZ9",
+        "display_url": "pic.twitter.com/k23uyqSCZ9",
+        "expanded_url": "https://twitter.com/100trillionUSD/status/1428373697849593857/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 377,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 665,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1722,
+            "h": 954,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "PlanB",
+    "screen_name": "100trillionUSD",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407223894600302594/gBUVNH89_normal.jpg"
+  },
+  "retweet_count": 146,
+  "favorite_count": 902,
+  "possibly_sensitive": false,
+  "original_created_at": "Thu Aug 19 15:10:02 +0000 2021"
+}
