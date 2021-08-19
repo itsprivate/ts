@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "And what did you like about them?"
+  "the_new_excerpt": "And what did you like about them?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "また、どのような点が良かったですか？",
+      "title": "好きなショートストーリーは？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你喜欢他们什么呢？",
+      "title": "你最喜欢的短篇小说是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你喜歡他們什麼呢？",
+      "title": "你最喜歡的短篇小說是什麼？"
+    }
+  ]
 }
