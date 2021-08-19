@@ -32,5 +32,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これは馬鹿げている。「Crypto market plummets below $2tn cap」、「BTC crashes to 44k」という見出しだ。ちょうど1ヶ月前に28kを記録したことを思い出してください。謙虚さを忘れず、市場分析のタイムフレームを広げましょう。"
+    },
+    {
+      "locale": "zh",
+      "title": "这是荒谬的，一个标题说 \"加密货币市场暴跌至2百万美元的上限 \"和 \"BTC崩溃到44K\"。请记住，我们在一个月前刚刚达到28K。保持谦虚，扩大市场分析的时间范围。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是荒謬的，一個標題說 \"加密貨幣市場暴跌至2百萬美元的上限 \"和 \"BTC崩潰到44K\"。請記住，我們在一個月前剛剛達到28K。保持謙虛，擴大市場分析的時間範圍。"
+    }
+  ]
 }

@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "What if Satoshi Nakamoto had lost the private keys for the address where he hold\nhis fortune and, while we think he's a badass for not spending his money, he's\nactually crying cause he's money he can't spend?"
+  "the_new_excerpt": "What if Satoshi Nakamoto had lost the private keys for the address where he hold\nhis fortune and, while we think he's a badass for not spending his money, he's\nactually crying cause he's money he can't spend?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "もしもサトシ・ナカモトが、自分の財産を保管しているアドレスの秘密鍵を紛失していたら？\n使っていないということでワルだと思っていたら、実は使えないお金があって泣いていたとしたら\n使えないお金に泣いていたとしたら？",
+      "title": "もしもサトシ・ナカモトが秘密鍵を失ったら？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "如果中本聪丢失了他持有的地址的私钥\n当我们认为他是个不花钱的坏蛋时，他却在哭，因为他的钱不能花。\n其实他在哭，因为他的钱不能花？",
+      "title": "如果中本聪丢失了他的私钥怎么办？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "如果中本聰丟失了他持有的地址的私鑰\n當我們認爲他是個不花錢的壞蛋時，他卻在哭，因爲他的錢不能花。\n其實他在哭，因爲他的錢不能花？",
+      "title": "如果中本聰丟失了他的私鑰怎麼辦？"
+    }
+  ]
 }
