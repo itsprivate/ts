@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-20T07:03:59Z"
+  "original_createdAt": "2021-08-20T07:03:59Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Lassie Smokeは、Facebook Messenger用のボットです。タバコを吸うまでの時間をコントロールしたり、タバコを吸う間隔を長くすることを補助します。追加のソフトウェアを使用することなく、禁煙を実現します。😈",
+      "tagline": "現代的な禁煙方法"
+    },
+    {
+      "locale": "zh",
+      "description": "Lassie Smoke是Facebook Messenger的一个机器人。它有助于控制香烟的间隔时间，增加香烟的间隔时间。🚬 ⠀ 戒烟是可能的，不需要使用任何额外的软件! 😈",
+      "tagline": "现代的戒烟方式"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Lassie Smoke是Facebook Messenger的一個機器人。它有助於控制香菸的間隔時間，增加香菸的間隔時間。🚬 ⠀ 戒菸是可能的，不需要使用任何額外的軟件! 😈",
+      "tagline": "現代的戒菸方式"
+    }
+  ]
 }
