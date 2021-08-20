@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-20T20:48:18Z"
+  "original_createdAt": "2021-08-20T20:48:18Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "シンプルなin oneのyoutube用ビデオダウンローダです。プロダクトハントのコミュニティでは目新しいものはありませんが、私のツールを使いたい人がいれば、みんなで共有したいと思いました。PWA（Progressive Web App）をインストールすると、さらに高速に動作します。広告が入っていますが、前にも言ったような気がしますが、ご了承ください。",
+      "tagline": "どんなデバイスでもyoutubeから動画を簡単にダウンロードできます。"
+    },
+    {
+      "locale": "zh",
+      "description": "一个简单的一体式youtube视频下载器，用于youtube。对于产品搜索社区来说，这并不新鲜，但如果大家想使用的话，我想和大家分享我的工具。安装PWA(Progressive Web App)可以使它工作得更快。它有广告，所以你不要说我以前没有告诉你。",
+      "tagline": "在你的任何设备上轻松地下载youtube上的任何视频 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個簡單的一體式youtube視頻下載器，用於youtube。對於產品搜索社區來說，這並不新鮮，但如果大家想使用的話，我想和大家分享我的工具。安裝PWA(Progressive Web App)可以使它工作得更快。它有廣告，所以你不要說我以前沒有告訴你。",
+      "tagline": "在你的任何設備上輕鬆地下載youtube上的任何視頻 "
+    }
+  ]
 }
