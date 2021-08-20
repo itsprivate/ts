@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "見えない椅子の錯視"
+    },
+    {
+      "locale": "zh",
+      "title": "隐形椅子的幻觉"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "隱形椅子的幻覺"
+    }
+  ]
 }
