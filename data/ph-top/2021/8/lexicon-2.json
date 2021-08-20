@@ -72,5 +72,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-20T07:11:06Z"
+  "original_createdAt": "2021-08-20T07:11:06Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Lexiconは、カスタマイズ可能なオープンソースのモバイルアプリで、エレガントなモバイルディスカッション体験を提供します。コミュニティのためのオープンソースプラットフォームであるDiscourse上に構築されています。Lexiconをフォークして、既存のDiscorseインスタンスに接続し、App storeに出荷しましょう。",
+      "tagline": "オープンソースでカスタマイズ可能なコミュニティ向けモバイルアプリ"
+    },
+    {
+      "locale": "zh",
+      "description": "Lexicon是一个可定制的、开源的移动应用，提供优雅的移动讨论体验。它建立在Discourse上，一个社区的开源平台。叉开Lexicon，将其连接到你现有的Discorse实例，并将其运送到应用商店",
+      "tagline": "一个开源的、可定制的社区移动应用"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Lexicon是一個可定製的、開源的移動應用，提供優雅的移動討論體驗。它建立在Discourse上，一個社區的開源平臺。叉開Lexicon，將其連接到你現有的Discorse實例，並將其運送到應用商店",
+      "tagline": "一個開源的、可定製的社區移動應用"
+    }
+  ]
 }
