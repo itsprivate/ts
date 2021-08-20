@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-12T13:45:17Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3Sez8dDR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/an0xahrhhxd36d3ecpl6.png",
   "author": "The Code Lounge",
-  "author_url": "https://dev.to/codeloungedev"
+  "author_url": "https://dev.to/codeloungedev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "APIの販売でお金を稼げることを知っていますか？APIを構築して販売することは、...",
+      "title": "APIを販売して開発者としてお金を稼ぐ"
+    },
+    {
+      "locale": "zh",
+      "description": "你知道你可以通过出售你的API来赚钱吗？构建和销售API是一种很好的方式。",
+      "title": "作为开发者通过销售API赚钱"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你知道你可以通過出售你的API來賺錢嗎？構建和銷售API是一種很好的方式。",
+      "title": "作爲開發者通過銷售API賺錢"
+    }
+  ]
 }

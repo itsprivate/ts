@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この卵"
+    },
+    {
+      "locale": "zh",
+      "title": "这个鸡蛋"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個雞蛋"
+    }
+  ]
 }
