@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この男は現在、国会図書館の前で爆破予告をしている。"
+    },
+    {
+      "locale": "zh",
+      "title": "这个人目前正在国会图书馆前进行炸弹威胁"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個人目前正在國會圖書館前進行炸彈威脅"
+    }
+  ]
 }
