@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "お兄ちゃんは、弟のバス停で毎日違うコスプレをする"
+    },
+    {
+      "locale": "zh",
+      "title": "大哥每天在哥哥的公交车站装扮成不同的服装"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "大哥每天在哥哥的公交車站裝扮成不同的服裝"
+    }
+  ]
 }
