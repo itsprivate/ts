@@ -112,5 +112,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-20T07:01:00Z"
+  "original_createdAt": "2021-08-20T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Poppinsは、メッセージをアクションアイテムやディスカッショントピックとして、コンテキストを切り替えることなくSlack内に取り込むことで、Slackをアクション可能なものにし、1時間程度の時間短縮を実現します。世界中で100以上のチームがPoppinsを信頼しています。",
+      "tagline": "Slackをアクショナブルにする"
+    },
+    {
+      "locale": "zh",
+      "description": "Poppins让你的Slack变得可操作，在Slack内直接将信息捕捉为行动项目和讨论主题，无需切换上下文，节省了～个小时的时间! 🌍 全球有100个团队信任Poppins 🏅 在Slack应用程序中排名第一的辉煌机器人 🏆 排名第一的新的和值得注意的应用程序",
+      "tagline": "让Slack具有可操作性"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Poppins讓你的Slack變得可操作，在Slack內直接將信息捕捉爲行動項目和討論主題，無需切換上下文，節省了～個小時的時間! 🌍 全球有100個團隊信任Poppins 🏅 在Slack應用程序中排名第一的輝煌機器人 🏆 排名第一的新的和值得注意的應用程序",
+      "tagline": "讓Slack具有可操作性"
+    }
+  ]
 }
