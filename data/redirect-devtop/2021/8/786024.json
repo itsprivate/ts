@@ -48,5 +48,22 @@
   "original_created_at": "2021-08-09T11:49:08Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IkzY2SY4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3no57v516zwwg1tjelt3.jpg",
   "author": "Ella Ang (she/her/elle)",
-  "author_url": "https://dev.to/ellativity"
+  "author_url": "https://dev.to/ellativity",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Photo by Daniel Thomas DEVでの最初の投稿は、「Create...」をクリックするだけで簡単にできます。",
+      "title": "DEVで質の高い記事を書くには"
+    },
+    {
+      "locale": "zh",
+      "description": "照片：丹尼尔-托马斯 在DEV上写下你的第一篇文章，可以像点击 \"创建 \"一样不费劲。",
+      "title": "如何在DEV上写出高质量的帖子"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "照片：丹尼爾-托馬斯 在DEV上寫下你的第一篇文章，可以像點擊 \"創建 \"一樣不費勁。",
+      "title": "如何在DEV上寫出高質量的帖子"
+    }
+  ]
 }
