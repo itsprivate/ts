@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-20T07:05:00Z"
+  "original_createdAt": "2021-08-20T07:05:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "DocVitaは、インドのテレヘルス・プロバイダーです。Zoom、Meet、WhatsAppを使った専門的なケアを11の言語で提供しています。",
+      "tagline": "Zoom、Meet、WhatsAppを使ったインドの遠隔医療"
+    },
+    {
+      "locale": "zh",
+      "description": "DocVita是印度的一个远程医疗供应商。我们通过Zoom, Meet, WhatsApp提供11种语言的专科护理。",
+      "tagline": "在Zoom、Meet、WhatsApp上为印度提供远程医疗服务"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "DocVita是印度的一個遠程醫療供應商。我們通過Zoom, Meet, WhatsApp提供11種語言的專科護理。",
+      "tagline": "在Zoom、Meet、WhatsApp上爲印度提供遠程醫療服務"
+    }
+  ]
 }

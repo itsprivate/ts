@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-19T14:19:45Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RL2_TuGT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2zuynlb9k3ynnw8ssgo1.png",
   "author": "Nilanth",
-  "author_url": "https://dev.to/nilanth"
+  "author_url": "https://dev.to/nilanth",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "10個のReactパッケージには、1K以上のUIコンポーネントが含まれており、開発をスピードアップすることができます。 Reactは非常に...",
+      "title": "10個のReactパッケージと1KのUIコンポーネント"
+    },
+    {
+      "locale": "zh",
+      "description": "10个React包，其中有超过1K的UI组件，以加快开发速度。 React有一个非常重要的功能。",
+      "title": "10个拥有1,000个UI组件的React包"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "10個React包，其中有超過1K的UI組件，以加快開發速度。 React有一個非常重要的功能。",
+      "title": "10個擁有1,000個UI組件的React包"
+    }
+  ]
 }
