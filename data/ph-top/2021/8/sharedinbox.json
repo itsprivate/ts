@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-20T07:06:25Z"
+  "original_createdAt": "2021-08-20T07:06:25Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Slack内のチーム用共有インボックス - 既存のチームメール（help@、info@、sales@など）をSlackに接続して、外部のメールを使って簡単にコラボレーションができます。",
+      "tagline": "Slackからのメール送信・受信"
+    },
+    {
+      "locale": "zh",
+      "description": "在Slack中为你的团队共享收件箱 - 将你现有的团队电子邮件（如help@, info@, sales@）连接到Slack，毫不费力地通过外部电子邮件进行协作",
+      "tagline": "从Slack发送或接收电子邮件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在Slack中爲你的團隊共享收件箱 - 將你現有的團隊電子郵件（如help@, info@, sales@）連接到Slack，毫不費力地通過外部電子郵件進行協作",
+      "tagline": "從Slack發送或接收電子郵件"
+    }
+  ]
 }
