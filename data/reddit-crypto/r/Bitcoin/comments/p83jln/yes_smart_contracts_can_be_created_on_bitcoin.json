@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "はい、スマートコントラクトはビットコイン上で作成できます。ビットコインは、DeFiの世界でもっと活躍するでしょう。"
+    },
+    {
+      "locale": "zh",
+      "title": "是的，智能合约可以在比特币上创建。比特币将在DeFi的世界中成为更多的参与者。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "是的，智能合約可以在比特幣上創建。比特幣將在DeFi的世界中成爲更多的參與者。"
+    }
+  ]
 }

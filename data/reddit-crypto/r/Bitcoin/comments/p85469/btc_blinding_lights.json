@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "BTCブラインドライト"
+    },
+    {
+      "locale": "zh",
+      "title": "BTC刺眼的灯光"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "BTC刺眼的燈光"
+    }
+  ]
 }
