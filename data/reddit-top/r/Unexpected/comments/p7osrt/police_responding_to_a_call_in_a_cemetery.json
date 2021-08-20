@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "墓地での通報に対応する警察"
+    },
+    {
+      "locale": "zh",
+      "title": "警方在公墓内接听电话"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "警方在公墓內接聽電話"
+    }
+  ]
 }
