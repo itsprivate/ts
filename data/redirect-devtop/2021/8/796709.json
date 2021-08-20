@@ -41,5 +41,22 @@
   "original_created_at": "2021-08-19T03:45:08Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6FU94tYT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jvluxn11yv33xy54zwoo.jpg",
   "author": "Ahmed Adel",
-  "author_url": "https://dev.to/ahmedadel"
+  "author_url": "https://dev.to/ahmedadel",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Yieldキーワードは昔からC#では非常に誤解されているキーワードなので、それを説明するために、...",
+      "title": "イールド・リターンの説明"
+    },
+    {
+      "locale": "zh",
+      "description": "Yield关键字一直是C#中一个被误解程度很高的关键字，所以我将尝试用它来解释。",
+      "title": "产量回报解释!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Yield關鍵字一直是C#中一個被誤解程度很高的關鍵字，所以我將嘗試用它來解釋。",
+      "title": "產量回報解釋!"
+    }
+  ]
 }
