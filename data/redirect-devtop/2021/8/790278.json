@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-13T06:48:26Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3kclXQhm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ljj2dlpsve4j6cawqjap.jpg",
   "author": "v-aksenov",
-  "author_url": "https://dev.to/vaksenov"
+  "author_url": "https://dev.to/vaksenov",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私の名前はViacheslav Aksenovです。私は大規模で複雑なバックエンドシステムの開発者です。私はJavaから始めました...",
+      "title": "今すぐJavaからKotlinに乗り換えるべき10の理由!"
+    },
+    {
+      "locale": "zh",
+      "description": "我的名字是Viacheslav Aksenov，我是大型和复杂的后台系统的开发者。我的工作是从Java开始的...",
+      "title": "现在就从Java转到Kotlin的10个理由!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我的名字是Viacheslav Aksenov，我是大型和複雜的後臺系統的開發者。我的工作是從Java開始的...",
+      "title": "現在就從Java轉到Kotlin的10個理由!"
+    }
+  ]
 }
