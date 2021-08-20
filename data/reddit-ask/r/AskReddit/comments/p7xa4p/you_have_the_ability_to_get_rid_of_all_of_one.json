@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたは地球上にある一つのものをすべて取り除く能力を持っていますが、何を取り除くのですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你有能力摆脱地球上所有的一件事，你要摆脱什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你有能力擺脫地球上所有的一件事，你要擺脫什麼？"
+    }
+  ]
 }
