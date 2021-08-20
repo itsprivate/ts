@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-19T13:58:31Z",
   "image": "https://dev.to/social_previews/article/797167.png",
   "author": "Itay Schechner",
-  "author_url": "https://dev.to/itays123"
+  "author_url": "https://dev.to/itays123",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TL;DR 組立可能、再利用可能、読み取り可能なコンポーネントを作成するために、私たちはコンポーネント...",
+      "title": "React.jsでフォームを使うための正しい方法（ライブラリ不要 "
+    },
+    {
+      "locale": "zh",
+      "description": "TL;DR 为了创建可组合、可重用和可读的组件，我们使用组件...",
+      "title": "在React.js中使用表单，正确的方法（不需要库）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "TL;DR 爲了創建可組合、可重用和可讀的組件，我們使用組件...",
+      "title": "在React.js中使用表單，正確的方法（不需要庫）。"
+    }
+  ]
 }
