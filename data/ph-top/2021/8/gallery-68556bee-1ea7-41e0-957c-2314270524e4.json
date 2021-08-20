@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-20T07:05:00Z"
+  "original_createdAt": "2021-08-20T07:05:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ワンクリックで本番環境を複製したり、Github/Gitlabに接続してプルリクエストのビルドをトリガーしたり、Slack/Jiraを介してQAと環境プレビューを共有したりと、クラウド・プロバイダーや環境アーキテクチャを選びません。",
+      "tagline": "プルリクエストに応じた環境を独自のクラウドで提供"
+    },
+    {
+      "locale": "zh",
+      "description": "一键复制你的生产环境，通过连接Github/Gitlab触发构建拉动请求，并通过Slack/Jira与QA分享环境预览 - 所有这些都适用于任何云提供商和任何环境架构。",
+      "tagline": "在你自己的云上，按拉动请求提供环境"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一鍵複製你的生產環境，通過連接Github/Gitlab觸發構建拉動請求，並通過Slack/Jira與QA分享環境預覽 - 所有這些都適用於任何雲提供商和任何環境架構。",
+      "tagline": "在你自己的雲上，按拉動請求提供環境"
+    }
+  ]
 }
