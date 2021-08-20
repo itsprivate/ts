@@ -106,5 +106,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1629468547,
-  "the_new_excerpt": "Disclaimer: I am not a mathematician (and the last math class I took was 10\nyears ago), financial analyst, nor historian. I could be off base, correct me if\nso. I am working off of this\n[https://www.macrotrends.net/2526/sp-500-historical-annual-returns], which\ndoesn't factor in dividend…"
+  "the_new_excerpt": "Disclaimer: I am not a mathematician (and the last math class I took was 10\nyears ago), financial analyst, nor historian. I could be off base, correct me if\nso. I am working off of this\n[https://www.macrotrends.net/2526/sp-500-historical-annual-returns], which\ndoesn't factor in dividend…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "免責事項：私は数学者ではありません（最後に数学の授業を受けたのは10年前です）。\n私は数学者でもなければ（最後に数学の授業を受けたのは10年前）、金融アナリストでも歴史家でもありません。私の考えは間違っているかもしれませんが、もしそうなら訂正してく\nしてください。私は以下を参考にしています。\n[https://www.macrotrends.net/2526/sp-500-historical-annual-returns]を参考にしています。\n配当を考慮していませんが...",
+      "title": "S&Pのヒストリカルリターンについての注意点"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "免责声明：我不是数学家（我最后一次上数学课是在10年前）。\n我不是数学家（我最后一次上数学课是10年前），不是金融分析师，也不是历史学家。我的观点可能是错误的，如果是，请纠正我。\n是的。我的工作是根据这个\n[https://www.macrotrends.net/2526/sp-500-historical-annual-returns]，其中\n没有考虑到股息因素...",
+      "title": "关于标准普尔历史回报的一些说明"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "免責聲明：我不是數學家（我最後一次上數學課是在10年前）。\n我不是數學家（我最後一次上數學課是10年前），不是金融分析師，也不是歷史學家。我的觀點可能是錯誤的，如果是，請糾正我。\n是的。我的工作是根據這個\n[https://www.macrotrends.net/2526/sp-500-historical-annual-returns]，其中\n沒有考慮到股息因素...",
+      "title": "關於標準普爾歷史回報的一些說明"
+    }
+  ]
 }
