@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-18T05:36:12Z",
   "image": "https://dev.to/social_previews/article/795755.png",
   "author": "Kat Holder",
-  "author_url": "https://dev.to/katholder"
+  "author_url": "https://dev.to/katholder",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ビジネスアプリケーションを開くと、ダッシュボードには重要業績評価指標が表示されています。",
+      "title": "あなたのビジネスに最適なダッシュボードフレームワーク"
+    },
+    {
+      "locale": "zh",
+      "description": "你打开你的商业应用程序，你的仪表板引导你了解关键绩效指标。",
+      "title": "为你的企业提供最佳的仪表板框架。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你打開你的商業應用程序，你的儀表板引導你瞭解關鍵績效指標。",
+      "title": "爲你的企業提供最佳的儀表板框架。"
+    }
+  ]
 }
