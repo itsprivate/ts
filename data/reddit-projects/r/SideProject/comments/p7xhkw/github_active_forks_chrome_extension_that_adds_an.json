@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Github Active Forks: Github リポジトリのページに active forks セクションを追加する Chrome 拡張機能です。"
+    },
+    {
+      "locale": "zh",
+      "title": "Github活跃分叉。在Github Repository页面上添加活跃分叉部分的Chrome扩展工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Github活躍分叉。在Github Repository頁面上添加活躍分叉部分的Chrome擴展工具"
+    }
+  ]
 }
