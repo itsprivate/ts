@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-18T03:41:55Z",
   "image": "https://dev.to/social_previews/article/795610.png",
   "author": "Gil Rudolf Härdi",
-  "author_url": "https://dev.to/ghaerdi"
+  "author_url": "https://dev.to/ghaerdi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは。約1年前に私はvuejsを使い始めましたが、このvuejsを使うのはとても簡単で気に入っています。",
+      "title": "独自のvueをコード化する：レンダリングとステート"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好。差不多一年前，我开始使用vuejs，我喜欢它的简单使用。",
+      "title": "编写你自己的vue代码：渲染和状态"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好。差不多一年前，我開始使用vuejs，我喜歡它的簡單使用。",
+      "title": "編寫你自己的vue代碼：渲染和狀態"
+    }
+  ]
 }
