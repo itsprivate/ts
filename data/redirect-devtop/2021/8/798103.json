@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-20T10:54:52Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1cXgOxT---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hcg8c1odqkm36mp7jqpd.jpg",
   "author": "Anton Vasin",
-  "author_url": "https://dev.to/antonvasin"
+  "author_url": "https://dev.to/antonvasin",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "機能フラグ（または機能トグル）とは、チームがシステムを変更できるようにするコードの扱い方です...",
+      "title": "Feature Flagsがより速く、より安全な開発への道となる理由"
+    },
+    {
+      "locale": "zh",
+      "description": "功能标志（或功能切换）是一种处理代码的方式，允许团队修改系统...",
+      "title": "是什么让功能标志成为一条更快、更安全的开发之路"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "功能標誌（或功能切換）是一種處理代碼的方式，允許團隊修改系統...",
+      "title": "是什麼讓功能標誌成爲一條更快、更安全的開發之路"
+    }
+  ]
 }
