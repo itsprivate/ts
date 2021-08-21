@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-19T14:48:09Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LVk765mF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bhxd5khhnpaw5su37ytd.png",
   "author": "devbookmark",
-  "author_url": "https://dev.to/devbookmark"
+  "author_url": "https://dev.to/devbookmark",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "正規表現はあらゆる高級プログラミング言語で重要な役割を果たしていますが、JavaScriptにおいても同様です。....",
+      "title": "2021年版 超究極のRegexガイド（JavaScriptでの使用方法"
+    },
+    {
+      "locale": "zh",
+      "description": "正则表达式在每一种高级编程语言中都发挥着重要作用，在JavaScript....。",
+      "title": "2021年Regex超级终极指南(如何在JavaScript中使用)"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "正則表達式在每一種高級編程語言中都發揮着重要作用，在JavaScript....。",
+      "title": "2021年Regex超級終極指南(如何在JavaScript中使用)"
+    }
+  ]
 }

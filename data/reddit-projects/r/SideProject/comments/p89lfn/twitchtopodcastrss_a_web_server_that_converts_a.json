@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "TwitchToPodcastRSS - Twitchのチャンネルをトランスコードなしでオーディオポッドキャストのフィードに変換するウェブサーバーです。"
+    },
+    {
+      "locale": "zh",
+      "title": "TwitchToPodcastRSS - 一个将Twitch频道转换为音频播客的网络服务器，不需要转码*。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "TwitchToPodcastRSS - 一個將Twitch頻道轉換爲音頻播客的網絡服務器，不需要轉碼*。"
+    }
+  ]
 }
