@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-21T07:01:00Z"
+  "original_createdAt": "2021-08-21T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Twitterの投稿を美しい画像として取り込み、共有することができます。Poet.soは、Twitterの投稿を他のプラットフォームで共有する際に、より視覚的で注目を集めるようにします。",
+      "tagline": "Twitterの投稿を美しい画像として取り込み、共有する"
+    },
+    {
+      "locale": "zh",
+      "description": "捕捉并分享Twitter的帖子，作为美丽的图像。Poet.so使在其他平台上分享Twitter帖子更加直观和引人注意。",
+      "tagline": "捕捉并分享Twitter的帖子作为美丽的图像"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "捕捉並分享Twitter的帖子，作爲美麗的圖像。Poet.so使在其他平臺上分享Twitter帖子更加直觀和引人注意。",
+      "tagline": "捕捉並分享Twitter的帖子作爲美麗的圖像"
+    }
+  ]
 }
