@@ -43,5 +43,22 @@
   "original_created_at": "2021-08-20T13:55:26Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Z1GWNoo---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pvo9vkh1ahyyhm5t8kvd.jpeg",
   "author": "Shadid Haque",
-  "author_url": "https://dev.to/shadid12"
+  "author_url": "https://dev.to/shadid12",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "オブジェクトの複製は、JavaScriptの世界で最もよく使われる操作の1つです。この記事では...",
+      "title": "JavaScriptでオブジェクトを複製する最も効率的な方法"
+    },
+    {
+      "locale": "zh",
+      "description": "克隆对象是JavaScript世界中最常用的操作之一。在这篇文章中，我们可以看到",
+      "title": "在JavaScript中克隆对象的最有效方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "克隆對象是JavaScript世界中最常用的操作之一。在這篇文章中，我們可以看到",
+      "title": "在JavaScript中克隆對象的最有效方法"
+    }
+  ]
 }
