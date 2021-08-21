@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "久しぶりに聞いた最高のラップの一つです。"
+    },
+    {
+      "locale": "zh",
+      "title": "这是我很多很多年来听到的最好的说唱之一。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是我很多很多年來聽到的最好的說唱之一。"
+    }
+  ]
 }

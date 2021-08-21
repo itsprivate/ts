@@ -43,5 +43,22 @@
   "original_created_at": "2021-08-20T08:00:01Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--chySM7xo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yp0d1mbcxhkg3r3fzcr2.jpg",
   "author": "tq-bit",
-  "author_url": "https://dev.to/tqbit"
+  "author_url": "https://dev.to/tqbit",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TL: DR -&gt; Take me to the code: https://github.com/tq-bit/fetch-progress 以前の記事で、私は...",
+      "title": "Javascriptのフェッチ - リクエストの進行状況を監視し、必要に応じてキャンセルする方法。"
+    },
+    {
+      "locale": "zh",
+      "description": "TL: DR -&gt; 带我去看代码: https://github.com/tq-bit/fetch-progress 在之前的文章中，我已经...",
+      "title": "如何监控Javascript获取的进度--请求，并根据需要取消它。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "TL: DR -&gt; 帶我去看代碼: https://github.com/tq-bit/fetch-progress 在之前的文章中，我已經...",
+      "title": "如何監控Javascript獲取的進度--請求，並根據需要取消它。"
+    }
+  ]
 }
