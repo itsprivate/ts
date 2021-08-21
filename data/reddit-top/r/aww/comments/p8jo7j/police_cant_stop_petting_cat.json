@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "猫を撫でるのをやめられない警察。"
+    },
+    {
+      "locale": "zh",
+      "title": "警察无法停止抚摸猫。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "警察無法停止撫摸貓。"
+    }
+  ]
 }
