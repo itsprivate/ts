@@ -98,5 +98,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-21T07:04:34Z"
+  "original_createdAt": "2021-08-21T07:04:34Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "YouTubeのコメントをタイムスタンプ付きで効率的に管理・閲覧することができます。",
+      "tagline": "YouTubeのコメントをタイムスタンプ付きで効率的に表示するツール"
+    },
+    {
+      "locale": "zh",
+      "description": "有效地管理和查看带有时间戳的YouTube评论。",
+      "tagline": "一个有效查看带有时间戳的YouTube评论的工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有效地管理和查看帶有時間戳的YouTube評論。",
+      "tagline": "一個有效查看帶有時間戳的YouTube評論的工具"
+    }
+  ]
 }
