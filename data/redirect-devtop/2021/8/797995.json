@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-20T08:48:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--swQ4azV5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kqjmnmgvl1sbjok096kx.png",
   "author": "Suprabha",
-  "author_url": "https://dev.to/suprabhasupi"
+  "author_url": "https://dev.to/suprabhasupi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ENVとは🤔 APIキーなどの機密情報を保存するためのenvファイルです。環境...",
+      "title": "Reactの環境変数"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是ENV 🤔env文件，用于存储你的敏感凭证，如API密钥。环境...",
+      "title": "React环境变量"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是ENV 🤔env文件，用於存儲你的敏感憑證，如API密鑰。環境...",
+      "title": "React環境變量"
+    }
+  ]
 }
