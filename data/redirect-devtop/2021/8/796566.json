@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-18T22:18:57Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zCUwZgx---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/969usjuo4wjbuy0qhw2u.png",
   "author": "CodeOzz",
-  "author_url": "https://dev.to/codeozz"
+  "author_url": "https://dev.to/codeozz",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "親から子へとプロップを渡すとき、このデータを更新する必要があるかもしれません。 vuejsでは、...",
+      "title": "Vue Academy #5です。コンポーネント間の通信"
+    },
+    {
+      "locale": "zh",
+      "description": "当你把道具从父代传给子代时，你可能需要更新这些数据。 在vuejs中，你有...",
+      "title": "Vue学院#5。组件之间的沟通"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當你把道具從父代傳給子代時，你可能需要更新這些數據。 在vuejs中，你有...",
+      "title": "Vue學院#5。組件之間的溝通"
+    }
+  ]
 }
