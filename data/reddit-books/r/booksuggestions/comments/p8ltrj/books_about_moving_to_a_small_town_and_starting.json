@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "This doesn’t have to be the books entire storyline but strong elements of this\nis what I’m looking for."
+  "the_new_excerpt": "This doesn’t have to be the books entire storyline but strong elements of this\nis what I’m looking for.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "これは本のストーリー全体である必要はありませんが、このような要素が強く出ています。\n求めているのは",
+      "title": "小さな町に引っ越して再出発するための本"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这不一定是整本书的故事情节，但其中的强烈元素\n是我正在寻找的。",
+      "title": "关于搬到一个小镇并重新开始的书"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這不一定是整本書的故事情節，但其中的強烈元素\n是我正在尋找的。",
+      "title": "關於搬到一個小鎮並重新開始的書"
+    }
+  ]
 }
