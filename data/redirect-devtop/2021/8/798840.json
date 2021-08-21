@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-21T05:44:47Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--eSoY8YXO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b3xb3uzgjk2svwlhjj93.png",
   "author": "Modern Web",
-  "author_url": "https://dev.to/kunaal438"
+  "author_url": "https://dev.to/kunaal438",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは。今日は、ピュアなHTML、CSS、JS.... を使って、完全にレスポンシブなモダンポートフォリオを作る方法をご紹介します。",
+      "title": "ピュアなHTML、CSS、JSを使って、完全にレスポンシブなモダンポートフォリオを作る方法。"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，今天我们将看到如何使用纯HTML、CSS和JS....，制作一个完全响应的现代组合。",
+      "title": "如何使用纯HTML、CSS和JS制作完全响应的现代投资组合。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，今天我們將看到如何使用純HTML、CSS和JS....，製作一個完全響應的現代組合。",
+      "title": "如何使用純HTML、CSS和JS製作完全響應的現代投資組合。"
+    }
+  ]
 }
