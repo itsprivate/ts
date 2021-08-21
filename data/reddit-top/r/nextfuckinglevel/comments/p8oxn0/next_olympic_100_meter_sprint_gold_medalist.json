@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "次のオリンピックの100mスプリントの金メダリスト。"
+    },
+    {
+      "locale": "zh",
+      "title": "下一届奥运会100米短跑金牌得主。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "下一屆奧運會100米短跑金牌得主。"
+    }
+  ]
 }
