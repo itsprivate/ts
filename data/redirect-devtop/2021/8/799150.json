@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-21T14:43:53Z",
   "image": "https://dev.to/social_previews/article/799150.png",
   "author": "Mwenda Harun Mbaabu",
-  "author_url": "https://dev.to/grayhat"
+  "author_url": "https://dev.to/grayhat",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "DevOpsという言葉は、開発（Development）と運用（Operation）を組み合わせたもので、「開発」と「運用」の融合を意味しています。",
+      "title": "DevOpsの紹介と、DevOps Methodologyで使用されるトップ10のツール。"
+    },
+    {
+      "locale": "zh",
+      "description": "DevOps这个词是开发和运营两个术语的组合，意在代表一种...",
+      "title": "介绍DevOps和DevOps方法学中使用的十大工具。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "DevOps這個詞是開發和運營兩個術語的組合，意在代表一種...",
+      "title": "介紹DevOps和DevOps方法學中使用的十大工具。"
+    }
+  ]
 }
