@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "友達と一緒に遊べるシンプルなマルチプレイヤー・ブラウザゲームのコレクション、Bloob.ioを作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我创建了Bloob.io，一个简单的多人浏览器游戏集合，可以和朋友一起玩。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我創建了Bloob.io，一個簡單的多人瀏覽器遊戲集合，可以和朋友一起玩。"
+    }
+  ]
 }
