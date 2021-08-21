@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ローカルブルワリーで見つけたもの"
+    },
+    {
+      "locale": "zh",
+      "title": "在当地啤酒厂看到的情景"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在當地啤酒廠看到的情景"
+    }
+  ]
 }
