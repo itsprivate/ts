@@ -35,5 +35,22 @@
   "original_created_at": "2021-08-21T16:57:18Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tsZUUvNO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k7iuie0vf9x8vfmgbfiz.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "開発者向けの製品の改良や、開発者のためのサービスについて、多くの人から問い合わせがあります。",
+      "title": "あなたが実際に受けている開発者のフィードバックは、サバイバーシップ・バイアスです。"
+    },
+    {
+      "locale": "zh",
+      "description": "很多人都会与你联系，讨论如何改进你面向开发者的产品或...",
+      "title": "你实际得到的开发者反馈是生存者偏见"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "很多人都會與你聯繫，討論如何改進你面向開發者的產品或...",
+      "title": "你實際得到的開發者反饋是生存者偏見"
+    }
+  ]
 }
