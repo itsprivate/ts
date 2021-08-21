@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Or just any coming-home-from-school/work rituals that you have."
+  "the_new_excerpt": "Or just any coming-home-from-school/work rituals that you have.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "あるいは、学校や職場からの帰宅時の儀式など、あなたが持っているものを教えてください。",
+      "title": "疲れて帰ってきたら、まず何をしますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "或者只是你有的任何放学回家/工作的仪式。",
+      "title": "忙碌了一天后，你回家后做的第一件事是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "或者只是你有的任何放學回家/工作的儀式。",
+      "title": "忙碌了一天後，你回家後做的第一件事是什麼？"
+    }
+  ]
 }
