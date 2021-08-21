@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-20T14:03:37Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FqZvEHnb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2wzrew37tlytp5q29vl3.png",
   "author": "Maria Antonella 🦋",
-  "author_url": "https://dev.to/antoomartini"
+  "author_url": "https://dev.to/antoomartini",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "一見、同じ動作をしているように見えても、大きな違いがある機能です。そして、それは...",
+      "title": "JavascriptにおけるObject.freeze()とObject.seal()の違いについて"
+    },
+    {
+      "locale": "zh",
+      "description": "它们是可能看起来做同样的动作，但有显著差异的功能。而这是...",
+      "title": "Javascript中Object.freeze( ) 和Object.seal( ) 的区别"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "它們是可能看起來做同樣的動作，但有顯著差異的功能。而這是...",
+      "title": "Javascript中Object.freeze( ) 和Object.seal( ) 的區別"
+    }
+  ]
 }
