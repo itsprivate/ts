@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "包丁が使えない場合、キッチンの引き出しから何を取り出して相手を撃退しますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你不能用刀，你会从厨房的抽屉里拿什么来抵挡攻击者？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你不能用刀，你會從廚房的抽屜裏拿什麼來抵擋攻擊者？"
+    }
+  ]
 }
