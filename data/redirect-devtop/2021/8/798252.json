@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-20T13:18:03Z",
   "image": "https://dev.to/social_previews/article/798252.png",
   "author": "Wojciech Maj",
-  "author_url": "https://dev.to/wojtekmaj"
+  "author_url": "https://dev.to/wojtekmaj",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "意外と知らないReactアプリ最適化テクニック",
+      "title": "Reactアプリの最適化：ハードコア版"
+    },
+    {
+      "locale": "zh",
+      "description": "你可能从未听说过的React应用优化技术",
+      "title": "优化React应用：硬核版"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你可能從未聽說過的React應用優化技術",
+      "title": "優化React應用：硬核版"
+    }
+  ]
 }
