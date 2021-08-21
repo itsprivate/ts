@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "woa woa woa それはすぐにエスカレートした。"
+    },
+    {
+      "locale": "zh",
+      "title": "woa woa woa，很快就升级了"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "woa woa woa，很快就升級了"
+    }
+  ]
 }
