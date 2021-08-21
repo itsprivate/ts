@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "なぜラテン語は死んだのか？とても重要で広く普及していた言語だったように思うのですが。"
+    },
+    {
+      "locale": "zh",
+      "title": "拉丁文为什么会死？看起来它是一种非常重要和广泛传播的语言。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "拉丁文爲什麼會死？看起來它是一種非常重要和廣泛傳播的語言。"
+    }
+  ]
 }
