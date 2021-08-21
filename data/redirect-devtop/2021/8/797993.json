@@ -48,5 +48,22 @@
   "original_created_at": "2021-08-20T08:46:22Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--czBHkvad--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.pexels.com/photos/1370294/pexels-photo-1370294.jpeg%3Fw%3D1600",
   "author": "Victor Ocnarescu",
-  "author_url": "https://dev.to/victorocna"
+  "author_url": "https://dev.to/victorocna",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactプロジェクトに完璧なファイル構造はありますか？おそらくないでしょう。しかし、いくつかは他よりもはるかに優れています。",
+      "title": "Reactプロジェクトにおけるファイル構造の改善"
+    },
+    {
+      "locale": "zh",
+      "description": "对于React项目来说，是否有一个完美的文件结构？可能没有。但有一些比其他的要好得多",
+      "title": "React项目中更好的文件结构"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "對於React項目來說，是否有一個完美的文件結構？可能沒有。但有一些比其他的要好得多",
+      "title": "React項目中更好的文件結構"
+    }
+  ]
 }
