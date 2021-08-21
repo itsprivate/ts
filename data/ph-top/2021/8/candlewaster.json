@@ -83,5 +83,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-21T07:00:00Z"
+  "original_createdAt": "2021-08-21T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Candlewasterは、本を読む習慣を身につけるためのアプリケーションで、読書データを記録し、そのデータを統計的にインタラクティブなグラフィックで表示することができます。",
+      "tagline": "強力な読書習慣の構築と向上"
+    },
+    {
+      "locale": "zh",
+      "description": "Candlewaster是一个帮助你获得阅读书籍习惯的应用程序，你可以跟踪阅读数据，并用统计学上的互动图形显示这些数据。",
+      "tagline": "培养和提高强大的阅读习惯"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Candlewaster是一個幫助你獲得閱讀書籍習慣的應用程序，你可以跟蹤閱讀數據，並用統計學上的互動圖形顯示這些數據。",
+      "tagline": "培養和提高強大的閱讀習慣"
+    }
+  ]
 }
