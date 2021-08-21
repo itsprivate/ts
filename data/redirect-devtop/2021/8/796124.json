@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-18T13:52:47Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zpoFtUz1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tpizkfef55aevrf505l3.png",
   "author": "Saymon",
-  "author_url": "https://dev.to/saymontavares"
+  "author_url": "https://dev.to/saymontavares",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "どうして？  現在、メインの開発ブログエリアとしてdev.toを使用していますが、自分のブログを自分のサイトで紹介したいのです。",
+      "title": "dev.to APIの使い方!"
+    },
+    {
+      "locale": "zh",
+      "description": "为什么？  我现在用dev.to作为我主要的开发博客区，但我想在我的博客上炫耀我的博客。",
+      "title": "如何使用dev.to API!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "爲什麼？  我現在用dev.to作爲我主要的開發博客區，但我想在我的博客上炫耀我的博客。",
+      "title": "如何使用dev.to API!"
+    }
+  ]
 }
