@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ルーキーとは"
+    },
+    {
+      "locale": "zh",
+      "title": "真是个菜鸟"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "真是個菜鳥"
+    }
+  ]
 }

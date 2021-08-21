@@ -57,5 +57,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Hey team! We just launched our web application DollarProxy, which assists in the\naccounts receivable process. All you do is upload the invoice data into the\nsystem including who owes the invoice and any attachments, and we will\nautomatically send out payment reminders to the client every couple of…"
+  "the_new_excerpt": "Hey team! We just launched our web application DollarProxy, which assists in the\naccounts receivable process. All you do is upload the invoice data into the\nsystem including who owes the invoice and any attachments, and we will\nautomatically send out payment reminders to the client every couple of…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "Hey team! 私たちは、売掛金処理を支援するウェブアプリケーション「DollarProxy」を発表しました。\n売掛金プロセスを支援するウェブアプリケーションを発表しました。あなたがすることは、請求書のデータをシステムにアップロードすることだけです。\n請求書のデータをシステムにアップロードするだけで、誰がその請求書を負担しているかや、添付ファイルを含めて\n自動的にクライアントに支払いの督促状を数日おきに送ります。",
+      "title": "中小企業のユーザーが滞納している顧客の支払・回収プロセスを自動化するためのウェブサイトを作成しました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "嗨，队员们! 我们刚刚推出了我们的网络应用DollarProxy，它协助了\n应收账款过程。你所做的只是将发票数据上传到\n包括谁欠了发票和任何附件，我们就会\n我们就会自动向客户发送付款提醒，每隔几个月发送一次。",
+      "title": "我们制作了一个网站，帮助有逾期客户的小企业用户实现付款和收款过程自动化"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "嗨，隊員們! 我們剛剛推出了我們的網絡應用DollarProxy，它協助了\n應收賬款過程。你所做的只是將發票數據上傳到\n包括誰欠了發票和任何附件，我們就會\n我們就會自動向客戶發送付款提醒，每隔幾個月發送一次。",
+      "title": "我們製作了一個網站，幫助有逾期客戶的小企業用戶實現付款和收款過程自動化"
+    }
+  ]
 }
