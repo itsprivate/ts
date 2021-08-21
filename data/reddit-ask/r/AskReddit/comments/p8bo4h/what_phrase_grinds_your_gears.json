@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの気になるフレーズは？"
+    },
+    {
+      "locale": "zh",
+      "title": "哪句话让你感到不安？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "哪句話讓你感到不安？"
+    }
+  ]
 }
