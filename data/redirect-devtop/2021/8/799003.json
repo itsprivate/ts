@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-21T10:32:55Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--upYePH6c--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hb25dgkis5495nal8hod.jpg",
   "author": "Francisco Mendes",
-  "author_url": "https://dev.to/franciscomendes10866"
+  "author_url": "https://dev.to/franciscomendes10866",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactで最も使われているコンポーネントの1つは、間違いなくモーダルです。",
+      "title": "Reactでモーダルを作成する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "React中最常用的组件之一无疑是模态，因为它们可以被用于不同的场合。",
+      "title": "如何在React中创建一个模态"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "React中最常用的組件之一無疑是模態，因爲它們可以被用於不同的場合。",
+      "title": "如何在React中創建一個模態"
+    }
+  ]
 }
