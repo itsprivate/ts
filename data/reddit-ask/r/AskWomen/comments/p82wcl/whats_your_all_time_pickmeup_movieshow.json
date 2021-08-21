@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたがいつも見ている、元気が出る映画や番組は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你一直以来的提神电影/节目是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你一直以來的提神電影/節目是什麼？"
+    }
+  ]
 }
