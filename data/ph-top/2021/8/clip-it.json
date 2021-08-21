@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-21T07:00:00Z"
+  "original_createdAt": "2021-08-21T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "かつてはボタンを押すだけで簡単にできたクリッピング。今ではさらに簡単になりました。",
+      "tagline": "AIによる自動クリップ"
+    },
+    {
+      "locale": "zh",
+      "description": "剪辑曾经像按下一个按钮一样容易。现在它更容易了。",
+      "tagline": "由人工智能驱动的自动剪辑"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "剪輯曾經像按下一個按鈕一樣容易。現在它更容易了。",
+      "tagline": "由人工智能驅動的自動剪輯"
+    }
+  ]
 }
