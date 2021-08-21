@@ -43,5 +43,22 @@
   "original_created_at": "2021-08-09T15:30:04Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UClYe4aj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nr160vcwap2p42lhr0zr.jpg",
   "author": "Molly Struve (she/her)",
-  "author_url": "https://dev.to/molly"
+  "author_url": "https://dev.to/molly",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "インタビューをするときには、人それぞれのスタイルややり方があります。私の場合は...",
+      "title": "面接を成功させるための心構え "
+    },
+    {
+      "locale": "zh",
+      "description": "谈到面试，每个人都有自己的风格和他们喜欢的方式。当我...",
+      "title": "为面试成功设置自己的位置 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "談到面試，每個人都有自己的風格和他們喜歡的方式。當我...",
+      "title": "爲面試成功設置自己的位置 "
+    }
+  ]
 }
