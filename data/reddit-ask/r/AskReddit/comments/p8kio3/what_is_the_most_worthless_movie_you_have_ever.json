@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今まで観た中で一番価値のない映画は？"
+    },
+    {
+      "locale": "zh",
+      "title": "你看过的最没有价值的电影是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你看過的最沒有價值的電影是什麼？"
+    }
+  ]
 }
