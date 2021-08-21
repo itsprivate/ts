@@ -103,5 +103,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1629470136,
-  "the_new_excerpt": "etf.com [https://etf.com] has data on fund flows. I used the data for ARKK and\nsimulated how the average investor in ARKK would have fared compared with\ninvesting in a Total Market ETF.\n\nI imported every daily net fund flow in Portfolio Performance\n[https://www.portfolio-performance.info/] and…"
+  "the_new_excerpt": "etf.com [https://etf.com] has data on fund flows. I used the data for ARKK and\nsimulated how the average investor in ARKK would have fared compared with\ninvesting in a Total Market ETF.\n\nI imported every daily net fund flow in Portfolio Performance\n[https://www.portfolio-performance.info/] and…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "etf.com [https://etf.com]には、ファンドのフローに関するデータがあります。私はARKKのデータを使って\nARKKへの平均的な投資家がTotal Market ETFに投資した場合と比較して、どのような結果になったかをシミュレーションしてみました。\nトータル・マーケットETFに投資した場合と比較して、ARKKの平均的な投資家がどのような結果になったかをシミュレーションしました。\n\n私はPortfolio Performanceに毎日の純ファンドフローをすべてインポートしました。\n[https://www.portfolio-performance.info/]と...",
+      "title": "ファンドフローに基づく、米国市場全体と比較したARKKへの投資の内部収益率"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "etf.com[https://etf.com]有关于基金流量的数据。我使用ARKK的数据并\n模拟了ARKK的普通投资者与投资于全市场ETF相比会有怎样的表现。\n投资于全市场ETF。\n\n我在投资组合表现中导入了每一天的净资金流量\n[https://www.portfolio-performance.info/] 和...",
+      "title": "根据基金流量，在ARKK投资的内部回报率与美国总市场的比较"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "etf.com[https://etf.com]有關於基金流量的數據。我使用ARKK的數據並\n模擬了ARKK的普通投資者與投資於全市場ETF相比會有怎樣的表現。\n投資於全市場ETF。\n\n我在投資組合表現中導入了每一天的淨資金流量\n[https://www.portfolio-performance.info/] 和...",
+      "title": "根據基金流量，在ARKK投資的內部回報率與美國總市場的比較"
+    }
+  ]
 }
