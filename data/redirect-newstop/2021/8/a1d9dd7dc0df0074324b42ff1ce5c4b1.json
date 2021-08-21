@@ -14,5 +14,19 @@
   "tags": [
     "Reuters"
   ],
-  "image": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=50"
+  "image": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=50",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "パキスタンの自爆テロ、中国人が路上で死亡-中国大使館"
+    },
+    {
+      "locale": "zh",
+      "title": "巴基斯坦自杀式炸弹袭击者在路边袭击中杀害中国公民 - 中国大使馆"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "巴基斯坦自殺式炸彈襲擊者在路邊襲擊中殺害中國公民 - 中國大使館"
+    }
+  ]
 }
