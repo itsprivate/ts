@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "covid-19ワクチンは、あなたが他の人にウイルスを広げない可能性を、もしあるとすれば、どのくらい下げますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果有的话，接种covid-19疫苗能在多大程度上降低你不把病毒传播给别人的机会？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果有的話，接種covid-19疫苗能在多大程度上降低你不把病毒傳播給別人的機會？"
+    }
+  ]
 }
