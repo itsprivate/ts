@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "暗号通貨を所有しないこと...。"
+    },
+    {
+      "locale": "zh",
+      "title": "不要拥有任何加密货币..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不要擁有任何加密貨幣..."
+    }
+  ]
 }
