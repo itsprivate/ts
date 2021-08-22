@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "It’s all one island but you only hear about earthquakes on one part of it."
+  "the_new_excerpt": "It’s all one island but you only hear about earthquakes on one part of it.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "一つの島なのに、地震の話は一部分でしか聞かない。",
+      "title": "ハイチが地震で「壊滅」したとき、なぜドミニカ共和国も「壊滅」しないのか。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "都是一个岛，但你只听说过它的一个部分发生地震。",
+      "title": "当海地被地震 \"蹂躏 \"的时候，为什么多米尼加不也被 \"蹂躏 \"呢？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "都是一個島，但你只聽說過它的一個部分發生地震。",
+      "title": "當海地被地震 \"蹂躪 \"的時候，爲什麼多米尼加不也被 \"蹂躪 \"呢？"
+    }
+  ]
 }
