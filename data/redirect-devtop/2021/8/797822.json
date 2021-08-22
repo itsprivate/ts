@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-20T04:29:36Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qhxeehlC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eiyjhgi8pm6wymhaoy0q.png",
   "author": "Tapajyoti Bose",
-  "author_url": "https://dev.to/ruppysuppy"
+  "author_url": "https://dev.to/ruppysuppy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "数多くの言語、フレームワーク、ライブラリがある中で、初心者の方はよく「これでいいのだろうか？",
+      "title": "Zero to Hero: Front End Developer Roadmap"
+    },
+    {
+      "locale": "zh",
+      "description": "由于有这么多的语言、框架和库可供选择，初学者往往会发现自己...",
+      "title": "从零到英雄：前端开发者路线图"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "由於有這麼多的語言、框架和庫可供選擇，初學者往往會發現自己...",
+      "title": "從零到英雄：前端開發者路線圖"
+    }
+  ]
 }
