@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] 米国の国家負債の対GDP比"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]美国国债占GDP的百分比"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]美國國債佔GDP的百分比"
+    }
+  ]
 }
