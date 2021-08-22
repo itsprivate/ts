@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-21T18:15:33Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2qfdIQXv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/syn9xfmesq3dlt0fag31.png",
   "author": "Beginner Developer",
-  "author_url": "https://dev.to/beginnerdeveloper"
+  "author_url": "https://dev.to/beginnerdeveloper",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "HTML &lt;html lang=\"en\"&gt; &lt;head&gt; &lt;meta charset=\"UTF-8\" /&gt; ...",
+      "title": "HTMLとCSSで作る拡張カード（CSSアニメーション"
+    },
+    {
+      "locale": "zh",
+      "description": "HTML &lt;html lang=\"en\"&gt; &lt;head&gt; &lt;meta charset=\"UTF-8\" /&gt; ...",
+      "title": "HTML和CSS中的扩展卡(CSS动画)"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "HTML &lt;html lang=\"en\"&gt; &lt;head&gt; &lt;meta charset=\"UTF-8\" /&gt; ...",
+      "title": "HTML和CSS中的擴展卡(CSS動畫)"
+    }
+  ]
 }

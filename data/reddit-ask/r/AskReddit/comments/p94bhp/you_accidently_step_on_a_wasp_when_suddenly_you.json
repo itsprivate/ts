@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "誤ってスズメバチを踏んでしまった時、突然1000匹のスズメバチが自分に向かって飛んできた。あなたは何をしますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你不小心踩到了一只黄蜂，突然你看到1000只黄蜂向你飞来。你会怎么做？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你不小心踩到了一隻黃蜂，突然你看到1000只黃蜂向你飛來。你會怎麼做？"
+    }
+  ]
 }
