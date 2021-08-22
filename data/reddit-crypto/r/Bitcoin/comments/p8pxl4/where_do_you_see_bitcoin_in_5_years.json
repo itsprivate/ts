@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "I saw this question in the etherum"
+  "the_new_excerpt": "I saw this question in the etherum",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "エーテルムでこんな質問を見ました。",
+      "title": "5年後のビットコインはどうなっていると思いますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我在以太坊看到这个问题",
+      "title": "你认为5年后的比特币在哪里？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我在以太坊看到這個問題",
+      "title": "你認爲5年後的比特幣在哪裏？"
+    }
+  ]
 }
