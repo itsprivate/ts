@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このようにする必要はありません。"
+    },
+    {
+      "locale": "zh",
+      "title": "它不一定是这样的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "它不一定是這樣的。"
+    }
+  ]
 }
