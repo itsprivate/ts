@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "日本に住んでいた時にアパートで見つけたものです。FASTですね。"
+    },
+    {
+      "locale": "zh",
+      "title": "住在日本时在我的公寓里发现了这个。他们是快速的!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "住在日本時在我的公寓裏發現了這個。他們是快速的!"
+    }
+  ]
 }
