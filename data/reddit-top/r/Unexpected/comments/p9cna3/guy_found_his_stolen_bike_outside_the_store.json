@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "盗まれた自転車を店の外で見つけた男"
+    },
+    {
+      "locale": "zh",
+      "title": "小伙子在店外发现了自己被盗的自行车"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "小夥子在店外發現了自己被盜的自行車"
+    }
+  ]
 }
