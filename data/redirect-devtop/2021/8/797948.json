@@ -41,5 +41,22 @@
   "original_created_at": "2021-08-20T06:12:14Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zmHSTFaR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e0ndc0o998md0602npus.png",
   "author": "Ankur Kumar",
-  "author_url": "https://dev.to/ankur29mac"
+  "author_url": "https://dev.to/ankur29mac",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "正直なところ、誰もがより良いリアクション・デベロッパーになりたいと思っています。私たちは皆、ハッキングをした経験があります...",
+      "title": "次のウェブアプリを飛躍的に向上させる、3つの必須のreactフック。"
+    },
+    {
+      "locale": "zh",
+      "description": "说实话，我们都想成为更好的反应开发者。我们都曾有过这样的经历，在黑客攻击的时候，我们都有过这样的经历......",
+      "title": "三种基本的react钩子将为你的下一个web应用带来超强动力。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "說實話，我們都想成爲更好的反應開發者。我們都曾有過這樣的經歷，在黑客攻擊的時候，我們都有過這樣的經歷......",
+      "title": "三種基本的react鉤子將爲你的下一個web應用帶來超強動力。"
+    }
+  ]
 }
