@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインは10万ドル、イーサリアムは5,000ドルまで急上昇する可能性がある。"
+    },
+    {
+      "locale": "zh",
+      "title": "随着Cardano和Solana的突然飙升，比特币可能即将飙升至100,000美元，以太坊将达到5,000美元"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "隨着Cardano和Solana的突然飆升，比特幣可能即將飆升至100,000美元，以太坊將達到5,000美元"
+    }
+  ]
 }

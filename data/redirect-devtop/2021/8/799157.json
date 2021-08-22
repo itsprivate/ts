@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-21T15:14:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9pMLTjR1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tkrhseeop9g4b08z22xf.jpg",
   "author": "Lars Wächter",
-  "author_url": "https://dev.to/larswaechter"
+  "author_url": "https://dev.to/larswaechter",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Node.jsを使用して、MySQLデータベースにダミーデータをシードします。",
+      "title": "Node.jsでのデータベースシーディング"
+    },
+    {
+      "locale": "zh",
+      "description": "使用Node.js为你的MySQL数据库注入假数据。",
+      "title": "Node.js中的数据库播种"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用Node.js爲你的MySQL數據庫注入假數據。",
+      "title": "Node.js中的數據庫播種"
+    }
+  ]
 }
