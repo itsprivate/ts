@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私は初めて壁画を描く機会を与えられ、これがその結果です。"
+    },
+    {
+      "locale": "zh",
+      "title": "我得到了第一次绘制壁画的机会，这就是我的成果。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我得到了第一次繪製壁畫的機會，這就是我的成果。"
+    }
+  ]
 }
