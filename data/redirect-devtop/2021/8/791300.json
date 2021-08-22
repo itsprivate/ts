@@ -39,5 +39,22 @@
   "original_created_at": "2021-08-13T23:56:38Z",
   "image": "https://dev.to/social_previews/article/791300.png",
   "author": "Waylon Jepsen",
-  "author_url": "https://dev.to/0xjepsen"
+  "author_url": "https://dev.to/0xjepsen",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Web3ソフトウェアの開発を始めようとしている方にとって、新しい語彙は少々苦手かもしれません。",
+      "title": "Web3の共通用語"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你正在进入web3软件开发领域，所有的新词汇可能会有点...",
+      "title": "Web3中的常用术语"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你正在進入web3軟件開發領域，所有的新詞彙可能會有點...",
+      "title": "Web3中的常用術語"
+    }
+  ]
 }
