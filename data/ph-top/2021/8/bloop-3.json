@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-22T07:01:00Z"
+  "original_createdAt": "2021-08-22T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "bloopは、ライブラリのドキュメントやオープンソースのリポジトリから、関連するJSやTypeScriptのコード例を検索するin-IDEコード検索エンジンです。⠀ ライブラリ関数のパラメータ、出力、エラー処理を、Googleにアクセスすることなく確認できます。",
+      "tagline": "開発者のためのコード検索エンジン"
+    },
+    {
+      "locale": "zh",
+      "description": "bloop是一个in-IDE代码搜索引擎，可以从库文件和开源仓库中检索相关的JS和TypeScript代码示例。⠀查看库函数参数、输出和错误处理--不用去找谷歌。",
+      "tagline": "开发者的代码搜索引擎"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "bloop是一個in-IDE代碼搜索引擎，可以從庫文件和開源倉庫中檢索相關的JS和TypeScript代碼示例。⠀查看庫函數參數、輸出和錯誤處理--不用去找谷歌。",
+      "tagline": "開發者的代碼搜索引擎"
+    }
+  ]
 }
