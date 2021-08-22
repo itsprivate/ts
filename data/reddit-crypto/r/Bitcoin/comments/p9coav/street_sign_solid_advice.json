@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ストリートサインの堅実なアドバイス"
+    },
+    {
+      "locale": "zh",
+      "title": "街头标志坚固的建议"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "街頭標誌堅固的建議"
+    }
+  ]
 }
