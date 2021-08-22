@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-21T09:36:35Z"
+  "original_createdAt": "2021-08-21T09:36:35Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "検索結果にどのように表示されるかを可視化する",
+      "tagline": "検索結果にどのように表示されるかを可視化する"
+    },
+    {
+      "locale": "zh",
+      "description": "可视化你的网站将如何出现在搜索结果中",
+      "tagline": "可视化你的网站将如何出现在搜索结果中"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "可視化你的網站將如何出現在搜索結果中",
+      "tagline": "可視化你的網站將如何出現在搜索結果中"
+    }
+  ]
 }
