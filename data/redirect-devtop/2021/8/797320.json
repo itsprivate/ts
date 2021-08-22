@@ -50,5 +50,22 @@
   "original_created_at": "2021-08-19T15:03:25Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NcYPmMSX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://gen.postmage.com/generate/2442b225-4afe-41be-a292-41e0a429ff5c/5880ddef-7cc1-4e3b-a5ac-66861e1c77f9/image.png%3Furl%3Dhttps://creativedesignsguru.com/saas-tech-stack/",
   "author": "Remi W.",
-  "author_url": "https://dev.to/ixartz"
+  "author_url": "https://dev.to/ixartz",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Next JSとサーバーレスバックエンドでSaaSを構築する私のスタック。どんなプロジェクトでもスタートできる、フルスタックのreact SaaSボイラープレート・テンプレートです。",
+      "title": "Next JSとAWSで2021年に一人のチームでSaaSを作るための最新テックスタック"
+    },
+    {
+      "locale": "zh",
+      "description": "我使用Next JS和无服务器后端建立SaaS的堆栈。一个全栈式的反应式SaaS模板，可以启动任何项目。",
+      "title": "2021年用Next JS和AWS建立SaaS的现代技术栈，作为一个人的团队"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我使用Next JS和無服務器後端建立SaaS的堆棧。一個全棧式的反應式SaaS模板，可以啓動任何項目。",
+      "title": "2021年用Next JS和AWS建立SaaS的現代技術棧，作爲一個人的團隊"
+    }
+  ]
 }
