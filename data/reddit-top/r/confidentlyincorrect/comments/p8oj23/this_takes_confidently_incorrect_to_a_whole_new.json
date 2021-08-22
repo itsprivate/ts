@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "自信を持って間違ったことをするということが、まったく新しいレベルになる"
+    },
+    {
+      "locale": "zh",
+      "title": "这将自信的不正确带到了一个全新的水平"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這將自信的不正確帶到了一個全新的水平"
+    }
+  ]
 }
