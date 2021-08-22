@@ -43,5 +43,22 @@
   "original_created_at": "2021-08-22T02:01:04Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gLskOt9l--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qhilzu9xt46kr4qb2uxw.png",
   "author": "Elvis2280",
-  "author_url": "https://dev.to/elvis2280"
+  "author_url": "https://dev.to/elvis2280",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Framer Motionは、React上で素晴らしいアニメーションを簡単かつ迅速に作成するためのライブラリであり、...",
+      "title": "Framer Motionによるスクロール表示"
+    },
+    {
+      "locale": "zh",
+      "description": "Framer Motion是一个用于在React上以简单快速的方式创建出色的动画的库，它可以让你在React上创建出色的动画。",
+      "title": "用Framer Motion进行滚动显示"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Framer Motion是一個用於在React上以簡單快速的方式創建出色的動畫的庫，它可以讓你在React上創建出色的動畫。",
+      "title": "用Framer Motion進行滾動顯示"
+    }
+  ]
 }
