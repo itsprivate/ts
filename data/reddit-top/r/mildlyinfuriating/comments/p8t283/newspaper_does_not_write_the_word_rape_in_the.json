@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "新聞の見出しに「レイプ」の文字が書かれていない"
+    },
+    {
+      "locale": "zh",
+      "title": "报纸在标题中不写 \"强奸 \"一词"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "報紙在標題中不寫 \"強姦 \"一詞"
+    }
+  ]
 }
