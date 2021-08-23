@@ -65,5 +65,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ホモじゃないけど"
+    },
+    {
+      "locale": "zh",
+      "title": "虽然没有同性恋者"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "雖然沒有同性戀者"
+    }
+  ]
 }
