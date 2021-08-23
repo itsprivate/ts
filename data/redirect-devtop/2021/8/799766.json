@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-22T10:13:29Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ePvTqACa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tyw4x4ld4uti52g2pkjf.jpg",
   "author": "Apoorv Tyagi",
-  "author_url": "https://dev.to/apoorvtyagi"
+  "author_url": "https://dev.to/apoorvtyagi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コードは、わかりやすく、理解しやすく、修正しやすいように書かれていなければなりません...。",
+      "title": "Javascriptのクリーンコードのヒントとグッドプラクティス"
+    },
+    {
+      "locale": "zh",
+      "description": "代码的写法应该是不言自明的，易于理解的，易于修改的。",
+      "title": "洁身自好技巧和良好做法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "代碼的寫法應該是不言自明的，易於理解的，易於修改的。",
+      "title": "潔身自好技巧和良好做法"
+    }
+  ]
 }
