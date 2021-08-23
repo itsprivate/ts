@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-23T03:45:32Z",
   "image": "https://dev.to/social_previews/article/800292.png",
   "author": "Yisar",
-  "author_url": "https://dev.to/132"
+  "author_url": "https://dev.to/132",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "2021年はこれまでの年とは大きく異なります。多くのWebフレームワークが新バージョンをリリースしました....",
+      "title": "2021年版JavaScriptフレームワーク"
+    },
+    {
+      "locale": "zh",
+      "description": "2021年与前几年有很大不同。许多网络框架已经发布了他们的新版本....",
+      "title": "2021年JavaScript框架"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "2021年與前幾年有很大不同。許多網絡框架已經發布了他們的新版本....",
+      "title": "2021年JavaScript框架"
+    }
+  ]
 }
