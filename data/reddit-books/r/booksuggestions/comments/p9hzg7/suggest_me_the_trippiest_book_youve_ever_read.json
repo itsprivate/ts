@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "A book that is the literary equivalent of a psychedelic trip"
+  "the_new_excerpt": "A book that is the literary equivalent of a psychedelic trip",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "サイケデリック・トリップに相当する文学的な一冊",
+      "title": "今まで読んだ中で一番面白い本を教えてください。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "一本相当于迷幻之旅的文学作品",
+      "title": "向我推荐你读过的最古怪的书"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "一本相當於迷幻之旅的文學作品",
+      "title": "向我推薦你讀過的最古怪的書"
+    }
+  ]
 }
