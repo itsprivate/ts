@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-23T07:05:00Z"
+  "original_createdAt": "2021-08-23T07:05:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "23andMe/AncestryDNAなどの企業でDNA検査を受けた方は、GenomelinkにDNAデータを転送することで、以下のような何百ものアプリのロックを解除することができます。🧬 23andMeよりも深い祖先レポート 🧬 AncestryDNAで得られるものよりも200以上多い体と心の特徴。",
+      "tagline": "23andMe/Ancestryのデータをさらに活用できるDNAアプリストア"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你从23andMe/AncestryDNA等公司检测了DNA，你可以将你的DNA数据转移到Genomelink，并解锁数百个应用程序，如。🧬 比23andMe更深入的祖先报告 🧬 比AncestryDNA更多的200多个身体和心理特征。",
+      "tagline": "DNA应用商店从你的23andMe/Ancestry数据中解锁更多东西"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你從23andMe/AncestryDNA等公司檢測了DNA，你可以將你的DNA數據轉移到Genomelink，並解鎖數百個應用程序，如。🧬 比23andMe更深入的祖先報告 🧬 比AncestryDNA更多的200多個身體和心理特徵。",
+      "tagline": "DNA應用商店從你的23andMe/Ancestry數據中解鎖更多東西"
+    }
+  ]
 }
