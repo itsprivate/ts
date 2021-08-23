@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Fictional or nonfictional it doesn't matter.\n\nWhat about those books made you feel that way?"
+  "the_new_excerpt": "Fictional or nonfictional it doesn't matter.\n\nWhat about those books made you feel that way?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "フィクションでもノンフィクションでも関係ありません。\n\nそれらの本のどこがそう感じさせたのでしょうか？",
+      "title": "もっと前に読んでおけばよかったと思って動揺した本は？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "虚构的或非虚构的都无所谓。\n\n这些书中的哪些内容让你有这样的感觉？",
+      "title": "哪些书让你不高兴，因为你希望自己早早就读过它？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "虛構的或非虛構的都無所謂。\n\n這些書中的哪些內容讓你有這樣的感覺？",
+      "title": "哪些書讓你不高興，因爲你希望自己早早就讀過它？"
+    }
+  ]
 }
