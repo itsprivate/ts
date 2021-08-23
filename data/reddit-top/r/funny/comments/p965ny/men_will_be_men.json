@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "男は男らしく"
+    },
+    {
+      "locale": "zh",
+      "title": "男人会是男人"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "男人會是男人"
+    }
+  ]
 }
