@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-22T18:42:07Z",
   "image": "https://dev.to/social_previews/article/800050.png",
   "author": "Gil Rudolf Härdi",
-  "author_url": "https://dev.to/ghaerdi"
+  "author_url": "https://dev.to/ghaerdi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "自分のVueを作る, 自分のVueを作る",
+      "title": "独自のvueをコード化する"
+    },
+    {
+      "locale": "zh",
+      "description": "创建你自己的vue, 制作你自己的vue",
+      "title": "编写你自己的vue代码"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "創建你自己的vue, 製作你自己的vue",
+      "title": "編寫你自己的vue代碼"
+    }
+  ]
 }

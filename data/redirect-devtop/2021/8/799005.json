@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-21T10:42:32Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Whr1uBlD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wccw8spwppoxdvhpyk5t.png",
   "author": "Gaurav-Shekhawat",
-  "author_url": "https://dev.to/gauravshekhawat"
+  "author_url": "https://dev.to/gauravshekhawat",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "クロージャ クロージャとは、関数がその外側の変数を「記憶」していることで、たとえ...",
+      "title": "8日目：JSの基礎を学ぶ、その3"
+    },
+    {
+      "locale": "zh",
+      "description": "闭包 闭包是指一个函数 \"记住 \"了它外面的变量，即使你...",
+      "title": "第8天：学习JS基础知识，第3部分"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "閉包 閉包是指一個函數 \"記住 \"了它外面的變量，即使你...",
+      "title": "第8天：學習JS基礎知識，第3部分"
+    }
+  ]
 }

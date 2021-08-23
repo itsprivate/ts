@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-22T07:40:35Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--76M_VNXC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kaeyh27gmbvp5bgf05ng.png",
   "author": "Suhail Kakar",
-  "author_url": "https://dev.to/suhailkakar"
+  "author_url": "https://dev.to/suhailkakar",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに console.log()はデバッグツールで、使用しているアプリケーションの内容を把握するのに役立ちます。",
+      "title": "1分以内にプロジェクトからすべてのconsole.log()を削除する"
+    },
+    {
+      "locale": "zh",
+      "description": "简介 console.log() 是一个调试工具，可以帮助你找出你的...",
+      "title": "在不到一分钟的时间里，从你的项目中删除所有的console.log()。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介 console.log() 是一個調試工具，可以幫助你找出你的...",
+      "title": "在不到一分鐘的時間裏，從你的項目中刪除所有的console.log()。"
+    }
+  ]
 }
