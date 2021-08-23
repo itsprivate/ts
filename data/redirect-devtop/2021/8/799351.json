@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-21T20:29:28Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Lx1CD1r3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/59mat9et5zqeyw0wyd7q.jpg",
   "author": "Veed - The Hood Developer",
-  "author_url": "https://dev.to/veedjohnson"
+  "author_url": "https://dev.to/veedjohnson",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今回は、ボタンをクリックするとポップアップするモーダルの作成方法をご紹介します。その...",
+      "title": "HTML、CSS、JavaScriptでモーダル（ポップアップ）を作る"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我将向你展示如何创建一个只要你点击一个按钮就会弹出的模态。这个模态是一个很好的例子。",
+      "title": "用HTML、CSS和JavaScript建立一个模式（弹出式）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我將向你展示如何創建一個只要你點擊一個按鈕就會彈出的模態。這個模態是一個很好的例子。",
+      "title": "用HTML、CSS和JavaScript建立一個模式（彈出式）。"
+    }
+  ]
 }
