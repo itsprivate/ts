@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私はアルゼンチン人で、自分の国でビットコインに何が起こっているかについてエッセイを書きました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我是阿根廷人，我写了一篇关于比特币在我的国家所发生的事情的文章。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我是阿根廷人，我寫了一篇關於比特幣在我的國家所發生的事情的文章。"
+    }
+  ]
 }
