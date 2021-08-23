@@ -43,5 +43,22 @@
   "original_created_at": "2021-07-08T18:13:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cAJASblm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xs22y42si70k88v3pb5h.png",
   "author": "Alejandra Melendez",
-  "author_url": "https://dev.to/alecodesdancer"
+  "author_url": "https://dev.to/alecodesdancer",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JavaScriptを一言で定義するならば「汎用性」です。作ることができます...",
+      "title": "JavaScriptの関数の世界 "
+    },
+    {
+      "locale": "zh",
+      "description": "如果我可以用一个词来定义 \"JavaScript\"，那就是 \"多功能\"。我们可以创造...",
+      "title": "JavaScript中的函数世界 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果我可以用一個詞來定義 \"JavaScript\"，那就是 \"多功能\"。我們可以創造...",
+      "title": "JavaScript中的函數世界 "
+    }
+  ]
 }
