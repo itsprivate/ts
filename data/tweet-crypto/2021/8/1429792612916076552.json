@@ -134,5 +134,22 @@
     "retweet_count": 151,
     "favorite_count": 1047,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @hamal03: 紺色に戻る。https://t.co/RrKcioMrW6",
+      "retweeted_status_full_text": "ダークブルーに戻る。https://t.co/RrKcioMrW6"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @hamal03: 回到深蓝色。 https://t.co/RrKcioMrW6",
+      "retweeted_status_full_text": "回到深蓝色。https://t.co/RrKcioMrW6"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @hamal03: 回到深藍色。 https://t.co/RrKcioMrW6",
+      "retweeted_status_full_text": "回到深藍色。https://t.co/RrKcioMrW6"
+    }
+  ]
 }
