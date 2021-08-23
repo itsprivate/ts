@@ -42,5 +42,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "電源を切って、もう一度入れてみましたか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你有没有试着把它关掉再打开？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你有沒有試着把它關掉再打開？"
+    }
+  ]
 }
