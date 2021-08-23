@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-22T15:50:39Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OoV4BYAd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kxjkl4wi1d0hioh7fooa.png",
   "author": "Maria Antonella 🦋",
-  "author_url": "https://dev.to/antoomartini"
+  "author_url": "https://dev.to/antoomartini",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最初は違いを理解するのが大変でした。私にとっては同じものだったからです。....",
+      "title": "JavascriptとNodeJsの違い"
+    },
+    {
+      "locale": "zh",
+      "description": "起初，我很难理解其中的差别，因为对我来说，它们是同样的东西....。",
+      "title": "Javascript和NodeJs之间的区别"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "起初，我很難理解其中的差別，因爲對我來說，它們是同樣的東西....。",
+      "title": "Javascript和NodeJs之間的區別"
+    }
+  ]
 }
