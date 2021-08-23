@@ -119,5 +119,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼女はミルクを持っている"
+    },
+    {
+      "locale": "zh",
+      "title": "她有一些牛奶"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "她有一些牛奶"
+    }
+  ]
 }
