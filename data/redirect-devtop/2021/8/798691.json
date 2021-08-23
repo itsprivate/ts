@@ -52,5 +52,22 @@
   "original_created_at": "2021-08-20T22:28:32Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Fw2aW1tB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lwmudi77bscwhxx03www.png",
   "author": "Erin Schaffer",
-  "author_url": "https://dev.to/erineducative"
+  "author_url": "https://dev.to/erineducative",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "IPアドレスは、コンピュータネットワークに不可欠なものです。IPアドレスは、コンピュータ・ネットワークの送受信において重要な役割を果たします。",
+      "title": "5分でわかるコンピュータ・ネットワーク 静的IPと動的IPの比較"
+    },
+    {
+      "locale": "zh",
+      "description": "IP地址是计算机网络的一个重要组成部分。它们在发送和接收信息方面发挥着重要作用。",
+      "title": "5分钟内的计算机网络。静态IP与动态IP"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "IP地址是計算機網絡的一個重要組成部分。它們在發送和接收信息方面發揮着重要作用。",
+      "title": "5分鐘內的計算機網絡。靜態IP與動態IP"
+    }
+  ]
 }
