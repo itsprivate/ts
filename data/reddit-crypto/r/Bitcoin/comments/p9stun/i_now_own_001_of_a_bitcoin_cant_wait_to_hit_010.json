@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Will continue DCA’ing until then just needed to share"
+  "the_new_excerpt": "Will continue DCA’ing until then just needed to share",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "それまではDCAを続けます。",
+      "title": "私は今、ビットコインの0.01を所有しており、0.10を達成するのが待ち遠しいです。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "在那之前将继续进行DCA，只是需要分享一下。",
+      "title": "我现在拥有0.01个比特币，迫不及待地想要达到0.10个比特币 !"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "在那之前將繼續進行DCA，只是需要分享一下。",
+      "title": "我現在擁有0.01個比特幣，迫不及待地想要達到0.10個比特幣 !"
+    }
+  ]
 }
