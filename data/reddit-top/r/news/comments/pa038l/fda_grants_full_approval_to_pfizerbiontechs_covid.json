@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "FDAはファイザー・バイオンテック社のCovid注射を完全に承認し、さらなるワクチン義務化への道を開く"
+    },
+    {
+      "locale": "zh",
+      "title": "美国食品和药物管理局完全批准了辉瑞-生物技术公司的Covid疫苗，为更多的疫苗规定扫清了道路。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "美國食品和藥物管理局完全批准了輝瑞-生物技術公司的Covid疫苗，爲更多的疫苗規定掃清了道路。"
+    }
+  ]
 }
