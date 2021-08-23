@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-23T07:00:36Z"
+  "original_createdAt": "2021-08-23T07:00:36Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Tailwind CSS Pop-Ups/modalsは、Tailwind CSSを使ったウェブサイトのためのものです。18個のコード化されたTailwind CSSのダイアログ、サインアップ、ソーシャルポップアップは、HTMLとTalwind CSSで利用可能です。",
+      "tagline": "Tailwind CSS ポップアップでお客様の注意を引く"
+    },
+    {
+      "locale": "zh",
+      "description": "用于您的Tailwind CSS网站的Tailwind CSS弹出窗口/模式。18个编码的Tailwind CSS对话框、注册和社交弹出窗口，可使用HTML和Talwind CSS。",
+      "tagline": "Tailwind的CSS弹出窗口，以抓住你的客户的注意力。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "用於您的Tailwind CSS網站的Tailwind CSS彈出窗口/模式。18個編碼的Tailwind CSS對話框、註冊和社交彈出窗口，可使用HTML和Talwind CSS。",
+      "tagline": "Tailwind的CSS彈出窗口，以抓住你的客戶的注意力。"
+    }
+  ]
 }
