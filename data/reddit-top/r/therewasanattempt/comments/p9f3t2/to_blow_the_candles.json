@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "キャンドルを吹き消すために"
+    },
+    {
+      "locale": "zh",
+      "title": "吹蜡烛"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "吹蠟燭"
+    }
+  ]
 }
