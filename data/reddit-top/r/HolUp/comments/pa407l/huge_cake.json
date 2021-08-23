@@ -65,5 +65,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "巨大なケーキ"
+    },
+    {
+      "locale": "zh",
+      "title": "巨大的蛋糕"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "巨大的蛋糕"
+    }
+  ]
 }

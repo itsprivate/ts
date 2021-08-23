@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "I'm looking to read one book from authors born in each of 195 countries. Please\nrecommend."
+  "the_new_excerpt": "I'm looking to read one book from authors born in each of 195 countries. Please\nrecommend.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "195カ国それぞれで生まれた作家の本を1冊ずつ読みたいと思っています。お願い\nをお勧めします。",
+      "title": "195カ国、195人の作家、195冊の小説。地球上のそれぞれの国で生まれた作家の小説を推薦してください。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我希望阅读195个国家中每个国家出生的作者的一本书。请\n推荐。",
+      "title": "195个国家，195位作者，195部小说。请向我推荐在地球上每个国家出生的作者的小说？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我希望閱讀195個國家中每個國家出生的作者的一本書。請\n推薦。",
+      "title": "195個國家，195位作者，195部小說。請向我推薦在地球上每個國家出生的作者的小說？"
+    }
+  ]
 }
