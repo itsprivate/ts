@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-22T00:00:16Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IrohTuce--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ewttmyu13k496jxzposs.jpg",
   "author": "Aya Bouchiha",
-  "author_url": "https://dev.to/ayabouchiha"
+  "author_url": "https://dev.to/ayabouchiha",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、Aya Bouchihaです。今日は、javascriptでのリクエスト送信についてご紹介します。",
+      "title": "JSでfetchを使ってリクエストを送信するための完全なガイドです。"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，我是Aya Bouchiha，在这个美好的日子里，我将讨论在javascript中发送请求...",
+      "title": "这是您在JS中使用fetch发送请求的完整指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，我是Aya Bouchiha，在這個美好的日子裏，我將討論在javascript中發送請求...",
+      "title": "這是您在JS中使用fetch發送請求的完整指南"
+    }
+  ]
 }
