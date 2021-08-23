@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "When you sign up for a subscription service on an Android device, often times\nyou get the option to pay with Google play.\n\nWhy YSK: When you want to cancel cancel subscription, you can cancel it through\nGoogle play and it won't end the subscription until the day you have to pay\nagain. It allows you…"
+  "the_new_excerpt": "When you sign up for a subscription service on an Android device, often times\nyou get the option to pay with Google play.\n\nWhy YSK: When you want to cancel cancel subscription, you can cancel it through\nGoogle play and it won't end the subscription until the day you have to pay\nagain. It allows you…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "Android端末でサブスクリプションサービスに登録すると、多くの場合\nGoogle playでの支払いを選択することができます。\n\nなぜYSKなのかというと、定期購入を解約したいときに、Google playで解約できるからです。\n解約したいときには、Google playで解約することができますし、解約しても再度支払いが必要な日までは\nまた これにより、あなたは...",
+      "title": "YSK: Androidで定期購読を申し込んだ場合、Google playで支払う"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "当你在安卓设备上注册一个订阅服务时，很多时候\n你可以选择用Google Play支付。\n\n为什么是YSK：当你想取消订阅时，你可以通过Google play取消它，而且不会终止。\n你可以通过Google Play取消订阅，直到你必须再次付款的那一天，它才会结束订阅。\n再次。它允许你...",
+      "title": "YSK：如果你在安卓系统上注册订阅，请用Google play支付。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "當你在安卓設備上註冊一個訂閱服務時，很多時候\n你可以選擇用Google Play支付。\n\n爲什麼是YSK：當你想取消訂閱時，你可以通過Google play取消它，而且不會終止。\n你可以通過Google Play取消訂閱，直到你必須再次付款的那一天，它纔會結束訂閱。\n再次。它允許你...",
+      "title": "YSK：如果你在安卓系統上註冊訂閱，請用Google play支付。"
+    }
+  ]
 }
