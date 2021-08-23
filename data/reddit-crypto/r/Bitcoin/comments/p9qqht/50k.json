@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "We just reached 50k$ !\n\nMay the FOMO begin !"
+  "the_new_excerpt": "We just reached 50k$ !\n\nMay the FOMO begin !",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "50k$を達成しました。\n\nFOMOの始まりです。",
+      "title": "50k $"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我们刚刚达到5万美金!\n\n让我们开始享受 \"恐惧 \"吧!",
+      "title": "50k $"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我們剛剛達到5萬美金!\n\n讓我們開始享受 \"恐懼 \"吧!",
+      "title": "50k $"
+    }
+  ]
 }
