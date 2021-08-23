@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-22T07:00:00Z"
+  "original_createdAt": "2021-08-22T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Netumoは、ウェブホストやRESTful APIの合成監視を行うアップタイム監視サービスです。Netumo が問題を検出すると、SMS、Twitter、電子メール、Telegram、MS Teams、Slack を使ってエンドユーザに通知します。",
+      "tagline": "アップタイムの監視は、簡単でシンプルです。"
+    },
+    {
+      "locale": "zh",
+      "description": "Netumo是一个正常运行时间监测服务，对网络主机和RESTful API进行合成监测。当Netumo检测到问题时，它会使用短信、Twitter、电子邮件、Telegram、MS Teams和/或Slack通知终端用户。",
+      "tagline": "正常运行时间的监测很容易，也很简单。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Netumo是一個正常運行時間監測服務，對網絡主機和RESTful API進行合成監測。當Netumo檢測到問題時，它會使用短信、Twitter、電子郵件、Telegram、MS Teams和/或Slack通知終端用戶。",
+      "tagline": "正常運行時間的監測很容易，也很簡單。"
+    }
+  ]
 }
