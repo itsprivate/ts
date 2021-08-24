@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-24T07:02:00Z"
+  "original_createdAt": "2021-08-24T07:02:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "他の自動化ツールに比べて手順や複雑さが少なく、よりシンプルでエレガントな自動化を構築できます。",
+      "tagline": "Notionの自動化は高価で複雑なものではありません。"
+    },
+    {
+      "locale": "zh",
+      "description": "构建更简单、更优雅的自动化；比其他自动化工具更少的步骤和复杂性。",
+      "tagline": "自动化Notion不应该是昂贵和复杂的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "構建更簡單、更優雅的自動化；比其他自動化工具更少的步驟和複雜性。",
+      "tagline": "自動化Notion不應該是昂貴和複雜的。"
+    }
+  ]
 }
