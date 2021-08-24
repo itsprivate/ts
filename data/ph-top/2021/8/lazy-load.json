@@ -48,5 +48,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-23T18:59:37Z"
+  "original_createdAt": "2021-08-23T18:59:37Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Lazy loadは、ワンクリックでスケルトンのローディング画面を生成できます。これにより、Figmaで開発者のハンドオフのためのローディング・スクリーンをデザインする時間を十分に短縮することができます。",
+      "tagline": "Figmaのスクリーンをローディング・スケルトンに変換"
+    },
+    {
+      "locale": "zh",
+      "description": "Lazy load 可让您一键生成骨架式的加载屏幕。现在，您可以在Figma中为开发人员交接设计加载屏幕时节省足够的时间。",
+      "tagline": "将Figma屏幕转换为装载骨架"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Lazy load 可讓您一鍵生成骨架式的加載屏幕。現在，您可以在Figma中爲開發人員交接設計加載屏幕時節省足夠的時間。",
+      "tagline": "將Figma屏幕轉換爲裝載骨架"
+    }
+  ]
 }

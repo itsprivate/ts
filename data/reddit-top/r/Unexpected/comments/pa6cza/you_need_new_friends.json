@@ -50,5 +50,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "新しい友達が欲しい"
+    },
+    {
+      "locale": "zh",
+      "title": "你需要新的朋友"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你需要新的朋友"
+    }
+  ]
 }

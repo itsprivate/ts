@@ -43,5 +43,22 @@
   "original_created_at": "2021-08-22T07:11:16Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KHSIoKWb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vs45a8yyugdbczgayw29.gif",
   "author": "Avneesh Agarwal",
-  "author_url": "https://dev.to/avneesh0612"
+  "author_url": "https://dev.to/avneesh0612",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Next.jsのページはレイジーロードなので、何らかのAPIを取得したり、データベースからデータを取得したりすると、...",
+      "title": "Next.jsでルータのプログレスバーを1行のコードで追加する方法🤯。"
+    },
+    {
+      "locale": "zh",
+      "description": "Next.js中的页面是懒于加载的，所以如果你获取一些API或从数据库中获取数据，它可以...",
+      "title": "如何用一行代码在Next.js中添加路由器进度条 🤯"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Next.js中的頁面是懶於加載的，所以如果你獲取一些API或從數據庫中獲取數據，它可以...",
+      "title": "如何用一行代碼在Next.js中添加路由器進度條 🤯"
+    }
+  ]
 }
