@@ -52,5 +52,22 @@
   "original_created_at": "2021-08-23T01:41:26Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--59poFTKe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4gujsdi28l1qvcqmqgjz.png",
   "author": "Davide 'CoderDave' Benvegnù",
-  "author_url": "https://dev.to/n3wt0n"
+  "author_url": "https://dev.to/n3wt0n",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "VSCodeをベースにした軽量のコードエディタで、ブラウザからアクセスでき、完全に...",
+      "title": "GitHubウェブ・エディター ブラウザでVSCodeを無料公開"
+    },
+    {
+      "locale": "zh",
+      "description": "一个轻量级的代码编辑器，基于VSCode，可以通过浏览器访问，而且它是完全免费的。",
+      "title": "GitHub网络编辑器。浏览器中的免费VSCode"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個輕量級的代碼編輯器，基於VSCode，可以通過瀏覽器訪問，而且它是完全免費的。",
+      "title": "GitHub網絡編輯器。瀏覽器中的免費VSCode"
+    }
+  ]
 }

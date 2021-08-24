@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "エルサルバドルは暗号導入に対応するために200台のATMを設置すると大統領が発表"
+    },
+    {
+      "locale": "zh",
+      "title": "总统说，萨尔瓦多正在安装200台自动取款机以处理加密货币的采用问题"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "總統說，薩爾瓦多正在安裝200臺自動取款機以處理加密貨幣的採用問題"
+    }
+  ]
 }
