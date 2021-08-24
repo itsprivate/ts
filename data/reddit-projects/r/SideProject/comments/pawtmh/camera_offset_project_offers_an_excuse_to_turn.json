@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "カメラ・オフセット・プロジェクトは、映像をオフにして環境を守るきっかけを提供します。"
+    },
+    {
+      "locale": "zh",
+      "title": "摄像机抵消项目提供了一个借口，可以关闭你的视频信号，拯救环境!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "攝像機抵消項目提供了一個藉口，可以關閉你的視頻信號，拯救環境!"
+    }
+  ]
 }
