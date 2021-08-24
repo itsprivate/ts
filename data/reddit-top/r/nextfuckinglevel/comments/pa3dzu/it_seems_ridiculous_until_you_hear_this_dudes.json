@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この男の声を聞くまでは、馬鹿げているとしか思えない。"
+    },
+    {
+      "locale": "zh",
+      "title": "这似乎很荒谬，直到你听到这哥们的声音。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這似乎很荒謬，直到你聽到這哥們的聲音。"
+    }
+  ]
 }
