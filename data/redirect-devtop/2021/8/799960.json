@@ -43,5 +43,22 @@
   "original_created_at": "2021-08-22T14:51:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--l21kczsX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kfimqi2viwavv8smia2w.png",
   "author": "Satish Yadav",
-  "author_url": "https://dev.to/satish"
+  "author_url": "https://dev.to/satish",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "The What?   私たちは、ASP.NET 5（または.NET...）のシステムに接続されたときに、そのようなミドルウェアを設計したいと考えています。",
+      "title": "ディフェンスを徹底解説。HTTPコンテンツ長制限ミドルウェアの設計 - ASP.NET 5 (または .NET Core)"
+    },
+    {
+      "locale": "zh",
+      "description": "什么？  我们想设计一个中间件，当它被插入到ASP.NET 5（或.NET.NET）中的时候，它就会成为我们的目标。",
+      "title": "深入防御。设计一个HTTP内容长度限制中间件--ASP.NET 5（或.NET Core）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼？  我們想設計一箇中間件，當它被插入到ASP.NET 5（或.NET.NET）中的時候，它就會成爲我們的目標。",
+      "title": "深入防禦。設計一個HTTP內容長度限制中間件--ASP.NET 5（或.NET Core）。"
+    }
+  ]
 }
