@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "未来は今だ!"
+    },
+    {
+      "locale": "zh",
+      "title": "未来就是现在!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "未來就是現在!"
+    }
+  ]
 }
