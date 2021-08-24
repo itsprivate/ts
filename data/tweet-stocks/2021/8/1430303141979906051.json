@@ -52,5 +52,22 @@
     },
     "retweet_count": 3870,
     "favorite_count": 8445
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @RichardEngel: 米国大使館は、米国市民にアフガニスタンからの退去を求める最後の警告を発したが、30分後にそれを撤回した。",
+      "retweeted_status_full_text": "米国大使館は、米国市民にアフガニスタンからの退去を求める最後の警告を発し、30分後にそれを撤回しました。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @RichardEngel: 美国大使馆发出最后一次警告，要求美国公民离开阿富汗，否则他们将自食其果，30分钟后又重新发出警告。",
+      "retweeted_status_full_text": "美国大使馆发布最后一次警报，要求美国公民离开阿富汗，否则他们将自食其果，30分钟后又重新发布。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @RichardEngel: 美國大使館發出最後一次警告，要求美國公民離開阿富汗，否則他們將自食其果，30分鐘後又重新發出警告。",
+      "retweeted_status_full_text": "美國大使館發佈最後一次警報，要求美國公民離開阿富汗，否則他們將自食其果，30分鐘後又重新發布。"
+    }
+  ]
 }
