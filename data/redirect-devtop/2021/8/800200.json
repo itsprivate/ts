@@ -43,5 +43,22 @@
   "original_created_at": "2021-08-22T23:29:14Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--c_dj_Ze6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q7ldbzjuibv367m70ybr.jpg",
   "author": "Kars van Iersel",
-  "author_url": "https://dev.to/karsvaniersel"
+  "author_url": "https://dev.to/karsvaniersel",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに プログラマーにとって、コードを書く能力ほど重要なスキルはありません...",
+      "title": "すべての開発者がTDDを使うべき理由"
+    },
+    {
+      "locale": "zh",
+      "description": "简介：对于程序员来说，没有什么技能比编写代码的能力更重要。",
+      "title": "为什么每个开发人员都应该使用TDD"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介：對於程序員來說，沒有什麼技能比編寫代碼的能力更重要。",
+      "title": "爲什麼每個開發人員都應該使用TDD"
+    }
+  ]
 }
