@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "FREE: TelegramからNotionにコンテンツを送信する - @NotKiteBot"
+    },
+    {
+      "locale": "zh",
+      "title": "免费。从Telegram发送内容到Notion - @NotKiteBot"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "免費。從Telegram發送內容到Notion - @NotKiteBot"
+    }
+  ]
 }
