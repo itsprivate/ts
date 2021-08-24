@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "アメリカとEUの人口規模を、インドと中国と比較してみました。ボックスは各州の人口サイズにスケールされている[OC] 。"
+    },
+    {
+      "locale": "zh",
+      "title": "美国和欧盟的人口规模与印度和中国相比。方框按各州的人口规模缩放[OC]"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "美國和歐盟的人口規模與印度和中國相比。方框按各州的人口規模縮放[OC]"
+    }
+  ]
 }
