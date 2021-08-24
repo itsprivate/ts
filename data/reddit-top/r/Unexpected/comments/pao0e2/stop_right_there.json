@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "そこで止まってください"
+    },
+    {
+      "locale": "zh",
+      "title": "就在那里停下！"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "就在那裏停下！"
+    }
+  ]
 }
