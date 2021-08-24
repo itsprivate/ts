@@ -43,5 +43,22 @@
   "original_created_at": "2021-08-20T08:04:28Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hae0usDJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5v01dcypq4px8ilwnbal.jpg",
   "author": "Domagoj Vidovic",
-  "author_url": "https://dev.to/domagojvidovic"
+  "author_url": "https://dev.to/domagojvidovic",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あなたがCSSの旅を始めたばかりであろうとなかろうと、認めざるを得ないことがあります。",
+      "title": "Webサイト構築に必要なCSSプロパティのすべて"
+    },
+    {
+      "locale": "zh",
+      "description": "无论你是处于CSS之旅的开始阶段，还是在其他地方，你都得承认--许多人都是如此。",
+      "title": "建立网站需要了解的所有CSS属性"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "無論你是處於CSS之旅的開始階段，還是在其他地方，你都得承認--許多人都是如此。",
+      "title": "建立網站需要了解的所有CSS屬性"
+    }
+  ]
 }
