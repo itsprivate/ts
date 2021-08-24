@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "コビッド・ワクチンを接種すべきですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "我应该接种Covid疫苗吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我應該接種Covid疫苗嗎？"
+    }
+  ]
 }
