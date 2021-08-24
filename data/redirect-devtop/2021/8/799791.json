@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-22T11:43:19Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CQgtDEj6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rr7ykem2uf1579gsuejq.jpg",
   "author": "Simon Barker",
-  "author_url": "https://dev.to/allthecode"
+  "author_url": "https://dev.to/allthecode",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "テクノロジーは驚くほど速いペースで進んでおり、開発者にとっては、自分たちがなんとかやっているように感じられるかもしれません...。",
+      "title": "このたった一つの技術を身につければ、一生モノの仕事ができるようになる。"
+    },
+    {
+      "locale": "zh",
+      "description": "技术的发展速度快得吓人，对于开发者来说，可能会觉得我们已经设法...",
+      "title": "掌握这种单一的技术使你能够终身就业"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "技術的發展速度快得嚇人，對於開發者來說，可能會覺得我們已經設法...",
+      "title": "掌握這種單一的技術使你能夠終身就業"
+    }
+  ]
 }

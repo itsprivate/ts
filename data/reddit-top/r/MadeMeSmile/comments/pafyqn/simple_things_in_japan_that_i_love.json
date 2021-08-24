@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "日本のシンプルなものが好きです。"
+    },
+    {
+      "locale": "zh",
+      "title": "日本的简单事物，我很喜欢。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "日本的簡單事物，我很喜歡。"
+    }
+  ]
 }
