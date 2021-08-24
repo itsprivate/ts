@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Antminer S17に搭載されている144個のハッシュ化チップのうちの1個です。このシングルチップの性能に匹敵するには、RTX3090のようなトップラインのGPUが数十個必要になります。"
+    },
+    {
+      "locale": "zh",
+      "title": "这是Antminer S17中包含的144个散列芯片中的一个。你需要几十个像RTX3090这样的顶级GPU来匹配这个单一芯片的性能。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是Antminer S17中包含的144個散列芯片中的一個。你需要幾十個像RTX3090這樣的頂級GPU來匹配這個單一芯片的性能。"
+    }
+  ]
 }
