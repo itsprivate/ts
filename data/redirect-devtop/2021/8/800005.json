@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-22T17:16:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pV4gyZoj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qjdn18fshis5bxn3kn7x.png",
   "author": "DevCronin",
-  "author_url": "https://dev.to/devcronin"
+  "author_url": "https://dev.to/devcronin",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このブログシリーズのチュートリアルでは、基本的なJavaScriptのプログラミングをいくつか紹介していきます。",
+      "title": "LEVEL UP! JavaScriptのスキルを高める、LVL3"
+    },
+    {
+      "locale": "zh",
+      "description": "在这个博客系列教程中，我将涵盖一些基本的JavaScript编程。",
+      "title": "级别提升! 提高你的JavaScript技能，LVL 3"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這個博客系列教程中，我將涵蓋一些基本的JavaScript編程。",
+      "title": "級別提升! 提高你的JavaScript技能，LVL 3"
+    }
+  ]
 }
