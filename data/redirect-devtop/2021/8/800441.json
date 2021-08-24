@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-23T06:42:35Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Re8GNMBk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l6ywprvuh9ui8nprcte4.png",
   "author": "Avneesh Agarwal",
-  "author_url": "https://dev.to/avneesh0612"
+  "author_url": "https://dev.to/avneesh0612",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "アプリの設定 Next.jsアプリの作成 npx create-next-app next-tailwind-ts-demo ...",
+      "title": "Next.jsアプリにTypescript、TailwindCSS、ESlintを追加します。"
+    },
+    {
+      "locale": "zh",
+      "description": "设置应用程序 创建一个Next.js应用程序 npx create-next-app next-tailwind-ts-demo ...",
+      "title": "在你的Next.js应用中添加Typescript、TailwindCSS和ESlint"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "設置應用程序 創建一個Next.js應用程序 npx create-next-app next-tailwind-ts-demo ...",
+      "title": "在你的Next.js應用中添加Typescript、TailwindCSS和ESlint"
+    }
+  ]
 }
