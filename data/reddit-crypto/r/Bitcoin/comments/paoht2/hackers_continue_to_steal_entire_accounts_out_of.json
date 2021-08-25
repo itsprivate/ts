@@ -42,5 +42,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "https://www.cnbc.com/2021/08/24/coinbase-slammed-for-terrible-customer-service-after-hackers-drain-user-accounts.html"
+  "the_new_excerpt": "https://www.cnbc.com/2021/08/24/coinbase-slammed-for-terrible-customer-service-after-hackers-drain-user-accounts.html",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "https://www.cnbc.com/2021/08/24/coinbase-slammed-for-terrible-customer-service-after-hackers-drain-user-accounts.html",
+      "title": "ハッカーはCoinbaseからアカウント全体を盗み続けています。多くの人がすべての暗号を盗まれましたが、法執行機関やCoinbaseからは、それを止める方法についての回答はありません。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "https://www.cnbc.com/2021/08/24/coinbase-slammed-for-terrible-customer-service-after-hackers-drain-user-accounts.html",
+      "title": "黑客们继续从Coinbase窃取整个账户。许多人的所有加密货币被盗，但执法部门或Coinbase没有回答如何阻止这种情况。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "https://www.cnbc.com/2021/08/24/coinbase-slammed-for-terrible-customer-service-after-hackers-drain-user-accounts.html",
+      "title": "黑客們繼續從Coinbase竊取整個賬戶。許多人的所有加密貨幣被盜，但執法部門或Coinbase沒有回答如何阻止這種情況。"
+    }
+  ]
 }
