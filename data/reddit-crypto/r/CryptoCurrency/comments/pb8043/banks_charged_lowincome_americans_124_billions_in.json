@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "銀行は、2020年に低所得者層に124億ドルの当座貸越手数料を請求しており、顧客一人当たりの平均額は24.38ドルでした。"
+    },
+    {
+      "locale": "zh",
+      "title": "2020年，银行向低收入美国人收取124亿美元的透支费，平均每个客户24.38美元。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "2020年，銀行向低收入美國人收取124億美元的透支費，平均每個客戶24.38美元。"
+    }
+  ]
 }
