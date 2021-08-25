@@ -43,5 +43,22 @@
   "original_created_at": "2021-08-20T18:12:17Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pAtgTncG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hbv99ammwti7euofkdxn.png",
   "author": "Miško Hevery",
-  "author_url": "https://dev.to/mhevery"
+  "author_url": "https://dev.to/mhevery",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Google PageSpeed Insightsは、ウェブサイトの知覚的遅延を測定するために使用できるツールです。....",
+      "title": "Google PageSpeed Insights on Mobileで100点を取る方法"
+    },
+    {
+      "locale": "zh",
+      "description": "谷歌PageSpeed Insights是一个工具，你可以用来测量你的网站的感知延迟....。",
+      "title": "如何在谷歌移动端PageSpeed Insights上获得100分"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "谷歌PageSpeed Insights是一個工具，你可以用來測量你的網站的感知延遲....。",
+      "title": "如何在谷歌移動端PageSpeed Insights上獲得100分"
+    }
+  ]
 }

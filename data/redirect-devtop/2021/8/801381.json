@@ -41,5 +41,22 @@
   "original_created_at": "2021-08-24T00:36:42Z",
   "image": "https://dev.to/social_previews/article/801381.png",
   "author": "Michael Burrows",
-  "author_url": "https://dev.to/michaelburrows"
+  "author_url": "https://dev.to/michaelburrows",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このチュートリアルでは、ウィンドウ・インターフェースのプロパティである localStorage を使って、...",
+      "title": "JavaScriptでlocalStorageにデータを保存する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "在本教程中，你将学习如何使用localStorage，它是窗口界面的一个属性，允许你使用它。",
+      "title": "如何使用JavaScript在localStorage中保存数据"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在本教程中，你將學習如何使用localStorage，它是窗口界面的一個屬性，允許你使用它。",
+      "title": "如何使用JavaScript在localStorage中保存數據"
+    }
+  ]
 }
