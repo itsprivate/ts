@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "文字通り、人間のあらゆる感情をその数秒間で体験した。"
+    },
+    {
+      "locale": "zh",
+      "title": "在这几秒钟里，我真正体验到了人类的全部情感。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在這幾秒鐘裏，我真正體驗到了人類的全部情感。"
+    }
+  ]
 }
