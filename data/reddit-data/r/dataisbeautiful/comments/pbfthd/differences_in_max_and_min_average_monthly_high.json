@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "最大と最小の月平均最高気温の違い。紺色＝月別平均最高気温が年間であまり変わらない。[OC]."
+    },
+    {
+      "locale": "zh",
+      "title": "最大和最小月平均高温的差异。深蓝色=月平均高温在一年中变化不大。[OC]"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "最大和最小月平均高溫的差異。深藍色=月平均高溫在一年中變化不大。[OC]"
+    }
+  ]
 }
