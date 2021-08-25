@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] 主要国の政府債務残高の対GDP比"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]选定经济体的政府债务占国内生产总值的百分比"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]選定經濟體的政府債務佔國內生產總值的百分比"
+    }
+  ]
 }
