@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私たちは、Reddit社に対し、同社のウェブサイト上で横行するコロナウイルスの誤報に対処することを求めます。"
+    },
+    {
+      "locale": "zh",
+      "title": "我们呼吁Reddit对其网站上猖獗的冠状病毒错误信息采取行动。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們呼籲Reddit對其網站上猖獗的冠狀病毒錯誤信息採取行動。"
+    }
+  ]
 }
