@@ -77,5 +77,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-25T09:53:38Z"
+  "original_createdAt": "2021-08-25T09:53:38Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Medis 1が5年経過した後、Medis 2が登場しました。Medisは、美しく、使いやすいRedisのGUI管理アプリケーションです。Redisの専門家によって設計・開発されているので、危機的な状況でも信頼できるものとなっています。",
+      "tagline": "macOSでの楽しいRedis GUI"
+    },
+    {
+      "locale": "zh",
+      "description": "在Medis 1已经存在了5年之后，Medis 2来了! Medis是一个漂亮的、易于使用的Redis GUI管理应用程序。它是由Redis专家设计和开发的，使得它即使在关键情况下也值得信赖。",
+      "tagline": "macOS上令人愉悦的Redis GUI"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在Medis 1已經存在了5年之後，Medis 2來了! Medis是一個漂亮的、易於使用的Redis GUI管理應用程序。它是由Redis專家設計和開發的，使得它即使在關鍵情況下也值得信賴。",
+      "tagline": "macOS上令人愉悅的Redis GUI"
+    }
+  ]
 }
