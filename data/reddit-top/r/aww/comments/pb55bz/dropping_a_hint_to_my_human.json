@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "人間にヒントを与える"
+    },
+    {
+      "locale": "zh",
+      "title": "给我的人类留下一个暗示"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "給我的人類留下一個暗示"
+    }
+  ]
 }
