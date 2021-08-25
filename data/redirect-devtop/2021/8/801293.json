@@ -43,5 +43,22 @@
   "original_created_at": "2021-08-23T20:01:43Z",
   "image": "https://dev.to/social_previews/article/801293.png",
   "author": "Sabbir Siddiqui",
-  "author_url": "https://dev.to/siddiqus"
+  "author_url": "https://dev.to/siddiqus",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、派手な画像は期待せず、本題に入りましょう。私はただ、あなたが...と願っています。",
+      "title": "NodeJS + ESLint + Prettier - 史上最もシンプルなセットアップ"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中不要期待任何花哨的图片，让我们来谈谈正事。我只希望你是...",
+      "title": "NodeJS + ESLint + Prettier - 最简单的设置"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中不要期待任何花哨的圖片，讓我們來談談正事。我只希望你是...",
+      "title": "NodeJS + ESLint + Prettier - 最簡單的設置"
+    }
+  ]
 }
