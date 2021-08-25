@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-24T14:12:27Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--D2q7_Bst--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s70ulvvubdd8yb5en04y.jpg",
   "author": "Matan Levi",
-  "author_url": "https://dev.to/mlevi1806"
+  "author_url": "https://dev.to/mlevi1806",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "一般的にカスタムフックは、アプリのモジュール化やコンポジションを処理するための素晴らしいパターンです。....",
+      "title": "Reactのカスタムフックの威力（レスポンシブデザインの例"
+    },
+    {
+      "locale": "zh",
+      "description": "一般来说，自定义钩子是一个很好的模式，以便在你的应用程序中处理模块化和组成....。",
+      "title": "React中自定义钩子的力量（响应式设计实例"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一般來說，自定義鉤子是一個很好的模式，以便在你的應用程序中處理模塊化和組成....。",
+      "title": "React中自定義鉤子的力量（響應式設計實例"
+    }
+  ]
 }
