@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Meme Search - Deep Learning powered search｜デモ＋Github repo in comments"
+    },
+    {
+      "locale": "zh",
+      "title": "Meme Search - 深度学习驱动的搜索 | 演示+Github repo in comments"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Meme Search - 深度學習驅動的搜索 | 演示+Github repo in comments"
+    }
+  ]
 }

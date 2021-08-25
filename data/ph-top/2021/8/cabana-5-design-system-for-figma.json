@@ -83,5 +83,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-25T07:01:00Z"
+  "original_createdAt": "2021-08-25T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CabanaはFigmaのためのデザインシステムで、UIを素早く作成することができ、デザインのアイデアをより早く提示することができます。",
+      "tagline": "Figmaのデザインシステム"
+    },
+    {
+      "locale": "zh",
+      "description": "Cabana 是 Figma 的设计系统，使您能够更快地创建 UIs，让您更快地展示您的设计理念。",
+      "tagline": "Figma的设计系统"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Cabana 是 Figma 的設計系統，使您能夠更快地創建 UIs，讓您更快地展示您的設計理念。",
+      "tagline": "Figma的設計系統"
+    }
+  ]
 }
