@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-25T07:06:13Z"
+  "original_createdAt": "2021-08-25T07:06:13Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "WebCrateは、ウェブ上のリンクや記事などを一元的に整理、共有することができます。WebCrateはオープンソースで、Deta Spaceのパーソナルクラウドを利用して、簡単にセルフホスティングすることができます。WebCrateは単なるブックマークツールではありません。",
+      "tagline": "ウェブ上のリンクや記事などを整理できる"
+    },
+    {
+      "locale": "zh",
+      "description": "WebCrate帮助你在一个中心位置组织和分享网络上的链接、文章等。它是开源的，由于你在Deta Space的个人云，可以很容易地自我托管。它不仅仅是一个书签工具。",
+      "tagline": "组织网络上的链接、文章和其他内容"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "WebCrate幫助你在一箇中心位置組織和分享網絡上的鏈接、文章等。它是開源的，由於你在Deta Space的個人雲，可以很容易地自我託管。它不僅僅是一個書籤工具。",
+      "tagline": "組織網絡上的鏈接、文章和其他內容"
+    }
+  ]
 }
