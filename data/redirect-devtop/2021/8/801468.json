@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-24T02:46:40Z",
   "image": "https://dev.to/social_previews/article/801468.png",
   "author": "Nathan",
-  "author_url": "https://dev.to/natclark"
+  "author_url": "https://dev.to/natclark",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "しばしば、ウェブアクセシビリティは抽象的で無形の概念として語られることがあります。 実際には、...",
+      "title": "ウェブサイトのアクセシビリティを向上させる4つの方法"
+    },
+    {
+      "locale": "zh",
+      "description": "很多时候，网络可及性被当作一些抽象的、无形的概念来谈论。 在现实中，...",
+      "title": "今天改善你的网站可访问性的4种方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "很多時候，網絡可及性被當作一些抽象的、無形的概念來談論。 在現實中，...",
+      "title": "今天改善你的網站可訪問性的4種方法"
+    }
+  ]
 }

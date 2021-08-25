@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] パンデミック開始からの100万人あたりのコビッド-19感染者数とワクチン接種率"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]每10万人中的Covid-19病例和大流行开始时的疫苗接种率"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]每10萬人中的Covid-19病例和大流行開始時的疫苗接種率"
+    }
+  ]
 }
