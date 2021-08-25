@@ -37,5 +37,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Tether社は現在、コインの透明性と監査を要求するソーシャルメディア上のすべての人をブロックしています。"
+    },
+    {
+      "locale": "zh",
+      "title": "Tether现在封锁了社交媒体上所有要求对其硬币进行透明和审计的人"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Tether現在封鎖了社交媒體上所有要求對其硬幣進行透明和審計的人"
+    }
+  ]
 }
