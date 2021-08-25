@@ -91,5 +91,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "探査機ロゼッタが撮影した彗星表面の一連の画像。"
+    },
+    {
+      "locale": "zh",
+      "title": "由罗塞塔空间探测器提供的彗星表面的系列图像。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "由羅塞塔空間探測器提供的彗星表面的系列圖像。"
+    }
+  ]
 }
