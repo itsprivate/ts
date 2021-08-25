@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-18T17:33:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gHFGf_ER--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qa2m0ft232sh7bpl776o.png",
   "author": "Thomas Bnt",
-  "author_url": "https://dev.to/thomasbnt"
+  "author_url": "https://dev.to/thomasbnt",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに Fastifyは、ExpressJSのようなWebサーバーフレームワークですが、より優れた機能を備えています...",
+      "title": "Fastifyサーバーの作成"
+    },
+    {
+      "locale": "zh",
+      "description": "简介：Fastify是一个类似于ExpressJS的Web服务器框架，但具有更好的功能。",
+      "title": "创建一个Fastify服务器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介：Fastify是一個類似於ExpressJS的Web服務器框架，但具有更好的功能。",
+      "title": "創建一個Fastify服務器"
+    }
+  ]
 }
