@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-24T12:34:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--H-2YyPYJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2s063jn3pwsgirmqjslz.jpeg",
   "author": "Laurie",
-  "author_url": "https://dev.to/laurieontech"
+  "author_url": "https://dev.to/laurieontech",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "先日、twitterのスペースでアドバイスをしたところ、ある方からブログ記事にしてほしいと言われました。そこで、このような形になりました。",
+      "title": "インタビューはストーリーを語ること"
+    },
+    {
+      "locale": "zh",
+      "description": "前几天我在一个微博空间里给了一些建议，有人让我把它变成一篇博文。所以我们就在这里。",
+      "title": "采访是为了讲述一个故事"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "前幾天我在一個微博空間裏給了一些建議，有人讓我把它變成一篇博文。所以我們就在這裏。",
+      "title": "採訪是爲了講述一個故事"
+    }
+  ]
 }
