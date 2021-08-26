@@ -42,5 +42,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "なぜこのようなことをするのか"
+    },
+    {
+      "locale": "zh",
+      "title": "你为什么要这样做"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你爲什麼要這樣做"
+    }
+  ]
 }

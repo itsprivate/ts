@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-22T18:32:36Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--eUPopkeN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yz1m7xytqdm6j1k5fcvy.png",
   "author": "Matteo Mazzarolo",
-  "author_url": "https://dev.to/mmazzarolo"
+  "author_url": "https://dev.to/mmazzarolo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今回の記事では、私が開発中に行ったデザイン上の決断や失敗について、詳しくご紹介します。",
+      "title": "オープンソースのReact Nativeライブラリを5年間維持してきた中で犯したミス"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我将围绕设计决策和我在工作时犯的错误分享一些细节。",
+      "title": "我在维护开源的React Native库五年时犯的错误"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我將圍繞設計決策和我在工作時犯的錯誤分享一些細節。",
+      "title": "我在維護開源的React Native庫五年時犯的錯誤"
+    }
+  ]
 }
