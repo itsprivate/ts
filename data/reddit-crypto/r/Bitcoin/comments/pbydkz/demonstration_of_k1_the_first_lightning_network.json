@@ -59,5 +59,19 @@
     "type": "youtube.com"
   },
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "K1のデモ。エルサルバドルで設計・製造されたライトニングネットワーク対応の初のビットコインATM"
+    },
+    {
+      "locale": "zh",
+      "title": "K1的演示。在萨尔瓦多设计和建造的第一台兼容闪电网络的比特币ATM机"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "K1的演示。在薩爾瓦多設計和建造的第一臺兼容閃電網絡的比特幣ATM機"
+    }
+  ]
 }
