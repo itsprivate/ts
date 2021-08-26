@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-25T12:46:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UEmJOPHG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wu2pg8ermxnip7as9cxs.png",
   "author": "Daniel Budziński",
-  "author_url": "https://dev.to/danieo"
+  "author_url": "https://dev.to/danieo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JavaScriptの基本的なコンセプトのひとつに「非同期性」というものがあります。",
+      "title": "JavaScriptの非同期性 - プロミス、コールバック、async/await"
+    },
+    {
+      "locale": "zh",
+      "description": "JavaScript的核心概念之一是异步性，这意味着做很多事情...",
+      "title": "JavaScript的异步性--承诺、回调和async/await"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "JavaScript的核心概念之一是異步性，這意味着做很多事情...",
+      "title": "JavaScript的異步性--承諾、回調和async/await"
+    }
+  ]
 }
