@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-14T12:36:43Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RMm3YFeF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n22q0izqozmv11t5gbb1.png",
   "author": "Aurélie Vache",
-  "author_url": "https://dev.to/aurelievache"
+  "author_url": "https://dev.to/aurelievache",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "具体的なアプリケーションを例にしてGolang言語を学ぶための記事シリーズ",
+      "title": "例題で学ぶGo: パート7 - GoでクロスプラットフォームのGUI/デスクトップアプリケーションを作成する"
+    },
+    {
+      "locale": "zh",
+      "description": "以具体应用为例，学习Golang语言的系列文章",
+      "title": "通过实例学习Go：第7部分 - 在Go中创建一个跨平台的GUI/桌面应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "以具體應用爲例，學習Golang語言的系列文章",
+      "title": "通過實例學習Go：第7部分 - 在Go中創建一個跨平臺的GUI/桌面應用程序"
+    }
+  ]
 }
