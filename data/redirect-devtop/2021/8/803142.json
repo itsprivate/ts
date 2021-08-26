@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-25T14:21:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uGgWYDkp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3vmsoqcvnff1cwexexpa.png",
   "author": "Modern Web",
-  "author_url": "https://dev.to/kunaal438"
+  "author_url": "https://dev.to/kunaal438",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは。今日は、ピュアなHTMLとCSSだけで、完全にレスポンシブな製品ページを作る方法をご紹介します。私たちの...",
+      "title": "ピュアなHTMLとCSSを使って、完全にレスポンシブなプロダクトカードを作成する方法。"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，今天我们将看到如何只用纯HTML和CSS来制作完全响应的产品页面。我们的...",
+      "title": "如何使用纯HTML、CSS创建完全响应的产品卡。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，今天我們將看到如何只用純HTML和CSS來製作完全響應的產品頁面。我們的...",
+      "title": "如何使用純HTML、CSS創建完全響應的產品卡。"
+    }
+  ]
 }
