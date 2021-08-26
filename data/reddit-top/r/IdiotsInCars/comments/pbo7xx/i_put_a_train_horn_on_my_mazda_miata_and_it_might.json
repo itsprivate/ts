@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "マツダのミカタにトレインホーンを付けたら、昨日は助かったかもしれない。"
+    },
+    {
+      "locale": "zh",
+      "title": "我在我的马自达Miata上安装了一个火车喇叭，昨天它可能已经救了我。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我在我的馬自達Miata上安裝了一個火車喇叭，昨天它可能已經救了我。"
+    }
+  ]
 }
