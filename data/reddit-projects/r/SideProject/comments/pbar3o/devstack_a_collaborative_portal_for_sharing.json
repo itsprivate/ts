@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "DevStack｜プロジェクトやアイデアを共有し、フィードバックを得るための共同ポータル。"
+    },
+    {
+      "locale": "zh",
+      "title": "DevStack | 一个分享项目和想法并获得反馈的协作门户。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "DevStack | 一個分享項目和想法並獲得反饋的協作門戶。"
+    }
+  ]
 }
