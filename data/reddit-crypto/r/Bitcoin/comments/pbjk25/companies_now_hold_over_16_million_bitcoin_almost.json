@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "企業が保有するビットコインの数は160万を超え、総供給量の約8％を占める"
+    },
+    {
+      "locale": "zh",
+      "title": "公司现在持有超过160万枚比特币，几乎占总供应量的8%。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "公司現在持有超過160萬枚比特幣，幾乎佔總供應量的8%。"
+    }
+  ]
 }
