@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ソフトウェアでCPUをエミュレートする"
+    },
+    {
+      "locale": "zh",
+      "title": "在软件中模拟一个CPU"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在軟件中模擬一個CPU"
+    }
+  ]
 }
