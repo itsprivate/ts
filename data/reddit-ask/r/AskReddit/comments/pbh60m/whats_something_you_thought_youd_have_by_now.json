@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今までに持っていると思っていたものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你认为你现在应该拥有什么东西？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你認爲你現在應該擁有什麼東西？"
+    }
+  ]
 }
