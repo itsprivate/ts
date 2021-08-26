@@ -83,5 +83,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-26T07:01:00Z"
+  "original_createdAt": "2021-08-26T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "webtoapp.designは、あらゆるウェブサイトをAndroidやiOS用のアプリに変換する、コード不要のソリューションです。ダッシュボードやAPIを使って、ユーザーにプッシュ通知を送ることができます。また、60日間の全額返金保証もご利用いただけます。",
+      "tagline": "WebサイトをAndroidやiOSのアプリに変換する"
+    },
+    {
+      "locale": "zh",
+      "description": "webtoapp.design是一个无需代码的解决方案，可将任何网站转化为Android和iOS的应用程序。通过我们的仪表板或API向您的用户发送推送通知。我们的应用商店发布帮助保证你的成功 - 或者使用我们的60天全额退款保证。",
+      "tagline": "将你的网站转换成安卓和iOS的应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "webtoapp.design是一個無需代碼的解決方案，可將任何網站轉化爲Android和iOS的應用程序。通過我們的儀表板或API向您的用戶發送推送通知。我們的應用商店發佈幫助保證你的成功 - 或者使用我們的60天全額退款保證。",
+      "tagline": "將你的網站轉換成安卓和iOS的應用程序"
+    }
+  ]
 }
