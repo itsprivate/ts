@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "すみません、気がつきませんでした。"
+    },
+    {
+      "locale": "zh",
+      "title": "对不起，没有注意到"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "對不起，沒有注意到"
+    }
+  ]
 }
