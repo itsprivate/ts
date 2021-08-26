@@ -72,5 +72,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-26T07:23:57Z"
+  "original_createdAt": "2021-08-26T07:23:57Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私たちのシンプルなAPIを使用すると、120秒で何でも無料でNFTに変えることができます。ブロックチェーンの経験は必要ありません。開発者による開発者のためのサービスです。元NATO、Nvidia、Moneseのチームが構築し、Polygon、Skype、Wiseの共同設立者がバックアップしています。",
+      "tagline": "1回のAPIコールであらゆるものをNFTに変えられる"
+    },
+    {
+      "locale": "zh",
+      "description": "使用我们简单的API，你可以在120秒内将任何东西免费变成NFT。不需要以前的区块链经验。为开发者服务，由开发者负责。由前NATO、Nvidia和Monese的团队建立，并由Polygon、Skype和Wise的联合创始人支持。",
+      "tagline": "通过一个API调用将任何东西变成一个NFT"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用我們簡單的API，你可以在120秒內將任何東西免費變成NFT。不需要以前的區塊鏈經驗。爲開發者服務，由開發者負責。由前NATO、Nvidia和Monese的團隊建立，並由Polygon、Skype和Wise的聯合創始人支持。",
+      "tagline": "通過一個API調用將任何東西變成一個NFT"
+    }
+  ]
 }
