@@ -43,5 +43,22 @@
   "original_created_at": "2021-08-25T09:30:27Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NmM-4nWR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sdxzw90glhw2jjyaep8l.png",
   "author": "Asif",
-  "author_url": "https://dev.to/labib"
+  "author_url": "https://dev.to/labib",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "VsCodeエクステンションは、テキストエディタのバックボーンとなるものです。言語、キーマップ、プラグインなどを追加することができます...",
+      "title": "フロントエンド開発に最適なVS Code拡張機能"
+    },
+    {
+      "locale": "zh",
+      "description": "VsCode扩展是文本编辑器的骨干。你可以添加语言，键盘映射，插件，...",
+      "title": "前端开发的最佳VS代码扩展"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "VsCode擴展是文本編輯器的骨幹。你可以添加語言，鍵盤映射，插件，...",
+      "title": "前端開發的最佳VS代碼擴展"
+    }
+  ]
 }
