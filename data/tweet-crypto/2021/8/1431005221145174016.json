@@ -102,5 +102,22 @@
     "retweet_count": 167,
     "favorite_count": 701,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @LynAldenContact ビットコインの普及状況を視覚化する最も興味深い方法の一つは、@clockwork_...のような極座標図によるものです。",
+      "retweeted_status_full_text": "ビットコインの普及状況を視覚化する最も興味深い方法の一つが、@clockwork_parts氏が行ったような極座標チャートです。\n\n対数の半径はビットコインの価格を、角度は時間を表しています。https://t.co/NDuVOppHUJ"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @LynAldenContact: 将比特币采用情况可视化的最有趣的方法之一是通过极坐标图，如@clockwork_...",
+      "retweeted_status_full_text": "将比特币的采用可视化的最有趣的方法之一是通过极坐标图，比如@clockwork_parts所做的。\n\n对数半径代表比特币的价格，而角度则代表时间。https://t.co/NDuVOppHUJ"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @LynAldenContact: 將比特幣採用情況可視化的最有趣的方法之一是通過極座標圖，如@clockwork_...",
+      "retweeted_status_full_text": "將比特幣的採用可視化的最有趣的方法之一是通過極座標圖，比如@clockwork_parts所做的。\n\n對數半徑代表比特幣的價格，而角度則代表時間。https://t.co/NDuVOppHUJ"
+    }
+  ]
 }

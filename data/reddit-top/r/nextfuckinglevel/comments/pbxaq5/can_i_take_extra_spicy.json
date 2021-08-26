@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "エキストラ・スパイシーでいいですか！？"
+    },
+    {
+      "locale": "zh",
+      "title": "我可以吃特辣的吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我可以喫特辣的嗎？"
+    }
+  ]
 }
