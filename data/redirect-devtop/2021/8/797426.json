@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-19T16:59:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--szPE9hzn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qq1vs87b4gf7f3r3qjgp.jpg",
   "author": "Cássio Cappellari",
-  "author_url": "https://dev.to/cassiocappellari"
+  "author_url": "https://dev.to/cassiocappellari",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "🔶 はじめに 1秒間に何百ものリクエストを送信するWebアプリケーションを想像してみてください。",
+      "title": "Node.jsの基本概念"
+    },
+    {
+      "locale": "zh",
+      "description": "🔶 简介：想象一下，一个网络应用程序每秒向一个网站发送数百个请求。",
+      "title": "Node.js的基本概念"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "🔶 簡介：想象一下，一個網絡應用程序每秒向一個網站發送數百個請求。",
+      "title": "Node.js的基本概念"
+    }
+  ]
 }
