@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-26T10:13:57Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2nOzB0u4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f23f8esuk8gf2gx69m5h.jpg",
   "author": "Alex Omeyer",
-  "author_url": "https://dev.to/alexomeyer"
+  "author_url": "https://dev.to/alexomeyer",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "開発者として、あなたは常に最先端のツールやトリック、拡張機能を探しています。",
+      "title": "フロントエンド開発者のための7つのVS Code拡張機能"
+    },
+    {
+      "locale": "zh",
+      "description": "作为一名开发人员，你总是在寻找最先进的工具、技巧和扩展来改善你的工作。",
+      "title": "7个针对前端开发者的VS代码扩展"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "作爲一名開發人員，你總是在尋找最先進的工具、技巧和擴展來改善你的工作。",
+      "title": "7個針對前端開發者的VS代碼擴展"
+    }
+  ]
 }
