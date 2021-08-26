@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "誤ってカメラの写真を削除してしまった。画像復元ソフトで復活したのは、生産ラインの女性たちが撮影したテストショット。"
+    },
+    {
+      "locale": "zh",
+      "title": "不小心删除了我相机上的照片。图像恢复软件复活了生产线上的女士们所拍摄的测试照片。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不小心刪除了我相機上的照片。圖像恢復軟件復活了生產線上的女士們所拍攝的測試照片。"
+    }
+  ]
 }
