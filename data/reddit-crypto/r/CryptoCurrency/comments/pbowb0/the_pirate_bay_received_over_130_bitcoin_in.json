@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "「The Pirate Bay」は2013年以降、130ビットコイン以上の寄付を受けており、長年にわたる検閲に耐えています。"
+    },
+    {
+      "locale": "zh",
+      "title": "\"海盗湾自2013年以来收到超过130个比特币的捐款，使其多年来一直抵制审查制度"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"海盜灣自2013年以來收到超過130個比特幣的捐款，使其多年來一直抵制審查制度"
+    }
+  ]
 }
