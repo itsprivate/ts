@@ -134,5 +134,22 @@
     "retweet_count": 176,
     "favorite_count": 1770,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @litcapital How it really be rn https://t.co/cR5JLQcTIJ",
+      "retweeted_status_full_text": "How it really be rn https://t.co/cR5JLQcTIJ"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @litcapital: 它到底是怎样的呢 https://t.co/cR5JLQcTIJ",
+      "retweeted_status_full_text": "如何真正做到RN https://t.co/cR5JLQcTIJ"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @litcapital: 它到底是怎樣的呢 https://t.co/cR5JLQcTIJ",
+      "retweeted_status_full_text": "如何真正做到RN https://t.co/cR5JLQcTIJ"
+    }
+  ]
 }
