@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの言葉を誰かが言うたびに、0,01ドルがもらえる。それは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "每次有人说你的话，你就能得到0.01美元。这是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "每次有人說你的話，你就能得到0.01美元。這是什麼？"
+    }
+  ]
 }
