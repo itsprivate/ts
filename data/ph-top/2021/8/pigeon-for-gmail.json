@@ -77,5 +77,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-26T07:11:54Z"
+  "original_createdAt": "2021-08-26T07:11:54Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Gmailの中に直接組み込まれた強力なCRMとオートメーションのスイートです。他のCRMが営業に特化しているのに対し、Pigeonはメーカーやクリエイターに最適なCRMです。アウトリーチを簡素化します。一度のメールマージではなく、自動フォローアップシーケンスを作成します。",
+      "tagline": "Gmailにスプレッドシートを挿入する"
+    },
+    {
+      "locale": "zh",
+      "description": "一个直接在Gmail内的强大的CRM和自动化套件。当其他CRM专注于销售时，Pigeon是一个完美的CRM，适合制造者和创造者。简化你的外展工作。创建自动跟进序列，而不是设置一次性的邮件合并。",
+      "tagline": "在你的Gmail中插入一个电子表格"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個直接在Gmail內的強大的CRM和自動化套件。當其他CRM專注於銷售時，Pigeon是一個完美的CRM，適合製造者和創造者。簡化你的外展工作。創建自動跟進序列，而不是設置一次性的郵件合併。",
+      "tagline": "在你的Gmail中插入一個電子表格"
+    }
+  ]
 }

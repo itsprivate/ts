@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-26T07:02:40Z"
+  "original_createdAt": "2021-08-26T07:02:40Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "マネージドデータベースに過剰なコストをかける必要はない。HippobaseはPostgres、MySQL、MongoDB、Redisなどのオープンソース・ツールを簡単にセルフホストすることができます。",
+      "tagline": "ワンクリックでオープンソースのデータベースをセルフホスティング"
+    },
+    {
+      "locale": "zh",
+      "description": "为什么要为管理数据库支付过高的费用？Hippobase使自我托管开源工具变得容易，如Postgres、MySQL、MongoDB、Redis和其他。",
+      "tagline": "一键自助托管开源数据库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "爲什麼要爲管理數據庫支付過高的費用？Hippobase使自我託管開源工具變得容易，如Postgres、MySQL、MongoDB、Redis和其他。",
+      "tagline": "一鍵自助託管開源數據庫"
+    }
+  ]
 }
