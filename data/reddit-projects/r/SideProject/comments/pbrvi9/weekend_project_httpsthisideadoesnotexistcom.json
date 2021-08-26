@@ -11,5 +11,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Weekend project: https://ThisIdeaDoesNotExist.com"
+    },
+    {
+      "locale": "zh",
+      "title": "周末项目：https://ThisIdeaDoesNotExist.com"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "週末項目：https://ThisIdeaDoesNotExist.com"
+    }
+  ]
 }
