@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-21T22:23:01Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XQl5WcsW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ic9kyove42uq8hydrnkr.png",
   "author": "Manar Abdelkarim",
-  "author_url": "https://dev.to/manarabdelkarim"
+  "author_url": "https://dev.to/manarabdelkarim",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "デザイナーの皆さん、こんにちは。 今日はフロントエンド開発の練習をしていたので、「これは...」と思っていました。",
+      "title": "開発者がモバイルファーストを選択する理由"
+    },
+    {
+      "locale": "zh",
+      "description": "你好设计师... 今天我在练习前端开发，所以我认为它...",
+      "title": "开发人员为何选择移动优先的方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好設計師... 今天我在練習前端開發，所以我認爲它...",
+      "title": "開發人員爲何選擇移動優先的方法"
+    }
+  ]
 }
