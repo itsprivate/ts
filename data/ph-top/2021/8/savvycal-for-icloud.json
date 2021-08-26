@@ -93,5 +93,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-26T07:00:00Z"
+  "original_createdAt": "2021-08-26T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "おなじみのSavvyCalミーティングスケジューラーが、iCloudカレンダーに対応しました。",
+      "tagline": "iCloudに加え、Google、Outlook、Fastmailのスケジューリングリンク"
+    },
+    {
+      "locale": "zh",
+      "description": "你所熟悉和喜爱的SavvyCal会议安排程序--现在有了iCloud日历。",
+      "tagline": "iCloud的调度链接，加上谷歌、Outlook、Fastmail的调度链接"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你所熟悉和喜愛的SavvyCal會議安排程序--現在有了iCloud日曆。",
+      "tagline": "iCloud的調度鏈接，加上谷歌、Outlook、Fastmail的調度鏈接"
+    }
+  ]
 }
