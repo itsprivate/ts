@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし誰かが五感（視覚、嗅覚、味覚、触覚、聴覚）を持たずに生まれてきたとしたら、その人は自分の存在を知ることができるだろうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果有人出生时没有感官（视觉、嗅觉、味觉、触觉、听觉），他们会知道自己的存在吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果有人出生時沒有感官（視覺、嗅覺、味覺、觸覺、聽覺），他們會知道自己的存在嗎？"
+    }
+  ]
 }
