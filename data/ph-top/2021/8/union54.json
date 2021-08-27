@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-27T07:05:00Z"
+  "original_createdAt": "2021-08-27T07:05:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Union54は、アフリカ向けのデビットカード発行APIです。あらゆるソフトウェア会社が、銀行のパートナーや「クレジットカード・プロセッサー」を必要とせずに、顧客にデビットカードを提供することができます。アフリカ向けのMarqeta。",
+      "tagline": "アフリカ向けデビットカード発行API"
+    },
+    {
+      "locale": "zh",
+      "description": "Union54是一个面向非洲的借记卡发行API。它允许任何软件公司向其客户提供借记卡，而不需要银行合作伙伴或 \"信用卡处理器\"。非洲的Marqeta。",
+      "tagline": "非洲的借记卡发行API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Union54是一個面向非洲的借記卡發行API。它允許任何軟件公司向其客戶提供借記卡，而不需要銀行合作伙伴或 \"信用卡處理器\"。非洲的Marqeta。",
+      "tagline": "非洲的借記卡發行API"
+    }
+  ]
 }
