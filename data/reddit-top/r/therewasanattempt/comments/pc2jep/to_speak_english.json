@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "英語が話せること"
+    },
+    {
+      "locale": "zh",
+      "title": "要讲英语"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "要講英語"
+    }
+  ]
 }
