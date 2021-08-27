@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-27T07:13:07Z"
+  "original_createdAt": "2021-08-27T07:13:07Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あなたのプロジェクトで使える100以上のボタン。ボタンをクリックして、CSSをコピーしてください。",
+      "tagline": "あなたのプロジェクトで使える100以上のボタン"
+    },
+    {
+      "locale": "zh",
+      "description": "100多个按钮，你可以在你的项目中使用。通过点击按钮复制CSS。",
+      "tagline": "100多个按钮，你可以在你的项目中使用"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "100多個按鈕，你可以在你的項目中使用。通過點擊按鈕複製CSS。",
+      "tagline": "100多個按鈕，你可以在你的項目中使用"
+    }
+  ]
 }
