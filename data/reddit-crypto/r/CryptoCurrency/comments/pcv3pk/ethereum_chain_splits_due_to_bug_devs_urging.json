@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "イーサリアムチェーンがバグにより分裂：開発者はユーザーにETHの取引を避けるよう要請"
+    },
+    {
+      "locale": "zh",
+      "title": "以太坊链因错误而分裂：开发者敦促用户避免进行任何ETH交易"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "以太坊鏈因錯誤而分裂：開發者敦促用戶避免進行任何ETH交易"
+    }
+  ]
 }
