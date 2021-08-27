@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-27T07:06:12Z"
+  "original_createdAt": "2021-08-27T07:06:12Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "MarkdownXは、ヘッダー、リスト、画像、コードブロック、リンク、アニメーションGIF、Youtube Emdeds、Codepen Embedsなどのアイテムをドロップダウンメニューで提供する究極のマークダウンエディタです🚀 エディタはクリーンなMarkdownを出力し、プレビューモードも備えています🍿",
+      "tagline": "TallStackのために作られた新しいマークダウンエディター"
+    },
+    {
+      "locale": "zh",
+      "description": "MarkdownX是终极的markdown编辑器，它有一个下拉菜单，其中包括标题、列表、图片、代码块、链接、GIF动画、Youtube Emdeds、Codepen Embeds等等🚀 该编辑器输出干净的Markdown，还具有预览模式🍿。",
+      "tagline": "一个为TallStack建立的新的markdown编辑器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "MarkdownX是終極的markdown編輯器，它有一個下拉菜單，其中包括標題、列表、圖片、代碼塊、鏈接、GIF動畫、Youtube Emdeds、Codepen Embeds等等🚀 該編輯器輸出乾淨的Markdown，還具有預覽模式🍿。",
+      "tagline": "一個爲TallStack建立的新的markdown編輯器"
+    }
+  ]
 }
