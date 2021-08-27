@@ -50,5 +50,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "自分のお酒は自分で守る"
+    },
+    {
+      "locale": "zh",
+      "title": "我可以处理我的酒精"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我可以處理我的酒精"
+    }
+  ]
 }
