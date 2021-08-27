@@ -3,7 +3,7 @@
   "title": "Generics enabled by default in Go tip",
   "url": "https://go-review.googlesource.com/c/go/+/343732/",
   "author": "dcu",
-  "points": 146,
+  "points": 264,
   "num_comments": 155,
   "_tags": [
     "story",
@@ -27,5 +27,6 @@
       "locale": "zh-Hant",
       "title": "Go提示中默認啓用了泛型"
     }
-  ]
+  ],
+  "source_updated_at": 1630057196721
 }
