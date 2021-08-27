@@ -72,5 +72,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-27T07:12:10Z"
+  "original_createdAt": "2021-08-27T07:12:10Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "人々は常にサーバー固有のP2PやDiscordでのグループDMを望んでいました。この1つの機能が、人々をDiscordから遠ざけ、Slackに落ち着かせる破格の要因となっています。私たちはそれを変えるためにここにいます。個人サーバーにSlackのようなP2P、グループDMを追加します。",
+      "tagline": "Discordのルーム、グループ、P2P DM"
+    },
+    {
+      "locale": "zh",
+      "description": "人们一直希望在Discord里有特定服务器的P2P或团体DM。这一个功能一直是一个障碍，它使人们不愿意使用Discord而选择Slack。我们在这里要改变这种情况。在个人服务器上添加P2P，像Slack一样的群组DM。",
+      "tagline": "Discord中的房间、小组和P2P DMs"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "人們一直希望在Discord裏有特定服務器的P2P或團體DM。這一個功能一直是一個障礙，它使人們不願意使用Discord而選擇Slack。我們在這裏要改變這種情況。在個人服務器上添加P2P，像Slack一樣的羣組DM。",
+      "tagline": "Discord中的房間、小組和P2P DMs"
+    }
+  ]
 }
