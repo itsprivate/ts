@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "女性のために"
+    },
+    {
+      "locale": "zh",
+      "title": "给女士们的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "給女士們的。"
+    }
+  ]
 }
