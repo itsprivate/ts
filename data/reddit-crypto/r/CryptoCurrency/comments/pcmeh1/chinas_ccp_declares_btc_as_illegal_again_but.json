@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "中国の中国共産党がBTCを再び違法と宣言したが、ビットコインの価格やメディアも気にしていないようだ。"
+    },
+    {
+      "locale": "zh",
+      "title": "中国共产党再次宣布BTC为非法，但比特币价格甚至媒体似乎并不关心。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "中國共產黨再次宣佈BTC爲非法，但比特幣價格甚至媒體似乎並不關心。"
+    }
+  ]
 }
