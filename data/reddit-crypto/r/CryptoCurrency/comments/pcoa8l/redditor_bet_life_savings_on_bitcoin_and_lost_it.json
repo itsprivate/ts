@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Redditorはビットコインに人生の貯金を賭け、将来の取引によってすべてを失った。"
+    },
+    {
+      "locale": "zh",
+      "title": "Redditor将毕生积蓄押在比特币上，并通过未来的交易输掉了所有的钱"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Redditor將畢生積蓄押在比特幣上，並通過未來的交易輸掉了所有的錢"
+    }
+  ]
 }
