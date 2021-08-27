@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "過去4年間に私の投稿に反応しなかった人をアンフレンドにするために作ったFacebookのボットです。"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个Facebook机器人，用来取消那些在过去4年里没有对我的帖子做出反应的人的好友。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個Facebook機器人，用來取消那些在過去4年裏沒有對我的帖子做出反應的人的好友。"
+    }
+  ]
 }
