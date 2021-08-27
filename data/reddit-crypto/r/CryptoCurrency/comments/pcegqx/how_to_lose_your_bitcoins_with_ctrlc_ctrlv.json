@@ -57,5 +57,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "I saw many victims of clipboard hijacker malware\n[https://www.bleepingcomputer.com/news/security/clipboard-hijacker-malware-monitors-23-million-bitcoin-addresses/].\n\nHow it works\n1. You select a Bitcoin address, and press CTRL-C.\n2. The malware changes the address to an address owned by the…"
+  "the_new_excerpt": "I saw many victims of clipboard hijacker malware\n[https://www.bleepingcomputer.com/news/security/clipboard-hijacker-malware-monitors-23-million-bitcoin-addresses/].\n\nHow it works\n1. You select a Bitcoin address, and press CTRL-C.\n2. The malware changes the address to an address owned by the…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "クリップボード・ハイジャッカー・マルウェアの被害者をたくさん見ました\n[https://www.bleepingcomputer.com/news/security/clipboard-hijacker-malware-monitors-23-million-bitcoin-addresses/]をご覧ください。\n\n仕組み\n1. ビットコインのアドレスを選択して、CTRL-Cを押します。\n2. 2. マルウェアは、アドレスを、その人が所有しているアドレスに変更します...",
+      "title": "CTRL-C CTRL-Vでビットコインを紛失する方法"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我看到很多剪贴板劫持者恶意软件的受害者\n[https://www.bleepingcomputer.com/news/security/clipboard-hijacker-malware-monitors-23-million-bitcoin-addresses/]。\n\n它是如何工作的\n1. 你选择一个比特币地址，然后按CTRL-C。\n2. 2. 恶意软件将该地址改为一个由...拥有的地址。",
+      "title": "如何用CTRL-C CTRL-V丢失你的比特币"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我看到很多剪貼板劫持者惡意軟件的受害者\n[https://www.bleepingcomputer.com/news/security/clipboard-hijacker-malware-monitors-23-million-bitcoin-addresses/]。\n\n它是如何工作的\n1. 你選擇一個比特幣地址，然後按CTRL-C。\n2. 2. 惡意軟件將該地址改爲一個由...擁有的地址。",
+      "title": "如何用CTRL-C CTRL-V丟失你的比特幣"
+    }
+  ]
 }
