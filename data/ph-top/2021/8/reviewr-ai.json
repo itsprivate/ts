@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-27T07:01:00Z"
+  "original_createdAt": "2021-08-27T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "https://reviewr.ai は、レビューを収集して要約するので、あなたはその必要がありません。Reviewrは最新のNLPを搭載しています。ウィジェットやAPIを使ってあなたのウェブサイトにレビューアを追加し、購入者の信頼を高めましょう。⠀ Reviewrが実際に動いている様子をご覧ください： 🎒 https://baqpa.com 💰 https://dealwyze.com",
+      "tagline": "インターネット上のレビューを収集し、要約する"
+    },
+    {
+      "locale": "zh",
+      "description": "https://reviewr.ai 收集和总结评论，所以你不必这样做。Reviewr由最新的NLP技术驱动。使用我们的小工具或API将Reviewr添加到您的网站，并增加买方的信任。⠀ 查看Reviewr的实际操作： 🎒 https://baqpa.com 💰 https://dealwyze.com",
+      "tagline": "收集和总结来自整个互联网的评论"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "https://reviewr.ai 收集和總結評論，所以你不必這樣做。Reviewr由最新的NLP技術驅動。使用我們的小工具或API將Reviewr添加到您的網站，並增加買方的信任。⠀ 查看Reviewr的實際操作： 🎒 https://baqpa.com 💰 https://dealwyze.com",
+      "tagline": "收集和總結來自整個互聯網的評論"
+    }
+  ]
 }
