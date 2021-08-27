@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-25T18:18:14Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--g0FMofbc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qnsc6vogivvgyjcemki6.jpg",
   "author": "Simon Barker",
-  "author_url": "https://dev.to/allthecode"
+  "author_url": "https://dev.to/allthecode",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "\"この奇妙なプリモディアルの問題を解決する方法を知っていますか？\" とオフィス中で聞かれました...。",
+      "title": "デベロッパー・ジャーナルをつけていないことに賭けてみよう。付けるべき3つの理由"
+    },
+    {
+      "locale": "zh",
+      "description": "\"你知道如何摆脱这个奇怪的初乳问题吗？\" 有人在办公室里问我...",
+      "title": "我打赌你没有写开发者日志。你应该这样做的3个理由"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "\"你知道如何擺脫這個奇怪的初乳問題嗎？\" 有人在辦公室裏問我...",
+      "title": "我打賭你沒有寫開發者日誌。你應該這樣做的3個理由"
+    }
+  ]
 }

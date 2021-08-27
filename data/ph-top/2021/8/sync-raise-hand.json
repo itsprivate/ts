@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-26T10:07:16Z"
+  "original_createdAt": "2021-08-26T10:07:16Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "- ✋ あなたが実際に挙げた手は、Google Meetの挙手ボタンの動作と同期します。- 🔐 すべての処理はブラウザ内で行われます。画像データがサーバーに送信されることはありません。",
+      "tagline": "あなたの挙手は、Google Meetと同期します。"
+    },
+    {
+      "locale": "zh",
+      "description": "- ✋ 你真正的举手将与Google Meet中的举手按钮的动作同步。- 🔐 所有的处理都在浏览器内完成。没有图像数据会被发送到任何服务器上。",
+      "tagline": "你的举手将与Google Meet同步。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "- ✋ 你真正的舉手將與Google Meet中的舉手按鈕的動作同步。- 🔐 所有的處理都在瀏覽器內完成。沒有圖像數據會被髮送到任何服務器上。",
+      "tagline": "你的舉手將與Google Meet同步。"
+    }
+  ]
 }
