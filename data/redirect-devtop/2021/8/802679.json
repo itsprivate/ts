@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-25T05:23:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1Y8m9Ek0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dnmk0zzisy1tg4q85rri.png",
   "author": "Yogesh Chavan",
-  "author_url": "https://dev.to/myogeshchavan97"
+  "author_url": "https://dev.to/myogeshchavan97",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ESLintは、コードの品質を向上させ、バグを事前に修正して回避するのに役立つリンターです...",
+      "title": "ゼロからプロジェクトにESLintを設定する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "ESLint是一个帮助提高代码质量的interter，可以提前修复bug，避免bug出现。",
+      "title": "如何从头开始为你的项目配置ESLint"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "ESLint是一個幫助提高代碼質量的interter，可以提前修復bug，避免bug出現。",
+      "title": "如何從頭開始爲你的項目配置ESLint"
+    }
+  ]
 }
