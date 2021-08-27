@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今日、先生がミームを見せてくれたんだけど、悲しいことに誰も笑わなかった。"
+    },
+    {
+      "locale": "zh",
+      "title": "我的老师今天给我们看了一个备忘录，不幸的是没有人笑。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我的老師今天給我們看了一個備忘錄，不幸的是沒有人笑。"
+    }
+  ]
 }
