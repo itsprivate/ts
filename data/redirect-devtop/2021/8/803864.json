@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-26T06:51:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6KwQ-jxP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8smpks108c0jt3krh6d6.png",
   "author": "Nilanth",
-  "author_url": "https://dev.to/nilanth"
+  "author_url": "https://dev.to/nilanth",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ダークモード対応のNext.jsとTailwindを使ったポートフォリオサイトの構築手順。   あなたは...",
+      "title": "ダークモードに対応したNext.js、Tailwind、Vercelによるポートフォリオの構築"
+    },
+    {
+      "locale": "zh",
+      "description": "使用Next.js和Tailwind建立一个支持黑暗模式的投资组合网站的步骤。   你可以...",
+      "title": "使用Next.js、Tailwind和Vercel建立一个支持黑暗模式的投资组合"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用Next.js和Tailwind建立一個支持黑暗模式的投資組合網站的步驟。   你可以...",
+      "title": "使用Next.js、Tailwind和Vercel建立一個支持黑暗模式的投資組合"
+    }
+  ]
 }
