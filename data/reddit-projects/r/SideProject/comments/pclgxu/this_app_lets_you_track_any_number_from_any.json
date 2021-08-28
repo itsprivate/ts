@@ -42,5 +42,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このアプリは、どのウェブサイトからでも任意の番号を追跡することができます。"
+    },
+    {
+      "locale": "zh",
+      "title": "这个应用程序可以让你从任何网站追踪任何号码"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個應用程序可以讓你從任何網站追蹤任何號碼"
+    }
+  ]
 }
