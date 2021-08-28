@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-27T07:43:39Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--N0zgfKIS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rklv527bw0l5b8jt3bf3.png",
   "author": "ZigRazor",
-  "author_url": "https://dev.to/zigrazor"
+  "author_url": "https://dev.to/zigrazor",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Hot to Create a new repository 新しいディレクトリを作成し、それを開き、git... を実行します。",
+      "title": "Gitの基礎知識。ザ・ファイナルガイド"
+    },
+    {
+      "locale": "zh",
+      "description": "创建新仓库的热点 创建一个新的目录，打开它并执行git...",
+      "title": "Git基础知识。最终指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "創建新倉庫的熱點 創建一個新的目錄，打開它並執行git...",
+      "title": "Git基礎知識。最終指南"
+    }
+  ]
 }
