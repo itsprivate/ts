@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-25T09:16:34Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VXUSwGKC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ob398l38kdyat5t55at5.jpeg",
   "author": "Fagner Brack",
-  "author_url": "https://dev.to/fagnerbrack"
+  "author_url": "https://dev.to/fagnerbrack",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "著者によって議論を軽視しないようにする Argumentation Theoryでは、...",
+      "title": "誰もあなたのプログラミング経験を気にしない"
+    },
+    {
+      "locale": "zh",
+      "description": "避免根据作者而不考虑一个论点 在论证理论中，有...",
+      "title": "没有人关心你的编程经验"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "避免根據作者而不考慮一個論點 在論證理論中，有...",
+      "title": "沒有人關心你的編程經驗"
+    }
+  ]
 }
