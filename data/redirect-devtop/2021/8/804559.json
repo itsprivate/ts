@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-26T18:04:55Z",
   "image": "https://dev.to/social_previews/article/804559.png",
   "author": "Moises E Liria Rosario",
-  "author_url": "https://dev.to/moreno8423"
+  "author_url": "https://dev.to/moreno8423",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Scalable Vector Graphics Tutorialをお読みいただいたかどうかわかりません。もしお読みになっていなければ、私は...",
+      "title": "CSS トランスフォーム トランジションとアニメーション"
+    },
+    {
+      "locale": "zh",
+      "description": "我不知道你是否读过我们的《可扩展矢量图形教程》。如果你没有读过，我...",
+      "title": "CSS 变形过渡和动画"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我不知道你是否讀過我們的《可擴展矢量圖形教程》。如果你沒有讀過，我...",
+      "title": "CSS 變形過渡和動畫"
+    }
+  ]
 }
