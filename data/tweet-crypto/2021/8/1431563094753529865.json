@@ -150,5 +150,22 @@
     "retweet_count": 913,
     "favorite_count": 3385,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @BitcoinMagazine: フィデリティは2026年に100万ドルの#ビットコイン価格を予測している。https://t.co/JUoRO6aj3d",
+      "retweeted_status_full_text": "フィデリティが2026年に100万ドルの#ビットコイン価格を予測 https://t.co/JUoRO6aj3d"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @BitcoinMagazine: Fidelity预计2026年#比特币价格将达到100万美元。https://t.co/JUoRO6aj3d",
+      "retweeted_status_full_text": "Fidelity预测2026年#比特币价格将达到100万美元。https://t.co/JUoRO6aj3d"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @BitcoinMagazine: Fidelity預計2026年#比特幣價格將達到100萬美元。https://t.co/JUoRO6aj3d",
+      "retweeted_status_full_text": "Fidelity預測2026年#比特幣價格將達到100萬美元。https://t.co/JUoRO6aj3d"
+    }
+  ]
 }
