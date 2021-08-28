@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": " 1. Click the start button and start typing Powershell. When it comes up, right\n    click it and choose to run as administrator.\n\n 2. When the prompt opens up, paste the below command and hit enter:\n    \n    > powercfg /batteryreport /output “C:\\battery-report.html”\n\n 3. Go to your C drive folder…"
+  "the_new_excerpt": " 1. Click the start button and start typing Powershell. When it comes up, right\n    click it and choose to run as administrator.\n\n 2. When the prompt opens up, paste the below command and hit enter:\n    \n    > powercfg /batteryreport /output “C:\\battery-report.html”\n\n 3. Go to your C drive folder…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": " 1. スタートボタンをクリックし、Powershellと入力し始める。表示されたら、右\n    して、管理者として実行することを選択します。\n\n 2. プロンプトが表示されたら、以下のコマンドをペーストしてEnterキーを押します。\n    \n    > powercfg /batteryreport /output \"C:‾battery-report.html\"\n\n 3. Cドライブのフォルダに移動します...",
+      "title": "YSK: Windowsノートパソコンのバッテリー残量をチェックしませんか？他のソフトウェアをインストールする必要はなく、Windowsに内蔵されている機能ですべて行うことができます。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": " 1. 点击开始按钮，开始输入Powershell。当它出现的时候，右键\n    点击它并选择以管理员身份运行。\n\n 2. 当提示符打开时，粘贴以下命令并点击回车。\n    \n    > powercfg /batteryreport /output \"C:\\battery-report.html\" 。\n\n 3. 转到您的C盘文件夹...",
+      "title": "YSK：想检查你的Windows笔记本电池健康/容量？不需要安装其他软件，Windows的内置功能就可以做到这一切。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": " 1. 點擊開始按鈕，開始輸入Powershell。當它出現的時候，右鍵\n    點擊它並選擇以管理員身份運行。\n\n 2. 當提示符打開時，粘貼以下命令並點擊回車。\n    \n    > powercfg /batteryreport /output \"C:\\battery-report.html\" 。\n\n 3. 轉到您的C盤文件夾...",
+      "title": "YSK：想檢查你的Windows筆記本電池健康/容量？不需要安裝其他軟件，Windows的內置功能就可以做到這一切。"
+    }
+  ]
 }
