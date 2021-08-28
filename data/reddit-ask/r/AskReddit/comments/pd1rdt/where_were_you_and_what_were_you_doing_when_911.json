@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "9.11が起こったとき、あなたはどこにいて、何をしていましたか？"
+    },
+    {
+      "locale": "zh",
+      "title": "9.11事件发生时，你在哪里，你在做什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "9.11事件發生時，你在哪裏，你在做什麼？"
+    }
+  ]
 }
