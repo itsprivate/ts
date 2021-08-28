@@ -57,5 +57,22 @@
   "original_created_at": "2021-08-26T19:24:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bSKnXeOC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uo2ulgaqgju1xb47hpm3.png",
   "author": "Mrinalini Sugosh (Mrina)",
-  "author_url": "https://dev.to/mrinasugosh"
+  "author_url": "https://dev.to/mrinasugosh",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "簡単な作業でも、コマンドを調べたり、何をしたか忘れてしまったりすることがよくあります。そんな時に考えたのが...",
+      "title": "Docker Cheatsheet"
+    },
+    {
+      "locale": "zh",
+      "description": "我经常发现自己在查找命令，或者忘记了我为一项简单的任务做了什么。我想它会...",
+      "title": "Docker Cheatsheet"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我經常發現自己在查找命令，或者忘記了我爲一項簡單的任務做了什麼。我想它會...",
+      "title": "Docker Cheatsheet"
+    }
+  ]
 }

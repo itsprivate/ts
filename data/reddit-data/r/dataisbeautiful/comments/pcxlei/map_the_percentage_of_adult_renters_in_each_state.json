@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "地図はこちら 各州の成人賃貸者のうち、今後2ヶ月以内に立ち退きを迫られる可能性が「高い」または「非常に高い」と答えた人の割合"
+    },
+    {
+      "locale": "zh",
+      "title": "地图。各州表示 \"可能 \"或 \"非常可能 \"在未来两个月内被驱逐的成年租户的百分比"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "地圖。各州表示 \"可能 \"或 \"非常可能 \"在未來兩個月內被驅逐的成年租戶的百分比"
+    }
+  ]
 }
