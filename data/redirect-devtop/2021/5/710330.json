@@ -43,5 +43,22 @@
   "original_created_at": "2021-05-27T15:27:08Z",
   "image": "https://dev.to/social_previews/article/710330.png",
   "author": "Petar Garžina",
-  "author_url": "https://dev.to/pgarzina"
+  "author_url": "https://dev.to/pgarzina",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Dependabot、Auto Assign、Merge Freeze、Husky、Scheduled...などで開発を自動化します。",
+      "title": "開発を自動化する5つのツール"
+    },
+    {
+      "locale": "zh",
+      "description": "利用Dependabot、Auto Assign、Merge Freeze、Husky和Scheduled... 等工具实现自动化开发。",
+      "title": "使你的开发自动化的5个工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "利用Dependabot、Auto Assign、Merge Freeze、Husky和Scheduled... 等工具實現自動化開發。",
+      "title": "使你的開發自動化的5個工具"
+    }
+  ]
 }
