@@ -50,5 +50,22 @@
   "original_created_at": "2021-08-28T15:59:15Z",
   "image": "https://dev.to/social_previews/article/806426.png",
   "author": "Jonathan Carter",
-  "author_url": "https://dev.to/lostintangent"
+  "author_url": "https://dev.to/lostintangent",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "GitHubは最近、github.devをリリースしました。",
+      "title": "Github.dev: 10 Cool Things You Can Do with It 😎 (英語)"
+    },
+    {
+      "locale": "zh",
+      "description": "GitHub最近发布了github.dev，如果你还没有听说过，它允许你从任何 repo中按下.com，...",
+      "title": "Github.dev: 10 Cool Things You Can Do with It 😎"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "GitHub最近發佈了github.dev，如果你還沒有聽說過，它允許你從任何 repo中按下.com，...",
+      "title": "Github.dev: 10 Cool Things You Can Do with It 😎"
+    }
+  ]
 }
