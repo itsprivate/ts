@@ -37,5 +37,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Paypalはあなたの個人データを600以上の企業と共有しています。だからこそ、Cryptoが必要なのです"
+    },
+    {
+      "locale": "zh",
+      "title": "Paypal与600多家公司共享你的个人数据! 这就是为什么我们需要加密货币!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Paypal與600多家公司共享你的個人數據! 這就是爲什麼我們需要加密貨幣!"
+    }
+  ]
 }
