@@ -14,5 +14,19 @@
   "tags": [
     "The New York Times"
   ],
-  "image": "https://static01.nyt.com/images/2021/08/28/world/28kabul-dispatch1/28kabul-dispatch1-facebookJumbo.jpg"
+  "image": "https://static01.nyt.com/images/2021/08/28/world/28kabul-dispatch1/28kabul-dispatch1-facebookJumbo.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "陥落の日のカブールを巡る旅"
+    },
+    {
+      "locale": "zh",
+      "title": "沦陷之日的喀布尔之旅"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "淪陷之日的喀布爾之旅"
+    }
+  ]
 }
