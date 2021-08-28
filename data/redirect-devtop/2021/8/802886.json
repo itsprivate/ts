@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-25T10:57:36Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sGV5riaJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5t3s77so2d8emtxc21mh.png",
   "author": "Ander Rodriguez",
-  "author_url": "https://dev.to/anderrv"
+  "author_url": "https://dev.to/anderrv",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Webサイトのクローラーやパーサーを大規模に構築するにはどうしたらいいのか？クロール、スクレイプ、...のプロジェクトを実施します。",
+      "title": "PythonでマスターするWebスクレイピング。分散クローリングへの拡張"
+    },
+    {
+      "locale": "zh",
+      "description": "想知道如何大规模地建立一个网站爬虫和解析器？实施一个项目来抓取、搜刮、...",
+      "title": "掌握Python中的网络刮削。扩展到分布式抓取"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "想知道如何大規模地建立一個網站爬蟲和解析器？實施一個項目來抓取、搜刮、...",
+      "title": "掌握Python中的網絡刮削。擴展到分佈式抓取"
+    }
+  ]
 }

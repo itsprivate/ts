@@ -35,5 +35,22 @@
   "original_created_at": "2021-08-26T05:55:03Z",
   "image": "https://dev.to/social_previews/article/803848.png",
   "author": "Lokesh_Choudhary",
-  "author_url": "https://dev.to/lokeshchoudharylc"
+  "author_url": "https://dev.to/lokeshchoudharylc",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JavaScriptのプロミスとは？           MDNによる定義: プロミスは、プロキシとしての...",
+      "title": "JavaScript Promises The Easy Way👨🎓🤓です。"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是JavaScript中的Promise。           MDN的定义：Promise是一个代理。",
+      "title": "承诺的简单方法👨🎓🤓。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是JavaScript中的Promise。           MDN的定義：Promise是一個代理。",
+      "title": "承諾的簡單方法👨🎓🤓。"
+    }
+  ]
 }
