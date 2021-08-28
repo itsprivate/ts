@@ -65,5 +65,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] フロリダ州沿岸に接近するハリケーン「ドリアン」の気圧をAndroid携帯電話で測定した結果"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC] 飓风多利安在接近佛罗里达州海岸时用安卓手机测量的气压值"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC] 颶風多利安在接近佛羅里達州海岸時用安卓手機測量的氣壓值"
+    }
+  ]
 }
