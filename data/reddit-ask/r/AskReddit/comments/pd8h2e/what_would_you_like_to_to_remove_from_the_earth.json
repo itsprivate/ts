@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "地球上から何を取り除きたいですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你想从地球上清除什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你想從地球上清除什麼？"
+    }
+  ]
 }
