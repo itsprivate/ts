@@ -50,5 +50,22 @@
   "original_created_at": "2021-08-26T14:07:42Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Y7Digyep--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/57e87nvcqhruv1l6tv4g.jpg",
   "author": "Pavel Lazarev",
-  "author_url": "https://dev.to/plazarev"
+  "author_url": "https://dev.to/plazarev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "フロントエンドを愛する皆さん、こんにちは。今回はフロントエンドに関連するニュースや最新情報をお届けします...",
+      "title": "2021年8月のJavaScriptニュース＆アップデート"
+    },
+    {
+      "locale": "zh",
+      "description": "所有的前端爱好者们，你们好! 我回来了，带来了一部分新的新闻和与之相关的更新。",
+      "title": "2021年8月的JavaScript新闻和更新"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "所有的前端愛好者們，你們好! 我回來了，帶來了一部分新的新聞和與之相關的更新。",
+      "title": "2021年8月的JavaScript新聞和更新"
+    }
+  ]
 }
