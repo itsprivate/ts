@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "桜を植えたり、鯉のぼりを立てたり、家を飾ったり、果物を採ったり......と、すべてがこのようになります。"
+    },
+    {
+      "locale": "zh",
+      "title": "你种植樱花，安装一个锦鲤池，装饰你的房子，收集水果......而这一切看起来就像这样。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你種植櫻花，安裝一個錦鯉池，裝飾你的房子，收集水果......而這一切看起來就像這樣。"
+    }
+  ]
 }
