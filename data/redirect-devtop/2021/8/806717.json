@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-29T03:18:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jsqg9fVr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/759xdiyobdlcabx23erq.png",
   "author": "Tapajyoti Bose",
-  "author_url": "https://dev.to/ruppysuppy"
+  "author_url": "https://dev.to/ruppysuppy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactアプリの作成は、経験豊富な開発者であっても非常に困難な作業です。それがきっかけで...",
+      "title": "ゼロからプロのようにReactアプリを作る"
+    },
+    {
+      "locale": "zh",
+      "description": "创建一个React应用程序是一个非常困难的壮举，即使你是一个经验丰富的开发者。这导致...",
+      "title": "像专业人士一样从零开始创建React应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "創建一個React應用程序是一個非常困難的壯舉，即使你是一個經驗豐富的開發者。這導致...",
+      "title": "像專業人士一樣從零開始創建React應用程序"
+    }
+  ]
 }
