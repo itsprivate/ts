@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-28T19:02:01Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--R1Cp_9kR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z6sd4fbd70dzj1ih4bbv.png",
   "author": "Shivam Gupta",
-  "author_url": "https://dev.to/shivambmgupta"
+  "author_url": "https://dev.to/shivambmgupta",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今回のブログでは、React/React-Nativeやその他のアプリケーションを使用する際のベストプラクティスをいくつか紹介します。",
+      "title": "Reactのベストプラクティス"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇博客中，我将解释在使用React/React-Native或任何其他软件时的一些最佳实践。",
+      "title": "最佳React实践"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇博客中，我將解釋在使用React/React-Native或任何其他軟件時的一些最佳實踐。",
+      "title": "最佳React實踐"
+    }
+  ]
 }
