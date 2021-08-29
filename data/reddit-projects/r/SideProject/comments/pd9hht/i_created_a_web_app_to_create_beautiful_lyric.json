@@ -11,5 +11,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "好きな曲から美しい歌詞カードを簡単に作れるウェブアプリを作りました"
+    },
+    {
+      "locale": "zh",
+      "title": "我创建了一个网络应用，可以轻松地从你喜欢的歌曲中创建美丽的抒情卡"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我創建了一個網絡應用，可以輕鬆地從你喜歡的歌曲中創建美麗的抒情卡"
+    }
+  ]
 }

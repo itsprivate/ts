@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Netflixは、あるコンピュータプログラム（ボット）に、すべてのラブコメを見て分析させ、自分でラブコメを書いてもらいました。その結果は...。"
+    },
+    {
+      "locale": "zh",
+      "title": "Netflix强迫一个计算机程序（bot）观看并分析每一部浪漫喜剧，然后要求它自己写一部浪漫喜剧。其结果是..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Netflix強迫一個計算機程序（bot）觀看並分析每一部浪漫喜劇，然後要求它自己寫一部浪漫喜劇。其結果是..."
+    }
+  ]
 }
