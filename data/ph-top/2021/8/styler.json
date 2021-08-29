@@ -82,5 +82,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-29T07:20:21Z"
+  "original_createdAt": "2021-08-29T07:20:21Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Stylerは、あなたのhashnodeブログを強化するために開発された、次世代のカスタムCSSビルダーです。ライブプレビュー、ダークモードサポート、ブレイクポイントサポート、テンプレートなど、あなたのブログを際立たせる素晴らしい機能を備えています。",
+      "tagline": "Hashnodeブログのためのウェブ上の次世代CSSビルダー"
+    },
+    {
+      "locale": "zh",
+      "description": "Styler是新一代的自定义CSS构建器，为你的hashnode博客增色不少。Styler具有强大的功能，如实时预览，支持黑暗模式，支持断点，模板和更多的功能，使你的博客脱颖而出。",
+      "tagline": "Hashnode博客的网络中的下一代CSS构建器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Styler是新一代的自定義CSS構建器，爲你的hashnode博客增色不少。Styler具有強大的功能，如實時預覽，支持黑暗模式，支持斷點，模板和更多的功能，使你的博客脫穎而出。",
+      "tagline": "Hashnode博客的網絡中的下一代CSS構建器"
+    }
+  ]
 }
