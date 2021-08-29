@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-28T07:23:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oV6QdGkR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/phm9w85asky1ja15jg4y.png",
   "author": "Yousuf Ejaz Ahmad",
-  "author_url": "https://dev.to/yousufejazahmad"
+  "author_url": "https://dev.to/yousufejazahmad",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ExpressJSの存在を評価する前に、ExpressJSなしでどのように物事が動いているのかを知る必要があります。その...",
+      "title": "Nodeを使ってHTTPサーバを構築する最も簡単な方法"
+    },
+    {
+      "locale": "zh",
+      "description": "在我们欣赏ExpressJS的存在之前，我们必须知道没有它，事情是如何进行的。这是个很好的例子。",
+      "title": "使用Node建立一个HTTP服务器的最简单方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在我們欣賞ExpressJS的存在之前，我們必須知道沒有它，事情是如何進行的。這是個很好的例子。",
+      "title": "使用Node建立一個HTTP服務器的最簡單方法"
+    }
+  ]
 }
