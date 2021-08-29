@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-27T17:14:02Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_CniIDDB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tlamz7uc9mji4viorxx4.jpeg",
   "author": "Rahul Banerjee",
-  "author_url": "https://dev.to/rahulbanerjee99"
+  "author_url": "https://dev.to/rahulbanerjee99",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "reactプロジェクトでAPIを使用することは、一般的なユースケースです。このチュートリアルでは、2つの...",
+      "title": "Reactの機能コンポーネントでAPIを利用する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "在你的react项目中使用API是一个常见的用例。在本教程中，我们将看到两个...",
+      "title": "如何用React功能组件使用API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在你的react項目中使用API是一個常見的用例。在本教程中，我們將看到兩個...",
+      "title": "如何用React功能組件使用API"
+    }
+  ]
 }
