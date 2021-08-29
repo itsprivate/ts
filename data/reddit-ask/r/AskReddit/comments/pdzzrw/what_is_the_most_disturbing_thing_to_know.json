@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "一番気になることは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "最令人不安的事情是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "最令人不安的事情是什麼？"
+    }
+  ]
 }
