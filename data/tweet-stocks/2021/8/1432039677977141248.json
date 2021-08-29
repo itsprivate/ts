@@ -63,5 +63,22 @@
     "retweet_count": 559,
     "favorite_count": 1834,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @RWMaloneMD: よし、ではちょっとWikipediaのウサギの穴に入ってみるのはどうだろう？ これで、このシステムがどれだけめちゃくちゃなのかがわかると思います。 誰がR...",
+      "retweeted_status_full_text": "さて、それではちょっとWikipediaのウサギの穴に行ってみませんか？ これで、このシステムがいかに混乱しているかがわかるでしょう。 ロバート・マローンとは？\nhttps://t.co/HmYWV4hiwS"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @RWMaloneMD: 好吧，那我们就在维基百科的兔子洞里呆一会儿如何？ 这将显示这个系统是多么混乱。 谁是R...",
+      "retweeted_status_full_text": "好吧，那我们先去维基百科的兔子洞里看看吧？ 这将表明这个系统是多么混乱。 谁是罗伯特-马龙？\nhttps://t.co/HmYWV4hiwS"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @RWMaloneMD: 好吧，那我們就在維基百科的兔子洞裏呆一會兒如何？ 這將顯示這個系統是多麼混亂。 誰是R...",
+      "retweeted_status_full_text": "好吧，那我們先去維基百科的兔子洞裏看看吧？ 這將表明這個系統是多麼混亂。 誰是羅伯特-馬龍？\nhttps://t.co/HmYWV4hiwS"
+    }
+  ]
 }
