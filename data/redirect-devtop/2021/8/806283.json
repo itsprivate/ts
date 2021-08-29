@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-28T12:38:23Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--x8PBvaXB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rpuzxh07r6v2mohhy2f7.png",
   "author": "Kelven Rubalaine",
-  "author_url": "https://dev.to/rubalaine"
+  "author_url": "https://dev.to/rubalaine",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Webサイトにダークモードを導入するには、シンプルなものから複雑なものまで、さまざまな方法があります。",
+      "title": "HTML、CSS、JavascriptのみでのDark/Lightテーマ切り替え機能"
+    },
+    {
+      "locale": "zh",
+      "description": "在网站上实现黑暗模式有不同的方法，从最简单的到最复杂的，...",
+      "title": "只用HTML、CSS和Javascript的深色/浅色主题切换器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在網站上實現黑暗模式有不同的方法，從最簡單的到最複雜的，...",
+      "title": "只用HTML、CSS和Javascript的深色/淺色主題切換器"
+    }
+  ]
 }
