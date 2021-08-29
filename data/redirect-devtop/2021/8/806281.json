@@ -43,5 +43,22 @@
   "original_created_at": "2021-08-28T12:33:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CXDy5MPZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gqbaattw0pkv3gld8wf6.jpeg",
   "author": "Navendu Pottekkat",
-  "author_url": "https://dev.to/navendu"
+  "author_url": "https://dev.to/navendu",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "オープンソースへの貢献は、学生のうちにスキルを身につけ、履歴書を作成するための最良の方法のひとつです...",
+      "title": "20以上のオープンソース・インターンシップ・プログラムに応募することができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "为开源做贡献是获得技能和建立学生简历的最佳方式之一。",
+      "title": "20多个你可以申请的开源实习项目"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "爲開源做貢獻是獲得技能和建立學生簡歷的最佳方式之一。",
+      "title": "20多個你可以申請的開源實習項目"
+    }
+  ]
 }
