@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "そこにある、そこにある。"
+    },
+    {
+      "locale": "zh",
+      "title": "就在那里，就在那里。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "就在那裏，就在那裏。"
+    }
+  ]
 }

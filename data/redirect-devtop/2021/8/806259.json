@@ -52,5 +52,22 @@
   "original_created_at": "2021-08-28T11:37:21Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--R9RRyDWr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n20fnx3e74uzks57zymi.jpg",
   "author": "Zoltán Szőgyényi",
-  "author_url": "https://dev.to/zolidev"
+  "author_url": "https://dev.to/zolidev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このチュートリアルでは、インタラクティブなWebアプリケーションを作るための方法を紹介しています。",
+      "title": "Laravel チュートリアル - Livewire を使って新しいページを作成し、データベースからユーザーをリストアップする"
+    },
+    {
+      "locale": "zh",
+      "description": "在本教程中，我将向你展示如何开始构建交互式网络应用程序。",
+      "title": "Laravel教程 - 使用Livewire创建一个新页面并从数据库中列出用户。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在本教程中，我將向你展示如何開始構建交互式網絡應用程序。",
+      "title": "Laravel教程 - 使用Livewire創建一個新頁面並從數據庫中列出用戶。"
+    }
+  ]
 }
