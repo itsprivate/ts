@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "それはフォージハンマーです。"
+    },
+    {
+      "locale": "zh",
+      "title": "嗯，那是一个锻造锤。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "嗯，那是一個鍛造錘。"
+    }
+  ]
 }
