@@ -43,5 +43,22 @@
   "original_created_at": "2021-08-29T17:39:57Z",
   "image": "https://dev.to/social_previews/article/807216.png",
   "author": "Karl Castillo",
-  "author_url": "https://dev.to/koralarts"
+  "author_url": "https://dev.to/koralarts",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今の時代、Webアプリケーションは、小さな画面から大きな画面まで、さまざまなサイズで表示されます。",
+      "title": "JSのメディアクエリ"
+    },
+    {
+      "locale": "zh",
+      "description": "在这个现代化的时代，你的网络应用可以在各种屏幕尺寸下观看 -- 从小到大。",
+      "title": "JS中的媒体查询"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這個現代化的時代，你的網絡應用可以在各種屏幕尺寸下觀看 -- 從小到大。",
+      "title": "JS中的媒體查詢"
+    }
+  ]
 }
