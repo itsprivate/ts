@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-29T18:05:51Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--e3gJHZtt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9q5ydb046koxazpph10r.png",
   "author": "Katsiaryna (Kate) Lupachova",
-  "author_url": "https://dev.to/ramonak"
+  "author_url": "https://dev.to/ramonak",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私の個人的なブログに掲載されたものです。 モチベーション 努力している開発者の一人として、私は...",
+      "title": "Next.js, Material UI, MongoDBパーソナルダッシュボード"
+    },
+    {
+      "locale": "zh",
+      "description": "原文发表于我的个人博客 激励 作为一个试图...",
+      "title": "Next.js, Material UI, MongoDB个人仪表板"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "原文發表於我的個人博客 激勵 作爲一個試圖...",
+      "title": "Next.js, Material UI, MongoDB個人儀表板"
+    }
+  ]
 }
