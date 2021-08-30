@@ -43,5 +43,22 @@
   "original_created_at": "2021-08-29T19:23:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vgTFaN9g--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zhigztzowso9siw7n3n9.png",
   "author": "Timothy Foster",
-  "author_url": "https://dev.to/auroratide"
+  "author_url": "https://dev.to/auroratide",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "どうやら、ベストタイプライターの称号を求めて、開発者たちの間である種の戦いが勃発したようです...。",
+      "title": "タイプライターなのに、HTMLもCSSもJSもないのか！？"
+    },
+    {
+      "locale": "zh",
+      "description": "很明显，一场关于最佳打字机称号的争夺战在开发者之间爆发了。",
+      "title": "一个打字机，但没有HTML、CSS或JS？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "很明顯，一場關於最佳打字機稱號的爭奪戰在開發者之間爆發了。",
+      "title": "一個打字機，但沒有HTML、CSS或JS？"
+    }
+  ]
 }
