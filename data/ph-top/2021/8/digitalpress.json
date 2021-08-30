@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-30T07:49:07Z"
+  "original_createdAt": "2021-08-30T07:49:07Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "自分のGhostブログでブログ記事を作成し、公開することができます。あなたのドメインでブログを立ち上げ、数秒で簡単にコンテンツを公開できます。",
+      "tagline": "無料のGhostブログホスティング"
+    },
+    {
+      "locale": "zh",
+      "description": "用你自己的Ghost博客创建和发布博文。在你的域名上启动一个博客，并在几秒钟内轻松发布内容。",
+      "tagline": "免费的Ghost博客托管"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "用你自己的Ghost博客創建和發佈博文。在你的域名上啓動一個博客，並在幾秒鐘內輕鬆發佈內容。",
+      "tagline": "免費的Ghost博客託管"
+    }
+  ]
 }
