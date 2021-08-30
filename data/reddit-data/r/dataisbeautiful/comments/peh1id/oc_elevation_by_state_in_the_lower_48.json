@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] Lower 48における州ごとの標高分布"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]低纬度地区各州的海拔高度"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]低緯度地區各州的海拔高度"
+    }
+  ]
 }
