@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-29T14:02:45Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cK1pA2y4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aoax5irkvxaqdoly6puo.png",
   "author": "Alvaro Montoro",
-  "author_url": "https://dev.to/alvaromontoro"
+  "author_url": "https://dev.to/alvaromontoro",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "タイプライター効果をCSSで共有した後、ChallengesCssが「CSS戦争」の太鼓を打ち鳴らして別の効果を作り、さらにInHuOfficialが飛びついて「タイプライタ」を準備している...。もうひとつのエントリーは、タイプライターの要素なしのアニメーションです。",
+      "title": "エレメントなしのタイプライターのアニメーション"
+    },
+    {
+      "locale": "zh",
+      "description": "在分享了CSS的打字机效果之后，ChallengesCss敲响了 \"CSS战争 \"的鼓点，创造了一个不同的效果，InHuOfficial也跳了进来，正在准备一个 \"打字机\"... 这里有另一个作品：一个打字机的无元素动画片",
+      "title": "动画的无元素打字机"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在分享了CSS的打字機效果之後，ChallengesCss敲響了 \"CSS戰爭 \"的鼓點，創造了一個不同的效果，InHuOfficial也跳了進來，正在準備一個 \"打字機\"... 這裏有另一個作品：一個打字機的無元素動畫片",
+      "title": "動畫的無元素打字機"
+    }
+  ]
 }

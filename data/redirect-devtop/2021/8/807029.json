@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-29T11:52:12Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WJFnlrct--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x5iyrweztrd3v19canck.png",
   "author": "Christine Coomans",
-  "author_url": "https://dev.to/christinecdev"
+  "author_url": "https://dev.to/christinecdev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "懐かしさのあまり、子供の頃の好きな思い出の一つに...。",
+      "title": "ポケモンをテーマにしたノートキープアプリをReactで作ってみよう!"
+    },
+    {
+      "locale": "zh",
+      "description": "我不知道我是否只是觉得有点怀旧，但我最喜欢的童年记忆之一是...",
+      "title": "让我们在React中制作一个以神奇宝贝为主题的记事本应用吧!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我不知道我是否只是覺得有點懷舊，但我最喜歡的童年記憶之一是...",
+      "title": "讓我們在React中製作一個以神奇寶貝爲主題的記事本應用吧!"
+    }
+  ]
 }
