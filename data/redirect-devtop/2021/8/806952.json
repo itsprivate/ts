@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-29T10:48:22Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--i4diRGw6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gao3acryrj14vrlx9h49.png",
   "author": "Shaan Alam",
-  "author_url": "https://dev.to/shaan71845"
+  "author_url": "https://dev.to/shaan71845",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "みなさん、こんにちは。「TypeScript」という名前は、Web制作に携わっている方なら一度は耳にしたことがあるのではないでしょうか。",
+      "title": "TypeScript入門」👩。"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，如果你对网络感兴趣，你可能已经听说过 \"TypeScript \"这个流行的名字。",
+      "title": "TypeScript简介 💻"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，如果你對網絡感興趣，你可能已經聽說過 \"TypeScript \"這個流行的名字。",
+      "title": "TypeScript簡介 💻"
+    }
+  ]
 }

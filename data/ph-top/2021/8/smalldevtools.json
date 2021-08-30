@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-30T08:37:51Z"
+  "original_createdAt": "2021-08-30T08:37:51Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "https://Smalldev.tools には、エンコード/デコード、最小化、ダミーデータセットのテストなど、開発者がよく行う作業を支援する20以上のツールが用意されています。",
+      "tagline": "便利な開発ツールと快適なインターフェイス"
+    },
+    {
+      "locale": "zh",
+      "description": "https://Smalldev.tools 提供了20多个工具，帮助开发人员完成常见的任务，如编码/解码、最小化、测试假数据集等。",
+      "tagline": "便捷的开发者工具和令人愉悦的界面"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "https://Smalldev.tools 提供了20多個工具，幫助開發人員完成常見的任務，如編碼/解碼、最小化、測試假數據集等。",
+      "tagline": "便捷的開發者工具和令人愉悅的界面"
+    }
+  ]
 }
