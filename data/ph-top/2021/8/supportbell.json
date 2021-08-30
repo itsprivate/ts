@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-30T07:01:00Z"
+  "original_createdAt": "2021-08-30T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "🔔 SlackでIntercom Conversation Ratingsの通知を受ける ⏩ サポートに不満のあるお客様にすぐに対応する。💬Slackでサポートチームのコラボレーションが可能になります。",
+      "tagline": "SlackでIntercomの評価とメトリクスを取得する"
+    },
+    {
+      "locale": "zh",
+      "description": "🔔 在Slack中获得有关Intercom对话评级的通知 ⏩ 对对你的支持不满意的客户立即作出反应。💬在Slack中为您的支持团队启用协作。",
+      "tagline": "在Slack中获取Intercom的评级和指标"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "🔔 在Slack中獲得有關Intercom對話評級的通知 ⏩ 對對你的支持不滿意的客戶立即作出反應。💬在Slack中爲您的支持團隊啓用協作。",
+      "tagline": "在Slack中獲取Intercom的評級和指標"
+    }
+  ]
 }
