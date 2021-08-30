@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私は蜘蛛が嫌いですが、この小さな男は超優秀です。"
+    },
+    {
+      "locale": "zh",
+      "title": "好吧，我讨厌蜘蛛，但这个小家伙是超级有才华的!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "好吧，我討厭蜘蛛，但這個小傢伙是超級有才華的!"
+    }
+  ]
 }
