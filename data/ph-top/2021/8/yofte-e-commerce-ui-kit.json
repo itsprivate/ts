@@ -83,5 +83,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-30T07:00:00Z"
+  "original_createdAt": "2021-08-30T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Yofteは、優れたコンバージョン率の高いEコマースサイトを作成するためのテンプレートです。https://shuffle.dev/marketplace/tailwind-ecommerce?ref=producthunt",
+      "tagline": "Tailwind CSSを利用した売れ筋店舗の作成"
+    },
+    {
+      "locale": "zh",
+      "description": "Yofte是一个用于创建出色的和转换的电子商务网站的模板。https://shuffle.dev/marketplace/tailwind-ecommerce?ref=producthunt。",
+      "tagline": "使用Tailwind CSS创建最畅销的商店"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Yofte是一個用於創建出色的和轉換的電子商務網站的模板。https://shuffle.dev/marketplace/tailwind-ecommerce?ref=producthunt。",
+      "tagline": "使用Tailwind CSS創建最暢銷的商店"
+    }
+  ]
 }
