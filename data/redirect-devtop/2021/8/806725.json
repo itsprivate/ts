@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-29T04:06:22Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--taxRkfo0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1564325724739-bae0bd08762c%3Fixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26ixlib%3Drb-1.2.1%26auto%3Dformat%26fit%3Dcrop%26w%3D1050%26q%3D80",
   "author": "Anish Kumar",
-  "author_url": "https://dev.to/anishkumar"
+  "author_url": "https://dev.to/anishkumar",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Memoizationは便利な概念です。これにより、時間のかかる計算や高価な計算を避けることができます。",
+      "title": "Javascriptでの非同期関数のメモ"
+    },
+    {
+      "locale": "zh",
+      "description": "Memoization是一个有用的概念。它有助于避免耗费时间或昂贵的计算，在它完成后...",
+      "title": "在Javascript中对异步函数进行记忆"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Memoization是一個有用的概念。它有助於避免耗費時間或昂貴的計算，在它完成後...",
+      "title": "在Javascript中對異步函數進行記憶"
+    }
+  ]
 }
