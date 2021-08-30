@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "不十分な社会的距離感と一時的な免疫力によるcovid-19の復活の確率的モデル。[OC]."
+    },
+    {
+      "locale": "zh",
+      "title": "由于社会距离不足和暂时的免疫力而导致的covid-19复发的随机模型。[OC]"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "由於社會距離不足和暫時的免疫力而導致的covid-19復發的隨機模型。[OC]"
+    }
+  ]
 }
