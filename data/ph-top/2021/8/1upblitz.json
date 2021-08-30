@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-30T08:21:01Z"
+  "original_createdAt": "2021-08-30T08:21:01Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "1UpBlitzはblitzjsで構築されたSaaSスターターで、60時間以上の作業を省くことができます。🤑 複数のプランの作成 💸 プランのアップグレードとダウングレード 🔐 チームとメンバー 🔐 認証 💪 エンドツーエンドでテスト済み 👉 コピーを入手するには: https://1upblitz.com",
+      "tagline": "blitzjsのSaaSスターター、60時間以上の作業時間を短縮"
+    },
+    {
+      "locale": "zh",
+      "description": "1UpBlitz是一个用blitzjs构建的SaaS启动器，将为你节省60多个小时的工作。🤑 创建多个计划 💸 计划升级和降级 👥 团队和成员 🔐 授权💪 端到端测试 👉 抓住你的副本：https://1upblitz.com",
+      "tagline": "blitzjs的SaaS启动器&节省60多个小时的工作"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "1UpBlitz是一個用blitzjs構建的SaaS啓動器，將爲你節省60多個小時的工作。🤑 創建多個計劃 💸 計劃升級和降級 👥 團隊和成員 🔐 授權💪 端到端測試 👉 抓住你的副本：https://1upblitz.com",
+      "tagline": "blitzjs的SaaS啓動器&節省60多個小時的工作"
+    }
+  ]
 }
