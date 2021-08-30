@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これは10代のラブストーリーですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "这是一个青少年的爱情故事吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是一個青少年的愛情故事嗎？"
+    }
+  ]
 }
