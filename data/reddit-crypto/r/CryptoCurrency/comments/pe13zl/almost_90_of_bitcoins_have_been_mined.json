@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインの約90％が採掘されました。"
+    },
+    {
+      "locale": "zh",
+      "title": "几乎90%的比特币已经被挖出来了!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "幾乎90%的比特幣已經被挖出來了!"
+    }
+  ]
 }
