@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Interested in seeing what people’s savings are looking like"
+  "the_new_excerpt": "Interested in seeing what people’s savings are looking like",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "みんなの貯金額を見て興味を持った",
+      "title": "あなたの年齢と貯金額は？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "有兴趣看看人们的储蓄是什么样子的",
+      "title": "你多大年纪，有多少钱的存款？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "有興趣看看人們的儲蓄是什麼樣子的",
+      "title": "你多大年紀，有多少錢的存款？"
+    }
+  ]
 }
