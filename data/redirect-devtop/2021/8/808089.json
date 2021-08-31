@@ -50,5 +50,22 @@
   "original_created_at": "2021-08-30T16:25:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_vwPSits--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/764jaeg3yvl50hcaq9tj.png",
   "author": "Keff",
-  "author_url": "https://dev.to/nombrekeff"
+  "author_url": "https://dev.to/nombrekeff",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "\"私はかなりの怠け者で、仕事を避けるためにはかなりの努力をする覚悟があります。\" マーティン...",
+      "title": "仕事をしないために仕事をする - 私のリファクタリングに対する考え方"
+    },
+    {
+      "locale": "zh",
+      "description": "\"我是一个相当懒惰的人，为了避免工作，我准备相当努力地工作。\" 马丁...",
+      "title": "我努力工作是为了避免工作 - 我对重构的看法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "\"我是一個相當懶惰的人，爲了避免工作，我準備相當努力地工作。\" 馬丁...",
+      "title": "我努力工作是爲了避免工作 - 我對重構的看法"
+    }
+  ]
 }
