@@ -83,5 +83,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-31T08:30:00Z"
+  "original_createdAt": "2021-08-31T08:30:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "スタートアップのための出版物です。",
+      "tagline": "創業者のブートストラップに特化した出版物"
+    },
+    {
+      "locale": "zh",
+      "description": "创业公司的出版物。",
+      "tagline": "致力于引导创始人的出版物"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "創業公司的出版物。",
+      "tagline": "致力於引導創始人的出版物"
+    }
+  ]
 }
