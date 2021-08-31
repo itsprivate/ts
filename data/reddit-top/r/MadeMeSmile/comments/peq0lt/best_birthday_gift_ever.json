@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今までで最高の誕生日プレゼント"
+    },
+    {
+      "locale": "zh",
+      "title": "有史以来最好的生日礼物"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有史以來最好的生日禮物"
+    }
+  ]
 }
