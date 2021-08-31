@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "酷いAWSのS3クローンに耐えられず、また別のクローンを作ってしまいました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我无法忍受所有可怕的AWS S3克隆，所以我又建了一个。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我無法忍受所有可怕的AWS S3克隆，所以我又建了一個。"
+    }
+  ]
 }
