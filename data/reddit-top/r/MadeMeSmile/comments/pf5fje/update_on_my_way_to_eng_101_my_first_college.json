@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "UPDATE: ENG 101に向かっています。15年前に挫折して学位取得を諦めて以来、初めての大学の授業です。"
+    },
+    {
+      "locale": "zh",
+      "title": "更新：我正在去上ENG 101的路上，这是我15年前失败并放弃学位后的第一堂大学课。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "更新：我正在去上ENG 101的路上，這是我15年前失敗並放棄學位後的第一堂大學課。"
+    }
+  ]
 }
