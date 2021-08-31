@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-30T06:54:12Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wJfOv1E---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4on8l6ra4tgxbmbl0utt.jpg",
   "author": "Alex Devero",
-  "author_url": "https://dev.to/alexdevero"
+  "author_url": "https://dev.to/alexdevero",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "開発者として、あなたは毎日、変数を使って仕事をしています。変数の面白いところは、その...",
+      "title": "良いJavaScriptの変数を作るための7つのプラクティス"
+    },
+    {
+      "locale": "zh",
+      "description": "作为一名开发人员，你每天都在与变量打交道。关于变量的一个有趣的事情是，它们可以在不同的地方使用。",
+      "title": "创建良好的JavaScript变量的7种做法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "作爲一名開發人員，你每天都在與變量打交道。關於變量的一個有趣的事情是，它們可以在不同的地方使用。",
+      "title": "創建良好的JavaScript變量的7種做法"
+    }
+  ]
 }
