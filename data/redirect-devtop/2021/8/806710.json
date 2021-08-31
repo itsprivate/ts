@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-29T02:35:26Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3PuurDLk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a4f4vyqeiwiw562kd9rx.png",
   "author": "Chris Hansen ",
-  "author_url": "https://dev.to/hyggedev"
+  "author_url": "https://dev.to/hyggedev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ビギナーなら誰でも経験したことがあるでしょう。HTML、CSS、Javascriptを効率的に使いこなせるようになると、...",
+      "title": "フロントエンド開発の練習に最適な、初心者に優しいAPI群 🧑💻をご紹介します。"
+    },
+    {
+      "locale": "zh",
+      "description": "每个初学者都有过这样的经历。一旦你真正开始在HTML、CSS和Javascript方面获得高效，...",
+      "title": "伟大的初学者友好的API，开始练习前端开发 🧑💻"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "每個初學者都有過這樣的經歷。一旦你真正開始在HTML、CSS和Javascript方面獲得高效，...",
+      "title": "偉大的初學者友好的API，開始練習前端開發 🧑💻"
+    }
+  ]
 }

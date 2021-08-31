@@ -41,5 +41,22 @@
   "original_created_at": "2021-08-30T22:29:08Z",
   "image": "https://dev.to/social_previews/article/808457.png",
   "author": "swyx",
-  "author_url": "https://dev.to/swyx"
+  "author_url": "https://dev.to/swyx",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "比較的新しいGitの機能で、実際にワクワクするもの",
+      "title": "Gitを初めてアップグレードする3つの理由"
+    },
+    {
+      "locale": "zh",
+      "description": "相对而言，Git的新功能实际上让我很兴奋",
+      "title": "有史以来第一次升级Git的3个理由"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "相對而言，Git的新功能實際上讓我很興奮",
+      "title": "有史以來第一次升級Git的3個理由"
+    }
+  ]
 }
