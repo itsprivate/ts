@@ -41,5 +41,22 @@
   "original_created_at": "2021-08-30T11:58:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sbALLQ9h--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u9mbiyk9d4skrkle5bgm.png",
   "author": "Ben Taylor",
-  "author_url": "https://dev.to/taybenlor"
+  "author_url": "https://dev.to/taybenlor",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私はWeb Componentsの大ファンで、とても便利です。しかし、あなたはこれまでに、Web Componentsを...",
+      "title": "Web Componentsのアイデア。if要素の作成"
+    },
+    {
+      "locale": "zh",
+      "description": "我是网络组件的一个大粉丝，它们超级有用。但你有没有想过把它们作为一种工具来使用呢？",
+      "title": "网络组件的想法。制作一个if元素"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我是網絡組件的一個大粉絲，它們超級有用。但你有沒有想過把它們作爲一種工具來使用呢？",
+      "title": "網絡組件的想法。製作一個if元素"
+    }
+  ]
 }
