@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-30T17:51:45Z",
   "image": "https://dev.to/social_previews/article/808260.png",
   "author": "Shreshth Goyal",
-  "author_url": "https://dev.to/shreshthgoyal"
+  "author_url": "https://dev.to/shreshthgoyal",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ユーザー認証は、ウェブアプリケーションを開発する際に不可欠な要素の一つです。しかし、私たちは...",
+      "title": "PostgreSQLを用いたNodeJSでのユーザ認証"
+    },
+    {
+      "locale": "zh",
+      "description": "用户认证是开发网络应用程序时不可或缺的部分之一。虽然我们可以...",
+      "title": "在NodeJS中使用PostgreSQL的用户授权"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "用戶認證是開發網絡應用程序時不可或缺的部分之一。雖然我們可以...",
+      "title": "在NodeJS中使用PostgreSQL的用戶授權"
+    }
+  ]
 }
