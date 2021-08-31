@@ -57,5 +57,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "This is plain wrong.\n\nOut of all blockchains, Stellar processes the most transactions.\n[https://stellar.expert] Yes, even higher than Ethereum.\n\nThe fees? Fraction of a cent. In terms of XLM, that is 0.00001 XLM/tx.\n\nAnd yes transactions include all kinds of operations including DEX trades.\n\nOther…"
+  "the_new_excerpt": "This is plain wrong.\n\nOut of all blockchains, Stellar processes the most transactions.\n[https://stellar.expert] Yes, even higher than Ethereum.\n\nThe fees? Fraction of a cent. In terms of XLM, that is 0.00001 XLM/tx.\n\nAnd yes transactions include all kinds of operations including DEX trades.\n\nOther…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "これは明らかに間違っています。\n\n全てのブロックチェーンの中で、ステラは最も多くのトランザクションを処理しています。\n[https://stellar.expert] そう、イーサリアムよりもさらに高い。\n\n手数料は？1セントの数分の1です。XLMに換算すると、0.00001XLM/txです。\n\nトランザクションには、DEXトレードを含むあらゆる種類の操作が含まれます。\n\nその他...",
+      "title": "イーサリアムのガス価格が高いのは、人々が使っているからであり、他のチェーンが同じトラフィックを被れば、料金も高くなるだろう"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这显然是错误的。\n\n在所有区块链中，Stellar处理的交易最多。\n[https://stellar.expert] 是的，甚至比以太坊还高。\n\n费用是多少？一分钱的零头。以XLM来说，就是0.00001 XLM/tx。\n\n是的，交易包括所有种类的操作，包括DEX交易。\n\n其他...",
+      "title": "以太坊气体价格高是因为人们在使用它，如果其他链遭受同样的流量，费用也会很高"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這顯然是錯誤的。\n\n在所有區塊鏈中，Stellar處理的交易最多。\n[https://stellar.expert] 是的，甚至比以太坊還高。\n\n費用是多少？一分錢的零頭。以XLM來說，就是0.00001 XLM/tx。\n\n是的，交易包括所有種類的操作，包括DEX交易。\n\n其他...",
+      "title": "以太坊氣體價格高是因爲人們在使用它，如果其他鏈遭受同樣的流量，費用也會很高"
+    }
+  ]
 }
