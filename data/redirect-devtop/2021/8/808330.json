@@ -41,5 +41,22 @@
   "original_created_at": "2021-08-30T21:23:07Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NdsLQlEA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z5ghu78d0lkdz5dsao1h.png",
   "author": "Ali Spittel",
-  "author_url": "https://dev.to/aspittel"
+  "author_url": "https://dev.to/aspittel",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私が初めてGraphQLを使ったのは、2015年の発売直後のプロジェクトで、正直なところ、私は...",
+      "title": "初心者のためのGraphQL完全ガイド"
+    },
+    {
+      "locale": "zh",
+      "description": "在2015年GraphQL推出后，我第一次在一个项目上使用它，说实话，我并没有...",
+      "title": "GraphQL的完整初学者指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在2015年GraphQL推出後，我第一次在一個項目上使用它，說實話，我並沒有...",
+      "title": "GraphQL的完整初學者指南"
+    }
+  ]
 }
