@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインには戦争や血が必要ではなく、コンセンサスとエネルギーが必要であり、世界で最も平和的な通貨ソリューションを生み出します。"
+    },
+    {
+      "locale": "zh",
+      "title": "比特币不需要战争和流血，它需要共识和能量，创造出世界上最和平的货币解决方案"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比特幣不需要戰爭和流血，它需要共識和能量，創造出世界上最和平的貨幣解決方案"
+    }
+  ]
 }
