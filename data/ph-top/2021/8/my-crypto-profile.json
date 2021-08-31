@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-31T13:00:00Z"
+  "original_createdAt": "2021-08-31T13:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "My Crypto Profileは、NFTのコレクションをTwitterで表示することができるブラウザ拡張機能です。- TwitterであなたのNFTをShillしたり、NFTアーティストを発見することができます - EthereumアドレスとTwitterアカウントを安全に接続します。",
+      "tagline": "TwitterのプロフィールにNFTを表示しよう 🖼 🐦"
+    },
+    {
+      "locale": "zh",
+      "description": "我的加密货币简介是一个浏览器扩展，允许你在Twitter上展示你的NFT收藏。- 在Twitter上展示你的NFT并发现NFT艺术家 - 以安全的方式连接以太坊地址和Twitter账户",
+      "tagline": "在你的Twitter上显示NFTs! 🖼 🐦"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我的加密貨幣簡介是一個瀏覽器擴展，允許你在Twitter上展示你的NFT收藏。- 在Twitter上展示你的NFT並發現NFT藝術家 - 以安全的方式連接以太坊地址和Twitter賬戶",
+      "tagline": "在你的Twitter上顯示NFTs! 🖼 🐦"
+    }
+  ]
 }
