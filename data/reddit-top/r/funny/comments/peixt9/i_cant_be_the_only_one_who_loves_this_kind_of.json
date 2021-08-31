@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このようなユーモアが好きなのは私だけではないはずです。"
+    },
+    {
+      "locale": "zh",
+      "title": "我不可能是唯一一个喜欢这种幽默的人。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我不可能是唯一一個喜歡這種幽默的人。"
+    }
+  ]
 }
