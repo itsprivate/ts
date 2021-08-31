@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "女性にどのような病気や症状が現れるのか、研究におけるジェンダーバイアスをどうやって解消するか。"
+    },
+    {
+      "locale": "zh",
+      "title": "我们如何才能阻止研究中对女性的疾病和症状表现的性别偏见？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們如何才能阻止研究中對女性的疾病和症狀表現的性別偏見？"
+    }
+  ]
 }
