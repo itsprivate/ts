@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-30T11:57:33Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--iFxmsQ6G--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9so3vjke4qflyqalecmd.png",
   "author": "Kai",
-  "author_url": "https://dev.to/kais_blog"
+  "author_url": "https://dev.to/kais_blog",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事はkais.blogに掲載されたものです。    ソフトウェア開発者として、ある一つのテーマがあります...",
+      "title": "テストを絶対に書いてはいけない5つの理由"
+    },
+    {
+      "locale": "zh",
+      "description": "这篇文章最初发表于kais.blog。    作为一名软件开发人员，有一个话题是...",
+      "title": "5个为什么你永远不应该写测试的原因"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這篇文章最初發表於kais.blog。    作爲一名軟件開發人員，有一個話題是...",
+      "title": "5個爲什麼你永遠不應該寫測試的原因"
+    }
+  ]
 }
