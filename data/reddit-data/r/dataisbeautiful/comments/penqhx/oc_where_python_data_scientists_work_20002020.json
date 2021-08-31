@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC】Pythonデータサイエンティストの活躍の場（2000年～2020年"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]Python数据科学家在哪里工作（2000-2020年"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]Python數據科學家在哪裏工作（2000-2020年"
+    }
+  ]
 }
