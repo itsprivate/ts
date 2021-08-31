@@ -91,5 +91,22 @@
     "retweet_count": 620,
     "favorite_count": 3920,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @100trillionUSD: 8月はさすがに終値 &gt;$47K?🤞。\nRT @100trillionUSD: 8月は確かに &gt;$47K?",
+      "retweeted_status_full_text": "8月は本当に$47Kに迫るのでしょうか🤞\n因みに、これらはワーストケース/フロア予想なので、9月の&gt;$43Kは気にしないでください。私はオプションにフロアのものを使用しています。https://t.co/HGXa5MMqH0"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @100trillionUSD: 8月是否真的会收盘&gt;4.7万美元?🤞\n我想说的是，这些都是最坏的情况/最低限度的估计，所以不要担心9月份的&gt;4.3万美元，我的基础数据。",
+      "retweeted_status_full_text": "8月是否真的会接近&gt;47K美元？\nBtw这些是最坏的情况/最低限度的估计，所以不要担心9月&gt;43K美元，我的基本情况预测是基于S2F：100K美元。我把底线的东西用于期权。https://t.co/HGXa5MMqH0"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @100trillionUSD: 8月是否真的會收盤&gt;4.7萬美元?🤞\n我想說的是，這些都是最壞的情況/最低限度的估計，所以不要擔心9月份的&gt;4.3萬美元，我的基礎數據。",
+      "retweeted_status_full_text": "8月是否真的會接近&gt;47K美元？\nBtw這些是最壞的情況/最低限度的估計，所以不要擔心9月&gt;43K美元，我的基本情況預測是基於S2F：100K美元。我把底線的東西用於期權。https://t.co/HGXa5MMqH0"
+    }
+  ]
 }
