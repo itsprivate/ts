@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-31T00:18:52Z",
   "image": "https://dev.to/social_previews/article/808479.png",
   "author": "Aya Bouchiha",
-  "author_url": "https://dev.to/ayabouchiha"
+  "author_url": "https://dev.to/ayabouchiha",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "10 awesome react libraries &amp;...",
+      "title": "10 Awesome React Libraries & Frameworks（素晴らしいReactライブラリとフレームワーク"
+    },
+    {
+      "locale": "zh",
+      "description": "10个很棒的反应库&amp;...",
+      "title": "10个了不起的React库和框架"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "10個很棒的反應庫&amp;...",
+      "title": "10個了不起的React庫和框架"
+    }
+  ]
 }
