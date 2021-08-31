@@ -82,5 +82,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-08-30T17:08:15Z"
+  "original_createdAt": "2021-08-30T17:08:15Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "MiniKeyは、二要素認証用の最もシンプルなワンタイムパスワードジェネレータです。MiniKeyはメニューバーに表示され、生成されたコードをワンクリックでコピーしたり、MiniKeyから認証アプリにコードをドラッグしたりすることができます。",
+      "tagline": "Mac用の最もシンプルな2FAアプリ"
+    },
+    {
+      "locale": "zh",
+      "description": "MiniKey是最简单的一次性密码生成器，用于双因素认证。MiniKey存在于你的菜单栏中，你可以通过点击复制生成的代码，并将代码从MiniKey拖入认证应用程序。",
+      "tagline": "适用于Mac的最简单的2FA应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "MiniKey是最簡單的一次性密碼生成器，用於雙因素認證。MiniKey存在於你的菜單欄中，你可以通過點擊複製生成的代碼，並將代碼從MiniKey拖入認證應用程序。",
+      "tagline": "適用於Mac的最簡單的2FA應用程序"
+    }
+  ]
 }
