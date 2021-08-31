@@ -149,5 +149,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "正直なところ、何が起こっているのかさっぱりわかりません"
+    },
+    {
+      "locale": "zh",
+      "title": "老实说，我不知道发生了什么事"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "老實說，我不知道發生了什麼事"
+    }
+  ]
 }
