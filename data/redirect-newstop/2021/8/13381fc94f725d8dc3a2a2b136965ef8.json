@@ -14,5 +14,19 @@
   "tags": [
     "CNN"
   ],
-  "image": "https://cdn.cnn.com/cnnnext/dam/assets/210831105720-paris-speed-limit-0830-super-tease.jpg"
+  "image": "https://cdn.cnn.com/cnnnext/dam/assets/210831105720-paris-speed-limit-0830-super-tease.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "パリでは、汚染防止のために時速30kmの速度制限を設けています。"
+    },
+    {
+      "locale": "zh",
+      "title": "巴黎踩下刹车，设定30公里/小时的限速，以减少污染"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "巴黎踩下剎車，設定30公里/小時的限速，以減少污染"
+    }
+  ]
 }
