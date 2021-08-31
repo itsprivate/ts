@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "BBC Radioは、2009年のクリスマス生放送で、RATMに悪口を言ってはいけないと言いました。その時の様子をご紹介します。"
+    },
+    {
+      "locale": "zh",
+      "title": "BBC电台告诉RATM，他们在2009年的圣诞直播中不允许骂人。事情是这样的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "BBC電臺告訴RATM，他們在2009年的聖誕直播中不允許罵人。事情是這樣的。"
+    }
+  ]
 }
