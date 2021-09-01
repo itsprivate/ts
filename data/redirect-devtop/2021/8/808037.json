@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-30T14:47:46Z",
   "image": "https://dev.to/social_previews/article/808037.png",
   "author": "IchiiP",
-  "author_url": "https://dev.to/ichii731"
+  "author_url": "https://dev.to/ichii731",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは。今回は、Laravelでかっこいい404/503...のエラーページを作ってみましょう。          エラーページの構造...",
+      "title": "Laravelでとてもクールな404/503エラーページを作成しよう"
+    },
+    {
+      "locale": "zh",
+      "description": "嗨，这一次，让我们用Laravel创建一个很酷的404/503...错误页面。          错误页面结构...",
+      "title": "用Laravel创建一个非常酷的404/503错误页面!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嗨，這一次，讓我們用Laravel創建一個很酷的404/503...錯誤頁面。          錯誤頁面結構...",
+      "title": "用Laravel創建一個非常酷的404/503錯誤頁面!"
+    }
+  ]
 }
