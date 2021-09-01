@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Tell me you're rich without telling me you're rich"
+    },
+    {
+      "locale": "zh",
+      "title": "告诉我你很有钱，而不告诉我你很有钱"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "告訴我你很有錢，而不告訴我你很有錢"
+    }
+  ]
 }
