@@ -14,5 +14,19 @@
   "tags": [
     "Newsweek"
   ],
-  "image": "https://d.newsweek.com/en/full/1884517/covid-19-tests.jpg"
+  "image": "https://d.newsweek.com/en/full/1884517/covid-19-tests.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ワクチンに耐性を持つとされる「Mu COVID」の変異体が39カ国で検出される"
+    },
+    {
+      "locale": "zh",
+      "title": "科学家担心会对疫苗产生抗药性的Mu COVID变种在39个国家被检测到"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "科學家擔心會對疫苗產生抗藥性的Mu COVID變種在39個國家被檢測到"
+    }
+  ]
 }
