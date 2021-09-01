@@ -150,5 +150,22 @@
     "retweet_count": 1877,
     "favorite_count": 10728,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @100trillionUSD: #Bitcoin 8月の終値 47,156ドル ... 時計のように https://t.co/3hkp71FTXo",
+      "retweeted_status_full_text": "#ビットコイン 8月の終値 47,156ドル ... 時計のように https://t.co/3hkp71FTXo"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @100trillionUSD: #比特币8月收盘价47,156美元 ......像时钟一样https://t.co/3hkp71FTXo",
+      "retweeted_status_full_text": "#比特币8月收盘价47,156美元......像时钟一样https://t.co/3hkp71FTXo"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @100trillionUSD: #比特幣8月收盤價47,156美元 ......像時鐘一樣https://t.co/3hkp71FTXo",
+      "retweeted_status_full_text": "#比特幣8月收盤價47,156美元......像時鐘一樣https://t.co/3hkp71FTXo"
+    }
+  ]
 }
