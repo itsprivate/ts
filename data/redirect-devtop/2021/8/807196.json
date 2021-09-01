@@ -52,5 +52,22 @@
   "original_created_at": "2021-08-29T16:40:12Z",
   "image": "https://dev.to/social_previews/article/807196.png",
   "author": "Mario Loncarek",
-  "author_url": "https://dev.to/marioloncarek"
+  "author_url": "https://dev.to/marioloncarek",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このブログ記事では、GitHubのリポジトリをランダムなプッシュから保護する方法を紹介します。",
+      "title": "GitHubプロジェクトをレビューされないコードから守り、コードレビュー文化を強制する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇博文中，我将向你展示一种保护GitHub仓库免遭随机推送的方法。",
+      "title": "如何保护GitHub项目不受未经审查的代码影响并强制执行代码审查文化"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇博文中，我將向你展示一種保護GitHub倉庫免遭隨機推送的方法。",
+      "title": "如何保護GitHub項目不受未經審查的代碼影響並強制執行代碼審查文化"
+    }
+  ]
 }
