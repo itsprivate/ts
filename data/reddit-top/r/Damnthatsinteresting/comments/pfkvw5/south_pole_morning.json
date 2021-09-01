@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "南極の朝"
+    },
+    {
+      "locale": "zh",
+      "title": "南极之晨"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "南極之晨"
+    }
+  ]
 }
