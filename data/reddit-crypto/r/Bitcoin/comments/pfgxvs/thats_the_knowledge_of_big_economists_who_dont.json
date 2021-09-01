@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "それは大物経済学者の知識であって、法定通貨が何であるかについては何も知らない #Bitcoin"
+    },
+    {
+      "locale": "zh",
+      "title": "这是大经济学家的知识，他们根本不知道什么是法定货币 #比特币"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是大經濟學家的知識，他們根本不知道什麼是法定貨幣 #比特幣"
+    }
+  ]
 }
