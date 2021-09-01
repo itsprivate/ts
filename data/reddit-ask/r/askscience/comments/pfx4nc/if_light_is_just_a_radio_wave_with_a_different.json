@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "光が周波数の違う電波だとすると、アンテナを使って可視光を作ることができるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果光只是一种频率不同的无线电波，那么可见光可以用天线来创造吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果光只是一種頻率不同的無線電波，那麼可見光可以用天線來創造嗎？"
+    }
+  ]
 }
