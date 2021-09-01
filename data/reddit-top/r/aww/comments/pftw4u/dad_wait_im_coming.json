@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"パパ待って！今行くよ！\""
+    },
+    {
+      "locale": "zh",
+      "title": "\"爸爸等等，我来了！\""
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"爸爸等等，我來了！\""
+    }
+  ]
 }
