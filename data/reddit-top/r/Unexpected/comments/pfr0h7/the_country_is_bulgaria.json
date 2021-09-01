@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "国はブルガリア"
+    },
+    {
+      "locale": "zh",
+      "title": "这个国家是保加利亚"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個國家是保加利亞"
+    }
+  ]
 }
