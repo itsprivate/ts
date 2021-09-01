@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "20年前には非常識だと思われていたことでも、現在では完全に合理的な文章を言うことができます。"
+    },
+    {
+      "locale": "zh",
+      "title": "今天你可能说的一个完全理性的句子是什么，如果在20年前说，会被认为是疯狂的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "今天你可能說的一個完全理性的句子是什麼，如果在20年前說，會被認爲是瘋狂的？"
+    }
+  ]
 }
