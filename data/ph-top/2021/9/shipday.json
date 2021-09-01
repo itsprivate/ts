@@ -104,5 +104,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-01T07:00:00Z"
+  "original_createdAt": "2021-09-01T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "自社の配送ドライバーや、DoorDashやUberなどのサードパーティの配送サービスを利用して、迅速なローカル配送を実現します。",
+      "tagline": "オンラインストア向けに統一されたローカルデリバリーAPI"
+    },
+    {
+      "locale": "zh",
+      "description": "使用您自己的送货司机或使用第三方送货服务（如DoorDash和Uber）实现快速的本地送货--所有这些都来自一个统一的平台。",
+      "tagline": "为网店提供统一的本地配送API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用您自己的送貨司機或使用第三方送貨服務（如DoorDash和Uber）實現快速的本地送貨--所有這些都來自一個統一的平臺。",
+      "tagline": "爲網店提供統一的本地配送API"
+    }
+  ]
 }
