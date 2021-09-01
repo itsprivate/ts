@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-25T16:32:43Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oir9XwHx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j6q2rh4bi4r3x0344wa4.png",
   "author": "Thomas Scott",
-  "author_url": "https://dev.to/anotherdevuser"
+  "author_url": "https://dev.to/anotherdevuser",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JetBrainsのすべてのIDEにバンドルされているGitプラグインは、非常に素晴らしいものです。",
+      "title": "内蔵のGitサポートを次のレベルにアップグレードする5つのJetBrainsプラグイン!\n"
+    },
+    {
+      "locale": "zh",
+      "description": "捆绑在所有JetBrains集成开发环境中的Git插件实际上是相当令人印象深刻的，它是一个完整的...",
+      "title": "5个JetBrains插件，将内置的Git支持升级到新的水平!\n"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "捆綁在所有JetBrains集成開發環境中的Git插件實際上是相當令人印象深刻的，它是一個完整的...",
+      "title": "5個JetBrains插件，將內置的Git支持升級到新的水平!\n"
+    }
+  ]
 }
