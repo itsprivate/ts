@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-31T03:03:32Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--APptFELD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cs8o172j8jff4kp6n9bc.jpg",
   "author": "Brian Ngamsom",
-  "author_url": "https://dev.to/ngamsomset"
+  "author_url": "https://dev.to/ngamsomset",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このブログでは、私がどのようにして関連する学位を持たずにフロントエンド開発者になったかを紹介します。私が就職したのは...",
+      "title": "独学で開発を始めた私の、ゼロから最初の開発者としての仕事までの道のり。"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇博客中，你会知道我是如何在没有任何相关学位的情况下成为一名前端开发者的。我登陆了...",
+      "title": "我作为一个自学成才的开发者，从零到第一个开发者工作的历程。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇博客中，你會知道我是如何在沒有任何相關學位的情況下成爲一名前端開發者的。我登陸了...",
+      "title": "我作爲一個自學成才的開發者，從零到第一個開發者工作的歷程。"
+    }
+  ]
 }
