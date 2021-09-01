@@ -14,5 +14,19 @@
   "tags": [
     "The New York Times"
   ],
-  "image": "https://static01.nyt.com/images/2021/09/01/world/01germany-campaign01/01germany-campaign01-facebookJumbo.jpg"
+  "image": "https://static01.nyt.com/images/2021/09/01/world/01germany-campaign01/01germany-campaign01-facebookJumbo.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ドイツでは選挙の季節です。No Charisma, Please!"
+    },
+    {
+      "locale": "zh",
+      "title": "现在是德国的选举季节。请不要有魅力!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "現在是德國的選舉季節。請不要有魅力!"
+    }
+  ]
 }

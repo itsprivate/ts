@@ -52,5 +52,22 @@
   "original_created_at": "2021-08-30T17:54:37Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RBNF3qfF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q0qgpr62qpvdyoqal68s.png",
   "author": "Jess Mitchell",
-  "author_url": "https://dev.to/gemontracks"
+  "author_url": "https://dev.to/gemontracks",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Daily Prebuiltの埋め込みと、任意のVueアプリへのカスタムビデオ通話コントロールの追加",
+      "title": "VueとDaily Prebuiltを使って、10分以内にリアルタイムのビデオチャットアプリを作ることができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "在任何Vue应用程序中嵌入日常预置和添加自定义视频通话控件",
+      "title": "用Vue和Daily Prebuilt在十分钟内构建一个实时视频聊天应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在任何Vue應用程序中嵌入日常預置和添加自定義視頻通話控件",
+      "title": "用Vue和Daily Prebuilt在十分鐘內構建一個實時視頻聊天應用程序"
+    }
+  ]
 }
