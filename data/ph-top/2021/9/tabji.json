@@ -57,5 +57,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-02T07:15:00Z"
+  "original_createdAt": "2021-09-02T07:15:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Tabjiは、保存されたセッションをクラウドで同期する、プライバシーファーストの軽量なThe Great Suspenderの代替製品です。サスペンドすることでタブのメモリ使用量を削減し、Chromeの新しいAPIを利用してパフォーマンスを向上させます。",
+      "tagline": "グレートサスペンダーに代わるモダンで軽量なアイテム"
+    },
+    {
+      "locale": "zh",
+      "description": "Tabji是一个隐私至上的轻量级替代The Great Suspender的工具，具有云同步保存会话的功能。它通过暂停你的标签来减少内存的使用，并依靠Chrome的新API来提高性能。",
+      "tagline": "大吊带的现代轻质替代品"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Tabji是一個隱私至上的輕量級替代The Great Suspender的工具，具有云同步保存會話的功能。它通過暫停你的標籤來減少內存的使用，並依靠Chrome的新API來提高性能。",
+      "tagline": "大吊帶的現代輕質替代品"
+    }
+  ]
 }
