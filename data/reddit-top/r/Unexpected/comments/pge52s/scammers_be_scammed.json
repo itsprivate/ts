@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Scammers be scammed."
+    },
+    {
+      "locale": "zh",
+      "title": "骗子们被骗了。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "騙子們被騙了。"
+    }
+  ]
 }
