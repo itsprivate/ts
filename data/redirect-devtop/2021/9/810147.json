@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-01T09:57:35Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3cQrTnIG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jfusb293mhqv5dso3a2p.png",
   "author": "Modern Web",
-  "author_url": "https://dev.to/kunaal438"
+  "author_url": "https://dev.to/kunaal438",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、ようこそ。今日のブログでは、完全に動作する素晴らしいタイル・ナビゲーション・システムの作り方をご紹介します。",
+      "title": "Tile Navigation - 2021年にHTML、CSS、JSでWebページ用のナビバーを作成する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，欢迎。在今天的博客中，我们将看到如何制作令人敬畏的完全工作的瓦片导航系统...",
+      "title": "瓦片导航 - 如何在2021年用HTML、CSS和JS制作网页导航条"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，歡迎。在今天的博客中，我們將看到如何製作令人敬畏的完全工作的瓦片導航系統...",
+      "title": "瓦片導航 - 如何在2021年用HTML、CSS和JS製作網頁導航條"
+    }
+  ]
 }
