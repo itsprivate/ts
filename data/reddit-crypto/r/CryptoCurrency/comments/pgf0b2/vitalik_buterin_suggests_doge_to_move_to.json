@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Vitalik Buterin氏は、DOGEがEthereumのコードを使ってProof-of-Stakeに移行することを提案しています。"
+    },
+    {
+      "locale": "zh",
+      "title": "Vitalik Buterin建议DOGE使用以太坊的代码，转而采用抽样证明。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Vitalik Buterin建議DOGE使用以太坊的代碼，轉而採用抽樣證明。"
+    }
+  ]
 }
