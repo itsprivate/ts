@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-01T11:21:44Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OMdehazI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vxr226zzy1d4jwrkj5lk.png",
   "author": "Roman Harmyder",
-  "author_url": "https://dev.to/harmyderoman"
+  "author_url": "https://dev.to/harmyderoman",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このライブラリに慣れていない方には、ぜひ試していただきたいと思います。なぜなら、このライブラリは、事実上の...",
+      "title": "Vue 3のための必須ライブラリとしてのVueUse"
+    },
+    {
+      "locale": "zh",
+      "description": "对于那些不熟悉这个库的人来说，我建议你尝试一下，因为它可以在事实上成为...",
+      "title": "VueUse是Vue 3的必备库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "對於那些不熟悉這個庫的人來說，我建議你嘗試一下，因爲它可以在事實上成爲...",
+      "title": "VueUse是Vue 3的必備庫"
+    }
+  ]
 }
