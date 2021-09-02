@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-31T13:14:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ahkoHNa3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vwpqm7lod8orc36d4wbk.png",
   "author": "Stefan Wright",
-  "author_url": "https://dev.to/stefanwrightcodes"
+  "author_url": "https://dev.to/stefanwrightcodes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ようこそ 私の職場では、ES6の移行を開始するにあたり、ES6の学習/再確認を求められています。",
+      "title": "ES6 - 初心者のためのガイド - ようこそ"
+    },
+    {
+      "locale": "zh",
+      "description": "欢迎 对于我的工作，我们被要求学习/重温ES6，因为我们开始转移...",
+      "title": "ES6 - 初学者指南 - 欢迎"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "歡迎 對於我的工作，我們被要求學習/重溫ES6，因爲我們開始轉移...",
+      "title": "ES6 - 初學者指南 - 歡迎"
+    }
+  ]
 }
