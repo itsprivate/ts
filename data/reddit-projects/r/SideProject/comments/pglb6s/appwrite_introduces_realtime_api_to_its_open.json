@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Appwrite Dashboard [https://i.redd.it/nsqqnfsn94l71.gif]\n\nI'm an Appwrite maintainer and we're happy to share that Appwrite 0.10 has just\nbeen released and adds support for one of our most requested features.\n\nAppwrite now comes with platform wide Realtime API that allows you to listen to\nany server…"
+  "the_new_excerpt": "Appwrite Dashboard [https://i.redd.it/nsqqnfsn94l71.gif]\n\nI'm an Appwrite maintainer and we're happy to share that Appwrite 0.10 has just\nbeen released and adds support for one of our most requested features.\n\nAppwrite now comes with platform wide Realtime API that allows you to listen to\nany server…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "Appwrite ダッシュボード [https://i.redd.it/nsqqnfsn94l71.gif]\n\n私はAppwriteのメンテナであり、Appwrite 0.10がリリースされたことを喜んで共有したいと思います。\nがリリースされ、最も要望の多かった機能の一つが追加されました。\n\nAppwriteには、プラットフォームワイドなRealtime APIが搭載されています。\nどんなサーバでも...",
+      "title": "Appwrite、オープンソースのFirebase代替製品にRealtime APIを導入"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "Appwrite仪表板 [https://i.redd.it/nsqqnfsn94l71.gif]\n\n我是Appwrite的维护者，我们很高兴地告诉大家，Appwrite 0.10已经发布了。\n已经发布了，并且增加了对我们最需要的功能之一的支持。\n\nAppwrite现在具有平台范围内的实时API，允许你监听\n任何服务器...",
+      "title": "Appwrite为其开源的Firebase替代品引入了实时API"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "Appwrite儀表板 [https://i.redd.it/nsqqnfsn94l71.gif]\n\n我是Appwrite的維護者，我們很高興地告訴大家，Appwrite 0.10已經發布了。\n已經發布了，並且增加了對我們最需要的功能之一的支持。\n\nAppwrite現在具有平臺範圍內的實時API，允許你監聽\n任何服務器...",
+      "title": "Appwrite爲其開源的Firebase替代品引入了實時API"
+    }
+  ]
 }
