@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ペットの鳥（ジャングル・マイナ）は、外に出て現金を探し、家に持って帰るように訓練されています。"
+    },
+    {
+      "locale": "zh",
+      "title": "宠物鸟，一只Jungle Myna，已经被训练成出去寻找现金，然后把它带回家。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "寵物鳥，一隻Jungle Myna，已經被訓練成出去尋找現金，然後把它帶回家。"
+    }
+  ]
 }

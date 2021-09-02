@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-28T14:21:08Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Dn2jtso8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2kpfkek15k957f3rc15a.png",
   "author": "Kingsley Ubah",
-  "author_url": "https://dev.to/ubahthebuilder"
+  "author_url": "https://dev.to/ubahthebuilder",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "目次 1. DOMとは？           2. DOM API 3. 私たちの...",
+      "title": "The Ultimate Tutorial on JavaScript DOM - JS DOM with Examples"
+    },
+    {
+      "locale": "zh",
+      "description": "目录 1. 什么是DOM？           2. DOM API 3. 我们的...",
+      "title": "脚本DOM的终极教程--JS DOM与实例"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "目錄 1. 什麼是DOM？           2. DOM API 3. 我們的...",
+      "title": "腳本DOM的終極教程--JS DOM與實例"
+    }
+  ]
 }
