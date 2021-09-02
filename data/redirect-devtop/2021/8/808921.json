@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-31T11:55:58Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wn0ai8zO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yp76gfce7cxo78i734a9.png",
   "author": "Mangabo Kolawole",
-  "author_url": "https://dev.to/koladev"
+  "author_url": "https://dev.to/koladev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Djangoアプリケーションを作成し、それをデプロイする準備ができましたか？  しかし、そのようなことはありません。",
+      "title": "AWS LightsailでDjangoアプリをデプロイする。Docker, Docker Compose, PostgreSQL, Nginx & Github Actions"
+    },
+    {
+      "locale": "zh",
+      "description": "所以你已经写好了你的Django应用程序，并准备部署它？  虽然有...",
+      "title": "在AWS Lightsail上部署一个Django应用程序。Docker, Docker Compose, PostgreSQL, Nginx & Github Actions"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "所以你已經寫好了你的Django應用程序，並準備部署它？  雖然有...",
+      "title": "在AWS Lightsail上部署一個Django應用程序。Docker, Docker Compose, PostgreSQL, Nginx & Github Actions"
+    }
+  ]
 }
