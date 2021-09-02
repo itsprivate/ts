@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-01T08:00:34Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4hegq6c3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/67ytufqa7mxbyeohefcv.png",
   "author": "Dev By RayRay",
-  "author_url": "https://dev.to/devbyrayray"
+  "author_url": "https://dev.to/devbyrayray",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Angularには、様々なタイプのObservableがありますが、それらを使用することができます。Subject、BehaviourSubject、...などを見たことがあるかもしれません。",
+      "title": "AngularでRxJS Subject, BehaviourSubject, ReplaySubject, AsyncSubject, Void Subjectを使用する場合"
+    },
+    {
+      "locale": "zh",
+      "description": "Angular有很多类型的Observables，你可以使用。也许你已经看到了Subject，BehaviourSubject，...",
+      "title": "什么时候在Angular中使用RxJS Subject、BehaviourSubject、ReplaySubject、AsyncSubject或Void Subject？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Angular有很多類型的Observables，你可以使用。也許你已經看到了Subject，BehaviourSubject，...",
+      "title": "什麼時候在Angular中使用RxJS Subject、BehaviourSubject、ReplaySubject、AsyncSubject或Void Subject？"
+    }
+  ]
 }
