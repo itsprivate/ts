@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "おばあちゃんが教えてくれました。"
+    },
+    {
+      "locale": "zh",
+      "title": "祖母教我这个"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "祖母教我這個"
+    }
+  ]
 }
