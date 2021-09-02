@@ -90,5 +90,22 @@
     "retweet_count": 158,
     "favorite_count": 996,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @Independent です。ビットコイン価格予測モデルが新記録の高値に向けて「時計のように」動いている #BTC https://t.co/vEUyBicTeh",
+      "retweeted_status_full_text": "ビットコイン価格予測モデルが新記録の高値に向けて「時計のように」動いている #BTC https://t.co/vEUyBicTeh"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @Independent: 比特币价格预测模型 \"像时钟一样 \"地运行，走向新的记录高点 #BTC https://t.co/vEUyBicTeh",
+      "retweeted_status_full_text": "比特币价格预测模型 \"像时钟一样 \"运行，走向新的记录高点 #BTC https://t.co/vEUyBicTeh"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @Independent: 比特幣價格預測模型 \"像時鐘一樣 \"地運行，走向新的記錄高點 #BTC https://t.co/vEUyBicTeh",
+      "retweeted_status_full_text": "比特幣價格預測模型 \"像時鐘一樣 \"運行，走向新的記錄高點 #BTC https://t.co/vEUyBicTeh"
+    }
+  ]
 }

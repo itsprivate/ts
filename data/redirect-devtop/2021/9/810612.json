@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-01T17:03:57Z",
   "image": "https://dev.to/social_previews/article/810612.png",
   "author": "Itay Schechner",
-  "author_url": "https://dev.to/itays123"
+  "author_url": "https://dev.to/itays123",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "もし、モーダルの制御が次のような効果を書くことで簡単にできたらどうでしょう。",
+      "title": "React.jsでモーダルを使う正しい方法（ゼロプロップドリリング"
+    },
+    {
+      "locale": "zh",
+      "description": "如果控制一个模态就像写下面的效果那样简单： const someModal =...",
+      "title": "在React.js中使用模式，正确的方法（ZERO道具演练）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果控制一個模態就像寫下面的效果那樣簡單： const someModal =...",
+      "title": "在React.js中使用模式，正確的方法（ZERO道具演練）。"
+    }
+  ]
 }
