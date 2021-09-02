@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-01T06:15:47Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FQgkXbK3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c54iorli2fec0b0gycdg.jpg",
   "author": "Christopher Glikpo",
-  "author_url": "https://dev.to/cglikpo"
+  "author_url": "https://dev.to/cglikpo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "良いプログラマーとは、一方通行の道路を渡る前に、常に両方の道を見る人のことです。~ダグ...",
+      "title": "優れたプログラマーになるためのヒント"
+    },
+    {
+      "locale": "zh",
+      "description": "一个好的程序员是一个在过单行道之前总是看两边的人。~Doug...",
+      "title": "成为一名优秀程序员的技巧"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個好的程序員是一個在過單行道之前總是看兩邊的人。~Doug...",
+      "title": "成爲一名優秀程序員的技巧"
+    }
+  ]
 }
