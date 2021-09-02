@@ -77,5 +77,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-02T12:45:10Z"
+  "original_createdAt": "2021-09-02T12:45:10Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Photureは、あなたのために作られたアプリです。写真を撮影し、1分以内にNFTに変換します。撮影したNFTは最大のマーケットプレイスで販売され、あなたの周りの環境を所有することができます。Evan MorrisとPatrick Pistorの2人の友人が、週末に開発・設計しました。",
+      "tagline": "NFTカメラ"
+    },
+    {
+      "locale": "zh",
+      "description": "Photure是一款为您打造的应用程序。捕捉照片并在一分钟内将其制作成NFT。在最大的市场上出售您的NFT，并掌握您周围环境的所有权。由两个朋友Evan Morris和Patrick Pistor在一个周末开发和设计。",
+      "tagline": "NFT相机"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Photure是一款爲您打造的應用程序。捕捉照片並在一分鐘內將其製作成NFT。在最大的市場上出售您的NFT，並掌握您周圍環境的所有權。由兩個朋友Evan Morris和Patrick Pistor在一個週末開發和設計。",
+      "tagline": "NFT相機"
+    }
+  ]
 }
