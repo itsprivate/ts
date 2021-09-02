@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Tezardは、Tezosの特別な何かの始まりです。"
+    },
+    {
+      "locale": "zh",
+      "title": "Tezzards是Tezos上特殊事物的开始"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Tezzards是Tezos上特殊事物的開始"
+    }
+  ]
 }
