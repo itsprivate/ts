@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-02T07:01:00Z"
+  "original_createdAt": "2021-09-02T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Analytics Packは、以下のコレクションです。📊 最も関連性の高い指標を集めたものです 🖼 グラフで説明されています 📚 記事で説明されています 📍 そして、それらをまとめるための理想的なトラッキングです Check it out 👉 https://www.analyticspack.com",
+      "tagline": "最高のスタートアップ・メトリクスのキュレーション・ディレクトリ"
+    },
+    {
+      "locale": "zh",
+      "description": "分析包是一个集合。📊最相关的指标 🖼用图表说明 📚通过文章解释 📍和理想的跟踪把它们放在一起 检查它 👉https://www.analyticspack.com",
+      "tagline": "精心策划的最佳初创企业指标目录"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "分析包是一個集合。📊最相關的指標 🖼用圖表說明 📚通過文章解釋 📍和理想的跟蹤把它們放在一起 檢查它 👉https://www.analyticspack.com",
+      "tagline": "精心策劃的最佳初創企業指標目錄"
+    }
+  ]
 }
