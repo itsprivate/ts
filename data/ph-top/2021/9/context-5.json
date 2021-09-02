@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-02T07:00:00Z"
+  "original_createdAt": "2021-09-02T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Contextは、自動化されたプロダクション変更ログ、注釈付きの決定履歴、パフォーマンスレポート、および通知により、製品チームが実際の顧客体験に近い状態を維持できるようにします。",
+      "tagline": "プロダクトチームのためのWayBackMachine"
+    },
+    {
+      "locale": "zh",
+      "description": "Context帮助产品团队通过自动生产变更日志、注释的决策历史、性能报告和通知，贴近他们的真实客户体验。",
+      "tagline": "产品团队的WayBackMachine"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Context幫助產品團隊通過自動生產變更日誌、註釋的決策歷史、性能報告和通知，貼近他們的真實客戶體驗。",
+      "tagline": "產品團隊的WayBackMachine"
+    }
+  ]
 }
