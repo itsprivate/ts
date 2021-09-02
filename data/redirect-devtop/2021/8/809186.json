@@ -50,5 +50,22 @@
   "original_created_at": "2021-08-31T16:32:43Z",
   "image": "https://dev.to/social_previews/article/809186.png",
   "author": "Jon Galloway",
-  "author_url": "https://dev.to/jongalloway"
+  "author_url": "https://dev.to/jongalloway",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Razorは、Webページに.NETベースのコードを埋め込むためのマークアップ構文です。Razorのマークアップ、C#、...が含まれます。",
+      "title": ".NETチームのお気に入りのRazorの機能"
+    },
+    {
+      "locale": "zh",
+      "description": "Razor是一种标记语法，用于将基于.NET的代码嵌入到网页中。它包括了Razor标记、C#、C++和C++语言。",
+      "title": ".NET团队最喜爱的Razor功能"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Razor是一種標記語法，用於將基於.NET的代碼嵌入到網頁中。它包括了Razor標記、C#、C++和C++語言。",
+      "title": ".NET團隊最喜愛的Razor功能"
+    }
+  ]
 }
