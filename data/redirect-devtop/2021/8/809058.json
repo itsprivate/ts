@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-31T12:51:18Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3343KI1f--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/97zcp0vrcxn1s69ie7yf.png",
   "author": "Ander Rodriguez",
-  "author_url": "https://dev.to/anderrv"
+  "author_url": "https://dev.to/anderrv",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Javascriptとウェブスクレイピングはどちらも増加傾向にあります。この2つを組み合わせて、シンプルなスクレーパーを作り、...",
+      "title": "JavascriptとNode.jsによるWebスクレイピング"
+    },
+    {
+      "locale": "zh",
+      "description": "Javascript和网络搜刮都在上升。我们将把它们结合起来，建立一个简单的搜刮器，并在此基础上建立一个新的网络。",
+      "title": "用Javascript和Node.js进行网络刮削"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Javascript和網絡搜刮都在上升。我們將把它們結合起來，建立一個簡單的搜刮器，並在此基礎上建立一個新的網絡。",
+      "title": "用Javascript和Node.js進行網絡刮削"
+    }
+  ]
 }
