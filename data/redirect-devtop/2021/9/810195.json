@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-01T10:09:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VteHsHAx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/90k58qyexrkx3suz79ol.png",
   "author": "Andrew Baisden",
-  "author_url": "https://dev.to/andrewbaisden"
+  "author_url": "https://dev.to/andrewbaisden",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "自分の記事に「いいね！」がゼロだったり、エンゲージメントが低かったりすると、自分が幽霊になったような気分になります。これは...",
+      "title": "あなたの記事が誰にも読まれない10の理由とその解決方法"
+    },
+    {
+      "locale": "zh",
+      "description": "当你的文章得到零点赞和低参与度时，你会觉得自己是一个幽灵。这是...",
+      "title": "没人阅读你的文章的10个原因以及如何解决这个问题"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當你的文章得到零點贊和低參與度時，你會覺得自己是一個幽靈。這是...",
+      "title": "沒人閱讀你的文章的10個原因以及如何解決這個問題"
+    }
+  ]
 }
