@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Was the convict's spouse also transported? If not, did the marriage remain\nintact or was each party free to marry someone else?"
+  "the_new_excerpt": "Was the convict's spouse also transported? If not, did the marriage remain\nintact or was each party free to marry someone else?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "囚人の配偶者も移送されたのか？そうでない場合、その結婚はそのままでしたか？\nていたのか、それともそれぞれが他の人と自由に結婚できたのか？",
+      "title": "大英帝国で流刑に処された人の配偶者はどうなったのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "罪犯的配偶是否也被运送？如果不是，婚姻是否保持完整？\n还是每一方都可以自由地与其他人结婚？",
+      "title": "在大英帝国被判处刑罚运输的人的配偶发生了什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "罪犯的配偶是否也被運送？如果不是，婚姻是否保持完整？\n還是每一方都可以自由地與其他人結婚？",
+      "title": "在大英帝國被判處刑罰運輸的人的配偶發生了什麼？"
+    }
+  ]
 }
