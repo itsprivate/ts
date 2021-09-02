@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "The Onionのお気に入りの記事は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你最喜欢《洋葱》的哪篇文章？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你最喜歡《洋蔥》的哪篇文章？"
+    }
+  ]
 }

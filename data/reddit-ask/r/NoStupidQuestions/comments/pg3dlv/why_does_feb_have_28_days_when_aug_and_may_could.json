@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "8月と5月は30日で済むのになぜ2月は28日なのか、その2日は2月に追加することができる。"
+    },
+    {
+      "locale": "zh",
+      "title": "为什么2月有28天，而8月和5月可以很容易地只有30天，而且这两天可以被附加到2月？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲什麼2月有28天，而8月和5月可以很容易地只有30天，而且這兩天可以被附加到2月？"
+    }
+  ]
 }
