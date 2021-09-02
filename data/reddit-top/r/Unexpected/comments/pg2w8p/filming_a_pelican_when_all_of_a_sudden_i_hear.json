@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ペリカンを撮影していたら、突然、隣で水しぶきが聞こえた"
+    },
+    {
+      "locale": "zh",
+      "title": "在拍摄一只鹈鹕时，突然听到旁边有水花飞溅的声音"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在拍攝一隻鵜鶘時，突然聽到旁邊有水花飛濺的聲音"
+    }
+  ]
 }
