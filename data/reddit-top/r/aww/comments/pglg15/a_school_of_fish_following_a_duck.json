@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "アヒルを追う魚の群れ"
+    },
+    {
+      "locale": "zh",
+      "title": "一群鱼跟着一只鸭子"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一羣魚跟着一隻鴨子"
+    }
+  ]
 }

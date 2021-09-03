@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "無料のコーヒーとミニマフィン"
+    },
+    {
+      "locale": "zh",
+      "title": "免费的咖啡和小松饼"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "免費的咖啡和小松餅"
+    }
+  ]
 }
