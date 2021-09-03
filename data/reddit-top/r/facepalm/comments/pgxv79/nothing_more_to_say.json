@@ -42,5 +42,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もう何も言うことはありません...。"
+    },
+    {
+      "locale": "zh",
+      "title": "没有什么可说的了..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "沒有什麼可說的了..."
+    }
+  ]
 }

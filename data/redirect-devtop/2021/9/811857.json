@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-02T19:37:37Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NGh6Yln9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rkxmoavjsiv4txeazpxo.png",
   "author": "Ujjwal (UG THE SEP)",
-  "author_url": "https://dev.to/ug"
+  "author_url": "https://dev.to/ug",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "COVID-19パンデミックの影響で、世界中がデジタルプラットフォームに移行し、ウェブサイトにも影響が出てきました。",
+      "title": "ウェブ開発を学ぶためのトップ5ウェブサイト "
+    },
+    {
+      "locale": "zh",
+      "description": "由于COVID-19大流行，整个世界已经转移到数字平台，这影响了网站。",
+      "title": "学习网页开发的五大网站 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "由於COVID-19大流行，整個世界已經轉移到數字平臺，這影響了網站。",
+      "title": "學習網頁開發的五大網站 "
+    }
+  ]
 }
