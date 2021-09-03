@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-02T06:31:39Z",
   "image": "https://dev.to/social_previews/article/811095.png",
   "author": "Bikash Mishra",
-  "author_url": "https://dev.to/forkbikash"
+  "author_url": "https://dev.to/forkbikash",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "React.useEffect()は、機能的なReactコンポーネントの副作用を管理するReactフックの1つです....。",
+      "title": "React.useEffect()の最後の手引き"
+    },
+    {
+      "locale": "zh",
+      "description": "React.useEffect()是React钩子之一，在功能性React组件中管理副作用....。",
+      "title": "React.useEffect()的最后一分钟指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "React.useEffect()是React鉤子之一，在功能性React組件中管理副作用....。",
+      "title": "React.useEffect()的最後一分鐘指南"
+    }
+  ]
 }
