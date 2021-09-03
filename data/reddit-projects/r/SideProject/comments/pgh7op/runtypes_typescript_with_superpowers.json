@@ -57,5 +57,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Hey everyone !\n\nI just published an article\n[https://blog.bam.tech/developer-news/domain-driven-design-how-to-define-and-validate-a-domain-with-typescript]\nabout branded-types in Typescript: you'll discover how to create stronger types\nwhile encapsulating your app specifications.\n\nFeel free to have…"
+  "the_new_excerpt": "Hey everyone !\n\nI just published an article\n[https://blog.bam.tech/developer-news/domain-driven-design-how-to-define-and-validate-a-domain-with-typescript]\nabout branded-types in Typescript: you'll discover how to create stronger types\nwhile encapsulating your app specifications.\n\nFeel free to have…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "皆さん、こんにちは。\n\n記事を公開しました。\n[https://blog.bam.tech/developer-news/domain-driven-design-how-to-define-and-validate-a-domain-with-typescript]\nアプリの仕様をカプセル化しながら、より強力なタイプを作成する方法を紹介しています。\nアプリの仕様をカプセル化しながら、より強力な型を作る方法を紹介しています。\n\nご自由にお読みください...",
+      "title": "Runtypes: スーパーパワーを持つタイプスクリプト。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "大家好 !\n\n我刚刚发表了一篇文章\n[https://blog.bam.tech/developer-news/domain-driven-design-how-to-define-and-validate-a-domain-with-typescript]\n关于Typescript中的branded-types：你会发现如何创建更强大的类型\n同时封装你的应用程序规格。\n\n请随意...",
+      "title": "Runtypes。具有超能力的类型。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "大家好 !\n\n我剛剛發表了一篇文章\n[https://blog.bam.tech/developer-news/domain-driven-design-how-to-define-and-validate-a-domain-with-typescript]\n關於Typescript中的branded-types：你會發現如何創建更強大的類型\n同時封裝你的應用程序規格。\n\n請隨意...",
+      "title": "Runtypes。具有超能力的類型。"
+    }
+  ]
 }
