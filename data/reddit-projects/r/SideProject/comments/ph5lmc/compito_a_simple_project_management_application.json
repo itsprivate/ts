@@ -52,5 +52,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Compito is a simple and no BS project management application. Its Open source\nand built using technologies like Angular, Nest, Prisma, Postgres, etc.\n\nWith support for multiple orgs and role-based access, you can easily segregate\nthe projects.\n\nProduct Hunt:…"
+  "the_new_excerpt": "Compito is a simple and no BS project management application. Its Open source\nand built using technologies like Angular, Nest, Prisma, Postgres, etc.\n\nWith support for multiple orgs and role-based access, you can easily segregate\nthe projects.\n\nProduct Hunt:…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "Compitoは、シンプルで無駄のないプロジェクト管理アプリケーションです。オープンソースです。\nAngular, Nest, Prisma, Postgresなどの技術を使って構築されています。\n\n複数の組織とロールベースのアクセスをサポートすることで、プロジェクトを簡単に分離することができます。\nプロジェクトを分離することができます。\n\nProduct Hunt:...",
+      "title": "Compito - シンプルなプロジェクト管理アプリケーション(100%オープンソース)"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "Compito是一个简单的，没有任何废话的项目管理应用程序。它的开放源码\n并使用Angular、Nest、Prisma、Postgres等技术构建。\n\n由于支持多个机构和基于角色的访问，你可以很容易地隔离\n项目。\n\n产品搜索：...",
+      "title": "Compito - 一个简单的项目管理应用程序（100%开源）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "Compito是一個簡單的，沒有任何廢話的項目管理應用程序。它的開放源碼\n並使用Angular、Nest、Prisma、Postgres等技術構建。\n\n由於支持多個機構和基於角色的訪問，你可以很容易地隔離\n項目。\n\n產品搜索：...",
+      "title": "Compito - 一個簡單的項目管理應用程序（100%開源）。"
+    }
+  ]
 }
