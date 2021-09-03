@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今は息子の時代だ。"
+    },
+    {
+      "locale": "zh",
+      "title": "现在是你的时间，儿子。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "現在是你的時間，兒子。"
+    }
+  ]
 }
