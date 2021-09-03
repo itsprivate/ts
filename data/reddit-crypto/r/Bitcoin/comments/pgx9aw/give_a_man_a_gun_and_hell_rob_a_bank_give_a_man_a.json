@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "人に銃を与えれば銀行を襲い、人に銀行を与えれば世界を襲う。"
+    },
+    {
+      "locale": "zh",
+      "title": "给人一把枪，他就会抢劫银行；给人一家银行，他就会抢劫全世界。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "給人一把槍，他就會搶劫銀行；給人一家銀行，他就會搶劫全世界。"
+    }
+  ]
 }
