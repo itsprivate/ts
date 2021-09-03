@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "WatchVideoByLink: ビデオを含むサポートされている公開URLを取得し、MP4/WebM/HLS/MPEG-DASHビデオタイプの視聴/ダウンロードが可能なカスタムビデオプレーヤーに表示します。"
+    },
+    {
+      "locale": "zh",
+      "title": "WatchVideoByLink：获取支持的包含视频的公开可用的URL，并将其放入一个自定义的视频播放器，能够观看/下载MP4/WebM/HLS/MPEG-DASH视频类型。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "WatchVideoByLink：獲取支持的包含視頻的公開可用的URL，並將其放入一個自定義的視頻播放器，能夠觀看/下載MP4/WebM/HLS/MPEG-DASH視頻類型。"
+    }
+  ]
 }
