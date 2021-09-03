@@ -14,5 +14,19 @@
   "tags": [
     "Fox News"
   ],
-  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/09/New-Zealand-terror-attack-supermarket.jpg"
+  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/09/New-Zealand-terror-attack-supermarket.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ニュージーランド当局によると、イスラム教のテロリストがスーパーマーケットで6人を刺殺し、容疑者は死亡。"
+    },
+    {
+      "locale": "zh",
+      "title": "新西兰当局称伊斯兰恐怖分子在超市刺伤6人，嫌犯已死亡"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "新西蘭當局稱伊斯蘭恐怖分子在超市刺傷6人，嫌犯已死亡"
+    }
+  ]
 }
