@@ -13,5 +13,19 @@
   ],
   "objectID": "28397893",
   "original_created_at": "2021-09-02T21:57:27.000Z",
-  "image": "https://joker-lang.org/images/logo.svg"
+  "image": "https://joker-lang.org/images/logo.svg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ジョーカー Goで書かれたClojureの小さなインタプリタ型方言です。"
+    },
+    {
+      "locale": "zh",
+      "title": "小丑。用Go编写的Clojure的小型解释方言"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "小丑。用Go編寫的Clojure的小型解釋方言"
+    }
+  ]
 }
