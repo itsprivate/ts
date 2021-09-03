@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-02T07:58:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Rsc0WfV8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://blog.shahednasser.com/static/575f09aa1b1fb35308181d2a3f70cf12/ferenc-almasi-c8h0n7fSTqs-unsplash-2.jpg",
   "author": "Shahed Nasser",
-  "author_url": "https://dev.to/shahednasser"
+  "author_url": "https://dev.to/shahednasser",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事は、私の個人ブログに掲載されたものです。 国際化（i18n）は、...",
+      "title": "Reactアプリを国際化する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "这篇文章最初发表在我的个人博客上 国际化，或称i18n，是...",
+      "title": "如何使React应用程序国际化"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這篇文章最初發表在我的個人博客上 國際化，或稱i18n，是...",
+      "title": "如何使React應用程序國際化"
+    }
+  ]
 }
