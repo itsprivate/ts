@@ -87,5 +87,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-03T08:10:00Z"
+  "original_createdAt": "2021-09-03T08:10:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "https://valuenetwork.live/ は、ブロックチェーン技術により、予測市場のパラダイムを完全に変えるDeFiサービスです。このプラットフォームはP2Pの原理で構築されており、QTUMブロックチェーン、Ethereum、BSC、そして価格のオラクルとしてChainlinkを使用しています。",
+      "tagline": "予測市場をプロに信頼される道具にする"
+    },
+    {
+      "locale": "zh",
+      "description": "https://valuenetwork.live/ 是DeFi服务，由于区块链技术，完全改变了预测市场的范式。该平台建立在P2P原则之上，并基于QTUM区块链、以太坊、BSC和Chainlink作为价格神谕。",
+      "tagline": "我们使预测市场成为专业的、值得信赖的工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "https://valuenetwork.live/ 是DeFi服務，由於區塊鏈技術，完全改變了預測市場的範式。該平臺建立在P2P原則之上，並基於QTUM區塊鏈、以太坊、BSC和Chainlink作爲價格神諭。",
+      "tagline": "我們使預測市場成爲專業的、值得信賴的工具"
+    }
+  ]
 }
