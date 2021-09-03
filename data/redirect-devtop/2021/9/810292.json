@@ -52,5 +52,22 @@
   "original_created_at": "2021-09-01T13:20:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5xaLG_PJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9lp59usf20oy3w9olpfe.jpg",
   "author": "Hiep Le",
-  "author_url": "https://dev.to/hieptl"
+  "author_url": "https://dev.to/hieptl",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あなたが作るもの Demo, Git Repo Here.   図 1.1 Facebook クローン 図 1.2. The Chat...",
+      "title": "Next.jsでSNSを構築する方法（Facebookクローン"
+    },
+    {
+      "locale": "zh",
+      "description": "你要建造的东西。演示，Git Repo在这里。  图1.1 Facebook的克隆 图1.2. 聊天室...",
+      "title": "如何用Next.js（Facebook克隆）建立一个社交网站"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你要建造的東西。演示，Git Repo在這裏。  圖1.1 Facebook的克隆 圖1.2. 聊天室...",
+      "title": "如何用Next.js（Facebook克隆）建立一個社交網站"
+    }
+  ]
 }
