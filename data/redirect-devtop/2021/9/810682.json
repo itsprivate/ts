@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-01T19:23:22Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HZHmzZdg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vbnj1feoymgt2gwmf68e.png",
   "author": "crackingdemon",
-  "author_url": "https://dev.to/crackingdemon"
+  "author_url": "https://dev.to/crackingdemon",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "🎇 MERNとは、MongoDB、Express、React、Nodeの4つを足してスタックを作ったものです。",
+      "title": "MERNスタックの登録・ログインシステム "
+    },
+    {
+      "locale": "zh",
+      "description": "🎇MERN代表MongoDB、Express、React、Node这四样东西加起来就成了堆栈。而...",
+      "title": "MERN堆栈的注册和登录系统 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "🎇MERN代表MongoDB、Express、React、Node這四樣東西加起來就成了堆棧。而...",
+      "title": "MERN堆棧的註冊和登錄系統 "
+    }
+  ]
 }
