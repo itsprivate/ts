@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-01T17:08:51Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--q70XgU7s--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y34jenkqbt9u0oc5y4bz.png",
   "author": "Anjan Shomooder",
-  "author_url": "https://dev.to/thatanjan"
+  "author_url": "https://dev.to/thatanjan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Material-uiは、Googleが開発したMaterial Designをベースにした、react用のUIフレームワークです。 I...",
+      "title": "私がMaterial-UIを愛する10の理由"
+    },
+    {
+      "locale": "zh",
+      "description": "Material-ui是一个基于Material Design的反应式UI框架，由Google开发。 I...",
+      "title": "我喜欢Material-UI的10个原因"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Material-ui是一個基於Material Design的反應式UI框架，由Google開發。 I...",
+      "title": "我喜歡Material-UI的10個原因"
+    }
+  ]
 }
