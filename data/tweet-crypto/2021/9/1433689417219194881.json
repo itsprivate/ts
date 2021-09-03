@@ -134,5 +134,22 @@
     "retweet_count": 161,
     "favorite_count": 1586,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @WClementeIII: SOPRは、市場全体のトレンドが強気であることを確認しています。https://t.co/qt2zCBn86Y",
+      "retweeted_status_full_text": "SOPRは、市場全体のトレンドが強気であることを確認 https://t.co/qt2zCBn86Y。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @WClementeIII: SOPR确认大盘趋势看涨。https://t.co/qt2zCBn86Y",
+      "retweeted_status_full_text": "SOPR确认大的市场趋势是看涨的。https://t.co/qt2zCBn86Y"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @WClementeIII: SOPR確認大盤趨勢看漲。https://t.co/qt2zCBn86Y",
+      "retweeted_status_full_text": "SOPR確認大的市場趨勢是看漲的。https://t.co/qt2zCBn86Y"
+    }
+  ]
 }
