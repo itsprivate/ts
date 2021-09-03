@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-03T07:01:00Z"
+  "original_createdAt": "2021-09-03T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "カプセルは、企業がプロ並みの短編動画を収集し、演出するのに役立ちます。企業向けのTikTokのようなものです。",
+      "tagline": "企業向けTikTok"
+    },
+    {
+      "locale": "zh",
+      "description": "Capsule帮助企业收集和指导专业的短视频。像TikTok一样，为企业服务。",
+      "tagline": "企业的TikTok"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Capsule幫助企業收集和指導專業的短視頻。像TikTok一樣，爲企業服務。",
+      "tagline": "企業的TikTok"
+    }
+  ]
 }
