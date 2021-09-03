@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-03T07:00:00Z"
+  "original_createdAt": "2021-09-03T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "FlterSSは、画像フィルターのCSSコードを素早く取得し、ウェブアプリケーション/プロジェクトに配置するツールです。",
+      "tagline": "CSS画像効果の厳選されたリスト"
+    },
+    {
+      "locale": "zh",
+      "description": "FlterSS是一个工具，可以快速抓取图像过滤器的CSS代码，并将其放在你的网络应用程序/项目中。",
+      "tagline": "一个精心策划的CSS图像效果列表"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "FlterSS是一個工具，可以快速抓取圖像過濾器的CSS代碼，並將其放在你的網絡應用程序/項目中。",
+      "tagline": "一個精心策劃的CSS圖像效果列表"
+    }
+  ]
 }
