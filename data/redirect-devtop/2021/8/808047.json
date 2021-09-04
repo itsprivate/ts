@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-30T15:08:42Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pglrmkxh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yq1ac4qmwsy3lodh51du.png",
   "author": "Palash Mondal",
-  "author_url": "https://dev.to/palashmon"
+  "author_url": "https://dev.to/palashmon",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは👋 今日は、Array sort()メソッドの最も一般的な使用例を紹介したいと思います...",
+      "title": "JavaScriptのArray sort()メソッドの使用例トップ7"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好 👋 今天我想分享一下Array sort()方法的一些最常见的使用情况。",
+      "title": "7大JavaScript数组sort()方法使用案例"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好 👋 今天我想分享一下Array sort()方法的一些最常見的使用情況。",
+      "title": "7大JavaScript數組sort()方法使用案例"
+    }
+  ]
 }
