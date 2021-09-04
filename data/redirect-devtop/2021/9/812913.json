@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-03T20:02:47Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7PENXYJh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lrroeq8v7iw087iddg43.png",
   "author": "Shahid Rizwan",
-  "author_url": "https://dev.to/shaedrizwan"
+  "author_url": "https://dev.to/shaedrizwan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "バックエンドからデータを取得することは、ウェブアプリケーションの重要な部分のひとつです。すべての...",
+      "title": "Reactでデータを取得するためのカスタムフックの構築"
+    },
+    {
+      "locale": "zh",
+      "description": "从后端获取数据是网络应用的关键部分之一。对于每一个...",
+      "title": "在React中构建自定义钩子来获取数据"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "從後端獲取數據是網絡應用的關鍵部分之一。對於每一個...",
+      "title": "在React中構建自定義鉤子來獲取數據"
+    }
+  ]
 }
