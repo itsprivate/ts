@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この男は、この小さな入口を通って、洞窟を探検している。"
+    },
+    {
+      "locale": "zh",
+      "title": "这个人通过这个小入口去探索一个山洞"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個人通過這個小入口去探索一個山洞"
+    }
+  ]
 }
