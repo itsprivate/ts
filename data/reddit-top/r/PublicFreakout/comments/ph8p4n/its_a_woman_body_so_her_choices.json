@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "女性の体だからこその選択"
+    },
+    {
+      "locale": "zh",
+      "title": "这是一个女人的身体，所以她的选择"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是一個女人的身體，所以她的選擇"
+    }
+  ]
 }
