@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ロッキー・バルボアが語るビットコインの物語"
+    },
+    {
+      "locale": "zh",
+      "title": "Rocky Balboa讲述的比特币故事"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Rocky Balboa講述的比特幣故事"
+    }
+  ]
 }
