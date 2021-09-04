@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-04T07:01:00Z"
+  "original_createdAt": "2021-09-04T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ウェブ上で厳選された200以上のブロックチェーンリソースの包括的なリストです。",
+      "tagline": "ブロックチェーンリソースの最大のリスト"
+    },
+    {
+      "locale": "zh",
+      "description": "从网络上精心挑选的200多个最佳区块链资源的综合清单",
+      "tagline": "最大的区块链资源清单"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "從網絡上精心挑選的200多個最佳區塊鏈資源的綜合清單",
+      "tagline": "最大的區塊鏈資源清單"
+    }
+  ]
 }
