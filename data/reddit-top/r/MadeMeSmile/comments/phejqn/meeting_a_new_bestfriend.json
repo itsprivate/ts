@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "新しいベストフレンドとの出会い"
+    },
+    {
+      "locale": "zh",
+      "title": "认识一个新的好朋友"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "認識一個新的好朋友"
+    }
+  ]
 }
