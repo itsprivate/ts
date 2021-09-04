@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-03T09:31:14Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nZsg9ZEE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oujuvj8caot7c79i3v65.jpg",
   "author": "Barbara (dev)",
-  "author_url": "https://dev.to/barbara"
+  "author_url": "https://dev.to/barbara",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Unixは1973年10月に発売されました。現在、Unixをベースにした様々なバージョンがあります。その中でも最も...",
+      "title": "UNIXコマンドチートシート"
+    },
+    {
+      "locale": "zh",
+      "description": "Unix于1973年10月发布。今天，有许多基于Unix的不同版本。最...",
+      "title": "UNIX命令小抄"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Unix於1973年10月發佈。今天，有許多基於Unix的不同版本。最...",
+      "title": "UNIX命令小抄"
+    }
+  ]
 }
