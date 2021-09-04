@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これは最大の皮肉である。"
+    },
+    {
+      "locale": "zh",
+      "title": "这将是最大的讽刺"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這將是最大的諷刺"
+    }
+  ]
 }

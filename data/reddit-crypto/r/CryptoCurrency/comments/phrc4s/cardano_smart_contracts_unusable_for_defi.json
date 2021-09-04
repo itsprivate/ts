@@ -32,5 +32,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "So apparently early DeFi projects running on the cardano testnet network are not\nable to properly operate DeFi transactions due the limitations that cardano has\nwhich only allow 1 transaction to process per block.\n\nSome users have already reported problems occur with the first Cardano…"
+  "the_new_excerpt": "So apparently early DeFi projects running on the cardano testnet network are not\nable to properly operate DeFi transactions due the limitations that cardano has\nwhich only allow 1 transaction to process per block.\n\nSome users have already reported problems occur with the first Cardano…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "カルダノのテストネットネットワーク上で実行されている初期のDeFiプロジェクトは、カルダノの制限により\nカルダノの制限により、DeFiトランザクションを適切に運営することができない。\nブロックごとに1つのトランザクションしか処理できません。\n\n一部のユーザーは、すでに最初のカルダノ...",
+      "title": "CardanoスマートコントラクトがDeFiで使えない"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "因此，显然早期的DeFi项目在cardano testnet网络上运行时不能\n由于Cardano的限制，无法正常操作DeFi交易。\n每个区块只允许处理一个交易。\n\n一些用户已经报告了问题发生在第一个Cardano...",
+      "title": "Cardano智能合约无法用于DeFi"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "因此，顯然早期的DeFi項目在cardano testnet網絡上運行時不能\n由於Cardano的限制，無法正常操作DeFi交易。\n每個區塊只允許處理一個交易。\n\n一些用戶已經報告了問題發生在第一個Cardano...",
+      "title": "Cardano智能合約無法用於DeFi"
+    }
+  ]
 }
