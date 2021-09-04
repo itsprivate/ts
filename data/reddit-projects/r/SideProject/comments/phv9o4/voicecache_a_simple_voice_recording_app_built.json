@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ReactとRecoilで作られたシンプルなボイスレコーディングアプリ「VoiceCache」。コメントにGitHub repoへのリンクを貼ってください。"
+    },
+    {
+      "locale": "zh",
+      "title": "VoiceCache，一个用React和Recoil构建的简单的语音录制应用。在评论中链接到GitHub repo!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "VoiceCache，一個用React和Recoil構建的簡單的語音錄製應用。在評論中鏈接到GitHub repo!"
+    }
+  ]
 }
