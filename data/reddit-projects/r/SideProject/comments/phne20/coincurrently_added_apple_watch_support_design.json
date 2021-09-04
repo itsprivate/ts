@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "CoinCurrently - アップルウォッチに対応しました＋デザインアップデート"
+    },
+    {
+      "locale": "zh",
+      "title": "CoinCurrently - 增加Apple Watch支持+设计更新"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "CoinCurrently - 增加Apple Watch支持+設計更新"
+    }
+  ]
 }
