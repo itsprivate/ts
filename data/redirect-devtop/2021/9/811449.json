@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-02T13:02:38Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--I9AQNNwr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vjofx1wbygpg6t6u5yji.png",
   "author": "Theodorus Clarence",
-  "author_url": "https://dev.to/theodorusclarence"
+  "author_url": "https://dev.to/theodorusclarence",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Next.jsを学び始めた頃は、似たような略語の羅列に圧倒されていましたが、...",
+      "title": "Next.jsのデータフェッチ（CSR、SSR、SSG、ISR）の理解"
+    },
+    {
+      "locale": "zh",
+      "description": "当我开始学习Next.js时，我对那些看起来相似的缩写列表感到不知所措，...",
+      "title": "了解Next.js的数据获取（CSR、SSR、SSG、ISR）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當我開始學習Next.js時，我對那些看起來相似的縮寫列表感到不知所措，...",
+      "title": "瞭解Next.js的數據獲取（CSR、SSR、SSG、ISR）。"
+    }
+  ]
 }
