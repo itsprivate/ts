@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "エルサルバドルでのコーヒーの支払いにMuun walletを使用。ノンカストディアン、ノンKYCのウォレットです。未来は今!"
+    },
+    {
+      "locale": "zh",
+      "title": "在萨尔瓦多使用Muun钱包支付咖啡费。非托管和非KYC钱包。未来就是现在!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在薩爾瓦多使用Muun錢包支付咖啡費。非託管和非KYC錢包。未來就是現在!"
+    }
+  ]
 }
