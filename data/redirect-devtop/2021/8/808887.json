@@ -57,5 +57,22 @@
   "original_created_at": "2021-08-31T10:36:26Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s---02O1WNU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g22d3dazcchswoetwh9e.jpg",
   "author": "Damodar Lohani",
-  "author_url": "https://dev.to/lohanidamodar"
+  "author_url": "https://dev.to/lohanidamodar",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Appwriteのリアルタイムサービスを待ち望んでいた人たちに朗報です。最新の...",
+      "title": "ウェブ開発者のためのAppwrite Realtimeを始める"
+    },
+    {
+      "locale": "zh",
+      "description": "对于所有那些一直在等待Appwrite的实时服务的人，我们有一个好消息。最新的...",
+      "title": "开始使用Appwrite Realtime for Web Developer"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "對於所有那些一直在等待Appwrite的實時服務的人，我們有一個好消息。最新的...",
+      "title": "開始使用Appwrite Realtime for Web Developer"
+    }
+  ]
 }

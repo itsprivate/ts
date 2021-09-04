@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-02T12:43:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KT163LS0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/po9v2h2vqjmrsmwe0bnu.png",
   "author": "Anjan Shomooder",
-  "author_url": "https://dev.to/thatanjan"
+  "author_url": "https://dev.to/thatanjan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "jwtのような認証システムを設定したい場合は、トークンを...",
+      "title": "NextJSのクッキーにサーバー側からアクセスする"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你想设置一个像jwt一样的认证系统，那么你必须把你的令牌存储在里面。",
+      "title": "从服务器端访问NextJS的cookies"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你想設置一個像jwt一樣的認證系統，那麼你必須把你的令牌存儲在裏面。",
+      "title": "從服務器端訪問NextJS的cookies"
+    }
+  ]
 }
