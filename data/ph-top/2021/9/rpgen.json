@@ -101,5 +101,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-03T07:00:00Z"
+  "original_createdAt": "2021-09-03T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "迅速かつ実質的に無制限のコンテンツを持つアプリで、「Dungeons & Dragons」のようなTTRPGをプレイする際の難問を解決し、ダウンタイムを減らすことができます。",
+      "tagline": "手作りのRPGコンテンツが無制限に楽しめる"
+    },
+    {
+      "locale": "zh",
+      "description": "一个拥有快速和几乎无限内容的应用程序，解决了棘手的问题，减少了玩龙与地下城等TTRPG游戏时的停机时间。",
+      "tagline": "无限的手工制作的RPG内容"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個擁有快速和幾乎無限內容的應用程序，解決了棘手的問題，減少了玩龍與地下城等TTRPG遊戲時的停機時間。",
+      "tagline": "無限的手工製作的RPG內容"
+    }
+  ]
 }
