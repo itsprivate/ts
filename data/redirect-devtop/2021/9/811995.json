@@ -43,5 +43,22 @@
   "original_created_at": "2021-09-03T01:10:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cK1pA2y4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aoax5irkvxaqdoly6puo.png",
   "author": "Alvaro Montoro",
-  "author_url": "https://dev.to/alvaromontoro"
+  "author_url": "https://dev.to/alvaromontoro",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "純粋なCSSとHTML（JSなし）で作られたタイプライターのエフェクトです。Temani Afifが始めた \"CSS-war \"へのもう一つのエントリーです。",
+      "title": "マルチラインのCSSのみのタイプライター効果"
+    },
+    {
+      "locale": "zh",
+      "description": "纯粹用CSS和HTML完成的打字机效果（没有JS）。这是由Temani Afif发起的 \"CSS战争 \"的另一个项目。",
+      "title": "多行纯CSS打字机的效果"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "純粹用CSS和HTML完成的打字機效果（沒有JS）。這是由Temani Afif發起的 \"CSS戰爭 \"的另一個項目。",
+      "title": "多行純CSS打字機的效果"
+    }
+  ]
 }
