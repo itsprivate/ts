@@ -52,5 +52,22 @@
   "original_created_at": "2021-09-02T08:53:07Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bHlultOP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/61l85o70dkhk67ogjr2e.jpg",
   "author": "Maina Wycliffe",
-  "author_url": "https://dev.to/mainawycliffe"
+  "author_url": "https://dev.to/mainawycliffe",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "時々、タイプが事前にわからない状況に遭遇することがあります。",
+      "title": "タイプスクリプト：anyではなくunknownを使うべき理由"
+    },
+    {
+      "locale": "zh",
+      "description": "我们时常遇到事先不知道类型的情况，即可能是...",
+      "title": "类型化脚本：为什么要用unknown而不是any"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們時常遇到事先不知道類型的情況，即可能是...",
+      "title": "類型化腳本：爲什麼要用unknown而不是any"
+    }
+  ]
 }
