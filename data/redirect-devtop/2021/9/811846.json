@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-02T19:21:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gV4YS_4a--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mx2m0swye0t2e6tmje34.jpg",
   "author": "Matheus Costa",
-  "author_url": "https://dev.to/costamatheus97"
+  "author_url": "https://dev.to/costamatheus97",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "勉強に行き詰まりを感じたことはありませんか？Let's talk about it もしあなたがこれを読んでいるなら、おそらく...",
+      "title": "プログラミングを学ぶのに最適な方法です。JavaScript編"
+    },
+    {
+      "locale": "zh",
+      "description": "你是否曾在学习中感到困顿？让我们来谈谈这个问题 如果你正在读这篇文章，你可能已经...",
+      "title": "学习编程的最佳方式。JavaScript版"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你是否曾在學習中感到困頓？讓我們來談談這個問題 如果你正在讀這篇文章，你可能已經...",
+      "title": "學習編程的最佳方式。JavaScript版"
+    }
+  ]
 }
