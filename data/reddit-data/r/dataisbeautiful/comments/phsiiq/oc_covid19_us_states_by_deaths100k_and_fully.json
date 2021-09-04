@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] (COVID-19) 米国における死亡者数/100k人およびワクチン接種率の比較"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC] (COVID-19)美国各州的死亡人数/100k和完全接种疫苗的百分比"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC] (COVID-19)美國各州的死亡人數/100k和完全接種疫苗的百分比"
+    }
+  ]
 }
