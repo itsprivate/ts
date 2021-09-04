@@ -67,5 +67,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-04T07:00:00Z"
+  "original_createdAt": "2021-09-04T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Sort Eat Outは、UberEatsのメニューにあるヴィーガンやベジタリアン向けのアイテムをハイライト表示するクロームのウェブブラウザ拡張機能です。",
+      "tagline": "UberEatsのメニューでヴィーガンやベジタリアン向けのアイテムをハイライト表示します。"
+    },
+    {
+      "locale": "zh",
+      "description": "Sort Eat Out是一个chrome网页浏览器扩展，可以突出UberEats菜单上的素食者和素食项目。",
+      "tagline": "在UberEats的菜单上突出素食者和素食项目"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Sort Eat Out是一個chrome網頁瀏覽器擴展，可以突出UberEats菜單上的素食者和素食項目。",
+      "tagline": "在UberEats的菜單上突出素食者和素食項目"
+    }
+  ]
 }
