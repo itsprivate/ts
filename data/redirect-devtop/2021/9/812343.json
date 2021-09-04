@@ -52,5 +52,22 @@
   "original_created_at": "2021-09-03T09:32:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UiFJZewi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ji6fo47lipgais9refky.png",
   "author": "Agnieszka Stec",
-  "author_url": "https://dev.to/stecagnieszka"
+  "author_url": "https://dev.to/stecagnieszka",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あなたが開発者のワークフローに精通しているなら、Gitが起こることがあることをご存知でしょう。良いニュースは...",
+      "title": "Gitでのミスを元に戻す5つの方法"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你对开发人员的工作流程并不陌生，那么你就会知道，有时候--Git会发生! 好消息是...",
+      "title": "撤销Git中错误的5种方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你對開發人員的工作流程並不陌生，那麼你就會知道，有時候--Git會發生! 好消息是...",
+      "title": "撤銷Git中錯誤的5種方法"
+    }
+  ]
 }
