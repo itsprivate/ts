@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-04T07:00:00Z"
+  "original_createdAt": "2021-09-04T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CertifySimpleは、Google Sheetsで生徒の情報を取得し、Google Slidesで証明書を作成し、Gmailで証明書を送信することができます。",
+      "tagline": "Googleスライド/Gmailで証明書を一括作成・送信"
+    },
+    {
+      "locale": "zh",
+      "description": "CertifySimple应用程序有助于用谷歌表格创建证书，以获取学生信息，用谷歌幻灯片创建证书，用Gmail发送证书。",
+      "tagline": "用谷歌幻灯片/Gmail批量创建和发送证书"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "CertifySimple應用程序有助於用谷歌表格創建證書，以獲取學生信息，用谷歌幻燈片創建證書，用Gmail發送證書。",
+      "tagline": "用谷歌幻燈片/Gmail批量創建和發送證書"
+    }
+  ]
 }
