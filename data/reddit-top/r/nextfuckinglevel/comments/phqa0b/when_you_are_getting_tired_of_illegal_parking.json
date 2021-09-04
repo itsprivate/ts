@@ -65,5 +65,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "違法駐車にうんざりしているとき"
+    },
+    {
+      "locale": "zh",
+      "title": "当你对非法停车感到厌倦时"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當你對非法停車感到厭倦時"
+    }
+  ]
 }
