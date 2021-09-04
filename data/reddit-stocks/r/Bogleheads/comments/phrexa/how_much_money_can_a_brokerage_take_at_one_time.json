@@ -103,5 +103,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1630761532,
-  "the_new_excerpt": "My bank won’t let me transfer more than 10k per day to Vanguard. Can Vanguard\naccess more, say 30k, if I request it through my settlement account?"
+  "the_new_excerpt": "My bank won’t let me transfer more than 10k per day to Vanguard. Can Vanguard\naccess more, say 30k, if I request it through my settlement account?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私の銀行では1日に1万円以上をVanguardに送金することができません。バンガードは\n決済口座からリクエストすれば、それ以上、例えば3万円をアクセスできるのでしょうか？",
+      "title": "決済口座のために証券会社が一度に取れる金額はいくらですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我的银行不允许我每天向Vanguard转账超过1万。Vanguard可以\n可以获得更多，比如说3万，如果我通过我的结算账户申请的话？",
+      "title": "经纪公司一次能拿多少钱给你的结算账户？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我的銀行不允許我每天向Vanguard轉賬超過1萬。Vanguard可以\n可以獲得更多，比如說3萬，如果我通過我的結算賬戶申請的話？",
+      "title": "經紀公司一次能拿多少錢給你的結算賬戶？"
+    }
+  ]
 }
