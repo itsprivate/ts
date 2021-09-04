@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "映画の名前を挙げずに、それを示す一つの引用を教えてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "在不指名道姓的情况下，有哪句话能说明问题？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在不指名道姓的情況下，有哪句話能說明問題？"
+    }
+  ]
 }
