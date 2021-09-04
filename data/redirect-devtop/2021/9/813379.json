@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-04T10:49:40Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jCdP-sVn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t0f8po3fzg9i1ndhxt9f.png",
   "author": "Mohd Shahid",
-  "author_url": "https://dev.to/sidmirza4"
+  "author_url": "https://dev.to/sidmirza4",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "みんな、お待たせしました。Webサイトへのアクセスを増やすためには、通知機能が欠かせません...",
+      "title": "通知APIです。ウェブアプリからの通知を表示します。"
+    },
+    {
+      "locale": "zh",
+      "description": "嘿，伙计们。如果你想为你的网站带来流量，通知是至关重要的。",
+      "title": "通知API。从你的网络应用中显示通知 🔔"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嘿，夥計們。如果你想爲你的網站帶來流量，通知是至關重要的。",
+      "title": "通知API。從你的網絡應用中顯示通知 🔔"
+    }
+  ]
 }
