@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの年齢で何が悪いの？"
+    },
+    {
+      "locale": "zh",
+      "title": "在你这个年龄段有什么糟糕的事情？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在你這個年齡段有什麼糟糕的事情？"
+    }
+  ]
 }
