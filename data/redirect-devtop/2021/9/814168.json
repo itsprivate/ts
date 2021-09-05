@@ -43,5 +43,22 @@
   "original_created_at": "2021-09-05T12:57:45Z",
   "image": "https://dev.to/social_previews/article/814168.png",
   "author": "Thorsten Lünborg",
-  "author_url": "https://dev.to/linusborg"
+  "author_url": "https://dev.to/linusborg",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "計算されたプロパティがVueコンポーネントのパフォーマンスを低下させる可能性があるシナリオについて説明します。",
+      "title": "ヴューです。計算されたプロパティが間違ったツールになる場合"
+    },
+    {
+      "locale": "zh",
+      "description": "探索计算属性可能降低Vue组件性能的情况。",
+      "title": "Vue: 当计算属性可能是错误的工具时"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "探索計算屬性可能降低Vue組件性能的情況。",
+      "title": "Vue: 當計算屬性可能是錯誤的工具時"
+    }
+  ]
 }
