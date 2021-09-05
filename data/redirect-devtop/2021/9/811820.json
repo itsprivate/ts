@@ -41,5 +41,22 @@
   "original_created_at": "2021-09-02T18:10:06Z",
   "image": "https://dev.to/social_previews/article/811820.png",
   "author": "Jared White",
-  "author_url": "https://dev.to/jaredcwhite"
+  "author_url": "https://dev.to/jaredcwhite",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "HTMLをその日のビルドプロセスのゴミ捨て場にするのはやめましょう。もっと良い方法があります。",
+      "title": "HTMLはシリアル化されたオブジェクトグラフであり、それがすべてを変える"
+    },
+    {
+      "locale": "zh",
+      "description": "不要再把HTML作为你的构建过程的垃圾场了。我们可以做得更好。",
+      "title": "HTML是一个序列化的对象图，这改变了一切"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "不要再把HTML作爲你的構建過程的垃圾場了。我們可以做得更好。",
+      "title": "HTML是一個序列化的對象圖，這改變了一切"
+    }
+  ]
 }
