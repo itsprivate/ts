@@ -43,5 +43,22 @@
   "original_created_at": "2021-09-02T20:21:10Z",
   "image": "https://dev.to/social_previews/article/811866.png",
   "author": "Miki Stanger",
-  "author_url": "https://dev.to/mimafogeus2"
+  "author_url": "https://dev.to/mimafogeus2",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TL;DR Z-indexはすぐに混乱してしまいます。推測でz-indexを選ぶのはよくあることです。ここでは...",
+      "title": "Zインデックスを管理するためのより良い方法"
+    },
+    {
+      "locale": "zh",
+      "description": "TL;DR Z-Indexes可以很快变得混乱。通过猜测来选择Z-indexes是很常见的! 有...",
+      "title": "管理Z指数的更好方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "TL;DR Z-Indexes可以很快變得混亂。通過猜測來選擇Z-indexes是很常見的! 有...",
+      "title": "管理Z指數的更好方法"
+    }
+  ]
 }
