@@ -37,5 +37,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Enigma Reloaded - SMSや紙媒体も含めて、クロスプラットフォームでメッセージを暗号化・復号化することができます。"
+    },
+    {
+      "locale": "zh",
+      "title": "Enigma Reloaded - 跨平台加密和解密信息，甚至是短信和纸张"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Enigma Reloaded - 跨平臺加密和解密信息，甚至是短信和紙張"
+    }
+  ]
 }
