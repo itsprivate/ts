@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "刑務所に行ったことがある人、働いたことがある人、面白い話、楽しい話、怖い話、グロい話を教えてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "去过监狱或在那里工作过的人，你们有什么最有趣、最好玩、最恐怖或最恶心的故事？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "去過監獄或在那裏工作過的人，你們有什麼最有趣、最好玩、最恐怖或最噁心的故事？"
+    }
+  ]
 }

@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-30T12:55:45Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0efvCONZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ojbsc5zd8m4xk53hr83k.png",
   "author": "Fikri Mulyana Setiawan",
-  "author_url": "https://dev.to/fikrinotes"
+  "author_url": "https://dev.to/fikrinotes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、皆さんは約1ヶ月前（正確には20日前）にゲームを作ったことをご存知ですか？ えっ、そんなこと...",
+      "title": "純粋なJavaScriptで銀河系の戦争ゲームを作る方法 "
+    },
+    {
+      "locale": "zh",
+      "description": "嗨，你知道吗，大约1个月前（准确地说是20天前）我做了一个游戏？ 什么，你还没有...",
+      "title": "我如何在纯JavaScript中建立星系战争游戏 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嗨，你知道嗎，大約1個月前（準確地說是20天前）我做了一個遊戲？ 什麼，你還沒有...",
+      "title": "我如何在純JavaScript中建立星系戰爭遊戲 "
+    }
+  ]
 }

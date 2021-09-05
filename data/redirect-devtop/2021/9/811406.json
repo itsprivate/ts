@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-02T11:29:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jNWD_Pi4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/egr1d3jw3vdjlhp33w58.jpeg",
   "author": "Simon Holdorf",
-  "author_url": "https://dev.to/simonholdorf"
+  "author_url": "https://dev.to/simonholdorf",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "クラウドやDevOpsを始めたいけど、どこに行けばいいのかわからないという方のために、私は信じられないような情報をまとめました。",
+      "title": "20以上の初心者向けクラウド＆DevOpsリソースが無料で使えます"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你想开始接触云计算&amp; DevOps，但不知道在哪里，我已经汇编了一些难以置信的...",
+      "title": "20个以上的初级云计算和DevOps资源是免费的!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你想開始接觸雲計算&amp; DevOps，但不知道在哪裏，我已經彙編了一些難以置信的...",
+      "title": "20個以上的初級雲計算和DevOps資源是免費的!"
+    }
+  ]
 }
