@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-03T21:45:30Z",
   "image": "https://dev.to/social_previews/article/812948.png",
   "author": "Asjad Anis",
-  "author_url": "https://dev.to/asjadanis"
+  "author_url": "https://dev.to/asjadanis",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Quick Summary ソフトウェア開発は素晴らしく楽しいものですが、混乱したり、非常に悪い結果になることもあります。",
+      "title": "Essential JavaScript Tooling"
+    },
+    {
+      "locale": "zh",
+      "description": "快速总结 软件开发是伟大而有趣的，但它可能是一个混乱和非常糟糕的。",
+      "title": "基本的JavaScript工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "快速總結 軟件開發是偉大而有趣的，但它可能是一個混亂和非常糟糕的。",
+      "title": "基本的JavaScript工具"
+    }
+  ]
 }
