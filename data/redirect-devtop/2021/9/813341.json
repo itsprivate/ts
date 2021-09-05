@@ -43,5 +43,22 @@
   "original_created_at": "2021-09-04T09:07:25Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SJ7Ox_Wy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/okjicvfq9ljprssnstzp.jpg",
   "author": "suraj more",
-  "author_url": "https://dev.to/surajmore98"
+  "author_url": "https://dev.to/surajmore98",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "フックは、React 16.8で導入された新機能で、それ以降のバージョンでも利用可能です。私たちは状態を利用して...",
+      "title": "Reactのフック"
+    },
+    {
+      "locale": "zh",
+      "description": "钩子是React 16.8中引入的一个新功能，在以后的版本中也可以使用。我们可以使用状态...",
+      "title": "React中的钩子"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "鉤子是React 16.8中引入的一個新功能，在以後的版本中也可以使用。我們可以使用狀態...",
+      "title": "React中的鉤子"
+    }
+  ]
 }
