@@ -43,5 +43,22 @@
   "original_created_at": "2021-09-03T21:10:43Z",
   "image": "https://dev.to/social_previews/article/812939.png",
   "author": "Mastering JS",
-  "author_url": "https://dev.to/masteringjs"
+  "author_url": "https://dev.to/masteringjs",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TypeScriptは人気が急上昇していますが、プロジェクトによっては努力する価値がない場合もあります。しかし、...",
+      "title": "JavaScriptで使える3つのTypeScriptトリック"
+    },
+    {
+      "locale": "zh",
+      "description": "TypeScript正在迅速普及，但对于一些项目来说，并不值得去做。然而，...",
+      "title": "你可以在JavaScript中使用TypeScript的3个技巧"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "TypeScript正在迅速普及，但對於一些項目來說，並不值得去做。然而，...",
+      "title": "你可以在JavaScript中使用TypeScript的3個技巧"
+    }
+  ]
 }
