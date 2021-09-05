@@ -134,5 +134,22 @@
     "retweet_count": 531,
     "favorite_count": 2775,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @Chad_Capital です。地球全体で火曜日に30ドルのビットコインを買う https://t.co/g7l89nDCf6",
+      "retweeted_status_full_text": "火曜日に地球全体で30ドルのビットコインを購入 https://t.co/g7l89nDCf6"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @Chad_Capital: 整个地球在周二买入30美元的比特币 https://t.co/g7l89nDCf6",
+      "retweeted_status_full_text": "整个地球在周二购买30美元的比特币 https://t.co/g7l89nDCf6"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @Chad_Capital: 整個地球在週二買入30美元的比特幣 https://t.co/g7l89nDCf6",
+      "retweeted_status_full_text": "整個地球在週二購買30美元的比特幣 https://t.co/g7l89nDCf6"
+    }
+  ]
 }
