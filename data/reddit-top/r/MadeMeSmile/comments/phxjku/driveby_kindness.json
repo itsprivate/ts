@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ドライブ・バイ・優しさ!"
+    },
+    {
+      "locale": "zh",
+      "title": "驾车的仁慈!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "駕車的仁慈!"
+    }
+  ]
 }
