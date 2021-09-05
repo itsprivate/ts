@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "思ったよりも簡単だった"
+    },
+    {
+      "locale": "zh",
+      "title": "这比我想象的要简单"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這比我想象的要簡單"
+    }
+  ]
 }
