@@ -57,5 +57,22 @@
   "original_created_at": "2021-08-31T10:34:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hwMj6KnR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rhh9t8rmnjztmsfqavqe.jpg",
   "author": "Damodar Lohani",
-  "author_url": "https://dev.to/lohanidamodar"
+  "author_url": "https://dev.to/lohanidamodar",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "リアルタイムサービスは、Appwriteの最も求められている機能の一つであり、今ではプレイすることができます...",
+      "title": "Appwrite Realtime for Flutterを始めよう"
+    },
+    {
+      "locale": "zh",
+      "description": "实时服务是Appwrite最受欢迎的功能之一，现在它已经准备好发挥...",
+      "title": "开始使用Appwrite Realtime for Flutter"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "實時服務是Appwrite最受歡迎的功能之一，現在它已經準備好發揮...",
+      "title": "開始使用Appwrite Realtime for Flutter"
+    }
+  ]
 }
