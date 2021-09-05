@@ -39,5 +39,22 @@
   "original_created_at": "2021-09-04T09:54:51Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ILH3395D--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wjv903v6tdrzjp295pit.png",
   "author": "Santan kr Sharma",
-  "author_url": "https://dev.to/santan47"
+  "author_url": "https://dev.to/santan47",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "イベントリスナーは、イベントが発行されたときに呼び出される関数をバインドするのに役立ちます。",
+      "title": "JavaScriptのThrottlingとDebouncingとは、どのような仕組みなのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "description": "事件监听器可以帮助我们在该事件发出时调用一些函数，如...",
+      "title": "什么是JavaScript中的Throttling和Debouncing以及它是如何工作的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "事件監聽器可以幫助我們在該事件發出時調用一些函數，如...",
+      "title": "什麼是JavaScript中的Throttling和Debouncing以及它是如何工作的？"
+    }
+  ]
 }
