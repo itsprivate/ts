@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-05T02:13:17Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GFRrghdB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gpztviiddqkh6w8v91uc.png",
   "author": "Tapajyoti Bose",
-  "author_url": "https://dev.to/ruppysuppy"
+  "author_url": "https://dev.to/ruppysuppy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "プログラミングをしていると、必ずと言っていいほど、無駄なコードを書いてしまう反復コードに遭遇します。",
+      "title": "VS Codeを使って繰り返し行われるコードを自動化する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "在编程时，你一定会遇到重复的代码，写这些代码完全是在浪费。",
+      "title": "如何利用VS代码使重复性代码自动化的专业人员"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在編程時，你一定會遇到重複的代碼，寫這些代碼完全是在浪費。",
+      "title": "如何利用VS代碼使重複性代碼自動化的專業人員"
+    }
+  ]
 }
