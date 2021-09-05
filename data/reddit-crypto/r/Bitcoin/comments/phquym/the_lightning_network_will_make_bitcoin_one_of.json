@@ -42,5 +42,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ライトニングネットワークは、ビットコインを最も取引に使える通貨の一つにします。心を入れ替えて。"
+    },
+    {
+      "locale": "zh",
+      "title": "闪电网络将使比特币成为交易中最可使用的货币之一。改变我的想法"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "閃電網絡將使比特幣成爲交易中最可使用的貨幣之一。改變我的想法"
+    }
+  ]
 }
