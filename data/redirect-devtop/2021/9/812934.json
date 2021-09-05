@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-03T20:57:25Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jXTrdUA2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pvbl0lz7jwcarl3c19hk.PNG",
   "author": "Siddhartha Roy",
-  "author_url": "https://dev.to/sid86dev"
+  "author_url": "https://dev.to/sid86dev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "初心者のための完全なFlaskチュートリアル 私はこのチュートリアルを助け、教えるために作りました...",
+      "title": "完全な初心者向けPython Flaskチュートリアル🐍です。基本的なテンプレートレンダリングからウェブサーバへのデプロイまでを学びます。"
+    },
+    {
+      "locale": "zh",
+      "description": "面向初学者的完整的Flask教程 我做这个教程是为了帮助和教...",
+      "title": "一个完整的初学者友好的Python Flask教程🐍。从基本的模板渲染到在网络服务器中的部署，都可以学到。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "面向初學者的完整的Flask教程 我做這個教程是爲了幫助和教...",
+      "title": "一個完整的初學者友好的Python Flask教程🐍。從基本的模板渲染到在網絡服務器中的部署，都可以學到。"
+    }
+  ]
 }
