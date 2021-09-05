@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "イーサリアムは現在、ジョンソン・エンド・ジョンソンやサムスンなどの企業を抑え、世界で18番目に価値のある資産となっている"
+    },
+    {
+      "locale": "zh",
+      "title": "以太坊现在是世界上第18大最有价值的资产，击败了强生和三星等公司"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "以太坊現在是世界上第18大最有價值的資產，擊敗了強生和三星等公司"
+    }
+  ]
 }
