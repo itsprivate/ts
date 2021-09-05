@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-04T12:01:27Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cKlbO5g9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4vjwjlh1m7scasgwvee7.png",
   "author": "Rishabh Gupta",
-  "author_url": "https://dev.to/imrishabh18"
+  "author_url": "https://dev.to/imrishabh18",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、Typeform（お勧め）で作られたアンケートフォームに記入していたのですが、その結果、...",
+      "title": "データを永続化する最もシンプルなカスタムフック。"
+    },
+    {
+      "locale": "zh",
+      "description": "我最近在填写一个建立在Typeform上的调查表（强烈推荐使用），我必须说，...",
+      "title": "最简单的自定义钩子来保持数据。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我最近在填寫一個建立在Typeform上的調查表（強烈推薦使用），我必須說，...",
+      "title": "最簡單的自定義鉤子來保持數據。"
+    }
+  ]
 }
