@@ -134,5 +134,22 @@
     "retweet_count": 222,
     "favorite_count": 1059,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @NassauWillem: 今のアムステルダム https://t.co/tWavph4q0E",
+      "retweeted_status_full_text": "現時点でのアムステルダム https://t.co/tWavph4q0E"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @NassauWillem: 此刻的阿姆斯特丹https://t.co/tWavph4q0E。",
+      "retweeted_status_full_text": "目前，阿姆斯特丹https://t.co/tWavph4q0E"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @NassauWillem: 此刻的阿姆斯特丹https://t.co/tWavph4q0E。",
+      "retweeted_status_full_text": "目前，阿姆斯特丹https://t.co/tWavph4q0E"
+    }
+  ]
 }

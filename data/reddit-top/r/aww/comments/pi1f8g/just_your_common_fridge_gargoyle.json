@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "普通の冷蔵庫のガーゴイル"
+    },
+    {
+      "locale": "zh",
+      "title": "只是你的普通冰箱妖怪"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "只是你的普通冰箱妖怪"
+    }
+  ]
 }
