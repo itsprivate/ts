@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-02T04:48:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7Tpxuy2Z--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m0rtz8cccxl6mwojtgrc.png",
   "author": "Rajshree Vatsa",
-  "author_url": "https://dev.to/rajshreevats"
+  "author_url": "https://dev.to/rajshreevats",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さんこんにちは👋 前の記事では、たくさんの❤️🔖と🦄をありがとうございました。私はこのスペースを使って...",
+      "title": "Reactを学ぶ前のJSの関数"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好 👋感谢大家对上一篇文章的❤️🔖和🦄。我利用这个空间来分享...",
+      "title": "在学习React之前，在JS中的功能"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好 👋感謝大家對上一篇文章的❤️🔖和🦄。我利用這個空間來分享...",
+      "title": "在學習React之前，在JS中的功能"
+    }
+  ]
 }
