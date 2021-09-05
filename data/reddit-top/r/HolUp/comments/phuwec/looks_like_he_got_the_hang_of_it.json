@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "コツをつかんだようですね。"
+    },
+    {
+      "locale": "zh",
+      "title": "看上去他已经掌握了窍门!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "看上去他已經掌握了竅門!"
+    }
+  ]
 }

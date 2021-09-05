@@ -134,5 +134,22 @@
     "retweet_count": 3521,
     "favorite_count": 15033,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @AdamCrigler オーストラリアのトラック運転手たちは脅しに耐えているようだ https://t.co/7LUGRSzNnn",
+      "retweeted_status_full_text": "オーストラリアのトラック運転手たちは、その脅しに忠実であるようだ https://t.co/7LUGRSzNnn"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @AdamCrigler: 似乎澳大利亚的卡车司机们正在坚持他们的威胁 https://t.co/7LUGRSzNnn",
+      "retweeted_status_full_text": "似乎澳大利亚的卡车司机们正在坚持他们的威胁 https://t.co/7LUGRSzNnn"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @AdamCrigler: 似乎澳大利亞的卡車司機們正在堅持他們的威脅 https://t.co/7LUGRSzNnn",
+      "retweeted_status_full_text": "似乎澳大利亞的卡車司機們正在堅持他們的威脅 https://t.co/7LUGRSzNnn"
+    }
+  ]
 }
