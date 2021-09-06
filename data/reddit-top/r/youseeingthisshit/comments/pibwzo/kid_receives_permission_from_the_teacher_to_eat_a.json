@@ -65,5 +65,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "子供は授業中に先生から果物を食べる許可を得ています。"
+    },
+    {
+      "locale": "zh",
+      "title": "孩子得到了老师的许可，可以在上课时吃一种水果。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "孩子得到了老師的許可，可以在上課時喫一種水果。"
+    }
+  ]
 }
