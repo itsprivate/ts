@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-05T08:34:55Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_3Nx55nv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4ru1nhxspzustjrsxtic.png",
   "author": "Beginner Developer",
-  "author_url": "https://dev.to/beginnerdeveloper"
+  "author_url": "https://dev.to/beginnerdeveloper",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "HTML、CSS、JavaScriptでシンプルなステッププログレスバーを作成します。          HTML &lt;!DOCTYPE...",
+      "title": "CSSによるステッププログレスバー"
+    },
+    {
+      "locale": "zh",
+      "description": "在HTML、CSS和JavaScript中创建简单的步骤进度条。          HTML &lt;!DOCTYPE...",
+      "title": "CSS中的步骤进度条"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在HTML、CSS和JavaScript中創建簡單的步驟進度條。          HTML &lt;!DOCTYPE...",
+      "title": "CSS中的步驟進度條"
+    }
+  ]
 }
