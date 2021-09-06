@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "プロダクトハントのサイドプロジェクトを立ち上げました。これはRocket Crewといって、宇宙産業に特化したジョブボードです。"
+    },
+    {
+      "locale": "zh",
+      "title": "刚刚推出了我的副业--\"产品搜索\"! 它叫做Rocket Crew，是一个专门针对太空行业的招聘网站。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "剛剛推出了我的副業--\"產品搜索\"! 它叫做Rocket Crew，是一個專門針對太空行業的招聘網站。"
+    }
+  ]
 }
