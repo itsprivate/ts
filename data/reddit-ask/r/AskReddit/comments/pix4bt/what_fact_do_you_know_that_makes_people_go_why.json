@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "人が \"なんでそんなこと知ってるんだ！\"と思うような事実を知っていますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你知道的什么事实会让人觉得 \"你他妈的为什么会知道这些！\"？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你知道的什麼事實會讓人覺得 \"你他媽的爲什麼會知道這些！\"？"
+    }
+  ]
 }
