@@ -37,5 +37,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "NSAは量子コンピューターが暗号通貨（公開鍵暗号）を破れるとは思っていない"
+    },
+    {
+      "locale": "zh",
+      "title": "美国国家安全局不认为量子计算机能破解加密货币（公钥加密）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "美國國家安全局不認爲量子計算機能破解加密貨幣（公鑰加密）。"
+    }
+  ]
 }
