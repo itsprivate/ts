@@ -150,5 +150,22 @@
     "retweet_count": 782,
     "favorite_count": 3227,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @BitcoinMagazine: TOMORROW - 最初の国が #Bitcoin を法定通貨として採用する。https://t.co/8cjn3lYkeD",
+      "retweeted_status_full_text": "TOMORROW - The First Nation will adopt #Bitcoin as legal currency. https://t.co/8cjn3lYkeD"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @BitcoinMagazine: TOMORROW - 第一个国家将采用#比特币作为法定货币。https://t.co/8cjn3lYkeD",
+      "retweeted_status_full_text": "TOMORROW - 第一个国家将采用#比特币作为法定货币。https://t.co/8cjn3lYkeD"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @BitcoinMagazine: TOMORROW - 第一個國家將採用#比特幣作爲法定貨幣。https://t.co/8cjn3lYkeD",
+      "retweeted_status_full_text": "TOMORROW - 第一個國家將採用#比特幣作爲法定貨幣。https://t.co/8cjn3lYkeD"
+    }
+  ]
 }
