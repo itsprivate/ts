@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ハル・フィニーは、2009年1月にビットコインの価格を1コインあたり1,000万円と計算しました。"
+    },
+    {
+      "locale": "zh",
+      "title": "哈尔-芬尼在2009年1月计算出的比特币价格为每个币1000万美元。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "哈爾-芬尼在2009年1月計算出的比特幣價格爲每個幣1000萬美元。"
+    }
+  ]
 }
