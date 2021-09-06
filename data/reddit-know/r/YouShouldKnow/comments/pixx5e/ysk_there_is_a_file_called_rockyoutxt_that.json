@@ -1,0 +1,15 @@
+{
+  "author": "Wolfeur",
+  "original_created_utc": 1630929017,
+  "title": "YSK: there is a file called rockyou.txt that contains the most common passwords in the world. If your password is on it, you should change it asap.",
+  "created_utc": 1630950361,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Link to download the text file (133 MB): <a href=\"https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt\">https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt</a></p>\n\n<p>Why YSK: when trying to brute force your password, hackers will resort to lists of common passwords, and rockyou.txt is the most exhaustive and well-known source. Those lists allow to hack a ton of accounts in a short time thanks to the limited amount of trials necessary for statistically good results. If a hacker is going to try and get into your account, this list will be used. If your password isn&#39;t on it, he will most likely not try further and your account should be safe from brute force attacks.</p>\n\n<p>This is the best thing you can do to prevent your account from randomly getting hacked. To note that your password should still be long enough to prevent brute forcing with <em>all</em> character combinations (recommended 8+ characters) and that will not prevent social engineering attacks.</p>\n</div><!-- SC_ON -->",
+  "score": 53,
+  "permalink": "/r/YouShouldKnow/comments/pixx5e/ysk_there_is_a_file_called_rockyoutxt_that/",
+  "subreddit": "YouShouldKnow",
+  "id": "pixx5e",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Link to download the text file (133 MB):\nhttps://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt\n\nWhy YSK: when trying to brute force your password, hackers will resort to lists\nof common passwords, and rockyou.txt is the most exhaustive and well-known\nsource. Those lists…"
+}
