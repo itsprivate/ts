@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-05T08:15:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--siBqElkk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hkdw04d1onyab3sv6e5d.png",
   "author": "Abdullah Furkan Özbek",
-  "author_url": "https://dev.to/afozbek"
+  "author_url": "https://dev.to/afozbek",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "1. 問題 コンポーネントのライフサイクルの中で、Reactは更新時にコンポーネントを再レンダリングします。",
+      "title": "React Hooks: useMemo"
+    },
+    {
+      "locale": "zh",
+      "description": "1. 问题 在一个组件的生命周期中，当有更新时，React会重新渲染该组件...",
+      "title": "React 钩子：useMemo"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "1. 問題 在一個組件的生命週期中，當有更新時，React會重新渲染該組件...",
+      "title": "React 鉤子：useMemo"
+    }
+  ]
 }
