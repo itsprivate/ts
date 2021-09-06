@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "出生時の生存確率が3,000万分の1だった結合双生児が、今では大人になり、教師になっているのです。"
+    },
+    {
+      "locale": "zh",
+      "title": "连体婴儿在出生时有1/3000万的存活机会，他们现在已经长大成人，并成为了教师!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "連體嬰兒在出生時有1/3000萬的存活機會，他們現在已經長大成人，併成爲了教師!"
+    }
+  ]
 }
