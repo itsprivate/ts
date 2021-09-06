@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Y'all know which foreign currency I'm talking about ;)"
+  "the_new_excerpt": "Y'all know which foreign currency I'm talking about ;)",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私が言っているのはどの外貨のことか、皆さんご存知でしょう。)",
+      "title": "明日から銀行に電話して、外貨を買ってくれと頼むべきか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你们都知道我说的是哪种外国货币；)",
+      "title": "我们明天是否应该开始打电话给我们的银行，要求购买一些外汇？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你們都知道我說的是哪種外國貨幣；)",
+      "title": "我們明天是否應該開始打電話給我們的銀行，要求購買一些外匯？"
+    }
+  ]
 }
