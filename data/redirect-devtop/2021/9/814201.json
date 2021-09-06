@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-05T14:19:43Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9kZX5jeB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j1eqdr5qe3i1p3ykx9xa.jpg",
   "author": "Bhavesh Mishra",
-  "author_url": "https://dev.to/mishrabhavesh"
+  "author_url": "https://dev.to/mishrabhavesh",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私はウェブ開発の分野では全くの初心者で、これは私の最初のブログですが、どんな種類の提案やコメントも...",
+      "title": "ReactのuseUndoフック"
+    },
+    {
+      "locale": "zh",
+      "description": "我是网络开发的新手，这是我的第一个博客，任何形式的建议或意见都可以。",
+      "title": "React的useUndo钩"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我是網絡開發的新手，這是我的第一個博客，任何形式的建議或意見都可以。",
+      "title": "React的useUndo鉤"
+    }
+  ]
 }
