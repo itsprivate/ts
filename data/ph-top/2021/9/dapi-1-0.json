@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-05T07:18:04Z"
+  "original_createdAt": "2021-09-05T07:18:04Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Dapiは、開発チームのAPI統合を効率化します。OpenAPI、シーケンス図、APIドキュメントサイト、モックサーバー。より迅速な統合とより良いトラッキングを目指しています。",
+      "tagline": "APIの設計、プレビュー、トラッキングをチームで行う"
+    },
+    {
+      "locale": "zh",
+      "description": "Dapi有助于简化开发团队的API集成。OpenAPI、顺序图、API文档网站和模拟服务器。它的目标是更快的集成和更好的跟踪。",
+      "tagline": "与团队一起设计、预览和跟踪API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Dapi有助於簡化開發團隊的API集成。OpenAPI、順序圖、API文檔網站和模擬服務器。它的目標是更快的集成和更好的跟蹤。",
+      "tagline": "與團隊一起設計、預覽和跟蹤API"
+    }
+  ]
 }
