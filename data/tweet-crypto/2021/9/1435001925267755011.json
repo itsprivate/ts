@@ -134,5 +134,22 @@
     "retweet_count": 181,
     "favorite_count": 1360,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @s2fmultiple です。無効になったと思ったら、https://t.co/Lsa0YiMfRN。",
+      "retweeted_status_full_text": "無効になったと思ったら、https://t.co/Lsa0YiMfRN。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @s2fmultiple: 就在你认为它已经失效的时候。https://t.co/Lsa0YiMfRN",
+      "retweeted_status_full_text": "就在你认为它已经失效的时候。https://t.co/Lsa0YiMfRN"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @s2fmultiple: 就在你認爲它已經失效的時候。https://t.co/Lsa0YiMfRN",
+      "retweeted_status_full_text": "就在你認爲它已經失效的時候。https://t.co/Lsa0YiMfRN"
+    }
+  ]
 }
