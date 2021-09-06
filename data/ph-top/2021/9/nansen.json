@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-06T07:05:00Z"
+  "original_createdAt": "2021-09-06T07:05:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ナンセンは、100M以上のイーサリアムウォレットとそのアクティビティを分析し、ラベル付けしています。そのため、シグナルとノイズを分離することができます。チャートはこちらからご覧いただけます： https://pro.nansen.ai/multichain/polygon",
+      "tagline": "希少な機会を特定するブロックチェーン分析プラットフォーム"
+    },
+    {
+      "locale": "zh",
+      "description": "Nansen分析并标记了1亿多个以太坊钱包及其活动。因此，你可以从噪音中分离出信号。在此查看图表：https://pro.nansen.ai/multichain/polygon",
+      "tagline": "区块链分析平台识别稀有机会"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Nansen分析並標記了1億多個以太坊錢包及其活動。因此，你可以從噪音中分離出信號。在此查看圖表：https://pro.nansen.ai/multichain/polygon",
+      "tagline": "區塊鏈分析平臺識別稀有機會"
+    }
+  ]
 }

@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "アプリを更新しました。名言提案アプリ「Swipewise」、本の名言のTinderのようなものです。"
+    },
+    {
+      "locale": "zh",
+      "title": "我刚刚更新了我的应用程序。Swipewise引言建议应用，它就像一个图书引言的Tinder。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我剛剛更新了我的應用程序。Swipewise引言建議應用，它就像一個圖書引言的Tinder。"
+    }
+  ]
 }
