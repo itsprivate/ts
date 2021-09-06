@@ -50,5 +50,22 @@
   "original_created_at": "2021-08-31T11:26:09Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--aABjvnXx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://i.stack.imgur.com/cIcvB.png",
   "author": "HasOne",
-  "author_url": "https://dev.to/hasone"
+  "author_url": "https://dev.to/hasone",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ユーザーが選択した場所が、指定した地点から半径5km以内にあるかどうかをチェックする方法。",
+      "title": "リアクトでのジオフェンシングの作成 | computeDistanceBetween & containsLocation"
+    },
+    {
+      "locale": "zh",
+      "description": "如何检查用户选择的位置是否在你允许的半径范围内，如5公里半径的一个特定点。",
+      "title": "在react中创建地理围栏 | 计算距离和包含位置"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如何檢查用戶選擇的位置是否在你允許的半徑範圍內，如5公里半徑的一個特定點。",
+      "title": "在react中創建地理圍欄 | 計算距離和包含位置"
+    }
+  ]
 }
