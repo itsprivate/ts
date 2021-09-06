@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-06T07:11:19Z"
+  "original_createdAt": "2021-09-06T07:11:19Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Vybeはパスワードレスの暗号財布プラットフォームで、購入するたびにNFTで報酬を得ることができます。秘密鍵を覚える必要はありません。",
+      "tagline": "購入した商品に応じてNFTがもらえるパスワードレスの財布"
+    },
+    {
+      "locale": "zh",
+      "description": "Vybe是一个无密码的加密货币钱包平台，每次购买都会奖励你一个NFT。不需要记住任何私钥，🔑",
+      "tagline": "无密码钱包，每次购物都会奖励一个NFT"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Vybe是一個無密碼的加密貨幣錢包平臺，每次購買都會獎勵你一個NFT。不需要記住任何私鑰，🔑",
+      "tagline": "無密碼錢包，每次購物都會獎勵一個NFT"
+    }
+  ]
 }

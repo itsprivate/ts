@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-06T07:11:35Z"
+  "original_createdAt": "2021-09-06T07:11:35Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "pythonでコードを書き、ボンバーマンにヒントを得たゲームで自分のボットを作り、人工知能のスキルを学び、提供されたボットと対戦します。",
+      "tagline": "Pythonで書かれたボットのためのボンバーマンのような競技場 "
+    },
+    {
+      "locale": "zh",
+      "description": "用python编程，在一个受炸弹人启发的游戏中创建你自己的机器人，学习人工智能技能并与提供的机器人进行比赛。",
+      "tagline": "用Python编写的类似炸弹人的机器人竞技场 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "用python編程，在一個受炸彈人啓發的遊戲中創建你自己的機器人，學習人工智能技能並與提供的機器人進行比賽。",
+      "tagline": "用Python編寫的類似炸彈人的機器人競技場 "
+    }
+  ]
 }
