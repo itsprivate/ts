@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "タスクが正常に失敗した"
+    },
+    {
+      "locale": "zh",
+      "title": "任务成功失败"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "任務成功失敗"
+    }
+  ]
 }
