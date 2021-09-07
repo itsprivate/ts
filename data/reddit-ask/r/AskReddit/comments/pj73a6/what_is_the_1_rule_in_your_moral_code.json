@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたのモラルコードの1番のルールは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你的道德准则中的第一条规则是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你的道德準則中的第一條規則是什麼？"
+    }
+  ]
 }
