@@ -14,5 +14,19 @@
   "tags": [
     "The Wall Street Journal"
   ],
-  "image": "https://images.wsj.net/im-396595/social"
+  "image": "https://images.wsj.net/im-396595/social",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "米国株式先物、海外市場の上昇"
+    },
+    {
+      "locale": "zh",
+      "title": "美国股票期货，海外市场上涨"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "美國股票期貨，海外市場上漲"
+    }
+  ]
 }
