@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私はLyftのドライバーです。同乗者は私がアプリの一部であるかのように行動する"
+    },
+    {
+      "locale": "zh",
+      "title": "我是一名Lyft司机。我的乘客认为我是应用程序的一部分"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我是一名Lyft司機。我的乘客認爲我是應用程序的一部分"
+    }
+  ]
 }
