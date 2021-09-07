@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "YourTrail - 一日を有効に使うためのシンプルなダッシュボード"
+    },
+    {
+      "locale": "zh",
+      "title": "YourTrail - 简单的仪表板，让你的每一天都得到充分的利用"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "YourTrail - 簡單的儀表板，讓你的每一天都得到充分的利用"
+    }
+  ]
 }
