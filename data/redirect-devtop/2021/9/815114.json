@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-06T11:50:12Z",
   "image": "https://dev.to/social_previews/article/815114.png",
   "author": "Vedran Cindrić",
-  "author_url": "https://dev.to/cindreta"
+  "author_url": "https://dev.to/cindreta",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この10年間、私が取り組んできた中核的なもののひとつがAPIです。シンプルな...",
+      "title": "RESTの10の戒め"
+    },
+    {
+      "locale": "zh",
+      "description": "在过去的10年中，我一直致力于的核心工作之一是API。一切从简单的...",
+      "title": "10条REST诫命"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在過去的10年中，我一直致力於的核心工作之一是API。一切從簡單的...",
+      "title": "10條REST誡命"
+    }
+  ]
 }
