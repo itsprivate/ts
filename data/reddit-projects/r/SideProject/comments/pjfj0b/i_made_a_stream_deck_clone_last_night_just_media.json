@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "昨晩、Stream Deckのクローンを作りました。コーディングに4時間くらいしかかけていないので、今のところメディアコントロール、テンキー、バックスペースボタンだけです。サーバーにはElectron、クライアントにはreact nativeを使用しています。"
+    },
+    {
+      "locale": "zh",
+      "title": "我昨天晚上做了一个Stream Deck的克隆。由于我只花了4个小时编写代码，目前只有媒体控制、数字键盘和退格按钮。服务器使用Electron，客户端使用react native。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我昨天晚上做了一個Stream Deck的克隆。由於我只花了4個小時編寫代碼，目前只有媒體控制、數字鍵盤和退格按鈕。服務器使用Electron，客戶端使用react native。"
+    }
+  ]
 }

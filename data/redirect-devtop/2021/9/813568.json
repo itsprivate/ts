@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-04T16:00:29Z",
   "image": "https://dev.to/social_previews/article/813568.png",
   "author": "Hajar | هاجر",
-  "author_url": "https://dev.to/hajarnasr"
+  "author_url": "https://dev.to/hajarnasr",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "バイナリサーチは、高速な検索アルゴリズムの一つで、特に大規模な...",
+      "title": "バイナリーサーチ "
+    },
+    {
+      "locale": "zh",
+      "description": "二进制搜索是最快的搜索算法之一，特别是当它涉及到搜索大...",
+      "title": "二进制搜索 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "二進制搜索是最快的搜索算法之一，特別是當它涉及到搜索大...",
+      "title": "二進制搜索 "
+    }
+  ]
 }
