@@ -91,5 +91,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "一人前のホラップ。"
+    },
+    {
+      "locale": "zh",
+      "title": "一个实际的Holup。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個實際的Holup。"
+    }
+  ]
 }
