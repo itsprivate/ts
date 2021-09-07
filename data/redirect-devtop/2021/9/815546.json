@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-06T21:23:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pP27-nnz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/om8xz99h7ect2pksxiyj.jpg",
   "author": "Ben Matt, Jr.",
-  "author_url": "https://dev.to/jrmatanda"
+  "author_url": "https://dev.to/jrmatanda",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "オブジェクトとプロトタイプ 多くのオブジェクト指向言語と同様に、JavaScriptは...",
+      "title": "JSでオブジェクトを使いこなす 🍨 (その2)"
+    },
+    {
+      "locale": "zh",
+      "description": "对象和原型 像许多面向对象的语言一样，JavaScript提供了支持...",
+      "title": "JS中的主对象 🍨 (Part 2)"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "對象和原型 像許多面向對象的語言一樣，JavaScript提供了支持...",
+      "title": "JS中的主對象 🍨 (Part 2)"
+    }
+  ]
 }

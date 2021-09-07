@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "気持ち悪くてたまりません。"
+    },
+    {
+      "locale": "zh",
+      "title": "这是令人毛骨悚然和恶心的事情"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是令人毛骨悚然和噁心的事情"
+    }
+  ]
 }
