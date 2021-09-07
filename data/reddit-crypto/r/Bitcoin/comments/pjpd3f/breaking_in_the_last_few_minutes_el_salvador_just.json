@@ -47,5 +47,19 @@
     }
   },
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "速報：この数分で、エルサルバドルは150個の #Bitcoin を追加購入しました 今では550BTCを所有しています"
+    },
+    {
+      "locale": "zh",
+      "title": "爆炸性新闻：在过去的几分钟里，萨尔瓦多刚刚又买了150个#比特币 他们现在拥有550个BTC"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爆炸性新聞：在過去的幾分鐘裏，薩爾瓦多剛剛又買了150個#比特幣 他們現在擁有550個BTC"
+    }
+  ]
 }
