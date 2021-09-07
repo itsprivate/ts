@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-05T02:15:55Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VJdtUVFO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9xwuerp2u1aqrnuotkzz.png",
   "author": "Rajshree Vatsa",
-  "author_url": "https://dev.to/rajshreevats"
+  "author_url": "https://dev.to/rajshreevats",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Hello Everyone...👋 今回のPostでは、オブジェクト指向プログラミングの概念を簡単に...",
+      "title": "Reactを学ぶ前のJSの授業"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好...👋 在本帖中，我们简要介绍了面向对象的编程概念。",
+      "title": "学习React前的JS课程"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好...👋 在本帖中，我們簡要介紹了面向對象的編程概念。",
+      "title": "學習React前的JS課程"
+    }
+  ]
 }
