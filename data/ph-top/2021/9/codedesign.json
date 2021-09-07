@@ -88,5 +88,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-07T07:02:00Z"
+  "original_createdAt": "2021-09-07T07:02:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CodeDesign.appは、コンポーネントから本格的なページまで、コードを書かずに91%の速さで作成することができるコードレスデザインツールです。作ったものはすぐにデプロイしたり、React、Angular、Vueにエクスポートすることができます。",
+      "tagline": "コードを書くことなく、ページの構築、起動、エクスポートを91%高速化"
+    },
+    {
+      "locale": "zh",
+      "description": "CodeDesign.app是一个无代码设计工具，它可以帮助你在不写代码的情况下，以91%的速度创建从组件到成熟的页面。即时部署或将其导出到React、Angular和Vue。",
+      "tagline": "构建、启动和导出页面的速度提高了91%，无需编写代码"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "CodeDesign.app是一個無代碼設計工具，它可以幫助你在不寫代碼的情況下，以91%的速度創建從組件到成熟的頁面。即時部署或將其導出到React、Angular和Vue。",
+      "tagline": "構建、啓動和導出頁面的速度提高了91%，無需編寫代碼"
+    }
+  ]
 }
