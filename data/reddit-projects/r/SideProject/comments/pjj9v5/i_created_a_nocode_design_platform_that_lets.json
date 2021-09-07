@@ -57,5 +57,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "The product is called CodeDesign.app [https://codedesign.app/] and we created it\nfor developers, marketers, and entrepreneurs. You can create designs using the\ndrag and drop builder, deploy it live, or export it to code. I'd love to get any\nand all thoughts/feedback/critiques. If you'd like to try…"
+  "the_new_excerpt": "The product is called CodeDesign.app [https://codedesign.app/] and we created it\nfor developers, marketers, and entrepreneurs. You can create designs using the\ndrag and drop builder, deploy it live, or export it to code. I'd love to get any\nand all thoughts/feedback/critiques. If you'd like to try…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "CodeDesign.app [https://codedesign.app/]という製品で、開発者やマーケティング担当者、起業家のために作ったものです。\n開発者、マーケッター、起業家のために作りました。ドラッグ＆ドロップ式のビルダーを使ってデザインを作成し\nドラッグ＆ドロップビルダーでデザインを作成し、それをライブで展開したり、コードにエクスポートしたりすることができます。感想やフィードバックをお待ちしています。\nご意見、ご感想、ご批判をお寄せください。試してみたい方は...",
+      "title": "私は、誰でもコンポーネントを設計し、それをホストし、React、Angular、VueにエクスポートできるNo-Code Design Platformを作りました（実験）。あなたのフィードバックをお待ちしています。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "该产品被称为CodeDesign.app[https://codedesign.app/]，我们创建了它\n为开发人员、营销人员和企业家创建的。你可以使用拖放生成器来创建设计\n拖放生成器创建设计，实时部署，或将其导出为代码。我很想得到任何\n和所有的想法/反馈/批评。如果你想尝试...",
+      "title": "我创建了一个无代码设计平台，让任何人都可以设计组件，托管它并将其导出到React、Angular和Vue（实验性）。希望得到您的反馈。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "該產品被稱爲CodeDesign.app[https://codedesign.app/]，我們創建了它\n爲開發人員、營銷人員和企業家創建的。你可以使用拖放生成器來創建設計\n拖放生成器創建設計，實時部署，或將其導出爲代碼。我很想得到任何\n和所有的想法/反饋/批評。如果你想嘗試...",
+      "title": "我創建了一個無代碼設計平臺，讓任何人都可以設計組件，託管它並將其導出到React、Angular和Vue（實驗性）。希望得到您的反饋。"
+    }
+  ]
 }
