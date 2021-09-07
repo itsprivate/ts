@@ -103,5 +103,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1630988801,
-  "the_new_excerpt": "Read the full law…"
+  "the_new_excerpt": "Read the full law…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "法律の全文を読む...",
+      "title": "2時間でビットコインがエルサルバドルの法定通貨になる"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "阅读完整的法律...",
+      "title": "两小时内，比特币成为萨尔瓦多的法定货币"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "閱讀完整的法律...",
+      "title": "兩小時內，比特幣成爲薩爾瓦多的法定貨幣"
+    }
+  ]
 }

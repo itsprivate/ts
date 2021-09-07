@@ -65,5 +65,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "最終氷期以降の大気中のCO₂[OC]"
+    },
+    {
+      "locale": "zh",
+      "title": "自上个冰河时代以来的大气中的二氧化碳[OC]"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "自上個冰河時代以來的大氣中的二氧化碳[OC]"
+    }
+  ]
 }
