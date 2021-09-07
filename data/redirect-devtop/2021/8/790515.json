@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-13T11:35:43Z",
   "image": "https://dev.to/social_previews/article/790515.png",
   "author": "Shivam Balwani",
-  "author_url": "https://dev.to/balwanishivam"
+  "author_url": "https://dev.to/balwanishivam",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに モノリス・アーキテクチャとは、ソフトウェア・プログラムの設計モデルの一つです。このモデルでは...",
+      "title": "Djangoにおけるモノリスからマイクロサービスへのデータ移行 "
+    },
+    {
+      "locale": "zh",
+      "description": "简介：单片机架构是一个软件程序的设计模型。在这一模式下，我们可以将其作为一个整体。",
+      "title": "Django中从单片机到微服务的数据迁移 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介：單片機架構是一個軟件程序的設計模型。在這一模式下，我們可以將其作爲一個整體。",
+      "title": "Django中從單片機到微服務的數據遷移 "
+    }
+  ]
 }
