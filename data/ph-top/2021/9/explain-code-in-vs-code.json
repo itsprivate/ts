@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-07T07:03:00Z"
+  "original_createdAt": "2021-09-07T07:03:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Figstackは、VS Codeで直接、ステップ・バイ・ステップでコードを説明してくれるので、コードを瞬時に理解することができます。",
+      "tagline": "瞬間的な時間の複雑さ、説明、ドキュメンテーション"
+    },
+    {
+      "locale": "zh",
+      "description": "Figstack帮助你立即理解代码，让你一步步地解释--直接在VS Code中解释。",
+      "tagline": "即时时间的复杂性、解释和文件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Figstack幫助你立即理解代碼，讓你一步步地解釋--直接在VS Code中解釋。",
+      "tagline": "即時時間的複雜性、解釋和文件"
+    }
+  ]
 }
