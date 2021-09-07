@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-05T15:21:44Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AM7X3sR9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9zuttjk21t5f5jxeocky.png",
   "author": "Shahid Rizwan",
-  "author_url": "https://dev.to/shaedrizwan"
+  "author_url": "https://dev.to/shaedrizwan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ダークモードが2019年からのホットな機能の一つであることは周知の通りです。スマートフォン、ラップトップ、...など、あらゆるものがそうです。",
+      "title": "ユーザーのシステム設定に応じてWebアプリをダーク/ライトモードに設定する"
+    },
+    {
+      "locale": "zh",
+      "description": "我们都知道黑暗模式是2019年最热门的功能之一。从智能手机、笔记本电脑、...",
+      "title": "根据用户系统设置将你的网络应用程序设置为黑暗/光明模式"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們都知道黑暗模式是2019年最熱門的功能之一。從智能手機、筆記本電腦、...",
+      "title": "根據用戶系統設置將你的網絡應用程序設置爲黑暗/光明模式"
+    }
+  ]
 }
