@@ -45,5 +45,17 @@
   "original_created_at": "2020-10-09T09:59:47Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DKEaiWy0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iwwbb1bikfapzu7nxnv9.jpeg",
   "author": "Ademola Babatunde",
-  "author_url": "https://dev.to/addempsea"
+  "author_url": "https://dev.to/addempsea",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "封面图片来自这里 有没有想过，如果你能在电脑上运行一个Python函数，那么你就可以在电脑上运行这个函数。",
+      "title": "蛇在JS的阴影中。在nodeJs中运行你的python脚本"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "封面圖片來自這裏 有沒有想過，如果你能在電腦上運行一個Python函數，那麼你就可以在電腦上運行這個函數。",
+      "title": "蛇在JS的陰影中。在nodeJs中運行你的python腳本"
+    }
+  ]
 }
