@@ -43,5 +43,22 @@
   "original_created_at": "2021-09-05T21:23:19Z",
   "image": "https://dev.to/social_previews/article/814528.png",
   "author": "Thomas(Tripp) White ",
-  "author_url": "https://dev.to/turpp"
+  "author_url": "https://dev.to/turpp",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "16進数やrgbの色を覚えるのは、どうしてこんなに難しいのでしょうか？ましてや...",
+      "title": "--cssの変数"
+    },
+    {
+      "locale": "zh",
+      "description": "世界上为什么十六进制或RGB颜色要这么难记？更不用说有多少...",
+      "title": "--css变量"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "世界上爲什麼十六進制或RGB顏色要這麼難記？更不用說有多少...",
+      "title": "--css變量"
+    }
+  ]
 }
