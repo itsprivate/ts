@@ -11,5 +11,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "txtpaper - ウェブページの記事テキストをePub、Kindle、PDFファイルに変換するためのAPIとウェブアプリ。"
+    },
+    {
+      "locale": "zh",
+      "title": "txtpaper - 将网页文章文本转换为ePub、Kindle和PDF文件的API和Web应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "txtpaper - 將網頁文章文本轉換爲ePub、Kindle和PDF文件的API和Web應用程序"
+    }
+  ]
 }
