@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-05T11:45:47Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rafP7vXZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/btnqftewmv8achulgk8u.jpg",
   "author": "KR Tirtho",
-  "author_url": "https://dev.to/krtirtho"
+  "author_url": "https://dev.to/krtirtho",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "パート1とパート2を読んでいない人は、まずそれらを読んでください。そうしないと、この記事が......と感じてしまいます。",
+      "title": "Nestjs🐺⚡｜Nodejsのフレームワーク（第3回）｜データベース統合、TypeORM"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你还没有读过第一部分和第二部分，请先阅读这些，否则你会觉得这篇文章是...",
+      "title": "Nodejs的框架（第3部分）｜数据库集成，类型ORM"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你還沒有讀過第一部分和第二部分，請先閱讀這些，否則你會覺得這篇文章是...",
+      "title": "Nodejs的框架（第3部分）｜數據庫集成，類型ORM"
+    }
+  ]
 }
