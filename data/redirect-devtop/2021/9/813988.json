@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-05T08:35:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BddblBCN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m6e7tkc9681v7sy9a1ae.png",
   "author": "Vivek Alhat",
-  "author_url": "https://dev.to/vivekalhat"
+  "author_url": "https://dev.to/vivekalhat",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TypeScriptとは何ですか？  TypeScriptは、JavaScriptのスーパーセットです。すべての機能を提供しています。",
+      "title": "TypeScriptの環境を設定するには？"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是 TypeScript？  TypeScript 是 JavaScript 的一个超集。它提供了所有的功能...",
+      "title": "如何配置TypeScript环境？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是 TypeScript？  TypeScript 是 JavaScript 的一個超集。它提供了所有的功能...",
+      "title": "如何配置TypeScript環境？"
+    }
+  ]
 }
