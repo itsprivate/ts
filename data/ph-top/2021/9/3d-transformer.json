@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-07T07:01:40Z"
+  "original_createdAt": "2021-09-07T07:01:40Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "3D Transformerは、画像を3D回転させて美しい3Dモックアップにするオンラインツールです✨ あらゆるフレームを見事な3DモックアップにするFigmaプラグインが含まれています。",
+      "tagline": "フレームを美しい3Dモックアップにする オンライン＆Figmaで"
+    },
+    {
+      "locale": "zh",
+      "description": "3D Transformer是一个在线工具，可以对你的图片进行3D旋转，并将其变成美丽的3D模型✨ 它包括一个Figma插件，可以将任何框架变成一个令人惊叹的3D模型。",
+      "tagline": "在Figma中把你的框架变成一个漂亮的3D模拟图"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "3D Transformer是一個在線工具，可以對你的圖片進行3D旋轉，並將其變成美麗的3D模型✨ 它包括一個Figma插件，可以將任何框架變成一個令人驚歎的3D模型。",
+      "tagline": "在Figma中把你的框架變成一個漂亮的3D模擬圖"
+    }
+  ]
 }
