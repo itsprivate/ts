@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "I’m aware that a single molecule can’t be a solid, liquid, or gas so I wonder\nhow many molecules are needed to make a phase meaningful, in this case a liquid."
+  "the_new_excerpt": "I’m aware that a single molecule can’t be a solid, liquid, or gas so I wonder\nhow many molecules are needed to make a phase meaningful, in this case a liquid.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "1つの分子が固体にも液体にも気体にもなれないことは知っています。\n相を意味のあるものにするには何個の分子が必要なのか、この場合は液体です。",
+      "title": "水が液体として振る舞うためには、水分子は何個必要ですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我知道一个分子不可能是固体、液体或气体，所以我想知道\n需要多少个分子才能使一个阶段有意义，在这种情况下是液体。",
+      "title": "水需要多少个水分子才能表现为液体？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我知道一個分子不可能是固體、液體或氣體，所以我想知道\n需要多少個分子才能使一個階段有意義，在這種情況下是液體。",
+      "title": "水需要多少個水分子才能表現爲液體？"
+    }
+  ]
 }
