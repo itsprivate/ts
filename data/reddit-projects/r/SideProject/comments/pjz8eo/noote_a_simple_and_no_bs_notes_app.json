@@ -136,5 +136,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Noote - シンプルでBSのないメモアプリ"
+    },
+    {
+      "locale": "zh",
+      "title": "Noote - 一个简单的、没有废话的笔记应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Noote - 一個簡單的、沒有廢話的筆記應用程序"
+    }
+  ]
 }

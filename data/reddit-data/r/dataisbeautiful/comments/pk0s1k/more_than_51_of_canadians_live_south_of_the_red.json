@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "More than 51 % of Canadians Live South Of The Red Line [OC] ※2016年カナダ国勢調査のデータを使用しています。"
+    },
+    {
+      "locale": "zh",
+      "title": "超过51%的加拿大人居住在红线以南 [OC] *使用了2016年加拿大人口普查数据。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "超過51%的加拿大人居住在紅線以南 [OC] *使用了2016年加拿大人口普查數據。"
+    }
+  ]
 }
