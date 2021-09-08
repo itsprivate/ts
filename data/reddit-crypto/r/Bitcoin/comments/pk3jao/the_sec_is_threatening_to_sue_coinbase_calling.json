@@ -47,5 +47,19 @@
     "type": "twitter.com"
   },
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "SECはCoinbaseを告訴すると脅しており、彼らのUSDC商品の4％のAPYを「セキュリティ」と呼び、その理由や方法を言おうとしません。"
+    },
+    {
+      "locale": "zh",
+      "title": "美国证券交易委员会威胁要起诉Coinbase，称其USDC产品的4%年利率为 \"证券\"，并拒绝说明原因和方式。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "美國證券交易委員會威脅要起訴Coinbase，稱其USDC產品的4%年利率爲 \"證券\"，並拒絕說明原因和方式。"
+    }
+  ]
 }
