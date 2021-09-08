@@ -14,5 +14,19 @@
   "tags": [
     "The New York Times"
   ],
-  "image": "https://static01.nyt.com/images/2021/09/07/us/politics/00dc-vets-promo/00dc-vets-promo-facebookJumbo.jpg"
+  "image": "https://static01.nyt.com/images/2021/09/07/us/politics/00dc-vets-promo/00dc-vets-promo-facebookJumbo.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "20年戦争での活躍"
+    },
+    {
+      "locale": "zh",
+      "title": "在二十年的战争中服役"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在二十年的戰爭中服役"
+    }
+  ]
 }
