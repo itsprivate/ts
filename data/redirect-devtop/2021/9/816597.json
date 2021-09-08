@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-07T16:58:17Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Czgar923--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rpdaycvchbed3bhs3ebm.png",
   "author": "Tabassum Khanum",
-  "author_url": "https://dev.to/codewithtee"
+  "author_url": "https://dev.to/codewithtee",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コーダーの皆さん、こんにちは。  もしあなたがreactの開発者であれば、最新の...をご存知かもしれません。",
+      "title": "React 18への準備はできていますか？"
+    },
+    {
+      "locale": "zh",
+      "description": "嘿，编码员们！如果你是一个反应型的开发者，那么你可能已经听说过最新的反应式开发。  如果你是一个反应式开发人员，那么你可能已经听说了最新的 \"反应式\"。",
+      "title": "你准备好迎接React 18了吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嘿，編碼員們！如果你是一個反應型的開發者，那麼你可能已經聽說過最新的反應式開發。  如果你是一個反應式開發人員，那麼你可能已經聽說了最新的 \"反應式\"。",
+      "title": "你準備好迎接React 18了嗎？"
+    }
+  ]
 }
