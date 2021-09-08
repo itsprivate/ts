@@ -14,5 +14,19 @@
   "tags": [
     "The New York Times"
   ],
-  "image": "https://static01.nyt.com/images/2021/09/08/world/08hk-crackdown/08hk-crackdown-facebookJumbo.jpg"
+  "image": "https://static01.nyt.com/images/2021/09/08/world/08hk-crackdown/08hk-crackdown-facebookJumbo.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "香港警察、天安門事件の主催者を逮捕"
+    },
+    {
+      "locale": "zh",
+      "title": "香港警方逮捕了天安门广场守望的组织者"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "香港警方逮捕了天安門廣場守望的組織者"
+    }
+  ]
 }
