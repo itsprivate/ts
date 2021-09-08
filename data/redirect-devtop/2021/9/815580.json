@@ -48,5 +48,22 @@
   "original_created_at": "2021-09-06T23:24:26Z",
   "image": "https://dev.to/social_previews/article/815580.png",
   "author": "Alvaro Montoro",
-  "author_url": "https://dev.to/alvaromontoro"
+  "author_url": "https://dev.to/alvaromontoro",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CSSで描かれたHomer Simpsonのレスポンシブ・ドローイングで、単一のHTML要素を使用しています。",
+      "title": "ホーマー・シンプソンがCSSで...1つのHTML要素で"
+    },
+    {
+      "locale": "zh",
+      "description": "一个用CSS完成的荷马-辛普森的响应式绘画，使用一个单一的HTML元素。",
+      "title": "荷马-辛普森在CSS中的表现......只有一个HTML元素"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個用CSS完成的荷馬-辛普森的響應式繪畫，使用一個單一的HTML元素。",
+      "title": "荷馬-辛普森在CSS中的表現......只有一個HTML元素"
+    }
+  ]
 }
