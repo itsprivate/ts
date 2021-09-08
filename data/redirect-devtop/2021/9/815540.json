@@ -43,5 +43,22 @@
   "original_created_at": "2021-09-06T20:57:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LJqXawyE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1xhs01td9btge2w8ale9.png",
   "author": "Stephanie Eckles",
-  "author_url": "https://dev.to/5t3ph"
+  "author_url": "https://dev.to/5t3ph",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ビルドのセットアップ TL;DR - 私はEleventyとSass CLIを使用していますが、他にもいくつかのビルドを作成しています。",
+      "title": "フロントエンドプロジェクトで使用するツールと拡張機能の構築"
+    },
+    {
+      "locale": "zh",
+      "description": "构建设置 TL;DR - 我使用Eleventy和Sass CLI，并创建了一些其他构建...",
+      "title": "我在前端项目中使用的构建工具和扩展程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "構建設置 TL;DR - 我使用Eleventy和Sass CLI，並創建了一些其他構建...",
+      "title": "我在前端項目中使用的構建工具和擴展程序"
+    }
+  ]
 }
