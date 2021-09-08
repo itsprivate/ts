@@ -101,5 +101,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-08T07:00:01Z"
+  "original_createdAt": "2021-09-08T07:00:01Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "flomoは、zettelkastenメソッドに基づいた、最小限のメモツールです。flomoのテキストボックスとAPIの両方が、シームレスで迅速なメモ書き体験を提供します。デイリーレビューとクラウド同期により、すべてのプラットフォームで確認しながらメモを書くことができます。",
+      "tagline": "思考力を高めるための最小限のメモを取るツール"
+    },
+    {
+      "locale": "zh",
+      "description": "flomo是一个基于zettelkasten方法的最小的备忘工具。flomo中的文本框和API都提供了一个无缝和快速的备忘录体验。通过日常审查和云同步，你可以在所有平台上检查和撰写备忘录。",
+      "tagline": "赋予更好的思考能力的最小的备忘工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "flomo是一個基於zettelkasten方法的最小的備忘工具。flomo中的文本框和API都提供了一個無縫和快速的備忘錄體驗。通過日常審查和雲同步，你可以在所有平臺上檢查和撰寫備忘錄。",
+      "tagline": "賦予更好的思考能力的最小的備忘工具"
+    }
+  ]
 }
