@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "押すんですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你会推动它吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你會推動它嗎？"
+    }
+  ]
 }
