@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-07T15:24:52Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nubK2wxm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ayc5nx8p3dv4gaonhbaz.png",
   "author": "Laurie",
-  "author_url": "https://dev.to/laurieontech"
+  "author_url": "https://dev.to/laurieontech",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "時には構文があまり意味をなさず、恣意的に感じられることもあります。しかし、多くの場合、フードの下には理由があります。",
+      "title": "関数、太い矢印、括弧"
+    },
+    {
+      "locale": "zh",
+      "description": "有时，语法并没有很大的意义，感觉很随意。但通常情况下，这是有原因的。",
+      "title": "函数、脂肪箭头和括号"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有時，語法並沒有很大的意義，感覺很隨意。但通常情況下，這是有原因的。",
+      "title": "函數、脂肪箭頭和括號"
+    }
+  ]
 }
