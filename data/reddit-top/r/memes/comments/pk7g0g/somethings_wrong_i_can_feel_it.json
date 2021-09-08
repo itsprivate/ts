@@ -106,5 +106,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "何かが間違っている、私はそれを感じる"
+    },
+    {
+      "locale": "zh",
+      "title": "有些事情不对劲，我可以感觉到"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有些事情不對勁，我可以感覺到"
+    }
+  ]
 }
