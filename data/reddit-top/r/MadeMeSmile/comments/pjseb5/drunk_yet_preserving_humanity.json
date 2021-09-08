@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "酔いながらも人間性を保つ"
+    },
+    {
+      "locale": "zh",
+      "title": "醉了，但还是要保持人性"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "醉了，但還是要保持人性"
+    }
+  ]
 }
