@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "すべてのヒーローがマントを着ているわけではない"
+    },
+    {
+      "locale": "zh",
+      "title": "不是所有的英雄都穿上了斗篷"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不是所有的英雄都穿上了斗篷"
+    }
+  ]
 }
