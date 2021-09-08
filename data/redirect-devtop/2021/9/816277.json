@@ -48,5 +48,22 @@
   "original_created_at": "2021-09-07T13:56:40Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GTydF35w--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jdcel8wns4t60thq5ake.png",
   "author": "Ali Spittel",
-  "author_url": "https://dev.to/aspittel"
+  "author_url": "https://dev.to/aspittel",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "AWSの私のチームは、AWS Amplifyをこれまで以上に良くする新機能を大量にリリースしている。ここでは...",
+      "title": "AWS Amplifyの10の新機能をチェック"
+    },
+    {
+      "locale": "zh",
+      "description": "我在AWS的团队一直在发布大量的新功能，使AWS Amplify比以前更好。这里...",
+      "title": "10个新的AWS Amplify功能需要查看"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我在AWS的團隊一直在發佈大量的新功能，使AWS Amplify比以前更好。這裏...",
+      "title": "10個新的AWS Amplify功能需要查看"
+    }
+  ]
 }

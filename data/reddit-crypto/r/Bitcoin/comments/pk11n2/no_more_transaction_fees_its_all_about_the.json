@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "決済手数料は不要です。すべてはインセンティブのためです。"
+    },
+    {
+      "locale": "zh",
+      "title": "没有更多的交易费用。这一切都与激励措施有关，宝贝。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "沒有更多的交易費用。這一切都與激勵措施有關，寶貝。"
+    }
+  ]
 }
