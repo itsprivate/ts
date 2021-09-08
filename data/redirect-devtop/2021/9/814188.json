@@ -41,5 +41,22 @@
   "original_created_at": "2021-09-05T13:52:34Z",
   "image": "https://dev.to/social_previews/article/814188.png",
   "author": "Marinus van Velzen",
-  "author_url": "https://dev.to/rocksheep"
+  "author_url": "https://dev.to/rocksheep",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ここ数年、私はLaravelで何度も何度もモデルを作ってきました。これらのモデルは、常に...",
+      "title": "Laravel Eloquent Buildersによるクリーンなモデル"
+    },
+    {
+      "locale": "zh",
+      "description": "在过去的几年里，我在Laravel中创建了大量的模型。这些模型总是...",
+      "title": "用Laravel Eloquent Builders建立更干净的模型"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在過去的幾年裏，我在Laravel中創建了大量的模型。這些模型總是...",
+      "title": "用Laravel Eloquent Builders建立更乾淨的模型"
+    }
+  ]
 }
