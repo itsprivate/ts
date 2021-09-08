@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-06T09:51:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Mq8WxHpG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t3zizxkukp7mnmwhadvt.png",
   "author": "Swarnali Roy",
-  "author_url": "https://dev.to/swarnaliroy94"
+  "author_url": "https://dev.to/swarnaliroy94",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "文字列の反転は、JavaScriptで最もよく使われ、必要とされる操作の一つです。このような場合、...",
+      "title": "JavaScriptで文字列を反転させる"
+    },
+    {
+      "locale": "zh",
+      "description": "反转一个字符串确实是JavaScript中最常见和最需要的操作之一。在这个过程中...",
+      "title": "在JavaScript中反转一个字符串"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "反轉一個字符串確實是JavaScript中最常見和最需要的操作之一。在這個過程中...",
+      "title": "在JavaScript中反轉一個字符串"
+    }
+  ]
 }

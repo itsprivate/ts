@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-07T01:53:51Z",
   "image": "https://dev.to/social_previews/article/815744.png",
   "author": "Henry Williams",
-  "author_url": "https://dev.to/henryjw"
+  "author_url": "https://dev.to/henryjw",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに 仕事のプロジェクトの一環として、HTTP...をインターセプトして保存する方法を開発する必要がありました。",
+      "title": "NodeJSによるHTTPリクエストのインターセプト"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍 作为工作中一个项目的一部分，我必须开发一种方法来拦截和存储HTTP...",
+      "title": "用NodeJS拦截HTTP请求"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹 作爲工作中一個項目的一部分，我必須開發一種方法來攔截和存儲HTTP...",
+      "title": "用NodeJS攔截HTTP請求"
+    }
+  ]
 }
