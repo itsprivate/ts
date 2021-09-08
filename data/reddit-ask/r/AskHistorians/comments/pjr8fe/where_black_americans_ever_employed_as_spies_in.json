@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "TYPO: Were not Where*"
+  "the_new_excerpt": "TYPO: Were not Where*",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "TYPO: Where*ではなくWere",
+      "title": "OSSやCIAの黎明期に、黒人がスパイとして採用されたことはありますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "TYPO: 我们不是在哪里*",
+      "title": "在OSS和CIA的早期，美国黑人曾被雇用为间谍吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "TYPO: 我們不是在哪裏*",
+      "title": "在OSS和CIA的早期，美國黑人曾被僱用爲間諜嗎？"
+    }
+  ]
 }
