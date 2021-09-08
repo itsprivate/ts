@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "その冷たさは別の惑星のもの"
+    },
+    {
+      "locale": "zh",
+      "title": "这股寒意来自另一个星球"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這股寒意來自另一個星球"
+    }
+  ]
 }
