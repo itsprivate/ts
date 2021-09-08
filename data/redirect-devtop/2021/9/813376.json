@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-04T10:38:54Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IsaOUDWN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ad6renhvgl49pke8gcjh.png",
   "author": "Maksim",
-  "author_url": "https://dev.to/pretaporter"
+  "author_url": "https://dev.to/pretaporter",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "クイックチュートリアル：TypeScriptで双方向マップを実装する方法",
+      "title": "データ構造: 双方向マップ"
+    },
+    {
+      "locale": "zh",
+      "description": "如何在TypeScript语言上实现双向地图的快速教程",
+      "title": "数据结构。双向地图"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如何在TypeScript語言上實現雙向地圖的快速教程",
+      "title": "數據結構。雙向地圖"
+    }
+  ]
 }
