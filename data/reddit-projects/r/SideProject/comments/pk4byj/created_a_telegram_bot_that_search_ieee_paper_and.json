@@ -42,5 +42,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "I have made a Telegram Bot that Search IEEE Site for Research Paper and Get the\nDetail, And then Download that Paper Once the User Send Link Back to the Bot\n\nSEE HOW TO USE IT t.me/papershodkkbot…"
+  "the_new_excerpt": "I have made a Telegram Bot that Search IEEE Site for Research Paper and Get the\nDetail, And then Download that Paper Once the User Send Link Back to the Bot\n\nSEE HOW TO USE IT t.me/papershodkkbot…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "IEEEのサイトで研究論文を検索し、その詳細を取得する電報ボットを作りました。\nそして、ユーザーがボットにリンクを返したら、その論文をダウンロードします。\n\n使用方法を見る t.me/papershodkkbot...",
+      "title": "IEEE論文を検索してPDFをダウンロードする電報ボットを作成"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我做了一个Telegram机器人，它可以在IEEE网站上搜索研究论文并获得细节。\n详细内容，然后下载该论文，一旦用户将链接发回给Bot\n\n请看如何使用它 t.me/papershodkkbot...",
+      "title": "创建一个搜索IEEE论文和下载PDF的Telegram机器人"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我做了一個Telegram機器人，它可以在IEEE網站上搜索研究論文並獲得細節。\n詳細內容，然後下載該論文，一旦用戶將鏈接發回給Bot\n\n請看如何使用它 t.me/papershodkkbot...",
+      "title": "創建一個搜索IEEE論文和下載PDF的Telegram機器人"
+    }
+  ]
 }
