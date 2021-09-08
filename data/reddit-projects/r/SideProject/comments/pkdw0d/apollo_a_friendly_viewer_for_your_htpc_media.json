@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Apollo - あなたのHTPCメディアライブラリのためのフレンドリーなビューア"
+    },
+    {
+      "locale": "zh",
+      "title": "Apollo - 为您的HTPC媒体库提供一个友好的浏览器"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Apollo - 爲您的HTPC媒體庫提供一個友好的瀏覽器"
+    }
+  ]
 }
