@@ -50,5 +50,22 @@
   "original_created_at": "2021-09-07T23:45:58Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--o1KOQuGq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ar9u75uk4l92j633qi08.png",
   "author": "Lenin Felix",
-  "author_url": "https://dev.to/soyleninjs"
+  "author_url": "https://dev.to/soyleninjs",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "確認しておきますが、配列に与えられた重複した要素を削除する必要が何度も（あるいは何度も）発生しますが、私は...",
+      "title": "Javascriptで配列の重複を削除する3つの方法"
+    },
+    {
+      "locale": "zh",
+      "description": "让我们检查一下，很多时候（或很少）需要删除一个数组中的重复元素，我...",
+      "title": "在Javascript中删除数组中的重复部分的3种方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "讓我們檢查一下，很多時候（或很少）需要刪除一個數組中的重複元素，我...",
+      "title": "在Javascript中刪除數組中的重複部分的3種方法"
+    }
+  ]
 }
