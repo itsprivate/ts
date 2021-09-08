@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-06T15:35:48Z",
   "image": "https://dev.to/social_previews/article/815219.png",
   "author": "Ben Matt, Jr.",
-  "author_url": "https://dev.to/jrmatanda"
+  "author_url": "https://dev.to/jrmatanda",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "オブジェクト オブジェクトは、JavaScriptの基本的なデータ構造です。直感的には、オブジェクトは...",
+      "title": "\n JSでオブジェクトを使いこなす 🍨 (Part 1)"
+    },
+    {
+      "locale": "zh",
+      "description": "对象 对象是JavaScript的基本数据结构。直观地说，一个对象...",
+      "title": "\n JS中的主对象 🍨 (第一部分)"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "對象 對象是JavaScript的基本數據結構。直觀地說，一個對象...",
+      "title": "\n JS中的主對象 🍨 (第一部分)"
+    }
+  ]
 }

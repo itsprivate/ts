@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "プロ選手"
+    },
+    {
+      "locale": "zh",
+      "title": "职业球员"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "職業球員"
+    }
+  ]
 }
