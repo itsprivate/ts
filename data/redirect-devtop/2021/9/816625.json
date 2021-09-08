@@ -43,5 +43,22 @@
   "original_created_at": "2021-09-07T18:06:54Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sMQJ4nV9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gj36jpi32zhlhc6wpz3u.png",
   "author": "capscode",
-  "author_url": "https://dev.to/capscode"
+  "author_url": "https://dev.to/capscode",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "開発者の皆様、こんにちは。今回のブログでは、モバイルデバイスやブラウザ、あるいは...を検出する方法をご紹介します。",
+      "title": "JavaScriptで携帯電話の端末やOSを検出する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，在这篇博客中，我们将学习如何检测移动设备或浏览器，以及如何将这些设备的信息传递给用户。",
+      "title": "如何使用JavaScript检测移动设备和操作系统"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，在這篇博客中，我們將學習如何檢測移動設備或瀏覽器，以及如何將這些設備的信息傳遞給用戶。",
+      "title": "如何使用JavaScript檢測移動設備和操作系統"
+    }
+  ]
 }

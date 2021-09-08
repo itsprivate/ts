@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-08T07:36:46Z"
+  "original_createdAt": "2021-09-08T07:36:46Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Tailwind Mobile - は、Tailwind CSSで構築された、フリーでオープンソースのモバイルUIコンポーネントライブラリです。React、Svelte、Vue.js用のコンポーネントを備えています。",
+      "tagline": "Tailwind CSSで構築されたモバイルUIコンポーネント"
+    },
+    {
+      "locale": "zh",
+      "description": "Tailwind Mobile - 是一个免费和开源的移动UI组件库，由Tailwind CSS构建。拥有React、Svelte和Vue.js的组件。",
+      "tagline": "用Tailwind CSS构建的移动UI组件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Tailwind Mobile - 是一個免費和開源的移動UI組件庫，由Tailwind CSS構建。擁有React、Svelte和Vue.js的組件。",
+      "tagline": "用Tailwind CSS構建的移動UI組件"
+    }
+  ]
 }
