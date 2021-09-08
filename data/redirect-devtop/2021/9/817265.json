@@ -57,5 +57,22 @@
   "original_created_at": "2021-09-08T08:11:28Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NPr3KW14--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9p15djbgfz4swnj7sowf.jpg",
   "author": "Damodar Lohani",
-  "author_url": "https://dev.to/lohanidamodar"
+  "author_url": "https://dev.to/lohanidamodar",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Appwrite 0.10では、パスワードレスの認証方法であるMagic URLを導入しました。これにより、開発者は...",
+      "title": "Flutter + Appwriteによる魔法のURL認証 "
+    },
+    {
+      "locale": "zh",
+      "description": "Appwrite 0.10引入了Magic URL这种无密码的认证方法。这使开发者能够...",
+      "title": "使用Flutter + Appwrite的神奇URL认证 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Appwrite 0.10引入了Magic URL這種無密碼的認證方法。這使開發者能夠...",
+      "title": "使用Flutter + Appwrite的神奇URL認證 "
+    }
+  ]
 }
