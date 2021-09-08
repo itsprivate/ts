@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Blues CluesのSteveからのメッセージです。"
+    },
+    {
+      "locale": "zh",
+      "title": "来自《布鲁斯线索》的史蒂夫的这条信息"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "來自《布魯斯線索》的史蒂夫的這條信息"
+    }
+  ]
 }
