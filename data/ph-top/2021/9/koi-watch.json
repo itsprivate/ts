@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-09T07:00:00Z"
+  "original_createdAt": "2021-09-09T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Koi Watchは、友人や家族が同期して動画を視聴できるサイトです。Google Driveから自分の動画を持ってくるか、YouTube、Vimeo、Soundcloudなどの人気サイトのリンクを使用します。一緒に視聴しながら、オーディオ、ビデオ、テキストチャットを利用できます。",
+      "tagline": "一緒にビデオを見る"
+    },
+    {
+      "locale": "zh",
+      "description": "Koi Watch是一个供朋友和家人同步观看视频的网站。从谷歌硬盘带来你自己的视频，或使用来自YouTube、Vimeo、Soundcloud等流行网站的链接。在你们一起观看时，可以使用音频、视频或文字聊天!",
+      "tagline": "一起观看视频"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Koi Watch是一個供朋友和家人同步觀看視頻的網站。從谷歌硬盤帶來你自己的視頻，或使用來自YouTube、Vimeo、Soundcloud等流行網站的鏈接。在你們一起觀看時，可以使用音頻、視頻或文字聊天!",
+      "tagline": "一起觀看視頻"
+    }
+  ]
 }
