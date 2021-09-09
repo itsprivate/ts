@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Vue.jsを試すために購買力平価計算機を作ってみた（コメントにリンクあり"
+    },
+    {
+      "locale": "zh",
+      "title": "我创建了一个购买力平价计算器来试用Vue.js（评论中的链接）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我創建了一個購買力平價計算器來試用Vue.js（評論中的鏈接）。"
+    }
+  ]
 }
