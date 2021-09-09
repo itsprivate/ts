@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-07T14:30:29Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CWnhb6ag--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zwuq6tflwrp3lpn8t9dj.png",
   "author": "Madhavi Swamy",
-  "author_url": "https://dev.to/madhaviswamy"
+  "author_url": "https://dev.to/madhaviswamy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "読者の皆さん、この記事のタイトルはクリックベイトではありません、あなたは実際にHTMLを学び始めることができ、...",
+      "title": "初心者が4時間で学ぶHTML"
+    },
+    {
+      "locale": "zh",
+      "description": "嘿，读者们，这篇文章的标题不是点击诱饵，你实际上可以开始学习HTML和...",
+      "title": "4小时内学会HTML，作为一个初学者"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嘿，讀者們，這篇文章的標題不是點擊誘餌，你實際上可以開始學習HTML和...",
+      "title": "4小時內學會HTML，作爲一個初學者"
+    }
+  ]
 }
