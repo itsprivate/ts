@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Slackアプリの映画予告編を作ってみた"
+    },
+    {
+      "locale": "zh",
+      "title": "我为我的Slack应用制作了一个电影预告片"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我爲我的Slack應用製作了一個電影預告片"
+    }
+  ]
 }
