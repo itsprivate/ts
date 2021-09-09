@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-09T07:30:00Z"
+  "original_createdAt": "2021-09-09T07:30:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "細かなデータ規制とスマートでローカルな検疫により、サイトのクッキーバナーへの依存を排除します。",
+      "tagline": "コンセントマネジメントの再構築"
+    },
+    {
+      "locale": "zh",
+      "description": "通过细化的数据监管和智能的本地检疫，消除你的网站对cookie横幅的依赖性。",
+      "tagline": "重新发明的同意管理"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "通過細化的數據監管和智能的本地檢疫，消除你的網站對cookie橫幅的依賴性。",
+      "tagline": "重新發明的同意管理"
+    }
+  ]
 }
