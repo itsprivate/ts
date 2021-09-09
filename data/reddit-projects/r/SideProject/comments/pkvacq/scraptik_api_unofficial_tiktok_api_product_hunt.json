@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ScrapTik API - Unofficial TikTok API ｜ Product Hunt"
+    },
+    {
+      "locale": "zh",
+      "title": "ScrapTik API - 非官方的TikTok API | Product Hunt"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "ScrapTik API - 非官方的TikTok API | Product Hunt"
+    }
+  ]
 }
