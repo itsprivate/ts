@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-08T09:06:25Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VLfcRkQ5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m0pi6mh0k3oc9423inv7.png",
   "author": "AlbertoM",
-  "author_url": "https://dev.to/albertomontalesi"
+  "author_url": "https://dev.to/albertomontalesi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事は私のブログに掲載されたものです。inspiredwebdev.comで他の記事や...",
+      "title": "ES2022で実現する新しいこと"
+    },
+    {
+      "locale": "zh",
+      "description": "这篇文章最初是在我的博客上发布的。请到inspiredwebdev.com查阅更多文章和...",
+      "title": "ES2022年将出现的一切新事物"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這篇文章最初是在我的博客上發佈的。請到inspiredwebdev.com查閱更多文章和...",
+      "title": "ES2022年將出現的一切新事物"
+    }
+  ]
 }
