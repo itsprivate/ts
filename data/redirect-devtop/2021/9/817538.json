@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-08T13:08:27Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bLTMxf-z--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lxm7zcpv01ff1pw1zpui.jpg",
   "author": "Mike Talbot",
-  "author_url": "https://dev.to/miketalbot"
+  "author_url": "https://dev.to/miketalbot",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TLDR;私はフロントエンドとサーバーレスバックエンドを備えたプラガブルなウィジェットコンポーネントを作っています。",
+      "title": "イベントフックを使ったReactでのクライアントサイドルーターの構築 (pt1: イベント)"
+    },
+    {
+      "locale": "zh",
+      "description": "TLDR; 我正在制作一个具有前端和无服务器后端的可插拔部件...",
+      "title": "用事件钩子在React中构建一个客户端路由器（pt1：事件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "TLDR; 我正在製作一個具有前端和無服務器後端的可插拔部件...",
+      "title": "用事件鉤子在React中構建一個客戶端路由器（pt1：事件"
+    }
+  ]
 }

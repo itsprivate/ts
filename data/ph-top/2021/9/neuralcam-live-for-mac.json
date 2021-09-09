@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-09T07:05:00Z"
+  "original_createdAt": "2021-09-09T07:05:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "NeuralCam Live for Macは、M1 Macの計算能力を利用して、複数のAIアルゴリズムを用いて、光量の多い場所でも少ない場所でも、内蔵のウェブカメラのビデオフィードを強化します。これらはすべて自動で行われ、ほとんどのビデオ通話アプリに対応しています。",
+      "tagline": "M1 MacbookのウェブカメラをAIでアップグレード"
+    },
+    {
+      "locale": "zh",
+      "description": "NeuralCam Live for Mac利用M1 Mac的计算能力，通过多种人工智能算法，在光线良好和光线不足的情况下增强内置网络摄像头的视频馈电。它自动完成这一切，并与大多数视频通话应用程序兼容。",
+      "tagline": "用AI升级你的M1 Macbook的网络摄像头"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "NeuralCam Live for Mac利用M1 Mac的計算能力，通過多種人工智能算法，在光線良好和光線不足的情況下增強內置網絡攝像頭的視頻饋電。它自動完成這一切，並與大多數視頻通話應用程序兼容。",
+      "tagline": "用AI升級你的M1 Macbook的網絡攝像頭"
+    }
+  ]
 }
