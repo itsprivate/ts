@@ -91,5 +91,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "うーん、どの帽子がいいんだろう"
+    },
+    {
+      "locale": "zh",
+      "title": "嗯，哪顶帽子更好"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "嗯，哪頂帽子更好"
+    }
+  ]
 }
