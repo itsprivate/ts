@@ -14,5 +14,19 @@
   "tags": [
     "Reuters"
   ],
-  "image": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=52"
+  "image": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=52",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "エチオピアはティグラヤ軍がアファールで殴られたと言っているが、ティグラヤ軍は再配置されたと言っている。"
+    },
+    {
+      "locale": "zh",
+      "title": "埃塞俄比亚称提格雷部队在阿法尔被击败，提格雷人称他们被重新部署了"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "埃塞俄比亞稱提格雷部隊在阿法爾被擊敗，提格雷人稱他們被重新部署了"
+    }
+  ]
 }
