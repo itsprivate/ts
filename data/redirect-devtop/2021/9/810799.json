@@ -52,5 +52,22 @@
   "original_created_at": "2021-09-01T21:09:36Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pzLb3UnD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gdm1qg6lj4o827zg53dv.gif",
   "author": "Bryan Robinson",
-  "author_url": "https://dev.to/brob"
+  "author_url": "https://dev.to/brob",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "検索バーが検索バーでない場合とは？オートコンプリートを搭載した「オムニバー」のことです。     彼女の...",
+      "title": "Autocomplete.jsを使ったオムニバーの作成"
+    },
+    {
+      "locale": "zh",
+      "description": "搜索栏何时不是搜索栏？当它是一个带有自动完成功能的 \"全能栏 \"的时候!      在她的...",
+      "title": "用Autocomplete.js创建一个olmibar"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "搜索欄何時不是搜索欄？當它是一個帶有自動完成功能的 \"全能欄 \"的時候!      在她的...",
+      "title": "用Autocomplete.js創建一個olmibar"
+    }
+  ]
 }
