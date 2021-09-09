@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-09T13:00:13Z"
+  "original_createdAt": "2021-09-09T13:00:13Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "- AIによって生成された想像力豊かな曲名 - オーディオ、カバーアート、その他の機能は、他の人が作成/解釈するために意図的に省略されています - 無料でミント、ただのガス - 8Kの曲名 Mint here: https://tunesproject.org",
+      "tagline": "AIが生み出す想像力豊かな曲名"
+    },
+    {
+      "locale": "zh",
+      "description": "- 由人工智能生成的富有想象力的歌名 - 音频、封面和其他功能被有意省略，供他人创作/解释 - 免费薄荷，只需加油 - 8K歌名 在此薄荷：https://tunesproject.org",
+      "tagline": "由人工智能生成的富有想象力的歌曲标题"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "- 由人工智能生成的富有想象力的歌名 - 音頻、封面和其他功能被有意省略，供他人創作/解釋 - 免費薄荷，只需加油 - 8K歌名 在此薄荷：https://tunesproject.org",
+      "tagline": "由人工智能生成的富有想象力的歌曲標題"
+    }
+  ]
 }
