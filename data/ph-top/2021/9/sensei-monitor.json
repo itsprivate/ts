@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-09T13:26:19Z"
+  "original_createdAt": "2021-09-09T13:26:19Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Sensei Monitorは、Senseiの最新のMacパフォーマンスツールです。モダンなデザインと高度な統計情報の追跡を特徴とするSensei Monitorは、究極のMacのメニューバーのパフォーマンスモニターを作ることができます。",
+      "tagline": "完全にSwiftUIで作られた、全く新しいMacのシステムモニタ"
+    },
+    {
+      "locale": "zh",
+      "description": "Sensei Monitor是Sensei的最新成员，我们的Mac性能工具套件。Sensei Monitor具有现代设计和先进的统计跟踪功能，允许你创建终极的Mac菜单栏性能监控。",
+      "tagline": "一个全新的Mac系统显示器，完全由SwiftUI构建"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Sensei Monitor是Sensei的最新成員，我們的Mac性能工具套件。Sensei Monitor具有現代設計和先進的統計跟蹤功能，允許你創建終極的Mac菜單欄性能監控。",
+      "tagline": "一個全新的Mac系統顯示器，完全由SwiftUI構建"
+    }
+  ]
 }
