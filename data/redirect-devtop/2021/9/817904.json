@@ -43,5 +43,22 @@
   "original_created_at": "2021-09-08T20:03:19Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SivYEH5n--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q1yx2lz6mizzdh78d2yj.jpg",
   "author": "DaniAcu",
-  "author_url": "https://dev.to/daniacu"
+  "author_url": "https://dev.to/daniacu",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JS開発者がTypeScriptで良い型を作るのに苦労しているのをよく見かけます。ある人は、有名なany...",
+      "title": "日常的に使えるタイプスクリプトのヒントとコツ "
+    },
+    {
+      "locale": "zh",
+      "description": "我经常看到JS开发者在Typescript中努力创建好的类型。有些人使用著名的任何...",
+      "title": "日常使用的Typescript的技巧和窍门 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我經常看到JS開發者在Typescript中努力創建好的類型。有些人使用著名的任何...",
+      "title": "日常使用的Typescript的技巧和竅門 "
+    }
+  ]
 }
