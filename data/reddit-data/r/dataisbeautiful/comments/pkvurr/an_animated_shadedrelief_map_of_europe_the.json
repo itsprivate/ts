@@ -106,5 +106,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ヨーロッパの陰影レリーフのアニメーション地図。アニメーションでは、地図に3Dの高低差をつけたり、消したりしていきます。[OC]."
+    },
+    {
+      "locale": "zh",
+      "title": "一幅欧洲的阴影浮雕动画地图。该动画在地图上逐步增加和删除了三维高程。[OC]"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一幅歐洲的陰影浮雕動畫地圖。該動畫在地圖上逐步增加和刪除了三維高程。[OC]"
+    }
+  ]
 }
