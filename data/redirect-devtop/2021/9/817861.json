@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-08T18:12:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6Yw3gTn6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g2k3wmsiwdhjklwqevpa.png",
   "author": "Aniket",
-  "author_url": "https://dev.to/ananiket"
+  "author_url": "https://dev.to/ananiket",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、開発者の皆さん。今日は、レスポンシブ・ランディング・ページを簡単に作成する方法を、...",
+      "title": "HTML CSS & JSを使ってレスポンシブなランディングページを作る🔥。"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，亲爱的开发人员，今天我们将看到，我们如何能够轻松地创建一个响应式的登陆页面，使用...",
+      "title": "使用HTML、CSS和JS创建一个响应式的登陆页面 🔥"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，親愛的開發人員，今天我們將看到，我們如何能夠輕鬆地創建一個響應式的登陸頁面，使用...",
+      "title": "使用HTML、CSS和JS創建一個響應式的登陸頁面 🔥"
+    }
+  ]
 }
