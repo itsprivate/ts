@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-08T13:02:41Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--496GuhyX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hw1hv7rkwb5fzr4bke55.png",
   "author": "Anjan Shomooder",
-  "author_url": "https://dev.to/thatanjan"
+  "author_url": "https://dev.to/thatanjan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このブログでは、サーバーサイドレンダリングについて知っておくべきことをすべて説明します。 私が作成した...",
+      "title": "サーバーサイドレンダリングについて知っておくべきこと"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇博客中，我将解释你需要知道的关于服务器端渲染的一切。 我已经创建了...",
+      "title": "你需要知道的关于服务器端渲染的一切信息"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇博客中，我將解釋你需要知道的關於服務器端渲染的一切。 我已經創建了...",
+      "title": "你需要知道的關於服務器端渲染的一切信息"
+    }
+  ]
 }
