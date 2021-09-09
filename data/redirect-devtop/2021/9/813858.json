@@ -41,5 +41,22 @@
   "original_created_at": "2021-09-05T04:34:01Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OhmbZscT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k0pxzcqt4zh0gf0msi19.jpg",
   "author": "Khang",
-  "author_url": "https://dev.to/khangnd"
+  "author_url": "https://dev.to/khangnd",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CSSでパーセンテージの仕組みを理解できなかったことはありませんか？なぜこんなに混乱しているのかと思ったことはありませんか？",
+      "title": "CSSパーセンテージの理解"
+    },
+    {
+      "locale": "zh",
+      "description": "你是否曾经不理解CSS中的百分比是如何工作的？是否曾想过为什么它是如此混乱...",
+      "title": "了解CSS的百分比"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你是否曾經不理解CSS中的百分比是如何工作的？是否曾想過爲什麼它是如此混亂...",
+      "title": "瞭解CSS的百分比"
+    }
+  ]
 }
