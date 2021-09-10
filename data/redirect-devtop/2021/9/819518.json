@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-10T07:54:35Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--geLbHcP---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mz43skhq7yr98l311k7s.png",
   "author": "Pawel",
-  "author_url": "https://dev.to/pb"
+  "author_url": "https://dev.to/pb",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "もしあなたが、新しいスキルや技術を学ぶのに、ビデオを見るよりも読む方が好きだというのであれば...。",
+      "title": "REACTIFIED: シンプルな方法でReactJSを学ぶ"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你是一个喜欢阅读而不是看视频来学习新技能和技术的人...",
+      "title": "REACTIFIED: 学习ReactJS的简单方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你是一個喜歡閱讀而不是看視頻來學習新技能和技術的人...",
+      "title": "REACTIFIED: 學習ReactJS的簡單方法"
+    }
+  ]
 }
