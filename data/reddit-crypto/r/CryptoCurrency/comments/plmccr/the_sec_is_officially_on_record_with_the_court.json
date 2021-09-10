@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "SECは、訴訟の前にXRPが証券であることを誰にも伝えていなかったという事実を裁判所に公式に認めている。"
+    },
+    {
+      "locale": "zh",
+      "title": "美国证券交易委员会正式向法院备案，承认他们在诉讼前从未告诉任何人XRP是一种证券的事实。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "美國證券交易委員會正式向法院備案，承認他們在訴訟前從未告訴任何人XRP是一種證券的事實。"
+    }
+  ]
 }
