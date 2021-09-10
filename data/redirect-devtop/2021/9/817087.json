@@ -48,5 +48,22 @@
   "original_created_at": "2021-09-08T05:25:24Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0Ve12jaB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bwjr5tsbza2b35vsnird.png",
   "author": "Deepankar Bhade",
-  "author_url": "https://dev.to/deepcodes"
+  "author_url": "https://dev.to/deepcodes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "React、Tailwind、100ms SDKを使用して、音声会議、チャット、役割の変更が可能なClubhouseクローンを構築しています。",
+      "title": "Reactでクラブハウスのクローンを作る"
+    },
+    {
+      "locale": "zh",
+      "description": "使用React、Tailwind和100ms SDKs建立一个具有音频会议、聊天和改变角色的Clubhouse克隆。",
+      "title": "用React构建会所克隆"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用React、Tailwind和100ms SDKs建立一個具有音頻會議、聊天和改變角色的Clubhouse克隆。",
+      "title": "用React構建會所克隆"
+    }
+  ]
 }
