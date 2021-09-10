@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "米国はビットコインを法定通貨として宣言すべきだと、アメリカ人の4人に1人が主張している。YouGov調査"
+    },
+    {
+      "locale": "zh",
+      "title": "每4个美国人中就有一个说，美国应该宣布比特币为法定货币。YouGov调查"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "每4個美國人中就有一個說，美國應該宣佈比特幣爲法定貨幣。YouGov調查"
+    }
+  ]
 }
