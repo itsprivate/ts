@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "観客は大喜び"
+    },
+    {
+      "locale": "zh",
+      "title": "观众为之疯狂"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "觀衆爲之瘋狂"
+    }
+  ]
 }
