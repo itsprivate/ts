@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-10T07:04:28Z"
+  "original_createdAt": "2021-09-10T07:04:28Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Cookie by Diggerでは、コードプロジェクトに必要なインフラのテンプレートを生成することができます。これはcreate-react-appのようなものですが、Terraformのためのものです。",
+      "tagline": "プロジェクトのためのAWSテンプレート"
+    },
+    {
+      "locale": "zh",
+      "description": "Cookies by Digger允许你为你的代码项目生成必要的基础设施模板。它就像create-react-app，但用于terraform。",
+      "tagline": "为您的项目提供AWS模板"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Cookies by Digger允許你爲你的代碼項目生成必要的基礎設施模板。它就像create-react-app，但用於terraform。",
+      "tagline": "爲您的項目提供AWS模板"
+    }
+  ]
 }
