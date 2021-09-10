@@ -50,5 +50,22 @@
   "original_created_at": "2021-09-09T14:35:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SHSLptzZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zlr182hm0e7d0i5mehtb.png",
   "author": "Timothy Foster",
-  "author_url": "https://dev.to/auroratide"
+  "author_url": "https://dev.to/auroratide",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "さて、前回はHTMLもCSSもJavascriptも使わずにタイプライターのアニメーションを作ってみました。もしも...",
+      "title": "タイプライターのように、新しいHTMLタグを使って"
+    },
+    {
+      "locale": "zh",
+      "description": "所以，上次我做了一个打字机动画，没有HTML、CSS，也没有Javascript。会发生什么，如果...",
+      "title": "打字机，但使用一个新的HTML标签"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "所以，上次我做了一個打字機動畫，沒有HTML、CSS，也沒有Javascript。會發生什麼，如果...",
+      "title": "打字機，但使用一個新的HTML標籤"
+    }
+  ]
 }
