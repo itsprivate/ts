@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "チーターは咆哮しない、家猫のように鳴く。"
+    },
+    {
+      "locale": "zh",
+      "title": "猎豹不咆哮，它们像家猫一样喵喵叫。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "獵豹不咆哮，它們像家貓一樣喵喵叫。"
+    }
+  ]
 }
