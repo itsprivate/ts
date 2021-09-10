@@ -52,5 +52,22 @@
   "original_created_at": "2021-09-09T13:22:56Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mTZh7Q-r--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y5rqb6wng8xnaphsr9xz.png",
   "author": "Axel Navarro",
-  "author_url": "https://dev.to/navarroaxel"
+  "author_url": "https://dev.to/navarroaxel",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Corepackは、私たちのプロジェクトに必要なパッケージマネージャーを準備するための新しいビルトインツールです。それでは...",
+      "title": "Corepack: Node.jsのパッケージマネージャのマネージャ"
+    },
+    {
+      "locale": "zh",
+      "description": "Corepack是新的内置工具，用于为我们的项目准备所需的软件包管理器。让我们...",
+      "title": "Corepack：Node.js的软件包管理器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Corepack是新的內置工具，用於爲我們的項目準備所需的軟件包管理器。讓我們...",
+      "title": "Corepack：Node.js的軟件包管理器"
+    }
+  ]
 }

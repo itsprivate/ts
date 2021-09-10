@@ -155,5 +155,22 @@
     "retweet_count": 217,
     "favorite_count": 1115,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @naiiveclub @100trillionUSD https://t.co/x76mIk8Nz2",
+      "retweeted_status_full_text": "@100trillionUSD https://t.co/x76mIk8Nz2"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @naiiveclub: @100trillionUSD https://t.co/x76mIk8Nz2",
+      "retweeted_status_full_text": "@100trillionUSD https://t.co/x76mIk8Nz2"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @naiiveclub: @100trillionUSD https://t.co/x76mIk8Nz2",
+      "retweeted_status_full_text": "@100trillionUSD https://t.co/x76mIk8Nz2"
+    }
+  ]
 }
