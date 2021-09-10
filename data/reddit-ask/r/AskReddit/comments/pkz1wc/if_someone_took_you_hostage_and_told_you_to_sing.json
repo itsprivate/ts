@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "誰かがあなたを人質に取り、解放するために1曲を一言ずつ歌うように言われたとしたら、それはどんな曲ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果有人把你当做人质，让你一字不差地唱一首歌来释放你，那会是哪首歌呢？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果有人把你當做人質，讓你一字不差地唱一首歌來釋放你，那會是哪首歌呢？"
+    }
+  ]
 }
