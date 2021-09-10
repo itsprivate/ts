@@ -43,5 +43,22 @@
   "original_created_at": "2021-09-08T15:36:57Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7UfmtZmf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j0tlz5ehxxdmkrqtqkum.png",
   "author": "Salma Alam-Naylor",
-  "author_url": "https://dev.to/whitep4nth3r"
+  "author_url": "https://dev.to/whitep4nth3r",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "カスタマイズされた共有可能なチケット画像を生成し、その画像を...というコンテンツフルのイベントサイトをご覧になりましたか？",
+      "title": "CloudinaryとNext.jsでパーソナライズされた画像のソーシャルシェアリングアプリを構築する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "你是否看到过Contentful的活动网站，它可以生成定制的、可分享的门票图片，...",
+      "title": "如何用Cloudinary和Next.js建立一个个性化的图片社交分享应用"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你是否看到過Contentful的活動網站，它可以生成定製的、可分享的門票圖片，...",
+      "title": "如何用Cloudinary和Next.js建立一個個性化的圖片社交分享應用"
+    }
+  ]
 }
