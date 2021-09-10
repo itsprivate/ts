@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "車を停めて、地図を見ないとね。"
+    },
+    {
+      "locale": "zh",
+      "title": "我得靠边停车，看看地图。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我得靠邊停車，看看地圖。"
+    }
+  ]
 }

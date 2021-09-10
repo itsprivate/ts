@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-08T10:55:29Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SSoRpQF4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mtpg3bff328lxu8n9k5l.jpeg",
   "author": "Akshay Pai",
-  "author_url": "https://dev.to/sadanandpai"
+  "author_url": "https://dev.to/sadanandpai",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは。皆さんのお役に立てるように、いくつかの優れた教材（本＋ビデオ）をリストアップしました。",
+      "title": "Frontend Learning Kit"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，为了帮助大家，我列出了一些最好的材料（书籍+视频）。",
+      "title": "前端学习套件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，爲了幫助大家，我列出了一些最好的材料（書籍+視頻）。",
+      "title": "前端學習套件"
+    }
+  ]
 }
