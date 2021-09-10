@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-09T14:22:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VrGqMh0o--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sq3xqma0f1ozv7ipptke.jpg",
   "author": "Shashank singh",
-  "author_url": "https://dev.to/sshashank5690"
+  "author_url": "https://dev.to/sshashank5690",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ReactjsとReact Nativeを比較する前に、両者の小さな歴史を見てみましょう...",
+      "title": "React Native vs React Js!"
+    },
+    {
+      "locale": "zh",
+      "description": "在比较Reactjs与React Native之前，让我们先看看两者的小历史。",
+      "title": "React Native VS React Js!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在比較Reactjs與React Native之前，讓我們先看看兩者的小歷史。",
+      "title": "React Native VS React Js!"
+    }
+  ]
 }

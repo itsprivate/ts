@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-08T15:13:14Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Z0QNZHTS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v2g1teoywx40ozrw4e8c.jpeg",
   "author": "NaveenKumar Namachivayam ⚡",
-  "author_url": "https://dev.to/qainsights"
+  "author_url": "https://dev.to/qainsights",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このブログ記事では、Webサービスをデバッグするためのコマンドライン・ユーティリティであるHTTPieを紹介します。今回は...",
+      "title": "パフォーマンスエンジニアのためのHTTPIE"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇博文中，我们将学习HTTPie--一个用于调试网络服务的命令行工具。在我们的...",
+      "title": "性能工程师的HTTPie"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇博文中，我們將學習HTTPie--一個用於調試網絡服務的命令行工具。在我們的...",
+      "title": "性能工程師的HTTPie"
+    }
+  ]
 }
