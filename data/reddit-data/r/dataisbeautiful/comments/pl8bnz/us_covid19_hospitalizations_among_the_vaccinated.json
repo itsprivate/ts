@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "米国におけるワクチン接種者のCOVID-19による入院件数は、過去のインフルエンザによる入院件数と同程度である"
+    },
+    {
+      "locale": "zh",
+      "title": "美国COVID-19疫苗接种者的住院情况与历史上的流感住院情况大致相同"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "美國COVID-19疫苗接種者的住院情況與歷史上的流感住院情況大致相同"
+    }
+  ]
 }
