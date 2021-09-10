@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "オフィスに戻る"
+    },
+    {
+      "locale": "zh",
+      "title": "回到办公室"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "回到辦公室"
+    }
+  ]
 }
