@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-09T13:23:56Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3-jYNw9e--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/ixartz/Next-JS-Landing-Page-Starter-Template/master/public/assets/images/nextjs-landing-page-banner.png",
   "author": "Remi W.",
-  "author_url": "https://dev.to/ixartz"
+  "author_url": "https://dev.to/ixartz",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TypeScriptとTailwind CSSを使用した、オープンソースで無料のReactランディングページテンプレートです。あなたのSaaS、オンライン製品やサービスのための完璧なランディングページです。",
+      "title": "🚀 ReactのランディングページのテンプレートをTailwindのCSSとTypeScriptで無料で提供【オープンソース】⚡️。"
+    },
+    {
+      "locale": "zh",
+      "description": "一个使用TypeScript和Tailwind CSS的开源和免费的React登陆页模板。为您的SaaS、在线产品或服务提供完美的登陆页面。",
+      "title": "🚀 React着陆页模板免费使用Tailwind CSS和TypeScript [开放源代码] ⚡️"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個使用TypeScript和Tailwind CSS的開源和免費的React登陸頁模板。爲您的SaaS、在線產品或服務提供完美的登陸頁面。",
+      "title": "🚀 React着陸頁模板免費使用Tailwind CSS和TypeScript [開放源代碼] ⚡️"
+    }
+  ]
 }
