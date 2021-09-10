@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-07T19:52:34Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PiknuelK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n0qt18ff4rfxshhhgfls.png",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最新の Django バージョンで構築されたオープンソースの Django ダッシュボード",
+      "title": "Django Volt Dashboard - Django 3.2.0 LTS で作られた無料のダッシュボードです。"
+    },
+    {
+      "locale": "zh",
+      "description": "用最新的Django版本建立的开源Django仪表板",
+      "title": "Django Volt Dashboard - 使用Django 3.2.0 LTS构建的免费仪表板"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "用最新的Django版本建立的開源Django儀表板",
+      "title": "Django Volt Dashboard - 使用Django 3.2.0 LTS構建的免費儀表板"
+    }
+  ]
 }
