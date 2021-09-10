@@ -43,6 +43,6 @@ jobs:
                 idField : `videoId`,
                 type : "youtube",
                 isTranslateTag: false,
-                translationFields:['title','description']
+                translationFields:['title']
             })
             return true
