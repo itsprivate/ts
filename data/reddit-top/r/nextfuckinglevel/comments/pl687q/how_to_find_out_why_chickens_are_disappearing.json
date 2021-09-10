@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ニワトリがいなくなった原因を探るには"
+    },
+    {
+      "locale": "zh",
+      "title": "如何找出鸡群消失的原因"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如何找出雞羣消失的原因"
+    }
+  ]
 }
