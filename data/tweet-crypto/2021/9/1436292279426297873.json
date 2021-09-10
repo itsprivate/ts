@@ -134,5 +134,22 @@
     "retweet_count": 6148,
     "favorite_count": 14857,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @ginacarano: https://t.co/kDg0LPWlEq",
+      "retweeted_status_full_text": "https://t.co/kDg0LPWlEq"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @ginacarano: https://t.co/kDg0LPWlEq",
+      "retweeted_status_full_text": "https://t.co/kDg0LPWlEq"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @ginacarano: https://t.co/kDg0LPWlEq",
+      "retweeted_status_full_text": "https://t.co/kDg0LPWlEq"
+    }
+  ]
 }
