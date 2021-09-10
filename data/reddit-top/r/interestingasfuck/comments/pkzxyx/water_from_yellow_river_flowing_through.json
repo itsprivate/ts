@@ -66,5 +66,19 @@
     }
   },
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "中国の小郎島ダムを流れる黄河の水"
+    },
+    {
+      "locale": "zh",
+      "title": "流经中国小浪底大坝的黄河水"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "流經中國小浪底大壩的黃河水"
+    }
+  ]
 }
