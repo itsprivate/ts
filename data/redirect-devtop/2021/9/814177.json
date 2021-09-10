@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-05T13:10:01Z",
   "image": "https://dev.to/social_previews/article/814177.png",
   "author": "Alexander Dmitriev",
-  "author_url": "https://dev.to/alex1998dmit"
+  "author_url": "https://dev.to/alex1998dmit",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに 免責事項 英語は私の母国語ではありませんので、もしかしたら...。",
+      "title": "リアクトとgoogle-mapsでairbnbのような地図を作る方法"
+    },
+    {
+      "locale": "zh",
+      "description": "简介 免责声明 英语不是我的母语，所以可能有...",
+      "title": "如何用反应和谷歌地图创建类似于airbnb的地图"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介 免責聲明 英語不是我的母語，所以可能有...",
+      "title": "如何用反應和谷歌地圖創建類似於airbnb的地圖"
+    }
+  ]
 }
