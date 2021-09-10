@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私はアメリカの市民ですよ。"
+    },
+    {
+      "locale": "zh",
+      "title": "我是一个美国公民，你们都是。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我是一個美國公民，你們都是。"
+    }
+  ]
 }
