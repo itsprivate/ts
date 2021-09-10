@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-09T16:10:33Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WwC8VT-U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ue8udf1h4c4ozrwvuhq7.png",
   "author": "Dotnetsafer",
-  "author_url": "https://dev.to/dotnetsafer"
+  "author_url": "https://dev.to/dotnetsafer",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、Dotnetsaferが提供する、5種類のパフォーマンス・トリックをご紹介します。",
+      "title": "C#における5つの(究極の)パフォーマンスの秘訣🔥。"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，Dotnetsafer将向你展示5个不同的性能技巧，你可以在这些技巧中做到。",
+      "title": "5个（极端）C#的性能提示 🔥"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，Dotnetsafer將向你展示5個不同的性能技巧，你可以在這些技巧中做到。",
+      "title": "5個（極端）C#的性能提示 🔥"
+    }
+  ]
 }
