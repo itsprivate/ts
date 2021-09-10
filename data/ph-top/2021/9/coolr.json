@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-10T07:04:05Z"
+  "original_createdAt": "2021-09-10T07:04:05Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Coolrでは、Slackで直接、最も楽しいバーチャルな水クーラールームを立ち上げて、同僚とより強いつながりを築くことができます。",
+      "tagline": "Slackの中にあるバーチャルなウォータークーラー"
+    },
+    {
+      "locale": "zh",
+      "description": "Coolr让你直接在Slack中启动最有趣的虚拟饮水机室，以便与你的同事建立更强大的联系。",
+      "tagline": "住在Slack中的虚拟饮水机"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Coolr讓你直接在Slack中啓動最有趣的虛擬飲水機室，以便與你的同事建立更強大的聯繫。",
+      "tagline": "住在Slack中的虛擬飲水機"
+    }
+  ]
 }
