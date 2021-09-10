@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"運のいいドラゴンを連れていると、クエストに行くのが楽しくなる\" -ファルコア"
+    },
+    {
+      "locale": "zh",
+      "title": "\"有一条运气好的龙和你在一起，是去探险的唯一方法\"--Falcore"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"有一條運氣好的龍和你在一起，是去探險的唯一方法\"--Falcore"
+    }
+  ]
 }
