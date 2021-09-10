@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Bitcoinのデスクサインを作りました。ご意見をお聞かせください。"
+    },
+    {
+      "locale": "zh",
+      "title": "做了一个比特币的桌牌。请告诉我你的想法。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "做了一個比特幣的桌牌。請告訴我你的想法。"
+    }
+  ]
 }
