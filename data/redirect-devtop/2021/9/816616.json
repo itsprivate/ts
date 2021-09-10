@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-07T17:41:39Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--P-zDr4s8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e0enw65tgjseeaakv4kv.png",
   "author": "Jenning Ho",
-  "author_url": "https://dev.to/j3nnning"
+  "author_url": "https://dev.to/j3nnning",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "observableのサブスクリプションは、RxJSを使う上で欠かせないものです。サブスクリプションのたびに、私たちは...",
+      "title": "AngularによるRxJSサブスクリプション管理"
+    },
+    {
+      "locale": "zh",
+      "description": "观察变量的订阅是使用RxJS的面包和黄油。在每次订阅时，我们都会创建...",
+      "title": "使用Angular的RxJS订阅管理"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "觀察變量的訂閱是使用RxJS的麪包和黃油。在每次訂閱時，我們都會創建...",
+      "title": "使用Angular的RxJS訂閱管理"
+    }
+  ]
 }
