@@ -104,5 +104,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ファックユーと言ってうまくいったとき"
+    },
+    {
+      "locale": "zh",
+      "title": "当你说 \"去你妈的 \"时，它就会发挥作用"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當你說 \"去你媽的 \"時，它就會發揮作用"
+    }
+  ]
 }
