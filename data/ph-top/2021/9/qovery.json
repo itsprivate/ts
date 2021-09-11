@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-11T10:21:42Z"
+  "original_createdAt": "2021-09-11T10:21:42Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Qoveryは、AWS上でアプリを展開する最もシンプルな方法です。⚡️ 速くて簡単なセットアップ（2分未満） 🍃 AWSの専門知識は必要ありません 😎 GithubやGitlabからの自動デプロイ Qoveryは120カ国以上で10000人の開発者に利用されています 🚀 👉 Give it try: qovery.com",
+      "tagline": "AWSにアプリを展開する最もシンプルな方法"
+    },
+    {
+      "locale": "zh",
+      "description": "Qovery是在AWS上部署应用程序的最简单方法。⚡️ 快速和容易设置（<2分钟） 🍃 无需AWS专业知识 😎 从Github和Gitlab自动部署 Qovery被120多个国家的10000名开发人员使用 🚀 👉 给它一个尝试：qovery.com",
+      "tagline": "在AWS上部署你的应用程序的最简单方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Qovery是在AWS上部署應用程序的最簡單方法。⚡️ 快速和容易設置（<2分鐘） 🍃 無需AWS專業知識 😎 從Github和Gitlab自動部署 Qovery被120多個國家的10000名開發人員使用 🚀 👉 給它一個嘗試：qovery.com",
+      "tagline": "在AWS上部署你的應用程序的最簡單方法"
+    }
+  ]
 }

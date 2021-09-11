@@ -52,5 +52,22 @@
   "original_created_at": "2021-09-09T19:17:50Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Rkwi-R4O--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mha4hbwyulumq3g5sidz.png",
   "author": "Erin Schaffer",
-  "author_url": "https://dev.to/erineducative"
+  "author_url": "https://dev.to/erineducative",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Golang（Go）は、多くのトップテクノロジー企業で使用されている人気のプログラミング言語です。もし、あなたの夢が...",
+      "title": "チュートリアルを見る Golangでカードゲームを作る"
+    },
+    {
+      "locale": "zh",
+      "description": "Golang，即Go，是一种流行的编程语言，被许多顶级科技公司使用。如果你的梦想是...",
+      "title": "转到教程。用Golang构建一个纸牌游戏"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Golang，即Go，是一種流行的編程語言，被許多頂級科技公司使用。如果你的夢想是...",
+      "title": "轉到教程。用Golang構建一個紙牌遊戲"
+    }
+  ]
 }
