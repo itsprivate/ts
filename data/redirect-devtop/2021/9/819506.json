@@ -39,5 +39,22 @@
   "original_created_at": "2021-09-10T07:38:01Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LDX_enz6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v41jerfx2ec848xf0unr.jpg",
   "author": "Eli H. Schei",
-  "author_url": "https://dev.to/elischei"
+  "author_url": "https://dev.to/elischei",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "テクノロジーの世界では、変化のスピードが速いため、すべての情報を把握するのは大変なことです。そして...",
+      "title": "フロントエンド開発のニュースを知るために私が愛読しているニュースレターのトップ5"
+    },
+    {
+      "locale": "zh",
+      "description": "追踪科技宇宙中的一切可能会让人不知所措--事情变化得太快了。而且...",
+      "title": "我最喜欢的5份了解前端开发新闻的新闻简报"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "追蹤科技宇宙中的一切可能會讓人不知所措--事情變化得太快了。而且...",
+      "title": "我最喜歡的5份瞭解前端開發新聞的新聞簡報"
+    }
+  ]
 }
