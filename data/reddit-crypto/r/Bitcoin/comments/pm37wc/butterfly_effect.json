@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "バタフライ効果"
+    },
+    {
+      "locale": "zh",
+      "title": "蝴蝶效应"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "蝴蝶效應"
+    }
+  ]
 }
