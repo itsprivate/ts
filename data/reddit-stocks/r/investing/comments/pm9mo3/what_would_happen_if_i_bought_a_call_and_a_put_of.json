@@ -103,5 +103,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1631374803,
-  "the_new_excerpt": "What would happen if I bought a call and a put of the same stock? Let’s say I\nbuy SPY, and I buy a call and a put of it for the same expiration date,\nobviously, one of them will make money, but as for the other one, will I just\nbreak even and have made no profit? Or is this a less risky way to buy…"
+  "the_new_excerpt": "What would happen if I bought a call and a put of the same stock? Let’s say I\nbuy SPY, and I buy a call and a put of it for the same expiration date,\nobviously, one of them will make money, but as for the other one, will I just\nbreak even and have made no profit? Or is this a less risky way to buy…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "同じ銘柄のコールとプットを買った場合はどうなるでしょうか？例えば、私が\nSPYを買って、同じ有効期限のコールとプットを買ったとします。\n明らかに片方は儲かりますが、もう片方は、ただの損益分岐点で、何の利益も得られないでしょう。\n儲けはないということになりますか？それとも、これはリスクの少ない買い方なのでしょうか...。",
+      "title": "同じ銘柄のコールとプットを買った場合はどうなるでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "如果我买了同一只股票的看涨和看跌，会发生什么？比方说，我\n买入SPY，并买入同一到期日的看涨和看跌。\n很明显，其中一个会赚钱，但对于另一个，我是否只是\n我是否会收支平衡，没有赚到钱？还是说这是一种风险较小的购买方式...",
+      "title": "如果我买了同一只股票的看涨和看跌，会发生什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "如果我買了同一只股票的看漲和看跌，會發生什麼？比方說，我\n買入SPY，並買入同一到期日的看漲和看跌。\n很明顯，其中一個會賺錢，但對於另一個，我是否只是\n我是否會收支平衡，沒有賺到錢？還是說這是一種風險較小的購買方式...",
+      "title": "如果我買了同一只股票的看漲和看跌，會發生什麼？"
+    }
+  ]
 }

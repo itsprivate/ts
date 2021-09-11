@@ -43,5 +43,22 @@
   "original_created_at": "2021-09-08T20:50:06Z",
   "image": "https://dev.to/social_previews/article/817920.png",
   "author": "Mikhail Grechka",
-  "author_url": "https://dev.to/grech_ca"
+  "author_url": "https://dev.to/grech_ca",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "いくつかの会社で働いてみて気づいたのですが、コードの打ち方がいつも違っていて、この...",
+      "title": "知らないと損するReactの種類"
+    },
+    {
+      "locale": "zh",
+      "description": "在几家公司工作后，我注意到，代码总是以不同的方式输入，这...",
+      "title": "你不知道的React类型"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在幾家公司工作後，我注意到，代碼總是以不同的方式輸入，這...",
+      "title": "你不知道的React類型"
+    }
+  ]
 }
