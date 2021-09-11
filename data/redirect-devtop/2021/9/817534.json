@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-08T12:57:33Z",
   "image": "https://dev.to/social_previews/article/817534.png",
   "author": "Anurag Gupta",
-  "author_url": "https://dev.to/anurag5086"
+  "author_url": "https://dev.to/anurag5086",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今回は初めてのテクニカルブログということで、かなり期待しています。          どのようにして...",
+      "title": "APIドキュメントを簡単に作成"
+    },
+    {
+      "locale": "zh",
+      "description": "因为这是我的第一个技术博客，所以我对这个博客相当兴奋。          你怎么能...",
+      "title": "简化API文档"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "因爲這是我的第一個技術博客，所以我對這個博客相當興奮。          你怎麼能...",
+      "title": "簡化API文檔"
+    }
+  ]
 }
