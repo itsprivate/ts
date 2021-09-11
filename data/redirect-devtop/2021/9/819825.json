@@ -43,5 +43,22 @@
   "original_created_at": "2021-09-10T14:19:23Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--w64fOITR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y13al1hwqf2ynvfog3r6.jpg",
   "author": "dastasoft",
-  "author_url": "https://dev.to/dastasoft"
+  "author_url": "https://dev.to/dastasoft",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Node.jsの名前は聞いたことがあると思いますが、深く掘り下げたことがなかったり、大体のことしか知らなかったりするのではないでしょうか。",
+      "title": "すべてのWeb開発者がNode.jsでFullStackになる方法"
+    },
+    {
+      "locale": "zh",
+      "description": "我相信你一定听说过Node.js，但也许你还没有深入研究过它，或者你只是有一个大致的概念...",
+      "title": "每个Web开发人员如何利用Node.js成为FullStack？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我相信你一定聽說過Node.js，但也許你還沒有深入研究過它，或者你只是有一個大致的概念...",
+      "title": "每個Web開發人員如何利用Node.js成爲FullStack？"
+    }
+  ]
 }
