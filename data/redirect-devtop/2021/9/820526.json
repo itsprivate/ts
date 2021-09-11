@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-11T07:05:28Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--l-EENIT_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/25tyl7dal5etx9r6nv63.png",
   "author": "awedis",
-  "author_url": "https://dev.to/awedis"
+  "author_url": "https://dev.to/awedis",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コードをデバッグするには、コンソールを使用します。コンソールオブジェクトは、ブラウザの...",
+      "title": "Web Consoleの究極のガイド🔥です。"
+    },
+    {
+      "locale": "zh",
+      "description": "为了调试代码，你将使用控制台控制台对象提供对浏览器的访问。",
+      "title": "网络控制台的终极指南 🔥"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "爲了調試代碼，你將使用控制檯控制檯對象提供對瀏覽器的訪問。",
+      "title": "網絡控制檯的終極指南 🔥"
+    }
+  ]
 }
