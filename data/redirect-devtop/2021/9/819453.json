@@ -41,5 +41,22 @@
   "original_created_at": "2021-09-10T06:41:27Z",
   "image": "https://dev.to/social_previews/article/819453.png",
   "author": "Nathan",
-  "author_url": "https://dev.to/natclark"
+  "author_url": "https://dev.to/natclark",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私が発見するずっと前から知っておきたかったCSSの機能のひとつに、:is疑似クラスがあります。 これを使えば...",
+      "title": "擬似クラス「:is」によるCSSセレクタの短縮化"
+    },
+    {
+      "locale": "zh",
+      "description": "我希望我在发现它之前早就知道的一个CSS特性是:is伪类。 你可以使用...",
+      "title": "用:is伪类缩短你的CSS选择器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我希望我在發現它之前早就知道的一個CSS特性是:is僞類。 你可以使用...",
+      "title": "用:is僞類縮短你的CSS選擇器"
+    }
+  ]
 }
