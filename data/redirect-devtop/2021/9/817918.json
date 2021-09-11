@@ -41,5 +41,22 @@
   "original_created_at": "2021-09-08T20:41:26Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--X15PIHXB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fe7x0mq3rb7dz1emirdx.png",
   "author": "Taylor Sieling",
-  "author_url": "https://dev.to/taylorsieling"
+  "author_url": "https://dev.to/taylorsieling",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Vueの海に足を踏み入れるために、超シンプルでバックエンドのないアプリケーションを作りました。ここでは...",
+      "title": "To Do Vueを学ぶ"
+    },
+    {
+      "locale": "zh",
+      "description": "为了涉足Vue的海洋，我创建了一个超级简单的、没有后台的应用程序。这里有一个",
+      "title": "要做的事。学习Vue"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "爲了涉足Vue的海洋，我創建了一個超級簡單的、沒有後臺的應用程序。這裏有一個",
+      "title": "要做的事。學習Vue"
+    }
+  ]
 }
