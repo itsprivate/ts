@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-10T08:32:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hZq0sNQa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cj1cumxbc7fdm3m2jll9.png",
   "author": "Digitalya",
-  "author_url": "https://dev.to/digitalyaops"
+  "author_url": "https://dev.to/digitalyaops",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "新しいWebアプリケーションの開発プロジェクトが始まると、開発者は誰でも燃えるようなジレンマに陥ります。",
+      "title": "Vue vs React: 2021年に何を選ぶべきか？"
+    },
+    {
+      "locale": "zh",
+      "description": "在一个新的网络应用程序开发项目开始时，任何开发人员都会有一个紧迫的难题：什么是网络应用程序？",
+      "title": "Vue vs. React: 2021年该如何选择？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在一個新的網絡應用程序開發項目開始時，任何開發人員都會有一個緊迫的難題：什麼是網絡應用程序？",
+      "title": "Vue vs. React: 2021年該如何選擇？"
+    }
+  ]
 }

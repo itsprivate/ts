@@ -120,5 +120,22 @@
       "favorite_count": 2720,
       "possibly_sensitive": false
     }
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @pwuille です。700000ブロック目、おめでとうございます！#bitcoin",
+      "retweeted_status_full_text": "700000ブロック達成おめでとう、#bitcoin！ https://t.co/24mpVKXK8e"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @pwuille: 第700000个区块快乐，#比特币!",
+      "retweeted_status_full_text": "第700000个区块快乐，#比特币！https://t.co/24mpVKXK8e"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @pwuille: 第700000個區塊快樂，#比特幣!",
+      "retweeted_status_full_text": "第700000個區塊快樂，#比特幣！https://t.co/24mpVKXK8e"
+    }
+  ]
 }
