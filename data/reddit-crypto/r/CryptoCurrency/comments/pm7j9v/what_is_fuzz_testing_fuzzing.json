@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ファズテスト（Fuzzing）とは？"
+    },
+    {
+      "locale": "zh",
+      "title": "什么是模糊测试（Fuzzing）？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "什麼是模糊測試（Fuzzing）？"
+    }
+  ]
 }
