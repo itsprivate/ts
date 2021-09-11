@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "タイでは収穫後の田んぼに約1万羽のアヒルが送り込まれ、虫を食べています。"
+    },
+    {
+      "locale": "zh",
+      "title": "在泰国，大约10,000只鸭子在收获后被送到稻田里吃昆虫。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在泰國，大約10,000只鴨子在收穫後被送到稻田裏喫昆蟲。"
+    }
+  ]
 }
