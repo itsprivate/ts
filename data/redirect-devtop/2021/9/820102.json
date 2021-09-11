@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-10T18:08:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NyoM-Qoc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7vbi32h5scd6z8r2sis0.gif",
   "author": "Roden",
-  "author_url": "https://dev.to/kerthin"
+  "author_url": "https://dev.to/kerthin",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに 数週間前に、ピュアCSSでグリッチエフェクトを作る方法をご紹介しました。しかし、今回は...",
+      "title": "画像やSVGを使ったピュアCSSグリッチ・アニメーションの作成方法"
+    },
+    {
+      "locale": "zh",
+      "description": "简介 几周前，我写了一篇关于如何在纯CSS上制作Glitch效果的文章。但是，在这篇文章中，我们可以看到",
+      "title": "如何为图片和SVG创建纯CSS突变动画🤖？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介 幾周前，我寫了一篇關於如何在純CSS上製作Glitch效果的文章。但是，在這篇文章中，我們可以看到",
+      "title": "如何爲圖片和SVG創建純CSS突變動畫🤖？"
+    }
+  ]
 }

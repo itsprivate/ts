@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-10T12:09:36Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s---GPHsZwH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0ytmyxwos2rvfdfmpbol.png",
   "author": "Andrew Parris",
-  "author_url": "https://dev.to/adparris"
+  "author_url": "https://dev.to/adparris",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私はこの2週間でこの作品を作り上げました。ただ、他のコーダーの意見を聞きたくて...。",
+      "title": "ポートフォリオを作成しました。"
+    },
+    {
+      "locale": "zh",
+      "description": "我花了两个星期的时间把它放在一起。我只是想从其他编码者的角度来了解...",
+      "title": "我已经创建了我的投资组合。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我花了兩個星期的時間把它放在一起。我只是想從其他編碼者的角度來了解...",
+      "title": "我已經創建了我的投資組合。"
+    }
+  ]
 }
