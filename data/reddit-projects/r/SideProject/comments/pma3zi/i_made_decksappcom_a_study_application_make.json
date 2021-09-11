@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "勉強アプリ「decksapp.com」を作りました。フラッシュカードを作ったり、メモを取ったり、チュートリアルを見たりすることができます。"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了deckapp.com：一个学习应用程序。制作闪卡、做笔记和观看教程"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了deckapp.com：一個學習應用程序。製作閃卡、做筆記和觀看教程"
+    }
+  ]
 }
