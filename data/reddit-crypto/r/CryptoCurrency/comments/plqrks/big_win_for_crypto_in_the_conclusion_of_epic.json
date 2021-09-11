@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Epic Games対Appleの訴訟の結論でCryptoが大勝利! Appleは、すべての取引をアプリストア経由で行うことを強制するのではなく、アプリ内での支払いを許可しなければなりません。これにより、AppleとGoogleのアプリがCryptoを受け入れる道が開かれました。"
+    },
+    {
+      "locale": "zh",
+      "title": "在Epic Games诉苹果的诉讼案中，加密货币大获全胜! 苹果公司必须允许在应用程序中进行支付，而不是强迫所有交易通过应用程序商店进行。这为苹果和谷歌应用程序接受加密货币打开了大门。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在Epic Games訴蘋果的訴訟案中，加密貨幣大獲全勝! 蘋果公司必須允許在應用程序中進行支付，而不是強迫所有交易通過應用程序商店進行。這爲蘋果和谷歌應用程序接受加密貨幣打開了大門。"
+    }
+  ]
 }
