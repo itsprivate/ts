@@ -101,5 +101,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-11T07:01:24Z"
+  "original_createdAt": "2021-09-11T07:01:24Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "認証は常にセキュリティと利便性のどちらかを追求してきましたが、なぜ妥協するのでしょうか？One account - 2FA（MFA）を内蔵した、プライバシーに配慮した安全で便利な認証システム。",
+      "tagline": "1クリックサインアップ"
+    },
+    {
+      "locale": "zh",
+      "description": "认证一直是安全或方便，但为什么要妥协？一个账户 - 一个注重隐私、安全和方便的认证系统，内置2FA（MFA）。",
+      "tagline": "一键注册"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "認證一直是安全或方便，但爲什麼要妥協？一個賬戶 - 一個注重隱私、安全和方便的認證系統，內置2FA（MFA）。",
+      "tagline": "一鍵註冊"
+    }
+  ]
 }
