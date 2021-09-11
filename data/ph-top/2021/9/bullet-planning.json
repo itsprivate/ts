@@ -62,5 +62,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-11T07:00:00Z"
+  "original_createdAt": "2021-09-11T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Ryder Carroll氏のThe Bullet Journal Methodにインスパイアされたこのアプリケーションは、Bullet Journalingに似た方法でコンテンツを記録・整理することができます。このアプリのアイデアは、ユーザーが意図的に生産性を高めることに集中できるようにすることです。",
+      "tagline": "バレットジャーナリングをシンプルに"
+    },
+    {
+      "locale": "zh",
+      "description": "受Ryder Carroll的The Bullet Journal Method启发，这个应用程序帮助你以类似于子弹式日记的方式记录和组织内容。这个应用程序的想法是帮助其用户专注于意向性和生产力。",
+      "tagline": "简单的子弹日记"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "受Ryder Carroll的The Bullet Journal Method啓發，這個應用程序幫助你以類似於子彈式日記的方式記錄和組織內容。這個應用程序的想法是幫助其用戶專注於意向性和生產力。",
+      "tagline": "簡單的子彈日記"
+    }
+  ]
 }
