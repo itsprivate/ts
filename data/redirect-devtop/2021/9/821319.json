@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-12T07:15:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--afsNamPX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vjqlliryiusmipghddzb.jpg",
   "author": "Murat Can Yüksel",
-  "author_url": "https://dev.to/muratcanyuksel"
+  "author_url": "https://dev.to/muratcanyuksel",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "前回のプロジェクトでは、Websocketを使って、リアルタイムの取引を表示するウェブサイトを作る必要がありました...",
+      "title": "ReactでWebSocketを使う"
+    },
+    {
+      "locale": "zh",
+      "description": "在我的上一个项目中，我必须使用Websockets来创建一个显示实时交易的网站...",
+      "title": "在React中使用WebSockets"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在我的上一個項目中，我必須使用Websockets來創建一個顯示實時交易的網站...",
+      "title": "在React中使用WebSockets"
+    }
+  ]
 }
