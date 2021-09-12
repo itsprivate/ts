@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-12T15:29:13Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wFgblMsa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7cp925lpa7dlp2dsp5so.jpeg",
   "author": "Ronnie",
-  "author_url": "https://dev.to/arynnboniface"
+  "author_url": "https://dev.to/arynnboniface",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "誰かがお気に入りのVSCode拡張機能のリストを作ったのは、今に始まったことではありませんし、それは...",
+      "title": "To the VSCode Extensions I Love the Most"
+    },
+    {
+      "locale": "zh",
+      "description": "这当然不是第一次有人列出他们最喜欢的VSCode扩展列表，而且它...",
+      "title": "致我最爱的VSCode扩展程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這當然不是第一次有人列出他們最喜歡的VSCode擴展列表，而且它...",
+      "title": "致我最愛的VSCode擴展程序"
+    }
+  ]
 }
