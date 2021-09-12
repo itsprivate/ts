@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-11T08:01:04Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--l4EEK70v--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ohtai3qudfx1h6d05nci.png",
   "author": "Vincent Villafuerte",
-  "author_url": "https://dev.to/vinzvinci"
+  "author_url": "https://dev.to/vinzvinci",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私たちは、Web 3 Communityという新しいグローバルなオープンソースコミュニティを立ち上げました。",
+      "title": "Web 3 Communityの紹介"
+    },
+    {
+      "locale": "zh",
+      "description": "我们正在推出一个新的全球开源社区，名为Web 3社区，将专注于Web...",
+      "title": "介绍Web 3社区"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們正在推出一個新的全球開源社區，名爲Web 3社區，將專注於Web...",
+      "title": "介紹Web 3社區"
+    }
+  ]
 }
