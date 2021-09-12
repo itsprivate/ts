@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "テザー（USDT）をはじめとする「安定したコイン」の取り締まりについて議論している米政府関係者。"
+    },
+    {
+      "locale": "zh",
+      "title": "美国官员讨论打击Tether（USDT）和其他 \"稳定币 \"的问题。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "美國官員討論打擊Tether（USDT）和其他 \"穩定幣 \"的問題。"
+    }
+  ]
 }
