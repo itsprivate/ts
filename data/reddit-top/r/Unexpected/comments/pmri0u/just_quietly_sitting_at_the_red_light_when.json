@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ただ静かに赤信号に座っているだけ......"
+    },
+    {
+      "locale": "zh",
+      "title": "只是静静地坐在红灯前，当......"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "只是靜靜地坐在紅燈前，當......"
+    }
+  ]
 }
