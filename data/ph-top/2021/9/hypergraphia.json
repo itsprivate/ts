@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-12T07:00:00Z"
+  "original_createdAt": "2021-09-12T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "単語数の目標を設定すると、Hypergraphiaが自動的に進捗状況を測定します。ゴールカレンダーは、ライターが習慣を崩さないように設計されています。Hypergraphiaはどんなサイトでも使えます。ただし、自分の好みでコントロールすることができます。",
+      "tagline": "100%自動化されたライティング習慣トラッカー"
+    },
+    {
+      "locale": "zh",
+      "description": "设定一个字数目标，Hypergraphia会自动测量你的进度。目标日历的设计是为了让作家们不打破他们的习惯。Hypergraphia将在任何网站上工作。然而，您可以控制您的偏好。",
+      "tagline": "100%自动化的写作习惯跟踪器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "設定一個字數目標，Hypergraphia會自動測量你的進度。目標日曆的設計是爲了讓作家們不打破他們的習慣。Hypergraphia將在任何網站上工作。然而，您可以控制您的偏好。",
+      "tagline": "100%自動化的寫作習慣跟蹤器"
+    }
+  ]
 }
