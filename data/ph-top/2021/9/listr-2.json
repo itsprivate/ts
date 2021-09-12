@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-12T07:13:24Z"
+  "original_createdAt": "2021-09-12T07:13:24Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Listrでは、あなたの好きなカテゴリーでキュレーションされた、Twitterのベストリストを見ることができます。フォローするだけで、タイムラインにピン留めされ、コンテンツの消費を整理することができます。",
+      "tagline": "キュレーションされたTwitterのベストリストを探る"
+    },
+    {
+      "locale": "zh",
+      "description": "Listr让你探索Twitter上一些最好的列表，在你最喜欢的类别中进行策划。只要点击关注，把它们钉在你的时间轴上，并保持你的内容消费的组织性。",
+      "tagline": "探索策划的Twitter列表中的精华"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Listr讓你探索Twitter上一些最好的列表，在你最喜歡的類別中進行策劃。只要點擊關注，把它們釘在你的時間軸上，並保持你的內容消費的組織性。",
+      "tagline": "探索策劃的Twitter列表中的精華"
+    }
+  ]
 }

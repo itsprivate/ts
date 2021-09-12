@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-10T03:09:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LdhLWHfB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hf2myakhi0r1u22lmads.png",
   "author": "David Colby",
-  "author_url": "https://dev.to/davidcolbyatx"
+  "author_url": "https://dev.to/davidcolbyatx",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Railsのエコシステムは繁栄を続けており、Railsの開発者はその構築に必要なすべてのツールを手に入れることができます。",
+      "title": "Ruby on Rails、CableReady、Mrujs、Stimulus、Tailwindを使ったサーバーレンダリングのモーダルフォーム"
+    },
+    {
+      "locale": "zh",
+      "description": "Rails生态系统继续蓬勃发展，Rails开发人员拥有他们所需的所有工具，以建立一个强大的网络。",
+      "title": "使用Ruby on Rails、CableReady、Mrujs、Stimulus和Tailwind进行服务器渲染的模态表单"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Rails生態系統繼續蓬勃發展，Rails開發人員擁有他們所需的所有工具，以建立一個強大的網絡。",
+      "title": "使用Ruby on Rails、CableReady、Mrujs、Stimulus和Tailwind進行服務器渲染的模態表單"
+    }
+  ]
 }
