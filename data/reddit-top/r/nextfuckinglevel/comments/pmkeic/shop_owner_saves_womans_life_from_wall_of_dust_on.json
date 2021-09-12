@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "9.11の時、店主が壁のほこりから女性の命を救った"
+    },
+    {
+      "locale": "zh",
+      "title": "店主在911事件中从灰尘墙中救出妇女的生命"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "店主在911事件中從灰塵牆中救出婦女的生命"
+    }
+  ]
 }
