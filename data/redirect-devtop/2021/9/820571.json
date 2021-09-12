@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-11T09:41:19Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dLmifDUp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/omy2mjivz3ksqn82p87z.jpg",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "完全無料でダウンロードできるDjangoウェブサイトテンプレートを厳選してご紹介します。すべてのプロジェクトは積極的にサポートされており、記事では各製品のダウンロードリンクを提供しています。",
+      "title": "Djangoのウェブサイトテンプレート - 無料ダウンロード"
+    },
+    {
+      "locale": "zh",
+      "description": "一个精心策划的Django网站模板列表，完全免费供下载。所有项目都得到了积极的支持，文章中提供了每个产品的下载链接。",
+      "title": "Django网站模板 - 免费下载"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個精心策劃的Django網站模板列表，完全免費供下載。所有項目都得到了積極的支持，文章中提供了每個產品的下載鏈接。",
+      "title": "Django網站模板 - 免費下載"
+    }
+  ]
 }
