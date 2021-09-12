@@ -106,5 +106,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "医者はこのトリックを嫌います。"
+    },
+    {
+      "locale": "zh",
+      "title": "医生们讨厌这一招!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "醫生們討厭這一招!"
+    }
+  ]
 }
