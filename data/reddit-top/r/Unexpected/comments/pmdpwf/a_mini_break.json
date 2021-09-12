@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ミニブレイク..."
+    },
+    {
+      "locale": "zh",
+      "title": "一个小型的休息..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個小型的休息..."
+    }
+  ]
 }
