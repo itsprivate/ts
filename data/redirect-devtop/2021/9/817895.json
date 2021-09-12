@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-08T19:34:35Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TbYFQ7O6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yjzepwf2ld5zb1ne15io.png",
   "author": "Eddy Vinck",
-  "author_url": "https://dev.to/eddyvinck"
+  "author_url": "https://dev.to/eddyvinck",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "フロントエンドフレームワークを学ぶ一番の理由は、そのフレームワークがあなたの目標に合致しているからです。",
+      "title": "正しいフロントエンドフレームワークの選び方"
+    },
+    {
+      "locale": "zh",
+      "description": "学习一个前端框架的最好理由是该框架与你的目标相一致。",
+      "title": "如何选择正确的前端框架"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "學習一個前端框架的最好理由是該框架與你的目標相一致。",
+      "title": "如何選擇正確的前端框架"
+    }
+  ]
 }
