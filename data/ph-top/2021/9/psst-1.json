@@ -67,5 +67,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-12T07:02:55Z"
+  "original_createdAt": "2021-09-12T07:02:55Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ネイティブなGUIの高速Spotifyクライアントです。開発の初期段階で、機能、安定性、一般的なユーザーエクスペリエンスが不足しています。今のところMacでしかテストされていませんが、WindowsとLinuxのフルサポートを目指しています。",
+      "tagline": "ネイティブGUIによる高速かつマルチプラットフォームなSpotifyクライアント"
+    },
+    {
+      "locale": "zh",
+      "description": "快速的Spotify客户端，具有本地图形用户界面，没有Electron，在Rust中构建。处于开发初期，在功能、稳定性和一般用户体验方面有所欠缺。到目前为止，它只在Mac上测试，但目标是全面支持Windows和Linux。",
+      "tagline": "快速和多平台的Spotify客户端，带有本地GUI"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "快速的Spotify客戶端，具有本地圖形用戶界面，沒有Electron，在Rust中構建。處於開發初期，在功能、穩定性和一般用戶體驗方面有所欠缺。到目前爲止，它只在Mac上測試，但目標是全面支持Windows和Linux。",
+      "tagline": "快速和多平臺的Spotify客戶端，帶有本地GUI"
+    }
+  ]
 }
