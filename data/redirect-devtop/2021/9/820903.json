@@ -43,5 +43,22 @@
   "original_created_at": "2021-09-11T16:14:33Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--B-bXZOki--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6a2hvszuyh2c828nmdjp.png",
   "author": "Giovanni Cardamone",
-  "author_url": "https://dev.to/giovannicardamone"
+  "author_url": "https://dev.to/giovannicardamone",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Javascriptは非常に素晴らしい言語ですが（少なくとも誰かにとっては😂）、まだいくつかのコアな部分が欠けています。",
+      "title": "PolyFull - js機能の強化"
+    },
+    {
+      "locale": "zh",
+      "description": "Javascript是一种非常好的语言（至少对某人来说是这样😂），但它仍然缺少一些核心...",
+      "title": "PolyFull - 增强js能力"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Javascript是一種非常好的語言（至少對某人來說是這樣😂），但它仍然缺少一些核心...",
+      "title": "PolyFull - 增強js能力"
+    }
+  ]
 }
