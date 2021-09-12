@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Mirror Magnetは、ライブカメラの画像をデスクトップに表示し、他のすべてのものを監視します。"
+    },
+    {
+      "locale": "zh",
+      "title": "镜像磁铁将实时摄像头图像放在你的桌面上，并保持在其他一切之上"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "鏡像磁鐵將實時攝像頭圖像放在你的桌面上，並保持在其他一切之上"
+    }
+  ]
 }
