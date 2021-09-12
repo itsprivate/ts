@@ -52,5 +52,22 @@
   "original_created_at": "2021-09-10T09:19:59Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Ge3jBqAD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/81338qv6cnla81grha8v.png",
   "author": "Suraj Vishwakarma",
-  "author_url": "https://dev.to/surajondev"
+  "author_url": "https://dev.to/surajondev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに アニメーションは、Webページをより面白く、魅力的で、インタラクティブなものにしてくれます。",
+      "title": "基礎から学ぶCSSによるウェブアニメーション"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍：动画使网页更有趣、更有吸引力、更有互动性，比...",
+      "title": "用CSS制作网页动画--学习基础知识"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹：動畫使網頁更有趣、更有吸引力、更有互動性，比...",
+      "title": "用CSS製作網頁動畫--學習基礎知識"
+    }
+  ]
 }
