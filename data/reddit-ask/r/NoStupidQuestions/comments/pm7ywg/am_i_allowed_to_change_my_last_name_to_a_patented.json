@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "名字を特許取得済みのブランドに変更してもよいのでしょうか？例えば、ジョー・ペプシ"
+    },
+    {
+      "locale": "zh",
+      "title": "我是否可以将我的姓氏改为专利品牌？例如，乔-百事可乐"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我是否可以將我的姓氏改爲專利品牌？例如，喬-百事可樂"
+    }
+  ]
 }
