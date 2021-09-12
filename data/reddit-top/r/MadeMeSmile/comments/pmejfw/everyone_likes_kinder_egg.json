@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "みんな大好きキンダーエッグ"
+    },
+    {
+      "locale": "zh",
+      "title": "每个人都喜欢健壮蛋"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "每個人都喜歡健壯蛋"
+    }
+  ]
 }
