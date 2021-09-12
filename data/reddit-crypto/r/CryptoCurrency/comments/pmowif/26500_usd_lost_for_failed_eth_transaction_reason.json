@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ETHの取引に失敗して26,500米ドルを失いました。理由：ガス欠。"
+    },
+    {
+      "locale": "zh",
+      "title": "ETH交易失败，损失26,500美元。原因：没油了。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "ETH交易失敗，損失26,500美元。原因：沒油了。"
+    }
+  ]
 }
