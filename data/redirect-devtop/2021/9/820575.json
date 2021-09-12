@@ -55,5 +55,22 @@
   "original_created_at": "2021-09-11T09:46:12Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QGB5iHAd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ndar43axatrxqr9wvxkq.png",
   "author": "Zoltán Szőgyényi",
-  "author_url": "https://dev.to/zolidev"
+  "author_url": "https://dev.to/zolidev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "FlowBiteとは？  FlowBite（フローバイト）とは、オープンソースのUI要素集で...",
+      "title": "FlowBite - Tailwind CSSコンポーネントライブラリ"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是FlowBite？  FlowBite是一个开源的UI元素集合，它是以 \"中国 \"为基础的。",
+      "title": "FlowBite - Tailwind CSS组件库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是FlowBite？  FlowBite是一個開源的UI元素集合，它是以 \"中國 \"爲基礎的。",
+      "title": "FlowBite - Tailwind CSS組件庫"
+    }
+  ]
 }
