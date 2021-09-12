@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "見た目はかっこいいんだけどね"
+    },
+    {
+      "locale": "zh",
+      "title": "看起来很酷，我想"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "看起來很酷，我想"
+    }
+  ]
 }
