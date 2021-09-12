@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-09T16:25:50Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rRm4A_Ej--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lv3uk0w5b2nmq82nemc6.jpg",
   "author": "Mike Talbot",
-  "author_url": "https://dev.to/miketalbot"
+  "author_url": "https://dev.to/miketalbot",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TLDR; いくつかの便利なウィジェットを作成するプロジェクトの一環として、クライアントサイドのルーターを構築しています。",
+      "title": "クライアントサイドReactルータ：ルートとパラメータ"
+    },
+    {
+      "locale": "zh",
+      "description": "TLDR; 我正在建立一个客户端路由器，作为一个项目的一部分，以创建一些有用的小工具...",
+      "title": "客户端React Router：路由和参数"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "TLDR; 我正在建立一個客戶端路由器，作爲一個項目的一部分，以創建一些有用的小工具...",
+      "title": "客戶端React Router：路由和參數"
+    }
+  ]
 }
