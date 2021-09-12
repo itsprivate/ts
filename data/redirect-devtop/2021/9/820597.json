@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-11T10:38:32Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7mAMcZYY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/evfvcza7sa8zrz4retlb.jpg",
   "author": "Dheeraj",
-  "author_url": "https://dev.to/dheerajmurali"
+  "author_url": "https://dev.to/dheerajmurali",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Plotly.jsは、多くのグラフを扱うウェブアプリケーションを構築する際に、最適なツールの一つです。",
+      "title": "Plotly.jsを使ってReactでレスポンシブチャートを作る"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你正在构建一个涉及大量图表的Web应用程序，Plotly.js是最好的工具之一。",
+      "title": "用Plotly.js在React中构建一个响应式的图表"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你正在構建一個涉及大量圖表的Web應用程序，Plotly.js是最好的工具之一。",
+      "title": "用Plotly.js在React中構建一個響應式的圖表"
+    }
+  ]
 }
