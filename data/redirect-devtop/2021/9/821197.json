@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-12T03:12:59Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GodmTILz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vqzk8xwu1hjbfd28lr5c.png",
   "author": "Tapajyoti Bose",
-  "author_url": "https://dev.to/ruppysuppy"
+  "author_url": "https://dev.to/ruppysuppy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JavaScriptであろうとなかろうと、それなりの規模のNode.jsアプリケーションに携わったことがあれば、それはそれでいいと思います。",
+      "title": "How Pros Get Rid of Relative Imports"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你曾在一个相当规模的Node.js应用程序上工作过，无论其是JavaScript还是...",
+      "title": "专业人士如何摆脱相对进口的影响"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你曾在一個相當規模的Node.js應用程序上工作過，無論其是JavaScript還是...",
+      "title": "專業人士如何擺脫相對進口的影響"
+    }
+  ]
 }
