@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ライオンを狩る日を間違えたハイエナ"
+    },
+    {
+      "locale": "zh",
+      "title": "鬣狗选择了错误的一天来猎杀狮子"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "鬣狗選擇了錯誤的一天來獵殺獅子"
+    }
+  ]
 }
