@@ -136,5 +136,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "NotionでTelegramを使ってビデオノートを作成"
+    },
+    {
+      "locale": "zh",
+      "title": "使用Telegram在Notion中创建视频笔记"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "使用Telegram在Notion中創建視頻筆記"
+    }
+  ]
 }
