@@ -50,5 +50,22 @@
   "original_created_at": "2021-09-12T15:32:28Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dgZ-I3bb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://across-multiverse.com/preview.jpg",
   "author": "Mehdi Zed",
-  "author_url": "https://dev.to/jesuisundev"
+  "author_url": "https://dev.to/jesuisundev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私は、JavaScriptでプロシージャルに生成された無限の宇宙を自由に探索できる、無料の3Dブラウザゲームを作りました。",
+      "title": "JavaScriptで全宇宙を作ってみた"
+    },
+    {
+      "locale": "zh",
+      "description": "我建立了一个免费的3D浏览器游戏，可自由探索，跨越无限的宇宙，由JavaScript程序生成。",
+      "title": "我用JavaScript构建了整个宇宙"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我建立了一個免費的3D瀏覽器遊戲，可自由探索，跨越無限的宇宙，由JavaScript程序生成。",
+      "title": "我用JavaScript構建了整個宇宙"
+    }
+  ]
 }
