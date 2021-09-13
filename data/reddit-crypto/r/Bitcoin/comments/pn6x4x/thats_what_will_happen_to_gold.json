@@ -65,5 +65,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "それは、ゴールドに起こることです。"
+    },
+    {
+      "locale": "zh",
+      "title": "这就是黄金将发生的事情"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這就是黃金將發生的事情"
+    }
+  ]
 }
