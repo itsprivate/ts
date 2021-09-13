@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-13T05:29:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qVGNMKee--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nicxo2ol76s34cbmnz5u.jpeg",
   "author": "Gaurav Behere",
-  "author_url": "https://dev.to/gauravbehere"
+  "author_url": "https://dev.to/gauravbehere",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "武器（道具）は、兵士（開発者）を有効にする。高度で効果的な武器（ツール）をあなたの...",
+      "title": "Reactのアーモリーに必須の武器"
+    },
+    {
+      "locale": "zh",
+      "description": "武器（工具）使士兵（开发者）有效。先进和有效的武器（工具）在你的...",
+      "title": "你的React军械库中必须有的武器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "武器（工具）使士兵（開發者）有效。先進和有效的武器（工具）在你的...",
+      "title": "你的React軍械庫中必須有的武器"
+    }
+  ]
 }
