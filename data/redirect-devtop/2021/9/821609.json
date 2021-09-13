@@ -52,5 +52,22 @@
   "original_created_at": "2021-09-12T16:07:56Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--By6esOqN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/05q0wqoo2g0z2qt05xv5.png",
   "author": "Avneesh Agarwal",
-  "author_url": "https://dev.to/avneesh0612"
+  "author_url": "https://dev.to/avneesh0612",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "シングルページのWebアプリケーションでは、ユーザーが......に移動できるようにするためのナビバーがあるでしょう。",
+      "title": "リアクトでの簡単なスムーススクロール"
+    },
+    {
+      "locale": "zh",
+      "description": "在一个单页的网络应用中，你可能会有一个导航条，允许用户进入...",
+      "title": "在反应中轻松实现平滑滚动"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在一個單頁的網絡應用中，你可能會有一個導航條，允許用戶進入...",
+      "title": "在反應中輕鬆實現平滑滾動"
+    }
+  ]
 }
