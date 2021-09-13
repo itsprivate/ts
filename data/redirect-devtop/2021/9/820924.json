@@ -43,5 +43,22 @@
   "original_created_at": "2021-09-11T17:33:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9tFsFKx9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5lv1hrdk8hxuaut3cm0a.png",
   "author": "Valentin PARSY",
-  "author_url": "https://dev.to/parsyvalentin"
+  "author_url": "https://dev.to/parsyvalentin",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、Axel Rauschmayer氏のイテレーションに関するブログ記事を読みました。",
+      "title": "スプレッド・オペレーターを知らないのか！？"
+    },
+    {
+      "locale": "zh",
+      "description": "我最近在读Axel Rauschmayer的一篇关于迭代的博文（我建议你关注他，...",
+      "title": "你不知道散布式操作者 !"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我最近在讀Axel Rauschmayer的一篇關於迭代的博文（我建議你關注他，...",
+      "title": "你不知道散佈式操作者 !"
+    }
+  ]
 }
