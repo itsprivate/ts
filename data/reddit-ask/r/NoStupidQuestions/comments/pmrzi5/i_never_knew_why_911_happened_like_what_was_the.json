@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "なぜ9.11が起こったのか、テロリストは何のためにビルを攻撃したのか、というようなことを知りませんでした。"
+    },
+    {
+      "locale": "zh",
+      "title": "我一直不知道为什么会发生911事件，比如恐怖分子袭击建筑物的原因是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我一直不知道爲什麼會發生911事件，比如恐怖分子襲擊建築物的原因是什麼？"
+    }
+  ]
 }
