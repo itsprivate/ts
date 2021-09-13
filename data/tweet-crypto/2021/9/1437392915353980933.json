@@ -138,5 +138,22 @@
     "retweet_count": 828,
     "favorite_count": 2684,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @MartyBent: この人たちが自分の利益を一番に考えていると本当に思っているのか？https://t.co/1a1Lt9xV4h",
+      "retweeted_status_full_text": "この人たちが自分の利益を考えてくれていると本当に思っているのか？https://t.co/1a1Lt9xV4h。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @MartyBent: 你真的认为这些人把你的最大利益放在心上吗？https://t.co/1a1Lt9xV4h",
+      "retweeted_status_full_text": "你真的认为这些人把你的最大利益放在心上吗？https://t.co/1a1Lt9xV4h"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @MartyBent: 你真的認爲這些人把你的最大利益放在心上嗎？https://t.co/1a1Lt9xV4h",
+      "retweeted_status_full_text": "你真的認爲這些人把你的最大利益放在心上嗎？https://t.co/1a1Lt9xV4h"
+    }
+  ]
 }
