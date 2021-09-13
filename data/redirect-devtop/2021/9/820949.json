@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-11T18:50:31Z",
   "image": "https://dev.to/social_previews/article/820949.png",
   "author": "Tyler Smith",
-  "author_url": "https://dev.to/tylerlwsmith"
+  "author_url": "https://dev.to/tylerlwsmith",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ただ単にアプリをコンテナ化するだけではなく、言語やベースイメージごとに多くの学習を必要とするプロセスがあります。",
+      "title": "アプリを「ただコンテナ化」するのではなく"
+    },
+    {
+      "locale": "zh",
+      "description": "一个人不会 \"随便 \"把一个应用程序容器化：这是一个过程，涉及到对每种语言和基础图像的大量学习。",
+      "title": "一个人不能 \"随便 \"将一个应用程序容器化"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個人不會 \"隨便 \"把一個應用程序容器化：這是一個過程，涉及到對每種語言和基礎圖像的大量學習。",
+      "title": "一個人不能 \"隨便 \"將一個應用程序容器化"
+    }
+  ]
 }
