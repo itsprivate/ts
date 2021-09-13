@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-13T14:43:17Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--39fGl5ZX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cezah2z8bpjfkp2kl8xo.png",
   "author": "Modern Web",
-  "author_url": "https://dev.to/kunaal438"
+  "author_url": "https://dev.to/kunaal438",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、今日の記事では、HTML、CSS、JS.... を使用して E コマースサイトを作成する方法を学びます。",
+      "title": "HTML、CSS、JSでECサイトを作る方法"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，今天在这篇文章中，我们将学习使用HTML、CSS和JS....，创建一个电子商务网站。",
+      "title": "如何用HTML、CSS和JS制作一个电子商务网站"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，今天在這篇文章中，我們將學習使用HTML、CSS和JS....，創建一個電子商務網站。",
+      "title": "如何用HTML、CSS和JS製作一個電子商務網站"
+    }
+  ]
 }
