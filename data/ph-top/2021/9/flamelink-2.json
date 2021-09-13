@@ -103,5 +103,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-13T07:09:08Z"
+  "original_createdAt": "2021-09-13T07:09:08Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "世界中の開発者に信頼されているFlamelinkは、カスタムメイドで豊富な機能を持ち、直観的にコンテンツを管理できるインターフェースを提供します。FlamelinkをFirebaseプロジェクトに接続することで、パワフルなFirebaseエンジンのスピード、セキュリティ、スケーラビリティを活用することができます。",
+      "tagline": "Firebase用ヘッドレスCMS"
+    },
+    {
+      "locale": "zh",
+      "description": "Flamelink受到世界各地开发者的信任，它为团队提供了一个定制的、功能丰富的、直观的界面，可以快速地管理内容。将Flamelink连接到任何Firebase项目，利用强大的Firebase引擎的速度、安全性和可扩展性。",
+      "tagline": "用于Firebase的无头CMS"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Flamelink受到世界各地開發者的信任，它爲團隊提供了一個定製的、功能豐富的、直觀的界面，可以快速地管理內容。將Flamelink連接到任何Firebase項目，利用強大的Firebase引擎的速度、安全性和可擴展性。",
+      "tagline": "用於Firebase的無頭CMS"
+    }
+  ]
 }
