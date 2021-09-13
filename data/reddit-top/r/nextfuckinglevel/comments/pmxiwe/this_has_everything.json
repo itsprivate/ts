@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これにはすべてが詰まっている...."
+    },
+    {
+      "locale": "zh",
+      "title": "这有一切...."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這有一切...."
+    }
+  ]
 }
