@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私はamazonの配達をしていますが、これは私のルートの途中で出てきました。ちょっと思い切ったことを言ってみました(笑)"
+    },
+    {
+      "locale": "zh",
+      "title": "我为亚马逊送货，我的路线走到一半时出现了这个。我想说的是，这有点过激。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我爲亞馬遜送貨，我的路線走到一半時出現了這個。我想說的是，這有點過激。"
+    }
+  ]
 }
