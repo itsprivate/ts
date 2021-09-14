@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-14T09:23:54Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6Qq32URN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5dm9huqwfbb3g94vuzvt.png",
   "author": "Nilanth",
-  "author_url": "https://dev.to/nilanth"
+  "author_url": "https://dev.to/nilanth",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コード分割でReactアプリの初期ロード時間を短縮する手順  私たちは、大規模な...",
+      "title": "短縮する方法\nReactアプリのロード時間を70%短縮する方法 "
+    },
+    {
+      "locale": "zh",
+      "description": "使用代码分割减少你的React应用初始加载时间的步骤。 我们建立了大规模的...",
+      "title": "如何减少\n缩短70%的React应用加载时间 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用代碼分割減少你的React應用初始加載時間的步驟。 我們建立了大規模的...",
+      "title": "如何減少\n縮短70%的React應用加載時間 "
+    }
+  ]
 }
