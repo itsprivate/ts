@@ -50,5 +50,22 @@
   "original_created_at": "2021-09-13T20:39:45Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PxITs69l--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wuku8t0aznjbq8vw5xld.png",
   "author": "Morgan",
-  "author_url": "https://dev.to/morganran"
+  "author_url": "https://dev.to/morganran",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "信じられないかもしれませんが、今年、Reactは8歳になりました。テクノロジーの世界では、...",
+      "title": "2021年のReact開発者のためのベスト・プラクティス"
+    },
+    {
+      "locale": "zh",
+      "description": "可能很难相信，但今年React已经8岁了。在技术领域，...",
+      "title": "2021年React开发者的最佳实践"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "可能很難相信，但今年React已經8歲了。在技術領域，...",
+      "title": "2021年React開發者的最佳實踐"
+    }
+  ]
 }
