@@ -35,5 +35,22 @@
   "original_created_at": "2021-09-12T16:07:03Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zL7a_SWy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5wm64qnl1dduptrq5cie.jpg",
   "author": "Juliana Gaioso",
-  "author_url": "https://dev.to/juligaioso"
+  "author_url": "https://dev.to/juligaioso",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コードを文書化するかしないかは、コミュニティのコンセンサスではありません。多くの人が、「...",
+      "title": "誰も教えてくれないが、誰もが知っておくべきこと：ドキュメントの作成"
+    },
+    {
+      "locale": "zh",
+      "description": "记录或不记录代码在社区中并不完全是一种共识。许多人说，...",
+      "title": "没有人教你做但大家都希望你知道的事情：写文件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "記錄或不記錄代碼在社區中並不完全是一種共識。許多人說，...",
+      "title": "沒有人教你做但大家都希望你知道的事情：寫文件"
+    }
+  ]
 }
