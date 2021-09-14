@@ -103,5 +103,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1631623192,
-  "the_new_excerpt": "I’m currently 80% VT and 20% VOO. How does your portfolio stack up? What have\nyou used to reach this decision?"
+  "the_new_excerpt": "I’m currently 80% VT and 20% VOO. How does your portfolio stack up? What have\nyou used to reach this decision?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "現在はVT80％、VOO20％です。あなたのポートフォリオはどうですか？何をしていますか？\n何を基準にして決めたのですか？",
+      "title": "S&P500でグローバル市場を加重する。オーバーウェイトについてのお考えをお聞かせください。また、S&P500に配分するとしたら、どのくらいの割合で配分しますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我目前有80%的VT和20%的VOO。你的投资组合情况如何？你使用了什么\n你是用什么来做出这个决定的？",
+      "title": "用标准普尔500指数对全球市场进行加权。你对加权有什么看法，如果有的话，你分配给标普500指数的比例是多少。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我目前有80%的VT和20%的VOO。你的投資組合情況如何？你使用了什麼\n你是用什麼來做出這個決定的？",
+      "title": "用標準普爾500指數對全球市場進行加權。你對加權有什麼看法，如果有的話，你分配給標普500指數的比例是多少。"
+    }
+  ]
 }
