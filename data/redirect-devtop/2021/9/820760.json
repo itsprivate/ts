@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-11T14:20:25Z",
   "image": "https://dev.to/social_previews/article/820760.png",
   "author": "Erik Melone",
-  "author_url": "https://dev.to/erikmelone"
+  "author_url": "https://dev.to/erikmelone",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ドキュメントの問題点 私たちは、大多数の...",
+      "title": "明確で簡潔なドキュメントの書き方"
+    },
+    {
+      "locale": "zh",
+      "description": "我们的文件有问题 我们的大部分文件都有问题。",
+      "title": "如何编写清晰简洁的文件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們的文件有問題 我們的大部分文件都有問題。",
+      "title": "如何編寫清晰簡潔的文件"
+    }
+  ]
 }
