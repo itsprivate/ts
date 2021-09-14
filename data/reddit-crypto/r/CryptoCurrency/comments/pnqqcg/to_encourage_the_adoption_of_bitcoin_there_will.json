@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインの導入を促進するため、エルサルバドルではビットコインの利益には税金がかかりません。"
+    },
+    {
+      "locale": "zh",
+      "title": "为鼓励采用比特币，萨尔瓦多将对比特币利润不征税。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲鼓勵採用比特幣，薩爾瓦多將對比特幣利潤不徵稅。"
+    }
+  ]
 }
