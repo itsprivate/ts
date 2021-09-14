@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ワクチン接種率別のワクチン接種者と非接種者の入院数の期待値の比 [OC]."
+    },
+    {
+      "locale": "zh",
+      "title": "按疫苗接种率计算，接种疫苗与未接种疫苗者的预期住院比率[OC] 。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "按疫苗接種率計算，接種疫苗與未接種疫苗者的預期住院比率[OC] 。"
+    }
+  ]
 }
