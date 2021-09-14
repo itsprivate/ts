@@ -52,5 +52,22 @@
     },
     "retweet_count": 2805,
     "favorite_count": 16891
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @ZubyMusic: 政府はあなたに自由を与えることはできません。侵害することしかできないのです。",
+      "retweeted_status_full_text": "政府はあなたに自由を与えることはできません。侵害することしかできません。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @ZubyMusic: 政府不能给你自由。它只能侵犯它。",
+      "retweeted_status_full_text": "政府不能给你自由。它只能侵犯它。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @ZubyMusic: 政府不能給你自由。它只能侵犯它。",
+      "retweeted_status_full_text": "政府不能給你自由。它只能侵犯它。"
+    }
+  ]
 }
