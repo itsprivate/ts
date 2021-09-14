@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-10T13:00:45Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ifDKrwlt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/16m7s18yrn4is32pitg0.png",
   "author": "bob.js",
-  "author_url": "https://dev.to/rfornal"
+  "author_url": "https://dev.to/rfornal",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "昨晩遅く（実際には今朝早く）、頭の中で点が踊っているビジョンを見ました。ReactJSのデータストアでアクションとそのデータとの関係を記述するために使われる点と線、そしてObservableとサブスクリプションのデータ移動と管理を記述するために使われる点と線です。",
+      "title": "Angularでのデータストアの作成"
+    },
+    {
+      "locale": "zh",
+      "description": "昨天深夜（实际上是今天清晨），我脑海中出现了一些点的幻觉：用来描述动作及其与ReactJS数据存储中的数据关系的点和线......以及用来描述数据移动和Observables及订阅管理的点和线。",
+      "title": "在Angular中创建一个数据存储"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "昨天深夜（實際上是今天清晨），我腦海中出現了一些點的幻覺：用來描述動作及其與ReactJS數據存儲中的數據關係的點和線......以及用來描述數據移動和Observables及訂閱管理的點和線。",
+      "title": "在Angular中創建一個數據存儲"
+    }
+  ]
 }
