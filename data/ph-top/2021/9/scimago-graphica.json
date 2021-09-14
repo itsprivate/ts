@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-14T08:25:16Z"
+  "original_createdAt": "2021-09-14T08:25:16Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "SCImago Graphicaは、データの分析と可視化のために設計されたデスクトップアプリケーション（Mac、Win、Linux）です。ビジュアライゼーションは、SVGやPNGにエクスポートできるだけでなく、インタラクティブでレスポンシブなチャートとして公開することもできます。",
+      "tagline": "データを探索し、視覚的に伝え、理解を深める"
+    },
+    {
+      "locale": "zh",
+      "description": "SCImago Graphica是一个桌面应用程序（Mac、Win和Linux），旨在对数据进行分析和可视化。可视化可以导出为SVG和PNG，也可以作为互动和响应式图表发布。",
+      "tagline": "探索、视觉交流并使数据具有意义"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "SCImago Graphica是一個桌面應用程序（Mac、Win和Linux），旨在對數據進行分析和可視化。可視化可以導出爲SVG和PNG，也可以作爲互動和響應式圖表發佈。",
+      "tagline": "探索、視覺交流並使數據具有意義"
+    }
+  ]
 }
