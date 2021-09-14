@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-12T17:47:42Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VJdI5trP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kivvn0bycxyvs7w1rd4q.jpeg",
   "author": "Ankit Tanna",
-  "author_url": "https://dev.to/ankittanna"
+  "author_url": "https://dev.to/ankittanna",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TypeScript 4.4がリリースされ、多くのパフォーマンスアップデートと型チェックの改善が行われました。それに伴い...",
+      "title": "TypeScript v4.4の新機能とは？"
+    },
+    {
+      "locale": "zh",
+      "description": "TypeScript 4.4出来了，有很多性能更新，还有一些改进的类型检查。作为一个...",
+      "title": "TypeScript v4.4中有哪些新内容？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "TypeScript 4.4出來了，有很多性能更新，還有一些改進的類型檢查。作爲一個...",
+      "title": "TypeScript v4.4中有哪些新內容？"
+    }
+  ]
 }
