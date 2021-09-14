@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "デリバリーバイクが車に囲まれてしまう"
+    },
+    {
+      "locale": "zh",
+      "title": "外卖自行车被车撞了"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "外賣自行車被車撞了"
+    }
+  ]
 }
