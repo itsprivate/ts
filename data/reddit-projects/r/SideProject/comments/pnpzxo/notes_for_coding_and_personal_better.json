@@ -136,5 +136,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "コーディングと個人的なより良いドキュメントのためのメモ v2"
+    },
+    {
+      "locale": "zh",
+      "title": "编码的注意事项和个人更好的文档 v2"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "編碼的注意事項和個人更好的文檔 v2"
+    }
+  ]
 }

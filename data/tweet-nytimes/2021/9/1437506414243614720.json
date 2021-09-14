@@ -113,5 +113,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Mon Sep 13 20:00:11 +0000 2021"
+  "original_created_at": "Mon Sep 13 20:00:11 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "Appleは、高度に侵襲的なスパイウェアが、誰のiPhone、Apple Watch、Macコンピュータにもクリック一つせずに感染させることができる欠陥を修正するための緊急アップデートを発行しました。https://t.co/rcWZ9bZufZ。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "苹果公司发布了紧急更新，以修复一个缺陷，该缺陷允许高度侵入性的间谍软件感染任何人的iPhone、Apple Watch或Mac电脑，而无需点击。https://t.co/rcWZ9bZufZ。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "蘋果公司發佈了緊急更新，以修復一個缺陷，該缺陷允許高度侵入性的間諜軟件感染任何人的iPhone、Apple Watch或Mac電腦，而無需點擊。https://t.co/rcWZ9bZufZ。"
+    }
+  ]
 }
