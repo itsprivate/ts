@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Webサイトを視覚的に早く構築するためのブラウザ拡張機能を作ってみた（新v2.0リリース"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个浏览器扩展，以可视化的方式更快地构建网站（新的V2.0版）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個瀏覽器擴展，以可視化的方式更快地構建網站（新的V2.0版）。"
+    }
+  ]
 }
