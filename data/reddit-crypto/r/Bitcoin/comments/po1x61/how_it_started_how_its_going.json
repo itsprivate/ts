@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "始まりと終わり"
+    },
+    {
+      "locale": "zh",
+      "title": "它是如何开始的它是如何发展的"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "它是如何開始的它是如何發展的"
+    }
+  ]
 }
