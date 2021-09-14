@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "日本の学校生活"
+    },
+    {
+      "locale": "zh",
+      "title": "日本的学校生活"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "日本的學校生活"
+    }
+  ]
 }
