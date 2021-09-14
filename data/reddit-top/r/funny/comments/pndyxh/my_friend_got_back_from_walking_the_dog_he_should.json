@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "友人が犬の散歩から帰ってきました。彼はもっと警戒すべきだった。"
+    },
+    {
+      "locale": "zh",
+      "title": "我的朋友遛完狗回来了。他应该更加警觉。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我的朋友遛完狗回來了。他應該更加警覺。"
+    }
+  ]
 }

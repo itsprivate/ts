@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Superbuyで買い物をしていたら、Bitcoinが使えることを知りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我在Superbuy购物时，看到他们接受比特币。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我在Superbuy購物時，看到他們接受比特幣。"
+    }
+  ]
 }
