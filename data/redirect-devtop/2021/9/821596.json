@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-12T15:38:41Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--C2QD29MG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k20zqe8wkiekxl46da1q.jpg",
   "author": "Osama",
-  "author_url": "https://dev.to/bluec4p"
+  "author_url": "https://dev.to/bluec4p",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは。 この度、私の見解をお伝えするために記事を作成することにしました...",
+      "title": "px、rem、vw、vhをいつ、どこで使うか"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好。 我决定创建一个帖子，与大家分享我对计量单位的看法。",
+      "title": "我何时何地使用px、rem、vw和vh"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好。 我決定創建一個帖子，與大家分享我對計量單位的看法。",
+      "title": "我何時何地使用px、rem、vw和vh"
+    }
+  ]
 }
