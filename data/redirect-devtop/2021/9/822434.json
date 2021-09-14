@@ -41,5 +41,22 @@
   "original_created_at": "2021-09-13T12:21:06Z",
   "image": "https://dev.to/social_previews/article/822434.png",
   "author": "Michael Bogan",
-  "author_url": "https://dev.to/mbogan"
+  "author_url": "https://dev.to/mbogan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "洞窟の中でソフトウェアを開発している人でなければ、おそらく誰もが...という言葉を聞いたことがあるでしょう。",
+      "title": "開発者のための7つのマイクロサービス・ベスト・プラクティス"
+    },
+    {
+      "locale": "zh",
+      "description": "除非你是在山洞里开发软件，否则你可能已经听到人们在赞美...",
+      "title": "开发人员的7项微服务最佳实践"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "除非你是在山洞裏開發軟件，否則你可能已經聽到人們在讚美...",
+      "title": "開發人員的7項微服務最佳實踐"
+    }
+  ]
 }
