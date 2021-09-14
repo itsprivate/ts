@@ -91,5 +91,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今回は完全にハプニング"
+    },
+    {
+      "locale": "zh",
+      "title": "这一次完全发生了"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這一次完全發生了"
+    }
+  ]
 }
