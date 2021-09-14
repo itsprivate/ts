@@ -41,5 +41,22 @@
   "original_created_at": "2021-09-12T05:09:51Z",
   "image": "https://dev.to/social_previews/article/821210.png",
   "author": "Brandon Weaver",
-  "author_url": "https://dev.to/baweaver"
+  "author_url": "https://dev.to/baweaver",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今年もこの時期がやってきました。Ruby 3.1の新機能が次々と承認され、それに伴って...",
+      "title": "Ruby 3.1 - ショートハンドハッシュ構文 - ファーストインプレッション"
+    },
+    {
+      "locale": "zh",
+      "description": "又到了一年一度的时间，随之而来的是一捆新的Ruby 3.1功能得到批准，并在此基础上推出。",
+      "title": "Ruby 3.1 - Shorthand Hash Syntax - 第一印象"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "又到了一年一度的時間，隨之而來的是一捆新的Ruby 3.1功能得到批准，並在此基礎上推出。",
+      "title": "Ruby 3.1 - Shorthand Hash Syntax - 第一印象"
+    }
+  ]
 }
