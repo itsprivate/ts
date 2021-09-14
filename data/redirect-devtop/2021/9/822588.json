@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-13T13:59:26Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--iW-L1Wxa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1q9jkq2nfkpt0g1vjwgb.jpg",
   "author": "Rahul ",
-  "author_url": "https://dev.to/holdmypotion"
+  "author_url": "https://dev.to/holdmypotion",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このサイトで、この派手なスクロール効果を見て、私はびっくりしました。私はそれを再現しようと思いました...",
+      "title": "リアクト。派手なポートフォリオのためのスクロール遷移"
+    },
+    {
+      "locale": "zh",
+      "description": "我在这个网站上看到了这种花哨的滚动效果，这让我大吃一惊。我想重现这个效果。",
+      "title": "响应。花式公文包的滚动过渡"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我在這個網站上看到了這種花哨的滾動效果，這讓我大喫一驚。我想重現這個效果。",
+      "title": "響應。花式公文包的滾動過渡"
+    }
+  ]
 }
