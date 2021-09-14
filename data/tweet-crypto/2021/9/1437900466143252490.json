@@ -66,5 +66,19 @@
   "retweet_count": 75,
   "favorite_count": 695,
   "possibly_sensitive": false,
-  "original_created_at": "Tue Sep 14 22:06:00 +0000 2021"
+  "original_created_at": "Tue Sep 14 22:06:00 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "\"There is #bitcoin and there is shitcoin\" ... https://t.co/vcruTnKKUl"
+    },
+    {
+      "locale": "zh",
+      "full_text": "\"有的是#比特币，有的是狗屎币\" ... https://t.co/vcruTnKKUl"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "\"有的是#比特幣，有的是狗屎幣\" ... https://t.co/vcruTnKKUl"
+    }
+  ]
 }
