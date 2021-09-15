@@ -48,5 +48,22 @@
   "original_created_at": "2021-09-14T12:46:27Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HCc9eBFz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0c2r6d63dzq2tbxbo1a3.png",
   "author": "Jesús Mejías Leiva",
-  "author_url": "https://dev.to/susomejias"
+  "author_url": "https://dev.to/susomejias",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今日、私が再び書いているのは、...での日付の取り扱いに役立つライブラリをお届けすることです。",
+      "title": "Day.js｜JSで日付を扱うための最も軽量なAPI"
+    },
+    {
+      "locale": "zh",
+      "description": "今天，我再次写信给你，为你带来一个库，它将帮助我们在处理日期方面的问题。",
+      "title": "Day.js | 在JS中处理日期的最简单的API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "今天，我再次寫信給你，爲你帶來一個庫，它將幫助我們在處理日期方面的問題。",
+      "title": "Day.js | 在JS中處理日期的最簡單的API"
+    }
+  ]
 }
