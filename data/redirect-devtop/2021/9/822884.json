@@ -41,5 +41,22 @@
   "original_created_at": "2021-09-13T19:04:29Z",
   "image": "https://dev.to/social_previews/article/822884.png",
   "author": "Pierre Ouannes",
-  "author_url": "https://dev.to/pierreouannes"
+  "author_url": "https://dev.to/pierreouannes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ReactのContext APIを使うと、とても便利なことが多いです。いくつかのパターンがあることがわかりました。",
+      "title": "プロのようにReact Contextを使うには"
+    },
+    {
+      "locale": "zh",
+      "description": "使用React的Context API往往非常有用。我发现，有几种模式可以让你...",
+      "title": "如何像专家一样使用React Context"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用React的Context API往往非常有用。我發現，有幾種模式可以讓你...",
+      "title": "如何像專家一樣使用React Context"
+    }
+  ]
 }
