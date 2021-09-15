@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] 円周率の桁数の多さを精度別に表す円グラフ"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]不同精度下的Pi数位丰富度饼图"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]不同精度下的Pi數位豐富度餅圖"
+    }
+  ]
 }
