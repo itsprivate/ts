@@ -108,5 +108,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-15T07:01:00Z"
+  "original_createdAt": "2021-09-15T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Requestlyは、Network修正のすべての要件を満たすための開発者ツールのセットです。HTTPリクエストとレスポンスのインターセプト、モディファイ、デバッグ、テストを行います。ヘッダーの変更、APIやレスポンスのモック、リダイレクトの設定、リクエストの遅延など、様々なことが可能です。",
+      "tagline": "HTTPリクエストの傍受と修正"
+    },
+    {
+      "locale": "zh",
+      "description": "Requestly是一套开发工具，可以完成你所有的网络修改要求。拦截、修改、调试和测试HTTP请求和响应。你可以修改标头，模拟API和响应，设置重定向，延迟请求和做更多的事情。",
+      "tagline": "拦截和修改HTTP请求"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Requestly是一套開發工具，可以完成你所有的網絡修改要求。攔截、修改、調試和測試HTTP請求和響應。你可以修改標頭，模擬API和響應，設置重定向，延遲請求和做更多的事情。",
+      "tagline": "攔截和修改HTTP請求"
+    }
+  ]
 }
