@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "通常のオンライン授業の様子"
+    },
+    {
+      "locale": "zh",
+      "title": "一节正常的在线课程"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一節正常的在線課程"
+    }
+  ]
 }
