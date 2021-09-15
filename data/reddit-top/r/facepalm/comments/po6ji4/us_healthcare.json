@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "USヘルスケア"
+    },
+    {
+      "locale": "zh",
+      "title": "美国医疗保健"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "美國醫療保健"
+    }
+  ]
 }
