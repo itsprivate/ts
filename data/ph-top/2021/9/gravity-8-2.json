@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-15T07:01:00Z"
+  "original_createdAt": "2021-09-15T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Gravityは、SaaS製品を構築するために必要なすべての機能を1回のインストールで提供するSaaS定型文です。これまでに300人以上の開発者が、数ヶ月の作業時間を短縮し、超高速で製品を発売するのに貢献してきました。",
+      "tagline": "Javascriptを使ってSaaSアプリケーションを高速で構築することができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "Gravity是一个SaaS模板，在一次安装中拥有构建一个SaaS产品所需的一切。它已经帮助300多名开发人员节省了几个月的努力，并以极快的速度推出他们的产品。",
+      "tagline": "用Javascript模板以极快的速度建立一个SaaS应用"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Gravity是一個SaaS模板，在一次安裝中擁有構建一個SaaS產品所需的一切。它已經幫助300多名開發人員節省了幾個月的努力，並以極快的速度推出他們的產品。",
+      "tagline": "用Javascript模板以極快的速度建立一個SaaS應用"
+    }
+  ]
 }
