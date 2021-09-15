@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-06T18:41:02Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6wXiXDVK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nl0h25rp5h9ytg5wnrj7.png",
   "author": "Nader Dabit",
-  "author_url": "https://dev.to/dabit3"
+  "author_url": "https://dev.to/dabit3",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "SolanaでフルスタックDappsの構築を始めるために必要なすべてのもの",
+      "title": "React、Anchor、Rust、Phantomによるフルスタック・ソラナ開発の完全ガイド"
+    },
+    {
+      "locale": "zh",
+      "description": "开始在Solana上构建全栈Dapp所需的一切",
+      "title": "使用React、Anchor、Rust和Phantom进行全栈Solana开发的完整指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "開始在Solana上構建全棧Dapp所需的一切",
+      "title": "使用React、Anchor、Rust和Phantom進行全棧Solana開發的完整指南"
+    }
+  ]
 }
