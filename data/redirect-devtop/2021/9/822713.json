@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-13T17:27:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_9bCPJoG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f0mfjzsya8iv6ndktt7h.png",
   "author": "Fred K. Schott",
-  "author_url": "https://dev.to/fredkschott"
+  "author_url": "https://dev.to/fredkschott",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Snowpackを作ったのは、私、フレッドです。馴染みのない方もいらっしゃるかもしれませんが、Snowpackはウェブ構築ツールで...",
+      "title": "スノーパックを20,000個の星にするために学んだ5つのこと"
+    },
+    {
+      "locale": "zh",
+      "description": "我的名字是弗雷德，我创建了Snowpack。如果你不熟悉的话，Snowpack是一个网络构建工具，它可以让你的工作变得更轻松。",
+      "title": "打造 \"雪山 \"到 \"两万星 \"的5个经验之谈"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我的名字是弗雷德，我創建了Snowpack。如果你不熟悉的話，Snowpack是一個網絡構建工具，它可以讓你的工作變得更輕鬆。",
+      "title": "打造 \"雪山 \"到 \"兩萬星 \"的5個經驗之談"
+    }
+  ]
 }
