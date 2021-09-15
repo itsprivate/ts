@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Or glad you did it"
+  "the_new_excerpt": "Or glad you did it",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "あるいは、やってよかった",
+      "title": "今でも感謝している経済的な決断は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "或者很高兴你这样做",
+      "title": "有哪些你所做的财务决定是你今天仍然感激的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "或者很高興你這樣做",
+      "title": "有哪些你所做的財務決定是你今天仍然感激的？"
+    }
+  ]
 }
