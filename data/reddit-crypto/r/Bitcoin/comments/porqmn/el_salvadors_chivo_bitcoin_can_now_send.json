@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "With my bank, it has to be a minimum $5."
+  "the_new_excerpt": "With my bank, it has to be a minimum $5.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私の銀行では、最低でも5ドルの入金が必要です。",
+      "title": "エルサルバドルのChivo #Bitcoinは、0.01ドルという少額の取引を送れるようになりました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "在我的银行，必须是至少5美元。",
+      "title": "萨尔瓦多的Chivo #Bitcoin现在可以发送小至0.01美元的交易。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "在我的銀行，必須是至少5美元。",
+      "title": "薩爾瓦多的Chivo #Bitcoin現在可以發送小至0.01美元的交易。"
+    }
+  ]
 }
