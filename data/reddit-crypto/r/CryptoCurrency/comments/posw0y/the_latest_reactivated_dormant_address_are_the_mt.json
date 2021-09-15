@@ -42,5 +42,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Yesterday a dormant Bitcoin address transferred funds for the first time after 7\nyears and it turns out it probably belongs to the Mt. Gox hackers. 2,720 BTC\nequal to 126,010,161 USD were transferred out of the wallet. The funds have a\ndirect connection to the old cold/hot wallets of the Japan based…"
+  "the_new_excerpt": "Yesterday a dormant Bitcoin address transferred funds for the first time after 7\nyears and it turns out it probably belongs to the Mt. Gox hackers. 2,720 BTC\nequal to 126,010,161 USD were transferred out of the wallet. The funds have a\ndirect connection to the old cold/hot wallets of the Japan based…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "昨日、眠っていたビットコインのアドレスが7年ぶりに送金されました。\nおそらくMt.Goxのハッカーのものであることが判明しました。2,720BTC\n126,010,161米ドルに相当する2,720BTCがウォレットから送金されました。この資金は\nこの資金は、日本を拠点とするMt.Goxハッカーの古いコールド/ホットウォレットに直接接続されています。",
+      "title": "最新の再活性化された休眠アドレスは、Mt.Goxのハッカー（$126M+）です。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "昨天，一个休眠的比特币地址在7年后第一次转移资金。\n结果发现它可能属于Mt.Gox的黑客们。2,720 BTC\n相当于126,010,161美元被转出钱包。这些资金有一个\n直接连接到总部设在日本的旧的冷/热钱包...",
+      "title": "最新重新激活的休眠地址是Mt.Gox的黑客（1.26亿美元以上）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "昨天，一個休眠的比特幣地址在7年後第一次轉移資金。\n結果發現它可能屬於Mt.Gox的黑客們。2,720 BTC\n相當於126,010,161美元被轉出錢包。這些資金有一個\n直接連接到總部設在日本的舊的冷/熱錢包...",
+      "title": "最新重新激活的休眠地址是Mt.Gox的黑客（1.26億美元以上）。"
+    }
+  ]
 }
