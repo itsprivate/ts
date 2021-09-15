@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-14T10:40:46Z",
   "image": "https://dev.to/social_previews/article/823486.png",
   "author": "Mwenda Harun Mbaabu",
-  "author_url": "https://dev.to/grayhat"
+  "author_url": "https://dev.to/grayhat",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "4週間ぶりに新しい記事をお届けします。今日は、Dockerとは何か、...",
+      "title": "Docker & Fast APIを始めよう🚀。"
+    },
+    {
+      "locale": "zh",
+      "description": "在休息了4个星期之后，我又带着新的文章回来了，今天我们将学习什么是docker，...",
+      "title": "开始使用Docker和Fast API 🚀🚀。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在休息了4個星期之後，我又帶着新的文章回來了，今天我們將學習什麼是docker，...",
+      "title": "開始使用Docker和Fast API 🚀🚀。"
+    }
+  ]
 }
