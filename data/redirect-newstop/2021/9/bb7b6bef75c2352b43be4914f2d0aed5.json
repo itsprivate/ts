@@ -14,5 +14,19 @@
   "tags": [
     "Fox News"
   ],
-  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/09/AP21244284808613.jpg"
+  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/09/AP21244284808613.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "COVID-19によるアメリカ人の死亡率は500人に1人というデータが発表される"
+    },
+    {
+      "locale": "zh",
+      "title": "数据显示，COVID-19导致美国人死亡的比例为1/500"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "數據顯示，COVID-19導致美國人死亡的比例爲1/500"
+    }
+  ]
 }
