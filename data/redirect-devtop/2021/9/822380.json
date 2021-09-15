@@ -52,5 +52,22 @@
   "original_created_at": "2021-09-13T09:55:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YmKUBqzE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u88zoutlpmeqcyysc401.jpg",
   "author": "Torsten Dittmann",
-  "author_url": "https://dev.to/torstendittmann"
+  "author_url": "https://dev.to/torstendittmann",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Appwriteは、アプリの開発を容易にすることを目的とした、オープンソースのセルフホスティング型Backend-as-a-Serviceです。",
+      "title": "WebSocketサーバの構築から学んだこと "
+    },
+    {
+      "locale": "zh",
+      "description": "Appwrite是一个开源的、自我托管的Backend-as-a-Service，旨在使应用开发更容易。",
+      "title": "构建WebSocket服务器的经验教训 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Appwrite是一個開源的、自我託管的Backend-as-a-Service，旨在使應用開發更容易。",
+      "title": "構建WebSocket服務器的經驗教訓 "
+    }
+  ]
 }
