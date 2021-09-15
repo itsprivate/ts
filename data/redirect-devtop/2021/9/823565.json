@@ -43,5 +43,22 @@
   "original_created_at": "2021-09-14T12:24:52Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oqydHvVt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1ucrdjiv9px7xyfcqy61.png",
   "author": "Eric The Coder",
-  "author_url": "https://dev.to/ericchapman"
+  "author_url": "https://dev.to/ericchapman",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Pythonの記憶装置が必要ですか？",
+      "title": "究極のPythonチートシート"
+    },
+    {
+      "locale": "zh",
+      "description": "需要一个Python记忆辅助工具吗？",
+      "title": "最终的Python小抄"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "需要一個Python記憶輔助工具嗎？",
+      "title": "最終的Python小抄"
+    }
+  ]
 }
