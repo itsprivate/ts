@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "それは6ヶ月前の私です。"
+    },
+    {
+      "locale": "zh",
+      "title": "那是6个月前的我"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "那是6個月前的我"
+    }
+  ]
 }
