@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-14T10:42:17Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9eZdJhbx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2vhnxjmn7qgmeecr23xp.gif",
   "author": "Temani Afif",
-  "author_url": "https://dev.to/afif"
+  "author_url": "https://dev.to/afif",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今回もCSSローダーについての記事ですが、今回はローダーの構築を行います。今回の記事では...",
+      "title": "1つのdivだけでCSSローダーを構築する - The Dots "
+    },
+    {
+      "locale": "zh",
+      "description": "是的，又是一篇关于CSS加载器的文章，但这一次你将构建加载器 在这篇文章中，我将...",
+      "title": "只用一个div来构建你的CSS加载器 - The Dots "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "是的，又是一篇關於CSS加載器的文章，但這一次你將構建加載器 在這篇文章中，我將...",
+      "title": "只用一個div來構建你的CSS加載器 - The Dots "
+    }
+  ]
 }
