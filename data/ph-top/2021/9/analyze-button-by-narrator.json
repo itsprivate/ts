@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-15T10:06:34Z"
+  "original_createdAt": "2021-09-15T10:06:34Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Narratorの新機能であるAnalyze Buttonを使えば、どんな仮説でもすぐに包括的なデータ分析を行うことができ、最良の決断を下すために必要な情報を得ることができます。",
+      "tagline": "世界初のセルフサービス型データ分析ツール"
+    },
+    {
+      "locale": "zh",
+      "description": "有了Narrator的新分析按钮，可以为你的任何假设立即生成一个全面的数据分析，给你做出最佳决定所需的所有信息。",
+      "tagline": "第一个真正的自助式数据分析工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有了Narrator的新分析按鈕，可以爲你的任何假設立即生成一個全面的數據分析，給你做出最佳決定所需的所有信息。",
+      "tagline": "第一個真正的自助式數據分析工具"
+    }
+  ]
 }

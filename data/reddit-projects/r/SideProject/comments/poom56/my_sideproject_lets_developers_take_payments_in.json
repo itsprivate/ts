@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私のサイドプロジェクトでは、開発者がブラウザの拡張機能で支払いを行うことができます。"
+    },
+    {
+      "locale": "zh",
+      "title": "我的副业项目让开发者在浏览器扩展中接受付款"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我的副業項目讓開發者在瀏覽器擴展中接受付款"
+    }
+  ]
 }
