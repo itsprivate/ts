@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "5世代は見たことがありますが、6世代！？それはすごいですね。"
+    },
+    {
+      "locale": "zh",
+      "title": "我见过5代，但6代！？这真是太不可思议了！？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我見過5代，但6代！？這真是太不可思議了！？"
+    }
+  ]
 }
