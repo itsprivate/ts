@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-15T07:05:00Z"
+  "original_createdAt": "2021-09-15T07:05:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TERRAは、単一のAPIを通じて、あなたのアプリとユーザーの健康やフィットネスのデータを簡単に接続することができます。Whoop、Oura、Garmin、Pelotonなどのソースに対応しています。TERRAのウィジェットを使用することで、面倒な統合、不適切な文書、異なるデータ構造に対処する必要がなくなります。",
+      "tagline": "ユーザーが自分の健康データをアプリに簡単に接続するためのAPI"
+    },
+    {
+      "locale": "zh",
+      "description": "TERRA通过单一的API，使您的应用程序与用户的健康和健身数据轻松连接。数据来源包括Whoop, Oura, Garmin和Peloton。使用我们的小工具，以避免处理笨重的集成、糟糕的文档和不同的数据结构。",
+      "tagline": "为用户提供API，使他们的健康数据轻松连接到应用程序上"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "TERRA通過單一的API，使您的應用程序與用戶的健康和健身數據輕鬆連接。數據來源包括Whoop, Oura, Garmin和Peloton。使用我們的小工具，以避免處理笨重的集成、糟糕的文檔和不同的數據結構。",
+      "tagline": "爲用戶提供API，使他們的健康數據輕鬆連接到應用程序上"
+    }
+  ]
 }
