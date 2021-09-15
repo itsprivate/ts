@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-15T07:03:44Z"
+  "original_createdAt": "2021-09-15T07:03:44Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Doodle Ipsumは、Blushが提供する開発者向けの無料イラストツールです。古典的なLorem Ipsumにインスパイアされたこのツールは、プレースホルダーのイラストを数秒で自動的に生成します。",
+      "tagline": "イラストのロレム・イプサム"
+    },
+    {
+      "locale": "zh",
+      "description": "Doodle Ipsum是一款由Blush提供的免费插图工具，供开发者使用。受经典的Lorem Ipsum启发，它能在几秒钟内自动生成占位符插图。",
+      "tagline": "插图中的提示语"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Doodle Ipsum是一款由Blush提供的免費插圖工具，供開發者使用。受經典的Lorem Ipsum啓發，它能在幾秒鐘內自動生成佔位符插圖。",
+      "tagline": "插圖中的提示語"
+    }
+  ]
 }

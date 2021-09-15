@@ -88,5 +88,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-15T07:01:00Z"
+  "original_createdAt": "2021-09-15T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "🔴 リプレイブラウザでウェブサイトを録画する ⠀ 🔍 使い慣れたdevtoolsでリプレイを検査する ⠀ 👋 友人と共有し、最高のバグレポートを提出する ⠀ ▶️ リプレイは、ウェブのリプレイと検査に必要なすべてのコンテキストを取得します。",
+      "tagline": "あなたのタイムトラベルデバッガー"
+    },
+    {
+      "locale": "zh",
+      "description": "🔴在Replay浏览器中记录你的网站 ⠀ 🔍用熟悉的devtools检查回放 👋与朋友分享并提交最好的bug报告⠀ ▶️Replay捕捉到回放和检查网络所需的所有上下文。",
+      "tagline": "你的时间旅行调试器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "🔴在Replay瀏覽器中記錄你的網站 ⠀ 🔍用熟悉的devtools檢查回放 👋與朋友分享並提交最好的bug報告⠀ ▶️Replay捕捉到回放和檢查網絡所需的所有上下文。",
+      "tagline": "你的時間旅行調試器"
+    }
+  ]
 }
