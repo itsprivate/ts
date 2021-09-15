@@ -43,5 +43,22 @@
   "original_created_at": "2021-09-13T15:45:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sUDWRSJa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/90e848mnjbjke8bz5mdp.png",
   "author": "Ivo Meißner",
-  "author_url": "https://dev.to/ivomeissner"
+  "author_url": "https://dev.to/ivomeissner",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "では、自分のプロジェクトにGraphQLが適しているかどうかを知りたいですか？GraphQLを使うことは、結果的に...",
+      "title": "GraphQLを使うべきか使わないべきか？長所と短所"
+    },
+    {
+      "locale": "zh",
+      "description": "所以你想知道GraphQL是否非常适合你的项目？使用GraphQL可以是一个有影响的...",
+      "title": "使用GraphQL还是不使用GraphQL？优点和缺点"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "所以你想知道GraphQL是否非常適合你的項目？使用GraphQL可以是一個有影響的...",
+      "title": "使用GraphQL還是不使用GraphQL？優點和缺點"
+    }
+  ]
 }
