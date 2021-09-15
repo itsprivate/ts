@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-15T07:05:38Z"
+  "original_createdAt": "2021-09-15T07:05:38Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "NotionとSlack、Airtable、Trello、Asana、Salesforceをはじめとする数十種類の業界最先端のワークツールとの双方向統合を実現。Notionを本拠地としながら、アプリやチーム間で重要な情報を同期するカスタマイズされたワークフローを自動化できます。",
+      "tagline": "NotionをTrello, Airtable, Slackなどに同期させる"
+    },
+    {
+      "locale": "zh",
+      "description": "Notion与Slack、Airtable、Trello、Asana、Salesforce和其他几十个行业领先的工作工具之间的双向集成。自动定制工作流程，在你的应用程序和团队中同步关键信息，同时将Notion作为你的大本营。",
+      "tagline": "同步Notion到Trello、Airtable、Slack及更多。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Notion與Slack、Airtable、Trello、Asana、Salesforce和其他幾十個行業領先的工作工具之間的雙向集成。自動定製工作流程，在你的應用程序和團隊中同步關鍵信息，同時將Notion作爲你的大本營。",
+      "tagline": "同步Notion到Trello、Airtable、Slack及更多。"
+    }
+  ]
 }
