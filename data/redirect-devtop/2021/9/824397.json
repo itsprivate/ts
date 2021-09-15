@@ -48,5 +48,22 @@
   "original_created_at": "2021-09-15T02:56:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--523oU0li--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/56u9f4xtt5nw1x2jyi9b.png",
   "author": "Luigi Zaccagnini",
-  "author_url": "https://dev.to/luigizaccagnini"
+  "author_url": "https://dev.to/luigizaccagnini",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最初のブログ投稿の後、オープンソースの世界に入るには、自分で作るのが一番だと思いました。",
+      "title": "オクト オープンソースの静的サイトジェネレータ"
+    },
+    {
+      "locale": "zh",
+      "description": "在我的第一篇博客文章之后，我决定什么是开始进入开源的更好的方式，然后建立我的...",
+      "title": "八角形。开源的静态网站生成器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在我的第一篇博客文章之後，我決定什麼是開始進入開源的更好的方式，然後建立我的...",
+      "title": "八角形。開源的靜態網站生成器"
+    }
+  ]
 }

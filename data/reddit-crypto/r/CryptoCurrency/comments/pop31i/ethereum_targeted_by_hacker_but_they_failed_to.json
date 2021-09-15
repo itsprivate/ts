@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "イーサリアムがハッカーに狙われたが、あるネットワークとは異なり、ネットワークを引き継ぐことも止めることもできなかった"
+    },
+    {
+      "locale": "zh",
+      "title": "以太坊被黑客盯上了，但他们没能超越或阻止网络，这与外界的某个网络不同。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "以太坊被黑客盯上了，但他們沒能超越或阻止網絡，這與外界的某個網絡不同。"
+    }
+  ]
 }
