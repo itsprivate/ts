@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[WORKING PROTOTYPE] サービスとしてのQRコード生成 - QRcode.show"
+    },
+    {
+      "locale": "zh",
+      "title": "[工作方案]二维码生成服务 - QRcode.show"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[工作方案]二維碼生成服務 - QRcode.show"
+    }
+  ]
 }
