@@ -43,5 +43,22 @@
   "original_created_at": "2021-09-12T15:29:32Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vdIUvEHk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b9288vcwcpmbor50upj6.jpg",
   "author": "Karolis Šarapnickis",
-  "author_url": "https://dev.to/karolis_sh"
+  "author_url": "https://dev.to/karolis_sh",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "プロジェクトを構成し、複数のユーザーによるGit SSHワークフローを設定する方法についての短いチュートリアルです。  このような場合には",
+      "title": "GitHubやGitLabなどの複数のSSHキーを管理する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "关于如何构建项目和设置多用户Git SSH工作流程的简短教程。  当使用一个...",
+      "title": "如何管理GitHub、GitLab等的多个SSH密钥？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "關於如何構建項目和設置多用戶Git SSH工作流程的簡短教程。  當使用一個...",
+      "title": "如何管理GitHub、GitLab等的多個SSH密鑰？"
+    }
+  ]
 }
