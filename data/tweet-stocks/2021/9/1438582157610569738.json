@@ -93,5 +93,22 @@
     },
     "retweet_count": 1123,
     "favorite_count": 33233
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @elonmusk: @JeffBezos @SpaceX ありがとうございます。",
+      "retweeted_status_full_text": "JeffBezos @SpaceX ありがとうございました。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @elonmusk: @JeffBezos @SpaceX 谢谢你",
+      "retweeted_status_full_text": "@JeffBezos @SpaceX 谢谢你"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @elonmusk: @JeffBezos @SpaceX 謝謝你",
+      "retweeted_status_full_text": "@JeffBezos @SpaceX 謝謝你"
+    }
+  ]
 }
