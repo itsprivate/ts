@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "侍の動きを学んだ"
+    },
+    {
+      "locale": "zh",
+      "title": "他已经学会了武士的动作"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他已經學會了武士的動作"
+    }
+  ]
 }
