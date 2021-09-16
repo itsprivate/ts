@@ -134,5 +134,22 @@
     "retweet_count": 6573,
     "favorite_count": 51764,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @stoolpresidente です。えっ！ https://t.co/acnOm8E36w",
+      "retweeted_status_full_text": "えっ、https://t.co/acnOm8E36w。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT@Stoolpresidente: 什么？https://t.co/acnOm8E36w",
+      "retweeted_status_full_text": "什么？https://t.co/acnOm8E36w"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT@Stoolpresidente: 什麼？https://t.co/acnOm8E36w",
+      "retweeted_status_full_text": "什麼？https://t.co/acnOm8E36w"
+    }
+  ]
 }
