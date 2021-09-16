@@ -93,5 +93,22 @@
     },
     "retweet_count": 3760,
     "favorite_count": 60486
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @JeffBezos: 昨夜、Inspiration4の打ち上げを成功させた@ElonMusk氏と@SpaceXチームの皆さん、おめでとうございます。また一歩前進しました...",
+      "retweeted_status_full_text": "昨晩、Inspiration4の打ち上げを成功させた@ElonMusk氏と@SpaceXチーム、おめでとうございます。私たち全員が宇宙にアクセスできる未来に向けて、また一歩前進しました。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @JeffBezos: 祝贺@ElonMusk和@SpaceX团队昨晚成功发射Inspiration4。朝着一个新的目标又迈进了一步...",
+      "retweeted_status_full_text": "祝贺@ElonMusk和@SpaceX团队昨晚成功发射Inspiration4。朝着我们所有人都能进入太空的未来又迈出了一步。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @JeffBezos: 祝賀@ElonMusk和@SpaceX團隊昨晚成功發射Inspiration4。朝着一個新的目標又邁進了一步...",
+      "retweeted_status_full_text": "祝賀@ElonMusk和@SpaceX團隊昨晚成功發射Inspiration4。朝着我們所有人都能進入太空的未來又邁出了一步。"
+    }
+  ]
 }
