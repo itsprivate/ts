@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-16T07:05:00Z"
+  "original_createdAt": "2021-09-16T07:05:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Browse.AIは、あらゆるウェブサイトのスクレイピングや監視を行うロボットを2分で育成することができます: 💻 コードなし ⏱ 1クリックで自動化 🦿 ウェブサイトの変更に対応 🕸 ほぼすべてのウェブサイトで動作 🖱 ユーザーのアクションをシミュレート 🔗 Google SheetやZapierと連携 🔗 APIやウェブフックを利用可能",
+      "tagline": "コードレスで2分であらゆるウェブサイトをスクレイピングするロボットを育成"
+    },
+    {
+      "locale": "zh",
+      "description": "💻 无代码 ⏱ 一键自动化 🦿 适应网站变化 🕸 在几乎任何网站上工作 🖱 模拟用户行为 🔗 与Google Sheet和Zapier整合 🔗 API和webhooks",
+      "tagline": "训练一个机器人在2分钟内完成对任何网站的刮削，无需代码"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "💻 無代碼 ⏱ 一鍵自動化 🦿 適應網站變化 🕸 在幾乎任何網站上工作 🖱 模擬用戶行爲 🔗 與Google Sheet和Zapier整合 🔗 API和webhooks",
+      "tagline": "訓練一個機器人在2分鐘內完成對任何網站的刮削，無需代碼"
+    }
+  ]
 }

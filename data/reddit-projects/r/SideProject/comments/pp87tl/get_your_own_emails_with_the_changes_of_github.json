@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "自分がフォローしているGitHubリポジトリの変更情報をメールで受け取ることができる"
+    },
+    {
+      "locale": "zh",
+      "title": "获取你所关注的GitHub存储库的变化的自己的电子邮件"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "獲取你所關注的GitHub存儲庫的變化的自己的電子郵件"
+    }
+  ]
 }
