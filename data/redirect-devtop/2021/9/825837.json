@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-16T10:09:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--idmPy8UG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tuaobjcqf9jjbmmtak89.jpg",
   "author": "Alex Omeyer",
-  "author_url": "https://dev.to/alexomeyer"
+  "author_url": "https://dev.to/alexomeyer",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "常に異なる作業やツールを切り替えることで、脳は1つの考えからジャンプしなければなりません。",
+      "title": "エディターでの作業をサポートする7つのVS Code拡張機能"
+    },
+    {
+      "locale": "zh",
+      "description": "在不同的任务和工具之间不断切换，需要你的大脑从一个想法中跳出来。",
+      "title": "7个VS代码扩展将帮助你留在你的编辑器中"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在不同的任務和工具之間不斷切換，需要你的大腦從一個想法中跳出來。",
+      "title": "7個VS代碼擴展將幫助你留在你的編輯器中"
+    }
+  ]
 }
