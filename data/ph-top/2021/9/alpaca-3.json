@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-16T07:07:20Z"
+  "original_createdAt": "2021-09-16T07:07:20Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "デスクトップアプリ経由でSlackからリンクを開く：Notion、Spotify、Zoom、Miro、Telegram、Airctable、Figma、VK。URLをURIに変換してmacOSとiOSで動作します。",
+      "tagline": "デスクトップアプリでSlackからリンクを開く"
+    },
+    {
+      "locale": "zh",
+      "description": "通过桌面应用程序打开Slack的链接：Notion、Spotify、Zoom、Miro、Telegram、Airtable、Figma和VK。适用于macOS和iOS，可将URL转换为URI。",
+      "tagline": "通过桌面应用程序打开Slack的链接"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "通過桌面應用程序打開Slack的鏈接：Notion、Spotify、Zoom、Miro、Telegram、Airtable、Figma和VK。適用於macOS和iOS，可將URL轉換爲URI。",
+      "tagline": "通過桌面應用程序打開Slack的鏈接"
+    }
+  ]
 }
