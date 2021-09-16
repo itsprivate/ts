@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "The Pope meets Baby Pope"
+    },
+    {
+      "locale": "zh",
+      "title": "教皇会见教皇宝宝"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "教皇會見教皇寶寶"
+    }
+  ]
 }
