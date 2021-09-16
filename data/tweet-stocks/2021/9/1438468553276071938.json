@@ -104,5 +104,19 @@
   },
   "retweet_count": 79,
   "favorite_count": 208,
-  "original_created_at": "Thu Sep 16 11:43:23 +0000 2021"
+  "original_created_at": "Thu Sep 16 11:43:23 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "過去7ヶ月...\n\nフェイスブック $FB +38%\nグーグル $GOOGL: +38\nマイクロソフト $MSFT +25%\nナスダック100 $QQQ： +13\nアップル $AAPL: +10\nアマゾン $AMZN: +6\n-\nJD $JD： -23\nアリババ $BABA: -41%\nテンセント $TCEHY： -41\nMeituan $MPNGF: -48パーセント\nバイドゥ $BIDU: -48\nチャイナ・インターネット $KWEB: -53%"
+    },
+    {
+      "locale": "zh",
+      "full_text": "过去7个月...\n\nFacebook $FB: +38%\n谷歌 $GOOGL: +38%\n微软 $MSFT: +25%\n纳斯达克100指数 $QQQ: +13\n苹果 $AAPL: +10%\n亚马逊 $AMZN: +6%\n-\nJD $JD: -23\n阿里巴巴 $BABA: -41%\n腾讯 $TCEHY: -41\n美团$MPNGF: -48\n百度 $BIDU: -48\n中国互联网 $KWEB: -53%"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "過去7個月...\n\nFacebook $FB: +38%\n谷歌 $GOOGL: +38%\n微軟 $MSFT: +25%\n納斯達克100指數 $QQQ: +13\n蘋果 $AAPL: +10%\n亞馬遜 $AMZN: +6%\n-\nJD $JD: -23\n阿里巴巴 $BABA: -41%\n騰訊 $TCEHY: -41\n美團$MPNGF: -48\n百度 $BIDU: -48\n中國互聯網 $KWEB: -53%"
+    }
+  ]
 }
