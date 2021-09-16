@@ -91,5 +91,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "部屋を間違えたな、相棒。"
+    },
+    {
+      "locale": "zh",
+      "title": "错误的房间，伙计。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "錯誤的房間，夥計。"
+    }
+  ]
 }

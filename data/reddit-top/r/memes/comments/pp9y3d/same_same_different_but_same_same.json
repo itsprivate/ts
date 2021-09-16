@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "同じような、違うような、でも同じような。"
+    },
+    {
+      "locale": "zh",
+      "title": "一样的一样，不同的，但一样的一样。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一樣的一樣，不同的，但一樣的一樣。"
+    }
+  ]
 }
