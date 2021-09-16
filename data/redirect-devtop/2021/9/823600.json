@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-14T13:24:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Nb_5PXcf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s1o7o5b08u0a8lei41fz.jpg",
   "author": "Elijah Zobenko",
-  "author_url": "https://dev.to/he110"
+  "author_url": "https://dev.to/he110",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "なぜロガーが必要なのか？  人間がミスをするのは当たり前です。それは仕事に限らず...",
+      "title": "インシデントを調査する：効果的なログの取り方（PHP"
+    },
+    {
+      "locale": "zh",
+      "description": "我们为什么需要记录仪？  人类犯错是常有的事。这不仅是在...",
+      "title": "调查一个事件：如何有效地记录（PHP"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們爲什麼需要記錄儀？  人類犯錯是常有的事。這不僅是在...",
+      "title": "調查一個事件：如何有效地記錄（PHP"
+    }
+  ]
 }
