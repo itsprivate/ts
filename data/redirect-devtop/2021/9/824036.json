@@ -43,5 +43,22 @@
   "original_created_at": "2021-09-14T19:08:09Z",
   "image": "https://dev.to/social_previews/article/824036.png",
   "author": "Graham Marlow",
-  "author_url": "https://dev.to/mgmarlow"
+  "author_url": "https://dev.to/mgmarlow",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "tech book clubで最初に取り上げた記事の1つが「マイクロフロントエンド」でした。これはスケーリングのためのアプローチです。",
+      "title": "NxによるReact Microフロントエンドの向上"
+    },
+    {
+      "locale": "zh",
+      "description": "我们在科技书友会中最早涉及的文章之一是《微型前端》，这是一种扩展的方法。",
+      "title": "更好的React微前端/Nx"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們在科技書友會中最早涉及的文章之一是《微型前端》，這是一種擴展的方法。",
+      "title": "更好的React微前端/Nx"
+    }
+  ]
 }
