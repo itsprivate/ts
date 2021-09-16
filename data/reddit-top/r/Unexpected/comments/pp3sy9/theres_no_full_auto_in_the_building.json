@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "建物の中にはフルオートはありません...。"
+    },
+    {
+      "locale": "zh",
+      "title": "大楼里没有全自动的汽车..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "大樓裏沒有全自動的汽車..."
+    }
+  ]
 }
