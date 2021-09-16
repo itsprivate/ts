@@ -1,0 +1,15 @@
+{
+  "author": "AutisticDalekOnSpeed",
+  "original_created_utc": 1631717011,
+  "title": "Why you should never import a seed phrase you randomly found",
+  "created_utc": 1631756303,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Every now and then I notice people online &quot;accidentally&quot; revealing their 12 word seed phrases. This happens a lot on reddit too.</p>\n\n<p>These people are not dumb or generous, they are trying to scam you. These are called honeypot scams.</p>\n\n<p>When you try to recover the wallet using that seed phrase, you&#39;ll see a big amount of some random erc20 or bep20 tokens (usually minereum) that appears to be worth a lot. But there will be no eth or bnb to pay for the gas fee to move those tokens out of the wallet.</p>\n\n<p>Once you transfer your own eth or bnb to that wallet to pay for the gas fee, the scammer&#39;s bot will withdraw that eth/bnb faster than you can see it appear in your wallet. </p>\n\n<p>Honestly these are quite funny scams. It makes people think that they&#39;re the ones scamming someone else, but in reality they are the ones getting scammed.</p>\n\n<p>So apart from the obvious moral reasons, this is another reason why you should never import a wallet using a seed phrase your randomly found online.</p>\n</div><!-- SC_ON -->",
+  "score": 172,
+  "permalink": "/r/CryptoCurrency/comments/pori3d/why_you_should_never_import_a_seed_phrase_you/",
+  "subreddit": "CryptoCurrency",
+  "id": "pori3d",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Every now and then I notice people online \"accidentally\" revealing their 12 word\nseed phrases. This happens a lot on reddit too.\n\nThese people are not dumb or generous, they are trying to scam you. These are\ncalled honeypot scams.\n\nWhen you try to recover the wallet using that seed phrase, you'll…"
+}
