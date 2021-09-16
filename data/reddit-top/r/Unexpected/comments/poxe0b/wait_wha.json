@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "待って、待って..."
+    },
+    {
+      "locale": "zh",
+      "title": "等等，Wha-"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "等等，Wha-"
+    }
+  ]
 }
