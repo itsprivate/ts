@@ -43,5 +43,22 @@
   "original_created_at": "2021-09-14T06:56:30Z",
   "image": "https://dev.to/social_previews/article/823277.png",
   "author": "Tyler Smith",
-  "author_url": "https://dev.to/tylerlwsmith"
+  "author_url": "https://dev.to/tylerlwsmith",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Composerのベンダー・ディレクトリをプロジェクト・ルートの外に移動させることで、責任ある作業時間が顕著に改善されます。",
+      "title": "ベンダーディレクトリの移動によるDockerでのLaravelの高速化"
+    },
+    {
+      "locale": "zh",
+      "description": "通过将Composer的供应商目录移到项目根目录之外，你可以看到责任时间的明显改善。",
+      "title": "通过移动供应商目录来加快Laravel在Docker中的速度"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "通過將Composer的供應商目錄移到項目根目錄之外，你可以看到責任時間的明顯改善。",
+      "title": "通過移動供應商目錄來加快Laravel在Docker中的速度"
+    }
+  ]
 }
