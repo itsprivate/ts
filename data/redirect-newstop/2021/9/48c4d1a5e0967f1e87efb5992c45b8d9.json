@@ -14,5 +14,19 @@
   "tags": [
     "Reuters"
   ],
-  "image": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=52"
+  "image": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=52",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "中国では、少なくとも3人が死亡した地震の後、緊急対応を開始しました。"
+    },
+    {
+      "locale": "zh",
+      "title": "地震造成至少三人死亡，中国启动应急响应"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "地震造成至少三人死亡，中國啓動應急響應"
+    }
+  ]
 }
