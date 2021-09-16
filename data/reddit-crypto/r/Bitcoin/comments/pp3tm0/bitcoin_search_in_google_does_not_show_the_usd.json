@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Is anyone else noticing this change ? **Looks like it's fixed now**"
+  "the_new_excerpt": "Is anyone else noticing this change ? **Looks like it's fixed now**",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "この変化に気づいている人はいますか？**現在は修正されているようです**。",
+      "title": "Googleで \"Bitcoin \"を検索すると、米ドルの価格が表示されなくなる"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "有没有人注意到这种变化？**看起来它现在已经固定了**。",
+      "title": "在谷歌搜索 \"比特币 \"时不再显示美元价格了"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "有沒有人注意到這種變化？**看起來它現在已經固定了**。",
+      "title": "在谷歌搜索 \"比特幣 \"時不再顯示美元價格了"
+    }
+  ]
 }
