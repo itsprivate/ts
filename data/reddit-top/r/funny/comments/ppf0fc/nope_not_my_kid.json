@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私の子供ではありません。"
+    },
+    {
+      "locale": "zh",
+      "title": "不，不是我的孩子"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不，不是我的孩子"
+    }
+  ]
 }
