@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-15T12:43:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--syqyioQM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xhog64uhyokzvs7pdow7.gif",
   "author": "Ram Maheshwari 💚",
-  "author_url": "https://dev.to/rammcodes"
+  "author_url": "https://dev.to/rammcodes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "スケルトンローダーは、最近のWebサイトやアプリで、データの読み込みを示すためによく使われています。",
+      "title": "CSSを使ってピクセルパーフェクトなスケルトンローダーを作る🚀。"
+    },
+    {
+      "locale": "zh",
+      "description": "骨架加载器在现代网站/应用程序中非常常用，以表明数据的加载，而不是...",
+      "title": "使用CSS构建完美的像素骨架加载器 🚀"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "骨架加載器在現代網站/應用程序中非常常用，以表明數據的加載，而不是...",
+      "title": "使用CSS構建完美的像素骨架加載器 🚀"
+    }
+  ]
 }
