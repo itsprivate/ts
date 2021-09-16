@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "痛みを1～10の間で評価してください。"
+    },
+    {
+      "locale": "zh",
+      "title": "在1到10的范围内，给疼痛打分。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在1到10的範圍內，給疼痛打分。"
+    }
+  ]
 }
