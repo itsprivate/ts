@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-16T07:06:08Z"
+  "original_createdAt": "2021-09-16T07:06:08Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Colorful Packshot Generatorは、3Dモデルからフォトリアリスティックなレンダリングを簡単に作成することができます。一度に複数のアングルで撮影したり、背景色を選択したり、切り抜き写真を作成したり。",
+      "tagline": "3Dモデルから無料でパックショットを生成"
+    },
+    {
+      "locale": "zh",
+      "description": "丰富多彩的Packshot生成器可以让你轻松地从你的3D模型中创造出逼真的渲染图。一次拍摄多个角度，选择一个背景颜色或创建一个剪影照片。",
+      "tagline": "从你的3D模型中生成免费的包装图"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "豐富多彩的Packshot生成器可以讓你輕鬆地從你的3D模型中創造出逼真的渲染圖。一次拍攝多個角度，選擇一個背景顏色或創建一個剪影照片。",
+      "tagline": "從你的3D模型中生成免費的包裝圖"
+    }
+  ]
 }
