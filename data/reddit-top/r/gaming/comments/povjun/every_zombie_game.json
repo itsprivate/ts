@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "すべてのゾンビゲーム"
+    },
+    {
+      "locale": "zh",
+      "title": "每一个僵尸游戏"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "每一個殭屍遊戲"
+    }
+  ]
 }
