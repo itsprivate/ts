@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "汚れたトラックのディテーリング"
+    },
+    {
+      "locale": "zh",
+      "title": "对这辆肮脏的卡车进行修整"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "對這輛骯髒的卡車進行修整"
+    }
+  ]
 }
