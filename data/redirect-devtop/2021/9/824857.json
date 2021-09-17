@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-15T12:13:45Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--M8bmuoOp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x0ccohi5ba092v5wqxr6.png",
   "author": "Navendu Pottekkat",
-  "author_url": "https://dev.to/navendu"
+  "author_url": "https://dev.to/navendu",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今回は、Hacktoberfestに向けて、次のプル・リクエストをより良いものにするためのヒントをご紹介します。",
+      "title": "プロのようなプル・リクエスト 質の高いプル・リクエストを行うためのヒント"
+    },
+    {
+      "locale": "zh",
+      "description": "随着Hacktoberfest的到来，这里有一些提示，可以为你的下一个项目做出更好的Pull Request。",
+      "title": "像专业人员一样拉动请求。提出高质量的拉动请求的技巧"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "隨着Hacktoberfest的到來，這裏有一些提示，可以爲你的下一個項目做出更好的Pull Request。",
+      "title": "像專業人員一樣拉動請求。提出高質量的拉動請求的技巧"
+    }
+  ]
 }
