@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "HolyTransaction、ビットコイン・ライトニング・ネットワークへの対応を追加し、即時決済を可能に!"
+    },
+    {
+      "locale": "zh",
+      "title": "HolyTransaction增加了对比特币闪电网络的支持，实现了即时支付!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "HolyTransaction增加了對比特幣閃電網絡的支持，實現了即時支付!"
+    }
+  ]
 }
