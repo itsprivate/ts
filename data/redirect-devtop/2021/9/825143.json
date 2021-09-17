@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-15T16:55:22Z",
   "image": "https://dev.to/social_previews/article/825143.png",
   "author": "KR Tirtho",
-  "author_url": "https://dev.to/krtirtho"
+  "author_url": "https://dev.to/krtirtho",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "VSCode好き？拡張機能がコーディングの生命線であることは知っています。そして、もしあなたがウェブ開発者であれば、あなたは...",
+      "title": "必要なVSCodeの拡張機能 [Webdevs]🚀🔧"
+    },
+    {
+      "locale": "zh",
+      "description": "VSCode的爱好者？我知道扩展是我们编码的生命支持。如果你是一个网络开发人员，你在...",
+      "title": "你需要的VSCode扩展[Webdevs]🚀🔧。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "VSCode的愛好者？我知道擴展是我們編碼的生命支持。如果你是一個網絡開發人員，你在...",
+      "title": "你需要的VSCode擴展[Webdevs]🚀🔧。"
+    }
+  ]
 }
