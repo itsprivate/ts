@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今日は、化学療法の最終日でした。"
+    },
+    {
+      "locale": "zh",
+      "title": "今天是我化疗的最后一天!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "今天是我化療的最後一天!"
+    }
+  ]
 }
