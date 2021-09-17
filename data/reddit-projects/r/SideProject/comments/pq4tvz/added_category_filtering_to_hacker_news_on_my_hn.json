@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "HN to KindleサイドプロジェクトでHacker Newsにカテゴリーフィルタリングを追加しました。"
+    },
+    {
+      "locale": "zh",
+      "title": "在我的HN到Kindle的侧面项目中，为Hacker News增加了分类过滤功能。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在我的HN到Kindle的側面項目中，爲Hacker News增加了分類過濾功能。"
+    }
+  ]
 }
