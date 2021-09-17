@@ -14,5 +14,19 @@
   "tags": [
     "BBC News"
   ],
-  "image": "https://ichef.bbci.co.uk/news/1024/branded_news/E0AB/production/_118651575_051233527.jpg"
+  "image": "https://ichef.bbci.co.uk/news/1024/branded_news/E0AB/production/_118651575_051233527.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "気候変動。各国の気候変動計画に対する国連の警告"
+    },
+    {
+      "locale": "zh",
+      "title": "气候变化。联合国对各国的气候计划提出警告"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "氣候變化。聯合國對各國的氣候計劃提出警告"
+    }
+  ]
 }
