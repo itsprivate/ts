@@ -12,5 +12,19 @@
   ],
   "objectID": "28551568",
   "original_created_at": "2021-09-16T13:34:27.000Z",
-  "image": "https://www.linuxplumbersconf.org/blog/2021/style/lpc2021-ogimage.jpg"
+  "image": "https://www.linuxplumbersconf.org/blog/2021/style/lpc2021-ogimage.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "CPU スケジューラでの eBPF の使用について"
+    },
+    {
+      "locale": "zh",
+      "title": "在CPU调度器中使用eBPF"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在CPU調度器中使用eBPF"
+    }
+  ]
 }
