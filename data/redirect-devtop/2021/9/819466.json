@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-10T07:17:19Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kUfCj45_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hx9omhy0c43qddpgxrap.png",
   "author": "Ismael Garcia",
-  "author_url": "https://dev.to/leamsigc"
+  "author_url": "https://dev.to/leamsigc",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "毎朝、同じプログラムを手動で開くのはうんざり？あるいは、切り替えのたびに...",
+      "title": "毎朝、同じプログラムを手動で開くのはうんざりです。"
+    },
+    {
+      "locale": "zh",
+      "description": "厌倦了每天早上手动打开同样的程序？或者每次切换时都是如此。",
+      "title": "厌倦了每天早上手动打开相同的程序？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "厭倦了每天早上手動打開同樣的程序？或者每次切換時都是如此。",
+      "title": "厭倦了每天早上手動打開相同的程序？"
+    }
+  ]
 }

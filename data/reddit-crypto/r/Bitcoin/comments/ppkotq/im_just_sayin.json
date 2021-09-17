@@ -42,5 +42,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私が言いたいのは..."
+    },
+    {
+      "locale": "zh",
+      "title": "我只是说..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我只是說..."
+    }
+  ]
 }
