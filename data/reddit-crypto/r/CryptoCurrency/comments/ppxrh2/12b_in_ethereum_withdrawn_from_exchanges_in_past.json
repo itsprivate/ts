@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "EIP-1559のリリース以降、過去24時間で12億ドルのEthereumが取引所から引き出され、10億ドル以上のETHが燃焼しました。"
+    },
+    {
+      "locale": "zh",
+      "title": "过去24小时内有12亿美元的以太坊从交易所撤出，自EIP-1559发布以来有超过10亿美元的ETH被烧毁。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "過去24小時內有12億美元的以太坊從交易所撤出，自EIP-1559發佈以來有超過10億美元的ETH被燒燬。"
+    }
+  ]
 }

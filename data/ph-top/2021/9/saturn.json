@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-17T07:01:06Z"
+  "original_createdAt": "2021-09-17T07:01:06Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "😎 あなたのファイルを世界中に送る最もクールな方法 📩 大容量のファイルや写真を無料で共有する 💯 ブロックチェーンで完全に分散化されている（そう、ウェブサイトのホスティングも） 🌐 Metamaskに接続してより多くの機能を手に入れよう",
+      "tagline": "制限のない分散型WeTransfer"
+    },
+    {
+      "locale": "zh",
+      "description": "😎 在世界各地发送文件的最酷方式 📩 免费分享大型文件和照片 💯 在区块链上完全去中心化（是的，甚至是网站托管） 🌐 与Metamask连接以获得更多功能",
+      "tagline": "去中心化的WeTransfer没有任何限制"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "😎 在世界各地發送文件的最酷方式 📩 免費分享大型文件和照片 💯 在區塊鏈上完全去中心化（是的，甚至是網站託管） 🌐 與Metamask連接以獲得更多功能",
+      "tagline": "去中心化的WeTransfer沒有任何限制"
+    }
+  ]
 }
