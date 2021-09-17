@@ -14,5 +14,19 @@
   "tags": [
     "The New York Times"
   ],
-  "image": "https://static01.nyt.com/images/2021/09/17/climate/17CLI-PLEDGES1/17CLI-PLEDGES1-facebookJumbo.jpg"
+  "image": "https://static01.nyt.com/images/2021/09/17/climate/17CLI-PLEDGES1/17CLI-PLEDGES1-facebookJumbo.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "国連は、現在の気候変動対策では「壊滅的な経路」になると警告しています。"
+    },
+    {
+      "locale": "zh",
+      "title": "联合国警告说，目前的气候承诺是 \"灾难性的道路\"。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "聯合國警告說，目前的氣候承諾是 \"災難性的道路\"。"
+    }
+  ]
 }
