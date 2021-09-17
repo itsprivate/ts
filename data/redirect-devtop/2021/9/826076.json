@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-16T13:15:38Z",
   "image": "https://dev.to/social_previews/article/826076.png",
   "author": "Antoine Muller",
-  "author_url": "https://dev.to/towaanu"
+  "author_url": "https://dev.to/towaanu",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、私がどのようにtypecriptを使ってreactコードを改善しているかを紹介したいと思います。まず...",
+      "title": "Reactによるタイプスクリプトの紹介"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我想和大家分享一下我是如何使用typescript来改进我的react代码的。首先...",
+      "title": "使用React的类型脚本介绍"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我想和大家分享一下我是如何使用typescript來改進我的react代碼的。首先...",
+      "title": "使用React的類型腳本介紹"
+    }
+  ]
 }
