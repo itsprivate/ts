@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "最後に読んだ本は何でしたか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你读的最后一本书是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你讀的最後一本書是什麼？"
+    }
+  ]
 }
