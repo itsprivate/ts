@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "When and where do their dogs shit excactly?"
+  "the_new_excerpt": "When and where do their dogs shit excactly?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "彼らの犬はいつ、どこで糞をするのか？",
+      "title": "補助犬を連れた目の不自由な方は、どうやって犬の糞を拾うのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "他们的狗到底在什么时候和什么地方拉屎？",
+      "title": "带着服务犬的盲人是如何捡起狗的粪便的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "他們的狗到底在什麼時候和什麼地方拉屎？",
+      "title": "帶着服務犬的盲人是如何撿起狗的糞便的？"
+    }
+  ]
 }
