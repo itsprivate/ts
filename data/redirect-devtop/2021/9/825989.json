@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-16T11:56:44Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vLBYccP3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/01gnfr0xs0o97wlhidee.jpg",
   "author": "Alex Omeyer",
-  "author_url": "https://dev.to/alexomeyer"
+  "author_url": "https://dev.to/alexomeyer",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コンテクスト・スイッチングとは、複数のタスクを並行して行うことです。具体的には、複数の作業を...",
+      "title": "開発者としてコンテクストの切り替えを減らすには"
+    },
+    {
+      "locale": "zh",
+      "description": "语境切换是指在几个任务中并行工作的行为。更具体地说，在工作中...",
+      "title": "作为一名开发人员，如何减少上下文的切换"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "語境切換是指在幾個任務中並行工作的行爲。更具體地說，在工作中...",
+      "title": "作爲一名開發人員，如何減少上下文的切換"
+    }
+  ]
 }

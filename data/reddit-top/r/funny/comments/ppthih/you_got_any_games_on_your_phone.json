@@ -42,5 +42,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "携帯電話でゲームをしていますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你的手机上有什么游戏吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你的手機上有什麼遊戲嗎？"
+    }
+  ]
 }
