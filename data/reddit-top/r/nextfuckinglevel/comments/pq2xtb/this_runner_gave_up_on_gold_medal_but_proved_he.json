@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "金メダルをあきらめたランナーが、金の心を持っていることを証明した"
+    },
+    {
+      "locale": "zh",
+      "title": "这位选手放弃了金牌，但证明他有一颗金子般的心"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這位選手放棄了金牌，但證明他有一顆金子般的心"
+    }
+  ]
 }
