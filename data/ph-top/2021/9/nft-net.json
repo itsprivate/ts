@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-17T07:01:00Z"
+  "original_createdAt": "2021-09-17T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "NET Coreで開発されたクロスプラットフォームのアプリケーションで、グラフィカルなインターフェースでNFTを生成します。シンプルだからこそ、最高のGrab & Goスタイルを提供します。",
+      "tagline": "グラフィカルなインターフェースによるオープンソースのNFTジェネレータ"
+    },
+    {
+      "locale": "zh",
+      "description": "一个用NET Core开发的跨平台应用程序，通过图形界面生成NFT。就这么简单，是最好的 \"抓取和移动 \"风格。",
+      "tagline": "通过图形界面的开放源码NFT发生器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個用NET Core開發的跨平臺應用程序，通過圖形界面生成NFT。就這麼簡單，是最好的 \"抓取和移動 \"風格。",
+      "tagline": "通過圖形界面的開放源碼NFT發生器"
+    }
+  ]
 }
