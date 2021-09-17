@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "悪いアドバイスではありません。"
+    },
+    {
+      "locale": "zh",
+      "title": "这建议一点也不坏"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這建議一點也不壞"
+    }
+  ]
 }
