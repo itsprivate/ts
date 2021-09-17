@@ -43,5 +43,22 @@
   "original_created_at": "2021-09-15T05:06:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mfW31zBM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j2tnyeif0veomgr5wj01.png",
   "author": "Vikas Solegaonkar",
-  "author_url": "https://dev.to/solegaonkar"
+  "author_url": "https://dev.to/solegaonkar",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Kubernetesは、アーキテクチャ・ドキュメントの中ではクールな言葉であり、履歴書の中でも注目されています。オンプレミスでもオンリーワンでも",
+      "title": "Kubernetesを理解する。デベロッパーズガイド"
+    },
+    {
+      "locale": "zh",
+      "description": "Kubernetes是一个很酷的词，可以出现在你的架构文件中，在你的简历上也很热门。在企业内部或在...",
+      "title": "了解Kubernetes。开发者指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Kubernetes是一個很酷的詞，可以出現在你的架構文件中，在你的簡歷上也很熱門。在企業內部或在...",
+      "title": "瞭解Kubernetes。開發者指南"
+    }
+  ]
 }

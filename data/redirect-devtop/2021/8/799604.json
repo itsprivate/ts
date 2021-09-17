@@ -52,5 +52,22 @@
   "original_created_at": "2021-08-22T06:34:32Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--500s0dvm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vercdmzoqrtpphbpisj5.jpeg",
   "author": "Ryan Carniato",
-  "author_url": "https://dev.to/ryansolid"
+  "author_url": "https://dev.to/ryansolid",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最初の記事を書き終えた後、話題が足りなくなるのはいつのことかと思いましたが...。",
+      "title": "JavaScript vs JavaScript。ラウンド2。Fight!"
+    },
+    {
+      "locale": "zh",
+      "description": "在我完成第一篇文章后，我不确定要过多久我们才会有足够的主题......",
+      "title": "JavaScript vs. JavaScript。第二回合。战斗!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在我完成第一篇文章後，我不確定要過多久我們纔會有足夠的主題......",
+      "title": "JavaScript vs. JavaScript。第二回合。戰鬥!"
+    }
+  ]
 }
