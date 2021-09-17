@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-16T17:29:18Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--89Xv548L--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sbecfi45m7j50pc8devv.png",
   "author": "Mrinalini Sugosh (Mrina)",
-  "author_url": "https://dev.to/mrinasugosh"
+  "author_url": "https://dev.to/mrinasugosh",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コードレビューでは、作者もレビュアーも大きな不満を抱えてしまうことがあります....",
+      "title": "効果的なコードレビューのためのガイド"
+    },
+    {
+      "locale": "zh",
+      "description": "有时，代码审查会让作者和审查者都有很大的挫折感....。",
+      "title": "有效的代码审查指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有時，代碼審查會讓作者和審查者都有很大的挫折感....。",
+      "title": "有效的代碼審查指南"
+    }
+  ]
 }
