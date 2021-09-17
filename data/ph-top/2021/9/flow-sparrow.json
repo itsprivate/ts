@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-17T08:46:43Z"
+  "original_createdAt": "2021-09-17T08:46:43Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "フロー・スパローは、ウェブサイトの更新や修正、SEO対策などを無制限に提供するウェブフロー管理サービスです。すべて月額定額制でご利用いただけます。",
+      "tagline": "月額定額制でWebflowを無制限にサポート"
+    },
+    {
+      "locale": "zh",
+      "description": "Flow Sparrow是一项Webflow管理服务，提供无限的网站更新、修订和SEO管理。所有这些都是按月统一收费的。",
+      "tagline": "以统一的月费提供无限的Webflow支持"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Flow Sparrow是一項Webflow管理服務，提供無限的網站更新、修訂和SEO管理。所有這些都是按月統一收費的。",
+      "tagline": "以統一的月費提供無限的Webflow支持"
+    }
+  ]
 }

@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "それは何の動物ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "那是什么动物？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "那是什麼動物？"
+    }
+  ]
 }
