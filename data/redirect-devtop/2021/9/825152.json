@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-15T17:27:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qE12BUSM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rhp1o13li4fe6ckre73o.png",
   "author": "Maria Antonella 🦋",
-  "author_url": "https://dev.to/antoomartini"
+  "author_url": "https://dev.to/antoomartini",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "先週、携帯電話のファイル名を取得するために、ランダムでユニークなIDを生成する方法を見つけなければなりませんでした。",
+      "title": "JavascriptでランダムなIDを作る"
+    },
+    {
+      "locale": "zh",
+      "description": "上周，我需要找到一种方法来生成一个随机和独特的ID，以获得电话文件的名称，在...",
+      "title": "用Javascript制作随机ID"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "上週，我需要找到一種方法來生成一個隨機和獨特的ID，以獲得電話文件的名稱，在...",
+      "title": "用Javascript製作隨機ID"
+    }
+  ]
 }
