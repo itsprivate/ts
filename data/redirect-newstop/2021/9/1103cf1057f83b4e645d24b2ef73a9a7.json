@@ -14,5 +14,19 @@
   "tags": [
     "BBC News"
   ],
-  "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1B26/production/_120605960_heathrow.jpg"
+  "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1B26/production/_120605960_heathrow.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "航空会社、旅行規則の変更を肯定的に評価"
+    },
+    {
+      "locale": "zh",
+      "title": "航空公司表示，旅行规则的改变是 \"积极的\"。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "航空公司表示，旅行規則的改變是 \"積極的\"。"
+    }
+  ]
 }
