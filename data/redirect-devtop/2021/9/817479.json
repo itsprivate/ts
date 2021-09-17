@@ -52,5 +52,22 @@
   "original_created_at": "2021-09-08T12:52:37Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kW85J4Xw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pqtb3l4mq7mqynt3qgyc.png",
   "author": "Fred",
-  "author_url": "https://dev.to/fredgl"
+  "author_url": "https://dev.to/fredgl",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ああ、恐ろしい「コンフリクトの解決」のポップアップです。完璧なコードを完成させたのに、ちょっとしたことで...。",
+      "title": "WebStorm でリアルタイム Merge Conflict Detection を有効にする方法"
+    },
+    {
+      "locale": "zh",
+      "description": "啊，可怕的解决冲突弹幕。你已经完成了完美的代码制作，只需快速...",
+      "title": "如何在WebStorm中启用实时合并冲突检测？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "啊，可怕的解決衝突彈幕。你已經完成了完美的代碼製作，只需快速...",
+      "title": "如何在WebStorm中啓用實時合併衝突檢測？"
+    }
+  ]
 }
