@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Cardano、Alonzoのアップグレード後、わずか4日間で40,000以上のスマートコントラクトが導入される"
+    },
+    {
+      "locale": "zh",
+      "title": "阿隆佐升级后，Cardano在短短4天内部署了超过4万个智能合约"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "阿隆佐升級後，Cardano在短短4天內部署了超過4萬個智能合約"
+    }
+  ]
 }
