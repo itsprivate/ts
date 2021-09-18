@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "GitHubで公開されているコミット用メールアドレスを検索して修正することができます。"
+    },
+    {
+      "locale": "zh",
+      "title": "在GitHub上查找并修复可公开访问的提交电子邮件地址。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在GitHub上查找並修復可公開訪問的提交電子郵件地址。"
+    }
+  ]
 }
