@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-17T23:47:35Z",
   "image": "https://dev.to/social_previews/article/830117.png",
   "author": "Aya Bouchiha",
-  "author_url": "https://dev.to/ayabouchiha"
+  "author_url": "https://dev.to/ayabouchiha",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "REACT.JSを学ぶためのプロジェクトチュートリアル netflix, disney, testla, facebook, whatsapp,...",
+      "title": "React.jsを学ぶためのプロジェクト・チュートリアル"
+    },
+    {
+      "locale": "zh",
+      "description": "学习REACT.JS的项目教程 netflix, disney, testla, facebook, whatsapp,...",
+      "title": "学习React.js的项目教程"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "學習REACT.JS的項目教程 netflix, disney, testla, facebook, whatsapp,...",
+      "title": "學習React.js的項目教程"
+    }
+  ]
 }
