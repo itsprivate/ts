@@ -121,5 +121,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "What... HOW"
+    },
+    {
+      "locale": "zh",
+      "title": "什么... 如何"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "什麼... 如何"
+    }
+  ]
 }
