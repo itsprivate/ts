@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-16T10:44:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Gb77lXdj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zkfnbax3mnkr2s7jme96.jpg",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "オープンソースのBootstrap 5デザインの上に、FlaskとDockerで構築されたシンプルなオープンソースのダッシュボードです。",
+      "title": "Free Bootstrap 5 Dashboard - FlaskとDockerで構築されたダッシュボード"
+    },
+    {
+      "locale": "zh",
+      "description": "在开源的Bootstrap 5设计之上，用Flask和Docker构建的简单开源仪表盘。",
+      "title": "免费的Bootstrap 5仪表盘 - 使用Flask和Docker构建"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在開源的Bootstrap 5設計之上，用Flask和Docker構建的簡單開源儀表盤。",
+      "title": "免費的Bootstrap 5儀表盤 - 使用Flask和Docker構建"
+    }
+  ]
 }
