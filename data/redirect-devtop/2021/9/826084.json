@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-16T13:37:36Z",
   "image": "https://dev.to/social_previews/article/826084.png",
   "author": "Abhishek Agrawal",
-  "author_url": "https://dev.to/fazer1929"
+  "author_url": "https://dev.to/fazer1929",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "みなさん、こんにちは。最近、Reactのフォームを扱う新しい方法を見つけました。",
+      "title": "ReactJSでの正しいフォームの扱い方"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，最近我遇到了一个处理React表单的新方法，也许是你知道的东西，...",
+      "title": "在ReactJS中以正确的方式处理表单"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，最近我遇到了一個處理React表單的新方法，也許是你知道的東西，...",
+      "title": "在ReactJS中以正確的方式處理表單"
+    }
+  ]
 }

@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "血糖値が低くなるとブザーで人間に知らせるように訓練された糖尿病アラート犬"
+    },
+    {
+      "locale": "zh",
+      "title": "糖尿病警戒犬接受训练，在血糖水平低时用嘘声提醒人类"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "糖尿病警戒犬接受訓練，在血糖水平低時用噓聲提醒人類"
+    }
+  ]
 }

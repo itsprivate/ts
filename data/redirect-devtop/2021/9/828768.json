@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-16T23:00:47Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EnYd2Ice--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7zvu67jcrtmpd47owmtz.png",
   "author": "Zoo Codes",
-  "author_url": "https://dev.to/ken_mwaura1"
+  "author_url": "https://dev.to/ken_mwaura1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ここ数週間、様々なユースケースでいくつかのflaskアプリを作ってきました。その目的は...",
+      "title": "FlaskとDockerで始める🐳🚀。"
+    },
+    {
+      "locale": "zh",
+      "description": "在过去的几周里，我做了几个flask应用，涉及各种使用情况。其目的是...",
+      "title": "开始使用Flask和Docker 🐳🚀。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在過去的幾周裏，我做了幾個flask應用，涉及各種使用情況。其目的是...",
+      "title": "開始使用Flask和Docker 🐳🚀。"
+    }
+  ]
 }
