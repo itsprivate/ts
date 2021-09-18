@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ある言語では素晴らしい意味を持つが、別の言語では悪い意味を持つ名前とは？"
+    },
+    {
+      "locale": "zh",
+      "title": "哪些名字在一种语言中有很好的含义，但在另一种语言中有不好的含义？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "哪些名字在一種語言中有很好的含義，但在另一種語言中有不好的含義？"
+    }
+  ]
 }
