@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "If not how do they differ?"
+  "the_new_excerpt": "If not how do they differ?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "そうでない場合、どのような違いがありますか？",
+      "title": "petrifiedとfossilizedは同じものですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "如果不是，它们有什么不同？",
+      "title": "石化和化石是一回事吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "如果不是，它們有什麼不同？",
+      "title": "石化和化石是一回事嗎？"
+    }
+  ]
 }
