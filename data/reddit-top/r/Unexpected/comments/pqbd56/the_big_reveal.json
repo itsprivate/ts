@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "大公開"
+    },
+    {
+      "locale": "zh",
+      "title": "大揭秘"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "大揭祕"
+    }
+  ]
 }

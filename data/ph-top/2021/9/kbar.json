@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-18T07:00:00Z"
+  "original_createdAt": "2021-09-18T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "⌘ https://kbar.vercel.app は、あなたのサイトのための完全に拡張可能な command+k インターフェイスです。kbarは、macOSのSpotlight、Linear & Vercelのcommand+kエクスペリエンスを念頭に、高速で美しく、拡張可能なコマンドセンターをあなたのプロジェクトに追加するためのシンプルな抽象化を目指しています。",
+      "tagline": "美しい拡張性のあるcmd+kインターフェースをあなたのサイトに追加します。"
+    },
+    {
+      "locale": "zh",
+      "description": "⌘ https://kbar.vercel.app 是一个完全可扩展的命令+k界面，适用于你的网站。考虑到macOS的Spotlight、Linear和Vercel的命令+k体验，kbar旨在成为一个简单的抽象，为你的任何项目添加一个快速、漂亮和可扩展的命令中心。",
+      "tagline": "在你的网站上添加一个漂亮的、可扩展的cmd+k界面"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "⌘ https://kbar.vercel.app 是一個完全可擴展的命令+k界面，適用於你的網站。考慮到macOS的Spotlight、Linear和Vercel的命令+k體驗，kbar旨在成爲一個簡單的抽象，爲你的任何項目添加一個快速、漂亮和可擴展的命令中心。",
+      "tagline": "在你的網站上添加一個漂亮的、可擴展的cmd+k界面"
+    }
+  ]
 }
