@@ -50,5 +50,22 @@
   "original_created_at": "2021-09-17T12:59:29Z",
   "image": "https://dev.to/social_previews/article/829608.png",
   "author": "Rizel Scarlett",
-  "author_url": "https://dev.to/blackgirlbytes"
+  "author_url": "https://dev.to/blackgirlbytes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "初めてオープンソース・プロジェクトに貢献することに不安を感じているなら、私は...",
+      "title": "ゼロからヒーローへ：プロのようにオープンソースをナビゲートするためのクイックヒント "
+    },
+    {
+      "locale": "zh",
+      "description": "如果你对第一次为一个开源项目做贡献感到不确定，我...",
+      "title": "从零到英雄：像专业人员一样驾驭开源的快速技巧 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你對第一次爲一個開源項目做貢獻感到不確定，我...",
+      "title": "從零到英雄：像專業人員一樣駕馭開源的快速技巧 "
+    }
+  ]
 }
