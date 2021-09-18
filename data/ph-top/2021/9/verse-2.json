@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-17T08:00:00Z"
+  "original_createdAt": "2021-09-17T08:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Verse™は、グラフベースのインターフェイスを使用して、プログラミングの概念や機能をフルに活用する能力を開発者に提供する、ビジュアル・プログラミングIDEです。",
+      "tagline": "ビジュアルプログラミングに欠かせないIDE"
+    },
+    {
+      "locale": "zh",
+      "description": "Verse™是一个可视化的编程集成开发环境，为开发者提供了使用基于图形界面的全方位编程概念和功能的能力。",
+      "tagline": "基本的可视化编程IDE"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Verse™是一個可視化的編程集成開發環境，爲開發者提供了使用基於圖形界面的全方位編程概念和功能的能力。",
+      "tagline": "基本的可視化編程IDE"
+    }
+  ]
 }
