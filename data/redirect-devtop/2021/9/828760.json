@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-16T22:25:12Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fQaEcBvC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cqnokj4vwav1a1dkg706.jpg",
   "author": "Damian Demasi",
-  "author_url": "https://dev.to/colocodes"
+  "author_url": "https://dev.to/colocodes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "なぜこのプロジェクトを選んだのか？🤔 このプロジェクトは、私のお気に入りのツールの一つで...",
+      "title": "私の2つ目のバニラJavaScriptプロジェクト：API、約束、クラス、エラー処理などを使用しています。"
+    },
+    {
+      "locale": "zh",
+      "description": "我为什么选择建造这个项目？🤔这个项目是我最喜欢的工具之一，用于...",
+      "title": "我的第二个虚无缥缈的JavaScript项目：使用API、承诺、类、错误处理，以及更多!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我爲什麼選擇建造這個項目？🤔這個項目是我最喜歡的工具之一，用於...",
+      "title": "我的第二個虛無縹緲的JavaScript項目：使用API、承諾、類、錯誤處理，以及更多!"
+    }
+  ]
 }
