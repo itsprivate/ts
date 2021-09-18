@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "@tip_nzが作ったビットコインの曲がすごい。"
+    },
+    {
+      "locale": "zh",
+      "title": "由@tip_nz创作的一首很棒的比特币歌曲"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "由@tip_nz創作的一首很棒的比特幣歌曲"
+    }
+  ]
 }
