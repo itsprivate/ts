@@ -134,5 +134,22 @@
     "retweet_count": 13782,
     "favorite_count": 47372,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @CraigWeekend: https://t.co/TG6fbmrzxn",
+      "retweeted_status_full_text": "https://t.co/TG6fbmrzxn"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @CraigWeekend: https://t.co/TG6fbmrzxn",
+      "retweeted_status_full_text": "https://t.co/TG6fbmrzxn"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @CraigWeekend: https://t.co/TG6fbmrzxn",
+      "retweeted_status_full_text": "https://t.co/TG6fbmrzxn"
+    }
+  ]
 }
