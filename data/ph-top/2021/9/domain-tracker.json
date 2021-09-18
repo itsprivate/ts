@@ -48,5 +48,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-18T07:06:23Z"
+  "original_createdAt": "2021-09-18T07:06:23Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "https://domaintracker.heistio.com/ レジストラ、更新日、アカウントの電子メール、ネームサーバー、ソーシャルメディアのアカウントなどを一度に追跡できます。",
+      "tagline": "シンプルでプライバシーに配慮したセルフホスト型のドメイントラッカーです。"
+    },
+    {
+      "locale": "zh",
+      "description": "https://domaintracker.heistio.com/ 追踪注册商、更新日期、账户电子邮件、名称服务器、社交媒体账户和更多信息在一个地方。",
+      "tagline": "简单、隐私友好和自我托管的域名跟踪器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "https://domaintracker.heistio.com/ 追蹤註冊商、更新日期、賬戶電子郵件、名稱服務器、社交媒體賬戶和更多信息在一個地方。",
+      "tagline": "簡單、隱私友好和自我託管的域名跟蹤器"
+    }
+  ]
 }
