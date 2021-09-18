@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-17T13:19:59Z",
   "image": "https://dev.to/social_previews/article/829612.png",
   "author": "Albert Bennett",
-  "author_url": "https://dev.to/albertbennett"
+  "author_url": "https://dev.to/albertbennett",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "もし何か新しいことを学んだなら、リンクトインで私とつながったり、dev.toで私をフォローしたりしてください :)  I...",
+      "title": "OOPのためのSOLIDプリンシパル"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你学到了新的东西，欢迎在linkedin上与我联系，或在dev.to上关注我 :)  I...",
+      "title": "OOP的SOLID原则"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你學到了新的東西，歡迎在linkedin上與我聯繫，或在dev.to上關注我 :)  I...",
+      "title": "OOP的SOLID原則"
+    }
+  ]
 }
