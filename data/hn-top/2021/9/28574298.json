@@ -13,5 +13,19 @@
   ],
   "objectID": "28574298",
   "original_created_at": "2021-09-18T07:02:09.000Z",
-  "image": "https://borbpdf.com/assets/graphics/borb.svg"
+  "image": "https://borbpdf.com/assets/graphics/borb.svg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Borb - PDFファイルを読み書き、編集するためのPythonライブラリ"
+    },
+    {
+      "locale": "zh",
+      "title": "Borb - 一个用于读取、写入和编辑PDF文件的Python库"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Borb - 一個用於讀取、寫入和編輯PDF文件的Python庫"
+    }
+  ]
 }
