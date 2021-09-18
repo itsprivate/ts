@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "レスポンスのソースとしてHTTPダンプを使用するウェブサーバーは"
+    },
+    {
+      "locale": "zh",
+      "title": "使用HTTP转储作为响应来源的网络服务器"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "使用HTTP轉儲作爲響應來源的網絡服務器"
+    }
+  ]
 }
