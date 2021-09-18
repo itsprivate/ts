@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Thanks in advance for your time :)"
+  "the_new_excerpt": "Thanks in advance for your time :)",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ご協力ありがとうございました :)",
+      "title": "胚葉を持つ植物が多いということは、植物（特に双子葉植物）が共通の祖先からこの形質を受け継いだということなのでしょうか、それとも収斂進化の可能性があるのでしょうか。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "提前感谢您的时间 :)",
+      "title": "大量的植物有胚胎叶，是否意味着植物（尤其是双子叶植物）从一个共同的祖先那里继承了这一特征？ 还是这很可能是趋同进化？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "提前感謝您的時間 :)",
+      "title": "大量的植物有胚胎葉，是否意味着植物（尤其是雙子葉植物）從一個共同的祖先那裏繼承了這一特徵？ 還是這很可能是趨同進化？"
+    }
+  ]
 }
