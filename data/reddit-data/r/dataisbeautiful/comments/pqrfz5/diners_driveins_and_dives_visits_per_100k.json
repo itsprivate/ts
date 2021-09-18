@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "住民100k人あたりのDiners, Drive-Ins, and Dives訪問者数 [OC]."
+    },
+    {
+      "locale": "zh",
+      "title": "每10万名居民中的餐馆、汽车旅馆和餐馆的访问量[OC]。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "每10萬名居民中的餐館、汽車旅館和餐館的訪問量[OC]。"
+    }
+  ]
 }
