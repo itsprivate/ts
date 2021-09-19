@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ちょっと待って、私はあなたを知っています。"
+    },
+    {
+      "locale": "zh",
+      "title": "等一下，我认识你。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "等一下，我認識你。"
+    }
+  ]
 }
