@@ -134,5 +134,22 @@
     "retweet_count": 5593,
     "favorite_count": 20510,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @laralogan: https://t.co/ZQfrKhXyNi",
+      "retweeted_status_full_text": "https://t.co/ZQfrKhXyNi"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @laralogan: https://t.co/ZQfrKhXyNi",
+      "retweeted_status_full_text": "https://t.co/ZQfrKhXyNi"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @laralogan: https://t.co/ZQfrKhXyNi",
+      "retweeted_status_full_text": "https://t.co/ZQfrKhXyNi"
+    }
+  ]
 }
