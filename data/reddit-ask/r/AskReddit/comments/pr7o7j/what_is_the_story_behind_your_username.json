@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ユーザーネームの由来を教えてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "你的用户名背后有什么故事？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你的用戶名背後有什麼故事？"
+    }
+  ]
 }
