@@ -52,5 +52,22 @@
   "original_created_at": "2021-09-16T16:31:08Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--c5Kgj2lp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0xf40gwuo83g48m5wuq1.png",
   "author": "Anthony Viard 🥑",
-  "author_url": "https://dev.to/avdev4j"
+  "author_url": "https://dev.to/avdev4j",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "開発者の皆さん、こんにちは。Entando Standard Banking Demoシリーズの第2回目は、...",
+      "title": "スタンダード・バンキング・デモ JHipsterが生み出すマイクロサービスとマイクロフロントエンド"
+    },
+    {
+      "locale": "zh",
+      "description": "嗨，我的开发者朋友们，Entando标准银行演示系列的第二集把我们带到了...",
+      "title": "标准银行业务演示。JHipster生成的微服务和微前台"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嗨，我的開發者朋友們，Entando標準銀行演示系列的第二集把我們帶到了...",
+      "title": "標準銀行業務演示。JHipster生成的微服務和微前臺"
+    }
+  ]
 }
