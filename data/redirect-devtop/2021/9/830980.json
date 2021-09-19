@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-19T03:00:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lTuGrz-o--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/la7ghllvzp2hcjaahht6.png",
   "author": "Tapajyoti Bose",
-  "author_url": "https://dev.to/ruppysuppy"
+  "author_url": "https://dev.to/ruppysuppy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reduxは、Reactアプリケーションで広く使用されている状態管理ソリューションの1つです。しかし、Reduxは...",
+      "title": "ReduxストアをReactコンポーネントに接続する次世代の方法"
+    },
+    {
+      "locale": "zh",
+      "description": "Redux是React应用中广泛使用的状态管理解决方案之一。尽管它有...",
+      "title": "连接Redux商店和React组件的下一代方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Redux是React應用中廣泛使用的狀態管理解決方案之一。儘管它有...",
+      "title": "連接Redux商店和React組件的下一代方法"
+    }
+  ]
 }
