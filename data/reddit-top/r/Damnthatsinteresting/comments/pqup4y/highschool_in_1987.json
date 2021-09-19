@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "1987年の高校時代"
+    },
+    {
+      "locale": "zh",
+      "title": "1987年的高中"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "1987年的高中"
+    }
+  ]
 }
