@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "救急車を呼ぶ"
+    },
+    {
+      "locale": "zh",
+      "title": "叫救护车"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "叫救護車"
+    }
+  ]
 }
