@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-12T06:41:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--muebhd0P--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eafwe36qqxj2vxltxx2k.jpeg",
   "author": "Phan Công Thắng",
-  "author_url": "https://dev.to/thangphan37"
+  "author_url": "https://dev.to/thangphan37",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "いくつかのデータがあり、そのデータをPDFファイルにしたいと思います。手軽にPDFファイルを作るにはどうすればいいのでしょうか。",
+      "title": "React, Next jsでPdfを素早く作成する方法\n"
+    },
+    {
+      "locale": "zh",
+      "description": "我有一些数据，我想为这些数据制作一个PDF文件。我怎样才能快速制作一个PDF文件呢？",
+      "title": "如何在React、Next js中快速制作Pdf\n"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我有一些數據，我想爲這些數據製作一個PDF文件。我怎樣才能快速製作一個PDF文件呢？",
+      "title": "如何在React、Next js中快速製作Pdf\n"
+    }
+  ]
 }
