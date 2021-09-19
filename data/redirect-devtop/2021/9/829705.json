@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-17T15:37:54Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Pe1hu1qq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uga3krniqnlun7tjh34m.jpeg",
   "author": "Neha Gupta",
-  "author_url": "https://dev.to/nayyyhaa"
+  "author_url": "https://dev.to/nayyyhaa",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "OK! あなたは何年も前からJavaScriptでコードを書いていて、どのような時にどのようなロジックを使うかは知っているかもしれませんが、...",
+      "title": "JavaScriptの実行コンテキストについて知っておくべきことすべて"
+    },
+    {
+      "locale": "zh",
+      "description": "好的! 你可能已经用JavaScript写了很多年的代码，你知道什么时候该用什么逻辑，但是，你有没有...",
+      "title": "关于JavaScript中的执行上下文，你需要知道的一切"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "好的! 你可能已經用JavaScript寫了很多年的代碼，你知道什麼時候該用什麼邏輯，但是，你有沒有...",
+      "title": "關於JavaScript中的執行上下文，你需要知道的一切"
+    }
+  ]
 }
