@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-19T07:11:16Z"
+  "original_createdAt": "2021-09-19T07:11:16Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Tkinter Designerは、PythonでのGUI開発プロセスを高速化するために作られました。よく知られているデザインソフトFigmaを使って、Pythonで美しいTkinterのGUIを簡単に作ることができます。また、より簡単にするためのCLIも付属しています。",
+      "tagline": "Python GUIのノーコードソリューション"
+    },
+    {
+      "locale": "zh",
+      "description": "Tkinter Designer是为了加快Python中的GUI开发过程而创建的。它使用著名的设计软件Figma，使在Python中创建漂亮的Tkinter图形用户界面变得轻而易举。它还配备了一个CLI，使事情变得更加简单。",
+      "tagline": "Python GUI的无代码解决方案"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Tkinter Designer是爲了加快Python中的GUI開發過程而創建的。它使用著名的設計軟件Figma，使在Python中創建漂亮的Tkinter圖形用戶界面變得輕而易舉。它還配備了一個CLI，使事情變得更加簡單。",
+      "tagline": "Python GUI的無代碼解決方案"
+    }
+  ]
 }
