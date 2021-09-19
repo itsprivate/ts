@@ -52,5 +52,22 @@
   "original_created_at": "2021-09-17T13:42:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wpCN8UFB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kcfmo6db5uecwqcxjp84.png",
   "author": "Augustas Radziukas",
-  "author_url": "https://dev.to/augustasrad"
+  "author_url": "https://dev.to/augustasrad",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "紹介文を読み飛ばしたい方は、お気軽にアプリケーションにお進みください。  記入してください...",
+      "title": "ネットワークおよびDevOpsエンジニアを募集 - フィードバックに500ドルを提供 "
+    },
+    {
+      "locale": "zh",
+      "description": "如果你想跳过介绍，请随时直接切入申请。  请完成...",
+      "title": "召集网络和DevOps工程师--500美元征求您的反馈意见 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你想跳過介紹，請隨時直接切入申請。  請完成...",
+      "title": "召集網絡和DevOps工程師--500美元徵求您的反饋意見 "
+    }
+  ]
 }
