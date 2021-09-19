@@ -107,5 +107,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-19T07:00:00Z"
+  "original_createdAt": "2021-09-19T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "SnippetsLab 2.0では、Apple Silicon Macへの対応、テーマのカスタマイズ機能、好みのライトテーマとダークテーマを自動的に切り替えるオプションなど、20以上の新機能のほか、多数の改良やバグフィックスが施されています。",
+      "tagline": "あなただけのコードライブラリ"
+    },
+    {
+      "locale": "zh",
+      "description": "SnippetsLab 2.0带来了20多项新功能和许多其他改进和错误修复，包括支持苹果硅麦，能够定制主题以及在您选择的浅色和深色主题之间自动切换的选项。",
+      "tagline": "你的个人代码库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "SnippetsLab 2.0帶來了20多項新功能和許多其他改進和錯誤修復，包括支持蘋果硅麥，能夠定製主題以及在您選擇的淺色和深色主題之間自動切換的選項。",
+      "tagline": "你的個人代碼庫"
+    }
+  ]
 }
