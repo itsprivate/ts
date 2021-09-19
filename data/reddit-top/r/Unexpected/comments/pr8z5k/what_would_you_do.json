@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたならどうしますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你会怎么做？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你會怎麼做？"
+    }
+  ]
 }
