@@ -93,5 +93,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-19T07:07:14Z"
+  "original_createdAt": "2021-09-19T07:07:14Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Google Sheet、Airtable、Google Analytics、Twitter、Telegram、Open Graph API、MailChimp、50以上のアプリをバックエンドなしでセットアップするための時間と費用を節約できます。",
+      "tagline": "コードなしでAPIに接続する最も簡単な方法です。"
+    },
+    {
+      "locale": "zh",
+      "description": "节省时间和金钱来设置你的Google Sheet, Airtable, Google Analytics, Twitter, Telegram, Open Graph API, MailChimp, 50+应用程序，而无需任何后台。",
+      "tagline": "最简单的方法，无需代码就能与API连接。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "節省時間和金錢來設置你的Google Sheet, Airtable, Google Analytics, Twitter, Telegram, Open Graph API, MailChimp, 50+應用程序，而無需任何後臺。",
+      "tagline": "最簡單的方法，無需代碼就能與API連接。"
+    }
+  ]
 }
