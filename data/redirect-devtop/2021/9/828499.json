@@ -43,5 +43,22 @@
   "original_created_at": "2021-09-16T16:57:08Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wv6dBtWM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dh5dvp8o2s0rgmfa5frn.jpeg",
   "author": "Kfir Zvi",
-  "author_url": "https://dev.to/zvikfir"
+  "author_url": "https://dev.to/zvikfir",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これは、私のオープンソースプロジェクト（バックエンドとフロントエンド）についての一連の記事の一部です。もしあなたが...",
+      "title": "Next.js、NestJS、MobX、そして私のオープンソースプロジェクトの構成について"
+    },
+    {
+      "locale": "zh",
+      "description": "这是关于我的开源项目（后台和前台）的系列文章的一部分。如果你想...",
+      "title": "Next.js、NestJS、MobX以及我如何构建我的开源项目"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是關於我的開源項目（後臺和前臺）的系列文章的一部分。如果你想...",
+      "title": "Next.js、NestJS、MobX以及我如何構建我的開源項目"
+    }
+  ]
 }
