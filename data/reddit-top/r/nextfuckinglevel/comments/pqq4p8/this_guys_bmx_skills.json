@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この男のBMXスキル"
+    },
+    {
+      "locale": "zh",
+      "title": "这个家伙的BMX技能"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個傢伙的BMX技能"
+    }
+  ]
 }
