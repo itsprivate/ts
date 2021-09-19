@@ -57,5 +57,22 @@
   "original_created_at": "2021-09-16T12:27:42Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Vq6z7EvX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ux19txtbt7s5xuu4c5m8.png",
   "author": "Rajvir Singh",
-  "author_url": "https://dev.to/rajvirsingh1313"
+  "author_url": "https://dev.to/rajvirsingh1313",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "エレキテルとは？     まず最初に、このエレクリュの要点をお伝えしますと...。",
+      "title": "VueまたはReactを備えたElectron用スターターコードジェネレータ"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是Elecrue？     首先让我告诉你这个elecrue的主要内容...",
+      "title": "使用Vue或React的Electron入门代码生成器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是Elecrue？     首先讓我告訴你這個elecrue的主要內容...",
+      "title": "使用Vue或React的Electron入門代碼生成器"
+    }
+  ]
 }
