@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-19T07:00:00Z"
+  "original_createdAt": "2021-09-19T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Meddifyは、ユーザーが適切なタイミングで薬を飲むことを忘れないようにするための、使いやすいアプリです。",
+      "tagline": "シンプルで美しいiOS用のお薬リマインダーアプリ"
+    },
+    {
+      "locale": "zh",
+      "description": "Meddify是一个易于使用的应用程序，帮助用户记住在正确的时间服用药物。",
+      "tagline": "一个简单而漂亮的iOS用药提醒应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Meddify是一個易於使用的應用程序，幫助用戶記住在正確的時間服用藥物。",
+      "tagline": "一個簡單而漂亮的iOS用藥提醒應用程序"
+    }
+  ]
 }

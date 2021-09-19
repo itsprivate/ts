@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "エアホーンで寝ているウサギを起こす"
+    },
+    {
+      "locale": "zh",
+      "title": "用气喇叭唤醒沉睡的兔子"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "用氣喇叭喚醒沉睡的兔子"
+    }
+  ]
 }
