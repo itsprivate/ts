@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC】COVID-19は、2020年に米国で発生する9.7人に1人の死亡原因だった（インフォグラフィック"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC] COVID-19是2020年美国每9.7个死亡案例中的一个原因（信息图"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC] COVID-19是2020年美國每9.7個死亡案例中的一個原因（信息圖"
+    }
+  ]
 }
