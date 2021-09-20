@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが完璧なキャスティングだと思うキャラクターは誰ですか？まるでその役がその俳優のために作られたかのように。"
+    },
+    {
+      "locale": "zh",
+      "title": "你认为谁是一个完美的角色？仿佛这个角色是专门为这个演员而设的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你認爲誰是一個完美的角色？彷彿這個角色是專門爲這個演員而設的？"
+    }
+  ]
 }
