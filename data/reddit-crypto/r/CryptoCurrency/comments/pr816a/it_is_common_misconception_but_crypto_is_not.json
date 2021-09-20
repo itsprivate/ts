@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Many people believe wrongly that when they use hardware wallet, they import/send\ncoins into it. Coins have no connection to \"evil\" internet, and are safely\nstored inside hardware wallet, that lies inside their drawer...\n\nIt doesn't work like that. I understand why people think this, cause it is…"
+  "the_new_excerpt": "Many people believe wrongly that when they use hardware wallet, they import/send\ncoins into it. Coins have no connection to \"evil\" internet, and are safely\nstored inside hardware wallet, that lies inside their drawer...\n\nIt doesn't work like that. I understand why people think this, cause it is…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "多くの人は、ハードウェアウォレットを使用すると、コインをインポート/送信すると誤解しています。\nしていると思っている方が多いようです。コインは \"邪悪な \"インターネットとは無縁で、引き出しの中にあるハードウェア・ウォレットの中に安全に保管されています。\n引き出しの中にあるハードウェアウォレットに安全に保管されている...。\n\nそんなことはありません。人々がそう考えるのは理解できますが、それは...",
+      "title": "よくある誤解ですが、暗号は実際にはハードウェアウォレットには保存されておらず、ブロックチェーン上に残っています。ハードウェアウォレットはペンドライブとは違います。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "许多人错误地认为，当他们使用硬件钱包时，他们将硬币导入/发送至\n币到里面。硬币与 \"邪恶 \"的互联网没有任何联系，而是安全地\n储存在硬件钱包里，就在他们的抽屉里......\n\n它并不是这样的。我理解人们为什么这么想，因为它是...",
+      "title": "这是个常见的误解，但加密货币实际上并不存储在你的硬件钱包里，它仍然在区块链上。硬件钱包并不像Pendrive。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "許多人錯誤地認爲，當他們使用硬件錢包時，他們將硬幣導入/發送至\n幣到裏面。硬幣與 \"邪惡 \"的互聯網沒有任何聯繫，而是安全地\n儲存在硬件錢包裏，就在他們的抽屜裏......\n\n它並不是這樣的。我理解人們爲什麼這麼想，因爲它是...",
+      "title": "這是個常見的誤解，但加密貨幣實際上並不存儲在你的硬件錢包裏，它仍然在區塊鏈上。硬件錢包並不像Pendrive。"
+    }
+  ]
 }
