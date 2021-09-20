@@ -150,5 +150,22 @@
     "retweet_count": 292,
     "favorite_count": 1692,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @BitcoinMagazine: 7000万ドルのスーパーヨットの売り手は、#Bitcoinしか受け付けない https://t.co/POfn1yvlEn",
+      "retweeted_status_full_text": "7000万ドルのスーパーヨットの売り手は#Bitcoinしか受け付けない https://t.co/POfn1yvlEn"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @BitcoinMagazine: 7000万美元的超级游艇的卖家将只接受#比特币https://t.co/POfn1yvlEn",
+      "retweeted_status_full_text": "售价7000万美元的超级游艇只接受#比特币https://t.co/POfn1yvlEn"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @BitcoinMagazine: 7000萬美元的超級遊艇的賣家將只接受#比特幣https://t.co/POfn1yvlEn",
+      "retweeted_status_full_text": "售價7000萬美元的超級遊艇只接受#比特幣https://t.co/POfn1yvlEn"
+    }
+  ]
 }
