@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-20T14:46:39Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KTvRVE3w--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uqbmd7yo8iwhmttuq0np.png",
   "author": "swyx",
-  "author_url": "https://dev.to/swyx"
+  "author_url": "https://dev.to/swyx",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "REST対GraphQLという退屈な論争から抜け出した方法 - 本当の戦いはスマートクライアントとスマートサーバーの間にあることに気付いたのです",
+      "title": "なぜWebdevsはRESTを殺そうとするのか？"
+    },
+    {
+      "locale": "zh",
+      "description": "我是如何从令人厌烦的REST与GraphQL的争论中解脱出来的--意识到真正的争论是在智能客户端和智能服务器之间进行的!",
+      "title": "为什么Webdevs一直试图杀死REST？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我是如何從令人厭煩的REST與GraphQL的爭論中解脫出來的--意識到真正的爭論是在智能客戶端和智能服務器之間進行的!",
+      "title": "爲什麼Webdevs一直試圖殺死REST？"
+    }
+  ]
 }
