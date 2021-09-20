@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Saveddit - 保存されたRedditの投稿を検索／フィルタリングできるサイトを作成しました。"
+    },
+    {
+      "locale": "zh",
+      "title": "Saveddit - 创建了一个网站，允许你搜索/过滤你保存的Reddit帖子"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Saveddit - 創建了一個網站，允許你搜索/過濾你保存的Reddit帖子"
+    }
+  ]
 }
