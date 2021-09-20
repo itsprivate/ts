@@ -41,5 +41,22 @@
   "original_created_at": "2021-09-18T17:30:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qUNJkNYV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9tr16fl9bmdg3fsszzhq.png",
   "author": "Thisura Thenuka",
-  "author_url": "https://dev.to/thisurathenuka"
+  "author_url": "https://dev.to/thisurathenuka",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは。「JavaScript Concepts Simplified」シリーズの別の記事にようこそ。今日は、...",
+      "title": "イベントバブリング - JavaScriptの概念を簡略化"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，欢迎来到《JavaScript概念简化》系列文章的另一篇文章。今天，...",
+      "title": "事件气泡--简化的JavaScript概念"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，歡迎來到《JavaScript概念簡化》系列文章的另一篇文章。今天，...",
+      "title": "事件氣泡--簡化的JavaScript概念"
+    }
+  ]
 }
