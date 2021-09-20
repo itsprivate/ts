@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-18T10:34:45Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rn75yJDU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r3upgg9nbjkapb6y8u7z.jpg",
   "author": "Med Amine Fh",
-  "author_url": "https://dev.to/medaminefh"
+  "author_url": "https://dev.to/medaminefh",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あなたのコンピュータには、Html、Css、Jsのファイルがあり、それを同僚に見せたいと思っています。",
+      "title": "Githubを使って静的ウェブサイトをホスティングする方法"
+    },
+    {
+      "locale": "zh",
+      "description": "你有一个Html、Css和Js文件在你的电脑里，你想向你的同事展示它。",
+      "title": "如何用Github托管你的静态网站"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你有一個Html、Css和Js文件在你的電腦裏，你想向你的同事展示它。",
+      "title": "如何用Github託管你的靜態網站"
+    }
+  ]
 }
