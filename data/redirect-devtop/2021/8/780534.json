@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-03T15:48:09Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dLic_uWC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tsati6bpa5evgvkdpk5c.jpg",
   "author": "Clément Gaudinière",
-  "author_url": "https://dev.to/clementgaudiniere"
+  "author_url": "https://dev.to/clementgaudiniere",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さんこんにちは。今日は、オープンソースのライブラリを使ってqrコードジェネレータを作成する方法をご紹介します。",
+      "title": "QRコードジェネレータの作成"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，今天我们将看到如何用开源库创建一个qr码生成器。",
+      "title": "创建一个二维码生成器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，今天我們將看到如何用開源庫創建一個qr碼生成器。",
+      "title": "創建一個二維碼生成器"
+    }
+  ]
 }
