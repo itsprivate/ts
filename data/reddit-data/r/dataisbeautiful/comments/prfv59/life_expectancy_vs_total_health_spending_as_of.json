@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "平均寿命と総医療費の対GDP比 - 出典：Gapminder.org（有名なハンス・ロスリング氏による）コメントにて"
+    },
+    {
+      "locale": "zh",
+      "title": "预期寿命与卫生支出总额占GDP的百分比--来源（Gapminder.org，由著名的汉斯-罗斯林撰写），请评论。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "預期壽命與衛生支出總額佔GDP的百分比--來源（Gapminder.org，由著名的漢斯-羅斯林撰寫），請評論。"
+    }
+  ]
 }
