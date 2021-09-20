@@ -46,5 +46,22 @@
   "original_created_at": "2021-09-17T22:18:50Z",
   "image": "https://dev.to/social_previews/article/830107.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この投稿は、私が見た興味深いツイートから生まれたもので、いかに難しいかを物語っています。",
+      "title": "5gzと2.4gzのWiFiの違いは？"
+    },
+    {
+      "locale": "zh",
+      "description": "这篇文章来自于我看到的一些有趣的推文，并且真正说明了它可能是多么困难。",
+      "title": "5GZ或2.4GZ WiFi的真正区别"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這篇文章來自於我看到的一些有趣的推文，並且真正說明了它可能是多麼困難。",
+      "title": "5GZ或2.4GZ WiFi的真正區別"
+    }
+  ]
 }
