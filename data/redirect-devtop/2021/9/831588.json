@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-19T19:28:35Z",
   "image": "https://dev.to/social_previews/article/831588.png",
   "author": "NordicBeaver",
-  "author_url": "https://dev.to/nordicbeaver"
+  "author_url": "https://dev.to/nordicbeaver",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これは何ですか？ 私は、非常に基本的なウェブサイトを構築する方法のビデオシリーズを作っています...",
+      "title": "TypeScript、NestJs、Reactなどで史上最もつまらないウェブサイトを作る。"
+    },
+    {
+      "locale": "zh",
+      "description": "这是什么 所以我正在制作一系列关于如何为一个非常基本的网站建立的视频。",
+      "title": "用TypeScript、NestJs、React等制作最无聊的网站。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是什麼 所以我正在製作一系列關於如何爲一個非常基本的網站建立的視頻。",
+      "title": "用TypeScript、NestJs、React等製作最無聊的網站。"
+    }
+  ]
 }
