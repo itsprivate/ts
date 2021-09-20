@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-19T16:17:07Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--A3iVoRF1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/okmyeyu8at68j5u7d10c.png",
   "author": "Mangabo Kolawole",
-  "author_url": "https://dev.to/koladev"
+  "author_url": "https://dev.to/koladev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "さて、Reactアプリケーションを書いて、それをデプロイする準備はできましたか？ しかし、そのようなことはありません。",
+      "title": "AWS LightsailでReactアプリをデプロイ。テスト、Docker、Docker Compose、Nginx & Github Actions "
+    },
+    {
+      "locale": "zh",
+      "description": "那么你已经写好了你的React应用程序，你准备部署它了吗？ 虽然有...",
+      "title": "在AWS Lightsail上部署一个React应用。测试、Docker、Docker Compose、Nginx和Github行动 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "那麼你已經寫好了你的React應用程序，你準備部署它了嗎？ 雖然有...",
+      "title": "在AWS Lightsail上部署一個React應用。測試、Docker、Docker Compose、Nginx和Github行動 "
+    }
+  ]
 }
