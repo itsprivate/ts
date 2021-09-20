@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-20T15:30:00Z"
+  "original_createdAt": "2021-09-20T15:30:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "HackerPenとは？リアルタイムにフィードバックされる、コラボレーション型の技術面接プラットフォームです。デモビデオでは、HackerPenを使った技術面接の方法や、技術面接の練習を紹介しています。",
+      "tagline": "使いやすく、手頃な価格の技術面接用プラットフォーム"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是HackerPen？它是一个具有实时反馈的协作性技术面试平台。演示视频向您展示了如何使用HackerPen进行技术面试，以及技术面试的练习。",
+      "tagline": "易于使用和负担得起的技术面试平台"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是HackerPen？它是一個具有實時反饋的協作性技術面試平臺。演示視頻向您展示瞭如何使用HackerPen進行技術面試，以及技術面試的練習。",
+      "tagline": "易於使用和負擔得起的技術面試平臺"
+    }
+  ]
 }
