@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-20T07:01:00Z"
+  "original_createdAt": "2021-09-20T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "自分がアップロードしたYoutube動画やファンの動画の字幕をエクスポートしたり、編集したりしたい場合があります。以前は、コミュニティキャプションがありましたが、今は利用できません。",
+      "tagline": "任意のYouTube動画の字幕をダウンロードして編集"
+    },
+    {
+      "locale": "zh",
+      "description": "有时你可能想导出或编辑你上传的或你是其粉丝的Youtube视频的字幕。以前我们有社区字幕，但现在已经不能用了。",
+      "tagline": "下载和编辑任何YouTube视频的字幕"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有時你可能想導出或編輯你上傳的或你是其粉絲的Youtube視頻的字幕。以前我們有社區字幕，但現在已經不能用了。",
+      "tagline": "下載和編輯任何YouTube視頻的字幕"
+    }
+  ]
 }
