@@ -48,5 +48,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-20T07:00:00Z"
+  "original_createdAt": "2021-09-20T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Feedback Laneでは、ワークスペースのNotionテーブルに接続されたフィードバックウィジェットをWebサイトに追加することができます。お客様が簡単にフィードバックを送れるようにし、そのフィードバックをNotionで管理することができます。",
+      "tagline": "Notionが提供するウェブサイトのフィードバック・ウィジェット"
+    },
+    {
+      "locale": "zh",
+      "description": "Feedback Lane让您在您的网站上添加一个反馈部件，该部件与您工作区的Notion表相连。让客户轻松地向您发送反馈，然后在您管理业务的地方管理这些反馈（Notion！）。",
+      "tagline": "一个由Notion提供的网站反馈小工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Feedback Lane讓您在您的網站上添加一個反饋部件，該部件與您工作區的Notion表相連。讓客戶輕鬆地向您發送反饋，然後在您管理業務的地方管理這些反饋（Notion！）。",
+      "tagline": "一個由Notion提供的網站反饋小工具"
+    }
+  ]
 }
