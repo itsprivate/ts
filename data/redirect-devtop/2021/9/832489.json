@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-20T08:14:04Z",
   "image": "https://dev.to/social_previews/article/832489.png",
   "author": "npm run dev",
-  "author_url": "https://dev.to/npmrundev"
+  "author_url": "https://dev.to/npmrundev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "もう全くの初心者ではないということですね。いくつかのウェブページを作成し、HTMLの基本を学び、...",
+      "title": "初級者から中級者へのステップアップ"
+    },
+    {
+      "locale": "zh",
+      "description": "所以，你不再是一个完全的初学者了。你已经建立了一些网页，学会了HTML的基础知识，但你还没有完全掌握。",
+      "title": "从初学者到中级开发者的进步"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "所以，你不再是一個完全的初學者了。你已經建立了一些網頁，學會了HTML的基礎知識，但你還沒有完全掌握。",
+      "title": "從初學者到中級開發者的進步"
+    }
+  ]
 }
