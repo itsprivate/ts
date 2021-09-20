@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-18T08:32:27Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yCP5EEyA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vk3g8r0jqrssutm6rd4w.png",
   "author": "Amit Khonde",
-  "author_url": "https://dev.to/amitkhonde"
+  "author_url": "https://dev.to/amitkhonde",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JavaScriptで作られた機能を見て、こう言ったことはありませんか？   と思ったことはありませんか？",
+      "title": "JavaScriptのflatMapとは？また、どのようにして私のコードをよりきれいにしたか"
+    },
+    {
+      "locale": "zh",
+      "description": "你是否曾经看过一个JavaScript的内置函数，并对自己说。   我明白什么是...",
+      "title": "什么是JavaScript中的flatMap？如何使我的代码更简洁"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你是否曾經看過一個JavaScript的內置函數，並對自己說。   我明白什麼是...",
+      "title": "什麼是JavaScript中的flatMap？如何使我的代碼更簡潔"
+    }
+  ]
 }
