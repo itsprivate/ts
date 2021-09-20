@@ -13,5 +13,19 @@
   ],
   "objectID": "28590816",
   "original_created_at": "2021-09-20T06:20:37.000Z",
-  "image": "https://www.xata.io/images/logo.svg"
+  "image": "https://www.xata.io/images/logo.svg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Xata - サーバーレスアプリのためのデータベースサービス"
+    },
+    {
+      "locale": "zh",
+      "title": "Xata - 无服务器应用程序的数据库服务"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Xata - 無服務器應用程序的數據庫服務"
+    }
+  ]
 }
