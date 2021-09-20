@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "言語的には、全く関係のない多くの言語で、なぜ母を表す言葉として「Ma」や「Mama」が共通して使われているのでしょうか。"
+    },
+    {
+      "locale": "zh",
+      "title": "在语言学上，为什么这么多本来完全不相关的语言仍然共用 \"Ma \"或 \"Mama \"作为母亲的共同术语？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在語言學上，爲什麼這麼多本來完全不相關的語言仍然共用 \"Ma \"或 \"Mama \"作爲母親的共同術語？"
+    }
+  ]
 }
