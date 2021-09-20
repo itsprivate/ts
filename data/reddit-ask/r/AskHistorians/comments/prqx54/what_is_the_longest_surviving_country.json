@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "To be more precise, which country has existed for the longest period of time\nwithout being dissolved or suffering a major change in government (due to\npuppeting, revolution, imperialism, or otherwise)?"
+  "the_new_excerpt": "To be more precise, which country has existed for the longest period of time\nwithout being dissolved or suffering a major change in government (due to\npuppeting, revolution, imperialism, or otherwise)?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "正確には、解散や大きな政権交代がなく、最も長い期間存続している国はどこか？\n解散や大きな政権交代をせずに、最も長く存在している国はどこでしょうか。\n傀儡（かいらい）、革命、帝国主義、その他の理由で）解散したり、政府が大きく変わることなく、最も長く存在している国は？)",
+      "title": "最も長く存続している国はどこですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "更准确地说，哪个国家存在的时间最长？\n没有被解体或政府发生重大变化（由于\n傀儡统治、革命、帝国主义或其他原因）？)",
+      "title": "存续时间最长的国家是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "更準確地說，哪個國家存在的時間最長？\n沒有被解體或政府發生重大變化（由於\n傀儡統治、革命、帝國主義或其他原因）？)",
+      "title": "存續時間最長的國家是什麼？"
+    }
+  ]
 }
