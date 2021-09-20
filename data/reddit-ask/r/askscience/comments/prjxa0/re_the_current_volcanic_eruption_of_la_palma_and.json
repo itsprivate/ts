@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Should we be worried?"
+  "the_new_excerpt": "Should we be worried?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "心配しなくてもいいのでは？",
+      "title": "現在、ラ・パルマ島の火山噴火とそこでの地震がありますが、地滑りとそれに伴う津波の可能性は実際にどのくらいあるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我们应该担心吗？",
+      "title": "关于目前拉帕尔马的火山爆发，以及那里的地震，发生滑坡和随后的海啸的实际可能性有多大？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我們應該擔心嗎？",
+      "title": "關於目前拉帕爾馬的火山爆發，以及那裏的地震，發生滑坡和隨後的海嘯的實際可能性有多大？"
+    }
+  ]
 }
