@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Very curious about this one ngl because I want to see if it varies."
+  "the_new_excerpt": "Very curious about this one ngl because I want to see if it varies.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "変化するかどうかを確認したいので、このnglには非常に興味があります。",
+      "title": "あなたの国では、国民的な酔っぱらいの食べ物は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "对这个问题非常好奇，因为我想看看它是否有变化。",
+      "title": "在你的国家，什么是全国通用的醉酒食品？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "對這個問題非常好奇，因爲我想看看它是否有變化。",
+      "title": "在你的國家，什麼是全國通用的醉酒食品？"
+    }
+  ]
 }
