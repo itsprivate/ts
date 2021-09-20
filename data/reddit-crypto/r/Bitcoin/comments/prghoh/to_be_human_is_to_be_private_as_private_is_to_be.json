@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"人間であることは私的であることであり、私的であることは自由であることである\" - ジュリアン・アサンジ"
+    },
+    {
+      "locale": "zh",
+      "title": "\"做人就是要有私心，因为有私心就是要有自由\"。- 朱利安-阿桑奇"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"做人就是要有私心，因爲有私心就是要有自由\"。- 朱利安-阿桑奇"
+    }
+  ]
 }
