@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "uCast: ポッドキャスト広告のためのマーケットプレイス"
+    },
+    {
+      "locale": "zh",
+      "title": "uCast。一个播客广告的市场"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "uCast。一個播客廣告的市場"
+    }
+  ]
 }
