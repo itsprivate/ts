@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Bitcoinデスクサインの完成版です。"
+    },
+    {
+      "locale": "zh",
+      "title": "这是我的比特币桌牌的最终版本"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是我的比特幣桌牌的最終版本"
+    }
+  ]
 }

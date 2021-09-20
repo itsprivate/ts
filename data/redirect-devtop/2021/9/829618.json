@@ -52,5 +52,22 @@
   "original_created_at": "2021-09-17T13:24:54Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jWK9N6s7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r40nn1kg3cxkrth3me5w.png",
   "author": "Francesco Ciulla",
-  "author_url": "https://dev.to/francescoxx"
+  "author_url": "https://dev.to/francescoxx",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ビデオバージョン あなたはビデオバージョンがお好きですか？   この記事では、私たちがどのようにして...",
+      "title": "CRUD API Express with RDS, ECS and Docker"
+    },
+    {
+      "locale": "zh",
+      "description": "视频版 你喜欢视频版吗？   在这篇文章中，我们将看到我们如何能够...",
+      "title": "使用RDS、ECS和Docker的CRUD API Express"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "視頻版 你喜歡視頻版嗎？   在這篇文章中，我們將看到我們如何能夠...",
+      "title": "使用RDS、ECS和Docker的CRUD API Express"
+    }
+  ]
 }
