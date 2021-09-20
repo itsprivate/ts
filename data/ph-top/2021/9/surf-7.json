@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-20T07:00:00Z"
+  "original_createdAt": "2021-09-20T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Surfは、毎日のブラウジングで受動的に報酬を得ることができる無料のブラウザ拡張機能です🤙 今すぐダウンロードして、Tesla Model 3を手に入れるチャンスを手に入れましょう!",
+      "tagline": "毎日のブラウズで報酬を得る"
+    },
+    {
+      "locale": "zh",
+      "description": "Surf是一个免费的浏览器扩展，可以让你在日常浏览中被动地获得奖励🤙今天就下载，有机会赢得特斯拉Model 3!",
+      "tagline": "日常浏览获得奖励"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Surf是一個免費的瀏覽器擴展，可以讓你在日常瀏覽中被動地獲得獎勵🤙今天就下載，有機會贏得特斯拉Model 3!",
+      "tagline": "日常瀏覽獲得獎勵"
+    }
+  ]
 }
