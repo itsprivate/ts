@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "troddit.com - Redditの投稿やコメントの閲覧をよりシームレスにするために作ったウェブアプリです。OAuthによるRedditのログインをサポートしているので、投票したり、自分のサブサイトや個人のフロントページにアクセスすることができます。"
+    },
+    {
+      "locale": "zh",
+      "title": "troddit.com - 我做的一个网络应用，使浏览Reddit的帖子和评论成为一种更无缝的体验。支持使用OAuth的Reddit登录，所以你可以投票，并可以访问你自己的子网站和个人头版!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "troddit.com - 我做的一個網絡應用，使瀏覽Reddit的帖子和評論成爲一種更無縫的體驗。支持使用OAuth的Reddit登錄，所以你可以投票，並可以訪問你自己的子網站和個人頭版!"
+    }
+  ]
 }
