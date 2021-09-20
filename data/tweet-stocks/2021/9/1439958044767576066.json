@@ -134,5 +134,22 @@
     "retweet_count": 152,
     "favorite_count": 814,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @fintwit_news です。おはようございます https://t.co/nlMeyvTWGu",
+      "retweeted_status_full_text": "おはようございます。https://t.co/nlMeyvTWGu"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @fintwit_news: 早上好，https://t.co/nlMeyvTWGu",
+      "retweeted_status_full_text": "早上好 https://t.co/nlMeyvTWGu"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @fintwit_news: 早上好，https://t.co/nlMeyvTWGu",
+      "retweeted_status_full_text": "早上好 https://t.co/nlMeyvTWGu"
+    }
+  ]
 }
