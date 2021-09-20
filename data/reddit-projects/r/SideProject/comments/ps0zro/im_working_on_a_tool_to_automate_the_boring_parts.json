@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "フロントエンド開発の退屈な部分を自動化するツールを作っています。"
+    },
+    {
+      "locale": "zh",
+      "title": "我正在开发一个工具，将前端开发的无聊部分自动化。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我正在開發一個工具，將前端開發的無聊部分自動化。"
+    }
+  ]
 }
