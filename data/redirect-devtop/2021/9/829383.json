@@ -52,5 +52,22 @@
   "original_created_at": "2021-09-17T09:32:51Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--T5nRud86--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kr35z8d44hlcq85s076k.png",
   "author": "Damir Drempetić",
-  "author_url": "https://dev.to/ddrempe"
+  "author_url": "https://dev.to/ddrempe",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "目次 第1章 create-react-libraryでライブラリを作る 第2章...",
+      "title": "独自のReactライブラリの作成と公開"
+    },
+    {
+      "locale": "zh",
+      "description": "目录 第一章 用create-react-library创建你的库 第二章...",
+      "title": "创建并发布你自己的React库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "目錄 第一章 用create-react-library創建你的庫 第二章...",
+      "title": "創建併發布你自己的React庫"
+    }
+  ]
 }
