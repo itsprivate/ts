@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] 州・県別の最低飲酒年齢 (保護者の承認のないアルコール販売施設)"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]各州/省的最低饮酒年龄（在未经家长批准的酒精销售场所）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]各州/省的最低飲酒年齡（在未經家長批准的酒精銷售場所）。"
+    }
+  ]
 }
