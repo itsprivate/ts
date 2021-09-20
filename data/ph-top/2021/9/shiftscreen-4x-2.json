@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-20T07:01:00Z"
+  "original_createdAt": "2021-09-20T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "iPadをモニターに接続すると、モニターがiPadのセカンドスクリーンに早変わりします。",
+      "tagline": "iPadをデスクトップPCにする"
+    },
+    {
+      "locale": "zh",
+      "description": "将你的iPad连接到你的显示器上，将你的显示器变成你的iPad的第二个屏幕!",
+      "tagline": "把你的iPad变成一台桌面电脑"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "將你的iPad連接到你的顯示器上，將你的顯示器變成你的iPad的第二個屏幕!",
+      "tagline": "把你的iPad變成一臺桌面電腦"
+    }
+  ]
 }
