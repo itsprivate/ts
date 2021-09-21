@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これは私の母の犬、ディキシーです。見た目通りのお利口さんです。"
+    },
+    {
+      "locale": "zh",
+      "title": "这是我妈妈的狗，迪克西。她和她的外表一样聪明。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是我媽媽的狗，迪克西。她和她的外表一樣聰明。"
+    }
+  ]
 }
