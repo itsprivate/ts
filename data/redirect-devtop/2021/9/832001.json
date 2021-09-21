@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-20T05:00:56Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0s6TkJ-4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/slb8gi112cogx2xefq5j.png",
   "author": "Abhiraj Bhowmick",
-  "author_url": "https://dev.to/abhirajb"
+  "author_url": "https://dev.to/abhirajb",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "レスポンシブCSSフレームワークは、CSSをオンサイトで構築する際に、構築と作成に多くの労力と根気を要します。",
+      "title": "どのCSSフレームワークを使うべきか？"
+    },
+    {
+      "locale": "zh",
+      "description": "响应式CSS框架需要大量的工作和坚持，在构建CSS的时候，要创建...",
+      "title": "你应该使用哪个CSS框架？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "響應式CSS框架需要大量的工作和堅持，在構建CSS的時候，要創建...",
+      "title": "你應該使用哪個CSS框架？"
+    }
+  ]
 }
