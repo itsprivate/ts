@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この年寄りは、私たちが自分のために新しい子猫を採用したと思っている。"
+    },
+    {
+      "locale": "zh",
+      "title": "这个老家伙认为我们是为了他才收养的新小猫。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個老傢伙認爲我們是爲了他才收養的新小貓。"
+    }
+  ]
 }
