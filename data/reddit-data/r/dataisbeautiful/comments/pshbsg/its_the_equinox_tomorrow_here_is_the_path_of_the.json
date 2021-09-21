@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "明日は彼岸ですが、ここでは彼岸と夏至におけるヨーロッパ上空の太陽の道筋をご紹介します。[OC]"
+    },
+    {
+      "locale": "zh",
+      "title": "明天就是春分了，这里是欧洲在春分和夏至时节的太阳轨迹。[OC]"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "明天就是春分了，這裏是歐洲在春分和夏至時節的太陽軌跡。[OC]"
+    }
+  ]
 }
