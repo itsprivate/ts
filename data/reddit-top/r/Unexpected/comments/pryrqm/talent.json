@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"タレント\""
+    },
+    {
+      "locale": "zh",
+      "title": "\"人才\""
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"人才\""
+    }
+  ]
 }
