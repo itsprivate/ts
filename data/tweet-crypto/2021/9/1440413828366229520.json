@@ -74,5 +74,22 @@
     "retweet_count": 1459,
     "favorite_count": 3331,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @RWMaloneMD: \"なぜ子供たちにCOVID-19のワクチンを接種するのか？\"\nhttps://t.co/ZxCfkBWR1N",
+      "retweeted_status_full_text": "\"なぜCOVID-19を子供に接種するのか？\"\nhttps://t.co/ZxCfkBWR1N"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @RWMaloneMD: \"为什么我们要为儿童接种COVID-19疫苗？\"\nhttps://t.co/ZxCfkBWR1N",
+      "retweeted_status_full_text": "\"为什么我们要为儿童接种COVID-19疫苗？\"\nhttps://t.co/ZxCfkBWR1N"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @RWMaloneMD: \"爲什麼我們要爲兒童接種COVID-19疫苗？\"\nhttps://t.co/ZxCfkBWR1N",
+      "retweeted_status_full_text": "\"爲什麼我們要爲兒童接種COVID-19疫苗？\"\nhttps://t.co/ZxCfkBWR1N"
+    }
+  ]
 }
