@@ -52,5 +52,22 @@
   "original_created_at": "2021-09-20T11:25:54Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Mg8CgMOy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1pl2ldvbnas82823elw0.png",
   "author": "Deepankar Bhade",
-  "author_url": "https://dev.to/deepcodes"
+  "author_url": "https://dev.to/deepcodes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "React , Tailwind, 100ms SDKを使ってSlack huddle cloneを15分以内に構築する。",
+      "title": "ReactでSlackのhuddle cloneを作る"
+    },
+    {
+      "locale": "zh",
+      "description": "在15分钟内使用React、Tailwind和100ms SDKs建立一个Slack huddle克隆。",
+      "title": "在React中构建Slack huddle clone"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在15分鐘內使用React、Tailwind和100ms SDKs建立一個Slack huddle克隆。",
+      "title": "在React中構建Slack huddle clone"
+    }
+  ]
 }
