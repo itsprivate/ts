@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたは強盗に勧誘され、ユーザーネームがあなたのスキルになります。あなたはチームに何をもたらしますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你被招募参加抢劫活动，你的用户名就是你的技能。你能为团队带来什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你被招募參加搶劫活動，你的用戶名就是你的技能。你能爲團隊帶來什麼？"
+    }
+  ]
 }
