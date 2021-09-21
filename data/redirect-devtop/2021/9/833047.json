@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-20T17:03:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WNpip7k8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yz8tinfnefxmwt5m8xcg.png",
   "author": "Ramiro",
-  "author_url": "https://dev.to/ramgendeploy"
+  "author_url": "https://dev.to/ramgendeploy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "reduceメソッドは、配列の各項目に関数を適用し、その結果を反復的に蓄積していきます。",
+      "title": "10の例で学ぶJavascriptのReduceメソッド"
+    },
+    {
+      "locale": "zh",
+      "description": "减少方法将一个函数应用于数组的每一个项目，并将结果迭代累积...",
+      "title": "用10个例子学习Javascript的减少方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "減少方法將一個函數應用於數組的每一個項目，並將結果迭代累積...",
+      "title": "用10個例子學習Javascript的減少方法"
+    }
+  ]
 }
