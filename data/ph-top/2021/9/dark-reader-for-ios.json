@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-21T07:02:06Z"
+  "original_createdAt": "2021-09-21T07:02:06Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "iOS 15を搭載したiPhoneとiPadでは、すべてのウェブサイトにダークモードを適用できます。暗い、薄暗い、カラフルなテーマを選べます。あなたの目を大切にしましょう",
+      "tagline": "すべてのAppleデバイスでダークモードを楽しめる"
+    },
+    {
+      "locale": "zh",
+      "description": "运行iOS 15的iPhone和iPad上的每个网站都有黑暗模式。选择一个黑暗的、暗淡的或彩色的主题。照顾好你的眼睛!",
+      "tagline": "在所有苹果设备上享受黑暗模式"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "運行iOS 15的iPhone和iPad上的每個網站都有黑暗模式。選擇一個黑暗的、暗淡的或彩色的主題。照顧好你的眼睛!",
+      "tagline": "在所有蘋果設備上享受黑暗模式"
+    }
+  ]
 }

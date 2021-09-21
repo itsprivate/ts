@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-21T07:01:00Z"
+  "original_createdAt": "2021-09-21T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "GrowthBarは、マーケッターやブロガーがキーワードを発見し、SEOに最適化されたブログコンテンツを書くために作られたSEOツールです。GrowthBarのアルゴリズムはGPT-3と大規模なデータセットを使用しており、Google検索での上位表示をサポートします。",
+      "tagline": "Googleが好むSEOコンテンツを作る"
+    },
+    {
+      "locale": "zh",
+      "description": "GrowthBar是一个为营销人员和博主建立的SEO工具，用于发现关键词和编写SEO优化的博客内容。GrowthBar的算法使用GPT-3和大型数据集来帮助你在谷歌搜索中获得更高的排名。",
+      "tagline": "制作谷歌喜欢的SEO内容"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "GrowthBar是一個爲營銷人員和博主建立的SEO工具，用於發現關鍵詞和編寫SEO優化的博客內容。GrowthBar的算法使用GPT-3和大型數據集來幫助你在谷歌搜索中獲得更高的排名。",
+      "tagline": "製作谷歌喜歡的SEO內容"
+    }
+  ]
 }
