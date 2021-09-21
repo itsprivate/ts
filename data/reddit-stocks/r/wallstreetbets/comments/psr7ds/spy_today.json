@@ -117,5 +117,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1632255870,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今日の$SPY"
+    },
+    {
+      "locale": "zh",
+      "title": "今天的$SPY"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "今天的$SPY"
+    }
+  ]
 }
