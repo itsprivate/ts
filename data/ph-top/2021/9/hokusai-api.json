@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-21T11:45:30Z"
+  "original_createdAt": "2021-09-21T11:45:30Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "北斎APIは、ブロックチェーンの知識がなくても、NFT製品を今までよりも早く、簡単に出荷することができる組み込み型のNFTサービスです。NFTのマイニング、トランスファー、バーニング、ロイヤリティの設定など、ガスフリーでシンプルなAPIソリューションを提供します。",
+      "tagline": "インターネットのためのNFTのインフラ"
+    },
+    {
+      "locale": "zh",
+      "description": "Hokusai API是一个嵌入式的NFT服务，使你能够在没有区块链知识的情况下比以往更快、更容易地运送你的NFT产品。我们为NFT的铸币、转移、燃烧和设置版税提供无气和简单的API解决方案。",
+      "tagline": "互联网的NFT基础设施"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Hokusai API是一個嵌入式的NFT服務，使你能夠在沒有區塊鏈知識的情況下比以往更快、更容易地運送你的NFT產品。我們爲NFT的鑄幣、轉移、燃燒和設置版稅提供無氣和簡單的API解決方案。",
+      "tagline": "互聯網的NFT基礎設施"
+    }
+  ]
 }
