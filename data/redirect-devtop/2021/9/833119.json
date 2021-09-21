@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-20T19:12:02Z",
   "image": "https://dev.to/social_previews/article/833119.png",
   "author": "Pierre Ouannes",
-  "author_url": "https://dev.to/pierreouannes"
+  "author_url": "https://dev.to/pierreouannes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactにおける状態の管理は、Reactのウェブサイト.... を開発する際に直面する主要な問題のひとつです。",
+      "title": "ReactのuseReducerフックをプロ並みに使いこなす方法"
+    },
+    {
+      "locale": "zh",
+      "description": "在React中管理状态是你在开发React网站时将面临的主要问题之一....。",
+      "title": "如何像专家一样使用React的useReducer钩子"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在React中管理狀態是你在開發React網站時將面臨的主要問題之一....。",
+      "title": "如何像專家一樣使用React的useReducer鉤子"
+    }
+  ]
 }
