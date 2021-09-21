@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "なぜなら、実際には底がないからです"
+    },
+    {
+      "locale": "zh",
+      "title": "因为没有实际的底部!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "因爲沒有實際的底部!"
+    }
+  ]
 }
