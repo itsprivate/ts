@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "を使って、人間的にマウスをリリースすることができます。"
+    },
+    {
+      "locale": "zh",
+      "title": "以人为地释放一只老鼠。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "以人爲地釋放一隻老鼠。"
+    }
+  ]
 }
