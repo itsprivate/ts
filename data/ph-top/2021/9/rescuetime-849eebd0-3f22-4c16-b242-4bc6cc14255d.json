@@ -88,5 +88,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-20T16:00:00Z"
+  "original_createdAt": "2021-09-20T16:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "RescueTimeは、あなたの時間の使い方に光を当て、集中力を高め、最も重要なことのための時間をより多く確保できるようにすることで、集中した仕事の時間を守り、健全な境界線を設定し、ワーク・ライフ・バランスを実現するのに役立ちます。 https://www.rescuetime.com?utm_source=producthunt",
+      "tagline": "自分の時間をコントロールする"
+    },
+    {
+      "locale": "zh",
+      "description": "RescueTime帮助你保护集中的工作时间，设定健康的界限，并通过揭示你如何花费时间，提高你的注意力，并帮助你为最重要的事情找到更多时间，实现工作/生活的平衡。https://www.rescuetime.com?utm_source=producthunt。",
+      "tagline": "重新控制你的时间"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "RescueTime幫助你保護集中的工作時間，設定健康的界限，並通過揭示你如何花費時間，提高你的注意力，並幫助你爲最重要的事情找到更多時間，實現工作/生活的平衡。https://www.rescuetime.com?utm_source=producthunt。",
+      "tagline": "重新控制你的時間"
+    }
+  ]
 }

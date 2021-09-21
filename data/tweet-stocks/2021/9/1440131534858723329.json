@@ -62,5 +62,19 @@
   "retweet_count": 69,
   "favorite_count": 190,
   "possibly_sensitive": false,
-  "original_created_at": "Tue Sep 21 01:51:28 +0000 2021"
+  "original_created_at": "Tue Sep 21 01:51:28 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "これは何なんだ？\n https://t.co/tVcZrhIRfC"
+    },
+    {
+      "locale": "zh",
+      "full_text": "这他妈的是什么？\n https://t.co/tVcZrhIRfC"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "這他媽的是什麼？\n https://t.co/tVcZrhIRfC"
+    }
+  ]
 }
