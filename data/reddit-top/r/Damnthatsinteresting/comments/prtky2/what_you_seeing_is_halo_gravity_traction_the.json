@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが見ているのは、重度の脊柱管狭窄症の治療法であるHalo gravity tractionです。"
+    },
+    {
+      "locale": "zh",
+      "title": "你所看到的是Halo重力牵引对严重脊柱侧弯的治疗。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你所看到的是Halo重力牽引對嚴重脊柱側彎的治療。"
+    }
+  ]
 }

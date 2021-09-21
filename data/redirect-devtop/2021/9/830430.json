@@ -50,5 +50,22 @@
   "original_created_at": "2021-09-18T09:43:44Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0Lx4Bcnv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wlk4c0iq9xqfg0xgmzoy.png",
   "author": "Nitin Ranganath",
-  "author_url": "https://dev.to/itsnitinr"
+  "author_url": "https://dev.to/itsnitinr",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TL;DR: Driwwwleは、あなたのプロジェクトを「いいね！」「コメント」「...」で紹介するオープンソースのソーシャルネットワークです。",
+      "title": "開発者が自分のプロジェクトを紹介するためのソーシャルネットワークを作った"
+    },
+    {
+      "locale": "zh",
+      "description": "TL;DR: Driwwwle是一个开源的社交网络，可以用喜欢、评论来展示你的项目。",
+      "title": "我建立了一个社交网络，让开发者展示他们的项目"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "TL;DR: Driwwwle是一個開源的社交網絡，可以用喜歡、評論來展示你的項目。",
+      "title": "我建立了一個社交網絡，讓開發者展示他們的項目"
+    }
+  ]
 }

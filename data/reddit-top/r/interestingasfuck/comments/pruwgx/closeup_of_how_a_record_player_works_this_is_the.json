@@ -91,5 +91,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "レコードプレーヤーの仕組みをクローズアップ。これは針で、レコードには小さな溝があります。"
+    },
+    {
+      "locale": "zh",
+      "title": "唱片机的工作原理特写，这是唱针，小凹槽在唱片上!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "唱片機的工作原理特寫，這是唱針，小凹槽在唱片上!"
+    }
+  ]
 }

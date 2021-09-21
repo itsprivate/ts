@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "伝統の継承"
+    },
+    {
+      "locale": "zh",
+      "title": "传承传统"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "傳承傳統"
+    }
+  ]
 }
