@@ -41,5 +41,22 @@
   "original_created_at": "2021-09-21T06:27:36Z",
   "image": "https://dev.to/social_previews/article/833466.png",
   "author": "Insidious",
-  "author_url": "https://dev.to/insidiousthedev"
+  "author_url": "https://dev.to/insidiousthedev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、DEVコミュニティへの初投稿を歓迎します。  この投稿で私は...",
+      "title": "JS開発者のための優れたVSCode拡張機能"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，欢迎来到我在DEV社区的第一篇帖子   在这个帖子中，我将会...",
+      "title": "适用于JS开发者的伟大VSCode扩展"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，歡迎來到我在DEV社區的第一篇帖子   在這個帖子中，我將會...",
+      "title": "適用於JS開發者的偉大VSCode擴展"
+    }
+  ]
 }
