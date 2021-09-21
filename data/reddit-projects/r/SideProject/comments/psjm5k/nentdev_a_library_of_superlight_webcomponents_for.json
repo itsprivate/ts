@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "NENT.dev - スクリプトを使わずにWebアプリの機能（SPA、ルーティング、データバインディングなど）を実現する超軽量Webコンポーネントのライブラリ（さらに、フレームワークやビルドプロセスも不要）。"
+    },
+    {
+      "locale": "zh",
+      "title": "NENT.dev - 一个超轻网络组件库，用于实现网络应用程序的功能（SPA、路由、数据绑定等），不需要脚本（另外不需要框架或构建过程）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "NENT.dev - 一個超輕網絡組件庫，用於實現網絡應用程序的功能（SPA、路由、數據綁定等），不需要腳本（另外不需要框架或構建過程）。"
+    }
+  ]
 }
