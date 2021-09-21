@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "待って"
+    },
+    {
+      "locale": "zh",
+      "title": "等待"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "等待"
+    }
+  ]
 }

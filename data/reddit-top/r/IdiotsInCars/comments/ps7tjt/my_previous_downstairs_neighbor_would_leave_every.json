@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "以前住んでいた階下のお隣さんは、毎朝このように帰っていました。理由はわからなかった。"
+    },
+    {
+      "locale": "zh",
+      "title": "我以前的楼下邻居每天早上都会像这样离开。我一直不明白为什么。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我以前的樓下鄰居每天早上都會像這樣離開。我一直不明白爲什麼。"
+    }
+  ]
 }
