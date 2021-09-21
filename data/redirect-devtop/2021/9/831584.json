@@ -43,5 +43,22 @@
   "original_created_at": "2021-09-19T19:24:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--E2ODBOUR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fydar6nz20bjmr07ouq1.png",
   "author": "Shreya Purohit",
-  "author_url": "https://dev.to/shreya"
+  "author_url": "https://dev.to/shreya",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "読者の皆さん、こんにちは。このブログでは、ES6についてご紹介します。このブログでは、ES6に関連するすべてのトピックを例とともに紹介します。その前に...",
+      "title": "ES6ハンドブック。知っておきたいES6の基礎知識"
+    },
+    {
+      "locale": "zh",
+      "description": "嗨，读者朋友们! 这个博客是关于ES6的。它包括所有与实例相关的主题。之前...",
+      "title": "ES6手册。你需要知道的一切"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嗨，讀者朋友們! 這個博客是關於ES6的。它包括所有與實例相關的主題。之前...",
+      "title": "ES6手冊。你需要知道的一切"
+    }
+  ]
 }
