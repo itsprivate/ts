@@ -108,5 +108,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-21T08:01:00Z"
+  "original_createdAt": "2021-09-21T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "NativeBaseは、Android、iOS、Webで一貫したUIを構築するための、アクセス可能でユーティリティーファーストなコンポーネントライブラリです。同じコードベースで、レスポンシブ、パフォーマンスト、ダークモードに対応したウェブサイトとネイティブ・モバイル・アプリケーションを構築することができます。",
+      "tagline": "React NativeとWebのためのモバイルファースト、アクセシブルなコンポーネント"
+    },
+    {
+      "locale": "zh",
+      "description": "NativeBase是一个可访问的，实用至上的组件库，帮助你在Android，iOS和Web上建立一致的UI。它可以用相同的代码库建立响应性强、性能好、支持黑暗模式的网站和本地移动应用程序。",
+      "tagline": "移动优先，React Native & Web的无障碍组件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "NativeBase是一個可訪問的，實用至上的組件庫，幫助你在Android，iOS和Web上建立一致的UI。它可以用相同的代碼庫建立響應性強、性能好、支持黑暗模式的網站和本地移動應用程序。",
+      "tagline": "移動優先，React Native & Web的無障礙組件"
+    }
+  ]
 }
