@@ -35,5 +35,22 @@
   "original_created_at": "2021-09-20T13:10:01Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wtJg-VfL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lgkdq8aavdjke24lefyy.png",
   "author": "Jorge Castro",
-  "author_url": "https://dev.to/jorgecc"
+  "author_url": "https://dev.to/jorgecc",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "PHPを使ったことを後悔しています。 今、3年ほどかけて作った大規模なプロジェクトを終えて、その...",
+      "title": "PHPを使ったことを後悔している"
+    },
+    {
+      "locale": "zh",
+      "description": "我很后悔使用PHP。 现在，我完成了一个巨大的项目（大约3年的时间），并且在这个项目中，我发现了一个新的问题。",
+      "title": "我后悔使用PHP"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我很後悔使用PHP。 現在，我完成了一個巨大的項目（大約3年的時間），並且在這個項目中，我發現了一個新的問題。",
+      "title": "我後悔使用PHP"
+    }
+  ]
 }

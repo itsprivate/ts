@@ -121,5 +121,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] 2021年1月以降のワシントン州におけるCOVID-19症例のエクセルによる進行状況（州保健局の週報による"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]从2021年1月起，华盛顿州卫生部每周报告的COVID-19病例的Excel进展情况"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]從2021年1月起，華盛頓州衛生部每週報告的COVID-19病例的Excel進展情況"
+    }
+  ]
 }
