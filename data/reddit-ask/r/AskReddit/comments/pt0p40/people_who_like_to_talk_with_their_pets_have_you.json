@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ペットと話をするのが好きな人は、ペットに自分の名前を言ったことがありますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "喜欢和宠物交流的人，你有没有告诉过你的宠物你叫什么名字？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "喜歡和寵物交流的人，你有沒有告訴過你的寵物你叫什麼名字？"
+    }
+  ]
 }
