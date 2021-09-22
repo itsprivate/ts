@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-21T21:43:32Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jg8suwcZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1530257406797-b63a92f66670%3Fixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26ixlib%3Drb-1.2.1%26auto%3Dformat%26fit%3Dcrop%26w%3D1003%26q%3D80",
   "author": "Benjamin Delespierre",
-  "author_url": "https://dev.to/bdelespierre"
+  "author_url": "https://dev.to/bdelespierre",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このクイックチュートリアルでは、Laravelアプリをモジュール式アーキテクチャにするための簡単なステップをいくつか紹介します。",
+      "title": "モジュール化を実現するためにLaravelをハックする"
+    },
+    {
+      "locale": "zh",
+      "description": "这个快速教程将引导你通过一小部分简单的步骤，将你的Laravel应用变成一个模块化的架构",
+      "title": "黑掉Laravel以实现模块化"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這個快速教程將引導你通過一小部分簡單的步驟，將你的Laravel應用變成一個模塊化的架構",
+      "title": "黑掉Laravel以實現模塊化"
+    }
+  ]
 }
