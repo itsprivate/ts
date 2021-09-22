@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "一日中ビットコインのチャートを見ている私。"
+    },
+    {
+      "locale": "zh",
+      "title": "我整天都在看比特币图表。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我整天都在看比特幣圖表。"
+    }
+  ]
 }
