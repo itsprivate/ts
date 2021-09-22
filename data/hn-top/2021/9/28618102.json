@@ -13,5 +13,19 @@
   ],
   "objectID": "28618102",
   "original_created_at": "2021-09-22T16:11:57.000Z",
-  "image": "https://www.spookjs.com/img/spook-js.svg"
+  "image": "https://www.spookjs.com/img/spook-js.svg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "スプーク。パスワードマネージャのメモリを読み取るサイドチャネル攻撃"
+    },
+    {
+      "locale": "zh",
+      "title": "幽灵。侧信道攻击，可以读取密码管理器的内存"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "幽靈。側信道攻擊，可以讀取密碼管理器的內存"
+    }
+  ]
 }
