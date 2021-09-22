@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-20T07:36:43Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_uVXVvJV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kzbiuokp1iczvxbn8o2n.jpg",
   "author": "Alex Devero",
-  "author_url": "https://dev.to/alexdevero"
+  "author_url": "https://dev.to/alexdevero",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Formikは、フォームを作成するための最も人気のあるライブラリの一つです。Formikは、開発者が多くの...",
+      "title": "FormikでReactフォームを構築する3つの方法 Pt.1"
+    },
+    {
+      "locale": "zh",
+      "description": "Formik是用于构建表单的最流行的库之一。它可以帮助开发者完成大量的工作...",
+      "title": "用Formik构建React表单的3种方法 Pt.1"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Formik是用於構建表單的最流行的庫之一。它可以幫助開發者完成大量的工作...",
+      "title": "用Formik構建React表單的3種方法 Pt.1"
+    }
+  ]
 }
