@@ -41,5 +41,22 @@
   "original_created_at": "2021-09-16T20:25:51Z",
   "image": "https://dev.to/social_previews/article/828605.png",
   "author": "Stefi Rosca",
-  "author_url": "https://dev.to/stefirosca"
+  "author_url": "https://dev.to/stefirosca",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "1. console.logのスタイル設定 これは必要でしょうか？おそらく必要ないと思いますが、もしあなたがコンソールログを残したいのであれば...",
+      "title": "✨ console.log()の出力を目立たせる7つのTips&Tips"
+    },
+    {
+      "locale": "zh",
+      "description": "1. 设计你的console.log 有必要这样做吗？可能不需要，但如果你想留下一个...",
+      "title": "✨ 7个技巧和窍门，让你的console.log()输出脱颖而出"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "1. 設計你的console.log 有必要這樣做嗎？可能不需要，但如果你想留下一個...",
+      "title": "✨ 7個技巧和竅門，讓你的console.log()輸出脫穎而出"
+    }
+  ]
 }
