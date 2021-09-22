@@ -103,5 +103,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1632273335,
-  "the_new_excerpt": "Because it's about time for my regular purchase with a pay check. My market\ntiming happens every 2 weeks."
+  "the_new_excerpt": "Because it's about time for my regular purchase with a pay check. My market\ntiming happens every 2 weeks.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "そろそろ給料明細で定期的に購入する時期だから。私のマーケット\nタイミングは2週間に1度。",
+      "title": "ディップを買います!"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "因为现在是我用工资支票定期购买的时候了。我的市场\n的时机每2周发生一次。",
+      "title": "我买下了这个蘸酱!"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "因爲現在是我用工資支票定期購買的時候了。我的市場\n的時機每2周發生一次。",
+      "title": "我買下了這個蘸醬!"
+    }
+  ]
 }
