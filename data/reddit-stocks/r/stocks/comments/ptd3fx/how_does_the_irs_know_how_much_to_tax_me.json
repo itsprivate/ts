@@ -104,5 +104,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1632333426,
-  "the_new_excerpt": "I am fairly new to trading. Let's say I made $1000 capital gains and I cash out\nafter 3 months. Let's assume that I also have a low income. How will the IRS\nknow how much I get taxed if I am using a brokerage like Public, Webull or\nRobinhood?\n\nDoes it have to do with my SSN?"
+  "the_new_excerpt": "I am fairly new to trading. Let's say I made $1000 capital gains and I cash out\nafter 3 months. Let's assume that I also have a low income. How will the IRS\nknow how much I get taxed if I am using a brokerage like Public, Webull or\nRobinhood?\n\nDoes it have to do with my SSN?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私はトレーディングのかなりの初心者です。例えば、1000ドルのキャピタルゲインを得て、3ヶ月後にキャッシュアウトしたとします。\n3ヶ月後にキャッシュアウトしたとします。また、私は収入が少ないと仮定します。私が証券会社を利用している場合、IRSはどうやって\nPublic、Webull、Robinhoodなどの証券会社を利用している場合、IRSはどのようにして私の課税額を知ることができるのでしょうか？\nRobinhoodのような証券会社を利用している場合、IRSはどのように私の課税額を知るのでしょうか？\n\nそれは私のSSNと関係がありますか？",
+      "title": "国税庁はどのようにして私への課税額を知るのですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我对交易相当陌生。假设我赚了1000美元的资本收益，我在3个月后兑现了\n3个月后兑现。我们假设我的收入也很低。国税局将如何\n如果我使用像Public、Webull或Robinhood这样的经纪公司，国税局如何知道我被征收多少税？\nRobinhood？\n\n这与我的SSN有关系吗？",
+      "title": "国税局如何知道要向我征收多少税？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我對交易相當陌生。假設我賺了1000美元的資本收益，我在3個月後兌現了\n3個月後兌現。我們假設我的收入也很低。國稅局將如何\n如果我使用像Public、Webull或Robinhood這樣的經紀公司，國稅局如何知道我被徵收多少稅？\nRobinhood？\n\n這與我的SSN有關係嗎？",
+      "title": "國稅局如何知道要向我徵收多少稅？"
+    }
+  ]
 }
