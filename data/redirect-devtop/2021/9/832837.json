@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-20T14:18:32Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TPE7VUTf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sldk21xh0qw9m0p5gy70.png",
   "author": "Rohith Gilla",
-  "author_url": "https://dev.to/gillarohith"
+  "author_url": "https://dev.to/gillarohith",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに Notionは、1つのデバイスでできることの可能性を大きく広げてくれます。",
+      "title": "NotionとKelvin DataによるパーソナルCRMの自動化"
+    },
+    {
+      "locale": "zh",
+      "description": "简介：\"概念 \"为我们提供了一个巨大的可能性，即我们可以用一个人做什么。",
+      "title": "用Notion和Kelvin Data实现个人CRM的自动化"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介：\"概念 \"爲我們提供了一個巨大的可能性，即我們可以用一個人做什麼。",
+      "title": "用Notion和Kelvin Data實現個人CRM的自動化"
+    }
+  ]
 }
