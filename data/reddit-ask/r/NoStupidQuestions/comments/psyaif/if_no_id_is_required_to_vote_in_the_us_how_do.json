@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "I’m not from the US and it bugs me"
+  "the_new_excerpt": "I’m not from the US and it bugs me",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私はアメリカ人ではありませんが、それは私を悩ませます。",
+      "title": "アメリカでは投票の際にIDが必要ない場合、複数回の投票をどうやって防ぐのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我不是来自美国，这让我很不爽",
+      "title": "如果在美国投票不需要身份证，他们如何防止人们投票超过一次？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我不是來自美國，這讓我很不爽",
+      "title": "如果在美國投票不需要身份證，他們如何防止人們投票超過一次？"
+    }
+  ]
 }
