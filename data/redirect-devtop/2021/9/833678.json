@@ -57,5 +57,22 @@
   "original_created_at": "2021-09-21T09:22:36Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6ulh9PBq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vr0smogdtboctsvwgbjo.png",
   "author": "Saji Wang",
-  "author_url": "https://dev.to/sewangco"
+  "author_url": "https://dev.to/sewangco",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "執筆：ダン・パリー  データベース管理システム（DBMS）は、一言で言えば、...に使用されるツールのコレクションです。",
+      "title": "SQLite、PostgreSQL、MySQLのどれを使うべきか？"
+    },
+    {
+      "locale": "zh",
+      "description": "作者：Dan Parry。 数据库管理系统（DBMS），简而言之，是用来处理数据的工具集合。",
+      "title": "我应该使用SQLite，PostgreSQL，还是MySQL？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "作者：Dan Parry。 數據庫管理系統（DBMS），簡而言之，是用來處理數據的工具集合。",
+      "title": "我應該使用SQLite，PostgreSQL，還是MySQL？"
+    }
+  ]
 }
