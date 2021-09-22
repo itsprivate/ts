@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-20T20:54:45Z",
   "image": "https://dev.to/social_previews/article/833140.png",
   "author": "Jake Wiesler",
-  "author_url": "https://dev.to/jakewies"
+  "author_url": "https://dev.to/jakewies",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私は、あなたがこれを読んでいるのは、次の理由からだと仮定します。",
+      "title": "スーパーヒーローのようにドットファイルを管理する"
+    },
+    {
+      "locale": "zh",
+      "description": "我假设你正在阅读这篇文章，因为：你有一个或多个dotfiles躺在身边，并且...",
+      "title": "像超级英雄一样管理你的Dotfiles"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我假設你正在閱讀這篇文章，因爲：你有一個或多個dotfiles躺在身邊，並且...",
+      "title": "像超級英雄一樣管理你的Dotfiles"
+    }
+  ]
 }
