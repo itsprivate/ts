@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-20T22:04:16Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Cn2aHv4Q--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/04kcyt950d3jyfp2p5ea.png",
   "author": "Joe Ziemba",
-  "author_url": "https://dev.to/justmyrealname"
+  "author_url": "https://dev.to/justmyrealname",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ES6は「モダンなjavascript」とほぼ同義であり、それは当然のことです。それが2015年に「...",
+      "title": "ES6から今日までのJavaScript"
+    },
+    {
+      "locale": "zh",
+      "description": "ES6几乎是 \"现代javascript \"的同义词，这是很正确的。当它在2015年下降为...",
+      "title": "从ES6到今天的JavaScript"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "ES6幾乎是 \"現代javascript \"的同義詞，這是很正確的。當它在2015年下降爲...",
+      "title": "從ES6到今天的JavaScript"
+    }
+  ]
 }
