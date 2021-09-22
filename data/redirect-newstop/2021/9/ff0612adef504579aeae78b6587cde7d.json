@@ -14,5 +14,19 @@
   "tags": [
     "The New York Times"
   ],
-  "image": "https://static01.nyt.com/images/2021/09/22/world/22oz-earthquake/22oz-earthquake-facebookJumbo.jpg"
+  "image": "https://static01.nyt.com/images/2021/09/22/world/22oz-earthquake/22oz-earthquake-facebookJumbo.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "オーストラリア南東部で地震が発生し、メルボルンの建物に被害が発生"
+    },
+    {
+      "locale": "zh",
+      "title": "澳大利亚东南部发生地震，墨尔本的建筑物受损"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "澳大利亞東南部發生地震，墨爾本的建築物受損"
+    }
+  ]
 }
