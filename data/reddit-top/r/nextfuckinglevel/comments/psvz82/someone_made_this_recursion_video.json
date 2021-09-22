@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "誰かが作った再帰性のビデオ"
+    },
+    {
+      "locale": "zh",
+      "title": "有人做了这个递归的视频"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有人做了這個遞歸的視頻"
+    }
+  ]
 }
