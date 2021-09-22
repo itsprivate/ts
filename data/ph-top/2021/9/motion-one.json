@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-22T07:30:00Z"
+  "original_createdAt": "2021-09-22T07:30:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Motion Oneは、Framer MotionやPopmotionを開発したクリエイターによる新しいアニメーションライブラリです。Web Animations APIをベースに構築されており、最小のバンドルサイズとハードウェアアクセラレーションによるアニメーションを実現しています。",
+      "tagline": "みんなのウェブアニメーションAPI"
+    },
+    {
+      "locale": "zh",
+      "description": "Motion One是一个新的动画库，由Framer Motion和Popmotion的创建者开发。它建立在Web Animations API上，用于最小的捆绑和硬件加速的动画。",
+      "tagline": "面向所有人的网络动画API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Motion One是一個新的動畫庫，由Framer Motion和Popmotion的創建者開發。它建立在Web Animations API上，用於最小的捆綁和硬件加速的動畫。",
+      "tagline": "面向所有人的網絡動畫API"
+    }
+  ]
 }
