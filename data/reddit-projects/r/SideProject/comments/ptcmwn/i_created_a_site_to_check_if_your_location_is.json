@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "自分の位置情報が実際に（VPNを使っても）隠されているかどうかをチェックするサイトを作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我创建了一个网站来检查你的位置是否真的被隐藏（即使有VPN）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我創建了一個網站來檢查你的位置是否真的被隱藏（即使有VPN）。"
+    }
+  ]
 }
