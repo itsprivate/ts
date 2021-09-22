@@ -43,5 +43,22 @@
   "original_created_at": "2021-09-20T19:13:26Z",
   "image": "https://dev.to/social_previews/article/833120.png",
   "author": "Cory LaViska",
-  "author_url": "https://dev.to/claviska"
+  "author_url": "https://dev.to/claviska",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コンポーネントというと、フレームワークに属するものと考えがちです。結局のところ、Reactにはコンポーネントがあり、...",
+      "title": "Web Components Librariesの使用について"
+    },
+    {
+      "locale": "zh",
+      "description": "我们倾向于认为组件是属于一个框架的东西。毕竟，React有组件，...",
+      "title": "关于使用网络组件库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們傾向於認爲組件是屬於一個框架的東西。畢竟，React有組件，...",
+      "title": "關於使用網絡組件庫"
+    }
+  ]
 }
