@@ -52,5 +52,22 @@
   "original_created_at": "2021-09-21T07:23:45Z",
   "image": "https://dev.to/social_previews/article/833491.png",
   "author": "Michael Kohl",
-  "author_url": "https://dev.to/citizen428"
+  "author_url": "https://dev.to/citizen428",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "すでに発表されているように、私たちはConnectを終了します。この方向性の第一歩として、今後は...",
+      "title": "コネクト非推奨のステップ1：リストアップ"
+    },
+    {
+      "locale": "zh",
+      "description": "正如之前宣布的那样，我们将关闭 \"连接\"。作为朝着这个方向迈出的第一步，它现在将不再是 \"连接\"。",
+      "title": "连接废除的步骤1：列表"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "正如之前宣佈的那樣，我們將關閉 \"連接\"。作爲朝着這個方向邁出的第一步，它現在將不再是 \"連接\"。",
+      "title": "連接廢除的步驟1：列表"
+    }
+  ]
 }
