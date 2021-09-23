@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "史上最高の復活劇"
+    },
+    {
+      "locale": "zh",
+      "title": "有史以来最好的回归"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有史以來最好的迴歸"
+    }
+  ]
 }
