@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このボートの摩耗や擦れ跡は、まるで海に浮かぶ島のようだ。"
+    },
+    {
+      "locale": "zh",
+      "title": "这艘船的磨损和擦痕看起来就像大海中的一个小岛。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這艘船的磨損和擦痕看起來就像大海中的一個小島。"
+    }
+  ]
 }
