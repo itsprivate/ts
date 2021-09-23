@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-22T12:42:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wn3hHH27--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/76x5mioeudciryfb30x6.jpg",
   "author": "Lucian Tartea",
-  "author_url": "https://dev.to/luciantartea"
+  "author_url": "https://dev.to/luciantartea",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "巷では、一定のロードマップに沿って多くのことを学ばなければならないという誤解があります。",
+      "title": "HTMLとCSSだけで30日間で製品を作り、発売するところを見てみましょう。"
+    },
+    {
+      "locale": "zh",
+      "description": "坊间流传着一种误解，认为你需要遵循某种路线图并学习大量的...",
+      "title": "看我只用HTML和CSS就能在30天内建立一个产品并上市"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "坊間流傳着一種誤解，認爲你需要遵循某種路線圖並學習大量的...",
+      "title": "看我只用HTML和CSS就能在30天內建立一個產品並上市"
+    }
+  ]
 }
