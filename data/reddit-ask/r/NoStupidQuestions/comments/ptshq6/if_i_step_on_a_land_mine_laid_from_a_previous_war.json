@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "過去の戦争で敷設された地雷を踏んでしまった場合、その戦争の犠牲者とみなされるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果我踩到了以前战争中埋下的地雷，我是否会被认为是那场战争的牺牲品？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果我踩到了以前戰爭中埋下的地雷，我是否會被認爲是那場戰爭的犧牲品？"
+    }
+  ]
 }
