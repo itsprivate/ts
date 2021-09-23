@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-21T22:52:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sbmJX9BV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d2kflp5t0kl302gfq567.jpg",
   "author": "Andrew Luca",
-  "author_url": "https://dev.to/iamandrewluca"
+  "author_url": "https://dev.to/iamandrewluca",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今日、WEBの世界は急速に変化しています。react-router v6はすでにベータ版が公開されており、間近に迫っています。....",
+      "title": "react-router v6でのプライベートルートの設定"
+    },
+    {
+      "locale": "zh",
+      "description": "如今WEB领域的事情变化很快，react-router v6已经进入测试阶段，而且就在拐角处....。",
+      "title": "🔐 react-router v6中的私有路线"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如今WEB領域的事情變化很快，react-router v6已經進入測試階段，而且就在拐角處....。",
+      "title": "🔐 react-router v6中的私有路線"
+    }
+  ]
 }
