@@ -57,5 +57,22 @@
   "original_created_at": "2021-09-20T11:17:54Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fePM2NZg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pz24uukfh20o8tw8rffz.jpeg",
   "author": "Raffaele Pizzari",
-  "author_url": "https://dev.to/pixari"
+  "author_url": "https://dev.to/pixari",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ユーザーマニュアルを共有することで、チームメイトのことを知り、効果的に仕事をする方法を知ることができます。",
+      "title": "チームに参加するとき、またはチームを作るときに最初にすべきこと"
+    },
+    {
+      "locale": "zh",
+      "description": "通过分享用户手册，了解你的队友以及如何有效地与他们合作。",
+      "title": "加入或建立一个团队时要做的第一件事"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "通過分享用戶手冊，瞭解你的隊友以及如何有效地與他們合作。",
+      "title": "加入或建立一個團隊時要做的第一件事"
+    }
+  ]
 }
