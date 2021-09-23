@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Antimaskerが所有される"
+    },
+    {
+      "locale": "zh",
+      "title": "反面具人被拥有"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "反面具人被擁有"
+    }
+  ]
 }
