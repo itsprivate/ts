@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-22T19:50:45Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zDxO89Ol--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q18lyxlqsqho0l17vt5r.png",
   "author": "Adam Bradley",
-  "author_url": "https://dev.to/adamdbradley"
+  "author_url": "https://dev.to/adamdbradley",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "サードパーティースクリプトが楽しく過ごせる場所 パフォーマンスは常に最重要課題です。",
+      "title": "パーティータウンの紹介🎉。Web Workerからサードパーティのスクリプトを実行する"
+    },
+    {
+      "locale": "zh",
+      "description": "为你的第三方脚本挂出一个有趣的地点 性能总是任何一个人的首要考虑。",
+      "title": "介绍一下Partytown 🎉。从Web Worker中运行第三方脚本"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "爲你的第三方腳本掛出一個有趣的地點 性能總是任何一個人的首要考慮。",
+      "title": "介紹一下Partytown 🎉。從Web Worker中運行第三方腳本"
+    }
+  ]
 }
