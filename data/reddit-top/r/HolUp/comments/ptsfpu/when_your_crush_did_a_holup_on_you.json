@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "憧れの人があなたにHolUpしたとき"
+    },
+    {
+      "locale": "zh",
+      "title": "当你暗恋的人对你做了一个HolUp时"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當你暗戀的人對你做了一個HolUp時"
+    }
+  ]
 }
