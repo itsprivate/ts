@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "How are you doing? Do you have any advice for the people holding today?"
+  "the_new_excerpt": "How are you doing? Do you have any advice for the people holding today?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "調子はどうですか？今日会場にいる人たちに何かアドバイスはありますか？",
+      "title": "2017年以前のビットコインのアクティブな保有者はいますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你还好吗？你对今天持有的人有什么建议吗？",
+      "title": "我们是否有2017年以前的活跃的比特币持有人？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你還好嗎？你對今天持有的人有什麼建議嗎？",
+      "title": "我們是否有2017年以前的活躍的比特幣持有人？"
+    }
+  ]
 }
