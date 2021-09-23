@@ -107,5 +107,22 @@
     "retweet_count": 1463,
     "favorite_count": 10437,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @100trillionUSD: さて、#ビットコイン 12月の終値はどうなるのでしょうか？\n- S2Fモデルでは$100K\n- 時間モデル（対数回帰）では3万ドル\n次は...",
+      "retweeted_status_full_text": "さて、#bitcoin 12月の終値はどうなるのでしょうか？\n- S2Fモデルでは100Kドル\n- 時間モデル（対数回帰）では3万ドル\n次の2、3ヶ月は面白いことになりそうです。\nもちろん、私はS2Fに賭ける。https://t.co/ancKQ3FdEZ"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @100trillionUSD: 那么#比特币12月收盘价会是多少？\n- S2F模型说10万美金\n- 时间模型（对数回归）说30K美元\n下一篇...",
+      "retweeted_status_full_text": "那么#比特币12月收盘价会是多少？\n- S2F模型说是10万美元\n- 时间模型（对数回归）说30K美元\n接下来的几个月将是有趣的。\n当然，我的钱是在S2F上。https://t.co/ancKQ3FdEZ"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @100trillionUSD: 那麼#比特幣12月收盤價會是多少？\n- S2F模型說10萬美金\n- 時間模型（對數迴歸）說30K美元\n下一篇...",
+      "retweeted_status_full_text": "那麼#比特幣12月收盤價會是多少？\n- S2F模型說是10萬美元\n- 時間模型（對數迴歸）說30K美元\n接下來的幾個月將是有趣的。\n當然，我的錢是在S2F上。https://t.co/ancKQ3FdEZ"
+    }
+  ]
 }
