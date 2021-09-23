@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-22T16:52:37Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nLynxWG1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kbpaz844z3cahg6jblg2.jpg",
   "author": "Sanjeev Sharma",
-  "author_url": "https://dev.to/thesanjeevsharma"
+  "author_url": "https://dev.to/thesanjeevsharma",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは！👋 フロントエンド開発者の方、またはそれを目指している方は、きっとこのページをご覧になったことがあると思います。",
+      "title": "Just Redux: The Complete Guide"
+    },
+    {
+      "locale": "zh",
+      "description": "嘿！👋 如果你是一名前端开发员或有志成为一名前端开发员，我相信你可能已经来到了。",
+      "title": "刚性重述：完整指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嘿！👋 如果你是一名前端開發員或有志成爲一名前端開發員，我相信你可能已經來到了。",
+      "title": "剛性重述：完整指南"
+    }
+  ]
 }
