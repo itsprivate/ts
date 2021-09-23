@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私はエルサルバドル出身ですが、今日は初めてビットコインのATMからお金を引き出しました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我来自萨尔瓦多，今天是我第一次在比特币ATM机上取钱。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我來自薩爾瓦多，今天是我第一次在比特幣ATM機上取錢。"
+    }
+  ]
 }
