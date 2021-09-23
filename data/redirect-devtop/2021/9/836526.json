@@ -52,5 +52,22 @@
   "original_created_at": "2021-09-22T10:10:25Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ERwdI6Rg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5oavwb5tomh8mmn52bt1.jpg",
   "author": "Rubén Rubio",
-  "author_url": "https://dev.to/rubenrubiob"
+  "author_url": "https://dev.to/rubenrubiob",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに フィルミンでスタートする新しいプロジェクトは、堅牢なものにしたい。そのため、...",
+      "title": "PHPのライブラリとツール"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍 我们希望我们在Filmin开始的新项目是强大的。因此，...",
+      "title": "PHP库和工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹 我們希望我們在Filmin開始的新項目是強大的。因此，...",
+      "title": "PHP庫和工具"
+    }
+  ]
 }
