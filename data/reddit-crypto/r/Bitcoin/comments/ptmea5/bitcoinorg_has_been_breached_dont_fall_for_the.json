@@ -47,5 +47,19 @@
     }
   },
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Bitcoin.orgが侵害されました。詐欺に引っかからないように"
+    },
+    {
+      "locale": "zh",
+      "title": "Bitcoin.org已被攻破。不要上当受骗"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Bitcoin.org已被攻破。不要上當受騙"
+    }
+  ]
 }
