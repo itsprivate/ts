@@ -52,5 +52,22 @@
   "original_created_at": "2021-09-21T09:42:03Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Wjy9MAbW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i2hwf04s20zzztz4ofh5.jpg",
   "author": "Prosper Otemuyiwa",
-  "author_url": "https://dev.to/unicodeveloper"
+  "author_url": "https://dev.to/unicodeveloper",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ソフトウェアエンジニア、プログラマー、研究者は、日々コードを使用し、改修しています。  ざっと目を通しただけでも、...",
+      "title": "ソースグラフのコード検索 - 開発者の宝の山\n"
+    },
+    {
+      "locale": "zh",
+      "description": "软件工程师、程序员和研究人员每天都在使用和翻新代码。  快速浏览一下...",
+      "title": "Sourcegraph代码搜索 - 开发人员的宝库\n"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "軟件工程師、程序員和研究人員每天都在使用和翻新代碼。  快速瀏覽一下...",
+      "title": "Sourcegraph代碼搜索 - 開發人員的寶庫\n"
+    }
+  ]
 }
