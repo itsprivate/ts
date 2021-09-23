@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Netflixは、ロアルド・ダールの名作児童書の権利を作者の家族から買い取りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "Netflix已经从作者的家人那里买下了罗尔德-达尔的经典儿童书籍的版权。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Netflix已經從作者的家人那裏買下了羅爾德-達爾的經典兒童書籍的版權。"
+    }
+  ]
 }
