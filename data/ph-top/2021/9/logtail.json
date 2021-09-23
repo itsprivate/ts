@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-23T08:41:58Z"
+  "original_createdAt": "2021-09-23T08:41:58Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ClickHouseベースのSQL互換のログ管理。より多くのログを、より少ない費用で。",
+      "tagline": "データベースを検索するように、ログを検索する"
+    },
+    {
+      "locale": "zh",
+      "description": "基于ClickHouse的SQL兼容的日志管理。记录更多，支付更少。",
+      "tagline": "像查询数据库一样查询你的日志"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "基於ClickHouse的SQL兼容的日誌管理。記錄更多，支付更少。",
+      "tagline": "像查詢數據庫一樣查詢你的日誌"
+    }
+  ]
 }

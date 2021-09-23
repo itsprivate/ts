@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "バーバーは、顧客を77歳の見た目から27歳の見た目に変えます。"
+    },
+    {
+      "locale": "zh",
+      "title": "理发师将他的顾客从77岁变成27岁"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "理髮師將他的顧客從77歲變成27歲"
+    }
+  ]
 }
