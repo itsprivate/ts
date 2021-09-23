@@ -43,5 +43,22 @@
   "original_created_at": "2021-09-22T16:18:16Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--os9DYPO5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d3hgg1jny2imxei9lsto.jpg",
   "author": "Keerthi",
-  "author_url": "https://dev.to/keefdrive"
+  "author_url": "https://dev.to/keefdrive",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私はこれまで、React.jsのスターターファイルを作成するのに、npmコマンドのcreate-react-appに頼ってきました。",
+      "title": "Create react app vs Vite"
+    },
+    {
+      "locale": "zh",
+      "description": "我一直依赖npm命令create-react-app来为任何React.js创建启动文件。",
+      "title": "创建反应式应用程序与Vite"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我一直依賴npm命令create-react-app來爲任何React.js創建啓動文件。",
+      "title": "創建反應式應用程序與Vite"
+    }
+  ]
 }
