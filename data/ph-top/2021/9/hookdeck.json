@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-23T07:17:05Z"
+  "original_createdAt": "2021-09-23T07:17:05Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Hookdeck は Webhook に依存した信頼性の高い、テスト可能な、デバッグ可能なアプリケーションの構築とデプロイを簡単にします。私たちは webhook を本番環境で扱うために必要な複雑さや技術的な知識を抽象化します。",
+      "tagline": "Webhookを瞬時にかつ確実に管理することができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "Hookdeck使建立和部署可靠的、可测试的、可调试的、依赖webhooks的应用变得简单。我们对生产中处理webhooks所需的复杂性和技术知识进行抽象。",
+      "tagline": "即时和可靠地管理你的网络钩子"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Hookdeck使建立和部署可靠的、可測試的、可調試的、依賴webhooks的應用變得簡單。我們對生產中處理webhooks所需的複雜性和技術知識進行抽象。",
+      "tagline": "即時和可靠地管理你的網絡鉤子"
+    }
+  ]
 }

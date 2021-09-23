@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-23T07:08:36Z"
+  "original_createdAt": "2021-09-23T07:08:36Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "30以上のカラーパレットのコレクション、サイトプレビュー付き。",
+      "tagline": "30以上のカラーパレットのコレクション（プレビュー付き"
+    },
+    {
+      "locale": "zh",
+      "description": "收集了30多种颜色的调色板，并有网站预览。",
+      "tagline": "收集了30多种带有预览的调色板"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "收集了30多種顏色的調色板，並有網站預覽。",
+      "tagline": "收集了30多種帶有預覽的調色板"
+    }
+  ]
 }

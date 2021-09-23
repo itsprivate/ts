@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-23T07:01:00Z"
+  "original_createdAt": "2021-09-23T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "かつて私たちは、個人のブログを毎日のように読んでいました。インターネット上の小さなコーナーで、本物の声を発見し、楽しむことができたのです。Feeds Mageは、あなたがフォローしているTwitterから素敵なブログを見つけ出し、その魅力を再現します。",
+      "tagline": "Twitterのタイムラインに紛れ込んだ素晴らしいブログを発見することができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "我们曾经每天阅读个人博客，在互联网的小角落里发现和享受真实的声音。Feeds Mage通过从你的Twitter关注者中寻找伟大的博客，让我们重拾这种魔力。",
+      "tagline": "发现丢失在你的Twitter时间线上的伟大博客"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們曾經每天閱讀個人博客，在互聯網的小角落裏發現和享受真實的聲音。Feeds Mage通過從你的Twitter關注者中尋找偉大的博客，讓我們重拾這種魔力。",
+      "tagline": "發現丟失在你的Twitter時間線上的偉大博客"
+    }
+  ]
 }
