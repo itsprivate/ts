@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "それは気まずい"
+    },
+    {
+      "locale": "zh",
+      "title": "这很尴尬"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這很尷尬"
+    }
+  ]
 }
