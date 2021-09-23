@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-11T11:44:35Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cKjreKlB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1yuwijmkmubujdj7u0hs.gif",
   "author": "Code_Jedi",
-  "author_url": "https://dev.to/code_jedi"
+  "author_url": "https://dev.to/code_jedi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "前回のチュートリアルでは、カスタマイズ可能なバックエンドの操作を行うPHPスクリプトを作成しましたが、今回は、それに加えて...",
+      "title": "0から始めるPHPのバックエンド操作(Pt. 3 重い操作とAJAX)"
+    },
+    {
+      "locale": "zh",
+      "description": "在上一个教程中，我们制作了一个PHP脚本，执行可定制的后台操作，将...",
+      "title": "从0到英雄的PHP后台操作(Pt. 3 重度操作和AJAX)"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在上一個教程中，我們製作了一個PHP腳本，執行可定製的後臺操作，將...",
+      "title": "從0到英雄的PHP後臺操作(Pt. 3 重度操作和AJAX)"
+    }
+  ]
 }

@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-21T20:22:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZX3X_d5J--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z0xksqpxceizjvp67eg3.png",
   "author": "Ali Spittel",
-  "author_url": "https://dev.to/aspittel"
+  "author_url": "https://dev.to/aspittel",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "AWS Amplifyは、Next.js 10の機能をサポートし、インクリメンタルスタティック...",
+      "title": "Next.jsの3つの新機能とその活用法"
+    },
+    {
+      "locale": "zh",
+      "description": "AWS Amplify最近增加了对Next.js 10功能的支持，包括增量的静态功能。",
+      "title": "Next.js的三个新功能以及如何使用它们"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "AWS Amplify最近增加了對Next.js 10功能的支持，包括增量的靜態功能。",
+      "title": "Next.js的三個新功能以及如何使用它們"
+    }
+  ]
 }
