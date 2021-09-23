@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-20T22:27:04Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--A2NJxhwO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1h5tyhtffjd2cyueah9k.png",
   "author": "Nader Dabit",
-  "author_url": "https://dev.to/dabit3"
+  "author_url": "https://dev.to/dabit3",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "SupabaseとReactでGitHubの認証を可能にする",
+      "title": "10分でわかるチュートリアル - SupabaseとReactによるフルスタックGitHub認証"
+    },
+    {
+      "locale": "zh",
+      "description": "用Supabase和React启用GitHub认证",
+      "title": "10分钟教程 - 使用Supabase和React的全栈GitHub认证"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "用Supabase和React啓用GitHub認證",
+      "title": "10分鐘教程 - 使用Supabase和React的全棧GitHub認證"
+    }
+  ]
 }
