@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-22T15:30:47Z",
   "image": "https://dev.to/social_previews/article/836893.png",
   "author": "Alessio Michelini",
-  "author_url": "https://dev.to/darkmavis1980"
+  "author_url": "https://dev.to/darkmavis1980",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "X言語で概念を説明しているのを見ると、何をしているのかは理解できても、...と思うことが多々あります。",
+      "title": "JavascriptでのCurryingの使い方の実例"
+    },
+    {
+      "locale": "zh",
+      "description": "很多时候，我看到用X语言解释的概念，虽然我明白他们的作用，但我认为...",
+      "title": "一个关于如何在Javascript中使用Currying的实际例子"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "很多時候，我看到用X語言解釋的概念，雖然我明白他們的作用，但我認爲...",
+      "title": "一個關於如何在Javascript中使用Currying的實際例子"
+    }
+  ]
 }
