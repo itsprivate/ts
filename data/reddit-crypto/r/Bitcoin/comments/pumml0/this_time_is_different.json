@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "This Time is Different ™（今回は違う"
+    },
+    {
+      "locale": "zh",
+      "title": "This Time is Different ™"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "This Time is Different ™"
+    }
+  ]
 }
