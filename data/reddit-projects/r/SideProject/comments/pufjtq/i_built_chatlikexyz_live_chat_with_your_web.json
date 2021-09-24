@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私はchatlike.xyzを作りました - Discordを介してあなたのウェブ訪問者とのライブチャットです。"
+    },
+    {
+      "locale": "zh",
+      "title": "我建立了chatlike.xyz--通过Discord与你的网络游客进行即时聊天"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我建立了chatlike.xyz--通過Discord與你的網絡遊客進行即時聊天"
+    }
+  ]
 }
