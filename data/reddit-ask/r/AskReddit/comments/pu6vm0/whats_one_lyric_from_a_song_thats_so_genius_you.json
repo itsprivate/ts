@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "曲の中で、作者がどうやって思いついたのか想像もつかないような天才的な歌詞はありますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "有哪一首歌曲的歌词是如此的天才，你不可能想象作曲家是如何想出来的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有哪一首歌曲的歌詞是如此的天才，你不可能想象作曲家是如何想出來的？"
+    }
+  ]
 }

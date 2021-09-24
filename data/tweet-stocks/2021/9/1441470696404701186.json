@@ -149,5 +149,22 @@
       "favorite_count": 8797,
       "possibly_sensitive": false
     }
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @_rossbrennan SpaceEx",
+      "retweeted_status_full_text": "SpaceEx https://t.co/nesX0NetTu"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @_rossbrennan: 空间站",
+      "retweeted_status_full_text": "SpaceEx https://t.co/nesX0NetTu"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @_rossbrennan: 空間站",
+      "retweeted_status_full_text": "SpaceEx https://t.co/nesX0NetTu"
+    }
+  ]
 }
