@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ジャック・スパロウ"
+    },
+    {
+      "locale": "zh",
+      "title": "杰克-斯帕罗"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "傑克-斯帕羅"
+    }
+  ]
 }
