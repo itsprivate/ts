@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-23T05:01:50Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--L71j4qAA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/grsj4zkx863pzrlxael0.jpg",
   "author": "Christopher Glikpo",
-  "author_url": "https://dev.to/cglikpo"
+  "author_url": "https://dev.to/cglikpo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "有能なソフトウェア開発者になるためには、単にコーディングするだけではなく、自分に合ったものを見つけることが必要です。",
+      "title": "よりよいソフトウェア開発者になるために。初心者のためのガイド"
+    },
+    {
+      "locale": "zh",
+      "description": "作为一个合格的软件开发人员，需要的不仅仅是简单的编码，它还需要找到合适的方法。",
+      "title": "成为一个更好的软件开发人员。初学者的指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "作爲一個合格的軟件開發人員，需要的不僅僅是簡單的編碼，它還需要找到合適的方法。",
+      "title": "成爲一個更好的軟件開發人員。初學者的指南"
+    }
+  ]
 }
