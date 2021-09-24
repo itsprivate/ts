@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-22T08:13:45Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rrFemxf3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r71azkkh4mvqfh6r9w50.png",
   "author": "themeselection",
-  "author_url": "https://dev.to/theme_selection"
+  "author_url": "https://dev.to/theme_selection",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "役に立つReactJSリソースをお探しですか？ここでは、非常に有用なReactJSリソースのベストコレクションをご紹介します。",
+      "title": "究極のReactJSリソース🛠For Web Developers 2021👨💻。"
+    },
+    {
+      "locale": "zh",
+      "description": "寻找有用的ReactJS资源？那么这里是非常有用的ReactJS资源的最佳集合...",
+      "title": "终极ReactJS资源🛠为Web开发人员2021👨💻。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "尋找有用的ReactJS資源？那麼這裏是非常有用的ReactJS資源的最佳集合...",
+      "title": "終極ReactJS資源🛠爲Web開發人員2021👨💻。"
+    }
+  ]
 }
