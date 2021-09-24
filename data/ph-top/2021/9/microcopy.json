@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-23T13:12:04Z"
+  "original_createdAt": "2021-09-23T13:12:04Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "マイクロUXのコピーテキストを検索：スローガン、ヘッドライン、通知、CTA、エラーメッセージ、メール、アカウント設定など。",
+      "tagline": "ウェブサイトのショートコピー"
+    },
+    {
+      "locale": "zh",
+      "description": "搜索微观用户体验副本文本：口号、标题、通知、CTA、错误信息、电子邮件、账户偏好等等。",
+      "tagline": "为您的网站提供短文"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "搜索微觀用戶體驗副本文本：口號、標題、通知、CTA、錯誤信息、電子郵件、賬戶偏好等等。",
+      "tagline": "爲您的網站提供短文"
+    }
+  ]
 }
