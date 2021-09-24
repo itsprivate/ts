@@ -67,5 +67,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-24T07:00:00Z"
+  "original_createdAt": "2021-09-24T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ジムでのワークアウトを自動的に追跡 - ハンズフリーで! Train Fitnessは、Apple Watchの動きを利用して82以上のエクササイズをトラッキングします。履歴を保存したり、統計情報を表示したり、友達とワークアウトを共有したりできます",
+      "tagline": "AIによる自動運動検出＆レップカウント"
+    },
+    {
+      "locale": "zh",
+      "description": "自动跟踪您在健身房的锻炼情况--免于动手! Train Fitness利用您的Apple Watch的运动来追踪82种以上的运动。保存您的历史记录，查看统计资料，并与朋友分享您的锻炼情况",
+      "tagline": "利用人工智能自动检测运动和计算次数"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "自動跟蹤您在健身房的鍛鍊情況--免於動手! Train Fitness利用您的Apple Watch的運動來追蹤82種以上的運動。保存您的歷史記錄，查看統計資料，並與朋友分享您的鍛鍊情況",
+      "tagline": "利用人工智能自動檢測運動和計算次數"
+    }
+  ]
 }
