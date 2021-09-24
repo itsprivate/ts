@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-19T14:36:21Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2bbiIjGA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/masjo5s1q9yiuz17xssn.jpg",
   "author": "CodeOz",
-  "author_url": "https://dev.to/codeoz"
+  "author_url": "https://dev.to/codeoz",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今回は、スキルアップにつながるJSに関するニュースのヒントをご紹介します!          ...",
+      "title": "これらのヒントを使って、あなたのJSスキルを向上させてください。\n"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我将与你分享一些关于JS的新闻提示，这些提示可以提高你的技能!          ...",
+      "title": "利用这些技巧提高你的JS技能 #2\n"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我將與你分享一些關於JS的新聞提示，這些提示可以提高你的技能!          ...",
+      "title": "利用這些技巧提高你的JS技能 #2\n"
+    }
+  ]
 }
