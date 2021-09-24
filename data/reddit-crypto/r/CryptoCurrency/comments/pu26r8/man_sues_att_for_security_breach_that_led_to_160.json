@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "160イーサリアム（60万ドル）が盗まれたセキュリティ侵害で男性がAT&Tを提訴"
+    },
+    {
+      "locale": "zh",
+      "title": "男子起诉AT&T安全漏洞导致160个以太坊（600,000美元）被盗"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "男子起訴AT&T安全漏洞導致160個以太坊（600,000美元）被盜"
+    }
+  ]
 }
