@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-22T17:34:40Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--spb1C920--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kbrjj2lp4kp6duiwans8.png",
   "author": "Shikhar Sharma",
-  "author_url": "https://dev.to/ceoshikhar"
+  "author_url": "https://dev.to/ceoshikhar",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TLDR - Twesterは、React、Electron、Node.jsで構築されたフリーでオープンソースのデスクトップアプリで、以下のような機能を持っています。",
+      "title": "1ヶ月以上かけて作っていたアプリをついにリリースしました! それはTwesterというものです。"
+    },
+    {
+      "locale": "zh",
+      "description": "TLDR - Twester是一个免费和开源的桌面应用程序，由React、Electron和Node.js构建，将...",
+      "title": "我终于发布了我工作了一个多月的应用程序！它叫做Twester。它叫Twester。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "TLDR - Twester是一個免費和開源的桌面應用程序，由React、Electron和Node.js構建，將...",
+      "title": "我終於發佈了我工作了一個多月的應用程序！它叫做Twester。它叫Twester。"
+    }
+  ]
 }
