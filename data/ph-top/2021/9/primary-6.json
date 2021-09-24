@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-24T07:01:00Z"
+  "original_createdAt": "2021-09-24T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Primaryは、お買い物中にフォーラムやRedditの情報を見つけてくれる無料のブラウザ拡張機能です。個人情報の収集は一切ありません。Threadloomがお届けします。Chrome/Edge/Brave、Safari、Firefoxでご利用いただけます。",
+      "tagline": "お買い物中にフォーラムやRedditの情報を得ることができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "Primary是一个免费的浏览器扩展，可以在你购物时找到论坛和Reddit信息。它收集的个人信息为零。由Threadloom为您带来。可用于Chrome/Edge/Brave, Safari, 和Firefox。",
+      "tagline": "在你购物时，论坛和Reddit信息"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Primary是一個免費的瀏覽器擴展，可以在你購物時找到論壇和Reddit信息。它收集的個人信息爲零。由Threadloom爲您帶來。可用於Chrome/Edge/Brave, Safari, 和Firefox。",
+      "tagline": "在你購物時，論壇和Reddit信息"
+    }
+  ]
 }
