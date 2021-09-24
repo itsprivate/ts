@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼のような友人がいるのか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你有没有像他那样的一些朋友。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你有沒有像他那樣的一些朋友。"
+    }
+  ]
 }
