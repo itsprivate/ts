@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-24T08:12:23Z"
+  "original_createdAt": "2021-09-24T08:12:23Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この小さなツールは、実際のGmailアカウントを使って、あなたのメールが読者の一次受信箱に届くか、それともプロモーションタブやSPAMフォルダに詰まってしまうかをチェックします。",
+      "tagline": "Gmailのどのタブにメールが届くか確認する"
+    },
+    {
+      "locale": "zh",
+      "description": "这个小小的工具使用一个真实的Gmail账户来检查你的邮件是否会落入读者的初级收件箱，或者是否被卡在促销标签或SPAM文件夹中。",
+      "tagline": "检查你的电子邮件将落在哪个Gmail标签上"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這個小小的工具使用一個真實的Gmail賬戶來檢查你的郵件是否會落入讀者的初級收件箱，或者是否被卡在促銷標籤或SPAM文件夾中。",
+      "tagline": "檢查你的電子郵件將落在哪個Gmail標籤上"
+    }
+  ]
 }
