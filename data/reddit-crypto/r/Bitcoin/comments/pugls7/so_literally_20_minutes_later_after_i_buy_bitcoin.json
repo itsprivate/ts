@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "What is this, and is this any cause for alarm? I'm hodling."
+  "the_new_excerpt": "What is this, and is this any cause for alarm? I'm hodling.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "これは何なのでしょうか？そして、これは何か心配事があるのでしょうか？私はホドホドにしています。",
+      "title": "だから文字通り、私がビットコインを買った20分後には、中国のニュースのせいで価格が急落している。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这是什么，这有什么值得警惕的吗？我在做饭。",
+      "title": "所以，在我买入比特币后的20分钟内，由于中国的新闻，价格暴跌。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這是什麼，這有什麼值得警惕的嗎？我在做飯。",
+      "title": "所以，在我買入比特幣後的20分鐘內，由於中國的新聞，價格暴跌。"
+    }
+  ]
 }
