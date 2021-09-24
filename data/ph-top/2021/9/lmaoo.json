@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-23T14:00:00Z"
+  "original_createdAt": "2021-09-23T14:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "お気に入りのビデオを送って、好きなだけ多くの友達にブラインドリアクションをリクエストすることができます。リアクション動画が本当にヒットしたら、アプリからすぐにTikTokやInstagramなどでシェアすることができます。",
+      "tagline": "Snapchatで友達にブラインドリアクションをリクエスト"
+    },
+    {
+      "locale": "zh",
+      "description": "发送你最喜欢的视频，并要求尽可能多的朋友做出盲目反应。如果一个反应视频*真的很受欢迎，你可以在TikTok、Instagram或其他任何地方直接从应用程序中分享它。",
+      "tagline": "要求你的朋友在Snapchat上作出盲目反应"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "發送你最喜歡的視頻，並要求儘可能多的朋友做出盲目反應。如果一個反應視頻*真的很受歡迎，你可以在TikTok、Instagram或其他任何地方直接從應用程序中分享它。",
+      "tagline": "要求你的朋友在Snapchat上作出盲目反應"
+    }
+  ]
 }
