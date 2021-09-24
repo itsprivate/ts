@@ -1,0 +1,15 @@
+{
+  "author": "eivelyn",
+  "original_created_utc": 1632441571,
+  "title": "YSK that Apple's new Mail Privacy Protection feature will flag your email address as valid to any marketer (or scammer).",
+  "created_utc": 1632503584,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>If you use the Apple Mail App and enable MPP, here’s what happens: Apple first routes emails through a proxy server to pre-load message content—including tracking pixels—before serving it to you. This happens even if you don’t actually open those emails.</p>\n\n<p>This means that when you open an email, you essentially access Apple&#39;s version instead of the sender&#39;s, disguising your IP address and time of opening to the sender.  However, when Apple initially downloads the images, it sends a signal to the sender that their email has reached a valid and active address. This has the potential to actually <em>increase</em> the amount of unwanted emails you receive, as a scammer will know they&#39;ve hit a live address and will undoubtedly make use of it. </p>\n\n<p><strong>Why YSK:</strong> To help you make an informed decision about your privacy. </p>\n\n<p><strong>Note:</strong> This is my understanding of the following article by Magan Le at Litmus <a href=\"https://www.litmus.com/blog/apple-mail-privacy-protection-for-marketers/\">https://www.litmus.com/blog/apple-mail-privacy-protection-for-marketers/</a></p>\n</div><!-- SC_ON -->",
+  "score": 54,
+  "permalink": "/r/YouShouldKnow/comments/pu7y8k/ysk_that_apples_new_mail_privacy_protection/",
+  "subreddit": "YouShouldKnow",
+  "id": "pu7y8k",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "If you use the Apple Mail App and enable MPP, here’s what happens: Apple first\nroutes emails through a proxy server to pre-load message content—including\ntracking pixels—before serving it to you. This happens even if you don’t\nactually open those emails.\n\nThis means that when you open an email, you…"
+}
