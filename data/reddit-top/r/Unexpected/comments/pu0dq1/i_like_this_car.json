@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"I like this car\""
+    },
+    {
+      "locale": "zh",
+      "title": "\"我喜欢这车\""
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"我喜歡這車\""
+    }
+  ]
 }
