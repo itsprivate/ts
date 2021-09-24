@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "中国は過去8年間で40回もビットコインを禁止しています。40回も失敗しています。"
+    },
+    {
+      "locale": "zh",
+      "title": "中国在过去8年中40次禁止了比特币。他们也失败了40次。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "中國在過去8年中40次禁止了比特幣。他們也失敗了40次。"
+    }
+  ]
 }
