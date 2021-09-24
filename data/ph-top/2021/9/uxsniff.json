@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-23T07:20:38Z"
+  "original_createdAt": "2021-09-23T07:20:38Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "UXsniffは、あなたのウェブサイト上でのユーザーの行動を追跡し、コンバージョンを向上させます。",
+      "tagline": "あなたを見守るユーザー・エクスペリエンス・ウォッチドッグ"
+    },
+    {
+      "locale": "zh",
+      "description": "追踪用户在网站上的行为，并通过UXsniff提高转化率：用户体验的看门狗，为你着想。",
+      "tagline": "为你着想的用户体验监督者"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "追蹤用戶在網站上的行爲，並通過UXsniff提高轉化率：用戶體驗的看門狗，爲你着想。",
+      "tagline": "爲你着想的用戶體驗監督者"
+    }
+  ]
 }
