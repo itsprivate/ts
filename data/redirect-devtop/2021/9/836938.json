@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-22T16:33:24Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s---2UWTYvU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4htjn5r3rfeca065rlgu.png",
   "author": "Dhairya Nadapara",
-  "author_url": "https://dev.to/dhairyanadapara"
+  "author_url": "https://dev.to/dhairyanadapara",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "現代のUXでは、無限スクロールを使用しなければならない複数のユースケースがあります....",
+      "title": "ReactとJavaScriptによる近未来的な無限スクロール"
+    },
+    {
+      "locale": "zh",
+      "description": "在现代用户体验中，当我们被要求使用无限滚动时，有多种用例....",
+      "title": "在React和JavaScript中实现未来主义的无限滚动"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在現代用戶體驗中，當我們被要求使用無限滾動時，有多種用例....",
+      "title": "在React和JavaScript中實現未來主義的無限滾動"
+    }
+  ]
 }
