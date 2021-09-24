@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この男は何千匹もの犬やその他の動物を救うためにナイトクラブを売った。Credit: The Dodo"
+    },
+    {
+      "locale": "zh",
+      "title": "这个人卖掉了他的夜总会来拯救成千上万的狗和其他动物。资料来源：The Dodo"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個人賣掉了他的夜總會來拯救成千上萬的狗和其他動物。資料來源：The Dodo"
+    }
+  ]
 }
