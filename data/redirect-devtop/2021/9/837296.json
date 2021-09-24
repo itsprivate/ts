@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-22T23:59:25Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WnqBB3TY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y7ioibf6oxyah46pfgzx.png",
   "author": "Emmanuel Etukudo",
-  "author_url": "https://dev.to/eaetukudo"
+  "author_url": "https://dev.to/eaetukudo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "自動リンク短縮機能の普及が進んでいます。一流のハイテク企業（例：Twitterや...",
+      "title": "reactとEmlyを使った自動URL短縮ツールの構築"
+    },
+    {
+      "locale": "zh",
+      "description": "自动缩短链接的做法越来越受欢迎。顶级科技公司（例如：Twitter和...",
+      "title": "用react和Emly建立自动URL缩短器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "自動縮短鏈接的做法越來越受歡迎。頂級科技公司（例如：Twitter和...",
+      "title": "用react和Emly建立自動URL縮短器"
+    }
+  ]
 }
