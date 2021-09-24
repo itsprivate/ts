@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "The site is a work in progress. In order to overcome the double-sided market\nproblem I'm starting with a weekly newsletter of deeply important Hacker News\nposts. An alternative to an addictive infinite list of interesting posts. The\nsite only selects those posts you need to read - no news is good…"
+  "the_new_excerpt": "The site is a work in progress. In order to overcome the double-sided market\nproblem I'm starting with a weekly newsletter of deeply important Hacker News\nposts. An alternative to an addictive infinite list of interesting posts. The\nsite only selects those posts you need to read - no news is good…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "このサイトは現在進行中です。両面性のある市場を克服するために\n深く重要なHacker Newsの記事を毎週お届けするニュースレターを始めます。\nの記事を紹介しています。面白い記事の中毒性のある無限のリストに代わるものです。この\nこのサイトは、あなたが読む必要のある記事だけを選択します。",
+      "title": "redditを再考することを目的としたハッカーニュースのニュースレターです。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "该网站是一项正在进行的工作。为了克服双面的市场\n我将从每周一次的重要黑客新闻通讯开始。\n的文章。这是对令人上瘾的无穷无尽的有趣帖子列表的替代。该\n网站只选择那些你需要阅读的帖子--没有新闻是好事......",
+      "title": "一个以重新思考reddit为目标的黑客新闻通讯"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "該網站是一項正在進行的工作。爲了克服雙面的市場\n我將從每週一次的重要黑客新聞通訊開始。\n的文章。這是對令人上癮的無窮無盡的有趣帖子列表的替代。該\n網站只選擇那些你需要閱讀的帖子--沒有新聞是好事......",
+      "title": "一個以重新思考reddit爲目標的黑客新聞通訊"
+    }
+  ]
 }
