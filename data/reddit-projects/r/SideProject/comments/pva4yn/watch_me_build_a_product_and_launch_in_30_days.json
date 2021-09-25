@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "HTMLとCSSだけで30日間で製品を作り、発売するところを見てみましょう。"
+    },
+    {
+      "locale": "zh",
+      "title": "看我只用HTML和CSS就能在30天内建立一个产品并上市"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "看我只用HTML和CSS就能在30天內建立一個產品並上市"
+    }
+  ]
 }
