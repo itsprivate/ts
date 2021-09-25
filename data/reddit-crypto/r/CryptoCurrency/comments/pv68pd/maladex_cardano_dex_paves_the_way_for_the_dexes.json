@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Maladex - Cardano DEX - プログラム可能なスワップ、分散型レイヤー2スケーリング、および新しいEUTxOモデルのハーブネストにより、将来のDEXへの道を開く。"
+    },
+    {
+      "locale": "zh",
+      "title": "Maladex - Cardano DEX - 为未来的DEX铺平道路，具有可编程的交换、分散的第2层扩展和新颖的EUTxO模型的 Harvnesting。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Maladex - Cardano DEX - 爲未來的DEX鋪平道路，具有可編程的交換、分散的第2層擴展和新穎的EUTxO模型的 Harvnesting。"
+    }
+  ]
 }
