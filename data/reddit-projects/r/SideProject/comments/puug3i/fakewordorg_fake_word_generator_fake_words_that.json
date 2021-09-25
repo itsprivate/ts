@@ -37,5 +37,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "FakeWord.org - 偽の言葉のジェネレーター。本物のように聞こえる偽物の言葉。"
+    },
+    {
+      "locale": "zh",
+      "title": "FakeWord.org - 假词生成器。听起来很真实的假词。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "FakeWord.org - 假詞生成器。聽起來很真實的假詞。"
+    }
+  ]
 }
