@@ -52,5 +52,22 @@
   "original_created_at": "2021-09-24T07:40:56Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qs9PsEDs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0j5e5h3mvoe05vv716zx.jpg",
   "author": "Official IQ Test",
-  "author_url": "https://dev.to/officialiqtest"
+  "author_url": "https://dev.to/officialiqtest",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "科学的研究に基づき、記憶力は自然に改善できることがわかっています。その役割とは...",
+      "title": "自然に記憶力を向上させるには？"
+    },
+    {
+      "locale": "zh",
+      "description": "根据科学研究表明，记忆力是可以自然提高的。的作用。",
+      "title": "如何自然地提高记忆力？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "根據科學研究表明，記憶力是可以自然提高的。的作用。",
+      "title": "如何自然地提高記憶力？"
+    }
+  ]
 }
