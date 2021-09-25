@@ -52,5 +52,22 @@
   "original_created_at": "2021-09-24T12:35:01Z",
   "image": "https://dev.to/social_previews/article/839077.png",
   "author": "Ömer Faruk APLAK",
-  "author_url": "https://dev.to/omeraplak"
+  "author_url": "https://dev.to/omeraplak",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "GitHub｜チュートリアル｜デモ refineとは？ refineには、すぐに使える機能がたくさんあります。",
+      "title": "5分で次の管理パネルを作ることができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "GitHub | 教程 | 演示 什么是refine？ refine提供很多开箱即用的功能。",
+      "title": "在5分钟内建立你的下一个管理面板!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "GitHub | 教程 | 演示 什麼是refine？ refine提供很多開箱即用的功能。",
+      "title": "在5分鐘內建立你的下一個管理面板!"
+    }
+  ]
 }
