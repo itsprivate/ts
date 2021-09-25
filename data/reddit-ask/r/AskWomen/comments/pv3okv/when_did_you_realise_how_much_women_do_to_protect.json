@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "The story of my realisation, and context, is in comments."
+  "the_new_excerpt": "The story of my realisation, and context, is in comments.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私の気づきのストーリー、コンテクストはコメントにあります。",
+      "title": "女性が男性のエゴを守るためにどれだけのことをしているのか、いつ気づいて、それをやめようと思ったのですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我意识到的故事，以及背景，都在评论中。",
+      "title": "你什么时候意识到女性为保护男性的自我做了多少事情，你是否决定不再这样做？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我意識到的故事，以及背景，都在評論中。",
+      "title": "你什麼時候意識到女性爲保護男性的自我做了多少事情，你是否決定不再這樣做？"
+    }
+  ]
 }

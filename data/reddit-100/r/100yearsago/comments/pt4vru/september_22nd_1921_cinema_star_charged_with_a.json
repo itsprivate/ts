@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[1921年9月22日] \"Cinema Star Charged With A Serious Crime\" (The Illustrated Police Newsより)"
+    },
+    {
+      "locale": "zh",
+      "title": "[1921年9月22日] \"电影明星被指控犯有严重罪行\"（摘自《警察画报》）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[1921年9月22日] \"電影明星被指控犯有嚴重罪行\"（摘自《警察畫報》）。"
+    }
+  ]
 }
