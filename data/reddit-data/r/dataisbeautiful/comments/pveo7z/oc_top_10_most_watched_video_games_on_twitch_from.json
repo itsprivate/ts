@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] 2016年1月から2021年8月までにTwitchで最も視聴されたビデオゲームのトップ10"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]2016年1月至2021年8月Twitch上最受关注的十大视频游戏"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]2016年1月至2021年8月Twitch上最受關注的十大視頻遊戲"
+    }
+  ]
 }
