@@ -48,5 +48,22 @@
   "original_created_at": "2021-09-24T07:40:50Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--g8ijGNFR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xsirdkvqi3ws9dk1psug.png",
   "author": "Zoltán Szőgyényi",
-  "author_url": "https://dev.to/zolidev"
+  "author_url": "https://dev.to/zolidev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Tailwind CSSは、実用性を重視した素晴らしいフレームワークで、素早くプロトタイプを作成して...",
+      "title": "TailwindのCSSアラートコンポーネントの構築"
+    },
+    {
+      "locale": "zh",
+      "description": "尾风CSS是一个了不起的实用性第一的框架，你可以用它来快速制作原型和建立。",
+      "title": "构建一个Tailwind的CSS警报组件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "尾風CSS是一個了不起的實用性第一的框架，你可以用它來快速製作原型和建立。",
+      "title": "構建一個Tailwind的CSS警報組件"
+    }
+  ]
 }
