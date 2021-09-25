@@ -43,5 +43,22 @@
   "original_created_at": "2021-09-25T08:16:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4M9Pb1US--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e4jfd6fbrurmq84co5on.png",
   "author": "Trisha Lim",
-  "author_url": "https://dev.to/trishathecookie"
+  "author_url": "https://dev.to/trishathecookie",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "フォームは、ウェブアプリケーションでは非常に一般的なものです。私たちは、ウェブアプリケーションの開発において、何度も何度もフォームを作成することになります。",
+      "title": "React：React Contextを使って再利用可能なフォームを作成する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "表格在网络应用中非常常见。在工作中，我们将一次又一次地创建表单。",
+      "title": "React: 如何使用React Context创建一个可重用的表单"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "表格在網絡應用中非常常見。在工作中，我們將一次又一次地創建表單。",
+      "title": "React: 如何使用React Context創建一個可重用的表單"
+    }
+  ]
 }
