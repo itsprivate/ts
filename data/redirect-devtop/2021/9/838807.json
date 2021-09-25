@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-24T07:12:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3aIXDMst--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6kg4saf4xrlo8lz9g1ia.png",
   "author": "Zahab Kakar",
-  "author_url": "https://dev.to/zahab"
+  "author_url": "https://dev.to/zahab",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事は、React開発者としてのスキルを強化するための参考書であり、仕事のための...",
+      "title": "React.jsでAPIデータを取得する5つの方法"
+    },
+    {
+      "locale": "zh",
+      "description": "本文是一份参考指南，以加强你作为React开发者的技能，并为就业提供参考。",
+      "title": "在React.js中获取API数据的5种方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "本文是一份參考指南，以加強你作爲React開發者的技能，併爲就業提供參考。",
+      "title": "在React.js中獲取API數據的5種方法"
+    }
+  ]
 }
