@@ -43,5 +43,22 @@
   "original_created_at": "2021-09-23T20:08:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mmECqcrM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eehrdisdn2p3r8d6lwjg.jpg",
   "author": "Juhana Jauhiainen",
-  "author_url": "https://dev.to/juhanakristian"
+  "author_url": "https://dev.to/juhanakristian",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私は最近、理想的とは言えない状況で、Dockerがログローテーションを行わないことを知りました...",
+      "title": "なぜDockerはあなたのディスクスペースを奪うのか"
+    },
+    {
+      "locale": "zh",
+      "description": "最近，我在不太理想的情况下了解到，Docker并没有做任何日志轮换，而是通过...",
+      "title": "为什么Docker会吃掉你的磁盘空间"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "最近，我在不太理想的情況下了解到，Docker並沒有做任何日誌輪換，而是通過...",
+      "title": "爲什麼Docker會喫掉你的磁盤空間"
+    }
+  ]
 }
