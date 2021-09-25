@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-22T07:17:07Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--74cA3tIV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a92xson7txh3hgd0j9rd.png",
   "author": "Suchitra",
-  "author_url": "https://dev.to/suchitra_13"
+  "author_url": "https://dev.to/suchitra_13",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "さて、本題に入る前に1つお聞きしたいのですが...。          あなたはどのように考えていますか...",
+      "title": "doczでソフトウェアドキュメントを管理する方法 "
+    },
+    {
+      "locale": "zh",
+      "description": "因此，在开始这个话题之前，我想问你一件事是......           你是如何看待...",
+      "title": "如何用docz来管理你的软件文档! "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "因此，在開始這個話題之前，我想問你一件事是......           你是如何看待...",
+      "title": "如何用docz來管理你的軟件文檔! "
+    }
+  ]
 }
