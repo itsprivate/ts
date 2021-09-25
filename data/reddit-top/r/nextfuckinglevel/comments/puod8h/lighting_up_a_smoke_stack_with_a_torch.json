@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "トーチで煙突を照らす"
+    },
+    {
+      "locale": "zh",
+      "title": "用火把点燃烟囱"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "用火把點燃煙囪"
+    }
+  ]
 }
