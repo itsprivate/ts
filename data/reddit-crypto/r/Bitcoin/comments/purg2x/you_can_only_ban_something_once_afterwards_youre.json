@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "何かを「禁止」できるのは一度だけで、その後はできなかったことを認めるだけです。ビットコインは禁止されていません。"
+    },
+    {
+      "locale": "zh",
+      "title": "你只能 \"禁止 \"一次，之后你只是承认你不能。比特币是不能被禁止的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你只能 \"禁止 \"一次，之後你只是承認你不能。比特幣是不能被禁止的。"
+    }
+  ]
 }
