@@ -103,5 +103,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1632587311,
-  "the_new_excerpt": "Not sure if this is the right sub to ask this question but I figured it's a good\nstart. I've been gathering data provided by my brokers api. I've used it to\ncalculate things like weekly performance. Everything was working fine using the\nmarket value of a position between two dates to calculate the…"
+  "the_new_excerpt": "Not sure if this is the right sub to ask this question but I figured it's a good\nstart. I've been gathering data provided by my brokers api. I've used it to\ncalculate things like weekly performance. Everything was working fine using the\nmarket value of a position between two dates to calculate the…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "この質問をするのに適切なサブサイトかどうかわかりませんが、私はそれが良いと考えました。\n始めることにしました。私はブローカーのAPIで提供されるデータを収集してきました。私はそれを使って\n週ごとのパフォーマンスなどを計算しています。2つの日付の間のポジションの市場価値を使用して、すべてがうまくいっていました。\n2つの日付の間のポジションの市場価値を使って...",
+      "title": "ポジションパフォーマンスの計算方法について"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "不确定这是否是问这个问题的正确子，但我想这是一个很好的机会。\n开始。我一直在收集由我的经纪人api提供的数据。我已经用它来\n计算一些事情，比如每周的业绩。使用两个日期之间的头寸的市场价值，一切工作都很正常。\n在两个日期之间的头寸的市场价值来计算每周的业绩。",
+      "title": "需要帮助计算职位绩效"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "不確定這是否是問這個問題的正確子，但我想這是一個很好的機會。\n開始。我一直在收集由我的經紀人api提供的數據。我已經用它來\n計算一些事情，比如每週的業績。使用兩個日期之間的頭寸的市場價值，一切工作都很正常。\n在兩個日期之間的頭寸的市場價值來計算每週的業績。",
+      "title": "需要幫助計算職位績效"
+    }
+  ]
 }
