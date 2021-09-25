@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "It might be a dumb question but is it possible?"
+  "the_new_excerpt": "It might be a dumb question but is it possible?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "馬鹿げた質問かもしれませんが、それは可能ですか？",
+      "title": "宇宙には光速を超えるものが存在するのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这可能是一个愚蠢的问题，但有可能吗？",
+      "title": "宇宙中的任何东西都能比光速快吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這可能是一個愚蠢的問題，但有可能嗎？",
+      "title": "宇宙中的任何東西都能比光速快嗎？"
+    }
+  ]
 }
