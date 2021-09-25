@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "2000年前に証明された地球の丸さ"
+    },
+    {
+      "locale": "zh",
+      "title": "地球是圆的，早在2000多年前就已证明"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "地球是圓的，早在2000多年前就已證明"
+    }
+  ]
 }
