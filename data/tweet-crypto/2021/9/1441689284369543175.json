@@ -52,5 +52,22 @@
     },
     "retweet_count": 6575,
     "favorite_count": 31060
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @PeterSweden7: HUGE NEWSです。ノルウェーは、すべてのコビド規制を撤廃すると発表しました。社会は通常通りに再開されています。",
+      "retweeted_status_full_text": "HUGE NEWS ノルウェーは、すべてのコビド規制を撤廃すると発表しました。社会は正常に戻りつつあります。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @PeterSweden7: 巨大的新闻。挪威已经宣布他们将取消所有对猫的限制。社会正在重新开放，恢复正常。",
+      "retweeted_status_full_text": "巨大的新闻。挪威已经宣布他们将取消所有对牛的限制。社会正在重新开放，恢复正常。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @PeterSweden7: 巨大的新聞。挪威已經宣佈他們將取消所有對貓的限制。社會正在重新開放，恢復正常。",
+      "retweeted_status_full_text": "巨大的新聞。挪威已經宣佈他們將取消所有對牛的限制。社會正在重新開放，恢復正常。"
+    }
+  ]
 }
