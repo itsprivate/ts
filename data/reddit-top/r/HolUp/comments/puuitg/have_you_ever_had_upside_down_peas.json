@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "逆さまのピーズを食べたことがありますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你有没有吃过倒立的豌豆？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你有沒有喫過倒立的豌豆？"
+    }
+  ]
 }
