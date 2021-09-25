@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインを禁止しようとする中国"
+    },
+    {
+      "locale": "zh",
+      "title": "中国正试图禁止比特币"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "中國正試圖禁止比特幣"
+    }
+  ]
 }
