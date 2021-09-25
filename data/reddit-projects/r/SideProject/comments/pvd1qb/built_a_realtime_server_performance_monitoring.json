@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "react、node、socket.io、mongodbを使ったリアルタイムサーバーパフォーマンスモニタリングアプリケーションの構築"
+    },
+    {
+      "locale": "zh",
+      "title": "使用react、node、socket.io和mongodb构建了一个实时的服务器性能监测应用程序。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "使用react、node、socket.io和mongodb構建了一個實時的服務器性能監測應用程序。"
+    }
+  ]
 }
