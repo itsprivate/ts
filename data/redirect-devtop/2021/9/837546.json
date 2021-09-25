@@ -43,5 +43,22 @@
   "original_created_at": "2021-09-23T07:01:06Z",
   "image": "https://dev.to/social_previews/article/837546.png",
   "author": "Rutuja Chandgude",
-  "author_url": "https://dev.to/rutuchandgude"
+  "author_url": "https://dev.to/rutuchandgude",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "クッキーとは？ クッキーとは、お客様のコンピュータに小さなテキストファイルとして保存されるデータです。 ウェブサーバが...",
+      "title": "JavaScriptクッキー"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是饼干？ Cookies是存储在你的计算机上的小文本文件中的数据。 当一个网络服务器...",
+      "title": "JavaScript Cookies"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是餅乾？ Cookies是存儲在你的計算機上的小文本文件中的數據。 當一個網絡服務器...",
+      "title": "JavaScript Cookies"
+    }
+  ]
 }
