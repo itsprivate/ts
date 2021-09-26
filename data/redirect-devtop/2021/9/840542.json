@@ -50,5 +50,22 @@
   "original_created_at": "2021-09-25T21:11:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Gi9BGqvk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a2elcavc478rq7dt58vr.jpg",
   "author": "Andrew Bone",
-  "author_url": "https://dev.to/link2twenty"
+  "author_url": "https://dev.to/link2twenty",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "先日、LinkedInを見ていたら、ある投票が目に留まりました。 あなたのお気に入りのReact Stateは何ですか？",
+      "title": "State Management Libraryを必要としていますか？"
+    },
+    {
+      "locale": "zh",
+      "description": "有一天，我在浏览LinkedIn时，一个投票引起了我的注意 你最喜欢的React状态是什么？",
+      "title": "你需要一个国家管理图书馆吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有一天，我在瀏覽LinkedIn時，一個投票引起了我的注意 你最喜歡的React狀態是什麼？",
+      "title": "你需要一個國家管理圖書館嗎？"
+    }
+  ]
 }
