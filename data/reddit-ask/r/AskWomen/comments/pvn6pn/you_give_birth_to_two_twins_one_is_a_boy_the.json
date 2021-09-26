@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "2人の双子を出産する。一人は男の子で、もう一人は女の子です。どんな名前をつけますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你生了两个双胞胎。一个是男孩，另一个是女孩。你会给他们取什么名字？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你生了兩個雙胞胎。一個是男孩，另一個是女孩。你會給他們取什麼名字？"
+    }
+  ]
 }
