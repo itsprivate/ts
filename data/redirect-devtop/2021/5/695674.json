@@ -50,5 +50,22 @@
   "original_created_at": "2021-05-12T07:48:36Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Ssbh8oaW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://www.qulix.com/wp-content/uploads/2020/01/post36-Recovered-04.png",
   "author": "Madza",
-  "author_url": "https://dev.to/madza"
+  "author_url": "https://dev.to/madza",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "関数型プログラミングとは、プログラムを、そのプログラムに合った方法で構築するプログラミングパラダイムです。",
+      "title": "関数型プログラミングを試したことはありますか？"
+    },
+    {
+      "locale": "zh",
+      "description": "函数式编程是一种编程范式，程序是通过应用和...",
+      "title": "你试过函数式编程吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "函數式編程是一種編程範式，程序是通過應用和...",
+      "title": "你試過函數式編程嗎？"
+    }
+  ]
 }

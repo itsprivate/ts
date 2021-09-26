@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-26T07:00:00Z"
+  "original_createdAt": "2021-09-26T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コードを学ぶことなく、人工知能の力を利用して、想像力と生産性を広げることができます。",
+      "tagline": "AIでアートを作る"
+    },
+    {
+      "locale": "zh",
+      "description": "利用人工智能的力量来扩大你的想象力和生产力，而无需学习如何编码。",
+      "tagline": "用AI创造艺术"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "利用人工智能的力量來擴大你的想象力和生產力，而無需學習如何編碼。",
+      "tagline": "用AI創造藝術"
+    }
+  ]
 }
