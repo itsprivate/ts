@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "10ドルの配送料を支払ったのに、ドライバーには一切支払われないのですか？じゃあ、何のための料金なの？"
+    },
+    {
+      "locale": "zh",
+      "title": "我付了10美元的送货费，却没有一个是给司机的？那么这个费用是干什么的呢？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我付了10美元的送貨費，卻沒有一個是給司機的？那麼這個費用是幹什麼的呢？"
+    }
+  ]
 }
