@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-26T07:13:14Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KM-M3aSO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t05ipvoixkrha72iwp0p.jpg",
   "author": "Somesh Thakur",
-  "author_url": "https://dev.to/someshthakur"
+  "author_url": "https://dev.to/someshthakur",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TL;DR: リンティング、ユニットテスト、静的コード解析、そして......といった、業界のベスト・プラクティスに従うことで。",
+      "title": "ソフトウェアコードの最高品質を確保する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "TL;DR：通过遵循最佳的行业实践，如提示、单元测试、静态代码分析和...",
+      "title": "如何确保软件代码的最高质量"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "TL;DR：通過遵循最佳的行業實踐，如提示、單元測試、靜態代碼分析和...",
+      "title": "如何確保軟件代碼的最高質量"
+    }
+  ]
 }
