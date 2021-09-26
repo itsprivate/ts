@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "うん...これは現実ではなくPS5のライド4というゲームです。"
+    },
+    {
+      "locale": "zh",
+      "title": "是的......这是在PS5上的一个叫Ride 4的游戏，而不是现实生活。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "是的......這是在PS5上的一個叫Ride 4的遊戲，而不是現實生活。"
+    }
+  ]
 }
