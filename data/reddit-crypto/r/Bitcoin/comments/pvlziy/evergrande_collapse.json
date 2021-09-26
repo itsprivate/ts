@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Evergrande Collapse"
+    },
+    {
+      "locale": "zh",
+      "title": "恒大崩盘"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "恆大崩盤"
+    }
+  ]
 }
