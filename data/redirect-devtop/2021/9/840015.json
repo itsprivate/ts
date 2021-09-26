@@ -48,5 +48,22 @@
   "original_created_at": "2021-09-25T06:55:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PqV2L82C--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ljp4l6fdapkcfs7z3g0i.png",
   "author": "Abod Micheal (he/him)",
-  "author_url": "https://dev.to/abodmicheal"
+  "author_url": "https://dev.to/abodmicheal",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "react jsでscroll時にスティッキーナビバーを追加する方法のチュートリアルを行いましたが、ほとんどの人が問題を抱えていました。",
+      "title": "スクロール時にスティッキーなナビバー reactJS [更新情報]"
+    },
+    {
+      "locale": "zh",
+      "description": "我给了一个关于如何在react js中添加粘性导航条的教程，而大多数人都遇到了问题。",
+      "title": "滚动中的粘性导航条 reactJS [更新]"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我給了一個關於如何在react js中添加粘性導航條的教程，而大多數人都遇到了問題。",
+      "title": "滾動中的粘性導航條 reactJS [更新]"
+    }
+  ]
 }
