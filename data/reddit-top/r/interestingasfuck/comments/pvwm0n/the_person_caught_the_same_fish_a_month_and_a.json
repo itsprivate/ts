@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "その人は1ヶ月半後に同じ魚を釣った。"
+    },
+    {
+      "locale": "zh",
+      "title": "这个人在一个半月后抓到了同样的鱼。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個人在一個半月後抓到了同樣的魚。"
+    }
+  ]
 }
