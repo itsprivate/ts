@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-26T07:00:00Z"
+  "original_createdAt": "2021-09-26T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Influencedでは、あなたのおすすめを整理して、フォロワーがあなたのお気に入りの商品を簡単に購入できるようにしています。🛍",
+      "tagline": "お気に入りの商品を共有できるパーソナライズされたオンラインストア"
+    },
+    {
+      "locale": "zh",
+      "description": "Influenced让你组织你的推荐，使追随者能够轻松地选购你的最爱。🛍",
+      "tagline": "一个个性化的网上商店，分享最喜欢的产品"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Influenced讓你組織你的推薦，使追隨者能夠輕鬆地選購你的最愛。🛍",
+      "tagline": "一個個性化的網上商店，分享最喜歡的產品"
+    }
+  ]
 }
