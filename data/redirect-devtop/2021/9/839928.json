@@ -43,5 +43,22 @@
   "original_created_at": "2021-09-25T06:46:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BvZX6DKK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vbd803kzxphozc2himt9.png",
   "author": "Dharmarajsinh Jethva ",
-  "author_url": "https://dev.to/gokukun"
+  "author_url": "https://dev.to/gokukun",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "関数の歴史 プログラミングが登場したとき、私たちはシステムを......。",
+      "title": "JavaScriptの関数"
+    },
+    {
+      "locale": "zh",
+      "description": "函数--简史 在编程的出现中，我们是用......创建我们的系统。",
+      "title": "JavaScript中的函数"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "函數--簡史 在編程的出現中，我們是用......創建我們的系統。",
+      "title": "JavaScript中的函數"
+    }
+  ]
 }
