@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "GoodBrief - デザインブリーフのランダムジェネレーター。フィードバックをお待ちしています。"
+    },
+    {
+      "locale": "zh",
+      "title": "GoodBrief - 一个设计简报的随机生成器。寻找反馈意见!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "GoodBrief - 一個設計簡報的隨機生成器。尋找反饋意見!"
+    }
+  ]
 }
