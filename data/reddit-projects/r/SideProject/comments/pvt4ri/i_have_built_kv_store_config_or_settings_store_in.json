@@ -57,5 +57,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "GitHub: https://github.com/Ananto30/kv-store\n\nUse KV Store to store app settings or other configs that are frequently changed.\nThe purpose is to avoid redeploying for simple env var or config changes.\n\nIt also generates codes (Python & Java for now) to ease development."
+  "the_new_excerpt": "GitHub: https://github.com/Ananto30/kv-store\n\nUse KV Store to store app settings or other configs that are frequently changed.\nThe purpose is to avoid redeploying for simple env var or config changes.\n\nIt also generates codes (Python & Java for now) to ease development.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "GitHub: https://github.com/Ananto30/kv-store\n\nKVストアを使用して、頻繁に変更されるアプリの設定やその他の設定を保存します。\n目的は、単純な環境変数や設定の変更のための再デプロイを避けることです。\n\nまた、開発を容易にするためのコード（現在はPythonとJava）を生成します。",
+      "title": "KVストアを作りました。美しいUIとコード生成を備えたRedisのコンフィグや設定ストア"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "GitHub: https://github.com/Ananto30/kv-store\n\n使用KV Store来存储应用设置或其他经常改变的配置。\n其目的是为了避免因简单的环境变量或配置变化而重新部署。\n\n它还能生成代码（目前是Python和Java）以方便开发。",
+      "title": "我已经建立了KV存储。Redis中的配置或设置存储，具有漂亮的UI和代码生成功能"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "GitHub: https://github.com/Ananto30/kv-store\n\n使用KV Store來存儲應用設置或其他經常改變的配置。\n其目的是爲了避免因簡單的環境變量或配置變化而重新部署。\n\n它還能生成代碼（目前是Python和Java）以方便開發。",
+      "title": "我已經建立了KV存儲。Redis中的配置或設置存儲，具有漂亮的UI和代碼生成功能"
+    }
+  ]
 }
