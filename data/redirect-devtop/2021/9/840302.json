@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-25T14:27:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mHQ580dB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r6m8835gds6osbgp52a5.jpg",
   "author": "Technical Vandar",
-  "author_url": "https://dev.to/technicalvandar885"
+  "author_url": "https://dev.to/technicalvandar885",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ここでは、純粋なHTML、CSS &amp; JSを使用して、学生のグレードの計算機です。ウェブフォーマットでは、あなたは...",
+      "title": "Glass Morphism Student Grade Calculator Using Pure HTML, CSS & JS."
+    },
+    {
+      "locale": "zh",
+      "description": "这里是使用纯HTML、CSS&amp; JS的学生成绩计算器。在网页格式中，你可以...",
+      "title": "使用纯HTML、CSS和JS的玻璃变形术学生成绩计算器。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這裏是使用純HTML、CSS&amp; JS的學生成績計算器。在網頁格式中，你可以...",
+      "title": "使用純HTML、CSS和JS的玻璃變形術學生成績計算器。"
+    }
+  ]
 }
