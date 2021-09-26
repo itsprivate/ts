@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-25T07:26:32Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3pQqW_Ek--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2kgjz625u1j687qmp17s.png",
   "author": "Syed Afroz Pasha",
-  "author_url": "https://dev.to/syedafrozpasha"
+  "author_url": "https://dev.to/syedafrozpasha",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ここでは、JavaScriptを使用する際のベストプラクティスをご紹介します。....",
+      "title": "初心者のためのJavaScriptベスト・プラクティス"
+    },
+    {
+      "locale": "zh",
+      "description": "让我们快速讨论一下在使用JavaScript....时可以遵循的一些最佳做法。",
+      "title": "初学者的JavaScript最佳实践"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "讓我們快速討論一下在使用JavaScript....時可以遵循的一些最佳做法。",
+      "title": "初學者的JavaScript最佳實踐"
+    }
+  ]
 }
