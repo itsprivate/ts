@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-26T07:28:08Z"
+  "original_createdAt": "2021-09-26T07:28:08Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Pareto Securityは、Macの基本的なセキュリティ衛生管理をサポートするチェックリストアプリです。80%の問題を防ぐために、20%のセキュリティタスクに気をつけるように、優しく促します。Product Huntのクーポンコードを最初のコメントでゲット!",
+      "tagline": "Macでよくあるセキュリティ上のミスを防ぐ"
+    },
+    {
+      "locale": "zh",
+      "description": "Pareto Security是一个检查表应用程序，帮助你在Mac上进行基本的安全卫生。它温和地提示你注意20%的安全任务，防止80%的问题。在第一个评论中获取Product Hunt优惠券代码!",
+      "tagline": "避免你的Mac上的常见安全错误"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Pareto Security是一個檢查表應用程序，幫助你在Mac上進行基本的安全衛生。它溫和地提示你注意20%的安全任務，防止80%的問題。在第一個評論中獲取Product Hunt優惠券代碼!",
+      "tagline": "避免你的Mac上的常見安全錯誤"
+    }
+  ]
 }
