@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "初めて出版した塗り絵がアマゾンで初めてレビューされ、私はここで泣いています。"
+    },
+    {
+      "locale": "zh",
+      "title": "我的第一本出版的着色书在亚马逊上得到了第一个评论，我在这里哭得稀里哗啦。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我的第一本出版的着色書在亞馬遜上得到了第一個評論，我在這裏哭得稀里嘩啦。"
+    }
+  ]
 }
