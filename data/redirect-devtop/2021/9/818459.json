@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-09T09:10:04Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7xYy9hyW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5jkrmh4fwfabalgit92x.jpg",
   "author": "murtuza",
-  "author_url": "https://dev.to/murtuzaalisurti"
+  "author_url": "https://dev.to/murtuzaalisurti",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "注：この記事はWeb Dev Simplifiedに触発されたものです。  ソーシャルメディアの埋め込み機能は、読み込みに時間がかかり、...",
+      "title": "CSSとJavaScriptを使ったソーシャルメディア埋め込み用スケルトンローディング🔥。"
+    },
+    {
+      "locale": "zh",
+      "description": "注：这篇文章的灵感来自Web Dev Simplified。  社会媒体的嵌入需要一些时间来加载，并且需要一些时间。",
+      "title": "使用CSS和JavaScript为社交媒体嵌入的骨架加载 🔥"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "注：這篇文章的靈感來自Web Dev Simplified。  社會媒體的嵌入需要一些時間來加載，並且需要一些時間。",
+      "title": "使用CSS和JavaScript爲社交媒體嵌入的骨架加載 🔥"
+    }
+  ]
 }
