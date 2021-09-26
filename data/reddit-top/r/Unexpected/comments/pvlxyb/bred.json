@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ブレッド"
+    },
+    {
+      "locale": "zh",
+      "title": "培育"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "培育"
+    }
+  ]
 }
