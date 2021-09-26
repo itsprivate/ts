@@ -43,5 +43,22 @@
   "original_created_at": "2021-09-25T09:01:44Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NyxC0W9N--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jrevafh3he8x2p0p47jn.png",
   "author": "Ankit Kumar",
-  "author_url": "https://dev.to/knowankit"
+  "author_url": "https://dev.to/knowankit",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ESlintとPrettierの設定は、初心者には退屈なものです。私はこの問題に直面したことがあるので、それを知っています...",
+      "title": "ReactアプリでのESLINTとPRETTIERの設定"
+    },
+    {
+      "locale": "zh",
+      "description": "设置ESlint和Prettier对初学者来说是很乏味的，我知道这一点，因为我曾面临这个问题...",
+      "title": "在React应用程序中设置ESLINT和PRETTIER"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "設置ESlint和Prettier對初學者來說是很乏味的，我知道這一點，因爲我曾面臨這個問題...",
+      "title": "在React應用程序中設置ESLINT和PRETTIER"
+    }
+  ]
 }
