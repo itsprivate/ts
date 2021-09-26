@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Tezosは、DeFi分野におけるEthereumの優位性に追いつこうとしているところで、ネットワーク上には約135のプロジェクトやdAppが開発中です。"
+    },
+    {
+      "locale": "zh",
+      "title": "Tezos正在追赶以太坊在DeFi领域的主导地位，其网络上有大约135个项目和dApps正在开发中。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Tezos正在追趕以太坊在DeFi領域的主導地位，其網絡上有大約135個項目和dApps正在開發中。"
+    }
+  ]
 }
