@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-26T08:24:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oTF-r4XD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d5ebhr0ljdran9uj8bgh.png",
   "author": "Taslim Arif",
-  "author_url": "https://dev.to/tastaslim"
+  "author_url": "https://dev.to/tastaslim",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コンピュータが理解できるコードを書くことは、どんなバカでもできる。優れたプログラマーは、人間が理解できるコードを書くことができます...",
+      "title": "クリーンなコード 数行で"
+    },
+    {
+      "locale": "zh",
+      "description": "任何傻瓜都可以写出计算机能够理解的代码。好的程序员写出的代码，人类可以...",
+      "title": "简洁的代码，只有几行"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "任何傻瓜都可以寫出計算機能夠理解的代碼。好的程序員寫出的代碼，人類可以...",
+      "title": "簡潔的代碼，只有幾行"
+    }
+  ]
 }
