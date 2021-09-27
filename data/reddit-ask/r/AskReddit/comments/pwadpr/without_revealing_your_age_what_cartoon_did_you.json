@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "年齢を伏せて、あなたが育ったアニメを教えてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "在不透露你的年龄的情况下，你你是在什么动画片中长大的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在不透露你的年齡的情況下，你你是在什麼動畫片中長大的？"
+    }
+  ]
 }

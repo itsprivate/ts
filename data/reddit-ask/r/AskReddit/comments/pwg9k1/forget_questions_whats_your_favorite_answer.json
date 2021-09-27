@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Forget questions, what's your favorite answer?"
+    },
+    {
+      "locale": "zh",
+      "title": "忘记问题，你最喜欢的答案是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "忘記問題，你最喜歡的答案是什麼？"
+    }
+  ]
 }
