@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "現在、世界の上場企業トップ100社のうち80％以上がブロックチェーン技術を利用しているという調査結果が発表されました"
+    },
+    {
+      "locale": "zh",
+      "title": "调查显示，全球前100家上市公司中，超过80%的公司目前使用区块链技术"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "調查顯示，全球前100家上市公司中，超過80%的公司目前使用區塊鏈技術"
+    }
+  ]
 }
