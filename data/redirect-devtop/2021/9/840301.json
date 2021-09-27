@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-25T14:23:52Z",
   "image": "https://dev.to/social_previews/article/840301.png",
   "author": "Erik Melone",
-  "author_url": "https://dev.to/erikmelone"
+  "author_url": "https://dev.to/erikmelone",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "質問をすることは、文字通り、新人開発者への最初のアドバイスとなります。",
+      "title": "ジュニアデベロッパーとしてより良い質問をするための3つの方法"
+    },
+    {
+      "locale": "zh",
+      "description": "问问题简直是任何人给一个全新的开发者的第一条建议，而...",
+      "title": "作为一名初级开发人员，你可以通过3种方式提出更好的问题"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "問問題簡直是任何人給一個全新的開發者的第一條建議，而...",
+      "title": "作爲一名初級開發人員，你可以通過3種方式提出更好的問題"
+    }
+  ]
 }
