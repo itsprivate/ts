@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ユーザーネームがあなたを殺します。どうやって死ぬんですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你的用户名是杀死你的原因。你是怎么死的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你的用戶名是殺死你的原因。你是怎麼死的？"
+    }
+  ]
 }
