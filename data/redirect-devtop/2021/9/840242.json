@@ -43,5 +43,22 @@
   "original_created_at": "2021-09-25T12:27:19Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4I2-b9UP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jls79sf52tgoqiogrgup.png",
   "author": "arunkc",
-  "author_url": "https://dev.to/arunkc"
+  "author_url": "https://dev.to/arunkc",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、お待たせしました。  別の記事にお帰りなさい!!!     今回は、Apache Airflowについてです。その前に...",
+      "title": "Apache Airflowを始めよう"
+    },
+    {
+      "locale": "zh",
+      "description": "嘿，伙计们!   欢迎回到另一篇文章！!     这篇文章是关于Apache Airflow的。之前...",
+      "title": "开始使用Apache Airflow"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嘿，夥計們!   歡迎回到另一篇文章！!     這篇文章是關於Apache Airflow的。之前...",
+      "title": "開始使用Apache Airflow"
+    }
+  ]
 }
