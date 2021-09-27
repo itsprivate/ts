@@ -42,5 +42,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Coinbaseは、ユーザーが給料を自分の口座に入金できるようにすることで、銀行業務をより深く掘り下げています。入金は米ドルでも、暗号通貨への即時送金でも、手数料はかかりません。"
+    },
+    {
+      "locale": "zh",
+      "title": "Coinbase深入研究银行业务，让用户将工资单存入其账户。存款既可以是美元，也可以立即转为加密货币，而且没有任何费用。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Coinbase深入研究銀行業務，讓用戶將工資單存入其賬戶。存款既可以是美元，也可以立即轉爲加密貨幣，而且沒有任何費用。"
+    }
+  ]
 }
