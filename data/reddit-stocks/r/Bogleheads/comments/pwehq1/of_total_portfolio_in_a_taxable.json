@@ -103,5 +103,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1632739728,
-  "the_new_excerpt": "What percentage of your total investment portfolio is in your taxable account? I\nknow the consensus is to max out all retirement accounts first so i was just\ncurious!"
+  "the_new_excerpt": "What percentage of your total investment portfolio is in your taxable account? I\nknow the consensus is to max out all retirement accounts first so i was just\ncurious!",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "あなたの投資ポートフォリオ全体のうち、課税口座に入っている割合はどのくらいですか？I\nリタイヤメントアカウントを最初に最大限に活用するのが一般的だと思いますが、私はそれに興味があります。\n気になっていました。",
+      "title": "課税対象のポートフォリオ全体に占める割合？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你的总投资组合中，应税账户的比例是多少？I\n我知道大家的共识是先把所有的退休账户都存满，所以我只是\n好奇!",
+      "title": "应税投资组合总额的百分比？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你的總投資組合中，應稅賬戶的比例是多少？I\n我知道大家的共識是先把所有的退休賬戶都存滿，所以我只是\n好奇!",
+      "title": "應稅投資組合總額的百分比？"
+    }
+  ]
 }
