@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコイン開発の12年の歴史を60秒で振り返る"
+    },
+    {
+      "locale": "zh",
+      "title": "60秒内的12年比特币发展历程"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "60秒內的12年比特幣發展歷程"
+    }
+  ]
 }
