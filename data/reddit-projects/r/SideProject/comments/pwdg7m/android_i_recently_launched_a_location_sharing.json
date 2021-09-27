@@ -37,5 +37,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "With the app, you will automatically generate a web page that shows your\nlocation, remaining time and distance to your destination.\n\nYou can link socialmedia or your website on the page. You can also include text\nsuch as a discount code.\n\nAn example of a link the customer may see: wayo.pl/rgxbs…"
+  "the_new_excerpt": "With the app, you will automatically generate a web page that shows your\nlocation, remaining time and distance to your destination.\n\nYou can link socialmedia or your website on the page. You can also include text\nsuch as a discount code.\n\nAn example of a link the customer may see: wayo.pl/rgxbs…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "このアプリを使うと、自分の位置情報や残り時間、距離を表示するウェブページが自動的に生成されます。\n現在地、残り時間、目的地までの距離が表示されたウェブページが自動的に生成されます。\n\nこのページには、ソーシャルメディアや自分のウェブサイトをリンクさせることができます。また、割引コードなどのテキストを\n割引コードなどのテキストを入れることもできます。\n\nお客様に表示されるリンクの例：wayo.pl/rgxbs...",
+      "title": "[Android】先日、弟と一緒に飲食店などのセルフサービス業向けの位置情報共有アプリを立ち上げました。フィードバックをお願いします。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "使用该应用程序，你将自动生成一个网页，显示你的\n剩余时间和到目的地的距离。\n\n你可以在页面上链接社交媒体或你的网站。你还可以包括文字\n如折扣代码。\n\n客户可能看到的链接的例子：wayo.pl/rgxbs...",
+      "title": "[安卓]我最近和我的兄弟推出了一个位置共享应用程序，用于自带餐厅和其他自带行业。希望能得到反馈。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "使用該應用程序，你將自動生成一個網頁，顯示你的\n剩餘時間和到目的地的距離。\n\n你可以在頁面上鍊接社交媒體或你的網站。你還可以包括文字\n如折扣代碼。\n\n客戶可能看到的鏈接的例子：wayo.pl/rgxbs...",
+      "title": "[安卓]我最近和我的兄弟推出了一個位置共享應用程序，用於自帶餐廳和其他自帶行業。希望能得到反饋。"
+    }
+  ]
 }
