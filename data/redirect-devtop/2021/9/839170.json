@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-24T15:20:22Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mFtzqMaY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/egxj3txtl1sp71806fuu.jpg",
   "author": "Pawel",
-  "author_url": "https://dev.to/pb"
+  "author_url": "https://dev.to/pb",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "オープンソースソフトウェアは、人類が生み出した最も美しい作品のひとつです。それはパワーだけではなく...",
+      "title": "学生が参加するオープンソースプログラム"
+    },
+    {
+      "locale": "zh",
+      "description": "开源软件是人类最美丽的创造之一。它不仅能使我们的生活更美好，而且还能使我们的生活更美好。",
+      "title": "学生参与的开源项目"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "開源軟件是人類最美麗的創造之一。它不僅能使我們的生活更美好，而且還能使我們的生活更美好。",
+      "title": "學生參與的開源項目"
+    }
+  ]
 }

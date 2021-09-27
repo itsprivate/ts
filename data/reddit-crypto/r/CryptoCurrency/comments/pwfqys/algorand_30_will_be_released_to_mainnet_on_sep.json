@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "HIGHLIGHTS\n\nThis release features the 1.0 version of AVM, extending Algorand's smart\ncontract capabilities for even greater composability. Highlights in this release\ninclude:\n\n * Application transactions: the ability for smart contracts to execute\n   transactions on directly on chain.\n * App cost…"
+  "the_new_excerpt": "HIGHLIGHTS\n\nThis release features the 1.0 version of AVM, extending Algorand's smart\ncontract capabilities for even greater composability. Highlights in this release\ninclude:\n\n * Application transactions: the ability for smart contracts to execute\n   transactions on directly on chain.\n * App cost…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "主な特徴\n\n今回のリリースでは、AVMの1.0バージョンを採用し、Algorandのスマートコントラクト機能を拡張しました。\nスマートコントラクトの機能を拡張し、より高いコンポーザビリティを実現しました。このリリースのハイライト\nは以下の通りです。\n\n * アプリケーション・トランザクション：スマートコントラクトがチェーン上で直接トランザクションを実行する機能。\n   アプリケーショントランザクション：スマートコントラクトが直接チェーン上でトランザクションを実行する機能。\n * アプリコスト...",
+      "title": "Algorand 3.0は9月29日にMainNetにリリースされます。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "内容提要\n\n该版本具有1.0版本的AVM，扩展了Algorand的智能\n合约的能力，以实现更高的可组合性。该版本的亮点\n包括。\n\n * 应用交易：智能合约能够直接在链上执行交易。\n   应用交易：智能合约能够直接在链上执行交易。\n * 应用成本：智能合约能够直接在链上执行交易。",
+      "title": "Algorand 3.0将于9月29日发布到MainNet!"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "內容提要\n\n該版本具有1.0版本的AVM，擴展了Algorand的智能\n合約的能力，以實現更高的可組合性。該版本的亮點\n包括。\n\n * 應用交易：智能合約能夠直接在鏈上執行交易。\n   應用交易：智能合約能夠直接在鏈上執行交易。\n * 應用成本：智能合約能夠直接在鏈上執行交易。",
+      "title": "Algorand 3.0將於9月29日發佈到MainNet!"
+    }
+  ]
 }
