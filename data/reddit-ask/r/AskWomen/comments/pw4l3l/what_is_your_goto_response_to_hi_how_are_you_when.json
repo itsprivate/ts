@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "実際にひどい目にあったときに、「こんにちは、お元気ですか」と言われたら、どのように答えますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "当你实际感觉很糟糕的时候，你对 \"嗨，你好吗 \"的回答是什么呢？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當你實際感覺很糟糕的時候，你對 \"嗨，你好嗎 \"的回答是什麼呢？"
+    }
+  ]
 }
