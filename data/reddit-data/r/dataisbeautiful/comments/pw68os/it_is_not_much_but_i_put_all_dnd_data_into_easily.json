@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "大したことではありませんが、すべてのDnDデータを簡単に読めるJSONファイルにまとめました。"
+    },
+    {
+      "locale": "zh",
+      "title": "虽然不多，但是，我把所有的DnD数据都放到容易阅读的JSON文件中。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "雖然不多，但是，我把所有的DnD數據都放到容易閱讀的JSON文件中。"
+    }
+  ]
 }
