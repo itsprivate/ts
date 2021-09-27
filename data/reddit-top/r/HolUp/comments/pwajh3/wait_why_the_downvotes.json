@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "待ってください。なぜダウンボットされるのか？"
+    },
+    {
+      "locale": "zh",
+      "title": "等等。为什么要降级？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "等等。爲什麼要降級？"
+    }
+  ]
 }

@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このサイトによると、中国は現在194,000以上のビットコインを保有しています。"
+    },
+    {
+      "locale": "zh",
+      "title": "根据这个网站，中国目前持有194,000多个比特币。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "根據這個網站，中國目前持有194,000多個比特幣。"
+    }
+  ]
 }
