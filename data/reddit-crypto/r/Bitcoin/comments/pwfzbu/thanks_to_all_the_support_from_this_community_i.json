@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このコミュニティからのサポートのおかげで、私は石けん作りのビジネスを始めることができました。ビットコインソープを紹介します。"
+    },
+    {
+      "locale": "zh",
+      "title": "感谢这个社区的所有支持，我才得以启动我的肥皂制作业务。介绍一下Bitcoin Soap。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "感謝這個社區的所有支持，我才得以啓動我的肥皂製作業務。介紹一下Bitcoin Soap。"
+    }
+  ]
 }
