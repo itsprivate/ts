@@ -121,5 +121,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "そうかもしれない"
+    },
+    {
+      "locale": "zh",
+      "title": "也许是这样"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "也許是這樣"
+    }
+  ]
 }
