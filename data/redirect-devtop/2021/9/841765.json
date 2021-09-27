@@ -43,5 +43,22 @@
   "original_created_at": "2021-09-27T04:10:14Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--H77ROdek--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y65wvto0r4st3uxd9bba.jpg",
   "author": "Sumudu Siriwardana",
-  "author_url": "https://dev.to/sumusiriwardana"
+  "author_url": "https://dev.to/sumusiriwardana",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "プログラミングやJavaScriptの初心者の方は、まずその概念を理解するのが難しいと思います。",
+      "title": "JavaScriptの関数です。5歳児のように説明する"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你是一个编程和JavaScript的新手，你可能首先发现很难掌握这个概念。",
+      "title": "JavaScript函数。解释一下，就像我是五岁小孩一样"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你是一個編程和JavaScript的新手，你可能首先發現很難掌握這個概念。",
+      "title": "JavaScript函數。解釋一下，就像我是五歲小孩一樣"
+    }
+  ]
 }
