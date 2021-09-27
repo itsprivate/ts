@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-26T00:33:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZEFCE71T--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://img.freepik.com/free-photo/cryptocurrency-coins-dark-surface-blockchain-money_136875-2117.jpg",
   "author": "Angie Jones",
-  "author_url": "https://dev.to/techgirl1908"
+  "author_url": "https://dev.to/techgirl1908",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ブロックチェーン、ビットコイン、イーサリアム、スマートコントラクトの基本的な紹介",
+      "title": "ブロックチェーン101（とそれを利用したプロトコル"
+    },
+    {
+      "locale": "zh",
+      "description": "区块链、比特币、以太坊和智能合约的基本介绍",
+      "title": "区块链101（以及使用区块链的协议"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "區塊鏈、比特幣、以太坊和智能合約的基本介紹",
+      "title": "區塊鏈101（以及使用區塊鏈的協議"
+    }
+  ]
 }
