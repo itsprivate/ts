@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-26T11:53:50Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ssOOQyVi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5na5awbcp2d6xw0e6h32.png",
   "author": "The Nerdy Dev",
-  "author_url": "https://dev.to/thenerdydev"
+  "author_url": "https://dev.to/thenerdydev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは👋🏻 今回は、開発者にとって必須のGitコマンドについてご紹介します。",
+      "title": "The Only Git Cheat Sheet that you'll ever need - Trust me😄。"
+    },
+    {
+      "locale": "zh",
+      "description": "Hey everyone 👋🏻, In this article, let us learn about the essential Git commands that every developer...",
+      "title": "你唯一需要的Git Cheat Sheet - 相信我😄"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Hey everyone 👋🏻, In this article, let us learn about the essential Git commands that every developer...",
+      "title": "你唯一需要的Git Cheat Sheet - 相信我😄"
+    }
+  ]
 }
