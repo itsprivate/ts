@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-25T05:45:33Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bOu6nlwC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7l5mmsh7gmdhy2nq66zn.PNG",
   "author": "Mr. Unity Buddy",
-  "author_url": "https://dev.to/unitybuddy"
+  "author_url": "https://dev.to/unitybuddy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、仲間たちよ。ゲームデザインは、エキサイティングでやりがいのある、多面的な分野であり、将来性のある仕事です。",
+      "title": "ゲームデザインのゼロからヒーローへ。ビギナーズガイド"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，伙伴们! 游戏设计是一个令人兴奋的、有价值的和多层面的领域，有前途的工作。",
+      "title": "从零到英雄的游戏设计。初学者指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，夥伴們! 遊戲設計是一個令人興奮的、有價值的和多層面的領域，有前途的工作。",
+      "title": "從零到英雄的遊戲設計。初學者指南"
+    }
+  ]
 }
