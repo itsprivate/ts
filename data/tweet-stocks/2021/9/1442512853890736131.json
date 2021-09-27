@@ -52,5 +52,22 @@
     },
     "retweet_count": 5620,
     "favorite_count": 19305
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @cdixon: なぜウェブ3は重要なのか？",
+      "retweeted_status_full_text": "Web 3が重要な理由🧵"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @cdixon: 为什么Web 3很重要 🧵",
+      "retweeted_status_full_text": "为什么Web 3很重要 🧵"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @cdixon: 爲什麼Web 3很重要 🧵",
+      "retweeted_status_full_text": "爲什麼Web 3很重要 🧵"
+    }
+  ]
 }
