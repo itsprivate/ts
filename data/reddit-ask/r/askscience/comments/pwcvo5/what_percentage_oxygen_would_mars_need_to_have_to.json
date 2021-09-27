@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "現在の大気密度で火星が人類を維持するためには、何パーセントの酸素が必要ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "在目前的大气密度下，火星需要有多少百分比的氧气才能支持人类？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在目前的大氣密度下，火星需要有多少百分比的氧氣才能支持人類？"
+    }
+  ]
 }
