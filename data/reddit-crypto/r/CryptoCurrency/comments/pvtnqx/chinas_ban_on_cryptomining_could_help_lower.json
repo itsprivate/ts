@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "中国が暗号解読を禁止することで、NvidiaとAMDの価格が下がる可能性があり、ようやく欲しいグラフィックカードを手に入れることができる。"
+    },
+    {
+      "locale": "zh",
+      "title": "中国对加密开采的禁令可能有助于降低Nvidia和AMD的价格，你终于可以得到你想要的显卡。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "中國對加密開採的禁令可能有助於降低Nvidia和AMD的價格，你終於可以得到你想要的顯卡。"
+    }
+  ]
 }
