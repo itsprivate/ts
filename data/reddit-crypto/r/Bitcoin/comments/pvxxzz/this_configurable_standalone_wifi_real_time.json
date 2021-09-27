@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この設定可能なスタンドアロンのWiFiリアルタイムティッカーは、数ヶ月前にコーディングして3Dプリントしたものです。全てのBinanceペアに対応しています。PCは必要ありません。"
+    },
+    {
+      "locale": "zh",
+      "title": "这个可配置的独立WiFi实时行情器是我几个月前编码和3D打印的。支持所有Binance货币对。不需要电脑。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個可配置的獨立WiFi實時行情器是我幾個月前編碼和3D打印的。支持所有Binance貨幣對。不需要電腦。"
+    }
+  ]
 }
