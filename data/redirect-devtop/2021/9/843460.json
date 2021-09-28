@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-28T03:59:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AkrPEBCj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c3c1di48g862hcwdyntl.png",
   "author": "OpenReplay Tech Blog",
-  "author_url": "https://dev.to/asayerio_techblog"
+  "author_url": "https://dev.to/asayerio_techblog",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "by author Victoria Lo この記事では、Redux Toolkit、または開発チームが使用しているRedux Toolkitについて説明します。",
+      "title": "Redux is Dead: Long Live Redux Toolkit"
+    },
+    {
+      "locale": "zh",
+      "description": "作者：Victoria Lo 在这篇文章中，我们来了解一下Redux工具包，或者说开发团队...",
+      "title": "Redux已死：Redux工具箱万岁"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "作者：Victoria Lo 在這篇文章中，我們來了解一下Redux工具包，或者說開發團隊...",
+      "title": "Redux已死：Redux工具箱萬歲"
+    }
+  ]
 }
