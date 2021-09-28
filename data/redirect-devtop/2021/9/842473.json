@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-27T15:28:59Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_gFGAkVl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6qsq9cjlp43oez0hsxxa.jpg",
   "author": "Roman Sarder",
-  "author_url": "https://dev.to/romansarder"
+  "author_url": "https://dev.to/romansarder",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに 現代のJavaScriptプログラムで最も複雑なものの一つに、非同期性があります。私たちは...",
+      "title": "Async JavaScriptのサガ。ジェネレーター"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍 现代JavaScript程序中最复杂的东西之一是异步性。我们...",
+      "title": "非同步JavaScript的传奇。生成器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹 現代JavaScript程序中最複雜的東西之一是異步性。我們...",
+      "title": "非同步JavaScript的傳奇。生成器"
+    }
+  ]
 }
