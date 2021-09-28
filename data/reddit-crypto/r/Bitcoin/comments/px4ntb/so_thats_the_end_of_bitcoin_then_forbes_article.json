@@ -42,5 +42,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"So, That's the End of Bitcoin Then\" - Bitcoinが15.15ドルの時に掲載されたForbesの記事"
+    },
+    {
+      "locale": "zh",
+      "title": "\"那么，这就是比特币的终结者\"--《福布斯》在比特币为15.15美元时发表的文章"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"那麼，這就是比特幣的終結者\"--《福布斯》在比特幣爲15.15美元時發表的文章"
+    }
+  ]
 }
