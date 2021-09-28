@@ -134,5 +134,22 @@
     "retweet_count": 177,
     "favorite_count": 896,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @zerohedge: アメリカの瞬間 https://t.co/justa6LPBH",
+      "retweeted_status_full_text": "A US moment https://t.co/justa6LPBH"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @zerohedge: 美国的一个时刻 https://t.co/justa6LPBH",
+      "retweeted_status_full_text": "美国的一个时刻https://t.co/justa6LPBH"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @zerohedge: 美國的一個時刻 https://t.co/justa6LPBH",
+      "retweeted_status_full_text": "美國的一個時刻https://t.co/justa6LPBH"
+    }
+  ]
 }
