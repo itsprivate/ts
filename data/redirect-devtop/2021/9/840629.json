@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-25T21:51:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SlnjXPyi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lgrttg44xmq62yy7lqxf.png",
   "author": "John Idogun",
-  "author_url": "https://dev.to/sirneij"
+  "author_url": "https://dev.to/sirneij",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "背景 最近、python(Django)を使ってHackernewsのAPIを扱うことになりました。そこでは...",
+      "title": "美しいHackernewsのUI。Python(Django)でHackernews APIを操作する "
+    },
+    {
+      "locale": "zh",
+      "description": "背景 我最近被安排使用python（Django）与Hackernews API合作。在那里...",
+      "title": "美丽的Hackernews用户界面。在Python中使用Hackernews API(Django)工作 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "背景 我最近被安排使用python（Django）與Hackernews API合作。在那裏...",
+      "title": "美麗的Hackernews用戶界面。在Python中使用Hackernews API(Django)工作 "
+    }
+  ]
 }
