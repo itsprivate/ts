@@ -43,5 +43,22 @@
   "original_created_at": "2021-09-28T08:23:49Z",
   "image": "https://dev.to/social_previews/article/843716.png",
   "author": "Sebastián Ramírez",
-  "author_url": "https://dev.to/tiangolo"
+  "author_url": "https://dev.to/tiangolo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事は以下に住んでいます。  Dev.to Medium GitHub The FastAPI docs Intro ここでは、簡単な説明をしています。",
+      "title": "開発者のためのHTTPS"
+    },
+    {
+      "locale": "zh",
+      "description": "这篇文章存在于。  Dev.to Medium GitHub The FastAPI docs 介绍 这里是一个简短的...",
+      "title": "开发人员的HTTPS"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這篇文章存在於。  Dev.to Medium GitHub The FastAPI docs 介紹 這裏是一個簡短的...",
+      "title": "開發人員的HTTPS"
+    }
+  ]
 }
