@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-27T10:29:54Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WG7s9M8b--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fxwqws5a5h0sukxkb5e8.png",
   "author": "Nikhil Singh",
-  "author_url": "https://dev.to/thenickrj"
+  "author_url": "https://dev.to/thenickrj",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "styled-componentsでは、コンポーネントのスタイルを決めるために実際のCSSコードを書くことができます。また、これにより、...",
+      "title": "ダークモード。styled-componentsを使った条件付きスタイリング"
+    },
+    {
+      "locale": "zh",
+      "description": "样式化组件允许你编写实际的CSS代码来样式化你的组件。它还删除了...",
+      "title": "黑暗模式。使用风格化组件的条件性造型"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "樣式化組件允許你編寫實際的CSS代碼來樣式化你的組件。它還刪除了...",
+      "title": "黑暗模式。使用風格化組件的條件性造型"
+    }
+  ]
 }
