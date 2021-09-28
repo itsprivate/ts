@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この人はバックヤードのことをよく知っている。"
+    },
+    {
+      "locale": "zh",
+      "title": "这家伙把后院弄得很好。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這傢伙把後院弄得很好。"
+    }
+  ]
 }
