@@ -83,5 +83,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-27T10:48:57Z"
+  "original_createdAt": "2021-09-27T10:48:57Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Noirは、訪問したすべてのウェブサイトにダークモードを自動的に追加する、iOS（15）用のSafari拡張機能です。夜間のウェブ閲覧がとても快適になります。",
+      "tagline": "Safariのダークモードで夜間の閲覧を改善"
+    },
+    {
+      "locale": "zh",
+      "description": "Noir是iOS(15)的一个Safari扩展，可以自动为你访问的每个网站添加黑暗模式。它使夜间浏览网页的效果好得多。",
+      "tagline": "用Safari的黑暗模式在夜间更好地浏览"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Noir是iOS(15)的一個Safari擴展，可以自動爲你訪問的每個網站添加黑暗模式。它使夜間瀏覽網頁的效果好得多。",
+      "tagline": "用Safari的黑暗模式在夜間更好地瀏覽"
+    }
+  ]
 }
