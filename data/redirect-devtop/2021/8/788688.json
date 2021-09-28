@@ -50,5 +50,22 @@
   "original_created_at": "2021-08-11T17:52:40Z",
   "image": "https://dev.to/social_previews/article/788688.png",
   "author": "Fábio Englert Moutinho",
-  "author_url": "https://dev.to/fabioemoutinho"
+  "author_url": "https://dev.to/fabioemoutinho",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Angularの開発者であれば、高度なTypeScriptの機能を使っていないと損をします。",
+      "title": "Angular開発者が知っておくべきTypeScriptの機能"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你是一个Angular开发者，如果你不使用先进的TypeScript功能，你就错过了...",
+      "title": "每个Angular开发者都需要知道的TypeScript特性"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你是一個Angular開發者，如果你不使用先進的TypeScript功能，你就錯過了...",
+      "title": "每個Angular開發者都需要知道的TypeScript特性"
+    }
+  ]
 }
