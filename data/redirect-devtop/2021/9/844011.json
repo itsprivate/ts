@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-28T12:02:02Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NXCrdb6P--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2bz868y9b2sv471ag7cg.jpg",
   "author": "Oleksii Trekhleb",
-  "author_url": "https://dev.to/trekhleb"
+  "author_url": "https://dev.to/trekhleb",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "遺伝的アルゴリズムを使って車にセルフパーキングをさせる TL;DR この記事では、...",
+      "title": "500行以下のコードで自動駐車する車"
+    },
+    {
+      "locale": "zh",
+      "description": "使用遗传算法训练汽车进行自动泊车 TL;DR 在这篇文章中，...",
+      "title": "<500行代码的自动停放汽车"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用遺傳算法訓練汽車進行自動泊車 TL;DR 在這篇文章中，...",
+      "title": "<500行代碼的自動停放汽車"
+    }
+  ]
 }
