@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "電気自動車「Rivian」の特徴"
+    },
+    {
+      "locale": "zh",
+      "title": "这款Rivian电动车的特点"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這款Rivian電動車的特點"
+    }
+  ]
 }
