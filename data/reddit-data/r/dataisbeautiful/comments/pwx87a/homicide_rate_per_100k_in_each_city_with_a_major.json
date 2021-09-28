@@ -42,5 +42,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "メジャーリーグベースボールチームがある各都市の100kあたりの殺人事件発生率[OC)"
+    },
+    {
+      "locale": "zh",
+      "title": "拥有美国职业棒球大联盟球队的每个城市每10万人中的凶杀率[OC]。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "擁有美國職業棒球大聯盟球隊的每個城市每10萬人中的兇殺率[OC]。"
+    }
+  ]
 }
