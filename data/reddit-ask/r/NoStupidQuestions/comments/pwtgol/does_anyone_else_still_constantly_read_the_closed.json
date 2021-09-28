@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "音声は全く問題なく聞けるのに、いまだにクローズドキャプションを読み続けている人はいませんか？"
+    },
+    {
+      "locale": "zh",
+      "title": "还有人在听到声音完全正常的情况下，仍然不断阅读封闭式字幕吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "還有人在聽到聲音完全正常的情況下，仍然不斷閱讀封閉式字幕嗎？"
+    }
+  ]
 }
