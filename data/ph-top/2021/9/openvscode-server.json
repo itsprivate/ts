@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-28T13:52:05Z"
+  "original_createdAt": "2021-09-28T13:52:05Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最新のWebブラウザでアクセスしたリモートマシン上で、最新のVS Codeを実行することができます - どんなデバイスからでも、どこからでも。このオープンソースプロジェクトは、GitLab社、VMware社、Uber社、SAP社、RStudio社、Sourcegraph社など、多くの企業が公式に支援しています。",
+      "tagline": "誰でもブラウザでVSコード"
+    },
+    {
+      "locale": "zh",
+      "description": "在通过现代网络浏览器访问的远程机器上运行最新的VS代码--从任何设备，从任何地方。这个开源项目得到了GitLab、VMware、Uber、SAP、RStudio、Sourcegraph和其他许多机构的官方支持。",
+      "tagline": "在浏览器中为每个人提供VS代码"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在通過現代網絡瀏覽器訪問的遠程機器上運行最新的VS代碼--從任何設備，從任何地方。這個開源項目得到了GitLab、VMware、Uber、SAP、RStudio、Sourcegraph和其他許多機構的官方支持。",
+      "tagline": "在瀏覽器中爲每個人提供VS代碼"
+    }
+  ]
 }
