@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-28T13:01:00Z"
+  "original_createdAt": "2021-09-28T13:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ベータ版のDropbox Captureをお試しください。スクリーンショット、GIF、またはシンプルなビデオを画面上で記録して、メッセージを伝えましょう。予定を立てることなく、言いたいことを明確に伝えることができます。https://www.dropbox.com/capture で無料でお試しいただけます。",
+      "tagline": "打ち合わせをせずに自分の主張を伝える"
+    },
+    {
+      "locale": "zh",
+      "description": "试试Dropbox Capture，现在处于测试阶段。用屏幕上的截图、GIF或简单的视频来传达您的信息。因此，你可以清楚地说出你的意思，而无需安排任何事情。请在 https://www.dropbox.com/capture 免费试用。",
+      "tagline": "不用开会就能表达你的观点"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "試試Dropbox Capture，現在處於測試階段。用屏幕上的截圖、GIF或簡單的視頻來傳達您的信息。因此，你可以清楚地說出你的意思，而無需安排任何事情。請在 https://www.dropbox.com/capture 免費試用。",
+      "tagline": "不用開會就能表達你的觀點"
+    }
+  ]
 }

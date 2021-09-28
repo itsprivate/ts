@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-25T17:55:35Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vDwkE5fv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oov34x71yezprqi0bqnh.png",
   "author": "Anjan Shomooder",
-  "author_url": "https://dev.to/thatanjan"
+  "author_url": "https://dev.to/thatanjan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このブログでは、クライアントサイドレンダリングについて、必要な知識をすべて学ぶことができます。 クライアントサイド...",
+      "title": "クライアントサイド・レンダリングとは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇博客中，你将了解到你需要知道的关于客户端渲染的一切。 客户端...",
+      "title": "什么是客户端渲染？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇博客中，你將瞭解到你需要知道的關於客戶端渲染的一切。 客戶端...",
+      "title": "什麼是客戶端渲染？"
+    }
+  ]
 }
