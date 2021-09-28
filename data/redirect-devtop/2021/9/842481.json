@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-27T15:48:01Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--40kaR4pl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/unyn8c16a6a2rl1bon4s.png",
   "author": "Kenneth Angelo Reyes",
-  "author_url": "https://dev.to/projectkenneth"
+  "author_url": "https://dev.to/projectkenneth",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "React + React Router環境では、ルーティング設定は、ルート...の間の1対1のマッピングです。",
+      "title": "Reactにおけるモジュール式ルーティング"
+    },
+    {
+      "locale": "zh",
+      "description": "在React+React Router环境中，路由配置是一个路由之间一对一的映射。",
+      "title": "React中的模块化路由"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在React+React Router環境中，路由配置是一個路由之間一對一的映射。",
+      "title": "React中的模塊化路由"
+    }
+  ]
 }
