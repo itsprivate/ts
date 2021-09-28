@@ -41,5 +41,22 @@
   "original_created_at": "2021-09-27T08:23:22Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--y9pRKDde--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8blcgbh0tff4nq0hxsum.png",
   "author": "reactjsfav",
-  "author_url": "https://dev.to/pccprint"
+  "author_url": "https://dev.to/pccprint",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Recharts RechartsはReactとD3で作られたRedefinedチャートライブラリです。 主な目的は...",
+      "title": "✨Top React Charts Libraries [2021]. "
+    },
+    {
+      "locale": "zh",
+      "description": "Recharts Recharts是一个用React和D3构建的重定义图表库。 它的主要目的是让人们能够更容易地了解自己的需求。",
+      "title": "✨ Top React Charts Libraries [2021年] "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Recharts Recharts是一個用React和D3構建的重定義圖表庫。 它的主要目的是讓人們能夠更容易地瞭解自己的需求。",
+      "title": "✨ Top React Charts Libraries [2021年] "
+    }
+  ]
 }
