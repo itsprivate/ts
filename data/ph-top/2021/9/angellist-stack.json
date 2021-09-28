@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-28T19:48:19Z"
+  "original_createdAt": "2021-09-28T19:48:19Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "AngelList Stackでは、資金調達が可能なスタートアップを簡単に作ることができます。法人設立、銀行業務、株式管理、資金調達、採用を一度に行うことができます。",
+      "tagline": "スタートアップの立ち上げとスケールアップに必要なすべてのもの"
+    },
+    {
+      "locale": "zh",
+      "description": "AngelList Stack可以让你毫不费力地创建一个可筹款的创业公司。公司注册、银行业务、股权管理、筹款和招聘都在一个地方。",
+      "tagline": "你所需要的一切，以启动和扩大你的创业公司"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "AngelList Stack可以讓你毫不費力地創建一個可籌款的創業公司。公司註冊、銀行業務、股權管理、籌款和招聘都在一個地方。",
+      "tagline": "你所需要的一切，以啓動和擴大你的創業公司"
+    }
+  ]
 }
