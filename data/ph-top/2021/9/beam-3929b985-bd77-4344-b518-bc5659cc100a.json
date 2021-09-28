@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-28T07:01:00Z"
+  "original_createdAt": "2021-09-28T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Beamは、社内のYoutubeのようなものです。ビデオ通話を非同期のビデオにして、後で見返すことができます。",
+      "tagline": "ビデオナレッジベース"
+    },
+    {
+      "locale": "zh",
+      "description": "Beam是贵公司的内部Youtube。&nbsp; 我们将您的视频通话变成异步视频，您可以稍后回看，让您的团队以前所未有的方式保持一致并了解情况。",
+      "tagline": "一个视频知识库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Beam是貴公司的內部Youtube。&nbsp; 我們將您的視頻通話變成異步視頻，您可以稍後回看，讓您的團隊以前所未有的方式保持一致並瞭解情況。",
+      "tagline": "一個視頻知識庫"
+    }
+  ]
 }
