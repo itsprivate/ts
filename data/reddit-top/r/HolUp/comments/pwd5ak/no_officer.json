@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "役員はいない。"
+    },
+    {
+      "locale": "zh",
+      "title": "没有官员。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "沒有官員。"
+    }
+  ]
 }
