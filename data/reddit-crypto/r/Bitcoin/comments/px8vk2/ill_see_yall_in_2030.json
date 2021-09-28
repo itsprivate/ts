@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "2030年に会いましょう"
+    },
+    {
+      "locale": "zh",
+      "title": "我将在2030年看到你们。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我將在2030年看到你們。"
+    }
+  ]
 }
