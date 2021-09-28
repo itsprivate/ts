@@ -50,5 +50,22 @@
   "original_created_at": "2021-09-21T10:41:31Z",
   "image": "https://dev.to/social_previews/article/833724.png",
   "author": "aleksandarPerc",
-  "author_url": "https://dev.to/aleksandarperc"
+  "author_url": "https://dev.to/aleksandarperc",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Into City クラウドシティに引っ越してきたとき、誰もが親切でフレンドリーであることに気づきました....",
+      "title": "私とAWSとNetlify"
+    },
+    {
+      "locale": "zh",
+      "description": "进入城市 当我搬到云城时，我注意到每个人都很好，很友好....。",
+      "title": "我、AWS和Netlify"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "進入城市 當我搬到雲城時，我注意到每個人都很好，很友好....。",
+      "title": "我、AWS和Netlify"
+    }
+  ]
 }
