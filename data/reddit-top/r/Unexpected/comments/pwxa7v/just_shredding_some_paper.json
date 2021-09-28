@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "シュレッダーで紙を切るだけ"
+    },
+    {
+      "locale": "zh",
+      "title": "只是撕碎了一些纸"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "只是撕碎了一些紙"
+    }
+  ]
 }
