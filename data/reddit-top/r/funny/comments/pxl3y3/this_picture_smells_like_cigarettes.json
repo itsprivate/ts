@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この写真はタバコの匂いがする"
+    },
+    {
+      "locale": "zh",
+      "title": "这张照片有香烟的味道"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這張照片有香菸的味道"
+    }
+  ]
 }
