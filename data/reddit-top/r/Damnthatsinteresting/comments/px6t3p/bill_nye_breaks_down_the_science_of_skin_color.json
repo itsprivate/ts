@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビル・ナイは肌の色の科学を解明し、人種差別がなぜおかしいのかを明らかにしました。"
+    },
+    {
+      "locale": "zh",
+      "title": "比尔-奈分析了肤色的科学性，并说明为什么种族主义是荒谬的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比爾-奈分析了膚色的科學性，並說明爲什麼種族主義是荒謬的。"
+    }
+  ]
 }
