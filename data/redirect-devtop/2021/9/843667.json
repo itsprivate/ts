@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-28T06:44:11Z",
   "image": "https://dev.to/social_previews/article/843667.png",
   "author": "Software Services",
-  "author_url": "https://dev.to/tkxel"
+  "author_url": "https://dev.to/tkxel",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "簡単に言えば、レタリングとは、文字を描く技術のことです。このシステムを使うことで、あなたは...",
+      "title": "UI/UXデザインにおけるレタリングの使い方"
+    },
+    {
+      "locale": "zh",
+      "description": "简单地说，刻字是指绘制字母的艺术。使用这个系统，你将创造出...",
+      "title": "如何在UI/UX设计中使用字母？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡單地說，刻字是指繪製字母的藝術。使用這個系統，你將創造出...",
+      "title": "如何在UI/UX設計中使用字母？"
+    }
+  ]
 }
