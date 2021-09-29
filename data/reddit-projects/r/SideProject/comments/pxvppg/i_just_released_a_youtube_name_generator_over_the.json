@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "大規模なニューラルネットワークを鍛えて、週末に「Youtubeネームジェネレーター」をリリースしたばかりですが"
+    },
+    {
+      "locale": "zh",
+      "title": "我刚刚在周末发布了一个 \"Youtube名称生成器\"，通过训练一个大规模的神经网络"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我剛剛在週末發佈了一個 \"Youtube名稱生成器\"，通過訓練一個大規模的神經網絡"
+    }
+  ]
 }
