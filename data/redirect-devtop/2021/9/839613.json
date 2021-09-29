@@ -55,5 +55,22 @@
   "original_created_at": "2021-09-24T20:55:38Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AFOuA4Kw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l6qxm0d7eec35i8oqptf.png",
   "author": "Pubudu Jayawardana",
-  "author_url": "https://dev.to/pubudusj"
+  "author_url": "https://dev.to/pubudusj",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "(このブログ記事はpubudu.devに掲載されました。) Introduction この記事では...",
+      "title": "AWS ServerlessでシンプルなOTPシステムを作る"
+    },
+    {
+      "locale": "zh",
+      "description": "(这篇博文首次出现在pubudu.dev中）介绍 这篇文章描述了如何实现...",
+      "title": "用AWS Serverless创建一个简单的OTP系统"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "(這篇博文首次出現在pubudu.dev中）介紹 這篇文章描述瞭如何實現...",
+      "title": "用AWS Serverless創建一個簡單的OTP系統"
+    }
+  ]
 }
