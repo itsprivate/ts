@@ -83,5 +83,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-29T07:05:00Z"
+  "original_createdAt": "2021-09-29T07:05:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Hyperwebは、Safariでブラウズしているときに、魔法のようにウェブを強化し、広告を自動的にブロックしたり、ポップアップを除去したり、現在表示しているページのスマートな代替案を提案します。Hyperwebは、デバイス上で100％ローカルに動作し、提案される機能拡張は常に進化し続けています。",
+      "tagline": "オールインワンのiOS Safari拡張機能"
+    },
+    {
+      "locale": "zh",
+      "description": "当你在Safari浏览器中浏览时，Hyperweb神奇地增强了网络，自动阻止广告，驳回弹出窗口，并为你正在浏览的页面建议智能替代方案。Hyperweb在设备上100%本地运行，建议的增强功能也在不断增加。",
+      "tagline": "多合一的iOS Safari扩展"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當你在Safari瀏覽器中瀏覽時，Hyperweb神奇地增強了網絡，自動阻止廣告，駁回彈出窗口，併爲你正在瀏覽的頁面建議智能替代方案。Hyperweb在設備上100%本地運行，建議的增強功能也在不斷增加。",
+      "tagline": "多合一的iOS Safari擴展"
+    }
+  ]
 }
