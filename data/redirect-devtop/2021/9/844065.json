@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-28T14:00:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1VtFDIF4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9hflp3al8ndec17l4s6s.jpg",
   "author": "Bobby Iliev",
-  "author_url": "https://dev.to/bobbyiliev"
+  "author_url": "https://dev.to/bobbyiliev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに あなたがDevOps/SysOpsのエンジニア、開発者、または単にLinuxの開発者であるかどうかに関わらず、私たちはあなたのために何ができるかを考えます。",
+      "title": "🚀 The Missing SQL Basics Crash Course"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍：无论你是一名DevOps/SysOps工程师、开发人员，还是仅仅是一名Linux用户，你都可以在这里找到答案。",
+      "title": "🚀 遗失的SQL基础知识速成班"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹：無論你是一名DevOps/SysOps工程師、開發人員，還是僅僅是一名Linux用戶，你都可以在這裏找到答案。",
+      "title": "🚀 遺失的SQL基礎知識速成班"
+    }
+  ]
 }
