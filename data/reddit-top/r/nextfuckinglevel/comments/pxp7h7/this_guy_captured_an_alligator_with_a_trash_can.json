@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この男はゴミ箱でワニを捕獲した。"
+    },
+    {
+      "locale": "zh",
+      "title": "这个人用垃圾桶捕获了一只鳄鱼"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個人用垃圾桶捕獲了一隻鱷魚"
+    }
+  ]
 }

@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼らが持っているものが欲しい"
+    },
+    {
+      "locale": "zh",
+      "title": "我想拥有他们的东西"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我想擁有他們的東西"
+    }
+  ]
 }
