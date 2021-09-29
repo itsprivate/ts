@@ -30,5 +30,19 @@
   "retweet_count": 55,
   "favorite_count": 65,
   "possibly_sensitive": false,
-  "original_created_at": "Wed Sep 29 18:00:07 +0000 2021"
+  "original_created_at": "Wed Sep 29 18:00:07 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "世界で公式に発表されているcovid-19の死亡者数は480万人ですが、当社の機械学習モデルでは、真の値は980万人から1850万人の追加死亡者数と推定しています https://t.co/yvSbEFmfdJ"
+    },
+    {
+      "locale": "zh",
+      "full_text": "世界上官方的covid-19死亡人数是480万，但我们的机器学习模型估计，真实的数值是980万到1850万的额外死亡https://t.co/yvSbEFmfdJ。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "世界上官方的covid-19死亡人數是480萬，但我們的機器學習模型估計，真實的數值是980萬到1850萬的額外死亡https://t.co/yvSbEFmfdJ。"
+    }
+  ]
 }
