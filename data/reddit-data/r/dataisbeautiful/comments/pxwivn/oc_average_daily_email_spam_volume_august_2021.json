@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] 1日あたりの平均メール・スパム量 (2021年8月)"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]日均电子邮件和垃圾邮件量（2021年8月"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]日均電子郵件和垃圾郵件量（2021年8月"
+    }
+  ]
 }
