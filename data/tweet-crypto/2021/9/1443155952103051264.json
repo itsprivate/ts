@@ -150,5 +150,22 @@
     "retweet_count": 9293,
     "favorite_count": 42920,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @nayibbukele: はじめの一歩...\n\n🌋#Bitcoin🇸🇻 https://t.co/duhHvmEnym",
+      "retweeted_status_full_text": "はじめの一歩...。\n\n🌋#Bitcoin🇸🇻 https://t.co/duhHvmEnym"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @nayibbukele: 第一步...\n\n🌋#比特币🇸🇻 https://t.co/duhHvmEnym",
+      "retweeted_status_full_text": "第一步...\n\n🌋#比特币🇸🇻 https://t.co/duhHvmEnym"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @nayibbukele: 第一步...\n\n🌋#比特幣🇸🇻 https://t.co/duhHvmEnym",
+      "retweeted_status_full_text": "第一步...\n\n🌋#比特幣🇸🇻 https://t.co/duhHvmEnym"
+    }
+  ]
 }
