@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "What are your thoughts?"
+  "the_new_excerpt": "What are your thoughts?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "あなたの考えはどうですか？",
+      "title": "恐怖と強欲の指数は25で \"極度の恐怖\""
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你有什么想法？",
+      "title": "恐惧和贪婪指数为25 \"极端恐惧\""
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你有什麼想法？",
+      "title": "恐懼和貪婪指數爲25 \"極端恐懼\""
+    }
+  ]
 }
