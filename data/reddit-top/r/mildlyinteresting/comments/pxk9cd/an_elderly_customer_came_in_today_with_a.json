@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "本日、マクドナルドのVIPカードをお持ちのご年配のお客様がご来店されました。"
+    },
+    {
+      "locale": "zh",
+      "title": "今天有一位老顾客拿着麦当劳的VIP卡来了"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "今天有一位老顧客拿着麥當勞的VIP卡來了"
+    }
+  ]
 }
