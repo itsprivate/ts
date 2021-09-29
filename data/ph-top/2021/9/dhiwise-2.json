@@ -103,5 +103,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-29T07:35:31Z"
+  "original_createdAt": "2021-09-29T07:35:31Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "DhiWiseは、いくつかのハイレベルな入力をするだけで、ウェブ、ネイティブ、ハイブリッドアプリを構築するためのプロダクションレディであるNode.js、Android、iOS、Flutter、Laravel、React Admin Panelのクリーンでスケーラブルかつカスタマイズ可能なコードを瞬時に生成することができるProCodeプラットフォームです。",
+      "tagline": "Webやモバイルアプリの制作に適したコードを即座に取得できます。"
+    },
+    {
+      "locale": "zh",
+      "description": "DhiWise是一个ProCode平台，可以帮助你立即生成干净、可扩展和可定制的Node.js、Android、iOS、Flutter、Laravel和React控制面板的代码，这些代码可以在生产中使用，只需几个高级输入就可以建立网络、本地和混合应用程序。",
+      "tagline": "立即为网络和移动应用程序获得生产准备的代码"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "DhiWise是一個ProCode平臺，可以幫助你立即生成乾淨、可擴展和可定製的Node.js、Android、iOS、Flutter、Laravel和React控制面板的代碼，這些代碼可以在生產中使用，只需幾個高級輸入就可以建立網絡、本地和混合應用程序。",
+      "tagline": "立即爲網絡和移動應用程序獲得生產準備的代碼"
+    }
+  ]
 }
