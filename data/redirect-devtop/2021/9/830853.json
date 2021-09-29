@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-18T19:46:13Z",
   "image": "https://dev.to/social_previews/article/830853.png",
   "author": "Asjad Anis",
-  "author_url": "https://dev.to/asjadanis"
+  "author_url": "https://dev.to/asjadanis",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "クイックサマリー この記事は、効率的でパフォーマンスの高いReact...を書く方法を説明することを目的としています。",
+      "title": "Reactアプリのパフォーマンスを最適化する "
+    },
+    {
+      "locale": "zh",
+      "description": "快速总结 本文旨在解释如何编写高效和高性能的React...",
+      "title": "优化React应用程序的性能 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "快速總結 本文旨在解釋如何編寫高效和高性能的React...",
+      "title": "優化React應用程序的性能 "
+    }
+  ]
 }
