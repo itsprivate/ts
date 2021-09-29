@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このソフトクリームの見た目は最高だと思います"
+    },
+    {
+      "locale": "zh",
+      "title": "这一定是最好看的软饮料。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這一定是最好看的軟飲料。"
+    }
+  ]
 }
