@@ -50,5 +50,22 @@
   "original_created_at": "2021-09-27T04:24:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wahacHW1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lom376w80jxhnpsk7ohz.jpg",
   "author": "Vic Shóstak",
-  "author_url": "https://dev.to/koddr"
+  "author_url": "https://dev.to/koddr",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに ねえねえ、すごいよDEVの人たち！😉 ちょっとした時間に、あなたの会社の人たちと一緒にいませんか？",
+      "title": "💭 Goのバックエンドからフロントエンドへの明確できれいなエラーメッセージを作るには？"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍： 嘿-嘿，了不起的DEV人！ 😉 在一个小公司里的时间如何？",
+      "title": "💭 如何从 Go 后台向你的前台发出清晰漂亮的错误信息？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹： 嘿-嘿，了不起的DEV人！ 😉 在一個小公司裏的時間如何？",
+      "title": "💭 如何從 Go 後臺向你的前臺發出清晰漂亮的錯誤信息？"
+    }
+  ]
 }
