@@ -43,5 +43,22 @@
   "original_created_at": "2021-09-27T20:08:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XKFd8kEi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/peth23gbu78jz8q1yrtg.png",
   "author": "NordicBeaver",
-  "author_url": "https://dev.to/nordicbeaver"
+  "author_url": "https://dev.to/nordicbeaver",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JavaScriptでは、コールバックからPromisesやasync/awaitへと完全に移行した感がありますね。",
+      "title": "JavaScript/TypeSctiptでカスタムPromiseを作る実例"
+    },
+    {
+      "locale": "zh",
+      "description": "感觉我们在JavaScript中已经完全从回调转移到了承诺和async/await...",
+      "title": "一个在JavaScript/TypeSctipt中制作自定义Promise的真实例子"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "感覺我們在JavaScript中已經完全從回調轉移到了承諾和async/await...",
+      "title": "一個在JavaScript/TypeSctipt中製作自定義Promise的真實例子"
+    }
+  ]
 }
