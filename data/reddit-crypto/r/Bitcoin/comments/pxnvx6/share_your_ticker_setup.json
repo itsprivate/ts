@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ティッカー設定の共有"
+    },
+    {
+      "locale": "zh",
+      "title": "分享您的票据设置"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "分享您的票據設置"
+    }
+  ]
 }
