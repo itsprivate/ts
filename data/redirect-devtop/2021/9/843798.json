@@ -43,5 +43,22 @@
   "original_created_at": "2021-09-28T10:31:37Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KtTJ585e--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8hr9nbkrpc7tcni16ug0.png",
   "author": "o1lab",
-  "author_url": "https://dev.to/o1lab"
+  "author_url": "https://dev.to/o1lab",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Airtableとは？  Airtableは、コラボレーション・アプリを作るためのローコード・プラットフォームです。それは...",
+      "title": "たった7行のnode.jsで、あらゆるデータベースをAirtableのようなスプレッドシートに変えることができます。 "
+    },
+    {
+      "locale": "zh",
+      "description": "那么，Airtable是什么？  Airtable是一个用于构建协作应用程序的低代码平台。它是一个低代码平台。",
+      "title": "仅仅7行node.js - 将任何数据库变成类似于Airtable的电子表格!  "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "那麼，Airtable是什麼？  Airtable是一個用於構建協作應用程序的低代碼平臺。它是一個低代碼平臺。",
+      "title": "僅僅7行node.js - 將任何數據庫變成類似於Airtable的電子表格!  "
+    }
+  ]
 }
