@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-30T11:10:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--siQc1WRq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hmctar2ygzln70dg995h.png",
   "author": "Dawid Andrzejewski",
-  "author_url": "https://dev.to/kemyd"
+  "author_url": "https://dev.to/kemyd",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Webサイトをゼロから作るのは、デザイナーがいないと大変な作業です。ほとんどの場合、...",
+      "title": "人気フレームワーク用のUIコンポーネントの最大のライブラリ"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你没有一个设计师，从头开始建立网站是一项艰巨的任务。大多数人都是这样。",
+      "title": "用于流行框架的最大的UI组件库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你沒有一個設計師，從頭開始建立網站是一項艱鉅的任務。大多數人都是這樣。",
+      "title": "用於流行框架的最大的UI組件庫"
+    }
+  ]
 }
