@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] COVIDを視野に入れて パンデミックによる死亡者数を、年齢層別の2019年の死亡率に重ねて表示。matplotlibとsquarifyで作成。"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC] 透视COVID。大流行的死亡人数与2019年各年龄组的死亡率相叠加。使用matplotlib和squarify制作。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC] 透視COVID。大流行的死亡人數與2019年各年齡組的死亡率相疊加。使用matplotlib和squarify製作。"
+    }
+  ]
 }
