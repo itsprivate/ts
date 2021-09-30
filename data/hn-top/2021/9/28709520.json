@@ -13,5 +13,19 @@
   ],
   "objectID": "28709520",
   "original_created_at": "2021-09-30T18:31:21.000Z",
-  "image": "https://status.slack.com/img/v2_rebrand/slack_hash_256.png"
+  "image": "https://status.slack.com/img/v2_rebrand/slack_hash_256.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Slackのサービスが停止しています。"
+    },
+    {
+      "locale": "zh",
+      "title": "Slack正在经历服务中断"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Slack正在經歷服務中斷"
+    }
+  ]
 }
