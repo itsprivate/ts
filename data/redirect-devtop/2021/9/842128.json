@@ -50,5 +50,22 @@
   "original_created_at": "2021-09-27T10:56:04Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--W55aCGy---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7ilucwp319onvffgn01f.jpg",
   "author": "Marko Stanimirović",
-  "author_url": "https://dev.to/markostanimirovic"
+  "author_url": "https://dev.to/markostanimirovic",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Cover photo by Tim Swaan on Unsplash.  この記事では、Angularでサブスクリプションを管理する方法を説明します...",
+      "title": "アンギュラーコンポーネントでサブスクリプションを管理するDRYな方法"
+    },
+    {
+      "locale": "zh",
+      "description": "封面照片由Tim Swaan在Unsplash上拍摄。 这篇文章解释了如何在Angular中管理订阅...",
+      "title": "在Angular组件中管理订阅的DRY方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "封面照片由Tim Swaan在Unsplash上拍攝。 這篇文章解釋瞭如何在Angular中管理訂閱...",
+      "title": "在Angular組件中管理訂閱的DRY方法"
+    }
+  ]
 }

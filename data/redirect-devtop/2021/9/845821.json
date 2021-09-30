@@ -57,5 +57,22 @@
   "original_created_at": "2021-09-29T20:25:57Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Hk1G0AvQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tjh4feuhd6r8q7qcgez5.jpg",
   "author": "Jose R. Torres",
-  "author_url": "https://dev.to/randomprimate"
+  "author_url": "https://dev.to/randomprimate",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "APIキーと接続は、アプリケーションのクライアント側では保護できないことは周知の事実です。....",
+      "title": "フロントエンドでAPIキーを保護する最も簡単な方法"
+    },
+    {
+      "locale": "zh",
+      "description": "我们都知道，API密钥和连接在应用程序的客户端是不安全的....。",
+      "title": "在前端保护API密钥的最快速方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們都知道，API密鑰和連接在應用程序的客戶端是不安全的....。",
+      "title": "在前端保護API密鑰的最快速方法"
+    }
+  ]
 }
