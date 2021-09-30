@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] ロックダウンがいつ始まったかを示す歩数計"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]我的计步器显示锁定开始的时间"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]我的計步器顯示鎖定開始的時間"
+    }
+  ]
 }
