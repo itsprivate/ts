@@ -50,5 +50,22 @@
   "original_created_at": "2021-09-15T18:05:37Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nsIs7Q5y--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1u8dtcgdph36jbebhi3y.png",
   "author": "Ryan Carniato",
-  "author_url": "https://dev.to/ryansolid"
+  "author_url": "https://dev.to/ryansolid",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この数ヶ月間、Solidでは1.0のリリース以来、多くのエキサイティングな出来事がありました。",
+      "title": "ソリッドの状態 - 2021年9月"
+    },
+    {
+      "locale": "zh",
+      "description": "自1.0版本以来，在过去的几个月里，Solid公司发生了很多令人兴奋的事情。",
+      "title": "固体状态 - 2021年9月"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "自1.0版本以來，在過去的幾個月裏，Solid公司發生了很多令人興奮的事情。",
+      "title": "固體狀態 - 2021年9月"
+    }
+  ]
 }
