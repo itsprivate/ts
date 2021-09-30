@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "シェアの未来。nfcタグを使って、ワンタップでソーシャルメディアを毎日ストリーミングできるようになりました。"
+    },
+    {
+      "locale": "zh",
+      "title": "共享的未来。我的nfc标签如何帮助我每天只需点击一下就能流转我的社交媒体。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "共享的未來。我的nfc標籤如何幫助我每天只需點擊一下就能流轉我的社交媒體。"
+    }
+  ]
 }
