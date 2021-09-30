@@ -48,5 +48,22 @@
   "original_created_at": "2021-09-28T08:37:41Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q6VTFOTN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hba60sfzz68nyjzan6oi.jpeg",
   "author": "Rui Sousa",
-  "author_url": "https://dev.to/itzami"
+  "author_url": "https://dev.to/itzami",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今週、私はBeautiful CSSというツールを発表しました。 コンポーネントをクリックするだけで、...",
+      "title": "美しいCSS」を発表"
+    },
+    {
+      "locale": "zh",
+      "description": "本周我推出了一个工具--美丽的CSS。 你只需点击任何一个组件，它就会...",
+      "title": "宣布 \"美丽的CSS\"。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "本週我推出了一個工具--美麗的CSS。 你只需點擊任何一個組件，它就會...",
+      "title": "宣佈 \"美麗的CSS\"。"
+    }
+  ]
 }
