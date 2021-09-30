@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "赤道までの緯度では今日の日没が完全な夜になり、他の緯度では異なる夜明けになる。[OC]."
+    },
+    {
+      "locale": "zh",
+      "title": "今天不同纬度的日落，直到赤道达到全夜，其他纬度则达到不同的黄昏。[OC]"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "今天不同緯度的日落，直到赤道達到全夜，其他緯度則達到不同的黃昏。[OC]"
+    }
+  ]
 }
