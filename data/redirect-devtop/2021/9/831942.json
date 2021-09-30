@@ -43,5 +43,22 @@
   "original_created_at": "2021-09-20T02:22:23Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--r8Tb_zBo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pz0fu8sdq4iqtj0o7y5a.png",
   "author": "Ivan Zadivar",
-  "author_url": "https://dev.to/ivanz123"
+  "author_url": "https://dev.to/ivanz123",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "質問から始めたいと思います メッセンジャーやWhatsAppなどのアプリケーションがどのように使われているか気になったことはありませんか？",
+      "title": "リアルタイムにToDoを構築"
+    },
+    {
+      "locale": "zh",
+      "description": "我想从一个问题开始 你是否曾想过Messenger、WhatsApp等应用程序是如何...",
+      "title": "实时构建ToDo"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我想從一個問題開始 你是否曾想過Messenger、WhatsApp等應用程序是如何...",
+      "title": "實時構建ToDo"
+    }
+  ]
 }
