@@ -91,5 +91,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-30T07:00:00Z"
+  "original_createdAt": "2021-09-30T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Tactiq 2.0は、Google MeetsとZoom Webの通話を書き起こし、あなたのためにノートを作成します。🙏 v2.0 + 自動ハイライトと自動要約 + スピーカー付きのタイムスタンプ付きトランスクリプト + ミーティングエンゲージメント + Notion、Quip、Dropbox、Slackなど + スペイン語、フランス語、ドイツ語、ポルトガル語",
+      "tagline": "集中力を維持するために、Tactiqが会議を書き起こします。"
+    },
+    {
+      "locale": "zh",
+      "description": "Tactiq 2.0可转录Google Meets和Zoom网络电话，然后为您创建笔记🙏 v2.0 + 自动高亮和自动汇总 + 带时间戳的转录本，包括发言者 + 会议参与 + Notion, Quip, Dropbox, Slack等 + 西班牙语、法语、德语、葡萄牙语",
+      "tagline": "保持专注，让Tactiq记录你的会议"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Tactiq 2.0可轉錄Google Meets和Zoom網絡電話，然後爲您創建筆記🙏 v2.0 + 自動高亮和自動彙總 + 帶時間戳的轉錄本，包括髮言者 + 會議參與 + Notion, Quip, Dropbox, Slack等 + 西班牙語、法語、德語、葡萄牙語",
+      "tagline": "保持專注，讓Tactiq記錄你的會議"
+    }
+  ]
 }
