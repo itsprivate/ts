@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-30T12:58:12Z"
+  "original_createdAt": "2021-09-30T12:58:12Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Face onでは、どんなビデオチャットでも自分の顔を出してアイデアをアピールすることができます。",
+      "tagline": "何にでも顔を出す"
+    },
+    {
+      "locale": "zh",
+      "description": "Face on允许你把你的脸放在任何东西上，在任何视频聊天中推销你的想法。",
+      "tagline": "把你的脸放在任何东西上"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Face on允許你把你的臉放在任何東西上，在任何視頻聊天中推銷你的想法。",
+      "tagline": "把你的臉放在任何東西上"
+    }
+  ]
 }
