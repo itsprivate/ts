@@ -43,5 +43,22 @@
   "original_created_at": "2021-09-29T07:46:43Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lvx2BdCH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1wrqz03u4kngmr1c9sr7.png",
   "author": "Siddharth",
-  "author_url": "https://dev.to/siddharthshyniben"
+  "author_url": "https://dev.to/siddharthshyniben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JavaScriptは素晴らしいプログラミング言語です。そして、TypeScriptは、その穴埋めを見事にやってのけました。",
+      "title": "TypeScriptのデコレーターを理解する。"
+    },
+    {
+      "locale": "zh",
+      "description": "JavaScript是一门了不起的编程语言。而且，TypeScript在填补这一空白方面做得很好。",
+      "title": "了解TypeScript装饰器。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "JavaScript是一門了不起的編程語言。而且，TypeScript在填補這一空白方面做得很好。",
+      "title": "瞭解TypeScript裝飾器。"
+    }
+  ]
 }
