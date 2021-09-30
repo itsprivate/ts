@@ -52,5 +52,22 @@
   "original_created_at": "2021-09-29T12:48:01Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Z8F0NoAd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xusre6dfpgya12kufo9l.png",
   "author": "Chris Noring",
-  "author_url": "https://dev.to/softchris"
+  "author_url": "https://dev.to/softchris",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "初心者のためのデータサイエンス24レッスン",
+      "title": "初心者のためのデータサイエンスカリキュラムをGitHubで無料公開"
+    },
+    {
+      "locale": "zh",
+      "description": "24节数据科学初级课程",
+      "title": "GitHub上的免费数据科学初学者课程"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "24節數據科學初級課程",
+      "title": "GitHub上的免費數據科學初學者課程"
+    }
+  ]
 }
