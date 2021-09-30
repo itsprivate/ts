@@ -83,5 +83,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-30T11:39:37Z"
+  "original_createdAt": "2021-09-30T11:39:37Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Product Superstories by The Product Folks & Amplitude」は、Microsoft、Amazon、Bookingなどでの数十年にわたるプロダクトの経験から得られたインサイトに満ちた、知られざるストーリーを集めたものです。プロダクトマネージャーの旅の興味深い側面を明らかにします。ぜひご一読ください。",
+      "tagline": "100以上の製品に関する質問に、専門家であるPMが回答します。"
+    },
+    {
+      "locale": "zh",
+      "description": "The Product Folks & Amplitude的《产品的超级故事》是一个不为人知的故事集，其中充满了来自微软、亚马逊、Booking等公司几十年产品经验的见解。它揭开了产品经理旅程的有趣一面。阅读愉快!",
+      "tagline": "100多个精心策划的产品问题，由专家PM回答"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "The Product Folks & Amplitude的《產品的超級故事》是一個不爲人知的故事集，其中充滿了來自微軟、亞馬遜、Booking等公司幾十年產品經驗的見解。它揭開了產品經理旅程的有趣一面。閱讀愉快!",
+      "tagline": "100多個精心策劃的產品問題，由專家PM回答"
+    }
+  ]
 }
