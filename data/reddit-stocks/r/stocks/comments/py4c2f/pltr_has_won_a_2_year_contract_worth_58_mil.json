@@ -104,5 +104,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1632948474,
-  "the_new_excerpt": "Here is the link:\nhttps://www.fpds.gov/ezsearch/search.do?q=Palantir&s=FPDS.GOV&templateName=1.5.2&indexName=awardfull&sortBy=SIGNED_DATE&desc=Y\nClick \"view\" on the first contract to learn more about the deal. Total value is\n58 million.\n\nAfter winning contracts with a total deal value over 900…"
+  "the_new_excerpt": "Here is the link:\nhttps://www.fpds.gov/ezsearch/search.do?q=Palantir&s=FPDS.GOV&templateName=1.5.2&indexName=awardfull&sortBy=SIGNED_DATE&desc=Y\nClick \"view\" on the first contract to learn more about the deal. Total value is\n58 million.\n\nAfter winning contracts with a total deal value over 900…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "以下はそのリンクです。\nhttps://www.fpds.gov/ezsearch/search.do?q=Palantir&s=FPDS.GOV&templateName=1.5.2&indexName=awardfull&sortBy=SIGNED_DATE&desc=Y\n最初の契約の「表示」をクリックすると、その契約の詳細が表示されます。総額は\n5800万円です。\n\n総額900万円以上の契約を獲得した後は",
+      "title": "米国国立衛生研究所との2年間の契約（5800万ドル）を獲得しました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这里是链接。\nhttps://www.fpds.gov/ezsearch/search.do?q=Palantir&s=FPDS.GOV&templateName=1.5.2&indexName=awardfull&sortBy=SIGNED_DATE&desc=Y\n在第一份合同上点击 \"查看\"，以了解更多关于该交易的信息。总价值为\n5800万。\n\n在赢得总交易价值超过900的合同后...",
+      "title": "PLTR赢得了美国国家卫生研究院为期两年的合同，价值5800万美元。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這裏是鏈接。\nhttps://www.fpds.gov/ezsearch/search.do?q=Palantir&s=FPDS.GOV&templateName=1.5.2&indexName=awardfull&sortBy=SIGNED_DATE&desc=Y\n在第一份合同上點擊 \"查看\"，以瞭解更多關於該交易的信息。總價值爲\n5800萬。\n\n在贏得總交易價值超過900的合同後...",
+      "title": "PLTR贏得了美國國家衛生研究院爲期兩年的合同，價值5800萬美元。"
+    }
+  ]
 }
