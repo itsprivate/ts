@@ -43,5 +43,22 @@
   "original_created_at": "2021-09-29T17:38:18Z",
   "image": "https://dev.to/social_previews/article/845750.png",
   "author": "Bour Abdelhadi",
-  "author_url": "https://dev.to/bscript"
+  "author_url": "https://dev.to/bscript",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに 1. コードリンティングとSAST 2. npm auditによるセキュリティ監査の実行 3. インテグリティ...",
+      "title": "Javascriptのセキュリティチェックリスト"
+    },
+    {
+      "locale": "zh",
+      "description": "简介 1. Code Linting &amp; SAST 2. 使用npm audit运行安全审计 3. 廉洁性...",
+      "title": "脚本安全检查表"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介 1. Code Linting &amp; SAST 2. 使用npm audit運行安全審計 3. 廉潔性...",
+      "title": "腳本安全檢查表"
+    }
+  ]
 }
