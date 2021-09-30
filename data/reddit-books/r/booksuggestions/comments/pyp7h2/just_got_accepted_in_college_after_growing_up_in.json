@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "what books will help me"
+  "the_new_excerpt": "what books will help me",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "どんな本が私を助けてくれるのか",
+      "title": "カルト教団で育って大学に合格したばかりの人"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "什么书能帮助我",
+      "title": "在邪教中长大的人，刚刚被大学录取"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "什麼書能幫助我",
+      "title": "在邪教中長大的人，剛剛被大學錄取"
+    }
+  ]
 }
