@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-30T13:48:01Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--f3KApTA4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4hbbisll5zq6v482g3rl.png",
   "author": "o1lab",
-  "author_url": "https://dev.to/o1lab"
+  "author_url": "https://dev.to/o1lab",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "NocoDBは、オープンソースのAirtableの代替品で、あらゆるMySQL上でREST APIを提供します。",
+      "title": "2分で7,000以上のREST APIを構築する方法（Node.js + MySQL） !!!"
+    },
+    {
+      "locale": "zh",
+      "description": "NocoDB是一个开源的Airtable替代品，即时也为你提供任何MySQL上的REST APIs。",
+      "title": "如何在2分钟内构建7000多个REST APIs（Node.js + MySQL）！？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "NocoDB是一個開源的Airtable替代品，即時也爲你提供任何MySQL上的REST APIs。",
+      "title": "如何在2分鐘內構建7000多個REST APIs（Node.js + MySQL）！？"
+    }
+  ]
 }

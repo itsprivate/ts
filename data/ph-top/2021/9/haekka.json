@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-30T14:00:00Z"
+  "original_createdAt": "2021-09-30T14:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Slackで社員を教育する。Haekkaは、Slackを愛する人々のための最新のトレーニングプラットフォームです。独自のトレーニングコンテンツを持ち込むことも、増え続けるライブラリから選ぶこともできます。",
+      "tagline": "Slackで従業員を教育する"
+    },
+    {
+      "locale": "zh",
+      "description": "在Slack中培训你的员工。Haekka是一个现代化的培训平台，为热爱Slack的人服务。带来你自己的培训内容或从我们不断增长的图书馆中选择。",
+      "tagline": "用Slack培训你的员工"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在Slack中培訓你的員工。Haekka是一個現代化的培訓平臺，爲熱愛Slack的人服務。帶來你自己的培訓內容或從我們不斷增長的圖書館中選擇。",
+      "tagline": "用Slack培訓你的員工"
+    }
+  ]
 }
