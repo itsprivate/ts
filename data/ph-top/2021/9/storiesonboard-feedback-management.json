@@ -102,5 +102,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-30T07:00:00Z"
+  "original_createdAt": "2021-09-30T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "StoriesOnBoard Feedback Management は、お客様、ユーザー、チームからの製品フィードバックを単一のリポジトリに集め、作成したルールに基づいて整理することができます。",
+      "tagline": "お客様の声を反映した総合的な製品管理"
+    },
+    {
+      "locale": "zh",
+      "description": "StoriesOnBoard反馈管理收集来自客户、用户和你的团队的产品反馈到一个单一的存储库，并根据你创建的规则为你组织这些反馈。",
+      "tagline": "以客户反馈为动力的整体产品管理"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "StoriesOnBoard反饋管理收集來自客戶、用戶和你的團隊的產品反饋到一個單一的存儲庫，並根據你創建的規則爲你組織這些反饋。",
+      "tagline": "以客戶反饋爲動力的整體產品管理"
+    }
+  ]
 }
