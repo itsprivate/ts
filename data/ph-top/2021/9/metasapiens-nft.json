@@ -88,5 +88,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-09-30T07:12:33Z"
+  "original_createdAt": "2021-09-30T07:12:33Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "MetaSapiensは、Apple iOS向けの世界初のAugmented Reality NFTプロジェクトです。",
+      "tagline": "初のAR NFTプロジェクト"
+    },
+    {
+      "locale": "zh",
+      "description": "MetaSapiens是世界上第一个用于苹果iOS的增强现实NFT项目。",
+      "tagline": "第一个AR NFT项目"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "MetaSapiens是世界上第一個用於蘋果iOS的增強現實NFT項目。",
+      "tagline": "第一個AR NFT項目"
+    }
+  ]
 }
