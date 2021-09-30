@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ダウン症のお父さんは25年働いて息子を医者にし、医者の息子は25年後にお父さんと一緒に。"
+    },
+    {
+      "locale": "zh",
+      "title": "患有唐氏综合症的父亲工作了25年，使他的儿子成为一名医生，而他的医生儿子在25年后与他的父亲一起。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "患有唐氏綜合症的父親工作了25年，使他的兒子成爲一名醫生，而他的醫生兒子在25年後與他的父親一起。"
+    }
+  ]
 }
