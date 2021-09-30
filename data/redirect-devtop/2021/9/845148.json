@@ -50,5 +50,22 @@
   "original_created_at": "2021-09-29T10:06:07Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2vWKxlO9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9z8nmi50krx52iyh1y65.png",
   "author": "Zoltán Szőgyényi",
-  "author_url": "https://dev.to/zolidev"
+  "author_url": "https://dev.to/zolidev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Tailwind CSSは私が以前から使用しているフレームワークですが、その中でも特に...",
+      "title": "TailwindのCSSパンくずコンポーネントの構築"
+    },
+    {
+      "locale": "zh",
+      "description": "Tailwind CSS是一个我已经使用了相当长一段时间的框架，我必须说，我已经...",
+      "title": "建立一个Tailwind的CSS面包屑组件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Tailwind CSS是一個我已經使用了相當長一段時間的框架，我必須說，我已經...",
+      "title": "建立一個Tailwind的CSS麪包屑組件"
+    }
+  ]
 }
