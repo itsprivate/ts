@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "TIT FOR TAT"
+    },
+    {
+      "locale": "zh",
+      "title": "以牙还牙"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "以牙還牙"
+    }
+  ]
 }
