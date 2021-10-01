@@ -84,5 +84,22 @@
     "retweet_count": 76,
     "favorite_count": 173,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @Sondreus: 今週号の@TheEconomistでは、温室効果ガスの排出に関する最新の研究結果を紹介しています。その結果、牛は...",
+      "retweeted_status_full_text": "今週号の@TheEconomistでは、温室効果ガスの排出に関する最新の研究結果を紹介しています。牛が私たちをゆっくりと調理していることがわかりました。https://t.co/dTufPW5EQi"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @Sondreus: 在本周的@TheEconomist杂志中，我看了一下关于温室气体排放的最新研究。我发现，奶牛是...",
+      "retweeted_status_full_text": "在本周的@TheEconomist中，我看了一下关于温室气体排放的最新研究。我发现，奶牛正在缓慢地烹调我们所有人。https://t.co/dTufPW5EQi"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @Sondreus: 在本週的@TheEconomist雜誌中，我看了一下關於溫室氣體排放的最新研究。我發現，奶牛是...",
+      "retweeted_status_full_text": "在本週的@TheEconomist中，我看了一下關於溫室氣體排放的最新研究。我發現，奶牛正在緩慢地烹調我們所有人。https://t.co/dTufPW5EQi"
+    }
+  ]
 }
