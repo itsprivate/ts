@@ -52,5 +52,22 @@
   "original_created_at": "2021-08-26T15:54:36Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--h_y9QW-p--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/husifi8qo5ubjahh3muc.png",
   "author": "Fred",
-  "author_url": "https://dev.to/fredgl"
+  "author_url": "https://dev.to/fredgl",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あなたはチームメイトにコードの助けを求め、彼らはあなたに自分のコードで解決策を示しました。",
+      "title": "VSコードで自分のレポにプッシュ＆プルせずにチームメイトの変更をチェリーピックする"
+    },
+    {
+      "locale": "zh",
+      "description": "你向你的队友求助于一段代码，他们向你展示了他们的解决方案。",
+      "title": "在VS代码中不用推拉就能摘取你的队友的修改内容到你的Repo上"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你向你的隊友求助於一段代碼，他們向你展示了他們的解決方案。",
+      "title": "在VS代碼中不用推拉就能摘取你的隊友的修改內容到你的Repo上"
+    }
+  ]
 }
