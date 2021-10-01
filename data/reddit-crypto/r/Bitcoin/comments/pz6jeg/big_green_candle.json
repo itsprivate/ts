@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Oct 1 and we already got a big green candle"
+  "the_new_excerpt": "Oct 1 and we already got a big green candle",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "10月1日、我々はすでに大きな緑のろうそくを得た。",
+      "title": "Big Green Candle"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "10月1日，我们已经得到一个大的绿色蜡烛",
+      "title": "大绿蜡烛"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "10月1日，我們已經得到一個大的綠色蠟燭",
+      "title": "大綠蠟燭"
+    }
+  ]
 }
