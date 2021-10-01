@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Why YSK: despite sounding the same, they are as different as chalk and cheese."
+  "the_new_excerpt": "Why YSK: despite sounding the same, they are as different as chalk and cheese.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "なぜYSKかというと、同じように聞こえても、チョークとチーズのように違うからです。",
+      "title": "YSKでは、「カウンセラー」と「カウンセラー」の違いについて説明します。カウンセラー」は、アドバイスやセラピーを提供する人で、「カウンセラー」は、議会や委員会に参加する人です。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么是YSK：尽管听起来一样，但它们就像粉笔和奶酪一样不同。",
+      "title": "YSK \"顾问 \"和 \"议员 \"之间的区别。辅导员 \"提供建议或治疗，而 \"议员 \"则是在理事会或董事会任职的人。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼是YSK：儘管聽起來一樣，但它們就像粉筆和奶酪一樣不同。",
+      "title": "YSK \"顧問 \"和 \"議員 \"之間的區別。輔導員 \"提供建議或治療，而 \"議員 \"則是在理事會或董事會任職的人。"
+    }
+  ]
 }

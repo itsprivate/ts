@@ -43,5 +43,22 @@
   "original_created_at": "2021-09-30T17:51:02Z",
   "image": "https://dev.to/social_previews/article/847012.png",
   "author": "Omkar B",
-  "author_url": "https://dev.to/omkarscode"
+  "author_url": "https://dev.to/omkarscode",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この質問は、ウェブ開発、特にフロントエンドの仕事の面接で聞かれることがあります。....",
+      "title": "シンプルなプログレスバーを作る"
+    },
+    {
+      "locale": "zh",
+      "description": "你可能会得到这个作为网络开发职位的面试问题，特别是前端角色....。",
+      "title": "建立一个简单的进度条"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你可能會得到這個作爲網絡開發職位的面試問題，特別是前端角色....。",
+      "title": "建立一個簡單的進度條"
+    }
+  ]
 }
