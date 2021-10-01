@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ここにいる人たちはワイルドだ"
+    },
+    {
+      "locale": "zh",
+      "title": "这里的一些人很疯狂"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這裏的一些人很瘋狂"
+    }
+  ]
 }
