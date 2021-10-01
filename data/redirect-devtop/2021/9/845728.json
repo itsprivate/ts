@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-29T16:52:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Lvl1ZNKy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1ph7yc1i1vqqgwpxegw5.png",
   "author": "Eric The Coder",
-  "author_url": "https://dev.to/ericchapman"
+  "author_url": "https://dev.to/ericchapman",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ここでは、Javascriptでバックエンド・アプリケーションを作成する際に役立つ記事を紹介します。 Node.jsは現在、...",
+      "title": "Javascriptでバックエンドを作成します。NodeJSモジュールシステム"
+    },
+    {
+      "locale": "zh",
+      "description": "这里有一系列的文章，帮助你用Javascript创建后台应用程序。 Node.js现在是一个...",
+      "title": "在Javascript中创建一个后端。NodeJS模块系统"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這裏有一系列的文章，幫助你用Javascript創建後臺應用程序。 Node.js現在是一個...",
+      "title": "在Javascript中創建一個後端。NodeJS模塊系統"
+    }
+  ]
 }
