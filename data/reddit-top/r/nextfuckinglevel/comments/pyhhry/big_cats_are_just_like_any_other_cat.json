@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビッグキャットは他の猫と同じ"
+    },
+    {
+      "locale": "zh",
+      "title": "大猫和其他猫一样"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "大貓和其他貓一樣"
+    }
+  ]
 }
