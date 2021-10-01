@@ -98,5 +98,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-01T07:11:41Z"
+  "original_createdAt": "2021-10-01T07:11:41Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "VPaintは、オープンソースのベクターグラフィックス・エディタで、描いた図形が境界を共有し、直感的に彫刻できるようになります。現在ダウンロードできるのはプロトタイプですが、より完成度の高い製品にするためにKickstarterを実施しています。VGC Illustration.",
+      "tagline": "次のAdobe IllustratorとAfter Effectsは、オープンソースの"
+    },
+    {
+      "locale": "zh",
+      "description": "VPaint是一个开源的矢量图形编辑器，你所画的图形可以有共享的边界，并可以直观地进行雕刻。它是一个原型，你现在可以下载，但我们正在进行Kickstarter，以把它变成一个更完整的产品。VGC插图。",
+      "tagline": "下一个Adobe Illustrator和After Effects，开放源代码"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "VPaint是一個開源的矢量圖形編輯器，你所畫的圖形可以有共享的邊界，並可以直觀地進行雕刻。它是一個原型，你現在可以下載，但我們正在進行Kickstarter，以把它變成一個更完整的產品。VGC插圖。",
+      "tagline": "下一個Adobe Illustrator和After Effects，開放源代碼"
+    }
+  ]
 }
