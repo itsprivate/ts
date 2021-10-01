@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "見てください、この鶏たちを...。"
+    },
+    {
+      "locale": "zh",
+      "title": "看看这些鸡..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "看看這些雞..."
+    }
+  ]
 }

@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "CNBCです。\"エルサルバドルが史上初の火山を使ったビットコインの採掘を始めたばかりで、すでに269ドルを稼いでいる\""
+    },
+    {
+      "locale": "zh",
+      "title": "CNBC: \"萨尔瓦多刚刚开始用火山开采比特币，这是有史以来第一次--他们已经赚了269美元\""
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "CNBC: \"薩爾瓦多剛剛開始用火山開採比特幣，這是有史以來第一次--他們已經賺了269美元\""
+    }
+  ]
 }
