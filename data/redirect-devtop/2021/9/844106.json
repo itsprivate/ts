@@ -52,5 +52,22 @@
   "original_created_at": "2021-09-28T15:12:13Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FlqnMu0h--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wvdpikldc267zvpbyyhw.png",
   "author": "Srushtika Neelakantam",
-  "author_url": "https://dev.to/srushtika"
+  "author_url": "https://dev.to/srushtika",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに データベースを利用したリアルタイム・アーキテクチャは......一般的になりつつあります。",
+      "title": "データベースドリブンなリアルタイムアーキテクチャ：サーバーレスで編集可能なチャットアプリの構築 - パート1"
+    },
+    {
+      "locale": "zh",
+      "description": "简介：数据库驱动的实时架构正变得越来越普遍，因为...",
+      "title": "数据库驱动的实时架构：构建无服务器和可编辑的聊天应用程序 - 第一部分"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介：數據庫驅動的實時架構正變得越來越普遍，因爲...",
+      "title": "數據庫驅動的實時架構：構建無服務器和可編輯的聊天應用程序 - 第一部分"
+    }
+  ]
 }
