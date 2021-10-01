@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-30T07:07:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nCwEI4v6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ny1uy0urms69a31szjwk.png",
   "author": "Techworld with Nana",
-  "author_url": "https://dev.to/techworld_with_nana"
+  "author_url": "https://dev.to/techworld_with_nana",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "K8sとして知られているKubernetesは、コンテナオーケストレーションのための最も人気のあるプラットフォー...",
+      "title": "全くの初心者のためのKubernetesクラッシュコース👏。"
+    },
+    {
+      "locale": "zh",
+      "description": "Kubernetes，也被称为K8s，是最受欢迎的容器协调平台，适用于...",
+      "title": "Kubernetes快速入门课程 👏"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Kubernetes，也被稱爲K8s，是最受歡迎的容器協調平臺，適用於...",
+      "title": "Kubernetes快速入門課程 👏"
+    }
+  ]
 }
