@@ -52,5 +52,22 @@
   "original_created_at": "2021-09-29T21:39:22Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--e-4fmJBf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/298337dvay0yoqbl4m9i.png",
   "author": "Christina Gorton",
-  "author_url": "https://dev.to/coffeecraftcode"
+  "author_url": "https://dev.to/coffeecraftcode",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今月のオープンソースを祝う方法と、あなたの参加方法をご紹介します。",
+      "title": "Hacktoberfest 2021 is Here 🎃。"
+    },
+    {
+      "locale": "zh",
+      "description": "以下是我们本月庆祝开放源代码的方式，以及你如何加入我们的行列",
+      "title": "2021年哈克啤酒节来了 🎃 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "以下是我們本月慶祝開放源代碼的方式，以及你如何加入我們的行列",
+      "title": "2021年哈克啤酒節來了 🎃 "
+    }
+  ]
 }
