@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Why YSK: I used to always draft emails and say something like \"Refer to document\nXYZ\" and then forget the attachment. By changing my habits to always say the\nword \"attached\", or a variation of that word, applications llike Outlook will\nremind you to include the attachment. Simply including changing…"
+  "the_new_excerpt": "Why YSK: I used to always draft emails and say something like \"Refer to document\nXYZ\" and then forget the attachment. By changing my habits to always say the\nword \"attached\", or a variation of that word, applications llike Outlook will\nremind you to include the attachment. Simply including changing…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "なぜYSKかというと、以前はメールの下書きに「ドキュメントを参照してください。\nXYZを参照してください」などと言って、添付ファイルを忘れてしまうことがありました。私の習慣を変えて、常に「添付」という言葉を使うようにしました。\n習慣を変えることで、Outlookのようなアプリケーションが、添付ファイルを添付するように\nOutlookなどのアプリケーションが、添付ファイルを添付するように促してくれます。単純に変更を含める...",
+      "title": "YSKでは、添付ファイルを付けることを忘れても、ほとんどのメールアプリケーションが添付するように促してくれるので、添付ファイルを付けようとするときは、必ずメールに「添付」という言葉を入れます。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么是YSK：我过去总是在起草电子邮件时说 \"参考文件\nXYZ \"之类的话，然后就忘记了附件。通过改变我的习惯，总是说\n词 \"附件\"，或该词的变体，像Outlook这样的应用程序就会提醒你包括附件。\n提醒你要包括附件。简单地包括改变...",
+      "title": "YSK在准备放附件的时候，总是在邮件中写上 \"附件 \"二字，因为如果你忘记放附件，大多数电子邮件应用程序会提醒你放附件。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼是YSK：我過去總是在起草電子郵件時說 \"參考文件\nXYZ \"之類的話，然後就忘記了附件。通過改變我的習慣，總是說\n詞 \"附件\"，或該詞的變體，像Outlook這樣的應用程序就會提醒你包括附件。\n提醒你要包括附件。簡單地包括改變...",
+      "title": "YSK在準備放附件的時候，總是在郵件中寫上 \"附件 \"二字，因爲如果你忘記放附件，大多數電子郵件應用程序會提醒你放附件。"
+    }
+  ]
 }
