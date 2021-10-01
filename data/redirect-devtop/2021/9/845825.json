@@ -57,5 +57,22 @@
   "original_created_at": "2021-09-29T20:34:03Z",
   "image": "https://dev.to/social_previews/article/845825.png",
   "author": "dev.to staff",
-  "author_url": "https://dev.to/thepracticaldev"
+  "author_url": "https://dev.to/thepracticaldev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "メンテナ：自分のプロジェクトにHacktoberfestの協力者を求めている方は、ここで情報を共有しましょう。",
+      "title": "Hacktoberfest 2021 - Who's looking for contributor? "
+    },
+    {
+      "locale": "zh",
+      "description": "维护者：如果你正在为你的项目寻找Hacktoberfest的合作者，这就是分享你的信息的地方。",
+      "title": "2021年黑客啤酒节 - 谁在寻找贡献者？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "維護者：如果你正在爲你的項目尋找Hacktoberfest的合作者，這就是分享你的信息的地方。",
+      "title": "2021年黑客啤酒節 - 誰在尋找貢獻者？"
+    }
+  ]
 }
