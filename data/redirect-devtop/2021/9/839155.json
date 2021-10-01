@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-24T14:33:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6d_Hmmhp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/60c8zb7fn4xingt1mn2y.png",
   "author": "CodeOz",
-  "author_url": "https://dev.to/codeoz"
+  "author_url": "https://dev.to/codeoz",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "VueがDOMの更新を非同期に行う! でも、それってどういうこと？ まずは、「非同期」とは何かを説明します。",
+      "title": "Vue Academy #6: 非同期更新キュー"
+    },
+    {
+      "locale": "zh",
+      "description": "Vue以异步方式执行DOM更新！这意味着什么？但这是什么意思呢？ 我将首先向你解释什么是...",
+      "title": "Vue学院#6：异步更新队列"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Vue以異步方式執行DOM更新！這意味着什麼？但這是什麼意思呢？ 我將首先向你解釋什麼是...",
+      "title": "Vue學院#6：異步更新隊列"
+    }
+  ]
 }
