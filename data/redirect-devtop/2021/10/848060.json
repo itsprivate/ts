@@ -52,5 +52,22 @@
   "original_created_at": "2021-10-01T16:11:56Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QIJliALb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/llfcw7j3ep4hnqweu08s.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "先日、Foremを国際化するための基盤を出荷しました。当初、これは管理者が...",
+      "title": "Forem Hacktoberfest: Let's Internationalize!"
+    },
+    {
+      "locale": "zh",
+      "description": "我们最近运送了Forem国际化的基础工作。最初，这意味着管理员...",
+      "title": "Forem Hacktoberfest: Let's Internationalize!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們最近運送了Forem國際化的基礎工作。最初，這意味着管理員...",
+      "title": "Forem Hacktoberfest: Let's Internationalize!"
+    }
+  ]
 }
