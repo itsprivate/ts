@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-01T14:12:50Z"
+  "original_createdAt": "2021-10-01T14:12:50Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Supabaseで作られたプロジェクトのコレクション - ウェブサイト、モバイルアプリ、SaaS、プラグイン、その他! ⭐ 開発者の声を紹介します ⭐ Supabaseを使ってどんなものが作れるのかを紹介します。",
+      "tagline": "Supabaseを使って作られたプロジェクト集⚡です。"
+    },
+    {
+      "locale": "zh",
+      "description": "用Supabase制作的项目集合 - 网站、移动应用、SaaS、插件等 ⭐ 展示开发者的推荐信 ⭐ 展示使用Supabase构建的可能性",
+      "tagline": "用Supabase ⚡制作的项目集。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "用Supabase製作的項目集合 - 網站、移動應用、SaaS、插件等 ⭐ 展示開發者的推薦信 ⭐ 展示使用Supabase構建的可能性",
+      "tagline": "用Supabase ⚡製作的項目集。"
+    }
+  ]
 }
