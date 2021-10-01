@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Borgo - シンプルな半自動化（人間の入力を必要とするコード）のためのpythonライブラリとアプリです。"
+    },
+    {
+      "locale": "zh",
+      "title": "Borgo - 一个用于简单的半自动化（需要人类输入的代码）的python库+应用程序。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Borgo - 一個用於簡單的半自動化（需要人類輸入的代碼）的python庫+應用程序。"
+    }
+  ]
 }
