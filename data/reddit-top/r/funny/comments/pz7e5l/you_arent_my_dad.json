@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたは私の父ではありません!"
+    },
+    {
+      "locale": "zh",
+      "title": "你不是我爸爸！"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你不是我爸爸！"
+    }
+  ]
 }
