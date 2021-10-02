@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "船を持っていたら、どんな名前をつけますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你有一艘船，你会给它起什么名字？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你有一艘船，你會給它起什麼名字？"
+    }
+  ]
 }
