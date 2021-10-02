@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-01T09:12:25Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Czr8o1k---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/53w37gzztzxdj01djyt7.png",
   "author": "Keff",
-  "author_url": "https://dev.to/nombrekeff"
+  "author_url": "https://dev.to/nombrekeff",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは👋 CSSは奇妙で分かりにくいので、Flutterのスタイリングについて、CSSを例に説明します。",
+      "title": "CSSで解説するFlutterのスタイリング - LLF #5"
+    },
+    {
+      "locale": "zh",
+      "description": "嘿，👋 CSS可能很奇怪，令人困惑，所以让我用它来解释Flutter的造型。",
+      "title": "用CSS解释Flutter的造型 - LLF #5"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嘿，👋 CSS可能很奇怪，令人困惑，所以讓我用它來解釋Flutter的造型。",
+      "title": "用CSS解釋Flutter的造型 - LLF #5"
+    }
+  ]
 }
