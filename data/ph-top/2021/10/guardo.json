@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-02T07:00:00Z"
+  "original_createdAt": "2021-10-02T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Guardoは、リンクを保存したり分類したりする最も簡単な方法で、ブラウジングをより生産的にします。",
+      "tagline": "あらゆるウェブサイトを整理してブックマークする最速かつ最も簡単な方法"
+    },
+    {
+      "locale": "zh",
+      "description": "Guardo是保存和分类链接的最简单方法，使浏览更有效率。",
+      "tagline": "最快速和最简单的方式来组织和收藏任何网站"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Guardo是保存和分類鏈接的最簡單方法，使瀏覽更有效率。",
+      "tagline": "最快速和最簡單的方式來組織和收藏任何網站"
+    }
+  ]
 }
