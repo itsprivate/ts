@@ -59,5 +59,19 @@
     }
   },
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Braifun-nlp: 研究者がアイデアのブレーンストームをするのに役立つ無料の自然言語処理ツール（アルファリリース"
+    },
+    {
+      "locale": "zh",
+      "title": "卜睿峰-nlp。一个免费的自然语言处理工具，帮助研究人员头脑风暴他们的想法（Alpha版本）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "卜睿峯-nlp。一個免費的自然語言處理工具，幫助研究人員頭腦風暴他們的想法（Alpha版本）。"
+    }
+  ]
 }
