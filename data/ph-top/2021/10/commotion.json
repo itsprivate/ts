@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-02T07:01:00Z"
+  "original_createdAt": "2021-10-02T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "https://commotion.page は、Notionのページにフォームを追加する非常にシンプルな方法です。お客様のNotionアカウントに接続してフォームを生成し、どこにでも埋め込むことができます。すべての回答はNotionのデータベースに保存されます。お問い合わせフォーム、求人情報、フィードバックフォームなどに最適です。",
+      "tagline": "Notionにフォームを追加"
+    },
+    {
+      "locale": "zh",
+      "description": "https://commotion.page 是一个超级简单的方法来添加表格到你的Notion页面。连接到你的Notion账户，生成一个表单，并将其嵌入到任何地方。所有的回复都保存在你的Notion数据库中。非常适用于联系表、工作列表和反馈表。",
+      "tagline": "向Notion添加表格"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "https://commotion.page 是一個超級簡單的方法來添加表格到你的Notion頁面。連接到你的Notion賬戶，生成一個表單，並將其嵌入到任何地方。所有的回覆都保存在你的Notion數據庫中。非常適用於聯繫表、工作列表和反饋表。",
+      "tagline": "向Notion添加表格"
+    }
+  ]
 }
