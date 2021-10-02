@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ジャック・マラーズとCNNのジュリア・チャタレー Part 1: \"もし、全員が同じ規格で、全員が同じインターネットを利用しているのと同じように、相互運用性と接続性がシームレスに、瞬時に、そして無料で得られるようになったら。\""
+    },
+    {
+      "locale": "zh",
+      "title": "Jack Mallers和CNN的Julia Chatterley第一部分：\"如果我们都在同一个标准上，就像我们都在同一个互联网上一样--互操作性和连接性变得无缝、即时和免费。\""
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Jack Mallers和CNN的Julia Chatterley第一部分：\"如果我們都在同一個標準上，就像我們都在同一個互聯網上一樣--互操作性和連接性變得無縫、即時和免費。\""
+    }
+  ]
 }
