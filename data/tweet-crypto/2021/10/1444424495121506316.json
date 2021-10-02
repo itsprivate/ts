@@ -1,0 +1,105 @@
+{
+  "created_at": "Sat Oct 02 22:42:58 +0000 2021",
+  "id_str": "1444424495121506316",
+  "full_text": "RT @CNBC: El Salvador's move into volcano-powered bitcoin mining makes the case that bitcoin can act as an accelerant to renewable energy d…",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "CNBC",
+        "name": "CNBC",
+        "id": 20402945,
+        "id_str": "20402945",
+        "indices": [
+          3,
+          8
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "user": {
+    "name": "PlanB",
+    "screen_name": "100trillionUSD",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407223894600302594/gBUVNH89_normal.jpg"
+  },
+  "retweet_count": 1790,
+  "favorite_count": 0,
+  "original_created_at": "Sat Oct 02 22:10:10 +0000 2021",
+  "retweeted_status": {
+    "created_at": "Fri Oct 01 18:22:23 +0000 2021",
+    "id_str": "1444004785879912451",
+    "full_text": "El Salvador's move into volcano-powered bitcoin mining makes the case that bitcoin can act as an accelerant to renewable energy development. Geothermal energy is renewable, it's clean, and in some places, it makes use of a previously untapped resource. https://t.co/4GaTaDQqbS https://t.co/RsIIwYKd7F",
+    "display_text_range": [
+      0,
+      276
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/4GaTaDQqbS",
+          "expanded_url": "https://cnb.cx/3mfOGQs",
+          "display_url": "cnb.cx/3mfOGQs",
+          "indices": [
+            253,
+            276
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1444003655204712400,
+          "id_str": "1444003655204712449",
+          "indices": [
+            277,
+            300
+          ],
+          "media_url": "http://pbs.twimg.com/media/FAoiBq-XoAAjS4o.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FAoiBq-XoAAjS4o.jpg",
+          "url": "https://t.co/RsIIwYKd7F",
+          "display_url": "pic.twitter.com/RsIIwYKd7F",
+          "expanded_url": "https://twitter.com/CNBC/status/1444004785879912451/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "user": {
+      "name": "CNBC",
+      "screen_name": "CNBC",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1317082585382735874/DBEM-rWK_normal.png"
+    },
+    "retweet_count": 1790,
+    "favorite_count": 6745,
+    "possibly_sensitive": false
+  }
+}
