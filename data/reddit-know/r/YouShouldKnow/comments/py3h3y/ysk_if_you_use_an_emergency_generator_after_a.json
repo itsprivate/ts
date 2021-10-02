@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Why YSK: Pluging a generator directly into a socket can caused electricity to\nflow back into the power gird and electrocute utility workers attempting to\nrepair powerlines. Also, generators tend to run on gasoline or diesel fuel. This\nproduces exhaust that contains Carbon Monoxide. (CO)"
+  "the_new_excerpt": "Why YSK: Pluging a generator directly into a socket can caused electricity to\nflow back into the power gird and electrocute utility workers attempting to\nrepair powerlines. Also, generators tend to run on gasoline or diesel fuel. This\nproduces exhaust that contains Carbon Monoxide. (CO)",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "なぜYSKなのか: 発電機を直接コンセントに差し込むと、電気が送電線に逆流して\n電線を修理しようとしている電力会社の作業員が感電する可能性があります。\n感電する恐れがあります。また、発電機はガソリンやディーゼル燃料で作動する傾向があります。これにより\n一酸化炭素（CO (CO)",
+      "title": "YSK 嵐の後に非常用発電機を使用する場合は、コンセントに直接接続せず、風通しの良い場所でのみ使用してください。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么是YSK：将发电机直接插入插座会导致电力流失。\n导致电力回流到电线上，并使试图修理电线的公用事业工作人员触电。\n试图修复电力线的公用事业工作人员。此外，发电机往往使用汽油或柴油燃料。这\n产生含有一氧化碳的废气。(CO)",
+      "title": "YSK 如果你在暴风雨后使用应急发电机，不要将其直接插入墙上的插座，只在通风良好的地方使用。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼是YSK：將發電機直接插入插座會導致電力流失。\n導致電力迴流到電線上，並使試圖修理電線的公用事業工作人員觸電。\n試圖修復電力線的公用事業工作人員。此外，發電機往往使用汽油或柴油燃料。這\n產生含有一氧化碳的廢氣。(CO)",
+      "title": "YSK 如果你在暴風雨後使用應急發電機，不要將其直接插入牆上的插座，只在通風良好的地方使用。"
+    }
+  ]
 }
