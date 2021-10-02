@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-30T12:12:27Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--A73t3BZq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4nrr4nzj7xqgkap9t7wa.jpg",
   "author": "Bobby Iliev",
-  "author_url": "https://dev.to/bobbyiliev"
+  "author_url": "https://dev.to/bobbyiliev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに 「Hacktoberfest」は、1ヶ月間にわたって行われるイベントで、貢献した人が表彰されます。",
+      "title": "8つのオープンソースプロジェクトに貢献するために - Hacktoberfest 2021"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍：黑客节是一个为期一个月的活动，人们因贡献而获得奖励。",
+      "title": "8个需要贡献的开源项目 - 2021年黑客啤酒节"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹：黑客節是一個爲期一個月的活動，人們因貢獻而獲得獎勵。",
+      "title": "8個需要貢獻的開源項目 - 2021年黑客啤酒節"
+    }
+  ]
 }
