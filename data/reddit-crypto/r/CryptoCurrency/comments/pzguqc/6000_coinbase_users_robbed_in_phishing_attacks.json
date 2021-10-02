@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "6,000人のCoinbaseユーザーがフィッシング詐欺に遭い、同社は払い戻しを行うと発表"
+    },
+    {
+      "locale": "zh",
+      "title": "6,000名Coinbase用户在网络钓鱼攻击中被抢，公司称将予以赔偿"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "6,000名Coinbase用戶在網絡釣魚攻擊中被搶，公司稱將予以賠償"
+    }
+  ]
 }
