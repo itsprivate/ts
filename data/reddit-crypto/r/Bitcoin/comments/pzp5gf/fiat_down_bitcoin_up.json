@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "フィアットが下がり、ビットコインが上がる。"
+    },
+    {
+      "locale": "zh",
+      "title": "法币下跌，比特币上涨。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "法幣下跌，比特幣上漲。"
+    }
+  ]
 }
