@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "人間は顔だけでこんなにも違うのに、動物はなぜ見分けがつかないのか？"
+    },
+    {
+      "locale": "zh",
+      "title": "为什么人类看起来如此不同（仅仅通过他们的脸），但却很难将动物区分开来？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲什麼人類看起來如此不同（僅僅通過他們的臉），但卻很難將動物區分開來？"
+    }
+  ]
 }
