@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-02T07:18:40Z"
+  "original_createdAt": "2021-10-02T07:18:40Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "EntrepreneurList（アントレプレナーリスト）は、刺激的な起業家を厳選して紹介しています。リストには700人以上の起業家、著者、マーケッター、投資家が含まれており、トピックごとに分けられた30のカテゴリーがあります。例えば、「Crypto」「Design」「Development」「Marketing」「SaaS」「Podcast」などです。",
+      "tagline": "厳選された700人以上の起業家から学ぶことができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "EntrepreneurList是一个精心策划的激励性企业家目录，可以向其学习。列表包括700多个企业家、作者、营销人员或投资者，按主题划分为30个类别，比如说。加密货币、设计、开发、营销、SaaS和播客。",
+      "tagline": "一个由700多名企业家组成的精心策划的目录，可以向他们学习"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "EntrepreneurList是一個精心策劃的激勵性企業家目錄，可以向其學習。列表包括700多個企業家、作者、營銷人員或投資者，按主題劃分爲30個類別，比如說。加密貨幣、設計、開發、營銷、SaaS和播客。",
+      "tagline": "一個由700多名企業家組成的精心策劃的目錄，可以向他們學習"
+    }
+  ]
 }
