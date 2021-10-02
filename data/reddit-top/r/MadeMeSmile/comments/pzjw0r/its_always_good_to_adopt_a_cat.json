@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "猫を飼うのはいいことだ。"
+    },
+    {
+      "locale": "zh",
+      "title": "收养一只猫总是好的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "收養一隻貓總是好的。"
+    }
+  ]
 }
