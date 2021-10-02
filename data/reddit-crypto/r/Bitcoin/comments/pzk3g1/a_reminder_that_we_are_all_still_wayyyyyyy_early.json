@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私たちは皆、まだずっと早いのだと思い知らされます。"
+    },
+    {
+      "locale": "zh",
+      "title": "提醒我们，我们都还很早。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "提醒我們，我們都還很早。"
+    }
+  ]
 }
