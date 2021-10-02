@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-01T10:16:50Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4I6pySwO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1iynpzvhmn8banbb8ilv.jpg",
   "author": "Elijah Zobenko",
-  "author_url": "https://dev.to/he110"
+  "author_url": "https://dev.to/he110",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "プロジェクトの成長とその負荷は、開発者にとって本当に大変なことです。ウェブサイトの開始...",
+      "title": "PHPプロジェクトをキャッシュで強化する"
+    },
+    {
+      "locale": "zh",
+      "description": "项目的增长及其负荷对开发商来说可能是一个真正的挑战。网站开始...",
+      "title": "用缓存提升PHP-项目"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "項目的增長及其負荷對開發商來說可能是一個真正的挑戰。網站開始...",
+      "title": "用緩存提升PHP-項目"
+    }
+  ]
 }
