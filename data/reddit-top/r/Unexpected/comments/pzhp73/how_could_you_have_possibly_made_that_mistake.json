@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "どうしてそのようなミスをしてしまったのか"
+    },
+    {
+      "locale": "zh",
+      "title": "你怎么可能会犯这种错误"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你怎麼可能會犯這種錯誤"
+    }
+  ]
 }
