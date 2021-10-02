@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "1万円を使うには1時間しかありません。あなたは何を買いますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你有1个小时的时间来花费10,000美元。你会买什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你有1個小時的時間來花費10,000美元。你會買什麼？"
+    }
+  ]
 }
