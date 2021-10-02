@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "CNN \"ほとんどのクリプトは失敗するだろうが、ビットコインは永久にここにいるかもしれない\""
+    },
+    {
+      "locale": "zh",
+      "title": "CNN。\"大多数加密货币将失败，但比特币可能永远存在\"。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "CNN。\"大多數加密貨幣將失敗，但比特幣可能永遠存在\"。"
+    }
+  ]
 }
