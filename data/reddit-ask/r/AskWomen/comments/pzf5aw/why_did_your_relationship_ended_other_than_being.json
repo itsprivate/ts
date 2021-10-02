@@ -11,5 +11,15 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "."
+  "the_new_excerpt": ".",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "."
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "."
+    }
+  ]
 }
