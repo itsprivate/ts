@@ -50,5 +50,22 @@
   "original_created_at": "2021-10-01T10:32:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--A2IJf3vY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4l178zbe5a7sknk0zdpn.png",
   "author": "Zoltán Szőgyényi",
-  "author_url": "https://dev.to/zolidev"
+  "author_url": "https://dev.to/zolidev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ここ数年のプロジェクトでは、Tailwind CSSを使ってコンポーネント、セクション、...を構築し、スタイルを整えています。",
+      "title": "Tailwind CSSボタンコンポーネントの構築 + バリエーション"
+    },
+    {
+      "locale": "zh",
+      "description": "在过去的几个项目中，我一直在使用Tailwind CSS来构建和设计组件、部分、...",
+      "title": "建立一个Tailwind的CSS按钮组件+变体"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在過去的幾個項目中，我一直在使用Tailwind CSS來構建和設計組件、部分、...",
+      "title": "建立一個Tailwind的CSS按鈕組件+變體"
+    }
+  ]
 }
