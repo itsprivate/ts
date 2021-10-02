@@ -90,5 +90,22 @@
     "retweet_count": 357,
     "favorite_count": 1973,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @DocumentingBTC: 米国には#ビットコインを禁止する計画はありません。\n\nhttps://t.co/YGG4ocUKGK",
+      "retweeted_status_full_text": "米国は#ビットコインを禁止する計画はありません\n\nhttps://t.co/YGG4ocUKGK"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @DocumentingBTC: 美国没有禁止#比特币的计划\n\nhttps://t.co/YGG4ocUKGK",
+      "retweeted_status_full_text": "美国没有禁止#比特币的计划\n\nhttps://t.co/YGG4ocUKGK"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @DocumentingBTC: 美國沒有禁止#比特幣的計劃\n\nhttps://t.co/YGG4ocUKGK",
+      "retweeted_status_full_text": "美國沒有禁止#比特幣的計劃\n\nhttps://t.co/YGG4ocUKGK"
+    }
+  ]
 }
