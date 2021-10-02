@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "自分を制限するものを排除する。"
+    },
+    {
+      "locale": "zh",
+      "title": "摆脱那些限制自己的东西。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "擺脫那些限制自己的東西。"
+    }
+  ]
 }
