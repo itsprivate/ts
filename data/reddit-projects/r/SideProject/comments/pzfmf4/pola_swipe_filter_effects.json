@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Pola - スワイプフィルター効果"
+    },
+    {
+      "locale": "zh",
+      "title": "Pola - 擦拭过滤器效果"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Pola - 擦拭過濾器效果"
+    }
+  ]
 }
