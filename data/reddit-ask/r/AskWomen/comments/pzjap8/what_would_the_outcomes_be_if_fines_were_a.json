@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "罰金が固定料金ではなく、収入に対する割合であった場合、結果はどうなるでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果罚款是你收入的一个百分比，而不是一个固定的比率，结果会是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果罰款是你收入的一個百分比，而不是一個固定的比率，結果會是什麼？"
+    }
+  ]
 }
