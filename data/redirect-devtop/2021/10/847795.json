@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-01T12:18:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4uf_tq3M--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3yg6m1e4ek0n75xer2ir.jpg",
   "author": "Med Amine Fh",
-  "author_url": "https://dev.to/medaminefh"
+  "author_url": "https://dev.to/medaminefh",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "もしあなたが多くのプロジェクトでReact Routerを使用しているならば、間違いなく「どうやってデータを渡すのか」「どうやって...",
+      "title": "リンクを使ったReact Routerでのデータ受け渡し"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你在很多项目中使用过React Router，你肯定会问我如何能够传递一些数据或...",
+      "title": "使用Link与React Router传递数据"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你在很多項目中使用過React Router，你肯定會問我如何能夠傳遞一些數據或...",
+      "title": "使用Link與React Router傳遞數據"
+    }
+  ]
 }

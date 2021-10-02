@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-02T07:20:52Z"
+  "original_createdAt": "2021-10-02T07:20:52Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "100人以上のFigmateと一緒に、リソースや仕事など、Figmaにまつわる様々な情報を、毎週あなたのメールボックスにお届けします。",
+      "tagline": "仕事、イベント、リソースなどの情報を提供する週刊Figmaニュースレター"
+    },
+    {
+      "locale": "zh",
+      "description": "加入100多个Figmates，寻求资源、工作和更多有关Figma的信息，每周都会发送到您的收件箱。",
+      "tagline": "每周的Figma通讯，包括工作、活动、资源及更多内容"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "加入100多個Figmates，尋求資源、工作和更多有關Figma的信息，每週都會發送到您的收件箱。",
+      "tagline": "每週的Figma通訊，包括工作、活動、資源及更多內容"
+    }
+  ]
 }
