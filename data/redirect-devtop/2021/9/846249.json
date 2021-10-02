@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-30T07:43:03Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YfrcMKvy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yyidpeg943vmrt9k551r.png",
   "author": "Michelle Mannering",
-  "author_url": "https://dev.to/mishmanners"
+  "author_url": "https://dev.to/mishmanners",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "先日行われたGitKonの講演で、私はgit commitと良いコミットをすることの意味について話しました。",
+      "title": "良い `git commit` を作るには？"
+    },
+    {
+      "locale": "zh",
+      "description": "在我最近的GitKon演讲中，我谈到了git commit以及拥有好的提交意味着什么。",
+      "title": "如何做一个好的`git提交'？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在我最近的GitKon演講中，我談到了git commit以及擁有好的提交意味着什麼。",
+      "title": "如何做一個好的`git提交'？"
+    }
+  ]
 }
