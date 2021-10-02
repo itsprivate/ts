@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "光の帆は光子によって押されるので、レーザーは光子を出して宇宙を進むことができますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "既然光帆是由光子推动的，那么激光器是否可以通过发射光子来推动自己在太空中飞行？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "既然光帆是由光子推動的，那麼激光器是否可以通過發射光子來推動自己在太空中飛行？"
+    }
+  ]
 }

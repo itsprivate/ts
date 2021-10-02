@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-30T08:24:39Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1uToRibj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g8q4en8rdif020w5fx2p.jpg",
   "author": "damiisdandy",
-  "author_url": "https://dev.to/damiisdandy"
+  "author_url": "https://dev.to/damiisdandy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これは、React Context APIをtypescriptで設定するためのガイドです。          🤨 React Contextとは...",
+      "title": "カスタムフックでReact Context APIを設定する究極のガイド【Typescript編"
+    },
+    {
+      "locale": "zh",
+      "description": "这是一份指南，帮助你用typescript设置React Context API。          🤨 What React Context...",
+      "title": "用自定义钩子设置React Context API的终极指南[Typescript]"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是一份指南，幫助你用typescript設置React Context API。          🤨 What React Context...",
+      "title": "用自定義鉤子設置React Context API的終極指南[Typescript]"
+    }
+  ]
 }
