@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "手にジャガイモを持っていますが、これで何をしますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你手里有一个土豆🥔，你会怎么处理它？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你手裏有一個土豆🥔，你會怎麼處理它？"
+    }
+  ]
 }
