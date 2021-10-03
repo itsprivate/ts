@@ -43,5 +43,22 @@
   "original_created_at": "2021-10-01T19:46:16Z",
   "image": "https://dev.to/social_previews/article/848300.png",
   "author": "Aravind Sanjeev",
-  "author_url": "https://dev.to/aravsanj"
+  "author_url": "https://dev.to/aravsanj",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "関数とは、特定のタスクを実行する一連のステートメントのことです。これは、基本的な構成要素の一つです。",
+      "title": "JavaScriptの関数について知っておくべきこと"
+    },
+    {
+      "locale": "zh",
+      "description": "一个函数是一组执行特定任务的语句。它是一个基本的建筑。",
+      "title": "你需要知道的关于JavaScript函数的一切"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個函數是一組執行特定任務的語句。它是一個基本的建築。",
+      "title": "你需要知道的關於JavaScript函數的一切"
+    }
+  ]
 }
