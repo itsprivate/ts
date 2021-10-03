@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このアプリは、コーディングなしで何千ものNFTを生成することができます、それは無料で、広告はありません"
+    },
+    {
+      "locale": "zh",
+      "title": "这个应用程序让你无需编码就能生成数以千计的NFT，它是免费的，没有广告!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個應用程序讓你無需編碼就能生成數以千計的NFT，它是免費的，沒有廣告!"
+    }
+  ]
 }
