@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "EasyJob - 1つのインターフェイスからPowerShellスクリプトを保持し、実行することができます。"
+    },
+    {
+      "locale": "zh",
+      "title": "EasyJob - 在一个界面上保存和执行你的PowerShell脚本"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "EasyJob - 在一個界面上保存和執行你的PowerShell腳本"
+    }
+  ]
 }
