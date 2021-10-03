@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-03T07:00:00Z"
+  "original_createdAt": "2021-10-03T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "✈ TransferKitを使って友達や同僚にファイルを送る 📁 TransferKitで送られた/保存されたファイルは、永遠にアクセス可能になる ⚡ 超高速ダウンロード 😋 すべて100%無料",
+      "tagline": "分散型ファイル転送・保存プラットフォーム"
+    },
+    {
+      "locale": "zh",
+      "description": "使用 TransferKit 发送文件给你的朋友和同事 📁 在 TransferKit 上发送/存储的文件将永远可以访问 ⚡ 快速下载😋 100%免费",
+      "tagline": "去中心化的文件传输和存储平台"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用 TransferKit 發送文件給你的朋友和同事 📁 在 TransferKit 上發送/存儲的文件將永遠可以訪問 ⚡ 快速下載😋 100%免費",
+      "tagline": "去中心化的文件傳輸和存儲平臺"
+    }
+  ]
 }
