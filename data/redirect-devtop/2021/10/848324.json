@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-01T20:53:34Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dRGG7KX_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qy9b98acszz6r7noc1nx.jpg",
   "author": "Kathryn Grayson Nanz",
-  "author_url": "https://dev.to/kathryngrayson"
+  "author_url": "https://dev.to/kathryngrayson",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "アクセシブルなReactコンポーネントをStorybookで自信を持って構築するために必要なすべてのツールです。",
+      "title": "STORYBOOKでアクセシブルなReactコンポーネントを構築するための5つのベストアドオン"
+    },
+    {
+      "locale": "zh",
+      "description": "你需要的所有工具都可以在Storybook中自信地构建可访问的React组件! ",
+      "title": "在Storybook中构建可访问的React组件的5个最佳附加组件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你需要的所有工具都可以在Storybook中自信地構建可訪問的React組件! ",
+      "title": "在Storybook中構建可訪問的React組件的5個最佳附加組件"
+    }
+  ]
 }
