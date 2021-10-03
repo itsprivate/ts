@@ -1,0 +1,62 @@
+{
+  "created_at": "Sun Oct 03 13:40:26 +0000 2021",
+  "id_str": "1444653048752640003",
+  "full_text": "Models can be useful without using all variables (for s2f eg demand, macro, adoption) or without capturing black swan events (for s2f eg Covid, China, Elon).\nModel below uses only 1 variable (Temp). Other variables just cause variance and black swans are just outliers (eg 87,125) https://t.co/crrCWH0Gjl",
+  "display_text_range": [
+    0,
+    280
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+      {
+        "id": 1444650202833559600,
+        "id_str": "1444650202833559559",
+        "indices": [
+          281,
+          304
+        ],
+        "media_url": "http://pbs.twimg.com/media/FAxttJSXIAcTUKU.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FAxttJSXIAcTUKU.jpg",
+        "url": "https://t.co/crrCWH0Gjl",
+        "display_url": "pic.twitter.com/crrCWH0Gjl",
+        "expanded_url": "https://twitter.com/100trillionUSD/status/1444653048752640003/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 419,
+            "h": 407,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 419,
+            "h": 407,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 419,
+            "h": 407,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "PlanB",
+    "screen_name": "100trillionUSD",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407223894600302594/gBUVNH89_normal.jpg"
+  },
+  "retweet_count": 63,
+  "favorite_count": 716,
+  "possibly_sensitive": false,
+  "original_created_at": "Sun Oct 03 13:18:21 +0000 2021"
+}
