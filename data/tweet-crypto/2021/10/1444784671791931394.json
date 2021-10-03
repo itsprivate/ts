@@ -138,5 +138,22 @@
     "retweet_count": 2097,
     "favorite_count": 5249,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @jackmurphylive: こんなに正確だとは思わなかった。\n\n https://t.co/L2D086PQ9D",
+      "retweeted_status_full_text": "これが正確だなんて最悪です。\n\n https://t.co/L2D086PQ9D"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @jackmurphylive: 这很糟糕，这有多准确。\n\n https://t.co/L2D086PQ9D",
+      "retweeted_status_full_text": "这有多准确，真糟糕。\n\n https://t.co/L2D086PQ9D"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @jackmurphylive: 這很糟糕，這有多準確。\n\n https://t.co/L2D086PQ9D",
+      "retweeted_status_full_text": "這有多準確，真糟糕。\n\n https://t.co/L2D086PQ9D"
+    }
+  ]
 }
