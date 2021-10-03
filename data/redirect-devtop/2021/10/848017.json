@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-01T13:56:42Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Qt19oQS7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bj8j5dgyy8gb4s85kxfm.jpg",
   "author": "Sapinder Singh",
-  "author_url": "https://dev.to/sapinder_dev"
+  "author_url": "https://dev.to/sapinder_dev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "APIという言葉は、JavaScriptを使ったことがある人なら、たぶん聞いたことがあると思います。膨大な数の...",
+      "title": "なぜJavaScriptにはAPIがあるのか？"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你曾经使用过JavaScript，你很可能听说过API这个词。有一大堆的API。",
+      "title": "为什么我们要在JavaScript中设置API？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你曾經使用過JavaScript，你很可能聽說過API這個詞。有一大堆的API。",
+      "title": "爲什麼我們要在JavaScript中設置API？"
+    }
+  ]
 }
