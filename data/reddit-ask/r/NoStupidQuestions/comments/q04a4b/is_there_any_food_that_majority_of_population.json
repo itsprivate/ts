@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "国民の大半が食べている食べ物で、手を加えられていないものはありますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "有什么食物是大多数人吃的，没有经过改造或改变的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有什麼食物是大多數人喫的，沒有經過改造或改變的？"
+    }
+  ]
 }
