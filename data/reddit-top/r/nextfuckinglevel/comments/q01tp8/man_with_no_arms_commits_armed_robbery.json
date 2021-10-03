@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "武器を持たない男が武装強盗を働く"
+    },
+    {
+      "locale": "zh",
+      "title": "没有武器的人实施武装抢劫"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "沒有武器的人實施武裝搶劫"
+    }
+  ]
 }
