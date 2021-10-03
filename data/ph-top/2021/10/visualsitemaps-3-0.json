@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-03T07:00:00Z"
+  "original_createdAt": "2021-10-03T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "任意のURLを入力すると、わずか数秒でその範囲、アーキテクチャ、コンテンツの詳細なスナップショットを得ることができるとしたらどうでしょう？それがVisualSitemapsです。",
+      "tagline": "ビジュアルサイトマップの自動生成"
+    },
+    {
+      "locale": "zh",
+      "description": "如果有可能输入任何URL，并在短短几秒钟内得到其范围、架构和内容的全面详细的快照，那会怎么样？请看VisualSitemaps。",
+      "tagline": "自动生成可视化网站地图"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果有可能輸入任何URL，並在短短几秒鐘內得到其範圍、架構和內容的全面詳細的快照，那會怎麼樣？請看VisualSitemaps。",
+      "tagline": "自動生成可視化網站地圖"
+    }
+  ]
 }
