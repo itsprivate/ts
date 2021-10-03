@@ -14,5 +14,19 @@
   "tags": [
     "The Wall Street Journal"
   ],
-  "image": "https://images.wsj.net/im-410335/social"
+  "image": "https://images.wsj.net/im-410335/social",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Covid-19 ワクチンメーカーは「誰にでも十分な量を投与できる」と言っている。貧しい国ではまだ注射を待っている。"
+    },
+    {
+      "locale": "zh",
+      "title": "Covid-19疫苗制造商称有足够的剂量供所有人使用。贫困国家仍在等待注射。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Covid-19疫苗製造商稱有足夠的劑量供所有人使用。貧困國家仍在等待注射。"
+    }
+  ]
 }
