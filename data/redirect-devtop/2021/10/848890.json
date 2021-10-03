@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-02T12:27:19Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PZAQPkIa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fgoo2b8c3k1zoorp5ccs.png",
   "author": "ADJARO OGAGA",
-  "author_url": "https://dev.to/ogagacodes"
+  "author_url": "https://dev.to/ogagacodes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "以前、同僚から『javascript(js)は、こんなにたくさんのライブラリがあるのに、どうやって生き延びているんだ』という質問を聞いたことがあります。Nodejs、...",
+      "title": "Nodejs ベストプラクティス（パート1-導入編"
+    },
+    {
+      "locale": "zh",
+      "description": "我曾经听到一个同事问，'你是如何通过javascript(js)生存的，那么多的库。Nodejs，...",
+      "title": "Nodejs最佳实践（第1部分-介绍"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我曾經聽到一個同事問，'你是如何通過javascript(js)生存的，那麼多的庫。Nodejs，...",
+      "title": "Nodejs最佳實踐（第1部分-介紹"
+    }
+  ]
 }
