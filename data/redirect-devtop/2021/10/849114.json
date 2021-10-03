@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-02T16:09:51Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EuxiqPiG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5wqq7tc2f0khowew13pv.png",
   "author": "Shadid Haque",
-  "author_url": "https://dev.to/shadid12"
+  "author_url": "https://dev.to/shadid12",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "アイテムの反復処理と非同期ロジック（APIコールなど）の処理は、おそらく2つの重要な課題です。",
+      "title": "JavaScriptでのループ内でのasync/awaitの使い方"
+    },
+    {
+      "locale": "zh",
+      "description": "迭代项目和处理异步逻辑（即API调用）可能是其中两项。",
+      "title": "如何在JavaScript的循环中使用async/await"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "迭代項目和處理異步邏輯（即API調用）可能是其中兩項。",
+      "title": "如何在JavaScript的循環中使用async/await"
+    }
+  ]
 }
