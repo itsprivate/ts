@@ -58,5 +58,19 @@
   "retweet_count": 63,
   "favorite_count": 716,
   "possibly_sensitive": false,
-  "original_created_at": "Sun Oct 03 13:18:21 +0000 2021"
+  "original_created_at": "Sun Oct 03 13:18:21 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "モデルは、すべての変数を使用しなくても有用であり（s2fの場合：需要、マクロ、採用）、ブラックスワンイベントを捉えなくても有用である（s2fの場合：Covid、中国、Elon）。\n下のモデルでは、1つの変数（Temp）のみを使用しています。他の変数は単に分散の原因となり、ブラックスワンは単なる外れ値（例：87,125） https://t.co/crrCWH0Gjl"
+    },
+    {
+      "locale": "zh",
+      "full_text": "模型可以在不使用所有变量的情况下发挥作用（对s2f来说，如需求、宏观、采用），或者不捕捉黑天鹅事件（对s2f来说，如Covid、中国、Elon）。\n下面的模型只使用一个变量（温度）。其他变量只是造成变异，黑天鹅只是异常值（如87,125） https://t.co/crrCWH0Gjl"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "模型可以在不使用所有變量的情況下發揮作用（對s2f來說，如需求、宏觀、採用），或者不捕捉黑天鵝事件（對s2f來說，如Covid、中國、Elon）。\n下面的模型只使用一個變量（溫度）。其他變量只是造成變異，黑天鵝只是異常值（如87,125） https://t.co/crrCWH0Gjl"
+    }
+  ]
 }
