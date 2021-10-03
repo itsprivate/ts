@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このモデルは、10年前にアメリカの現在の不安を予測していました。今は「内戦」と言っています。"
+    },
+    {
+      "locale": "zh",
+      "title": "这个模型在十年前就预测了美国目前的动乱。它现在说的是'内战'。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個模型在十年前就預測了美國目前的動亂。它現在說的是'內戰'。"
+    }
+  ]
 }
