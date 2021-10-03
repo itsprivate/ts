@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-02T13:42:38Z",
   "image": "https://dev.to/social_previews/article/848908.png",
   "author": "Michael Jordan",
-  "author_url": "https://dev.to/sulekha_gee_cf35cdedaedb9"
+  "author_url": "https://dev.to/sulekha_gee_cf35cdedaedb9",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TL;DR; もうついていけない恐竜の戯言。皆さんはどうしていますか？ EDIT: Holy cow....",
+      "title": "私はウェブ開発者です。そして、私はBurnt The F#*K Outです。"
+    },
+    {
+      "locale": "zh",
+      "description": "TL;DR; 一个再也跟不上的恐龙的咆哮。你们是怎么做到的？ EDIT: Holy cow....",
+      "title": "我是一名网络开发人员。我被烧死了。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "TL;DR; 一個再也跟不上的恐龍的咆哮。你們是怎麼做到的？ EDIT: Holy cow....",
+      "title": "我是一名網絡開發人員。我被燒死了。"
+    }
+  ]
 }
