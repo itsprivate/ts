@@ -43,5 +43,22 @@
   "original_created_at": "2021-10-01T01:47:08Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7l8R7mov--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f4364cag6soubs416l82.png",
   "author": "Atif Aiman",
-  "author_url": "https://dev.to/alserembani"
+  "author_url": "https://dev.to/alserembani",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "では、サラーム、そしてハローアゲイン!  前回までは、配列のループについて、ループの基本から...",
+      "title": "Javascript - Object is loopable too?"
+    },
+    {
+      "locale": "zh",
+      "description": "嗯，你好，又见面了!  之前，我讨论了数组循环，从循环的基础知识到...",
+      "title": "Javascript - 对象也是可循环的吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嗯，你好，又見面了!  之前，我討論了數組循環，從循環的基礎知識到...",
+      "title": "Javascript - 對象也是可循環的嗎？"
+    }
+  ]
 }
