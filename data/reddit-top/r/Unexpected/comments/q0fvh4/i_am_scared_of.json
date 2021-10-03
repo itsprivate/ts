@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "怖いのは、......"
+    },
+    {
+      "locale": "zh",
+      "title": "我很害怕......"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我很害怕......"
+    }
+  ]
 }
