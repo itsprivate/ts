@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Hello, I just launched APIArtisan.com [https://APIArtisan.com], it's an app that\ncan instantly convert a Database Structure into a working, ready-to-deploy\nLaravel API Application.\n\nThis way, anyone can build a full application without worrying about the backend\nside and only focus on the frontend…"
+  "the_new_excerpt": "Hello, I just launched APIArtisan.com [https://APIArtisan.com], it's an app that\ncan instantly convert a Database Structure into a working, ready-to-deploy\nLaravel API Application.\n\nThis way, anyone can build a full application without worrying about the backend\nside and only focus on the frontend…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "こんにちは。私はAPIArtisan.com [https://APIArtisan.com]を立ち上げたばかりです。\nデータベース構造を、すぐに動作し、すぐにデプロイできるLaravel APIアプリケーションに変換できるアプリです。\nLaravel APIアプリケーションに変換するアプリです。\n\nこれにより、誰でもバックエンド側を気にすることなく、完全なアプリケーションを構築することができます。\n誰もがバックエンドを気にすることなく、フロントエンドだけに集中してアプリケーションを構築することができます...",
+      "title": ".sqlのデータベースファイルをLaravelのAPIに変換するアプリ"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你好，我刚刚推出了APIArtisan.com [https://APIArtisan.com]，它是一个应用程序，可以\n可以立即将一个数据库结构转换成一个工作，准备部署的\nLaravel API应用程序.\n\n这样一来, 任何人都可以建立一个完整的应用程序, 而不必担心后端\n而只专注于前端...",
+      "title": "一个将.sql数据库文件转换为Laravel API的应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你好，我剛剛推出了APIArtisan.com [https://APIArtisan.com]，它是一個應用程序，可以\n可以立即將一個數據庫結構轉換成一個工作，準備部署的\nLaravel API應用程序.\n\n這樣一來, 任何人都可以建立一個完整的應用程序, 而不必擔心後端\n而只專注於前端...",
+      "title": "一個將.sql數據庫文件轉換爲Laravel API的應用程序"
+    }
+  ]
 }
