@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-03T01:06:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zdJvO-8l--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bxg7rkz7tn9q4t6974dp.jpeg",
   "author": "poudyal_rabin",
-  "author_url": "https://dev.to/poudyal_rabin"
+  "author_url": "https://dev.to/poudyal_rabin",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "健康であることは、人間にとって何よりも優先されるべき目標です。プログラマーであれば、なおさらです。",
+      "title": "プログラマーのための健康生活レシピ"
+    },
+    {
+      "locale": "zh",
+      "description": "健康应该是任何人类的首要目标。作为一个程序员，它甚至...",
+      "title": "程序员的健康生活秘诀"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "健康應該是任何人類的首要目標。作爲一個程序員，它甚至...",
+      "title": "程序員的健康生活祕訣"
+    }
+  ]
 }
