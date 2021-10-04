@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-02T10:17:03Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DI7YqFET--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k7jlxqbiipjjjz6w5ysi.jpg",
   "author": "Pete Hawkins",
-  "author_url": "https://dev.to/phawk"
+  "author_url": "https://dev.to/phawk",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私は多くのRailsアプリケーションを作成することになりますが、開発を始めるたびに...",
+      "title": "すべてのRailsアプリに追加する10のこと"
+    },
+    {
+      "locale": "zh",
+      "description": "我最终创建了很多Rails应用程序，每次开始的时候，我经常发现自己想要添加...",
+      "title": "我在每个Rails应用程序中添加的10个东西"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我最終創建了很多Rails應用程序，每次開始的時候，我經常發現自己想要添加...",
+      "title": "我在每個Rails應用程序中添加的10個東西"
+    }
+  ]
 }
