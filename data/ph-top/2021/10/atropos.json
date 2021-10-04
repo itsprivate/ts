@@ -48,5 +48,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-04T08:01:44Z"
+  "original_createdAt": "2021-10-04T08:01:44Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Atroposは、軽量でフリーかつオープンソースのJavaScriptライブラリで、驚くほどタッチフレンドリーな3Dパララックスホバーエフェクトを作成できます。JavaScript、React、Vue.jsで利用可能です。",
+      "tagline": "タッチフレンドリーな3Dパララックスホバー効果"
+    },
+    {
+      "locale": "zh",
+      "description": "Atropos是一个轻量级的、免费的、开源的JavaScript库，用于创建令人惊叹的触摸友好的3D视差悬停效果。可用于JavaScript、React和Vue.js。",
+      "tagline": "触摸友好的3D视差悬停效果"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Atropos是一個輕量級的、免費的、開源的JavaScript庫，用於創建令人驚歎的觸摸友好的3D視差懸停效果。可用於JavaScript、React和Vue.js。",
+      "tagline": "觸摸友好的3D視差懸停效果"
+    }
+  ]
 }
