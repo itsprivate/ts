@@ -13,5 +13,19 @@
   ],
   "objectID": "28740497",
   "original_created_at": "2021-10-03T21:05:06.000Z",
-  "image": "https://www.micahlerner.com/assets/foundationdb/arch.png"
+  "image": "https://www.micahlerner.com/assets/foundationdb/arch.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "FoundationDB: A Distributed Unbundled Transactional Key Value Store（分散型アンバンドル・トランザクション・キーバリュー・ストア"
+    },
+    {
+      "locale": "zh",
+      "title": "FoundationDB: 分布式非捆绑交易型键值库"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "FoundationDB: 分佈式非捆綁交易型鍵值庫"
+    }
+  ]
 }
