@@ -41,5 +41,19 @@
   "retweet_count": 16,
   "favorite_count": 80,
   "possibly_sensitive": false,
-  "original_created_at": "Mon Oct 04 21:05:11 +0000 2021"
+  "original_created_at": "Mon Oct 04 21:05:11 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "Hey @Facebook, need some help? https://t.co/eu0ojwBV1c"
+    },
+    {
+      "locale": "zh",
+      "full_text": "嘿，@Facebook，需要帮助吗？https://t.co/eu0ojwBV1c"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "嘿，@Facebook，需要幫助嗎？https://t.co/eu0ojwBV1c"
+    }
+  ]
 }
