@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "リュックサックの使用を中止すること"
+    },
+    {
+      "locale": "zh",
+      "title": "停止使用背包"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "停止使用揹包"
+    }
+  ]
 }
