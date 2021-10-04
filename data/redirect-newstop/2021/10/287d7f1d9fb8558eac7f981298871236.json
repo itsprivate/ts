@@ -14,5 +14,19 @@
   "tags": [
     "Fox News"
   ],
-  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/10/Italy.png"
+  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/10/Italy.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "飛行機がミラノ近郊のビルに墜落、乗員8名全員死亡"
+    },
+    {
+      "locale": "zh",
+      "title": "飞机在米兰附近撞上建筑物，机上8人全部死亡"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "飛機在米蘭附近撞上建築物，機上8人全部死亡"
+    }
+  ]
 }
