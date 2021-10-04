@@ -26,7 +26,7 @@ on:
         item.guid = uniqueId;
         item.tags = [source];
         return item
-      limit: 4
+      limit: 3
       # force: true
       outputsMode: combine
       exportOutputs: true
@@ -44,6 +44,7 @@ jobs:
           script: |
             const generateSources = require(`${process.env.GITHUB_WORKSPACE}/scripts/generate-default.module.js`)
             await generateSources({
+                isTranslateTag: false,
                 dest : "data/redirect-newstop",
                 name : "redirect-newstop",
                 idField : `id`,
