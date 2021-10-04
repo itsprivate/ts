@@ -43,5 +43,22 @@
   "original_created_at": "2021-10-02T23:15:06Z",
   "image": "https://dev.to/social_previews/article/849339.png",
   "author": "NRF",
-  "author_url": "https://dev.to/nrf"
+  "author_url": "https://dev.to/nrf",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "先日、@_georgemollerさんがツイートした次のような内容のツイートを見て、興味深い質問をしていました。",
+      "title": "Reactでの再レンダリング"
+    },
+    {
+      "locale": "zh",
+      "description": "我最近看到@_georgemoller的以下推文，它提出了一个有趣的问题，与...",
+      "title": "在React中进行重新渲染"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我最近看到@_georgemoller的以下推文，它提出了一個有趣的問題，與...",
+      "title": "在React中進行重新渲染"
+    }
+  ]
 }
