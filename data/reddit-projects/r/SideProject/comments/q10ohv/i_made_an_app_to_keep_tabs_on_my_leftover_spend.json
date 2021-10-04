@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "使い残しを管理するアプリを作ってみた"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个应用程序来记录我的剩余消费情况"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個應用程序來記錄我的剩餘消費情況"
+    }
+  ]
 }
