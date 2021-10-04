@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-01T16:57:48Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Zwam8SE3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hfozp6lty4d08rvkzi2z.jpeg",
   "author": "Jordan Burroughs",
-  "author_url": "https://dev.to/jburroughs"
+  "author_url": "https://dev.to/jburroughs",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "先日、同僚が私たちのプロダクションコードについて面白いことに気づきました。それは、私たちの...",
+      "title": "これを知らずしてReactアプリを作るべからず"
+    },
+    {
+      "locale": "zh",
+      "description": "有一天，一位同事注意到我们的生产代码有一些有趣的地方。你可以查看我们的...",
+      "title": "在你知道这个之前，不要使用创建React应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有一天，一位同事注意到我們的生產代碼有一些有趣的地方。你可以查看我們的...",
+      "title": "在你知道這個之前，不要使用創建React應用程序"
+    }
+  ]
 }

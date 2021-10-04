@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-02T05:47:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FYzyFOIZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/95h04toekjmtc9vgaxbe.png",
   "author": "Suhail Kakar",
-  "author_url": "https://dev.to/suhailkakar"
+  "author_url": "https://dev.to/suhailkakar",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Solidityは、スマートコントラクトを作成するための、オブジェクト指向の高レベルプログラミング言語です。",
+      "title": "初心者のためのSolidityガイド-ブロックチェーン開発編"
+    },
+    {
+      "locale": "zh",
+      "description": "Solidity是一种面向对象的高级编程语言，用于创建智能合约。",
+      "title": "Solidity初学者指南--区块链开发"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Solidity是一種面向對象的高級編程語言，用於創建智能合約。",
+      "title": "Solidity初學者指南--區塊鏈開發"
+    }
+  ]
 }
