@@ -43,5 +43,22 @@
   "original_created_at": "2021-10-03T04:57:19Z",
   "image": "https://dev.to/social_previews/article/849496.png",
   "author": "Michael Lin",
-  "author_url": "https://dev.to/unadlib"
+  "author_url": "https://dev.to/unadlib",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "動機 シングルページアプリケーションを開発する際には、通常、その動作を定義するだけです...",
+      "title": "Webアプリケーションをマルチブラウザ対応にする方法"
+    },
+    {
+      "locale": "zh",
+      "description": "动机 当我们开发一个单页应用程序时，我们通常只定义其行为。",
+      "title": "如何使Web应用程序支持多个浏览器窗口"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "動機 當我們開發一個單頁應用程序時，我們通常只定義其行爲。",
+      "title": "如何使Web應用程序支持多個瀏覽器窗口"
+    }
+  ]
 }
