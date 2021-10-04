@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-02T03:13:26Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uC5V7TsO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/minyvxutz3k6nwwu9w2f.jpg",
   "author": "MizuhoOkimoto",
-  "author_url": "https://dev.to/okimotomizuho"
+  "author_url": "https://dev.to/okimotomizuho",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今週は、gitを使って1つのプロジェクトの複数の変更を同時に管理する練習をしたり、...",
+      "title": "オープンソースです。複数のブランチとgit merge"
+    },
+    {
+      "locale": "zh",
+      "description": "本周，我练习了使用git来同时管理一个项目中的多个变化，并使用...",
+      "title": "开源。多分支和git合并"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "本週，我練習了使用git來同時管理一個項目中的多個變化，並使用...",
+      "title": "開源。多分支和git合併"
+    }
+  ]
 }
