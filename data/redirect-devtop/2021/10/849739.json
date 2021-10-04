@@ -52,5 +52,22 @@
   "original_created_at": "2021-10-03T10:44:38Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7WEedd90--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uebwt7y44pzc0nuhzm5b.png",
   "author": "Zoltán Szőgyényi",
-  "author_url": "https://dev.to/zolidev"
+  "author_url": "https://dev.to/zolidev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Tailwind CSSはかなり前から使用していますが、ユーザー設定がとても簡単なことに惚れ込んでいます...",
+      "title": "Tailwind CSSボタングループコンポーネントの構築"
+    },
+    {
+      "locale": "zh",
+      "description": "我使用Tailwind CSS已经有一段时间了，我爱上了它设置用户的简易性。",
+      "title": "建立一个Tailwind的CSS按钮组组件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我使用Tailwind CSS已經有一段時間了，我愛上了它設置用戶的簡易性。",
+      "title": "建立一個Tailwind的CSS按鈕組組件"
+    }
+  ]
 }
