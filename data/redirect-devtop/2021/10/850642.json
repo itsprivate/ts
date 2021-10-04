@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-04T07:48:24Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dVVnVvg5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/668nydw4g8nt0axeswti.jpeg",
   "author": "Ezran Bayantemur",
-  "author_url": "https://dev.to/ezranbayantemur"
+  "author_url": "https://dev.to/ezranbayantemur",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私は長い間Reactでアプリケーションを開発してきましたが、ますます好きになりました。React...",
+      "title": "Reactプロジェクトアーキテクチャ"
+    },
+    {
+      "locale": "zh",
+      "description": "我已经用React开发了很长时间的应用程序，我越来越喜欢它。React...",
+      "title": "反应器项目架构"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我已經用React開發了很長時間的應用程序，我越來越喜歡它。React...",
+      "title": "反應器項目架構"
+    }
+  ]
 }
