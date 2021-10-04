@@ -50,5 +50,22 @@
   "original_created_at": "2021-10-03T03:30:52Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--j_IgiJbo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/41ppp5tibaeout0tcg1b.png",
   "author": "Tapajyoti Bose",
-  "author_url": "https://dev.to/ruppysuppy"
+  "author_url": "https://dev.to/ruppysuppy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "プログラミングは高収入のキャリアにつながりますが、技術系の業界では長時間働かなければならないことが多いです。",
+      "title": "開発者が知っておきたい生産性向上のための5つのポイント"
+    },
+    {
+      "locale": "zh",
+      "description": "编程可以带来高薪职业，但在科技行业，你往往必须长期工作。",
+      "title": "每个开发人员必须知道的5个最大限度提高生产力的技巧"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "編程可以帶來高薪職業，但在科技行業，你往往必須長期工作。",
+      "title": "每個開發人員必須知道的5個最大限度提高生產力的技巧"
+    }
+  ]
 }

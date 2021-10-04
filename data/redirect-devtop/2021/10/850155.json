@@ -39,5 +39,22 @@
   "original_created_at": "2021-10-03T19:50:57Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NwByPQjU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/p548exnmt2vzcsbi0gd1.png",
   "author": "Sam Magura",
-  "author_url": "https://dev.to/srmagura"
+  "author_url": "https://dev.to/srmagura",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "tl;dr: SonarLintとオプションでStyleCopを使う。 JavaScriptのエコシステムには素晴らしいツールがあります...",
+      "title": "2021年のC#のリンティングとフォーマットのツール"
+    },
+    {
+      "locale": "zh",
+      "description": "tl;dr: 使用SonarLint和可选的StyleCop。 JavaScript生态系统有令人惊奇的工具，可以让我们的系统更有活力。",
+      "title": "2021年的C#提示和格式化工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "tl;dr: 使用SonarLint和可選的StyleCop。 JavaScript生態系統有令人驚奇的工具，可以讓我們的系統更有活力。",
+      "title": "2021年的C#提示和格式化工具"
+    }
+  ]
 }

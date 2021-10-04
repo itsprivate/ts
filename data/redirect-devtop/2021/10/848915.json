@@ -52,5 +52,22 @@
   "original_created_at": "2021-10-02T13:52:37Z",
   "image": "https://dev.to/social_previews/article/848915.png",
   "author": "Igor Kamyshev",
-  "author_url": "https://dev.to/igorkamyshev"
+  "author_url": "https://dev.to/igorkamyshev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "エフェクターは、軽量でパフォーマンスに優れたステートマネージャーです。UIフレームワークにとらわれず、予測可能で使いやすいものです。半年ほど前、AviasalesチームはRxJSからEffectorへの移行を開始しました。このライブラリを調べているうちに、まったく予想外の機能を見つけました。それがEffectorに対する私の考えを変えました。",
+      "title": "エフェクターの醍醐味"
+    },
+    {
+      "locale": "zh",
+      "description": "Effector是一个轻量级和高性能的状态管理器。它与UI框架无关，可预测且易于使用。差不多半年前，Aviasales团队已经开始从RxJS迁移到Effector。当我在调查这个库的时候，我发现了一个完全出乎意料的功能。它改变了我对Effector的看法。",
+      "title": "效果器的最佳部分"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Effector是一個輕量級和高性能的狀態管理器。它與UI框架無關，可預測且易於使用。差不多半年前，Aviasales團隊已經開始從RxJS遷移到Effector。當我在調查這個庫的時候，我發現了一個完全出乎意料的功能。它改變了我對Effector的看法。",
+      "title": "效果器的最佳部分"
+    }
+  ]
 }
