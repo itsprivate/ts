@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-03T10:58:54Z",
   "image": "https://dev.to/social_previews/article/849791.png",
   "author": "Vishwa Mittar",
-  "author_url": "https://dev.to/vishwasluhana"
+  "author_url": "https://dev.to/vishwasluhana",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに VIMは、コードを書くためのテキストエディタで、画面を操作して...",
+      "title": "VIM - ビギナーズガイド"
+    },
+    {
+      "locale": "zh",
+      "description": "简介 VIM是一个用于编写代码的文本编辑器，你可以在屏幕上浏览...",
+      "title": "VIM - 初学者指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介 VIM是一個用於編寫代碼的文本編輯器，你可以在屏幕上瀏覽...",
+      "title": "VIM - 初學者指南"
+    }
+  ]
 }
