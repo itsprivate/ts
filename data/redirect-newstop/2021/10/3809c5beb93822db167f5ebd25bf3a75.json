@@ -14,5 +14,19 @@
   "tags": [
     "Newsweek"
   ],
-  "image": "https://d.newsweek.com/en/full/1906848/india-protests.jpg"
+  "image": "https://d.newsweek.com/en/full/1906848/india-protests.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "公務員の車がデモ隊を轢き、運転手と乗客3人が報復のために殴り殺される"
+    },
+    {
+      "locale": "zh",
+      "title": "官员的汽车碾压抗议者，司机和3名乘客被殴打致死以示报复"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "官員的汽車碾壓抗議者，司機和3名乘客被毆打致死以示報復"
+    }
+  ]
 }
