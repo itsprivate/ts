@@ -103,5 +103,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1633289684,
-  "the_new_excerpt": "Past performance is not indicative of future returns.\n\nJust for fun, I visualized the past 20 years of September returns for VT, VTI,\nVXUS, VOO, and BND. Unsurprisingly, there wasn't much correlation to suggest\n\"September is always bad.\" Data comes from Capital IQ but you could find it from\nany…"
+  "the_new_excerpt": "Past performance is not indicative of future returns.\n\nJust for fun, I visualized the past 20 years of September returns for VT, VTI,\nVXUS, VOO, and BND. Unsurprisingly, there wasn't much correlation to suggest\n\"September is always bad.\" Data comes from Capital IQ but you could find it from\nany…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "過去のパフォーマンスは、将来のリターンを示すものではありません。\n\n面白半分で、VT、VTI、VXUS、VOO、BNDの過去20年間の9月のリターンを可視化してみました。\nVXUS、VOO、BNDの過去20年間の9月のリターンを可視化してみました。当然のことながら、以下を示唆するような相関関係はあまりありませんでした。\n\"9月はいつも悪い\" データはCapital IQからのものですが、あなたはそれを見つけることができるでしょう。\nどのようなものでも良いのですが...",
+      "title": "9月は例年、市場にとって悪い月なのでしょうか？VT、VTI、VXUS、BND、VOOのデータをバックテストして調べてみました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "过去的表现并不代表未来的回报。\n\n为了好玩，我把VT、VTI、VXUS、VOO和BND的过去20年9月的回报率可视化。\nVXUS，VOO和BND。不出所料，并没有什么相关性表明\n\"九月总是坏的。\" 数据来自于Capital IQ，但你可以从\n任何...",
+      "title": "9月通常是市场的坏月份吗？我对VT、VTI、VXUS、BND和VOO的数据进行了回测，以找出答案。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "過去的表現並不代表未來的回報。\n\n爲了好玩，我把VT、VTI、VXUS、VOO和BND的過去20年9月的回報率可視化。\nVXUS，VOO和BND。不出所料，並沒有什麼相關性表明\n\"九月總是壞的。\" 數據來自於Capital IQ，但你可以從\n任何...",
+      "title": "9月通常是市場的壞月份嗎？我對VT、VTI、VXUS、BND和VOO的數據進行了回測，以找出答案。"
+    }
+  ]
 }
