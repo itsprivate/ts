@@ -43,5 +43,22 @@
   "original_created_at": "2021-10-03T06:53:20Z",
   "image": "https://dev.to/social_previews/article/849612.png",
   "author": "Pacharapol Withayasakpunt",
-  "author_url": "https://dev.to/patarapolw"
+  "author_url": "https://dev.to/patarapolw",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "一見すると、PDFビューアはPDFのURLをフレームで開くだけの簡単なもののように見えますが、それだけではありません...。",
+      "title": "自作のPDF.jsによるカスタマイズ可能なPDFビューア"
+    },
+    {
+      "locale": "zh",
+      "description": "乍一看，PDF浏览器似乎就像在一个Iframe中打开一个PDF URL一样简单；然而，不仅是...",
+      "title": "使用自建的PDF.js的可定制的PDF查看器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "乍一看，PDF瀏覽器似乎就像在一個Iframe中打開一個PDF URL一樣簡單；然而，不僅是...",
+      "title": "使用自建的PDF.js的可定製的PDF查看器"
+    }
+  ]
 }
