@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "For some reason I'm not able to go on Facebook because it appears to be under\nconstruction."
+  "the_new_excerpt": "For some reason I'm not able to go on Facebook because it appears to be under\nconstruction.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "なぜかFacebookは工事中のようで行けません。\n工事中のようです。",
+      "title": "Facebookが使えない人はいませんか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "由于某些原因，我无法进入Facebook，因为它似乎正在建设中。\n建设中。",
+      "title": "有谁的Facebook不工作了吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "由於某些原因，我無法進入Facebook，因爲它似乎正在建設中。\n建設中。",
+      "title": "有誰的Facebook不工作了嗎？"
+    }
+  ]
 }
