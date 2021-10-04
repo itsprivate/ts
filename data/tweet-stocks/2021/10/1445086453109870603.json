@@ -52,5 +52,22 @@
     },
     "retweet_count": 236064,
     "favorite_count": 1165798
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @Twitter: 文字通り皆さんこんにちは。",
+      "retweeted_status_full_text": "文字通り皆さんこんにちは"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @Twitter: Hello literally everyone",
+      "retweeted_status_full_text": "大家好"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @Twitter: Hello literally everyone",
+      "retweeted_status_full_text": "大家好"
+    }
+  ]
 }
