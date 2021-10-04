@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "I still probably won't, but would it work?"
+  "the_new_excerpt": "I still probably won't, but would it work?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私はまだやらないと思いますが、うまくいくでしょうか？",
+      "title": "もし私がフェンスにおしっこをしたら、隣の犬はここが私の縄張りだと認識して、外に出るたびに私に吠えなくなるでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我仍然可能不会，但它会起作用吗？",
+      "title": "如果我在栅栏上撒尿，我邻居的狗会不会承认这是我的地盘，并在我每次出去的时候不对我吠叫？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我仍然可能不會，但它會起作用嗎？",
+      "title": "如果我在柵欄上撒尿，我鄰居的狗會不會承認這是我的地盤，並在我每次出去的時候不對我吠叫？"
+    }
+  ]
 }
