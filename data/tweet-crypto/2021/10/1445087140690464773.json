@@ -150,5 +150,22 @@
     "retweet_count": 1071,
     "favorite_count": 7821,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @100trillionUSD #ビットコインの供給不足 https://t.co/wHv9NnaCEj",
+      "retweeted_status_full_text": "#ビットコインの供給不足 https://t.co/wHv9NnaCEj"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @100trillionUSD: #比特币供应短缺 https://t.co/wHv9NnaCEj",
+      "retweeted_status_full_text": "#比特币供应短缺https://t.co/wHv9NnaCEj"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @100trillionUSD: #比特幣供應短缺 https://t.co/wHv9NnaCEj",
+      "retweeted_status_full_text": "#比特幣供應短缺https://t.co/wHv9NnaCEj"
+    }
+  ]
 }
