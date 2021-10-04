@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Why YSK: Since grocery stores are understaffed, be sure to check the expiration\ndates on perishables. Stock may not be getting rotated as it should."
+  "the_new_excerpt": "Why YSK: Since grocery stores are understaffed, be sure to check the expiration\ndates on perishables. Stock may not be getting rotated as it should.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "なぜYSKかというと、食料品店は人手が足りないので、賞味期限を確認してください。\n生鮮食品の賞味期限を確認してください。在庫の入れ替えがうまくいっていない可能性があります。",
+      "title": "YSK 賞味期限を確認してください。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么选择YSK：由于杂货店人手不足，一定要检查易腐食品的过期日期。\n易腐烂物品的日期。库存可能没有得到应有的轮换。",
+      "title": "YSK检查这些有效期"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼選擇YSK：由於雜貨店人手不足，一定要檢查易腐食品的過期日期。\n易腐爛物品的日期。庫存可能沒有得到應有的輪換。",
+      "title": "YSK檢查這些有效期"
+    }
+  ]
 }
