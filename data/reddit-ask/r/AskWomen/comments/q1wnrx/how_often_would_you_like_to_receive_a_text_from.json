@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "付き合いたての相手から、どのくらいの頻度でメールを受け取りたいですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你希望多长时间收到一次来自你非常新的约会对象的短信？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你希望多長時間收到一次來自你非常新的約會對象的短信？"
+    }
+  ]
 }
