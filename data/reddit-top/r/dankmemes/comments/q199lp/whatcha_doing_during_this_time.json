@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この間、何をしているのか？"
+    },
+    {
+      "locale": "zh",
+      "title": "这段时间你在做什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這段時間你在做什麼？"
+    }
+  ]
 }
