@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-05T10:11:48Z"
+  "original_createdAt": "2021-10-05T10:11:48Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "AdSpyderは、世界中の何百万ものオンライン広告のインサイトを提供するSaasベースのアド・インテリジェンス・プラットフォームです。AdSpyderは現在、Google検索広告、Facebook広告、Google Ecom広告をサポートしており、ネットワークを介して広告を表示します。",
+      "tagline": "競合他社のオンライン広告戦略の分析"
+    },
+    {
+      "locale": "zh",
+      "description": "AdSpyder是一个基于saas的广告智能平台，提供对来自世界各地的数百万在线广告的洞察力。AdSpyder目前支持谷歌搜索广告、Facebook广告、谷歌Ecom广告，并跨网络显示广告。",
+      "tagline": "分析你的竞争对手的在线广告策略"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "AdSpyder是一個基於saas的廣告智能平臺，提供對來自世界各地的數百萬在線廣告的洞察力。AdSpyder目前支持谷歌搜索廣告、Facebook廣告、谷歌Ecom廣告，並跨網絡顯示廣告。",
+      "tagline": "分析你的競爭對手的在線廣告策略"
+    }
+  ]
 }

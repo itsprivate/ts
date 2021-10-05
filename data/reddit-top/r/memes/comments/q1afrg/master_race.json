@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "マスターレース!"
+    },
+    {
+      "locale": "zh",
+      "title": "大师赛!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "大師賽!"
+    }
+  ]
 }
