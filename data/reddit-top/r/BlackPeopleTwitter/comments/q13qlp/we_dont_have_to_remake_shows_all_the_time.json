@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "常に番組をリメイクする必要はありません。"
+    },
+    {
+      "locale": "zh",
+      "title": "我们没有必要一直重拍节目"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們沒有必要一直重拍節目"
+    }
+  ]
 }
