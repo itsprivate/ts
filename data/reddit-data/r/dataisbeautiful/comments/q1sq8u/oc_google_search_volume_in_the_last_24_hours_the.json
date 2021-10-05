@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] 過去24時間のGoogle検索ボリューム。色は、各国で最も検索されたトピックを示しています。"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]谷歌在过去24小时的搜索量。颜色显示每个国家搜索最多的主题。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]谷歌在過去24小時的搜索量。顏色顯示每個國家搜索最多的主題。"
+    }
+  ]
 }

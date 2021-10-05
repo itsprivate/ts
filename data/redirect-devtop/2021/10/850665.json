@@ -57,5 +57,22 @@
   "original_created_at": "2021-10-04T08:50:45Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IM2BWC-S--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mj7fkr2cnibo2jhz160r.png",
   "author": "Salih Özdemir",
-  "author_url": "https://dev.to/slhozdemir"
+  "author_url": "https://dev.to/slhozdemir",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、Webサイトから受け取ったフィードバックを管理するためのパネルを作成します。",
+      "title": "refineとStrapiを使って15分でフィードバックの管理画面を作成"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我们将创建一个面板，在那里我们可以管理从我们的网站收到的反馈。",
+      "title": "用refine和Strapi在15分钟内创建一个反馈管理面板"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我們將創建一個面板，在那裏我們可以管理從我們的網站收到的反饋。",
+      "title": "用refine和Strapi在15分鐘內創建一個反饋管理面板"
+    }
+  ]
 }
