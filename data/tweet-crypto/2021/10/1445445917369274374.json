@@ -99,5 +99,19 @@
     "retweet_count": 7282,
     "favorite_count": 27011,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "#bitcoin is $50K now ... Only +26% to $63K https://t.co/tj6SSxaaCp"
+    },
+    {
+      "locale": "zh",
+      "full_text": "#比特币现在是50K美元......只有+26%到63K美元 https://t.co/tj6SSxaaCp"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "#比特幣現在是50K美元......只有+26%到63K美元 https://t.co/tj6SSxaaCp"
+    }
+  ]
 }

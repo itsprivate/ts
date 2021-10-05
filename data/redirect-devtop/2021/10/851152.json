@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-04T15:46:14Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--O8FaGJN6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a9v01vgco61qg3y0g08z.jpg",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Material-Uiコンポーネントで構築された、ピクセルパーフェクトなモダンダッシュボード「React Berry Dashboard」が、フルスタック製品として発売されました。",
+      "title": "React Berry Fullstack - 3つのバージョンでダウンロード可能です。"
+    },
+    {
+      "locale": "zh",
+      "description": "React Berry Dashboard，一个用Material-Ui组件构建的现代像素完美的仪表盘，现在可以作为一个全栈产品使用。",
+      "title": "React Berry Fullstack - 有三个版本可供下载"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "React Berry Dashboard，一個用Material-Ui組件構建的現代像素完美的儀表盤，現在可以作爲一個全棧產品使用。",
+      "title": "React Berry Fullstack - 有三個版本可供下載"
+    }
+  ]
 }

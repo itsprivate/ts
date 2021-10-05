@@ -14,5 +14,19 @@
   ],
   "objectID": "28758226",
   "original_created_at": "2021-10-05T12:02:23.000Z",
-  "image": "https://hurl.dev/assets/img/logo-light.svg"
+  "image": "https://hurl.dev/assets/img/logo-light.svg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Show HN: Hurl - プレーンテキスト、curl、Rustを使ったHTTPリクエストの実行とテスト"
+    },
+    {
+      "locale": "zh",
+      "title": "Show HN: Hurl - 使用纯文本、curl和Rust运行和测试HTTP请求"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Show HN: Hurl - 使用純文本、curl和Rust運行和測試HTTP請求"
+    }
+  ]
 }
