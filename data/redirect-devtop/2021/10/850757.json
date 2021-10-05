@@ -52,5 +52,22 @@
   "original_created_at": "2021-10-04T11:48:04Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VtG0w4Cq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/69637h31xt9byx35xhqv.jpg",
   "author": "Yıldıray Ünlü",
-  "author_url": "https://dev.to/yildirayunlu"
+  "author_url": "https://dev.to/yildirayunlu",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "記載されている手順はすべてこのレポにあります。          はじめに NestJSは......を構築するためのフレームワークです。",
+      "title": "NestJSで高速かつカスタマイズ可能な管理画面を構築します。"
+    },
+    {
+      "locale": "zh",
+      "description": "所有描述的步骤都在这个 repo 中。          介绍：NestJS是一个用于构建 \"网络 \"的框架。",
+      "title": "用NestJS建立快速和可定制的管理面板。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "所有描述的步驟都在這個 repo 中。          介紹：NestJS是一個用於構建 \"網絡 \"的框架。",
+      "title": "用NestJS建立快速和可定製的管理面板。"
+    }
+  ]
 }
