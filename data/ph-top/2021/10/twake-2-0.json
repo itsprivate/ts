@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-05T07:01:00Z"
+  "original_createdAt": "2021-10-05T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Twakeは、あなたのチームワークを向上させるオープンなデジタルワークプレイスです。チームチャット、ファイルストレージ、タスク管理、チームカレンダーなど、必要なものはすべてTwake上でSaaSまたはセルフホスティングされています。",
+      "tagline": "Slack,Trello,Drive,Teamsに代わるオープンソースです。"
+    },
+    {
+      "locale": "zh",
+      "description": "Twake是一个开放的数字工作场所，可以改善你的团队工作。团队聊天、文件存储、任务管理、团队日历和你需要的一切都在Twake的SaaS或自我托管中。",
+      "tagline": "Slack、Trello、Drive和Teams的开源替代品"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Twake是一個開放的數字工作場所，可以改善你的團隊工作。團隊聊天、文件存儲、任務管理、團隊日曆和你需要的一切都在Twake的SaaS或自我託管中。",
+      "tagline": "Slack、Trello、Drive和Teams的開源替代品"
+    }
+  ]
 }
