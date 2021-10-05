@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] ナイトがどのように動くかを示すプログラム。"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC] 一个显示马如何移动的程序。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC] 一個顯示馬如何移動的程序。"
+    }
+  ]
 }
