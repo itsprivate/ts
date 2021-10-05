@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの国では普通のことでも、他の国の外では変だったり失礼だったりすることはありますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "有哪些事情在你的国家是正常的，但在外面的其他国家却很奇怪或粗鲁？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有哪些事情在你的國家是正常的，但在外面的其他國家卻很奇怪或粗魯？"
+    }
+  ]
 }
