@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Did you get a degree for this?"
+  "the_new_excerpt": "Did you get a degree for this?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "このために学位を取得したのですか？",
+      "title": "仕事が好きな人は、どんな仕事をしていますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你为此获得了学位吗？",
+      "title": "对于那些喜欢自己工作的人，你是做什么的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你爲此獲得了學位嗎？",
+      "title": "對於那些喜歡自己工作的人，你是做什麼的？"
+    }
+  ]
 }

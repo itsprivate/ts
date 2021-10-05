@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ゲーム・オブ・コード - もしもフロントエンド技術が国だったら"
+    },
+    {
+      "locale": "zh",
+      "title": "代码的游戏--如果前端技术是国家的话"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "代碼的遊戲--如果前端技術是國家的話"
+    }
+  ]
 }
