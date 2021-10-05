@@ -41,5 +41,22 @@
   "original_created_at": "2021-10-03T22:09:31Z",
   "image": "https://dev.to/social_previews/article/850259.png",
   "author": "Thomas(Tripp) White ",
-  "author_url": "https://dev.to/turpp"
+  "author_url": "https://dev.to/turpp",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "待って！Reactにはライフサイクルがあるの？これはターミネーターのウェブフォームですか？人類は安全ではない！リアクトは...",
+      "title": "Reactのライフサイクル"
+    },
+    {
+      "locale": "zh",
+      "description": "等等！React有一个生命周期？这是 \"终结者 \"的网络形式吗？没有人类是安全的! React是...",
+      "title": "React的生命周期"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "等等！React有一個生命週期？這是 \"終結者 \"的網絡形式嗎？沒有人類是安全的! React是...",
+      "title": "React的生命週期"
+    }
+  ]
 }

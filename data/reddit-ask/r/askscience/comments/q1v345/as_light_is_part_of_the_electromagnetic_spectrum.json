@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "光は電磁スペクトルの一部であり、なぜ光子という言葉で表現されるのか、一方、周波数が高い／低いという表現はないのか。"
+    },
+    {
+      "locale": "zh",
+      "title": "既然光是电磁波谱的一部分，为什么它被称为光子，而那些更高/更低的频率却不是？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "既然光是電磁波譜的一部分，爲什麼它被稱爲光子，而那些更高/更低的頻率卻不是？"
+    }
+  ]
 }

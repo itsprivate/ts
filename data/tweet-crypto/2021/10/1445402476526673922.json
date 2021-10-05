@@ -150,5 +150,22 @@
     "retweet_count": 1325,
     "favorite_count": 8769,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @100trillionUSD: #ビットコイン 上げて下げて🚀 https://t.co/KFS9gzkXyu",
+      "retweeted_status_full_text": "#＃ビットコイン上々🚀 https://t.co/KFS9gzkXyu"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @100trillionUSD: #比特币上涨和前进🚀 https://t.co/KFS9gzkXyu",
+      "retweeted_status_full_text": "#比特币上涨和前进🚀https://t.co/KFS9gzkXyu"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @100trillionUSD: #比特幣上漲和前進🚀 https://t.co/KFS9gzkXyu",
+      "retweeted_status_full_text": "#比特幣上漲和前進🚀https://t.co/KFS9gzkXyu"
+    }
+  ]
 }
