@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このビデオは絶対に死なせない"
+    },
+    {
+      "locale": "zh",
+      "title": "永远不要让这个视频消失"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "永遠不要讓這個視頻消失"
+    }
+  ]
 }
