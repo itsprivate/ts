@@ -112,5 +112,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1633459372,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このような現象が時々見られます。"
+    },
+    {
+      "locale": "zh",
+      "title": "我们有时会看到这种情况发生。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們有時會看到這種情況發生。"
+    }
+  ]
 }
