@@ -111,5 +111,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-05T07:06:22Z"
+  "original_createdAt": "2021-10-05T07:06:22Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Bravo Studioは、デザインファーストで、コードを使わないツールです。アプリのFigmaやAdobe XDのデザインを、ネイティブのモバイルアプリ（iOSとAndroidの両方）に変換することができます。生成されたアプリは、決済を行ったり、ネイティブな機能を使用したり、OAuthを使用してサードパーティのサービスに接続することができます。",
+      "tagline": "本物のアプリを本物の速さで、コードレスで実現"
+    },
+    {
+      "locale": "zh",
+      "description": "Bravo Studio是一个设计优先、无代码的工具。它允许你将你的应用程序Figma或Adobe XD设计转换为本地移动应用程序（包括iOS和Android）。生成的应用程序可以接受付款，使用本地功能或使用OAuth连接到第三方服务。",
+      "tagline": "真正的应用程序，真正快速的无代码体验"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Bravo Studio是一個設計優先、無代碼的工具。它允許你將你的應用程序Figma或Adobe XD設計轉換爲本地移動應用程序（包括iOS和Android）。生成的應用程序可以接受付款，使用本地功能或使用OAuth連接到第三方服務。",
+      "tagline": "真正的應用程序，真正快速的無代碼體驗"
+    }
+  ]
 }
