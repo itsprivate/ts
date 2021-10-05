@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私は、人々（特にポッドキャスター）がファンからボイスメッセージを受け取れるようなウェブサイトを作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我建立了一个网站，允许人们（尤其是播客）接收来自他们的粉丝的语音信息。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我建立了一個網站，允許人們（尤其是播客）接收來自他們的粉絲的語音信息。"
+    }
+  ]
 }

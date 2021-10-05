@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-05T07:08:28Z"
+  "original_createdAt": "2021-10-05T07:08:28Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reddit、DEV、Indiehackers、その他の場所に何かを投稿するにしても、画像をどこかでホストする必要があります。https://gpic.site はそのための最もシンプルな方法です。可能な限り自動的に画像を最適化し、それを無料で行うことができます📸⚡️📁",
+      "tagline": "無料の画像オプティマイザー＆ホスティングサービス"
+    },
+    {
+      "locale": "zh",
+      "description": "无论你是在Reddit、DEV、Indiehackers或任何其他地方发布东西，你都需要把你的图片寄存在某个地方。https://gpic.site 是最简单的方法。尽可能地自动优化图片，而且是免费的 📸⚡️📁",
+      "tagline": "免费的图像优化器和托管服务"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "無論你是在Reddit、DEV、Indiehackers或任何其他地方發佈東西，你都需要把你的圖片寄存在某個地方。https://gpic.site 是最簡單的方法。儘可能地自動優化圖片，而且是免費的 📸⚡️📁",
+      "tagline": "免費的圖像優化器和託管服務"
+    }
+  ]
 }
