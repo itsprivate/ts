@@ -52,5 +52,22 @@
   "original_created_at": "2021-10-01T07:42:43Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--shpMGDQV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1577212363774-819fae14aeb2%3Fixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26ixlib%3Drb-1.2.1%26auto%3Dformat%26fit%3Dcrop%26w%3D2748%26q%3D80",
   "author": "Umut Özdemir",
-  "author_url": "https://dev.to/umutozdemir97"
+  "author_url": "https://dev.to/umutozdemir97",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "refineは、データインテンシブなアプリケーションのための、極めてカスタマイズ性の高いAnt DesignベースのReactフレームワークです。",
+      "title": "React-Adminアプリケーションを移行してリファインする💖。"
+    },
+    {
+      "locale": "zh",
+      "description": "refine是一个极其可定制的基于Ant Design的React框架，适用于数据密集型应用...",
+      "title": "迁移React-Admin应用程序以完善💖。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "refine是一個極其可定製的基於Ant Design的React框架，適用於數據密集型應用...",
+      "title": "遷移React-Admin應用程序以完善💖。"
+    }
+  ]
 }
