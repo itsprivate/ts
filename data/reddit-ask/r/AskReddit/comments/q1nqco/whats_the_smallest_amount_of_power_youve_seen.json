@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "人が飲んでいるのを見たことがある最小の電力量はどれくらいですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你见过的最小功率是多少？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你見過的最小功率是多少？"
+    }
+  ]
 }
