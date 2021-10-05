@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "人口10万人あたりの偶発的な銃器による死亡者数[OC)"
+    },
+    {
+      "locale": "zh",
+      "title": "每10万名居民中的意外枪支死亡人数 [OC]"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "每10萬名居民中的意外槍支死亡人數 [OC]"
+    }
+  ]
 }
