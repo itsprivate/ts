@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-05T09:05:20Z",
   "image": "https://dev.to/social_previews/article/851996.png",
   "author": "Salma Alam-Naylor",
-  "author_url": "https://dev.to/whitep4nth3r"
+  "author_url": "https://dev.to/whitep4nth3r",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Contentfulのドキュメントをご覧になったことがある方は、少なくともRESTやAPIという頭字語を目にしたことがあると思います。",
+      "title": "REST APIとは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你看过Contentful文档，你至少会在其中看到REST和API这两个缩写词。",
+      "title": "什么是REST API？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你看過Contentful文檔，你至少會在其中看到REST和API這兩個縮寫詞。",
+      "title": "什麼是REST API？"
+    }
+  ]
 }
