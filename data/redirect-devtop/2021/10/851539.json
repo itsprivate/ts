@@ -52,5 +52,22 @@
   "original_created_at": "2021-10-04T22:46:02Z",
   "image": "https://dev.to/social_previews/article/851539.png",
   "author": "Rizel Scarlett",
-  "author_url": "https://dev.to/blackgirlbytes"
+  "author_url": "https://dev.to/blackgirlbytes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Happy Hacktober! 貢献の季節ですね。もしあなたがオープンソースへの貢献に興奮しているなら、...",
+      "title": "オープンソースプロジェクトをお探しですか？Juliaをお試しください。"
+    },
+    {
+      "locale": "zh",
+      "description": "快乐的Hacktober! 这是一个贡献的季节。如果你对为开放源码做贡献感到兴奋，...",
+      "title": "寻找一个开源项目？试试Julia吧。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "快樂的Hacktober! 這是一個貢獻的季節。如果你對爲開放源碼做貢獻感到興奮，...",
+      "title": "尋找一個開源項目？試試Julia吧。"
+    }
+  ]
 }

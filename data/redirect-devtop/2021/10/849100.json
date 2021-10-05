@@ -52,5 +52,22 @@
   "original_created_at": "2021-10-02T15:32:37Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uEHww-7i--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5141068y48a4wery7lu5.png",
   "author": "Vikas yadav",
-  "author_url": "https://dev.to/thejsdeveloper"
+  "author_url": "https://dev.to/thejsdeveloper",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ES6が登場したとき、2つの重要なプロトコル Iterable と Iterator が導入されました。基本的に、私たちは...",
+      "title": "JavaScript Jungle: 任意のオブジェクトをIterableに変換する"
+    },
+    {
+      "locale": "zh",
+      "description": "当ES6推出时，它引入了两个重要的协议Iterable和Iterator。基本上，我们可以...",
+      "title": "JavaScript的丛林。将任何对象转换为Iterable"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當ES6推出時，它引入了兩個重要的協議Iterable和Iterator。基本上，我們可以...",
+      "title": "JavaScript的叢林。將任何對象轉換爲Iterable"
+    }
+  ]
 }
