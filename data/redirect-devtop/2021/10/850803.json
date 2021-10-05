@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-04T12:32:48Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7snDAqs1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tmk0v3hxulpfty7tgekr.png",
   "author": "Nader Dabit",
-  "author_url": "https://dev.to/dabit3"
+  "author_url": "https://dev.to/dabit3",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今回の記事では、Gitpodを使って開発環境をクラウドに移行する方法を紹介したいと思います。",
+      "title": "クラウドはあなたの開発環境"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我想告诉你如何通过Gitpod将你的开发环境转移到云端。",
+      "title": "云是你的开发环境"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我想告訴你如何通過Gitpod將你的開發環境轉移到雲端。",
+      "title": "雲是你的開發環境"
+    }
+  ]
 }
