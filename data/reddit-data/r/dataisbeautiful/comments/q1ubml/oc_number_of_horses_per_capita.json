@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] 一人当たりの馬の数"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]人均马匹数量。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]人均馬匹數量。"
+    }
+  ]
 }
