@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-04T18:54:18Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--poqZStEP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/48sfd6glyyo0pkd06yzq.png",
   "author": "LordGhostX",
-  "author_url": "https://dev.to/lordghostx"
+  "author_url": "https://dev.to/lordghostx",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "思い浮かべてみてください。あなたは、グローバルな設定値（公開鍵と秘密鍵、...）を使用するアプリを作っています。",
+      "title": "Python、Flask、Dopplerを使ったWebアプリの構築とデプロイ"
+    },
+    {
+      "locale": "zh",
+      "description": "想象一下吧。你正在构建一个使用全局配置值的应用程序（公钥和私钥，...",
+      "title": "用Python、Flask和Doppler构建和部署一个网络应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "想象一下吧。你正在構建一個使用全局配置值的應用程序（公鑰和私鑰，...",
+      "title": "用Python、Flask和Doppler構建和部署一個網絡應用程序"
+    }
+  ]
 }
