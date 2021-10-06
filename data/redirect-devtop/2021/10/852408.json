@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-05T15:11:25Z",
   "image": "https://dev.to/social_previews/article/852408.png",
   "author": "Jonathan Irvin",
-  "author_url": "https://dev.to/sublimegeek"
+  "author_url": "https://dev.to/sublimegeek",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "正直言って、Gitは面倒な作業です。 冷たいオートミールのように刺激的なものです。しかし、適切に使用すれば、...",
+      "title": "Clean Conventional Commits"
+    },
+    {
+      "locale": "zh",
+      "description": "让我们面对现实吧，Git是个苦差事。 它就像冷掉的燕麦片一样令人兴奋。然而，如果使用得当，...",
+      "title": "清洁的常规承诺"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "讓我們面對現實吧，Git是個苦差事。 它就像冷掉的燕麥片一樣令人興奮。然而，如果使用得當，...",
+      "title": "清潔的常規承諾"
+    }
+  ]
 }
