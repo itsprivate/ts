@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-05T14:45:24Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--x4rtsxaD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1h9nfmt3bhma8ulonvww.png",
   "author": "Coder Champ",
-  "author_url": "https://dev.to/coderchamp"
+  "author_url": "https://dev.to/coderchamp",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "データ構造やアルゴリズムというと怖いイメージがありますが、そんなことはありません。 それらを学べば合格できるのです。",
+      "title": "データ構造とアルゴリズムを学ぶべき13の理由（2022年版"
+    },
+    {
+      "locale": "zh",
+      "description": "我知道数据结构和算法听起来很可怕，但它们并不可怕。 如果你学会了它们，你就可以通过...",
+      "title": "学习数据结构和算法的13个理由(2022)"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我知道數據結構和算法聽起來很可怕，但它們並不可怕。 如果你學會了它們，你就可以通過...",
+      "title": "學習數據結構和算法的13個理由(2022)"
+    }
+  ]
 }
