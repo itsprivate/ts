@@ -14,5 +14,19 @@
   "tags": [
     "Fox News"
   ],
-  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/10/china-air-force-taiwan.jpg"
+  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/10/china-air-force-taiwan.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "中国の台湾付近の飛行が活発化し、緊張感が高まる"
+    },
+    {
+      "locale": "zh",
+      "title": "中国在台湾附近的飞行加剧，导致紧张局势爆发"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "中國在臺灣附近的飛行加劇，導致緊張局勢爆發"
+    }
+  ]
 }

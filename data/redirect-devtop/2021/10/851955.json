@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-05T07:34:17Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--diOQ1FG2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y855ywafaje56tszlmeh.jpg",
   "author": "Kavindu Santhusa",
-  "author_url": "https://dev.to/ksengine"
+  "author_url": "https://dev.to/ksengine",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "DEVは、ソフトウェア開発者が集まってお互いに助け合うコミュニティです。ソフトウェア...",
+      "title": "Top 10 dev.to articles of the week👘."
+    },
+    {
+      "locale": "zh",
+      "description": "DEV是一个软件开发人员的社区，他们聚在一起互相帮助。软件开发者们在一起互相帮助。",
+      "title": "本周前10名的开发文章👘。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "DEV是一個軟件開發人員的社區，他們聚在一起互相幫助。軟件開發者們在一起互相幫助。",
+      "title": "本週前10名的開發文章👘。"
+    }
+  ]
 }
