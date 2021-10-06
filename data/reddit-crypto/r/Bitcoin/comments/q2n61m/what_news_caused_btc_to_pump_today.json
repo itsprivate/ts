@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Not really seeing anything new in the media? Why is it pumping all of a sudden"
+  "the_new_excerpt": "Not really seeing anything new in the media? Why is it pumping all of a sudden",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "メディアに新しい情報がないのでは？なぜ、急に盛り上がっているのか",
+      "title": "今日、BTCがパンプしたニュースは？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "在媒体上没有真正看到什么新的东西？为什么突然就抽风了呢？",
+      "title": "什么消息导致BTC今天抽水？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "在媒體上沒有真正看到什麼新的東西？爲什麼突然就抽風了呢？",
+      "title": "什麼消息導致BTC今天抽水？"
+    }
+  ]
 }
