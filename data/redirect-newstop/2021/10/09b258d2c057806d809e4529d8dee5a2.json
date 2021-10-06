@@ -14,5 +14,19 @@
   "tags": [
     "The New York Times"
   ],
-  "image": "https://static01.nyt.com/images/2021/10/06/world/06auschwitz1/06auschwitz1-facebookJumbo.jpg"
+  "image": "https://static01.nyt.com/images/2021/10/06/world/06auschwitz1/06auschwitz1-facebookJumbo.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "アウシュビッツで発見された反ユダヤ主義者の落書き"
+    },
+    {
+      "locale": "zh",
+      "title": "在奥斯威辛集中营发现的反犹太主义涂鸦"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在奧斯威辛集中營發現的反猶太主義塗鴉"
+    }
+  ]
 }
