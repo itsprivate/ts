@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この獣医師は、病気の犬の患者に「大丈夫だよ」と声をかけてくれるコンフォートドッグアシスタントを持っています。"
+    },
+    {
+      "locale": "zh",
+      "title": "这位兽医有一个安慰狗的助手，帮助生病的狗病人知道一切都会好起来的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這位獸醫有一個安慰狗的助手，幫助生病的狗病人知道一切都會好起來的。"
+    }
+  ]
 }
