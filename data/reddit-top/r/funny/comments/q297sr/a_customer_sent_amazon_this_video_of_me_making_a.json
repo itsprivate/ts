@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "お客様がAmazonに送ってくれた、スケルトンアシストで配達している動画です"
+    },
+    {
+      "locale": "zh",
+      "title": "一位客户给亚马逊发来了我用骷髅助手送货的视频!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一位客戶給亞馬遜發來了我用骷髏助手送貨的視頻!"
+    }
+  ]
 }
