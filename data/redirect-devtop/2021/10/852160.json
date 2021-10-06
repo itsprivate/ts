@@ -52,5 +52,22 @@
   "original_created_at": "2021-10-05T10:31:16Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WdRPoBID--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/39xs5fmpjqfinnt0s4bq.png",
   "author": "Zoltán Szőgyényi",
-  "author_url": "https://dev.to/zolidev"
+  "author_url": "https://dev.to/zolidev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Tailwind CSSは、私が最近よく使用しているフレームワークで、Webサイトを素早く構築するためのものです。",
+      "title": "TailwindのCSSカードコンポーネントの構築"
+    },
+    {
+      "locale": "zh",
+      "description": "Tailwind CSS是一个框架，我最近经常使用它来快速建立网站，而不需要...",
+      "title": "构建Tailwind的CSS卡片组件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Tailwind CSS是一個框架，我最近經常使用它來快速建立網站，而不需要...",
+      "title": "構建Tailwind的CSS卡片組件"
+    }
+  ]
 }
