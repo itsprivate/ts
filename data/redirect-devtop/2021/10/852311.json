@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-05T13:11:54Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6oUMA1bh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/p7btxw8b9asnvyq67v3n.png",
   "author": "Modern Web",
-  "author_url": "https://dev.to/kunaal438"
+  "author_url": "https://dev.to/kunaal438",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、お元気ですか？前編では、ログイン／ログアウト機能と、セラー...",
+      "title": "Eコマースサイト - データベースからの製品の追加/削除 パート3"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，希望你一切顺利。在前一部分中，我们做了登录/注销功能和一个卖家，但我们没有做。",
+      "title": "电子商务网站 - 从数据库中添加/删除产品。第三部分"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，希望你一切順利。在前一部分中，我們做了登錄/註銷功能和一個賣家，但我們沒有做。",
+      "title": "電子商務網站 - 從數據庫中添加/刪除產品。第三部分"
+    }
+  ]
 }
