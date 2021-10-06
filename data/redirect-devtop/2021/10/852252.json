@@ -57,5 +57,22 @@
   "original_created_at": "2021-10-05T10:41:22Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TOMl-N9o--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fnmn3u7pfcaw8yqkb32n.jpg",
   "author": "Arjun Kava",
-  "author_url": "https://dev.to/arjunkava"
+  "author_url": "https://dev.to/arjunkava",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ビデオ通話は今や誰にとっても当たり前になってきており、Video APIを統合することは構築するのと同じくらい難しいことです。",
+      "title": "javascriptでVideo Callingを構築する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "如今，视频通话已成为每个人的常态，而整合视频API就像建立视频网站一样困难。",
+      "title": "如何在javascript中建立视频通话"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如今，視頻通話已成爲每個人的常態，而整合視頻API就像建立視頻網站一樣困難。",
+      "title": "如何在javascript中建立視頻通話"
+    }
+  ]
 }
