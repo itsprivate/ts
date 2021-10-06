@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私はこれがここに属しているように感じる"
+    },
+    {
+      "locale": "zh",
+      "title": "我觉得这属于这里"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我覺得這屬於這裏"
+    }
+  ]
 }

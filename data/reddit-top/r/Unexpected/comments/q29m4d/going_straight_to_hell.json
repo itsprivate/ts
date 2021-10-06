@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "地獄へ直行"
+    },
+    {
+      "locale": "zh",
+      "title": "直奔地狱而去"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "直奔地獄而去"
+    }
+  ]
 }
