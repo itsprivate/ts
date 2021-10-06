@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"最後の1時間で合計1億6200万ドル分の清算が行われ、そのうち89％がショートポジションでした。\""
+    },
+    {
+      "locale": "zh",
+      "title": "\"最后一小时，总共有价值1.62亿美元的清算，其中89%是空头头寸\""
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"最後一小時，總共有價值1.62億美元的清算，其中89%是空頭頭寸\""
+    }
+  ]
 }

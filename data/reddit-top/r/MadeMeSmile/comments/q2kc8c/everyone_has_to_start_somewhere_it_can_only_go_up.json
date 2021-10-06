@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "誰もがどこかで始めなければならない。ここから上がっていくしかないのです"
+    },
+    {
+      "locale": "zh",
+      "title": "每个人都必须从某个地方开始。它只能从这里往上走!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "每個人都必須從某個地方開始。它只能從這裏往上走!"
+    }
+  ]
 }
