@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これは何のバラ？- 写真をアップロードしてガーデンローズを識別する無料サイト"
+    },
+    {
+      "locale": "zh",
+      "title": "这是什么玫瑰？- 一个通过上传图片识别花园玫瑰的免费网站"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是什麼玫瑰？- 一個通過上傳圖片識別花園玫瑰的免費網站"
+    }
+  ]
 }
