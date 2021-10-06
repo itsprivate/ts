@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ただし、購入可能な楽しみがある場合に限ります。"
+    },
+    {
+      "locale": "zh",
+      "title": "它确实如此，但只适用于那些有可购买的享受。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "它確實如此，但只適用於那些有可購買的享受。"
+    }
+  ]
 }
