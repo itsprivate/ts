@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-06T07:10:19Z"
+  "original_createdAt": "2021-10-06T07:10:19Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ウェブバイタルとは、Googleが検索結果でウェブサイトを上位に表示するかどうかを判断する際に考慮し始めたパフォーマンスシグナルです。Web Vitals Robotは、これらのSEO指標をお客様に代わって監視し、お客様のビジネスがGoogleから消えてしまうのを防ぐことができます。",
+      "tagline": "ページのWeb Vitalsが低下したときにアラートを受け取ることができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "Web Vitals是谷歌在决定你的网站是否应该在搜索结果中排名时开始考虑的性能信号。Web Vitals Robot为您监测这些SEO指标--因此您可以防止您的企业从谷歌上消失。",
+      "tagline": "当你的网页的网络生命力下降时，得到提醒"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Web Vitals是谷歌在決定你的網站是否應該在搜索結果中排名時開始考慮的性能信號。Web Vitals Robot爲您監測這些SEO指標--因此您可以防止您的企業從谷歌上消失。",
+      "tagline": "當你的網頁的網絡生命力下降時，得到提醒"
+    }
+  ]
 }
