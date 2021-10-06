@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが普段持ち歩いているお財布やハンドバッグはどんなものですか？また、使っていない方は、代わりに何を使っていますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你经常携带什么样的钱包或手提包？或者如果你不用，你用什么来代替呢l？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你經常攜帶什麼樣的錢包或手提包？或者如果你不用，你用什麼來代替呢l？"
+    }
+  ]
 }
