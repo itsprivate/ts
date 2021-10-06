@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Material Builder 2.0リリース - マテリアルコンポーネントを使用したドラッグ＆ドロップビルダー、ソースコードのダウンロードも可能"
+    },
+    {
+      "locale": "zh",
+      "title": "材料生成器2.0版发布--带材料组件的拖放生成器和可下载的源代码"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "材料生成器2.0版發佈--帶材料組件的拖放生成器和可下載的源代碼"
+    }
+  ]
 }
