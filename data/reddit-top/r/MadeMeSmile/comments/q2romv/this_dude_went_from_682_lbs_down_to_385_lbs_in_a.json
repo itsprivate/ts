@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この男は、1年ちょっとで682ポンドから385ポンドにまで減量した。"
+    },
+    {
+      "locale": "zh",
+      "title": "这个人在一年多一点的时间里从682磅减到385磅"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個人在一年多一點的時間裏從682磅減到385磅"
+    }
+  ]
 }
