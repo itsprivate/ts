@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインは以前より強くなった"
+    },
+    {
+      "locale": "zh",
+      "title": "比特币比以前更强大"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比特幣比以前更強大"
+    }
+  ]
 }

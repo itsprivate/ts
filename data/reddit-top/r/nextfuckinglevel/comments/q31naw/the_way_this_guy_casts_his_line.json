@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この人のラインの投げ方は"
+    },
+    {
+      "locale": "zh",
+      "title": "这家伙投掷鱼线的方式"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這傢伙投擲魚線的方式"
+    }
+  ]
 }
