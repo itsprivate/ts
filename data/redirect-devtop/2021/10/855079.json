@@ -35,5 +35,22 @@
   "original_created_at": "2021-10-07T13:05:42Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AZgDsVjZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qc3s5zqjzmb50idjtnbo.jpeg",
   "author": "CAST AI",
-  "author_url": "https://dev.to/castai"
+  "author_url": "https://dev.to/castai",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "クラウドコストの管理は、クラウドを利用するすべての企業のチームが直面している最大の課題の一つです。",
+      "title": "CAST AI vs. Cloudability。クラウドコストの最適化にはどちらを選ぶべきか？"
+    },
+    {
+      "locale": "zh",
+      "description": "控制云计算成本是每个组织的团队所面临的最大挑战之一。",
+      "title": "CAST AI与Cloudability。挑选哪一个进行云计算成本优化？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "控制雲計算成本是每個組織的團隊所面臨的最大挑戰之一。",
+      "title": "CAST AI與Cloudability。挑選哪一個進行雲計算成本優化？"
+    }
+  ]
 }
