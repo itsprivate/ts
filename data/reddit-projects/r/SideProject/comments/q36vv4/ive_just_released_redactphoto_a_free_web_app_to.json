@@ -52,5 +52,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Redact.photo [https://Redact.photo] is a site where you can quickly\nredact/censor images in your browser. All editing happens in the browser so\nnothing is sent to the server, this means editing is 100% private which I think\nis important when redacting sensitive information.\n\nEnjoy!"
+  "the_new_excerpt": "Redact.photo [https://Redact.photo] is a site where you can quickly\nredact/censor images in your browser. All editing happens in the browser so\nnothing is sent to the server, this means editing is 100% private which I think\nis important when redacting sensitive information.\n\nEnjoy!",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "Redact.photo [https://Redact.photo]は、ブラウザ上で素早く\nブラウザ上で画像の再編集や検閲ができるサイトです。すべての編集はブラウザ内で行われるため\nサーバーには何も送信されません。これは編集が100%プライベートなものであることを意味しています。\n機密情報を再編集する際には重要なことだと思います。\n\nどうぞお楽しみください。",
+      "title": "redact.photoをリリースしました → 画像内の情報を検閲する無料のウェブアプリです"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "Redact.photo [https://Redact.photo]是一个网站，你可以快速\n在你的浏览器中编辑/审查图像。所有的编辑都发生在浏览器中，所以\n这意味着编辑是100%私密的，我认为这一点很重要。\n在编辑敏感信息时是很重要的。\n\n祝您愉快!",
+      "title": "我刚刚发布了redact.photo →一个免费的网络应用，用于审查图片中的信息。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "Redact.photo [https://Redact.photo]是一個網站，你可以快速\n在你的瀏覽器中編輯/審查圖像。所有的編輯都發生在瀏覽器中，所以\n這意味着編輯是100%私密的，我認爲這一點很重要。\n在編輯敏感信息時是很重要的。\n\n祝您愉快!",
+      "title": "我剛剛發佈了redact.photo →一個免費的網絡應用，用於審查圖片中的信息。"
+    }
+  ]
 }
