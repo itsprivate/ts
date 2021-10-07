@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あと30分で死んでしまいます。あなたは何をしますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你将在30分钟内死亡。你会怎么做？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你將在30分鐘內死亡。你會怎麼做？"
+    }
+  ]
 }
