@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "疾患別死亡年齢の中央値[OC)"
+    },
+    {
+      "locale": "zh",
+      "title": "按疾病分类的死亡年龄中位数[OC]。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "按疾病分類的死亡年齡中位數[OC]。"
+    }
+  ]
 }
