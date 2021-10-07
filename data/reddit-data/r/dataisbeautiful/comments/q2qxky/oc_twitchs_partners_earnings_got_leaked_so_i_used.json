@@ -47,5 +47,19 @@
     "type": "twitter.com"
   },
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC】Twitchのパートナーの収益が流出したので、そのデータを使ってジニ係数を計算してみた。0.99となりました。"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]Twitch的合作伙伴的收入被泄露了，所以我用这些数据来计算基尼系数。它是0.99"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]Twitch的合作伙伴的收入被泄露了，所以我用這些數據來計算基尼係數。它是0.99"
+    }
+  ]
 }
