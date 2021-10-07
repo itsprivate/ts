@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "新時代の到来"
+    },
+    {
+      "locale": "zh",
+      "title": "一个新的时代"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個新的時代"
+    }
+  ]
 }

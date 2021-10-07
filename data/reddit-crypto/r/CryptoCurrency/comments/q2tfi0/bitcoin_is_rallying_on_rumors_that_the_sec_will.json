@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "SECが10月18日にBTC ETFを承認するという噂でビットコインが上昇している"
+    },
+    {
+      "locale": "zh",
+      "title": "有传言称美国证券交易委员会将于10月18日批准BTC ETF，因此比特币正在反弹"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有傳言稱美國證券交易委員會將於10月18日批准BTC ETF，因此比特幣正在反彈"
+    }
+  ]
 }
