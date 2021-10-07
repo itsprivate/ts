@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-03T14:21:14Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gmpT8YMm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d09lmjposm1w6vp8r218.jpg",
   "author": "Doeke Norg",
-  "author_url": "https://dev.to/doekenorg"
+  "author_url": "https://dev.to/doekenorg",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "AdapterパターンとBridgeパターンは、多くの混乱をもたらしました。この記事では、...",
+      "title": "アダプターパターンとブリッジパターン"
+    },
+    {
+      "locale": "zh",
+      "description": "适配器模式和桥梁模式带来了很多的困惑。在这篇文章中，我们将...",
+      "title": "适配器模式与桥接模式"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "適配器模式和橋樑模式帶來了很多的困惑。在這篇文章中，我們將...",
+      "title": "適配器模式與橋接模式"
+    }
+  ]
 }
