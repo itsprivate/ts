@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-05T17:05:13Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cIcLlk3q--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fqlwbc1g0stb8mixxbbx.PNG",
   "author": "vibalijoshi",
-  "author_url": "https://dev.to/vibalijoshi"
+  "author_url": "https://dev.to/vibalijoshi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "サーバーサイドのコードやデスクトップアプリ（電子）を書くためにJSを学ぶ時代になって、...",
+      "title": "WASMはAWSM"
+    },
+    {
+      "locale": "zh",
+      "description": "我们生活在这样一个时代，你学习JS来编写服务器端代码和桌面应用程序（电子），而你...",
+      "title": "WASM是AWSM"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們生活在這樣一個時代，你學習JS來編寫服務器端代碼和桌面應用程序（電子），而你...",
+      "title": "WASM是AWSM"
+    }
+  ]
 }
