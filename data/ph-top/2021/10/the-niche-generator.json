@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-06T08:00:00Z"
+  "original_createdAt": "2021-10-06T08:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "📢サイドハスラー。ビジネスニッチを生成する小さなツールを使って、正しいスタートを切りましょう！ https://www.nichegenerator.xyz/",
+      "tagline": "探索するビジネスニッチを生み出す"
+    },
+    {
+      "locale": "zh",
+      "description": "📢 副业者。用一个小工具生成一个可以探索的商业利基，从正确的方向开始。 https://www.nichegenerator.xyz/",
+      "tagline": "产生一个要探索的商业利基"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "📢 副業者。用一個小工具生成一個可以探索的商業利基，從正確的方向開始。 https://www.nichegenerator.xyz/",
+      "tagline": "產生一個要探索的商業利基"
+    }
+  ]
 }
