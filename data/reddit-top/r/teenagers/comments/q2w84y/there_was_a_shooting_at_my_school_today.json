@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今日、私の学校で銃撃戦がありました。"
+    },
+    {
+      "locale": "zh",
+      "title": "今天我的学校发生了枪击事件"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "今天我的學校發生了槍擊事件"
+    }
+  ]
 }
