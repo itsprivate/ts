@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "それはアルファ男性のすることです。"
+    },
+    {
+      "locale": "zh",
+      "title": "这就是一个阿尔法男性会做的事。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這就是一個阿爾法男性會做的事。"
+    }
+  ]
 }
