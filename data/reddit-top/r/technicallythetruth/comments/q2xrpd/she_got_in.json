@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼女が入った!"
+    },
+    {
+      "locale": "zh",
+      "title": "她进去了！"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "她進去了！"
+    }
+  ]
 }

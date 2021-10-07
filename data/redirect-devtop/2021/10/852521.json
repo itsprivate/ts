@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-05T15:27:24Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JmTmRG5M--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3ouen4ds2unq2dhbiwf8.jpeg",
   "author": "faisal khan",
-  "author_url": "https://dev.to/faisalpathan"
+  "author_url": "https://dev.to/faisalpathan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JavaScriptでは、オブジェクトは、プロパティとタイプを持つ独立したエンティティです。  カップと比較してみると...",
+      "title": "なぜJSでオブジェクトではなくマップを使うのか？"
+    },
+    {
+      "locale": "zh",
+      "description": "在JavaScript中，一个对象是一个独立的实体，有属性和类型。  将其与一个杯子相比，...",
+      "title": "为什么在JS中使用地图而不是对象？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在JavaScript中，一個對象是一個獨立的實體，有屬性和類型。  將其與一個杯子相比，...",
+      "title": "爲什麼在JS中使用地圖而不是對象？"
+    }
+  ]
 }
