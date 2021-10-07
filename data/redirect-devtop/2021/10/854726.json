@@ -52,5 +52,22 @@
   "original_created_at": "2021-10-07T08:09:48Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--s4aW-O1w--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u8e6bwsl6attvzpq9648.png",
   "author": "Zoltán Szőgyényi",
-  "author_url": "https://dev.to/zolidev"
+  "author_url": "https://dev.to/zolidev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Tailwind CSSはユーティリティーファーストのフレームワークで、私は今年のほとんどのプロジェクトで使用しており、...",
+      "title": "Tailwind CSSドロップダウンコンポーネントの構築"
+    },
+    {
+      "locale": "zh",
+      "description": "Tailwind CSS是一个实用性优先的框架，我在今年的大部分项目中都使用了这个框架，并且...",
+      "title": "建立一个Tailwind的CSS下拉组件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Tailwind CSS是一個實用性優先的框架，我在今年的大部分項目中都使用了這個框架，並且...",
+      "title": "建立一個Tailwind的CSS下拉組件"
+    }
+  ]
 }
