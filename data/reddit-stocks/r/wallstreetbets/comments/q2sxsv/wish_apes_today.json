@@ -110,5 +110,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1633552569,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今日は$WISHのアプデ。"
+    },
+    {
+      "locale": "zh",
+      "title": "$WISH猿人今天。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "$WISH猿人今天。"
+    }
+  ]
 }
