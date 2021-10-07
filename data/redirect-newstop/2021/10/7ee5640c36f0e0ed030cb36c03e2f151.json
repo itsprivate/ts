@@ -14,5 +14,19 @@
   "tags": [
     "The New York Times"
   ],
-  "image": "https://static01.nyt.com/images/2021/10/07/world/07pakistan-quake-sub/07pakistan-quake-sub-facebookJumbo.jpg"
+  "image": "https://static01.nyt.com/images/2021/10/07/world/07pakistan-quake-sub/07pakistan-quake-sub-facebookJumbo.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "パキスタンの地震で少なくとも20人が死亡"
+    },
+    {
+      "locale": "zh",
+      "title": "巴基斯坦地震造成至少20人死亡"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "巴基斯坦地震造成至少20人死亡"
+    }
+  ]
 }
