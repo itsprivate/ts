@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "UNOのリバースカード。"
+    },
+    {
+      "locale": "zh",
+      "title": "联合国组织反向卡。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "聯合國組織反向卡。"
+    }
+  ]
 }
