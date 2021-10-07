@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-06T11:41:14Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_DGQyfgQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lpxq0zhofp5vc673fqvk.jpg",
   "author": "Bobby Iliev",
-  "author_url": "https://dev.to/bobbyiliev"
+  "author_url": "https://dev.to/bobbyiliev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Dockerの紹介 Dockerとコンテナが普及する可能性は高いと思います。",
+      "title": "🚀 開発者のためのDockerクラッシュコースの行方"
+    },
+    {
+      "locale": "zh",
+      "description": "Docker简介 更有可能的是，Docker和容器将...",
+      "title": "🚀 缺少的开发者Docker速成课程"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Docker簡介 更有可能的是，Docker和容器將...",
+      "title": "🚀 缺少的開發者Docker速成課程"
+    }
+  ]
 }

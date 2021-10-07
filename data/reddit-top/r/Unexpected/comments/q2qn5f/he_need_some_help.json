@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼にはいくつかの助けが必要だ。"
+    },
+    {
+      "locale": "zh",
+      "title": "他需要一些帮助"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他需要一些幫助"
+    }
+  ]
 }
