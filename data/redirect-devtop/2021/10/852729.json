@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-05T18:53:50Z",
   "image": "https://dev.to/social_previews/article/852729.png",
   "author": "Phylis Jepchumba",
-  "author_url": "https://dev.to/phylis"
+  "author_url": "https://dev.to/phylis",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "30 Days Of Pythonの1日目。  パイソンとは Pythonのプログラミングパラダイム。Imperative,...",
+      "title": "30days of python"
+    },
+    {
+      "locale": "zh",
+      "description": "Python 30天 \"的第一天。  什么是Python？Python编程范式。势在必行，...",
+      "title": "蟒蛇的30天"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Python 30天 \"的第一天。  什麼是Python？Python編程範式。勢在必行，...",
+      "title": "蟒蛇的30天"
+    }
+  ]
 }
