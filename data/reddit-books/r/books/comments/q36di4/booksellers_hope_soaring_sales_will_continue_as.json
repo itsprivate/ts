@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "書店では、売上高の増加が続くことを期待しています。"
+    },
+    {
+      "locale": "zh",
+      "title": "书商们希望随着我们的阅读量的增加，销售量将继续飙升"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "書商們希望隨着我們的閱讀量的增加，銷售量將繼續飆升"
+    }
+  ]
 }
