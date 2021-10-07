@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-07T09:50:15Z"
+  "original_createdAt": "2021-10-07T09:50:15Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "NFTであなたのDiscordサーバーを管理＆収益化しよう Unlock Protocol（最近TechCrunchで紹介されました）と統合されたSwordyBotは、あなたのDiscordへのアクセスを自動的に許可/制限することができます。あなたのメンバーは、Ethまたはクレジットカード/Stripeを介した通貨でアクセスを購入することができます。",
+      "tagline": "NFTを使ったDiscordコミュニティの管理とマネタイズ"
+    },
+    {
+      "locale": "zh",
+      "description": "用NFTs管理和盈利你的Discord服务器! SwordyBot与Unlock Protocol（最近被TechCrunch报道）集成，让你自动授予/限制对你的Discord的访问。你的成员可以通过Eth或信用卡/Stripe购买访问权限。",
+      "tagline": "用NFTs管理你的Discord社区并实现盈利"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "用NFTs管理和盈利你的Discord服務器! SwordyBot與Unlock Protocol（最近被TechCrunch報道）集成，讓你自動授予/限制對你的Discord的訪問。你的成員可以通過Eth或信用卡/Stripe購買訪問權限。",
+      "tagline": "用NFTs管理你的Discord社區並實現盈利"
+    }
+  ]
 }
