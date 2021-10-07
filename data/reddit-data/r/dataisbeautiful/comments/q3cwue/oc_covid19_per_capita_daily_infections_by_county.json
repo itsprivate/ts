@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] COVID-19 郡別一人当たりの一日感染症の経時変化。"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC] COVID-19 县的人均日感染量随时间变化。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC] COVID-19 縣的人均日感染量隨時間變化。"
+    }
+  ]
 }
