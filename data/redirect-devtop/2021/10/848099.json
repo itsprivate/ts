@@ -43,5 +43,22 @@
   "original_created_at": "2021-10-01T17:18:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uYG-2esS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x3yf11kamnetge2gj7ue.jpeg",
   "author": "CodeOz",
-  "author_url": "https://dev.to/codeoz"
+  "author_url": "https://dev.to/codeoz",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "初めてのjavascriptクイズにようこそ!  質問に答えて、その回答を確認することができます...",
+      "title": "5 Javascriptで説明するクイズ #1"
+    },
+    {
+      "locale": "zh",
+      "description": "欢迎来到第一个javascript测验!  你可以回答问题，并检查回答的情况。",
+      "title": "5 用Javascript解释的测验#1"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "歡迎來到第一個javascript測驗!  你可以回答問題，並檢查回答的情況。",
+      "title": "5 用Javascript解釋的測驗#1"
+    }
+  ]
 }

@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-22T08:19:32Z",
   "image": "https://dev.to/social_previews/article/836320.png",
   "author": "Stefi Rosca",
-  "author_url": "https://dev.to/stefirosca"
+  "author_url": "https://dev.to/stefirosca",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私がコードを学びたいと思ったとき、唯一の選択肢は......学校に通うか......それしかないと思っていました。",
+      "title": "🦩 私が初めてフロントエンド開発者の仕事を得るのに役立った5つの無料コーディングリソース"
+    },
+    {
+      "locale": "zh",
+      "description": "当我想学习如何编码时，我认为唯一可用的选择是，要么去...",
+      "title": "🦩 5个帮助我获得第一份前端开发工作的免费编码资源"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當我想學習如何編碼時，我認爲唯一可用的選擇是，要麼去...",
+      "title": "🦩 5個幫助我獲得第一份前端開發工作的免費編碼資源"
+    }
+  ]
 }
