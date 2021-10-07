@@ -50,5 +50,22 @@
   "original_created_at": "2021-10-05T04:16:26Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XTyijUwn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dnalpqye3hg8ul3e8e9m.png",
   "author": "Abhiraj Bhowmick",
-  "author_url": "https://dev.to/abhirajb"
+  "author_url": "https://dev.to/abhirajb",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "なぜ開発者としてブログを始めるべきなのか？実際に何かメリットがあるのでしょうか、それともただのブログの一つなのでしょうか。",
+      "title": "ブログを書くことで、より良い開発者になれるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "description": "作为一个开发者，你为什么要开一个博客？它是否真的有任何好处，或者它只是一个...",
+      "title": "写博客能使你成为更好的开发者吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "作爲一個開發者，你爲什麼要開一個博客？它是否真的有任何好處，或者它只是一個...",
+      "title": "寫博客能使你成爲更好的開發者嗎？"
+    }
+  ]
 }

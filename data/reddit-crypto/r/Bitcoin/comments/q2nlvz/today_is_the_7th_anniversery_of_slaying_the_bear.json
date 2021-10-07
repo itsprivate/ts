@@ -59,5 +59,19 @@
     "type": "youtube.com"
   },
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "本日は、3万BTCを1ビットコインあたり300ドルで販売したSlay the Bear Whaleの7周年記念日です。"
+    },
+    {
+      "locale": "zh",
+      "title": "今天是杀死熊鲸的7周年纪念日，他以每枚比特币300美元的价格卖出了3万枚BTC。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "今天是殺死熊鯨的7週年紀念日，他以每枚比特幣300美元的價格賣出了3萬枚BTC。"
+    }
+  ]
 }
