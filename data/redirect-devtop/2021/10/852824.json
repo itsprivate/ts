@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-05T20:26:17Z",
   "image": "https://dev.to/social_previews/article/852824.png",
   "author": "Tim R.",
-  "author_url": "https://dev.to/cstrnt"
+  "author_url": "https://dev.to/cstrnt",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TypeScriptはJavaScriptの大きなスーパーセットで、初心者向けのチュートリアルでは紹介されていないような多くの機能を持っています。この記事では、TypeScriptの学習を楽にするための3つの機能を紹介します。",
+      "title": "TypeScriptを学ぶときに知っておきたかった3つのTypeScriptトリック"
+    },
+    {
+      "locale": "zh",
+      "description": "TypeScript是JavaScript的一个大的超集，它有很多特性，可能在每个初学者的教程中都没有展示。这篇文章介绍了其中的三个功能，使你在学习TypeScript时更加轻松。",
+      "title": "我希望我在学习TypeScript时就知道的3个TypeScript技巧"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "TypeScript是JavaScript的一個大的超集，它有很多特性，可能在每個初學者的教程中都沒有展示。這篇文章介紹了其中的三個功能，使你在學習TypeScript時更加輕鬆。",
+      "title": "我希望我在學習TypeScript時就知道的3個TypeScript技巧"
+    }
+  ]
 }
