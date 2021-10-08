@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "#ビットコインは、毎秒290万ドルの価値を地球上で動かしています。"
+    },
+    {
+      "locale": "zh",
+      "title": "#比特币每秒钟在全球范围内移动290万美元的价值。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "#比特幣每秒鐘在全球範圍內移動290萬美元的價值。"
+    }
+  ]
 }
