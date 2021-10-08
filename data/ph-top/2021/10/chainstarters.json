@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-08T07:02:46Z"
+  "original_createdAt": "2021-10-08T07:02:46Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Chainstartersは、ソフトウェア開発者のためのパワフルで迅速な、Web3対応プラットフォームです。安全でスケーラブルなインフラの設定と維持にかかる負担を解消し、お客様は素晴らしい技術の創造に集中することができます。https://docs.chainstarters.com/docs/how-to-create-a-company をご覧ください。",
+      "tagline": "Web3対応の高速開発プラットフォーム"
+    },
+    {
+      "locale": "zh",
+      "description": "Chainstarters是一个强大的、快速的、支持web3的软件开发者平台。我们消除了建立和维护安全和可扩展的基础设施的负担，使您能够专注于创造惊人的技术。请查看我们的https://docs.chainstarters.com/docs/how-to-create-a-company!",
+      "tagline": "一个支持web3的快速开发平台"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Chainstarters是一個強大的、快速的、支持web3的軟件開發者平臺。我們消除了建立和維護安全和可擴展的基礎設施的負擔，使您能夠專注於創造驚人的技術。請查看我們的https://docs.chainstarters.com/docs/how-to-create-a-company!",
+      "tagline": "一個支持web3的快速開發平臺"
+    }
+  ]
 }
