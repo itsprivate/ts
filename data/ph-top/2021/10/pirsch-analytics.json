@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-08T07:04:40Z"
+  "original_createdAt": "2021-10-08T07:04:40Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Pirschは、Google Analyticsに代わる、シンプルでプライバシーに配慮したオープンソースのソフトウェアです。軽量でクッキーを使用せず、あらゆるウェブサイトやバックエンドに簡単に統合することができます。",
+      "tagline": "オープンソースで、クッキーを使わないウェブアナリティクス"
+    },
+    {
+      "locale": "zh",
+      "description": "Pirsch是一个简单的、对隐私友好的、开源的谷歌分析替代品--轻量级、无cookie、容易集成到任何网站或直接集成到你的后台。",
+      "tagline": "开源的、无cookie的网络分析"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Pirsch是一個簡單的、對隱私友好的、開源的谷歌分析替代品--輕量級、無cookie、容易集成到任何網站或直接集成到你的後臺。",
+      "tagline": "開源的、無cookie的網絡分析"
+    }
+  ]
 }
