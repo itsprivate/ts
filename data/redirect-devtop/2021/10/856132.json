@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-08T08:40:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--iFVSxw2m--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xlnfu2frlry5stpan0zh.png",
   "author": "The Nerdy Dev",
-  "author_url": "https://dev.to/thenerdydev"
+  "author_url": "https://dev.to/thenerdydev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは👋🏻 今回は、あなたにとって最も重要なコンセプトのひとつである、「...",
+      "title": "REST APIとは？"
+    },
+    {
+      "locale": "zh",
+      "description": "嘿，大家好！在这篇文章中，让我们来了解一下最重要的概念之一，即你作为...",
+      "title": "什么是REST API？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嘿，大家好！在這篇文章中，讓我們來了解一下最重要的概念之一，即你作爲...",
+      "title": "什麼是REST API？"
+    }
+  ]
 }
