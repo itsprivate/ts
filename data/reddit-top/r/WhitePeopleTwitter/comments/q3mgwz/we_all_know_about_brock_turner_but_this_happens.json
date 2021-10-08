@@ -42,5 +42,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ブロック・ターナーのことはよく知られていますが、このようなことはよくあることです。"
+    },
+    {
+      "locale": "zh",
+      "title": "我们都知道布洛克-特纳的事，但这种情况经常发生。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們都知道布洛克-特納的事，但這種情況經常發生。"
+    }
+  ]
 }
