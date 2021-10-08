@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-08T07:10:25Z"
+  "original_createdAt": "2021-10-08T07:10:25Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "DB Lens は、Mac、Linux、Windows 用のオープンソースのデータベースクライアントで、開発者がより良い方法でデータベースを探索、観察、理解するのに役立ちます。🔍 データベースエクスプローラー 📟 SQLプレイグラウンド 📉 ERダイアグラム ⚡️ クイックコネクト (ディープリンク) 💡 パフォーマンスオーバービュー",
+      "tagline": "データの探索、SQLの実行、メトリクス、ディスク使用量など。"
+    },
+    {
+      "locale": "zh",
+      "description": "DB Lens是一个适用于Mac、Linux和Windows的开源数据库客户端，帮助开发者以更好的方式探索、观察和理解数据库。🔍 Database Explorer 📟 SQL Playground 📉 ER Diagrams ⚡️ Quick Connect （深度链接） 💡 Performance Overview",
+      "tagline": "探索数据、执行SQL、指标、磁盘使用及更多"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "DB Lens是一個適用於Mac、Linux和Windows的開源數據庫客戶端，幫助開發者以更好的方式探索、觀察和理解數據庫。🔍 Database Explorer 📟 SQL Playground 📉 ER Diagrams ⚡️ Quick Connect （深度鏈接） 💡 Performance Overview",
+      "tagline": "探索數據、執行SQL、指標、磁盤使用及更多"
+    }
+  ]
 }
