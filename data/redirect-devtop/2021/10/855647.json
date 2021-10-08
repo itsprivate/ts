@@ -50,5 +50,22 @@
   "original_created_at": "2021-10-07T23:23:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--l7jWMfIg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/75odslwy1xi2mhnpshgw.jpg",
   "author": "Francesco Di Donato",
-  "author_url": "https://dev.to/didof"
+  "author_url": "https://dev.to/didof",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "前提 意図した通りにコードが使用されていることを確認していますか？あなたのコードは、意図した通りに使用されていますか？",
+      "title": "JavaScriptの侵入とセキュリティ"
+    },
+    {
+      "locale": "zh",
+      "description": "前提 你确定你在确保你的代码能按预期使用吗？你是否在防止...",
+      "title": "JavaScript中的渗透和安全"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "前提 你確定你在確保你的代碼能按預期使用嗎？你是否在防止...",
+      "title": "JavaScript中的滲透和安全"
+    }
+  ]
 }
