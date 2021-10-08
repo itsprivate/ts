@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "なんということでしょう。"
+    },
+    {
+      "locale": "zh",
+      "title": "多么好的一个镜头!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "多麼好的一個鏡頭!"
+    }
+  ]
 }
