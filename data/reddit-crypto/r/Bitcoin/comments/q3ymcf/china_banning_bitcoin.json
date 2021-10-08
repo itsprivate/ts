@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインを禁止する中国"
+    },
+    {
+      "locale": "zh",
+      "title": "中国禁止比特币"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "中國禁止比特幣"
+    }
+  ]
 }

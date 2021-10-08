@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインの方がいい"
+    },
+    {
+      "locale": "zh",
+      "title": "我用比特币更好"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我用比特幣更好"
+    }
+  ]
 }
