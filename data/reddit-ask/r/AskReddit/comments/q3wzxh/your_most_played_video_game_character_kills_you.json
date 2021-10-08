@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが最もよくプレイするゲームキャラクターに殺される。"
+    },
+    {
+      "locale": "zh",
+      "title": "你最常玩的视频游戏角色杀了你，它是谁？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你最常玩的視頻遊戲角色殺了你，它是誰？"
+    }
+  ]
 }
