@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-07T00:24:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4MWCVmyh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2rb76rccgcvs6j1sgzgv.jpeg",
   "author": "Alex Suarez",
-  "author_url": "https://dev.to/alexandprivate"
+  "author_url": "https://dev.to/alexandprivate",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、Reactコンポーネント、ライブラリ、Tailwindの構築に関する知識があることを前提としています ...",
+      "title": "Tailwindを使ったReactコンポーネントライブラリが3分で完成!"
+    },
+    {
+      "locale": "zh",
+      "description": "这篇文章假设你有关于构建React组件、库和Tailwind的知识。",
+      "title": "用Tailwind在3分钟内完成React组件库!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這篇文章假設你有關於構建React組件、庫和Tailwind的知識。",
+      "title": "用Tailwind在3分鐘內完成React組件庫!"
+    }
+  ]
 }
