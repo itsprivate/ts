@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが知っている統計や事実の中で、最も興味深いものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你知道的最有趣的统计数字或事实是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你知道的最有趣的統計數字或事實是什麼？"
+    }
+  ]
 }
