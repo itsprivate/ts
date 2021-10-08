@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "歌詞の内容からは想像できないような、明るい曲を教えてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "哪些歌曲被认为是欢快的，但歌词却说不是？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "哪些歌曲被認爲是歡快的，但歌詞卻說不是？"
+    }
+  ]
 }
