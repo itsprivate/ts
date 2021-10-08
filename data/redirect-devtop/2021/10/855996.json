@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-08T07:36:02Z",
   "image": "https://dev.to/social_previews/article/855996.png",
   "author": "Matti Bar-Zeev",
-  "author_url": "https://dev.to/mbarzeev"
+  "author_url": "https://dev.to/mbarzeev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、シンプルなコンポーネントを改造して、TypeScriptの活用を始めてみます。このコンポーネントは...",
+      "title": "ReactコンポーネントをTypeScriptに変換する"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，你将和我一起修改一个简单的组件，开始利用TypeScript。在这篇文章中，你将和我一起修改一个简单的组件以开始使用TypeScript。",
+      "title": "将React组件转换为TypeScript"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，你將和我一起修改一個簡單的組件，開始利用TypeScript。在這篇文章中，你將和我一起修改一個簡單的組件以開始使用TypeScript。",
+      "title": "將React組件轉換爲TypeScript"
+    }
+  ]
 }
