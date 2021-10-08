@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-04T22:00:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tjQAb8iQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n7cb564nr18ktgzmdj10.jpg",
   "author": "JS Bits with Bill",
-  "author_url": "https://dev.to/js_bits_bill"
+  "author_url": "https://dev.to/js_bits_bill",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あの \"Who's that Pokémon? \"を覚えていますか？TVゲームを覚えていますか？そのゲームを自分で作ることができるのが、この...",
+      "title": "Vanilla JSのPokéAPIを使った \"Who's that Pokémon? \"ゲーム"
+    },
+    {
+      "locale": "zh",
+      "description": "还记得那个 \"那是谁的口袋妖怪 \"吗？电视游戏？好吧，我们可以建立我们自己的版本，用的是...",
+      "title": "使用PokéAPI的香草JS \"那是谁的神奇宝贝？\"游戏"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "還記得那個 \"那是誰的口袋妖怪 \"嗎？電視遊戲？好吧，我們可以建立我們自己的版本，用的是...",
+      "title": "使用PokéAPI的香草JS \"那是誰的神奇寶貝？\"遊戲"
+    }
+  ]
 }
