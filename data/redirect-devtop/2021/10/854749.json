@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-07T08:50:45Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--idu-UYRd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/89qdpkenkegan9fjep48.png",
   "author": "Sam Zhang",
-  "author_url": "https://dev.to/samzhangjy"
+  "author_url": "https://dev.to/samzhangjy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "VueBloggerとは？  VueBloggerは、Vue.js用の軽量なブログサイトジェネレーターで、構築...",
+      "title": "VueBloggerです。Vueのためのブログサイトジェネレータ"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是VueBlogger？  VueBlogger是一个用于Vue.js的轻量级博客网站生成器，它是由Vue.js构建的。",
+      "title": "VueBlogger。Vue的博客网站生成器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是VueBlogger？  VueBlogger是一個用於Vue.js的輕量級博客網站生成器，它是由Vue.js構建的。",
+      "title": "VueBlogger。Vue的博客網站生成器"
+    }
+  ]
 }
