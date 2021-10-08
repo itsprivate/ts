@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-07T07:50:21Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pLOfhZJk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l4uvtf6thtd6b1uxh1pn.jpg",
   "author": "Andrew Luca",
-  "author_url": "https://dev.to/iamandrewluca"
+  "author_url": "https://dev.to/iamandrewluca",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事は、今後のJSXに関する記事の先駆けとなるものです。 JSXとは、特定のJavaScript...",
+      "title": "🧬 JSXを最低レベルにする"
+    },
+    {
+      "locale": "zh",
+      "description": "这篇文章是即将发布的JSX文章的前奏 所以我们都听说过JSX是一种特殊的JavaScript...",
+      "title": "🧬 最低级别的JSX"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這篇文章是即將發佈的JSX文章的前奏 所以我們都聽說過JSX是一種特殊的JavaScript...",
+      "title": "🧬 最低級別的JSX"
+    }
+  ]
 }
