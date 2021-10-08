@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-06T12:40:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Lvl1ZNKy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1ph7yc1i1vqqgwpxegw5.png",
   "author": "Eric The Coder",
-  "author_url": "https://dev.to/ericchapman"
+  "author_url": "https://dev.to/ericchapman",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ここでは、Javascriptでバックエンドアプリケーションを作成するための記事を連載しています。 Node.jsは現在、...",
+      "title": "Javascriptでバックエンドを作る（パート4）。初めてのHTTPサーバを作る"
+    },
+    {
+      "locale": "zh",
+      "description": "这里有一系列文章，帮助你在Javascript中创建后端应用程序。 Node.js现在是一个...",
+      "title": "在Javascript中创建一个后端（第4部分）。创建你的第一个HTTP服务器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這裏有一系列文章，幫助你在Javascript中創建後端應用程序。 Node.js現在是一個...",
+      "title": "在Javascript中創建一個後端（第4部分）。創建你的第一個HTTP服務器"
+    }
+  ]
 }
