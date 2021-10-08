@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "いくつかの一般的なカラーパレットに対する緑色欠損色覚異常（deuteranope）のシミュレーション（これがアニメーションしないようであれば、あなたはおそらく色覚異常です） [OC"
+    },
+    {
+      "locale": "zh",
+      "title": "对一些常见的调色板进行绿色缺失性色盲（deuteranope）的模拟（如果这看起来没有动画，你可能是色盲） [OC]"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "對一些常見的調色板進行綠色缺失性色盲（deuteranope）的模擬（如果這看起來沒有動畫，你可能是色盲） [OC]"
+    }
+  ]
 }

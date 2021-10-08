@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "左側はブラウン管テレビで見たときのもので、子供の頃のグラフィックが「FIRE」に見えたのも頷けます。"
+    },
+    {
+      "locale": "zh",
+      "title": "左侧是CRT电视上的样子，难怪小时候的图形看起来像FIREE。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "左側是CRT電視上的樣子，難怪小時候的圖形看起來像FIREE。"
+    }
+  ]
 }
