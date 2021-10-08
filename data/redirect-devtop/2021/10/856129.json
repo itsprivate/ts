@@ -52,5 +52,22 @@
   "original_created_at": "2021-10-08T08:25:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Pwf7MI7b--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ls7my5col389w2g9o6n6.png",
   "author": "pramit_marattha",
-  "author_url": "https://dev.to/pramit_armpit"
+  "author_url": "https://dev.to/pramit_armpit",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "NodeJsとは？ Nodejsとは、javascriptの実行環境です。では、具体的にどのようなjavascript...",
+      "title": "初心者から上級者までのNode.js"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是NodeJs？ Nodejs是一个javascript运行环境。那么，到底什么是javascript...",
+      "title": "Node.js从入门到进阶"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是NodeJs？ Nodejs是一個javascript運行環境。那麼，到底什麼是javascript...",
+      "title": "Node.js從入門到進階"
+    }
+  ]
 }

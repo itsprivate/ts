@@ -52,5 +52,22 @@
   "original_created_at": "2021-10-07T07:45:50Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AgoIyaFi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5szw5u8xnqs9gugge0vr.png",
   "author": "Saji Wang",
-  "author_url": "https://dev.to/sewangco"
+  "author_url": "https://dev.to/sewangco",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今週初め、私たちは、分散型アプリケーションと、それがもたらすであろう影響について話しました。",
+      "title": "ReactとGunDBによる分散型データベースのセットアップ"
+    },
+    {
+      "locale": "zh",
+      "description": "本周早些时候，我们谈到了去中心化的应用程序，以及它们可能对...",
+      "title": "用React和GunDB建立一个分散的数据库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "本週早些時候，我們談到了去中心化的應用程序，以及它們可能對...",
+      "title": "用React和GunDB建立一個分散的數據庫"
+    }
+  ]
 }
