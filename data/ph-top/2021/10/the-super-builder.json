@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-08T07:05:00Z"
+  "original_createdAt": "2021-10-08T07:05:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Notionで直接、美しいランディングページを作ることができます。50以上のコンポーネントからドラッグ＆ドロップし、カスタムテーマを適用して、数分でサイトを立ち上げることができます。ウォークスルービデオはこちら： https://youtu.be/EIuLPN3vvhI",
+      "tagline": "Notionのためのドラッグ＆ドロップ式のランディングページビルダー"
+    },
+    {
+      "locale": "zh",
+      "description": "直接在Notion中创建漂亮的登陆页面。从50多个组件中拖放，应用自定义主题，并在几分钟内建立和运行你的网站。这里有一个演练视频：https://youtu.be/EIuLPN3vvhI",
+      "tagline": "用于Notion的拖放式着陆页构建器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "直接在Notion中創建漂亮的登陸頁面。從50多個組件中拖放，應用自定義主題，並在幾分鐘內建立和運行你的網站。這裏有一個演練視頻：https://youtu.be/EIuLPN3vvhI",
+      "tagline": "用於Notion的拖放式着陸頁構建器"
+    }
+  ]
 }
