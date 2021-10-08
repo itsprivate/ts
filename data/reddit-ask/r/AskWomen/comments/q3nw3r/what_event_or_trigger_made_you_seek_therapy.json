@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "セラピーを受けようと思った出来事やきっかけは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "什么事件或触发因素使你寻求治疗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "什麼事件或觸發因素使你尋求治療？"
+    }
+  ]
 }
