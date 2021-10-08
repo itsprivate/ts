@@ -14,5 +14,19 @@
   "tags": [
     "The Wall Street Journal"
   ],
-  "image": "https://images.wsj.net/im-413650/social"
+  "image": "https://images.wsj.net/im-413650/social",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "記録的な数の乗組員が、給料も食べ物も帰り道もないまま船に置き去りにされています。"
+    },
+    {
+      "locale": "zh",
+      "title": "船员被遗弃在船上的人数创下新高，没有工资、食物或回家的路。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "船員被遺棄在船上的人數創下新高，沒有工資、食物或回家的路。"
+    }
+  ]
 }
