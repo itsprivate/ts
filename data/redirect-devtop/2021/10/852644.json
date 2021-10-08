@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-05T16:43:38Z",
   "image": "https://dev.to/social_previews/article/852644.png",
   "author": "Jon Crowell",
-  "author_url": "https://dev.to/jonrcrowell"
+  "author_url": "https://dev.to/jonrcrowell",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "前回までの記事 fullstackfish.com PrismaでSQL ServerをReactに接続するのは...",
+      "title": "SQL Server to React in 60 Seconds With Prisma"
+    },
+    {
+      "locale": "zh",
+      "description": "以前发表在fullstackfish.com上 用Prisma将SQL Server连接到React是一个...",
+      "title": "用Prisma在60秒内将SQL Server转换为React"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "以前發表在fullstackfish.com上 用Prisma將SQL Server連接到React是一個...",
+      "title": "用Prisma在60秒內將SQL Server轉換爲React"
+    }
+  ]
 }
