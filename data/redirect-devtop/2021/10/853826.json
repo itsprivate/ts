@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-06T15:12:08Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1lNjfckp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/70qjfj7cx99isl0h3eqa.png",
   "author": "Can Burak Sofyalioglu",
-  "author_url": "https://dev.to/canburaks"
+  "author_url": "https://dev.to/canburaks",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "SolidJSは、フロントエンド・プロジェクトでJSXを使用することができる真のリアクティブ・ライブラリです。この...",
+      "title": "SolidJSとリアクティブ・プリミティブの紹介"
+    },
+    {
+      "locale": "zh",
+      "description": "SolidJS 是一个真正的反应式库，允许您在您的前端项目中使用 JSX。在此...",
+      "title": "SolidJS和反应式基元介绍"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "SolidJS 是一個真正的反應式庫，允許您在您的前端項目中使用 JSX。在此...",
+      "title": "SolidJS和反應式基元介紹"
+    }
+  ]
 }
