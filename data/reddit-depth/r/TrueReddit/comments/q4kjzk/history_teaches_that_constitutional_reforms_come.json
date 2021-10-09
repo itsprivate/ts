@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "歴史が教えてくれる、憲法改正の波。私たちは今、その一つに近づいているのかもしれません。"
+    },
+    {
+      "locale": "zh",
+      "title": "历史告诉我们，宪法改革是一波又一波的。我们现在可能正在接近一个。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "歷史告訴我們，憲法改革是一波又一波的。我們現在可能正在接近一個。"
+    }
+  ]
 }
