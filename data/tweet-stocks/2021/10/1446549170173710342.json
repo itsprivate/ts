@@ -52,5 +52,22 @@
     },
     "retweet_count": 152,
     "favorite_count": 2876
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @ParikPatelCFA: Instagramは1週間に2回ダウン。暗号は決してダウンしません。このことを理解している人は少ない。",
+      "retweeted_status_full_text": "Instagramは1週間に2回ダウンしています。暗号は決してダウンしない。このことを理解している人は少ない。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @ParikPatelCFA: Instagram一周内两次瘫痪。加密货币从来没有下跌过。很少有人理解这一点。",
+      "retweeted_status_full_text": "Instagram一周内两次瘫痪。而加密货币却从未瘫痪。很少有人理解这一点。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @ParikPatelCFA: Instagram一週內兩次癱瘓。加密貨幣從來沒有下跌過。很少有人理解這一點。",
+      "retweeted_status_full_text": "Instagram一週內兩次癱瘓。而加密貨幣卻從未癱瘓。很少有人理解這一點。"
+    }
+  ]
 }
