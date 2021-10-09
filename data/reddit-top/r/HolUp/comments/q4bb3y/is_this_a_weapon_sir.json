@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これは武器ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "这是一种武器吗，先生？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是一種武器嗎，先生？"
+    }
+  ]
 }
