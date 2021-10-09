@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-08T03:12:46Z",
   "image": "https://dev.to/social_previews/article/855789.png",
   "author": "Garrick Crouch",
-  "author_url": "https://dev.to/localpathcomp"
+  "author_url": "https://dev.to/localpathcomp",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "2年近くReactを専門的に使ってきて、最終的には賢明な方法に落ち着きました...",
+      "title": "フレームワークなしでReact.jsのプロジェクト構造を意見する"
+    },
+    {
+      "locale": "zh",
+      "description": "在专业地使用React近两年后，我终于确定了合理的方式来...",
+      "title": "无框架的React.js中的意见项目结构"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在專業地使用React近兩年後，我終於確定了合理的方式來...",
+      "title": "無框架的React.js中的意見項目結構"
+    }
+  ]
 }
