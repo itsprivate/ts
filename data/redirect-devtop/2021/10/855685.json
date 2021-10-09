@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-08T01:29:56Z",
   "image": "https://dev.to/social_previews/article/855685.png",
   "author": "Alex E",
-  "author_url": "https://dev.to/alexeagleson"
+  "author_url": "https://dev.to/alexeagleson",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "(このチュートリアルはwebpack v5を使って書かれていますが、一般的なコンセプトはどのバージョンにも当てはまります） ...",
+      "title": "Understanding the Modern Web Stack: Webpack - 基礎編\n"
+    },
+    {
+      "locale": "zh",
+      "description": "(本教程使用webpack v5编写，但一般概念适用于任何版本） ...",
+      "title": "了解现代网络栈。Webpack - 基础知识\n"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "(本教程使用webpack v5編寫，但一般概念適用於任何版本） ...",
+      "title": "瞭解現代網絡棧。Webpack - 基礎知識\n"
+    }
+  ]
 }
