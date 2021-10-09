@@ -71,5 +71,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-09T07:00:00Z"
+  "original_createdAt": "2021-10-09T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactアプリのコンポーネントをサイドバーのインタラクティブなツリーに整理するVisual Studio Codeの拡張機能です。親子関係やプロップを表示したり、コンポーネントが定義されているファイルに移動したり、Reduxストアに接続されているノードをマークしたりします。",
+      "tagline": "Reactアプリを縦断する便利な方法"
+    },
+    {
+      "locale": "zh",
+      "description": "一个Visual Studio Code扩展，它将你的React应用的组件组织成侧边栏中的一个互动树。它显示了父子关系、道具、导航到定义组件的文件，并标记了连接到Redux商店的任何节点。",
+      "tagline": "遍历你的React应用程序的便捷方式"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個Visual Studio Code擴展，它將你的React應用的組件組織成側邊欄中的一個互動樹。它顯示了父子關係、道具、導航到定義組件的文件，並標記了連接到Redux商店的任何節點。",
+      "tagline": "遍歷你的React應用程序的便捷方式"
+    }
+  ]
 }
