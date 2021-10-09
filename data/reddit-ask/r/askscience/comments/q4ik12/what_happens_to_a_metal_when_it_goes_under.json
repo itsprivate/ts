@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "放射線硬化させると金属はどうなるのか、それを可能にする放射線量はどのくらいなのか。"
+    },
+    {
+      "locale": "zh",
+      "title": "当金属接受辐射硬化时，它会发生什么变化，使其成为可能的辐射水平是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當金屬接受輻射硬化時，它會發生什麼變化，使其成爲可能的輻射水平是什麼？"
+    }
+  ]
 }
