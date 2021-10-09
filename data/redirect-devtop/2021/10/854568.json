@@ -50,5 +50,22 @@
   "original_created_at": "2021-10-07T06:56:32Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pCJKFHrM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6tbukpp7se0r9eouf4yo.png",
   "author": "Edward Allen Mercado",
-  "author_url": "https://dev.to/edwardmercado"
+  "author_url": "https://dev.to/edwardmercado",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "DevOpsの手法では、「継続的デリバリー」や「継続的デプロイメント」は曖昧な言葉で、ほとんどの場合、...",
+      "title": "継続的デリバリーは継続的デプロイメントではない"
+    },
+    {
+      "locale": "zh",
+      "description": "在DevOps方法论中，持续交付和持续部署是模糊的术语，我们大多...",
+      "title": "持续交付不是持续部署"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在DevOps方法論中，持續交付和持續部署是模糊的術語，我們大多...",
+      "title": "持續交付不是持續部署"
+    }
+  ]
 }
