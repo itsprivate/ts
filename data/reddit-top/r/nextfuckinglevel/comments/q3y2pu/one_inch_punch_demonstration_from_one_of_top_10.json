@@ -45,5 +45,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "中国武術家トップ10の一人によるワンインチパンチの実演"
+    },
+    {
+      "locale": "zh",
+      "title": "中国十大武术家之一的一寸拳演示"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "中國十大武術家之一的一寸拳演示"
+    }
+  ]
 }
