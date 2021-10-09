@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-08T09:54:58Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cKKet4de--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ywlnc8iq7vzivgxpbv15.png",
   "author": "David Asaolu",
-  "author_url": "https://dev.to/arshadayvid"
+  "author_url": "https://dev.to/arshadayvid",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はい、私もあなたと同じように、Reactアプリでhtml要素をスタイリングする際には、...",
+      "title": "スタイルドコンポーネントの紹介"
+    },
+    {
+      "locale": "zh",
+      "description": "是的，我一直和你一样，在我的React应用程序中，我一直在使用HTML元素的样式。",
+      "title": "风格化组件的介绍"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "是的，我一直和你一樣，在我的React應用程序中，我一直在使用HTML元素的樣式。",
+      "title": "風格化組件的介紹"
+    }
+  ]
 }
