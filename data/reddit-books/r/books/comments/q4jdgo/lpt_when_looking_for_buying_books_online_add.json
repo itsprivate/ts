@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "This is a general tip as well. If you want a certain keyword to be excluded in\nany of your search results when looking up on google, just add a hyphen and then\nthat keyword. This will tell google that you're looking for a specific thing but\n'this' word should not appear in any links or paragraphs I…"
+  "the_new_excerpt": "This is a general tip as well. If you want a certain keyword to be excluded in\nany of your search results when looking up on google, just add a hyphen and then\nthat keyword. This will tell google that you're looking for a specific thing but\n'this' word should not appear in any links or paragraphs I…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "これは一般的なヒントでもあります。特定のキーワードを除外したい場合は\n除外したい場合は、ハイフンを付けた後、そのキーワードを\nキーワードを入力します。これにより、あなたが特定のものを探していることがGoogleに伝わりますが\nこの」単語は、いかなるリンクや段落にも表示されないようにします。",
+      "title": "LPT オンラインで書籍を購入する際には、google検索に「-amazon」を追加して、amazonのリンクを削除してください。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这也是一个一般的提示。如果你希望某个关键词被排除在\n任何搜索结果中排除，只要在谷歌上添加一个连字符，然后在\n该关键词。这将告诉谷歌，你正在寻找一个特定的东西，但\n'这个'词不应该出现在任何链接或段落中，我...",
+      "title": "LPT 在网上寻找买书时，在谷歌搜索中加入'-amazon'，以删除任何亚马逊的链接。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這也是一個一般的提示。如果你希望某個關鍵詞被排除在\n任何搜索結果中排除，只要在谷歌上添加一個連字符，然後在\n該關鍵詞。這將告訴谷歌，你正在尋找一個特定的東西，但\n'這個'詞不應該出現在任何鏈接或段落中，我...",
+      "title": "LPT 在網上尋找買書時，在谷歌搜索中加入'-amazon'，以刪除任何亞馬遜的鏈接。"
+    }
+  ]
 }
