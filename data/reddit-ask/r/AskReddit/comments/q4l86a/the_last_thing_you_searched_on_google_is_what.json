@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "最後にgoogleで検索したものが、あなたを殺します。どうやって死ぬの？"
+    },
+    {
+      "locale": "zh",
+      "title": "你在谷歌上搜索的最后一件事是什么杀了你。你是怎么死的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你在谷歌上搜索的最後一件事是什麼殺了你。你是怎麼死的？"
+    }
+  ]
 }
