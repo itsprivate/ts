@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-08T09:36:47Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nprElS6r--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aq55vjak4uetoji4xifi.png",
   "author": "Alex Gurr",
-  "author_url": "https://dev.to/alexgurr"
+  "author_url": "https://dev.to/alexgurr",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "mixmelloは、お気に入りの曲のリミックス版を作成するための、無料のオープンソース・アプリケーションです。",
+      "title": "mixmello - あなたのSpotifyプレイリストのリミックスバージョンを作成します。オープンソースです。"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍一下mixmello，这是一个免费的、开源的应用程序，用于创建您最喜爱的混音版本。",
+      "title": "mixmello - 创建您的Spotify播放列表的混音版本。开源。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹一下mixmello，這是一個免費的、開源的應用程序，用於創建您最喜愛的混音版本。",
+      "title": "mixmello - 創建您的Spotify播放列表的混音版本。開源。"
+    }
+  ]
 }
