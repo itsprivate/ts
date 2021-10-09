@@ -47,5 +47,19 @@
     "type": "twitter.com"
   },
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"Thieves break into Silicon Valley liquor store ... 現金ATMを盗むためではなく、Bitcoin ATMを盗むために。\" #我々はまだ早い"
+    },
+    {
+      "locale": "zh",
+      "title": "\"盗贼闯入硅谷酒类商店......不是为了偷取现金ATM，而是为了偷取比特币ATM。\" #我们还早"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"盜賊闖入硅谷酒類商店......不是爲了偷取現金ATM，而是爲了偷取比特幣ATM。\" #我們還早"
+    }
+  ]
 }
