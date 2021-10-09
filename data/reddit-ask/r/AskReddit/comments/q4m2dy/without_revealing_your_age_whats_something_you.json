@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "年齢を伏せた上で、若い人に言っても理解されないような記憶は何かありますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "在不透露你的年龄的情况下，你记得什么事情，如果你告诉一个年轻的人，他们不会理解？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在不透露你的年齡的情況下，你記得什麼事情，如果你告訴一個年輕的人，他們不會理解？"
+    }
+  ]
 }
