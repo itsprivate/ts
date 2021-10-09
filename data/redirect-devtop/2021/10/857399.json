@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-09T10:20:26Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZAvT5BiA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ztvxlsud4r2tdb6cqf6x.jpg",
   "author": "damiisdandy",
-  "author_url": "https://dev.to/damiisdandy"
+  "author_url": "https://dev.to/damiisdandy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このガイドでは、ページネーションの概念を理解し、それをreactで実装する方法を説明します。",
+      "title": "JavascriptとReactによるパジネーション、カスタムusePagination()フックの使用"
+    },
+    {
+      "locale": "zh",
+      "description": "本指南是为了帮助你理解分页的概念，以及如何在react中实现它。",
+      "title": "在Javascript和React中进行分页，使用自定义的usePagination()挂钩"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "本指南是爲了幫助你理解分頁的概念，以及如何在react中實現它。",
+      "title": "在Javascript和React中進行分頁，使用自定義的usePagination()掛鉤"
+    }
+  ]
 }
