@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ロビンという名のカレン"
+    },
+    {
+      "locale": "zh",
+      "title": "名为罗宾的卡伦"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "名爲羅賓的卡倫"
+    }
+  ]
 }
