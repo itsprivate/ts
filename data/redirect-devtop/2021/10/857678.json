@@ -50,5 +50,22 @@
   "original_created_at": "2021-10-09T17:14:55Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3LoYy3kB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2brg24nblh4gddxd0dft.png",
   "author": "Ethan Olchik",
-  "author_url": "https://dev.to/ethanolchik"
+  "author_url": "https://dev.to/ethanolchik",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Hey guys! 私の名前はEthanで、Peregrineの12人の開発者の1人です。皆さんの中には、すでにPeregrineをご存知の方もいらっしゃるでしょう。",
+      "title": "Peregrine Rewrite - C言語と同等の速度を持つパイソン風言語"
+    },
+    {
+      "locale": "zh",
+      "description": "嘿，伙计们! 我叫Ethan，是Peregrine的12名开发者之一。你们中的一些人可能已经知道什么是...",
+      "title": "Peregrine重写 - 与C语言一样快的类蟒蛇语言"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嘿，夥計們! 我叫Ethan，是Peregrine的12名開發者之一。你們中的一些人可能已經知道什麼是...",
+      "title": "Peregrine重寫 - 與C語言一樣快的類蟒蛇語言"
+    }
+  ]
 }
