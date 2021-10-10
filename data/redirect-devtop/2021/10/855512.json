@@ -43,5 +43,22 @@
   "original_created_at": "2021-10-07T20:26:21Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tBgGWaJt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/2021/2021-02/atlassian-color-contrast-design-system.png",
   "author": "Alena Nik",
-  "author_url": "https://dev.to/alenanik"
+  "author_url": "https://dev.to/alenanik",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "技術的なことは抜きにして、アクセシビリティを包括的に紹介しています。",
+      "title": "✨ アクセシビリティ：やさしい入門編 ✨ "
+    },
+    {
+      "locale": "zh",
+      "description": "全面的、非技术性的可及性介绍",
+      "title": "无障碍环境：一个温和的介绍 ✨ "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "全面的、非技術性的可及性介紹",
+      "title": "無障礙環境：一個溫和的介紹 ✨ "
+    }
+  ]
 }
