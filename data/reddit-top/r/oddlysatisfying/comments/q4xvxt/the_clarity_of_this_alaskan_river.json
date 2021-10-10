@@ -66,5 +66,19 @@
     }
   },
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "アラスカの川の透明度の高さ"
+    },
+    {
+      "locale": "zh",
+      "title": "这条阿拉斯加河流的清澈程度"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這條阿拉斯加河流的清澈程度"
+    }
+  ]
 }
