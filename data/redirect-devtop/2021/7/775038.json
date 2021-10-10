@@ -43,5 +43,22 @@
   "original_created_at": "2021-07-29T08:01:45Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rB0sZfK2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/691ka0uymh1ynq2sgdi6.png",
   "author": "Andreas Riedmüller",
-  "author_url": "https://dev.to/receter"
+  "author_url": "https://dev.to/receter",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CSSで垂直方向の間隔を扱う際に正気を保つためのシンプルなルールです。",
+      "title": "私がmargin-topに惚れた理由"
+    },
+    {
+      "locale": "zh",
+      "description": "在处理CSS中的垂直间隔时，有一个简单的规则可以保持理智。",
+      "title": "我为什么会爱上 \"边缘地带\"？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在處理CSS中的垂直間隔時，有一個簡單的規則可以保持理智。",
+      "title": "我爲什麼會愛上 \"邊緣地帶\"？"
+    }
+  ]
 }
