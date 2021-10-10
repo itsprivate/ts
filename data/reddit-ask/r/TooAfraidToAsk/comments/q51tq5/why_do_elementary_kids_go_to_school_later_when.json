@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "なぜ小学生は早起きなのに学校が遅くなり、高校生は遅起きなのに学校が早くなるのか？"
+    },
+    {
+      "locale": "zh",
+      "title": "为什么小学生通常起得比较早，却要晚一点上学，而高中生通常起得比较晚，却要早一点上学？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲什麼小學生通常起得比較早，卻要晚一點上學，而高中生通常起得比較晚，卻要早一點上學？"
+    }
+  ]
 }
