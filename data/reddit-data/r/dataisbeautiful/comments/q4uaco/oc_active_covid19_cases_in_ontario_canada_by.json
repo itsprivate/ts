@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] カナダ・オンタリオ州におけるCOVID-19感染者数（公衆衛生ユニット別"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC] 加拿大安大略省按公共卫生单位划分的COVID-19活跃病例"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC] 加拿大安大略省按公共衛生單位劃分的COVID-19活躍病例"
+    }
+  ]
 }
