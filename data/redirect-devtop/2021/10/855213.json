@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-07T16:57:04Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wjvM-9Ml--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7on3p7vizmyx4eb7wae9.jpg",
   "author": "Anamika",
-  "author_url": "https://dev.to/noviicee"
+  "author_url": "https://dev.to/noviicee",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "どんなOSやカーネルでも、Appwriteの設定はとても簡単です。ここでは...",
+      "title": "UbuntuでのAppwriteの設定方法"
+    },
+    {
+      "locale": "zh",
+      "description": "在任何操作系统或内核上设置Appwrite是非常容易的。在这里，我们要做的是...",
+      "title": "如何在Ubuntu上设置Appwrite"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在任何操作系統或內核上設置Appwrite是非常容易的。在這裏，我們要做的是...",
+      "title": "如何在Ubuntu上設置Appwrite"
+    }
+  ]
 }
