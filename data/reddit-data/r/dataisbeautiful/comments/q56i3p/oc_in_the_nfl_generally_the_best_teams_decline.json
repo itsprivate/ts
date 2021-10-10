@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC】NFLでは一般的に、N+1年目にベストチームが衰退し、ワーストチームが改善する。この \"平均への回帰 \"を視覚化したものがこちらです。"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]在NFL中，一般来说，最好的球队在N+1年下降，最差的球队在N+1年提高。以下是这种 \"回归平均值 \"的直观描述"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]在NFL中，一般來說，最好的球隊在N+1年下降，最差的球隊在N+1年提高。以下是這種 \"迴歸平均值 \"的直觀描述"
+    }
+  ]
 }
