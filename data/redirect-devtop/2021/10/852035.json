@@ -52,5 +52,22 @@
   "original_created_at": "2021-10-05T10:16:51Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ffb63KKp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vu0wkrnlrz795j2s29qe.png",
   "author": "Michael",
-  "author_url": "https://dev.to/itsmichael1"
+  "author_url": "https://dev.to/itsmichael1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "\"What branch are you on?\" は、チームメイトが「テストが...」と言ったときに、最初に聞く質問であることが多いです。",
+      "title": "Android Studioでチームメイトのいるブランチを確認する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "\"你在哪个分支？\"当一个队友说 \"测试不...",
+      "title": "如何在Android Studio中查看你的队友在哪个分支上？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "\"你在哪個分支？\"當一個隊友說 \"測試不...",
+      "title": "如何在Android Studio中查看你的隊友在哪個分支上？"
+    }
+  ]
 }
