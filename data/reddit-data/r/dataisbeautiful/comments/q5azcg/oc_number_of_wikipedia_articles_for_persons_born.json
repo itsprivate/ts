@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] ウィキペディアに掲載されている、毎年生まれた人、亡くなった人の記事数"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC] 维基百科上每年出生或死亡的人的文章数量"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC] 維基百科上每年出生或死亡的人的文章數量"
+    }
+  ]
 }

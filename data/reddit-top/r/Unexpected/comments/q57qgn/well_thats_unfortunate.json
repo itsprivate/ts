@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "それは残念なことです。"
+    },
+    {
+      "locale": "zh",
+      "title": "嗯，这很不幸"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "嗯，這很不幸"
+    }
+  ]
 }
