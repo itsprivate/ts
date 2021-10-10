@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-10T03:21:22Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sHPweH6l--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u2odb3uhgok4oc9ab8gq.png",
   "author": "Tapajyoti Bose",
-  "author_url": "https://dev.to/ruppysuppy"
+  "author_url": "https://dev.to/ruppysuppy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactは、フロントエンドアプリケーションを構築するための素晴らしいツールです。この記事では、いくつかのヒントを提供します...",
+      "title": "React開発者が知っておくべき5つのヒント"
+    },
+    {
+      "locale": "zh",
+      "description": "React是构建前端应用程序的一个了不起的工具。这篇文章将为你提供一些提示...",
+      "title": "每个React开发者都应该知道的5个技巧"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "React是構建前端應用程序的一個了不起的工具。這篇文章將爲你提供一些提示...",
+      "title": "每個React開發者都應該知道的5個技巧"
+    }
+  ]
 }
