@@ -50,5 +50,22 @@
   "original_created_at": "2021-10-09T16:29:18Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zCZ2mAJb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pxek2l307bari6y1jp7b.PNG",
   "author": "Tarun Sharma",
-  "author_url": "https://dev.to/ohitztarun"
+  "author_url": "https://dev.to/ohitztarun",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私について こんにちは、Tarun Sharmaです。私はインド出身で、学校生活を終えたばかりで、大学に進学しました...",
+      "title": "初めてのフルスタックWebアプリケーションをわずか4日間で作成、デプロイした方法"
+    },
+    {
+      "locale": "zh",
+      "description": "关于我 嗨，我是Tarun Sharma。我来自印度，刚刚结束了我的学校生活，并选择了一个新的工作。",
+      "title": "我是如何在短短4天内创建并部署我的第一个全栈网络应用程序的"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "關於我 嗨，我是Tarun Sharma。我來自印度，剛剛結束了我的學校生活，並選擇了一個新的工作。",
+      "title": "我是如何在短短4天內創建並部署我的第一個全棧網絡應用程序的"
+    }
+  ]
 }
