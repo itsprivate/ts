@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-09T08:26:34Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s---9pn9dK6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zctzgpjqju2ap7zrmc4w.png",
   "author": "Suhail Kakar",
-  "author_url": "https://dev.to/suhailkakar"
+  "author_url": "https://dev.to/suhailkakar",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Dockerはオープンソースのプラットフォームで、コンテナ化されたものを作成、デプロイ、管理することができます。",
+      "title": "Docker究極のガイド - Dockerとは何かからNode.jsアプリケーションのDockerizingまで"
+    },
+    {
+      "locale": "zh",
+      "description": "Docker是一个开源平台，使我们能够创建、部署和管理容器化。",
+      "title": "Docker终极指南--从什么是Docker到Docker化Node.js应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Docker是一個開源平臺，使我們能夠創建、部署和管理容器化。",
+      "title": "Docker終極指南--從什麼是Docker到Docker化Node.js應用程序"
+    }
+  ]
 }
