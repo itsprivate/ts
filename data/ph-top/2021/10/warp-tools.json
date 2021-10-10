@@ -47,5 +47,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-10T07:00:00Z"
+  "original_createdAt": "2021-10-10T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Smudge、Twirl、Bulge、Pinch、Arc、および Free Transform ツールを使用して、デザインをワープします。このプラグインは、他のベクター・アプリケーションで知られている典型的なワープ・ツールをFigmaにもたらします。",
+      "tagline": "Smudge、Twirl、Pinch、Arc、そしてFigma用の自由変形ツール。"
+    },
+    {
+      "locale": "zh",
+      "description": "使用 Smudge、Twirl、Bulge、Pinch、Arc 和 Free Transform 工具对您的设计进行扭曲。这个插件将其他矢量应用程序中的典型翘曲工具带到 Figma。",
+      "tagline": "用于Figma的涂抹、旋转、捏合、弧形和自由转换工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用 Smudge、Twirl、Bulge、Pinch、Arc 和 Free Transform 工具對您的設計進行扭曲。這個插件將其他矢量應用程序中的典型翹曲工具帶到 Figma。",
+      "tagline": "用於Figma的塗抹、旋轉、捏合、弧形和自由轉換工具"
+    }
+  ]
 }
