@@ -72,5 +72,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-09T10:49:31Z"
+  "original_createdAt": "2021-10-09T10:49:31Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "LinkBinは、リンクを一時的に保存できるiOS、iPadOS、macOS用のアプリです。リンクの保存は非常に簡単で、AppleのShortcutsアプリを使ってすべてを自動化することができます。",
+      "tagline": "リンクを後から保存"
+    },
+    {
+      "locale": "zh",
+      "description": "LinkBin是一款适用于iOS、iPadOS和macOS的应用程序，允许临时存储链接。保存链接是非常简单的，你可以用苹果的 \"快捷键 \"应用程序自动处理一切。",
+      "tagline": "保存链接以备后用"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "LinkBin是一款適用於iOS、iPadOS和macOS的應用程序，允許臨時存儲鏈接。保存鏈接是非常簡單的，你可以用蘋果的 \"快捷鍵 \"應用程序自動處理一切。",
+      "tagline": "保存鏈接以備後用"
+    }
+  ]
 }
