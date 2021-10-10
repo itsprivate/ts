@@ -43,5 +43,22 @@
   "original_created_at": "2021-10-09T11:19:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JHJlJqhF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6fazm3xdf0h75mvg5bc5.jpg",
   "author": "bhupendra",
-  "author_url": "https://dev.to/bhupendra1011"
+  "author_url": "https://dev.to/bhupendra1011",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これは、私が以前に投稿した、Reduxを単独で理解する方法とその問題点についての一連の流れです...",
+      "title": "ReactでReduxを理解する"
+    },
+    {
+      "locale": "zh",
+      "description": "这是我之前关于如何孤立地理解Redux和它的问题的帖子的序列。",
+      "title": "了解Redux与React"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是我之前關於如何孤立地理解Redux和它的問題的帖子的序列。",
+      "title": "瞭解Redux與React"
+    }
+  ]
 }

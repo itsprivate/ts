@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Bank Of AmericaのDigital Assets Primerによると、Tezosは業界で2番目に開発者の関心が高いとのこと。"
+    },
+    {
+      "locale": "zh",
+      "title": "根据美国银行的数字资产入门报告，Tezos在行业内拥有第二大的开发者兴趣。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "根據美國銀行的數字資產入門報告，Tezos在行業內擁有第二大的開發者興趣。"
+    }
+  ]
 }
