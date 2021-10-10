@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-08T04:23:17Z",
   "image": "https://dev.to/social_previews/article/855861.png",
   "author": "Gabriel Bittencourt",
-  "author_url": "https://dev.to/gabrlcj"
+  "author_url": "https://dev.to/gabrlcj",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは。今日は、図書館のアクシオを使った経験についてお話します。",
+      "title": "Axios ライブラリーでの私の経験"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，今天我要谈谈我对图书馆axios的体验，它使...",
+      "title": "Axios。我在图书馆的经历。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，今天我要談談我對圖書館axios的體驗，它使...",
+      "title": "Axios。我在圖書館的經歷。"
+    }
+  ]
 }
