@@ -91,5 +91,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "数秒の弾薬に20万円かかるらしい"
+    },
+    {
+      "locale": "zh",
+      "title": "显然，几秒钟的弹药要花费20万美元"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "顯然，幾秒鐘的彈藥要花費20萬美元"
+    }
+  ]
 }
