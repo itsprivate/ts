@@ -43,5 +43,22 @@
   "original_created_at": "2021-10-01T11:40:45Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9qj1qHj8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pulus0nnmg1dlbt8hzft.jpg",
   "author": "bhupendra",
-  "author_url": "https://dev.to/bhupendra1011"
+  "author_url": "https://dev.to/bhupendra1011",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私はいつもreactとreduxを同列に語り、reduxは存在しないと思っていました...。",
+      "title": "ReactなしでReduxを理解する"
+    },
+    {
+      "locale": "zh",
+      "description": "我总是习惯于把react和redux放在一起谈论，认为redux并不存在。",
+      "title": "在没有React的情况下了解Redux"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我總是習慣於把react和redux放在一起談論，認爲redux並不存在。",
+      "title": "在沒有React的情況下了解Redux"
+    }
+  ]
 }
