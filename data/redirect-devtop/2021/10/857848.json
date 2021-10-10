@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-09T22:09:27Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DMrCI1mT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b1k2bu43ezpexf09whfp.png",
   "author": "Rivier Grullon",
-  "author_url": "https://dev.to/riviergrullon"
+  "author_url": "https://dev.to/riviergrullon",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "定義 リンクリストとは、直線的なデータ構造で、...の集まりを表す。",
+      "title": "Javascriptのデータ構造 - リンクドリスト"
+    },
+    {
+      "locale": "zh",
+      "description": "定义 链表是一种线性数据结构，它代表了一组...的集合。",
+      "title": "Javascript数据结构--关联列表"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "定義 鏈表是一種線性數據結構，它代表了一組...的集合。",
+      "title": "Javascript數據結構--關聯列表"
+    }
+  ]
 }
