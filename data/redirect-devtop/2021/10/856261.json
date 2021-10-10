@@ -52,5 +52,22 @@
   "original_created_at": "2021-10-08T12:11:01Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--aTiaOuct--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zp6wy1gd83f5uxzdv8qx.png",
   "author": "Marc Garcia Torrent",
-  "author_url": "https://dev.to/magarrent"
+  "author_url": "https://dev.to/magarrent",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "開発者やウェブデザイナーとして、ウェブフォームを作成する際には、何らかのアクションを指定する必要があります。その...",
+      "title": "コードやバックエンドなしでウェブフォームを送信する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "作为一个开发人员或网页设计师，当你创建一个网页表单时，你需要指定一些动作。这个动作是什么？",
+      "title": "如何在没有代码或任何后台的情况下发送一个网络表格"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "作爲一個開發人員或網頁設計師，當你創建一個網頁表單時，你需要指定一些動作。這個動作是什麼？",
+      "title": "如何在沒有代碼或任何後臺的情況下發送一個網絡表格"
+    }
+  ]
 }
