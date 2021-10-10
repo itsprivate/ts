@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] 全死因による死亡者数の変化率（州別、2021年対2020年）。増加率が大きいのはAR、MT、OK、減少率が大きいのはNJ、NY、MA"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]所有原因导致的死亡的百分比变化（按州划分 2021年与2020年）。AR、MT、OK的增幅最大；NJ、NY、MA的降幅最大"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]所有原因導致的死亡的百分比變化（按州劃分 2021年與2020年）。AR、MT、OK的增幅最大；NJ、NY、MA的降幅最大"
+    }
+  ]
 }
