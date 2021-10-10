@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-09T12:07:19Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KSDzkde4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/htmgfgfy1dfg5aq47boc.png",
   "author": "HasOne",
-  "author_url": "https://dev.to/hasone"
+  "author_url": "https://dev.to/hasone",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "従来のMaterial-ui 4からMaterial-ui 5（mui-5）への移行を予定しています。このバージョンでは、多くの素晴らしいものを見ることができます。",
+      "title": "Material-UI 4からMui-5への移行について"
+    },
+    {
+      "locale": "zh",
+      "description": "我们将把传统的Material-ui 4迁移到Material-ui 5（mui-5）。在这个版本中，我们将看到很多令人惊奇的东西。",
+      "title": "将Material-UI 4迁移至Mui-5"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們將把傳統的Material-ui 4遷移到Material-ui 5（mui-5）。在這個版本中，我們將看到很多令人驚奇的東西。",
+      "title": "將Material-UI 4遷移至Mui-5"
+    }
+  ]
 }
