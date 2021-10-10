@@ -65,5 +65,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "感電したサルに応急処置を施して生き返らせたサル。"
+    },
+    {
+      "locale": "zh",
+      "title": "通过急救使触电的猴子起死回生的猴子。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "通過急救使觸電的猴子起死回生的猴子。"
+    }
+  ]
 }
