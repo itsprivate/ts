@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-10T23:59:52Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XX3Pjmss--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nizg5oobp3ajhnaj78ra.png",
   "author": "MIftahul Arifin",
-  "author_url": "https://dev.to/arifintahu"
+  "author_url": "https://dev.to/arifintahu",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "標準化された構造のプロジェクトを構築することで、私たちの時間を大幅に節約することができます。私たちはビジネスに集中することができます...",
+      "title": "タイプスクリプトで書かれたAPIプロジェクトのテンプレート"
+    },
+    {
+      "locale": "zh",
+      "description": "用标准化的结构建造项目可以节省我们很多时间。我们可以专注于业务...",
+      "title": "API项目模板，用Typescript编写"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "用標準化的結構建造項目可以節省我們很多時間。我們可以專注於業務...",
+      "title": "API項目模板，用Typescript編寫"
+    }
+  ]
 }
