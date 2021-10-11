@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "メンタルヘルスを向上させるために行ったことはありますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你做了什么，改善了你的心理健康？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你做了什麼，改善了你的心理健康？"
+    }
+  ]
 }
