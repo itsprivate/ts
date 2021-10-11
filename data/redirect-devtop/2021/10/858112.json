@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-10T06:29:52Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lhj3drsu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kja6omthh4j6ev09n1le.png",
   "author": "Jaspal Singh",
-  "author_url": "https://dev.to/jaspalsingh1998"
+  "author_url": "https://dev.to/jaspalsingh1998",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは。今回はこのプラットフォームでの初めてのブログで、正規表現を学びます。",
+      "title": "クールなプロジェクトでJavaScriptのRegExを実現🔥。"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，这是我在这个平台上的第一篇博客，我们将在其中学习Rgex。",
+      "title": "在JavaScript中使用RegEx的一个很酷的项目 🔥"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，這是我在這個平臺上的第一篇博客，我們將在其中學習Rgex。",
+      "title": "在JavaScript中使用RegEx的一個很酷的項目 🔥"
+    }
+  ]
 }
