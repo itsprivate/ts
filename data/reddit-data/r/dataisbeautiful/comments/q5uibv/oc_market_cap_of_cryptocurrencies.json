@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] 暗号通貨のマーケットキャップ"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC] 加密货币的市值"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC] 加密貨幣的市值"
+    }
+  ]
 }
