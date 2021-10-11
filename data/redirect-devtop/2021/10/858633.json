@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-10T18:21:13Z",
   "image": "https://dev.to/social_previews/article/858633.png",
   "author": "Mr.Shah",
-  "author_url": "https://dev.to/shahstavan"
+  "author_url": "https://dev.to/shahstavan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "アニメーションやトランジションなど、何か面白いものに出会ったとき、私たちは多くの場合、...",
+      "title": "Typed.jsを使ったWebサイトのターミナルアニメーション"
+    },
+    {
+      "locale": "zh",
+      "description": "很多时候，当我们遇到一些有趣的事情，如动画或转场，我们会...",
+      "title": "使用Typed.js为您的网站制作终端动画"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "很多時候，當我們遇到一些有趣的事情，如動畫或轉場，我們會...",
+      "title": "使用Typed.js爲您的網站製作終端動畫"
+    }
+  ]
 }
