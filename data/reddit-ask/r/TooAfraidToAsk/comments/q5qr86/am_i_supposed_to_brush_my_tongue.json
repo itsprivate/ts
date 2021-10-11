@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "I've never heard about it but recently I saw a post saying how you're supposed\nto do it and now I'm curious"
+  "the_new_excerpt": "I've never heard about it but recently I saw a post saying how you're supposed\nto do it and now I'm curious",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私はそれについて聞いたことがありませんでしたが、最近、あなたがどのようにすべきかという記事を見ました。\nと書いてあるのを見て、興味を持ちました。",
+      "title": "舌を磨けばいいの？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我从来没有听说过它，但最近我看到一个帖子，说你应该如何\n做的，现在我很好奇了。",
+      "title": "我应该刷舌头吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我從來沒有聽說過它，但最近我看到一個帖子，說你應該如何\n做的，現在我很好奇了。",
+      "title": "我應該刷舌頭嗎？"
+    }
+  ]
 }
