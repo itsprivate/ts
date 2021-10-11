@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "What's up, a few weeks ago I created an open-source prototype to translate manga\nand comic image text, only using free resources... since that, I recreated\neverything using paid resources (better results) and this is the first result I\ngot, from left to right: original image in Korean, human…"
+  "the_new_excerpt": "What's up, a few weeks ago I created an open-source prototype to translate manga\nand comic image text, only using free resources... since that, I recreated\neverything using paid resources (better results) and this is the first result I\ngot, from left to right: original image in Korean, human…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "数週間前、私は漫画やコミックの画像を翻訳するオープンソースのプロトタイプを作りました。\nのテキストを翻訳するオープンソースのプロトタイプを作りました。\nその後、有料のリソースを使用してすべてを再現しました（より良い結果が得られました）。\n左から右へ：韓国語のオリジナル画像、人間の...",
+      "title": "マンガやコミックをあらゆる言語からあらゆる言語へ自動翻訳するプロトタイプ"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "怎么了，几周前我创建了一个开源原型，用于翻译漫画\n和漫画图像文本的开源原型，但只使用了免费资源......此后，我使用付费资源重新创建了\n自那以后，我使用付费资源重新创建了一切（结果更好），这是我得到的第一个结果。\n这是我得到的第一个结果，从左到右：韩语的原始图像，人...",
+      "title": "从任何语言到任何语言的自动漫画翻译原型"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "怎麼了，幾周前我創建了一個開源原型，用於翻譯漫畫\n和漫畫圖像文本的開源原型，但只使用了免費資源......此後，我使用付費資源重新創建了\n自那以後，我使用付費資源重新創建了一切（結果更好），這是我得到的第一個結果。\n這是我得到的第一個結果，從左到右：韓語的原始圖像，人...",
+      "title": "從任何語言到任何語言的自動漫畫翻譯原型"
+    }
+  ]
 }
