@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-10T10:09:10Z"
+  "original_createdAt": "2021-10-10T10:09:10Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "BlogToNFTは、自分のNFTを作りたいと思っているすべてのライター/ブロガーのためのものです。BlogToNFTでは、ブロガー/ライターは自分の所有権を証明する必要があり、詳細を追加した後、簡単にNFTをブロックチェーンに公開することができますが、これはopensea上でも見ることができます。",
+      "tagline": "OpenseaでのNFTとしてのブログのサインと販売"
+    },
+    {
+      "locale": "zh",
+      "description": "BlogToNFT是为所有希望创建自己的NFT的作家/博客而设。在BlogToNFT，博主/作者必须证明他们的所有权，在添加详细信息后，他们可以很容易地将NFT直接发布到区块链上，这在开放平台上也是可见的。",
+      "tagline": "在Opensea上为你的博客签名并作为NFT出售"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "BlogToNFT是爲所有希望創建自己的NFT的作家/博客而設。在BlogToNFT，博主/作者必須證明他們的所有權，在添加詳細信息後，他們可以很容易地將NFT直接發佈到區塊鏈上，這在開放平臺上也是可見的。",
+      "tagline": "在Opensea上爲你的博客簽名並作爲NFT出售"
+    }
+  ]
 }
