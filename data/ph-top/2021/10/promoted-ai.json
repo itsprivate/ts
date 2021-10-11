@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-11T07:05:00Z"
+  "original_createdAt": "2021-10-11T07:05:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Promotedは、オーガニック検索、プロモーション、広告を一体化し、マーケットプレイスに最適化したシステムです。マーケットプレイスの検索をソートし、最適なリスティングを上位にプロモーションすることで、収益を向上させます。http://promoted.ai",
+      "tagline": "マーケットプレイスの検索・フィードランキング"
+    },
+    {
+      "locale": "zh",
+      "description": "Promoted将有机搜索、促销活动和广告统一在一个优化的市场系统中。我们对您的市场搜索进行分类，并在顶部推广最好的房源，以增加收入。http://promoted.ai",
+      "tagline": "市场的搜索和饲料排名"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Promoted將有機搜索、促銷活動和廣告統一在一個優化的市場系統中。我們對您的市場搜索進行分類，並在頂部推廣最好的房源，以增加收入。http://promoted.ai",
+      "tagline": "市場的搜索和飼料排名"
+    }
+  ]
 }
