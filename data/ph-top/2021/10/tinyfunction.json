@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-11T07:04:57Z"
+  "original_createdAt": "2021-10-11T07:04:57Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TinyFunctionでは、クラウド関数（～AWS Lambda）を書いてすぐにデプロイすることができます。TinyFunction.comにアクセスして、関数のコードを書き、Deployボタンをクリックするだけで完了です。",
+      "tagline": "世界最速でクラウド機能を実現する"
+    },
+    {
+      "locale": "zh",
+      "description": "TinyFunction允许你立即编写和部署云函数（~AWS Lambda的）。访问TinyFunction.com，编写函数代码并点击部署按钮，就可以了。",
+      "tagline": "世界上最快的创建云功能的方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "TinyFunction允許你立即編寫和部署雲函數（~AWS Lambda的）。訪問TinyFunction.com，編寫函數代碼並點擊部署按鈕，就可以了。",
+      "tagline": "世界上最快的創建雲功能的方法"
+    }
+  ]
 }
