@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-11T07:52:39Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SrS-4f18--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rd6ggkcsa9blubtu6bz6.png",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "React、Node JS、Material-UIデザインの上に、AppSeedとCreative-Timによって作られたオープンソースのフルスタックプロジェクトです。ソフトダッシュボード（オープンソースプロジェクト）。",
+      "title": "Node JS React Soft Dashboard - Free Version"
+    },
+    {
+      "locale": "zh",
+      "description": "由AppSeed和Creative-Tim在React、Node JS和Material-UI设计之上精心打造的开源全栈项目。Soft Dashboard（开源项目）。",
+      "title": "Node JS React Soft Dashboard - 免费版"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "由AppSeed和Creative-Tim在React、Node JS和Material-UI設計之上精心打造的開源全棧項目。Soft Dashboard（開源項目）。",
+      "title": "Node JS React Soft Dashboard - 免費版"
+    }
+  ]
 }
