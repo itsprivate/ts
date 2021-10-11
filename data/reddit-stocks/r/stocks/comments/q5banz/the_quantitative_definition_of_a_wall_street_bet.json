@@ -104,5 +104,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1633883110,
-  "the_new_excerpt": "There is a mathematical boundary that distinguishes a Wall Street Bet from an\nordinary trade. This boundary may be described as the point at which the\nexpected geometric growth rate of a trade becomes negative. The minimum fraction\nof ones available capital, w, needed to qualify a trade as a Wall…"
+  "the_new_excerpt": "There is a mathematical boundary that distinguishes a Wall Street Bet from an\nordinary trade. This boundary may be described as the point at which the\nexpected geometric growth rate of a trade becomes negative. The minimum fraction\nof ones available capital, w, needed to qualify a trade as a Wall…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ウォールストリート・ベットと通常のトレードを区別する数学的な境界線があります。\n普通のトレードと区別する数学的な境界があります。この境界は、トレードの期待される幾何学的成長率が、次のようになる点と言えるでしょう。\nトレードの幾何学的期待成長率がマイナスになるポイントと言えます。利用可能な資本の最小割合\nある取引をウォール・ストリート・ベットと認定するために必要な、利用可能な資本の最小割合wは...",
+      "title": "\"Wall Street Bet \"の定量的な定義"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "有一个数学上的界限，将华尔街的赌注与普通的交易区分开来。\n普通交易。这个界限可以被描述为一个交易的预期几何增长率变成负数的点。\n边界可描述为交易的预期几何增长率变成负数的点。的最小部分。\n的最小部分，即w，需要将一项交易定性为华尔街赌注。",
+      "title": "\"华尔街打赌 \"的量化定义"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "有一個數學上的界限，將華爾街的賭注與普通的交易區分開來。\n普通交易。這個界限可以被描述爲一個交易的預期幾何增長率變成負數的點。\n邊界可描述爲交易的預期幾何增長率變成負數的點。的最小部分。\n的最小部分，即w，需要將一項交易定性爲華爾街賭注。",
+      "title": "\"華爾街打賭 \"的量化定義"
+    }
+  ]
 }
