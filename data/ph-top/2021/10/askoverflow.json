@@ -57,5 +57,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-11T07:03:10Z"
+  "original_createdAt": "2021-10-11T07:03:10Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "AskOverflowでは、エディタを開いたままStackOverflowに質問をすることができます。",
+      "tagline": "VS Codeの中からStackOverflowに直接質問することができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "AskOverflow让你在不离开编辑器的情况下向StackOverflow提出问题。",
+      "tagline": "直接从VS Code内部向StackOverflow提问"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "AskOverflow讓你在不離開編輯器的情況下向StackOverflow提出問題。",
+      "tagline": "直接從VS Code內部向StackOverflow提問"
+    }
+  ]
 }
