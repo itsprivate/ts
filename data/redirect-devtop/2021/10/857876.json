@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-09T23:34:21Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7njcma7M--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/npgfl9u2fnh4mxverl5f.png",
   "author": "Fernando Rojo",
-  "author_url": "https://dev.to/nandotherojo"
+  "author_url": "https://dev.to/nandotherojo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "スピナーよりスケルトンの方がいい。データを更新したり、より多くのデータを取得したりする場合は、スピナーを表示します。でも...。",
+      "title": "ローディングスピナーの使用中止"
+    },
+    {
+      "locale": "zh",
+      "description": "骷髅头比纺纱机好。如果你在刷新数据，或获取更多的数据，就显示一个旋转器。但是...",
+      "title": "停止使用装载旋转器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "骷髏頭比紡紗機好。如果你在刷新數據，或獲取更多的數據，就顯示一個旋轉器。但是...",
+      "title": "停止使用裝載旋轉器"
+    }
+  ]
 }
