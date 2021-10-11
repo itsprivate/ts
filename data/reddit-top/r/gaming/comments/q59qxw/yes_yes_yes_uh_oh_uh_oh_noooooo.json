@@ -49,5 +49,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "はい、はい、はい、あーあ、あーあ、ぬおー"
+    },
+    {
+      "locale": "zh",
+      "title": "是的，是的，是的，嗯，哦，嗯，哦，不，不!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "是的，是的，是的，嗯，哦，嗯，哦，不，不!"
+    }
+  ]
 }
