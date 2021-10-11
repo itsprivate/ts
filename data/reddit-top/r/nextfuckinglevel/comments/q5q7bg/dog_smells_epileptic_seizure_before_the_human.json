@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "人間がてんかん発作を経験する前に、犬がてんかん発作の匂いを嗅ぐ。"
+    },
+    {
+      "locale": "zh",
+      "title": "在人类经历癫痫发作之前，狗就闻到了癫痫发作的味道。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在人類經歷癲癇發作之前，狗就聞到了癲癇發作的味道。"
+    }
+  ]
 }
