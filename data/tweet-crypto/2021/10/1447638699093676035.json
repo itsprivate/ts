@@ -122,5 +122,22 @@
     "retweet_count": 392,
     "favorite_count": 1877,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @100trillionEur: PlanB @100trillionUSD のアカウントが禁止され、削除される危険性があると考えられる理由があります。私のアカウントは...ご了承ください。",
+      "retweeted_status_full_text": "PlanB @100trillionUSDのアカウントが禁止され、削除される危険性があると考えられる理由があります。このような場合、私のアカウントは情報提供のために使用されますので、ご了承ください。また、情報は https://t.co/bgv5hQMP4W https://t.co/mMTJFm8Qol で共有されます。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @100trillionEur: 我们有理由相信PlanB @100trillionUSD的账户有被禁止和删除的风险。请注意，我的账户已经被删除。",
+      "retweeted_status_full_text": "我们有理由相信PlanB @100trillionUSD的账户有被禁止和删除的风险。请知道，在这种情况下，我的账户将被用来提供信息。信息也将在https://t.co/bgv5hQMP4W https://t.co/mMTJFm8Qol 上分享。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @100trillionEur: 我們有理由相信PlanB @100trillionUSD的賬戶有被禁止和刪除的風險。請注意，我的賬戶已經被刪除。",
+      "retweeted_status_full_text": "我們有理由相信PlanB @100trillionUSD的賬戶有被禁止和刪除的風險。請知道，在這種情況下，我的賬戶將被用來提供信息。信息也將在https://t.co/bgv5hQMP4W https://t.co/mMTJFm8Qol 上分享。"
+    }
+  ]
 }
