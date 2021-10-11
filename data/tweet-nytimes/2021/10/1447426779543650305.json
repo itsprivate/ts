@@ -113,5 +113,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Mon Oct 11 05:00:10 +0000 2021"
+  "original_created_at": "Mon Oct 11 05:00:10 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "昨年パンデミックが発生した直後、足の指に痛みを訴える患者が急増し、医師は困惑しました。今回、新しい研究により、その原因が解明されました。https://t.co/wJGAXcFzYR"
+    },
+    {
+      "locale": "zh",
+      "full_text": "去年大流行病爆发后不久，医生们对前来抱怨其脚趾上有疼痛病变的病人激增感到困惑--这种情况后来被称为 \"科维德脚趾\"。现在，一项新的研究对其原因进行了一些说明。https://t.co/wJGAXcFzYR"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "去年大流行病爆發後不久，醫生們對前來抱怨其腳趾上有疼痛病變的病人激增感到困惑--這種情況後來被稱爲 \"科維德腳趾\"。現在，一項新的研究對其原因進行了一些說明。https://t.co/wJGAXcFzYR"
+    }
+  ]
 }
