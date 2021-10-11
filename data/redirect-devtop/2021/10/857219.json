@@ -50,5 +50,22 @@
   "original_created_at": "2021-10-09T07:41:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zU9OljdY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jl21taq5mzibjuqcokix.jpg",
   "author": "Benjioe",
-  "author_url": "https://dev.to/benjioe"
+  "author_url": "https://dev.to/benjioe",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コンテキスト 私は、10年前に開発された大規模なアプリケーション（50万ブロックのコード）を担当していますが、その中には本当にひどいものがあります。",
+      "title": "マイクロサービスは良い選択ですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "背景 我在一个有10年历史的大型应用程序上工作（50万块代码），有一些非常糟糕的情况。",
+      "title": "微服务是一个好的选择吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "背景 我在一個有10年曆史的大型應用程序上工作（50萬塊代碼），有一些非常糟糕的情況。",
+      "title": "微服務是一個好的選擇嗎？"
+    }
+  ]
 }
