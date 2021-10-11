@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-11T07:26:32Z"
+  "original_createdAt": "2021-10-11T07:26:32Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "メタ・ディスクリプションを書くのは楽しいことではありません。私たちの微調整されたGPT-3モデルを使って、あなたに代わってやってみましょう。",
+      "tagline": "GPT-3にあなたのWebページのメタ・ディスクリプションを書かせてみませんか？"
+    },
+    {
+      "locale": "zh",
+      "description": "撰写元描述并不有趣。使用我们经过微调的GPT-3模型来为你做这件事。",
+      "tagline": "让GPT-3为您的网页编写元描述"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "撰寫元描述並不有趣。使用我們經過微調的GPT-3模型來爲你做這件事。",
+      "tagline": "讓GPT-3爲您的網頁編寫元描述"
+    }
+  ]
 }

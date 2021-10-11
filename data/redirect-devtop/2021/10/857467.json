@@ -43,5 +43,22 @@
   "original_created_at": "2021-10-09T13:36:14Z",
   "image": "https://dev.to/social_previews/article/857467.png",
   "author": "Siddharth Chaudhary",
-  "author_url": "https://dev.to/sidcraftscode"
+  "author_url": "https://dev.to/sidcraftscode",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Tailwind CSSは、ユーティリティベースのフレームワークです。これは多くの点で素晴らしいことです。しかし、Tailwind CSSは...",
+      "title": "Tailwind CSSで見栄えのするボタンを作る方法"
+    },
+    {
+      "locale": "zh",
+      "description": "Tailwind CSS是一个基于实用的框架。这在很多方面都很好。然而，Tailwind CSS并没有...",
+      "title": "如何用Tailwind CSS制作一个好看的按钮"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Tailwind CSS是一個基於實用的框架。這在很多方面都很好。然而，Tailwind CSS並沒有...",
+      "title": "如何用Tailwind CSS製作一個好看的按鈕"
+    }
+  ]
 }
