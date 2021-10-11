@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今までに聞いた自分の噂の中で一番クレイジーなものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你听说过的关于你自己的最疯狂的传言是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你聽說過的關於你自己的最瘋狂的傳言是什麼？"
+    }
+  ]
 }
