@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "自転車に搭載されたレーザーガイド付きGPS"
+    },
+    {
+      "locale": "zh",
+      "title": "自行车上的激光制导GPS"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "自行車上的激光制導GPS"
+    }
+  ]
 }
