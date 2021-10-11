@@ -42,5 +42,22 @@
   "original_created_at": "2021-10-10T05:23:06Z",
   "image": "https://dev.to/social_previews/article/858008.png",
   "author": "Phylis Jepchumba",
-  "author_url": "https://dev.to/phylis"
+  "author_url": "https://dev.to/phylis",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "データ構造とは、データを整理して保存し、アクセスや操作ができるようにする方法です。",
+      "title": " Pythonによるデータ構造とアルゴリズムの紹介"
+    },
+    {
+      "locale": "zh",
+      "description": "数据结构是一种组织和存储数据的方式，以便它们可以被访问和使用。",
+      "title": " Python中的数据结构和算法介绍"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "數據結構是一種組織和存儲數據的方式，以便它們可以被訪問和使用。",
+      "title": " Python中的數據結構和算法介紹"
+    }
+  ]
 }
