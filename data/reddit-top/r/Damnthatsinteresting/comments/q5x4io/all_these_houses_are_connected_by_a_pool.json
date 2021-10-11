@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これらの家はすべてプールでつながっている"
+    },
+    {
+      "locale": "zh",
+      "title": "所有这些房子都由一个游泳池连接"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "所有這些房子都由一個游泳池連接"
+    }
+  ]
 }
