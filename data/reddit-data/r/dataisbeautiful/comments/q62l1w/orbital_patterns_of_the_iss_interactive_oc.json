@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ISSのオービタルパターン - インタラクティブ [OC)"
+    },
+    {
+      "locale": "zh",
+      "title": "国际空间站的轨道模式 - 互动 [OC]"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "國際空間站的軌道模式 - 互動 [OC]"
+    }
+  ]
 }

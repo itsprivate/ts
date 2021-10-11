@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-10T10:51:11Z",
   "image": "https://dev.to/social_previews/article/858312.png",
   "author": "The Nerdy Dev",
-  "author_url": "https://dev.to/thenerdydev"
+  "author_url": "https://dev.to/thenerdydev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは👋🏻 先日、React Projects Every Beginner...について言及した記事を書きました。",
+      "title": "✨Vue.jsを学ぶためのリソーストップ5【順不同"
+    },
+    {
+      "locale": "zh",
+      "description": "嘿，大家好👋🏻，我最近写了一篇文章，其中我提到了React项目，每一个初学者都会有。",
+      "title": "✨ 学习Vue.js的五大资源[排名不分先后]"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嘿，大家好👋🏻，我最近寫了一篇文章，其中我提到了React項目，每一個初學者都會有。",
+      "title": "✨ 學習Vue.js的五大資源[排名不分先後]"
+    }
+  ]
 }
