@@ -27,5 +27,19 @@
   },
   "retweet_count": 47,
   "favorite_count": 234,
-  "original_created_at": "Sun Oct 10 19:05:25 +0000 2021"
+  "original_created_at": "Sun Oct 10 19:05:25 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "$luvはスタッフ不足のため、日曜日に最大1,000便のフライトをキャンセルします ###。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "由于人员短缺，周日LUV取消了超过1000个航班 ###"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "由於人員短缺，週日LUV取消了超過1000個航班 ###"
+    }
+  ]
 }

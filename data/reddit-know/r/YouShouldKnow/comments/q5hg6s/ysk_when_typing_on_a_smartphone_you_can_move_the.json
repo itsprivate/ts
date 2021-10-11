@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Why YSK: This is a lot easier than the alternative of dragging the insertion\npoint, especially if the text is small.\n\nThis feature is on Android and iPhone.\n\n\"Insertion point\" = \"cursor\" = \"blinking vertical line thingy\""
+  "the_new_excerpt": "Why YSK: This is a lot easier than the alternative of dragging the insertion\npoint, especially if the text is small.\n\nThis feature is on Android and iPhone.\n\n\"Insertion point\" = \"cursor\" = \"blinking vertical line thingy\"",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "なぜYSKなのかというと、挿入ポイントをドラッグする方法よりもずっと簡単だからです。\n特にテキストが小さい場合は、挿入ポイントをドラッグするよりもずっと簡単です。\n\nこの機能はAndroidとiPhoneに搭載されています。\n\n「挿入点」＝「カーソル」＝「点滅する縦線」。",
+      "title": "YSK: スマートフォンで文字を入力する際、スペースバーを押しながら親指を横に動かすと、挿入位置を移動させることができます。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么选择YSK：这比拖动插入点的做法要容易得多。\n点要容易得多，特别是当文本很小的时候。\n\n这个功能在Android和iPhone上。\n\n\"插入点\"=\"光标\"=\"闪烁的垂直线小东西\"",
+      "title": "YSK：在智能手机上打字时，你可以通过按住空格键和横向移动你的拇指来移动插入点。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼選擇YSK：這比拖動插入點的做法要容易得多。\n點要容易得多，特別是當文本很小的時候。\n\n這個功能在Android和iPhone上。\n\n\"插入點\"=\"光標\"=\"閃爍的垂直線小東西\"",
+      "title": "YSK：在智能手機上打字時，你可以通過按住空格鍵和橫向移動你的拇指來移動插入點。"
+    }
+  ]
 }
