@@ -65,5 +65,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "GMバイブチェック"
+    },
+    {
+      "locale": "zh",
+      "title": "通用汽车公司的气场检查"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "通用汽車公司的氣場檢查"
+    }
+  ]
 }
