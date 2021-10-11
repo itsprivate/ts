@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC】では、ミネアポリスの街中で迷路を走りました。詳細はコメントにて...."
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]所以我在明尼阿波利斯的街道上跑了一个迷宫。详情见评论...."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]所以我在明尼阿波利斯的街道上跑了一個迷宮。詳情見評論...."
+    }
+  ]
 }
