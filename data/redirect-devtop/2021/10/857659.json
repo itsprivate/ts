@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-09T16:27:43Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gAq_OZUF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2gejcuf24ts6tek2qnso.jpeg",
   "author": "Amer Sikira",
-  "author_url": "https://dev.to/amersikira"
+  "author_url": "https://dev.to/amersikira",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事はwebinuse.comに掲載されたものです。 今回はシリーズ3回目の記事です。私たちは...",
+      "title": "JavaScriptでオブジェクトをマージするには？"
+    },
+    {
+      "locale": "zh",
+      "description": "这篇文章最初发表在webinuse.com上 这是该系列的第三篇文章。我们...",
+      "title": "如何在JavaScript中合并对象？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這篇文章最初發表在webinuse.com上 這是該系列的第三篇文章。我們...",
+      "title": "如何在JavaScript中合併對象？"
+    }
+  ]
 }
