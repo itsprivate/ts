@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Tell Me"
+    },
+    {
+      "locale": "zh",
+      "title": "告诉我"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "告訴我"
+    }
+  ]
 }
