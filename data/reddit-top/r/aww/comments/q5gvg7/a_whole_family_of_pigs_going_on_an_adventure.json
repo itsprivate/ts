@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "豚の家族全員で冒険に出る"
+    },
+    {
+      "locale": "zh",
+      "title": "一家子的猪去冒险了"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一家子的豬去冒險了"
+    }
+  ]
 }
