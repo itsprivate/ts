@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-09T20:19:25Z",
   "image": "https://dev.to/social_previews/article/857833.png",
   "author": "Aravind Sanjeev",
-  "author_url": "https://dev.to/aravsanj"
+  "author_url": "https://dev.to/aravsanj",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JSONとは、JavaScript Object Notationの略です。JSONはJavaScript Object Notationの略です。",
+      "title": "JSON: All You Need to Know"
+    },
+    {
+      "locale": "zh",
+      "description": "JSON是JavaScript Object Notation的缩写。它是一种用于通信的数据交换格式。",
+      "title": "JSON：你需要知道的一切"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "JSON是JavaScript Object Notation的縮寫。它是一種用於通信的數據交換格式。",
+      "title": "JSON：你需要知道的一切"
+    }
+  ]
 }
