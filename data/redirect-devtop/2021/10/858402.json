@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-10T14:30:33Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Yzopuw37--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b09winy1kwyg6qsytw7g.png",
   "author": "Abhinav Pandey",
-  "author_url": "https://dev.to/abh1navv"
+  "author_url": "https://dev.to/abh1navv",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "現代社会が直面する課題を解決する試みとして、マイクロサービスが登場してからしばらく経ちました。",
+      "title": "ドメイン駆動設計の理解（ピザを含む "
+    },
+    {
+      "locale": "zh",
+      "description": "自从微服务出现以来，已经有一段时间了，它试图回答我们在现代生活中面临的挑战。",
+      "title": "了解领域驱动设计与一些比萨饼 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "自從微服務出現以來，已經有一段時間了，它試圖回答我們在現代生活中面臨的挑戰。",
+      "title": "瞭解領域驅動設計與一些比薩餅 "
+    }
+  ]
 }
