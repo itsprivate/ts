@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "POVの使い方は間違っていなかったか？"
+    },
+    {
+      "locale": "zh",
+      "title": "我使用POV的方式对吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我使用POV的方式對嗎？"
+    }
+  ]
 }
