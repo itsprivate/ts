@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "読書はカモのもの"
+    },
+    {
+      "locale": "zh",
+      "title": "读书是为了吸人眼球"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "讀書是爲了吸人眼球"
+    }
+  ]
 }
