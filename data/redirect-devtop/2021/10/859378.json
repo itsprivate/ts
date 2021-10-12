@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-11T08:56:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8VXAhuzR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uxwexbymn7hgykxapvd7.jpg",
   "author": "Vic Shóstak",
-  "author_url": "https://dev.to/koddr"
+  "author_url": "https://dev.to/koddr",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに Hey, DEV people! 👋 ここでは、時間をかけて検証されたオンラインツールの小さなセレクションをご紹介します...",
+      "title": "🌈 ウェブサイトの副次的なビジュアル要素を作成するための素晴らしいツールです。"
+    },
+    {
+      "locale": "zh",
+      "description": "简介：嘿，DEV们！这里有一小部分经过时间考验的在线工具，它们可以让你的工作更有效率。👋 这里有一小部分经过时间考验的在线工具，这些工具可以让你的工作更有效率。",
+      "title": "🌈 为你的网站创建二级视觉元素的奇妙工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介：嘿，DEV們！這裏有一小部分經過時間考驗的在線工具，它們可以讓你的工作更有效率。👋 這裏有一小部分經過時間考驗的在線工具，這些工具可以讓你的工作更有效率。",
+      "title": "🌈 爲你的網站創建二級視覺元素的奇妙工具"
+    }
+  ]
 }
