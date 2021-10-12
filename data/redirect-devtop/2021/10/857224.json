@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-09T07:59:07Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Zr-ddGh4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vp46impflwmulu2lo70q.png",
   "author": "Madza",
-  "author_url": "https://dev.to/madza"
+  "author_url": "https://dev.to/madza",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "基本的な技術を知らないと、サイズが大きくなったり、性能に影響が出たり、余計なことをしてしまうことがあります。",
+      "title": "複雑なライブラリを避けるための12のシンプルなHTMLスニペット⚡✨。"
+    },
+    {
+      "locale": "zh",
+      "description": "不了解基本技术有时会增加尺寸，影响性能，并增加额外的...",
+      "title": "12个简单的HTML片段来避免复杂的库 ⚡✨"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "不瞭解基本技術有時會增加尺寸，影響性能，並增加額外的...",
+      "title": "12個簡單的HTML片段來避免複雜的庫 ⚡✨"
+    }
+  ]
 }

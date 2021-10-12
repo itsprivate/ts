@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-03T17:27:59Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6Rx_lxUR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bn8wzc7voza14lx8mlsm.jpg",
   "author": "Alex Omeyer",
-  "author_url": "https://dev.to/alexomeyer"
+  "author_url": "https://dev.to/alexomeyer",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "拡張機能は、開発者としての私たちの生活を少しでも楽にしてくれます。それがVisual Studio Codeであれ、...",
+      "title": "バックエンド開発者のための6つのChrome & VS Code Extensions"
+    },
+    {
+      "locale": "zh",
+      "description": "扩展可以使我们作为开发者的生活更容易一些。无论它们是Visual Studio Code还是...",
+      "title": "6个针对后端开发人员的Chrome和VS代码扩展程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "擴展可以使我們作爲開發者的生活更容易一些。無論它們是Visual Studio Code還是...",
+      "title": "6個針對後端開發人員的Chrome和VS代碼擴展程序"
+    }
+  ]
 }
