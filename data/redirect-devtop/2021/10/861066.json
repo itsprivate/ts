@@ -48,5 +48,22 @@
   "original_created_at": "2021-10-12T14:13:26Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--N5_s3Y5F--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jefs7is2ojtben5f2t5f.jpeg",
   "author": "CAST AI",
-  "author_url": "https://dev.to/castai"
+  "author_url": "https://dev.to/castai",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Kubernetesのための完全に自動化されたクラウドコスト最適化という約束を実現するために、私たちは10ドルの資金を調達しました。",
+      "title": "1000万ドルを投じてKubernetesを最適化。CAST AIがシリーズAを調達、トップ3のクラウドプロバイダーにサポートを拡大"
+    },
+    {
+      "locale": "zh",
+      "description": "为了实现我们对Kubernetes全自动云计算成本优化的承诺，我们筹集了10美元。",
+      "title": "1000万美元用于优化Kubernetes。CAST AI获得A轮融资，并将支持范围扩大到前三大云供应商"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "爲了實現我們對Kubernetes全自動雲計算成本優化的承諾，我們籌集了10美元。",
+      "title": "1000萬美元用於優化Kubernetes。CAST AI獲得A輪融資，並將支持範圍擴大到前三大雲供應商"
+    }
+  ]
 }
