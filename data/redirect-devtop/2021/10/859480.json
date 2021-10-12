@@ -52,5 +52,22 @@
   "original_created_at": "2021-10-11T11:00:22Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IM9iLSuD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9366qz58aelrz6clo2ou.png",
   "author": "Luka Kukina",
-  "author_url": "https://dev.to/lukacbt"
+  "author_url": "https://dev.to/lukacbt",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "デザイナーが与えてくれた美しいUIを作るだけでなく、複雑なアプリケーションを扱うこともあります。",
+      "title": "フロントエンド開発者がGraphQLを好む5つの理由"
+    },
+    {
+      "locale": "zh",
+      "description": "除了创建我们心爱的设计师给我们的那些漂亮的用户界面，处理复杂的应用程序...",
+      "title": "前端开发人员喜欢GraphQL的5个原因"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "除了創建我們心愛的設計師給我們的那些漂亮的用戶界面，處理複雜的應用程序...",
+      "title": "前端開發人員喜歡GraphQL的5個原因"
+    }
+  ]
 }
