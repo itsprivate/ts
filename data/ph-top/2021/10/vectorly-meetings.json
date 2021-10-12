@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-12T07:29:35Z"
+  "original_createdAt": "2021-10-12T07:29:35Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "👾 Gitlab、Jira、Slackのアクティビティに基づいて、誰が1:1を必要としているのか、なぜ必要なのかを知る 🎯 アジェンダのための質問、アナリティクス、インサイトを用いて、重要なトピックに集中する 💡 コース、メンター、タスク、ゴールを得て、単に議論するだけでなく、問題を解決する Founders on air https://discord.gg/m9KxXg35 🚀。",
+      "tagline": "アジェンダと推奨事項を盛り込んだ1対1のミーティングの実施"
+    },
+    {
+      "locale": "zh",
+      "description": "👾 根据Gitlab、Jira、Slack活动了解谁需要1:1以及为什么 🎯 用问题、分析、洞察力来关注重要的话题，以便于议程 💡 获得课程、导师、任务或目标来解决问题，而不仅仅是讨论问题 🚀 创始人直播https://discord.gg/m9KxXg35。",
+      "tagline": "进行1对1的会议，包括议程和建议"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "👾 根據Gitlab、Jira、Slack活動了解誰需要1:1以及爲什麼 🎯 用問題、分析、洞察力來關注重要的話題，以便於議程 💡 獲得課程、導師、任務或目標來解決問題，而不僅僅是討論問題 🚀 創始人直播https://discord.gg/m9KxXg35。",
+      "tagline": "進行1對1的會議，包括議程和建議"
+    }
+  ]
 }

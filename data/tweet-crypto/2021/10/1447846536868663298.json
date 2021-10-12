@@ -184,5 +184,22 @@
       "retweet_count": 317,
       "favorite_count": 3150
     }
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @lopp: Bruh it's like 5 lines of code. https://t.co/DWxPHFsgJs https://t.co/ssripW7tVy",
+      "retweeted_status_full_text": "Bruh it's like 5 lines of code. https://t.co/DWxPHFsgJs https://t.co/ssripW7tVy"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @lopp: https://t.co/DWxPHFsgJs https://t.co/ssripW7tVy，这就像5行代码。",
+      "retweeted_status_full_text": "就像5行代码。https://t.co/DWxPHFsgJs https://t.co/ssripW7tVy"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @lopp: https://t.co/DWxPHFsgJs https://t.co/ssripW7tVy，這就像5行代碼。",
+      "retweeted_status_full_text": "就像5行代碼。https://t.co/DWxPHFsgJs https://t.co/ssripW7tVy"
+    }
+  ]
 }
