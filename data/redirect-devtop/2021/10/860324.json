@@ -52,5 +52,22 @@
   "original_created_at": "2021-10-12T00:23:51Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GzOpDpNh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x541lcu7atud9e8ec80a.png",
   "author": "Ryland King 🛠",
-  "author_url": "https://dev.to/rylandking"
+  "author_url": "https://dev.to/rylandking",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんなことありますか？(笑)私もです。 ここでは、あなたがどんなことでも、完全に中心に置くための7つの方法をご紹介します。",
+      "title": "CSS地獄から脱出するための7つの方法"
+    },
+    {
+      "locale": "zh",
+      "description": "有过这种情况吗？ 是的，我也是。 这里有7种方法，可以让你在任何情况下都能完全居中...",
+      "title": "逃离CSS地狱的7种方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有過這種情況嗎？ 是的，我也是。 這裏有7種方法，可以讓你在任何情況下都能完全居中...",
+      "title": "逃離CSS地獄的7種方法"
+    }
+  ]
 }
