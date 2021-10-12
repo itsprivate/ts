@@ -88,5 +88,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-12T07:01:00Z"
+  "original_createdAt": "2021-10-12T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Xanoは、No Codeを使ってアプリケーションのスケーラブルなバックエンドを構築する最速の方法です。各Xanoアカウントには、スケーラブルなサーバー、柔軟なデータベース、そしてどこからでもデータを変換、フィルタリング、統合できるNo Code APIビルダーが付属しています。",
+      "tagline": "スケーラブルなバックエンドを最速で構築・導入する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "Xano是使用No Code为你的App建立一个可扩展的后台的最快方式。每个Xano账户都有一个可扩展的服务器、一个灵活的数据库和一个No Code API构建器，可以转换、过滤和整合来自任何地方的数据。",
+      "tagline": "构建和部署可扩展后台的最快方式"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Xano是使用No Code爲你的App建立一個可擴展的後臺的最快方式。每個Xano賬戶都有一個可擴展的服務器、一個靈活的數據庫和一個No Code API構建器，可以轉換、過濾和整合來自任何地方的數據。",
+      "tagline": "構建和部署可擴展後臺的最快方式"
+    }
+  ]
 }
