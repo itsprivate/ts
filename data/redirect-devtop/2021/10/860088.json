@@ -52,5 +52,22 @@
   "original_created_at": "2021-10-11T17:58:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5dTjpdN6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vcjdepolfpa7yjsqlg6n.png",
   "author": "Davide Mauri",
-  "author_url": "https://dev.to/yorek"
+  "author_url": "https://dev.to/yorek",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Typescriptに興味があり、データベースを扱う際にコードファーストなアプローチを好む方は、ぜひご参加ください。",
+      "title": "Typescript、Prisma、Azure SQLによるGraphQLとREST：一目惚れしました"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你对Typescript感兴趣，并且在使用数据库时喜欢采用代码优先的方法，你将会...",
+      "title": "使用Typescript、Prisma和Azure SQL的GraphQL和REST：一见钟情!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你對Typescript感興趣，並且在使用數據庫時喜歡採用代碼優先的方法，你將會...",
+      "title": "使用Typescript、Prisma和Azure SQL的GraphQL和REST：一見鍾情!"
+    }
+  ]
 }
