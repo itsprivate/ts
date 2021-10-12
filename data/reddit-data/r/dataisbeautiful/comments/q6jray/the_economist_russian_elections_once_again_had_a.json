@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "The Economist - ロシアの選挙はまたしても疑わしいほどすっきりした結果になった。"
+    },
+    {
+      "locale": "zh",
+      "title": "经济学人》--俄罗斯选举再次出现了令人怀疑的整齐划一的结果"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "經濟學人》--俄羅斯選舉再次出現了令人懷疑的整齊劃一的結果"
+    }
+  ]
 }
