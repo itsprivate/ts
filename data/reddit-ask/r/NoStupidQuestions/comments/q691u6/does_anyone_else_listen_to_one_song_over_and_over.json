@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Title"
+  "the_new_excerpt": "Title",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "タイトル",
+      "title": "数日間、1つの曲を何度も何度も聴く人はいませんか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "标题",
+      "title": "是否有人会在几天内反复听一首歌？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "標題",
+      "title": "是否有人會在幾天內反覆聽一首歌？"
+    }
+  ]
 }
