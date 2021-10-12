@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "文字通り、何十もの"
+    },
+    {
+      "locale": "zh",
+      "title": "从字面上看，有几十个"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "從字面上看，有幾十個"
+    }
+  ]
 }
