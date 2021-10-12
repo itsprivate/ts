@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "#ビットコインは無限大に向かっている"
+    },
+    {
+      "locale": "zh",
+      "title": "#比特币正在走向无限大的道路上"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "#比特幣正在走向無限大的道路上"
+    }
+  ]
 }
