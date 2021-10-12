@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "その価値は十分にありました。"
+    },
+    {
+      "locale": "zh",
+      "title": "这绝对是值得的"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這絕對是值得的"
+    }
+  ]
 }
