@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-12T07:06:12Z"
+  "original_createdAt": "2021-10-12T07:06:12Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "多言語のソフトウェアプロジェクトのPOファイルの翻訳を管理するのに役立つ無料のオンラインエディタです。Wordpress、Python、Django、Flask、PHP、Symfony、Elixirなどを使っているメーカーに便利です。",
+      "tagline": "ポータブル・オブジェクト・ファイルの翻訳用フリー・エディター"
+    },
+    {
+      "locale": "zh",
+      "description": "一个免费的在线编辑器，帮助您管理多语言软件项目的PO文件中的翻译。对于使用Wordpress、Python、Django、Flask、PHP、Symfony、Elixir等软件的制作者很有用。",
+      "tagline": "可移植对象文件中翻译的免费编辑器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個免費的在線編輯器，幫助您管理多語言軟件項目的PO文件中的翻譯。對於使用Wordpress、Python、Django、Flask、PHP、Symfony、Elixir等軟件的製作者很有用。",
+      "tagline": "可移植對象文件中翻譯的免費編輯器"
+    }
+  ]
 }
