@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-12T02:41:07Z"
+  "original_createdAt": "2021-10-12T02:41:07Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Defi Llamaは、分散型金融の状況について、クロスチェーンのデータを提供するダッシュボードです。正確さと透明性を追求しています。新しいエコシステムを探索するのにとても便利だと感じています",
+      "tagline": "Defiダッシュボード"
+    },
+    {
+      "locale": "zh",
+      "description": "Defi Llama是一个仪表板，提供关于去中心化金融状态的跨链数据。他们致力于准确性和透明度。我发现它对探索新的生态系统非常有用",
+      "tagline": "仪表板"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Defi Llama是一個儀表板，提供關於去中心化金融狀態的跨鏈數據。他們致力於準確性和透明度。我發現它對探索新的生態系統非常有用",
+      "tagline": "儀表板"
+    }
+  ]
 }

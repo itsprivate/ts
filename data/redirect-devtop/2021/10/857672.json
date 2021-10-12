@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-09T17:07:54Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oA1QVmcu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kyox46e4lpjoryxftdi7.png",
   "author": "Collins Mbathi",
-  "author_url": "https://dev.to/collins87mbathi"
+  "author_url": "https://dev.to/collins87mbathi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Express、node、MongoDbを使用したユーザー認証を行うブログサイトAPIを構築する予定です...",
+      "title": "Node、Express、MongoDBでの認証付きブログサイトAPI"
+    },
+    {
+      "locale": "zh",
+      "description": "我们要建立一个博客网站Api，它有使用Express、node和MongoDb的用户认证，...",
+      "title": "在Node、Express和MongoDB中带有认证功能的博客网站API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們要建立一個博客網站Api，它有使用Express、node和MongoDb的用戶認證，...",
+      "title": "在Node、Express和MongoDB中帶有認證功能的博客網站API"
+    }
+  ]
 }
