@@ -11,5 +11,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この日は、コインのATHからの距離を示すCoingeckoのツールを皆さんにお知らせします。"
+    },
+    {
+      "locale": "zh",
+      "title": "今天似乎是个好日子，提醒大家使用Coingecko的工具，显示每个硬币离其ATH有多远，这样你就可以轻松地在销售中取得最大的收益。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "今天似乎是個好日子，提醒大家使用Coingecko的工具，顯示每個硬幣離其ATH有多遠，這樣你就可以輕鬆地在銷售中取得最大的收益。"
+    }
+  ]
 }
