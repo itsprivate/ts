@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ロボットを使って、映画「シュレック」のすべてを書き出してみた"
+    },
+    {
+      "locale": "zh",
+      "title": "我用机器人写出了电影《史莱克》的全部内容"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我用機器人寫出了電影《史萊克》的全部內容"
+    }
+  ]
 }
