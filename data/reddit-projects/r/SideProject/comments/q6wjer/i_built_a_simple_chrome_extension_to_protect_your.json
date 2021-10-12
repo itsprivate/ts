@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "突然の大きな音から耳を守るためのシンプルなクローム拡張機能を作ってみた"
+    },
+    {
+      "locale": "zh",
+      "title": "我建立了一个简单的chrome扩展，以保护你的耳朵不受突然的大噪音影响"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我建立了一個簡單的chrome擴展，以保護你的耳朵不受突然的大噪音影響"
+    }
+  ]
 }
