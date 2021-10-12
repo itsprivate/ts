@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-11T06:59:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VEGt-3jK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ud0xtevnbkseziobh9jm.png",
   "author": "Rupak Dey",
-  "author_url": "https://dev.to/deyrupak"
+  "author_url": "https://dev.to/deyrupak",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "後で保存する。  こんにちは。この記事を通して、ダッシュボードのウィジェットを作る方法を見てみましょう（カバーに...",
+      "title": "Tailwind CSSとChart.jsを使ったダッシュボードウィジェット"
+    },
+    {
+      "locale": "zh",
+      "description": "留待以后。  你好。通过这篇文章，我们将看到如何制作一个仪表板小部件（在封面...",
+      "title": "使用Tailwind CSS和Chart.js的仪表板小工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "留待以後。  你好。通過這篇文章，我們將看到如何製作一個儀表板小部件（在封面...",
+      "title": "使用Tailwind CSS和Chart.js的儀表板小工具"
+    }
+  ]
 }
