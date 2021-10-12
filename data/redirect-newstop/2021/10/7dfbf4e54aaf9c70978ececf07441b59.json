@@ -14,5 +14,19 @@
   "tags": [
     "ABC News"
   ],
-  "image": "https://s.abcnews.com/images/US/211012_vod_onlocation_hpMain_16x9_992.jpg"
+  "image": "https://s.abcnews.com/images/US/211012_vod_onlocation_hpMain_16x9_992.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ギリシャのクレタ島でマグニチュード6.3の地震が発生"
+    },
+    {
+      "locale": "zh",
+      "title": "希腊克里特岛发生6.3级地震"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "希臘克里特島發生6.3級地震"
+    }
+  ]
 }
