@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-09T02:19:39Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--T1-ZM1Xa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/va7aaae37v8f9j5eh9np.png",
   "author": "Caleb O.",
-  "author_url": "https://dev.to/seven"
+  "author_url": "https://dev.to/seven",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "インターネット上の人々の情報にアクセスする方法を考えたことがありますか？例えば、どんな...",
+      "title": "Reactで人の顧客データベースを構築する"
+    },
+    {
+      "locale": "zh",
+      "description": "有没有想过如何在互联网上获取大量的人的信息？比如，任何...",
+      "title": "在React中建立一个客户数据库的人"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有沒有想過如何在互聯網上獲取大量的人的信息？比如，任何...",
+      "title": "在React中建立一個客戶數據庫的人"
+    }
+  ]
 }

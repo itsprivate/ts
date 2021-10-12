@@ -136,5 +136,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "EUの温室効果ガス排出量[OC]."
+    },
+    {
+      "locale": "zh",
+      "title": "欧盟的温室气体排放[OC]"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "歐盟的溫室氣體排放[OC]"
+    }
+  ]
 }
