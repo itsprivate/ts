@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-13T07:01:00Z"
+  "original_createdAt": "2021-10-13T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Sidedriveは、Google Driveを使用する際に、画面にサイドバーを追加します。ファイルを移動したり、メモしたりするのが簡単になります。⠀ ドラッグ＆ドロップ、サムネイルプレビュー、検索などで、ワークフローをレベルアップ。",
+      "tagline": "Notionのサイドバーを使ったGoogleドライブ"
+    },
+    {
+      "locale": "zh",
+      "description": "Sidedrive在使用Google Drive时为你的屏幕添加了一个侧边栏。让你更容易跳转文件和写下东西。⠀ 通过拖放、缩略图预览、搜索等功能，提高你的工作流程水平。",
+      "tagline": "谷歌驱动器与Notion的侧边栏"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Sidedrive在使用Google Drive時爲你的屏幕添加了一個側邊欄。讓你更容易跳轉文件和寫下東西。⠀ 通過拖放、縮略圖預覽、搜索等功能，提高你的工作流程水平。",
+      "tagline": "谷歌驅動器與Notion的側邊欄"
+    }
+  ]
 }
