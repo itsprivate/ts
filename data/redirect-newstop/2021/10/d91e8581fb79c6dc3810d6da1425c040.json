@@ -14,5 +14,19 @@
   "tags": [
     "The New York Times"
   ],
-  "image": "https://static01.nyt.com/images/2021/10/12/business/00china-power1/00china-power1-facebookJumbo.jpg"
+  "image": "https://static01.nyt.com/images/2021/10/12/business/00china-power1/00china-power1-facebookJumbo.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "中国の電力問題は戦略的な弱点を露呈している"
+    },
+    {
+      "locale": "zh",
+      "title": "中国的权力问题暴露了一个战略弱点"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "中國的權力問題暴露了一個戰略弱點"
+    }
+  ]
 }
