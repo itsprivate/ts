@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-10T16:27:13Z",
   "image": "https://dev.to/social_previews/article/858587.png",
   "author": "Muhammad Muhktar Musa",
-  "author_url": "https://dev.to/mcube25"
+  "author_url": "https://dev.to/mcube25",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "配列は、プログラマーが使用する最も一般的なものの一つであり、プロジェクトの中で遭遇する可能性が高いものです....",
+      "title": "知っておきたい7つのjavaScript Arrayメソッド"
+    },
+    {
+      "locale": "zh",
+      "description": "数组是程序员最常使用或可能在项目中遇到的东西之一....。",
+      "title": "你应该知道的7个javaScript阵列方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "數組是程序員最常使用或可能在項目中遇到的東西之一....。",
+      "title": "你應該知道的7個javaScript陣列方法"
+    }
+  ]
 }
