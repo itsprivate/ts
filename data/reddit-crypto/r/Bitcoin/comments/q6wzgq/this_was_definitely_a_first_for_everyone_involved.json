@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これは誰にとっても初めての経験です。ありがとう、鈴木エルサルバドル。"
+    },
+    {
+      "locale": "zh",
+      "title": "这对每个参与者来说绝对是第一次。感谢萨尔瓦多铃木公司。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這對每個參與者來說絕對是第一次。感謝薩爾瓦多鈴木公司。"
+    }
+  ]
 }

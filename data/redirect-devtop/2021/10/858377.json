@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-10T14:07:39Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9R-MVNT4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ufnsciznkhs89h0l885b.png",
   "author": "Trung Hieu Nguyen",
-  "author_url": "https://dev.to/trunghieu99tt"
+  "author_url": "https://dev.to/trunghieu99tt",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "その頃、私は非常に大きなプロジェクトを自分で構築する途中でした。それはソーシャルメディアのアプリです....。",
+      "title": "ReactJSとFabricJSを使ってfacebookのストーリークリエイターを作る"
+    },
+    {
+      "locale": "zh",
+      "description": "当年那些日子，我正在自己建立一个非常大的项目的路上，它是一个社会媒体应用程序....。",
+      "title": "使用ReactJS和FabricJS构建一个Facebook故事创造者"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當年那些日子，我正在自己建立一個非常大的項目的路上，它是一個社會媒體應用程序....。",
+      "title": "使用ReactJS和FabricJS構建一個Facebook故事創造者"
+    }
+  ]
 }
