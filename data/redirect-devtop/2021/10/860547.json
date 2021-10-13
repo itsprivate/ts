@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-12T07:25:03Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7GPREi4c--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/datrmkdboowyijm2gyzn.png",
   "author": "Binate Noor",
-  "author_url": "https://dev.to/binatenoor"
+  "author_url": "https://dev.to/binatenoor",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "HTMLで背景画像を追加することは、ウェブ制作をしているときに最もよく行われる作業のひとつです...",
+      "title": "HTMLとCSSで画像を背景にする"
+    },
+    {
+      "locale": "zh",
+      "description": "在HTML中添加背景图片是你在网页上工作时最常见的任务之一。",
+      "title": "用HTML和CSS将图像作为背景"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在HTML中添加背景圖片是你在網頁上工作時最常見的任務之一。",
+      "title": "用HTML和CSS將圖像作爲背景"
+    }
+  ]
 }
