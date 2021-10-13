@@ -52,5 +52,22 @@
   "original_created_at": "2021-10-12T09:49:26Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_2NzwY6---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s22snsqadpuxzvltorfb.png",
   "author": "John Wanjema",
-  "author_url": "https://dev.to/wanjema"
+  "author_url": "https://dev.to/wanjema",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Javascriptの関数とは 関数とは、整理された再利用可能なコードのブロックであり、...",
+      "title": "高度なJavascript機能"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是Javascript函数 一个函数是一个有组织的、可重复使用的代码块，它是一个有组织的。",
+      "title": "先进的Javascript功能"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是Javascript函數 一個函數是一個有組織的、可重複使用的代碼塊，它是一個有組織的。",
+      "title": "先進的Javascript功能"
+    }
+  ]
 }
