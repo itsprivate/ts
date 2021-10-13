@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-13T07:16:45Z"
+  "original_createdAt": "2021-10-13T07:16:45Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "世界をリードするソフトウェア企業の経験豊富な専門家がアドバイスする、最高のDevOpsプラクティスを適用します。",
+      "tagline": "困ったときのDevOpsコンサルティングコミュニティ"
+    },
+    {
+      "locale": "zh",
+      "description": "应用来自世界领先的软件公司的经验丰富的专家建议的最佳DevOps实践。",
+      "tagline": "当你需要帮助时，一个DevOps咨询社区"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "應用來自世界領先的軟件公司的經驗豐富的專家建議的最佳DevOps實踐。",
+      "tagline": "當你需要幫助時，一個DevOps諮詢社區"
+    }
+  ]
 }
