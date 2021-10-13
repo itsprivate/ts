@@ -154,5 +154,22 @@
     "retweet_count": 166,
     "favorite_count": 1157,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @DocumentingBTC: ケンブリッジからのデータ \n\nhttps://t.co/y8ijOw64Kq https://t.co/Znco9Vtcus",
+      "retweeted_status_full_text": "ケンブリッジのデータ \n\nhttps://t.co/y8ijOw64Kq https://t.co/Znco9Vtcus"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @DocumentingBTC: 来自剑桥的数据 \n\nhttps://t.co/y8ijOw64Kq https://t.co/Znco9Vtcus",
+      "retweeted_status_full_text": "来自剑桥大学的数据 \n\nhttps://t.co/y8ijOw64Kq https://t.co/Znco9Vtcus"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @DocumentingBTC: 來自劍橋的數據 \n\nhttps://t.co/y8ijOw64Kq https://t.co/Znco9Vtcus",
+      "retweeted_status_full_text": "來自劍橋大學的數據 \n\nhttps://t.co/y8ijOw64Kq https://t.co/Znco9Vtcus"
+    }
+  ]
 }
