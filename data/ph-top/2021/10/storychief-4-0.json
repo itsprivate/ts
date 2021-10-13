@@ -107,5 +107,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-13T07:01:00Z"
+  "original_createdAt": "2021-10-13T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コラボレーション、パブリッシュ、コンテンツの測定を1つの場所で行うことができます。ビデオチュートリアルは https://academy.storychief.io でご覧いただけます。",
+      "tagline": "ステロイドのようなコンテンツ運用"
+    },
+    {
+      "locale": "zh",
+      "description": "在一个地方合作、发布和测量你的内容。视频教程可在https://academy.storychief.io",
+      "tagline": "内容操作的立体化"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在一個地方合作、發佈和測量你的內容。視頻教程可在https://academy.storychief.io",
+      "tagline": "內容操作的立體化"
+    }
+  ]
 }
