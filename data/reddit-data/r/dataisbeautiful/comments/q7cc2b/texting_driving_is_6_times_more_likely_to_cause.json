@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "テキスト＆ドライビングは飲酒運転の6倍の確率で事故を起こす"
+    },
+    {
+      "locale": "zh",
+      "title": "发短信驾驶导致事故的几率是醉酒驾驶的6倍"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "發短信駕駛導致事故的機率是醉酒駕駛的6倍"
+    }
+  ]
 }
