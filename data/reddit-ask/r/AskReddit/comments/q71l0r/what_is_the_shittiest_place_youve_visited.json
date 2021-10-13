@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今まで訪れた中で、最もひどい場所はどこですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你去过的最糟糕的地方是哪里？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你去過的最糟糕的地方是哪裏？"
+    }
+  ]
 }
