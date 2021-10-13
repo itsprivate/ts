@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"It never hurts to ask \"と言われますが、\"It hurts to ask \"の例としてはどのようなものがありますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "他们说 \"问一问永远不会有坏处\"，但有哪些例子是 \"问一问会有坏处 \"的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他們說 \"問一問永遠不會有壞處\"，但有哪些例子是 \"問一問會有壞處 \"的？"
+    }
+  ]
 }
