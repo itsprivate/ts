@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-11T08:21:50Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jbr__sKh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d0hst9r97gq50860kpq0.png",
   "author": "Snehal Adbol",
-  "author_url": "https://dev.to/snehal_02"
+  "author_url": "https://dev.to/snehal_02",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Djangoとは何ですか？  Djangoは、効率的なWebフレームワークやバックエンドフレームワークで、...",
+      "title": "Djangoとは何か、なぜDjangoを学ぶ必要があるのか？"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是Django？  Django是一个网络框架或后端框架，用于创建高效的...",
+      "title": "什么是Django，以及为什么你应该学习它？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是Django？  Django是一個網絡框架或後端框架，用於創建高效的...",
+      "title": "什麼是Django，以及爲什麼你應該學習它？"
+    }
+  ]
 }
