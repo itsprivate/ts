@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-12T02:37:26Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--x-lckw20--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7zxqr7qwfikeqqf97e77.gif",
   "author": "Sagar Barapatre",
-  "author_url": "https://dev.to/sagarbarapatre"
+  "author_url": "https://dev.to/sagarbarapatre",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "OAuthプロバイダとのやり取りには、APIキーが必要です。セキュリティ上の理由から、これらのキーは、...",
+      "title": "Twitter、Google、Facebook、Githubを使ったReactの認証"
+    },
+    {
+      "locale": "zh",
+      "description": "要与OAuth提供商互动，你需要API密钥。出于安全原因，这些密钥必须被保存在...",
+      "title": "用Twitter、Google、Facebook和Github进行React认证"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "要與OAuth提供商互動，你需要API密鑰。出於安全原因，這些密鑰必須被保存在...",
+      "title": "用Twitter、Google、Facebook和Github進行React認證"
+    }
+  ]
 }
