@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "高校生がIoTシステムをハッキングして学校全体を荒らした"
+    },
+    {
+      "locale": "zh",
+      "title": "高中生通过黑进物联网系统，使整个学校陷入困境"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "高中生通過黑進物聯網系統，使整個學校陷入困境"
+    }
+  ]
 }
