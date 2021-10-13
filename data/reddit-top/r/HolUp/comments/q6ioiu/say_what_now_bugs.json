@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "と言っても、Bugs?"
+    },
+    {
+      "locale": "zh",
+      "title": "现在说什么，Bugs？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "現在說什麼，Bugs？"
+    }
+  ]
 }
