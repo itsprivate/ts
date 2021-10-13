@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "What does [?4r] mean? Sorry!"
+  "the_new_excerpt": "What does [?4r] mean? Sorry!",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "?4r]の意味を教えてください。申し訳ありません。",
+      "title": "私は老齢（44歳）で、Redditには初めて参加します。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "[?4r]是什么意思？对不起!",
+      "title": "我老了（44岁），是Reddit的新手"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "[?4r]是什麼意思？對不起!",
+      "title": "我老了（44歲），是Reddit的新手"
+    }
+  ]
 }
