@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "3ペタバイト以上の衛星データから抽出した3秒でわかる2020年の地球｜[OC]."
+    },
+    {
+      "locale": "zh",
+      "title": "从超过3PB的卫星数据中提取的3秒钟内的2020年地球｜ [OC]"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "從超過3PB的衛星數據中提取的3秒鐘內的2020年地球｜ [OC]"
+    }
+  ]
 }
