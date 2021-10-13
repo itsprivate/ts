@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-13T07:13:12Z"
+  "original_createdAt": "2021-10-13T07:13:12Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Redact.photoは、ブラウザ上で無料かつプライベートに画像の検閲を行うことができます。モバイルとデスクトップの両方で動作し、画像データを安全にスクランブルすることができます。",
+      "tagline": "ブラウザ上での自由でプライベートな画像編集"
+    },
+    {
+      "locale": "zh",
+      "description": "Redact.photo在浏览器中提供免费和私密的图像审查。它在移动和桌面上都能工作，并安全地扰乱图像数据。",
+      "tagline": "浏览器中的免费和私人图像编辑"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Redact.photo在瀏覽器中提供免費和私密的圖像審查。它在移動和桌面上都能工作，並安全地擾亂圖像數據。",
+      "tagline": "瀏覽器中的免費和私人圖像編輯"
+    }
+  ]
 }
