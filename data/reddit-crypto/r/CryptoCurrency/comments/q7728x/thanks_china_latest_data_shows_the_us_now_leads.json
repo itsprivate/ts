@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ありがとう中国。最新のデータによると、米国はビットコインのハッシュレートの35％でリードするようになった"
+    },
+    {
+      "locale": "zh",
+      "title": "谢谢中国。最新数据显示美国现在以35%的比特币哈希率领先"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "謝謝中國。最新數據顯示美國現在以35%的比特幣哈希率領先"
+    }
+  ]
 }
