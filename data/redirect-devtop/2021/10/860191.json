@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-11T20:48:57Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9Eyi8mVf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h70g99gmnoy0boni6j9q.png",
   "author": "Achraf Affes",
-  "author_url": "https://dev.to/darken"
+  "author_url": "https://dev.to/darken",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JWTとは、JSON web tokenの略で、一般的な定義では、オープンな業界標準RFCです。",
+      "title": "JWTはどのように機能し、安全なのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "description": "JWT是JSON网络令牌的缩写，通常的定义是，它是一个开放的行业标准RFC...",
+      "title": "JWT是如何工作的，它是否安全？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "JWT是JSON網絡令牌的縮寫，通常的定義是，它是一個開放的行業標準RFC...",
+      "title": "JWT是如何工作的，它是否安全？"
+    }
+  ]
 }
