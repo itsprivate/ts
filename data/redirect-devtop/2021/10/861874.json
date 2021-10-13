@@ -43,5 +43,22 @@
   "original_created_at": "2021-10-13T07:40:36Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s---1usaSqq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k3eow50aza72u5k89b7w.png",
   "author": "Alex Gurr",
-  "author_url": "https://dev.to/alexgurr"
+  "author_url": "https://dev.to/alexgurr",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、私は自分のウェブアプリケーションをプログレッシブ化することに踏み切りました。いくつかの利点は...",
+      "title": "Reactアプリをオフライン検知、サービスワーカー、テーマ設定でインストール可能なPWAにする。"
+    },
+    {
+      "locale": "zh",
+      "description": "最近，我决定潜心研究使我的网络应用渐进式。其中的一些好处是...",
+      "title": "把React应用变成一个具有离线检测、服务工作者和主题化的可安装PWA。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "最近，我決定潛心研究使我的網絡應用漸進式。其中的一些好處是...",
+      "title": "把React應用變成一個具有離線檢測、服務工作者和主題化的可安裝PWA。"
+    }
+  ]
 }
