@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ヘリコプターに取り付けられた大型チェーンソーで木の枝を切る"
+    },
+    {
+      "locale": "zh",
+      "title": "用连接在直升机上的大型电锯来切断树枝。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "用連接在直升機上的大型電鋸來切斷樹枝。"
+    }
+  ]
 }
