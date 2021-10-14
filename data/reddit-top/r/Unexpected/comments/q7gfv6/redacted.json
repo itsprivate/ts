@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[再編集版]"
+    },
+    {
+      "locale": "zh",
+      "title": "[节录]"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[節錄]"
+    }
+  ]
 }
