@@ -47,5 +47,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Read the dev notes [https://spreadsheettimeline.com/dev_notes/], or just try out\nthe app [https://spreadsheettimeline.com]!\n\nTL/DR:\n\n * No database or server-side code. All static files.\n * Actually, just two files total :)"
+  "the_new_excerpt": "Read the dev notes [https://spreadsheettimeline.com/dev_notes/], or just try out\nthe app [https://spreadsheettimeline.com]!\n\nTL/DR:\n\n * No database or server-side code. All static files.\n * Actually, just two files total :)",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "開発ノート[https://spreadsheettimeline.com/dev_notes/]を読むか、アプリを試してみてください。\nアプリを試してみてください [https://spreadsheettimeline.com]!\n\nTL/DR\n\n * データベースやサーバーサイドのコードはありません。すべて静的ファイルです。\n * 実際には、合計2つのファイルだけです :)",
+      "title": "ドメイン購入からコード作成までを週末1回で完了 - スプレッドシート・タイムライン"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "阅读开发说明[https://spreadsheettimeline.com/dev_notes/]，或直接试用\n应用[https://spreadsheettimeline.com]!\n\nTL/DR:\n\n * 没有数据库或服务器端的代码。所有的静态文件。\n * 实际上，总共只有两个文件 :)",
+      "title": "域名购买到编码在一个周末完成 - 电子表格时间表"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "閱讀開發說明[https://spreadsheettimeline.com/dev_notes/]，或直接試用\n應用[https://spreadsheettimeline.com]!\n\nTL/DR:\n\n * 沒有數據庫或服務器端的代碼。所有的靜態文件。\n * 實際上，總共只有兩個文件 :)",
+      "title": "域名購買到編碼在一個週末完成 - 電子表格時間表"
+    }
+  ]
 }
