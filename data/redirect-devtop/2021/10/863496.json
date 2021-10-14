@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-14T12:34:45Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--f47f8I3h--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8p0qaiclbhp40gz8dfmq.png",
   "author": "Rishav Jadon",
-  "author_url": "https://dev.to/rjitsu"
+  "author_url": "https://dev.to/rjitsu",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、フロントエンドの仕事で持ち帰りの課題があり、ダッシュボードのようなものを作らなければなりませんでした。I...",
+      "title": "if elseの使用停止 "
+    },
+    {
+      "locale": "zh",
+      "description": "最近，我有一个前端角色的带回家的任务，我必须做一个类似Dashboard的东西。I...",
+      "title": "停止使用if else "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "最近，我有一個前端角色的帶回家的任務，我必須做一個類似Dashboard的東西。I...",
+      "title": "停止使用if else "
+    }
+  ]
 }
