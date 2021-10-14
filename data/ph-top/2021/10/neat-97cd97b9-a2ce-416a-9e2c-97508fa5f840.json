@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-14T07:01:00Z"
+  "original_createdAt": "2021-10-14T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Neatは、GitHubの通知管理を効率化します。パフォーマンスの高いチームが、コードのレビュー、マージ、出荷を簡単に行えるようになります。ユーザーは、画面を離れることなく、通知のプレビュー、トリアージ、ジャンプを行うことができます。macOSでは無料で利用できます。",
+      "tagline": "GitHubのワークフローを強化する"
+    },
+    {
+      "locale": "zh",
+      "description": "Neat简化了GitHub的通知管理。它使高绩效的团队能够轻松地审查、合并和发送代码。用户可以预览、分流和跳转到通知，而不必离开他们的屏幕。可在MacOS上免费使用。",
+      "tagline": "为你的GitHub工作流程增光添彩"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Neat簡化了GitHub的通知管理。它使高績效的團隊能夠輕鬆地審查、合併和發送代碼。用戶可以預覽、分流和跳轉到通知，而不必離開他們的屏幕。可在MacOS上免費使用。",
+      "tagline": "爲你的GitHub工作流程增光添彩"
+    }
+  ]
 }
