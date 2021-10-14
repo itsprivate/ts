@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-06T06:27:45Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OQPHuzxm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bljcd3sdupdylu229ja5.jpg",
   "author": "anitaparmar26",
-  "author_url": "https://dev.to/anitaparmar26"
+  "author_url": "https://dev.to/anitaparmar26",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "開発者の方から、「Webpackの設定方法がわからない」という声を何度も聞きました。",
+      "title": "Webpack 5 : 初心者のためのガイド"
+    },
+    {
+      "locale": "zh",
+      "description": "很多时候，我们从开发人员那里听说，他们不了解如何配置webpack，因为webpack是一个非常复杂的系统。",
+      "title": "Webpack 5 : 初学者指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "很多時候，我們從開發人員那裏聽說，他們不瞭解如何配置webpack，因爲webpack是一個非常複雜的系統。",
+      "title": "Webpack 5 : 初學者指南"
+    }
+  ]
 }
