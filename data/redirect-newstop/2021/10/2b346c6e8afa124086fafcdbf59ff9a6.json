@@ -14,5 +14,19 @@
   "tags": [
     "Fox News"
   ],
-  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/WHO_resized.jpg"
+  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/WHO_resized.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "WHO、COVID-19パンデミックの起源を調査する委員会を発表"
+    },
+    {
+      "locale": "zh",
+      "title": "世卫组织宣布成立委员会，调查COVID-19大流行病的起源"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "世衛組織宣佈成立委員會，調查COVID-19大流行病的起源"
+    }
+  ]
 }
