@@ -14,5 +14,19 @@
   "tags": [
     "Fox News"
   ],
-  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/10/taiwan-military.jpg"
+  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/10/taiwan-military.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "台湾は中国との戦争を始めない、と軍部トップが発言"
+    },
+    {
+      "locale": "zh",
+      "title": "军方高官称台湾不会与中国开战"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "軍方高官稱臺灣不會與中國開戰"
+    }
+  ]
 }
