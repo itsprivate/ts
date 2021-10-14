@@ -37,5 +37,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "イーロン・マスクのテスラは、ビットコインを保有することですでに10億ドルの利益を得ている"
+    },
+    {
+      "locale": "zh",
+      "title": "埃隆-马斯克的特斯拉通过持有比特币已经有10亿美元的利润了"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "埃隆-馬斯克的特斯拉通過持有比特幣已經有10億美元的利潤了"
+    }
+  ]
 }
