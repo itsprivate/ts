@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-10T21:34:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bunbITUO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vfmj0kaj5l8y0c8m3fqy.png",
   "author": "Jhey Tompkins",
-  "author_url": "https://dev.to/jh3y"
+  "author_url": "https://dev.to/jh3y",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この作品の経緯はよくわかりません。でも、ネタにはなります。この記事はどちらかというと、グロッキーのためのものです。",
+      "title": "メタGSAP」を目指して。完璧な \"無限スクロール \"の実現に向けて"
+    },
+    {
+      "locale": "zh",
+      "description": "我不知道这个人是怎么来的。但是，这是个故事。这篇文章更多的是关于摸索一个...",
+      "title": "走向 \"元GSAP\"。对 \"完美 \"无限滚动的追求"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我不知道這個人是怎麼來的。但是，這是個故事。這篇文章更多的是關於摸索一個...",
+      "title": "走向 \"元GSAP\"。對 \"完美 \"無限滾動的追求"
+    }
+  ]
 }
