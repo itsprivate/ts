@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] 今朝発表された最新の消費者物価指数（CPI）データによると、高くなったもの、安くなったものトップ10"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]根据今天上午公布的最新消费者价格指数（CPI）数据，十大变得更贵和更便宜的东西"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]根據今天上午公佈的最新消費者價格指數（CPI）數據，十大變得更貴和更便宜的東西"
+    }
+  ]
 }
