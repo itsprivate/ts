@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私の地元の図書館では、映画のセクションに「ビンジボックス」があります。"
+    },
+    {
+      "locale": "zh",
+      "title": "我当地的图书馆在电影区有 \"狂欢盒\"。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我當地的圖書館在電影區有 \"狂歡盒\"。"
+    }
+  ]
 }
