@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "過去7日間のうち、何日くらいお酒を飲みましたか？"
+    },
+    {
+      "locale": "zh",
+      "title": "在过去的7天里，你有多少天饮酒？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在過去的7天裏，你有多少天飲酒？"
+    }
+  ]
 }
