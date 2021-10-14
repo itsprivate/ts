@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-14T07:02:08Z"
+  "original_createdAt": "2021-10-14T07:02:08Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "aliveDomainは、ドメインの有効期限を追跡し、Zapier、Telegram、Slack、Discord、Webhook、Eメールで通知を送信する、完全なドメイン監視プラットフォームです。",
+      "tagline": "個人や代理店向けの高度なドメイントラッキングツール"
+    },
+    {
+      "locale": "zh",
+      "description": "aliveDomain是一个完整的域名监控平台，跟踪域名的到期日，并通过Zapier、Telegram、Slack、Discord、Webhook和电子邮件发送通知。",
+      "tagline": "面向个人和机构的高级域名跟踪工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "aliveDomain是一個完整的域名監控平臺，跟蹤域名的到期日，並通過Zapier、Telegram、Slack、Discord、Webhook和電子郵件發送通知。",
+      "tagline": "面向個人和機構的高級域名跟蹤工具"
+    }
+  ]
 }
