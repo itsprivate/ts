@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-12T10:44:18Z",
   "image": "https://dev.to/social_previews/article/860779.png",
   "author": "Osman Cea",
-  "author_url": "https://dev.to/daslaf"
+  "author_url": "https://dev.to/daslaf",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事のスペイン語版を私のウェブサイトに掲載していました。 CLEANな建築物のための...",
+      "title": "ReactアプリのためのCLEANアーキテクチャ"
+    },
+    {
+      "locale": "zh",
+      "description": "我最初在我的网站上发表了这篇文章的西班牙语版本。 洁净的建筑，让你的生活更美好。",
+      "title": "用于React应用程序的CLEAN架构"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我最初在我的網站上發表了這篇文章的西班牙語版本。 潔淨的建築，讓你的生活更美好。",
+      "title": "用於React應用程序的CLEAN架構"
+    }
+  ]
 }
