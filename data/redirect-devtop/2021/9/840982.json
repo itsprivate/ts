@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-26T08:52:42Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xh6toil8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3yzo955balsc0laiw1p1.png",
   "author": "Abhinav Dubey",
-  "author_url": "https://dev.to/abhinavd26"
+  "author_url": "https://dev.to/abhinavd26",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "さて、今回も初心者向けのブログをお届けします。今回のブログでは、その中の一つである「...",
+      "title": "Gitでオープンソースの旅を始めよう"
+    },
+    {
+      "locale": "zh",
+      "description": "在这里，我们又看到了另一个适合初学者的博客。在这篇博客中，我们将了解到其中的一个问题。",
+      "title": "用Git开始你的开源之旅"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這裏，我們又看到了另一個適合初學者的博客。在這篇博客中，我們將瞭解到其中的一個問題。",
+      "title": "用Git開始你的開源之旅"
+    }
+  ]
 }
