@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-11T22:40:47Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5KJSDwPS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://docs.github.com/assets/images/help/pull_requests/pullrequest-send.png",
   "author": "Jeff Edmondson",
-  "author_url": "https://dev.to/jeff_codes"
+  "author_url": "https://dev.to/jeff_codes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "優れたプルリクエスト（PR）を作成するためのヒント",
+      "title": "優れたプル・リクエストを作成するには"
+    },
+    {
+      "locale": "zh",
+      "description": "打开一个伟大的拉动请求（PR）的技巧",
+      "title": "如何开启一个伟大的拉动请求"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "打開一個偉大的拉動請求（PR）的技巧",
+      "title": "如何開啓一個偉大的拉動請求"
+    }
+  ]
 }

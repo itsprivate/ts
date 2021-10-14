@@ -43,5 +43,22 @@
   "original_created_at": "2021-10-14T12:36:32Z",
   "image": "https://dev.to/social_previews/article/863497.png",
   "author": "Alessio Michelini",
-  "author_url": "https://dev.to/darkmavis1980"
+  "author_url": "https://dev.to/darkmavis1980",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これは私がよく目にすることですが、あるコードでは、ある時点で変数が...",
+      "title": "parseInt()を使うのはやめましょう。"
+    },
+    {
+      "locale": "zh",
+      "description": "这是我经常看到的事情，你有一些代码，在某些时候你有一个变量...",
+      "title": "你应该停止使用`parseInt()`。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是我經常看到的事情，你有一些代碼，在某些時候你有一個變量...",
+      "title": "你應該停止使用`parseInt()`。"
+    }
+  ]
 }
