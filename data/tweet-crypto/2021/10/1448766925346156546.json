@@ -150,5 +150,22 @@
     "retweet_count": 1208,
     "favorite_count": 8422,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @100trillionUSD #ビットコイン相対力指数（RSI） &gt; 70 🚀 https://t.co/GNeV3HkTpy",
+      "retweeted_status_full_text": "#ビットコイン相対力指数（RSI） &gt; 70 🚀 https://t.co/GNeV3HkTpy"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @100trillionUSD: #比特币相对强弱指数（RSI）&gt; 70 🚀🚀 https://t.co/GNeV3HkTpy",
+      "retweeted_status_full_text": "#比特币相对强弱指数（RSI）&gt; 70 🚀🚀 https://t.co/GNeV3HkTpy"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @100trillionUSD: #比特幣相對強弱指數（RSI）&gt; 70 🚀🚀 https://t.co/GNeV3HkTpy",
+      "retweeted_status_full_text": "#比特幣相對強弱指數（RSI）&gt; 70 🚀🚀 https://t.co/GNeV3HkTpy"
+    }
+  ]
 }
