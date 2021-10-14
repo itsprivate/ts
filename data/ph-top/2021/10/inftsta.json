@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-14T11:05:04Z"
+  "original_createdAt": "2021-10-14T11:05:04Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あなたのInstagramの写真を無料でNFTにします。インスタグラムで認証し、ブラウザでWeb3ウォレットを接続するだけで、ミントにする投稿を選ぶことができます。この写真はあなたのOpenSeaのプロフィールに自動的に表示され、販売のためにリストアップすることができます。",
+      "tagline": "あなたのInstagramの投稿を、無料でNFTにして販売します。"
+    },
+    {
+      "locale": "zh",
+      "description": "把你的Instagram照片免费变成NFT。只要通过Instagram认证，并通过浏览器连接一个Web3钱包，然后选择哪些帖子来铸币。它们将自动显示在你的OpenSea个人资料中，在那里你可以列出它们进行销售!",
+      "tagline": "把你的Instagram帖子变成NFT来销售，免费的"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "把你的Instagram照片免費變成NFT。只要通過Instagram認證，並通過瀏覽器連接一個Web3錢包，然後選擇哪些帖子來鑄幣。它們將自動顯示在你的OpenSea個人資料中，在那裏你可以列出它們進行銷售!",
+      "tagline": "把你的Instagram帖子變成NFT來銷售，免費的"
+    }
+  ]
 }

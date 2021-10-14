@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが見ているのは、別の太陽系の最初の画像です。"
+    },
+    {
+      "locale": "zh",
+      "title": "你在看另一个太阳系的第一张图片"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你在看另一個太陽系的第一張圖片"
+    }
+  ]
 }
