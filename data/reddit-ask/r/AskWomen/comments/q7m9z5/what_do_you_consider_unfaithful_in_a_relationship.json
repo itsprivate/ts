@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Stories welcome"
+  "the_new_excerpt": "Stories welcome",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "体験談募集",
+      "title": "恋愛における不貞行為とはどのようなものでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "欢迎故事",
+      "title": "在一段关系中，你认为什么是不忠的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "歡迎故事",
+      "title": "在一段關係中，你認爲什麼是不忠的？"
+    }
+  ]
 }
