@@ -72,5 +72,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-14T07:05:36Z"
+  "original_createdAt": "2021-10-14T07:05:36Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "YipYipを使えば、流れに乗ってウェブを10倍速く飛び回ることができます。YipYipは、Gmailやその他のWebサイトをキーボードファーストの製品に変える、常にオンの検索＆キーボードナビゲーションアシスタントです。また、オープンソースです。Gmailはすでに最適化されています。",
+      "tagline": "Gmail、Product Hunt、Githubなどのためのキーボードナビゲーション"
+    },
+    {
+      "locale": "zh",
+      "description": "YipYip可以让你以10倍的速度在网上畅行无阻! 它是一个永远在线的搜索和键盘导航助手，将Gmail（和任何其他网站）变成一个键盘优先的产品。它也是开源的! 我们已经对Gmail进行了优化。",
+      "tagline": "Gmail、Product Hunt、Github等的键盘导航"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "YipYip可以讓你以10倍的速度在網上暢行無阻! 它是一個永遠在線的搜索和鍵盤導航助手，將Gmail（和任何其他網站）變成一個鍵盤優先的產品。它也是開源的! 我們已經對Gmail進行了優化。",
+      "tagline": "Gmail、Product Hunt、Github等的鍵盤導航"
+    }
+  ]
 }
