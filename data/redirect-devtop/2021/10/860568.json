@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-12T08:07:54Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--F0X_sUpI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/01j2mhq2q2r56m7a1c1b.jpg",
   "author": "lynn",
-  "author_url": "https://dev.to/eslynn"
+  "author_url": "https://dev.to/eslynn",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactアプリケーションを複数の環境にデプロイする必要があったことはありませんか？ もし、あなたがこれまでに...",
+      "title": "再構築せずにReactの環境変数を動的に変更する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "你是否曾经需要将一个React应用程序部署到多个环境？ 如果你曾经不得不...",
+      "title": "如何动态地改变你的React环境变量而不需要重新构建"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你是否曾經需要將一個React應用程序部署到多個環境？ 如果你曾經不得不...",
+      "title": "如何動態地改變你的React環境變量而不需要重新構建"
+    }
+  ]
 }

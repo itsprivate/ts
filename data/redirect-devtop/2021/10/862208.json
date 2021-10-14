@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-13T13:00:47Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RKSFsrvC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d2enza08y401ssv5it84.jpg",
   "author": "Code_Jedi",
-  "author_url": "https://dev.to/code_jedi"
+  "author_url": "https://dev.to/code_jedi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ウェブスクレイピング。  Webスクレイピングとは、一般に公開されているあらゆる種類のデータを収集する方法で、例えば...",
+      "title": "Node.jsでWebスクレイピング！？"
+    },
+    {
+      "locale": "zh",
+      "description": "网络搜刮。  网络刮削是一种收集各种公开可用数据的方式，如...",
+      "title": "在Node.js中进行网络刮削!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "網絡搜刮。  網絡刮削是一種收集各種公開可用數據的方式，如...",
+      "title": "在Node.js中進行網絡刮削!"
+    }
+  ]
 }
