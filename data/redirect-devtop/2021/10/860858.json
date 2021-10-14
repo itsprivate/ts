@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-12T12:17:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yUBUT1FZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/406qpuko9k7zpunpyyhi.jpg",
   "author": "Mr.Shah",
-  "author_url": "https://dev.to/shahstavan"
+  "author_url": "https://dev.to/shahstavan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Typed.jsライブラリを使用してターミナルアニメーションを作成したことは、私をフォローしてくださっている方ならすでにご存知でしょう。....",
+      "title": "JavaScriptで完結するターミナルアニメーション "
+    },
+    {
+      "locale": "zh",
+      "description": "如果你关注我，你已经知道我们已经使用Typed.js库做了终端动画....。",
+      "title": "完全使用JavaScript的终端动画 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你關注我，你已經知道我們已經使用Typed.js庫做了終端動畫....。",
+      "title": "完全使用JavaScript的終端動畫 "
+    }
+  ]
 }

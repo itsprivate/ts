@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "素晴らしいLNの説明"
+    },
+    {
+      "locale": "zh",
+      "title": "伟大的LN解释器"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "偉大的LN解釋器"
+    }
+  ]
 }
