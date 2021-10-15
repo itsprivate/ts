@@ -134,5 +134,22 @@
     "retweet_count": 3326,
     "favorite_count": 11048,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @julianhosp: BREAKING: It is official, Valkyrie Bitcoin Strategy ETF is approved!!! https://t.co/fsIZuUkgFT",
+      "retweeted_status_full_text": "BREAKING: It is official, Valkyrie Bitcoin Strategy ETF is approved!!! https://t.co/fsIZuUkgFT"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @julianhosp: 爆料：官方消息，Valkyrie比特币策略ETF已获批准！https://t.co/fsIZuUkgFT",
+      "retweeted_status_full_text": "爆炸：官方宣布，Valkyrie比特币策略ETF获得批准！！https://t.co/fsIZuUkgFT"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @julianhosp: 爆料：官方消息，Valkyrie比特幣策略ETF已獲批准！https://t.co/fsIZuUkgFT",
+      "retweeted_status_full_text": "爆炸：官方宣佈，Valkyrie比特幣策略ETF獲得批准！！https://t.co/fsIZuUkgFT"
+    }
+  ]
 }

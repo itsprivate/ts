@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-14T20:58:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Klmz_LFS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y315o17zwcw6tth67ri4.png",
   "author": "Kingsley Ubah",
-  "author_url": "https://dev.to/ubahthebuilder"
+  "author_url": "https://dev.to/ubahthebuilder",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "データの一覧を表にして表示するサイトの多くは、何らかのフィルタ機能を備えています。",
+      "title": "HTML、CSS、JavaScriptでフィルタ機能付きレスポンシブフォームを作る方法"
+    },
+    {
+      "locale": "zh",
+      "description": "大多数在表格中显示数据列表的网站通常有某种过滤功能...",
+      "title": "如何使用HTML、CSS和JavaScript建立一个具有过滤功能的响应式表单"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大多數在表格中顯示數據列表的網站通常有某種過濾功能...",
+      "title": "如何使用HTML、CSS和JavaScript建立一個具有過濾功能的響應式表單"
+    }
+  ]
 }
