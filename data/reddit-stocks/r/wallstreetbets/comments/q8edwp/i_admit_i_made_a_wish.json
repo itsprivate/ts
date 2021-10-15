@@ -149,5 +149,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1634264117,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "認めます。私は$WISHをしました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我承认。我做了一个$WISH。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我承認。我做了一個$WISH。"
+    }
+  ]
 }
