@@ -13,5 +13,19 @@
   ],
   "objectID": "28880782",
   "original_created_at": "2021-10-15T17:54:27.000Z",
-  "image": "https://static.lwn.net/images/logo/barepenguin-70.png"
+  "image": "https://static.lwn.net/images/logo/barepenguin-70.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Pythonのコンカレンシーのための実行可能なソリューション"
+    },
+    {
+      "locale": "zh",
+      "title": "Python并发性的可行解决方案"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Python併發性的可行解決方案"
+    }
+  ]
 }
