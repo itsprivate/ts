@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-13T17:46:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lgaAXnJK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r84rtekdnk3qd4r4v31e.png",
   "author": "Aman Mittal",
-  "author_url": "https://dev.to/amanhimself"
+  "author_url": "https://dev.to/amanhimself",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "2021年8月のアップデートで、VSCodeはBracketペアの色付けをネイティブにサポートするようになりました。これはつまり...",
+      "title": "VSCodeブラケットのペアカラーをネイティブに設定する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "随着2021年8月的更新，VSCode开始原生支持括号对着色。这意味着...",
+      "title": "如何自然地配置VSCode支架对的颜色"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "隨着2021年8月的更新，VSCode開始原生支持括號對着色。這意味着...",
+      "title": "如何自然地配置VSCode支架對的顏色"
+    }
+  ]
 }
