@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-14T06:08:47Z",
   "image": "https://dev.to/social_previews/article/863182.png",
   "author": "Lokesh_Choudhary",
-  "author_url": "https://dev.to/lokeshchoudharylc"
+  "author_url": "https://dev.to/lokeshchoudharylc",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コマンドラインインターフェース（CLI）アプリケーションとは何ですか？  CLIツールは、特定の...",
+      "title": "Node.JS👨🎓🤓を使ったコマンドラインインターフェイス（CLI）アプリケーションの作り方です。"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是命令行界面（CLI）应用程序？  CLI工具允许你运行某些...",
+      "title": "如何用Node.JS👨🎓🤓建立一个命令行界面（CLI）应用程序。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是命令行界面（CLI）應用程序？  CLI工具允許你運行某些...",
+      "title": "如何用Node.JS👨🎓🤓建立一個命令行界面（CLI）應用程序。"
+    }
+  ]
 }
