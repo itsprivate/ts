@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "$60,000. 再会を果たす。"
+    },
+    {
+      "locale": "zh",
+      "title": "$60,000. 我们再次见面。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "$60,000. 我們再次見面。"
+    }
+  ]
 }
