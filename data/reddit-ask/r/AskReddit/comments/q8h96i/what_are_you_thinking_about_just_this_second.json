@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今、何を考えていますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "就在这一秒，你在想什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "就在這一秒，你在想什麼？"
+    }
+  ]
 }
