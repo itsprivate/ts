@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "タカに襲われたニワトリを救うため、農場の動物たちが一丸となる"
+    },
+    {
+      "locale": "zh",
+      "title": "农场动物齐心协力，从鹰的攻击中拯救一只鸡"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "農場動物齊心協力，從鷹的攻擊中拯救一隻雞"
+    }
+  ]
 }

@@ -134,5 +134,22 @@
     "retweet_count": 1187,
     "favorite_count": 8584,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @100trillionUSD: 快晴の空🚀 https://t.co/QQusv4slgw",
+      "retweeted_status_full_text": "晴天🚀 https://t.co/QQusv4slgw"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @100trillionUSD: 晴朗的天空🚀 https://t.co/QQusv4slgw",
+      "retweeted_status_full_text": "清澈的天空🚀 https://t.co/QQusv4slgw"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @100trillionUSD: 晴朗的天空🚀 https://t.co/QQusv4slgw",
+      "retweeted_status_full_text": "清澈的天空🚀 https://t.co/QQusv4slgw"
+    }
+  ]
 }
