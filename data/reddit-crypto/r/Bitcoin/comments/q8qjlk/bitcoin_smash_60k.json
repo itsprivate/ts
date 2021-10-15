@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインが60Kを突破"
+    },
+    {
+      "locale": "zh",
+      "title": "比特币冲破60K"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比特幣衝破60K"
+    }
+  ]
 }
