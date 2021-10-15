@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "What books made you feel that way?"
+  "the_new_excerpt": "What books made you feel that way?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "そんな気持ちにさせてくれたのはどんな本でしたか？",
+      "title": "本は、私たちの中にある凍った海のための斧でなければならない。それが私の信念です」 フランツ・カフカ"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "什么书让你有这种感觉？",
+      "title": "一本书必须是我们体内冰冻的大海的斧头。这是我的信念。--弗朗茨-卡夫卡"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "什麼書讓你有這種感覺？",
+      "title": "一本書必須是我們體內冰凍的大海的斧頭。這是我的信念。--弗朗茨-卡夫卡"
+    }
+  ]
 }
