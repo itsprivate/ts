@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-13T15:37:27Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2nhe2IU0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/axxc1185yzch187zaqfb.png",
   "author": "Takashi Yoneuchi",
-  "author_url": "https://dev.to/y0n3uchy"
+  "author_url": "https://dev.to/y0n3uchy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Dockerfileは、シェルスクリプトを書くような感覚でコンテナイメージを作成することができます。....",
+      "title": "簡単にできるDockerfileの書き方7つのベストプラクティス\n"
+    },
+    {
+      "locale": "zh",
+      "description": "Dockerfile允许你以这样的方式创建容器镜像，就像你写shell脚本一样....。",
+      "title": "编写Docker文件的7个简单易行的最佳做法\n"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Dockerfile允許你以這樣的方式創建容器鏡像，就像你寫shell腳本一樣....。",
+      "title": "編寫Docker文件的7個簡單易行的最佳做法\n"
+    }
+  ]
 }
