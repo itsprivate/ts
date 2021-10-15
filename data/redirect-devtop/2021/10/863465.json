@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-14T11:26:17Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1yq7kCTu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/887db9mu81bihy740uge.png",
   "author": "coder4life",
-  "author_url": "https://dev.to/coder4_life"
+  "author_url": "https://dev.to/coder4_life",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この再利用可能なダークモードフックを使えば、ダークモードとライトモードを簡単に切り替えることができます。",
+      "title": "Reactのダークモード・トグルフック"
+    },
+    {
+      "locale": "zh",
+      "description": "有了这个可重复使用的黑暗模式钩子，在整个过程中切换黑暗和光明模式就变得容易了。",
+      "title": "React中的黑暗模式切换钩"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有了這個可重複使用的黑暗模式鉤子，在整個過程中切換黑暗和光明模式就變得容易了。",
+      "title": "React中的黑暗模式切換鉤"
+    }
+  ]
 }
