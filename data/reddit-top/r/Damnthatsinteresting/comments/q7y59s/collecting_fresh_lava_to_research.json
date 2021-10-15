@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "研究のために新鮮な溶岩を集める。"
+    },
+    {
+      "locale": "zh",
+      "title": "收集新鲜熔岩进行研究。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "收集新鮮熔岩進行研究。"
+    }
+  ]
 }

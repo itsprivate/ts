@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私は、お気に入りの国が観光用にオープンになると、それを思い出させてくれるウェブサイトを作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个网站，提醒你你喜欢的国家何时开放旅游。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個網站，提醒你你喜歡的國家何時開放旅遊。"
+    }
+  ]
 }
