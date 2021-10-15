@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Also, what field/industry do you work in?"
+  "the_new_excerpt": "Also, what field/industry do you work in?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "また、どのような分野・業界で働いていますか？",
+      "title": "明日、仕事を失ったとしたら、新しい職場で同等以上のポジションを見つけるのに、どれくらいの時間がかかると思いますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "另外，你在哪个领域/行业工作？",
+      "title": "如果你明天失去工作，你认为你需要多长时间才能在新的工作场所找到一个同等或更好的职位？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "另外，你在哪個領域/行業工作？",
+      "title": "如果你明天失去工作，你認爲你需要多長時間才能在新的工作場所找到一個同等或更好的職位？"
+    }
+  ]
 }
