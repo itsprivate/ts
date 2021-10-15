@@ -11,5 +11,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "国別最大の暗号所有者数"
+    },
+    {
+      "locale": "zh",
+      "title": "各国最大的加密货币所有者人数"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "各國最大的加密貨幣所有者人數"
+    }
+  ]
 }
