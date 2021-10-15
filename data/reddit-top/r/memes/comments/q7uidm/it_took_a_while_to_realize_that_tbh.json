@@ -121,5 +121,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "そのことに気づくのに時間がかかりました。"
+    },
+    {
+      "locale": "zh",
+      "title": "花了一些时间才意识到这一点，tbh"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "花了一些時間才意識到這一點，tbh"
+    }
+  ]
 }
