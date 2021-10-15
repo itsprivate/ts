@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このカエルは、脱水症状を起こしていたので、水をあげました。"
+    },
+    {
+      "locale": "zh",
+      "title": "这只青蛙在非常缺水的情况下，我给它喝了一些水"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這隻青蛙在非常缺水的情況下，我給它喝了一些水"
+    }
+  ]
 }
