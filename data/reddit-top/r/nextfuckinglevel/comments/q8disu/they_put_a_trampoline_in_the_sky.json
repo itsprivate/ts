@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "空にトランポリンを置いた"
+    },
+    {
+      "locale": "zh",
+      "title": "他们在天上放了一个蹦床"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他們在天上放了一個蹦牀"
+    }
+  ]
 }
