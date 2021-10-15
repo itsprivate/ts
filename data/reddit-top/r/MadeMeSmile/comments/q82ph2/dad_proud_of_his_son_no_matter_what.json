@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "何があっても息子を誇りに思うお父さん"
+    },
+    {
+      "locale": "zh",
+      "title": "父亲无论如何都为儿子感到骄傲"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "父親無論如何都爲兒子感到驕傲"
+    }
+  ]
 }
