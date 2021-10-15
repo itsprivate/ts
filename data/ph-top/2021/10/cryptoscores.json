@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-15T12:26:23Z"
+  "original_createdAt": "2021-10-15T12:26:23Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "NFTプロジェクトの打ち上げスコア、予測を提供します。",
+      "tagline": "NFTアナリティクスツール"
+    },
+    {
+      "locale": "zh",
+      "description": "我们提供发射分数，以及对NFT项目的预测。",
+      "tagline": "NFT分析工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們提供發射分數，以及對NFT項目的預測。",
+      "tagline": "NFT分析工具"
+    }
+  ]
 }
