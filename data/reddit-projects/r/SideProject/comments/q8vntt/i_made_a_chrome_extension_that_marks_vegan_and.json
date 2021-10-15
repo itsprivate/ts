@@ -136,5 +136,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "UberEatsでヴィーガン・ベジタリアン料理をマークするChrome拡張機能を作ってみた"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个Chrome扩展程序，可以在UberEats上标记素食者和素食者。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個Chrome擴展程序，可以在UberEats上標記素食者和素食者。"
+    }
+  ]
 }
