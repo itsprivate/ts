@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "大きなワンコは、赤ちゃんワンコのために自分の命を犠牲にします。"
+    },
+    {
+      "locale": "zh",
+      "title": "大狗哥为小狗哥牺牲了自己的生命。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "大狗哥爲小狗哥犧牲了自己的生命。"
+    }
+  ]
 }
