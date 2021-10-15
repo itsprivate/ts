@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "or something similar to them But one single Novel (no series if possible)"
+  "the_new_excerpt": "or something similar to them But one single Novel (no series if possible)",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "またはそれに類するもの しかし、一つの小説（できればシリーズものではない）。",
+      "title": "\"Do Androids Dream of Electric Sheep \"や \"Brave New World \"などのディストピアSF小説"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "或与之类似的东西，但要有一本小说（如果可能的话，没有系列）。",
+      "title": "歇斯底里的科幻小说，如 \"安卓人梦见电羊 \"或 \"勇敢的新世界\"。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "或與之類似的東西，但要有一本小說（如果可能的話，沒有系列）。",
+      "title": "歇斯底里的科幻小說，如 \"安卓人夢見電羊 \"或 \"勇敢的新世界\"。"
+    }
+  ]
 }
