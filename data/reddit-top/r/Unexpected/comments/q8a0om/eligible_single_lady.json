@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "資格のある独身女性"
+    },
+    {
+      "locale": "zh",
+      "title": "符合条件的单身女士"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "符合條件的單身女士"
+    }
+  ]
 }
