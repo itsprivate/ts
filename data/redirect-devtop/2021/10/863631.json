@@ -43,5 +43,22 @@
   "original_created_at": "2021-10-14T14:53:16Z",
   "image": "https://dev.to/social_previews/article/863631.png",
   "author": "Ruben Gabrielyan",
-  "author_url": "https://dev.to/rubengabrielian"
+  "author_url": "https://dev.to/rubengabrielian",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私たちの多くは、長い間、JavaScriptのコードを書くことに慣れています。しかし、私たちはそのようなことをしていないかもしれません。",
+      "title": "ストップ・ライティング・ジャバスクリプト\n"
+    },
+    {
+      "locale": "zh",
+      "description": "我们大多数人都习惯于长期编写JavaScript代码。但我们可能没有更新过...",
+      "title": "不要再像这样写JavaScript了\n"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們大多數人都習慣於長期編寫JavaScript代碼。但我們可能沒有更新過...",
+      "title": "不要再像這樣寫JavaScript了\n"
+    }
+  ]
 }
