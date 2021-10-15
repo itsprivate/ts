@@ -52,5 +52,22 @@
   "original_created_at": "2021-10-14T08:35:13Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7kWtB_yL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h8manos3f1nlzftsr54e.png",
   "author": "Ryan Carniato",
-  "author_url": "https://dev.to/ryansolid"
+  "author_url": "https://dev.to/ryansolid",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JavaScriptフレームワークのサイズを見積もるのは、実はとても難しいことです。  サイズを正確に把握することさえ...",
+      "title": "JavaScriptフレームワーク TodoMVCのサイズ比較"
+    },
+    {
+      "locale": "zh",
+      "description": "JavaScript框架的大小实际上是一个相当棘手的问题。  即使是钉子，也有可能是一个 \"大 \"字。",
+      "title": "JavaScript框架TodoMVC尺寸比较"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "JavaScript框架的大小實際上是一個相當棘手的問題。  即使是釘子，也有可能是一個 \"大 \"字。",
+      "title": "JavaScript框架TodoMVC尺寸比較"
+    }
+  ]
 }
