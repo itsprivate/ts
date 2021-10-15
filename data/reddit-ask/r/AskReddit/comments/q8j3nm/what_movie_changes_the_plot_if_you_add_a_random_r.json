@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "タイトルのどこかにランダムに「R」を入れると、プロットが変わる映画は？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你在片名的某个地方随意加上一个 \"R\"，哪部电影会改变情节？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你在片名的某個地方隨意加上一個 \"R\"，哪部電影會改變情節？"
+    }
+  ]
 }
