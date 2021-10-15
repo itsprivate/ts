@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-15T07:01:00Z"
+  "original_createdAt": "2021-10-15T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Luna Displayは、iPad（またはMac）を有線または無線のセカンドディスプレイに変身させるハードウェアソリューションで、Windowsにも対応しています。",
+      "tagline": "iPadをワイヤレスディスプレイに、Windowsにも対応"
+    },
+    {
+      "locale": "zh",
+      "description": "Luna Display是一个硬件解决方案，可以将你的iPad（或Mac）变成一个有线或无线的第二显示器--现在支持Windows!",
+      "tagline": "把你的iPad变成一个无线显示器，现在适用于Windows"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Luna Display是一個硬件解決方案，可以將你的iPad（或Mac）變成一個有線或無線的第二顯示器--現在支持Windows!",
+      "tagline": "把你的iPad變成一個無線顯示器，現在適用於Windows"
+    }
+  ]
 }
