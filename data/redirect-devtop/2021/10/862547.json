@@ -52,5 +52,22 @@
   "original_created_at": "2021-10-13T15:38:52Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WMJ2Oudb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9a4dmhaziy0n971wgfav.jpg",
   "author": "Joel Olawanle",
-  "author_url": "https://dev.to/olawanle_joel"
+  "author_url": "https://dev.to/olawanle_joel",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに react.NETを使ってシングルページアプリケーション（SPA）を作りたいと思ったことはありませんか？",
+      "title": "ReactとSanityでシングルページアプリケーションを作成する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "简介：你是否想过用reacty.com构建一个单页应用程序（SPA）？",
+      "title": "如何用React和Sanity创建一个单页应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介：你是否想過用reacty.com構建一個單頁應用程序（SPA）？",
+      "title": "如何用React和Sanity創建一個單頁應用程序"
+    }
+  ]
 }

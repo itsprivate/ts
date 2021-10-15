@@ -79,5 +79,22 @@
     "retweet_count": 1200,
     "favorite_count": 3896,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @business: EXCLUSIVE: SECは来週、米国初の#ビットコイン先物ETFの取引開始を許可する可能性が高いとのこと。",
+      "retweeted_status_full_text": "EXCLUSIVE: SECは来週、米国初の#Bitcoin先物ETFの取引開始を許可する可能性が高く、cryptoの分岐点となるだろう https://t.co/zWGOfVd2Aa"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @business: 独家：美国证券交易委员会可能会允许美国首个比特币期货ETF在下周开始交易，这将是一个重要的机会。",
+      "retweeted_status_full_text": "独家：美国证券交易委员会可能允许美国首个#比特币期货ETF在下周开始交易，这将是加密货币的一个分水岭https://t.co/zWGOfVd2Aa。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @business: 獨家：美國證券交易委員會可能會允許美國首個比特幣期貨ETF在下週開始交易，這將是一個重要的機會。",
+      "retweeted_status_full_text": "獨家：美國證券交易委員會可能允許美國首個#比特幣期貨ETF在下週開始交易，這將是加密貨幣的一個分水嶺https://t.co/zWGOfVd2Aa。"
+    }
+  ]
 }
