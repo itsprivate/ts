@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-15T03:45:37Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yuV69J08--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q9yi6yr8h004o266onm6.jpg",
   "author": "Goutham JM",
-  "author_url": "https://dev.to/gouthamjm"
+  "author_url": "https://dev.to/gouthamjm",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "クリティカル・パス・レンダリング（Critical Path Rendering）とは、ブラウザが...",
+      "title": "上級フロントエンドデベロッパー , 面接の要点 - パート1"
+    },
+    {
+      "locale": "zh",
+      "description": "关键路径渲染 它是一个浏览器在转换时经历的一系列步骤。",
+      "title": "高级前端开发，面试要点 - 第一部分"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "關鍵路徑渲染 它是一個瀏覽器在轉換時經歷的一系列步驟。",
+      "title": "高級前端開發，面試要點 - 第一部分"
+    }
+  ]
 }
