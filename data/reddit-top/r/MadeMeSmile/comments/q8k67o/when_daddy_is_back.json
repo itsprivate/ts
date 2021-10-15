@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "パパが帰ってきたら"
+    },
+    {
+      "locale": "zh",
+      "title": "当爸爸回来时"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當爸爸回來時"
+    }
+  ]
 }
