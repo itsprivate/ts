@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-15T07:01:00Z"
+  "original_createdAt": "2021-10-15T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "BlogAudioは、簡単にテキストを音声に変換できます。記事を音声に変換して、カスタマイズ可能なプレーヤーをウェブサイトに埋め込むことができます。➤ 25言語、97種類の高品質なAIボイス ➤ WordPressプラグインと簡単なGhostの統合 ➤ 14日間の無料トライアル",
+      "tagline": "記事やブログ記事をAIが生成した音声に変換"
+    },
+    {
+      "locale": "zh",
+      "description": "BlogAudio允许一个简单的文本到语音的转换。将您的文章转换为音频，并将我们可定制的播放器嵌入您的网站中。➤ 有25种语言的97种高质量的AI声音 ➤ WordPress插件和容易的Ghost集成 ➤ 14天免费试用",
+      "tagline": "将文章和博客文章转换为AI生成的音频"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "BlogAudio允許一個簡單的文本到語音的轉換。將您的文章轉換爲音頻，並將我們可定製的播放器嵌入您的網站中。➤ 有25種語言的97種高質量的AI聲音 ➤ WordPress插件和容易的Ghost集成 ➤ 14天免費試用",
+      "tagline": "將文章和博客文章轉換爲AI生成的音頻"
+    }
+  ]
 }
