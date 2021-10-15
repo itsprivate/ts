@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] Support Vector Machines (SVM) が線形分離できないデータをどのように分離するか (ビデオ全編＋.Blendファイルをコメントに添付)"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC] 支持向量机（SVM）如何分离不可线性分离的数据（完整视频+评论中的.Blend文件）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC] 支持向量機（SVM）如何分離不可線性分離的數據（完整視頻+評論中的.Blend文件）。"
+    }
+  ]
 }
