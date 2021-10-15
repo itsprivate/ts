@@ -52,5 +52,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Hey there Redditors!\n\nI am excited to share with you a project that was super fun to build - TweetyAI.\nTweetyAI uses prediction algorithms to generate (believable) tweets based on\nyour past Twitter activity. All you have to do is write down your (or any other)\nTwitter username and generate a tweet…"
+  "the_new_excerpt": "Hey there Redditors!\n\nI am excited to share with you a project that was super fun to build - TweetyAI.\nTweetyAI uses prediction algorithms to generate (believable) tweets based on\nyour past Twitter activity. All you have to do is write down your (or any other)\nTwitter username and generate a tweet…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "Redditorsの皆さん、こんにちは。\n\n今回は、作っていてとても楽しかったプロジェクト「TweetyAI」をご紹介したいと思います。\nTweetyAIは、予測アルゴリズムを使って、あなたの過去のTwitterアクティビティに基づいて（信じられる）ツイートを生成します。\n予測アルゴリズムを使用して、あなたの過去のTwitter活動に基づいて（信じられる）ツイートを生成します。あなたがするべきことは、あなたの（あるいは他の）ツイッターのユーザー名を書き留めることだけです。\nTwitterのユーザー名を書いてツイートを生成するだけです。",
+      "title": "私の友人と私は、AIを使ってあなたのTwitterアクティビティに基づいてツイートを生成するツイートジェネレータを作りました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "嗨，Redditors!\n\n我很高兴与你们分享一个建造起来超级有趣的项目--TweetyAI。\nTweetyAI使用预测算法来生成（可信的）推文，基于\n你过去的Twitter活动。你所要做的就是写下你（或任何其他）的\n推特用户名，然后生成一条推文...",
+      "title": "我和我的朋友做了一个推文生成器，它可以根据你的推特活动用AI生成推文"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "嗨，Redditors!\n\n我很高興與你們分享一個建造起來超級有趣的項目--TweetyAI。\nTweetyAI使用預測算法來生成（可信的）推文，基於\n你過去的Twitter活動。你所要做的就是寫下你（或任何其他）的\n推特用戶名，然後生成一條推文...",
+      "title": "我和我的朋友做了一個推文生成器，它可以根據你的推特活動用AI生成推文"
+    }
+  ]
 }
