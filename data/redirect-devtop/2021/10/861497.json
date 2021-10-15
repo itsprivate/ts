@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-12T22:04:44Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zn6v6sVA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tfetg5kwo126tgg9avsc.png",
   "author": "lucamug",
-  "author_url": "https://dev.to/lucamug"
+  "author_url": "https://dev.to/lucamug",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "シンプルな目標、3つの異なる体験。JavaScript、TypeScript、Elmの型システムを活用しようとするとどうなるか？",
+      "title": "3つのステップで動的型付けから静的型付けへ"
+    },
+    {
+      "locale": "zh",
+      "description": "一个简单的目标，三种不同的体验。当我们试图利用JavaScript、TypeScript和Elm的类型系统时会发生什么？",
+      "title": "从动态类型到静态类型的三个步骤"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個簡單的目標，三種不同的體驗。當我們試圖利用JavaScript、TypeScript和Elm的類型系統時會發生什麼？",
+      "title": "從動態類型到靜態類型的三個步驟"
+    }
+  ]
 }
