@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼の反応"
+    },
+    {
+      "locale": "zh",
+      "title": "他的反应"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他的反應"
+    }
+  ]
 }
