@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "文字通り、たった今壊れました。SECはビットコイン先物ETFに反対しないと言われている"
+    },
+    {
+      "locale": "zh",
+      "title": "从字面上看，刚才已经打破了。美国证券交易委员会表示不反对比特币期货ETF"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "從字面上看，剛纔已經打破了。美國證券交易委員會表示不反對比特幣期貨ETF"
+    }
+  ]
 }
