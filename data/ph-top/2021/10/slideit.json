@@ -48,5 +48,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-16T09:28:35Z"
+  "original_createdAt": "2021-10-16T09:28:35Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "任意のツイートを自動的に署名データベースに保存します。任意のツイートに「@heyslideit notion」と返信するだけです。",
+      "tagline": "ツイートを自動的にNotionに保存"
+    },
+    {
+      "locale": "zh",
+      "description": "自动保存任何推文到你的观念数据库。你只需要对任何推文回复\"@heyslideit notion\"。",
+      "tagline": "自动保存推文到Notion"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "自動保存任何推文到你的觀念數據庫。你只需要對任何推文回覆\"@heyslideit notion\"。",
+      "tagline": "自動保存推文到Notion"
+    }
+  ]
 }
