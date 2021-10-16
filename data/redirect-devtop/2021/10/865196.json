@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-15T21:19:18Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--65MQkQsM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m1mcf707yrhzv7ahekrg.png",
   "author": "GrayGrids",
-  "author_url": "https://dev.to/bootstrap"
+  "author_url": "https://dev.to/bootstrap",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これらのインターフェースを構成するのがUIコンポーネントです。UIコンポーネントには、ナビゲーションや...",
+      "title": "300以上のBootstrap UIコンポーネントとブロック"
+    },
+    {
+      "locale": "zh",
+      "description": "UI组件是这些界面的构建块。它们可以是任何东西，从导航到其他东西。",
+      "title": "300多个Bootstrap UI组件和区块"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "UI組件是這些界面的構建塊。它們可以是任何東西，從導航到其他東西。",
+      "title": "300多個Bootstrap UI組件和區塊"
+    }
+  ]
 }
