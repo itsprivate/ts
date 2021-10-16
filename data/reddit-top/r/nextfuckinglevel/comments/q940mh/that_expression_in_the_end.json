@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "最後にその表現"
+    },
+    {
+      "locale": "zh",
+      "title": "这种表达方式在最后"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這種表達方式在最後"
+    }
+  ]
 }
