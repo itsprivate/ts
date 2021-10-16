@@ -32,5 +32,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "People normally say: just ship it. No matter how small.\n\nSo I did.\n\nMaybe it couldn't even be considered a side-project. Maybe a\ntiny-little-micro-side-project.\n\nBut it solves my problem of having to cmd + click to open Wikipedia external\nlinks in a new tab, every single…"
+  "the_new_excerpt": "People normally say: just ship it. No matter how small.\n\nSo I did.\n\nMaybe it couldn't even be considered a side-project. Maybe a\ntiny-little-micro-side-project.\n\nBut it solves my problem of having to cmd + click to open Wikipedia external\nlinks in a new tab, every single…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "普通の人は、「とにかく出荷しろ」と言います。どんなに小さくても。\n\nだから、私はそうしました。\n\nこれはサイドプロジェクトとは言えないかもしれない。もしかしたら\nちっちゃなちっちゃなサイドプロジェクトです。\n\nしかし、Wikipediaの外部リンクを新しいタブで開くために、いちいちcmd+クリックしなければならないという私の問題を解決してくれました。\n新しいタブで開くためにcmd + クリックしなければならないという問題を解決しました。",
+      "title": "何かを立ち上げるのは、とても久しぶりのことです。WikipediaNewTab (Chrome Extension)をリリースしました。たった5行のコードです。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "人们通常会说：只要把它运出去。无论多小。\n\n所以我做了。\n\n也许它甚至不能被认为是一个副业项目。也许是一个\n小小的、微不足道的副业。\n\n但它解决了我不得不用cmd+点击来打开维基百科外部链接的问题。\n的问题，每一个...",
+      "title": "我已经很久没有推出任何东西了。WikipediaNewTab（Chrome扩展）上线了。只有5行代码😂"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "人們通常會說：只要把它運出去。無論多小。\n\n所以我做了。\n\n也許它甚至不能被認爲是一個副業項目。也許是一個\n小小的、微不足道的副業。\n\n但它解決了我不得不用cmd+點擊來打開維基百科外部鏈接的問題。\n的問題，每一個...",
+      "title": "我已經很久沒有推出任何東西了。WikipediaNewTab（Chrome擴展）上線了。只有5行代碼😂"
+    }
+  ]
 }
