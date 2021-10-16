@@ -43,5 +43,22 @@
   "original_created_at": "2021-10-06T04:49:35Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SRyOZ20t--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nifu6i8q6ootxiow4inh.png",
   "author": "Shreyansh sheth",
-  "author_url": "https://dev.to/shreyanshsheth"
+  "author_url": "https://dev.to/shreyanshsheth",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "タイプスクリプトとは何か？  Typescriptは、Javaのように強く型付けされたプログラミング言語です...",
+      "title": "なぜ、JavascriptよりもTypescriptを使うべきなのか？"
+    },
+    {
+      "locale": "zh",
+      "description": "Typescript到底是什么？  Typescript是一种强类型的编程语言，如Java...",
+      "title": "为什么你应该使用Typescript而不是Javascript？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Typescript到底是什麼？  Typescript是一種強類型的編程語言，如Java...",
+      "title": "爲什麼你應該使用Typescript而不是Javascript？"
+    }
+  ]
 }
