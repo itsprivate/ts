@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Hard back for $2 at thrift"
+  "the_new_excerpt": "Hard back for $2 at thrift",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "スリフトで2ドルのハードバック",
+      "title": "ドラゴンタトゥーの女」を買うべきか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "2美元的精装书，在旧货市场买的",
+      "title": "我应该购买《龙纹身的女孩》吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "2美元的精裝書，在舊貨市場買的",
+      "title": "我應該購買《龍紋身的女孩》嗎？"
+    }
+  ]
 }
