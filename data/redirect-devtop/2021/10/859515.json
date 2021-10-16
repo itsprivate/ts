@@ -50,5 +50,22 @@
   "original_created_at": "2021-10-11T12:20:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wW_eG21z--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0zbh3sjpwndzmvkkflo2.jpg",
   "author": "Zygimantas Sniurevicius",
-  "author_url": "https://dev.to/zygiss22"
+  "author_url": "https://dev.to/zygiss22",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "開発者の皆さん、こんにちは。今日は、自分の声や画面をどれだけ簡単に録音できるかを見てみましょう。",
+      "title": "JavascriptでのMediaStream API"
+    },
+    {
+      "locale": "zh",
+      "description": "今天，我们将看到，要想把你的声音或屏幕录下来是多么容易。",
+      "title": "Javascript中的MediaStream API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "今天，我們將看到，要想把你的聲音或屏幕錄下來是多麼容易。",
+      "title": "Javascript中的MediaStream API"
+    }
+  ]
 }
