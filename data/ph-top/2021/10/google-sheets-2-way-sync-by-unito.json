@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-16T07:05:46Z"
+  "original_createdAt": "2021-10-16T07:05:46Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "手作業によるデータの抽出、集計、時間のかかるレポートの更新をなくし、毎週何時間もの作業を削減します。Unitoでは、他の業務ツールから自動的にデータを抽出してレポートやダッシュボードを作成し、すべてを同期させることができます。",
+      "tagline": "Google SheetsとTrello、Jira、Airtableなどとの同期"
+    },
+    {
+      "locale": "zh",
+      "description": "通过消除手工数据提取、汇总和耗时的报告更新，每周节省数小时的工作。Unito允许你自动从其他工作工具中提取数据，建立报告和仪表盘，并保持一切同步。",
+      "tagline": "将谷歌表格与Trello、Jira、Airtable等进行同步"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "通過消除手工數據提取、彙總和耗時的報告更新，每週節省數小時的工作。Unito允許你自動從其他工作工具中提取數據，建立報告和儀表盤，並保持一切同步。",
+      "tagline": "將谷歌表格與Trello、Jira、Airtable等進行同步"
+    }
+  ]
 }
