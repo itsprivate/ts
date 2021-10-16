@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Bitcoin Gorilla - Can you feel the pumpening?"
+    },
+    {
+      "locale": "zh",
+      "title": "比特币大猩猩--你能感觉到泵的作用吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比特幣大猩猩--你能感覺到泵的作用嗎？"
+    }
+  ]
 }
