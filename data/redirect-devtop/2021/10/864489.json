@@ -50,5 +50,22 @@
   "original_created_at": "2021-10-15T08:57:28Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dJN_dMrv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jc9a62ogwwo2xg6ez94b.png",
   "author": "Keff",
-  "author_url": "https://dev.to/nombrekeff"
+  "author_url": "https://dev.to/nombrekeff",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは👋 今回も短い記事をお届けします。          これに関する記事はたくさんありますが...",
+      "title": "クリーンコード」という言葉は誤解を招く恐れがありますが、私はこのように考えています。"
+    },
+    {
+      "locale": "zh",
+      "description": "嘿，👋我又回来了，又是一篇短小的文章。          有许多关于这个问题的文章。",
+      "title": "术语 \"干净的代码 \"有误导性 - 这是我的看法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嘿，👋我又回來了，又是一篇短小的文章。          有許多關於這個問題的文章。",
+      "title": "術語 \"乾淨的代碼 \"有誤導性 - 這是我的看法"
+    }
+  ]
 }
