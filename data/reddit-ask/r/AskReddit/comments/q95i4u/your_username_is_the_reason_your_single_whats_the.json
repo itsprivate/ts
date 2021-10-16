@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたのユーザーネームは、あなたがシングルである理由です。"
+    },
+    {
+      "locale": "zh",
+      "title": "你的用户名是你单身的原因。什么原因呢？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你的用戶名是你單身的原因。什麼原因呢？"
+    }
+  ]
 }
