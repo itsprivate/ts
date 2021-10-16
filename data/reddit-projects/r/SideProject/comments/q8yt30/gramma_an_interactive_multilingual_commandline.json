@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Gramma - Linux / Windows / macOS用の対話型、多言語対応のコマンドライン文法チェッカー - フリー、オープンソース"
+    },
+    {
+      "locale": "zh",
+      "title": "Gramma - 适用于Linux / Windows / macOS的交互式多语言命令行语法检查器 - 免费且开源"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Gramma - 適用於Linux / Windows / macOS的交互式多語言命令行語法檢查器 - 免費且開源"
+    }
+  ]
 }
