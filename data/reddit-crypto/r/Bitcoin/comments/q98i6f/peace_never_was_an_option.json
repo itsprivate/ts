@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "平和という選択肢はなかった"
+    },
+    {
+      "locale": "zh",
+      "title": "和平从来不是一种选择"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "和平從來不是一種選擇"
+    }
+  ]
 }
