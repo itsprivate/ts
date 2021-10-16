@@ -52,5 +52,22 @@
   "original_created_at": "2021-10-14T04:28:25Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sfy46VSa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bvenithos9txrtht643h.jpg",
   "author": "Prosper Otemuyiwa",
-  "author_url": "https://dev.to/unicodeveloper"
+  "author_url": "https://dev.to/unicodeveloper",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "マーク・アンドリーセンは、10年前に「ソフトウェアが世界を食っている」という有名な言葉を残しました。この10年間で、...",
+      "title": "The Developer Advocate ToolKit」です。速く動くために必要なソフトウェアツール"
+    },
+    {
+      "locale": "zh",
+      "description": "马克-安德森（Marc Andreessen）十年前曾说过一句著名的话：\"软件正在吃掉世界\"。在过去的十年里，...",
+      "title": "开发者倡导者工具包。你需要的软件工具，以快速移动"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "馬克-安德森（Marc Andreessen）十年前曾說過一句著名的話：\"軟件正在喫掉世界\"。在過去的十年裏，...",
+      "title": "開發者倡導者工具包。你需要的軟件工具，以快速移動"
+    }
+  ]
 }
