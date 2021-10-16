@@ -57,5 +57,22 @@
   "original_created_at": "2021-10-13T19:45:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KD0Vyv4c--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/phm9bkkpjst1rg1tu8kl.jpg",
   "author": "Margo McCabe",
-  "author_url": "https://dev.to/margo_hdb"
+  "author_url": "https://dev.to/margo_hdb",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "HarperDBが他のデータベースとどのように違うのか、ご存知の方も多いと思いますが...。",
+      "title": "リアルワールドでのHarperDB "
+    },
+    {
+      "locale": "zh",
+      "description": "现在你可能已经熟悉了HarperDB以及我们与其他数据库的不同之处，但...",
+      "title": "真实世界中的HarperDB "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "現在你可能已經熟悉了HarperDB以及我們與其他數據庫的不同之處，但...",
+      "title": "真實世界中的HarperDB "
+    }
+  ]
 }
