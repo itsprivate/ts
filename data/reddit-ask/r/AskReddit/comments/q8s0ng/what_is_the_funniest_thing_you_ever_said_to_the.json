@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今まで先生に言った中で、一番面白かったことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你对医生说过的最有趣的话是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你對醫生說過的最有趣的話是什麼？"
+    }
+  ]
 }
