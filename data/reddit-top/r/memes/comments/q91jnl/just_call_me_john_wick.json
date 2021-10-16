@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Just call me John Wick"
+    },
+    {
+      "locale": "zh",
+      "title": "就叫我约翰-维克吧"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "就叫我約翰-維克吧"
+    }
+  ]
 }
