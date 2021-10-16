@@ -48,5 +48,22 @@
   "original_created_at": "2021-10-01T23:39:12Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--q8pPOPY5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x230g63nq1xb0j4laouz.jpg",
   "author": "Lars Gyrup Brink Nielsen",
-  "author_url": "https://dev.to/layzee"
+  "author_url": "https://dev.to/layzee",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "AngularのテストベッドにModuleTeardownOptions#destroyAfterEachオプションを導入しました。",
+      "title": "Angularテストモジュールのティアダウンを可能にすることによるAngularテストの改善"
+    },
+    {
+      "locale": "zh",
+      "description": "引入Angular测试平台的ModuleTeardownOptions#destroyAfterEach选项。",
+      "title": "通过启用Angular测试模块拆解来改进Angular测试"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "引入Angular測試平臺的ModuleTeardownOptions#destroyAfterEach選項。",
+      "title": "通過啓用Angular測試模塊拆解來改進Angular測試"
+    }
+  ]
 }
