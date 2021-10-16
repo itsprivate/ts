@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-15T13:21:55Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4HurjrMf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o81a5l0cvzh0l6tvt2lh.png",
   "author": "The Nerdy Dev",
-  "author_url": "https://dev.to/thenerdydev"
+  "author_url": "https://dev.to/thenerdydev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "みなさん、こんにちは👋🏻 今回は、あなたが作ることのできる11のプロジェクトをご紹介します。",
+      "title": "JavaScriptとReactを学ぶために、これらの11のプロジェクト（10 JS+1 React）を作ってみましょう。"
+    },
+    {
+      "locale": "zh",
+      "description": "嘿，各位👋🏻，在这篇文章中，让我们看看我为你准备了哪些11个项目，你可以为这些项目进行建造。",
+      "title": "制作这11个项目（10个JS+1个React）来学习JavaScript和React"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嘿，各位👋🏻，在這篇文章中，讓我們看看我爲你準備了哪些11個項目，你可以爲這些項目進行建造。",
+      "title": "製作這11個項目（10個JS+1個React）來學習JavaScript和React"
+    }
+  ]
 }
