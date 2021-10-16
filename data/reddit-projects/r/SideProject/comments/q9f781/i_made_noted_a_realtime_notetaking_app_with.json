@@ -42,5 +42,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Noted is a Nuxt 2 app for note-taking in markdown format with syntax\nhighlighting. It works offline and keeps data on-device. I attempted to use\nneumorphism design and do all the styles by hand.\n\nYou can try it out at noted.yeger.eu [https://noted.yeger.eu] or check the\nsource code at…"
+  "the_new_excerpt": "Noted is a Nuxt 2 app for note-taking in markdown format with syntax\nhighlighting. It works offline and keeps data on-device. I attempted to use\nneumorphism design and do all the styles by hand.\n\nYou can try it out at noted.yeger.eu [https://noted.yeger.eu] or check the\nsource code at…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "Notedは、シンタックスハイライト機能を備えたマークダウン形式でノートを取るためのNuxt 2アプリです。\n強調表示することができます。オフラインで動作し、データはデバイス上に保存されます。私は次のことを試みました。\nネオモーフィズムデザインを採用し、すべてのスタイルを手作業で行っています。\n\nnoted.yeger.eu [https://noted.yeger.eu]で試すことができます。\nでソースコードを確認することができます...",
+      "title": "シンタックスハイライト機能付きのリアルタイムノートアプリ「Noted」を作ってみた"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "Noted是一个Nuxt 2应用程序，用于记下markdown格式的笔记，具有语法\n高亮显示。它可以离线工作，并在设备上保存数据。我试图使用\nneumorphism设计，并手工完成所有的样式。\n\n你可以在 noted.yeger.eu [https://noted.yeger.eu] 上试用它，或者查看\n源代码...",
+      "title": "我做了Noted，一个带语法高亮的实时记事应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "Noted是一個Nuxt 2應用程序，用於記下markdown格式的筆記，具有語法\n高亮顯示。它可以離線工作，並在設備上保存數據。我試圖使用\nneumorphism設計，並手工完成所有的樣式。\n\n你可以在 noted.yeger.eu [https://noted.yeger.eu] 上試用它，或者查看\n源代碼...",
+      "title": "我做了Noted，一個帶語法高亮的實時記事應用程序"
+    }
+  ]
 }
