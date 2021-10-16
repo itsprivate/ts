@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-16T07:30:00Z"
+  "original_createdAt": "2021-10-16T07:30:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Kubernateは、KubernetesのYAMLファイルを簡単に生成するために使用されるライブラリです。Helmのように、実際のコードで考えてみましょう。あなたは、好きな種類の入力を使用しながら、好きなものを生成する力を持っています。",
+      "tagline": "プログラムによるKubernetesのYAMLの生成"
+    },
+    {
+      "locale": "zh",
+      "description": "Kubernate是一个库，用于轻松生成Kubernetes YAML文件。想想看，就像Helm，但有实际的代码。你有能力生成你想要的任何东西，同时使用你想要的任何类型的输入。",
+      "tagline": "以编程方式生成Kubernetes YAMLs"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Kubernate是一個庫，用於輕鬆生成Kubernetes YAML文件。想想看，就像Helm，但有實際的代碼。你有能力生成你想要的任何東西，同時使用你想要的任何類型的輸入。",
+      "tagline": "以編程方式生成Kubernetes YAMLs"
+    }
+  ]
 }
