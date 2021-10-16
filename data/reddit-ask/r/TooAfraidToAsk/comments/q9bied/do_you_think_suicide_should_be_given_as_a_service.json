@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "自殺を希望する人へのサービスとして提供し、合法化すべきだと思いますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你认为应该把自杀作为一种服务提供给那些想自杀的人，并使之合法化吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你認爲應該把自殺作爲一種服務提供給那些想自殺的人，並使之合法化嗎？"
+    }
+  ]
 }
