@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-16T07:06:43Z",
   "image": "https://dev.to/social_previews/article/865523.png",
   "author": "javinpaul",
-  "author_url": "https://dev.to/javinpaul"
+  "author_url": "https://dev.to/javinpaul",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Dev.to、Medium、その他のオンラインポータルのJava記事トップ10",
+      "title": "今週のJava記事トップ10"
+    },
+    {
+      "locale": "zh",
+      "description": "排名前十的Java文章来自Dev.to、Medium和其他在线门户网站",
+      "title": "本周排名前十的Java文章"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "排名前十的Java文章來自Dev.to、Medium和其他在線門戶網站",
+      "title": "本週排名前十的Java文章"
+    }
+  ]
 }

@@ -43,5 +43,22 @@
   "original_created_at": "2021-10-16T18:42:04Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qlf4UADh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zhtskzs6bez2x2lo5nb6.jpg",
   "author": "Oghenovo Usiwoma",
-  "author_url": "https://dev.to/eunovo"
+  "author_url": "https://dev.to/eunovo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Cover Photo by Fidel Fernando on Unsplash さて、最近、私はある問題を解決しなければなりませんでした。",
+      "title": "NodeJSでCPU負荷の高いジョブを処理する"
+    },
+    {
+      "locale": "zh",
+      "description": "封面照片：Fidel Fernando on Unsplash 所以，我最近不得不解决我的一个问题。",
+      "title": "在NodeJS中处理CPU密集型的工作"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "封面照片：Fidel Fernando on Unsplash 所以，我最近不得不解決我的一個問題。",
+      "title": "在NodeJS中處理CPU密集型的工作"
+    }
+  ]
 }
