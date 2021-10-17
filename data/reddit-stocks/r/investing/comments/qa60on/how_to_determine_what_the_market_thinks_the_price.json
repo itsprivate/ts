@@ -103,5 +103,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1634499624,
-  "the_new_excerpt": "For inflation, I understand that TIPS are equivalent to market-based predictors\nof what level inflation will be (graphed:\nhttps://fred.stlouisfed.org/series/T5YIE).\n\nIs there the equivalent for the future price of a stock or index? For example,\nif I wanted to answer the question \"what does the…"
+  "the_new_excerpt": "For inflation, I understand that TIPS are equivalent to market-based predictors\nof what level inflation will be (graphed:\nhttps://fred.stlouisfed.org/series/T5YIE).\n\nIs there the equivalent for the future price of a stock or index? For example,\nif I wanted to answer the question \"what does the…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "インフレについては、TIPSは市場ベースのインフレ予測に相当すると理解しています。\nインフレがどの程度の水準になるかを市場で予測したものに相当すると理解しています（グラフ化。\nhttps://fred.stlouisfed.org/series/T5YIE）。)\n\n株式や指数の将来の価格に相当するものはありますか？例えばですが\nという質問に答えようと思ったら...。",
+      "title": "例えば$SPYの価格が将来的にどのようになると市場が考えているかを判断する方法"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "对于通货膨胀，我的理解是，TIPS相当于基于市场的预测器\n通货膨胀将达到什么水平（图示。\nhttps://fred.stlouisfed.org/series/T5YIE）。)\n\n对于股票或指数的未来价格，是否有相应的说法？比如说。\n如果我想回答 \"什么是...... \"的问题。",
+      "title": "如何确定市场认为例如$SPY的价格在未来会是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "對於通貨膨脹，我的理解是，TIPS相當於基於市場的預測器\n通貨膨脹將達到什麼水平（圖示。\nhttps://fred.stlouisfed.org/series/T5YIE）。)\n\n對於股票或指數的未來價格，是否有相應的說法？比如說。\n如果我想回答 \"什麼是...... \"的問題。",
+      "title": "如何確定市場認爲例如$SPY的價格在未來會是什麼？"
+    }
+  ]
 }
