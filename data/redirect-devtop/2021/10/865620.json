@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-16T08:16:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZyuglaVz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6eqdglvvzak748l1xkvq.jpeg",
   "author": "javinpaul",
-  "author_url": "https://dev.to/javinpaul"
+  "author_url": "https://dev.to/javinpaul",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Javaの面接でよく聞かれる、二分木を使ったコーディング問題。",
+      "title": "Java開発者のための21のバイナリツリーコーディング問題"
+    },
+    {
+      "locale": "zh",
+      "description": "基于二叉树的编码问题在Java面试中经常被问到。",
+      "title": "21个供Java开发者使用的二叉树编码问题"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "基於二叉樹的編碼問題在Java面試中經常被問到。",
+      "title": "21個供Java開發者使用的二叉樹編碼問題"
+    }
+  ]
 }
