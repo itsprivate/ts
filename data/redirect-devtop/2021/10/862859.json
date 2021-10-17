@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-13T21:34:18Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FEwKqtMr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uo9u8bvgfgyvkjb4t5ug.jpeg",
   "author": "Kevin Beltrão",
-  "author_url": "https://dev.to/kevbeltrao"
+  "author_url": "https://dev.to/kevbeltrao",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "リポジトリには完全なコードが含まれているので、同じようなことをしたい方は、ぜひご覧ください。",
+      "title": "React Typescript Microfrontend Monorepo with single-spa + Lerna"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你想跟上的话，可以在资料库中找到完整的代码。",
+      "title": "React Typescript Microfrontend Monorepo with single-spa + Lerna"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你想跟上的話，可以在資料庫中找到完整的代碼。",
+      "title": "React Typescript Microfrontend Monorepo with single-spa + Lerna"
+    }
+  ]
 }
