@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの命は1分しかありません。あなたは何をしますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你只有1分钟的生命。你会怎么做？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你只有1分鐘的生命。你會怎麼做？"
+    }
+  ]
 }
