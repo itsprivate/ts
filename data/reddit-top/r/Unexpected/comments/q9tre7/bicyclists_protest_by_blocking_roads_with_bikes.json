@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Bicyclists 自転車で道路を塞いで抗議する。"
+    },
+    {
+      "locale": "zh",
+      "title": "骑自行车的人用自行车堵住道路，进行抗议。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "騎自行車的人用自行車堵住道路，進行抗議。"
+    }
+  ]
 }
