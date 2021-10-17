@@ -39,5 +39,22 @@
   "original_created_at": "2021-10-16T21:05:54Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cUWfy7TY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://pbs.twimg.com/media/FB2Po1tVIAA-i3O%3Fformat%3Djpg%26name%3Dlarge",
   "author": "swyx",
-  "author_url": "https://dev.to/swyx"
+  "author_url": "https://dev.to/swyx",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "読みやすいサイトにするための基本ユーザーエージェントスタイルシートの簡単なアップグレード",
+      "title": "100バイトのCSSでどこでも素敵に"
+    },
+    {
+      "locale": "zh",
+      "description": "简单地抓取并升级到基本的用户代理样式表，使网站具有可读性",
+      "title": "100字节的CSS，在任何地方都看起来很棒"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡單地抓取並升級到基本的用戶代理樣式表，使網站具有可讀性",
+      "title": "100字節的CSS，在任何地方都看起來很棒"
+    }
+  ]
 }
