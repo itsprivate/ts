@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-17T07:02:24Z"
+  "original_createdAt": "2021-10-17T07:02:24Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Nifty Pixelsは、32x32ピクセルアートの描画、ミント、販売をすべて同じ場所で行うことができるプラットフォームです。私たちの目標は、オリジナルの1/1ピクセルアートNFTの世界最大のコレクションを作ることです!",
+      "tagline": "ピクセルアートのNFTを数秒で描いて売る"
+    },
+    {
+      "locale": "zh",
+      "description": "Nifty Pixels是一个平台，让你在同一个地方绘制、铸造和销售32x32的像素艺术。我们的目标是创建世界上最大的原创1/1像素艺术NFT的集合",
+      "tagline": "在几秒钟内绘制和销售像素艺术NFTs"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Nifty Pixels是一個平臺，讓你在同一個地方繪製、鑄造和銷售32x32的像素藝術。我們的目標是創建世界上最大的原創1/1像素藝術NFT的集合",
+      "tagline": "在幾秒鐘內繪製和銷售像素藝術NFTs"
+    }
+  ]
 }
