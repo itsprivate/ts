@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-15T08:27:26Z",
   "image": "https://dev.to/social_previews/article/864477.png",
   "author": "Rahul Soni",
-  "author_url": "https://dev.to/inosrahul"
+  "author_url": "https://dev.to/inosrahul",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このように、ファイルやコンポーネントを複数行で取り込むことは誰にでもあることです。",
+      "title": "ファイルをきれいに取り込む方法 "
+    },
+    {
+      "locale": "zh",
+      "description": "我们有时都会像这样多行导入文件或组件，这就可以了，如果...",
+      "title": "如何干净地导入你的文件。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們有時都會像這樣多行導入文件或組件，這就可以了，如果...",
+      "title": "如何幹淨地導入你的文件。"
+    }
+  ]
 }
