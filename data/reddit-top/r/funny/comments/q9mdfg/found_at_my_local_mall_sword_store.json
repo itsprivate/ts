@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "近所の \"モール刀剣店 \"で発見"
+    },
+    {
+      "locale": "zh",
+      "title": "在我当地的 \"商场剑店 \"找到的"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在我當地的 \"商場劍店 \"找到的"
+    }
+  ]
 }
