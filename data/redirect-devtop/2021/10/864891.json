@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-15T16:16:31Z",
   "image": "https://dev.to/social_previews/article/864891.png",
   "author": "Juan Pablo Djeredjian",
-  "author_url": "https://dev.to/juandj"
+  "author_url": "https://dev.to/juandj",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、私は現在の職場でグリーンフィールド・プロジェクトを始める機会を得ました（そして特権も得ました！）。",
+      "title": "React Queryを使ってReactアプリの状態管理を解決する"
+    },
+    {
+      "locale": "zh",
+      "description": "我最近有机会（也很荣幸）在我目前的工作岗位上启动一个绿地项目。",
+      "title": "使用React查询来解决React应用中的状态管理问题"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我最近有機會（也很榮幸）在我目前的工作崗位上啓動一個綠地項目。",
+      "title": "使用React查詢來解決React應用中的狀態管理問題"
+    }
+  ]
 }
