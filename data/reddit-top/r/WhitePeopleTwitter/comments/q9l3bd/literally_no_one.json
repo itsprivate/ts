@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "文字通り誰も"
+    },
+    {
+      "locale": "zh",
+      "title": "从字面上看，没有人"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "從字面上看，沒有人"
+    }
+  ]
 }
