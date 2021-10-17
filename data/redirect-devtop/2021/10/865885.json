@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-16T15:24:16Z",
   "image": "https://dev.to/social_previews/article/865885.png",
   "author": "Sonam Shukla",
-  "author_url": "https://dev.to/sonam_shukla_707cc1e27f23"
+  "author_url": "https://dev.to/sonam_shukla_707cc1e27f23",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ここでは、実際に開発者になったことのない人や、開発者になったことのない人が、たくさんの間違ったアドバイスをしています。",
+      "title": "開発者になるために必要な唯一のアドバイス"
+    },
+    {
+      "locale": "zh",
+      "description": "这里有很多错误的建议，这些人从来没有真正做过开发商或...",
+      "title": "成为开发者需要的唯一建议"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這裏有很多錯誤的建議，這些人從來沒有真正做過開發商或...",
+      "title": "成爲開發者需要的唯一建議"
+    }
+  ]
 }

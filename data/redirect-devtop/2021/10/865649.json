@@ -42,5 +42,22 @@
   "original_created_at": "2021-10-16T09:46:35Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WRMdV_sa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gbey38nzybj0a95fg1lk.jpeg",
   "author": "dyagzy",
-  "author_url": "https://dev.to/dyagzy"
+  "author_url": "https://dev.to/dyagzy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "目次 はじめに 必要なツール Cloudinaryアカウントの設定 Visual...",
+      "title": "EndSars Photo/Image Gallery Using C# Asp.Net Core 5 Mvc, Cloudinary and Auth0 Api"
+    },
+    {
+      "locale": "zh",
+      "description": "内容简介 所需的工具 设置Cloudinary账户 Visual...",
+      "title": "使用C# Asp.Net Core 5 Mvc、Cloudinary和Auth0 Api的EndSars照片/图片库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "內容簡介 所需的工具 設置Cloudinary賬戶 Visual...",
+      "title": "使用C# Asp.Net Core 5 Mvc、Cloudinary和Auth0 Api的EndSars照片/圖片庫"
+    }
+  ]
 }
