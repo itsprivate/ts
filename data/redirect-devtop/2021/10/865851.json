@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-16T13:22:57Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JCqFcUF5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b0uoo68sriq67tc3ey8f.png",
   "author": "Alexandre Desroches",
-  "author_url": "https://dev.to/alexdrocks"
+  "author_url": "https://dev.to/alexdrocks",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "パーセルバージョン2は、2021年10月13日に公開されました。彼らのブログ記事にもあるように、また、...",
+      "title": "Parcel.js v2 Bundlerは、優れたウェブ開発ビルドツールです。"
+    },
+    {
+      "locale": "zh",
+      "description": "Parcel第二版于2021年10月13日公开发布--从他们的博文中可以看出，也是在...",
+      "title": "Parcel.js v2 Bundler，是一个优秀的网络开发构建工具。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Parcel第二版於2021年10月13日公開發布--從他們的博文中可以看出，也是在...",
+      "title": "Parcel.js v2 Bundler，是一個優秀的網絡開發構建工具。"
+    }
+  ]
 }
