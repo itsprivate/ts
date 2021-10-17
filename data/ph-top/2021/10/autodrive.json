@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-17T07:06:18Z"
+  "original_createdAt": "2021-10-17T07:06:18Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "AutoDriveは、お客様のGoogle DriveドキュメントのGumroadでの販売を監視し、閲覧のみの権限で購入者に商品を届ける役割を担う営業アシスタントです。https://www.producthunt.com/posts/onlysheets に代わる安価な手段です。",
+      "tagline": "Gumroadで販売しているGoogle Driveのファイルへのアクセスを自動化します。"
+    },
+    {
+      "locale": "zh",
+      "description": "AutoDrive是您的销售助理，其职责是监控您的Google Drive文档在Gumroad的销售情况，并将产品交付给具有只读权限的买家。这是一个更便宜的替代品，https://www.producthunt.com/posts/onlysheets",
+      "tagline": "自动访问您在Gumroad上销售的Google Drive文件。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "AutoDrive是您的銷售助理，其職責是監控您的Google Drive文檔在Gumroad的銷售情況，並將產品交付給具有隻讀權限的買家。這是一個更便宜的替代品，https://www.producthunt.com/posts/onlysheets",
+      "tagline": "自動訪問您在Gumroad上銷售的Google Drive文件。"
+    }
+  ]
 }
