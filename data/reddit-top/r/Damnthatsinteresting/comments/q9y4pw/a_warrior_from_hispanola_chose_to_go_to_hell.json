@@ -42,5 +42,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ヒスパノラの戦士は、残酷な行為を避けるために、天国ではなく地獄に行くことを選んだ。"
+    },
+    {
+      "locale": "zh",
+      "title": "一个来自西班牙的战士，选择去地狱而不是天堂，以避免残忍的行为"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個來自西班牙的戰士，選擇去地獄而不是天堂，以避免殘忍的行爲"
+    }
+  ]
 }

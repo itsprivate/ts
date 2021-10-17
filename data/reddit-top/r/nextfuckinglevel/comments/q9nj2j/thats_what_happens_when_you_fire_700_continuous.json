@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "700発も連射したらそうなるよね"
+    },
+    {
+      "locale": "zh",
+      "title": "这就是当你连续发射700发子弹时的情况"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這就是當你連續發射700發子彈時的情況"
+    }
+  ]
 }
