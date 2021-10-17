@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-15T15:10:00Z",
   "image": "https://dev.to/social_previews/article/864804.png",
   "author": "Mohsen Esmailpour",
-  "author_url": "https://dev.to/moesmp"
+  "author_url": "https://dev.to/moesmp",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "HTTPリクエストでビジネスユースケースを実現するために、データをデータベースに保存する必要がある場合があります。",
+      "title": "ASP.NET Coreにおけるトランザクションミドルウェア"
+    },
+    {
+      "locale": "zh",
+      "description": "有时为了满足HTTP请求中的业务用例，你需要将数据保存在数据库中。",
+      "title": "ASP.NET核心中的交易中间件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有時爲了滿足HTTP請求中的業務用例，你需要將數據保存在數據庫中。",
+      "title": "ASP.NET核心中的交易中間件"
+    }
+  ]
 }
