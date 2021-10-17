@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ファースト・サポーター"
+    },
+    {
+      "locale": "zh",
+      "title": "第一个支持者"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "第一個支持者"
+    }
+  ]
 }
