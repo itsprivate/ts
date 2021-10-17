@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "1～100歳のアメリカ人"
+    },
+    {
+      "locale": "zh",
+      "title": "1-100岁的美国人"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "1-100歲的美國人"
+    }
+  ]
 }
