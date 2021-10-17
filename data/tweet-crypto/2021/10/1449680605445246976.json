@@ -134,5 +134,22 @@
     "retweet_count": 6354,
     "favorite_count": 19583,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @RWMaloneMD: No Mandates. https://t.co/9U7kSCNH5c",
+      "retweeted_status_full_text": "No Mandates. https://t.co/9U7kSCNH5c"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @RWMaloneMD: 没有任务。https://t.co/9U7kSCNH5c。",
+      "retweeted_status_full_text": "没有任务。https://t.co/9U7kSCNH5c"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @RWMaloneMD: 沒有任務。https://t.co/9U7kSCNH5c。",
+      "retweeted_status_full_text": "沒有任務。https://t.co/9U7kSCNH5c"
+    }
+  ]
 }
