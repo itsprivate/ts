@@ -154,5 +154,22 @@
     "retweet_count": 2377,
     "favorite_count": 12305,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @saylor です。#ビットコインはキングメーカー https://t.co/kh3HsHN9Fc",
+      "retweeted_status_full_text": "#ビットコインはキングメーカー https://t.co/kh3HsHN9Fc"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @saylor: #比特币是造王者。https://t.co/kh3HsHN9Fc",
+      "retweeted_status_full_text": "#比特币是造王者。https://t.co/kh3HsHN9Fc"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @saylor: #比特幣是造王者。https://t.co/kh3HsHN9Fc",
+      "retweeted_status_full_text": "#比特幣是造王者。https://t.co/kh3HsHN9Fc"
+    }
+  ]
 }
