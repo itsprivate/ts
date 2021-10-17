@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "非常に奇妙だが大丈夫"
+    },
+    {
+      "locale": "zh",
+      "title": "非常奇怪，但还可以"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "非常奇怪，但還可以"
+    }
+  ]
 }
