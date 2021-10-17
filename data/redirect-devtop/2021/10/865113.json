@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-15T18:09:22Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0pmRbIcs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4hjvap8num2ngjp2xdpy.png",
   "author": "Anjan Shomooder",
-  "author_url": "https://dev.to/thatanjan"
+  "author_url": "https://dev.to/thatanjan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "では、なぜそれを使うべきなのか？単純に、問題を解決してくれるからです。では、どのような問題があるかというと...。",
+      "title": "Nextjsを使うべき13の理由"
+    },
+    {
+      "locale": "zh",
+      "description": "现在，我们为什么要使用它？只因为它能解决我们的问题。因此，让我们看看那些问题，...",
+      "title": "你应该使用Nextjs的13个理由"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "現在，我們爲什麼要使用它？只因爲它能解決我們的問題。因此，讓我們看看那些問題，...",
+      "title": "你應該使用Nextjs的13個理由"
+    }
+  ]
 }

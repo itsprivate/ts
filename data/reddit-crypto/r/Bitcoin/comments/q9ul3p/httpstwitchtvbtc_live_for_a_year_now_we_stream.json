@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "https://twitch.tv/btc_live 1年前から、ビットコインのmempool取引をリアルタイムで視覚化して配信しています、ご視聴ありがとうございます。"
+    },
+    {
+      "locale": "zh",
+      "title": "https://twitch.tv/btc_live 一年来，我们对比特币mempool交易的可视化进行了实时直播，感谢您的观看!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "https://twitch.tv/btc_live 一年來，我們對比特幣mempool交易的可視化進行了實時直播，感謝您的觀看!"
+    }
+  ]
 }
