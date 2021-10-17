@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-16T18:11:08Z"
+  "original_createdAt": "2021-10-16T18:11:08Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "世界各国のCOVID、ビザ、ソケットタイプ、その他関連する旅行情報を確認できます。",
+      "tagline": "旅行情報データベース"
+    },
+    {
+      "locale": "zh",
+      "description": "检查世界各地任何国家的COVID、签证要求、插座类型和其他相关的旅行信息。",
+      "tagline": "旅游信息数据库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "檢查世界各地任何國家的COVID、簽證要求、插座類型和其他相關的旅行信息。",
+      "tagline": "旅遊信息數據庫"
+    }
+  ]
 }
