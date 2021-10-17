@@ -134,5 +134,22 @@
     "retweet_count": 3720,
     "favorite_count": 21685,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @100trillionUSD: Are you ready? https://t.co/jFDpM6ozyZ",
+      "retweeted_status_full_text": "Are you ready? https://t.co/jFDpM6ozyZ"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @100trillionUSD: 你准备好了吗？https://t.co/jFDpM6ozyZ",
+      "retweeted_status_full_text": "你准备好了吗？https://t.co/jFDpM6ozyZ"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @100trillionUSD: 你準備好了嗎？https://t.co/jFDpM6ozyZ",
+      "retweeted_status_full_text": "你準備好了嗎？https://t.co/jFDpM6ozyZ"
+    }
+  ]
 }
