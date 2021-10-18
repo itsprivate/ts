@@ -14,5 +14,19 @@
   "tags": [
     "The Wall Street Journal"
   ],
-  "image": "https://images.wsj.net/im-417390/social"
+  "image": "https://images.wsj.net/im-417390/social",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "気候変動対策のためには、富裕国から何兆円もの資金が必要だと貧困国が訴えています。"
+    },
+    {
+      "locale": "zh",
+      "title": "为了达成气候协议，穷国说他们需要富国提供数万亿的资金"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲了達成氣候協議，窮國說他們需要富國提供數萬億的資金"
+    }
+  ]
 }
