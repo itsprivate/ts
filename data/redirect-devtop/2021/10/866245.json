@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-16T23:50:59Z",
   "image": "https://dev.to/social_previews/article/866245.png",
   "author": "Seb ",
-  "author_url": "https://dev.to/linuxseb"
+  "author_url": "https://dev.to/linuxseb",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ヘイ、デヴ・コミュニティ！😆 数週間の試験とインポスター・シンドロームとの戦いの後、私はまた別の...",
+      "title": "Linuxでのファイル操作💻について"
+    },
+    {
+      "locale": "zh",
+      "description": "嘿，开发部社区！经过几周的考试和处理冒名顶替的综合症，我又回来了。",
+      "title": "在Linux中处理文件 💻"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嘿，開發部社區！經過幾周的考試和處理冒名頂替的綜合症，我又回來了。",
+      "title": "在Linux中處理文件 💻"
+    }
+  ]
 }
