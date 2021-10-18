@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-16T12:55:13Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wGYIBogn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aezuyrno1x5m26fet1cg.jpg",
   "author": "Anil Seervi",
-  "author_url": "https://dev.to/anilseervi"
+  "author_url": "https://dev.to/anilseervi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これを読んでいる皆さん、こんにちは👋🏽。 これは私のdev.toでの初めての投稿で、私はとても興奮しています。",
+      "title": "初めてのHacktoberfestで優勝しました"
+    },
+    {
+      "locale": "zh",
+      "description": "你好👋🏽给每一个阅读这篇文章的人。 这是我在dev.to上的第一个帖子，我非常兴奋地告诉大家。",
+      "title": "赢得了我的第一个黑客啤酒节!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好👋🏽給每一個閱讀這篇文章的人。 這是我在dev.to上的第一個帖子，我非常興奮地告訴大家。",
+      "title": "贏得了我的第一個黑客啤酒節!"
+    }
+  ]
 }
