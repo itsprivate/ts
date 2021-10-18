@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-18T09:55:03Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wlF8noT9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bn5370gaetropzmws8k5.png",
   "author": "Shuvo",
-  "author_url": "https://dev.to/0shuvo0"
+  "author_url": "https://dev.to/0shuvo0",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コードの1ブロックの実行にかかる時間を知りたいと思ったことはありませんか？そんなあなたに朗報です...",
+      "title": "あなたのコードの速さは？"
+    },
+    {
+      "locale": "zh",
+      "description": "你曾经想知道你的一个代码块需要多长时间来执行吗？那么，你已经来到了...",
+      "title": "你的代码有多快？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你曾經想知道你的一個代碼塊需要多長時間來執行嗎？那麼，你已經來到了...",
+      "title": "你的代碼有多快？"
+    }
+  ]
 }
