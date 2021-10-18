@@ -43,5 +43,22 @@
   "original_created_at": "2021-10-17T03:30:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--W5wgXmtw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/319feohbuemw7vllxk60.jpg",
   "author": "Amran AL Ketara",
-  "author_url": "https://dev.to/amk"
+  "author_url": "https://dev.to/amk",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では......関数とメソッドの違いを説明します。",
+      "title": "Javascriptにおけるメソッドと関数の違い "
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我将解释函数和方法之间的区别是什么。",
+      "title": "Javascript中方法和函数的区别 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我將解釋函數和方法之間的區別是什麼。",
+      "title": "Javascript中方法和函數的區別 "
+    }
+  ]
 }
