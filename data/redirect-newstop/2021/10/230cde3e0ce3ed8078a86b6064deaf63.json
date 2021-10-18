@@ -14,5 +14,19 @@
   "tags": [
     "The New York Times"
   ],
-  "image": "https://static01.nyt.com/images/2021/10/18/business/18China-Econ-1/18China-Econ-1-facebookJumbo.jpg"
+  "image": "https://static01.nyt.com/images/2021/10/18/business/18China-Econ-1/18China-Econ-1-facebookJumbo.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "中国のGDP成長率が鈍化、不動産とエネルギーが負担に"
+    },
+    {
+      "locale": "zh",
+      "title": "中国GDP增长放缓，房地产和能源受到影响"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "中國GDP增長放緩，房地產和能源受到影響"
+    }
+  ]
 }
