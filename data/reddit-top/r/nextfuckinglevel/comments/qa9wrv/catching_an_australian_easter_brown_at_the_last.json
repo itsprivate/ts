@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "オーストラリアのイースターブラウンをギリギリでキャッチ。世界で2番目に強い毒を持つ蛇。"
+    },
+    {
+      "locale": "zh",
+      "title": "在最后一秒抓到一只澳大利亚复活节棕熊。世界上第二大毒蛇。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在最後一秒抓到一隻澳大利亞復活節棕熊。世界上第二大毒蛇。"
+    }
+  ]
 }
