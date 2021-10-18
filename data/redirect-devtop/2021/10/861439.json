@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-12T20:37:02Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JX0vN9ev--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bnf5plwnkqq0lyz5pot3.jpg",
   "author": "Gabriele Boccarusso",
-  "author_url": "https://dev.to/gabrieleboccarusso"
+  "author_url": "https://dev.to/gabrieleboccarusso",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Webページを新しい情報に変更するには、ページを更新してから作業をするしかありません。",
+      "title": " ウェブ開発者の夢 - AJAX技術を学ぶ"
+    },
+    {
+      "locale": "zh",
+      "description": "用新的信息改变网页的唯一方法是刷新网页，并在其中工作。",
+      "title": " 网络开发者的梦想--学习AJAX技术"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "用新的信息改變網頁的唯一方法是刷新網頁，並在其中工作。",
+      "title": " 網絡開發者的夢想--學習AJAX技術"
+    }
+  ]
 }
