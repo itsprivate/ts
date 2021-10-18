@@ -47,5 +47,19 @@
     "type": "twitter.com"
   },
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"ビットコインの採掘は、リグを電源に接続するのと同じくらい簡単であるべきです。\" - ツイッター社CEO"
+    },
+    {
+      "locale": "zh",
+      "title": "\"比特币开采应该像把钻机插入电源一样简单。\" - 推特CEO"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"比特幣開採應該像把鑽機插入電源一樣簡單。\" - 推特CEO"
+    }
+  ]
 }
