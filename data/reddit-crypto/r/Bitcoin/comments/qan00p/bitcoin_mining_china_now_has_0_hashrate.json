@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインの採掘。中国は現在、0％のハッシュレート"
+    },
+    {
+      "locale": "zh",
+      "title": "比特币开采。中国现在有0%的hashrate"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比特幣開採。中國現在有0%的hashrate"
+    }
+  ]
 }
