@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "TCPやUDPのトラフィックをTCPや（相互）TLSやDNS（権威サーバや直接接続）でトンネルするツールをRustで実装してみました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我写了一个工具，通过TCP、（相互）TLS或DNS（权威服务器或直接连接）对TCP或UDP流量进行加密，用Rust实现"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我寫了一個工具，通過TCP、（相互）TLS或DNS（權威服務器或直接連接）對TCP或UDP流量進行加密，用Rust實現"
+    }
+  ]
 }
