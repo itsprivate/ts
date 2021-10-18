@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "採用される猫"
+    },
+    {
+      "locale": "zh",
+      "title": "猫咪被收养了"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "貓咪被收養了"
+    }
+  ]
 }

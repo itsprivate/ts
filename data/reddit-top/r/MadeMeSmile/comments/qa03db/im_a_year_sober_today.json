@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今日で禁酒1年です!"
+    },
+    {
+      "locale": "zh",
+      "title": "我今天已经戒酒一年了!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我今天已經戒酒一年了!"
+    }
+  ]
 }
