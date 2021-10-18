@@ -42,5 +42,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Link to the bot: https://telegram.me/PriceA1ertBot\n\nA Telegram chatbot that helps you set price alerts for amazon products. The bot\nchecks the price of your watchlisted products every hour and sends you an alert\nmessage when it reaches the target price. It is developed using the\npyTelegramBotAPI…"
+  "the_new_excerpt": "Link to the bot: https://telegram.me/PriceA1ertBot\n\nA Telegram chatbot that helps you set price alerts for amazon products. The bot\nchecks the price of your watchlisted products every hour and sends you an alert\nmessage when it reaches the target price. It is developed using the\npyTelegramBotAPI…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ボットへのリンク： https://telegram.me/PriceA1ertBot\n\namazon商品の価格アラート設定を支援するTelegramチャットボットです。ボットは\nウォッチリストに登録した商品の価格を1時間ごとにチェックし、目標価格に達したら\n目標価格に達するとアラートメッセージを送信します。このボットの開発には\npyTelegramBotAPI...",
+      "title": "Amazonの商品に価格アラートを設定できるTelegram Botを作成しました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "该机器人的链接：https://telegram.me/PriceA1ertBot\n\n一个Telegram聊天机器人，帮助你为亚马逊产品设置价格提醒。该机器人\n每小时检查你的观察清单上的产品的价格，并在达到目标价格时向你发送警报信息。\n当它达到目标价格时，向你发送警报信息。它是用\npyTelegramBotAPI...",
+      "title": "做了一个Telegram机器人，让你为你的亚马逊产品设置价格提醒"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "該機器人的鏈接：https://telegram.me/PriceA1ertBot\n\n一個Telegram聊天機器人，幫助你爲亞馬遜產品設置價格提醒。該機器人\n每小時檢查你的觀察清單上的產品的價格，並在達到目標價格時向你發送警報信息。\n當它達到目標價格時，向你發送警報信息。它是用\npyTelegramBotAPI...",
+      "title": "做了一個Telegram機器人，讓你爲你的亞馬遜產品設置價格提醒"
+    }
+  ]
 }
