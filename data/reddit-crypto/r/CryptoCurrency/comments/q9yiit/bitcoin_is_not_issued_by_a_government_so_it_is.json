@@ -42,5 +42,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"ビットコインは政府が発行したものではないので、政府が実行した借金に屈することはありません。\" - 米国上院議員 シンシア・ラムミス氏"
+    },
+    {
+      "locale": "zh",
+      "title": "\"比特币不是由政府发行的，所以它不会受制于政府的债务。\" - 美国参议员Cynthia Lummis"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"比特幣不是由政府發行的，所以它不會受制於政府的債務。\" - 美國參議員Cynthia Lummis"
+    }
+  ]
 }

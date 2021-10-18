@@ -52,5 +52,22 @@
     },
     "retweet_count": 154,
     "favorite_count": 3645
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @WClementeIII: 上昇する前に、このレバレッジの一部を洗い流すことができたらいいですね。",
+      "retweeted_status_full_text": "上に行く前に、このレバレッジの一部を洗い流すことができればいい。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @WClementeIII: 在走高之前能冲掉一些杠杆就好了",
+      "retweeted_status_full_text": "在走高之前能冲掉一些杠杆就好了"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @WClementeIII: 在走高之前能沖掉一些槓桿就好了",
+      "retweeted_status_full_text": "在走高之前能沖掉一些槓桿就好了"
+    }
+  ]
 }
