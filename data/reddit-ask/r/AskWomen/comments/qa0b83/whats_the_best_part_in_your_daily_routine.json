@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "毎日の生活の中で、一番楽しいことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "在你的日常生活中，什么是最好的部分？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在你的日常生活中，什麼是最好的部分？"
+    }
+  ]
 }

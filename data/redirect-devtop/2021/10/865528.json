@@ -43,5 +43,22 @@
   "original_created_at": "2021-10-16T07:16:05Z",
   "image": "https://dev.to/social_previews/article/865528.png",
   "author": "Kathryn DiPippo",
-  "author_url": "https://dev.to/pepperwood"
+  "author_url": "https://dev.to/pepperwood",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私がプログラミングを好きになったきっかけは、あるシンプルなウェブサイトだったという話をよくします。私に与えられたのは...",
+      "title": "個人のウェブサイトは必要ありません（私がもう持っていない理由も含めて"
+    },
+    {
+      "locale": "zh",
+      "description": "我经常讲这样一个故事：一个简单的网站让我爱上了编程。有人给了我一个",
+      "title": "你不需要个人网站（以及为什么我不再有网站）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我經常講這樣一個故事：一個簡單的網站讓我愛上了編程。有人給了我一個",
+      "title": "你不需要個人網站（以及爲什麼我不再有網站）。"
+    }
+  ]
 }

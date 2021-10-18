@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-17T10:13:54Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9gyIybbl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g2x95rdfmu51bbvzvsr8.png",
   "author": "Mr. Unity Buddy",
-  "author_url": "https://dev.to/unitybuddy"
+  "author_url": "https://dev.to/unitybuddy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ハロー、バディ! よくある質問ですが、プログラマーは考え方が違うのでしょうか？  確かに...。",
+      "title": "プログラマーのように考えるには？"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，伙伴们! 让我问你一个常见的问题，程序员的思维方式是否不同？  这是真的；...",
+      "title": "如何像程序员一样思考？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，夥伴們! 讓我問你一個常見的問題，程序員的思維方式是否不同？  這是真的；...",
+      "title": "如何像程序員一樣思考？"
+    }
+  ]
 }
