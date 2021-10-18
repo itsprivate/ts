@@ -52,5 +52,22 @@
   "original_created_at": "2021-10-17T02:42:39Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1tQseLz4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tbp5uo2lfqk7zdgqi1bf.jpeg",
   "author": "Wojciech Matuszewski",
-  "author_url": "https://dev.to/wojciechmatuszewski"
+  "author_url": "https://dev.to/wojciechmatuszewski",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "AWSでは、開発者はリアルタイムのコミュニケーションをどのように実装するか、複数の選択肢があります。いくつかの選択肢を見てみましょう。",
+      "title": "AWSのサーバーレスWebSockets"
+    },
+    {
+      "locale": "zh",
+      "description": "通过AWS，开发者在如何实现实时通信方面有多种选择。让我们来看看其中的一些选择。",
+      "title": "AWS上的无服务器WebSockets"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "通過AWS，開發者在如何實現實時通信方面有多種選擇。讓我們來看看其中的一些選擇。",
+      "title": "AWS上的無服務器WebSockets"
+    }
+  ]
 }
