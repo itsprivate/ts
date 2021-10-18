@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] メキシコの年別シーフード生産量. (これは私が初めてTidytuesdayトレンドに参加した時のものです） [OC]."
+    },
+    {
+      "locale": "zh",
+      "title": "[OC] 墨西哥的海鲜产量，按年份划分。(这个是我第一次参加Tidytuesday的趋势）【OC】。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC] 墨西哥的海鮮產量，按年份劃分。(這個是我第一次參加Tidytuesday的趨勢）【OC】。"
+    }
+  ]
 }
