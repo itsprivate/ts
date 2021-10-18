@@ -52,5 +52,22 @@
     },
     "retweet_count": 240,
     "favorite_count": 1485
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @DeItaone: インタラクティブ・ブローカーズ・グループは、米国のファイナンシャル・アドバイザー向けに暗号通貨取引を導入しました。",
+      "retweeted_status_full_text": "インタラクティブ・ブローカーズ・グループ、米国のファイナンシャル・アドバイザー向けに暗号通貨取引を導入"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @DeItaone: 互动经纪人集团在美国为金融顾问引入加密货币交易。",
+      "retweeted_status_full_text": "互动经纪人集团为美国的金融顾问推出加密货币交易。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @DeItaone: 互動經紀人集團在美國爲金融顧問引入加密貨幣交易。",
+      "retweeted_status_full_text": "互動經紀人集團爲美國的金融顧問推出加密貨幣交易。"
+    }
+  ]
 }
