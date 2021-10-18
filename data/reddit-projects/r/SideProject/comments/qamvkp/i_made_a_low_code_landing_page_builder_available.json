@@ -57,5 +57,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "PageSandbox - Low code landing page builder.\n\nNPM : https://www.npmjs.com/package/pagesandbox-cli\n\nMainly used Vue and Vuetify.\n\nFor now, It provides only one template. I have recreated the demo version of the\nVuetify Theme - Zero as template on which you can make changes. I plan to add\nmore…"
+  "the_new_excerpt": "PageSandbox - Low code landing page builder.\n\nNPM : https://www.npmjs.com/package/pagesandbox-cli\n\nMainly used Vue and Vuetify.\n\nFor now, It provides only one template. I have recreated the demo version of the\nVuetify Theme - Zero as template on which you can make changes. I plan to add\nmore…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "PageSandbox - ローコードのランディングページビルダー。\n\nNPM : https://www.npmjs.com/package/pagesandbox-cli\n\n主にVueとVuetifyを使用。\n\n今のところ、1つのテンプレートしか提供していません。のデモ版を再現してみました。\nVuetify Theme - Zeroをテンプレートにして、変更を加えられるようにしました。今後の予定としては\nさらに...",
+      "title": "ローコードのランディングページビルダーをNPMパッケージとして提供しました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "PageSandbox - 低代码登陆页面生成器。\n\nNPM : https://www.npmjs.com/package/pagesandbox-cli\n\n主要使用Vue和Vuetify。\n\n目前，它只提供一个模板。我已经重新制作了演示版本的\nVuetify Theme - Zero作为模板，你可以在上面进行修改。我计划添加\n更多...",
+      "title": "我做了一个低代码的登陆页面生成器，作为NPM包提供给大家"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "PageSandbox - 低代碼登陸頁面生成器。\n\nNPM : https://www.npmjs.com/package/pagesandbox-cli\n\n主要使用Vue和Vuetify。\n\n目前，它只提供一個模板。我已經重新制作了演示版本的\nVuetify Theme - Zero作爲模板，你可以在上面進行修改。我計劃添加\n更多...",
+      "title": "我做了一個低代碼的登陸頁面生成器，作爲NPM包提供給大家"
+    }
+  ]
 }
