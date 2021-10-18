@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-17T16:46:08Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IxCQmhRo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hlrmkxv4zdvwttoirb49.png",
   "author": "Mangabo Kolawole",
-  "author_url": "https://dev.to/koladev"
+  "author_url": "https://dev.to/koladev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このチュートリアルでは、TypeScriptとDockerを使用して、Menu Restaurant APIアプリを構築します。",
+      "title": "Node、Express、MongoDB、Dockerを使ったAPIの構築"
+    },
+    {
+      "locale": "zh",
+      "description": "在本教程中，我们将使用TypeScript和Docker来构建一个菜单式餐厅API应用。",
+      "title": "使用Node、Express、MongoDB和Docker构建一个API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在本教程中，我們將使用TypeScript和Docker來構建一個菜單式餐廳API應用。",
+      "title": "使用Node、Express、MongoDB和Docker構建一個API"
+    }
+  ]
 }
