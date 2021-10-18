@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "素敵な犬"
+    },
+    {
+      "locale": "zh",
+      "title": "漂亮的狗"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "漂亮的狗"
+    }
+  ]
 }
