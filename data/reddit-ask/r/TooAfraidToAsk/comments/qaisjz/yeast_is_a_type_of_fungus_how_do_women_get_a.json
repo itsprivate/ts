@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "I'm too scared to look this up because I really don't want to see pictures."
+  "the_new_excerpt": "I'm too scared to look this up because I really don't want to see pictures.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "写真は本当に見たくないので、怖くて調べられません。",
+      "title": "イーストはカビの一種です。女性はどのようにしてイースト菌に感染するのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我不敢去查这个，因为我真的不想看照片。",
+      "title": "酵母是真菌的一种类型。女性是如何得到酵母菌感染的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我不敢去查這個，因爲我真的不想看照片。",
+      "title": "酵母是真菌的一種類型。女性是如何得到酵母菌感染的？"
+    }
+  ]
 }
