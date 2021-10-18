@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Why YSK: If you are in a foreign country and need to call for help, but don't\nknow the emergency number, call 1 1 2. It's the international emergency number\nand will automatically connect you to the nearest help line."
+  "the_new_excerpt": "Why YSK: If you are in a foreign country and need to call for help, but don't\nknow the emergency number, call 1 1 2. It's the international emergency number\nand will automatically connect you to the nearest help line.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "なぜYSKなのか：外国にいて助けを呼ぶ必要があるが、その方法がわからない場合は\n緊急電話番号がわからない場合は、1 1 2に電話してください。これは国際緊急番号です。\nにかけると、自動的に最寄りのヘルプラインにつながります。",
+      "title": "YSKでは、外国にいて緊急時の電話番号がわからない場合は、112に電話するようにしています。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么选择YSK：如果你在国外，需要打电话求助，但不知道该怎么做。\n不知道紧急号码，请拨打1112。这是一个国际紧急号码\n并会自动将你连接到最近的帮助热线。",
+      "title": "YSK表示，如果你在外国，不知道紧急号码，请拨打112。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼選擇YSK：如果你在國外，需要打電話求助，但不知道該怎麼做。\n不知道緊急號碼，請撥打1112。這是一個國際緊急號碼\n並會自動將你連接到最近的幫助熱線。",
+      "title": "YSK表示，如果你在外國，不知道緊急號碼，請撥打112。"
+    }
+  ]
 }
