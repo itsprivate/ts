@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインETFがニューヨーク証券取引所で取引開始されることになり、業界にとって画期的な出来事となりました。"
+    },
+    {
+      "locale": "zh",
+      "title": "比特币ETF将在纽约证券交易所开始交易，这是行业的一个里程碑。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比特幣ETF將在紐約證券交易所開始交易，這是行業的一個里程碑。"
+    }
+  ]
 }
