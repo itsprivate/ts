@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "中国よりもコヴィドの総症例数が多く記録されている国[OC)"
+    },
+    {
+      "locale": "zh",
+      "title": "有记录的甲状腺疾病总病例多于中国的国家[OC]"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有記錄的甲狀腺疾病總病例多於中國的國家[OC]"
+    }
+  ]
 }
