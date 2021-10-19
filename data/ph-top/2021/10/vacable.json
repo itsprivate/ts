@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-19T07:00:00Z"
+  "original_createdAt": "2021-10-19T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Vacableは、コーヒーやドライフードの鮮度をより長く保つための完璧なソリューションです。自動真空システムにより、Vacableは空気を吸引し、コーヒーや食品の鮮度と栄養を保つことができます。",
+      "tagline": "食品の鮮度を長持ちさせる"
+    },
+    {
+      "locale": "zh",
+      "description": "Vacable是保持咖啡和干粮更新鲜、更长久的完美解决方案。有了自动真空系统，Vacable能够将空气吸走，保持咖啡和食物的新鲜度和营养。",
+      "tagline": "使食物保持更长时间的新鲜"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Vacable是保持咖啡和乾糧更新鮮、更長久的完美解決方案。有了自動真空系統，Vacable能夠將空氣吸走，保持咖啡和食物的新鮮度和營養。",
+      "tagline": "使食物保持更長時間的新鮮"
+    }
+  ]
 }
