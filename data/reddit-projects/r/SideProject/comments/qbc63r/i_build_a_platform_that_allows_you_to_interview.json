@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "仕事の面接ができるプラットフォームを作っています"
+    },
+    {
+      "locale": "zh",
+      "title": "我建立了一个平台，让你可以面试工作"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我建立了一個平臺，讓你可以面試工作"
+    }
+  ]
 }
