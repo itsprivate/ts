@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-18T08:11:52Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_uuO8fyp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://lh3.googleusercontent.com/ZWFDVVYAkiFCGvmxT7PQKKyIQz1l_-QKSeXyCCO96cmmXGsNMOmGFFTHzzA0oweCHYgyGv-iF5LCdqR5nVEPxmuE0FDxlQQbAdCWjg%3Dw1064-v0",
   "author": "Kavindu Santhusa",
-  "author_url": "https://dev.to/ksengine"
+  "author_url": "https://dev.to/ksengine",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "HTMLでフォームを作成しているときに、ユーザーのためにテキストボックスを無効にしたいことがあります。そこで登場したのが...",
+      "title": "5行のCSSスタイルで障害者要素を表現(Material Designより)"
+    },
+    {
+      "locale": "zh",
+      "description": "如果我正在用HTML创建一个表单，有时我想为用户禁用一个文本框。这时就出现了...",
+      "title": "5行禁用元素的CSS样式。（来自Material Design）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果我正在用HTML創建一個表單，有時我想爲用戶禁用一個文本框。這時就出現了...",
+      "title": "5行禁用元素的CSS樣式。（來自Material Design）。"
+    }
+  ]
 }
