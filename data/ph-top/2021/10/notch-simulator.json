@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-19T06:44:26Z"
+  "original_createdAt": "2021-10-19T06:44:26Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今なら最新のMacBook Prを無料で手に入れることができます。カーソルを合わせると、終了ボタンが表示されます。これで終わりです。",
+      "tagline": "最新のMacBook Proを持っているふりをする"
+    },
+    {
+      "locale": "zh",
+      "description": "现在你可以免费拥有最新的MacBook Pr! 悬停显示退出按钮。这就是了!",
+      "tagline": "假设你有最新的MacBook Pro"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "現在你可以免費擁有最新的MacBook Pr! 懸停顯示退出按鈕。這就是了!",
+      "tagline": "假設你有最新的MacBook Pro"
+    }
+  ]
 }
