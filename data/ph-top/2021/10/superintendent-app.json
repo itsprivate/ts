@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-18T07:01:00Z"
+  "original_createdAt": "2021-10-18T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Superintendent.appは、CSVファイルにSQLを書き込むことができるデスクトップアプリです。Vlookupはもういらない。エクセルの1M行の制限もなくなります。高速で、大きなファイルもうまく処理してくれます（例：1GBのファイルを10秒で読み込むことができます）。",
+      "tagline": "CSVファイルにSQLを書く（デスクトップアプリ"
+    },
+    {
+      "locale": "zh",
+      "description": "Superintendent.app是一个桌面应用程序，可以让你在CSV文件上写SQL。不再有Vlookup。不再有Excel的100万行限制。它速度快，能很好地处理大文件（例如，在10秒内加载1GB的文件）。",
+      "tagline": "在CSV文件上写SQL（桌面应用）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Superintendent.app是一個桌面應用程序，可以讓你在CSV文件上寫SQL。不再有Vlookup。不再有Excel的100萬行限制。它速度快，能很好地處理大文件（例如，在10秒內加載1GB的文件）。",
+      "tagline": "在CSV文件上寫SQL（桌面應用）。"
+    }
+  ]
 }

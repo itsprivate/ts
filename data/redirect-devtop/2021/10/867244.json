@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-18T04:12:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gTrp7jIb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zkcogx4gm99w18obwnzr.png",
   "author": "Shuvo",
-  "author_url": "https://dev.to/0shuvo0"
+  "author_url": "https://dev.to/0shuvo0",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "文字列の場合、単純に == や === を使って同じかどうかを確認できますが、これらを使って...",
+      "title": "JSで2つの数字の配列を比較する最も簡単な方法"
+    },
+    {
+      "locale": "zh",
+      "description": "如果是字符串，我们可以简单地使用==或==来查看它们是否相同，但我们不能使用这些来查看...",
+      "title": "在JS中比较两个数组的最简单方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果是字符串，我們可以簡單地使用==或==來查看它們是否相同，但我們不能使用這些來查看...",
+      "title": "在JS中比較兩個數組的最簡單方法"
+    }
+  ]
 }
