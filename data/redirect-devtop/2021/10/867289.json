@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-18T06:08:32Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FETPkmWL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hwlewn4wxh97id34oyff.jpg",
   "author": "Alex Devero",
-  "author_url": "https://dev.to/alexdevero"
+  "author_url": "https://dev.to/alexdevero",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "キュレーションは、関数を扱う際のより高度なテクニックの1つです。これは、関数を使って...",
+      "title": "JavaScriptでのカーリングの紹介"
+    },
+    {
+      "locale": "zh",
+      "description": "咖喱是处理函数的一种更高级的技术。它的作用是允许...",
+      "title": "JavaScript中的Currying简介"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "咖喱是處理函數的一種更高級的技術。它的作用是允許...",
+      "title": "JavaScript中的Currying簡介"
+    }
+  ]
 }
