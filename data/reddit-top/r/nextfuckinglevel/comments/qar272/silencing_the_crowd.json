@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "観客を黙らせる。"
+    },
+    {
+      "locale": "zh",
+      "title": "让人群安静下来。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "讓人羣安靜下來。"
+    }
+  ]
 }
