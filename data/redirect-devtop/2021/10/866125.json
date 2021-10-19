@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-16T20:42:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mMaiWv4W--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w4nuhgxclcvxcc84wwe0.jpg",
   "author": "Mystery Code",
-  "author_url": "https://dev.to/mysterycode"
+  "author_url": "https://dev.to/mysterycode",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、JavascriptでSimple Email Validationを作成する方法を学びます。この記事をご覧になった方は、きっと...",
+      "title": "JavascriptとCSSによるシンプルなメール検証"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，你将学习如何用Javascript制作简单的电子邮件验证。你一定见过...",
+      "title": "在Javascript和CSS中进行简单的电子邮件验证"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，你將學習如何用Javascript製作簡單的電子郵件驗證。你一定見過...",
+      "title": "在Javascript和CSS中進行簡單的電子郵件驗證"
+    }
+  ]
 }
