@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "それは公式の少年たちです。It's Official. ビットコインがニューヨーク証券取引所に加盟しました"
+    },
+    {
+      "locale": "zh",
+      "title": "这是官方的，孩子们! 这是官方的。比特币刚刚加入纽约证券交易所"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是官方的，孩子們! 這是官方的。比特幣剛剛加入紐約證券交易所"
+    }
+  ]
 }
