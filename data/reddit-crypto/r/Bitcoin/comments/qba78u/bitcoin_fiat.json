@@ -65,5 +65,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインとフィアット"
+    },
+    {
+      "locale": "zh",
+      "title": "比特币与法币"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比特幣與法幣"
+    }
+  ]
 }
