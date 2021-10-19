@@ -50,5 +50,22 @@
   "original_created_at": "2021-10-18T22:42:33Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GcA9pAwD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/atip87d8tgd9pruqesmg.PNG",
   "author": "Tarun Sharma",
-  "author_url": "https://dev.to/tarunfy"
+  "author_url": "https://dev.to/tarunfy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは👋🏻 Tarunです。私は大きな夢と意思を持った若い開発者です...",
+      "title": "たった3日間で別のフルスタックアプリを作成、デプロイした方法  "
+    },
+    {
+      "locale": "zh",
+      "description": "大家好！🏻我是塔伦。我是一个年轻的开发者，有很大的梦想和打算。",
+      "title": "我是如何在短短3天内创建并部署另一个全栈应用的  "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好！🏻我是塔倫。我是一個年輕的開發者，有很大的夢想和打算。",
+      "title": "我是如何在短短3天內創建並部署另一個全棧應用的  "
+    }
+  ]
 }
