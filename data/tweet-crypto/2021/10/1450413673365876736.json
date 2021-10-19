@@ -138,5 +138,22 @@
     "retweet_count": 1668,
     "favorite_count": 3699,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @calvinrobinson: 最初は成功しなくても...。\n\nhttps://t.co/oDyigVtwOL",
+      "retweeted_status_full_text": "最初はうまくいかなくても...。\n\nhttps://t.co/oDyigVtwOL"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @calvinrobinson: 如果一开始你没有成功... \n\nhttps://t.co/oDyigVtwOL",
+      "retweeted_status_full_text": "如果一开始没有成功... \n\nhttps://t.co/oDyigVtwOL"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @calvinrobinson: 如果一開始你沒有成功... \n\nhttps://t.co/oDyigVtwOL",
+      "retweeted_status_full_text": "如果一開始沒有成功... \n\nhttps://t.co/oDyigVtwOL"
+    }
+  ]
 }
