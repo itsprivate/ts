@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "A lot of people seem to misunderstand how percentages work, so i’m here to give\na little explanation.\n\nFor example if you have a base 10% chance of something happening, and your\nchances are increased by 50%, they are now 15%, not 60.\n\nWhy YSK: it’s never a bad thing to learn about percentages and…"
+  "the_new_excerpt": "A lot of people seem to misunderstand how percentages work, so i’m here to give\na little explanation.\n\nFor example if you have a base 10% chance of something happening, and your\nchances are increased by 50%, they are now 15%, not 60.\n\nWhy YSK: it’s never a bad thing to learn about percentages and…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "多くの人がパーセンテージの仕組みを誤解しているようなので、私はここで\nちょっとした説明をします。\n\n例えば、何かが起こる確率が基本的に10%で、その確率が50%上がったとします。\n例えば、あることが起こる確率が基本的に10％だとして、その確率が50％増加した場合、60％ではなく15％になります。\n\nなぜYSKなのか：パーセンテージについて学ぶことは悪いことではありませんし、...",
+      "title": "YSKは、「80%のものが10%になったからといって、90%になったわけではない。10％の80％が増えたので、今は18％になっています。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "很多人似乎误解了百分比的工作原理，所以我在这里给予\n一个小小的解释。\n\n例如，如果你有一个基本的10%的机会，而你的\n机会增加了50%，现在是15%，而不是60。\n\n为什么是YSK：学习百分比从来都不是一件坏事，而...",
+      "title": "YSK认为，\"10%的80%的增长并不意味着什么东西现在是90%。它已经被增加了10%的80%，所以现在是18%。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "很多人似乎誤解了百分比的工作原理，所以我在這裏給予\n一個小小的解釋。\n\n例如，如果你有一個基本的10%的機會，而你的\n機會增加了50%，現在是15%，而不是60。\n\n爲什麼是YSK：學習百分比從來都不是一件壞事，而...",
+      "title": "YSK認爲，\"10%的80%的增長並不意味着什麼東西現在是90%。它已經被增加了10%的80%，所以現在是18%。"
+    }
+  ]
 }
