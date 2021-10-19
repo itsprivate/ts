@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "みんなが好きなのに、自分が嫌いな映画は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "有什么电影是大家都喜欢，但你却讨厌的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有什麼電影是大家都喜歡，但你卻討厭的？"
+    }
+  ]
 }
