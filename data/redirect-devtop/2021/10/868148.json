@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-18T19:38:18Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rbuwCXWW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vqaac4x7719nlrpo31o4.png",
   "author": "Kingsley Ubah",
-  "author_url": "https://dev.to/ubahthebuilder"
+  "author_url": "https://dev.to/ubahthebuilder",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "シンタクティックシュガーを超えたReactの実際の機能とは？   この疑問が私の思考を支配してきました...",
+      "title": "Reactはどのような仕組みで動いているのか"
+    },
+    {
+      "locale": "zh",
+      "description": "除了句法糖之外，React究竟是如何工作的？   这个问题一直主导着我的想法...",
+      "title": "React如何在引擎盖下工作"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "除了句法糖之外，React究竟是如何工作的？   這個問題一直主導着我的想法...",
+      "title": "React如何在引擎蓋下工作"
+    }
+  ]
 }
