@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-18T11:55:56Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--U3kQMRz0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jqdlztawqhta2yqu18pr.png",
   "author": "Austin Shelby",
-  "author_url": "https://dev.to/austinshelby"
+  "author_url": "https://dev.to/austinshelby",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "以下のようなコードを書いたことがある方は、ぜひ参考にしてみてください。",
+      "title": "Next.jsの環境変数の読み方が間違っています。"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你曾经写过这样的代码： const url =...",
+      "title": "你在Next.js中读取环境变量的方式是错误的"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你曾經寫過這樣的代碼： const url =...",
+      "title": "你在Next.js中讀取環境變量的方式是錯誤的"
+    }
+  ]
 }
