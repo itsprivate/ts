@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "I saw that Airbus is trying to mimic shark skin’s denticles to decrease drag,\nbut I don’t understand how something rough creates less drag than something\nsmooth. How does this work? Is it similar to why a golf ball has dimples?"
+  "the_new_excerpt": "I saw that Airbus is trying to mimic shark skin’s denticles to decrease drag,\nbut I don’t understand how something rough creates less drag than something\nsmooth. How does this work? Is it similar to why a golf ball has dimples?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "エアバス社では、空気抵抗を減らすために、サメの皮膚のくぼみを模倣しようとしていると聞きました。\nざらざらしたものが滑らかなものよりも空気抵抗を減らすというのは理解できませんが\n理解できません。これはどのような仕組みなのでしょうか？ゴルフボールにディンプル（くぼみ）があるのと同じようなものでしょうか？",
+      "title": "表面にテクスチャーを加えることで、どのように抵抗を減らすことができるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我看到空中客车公司正试图模仿鲨鱼皮的齿状物来减少阻力。\n但我不明白，粗糙的东西怎么会比光滑的东西产生更小的阻力？\n平滑。这是怎么做到的？这是否类似于高尔夫球有凹痕的原因？",
+      "title": "在一个表面上添加纹理如何减少阻力？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我看到空中客車公司正試圖模仿鯊魚皮的齒狀物來減少阻力。\n但我不明白，粗糙的東西怎麼會比光滑的東西產生更小的阻力？\n平滑。這是怎麼做到的？這是否類似於高爾夫球有凹痕的原因？",
+      "title": "在一個表面上添加紋理如何減少阻力？"
+    }
+  ]
 }
