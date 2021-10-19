@@ -43,5 +43,22 @@
   "original_created_at": "2021-10-17T22:21:38Z",
   "image": "https://dev.to/social_previews/article/866996.png",
   "author": "Diana Le",
-  "author_url": "https://dev.to/dianale_dev"
+  "author_url": "https://dev.to/dianale_dev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CSSのレイアウトは、フレックスボックスやグリッドの登場により、ここ数年で大きく変化しました。その中で...",
+      "title": "CSS Layouts: フロートからフレックスボックス、グリッドまでの歴史 "
+    },
+    {
+      "locale": "zh",
+      "description": "在过去的几年里，由于flexbox和grid的出现，CSS的布局发生了很大的变化。在过去的几年里，由于Flexbox和Grid的出现，CSS布局发生了很大的变化。",
+      "title": "CSS 布局。从浮动到Flexbox和网格的历史 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在過去的幾年裏，由於flexbox和grid的出現，CSS的佈局發生了很大的變化。在過去的幾年裏，由於Flexbox和Grid的出現，CSS佈局發生了很大的變化。",
+      "title": "CSS 佈局。從浮動到Flexbox和網格的歷史 "
+    }
+  ]
 }
