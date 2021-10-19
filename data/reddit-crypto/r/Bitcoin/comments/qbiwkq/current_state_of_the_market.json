@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "市場の現状"
+    },
+    {
+      "locale": "zh",
+      "title": "市场现状"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "市場現狀"
+    }
+  ]
 }
