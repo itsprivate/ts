@@ -72,5 +72,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-19T07:01:00Z"
+  "original_createdAt": "2021-10-19T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "🔄 Notion データベースを Google Sheets と自動的に同期させる ∑ Sheets の数式を使用してデータを Notion に送信する 🗓 定期的なタスクでページ作成をスケジュールする 📊 Sheets のセルと Notion のブロックを接続する 📈 チャートを作成して Notion に埋め込む",
+      "tagline": "NotionにGoogle Sheetsのスーパーパワーを与えてください。"
+    },
+    {
+      "locale": "zh",
+      "description": "🔄 使你的Notion数据库与Google Sheets自动同步 ∑使用Sheet公式向Notion发送数据 🗓 用经常性任务安排页面创建 📊 将Sheet单元格与Notion块相连 📈 创建图表并将其嵌入Notion中",
+      "tagline": "让Notion拥有谷歌表格的超能力"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "🔄 使你的Notion數據庫與Google Sheets自動同步 ∑使用Sheet公式向Notion發送數據 🗓 用經常性任務安排頁面創建 📊 將Sheet單元格與Notion塊相連 📈 創建圖表並將其嵌入Notion中",
+      "tagline": "讓Notion擁有谷歌表格的超能力"
+    }
+  ]
 }
