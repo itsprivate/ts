@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-19T07:01:00Z"
+  "original_createdAt": "2021-10-19T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Craneは、Dockerfileを書かずにカスタムのapt/conda/pipパッケージでコンテナイメージを拡張したいライトウェイトなMLユーザーにアプローチするためのdockerイメージビルダーです。",
+      "tagline": "コンテナイメージを簡単かつ美しく構築する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "Crane是一个docker镜像生成器，以接近轻量级的ML用户，他们想用定制的apt/conda/pip包来扩展容器镜像，而无需编写任何Dockerfile。",
+      "tagline": "构建容器图像的一种简单而漂亮的方式"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Crane是一個docker鏡像生成器，以接近輕量級的ML用戶，他們想用定製的apt/conda/pip包來擴展容器鏡像，而無需編寫任何Dockerfile。",
+      "tagline": "構建容器圖像的一種簡單而漂亮的方式"
+    }
+  ]
 }
