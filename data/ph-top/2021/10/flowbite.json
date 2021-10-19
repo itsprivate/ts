@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-19T07:01:00Z"
+  "original_createdAt": "2021-10-19T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Tailwind CSSのユーティリティークラスを使って構築された400以上のウェブコンポーネントとインタラクティブエレメントのオープンソースライブラリを使って開発を始めることができます。",
+      "tagline": "Tailwind CSSコンポーネントのオープンソースライブラリ"
+    },
+    {
+      "locale": "zh",
+      "description": "开始使用一个由400多个网络组件和互动元素组成的开源库进行开发，该库由Tailwind CSS的实用类构建。",
+      "tagline": "开源的Tailwind CSS组件库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "開始使用一個由400多個網絡組件和互動元素組成的開源庫進行開發，該庫由Tailwind CSS的實用類構建。",
+      "tagline": "開源的Tailwind CSS組件庫"
+    }
+  ]
 }
