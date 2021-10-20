@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今までオプションだったものが必須になったものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "什么东西曾经是可有可无的，但变成了强制性的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "什麼東西曾經是可有可無的，但變成了強制性的？"
+    }
+  ]
 }
