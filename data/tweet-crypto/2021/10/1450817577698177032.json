@@ -134,5 +134,22 @@
     "retweet_count": 6080,
     "favorite_count": 32820,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @100trillionUSD: 新型ATH🚀へのカウントダウン https://t.co/vhAUfpU7T8",
+      "retweeted_status_full_text": "新製品ATH🚀のカウントダウン https://t.co/vhAUfpU7T8"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @100trillionUSD: 新的ATH🚀倒计时 https://t.co/vhAUfpU7T8",
+      "retweeted_status_full_text": "新的ATH🚀倒计时 https://t.co/vhAUfpU7T8"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @100trillionUSD: 新的ATH🚀倒計時 https://t.co/vhAUfpU7T8",
+      "retweeted_status_full_text": "新的ATH🚀倒計時 https://t.co/vhAUfpU7T8"
+    }
+  ]
 }
