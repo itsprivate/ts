@@ -58,5 +58,19 @@
   "retweet_count": 33,
   "favorite_count": 256,
   "possibly_sensitive": false,
-  "original_created_at": "Wed Oct 20 16:09:40 +0000 2021"
+  "original_created_at": "Wed Oct 20 16:09:40 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "\"Cable is dead.\" https://t.co/zK8PB38nbU"
+    },
+    {
+      "locale": "zh",
+      "full_text": "\"电缆已经死了。\" https://t.co/zK8PB38nbU"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "\"電纜已經死了。\" https://t.co/zK8PB38nbU"
+    }
+  ]
 }
