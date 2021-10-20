@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今朝、ビットコイナーとして目覚める。"
+    },
+    {
+      "locale": "zh",
+      "title": "今天早上醒来时是一个比特币人。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "今天早上醒來時是一個比特幣人。"
+    }
+  ]
 }

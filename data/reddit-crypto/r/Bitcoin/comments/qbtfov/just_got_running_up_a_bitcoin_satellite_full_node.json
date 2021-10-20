@@ -47,5 +47,19 @@
     }
   },
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインサテライトのフルノードを稼働させたところです。BlockstreamのSatellite Pro Kitの1つを使って、ベネズエラのカラカスにある宇宙からブロックをダウンロードしています。🇻🇪 ⛓️ 📡 🌌 🛰️"
+    },
+    {
+      "locale": "zh",
+      "title": "刚刚运行了一个比特币卫星全节点。使用Blockstream的卫星专业套件之一，我现在正在从委内瑞拉加拉加斯的空间下载区块。🇻🇪 ⛓️ 📡 🌌 🛰️"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "剛剛運行了一個比特幣衛星全節點。使用Blockstream的衛星專業套件之一，我現在正在從委內瑞拉加拉加斯的空間下載區塊。🇻🇪 ⛓️ 📡 🌌 🛰️"
+    }
+  ]
 }
