@@ -28,5 +28,19 @@
     }
   },
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "プレイヤーがプレイする、プレイする、プレイする、プレイする。ゲームの中の歴史、歴史の中のゲーム"
+    },
+    {
+      "locale": "zh",
+      "title": "玩家要玩、玩、玩、玩、玩。游戏中的历史，历史中的游戏"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "玩家要玩、玩、玩、玩、玩。遊戲中的歷史，歷史中的遊戲"
+    }
+  ]
 }
