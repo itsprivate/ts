@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "水爆はどのような仕組みになっているのか、また、設計の違いからウランを使った原子爆弾よりも優れているのではないか。"
+    },
+    {
+      "locale": "zh",
+      "title": "氢弹是如何工作的，设计上的差异是如何促使它优于铀基原子弹的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "氫彈是如何工作的，設計上的差異是如何促使它優於鈾基原子彈的？"
+    }
+  ]
 }
