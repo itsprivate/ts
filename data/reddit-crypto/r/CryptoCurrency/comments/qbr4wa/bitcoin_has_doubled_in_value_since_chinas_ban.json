@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "中国が禁止してから、ビットコインの価値は2倍になりました。"
+    },
+    {
+      "locale": "zh",
+      "title": "自中国的禁令以来，比特币的价值已经翻了一番。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "自中國的禁令以來，比特幣的價值已經翻了一番。"
+    }
+  ]
 }
