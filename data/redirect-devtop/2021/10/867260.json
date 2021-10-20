@@ -52,5 +52,22 @@
   "original_created_at": "2021-10-18T05:03:45Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NzNpQWnJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/65ig55ddp04i2vsrl1af.png",
   "author": "Pramit Marattha",
-  "author_url": "https://dev.to/pramit_armpit"
+  "author_url": "https://dev.to/pramit_armpit",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "node、express、Harper DBを使ったREST API 今回はnodeシリーズの第3弾ですが、もし...",
+      "title": "初心者から上級者までのNode.js。Part - 3"
+    },
+    {
+      "locale": "zh",
+      "description": "使用节点、Express和Harper DB的REST API 这是节点系列的第三部分；如果...",
+      "title": "Node.js从初级到高级。第3部分"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用節點、Express和Harper DB的REST API 這是節點系列的第三部分；如果...",
+      "title": "Node.js從初級到高級。第3部分"
+    }
+  ]
 }
