@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインが史上最高値を更新したときの利益を計算する"
+    },
+    {
+      "locale": "zh",
+      "title": "比特币达到历史新高，计算你的利润"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比特幣達到歷史新高，計算你的利潤"
+    }
+  ]
 }
