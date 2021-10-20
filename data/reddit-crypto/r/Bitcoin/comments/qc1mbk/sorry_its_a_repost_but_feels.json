@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "再投稿で申し訳ありませんが...。"
+    },
+    {
+      "locale": "zh",
+      "title": "对不起，这是一个转帖，但是......感觉"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "對不起，這是一個轉帖，但是......感覺"
+    }
+  ]
 }
