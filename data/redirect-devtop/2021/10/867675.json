@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-18T13:33:01Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6wQG-Z5E--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lwfldk6ptbjazab19a4i.png",
   "author": "Abhinav Pandey",
-  "author_url": "https://dev.to/abh1navv"
+  "author_url": "https://dev.to/abh1navv",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "APIは、成功するアプリケーション・アーキテクチャのバックボーンであり、REST APIは最も一般的な方法です。",
+      "title": "優れたREST APIの特徴"
+    },
+    {
+      "locale": "zh",
+      "description": "API是一个成功的应用架构的支柱，而REST API是最受欢迎的方式。",
+      "title": "好的REST API的属性"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "API是一個成功的應用架構的支柱，而REST API是最受歡迎的方式。",
+      "title": "好的REST API的屬性"
+    }
+  ]
 }
