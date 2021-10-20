@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "So I've been working on this project for about 2 months now, and I've learned\nquite a bit about how new listings behave, and how important the Binance\nAnnoucement page is.\n\nMy inital idea was to create a crypto trading bot in Python, that constantly\nchecks if a new listing is added on Binance,…"
+  "the_new_excerpt": "So I've been working on this project for about 2 months now, and I've learned\nquite a bit about how new listings behave, and how important the Binance\nAnnoucement page is.\n\nMy inital idea was to create a crypto trading bot in Python, that constantly\nchecks if a new listing is added on Binance,…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "このプロジェクトに取り組んで約2ヶ月になりますが、新規上場の動きや、Binanceの重要性について\n新規上場がどのように振る舞うか、またBinanceのAnnoucementページがどれほど重要かについて、かなりのことを学びました。\nAnnoucementページがいかに重要であるかを学びました。\n\n当初のアイデアは、Pythonで暗号化取引のボットを作成することでした。\nBinanceに新しいリストが追加されているかどうかを常にチェックして...",
+      "title": "やっとできました。Binanceに追加される前の新規上場銘柄に自動的に注文を出す暗号取引ボットを作ってみた"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "所以我已经在这个项目上工作了大约两个月，我已经了解了\n我已经了解了很多关于新上市项目的行为方式，以及Binance\n公告页面的重要性。\n\n我最初的想法是在Python中创建一个加密货币交易机器人，它不断地\n检查Binance上是否有新的挂牌，...",
+      "title": "终于做到了。我做了一个加密货币交易机器人，在Binance上的新上市项目被添加之前自动下单。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "所以我已經在這個項目上工作了大約兩個月，我已經瞭解了\n我已經瞭解了很多關於新上市項目的行爲方式，以及Binance\n公告頁面的重要性。\n\n我最初的想法是在Python中創建一個加密貨幣交易機器人，它不斷地\n檢查Binance上是否有新的掛牌，...",
+      "title": "終於做到了。我做了一個加密貨幣交易機器人，在Binance上的新上市項目被添加之前自動下單。"
+    }
+  ]
 }
