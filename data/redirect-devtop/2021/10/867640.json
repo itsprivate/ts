@@ -57,5 +57,22 @@
   "original_created_at": "2021-10-18T12:45:01Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QG01P5pq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/93xt8942fp35hqmh1a5f.jpg",
   "author": "Lars Grammel",
-  "author_url": "https://dev.to/lgrammel"
+  "author_url": "https://dev.to/lgrammel",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "週末に、あるブログ記事で次のような小さなJS関数を見つけました： const lineChecker =...",
+      "title": "このJS関数をどのようにリファクタリングしますか？"
+    },
+    {
+      "locale": "zh",
+      "description": "周末的时候，我在一篇博文中发现了以下的小JS函数： const lineChecker =...",
+      "title": "你会如何重构这个JS函数？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "週末的時候，我在一篇博文中發現了以下的小JS函數： const lineChecker =...",
+      "title": "你會如何重構這個JS函數？"
+    }
+  ]
 }
