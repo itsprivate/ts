@@ -191,5 +191,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Wed Oct 20 10:00:12 +0000 2021"
+  "original_created_at": "Wed Oct 20 10:00:12 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "世界初の試みとして、遺伝子改変された豚で作られた腎臓を人間の患者に移植したところ、正常に機能することが確認されました。https://t.co/EjjQOknyEQ https://t.co/n2zzW3ejjZ"
+    },
+    {
+      "locale": "zh",
+      "full_text": "https://t.co/EjjQOknyEQ https://t.co/n2zzW3ejjZ 在一个首次中，一个在基因改变的猪体内生长的肾脏被发现在连接到一个人类病人身上后能正常工作。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "https://t.co/EjjQOknyEQ https://t.co/n2zzW3ejjZ 在一個首次中，一個在基因改變的豬體內生長的腎臟被發現在連接到一個人類病人身上後能正常工作。"
+    }
+  ]
 }
