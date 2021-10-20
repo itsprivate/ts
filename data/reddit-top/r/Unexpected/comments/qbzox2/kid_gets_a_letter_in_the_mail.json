@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "子供が手紙を受け取る"
+    },
+    {
+      "locale": "zh",
+      "title": "孩子们收到了一封信"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "孩子們收到了一封信"
+    }
+  ]
 }
