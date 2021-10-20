@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-19T18:47:04Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ol3ilKv8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ciszhl1emx05vbeu9wlu.png",
   "author": "Lucca Dumas",
-  "author_url": "https://dev.to/luccadumas"
+  "author_url": "https://dev.to/luccadumas",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "少し前に、この素晴らしい#strapiツールを実際に使ってみることにしました。テストの結果は...",
+      "title": "NodeJS + Strapiを使って5分以内に完全なAPIを構築する（Amazing!"
+    },
+    {
+      "locale": "zh",
+      "description": "不久前，我决定亲身体验一下这个神奇的#strapi工具。测试结果不可能是...",
+      "title": "用NodeJS+Strapi在5分钟内构建一个完整的API（了不起！）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "不久前，我決定親身體驗一下這個神奇的#strapi工具。測試結果不可能是...",
+      "title": "用NodeJS+Strapi在5分鐘內構建一個完整的API（了不起！）。"
+    }
+  ]
 }
