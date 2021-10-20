@@ -150,5 +150,22 @@
     "retweet_count": 5119,
     "favorite_count": 26722,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @100trillionUSD: 新しい #ビットコイン ATH 🚀🚀 https://t.co/agaF0u8cS3",
+      "retweeted_status_full_text": "新しい #ビットコイン ATH 🚀🚀 https://t.co/agaF0u8cS3"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @100trillionUSD: 新的#比特币 ATH 🚀🚀🚀 https://t.co/agaF0u8cS3",
+      "retweeted_status_full_text": "新#比特币 ATH 🚀🚀🚀https://t.co/agaF0u8cS3"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @100trillionUSD: 新的#比特幣 ATH 🚀🚀🚀 https://t.co/agaF0u8cS3",
+      "retweeted_status_full_text": "新#比特幣 ATH 🚀🚀🚀https://t.co/agaF0u8cS3"
+    }
+  ]
 }
