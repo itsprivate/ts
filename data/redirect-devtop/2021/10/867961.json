@@ -43,5 +43,22 @@
   "original_created_at": "2021-10-18T18:02:18Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KSyJi3VG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r57d5lr5evvhx1002xg4.png",
   "author": "Mahmoud Hassan",
-  "author_url": "https://dev.to/trezeguit"
+  "author_url": "https://dev.to/trezeguit",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "関数型プログラミングとは、純粋な数学関数を扱うために設計されたプログラミングパラダイムです。この...",
+      "title": "JSによる関数型プログラミング"
+    },
+    {
+      "locale": "zh",
+      "description": "函数式编程是一种编程范式，旨在处理纯数学函数。这...",
+      "title": "用JS进行功能编程"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "函數式編程是一種編程範式，旨在處理純數學函數。這...",
+      "title": "用JS進行功能編程"
+    }
+  ]
 }
