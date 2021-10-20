@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このような小さな男をどうするつもりなのだろうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "他们怎么会这样对待小人物？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他們怎麼會這樣對待小人物？"
+    }
+  ]
 }
