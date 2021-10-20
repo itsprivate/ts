@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "次のステップ"
+    },
+    {
+      "locale": "zh",
+      "title": "下一步行动"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "下一步行動"
+    }
+  ]
 }
