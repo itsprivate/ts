@@ -83,5 +83,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-19T07:35:01Z"
+  "original_createdAt": "2021-10-19T07:35:01Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "携帯電話でESPNが読み込まれるのを待つのにうんざりしていませんか？Plain Text Sports では、NBA、NFL、MLB、NHL などのスポーツのライブスコア、実況、ボックススコアを提供しています。ページはプレーンテキストなので、すぐに読み込まれます。広告なし、待ち時間なしのプレーンテキストスポーツです。",
+      "tagline": "スポーツのスコア、実況、ボックススコアを読み込みなしで"
+    },
+    {
+      "locale": "zh",
+      "description": "厌倦了等待ESPN在你的手机上加载？Plain Text Sports有NBA、NFL、MLB、NHL和更多的实时体育比分、解说和盒式比分。页面是纯文本的，所以它们可以立即加载。没有广告，没有等待，只有纯文本体育。",
+      "tagline": "体育比赛成绩、解说和票房成绩，无需加载"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "厭倦了等待ESPN在你的手機上加載？Plain Text Sports有NBA、NFL、MLB、NHL和更多的實時體育比分、解說和盒式比分。頁面是純文本的，所以它們可以立即加載。沒有廣告，沒有等待，只有純文本體育。",
+      "tagline": "體育比賽成績、解說和票房成績，無需加載"
+    }
+  ]
 }
