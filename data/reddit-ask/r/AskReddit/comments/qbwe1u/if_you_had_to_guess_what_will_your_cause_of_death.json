@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "推測すると、死因は何になりますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果让你猜，你的死因会是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果讓你猜，你的死因會是什麼？"
+    }
+  ]
 }
