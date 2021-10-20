@@ -71,5 +71,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-20T07:08:00Z"
+  "original_createdAt": "2021-10-20T07:08:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Diemは、女性とノンバイナリーの人々のために作られた知識共有プラットフォームであり、デジタルセーフスペースです。",
+      "tagline": "知識共有のためのソーシャルユニバース"
+    },
+    {
+      "locale": "zh",
+      "description": "Diem是一个为妇女和非二元人建立的知识共享平台和数字安全空间。",
+      "tagline": "知识共享的社会宇宙"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Diem是一個爲婦女和非二元人建立的知識共享平臺和數字安全空間。",
+      "tagline": "知識共享的社會宇宙"
+    }
+  ]
 }
