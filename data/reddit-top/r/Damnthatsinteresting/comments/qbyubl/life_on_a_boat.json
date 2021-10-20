@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "船上生活"
+    },
+    {
+      "locale": "zh",
+      "title": "船上的生活"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "船上的生活"
+    }
+  ]
 }
