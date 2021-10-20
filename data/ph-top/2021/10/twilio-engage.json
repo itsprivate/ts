@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-20T17:03:00Z"
+  "original_createdAt": "2021-10-20T17:03:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Twilio Engageは、リアルタイムのファーストパーティデータに基づいて構築されたグロースオートメーションプラットフォームです。Twilio Segmentの顧客データ基盤とTwilioの信頼できるコミュニケーションAPIを組み合わせることで、マーケターは世界レベルのオムニチャネル顧客体験を実現することができます。",
+      "tagline": "ハイパーパーソナライズされたエンドツーエンドのマーケティングキャンペーンの構築 "
+    },
+    {
+      "locale": "zh",
+      "description": "Twilio Engage是一个建立在实时第一方数据上的增长自动化平台。Twilio Segment的客户数据基础设施与Twilio值得信赖的通信API相结合，使营销人员能够创造世界级的全渠道客户体验。",
+      "tagline": "建立超个性化的端到端营销活动 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Twilio Engage是一個建立在實時第一方數據上的增長自動化平臺。Twilio Segment的客戶數據基礎設施與Twilio值得信賴的通信API相結合，使營銷人員能夠創造世界級的全渠道客戶體驗。",
+      "tagline": "建立超個性化的端到端營銷活動 "
+    }
+  ]
 }

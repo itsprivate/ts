@@ -52,5 +52,22 @@
   "original_created_at": "2021-10-20T09:26:24Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zkpvGXwM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t9josclcky70jg8ogadw.png",
   "author": "Pramit Marattha",
-  "author_url": "https://dev.to/pramit_armpit"
+  "author_url": "https://dev.to/pramit_armpit",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "バージョンコントロール（Git）の基本 Hi ! このブログ・チュートリアルでは、バージョン・コントロール（Git）の基本的な機能をすべて紹介します。",
+      "title": "Gitを使いこなすために必要な51のgitコマンド"
+    },
+    {
+      "locale": "zh",
+      "description": "版本控制（Git）基础知识 嗨! 在这个博客教程中，我将列举出所有...",
+      "title": "开始使用Git所需的51个git命令"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "版本控制（Git）基礎知識 嗨! 在這個博客教程中，我將列舉出所有...",
+      "title": "開始使用Git所需的51個git命令"
+    }
+  ]
 }
