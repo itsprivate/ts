@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "GMビットコインホルダー"
+    },
+    {
+      "locale": "zh",
+      "title": "GM比特币持有者"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "GM比特幣持有者"
+    }
+  ]
 }
