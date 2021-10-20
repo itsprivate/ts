@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今まで見てきた中で、最もめちゃくちゃなものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你见过的最糟糕的事情是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你見過的最糟糕的事情是什麼？"
+    }
+  ]
 }
