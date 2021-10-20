@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Yay!! New ath"
+  "the_new_excerpt": "Yay!! New ath",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "イェーイ！！（笑 新しいアス",
+      "title": "ビットコイン NEW ATH 66000円"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "Yay!!! 新的阿瑟",
+      "title": "比特币NEW ATH $66000"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "Yay!!! 新的阿瑟",
+      "title": "比特幣NEW ATH $66000"
+    }
+  ]
 }
