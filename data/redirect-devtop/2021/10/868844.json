@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-19T12:17:52Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--US-j5mQe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g1gj2qg64668qduarpe1.jpg",
   "author": "Bobby Iliev",
-  "author_url": "https://dev.to/bobbyiliev"
+  "author_url": "https://dev.to/bobbyiliev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに あなたがDevOps/SysOpsのエンジニア、開発者、または単にLinuxの開発者であるかどうかに関わらず、私たちはあなたのために何ができるかを考えます。",
+      "title": "The Only Bash Scripting Cheat Sheet That You Won't Ever Need!"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍：无论你是一名DevOps/SysOps工程师、开发人员，还是仅仅是一名Linux用户，你都可以在这里找到答案。",
+      "title": "你唯一需要的Bash脚本小抄"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹：無論你是一名DevOps/SysOps工程師、開發人員，還是僅僅是一名Linux用戶，你都可以在這裏找到答案。",
+      "title": "你唯一需要的Bash腳本小抄"
+    }
+  ]
 }
