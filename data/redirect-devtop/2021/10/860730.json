@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-12T09:06:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--h4W3Rnqs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fwwnd5tz6q3x7350z2v6.png",
   "author": "Mohammad Abdul Alim",
-  "author_url": "https://dev.to/alim1496"
+  "author_url": "https://dev.to/alim1496",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "現在、react jsは、美しくスケーラブルなユーザーインターフェースを構築するためのライブラリとして非常に人気があります。....",
+      "title": "タイプスクリプトによるReact"
+    },
+    {
+      "locale": "zh",
+      "description": "目前，react js已经是一个非常流行的库，用于构建漂亮的、可扩展的用户界面....。",
+      "title": "使用Typescript的React"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "目前，react js已經是一個非常流行的庫，用於構建漂亮的、可擴展的用戶界面....。",
+      "title": "使用Typescript的React"
+    }
+  ]
 }
