@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-20T17:39:16Z"
+  "original_createdAt": "2021-10-20T17:39:16Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これで、https://vscode.dev にアクセスすると、ブラウザ上で完全に動作する軽量版の VS Code が表示されます。ローカルマシンでフォルダを開き、コーディングを開始できます。インストールの必要はありません。",
+      "tagline": "VS Codeをブラウザで表示する"
+    },
+    {
+      "locale": "zh",
+      "description": "现在当你进入https://vscode.dev，你会看到一个完全在浏览器中运行的轻量级VS Code版本。在你的本地机器上打开一个文件夹并开始编码。不需要安装。",
+      "tagline": "将VS代码带入浏览器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "現在當你進入https://vscode.dev，你會看到一個完全在瀏覽器中運行的輕量級VS Code版本。在你的本地機器上打開一個文件夾並開始編碼。不需要安裝。",
+      "tagline": "將VS代碼帶入瀏覽器"
+    }
+  ]
 }
