@@ -13,5 +13,19 @@
   ],
   "objectID": "28926426",
   "original_created_at": "2021-10-20T03:29:05.000Z",
-  "image": "https://resources.blogblog.com/img/icon18_edit_allbkg.gif"
+  "image": "https://resources.blogblog.com/img/icon18_edit_allbkg.gif",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "シンプルなLinuxカーネルのメモリ破壊バグにより、システムが完全に破壊される可能性がある。"
+    },
+    {
+      "locale": "zh",
+      "title": "简单的Linux内核内存损坏漏洞可导致系统完全被破坏"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "簡單的Linux內核內存損壞漏洞可導致系統完全被破壞"
+    }
+  ]
 }

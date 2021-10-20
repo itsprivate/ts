@@ -14,5 +14,19 @@
   "tags": [
     "ABC News"
   ],
-  "image": "https://s.abcnews.com/images/US/211019_OnLocation_v2_hpMain_16x9_992.jpg"
+  "image": "https://s.abcnews.com/images/US/211019_OnLocation_v2_hpMain_16x9_992.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "女王は医師の指示に従い、北アイルランドへの訪問を取りやめました。"
+    },
+    {
+      "locale": "zh",
+      "title": "英国女王接受医疗建议进行休息，取消北爱尔兰之行"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "英國女王接受醫療建議進行休息，取消北愛爾蘭之行"
+    }
+  ]
 }
