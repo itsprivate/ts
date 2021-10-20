@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-19T15:14:26Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RUkqXuBH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mbijum1y7ftm50y3lda1.png",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、シンプルなNode JS API Backendを使って、任意のReactテンプレートをJWT（Json WEB Tokens）認証で強化する方法を説明しています - 無料のサンプルも含まれています。",
+      "title": "Reactのユーザー認証 - JWT（Json Web Tokens）を使って"
+    },
+    {
+      "locale": "zh",
+      "description": "本文解释了如何使用一个简单的Node JS API后台，用JWT（Json WEB Tokens）认证来增强任何React模板 - 包括免费样本。",
+      "title": "React用户认证--使用JWT（Json Web Tokens）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "本文解釋瞭如何使用一個簡單的Node JS API後臺，用JWT（Json WEB Tokens）認證來增強任何React模板 - 包括免費樣本。",
+      "title": "React用戶認證--使用JWT（Json Web Tokens）。"
+    }
+  ]
 }
