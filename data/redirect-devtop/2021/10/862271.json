@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-13T14:04:25Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZsH4ikVk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qerwno1xnu0fv33pyt3n.png",
   "author": "Adam Nagy",
-  "author_url": "https://dev.to/javascriptacademy"
+  "author_url": "https://dev.to/javascriptacademy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ページ上の要素を配置する機能は、すべてのウェブ開発者にとって必須のものです。それでも、私は...",
+      "title": "5分でマスターするCSSポジショニング"
+    },
+    {
+      "locale": "zh",
+      "description": "在页面上定位元素的能力是每个网页开发者的必备条件。然而，我仍然看到...",
+      "title": "在5分钟内掌握CSS定位"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在頁面上定位元素的能力是每個網頁開發者的必備條件。然而，我仍然看到...",
+      "title": "在5分鐘內掌握CSS定位"
+    }
+  ]
 }
