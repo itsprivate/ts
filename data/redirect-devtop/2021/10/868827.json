@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-19T11:32:14Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5ZqWD-ot--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://source.unsplash.com/featured/%3Fjavascript",
   "author": "Kavindu Santhusa",
-  "author_url": "https://dev.to/ksengine"
+  "author_url": "https://dev.to/ksengine",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今週、dev.toで公開されたJavaScriptに関する最も人気のある記事",
+      "title": "今週のJavaScriptに関する記事トップ10💘。"
+    },
+    {
+      "locale": "zh",
+      "description": "本周在dev.to上发表的关于JavaScript的最热门文章",
+      "title": "本周关于JavaScript的前10篇文章💘。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "本週在dev.to上發表的關於JavaScript的最熱門文章",
+      "title": "本週關於JavaScript的前10篇文章💘。"
+    }
+  ]
 }

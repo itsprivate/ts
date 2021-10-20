@@ -14,5 +14,19 @@
   "tags": [
     "VolcanoDiscovery"
   ],
-  "image": "https://volcanodiscovery.de/uploads/pics/quake48lapalma.jpg"
+  "image": "https://volcanodiscovery.de/uploads/pics/quake48lapalma.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ラ・パルマ火山の最新情報：これまでで最大のM4.8の地震が発生"
+    },
+    {
+      "locale": "zh",
+      "title": "拉帕尔马火山最新消息：迄今为止最大的地震为4.8级"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "拉帕爾馬火山最新消息：迄今爲止最大的地震爲4.8級"
+    }
+  ]
 }
