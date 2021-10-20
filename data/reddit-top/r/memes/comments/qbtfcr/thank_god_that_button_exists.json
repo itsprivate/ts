@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "そのボタンがあってよかった"
+    },
+    {
+      "locale": "zh",
+      "title": "感谢上帝，这个按钮存在"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "感謝上帝，這個按鈕存在"
+    }
+  ]
 }
