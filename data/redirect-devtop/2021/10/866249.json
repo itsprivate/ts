@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-17T00:34:40Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9DeS5uAP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/40h70b9bug2t3qu39p6s.png",
   "author": "Ashish Bailkeri",
-  "author_url": "https://dev.to/aboss123"
+  "author_url": "https://dev.to/aboss123",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "掲載されているコードスニペットはすべてMITライセンスに基づいています。 では、それは本当に重要なのでしょうか？  はい。それは...",
+      "title": "優れたシンタックスハイライタリングが重要な理由"
+    },
+    {
+      "locale": "zh",
+      "description": "所有发布的代码片段都处于MIT许可之下，那么这真的很重要吗？  是的。这里...",
+      "title": "为什么好的语法高亮很重要"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "所有發佈的代碼片段都處於MIT許可之下，那麼這真的很重要嗎？  是的。這裏...",
+      "title": "爲什麼好的語法高亮很重要"
+    }
+  ]
 }

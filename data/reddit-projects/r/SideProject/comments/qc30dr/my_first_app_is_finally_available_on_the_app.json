@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私の最初のアプリが、ついにApp Storeで予約販売開始されました!"
+    },
+    {
+      "locale": "zh",
+      "title": "我的第一个应用程序终于可以在App Store上进行预购了!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我的第一個應用程序終於可以在App Store上進行預購了!"
+    }
+  ]
 }
