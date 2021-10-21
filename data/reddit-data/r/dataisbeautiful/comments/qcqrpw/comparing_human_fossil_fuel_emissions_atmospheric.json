@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "人類の化石燃料の排出量、大気中のCO2、地球の温度、海面レベルを比較する [OC] 。"
+    },
+    {
+      "locale": "zh",
+      "title": "比较人类化石燃料的排放、大气中的二氧化碳、全球温度和海平面[OC]"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比較人類化石燃料的排放、大氣中的二氧化碳、全球溫度和海平面[OC]"
+    }
+  ]
 }
