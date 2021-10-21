@@ -12,5 +12,19 @@
   ],
   "objectID": "28927967",
   "original_created_at": "2021-10-20T07:54:43.000Z",
-  "image": "https://cgit.freebsd.org/freebsd.png"
+  "image": "https://cgit.freebsd.org/freebsd.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "FreeBSDでは、デフォルトのルートシェルをcshからshに変更しています。"
+    },
+    {
+      "locale": "zh",
+      "title": "FreeBSD将默认的root shell从csh切换到sh"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "FreeBSD將默認的root shell從csh切換到sh"
+    }
+  ]
 }
