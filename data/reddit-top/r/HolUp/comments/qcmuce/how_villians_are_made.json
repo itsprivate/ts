@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビリアンはどのように作られるのか...。"
+    },
+    {
+      "locale": "zh",
+      "title": "小人是如何被制造出来的..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "小人是如何被製造出來的..."
+    }
+  ]
 }
