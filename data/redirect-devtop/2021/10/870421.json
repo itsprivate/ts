@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-20T18:14:32Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5718xAz_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mnwpykxxm3uvq5w65a8z.png",
   "author": "Nehal Mahida",
-  "author_url": "https://dev.to/nehal_mahida"
+  "author_url": "https://dev.to/nehal_mahida",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "まず、Asyncキーワードについて理解しましょう。  このキーワードは、「...」を返す関数の前に置きます。",
+      "title": "Async/Awaitをわかりやすい例で紹介しています。"
+    },
+    {
+      "locale": "zh",
+      "description": "让我们先了解一下Async关键字。  把这个关键字放在返回A的函数之前。",
+      "title": "用简单易懂的例子介绍异步/等待。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "讓我們先了解一下Async關鍵字。  把這個關鍵字放在返回A的函數之前。",
+      "title": "用簡單易懂的例子介紹異步/等待。"
+    }
+  ]
 }
