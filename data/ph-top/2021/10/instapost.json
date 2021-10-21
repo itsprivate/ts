@@ -77,5 +77,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-21T08:13:08Z"
+  "original_createdAt": "2021-10-21T08:13:08Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "投稿を計画して自動的に公開できる独自のスケジューリング機能により、Notionから直接Instagramの投稿を公開することができます。",
+      "tagline": "NotionからInstagramの投稿を簡単に公開＆スケジューリングできます。"
+    },
+    {
+      "locale": "zh",
+      "description": "直接从Notion发布Instagram帖子，其独特的日程安排功能使您能够自动计划和发布帖子。",
+      "tagline": "从Notion轻松地发布和安排Instagram帖子"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "直接從Notion發佈Instagram帖子，其獨特的日程安排功能使您能夠自動計劃和發佈帖子。",
+      "tagline": "從Notion輕鬆地發佈和安排Instagram帖子"
+    }
+  ]
 }
