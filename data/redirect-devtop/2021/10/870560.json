@@ -43,5 +43,22 @@
   "original_created_at": "2021-10-20T21:48:22Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--I7uV0GEB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/73t2cq5bzgx2z8ufng8q.png",
   "author": "Caleb Weeks",
-  "author_url": "https://dev.to/weeksseth"
+  "author_url": "https://dev.to/weeksseth",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Haskellには、特にエレガントなquicksortアルゴリズムの実装があります： qs :: (Ord a) =&gt;...",
+      "title": "JavaScriptでのHaskell Quicksort"
+    },
+    {
+      "locale": "zh",
+      "description": "Haskell有一个特别优雅的quicksort算法的实现：qs :: (Ord a) =&gt; ...",
+      "title": "JavaScript中的Haskell Quicksort"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Haskell有一個特別優雅的quicksort算法的實現：qs :: (Ord a) =&gt; ...",
+      "title": "JavaScript中的Haskell Quicksort"
+    }
+  ]
 }
