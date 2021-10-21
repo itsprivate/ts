@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-21T17:53:07Z"
+  "original_createdAt": "2021-10-21T17:53:07Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Worldcoinは、地球上のすべての人にWorldcoinのシェアを無料で提供することでスタートします。詳しくは、http://worldcoin.org。",
+      "tagline": "公平に分配され、共同で所有するグローバル通貨"
+    },
+    {
+      "locale": "zh",
+      "description": "一种新的、集体所有的全球货币，将被公平地分配给尽可能多的人。世界币将通过向地球上的每个人免费提供世界币的份额来启动。要了解更多信息，请访问http://worldcoin.org。",
+      "tagline": "公平分配和集体所有的全球货币"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一種新的、集體所有的全球貨幣，將被公平地分配給儘可能多的人。世界幣將通過向地球上的每個人免費提供世界幣的份額來啓動。要了解更多信息，請訪問http://worldcoin.org。",
+      "tagline": "公平分配和集體所有的全球貨幣"
+    }
+  ]
 }
