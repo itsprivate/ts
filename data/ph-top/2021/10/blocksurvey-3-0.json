@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-21T07:00:00Z"
+  "original_createdAt": "2021-10-21T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "BlockSurveyは、エンドツーエンドで暗号化されたアンケートツールで、センシティブなデータの収集をサポートします。Bitcoinで保護されたStacksブロックチェーン上に構築されています。",
+      "tagline": "Signalのように、フォームやアンケートに"
+    },
+    {
+      "locale": "zh",
+      "description": "BlockSurvey是一个端对端加密的调查工具，帮助人们收集敏感数据。它建立在Stacks区块链上，由比特币担保。",
+      "tagline": "像Signal一样，用于表格和调查"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "BlockSurvey是一個端對端加密的調查工具，幫助人們收集敏感數據。它建立在Stacks區塊鏈上，由比特幣擔保。",
+      "tagline": "像Signal一樣，用於表格和調查"
+    }
+  ]
 }
