@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-21T03:40:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FlkdEgF9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fc439sauu5yr1fwqs0gr.png",
   "author": "Shuvo",
-  "author_url": "https://dev.to/0shuvo0"
+  "author_url": "https://dev.to/0shuvo0",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Web開発において、JavaScriptに勝るものはありません。しかし、時には、もう少し多くのことをしなければなりません。",
+      "title": "Python + JavaScript = 🔥🔥🔥です。"
+    },
+    {
+      "locale": "zh",
+      "description": "当涉及到网络开发时，没有什么能比得上JavaScript。但有时我们必须做得更多...",
+      "title": "Python + JavaScript = 🔥🔥"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當涉及到網絡開發時，沒有什麼能比得上JavaScript。但有時我們必須做得更多...",
+      "title": "Python + JavaScript = 🔥🔥"
+    }
+  ]
 }
