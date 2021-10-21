@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"We care about our employees\" -Amazon"
+    },
+    {
+      "locale": "zh",
+      "title": "\"我们关心我们的员工\" - 亚马逊"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"我們關心我們的員工\" - 亞馬遜"
+    }
+  ]
 }
