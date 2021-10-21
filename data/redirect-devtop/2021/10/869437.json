@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-19T22:21:51Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--73O8afpX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2u3blbb30l6540amgwd4.png",
   "author": "Dalibor Kundrat",
-  "author_url": "https://dev.to/damikun"
+  "author_url": "https://dev.to/damikun",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "アイデンティティとセキュリティの概要 セキュリティといえば。多くのガイダンスや...",
+      "title": "Webアプリのセキュリティ、BFFパターンの意味を理解する"
+    },
+    {
+      "locale": "zh",
+      "description": "身份和安全概述 当谈到安全问题时。有很多的指导和...",
+      "title": "网络应用程序安全，理解BFF模式的含义"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "身份和安全概述 當談到安全問題時。有很多的指導和...",
+      "title": "網絡應用程序安全，理解BFF模式的含義"
+    }
+  ]
 }
