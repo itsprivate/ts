@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "初診の方でも時間通りに来ているのに、なぜお医者さんはいつも遅れるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "为什么在你准时的情况下，医生总是迟到，即使你是第一个预约的人？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲什麼在你準時的情況下，醫生總是遲到，即使你是第一個預約的人？"
+    }
+  ]
 }
