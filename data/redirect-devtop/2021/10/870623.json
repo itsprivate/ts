@@ -50,5 +50,22 @@
   "original_created_at": "2021-10-20T22:58:02Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HlvCZGNt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://i.imgflip.com/5r7imp.jpg",
   "author": "Jonathan Carter",
-  "author_url": "https://dev.to/lostintangent"
+  "author_url": "https://dev.to/lostintangent",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "3年前にLive Shareをリリースしたとき、私たちの目標は、開発者のコラボレーションを可能にすることでした。",
+      "title": "VS Code + Live Share。Web \"IDEに \"We \"を取り戻すために "
+    },
+    {
+      "locale": "zh",
+      "description": "三年前，当我们首次发布Live Share时，我们的目标是使开发人员的协作能够...",
+      "title": "VS代码+现场分享。将 \"我们 \"放回 \"网络 \"IDE中 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "三年前，當我們首次發佈Live Share時，我們的目標是使開發人員的協作能夠...",
+      "title": "VS代碼+現場分享。將 \"我們 \"放回 \"網絡 \"IDE中 "
+    }
+  ]
 }
