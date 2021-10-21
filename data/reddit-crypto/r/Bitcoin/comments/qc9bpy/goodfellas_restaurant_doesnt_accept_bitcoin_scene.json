@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "グッドフェローズ レストランではビットコインのシーンは受け付けていません。"
+    },
+    {
+      "locale": "zh",
+      "title": "古惑仔 餐厅不接受比特币的场景。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "古惑仔 餐廳不接受比特幣的場景。"
+    }
+  ]
 }

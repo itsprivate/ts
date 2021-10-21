@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私たちの国歌を復活させるのにふさわしい時期です。"
+    },
+    {
+      "locale": "zh",
+      "title": "这是恢复我们国歌的合适时机。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是恢復我們國歌的合適時機。"
+    }
+  ]
 }
