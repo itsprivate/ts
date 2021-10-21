@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-21T07:01:00Z"
+  "original_createdAt": "2021-10-21T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "  Confluenceによくある質問のQ&Aを追加する 2. Troopr をインストールする 3. Troopr を使って Confluence を Slack チャンネルに接続する ㅤ 100% 無料です。ㅤ 100%無料：Slack と Confluence の無料バージョンで動作します。ㅤ 期間限定で Troopr を無料で入手できます。",
+      "tagline": "従業員の質問にSlackで自動的に回答"
+    },
+    {
+      "locale": "zh",
+      "description": "在Slack中获得100%自动化的员工支持： ㅤ 1. 在Confluence中添加常问问题 2. 安装Troopr 3. 使用 Troopr 将 Confluence 连接到 Slack 频道 ㅤ 100% 免费。与免费的Slack和Confluence版本一起工作。在有限的时间内免费获得Troopr。",
+      "tagline": "在Slack中自动回答员工的问题"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在Slack中獲得100%自動化的員工支持： ㅤ 1. 在Confluence中添加常問問題 2. 安裝Troopr 3. 使用 Troopr 將 Confluence 連接到 Slack 頻道 ㅤ 100% 免費。與免費的Slack和Confluence版本一起工作。在有限的時間內免費獲得Troopr。",
+      "tagline": "在Slack中自動回答員工的問題"
+    }
+  ]
 }
