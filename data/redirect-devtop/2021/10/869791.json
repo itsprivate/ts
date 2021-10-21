@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-20T07:42:59Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dqvA6kgf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c49wb6rvdtvmy1g3a9rn.png",
   "author": "Shuvo",
-  "author_url": "https://dev.to/0shuvo0"
+  "author_url": "https://dev.to/0shuvo0",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あなたのインターネットの速度は？JavaScriptを使って調べてみましょう。   視覚的な学習者ですか？ここでは...",
+      "title": "あなたのインターネットの速度は？"
+    },
+    {
+      "locale": "zh",
+      "description": "你的互联网有多快？让我们用JavaScript来了解一下吧。   视觉学习者？这里是...",
+      "title": "你的互联网有多快？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你的互聯網有多快？讓我們用JavaScript來了解一下吧。   視覺學習者？這裏是...",
+      "title": "你的互聯網有多快？"
+    }
+  ]
 }
