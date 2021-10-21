@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの人気のない音楽の意見は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你有什么不受欢迎的音乐观点？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你有什麼不受歡迎的音樂觀點？"
+    }
+  ]
 }
