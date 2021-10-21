@@ -48,5 +48,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-21T08:11:52Z"
+  "original_createdAt": "2021-10-21T08:11:52Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "useWeb3では、Ethereum、ブロックチェーン、Web3開発に関する最良かつ最新のリソースを厳選して紹介しています。SolidityやVyperでのスマートコントラクト、DeFiプロジェクト、ERC20やNFTトークンの開発に役立つリソースです。",
+      "tagline": "EthereumとWeb3に関するキュレーションされたリソースのコレクション"
+    },
+    {
+      "locale": "zh",
+      "description": "useWeb3提供了一个关于以太坊、区块链和Web3开发的最佳和最新资源的策划概述。帮助您在Solidity或Vyper中开发智能合约、DeFi项目、ERC20或NFT代币的资源。",
+      "tagline": "以太坊和Web3的精选资源集"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "useWeb3提供了一個關於以太坊、區塊鏈和Web3開發的最佳和最新資源的策劃概述。幫助您在Solidity或Vyper中開發智能合約、DeFi項目、ERC20或NFT代幣的資源。",
+      "tagline": "以太坊和Web3的精選資源集"
+    }
+  ]
 }
