@@ -52,5 +52,22 @@
   "original_created_at": "2021-10-20T08:58:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--X1zk7mgY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kirpqx3vdivxe963t3va.png",
   "author": "Hiep Le",
-  "author_url": "https://dev.to/hieptl"
+  "author_url": "https://dev.to/hieptl",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あなたが構築するものは、Git Repo Hereです。              はじめに アプリやウェブの開発には...",
+      "title": "ReactでUberのクローンアプリを作る方法"
+    },
+    {
+      "locale": "zh",
+      "description": "你要建造的东西，Git Repo在这里。              简介 应用程序和网络开发有",
+      "title": "如何用React建立一个Uber的克隆应用"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你要建造的東西，Git Repo在這裏。              簡介 應用程序和網絡開發有",
+      "title": "如何用React建立一個Uber的克隆應用"
+    }
+  ]
 }
