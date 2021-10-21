@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "酔っぱらいのあなたがやったことで、シラフのあなたが絶対にやらないようなベストなことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "醉酒的你做过的最好的事情是什么，而清醒的你绝不会做？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "醉酒的你做過的最好的事情是什麼，而清醒的你絕不會做？"
+    }
+  ]
 }
