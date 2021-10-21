@@ -48,5 +48,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-21T07:00:00Z"
+  "original_createdAt": "2021-10-21T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "覚えやすく、共有しやすい短縮URLを簡単かつ迅速に作成するツールです。履歴の管理、フルレスポンシブ対応など、素晴らしい機能が満載です。",
+      "tagline": "プロのようにURLを短縮する"
+    },
+    {
+      "locale": "zh",
+      "description": "简单而快速的工具，创建一个缩短的URL，使其易于记忆和分享。管理你的历史，完全响应和更多惊人的功能。",
+      "tagline": "像专家一样缩短URL"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡單而快速的工具，創建一個縮短的URL，使其易於記憶和分享。管理你的歷史，完全響應和更多驚人的功能。",
+      "tagline": "像專家一樣縮短URL"
+    }
+  ]
 }
