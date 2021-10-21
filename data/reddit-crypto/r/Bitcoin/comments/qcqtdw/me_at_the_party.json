@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "パーティでの私"
+    },
+    {
+      "locale": "zh",
+      "title": "派对上的我"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "派對上的我"
+    }
+  ]
 }
