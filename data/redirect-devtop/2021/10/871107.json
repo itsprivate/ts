@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-21T09:42:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--L0JngdnW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/an4v5dtmqapdn5apuqv8.jpeg",
   "author": "CAST AI",
-  "author_url": "https://dev.to/castai"
+  "author_url": "https://dev.to/castai",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "クラウドプロバイダーを切り替えることは、インフラのパンドラの箱を開けるようなものです。",
+      "title": "クラウドプロバイダーの切り替えをスムーズに行うための10のベストプラクティス"
+    },
+    {
+      "locale": "zh",
+      "description": "从一个云供应商切换到另一个，就像打开了基础设施的潘多拉盒子。",
+      "title": "10个最佳实践，让切换云供应商不那么痛苦"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "從一個雲供應商切換到另一個，就像打開了基礎設施的潘多拉盒子。",
+      "title": "10個最佳實踐，讓切換雲供應商不那麼痛苦"
+    }
+  ]
 }
