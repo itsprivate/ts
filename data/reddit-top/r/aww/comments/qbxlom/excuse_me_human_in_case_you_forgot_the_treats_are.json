@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "すみません、人間の方、おやつはここにあるのを忘れていませんか？"
+    },
+    {
+      "locale": "zh",
+      "title": "对不起，人类，如果你忘记了，请客的东西就在这里。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "對不起，人類，如果你忘記了，請客的東西就在這裏。"
+    }
+  ]
 }
