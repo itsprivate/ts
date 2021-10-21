@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-19T23:03:27Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kJh8Z5pd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/euv8g14astd4or1677va.jpg",
   "author": "JS Bits with Bill",
-  "author_url": "https://dev.to/js_bits_bill"
+  "author_url": "https://dev.to/js_bits_bill",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "1) &lt;abbr&gt; 省略形 &lt;abbr&gt; 要素は、頭文字や... を表すために使用されます。",
+      "title": "3 一般的ではないが便利なHTML要素"
+    },
+    {
+      "locale": "zh",
+      "description": "1) &lt;abbr&gt; 缩写&lt;abbr&gt; 元素用于表示一个缩写或...",
+      "title": "3 不常见但有用的HTML元素"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "1) &lt;abbr&gt; 縮寫&lt;abbr&gt; 元素用於表示一個縮寫或...",
+      "title": "3 不常見但有用的HTML元素"
+    }
+  ]
 }
