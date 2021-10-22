@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-20T12:30:51Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xcs5Zfey--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5m1taxylokr58vwwq25p.png",
   "author": "Temani Afif",
-  "author_url": "https://dev.to/afif"
+  "author_url": "https://dev.to/afif",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "現在、複雑な形状を作成することは、クリップパスを使って簡単にできますが、形状に境界線を追加することは...。",
+      "title": "CSS Paint APIを探る。ポリゴンボーダー"
+    },
+    {
+      "locale": "zh",
+      "description": "现在，使用clip-path创建复杂的形状是一件很容易的事，但在形状上添加边框...",
+      "title": "探索CSS绘画API。多边形边框"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "現在，使用clip-path創建複雜的形狀是一件很容易的事，但在形狀上添加邊框...",
+      "title": "探索CSS繪畫API。多邊形邊框"
+    }
+  ]
 }
