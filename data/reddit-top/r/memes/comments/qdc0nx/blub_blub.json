@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Blub Blub"
+    },
+    {
+      "locale": "zh",
+      "title": "Blub Blub"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Blub Blub"
+    }
+  ]
 }
