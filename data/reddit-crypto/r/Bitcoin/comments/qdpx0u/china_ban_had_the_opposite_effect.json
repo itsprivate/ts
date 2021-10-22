@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "中国の禁止令は逆効果だった。"
+    },
+    {
+      "locale": "zh",
+      "title": "中国的禁令产生了相反的效果。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "中國的禁令產生了相反的效果。"
+    }
+  ]
 }
