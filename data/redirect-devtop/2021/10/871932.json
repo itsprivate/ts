@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-21T23:32:33Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jRogCwiP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4tejrkoaqkivuw5doik1.png",
   "author": "CodeOz",
-  "author_url": "https://dev.to/codeoz"
+  "author_url": "https://dev.to/codeoz",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この新しいアカデミーにようこそ。このアカデミーでは、javascriptを一から説明するのではなく、このアカデミーの目的は...",
+      "title": "Javascript academy #1: プリミティブ・バリューとリファレンス・バリュー"
+    },
+    {
+      "locale": "zh",
+      "description": "欢迎来到这个新的学院! 在这里，我不会从头开始为你讲解javascript，其目的是为了让你了解javascript。",
+      "title": "Javascript学院#1：原始值与参考值"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "歡迎來到這個新的學院! 在這裏，我不會從頭開始爲你講解javascript，其目的是爲了讓你瞭解javascript。",
+      "title": "Javascript學院#1：原始值與參考值"
+    }
+  ]
 }

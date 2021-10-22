@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-21T18:03:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zDwuCGqW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ojh7erf335q8e9o8f1ba.png",
   "author": "Savannah Copland 👋",
-  "author_url": "https://dev.to/savannahjs"
+  "author_url": "https://dev.to/savannahjs",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "フィンガープリンティングとは、クッキーやデータストレージを使わずにウェブサイトのユーザーを識別する方法です。その代わりに、...",
+      "title": "デモ JavaScriptを無効にしてもフィンガープリンティングからは逃れられない"
+    },
+    {
+      "locale": "zh",
+      "description": "指纹识别是一种不使用cookies或数据存储来识别网站用户的方法。相反，...",
+      "title": "演示。禁用JavaScript并不能使你免于指纹识别"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "指紋識別是一種不使用cookies或數據存儲來識別網站用戶的方法。相反，...",
+      "title": "演示。禁用JavaScript並不能使你免於指紋識別"
+    }
+  ]
 }
