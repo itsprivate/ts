@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-22T10:32:40Z"
+  "original_createdAt": "2021-10-22T10:32:40Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Video Podcast on Spotify 現在、すべてのクリエイターは、Anchorを通じて新しいビデオポッドキャスト機能へのアクセスを申請することができます。",
+      "tagline": "アンカーでポッドキャストを作り、Spotifyで視聴できるようにする"
+    },
+    {
+      "locale": "zh",
+      "description": "Spotify上的视频播客 现在所有创作者都可以通过Anchor申请使用我们新的视频播客功能",
+      "tagline": "通过Anchor创建一个播客，你可以在Spotify上观看。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Spotify上的視頻播客 現在所有創作者都可以通過Anchor申請使用我們新的視頻播客功能",
+      "tagline": "通過Anchor創建一個播客，你可以在Spotify上觀看。"
+    }
+  ]
 }
