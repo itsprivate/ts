@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-21T05:14:46Z",
   "image": "https://dev.to/social_previews/article/870821.png",
   "author": "ImgSrc",
-  "author_url": "https://dev.to/imgsrcspace"
+  "author_url": "https://dev.to/imgsrcspace",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、Imgsrc.spaceは最高のPlaceholderサービスです。まるでgoogleで検索しているかのように...",
+      "title": "最高の開発ツールです。"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，Imgsrc.space是有史以来最好的占位符服务。它就像在谷歌上搜索一样...",
+      "title": "有史以来最好的开发工具！!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，Imgsrc.space是有史以來最好的佔位符服務。它就像在谷歌上搜索一樣...",
+      "title": "有史以來最好的開發工具！!"
+    }
+  ]
 }
