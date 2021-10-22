@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-21T12:41:12Z"
+  "original_createdAt": "2021-10-21T12:41:12Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CompressioWebは、オープンソースのプロダクショングレード画像圧縮APIおよびWebAppです。また、Node.js、Express.js、React.jsで構築されています。",
+      "tagline": "フリー、オープンソースの画像圧縮APIとウェブアプリ"
+    },
+    {
+      "locale": "zh",
+      "description": "CompressioWeb是一个开源的生产级图像压缩API和WebApp。它以有损和无损格式压缩JPG、PNG、GIF和SVG图像，并以Node.js、Express.js和React.js构建。",
+      "tagline": "免费、开源的图像压缩API和网络应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "CompressioWeb是一個開源的生產級圖像壓縮API和WebApp。它以有損和無損格式壓縮JPG、PNG、GIF和SVG圖像，並以Node.js、Express.js和React.js構建。",
+      "tagline": "免費、開源的圖像壓縮API和網絡應用程序"
+    }
+  ]
 }
