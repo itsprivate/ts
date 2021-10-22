@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-22T08:40:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--iSGW6RHs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jdxqogmx89e3uoail0dg.jpg",
   "author": "Matti Bar-Zeev",
-  "author_url": "https://dev.to/mbarzeev"
+  "author_url": "https://dev.to/mbarzeev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、React Testing Libraryを使って、シンプルなReactコンポーネントをテストします。それとは別に...",
+      "title": "React Testing Libraryを使ったシンプルなコンポーネントのテスト"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，和我一起使用React测试库来测试一个简单的React组件。除此以外",
+      "title": "用React测试库测试一个简单的组件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，和我一起使用React測試庫來測試一個簡單的React組件。除此以外",
+      "title": "用React測試庫測試一個簡單的組件"
+    }
+  ]
 }
