@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-21T11:38:07Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dEAN7hRz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://source.unsplash.com/featured/%3Fcoding",
   "author": "Kavindu Santhusa",
-  "author_url": "https://dev.to/ksengine"
+  "author_url": "https://dev.to/ksengine",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今週、dev.toに掲載された初心者向けの人気記事",
+      "title": "初心者向けの今週の記事トップ10🔫。"
+    },
+    {
+      "locale": "zh",
+      "description": "本周在dev.to上发表的最受欢迎的初学者文章",
+      "title": "为初学者准备的本周十大文章。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "本週在dev.to上發表的最受歡迎的初學者文章",
+      "title": "爲初學者準備的本週十大文章。"
+    }
+  ]
 }
