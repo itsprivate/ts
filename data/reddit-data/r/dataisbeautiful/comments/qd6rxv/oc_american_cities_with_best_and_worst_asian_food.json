@@ -11,5 +11,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] Yelpの評価に基づく、アジア料理が最も美味しい都市と最も不味い都市を持つアメリカの都市"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC] 根据Yelp的评分，美国城市的亚洲食品最好和最差。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC] 根據Yelp的評分，美國城市的亞洲食品最好和最差。"
+    }
+  ]
 }
