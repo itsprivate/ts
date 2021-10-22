@@ -52,5 +52,22 @@
   "original_created_at": "2021-10-21T08:41:50Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_j1n7I9h--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/itlqnz9l9kf9ukaz389s.png",
   "author": "Andrew",
-  "author_url": "https://dev.to/andrewgl"
+  "author_url": "https://dev.to/andrewgl",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あなたはチームメイトにコードの助けを求め、彼らはあなたに自分のコードで解決策を示しました。",
+      "title": "IntelliJで自分のレポにプッシュ＆プルせずにチームメイトの変更をチェリーピックする"
+    },
+    {
+      "locale": "zh",
+      "description": "你向你的队友求助于一段代码，他们向你展示了他们的解决方案。",
+      "title": "在IntelliJ中，无需推拉就能摘取队友的修改内容到你的Repo中。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你向你的隊友求助於一段代碼，他們向你展示了他們的解決方案。",
+      "title": "在IntelliJ中，無需推拉就能摘取隊友的修改內容到你的Repo中。"
+    }
+  ]
 }
