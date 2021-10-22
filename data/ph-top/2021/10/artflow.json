@@ -48,5 +48,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-22T07:35:06Z"
+  "original_createdAt": "2021-10-22T07:35:06Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "説明文からアバターを作成",
+      "tagline": "アバターを描写し、それを生成する"
+    },
+    {
+      "locale": "zh",
+      "description": "根据描述创建一个头像",
+      "tagline": "描述你的头像并生成它"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "根據描述創建一個頭像",
+      "tagline": "描述你的頭像並生成它"
+    }
+  ]
 }
