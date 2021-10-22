@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "13,000BTCが新しいウォレットに移動しました。私ではありませんでした。"
+    },
+    {
+      "locale": "zh",
+      "title": "13,000 BTC转移到一个新的钱包。这不是我。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "13,000 BTC轉移到一個新的錢包。這不是我。"
+    }
+  ]
 }

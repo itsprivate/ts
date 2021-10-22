@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ChatAndBot - ライブチャットとチャットボットのブランドなしで無料の関税を持つウェブサイトのためのチャット。"
+    },
+    {
+      "locale": "zh",
+      "title": "ChatAndBot - 网站的即时聊天和聊天机器人，没有chatandbot品牌的免费关税。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "ChatAndBot - 網站的即時聊天和聊天機器人，沒有chatandbot品牌的免費關稅。"
+    }
+  ]
 }
