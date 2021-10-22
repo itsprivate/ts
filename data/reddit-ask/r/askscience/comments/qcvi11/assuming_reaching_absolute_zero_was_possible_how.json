@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "絶対零度に到達できると仮定した場合、0KのH2Oはどのくらいの圧力があれば液体になるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "假设达到绝对零度是可能的，那么0K的H2O需要承受多大的压力才能成为液体？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "假設達到絕對零度是可能的，那麼0K的H2O需要承受多大的壓力才能成爲液體？"
+    }
+  ]
 }
