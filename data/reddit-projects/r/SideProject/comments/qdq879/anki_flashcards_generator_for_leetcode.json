@@ -57,5 +57,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "A while ago I decided to automate my leetcoding process. I've been doing it\nquite a lot, and by now I have almost 800 problems solved.\n\nI've already been using Anki (a tool for spaced repetition of flashcards), so\nthe solution was quite obvious: create Anki cards for all leetcode questions and\nuse…"
+  "the_new_excerpt": "A while ago I decided to automate my leetcoding process. I've been doing it\nquite a lot, and by now I have almost 800 problems solved.\n\nI've already been using Anki (a tool for spaced repetition of flashcards), so\nthe solution was quite obvious: create Anki cards for all leetcode questions and\nuse…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "しばらく前に、私はリーコードのプロセスを自動化することにしました。何度もやっているうちに\nかなりやっていて、今では800問近く解いています。\n\nすでにAnki（フラッシュカードを間隔を空けて反復するツール）を使っていたので\nすべてのリートコードの問題に対してAnkiカードを作成して\n使っています。",
+      "title": "Anki Flashcards generator for leetcode"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "不久前，我决定将我的沥水编码过程自动化。我已经做了\n我做了很多，现在我已经解决了将近800个问题。\n\n我已经在使用Anki（一种用于间隔重复的抽认卡的工具），所以\n解决办法很明显：为所有的leetcode问题创建Anki卡片，然后用\n使用...",
+      "title": "Anki flashcards generator for leetcode"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "不久前，我決定將我的瀝水編碼過程自動化。我已經做了\n我做了很多，現在我已經解決了將近800個問題。\n\n我已經在使用Anki（一種用於間隔重複的抽認卡的工具），所以\n解決辦法很明顯：爲所有的leetcode問題創建Anki卡片，然後用\n使用...",
+      "title": "Anki flashcards generator for leetcode"
+    }
+  ]
 }
