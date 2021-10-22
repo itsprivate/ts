@@ -104,5 +104,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1634916380,
-  "the_new_excerpt": "Hey guys, I’m a little annoyed! I bought a stock this morning that jumped to\n$18.35. I set a stop loss of $18 and the stock tanked to $8.60. It says my set\nstop loss but that it was filled at $8.60? What did I do wrong here?"
+  "the_new_excerpt": "Hey guys, I’m a little annoyed! I bought a stock this morning that jumped to\n$18.35. I set a stop loss of $18 and the stock tanked to $8.60. It says my set\nstop loss but that it was filled at $8.60? What did I do wrong here?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "みんな、ちょっとイライラしてるんだよねー。今朝買った株が18.35ドルに跳ね上がりました。\n$18.35. ストップロスを18ドルに設定したところ、株価は8.60ドルまで暴落しました。私が設定した\nストップロスを設定したと書いてありますが、8.60ドルで満たされたということですか？私は何か間違ったことをしたのでしょうか？",
+      "title": "ストップロスを設定して、下で売れました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "嘿，伙计们，我有点恼火了！我今天早上买了一只股票，但它的价格比我想象的要高。我今天早上买了一只股票，跳到了\n$18.35. 我设定了18美元的止损，结果股票跌到了8.6美元。它说我设置的\n但它在8.60美元时被填补了？我在这里做错了什么？",
+      "title": "设置了一个止损，它在下面卖出了!"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "嘿，夥計們，我有點惱火了！我今天早上買了一隻股票，但它的價格比我想象的要高。我今天早上買了一隻股票，跳到了\n$18.35. 我設定了18美元的止損，結果股票跌到了8.6美元。它說我設置的\n但它在8.60美元時被填補了？我在這裏做錯了什麼？",
+      "title": "設置了一個止損，它在下面賣出了!"
+    }
+  ]
 }
