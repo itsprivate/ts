@@ -52,5 +52,22 @@
   "original_created_at": "2021-10-21T08:02:43Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0oKABR2F--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zmjdpb0x0pgzxhc8i7b7.png",
   "author": "Saji Wang",
-  "author_url": "https://dev.to/sewangco"
+  "author_url": "https://dev.to/sewangco",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "イントロ Slack、Teams、Discordなどのプラットフォームは、ただのコミュニケーションツールではなくなりました。",
+      "title": "NodeJSでSlackのボットを作る"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍 像Slack、Teams和Discord这样的平台已经不仅仅是一种工具。",
+      "title": "用NodeJS创建一个Slack Bot"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹 像Slack、Teams和Discord這樣的平臺已經不僅僅是一種工具。",
+      "title": "用NodeJS創建一個Slack Bot"
+    }
+  ]
 }
