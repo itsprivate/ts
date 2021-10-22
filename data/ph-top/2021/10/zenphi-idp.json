@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-21T07:41:22Z"
+  "original_createdAt": "2021-10-21T07:41:22Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Zenphi IDP (Intelligent Document Processing)では、PDFやスキャンした文書から重要な情報をわずかなドラッグ＆ドロップで引き出し、抽出した情報をプロセスオートメーションの一部としてシームレスに使用することができます。",
+      "tagline": "ドキュメントのインテリジェントな自動化"
+    },
+    {
+      "locale": "zh",
+      "description": "有了Zenphi IDP（智能文档处理），你只需拖拽几下就可以从pdf或扫描的文档中解锁关键信息，并将提取的信息无缝地作为流程自动化的一部分。",
+      "tagline": "为您的文件提供智能自动化"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有了Zenphi IDP（智能文檔處理），你只需拖拽幾下就可以從pdf或掃描的文檔中解鎖關鍵信息，並將提取的信息無縫地作爲流程自動化的一部分。",
+      "tagline": "爲您的文件提供智能自動化"
+    }
+  ]
 }
