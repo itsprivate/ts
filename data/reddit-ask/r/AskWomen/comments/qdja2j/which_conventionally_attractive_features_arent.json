@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "E.g. being tall, a sixpack, well educated"
+  "the_new_excerpt": "E.g. being tall, a sixpack, well educated",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "例：背が高い、背が高い、教養がある",
+      "title": "従来の魅力的な機能が苦手なのは？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "例如：高个子、六块腹肌、受过良好教育。",
+      "title": "哪些传统上有吸引力的特征不是你的菜？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "例如：高個子、六塊腹肌、受過良好教育。",
+      "title": "哪些傳統上有吸引力的特徵不是你的菜？"
+    }
+  ]
 }
