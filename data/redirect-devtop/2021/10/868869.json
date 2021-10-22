@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-19T13:24:50Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wiVOYecg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0buuw318x6cqp8m8ldq8.png",
   "author": "Kingsley Ubah",
-  "author_url": "https://dev.to/ubahthebuilder"
+  "author_url": "https://dev.to/ubahthebuilder",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、あらゆるウェブサイトのスクリーンショットを瞬時に撮影できるクールなツールを偶然見つけました。....",
+      "title": "スクリーンショットをダウンロードするアプリをプレーンなJavaScriptで10分で作る"
+    },
+    {
+      "locale": "zh",
+      "description": "最近我偶然发现了一个很酷的工具，可以从任何网站即时截图....",
+      "title": "在10分钟内用普通的JavaScript建立一个屏幕截图下载器应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "最近我偶然發現了一個很酷的工具，可以從任何網站即時截圖....",
+      "title": "在10分鐘內用普通的JavaScript建立一個屏幕截圖下載器應用程序"
+    }
+  ]
 }
