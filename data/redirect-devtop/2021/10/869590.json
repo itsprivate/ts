@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-20T04:17:15Z",
   "image": "https://dev.to/social_previews/article/869590.png",
   "author": "Samarth Gupta",
-  "author_url": "https://dev.to/livesamarthgupta"
+  "author_url": "https://dev.to/livesamarthgupta",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは。私は、バックエンド・エンジニアリングのための完璧なJavaロードマップを、...",
+      "title": "Javaバックエンドのロードマップ"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，我为后端工程创建了一个完美的Java路线图，并在此基础上建立了一个新的数据库。",
+      "title": "Java后端路线图"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，我爲後端工程創建了一個完美的Java路線圖，並在此基礎上建立了一個新的數據庫。",
+      "title": "Java後端路線圖"
+    }
+  ]
 }
