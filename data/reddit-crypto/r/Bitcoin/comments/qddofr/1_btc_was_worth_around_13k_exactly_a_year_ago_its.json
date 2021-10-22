@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "1BTCの価値は、ちょうど1年前に13kドル程度でした。現在は、10月だけで20kドルも上昇しています。"
+    },
+    {
+      "locale": "zh",
+      "title": "1个BTC在一年前正好值13000美元左右。目前，仅在10月份，它就上涨了2万美元。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "1個BTC在一年前正好值13000美元左右。目前，僅在10月份，它就上漲了2萬美元。"
+    }
+  ]
 }
