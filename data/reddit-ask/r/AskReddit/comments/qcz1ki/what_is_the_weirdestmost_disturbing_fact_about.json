@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この世界の歴史の中で、あなたが知っている最も奇妙で最も気になる事実は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "关于我们世界的历史，你知道的最奇怪/最令人不安的事实是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "關於我們世界的歷史，你知道的最奇怪/最令人不安的事實是什麼？"
+    }
+  ]
 }

@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "先生と一緒の修学旅行らしいです。"
+    },
+    {
+      "locale": "zh",
+      "title": "显然是和他们的老师一起的学校旅行。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "顯然是和他們的老師一起的學校旅行。"
+    }
+  ]
 }
