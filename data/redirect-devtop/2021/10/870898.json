@@ -50,5 +50,22 @@
   "original_created_at": "2021-10-21T06:52:17Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Wbe5pTGZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vu20cjip0lsfzy2zbqu1.png",
   "author": "Michelle Mannering",
-  "author_url": "https://dev.to/mishmanners"
+  "author_url": "https://dev.to/mishmanners",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Hacktoberfestの終了まで、あと10日を切りました。もし、あなたがまだプロジェクトを探しているのであれば・・・。",
+      "title": "Hacktoberfestで貢献できるGitHubのオープンソースプロジェクト"
+    },
+    {
+      "locale": "zh",
+      "description": "距离Hacktoberfest结束还有不到10天。如果你还在寻找项目，那么你可以在这里找到。",
+      "title": "你可以为Hacktoberfest贡献的GitHub开源项目"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "距離Hacktoberfest結束還有不到10天。如果你還在尋找項目，那麼你可以在這裏找到。",
+      "title": "你可以爲Hacktoberfest貢獻的GitHub開源項目"
+    }
+  ]
 }
