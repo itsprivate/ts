@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "WatchVideoByLink Demo - 公開されたURLを取得し、提供されたビデオを楽しく見ることができる機能を備えたビデオプレーヤーにビデオを表示し、MP4/WebM/HLS/MPEG-DASHのビデオタイプを視聴/ダウンロード/整理することができます。"
+    },
+    {
+      "locale": "zh",
+      "title": "WatchVideoByLink演示 - 接收公共URL并在视频播放器中显示视频，其功能使观看所提供的视频成为一个愉快的过程，能够观看/下载/组织MP4/WebM/HLS/MPEG-DASH视频类型。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "WatchVideoByLink演示 - 接收公共URL並在視頻播放器中顯示視頻，其功能使觀看所提供的視頻成爲一個愉快的過程，能夠觀看/下載/組織MP4/WebM/HLS/MPEG-DASH視頻類型。"
+    }
+  ]
 }

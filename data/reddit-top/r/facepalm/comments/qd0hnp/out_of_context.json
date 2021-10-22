@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"Out of context\""
+    },
+    {
+      "locale": "zh",
+      "title": "\"断章取义\""
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"斷章取義\""
+    }
+  ]
 }
