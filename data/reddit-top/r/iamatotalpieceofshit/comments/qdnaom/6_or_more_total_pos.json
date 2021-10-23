@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "6個以上のトータルポス"
+    },
+    {
+      "locale": "zh",
+      "title": "6个或更多的总位置"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "6個或更多的總位置"
+    }
+  ]
 }
