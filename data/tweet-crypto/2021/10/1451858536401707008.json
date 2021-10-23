@@ -52,5 +52,22 @@
     },
     "retweet_count": 8360,
     "favorite_count": 36619
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @jack: ハイパーインフレはすべてを変えてしまう。それは起こっている。",
+      "retweeted_status_full_text": "ハイパーインフレはすべてを変えようとしています。起こっています。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @jack: 恶性通货膨胀将改变一切。它正在发生。",
+      "retweeted_status_full_text": "恶性通货膨胀将改变一切。它正在发生。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @jack: 惡性通貨膨脹將改變一切。它正在發生。",
+      "retweeted_status_full_text": "惡性通貨膨脹將改變一切。它正在發生。"
+    }
+  ]
 }
