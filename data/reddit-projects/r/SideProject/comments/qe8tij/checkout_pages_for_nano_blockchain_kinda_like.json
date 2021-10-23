@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "NANO Blockchainのチェックアウトページ。Stripe Checkoutのようなものですが、暗号用です。"
+    },
+    {
+      "locale": "zh",
+      "title": "NANO区块链的结账页。有点像Stripe Checkout，但用于加密货币。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "NANO區塊鏈的結賬頁。有點像Stripe Checkout，但用於加密貨幣。"
+    }
+  ]
 }
