@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今までのSOで一番厄介なことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你和你的SO做过的最恶心的事情是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你和你的SO做過的最噁心的事情是什麼？"
+    }
+  ]
 }
