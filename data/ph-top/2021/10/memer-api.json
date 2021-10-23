@@ -62,5 +62,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-23T07:04:18Z"
+  "original_createdAt": "2021-10-23T07:04:18Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "非常に簡単に画像を操作できる素晴らしいAPIです。50以上のエンドポイントを持つMamer APIは、おそらくdiscordボット用の最大の画像操作APIです。",
+      "tagline": "画像を簡単に操作するためのAPI"
+    },
+    {
+      "locale": "zh",
+      "description": "Memer API是一个很棒的API，可以让你非常容易地处理图片，Memer API有50多个端点，可能是最大的图片处理API，用于discord机器人。",
+      "tagline": "一个可以轻松操作图像的API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Memer API是一個很棒的API，可以讓你非常容易地處理圖片，Memer API有50多個端點，可能是最大的圖片處理API，用於discord機器人。",
+      "tagline": "一個可以輕鬆操作圖像的API"
+    }
+  ]
 }
