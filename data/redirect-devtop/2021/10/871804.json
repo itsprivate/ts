@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-21T20:03:24Z",
   "image": "https://dev.to/social_previews/article/871804.png",
   "author": "Paul Oms",
-  "author_url": "https://dev.to/ehlo_250"
+  "author_url": "https://dev.to/ehlo_250",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "console.logは多くの場面で便利です（ただし、...をデバッグするには、もっと良い方法があります）。",
+      "title": "複雑なオブジェクトでもconsole.logを快適に動作させるコツ"
+    },
+    {
+      "locale": "zh",
+      "description": "console.log在很多情况下都很有用（尽管通常有更好的方法来调试，如果...",
+      "title": "让console.log与复杂对象打成一片的技巧"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "console.log在很多情況下都很有用（儘管通常有更好的方法來調試，如果...",
+      "title": "讓console.log與複雜對象打成一片的技巧"
+    }
+  ]
 }
