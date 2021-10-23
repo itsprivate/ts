@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-07T11:26:38Z",
   "image": "https://dev.to/social_previews/article/854819.png",
   "author": "Saifullah Usmani",
-  "author_url": "https://dev.to/saifullahusmani"
+  "author_url": "https://dev.to/saifullahusmani",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、私の名前はSaifullah Usmaniです。私はプログラマーであり、グラフィックデザイナーでもあります。私はこれまで、プログラミング...",
+      "title": "独学で開発者になった私がフリーランスで学んだこと。"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，我的名字是赛福拉-奥斯曼。我是一名程序员和一名平面设计师。我一直在编程...",
+      "title": "作为一个自学成才的开发者，我在自由职业中学到了什么。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，我的名字是賽福拉-奧斯曼。我是一名程序員和一名平面設計師。我一直在編程...",
+      "title": "作爲一個自學成才的開發者，我在自由職業中學到了什麼。"
+    }
+  ]
 }
