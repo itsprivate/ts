@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Feeling the FOMO"
+  "the_new_excerpt": "Feeling the FOMO",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "FOMOを感じる",
+      "title": "景気刺激策が10倍になったのを見て、1k入れようと強く思いました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "感觉到FOMO",
+      "title": "在看到所有这些刺激性支票的10倍之后，强烈考虑投入1千美元。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "感覺到FOMO",
+      "title": "在看到所有這些刺激性支票的10倍之後，強烈考慮投入1千美元。"
+    }
+  ]
 }
