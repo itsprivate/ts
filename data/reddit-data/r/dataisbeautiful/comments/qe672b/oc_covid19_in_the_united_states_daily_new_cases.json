@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC】米国におけるCovid-19の日次の新規症例数、死亡数、入院数の推移"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]美国的Covid-19，每日新病例、死亡和住院情况"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]美國的Covid-19，每日新病例、死亡和住院情況"
+    }
+  ]
 }
