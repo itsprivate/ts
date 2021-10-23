@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "みんなで共有しなければならない"
+    },
+    {
+      "locale": "zh",
+      "title": "你必须与所有人分享它"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你必須與所有人分享它"
+    }
+  ]
 }
