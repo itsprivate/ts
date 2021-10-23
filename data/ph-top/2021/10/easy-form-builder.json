@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-23T13:34:22Z"
+  "original_createdAt": "2021-10-23T13:34:22Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Easy Form Builder の新バージョン、Version 2.0.0 がリリースされました🎉 たくさんの新機能、改善、修正が盛り込まれています。wordpress.org : https://wordpress.org/plugins/easy-form-builder/ でご覧いただけます。",
+      "tagline": "マルチステップ、ドラッグ＆ドロップのWordPressフォームビルダー"
+    },
+    {
+      "locale": "zh",
+      "description": "新的Easy Form Builder版本已经推出 - 2.0.0版本 🎉，包含了大量的新功能、改进和修正 在wordpress.org上探索这一切：https://wordpress.org/plugins/easy-form-builder/",
+      "tagline": "多步骤和拖放式WordPress表单生成器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "新的Easy Form Builder版本已經推出 - 2.0.0版本 🎉，包含了大量的新功能、改進和修正 在wordpress.org上探索這一切：https://wordpress.org/plugins/easy-form-builder/",
+      "tagline": "多步驟和拖放式WordPress表單生成器"
+    }
+  ]
 }
