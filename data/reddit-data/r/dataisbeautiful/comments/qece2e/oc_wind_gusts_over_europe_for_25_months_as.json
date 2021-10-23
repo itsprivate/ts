@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] ECMWFモデルIFSで4kmの空間分解能でシミュレーションした2.5ヶ月間のヨーロッパの突風。"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]欧洲2.5个月的阵风，由ECMWF模型IFS以4公里的空间分辨率模拟而成。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]歐洲2.5個月的陣風，由ECMWF模型IFS以4公里的空間分辨率模擬而成。"
+    }
+  ]
 }

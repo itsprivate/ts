@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-23T07:25:00Z"
+  "original_createdAt": "2021-10-23T07:25:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Shodan Trendsは、インターネットの歴史を検索することで、一般に公開されているサービスやデバイスの種類の傾向を知ることができるサイトです。",
+      "tagline": "インターネットでトレンドを知る"
+    },
+    {
+      "locale": "zh",
+      "description": "Shodan Trends是一个让用户搜索整个互联网历史的网站，以发现公开访问的服务和设备类型的趋势。",
+      "tagline": "发现互联网上的趋势"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Shodan Trends是一個讓用戶搜索整個互聯網歷史的網站，以發現公開訪問的服務和設備類型的趨勢。",
+      "tagline": "發現互聯網上的趨勢"
+    }
+  ]
 }
