@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-22T09:19:39Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WSkJNOY7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v6uewpkyoeidy44xzfan.png",
   "author": "Nehal Mahida",
-  "author_url": "https://dev.to/nehal_mahida"
+  "author_url": "https://dev.to/nehal_mahida",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "前の値に依存する場合、皆さんはどうやって状態を更新していますか？ シンプルに！！。   ... const...",
+      "title": "Reactで状態を更新しない方法！？"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你的状态取决于前一个值，你们如何更新？ 简单！!    ... const...",
+      "title": "如何不在React中更新状态！？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你的狀態取決於前一個值，你們如何更新？ 簡單！!    ... const...",
+      "title": "如何不在React中更新狀態！？"
+    }
+  ]
 }
