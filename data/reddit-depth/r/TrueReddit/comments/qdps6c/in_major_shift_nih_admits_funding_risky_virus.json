@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "NIHが武漢での危険なウイルス研究への資金提供を認めるという大きな変化"
+    },
+    {
+      "locale": "zh",
+      "title": "美国国立卫生研究院承认资助武汉的风险病毒研究，这是一个重大转变"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "美國國立衛生研究院承認資助武漢的風險病毒研究，這是一個重大轉變"
+    }
+  ]
 }
