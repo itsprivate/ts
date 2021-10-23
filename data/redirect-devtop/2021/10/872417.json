@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-22T11:58:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wcSZC0Pq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l084jvfw4slao1hhgy5y.png",
   "author": "Eric The Coder",
-  "author_url": "https://dev.to/ericchapman"
+  "author_url": "https://dev.to/ericchapman",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ここでは、NodeJS +...でバックエンドアプリケーションを作成できるようにするための一連の記事を紹介します。",
+      "title": "NodeJS + Express part 1: Introduction"
+    },
+    {
+      "locale": "zh",
+      "description": "这里有一系列的文章，可以让你用NodeJS+创建后端应用程序。",
+      "title": "NodeJS + Express第一部分：介绍"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這裏有一系列的文章，可以讓你用NodeJS+創建後端應用程序。",
+      "title": "NodeJS + Express第一部分：介紹"
+    }
+  ]
 }
