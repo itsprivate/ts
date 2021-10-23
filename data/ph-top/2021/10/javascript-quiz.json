@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-23T07:29:37Z"
+  "original_createdAt": "2021-10-23T07:29:37Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "楽しみながら自分の知識を確認することができます。すべての問題に詳しい解説がついています。",
+      "tagline": "楽しみながらJSの知識を確認することができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "在玩乐中检查你的知识。所有问题都有详细的解释。",
+      "tagline": "通过玩耍来检查你的JS知识。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在玩樂中檢查你的知識。所有問題都有詳細的解釋。",
+      "tagline": "通過玩耍來檢查你的JS知識。"
+    }
+  ]
 }
