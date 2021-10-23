@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-22T17:00:02Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FDIwZ_bQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://ivumwcqobobsryuftwyv.supabase.co/storage/v1/object/public/posts/d6c8f63f-467f-4de1-863e-6efc3fce4d90/cover_image/795a36e6-b01b-429d-ba1d-b24c09ecaeaa.png",
   "author": "Mahesh Patidar",
-  "author_url": "https://dev.to/ali6nx404"
+  "author_url": "https://dev.to/ali6nx404",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コーディング中に正確なプロパティを忘れてしまうことがよくあり、その時にグーグルで検索すると少なくとも時間がかかります。",
+      "title": "Web開発でいつも時間を節約してくれるチートシート🚀。"
+    },
+    {
+      "locale": "zh",
+      "description": "在编码过程中，我经常忘记确切的属性，在那个时候，在谷歌上搜索至少需要时间。",
+      "title": "在网站开发过程中，小抄总是能节省我的时间 🚀"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在編碼過程中，我經常忘記確切的屬性，在那個時候，在谷歌上搜索至少需要時間。",
+      "title": "在網站開發過程中，小抄總是能節省我的時間 🚀"
+    }
+  ]
 }
