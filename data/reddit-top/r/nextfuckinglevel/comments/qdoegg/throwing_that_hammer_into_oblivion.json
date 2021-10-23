@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "そのハンマーを忘却の彼方に投げる"
+    },
+    {
+      "locale": "zh",
+      "title": "将那把锤子扔进垃圾桶"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "將那把錘子扔進垃圾桶"
+    }
+  ]
 }
