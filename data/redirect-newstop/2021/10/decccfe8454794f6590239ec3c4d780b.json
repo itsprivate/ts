@@ -14,5 +14,19 @@
   "tags": [
     "BBC News"
   ],
-  "image": "https://ichef.bbci.co.uk/news/1024/branded_news/13F55/production/_121194718_chinatutor.jpg"
+  "image": "https://ichef.bbci.co.uk/news/1024/branded_news/13F55/production/_121194718_chinatutor.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "中国、学童への宿題の負担軽減を目指す"
+    },
+    {
+      "locale": "zh",
+      "title": "中国寻求解除学童的家庭作业压力"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "中國尋求解除學童的家庭作業壓力"
+    }
+  ]
 }
