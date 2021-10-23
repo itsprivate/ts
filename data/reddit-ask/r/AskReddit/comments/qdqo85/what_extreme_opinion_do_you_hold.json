@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "どのような極端な意見をお持ちですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你持有什么极端的观点？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你持有什麼極端的觀點？"
+    }
+  ]
 }
