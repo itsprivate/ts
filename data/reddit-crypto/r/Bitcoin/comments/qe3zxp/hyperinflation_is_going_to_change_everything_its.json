@@ -47,5 +47,19 @@
     "type": "twitter.com"
   },
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"ハイパーインフレはすべてを変えてしまう。起こっているんだ。\" - ジャック・ドーシー"
+    },
+    {
+      "locale": "zh",
+      "title": "\"恶性通货膨胀将改变一切。它正在发生。\" - 杰克-多尔西"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"惡性通貨膨脹將改變一切。它正在發生。\" - 傑克-多爾西"
+    }
+  ]
 }
