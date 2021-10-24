@@ -52,5 +52,22 @@
   "original_created_at": "2021-10-21T18:21:17Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EO22Xckn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rn3um3t78coragy3ys4m.png",
   "author": "Erin Schaffer",
-  "author_url": "https://dev.to/erineducative"
+  "author_url": "https://dev.to/erineducative",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "新年まであと2ヶ月となり、そろそろ前を向く時期になってきました。",
+      "title": "DevOpsにおけるCI/CDとは？"
+    },
+    {
+      "locale": "zh",
+      "description": "我们离新的一年只有几个月的时间，这意味着现在是时候开始展望未来了。",
+      "title": "什么是DevOps中的CI/CD？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們離新的一年只有幾個月的時間，這意味着現在是時候開始展望未來了。",
+      "title": "什麼是DevOps中的CI/CD？"
+    }
+  ]
 }
