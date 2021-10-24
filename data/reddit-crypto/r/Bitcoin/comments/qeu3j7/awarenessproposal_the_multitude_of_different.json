@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "NOTE: Purpose of this post is to draw attention to a possibility for improving\nBitcoin and its wallet ecosystem constructively, so please do not blindly hate\nand downvote based on a false understanding that this is harmful criticisms. It\nis not. Negating a fruitful constructive dialogue would be…"
+  "the_new_excerpt": "NOTE: Purpose of this post is to draw attention to a possibility for improving\nBitcoin and its wallet ecosystem constructively, so please do not blindly hate\nand downvote based on a false understanding that this is harmful criticisms. It\nis not. Negating a fruitful constructive dialogue would be…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "注：この記事の目的は、ビットコインとそのウォレットのエコシステムを建設的に改善する可能性に注意を喚起することです。\nこの投稿の目的は、ビットコインとそのウォレットのエコシステムを建設的に改善する可能性に注目することです。\nしたり、有害な批判であるという誤った理解に基づいてダウンボートしたりしないでください。そうではありません。\nそうではありません。実りある建設的な対話を否定することは...",
+      "title": "[啓発・提案】 BIP32ビットコインウォレットの「導出経路」が多数存在するため、技術に詳しくないユーザーがウォレットの種の復元操作をする際に、あらゆる面で互換性がない。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "注意：这篇文章的目的是提请注意一个可以改善\n的可能性，所以请不要盲目地讨厌\n并基于错误的理解，认为这是有害的批评，而进行降票。它\n并非如此。否定一个富有成效的建设性对话将是...",
+      "title": "[认识/建议] BIP32比特币钱包中众多不同的 \"派生路径\"，在涉及到钱包种子恢复操作时，对不懂技术的用户来说，会造成不兼容。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "注意：這篇文章的目的是提請注意一個可以改善\n的可能性，所以請不要盲目地討厭\n並基於錯誤的理解，認爲這是有害的批評，而進行降票。它\n並非如此。否定一個富有成效的建設性對話將是...",
+      "title": "[認識/建議] BIP32比特幣錢包中衆多不同的 \"派生路徑\"，在涉及到錢包種子恢復操作時，對不懂技術的用戶來說，會造成不兼容。"
+    }
+  ]
 }
