@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-22T05:02:13Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ckq8sbtu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z17nd6dxojlg4d6i1ioo.jpeg",
   "author": "Ramya Chinnadurai",
-  "author_url": "https://dev.to/code_rams"
+  "author_url": "https://dev.to/code_rams",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、フルスタックのWeb開発者に役立つGitHubリポジトリのリストを紹介しています...",
+      "title": "フルスタックWeb開発者のためのHandful Github Repos"
+    },
+    {
+      "locale": "zh",
+      "description": "本文包含一个有用的GitHub存储库列表，以帮助全栈式Web开发人员...",
+      "title": "全栈式网络开发的少量Github Repos"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "本文包含一個有用的GitHub存儲庫列表，以幫助全棧式Web開發人員...",
+      "title": "全棧式網絡開發的少量Github Repos"
+    }
+  ]
 }
