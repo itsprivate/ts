@@ -43,5 +43,22 @@
   "original_created_at": "2021-10-22T04:00:40Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FLDNHbER--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hoapwrmq2efmg2wydyb0.jpg",
   "author": "Jessie Rohrer",
-  "author_url": "https://dev.to/jrrohrer"
+  "author_url": "https://dev.to/jrrohrer",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Cover Photo by Ugur Akdemir on Unsplash I have been made it! これは私のフラットアイアンの最終プロジェクトです。",
+      "title": "ブッククリティーク あるReactプロジェクト"
+    },
+    {
+      "locale": "zh",
+      "description": "Cover Photo by Ugur Akdemir on Unsplash I have made it! 这是我在Flatiron的最后一个项目...",
+      "title": "图书评论家。一个React项目"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Cover Photo by Ugur Akdemir on Unsplash I have made it! 這是我在Flatiron的最後一個項目...",
+      "title": "圖書評論家。一個React項目"
+    }
+  ]
 }
