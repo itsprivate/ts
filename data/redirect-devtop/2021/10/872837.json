@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-22T17:03:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AVSf_hHH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://blog.kuula.co/assets/protected-tours/header.jpg",
   "author": "Jeff Edmondson",
-  "author_url": "https://dev.to/jeff_codes"
+  "author_url": "https://dev.to/jeff_codes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このチュートリアルでは、Reactで保護されたルートを作成する方法を紹介します。react context apiを利用して、保護されたルートのためのカスタムフックを作成します。また、よくある問題と、それに対処するためのさまざまな実装方法についても説明します。",
+      "title": "カスタムフックとContext APIによるReactでの保護されたルート"
+    },
+    {
+      "locale": "zh",
+      "description": "本教程将告诉你如何在React中创建受保护的路由。我们将利用react context api并为我们的受保护路由创建一个自定义钩子。我们还将讨论一些常见问题以及解决这些问题的不同实现方式。",
+      "title": "在React中使用自定义钩子和上下文API的受保护路由"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "本教程將告訴你如何在React中創建受保護的路由。我們將利用react context api併爲我們的受保護路由創建一個自定義鉤子。我們還將討論一些常見問題以及解決這些問題的不同實現方式。",
+      "title": "在React中使用自定義鉤子和上下文API的受保護路由"
+    }
+  ]
 }
