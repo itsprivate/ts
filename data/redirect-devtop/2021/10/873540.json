@@ -43,5 +43,22 @@
   "original_created_at": "2021-10-23T11:12:29Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--l9F8gw8a--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uot65wxg8fx5m7hecx01.png",
   "author": "Rithik Samanthula",
-  "author_url": "https://dev.to/code2rithik"
+  "author_url": "https://dev.to/code2rithik",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Hey Coders!  多くの人が、もうすぐRustがJavaに取って代わるだろうと言っています。 見てみると...",
+      "title": "RustはJavaに取って代わるのか？"
+    },
+    {
+      "locale": "zh",
+      "description": "    很多人都在告诉我，Rust很快就会取代java。 看了一下...",
+      "title": "Rust会取代Java吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "    很多人都在告訴我，Rust很快就會取代java。 看了一下...",
+      "title": "Rust會取代Java嗎？"
+    }
+  ]
 }
