@@ -66,5 +66,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-23T13:35:32Z"
+  "original_createdAt": "2021-10-23T13:35:32Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Refineは、カスタマイズ性を損なうことなく、すぐに使える機能を数多く備えているので、迅速な開発が可能です。エンタープライズレベルのUIツールキットであるAnt Design Systemが同梱されています。Supabase、Strapi、Hasura、Auth0、NextJsなどと統合されています。",
+      "tagline": "データ集約型アプリケーションを迅速に構築するReactフレームワーク"
+    },
+    {
+      "locale": "zh",
+      "description": "Refine为快速开发提供了许多开箱即用的功能，同时又不影响极端的可定制性。它配备了Ant Design System，一个企业级的UI工具包。与Supabase、Strapi、Hasura、Auth0、NextJs等集成。",
+      "tagline": "快速构建数据密集型应用程序的React框架"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Refine爲快速開發提供了許多開箱即用的功能，同時又不影響極端的可定製性。它配備了Ant Design System，一個企業級的UI工具包。與Supabase、Strapi、Hasura、Auth0、NextJs等集成。",
+      "tagline": "快速構建數據密集型應用程序的React框架"
+    }
+  ]
 }
