@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-23T10:16:37Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s---wklFU28--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y08fsz3c0byhlazzh68r.jpeg",
   "author": "Adam Nagy",
-  "author_url": "https://dev.to/javascriptacademy"
+  "author_url": "https://dev.to/javascriptacademy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今日のチュートリアルでは、現在の時刻を表示するデジタル時計を作成します...",
+      "title": "Javascriptでデジタル時計を作る"
+    },
+    {
+      "locale": "zh",
+      "description": "在今天的教程中，我们将创建一个数字时钟，它将向我们显示当前的时间，而且它还将显示出一个数字。",
+      "title": "使用Javascript创建一个数字时钟"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在今天的教程中，我們將創建一個數字時鐘，它將向我們顯示當前的時間，而且它還將顯示出一個數字。",
+      "title": "使用Javascript創建一個數字時鐘"
+    }
+  ]
 }
