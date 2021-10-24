@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Why YSK this? Because privacy"
+  "the_new_excerpt": "Why YSK this? Because privacy",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "なぜYSKなのか？プライバシー",
+      "title": "YSKは、VPNを使用しているときにGoogleで人間であることの確認を求められたら、それはあなたをわざと困らせようとしているので、VPNをオフにします。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么YSK这样做？因为隐私",
+      "title": "YSK认为，当你在使用VPN时被要求在谷歌上验证是否为人类时，这是他们试图故意惹恼你，以便你关闭VPN。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼YSK這樣做？因爲隱私",
+      "title": "YSK認爲，當你在使用VPN時被要求在谷歌上驗證是否爲人類時，這是他們試圖故意惹惱你，以便你關閉VPN。"
+    }
+  ]
 }
