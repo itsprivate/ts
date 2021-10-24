@@ -57,5 +57,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "In general I find it annoying to cd and ls command multiple times so made a CLI\nwhich let's you navigate through terminal like a pro 😎.\n\ncheck it out: link [https://github.com/souvikinator/lsx]\n\nStill in development, more features will be introduced eventually.\n\nFeel free to give feedback. drop a…"
+  "the_new_excerpt": "In general I find it annoying to cd and ls command multiple times so made a CLI\nwhich let's you navigate through terminal like a pro 😎.\n\ncheck it out: link [https://github.com/souvikinator/lsx]\n\nStill in development, more features will be introduced eventually.\n\nFeel free to give feedback. drop a…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "一般的に、cdやlsコマンドを何度も実行するのは煩わしいと感じているので、ナビゲーション機能を持つCLIを作りました。\nを作ってみました😎。\n\nチェックアウト: リンク [https://github.com/souvikinator/lsx]\n\nまだまだ開発中ですが、そのうちもっと多くの機能を導入する予定です。\n\nお気軽にフィードバックをお願いします...",
+      "title": "プロのようにターミナルを操作できるコマンドラインユーティリティーです😎。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "一般来说，我觉得多次使用cd和ls命令很烦人，所以做了一个CLI\n可以让你像专家一样在终端机上导航😎。\n\n请看：链接 [https://github.com/souvikinator/lsx]\n\n仍在开发中，更多的功能最终将被引入。\n\n请随时提供反馈。",
+      "title": "一个命令行工具，让你像专家一样浏览终端😎。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "一般來說，我覺得多次使用cd和ls命令很煩人，所以做了一個CLI\n可以讓你像專家一樣在終端機上導航😎。\n\n請看：鏈接 [https://github.com/souvikinator/lsx]\n\n仍在開發中，更多的功能最終將被引入。\n\n請隨時提供反饋。",
+      "title": "一個命令行工具，讓你像專家一樣瀏覽終端😎。"
+    }
+  ]
 }
