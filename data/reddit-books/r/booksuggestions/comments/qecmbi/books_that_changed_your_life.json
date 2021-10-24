@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "what are book that changed your life that aren’t like self help books"
+  "the_new_excerpt": "what are book that changed your life that aren’t like self help books",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "自己啓発本とは違う、人生を変えた本とは？",
+      "title": "あなたの人生を変えた本"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "什么是改变你生活的书，而不是像自我帮助的书？",
+      "title": "改变你生活的书"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "什麼是改變你生活的書，而不是像自我幫助的書？",
+      "title": "改變你生活的書"
+    }
+  ]
 }
