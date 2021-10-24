@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-24T04:10:45Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yMNu-ISc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dv0r97eog7vna33q2u8e.png",
   "author": "Tapajyoti Bose",
-  "author_url": "https://dev.to/ruppysuppy"
+  "author_url": "https://dev.to/ruppysuppy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "企業レベルのアプリケーションでは、単一のコードベースからアプリケーションを作成することは、結果的に...",
+      "title": "マイクロフロントエンド。次世代のウェブアプリケーション構築方法"
+    },
+    {
+      "locale": "zh",
+      "description": "在企业级应用中，从一个单一的代码库中开展应用工作，结果是一个...",
+      "title": "微型前台。构建网络应用程序的下一代方式"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在企業級應用中，從一個單一的代碼庫中開展應用工作，結果是一個...",
+      "title": "微型前臺。構建網絡應用程序的下一代方式"
+    }
+  ]
 }
