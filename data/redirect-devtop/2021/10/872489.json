@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-22T13:49:27Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8ZnN6ByO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5c6z3witczh9vdk2yacc.jpg",
   "author": "Seth Addo",
-  "author_url": "https://dev.to/seths10"
+  "author_url": "https://dev.to/seths10",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "さあ、始めましょう このブログでは、あなたのお好みに合ったスクリーンレコーダーを作成する方法をご紹介します。",
+      "title": "Vanilla JSを使ったシンプルなスクリーンレコーダー"
+    },
+    {
+      "locale": "zh",
+      "description": "让我们开始吧 在这篇博客中，你将学习如何创建一个屏幕记录器，它可以做到。",
+      "title": "用Vanilla JS的简单屏幕录像机"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "讓我們開始吧 在這篇博客中，你將學習如何創建一個屏幕記錄器，它可以做到。",
+      "title": "用Vanilla JS的簡單屏幕錄像機"
+    }
+  ]
 }
