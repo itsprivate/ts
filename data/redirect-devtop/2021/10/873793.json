@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-23T18:51:38Z",
   "image": "https://dev.to/social_previews/article/873793.png",
   "author": "Hrn Svncハルン Харун Севиндж",
-  "author_url": "https://dev.to/harsvnc"
+  "author_url": "https://dev.to/harsvnc",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "クローム開発ツールには、CSS内部の欠陥を特定するためのCSS概要パネルがあることをご存知ですか？      ...",
+      "title": "あなたが知らないCSSクローム開発ツール"
+    },
+    {
+      "locale": "zh",
+      "description": "你知道chrome开发工具有一个css概览面板来识别你的css内部的缺陷吗？      ...",
+      "title": "你所不知道的css chrome开发工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你知道chrome開發工具有一個css概覽面板來識別你的css內部的缺陷嗎？      ...",
+      "title": "你所不知道的css chrome開發工具"
+    }
+  ]
 }
