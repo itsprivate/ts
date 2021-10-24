@@ -42,5 +42,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "はい、おまわりさん、殺人事件の報告をしたいのですが。"
+    },
+    {
+      "locale": "zh",
+      "title": "是的，你好，警官，我想报告一起谋杀案。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "是的，你好，警官，我想報告一起謀殺案。"
+    }
+  ]
 }
