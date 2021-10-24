@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "テキサス州にある最大級の暗号マイニングファームでは、ビットコインを採掘して1日に200万円近くを稼いでいるそうです。"
+    },
+    {
+      "locale": "zh",
+      "title": "德克萨斯州最大的加密货币采矿场之一，每天开采比特币的收入接近200万美元。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "德克薩斯州最大的加密貨幣採礦場之一，每天開採比特幣的收入接近200萬美元。"
+    }
+  ]
 }
