@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの猫の名前は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你的猫叫什么名字？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你的貓叫什麼名字？"
+    }
+  ]
 }
