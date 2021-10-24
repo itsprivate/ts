@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-23T11:22:29Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--M_GX0Rdb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rcza7rlhu8m07j3jmqde.png",
   "author": "Darshan-Bajeja",
-  "author_url": "https://dev.to/darshanbajeja"
+  "author_url": "https://dev.to/darshanbajeja",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、非常に美しいCSSフレームワーク「halfmoon css」についてご紹介します。",
+      "title": "ハーフムーン。忘れ去られたCSSフレームワーク"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，你将了解到一个非常漂亮的CSS框架--半月形css，你将很少看到它。",
+      "title": "半月形。被遗忘的CSS框架"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，你將瞭解到一個非常漂亮的CSS框架--半月形css，你將很少看到它。",
+      "title": "半月形。被遺忘的CSS框架"
+    }
+  ]
 }
