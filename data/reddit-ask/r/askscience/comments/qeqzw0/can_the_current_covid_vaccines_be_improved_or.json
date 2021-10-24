@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "現在のCovidワクチンを改良したり、長持ちする別のワクチンに変更することはできますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "目前的Covid疫苗是否可以改进或用不同的疫苗替代，使其持续时间更长？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "目前的Covid疫苗是否可以改進或用不同的疫苗替代，使其持續時間更長？"
+    }
+  ]
 }
