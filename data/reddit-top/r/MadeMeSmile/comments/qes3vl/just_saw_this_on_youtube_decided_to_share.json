@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "YouTubeで見たばかりなので、共有することにしました。"
+    },
+    {
+      "locale": "zh",
+      "title": "刚刚在YouTube上看到这个，决定分享一下"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "剛剛在YouTube上看到這個，決定分享一下"
+    }
+  ]
 }
