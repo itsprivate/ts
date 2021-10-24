@@ -45,5 +45,17 @@
   "original_created_at": "2020-11-02T09:04:08Z",
   "image": "https://dev.to/social_previews/article/503965.png",
   "author": "Neha Sharma ",
-  "author_url": "https://dev.to/hellonehha"
+  "author_url": "https://dev.to/hellonehha",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "什么是flex？ flex是一个CSS3属性。它是用来创建布局和管理的。",
+      "title": "任何人都可以使用的CSS Flex-box指南 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是flex？ flex是一個CSS3屬性。它是用來創建佈局和管理的。",
+      "title": "任何人都可以使用的CSS Flex-box指南 "
+    }
+  ]
 }
