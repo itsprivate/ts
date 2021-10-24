@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "WhatsAppチャットの分析装置を作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我们做了一个WhatsApp聊天分析器!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們做了一個WhatsApp聊天分析器!"
+    }
+  ]
 }
