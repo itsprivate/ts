@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-23T15:40:36Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Dnfw-Na2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l61ju3umciligi8f3urj.png",
   "author": "Ashish Bailkeri",
-  "author_url": "https://dev.to/aboss123"
+  "author_url": "https://dev.to/aboss123",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "優れたコードを維持するためには、コードのベンチマークを行うことが非常に重要です。それは、特に...",
+      "title": "コードパフォーマンスの算出"
+    },
+    {
+      "locale": "zh",
+      "description": "对你的代码进行基准测试是维护好代码的一个非常重要的步骤。它并不特别...",
+      "title": "计算你的代码性能"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "對你的代碼進行基準測試是維護好代碼的一個非常重要的步驟。它並不特別...",
+      "title": "計算你的代碼性能"
+    }
+  ]
 }
