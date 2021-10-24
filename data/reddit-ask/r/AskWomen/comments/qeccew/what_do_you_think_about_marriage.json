@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "What’s your definition of a healthy marriage?"
+  "the_new_excerpt": "What’s your definition of a healthy marriage?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "あなたが考える健全な結婚とは何ですか？",
+      "title": "結婚についてどう考えていますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你对健康婚姻的定义是什么？",
+      "title": "你对婚姻有什么看法？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你對健康婚姻的定義是什麼？",
+      "title": "你對婚姻有什麼看法？"
+    }
+  ]
 }

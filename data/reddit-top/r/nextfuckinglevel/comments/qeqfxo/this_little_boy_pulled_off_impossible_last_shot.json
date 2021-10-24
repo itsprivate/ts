@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この少年は、不可能なラストショットを成功させました。"
+    },
+    {
+      "locale": "zh",
+      "title": "这个小男孩完成了不可能完成的最后一击..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個小男孩完成了不可能完成的最後一擊..."
+    }
+  ]
 }
