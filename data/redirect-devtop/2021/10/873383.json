@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-23T10:15:00Z",
   "image": "https://dev.to/social_previews/article/873383.png",
   "author": "Harsh boricha",
-  "author_url": "https://dev.to/harshboricha98"
+  "author_url": "https://dev.to/harshboricha98",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Hello there 👋🏼, internet users. 今日は、私がよく忘れてしまうCSSのトリックをご紹介します...",
+      "title": "高さ100％のスクロール可能なdivレイアウト"
+    },
+    {
+      "locale": "zh",
+      "description": "网民朋友们，你们好！👋🏼。今天，我将向你们展示一个我经常忘记的CSS技巧。",
+      "title": "高度为100%的可滚动div布局"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "網民朋友們，你們好！👋🏼。今天，我將向你們展示一個我經常忘記的CSS技巧。",
+      "title": "高度爲100%的可滾動div佈局"
+    }
+  ]
 }
