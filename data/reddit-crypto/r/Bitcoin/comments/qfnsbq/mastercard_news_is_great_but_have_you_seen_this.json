@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "MasterCardのニュースは素晴らしいが、このオフラインのBitcoin LN決済プロジェクトを見たことがあるだろうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "万事达卡的消息很好，但你看到这个离线的比特币LN支付项目了吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "萬事達卡的消息很好，但你看到這個離線的比特幣LN支付項目了嗎？"
+    }
+  ]
 }
