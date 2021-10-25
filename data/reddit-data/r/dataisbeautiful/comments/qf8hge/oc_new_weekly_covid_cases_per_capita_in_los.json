@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] ロサンゼルス郡における一人当たりのCOVID症例数の推移"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]洛杉矶县每周新增人均COVID案例"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]洛杉磯縣每週新增人均COVID案例"
+    }
+  ]
 }
