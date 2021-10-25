@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Mastercardは、その広大なネットワーク上のどの銀行や加盟店でも、すぐに暗号サービスを提供できるとしている。"
+    },
+    {
+      "locale": "zh",
+      "title": "万事达卡表示，其庞大网络上的任何银行或商户都可以很快提供加密货币服务"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "萬事達卡表示，其龐大網絡上的任何銀行或商戶都可以很快提供加密貨幣服務"
+    }
+  ]
 }
