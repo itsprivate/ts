@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Come Back!"
+    },
+    {
+      "locale": "zh",
+      "title": "回来吧!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "回來吧!"
+    }
+  ]
 }
