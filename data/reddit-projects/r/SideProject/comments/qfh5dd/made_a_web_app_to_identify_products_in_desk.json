@@ -136,5 +136,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "机の上の製品を識別し、自分の製品を共有するためのウェブアプリを作成しました。"
+    },
+    {
+      "locale": "zh",
+      "title": "制作了一个网络应用，用于识别桌面设置中的产品并分享你自己的产品"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "製作了一個網絡應用，用於識別桌面設置中的產品並分享你自己的產品"
+    }
+  ]
 }

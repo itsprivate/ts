@@ -134,5 +134,22 @@
     "retweet_count": 2649,
     "favorite_count": 16539,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @100trillionUSD: 🔴 https://t.co/b7k9dOUV0z",
+      "retweeted_status_full_text": "🔴 https://t.co/b7k9dOUV0z"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @100trillionUSD: 🔴 https://t.co/b7k9dOUV0z",
+      "retweeted_status_full_text": "🔴 https://t.co/b7k9dOUV0z"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @100trillionUSD: 🔴 https://t.co/b7k9dOUV0z",
+      "retweeted_status_full_text": "🔴 https://t.co/b7k9dOUV0z"
+    }
+  ]
 }
