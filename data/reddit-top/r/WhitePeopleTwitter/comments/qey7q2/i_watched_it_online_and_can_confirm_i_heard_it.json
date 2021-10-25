@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私はオンラインで見て、それを聞いたことを確認しました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我在网上看了，可以确认我听到了。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我在網上看了，可以確認我聽到了。"
+    }
+  ]
 }
