@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これまでに実践したことのある、あるいは他の人が実践しているのを見たことのある、最悪のダイエットプランは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你曾经遵循或看到别人遵循的最糟糕的饮食计划是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你曾經遵循或看到別人遵循的最糟糕的飲食計劃是什麼？"
+    }
+  ]
 }

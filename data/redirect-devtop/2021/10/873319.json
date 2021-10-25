@@ -43,5 +43,22 @@
   "original_created_at": "2021-10-23T07:10:53Z",
   "image": "https://dev.to/social_previews/article/873319.png",
   "author": "Alessandro",
-  "author_url": "https://dev.to/alessandrogiuzio"
+  "author_url": "https://dev.to/alessandrogiuzio",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "初心者～初級者 Svelteの紹介 このチュートリアルの目的は、私の...",
+      "title": "私のスヴェルト・ジャーニー"
+    },
+    {
+      "locale": "zh",
+      "description": "初学者介绍Svelte 本教程的目的是分享我的...",
+      "title": "我的瘦身之旅"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "初學者介紹Svelte 本教程的目的是分享我的...",
+      "title": "我的瘦身之旅"
+    }
+  ]
 }
