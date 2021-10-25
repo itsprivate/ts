@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-20T19:30:10Z",
   "image": "https://dev.to/social_previews/article/870447.png",
   "author": "Semyon Kirekov",
-  "author_url": "https://dev.to/kirekov"
+  "author_url": "https://dev.to/kirekov",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ソフトウェアプロジェクトの第一の目的は、ビジネスの自動化によって収益を得ることです...",
+      "title": "CI/CDの基本"
+    },
+    {
+      "locale": "zh",
+      "description": "任何软件项目的主要目标是通过业务的自动化来赚钱。",
+      "title": "CI/CD的基础知识"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "任何軟件項目的主要目標是通過業務的自動化來賺錢。",
+      "title": "CI/CD的基礎知識"
+    }
+  ]
 }
