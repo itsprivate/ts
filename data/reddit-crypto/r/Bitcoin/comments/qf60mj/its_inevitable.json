@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "必然的にそうなる。"
+    },
+    {
+      "locale": "zh",
+      "title": "这是不可避免的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是不可避免的。"
+    }
+  ]
 }
