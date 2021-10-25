@@ -41,5 +41,22 @@
   "original_created_at": "2021-10-22T09:29:06Z",
   "image": "https://dev.to/social_previews/article/872239.png",
   "author": "Sergiy Yevtushenko",
-  "author_url": "https://dev.to/siy"
+  "author_url": "https://dev.to/siy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "レガシーコードの削減",
+      "title": "Javaコードの書き方を変えよう"
+    },
+    {
+      "locale": "zh",
+      "description": "停止编写遗留的代码",
+      "title": "我们应该用不同的方式来编写Java代码"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "停止編寫遺留的代碼",
+      "title": "我們應該用不同的方式來編寫Java代碼"
+    }
+  ]
 }
