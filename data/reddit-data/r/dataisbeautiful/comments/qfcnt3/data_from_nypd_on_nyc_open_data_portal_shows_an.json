@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "NYC Open Data Portalに掲載されたNYPDのデータによると、ヘイトクライムの増加が見られます【OC】。"
+    },
+    {
+      "locale": "zh",
+      "title": "纽约市警察局在纽约市开放数据门户网站上的数据显示，仇恨犯罪有所增加 [OC]"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "紐約市警察局在紐約市開放數據門戶網站上的數據顯示，仇恨犯罪有所增加 [OC]"
+    }
+  ]
 }
