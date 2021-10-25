@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "サイドプロジェクトの旅をライブで共有するための超シンプルなストリーミングソフトを作りました。しかも、無料です。"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了这个超级简单的流媒体软件，让你去直播和分享你的副业旅程。而且它是免费的"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了這個超級簡單的流媒體軟件，讓你去直播和分享你的副業旅程。而且它是免費的"
+    }
+  ]
 }
