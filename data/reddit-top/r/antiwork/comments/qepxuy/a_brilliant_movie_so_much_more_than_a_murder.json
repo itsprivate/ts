@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "素晴らしい映画です。単なる殺人事件ではない"
+    },
+    {
+      "locale": "zh",
+      "title": "一部出色的电影。比谋杀悬疑片要好得多"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一部出色的電影。比謀殺懸疑片要好得多"
+    }
+  ]
 }
