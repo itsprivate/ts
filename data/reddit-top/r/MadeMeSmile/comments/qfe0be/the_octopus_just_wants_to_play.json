@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "タコはただ遊びたいだけ...。"
+    },
+    {
+      "locale": "zh",
+      "title": "章鱼只是想玩..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "章魚只是想玩..."
+    }
+  ]
 }
