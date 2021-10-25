@@ -43,5 +43,22 @@
   "original_created_at": "2021-10-24T07:58:01Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--t5YRDvxx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3hw1khdd4inhjri40vkx.jpg",
   "author": "Madi Ostoja",
-  "author_url": "https://dev.to/madeleineostoja"
+  "author_url": "https://dev.to/madeleineostoja",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Tailwind CSSは、ここ数年、フロントエンド開発の世界を席巻しています。A...",
+      "title": "テイルウィンドは答えではない"
+    },
+    {
+      "locale": "zh",
+      "description": "在过去的几年里，Tailwind CSS已经在前端开发领域掀起了一场风暴。A...",
+      "title": "尾风并不是答案"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在過去的幾年裏，Tailwind CSS已經在前端開發領域掀起了一場風暴。A...",
+      "title": "尾風並不是答案"
+    }
+  ]
 }
