@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-25T07:01:00Z"
+  "original_createdAt": "2021-10-25T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "どのツイートにも「@belief_capital」と返信するだけで、あなたの信念を投資することができます。信念の獲得と投資を追跡するには、beliefcapital.coのダッシュボードをご利用ください。",
+      "tagline": "人、プロジェクト、アイデアに信念を持って投資する"
+    },
+    {
+      "locale": "zh",
+      "description": "只要在任何推特上回复@belief_capital，就可以投资你的信念。在beliefcapital.co的仪表板上跟踪赚取和投资的信念。",
+      "tagline": "在人、项目和想法上投资你的信念"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "只要在任何推特上回復@belief_capital，就可以投資你的信念。在beliefcapital.co的儀表板上跟蹤賺取和投資的信念。",
+      "tagline": "在人、項目和想法上投資你的信念"
+    }
+  ]
 }
