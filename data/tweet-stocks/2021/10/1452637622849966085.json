@@ -52,5 +52,22 @@
     },
     "retweet_count": 156,
     "favorite_count": 2008
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @dougboneparth: テスラの株価が高すぎてハーツ。",
+      "retweeted_status_full_text": "テスラの株価が高いからハーツ。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @dougboneparth: 特斯拉的股价很高，它赫然在列。",
+      "retweeted_status_full_text": "特斯拉的股价很高，它赫然在列。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @dougboneparth: 特斯拉的股價很高，它赫然在列。",
+      "retweeted_status_full_text": "特斯拉的股價很高，它赫然在列。"
+    }
+  ]
 }

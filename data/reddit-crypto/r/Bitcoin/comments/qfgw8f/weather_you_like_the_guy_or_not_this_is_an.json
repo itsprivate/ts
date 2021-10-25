@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この男が好きかどうかに関わらず、これはビットコインを買うための素晴らしいピッチです。"
+    },
+    {
+      "locale": "zh",
+      "title": "无论你是否喜欢这个人，这都是一个购买比特币的绝佳宣传。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "無論你是否喜歡這個人，這都是一個購買比特幣的絕佳宣傳。"
+    }
+  ]
 }
