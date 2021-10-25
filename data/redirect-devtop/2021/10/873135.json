@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-23T01:33:36Z",
   "image": "https://dev.to/social_previews/article/873135.png",
   "author": "aabdullin",
-  "author_url": "https://dev.to/fyapy"
+  "author_url": "https://dev.to/fyapy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Node.jsを使用している場合、データベース（MongoDB、PostgreSQLなど）とのやり取りがあると思います。",
+      "title": "TypescriptとNode.jsによるリポジトリパターン"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你使用Node.js工作，你可能会与数据库（MongoDB、PostgreSQL等）互动...",
+      "title": "使用Typescript和Node.js的存储库模式"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你使用Node.js工作，你可能會與數據庫（MongoDB、PostgreSQL等）互動...",
+      "title": "使用Typescript和Node.js的存儲庫模式"
+    }
+  ]
 }
