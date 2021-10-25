@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの記憶に残っているシンプソンズの名言を教えてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "你最喜欢的《辛普森一家》的名言是什么，你记得吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你最喜歡的《辛普森一家》的名言是什麼，你記得嗎？"
+    }
+  ]
 }
