@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "お待たせしました。"
+    },
+    {
+      "locale": "zh",
+      "title": "他们来了!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他們來了!"
+    }
+  ]
 }
