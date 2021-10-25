@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-23T06:24:54Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gHh5l0_P--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l6n2legvrkiy8i47tccz.jpg",
   "author": "Shantanu Jana",
-  "author_url": "https://dev.to/shantanu_jana"
+  "author_url": "https://dev.to/shantanu_jana",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、JavaScriptを使ってコイントスゲームを作成する方法をご紹介します。JavaScriptのコイントス...",
+      "title": "JavaScriptとCSSを使ったコイントスゲーム"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，你将学习如何使用JavaScript创建硬币翻转游戏。JavaScript翻转硬币游戏",
+      "title": "使用JavaScript和CSS的抛硬币游戏"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，你將學習如何使用JavaScript創建硬幣翻轉游戲。JavaScript翻轉硬幣遊戲",
+      "title": "使用JavaScript和CSS的拋硬幣遊戲"
+    }
+  ]
 }

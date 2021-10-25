@@ -35,5 +35,22 @@
   "original_created_at": "2021-10-23T04:35:50Z",
   "image": "https://dev.to/social_previews/article/873160.png",
   "author": "Chakrit Likitkhajorn",
-  "author_url": "https://dev.to/chrisza4"
+  "author_url": "https://dev.to/chrisza4",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事には、オクシモロンなタイトルがついています。 私は2つの話をしたいと思っています。1つは、\"Don't... \"を主張する話。",
+      "title": "Microservicesで始める。マイクロサービスで始めないで"
+    },
+    {
+      "locale": "zh",
+      "description": "这篇文章有一个矛盾的标题。 我想讲两个故事。一个是说明不要...",
+      "title": "从微服务开始。不要从微服务开始"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這篇文章有一個矛盾的標題。 我想講兩個故事。一個是說明不要...",
+      "title": "從微服務開始。不要從微服務開始"
+    }
+  ]
 }
