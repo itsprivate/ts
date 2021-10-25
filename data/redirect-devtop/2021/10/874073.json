@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-24T05:45:40Z",
   "image": "https://dev.to/social_previews/article/874073.png",
   "author": "Brett Martin",
-  "author_url": "https://dev.to/bamartindev"
+  "author_url": "https://dev.to/bamartindev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Originally published @ CatStache.io 高次関数(HOF)とは何か、疑問に思ったことはありませんか、、、。",
+      "title": "高次機能・機能構成"
+    },
+    {
+      "locale": "zh",
+      "description": "Originally published @ CatStache.io 你有没有想过什么是高阶函数（HOF），...",
+      "title": "高阶函数和功能构成"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Originally published @ CatStache.io 你有沒有想過什麼是高階函數（HOF），...",
+      "title": "高階函數和功能構成"
+    }
+  ]
 }
