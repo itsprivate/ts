@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Why YSK: In case you think you can post anything and simply remove it after,\nthere is actually a glitch that loads the text for about half a second before\ndisplaying the “deleted” message. Even if you back out and click again it will\nkeep displaying the text before loading the “deleted” message.…"
+  "the_new_excerpt": "Why YSK: In case you think you can post anything and simply remove it after,\nthere is actually a glitch that loads the text for about half a second before\ndisplaying the “deleted” message. Even if you back out and click again it will\nkeep displaying the text before loading the “deleted” message.…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "なぜYSKなのかというと、「何でも投稿して、投稿後に削除すればいい」と思っている人がいるかもしれないからです。\n実際には、テキストが表示される前に約半秒読み込まれるという不具合があります。\n削除されました」というメッセージが表示されます。バックアウトして再度クリックしても\n削除 \"メッセージを読み込む前にテキストを表示し続けます....",
+      "title": "YSKでは、フロントページに掲載された後に投稿を削除しても、人々はその投稿を読むことができます。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么是YSK：因为你认为你可以发布任何东西，并在之后简单地删除它。\n实际上有一个小故障，在显示 \"删除 \"信息之前，会加载大约半秒钟的文本。\n显示 \"删除 \"信息。即使你退缩并再次点击，它也会\n在加载 \"删除 \"信息之前继续显示文本....。",
+      "title": "YSK如果你在帖子上头版后删除了它，人们仍然可以阅读它。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼是YSK：因爲你認爲你可以發佈任何東西，並在之後簡單地刪除它。\n實際上有一個小故障，在顯示 \"刪除 \"信息之前，會加載大約半秒鐘的文本。\n顯示 \"刪除 \"信息。即使你退縮並再次點擊，它也會\n在加載 \"刪除 \"信息之前繼續顯示文本....。",
+      "title": "YSK如果你在帖子上頭版後刪除了它，人們仍然可以閱讀它。"
+    }
+  ]
 }
