@@ -50,5 +50,22 @@
   "original_created_at": "2021-10-25T00:50:35Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Se7ZIi1_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dayv1qu4phhng5uegi2k.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "テスラに関する見出しには、クリック数を稼ぐためにストーリーを誇張したものが多くありますが、これは断言できます。",
+      "title": "テスラ、危険なソフトウェア・アップデートを公開し、ロールバックを失敗させる"
+    },
+    {
+      "locale": "zh",
+      "description": "有很多关于特斯拉的头条新闻为了点击率而夸大其词，我可以向你保证这...",
+      "title": "特斯拉推出危险的软件更新，搞砸了回滚的尝试"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有很多關於特斯拉的頭條新聞爲了點擊率而誇大其詞，我可以向你保證這...",
+      "title": "特斯拉推出危險的軟件更新，搞砸了回滾的嘗試"
+    }
+  ]
 }
