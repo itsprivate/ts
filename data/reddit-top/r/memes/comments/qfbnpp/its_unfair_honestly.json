@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "正直言って、不公平です。"
+    },
+    {
+      "locale": "zh",
+      "title": "说实话，这是不公平的"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "說實話，這是不公平的"
+    }
+  ]
 }
