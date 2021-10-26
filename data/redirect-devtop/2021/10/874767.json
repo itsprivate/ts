@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-25T02:04:29Z",
   "image": "https://dev.to/social_previews/article/874767.png",
   "author": "Jason F ",
-  "author_url": "https://dev.to/juniordevforlife"
+  "author_url": "https://dev.to/juniordevforlife",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは。この度、初めてのNPMパッケージを公開することができました。超豪華なものではありませんが...。",
+      "title": "最初のNPMパッケージを作成しました。"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好! 我很高兴地宣布，我已经发布了我的第一个NPM包。它不是超级花哨的...",
+      "title": "我创建了我的第一个NPM包"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好! 我很高興地宣佈，我已經發布了我的第一個NPM包。它不是超級花哨的...",
+      "title": "我創建了我的第一個NPM包"
+    }
+  ]
 }
