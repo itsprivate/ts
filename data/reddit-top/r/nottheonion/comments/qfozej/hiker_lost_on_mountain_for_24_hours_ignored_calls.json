@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "山で24時間遭難したハイカーが、救助隊からの電話を無視したのは、電話番号が分からなかったから。"
+    },
+    {
+      "locale": "zh",
+      "title": "驴友在山上迷路24小时，不理会救援人员的电话，因为他不认识电话号码"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "驢友在山上迷路24小時，不理會救援人員的電話，因爲他不認識電話號碼"
+    }
+  ]
 }
