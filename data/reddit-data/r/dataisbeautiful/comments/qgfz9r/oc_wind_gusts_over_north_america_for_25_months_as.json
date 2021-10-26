@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] ECMWFモデルIFSの4km分解能でシミュレーションした2.5ヶ月間の北米の突風。"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC] ECMWF模型IFS以4公里分辨率模拟的北美2.5个月的阵风情况。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC] ECMWF模型IFS以4公里分辨率模擬的北美2.5個月的陣風情況。"
+    }
+  ]
 }
