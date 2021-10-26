@@ -48,5 +48,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-26T07:13:51Z"
+  "original_createdAt": "2021-10-26T07:13:51Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TopNotchは、メニューバーを黒くすることでノッチを隠す、無料のmacOSアプリです。あくまでも化粧品なので、画面の領域を奪うことはありません✨。",
+      "tagline": "新しいMacBook Proのノッチを忍者のように消し去る"
+    },
+    {
+      "locale": "zh",
+      "description": "TopNotch是一个免费的macOS应用程序，通过使你的菜单栏变成黑色来隐藏凹槽。这只是外观上的，并不占用任何屏幕空间✨",
+      "tagline": "让新的MacBook Pro凹槽像忍者一样消失"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "TopNotch是一個免費的macOS應用程序，通過使你的菜單欄變成黑色來隱藏凹槽。這只是外觀上的，並不佔用任何屏幕空間✨",
+      "tagline": "讓新的MacBook Pro凹槽像忍者一樣消失"
+    }
+  ]
 }
