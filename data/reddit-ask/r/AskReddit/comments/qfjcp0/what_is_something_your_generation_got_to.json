@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの世代が経験したことで、他の世代が経験できないことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你们这一代人所经历的事情是什么，是其他任何一代人都无法经历的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你們這一代人所經歷的事情是什麼，是其他任何一代人都無法經歷的？"
+    }
+  ]
 }
