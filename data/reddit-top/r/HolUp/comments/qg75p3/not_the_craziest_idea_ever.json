@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今までで一番クレイジーなアイデアではない...."
+    },
+    {
+      "locale": "zh",
+      "title": "不是最疯狂的想法...."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不是最瘋狂的想法...."
+    }
+  ]
 }
