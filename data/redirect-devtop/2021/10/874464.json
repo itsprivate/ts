@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-24T16:32:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hGZU60Hh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://img.bloggu.io/ipfs/bafkreigl2ul6mu37kaopvk7teqzxif4alfqnjbo6cuixmy5zv6nleklt2i",
   "author": "Mangabo Kolawole",
-  "author_url": "https://dev.to/koladev"
+  "author_url": "https://dev.to/koladev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このチュートリアルでは、Nodejs &amp; Expressの認証システムを構築する方法を学びます...",
+      "title": "Node & Express.jsにおけるJWTを使った認証と認可"
+    },
+    {
+      "locale": "zh",
+      "description": "在本教程中，我们将学习如何为Nodejs &amp构建一个认证系统；Express...",
+      "title": "在Node和Express.js中使用JWTs进行认证和授权"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在本教程中，我們將學習如何爲Nodejs &amp構建一個認證系統；Express...",
+      "title": "在Node和Express.js中使用JWTs進行認證和授權"
+    }
+  ]
 }

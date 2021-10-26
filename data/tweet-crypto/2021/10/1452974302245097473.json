@@ -150,5 +150,22 @@
     "retweet_count": 2372,
     "favorite_count": 13200,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @100trillionUSD: #ビットコイン強気相場、2nd legが始まった https://t.co/N9H2QF7SDe",
+      "retweeted_status_full_text": "#ビットコイン強気相場、2ndレグが始まった https://t.co/N9H2QF7SDe"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @100trillionUSD: #比特币的牛市，第二段已经开始https://t.co/N9H2QF7SDe",
+      "retweeted_status_full_text": "#比特币牛市，第2段已经开始 https://t.co/N9H2QF7SDe"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @100trillionUSD: #比特幣的牛市，第二段已經開始https://t.co/N9H2QF7SDe",
+      "retweeted_status_full_text": "#比特幣牛市，第2段已經開始 https://t.co/N9H2QF7SDe"
+    }
+  ]
 }
