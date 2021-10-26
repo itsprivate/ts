@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-25T23:36:52Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--h84ZM5Jx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h0c7muvr1teiw6xlqnx7.jpg",
   "author": "Jason Leow ~ golifelog.com",
-  "author_url": "https://dev.to/jasonleowsg"
+  "author_url": "https://dev.to/jasonleowsg",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "オンラインチュートリアルや記事ではあまり推奨されていない、コード初心者にはあまり知られていない開発ツール",
+      "title": "コード初心者のための秘密の開発ツール"
+    },
+    {
+      "locale": "zh",
+      "description": "网上教程或文章中不常推荐的、对代码新手来说不太了解的开发工具",
+      "title": "为每个代码新手提供的秘密开发工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "網上教程或文章中不常推薦的、對代碼新手來說不太瞭解的開發工具",
+      "title": "爲每個代碼新手提供的祕密開發工具"
+    }
+  ]
 }

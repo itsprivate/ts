@@ -13,5 +13,19 @@
   ],
   "objectID": "28996500",
   "original_created_at": "2021-10-26T04:47:12.000Z",
-  "image": "https://opengraph.githubassets.com/cb5faf212b4c42f03f88aa8b985efe2f7ddfb8cf396413eb856d2d254867afc7/stong/how-to-exploit-a-double-free"
+  "image": "https://opengraph.githubassets.com/cb5faf212b4c42f03f88aa8b985efe2f7ddfb8cf396413eb856d2d254867afc7/stong/how-to-exploit-a-double-free",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "x86には存在しないバグ。ARM専用のレースコンディションを利用する"
+    },
+    {
+      "locale": "zh",
+      "title": "一个在x86上不存在的错误。利用仅适用于ARM的竞赛条件"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個在x86上不存在的錯誤。利用僅適用於ARM的競賽條件"
+    }
+  ]
 }

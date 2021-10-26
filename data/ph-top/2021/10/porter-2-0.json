@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-26T07:05:00Z"
+  "original_createdAt": "2021-10-26T07:05:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Porterは、AWSやGCPなどのクラウドプロバイダーをHerokuのように使いやすくするためのプラットフォームです。Gitからの即時デプロイ、ビルトインオートスケーリング、自動SSLなど、Porterは柔軟性とコントロールを維持しながら、PaaSの利便性を提供します。",
+      "tagline": "自社のクラウド（AWS/GCP/DO）で動作するHeroku"
+    },
+    {
+      "locale": "zh",
+      "description": "Porter是一个平台，使AWS和GCP等云供应商像Heroku一样容易使用。通过Git的即时部署、内置自动缩放和自动SSL，Porter为你提供了PaaS的便利，同时保留了灵活性和控制力。",
+      "tagline": "在你自己的云中运行的Heroku（AWS/GCP/DO）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Porter是一個平臺，使AWS和GCP等雲供應商像Heroku一樣容易使用。通過Git的即時部署、內置自動縮放和自動SSL，Porter爲你提供了PaaS的便利，同時保留了靈活性和控制力。",
+      "tagline": "在你自己的雲中運行的Heroku（AWS/GCP/DO）。"
+    }
+  ]
 }
