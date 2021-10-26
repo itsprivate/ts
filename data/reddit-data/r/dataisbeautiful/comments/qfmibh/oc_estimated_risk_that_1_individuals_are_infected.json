@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] COVID risk estimation](https://covid19risk.biosci.gatech.edu/)のサイトで20年5月1日以降に50人のグループで1人以上が感染するリスクを4:1の確認バイアスと仮定して推定しました。データ，方法，出版物，gitはウェブサイトの \"About \"セクションにあります．"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]通过我们的[COVID风险估计](https://covid19risk.biosci.gatech.edu/)网站，自20年1月5日以来，假设4:1的确认偏差，估计在50人的群体中，有1+人被感染的风险。数据、方法、出版物和git可在网站的 \"关于 \"部分获得。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]通過我們的[COVID風險估計](https://covid19risk.biosci.gatech.edu/)網站，自20年1月5日以來，假設4:1的確認偏差，估計在50人的羣體中，有1+人被感染的風險。數據、方法、出版物和git可在網站的 \"關於 \"部分獲得。"
+    }
+  ]
 }
