@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今日一番の出来事は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "今天发生在你身上最好的事情是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "今天發生在你身上最好的事情是什麼？"
+    }
+  ]
 }

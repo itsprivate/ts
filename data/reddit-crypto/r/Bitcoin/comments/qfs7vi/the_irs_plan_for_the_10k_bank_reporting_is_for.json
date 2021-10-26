@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "IRSが計画している10kドルの銀行報告は、100MM以上の資産を持つ人を対象としています。"
+    },
+    {
+      "locale": "zh",
+      "title": "国税局计划的1万美元银行报告是针对拥有1亿美元及以上资产的人。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "國稅局計劃的1萬美元銀行報告是針對擁有1億美元及以上資產的人。"
+    }
+  ]
 }
