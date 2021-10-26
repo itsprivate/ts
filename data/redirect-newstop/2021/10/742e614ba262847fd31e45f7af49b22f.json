@@ -14,5 +14,19 @@
   "tags": [
     "Fox News"
   ],
-  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/10/Sudan-protests.jpg"
+  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/10/Sudan-protests.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "米国はスーダンの軍事クーデターを非難し、7億ドルの援助を一時停止する。"
+    },
+    {
+      "locale": "zh",
+      "title": "美国谴责苏丹军事政变，暂停7亿美元的援助"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "美國譴責蘇丹軍事政變，暫停7億美元的援助"
+    }
+  ]
 }
