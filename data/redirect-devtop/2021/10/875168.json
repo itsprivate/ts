@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-25T09:19:24Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nkvSemSR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i2z78itghgkvgzgmg19h.png",
   "author": "Salma Alam-Naylor",
-  "author_url": "https://dev.to/whitep4nth3r"
+  "author_url": "https://dev.to/whitep4nth3r",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "GraphQLの魅力の1つは、簡単な操作ですぐに利用できることです。",
+      "title": "TIL: GraphQLの変数を使ってクエリに型の安全性を持たせる方法"
+    },
+    {
+      "locale": "zh",
+      "description": "我喜欢GraphQL的一个原因是，它是多么直接，只需很少的时间就可以启动和运行。",
+      "title": "TIL: 如何使用GraphQL变量来给我的查询提供类型安全性"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我喜歡GraphQL的一個原因是，它是多麼直接，只需很少的時間就可以啓動和運行。",
+      "title": "TIL: 如何使用GraphQL變量來給我的查詢提供類型安全性"
+    }
+  ]
 }
