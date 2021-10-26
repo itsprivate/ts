@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-24T19:57:43Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1jRzKuuJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/selxgm5csex06py7sh0p.png",
   "author": "Caleb O.",
-  "author_url": "https://dev.to/seven"
+  "author_url": "https://dev.to/seven",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Webページは、誰かに見せる前に、すべてのコンテンツを用意しておきたいというニーズがあります。",
+      "title": "NextJSでプリローダーを作成する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "在网页显示给谁之前，总是需要把所有的内容准备好。",
+      "title": "如何在NextJS中创建一个预加载器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在網頁顯示給誰之前，總是需要把所有的內容準備好。",
+      "title": "如何在NextJS中創建一個預加載器"
+    }
+  ]
 }
