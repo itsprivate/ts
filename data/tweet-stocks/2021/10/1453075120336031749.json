@@ -134,5 +134,22 @@
     "retweet_count": 179,
     "favorite_count": 2305,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @ParikPatelCFA: 一つは信じられないほど高い。もう1つはイーロン・マスク。https://t.co/Mm8DTGtbVM",
+      "retweeted_status_full_text": "1つは信じられないほど高い。もう1つはイーロン・マスクです。https://t.co/Mm8DTGtbVM"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @ParikPatelCFA: 一个是难以置信的高。另一个是埃隆-马斯克。https://t.co/Mm8DTGtbVM",
+      "retweeted_status_full_text": "一个是令人难以置信的高。另一个是埃隆-马斯克。https://t.co/Mm8DTGtbVM"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @ParikPatelCFA: 一個是難以置信的高。另一個是埃隆-馬斯克。https://t.co/Mm8DTGtbVM",
+      "retweeted_status_full_text": "一個是令人難以置信的高。另一個是埃隆-馬斯克。https://t.co/Mm8DTGtbVM"
+    }
+  ]
 }
