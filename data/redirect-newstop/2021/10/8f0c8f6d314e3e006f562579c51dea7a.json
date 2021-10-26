@@ -14,5 +14,19 @@
   "tags": [
     "Fox News"
   ],
-  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2020/04/Queen-Elizabeth.jpg"
+  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2020/04/Queen-Elizabeth.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "エリザベス女王、医師の助言により国連気候変動会議を直接訪問しないことが決定"
+    },
+    {
+      "locale": "zh",
+      "title": "根据医生的建议，伊丽莎白女王将不会亲自访问联合国气候大会"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "根據醫生的建議，伊麗莎白女王將不會親自訪問聯合國氣候大會"
+    }
+  ]
 }
