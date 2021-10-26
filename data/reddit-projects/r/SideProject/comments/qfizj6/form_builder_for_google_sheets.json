@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Googleシート用フォームビルダー"
+    },
+    {
+      "locale": "zh",
+      "title": "用于谷歌表的表单生成器"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "用於谷歌表的表單生成器"
+    }
+  ]
 }
