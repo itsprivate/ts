@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "アメリカは世界で最も先進的な国の一つですが、どうして医療が悪いのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "美国是世界上最先进的国家之一，但医疗服务却很差，这是怎么回事？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "美國是世界上最先進的國家之一，但醫療服務卻很差，這是怎麼回事？"
+    }
+  ]
 }

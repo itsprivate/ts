@@ -107,5 +107,22 @@
     "retweet_count": 3999,
     "favorite_count": 21547,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @100trillionUSD: #ビットコインが史上最高値モード(色が赤になる)の時は、たいてい2〜3ヶ月はATHモード(赤)のままです htt...",
+      "retweeted_status_full_text": "#ビットコインが史上最高値モード(色が赤になる)の時は、たいてい数ヶ月間ATHモード(赤)のままです https://t.co/5QYkWjdgNv"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @100trillionUSD: 当#比特币处于历史最高点模式时（颜色变成红色），它通常会在ATH模式（红色）中停留几个月，然后...",
+      "retweeted_status_full_text": "当#比特币处于历史最高点模式时（颜色变成红色），它通常会在ATH模式（红色）中保持几个月https://t.co/5QYkWjdgNv。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @100trillionUSD: 當#比特幣處於歷史最高點模式時（顏色變成紅色），它通常會在ATH模式（紅色）中停留幾個月，然後...",
+      "retweeted_status_full_text": "當#比特幣處於歷史最高點模式時（顏色變成紅色），它通常會在ATH模式（紅色）中保持幾個月https://t.co/5QYkWjdgNv。"
+    }
+  ]
 }
