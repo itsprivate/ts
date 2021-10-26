@@ -134,5 +134,22 @@
     "retweet_count": 6325,
     "favorite_count": 51412,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @JamesUrbaniak: DUNEのこのシーンが好きだった https://t.co/rt81cUPAyn",
+      "retweeted_status_full_text": "DUNEのこのシーンが好きだった https://t.co/rt81cUPAyn"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @JamesUrbaniak: 喜欢DUNE的这个场景 https://t.co/rt81cUPAyn",
+      "retweeted_status_full_text": "很喜欢《DUNE》中的这一幕 https://t.co/rt81cUPAyn"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @JamesUrbaniak: 喜歡DUNE的這個場景 https://t.co/rt81cUPAyn",
+      "retweeted_status_full_text": "很喜歡《DUNE》中的這一幕 https://t.co/rt81cUPAyn"
+    }
+  ]
 }
