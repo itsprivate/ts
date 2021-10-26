@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼女は古いが金色だ"
+    },
+    {
+      "locale": "zh",
+      "title": "她很老，但很金贵"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "她很老，但很金貴"
+    }
+  ]
 }
