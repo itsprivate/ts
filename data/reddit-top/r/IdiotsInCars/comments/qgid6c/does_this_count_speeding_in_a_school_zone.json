@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これはカウントされますか？スクールゾーンでのスピード違反"
+    },
+    {
+      "locale": "zh",
+      "title": "这算不算。在学校区域内超速行驶"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這算不算。在學校區域內超速行駛"
+    }
+  ]
 }
