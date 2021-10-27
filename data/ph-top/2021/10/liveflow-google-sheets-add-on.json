@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-27T07:09:16Z"
+  "original_createdAt": "2021-10-27T07:09:16Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "LiveFlowは、QuickBooksとGoogle Sheetsを接続し、財務情報をリアルタイムで自動更新します。財務報告にかかる時間を月に10時間以上短縮し、ビジネスの推進により多くの時間を費やすことができます。",
+      "tagline": "財務報告にかかる時間を月に10時間以上短縮"
+    },
+    {
+      "locale": "zh",
+      "description": "LiveFlow将QuickBooks与您的Google Sheets连接起来，实时自动更新您的财务状况。每月节省10个小时的财务报告时间，将更多时间用于推动业务发展。",
+      "tagline": "每月节省+10小时的财务报告"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "LiveFlow將QuickBooks與您的Google Sheets連接起來，實時自動更新您的財務狀況。每月節省10個小時的財務報告時間，將更多時間用於推動業務發展。",
+      "tagline": "每月節省+10小時的財務報告"
+    }
+  ]
 }
