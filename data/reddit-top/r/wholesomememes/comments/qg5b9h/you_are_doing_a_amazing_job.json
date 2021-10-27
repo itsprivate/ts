@@ -106,5 +106,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたは素晴らしい仕事をしています。"
+    },
+    {
+      "locale": "zh",
+      "title": "你正在做一项了不起的工作"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你正在做一項了不起的工作"
+    }
+  ]
 }
