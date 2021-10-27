@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私はVLCの開発者であり、オープンソースの技術をベースにした合理的なWeb + BitTorrentプレーヤーであるMotionMonkey 1.3.0 🐵を作りました。ライブフィードとChromecastのサポートを追加したばかりです📺。PlayStoreからダウンロードできます。"
+    },
+    {
+      "locale": "zh",
+      "title": "我是VLC的开发者，做了MotionMonkey 1.3.0 🐵，一个基于开源技术的精简的网络+BitTorrent播放器。刚刚添加了直播和Chromecast支持📺。在PlayStore上有售。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我是VLC的開發者，做了MotionMonkey 1.3.0 🐵，一個基於開源技術的精簡的網絡+BitTorrent播放器。剛剛添加了直播和Chromecast支持📺。在PlayStore上有售。"
+    }
+  ]
 }
