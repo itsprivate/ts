@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-26T09:17:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--J_xrKZxM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mo88y1o36osvmqz56ihs.png",
   "author": "Patrick",
-  "author_url": "https://dev.to/patik123"
+  "author_url": "https://dev.to/patik123",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Arduinoのプログラミングをしたことはありますか？Arduinoがプログラムできることを知っていますか...",
+      "title": "JavascriptでArduinoをプログラミングしてみよう🤯。"
+    },
+    {
+      "locale": "zh",
+      "description": "你对Arduino进行过编程吗？你知道吗，Arduino可以通过编程来实现。",
+      "title": "让我们用Javascript🤯对Arduino进行编程。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你對Arduino進行過編程嗎？你知道嗎，Arduino可以通過編程來實現。",
+      "title": "讓我們用Javascript🤯對Arduino進行編程。"
+    }
+  ]
 }
