@@ -43,5 +43,22 @@
   "original_created_at": "2021-10-16T11:24:27Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qTl6v_sA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/azhvn8vuqrofsidykaas.jpg",
   "author": "Mustapha Aouas",
-  "author_url": "https://dev.to/mustapha"
+  "author_url": "https://dev.to/mustapha",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "クラスはECMAScript 6で導入されたもので、クラスを使って従来のようにコードを構成することができます。",
+      "title": "ES6クラスの深堀り"
+    },
+    {
+      "locale": "zh",
+      "description": "类是在ECMAScript 6中引入的，我们可以用它们来结构我们的代码，在传统的...",
+      "title": "深入了解ES6类"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "類是在ECMAScript 6中引入的，我們可以用它們來結構我們的代碼，在傳統的...",
+      "title": "深入瞭解ES6類"
+    }
+  ]
 }
