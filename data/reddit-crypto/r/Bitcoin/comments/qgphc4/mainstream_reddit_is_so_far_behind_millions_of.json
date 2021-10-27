@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "主流のredditはとても遅れています。毎日、何百万人もの人々がフロントページのサブレディットによって誤った情報を与えられています。"
+    },
+    {
+      "locale": "zh",
+      "title": "主流reddit是如此的落后。每天都有数以百万计的人被头版的subreddits所误导。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "主流reddit是如此的落後。每天都有數以百萬計的人被頭版的subreddits所誤導。"
+    }
+  ]
 }
