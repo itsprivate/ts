@@ -136,5 +136,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたのウェブサイトのためのキーボード・ショートカット・インターフェース"
+    },
+    {
+      "locale": "zh",
+      "title": "为你的网站提供键盘快捷键界面"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲你的網站提供鍵盤快捷鍵界面"
+    }
+  ]
 }
