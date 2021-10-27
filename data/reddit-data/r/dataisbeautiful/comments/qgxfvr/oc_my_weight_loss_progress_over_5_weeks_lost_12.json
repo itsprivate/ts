@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC】5週間での減量の進捗状況。12ポンド（5.5kg）の減量。(5.5kg)、体脂肪率は～5%。詳細はコメントにて。(Google Sheets グラフ)"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC] 我的减肥进展超过5周。减少了12磅。(5.5 kg)和~5%的体脂。详情请见评论。(Google Sheet graph)"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC] 我的減肥進展超過5周。減少了12磅。(5.5 kg)和~5%的體脂。詳情請見評論。(Google Sheet graph)"
+    }
+  ]
 }
