@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "世界のシッピング・レーンをマッピング。この地図は2015年から2021年までの航路を示したもので、AISデータから作成されたものです。[OC]."
+    },
+    {
+      "locale": "zh",
+      "title": "绘制世界航道图。这张地图显示了2015年至2021年的航道，是由AIS数据得出的。[OC]"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "繪製世界航道圖。這張地圖顯示了2015年至2021年的航道，是由AIS數據得出的。[OC]"
+    }
+  ]
 }
