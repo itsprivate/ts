@@ -50,5 +50,22 @@
   "original_created_at": "2021-10-26T08:43:43Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OJHAjxEn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rymx7c93bfezzgfuwihq.jpg",
   "author": "Alex Omeyer",
-  "author_url": "https://dev.to/alexomeyer"
+  "author_url": "https://dev.to/alexomeyer",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、私たちは、さまざまな業界の200人以上のソフトウェアエンジニアを対象に、コードベースがどのように機能しているかを調査しました。",
+      "title": "開発者が仕事を辞めるもう一つの理由：悪いコードベースから逃れるため"
+    },
+    {
+      "locale": "zh",
+      "description": "最近，我们对来自不同行业的200多名软件工程师进行了调查，以了解代码库的情况。",
+      "title": "开发人员离职的另一个原因：逃离一个糟糕的代码库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "最近，我們對來自不同行業的200多名軟件工程師進行了調查，以瞭解代碼庫的情況。",
+      "title": "開發人員離職的另一個原因：逃離一個糟糕的代碼庫"
+    }
+  ]
 }
