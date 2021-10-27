@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "1万室という驚異的な規模の世界最大のホテルが、現在、サウジアラビアで建設中です。"
+    },
+    {
+      "locale": "zh",
+      "title": "世界上最大的酒店，拥有惊人的10,000个房间，目前正在沙特阿拉伯建造。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "世界上最大的酒店，擁有驚人的10,000個房間，目前正在沙特阿拉伯建造。"
+    }
+  ]
 }
