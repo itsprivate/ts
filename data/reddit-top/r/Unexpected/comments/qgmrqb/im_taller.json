@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私は背が高い"
+    },
+    {
+      "locale": "zh",
+      "title": "我更高了"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我更高了"
+    }
+  ]
 }
