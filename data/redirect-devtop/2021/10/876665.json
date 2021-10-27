@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-26T11:11:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3XlgK7Xt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/19yus2bb4xdofh1vmnh3.png",
   "author": "Adam Nagy",
-  "author_url": "https://dev.to/javascriptacademy"
+  "author_url": "https://dev.to/javascriptacademy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このチュートリアルでは、HTML、CSS、vanilla...だけを使って、完全に動作する計算機を作成します。",
+      "title": "HTML、CSS、Javascriptを使った簡単な計算機の作成"
+    },
+    {
+      "locale": "zh",
+      "description": "在本教程中，我们将只用HTML、CSS和vanilla创建一个完整的工作计算器。",
+      "title": "使用HTML、CSS和Javascript创建一个简单的计算器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在本教程中，我們將只用HTML、CSS和vanilla創建一個完整的工作計算器。",
+      "title": "使用HTML、CSS和Javascript創建一個簡單的計算器"
+    }
+  ]
 }
