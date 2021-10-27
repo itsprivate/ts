@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-26T09:36:07Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Widegh7D--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h7w6fhu3xe1634n8o6zl.png",
   "author": "Keff",
-  "author_url": "https://dev.to/nombrekeff"
+  "author_url": "https://dev.to/nombrekeff",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは。👋 私の古いプロジェクトでちょっとしたバグ探しをしていたところ、興味深い...",
+      "title": "このphpコードの一部のバグを見つけることができますか？🤹"
+    },
+    {
+      "locale": "zh",
+      "description": "嗨，你好！👋 我在我的一个旧项目中做了一些错误的搜索，当我发现一个有趣的。",
+      "title": "你能找到这段php代码中的错误吗？🤹"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嗨，你好！👋 我在我的一箇舊項目中做了一些錯誤的搜索，當我發現一個有趣的。",
+      "title": "你能找到這段php代碼中的錯誤嗎？🤹"
+    }
+  ]
 }

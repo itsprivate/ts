@@ -134,5 +134,22 @@
     "retweet_count": 490,
     "favorite_count": 1981,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @wmiddelkoop: 今日の名言 https://t.co/PFJGTAv09B",
+      "retweeted_status_full_text": "今日の言葉 https://t.co/PFJGTAv09B"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @wmiddelkoop: 每日名言 https://t.co/PFJGTAv09B",
+      "retweeted_status_full_text": "每日名言 https://t.co/PFJGTAv09B"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @wmiddelkoop: 每日名言 https://t.co/PFJGTAv09B",
+      "retweeted_status_full_text": "每日名言 https://t.co/PFJGTAv09B"
+    }
+  ]
 }
