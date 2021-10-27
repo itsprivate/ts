@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-25T04:03:56Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tRvmGCZE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ivlv6a6m4mutojt00i8m.jpg",
   "author": "Vic Shóstak",
-  "author_url": "https://dev.to/koddr"
+  "author_url": "https://dev.to/koddr",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに Hello, breathtaking DEV people! 先週はずっと、私のGoのリファクタリングをしていました。",
+      "title": "⭐️ あなたのコードを再び素晴らしいものにするためのGolangの便利なツール"
+    },
+    {
+      "locale": "zh",
+      "description": "简介 你好，令人窒息的DEV人 上周，我一直在重构我的Go.com系统。",
+      "title": "⭐️ 有用的Golang工具，让你的代码重新变得伟大"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介 你好，令人窒息的DEV人 上週，我一直在重構我的Go.com系統。",
+      "title": "⭐️ 有用的Golang工具，讓你的代碼重新變得偉大"
+    }
+  ]
 }

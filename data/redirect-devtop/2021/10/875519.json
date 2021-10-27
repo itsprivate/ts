@@ -52,5 +52,22 @@
   "original_created_at": "2021-10-25T15:11:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Mei1-AT---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hbqy1ta5onqdrf3s1a8b.png",
   "author": "Jan Cizmar",
-  "author_url": "https://dev.to/jancizmar"
+  "author_url": "https://dev.to/jancizmar",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "アプリケーションを複数の言語に翻訳すること（ローカリゼーション）は、多くのアプリケーションで難しい部分です。トールジ...",
+      "title": "最もシンプルな方法でReact.jsアプリをローカライズする"
+    },
+    {
+      "locale": "zh",
+      "description": "将一个应用程序翻译成多国语言（本地化）是许多应用程序中棘手的部分。Tolgee...",
+      "title": "用你见过的最简单的方式来本地化你的React.js应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "將一個應用程序翻譯成多國語言（本地化）是許多應用程序中棘手的部分。Tolgee...",
+      "title": "用你見過的最簡單的方式來本地化你的React.js應用程序"
+    }
+  ]
 }
