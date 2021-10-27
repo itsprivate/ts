@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-19T17:34:36Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cDrHeRx5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3xz87na9quqes39cijow.gif",
   "author": "Ram Maheshwari 💚",
-  "author_url": "https://dev.to/rammcodes"
+  "author_url": "https://dev.to/rammcodes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "数日前、私はDopefolioというオープンソース・プロジェクトを立ち上げ、それについての記事をここに書きました。",
+      "title": "私が2時間足らずで完成させたポートフォリオサイトの作り方🤯。"
+    },
+    {
+      "locale": "zh",
+      "description": "几天前，我创建了一个名为Dopefolio的开源项目，并在这里写了一篇关于它的文章。",
+      "title": "我是如何在不到2小时内创建我的完整投资组合网站的 🤯"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "幾天前，我創建了一個名爲Dopefolio的開源項目，並在這裏寫了一篇關於它的文章。",
+      "title": "我是如何在不到2小時內創建我的完整投資組合網站的 🤯"
+    }
+  ]
 }
