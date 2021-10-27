@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-27T08:45:22Z"
+  "original_createdAt": "2021-10-27T08:45:22Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "スピログラフの作業を再び楽しくし、UIデザインで使えるようにするために、ZetaではSpirousを構築しました。このSpirousは、希望の形状、色、ストローク幅を持つ美しいベクトルを数学的に生成し、Figmaのアートボードに挿入することができます。",
+      "tagline": "スピログラフ・パターンを作成するためのFigmaプラグイン"
+    },
+    {
+      "locale": "zh",
+      "description": "为了让 Spirographs 的工作再次变得有趣，并能在 UI 设计中使用，我们在 Zeta 建立了 Spirous，它能以数学方式生成具有所需形状、颜色和笔触宽度的美丽矢量，并将它们插入 Figma 艺术板。",
+      "tagline": "创建spirograph图案的Figma插件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "爲了讓 Spirographs 的工作再次變得有趣，並能在 UI 設計中使用，我們在 Zeta 建立了 Spirous，它能以數學方式生成具有所需形狀、顏色和筆觸寬度的美麗矢量，並將它們插入 Figma 藝術板。",
+      "tagline": "創建spirograph圖案的Figma插件"
+    }
+  ]
 }

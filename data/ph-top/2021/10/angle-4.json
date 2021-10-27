@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-27T07:01:00Z"
+  "original_createdAt": "2021-10-27T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Angleでは、Figma、Sketch、XDで作成された5000以上のモックアップの膨大なライブラリを使って、アプリのプレゼンテーションを素早く作成することができます。すべてベクターなので、すべてのレイヤーを個別にカスタマイズでき、デバイスの色や向き、素材をガラス、クレイ、リアルに変更することもできます。",
+      "tagline": "Figma、Sketch、XD用のライブラリを使ったプレゼンテーションの作成"
+    },
+    {
+      "locale": "zh",
+      "description": "Angle可以让你使用我们在Figma、Sketch和XD中的5000多个模拟图库快速创建应用程序演示。它都是矢量的，所以你可以单独定制所有的层，改变设备的颜色、方向和材料为玻璃、粘土或真实。",
+      "tagline": "用Figma、Sketch和XD的库来创建演示文稿"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Angle可以讓你使用我們在Figma、Sketch和XD中的5000多個模擬圖庫快速創建應用程序演示。它都是矢量的，所以你可以單獨定製所有的層，改變設備的顏色、方向和材料爲玻璃、粘土或真實。",
+      "tagline": "用Figma、Sketch和XD的庫來創建演示文稿"
+    }
+  ]
 }
