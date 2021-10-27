@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "レディ、これは私の子供です。私は何も謝りません。"
+    },
+    {
+      "locale": "zh",
+      "title": "Reddit，这是我的孩子。我不为任何事情道歉。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Reddit，這是我的孩子。我不爲任何事情道歉。"
+    }
+  ]
 }
