@@ -43,5 +43,22 @@
   "original_created_at": "2021-10-27T05:13:56Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kW1K1TUd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/azgaj8dds6xev1x9w83a.png",
   "author": "Nishit Bansal",
-  "author_url": "https://dev.to/korosensei27"
+  "author_url": "https://dev.to/korosensei27",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "1) reactアプリケーション（任意の名前）を作成します：create-react-app tailwind-react 2)...",
+      "title": "TailwindCSSとReactJSを統合するには？(9つの簡単なステップで)"
+    },
+    {
+      "locale": "zh",
+      "description": "1) 创建一个react应用程序（名称自定）：create-react-app tailwind-react 2)...",
+      "title": "如何将TailwindCSS与ReactJS整合？(9个简单的步骤)"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "1) 創建一個react應用程序（名稱自定）：create-react-app tailwind-react 2)...",
+      "title": "如何將TailwindCSS與ReactJS整合？(9個簡單的步驟)"
+    }
+  ]
 }
