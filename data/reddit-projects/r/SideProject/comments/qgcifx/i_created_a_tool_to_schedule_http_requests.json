@@ -1,0 +1,15 @@
+{
+  "author": "bio_172",
+  "original_created_utc": 1635272058,
+  "title": "I created a tool to schedule HTTP requests",
+  "created_utc": 1635302311,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>In my last project, I was struggling to create and monitor cron jobs.</p>\n\n<p>So, instead of creating hundreds of standalone scrips and executing them with cron, I decided to turn those scripts into multiple endpoints. Next, I created a single service that I could schedule HTTP requests to those endpoints and monitor its execution. No more scripts, now everything is endpoints that I can run manually at any time  😊</p>\n\n<p>I turned this scheduler service into a Micro-SaaS so you don&#39;t have to build it yourself: <a href=\"http://beew.io/\">beew.io</a> 🎉</p>\n\n<p>btw, feedbacks are welcome. 😃</p>\n</div><!-- SC_ON -->",
+  "score": 5,
+  "permalink": "/r/SideProject/comments/qgcifx/i_created_a_tool_to_schedule_http_requests/",
+  "subreddit": "SideProject",
+  "id": "qgcifx",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "In my last project, I was struggling to create and monitor cron jobs.\n\nSo, instead of creating hundreds of standalone scrips and executing them with\ncron, I decided to turn those scripts into multiple endpoints. Next, I created a\nsingle service that I could schedule HTTP requests to those endpoints…"
+}
