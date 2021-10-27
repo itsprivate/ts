@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-27T07:01:00Z"
+  "original_createdAt": "2021-10-27T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Alpacaは、最新製品であるAlpaca Crypto APIのパブリックベータを開始することになりました。暗号取引は手数料無料で、スプレッドは15bpsとなっています。本日より、ユーザーは、株式取引に使用するのと同じアカウントで、暗号の購入、売却、保有を行うことができます。",
+      "tagline": "隠された手数料のないAPIベースの暗号化取引"
+    },
+    {
+      "locale": "zh",
+      "description": "Alpaca很高兴推出其最新产品Alpaca Crypto API的公开测试版。加密货币交易是没有佣金的，只有15bps的点差。从今天开始，用户可以购买、出售和持有加密货币，所有这些都来自用于交易股票的同一个账户。",
+      "tagline": "基于API的加密货币交易，没有隐藏费用"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Alpaca很高興推出其最新產品Alpaca Crypto API的公開測試版。加密貨幣交易是沒有佣金的，只有15bps的點差。從今天開始，用戶可以購買、出售和持有加密貨幣，所有這些都來自用於交易股票的同一個賬戶。",
+      "tagline": "基於API的加密貨幣交易，沒有隱藏費用"
+    }
+  ]
 }
