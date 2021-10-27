@@ -105,5 +105,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1635338539,
-  "the_new_excerpt": "I was curious what disposal method fidelity was using for my transactions so I\nasked the robot assistant if fidelity uses first in first out method for shares,\nwhich means the first shares of a stock you owned are the ones that it sells,\nwhich doesn't necessarily end up with you paying the lowest…"
+  "the_new_excerpt": "I was curious what disposal method fidelity was using for my transactions so I\nasked the robot assistant if fidelity uses first in first out method for shares,\nwhich means the first shares of a stock you owned are the ones that it sells,\nwhich doesn't necessarily end up with you paying the lowest…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私は、フィデリティが私の取引にどのような処理方法を使っているのか気になっていました。\nロボットアシスタントに「フィデリティは株式の先入先出法を使っていますか？\nつまり、あなたが所有していた株式の最初の株が売られることになります。\nつまり、あなたが所有していた株式を最初に売却することになりますが、それは必ずしもあなたが最低価格を支払うことにはなりません。",
+      "title": "PSA: FidelityはデフォルトでFIFOの税アルゴリズムを使用していますが、これを変更することができます。これを読めば、Fidelityを使っている人は、大きなお金を節約できるかもしれません。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我很好奇富达公司在我的交易中使用什么处理方法，所以我\n我问机器人助手，富达是否使用先入先出法处理股票。\n这意味着你所拥有的第一支股票就是它所出售的股票。\n这并不意味着你最终会支付最低的价格...",
+      "title": "PSA：Fidelity默认使用先进先出的税收算法，但是你可以切换它。如果你是富达公司的人，读了这个可以为你节省一些大钱。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我很好奇富達公司在我的交易中使用什麼處理方法，所以我\n我問機器人助手，富達是否使用先入先出法處理股票。\n這意味着你所擁有的第一支股票就是它所出售的股票。\n這並不意味着你最終會支付最低的價格...",
+      "title": "PSA：Fidelity默認使用先進先出的稅收算法，但是你可以切換它。如果你是富達公司的人，讀了這個可以爲你節省一些大錢。"
+    }
+  ]
 }
