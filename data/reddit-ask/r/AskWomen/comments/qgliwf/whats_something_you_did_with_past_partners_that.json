@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "And why?\n\nCan be NSFW or PG doesn’t matter."
+  "the_new_excerpt": "And why?\n\nCan be NSFW or PG doesn’t matter.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "その理由は？\n\nNSFWでもPGでも問題ありません。",
+      "title": "過去のパートナーと一緒にやっていて、今のパートナーが経験できないことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么呢？\n\n可以是NSFW或PG，并不重要。",
+      "title": "你和过去的伴侣做了什么事情，而你现在的伴侣却没有机会体验？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼呢？\n\n可以是NSFW或PG，並不重要。",
+      "title": "你和過去的伴侶做了什麼事情，而你現在的伴侶卻沒有機會體驗？"
+    }
+  ]
 }
