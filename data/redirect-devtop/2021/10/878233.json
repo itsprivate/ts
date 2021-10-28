@@ -52,5 +52,22 @@
   "original_created_at": "2021-10-27T11:46:21Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Yj4AT6HI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pvtynzk9tfzynsfrobek.png",
   "author": "Zoltán Szőgyényi",
-  "author_url": "https://dev.to/zolidev"
+  "author_url": "https://dev.to/zolidev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Tailwind CSSは私が最近よく使用しているフレームワークですが、その中でも特に...",
+      "title": "TailwindのCSSファイルアップロード入力コンポーネントの構築"
+    },
+    {
+      "locale": "zh",
+      "description": "Tailwind CSS是我最近经常使用的一个框架，其中有一个特别...",
+      "title": "建立一个Tailwind的CSS文件上传输入组件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Tailwind CSS是我最近經常使用的一個框架，其中有一個特別...",
+      "title": "建立一個Tailwind的CSS文件上傳輸入組件"
+    }
+  ]
 }
