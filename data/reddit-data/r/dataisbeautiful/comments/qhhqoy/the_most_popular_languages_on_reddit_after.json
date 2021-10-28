@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "1Mのコメントを分析した結果、Redditで最も人気のある言語は？英語、ドイツ語、スペイン語、ポルトガル語、フランス語、イタリア語、ルーマニア語、オランダ語・・・。[OC]..."
+    },
+    {
+      "locale": "zh",
+      "title": "在分析了100万条评论后，Reddit上最受欢迎的语言。英语、德语、西班牙语、葡萄牙语、法语、意大利语、罗马尼亚语、荷兰语... [OC]"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在分析了100萬條評論後，Reddit上最受歡迎的語言。英語、德語、西班牙語、葡萄牙語、法語、意大利語、羅馬尼亞語、荷蘭語... [OC]"
+    }
+  ]
 }
