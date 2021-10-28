@@ -50,5 +50,22 @@
   "original_created_at": "2021-10-26T06:33:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--P9MVwUA7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1vzpy7r2l2tktvfcqp0b.png",
   "author": "OpenReplay Tech Blog",
-  "author_url": "https://dev.to/asayerio_techblog"
+  "author_url": "https://dev.to/asayerio_techblog",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "by author Fernando Doglio このようなことが起こるのは初めてではありませんが、私はそうは思いません。",
+      "title": "またしてもNpmパッケージがハイジャックされてしまいましたが、これはあなたのせいです。"
+    },
+    {
+      "locale": "zh",
+      "description": "作者：Fernando Doglio 这不是第一次发生这样的事情，但我不会...",
+      "title": "又一个Npm包被劫持了，发生这样的事是你的错"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "作者：Fernando Doglio 這不是第一次發生這樣的事情，但我不會...",
+      "title": "又一個Npm包被劫持了，發生這樣的事是你的錯"
+    }
+  ]
 }
