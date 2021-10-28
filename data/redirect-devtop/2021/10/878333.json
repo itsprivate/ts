@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-27T14:03:03Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sYu0auID--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n6ngafi1k2z2i5pyahes.png",
   "author": "Bobby Iliev",
-  "author_url": "https://dev.to/bobbyiliev"
+  "author_url": "https://dev.to/bobbyiliev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "💡 Docker入門 これは、オープンソースのDocker入門ガイドで、...",
+      "title": "💡無料で読めるDocker入門の電子書籍"
+    },
+    {
+      "locale": "zh",
+      "description": "💡 Docker介绍 这是一份开源的Docker介绍指南，将为您提供一个开放的平台。",
+      "title": "💡 免费的Docker介绍电子书"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "💡 Docker介紹 這是一份開源的Docker介紹指南，將爲您提供一個開放的平臺。",
+      "title": "💡 免費的Docker介紹電子書"
+    }
+  ]
 }

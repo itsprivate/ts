@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "バイデン、ビットコインについて"
+    },
+    {
+      "locale": "zh",
+      "title": "拜登谈比特币"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "拜登談比特幣"
+    }
+  ]
 }
