@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "発売前の製品に、これらのスレッド生成機能を追加しました。"
+    },
+    {
+      "locale": "zh",
+      "title": "在我推出产品之前，刚刚在我的产品中加入了这些生成线程的功能"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在我推出產品之前，剛剛在我的產品中加入了這些生成線程的功能"
+    }
+  ]
 }
