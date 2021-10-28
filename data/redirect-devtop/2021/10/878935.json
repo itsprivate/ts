@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-27T21:39:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--94Nz6nGp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i0l05vbmlgrm5vm95woo.jpeg",
   "author": "Ruben Casas",
-  "author_url": "https://dev.to/infoxicator"
+  "author_url": "https://dev.to/infoxicator",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これは、私のプレゼンテーション「Micro-Frontends Performance and...」の後に寄せられた質問の一部です。",
+      "title": "マイクロフロントエンドに関するFAQ"
+    },
+    {
+      "locale": "zh",
+      "description": "这些是我在演讲 \"微前端的性能和应用 \"后收到的一些问题。",
+      "title": "微型前台的常见问题"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這些是我在演講 \"微前端的性能和應用 \"後收到的一些問題。",
+      "title": "微型前臺的常見問題"
+    }
+  ]
 }
