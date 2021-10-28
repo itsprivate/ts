@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "APIの収益化を支援するSaaSを構築しています。"
+    },
+    {
+      "locale": "zh",
+      "title": "我正在建立SaaS，以帮助你的API货币化。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我正在建立SaaS，以幫助你的API貨幣化。"
+    }
+  ]
 }
