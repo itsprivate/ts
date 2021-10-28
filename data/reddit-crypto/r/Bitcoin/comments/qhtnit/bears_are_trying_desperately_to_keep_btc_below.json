@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Let’s bleed them out"
+  "the_new_excerpt": "Let’s bleed them out",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "血を流そう",
+      "title": "ベアは金曜日のオプション期限に向けて、ビットコインを60k以下に抑えようと必死になっている。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "让我们给他们放血",
+      "title": "熊市正在拼命为周五的期权到期而将btc保持在60k以下"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "讓我們給他們放血",
+      "title": "熊市正在拼命爲週五的期權到期而將btc保持在60k以下"
+    }
+  ]
 }

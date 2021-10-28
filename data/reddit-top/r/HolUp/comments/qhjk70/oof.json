@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "OOF"
+    },
+    {
+      "locale": "zh",
+      "title": "OOF"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "OOF"
+    }
+  ]
 }
