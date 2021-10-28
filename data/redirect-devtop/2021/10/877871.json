@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-27T05:38:44Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--H2WwnYG3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iwmzofc4wtaax687bicl.png",
   "author": "Hai Le Phu",
-  "author_url": "https://dev.to/lephuhai"
+  "author_url": "https://dev.to/lephuhai",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "WindowsからLinuxにOSを移行したとき、スムーズに使いこなすためのアイデアが浮かばない。4年後には...",
+      "title": "1300以上のLinuxコマンドマニュアル"
+    },
+    {
+      "locale": "zh",
+      "description": "当我从Windows操作系统跳到Linux时，我没有想法顺利地使用它。经过4个月的努力，我终于成功了。",
+      "title": "1300多个Linux命令手册"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當我從Windows操作系統跳到Linux時，我沒有想法順利地使用它。經過4個月的努力，我終於成功了。",
+      "title": "1300多個Linux命令手冊"
+    }
+  ]
 }
