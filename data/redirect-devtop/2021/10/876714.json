@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-26T12:21:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xAHgKmIA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/74raatx5z3q2r17ckosu.png",
   "author": "Sarmun Bustillo",
-  "author_url": "https://dev.to/sarmunbustillo"
+  "author_url": "https://dev.to/sarmunbustillo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CSS変数は、CSSとJavaScriptの間で情報を共有するための非常に優れた方法です。その利点は...",
+      "title": "CSS変数で再利用可能なパララックス効果"
+    },
+    {
+      "locale": "zh",
+      "description": "CSS变量为我们提供了一种在CSS和JavaScript之间分享信息的非常巧妙的方法。这个方法的好处是，它可以让我们更容易地找到自己的位置。",
+      "title": "使用CSS变量的可重复使用的视差效果"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "CSS變量爲我們提供了一種在CSS和JavaScript之間分享信息的非常巧妙的方法。這個方法的好處是，它可以讓我們更容易地找到自己的位置。",
+      "title": "使用CSS變量的可重複使用的視差效果"
+    }
+  ]
 }
