@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-25T18:44:09Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yRY2WEdr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rkq7m254287fybp5ku2o.jpg",
   "author": "Ben Lovy",
-  "author_url": "https://dev.to/deciduously"
+  "author_url": "https://dev.to/deciduously",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "その理由 多くの開発者がLinuxを使用していますが、「Linux」は広大なカテゴリーです。 その中には、多くの...",
+      "title": "1つのDockerコマンドで異なるLinuxディストリビューションを使用しているように見せる"
+    },
+    {
+      "locale": "zh",
+      "description": "原因 很多开发者都使用Linux，但 \"Linux \"是一个庞大的类别。 有大量的...",
+      "title": "用一个Docker命令假装你在使用一个不同的Linux发行版"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "原因 很多開發者都使用Linux，但 \"Linux \"是一個龐大的類別。 有大量的...",
+      "title": "用一個Docker命令假裝你在使用一個不同的Linux發行版"
+    }
+  ]
 }
