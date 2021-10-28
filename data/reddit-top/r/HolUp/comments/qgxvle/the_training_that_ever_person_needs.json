@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "一人一人に必要なトレーニング"
+    },
+    {
+      "locale": "zh",
+      "title": "每个人都需要的培训"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "每個人都需要的培訓"
+    }
+  ]
 }
