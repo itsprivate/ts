@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-26T07:54:02Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wvK2SMT1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c1u5ghalkd5yuhyiofvd.jpeg",
   "author": "Rahul Banerjee",
-  "author_url": "https://dev.to/rahulbanerjee99"
+  "author_url": "https://dev.to/rahulbanerjee99",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "APIやReactプロジェクトに公開されたURLでアクセスしたい場合があると思います。",
+      "title": "ローカルホストのURLをパブリックなURLとして公開する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "有的时候，你可能希望使用一个公共的URL来访问你的API或React项目，但不...",
+      "title": "如何将你的本地主机URL暴露为公共URL"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有的時候，你可能希望使用一個公共的URL來訪問你的API或React項目，但不...",
+      "title": "如何將你的本地主機URL暴露爲公共URL"
+    }
+  ]
 }
