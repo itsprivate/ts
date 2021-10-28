@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-26T17:48:12Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--R_6Jni1z--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i7bv2ubyx9efnxs5xbrb.jpeg",
   "author": "Eliot Sanford",
-  "author_url": "https://dev.to/techieeliot"
+  "author_url": "https://dev.to/techieeliot",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "開発者として、GitHubへのコントリビューションが少ないからといって、必ずしも優秀でないとは限りません。",
+      "title": "あなたのGitHubは空っぽですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "作为一个开发者，你没有在GitHub上做出贡献，并不一定说明你不擅长...",
+      "title": "你的GitHub是空的吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "作爲一個開發者，你沒有在GitHub上做出貢獻，並不一定說明你不擅長...",
+      "title": "你的GitHub是空的嗎？"
+    }
+  ]
 }
