@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-26T14:39:47Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IhD8AWVi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rp5uphnrozx4lffsl5wb.png",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "バックエンドフレームワークにReactとNode JSを使用したCreative-TimのモダンなデザインであるPurity Dashboardをベースに作られたオープンソースのフルスタック製品です。",
+      "title": "React NodeJSの純粋性 - オープンソースのフルスタック・シードプロジェクト"
+    },
+    {
+      "locale": "zh",
+      "description": "在Purity Dashboard基础上精心打造的开源全栈产品，是Creative-Tim使用React和Node JS作为后台框架的现代设计。",
+      "title": "React NodeJS纯度 - 开源全栈种子项目"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在Purity Dashboard基礎上精心打造的開源全棧產品，是Creative-Tim使用React和Node JS作爲後臺框架的現代設計。",
+      "title": "React NodeJS純度 - 開源全棧種子項目"
+    }
+  ]
 }
