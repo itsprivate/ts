@@ -83,5 +83,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-27T12:01:50Z"
+  "original_createdAt": "2021-10-27T12:01:50Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Oura Ring Gen3は、睡眠だけでなく、様々なことをトラッキングします。3倍のセンサーを搭載したGen3は、日中の心拍数を明らかにし、24時間365日、パーソナライズされたインサイトを提供します。",
+      "tagline": "より良い睡眠でより良い生活を"
+    },
+    {
+      "locale": "zh",
+      "description": "Oura Ring Gen3追踪的不仅仅是睡眠。通过三倍的传感器，Gen3可以解锁你白天的心率，并为你提供个性化的见解，24/7。",
+      "tagline": "通过改善睡眠使生活更美好。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Oura Ring Gen3追蹤的不僅僅是睡眠。通過三倍的傳感器，Gen3可以解鎖你白天的心率，併爲你提供個性化的見解，24/7。",
+      "tagline": "通過改善睡眠使生活更美好。"
+    }
+  ]
 }
