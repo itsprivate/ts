@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-28T07:01:00Z"
+  "original_createdAt": "2021-10-28T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CloudGraphは、無料かつオープンソースのGraphQLを用いたAWSインフラストラクチャ用の検索エンジンです。CloudGraphは、セキュリティ、コンプライアンス、ガバナンス、アセット・インベントリ、コストなどの問題を解決するために、クラウドエンジニアがGraphQLクエリを簡単に書くことを可能にします。",
+      "tagline": "GraphQL API for AWS"
+    },
+    {
+      "locale": "zh",
+      "description": "CloudGraph是一个免费的、开源的、以GraphQL为动力的搜索引擎，用于你的AWS基础设施。CloudGraph使云计算工程师能够轻松地编写GraphQL查询，以解决安全、合规、治理、资产库存和成本问题。",
+      "tagline": "用于AWS的GraphQL API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "CloudGraph是一個免費的、開源的、以GraphQL爲動力的搜索引擎，用於你的AWS基礎設施。CloudGraph使雲計算工程師能夠輕鬆地編寫GraphQL查詢，以解決安全、合規、治理、資產庫存和成本問題。",
+      "tagline": "用於AWS的GraphQL API"
+    }
+  ]
 }
