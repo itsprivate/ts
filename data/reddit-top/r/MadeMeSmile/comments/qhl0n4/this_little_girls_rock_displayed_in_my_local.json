@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私の地元の博物館に展示されているこの少女の石"
+    },
+    {
+      "locale": "zh",
+      "title": "这个小女孩的石头在我当地的博物馆展出"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個小女孩的石頭在我當地的博物館展出"
+    }
+  ]
 }
