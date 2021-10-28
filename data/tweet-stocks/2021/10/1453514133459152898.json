@@ -52,5 +52,22 @@
     },
     "retweet_count": 359,
     "favorite_count": 1550
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @zerohedge: 台湾総統、米軍の駐留を認める。CNN",
+      "retweeted_status_full_text": "台湾総統、米軍の駐留を認める。CNN"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @zerohedge: 台湾总统证实了美国军队的存在。有线电视新闻网",
+      "retweeted_status_full_text": "台湾总统确认美国军队的存在。有线电视新闻网"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @zerohedge: 臺灣總統證實了美國軍隊的存在。有線電視新聞網",
+      "retweeted_status_full_text": "臺灣總統確認美國軍隊的存在。有線電視新聞網"
+    }
+  ]
 }
