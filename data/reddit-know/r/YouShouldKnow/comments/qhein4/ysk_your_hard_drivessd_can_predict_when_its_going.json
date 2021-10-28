@@ -1,0 +1,15 @@
+{
+  "author": "IAbstainFromSociety",
+  "original_created_utc": 1635393920,
+  "title": "YSK: Your hard drive/SSD can predict when it's going to fail, and it's easy to check this data",
+  "created_utc": 1635419201,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Why YSK: It’s simple and helps you avoid hard drive failure.</p>\n\n<p>Storage devices predict when they will fail with a technology called SMART. For hard drives, it predicts 75% of all failures.</p>\n\n<p>Back in the Windows 7 era, computers would tell you when SMART predicted a failure. The computer would say a SMART failure is predicted when booting up, Windows 7 would give you errors every few minutes saying your hard drive is going to fail, and you couldn’t even install Windows 7 onto a failing drive unless you turned off the SMART check.</p>\n\n<p>But, for some reason, windows 10 has none of that. My hard drive was predicting a failure for 6 months before I caught it, because I was testing a diagnostic utility.</p>\n\n<p>So, if you want to check, Download CrystalDiskInfo. It will say OK, Caution, or Bad. If it’s Caution, it means there are errors, (bad sectors), but the hard drive or SSD has reallocated them. This is still an indication of a bad drive. If it’s Bad, it means it’s , well, bad. Discontinue use of this drive. SSDs will have percentages instead. These are usually accurate, and measure the amount of life left.</p>\n\n<p>I was running on a HDD with hundreds of bad sectors before I caught it. Before I pulled it, it had almost 1000. That drive was likely to crash at any moment. Luckily, I was able to catch it and copy off all the data.</p>\n\n<p><a href=\"https://en.m.wikipedia.org/wiki/S.M.A.R.T\">https://en.m.wikipedia.org/wiki/S.M.A.R.T</a>.</p>\n</div><!-- SC_ON -->",
+  "score": 51,
+  "permalink": "/r/YouShouldKnow/comments/qhein4/ysk_your_hard_drivessd_can_predict_when_its_going/",
+  "subreddit": "YouShouldKnow",
+  "id": "qhein4",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Why YSK: It’s simple and helps you avoid hard drive failure.\n\nStorage devices predict when they will fail with a technology called SMART. For\nhard drives, it predicts 75% of all failures.\n\nBack in the Windows 7 era, computers would tell you when SMART predicted a\nfailure. The computer would say a…"
+}
