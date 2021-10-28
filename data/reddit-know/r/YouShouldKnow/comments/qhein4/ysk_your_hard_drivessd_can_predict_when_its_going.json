@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Why YSK: It’s simple and helps you avoid hard drive failure.\n\nStorage devices predict when they will fail with a technology called SMART. For\nhard drives, it predicts 75% of all failures.\n\nBack in the Windows 7 era, computers would tell you when SMART predicted a\nfailure. The computer would say a…"
+  "the_new_excerpt": "Why YSK: It’s simple and helps you avoid hard drive failure.\n\nStorage devices predict when they will fail with a technology called SMART. For\nhard drives, it predicts 75% of all failures.\n\nBack in the Windows 7 era, computers would tell you when SMART predicted a\nfailure. The computer would say a…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "なぜYSKなのか：簡単で、ハードディスクの故障を防ぐことができます。\n\nストレージデバイスは、SMARTと呼ばれる技術により、故障する時期を予測します。ハードドライブの場合\nハードドライブの場合、全故障の75%を予測します。\n\nWindows 7の時代には、SMARTが故障を予測するとコンピュータが教えてくれました。\n知らせてくれました。コンピュータは、「...",
+      "title": "YSK: ハードディスクやSSDは、いつ故障するかを予測することができ、そのデータを簡単に確認することができます。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么是YSK：它很简单，可以帮助你避免硬盘故障。\n\n存储设备通过一种称为SMART的技术预测它们何时会出现故障。对于\n硬盘，它可以预测75%的故障。\n\n在Windows 7时代，当SMART预测到故障时，电脑会告诉你。\n失败。电脑会说：\"你的硬盘坏了。",
+      "title": "YSK：你的硬盘/SSD可以预测它何时会失效，而且很容易检查这个数据"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼是YSK：它很簡單，可以幫助你避免硬盤故障。\n\n存儲設備通過一種稱爲SMART的技術預測它們何時會出現故障。對於\n硬盤，它可以預測75%的故障。\n\n在Windows 7時代，當SMART預測到故障時，電腦會告訴你。\n失敗。電腦會說：\"你的硬盤壞了。",
+      "title": "YSK：你的硬盤/SSD可以預測它何時會失效，而且很容易檢查這個數據"
+    }
+  ]
 }
