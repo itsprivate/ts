@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今度はそれを返してください。"
+    },
+    {
+      "locale": "zh",
+      "title": "现在还钱吧。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "現在還錢吧。"
+    }
+  ]
 }

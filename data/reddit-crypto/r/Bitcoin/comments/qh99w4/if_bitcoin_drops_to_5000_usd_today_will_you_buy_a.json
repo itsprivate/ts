@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今日、ビットコインが5000ドルまで下がったら、再び上昇することを期待して大量に購入しますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果今天比特币跌到了5000美元，你会买一吨的比特币，相信它会再次上涨吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果今天比特幣跌到了5000美元，你會買一噸的比特幣，相信它會再次上漲嗎？"
+    }
+  ]
 }
