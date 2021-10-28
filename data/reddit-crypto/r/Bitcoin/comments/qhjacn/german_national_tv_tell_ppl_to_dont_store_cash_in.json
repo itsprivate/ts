@@ -42,5 +42,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "https://www.youtube.com/watch?v=TwbNBR9-nm0\n\nwatch with english subs"
+  "the_new_excerpt": "https://www.youtube.com/watch?v=TwbNBR9-nm0\n\nwatch with english subs",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "https://www.youtube.com/watch?v=TwbNBR9-nm0\n\n英語字幕で見る",
+      "title": "ドイツの国営放送が、人々に現金をシステムに保管しないように、そして暗号化するように伝えました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "https://www.youtube.com/watch?v=TwbNBR9-nm0\n\n观看英文字幕",
+      "title": "德国国家电视台告诉人们不要在系统中储存现金，而要使用加密货币。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "https://www.youtube.com/watch?v=TwbNBR9-nm0\n\n觀看英文字幕",
+      "title": "德國國家電視臺告訴人們不要在系統中儲存現金，而要使用加密貨幣。"
+    }
+  ]
 }
