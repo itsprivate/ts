@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"それならば、そのビジネスは存在してはならない！\""
+    },
+    {
+      "locale": "zh",
+      "title": "\"那么这个企业就不应该存在！\""
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"那麼這個企業就不應該存在！\""
+    }
+  ]
 }
