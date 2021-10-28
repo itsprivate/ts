@@ -30,5 +30,19 @@
   "retweet_count": 40,
   "favorite_count": 71,
   "possibly_sensitive": false,
-  "original_created_at": "Wed Oct 27 21:20:59 +0000 2021"
+  "original_created_at": "Wed Oct 27 21:20:59 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "CDCのデータによると、ファイザー社やモデナ社のcovid-19のジャブを接種した人は、他の原因で死亡する確率が3分の1になるとのことです https://t.co/RAYmf3oZr1"
+    },
+    {
+      "locale": "zh",
+      "full_text": "疾病预防控制中心的数据显示，接受辉瑞公司或Moderna公司covid-19疫苗注射的人死于其他原因的可能性只有三分之一https://t.co/RAYmf3oZr1。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "疾病預防控制中心的數據顯示，接受輝瑞公司或Moderna公司covid-19疫苗注射的人死於其他原因的可能性只有三分之一https://t.co/RAYmf3oZr1。"
+    }
+  ]
 }
