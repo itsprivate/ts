@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-27T07:19:41Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xIEzbjs7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fptygpesdgu231avv7bs.jpg",
   "author": "Christian Bonzelet",
-  "author_url": "https://dev.to/cremich"
+  "author_url": "https://dev.to/cremich",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "AWSのエコシステムであるサーバーレスサービスの中でも、AWS Step Functionsは個人的に最も注目しているサービスの一つです。",
+      "title": "AWS Step関数とAWS Lambdaのベンチマークの比較"
+    },
+    {
+      "locale": "zh",
+      "description": "纵观AWS无服务器服务的生态系统，AWS Step Functions是我个人最喜欢的服务之一。",
+      "title": "AWS Step函数与AWS Lambda基准比较"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "縱觀AWS無服務器服務的生態系統，AWS Step Functions是我個人最喜歡的服務之一。",
+      "title": "AWS Step函數與AWS Lambda基準比較"
+    }
+  ]
 }
