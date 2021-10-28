@@ -103,5 +103,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1635416832,
-  "the_new_excerpt": "Shares Outstanding includes the float I thought? I tried googling it, but\ncouldn't find concise information besides \"Info must be wrong\".\n\n * SHARES OUTSTANDING104.2M\n * PUBLIC FLOAT249.56M\n\nhttps://www.marketwatch.com/investing/stock/cei?mod=mw_quote_recentlyviewed\n\nPosition: 300 shares CEI"
+  "the_new_excerpt": "Shares Outstanding includes the float I thought? I tried googling it, but\ncouldn't find concise information besides \"Info must be wrong\".\n\n * SHARES OUTSTANDING104.2M\n * PUBLIC FLOAT249.56M\n\nhttps://www.marketwatch.com/investing/stock/cei?mod=mw_quote_recentlyviewed\n\nPosition: 300 shares CEI",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "発行済株式数には浮動株も含まれるのでは？ググってみたのですが\n情報が間違っているのではないか」ということ以外に簡潔な情報が見つかりませんでした。\n\n * 発行済株式数104.2百万株\n * 株式数104.2百万株、浮動株数249.56百万株\n\nhttps://www.marketwatch.com/investing/stock/cei?mod=mw_quote_recentlyviewed\n\nポジション 300株 CEI",
+      "title": "発行済株式数よりも浮動株数が多いのはなぜですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我想，流通股包括浮动股？我试着在谷歌上搜索，但\n除了 \"信息一定是错的 \"之外，找不到简洁的信息。\n\n *已发行股份1.042亿股\n *公开流通股249.56百万\n\nhttps://www.marketwatch.com/investing/stock/cei?mod=mw_quote_recentlyviewed\n\n仓位。300股CEI",
+      "title": "一只股票的浮动量怎么会大于流通股呢？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我想，流通股包括浮動股？我試着在谷歌上搜索，但\n除了 \"信息一定是錯的 \"之外，找不到簡潔的信息。\n\n *已發行股份1.042億股\n *公開流通股249.56百萬\n\nhttps://www.marketwatch.com/investing/stock/cei?mod=mw_quote_recentlyviewed\n\n倉位。300股CEI",
+      "title": "一隻股票的浮動量怎麼會大於流通股呢？"
+    }
+  ]
 }

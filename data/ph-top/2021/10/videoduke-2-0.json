@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-28T08:41:31Z"
+  "original_createdAt": "2021-10-28T08:41:31Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ほとんどのストリーミングサービスからビデオを読み込み、オーディオを抽出し、さらにInstagramから画像を保存することができるメディアダウンローダです。プレイリストにも対応しています。ページ内のダウンロード可能なリソースを閲覧・一覧表示できるAdvanced Modeに切り替えることができます。",
+      "tagline": "YouTube、Facebook、Instagram、TikTokから動画をダウンロードできます。"
+    },
+    {
+      "locale": "zh",
+      "description": "一个媒体下载器，可以从几乎所有的流媒体服务中加载视频，提取音频，甚至从Instagram中保存图片。与播放列表兼容。可以切换到高级模式，它可以浏览并列出给定页面上的任何可下载资源。",
+      "tagline": "从YouTube、Facebook、Instagram和TikTok下载视频"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個媒體下載器，可以從幾乎所有的流媒體服務中加載視頻，提取音頻，甚至從Instagram中保存圖片。與播放列表兼容。可以切換到高級模式，它可以瀏覽並列出給定頁面上的任何可下載資源。",
+      "tagline": "從YouTube、Facebook、Instagram和TikTok下載視頻"
+    }
+  ]
 }
