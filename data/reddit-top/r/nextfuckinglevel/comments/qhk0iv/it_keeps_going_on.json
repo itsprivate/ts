@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "続いています。"
+    },
+    {
+      "locale": "zh",
+      "title": "它一直在继续"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "它一直在繼續"
+    }
+  ]
 }
