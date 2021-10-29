@@ -52,5 +52,22 @@
   "original_created_at": "2021-10-21T18:09:48Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qIPLMzP0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/250b2xcvhmo7sr32pju7.png",
   "author": "Sahil",
-  "author_url": "https://dev.to/sahilkoun"
+  "author_url": "https://dev.to/sahilkoun",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "話題の「ReactJSのContext」とは？ということで、Reactのドキュメントによると「...",
+      "title": "ReactにおけるContext"
+    },
+    {
+      "locale": "zh",
+      "description": "大家都在谈论的ReactJS中的Context是什么？因此，根据React文档，\"...",
+      "title": "React中的语境"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家都在談論的ReactJS中的Context是什麼？因此，根據React文檔，\"...",
+      "title": "React中的語境"
+    }
+  ]
 }
