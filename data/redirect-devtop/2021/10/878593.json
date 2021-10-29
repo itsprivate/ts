@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-27T15:17:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cfcRrKFv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sn9nxv62f9ojjizmqg15.png",
   "author": "Chandrika Deb",
-  "author_url": "https://dev.to/chandrikadeb7"
+  "author_url": "https://dev.to/chandrikadeb7",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "多くの開発者にとって、コードの文書化は面倒な作業のように思われています。しかし、適切なセットを使用すれば、コード・ドキュメンテーションを作成することができます。",
+      "title": "DoczでMDXを使うのは、こんなに簡単だったっけ？"
+    },
+    {
+      "locale": "zh",
+      "description": "对于大多数开发人员来说，代码文档似乎是一个繁琐的过程。然而，有了正确的设置...",
+      "title": "在Docz中使用MDX从未如此简单过"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "對於大多數開發人員來說，代碼文檔似乎是一個繁瑣的過程。然而，有了正確的設置...",
+      "title": "在Docz中使用MDX從未如此簡單過"
+    }
+  ]
 }
