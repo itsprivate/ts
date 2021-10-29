@@ -159,5 +159,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1635447136,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これは、\"Schadenfraud \"と呼ばれる心理的な現象です。"
+    },
+    {
+      "locale": "zh",
+      "title": "这是一种被称为 \"Schadenfraud \"的心理现象"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是一種被稱爲 \"Schadenfraud \"的心理現象"
+    }
+  ]
 }
