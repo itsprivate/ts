@@ -74,5 +74,19 @@
     "retweet_count": 1,
     "favorite_count": 8,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "あなたがもうすぐ通過するのはどんなドアですか？この部屋を出るときに、何を思い出したいですか？https://t.co/f1ZPzwZYkH"
+    },
+    {
+      "locale": "zh",
+      "full_text": "你即将经过哪些门？当你离开这个房间时，你想记住什么？https://t.co/f1ZPzwZYkH"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "你即將經過哪些門？當你離開這個房間時，你想記住什麼？https://t.co/f1ZPzwZYkH"
+    }
+  ]
 }
