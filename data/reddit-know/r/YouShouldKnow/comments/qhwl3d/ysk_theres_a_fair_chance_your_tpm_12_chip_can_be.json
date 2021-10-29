@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Why YSK: Because many people get \"Unsupported PC\" warning when trying to install\nWindows 11 for having TPM 1.2 instead of 2.0. Some OEM's however, provides tools\nfor a TPM 2.0 upgrade.\n\nFirst, for those who don't know what's the entire thing:\nhttps://support.microsoft.com/en-us/windows/enable-tpm-2…"
+  "the_new_excerpt": "Why YSK: Because many people get \"Unsupported PC\" warning when trying to install\nWindows 11 for having TPM 1.2 instead of 2.0. Some OEM's however, provides tools\nfor a TPM 2.0 upgrade.\n\nFirst, for those who don't know what's the entire thing:\nhttps://support.microsoft.com/en-us/windows/enable-tpm-2…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "なぜYSKかというと、多くの人がWindows 11をインストールしようとすると\nWindows 11をインストールしようとすると、TPMが2.0ではなく1.2であるために「サポートされていないPC」という警告が表示される人が多いからです。しかし、いくつかのOEMは、TPM 2.0にアップグレードするためのツールを\nTPM 2.0にアップグレードするためのツールを提供しています。\n\nまず、TPM 2.0とは何かを知らない人のために、以下のページをご覧ください。\nhttps://support.microsoft.com/en-us/windows/enable-tpm-2...",
+      "title": "YSK: TPM 1.2チップは、簡単なアップデートでTPM 2.0にアップグレードできる可能性があります。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么是YSK: 因为许多人在试图安装Windows 11时，会收到 \"不支持的PC \"警告，因为他们的TPM是1.2而不是2.0。\nWindows 11，因为它有TPM 1.2而不是2.0。然而，一些OEM厂商提供了工具\n提供升级TPM 2.0的工具。\n\n首先，对于那些不知道整个事情是什么的人。\nhttps://support.microsoft.com/en-us/windows/enable-tpm-2...",
+      "title": "YSK: 你的TPM 1.2芯片很有可能通过简单的更新升级到TPM 2.0。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼是YSK: 因爲許多人在試圖安裝Windows 11時，會收到 \"不支持的PC \"警告，因爲他們的TPM是1.2而不是2.0。\nWindows 11，因爲它有TPM 1.2而不是2.0。然而，一些OEM廠商提供了工具\n提供升級TPM 2.0的工具。\n\n首先，對於那些不知道整個事情是什麼的人。\nhttps://support.microsoft.com/en-us/windows/enable-tpm-2...",
+      "title": "YSK: 你的TPM 1.2芯片很有可能通過簡單的更新升級到TPM 2.0。"
+    }
+  ]
 }

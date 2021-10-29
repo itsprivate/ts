@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-28T06:27:53Z",
   "image": "https://dev.to/social_previews/article/879392.png",
   "author": "Saleh-Mubashar",
-  "author_url": "https://dev.to/salehmubashar"
+  "author_url": "https://dev.to/salehmubashar",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Hi guys !  今回の記事では、React JSのuseNavigateフックの使い方を学びます。 useNavigateは...",
+      "title": "useNavigate チュートリアル React JS"
+    },
+    {
+      "locale": "zh",
+      "description": "嗨，伙计们！。 在这篇文章中，我们将学习如何在React JS中使用useNavigate挂钩。useNavigate是...",
+      "title": "useNavigate 教程 React JS"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嗨，夥計們！。 在這篇文章中，我們將學習如何在React JS中使用useNavigate掛鉤。useNavigate是...",
+      "title": "useNavigate 教程 React JS"
+    }
+  ]
 }
