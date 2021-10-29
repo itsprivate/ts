@@ -52,5 +52,22 @@
   "original_created_at": "2021-10-29T06:06:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2POXNJZT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zs01nq18gjt385xkshgm.png",
   "author": "Pramit Marattha",
-  "author_url": "https://dev.to/pramit_armpit"
+  "author_url": "https://dev.to/pramit_armpit",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このブログのチュートリアルでは、react.jsを使用した音楽プレーヤーアプリケーションのセットアップと構築を、...から行います。",
+      "title": "リアクトで音楽プレーヤーアプリケーションをゼロから作る🔥🎶。"
+    },
+    {
+      "locale": "zh",
+      "description": "在这个博客教程中，我们将使用react.js设置和构建音乐播放器应用程序，从...",
+      "title": "在react中从头开始建立一个音乐播放器应用程序 🔥🎶"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這個博客教程中，我們將使用react.js設置和構建音樂播放器應用程序，從...",
+      "title": "在react中從頭開始建立一個音樂播放器應用程序 🔥🎶"
+    }
+  ]
 }
