@@ -52,5 +52,22 @@
   "original_created_at": "2021-10-28T08:24:23Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qQAiJA2M--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/912cegapz5170692mttp.png",
   "author": "Ekaterina Vujasinović",
-  "author_url": "https://dev.to/ekaterina_vu"
+  "author_url": "https://dev.to/ekaterina_vu",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ここ数週間、私たちは非同期JavaScriptとその使用パターンについて多くの議論を行いました。",
+      "title": "クイズ📣です。あなたは非同期JavaScriptをどのくらい理解していますか？"
+    },
+    {
+      "locale": "zh",
+      "description": "在过去的几周里，我们对异步JavaScript和我们使用的模式进行了大量的讨论。",
+      "title": "测验📣。你对异步JavaScript的理解程度如何？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在過去的幾周裏，我們對異步JavaScript和我們使用的模式進行了大量的討論。",
+      "title": "測驗📣。你對異步JavaScript的理解程度如何？"
+    }
+  ]
 }
