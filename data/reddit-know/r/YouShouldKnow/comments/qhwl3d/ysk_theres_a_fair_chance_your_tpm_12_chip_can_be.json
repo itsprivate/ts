@@ -1,0 +1,15 @@
+{
+  "author": "bruhkwehwark",
+  "original_created_utc": 1635455086,
+  "title": "YSK: There's a fair chance your TPM 1.2 chip can be upgraded to TPM 2.0 with a simple update",
+  "created_utc": 1635504282,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Why YSK: Because many people get &quot;Unsupported PC&quot; warning when trying to install Windows 11 for having TPM 1.2 instead of 2.0. Some OEM&#39;s however, provides tools for a TPM 2.0 upgrade.</p>\n\n<p>First, for those who don&#39;t know what&#39;s the entire thing: <a href=\"https://support.microsoft.com/en-us/windows/enable-tpm-2-0-on-your-pc-1fd5a332-360d-4f46-a1e7-ae6b0c90645c\">https://support.microsoft.com/en-us/windows/enable-tpm-2-0-on-your-pc-1fd5a332-360d-4f46-a1e7-ae6b0c90645c</a></p>\n\n<p>MS&#39; justification as why it&#39;s required: <a href=\"https://www.youtube.com/watch?v=tg9QUrnVFho\">https://www.youtube.com/watch?v=tg9QUrnVFho</a></p>\n\n<p>And for those wondering what is TPM: <a href=\"https://en.wikipedia.org/wiki/Trusted_Platform_Module\">https://en.wikipedia.org/wiki/Trusted_Platform_Module</a></p>\n\n<p>TL:DR if you want to install Windows 11 officially, you need TPM 2.0 support. There&#39;s ways to bypass this, but MS says they won&#39;t guarantee that you&#39;ll get updates.</p>\n\n<p>There&#39;s a chance, however, that your OEM is providing means to upgrade it to 2.0. As an example</p>\n\n<p>HP: <a href=\"https://support.hp.com/au-en/document/c05381064\">https://support.hp.com/au-en/document/c05381064</a></p>\n\n<p>Dell: <a href=\"https://www.dell.com/support/kbdoc/tr-tr/000184894/how-to-successfully-update-the-tpm-firmware-on-your-dell-computer?lang=en\">https://www.dell.com/support/kbdoc/tr-tr/000184894/how-to-successfully-update-the-tpm-firmware-on-your-dell-computer?lang=en</a></p>\n\n<p>You should be able to find your own OEM&#39;s instructions on Google</p>\n</div><!-- SC_ON -->",
+  "score": 54,
+  "permalink": "/r/YouShouldKnow/comments/qhwl3d/ysk_theres_a_fair_chance_your_tpm_12_chip_can_be/",
+  "subreddit": "YouShouldKnow",
+  "id": "qhwl3d",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Why YSK: Because many people get \"Unsupported PC\" warning when trying to install\nWindows 11 for having TPM 1.2 instead of 2.0. Some OEM's however, provides tools\nfor a TPM 2.0 upgrade.\n\nFirst, for those who don't know what's the entire thing:\nhttps://support.microsoft.com/en-us/windows/enable-tpm-2…"
+}
