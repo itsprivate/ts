@@ -57,5 +57,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Hi!\n\nRecently I was migrating one of my home machines to the new Windows 11. In the\nprocess of reinstalling, I decided it was time to automate the configuration and\ncreated an ansible playbook that does most of the work of preparing the system\nfor software development.\n\nCurrent Capabilities:\n\n *…"
+  "the_new_excerpt": "Hi!\n\nRecently I was migrating one of my home machines to the new Windows 11. In the\nprocess of reinstalling, I decided it was time to automate the configuration and\ncreated an ansible playbook that does most of the work of preparing the system\nfor software development.\n\nCurrent Capabilities:\n\n *…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "こんにちは。\n\n最近、自宅のマシンの1つを新しいWindows 11に移行しました。再インストールの過程で\n再インストールする過程で、設定を自動化するべきだと考え、準備の作業のほとんどを行う\nソフトウェア開発のためにシステムを準備するほとんどの作業を行うansible playbookを作成しました。\nソフトウェア開発のためにシステムを準備するほとんどの作業を行うアンシブル・プレイブックを作成しました。\n\n現在の機能\n\n *...",
+      "title": "AnsibleによるWindowsの自動設定"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你好!\n\n最近，我正在将我的一台家用机迁移到新的Windows 11。在\n在重新安装的过程中，我决定是时候将配置自动化了。\n创建了一个sible playbook，完成了大部分的系统准备工作。\n的大部分工作。\n\n目前的能力。\n\n *...",
+      "title": "用Ansible自动配置Windows"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你好!\n\n最近，我正在將我的一臺家用機遷移到新的Windows 11。在\n在重新安裝的過程中，我決定是時候將配置自動化了。\n創建了一個sible playbook，完成了大部分的系統準備工作。\n的大部分工作。\n\n目前的能力。\n\n *...",
+      "title": "用Ansible自動配置Windows"
+    }
+  ]
 }
