@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-23T19:29:01Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sYZvFeEs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/52pjqkmjblnuqkj30si7.png",
   "author": "Jatin Sharma",
-  "author_url": "https://dev.to/j471n"
+  "author_url": "https://dev.to/j471n",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今回は、Web Share APIについてご紹介します。Web Share APIを使用することで、Webアプリケーションは...",
+      "title": "Web Share APIを使ってウェブサイトからあらゆるものを共有する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我们要看的是Web Share API。有了Web Share API，网络应用就能够...",
+      "title": "如何通过Web Share API从你的网站上分享任何东西"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我們要看的是Web Share API。有了Web Share API，網絡應用就能夠...",
+      "title": "如何通過Web Share API從你的網站上分享任何東西"
+    }
+  ]
 }
