@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-27T03:39:40Z",
   "image": "https://dev.to/social_previews/article/877714.png",
   "author": "Konnor Rogers",
-  "author_url": "https://dev.to/paramagicdev"
+  "author_url": "https://dev.to/paramagicdev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "なぜこれを作ったのか？     私は人の苦労を叩くのは好きではありません。これは、そういう意味ではなく...。",
+      "title": "Jestが私に合わない理由"
+    },
+    {
+      "locale": "zh",
+      "description": "为什么要做这个？     我不喜欢抨击别人的辛苦工作。这并不是说...",
+      "title": "为什么杰斯特不适合我"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "爲什麼要做這個？     我不喜歡抨擊別人的辛苦工作。這並不是說...",
+      "title": "爲什麼傑斯特不適合我"
+    }
+  ]
 }
