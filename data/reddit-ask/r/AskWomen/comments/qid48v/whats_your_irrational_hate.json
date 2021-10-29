@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Mine's.. Halloween (I'm sorry)"
+  "the_new_excerpt": "Mine's.. Halloween (I'm sorry)",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私のは...ハロウィン(´・ω・`)",
+      "title": "あなたの不合理な憎しみは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我的是......万圣节 (我很抱歉)",
+      "title": "你有什么非理性的仇恨？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我的是......萬聖節 (我很抱歉)",
+      "title": "你有什麼非理性的仇恨？"
+    }
+  ]
 }
