@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-29T07:45:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PfwFXQVP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zdkybjrxanxl6v8s5j7i.png",
   "author": "CAST AI",
-  "author_url": "https://dev.to/castai"
+  "author_url": "https://dev.to/castai",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ボーナスコンテンツです。CAST AI vs. GKE Autopilotによるクラスタコストの詳細なシミュレーション Running...",
+      "title": "CAST AI vs. GKE Autopilot。GKE上のKubernetesをどこで管理するか？"
+    },
+    {
+      "locale": "zh",
+      "description": "奖励内容。CAST人工智能与GKE自动驾驶的集群成本的详细模拟 运行...",
+      "title": "CAST AI vs. GKE Autopilot: 在哪里管理GKE上的Kubernetes？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "獎勵內容。CAST人工智能與GKE自動駕駛的集羣成本的詳細模擬 運行...",
+      "title": "CAST AI vs. GKE Autopilot: 在哪裏管理GKE上的Kubernetes？"
+    }
+  ]
 }
