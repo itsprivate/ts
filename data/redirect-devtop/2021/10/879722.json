@@ -48,5 +48,22 @@
   "original_created_at": "2021-10-28T12:34:22Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8EOgBkyo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rm5ggql2yxdf2rdht2na.png",
   "author": "Dima Grossman",
-  "author_url": "https://dev.to/scopsy"
+  "author_url": "https://dev.to/scopsy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Hi Community! 皆さんのご意見をお待ちしています。 Notifireは、私の苦悩から始まりました...",
+      "title": "初のオープンソースの通知インフラを構築"
+    },
+    {
+      "locale": "zh",
+      "description": "嗨，社区! 期待听到你对此事的看法。 Notifire是在我的痛苦中开始的。",
+      "title": "建立第一个开源的通知基础设施"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嗨，社區! 期待聽到你對此事的看法。 Notifire是在我的痛苦中開始的。",
+      "title": "建立第一個開源的通知基礎設施"
+    }
+  ]
 }
