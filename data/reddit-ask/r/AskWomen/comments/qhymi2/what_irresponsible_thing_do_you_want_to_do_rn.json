@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Like the title says, what is something you're currently resisting the urge to do\nbecause you know it's irresponsible (but you still really want to do)?"
+  "the_new_excerpt": "Like the title says, what is something you're currently resisting the urge to do\nbecause you know it's irresponsible (but you still really want to do)?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "タイトルにあるように、あなたが今、無責任だとわかっていて、やりたいと思うことを我慢していることは何ですか？\n無責任だとわかっていて、やりたい気持ちを抑えていることは？",
+      "title": "What Irresponsible Thing Do You Want to Do RN?"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "就像标题所说的，你目前正在抵制做什么事情的冲动\n因为你知道这是不负责任的（但你仍然很想做）？",
+      "title": "你想做什么不负责任的事情RN？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "就像標題所說的，你目前正在抵制做什麼事情的衝動\n因爲你知道這是不負責任的（但你仍然很想做）？",
+      "title": "你想做什麼不負責任的事情RN？"
+    }
+  ]
 }

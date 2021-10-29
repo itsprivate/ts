@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ラーメンを調理し、指示に従う...。"
+    },
+    {
+      "locale": "zh",
+      "title": "烹饪拉面并按照说明..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "烹飪拉麪並按照說明..."
+    }
+  ]
 }
