@@ -63,5 +63,22 @@
     "retweet_count": 77,
     "favorite_count": 157,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @charlie_mccann: ビルマ軍は東南アジアで最大級の軍隊であり、その冷酷さで有名です。しかし、何千人もの農民たちは、このような状況に置かれています。",
+      "retweeted_status_full_text": "ビルマ軍は東南アジア最大の軍隊のひとつであり、その冷酷さで知られています。しかし、何千人もの農民や学生がビルマ軍と戦い、ビルマ軍を追い詰めています。その理由は以下の通りです。\nhttps://t.co/hx8vREOaO0"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @charlie_mccann: 缅甸军队是东南亚最大的军队之一，以其无情而闻名。然而，数以千计的农民，以及他们的家人和朋友，都在等待着他们的到来。",
+      "retweeted_status_full_text": "缅甸军队是东南亚最大的军队之一，以其无情而闻名。然而，数以千计的农民和学生与之抗争，使其处于劣势。这就是为什么\nhttps://t.co/hx8vREOaO0"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @charlie_mccann: 緬甸軍隊是東南亞最大的軍隊之一，以其無情而聞名。然而，數以千計的農民，以及他們的家人和朋友，都在等待着他們的到來。",
+      "retweeted_status_full_text": "緬甸軍隊是東南亞最大的軍隊之一，以其無情而聞名。然而，數以千計的農民和學生與之抗爭，使其處於劣勢。這就是爲什麼\nhttps://t.co/hx8vREOaO0"
+    }
+  ]
 }
