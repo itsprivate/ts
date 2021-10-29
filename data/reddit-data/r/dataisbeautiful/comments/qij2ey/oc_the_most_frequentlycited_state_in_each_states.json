@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC】各州のレストラン名で最も多く引用されている州。提供：SafeGraph"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]每个州的餐厅名称中最常被引用的州。由SafeGraph提供。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]每個州的餐廳名稱中最常被引用的州。由SafeGraph提供。"
+    }
+  ]
 }
