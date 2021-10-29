@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-28T15:16:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--M9MBE1rt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://graphql-engine-cdn.hasura.io/assets/main-site/hasura-learn.png",
   "author": "Praveen Durairaju",
-  "author_url": "https://dev.to/praveenweb"
+  "author_url": "https://dev.to/praveenweb",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "GraphQLエコシステムやツールに慣れ親しみたい方は、Hasuraの学習リソースを利用することで、GraphQLエキスパートへの道を歩み始めることができます。",
+      "title": "フルスタック開発者のためのGraphQL学習法"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你想熟悉GraphQL生态系统和工具，Hasura的学习资源将使你开始成为GraphQL专家的旅程。",
+      "title": "全栈开发者的GraphQL学习之路"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你想熟悉GraphQL生態系統和工具，Hasura的學習資源將使你開始成爲GraphQL專家的旅程。",
+      "title": "全棧開發者的GraphQL學習之路"
+    }
+  ]
 }
