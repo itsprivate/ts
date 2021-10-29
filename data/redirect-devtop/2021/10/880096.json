@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-28T18:49:24Z",
   "image": "https://dev.to/social_previews/article/880096.png",
   "author": "Elijah Trillionz",
-  "author_url": "https://dev.to/elijahtrillionz"
+  "author_url": "https://dev.to/elijahtrillionz",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Discordボットは、サーバーのメンバーとのやり取りや、サーバーのモデレートに役立ちます。Discordボットは...",
+      "title": "最新のDiscordボットをスクラッチで作る。基礎知識を学ぶ"
+    },
+    {
+      "locale": "zh",
+      "description": "Discord机器人可以帮助你与服务器的成员进行互动，并对服务器进行管理。一个迪科德机器人...",
+      "title": "从零开始建立一个现代Discord机器人。学习基础知识"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Discord機器人可以幫助你與服務器的成員進行互動，並對服務器進行管理。一個迪科德機器人...",
+      "title": "從零開始建立一個現代Discord機器人。學習基礎知識"
+    }
+  ]
 }
