@@ -53,5 +53,22 @@
   "original_created_at": "2021-10-28T04:10:29Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0RN9g5S1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/zoxvbu0494gq3sxtjp4v.png",
   "author": "dev.to staff",
-  "author_url": "https://dev.to/thepracticaldev"
+  "author_url": "https://dev.to/thepracticaldev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "DevNews podのS6E1は、どこのPodcastでも聴くことができます。",
+      "title": "DevNews シーズン6がスタートしました"
+    },
+    {
+      "locale": "zh",
+      "description": "无论你在哪里获得播客，都可以收听DevNews播客的S6E1。",
+      "title": "DevNews第六季来了!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "無論你在哪裏獲得播客，都可以收聽DevNews播客的S6E1。",
+      "title": "DevNews第六季來了!"
+    }
+  ]
 }
