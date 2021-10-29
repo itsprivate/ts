@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-27T06:16:24Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1dJwGqP4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j737f401rufny077c5e0.png",
   "author": "Raghav Mrituanjaya",
-  "author_url": "https://dev.to/raghavmri"
+  "author_url": "https://dev.to/raghavmri",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "本日開催されたNext.js confにおいて、next.jsの開発元であるVercel社は、next.js...の公開を発表しました。",
+      "title": "Next JS 12の優れた機能"
+    },
+    {
+      "locale": "zh",
+      "description": "今天，在Next.js会议上，Next.js背后的公司Vercel宣布公开提供next.js...",
+      "title": "Next JS 12的酷炫功能"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "今天，在Next.js會議上，Next.js背後的公司Vercel宣佈公開提供next.js...",
+      "title": "Next JS 12的酷炫功能"
+    }
+  ]
 }

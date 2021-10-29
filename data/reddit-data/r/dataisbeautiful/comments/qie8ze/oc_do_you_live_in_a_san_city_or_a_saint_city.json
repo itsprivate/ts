@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC】あなたは、San CityとSaint Cityのどちらに住んでいますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]你是住在圣城，还是住在圣城？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]你是住在聖城，還是住在聖城？"
+    }
+  ]
 }
