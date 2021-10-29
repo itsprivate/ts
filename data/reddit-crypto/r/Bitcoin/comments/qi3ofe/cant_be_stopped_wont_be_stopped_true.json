@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "止められない、止められない。真の意味での分権"
+    },
+    {
+      "locale": "zh",
+      "title": "不能被阻止，不会被阻止。真正的权力下放"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不能被阻止，不會被阻止。真正的權力下放"
+    }
+  ]
 }
