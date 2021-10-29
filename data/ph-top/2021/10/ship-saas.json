@@ -62,5 +62,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-29T07:05:40Z"
+  "original_createdAt": "2021-10-29T07:05:40Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このスターターキットには、SaaSアプリを素早く構築するために必要な統合機能がすべて含まれています。ランディングページ、ログイン、登録、課金などの機能を備えた完全なアプリを1週間以内に完成させることができます。Next.jsとSupabaseを使い始める最も簡単な方法です。",
+      "tagline": "プレミアムNext.jsとSupabaseのSaaSスターターキット"
+    },
+    {
+      "locale": "zh",
+      "description": "这个入门套件包括你快速建立SaaS应用程序所需的所有集成！你将在一周内拥有一个完整的应用程序，包括登陆页面、注册和计费功能。你将在一周内拥有一个完整的应用程序，包括登陆页面、登录、注册和计费功能。这是开始使用Next.js和Supabase的最简单方法。",
+      "tagline": "高级Next.js和Supabase SaaS入门套件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這個入門套件包括你快速建立SaaS應用程序所需的所有集成！你將在一週內擁有一個完整的應用程序，包括登陸頁面、註冊和計費功能。你將在一週內擁有一個完整的應用程序，包括登陸頁面、登錄、註冊和計費功能。這是開始使用Next.js和Supabase的最簡單方法。",
+      "tagline": "高級Next.js和Supabase SaaS入門套件"
+    }
+  ]
 }
