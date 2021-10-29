@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-28T09:00:25Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--F1fxhUN4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9hpb1h0556eyulowby1w.png",
   "author": "Shuvo",
-  "author_url": "https://dev.to/0shuvo0"
+  "author_url": "https://dev.to/0shuvo0",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "時にはリストの中にサブリストがあり、その中にまた別のサブリストがあるかもしれません。 そのような場合は...",
+      "title": "ReactとVueによる再帰的なリストレンダリング"
+    },
+    {
+      "locale": "zh",
+      "description": "有时你的列表中可能有一个子列表，而这个子列表中又可能有另一个子列表。 在这种情况下...",
+      "title": "用React和Vue进行递归列表渲染"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有時你的列表中可能有一個子列表，而這個子列表中又可能有另一個子列表。 在這種情況下...",
+      "title": "用React和Vue進行遞歸列表渲染"
+    }
+  ]
 }
