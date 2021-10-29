@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "What a chad"
+    },
+    {
+      "locale": "zh",
+      "title": "什么叫 \"黑匣子\"？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "什麼叫 \"黑匣子\"？"
+    }
+  ]
 }
