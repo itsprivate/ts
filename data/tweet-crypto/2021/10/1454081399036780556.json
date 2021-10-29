@@ -68,5 +68,22 @@
     },
     "retweet_count": 542,
     "favorite_count": 3245
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @BitcoinMagazine: JUST IN - オーストラリアの証券規制当局トップが、#ビットコインETFを承認すると発表。",
+      "retweeted_status_full_text": "JUST IN - オーストラリアの証券規制当局トップが、#ビットコインETFを承認すると発表"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @BitcoinMagazine: JUST IN - 澳大利亚最高证券监管机构表示将批准#比特币ETFs",
+      "retweeted_status_full_text": "JUST IN - 澳大利亚最高证券监管机构表示将批准#比特币ETFs"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @BitcoinMagazine: JUST IN - 澳大利亞最高證券監管機構表示將批准#比特幣ETFs",
+      "retweeted_status_full_text": "JUST IN - 澳大利亞最高證券監管機構表示將批准#比特幣ETFs"
+    }
+  ]
 }
