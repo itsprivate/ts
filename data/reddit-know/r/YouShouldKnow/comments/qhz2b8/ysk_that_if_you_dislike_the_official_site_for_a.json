@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Why YSK: Official apps are designed to make money, and may be full of ads or\nother frustrations. Third party apps often have no ads, cleaner interfaces, and\nmore advanced features."
+  "the_new_excerpt": "Why YSK: Official apps are designed to make money, and may be full of ads or\nother frustrations. Third party apps often have no ads, cleaner interfaces, and\nmore advanced features.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "なぜYSKかというと、公式アプリはお金儲けのために作られているので、広告がたくさん出てきたりして\nその他の不満があるかもしれません。サードパーティ製のアプリは、広告がなく、インターフェースがすっきりしていて\nより高度な機能を備えています。",
+      "title": "ウェブサイトの公式サイトが気に入らなくても、ほとんどの場合、サードパーティ製のアプリが用意されていることをYSKは知っています。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么是YSK：官方应用程序是为了赚钱而设计的，可能充满了广告或\n其他令人沮丧的问题。第三方应用程序通常没有广告，界面更干净，而且\n更高级的功能。",
+      "title": "YSK认为，如果你不喜欢一个网站的官方网站，几乎总是有一个第三方的应用程序可用。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼是YSK：官方應用程序是爲了賺錢而設計的，可能充滿了廣告或\n其他令人沮喪的問題。第三方應用程序通常沒有廣告，界面更乾淨，而且\n更高級的功能。",
+      "title": "YSK認爲，如果你不喜歡一個網站的官方網站，幾乎總是有一個第三方的應用程序可用。"
+    }
+  ]
 }
