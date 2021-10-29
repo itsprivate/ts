@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-29T07:00:00Z"
+  "original_createdAt": "2021-10-29T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "IconKitchenは、iOS、Android（アダプティブアイコン）、Web（ファビコンなど）、macOSなど、さまざまなプラットフォームのアプリのアイコンをすばやくデザインできる新しい方法です。色やテクスチャー、クリップアートや自分のイメージを選べば、完成です。",
+      "tagline": "あらゆるプラットフォームのアプリのアイコンを作る"
+    },
+    {
+      "locale": "zh",
+      "description": "IconKitchen是一种快速的新方法，可以快速设计各种平台的应用程序图标，从iOS到Android（自适应图标）到Web（favicons和更多）和macOS！选择一些颜色和纹理以及剪贴画或自己的图像，就可以完成。选择一些颜色、纹理和剪贴画或你自己的图像，你就可以完成了",
+      "tagline": "为任何平台制作应用程序图标"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "IconKitchen是一種快速的新方法，可以快速設計各種平臺的應用程序圖標，從iOS到Android（自適應圖標）到Web（favicons和更多）和macOS！選擇一些顏色和紋理以及剪貼畫或自己的圖像，就可以完成。選擇一些顏色、紋理和剪貼畫或你自己的圖像，你就可以完成了",
+      "tagline": "爲任何平臺製作應用程序圖標"
+    }
+  ]
 }
