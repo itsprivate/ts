@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Why YSK:\n\nWhat they are doing is illegal (against Art. 17 GDPR) but unless someone sues\nthem they're gonna keep doing it. There have been threads where users try to\nrequest to opt out, but ppl have been waiting for months to no avail, and the\ndev is impossible to reach. So word of advice, watch what…"
+  "the_new_excerpt": "Why YSK:\n\nWhat they are doing is illegal (against Art. 17 GDPR) but unless someone sues\nthem they're gonna keep doing it. There have been threads where users try to\nrequest to opt out, but ppl have been waiting for months to no avail, and the\ndev is impossible to reach. So word of advice, watch what…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "なぜYSKなのか。\n\n彼らのやっていることは違法（GDPR第17条違反）ですが、誰かが訴えない限り\n訴えない限り、彼らはそれを続けるでしょう。ユーザーがオプトアウトを要求するスレッドがありました。\nスレッドがありますが、ユーザーは何ヶ月も待っていますが効果がなく、開発者とは連絡が取れません。\n開発者とは連絡が取れません。アドバイスとしては、何を見ているのか、何をしているのか。",
+      "title": "YSKさんがredditに投稿したものはすべて第三者（pushshift）に保存されているので、redditで削除してもデジタル・フットプリントを完全に削除したことにはなりません。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么是YSK。\n\n他们所做的是非法的（违反GDPR第17条），但除非有人起诉\n他们会继续这样做。有一些线程，用户试图\n要求退出，但人们已经等了几个月都没有用。\n开发商是无法联系到的。因此，建议你注意一下...",
+      "title": "YSK认为，你在reddit上发布的所有内容都被第三方（pushshift）所储存，所以在reddit上删除并不能完全消除你的数字足迹。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼是YSK。\n\n他們所做的是非法的（違反GDPR第17條），但除非有人起訴\n他們會繼續這樣做。有一些線程，用戶試圖\n要求退出，但人們已經等了幾個月都沒有用。\n開發商是無法聯繫到的。因此，建議你注意一下...",
+      "title": "YSK認爲，你在reddit上發佈的所有內容都被第三方（pushshift）所儲存，所以在reddit上刪除並不能完全消除你的數字足跡。"
+    }
+  ]
 }
