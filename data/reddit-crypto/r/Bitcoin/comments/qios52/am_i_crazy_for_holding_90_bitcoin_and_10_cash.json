@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "No really, that's pretty much my situation"
+  "the_new_excerpt": "No really, that's pretty much my situation",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "いや、本当にそうなんですよ。",
+      "title": "ビットコインを90％、現金を10％保有している私はおかしいでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "不，真的，这几乎是我的情况。",
+      "title": "我持有90%的比特币和10%的现金，是不是疯了？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "不，真的，這幾乎是我的情況。",
+      "title": "我持有90%的比特幣和10%的現金，是不是瘋了？"
+    }
+  ]
 }
