@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-27T14:54:52Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--M26FSdxj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/odrlnnv81e165bcychxw.png",
   "author": "Alex Wentz",
-  "author_url": "https://dev.to/fromwentzitcame"
+  "author_url": "https://dev.to/fromwentzitcame",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コンディショナル・レンダリングとは何ですか？  多くのWebサイトでは、ユーザーにアカウントを作成してもらうためには、...",
+      "title": "Reactでの条件付きレンダリング クイックイントロダクション"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是条件渲染？  许多网站希望用户创建一个账户，需要...",
+      "title": "React中的条件性渲染。快速介绍"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是條件渲染？  許多網站希望用戶創建一個賬戶，需要...",
+      "title": "React中的條件性渲染。快速介紹"
+    }
+  ]
 }
