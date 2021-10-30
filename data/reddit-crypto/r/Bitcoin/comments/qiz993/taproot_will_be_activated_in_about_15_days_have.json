@@ -11,5 +11,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Taprootは約15日後に起動します。すでにTaprootを有効にするためにノードを更新しましたか？"
+    },
+    {
+      "locale": "zh",
+      "title": "Taproot将在大约15天后被激活。你是否已经更新了你的节点以执行Taproot？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Taproot將在大約15天后被激活。你是否已經更新了你的節點以執行Taproot？"
+    }
+  ]
 }
