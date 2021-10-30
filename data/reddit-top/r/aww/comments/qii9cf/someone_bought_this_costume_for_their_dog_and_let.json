@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "誰かが自分の犬のためにこの衣装を買って、彼を解放した。"
+    },
+    {
+      "locale": "zh",
+      "title": "有人给自己的狗买了这套服装，并把它放了出来"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有人給自己的狗買了這套服裝，並把它放了出來"
+    }
+  ]
 }
