@@ -52,5 +52,22 @@
   "original_created_at": "2021-10-28T08:30:38Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0jC7SU2d--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/63jwgn5t86hl89finozs.png",
   "author": "Monika Ambrozowicz",
-  "author_url": "https://dev.to/monikaambrozowicz"
+  "author_url": "https://dev.to/monikaambrozowicz",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "人気のあるWebプロジェクトには、必ずと言っていいほどNode.jsが使われています。これは...",
+      "title": "Node.jsでマイクロサービスをベースにしたアプリを構築するトップの理由"
+    },
+    {
+      "locale": "zh",
+      "description": "任何一个流行的网络项目，都很有可能是用Node.js构建的。这...",
+      "title": "在Node.js中构建基于微服务的应用的首要原因"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "任何一個流行的網絡項目，都很有可能是用Node.js構建的。這...",
+      "title": "在Node.js中構建基於微服務的應用的首要原因"
+    }
+  ]
 }

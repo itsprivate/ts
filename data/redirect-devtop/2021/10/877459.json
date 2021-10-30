@@ -52,5 +52,22 @@
   "original_created_at": "2021-10-26T21:21:56Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MfXKWs3B--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z1gza4hu4n9d8xbdvi53.png",
   "author": "Jess Mitchell",
-  "author_url": "https://dev.to/gemontracks"
+  "author_url": "https://dev.to/gemontracks",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "daily-jsでVueアプリにビデオ通話、画面共有、カスタムチャットを追加",
+      "title": "DailyとVue.jsでカスタムビデオチャットアプリを作る"
+    },
+    {
+      "locale": "zh",
+      "description": "用daily-js为你的Vue应用添加视频通话、屏幕共享和自定义聊天功能",
+      "title": "用Daily和Vue.js构建一个自定义的视频聊天应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "用daily-js爲你的Vue應用添加視頻通話、屏幕共享和自定義聊天功能",
+      "title": "用Daily和Vue.js構建一個自定義的視頻聊天應用程序"
+    }
+  ]
 }
