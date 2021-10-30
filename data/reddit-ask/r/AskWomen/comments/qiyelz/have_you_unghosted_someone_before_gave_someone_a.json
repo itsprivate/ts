@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたは以前、誰かをアンゴースト化したり、セカンドチャンスを与えたりして、後で後悔したことがありますか？何があったのですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你是否曾经为某人解除过鬼魂/给过某人第二次机会，后来又后悔了？发生了什么事？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你是否曾經爲某人解除過鬼魂/給過某人第二次機會，後來又後悔了？發生了什麼事？"
+    }
+  ]
 }
