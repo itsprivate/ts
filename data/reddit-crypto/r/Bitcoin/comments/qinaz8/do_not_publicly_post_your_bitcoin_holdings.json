@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "That's it. That's the post."
+  "the_new_excerpt": "That's it. That's the post.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "それはそれは。それがポストです。",
+      "title": "保有しているビットコインを公開しない"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这就是了。就是这个帖子。",
+      "title": "不要公开发布你的比特币持有量"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這就是了。就是這個帖子。",
+      "title": "不要公開發布你的比特幣持有量"
+    }
+  ]
 }
