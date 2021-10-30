@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Pazlyは、あなたの（サイド）プロジェクトのための素晴らしいランディングページを、ドラッグ＆ドロップだけで作ることができます。https://pazly.dev/ から無料でご利用いただけます。"
+    },
+    {
+      "locale": "zh",
+      "title": "Pazly帮助你为你的（副）项目制作很棒的登陆页，只需拖放即可。从https://pazly.dev/ 开始免费使用"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Pazly幫助你爲你的（副）項目製作很棒的登陸頁，只需拖放即可。從https://pazly.dev/ 開始免費使用"
+    }
+  ]
 }
