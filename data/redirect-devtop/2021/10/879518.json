@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-28T10:14:59Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Y1C2-UJK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4p8lysfsu7i5ooionb3z.png",
   "author": "Alex Omeyer",
-  "author_url": "https://dev.to/alexomeyer"
+  "author_url": "https://dev.to/alexomeyer",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "高品質なコードは、機能的でエラーやバグのない、編集しやすいソフトウェアを作成するために重要です。",
+      "title": "Code Quality Engineerが知っておくべき7つの定性評価指標"
+    },
+    {
+      "locale": "zh",
+      "description": "高质量的代码是创建功能错误和无错误的软件的关键，它易于编辑...",
+      "title": "衡量代码质量的7个定性指标工程师应该知道"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "高質量的代碼是創建功能錯誤和無錯誤的軟件的關鍵，它易於編輯...",
+      "title": "衡量代碼質量的7個定性指標工程師應該知道"
+    }
+  ]
 }
