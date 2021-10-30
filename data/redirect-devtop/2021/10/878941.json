@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-27T22:09:18Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6SkGUtYi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mkrg7y8jdj8hw14b7vb8.jpg",
   "author": "Pramuda Liyanage",
-  "author_url": "https://dev.to/pramudaliyanage"
+  "author_url": "https://dev.to/pramudaliyanage",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "SOLID設計原則は、効果的なソフトウェアを作成するための5つのソフトウェア設計原則です。",
+      "title": "SOLID ソフトウェアアーキテクチャーの原則"
+    },
+    {
+      "locale": "zh",
+      "description": "SOLID设计原则是五个软件设计原则，使你能够编写有效的...",
+      "title": "软件架构的SOLID原则"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "SOLID設計原則是五個軟件設計原則，使你能夠編寫有效的...",
+      "title": "軟件架構的SOLID原則"
+    }
+  ]
 }
