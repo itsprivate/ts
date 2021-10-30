@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-29T05:53:58Z",
   "image": "https://dev.to/social_previews/article/880479.png",
   "author": "diptee",
-  "author_url": "https://dev.to/dipteekhd"
+  "author_url": "https://dev.to/dipteekhd",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "複数のコンポーネントが共通のデータを共有しており、常に共有データの更新が必要であることはご存知の通りです。このような場合、...",
+      "title": "アンギュラー：BehaviorSubject"
+    },
+    {
+      "locale": "zh",
+      "description": "正如我们所知，多个组件共享共同的数据，并且总是需要更新共享数据。在这种情况下...",
+      "title": "Angular : BehaviorSubject"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "正如我們所知，多個組件共享共同的數據，並且總是需要更新共享數據。在這種情況下...",
+      "title": "Angular : BehaviorSubject"
+    }
+  ]
 }

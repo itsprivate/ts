@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-30T07:00:00Z"
+  "original_createdAt": "2021-10-30T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "クローゼットは、「Aww, Rats」のネズミたちに、季節ごとに様々な服や小物を着せることができるdAppです。腐らないネズミのための「Able Sisters Clothing」をイメージしています。",
+      "tagline": "メタヴァースで最もスタイリッシュな部屋"
+    },
+    {
+      "locale": "zh",
+      "description": "衣橱是一个dApp，在这里你可以用各种季节性的衣服和配饰来装扮Aww, Rats中的老鼠。想想看，Able Sisters Clothing是为非真菌性老鼠设计的。",
+      "tagline": "美特维尔中最时尚的房间"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "衣櫥是一個dApp，在這裏你可以用各種季節性的衣服和配飾來裝扮Aww, Rats中的老鼠。想想看，Able Sisters Clothing是爲非真菌性老鼠設計的。",
+      "tagline": "美特維爾中最時尚的房間"
+    }
+  ]
 }
