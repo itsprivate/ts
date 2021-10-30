@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-30T03:21:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bfBgl3GF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qspvr74it45vxok3p6vw.png",
   "author": "Kathryn Grayson Nanz",
-  "author_url": "https://dev.to/kathryngrayson"
+  "author_url": "https://dev.to/kathryngrayson",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "スクリーンの大きさを自由に選べるようになった今、レスポンシブデザインへとアプローチを変える時が来ています。現代のCSSはレスポンシブデザインに対応しており、メディアクエリを（書きたくなければ）二度と書かなくてもよいようになっています。",
+      "title": "メディアクエリはもう必要ないかもしれません。"
+    },
+    {
+      "locale": "zh",
+      "description": "随着屏幕有了你能想象到的任何尺寸，是时候把我们的方法转向响应式设计了--断点时代已经过去，流体设计的时代已经到来。现代CSS对响应式设计有很好的支持，确保你永远不必再写媒体查询（如果你不想的话）。",
+      "title": "你可能已经不需要媒体查询了"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "隨着屏幕有了你能想象到的任何尺寸，是時候把我們的方法轉向響應式設計了--斷點時代已經過去，流體設計的時代已經到來。現代CSS對響應式設計有很好的支持，確保你永遠不必再寫媒體查詢（如果你不想的話）。",
+      "title": "你可能已經不需要媒體查詢了"
+    }
+  ]
 }
