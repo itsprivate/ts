@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "for engagement rings"
+  "the_new_excerpt": "for engagement rings",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "エンゲージメントリング用",
+      "title": "ラボ・グロウン・ダイヤモンドについてどう思われますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "用于订婚戒指",
+      "title": "你对实验室培育的钻石有什么看法？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "用於訂婚戒指",
+      "title": "你對實驗室培育的鑽石有什麼看法？"
+    }
+  ]
 }
