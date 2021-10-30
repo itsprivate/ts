@@ -57,5 +57,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Here is a tool that allows you to build and test stock trading bots quickly. Has\na decent collection of examples and live community.\n\nhttp://breakingequity.com/"
+  "the_new_excerpt": "Here is a tool that allows you to build and test stock trading bots quickly. Has\na decent collection of examples and live community.\n\nhttp://breakingequity.com/",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ここでは、株取引のボットを素早く構築してテストできるツールをご紹介します。また\n充実したサンプル集とライブコミュニティがあります。\n\nhttp://breakingequity.com/",
+      "title": "株取引ボット"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这里有一个工具，允许你快速建立和测试股票交易机器人。拥有\n一个体面的例子集和现场社区。\n\nhttp://breakingequity.com/",
+      "title": "股票交易机器人"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這裏有一個工具，允許你快速建立和測試股票交易機器人。擁有\n一個體面的例子集和現場社區。\n\nhttp://breakingequity.com/",
+      "title": "股票交易機器人"
+    }
+  ]
 }

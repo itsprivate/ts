@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-29T08:01:22Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0Ta_CNQp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gcml3rinf4aw9maoyvqp.jpeg",
   "author": "Nil Madhab",
-  "author_url": "https://dev.to/nilmadhabmondal"
+  "author_url": "https://dev.to/nilmadhabmondal",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "プロジェクトの立ち上げ、カテゴリーや商品のAPIの開発 動機 私の考えでは、...",
+      "title": "JavaとSpringを使ってE-Commerceアプリケーションをゼロから開発しよう"
+    },
+    {
+      "locale": "zh",
+      "description": "项目设置，开发品类和产品的API 动机 在我看来，在中国，\"中国制造2025 \"是一个很好的例子。",
+      "title": "让我们从头开始使用Java和Spring开发一个电子商务应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "項目設置，開發品類和產品的API 動機 在我看來，在中國，\"中國製造2025 \"是一個很好的例子。",
+      "title": "讓我們從頭開始使用Java和Spring開發一個電子商務應用程序"
+    }
+  ]
 }
