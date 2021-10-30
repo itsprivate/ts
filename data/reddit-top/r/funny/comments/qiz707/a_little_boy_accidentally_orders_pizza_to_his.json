@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "小さな男の子が誤って家にピザを注文してしまい、その時のお父さんの反応をご紹介します。"
+    },
+    {
+      "locale": "zh",
+      "title": "一个小男孩不小心把比萨饼订到了他家，这里是他爸爸的反应。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個小男孩不小心把比薩餅訂到了他家，這裏是他爸爸的反應。"
+    }
+  ]
 }
