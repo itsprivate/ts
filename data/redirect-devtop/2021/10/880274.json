@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-28T22:52:30Z",
   "image": "https://dev.to/social_previews/article/880274.png",
   "author": "Kyle Hoskins",
-  "author_url": "https://dev.to/kyleapex"
+  "author_url": "https://dev.to/kyleapex",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Next.js 12を \"これまでで最大の進歩 \"と呼ぶ人もいます。  特にRustファンは。   Next.js 12の...",
+      "title": "Next.js 12がMaterial-UIアプリのコンパイルを8倍に改善した理由"
+    },
+    {
+      "locale": "zh",
+      "description": "有人称Next.js 12是 \"迄今为止最大的进步\"。  特别是Rust的粉丝。   Next.js 12的...",
+      "title": "Next.js 12如何将Material-UI应用的编译提高8倍"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有人稱Next.js 12是 \"迄今爲止最大的進步\"。  特別是Rust的粉絲。   Next.js 12的...",
+      "title": "Next.js 12如何將Material-UI應用的編譯提高8倍"
+    }
+  ]
 }
