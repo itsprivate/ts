@@ -52,5 +52,22 @@
   "original_created_at": "2021-10-27T12:30:09Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5gRI0NGd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oki45yjc5fa2k666stu7.png",
   "author": "Erika Heidi",
-  "author_url": "https://dev.to/erikaheidi"
+  "author_url": "https://dev.to/erikaheidi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、Hacktoberfestの最後の日に、あなたの貢献が本当に変化をもたらすことができるプロジェクトや課題を特定するのに役立つ10のSourcegraph検索トリックを学びます。",
+      "title": "オープンソースのコントリビューターとメンテナーのための10のソースグラフ検索トリック"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，你将学习10个Sourcegraph搜索技巧，以帮助识别项目和问题，在这些Hacktoberfest的最后几天里，你的贡献可以真正发挥作用。",
+      "title": "为开源贡献者和维护者提供的10个Sourcegraph搜索技巧"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，你將學習10個Sourcegraph搜索技巧，以幫助識別項目和問題，在這些Hacktoberfest的最後幾天裏，你的貢獻可以真正發揮作用。",
+      "title": "爲開源貢獻者和維護者提供的10個Sourcegraph搜索技巧"
+    }
+  ]
 }

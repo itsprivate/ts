@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-30T13:47:47Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--S2KcEyev--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c7fvl52qsqiilcey0n1i.jpeg",
   "author": "CodeOz",
-  "author_url": "https://dev.to/codeoz"
+  "author_url": "https://dev.to/codeoz",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "APIとは、Application Programming Interfaceの頭文字をとったもので、ソフトウェアを仲介して...",
+      "title": "7 あなたのプロジェクトに最適なAPI"
+    },
+    {
+      "locale": "zh",
+      "description": "API是应用编程接口的首字母缩写，它是一种软件中介，...",
+      "title": "7为你的项目提供漂亮的API!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "API是應用編程接口的首字母縮寫，它是一種軟件中介，...",
+      "title": "7爲你的項目提供漂亮的API!"
+    }
+  ]
 }

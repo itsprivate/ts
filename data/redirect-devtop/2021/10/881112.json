@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-29T13:16:43Z",
   "image": "https://dev.to/social_previews/article/881112.png",
   "author": "Sadee",
-  "author_url": "https://dev.to/codewithsadee"
+  "author_url": "https://dev.to/codewithsadee",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "html css jsを使ったレスポンシブな個人ポートフォリオサイト このビデオシリーズでは、...",
+      "title": "HTML CSS JSによるレスポンシブ・パーソナル・ポートフォリオ・ウェブサイト - Part 1"
+    },
+    {
+      "locale": "zh",
+      "description": "用html css js做响应式个人投资组合网站 在这个视频系列中，我将向你展示...",
+      "title": "使用HTML、CSS、JS的响应式个人组合网站 - 第一部分"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "用html css js做響應式個人投資組合網站 在這個視頻系列中，我將向你展示...",
+      "title": "使用HTML、CSS、JS的響應式個人組合網站 - 第一部分"
+    }
+  ]
 }
