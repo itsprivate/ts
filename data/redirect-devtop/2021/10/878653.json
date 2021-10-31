@@ -57,5 +57,22 @@
   "original_created_at": "2021-10-27T17:10:42Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SQ-6iL8v--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9qg677w2ixrwn80zt3vs.jpg",
   "author": "Arjun Kava",
-  "author_url": "https://dev.to/arjunkava"
+  "author_url": "https://dev.to/arjunkava",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Ttは、react hooks APIを使った簡単に使える機能性コンポーネントです。このチュートリアルでは、Ttを使って...",
+      "title": "React Hooksでビデオチャットアプリを作る "
+    },
+    {
+      "locale": "zh",
+      "description": "Tt是易于使用的功能组件，具有反应钩子API。在本教程中，我们将使用...",
+      "title": "用React Hooks建立一个视频聊天应用程序 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Tt是易於使用的功能組件，具有反應鉤子API。在本教程中，我們將使用...",
+      "title": "用React Hooks建立一個視頻聊天應用程序 "
+    }
+  ]
 }
