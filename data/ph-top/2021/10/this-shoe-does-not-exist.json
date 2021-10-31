@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-31T07:01:00Z"
+  "original_createdAt": "2021-10-31T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "AIが生成する靴 - 3Dモデルの生成やユーザーの入力を利用した製品の拡張を予定しています。",
+      "tagline": "AIによる靴のデザイン"
+    },
+    {
+      "locale": "zh",
+      "description": "人工智能生成的鞋子 - 计划扩大产品，以生成3D模型并使用用户输入的信息",
+      "tagline": "AI生成的鞋子设计"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "人工智能生成的鞋子 - 計劃擴大產品，以生成3D模型並使用用戶輸入的信息",
+      "tagline": "AI生成的鞋子設計"
+    }
+  ]
 }
