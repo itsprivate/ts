@@ -43,5 +43,22 @@
   "original_created_at": "2021-10-31T06:11:21Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2jwNCqR8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g33trqywpo34ex3n1993.png",
   "author": "liu-jin-yi",
-  "author_url": "https://dev.to/liujinyi"
+  "author_url": "https://dev.to/liujinyi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactを使い始めて3年になりますが、この3年の間に内部ではReactのベストプラクティスがたくさん蓄積されました。",
+      "title": "🔥 🔥 🔥 Reactコンポーネントの繰り返しレンダリングを避けるためのこれらの手段をすべて知っていますか？"
+    },
+    {
+      "locale": "zh",
+      "description": "使用React已经有三年了，在这三年里面也沉淀了很多的最佳实践。",
+      "title": "🔥 🔥 你知道所有这些避免重复渲染React组件的手段吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用React已經有三年了，在這三年裏面也沉澱了很多的最佳實踐。",
+      "title": "🔥 🔥 你知道所有這些避免重複渲染React組件的手段嗎？"
+    }
+  ]
 }

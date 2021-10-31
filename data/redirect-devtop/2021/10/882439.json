@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-31T01:19:28Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zZKBz_CE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zibj168e2c9xsdlojexh.png",
   "author": "sgoulas",
-  "author_url": "https://dev.to/sgoulas"
+  "author_url": "https://dev.to/sgoulas",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "tl;dr 私は個人的なプロジェクトを完成させたので、それを共有したいと思います：プロジェクトのリポジトリ 皆さん、こんにちは。",
+      "title": "ECサイトを一から作り、5ヶ月間の開発日記をつけた"
+    },
+    {
+      "locale": "zh",
+      "description": "tl;dr 我完成了一个个人项目，我想与大家分享： 项目库 大家好，我...",
+      "title": "我从零开始创建了一个电子商务网站，并在5个月的时间里记录了开发日记。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "tl;dr 我完成了一個個人項目，我想與大家分享： 項目庫 大家好，我...",
+      "title": "我從零開始創建了一個電子商務網站，並在5個月的時間裏記錄了開發日記。"
+    }
+  ]
 }
