@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "コインベースのユーザーが偽通知の詐欺に引っかかり、10分以内に1160万円を失った。セキュリティは誰にでも当てはまります。"
+    },
+    {
+      "locale": "zh",
+      "title": "一名Coinbase用户在上当受骗后，在不到10分钟内损失了1160万美元。安全适用于每个人。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一名Coinbase用戶在上當受騙後，在不到10分鐘內損失了1160萬美元。安全適用於每個人。"
+    }
+  ]
 }
