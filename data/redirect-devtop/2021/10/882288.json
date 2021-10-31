@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-30T18:47:36Z",
   "image": "https://dev.to/social_previews/article/882288.png",
   "author": "rrtutors",
-  "author_url": "https://dev.to/rrtutors"
+  "author_url": "https://dev.to/rrtutors",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "基本的なpythonプログラミング、条件や...のような多くのトピックに関する様々なpythonプログラムがあります。",
+      "title": "初心者のための99のPythonプログラム"
+    },
+    {
+      "locale": "zh",
+      "description": "可以有各种python程序，涉及许多主题，如基本的python编程、条件和...",
+      "title": "99个适合初学者的Python程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "可以有各種python程序，涉及許多主題，如基本的python編程、條件和...",
+      "title": "99個適合初學者的Python程序"
+    }
+  ]
 }
