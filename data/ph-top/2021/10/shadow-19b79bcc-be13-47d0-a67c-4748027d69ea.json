@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-30T07:00:00Z"
+  "original_createdAt": "2021-10-30T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Shadowは、モダンで軽量かつクリーンなユーザーインターフェースと、邪魔にならずにポッドキャストを楽しめる小さな機能（SharePlayなど）を提供することを目指しています。",
+      "tagline": "iOSのSharePlayを使った最小限のポッドキャストアプリ"
+    },
+    {
+      "locale": "zh",
+      "description": "Shadow旨在提供一个现代的、轻量级的、简洁的用户界面，并有一套小的功能（包括SharePlay），使你能够享受播客而不妨碍你。",
+      "tagline": "在iOS上使用SharePlay的极简播客应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Shadow旨在提供一個現代的、輕量級的、簡潔的用戶界面，並有一套小的功能（包括SharePlay），使你能夠享受播客而不妨礙你。",
+      "tagline": "在iOS上使用SharePlay的極簡播客應用程序"
+    }
+  ]
 }
