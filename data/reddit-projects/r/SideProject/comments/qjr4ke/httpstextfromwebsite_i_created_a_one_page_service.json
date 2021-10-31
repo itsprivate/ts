@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "https://textfrom.website - ウェブページからテキストを抽出する1ページのサービスを作ってみました。ウェブサイトによっては、コンテンツを読むために登録を強制される場合に便利です。ご意見・ご感想をお待ちしております。"
+    },
+    {
+      "locale": "zh",
+      "title": "https://textfrom.website - 我创建了一个从网页中提取文本的单页服务。当一些网站强迫你注册以阅读内容时，这很有用。欢迎任何反馈。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "https://textfrom.website - 我創建了一個從網頁中提取文本的單頁服務。當一些網站強迫你註冊以閱讀內容時，這很有用。歡迎任何反饋。"
+    }
+  ]
 }
