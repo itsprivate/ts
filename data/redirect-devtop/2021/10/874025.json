@@ -52,5 +52,22 @@
   "original_created_at": "2021-10-24T03:00:37Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mh5FZwF0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/423ed06xjthgyfdipq2u.png",
   "author": "Vikas yadav",
-  "author_url": "https://dev.to/thejsdeveloper"
+  "author_url": "https://dev.to/thejsdeveloper",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "数年前に受けたインタビューを思い出しました。と聞かれました。   ある物体が与えられ、どのようにしてその物体を追跡することができるか。",
+      "title": "JavaScript Jungle: プロキシとは？"
+    },
+    {
+      "locale": "zh",
+      "description": "我记得几年前的一次面试。有人问我。   给定一个物体，我们如何能跟踪...",
+      "title": "JavaScript丛林。谁是代理 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我記得幾年前的一次面試。有人問我。   給定一個物體，我們如何能跟蹤...",
+      "title": "JavaScript叢林。誰是代理 "
+    }
+  ]
 }
