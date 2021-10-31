@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "サルモネラ菌の大流行を止められなかったアメリカの食品安全システム。いまだに人々を病気にしています。"
+    },
+    {
+      "locale": "zh",
+      "title": "美国的食品安全体系没能阻止沙门氏菌的流行。它仍在使人们生病。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "美國的食品安全體系沒能阻止沙門氏菌的流行。它仍在使人們生病。"
+    }
+  ]
 }
