@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-29T10:41:02Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--S1vfoqqL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eqeqrkq66l0czl2llxxy.png",
   "author": "Seth Addo",
-  "author_url": "https://dev.to/seths10"
+  "author_url": "https://dev.to/seths10",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "どのような画面サイズでもコンテンツがきれいに見えるようなデザインができるかどうかは、とても重要です。",
+      "title": "CSSメディアクエリによるレスポンシブデザイン"
+    },
+    {
+      "locale": "zh",
+      "description": "能够设计一个网站，其内容在所有屏幕尺寸上看起来都很好，这是非常重要的。",
+      "title": "使用CSS媒体查询的响应式设计"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "能夠設計一個網站，其內容在所有屏幕尺寸上看起來都很好，這是非常重要的。",
+      "title": "使用CSS媒體查詢的響應式設計"
+    }
+  ]
 }
