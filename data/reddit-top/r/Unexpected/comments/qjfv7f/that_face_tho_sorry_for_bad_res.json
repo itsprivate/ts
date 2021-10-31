@@ -91,5 +91,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "その顔 .... (画質が悪くてすみません)"
+    },
+    {
+      "locale": "zh",
+      "title": "那张脸.... (对不起，分辨率不好)"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "那張臉.... (對不起，分辨率不好)"
+    }
+  ]
 }
