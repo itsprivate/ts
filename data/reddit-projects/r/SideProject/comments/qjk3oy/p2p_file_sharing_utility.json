@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "I created https://dropall.stream/ as a universal simple p2p files sharing\nservice. Think something like airdrop but universal to any device.\n\nMy goal was to make a service where anyone could share a file in not more than 3\nclicks. There are no file limits, data is transferred from peer to peer…"
+  "the_new_excerpt": "I created https://dropall.stream/ as a universal simple p2p files sharing\nservice. Think something like airdrop but universal to any device.\n\nMy goal was to make a service where anyone could share a file in not more than 3\nclicks. There are no file limits, data is transferred from peer to peer…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "https://dropall.stream/ は、普遍的でシンプルなP2Pファイル共有サービスとして作りました。\nサービスです。Airdropのようなものですが、どんなデバイスにも対応しています。\n\n私の目標は、誰もが3クリック以内でファイルを共有できるサービスを作ることでした。\nクリックするだけでファイルを共有できるサービスを目指しました。ファイルの制限はなく、データはピアからピアへと転送されます...",
+      "title": "P2Pファイル共有ユーティリティ"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我创建了https://dropall.stream/，作为一个通用的简单P2P文件共享\n服务。想想像airdrop一样的东西，但对任何设备都通用。\n\n我的目标是建立一个服务，任何人都可以在不超过3次点击的情况下分享文件。\n点击。没有文件限制，数据从点对点传输...",
+      "title": "P2P文件共享工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我創建了https://dropall.stream/，作爲一個通用的簡單P2P文件共享\n服務。想想像airdrop一樣的東西，但對任何設備都通用。\n\n我的目標是建立一個服務，任何人都可以在不超過3次點擊的情況下分享文件。\n點擊。沒有文件限制，數據從點對點傳輸...",
+      "title": "P2P文件共享工具"
+    }
+  ]
 }
