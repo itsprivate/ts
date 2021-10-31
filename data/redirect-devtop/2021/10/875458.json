@@ -48,5 +48,22 @@
   "original_created_at": "2021-10-25T13:26:55Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Jw_Xk1j1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1600995616866-d2dc0215774a%3Fixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26ixlib%3Drb-1.2.1%26auto%3Dformat%26fit%3Dcrop%26w%3D1740%26q%3D80",
   "author": "jen chan",
-  "author_url": "https://dev.to/jenc"
+  "author_url": "https://dev.to/jenc",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "トランクベースの開発やアジャイル開発では、ノイズの多いコミットを最小限にして、あらゆる可能性を...",
+      "title": "マージコミットを防ぐためのGit Rebase"
+    },
+    {
+      "locale": "zh",
+      "description": "在基于主干的开发或敏捷开发中，尽量减少噪音提交的数量，以保持任何可能的...",
+      "title": "防止合并提交的Git Rebase"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在基於主幹的開發或敏捷開發中，儘量減少噪音提交的數量，以保持任何可能的...",
+      "title": "防止合併提交的Git Rebase"
+    }
+  ]
 }

@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-10-31T07:42:05Z"
+  "original_createdAt": "2021-10-31T07:42:05Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "KattebはAIを搭載したライティングパートナーで、あなたがより良い文章を書けるようにサポートしてくれます。あなたの考えをまとめて、クリエイティブになりましょう",
+      "tagline": "AIを活用した1クリックコピーライティングツール"
+    },
+    {
+      "locale": "zh",
+      "description": "Katteb是一个由人工智能驱动的写作伙伴，可以帮助你更好地写作。 汇编你的想法，并进行创意!",
+      "tagline": "由AI驱动的一键式文案写作工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Katteb是一個由人工智能驅動的寫作夥伴，可以幫助你更好地寫作。 彙編你的想法，並進行創意!",
+      "tagline": "由AI驅動的一鍵式文案寫作工具"
+    }
+  ]
 }
