@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Covid-19による米国での死亡者数は、40年間でHIV/エイズによる死亡者数を上回っている。"
+    },
+    {
+      "locale": "zh",
+      "title": "Covid-19在美国造成的死亡人数比HIV/AIDS在40年内造成的死亡人数还要多"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Covid-19在美國造成的死亡人數比HIV/AIDS在40年內造成的死亡人數還要多"
+    }
+  ]
 }
