@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-29T08:31:56Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3PA_JJ75--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gbrfc93ks51y5ar4l28b.jpeg",
   "author": "Paul Dunz",
-  "author_url": "https://dev.to/pauld103"
+  "author_url": "https://dev.to/pauld103",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "初心者にとって、新しいことを始めるのは大変なことです。どこから始めればいいのか、何をすればいいのか、何をすればいいのかわからない。",
+      "title": "FRONT-END DEVELOPMENTを初心者から学ぶ！👨🏻💻。"
+    },
+    {
+      "locale": "zh",
+      "description": "作为一个初学者，开始并追随一个新的激情总是很困难的。你不知道从哪里开始，也不知道该怎么做。",
+      "title": "作为一个初学者学习前端开发！👨🏻💻"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "作爲一個初學者，開始並追隨一個新的激情總是很困難的。你不知道從哪裏開始，也不知道該怎麼做。",
+      "title": "作爲一個初學者學習前端開發！👨🏻💻"
+    }
+  ]
 }

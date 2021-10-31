@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Feel free to rant in the comments<3"
+  "the_new_excerpt": "Feel free to rant in the comments<3",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "コメント欄でのご意見・ご感想をお待ちしています<3",
+      "title": "誰かと付き合う前に、その人のことを知っておけばよかったと思うことはありますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "请在评论中自由咆哮<3",
+      "title": "在与某人交往之前，你希望对其了解的一件事是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "請在評論中自由咆哮<3",
+      "title": "在與某人交往之前，你希望對其瞭解的一件事是什麼？"
+    }
+  ]
 }
