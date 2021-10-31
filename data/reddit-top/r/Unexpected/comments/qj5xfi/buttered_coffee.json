@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "バター入りコーヒー"
+    },
+    {
+      "locale": "zh",
+      "title": "黄油咖啡"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "黃油咖啡"
+    }
+  ]
 }
