@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-23T05:23:55Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NGfqLR3R--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z4x368soorc6q3cnmm2j.png",
   "author": "Mark A",
-  "author_url": "https://dev.to/macmacky"
+  "author_url": "https://dev.to/macmacky",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Hi Guys Good Day!   今日は、この2つの技術を使って、Rest APIを作ってみましょう。あなたは...",
+      "title": "ExpressでTypeScriptを使いこなす"
+    },
+    {
+      "locale": "zh",
+      "description": "嗨，伙计们，今天好！我是一个很好的朋友。  今天，我们将使用这两种技术制作一个Rest API。你可以...",
+      "title": "使用Express更好地使用TypeScript"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嗨，夥計們，今天好！我是一個很好的朋友。  今天，我們將使用這兩種技術製作一個Rest API。你可以...",
+      "title": "使用Express更好地使用TypeScript"
+    }
+  ]
 }
