@@ -43,5 +43,22 @@
   "original_created_at": "2021-10-28T12:07:15Z",
   "image": "https://dev.to/social_previews/article/879716.png",
   "author": "Jeremy Dorn",
-  "author_url": "https://dev.to/jdorn"
+  "author_url": "https://dev.to/jdorn",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Javascriptでは、Promise.allを使うことで、たくさんのPromiseを並列に実行し、その結果の配列を得ることができます。",
+      "title": "Promise.allにご注意ください。"
+    },
+    {
+      "locale": "zh",
+      "description": "在Javascript中，Promise.all可以让你并行地执行一堆承诺，并获得一个数组。",
+      "title": "当心Promise.all"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在Javascript中，Promise.all可以讓你並行地執行一堆承諾，並獲得一個數組。",
+      "title": "當心Promise.all"
+    }
+  ]
 }
