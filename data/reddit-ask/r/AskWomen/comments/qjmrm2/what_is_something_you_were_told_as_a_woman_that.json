@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "女性として、自分が小さいと感じたり、劣等感を持ったりするようなことを言われたことはありますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "作为一个女人，有人告诉你什么事情让你感到渺小和/或自卑？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "作爲一個女人，有人告訴你什麼事情讓你感到渺小和/或自卑？"
+    }
+  ]
 }
