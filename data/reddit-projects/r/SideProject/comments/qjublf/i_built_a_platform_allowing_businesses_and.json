@@ -57,5 +57,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Hello there Reddit!\n\nI just wanted to share with you a product I've been working on for a while. The\nproduct is called GetMyMfa and is accessible at https://get.mymfa.io. The\nobjective of this project is to allow organizations to safely and easily share\nMulti-Factor Authentication codes for their…"
+  "the_new_excerpt": "Hello there Reddit!\n\nI just wanted to share with you a product I've been working on for a while. The\nproduct is called GetMyMfa and is accessible at https://get.mymfa.io. The\nobjective of this project is to allow organizations to safely and easily share\nMulti-Factor Authentication codes for their…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "Redditの皆さん、こんにちは。\n\n私が以前から取り組んでいる製品を皆さんにご紹介したいと思います。その\nGetMyMfaという製品で、 https://get.mymfa.io からアクセスできます。\nこのプロジェクトの目的は、組織が安全かつ簡単にMFAを共有できるようにすることです。\n多要素認証のコードを安全かつ簡単に共有できるようにすることです...",
+      "title": "企業や個人がSMS多要素認証コードを共有できるプラットフォームを構築しました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你好，Reddit!\n\n我只是想与你分享我已经工作了一段时间的产品。该产品名为 \"GetMyMfa\"，可通过。\n该产品被称为GetMyMfa，可在https://get.mymfa.io。\n这个项目的目的是允许组织安全和容易地分享\n多因素认证代码，为他们的...",
+      "title": "我建立了一个平台，允许企业和个人分享短信多因素验证码"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你好，Reddit!\n\n我只是想與你分享我已經工作了一段時間的產品。該產品名爲 \"GetMyMfa\"，可通過。\n該產品被稱爲GetMyMfa，可在https://get.mymfa.io。\n這個項目的目的是允許組織安全和容易地分享\n多因素認證代碼，爲他們的...",
+      "title": "我建立了一個平臺，允許企業和個人分享短信多因素驗證碼"
+    }
+  ]
 }

@@ -14,5 +14,19 @@
   "tags": [
     "Fox News"
   ],
-  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/Tokyo.jpg"
+  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/Tokyo.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ジョーカーに扮した男が東京の電車で17人を刺す"
+    },
+    {
+      "locale": "zh",
+      "title": "打扮成小丑的男子在东京火车上刺伤17人"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "打扮成小丑的男子在東京火車上刺傷17人"
+    }
+  ]
 }
