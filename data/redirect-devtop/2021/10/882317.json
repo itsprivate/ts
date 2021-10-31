@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-30T20:03:02Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ahuzu3SJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s8vxmymqgzxwyxvivzoy.jpg",
   "author": "Harshita Nahta",
-  "author_url": "https://dev.to/harshitanahta"
+  "author_url": "https://dev.to/harshitanahta",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは！この忙しい世界では、カレンダーを持っていると便利な機能です。     多くのカレンダー...",
+      "title": "Vanilla JSを使ったカレンダー"
+    },
+    {
+      "locale": "zh",
+      "description": "你好！在这个繁忙的世界上，拥有一个日历往往是一个很方便的功能。     有许多日程表。",
+      "title": "使用Vanilla JS的日历"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好！在這個繁忙的世界上，擁有一個日曆往往是一個很方便的功能。     有許多日程表。",
+      "title": "使用Vanilla JS的日曆"
+    }
+  ]
 }
