@@ -52,5 +52,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Excited to share my first product, a powerful Google Meet <> Slack integration.\n\nSimply generate Google Meets by using /meet command in any DM, group or channel.\n\n🚀 Google Meet links will open with the correct Google Account (selected when\nfirst using the app). This means you no longer have to…"
+  "the_new_excerpt": "Excited to share my first product, a powerful Google Meet <> Slack integration.\n\nSimply generate Google Meets by using /meet command in any DM, group or channel.\n\n🚀 Google Meet links will open with the correct Google Account (selected when\nfirst using the app). This means you no longer have to…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私の最初の製品、Google Meet <> Slackの強力な統合を紹介できることを嬉しく思います。\n\nDM、グループ、チャンネルで/meetコマンドを使ってGoogle Meetを生成します。\n\n🚀 Google Meetのリンクは、正しいGoogleアカウントで開きます（アプリを最初に使用する際に選択されます）。\nアプリを最初に使用したときに選択されています）。) これにより、あなたはもう...する必要はありません。",
+      "title": "/meet 4 Slack"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "很高兴分享我的第一个产品，一个强大的Google Meet <> Slack集成。\n\n只需在任何DM、群组或频道中使用/meet命令即可生成Google Meet。\n\n🚀 Google Meet链接将以正确的Google账户打开（在第一次使用应用程序时选择）。\n第一次使用该应用程序时选择的）。) 这意味着你不再需要...",
+      "title": "/meet 4 Slack"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "很高興分享我的第一個產品，一個強大的Google Meet <> Slack集成。\n\n只需在任何DM、羣組或頻道中使用/meet命令即可生成Google Meet。\n\n🚀 Google Meet鏈接將以正確的Google賬戶打開（在第一次使用應用程序時選擇）。\n第一次使用該應用程序時選擇的）。) 這意味着你不再需要...",
+      "title": "/meet 4 Slack"
+    }
+  ]
 }
