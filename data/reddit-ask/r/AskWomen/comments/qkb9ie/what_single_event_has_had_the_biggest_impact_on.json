@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今のあなたに最も大きな影響を与えた出来事は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "什么单一事件对你的身份产生了最大的影响？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "什麼單一事件對你的身份產生了最大的影響？"
+    }
+  ]
 }
