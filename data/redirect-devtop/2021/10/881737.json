@@ -43,5 +43,22 @@
   "original_created_at": "2021-10-30T05:47:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DPPRrywM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3r5encpmz15hf0qpvsqf.jpeg",
   "author": "Ayebidun Ezekiel",
-  "author_url": "https://dev.to/ezekiel8807"
+  "author_url": "https://dev.to/ezekiel8807",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは👋 今日は、JavaScriptを使って認証コードを生成する方法をお教えします...",
+      "title": "JavaScriptのfunction()を使ったコードジェネレータ"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好👋，今天我将教大家如何用JavaScript生成一个验证码。",
+      "title": "带有JavaScript函数()的代码生成器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好👋，今天我將教大家如何用JavaScript生成一個驗證碼。",
+      "title": "帶有JavaScript函數()的代碼生成器"
+    }
+  ]
 }
