@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Is it cheaper to produce or is there a more complicated reason for its\npopularity?"
+  "the_new_excerpt": "Is it cheaper to produce or is there a more complicated reason for its\npopularity?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "生産コストが安いのか、それとももっと複雑な理由があるのか。\n人気があるのは",
+      "title": "ペンの色として「青」が主流になったのはいつ、なぜでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "是生产成本较低，还是有更复杂的原因使其受欢迎？\n喜爱？",
+      "title": "什么时候以及为什么 \"蓝色 \"成为钢笔的主要颜色？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "是生產成本較低，還是有更復雜的原因使其受歡迎？\n喜愛？",
+      "title": "什麼時候以及爲什麼 \"藍色 \"成爲鋼筆的主要顏色？"
+    }
+  ]
 }
