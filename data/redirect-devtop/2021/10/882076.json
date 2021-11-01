@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-30T13:20:51Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pwscuMhz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s29mvpbggu3i5lf8v02t.png",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "オープンソースのDjangoウェブサイトテンプレートは、モダンなBootstrap 5デザインであるMaterial Kit Designの上に作られています。",
+      "title": "ジャンゴのウェブサイトテンプレート - マテリアルキット（Bootstrap 5"
+    },
+    {
+      "locale": "zh",
+      "description": "开源的Django网站模板，在Material Kit Design的基础上精心制作，是现代Bootstrap 5设计。",
+      "title": "Django网站模板 - Material Kit (Bootstrap 5)"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "開源的Django網站模板，在Material Kit Design的基礎上精心製作，是現代Bootstrap 5設計。",
+      "title": "Django網站模板 - Material Kit (Bootstrap 5)"
+    }
+  ]
 }
