@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "すべてのPを持つキーボード"
+    },
+    {
+      "locale": "zh",
+      "title": "键盘上有所有的P"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "鍵盤上有所有的P"
+    }
+  ]
 }
