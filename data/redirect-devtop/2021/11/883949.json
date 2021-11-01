@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-01T12:59:29Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--D0J8YGBI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mpy6ts3zmvij3rm61sx5.jpg",
   "author": "Abhinav Pandey",
-  "author_url": "https://dev.to/abh1navv"
+  "author_url": "https://dev.to/abh1navv",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ソフトウェアアーキテクチャの進化において、ルースカップリングは中心的な役割を果たしてきました。そこには...",
+      "title": "六角形の建築"
+    },
+    {
+      "locale": "zh",
+      "description": "在软件架构的演变中，松散耦合一直处于中心位置。有一个...",
+      "title": "六角形结构"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在軟件架構的演變中，鬆散耦合一直處於中心位置。有一個...",
+      "title": "六角形結構"
+    }
+  ]
 }
