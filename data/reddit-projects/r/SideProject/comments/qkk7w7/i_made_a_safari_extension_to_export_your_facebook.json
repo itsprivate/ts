@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "facebookの誕生日をエクスポートするSafariの拡張機能を作ったので、最終的にFBを削除することができます。"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个Safari扩展，可以导出你的Facebook生日，所以你终于可以删除FB了。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個Safari擴展，可以導出你的Facebook生日，所以你終於可以刪除FB了。"
+    }
+  ]
 }
