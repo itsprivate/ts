@@ -11,5 +11,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "初心者の方には、決して自分のキーフレーズを教えてはいけないことをお知らせします。"
+    },
+    {
+      "locale": "zh",
+      "title": "友好提醒新手，千万不要把你的关键短语说出来，想 \"帮忙 \"的DM几乎都是骗局。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "友好提醒新手，千萬不要把你的關鍵短語說出來，想 \"幫忙 \"的DM幾乎都是騙局。"
+    }
+  ]
 }
