@@ -11,5 +11,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "https://scammy.is - 私は、異なるソースからのデータをマージして、ウェブサイトが「詐欺的」であるかどうかをチェックする1ページのサービスを作りました。フィードバックをお待ちしています :)"
+    },
+    {
+      "locale": "zh",
+      "title": "https://scammy.is - 我创建了一个单页服务，以检查一个网站是否是 \"骗人的\"，合并来自不同来源的数据。欢迎任何反馈 :)"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "https://scammy.is - 我創建了一個單頁服務，以檢查一個網站是否是 \"騙人的\"，合併來自不同來源的數據。歡迎任何反饋 :)"
+    }
+  ]
 }

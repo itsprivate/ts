@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Title"
+  "the_new_excerpt": "Title",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "タイトル",
+      "title": "dndのゲームのように感じられる本"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "标题",
+      "title": "感觉像dnd游戏的书"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "標題",
+      "title": "感覺像dnd遊戲的書"
+    }
+  ]
 }
