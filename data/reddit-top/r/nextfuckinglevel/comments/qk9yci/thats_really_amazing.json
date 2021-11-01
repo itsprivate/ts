@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "それは本当に素晴らしいことです。"
+    },
+    {
+      "locale": "zh",
+      "title": "这真的很惊人"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這真的很驚人"
+    }
+  ]
 }
