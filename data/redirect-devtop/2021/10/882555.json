@@ -50,5 +50,22 @@
   "original_created_at": "2021-10-31T03:45:57Z",
   "image": "https://dev.to/social_previews/article/882555.png",
   "author": "Siddharth",
-  "author_url": "https://dev.to/siddharthshyniben"
+  "author_url": "https://dev.to/siddharthshyniben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "デバッグ中に console.log や console.warn を使うこともあるでしょう。しかし、他にもたくさんの...",
+      "title": "7 console.log() オルタナティブ"
+    },
+    {
+      "locale": "zh",
+      "description": "有时在调试的时候，你可能会使用console.log或者是console.warning。但是还有很多...",
+      "title": "7 console.log() alternatives"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有時在調試的時候，你可能會使用console.log或者是console.warning。但是還有很多...",
+      "title": "7 console.log() alternatives"
+    }
+  ]
 }
