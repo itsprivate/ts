@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "持っていないものはありますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你拥有的什么东西不够多？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你擁有的什麼東西不夠多？"
+    }
+  ]
 }
