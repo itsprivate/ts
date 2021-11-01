@@ -50,5 +50,22 @@
   "original_created_at": "2021-10-31T09:50:37Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ygTyyRZI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dkl9yy7j32lx06pt8z8v.png",
   "author": "Temani Afif",
-  "author_url": "https://dev.to/afif"
+  "author_url": "https://dev.to/afif",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "初めてのCSSドローイングに続き、今回はCSSアートをご紹介します。今回、私は31日間、CSSマスターと一緒に過ごしました。",
+      "title": "31枚のシングルDIVイラスト - DIVtober コレクション "
+    },
+    {
+      "locale": "zh",
+      "description": "在我第一次画完CSS之后，我在这里又画了一些CSS艺术。这一次，我花了31天时间与CSS大师在一起...",
+      "title": "31张单一的DIV插图--DIVtober系列 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在我第一次畫完CSS之後，我在這裏又畫了一些CSS藝術。這一次，我花了31天時間與CSS大師在一起...",
+      "title": "31張單一的DIV插圖--DIVtober系列 "
+    }
+  ]
 }
