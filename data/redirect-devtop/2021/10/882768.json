@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-31T09:21:03Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Umftw386--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yhuv8p7jgor3adcawx8h.png",
   "author": "Jatin Sharma",
-  "author_url": "https://dev.to/j471n"
+  "author_url": "https://dev.to/j471n",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、Herokuサーバーを生涯にわたって無料で運用する方法についてご紹介します。そう...",
+      "title": "無料でHerokuサーバーのスリープを防ぐ"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我将告诉你，你如何能够终身免费运行Heroku服务器。那么...",
+      "title": "免费防止Heroku服务器休眠"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我將告訴你，你如何能夠終身免費運行Heroku服務器。那麼...",
+      "title": "免費防止Heroku服務器休眠"
+    }
+  ]
 }
