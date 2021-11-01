@@ -14,5 +14,19 @@
   "tags": [
     "Fox News"
   ],
-  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/11/COVIDdoctor.jpg"
+  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/11/COVIDdoctor.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "COVID-19による死亡者数が世界で500万人に達する"
+    },
+    {
+      "locale": "zh",
+      "title": "全球COVID-19死亡人数达到500万"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "全球COVID-19死亡人數達到500萬"
+    }
+  ]
 }
