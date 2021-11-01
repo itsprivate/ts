@@ -11,5 +11,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Nano Ledgerを使ったことがある人はいますか？あなたの意見では、どちらがいいですか？1. Nano S または 2. あるいは、もっと安全なハードウェアウォレットがあれば、ぜひ教えてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "有谁曾经使用过Nano Ledger吗？在你看来，你更喜欢哪一个？1. Nano S或2. 或者如果有更安全的硬件钱包，请告诉我。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有誰曾經使用過Nano Ledger嗎？在你看來，你更喜歡哪一個？1. Nano S或2. 或者如果有更安全的硬件錢包，請告訴我。"
+    }
+  ]
 }
