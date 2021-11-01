@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "株式の財務データを並べて比較するサイトを作りました。米国、英国、カナダ、オーストラリア、インドの各市場の株式を含みます。(stockcomparer.com)"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个网站，对股票财务数据进行并列比较。包括美国、英国、加拿大、澳大利亚和印度市场的股票。(stockcomparer.com)"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個網站，對股票財務數據進行並列比較。包括美國、英國、加拿大、澳大利亞和印度市場的股票。(stockcomparer.com)"
+    }
+  ]
 }
