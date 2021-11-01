@@ -42,5 +42,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] この1ヶ月で最も受賞したトップポスト"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]过去一个月获奖最多的帖子"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]過去一個月獲獎最多的帖子"
+    }
+  ]
 }
