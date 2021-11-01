@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-01T07:00:00Z"
+  "original_createdAt": "2021-11-01T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Raspberry Pi Zero 2 Wは、さまざまなスマートホームアプリケーションやその他のIoTプロジェクトに最適です。",
+      "tagline": "あなたの小さな小さな15ドルのコンピュータ"
+    },
+    {
+      "locale": "zh",
+      "description": "Raspberry Pi Zero 2 W是一系列智能家居应用和其他物联网项目的完美选择。",
+      "tagline": "你那小小的、小小的15美元的电脑"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Raspberry Pi Zero 2 W是一系列智能家居應用和其他物聯網項目的完美選擇。",
+      "tagline": "你那小小的、小小的15美元的電腦"
+    }
+  ]
 }
