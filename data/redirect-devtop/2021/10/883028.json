@@ -35,5 +35,22 @@
   "original_created_at": "2021-10-31T16:05:30Z",
   "image": "https://dev.to/social_previews/article/883028.png",
   "author": "John",
-  "author_url": "https://dev.to/jdj"
+  "author_url": "https://dev.to/jdj",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "新しいプログラミング言語を学ぶには、プロジェクトを作るのが一番です。 私は、40のプロジェクトのリストを作成しました。",
+      "title": "初心者のための40+ JavaScriptプロジェクト - JSのコーディングを始めるための簡単なアイデア【初級～上級編"
+    },
+    {
+      "locale": "zh",
+      "description": "学习一种新的编程语言的最好方法是建立项目。 我已经创建了一个40个项目的清单。",
+      "title": "40多个JavaScript初学者项目--开始编码JS的简单想法[初级-高级]"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "學習一種新的編程語言的最好方法是建立項目。 我已經創建了一個40個項目的清單。",
+      "title": "40多個JavaScript初學者項目--開始編碼JS的簡單想法[初級-高級]"
+    }
+  ]
 }
