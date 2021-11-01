@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Thanks"
+  "the_new_excerpt": "Thanks",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ありがとうございます。",
+      "title": "神の存在を示す最良の論拠は何か？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "谢谢",
+      "title": "证明上帝存在的最佳论据是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "謝謝",
+      "title": "證明上帝存在的最佳論據是什麼？"
+    }
+  ]
 }
