@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビデオ編集では、人生には道がある。"
+    },
+    {
+      "locale": "zh",
+      "title": "在视频编辑中......生活会找到一种方式。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在視頻編輯中......生活會找到一種方式。"
+    }
+  ]
 }

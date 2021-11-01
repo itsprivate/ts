@@ -43,5 +43,22 @@
   "original_created_at": "2021-10-30T03:57:19Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--h7Wu2A9r--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nmf0olo2g3nbqv4s5to3.png",
   "author": "Kayode",
-  "author_url": "https://dev.to/zt4ff_1"
+  "author_url": "https://dev.to/zt4ff_1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "cronコマンドラインユーティリティーは、cronジョブとも呼ばれ、Unix系OSのジョブスケジューラーです。",
+      "title": "NodeJSでのcronジョブによるタスクのスケジューリング"
+    },
+    {
+      "locale": "zh",
+      "description": "cron命令行工具，也被称为cron job，是Unix-like操作系统上的一个工作调度器。",
+      "title": "用cron job在NodeJS中调度任务"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "cron命令行工具，也被稱爲cron job，是Unix-like操作系統上的一個工作調度器。",
+      "title": "用cron job在NodeJS中調度任務"
+    }
+  ]
 }
