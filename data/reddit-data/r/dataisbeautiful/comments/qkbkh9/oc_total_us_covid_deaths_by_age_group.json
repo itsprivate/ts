@@ -64,5 +64,19 @@
     }
   },
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] 米国におけるCOVIDによる死亡者数：年齢層別"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]按年龄组划分的美国COVID死亡总数"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]按年齡組劃分的美國COVID死亡總數"
+    }
+  ]
 }
