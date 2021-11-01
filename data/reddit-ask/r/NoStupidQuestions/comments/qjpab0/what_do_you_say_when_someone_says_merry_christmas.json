@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Do you say thanks"
+  "the_new_excerpt": "Do you say thanks",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "感謝の気持ちを伝えていますか？",
+      "title": "メリークリスマスと言われたら何と答えますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你会说谢谢吗？",
+      "title": "当有人说圣诞快乐的时候，你会说什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你會說謝謝嗎？",
+      "title": "當有人說聖誕快樂的時候，你會說什麼？"
+    }
+  ]
 }

@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが自分の体に言いたいことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你希望对你的身体说些什么呢？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你希望對你的身體說些什麼呢？"
+    }
+  ]
 }
