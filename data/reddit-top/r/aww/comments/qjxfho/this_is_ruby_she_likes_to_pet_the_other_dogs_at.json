@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これはルビーです。彼女はデイケアの他の犬たちを撫でるのが好きです。"
+    },
+    {
+      "locale": "zh",
+      "title": "这就是鲁比。她喜欢抚摸托儿所里的其他狗。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這就是魯比。她喜歡撫摸託兒所裏的其他狗。"
+    }
+  ]
 }
