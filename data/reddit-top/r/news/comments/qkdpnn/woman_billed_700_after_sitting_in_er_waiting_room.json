@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ERの待合室で7時間待たされ、治療を受けずに帰った女性が700ドルを請求される"
+    },
+    {
+      "locale": "zh",
+      "title": "女子在急诊室等候7小时后，没有得到治疗就离开，被要求支付700美元的费用"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "女子在急診室等候7小時後，沒有得到治療就離開，被要求支付700美元的費用"
+    }
+  ]
 }
