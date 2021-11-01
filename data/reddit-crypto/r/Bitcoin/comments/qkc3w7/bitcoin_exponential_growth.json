@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインの指数関数的成長"
+    },
+    {
+      "locale": "zh",
+      "title": "比特币的指数式增长"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比特幣的指數式增長"
+    }
+  ]
 }
