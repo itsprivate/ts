@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-01T07:05:07Z"
+  "original_createdAt": "2021-11-01T07:05:07Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "MindfulTabは、ページが読み込まれるのを待つ間、呼吸をすることを思い出させてくれるクロームの拡張機能です。",
+      "tagline": "ページが読み込まれるまでの間、呼吸を整える"
+    },
+    {
+      "locale": "zh",
+      "description": "MindfulTab是一个chrome扩展，在你等待页面加载时提醒你呼吸。",
+      "tagline": "在等待页面加载时呼吸"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "MindfulTab是一個chrome擴展，在你等待頁面加載時提醒你呼吸。",
+      "tagline": "在等待頁面加載時呼吸"
+    }
+  ]
 }
