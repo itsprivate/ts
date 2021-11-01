@@ -43,5 +43,22 @@
   "original_created_at": "2021-10-31T08:45:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Pdz2qSH8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yri5rpcr282opymfzg8k.jpg",
   "author": "Abdullah Alhariri",
-  "author_url": "https://dev.to/abdullah_alhariri"
+  "author_url": "https://dev.to/abdullah_alhariri",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "プログラマーとは、ただ単にコンピュータに向かって作業をするだけではありません。",
+      "title": "優秀なプログラマーの秘密"
+    },
+    {
+      "locale": "zh",
+      "description": "作为一名程序员，需要的不仅仅是坐在电脑前寻找的简单行为。",
+      "title": "高效的程序员背后的秘密"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "作爲一名程序員，需要的不僅僅是坐在電腦前尋找的簡單行爲。",
+      "title": "高效的程序員背後的祕密"
+    }
+  ]
 }
