@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Help me?"
+  "the_new_excerpt": "Help me?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ヘルプミー？",
+      "title": "スライスされたパンは1928年に発明されたとされていますが、記録に残る最初のサンドイッチは1762年に作られたとされています。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "帮助我？",
+      "title": "如何声称切片面包是在1928年发明的，但有记录的第一个三明治却是在1762年制作的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "幫助我？",
+      "title": "如何聲稱切片面包是在1928年發明的，但有記錄的第一個三明治卻是在1762年製作的？"
+    }
+  ]
 }
