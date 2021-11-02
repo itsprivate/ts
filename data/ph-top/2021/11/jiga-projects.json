@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-02T07:08:53Z"
+  "original_createdAt": "2021-11-02T07:08:53Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Jiga Projectsは、3Dモデルのパーツにポイント＆コメント、Figmaのような機能を提供します。3Dモデルをチームで共有し、その上の特定の場所にすぐにコメントできるので、簡単にコラボレーションができます。",
+      "tagline": "3Dファイルにポイント＆コメント"
+    },
+    {
+      "locale": "zh",
+      "description": "Jiga Projects是一个类似于Figma的3D模型部件的点和评论功能。您可以轻松地与您的团队分享3D模型，并在其上的特定位置进行评论，以方便协作。",
+      "tagline": "对你的3D文件进行指点和评论"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Jiga Projects是一個類似於Figma的3D模型部件的點和評論功能。您可以輕鬆地與您的團隊分享3D模型，並在其上的特定位置進行評論，以方便協作。",
+      "tagline": "對你的3D文件進行指點和評論"
+    }
+  ]
 }
