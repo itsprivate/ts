@@ -52,5 +52,22 @@
   "original_created_at": "2021-10-31T11:41:48Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SsAqcpmE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hr1zz6ry77w3trfrj7or.png",
   "author": "Avneesh Agarwal",
-  "author_url": "https://dev.to/avneesh0612"
+  "author_url": "https://dev.to/avneesh0612",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このチュートリアルでは、Reactでカスタムビデオプレーヤーを作成する方法を紹介します。それでは...",
+      "title": "Reactでカスタムビデオプレーヤーを作成する📽️。"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，在本教程中，我们将看到如何在React中建立一个自定义的视频播放器。让我们...",
+      "title": "在React中创建一个自定义视频播放器 📽️"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，在本教程中，我們將看到如何在React中建立一個自定義的視頻播放器。讓我們...",
+      "title": "在React中創建一個自定義視頻播放器 📽️"
+    }
+  ]
 }
