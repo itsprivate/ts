@@ -67,5 +67,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-02T07:01:00Z"
+  "original_createdAt": "2021-11-02T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "WorkDoは、使いやすいドラッグ＆ドロップ式のランディングページビルダーで、スタートアップやビジネスのためのパワフルなランディングページを数分で作成することができます。",
+      "tagline": "Bootstrap 5 コンポーネントとウェブサイトビルダー"
+    },
+    {
+      "locale": "zh",
+      "description": "WorkDo是一个易于使用的拖放着陆页生成器，让你在几分钟内为你的创业公司和企业创建强大的着陆页。",
+      "tagline": "Bootstrap 5组件和网站建设者"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "WorkDo是一個易於使用的拖放着陸頁生成器，讓你在幾分鐘內爲你的創業公司和企業創建強大的着陸頁。",
+      "tagline": "Bootstrap 5組件和網站建設者"
+    }
+  ]
 }
