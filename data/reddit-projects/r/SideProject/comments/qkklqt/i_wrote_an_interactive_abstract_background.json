@@ -11,5 +11,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "level1techsの背景に触発されて、インタラクティブな抽象的背景アニメーションのWebライブラリを週末に書きました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我在一个周末写了一个交互式抽象背景动画网络库，灵感来自level1techs的背景"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我在一個週末寫了一個交互式抽象背景動畫網絡庫，靈感來自level1techs的背景"
+    }
+  ]
 }
