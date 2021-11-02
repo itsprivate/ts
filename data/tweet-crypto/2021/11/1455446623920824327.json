@@ -74,5 +74,22 @@
     "retweet_count": 1613,
     "favorite_count": 3973,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @RWMaloneMD: これはワクチンを受けていない人のパンデミックではありません。\n\nhttps://t.co/g3xmMDYuRO",
+      "retweeted_status_full_text": "これはワクチンを受けていない人のパンデミックではない\n\nhttps://t.co/g3xmMDYuRO"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @RWMaloneMD: 这不是一场未接种疫苗的大流行。\n\nhttps://t.co/g3xmMDYuRO",
+      "retweeted_status_full_text": "这不是一场未接种疫苗的大流行\n\nhttps://t.co/g3xmMDYuRO"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @RWMaloneMD: 這不是一場未接種疫苗的大流行。\n\nhttps://t.co/g3xmMDYuRO",
+      "retweeted_status_full_text": "這不是一場未接種疫苗的大流行\n\nhttps://t.co/g3xmMDYuRO"
+    }
+  ]
 }
