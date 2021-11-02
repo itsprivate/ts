@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-02T07:07:03Z"
+  "original_createdAt": "2021-11-02T07:07:03Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Please Shareは、Slack向けのコンテンツ増幅・エンゲージメントアプリです。このサービスは、従業員がLinkedInやTwitterなどのソーシャルメディアチャネルで承認された企業コンテンツを共有し、エンゲージするための簡単な方法を提供します。",
+      "tagline": "Slackのためのシンプルな従業員アドボカシー"
+    },
+    {
+      "locale": "zh",
+      "description": "Please Share是Slack的一个内容放大和参与应用。该服务为员工在LinkedIn和Twitter等社交媒体渠道上分享和参与经批准的公司内容提供了一种简单的方式。",
+      "tagline": "为Slack提供的简单的员工建议"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Please Share是Slack的一個內容放大和參與應用。該服務爲員工在LinkedIn和Twitter等社交媒體渠道上分享和參與經批准的公司內容提供了一種簡單的方式。",
+      "tagline": "爲Slack提供的簡單的員工建議"
+    }
+  ]
 }
