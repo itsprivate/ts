@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたは何歳で、今の人生で一番困っていることは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你多大了，你现在生活中最大的问题是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你多大了，你現在生活中最大的問題是什麼？"
+    }
+  ]
 }
