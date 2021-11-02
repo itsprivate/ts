@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-29T23:55:10Z",
   "image": "https://dev.to/social_previews/article/881585.png",
   "author": "Fábio M Jr",
-  "author_url": "https://dev.to/zelcion"
+  "author_url": "https://dev.to/zelcion",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "問題点 さて、ソフトウェアの開発にはコストがかかることは周知の事実であり、そのためには多くの時間が必要です。",
+      "title": "1つのJSONファイルがあなたのコードベース全体になる可能性について"
+    },
+    {
+      "locale": "zh",
+      "description": "问题是......对我们来说，开发软件是很昂贵的，而且要花很多时间。",
+      "title": "一个JSON文件如何能成为你的整个代码库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "問題是......對我們來說，開發軟件是很昂貴的，而且要花很多時間。",
+      "title": "一個JSON文件如何能成爲你的整個代碼庫"
+    }
+  ]
 }
