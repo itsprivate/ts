@@ -26,5 +26,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "収益、従業員数、ビジネスモデル、ライセンスなどでランキングされたオープンソースプロジェクトのトップ50"
+    },
+    {
+      "locale": "zh",
+      "title": "按收入、雇员人数、商业模式、许可证等排名的前50名开源项目"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "按收入、僱員人數、商業模式、許可證等排名的前50名開源項目"
+    }
+  ]
 }

@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "タイムテーブルを学ぶためのゲームを作りました（子供用、大人用"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个学习乘法表的游戏（为儿童和成人）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個學習乘法表的遊戲（爲兒童和成人）。"
+    }
+  ]
 }
