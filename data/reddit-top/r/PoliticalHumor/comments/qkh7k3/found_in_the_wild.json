@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "野生で発見"
+    },
+    {
+      "locale": "zh",
+      "title": "在野外发现"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在野外發現"
+    }
+  ]
 }
