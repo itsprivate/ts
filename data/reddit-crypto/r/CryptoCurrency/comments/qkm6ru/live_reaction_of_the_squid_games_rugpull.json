@@ -73,5 +73,19 @@
     "type": "clips.twitch.tv"
   },
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Squid Gamesのラグプルのライブリアクション"
+    },
+    {
+      "locale": "zh",
+      "title": "鱿鱼游戏的现场反应拉锯战"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "魷魚遊戲的現場反應拉鋸戰"
+    }
+  ]
 }
