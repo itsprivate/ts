@@ -52,5 +52,22 @@
   "original_created_at": "2021-11-02T19:31:24Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--b_Vada3A--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9hb63jq9wuevwrpg32va.png",
   "author": "Rizel Scarlett",
-  "author_url": "https://dev.to/blackgirlbytes"
+  "author_url": "https://dev.to/blackgirlbytes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Hacktoberは終わりましたが、だからと言って、人々にHacktoberへの貢献を奨励し続ける必要はありません。",
+      "title": "オープンソースプロジェクトに最適なREADMEを作成する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "Hacktober已经结束了，但这并不意味着我们不应该继续鼓励人们为...",
+      "title": "如何为你的开源项目创建完美的README？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Hacktober已經結束了，但這並不意味着我們不應該繼續鼓勵人們爲...",
+      "title": "如何爲你的開源項目創建完美的README？"
+    }
+  ]
 }
