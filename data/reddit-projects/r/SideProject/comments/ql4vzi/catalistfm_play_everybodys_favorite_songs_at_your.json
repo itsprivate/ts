@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "catalist.fm - みんなの好きな曲を次の集まりで流す"
+    },
+    {
+      "locale": "zh",
+      "title": "catalist.fm - 在您的下一次聚会中播放大家最喜欢的歌曲"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "catalist.fm - 在您的下一次聚會中播放大家最喜歡的歌曲"
+    }
+  ]
 }
