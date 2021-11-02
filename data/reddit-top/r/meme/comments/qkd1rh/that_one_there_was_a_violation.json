@@ -91,5 +91,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "その1つは違反があったこと"
+    },
+    {
+      "locale": "zh",
+      "title": "那一个有违反"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "那一個有違反"
+    }
+  ]
 }
