@@ -50,5 +50,22 @@
   "original_created_at": "2021-11-01T05:54:51Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vVoRnXIa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/523se5aobt7zgo6g37b2.jpg",
   "author": "Chris Bongers",
-  "author_url": "https://dev.to/dailydevtips1"
+  "author_url": "https://dev.to/dailydevtips1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、Visual Studio Codeもオンライン版のエディタを発表しました。これは、軽量の...",
+      "title": "オンラインエディターは未来のもの？"
+    },
+    {
+      "locale": "zh",
+      "description": "最近Visual Studio Code也推出了他们编辑器的在线版本。它是一个轻量级的...",
+      "title": "在线编辑是未来吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "最近Visual Studio Code也推出了他們編輯器的在線版本。它是一個輕量級的...",
+      "title": "在線編輯是未來嗎？"
+    }
+  ]
 }
