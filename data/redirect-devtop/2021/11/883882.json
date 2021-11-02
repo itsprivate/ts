@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-01T10:59:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wO_Pvgr8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://i.imgur.com/LIn8i4h.jpeg",
   "author": "Deepu K Sasidharan",
-  "author_url": "https://dev.to/deepu105"
+  "author_url": "https://dev.to/deepu105",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私の2021年のLinux開発マシンの説明",
+      "title": "2021年、私の洗練された最新のLinux開発マシン"
+    },
+    {
+      "locale": "zh",
+      "description": "我的2021年Linux开发机解释",
+      "title": "我在2021年的光滑和现代的Linux开发机器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我的2021年Linux開發機解釋",
+      "title": "我在2021年的光滑和現代的Linux開發機器"
+    }
+  ]
 }
