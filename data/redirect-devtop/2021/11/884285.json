@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-01T16:47:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--goxi97B7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/krbji0nhw5uu9yvlprid.png",
   "author": "Tabassum Khanum",
-  "author_url": "https://dev.to/codewithtee"
+  "author_url": "https://dev.to/codewithtee",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コーダーの皆さん、こんにちは。新時代のJavascriptが現代のウェブサイトの構造を変えたことは、誰もが認めるところでしょう...",
+      "title": "サーバーサイドレンダリング(SSR)とクライアントサイドレンダリング(CSR)の比較"
+    },
+    {
+      "locale": "zh",
+      "description": "嗨，编码员 我们都同意，新时代的Javascript已经改变了现代网站的结构和功能。",
+      "title": "服务器端渲染（SSR）与客户端渲染（CSR）的比较"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嗨，編碼員 我們都同意，新時代的Javascript已經改變了現代網站的結構和功能。",
+      "title": "服務器端渲染（SSR）與客戶端渲染（CSR）的比較"
+    }
+  ]
 }
