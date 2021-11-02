@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-31T13:04:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WWl2Mtwi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w5isw97987b27um9baow.png",
   "author": "Eric The Coder",
-  "author_url": "https://dev.to/ericchapman"
+  "author_url": "https://dev.to/ericchapman",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ここでは、NodeJS +...でバックエンドアプリケーションを作成できるようにするための一連の記事を紹介します。",
+      "title": "NodeJS + Express part 5: Routes and Controllers"
+    },
+    {
+      "locale": "zh",
+      "description": "这里有一系列的文章，可以让你用NodeJS+创建后端应用程序。",
+      "title": "NodeJS+Express第五部分：路由和控制器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這裏有一系列的文章，可以讓你用NodeJS+創建後端應用程序。",
+      "title": "NodeJS+Express第五部分：路由和控制器"
+    }
+  ]
 }
