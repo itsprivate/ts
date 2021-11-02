@@ -88,5 +88,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-02T07:01:00Z"
+  "original_createdAt": "2021-11-02T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Nightfall Developer Platformは、PIIや認証情報などのセンシティブなデータを分類・保護し、アプリやサービスでのデータ漏えいを防ぐためのAPI群です。データ保護のインフラはナイトフォールが担当しますので、お客様は優れた製品の開発に専念することができます。",
+      "tagline": "あらゆるアプリケーションの機密データを分類・保護するAPI"
+    },
+    {
+      "locale": "zh",
+      "description": "Nightfall开发者平台是一组API，用于分类和保护敏感数据，如PII和证书，以防止您的应用程序或服务中的数据泄漏。Nightfall负责处理数据保护的基础设施，这样您就可以专注于打造优秀的产品。",
+      "tagline": "对任何应用程序中的敏感数据进行分类和保护的API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Nightfall開發者平臺是一組API，用於分類和保護敏感數據，如PII和證書，以防止您的應用程序或服務中的數據泄漏。Nightfall負責處理數據保護的基礎設施，這樣您就可以專注於打造優秀的產品。",
+      "tagline": "對任何應用程序中的敏感數據進行分類和保護的API"
+    }
+  ]
 }

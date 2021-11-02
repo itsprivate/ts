@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "そんなことはありません。それ以外なら何でもいいよ"
+    },
+    {
+      "locale": "zh",
+      "title": "哦，不! 除了这个以外，什么都可以！"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "哦，不! 除了這個以外，什麼都可以！"
+    }
+  ]
 }
