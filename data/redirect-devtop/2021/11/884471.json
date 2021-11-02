@@ -43,5 +43,22 @@
   "original_created_at": "2021-11-01T20:22:23Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8HRCMm4X--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zydfd4josc6jbpwd7fmc.jpg",
   "author": "Ali Spittel",
-  "author_url": "https://dev.to/aspittel"
+  "author_url": "https://dev.to/aspittel",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "フロントエンド開発者 プロジェクトのために特定のタイプのデータベースを選択する理由を考えたことはありますか？",
+      "title": "クラウドとは？"
+    },
+    {
+      "locale": "zh",
+      "description": "前端开发人员! 你有没有想过，为什么要为一个项目选择某种类型的数据库，...",
+      "title": "什么是云？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "前端開發人員! 你有沒有想過，爲什麼要爲一個項目選擇某種類型的數據庫，...",
+      "title": "什麼是雲？"
+    }
+  ]
 }
