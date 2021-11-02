@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-01T19:05:19Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yE0wDqPi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8geivyj881glx2m6x81o.png",
   "author": "Christian Heilmann",
-  "author_url": "https://dev.to/codepo8"
+  "author_url": "https://dev.to/codepo8",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CityJSの講演についての詳細な記事で、コンソールのパワーヒント、開発者ツール、ブラウザ外でのツールの使用方法をカバーしています。",
+      "title": "デベロッパーツールの秘密は秘密にしてはいけない"
+    },
+    {
+      "locale": "zh",
+      "description": "一篇关于CityJS讲座的详细文章，涵盖了控制台、开发者工具和如何在浏览器之外使用工具的强大提示。",
+      "title": "开发者工具的秘密，不应该是秘密的秘密"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一篇關於CityJS講座的詳細文章，涵蓋了控制檯、開發者工具和如何在瀏覽器之外使用工具的強大提示。",
+      "title": "開發者工具的祕密，不應該是祕密的祕密"
+    }
+  ]
 }
