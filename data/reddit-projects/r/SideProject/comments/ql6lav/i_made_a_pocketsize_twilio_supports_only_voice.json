@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ポケットサイズのTwilioを作ってみた（今のところ音声のみ対応"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个口袋大小的Twilio（目前只支持语音）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個口袋大小的Twilio（目前只支持語音）。"
+    }
+  ]
 }
