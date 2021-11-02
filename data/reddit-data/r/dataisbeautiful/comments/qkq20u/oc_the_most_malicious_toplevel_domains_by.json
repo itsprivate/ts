@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] 国別の最も悪質なトップレベルドメイン"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]按国家代码划分的最具恶意的顶级域名"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]按國家代碼劃分的最具惡意的頂級域名"
+    }
+  ]
 }
