@@ -77,5 +77,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-01T07:01:00Z"
+  "original_createdAt": "2021-11-01T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "GMailやGoogle Docsなどのアプリケーションに、きれいなスタイルのテキストをコピーペーストすることができます。",
+      "tagline": "macOSで迷惑なスタイルを使わずにペースト"
+    },
+    {
+      "locale": "zh",
+      "description": "复制粘贴风格良好的文本到GMail和Google Docs等应用程序，无需学习新的快捷方式。",
+      "tagline": "在macOS上粘贴没有烦人的样式"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "複製粘貼風格良好的文本到GMail和Google Docs等應用程序，無需學習新的快捷方式。",
+      "tagline": "在macOS上粘貼沒有煩人的樣式"
+    }
+  ]
 }
