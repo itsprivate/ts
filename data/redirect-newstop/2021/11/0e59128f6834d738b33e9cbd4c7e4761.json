@@ -14,5 +14,19 @@
   "tags": [
     "The New York Times"
   ],
-  "image": "https://static01.nyt.com/images/2021/11/02/world/02afghanistan-1sub/02afghanistan-1sub-facebookJumbo.jpg"
+  "image": "https://static01.nyt.com/images/2021/11/02/world/02afghanistan-1sub/02afghanistan-1sub-facebookJumbo.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "アフガニスタンの首都で軍の病院が襲撃され、数十人が死亡"
+    },
+    {
+      "locale": "zh",
+      "title": "阿富汗首都的军事医院遭到袭击，数十人丧生"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "阿富汗首都的軍事醫院遭到襲擊，數十人喪生"
+    }
+  ]
 }
