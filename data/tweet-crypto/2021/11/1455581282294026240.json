@@ -134,5 +134,22 @@
     "retweet_count": 3162,
     "favorite_count": 22669,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @100trillionUSD: 時計仕掛けのように https://t.co/SBjFgdmAyy",
+      "retweeted_status_full_text": "Like clockwork https://t.co/SBjFgdmAyy"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @100trillionUSD: 像时钟一样https://t.co/SBjFgdmAyy",
+      "retweeted_status_full_text": "像时钟一样https://t.co/SBjFgdmAyy"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @100trillionUSD: 像時鐘一樣https://t.co/SBjFgdmAyy",
+      "retweeted_status_full_text": "像時鐘一樣https://t.co/SBjFgdmAyy"
+    }
+  ]
 }
