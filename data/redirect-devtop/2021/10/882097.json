@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-30T14:04:29Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--a3XHqwGg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xjacikwvkxe3as2t2ttv.png",
   "author": "Ludal 🚀",
-  "author_url": "https://dev.to/iamludal"
+  "author_url": "https://dev.to/iamludal",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今週も、フックバックパック用のカスタムReactフックをご紹介します。今回のエピソードでは、Reactに実装されている...",
+      "title": "カスタムReactフック: useArray"
+    },
+    {
+      "locale": "zh",
+      "description": "又是一个星期，另一个为你的挂钩背包定制的React挂钩。在这一集中，我们将实现...",
+      "title": "自定义React钩子：useArray"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "又是一個星期，另一個爲你的掛鉤揹包定製的React掛鉤。在這一集中，我們將實現...",
+      "title": "自定義React鉤子：useArray"
+    }
+  ]
 }
