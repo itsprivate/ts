@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-02T10:51:14Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Pta6s_6y--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7pkfs5vyft03x5ohb1ww.png",
   "author": "CodeBucks",
-  "author_url": "https://dev.to/codebucks"
+  "author_url": "https://dev.to/codebucks",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは👋, 私は、デザインと少しだけで、異なるユニークなポートフォリオを構築したかった...",
+      "title": "🔥React JSで見事なポートフォリオサイトを構築しよう"
+    },
+    {
+      "locale": "zh",
+      "description": "嗨，我想建立一个不同的和独特的设计和一点点的投资组合。",
+      "title": "🔥用React JS建立一个令人惊叹的组合网站"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嗨，我想建立一個不同的和獨特的設計和一點點的投資組合。",
+      "title": "🔥用React JS建立一個令人驚歎的組合網站"
+    }
+  ]
 }
