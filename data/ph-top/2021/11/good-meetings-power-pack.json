@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-02T08:17:30Z"
+  "original_createdAt": "2021-11-02T08:17:30Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "悪い会議は悪い。GMPPでは、より良い会議を行うためのNotionのテンプレートとガイドが実証されています。",
+      "tagline": "いい会議ができる確率が上がる"
+    },
+    {
+      "locale": "zh",
+      "description": "糟糕的会议是糟糕的。GMPP已经证明了Notion模板和指南，可以让我们有更好的会议。",
+      "tagline": "你开好会议的几率提高了"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "糟糕的會議是糟糕的。GMPP已經證明了Notion模板和指南，可以讓我們有更好的會議。",
+      "tagline": "你開好會議的機率提高了"
+    }
+  ]
 }
