@@ -150,5 +150,22 @@
     "retweet_count": 2584,
     "favorite_count": 10951,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @JasonPLowery: 理解している人は少ない...。\n#Bitcoin https://t.co/PEt8M1vRtz",
+      "retweeted_status_full_text": "理解者が少ない...。\n#Bitcoin https://t.co/PEt8M1vRtz"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @JasonPLowery: 很少有人了解...\n#Bitcoin https://t.co/PEt8M1vRtz",
+      "retweeted_status_full_text": "很少有人理解...\n#Bitcoin https://t.co/PEt8M1vRtz"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @JasonPLowery: 很少有人瞭解...\n#Bitcoin https://t.co/PEt8M1vRtz",
+      "retweeted_status_full_text": "很少有人理解...\n#Bitcoin https://t.co/PEt8M1vRtz"
+    }
+  ]
 }
