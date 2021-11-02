@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "プレイしたことを完全に忘れて、もう一度プレイしたいと思うゲームは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你希望能完全忘记玩过的视频游戏是什么，以便你能再次玩一遍？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你希望能完全忘記玩過的視頻遊戲是什麼，以便你能再次玩一遍？"
+    }
+  ]
 }
