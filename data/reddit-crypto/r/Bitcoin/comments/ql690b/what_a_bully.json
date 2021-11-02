@@ -65,5 +65,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "イジメとは"
+    },
+    {
+      "locale": "zh",
+      "title": "真是个恶棍"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "真是個惡棍"
+    }
+  ]
 }
