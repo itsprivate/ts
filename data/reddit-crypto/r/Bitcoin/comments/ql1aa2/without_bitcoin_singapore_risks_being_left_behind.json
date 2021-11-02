@@ -47,5 +47,19 @@
     "type": "twitter.com"
   },
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインがなければ、シンガポールは \"取り残される \"リスクがあります。- シンガポール通貨庁長官"
+    },
+    {
+      "locale": "zh",
+      "title": "没有比特币，新加坡有可能 \"被甩在后面\"。- 新加坡金融管理局局长"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "沒有比特幣，新加坡有可能 \"被甩在後面\"。- 新加坡金融管理局局長"
+    }
+  ]
 }
