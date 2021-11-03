@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインの何分の1かを買うことができる"
+    },
+    {
+      "locale": "zh",
+      "title": "你可以购买一个比特币的一小部分"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你可以購買一個比特幣的一小部分"
+    }
+  ]
 }
