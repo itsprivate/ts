@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "何時間シャワーを浴びなかったら、またシャワーを浴びなければならないというように、シャワーの有効期限はいつなのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你认为淋浴何时 \"过期\"，比如说如果你在X个小时内没有洗澡，你就需要再次洗澡？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你認爲淋浴何時 \"過期\"，比如說如果你在X個小時內沒有洗澡，你就需要再次洗澡？"
+    }
+  ]
 }
