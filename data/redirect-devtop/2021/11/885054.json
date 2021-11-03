@@ -43,5 +43,22 @@
   "original_created_at": "2021-11-02T07:07:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gJ2VMSEy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tdp1f9ao5s2ebetsnapy.jpg",
   "author": "Codica",
-  "author_url": "https://dev.to/codicacom"
+  "author_url": "https://dev.to/codicacom",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "元記事はCodica blogに掲載されています。 Vue.jsやReactのようなWebツールは、開発者に...",
+      "title": "ReactとVue。あなたのプロジェクトにはどのJavaScriptフレームワークを選ぶべきか"
+    },
+    {
+      "locale": "zh",
+      "description": "原文发表于Codica博客。 像Vue.js和React这样的Web工具为开发者提供了...",
+      "title": "React vs Vue: 为你的项目选择哪个JavaScript框架"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "原文發表於Codica博客。 像Vue.js和React這樣的Web工具爲開發者提供了...",
+      "title": "React vs Vue: 爲你的項目選擇哪個JavaScript框架"
+    }
+  ]
 }
