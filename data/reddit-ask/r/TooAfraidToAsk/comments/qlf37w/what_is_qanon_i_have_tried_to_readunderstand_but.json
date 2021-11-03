@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "I'd appreciate responses from both Democrats and Republicans."
+  "the_new_excerpt": "I'd appreciate responses from both Democrats and Republicans.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "民主党と共和党の両方からの回答をお願いします。",
+      "title": "Qanonとは？読もう・理解しようとしましたが、理解できません。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我希望民主党人和共和党人都能给予答复。",
+      "title": "什么是卡农？我曾试图阅读/理解，但我不明白。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我希望民主黨人和共和黨人都能給予答覆。",
+      "title": "什麼是卡農？我曾試圖閱讀/理解，但我不明白。"
+    }
+  ]
 }
