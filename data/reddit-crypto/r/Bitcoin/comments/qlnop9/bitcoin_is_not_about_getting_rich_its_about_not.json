@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインは金持ちになるためのものではなく、中央銀行が計画したように貧乏にならないためのものです。"
+    },
+    {
+      "locale": "zh",
+      "title": "比特币不是为了致富，而是为了不像中央银行为我们计划的那样变得贫穷。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比特幣不是爲了致富，而是爲了不像中央銀行爲我們計劃的那樣變得貧窮。"
+    }
+  ]
 }
