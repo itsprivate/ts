@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Why YSK? Your car will be less likely to be broken into if there are no\nelectronics like laptops or cell phones transmitting Bluetooth signals."
+  "the_new_excerpt": "Why YSK? Your car will be less likely to be broken into if there are no\nelectronics like laptops or cell phones transmitting Bluetooth signals.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "なぜYSKなのか？侵入される可能性が低いのは、車内に電子機器がないからです。\nノートパソコンや携帯電話など、Bluetooth信号を発信する電子機器がなければ、車に侵入される可能性は低くなります。",
+      "title": "YSK: 泥棒はBluetoothスキャナを使って、駐車場に置いてある貴重な電子機器を探し出します。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么是YSK？如果你的车没有笔记本电脑或手机等电子产品，那么你的车就不太可能被撬开。\n笔记本电脑或手机等电子产品发射蓝牙信号。",
+      "title": "YSK: 小偷们正在使用蓝牙扫描仪来寻找留在停放的汽车中的有价值的电子设备。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼是YSK？如果你的車沒有筆記本電腦或手機等電子產品，那麼你的車就不太可能被撬開。\n筆記本電腦或手機等電子產品發射藍牙信號。",
+      "title": "YSK: 小偷們正在使用藍牙掃描儀來尋找留在停放的汽車中的有價值的電子設備。"
+    }
+  ]
 }
