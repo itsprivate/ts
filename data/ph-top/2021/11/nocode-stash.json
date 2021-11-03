@@ -77,5 +77,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-03T07:01:00Z"
+  "original_createdAt": "2021-11-03T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "NoCode Stashは、NoCodeのベストを発見する最も簡単な方法の1つです。次のプロジェクトで使用するNoCode Toolsを発見します。新しいものを作ったNoCode Makersからインスピレーションを得ます。また、最高のNoCodeリソースを利用してスタートすることもできます - すべてはあなたのために監修されています",
+      "tagline": "次のメーカープロジェクトのためにノーコードの良さを発見する"
+    },
+    {
+      "locale": "zh",
+      "description": "NoCode Stash是发现NoCode精华的最简单的方法之一。发现可以在你的下一个项目中使用的NoCode工具。从已经建立了新东西的NoCode制作者那里获得灵感。或者开始使用最好的NoCode资源--所有这些都是为你而策划的!",
+      "tagline": "为你的下一个创客项目发现最好的无代码技术"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "NoCode Stash是發現NoCode精華的最簡單的方法之一。發現可以在你的下一個項目中使用的NoCode工具。從已經建立了新東西的NoCode製作者那裏獲得靈感。或者開始使用最好的NoCode資源--所有這些都是爲你而策劃的!",
+      "tagline": "爲你的下一個創客項目發現最好的無代碼技術"
+    }
+  ]
 }
