@@ -106,5 +106,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これは私が若い頃にしかなかったことなので...。"
+    },
+    {
+      "locale": "zh",
+      "title": "这只发生在我年轻的时候，所以..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這隻發生在我年輕的時候，所以..."
+    }
+  ]
 }
