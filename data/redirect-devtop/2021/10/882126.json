@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-30T15:19:48Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hQzQC4PT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e37sk1j1ihev42h17fn7.jpg",
   "author": "Code_Jedi",
-  "author_url": "https://dev.to/code_jedi"
+  "author_url": "https://dev.to/code_jedi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あなたは、5分ごとに最新の株価をチェックしないと気が済まない人ですか？Pythonのおかげで、...",
+      "title": "Pythonで株価のCLIを作ってみよう"
+    },
+    {
+      "locale": "zh",
+      "description": "你是一个每隔5分钟就忍不住查看最新股票价格的人吗？由于有了Python，...",
+      "title": "让我们用Python建立一个股票价格CLI"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你是一個每隔5分鐘就忍不住查看最新股票價格的人嗎？由於有了Python，...",
+      "title": "讓我們用Python建立一個股票價格CLI"
+    }
+  ]
 }
