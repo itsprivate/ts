@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-03T08:25:26Z"
+  "original_createdAt": "2021-11-03T08:25:26Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "The Maze Question Bankは、迅速なリサーチとテストのために350以上の質問を用意したNotionのデータベースです。実用的な学びを収集し、チームとしてより良い意思決定を行うための数百もの質問が見つかります。- Made with 💙 by Maze",
+      "tagline": "迅速なUXリサーチのための350以上の質問からなるNotionデータベース"
+    },
+    {
+      "locale": "zh",
+      "description": "迷宫题库是一个拥有350多个问题的Notion数据库，用于快速研究和测试。你会发现有数百个问题可以帮助你收集可操作的学习资料，并作为一个团队做出更好的决定。- 由Maze用💙制造",
+      "tagline": "一个包含350多个问题的Notion数据库，用于快速用户体验研究"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "迷宮題庫是一個擁有350多個問題的Notion數據庫，用於快速研究和測試。你會發現有數百個問題可以幫助你收集可操作的學習資料，並作爲一個團隊做出更好的決定。- 由Maze用💙製造",
+      "tagline": "一個包含350多個問題的Notion數據庫，用於快速用戶體驗研究"
+    }
+  ]
 }
