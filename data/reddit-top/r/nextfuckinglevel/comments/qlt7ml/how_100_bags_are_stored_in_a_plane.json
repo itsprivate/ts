@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "飛行機の中で100個のバッグがどのように収納されているか"
+    },
+    {
+      "locale": "zh",
+      "title": "一架飞机上如何存放100个袋子"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一架飛機上如何存放100個袋子"
+    }
+  ]
 }
