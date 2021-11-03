@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-03T07:00:00Z"
+  "original_createdAt": "2021-11-03T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Pulseは、成長著しいチームが、いつ、どこにいても、非同期的に共有、議論、コラボレーションを行うことができるプラットフォームです。",
+      "tagline": "非同期での共有、議論、共同作業"
+    },
+    {
+      "locale": "zh",
+      "description": "Pulse是一个帮助高增长团队分享、讨论和异步协作的平台--无论他们何时何地。",
+      "tagline": "异步分享、讨论和协作"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Pulse是一個幫助高增長團隊分享、討論和異步協作的平臺--無論他們何時何地。",
+      "tagline": "異步分享、討論和協作"
+    }
+  ]
 }
