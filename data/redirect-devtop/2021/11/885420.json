@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-02T13:55:58Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cJ__Xttj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yc0bk74ubq8f4vrw65ac.jpg",
   "author": "Alex Omeyer",
-  "author_url": "https://dev.to/alexomeyer"
+  "author_url": "https://dev.to/alexomeyer",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "多くのエンジニアリングチームは、技術的な理由で、高品質なソフトウェアを迅速に出荷することができません。",
+      "title": "技術的負債と戦うための10のVS Code拡張機能"
+    },
+    {
+      "locale": "zh",
+      "description": "许多工程团队由于技术上的问题而陷入困境，无法快速交付高质量的软件。",
+      "title": "10个VS代码扩展来对抗技术债务"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "許多工程團隊由於技術上的問題而陷入困境，無法快速交付高質量的軟件。",
+      "title": "10個VS代碼擴展來對抗技術債務"
+    }
+  ]
 }
