@@ -43,5 +43,22 @@
   "original_created_at": "2021-11-01T17:04:09Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gRcOIbcX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/87imm1ntaiou8jjzp7ap.jpg",
   "author": "Don Juan Javier",
-  "author_url": "https://dev.to/townofdon"
+  "author_url": "https://dev.to/townofdon",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "useStateとuseEffectのフックは、Reactコミュニティにとって天の恵みでした。しかし、どんなツールでもそうですが、...",
+      "title": "useState + useEffectは（おそらく）必要ありません。"
+    },
+    {
+      "locale": "zh",
+      "description": "useState和useEffect挂钩是React社区的天赐良机。然而，像任何工具一样，...",
+      "title": "你（可能）不需要那个useState + useEffect"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "useState和useEffect掛鉤是React社區的天賜良機。然而，像任何工具一樣，...",
+      "title": "你（可能）不需要那個useState + useEffect"
+    }
+  ]
 }
