@@ -65,5 +65,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "HODL vs トレーディング"
+    },
+    {
+      "locale": "zh",
+      "title": "HODL与交易"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "HODL與交易"
+    }
+  ]
 }
