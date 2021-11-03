@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "過去24時間でイーサリアムが焼失した量はミントより多い"
+    },
+    {
+      "locale": "zh",
+      "title": "过去24小时内被烧毁的以太坊比铸造的以太坊还多"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "過去24小時內被燒燬的以太坊比鑄造的以太坊還多"
+    }
+  ]
 }
