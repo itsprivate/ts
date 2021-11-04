@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Why YSK: just for clarification"
+  "the_new_excerpt": "Why YSK: just for clarification",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "なぜYSKなのか：わかりやすくするため",
+      "title": "YSKは、「人手不足」「誰も働きたくない」と言われるとき、それは肉体労働や最低賃金の仕事のことであって、豪華なオフィスワークなどのことではないと考えています。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么是YSK：只是为了说明问题",
+      "title": "YSK认为，当人们说劳动力短缺/没有人愿意工作时，他们说的是体力劳动/最低工资的工作，而不是花哨的办公室工作或其他。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼是YSK：只是爲了說明問題",
+      "title": "YSK認爲，當人們說勞動力短缺/沒有人願意工作時，他們說的是體力勞動/最低工資的工作，而不是花哨的辦公室工作或其他。"
+    }
+  ]
 }
