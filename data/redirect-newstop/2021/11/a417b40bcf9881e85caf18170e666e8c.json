@@ -14,5 +14,19 @@
   "tags": [
     "The New York Times"
   ],
-  "image": "https://static01.nyt.com/images/2021/11/03/world/03china-metoo/03china-metoo-facebookJumbo.jpg"
+  "image": "https://static01.nyt.com/images/2021/11/03/world/03china-metoo/03china-metoo-facebookJumbo.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "中国のPeng Shuaiがチャン・ガオリに対して#MeTooを主張"
+    },
+    {
+      "locale": "zh",
+      "title": "中国的彭帅对张高丽提出了#MeToo的要求"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "中國的彭帥對張高麗提出了#MeToo的要求"
+    }
+  ]
 }
