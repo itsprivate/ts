@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-03T12:04:11Z",
   "image": "https://dev.to/social_previews/article/886515.png",
   "author": "theDro",
-  "author_url": "https://dev.to/dro1"
+  "author_url": "https://dev.to/dro1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは👋🏼、今日はGraphQLとそれがReactでどのように機能するかについてお話しします。また、以下のような点にも注目しています。",
+      "title": "ReactにおけるGraphQL"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好👋🏼，今天我们将讨论graphQL以及它如何与React一起工作。我们还将关注...",
+      "title": "React中的GraphQL"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好👋🏼，今天我們將討論graphQL以及它如何與React一起工作。我們還將關注...",
+      "title": "React中的GraphQL"
+    }
+  ]
 }
