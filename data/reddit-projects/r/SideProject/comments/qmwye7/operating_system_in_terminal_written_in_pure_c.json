@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "純粋なC++で書かれたTerminalのオペレーティング・システム"
+    },
+    {
+      "locale": "zh",
+      "title": "用纯C++编写的终端操作系统"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "用純C++編寫的終端操作系統"
+    }
+  ]
 }
