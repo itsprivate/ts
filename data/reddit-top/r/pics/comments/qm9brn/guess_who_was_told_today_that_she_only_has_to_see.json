@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今日、年に一度だけ腫瘍医の診察を受ければいいと言われたのは誰だと思いますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "猜猜今天谁被告知，她现在每年只需看一次肿瘤医生的检查？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "猜猜今天誰被告知，她現在每年只需看一次腫瘤醫生的檢查？"
+    }
+  ]
 }
