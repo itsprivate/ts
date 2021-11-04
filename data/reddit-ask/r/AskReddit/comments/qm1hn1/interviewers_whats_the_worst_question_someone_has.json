@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "面接官：面接の最後に聞かれた最悪の質問は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "面试官：有人在工作面试结束时问过的最糟糕的问题是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "面試官：有人在工作面試結束時問過的最糟糕的問題是什麼？"
+    }
+  ]
 }

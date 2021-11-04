@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-03T08:05:04Z"
+  "original_createdAt": "2021-11-03T08:05:04Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Freshpaintは、HIPAAに準拠した唯一の顧客データプラットフォームであり、顧客データを統合し、PHIを管理し、200以上のツールを統合します。IDマスキングと強制的なアローリストにより、ヘルスケア企業はBAAに追加料金を支払うことなくMixpanelやAmplitudeのようなツールを使用することができます。",
+      "tagline": "HIPAA準拠のアナリティクス＆カスタマーデータプラットフォーム"
+    },
+    {
+      "locale": "zh",
+      "description": "Freshpaint是唯一符合HIPAA的客户数据平台：统一客户数据，控制PHI，并整合200多种工具。ID屏蔽和强制允许列表使医疗保健公司能够使用Mixpanel或Amplitude等工具，而无需为BAA支付额外费用。",
+      "tagline": "唯一符合HIPAA标准的分析和客户数据平台"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Freshpaint是唯一符合HIPAA的客戶數據平臺：統一客戶數據，控制PHI，並整合200多種工具。ID屏蔽和強制允許列表使醫療保健公司能夠使用Mixpanel或Amplitude等工具，而無需爲BAA支付額外費用。",
+      "tagline": "唯一符合HIPAA標準的分析和客戶數據平臺"
+    }
+  ]
 }
