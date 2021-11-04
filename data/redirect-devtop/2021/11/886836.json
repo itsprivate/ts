@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-03T16:52:19Z",
   "image": "https://dev.to/social_previews/article/886836.png",
   "author": "Cameron McHenry",
-  "author_url": "https://dev.to/camchenry"
+  "author_url": "https://dev.to/camchenry",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事は、私のブログ： camchenry.comに掲載されたものです。この記事を気に入っていただけましたら、ぜひ...",
+      "title": "Type Guardsを使ってTypeScriptであらゆることを行う方法"
+    },
+    {
+      "locale": "zh",
+      "description": "这篇文章最初发表在我的博客上：camchenry.com。如果你喜欢这篇文章，请...",
+      "title": "如何在TypeScript中用Type Guards做任何事情"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這篇文章最初發表在我的博客上：camchenry.com。如果你喜歡這篇文章，請...",
+      "title": "如何在TypeScript中用Type Guards做任何事情"
+    }
+  ]
 }
