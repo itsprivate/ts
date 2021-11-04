@@ -11,5 +11,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Duolingoユーザーの習熟度は、大学生の習熟度とほぼ一致しており、約半数がA2以上の習熟度に達しています。"
+    },
+    {
+      "locale": "zh",
+      "title": "Duolingo用户的熟练程度与大学生的熟练程度成正比，约有一半的用户达到A2或更高的熟练程度。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Duolingo用戶的熟練程度與大學生的熟練程度成正比，約有一半的用戶達到A2或更高的熟練程度。"
+    }
+  ]
 }
