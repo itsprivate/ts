@@ -47,5 +47,19 @@
     "type": "twitter.com"
   },
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ライトニングネットワークの理論上のスループットは4,000万TPSである。これは、10分ごとに14.4TBのサイズのブロックを処理するのに相当します。ライトニングは、ビットコインが惑星規模の分散型交換媒体となることを可能にします。⚡️"
+    },
+    {
+      "locale": "zh",
+      "title": "LightningNetwork的理论吞吐量为4000万TPS。这相当于每10分钟有14.4TB大小的块。Lightning使比特币成为一个全球规模的去中心化的交易媒介。⚡️"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "LightningNetwork的理論吞吐量爲4000萬TPS。這相當於每10分鐘有14.4TB大小的塊。Lightning使比特幣成爲一個全球規模的去中心化的交易媒介。⚡️"
+    }
+  ]
 }

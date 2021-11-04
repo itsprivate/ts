@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今までで一番好きなビデオゲームは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你最喜欢的视频游戏是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你最喜歡的視頻遊戲是什麼？"
+    }
+  ]
 }
