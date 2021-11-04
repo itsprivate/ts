@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私のサイドプロジェクトである「Yarn」は、友人とストーリーを共有するソーシャルアプリです。"
+    },
+    {
+      "locale": "zh",
+      "title": "看看我的副业Yarn，一个与朋友分享故事的社交应用程序。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "看看我的副業Yarn，一個與朋友分享故事的社交應用程序。"
+    }
+  ]
 }
