@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今回は、ノーコードツールを使って、ペイントプログラムを作ってみました。"
+    },
+    {
+      "locale": "zh",
+      "title": "这次我用我的无码工具创建了一个绘画程序。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這次我用我的無碼工具創建了一個繪畫程序。"
+    }
+  ]
 }
