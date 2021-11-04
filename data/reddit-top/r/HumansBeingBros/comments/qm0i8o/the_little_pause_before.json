@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "の前の小休止。"
+    },
+    {
+      "locale": "zh",
+      "title": "之前的小插曲"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "之前的小插曲"
+    }
+  ]
 }
