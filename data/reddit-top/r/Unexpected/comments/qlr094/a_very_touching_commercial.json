@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "とても感動的なCMです。"
+    },
+    {
+      "locale": "zh",
+      "title": "一个非常感人的广告。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個非常感人的廣告。"
+    }
+  ]
 }

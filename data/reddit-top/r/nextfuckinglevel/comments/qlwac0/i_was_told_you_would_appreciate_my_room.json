@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私の部屋を評価してくれると言われました"
+    },
+    {
+      "locale": "zh",
+      "title": "有人告诉我，你会欣赏我的房间!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有人告訴我，你會欣賞我的房間!"
+    }
+  ]
 }
