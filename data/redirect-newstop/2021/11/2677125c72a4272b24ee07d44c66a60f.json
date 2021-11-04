@@ -14,5 +14,19 @@
   "tags": [
     "The New York Times"
   ],
-  "image": "https://static01.nyt.com/images/2021/11/03/climate/03CLI-EMISSIONS1/03CLI-EMISSIONS1-facebookJumbo.jpg"
+  "image": "https://static01.nyt.com/images/2021/11/03/climate/03CLI-EMISSIONS1/03CLI-EMISSIONS1-facebookJumbo.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "パンデミックで落ち込んだ二酸化炭素の排出量が急激に回復"
+    },
+    {
+      "locale": "zh",
+      "title": "二氧化碳排放在大流行后急剧反弹"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "二氧化碳排放在大流行後急劇反彈"
+    }
+  ]
 }
