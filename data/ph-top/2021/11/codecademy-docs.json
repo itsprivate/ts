@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-04T18:36:39Z"
+  "original_createdAt": "2021-11-04T18:36:39Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "https://www.codecademy.com/resources/docs は、簡単に使えるコーディングドキュメントのコレクションです。専門家、教育者、Codecademyコミュニティによって書かれた何百ものエントリーがあります。また、自分で書いたものを投稿して、誰もが使える無料のリソースを作ることに参加してください。",
+      "tagline": "コーディングドキュメントを簡単に見つけて貢献できる"
+    },
+    {
+      "locale": "zh",
+      "description": "https://www.codecademy.com/resources/docs 是一个简单易用的编码文档的集合。查找由专家、教育家和Codecademy社区编写的数百个条目。或者贡献你自己的，和我们一起建立一个任何人都可以使用的免费资源!",
+      "tagline": "很容易找到并贡献于编码文件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "https://www.codecademy.com/resources/docs 是一個簡單易用的編碼文檔的集合。查找由專家、教育家和Codecademy社區編寫的數百個條目。或者貢獻你自己的，和我們一起建立一個任何人都可以使用的免費資源!",
+      "tagline": "很容易找到並貢獻於編碼文件"
+    }
+  ]
 }
