@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-04T07:01:00Z"
+  "original_createdAt": "2021-11-04T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "SandHill.ioは、600人以上のVCや業界に特化したスタートアップアナリストのブログ、サブスタック、メディアフィードから最新のコンテンツを集約しています。毎週のトップ分析は、週刊ニュースレターで共有されます。https://newsletter.sandhill.io/",
+      "tagline": "600人以上のVCが語る最新のスタートアップ論とインサイト"
+    },
+    {
+      "locale": "zh",
+      "description": "SandHill.io聚合了来自600多个风险投资公司和以行业为重点的创业公司分析师的博客、分页和媒体的最新内容。每周的顶级分析通过周报分享 - https://newsletter.sandhill.io/",
+      "tagline": "来自600多家风险投资商的最新创业论文和见解"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "SandHill.io聚合了來自600多個風險投資公司和以行業爲重點的創業公司分析師的博客、分頁和媒體的最新內容。每週的頂級分析通過週報分享 - https://newsletter.sandhill.io/",
+      "tagline": "來自600多家風險投資商的最新創業論文和見解"
+    }
+  ]
 }
