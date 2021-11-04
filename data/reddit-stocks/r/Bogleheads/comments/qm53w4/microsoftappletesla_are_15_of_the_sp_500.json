@@ -103,5 +103,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1635975887,
-  "the_new_excerpt": "Is there a historical precedent for this kind of dominance in the S&P by just a\nfew mega caps? Does it matter?"
+  "the_new_excerpt": "Is there a historical precedent for this kind of dominance in the S&P by just a\nfew mega caps? Does it matter?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "S&Pにおいて、少数のメガキャップがこのように優位に立つという歴史的な前例はありますか？\n数社のメガキャップがS&Pを支配するような前例はあるのでしょうか？それは重要なことでしょうか？",
+      "title": "Microsoft/Apple/TeslaはS&P500の~15%です。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "在标准普尔指数中，这种仅由几家大型企业主导的情况是否有历史先例？\n几只巨型股票？这有什么关系吗？",
+      "title": "微软/苹果/特斯拉是标准普尔500指数的15%。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "在標準普爾指數中，這種僅由幾家大型企業主導的情況是否有歷史先例？\n幾隻巨型股票？這有什麼關係嗎？",
+      "title": "微軟/蘋果/特斯拉是標準普爾500指數的15%。"
+    }
+  ]
 }
