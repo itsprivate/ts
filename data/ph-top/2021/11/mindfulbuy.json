@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-04T07:00:00Z"
+  "original_createdAt": "2021-11-04T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "MindfulBuy」は、買う前にもう一度考えてみることを思い出させてくれるクローム拡張機能です。",
+      "tagline": "買う前によく考えることを思い出させてくれる"
+    },
+    {
+      "locale": "zh",
+      "description": "MindfulBuy是一个提醒你在购买前三思而行的chrome扩展。",
+      "tagline": "提醒你在购买前要三思而行"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "MindfulBuy是一個提醒你在購買前三思而行的chrome擴展。",
+      "tagline": "提醒你在購買前要三思而行"
+    }
+  ]
 }
