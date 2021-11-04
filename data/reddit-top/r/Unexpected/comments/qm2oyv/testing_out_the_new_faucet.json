@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "新しい水栓を試す"
+    },
+    {
+      "locale": "zh",
+      "title": "试用新水龙头"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "試用新水龍頭"
+    }
+  ]
 }

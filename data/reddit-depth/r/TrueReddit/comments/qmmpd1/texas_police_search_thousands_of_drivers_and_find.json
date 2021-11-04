@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "テキサス州の警察が何千人ものドライバーを捜索しても何も見つからない。ここでは、そのようなことが最も多く起こる場所です。"
+    },
+    {
+      "locale": "zh",
+      "title": "德州警方搜查了数以千计的司机，却一无所获。这里是这种情况发生最多的地方。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "德州警方搜查了數以千計的司機，卻一無所獲。這裏是這種情況發生最多的地方。"
+    }
+  ]
 }
