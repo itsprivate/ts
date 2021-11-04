@@ -134,5 +134,22 @@
     "retweet_count": 157,
     "favorite_count": 2243,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @litcapital です。決算発表後のペロトンの株価を見てみると https://t.co/BD1eoNqtpn",
+      "retweeted_status_full_text": "決算発表後のペロトンの株価を見ると、https://t.co/BD1eoNqtpn。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @litcapital: 看一下Peloton在发布收益报告后的股价 https://t.co/BD1eoNqtpn",
+      "retweeted_status_full_text": "看一下Peloton在报告收益后的股价 https://t.co/BD1eoNqtpn"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @litcapital: 看一下Peloton在發佈收益報告後的股價 https://t.co/BD1eoNqtpn",
+      "retweeted_status_full_text": "看一下Peloton在報告收益後的股價 https://t.co/BD1eoNqtpn"
+    }
+  ]
 }
