@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-30T21:54:07Z",
   "image": "https://dev.to/social_previews/article/882394.png",
   "author": "Kirk Shillingford",
-  "author_url": "https://dev.to/kirkcodes"
+  "author_url": "https://dev.to/kirkcodes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あらすじ 私の名前はカークです。私はコードで小さなゲームを作るのが好きです。そして今日のゲームは...",
+      "title": "ReactとTSを使ったMost MagicなTicTacToeソリューション"
+    },
+    {
+      "locale": "zh",
+      "description": "简介 我的名字是柯克。我喜欢用代码制作小游戏。而今天的游戏是...",
+      "title": "使用React和TS的最神奇的TicTacToe解决方案"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介 我的名字是柯克。我喜歡用代碼製作小遊戲。而今天的遊戲是...",
+      "title": "使用React和TS的最神奇的TicTacToe解決方案"
+    }
+  ]
 }
