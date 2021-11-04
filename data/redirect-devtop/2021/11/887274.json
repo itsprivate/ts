@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-03T23:22:38Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--n7dpUiYL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cp7rnqdr6blbm9p6sm1e.jpg",
   "author": "Pedro Figueiredo",
-  "author_url": "https://dev.to/pffigueiredo"
+  "author_url": "https://dev.to/pffigueiredo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、あなたがすでにJestをセットアップし、テストスクリプトを定義していることを前提としています。",
+      "title": "雑音のないJestテスト"
+    },
+    {
+      "locale": "zh",
+      "description": "这篇文章想当然地认为你已经设置了Jest，并在你的网站上定义了一个测试脚本...",
+      "title": "没有噪音的Jest测试"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這篇文章想當然地認爲你已經設置了Jest，並在你的網站上定義了一個測試腳本...",
+      "title": "沒有噪音的Jest測試"
+    }
+  ]
 }
