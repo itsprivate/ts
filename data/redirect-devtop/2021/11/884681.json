@@ -43,5 +43,22 @@
   "original_created_at": "2021-11-01T22:27:17Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fT1EBKMi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s3hr7o3wkls7pvw4wwxn.jpg",
   "author": "seb",
-  "author_url": "https://dev.to/sebseb"
+  "author_url": "https://dev.to/sebseb",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "muted.io（....）では、インタラクティブな音楽ツールやリファレンスを作るのが楽しくて仕方がありません。",
+      "title": "Tone.jsとAlpine.jsによるWeb上でのサウンド再生"
+    },
+    {
+      "locale": "zh",
+      "description": "我在muted.io创建交互式音乐工具和参考资料的过程中获得了大量的乐趣，....。",
+      "title": "使用Tone.js和Alpine.js在网上播放声音"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我在muted.io創建交互式音樂工具和參考資料的過程中獲得了大量的樂趣，....。",
+      "title": "使用Tone.js和Alpine.js在網上播放聲音"
+    }
+  ]
 }
