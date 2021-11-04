@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-04T07:00:00Z"
+  "original_createdAt": "2021-11-04T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Pimp my READMEは、オープンソースのプロフィールビルダーで、あなたのREADMEプロフィールにいくつかのクールなコンポーネントを追加することができます。MySpace時代のmyspace editor(https://www.pimp-my-profile.com/generators/myspace.php)を彷彿とさせます。",
+      "tagline": "GitHubのREADMEプロファイルをクールに見せる"
+    },
+    {
+      "locale": "zh",
+      "description": "Pimp my README是一个开源的简介构建器，你可以用它来为你的README简介添加一些很酷的组件。让人想起MySpace时代和它的myspace编辑器（https://www.pimp-my-profile.com/generators/myspace.php）。",
+      "tagline": "让你的GitHub README简介看起来很酷"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Pimp my README是一個開源的簡介構建器，你可以用它來爲你的README簡介添加一些很酷的組件。讓人想起MySpace時代和它的myspace編輯器（https://www.pimp-my-profile.com/generators/myspace.php）。",
+      "tagline": "讓你的GitHub README簡介看起來很酷"
+    }
+  ]
 }
