@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "I’m trying to transfer money between bank accounts and the bank goes:\n\n‘Oh, well, we’ll transfer this for you if you get it in before 11am, then it\nwill take 2-3 days to process. If you don’t get it in before 11am, we’ll then\nit’ll take 3-5 days processing. And don’t even think about asking us to…"
+  "the_new_excerpt": "I’m trying to transfer money between bank accounts and the bank goes:\n\n‘Oh, well, we’ll transfer this for you if you get it in before 11am, then it\nwill take 2-3 days to process. If you don’t get it in before 11am, we’ll then\nit’ll take 3-5 days processing. And don’t even think about asking us to…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "銀行口座間でお金を振り込もうとすると、銀行は「ああ、これは振り込みます。\n\n午前11時までに送金してくれれば送金しますよ。\nそうすると、処理に2～3日かかります。もし、午前11時までに振り込まれなかった場合は、処理に3～5日かかります。\n3～5日の処理期間が必要となります。そして、私たちに頼もうとは思わないでください...。",
+      "title": "銀行のシステムは詐欺だと思います。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我想在银行账户之间转钱，银行却说。\n\n哦，好吧，如果你在上午11点前汇款，我们会帮你转，但需要2-3天时间。\n需要2-3天的时间来处理。如果你在上午11点之前没有收到，我们就会\n将需要3-5天的时间来处理。甚至不要想让我们...",
+      "title": "我真的认为银行系统是一个骗局"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我想在銀行賬戶之間轉錢，銀行卻說。\n\n哦，好吧，如果你在上午11點前匯款，我們會幫你轉，但需要2-3天時間。\n需要2-3天的時間來處理。如果你在上午11點之前沒有收到，我們就會\n將需要3-5天的時間來處理。甚至不要想讓我們...",
+      "title": "我真的認爲銀行系統是一個騙局"
+    }
+  ]
 }
