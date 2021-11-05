@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "人気のある有名人の中で、あなたが強く嫌っている人は誰ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "谁是你非常不喜欢的一个流行名人？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "誰是你非常不喜歡的一個流行名人？"
+    }
+  ]
 }
