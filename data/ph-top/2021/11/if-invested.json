@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-05T07:00:00Z"
+  "original_createdAt": "2021-11-05T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "使いやすい暗号通貨の投資計算機です。",
+      "tagline": "暗号通貨投資計算機"
+    },
+    {
+      "locale": "zh",
+      "description": "易于使用的加密货币投资计算器。",
+      "tagline": "加密货币投资计算器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "易於使用的加密貨幣投資計算器。",
+      "tagline": "加密貨幣投資計算器"
+    }
+  ]
 }

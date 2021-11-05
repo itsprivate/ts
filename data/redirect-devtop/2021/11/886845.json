@@ -50,5 +50,22 @@
   "original_created_at": "2021-11-03T17:16:55Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KHzv3DlE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/it49pwdsx2156cd7exxy.jpeg",
   "author": "Heshie Brody",
-  "author_url": "https://dev.to/heshiebee"
+  "author_url": "https://dev.to/heshiebee",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事の初出はこちら： ...",
+      "title": "開発者の幸せの秘訣と、コーディングが単なる仕事にならないようにする方法"
+    },
+    {
+      "locale": "zh",
+      "description": "这篇文章首先出现在这里：...",
+      "title": "开发者幸福的关键以及如何防止编码成为另一项工作"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這篇文章首先出現在這裏：...",
+      "title": "開發者幸福的關鍵以及如何防止編碼成爲另一項工作"
+    }
+  ]
 }

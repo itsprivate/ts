@@ -14,5 +14,19 @@
   "tags": [
     "Fox News"
   ],
-  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/11/Germany-COVID.gif"
+  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/11/Germany-COVID.gif",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "COVID-19です。WHO、欧州での感染例に「重大な懸念」を表明"
+    },
+    {
+      "locale": "zh",
+      "title": "COVID-19。世卫组织对欧洲的病例表示 \"严重关切"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "COVID-19。世衛組織對歐洲的病例表示 \"嚴重關切"
+    }
+  ]
 }
