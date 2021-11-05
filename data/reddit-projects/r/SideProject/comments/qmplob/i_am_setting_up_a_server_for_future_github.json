@@ -136,5 +136,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "オープンソースのTwilio AlternativeのGithubスポンサーになるためのサーバーを設置しています。"
+    },
+    {
+      "locale": "zh",
+      "title": "我正在为未来开源Twilio替代品的Github赞助商建立一个服务器。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我正在爲未來開源Twilio替代品的Github贊助商建立一個服務器。"
+    }
+  ]
 }
