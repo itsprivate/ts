@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-28T09:37:08Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VVZ5eEC3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8uor57ilohhbwpnjel1b.png",
   "author": "Jatin Sharma",
-  "author_url": "https://dev.to/j471n"
+  "author_url": "https://dev.to/j471n",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、next.jsを使ってGoogleの完全な機能を持ったCloneを作った方法をご紹介します。",
+      "title": "next.jsで完全に機能するGoogle検索"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我将告诉你我是如何用next.js制作谷歌全功能克隆的。",
+      "title": "使用next.js的全功能谷歌搜索"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我將告訴你我是如何用next.js製作谷歌全功能克隆的。",
+      "title": "使用next.js的全功能谷歌搜索"
+    }
+  ]
 }
