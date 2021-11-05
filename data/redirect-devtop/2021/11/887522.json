@@ -50,5 +50,22 @@
   "original_created_at": "2021-11-04T07:36:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5rvma6Zl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qd1dg3b0qiywx5hnn9ki.png",
   "author": "Dima Grossman",
-  "author_url": "https://dev.to/scopsy"
+  "author_url": "https://dev.to/scopsy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "さまざまなプロジェクトのために通知インフラを構築するのに何年も苦労した後、私は...。",
+      "title": "dev.toの投稿から4日間で2,000スターを獲得した方法"
+    },
+    {
+      "locale": "zh",
+      "description": "在为不同的项目建立通知基础设施时，经过多年的挣扎，我是...",
+      "title": "我们是如何在4天内从一个开发人员那里得到2000颗星的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在爲不同的項目建立通知基礎設施時，經過多年的掙扎，我是...",
+      "title": "我們是如何在4天內從一個開發人員那裏得到2000顆星的。"
+    }
+  ]
 }
