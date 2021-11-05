@@ -50,5 +50,22 @@
   "original_created_at": "2021-11-04T05:00:19Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--y4FzMDE---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/um1dmbezy88la9quorkd.jpeg",
   "author": "Shuvo",
-  "author_url": "https://dev.to/0shuvo0"
+  "author_url": "https://dev.to/0shuvo0",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "数日前、私はあるMNCに応募しました。与えられた時間内に解決しなければならない興味深い問題がありました。",
+      "title": "このインタビュー問題を解くことができますか？"
+    },
+    {
+      "locale": "zh",
+      "description": "几天前，我申请了一家跨国公司，我有一些有趣的问题需要在规定的时间内解决。",
+      "title": "你能解决这个面试问题吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "幾天前，我申請了一家跨國公司，我有一些有趣的問題需要在規定的時間內解決。",
+      "title": "你能解決這個面試問題嗎？"
+    }
+  ]
 }
