@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-03T13:33:27Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PYhU2olw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d4u62vy3h2bptsynmuu6.png",
   "author": "Aimen Zairi",
-  "author_url": "https://dev.to/zairiaimendev"
+  "author_url": "https://dev.to/zairiaimendev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事は、私のブログに掲載された記事を少し修正して再掲載したものです。 zairiaimen.com もしあなたが...",
+      "title": "コードが動作しても、それには触れないでください。"
+    },
+    {
+      "locale": "zh",
+      "description": "这是对我博客中的一篇文章进行了少量修改后的转贴。",
+      "title": "如果代码有效，就不要去碰它!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是對我博客中的一篇文章進行了少量修改後的轉貼。",
+      "title": "如果代碼有效，就不要去碰它!"
+    }
+  ]
 }

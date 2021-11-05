@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "デモ参加者が車の突っ込みで負傷したり死亡したりしているが、正義の裁きは稀である。"
+    },
+    {
+      "locale": "zh",
+      "title": "抗议者被汽车撞伤或撞死，但正义却很少。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "抗議者被汽車撞傷或撞死，但正義卻很少。"
+    }
+  ]
 }

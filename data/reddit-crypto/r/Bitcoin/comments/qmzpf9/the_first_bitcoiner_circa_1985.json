@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "最初のビットコイナー。1985年頃"
+    },
+    {
+      "locale": "zh",
+      "title": "第一个比特币持有者。约：1985年"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "第一個比特幣持有者。約：1985年"
+    }
+  ]
 }
