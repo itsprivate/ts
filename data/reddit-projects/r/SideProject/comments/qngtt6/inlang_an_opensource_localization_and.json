@@ -57,5 +57,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Creating and managing keys with inlang [https://i.redd.it/f6utve1qnqx71.gif]\n\nHi everyone,\n\nThree months ago we posted a proof of concept\n[https://www.reddit.com/r/sveltejs/comments/p4h6bg/proof_of_concept_internationalize_a_svelte_app_in/]\nfor our translation tool inlang on…"
+  "the_new_excerpt": "Creating and managing keys with inlang [https://i.redd.it/f6utve1qnqx71.gif]\n\nHi everyone,\n\nThree months ago we posted a proof of concept\n[https://www.reddit.com/r/sveltejs/comments/p4h6bg/proof_of_concept_internationalize_a_svelte_app_in/]\nfor our translation tool inlang on…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "inlangでのキーの作成と管理 [https://i.redd.it/f6utve1qnqx71.gif]\n\nみなさん、こんにちは。\n\n3ヶ月前、私たちはコンセプトの証明を投稿しました\n[https://www.reddit.com/r/sveltejs/comments/p4h6bg/proof_of_concept_internationalize_a_svelte_app_in/]\nを投稿しましたが、これは私たちの翻訳ツールinlangの...",
+      "title": "inlang: 型安全性、機械翻訳、外部翻訳者、自動同期機能を備えたオープンソースのローカリゼーションおよび国際化ソリューション"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "用inlang创建和管理钥匙 [https://i.redd.it/f6utve1qnqx71.gif]\n\n大家好。\n\n三个月前，我们发布了一个概念证明\n[https://www.reddit.com/r/sveltejs/comments/p4h6bg/proof_of_concept_internationalize_a_svelte_app_in/]\n我们的翻译工具inlang的概念证明。",
+      "title": "inlang：一个开源的本地化和国际化解决方案，具有类型安全、机器翻译、外部译者和自动同步功能"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "用inlang創建和管理鑰匙 [https://i.redd.it/f6utve1qnqx71.gif]\n\n大家好。\n\n三個月前，我們發佈了一個概念證明\n[https://www.reddit.com/r/sveltejs/comments/p4h6bg/proof_of_concept_internationalize_a_svelte_app_in/]\n我們的翻譯工具inlang的概念證明。",
+      "title": "inlang：一個開源的本地化和國際化解決方案，具有類型安全、機器翻譯、外部譯者和自動同步功能"
+    }
+  ]
 }
