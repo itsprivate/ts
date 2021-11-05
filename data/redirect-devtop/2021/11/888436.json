@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-04T22:59:27Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QryL_1VA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/we1r81gmo7qy4iubpw5f.jpg",
   "author": "Matti Bar-Zeev",
-  "author_url": "https://dev.to/mbarzeev"
+  "author_url": "https://dev.to/mbarzeev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、テスト駆動開発（TDD）のアプローチを用いてReactコンポーネントを作成します。 I...",
+      "title": "TDDによるReactコンポーネントの作成"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，请加入我，我使用测试驱动开发（TDD）方法创建一个React组件。 I...",
+      "title": "用TDD创建一个React组件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，請加入我，我使用測試驅動開發（TDD）方法創建一個React組件。 I...",
+      "title": "用TDD創建一個React組件"
+    }
+  ]
 }
