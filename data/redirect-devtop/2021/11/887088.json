@@ -48,5 +48,22 @@
   "original_created_at": "2021-11-03T19:14:38Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IoSua9Pe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1583078379333-e34d6569c406",
   "author": "Cassidy Williams",
-  "author_url": "https://dev.to/cassidoo"
+  "author_url": "https://dev.to/cassidoo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Jamstackの世界では、「デカップリング」という言葉がよく使われていますが、これは「デカップリング」をしないと威圧感があります。",
+      "title": "そもそもデカップリングとは？"
+    },
+    {
+      "locale": "zh",
+      "description": "在Jamstack的世界里，\"解耦 \"这个词被抛来抛去，它可能让人望而生畏。",
+      "title": "实际上，什么是脱钩？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在Jamstack的世界裏，\"解耦 \"這個詞被拋來拋去，它可能讓人望而生畏。",
+      "title": "實際上，什麼是脫鉤？"
+    }
+  ]
 }
