@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼は一手にパイプを配置した。ハードではなくスマートに働く"
+    },
+    {
+      "locale": "zh",
+      "title": "他一举摆平了钢管。聪明地工作而不是努力工作"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他一舉擺平了鋼管。聰明地工作而不是努力工作"
+    }
+  ]
 }
