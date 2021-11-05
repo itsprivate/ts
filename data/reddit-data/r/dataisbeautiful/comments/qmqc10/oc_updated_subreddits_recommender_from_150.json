@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] 1億5000万件以上のコメントからsubredditsレコメンダーを更新。テキストデータも美化できる？"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC] 从1.5亿多条评论中更新了subreddits推荐器。文字数据也可以很美吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC] 從1.5億多條評論中更新了subreddits推薦器。文字數據也可以很美嗎？"
+    }
+  ]
 }
