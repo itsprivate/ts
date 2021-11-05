@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-04T15:27:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2rDsZfNA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t99gaklkkvhwa391td5n.jpg",
   "author": "CodeOz",
-  "author_url": "https://dev.to/codeoz"
+  "author_url": "https://dev.to/codeoz",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "多くの若手開発者が、配列を扱う必要があるときにforEachを使っているのを見ました。 ここでは、その方法をご紹介します...",
+      "title": "正しい配列方法を使ってJSスキルを高める"
+    },
+    {
+      "locale": "zh",
+      "description": "我看到很多初级开发人员在需要处理数组时使用forEach。 我将向你展示，并向你介绍...",
+      "title": "通过使用正确的数组方法提高你的JS技能"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我看到很多初級開發人員在需要處理數組時使用forEach。 我將向你展示，並向你介紹...",
+      "title": "通過使用正確的數組方法提高你的JS技能"
+    }
+  ]
 }
