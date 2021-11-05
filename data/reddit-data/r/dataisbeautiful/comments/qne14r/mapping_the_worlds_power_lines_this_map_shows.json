@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "世界の送電線のマッピング この地図は、オープンストリートマップから派生した世界の電力ケーブルを示しています。[OC]."
+    },
+    {
+      "locale": "zh",
+      "title": "绘制世界电力线图。这张地图显示了世界各地的电力线，来源于开放的街道地图。[OC]"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "繪製世界電力線圖。這張地圖顯示了世界各地的電力線，來源於開放的街道地圖。[OC]"
+    }
+  ]
 }
