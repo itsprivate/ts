@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今日、誰が19kgのチェダーを見る必要があるのかわかりませんが、ここにあります。"
+    },
+    {
+      "locale": "zh",
+      "title": "我不知道今天谁需要看到42磅/19公斤的切达奶酪块，但它就在这里。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我不知道今天誰需要看到42磅/19公斤的切達奶酪塊，但它就在這裏。"
+    }
+  ]
 }
