@@ -57,5 +57,22 @@
   "original_created_at": "2021-11-02T13:22:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FOnR1-Kx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fhq2wh0zfjc6k8a4j24a.png",
   "author": "Josefine Schfr",
-  "author_url": "https://dev.to/josefine"
+  "author_url": "https://dev.to/josefine",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Photo by Abby Chung from Pexels あなたは、開発者としての道を歩み続けたいと考えています。",
+      "title": "開発者向け学習リソース"
+    },
+    {
+      "locale": "zh",
+      "description": "照片：Abby Chung from Pexels 你想继续你的开发之旅，通过...",
+      "title": "开发人员的学习资源"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "照片：Abby Chung from Pexels 你想繼續你的開發之旅，通過...",
+      "title": "開發人員的學習資源"
+    }
+  ]
 }
