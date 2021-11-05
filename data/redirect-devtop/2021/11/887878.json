@@ -41,5 +41,22 @@
   "original_created_at": "2021-11-04T13:40:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Iu6AQAYr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g9744qnjxvuudc3iukj6.jpg",
   "author": "Sergii Lischuk",
-  "author_url": "https://dev.to/leefrost"
+  "author_url": "https://dev.to/leefrost",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "開発は常に進化の道であった。現代のプログラミング開発の進化がもたらすものは...",
+      "title": "コンテナ構築のための7つのベスト・プラクティス"
+    },
+    {
+      "locale": "zh",
+      "description": "发展始终是一种进化的方式。现代编程开发的演变带来了一个...",
+      "title": "构建容器的7个最佳实践"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "發展始終是一種進化的方式。現代編程開發的演變帶來了一個...",
+      "title": "構建容器的7個最佳實踐"
+    }
+  ]
 }
