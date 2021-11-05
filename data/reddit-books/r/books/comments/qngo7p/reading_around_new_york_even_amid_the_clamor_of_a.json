@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Reading Around New York: 大都市の喧騒の中でも、ニューヨーカーは常に良い本の中に逃げ込むことができます。"
+    },
+    {
+      "locale": "zh",
+      "title": "纽约周边阅读。即使在百万人城市的喧嚣中，纽约人也总是能够躲进一本好书中。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "紐約周邊閱讀。即使在百萬人城市的喧囂中，紐約人也總是能夠躲進一本好書中。"
+    }
+  ]
 }
