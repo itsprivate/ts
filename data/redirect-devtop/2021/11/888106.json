@@ -43,5 +43,22 @@
   "original_created_at": "2021-11-04T15:33:35Z",
   "image": "https://dev.to/social_previews/article/888106.png",
   "author": "ADESANYA JOSHUA AYODEJI",
-  "author_url": "https://dev.to/josh4324"
+  "author_url": "https://dev.to/josh4324",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ブロックチェーンとは？  ブロックチェーンとは、ブロックごとに記録されたデジタルチェーンのことです。",
+      "title": "初心者のためのブロックチェーン"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是区块链？  区块链是一个数字区块链，每个区块都记录着...",
+      "title": "区块链的初学者"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是區塊鏈？  區塊鏈是一個數字區塊鏈，每個區塊都記錄着...",
+      "title": "區塊鏈的初學者"
+    }
+  ]
 }
