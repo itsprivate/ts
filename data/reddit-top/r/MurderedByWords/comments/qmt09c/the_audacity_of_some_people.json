@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "一部の人々の大胆さは..."
+    },
+    {
+      "locale": "zh",
+      "title": "一些人的胆量..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一些人的膽量..."
+    }
+  ]
 }
