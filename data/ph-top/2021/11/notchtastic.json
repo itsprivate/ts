@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-06T07:01:00Z"
+  "original_createdAt": "2021-11-06T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "デザイナーの方も、Mac愛好家の方も、Notchtasticは、今お使いのデバイスでMacのカメラのノッチを体験するお手伝いをします。Notchtasticは、2021年のMacBook Prosで発表されたノッチをシミュレートして、画面上部のカメラノッチをリアルにレンダリングします。",
+      "tagline": "すべてのMacにカメラ付きノッチを"
+    },
+    {
+      "locale": "zh",
+      "description": "无论你是设计师还是Mac爱好者，Notchtastic都能帮助你今天在你当前的设备上体验到Mac相机的凹槽。Notchtastic在你的屏幕顶部渲染了一个逼真的摄像头凹槽，模拟2021年MacBook Pros中发布的凹槽。",
+      "tagline": "每台Mac都有一个摄像头的凹槽"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "無論你是設計師還是Mac愛好者，Notchtastic都能幫助你今天在你當前的設備上體驗到Mac相機的凹槽。Notchtastic在你的屏幕頂部渲染了一個逼真的攝像頭凹槽，模擬2021年MacBook Pros中發佈的凹槽。",
+      "tagline": "每臺Mac都有一個攝像頭的凹槽"
+    }
+  ]
 }
