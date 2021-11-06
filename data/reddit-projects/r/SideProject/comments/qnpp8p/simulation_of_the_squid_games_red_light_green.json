@@ -59,5 +59,19 @@
     }
   },
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "UPBGE、Python、Blenderを中心に制作された、イカゲームの「Red Light, Green Light」のシミュレーション。ニューラルネットワークで制御されたロボットが、遺伝的アルゴリズムによって数世代にわたって改良されていく。果たして人工知能は「Red Light, Green Light」ゲームに勝てるのか？気に入っていただけると嬉しいです。"
+    },
+    {
+      "locale": "zh",
+      "title": "鱿鱼游戏的红灯、绿灯的模拟，主要使用UPBGE、Python和Blender来制作。神经网络控制的机器人在遗传算法的作用下经过几代人的改进。人工智能能打败《红灯绿灯》游戏吗？希望你喜欢!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "魷魚遊戲的紅燈、綠燈的模擬，主要使用UPBGE、Python和Blender來製作。神經網絡控制的機器人在遺傳算法的作用下經過幾代人的改進。人工智能能打敗《紅燈綠燈》遊戲嗎？希望你喜歡!"
+    }
+  ]
 }
