@@ -32,5 +32,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "I have developed an API that groups your documents and extracts a keyword for\neach group that serves as a topic. Essentially, you can send the text of\nmultiple documents as a list and their respective ID to the API. The endpoint\nthen returns the IDs for the various groups and their respective…"
+  "the_new_excerpt": "I have developed an API that groups your documents and extracts a keyword for\neach group that serves as a topic. Essentially, you can send the text of\nmultiple documents as a list and their respective ID to the API. The endpoint\nthen returns the IDs for the various groups and their respective…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ドキュメントをグループ化して、グループごとにトピックとなるキーワードを抽出するAPIを開発しました。\nトピックとなるキーワードを抽出するAPIを開発しました。基本的には、複数のドキュメントのテキストを\n複数のドキュメントのテキストをリストにして、それぞれのIDをAPIに送ることができます。エンドポイントは\nエンドポイントは、様々なグループのIDとそれぞれの...",
+      "title": "RapidAPIでDocument/Text GroupingとTopic ExtractionのAPIを作成しました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我已经开发了一个API，可以对你的文件进行分组，并为每个组提取一个关键词作为主题。\n每组提取一个关键词作为主题。从本质上讲，你可以把多个文件的文本作为一个列表和它们各自的ID发送给API。\n多个文件的文本和它们各自的ID到API。端点\n然后返回各组的ID和它们各自的ID。",
+      "title": "我在RapidAPI上创建了一个用于文档/文本分组和主题提取的API"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我已經開發了一個API，可以對你的文件進行分組，併爲每個組提取一個關鍵詞作爲主題。\n每組提取一個關鍵詞作爲主題。從本質上講，你可以把多個文件的文本作爲一個列表和它們各自的ID發送給API。\n多個文件的文本和它們各自的ID到API。端點\n然後返回各組的ID和它們各自的ID。",
+      "title": "我在RapidAPI上創建了一個用於文檔/文本分組和主題提取的API"
+    }
+  ]
 }
