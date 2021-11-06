@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-06T07:00:00Z"
+  "original_createdAt": "2021-11-06T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "講義のスニペットやスクリーンショットを1つのコマンドで記録することができます。Notionドキュメントに自動的に保存 ネイティブ品質のオーディオとビデオ",
+      "tagline": "Notionがあなたのオンライン講義の相棒になります。"
+    },
+    {
+      "locale": "zh",
+      "description": "在一个命令中记录讲座片段和屏幕截图。自动保存到你的Notion文档中 原生质量的音频和视频",
+      "tagline": "将Notion变成你的在线讲座助手"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在一個命令中記錄講座片段和屏幕截圖。自動保存到你的Notion文檔中 原生質量的音頻和視頻",
+      "tagline": "將Notion變成你的在線講座助手"
+    }
+  ]
 }
