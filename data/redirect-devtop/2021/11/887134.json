@@ -43,5 +43,22 @@
   "original_created_at": "2021-11-03T21:21:22Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JE58rvJ0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oo5ypmekxxmkje039hol.png",
   "author": "Christina Gorton",
-  "author_url": "https://dev.to/coffeecraftcode"
+  "author_url": "https://dev.to/coffeecraftcode",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Foremでは、数人の同僚と私でLinux Club🤓を結成しました。 Joe Dossがこの冒険をリードしてくれています...。",
+      "title": "ルートからLinuxへ。BIOS"
+    },
+    {
+      "locale": "zh",
+      "description": "在Forem，我和几个同事组成了一个Linux俱乐部🤓。 Joe Doss正带领我们进行这次冒险...",
+      "title": "根基到Linux。BIOS"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在Forem，我和幾個同事組成了一個Linux俱樂部🤓。 Joe Doss正帶領我們進行這次冒險...",
+      "title": "根基到Linux。BIOS"
+    }
+  ]
 }
