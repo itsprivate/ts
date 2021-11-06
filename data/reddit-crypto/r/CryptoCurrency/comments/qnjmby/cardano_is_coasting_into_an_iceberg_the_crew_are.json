@@ -57,5 +57,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Sundaeswap swap has recently released their work around for the fact that UTXO\ncurrently cannot run a permissionless, decentralized AMM DEX\n(Uniswap/PancakeSwap). Items of note:\n\n-the Sundaeswap team determined that the entire Cardano chain, without any other\ndApps competing for resources, will have…"
+  "the_new_excerpt": "Sundaeswap swap has recently released their work around for the fact that UTXO\ncurrently cannot run a permissionless, decentralized AMM DEX\n(Uniswap/PancakeSwap). Items of note:\n\n-the Sundaeswap team determined that the entire Cardano chain, without any other\ndApps competing for resources, will have…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "Sundaeswap swapは、UTXOが現在、許可のない分散型AMM DEXを実行できないという事実に対する回避策を最近発表しました。\nは現在、パーミッションレスで分散型のAMM DEXを実行できません\n(Uniswap/PancakeSwap)を発表しました。注目すべき点\n\n-Sundaeswapチームは、他のdAppがリソースを奪い合うことなく、カルダノチェーン全体で行うことを決定しました。\nSundaeswapチームは、他のdAppsがリソースを競合することなく、カルダノチェーン全体で...",
+      "title": "カルダノは氷山に向かって惰性で進んでいる。乗組員たちはそれを見始めているが、誰も救命ボートを用意して乗客を驚かせようとはしない。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "Sundaeswap swap最近发布了他们的工作方案，以解决UTXO\n目前不能运行一个无权限的、分散的AMM DEX\n(Uniswap/PancakeSwap）。值得注意的项目。\n\n-Sundaeswap团队确定，整个Cardano链，没有任何其他的\ndApps竞争资源，将有...",
+      "title": "卡达诺正在驶入一座冰山，船员们开始看到它，但没有人想通过准备救生艇来惊动乘客。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "Sundaeswap swap最近發佈了他們的工作方案，以解決UTXO\n目前不能運行一個無權限的、分散的AMM DEX\n(Uniswap/PancakeSwap）。值得注意的項目。\n\n-Sundaeswap團隊確定，整個Cardano鏈，沒有任何其他的\ndApps競爭資源，將有...",
+      "title": "卡達諾正在駛入一座冰山，船員們開始看到它，但沒有人想通過準備救生艇來驚動乘客。"
+    }
+  ]
 }

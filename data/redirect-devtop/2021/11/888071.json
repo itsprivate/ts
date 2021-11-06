@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-04T14:13:17Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XDrSNyBt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/27y98dj2q686r8r6ntuf.jpg",
   "author": "Dhruv Rajkotia",
-  "author_url": "https://dev.to/dhruv_rajkotia"
+  "author_url": "https://dev.to/dhruv_rajkotia",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近では、多くの人がサイドプロジェクトやPoC（概念実証）に取り組んでおり、その成果を発表しています。",
+      "title": "5分以内にNodeJSアプリケーションをデプロイ"
+    },
+    {
+      "locale": "zh",
+      "description": "现在，很多人都在做副业或PoC（概念验证），以展示他们的工作。",
+      "title": "在5分钟内部署NodeJS应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "現在，很多人都在做副業或PoC（概念驗證），以展示他們的工作。",
+      "title": "在5分鐘內部署NodeJS應用程序"
+    }
+  ]
 }
