@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-27T10:17:26Z",
   "image": "https://dev.to/social_previews/article/878176.png",
   "author": "javinpaul",
-  "author_url": "https://dev.to/javinpaul"
+  "author_url": "https://dev.to/javinpaul",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Java SE 8およびJava SE 11認定に合格するための書籍、コース、模擬試験などのリソースを備えた、認定Java開発者になるための完全なガイドです。",
+      "title": "2022年に認定Java開発者のプロになるには"
+    },
+    {
+      "locale": "zh",
+      "description": "成为一名合格的Java开发人员的完整指南，包括通过Java SE 8和Java SE 11认证的资源，如书籍、课程和模拟测试。",
+      "title": "如何在2022年成为一名认证的Java开发专家"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "成爲一名合格的Java開發人員的完整指南，包括通過Java SE 8和Java SE 11認證的資源，如書籍、課程和模擬測試。",
+      "title": "如何在2022年成爲一名認證的Java開發專家"
+    }
+  ]
 }
