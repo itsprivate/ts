@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-03T16:32:21Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BL0hPALq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m6wxo75ajg5udfj6enu7.jpg",
   "author": "Mystery Code",
-  "author_url": "https://dev.to/mysterycode"
+  "author_url": "https://dev.to/mysterycode",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、JavaScriptとAPIを使ってRandom Quote Generatorを作成する方法をご紹介します。私は...",
+      "title": "JavaScriptとAPIを使ったランダム引用符の生成"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，你将学习如何使用JavaScript和API创建随机报价器。我已经...",
+      "title": "使用JavaScript和API的随机报价生成器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，你將學習如何使用JavaScript和API創建隨機報價器。我已經...",
+      "title": "使用JavaScript和API的隨機報價生成器"
+    }
+  ]
 }
