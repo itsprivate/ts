@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-04T05:42:39Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--diQu6Grs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/58ct0473bm8hgc45kidz.png",
   "author": "Abhinav Maurya",
-  "author_url": "https://dev.to/abno24"
+  "author_url": "https://dev.to/abno24",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "読者の皆様、こんにちは。私の名前はAbhinav Mauryaです。私はフロントエンドの開発者で、バックエンドに向かっています。....",
+      "title": "瞑想でプログラミングが上達する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "读者朋友们好，我叫Abhinav maurya，我是前端开发员，正向后端发展....。",
+      "title": "冥想是如何帮助我在编程方面取得进步的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "讀者朋友們好，我叫Abhinav maurya，我是前端開發員，正向後端發展....。",
+      "title": "冥想是如何幫助我在編程方面取得進步的？"
+    }
+  ]
 }
