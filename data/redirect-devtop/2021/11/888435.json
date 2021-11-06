@@ -43,5 +43,22 @@
   "original_created_at": "2021-11-04T22:29:55Z",
   "image": "https://dev.to/social_previews/article/888435.png",
   "author": "Miguel Teheran",
-  "author_url": "https://dev.to/mteheran"
+  "author_url": "https://dev.to/mteheran",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "csharpの歴史を振り返る旅",
+      "title": "C#の進化"
+    },
+    {
+      "locale": "zh",
+      "description": "csharp历史中的短暂旅程",
+      "title": "C#的演变"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "csharp歷史中的短暫旅程",
+      "title": "C#的演變"
+    }
+  ]
 }

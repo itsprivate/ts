@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "国全体がライヒスターク"
+    },
+    {
+      "locale": "zh",
+      "title": "整个国家都是国会大厦"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "整個國家都是國會大廈"
+    }
+  ]
 }
