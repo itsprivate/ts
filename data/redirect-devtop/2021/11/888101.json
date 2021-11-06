@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-04T15:26:42Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cMKgT-GM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d9x6ibatjqgzibmxd29j.png",
   "author": "Altamash Ali",
-  "author_url": "https://dev.to/altamashali"
+  "author_url": "https://dev.to/altamashali",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、Node.jsのアーキテクチャを深く掘り下げて、非同期の...",
+      "title": "Node.jsアーキテクチャへのディープダイブ"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我们将深入研究Node.js的架构，并了解异步的使用方法。",
+      "title": "深入了解Node.js架构"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我們將深入研究Node.js的架構，並瞭解異步的使用方法。",
+      "title": "深入瞭解Node.js架構"
+    }
+  ]
 }
