@@ -14,5 +14,19 @@
   "tags": [
     "ABC News"
   ],
-  "image": "https://s.abcnews.com/images/US/211105_vod_OnLocation_v2_hpMain_16x9_992.jpg"
+  "image": "https://s.abcnews.com/images/US/211105_vod_OnLocation_v2_hpMain_16x9_992.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ドイツの列車でナイフ攻撃を受け、3人が重傷を負う"
+    },
+    {
+      "locale": "zh",
+      "title": "德国火车上的持刀袭击事件造成3人严重受伤"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "德國火車上的持刀襲擊事件造成3人嚴重受傷"
+    }
+  ]
 }
