@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-06T07:01:00Z"
+  "original_createdAt": "2021-11-06T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "PDFファイルのプレビュー画像を生成します。デモ: http://pdf2preview.chuanenlin.com/ コード: https://github.com/chuanenlin/pdf2preview",
+      "tagline": "PDFファイルのプレビュー画像を生成する"
+    },
+    {
+      "locale": "zh",
+      "description": "为你的PDF文件生成一个预览图像。演示：http://pdf2preview.chuanenlin.com/ 代码：https://github.com/chuanenlin/pdf2preview",
+      "tagline": "为PDF文件生成一个预览图像"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "爲你的PDF文件生成一個預覽圖像。演示：http://pdf2preview.chuanenlin.com/ 代碼：https://github.com/chuanenlin/pdf2preview",
+      "tagline": "爲PDF文件生成一個預覽圖像"
+    }
+  ]
 }
