@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "悟空の髪型はお母さんが作ってくれました。"
+    },
+    {
+      "locale": "zh",
+      "title": "这个家伙的悟空发型是他妈妈做的"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個傢伙的悟空髮型是他媽媽做的"
+    }
+  ]
 }

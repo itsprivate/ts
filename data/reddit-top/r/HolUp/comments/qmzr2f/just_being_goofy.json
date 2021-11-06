@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ただのおふざけです :)"
+    },
+    {
+      "locale": "zh",
+      "title": "只是呆呆地看着 :)"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "只是呆呆地看着 :)"
+    }
+  ]
 }
