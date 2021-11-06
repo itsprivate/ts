@@ -57,5 +57,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "There can only ever be 21 million Bitcoin. Roughly every four years, the amount\nof new coins being created is halved - an event called the halving. The idea is\nthat a reduction of new Bitcoins created combined with increased demand leads to\nhigher prices. This is why Bitcoin is often described as…"
+  "the_new_excerpt": "There can only ever be 21 million Bitcoin. Roughly every four years, the amount\nof new coins being created is halved - an event called the halving. The idea is\nthat a reduction of new Bitcoins created combined with increased demand leads to\nhigher prices. This is why Bitcoin is often described as…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ビットコインは2100万個しか存在しません。大体4年に一度、新しいビットコインの量が\n半分になるというイベントがあります。考え方としては\nビットコインの新規発行量が減り、需要が増えれば価格が上昇するというものです。\n価格が上昇するというものです。これが、ビットコインがしばしば「...」と表現される理由です。",
+      "title": "BTCの半減、半減サイクルをよく理解していないが、今更聞くのも憚られるのでは？そんなあなたのために簡単な紹介をします。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "比特币只能有2100万枚。大约每四年，新币的数量\n新币的数量就会减半--这一事件被称为减半。这个想法是\n创造的新比特币的减少与需求的增加导致了\n更高的价格。这就是为什么比特币经常被描述为...",
+      "title": "你不太了解BTC减半的周期，但你此时不敢问吗？这里为你简单介绍一下。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "比特幣只能有2100萬枚。大約每四年，新幣的數量\n新幣的數量就會減半--這一事件被稱爲減半。這個想法是\n創造的新比特幣的減少與需求的增加導致了\n更高的價格。這就是爲什麼比特幣經常被描述爲...",
+      "title": "你不太瞭解BTC減半的週期，但你此時不敢問嗎？這裏爲你簡單介紹一下。"
+    }
+  ]
 }
