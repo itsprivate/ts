@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-05T23:15:35Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9Xk74N7c--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c1vyo1vlbfervzy88my6.png",
   "author": "Jose Angel Munoz",
-  "author_url": "https://dev.to/imjoseangel"
+  "author_url": "https://dev.to/imjoseangel",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "フー・ミン氏が書いた文書を読んだとき、私は...についてのさまざまな概念を学びたいと思いました。",
+      "title": "60行のPythonでブロックチェーンを作る"
+    },
+    {
+      "locale": "zh",
+      "description": "当我读到福明写的文件时，我对学习有关的不同概念感到好奇。",
+      "title": "用60行Python语言创建一个区块链"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當我讀到福明寫的文件時，我對學習有關的不同概念感到好奇。",
+      "title": "用60行Python語言創建一個區塊鏈"
+    }
+  ]
 }
