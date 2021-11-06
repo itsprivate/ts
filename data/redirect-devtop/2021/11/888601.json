@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-05T02:46:37Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cksnw9zL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gadbe57hsdrfvubsc52d.png",
   "author": "Cristopher Coronado",
-  "author_url": "https://dev.to/cristofima"
+  "author_url": "https://dev.to/cristofima",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、.NETにClean Architectureを実装する方法を学びます。この記事では...",
+      "title": ".NETにおけるクリーンなアーキテクチャの実装"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我们将学习如何在.NET上实现清洁架构。我们将...",
+      "title": "在.NET上实施清洁架构"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我們將學習如何在.NET上實現清潔架構。我們將...",
+      "title": "在.NET上實施清潔架構"
+    }
+  ]
 }
