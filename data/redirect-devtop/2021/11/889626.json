@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-05T21:20:25Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--asJO8twN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c0b27kgfifoqvex80p9o.jpeg",
   "author": "Bruno Rocha",
-  "author_url": "https://dev.to/rochacbruno"
+  "author_url": "https://dev.to/rochacbruno",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Pythonのオブジェクト 🐍 Pythonでは全てがオブジェクトです。 オブジェクトは以下のもので構成されています。  メモリ...",
+      "title": "Python プロトコル指向プログラミング"
+    },
+    {
+      "locale": "zh",
+      "description": "Python 对象 🐍 在 Python 中，所有东西都是一个对象。 一个对象由以下部分组成。  一个内存...",
+      "title": "面向协议的Python编程"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Python 對象 🐍 在 Python 中，所有東西都是一個對象。 一個對象由以下部分組成。  一個內存...",
+      "title": "面向協議的Python編程"
+    }
+  ]
 }
