@@ -52,5 +52,22 @@
   "original_created_at": "2021-11-05T07:48:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mFryOq3q--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/djmmhn1d8b8pf31z7q9r.png",
   "author": "Saji Wang",
-  "author_url": "https://dev.to/sewangco"
+  "author_url": "https://dev.to/sewangco",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "数年前にPew Research社が行った調査によると、ツイートのうち⅔...",
+      "title": "NodeJSでTwitter APIを使う"
+    },
+    {
+      "locale": "zh",
+      "description": "皮尤研究中心几年前曾做过一项研究，发现在所有推文中，有⅔的推文。",
+      "title": "用NodeJS使用Twitter API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "皮尤研究中心幾年前曾做過一項研究，發現在所有推文中，有⅔的推文。",
+      "title": "用NodeJS使用Twitter API"
+    }
+  ]
 }
