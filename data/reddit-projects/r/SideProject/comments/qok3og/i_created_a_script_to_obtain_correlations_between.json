@@ -57,5 +57,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "I wrote this to help me build a portfolio with a target return and minimum\nvariance. The idea is from a portfolio construction class I was taking, but the\nlack of tools available to actually build such a portfolio baffled me, so I made\na simple python script for that…"
+  "the_new_excerpt": "I wrote this to help me build a portfolio with a target return and minimum\nvariance. The idea is from a portfolio construction class I was taking, but the\nlack of tools available to actually build such a portfolio baffled me, so I made\na simple python script for that…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "これは、目標リターンと最小分散のポートフォリオを構築するために書きました。\n分散である。このアイデアは、私が受講していたポートフォリオ構築のクラスから来ています。\n実際にそのようなポートフォリオを構築するためのツールがないことに困惑したので、そのためのシンプルなpythonスクリプトを作りました。\nそのためにシンプルなpythonスクリプトを作りました。",
+      "title": "銘柄間の相関関係を取得し、最適なポートフォリオを構築するスクリプトを作成しました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我写这个是为了帮助我建立一个具有目标收益和最小方差的投资组合。\n差异。这个想法来自于我正在上的投资组合构建课，但缺乏实际构建这种投资组合的工具让我感到困惑。\n但缺乏实际构建这种投资组合的工具让我很困惑，所以我做了一个\n一个简单的python脚本...",
+      "title": "我创建了一个脚本，以获得股票之间的相关性并建立一个优化的投资组合。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我寫這個是爲了幫助我建立一個具有目標收益和最小方差的投資組合。\n差異。這個想法來自於我正在上的投資組合構建課，但缺乏實際構建這種投資組合的工具讓我感到困惑。\n但缺乏實際構建這種投資組合的工具讓我很困惑，所以我做了一個\n一個簡單的python腳本...",
+      "title": "我創建了一個腳本，以獲得股票之間的相關性並建立一個優化的投資組合。"
+    }
+  ]
 }
