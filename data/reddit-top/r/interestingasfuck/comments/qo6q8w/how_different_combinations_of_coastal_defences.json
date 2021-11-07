@@ -64,5 +64,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "沿岸防波堤と波浪・潮位の組み合わせの違いが越流と洪水リスクにどのように影響するか"
+    },
+    {
+      "locale": "zh",
+      "title": "沿海防御设施的不同组合以及波浪和潮汐条件如何影响倾覆和洪水风险"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "沿海防禦設施的不同組合以及波浪和潮汐條件如何影響傾覆和洪水風險"
+    }
+  ]
 }
