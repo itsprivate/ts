@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ウイルスとの接触は、ワクチンを接種した人・回復した人のブースターショットとして機能しますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "与病毒接触的人是否可以作为接种疫苗/康复者的加强针？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "與病毒接觸的人是否可以作爲接種疫苗/康復者的加強針？"
+    }
+  ]
 }
