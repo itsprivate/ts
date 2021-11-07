@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-07T07:00:00Z"
+  "original_createdAt": "2021-11-07T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "アップアップランドでは、web3を簡単に探索できる興味深い製品やリソースのデータベースを作成しました。",
+      "tagline": "Web3を見る"
+    },
+    {
+      "locale": "zh",
+      "description": "是时候探索web3了。通过upupland，我们创建了一个有趣的产品和资源数据库，使探索web3变得容易。",
+      "tagline": "探索web3"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "是時候探索web3了。通過upupland，我們創建了一個有趣的產品和資源數據庫，使探索web3變得容易。",
+      "tagline": "探索web3"
+    }
+  ]
 }
