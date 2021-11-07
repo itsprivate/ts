@@ -52,5 +52,22 @@
   "original_created_at": "2021-11-04T14:20:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0Jc8rMZX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/51ugikpplrhev3zkn466.png",
   "author": "Agnieszka",
-  "author_url": "https://dev.to/agnieszka"
+  "author_url": "https://dev.to/agnieszka",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あなたはチームメイトにコードの助けを求め、彼らはあなたに自分のコードで解決策を示しました。",
+      "title": "WebStormでチームメイトの変更を自分のRepoにプッシュ＆プルせずにチェリーピックする"
+    },
+    {
+      "locale": "zh",
+      "description": "你向你的队友求助于一段代码，他们向你展示了他们的解决方案。",
+      "title": "在WebStorm中无需推拉就能摘取队友的修改内容到你的Repo上"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你向你的隊友求助於一段代碼，他們向你展示了他們的解決方案。",
+      "title": "在WebStorm中無需推拉就能摘取隊友的修改內容到你的Repo上"
+    }
+  ]
 }
