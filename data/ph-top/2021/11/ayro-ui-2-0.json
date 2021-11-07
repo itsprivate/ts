@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-07T07:07:54Z"
+  "original_createdAt": "2021-11-07T07:07:54Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Bootstrap UI Components Snippetsは、スニペットをコピーペーストすることで、高速でレスポンシブなランディングページ、テンプレート、ウェブサイトを作成します。300以上のフリーおよびプレミアムの美しいUIコンポーネント、スニペット、ブロック、ページ、およびテンプレートのUIライブラリ。",
+      "tagline": "モダンなウェブアプリケーションのためのBootstrap UIコンポーネントスニペット"
+    },
+    {
+      "locale": "zh",
+      "description": "Bootstrap UI组件片段，通过复制粘贴片段来创建快速和响应性的登陆页面、模板或网站。由300多个免费和优质的漂亮UI组件、片段、块、页面和模板组成的UI库。",
+      "tagline": "现代网络应用的Bootstrap UI组件片段"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Bootstrap UI組件片段，通過複製粘貼片段來創建快速和響應性的登陸頁面、模板或網站。由300多個免費和優質的漂亮UI組件、片段、塊、頁面和模板組成的UI庫。",
+      "tagline": "現代網絡應用的Bootstrap UI組件片段"
+    }
+  ]
 }
