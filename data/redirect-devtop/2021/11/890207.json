@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-06T11:35:12Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yhx36SZR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ubu8f3d0hkde0yfguz7i.png",
   "author": "Lucian Tartea",
-  "author_url": "https://dev.to/luciantartea"
+  "author_url": "https://dev.to/luciantartea",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "数週間前、私はHTMLとCSSだけで製品を作れることを証明するための挑戦に乗り出しました。",
+      "title": "HTMLとCSSだけで製品を作る方法"
+    },
+    {
+      "locale": "zh",
+      "description": "几个星期前，我开始了一项挑战，以证明你可以只用HTML和CSS来构建一个产品。",
+      "title": "如何只用HTML和CSS来构建一个产品"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "幾個星期前，我開始了一項挑戰，以證明你可以只用HTML和CSS來構建一個產品。",
+      "title": "如何只用HTML和CSS來構建一個產品"
+    }
+  ]
 }
