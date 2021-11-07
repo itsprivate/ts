@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-06T09:27:02Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zVZC9chW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2d6s6e777ko15x3bvhww.png",
   "author": "Francisco Mendes",
-  "author_url": "https://dev.to/franciscomendes10866"
+  "author_url": "https://dev.to/franciscomendes10866",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "概要 サイドバーを実装するには、いくつかの方法があります。",
+      "title": "ReactとTailwindを使ってサイドナビゲーションバーを作成する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "概述 我们可以采取几种方法在我们的网站上实现侧边栏。",
+      "title": "如何使用React和Tailwind创建一个侧面导航栏"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "概述 我們可以採取幾種方法在我們的網站上實現側邊欄。",
+      "title": "如何使用React和Tailwind創建一個側面導航欄"
+    }
+  ]
 }
