@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] 4km分解能の大気モデルでシミュレーションした2.5ヶ月間の欧州の気温"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC] 4公里分辨率大气模型模拟的欧洲2.5个月的温度"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC] 4公里分辨率大氣模型模擬的歐洲2.5個月的溫度"
+    }
+  ]
 }
