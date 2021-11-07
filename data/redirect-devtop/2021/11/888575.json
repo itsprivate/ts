@@ -39,5 +39,22 @@
   "original_created_at": "2021-11-05T00:54:57Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UqhfLXax--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cq5n1ssthleijacrdxjv.png",
   "author": "G.L Solaria",
-  "author_url": "https://dev.to/glsolaria"
+  "author_url": "https://dev.to/glsolaria",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "C#は約20年前にリリースされましたが、最近ではリリースのペースが上がり、新しい...",
+      "title": "C# 10.0の新機能"
+    },
+    {
+      "locale": "zh",
+      "description": "C#大约在20年前首次发布，最近发布的步伐加快，新的...",
+      "title": "C# 10.0中的新内容"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "C#大約在20年前首次發佈，最近發佈的步伐加快，新的...",
+      "title": "C# 10.0中的新內容"
+    }
+  ]
 }
