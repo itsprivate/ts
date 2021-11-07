@@ -91,5 +91,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "記事の政治的な偏りをAIで検知するChrome拡張機能を作ってみた"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个Chrome扩展，可以用AI检测文章的政治倾向性"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個Chrome擴展，可以用AI檢測文章的政治傾向性"
+    }
+  ]
 }
