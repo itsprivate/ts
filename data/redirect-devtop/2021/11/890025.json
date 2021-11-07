@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-06T05:59:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s---HwnYO0L--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8le99uckss2d3pm4dm9n.jpg",
   "author": "Mohamed El Amine Yamani",
-  "author_url": "https://dev.to/yamanidev"
+  "author_url": "https://dev.to/yamanidev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "目次 はじめに ボックスモデルとは？ボックスの種類 ボックスサイジング ボーナス...",
+      "title": "CSSのボックスモデルについて"
+    },
+    {
+      "locale": "zh",
+      "description": "内容简介 什么是盒子模型？盒子的类型 盒子的尺寸 奖金...",
+      "title": "了解CSS中的盒式模型"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "內容簡介 什麼是盒子模型？盒子的類型 盒子的尺寸 獎金...",
+      "title": "瞭解CSS中的盒式模型"
+    }
+  ]
 }
