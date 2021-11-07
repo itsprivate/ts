@@ -52,5 +52,22 @@
   "original_created_at": "2021-11-07T09:59:26Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5Dxsbzz3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x63a9qrykuqwxk28nyqg.jpg",
   "author": "Vadim Kolobanov",
-  "author_url": "https://dev.to/vadimkolobanov"
+  "author_url": "https://dev.to/vadimkolobanov",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Photo by AltumCode on Unsplash Pythonはそのシンプルさと使いやすさで有名です。これは...",
+      "title": "5つのPythonトリックを1行にまとめました。初心者 vs プロ"
+    },
+    {
+      "locale": "zh",
+      "description": "照片：AltumCode on Unsplash Python以其简单性和易用性而闻名。这是...",
+      "title": "一行中的5个Python技巧。初学者与专业人士"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "照片：AltumCode on Unsplash Python以其簡單性和易用性而聞名。這是...",
+      "title": "一行中的5個Python技巧。初學者與專業人士"
+    }
+  ]
 }
