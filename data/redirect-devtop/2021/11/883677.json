@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-01T09:49:51Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uIpRP-OK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u1dezj1gw3i4qm4kqpsw.png",
   "author": "David Asaolu",
-  "author_url": "https://dev.to/arshadayvid"
+  "author_url": "https://dev.to/arshadayvid",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、このチュートリアルへようこそ。今日は、超高速なCRUDを行う方法をご紹介します...",
+      "title": "Modular Firebase, v9によるCRUDオペレーション"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，欢迎来到本教程。今天，我将向你展示如何执行超快的CRUD。",
+      "title": "使用模块化Firebase的CRUD操作，v9"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，歡迎來到本教程。今天，我將向你展示如何執行超快的CRUD。",
+      "title": "使用模塊化Firebase的CRUD操作，v9"
+    }
+  ]
 }
