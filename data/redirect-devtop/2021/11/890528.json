@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-06T19:13:16Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Zp2dKbj1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h226new04twxh58mku2t.png",
   "author": "Ziady Mubaraq",
-  "author_url": "https://dev.to/ziterz"
+  "author_url": "https://dev.to/ziterz",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "codesandbox.ioをベースにした細部のデザイン、楽しんでいただけたら幸いです。 私もProduct Huntで発売しましたが、...",
+      "title": "CodeSandbox Black、史上最高のVSCodeテーマ!"
+    },
+    {
+      "locale": "zh",
+      "description": "基于codesandbox.io的详细设计，希望你能喜欢!  我也在Product Hunt上推出了它，并且...",
+      "title": "CodeSandbox Black，有史以来最好的VSCode主题!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "基於codesandbox.io的詳細設計，希望你能喜歡!  我也在Product Hunt上推出了它，並且...",
+      "title": "CodeSandbox Black，有史以來最好的VSCode主題!"
+    }
+  ]
 }
