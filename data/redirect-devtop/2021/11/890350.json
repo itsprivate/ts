@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-06T15:41:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rYoEo9F6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0okndn5k0ybtvzx6j0sn.png",
   "author": "Visakh Vijayan",
-  "author_url": "https://dev.to/vjnvisakh"
+  "author_url": "https://dev.to/vjnvisakh",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ブログ用のウェブサイトを開発したいと思ってからずいぶん経ちました。毎回、私はそれに座って1...",
+      "title": "ヘッドレスCMSとしてのDev.to"
+    },
+    {
+      "locale": "zh",
+      "description": "我想开发一个网站来写博客，已经很久了。每次我坐在那里的时候，都是一个...",
+      "title": "Dev.to作为一个无头CMS"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我想開發一個網站來寫博客，已經很久了。每次我坐在那裏的時候，都是一個...",
+      "title": "Dev.to作爲一個無頭CMS"
+    }
+  ]
 }
