@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-07T10:34:59Z"
+  "original_createdAt": "2021-11-07T10:34:59Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "macOS MontereyでAppleは、Macに新しい低電力モードを導入しました。Cooldownはシンプルなメニューバーアプリで、低電力モードのオン／オフをすばやく切り替えることができます。",
+      "tagline": "メニューバーからMacの低電力モードを素早く切り替えることができる"
+    },
+    {
+      "locale": "zh",
+      "description": "在macOS Monterey中，苹果为Mac引入了新的低功率模式。Cooldown是一个简单的菜单栏应用程序，允许你快速切换低功率模式的开启和关闭。",
+      "tagline": "从菜单栏快速切换Mac上的低功率模式"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在macOS Monterey中，蘋果爲Mac引入了新的低功率模式。Cooldown是一個簡單的菜單欄應用程序，允許你快速切換低功率模式的開啓和關閉。",
+      "tagline": "從菜單欄快速切換Mac上的低功率模式"
+    }
+  ]
 }
