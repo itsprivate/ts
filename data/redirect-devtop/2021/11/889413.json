@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-05T18:39:19Z",
   "image": "https://dev.to/social_previews/article/889413.png",
   "author": "Aimen Zairi",
-  "author_url": "https://dev.to/zairiaimendev"
+  "author_url": "https://dev.to/zairiaimendev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "プログラミングは、コードを書くだけではありません。 もしあなたが初心者プログラマーであれば、もしかしたら...。",
+      "title": "プログラミングの7つの大罪"
+    },
+    {
+      "locale": "zh",
+      "description": "编程并不总是关于写代码。 如果你是一个初级程序员，你可能已经跌倒了...",
+      "title": "编程的七宗罪"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "編程並不總是關於寫代碼。 如果你是一個初級程序員，你可能已經跌倒了...",
+      "title": "編程的七宗罪"
+    }
+  ]
 }
