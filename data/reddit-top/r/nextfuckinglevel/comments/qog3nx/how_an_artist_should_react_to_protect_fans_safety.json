@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ファンの安全を守るためのアーティストの対応について"
+    },
+    {
+      "locale": "zh",
+      "title": "艺术家应该如何反应以保护粉丝的安全"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "藝術家應該如何反應以保護粉絲的安全"
+    }
+  ]
 }
