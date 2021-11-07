@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの文化の中で、外部の人には魅力的に見えないかもしれないが、あなたにとっては家のように感じられるものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你的文化中有哪些方面在外人看来可能并不吸引人，但对你来说却有家的感觉？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你的文化中有哪些方面在外人看來可能並不吸引人，但對你來說卻有家的感覺？"
+    }
+  ]
 }

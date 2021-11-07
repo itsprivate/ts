@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "トラスト・ザ・プロセスの定義"
+    },
+    {
+      "locale": "zh",
+      "title": "信任过程的定义"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "信任過程的定義"
+    }
+  ]
 }

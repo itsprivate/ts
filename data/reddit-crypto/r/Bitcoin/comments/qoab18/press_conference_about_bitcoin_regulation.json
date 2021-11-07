@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインの規制に関する記者会見"
+    },
+    {
+      "locale": "zh",
+      "title": "关于比特币监管的新闻发布会。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "關於比特幣監管的新聞發佈會。"
+    }
+  ]
 }
