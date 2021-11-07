@@ -57,5 +57,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Hey, so our college communities were having this issue where someone would post\na \"Free Nitro\" spam link, then someone else clicks on it, gets their account\nhacked, and then that account gets used to spam the link again across all\nchannels of all servers the user was in!\n\nDeleting spam link once…"
+  "the_new_excerpt": "Hey, so our college communities were having this issue where someone would post\na \"Free Nitro\" spam link, then someone else clicks on it, gets their account\nhacked, and then that account gets used to spam the link again across all\nchannels of all servers the user was in!\n\nDeleting spam link once…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私たちの大学のコミュニティでは、誰かが「無料のNitro」というスパムリンクを投稿し、他の人がそれをクリックするという問題がありました。\n誰かが「無料のニトロ」というスパムリンクを投稿して、誰かがそれをクリックして、そのアカウントがハッキングされて\nアカウントがハックされて、そのアカウントを使って、そのユーザーがいたすべての\nそのアカウントは、そのユーザーが参加していたすべてのサーバーのすべてのチャンネルで、再びリンクをスパムするために使用されるのです\n\nスパムリンクを一度削除すると...",
+      "title": "コミュニティサーバのチャンネルからFree Nitro Spamを削除するためのヘルパーDiscord Botです。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "嘿，我们的大学社区有这样一个问题，有人会发布\n一个 \"免费Nitro \"的垃圾邮件链接，然后其他人点击它，让他们的账户\n黑客攻击，然后这个账户又被用来在所有用户所在的服务器的所有频道上传播这个链接。\n所有服务器的频道上再次发布垃圾链接!\n\n删除一次垃圾链接...",
+      "title": "一个帮助性的Discord机器人，可以从我们社区服务器的频道中移除Free Nitro垃圾邮件。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "嘿，我們的大學社區有這樣一個問題，有人會發布\n一個 \"免費Nitro \"的垃圾郵件鏈接，然後其他人點擊它，讓他們的賬戶\n黑客攻擊，然後這個賬戶又被用來在所有用戶所在的服務器的所有頻道上傳播這個鏈接。\n所有服務器的頻道上再次發佈垃圾鏈接!\n\n刪除一次垃圾鏈接...",
+      "title": "一個幫助性的Discord機器人，可以從我們社區服務器的頻道中移除Free Nitro垃圾郵件。"
+    }
+  ]
 }
