@@ -41,5 +41,22 @@
   "original_created_at": "2021-11-05T19:55:14Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SczXo-BN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2d6lxfm8mbf5odjx3gkw.jpg",
   "author": "Chris Jarvis",
-  "author_url": "https://dev.to/jarvisscript"
+  "author_url": "https://dev.to/jarvisscript",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ゲームをすることでコードを学ぶことができますか？ゲームはあなたをより良い開発者にしてくれますか？そうです。ここでは、いくつかの...",
+      "title": "ゲームをプレイして、開発者のスキルを向上させる。"
+    },
+    {
+      "locale": "zh",
+      "description": "你可以通过玩游戏来学习代码吗？游戏能让你成为更好的开发者吗？是的。我在这里列出一些...",
+      "title": "玩游戏来提高你的开发技能。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你可以通過玩遊戲來學習代碼嗎？遊戲能讓你成爲更好的開發者嗎？是的。我在這裏列出一些...",
+      "title": "玩遊戲來提高你的開發技能。"
+    }
+  ]
 }
