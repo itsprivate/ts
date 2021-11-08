@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "コーダーのためのノーコード・エディターを作っていますが、どうでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "我正在为编码员制作一个无代码编辑器--你怎么看？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我正在爲編碼員製作一個無代碼編輯器--你怎麼看？"
+    }
+  ]
 }

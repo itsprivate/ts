@@ -42,5 +42,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Taprootを有効にするために、ノードをアップグレードしてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "请升级你的节点以启用Taproot。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "請升級你的節點以啓用Taproot。"
+    }
+  ]
 }
