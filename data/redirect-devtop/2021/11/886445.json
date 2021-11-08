@@ -50,5 +50,22 @@
   "original_created_at": "2021-11-03T09:00:08Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--N6puAq1T--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xiftu87wlep1ua4bit0w.jpeg",
   "author": "Davor Tvorić",
-  "author_url": "https://dev.to/shockwavee"
+  "author_url": "https://dev.to/shockwavee",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "チームで働くことは素晴らしいことです。進歩が早く、同僚から多くのことを学ぶことができます。このようにして...",
+      "title": "ソロのフロントエンド開発者として働くには"
+    },
+    {
+      "locale": "zh",
+      "description": "在一个团队中工作是很好的。你可以进步得非常快，并从你的同事那里学到很多东西。拥有...",
+      "title": "如何作为一个单独的前端开发者工作"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在一個團隊中工作是很好的。你可以進步得非常快，並從你的同事那裏學到很多東西。擁有...",
+      "title": "如何作爲一個單獨的前端開發者工作"
+    }
+  ]
 }
