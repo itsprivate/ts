@@ -52,5 +52,22 @@
   "original_created_at": "2021-11-08T15:28:25Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XingZWyc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/22vjowkmnhrtora10bdy.png",
   "author": "Gracie Gregory (she/her)",
-  "author_url": "https://dev.to/graciegregory"
+  "author_url": "https://dev.to/graciegregory",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この機会に、GitHub Actionsでプロジェクトを構築しながら、素敵な賞品を手に入れませんか？",
+      "title": "DEVの2021年GitHub Actionsハッカソンに参加してみませんか？"
+    },
+    {
+      "locale": "zh",
+      "description": "加入我们的行列，利用GitHub Actions构建项目，同时获得一些精彩的奖品",
+      "title": "加入我们的2021年GitHub行动黑客马拉松 DEV!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "加入我們的行列，利用GitHub Actions構建項目，同時獲得一些精彩的獎品",
+      "title": "加入我們的2021年GitHub行動黑客馬拉松 DEV!"
+    }
+  ]
 }
