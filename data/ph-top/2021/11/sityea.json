@@ -67,5 +67,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-08T08:47:44Z"
+  "original_createdAt": "2021-11-08T08:47:44Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "SitYEAは、コンピュータでの作業中に健康を維持するためのWindowsアプリケーションです。💻 日中の正しい姿勢を保つことができます。腰痛の予防にもなります。",
+      "tagline": "姿勢追跡ソフト"
+    },
+    {
+      "locale": "zh",
+      "description": "SitYEA是一个Windows应用程序，它有助于在电脑上工作时保持健康。💻 在一天中保持正确的姿势! 🤩 并避免背部疼痛!",
+      "tagline": "姿势跟踪软件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "SitYEA是一個Windows應用程序，它有助於在電腦上工作時保持健康。💻 在一天中保持正確的姿勢! 🤩 並避免背部疼痛!",
+      "tagline": "姿勢跟蹤軟件"
+    }
+  ]
 }
