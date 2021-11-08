@@ -124,5 +124,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Mon Nov 08 12:15:10 +0000 2021"
+  "original_created_at": "Mon Nov 08 12:15:10 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "\"Covidによるアメリカの赤と青の死者数の差は、過去1ヶ月間で過去のどの時点よりも急速に拡大しています。\" @DLeonhardtがThe Morning newsletterに書いています。\nhttps://t.co/6tWm95pPJz"
+    },
+    {
+      "locale": "zh",
+      "full_text": "\"在过去的一个月里，美国红色和蓝色之间的科维德死亡人数的差距比以往任何时候都增长得快，\"@DLeonhardt在《晨报》上写道。\nhttps://t.co/6tWm95pPJz"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "\"在過去的一個月裏，美國紅色和藍色之間的科維德死亡人數的差距比以往任何時候都增長得快，\"@DLeonhardt在《晨報》上寫道。\nhttps://t.co/6tWm95pPJz"
+    }
+  ]
 }
