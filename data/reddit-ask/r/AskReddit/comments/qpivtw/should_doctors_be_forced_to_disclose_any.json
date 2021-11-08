@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "医師は、患者に薬を処方する際に、製薬会社から受け取った手数料やインセンティブを開示しなければならないのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "是否应该强迫医生在给病人开药时披露制药公司提供的任何佣金或奖励？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "是否應該強迫醫生在給病人開藥時披露製藥公司提供的任何佣金或獎勵？"
+    }
+  ]
 }
