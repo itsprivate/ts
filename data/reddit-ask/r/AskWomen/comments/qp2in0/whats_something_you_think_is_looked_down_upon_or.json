@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "女性だからということで、軽視されたり、馬鹿にされたりすることはありますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你认为有什么东西是被看不起或被取笑的，仅仅是因为它通常与女性有关？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你認爲有什麼東西是被看不起或被取笑的，僅僅是因爲它通常與女性有關？"
+    }
+  ]
 }
