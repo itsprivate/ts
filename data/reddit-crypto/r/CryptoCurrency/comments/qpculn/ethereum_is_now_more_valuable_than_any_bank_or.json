@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "イーサリアムは今や、（BTC以外の）世界中のどの銀行や決済システムよりも価値がある。"
+    },
+    {
+      "locale": "zh",
+      "title": "以太坊现在比世界上任何银行或支付系统都更有价值（除了BTC之外）"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "以太坊現在比世界上任何銀行或支付系統都更有價值（除了BTC之外）"
+    }
+  ]
 }

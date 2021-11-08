@@ -52,5 +52,22 @@
   "original_created_at": "2021-11-04T16:24:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DZViZmQ3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jawcwoye9j7126xcvjn4.png",
   "author": "stepan662",
-  "author_url": "https://dev.to/stepan662"
+  "author_url": "https://dev.to/stepan662",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "時々、誰かが自分のプロジェクトでREDUXや同様のツールを使っていると教えてくれます。I...",
+      "title": "Reactは状態管理ツールを必要としない、と私は言いました。"
+    },
+    {
+      "locale": "zh",
+      "description": "不时有人告诉我，在他们的项目中使用REDUX或类似的工具。I...",
+      "title": "React不需要状态管理工具，我说了"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "不時有人告訴我，在他們的項目中使用REDUX或類似的工具。I...",
+      "title": "React不需要狀態管理工具，我說了"
+    }
+  ]
 }
