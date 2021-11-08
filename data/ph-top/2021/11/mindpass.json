@@ -111,5 +111,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-08T08:00:00Z"
+  "original_createdAt": "2021-11-08T08:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Mindpassは、Mindpass 3D環境の力で、パスワードをシンプルに、簡単に、そして安全にします。もう複雑なマスターキーを覚える必要はありません。もうパスワードは必要ありません。安全なMindpass環境で4つのオブジェクトを選択するだけで、あとは私たちにお任せください。",
+      "tagline": "人間のためのパスワード管理"
+    },
+    {
+      "locale": "zh",
+      "description": "Mindpass使密码变得简单、容易和安全--所有这些都是通过Mindpass 3D环境的力量实现的。不再有复杂的万能钥匙记忆。不再有密码，永远不会 只需在安全的Mindpass环境中选择四个对象，剩下的就交给我们了",
+      "tagline": "人类的密码管理"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Mindpass使密碼變得簡單、容易和安全--所有這些都是通過Mindpass 3D環境的力量實現的。不再有複雜的萬能鑰匙記憶。不再有密碼，永遠不會 只需在安全的Mindpass環境中選擇四個對象，剩下的就交給我們了",
+      "tagline": "人類的密碼管理"
+    }
+  ]
 }
