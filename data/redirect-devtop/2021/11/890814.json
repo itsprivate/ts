@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-07T02:40:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cdWwxmLo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j0ztz7wrdsdfqxfv8pgs.jpeg",
   "author": "Phan Công Thắng",
-  "author_url": "https://dev.to/thangphan37"
+  "author_url": "https://dev.to/thangphan37",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "APIから取得したデータがあるのですが、このデータをページネーションしたいと思っています。この記事では、私は...",
+      "title": "このページネーションをReactで構築する"
+    },
+    {
+      "locale": "zh",
+      "description": "我有从API获取的数据，我想对这些数据进行分页。在这篇文章中，我...",
+      "title": "在你的React中建立这个分页"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我有從API獲取的數據，我想對這些數據進行分頁。在這篇文章中，我...",
+      "title": "在你的React中建立這個分頁"
+    }
+  ]
 }

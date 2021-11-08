@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-08T08:01:00Z"
+  "original_createdAt": "2021-11-08T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Startcastsは、スタートアップや製品に関するポッドキャストの検索エンジンです。マーケティング、開発、デザインなど、さまざまな分野のリーダーから学ぶことができます。",
+      "tagline": "スタートアップや製品に関する優れたポッドキャストの検索エンジン"
+    },
+    {
+      "locale": "zh",
+      "description": "Startcasts是一个初创企业和产品播客的搜索引擎。向营销、开发、设计等领域的领导者学习。",
+      "tagline": "优秀创业公司和产品播客的搜索引擎"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Startcasts是一個初創企業和產品播客的搜索引擎。向營銷、開發、設計等領域的領導者學習。",
+      "tagline": "優秀創業公司和產品播客的搜索引擎"
+    }
+  ]
 }
