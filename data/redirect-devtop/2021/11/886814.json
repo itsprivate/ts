@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-03T15:45:28Z",
   "image": "https://dev.to/social_previews/article/886814.png",
   "author": "Elias Júnior",
-  "author_url": "https://dev.to/eliasjnior"
+  "author_url": "https://dev.to/eliasjnior",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これは、初心者のReact開発者が新しいプロジェクトに取り組む際に直面する共通の問題です。私は...",
+      "title": "ReactでAPIに非同期のリクエストを行う方法"
+    },
+    {
+      "locale": "zh",
+      "description": "这是初级React开发者在进行新项目时面临的一个常见问题。我将...",
+      "title": "如何在React中对你的API进行异步请求"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是初級React開發者在進行新項目時面臨的一個常見問題。我將...",
+      "title": "如何在React中對你的API進行異步請求"
+    }
+  ]
 }
