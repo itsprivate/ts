@@ -43,5 +43,22 @@
   "original_created_at": "2021-11-07T10:12:33Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jCDanhvD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cufav9sua50hza580cff.jpg",
   "author": "Chris Bongers",
-  "author_url": "https://dev.to/dailydevtips1"
+  "author_url": "https://dev.to/dailydevtips1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ブランチはGitを使う上で欠かせないものです。ブランチは、あなたのプロジェクトの別々のバージョンとして見ることができます...",
+      "title": "Gitの基礎知識。ブランチと戦略"
+    },
+    {
+      "locale": "zh",
+      "description": "分支是使用Git的一个重要部分。你可以把一个分支看作是你的独立版本。",
+      "title": "Git基础知识。分支和策略"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "分支是使用Git的一個重要部分。你可以把一個分支看作是你的獨立版本。",
+      "title": "Git基礎知識。分支和策略"
+    }
+  ]
 }
