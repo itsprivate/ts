@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ルービックキューブをブラインドで解こうとする男性。"
+    },
+    {
+      "locale": "zh",
+      "title": "男子试图盲目地解开魔方，但方式不同"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "男子試圖盲目地解開魔方，但方式不同"
+    }
+  ]
 }
