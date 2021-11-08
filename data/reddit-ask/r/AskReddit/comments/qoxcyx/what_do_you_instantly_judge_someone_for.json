@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたは何を基準にして人を判断しますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你会因为什么而立即判断一个人呢？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你會因爲什麼而立即判斷一個人呢？"
+    }
+  ]
 }
