@@ -67,5 +67,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-08T08:01:00Z"
+  "original_createdAt": "2021-11-08T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "お気に入りのミックスの中で、あの素晴らしいトラックは何だろうと思ったことはありませんか？DaftCloudはShazamと完全に統合され、アプリ内で現在再生されている曲をリアルタイムに認識することができます。🎵",
+      "tagline": "SoundCloudにShazamのDJミックス認識機能が加わりました。"
+    },
+    {
+      "locale": "zh",
+      "description": "有没有想过，在你最喜欢的混音中播放的那首很棒的曲目是什么？如果有，那么这可能是你生命中最美好的一天，因为DaftCloud已经添加了完全的Shazam集成，可以实时识别应用程序中当前正在播放的内容。🎵",
+      "tagline": "SoundCloud现在具有Shazam DJ混音识别功能"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有沒有想過，在你最喜歡的混音中播放的那首很棒的曲目是什麼？如果有，那麼這可能是你生命中最美好的一天，因爲DaftCloud已經添加了完全的Shazam集成，可以實時識別應用程序中當前正在播放的內容。🎵",
+      "tagline": "SoundCloud現在具有Shazam DJ混音識別功能"
+    }
+  ]
 }
