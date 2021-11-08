@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-06T22:47:12Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bQGShvd7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v63www2ty8szbqk7koeq.jpeg",
   "author": "Josh",
-  "author_url": "https://dev.to/jryther"
+  "author_url": "https://dev.to/jryther",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは。 今週は、Dockerを使い始める方法について簡単なチュートリアルを行います。...",
+      "title": "Dockerを始めよう！」のページです。"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好!  本周我将简要介绍如何开始使用Docker的教程。...",
+      "title": "Docker入门 🐋"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好!  本週我將簡要介紹如何開始使用Docker的教程。...",
+      "title": "Docker入門 🐋"
+    }
+  ]
 }

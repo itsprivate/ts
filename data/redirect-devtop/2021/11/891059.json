@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-07T13:11:47Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uRbyunzh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6h1oycwt9nds0lcrcprp.jpg",
   "author": "Vic Shóstak",
-  "author_url": "https://dev.to/koddr"
+  "author_url": "https://dev.to/koddr",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに こんにちは、DEV friends! 今日は、あなたのサイトのUXを向上させる方法についてお話しします...",
+      "title": "🎊 SVGはいらない！？Tailwind CSSでコンテンツのアニメーションローダを作る"
+    },
+    {
+      "locale": "zh",
+      "description": "简介 嗨，DEV的朋友们 今天，我们将讨论如何提高你的用户体验...",
+      "title": "🎊 你不需要SVG! 用Tailwind CSS为内容创建动画加载器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介 嗨，DEV的朋友們 今天，我們將討論如何提高你的用戶體驗...",
+      "title": "🎊 你不需要SVG! 用Tailwind CSS爲內容創建動畫加載器"
+    }
+  ]
 }
