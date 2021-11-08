@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "UPVOT/DOWNVOTの数が表示されない投稿があるのはなぜですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "为什么有些帖子不显示它有多少个支持/反对票？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲什麼有些帖子不顯示它有多少個支持/反對票？"
+    }
+  ]
 }
