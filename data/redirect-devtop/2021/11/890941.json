@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-07T09:36:25Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6XXViHfD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o63ybc108lz3pduf4urk.png",
   "author": "mrsharm",
-  "author_url": "https://dev.to/mrsharm"
+  "author_url": "https://dev.to/mrsharm",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに 私は最近、Pusherを発見しました。Pusherはリアルタイムでのコミュニケーションを提供してくれます。",
+      "title": "Pusherを使ってWebアプリのリアルタイムな更新情報を得ることができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍：我最近发现了Pusher，它提供了实时的交流。",
+      "title": "Pusher为你的WebApp获得实时更新。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹：我最近發現了Pusher，它提供了實時的交流。",
+      "title": "Pusher爲你的WebApp獲得實時更新。"
+    }
+  ]
 }
