@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-07T15:52:35Z"
+  "original_createdAt": "2021-11-07T15:52:35Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "手描きのようなスライドデッキを作成するためのアプリです。",
+      "tagline": "伝説のスライドのための武器"
+    },
+    {
+      "locale": "zh",
+      "description": "一款用于编写看起来像手绘的幻灯片的应用程序。",
+      "tagline": "传说中的滑梯的武器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一款用於編寫看起來像手繪的幻燈片的應用程序。",
+      "tagline": "傳說中的滑梯的武器"
+    }
+  ]
 }
