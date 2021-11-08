@@ -66,5 +66,19 @@
   "retweet_count": 37,
   "favorite_count": 227,
   "possibly_sensitive": false,
-  "original_created_at": "Fri Nov 05 03:34:15 +0000 2021"
+  "original_created_at": "Fri Nov 05 03:34:15 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "今は削除されたツイート $PFE https://t.co/0uv3eVzbqr"
+    },
+    {
+      "locale": "zh",
+      "full_text": "现已删除的推文 $PFE https://t.co/0uv3eVzbqr"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "現已刪除的推文 $PFE https://t.co/0uv3eVzbqr"
+    }
+  ]
 }
