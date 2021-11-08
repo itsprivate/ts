@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-08T08:01:00Z"
+  "original_createdAt": "2021-11-08T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私たちの統合により、Bubbleアプリを使ってコードなしでGoogle Chrome拡張機能を構築することができます。✅ BubbleアプリをChrome Extensionに埋め込む ✅ ExtensionからBubbleアプリのデータを受け取る ✅ BubbleアプリからChrome Extensionのアクションをトリガーする",
+      "tagline": "Bubbleアプリを使ったGoogle Chrome拡張機能の構築"
+    },
+    {
+      "locale": "zh",
+      "description": "通过我们的整合，你可以使用你的Bubble App建立Google Chrome扩展，而不需要代码! 在Chrome扩展中嵌入你的Bubble应用 ✅从扩展中接收Bubble应用中的数据 ✅从你的Bubble应用中触发Chrome扩展中的动作",
+      "tagline": "使用你的泡沫应用程序构建谷歌浏览器扩展"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "通過我們的整合，你可以使用你的Bubble App建立Google Chrome擴展，而不需要代碼! 在Chrome擴展中嵌入你的Bubble應用 ✅從擴展中接收Bubble應用中的數據 ✅從你的Bubble應用中觸發Chrome擴展中的動作",
+      "tagline": "使用你的泡沫應用程序構建谷歌瀏覽器擴展"
+    }
+  ]
 }
