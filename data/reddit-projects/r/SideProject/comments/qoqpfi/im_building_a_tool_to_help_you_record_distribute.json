@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Anchor.fmを追い越すという野心的な目標を持って、Podcastの録音、配信、収益化を1つの場所で行うためのツールを作っています。"
+    },
+    {
+      "locale": "zh",
+      "title": "我正在建立一个工具，帮助你在一个地方录制、分发和盈利你的播客--有一个超越Anchor.fm的宏伟目标。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我正在建立一個工具，幫助你在一個地方錄製、分發和盈利你的播客--有一個超越Anchor.fm的宏偉目標。"
+    }
+  ]
 }
