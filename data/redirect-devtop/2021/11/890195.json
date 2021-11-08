@@ -52,5 +52,22 @@
   "original_created_at": "2021-11-06T10:58:16Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UCsyqhzr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zd1w6qo90m1cilazchr8.png",
   "author": "Zoltán Szőgyényi",
-  "author_url": "https://dev.to/zolidev"
+  "author_url": "https://dev.to/zolidev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、Tailwind CSSをよく使っていますが、ユーティリティを使った新しい作業方法が気に入っています。",
+      "title": "TailwindのCSSトグル/スイッチコンポーネントの構築"
+    },
+    {
+      "locale": "zh",
+      "description": "我最近经常使用Tailwind CSS，虽然我喜欢这种新的实用工作方式...",
+      "title": "建立一个Tailwind的CSS切换/开关组件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我最近經常使用Tailwind CSS，雖然我喜歡這種新的實用工作方式...",
+      "title": "建立一個Tailwind的CSS切換/開關組件"
+    }
+  ]
 }
