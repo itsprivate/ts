@@ -52,5 +52,22 @@
     },
     "retweet_count": 2283,
     "favorite_count": 19374
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @BarrySilbert: 大きな一週間になりそうです。",
+      "retweeted_status_full_text": "大事な週になりそうです。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @BarrySilbert: 将是一个重要的一周",
+      "retweeted_status_full_text": "将是一个重要的星期"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @BarrySilbert: 將是一個重要的一週",
+      "retweeted_status_full_text": "將是一個重要的星期"
+    }
+  ]
 }
