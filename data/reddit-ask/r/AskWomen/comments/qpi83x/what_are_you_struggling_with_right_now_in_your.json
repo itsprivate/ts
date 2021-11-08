@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたは今、人生の中で何に悩んでいますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "在你的生活中，你现在正为什么而挣扎？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在你的生活中，你現在正爲什麼而掙扎？"
+    }
+  ]
 }
