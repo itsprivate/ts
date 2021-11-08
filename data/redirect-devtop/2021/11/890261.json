@@ -43,5 +43,22 @@
   "original_created_at": "2021-11-06T13:26:57Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tDxOc250--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ifjs3l5l5w5tkvk4fp66.jpg",
   "author": "Rob OLeary",
-  "author_url": "https://dev.to/robole"
+  "author_url": "https://dev.to/robole",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これは、VSコードの投稿に続くものです。去年書いた「VS Code: You don't need that extension」の続きです。 そこに...",
+      "title": "VSコード その拡張機能は必要ありません パート2"
+    },
+    {
+      "locale": "zh",
+      "description": "这是继《VS代码》一文之后的又一篇文章。你不需要我去年写的那个扩展。 那里...",
+      "title": "VS代码。你不需要那个扩展的第二部分"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是繼《VS代碼》一文之後的又一篇文章。你不需要我去年寫的那個擴展。 那裏...",
+      "title": "VS代碼。你不需要那個擴展的第二部分"
+    }
+  ]
 }
