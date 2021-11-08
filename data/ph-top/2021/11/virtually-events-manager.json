@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-08T08:10:46Z"
+  "original_createdAt": "2021-11-08T08:10:46Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Virtuallyは、Zoomイベントを自動化する最も簡単な方法です。カレンダーへの招待状を作成し、リマインダーを送信し、出席状況を把握することができます。また、Zapier、Airtable、Google Calendar、Slackなどのツールとの連携も可能です。",
+      "tagline": "あなたのZoomイベントをコードレスで自動化"
+    },
+    {
+      "locale": "zh",
+      "description": "Virtually是使你的Zoom活动自动化的最简单方法。创建日历邀请，发送提醒，并跟踪出席情况。此外，它还能与你熟悉和喜爱的工具（如Zapier、Airtable、谷歌日历、Slack等）配合使用。",
+      "tagline": "为您的Zoom活动提供无代码自动化"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Virtually是使你的Zoom活動自動化的最簡單方法。創建日曆邀請，發送提醒，並跟蹤出席情況。此外，它還能與你熟悉和喜愛的工具（如Zapier、Airtable、谷歌日曆、Slack等）配合使用。",
+      "tagline": "爲您的Zoom活動提供無代碼自動化"
+    }
+  ]
 }
