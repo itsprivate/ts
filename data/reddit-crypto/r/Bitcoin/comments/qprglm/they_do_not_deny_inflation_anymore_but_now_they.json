@@ -42,5 +42,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "インフレを否定するのではなく、「良いことだ」と主張するようになった。"
+    },
+    {
+      "locale": "zh",
+      "title": "他们不再否认通货膨胀，但现在他们声称，通货膨胀是好事。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他們不再否認通貨膨脹，但現在他們聲稱，通貨膨脹是好事。"
+    }
+  ]
 }
