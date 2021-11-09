@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-08T22:19:53Z",
   "image": "https://dev.to/social_previews/article/892325.png",
   "author": "Paul Thompson",
-  "author_url": "https://dev.to/paritho"
+  "author_url": "https://dev.to/paritho",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "varキーワードは、JavaScriptが初めて変数を宣言する方法でした。ぴったりでしょう？Var, variable, it's...",
+      "title": "JavaScriptで「var」を使用する3つの理由"
+    },
+    {
+      "locale": "zh",
+      "description": "var关键字是JavaScript的第一个声明变量的方法。它很合适，对吗？Var，变量，它是...",
+      "title": "在JavaScript中使用 \"var \"的3个理由"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "var關鍵字是JavaScript的第一個聲明變量的方法。它很合適，對嗎？Var，變量，它是...",
+      "title": "在JavaScript中使用 \"var \"的3個理由"
+    }
+  ]
 }
