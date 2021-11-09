@@ -118,5 +118,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "目をこすったときのMRIの様子"
+    },
+    {
+      "locale": "zh",
+      "title": "揉眼睛时的核磁共振成像的样子"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "揉眼睛時的核磁共振成像的樣子"
+    }
+  ]
 }
