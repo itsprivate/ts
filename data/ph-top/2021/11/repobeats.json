@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-08T18:34:44Z"
+  "original_createdAt": "2021-11-08T18:34:44Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Repobeatsは、GitHubプロジェクトのREADME.mdにコントリビューターの分析結果を埋め込む方法です。Repobeatsを使えば、あなたのプロジェクトのコントリビューターやユーザーは、あなたのプロジェクトが時系列でどのように進化しているかを、明確に、美しく見ることができます。",
+      "tagline": "GitHubのREADME.mdに洞察力のある目玉商品を与える"
+    },
+    {
+      "locale": "zh",
+      "description": "Repobeats是一种将贡献者分析嵌入你的GitHub项目的README.md中的方法。有了Repobeats，你的项目的贡献者和用户就可以清楚、漂亮地看到你的项目是如何随时间变化的。",
+      "tagline": "给你的GitHub的README.md一些有洞察力的眼球。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Repobeats是一種將貢獻者分析嵌入你的GitHub項目的README.md中的方法。有了Repobeats，你的項目的貢獻者和用戶就可以清楚、漂亮地看到你的項目是如何隨時間變化的。",
+      "tagline": "給你的GitHub的README.md一些有洞察力的眼球。"
+    }
+  ]
 }
