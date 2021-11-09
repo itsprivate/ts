@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-09T08:01:00Z"
+  "original_createdAt": "2021-11-09T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Slackを開き、kudosメッセージを入力し、チームメイトをタグ付けすると、お祝いにふさわしい瞬間がチームに可視化されます。_ /kudos @Michael Scott 世界一の上司になってくれてありがとう!",
+      "tagline": "Slackでチームメイトを称賛し、表彰する"
+    },
+    {
+      "locale": "zh",
+      "description": "打开Slack，键入你的嘉奖信息，标记你的队友，让你的团队看到值得庆祝的时刻--用可选的礼品卡来感谢GOAT们，并促进公司文化的发展! _/kudos @Michael Scott 感谢你成为世界上最好的老板!",
+      "tagline": "在Slack上给队友点赞和表彰"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "打開Slack，鍵入你的嘉獎信息，標記你的隊友，讓你的團隊看到值得慶祝的時刻--用可選的禮品卡來感謝GOAT們，並促進公司文化的發展! _/kudos @Michael Scott 感謝你成爲世界上最好的老闆!",
+      "tagline": "在Slack上給隊友點贊和表彰"
+    }
+  ]
 }
