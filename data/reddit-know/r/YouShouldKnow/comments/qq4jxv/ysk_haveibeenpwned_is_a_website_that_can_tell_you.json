@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Why YSK: Having your information being included in a data leak can be a huge\nsecurity concern. If you reuse the same email / password combinations across\nmultiple websites, a data leak from just one of those websites can jeopardize\nall your other accounts. You can use HaveIBeenPwned to see if your…"
+  "the_new_excerpt": "Why YSK: Having your information being included in a data leak can be a huge\nsecurity concern. If you reuse the same email / password combinations across\nmultiple websites, a data leak from just one of those websites can jeopardize\nall your other accounts. You can use HaveIBeenPwned to see if your…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "YSKが選ばれる理由: 情報漏洩に自分の情報が含まれていることは、セキュリティ上の大きな問題です。\nセキュリティ上の大きな問題です。もし、あなたが複数のウェブサイトで同じEメールとパスワードの組み合わせを使い回していたら\n複数のウェブサイトで同じメールとパスワードの組み合わせを使用している場合、そのうちの1つのウェブサイトからのデータ流出が、他のすべてのアカウントを危険にさらす可能性があります。\n他のすべてのアカウントが危険にさらされます。HaveIBeenPwnedを使えば、あなたの...",
+      "title": "YSK HaveIBeenPwnedは、あなたの機密情報（メール、パスワード、住所）がデータリークで見つかるかどうかを教えてくれるサイトです。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么选择YSK：如果你的信息被纳入数据泄漏，可能是一个巨大的问题。\n安全问题。如果你在多个网站上重复使用相同的电子邮件/密码组合\n如果你在多个网站上重复使用相同的电子邮件/密码组合，那么仅其中一个网站的数据泄露就会危害到\n你的所有其他账户。你可以使用HaveIBeenPwned来查看你的账户是否被盗。",
+      "title": "YSK HaveIBeenPwned是一个网站，可以告诉你，你的敏感信息（电子邮件、密码、地址）是否可以在数据泄漏中找到。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼選擇YSK：如果你的信息被納入數據泄漏，可能是一個巨大的問題。\n安全問題。如果你在多個網站上重複使用相同的電子郵件/密碼組合\n如果你在多個網站上重複使用相同的電子郵件/密碼組合，那麼僅其中一個網站的數據泄露就會危害到\n你的所有其他賬戶。你可以使用HaveIBeenPwned來查看你的賬戶是否被盜。",
+      "title": "YSK HaveIBeenPwned是一個網站，可以告訴你，你的敏感信息（電子郵件、密碼、地址）是否可以在數據泄漏中找到。"
+    }
+  ]
 }
