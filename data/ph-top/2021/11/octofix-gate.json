@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-09T09:03:04Z"
+  "original_createdAt": "2021-11-09T09:03:04Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "OctoFix Gateは、ウェブサイト上の非公開コンテンツをメールリストのメンバーのみに公開する無料ツールです。Webサイトビルダーやメールマーケティングツールで動作します。",
+      "tagline": "ゲーテッド・コンテンツのページを素早く設定"
+    },
+    {
+      "locale": "zh",
+      "description": "OctoFix Gate是一个免费的工具，使您网站上的私人内容只对您的电子邮件列表成员开放。它适用于任何网站建设者或电子邮件营销工具。",
+      "tagline": "快速建立有门槛内容的页面"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "OctoFix Gate是一個免費的工具，使您網站上的私人內容只對您的電子郵件列表成員開放。它適用於任何網站建設者或電子郵件營銷工具。",
+      "tagline": "快速建立有門檻內容的頁面"
+    }
+  ]
 }
