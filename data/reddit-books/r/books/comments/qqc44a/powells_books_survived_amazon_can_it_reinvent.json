@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Powell's BooksはAmazonを生き抜いた。パンデミック後に再起できるか？"
+    },
+    {
+      "locale": "zh",
+      "title": "鲍威尔图书公司在亚马逊上幸存下来。它能在大流行之后重塑自己吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "鮑威爾圖書公司在亞馬遜上倖存下來。它能在大流行之後重塑自己嗎？"
+    }
+  ]
 }
