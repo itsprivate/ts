@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-08T18:37:30Z",
   "image": "https://dev.to/social_previews/article/892247.png",
   "author": "Khushboo Chaturvedi",
-  "author_url": "https://dev.to/khush2706"
+  "author_url": "https://dev.to/khush2706",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "曇りガラス効果（Glassmorphism）は、以前からトレンドとなっているUI機能です。",
+      "title": "CSSの曇りガラス効果"
+    },
+    {
+      "locale": "zh",
+      "description": "磨砂玻璃效果或更好地称为Glassmorphism已经成为一种趋势性的UI功能。",
+      "title": "CSS中的磨砂玻璃效果"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "磨砂玻璃效果或更好地稱爲Glassmorphism已經成爲一種趨勢性的UI功能。",
+      "title": "CSS中的磨砂玻璃效果"
+    }
+  ]
 }
