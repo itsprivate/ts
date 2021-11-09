@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-09T17:03:19Z"
+  "original_createdAt": "2021-11-09T17:03:19Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "独自のGraphQL APIをわずか数クリックで作成できます。リゾルバを書く必要はありません。データ接続のコードも必要ありません。サーバーを構築する必要もありません。あなたのAPIはStepZenのクラウド上でサーバーレスで動作します。",
+      "tagline": "独自のデータや構築済みのAPIのために、数分でGraphQL APIを提供"
+    },
+    {
+      "locale": "zh",
+      "description": "只需点击几下就能创建你自己的GraphQL API! 没有解析器需要编写。没有数据连接需要编码。没有服务器需要建立 - 你的API在StepZen的云中无服务器运行。",
+      "tagline": "在几分钟内为你自己的数据和预建的API提供GraphQL APIs"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "只需點擊幾下就能創建你自己的GraphQL API! 沒有解析器需要編寫。沒有數據連接需要編碼。沒有服務器需要建立 - 你的API在StepZen的雲中無服務器運行。",
+      "tagline": "在幾分鐘內爲你自己的數據和預建的API提供GraphQL APIs"
+    }
+  ]
 }
