@@ -32,5 +32,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Check it out here [https://www.microsoft.com/store/productId/9N5VSNRXZT46]."
+  "the_new_excerpt": "Check it out here [https://www.microsoft.com/store/productId/9N5VSNRXZT46].",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "こちら（https://www.microsoft.com/store/productId/9N5VSNRXZT46）でチェックしてみてください。",
+      "title": "Windows用の超シンプルなデスクトップ壁紙切り替えソフトを作ってみました! Microsoft Storeで購入できます。Unsplashの「Landscape」コレクションから美しい画像を毎日設定したいという私の奇妙な欲求を満たしてくれます。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "请看这里[https://www.microsoft.com/store/productId/9N5VSNRXZT46]。",
+      "title": "我为Windows做了一个超级简单的桌面壁纸切换器! 它在微软商店有售，满足了我每天从 \"风景 \"Unsplash系列中设置美丽图片的奇怪需求。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "請看這裏[https://www.microsoft.com/store/productId/9N5VSNRXZT46]。",
+      "title": "我爲Windows做了一個超級簡單的桌面壁紙切換器! 它在微軟商店有售，滿足了我每天從 \"風景 \"Unsplash系列中設置美麗圖片的奇怪需求。"
+    }
+  ]
 }
