@@ -103,5 +103,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1636461623,
-  "the_new_excerpt": "Waymo has been offering robo-taxis in the Eastern district of Phoenix for a\nwhile now and in San Francisco is offering free rides to pre-vetted customers in\nlevel 4/5 robo-taxis.\n\nhttps://waymo.com/waymo-one/?loc=sf\n\nBaidu is offering similar L4 services in Beijing and…"
+  "the_new_excerpt": "Waymo has been offering robo-taxis in the Eastern district of Phoenix for a\nwhile now and in San Francisco is offering free rides to pre-vetted customers in\nlevel 4/5 robo-taxis.\n\nhttps://waymo.com/waymo-one/?loc=sf\n\nBaidu is offering similar L4 services in Beijing and…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "Waymoは、フェニックスの東部地区でロボタクシーを提供しています。\nまた、サンフランシスコでは、事前に審査を受けたお客様に、レベル4/5の車両を無料で提供しています。\nレベル4/5のロボタクシーを提供しています。\n\nhttps://waymo.com/waymo-one/?loc=sf\n\nBaiduは北京で同様のL4サービスを提供しており、...",
+      "title": "WaymoやBaiduなどはすでにロボタクシーを提供していますが、Teslaはレベル2/3のソフトウェアに苦戦しています。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "Waymo在凤凰城东区提供机器人出租车已经有一段时间了。\n现在，在旧金山，Waymo正在向经过预先审查的客户提供免费乘坐4/5级机器人出租车的机会。\n4/5级机器人出租车。\n\nhttps://waymo.com/waymo-one/?loc=sf\n\n百度正在北京提供类似的L4级服务，并...",
+      "title": "Waymo、百度和其他公司已经在提供机器人出租车，而特斯拉继续在2/3级软件上挣扎。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "Waymo在鳳凰城東區提供機器人出租車已經有一段時間了。\n現在，在舊金山，Waymo正在向經過預先審查的客戶提供免費乘坐4/5級機器人出租車的機會。\n4/5級機器人出租車。\n\nhttps://waymo.com/waymo-one/?loc=sf\n\n百度正在北京提供類似的L4級服務，並...",
+      "title": "Waymo、百度和其他公司已經在提供機器人出租車，而特斯拉繼續在2/3級軟件上掙扎。"
+    }
+  ]
 }

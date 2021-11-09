@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-09T15:28:37Z"
+  "original_createdAt": "2021-11-09T15:28:37Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Interface Designerを使って、ビジュアルでインタラクティブなインターフェイスを数分で構築することができます。チームメンバー全員に必要な情報を提供し、アクションを起こすためのシンプルな方法を提供します。",
+      "tagline": "チームのニーズに合わせたカスタムインターフェースの作成"
+    },
+    {
+      "locale": "zh",
+      "description": "用Interface Designer在几分钟内建立可视化和交互式界面。给每一个团队成员提供他们所需要的信息，并提供一个简单的方法来采取行动。",
+      "tagline": "创建自定义界面以适应你的团队的具体需求"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "用Interface Designer在幾分鐘內建立可視化和交互式界面。給每一個團隊成員提供他們所需要的信息，並提供一個簡單的方法來採取行動。",
+      "tagline": "創建自定義界面以適應你的團隊的具體需求"
+    }
+  ]
 }

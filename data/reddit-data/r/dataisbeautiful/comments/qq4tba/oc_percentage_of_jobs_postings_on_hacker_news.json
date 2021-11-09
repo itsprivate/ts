@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] Hacker Newsに掲載された求人情報のうち、リモートワークが選択肢に含まれている割合"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]Hacker News上有远程工作选项的工作职位的百分比"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]Hacker News上有遠程工作選項的工作職位的百分比"
+    }
+  ]
 }
