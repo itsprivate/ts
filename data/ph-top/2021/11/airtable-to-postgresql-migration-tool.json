@@ -66,5 +66,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-09T08:01:00Z"
+  "original_createdAt": "2021-11-09T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "完全無料の移行ツールです。Airtableのデータを1クリックでPostgreSQLのデータベースに移行できます。余分なステップやツールのロックインはありません。",
+      "tagline": "Airtableのデータを1クリックでSQLデータベースに移動させることができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "一个完全免费的迁移工具。将你的数据从Airtable迁移到PostgreSQL数据库，只需1次点击。没有额外的步骤，没有工具的锁定。",
+      "tagline": "一键将所有Airtable数据移至您的SQL数据库中"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個完全免費的遷移工具。將你的數據從Airtable遷移到PostgreSQL數據庫，只需1次點擊。沒有額外的步驟，沒有工具的鎖定。",
+      "tagline": "一鍵將所有Airtable數據移至您的SQL數據庫中"
+    }
+  ]
 }
