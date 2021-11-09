@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Hello everyone -\n\nIt’s an exciting time for no-code web app development and I’m happy to introduce\nSentence.\n\nSentence is a web app builder that understands human language so you’re able to\nbuild apps by simply saying things like “Add a picture of a Labrador Retriever”,\n“Upload an image”, “Add a…"
+  "the_new_excerpt": "Hello everyone -\n\nIt’s an exciting time for no-code web app development and I’m happy to introduce\nSentence.\n\nSentence is a web app builder that understands human language so you’re able to\nbuild apps by simply saying things like “Add a picture of a Labrador Retriever”,\n“Upload an image”, “Add a…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "皆さん、こんにちは。\n\nノーコードでのウェブアプリ開発はエキサイティングな時代になりました。\nSentenceです。\n\nSentenceは、人間の言語を理解するウェブアプリビルダーで、以下のことが可能です。\nラブラドール・レトリーバーの写真を追加してください」などと言うだけでアプリを作ることができます。\n\"Upload an image\", \"Add a...",
+      "title": "人間の言語を理解し、実際の文章を入力することでコードなしでアプリを作成できるウェブアプリビルダー「Sentence.io」ベータ版をついにリリース"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "大家好 -\n\n对于无代码网络应用程序开发来说，这是一个令人兴奋的时刻，我很高兴地介绍一下\nSentence。\n\nSentence是一个能够理解人类语言的网络应用程序生成器，因此你能够\n构建应用程序，只需说 \"添加一张拉布拉多猎犬的照片\"。\n上传一张图片\"，\"添加一张图片\"。",
+      "title": "终于发布了Sentence.io测试版--一个能理解人类语言的网络应用程序生成器，让你通过输入真实的句子来创建无需代码的应用。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "大家好 -\n\n對於無代碼網絡應用程序開發來說，這是一個令人興奮的時刻，我很高興地介紹一下\nSentence。\n\nSentence是一個能夠理解人類語言的網絡應用程序生成器，因此你能夠\n構建應用程序，只需說 \"添加一張拉布拉多獵犬的照片\"。\n上傳一張圖片\"，\"添加一張圖片\"。",
+      "title": "終於發佈了Sentence.io測試版--一個能理解人類語言的網絡應用程序生成器，讓你通過輸入真實的句子來創建無需代碼的應用。"
+    }
+  ]
 }
