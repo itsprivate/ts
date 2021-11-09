@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "パッケージングデザイン。"
+    },
+    {
+      "locale": "zh",
+      "title": "包装设计。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "包裝設計。"
+    }
+  ]
 }

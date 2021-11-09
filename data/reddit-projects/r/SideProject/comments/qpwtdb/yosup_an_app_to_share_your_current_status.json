@@ -42,5 +42,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Yosup: 自分の現在の状況を共有するアプリ"
+    },
+    {
+      "locale": "zh",
+      "title": "Yosup: 一个分享你当前状态的应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Yosup: 一個分享你當前狀態的應用程序"
+    }
+  ]
 }
