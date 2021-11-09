@@ -104,5 +104,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1636412080,
-  "the_new_excerpt": "They sent out emails and various news outlets have started to pick the story up:\n\nhttps://www.bloomberg.com/news/articles/2021-11-08/robinhood-data-breach-exposes-data-on-millions-of-customers\n\nThe hack apparently happened on 11/3 (so last Wednesday). They claim no personal\ninformation other than…"
+  "the_new_excerpt": "They sent out emails and various news outlets have started to pick the story up:\n\nhttps://www.bloomberg.com/news/articles/2021-11-08/robinhood-data-breach-exposes-data-on-millions-of-customers\n\nThe hack apparently happened on 11/3 (so last Wednesday). They claim no personal\ninformation other than…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "メールを送り、様々な報道機関がこの話を取り上げ始めています。\n\nhttps://www.bloomberg.com/news/articles/2021-11-08/robinhood-data-breach-exposes-data-on-millions-of-customers\n\nハッキングは11月3日（つまり先週の水曜日）に起こったようです。個人情報の流出はないとのことです。\n個人情報はないと言っていますが...",
+      "title": "ロビンフッドは先週、セキュリティ違反を起こしました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "他们发出了电子邮件，各种新闻机构也开始报道这个故事。\n\nhttps://www.bloomberg.com/news/articles/2021-11-08/robinhood-data-breach-exposes-data-on-millions-of-customers\n\n黑客显然发生在11/3（即上周三）。他们声称没有个人\n信息，而不是...",
+      "title": "Robinhood上周发生了安全漏洞"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "他們發出了電子郵件，各種新聞機構也開始報道這個故事。\n\nhttps://www.bloomberg.com/news/articles/2021-11-08/robinhood-data-breach-exposes-data-on-millions-of-customers\n\n黑客顯然發生在11/3（即上週三）。他們聲稱沒有個人\n信息，而不是...",
+      "title": "Robinhood上週發生了安全漏洞"
+    }
+  ]
 }
