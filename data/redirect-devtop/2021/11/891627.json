@@ -43,5 +43,22 @@
   "original_created_at": "2021-11-08T07:10:50Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--eqn_y2Zk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1djau5ko6w7xmbfb2ljc.jpg",
   "author": "Tom Lienard",
-  "author_url": "https://dev.to/tomlienard"
+  "author_url": "https://dev.to/tomlienard",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに アトミック・ステート・マネージメント・ライブラリが増えています。速いですね。このページをご覧になればわかるように...",
+      "title": "Reactにおけるアトミックな状態管理ライブラリの紹介"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍 原子状态管理库正在增长。速度很快。正如你在这篇文章中所看到的那样...",
+      "title": "React中的原子状态管理库介绍"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹 原子狀態管理庫正在增長。速度很快。正如你在這篇文章中所看到的那樣...",
+      "title": "React中的原子狀態管理庫介紹"
+    }
+  ]
 }
