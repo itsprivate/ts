@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-07T07:39:12Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_9ZXXl2v--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4o06ya1amz72iz6elz8m.png",
   "author": "Bek Brace",
-  "author_url": "https://dev.to/bekbrace"
+  "author_url": "https://dev.to/bekbrace",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "FastAPI : APIを作成するための素晴らしいフレームワークで、その速さを実感するにはわずかな努力しか必要ありません。",
+      "title": "FastAPIによるJWT認証"
+    },
+    {
+      "locale": "zh",
+      "description": "FastAPI : 一个创建API的伟大框架，只需很小的努力就能实现它的快速性。",
+      "title": "用FastAPI进行JWT认证"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "FastAPI : 一個創建API的偉大框架，只需很小的努力就能實現它的快速性。",
+      "title": "用FastAPI進行JWT認證"
+    }
+  ]
 }
