@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-05T10:24:02Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4WZUnjXL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/p40fuvh1hh2typja8ltj.jpg",
   "author": "Alex Omeyer",
-  "author_url": "https://dev.to/alexomeyer"
+  "author_url": "https://dev.to/alexomeyer",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コードレビューは、チームがコードの品質を向上させるのに役立つツールです。しかし、それ以外にも多くの利点があります...",
+      "title": "コードレビュー 包括的なチェックリスト"
+    },
+    {
+      "locale": "zh",
+      "description": "代码审查是团队提高代码质量的一个有用工具。然而，还有许多其他的好处...",
+      "title": "代码审查。一份全面的检查清单"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "代碼審查是團隊提高代碼質量的一個有用工具。然而，還有許多其他的好處...",
+      "title": "代碼審查。一份全面的檢查清單"
+    }
+  ]
 }
