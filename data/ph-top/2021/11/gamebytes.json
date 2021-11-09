@@ -77,5 +77,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-09T08:01:00Z"
+  "original_createdAt": "2021-11-09T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "iMessageで直接ゲームをプレイしたり、一緒にプレイする新しい友達を作ったりすることができます。Gamebytesは、iMessageに新鮮なゲームのコレクションを提供するとともに、すべてのチャットゲームの本拠地となる専用のチャットアプリを提供します。",
+      "tagline": "iMessage用ゲーム"
+    },
+    {
+      "locale": "zh",
+      "description": "直接在iMessage中玩游戏，结交新朋友一起玩。Gamebytes为iMessage带来了新鲜的游戏集合，同时还有一个专门的聊天应用程序，成为你所有聊天游戏的家园。",
+      "tagline": "iMessage的游戏"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "直接在iMessage中玩遊戲，結交新朋友一起玩。Gamebytes爲iMessage帶來了新鮮的遊戲集合，同時還有一個專門的聊天應用程序，成爲你所有聊天遊戲的家園。",
+      "tagline": "iMessage的遊戲"
+    }
+  ]
 }

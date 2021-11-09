@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このアヒルはニューヨーク・マラソンを走った。そして、その靴を見てください。"
+    },
+    {
+      "locale": "zh",
+      "title": "这只鸭子参加了纽约马拉松。看看他们的鞋子!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這隻鴨子參加了紐約馬拉松。看看他們的鞋子!"
+    }
+  ]
 }
