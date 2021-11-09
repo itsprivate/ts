@@ -57,5 +57,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "After programmers create a pull request on Github, they often post in Slack\nasking for approvals.\n\nSometimes the Slack message is posted manually, other times Slack apps like the\nfree one provided by Github automatically post these messages.\n\nEither way, these messages are static. If anything…"
+  "the_new_excerpt": "After programmers create a pull request on Github, they often post in Slack\nasking for approvals.\n\nSometimes the Slack message is posted manually, other times Slack apps like the\nfree one provided by Github automatically post these messages.\n\nEither way, these messages are static. If anything…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "プログラマーはGithubでプルリクエストを作成した後、Slackに投稿することがよくあります。\nに投稿して承認を求めます。\n\n手動で投稿する場合もあれば、Githubが提供する無料のSlackアプリのように\nのようなSlackアプリが自動的にメッセージを投稿することもあります。\n\nいずれにしても、これらのメッセージは静的なものです。何かあれば...",
+      "title": "GithubとSlack間のプルリクエストのライブアップデート"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "程序员在Github上创建一个拉动请求后，他们经常在Slack上发帖\n请求批准。\n\n有时Slack消息是手动发布的，有时Slack应用程序，如\nGithub提供的免费应用程序会自动发布这些信息。\n\n无论哪种方式，这些消息都是静态的。如果有什么...",
+      "title": "Github和Slack之间的拉动请求实时更新"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "程序員在Github上創建一個拉動請求後，他們經常在Slack上發帖\n請求批准。\n\n有時Slack消息是手動發佈的，有時Slack應用程序，如\nGithub提供的免費應用程序會自動發佈這些信息。\n\n無論哪種方式，這些消息都是靜態的。如果有什麼...",
+      "title": "Github和Slack之間的拉動請求實時更新"
+    }
+  ]
 }
