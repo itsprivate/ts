@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-08T08:01:00Z"
+  "original_createdAt": "2021-11-08T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ハッシュファインダーは、ソーシャルウェブのサーチエンジンです。ハッシュタグで人気の投稿を発見したり、Twitter、Youtube、Reddit、Tumblrなどで話題になっているトピックを見つけることができる場所です。",
+      "tagline": "ソーシャルウェブのための検索エンジン"
+    },
+    {
+      "locale": "zh",
+      "description": "Hashfinder是社交网络的搜索引擎。在这里，你可以通过标签发现流行的帖子，找出Twitter、Youtube、Reddit、Tumblr上的热门话题，以及更多。",
+      "tagline": "一个社交网络的搜索引擎"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Hashfinder是社交網絡的搜索引擎。在這裏，你可以通過標籤發現流行的帖子，找出Twitter、Youtube、Reddit、Tumblr上的熱門話題，以及更多。",
+      "tagline": "一個社交網絡的搜索引擎"
+    }
+  ]
 }
