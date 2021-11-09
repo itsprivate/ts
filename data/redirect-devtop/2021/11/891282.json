@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-07T20:12:50Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OajdVohi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/leli06vfsxvff4s73nkc.png",
   "author": "Mustapha Aouas",
-  "author_url": "https://dev.to/mustapha"
+  "author_url": "https://dev.to/mustapha",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは。今日の記事では、レスポンシブイメージ、スクリーンサイズ、ピクセル...",
+      "title": "レスポンシブイメージでパフォーマンスを向上。srcsetとpictureの使用開始"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，在今天的文章中，我们将讨论响应式图像、屏幕尺寸、像素...",
+      "title": "反应灵敏的图像，性能更好。开始使用srcset和图片"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，在今天的文章中，我們將討論響應式圖像、屏幕尺寸、像素...",
+      "title": "反應靈敏的圖像，性能更好。開始使用srcset和圖片"
+    }
+  ]
 }

@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今年は最近、田舎に引っ越してきました。これは私の猫が初めて鹿を見たところです!"
+    },
+    {
+      "locale": "zh",
+      "title": "今年我最近搬到了一个农村的地方。这是我的猫第一次看到鹿!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "今年我最近搬到了一個農村的地方。這是我的貓第一次看到鹿!"
+    }
+  ]
 }
