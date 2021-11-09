@@ -87,5 +87,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-09T08:01:00Z"
+  "original_createdAt": "2021-11-09T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "WPFunnels は、WordPress で初めてのキャンバスベースのセールスファネルビルダーです。WordPress ダッシュボードから離れることなく、ドラッグ＆ドロップのキャンバス上で、完全なセールスファネルを視覚的に計画、設計、構築することができます。",
+      "tagline": "WordPress用ドラッグ＆ドロップ式セールスファネルビルダー"
+    },
+    {
+      "locale": "zh",
+      "description": "WPFunnels是WordPress中第一个基于画布的销售漏斗构建器。无需离开你的WordPress仪表盘，就可以在一个拖放画布上直观地计划、设计和建立完整的销售漏斗。",
+      "tagline": "用于WordPress的拖放式销售漏斗构建器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "WPFunnels是WordPress中第一個基於畫布的銷售漏斗構建器。無需離開你的WordPress儀表盤，就可以在一個拖放畫布上直觀地計劃、設計和建立完整的銷售漏斗。",
+      "tagline": "用於WordPress的拖放式銷售漏斗構建器"
+    }
+  ]
 }

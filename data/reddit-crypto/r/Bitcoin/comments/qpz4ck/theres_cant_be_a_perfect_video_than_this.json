@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これ以上の完璧なビデオはありません。"
+    },
+    {
+      "locale": "zh",
+      "title": "不可能有比这更完美的视频了"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不可能有比這更完美的視頻了"
+    }
+  ]
 }

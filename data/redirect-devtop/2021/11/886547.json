@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-03T12:28:47Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FgXRyfVc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/acej7rvbux6bkiwbyre5.jpg",
   "author": "Muzammil",
-  "author_url": "https://dev.to/earthboundmisfit"
+  "author_url": "https://dev.to/earthboundmisfit",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "開発者である私たちは、サーバー管理者が引き継いで誇示するようなスタンドアップコールではボーッとしてしまいます。",
+      "title": "初心者のためのKubernetes。どこから始めればいいの？"
+    },
+    {
+      "locale": "zh",
+      "description": "作为开发人员，当服务器管理员接管和炫耀时，我们会在这些电话会议上陷入沉思。",
+      "title": "Kubernetes的初学者。我应该从哪里开始？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "作爲開發人員，當服務器管理員接管和炫耀時，我們會在這些電話會議上陷入沉思。",
+      "title": "Kubernetes的初學者。我應該從哪裏開始？"
+    }
+  ]
 }

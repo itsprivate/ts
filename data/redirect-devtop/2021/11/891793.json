@@ -52,5 +52,22 @@
   "original_created_at": "2021-11-08T11:49:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OK1OGdPS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/konew1kisjho2b6zc9a0.png",
   "author": "Prosper Otemuyiwa",
-  "author_url": "https://dev.to/unicodeveloper"
+  "author_url": "https://dev.to/unicodeveloper",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactは、昔からよく使われているUIライブラリの一つです（プログラミングで...",
+      "title": "ソースグラフのコード検索でReactのAPIと概念を学ぶ方法\n"
+    },
+    {
+      "locale": "zh",
+      "description": "React是常用的UI库之一，已经存在了很长时间（在编程中）。",
+      "title": "如何利用Sourcegraph代码搜索学习React API和概念\n"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "React是常用的UI庫之一，已經存在了很長時間（在編程中）。",
+      "title": "如何利用Sourcegraph代碼搜索學習React API和概念\n"
+    }
+  ]
 }
