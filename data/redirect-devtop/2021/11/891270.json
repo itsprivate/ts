@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-07T19:27:56Z",
   "image": "https://dev.to/social_previews/article/891270.png",
   "author": "Muhammad Ahmad",
-  "author_url": "https://dev.to/0xf10yd"
+  "author_url": "https://dev.to/0xf10yd",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JavaScriptは「ウェブのアセンブリ言語」と呼ばれています。この例えは（完璧ではありませんが、...",
+      "title": "JSで学ぶ関数型プログラミング: 0x07 - 高度なトピックと落とし穴"
+    },
+    {
+      "locale": "zh",
+      "description": "JavaScript被称为 \"网络的汇编语言\"。这个比喻（它并不完美，但...",
+      "title": "JS中的功能编程：0x07 - 高级主题和陷阱"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "JavaScript被稱爲 \"網絡的彙編語言\"。這個比喻（它並不完美，但...",
+      "title": "JS中的功能編程：0x07 - 高級主題和陷阱"
+    }
+  ]
 }
