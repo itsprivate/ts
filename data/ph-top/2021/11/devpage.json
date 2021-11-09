@@ -83,5 +83,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-09T08:05:00Z"
+  "original_createdAt": "2021-11-09T08:05:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Dev.pageはオールインワンの開発者ページです。あなたの情報、経歴（マークダウン対応）、スキル、GitHub、StackOverflow、LinkedIn、Twitter、ブログなどへのリンクを1つのページにまとめます。dev.pageのユーザー名を登録して、たった2分で素晴らしいページを作成しましょう。",
+      "tagline": "あなたのオールインワン開発者ページ"
+    },
+    {
+      "locale": "zh",
+      "description": "Dev.page是你的一体化开发者页面--一个包含你的信息、简历（支持markdown）、技能以及你的GitHub、StackOverflow、LinkedIn、Twitter、博客等链接的单一页面。申请你的dev.page用户名，并在短短2分钟内建立一个惊人的页面",
+      "tagline": "你的一体式开发者页面"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Dev.page是你的一體化開發者頁面--一個包含你的信息、簡歷（支持markdown）、技能以及你的GitHub、StackOverflow、LinkedIn、Twitter、博客等鏈接的單一頁面。申請你的dev.page用戶名，並在短短2分鐘內建立一個驚人的頁面",
+      "tagline": "你的一體式開發者頁面"
+    }
+  ]
 }
