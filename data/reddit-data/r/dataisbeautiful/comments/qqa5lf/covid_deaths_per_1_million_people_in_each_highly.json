@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "COVID 11月8日時点での各先進国（HDI90以上）における100万人あたりの死亡者数[OC]について"
+    },
+    {
+      "locale": "zh",
+      "title": "截至11月8日，每个高度发达国家（HDI超过90）每百万人中的COVID死亡人数[OC] 。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "截至11月8日，每個高度發達國家（HDI超過90）每百萬人中的COVID死亡人數[OC] 。"
+    }
+  ]
 }
