@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-09T08:01:00Z"
+  "original_createdAt": "2021-11-09T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "NotionAvatars.comは、Notionスタイルで自分のアバターを作ることができるクールな場所です。100%無料、100%オンライン、100%楽しい。",
+      "tagline": "あなたのアバター、Notionのために"
+    },
+    {
+      "locale": "zh",
+      "description": "NotionAvatars.com是一个很酷的地方，在那里你可以创造你自己的头像，在Notion风格。100%免费，100%在线，100%有趣。",
+      "tagline": "你的头像，为Notion"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "NotionAvatars.com是一個很酷的地方，在那裏你可以創造你自己的頭像，在Notion風格。100%免費，100%在線，100%有趣。",
+      "tagline": "你的頭像，爲Notion"
+    }
+  ]
 }
