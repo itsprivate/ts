@@ -103,5 +103,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1636567261,
-  "the_new_excerpt": "VT: 100%\n\nThoughts? I think I have too many stocks."
+  "the_new_excerpt": "VT: 100%\n\nThoughts? I think I have too many stocks.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "VT：100\n\n感想は？銘柄数が多すぎると思います。",
+      "title": "私のポートフォリオを評価する"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "VT: 100%\n\n有何感想？我认为我有太多的股票。",
+      "title": "给我的投资组合评分"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "VT: 100%\n\n有何感想？我認爲我有太多的股票。",
+      "title": "給我的投資組合評分"
+    }
+  ]
 }
