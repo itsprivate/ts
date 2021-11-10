@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-10T05:47:47Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2Lb8j5yN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q379zva250un9ue9qdno.png",
   "author": "Shuvo",
-  "author_url": "https://dev.to/0shuvo0"
+  "author_url": "https://dev.to/0shuvo0",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、JavaScriptとHTML5を使ってDrawing/Pain APPを作成する方法を紹介します...",
+      "title": "JSでお絵かきアプリを作ってみよう"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我将告诉你如何使用JavaScript和HTML5创建一个绘画/绘画APP。",
+      "title": "让我们用JS创建一个绘图APP"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我將告訴你如何使用JavaScript和HTML5創建一個繪畫/繪畫APP。",
+      "title": "讓我們用JS創建一個繪圖APP"
+    }
+  ]
 }
