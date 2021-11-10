@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] 世界で最も話されている100の言語とその起源を見る さて、あなたは何ヶ国語を話しますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC] 观察世界上使用最多的100种语言及其起源。那么你会说多少种语言？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC] 觀察世界上使用最多的100種語言及其起源。那麼你會說多少種語言？"
+    }
+  ]
 }
