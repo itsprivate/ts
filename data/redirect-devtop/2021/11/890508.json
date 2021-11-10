@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-06T18:12:19Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZB4c57VX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v1wgm717lxgkcod8742y.jpg",
   "author": "Chiamaka Ojiyi",
-  "author_url": "https://dev.to/algodame"
+  "author_url": "https://dev.to/algodame",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "YoutubeのAPIは、特定の変更があったときにプッシュ通知を受け取るための方法を開発者に提供しています。",
+      "title": "TypecriptとNodejsを使ってYouTubeのAPIからプッシュ通知を購読・受信する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "Youtube的API为开发者提供了一种方法，可以在特定的变化时获得推送通知。",
+      "title": "如何使用Typescript和Nodejs从YouTube的API中订阅和接收推送通知"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Youtube的API爲開發者提供了一種方法，可以在特定的變化時獲得推送通知。",
+      "title": "如何使用Typescript和Nodejs從YouTube的API中訂閱和接收推送通知"
+    }
+  ]
 }
