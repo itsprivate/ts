@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-10T08:01:00Z"
+  "original_createdAt": "2021-11-10T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Mosaicは、Tailwind CSSで作られたパワフルな管理画面用テンプレートです。何百ものプリビルドされたページやセクションを備え、HTML、React、Vueでコーディングされています。",
+      "tagline": "Tailwind CSS管理者用ダッシュボードテンプレート"
+    },
+    {
+      "locale": "zh",
+      "description": "Mosaic是一个强大的管理仪表板模板，由Tailwind CSS构建。它具有数以百计的预建页面和部分，并以HTML、React和Vue编码。",
+      "tagline": "Tailwind CSS管理仪表板模板"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Mosaic是一個強大的管理儀表板模板，由Tailwind CSS構建。它具有數以百計的預建頁面和部分，並以HTML、React和Vue編碼。",
+      "tagline": "Tailwind CSS管理儀表板模板"
+    }
+  ]
 }
