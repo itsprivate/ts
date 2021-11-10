@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Amazonで隠れた名品を見つけるためにproductbrain.appを作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我制作了productbrain.app来帮助你在亚马逊上找到隐藏的宝物"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我製作了productbrain.app來幫助你在亞馬遜上找到隱藏的寶物"
+    }
+  ]
 }
