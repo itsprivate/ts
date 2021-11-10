@@ -72,5 +72,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-10T08:01:00Z"
+  "original_createdAt": "2021-11-10T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今開催されている最新のTwitter Spacesや、今後2週間以内に開催されるSpacesをご覧いただけます。通常、フォローしている人以外のTwitter Spacesを見つけることは困難です。SpaceTableでは、今まで見つけられなかったスペースを簡単に見つけることができます。",
+      "tagline": "Twitter Spacesのアグリゲーター"
+    },
+    {
+      "locale": "zh",
+      "description": "浏览目前正在发生的最新Twitter空间，并查看未来2周内即将发生的空间。通常情况下，除了你关注的人之外，你很难找到Twitter空间。SpaceTable让你轻松发现你从未发现过的空间。",
+      "tagline": "一个Twitter空间聚合器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "瀏覽目前正在發生的最新Twitter空間，並查看未來2周內即將發生的空間。通常情況下，除了你關注的人之外，你很難找到Twitter空間。SpaceTable讓你輕鬆發現你從未發現過的空間。",
+      "tagline": "一個Twitter空間聚合器"
+    }
+  ]
 }
