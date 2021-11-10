@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "essaygenius.ai - 学生の小論文のためのAIライティングアシスタント"
+    },
+    {
+      "locale": "zh",
+      "title": "essaygenius.ai - 学生作文的AI写作助手"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "essaygenius.ai - 學生作文的AI寫作助手"
+    }
+  ]
 }
