@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Bitcoin Suisse、ビットコイン・ライトニング技術を統合したスイス初の暗号決済プロセッサーになる"
+    },
+    {
+      "locale": "zh",
+      "title": "Bitcoin Suisse成为瑞士第一个整合比特币闪电技术的加密货币支付处理商"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Bitcoin Suisse成爲瑞士第一個整合比特幣閃電技術的加密貨幣支付處理商"
+    }
+  ]
 }
