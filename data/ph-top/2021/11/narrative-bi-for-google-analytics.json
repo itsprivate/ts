@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-10T08:01:00Z"
+  "original_createdAt": "2021-11-10T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Narrative BIは、Google Analyticsのデータをコードなしで自動分析します。🙊 自然言語によるパーソナライズされたレポート 😻 自動化された異常検知 😇 Slackとの統合 🏁 迅速かつ簡単に導入可能 🥳 専門知識は不要です。",
+      "tagline": "Googleアナリティクスからの自動インサイト"
+    },
+    {
+      "locale": "zh",
+      "description": "Narrative BI 是针对您的 Google Analytics 数据的自动化无代码分析。🙊 自然语言的个性化报告 😻 自动异常检测 😇 Slack整合 🏁 快速和容易上手 🥳 无需专业知识",
+      "tagline": "从你的谷歌分析中自动了解情况"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Narrative BI 是針對您的 Google Analytics 數據的自動化無代碼分析。🙊 自然語言的個性化報告 😻 自動異常檢測 😇 Slack整合 🏁 快速和容易上手 🥳 無需專業知識",
+      "tagline": "從你的谷歌分析中自動了解情況"
+    }
+  ]
 }
