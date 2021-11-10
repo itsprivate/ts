@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-10T11:21:45Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BGPVZlVO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2sx8z5oe3xcgw95p153i.png",
   "author": "CodeOz",
-  "author_url": "https://dev.to/codeoz"
+  "author_url": "https://dev.to/codeoz",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今日は、Githubのリポジトリをご紹介します。",
+      "title": "Web開発者としてマークすべき6つのレポ github"
+    },
+    {
+      "locale": "zh",
+      "description": "今天我将与你分享一些资料库Github，它将帮助你更有效地处理每一个问题。",
+      "title": "6个Repos github，你应该标记为网页开发者!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "今天我將與你分享一些資料庫Github，它將幫助你更有效地處理每一個問題。",
+      "title": "6個Repos github，你應該標記爲網頁開發者!"
+    }
+  ]
 }
