@@ -43,5 +43,22 @@
   "original_created_at": "2021-11-09T20:58:38Z",
   "image": "https://dev.to/social_previews/article/893373.png",
   "author": "·ſ",
-  "author_url": "https://dev.to/jmau111"
+  "author_url": "https://dev.to/jmau111",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CSSは不思議な存在です。プログラム言語でもなければ、Photoshopのようなデザインプログラムでもありません。それは...",
+      "title": "レスポンシブデザインのための巧みなCSS"
+    },
+    {
+      "locale": "zh",
+      "description": "CSS很奇怪。它既不是一种编程语言，也不是像Photoshop这样的设计程序。它可以是...",
+      "title": "响应式设计的巧妙CSS"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "CSS很奇怪。它既不是一種編程語言，也不是像Photoshop這樣的設計程序。它可以是...",
+      "title": "響應式設計的巧妙CSS"
+    }
+  ]
 }
