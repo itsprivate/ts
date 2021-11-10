@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-10T08:18:37Z"
+  "original_createdAt": "2021-11-10T08:18:37Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "refineは、データ集約型のアプリケーションを構築するためのReactベースのフレームワークです。迅速な開発のために、すぐに使える機能を数多く提供していますが、カスタマイズ性は極めて低くなっています。エンタープライズレベルのUIツールキットであるAnt Design Systemが同梱されています。",
+      "tagline": "ビジネスロジックを絞れば、あとはRefineがやってくれる"
+    },
+    {
+      "locale": "zh",
+      "description": "refine是一个基于React的框架，用于构建数据密集型的应用程序。它为快速开发提供了很多开箱即用的功能，同时又不影响极强的可定制性。它与Ant Design System（一个企业级的UI工具包）一起交付。",
+      "tagline": "专注于你的业务逻辑，剩下的就由精炼来做。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "refine是一個基於React的框架，用於構建數據密集型的應用程序。它爲快速開發提供了很多開箱即用的功能，同時又不影響極強的可定製性。它與Ant Design System（一個企業級的UI工具包）一起交付。",
+      "tagline": "專注於你的業務邏輯，剩下的就由精煉來做。"
+    }
+  ]
 }
