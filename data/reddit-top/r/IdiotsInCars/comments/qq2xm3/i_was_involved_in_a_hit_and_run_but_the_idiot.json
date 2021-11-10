@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私はひき逃げに遭いましたが、そのバカは私のホイールにプレートを残していました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我遇到了一起肇事逃逸事件，但那个白痴把他们的车牌留在了我的车轮上。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我遇到了一起肇事逃逸事件，但那個白癡把他們的車牌留在了我的車輪上。"
+    }
+  ]
 }

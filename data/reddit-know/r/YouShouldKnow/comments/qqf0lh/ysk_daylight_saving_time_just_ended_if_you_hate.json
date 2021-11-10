@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Why YSK: DST runs from March to November (we've extended it several times). If\nwe end DST, it'll be dark 1hr earlier in those months. If we just change to DST\npermanently, then our time will be different than all the other countries we\nshare a timezone with."
+  "the_new_excerpt": "Why YSK: DST runs from March to November (we've extended it several times). If\nwe end DST, it'll be dark 1hr earlier in those months. If we just change to DST\npermanently, then our time will be different than all the other countries we\nshare a timezone with.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "なぜYSKなのか：夏時間は3月から11月までです（何度か延長しています）。もし\n夏時間を終了すると、その月は1時間早く暗くなります。もし、恒久的にサマータイムに変更すると\n恒久的にサマータイムに変更すると、同じタイムゾーンを共有する他の国々と時間が異なることになります。\nタイムゾーンを共有している他の国々とは異なる時間になります。",
+      "title": "YSK サマータイムが終わりました。暗くなるのが早いのが嫌な人は、DSTを嫌っているのではありません。あなたは標準時間が嫌いなのです。もしDSTを終了したら、1年中暗くなるのが早くなります。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么是YSK：夏令时从3月到11月（我们已经延长了几次）。如果\n我们结束夏令时，这些月份的天就会提前一小时黑。如果我们永久性地改成夏令时\n那么我们的时间就会和其他国家的时间不同。\n同一个时区的国家不同。",
+      "title": "YSK夏令时刚刚结束。如果你讨厌天黑得早，你就不讨厌夏令时。你讨厌的是标准时间。如果我们结束夏令时，全年都会提前天黑。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼是YSK：夏令時從3月到11月（我們已經延長了幾次）。如果\n我們結束夏令時，這些月份的天就會提前一小時黑。如果我們永久性地改成夏令時\n那麼我們的時間就會和其他國家的時間不同。\n同一個時區的國家不同。",
+      "title": "YSK夏令時剛剛結束。如果你討厭天黑得早，你就不討厭夏令時。你討厭的是標準時間。如果我們結束夏令時，全年都會提前天黑。"
+    }
+  ]
 }
