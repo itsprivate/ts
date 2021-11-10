@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-08T22:08:35Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pJfMt-K4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0eg1s4ac57mtrfkuihjg.png",
   "author": "Faruq",
-  "author_url": "https://dev.to/faruqt"
+  "author_url": "https://dev.to/faruqt",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Djangoのバックエンド開発者として、reactを使っているフロントエンド開発者とコラボレーションする必要があるかもしれませんし、あなた自身がDjangoを使っているかもしれません。",
+      "title": "DjangoをReactJsに接続する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "作为一个Django后端开发者，你可能需要与一个使用react的前端开发者合作，或者你...",
+      "title": "如何连接Django和ReactJs"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "作爲一個Django後端開發者，你可能需要與一個使用react的前端開發者合作，或者你...",
+      "title": "如何連接Django和ReactJs"
+    }
+  ]
 }
