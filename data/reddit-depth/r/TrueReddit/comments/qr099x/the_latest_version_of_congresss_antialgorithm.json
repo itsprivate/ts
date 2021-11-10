@@ -37,5 +37,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "アルゴリズム対策法案の最新版は、2つの異なる神話と誤解に基づいている"
+    },
+    {
+      "locale": "zh",
+      "title": "国会最新版本的反算法法案是基于两个单独的被推翻的神话和对事物运作的误解"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "國會最新版本的反算法法案是基於兩個單獨的被推翻的神話和對事物運作的誤解"
+    }
+  ]
 }
