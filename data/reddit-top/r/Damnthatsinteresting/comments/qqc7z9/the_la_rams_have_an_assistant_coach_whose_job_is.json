@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "LA Ramsには、ヘッドコーチのSean McVayがオフィシャルにぶつからないようにすることを仕事とするアシスタントコーチがいます。"
+    },
+    {
+      "locale": "zh",
+      "title": "洛杉矶公羊队有一位助理教练，他的工作是确保主教练肖恩-麦克维不碰到官员"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "洛杉磯公羊隊有一位助理教練，他的工作是確保主教練肖恩-麥克維不碰到官員"
+    }
+  ]
 }
