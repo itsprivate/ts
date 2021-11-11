@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-10T16:04:17Z",
   "image": "https://dev.to/social_previews/article/894371.png",
   "author": "Saleh Mubashar",
-  "author_url": "https://dev.to/salehmubashar"
+  "author_url": "https://dev.to/salehmubashar",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは。今回の記事では、useRefとuseStateフックとは何か、その違いは何かを学びます。",
+      "title": "useRefとuseState、どちらが良いか？"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好! 在这篇文章中，我们将学习什么是useRef和useState钩子，它们的区别。",
+      "title": "useRef和useState，哪个更好？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好! 在這篇文章中，我們將學習什麼是useRef和useState鉤子，它們的區別。",
+      "title": "useRef和useState，哪個更好？"
+    }
+  ]
 }
