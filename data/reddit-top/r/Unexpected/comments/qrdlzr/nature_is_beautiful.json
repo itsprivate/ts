@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "自然は美しい"
+    },
+    {
+      "locale": "zh",
+      "title": "大自然是美丽的"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "大自然是美麗的"
+    }
+  ]
 }
