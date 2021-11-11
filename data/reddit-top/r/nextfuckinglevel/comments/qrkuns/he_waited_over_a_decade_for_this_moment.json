@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "10年以上もこの瞬間を待っていた"
+    },
+    {
+      "locale": "zh",
+      "title": "他为这一时刻等待了十余年"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他爲這一時刻等待了十餘年"
+    }
+  ]
 }
