@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "I'm drinking ramen noodle broth"
+  "the_new_excerpt": "I'm drinking ramen noodle broth",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ラーメンの出汁を飲んでいると",
+      "title": "今夜は何を飲みますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我在喝拉面汤",
+      "title": "你们今晚喝什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我在喝拉麪湯",
+      "title": "你們今晚喝什麼？"
+    }
+  ]
 }
