@@ -52,5 +52,22 @@
   "original_created_at": "2021-11-09T18:08:43Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--46odaiH3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2r70bksr3ml4lbcce1y9.jpeg",
   "author": "Vadim Kolobanov",
-  "author_url": "https://dev.to/vadimkolobanov"
+  "author_url": "https://dev.to/vadimkolobanov",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは。私はこれまでの観察で、学習を始めるための有益なヒントをたくさん蓄積してきました...",
+      "title": "プロが教える初心者プログラマーへのアドバイス"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，我在观察中积累了很多关于如何开始学习的有用技巧。",
+      "title": "专业人士给初级程序员的提示"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，我在觀察中積累了很多關於如何開始學習的有用技巧。",
+      "title": "專業人士給初級程序員的提示"
+    }
+  ]
 }

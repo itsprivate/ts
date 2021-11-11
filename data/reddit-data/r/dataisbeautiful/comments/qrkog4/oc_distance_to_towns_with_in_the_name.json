@@ -11,5 +11,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] 名前に○○が含まれる町までの距離"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]与名称中含有__的城镇的距离"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]與名稱中含有__的城鎮的距離"
+    }
+  ]
 }
