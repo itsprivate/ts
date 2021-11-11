@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-11T07:19:59Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--M2n-NhAG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zyifd3xneq7wkpbgi1rr.png",
   "author": "Swastik Yadav",
-  "author_url": "https://dev.to/swastikyadav"
+  "author_url": "https://dev.to/swastikyadav",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは。私が勉強していた頃、for-ofとfor-inのループの違いにとても悩まされました。",
+      "title": "JavaScriptのfor...ofとfor...inループの違い。"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，在我学习的时候，for-of和for-in循环的区别确实困扰着我。",
+      "title": "JavaScript中for...of和for...in循环之间的区别。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，在我學習的時候，for-of和for-in循環的區別確實困擾着我。",
+      "title": "JavaScript中for...of和for...in循環之間的區別。"
+    }
+  ]
 }
