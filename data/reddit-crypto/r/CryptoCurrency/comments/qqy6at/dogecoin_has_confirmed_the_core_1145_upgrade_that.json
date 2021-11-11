@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "DogecoinはCore 1.14.5のアップグレードを確認し、取引手数料を削減しました。3,650件の取引にかかる費用はおよそ3～4ドルですが、アップデート前は900ドルでした。"
+    },
+    {
+      "locale": "zh",
+      "title": "Dogecoin已经确认了Core 1.14.5的升级，降低了交易费用--3650个交易大约需要3-4美元，更新前是900美元。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Dogecoin已經確認了Core 1.14.5的升級，降低了交易費用--3650個交易大約需要3-4美元，更新前是900美元。"
+    }
+  ]
 }
