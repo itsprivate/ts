@@ -138,5 +138,22 @@
     "retweet_count": 576,
     "favorite_count": 2054,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @cwt_news: 🤡深刻な銃創で死亡した男性がCOVID-19の死亡者としてカウントされました https://t.co/ukLZzQGvPR",
+      "retweeted_status_full_text": "重度の銃創で死亡した🤡🌎男性はCOVID-19の死亡にカウントされました https://t.co/ukLZzQGvPR"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @cwt_news: 🤡🌎男子死于严重枪伤被算作COVID-19死亡https://t.co/ukLZzQGvPR",
+      "retweeted_status_full_text": "🤡🌎死于严重枪伤的男子被算作COVID-19死亡https://t.co/ukLZzQGvPR"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @cwt_news: 🤡🌎男子死於嚴重槍傷被算作COVID-19死亡https://t.co/ukLZzQGvPR",
+      "retweeted_status_full_text": "🤡🌎死於嚴重槍傷的男子被算作COVID-19死亡https://t.co/ukLZzQGvPR"
+    }
+  ]
 }
