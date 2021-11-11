@@ -52,5 +52,22 @@
     },
     "retweet_count": 419,
     "favorite_count": 4904
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @chadsgx: イーロン・マスクは、インフレ率が急落するようなツイートをすべきだ。",
+      "retweeted_status_full_text": "イーロン・マスクは、インフレ率が急落するようなツイートをすべきだ。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @chadsgx: 埃隆-马斯克应该在推特上发表关于通货膨胀率的文章，这样它就会暴跌。",
+      "retweeted_status_full_text": "埃隆-马斯克应该在推特上发表关于通货膨胀率的文章，以便使其暴跌"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @chadsgx: 埃隆-馬斯克應該在推特上發表關於通貨膨脹率的文章，這樣它就會暴跌。",
+      "retweeted_status_full_text": "埃隆-馬斯克應該在推特上發表關於通貨膨脹率的文章，以便使其暴跌"
+    }
+  ]
 }

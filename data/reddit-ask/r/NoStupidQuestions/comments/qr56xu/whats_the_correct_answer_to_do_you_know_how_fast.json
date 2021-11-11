@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"Do you know how fast you were going?\" \"Do you know why I pulled you over today? \"の正解は？"
+    },
+    {
+      "locale": "zh",
+      "title": "\"你知道你的速度有多快吗？/你知道我今天为什么让你停车吗？\"的正确答案是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"你知道你的速度有多快嗎？/你知道我今天爲什麼讓你停車嗎？\"的正確答案是什麼？"
+    }
+  ]
 }
