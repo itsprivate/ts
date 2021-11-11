@@ -134,5 +134,22 @@
     "retweet_count": 1741,
     "favorite_count": 7890,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @OrwellNGoode: https://t.co/DJr2Mg8tN7",
+      "retweeted_status_full_text": "https://t.co/DJr2Mg8tN7"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @OrwellNGoode: https://t.co/DJr2Mg8tN7",
+      "retweeted_status_full_text": "https://t.co/DJr2Mg8tN7"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @OrwellNGoode: https://t.co/DJr2Mg8tN7",
+      "retweeted_status_full_text": "https://t.co/DJr2Mg8tN7"
+    }
+  ]
 }
