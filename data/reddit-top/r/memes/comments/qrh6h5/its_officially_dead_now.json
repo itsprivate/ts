@@ -42,5 +42,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今は公式に死んでいます :("
+    },
+    {
+      "locale": "zh",
+      "title": "它现在已经正式死亡了 :("
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "它現在已經正式死亡了 :("
+    }
+  ]
 }
