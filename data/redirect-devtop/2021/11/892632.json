@@ -43,5 +43,22 @@
   "original_created_at": "2021-11-09T08:11:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ssG0-RQd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0r32rqb3ogjs6ba9lwxw.png",
   "author": "Baransel",
-  "author_url": "https://dev.to/baransel"
+  "author_url": "https://dev.to/baransel",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "紹介 バージョン管理システムに関しては、GITに勝るソフトウェアはほとんどありません。",
+      "title": "Gitチートシート"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍 当谈到版本控制系统时，很少有软件能够击败GIT...",
+      "title": "Git的小抄"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹 當談到版本控制系統時，很少有軟件能夠擊敗GIT...",
+      "title": "Git的小抄"
+    }
+  ]
 }
