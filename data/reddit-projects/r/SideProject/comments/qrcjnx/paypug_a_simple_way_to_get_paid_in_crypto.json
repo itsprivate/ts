@@ -1,0 +1,15 @@
+{
+  "author": "XaNgular",
+  "original_created_utc": 1636603996,
+  "title": "PayPug - A simple way to get paid in Crypto",
+  "created_utc": 1636620424,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>With crypto going to the moon and all, I thought it would be cool to have a nice and easy way to pay with my coins... Sure, I&#39;m still hodling but what if I wanted to take some of the profits?</p>\n\n<p>There is a growing number of businesses and individuals accepting crypto as payment - and what a waste of time to have every single one of them reinvent the wheel! So I made a simple crypto checkout for anyone with a website. It&#39;s called PayPug (<a href=\"https://paypug.io\">https://paypug.io</a>) and it&#39;s 100% free during the beta (I might make it free forever for early adopters that share some constructive feedback).</p>\n\n<p>SECURITY: Remember, &quot;not your private key, not your coins&quot; - so PayPug is non-custodial. It’s &quot;Bring Your Own Wallets&quot; and we never ask for your private keys. We just provide the UX for the user to make the payment (including the useful QR code) and then we track the transactions with the public information from the explorers. So compared to other crypto checkout systems, this has the advantage of being 100% safe, cheap (no extra transaction fee) and the coins go directly to YOUR wallet.</p>\n\n<p><a href=\"https://preview.redd.it/2fs3xjn06wy71.png?width=946&amp;format=png&amp;auto=webp&amp;s=d12011d200f03575ad936ed7b847803f125cb8b5\">Example Checkout for Demo Product</a></p>\n\n<p>You can add our Checkout or Donate buttons on any website in just 2 lines of HTML:</p>\n\n<pre><code>&lt;paypug-io project-id=&quot;618a35fdf95e8c241a427d20&quot;&gt;&lt;/paypug-io&gt;\n&lt;script src=&quot;https://paypug.netlify.app/checkout.js&quot; defer&gt;&lt;/script&gt;\n</code></pre>\n\n<p>You actually don’t even need a website: you can also share a link provided by PayPug to get paid in crypto! For example, you could share a link like this:</p>\n\n<p><a href=\"https://paypug.io/pay?project-id=618a35fdf95e8c241a427d20\">https://paypug.io/pay?project-id=618a35fdf95e8c241a427d20</a></p>\n\n<p>or minify it with your fav url shortener, ex:</p>\n\n<p><a href=\"https://shortest.link/paypug\">https://shortest.link/paypug</a></p>\n\n<p>Right now we support 5 coins (BTC, ETH, LTC, DOGE &amp; DAI) but the list will be growing soon.</p>\n\n<p>Hope you like it! Thanks for the feedback.</p>\n</div><!-- SC_ON -->",
+  "score": 5,
+  "permalink": "/r/SideProject/comments/qrcjnx/paypug_a_simple_way_to_get_paid_in_crypto/",
+  "subreddit": "SideProject",
+  "id": "qrcjnx",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "With crypto going to the moon and all, I thought it would be cool to have a nice\nand easy way to pay with my coins... Sure, I'm still hodling but what if I\nwanted to take some of the profits?\n\nThere is a growing number of businesses and individuals accepting crypto as\npayment - and what a waste of…"
+}
