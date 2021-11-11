@@ -82,5 +82,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-11T08:01:00Z"
+  "original_createdAt": "2021-11-11T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "モードマジックでは、Shopifyのストアフロントを自動でnocodeストアブロックで強化しています。ワンクリックでの販売と在庫の自動化、商品ガイドとハウツーによるコンバージョンの向上、バッジによるリアルタイムの価格とベストセラーの更新など、様々な機能を提供しています。",
+      "tagline": "Shopify用Nocodeストアブロック"
+    },
+    {
+      "locale": "zh",
+      "description": "在ModeMagic，我们用自动驾驶的nocode商店块为Shopify店面提供动力。使用一键式销售+库存自动化，通过🛍️产品指南和操作方法实现更好的转换，并通过徽章提供实时价格和🛒畅销品更新。",
+      "tagline": "用于Shopify的Nocode商店块"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在ModeMagic，我們用自動駕駛的nocode商店塊爲Shopify店面提供動力。使用一鍵式銷售+庫存自動化，通過🛍️產品指南和操作方法實現更好的轉換，並通過徽章提供實時價格和🛒暢銷品更新。",
+      "tagline": "用於Shopify的Nocode商店塊"
+    }
+  ]
 }

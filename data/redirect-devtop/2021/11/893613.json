@@ -52,5 +52,22 @@
   "original_created_at": "2021-11-10T01:40:34Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--akGUymOY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/htql8idw7dtrtnunegpr.jpg",
   "author": "Marko Stanimirović",
-  "author_url": "https://dev.to/markostanimirovic"
+  "author_url": "https://dev.to/markostanimirovic",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "カバー写真：Léonard Cotte on Unsplash.  この記事では、Tipsとベストプラクティスのリストが含まれています...",
+      "title": "最初に必要だったNgRxのヒント"
+    },
+    {
+      "locale": "zh",
+      "description": "封面照片由Léonard Cotte在Unsplash上拍摄。 这篇文章包含一个提示和最佳做法的清单...",
+      "title": "我在开始时需要的NgRx提示"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "封面照片由Léonard Cotte在Unsplash上拍攝。 這篇文章包含一個提示和最佳做法的清單...",
+      "title": "我在開始時需要的NgRx提示"
+    }
+  ]
 }
