@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-11T09:12:37Z"
+  "original_createdAt": "2021-11-11T09:12:37Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "HumanVoiceは、テキストを人間のような音声に変換する際に、最高の品質を求めるコンテンツ制作者のために作られました。視聴者の皆様にも気に入っていただけると思います。また、HumanVoiceにはSafari拡張機能が搭載されており、Safariブラウザから直接記事を聞くことができます。",
+      "tagline": "コンテンツ制作者のためのテキストからナレーションへ"
+    },
+    {
+      "locale": "zh",
+      "description": "HumanVoice是为那些希望在文字转为人声时具有绝对最佳质量的内容创作者而制作的。我们认为，你的观众会喜欢它。它还具有Safari扩展功能，因此你可以在Safari浏览器中直接收听文章。",
+      "tagline": "为内容创作者提供的文本到配音"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "HumanVoice是爲那些希望在文字轉爲人聲時具有絕對最佳質量的內容創作者而製作的。我們認爲，你的觀衆會喜歡它。它還具有Safari擴展功能，因此你可以在Safari瀏覽器中直接收聽文章。",
+      "tagline": "爲內容創作者提供的文本到配音"
+    }
+  ]
 }
