@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ECBのチーフエコノミストであるピーター・プレット氏は、中央銀行のお金がどのように作られるかを説明しようとしている。"
+    },
+    {
+      "locale": "zh",
+      "title": "欧洲央行首席经济学家Peter Praet试图解释央行的货币是如何产生的"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "歐洲央行首席經濟學家Peter Praet試圖解釋央行的貨幣是如何產生的"
+    }
+  ]
 }

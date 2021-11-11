@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "PDF.to - PDF変換、PDF編集、PDF変換API"
+    },
+    {
+      "locale": "zh",
+      "title": "PDF.to - PDF转换器，PDF编辑器，PDF转换器API"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "PDF.to - PDF轉換器，PDF編輯器，PDF轉換器API"
+    }
+  ]
 }
