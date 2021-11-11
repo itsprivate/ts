@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "What Bear?"
+    },
+    {
+      "locale": "zh",
+      "title": "什么熊？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "什麼熊？"
+    }
+  ]
 }
