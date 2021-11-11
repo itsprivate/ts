@@ -52,5 +52,22 @@
   "original_created_at": "2021-11-09T07:18:18Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JWSMPMyS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ryych323uueqxpsyqq9a.jpg",
   "author": "Mark Vassilevskiy",
-  "author_url": "https://dev.to/markfusion"
+  "author_url": "https://dev.to/markfusion",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Pythonは最もポピュラーで親しみやすいプログラミング言語の一つで、私自身も数年前にPythonを学びました。",
+      "title": "Pythonを使いこなすには"
+    },
+    {
+      "locale": "zh",
+      "description": "Python是最流行和最友好的编程语言之一，我自己学习Python也有好几次。",
+      "title": "如何掌握Python"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Python是最流行和最友好的編程語言之一，我自己學習Python也有好幾次。",
+      "title": "如何掌握Python"
+    }
+  ]
 }
