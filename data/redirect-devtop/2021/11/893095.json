@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-09T17:24:22Z",
   "image": "https://dev.to/social_previews/article/893095.png",
   "author": "Shubhra Agarwal",
-  "author_url": "https://dev.to/shubhracodes"
+  "author_url": "https://dev.to/shubhracodes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あるタスクを実行するためにマウスに手を伸ばしたくなることがあります。しかし、私たちは皆...",
+      "title": "コードを書くときにマウスを触らなくて済むようにするキーボードショートカット"
+    },
+    {
+      "locale": "zh",
+      "description": "有的时候，你可能觉得要伸手去拿鼠标来执行某个任务。但我们都...",
+      "title": "键盘快捷键，这将确保你在写代码时不必触摸你的鼠标"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有的時候，你可能覺得要伸手去拿鼠標來執行某個任務。但我們都...",
+      "title": "鍵盤快捷鍵，這將確保你在寫代碼時不必觸摸你的鼠標"
+    }
+  ]
 }
