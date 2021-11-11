@@ -63,5 +63,22 @@
     "retweet_count": 2352,
     "favorite_count": 4285,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @rfsquared です。🇹🇼「心筋炎や心膜炎が懸念されるため、現在12～17歳の方は2回目のTh...",
+      "retweeted_status_full_text": "🇹🇼「心筋炎や心膜炎の懸念があるため、現在台湾では12～17歳の方はファイザー・バイオンテック社のワクチンの2回目の接種ができません」https://t.co/cvxZQVjZS6。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @rfsquared: 🇹🇼 \"由于对心肌炎和心包炎的担忧，目前12-17岁的人不允许获得第二剂量的心肌炎。",
+      "retweeted_status_full_text": "🇹🇼\"由于对心肌炎和心包炎的担忧，目前在台湾，12-17岁的人不允许接种辉瑞-生物技术公司的第二剂疫苗。\" https://t.co/cvxZQVjZS6"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @rfsquared: 🇹🇼 \"由於對心肌炎和心包炎的擔憂，目前12-17歲的人不允許獲得第二劑量的心肌炎。",
+      "retweeted_status_full_text": "🇹🇼\"由於對心肌炎和心包炎的擔憂，目前在臺灣，12-17歲的人不允許接種輝瑞-生物技術公司的第二劑疫苗。\" https://t.co/cvxZQVjZS6"
+    }
+  ]
 }
