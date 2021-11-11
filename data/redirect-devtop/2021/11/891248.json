@@ -52,5 +52,22 @@
   "original_created_at": "2021-11-07T18:40:56Z",
   "image": "https://dev.to/social_previews/article/891248.png",
   "author": "Jason Meller",
-  "author_url": "https://dev.to/terracatta"
+  "author_url": "https://dev.to/terracatta",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "新しいSaaSアプリケーションを設計する際、顧客データの保持をどのように処理するかは、一般的に重要な問題の1つです。",
+      "title": "30行程度で \"うまくいく \"Railsのマルチテナント戦略"
+    },
+    {
+      "locale": "zh",
+      "description": "当设计一个新的SaaS应用程序时，你打算如何处理客户的数据租约通常是其中之一。",
+      "title": "一个只有30行的Rails多租户策略，而且 \"行之有效\"。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當設計一個新的SaaS應用程序時，你打算如何處理客戶的數據租約通常是其中之一。",
+      "title": "一個只有30行的Rails多租戶策略，而且 \"行之有效\"。"
+    }
+  ]
 }
