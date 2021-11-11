@@ -62,5 +62,19 @@
   "retweet_count": 63,
   "favorite_count": 198,
   "possibly_sensitive": false,
-  "original_created_at": "Thu Nov 11 17:58:22 +0000 2021"
+  "original_created_at": "Thu Nov 11 17:58:22 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "THIS IS AMERICA \nhttps://t.co/5hO930dHv0"
+    },
+    {
+      "locale": "zh",
+      "full_text": "这就是美国 \nhttps://t.co/5hO930dHv0"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "這就是美國 \nhttps://t.co/5hO930dHv0"
+    }
+  ]
 }
