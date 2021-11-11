@@ -52,5 +52,22 @@
     },
     "retweet_count": 265,
     "favorite_count": 2002
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @zerohedge: MUSKが追加で359万株のTESLA株を売却、約40億ドルに相当",
+      "retweeted_status_full_text": "マスク氏がテスラ株359万株（約40億ドル相当）を追加売却"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @zerohedge: MUSK出售了额外的359万股特斯拉股票，价值约40亿美元。",
+      "retweeted_status_full_text": "马斯克追加出售359万股特斯拉股票，价值约40亿美元"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @zerohedge: MUSK出售了額外的359萬股特斯拉股票，價值約40億美元。",
+      "retweeted_status_full_text": "馬斯克追加出售359萬股特斯拉股票，價值約40億美元"
+    }
+  ]
 }
