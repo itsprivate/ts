@@ -52,5 +52,22 @@
   "original_created_at": "2021-11-09T12:06:47Z",
   "image": "https://dev.to/social_previews/article/892819.png",
   "author": "Elton Minetto",
-  "author_url": "https://dev.to/eminetto"
+  "author_url": "https://dev.to/eminetto",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "プルミエの紹介 ",
+      "title": "GoとPulumiを使ったAWS上のInfrastructure as Code"
+    },
+    {
+      "locale": "zh",
+      "description": "普鲁米的介绍 ",
+      "title": "使用Go和Pulumi在AWS上的基础设施即代码"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "普魯米的介紹 ",
+      "title": "使用Go和Pulumi在AWS上的基礎設施即代碼"
+    }
+  ]
 }

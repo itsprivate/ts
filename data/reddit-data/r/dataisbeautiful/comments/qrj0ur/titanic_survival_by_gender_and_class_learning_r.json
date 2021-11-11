@@ -11,5 +11,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "タイタニックの生存率を性別・階級別にみると はじめてのRの学習とggPlotの威力"
+    },
+    {
+      "locale": "zh",
+      "title": "按性别和阶层划分的泰坦尼克号生存状况。第一次学习R和ggPlot的力量"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "按性別和階層劃分的泰坦尼克號生存狀況。第一次學習R和ggPlot的力量"
+    }
+  ]
 }
