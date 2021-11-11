@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-26T16:29:18Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Ad1NuEXN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4m8nkzon6es2jjrcj2jx.png",
   "author": "Romain Trotard",
-  "author_url": "https://dev.to/romaintrotard"
+  "author_url": "https://dev.to/romaintrotard",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今日は、Reactのコンテキストについてお話します。その役割は時々誤解されたり、悪く言われることもありますが...",
+      "title": "Reactのコンテキスト、パフォーマンス？"
+    },
+    {
+      "locale": "zh",
+      "description": "今天我们要谈的是React的上下文。它的作用有时会被误解，被说成是一个 \"小 \"字。",
+      "title": "反应背景，性能？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "今天我們要談的是React的上下文。它的作用有時會被誤解，被說成是一個 \"小 \"字。",
+      "title": "反應背景，性能？"
+    }
+  ]
 }
