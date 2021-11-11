@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-10T21:34:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FLYyoBvf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9be540s75b8z12f8p8x5.jpeg",
   "author": "Jhey Tompkins",
-  "author_url": "https://dev.to/jh3y"
+  "author_url": "https://dev.to/jh3y",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ここしばらくは、CSSを使って3Dシーンを作るのが趣味でした。通常は私のライブストリームで。     ...",
+      "title": "Print.cssを使ってみよう！ - 3D CSSプリンターを作ろう"
+    },
+    {
+      "locale": "zh",
+      "description": "一段时间以来，我一直在用CSS创建这些3D场景来寻找乐趣。通常是在我的直播中。     ...",
+      "title": "Print.css，但不是你所知道的那样 - 创建一个三维CSS打印机"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一段時間以來，我一直在用CSS創建這些3D場景來尋找樂趣。通常是在我的直播中。     ...",
+      "title": "Print.css，但不是你所知道的那樣 - 創建一個三維CSS打印機"
+    }
+  ]
 }
