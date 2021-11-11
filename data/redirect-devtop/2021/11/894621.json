@@ -43,5 +43,22 @@
   "original_created_at": "2021-11-10T21:43:38Z",
   "image": "https://dev.to/social_previews/article/894621.png",
   "author": "Mikhail Karan",
-  "author_url": "https://dev.to/mikhailkaran"
+  "author_url": "https://dev.to/mikhailkaran",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "HTML All The Thingsとは HTML All The Thingsは、ウェブ開発のポッドキャストと...",
+      "title": "フロントエンド開発者のロードマップ（再掲）"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是HTML All The Things？ HTML All The Things是一个网络开发播客，也是一个网站开发平台。",
+      "title": "前端开发者路线图（重温）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是HTML All The Things？ HTML All The Things是一個網絡開發播客，也是一個網站開發平臺。",
+      "title": "前端開發者路線圖（重溫）。"
+    }
+  ]
 }
