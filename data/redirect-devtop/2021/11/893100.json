@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-09T17:37:51Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xtx-IHfy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xjltrehy3qn2xxlb6342.png",
   "author": "Lucia Cerchie",
-  "author_url": "https://dev.to/cerchie"
+  "author_url": "https://dev.to/cerchie",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "2020年にブートキャンプに参加していた時は、JavaScriptやPythonを使ってREST APIを作っていました。 最近は...",
+      "title": "3つの異なる言語でREST APIを構築して学んだこと"
+    },
+    {
+      "locale": "zh",
+      "description": "当我在2020年的训练营时，我使用JavaScript和Python建立了REST APIs。 最近，使用...",
+      "title": "我从用三种不同语言构建REST API中学到的东西"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當我在2020年的訓練營時，我使用JavaScript和Python建立了REST APIs。 最近，使用...",
+      "title": "我從用三種不同語言構建REST API中學到的東西"
+    }
+  ]
 }
