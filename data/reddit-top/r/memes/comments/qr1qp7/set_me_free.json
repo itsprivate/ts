@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私を自由にする"
+    },
+    {
+      "locale": "zh",
+      "title": "让我自由"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "讓我自由"
+    }
+  ]
 }
