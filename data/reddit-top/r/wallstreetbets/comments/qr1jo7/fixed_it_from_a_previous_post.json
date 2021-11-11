@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "前の投稿から修正しました。"
+    },
+    {
+      "locale": "zh",
+      "title": "从以前的帖子中修正了它。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "從以前的帖子中修正了它。"
+    }
+  ]
 }
