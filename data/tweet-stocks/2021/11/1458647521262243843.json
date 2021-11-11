@@ -134,5 +134,22 @@
     "retweet_count": 322,
     "favorite_count": 1160,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @negworkingcap: 2021年第3四半期 😂 https://t.co/G4KW6IvN0i",
+      "retweeted_status_full_text": "2021年第3四半期 😂 https://t.co/G4KW6IvN0i"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @negworkingcap: 2021年第三季度 😂 https://t.co/G4KW6IvN0i",
+      "retweeted_status_full_text": "2021年第三季度 😂 https://t.co/G4KW6IvN0i"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @negworkingcap: 2021年第三季度 😂 https://t.co/G4KW6IvN0i",
+      "retweeted_status_full_text": "2021年第三季度 😂 https://t.co/G4KW6IvN0i"
+    }
+  ]
 }
