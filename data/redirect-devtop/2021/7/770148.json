@@ -45,5 +45,22 @@
   "original_created_at": "2021-07-24T08:13:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--upvFMM5T--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5si1nhwyupyjl37s9jnj.jpg",
   "author": "Mads Stoumann",
-  "author_url": "https://dev.to/madsstoumann"
+  "author_url": "https://dev.to/madsstoumann",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "国境を越えて」動作する必要のあるコンポーネントを扱う際には、複数の言語をサポートし、...",
+      "title": "グローバルコンポーネントの作成。チェックリストと例"
+    },
+    {
+      "locale": "zh",
+      "description": "在处理需要 \"跨国界 \"工作的组件时，支持多种语言和...",
+      "title": "创建全局组件。带例子的检查清单"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在處理需要 \"跨國界 \"工作的組件時，支持多種語言和...",
+      "title": "創建全局組件。帶例子的檢查清單"
+    }
+  ]
 }
