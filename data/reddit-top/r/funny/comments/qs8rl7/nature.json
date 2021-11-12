@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "自然"
+    },
+    {
+      "locale": "zh",
+      "title": "自然界"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "自然界"
+    }
+  ]
 }
