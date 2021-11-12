@@ -43,5 +43,22 @@
   "original_created_at": "2021-11-10T21:23:24Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--E5-E0G7H--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7dni9u0f0apw8v6er6wq.jpg",
   "author": "JS Bits with Bill",
-  "author_url": "https://dev.to/js_bits_bill"
+  "author_url": "https://dev.to/js_bits_bill",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "例えば、この.map()関数の中でobjを記録するとしましょう。 const arr = [ { val: 1 }, {...",
+      "title": "ワンライナー関数内での簡単なconsole.log()"
+    },
+    {
+      "locale": "zh",
+      "description": "假设我们想在这个.map()函数里面记录obj，这里： const arr = [ { val: 1 }, {...",
+      "title": "在单行函数中轻松使用 console.log()"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "假設我們想在這個.map()函數裏面記錄obj，這裏： const arr = [ { val: 1 }, {...",
+      "title": "在單行函數中輕鬆使用 console.log()"
+    }
+  ]
 }

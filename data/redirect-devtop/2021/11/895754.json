@@ -52,5 +52,22 @@
   "original_created_at": "2021-11-12T00:44:12Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qGg1Y9S4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ws8hzkhw780byi537vm5.jpeg",
   "author": "Ryan Carniato",
-  "author_url": "https://dev.to/ryansolid"
+  "author_url": "https://dev.to/ryansolid",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "過渡期のJavaScriptアプリ？何？正直なところ、私自身も完全にはわかっていません。これは...",
+      "title": "移行型JavaScriptアプリの理解"
+    },
+    {
+      "locale": "zh",
+      "description": "过渡性JavaScript应用程序？什么？嗯，说实话，我自己也不太清楚。它是一个...",
+      "title": "了解过渡期的JavaScript应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "過渡性JavaScript應用程序？什麼？嗯，說實話，我自己也不太清楚。它是一個...",
+      "title": "瞭解過渡期的JavaScript應用程序"
+    }
+  ]
 }
