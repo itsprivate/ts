@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-10T20:55:38Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s---rUc4al2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ou7c8h64gu3rsnj8eax4.jpeg",
   "author": "Amy Oulton",
-  "author_url": "https://dev.to/amyoulton"
+  "author_url": "https://dev.to/amyoulton",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事は私がCodeCastのために書いたものです。  あなたがキャリアを始めたばかりでも、あるいは...",
+      "title": "How To: ジュニア開発者が陥りやすいミスを防ぐために"
+    },
+    {
+      "locale": "zh",
+      "description": "这篇文章最初是由我为CodeCast写的。  无论你是刚刚开始你的职业生涯，还是...",
+      "title": "如何：避免初级开发员犯的常见错误"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這篇文章最初是由我爲CodeCast寫的。  無論你是剛剛開始你的職業生涯，還是...",
+      "title": "如何：避免初級開發員犯的常見錯誤"
+    }
+  ]
 }
