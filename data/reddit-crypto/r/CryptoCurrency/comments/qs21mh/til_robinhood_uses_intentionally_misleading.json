@@ -37,5 +37,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "TIL Robinhoodは意図的に誤解を招くような用語を使用し、隠れた暗号取引の手数料を偽装しています。"
+    },
+    {
+      "locale": "zh",
+      "title": "TIL: Robinhood故意使用误导性术语来掩盖隐藏的加密货币交易费用"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "TIL: Robinhood故意使用誤導性術語來掩蓋隱藏的加密貨幣交易費用"
+    }
+  ]
 }
