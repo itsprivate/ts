@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-11T12:51:13Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_wpWH93H--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7e5jmzmvp9jkmokru9iv.png",
   "author": "Victory Tuduo",
-  "author_url": "https://dev.to/victorytuduo"
+  "author_url": "https://dev.to/victorytuduo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに APIから画像を取得する場合、単純にURLで画像を取得し、...",
+      "title": "イメージをBlobとして保存する"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍：当从API中获取图片时，我们只需通过URL获得图片，然后再将其发送到数据库。",
+      "title": "将图像存储为Blob"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹：當從API中獲取圖片時，我們只需通過URL獲得圖片，然後再將其發送到數據庫。",
+      "title": "將圖像存儲爲Blob"
+    }
+  ]
 }
