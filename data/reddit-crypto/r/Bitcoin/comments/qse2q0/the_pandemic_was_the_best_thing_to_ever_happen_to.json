@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "パンデミックは、ビットコインにとって最高の出来事でした。"
+    },
+    {
+      "locale": "zh",
+      "title": "这场大流行对比特币来说是最好的事情了。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這場大流行對比特幣來說是最好的事情了。"
+    }
+  ]
 }
