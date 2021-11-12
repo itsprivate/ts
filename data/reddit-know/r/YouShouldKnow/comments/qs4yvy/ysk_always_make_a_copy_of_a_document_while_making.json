@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Why YSK: Nowadays the auto save doesn't let you say 'dont save' easily and also\nthe number of undo steps are limited in various softwares."
+  "the_new_excerpt": "Why YSK: Nowadays the auto save doesn't let you say 'dont save' easily and also\nthe number of undo steps are limited in various softwares.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "YSKを選んだ理由: 最近の自動保存では、簡単に「保存しない」とは言えません。\nまた、様々なソフトウェアで元に戻せるステップ数が制限されています。",
+      "title": "YSK: 変更を加える際には、必ずドキュメントのコピーを取るようにしてください。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么是YSK：现在的自动保存不允许你轻易说 \"不保存\"，还有就是\n撤销步骤的数量在各种软件中是有限的。",
+      "title": "YSK：在进行修改时，一定要复制一份文件。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼是YSK：現在的自動保存不允許你輕易說 \"不保存\"，還有就是\n撤銷步驟的數量在各種軟件中是有限的。",
+      "title": "YSK：在進行修改時，一定要複製一份文件。"
+    }
+  ]
 }

@@ -11,5 +11,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "マインクラフトの2D→3Dリソースパックコンバーターを作りました。ノーマル、ハイト、スペキュラマップを生成します。あなたはどう思いますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个Minecraft 2D到3D资源包转换器。它可以生成法线、高度和镜面地图。你有什么想法？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個Minecraft 2D到3D資源包轉換器。它可以生成法線、高度和鏡面地圖。你有什麼想法？"
+    }
+  ]
 }
