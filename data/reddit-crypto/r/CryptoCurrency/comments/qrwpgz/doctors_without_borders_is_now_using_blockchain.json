@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "国境なき医師団は、医療記録の保存にブロックチェーン技術を利用するようになりました。"
+    },
+    {
+      "locale": "zh",
+      "title": "无国界医生组织目前正在使用区块链技术进行医疗记录存储"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "無國界醫生組織目前正在使用區塊鏈技術進行醫療記錄存儲"
+    }
+  ]
 }
