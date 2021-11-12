@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-10T18:07:33Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0k7B2EEz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/89jajhp4qcee0czucqzj.png",
   "author": "Anjali Kumawat",
-  "author_url": "https://dev.to/anjalikumawat2002"
+  "author_url": "https://dev.to/anjalikumawat2002",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "osモジュールは、Python3の標準ライブラリ（stdlib）の一部です。 Python osモジュール...",
+      "title": "Python : OSモジュール "
+    },
+    {
+      "locale": "zh",
+      "description": "os模块是Python 3中标准库的一部分，即stdlib。 Python os模块...",
+      "title": "Python：操作系统模块 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "os模塊是Python 3中標準庫的一部分，即stdlib。 Python os模塊...",
+      "title": "Python：操作系統模塊 "
+    }
+  ]
 }
