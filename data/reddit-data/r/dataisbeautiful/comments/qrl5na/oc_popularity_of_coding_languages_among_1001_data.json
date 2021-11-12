@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC】1001人のデータサイエンティスト（LinkedInプロファイル）におけるコーディング言語の人気度）"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]1001位数据科学家中编码语言的受欢迎程度（LinkedIn简介）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]1001位數據科學家中編碼語言的受歡迎程度（LinkedIn簡介）。"
+    }
+  ]
 }
