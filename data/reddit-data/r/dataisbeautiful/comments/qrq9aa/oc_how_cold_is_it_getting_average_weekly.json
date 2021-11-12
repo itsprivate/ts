@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] どのくらい冷え込んでいますか？1年間の週間平均気温変化"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]天气有多冷了？一年中每周平均气温变化"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]天氣有多冷了？一年中每週平均氣溫變化"
+    }
+  ]
 }
