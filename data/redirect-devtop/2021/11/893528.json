@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-09T23:38:08Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_oCziuP---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8fe1uj713ge6wjuoe84g.jpg",
   "author": "Mage",
-  "author_url": "https://dev.to/mage_ai"
+  "author_url": "https://dev.to/mage_ai",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TLDR 技術設計書（別名：技術設計書または技術仕様書）は、...",
+      "title": "テクニカルデザインドキュメントの書き方"
+    },
+    {
+      "locale": "zh",
+      "description": "TLDR 技术设计文件（又称技术设计文件或技术规格）是一个很好的方法。",
+      "title": "如何撰写技术设计文档"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "TLDR 技術設計文件（又稱技術設計文件或技術規格）是一個很好的方法。",
+      "title": "如何撰寫技術設計文檔"
+    }
+  ]
 }
