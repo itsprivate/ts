@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-09T18:47:38Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EiC1UKtD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c9jy0bk43f38ri8v76b2.jpg",
   "author": "Pedro Figueiredo",
-  "author_url": "https://dev.to/pffigueiredo"
+  "author_url": "https://dev.to/pffigueiredo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これは、各CSSユニットをいつ使用するかについての意見であり、自由に意見を述べてください。",
+      "title": "CSSユニットのチートシート"
+    },
+    {
+      "locale": "zh",
+      "description": "这是对何时使用每个CSS单元的意见，欢迎和鼓励大家提出不同意见和建议。",
+      "title": "CSS单元的小抄"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是對何時使用每個CSS單元的意見，歡迎和鼓勵大家提出不同意見和建議。",
+      "title": "CSS單元的小抄"
+    }
+  ]
 }
