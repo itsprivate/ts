@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-04T11:35:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9aShL8iA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/de20f3prb7uvexinhoku.png",
   "author": "Marc Camilleri",
-  "author_url": "https://dev.to/markc86"
+  "author_url": "https://dev.to/markc86",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Vueの熱狂的なファンである私は、常に高品質のテンプレートやテーマ、リソースを探し求めています。",
+      "title": "50以上の優れたVue.jsテンプレートとテーマ"
+    },
+    {
+      "locale": "zh",
+      "description": "作为一个巨大的Vue爱好者，我一直在寻找高质量的模板、主题和资源。",
+      "title": "50多个超棒的Vue.js模板和主题"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "作爲一個巨大的Vue愛好者，我一直在尋找高質量的模板、主題和資源。",
+      "title": "50多個超棒的Vue.js模板和主題"
+    }
+  ]
 }
