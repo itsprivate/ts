@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-10T03:59:21Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8eb2ZxJZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/am7bndcbz2iel9sjw7oc.png",
   "author": "Sumudu Siriwardana",
-  "author_url": "https://dev.to/sumusiriwardana"
+  "author_url": "https://dev.to/sumusiriwardana",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "プログラミングやJavaScriptの初心者の方は、どの条件式...と迷ってしまうかもしれません。",
+      "title": "If-ElseまたはSwitch-Case。どちらを選ぶべきか？"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你是一个编程和JavaScript的新手，你可能对哪些条件感到困惑。",
+      "title": "如果-Else或Switch-case。选择哪一个？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你是一個編程和JavaScript的新手，你可能對哪些條件感到困惑。",
+      "title": "如果-Else或Switch-case。選擇哪一個？"
+    }
+  ]
 }
