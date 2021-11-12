@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] 暗くなってきました...。ヨーロッパの平均日照時間"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]天色渐暗... 欧洲的平均日照时间"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]天色漸暗... 歐洲的平均日照時間"
+    }
+  ]
 }

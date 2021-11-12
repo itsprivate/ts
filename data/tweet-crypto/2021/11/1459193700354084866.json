@@ -150,5 +150,22 @@
     "retweet_count": 152,
     "favorite_count": 1815,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @DylanLeClair_: #ビットコイン実現価格が24,000ドルを突破しました！ https://t.co/Y8f3rpKns8",
+      "retweeted_status_full_text": "#ビットコインの実現価格が2万4000ドルを突破 https://t.co/Y8f3rpKns8"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @DylanLeClair_: #比特币实现的价格已经超过了24000美元。https://t.co/Y8f3rpKns8",
+      "retweeted_status_full_text": "#比特币实现的价格已经超过了24000美元。https://t.co/Y8f3rpKns8"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @DylanLeClair_: #比特幣實現的價格已經超過了24000美元。https://t.co/Y8f3rpKns8",
+      "retweeted_status_full_text": "#比特幣實現的價格已經超過了24000美元。https://t.co/Y8f3rpKns8"
+    }
+  ]
 }
