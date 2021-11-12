@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-12T08:26:33Z"
+  "original_createdAt": "2021-11-12T08:26:33Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Remote Huntは、リモート企業の所在地、福利厚生、技術スタックなどを掲載しており、次のリモートチームに参加する企業を見つけるのに役立ちます。",
+      "tagline": "次のリモートチームを見つけよう"
+    },
+    {
+      "locale": "zh",
+      "description": "Remote Hunt列出了远程公司的地点、福利、技术栈等--帮助你找到下一个要加入的远程团队。",
+      "tagline": "寻找你的下一个远程团队加入"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Remote Hunt列出了遠程公司的地點、福利、技術棧等--幫助你找到下一個要加入的遠程團隊。",
+      "tagline": "尋找你的下一個遠程團隊加入"
+    }
+  ]
 }
