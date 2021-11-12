@@ -42,5 +42,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "YouTubeでは、「いいね！」のカウントを無効にします。"
+    },
+    {
+      "locale": "zh",
+      "title": "YouTube将禁用不喜欢的计数。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "YouTube將禁用不喜歡的計數。"
+    }
+  ]
 }
