@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "アメリカのモールの死 これは金曜日の夜のことです。90年代であれば、ここは満員だっただろう"
+    },
+    {
+      "locale": "zh",
+      "title": "美国商场的死亡。这是星期五晚上。在90年代，这里会有很多人。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "美國商場的死亡。這是星期五晚上。在90年代，這裏會有很多人。"
+    }
+  ]
 }
