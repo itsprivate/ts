@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-11T15:07:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5KYowG1y--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hxla43sgiykig01kiv6a.png",
   "author": "Faruq",
-  "author_url": "https://dev.to/faruqt"
+  "author_url": "https://dev.to/faruqt",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このシリーズのパート2へようこそ。ここでは、NotesアプリケーションのAPIを作成し、さらに...",
+      "title": "Django RESTフレームワークによるREST APIの構築"
+    },
+    {
+      "locale": "zh",
+      "description": "欢迎来到本系列的第二部分。在这里，我们将为一个Notes应用程序创建api，同时还将创建一个新的应用程序。",
+      "title": "用Django REST框架构建REST API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "歡迎來到本系列的第二部分。在這裏，我們將爲一個Notes應用程序創建api，同時還將創建一個新的應用程序。",
+      "title": "用Django REST框架構建REST API"
+    }
+  ]
 }
