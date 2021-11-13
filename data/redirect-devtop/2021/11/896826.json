@@ -43,5 +43,22 @@
   "original_created_at": "2021-11-13T01:39:03Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nU2eIy60--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ekf498bf0nsgz8ve06l0.png",
   "author": "ronyfr3",
-  "author_url": "https://dev.to/ronyfr3"
+  "author_url": "https://dev.to/ronyfr3",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私のコードをここで紹介して、核心を理解してもらいたいと思います。",
+      "title": "ReactとNode jsを使ったWeb-push Notification"
+    },
+    {
+      "locale": "zh",
+      "description": "我将在此分享我的代码，以便更好地理解核心内容。",
+      "title": "使用React和Node js的网络推送通知"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我將在此分享我的代碼，以便更好地理解核心內容。",
+      "title": "使用React和Node js的網絡推送通知"
+    }
+  ]
 }
