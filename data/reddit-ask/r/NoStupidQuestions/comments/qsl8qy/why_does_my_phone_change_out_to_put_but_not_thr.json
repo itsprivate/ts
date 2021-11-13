@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "なぜ私の携帯電話では \"out \"が \"put \"に変わり、\"thr \"が \"the \"に変わらないのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "为什么我的手机将 \"out \"改为 \"put\"，而不将 \"three \"改为 \"the\"？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲什麼我的手機將 \"out \"改爲 \"put\"，而不將 \"three \"改爲 \"the\"？"
+    }
+  ]
 }
