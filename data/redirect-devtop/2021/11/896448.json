@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-12T15:49:36Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Ju6QG0Qk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3k9bv8232f2qqpd9ej43.png",
   "author": "Blue edge",
-  "author_url": "https://dev.to/blueedgetechno"
+  "author_url": "https://dev.to/blueedgetechno",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "開発者の皆様、こんにちは。今回は、前回投稿したWindows 11のリメイクについての続報です。",
+      "title": "React JsでWindows 11💻🌈アップデート（非公式）"
+    },
+    {
+      "locale": "zh",
+      "description": "你好开发者，这是我之前的帖子的后续内容，关于重塑WINDOWS 11的内容。",
+      "title": "Windows 11 in React Js 💻🌈更新（非官方）"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好開發者，這是我之前的帖子的後續內容，關於重塑WINDOWS 11的內容。",
+      "title": "Windows 11 in React Js 💻🌈更新（非官方）"
+    }
+  ]
 }
