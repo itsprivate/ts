@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-13T08:01:00Z"
+  "original_createdAt": "2021-11-13T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Figkitは、デスクトップやモバイル向けの優れたユーザー・インターフェイスを伝達・設計するためのFigma用ワイヤーフレーム・ライブラリです。",
+      "tagline": "Figmaのための究極のワイヤーフレーム・キットです。"
+    },
+    {
+      "locale": "zh",
+      "description": "Figkit是Figma的一个线框库，用于交流和设计桌面和移动的优秀用户界面。",
+      "tagline": "Figma的终极线框套件。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Figkit是Figma的一個線框庫，用於交流和設計桌面和移動的優秀用戶界面。",
+      "tagline": "Figma的終極線框套件。"
+    }
+  ]
 }
