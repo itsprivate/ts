@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ゴルフスイングビューアー"
+    },
+    {
+      "locale": "zh",
+      "title": "高尔夫挥杆查看器"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "高爾夫揮杆查看器"
+    }
+  ]
 }
