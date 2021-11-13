@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "⚠️⚠️ これが、鉄道トンネルの出口付近には絶対にいてはいけない理由です"
+    },
+    {
+      "locale": "zh",
+      "title": "⚠️⚠️这就是为什么你永远不应该呆在铁路隧道的出口附近!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "⚠️⚠️這就是爲什麼你永遠不應該呆在鐵路隧道的出口附近!"
+    }
+  ]
 }
