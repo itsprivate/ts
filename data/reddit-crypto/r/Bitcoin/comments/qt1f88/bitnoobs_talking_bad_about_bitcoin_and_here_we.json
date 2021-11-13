@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "BitNoobsがビットコインの悪口を言っていますが、ここでは60kの強力なサポート、もうすぐ100k、ビットコインはモーーーーン！です。"
+    },
+    {
+      "locale": "zh",
+      "title": "BitNoobs在谈论比特币的坏话，而我们在这里得到了60K的强力支持，很快就到了100K，比特币到了Mooooooon!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "BitNoobs在談論比特幣的壞話，而我們在這裏得到了60K的強力支持，很快就到了100K，比特幣到了Mooooooon!"
+    }
+  ]
 }
