@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "映画やシリーズ物の中で、どんなストーリー展開が苦手ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "在电影和电视剧中，你不喜欢什么样的故事情节？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在電影和電視劇中，你不喜歡什麼樣的故事情節？"
+    }
+  ]
 }

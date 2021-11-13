@@ -43,5 +43,22 @@
   "original_created_at": "2021-11-05T19:56:57Z",
   "image": "https://dev.to/social_previews/article/889603.png",
   "author": "Mark Mead",
-  "author_url": "https://dev.to/markmead"
+  "author_url": "https://dev.to/markmead",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TailwindのCSSコンテナというと、多くの人がmax-w-screen-xl mx-auto px-4...と書くでしょう。",
+      "title": "TailwindのCSSコンテナをより良く書くには"
+    },
+    {
+      "locale": "zh",
+      "description": "说到Tailwind的CSS容器，很多人都会写max-w-screen-xl mx-auto px-4...",
+      "title": "如何编写更好的Tailwind CSS容器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "說到Tailwind的CSS容器，很多人都會寫max-w-screen-xl mx-auto px-4...",
+      "title": "如何編寫更好的Tailwind CSS容器"
+    }
+  ]
 }
