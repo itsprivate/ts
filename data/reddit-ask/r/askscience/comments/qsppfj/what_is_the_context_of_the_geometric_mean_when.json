@@ -1,0 +1,15 @@
+{
+  "author": "Demon_Prongles",
+  "original_created_utc": 1636765631,
+  "title": "What is the context of the geometric mean when the 50 ohm compromise for impedance matching was determined?",
+  "created_utc": 1636820170,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>I had wished to understand why transmission lines and other electrical systems typically use 50ohm loads for impedance. Everywhere I look online, websites just repeat the facts that this is derived from taking the values that provide highest power transfer (30 ohms), lowest power loss (77 ohms), finding the arithmetic mean (53.5) and geometric mean (48), and 50 is a compromise between them. </p>\n\n<p>There’s a lot of other history and data on various other values, but I’m hung up on why geometric mean was considered. I understand the arithmetic mean more intuitively as a midway point between these two ideals, but I can’t wrap my head around the purpose of the latter. I have only seen the GM used in basic geometry for triangle side ratios or for certain statistical growth scenarios so I don’t have a good image of its use in this real world application; is there a connection with the trigonometry of RF waves and reactive components, or something simpler?</p>\n</div><!-- SC_ON -->",
+  "score": 111,
+  "permalink": "/r/askscience/comments/qsppfj/what_is_the_context_of_the_geometric_mean_when/",
+  "subreddit": "askscience",
+  "id": "qsppfj",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "I had wished to understand why transmission lines and other electrical systems\ntypically use 50ohm loads for impedance. Everywhere I look online, websites just\nrepeat the facts that this is derived from taking the values that provide\nhighest power transfer (30 ohms), lowest power loss (77 ohms),…"
+}
