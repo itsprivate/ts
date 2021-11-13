@@ -57,5 +57,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Hello Reddit! 👋\n\nWe're finally done building the first MVP of Name Lantern\n[https://namelantern.com] and wanted to share here for some early feedback.\n\nIt is a web tool that helps you generate and find available domains for your\nstartup or project.\n\nOur API uses DNS records, WHOIS servers, cached…"
+  "the_new_excerpt": "Hello Reddit! 👋\n\nWe're finally done building the first MVP of Name Lantern\n[https://namelantern.com] and wanted to share here for some early feedback.\n\nIt is a web tool that helps you generate and find available domains for your\nstartup or project.\n\nOur API uses DNS records, WHOIS servers, cached…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "Hello Reddit! 👋\n\nようやくネームランタンの最初のMVPを作り終えました\n[https://namelantern.com] 初期のフィードバックのためにここで共有したいと思いました。\n\nName Lanternは、スタートアップやプロジェクトで利用可能なドメインを生成して見つけることができるウェブツールです。\nスタートアップやプロジェクトに利用できるドメインを生成・検索できるウェブツールです。\n\n私たちのAPIは、DNSレコード、WHOISサーバー、キャッシュされた...",
+      "title": "ネームランタン。利用可能なドメインの検索"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你好，Reddit! 👋\n\n我们终于完成了Name Lantern的第一个MVP的构建工作\n[https://namelantern.com]，并想在这里分享一些早期反馈。\n\n它是一个网络工具，帮助你为你的创业公司或项目生成和寻找可用的域名。\n创业公司或项目。\n\n我们的API使用DNS记录、WHOIS服务器、缓存的...",
+      "title": "名称灯笼。寻找可用的域名"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你好，Reddit! 👋\n\n我們終於完成了Name Lantern的第一個MVP的構建工作\n[https://namelantern.com]，並想在這裏分享一些早期反饋。\n\n它是一個網絡工具，幫助你爲你的創業公司或項目生成和尋找可用的域名。\n創業公司或項目。\n\n我們的API使用DNS記錄、WHOIS服務器、緩存的...",
+      "title": "名稱燈籠。尋找可用的域名"
+    }
+  ]
 }
