@@ -57,5 +57,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "> Understanding exactly what about the Bitcoin network implementing Taproot\n> changes is necessary for understanding why the changes were needed. Taproot is\n> the combination of many Bitcoin Improvement Proposals (BIPs) resulting in a\n> soft fork of Bitcoin’s blockchain. A soft fork is a proposed…"
+  "the_new_excerpt": "> Understanding exactly what about the Bitcoin network implementing Taproot\n> changes is necessary for understanding why the changes were needed. Taproot is\n> the combination of many Bitcoin Improvement Proposals (BIPs) resulting in a\n> soft fork of Bitcoin’s blockchain. A soft fork is a proposed…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "> タップルートを導入したビットコインネットワークの特徴を正確に理解することは\n> を実装したビットコインネットワークのどこがどう変わったのかを正確に理解することは、なぜその変更が必要だったかを理解するために必要です。タプルートは\n> 多くのビットコイン改善提案（BIP）を組み合わせて、ビットコインのブロックチェーンを\n> ビットコインのブロックチェーンをソフトフォークしたものです。ソフトフォークとは、提案された...",
+      "title": "ここにいる全員がこれを読むべきだ。タップルートをシンプルに理解するために 待望のアップグレードは、週末にロールアウトされ、ビットコインをより良い方向に変えます。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "> 了解比特币网络到底是什么在实施Taproot\n> 的变化，是理解为什么需要这些变化的必要条件。Taproot是\n> 许多比特币改进提案（BIPs）的组合，导致一个\n> 比特币区块链的软分叉。软分叉是一个拟议的...",
+      "title": "这里的每个人都应该阅读这个。以简单的方式了解Taproot。这个备受期待的升级将在周末推出，为比特币带来更好的改变。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "> 瞭解比特幣網絡到底是什麼在實施Taproot\n> 的變化，是理解爲什麼需要這些變化的必要條件。Taproot是\n> 許多比特幣改進提案（BIPs）的組合，導致一個\n> 比特幣區塊鏈的軟分叉。軟分叉是一個擬議的...",
+      "title": "這裏的每個人都應該閱讀這個。以簡單的方式瞭解Taproot。這個備受期待的升級將在週末推出，爲比特幣帶來更好的改變。"
+    }
+  ]
 }
