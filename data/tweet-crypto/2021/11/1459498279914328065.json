@@ -134,5 +134,22 @@
     "retweet_count": 8604,
     "favorite_count": 22027,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @DrEliDavid: 以下の国のうち、1つだけがCovidパスポートを使用していません。あなたはそれを見つけられますか？🧐 https://t.co/HX22yTspA2",
+      "retweeted_status_full_text": "次の国のうち、コヴィッドパスポートを使用していない国は1つだけです。あなたはそれを見つけられますか？🧐 https://t.co/HX22yTspA2"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @DrEliDavid: 以下国家中只有一个没有使用Covid护照。你能发现它吗？🧐 https://t.co/HX22yTspA2",
+      "retweeted_status_full_text": "以下国家中只有一个国家没有使用Covid护照。你能发现它吗？🧐 https://t.co/HX22yTspA2"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @DrEliDavid: 以下國家中只有一個沒有使用Covid護照。你能發現它嗎？🧐 https://t.co/HX22yTspA2",
+      "retweeted_status_full_text": "以下國家中只有一個國家沒有使用Covid護照。你能發現它嗎？🧐 https://t.co/HX22yTspA2"
+    }
+  ]
 }
