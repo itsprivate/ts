@@ -136,5 +136,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今は、どのチュートリアルが悪いのかわからない。"
+    },
+    {
+      "locale": "zh",
+      "title": "现在我看不出什么教程是坏的了"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "現在我看不出什麼教程是壞的了"
+    }
+  ]
 }
