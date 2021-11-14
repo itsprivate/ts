@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-12T06:45:33Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--s1U7lI89--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8cxadty45492bkswuf2i.png",
   "author": "Jatin Sharma",
-  "author_url": "https://dev.to/j471n"
+  "author_url": "https://dev.to/j471n",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、任意の動画をテキストの背景として使用しています。ご存知の方も多いと思いますが...",
+      "title": "CSSで動画をテキスト背景に"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我们将使用任何视频作为文本的背景。正如你可能已经知道...",
+      "title": "使用CSS将视频作为文本背景"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我們將使用任何視頻作爲文本的背景。正如你可能已經知道...",
+      "title": "使用CSS將視頻作爲文本背景"
+    }
+  ]
 }
