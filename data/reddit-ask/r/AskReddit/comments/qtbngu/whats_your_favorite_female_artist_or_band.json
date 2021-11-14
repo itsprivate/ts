@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "好きな女性アーティストやバンドを教えてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "你最喜欢的女性艺术家或乐队是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你最喜歡的女性藝術家或樂隊是什麼？"
+    }
+  ]
 }
