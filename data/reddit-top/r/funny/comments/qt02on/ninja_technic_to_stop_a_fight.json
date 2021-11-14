@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "戦いを止めるためのニンジャ・テクニーク"
+    },
+    {
+      "locale": "zh",
+      "title": "忍者技师来阻止战斗。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "忍者技師來阻止戰鬥。"
+    }
+  ]
 }

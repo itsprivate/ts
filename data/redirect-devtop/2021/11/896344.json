@@ -50,5 +50,22 @@
   "original_created_at": "2021-11-12T13:19:19Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PuOtv4WM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lqaudkqtnuo8pe19kos2.jpg",
   "author": "InHuOfficial",
-  "author_url": "https://dev.to/inhuofficial"
+  "author_url": "https://dev.to/inhuofficial",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このタイトルは、まるでクリックベイトのように聞こえるかもしれませんが、実際にはそうではありません。あなたは、99.9999％の確率で...",
+      "title": "Googleの自動運転車開発にあなたが協力 🤯"
+    },
+    {
+      "locale": "zh",
+      "description": "这可能听起来像一个点击率很高的标题，但它真的不是。你有99.9999%的把握帮助...",
+      "title": "你正在帮助谷歌建造自动驾驶汽车! 🤯"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這可能聽起來像一個點擊率很高的標題，但它真的不是。你有99.9999%的把握幫助...",
+      "title": "你正在幫助谷歌建造自動駕駛汽車! 🤯"
+    }
+  ]
 }
