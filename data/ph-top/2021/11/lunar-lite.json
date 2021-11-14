@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-14T08:01:00Z"
+  "original_createdAt": "2021-11-14T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "モニター、ワイヤレスディスプレイ、iPad Sidecar、AirPlayディスプレイの輝度を、メニューバーのシンプルなスライダで調整できます。Lunar Liteは、外部モニターをあらゆる角度からコントロールできるアプリ「Lunar」のライト版です（https://lunar.fyi）。",
+      "tagline": "すべてのディスプレイに対応する輝度スライダ"
+    },
+    {
+      "locale": "zh",
+      "description": "使用菜单栏中的简单滑块调低显示器、无线显示器、iPad Sidecar和AirPlay显示器的亮度。Lunar Lite是Lunar的精简版，它是一个控制外部显示器各个方面的应用程序（https://lunar.fyi）。",
+      "tagline": "用于所有显示器的亮度滑块"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用菜單欄中的簡單滑塊調低顯示器、無線顯示器、iPad Sidecar和AirPlay顯示器的亮度。Lunar Lite是Lunar的精簡版，它是一個控制外部顯示器各個方面的應用程序（https://lunar.fyi）。",
+      "tagline": "用於所有顯示器的亮度滑塊"
+    }
+  ]
 }
