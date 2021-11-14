@@ -41,5 +41,22 @@
   "original_created_at": "2021-11-13T20:40:55Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bOYjOYdW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0czcaevccofsmyyn9oud.jpeg",
   "author": "Anthony Oyathelemhi",
-  "author_url": "https://dev.to/frontendtony"
+  "author_url": "https://dev.to/frontendtony",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "オートログアウトロジックをReactで正しく実装する方法をご紹介します。",
+      "title": "Reactアプリへのオートログアウトの追加"
+    },
+    {
+      "locale": "zh",
+      "description": "学习如何在React中正确实现自动退出逻辑",
+      "title": "在React应用中添加自动注销功能"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "學習如何在React中正確實現自動退出邏輯",
+      "title": "在React應用中添加自動註銷功能"
+    }
+  ]
 }
