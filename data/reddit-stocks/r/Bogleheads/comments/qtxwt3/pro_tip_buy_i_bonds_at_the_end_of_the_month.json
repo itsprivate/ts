@@ -103,5 +103,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1636919714,
-  "the_new_excerpt": "Treasury Direct treats it as if you’ve been invested for the whole month. This\neffectively shortens the 12 month lock up period to 11 months and a day."
+  "the_new_excerpt": "Treasury Direct treats it as if you’ve been invested for the whole month. This\neffectively shortens the 12 month lock up period to 11 months and a day.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "トレジャリーダイレクトでは、1ヶ月間ずっと投資していたような扱いになります。これにより\n12ヶ月のロックアップ期間を11ヶ月と1日に短縮することができます。",
+      "title": "プロのアドバイス：月末にIボンドを購入する。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "财政部直接把它当作你整个月的投资。这\n有效地将12个月的锁定期缩短为11个月零一天。",
+      "title": "专业提示：在月末购买I型债券。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "財政部直接把它當作你整個月的投資。這\n有效地將12個月的鎖定期縮短爲11個月零一天。",
+      "title": "專業提示：在月末購買I型債券。"
+    }
+  ]
 }
