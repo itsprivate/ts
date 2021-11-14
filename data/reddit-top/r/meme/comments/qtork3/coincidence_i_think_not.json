@@ -106,5 +106,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "偶然の一致？違うと思いますよ。"
+    },
+    {
+      "locale": "zh",
+      "title": "巧合？我认为不是!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "巧合？我認爲不是!"
+    }
+  ]
 }
