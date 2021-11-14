@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-12T09:53:08Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fXIjUeHF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8l4js3p9n5uj6089y3rz.png",
   "author": "Ansub Khan",
-  "author_url": "https://dev.to/ansub"
+  "author_url": "https://dev.to/ansub",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CSS Gridとは何ですか？  CSS Grid Layoutは、2次元のグリッドベースのレイアウトシステムで、...",
+      "title": "CSS グリッドの簡略化"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是CSS网格？  CSS网格布局是一个基于二维网格的布局系统，它是一种...",
+      "title": "简化的CSS网格"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是CSS網格？  CSS網格佈局是一個基於二維網格的佈局系統，它是一種...",
+      "title": "簡化的CSS網格"
+    }
+  ]
 }
