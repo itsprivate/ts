@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-12T19:19:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--d8gEn4pL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ybsatt7g2ybdd3z45t6j.png",
   "author": "Spencer Pauly",
-  "author_url": "https://dev.to/spencerpauly"
+  "author_url": "https://dev.to/spencerpauly",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "なぜReactのフォームコードはこんなにも厄介なのでしょうか？ 最初はシンプルに、lt;form&gt;...",
+      "title": "Reactでフォームを管理するためのベストデザインパターン第1位"
+    },
+    {
+      "locale": "zh",
+      "description": "呃......为什么React中的表单代码总是如此混乱？ 一开始很简单：一个&lt;form&gt;...",
+      "title": "在React中管理表单的第一最佳设计模式"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "呃......爲什麼React中的表單代碼總是如此混亂？ 一開始很簡單：一個&lt;form&gt;...",
+      "title": "在React中管理表單的第一最佳設計模式"
+    }
+  ]
 }

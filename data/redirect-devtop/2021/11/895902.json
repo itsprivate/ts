@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-12T06:14:01Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--slS7a5E6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e7482bzruwn7ci1oxjtf.jpg",
   "author": "Doeke Norg",
-  "author_url": "https://dev.to/doekenorg"
+  "author_url": "https://dev.to/doekenorg",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ビジターパターンはあまり使われません。それは、このパターンが使われる場面が少ないからです。",
+      "title": "PHPのVisitorパターン"
+    },
+    {
+      "locale": "zh",
+      "description": "访客模式并不经常使用。这是因为很少有情况下它会被使用。",
+      "title": "PHP中的访问者模式"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "訪客模式並不經常使用。這是因爲很少有情況下它會被使用。",
+      "title": "PHP中的訪問者模式"
+    }
+  ]
 }
