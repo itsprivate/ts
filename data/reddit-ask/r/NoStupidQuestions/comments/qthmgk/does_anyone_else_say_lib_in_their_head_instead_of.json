@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "lbを見て「pound」ではなく、頭の中で「lib」と言ってしまう人はいませんか？"
+    },
+    {
+      "locale": "zh",
+      "title": "还有人在看到Lb时，在脑子里说 \"lib \"而不是 \"pound \"吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "還有人在看到Lb時，在腦子裏說 \"lib \"而不是 \"pound \"嗎？"
+    }
+  ]
 }
