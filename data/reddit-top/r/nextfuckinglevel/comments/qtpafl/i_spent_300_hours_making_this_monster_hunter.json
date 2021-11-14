@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "300時間かけて作ったモンスターハンターの衣装です"
+    },
+    {
+      "locale": "zh",
+      "title": "我花了300个小时制作这套怪物猎人的服装!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我花了300個小時製作這套怪物獵人的服裝!"
+    }
+  ]
 }

@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-13T20:36:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gDkGHdki--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rmgfa8hynuo0gnkmmv5o.png",
   "author": "Aurélie Vache",
-  "author_url": "https://dev.to/aurelievache"
+  "author_url": "https://dev.to/aurelievache",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Dockerに関するビデオシリーズです。Dockerの原理を視覚的に説明しています。",
+      "title": "Dockerを視覚的に理解する（🎥動画で）：パート1 - イメージ"
+    },
+    {
+      "locale": "zh",
+      "description": "一系列关于Docker的视频。以可视化的方式解释Docker的原理。",
+      "title": "以可视化的方式了解Docker（视频）：第一部分 - 图片"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一系列關於Docker的視頻。以可視化的方式解釋Docker的原理。",
+      "title": "以可視化的方式瞭解Docker（視頻）：第一部分 - 圖片"
+    }
+  ]
 }
