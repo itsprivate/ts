@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Why YSK: Credit/bank card companies only care about protecting against the\nmisuse of their card. Calling the \"If lost call +1 800..\" number will not assist\nyou in returning it to the owner.\nBetter to hand it to the police directly."
+  "the_new_excerpt": "Why YSK: Credit/bank card companies only care about protecting against the\nmisuse of their card. Calling the \"If lost call +1 800..\" number will not assist\nyou in returning it to the owner.\nBetter to hand it to the police directly.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "なぜYSKかというと、クレジットカード会社や銀行カード会社は、自分の身を守ることしか考えていないからです。\nカードが悪用されないようにすることです。紛失した場合は+1 800...」の番号に電話しても、持ち主に返す手助けにはなりません。\nに電話しても、カードの持ち主に返すことはできません。\n警察に直接渡したほうがいいですよ。",
+      "title": "YSK ほとんどのクレジット/銀行カード会社は、紛失した財布を持ち主と再会させる手助けをしてくれないこと。カードを解約するために、カードの詳細を聞かれるだけです。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么是YSK：信用卡/银行卡公司只关心如何防范\n滥用他们的卡。拨打 \"如果丢失，请致电+1 800... \"的电话不会帮助你将其归还到银行。\n你把它还给失主。\n最好直接把它交给警察。",
+      "title": "YSK 大多数信用卡/银行卡公司不会帮助你将丢失的钱包/皮夹与主人团聚。他们只会要求你提供银行卡的详细信息，以取消它。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼是YSK：信用卡/銀行卡公司只關心如何防範\n濫用他們的卡。撥打 \"如果丟失，請致電+1 800... \"的電話不會幫助你將其歸還到銀行。\n你把它還給失主。\n最好直接把它交給警察。",
+      "title": "YSK 大多數信用卡/銀行卡公司不會幫助你將丟失的錢包/皮夾與主人團聚。他們只會要求你提供銀行卡的詳細信息，以取消它。"
+    }
+  ]
 }
