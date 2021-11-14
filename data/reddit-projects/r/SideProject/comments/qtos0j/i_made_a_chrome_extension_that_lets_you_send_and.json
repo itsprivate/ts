@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Netflix & Huluで友達にメッセージを送ったり残したりできるクローム拡張機能を作ってみた"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个chrome扩展，让你在Netflix和Hulu上给你的朋友发送和留下信息"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個chrome擴展，讓你在Netflix和Hulu上給你的朋友發送和留下信息"
+    }
+  ]
 }
