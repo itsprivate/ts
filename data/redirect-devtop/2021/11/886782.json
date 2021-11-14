@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-03T13:57:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--okeUw3DY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v5ardd9fumpal52vmq6q.png",
   "author": "Pouria Hadjibagheri",
-  "author_url": "https://dev.to/xenatisch"
+  "author_url": "https://dev.to/xenatisch",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "英国のコロナウイルス・ダッシュボードは、COVID-19パンデミックの主要なデータ報告サービスです。",
+      "title": "運命のカスケード JIT、そしてPostgresのアップデートがいかにして重要な国家サービスの70％の障害につながったか"
+    },
+    {
+      "locale": "zh",
+      "description": "英国冠状病毒仪表板是COVID-19大流行病的主要数据报告服务。",
+      "title": "厄运连连。JIT，以及一个Postgres的更新如何导致一个关键的国家服务的70%的故障"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "英國冠狀病毒儀表板是COVID-19大流行病的主要數據報告服務。",
+      "title": "厄運連連。JIT，以及一個Postgres的更新如何導致一個關鍵的國家服務的70%的故障"
+    }
+  ]
 }
