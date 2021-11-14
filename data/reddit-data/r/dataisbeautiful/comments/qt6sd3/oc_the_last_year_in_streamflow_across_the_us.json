@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] 全米のストリームフローにおける最後の1年"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]美国各地流水量的最后一年。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]美國各地流水量的最後一年。"
+    }
+  ]
 }
