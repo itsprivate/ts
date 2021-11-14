@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Boys will be boys"
+    },
+    {
+      "locale": "zh",
+      "title": "男孩将是男孩"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "男孩將是男孩"
+    }
+  ]
 }
