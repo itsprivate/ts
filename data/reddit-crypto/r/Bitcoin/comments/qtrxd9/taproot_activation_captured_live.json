@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "タップルート起動をライブで撮影"
+    },
+    {
+      "locale": "zh",
+      "title": "实时捕捉到的Taproot激活情况"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "實時捕捉到的Taproot激活情況"
+    }
+  ]
 }
