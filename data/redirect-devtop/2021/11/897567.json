@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-14T01:18:40Z",
   "image": "https://dev.to/social_previews/article/897567.png",
   "author": "Bishwas Bhandari",
-  "author_url": "https://dev.to/bishwasbh"
+  "author_url": "https://dev.to/bishwasbh",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "webmatricesフォーラムのメンバーの一人が、「私が構築したAPIが...から安全であることを確認するにはどうしたらいいでしょうか？",
+      "title": "APIの安全性を確認するにはどうすればいいですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "webmatrices论坛中的一位成员问道：\"我如何确保我建立的API是安全的？",
+      "title": "我如何确保API是安全的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "webmatrices論壇中的一位成員問道：\"我如何確保我建立的API是安全的？",
+      "title": "我如何確保API是安全的？"
+    }
+  ]
 }
