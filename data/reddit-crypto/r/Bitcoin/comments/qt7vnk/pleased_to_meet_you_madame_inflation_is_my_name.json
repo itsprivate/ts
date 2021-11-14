@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "お会いできて嬉しいです、マダム・インフレは私の名前です"
+    },
+    {
+      "locale": "zh",
+      "title": "很高兴见到你，我的名字是 \"通货膨胀夫人\"。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "很高興見到你，我的名字是 \"通貨膨脹夫人\"。"
+    }
+  ]
 }
