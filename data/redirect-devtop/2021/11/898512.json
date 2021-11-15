@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-15T08:09:07Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--t3vTKAVt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7mxgjzmmobrioxfxyp1f.png",
   "author": "Swastik Yadav",
-  "author_url": "https://dev.to/swastikyadav"
+  "author_url": "https://dev.to/swastikyadav",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは。今回はHOF（高次関数）、コールバック、そして...についてご紹介します。",
+      "title": "JavaScriptのコールバック関数とクロージャを理解する。"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，在这篇文章中，我们将探讨HOF（高阶函数）、回调和...",
+      "title": "了解JavaScript中的回调函数和闭包。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，在這篇文章中，我們將探討HOF（高階函數）、回調和...",
+      "title": "瞭解JavaScript中的回調函數和閉包。"
+    }
+  ]
 }
