@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ラブストーリー"
+    },
+    {
+      "locale": "zh",
+      "title": "一个爱情故事"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個愛情故事"
+    }
+  ]
 }
