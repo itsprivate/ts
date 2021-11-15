@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-08T20:50:42Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wadEF_-2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kmkmc4ptzcd9eltb4v5f.jpg",
   "author": "Adriana DiPietro",
-  "author_url": "https://dev.to/am20dipi"
+  "author_url": "https://dev.to/am20dipi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは。 今日は、機能的でありながら非常にシンプルな検索バーの作り方をご紹介します。",
+      "title": "ハウツー：JavaScriptでシンプルな検索バーを作る"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好!  今天，我们将学习如何建立一个功能性的，但非常简单的搜索栏...",
+      "title": "如何在JavaScript中建立一个简单的搜索栏"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好!  今天，我們將學習如何建立一個功能性的，但非常簡單的搜索欄...",
+      "title": "如何在JavaScript中建立一個簡單的搜索欄"
+    }
+  ]
 }
