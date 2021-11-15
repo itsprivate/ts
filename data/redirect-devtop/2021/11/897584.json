@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-14T03:16:50Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6TS6jPgM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ra4acmf5a1pw1ywyduvz.png",
   "author": "Tapajyoti Bose",
-  "author_url": "https://dev.to/ruppysuppy"
+  "author_url": "https://dev.to/ruppysuppy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Document Object Model（DOM）は、Web開発の基本的なコンセプトの1つですが、...",
+      "title": "DOMs Decoded: DOM、Shadow DOM、Virtual DOM"
+    },
+    {
+      "locale": "zh",
+      "description": "文档对象模型（DOM）是网络开发的基本概念之一，但它是...",
+      "title": "DOMs解密。DOM, Shadow DOM & Virtual DOM"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "文檔對象模型（DOM）是網絡開發的基本概念之一，但它是...",
+      "title": "DOMs解密。DOM, Shadow DOM & Virtual DOM"
+    }
+  ]
 }
