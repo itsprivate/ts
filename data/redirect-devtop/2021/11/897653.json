@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-14T06:36:44Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ItGOORRP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kh657gzuo9flabph0y4a.jpg",
   "author": "Shantanu Jana",
-  "author_url": "https://dev.to/shantanu_jana"
+  "author_url": "https://dev.to/shantanu_jana",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、JavaScriptを使ってTodoリストを作成する方法をご紹介します。JavaScriptのTodoリストは、...",
+      "title": "JavaScriptでTodoリストを作成する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，你将学习如何使用JavaScript创建Todo列表。JavaScript的Todo List可以帮助你创建Todo List。",
+      "title": "如何用JavaScript制作一个Todo列表"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，你將學習如何使用JavaScript創建Todo列表。JavaScript的Todo List可以幫助你創建Todo List。",
+      "title": "如何用JavaScript製作一個Todo列表"
+    }
+  ]
 }
