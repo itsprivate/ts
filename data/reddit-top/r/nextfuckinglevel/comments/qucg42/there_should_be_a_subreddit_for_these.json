@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これらのためのsubredditが必要です。"
+    },
+    {
+      "locale": "zh",
+      "title": "应该有一个专门讨论这些问题的子版块。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "應該有一個專門討論這些問題的子版塊。"
+    }
+  ]
 }
