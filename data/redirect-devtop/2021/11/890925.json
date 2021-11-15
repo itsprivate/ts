@@ -52,5 +52,22 @@
   "original_created_at": "2021-11-07T08:24:01Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--H0JjbmyW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/all1ic2gjcejwpy9q79d.png",
   "author": "Juraj Pavlović",
-  "author_url": "https://dev.to/jurajuki"
+  "author_url": "https://dev.to/jurajuki",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "正しい方法で物事を行うための有益な情報を掲載した記事やブログはたくさんありますが...。",
+      "title": "避けるべきReactJsの悪しき慣習"
+    },
+    {
+      "locale": "zh",
+      "description": "有很多文章和博客包含关于如何正确做事的有用信息。",
+      "title": "要避免的不良ReactJs做法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有很多文章和博客包含關於如何正確做事的有用信息。",
+      "title": "要避免的不良ReactJs做法"
+    }
+  ]
 }
