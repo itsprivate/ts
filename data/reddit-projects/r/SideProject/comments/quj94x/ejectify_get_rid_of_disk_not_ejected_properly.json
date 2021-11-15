@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "イジェクトする Macの起動時に表示される「ディスクが正しく取り出されませんでした」という通知をなくします。"
+    },
+    {
+      "locale": "zh",
+      "title": "弹出。当你的Mac被唤醒时，摆脱 \"磁盘未正确弹出 \"的通知。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "彈出。當你的Mac被喚醒時，擺脫 \"磁盤未正確彈出 \"的通知。"
+    }
+  ]
 }
