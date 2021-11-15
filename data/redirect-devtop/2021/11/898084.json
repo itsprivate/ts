@@ -43,5 +43,22 @@
   "original_created_at": "2021-11-14T19:38:35Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cj6qL99j--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bupbqc9fctvw4j7r14it.png",
   "author": "Maddy",
-  "author_url": "https://dev.to/maddy"
+  "author_url": "https://dev.to/maddy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私のブログに掲載されたものです。  Spring Bootは、より使いやすくなったSpring...",
+      "title": "Spring Bootのアーキテクチャ"
+    },
+    {
+      "locale": "zh",
+      "description": "原文发表于我的博客。  Spring Boot是Spring的一个更友好的版本。",
+      "title": "Spring Boot架构"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "原文發表於我的博客。  Spring Boot是Spring的一個更友好的版本。",
+      "title": "Spring Boot架構"
+    }
+  ]
 }
