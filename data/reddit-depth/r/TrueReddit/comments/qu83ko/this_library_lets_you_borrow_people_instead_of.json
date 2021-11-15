@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この図書館では、本ではなく人を借りることができます。それは、私たちの苦い溝を埋める助けになるかもしれません"
+    },
+    {
+      "locale": "zh",
+      "title": "这个图书馆让你借人而不是借书。它可能有助于弥合我们痛苦的分歧。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個圖書館讓你借人而不是借書。它可能有助於彌合我們痛苦的分歧。"
+    }
+  ]
 }
