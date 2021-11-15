@@ -134,5 +134,22 @@
     "retweet_count": 8689,
     "favorite_count": 49902,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @100trillionUSD: 11月98Kドル、12月135Kドルの予測はまだ継続中 https://t.co/Df9CsxTdEj",
+      "retweeted_status_full_text": "11月の$98Kと12月の$135Kの予測はまだ有効 https://t.co/Df9CsxTdEj"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @100trillionUSD: 11月98K美元和12月135K美元的预测仍在进行中 https://t.co/Df9CsxTdEj",
+      "retweeted_status_full_text": "11月9.8万美元和12月13.5万美元的预测仍在进行中 https://t.co/Df9CsxTdEj"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @100trillionUSD: 11月98K美元和12月135K美元的預測仍在進行中 https://t.co/Df9CsxTdEj",
+      "retweeted_status_full_text": "11月9.8萬美元和12月13.5萬美元的預測仍在進行中 https://t.co/Df9CsxTdEj"
+    }
+  ]
 }

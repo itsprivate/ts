@@ -42,5 +42,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインの爆発。エルサルバドルでは、従来の銀行口座よりもデジタルウォレットの方が多くなった"
+    },
+    {
+      "locale": "zh",
+      "title": "一个比特币的爆炸。萨尔瓦多现在的数字钱包比传统银行账户还多"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個比特幣的爆炸。薩爾瓦多現在的數字錢包比傳統銀行賬戶還多"
+    }
+  ]
 }
