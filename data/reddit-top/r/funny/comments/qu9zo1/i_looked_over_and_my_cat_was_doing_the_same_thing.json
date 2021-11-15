@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ふと見ると、うちの猫がカーテンと同じことをしていて"
+    },
+    {
+      "locale": "zh",
+      "title": "我看过去，我的猫正在做和窗帘一样的事情"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我看過去，我的貓正在做和窗簾一樣的事情"
+    }
+  ]
 }
