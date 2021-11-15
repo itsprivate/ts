@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-14T13:57:47Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OcbfC2QQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6rpllllgxrukfzpqmx7e.jpg",
   "author": "Why and How ❔❔",
-  "author_url": "https://dev.to/why_and_how"
+  "author_url": "https://dev.to/why_and_how",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは。プログラミングをしていると、誰もが助けを必要とし、私たちプログラマーはいつも待っています。",
+      "title": "プログラマーのためのトップ3サイト💻。"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，我们在编程时都需要帮助，作为一个程序员，我们总是在等待...",
+      "title": "为程序员提供的前3个网站💻。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，我們在編程時都需要幫助，作爲一個程序員，我們總是在等待...",
+      "title": "爲程序員提供的前3個網站💻。"
+    }
+  ]
 }

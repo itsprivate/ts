@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "自分にメッセージを送るアプリを作ってみた - Luckynote (Web, iOS, Android)"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个给自己留言的应用程序--Luckynote（网络、iOS、Android）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個給自己留言的應用程序--Luckynote（網絡、iOS、Android）。"
+    }
+  ]
 }
