@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-14T13:27:07Z",
   "image": "https://dev.to/social_previews/article/897852.png",
   "author": "javinpaul",
-  "author_url": "https://dev.to/javinpaul"
+  "author_url": "https://dev.to/javinpaul",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "書籍、コース、模擬試験、チュートリアルなどのリソースを用いて、2022年に認定Spring Developer Professionalになるための完全なガイドです。",
+      "title": "2022年にSpring開発者認定プロフェッショナルになるには"
+    },
+    {
+      "locale": "zh",
+      "description": "您在2022年成为认证的Spring开发专家的完整指南，包括书籍、课程、模拟测试和教程等资源",
+      "title": "如何在2022年成为Spring开发者认证专家"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "您在2022年成爲認證的Spring開發專家的完整指南，包括書籍、課程、模擬測試和教程等資源",
+      "title": "如何在2022年成爲Spring開發者認證專家"
+    }
+  ]
 }
