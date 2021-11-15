@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-14T14:12:09Z",
   "image": "https://dev.to/social_previews/article/897867.png",
   "author": "Carlo Gino Catapang",
-  "author_url": "https://dev.to/carlogino"
+  "author_url": "https://dev.to/carlogino",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ダイナミックなイメージプレースホルダーを作成するには？            TLDR 完全なコードをここでチェックしてください ...",
+      "title": "Next.jsのダイナミックイメージプレースホルダー"
+    },
+    {
+      "locale": "zh",
+      "description": "如何创建一个动态图像占位符？            TLDR 检查这里的完整代码...",
+      "title": "Next.js中的动态图像占位符"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如何創建一個動態圖像佔位符？            TLDR 檢查這裏的完整代碼...",
+      "title": "Next.js中的動態圖像佔位符"
+    }
+  ]
 }
