@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの人気のない映画の感想は？"
+    },
+    {
+      "locale": "zh",
+      "title": "你有什么不受欢迎的电影意见？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你有什麼不受歡迎的電影意見？"
+    }
+  ]
 }
