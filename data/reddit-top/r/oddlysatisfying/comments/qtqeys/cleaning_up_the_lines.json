@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ラインの掃除。"
+    },
+    {
+      "locale": "zh",
+      "title": "清理线路。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "清理線路。"
+    }
+  ]
 }
