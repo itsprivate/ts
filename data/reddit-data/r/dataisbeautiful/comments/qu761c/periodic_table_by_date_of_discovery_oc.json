@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "発見された日付による周期表 [OC]."
+    },
+    {
+      "locale": "zh",
+      "title": "按发现日期排列的周期表 [OC]"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "按發現日期排列的週期表 [OC]"
+    }
+  ]
 }
