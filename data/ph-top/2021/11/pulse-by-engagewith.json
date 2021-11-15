@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-15T08:04:58Z"
+  "original_createdAt": "2021-11-15T08:04:58Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "社内のチームにアンケートを実施したが、結果は散々だった。回答を得るために何度もフォローアップしなければなりませんか？🚫従来のアンケートはもうやめましょう。Pulseを使えば、SlackやTeamsの中でチームからのフィードバックをすぐに得ることができます😇ボーナス: incognito pulsesを送受信する😎。",
+      "tagline": "SlackやMS Teamsでチームからのフィードバックを即座に得ることができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "为你的内部团队发起了一项调查--然后是蟋蟀？要做十几次跟踪调查才能得到答复？🚫 淘汰传统的调查。有了Pulse，你可以在Slack和Team中获得团队的即时反馈 😇 奖励：发送/接收隐身脉冲 😎",
+      "tagline": "在Slack和MS Teams上从你的团队获得即时反馈"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "爲你的內部團隊發起了一項調查--然後是蟋蟀？要做十幾次跟蹤調查才能得到答覆？🚫 淘汰傳統的調查。有了Pulse，你可以在Slack和Team中獲得團隊的即時反饋 😇 獎勵：發送/接收隱身脈衝 😎",
+      "tagline": "在Slack和MS Teams上從你的團隊獲得即時反饋"
+    }
+  ]
 }
