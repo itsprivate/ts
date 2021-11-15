@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "シュレーディンガーの猫は、なぜ「観測理論の批判」から「観測理論を教えるための例」になったのか？"
+    },
+    {
+      "locale": "zh",
+      "title": "薛定谔的猫是如何从 \"对观察理论的批评 \"变成教授观察理论的例子的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "薛定諤的貓是如何從 \"對觀察理論的批評 \"變成教授觀察理論的例子的？"
+    }
+  ]
 }
