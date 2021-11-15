@@ -11,5 +11,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "過去4年間の私の位置情報に関するグーグルのデータの詳細さには驚かされます。"
+    },
+    {
+      "locale": "zh",
+      "title": "在过去的4年里，谷歌对我的位置所掌握的数据的详细程度是令人震惊的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在過去的4年裏，谷歌對我的位置所掌握的數據的詳細程度是令人震驚的。"
+    }
+  ]
 }
