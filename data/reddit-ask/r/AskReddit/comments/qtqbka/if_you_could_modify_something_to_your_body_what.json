@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "自分の体に何か手を加えられるとしたら、何を手直ししますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你能对你的身体进行修改，你会修改什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你能對你的身體進行修改，你會修改什麼？"
+    }
+  ]
 }
