@@ -42,5 +42,22 @@
   "original_created_at": "2021-11-16T07:26:30Z",
   "image": "https://dev.to/social_previews/article/899442.png",
   "author": "Arpit Mishra",
-  "author_url": "https://dev.to/scarneck_arpit"
+  "author_url": "https://dev.to/scarneck_arpit",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "クラブハウスのアプリが有名になって以来、ドロップイン式のオーディオ専用ルームの人気が高まっています。",
+      "title": "100msとNext.jsでDiscordのステージチャンネルクローンを作る"
+    },
+    {
+      "locale": "zh",
+      "description": "自从会所应用程序声名鹊起以来，落地式纯音频房间的受欢迎程度一直...",
+      "title": "用100ms和Next.js建立一个克隆的Discord舞台频道"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "自從會所應用程序聲名鵲起以來，落地式純音頻房間的受歡迎程度一直...",
+      "title": "用100ms和Next.js建立一個克隆的Discord舞臺頻道"
+    }
+  ]
 }
