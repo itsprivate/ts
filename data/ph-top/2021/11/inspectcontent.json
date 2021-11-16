@@ -43,5 +43,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-16T08:02:19Z"
+  "original_createdAt": "2021-11-16T08:02:19Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ページのURLを指定して、単語や文字数を取得したり、キーワードやキーワード数を調べたりすることができます。ページテキストの平均読了時間を見る。",
+      "tagline": "任意のURLのコンテンツを検査"
+    },
+    {
+      "locale": "zh",
+      "description": "指定一个页面的URL，获得字数和字母数，查找关键词和关键词数。查看页面文本的平均阅读时间。",
+      "tagline": "检查任何URL的内容"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "指定一個頁面的URL，獲得字數和字母數，查找關鍵詞和關鍵詞數。查看頁面文本的平均閱讀時間。",
+      "tagline": "檢查任何URL的內容"
+    }
+  ]
 }
