@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-14T17:26:45Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QxEL7TCU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d5wth4o6yz8xyuyrvd1k.png",
   "author": "Arunava Modak",
-  "author_url": "https://dev.to/arunavamodak"
+  "author_url": "https://dev.to/arunavamodak",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、React Routerのバージョン6がリリースされましたが、その変更点を理解することは、私たちにとって重要なことです。",
+      "title": "React Router V5とV6の比較"
+    },
+    {
+      "locale": "zh",
+      "description": "React Router第6版最近发布了，对我们来说，了解其中的变化很重要，因为...",
+      "title": "React Router V5 vs V6"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "React Router第6版最近發佈了，對我們來說，瞭解其中的變化很重要，因爲...",
+      "title": "React Router V5 vs V6"
+    }
+  ]
 }
