@@ -14,5 +14,19 @@
   "tags": [
     "Fox News"
   ],
-  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/11/chinalocksdowncampus.jpg"
+  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/11/chinalocksdowncampus.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "中国で「COVID-19」が新たに発生し、大学のキャンパスが封鎖される"
+    },
+    {
+      "locale": "zh",
+      "title": "中国因新的COVID-19疫情而封锁大学校园"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "中國因新的COVID-19疫情而封鎖大學校園"
+    }
+  ]
 }
