@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "It just occurred to me that you can't really hit the delete key, so how did you\nrecognize and fix a mis-typed Morse message?"
+  "the_new_excerpt": "It just occurred to me that you can't really hit the delete key, so how did you\nrecognize and fix a mis-typed Morse message?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ふと思ったのですが、実際には削除キーを押すことはできないので、どうやって\n誤入力したモールス信号をどうやって認識し、修正したのか。",
+      "title": "モールス信号でタイプミスをするとどうなりますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我突然想到，你不可能真的按删除键，那么你是如何\n识别并修复输入错误的摩尔斯电文？",
+      "title": "如果你在使用摩斯密码时打错了字，会怎么样？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我突然想到，你不可能真的按刪除鍵，那麼你是如何\n識別並修復輸入錯誤的摩爾斯電文？",
+      "title": "如果你在使用摩斯密碼時打錯了字，會怎麼樣？"
+    }
+  ]
 }
