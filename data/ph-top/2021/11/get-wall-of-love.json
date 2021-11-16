@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-16T09:04:35Z"
+  "original_createdAt": "2021-11-16T09:04:35Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ProductHuntアプリケーションの「Love Of Wall」を作成するシンプルなウェブアプリケーションです。",
+      "tagline": "Product Huntの発売に合わせて「愛の壁」を作るウェブアプリ"
+    },
+    {
+      "locale": "zh",
+      "description": "一个简单的网络应用程序，为ProductHunt应用程序创建 \"爱墙\"。",
+      "tagline": "创建 \"爱之墙 \"的网络应用，为产品猎头发布提供支持"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個簡單的網絡應用程序，爲ProductHunt應用程序創建 \"愛牆\"。",
+      "tagline": "創建 \"愛之牆 \"的網絡應用，爲產品獵頭髮布提供支持"
+    }
+  ]
 }
