@@ -52,5 +52,22 @@
   "original_created_at": "2021-11-15T14:54:42Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0emiNtaD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/haurdl00p3m2wyfwp7j8.png",
   "author": "Oliver Juhl",
-  "author_url": "https://dev.to/owjuhl"
+  "author_url": "https://dev.to/owjuhl",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "MedusaとStrapiを使用して、完全なオープンソースのヘッドレスソリューションとして、コマースのセットアップを行うことができます。で...",
+      "title": "オープンソースのNode.jsを用いたStrapi用コマースエンジン"
+    },
+    {
+      "locale": "zh",
+      "description": "使用Medusa和Strapi为你的商务设置提供动力，以实现完全开源的无头解决方案。在...",
+      "title": "Strapi的开源Node.js商务引擎"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用Medusa和Strapi爲你的商務設置提供動力，以實現完全開源的無頭解決方案。在...",
+      "title": "Strapi的開源Node.js商務引擎"
+    }
+  ]
 }
