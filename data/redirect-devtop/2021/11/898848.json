@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-15T16:01:43Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OoFWz6XM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qssbwzuv3bw6sc7xlvsw.png",
   "author": "Mukul Singhal",
-  "author_url": "https://dev.to/mukul_singhal"
+  "author_url": "https://dev.to/mukul_singhal",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは👋 このシリーズでは、javascriptの面接で聞かれる質問をたくさん紹介しますので、...",
+      "title": "配列のディープフラット化"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好👋，在这个系列中，我们将看到很多在javascript面试中被问到的问题，所以...",
+      "title": "深度扁平化阵列"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好👋，在這個系列中，我們將看到很多在javascript面試中被問到的問題，所以...",
+      "title": "深度扁平化陣列"
+    }
+  ]
 }
