@@ -42,5 +42,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Notes App [https://play.google.com/store/apps/details?id=notepad.quick.notes]"
+  "the_new_excerpt": "Notes App [https://play.google.com/store/apps/details?id=notepad.quick.notes]",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ノートアプリ [https://play.google.com/store/apps/details?id=notepad.quick.notes]",
+      "title": "メモとリマインダーを一つのアプリにまとめ、プライバシーを最大限に確保したアプリ[Android]を作りました。改良点や変更点があれば、フィードバックをお願いします。ありがとうございます。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "注释应用程序[https://play.google.com/store/apps/details?id=notepad.quick.notes]",
+      "title": "我做了一个应用程序[安卓]，将笔记和提醒事项结合到一个应用程序中，具有最大的隐私性。请对我可以改进或改变的地方给予反馈。谢谢。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "註釋應用程序[https://play.google.com/store/apps/details?id=notepad.quick.notes]",
+      "title": "我做了一個應用程序[安卓]，將筆記和提醒事項結合到一個應用程序中，具有最大的隱私性。請對我可以改進或改變的地方給予反饋。謝謝。"
+    }
+  ]
 }
