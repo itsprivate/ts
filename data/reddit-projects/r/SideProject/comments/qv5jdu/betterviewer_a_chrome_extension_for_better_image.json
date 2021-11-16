@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "BetterViewer - 画像を見やすくするクローム拡張機能"
+    },
+    {
+      "locale": "zh",
+      "title": "BetterViewer - 一个用于改善图像浏览体验的chrome扩展程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "BetterViewer - 一個用於改善圖像瀏覽體驗的chrome擴展程序"
+    }
+  ]
 }

@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ボイスオーバーが疲れているように聞こえるとき、それは良いチュートリアルであることがわかります。"
+    },
+    {
+      "locale": "zh",
+      "title": "当画外音听起来很累的时候，你就知道这是一个好的教程。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當畫外音聽起來很累的時候，你就知道這是一個好的教程。"
+    }
+  ]
 }
