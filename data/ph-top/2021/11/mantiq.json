@@ -82,5 +82,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-16T08:01:00Z"
+  "original_createdAt": "2021-11-16T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Mantiqはワークフロー自動化ツールです✨ コードを書くのではなく、ビジュアライズされたLEGOのような積み木を使って、WordPressのウェブサイトに必要なロジックを構築することができます。💡 ZapierやIFTTTの機能をWordPress内に大幅に追加したものと考えてください。",
+      "tagline": "WordPress用のビジュアルバックエンド＆ワークフロービルダー"
+    },
+    {
+      "locale": "zh",
+      "description": "Mantiq是一个工作流程自动化工具✨ 它允许你在你的WordPress网站上用可视化的乐高式积木来构建你需要的逻辑，而不是写代码。💡 想想Zapier或IFTTT，在你的WordPress内有更多的功能。",
+      "tagline": "WordPress的可视化后台和工作流程构建器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Mantiq是一個工作流程自動化工具✨ 它允許你在你的WordPress網站上用可視化的樂高式積木來構建你需要的邏輯，而不是寫代碼。💡 想想Zapier或IFTTT，在你的WordPress內有更多的功能。",
+      "tagline": "WordPress的可視化後臺和工作流程構建器"
+    }
+  ]
 }
