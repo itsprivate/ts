@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-16T10:06:15Z"
+  "original_createdAt": "2021-11-16T10:06:15Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Glide Pagesは、ウェブ用のhttps://www.glideapps.com。Google Sheetsのデータを利用した、コード不要のウェブアプリ＆ウェブサイトビルダーです。レスポンシブレイアウト、ウェブナビゲーション、データドリブンなコンポーネント、データを追加・更新するパワフルなアクションで、データを美しく表現します。",
+      "tagline": "あなたのデータを活用した、美しいノーコードのWebアプリケーションやWebサイト"
+    },
+    {
+      "locale": "zh",
+      "description": "Glide Pages是https://www.glideapps.com，它是一个无代码的网络应用程序和网站建设者，由你的Google Sheets中的数据驱动。它通过响应式布局、网络导航、数据驱动的组件以及添加和更新数据的强大操作，漂亮地展示你的数据。",
+      "tagline": "漂亮的无代码网络应用程序和网站，由你的数据驱动"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Glide Pages是https://www.glideapps.com，它是一個無代碼的網絡應用程序和網站建設者，由你的Google Sheets中的數據驅動。它通過響應式佈局、網絡導航、數據驅動的組件以及添加和更新數據的強大操作，漂亮地展示你的數據。",
+      "tagline": "漂亮的無代碼網絡應用程序和網站，由你的數據驅動"
+    }
+  ]
 }
