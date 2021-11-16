@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-15T17:38:04Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kW8YiyJ6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q07a24vvtkta6t8w9lsg.png",
   "author": "Johnny Simpson",
-  "author_url": "https://dev.to/smpnjn"
+  "author_url": "https://dev.to/smpnjn",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "パイプライン演算子は、Javascriptの次期機能で、値を渡すための別の方法を提供します。",
+      "title": "未来のJavascript。Javascriptのパイプライン・オペレーター"
+    },
+    {
+      "locale": "zh",
+      "description": "管道操作符是Javascript的一个即将到来的功能，它为我们提供了另一种传递值的方式。",
+      "title": "未来的Javascript。Javascript管道操作者"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "管道操作符是Javascript的一個即將到來的功能，它爲我們提供了另一種傳遞值的方式。",
+      "title": "未來的Javascript。Javascript管道操作者"
+    }
+  ]
 }
