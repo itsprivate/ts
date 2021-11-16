@@ -82,5 +82,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-16T10:19:24Z"
+  "original_createdAt": "2021-11-16T10:19:24Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "BetterViewerは、ChromeベースのWebブラウザに搭載されている画像表示モードの代替として設計されました。BetterViewerでは、様々なキーボードショートカットを使って、画像のパンやズーム、編集などを素早く行うことができます。",
+      "tagline": "画像を見やすくするクローム拡張機能"
+    },
+    {
+      "locale": "zh",
+      "description": "BetterViewer是作为基于Chrome的网络浏览器内置的图像浏览模式的替代品而设计的。有了BetterViewer，你可以使用各种键盘快捷键来快速平移、缩放图像、编辑和更多的内容",
+      "tagline": "一个用于改善图像浏览体验的chrome扩展"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "BetterViewer是作爲基於Chrome的網絡瀏覽器內置的圖像瀏覽模式的替代品而設計的。有了BetterViewer，你可以使用各種鍵盤快捷鍵來快速平移、縮放圖像、編輯和更多的內容",
+      "tagline": "一個用於改善圖像瀏覽體驗的chrome擴展"
+    }
+  ]
 }
