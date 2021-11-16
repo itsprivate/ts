@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが知っている（できれば気になる）、おそらく知らないはずの事実は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你知道的一个你可能不应该知道的事实是什么（最好是令人不安的）？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你知道的一個你可能不應該知道的事實是什麼（最好是令人不安的）？"
+    }
+  ]
 }
