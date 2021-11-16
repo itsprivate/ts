@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-13T09:30:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6YYiafPE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/smmkdrmzdkdj4av59lty.png",
   "author": "Artem Malko",
-  "author_url": "https://dev.to/artemmalko"
+  "author_url": "https://dev.to/artemmalko",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "シベリアから皆さんこんにちは❄!  TLDR この記事は、Error Boundariesの使い方ではなく、なぜ私たちはError Boundariesを使うのかについてです。",
+      "title": "Reactのエラーバウンダリー、どのように作られているのか？"
+    },
+    {
+      "locale": "zh",
+      "description": "来自西伯利亚的大家好❄!  TLDR 这篇文章不是关于如何使用错误边界，而是关于为什么我们...",
+      "title": "React中的错误边界，它是如何产生的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "來自西伯利亞的大家好❄!  TLDR 這篇文章不是關於如何使用錯誤邊界，而是關於爲什麼我們...",
+      "title": "React中的錯誤邊界，它是如何產生的？"
+    }
+  ]
 }
