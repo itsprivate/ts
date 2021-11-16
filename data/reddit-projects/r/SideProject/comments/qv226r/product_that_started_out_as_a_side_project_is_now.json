@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Hi everyone!\n\nYesterday we launched Nitro on Product Hunt - and Nitro started out as a side\nproject of our CEO, a human translation platform which he created mainly for\nhimself and his friends - when he got tired of contacting multiple translators\n(weekly!) for getting a handful of strings…"
+  "the_new_excerpt": "Hi everyone!\n\nYesterday we launched Nitro on Product Hunt - and Nitro started out as a side\nproject of our CEO, a human translation platform which he created mainly for\nhimself and his friends - when he got tired of contacting multiple translators\n(weekly!) for getting a handful of strings…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "皆さん、こんにちは。\n\n昨日、私たちはProduct HuntでNitroを発表しました - Nitroは私たちのサイドプロジェクトとして始まりました。\n人力翻訳プラットフォームで、主に自分と友人のために作りました。\n毎週！）複数の翻訳者に連絡を取るのに疲れた彼が、自分と友人のために作った人間翻訳プラットフォームです。\n(少ない文字列を得るために、複数の翻訳者に（毎週！）連絡することに飽きたからです。",
+      "title": "サイドプロジェクトとして始まった製品が、今ではProduct Huntでトレンドになっています。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "大家好!\n\n昨天，我们在Product Hunt上发布了Nitro - Nitro最初是我们CEO的一个副业。\nNitro最初是我们CEO的一个副业，一个主要为他自己和他的朋友创建的人工翻译平台。\n他主要是为自己和他的朋友们创建的--当他厌倦了为获得少量的字符串而联系多个翻译员时\n(每周一次!)以获得少量的字符串时，他厌倦了联系多个翻译...",
+      "title": "一开始只是个副业的产品现在在Product Hunt上成为了潮流"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "大家好!\n\n昨天，我們在Product Hunt上發佈了Nitro - Nitro最初是我們CEO的一個副業。\nNitro最初是我們CEO的一個副業，一個主要爲他自己和他的朋友創建的人工翻譯平臺。\n他主要是爲自己和他的朋友們創建的--當他厭倦了爲獲得少量的字符串而聯繫多個翻譯員時\n(每週一次!)以獲得少量的字符串時，他厭倦了聯繫多個翻譯...",
+      "title": "一開始只是個副業的產品現在在Product Hunt上成爲了潮流"
+    }
+  ]
 }
