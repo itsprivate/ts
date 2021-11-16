@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-14T05:14:38Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6fghgNuu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/inq02wgw3e32rpehcygf.jpeg",
   "author": "Altamash Ali",
-  "author_url": "https://dev.to/altamashali"
+  "author_url": "https://dev.to/altamashali",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "前回の記事(Deep dive into Node.js Architecture)では、Node.jsの内部構造について学びましたが、今回は...",
+      "title": "Node.jsのイベントループの動作"
+    },
+    {
+      "locale": "zh",
+      "description": "在我的上一篇文章（深入了解Node.js架构）中，我们了解了Node.js的内部结构，并在此基础上对其进行了深入研究。",
+      "title": "行动中的Node.js事件循环"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在我的上一篇文章（深入瞭解Node.js架構）中，我們瞭解了Node.js的內部結構，並在此基礎上對其進行了深入研究。",
+      "title": "行動中的Node.js事件循環"
+    }
+  ]
 }
