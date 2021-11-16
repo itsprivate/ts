@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ポリゴン数を増やすことは、必ずしも意味のあることではありません。"
+    },
+    {
+      "locale": "zh",
+      "title": "增加多维数并不总是有意义的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "增加多維數並不總是有意義的。"
+    }
+  ]
 }
