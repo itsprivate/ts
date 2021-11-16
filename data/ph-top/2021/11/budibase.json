@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-16T08:01:00Z"
+  "original_createdAt": "2021-11-16T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Budibaseは、あなたが楽しんで使えるローコードプラットフォームです。ビジネスアプリ、フォーム、社内ツールの作成から、slackのアラートの自動化まで、Budibaseがあれば大丈夫です。何よりも、Budibaseはオープンソースで、SQLやRest APIに接続することも、ゼロから始めることもできます。",
+      "tagline": "美しいビジネスアプリを数分で作成"
+    },
+    {
+      "locale": "zh",
+      "description": "Budibase是你会喜欢使用的低代码平台。从创建业务应用程序、表格、内部工具，到自动化Slack警报，Budibase是你所需要的一切。最重要的是，Budibase是开源的，你可以连接到SQL、Rest APIs，或者从头开始。",
+      "tagline": "在几分钟内创建漂亮的商业应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Budibase是你會喜歡使用的低代碼平臺。從創建業務應用程序、表格、內部工具，到自動化Slack警報，Budibase是你所需要的一切。最重要的是，Budibase是開源的，你可以連接到SQL、Rest APIs，或者從頭開始。",
+      "tagline": "在幾分鐘內創建漂亮的商業應用程序"
+    }
+  ]
 }
