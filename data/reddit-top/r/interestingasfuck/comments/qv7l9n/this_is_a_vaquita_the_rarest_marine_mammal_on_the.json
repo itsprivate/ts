@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "地球上で最も希少な海洋哺乳類であるバキータです。生き残っているのは約10頭。"
+    },
+    {
+      "locale": "zh",
+      "title": "这是一只Vaquita，地球上最稀有的海洋哺乳动物。目前大约有10只活着的个体。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是一隻Vaquita，地球上最稀有的海洋哺乳動物。目前大約有10只活着的個體。"
+    }
+  ]
 }
