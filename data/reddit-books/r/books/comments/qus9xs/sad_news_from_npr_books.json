@@ -11,5 +11,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "NPRブックスからの悲しいお知らせ"
+    },
+    {
+      "locale": "zh",
+      "title": "来自NPR图书公司的不幸消息"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "來自NPR圖書公司的不幸消息"
+    }
+  ]
 }
