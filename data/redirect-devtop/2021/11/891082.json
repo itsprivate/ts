@@ -52,5 +52,22 @@
   "original_created_at": "2021-11-07T14:42:16Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XPDlPl-u--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7b171a760c222861v7eu.png",
   "author": "Matt Lewis",
-  "author_url": "https://dev.to/mlewis7127"
+  "author_url": "https://dev.to/mlewis7127",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、私は「サーバーレス」で開発されたサービスのレビューに携わっているのですが、その際に苦労したのは...。",
+      "title": "サーバーレスの大失敗を防ぐためのヒント"
+    },
+    {
+      "locale": "zh",
+      "description": "最近，我参与了审查使用 \"无服务器 \"开发的服务，这些服务一直在挣扎。",
+      "title": "防止无服务器失事的技巧"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "最近，我參與了審查使用 \"無服務器 \"開發的服務，這些服務一直在掙扎。",
+      "title": "防止無服務器失事的技巧"
+    }
+  ]
 }
