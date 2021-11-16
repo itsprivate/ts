@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-15T14:03:17Z"
+  "original_createdAt": "2021-11-15T14:03:17Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Andromoは、コーディングスキルがなくても簡単にアプリを作って収益化できるモバイルアプリビルダーです。",
+      "tagline": "ノーコードのiOS/Androidネイティブアプリ開発プラットフォーム"
+    },
+    {
+      "locale": "zh",
+      "description": "Andromo是一个移动应用程序生成器，使其能够在没有编码技能的情况下轻松构建应用程序并实现盈利。",
+      "tagline": "无代码的iOS和Android原生应用开发平台"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Andromo是一個移動應用程序生成器，使其能夠在沒有編碼技能的情況下輕鬆構建應用程序並實現盈利。",
+      "tagline": "無代碼的iOS和Android原生應用開發平臺"
+    }
+  ]
 }
