@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "As in title, thanks!"
+  "the_new_excerpt": "As in title, thanks!",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "タイトル通り、ありがとうございます。",
+      "title": "11歳の女の子のための本です。初めての携帯電話やプレティーンの生活、フェミニズム、冒険などをナビゲートし、人生の可能性に心を開いてくれるような本です。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "和标题一样，谢谢!",
+      "title": "一本为11岁女孩准备的书--可能有助于引导她度过第一个电话和青春期前的生活、女权主义、冒险等，同时打开她对生活的可能性的思维。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "和標題一樣，謝謝!",
+      "title": "一本爲11歲女孩準備的書--可能有助於引導她度過第一個電話和青春期前的生活、女權主義、冒險等，同時打開她對生活的可能性的思維。"
+    }
+  ]
 }
