@@ -115,5 +115,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-17T08:03:40Z"
+  "original_createdAt": "2021-11-17T08:03:40Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あなたのマインドメディアは誰のもの？新しいTwitterツール、https://ground.news/mediaopoly、人々が交流するニュースが誰のものかを知ることができます。ツイッターで公開されているユーザーのハンドルネームを入力すると、そのユーザーがツイッター上でやり取りしているニュースの所有者がわかります。",
+      "tagline": "ニュースの所有者を可視化"
+    },
+    {
+      "locale": "zh",
+      "description": "谁拥有你的心灵媒体？我们新的Twitter工具，https://ground.news/mediaopoly，将让你知道将让你知道谁拥有人们互动的新闻。输入任何公共Twitter用户的手柄，就可以看到谁拥有他们在平台上互动的新闻机构。",
+      "tagline": "可视化谁拥有你的新闻"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "誰擁有你的心靈媒體？我們新的Twitter工具，https://ground.news/mediaopoly，將讓你知道將讓你知道誰擁有人們互動的新聞。輸入任何公共Twitter用戶的手柄，就可以看到誰擁有他們在平臺上互動的新聞機構。",
+      "tagline": "可視化誰擁有你的新聞"
+    }
+  ]
 }
