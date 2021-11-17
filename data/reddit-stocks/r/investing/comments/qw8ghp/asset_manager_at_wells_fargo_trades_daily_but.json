@@ -103,5 +103,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1637181647,
-  "the_new_excerpt": "A friend left about $1M over a bit more than a year with an asset manager at\nWells Fargo. The activity on the account shows shares bought and sold in various\ncompanies and ETFs, almost daily (and several transactions in a day). I forgot\nthe exact performance numbers, but account growth was under 20%…"
+  "the_new_excerpt": "A friend left about $1M over a bit more than a year with an asset manager at\nWells Fargo. The activity on the account shows shares bought and sold in various\ncompanies and ETFs, almost daily (and several transactions in a day). I forgot\nthe exact performance numbers, but account growth was under 20%…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "友人は1年以上かけて約100万ドルをWells Faのアセットマネージャーに預けました。\nウェルズ・ファーゴの資産運用会社に預けました。その口座の活動を見ると、様々な企業やETFの株がほぼ毎日（何度も乗り換え）売買されています。\nほぼ毎日（1日に数回）、様々な企業やETFの株が売買されていました。正確なパフォーマンスの数字は忘れてしまいましたが\n正確なパフォーマンスの数字は忘れてしまいましたが、口座の成長率は20％以下でした...。",
+      "title": "Wells Fargo社のアセットマネージャーは、毎日取引をしているが、インデックスを下回っている。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "一个朋友在一年多的时间里把大约100万美元留给了富国银行的一个资产经理。\n富国银行。该账户的活动显示，几乎每天都有各种公司和ETF的股票买入和卖出\n公司和ETF的股票，几乎每天都有（一天有几笔交易）。我忘了\n确切的业绩数字，但账户增长低于20%......",
+      "title": "富国银行的资产经理每天都进行交易，但表现不如指数。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "一個朋友在一年多的時間裏把大約100萬美元留給了富國銀行的一個資產經理。\n富國銀行。該賬戶的活動顯示，幾乎每天都有各種公司和ETF的股票買入和賣出\n公司和ETF的股票，幾乎每天都有（一天有幾筆交易）。我忘了\n確切的業績數字，但賬戶增長低於20%......",
+      "title": "富國銀行的資產經理每天都進行交易，但表現不如指數。"
+    }
+  ]
 }
