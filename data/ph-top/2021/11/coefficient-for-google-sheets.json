@@ -88,5 +88,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-17T08:01:00Z"
+  "original_createdAt": "2021-11-17T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Coefficientは、Google Sheetsのデータコネクタです。コピー・ペーストは不要です💡 セルを監視し、カスタム基準でSlack/Eメールのアラートをトリガーします",
+      "tagline": "Google SheetsをSaaSシステムやDBと数秒で同期させることができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "Coefficient 是 Google Sheets 的数据连接器 🐝 从 Salesforce、MySQL 等系统连接和同步，只需 2 次点击 🚀 用始终如一的数据自动化表单。告别复制粘贴 💡 监测单元格并根据自定义标准触发Slack/Email警报",
+      "tagline": "在几秒钟内将谷歌表与你的SaaS系统和数据库同步起来"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Coefficient 是 Google Sheets 的數據連接器 🐝 從 Salesforce、MySQL 等系統連接和同步，只需 2 次點擊 🚀 用始終如一的數據自動化表單。告別複製粘貼 💡 監測單元格並根據自定義標準觸發Slack/Email警報",
+      "tagline": "在幾秒鐘內將谷歌表與你的SaaS系統和數據庫同步起來"
+    }
+  ]
 }
