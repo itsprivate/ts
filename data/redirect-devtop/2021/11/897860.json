@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-14T13:50:47Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--evViQdYk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/durkj0gm2oqg7gnw5qet.png",
   "author": "Jose",
-  "author_url": "https://dev.to/josec"
+  "author_url": "https://dev.to/josec",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "localStorageとは何ですか？  localStorageは、ウィンドウ・インターフェースの読み取り専用のプロパティで、...",
+      "title": "javascript - localStorageについて知りたかったこと、聞きにくかったことをまとめました。"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是localStorage？  localStorage是窗口界面的一个只读属性...",
+      "title": "javascript - 你一直想知道的关于localStorage的一切（但你不敢问）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是localStorage？  localStorage是窗口界面的一個只讀屬性...",
+      "title": "javascript - 你一直想知道的關於localStorage的一切（但你不敢問）。"
+    }
+  ]
 }
