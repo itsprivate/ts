@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "正直、広告がこんな感じだったら、絶対に飛ばさない。"
+    },
+    {
+      "locale": "zh",
+      "title": "说实话，如果广告是这样的，我就不会跳过它。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "說實話，如果廣告是這樣的，我就不會跳過它。"
+    }
+  ]
 }

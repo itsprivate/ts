@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-16T07:52:27Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--p92Y_IuE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3yu2eulrwucmapgh7kxb.png",
   "author": "Ansub Khan",
-  "author_url": "https://dev.to/ansub"
+  "author_url": "https://dev.to/ansub",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CSSアニメーションとは、要素をアニメーションさせることができるモジュールで、要素をある状態から別の状態に変化させることができます。",
+      "title": "CSSアニメーションの簡易版"
+    },
+    {
+      "locale": "zh",
+      "description": "CSS动画是一个模块，它可以让你对元素进行动画处理，使元素从一种状态变为另一种状态。",
+      "title": "简化的CSS动画!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "CSS動畫是一個模塊，它可以讓你對元素進行動畫處理，使元素從一種狀態變爲另一種狀態。",
+      "title": "簡化的CSS動畫!"
+    }
+  ]
 }
