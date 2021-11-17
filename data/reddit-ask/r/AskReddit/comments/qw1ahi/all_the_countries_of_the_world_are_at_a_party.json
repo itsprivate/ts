@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "世界の国々がパーティーをしている。あなたの国は何をしていますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "世界上所有的国家都在参加一个聚会。你的国家在做什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "世界上所有的國家都在參加一個聚會。你的國家在做什麼？"
+    }
+  ]
 }
