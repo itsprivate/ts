@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-16T06:59:18Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VIb6rsd8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kttix3tqi6ok89fnyw2c.gif",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ピクセル単位で完璧なChakraのUIデザインであるPurity Dashboardの上に、LaravelとReactで作られたオープンソースのシードプロジェクトです。本製品はGithubでMITライセンスのもと公開されています。",
+      "title": "Laravel React - ピュアリティ・ダッシュボード（無料製品）"
+    },
+    {
+      "locale": "zh",
+      "description": "在Purity Dashboard的基础上用Laravel和React精心制作的开源种子项目，是一个像素级的Chakra UI设计。该产品在Github上以MIT许可证发布。",
+      "title": "Laravel React - Purity Dashboard (免费产品)"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在Purity Dashboard的基礎上用Laravel和React精心製作的開源種子項目，是一個像素級的Chakra UI設計。該產品在Github上以MIT許可證發佈。",
+      "title": "Laravel React - Purity Dashboard (免費產品)"
+    }
+  ]
 }
