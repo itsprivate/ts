@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私以外にも、メールを送る前に最低でも3回は校正している人はいますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "除了我之外，还有人在发送短信之前至少校对三遍吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "除了我之外，還有人在發送短信之前至少校對三遍嗎？"
+    }
+  ]
 }

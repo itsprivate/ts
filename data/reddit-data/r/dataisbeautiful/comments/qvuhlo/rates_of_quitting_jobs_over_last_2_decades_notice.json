@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "過去20年間の仕事を辞めた人の割合。かつてないほどの落ち込みの間に安定した傾斜があることに注目してください。"
+    },
+    {
+      "locale": "zh",
+      "title": "过去20年中的辞职率。请注意，在前所未有的下降之间有一个稳定的倾斜。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "過去20年中的辭職率。請注意，在前所未有的下降之間有一個穩定的傾斜。"
+    }
+  ]
 }
