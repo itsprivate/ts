@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "過去24,000年の地球の気温 [OC]."
+    },
+    {
+      "locale": "zh",
+      "title": "过去24,000年的全球温度[OC]"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "過去24,000年的全球溫度[OC]"
+    }
+  ]
 }
