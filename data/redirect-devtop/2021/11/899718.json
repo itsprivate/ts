@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-16T12:34:51Z",
   "image": "https://dev.to/social_previews/article/899718.png",
   "author": "𝐋𝐄𝑽𝐈𝑨𝐓𝐇𝐀𝐍 Programming",
-  "author_url": "https://dev.to/leviathanprogramming"
+  "author_url": "https://dev.to/leviathanprogramming",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "StackOverflowなどを見ていて、ブラウザに...を送信する方法を見つけるのに時間がかかりました。",
+      "title": "Chrome / ブラウザの通知を送信する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "我在StackOverflow之类的地方找了好一阵子，才找到如何发送浏览器。",
+      "title": "如何发送Chrome/浏览器通知"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我在StackOverflow之類的地方找了好一陣子，才找到如何發送瀏覽器。",
+      "title": "如何發送Chrome/瀏覽器通知"
+    }
+  ]
 }
