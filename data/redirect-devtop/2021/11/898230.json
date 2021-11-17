@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-14T22:01:56Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--F6RVHmRs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/krnptsgd15hqt184p91n.jpg",
   "author": "Clever coder",
-  "author_url": "https://dev.to/yusuf_software"
+  "author_url": "https://dev.to/yusuf_software",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私は長年にわたり、実際に経験したことよりも、メンターを望むことの方が多いと感じていました。",
+      "title": "セルフメンターになる"
+    },
+    {
+      "locale": "zh",
+      "description": "多年来，我经常发现自己希望有一位导师的次数比实际拥有的次数多得多。",
+      "title": "成为一个自我指导者"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "多年來，我經常發現自己希望有一位導師的次數比實際擁有的次數多得多。",
+      "title": "成爲一個自我指導者"
+    }
+  ]
 }
