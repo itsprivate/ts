@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-15T07:06:23Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RdOUZrsG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1asd3n7p6ki4qp1jzkl7.jpg",
   "author": "Alex Devero",
-  "author_url": "https://dev.to/alexdevero"
+  "author_url": "https://dev.to/alexdevero",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "関数型プログラミングには、多くの有用な概念があります。その中の一つがパイプライン演算子と...",
+      "title": "JavaScriptによるパイプライン・オペレーター、およびパイピングの簡単な紹介"
+    },
+    {
+      "locale": "zh",
+      "description": "函数式编程提供了许多有用的概念。其中一个概念是流水线操作符和...",
+      "title": "JavaScript中的管道操作员和管道的简短介绍"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "函數式編程提供了許多有用的概念。其中一個概念是流水線操作符和...",
+      "title": "JavaScript中的管道操作員和管道的簡短介紹"
+    }
+  ]
 }
