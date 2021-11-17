@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-15T17:08:15Z",
   "image": "https://dev.to/social_previews/article/899012.png",
   "author": "Randy Rivera",
-  "author_url": "https://dev.to/rthefounding"
+  "author_url": "https://dev.to/rthefounding",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、ようこそ！素敵な朝をお迎えください。今日は、freecodecampのレッスンの続きを...",
+      "title": "React: Reactのレンダリング方法で高度なJavaScriptを使う"
+    },
+    {
+      "locale": "zh",
+      "description": "欢迎大家，给大家一个美好的早晨。今天我们将继续freecodecamp的课程...",
+      "title": "React: 在React的渲染方法中使用高级JavaScript"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "歡迎大家，給大家一個美好的早晨。今天我們將繼續freecodecamp的課程...",
+      "title": "React: 在React的渲染方法中使用高級JavaScript"
+    }
+  ]
 }
