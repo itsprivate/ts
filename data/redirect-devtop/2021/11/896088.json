@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-12T09:56:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NZnQcDM9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0789ih5iqvfakih5hbcy.png",
   "author": "Keerthi",
-  "author_url": "https://dev.to/keefdrive"
+  "author_url": "https://dev.to/keefdrive",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに D3とReact.jsの使い方について、クラッシュコース的な動画を作ってみました。このビデオでは...",
+      "title": "React.jsとD3のクラッシュコース"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍：我创建了一个关于使用D3和React.js的速成课程类型的视频。你可以看一下这个视频。",
+      "title": "React.js和D3的速成课程"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹：我創建了一個關於使用D3和React.js的速成課程類型的視頻。你可以看一下這個視頻。",
+      "title": "React.js和D3的速成課程"
+    }
+  ]
 }
