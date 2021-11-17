@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私と弟は簡単な試作品を作りました。ゲーム・オブ・ボッツ"
+    },
+    {
+      "locale": "zh",
+      "title": "我和我哥哥做了一个简单的原型。机器人的游戏"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我和我哥哥做了一個簡單的原型。機器人的遊戲"
+    }
+  ]
 }
