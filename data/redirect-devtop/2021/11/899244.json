@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-16T00:18:54Z",
   "image": "https://dev.to/social_previews/article/899244.png",
   "author": "Brett Martin",
-  "author_url": "https://dev.to/bamartindev"
+  "author_url": "https://dev.to/bamartindev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JavaScriptにおけるクロージャの概念は、最初は混乱するかもしれませんが、この記事ではその意味を明らかにします。",
+      "title": "JavaScript Bites: クロージャー"
+    },
+    {
+      "locale": "zh",
+      "description": "在JavaScript中，闭包的概念一开始可能会让人感到困惑，这篇文章揭示了它的含义。",
+      "title": "JavaScript Bites: 封闭"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在JavaScript中，閉包的概念一開始可能會讓人感到困惑，這篇文章揭示了它的含義。",
+      "title": "JavaScript Bites: 封閉"
+    }
+  ]
 }
