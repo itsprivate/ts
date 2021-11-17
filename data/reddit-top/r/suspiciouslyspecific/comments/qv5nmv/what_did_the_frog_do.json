@@ -42,5 +42,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "カエルは何をしたか？"
+    },
+    {
+      "locale": "zh",
+      "title": "这只青蛙做了什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這隻青蛙做了什麼？"
+    }
+  ]
 }
