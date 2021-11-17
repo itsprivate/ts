@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "宇宙空間でランダムな方向に物体を動かした場合、何にもぶつからずに動き続ける可能性はあるでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你让一个物体在太空中向一个随机的方向运动，那么它继续前进而不撞到任何东西的可能性有多大？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你讓一個物體在太空中向一個隨機的方向運動，那麼它繼續前進而不撞到任何東西的可能性有多大？"
+    }
+  ]
 }
