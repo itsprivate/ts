@@ -52,5 +52,22 @@
   "original_created_at": "2021-11-16T11:54:13Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LYRsO148--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5x8qoczv3cmtuex7whik.png",
   "author": "Zoltán Szőgyényi",
-  "author_url": "https://dev.to/zolidev"
+  "author_url": "https://dev.to/zolidev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私は最近、WebプロジェクトでTailwind CSSをよく利用していますが、1つのデメリットがあります。",
+      "title": "Tailwind CSSでレスポンシブ・ナビバー・コンポーネントを作る"
+    },
+    {
+      "locale": "zh",
+      "description": "我最近在我的网络项目中经常使用Tailwind CSS，然而，有一个缺点是...",
+      "title": "在Tailwind CSS中建立一个响应式的导航条组件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我最近在我的網絡項目中經常使用Tailwind CSS，然而，有一個缺點是...",
+      "title": "在Tailwind CSS中建立一個響應式的導航條組件"
+    }
+  ]
 }
