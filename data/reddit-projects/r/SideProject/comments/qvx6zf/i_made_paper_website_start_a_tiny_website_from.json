@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "I made Paper Website - コードの書き方を知らなくても、あなたのノートブックから小さなウェブサイトを始めることができます。"
+    },
+    {
+      "locale": "zh",
+      "title": "我做的纸质网站--从你的笔记本开始做一个小小的网站，而不需要知道如何编码"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做的紙質網站--從你的筆記本開始做一個小小的網站，而不需要知道如何編碼"
+    }
+  ]
 }
