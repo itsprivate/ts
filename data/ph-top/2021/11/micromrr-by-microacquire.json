@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-18T08:01:00Z"
+  "original_createdAt": "2021-11-18T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Stripeに接続して無料の評価を行い、視覚的な分析とインサイトでパフォーマンスを深く掘り下げていきます。",
+      "tagline": "あなたのSaaSスタートアップのための無料の評価とアナリティクス"
+    },
+    {
+      "locale": "zh",
+      "description": "连接Stripe进行免费评估，然后通过可视化分析和洞察力深入了解性能。",
+      "tagline": "为你的SaaS创业公司提供免费评估和分析"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "連接Stripe進行免費評估，然後通過可視化分析和洞察力深入瞭解性能。",
+      "tagline": "爲你的SaaS創業公司提供免費評估和分析"
+    }
+  ]
 }
