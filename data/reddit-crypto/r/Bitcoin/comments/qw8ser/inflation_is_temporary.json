@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "iNfLaTiOn は TeMpOrArY です。"
+    },
+    {
+      "locale": "zh",
+      "title": "基金会是一个技术性的项目。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "基金會是一個技術性的項目。"
+    }
+  ]
 }
