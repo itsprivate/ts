@@ -42,5 +42,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Hello, r/SideProject [/r/SideProject]\n\nPerhaps the title is a bit too pretentious, but it is essentially what BotMeNot\n[https://botmenot.com/] is about.\n\nI started developing it sort of as a logical branching out from my primary web\nscraping project.\n\nIt runs tests on a website that you choose…"
+  "the_new_excerpt": "Hello, r/SideProject [/r/SideProject]\n\nPerhaps the title is a bit too pretentious, but it is essentially what BotMeNot\n[https://botmenot.com/] is about.\n\nI started developing it sort of as a logical branching out from my primary web\nscraping project.\n\nIt runs tests on a website that you choose…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "こんにちは、r/SideProject[/r/SideProject]です。\n\nタイトルはちょっと気取っているかもしれませんが、本質的にはBotMeNot\n[https://botmenot.com/]のことです。\n\n私は、私の主要なウェブスクレイピングプロジェクトから論理的に分岐するような形で開発を始めました。\nスクレイピングのプロジェクトから論理的に分岐する形で開発を始めました。\n\nこれは、あなたが選んだウェブサイト上でテストを実行します...",
+      "title": "ウェブサイト診断ツール - BotMeNot"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你好，r/SideProject [/r/SideProject]\n\n也许这个标题有点过于自命不凡，但它本质上是BotMeNot\n[https://botmenot.com/]的内容。\n\n我开始开发它，有点像从我的主要网络搜刮项目中的一个逻辑分支\n刮削项目的逻辑分支。\n\n它在一个你选择的网站上运行测试...",
+      "title": "网站诊断工具 - BotMeNot"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你好，r/SideProject [/r/SideProject]\n\n也許這個標題有點過於自命不凡，但它本質上是BotMeNot\n[https://botmenot.com/]的內容。\n\n我開始開發它，有點像從我的主要網絡搜刮項目中的一個邏輯分支\n刮削項目的邏輯分支。\n\n它在一個你選擇的網站上運行測試...",
+      "title": "網站診斷工具 - BotMeNot"
+    }
+  ]
 }
