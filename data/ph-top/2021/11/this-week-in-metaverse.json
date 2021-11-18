@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-18T09:05:07Z"
+  "original_createdAt": "2021-11-18T09:05:07Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "This Week In Metaverseは、メタバースの世界の最新情報をお届けする週刊ニュースレターです。メタヴァースの重要な動きに目を通し、シンプルで楽しく読める5分程度のメールにまとめています。",
+      "tagline": "Metaverseの最新情報やニュースを5分でメールでお届けします。"
+    },
+    {
+      "locale": "zh",
+      "description": "本周Metaverse》是一份周报，提供Metaverse世界的最新新闻。我们扫描了重要的Metaverse发展，并将所有内容添加到一个简单而有趣的5分钟的电子邮件中。",
+      "tagline": "在5分钟的电子邮件中提供Metaverse的最佳更新和新闻。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "本週Metaverse》是一份週報，提供Metaverse世界的最新新聞。我們掃描了重要的Metaverse發展，並將所有內容添加到一個簡單而有趣的5分鐘的電子郵件中。",
+      "tagline": "在5分鐘的電子郵件中提供Metaverse的最佳更新和新聞。"
+    }
+  ]
 }
