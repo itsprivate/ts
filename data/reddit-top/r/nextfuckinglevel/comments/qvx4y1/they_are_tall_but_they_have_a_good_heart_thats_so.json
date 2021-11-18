@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "背が高くても心が優しい、そんな人たちです。"
+    },
+    {
+      "locale": "zh",
+      "title": "他们很高大，但他们有一颗善良的心，这太可爱了"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他們很高大，但他們有一顆善良的心，這太可愛了"
+    }
+  ]
 }
