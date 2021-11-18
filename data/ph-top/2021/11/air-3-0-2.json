@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-18T08:01:00Z"
+  "original_createdAt": "2021-11-18T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Airは、画像やビデオの整理、検索、追跡、共同作業を自動化します。Air 3.0には、CanvaとAdobeの統合、カンバン、その他多くの機能が含まれています。無料でご利用いただけます。",
+      "tagline": "クリエイティブな作業を自動化することで、毎週の作業時間を短縮"
+    },
+    {
+      "locale": "zh",
+      "description": "Air将你组织、寻找、跟踪和协作图像和视频的方式自动化。你应该得到比云存储更好的服务--挽回在Dropbox、Box和Drive中浪费的时间。Air 3.0包括Canva和Adobe集成、看板和更多。免费开始使用。",
+      "tagline": "通过自动化你的创意操作，每周节省时间"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Air將你組織、尋找、跟蹤和協作圖像和視頻的方式自動化。你應該得到比雲存儲更好的服務--挽回在Dropbox、Box和Drive中浪費的時間。Air 3.0包括Canva和Adobe集成、看板和更多。免費開始使用。",
+      "tagline": "通過自動化你的創意操作，每週節省時間"
+    }
+  ]
 }
