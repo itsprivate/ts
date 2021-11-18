@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "そんなことはありません。それ以外のもの"
+    },
+    {
+      "locale": "zh",
+      "title": "哦不! 任何东西都不能这样！"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "哦不! 任何東西都不能這樣！"
+    }
+  ]
 }
