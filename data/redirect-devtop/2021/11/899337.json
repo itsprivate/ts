@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-16T03:23:45Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s---_iwX-NN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b9l74clk8fncmepm05ai.png",
   "author": "Sho-ki",
-  "author_url": "https://dev.to/shoki"
+  "author_url": "https://dev.to/shoki",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "安易に変数名をつけたり、相手の気持ちを考えずにコードを書いたりしていませんか？",
+      "title": "コードを読みやすくするためには？"
+    },
+    {
+      "locale": "zh",
+      "description": "你是否对变量的命名过于随意，或者在写代码时不关心别人的感受。",
+      "title": "是什么让你的代码更具可读性 I"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你是否對變量的命名過於隨意，或者在寫代碼時不關心別人的感受。",
+      "title": "是什麼讓你的代碼更具可讀性 I"
+    }
+  ]
 }
