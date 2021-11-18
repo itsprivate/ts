@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私はそれを作った"
+    },
+    {
+      "locale": "zh",
+      "title": "我做的"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做的"
+    }
+  ]
 }
