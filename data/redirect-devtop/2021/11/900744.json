@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-17T13:34:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dR5Towpl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xjfojhf5dx1ieijaxwhw.jpeg",
   "author": "tarantool",
-  "author_url": "https://dev.to/tarantool"
+  "author_url": "https://dev.to/tarantool",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "著者 Sergey Kononenko 負荷テストの重要なコンセプトは、可能な限りすべてを自動化することです。",
+      "title": "負荷テストの際にコードの行数を3倍減らす方法"
+    },
+    {
+      "locale": "zh",
+      "description": "作者：Sergey Kononenko 谢尔盖-科诺年科 负载测试的关键概念是将一切可以自动化的东西自动化。",
+      "title": "做负载测试时如何少写三倍的代码行数"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "作者：Sergey Kononenko 謝爾蓋-科諾年科 負載測試的關鍵概念是將一切可以自動化的東西自動化。",
+      "title": "做負載測試時如何少寫三倍的代碼行數"
+    }
+  ]
 }
