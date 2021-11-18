@@ -50,5 +50,22 @@
   "original_created_at": "2021-11-16T07:24:08Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--j-Gd194X--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wti5n6hcmz4vwlasegul.png",
   "author": "Dima Grossman",
-  "author_url": "https://dev.to/scopsy"
+  "author_url": "https://dev.to/scopsy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "自分のプロジェクトをチェックするためにGitHub IOSモバイルアプリを使ってみたところ、偶然にも...",
+      "title": "GitHubの個人リストにプロジェクトを追加できるようになりました。"
+    },
+    {
+      "locale": "zh",
+      "description": "在GitHub IOS移动应用上查看我的一些项目时，偶然发现了这个功能。",
+      "title": "你现在可以将项目添加到GitHub的个人列表中了"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在GitHub IOS移動應用上查看我的一些項目時，偶然發現了這個功能。",
+      "title": "你現在可以將項目添加到GitHub的個人列表中了"
+    }
+  ]
 }
