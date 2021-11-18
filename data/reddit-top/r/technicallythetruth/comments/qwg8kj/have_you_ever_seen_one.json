@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "見たことありますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你见过吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你見過嗎？"
+    }
+  ]
 }
