@@ -103,5 +103,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1637245585,
-  "the_new_excerpt": "Tell me if I’m crazy."
+  "the_new_excerpt": "Tell me if I’m crazy.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私がおかしいのかどうか教えてください。",
+      "title": "100% VTI"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "告诉我，如果我疯了。",
+      "title": "100% VTI"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "告訴我，如果我瘋了。",
+      "title": "100% VTI"
+    }
+  ]
 }
