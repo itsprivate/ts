@@ -83,5 +83,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-18T10:00:00Z"
+  "original_createdAt": "2021-11-18T10:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Dabbleは、A.I.が支援するインテリアデザインのためのクリエイティブツールです。オンラインでもオフラインでも、どこからでも商品をクリップし、それらをまとめて視覚化し、予算を一か所で把握することができます。Dabbleは、家具の買い物を整理し、プロのように家をデザインするのに役立ちます。",
+      "tagline": "Canva for interior design"
+    },
+    {
+      "locale": "zh",
+      "description": "Dabble是一个人工智能辅助的室内设计创意工具。从任何地方（在线或离线）夹取产品，将它们可视化在一起，并在一个地方跟踪你的预算。Dabble帮助你组织你的家具购物，像专家一样设计你的家。",
+      "tagline": "室内设计的Canva"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Dabble是一個人工智能輔助的室內設計創意工具。從任何地方（在線或離線）夾取產品，將它們可視化在一起，並在一個地方跟蹤你的預算。Dabble幫助你組織你的傢俱購物，像專家一樣設計你的家。",
+      "tagline": "室內設計的Canva"
+    }
+  ]
 }
