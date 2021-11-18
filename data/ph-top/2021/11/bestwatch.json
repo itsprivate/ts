@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-18T10:19:34Z"
+  "original_createdAt": "2021-11-18T10:19:34Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Netflixで何を見たらいいかわからない？私は、NetflixのすべてのカタログをIMDbの評価でソートし、年、ジャンル、映画の種類、投票数でフィルタリングでき、ウィッシュリストを保存することもできるサイトを作りました!",
+      "tagline": "Netflixの全カタログをIMDbの評価順に並べてみました。"
+    },
+    {
+      "locale": "zh",
+      "description": "不知道在Netflix上看什么？我创建了一个网站，按IMDb评级对所有Netflix目录进行排序，并让你按年份、类型、电影类型、投票数进行过滤，你甚至可以保存你的愿望清单",
+      "tagline": "所有Netflix目录按IMDb评级排序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "不知道在Netflix上看什麼？我創建了一個網站，按IMDb評級對所有Netflix目錄進行排序，並讓你按年份、類型、電影類型、投票數進行過濾，你甚至可以保存你的願望清單",
+      "tagline": "所有Netflix目錄按IMDb評級排序"
+    }
+  ]
 }

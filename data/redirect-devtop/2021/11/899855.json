@@ -41,5 +41,22 @@
   "original_created_at": "2021-11-16T13:51:55Z",
   "image": "https://dev.to/social_previews/article/899855.png",
   "author": "Dahye Ji",
-  "author_url": "https://dev.to/daaahailey"
+  "author_url": "https://dev.to/daaahailey",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "flexを使うことが多くなり、floatやgridはあまり使っていませんでした。使ってみようかな...。",
+      "title": "グリッド練習"
+    },
+    {
+      "locale": "zh",
+      "description": "我一直在使用flex，而没有真正使用float或grid。我想我应该尝试使用它们...",
+      "title": "电网实践"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我一直在使用flex，而沒有真正使用float或grid。我想我應該嘗試使用它們...",
+      "title": "電網實踐"
+    }
+  ]
 }
