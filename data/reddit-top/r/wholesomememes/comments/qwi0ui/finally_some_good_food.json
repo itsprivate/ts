@@ -106,5 +106,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "やっと美味しいものが食べられる。"
+    },
+    {
+      "locale": "zh",
+      "title": "最后，一些好的食物。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "最後，一些好的食物。"
+    }
+  ]
 }
