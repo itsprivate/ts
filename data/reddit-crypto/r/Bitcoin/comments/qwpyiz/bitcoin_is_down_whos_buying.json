@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "I'm still buying"
+  "the_new_excerpt": "I'm still buying",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "まだまだ買いますよ",
+      "title": "ビットコインが下落、誰が買っているのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我仍然在购买",
+      "title": "比特币下跌了，谁在买？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我仍然在購買",
+      "title": "比特幣下跌了，誰在買？"
+    }
+  ]
 }

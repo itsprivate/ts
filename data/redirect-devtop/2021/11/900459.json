@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-17T07:19:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8YwGNuAa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dkn1y4v8jsk2hz8oojnt.jpg",
   "author": "Jeremy",
-  "author_url": "https://dev.to/jeremyling"
+  "author_url": "https://dev.to/jeremyling",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "FormBlobのようなノーコードのツールを作ろうとしているなら、必須の機能の一つは、元に戻すことができることです。",
+      "title": "Undo/Redoを可能にするReactのフック"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你想建立像FormBlob这样的无代码工具，一个必须具备的功能是撤销的能力。",
+      "title": "允许撤销/重做的React钩子"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你想建立像FormBlob這樣的無代碼工具，一個必須具備的功能是撤銷的能力。",
+      "title": "允許撤銷/重做的React鉤子"
+    }
+  ]
 }
