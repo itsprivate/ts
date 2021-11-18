@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-16T22:49:33Z",
   "image": "https://dev.to/social_previews/article/900250.png",
   "author": "Oz Ertas",
-  "author_url": "https://dev.to/oerts"
+  "author_url": "https://dev.to/oerts",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Tailwind CSSには、Preflightと呼ばれる「意見のある基本スタイルのセット」が付属しています。便利なCSSリセット...",
+      "title": "Tailwind CSSでマークダウンをスタイルする方法"
+    },
+    {
+      "locale": "zh",
+      "description": "Tailwind CSS带有 \"一套有意见的基本样式\"，称为Preflight。一个有用的CSS重置...",
+      "title": "如何用Tailwind的CSS对markdown进行样式设计"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Tailwind CSS帶有 \"一套有意見的基本樣式\"，稱爲Preflight。一個有用的CSS重置...",
+      "title": "如何用Tailwind的CSS對markdown進行樣式設計"
+    }
+  ]
 }
