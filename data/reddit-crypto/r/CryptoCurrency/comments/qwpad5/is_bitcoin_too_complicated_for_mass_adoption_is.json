@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"Is Bitcoin Too Complicated for Mass Adoption?\" は、1997年に「インターネットは大量採用には複雑すぎるか」と問うたようなものです。この20年が示しているように、これは無関係です。"
+    },
+    {
+      "locale": "zh",
+      "title": "\"比特币对于大规模采用来说太复杂了吗？\" 就像在1997年问 \"互联网对大规模采用来说太复杂了吗？\"。这是无关紧要的，过去二十年已经表明了这一点。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"比特幣對於大規模採用來說太複雜了嗎？\" 就像在1997年問 \"互聯網對大規模採用來說太複雜了嗎？\"。這是無關緊要的，過去二十年已經表明了這一點。"
+    }
+  ]
 }
