@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-18T15:30:00Z"
+  "original_createdAt": "2021-11-18T15:30:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "SubspaceのNetwork-as-a-Serviceでリアルタイムアプリケーションを高速化。エンタープライズレベルの接続性をどこでも数分で手に入れることができます。",
+      "tagline": "インターネットアプリケーションを世界最速のネットワークで実行する"
+    },
+    {
+      "locale": "zh",
+      "description": "在Subspace的网络即服务上加速您的实时应用。在几分钟内，在任何地方获得企业级的连接。",
+      "tagline": "在世界最快的网络上运行你的互联网应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在Subspace的網絡即服務上加速您的實時應用。在幾分鐘內，在任何地方獲得企業級的連接。",
+      "tagline": "在世界最快的網絡上運行你的互聯網應用程序"
+    }
+  ]
 }
