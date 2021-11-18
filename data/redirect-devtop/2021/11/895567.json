@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-11T18:47:24Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lUMe_JNz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gb1zgtuyp4t2a2nim9c6.png",
   "author": "Damian Demasi",
-  "author_url": "https://dev.to/colocodes"
+  "author_url": "https://dev.to/colocodes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このチュートリアルでは、GitHubの中央リポジトリを使ってチームで作業する方法を学びます。このチュートリアルでは...",
+      "title": "プロのようにチームでGitとGitHubを使いこなす方法を学ぶ"
+    },
+    {
+      "locale": "zh",
+      "description": "在本教程中，你将学习如何在一个团队中使用GitHub上的中央仓库工作。你将...",
+      "title": "学习如何在团队中像专家一样使用Git和GitHub"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在本教程中，你將學習如何在一個團隊中使用GitHub上的中央倉庫工作。你將...",
+      "title": "學習如何在團隊中像專家一樣使用Git和GitHub"
+    }
+  ]
 }
