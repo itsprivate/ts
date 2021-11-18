@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-17T12:39:15Z",
   "image": "https://dev.to/social_previews/article/900705.png",
   "author": "The Nerdy Dev",
-  "author_url": "https://dev.to/thenerdydev"
+  "author_url": "https://dev.to/thenerdydev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Hey guys 👋🏻, 今回は、React.jsのVirtual DOMについて説明します。 この記事では、...",
+      "title": "React.js - バーチャルDOM "
+    },
+    {
+      "locale": "zh",
+      "description": "Hey guys 👋🏻, In this post, let us talk about Virtual DOM in React.js.  对于这篇文章，我们将...",
+      "title": "React.js - 虚拟DOM "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Hey guys 👋🏻, In this post, let us talk about Virtual DOM in React.js.  對於這篇文章，我們將...",
+      "title": "React.js - 虛擬DOM "
+    }
+  ]
 }
