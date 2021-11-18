@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-16T07:02:35Z",
   "image": "https://dev.to/social_previews/article/899400.png",
   "author": "Elijah Trillionz",
-  "author_url": "https://dev.to/elijahtrillionz"
+  "author_url": "https://dev.to/elijahtrillionz",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "クロージャを学ぶためには、スコープの仕組みを理解する必要があります。 JavaScriptでは、グローバルとローカル...",
+      "title": "7分でわかるJavaScriptのクロージャ"
+    },
+    {
+      "locale": "zh",
+      "description": "要学习闭包，你需要了解范围是如何工作的。 在JavaScript中，我们有全局的和局部的。",
+      "title": "在7分钟内学习JavaScript闭包"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "要學習閉包，你需要了解範圍是如何工作的。 在JavaScript中，我們有全局的和局部的。",
+      "title": "在7分鐘內學習JavaScript閉包"
+    }
+  ]
 }
