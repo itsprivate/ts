@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "I usually don't have the time to get through long books, so I thought I'd make\nuse of quarantine to read one. So I'm looking for books that will take me a week\nto get through, but will be worth the effort."
+  "the_new_excerpt": "I usually don't have the time to get through long books, so I thought I'd make\nuse of quarantine to read one. So I'm looking for books that will take me a week\nto get through, but will be worth the effort.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "普段は長い本を読む時間がないので、隔離を利用して1冊読もうと思いました。\n隔離期間を利用して読んでみようと思いました。なので、1週間かけても読みきれるような本を探しています。\n読むのに1週間かかるけど、その努力に見合うだけの本を探しています。",
+      "title": "陽性と判定されたので、実家に避難しています。隔離されている間、何を読めばいいですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我通常没有时间阅读长篇大论，所以我想我应该利用隔离期读一读。\n利用隔离期来读一本。所以我在寻找那些需要我花一周时间\n但值得努力的书。",
+      "title": "刚被检测出阳性，我被困在我父母家。在隔离期间我应该读什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我通常沒有時間閱讀長篇大論，所以我想我應該利用隔離期讀一讀。\n利用隔離期來讀一本。所以我在尋找那些需要我花一週時間\n但值得努力的書。",
+      "title": "剛被檢測出陽性，我被困在我父母家。在隔離期間我應該讀什麼？"
+    }
+  ]
 }
