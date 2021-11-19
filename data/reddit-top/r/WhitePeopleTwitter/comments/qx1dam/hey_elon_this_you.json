@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ヘイ、イーロン、君か？"
+    },
+    {
+      "locale": "zh",
+      "title": "嘿，埃隆，是你吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "嘿，埃隆，是你嗎？"
+    }
+  ]
 }

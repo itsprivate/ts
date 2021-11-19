@@ -50,5 +50,22 @@
   "original_created_at": "2021-11-17T19:43:40Z",
   "image": "https://dev.to/social_previews/article/901188.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "個人的にも仕事でもjQueryを使っている人は、全体的にどのような印象を持っているのでしょうか。",
+      "title": "今でもjQueryを使っていますか？"
+    },
+    {
+      "locale": "zh",
+      "description": "对于那些仍在使用jQuery工作的人来说，无论是个人还是专业项目，总的来说，什么是...",
+      "title": "你还在用jQuery工作吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "對於那些仍在使用jQuery工作的人來說，無論是個人還是專業項目，總的來說，什麼是...",
+      "title": "你還在用jQuery工作嗎？"
+    }
+  ]
 }
