@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-19T08:00:00Z"
+  "original_createdAt": "2021-11-19T08:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Requstoryは、ユーザーストーリーを素早く書くのに役立ちます。プロジェクトや製品の機能を簡単に草稿にして記述するのに役立つ機能が組み込まれています。",
+      "tagline": "ユーザーストーリーを早く書く"
+    },
+    {
+      "locale": "zh",
+      "description": "Requstory可以帮助你快速编写你的用户故事。它的内置功能可以帮助你轻松地起草和描述你的项目/产品的特点。",
+      "tagline": "快速编写用户故事"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Requstory可以幫助你快速編寫你的用戶故事。它的內置功能可以幫助你輕鬆地起草和描述你的項目/產品的特點。",
+      "tagline": "快速編寫用戶故事"
+    }
+  ]
 }
