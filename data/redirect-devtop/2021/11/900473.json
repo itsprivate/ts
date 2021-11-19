@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-17T08:06:32Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4QYtbC4a--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7mk3q212zf8mdfso0cn8.jpg",
   "author": "Yehezkiel Gunawan",
-  "author_url": "https://dev.to/yehezkielgunawan"
+  "author_url": "https://dev.to/yehezkielgunawan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "免責事項 これは、新米のフロントエンド・エンジニアとしての私の意見です。",
+      "title": "私が個人のドキュメントサイトを作った理由"
+    },
+    {
+      "locale": "zh",
+      "description": "免责声明 这只是我作为一个新手前端工程师的意见，他在工作中已经筋疲力尽。",
+      "title": "为什么我做了自己的个人文档网站？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "免責聲明 這只是我作爲一個新手前端工程師的意見，他在工作中已經筋疲力盡。",
+      "title": "爲什麼我做了自己的個人文檔網站？"
+    }
+  ]
 }

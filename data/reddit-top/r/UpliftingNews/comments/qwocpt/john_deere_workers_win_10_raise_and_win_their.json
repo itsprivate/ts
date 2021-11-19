@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "John Deere社の労働者は10％の昇給を勝ち取り、ストライキに勝利しました。"
+    },
+    {
+      "locale": "zh",
+      "title": "约翰迪尔公司的工人赢得了10%的加薪，并赢得了他们的罢工。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "約翰迪爾公司的工人贏得了10%的加薪，並贏得了他們的罷工。"
+    }
+  ]
 }
