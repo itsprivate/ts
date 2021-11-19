@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-18T07:15:08Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IAftE0k2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sxcklmio5e6g9xzhfsqz.jpg",
   "author": "Swastik Yadav",
-  "author_url": "https://dev.to/swastikyadav"
+  "author_url": "https://dev.to/swastikyadav",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Hello World!  JavaScriptは、世界で最も嫌われているプログラミング言語であると同時に、最も愛されているプログラミング言語でもあります。",
+      "title": "JavaScriptの舞台裏 - 実行コンテキストとコールスタック"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，世界!  JavaScript是世界上最令人讨厌的编程语言，也是最受欢迎的编程语言。",
+      "title": "JavaScript是如何在幕后工作的 - 执行上下文和调用栈"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，世界!  JavaScript是世界上最令人討厭的編程語言，也是最受歡迎的編程語言。",
+      "title": "JavaScript是如何在幕後工作的 - 執行上下文和調用棧"
+    }
+  ]
 }
