@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-18T13:28:38Z",
   "image": "https://dev.to/social_previews/article/901827.png",
   "author": "Igor Irianto",
-  "author_url": "https://dev.to/iggredible"
+  "author_url": "https://dev.to/iggredible",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Tmuxの便利な設定例",
+      "title": "Tmuxの便利な設定例"
+    },
+    {
+      "locale": "zh",
+      "description": "有用的Tmux配置实例",
+      "title": "有用的Tmux配置实例"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有用的Tmux配置實例",
+      "title": "有用的Tmux配置實例"
+    }
+  ]
 }
