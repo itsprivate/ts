@@ -52,5 +52,22 @@
   "original_created_at": "2021-11-11T20:41:55Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--L2pgASoB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a84iqfmybmqpm8jn4bob.jpg",
   "author": "Chris Noring",
-  "author_url": "https://dev.to/softchris"
+  "author_url": "https://dev.to/softchris",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このRustに関する第1部では、なぜRustなのか、そして最初のプログラムをどうやって作るのかを説明します。",
+      "title": "最初からサビ、最初のプログラム"
+    },
+    {
+      "locale": "zh",
+      "description": "在关于Rust的第一部分中，我们将介绍为什么是Rust以及如何构建你的第一个程序。",
+      "title": "从头开始，你的第一个程序是Rust"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在關於Rust的第一部分中，我們將介紹爲什麼是Rust以及如何構建你的第一個程序。",
+      "title": "從頭開始，你的第一個程序是Rust"
+    }
+  ]
 }
