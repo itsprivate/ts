@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] subredditstats.comのデータをExcelで作成しました。r/PitBullsとr/BanPitBullsという2つの正反対のサブディットのユーザーオーバーラップを比較しています。"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC] 数据来自subredditstats.com，用Excel（不漂亮）制作。比较两个截然相反的子网站的用户重叠情况，r/PitBulls和r/BanPitBulls"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC] 數據來自subredditstats.com，用Excel（不漂亮）製作。比較兩個截然相反的子網站的用戶重疊情況，r/PitBulls和r/BanPitBulls"
+    }
+  ]
 }
