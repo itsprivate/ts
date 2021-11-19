@@ -43,5 +43,22 @@
   "original_created_at": "2021-11-17T23:24:04Z",
   "image": "https://dev.to/social_previews/article/901268.png",
   "author": "OmegaVesko",
-  "author_url": "https://dev.to/omegavesko"
+  "author_url": "https://dev.to/omegavesko",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "読者の皆様、ようこそ。これをお読みになっている方は、おそらく多くの方の中の一人だと思いますが...",
+      "title": "Yes, PHP is Worth Learning/Using in $CURRENT_YEAR"
+    },
+    {
+      "locale": "zh",
+      "description": "欢迎，亲爱的读者! 如果你正在读这篇文章，你可能是许多人中的一个，他们发现...",
+      "title": "是的，PHP在$CURRENT_YEAR中值得学习/使用"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "歡迎，親愛的讀者! 如果你正在讀這篇文章，你可能是許多人中的一個，他們發現...",
+      "title": "是的，PHP在$CURRENT_YEAR中值得學習/使用"
+    }
+  ]
 }
