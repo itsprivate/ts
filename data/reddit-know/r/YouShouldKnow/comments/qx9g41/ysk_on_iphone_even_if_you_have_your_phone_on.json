@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Why YSK: If you want to know when you are being called by a loved one (e.g., for\nan emergency), but you don't want to be notified by all possible notifications,\nthis option is helpful. Note that it won't work for texts, only calls. It does\nignore the silent-mode switch, too, meaning if they call you…"
+  "the_new_excerpt": "Why YSK: If you want to know when you are being called by a loved one (e.g., for\nan emergency), but you don't want to be notified by all possible notifications,\nthis option is helpful. Note that it won't work for texts, only calls. It does\nignore the silent-mode switch, too, meaning if they call you…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "なぜYSKなのか：大切な人から電話がかかってくることを知りたい（緊急時など）。\nしかし、可能な限りの通知を受けたくない場合には、このオプションが役に立ちます。\nこのオプションは便利です。ただし、テキストには機能せず、通話にのみ機能することに注意してください。このオプションは\nサイレントモードのスイッチも無視されるので、電話がかかってきても",
+      "title": "YSK: iPhoneでは、マナーモードや非通知設定にしていても、家族や親しい友人など特定の相手からの通話を許可し、迷惑メールやアプリの通知をブロックすることができます。連絡先」→「連絡先の名前をクリック」→「編集」→「着信音」→「\"Emergency Bypass \"にチェックを入れる。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么选择YSK：如果你想知道你所爱的人什么时候给你打电话（例如，因紧急情况\n紧急情况），但你不希望被所有可能的通知所通知。\n这个选项很有帮助。请注意，它对短信不起作用，只对电话起作用。它确实\n忽略沉默模式的开关，也就是说，如果他们给你打电话...",
+      "title": "YSK：在iPhone上，即使你的手机处于静音和免打扰状态，你也可以允许来自选定号码的电话通过，例如，家人、亲密的朋友，同时仍然阻止讨厌的电子邮件和应用程序通知。联系人 > 点击联系人的名字 > 编辑 > 铃声 > 勾选 \"紧急绕过\"。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼選擇YSK：如果你想知道你所愛的人什麼時候給你打電話（例如，因緊急情況\n緊急情況），但你不希望被所有可能的通知所通知。\n這個選項很有幫助。請注意，它對短信不起作用，只對電話起作用。它確實\n忽略沉默模式的開關，也就是說，如果他們給你打電話...",
+      "title": "YSK：在iPhone上，即使你的手機處於靜音和免打擾狀態，你也可以允許來自選定號碼的電話通過，例如，家人、親密的朋友，同時仍然阻止討厭的電子郵件和應用程序通知。聯繫人 > 點擊聯繫人的名字 > 編輯 > 鈴聲 > 勾選 \"緊急繞過\"。"
+    }
+  ]
 }
