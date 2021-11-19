@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-18T08:47:51Z"
+  "original_createdAt": "2021-11-18T08:47:51Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "複雑な設定をしなくても、GoogleシートをREST APIのように使いたいと思いませんか？それともJSONに変換するだけ？Google sheet to JSONはそんなあなたのためのツールです。",
+      "tagline": "17秒でGoogleシートをAPIに変換"
+    },
+    {
+      "locale": "zh",
+      "description": "你想把谷歌表像REST API一样使用，而不需要设置复杂的东西？或者只是将其转换为JSON？Google sheet to JSON是你需要的工具!",
+      "tagline": "在17秒内将你的谷歌表格转化为一个API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你想把谷歌表像REST API一樣使用，而不需要設置複雜的東西？或者只是將其轉換爲JSON？Google sheet to JSON是你需要的工具!",
+      "tagline": "在17秒內將你的谷歌表格轉化爲一個API"
+    }
+  ]
 }
