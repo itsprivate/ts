@@ -77,5 +77,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-19T08:01:00Z"
+  "original_createdAt": "2021-11-19T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Tailwind CSSとFlowbiteで構築された無料でオープンソースのダッシュボード・インターフェースで始めましょう。",
+      "tagline": "オープンソースのTailwind CSS管理用ダッシュボードインターフェース"
+    },
+    {
+      "locale": "zh",
+      "description": "开始使用由Tailwind CSS和Flowbite构建的免费和开源的仪表盘界面。",
+      "tagline": "开源的Tailwind CSS管理仪表板界面"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "開始使用由Tailwind CSS和Flowbite構建的免費和開源的儀表盤界面。",
+      "tagline": "開源的Tailwind CSS管理儀表板界面"
+    }
+  ]
 }
