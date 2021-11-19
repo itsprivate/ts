@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Why YSK: if you think you have fake cash, don’t ask the bank to check it for\nyou. If it’s fake, they are legally not allowed to return it. They are also not\ngoing to give you $ to replace it."
+  "the_new_excerpt": "Why YSK: if you think you have fake cash, don’t ask the bank to check it for\nyou. If it’s fake, they are legally not allowed to return it. They are also not\ngoing to give you $ to replace it.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "なぜYSKかというと、偽物の現金を持っていると思ったら、銀行に頼んで調べてもらうのではなく\nしてはいけません。もし偽物だった場合、彼らは法的にそれを返すことができません。また、銀行は\nまた、交換するためのお金も出してくれません。",
+      "title": "YSK: 銀行は法律で偽札を没収することが義務づけられていますが、それを払い戻しすることはありません。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么YSK：如果你认为你有假现金，不要要求银行为你检查。\n你。如果是假的，他们在法律上是不允许归还的。他们也不会\n他们也不会给你美元来替换它。",
+      "title": "YSK：法律规定银行必须没收假币，他们不会向你报销。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼YSK：如果你認爲你有假現金，不要要求銀行爲你檢查。\n你。如果是假的，他們在法律上是不允許歸還的。他們也不會\n他們也不會給你美元來替換它。",
+      "title": "YSK：法律規定銀行必須沒收假幣，他們不會向你報銷。"
+    }
+  ]
 }
