@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-16T16:29:26Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--frIO89lf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6bww5l1bhnpyaj4o0e9w.png",
   "author": "martin krause",
-  "author_url": "https://dev.to/martinkr"
+  "author_url": "https://dev.to/martinkr",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "const clean = arr.filter(item =&gt; !!item || item === 0 || item === false); フルスクリーンに入る...",
+      "title": "1行のコード 配列をきれいにする方法\n"
+    },
+    {
+      "locale": "zh",
+      "description": "const clean = arr.filter(item =&gt; !item || item ==0 || item == false); 进入全屏。",
+      "title": "1行代码。如何清理一个数组\n"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "const clean = arr.filter(item =&gt; !item || item ==0 || item == false); 進入全屏。",
+      "title": "1行代碼。如何清理一個數組\n"
+    }
+  ]
 }
