@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このクマは、大好きなダッキーを見るために、座るための穴を掘った。"
+    },
+    {
+      "locale": "zh",
+      "title": "这只熊挖了一个坐坑，看她最喜欢的小鸭子"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這隻熊挖了一個坐坑，看她最喜歡的小鴨子"
+    }
+  ]
 }
