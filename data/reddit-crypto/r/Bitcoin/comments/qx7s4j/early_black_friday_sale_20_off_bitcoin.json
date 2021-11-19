@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "If you consider this a sale, and buy the dip, it hurts less"
+  "the_new_excerpt": "If you consider this a sale, and buy the dip, it hurts less",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "これをセールだと思ってディップを買えば、痛手は少ない",
+      "title": "早期ブラックフライデーセール、ビットコイン20％オフ"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "如果你认为这是一次销售，并买下了浸泡，那么它的伤害就会减少。",
+      "title": "黑色星期五提前促销，比特币八折优惠"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "如果你認爲這是一次銷售，並買下了浸泡，那麼它的傷害就會減少。",
+      "title": "黑色星期五提前促銷，比特幣八折優惠"
+    }
+  ]
 }
