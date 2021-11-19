@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-18T09:57:10Z",
   "image": "https://dev.to/social_previews/article/901705.png",
   "author": "quocbahuynh",
-  "author_url": "https://dev.to/quocbahuynh"
+  "author_url": "https://dev.to/quocbahuynh",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今回のプロジェクトではStrapiを使用します。これは、データをJSONファイルに保存し、データをJSONで返すものです。",
+      "title": "Reactを使って初心者向けのブログを3分で作る"
+    },
+    {
+      "locale": "zh",
+      "description": "在这个项目中，将使用Strapi。它将我们的数据保存在一个JSON文件中，并通过JSON文件返回数据。",
+      "title": "用React在3分钟内为初学者建立一个博客"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這個項目中，將使用Strapi。它將我們的數據保存在一個JSON文件中，並通過JSON文件返回數據。",
+      "title": "用React在3分鐘內爲初學者建立一個博客"
+    }
+  ]
 }
