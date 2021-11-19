@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "What’s the best book series that you’ve ever read in your life? And I’m talking\nabout the best characters,the best plot,best romance,etc."
+  "the_new_excerpt": "What’s the best book series that you’ve ever read in your life? And I’m talking\nabout the best characters,the best plot,best romance,etc.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "今までの人生で読んだ本の中で、一番良かったシリーズは？そして、私が話しているのは\n最高のキャラクター、最高のプロット、最高のロマンス、などなど。",
+      "title": "今まで読んだ中で一番良かった本のシリーズは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你一生中读过的最好的系列图书是什么？我指的是\n最好的人物，最好的情节，最好的浪漫，等等。",
+      "title": "你读过的最好的系列图书是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你一生中讀過的最好的系列圖書是什麼？我指的是\n最好的人物，最好的情節，最好的浪漫，等等。",
+      "title": "你讀過的最好的系列圖書是什麼？"
+    }
+  ]
 }
