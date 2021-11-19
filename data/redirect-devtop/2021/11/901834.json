@@ -50,5 +50,22 @@
   "original_created_at": "2021-11-18T13:45:22Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tiAIMUTF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8fmrdf0u197hnbub3gfd.png",
   "author": "William Juan",
-  "author_url": "https://dev.to/williamjuan27"
+  "author_url": "https://dev.to/williamjuan27",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Motion Oneは、Web Animations APIをベースに開発された新しいアニメーションライブラリです。Popmotionを使ったことがある方や...",
+      "title": "Motion Oneを使ってAngularアプリをアニメーション化する"
+    },
+    {
+      "locale": "zh",
+      "description": "Motion One是一个建立在Web Animations API上的新动画库。如果你使用过Popmotion或...",
+      "title": "使用Motion One为你的Angular应用程序制作动画"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Motion One是一個建立在Web Animations API上的新動畫庫。如果你使用過Popmotion或...",
+      "title": "使用Motion One爲你的Angular應用程序製作動畫"
+    }
+  ]
 }
