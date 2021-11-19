@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-17T17:37:55Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--W1sLAhx8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b68zoub7f4pk2jhp63qg.png",
   "author": "aruna-x",
-  "author_url": "https://dev.to/aruna"
+  "author_url": "https://dev.to/aruna",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "VS Codeが古くなったコードをグレーにするのは素晴らしいことだと思いませんか？おっと、return文が行になってしまいました...。",
+      "title": "抽象構文木。いたるところで使われていますが、どんなものですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "VS Code将过时的代码行磨掉，这不是很好吗？哎呀，我的返回语句在行上......",
+      "title": "抽象句法树。它们实际上到处都在使用 -- 但它们是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "VS Code將過時的代碼行磨掉，這不是很好嗎？哎呀，我的返回語句在行上......",
+      "title": "抽象句法樹。它們實際上到處都在使用 -- 但它們是什麼？"
+    }
+  ]
 }
