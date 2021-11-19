@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今、私のクリプトはボロボロです。"
+    },
+    {
+      "locale": "zh",
+      "title": "我的加密货币现在正处于崩溃状态"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我的加密貨幣現在正處於崩潰狀態"
+    }
+  ]
 }
