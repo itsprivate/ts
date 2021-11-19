@@ -66,5 +66,19 @@
     }
   },
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このクモはここ数時間、私のマウスポインタを追いかけている"
+    },
+    {
+      "locale": "zh",
+      "title": "在过去的几个小时里，这只蜘蛛一直在跟踪我的鼠标指针。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在過去的幾個小時裏，這隻蜘蛛一直在跟蹤我的鼠標指針。"
+    }
+  ]
 }
