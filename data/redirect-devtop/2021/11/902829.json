@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-19T09:13:21Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RInxMD-0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/62n5tsuwaoizbuumetpu.jpg",
   "author": "Matti Bar-Zeev",
-  "author_url": "https://dev.to/mbarzeev"
+  "author_url": "https://dev.to/mbarzeev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、Reactのカスタムフックを作成して、シンプルな...",
+      "title": "TDDによるReactカスタムフックの作成"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，和我一起创建一个React自定义钩子，它将封装一个简单的逻辑。",
+      "title": "使用TDD创建一个React自定义钩子"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，和我一起創建一個React自定義鉤子，它將封裝一個簡單的邏輯。",
+      "title": "使用TDD創建一個React自定義鉤子"
+    }
+  ]
 }
