@@ -43,5 +43,22 @@
   "original_created_at": "2021-11-19T08:31:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--f46mKBGF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/93spygm9g7cjjb7koq88.png",
   "author": "CAST AI",
-  "author_url": "https://dev.to/castai"
+  "author_url": "https://dev.to/castai",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "パブリック・クラウドの使用料モデルは、あまりにも素晴らしいものに思えました。そして、あなたはすぐにそれを理解したでしょう...",
+      "title": "クラウドコスト管理だけでは、クラウドコスト問題は解決しない"
+    },
+    {
+      "locale": "zh",
+      "description": "公共云的按使用付费模式似乎好得不像真的。而且你可能很快就会发现...",
+      "title": "仅靠云成本管理无法解决你的云支出问题"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "公共雲的按使用付費模式似乎好得不像真的。而且你可能很快就會發現...",
+      "title": "僅靠雲成本管理無法解決你的雲支出問題"
+    }
+  ]
 }
