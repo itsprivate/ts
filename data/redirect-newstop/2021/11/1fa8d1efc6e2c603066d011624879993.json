@@ -14,5 +14,19 @@
   "tags": [
     "The Wall Street Journal"
   ],
-  "image": "https://images.wsj.net/im-436607/social"
+  "image": "https://images.wsj.net/im-436607/social",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "船長は海で死んだ。半年後、彼の遺体はまだ冷凍庫の中にあった。"
+    },
+    {
+      "locale": "zh",
+      "title": "船长死在了海上。六个月后，他的尸体仍在冰柜里。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "船長死在了海上。六個月後，他的屍體仍在冰櫃裏。"
+    }
+  ]
 }
