@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの知り合いが500ドル借りていて、親切に頼んでも返してくれない場合、あなたはどうしますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你认识的人欠你500美元，他在好心询问后不还你，你的下一步行动是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你認識的人欠你500美元，他在好心詢問後不還你，你的下一步行動是什麼？"
+    }
+  ]
 }
