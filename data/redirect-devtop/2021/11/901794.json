@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-18T12:15:37Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lYFr4ME8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r9pkzz6qfzydxj0ec8ca.jpg",
   "author": "Ankur Tyagi",
-  "author_url": "https://dev.to/tyaga001"
+  "author_url": "https://dev.to/tyaga001",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "認証と承認は、企業のセキュリティ対策において、コストのかかる問題です...",
+      "title": "スーパートークンのすべて - Auth0、Firebase Auth、AWS Cognitoに代わるオープンソースです。"
+    },
+    {
+      "locale": "zh",
+      "description": "当涉及到组织的安全问题时，认证和授权是昂贵的事务。",
+      "title": "关于超级令牌的一切--Auth0、Firebase Auth和AWS Cognito的开源替代品。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當涉及到組織的安全問題時，認證和授權是昂貴的事務。",
+      "title": "關於超級令牌的一切--Auth0、Firebase Auth和AWS Cognito的開源替代品。"
+    }
+  ]
 }
