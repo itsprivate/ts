@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-18T05:03:19Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vLoylKX0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0daowvc08dwp6v2ztgdi.png",
   "author": "k.Jyothi Prakash Reddy",
-  "author_url": "https://dev.to/jyothiprakashk"
+  "author_url": "https://dev.to/jyothiprakashk",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Javascriptには、配列を反復するのに便利なメソッドがいくつかあります。最も一般的なメソッドは...",
+      "title": "forEachとmapの違い。"
+    },
+    {
+      "locale": "zh",
+      "description": "Javascript有一些方便的方法，可以用来迭代数组。最常见的两个方法是：1.",
+      "title": "forEach和map的区别。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Javascript有一些方便的方法，可以用來迭代數組。最常見的兩個方法是：1.",
+      "title": "forEach和map的區別。"
+    }
+  ]
 }
