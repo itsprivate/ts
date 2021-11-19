@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "標準的な勤務時間のうち、実際に積極的に仕事をしている時間は何時間ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "在你的标准工作班次中，有多少小时是你实际主动工作的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在你的標準工作班次中，有多少小時是你實際主動工作的？"
+    }
+  ]
 }
