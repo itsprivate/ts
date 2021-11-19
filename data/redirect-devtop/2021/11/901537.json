@@ -52,5 +52,22 @@
   "original_created_at": "2021-11-18T08:19:45Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nuV9bcG9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w916o47267re0icjj3u6.jpg",
   "author": "Maina Wycliffe",
-  "author_url": "https://dev.to/mainawycliffe"
+  "author_url": "https://dev.to/mainawycliffe",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Typescript 4.5がリリースされましたが、その中でも特に目を引いたのが、Template String...です。",
+      "title": "Typescript 4.5における判別要素としてのテンプレート文字列タイプ"
+    },
+    {
+      "locale": "zh",
+      "description": "Typescript 4.5刚刚发布，其中一个令我印象深刻的功能是模板字符串...",
+      "title": "在Typescript 4.5中作为判别因素的模板字符串类型"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Typescript 4.5剛剛發佈，其中一個令我印象深刻的功能是模板字符串...",
+      "title": "在Typescript 4.5中作爲判別因素的模板字符串類型"
+    }
+  ]
 }
