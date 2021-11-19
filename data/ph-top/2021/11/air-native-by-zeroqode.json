@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-19T08:01:00Z"
+  "original_createdAt": "2021-11-19T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Zeroqode社のAir Nativeソリューションは、bubble.ioで構築されたウェブアプリをApple App StoreやGoogle Play向けのネイティブアプリにラッピングすることができます。ネイティブのプッシュ通知、アプリ内課金、Touch ID、GPSなどをサポートしています。",
+      "tagline": "あなたのBubble WebアプリをAndroid & iOSに変換"
+    },
+    {
+      "locale": "zh",
+      "description": "Zeroqode的Air Native解决方案允许将用bubble.io构建的网络应用包裹成苹果应用商店和谷歌游戏的本地应用。支持原生推送通知、应用内购买、Touch ID、GPS和更多。",
+      "tagline": "将你的泡泡网应用程序转换为安卓和iOS系统"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Zeroqode的Air Native解決方案允許將用bubble.io構建的網絡應用包裹成蘋果應用商店和谷歌遊戲的本地應用。支持原生推送通知、應用內購買、Touch ID、GPS和更多。",
+      "tagline": "將你的泡泡網應用程序轉換爲安卓和iOS系統"
+    }
+  ]
 }
