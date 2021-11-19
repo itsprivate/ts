@@ -47,5 +47,19 @@
     "type": "twitter.com"
   },
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "PayPalはチェックアウト時にbtcを有効にしました :)"
+    },
+    {
+      "locale": "zh",
+      "title": "贝宝已经在结账时启用了BTC:)"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "貝寶已經在結賬時啓用了BTC:)"
+    }
+  ]
 }
