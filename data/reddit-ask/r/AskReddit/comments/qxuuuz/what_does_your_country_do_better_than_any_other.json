@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの国が他の国より優れている点は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你的国家在什么方面比其他国家做得更好？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你的國家在什麼方面比其他國家做得更好？"
+    }
+  ]
 }
