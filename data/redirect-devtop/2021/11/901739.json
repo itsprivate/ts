@@ -50,5 +50,22 @@
   "original_created_at": "2021-11-18T10:50:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gngxSQgM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o2e2atq3542vkkpr4m54.jpg",
   "author": "InHuOfficial",
-  "author_url": "https://dev.to/inhuofficial"
+  "author_url": "https://dev.to/inhuofficial",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "jQueryが登場したときは、開発者に共通のバナキュラーを与えてくれて、本当に素晴らしいものでしたが、時代は...",
+      "title": "An Ode to jQuery (and a 1kb alternative!)"
+    },
+    {
+      "locale": "zh",
+      "description": "当jQuery出来的时候，它真的很壮观，它给了开发者一个共同的白话，但是时代在发展。",
+      "title": "对jQuery的颂扬（以及一个1kb的替代品！）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當jQuery出來的時候，它真的很壯觀，它給了開發者一個共同的白話，但是時代在發展。",
+      "title": "對jQuery的頌揚（以及一個1kb的替代品！）。"
+    }
+  ]
 }
