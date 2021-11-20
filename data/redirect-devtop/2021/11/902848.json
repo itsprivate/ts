@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-19T09:52:16Z",
   "image": "https://dev.to/social_previews/article/902848.png",
   "author": "javinpaul",
-  "author_url": "https://dev.to/javinpaul"
+  "author_url": "https://dev.to/javinpaul",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "初心者から経験豊富な開発者まで、Pythonを深く学べる私のお気に入りのオンラインコースです。",
+      "title": "オンラインで学べる初心者向けPython講座ベスト10"
+    },
+    {
+      "locale": "zh",
+      "description": "我最喜欢的在线课程，为初学者和有经验的开发者深入学习Python。",
+      "title": "10个最适合初学者在线学习的Python课程"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我最喜歡的在線課程，爲初學者和有經驗的開發者深入學習Python。",
+      "title": "10個最適合初學者在線學習的Python課程"
+    }
+  ]
 }
