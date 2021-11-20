@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-20T08:00:00Z"
+  "original_createdAt": "2021-11-20T08:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Patchworkは、あなたが読んでいる本をオンラインで共有する最速の方法です。テキストをハイライトし、Patchworkをクリックすると、ページを離れることなく共有できます。",
+      "tagline": "重要な場所での共有"
+    },
+    {
+      "locale": "zh",
+      "description": "Patchwork是分享你在线阅读内容的最快方式。突出显示文本，点击Patchwork，无需离开页面即可分享。",
+      "tagline": "在重要的地方分享"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Patchwork是分享你在線閱讀內容的最快方式。突出顯示文本，點擊Patchwork，無需離開頁面即可分享。",
+      "tagline": "在重要的地方分享"
+    }
+  ]
 }
