@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインの規格を説明するオタク"
+    },
+    {
+      "locale": "zh",
+      "title": "解释比特币标准的书呆子。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "解釋比特幣標準的書呆子。"
+    }
+  ]
 }
