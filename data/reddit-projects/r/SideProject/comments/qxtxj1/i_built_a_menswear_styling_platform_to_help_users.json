@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私はメンズウェアのスタイリングプラットフォームを構築し、マイクロカプセルを作成して共有することで、ユーザーが実験的にスタイリングを学べるようにしました（www.unstitched.xyz）。"
+    },
+    {
+      "locale": "zh",
+      "title": "我建立了一个男装造型平台，通过创建和分享微胶囊（www.unstitched.xyz），帮助用户通过实验学习造型。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我建立了一個男裝造型平臺，通過創建和分享微膠囊（www.unstitched.xyz），幫助用戶通過實驗學習造型。"
+    }
+  ]
 }
