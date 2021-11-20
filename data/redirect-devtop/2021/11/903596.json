@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-20T02:46:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bJt00D5L--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/otsoxtal9uevlyozsnnj.png",
   "author": "Mahadev K",
-  "author_url": "https://dev.to/mahadev_k"
+  "author_url": "https://dev.to/mahadev_k",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、これはJavaの基本的な部分を紹介するための記事です。初めてJavaに触れる人は、...",
+      "title": "Java - 一口メモ。"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，这只是一篇描写Java的一些基础知识的文章。那些刚接触Java的人，...",
+      "title": "Java - 一个简短的说明。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，這只是一篇描寫Java的一些基礎知識的文章。那些剛接觸Java的人，...",
+      "title": "Java - 一個簡短的說明。"
+    }
+  ]
 }
