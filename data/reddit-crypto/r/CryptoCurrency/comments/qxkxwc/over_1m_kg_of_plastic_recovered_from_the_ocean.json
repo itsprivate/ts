@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "RESEAプロジェクトで海から回収された100万キロ以上のプラスチックをVechainで追跡"
+    },
+    {
+      "locale": "zh",
+      "title": "在Vechain上跟踪RESEA项目从海洋中回收的超过100万公斤的塑料。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在Vechain上跟蹤RESEA項目從海洋中回收的超過100萬公斤的塑料。"
+    }
+  ]
 }
