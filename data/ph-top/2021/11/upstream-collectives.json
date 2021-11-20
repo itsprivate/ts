@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-19T08:01:00Z"
+  "original_createdAt": "2021-11-19T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "アップストリーム・コレクティブとは、ウォレットを共有する仮想コミュニティです。メンバーはCollectiveに資金を提供し、その資金をどのように使用するかを投票します。私たちは、DAOを運営するために必要なすべての機能を1つの場所に集めました。An Upstream CollectiveはDAOを進化させたものです。",
+      "tagline": "箱の中のDAO"
+    },
+    {
+      "locale": "zh",
+      "description": "Upstream Collective是一个拥有共享钱包的虚拟社区。成员向集体捐款并投票决定如何使用这些资金。我们采用了运行DAO所需的所有功能，并将其带到一个地方。Upstream Collective是一个DAO，已经进化。",
+      "tagline": "盒子里的DAO"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Upstream Collective是一個擁有共享錢包的虛擬社區。成員向集體捐款並投票決定如何使用這些資金。我們採用了運行DAO所需的所有功能，並將其帶到一個地方。Upstream Collective是一個DAO，已經進化。",
+      "tagline": "盒子裏的DAO"
+    }
+  ]
 }
