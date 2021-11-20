@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-19T15:38:40Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BHINL1-N--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j6eed5mtvkkro96v2qhp.png",
   "author": "Anjan Shomooder",
-  "author_url": "https://dev.to/thatanjan"
+  "author_url": "https://dev.to/thatanjan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このブログでは、ランディングページに動画の背景を追加して、より魅力的なページにする方法をご紹介します。",
+      "title": "ランディングページに動画の背景を追加して、よりゴージャスに"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇博客中，你将学习如何为你的登陆页面添加视频背景，使其更有吸引力。",
+      "title": "在你的登陆页面上添加视频背景，使其更加华丽"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇博客中，你將學習如何爲你的登陸頁面添加視頻背景，使其更有吸引力。",
+      "title": "在你的登陸頁面上添加視頻背景，使其更加華麗"
+    }
+  ]
 }
