@@ -43,5 +43,22 @@
   "original_created_at": "2021-11-19T04:11:54Z",
   "image": "https://dev.to/social_previews/article/902625.png",
   "author": "Gabriel Bittencourt",
-  "author_url": "https://dev.to/gabrlcj"
+  "author_url": "https://dev.to/gabrlcj",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "少し前に、React Routerというライブラリがバージョン6にアップデートされ、それに伴い...",
+      "title": "React router V6: 新しい変更点の一部"
+    },
+    {
+      "locale": "zh",
+      "description": "因此，不久前，React Router库已经更新到了第6版，并随之而来的是...",
+      "title": "React router V6：一些新变化"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "因此，不久前，React Router庫已經更新到了第6版，並隨之而來的是...",
+      "title": "React router V6：一些新變化"
+    }
+  ]
 }
