@@ -96,5 +96,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-20T08:00:00Z"
+  "original_createdAt": "2021-11-20T08:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Kenobiは、あなたのmacOS体験を向上させるA watchOSアプリです。プレゼンテーションのリモコンとして使ってスライドを変更したり、ベッドから立ち上がらずに見ている映画をすばやく一時停止したり。そして、それ以上の機能が山ほどあります。",
+      "tagline": "あなたのMacのベストフレンド"
+    },
+    {
+      "locale": "zh",
+      "description": "Kenobi是一款watchOS应用，它提升了你的macOS体验。无论你是想用它作为演示文稿的遥控器来更换幻灯片，还是想快速暂停正在观看的电影而不需要从床上起来。还有大量更多的功能。",
+      "tagline": "你的Mac的最好朋友"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Kenobi是一款watchOS應用，它提升了你的macOS體驗。無論你是想用它作爲演示文稿的遙控器來更換幻燈片，還是想快速暫停正在觀看的電影而不需要從牀上起來。還有大量更多的功能。",
+      "tagline": "你的Mac的最好朋友"
+    }
+  ]
 }

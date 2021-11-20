@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "父親の昔のモデル写真を再現する"
+    },
+    {
+      "locale": "zh",
+      "title": "重现他父亲的老式模型照片"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "重現他父親的老式模型照片"
+    }
+  ]
 }
