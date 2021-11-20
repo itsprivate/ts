@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Why YSK:\n\nIndeed is especially guilty of this, not sure about all platforms, but you\nshouldn’t trust filters like that when you’re job hunting.\n\nThe platforms will offer something like “indeed email” which is supposed to make\nyour email private. What it actually does, is cut off a few digits/letters…"
+  "the_new_excerpt": "Why YSK:\n\nIndeed is especially guilty of this, not sure about all platforms, but you\nshouldn’t trust filters like that when you’re job hunting.\n\nThe platforms will offer something like “indeed email” which is supposed to make\nyour email private. What it actually does, is cut off a few digits/letters…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "なぜYSKなのか。\n\nすべてのプラットフォームではありませんが、就活ではこのようなフィルターを信用すべきではありません。\nすべてのプラットフォームではありませんが、就職活動中にこのようなフィルターを信用すべきではありません。\n\nプラットフォームは「indeedメール」のようなものを提供していて、これはあなたのメールを非公開にするためのものです。\nメールを非公開にするようになっています。実際に行っているのは、数桁の数字や文字を切り取ることです。",
+      "title": "YSK - indeedのような求人サイトでは、「隠した」メールでも部分的に表示されますし、粗末なものでも採用者には見えてしまいます。また、特にそのプラットフォーム上で履歴書を「作成」した場合は、履歴書が再フォーマットされて台無しになる可能性があることを知っておくべきです"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么是YSK。\n\nIndeed在这方面特别有罪，不知道所有的平台，但你不应该相信\n但你在找工作时不应该相信这样的过滤器。\n\n这些平台会提供类似 \"Indeed电子邮件 \"的东西，这应该是为了使\n你的电子邮件的隐私。实际上，它所做的是截断几个数字/字母...",
+      "title": "YSK--在招聘网站上，比如Indeed，即使是 \"隐藏 \"的电子邮件也会显示部分电子邮件，甚至粗制滥造的也会被雇主看到。你还应该知道，你的简历可能会被重新格式化并被毁掉，特别是如果你在他们的平台上 \"建立 \"简历的话"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼是YSK。\n\nIndeed在這方面特別有罪，不知道所有的平臺，但你不應該相信\n但你在找工作時不應該相信這樣的過濾器。\n\n這些平臺會提供類似 \"Indeed電子郵件 \"的東西，這應該是爲了使\n你的電子郵件的隱私。實際上，它所做的是截斷幾個數字/字母...",
+      "title": "YSK--在招聘網站上，比如Indeed，即使是 \"隱藏 \"的電子郵件也會顯示部分電子郵件，甚至粗製濫造的也會被僱主看到。你還應該知道，你的簡歷可能會被重新格式化並被毀掉，特別是如果你在他們的平臺上 \"建立 \"簡歷的話"
+    }
+  ]
 }
