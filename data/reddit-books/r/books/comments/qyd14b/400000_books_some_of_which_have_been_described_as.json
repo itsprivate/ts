@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "古本屋の倉庫が炎上し、「かけがえのないもの」とされる40万冊の書籍が焼失しました。"
+    },
+    {
+      "locale": "zh",
+      "title": "二手书店的仓库发生火灾，40万册图书被毁，其中一些被称为 \"不可替代\"。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "二手書店的倉庫發生火災，40萬冊圖書被毀，其中一些被稱爲 \"不可替代\"。"
+    }
+  ]
 }
