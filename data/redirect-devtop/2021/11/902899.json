@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-19T10:50:28Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dNJQVW69--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tafk2w6emnp7mxc2ym0i.png",
   "author": "Shuvo",
-  "author_url": "https://dev.to/0shuvo0"
+  "author_url": "https://dev.to/0shuvo0",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "そう、私たちが作っているのは、URL短縮ツールではなく、URL拡張ツールなのです。",
+      "title": "Node.JSでURLエクスパンダーを作ってみよう"
+    },
+    {
+      "locale": "zh",
+      "description": "是的，我们正在创建一个URL扩展器，而不是URL缩短器 有许多工具，如bitly，...",
+      "title": "让我们用Node.JS创建一个URL扩展器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "是的，我們正在創建一個URL擴展器，而不是URL縮短器 有許多工具，如bitly，...",
+      "title": "讓我們用Node.JS創建一個URL擴展器"
+    }
+  ]
 }
