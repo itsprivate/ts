@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "子供がハルクになった"
+    },
+    {
+      "locale": "zh",
+      "title": "孩子成为绿巨人"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "孩子成爲綠巨人"
+    }
+  ]
 }
