@@ -52,5 +52,22 @@
   "original_created_at": "2021-11-19T11:13:25Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--o1j7N_PC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4iv0h2egvf2axhxpumtb.png",
   "author": "Sebastian Rindom",
-  "author_url": "https://dev.to/sebrindom"
+  "author_url": "https://dev.to/sebrindom",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この2週間、私たちはMedusaのコードベースの一部を...に移行する作業を行ってきました。",
+      "title": "結局、なぜTypeScriptに移行したのか"
+    },
+    {
+      "locale": "zh",
+      "description": "在过去的两个星期里，我们一直在努力工作，将Medusa的部分代码库迁移至...",
+      "title": "为什么我们终究还是迁移到了TypeScript"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在過去的兩個星期裏，我們一直在努力工作，將Medusa的部分代碼庫遷移至...",
+      "title": "爲什麼我們終究還是遷移到了TypeScript"
+    }
+  ]
 }
