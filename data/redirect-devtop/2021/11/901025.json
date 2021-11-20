@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-17T18:17:17Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NMjyksf6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gm009ipxzgyez2orozyn.png",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "シンプルなDjango APIサーバーを搭載した最新のReact UIを使用するフルスタックプロジェクト。",
+      "title": "React Django - オープンソース・フルスタック・シードプロジェクト"
+    },
+    {
+      "locale": "zh",
+      "description": "全栈项目，使用一个现代的React UI，由一个简单的Django API服务器驱动。",
+      "title": "React Django - 开源的全栈式种子项目"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "全棧項目，使用一個現代的React UI，由一個簡單的Django API服務器驅動。",
+      "title": "React Django - 開源的全棧式種子項目"
+    }
+  ]
 }
