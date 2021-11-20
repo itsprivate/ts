@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "It's Math feat. フォス・グレッグフォス（@FossGregfoss"
+    },
+    {
+      "locale": "zh",
+      "title": "这是数学的壮举。@FossGregfoss"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是數學的壯舉。@FossGregfoss"
+    }
+  ]
 }
