@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] 世界各国の経済規模比較（世界銀行のデータがあるもの）、面積はGDPに比例する。"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC] 世界上每个国家的经济规模比较（世界银行有数据），面积与GDP成正比。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC] 世界上每個國家的經濟規模比較（世界銀行有數據），面積與GDP成正比。"
+    }
+  ]
 }
