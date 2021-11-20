@@ -43,5 +43,22 @@
   "original_created_at": "2021-11-19T19:39:55Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--csM9AHsC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/udff3tfql9phxula0bxt.jpg",
   "author": "Walter Nascimento",
-  "author_url": "https://dev.to/walternascimentobarroso"
+  "author_url": "https://dev.to/walternascimentobarroso",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "[Clique aqui para ler em português] 入力をクリックすると...というオートコンプリートを作ってみましょう。",
+      "title": "JSによるオートコンプリート"
+    },
+    {
+      "locale": "zh",
+      "description": "[让我们来创建一个自动完成功能，以便点击一个输入...",
+      "title": "用JS自动完成"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "[讓我們來創建一個自動完成功能，以便點擊一個輸入...",
+      "title": "用JS自動完成"
+    }
+  ]
 }
