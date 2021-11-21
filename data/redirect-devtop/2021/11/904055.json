@@ -43,5 +43,22 @@
   "original_created_at": "2021-11-20T13:52:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zc_DHiPq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dtntgf73yjqp8adk1906.png",
   "author": "Eric The Coder",
-  "author_url": "https://dev.to/ericchapman"
+  "author_url": "https://dev.to/ericchapman",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ここでは、PythonでAPIを作成するためのクラッシュコース（一連の記事）をご紹介します。",
+      "title": "Python FastAPIクラッシュコース"
+    },
+    {
+      "locale": "zh",
+      "description": "这里有一个速成班（系列文章），可以让你在Python中创建一个API，其中有...",
+      "title": "Python FastAPI速成班"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這裏有一個速成班（系列文章），可以讓你在Python中創建一個API，其中有...",
+      "title": "Python FastAPI速成班"
+    }
+  ]
 }
