@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "......、しかし、あなたは彼に同意しますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "......，但你同意他的观点吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "......，但你同意他的觀點嗎？"
+    }
+  ]
 }
