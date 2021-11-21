@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "自分の体についてどう感じていますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你对自己的身体有什么感觉？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你對自己的身體有什麼感覺？"
+    }
+  ]
 }
