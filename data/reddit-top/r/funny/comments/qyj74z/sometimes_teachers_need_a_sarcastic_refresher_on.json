@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "時々、先生方は教室でのハイテクの基本について、皮肉を込めて再確認する必要があります。"
+    },
+    {
+      "locale": "zh",
+      "title": "有时，教师需要对教室里的技术基础知识进行讽刺性的复习。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有時，教師需要對教室裏的技術基礎知識進行諷刺性的複習。"
+    }
+  ]
 }
