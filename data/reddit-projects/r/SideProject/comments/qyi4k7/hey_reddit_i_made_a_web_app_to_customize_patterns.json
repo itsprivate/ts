@@ -65,5 +65,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Hey Reddit, I made a Web App to Customize Patterns For The Web, Enjoy! ✨🧸🍑😁"
+    },
+    {
+      "locale": "zh",
+      "title": "嘿，Reddit，我做了一个网络应用，可以在网络上定制图案，请欣赏! ✨🧸🍑😁"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "嘿，Reddit，我做了一個網絡應用，可以在網絡上定製圖案，請欣賞! ✨🧸🍑😁"
+    }
+  ]
 }
