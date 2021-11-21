@@ -50,5 +50,22 @@
   "original_created_at": "2021-11-20T11:34:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dEBXjnqU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tab0oe0tvks7on67gdd7.jpg",
   "author": "InHuOfficial",
-  "author_url": "https://dev.to/inhuofficial"
+  "author_url": "https://dev.to/inhuofficial",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、Chromeでちょっとした異変に気づきました。すべての絵文字がアウトラインのみになっています（...",
+      "title": "🤷♂️ Chromeは絵文字を見出しのアウトラインに変更しただけ？🤷♂️ あなたのサイトの修正方法がありますよ 💪"
+    },
+    {
+      "locale": "zh",
+      "description": "最近我注意到在Chrome浏览器中有些不同，所有的表情符号现在都只有轮廓（和...",
+      "title": "🤷♂️Chrome浏览器刚把标题中的表情符号改为轮廓？🤷♂️我有一个修复你的网站的方法! 💪"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "最近我注意到在Chrome瀏覽器中有些不同，所有的表情符號現在都只有輪廓（和...",
+      "title": "🤷♂️Chrome瀏覽器剛把標題中的表情符號改爲輪廓？🤷♂️我有一個修復你的網站的方法! 💪"
+    }
+  ]
 }
