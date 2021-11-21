@@ -50,5 +50,22 @@
   "original_created_at": "2021-11-19T15:14:55Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mRnte6Kq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f89plsksh82j3cwhxjtw.jpg",
   "author": "Chris Noring",
-  "author_url": "https://dev.to/softchris"
+  "author_url": "https://dev.to/softchris",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この後編では、変数の扱い方、宣言、値の割り当てなどを学びます。",
+      "title": "最初からサビ、変数"
+    },
+    {
+      "locale": "zh",
+      "description": "在第二部分，你将学习如何与变量打交道，声明，为它们赋值等等。",
+      "title": "从一开始就有Rust，变量"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在第二部分，你將學習如何與變量打交道，聲明，爲它們賦值等等。",
+      "title": "從一開始就有Rust，變量"
+    }
+  ]
 }
