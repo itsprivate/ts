@@ -52,5 +52,22 @@
   "original_created_at": "2021-11-19T09:36:32Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oMovPU_v--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lg1phzvy0jxkuru4ztmo.gif",
   "author": "Saji Wang",
-  "author_url": "https://dev.to/sewangco"
+  "author_url": "https://dev.to/sewangco",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "VRアプリを作るには、数学やコンピュータグラフィックスの博士号が必要なのでは...と思われるかもしれません。",
+      "title": "VRサイトの開発でメタバースの構築に貢献 "
+    },
+    {
+      "locale": "zh",
+      "description": "我知道你在想什么，建立VR应用程序需要数学和计算机图形学的博士学位，...",
+      "title": "通过开发VR网站帮助建立Metaverse "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我知道你在想什麼，建立VR應用程序需要數學和計算機圖形學的博士學位，...",
+      "title": "通過開發VR網站幫助建立Metaverse "
+    }
+  ]
 }
