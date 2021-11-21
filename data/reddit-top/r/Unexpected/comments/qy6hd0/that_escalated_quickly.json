@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "それはすぐにエスカレートした。"
+    },
+    {
+      "locale": "zh",
+      "title": "这种情况迅速升级"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這種情況迅速升級"
+    }
+  ]
 }
