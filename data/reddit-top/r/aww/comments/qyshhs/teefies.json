@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ティーシーズ"
+    },
+    {
+      "locale": "zh",
+      "title": "茶叶蛋"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "茶葉蛋"
+    }
+  ]
 }
