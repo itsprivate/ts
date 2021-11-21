@@ -52,5 +52,22 @@
     },
     "retweet_count": 350,
     "favorite_count": 520
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @zrheisler: ウォーケシャーのホリデーパレードで、車が警察の列を突破して歩行者を突っ込み、銃を乱射していました。",
+      "retweeted_status_full_text": "Waukesha Holidayのパレードでは、車が警察の列を突破して歩行者を突っ込み、窓から弾を発射していました。家族と私は無事でした。私たちの目の前20フィートで起きたことです。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @zrheisler: 在Waukesha假日游行中，一辆汽车刚刚冲破警戒线，冲过行人并向他们开枪。",
+      "retweeted_status_full_text": "在Waukesha假日游行中，一辆汽车刚刚冲破警戒线，冲过行人，向窗外发射子弹。我和家人都很安全。事件发生在我们前面20英尺处。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @zrheisler: 在Waukesha假日遊行中，一輛汽車剛剛衝破警戒線，衝過行人並向他們開槍。",
+      "retweeted_status_full_text": "在Waukesha假日遊行中，一輛汽車剛剛衝破警戒線，衝過行人，向窗外發射子彈。我和家人都很安全。事件發生在我們前面20英尺處。"
+    }
+  ]
 }
