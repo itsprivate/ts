@@ -52,5 +52,22 @@
   "original_created_at": "2021-11-19T17:17:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IGm2I6-i--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1sd55xwxhoumi4jnnf07.jpg",
   "author": "Adithya Sreyaj",
-  "author_url": "https://dev.to/adisreyaj"
+  "author_url": "https://dev.to/adisreyaj",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Angularでディレクティブを使ってスティッキーカラムを作る方法。テーブルにスティッキーカラムを実装すると、...",
+      "title": "ディレクティブを使ってテーブルにスティッキーカラムを実装した方法 - Angular!"
+    },
+    {
+      "locale": "zh",
+      "description": "如何使用指令在Angular中创建粘性列。实现具有粘性列的表格可以...",
+      "title": "我是如何使用指令在表格中实现粘性列的 - Angular!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如何使用指令在Angular中創建粘性列。實現具有粘性列的表格可以...",
+      "title": "我是如何使用指令在表格中實現粘性列的 - Angular!"
+    }
+  ]
 }
