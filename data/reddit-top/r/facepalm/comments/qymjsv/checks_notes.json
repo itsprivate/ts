@@ -42,5 +42,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "*メモを確認する"
+    },
+    {
+      "locale": "zh",
+      "title": "*检查笔记*。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "*檢查筆記*。"
+    }
+  ]
 }
