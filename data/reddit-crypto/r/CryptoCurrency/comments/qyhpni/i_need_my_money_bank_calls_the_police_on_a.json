@@ -42,5 +42,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"I need My Money\" 銀行が60歳の男性に警察を呼んだのは、彼が全財産を引き出して暗号に投資したいと主張したからだった!"
+    },
+    {
+      "locale": "zh",
+      "title": "\"我需要我的钱\"，银行向一名60岁的男子报警，因为据称他想提取所有的钱并将其投资到加密货币中!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"我需要我的錢\"，銀行向一名60歲的男子報警，因爲據稱他想提取所有的錢並將其投資到加密貨幣中!"
+    }
+  ]
 }
