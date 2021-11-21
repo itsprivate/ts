@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-20T21:20:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0tHpbbHp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zmrzu17jpoygbk734129.png",
   "author": "Matvey Romanov",
-  "author_url": "https://dev.to/ra1nbow1"
+  "author_url": "https://dev.to/ra1nbow1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Node.JSは、すべてのWeb開発者にとって馴染みのあるJavaScriptを変革する技術である...",
+      "title": "サーバーサイドアプリケーションの開発にNode.jsを選ぶべき理由"
+    },
+    {
+      "locale": "zh",
+      "description": "Node.JS是一项技术，它改变了所有网络开发人员都熟悉的JavaScript，...",
+      "title": "为什么要选择Node.js来开发服务器端应用？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Node.JS是一項技術，它改變了所有網絡開發人員都熟悉的JavaScript，...",
+      "title": "爲什麼要選擇Node.js來開發服務器端應用？"
+    }
+  ]
 }
