@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-20T12:28:14Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hlkbjPiv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/amzw5kuepso04uwl3cb7.jpg",
   "author": "Renan Moura",
-  "author_url": "https://dev.to/renanmouraf"
+  "author_url": "https://dev.to/renanmouraf",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "数学のようなハードサイエンスでも、学習は決して直線的なプロセスではありません。 よくあることですが...",
+      "title": "プログラミングの学習は非線形"
+    },
+    {
+      "locale": "zh",
+      "description": "学习绝不是一个线性过程，即使是像数学这样的硬科学。 这是很常见的现象。",
+      "title": "学习编程是非线性的"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "學習絕不是一個線性過程，即使是像數學這樣的硬科學。 這是很常見的現象。",
+      "title": "學習編程是非線性的"
+    }
+  ]
 }
