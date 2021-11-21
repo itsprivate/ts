@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-21T04:31:57Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7cJA_mLn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xo470fguf4myu8ohrnzi.jpg",
   "author": "Lavish Goyal",
-  "author_url": "https://dev.to/lavig10"
+  "author_url": "https://dev.to/lavig10",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "というわけで、今回はNodeJSによるユーザー認証のパート2です。パート1はこちらでご覧いただけます。で...",
+      "title": "NodeJSを使ったユーザー認証の様々な方法 Part - 2 (JWT)"
+    },
+    {
+      "locale": "zh",
+      "description": "这是用NodeJS进行用户认证的第二部分。你可以在这里查看第1部分。在...",
+      "title": "用NodeJS进行用户认证的不同方法 第2部分（JWT）"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是用NodeJS進行用戶認證的第二部分。你可以在這裏查看第1部分。在...",
+      "title": "用NodeJS進行用戶認證的不同方法 第2部分（JWT）"
+    }
+  ]
 }
