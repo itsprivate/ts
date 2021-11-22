@@ -65,5 +65,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "CLIのマインスイーパゲームを作ってみました💣。"
+    },
+    {
+      "locale": "zh",
+      "title": "我创建了CLI扫雷游戏 💣"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我創建了CLI掃雷遊戲 💣"
+    }
+  ]
 }
