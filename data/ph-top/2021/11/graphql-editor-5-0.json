@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-22T11:15:00Z"
+  "original_createdAt": "2021-11-22T11:15:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "昔ながらのAPIよりも優れたものとは？それは、ブラウザで簡単に操作できる、インタラクティブでビジュアルなものです。新しいGraphQL Editorを使えば、すべての開発者がこれを可能にすることができます。",
+      "tagline": "GraphQL APIの構築が格段に簡単になりました"
+    },
+    {
+      "locale": "zh",
+      "description": "什么比普通的API更好？一个交互式的、可视化的，你可以从你的浏览器中轻松地进行操作。有了新的GraphQL编辑器，现在每个开发者都可以做到这一点了。",
+      "tagline": "构建GraphQL API变得更容易了"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼比普通的API更好？一個交互式的、可視化的，你可以從你的瀏覽器中輕鬆地進行操作。有了新的GraphQL編輯器，現在每個開發者都可以做到這一點了。",
+      "tagline": "構建GraphQL API變得更容易了"
+    }
+  ]
 }
