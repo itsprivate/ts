@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "インターネットのスピードテストでは、どのようなデータがパソコンに転送されるのですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "在网络速度测试期间，什么样的数据会被传输到你的电脑上？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在網絡速度測試期間，什麼樣的數據會被傳輸到你的電腦上？"
+    }
+  ]
 }
