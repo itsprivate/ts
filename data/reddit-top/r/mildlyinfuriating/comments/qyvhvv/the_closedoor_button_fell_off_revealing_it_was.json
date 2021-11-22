@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "クローズドボタンが外れてしまい、コントロールパネルに接続されていないことが判明した。"
+    },
+    {
+      "locale": "zh",
+      "title": "关闭门的按钮掉了下来，显示它从未与控制面板连接过。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "關閉門的按鈕掉了下來，顯示它從未與控制面板連接過。"
+    }
+  ]
 }

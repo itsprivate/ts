@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Why YSK: Our stomach produces acid that helps kill food pathogens like bacteria,\nparasites, etc,¹ but drinking lots of liquids with a meal dilutes that acid ²,\nwhich makes the acid less effective.³ Plus liquids can flush the pathogens out\nof the stomach before the acid has had enough time to kill…"
+  "the_new_excerpt": "Why YSK: Our stomach produces acid that helps kill food pathogens like bacteria,\nparasites, etc,¹ but drinking lots of liquids with a meal dilutes that acid ²,\nwhich makes the acid less effective.³ Plus liquids can flush the pathogens out\nof the stomach before the acid has had enough time to kill…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "なぜYSKなのか：私たちの胃は酸を出して、細菌や寄生虫などの食物病原体を殺す働きをしています。\nしかし、食事の際にたくさんの液体を飲むと、酸が希釈され、酸の効果が低下します。\nさらに、液体は病原体を胃から洗い流すことができます。\n胃酸が十分な効果を発揮する前に、液体が病原体を胃から洗い流してしまうのです。",
+      "title": "YSK: 怪しい食べ物による食中毒のリスクを減らすために、その食べ物と一緒にたくさんの液体を飲まないようにしましょう。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么是YSK：我们的胃会产生酸，帮助杀死食物中的病原体，如细菌。\n但吃饭时喝大量的液体会稀释胃酸²。\n另外，液体可以在胃酸出现之前将病原体冲出胃部。\n再加上液体可以在胃酸有足够时间杀死病原体之前将其冲出胃部...",
+      "title": "YSK：为了减少因有问题的食物而导致食物中毒的风险，避免与之一起喝大量液体。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼是YSK：我們的胃會產生酸，幫助殺死食物中的病原體，如細菌。\n但喫飯時喝大量的液體會稀釋胃酸²。\n另外，液體可以在胃酸出現之前將病原體衝出胃部。\n再加上液體可以在胃酸有足夠時間殺死病原體之前將其衝出胃部...",
+      "title": "YSK：爲了減少因有問題的食物而導致食物中毒的風險，避免與之一起喝大量液體。"
+    }
+  ]
 }
