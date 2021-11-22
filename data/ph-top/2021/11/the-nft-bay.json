@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-22T08:01:00Z"
+  "original_createdAt": "2021-11-22T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "NFTとは、GoogleDriveやその他のWeb2.0ホスティングサービスでホストされている画像へのハイパーリンクであることをご存知でしたか？👀",
+      "tagline": "NFTのためのパイレーツベイ"
+    },
+    {
+      "locale": "zh",
+      "description": "你知道吗，NFT只是一个通常托管在GoogleDrive或其他Web2.0托管服务上的图片的超链接？👀",
+      "tagline": "海盗湾的NFTs"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你知道嗎，NFT只是一個通常託管在GoogleDrive或其他Web2.0託管服務上的圖片的超鏈接？👀",
+      "tagline": "海盜灣的NFTs"
+    }
+  ]
 }
