@@ -39,5 +39,22 @@
   "original_created_at": "2021-11-20T07:24:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--K83Es-BZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qt8o0e4sjoy3pvir1jeg.jpg",
   "author": "ManuTheCoder",
-  "author_url": "https://dev.to/manuthecoder"
+  "author_url": "https://dev.to/manuthecoder",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Ok. 整理しておきましょう。PHPは死んでいません。すぐに死ぬことはないでしょう。なぜかって？PHPがリリースしたのは...",
+      "title": "PHPは死んでいない! 恐れずに使って、あなたのプロジェクトに導入してみてください...。"
+    },
+    {
+      "locale": "zh",
+      "description": "好的。让我们把话说清楚。PHP还没有死。它不会很快死亡。为什么？PHP发布了一个...",
+      "title": "PHP并没有死! 不要害怕使用它并在你的项目中实施它..."
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "好的。讓我們把話說清楚。PHP還沒有死。它不會很快死亡。爲什麼？PHP發佈了一個...",
+      "title": "PHP並沒有死! 不要害怕使用它並在你的項目中實施它..."
+    }
+  ]
 }

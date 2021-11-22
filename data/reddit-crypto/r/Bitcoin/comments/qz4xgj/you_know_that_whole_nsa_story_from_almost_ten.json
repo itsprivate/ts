@@ -47,5 +47,19 @@
     "type": "twitter.com"
   },
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "約10年前のNSAの話を知っていますか？私はそれを可能にしたサーバーに支払った...ビットコインを使って。"
+    },
+    {
+      "locale": "zh",
+      "title": "你知道近十年前的那个国家安全局的故事吗？我用比特币支付了那些使之成为可能的服务器。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你知道近十年前的那個國家安全局的故事嗎？我用比特幣支付了那些使之成爲可能的服務器。"
+    }
+  ]
 }
