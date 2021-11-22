@@ -154,5 +154,22 @@
     "retweet_count": 173,
     "favorite_count": 798,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @charliebilello: 新しい投稿です。\n\n7チャートのサンデー...\n\nhttps://t.co/uZLzNqvOAy https://t.co/QJJsFAgJgh",
+      "retweeted_status_full_text": "新しい投稿です。\n\n7-Chart Sunday...\n\nhttps://t.co/uZLzNqvOAy https://t.co/QJJsFAgJgh"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @charliebilello: 新文章。\n\n7张图的周日...\n\nhttps://t.co/uZLzNqvOAy https://t.co/QJJsFAgJgh",
+      "retweeted_status_full_text": "新文章。\n\n7张图的星期天...\n\nhttps://t.co/uZLzNqvOAy https://t.co/QJJsFAgJgh"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @charliebilello: 新文章。\n\n7張圖的週日...\n\nhttps://t.co/uZLzNqvOAy https://t.co/QJJsFAgJgh",
+      "retweeted_status_full_text": "新文章。\n\n7張圖的星期天...\n\nhttps://t.co/uZLzNqvOAy https://t.co/QJJsFAgJgh"
+    }
+  ]
 }
