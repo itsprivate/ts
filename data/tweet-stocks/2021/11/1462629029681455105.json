@@ -52,5 +52,22 @@
     },
     "retweet_count": 1901,
     "favorite_count": 3675
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @karol: ダレル・E・ブルックス容疑者（黒人男性、30代後半）は、Waukeshaで身柄を確保しています。",
+      "retweeted_status_full_text": "ダレル・E・ブルックス（黒人男性、30代後半）は、ウォーケシャーで身柄を拘束されています。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @karol: Darrell E. Brooks，黑人男性，30多岁，是在Waukesha被拘留的嫌犯。",
+      "retweeted_status_full_text": "达雷尔-E-布鲁克斯（Darrell E. Brooks），黑人男性，30多岁，是在沃克萨被拘留的嫌疑人。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @karol: Darrell E. Brooks，黑人男性，30多歲，是在Waukesha被拘留的嫌犯。",
+      "retweeted_status_full_text": "達雷爾-E-布魯克斯（Darrell E. Brooks），黑人男性，30多歲，是在沃克薩被拘留的嫌疑人。"
+    }
+  ]
 }
