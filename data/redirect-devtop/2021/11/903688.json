@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-20T05:02:12Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--M_4geKSI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l16xdwreps0vi8ba11ez.png",
   "author": "Rithik Samanthula",
-  "author_url": "https://dev.to/code2rithik"
+  "author_url": "https://dev.to/code2rithik",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コーダーの皆さん、こんにちは。何かあったの？ 今日は、どちらが良いかという話をします。ReactとAngular。感覚的には...",
+      "title": "ReactJS vs AngularJS: あなたのプロジェクトにはどちらが適していますか？"
+    },
+    {
+      "locale": "zh",
+      "description": "嗨，编码员们! 什么是poppin'？ 今天，我将讨论哪个更好。React和Angular。感觉...",
+      "title": "ReactJS与AngularJS：哪一个更适合你的项目？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嗨，編碼員們! 什麼是poppin'？ 今天，我將討論哪個更好。React和Angular。感覺...",
+      "title": "ReactJS與AngularJS：哪一個更適合你的項目？"
+    }
+  ]
 }
