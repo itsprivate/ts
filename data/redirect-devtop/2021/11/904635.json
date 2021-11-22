@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-21T11:52:50Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xFjP-fNF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5mnxzxafn63lgay161f5.jpg",
   "author": "Stanley Ruheza",
-  "author_url": "https://dev.to/maen"
+  "author_url": "https://dev.to/maen",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "チームでソフトウェアを構築するには、コードベースの明確な理解と適切な管理が必要です。....",
+      "title": "プロのように貢献する。\ngit-branchingモデルのガイド（第1回）"
+    },
+    {
+      "locale": "zh",
+      "description": "在团队中构建一个软件需要对代码库有清晰的理解和适当的管理....。",
+      "title": "像专家一样贡献。\ngit-branching模型指南 (第一部分)"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在團隊中構建一個軟件需要對代碼庫有清晰的理解和適當的管理....。",
+      "title": "像專家一樣貢獻。\ngit-branching模型指南 (第一部分)"
+    }
+  ]
 }

@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-17T02:43:55Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1BbuYOsl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5y0ljj8dzk82vk90f9i6.jpg",
   "author": "Thiago Pacheco",
-  "author_url": "https://dev.to/pacheco"
+  "author_url": "https://dev.to/pacheco",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Golangを使ったAPIの構造化、Docker化、VSCodeデバッガのセットアップなど、言語の知識を深める方法をご紹介します。",
+      "title": "GolangでRestful APIをゼロから作る"
+    },
+    {
+      "locale": "zh",
+      "description": "学习如何用Golang构建API，对其进行dockerize，设置VSCode调试器并提高你的语言知识。",
+      "title": "用Golang从头开始创建一个Restful API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "學習如何用Golang構建API，對其進行dockerize，設置VSCode調試器並提高你的語言知識。",
+      "title": "用Golang從頭開始創建一個Restful API"
+    }
+  ]
 }
