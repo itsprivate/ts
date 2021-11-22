@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "衛星LiDarは、地上では失われた埋もれた遺跡の発見に使われていますが、海でLiDarを使って残骸や潜水艦を探すことは可能でしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "卫星LiDar已经被用来发现地球上丢失和埋藏的遗迹；是否有可能在海洋中使用LiDar来寻找残骸或潜水艇？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "衛星LiDar已經被用來發現地球上丟失和埋藏的遺蹟；是否有可能在海洋中使用LiDar來尋找殘骸或潛水艇？"
+    }
+  ]
 }

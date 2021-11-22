@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "To prevent hacks or simswaps, please turn off SMS 2FA and be sure to use 2FA\nauthenticator. You can use apps like Google Authenticator, Authy, Microsoft\nAuthenticator or Yubico.\n\nWhat is SIM swapping?\n\nSIM swapping is a way for someone to steal your mobile phone number. It happens\nwhen a criminal…"
+  "the_new_excerpt": "To prevent hacks or simswaps, please turn off SMS 2FA and be sure to use 2FA\nauthenticator. You can use apps like Google Authenticator, Authy, Microsoft\nAuthenticator or Yubico.\n\nWhat is SIM swapping?\n\nSIM swapping is a way for someone to steal your mobile phone number. It happens\nwhen a criminal…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ハッキングやSIMスラップを防ぐために、SMS 2FAをオフにして、必ず2FA\n認証を行ってください。Google Authenticator、Authy、Microsoft Authenticator、Yubicoなどのアプリを使用できます。\nAuthenticatorやYubicoなどのアプリを使用できます。\n\nSIMスワッピングとは何ですか？\n\nSIMスワッピングとは、誰かがあなたの携帯電話番号を盗み出す方法です。それは次のような場合に起こります。\n犯罪者が...",
+      "title": "2FA認証機能を使用し、SMS 2FAをオフにすることをお勧めします。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为了防止黑客或simswaps，请关闭短信2FA，并确保使用2FA\n认证器。你可以使用像谷歌认证器、Authy、微软\nAuthenticator或Yubico。\n\n什么是SIM卡互换？\n\nSIM卡互换是一种让人窃取你手机号码的方式。它发生在\n当一个罪犯...",
+      "title": "友情提醒：使用2FA认证器并关闭短信2FA"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲了防止黑客或simswaps，請關閉短信2FA，並確保使用2FA\n認證器。你可以使用像谷歌認證器、Authy、微軟\nAuthenticator或Yubico。\n\n什麼是SIM卡互換？\n\nSIM卡互換是一種讓人竊取你手機號碼的方式。它發生在\n當一個罪犯...",
+      "title": "友情提醒：使用2FA認證器並關閉短信2FA"
+    }
+  ]
 }
