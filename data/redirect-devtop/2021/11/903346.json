@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-19T19:27:21Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ul1gv5IC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bf2d2cs77uvzs7n2g295.png",
   "author": "TalhaKhalid101",
-  "author_url": "https://dev.to/talhakhalid101"
+  "author_url": "https://dev.to/talhakhalid101",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "数週間にわたるKubernetesについての記事の後、Reactについての短い記事を書きたいと思います...",
+      "title": "5 Cool React Libraries You Should Know [not the usual one's] (英語のみ)"
+    },
+    {
+      "locale": "zh",
+      "description": "在写了几周关于Kubernetes的文章后，我想写一篇关于React的短文，关于...",
+      "title": "你应该知道的5个很酷的React库[不是通常的那些]"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在寫了幾周關於Kubernetes的文章後，我想寫一篇關於React的短文，關於...",
+      "title": "你應該知道的5個很酷的React庫[不是通常的那些]"
+    }
+  ]
 }
