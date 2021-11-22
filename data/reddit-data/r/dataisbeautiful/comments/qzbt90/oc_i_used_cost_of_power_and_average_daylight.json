@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] 電力コストと平均日照時間を使って、米国のソーラーパネルの投資回収期間を郡別にモデル化してみた"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]我使用电力成本和平均日照时间来模拟美国各县太阳能电池板的投资回报期。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]我使用電力成本和平均日照時間來模擬美國各縣太陽能電池板的投資回報期。"
+    }
+  ]
 }

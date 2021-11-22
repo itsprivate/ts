@@ -102,5 +102,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-22T08:01:00Z"
+  "original_createdAt": "2021-11-22T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Minimalは、iOSとMacに対応したフル機能のライティング＋メモアプリです。気が散らないデザインは、集中力と心の余裕を高めます。Note Lifetime、Publish as Website、コラボレーション、マークダウンフォーマットなどの機能を備えています。",
+      "tagline": "瞑想をヒントにした、効果的なメモのためのライティングアプリ"
+    },
+    {
+      "locale": "zh",
+      "description": "Minimal是一款适用于iOS和Mac的全功能写作+笔记应用。它的无干扰设计提高了注意力和开放性。它的功能包括 \"Note Lifetime\"、\"Publish as Website\"、\"协作\"、\"markdown格式化 \"等。",
+      "tagline": "一款受冥想启发的写作应用，用于有效的笔记"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Minimal是一款適用於iOS和Mac的全功能寫作+筆記應用。它的無干擾設計提高了注意力和開放性。它的功能包括 \"Note Lifetime\"、\"Publish as Website\"、\"協作\"、\"markdown格式化 \"等。",
+      "tagline": "一款受冥想啓發的寫作應用，用於有效的筆記"
+    }
+  ]
 }
