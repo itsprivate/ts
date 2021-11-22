@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "took.wikiは、Wikipediaを知識源とするオンラインリーダージェネレータです。"
+    },
+    {
+      "locale": "zh",
+      "title": "took.wiki是一个在线阅读生成器，它使用维基百科作为知识来源。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "took.wiki是一個在線閱讀生成器，它使用維基百科作爲知識來源。"
+    }
+  ]
 }
