@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-20T05:56:36Z",
   "image": "https://dev.to/social_previews/article/903704.png",
   "author": "javinpaul",
-  "author_url": "https://dev.to/javinpaul"
+  "author_url": "https://dev.to/javinpaul",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Azure FundamentalsまたはAZ-900認定試験に合格し、2022年にCertified Azure Professionalとしてクラウドコンピューティングのキャリアをスタートさせるための完全なガイドです。",
+      "title": "2022年にMicrosoft Azure Professionalの資格を取得する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "通过Azure基础知识或AZ-900认证考试的完整指南，并在2022年作为Azure认证专家开始你的云计算职业生涯。",
+      "title": "如何在2022年成为认证的微软Azure专业人士"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "通過Azure基礎知識或AZ-900認證考試的完整指南，並在2022年作爲Azure認證專家開始你的雲計算職業生涯。",
+      "title": "如何在2022年成爲認證的微軟Azure專業人士"
+    }
+  ]
 }
