@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-21T09:39:51Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xkQv2fJS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lzs6xxjyr5qd7vcx8k2d.png",
   "author": "Techworld with Nana",
-  "author_url": "https://dev.to/techworld_with_nana"
+  "author_url": "https://dev.to/techworld_with_nana",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Dockerの採用率は絶えず上昇しており📈、多くの人がDockerに精通していますが、誰もがDockerを使用しているわけではありません...",
+      "title": "本番環境でDockerを使用するためのTop 8 Docker Best Practices ✅。"
+    },
+    {
+      "locale": "zh",
+      "description": "Docker的采用率不断上升📈，许多人都熟悉它，但不是每个人都在使用Docker。",
+      "title": "在生产中使用Docker的8大最佳实践 ✅"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Docker的採用率不斷上升📈，許多人都熟悉它，但不是每個人都在使用Docker。",
+      "title": "在生產中使用Docker的8大最佳實踐 ✅"
+    }
+  ]
 }
