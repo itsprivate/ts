@@ -48,5 +48,22 @@
   "original_created_at": "2021-11-21T10:08:47Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cZ_iwp_W--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dliksjcoptaemh2d5d87.jpg",
   "author": "Sarthak Sharma",
-  "author_url": "https://dev.to/sarthology"
+  "author_url": "https://dev.to/sarthology",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ウェブ上のあらゆる情報を、ワンクリックでNotionのページに直接保存できます。",
+      "title": "Notion Pro Clipper Web Extensionをリリースしました。"
+    },
+    {
+      "locale": "zh",
+      "description": "从网上直接保存任何东西到你的Notion页面，只需一次点击。",
+      "title": "刚刚发布的Notion Pro Clipper网络扩展"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "從網上直接保存任何東西到你的Notion頁面，只需一次點擊。",
+      "title": "剛剛發佈的Notion Pro Clipper網絡擴展"
+    }
+  ]
 }
