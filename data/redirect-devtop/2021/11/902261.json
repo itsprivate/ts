@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-18T17:21:45Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_YpnuBfG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8a6k8ysiq1pbxgukm00o.png",
   "author": "Artem Malko",
-  "author_url": "https://dev.to/artemmalko"
+  "author_url": "https://dev.to/artemmalko",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今回は、TypeScriptのinferキーワードについてお話します。私は、多くの開発者が、このようなキーワードを使っていると信じています。",
+      "title": "TypeScriptでのInferは、偉大で強力です。"
+    },
+    {
+      "locale": "zh",
+      "description": "让我们来谈谈TypeScript中的infer关键字。我相信，有很多开发人员，他们已经...",
+      "title": "TypeScript中的推断，伟大而强大的推断"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "讓我們來談談TypeScript中的infer關鍵字。我相信，有很多開發人員，他們已經...",
+      "title": "TypeScript中的推斷，偉大而強大的推斷"
+    }
+  ]
 }
