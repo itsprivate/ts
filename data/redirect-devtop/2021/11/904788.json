@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-21T15:54:24Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--iR05iVnx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hlfjwzbg3orkgi8uwhmn.png",
   "author": "Johnny Simpson",
-  "author_url": "https://dev.to/smpnjn"
+  "author_url": "https://dev.to/smpnjn",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、ボックスシャドウを使ってCSSのピクセルアートを作成する方法を紹介した記事を読みました。私はそれが...",
+      "title": "CSSピクセルアートジェネレータ"
+    },
+    {
+      "locale": "zh",
+      "description": "最近，我读了一篇文章，概述了如何用盒状阴影创建CSS像素艺术。我想这是...",
+      "title": "CSS Pixel Art Generator"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "最近，我讀了一篇文章，概述瞭如何用盒狀陰影創建CSS像素藝術。我想這是...",
+      "title": "CSS Pixel Art Generator"
+    }
+  ]
 }
