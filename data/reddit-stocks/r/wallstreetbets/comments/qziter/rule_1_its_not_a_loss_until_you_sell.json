@@ -161,5 +161,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1637578218,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ルール1：\"売るまでは損失ではない\""
+    },
+    {
+      "locale": "zh",
+      "title": "规则1：\"在你卖出之前，它不是一个损失\"。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "規則1：\"在你賣出之前，它不是一個損失\"。"
+    }
+  ]
 }
