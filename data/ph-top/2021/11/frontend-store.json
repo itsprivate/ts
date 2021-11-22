@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-21T11:37:24Z"
+  "original_createdAt": "2021-11-21T11:37:24Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Frontend Storeは、UIエレメントのコードを売買する場所です。他のサイトのインターフェイスをより良いものにするお手伝いをします。",
+      "tagline": "インターフェース要素の売買"
+    },
+    {
+      "locale": "zh",
+      "description": "Frontend Store是你购买和销售UI元素代码的地方。我们帮助其他网站的界面变得更好。",
+      "tagline": "买卖界面元素"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Frontend Store是你購買和銷售UI元素代碼的地方。我們幫助其他網站的界面變得更好。",
+      "tagline": "買賣界面元素"
+    }
+  ]
 }
