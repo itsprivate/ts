@@ -64,5 +64,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もうちょっと待ってね"
+    },
+    {
+      "locale": "zh",
+      "title": "再坚持一下"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "再堅持一下"
+    }
+  ]
 }

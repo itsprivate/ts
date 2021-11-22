@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-22T08:01:00Z"
+  "original_createdAt": "2021-11-22T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あなたのウェブサイトに簡単に導入でき、完全にカスタマイズ可能なクッキー通知です。コーディング不要で、あなたのウェブサイトをGDPRに準拠したきめ細かなものにします!",
+      "tagline": "貴社のウェブサイトを数分でGDPR対応に"
+    },
+    {
+      "locale": "zh",
+      "description": "为您的网站提供一个易于实施和完全可定制的cookie通知。使您的网站符合GDPR的要求，而且不需要编码",
+      "tagline": "在几分钟内使您的网站免受GDPR影响"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "爲您的網站提供一個易於實施和完全可定製的cookie通知。使您的網站符合GDPR的要求，而且不需要編碼",
+      "tagline": "在幾分鐘內使您的網站免受GDPR影響"
+    }
+  ]
 }
