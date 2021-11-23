@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "It ain‘t much but its honest work."
+  "the_new_excerpt": "It ain‘t much but its honest work.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "大したことではないが、誠実な仕事だ。",
+      "title": "0,0010BTCを取得しました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这并不重要，但它是诚实的工作。",
+      "title": "刚刚得到0,0010BTC"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這並不重要，但它是誠實的工作。",
+      "title": "剛剛得到0,0010BTC"
+    }
+  ]
 }
