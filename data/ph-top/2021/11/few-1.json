@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-23T08:01:00Z"
+  "original_createdAt": "2021-11-23T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Fewは、優れた性能とデザインを持つ厳選された必須製品のキュレーションです。",
+      "tagline": "優れたエッセンシャル・プロダクトのキュレーション"
+    },
+    {
+      "locale": "zh",
+      "description": "Few是一个基本产品的策划，因其卓越的性能和设计而被精心挑选出来。",
+      "tagline": "优秀的基本产品的策划"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Few是一個基本產品的策劃，因其卓越的性能和設計而被精心挑選出來。",
+      "tagline": "優秀的基本產品的策劃"
+    }
+  ]
 }

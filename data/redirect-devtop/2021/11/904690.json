@@ -50,5 +50,22 @@
   "original_created_at": "2021-11-21T14:16:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lCgjdo8C--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qkls03biwqxfbg86erzq.png",
   "author": "Justin Maximillian Kimlim",
-  "author_url": "https://dev.to/kimlimjustin"
+  "author_url": "https://dev.to/kimlimjustin",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "開発者の皆さん、こんにちは。 約2ヶ月前、私はXplorerの最初のバージョンをリリースし、それについての記事を書きました。",
+      "title": "TypeScriptで書かれた最新のファイルエクスプローラー「Xplorer」は、最近のリリースではパフォーマンスが向上しています。"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，开发者们!  大约两个月前，我发布了Xplorer的第一个版本，并写了一篇关于...",
+      "title": "Xplorer是一个使用TypeScript编写的现代文件资源管理器，其性能在最近的版本中得到了改善。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，開發者們!  大約兩個月前，我發佈了Xplorer的第一個版本，並寫了一篇關於...",
+      "title": "Xplorer是一個使用TypeScript編寫的現代文件資源管理器，其性能在最近的版本中得到了改善。"
+    }
+  ]
 }
