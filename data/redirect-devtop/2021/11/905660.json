@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-22T15:41:19Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--f83Bz-e7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i062wzbtxxl4tu4krmni.jpg",
   "author": "Shantanu Jana",
-  "author_url": "https://dev.to/shantanu_jana"
+  "author_url": "https://dev.to/shantanu_jana",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、HTML CSS JavaScript.... を使って、レスポンシブ サイドバー メニューを作成する方法をご紹介します。",
+      "title": "HTML・CSS・JavaScriptによるレスポンシブ・サイド・ナビゲーション・バー"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，你将学习如何使用HTML CSS JavaScript.... 创建响应式侧边栏菜单。",
+      "title": "HTML、CSS和JavaScript中的响应式侧面导航栏"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，你將學習如何使用HTML CSS JavaScript.... 創建響應式側邊欄菜單。",
+      "title": "HTML、CSS和JavaScript中的響應式側面導航欄"
+    }
+  ]
 }
