@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Happy Thanksgiving! 私は感謝の習慣をアプリにしました。これは無料で、完全にプライベートなものです。"
+    },
+    {
+      "locale": "zh",
+      "title": "感恩节快乐! 我把我的感恩练习变成了一个应用程序。它是免费的，而且是完全私人的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "感恩節快樂! 我把我的感恩練習變成了一個應用程序。它是免費的，而且是完全私人的。"
+    }
+  ]
 }

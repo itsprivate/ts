@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ワクチン接種状況別のCovid死亡率"
+    },
+    {
+      "locale": "zh",
+      "title": "按疫苗接种情况划分的科维德死亡率"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "按疫苗接種情況劃分的科維德死亡率"
+    }
+  ]
 }
