@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-22T08:57:46Z",
   "image": "https://dev.to/social_previews/article/905286.png",
   "author": "javinpaul",
-  "author_url": "https://dev.to/javinpaul"
+  "author_url": "https://dev.to/javinpaul",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Udemy、Coursera、Pluralsight、edxから、2022年にオンラインでWeb開発を学べる、初心者向けのHTMLとCSSを学べるオンラインコースをご紹介します。",
+      "title": "初心者がオンラインで学べるHTML、CSS、Web開発コースのベスト10"
+    },
+    {
+      "locale": "zh",
+      "description": "这些是为初学者提供的学习HTML和CSS的最佳在线课程，来自Udemy、Coursera、Pluralsight和edx，可在2022年在线学习网络开发。",
+      "title": "10个最适合初学者在线学习的HTML、CSS和Web开发课程"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這些是爲初學者提供的學習HTML和CSS的最佳在線課程，來自Udemy、Coursera、Pluralsight和edx，可在2022年在線學習網絡開發。",
+      "title": "10個最適合初學者在線學習的HTML、CSS和Web開發課程"
+    }
+  ]
 }
