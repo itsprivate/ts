@@ -50,5 +50,22 @@
   "original_created_at": "2021-11-23T15:02:19Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3OBjwhS0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8uxbjgguam748iyyq0wg.jpeg",
   "author": "CAST AI",
-  "author_url": "https://dev.to/castai"
+  "author_url": "https://dev.to/castai",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "手動のコスト管理ツールを使ったことがある人は、どれほど時間がかかるかを知っています。....",
+      "title": "完全に自律的なKubernetes最適化プラットフォームのためのInstant Rebalancingの導入"
+    },
+    {
+      "locale": "zh",
+      "description": "任何曾经使用过人工成本管理工具的人都知道它们有多耗费时间....。",
+      "title": "为完全自主的Kubernetes优化平台引入即时再平衡功能"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "任何曾經使用過人工成本管理工具的人都知道它們有多耗費時間....。",
+      "title": "爲完全自主的Kubernetes優化平臺引入即時再平衡功能"
+    }
+  ]
 }
