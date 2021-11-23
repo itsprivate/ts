@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "中国には、人口100万人以上の都市が145あります[OC]。説明文中のグラフィック全体へのリンク"
+    },
+    {
+      "locale": "zh",
+      "title": "中国有145个人口在100万以上的城市[OC]。链接到描述中的完整图形"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "中國有145個人口在100萬以上的城市[OC]。鏈接到描述中的完整圖形"
+    }
+  ]
 }
