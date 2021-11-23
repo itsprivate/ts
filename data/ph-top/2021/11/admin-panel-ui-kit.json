@@ -48,5 +48,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-23T08:08:59Z"
+  "original_createdAt": "2021-11-23T08:08:59Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "アプリケーション開発に特化した独自の管理者用ダッシュボードを作成するためのツールです。デザインチームSwiftle.ioが用意した、最高のUI KIT製品です。",
+      "tagline": "管理画面のユニバーサルUIキット"
+    },
+    {
+      "locale": "zh",
+      "description": "一个帮助创建你自己的管理仪表板的工具，专门用于应用开发。设计团队Swiftle.io为你准备了最好的UI KIT产品。",
+      "tagline": "管理仪表板的通用UI套件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個幫助創建你自己的管理儀表板的工具，專門用於應用開發。設計團隊Swiftle.io爲你準備了最好的UI KIT產品。",
+      "tagline": "管理儀表板的通用UI套件"
+    }
+  ]
 }
