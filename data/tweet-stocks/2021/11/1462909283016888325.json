@@ -97,5 +97,19 @@
   },
   "retweet_count": 56,
   "favorite_count": 242,
-  "original_created_at": "Mon Nov 22 22:22:07 +0000 2021"
+  "original_created_at": "Mon Nov 22 22:22:07 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "ナスダック100（$QQQ）の内訳...\n1銘柄で-11％：$AAPL\n3銘柄で-30%: $AAPL, $MSFT, $GOOGL.\n7銘柄で-52％：$AAPL、$MSFT、$GOOGL、$AMZN、$TSLA、$NVDA、$FB。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "纳斯达克100指数($QQQ)分解...\n-1只股票下跌11%: $AAPL\n3只股票-30%：$AAPL, $MSFT, $GOOGL.\n7只股票-52%：$AAPL, $MSFT, $GOOGL, $AMZN, $TSLA, $NVDA, $FB."
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "納斯達克100指數($QQQ)分解...\n-1只股票下跌11%: $AAPL\n3只股票-30%：$AAPL, $MSFT, $GOOGL.\n7只股票-52%：$AAPL, $MSFT, $GOOGL, $AMZN, $TSLA, $NVDA, $FB."
+    }
+  ]
 }
