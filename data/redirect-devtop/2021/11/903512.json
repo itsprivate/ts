@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-19T23:19:58Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--j-ChtD_R--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6ligp4m4v6zqfaovt6zm.png",
   "author": "Damian Demasi",
-  "author_url": "https://dev.to/colocodes"
+  "author_url": "https://dev.to/colocodes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このチュートリアルの前の部分では、ハリーとハーマイオニーがどのようにしてSaaSアプリケーションを構築することにしたのかを学びました...",
+      "title": "プロのようにチームでGitとGitHubを使いこなす方法を学ぶ（パート2）"
+    },
+    {
+      "locale": "zh",
+      "description": "在本教程的上一部分，我们了解到哈利和赫敏是如何决定建立一个SaaS应用程序的。",
+      "title": "学习如何在团队中像专家一样使用Git和GitHub（第二部分）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在本教程的上一部分，我們瞭解到哈利和赫敏是如何決定建立一個SaaS應用程序的。",
+      "title": "學習如何在團隊中像專家一樣使用Git和GitHub（第二部分）。"
+    }
+  ]
 }
