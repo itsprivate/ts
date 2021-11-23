@@ -43,5 +43,22 @@
   "original_created_at": "2021-11-21T01:38:12Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7Hq3Aulu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uvy93lacp6n9tyi41lti.png",
   "author": "Atif Aiman",
-  "author_url": "https://dev.to/alserembani"
+  "author_url": "https://dev.to/alserembani",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "サラム＆ホラ、アミーゴス  この記事はReact以外にも使えますが、ここではReactに焦点を当てて説明します。",
+      "title": "[ReactJS】JavascriptからTypescriptへ"
+    },
+    {
+      "locale": "zh",
+      "description": "敬礼！敬礼！敬礼！朋友们。 这篇文章也可以用在React以外的地方，但我将重点放在...",
+      "title": "[ReactJS] 从Javascript到Typescript"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "敬禮！敬禮！敬禮！朋友們。 這篇文章也可以用在React以外的地方，但我將重點放在...",
+      "title": "[ReactJS] 從Javascript到Typescript"
+    }
+  ]
 }
