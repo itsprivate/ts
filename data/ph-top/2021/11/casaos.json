@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-22T09:44:28Z"
+  "original_createdAt": "2021-11-22T09:44:28Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CasaOSは、Dockerエコシステムをベースにした、家庭での利用を想定したオープンソースのホームサーバーシステムです。世界で最もシンプルで使いやすく、エレガントなホームサーバーシステムを構築することを目指しています。CasaOSはRaspberry Piとx86デバイスに対応しています。",
+      "tagline": "シンプルで使いやすく、エレガントなオープンソースのホームクラウドシステム"
+    },
+    {
+      "locale": "zh",
+      "description": "CasaOS是一个基于Docker生态系统的开源家庭服务器系统，为家庭场景而设计。它致力于打造世界上最简单、最容易使用、最优雅的家庭服务器系统。CasaOS与Raspberry Pi和x86设备兼容。",
+      "tagline": "一个简单、易用、优雅的开源家庭云系统"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "CasaOS是一個基於Docker生態系統的開源家庭服務器系統，爲家庭場景而設計。它致力於打造世界上最簡單、最容易使用、最優雅的家庭服務器系統。CasaOS與Raspberry Pi和x86設備兼容。",
+      "tagline": "一個簡單、易用、優雅的開源家庭雲系統"
+    }
+  ]
 }
