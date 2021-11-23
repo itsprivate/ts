@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "言いたいことを言うために"
+    },
+    {
+      "locale": "zh",
+      "title": "为了说明问题"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲了說明問題"
+    }
+  ]
 }

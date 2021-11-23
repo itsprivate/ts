@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが聞き飽きた、自分の体についてのコメントは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你对自己身体的哪些不请自来的评论感到厌烦？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你對自己身體的哪些不請自來的評論感到厭煩？"
+    }
+  ]
 }
