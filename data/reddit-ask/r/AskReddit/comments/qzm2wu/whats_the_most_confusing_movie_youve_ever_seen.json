@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今まで見た映画の中で、最も分かりにくい映画は？"
+    },
+    {
+      "locale": "zh",
+      "title": "你看过的最令人困惑的电影是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你看過的最令人困惑的電影是什麼？"
+    }
+  ]
 }
