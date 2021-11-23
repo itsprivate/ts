@@ -52,5 +52,22 @@
   "original_created_at": "2021-11-21T16:25:21Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KD5RF4Mo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bvbuttay9xa0xr4ql5c9.png",
   "author": "Jones Zachariah Noel",
-  "author_url": "https://dev.to/zachjonesnoel"
+  "author_url": "https://dev.to/zachjonesnoel",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Simple Notification Service」と「Simple Queue Service」は、日本で提供されているマネージドサービスです。",
+      "title": "いつ？SNSまたはSQS"
+    },
+    {
+      "locale": "zh",
+      "description": "简单通知服务和简单队列服务是管理服务，这些服务是由...",
+      "title": "何时去: SNS或SQS"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡單通知服務和簡單隊列服務是管理服務，這些服務是由...",
+      "title": "何時去: SNS或SQS"
+    }
+  ]
 }
