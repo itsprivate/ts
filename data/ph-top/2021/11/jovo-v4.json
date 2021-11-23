@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-23T08:01:00Z"
+  "original_createdAt": "2021-11-23T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Alexa、Google Assistant、Facebook Messenger、Instagram、Webなどの音声・チャット体験を構築することができます。オープンソース： https://github.com/jovotech/jovo-framework",
+      "tagline": "音声とチャットのためのReact、オープンソース"
+    },
+    {
+      "locale": "zh",
+      "description": "为Alexa、谷歌助理、Facebook Messenger、Instagram、网络等构建语音和聊天体验。开放源代码: https://github.com/jovotech/jovo-framework",
+      "tagline": "用于语音和聊天的React，开放源代码"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "爲Alexa、谷歌助理、Facebook Messenger、Instagram、網絡等構建語音和聊天體驗。開放源代碼: https://github.com/jovotech/jovo-framework",
+      "tagline": "用於語音和聊天的React，開放源代碼"
+    }
+  ]
 }
