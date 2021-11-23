@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-22T11:04:18Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OM5HliqV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fmxdjrkkyk4v38s5w0nd.jpeg",
   "author": "Rounak Banik",
-  "author_url": "https://dev.to/rounakbanik"
+  "author_url": "https://dev.to/rounakbanik",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに 前回のチュートリアルでは、ジェネレーティブ・アートの使い方をご紹介しました。",
+      "title": "NFT Collectibleスマートコントラクトの作成"
+    },
+    {
+      "locale": "zh",
+      "description": "简介 在我之前的教程中，我们向你展示了如何使用我们的生成艺术...",
+      "title": "编写一个NFT收集的智能合约"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介 在我之前的教程中，我們向你展示瞭如何使用我們的生成藝術...",
+      "title": "編寫一個NFT收集的智能合約"
+    }
+  ]
 }
