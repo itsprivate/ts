@@ -65,5 +65,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ラリーカーはかなり安全"
+    },
+    {
+      "locale": "zh",
+      "title": "拉力赛车是相当安全的"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "拉力賽車是相當安全的"
+    }
+  ]
 }
