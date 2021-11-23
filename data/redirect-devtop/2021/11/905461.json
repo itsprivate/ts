@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-22T11:38:17Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PmMB3SPC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/654f2zllvsf50elnkhhc.png",
   "author": "Sumudu Siriwardana",
-  "author_url": "https://dev.to/sumusiriwardana"
+  "author_url": "https://dev.to/sumusiriwardana",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事はダーシャに掲載されたものです。 因みに、Dashaは...",
+      "title": "JavaScriptの配列です。5歳児のように説明する "
+    },
+    {
+      "locale": "zh",
+      "description": "这篇文章最初发表在《大沙》上。 如果你想知道，Dasha是一个...",
+      "title": "JavaScript数组。解释一下，就像我是五岁小孩一样 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這篇文章最初發表在《大沙》上。 如果你想知道，Dasha是一個...",
+      "title": "JavaScript數組。解釋一下，就像我是五歲小孩一樣 "
+    }
+  ]
 }
