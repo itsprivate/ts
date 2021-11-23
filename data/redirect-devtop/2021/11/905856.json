@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-22T18:12:13Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZJNUpz4r--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zjqt48g2gx8qb38wj88t.jpg",
   "author": "anthony-campolo",
-  "author_url": "https://dev.to/ajcwebdev"
+  "author_url": "https://dev.to/ajcwebdev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Hydrationは、クライアントサイドのJavaScriptを使用して、静的なHTMLページを動的なWebページに変換します。パーシャルハイドレーションでは、インタラクティブに動作する必要のあるアプリケーションのコンポーネントのみをハイドレーションすることを目的としています。",
+      "title": "パーシャルハイドレーションとは何か、そしてなぜ皆がそれを話題にしているのか？"
+    },
+    {
+      "locale": "zh",
+      "description": "Hydration使用客户端JavaScript将静态HTML页面转换为动态网页。部分水合的目的是只对应用程序中需要互动的部分进行水合。",
+      "title": "什么是部分水合，为什么大家都在谈论它？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Hydration使用客戶端JavaScript將靜態HTML頁面轉換爲動態網頁。部分水合的目的是隻對應用程序中需要互動的部分進行水合。",
+      "title": "什麼是部分水合，爲什麼大家都在談論它？"
+    }
+  ]
 }

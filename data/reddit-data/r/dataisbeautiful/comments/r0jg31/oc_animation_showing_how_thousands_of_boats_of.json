@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] 中国沿岸の数千隻の船舶が、一晩のうちにAISトランスポンダを停止したことを示すアニメーション"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC] 动画显示中国沿海成千上万的船只几乎在一夜之间关闭了AIS转发器"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC] 動畫顯示中國沿海成千上萬的船隻幾乎在一夜之間關閉了AIS轉發器"
+    }
+  ]
 }
