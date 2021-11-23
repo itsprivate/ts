@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-21T06:39:01Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JeuHpQEh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5zk8n3xqo6gb4cybx8sp.png",
   "author": "Astrodevil",
-  "author_url": "https://dev.to/astrodevil"
+  "author_url": "https://dev.to/astrodevil",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "GitHub Actionsを使えば、ソフトウェア開発のワークフローを自動化、カスタマイズ、実行することができます...",
+      "title": "信じられないようなクールなGitHubアクションの数々"
+    },
+    {
+      "locale": "zh",
+      "description": "有了GitHub Actions，你可以自动化、定制和执行你的软件开发工作流程...",
+      "title": "一些你不会相信的酷炫的GitHub动作的存在"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有了GitHub Actions，你可以自動化、定製和執行你的軟件開發工作流程...",
+      "title": "一些你不會相信的酷炫的GitHub動作的存在"
+    }
+  ]
 }
