@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-23T13:32:44Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--g3zqxkO3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oiets1j1ibobjol3034t.jpeg",
   "author": "CodeOz",
-  "author_url": "https://dev.to/codeoz"
+  "author_url": "https://dev.to/codeoz",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "HTML/CSSでdivを中央に配置する3つの方法とは！？          位置を使う /* 位置を使う */ .parent { ...",
+      "title": "CSSでdivをCENTERする3つの方法"
+    },
+    {
+      "locale": "zh",
+      "description": "在HTML/CSS中，有3种方法可以让一个div居中！？          使用位置 /* 使用位置 */ .parent { ...",
+      "title": "在CSS中用3种方法将一个div置于中心位置"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在HTML/CSS中，有3種方法可以讓一個div居中！？          使用位置 /* 使用位置 */ .parent { ...",
+      "title": "在CSS中用3種方法將一個div置於中心位置"
+    }
+  ]
 }
