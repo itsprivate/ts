@@ -91,5 +91,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Unreal Engine 5でリアルタイムに制御されたCGIパペット"
+    },
+    {
+      "locale": "zh",
+      "title": "虚幻引擎5中的实时控制CGI木偶"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "虛幻引擎5中的實時控制CGI木偶"
+    }
+  ]
 }
