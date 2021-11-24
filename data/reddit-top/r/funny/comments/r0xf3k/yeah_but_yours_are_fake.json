@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ああ、でも君のは偽物だよ"
+    },
+    {
+      "locale": "zh",
+      "title": "是的，但你的是假的"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "是的，但你的是假的"
+    }
+  ]
 }
