@@ -14,5 +14,19 @@
   "tags": [
     "BBC News"
   ],
-  "image": "https://ichef.bbci.co.uk/news/1024/branded_news/31CC/production/_121784721_migrants4.jpg"
+  "image": "https://ichef.bbci.co.uk/news/1024/branded_news/31CC/production/_121784721_migrants4.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "海峡で最大の犠牲者を出した移民の死"
+    },
+    {
+      "locale": "zh",
+      "title": "移民死亡是英吉利海峡最大的生命损失"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "移民死亡是英吉利海峽最大的生命損失"
+    }
+  ]
 }
