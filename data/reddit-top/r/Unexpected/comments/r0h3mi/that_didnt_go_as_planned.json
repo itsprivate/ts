@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "思うようにいかなかった"
+    },
+    {
+      "locale": "zh",
+      "title": "这并没有按计划进行"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這並沒有按計劃進行"
+    }
+  ]
 }
