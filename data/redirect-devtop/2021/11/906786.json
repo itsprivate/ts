@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-23T14:31:43Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pSI93-PV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/suxb0lj15p2t0qfu7p1f.png",
   "author": "Zahra Khan",
-  "author_url": "https://dev.to/zahrakhadijha"
+  "author_url": "https://dev.to/zahrakhadijha",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "nullやundefinedが出てくると、それぞれのデータ型がどのように使われているのか、非常に混乱してしまいます。",
+      "title": "JavaScriptにおけるNullとUndefinedの違いについて"
+    },
+    {
+      "locale": "zh",
+      "description": "每当我遇到null或undefined时，我都会对每种数据类型的使用方式感到难以置信的困惑。",
+      "title": "JavaScript中Null和Undefined的区别"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "每當我遇到null或undefined時，我都會對每種數據類型的使用方式感到難以置信的困惑。",
+      "title": "JavaScript中Null和Undefined的區別"
+    }
+  ]
 }
