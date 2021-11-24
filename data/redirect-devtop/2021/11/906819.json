@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-23T15:25:34Z",
   "image": "https://dev.to/social_previews/article/906819.png",
   "author": "magen.smith",
-  "author_url": "https://dev.to/magensmith"
+  "author_url": "https://dev.to/magensmith",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あなたは、2週間にわたって自分のタスクに取り組み、バグを修正し、機能を追加し、何百もの文章を書きました。",
+      "title": "テキストドキュメントの終わり！？👨💻👩💻"
+    },
+    {
+      "locale": "zh",
+      "description": "你已经在你的任务上工作了两个星期，修复了错误，增加了功能，编写了数百个和...",
+      "title": "文本文档的终结! 👨💻👩💻"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你已經在你的任務上工作了兩個星期，修復了錯誤，增加了功能，編寫了數百個和...",
+      "title": "文本文檔的終結! 👨💻👩💻"
+    }
+  ]
 }
