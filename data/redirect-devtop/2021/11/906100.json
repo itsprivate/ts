@@ -52,5 +52,22 @@
   "original_created_at": "2021-11-22T22:32:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_kFXhpK0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nb437lccmb08ij2qiutd.png",
   "author": "Colum Ferry",
-  "author_url": "https://dev.to/coly010"
+  "author_url": "https://dev.to/coly010",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "モダンなAngular Toolingとは？  Angular CLIには、もはや完全な...",
+      "title": "モダンなAngular"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是现代Angular工具？  随着Angular CLI不再包括一个完整的...",
+      "title": "现代化的Angular"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是現代Angular工具？  隨着Angular CLI不再包括一個完整的...",
+      "title": "現代化的Angular"
+    }
+  ]
 }
