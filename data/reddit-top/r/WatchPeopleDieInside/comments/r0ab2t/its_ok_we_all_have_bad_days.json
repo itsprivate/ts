@@ -66,5 +66,19 @@
     }
   },
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "大丈夫、誰にでも悪い日はあります。"
+    },
+    {
+      "locale": "zh",
+      "title": "没关系，我们都有坏日子。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "沒關係，我們都有壞日子。"
+    }
+  ]
 }
