@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "歌詞のない曲で一番ヒットするのは？"
+    },
+    {
+      "locale": "zh",
+      "title": "哪首没有歌词的歌曲最能打动人？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "哪首沒有歌詞的歌曲最能打動人？"
+    }
+  ]
 }
