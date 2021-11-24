@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "選んだ技術スタックに基づいてレスポンシブなナビゲーションを生成するウェブアプリを作ってみた"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个网络应用，可以根据你选择的技术栈生成响应式导航"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個網絡應用，可以根據你選擇的技術棧生成響應式導航"
+    }
+  ]
 }

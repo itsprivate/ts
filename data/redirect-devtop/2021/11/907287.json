@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-24T01:17:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CGLlTw7u--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/65srt5jy8rfffocel913.jpeg",
   "author": "All About Ishaan",
-  "author_url": "https://dev.to/allaboutishaan"
+  "author_url": "https://dev.to/allaboutishaan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "クリーンなコードとは、単に動くコードではなく、簡単に読めて、再利用できて、...",
+      "title": "クリーンなJavaScriptを書く - ES6版"
+    },
+    {
+      "locale": "zh",
+      "description": "干净的代码不仅仅是可以工作的代码，而是可以轻松阅读、重复使用和...",
+      "title": "编写简洁的JavaScript--ES6版"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "乾淨的代碼不僅僅是可以工作的代碼，而是可以輕鬆閱讀、重複使用和...",
+      "title": "編寫簡潔的JavaScript--ES6版"
+    }
+  ]
 }
