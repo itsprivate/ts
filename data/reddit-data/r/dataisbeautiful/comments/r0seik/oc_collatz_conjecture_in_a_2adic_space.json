@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] 2次元空間でのCollatz予想．"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC] 2adic空间中的Collatz猜想。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC] 2adic空間中的Collatz猜想。"
+    }
+  ]
 }
