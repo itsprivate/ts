@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-21T18:15:04Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cTAZVuyP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tcgnd7gy54s048og24lg.png",
   "author": "Saurabh Rai",
-  "author_url": "https://dev.to/srbhr"
+  "author_url": "https://dev.to/srbhr",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "シニア・プリンシパル・デベロッパーのKaran Singh氏が語る、ソフトウェアをレベルアップさせるレシピとは？",
+      "title": "GitHub ActionsとKubernetesでGitHubをレベルアップする、Red HatのSr.Principle Devに聞く "
+    },
+    {
+      "locale": "zh",
+      "description": "观看高级首席开发员卡兰-辛格（Karan Singh）谈论提升软件水平的秘诀。",
+      "title": "用GitHub Actions和Kubernetes提升你的GitHub水平，与Red Hat的高级开发经理交流 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "觀看高級首席開發員卡蘭-辛格（Karan Singh）談論提升軟件水平的祕訣。",
+      "title": "用GitHub Actions和Kubernetes提升你的GitHub水平，與Red Hat的高級開發經理交流 "
+    }
+  ]
 }
