@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Chrome DevToolsをAndroidに導入するためのスクリプトを書きました - どのサイトでも使えます。"
+    },
+    {
+      "locale": "zh",
+      "title": "我写了一个脚本，把Chrome DevTools带到了安卓上--在任何网站上都可以使用，摇动你的手机即可激活。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我寫了一個腳本，把Chrome DevTools帶到了安卓上--在任何網站上都可以使用，搖動你的手機即可激活。"
+    }
+  ]
 }
