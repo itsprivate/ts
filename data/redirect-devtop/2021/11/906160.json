@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-23T01:03:24Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3oQsxxF6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aicanlsaii30bulgabeq.jpg",
   "author": "Jeremy",
-  "author_url": "https://dev.to/jeremyling"
+  "author_url": "https://dev.to/jeremyling",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "初期状態 過去3年間の大半をVueで仕事をしてきたので、とても慣れていました。",
+      "title": "Vue出身者がReactを学ぶ際に苦労した5つのポイント"
+    },
+    {
+      "locale": "zh",
+      "description": "初始状态 在过去3年的大部分时间里，我都与Vue一起工作，我已经非常习惯了。",
+      "title": "我在以Vue为背景学习React时遇到的5个难题"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "初始狀態 在過去3年的大部分時間裏，我都與Vue一起工作，我已經非常習慣了。",
+      "title": "我在以Vue爲背景學習React時遇到的5個難題"
+    }
+  ]
 }
