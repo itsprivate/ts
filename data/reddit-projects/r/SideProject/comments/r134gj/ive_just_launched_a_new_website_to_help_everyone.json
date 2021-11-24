@@ -37,5 +37,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "I have just launched a new website, WeWork4Days [https://www.wework4days.com],\nto help everyone find the best work-life balance for them. It has been built\nwith React and Next.js to be fast, simple and clean.\n\nOn this site, you'll be able to find remote, hybrid or on-site jobs that offer a\n4 day…"
+  "the_new_excerpt": "I have just launched a new website, WeWork4Days [https://www.wework4days.com],\nto help everyone find the best work-life balance for them. It has been built\nwith React and Next.js to be fast, simple and clean.\n\nOn this site, you'll be able to find remote, hybrid or on-site jobs that offer a\n4 day…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "この度、新しいウェブサイト「WeWork4Days」[https://www.wework4days.com]を立ち上げました。\nこれは、すべての人が自分にとって最良のワークライフバランスを見つけられるようにするためのものです。このサイトは\nこのサイトは、ReactとNext.jsで構築されており、高速でシンプルかつクリーンなものになっています。\n\nこのサイトでは、リモート、ハイブリッド、オンサイトでの仕事を見つけることができます。\n4日...",
+      "title": "みんなが正しいワークライフバランスを見つけられるように、新しいウェブサイトを立ち上げました"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我刚刚推出了一个新网站，WeWork4Days[https://www.wework4days.com]。\n以帮助每个人找到最适合自己的工作和生活平衡。它是用React和Next.js建立的\n它是用React和Next.js构建的，快速、简单、干净。\n\n在这个网站上，你将能够找到远程、混合或现场工作，提供一个\n4天...",
+      "title": "我刚刚推出了一个新的网站，帮助大家找到工作和生活的正确平衡点"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我剛剛推出了一個新網站，WeWork4Days[https://www.wework4days.com]。\n以幫助每個人找到最適合自己的工作和生活平衡。它是用React和Next.js建立的\n它是用React和Next.js構建的，快速、簡單、乾淨。\n\n在這個網站上，你將能夠找到遠程、混合或現場工作，提供一個\n4天...",
+      "title": "我剛剛推出了一個新的網站，幫助大家找到工作和生活的正確平衡點"
+    }
+  ]
 }
