@@ -144,5 +144,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1637710347,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "*Insert Ticker Symbol Here*（ティッカーシンボルを挿入"
+    },
+    {
+      "locale": "zh",
+      "title": "*在此输入股票代码*。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "*在此輸入股票代碼*。"
+    }
+  ]
 }
