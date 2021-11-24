@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-23T10:58:12Z",
   "image": "https://dev.to/social_previews/article/906494.png",
   "author": "Sadee",
-  "author_url": "https://dev.to/codewithsadee"
+  "author_url": "https://dev.to/codewithsadee",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "htmlとcssだけでアニメーションコンテンツカードを作る方法 このビデオでは、アニメーションコンテンツカードを作る方法をご紹介します。",
+      "title": "HTML CSSによるコンテンツカードのアニメーション"
+    },
+    {
+      "locale": "zh",
+      "description": "如何只用html和css创建动画内容卡 在这个视频中，我将向你展示如何创建动画内容卡。",
+      "title": "使用HTML CSS的动画内容卡"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如何只用html和css創建動畫內容卡 在這個視頻中，我將向你展示如何創建動畫內容卡。",
+      "title": "使用HTML CSS的動畫內容卡"
+    }
+  ]
 }
