@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-22T06:35:03Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--giKB_Ak7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e799pdkbc4rtcfy0u7ad.jpg",
   "author": "Alex Devero",
-  "author_url": "https://dev.to/alexdevero"
+  "author_url": "https://dev.to/alexdevero",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "イミュータブルなJavaScriptを書くという考え方が広まってきています。プリミティブなデータ型の...",
+      "title": "ネイティブ流のJavaScriptによる不変の配列とオブジェクト"
+    },
+    {
+      "locale": "zh",
+      "description": "编写不可变的JavaScript的想法正变得越来越流行。原始的数据类型在...",
+      "title": "熟悉JavaScript中的不可变数组和对象，本土化的方式"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "編寫不可變的JavaScript的想法正變得越來越流行。原始的數據類型在...",
+      "title": "熟悉JavaScript中的不可變數組和對象，本土化的方式"
+    }
+  ]
 }
