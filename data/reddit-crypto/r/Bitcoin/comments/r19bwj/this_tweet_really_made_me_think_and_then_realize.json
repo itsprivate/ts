@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このツイートを見て本当に考えさせられました。そして、ビットコインは私たちが最初に所有できるものだと気づきました。"
+    },
+    {
+      "locale": "zh",
+      "title": "这条推文真的让我思考，然后意识到，比特币是我们可以拥有的第一个东西。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這條推文真的讓我思考，然後意識到，比特幣是我們可以擁有的第一個東西。"
+    }
+  ]
 }
