@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "お金が来た"
+    },
+    {
+      "locale": "zh",
+      "title": "钱来了"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "錢來了"
+    }
+  ]
 }
