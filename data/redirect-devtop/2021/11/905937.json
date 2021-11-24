@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-22T19:39:34Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--I6H_IXp6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n42btg8jqqoyqv3oj0nm.png",
   "author": "Jose",
-  "author_url": "https://dev.to/josec"
+  "author_url": "https://dev.to/josec",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "useEffectとは？ useEffectは、reactのビルトインフックで、コードを実行することで...",
+      "title": "React - useEffectフック - クイックガイド"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是useEffect？ useEffect是一个react的内置钩子，它允许我们运行代码在...",
+      "title": "React - useEffect挂钩 - 快速指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是useEffect？ useEffect是一個react的內置鉤子，它允許我們運行代碼在...",
+      "title": "React - useEffect掛鉤 - 快速指南"
+    }
+  ]
 }
