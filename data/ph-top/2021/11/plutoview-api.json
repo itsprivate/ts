@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-24T08:01:00Z"
+  "original_createdAt": "2021-11-24T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Plutoview APIは、共有可能な検索エンジンのようなコラボレーション環境を、大規模なリモート・ワークスペースにもたらします。仮想Firefoxなどの仮想アプリケーションを何百、何千と同時にホストすることができます。",
+      "tagline": "コラボレーション型メタヴァースのためのビルディングブロック"
+    },
+    {
+      "locale": "zh",
+      "description": "Plutoview API将协作环境，如可共享的搜索引擎，大规模地引入远程工作空间。同时托管成百上千的虚拟应用程序，如虚拟火狐。",
+      "tagline": "协作性Metaverse的构建块"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Plutoview API將協作環境，如可共享的搜索引擎，大規模地引入遠程工作空間。同時託管成百上千的虛擬應用程序，如虛擬火狐。",
+      "tagline": "協作性Metaverse的構建塊"
+    }
+  ]
 }
