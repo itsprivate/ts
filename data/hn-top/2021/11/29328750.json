@@ -13,5 +13,19 @@
   ],
   "objectID": "29328750",
   "original_created_at": "2021-11-24T10:51:13.000Z",
-  "image": "https://phoboslab.org/content/assets/qoi-sample.png"
+  "image": "https://phoboslab.org/content/assets/qoi-sample.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "QOI: O(n)時間でのロスレス画像圧縮"
+    },
+    {
+      "locale": "zh",
+      "title": "QOI：以O(n)时间进行无损图像压缩"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "QOI：以O(n)時間進行無損圖像壓縮"
+    }
+  ]
 }
