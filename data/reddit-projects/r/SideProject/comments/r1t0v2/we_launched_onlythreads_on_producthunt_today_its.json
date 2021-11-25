@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "🎉 本日、ProductHuntでOnlyThreadsの提供を開始しました。これは、Slackでの物忘れを二度としないための、無料のSlackアドオンです。"
+    },
+    {
+      "locale": "zh",
+      "title": "我们今天在ProductHunt上推出了OnlyThreads。这是一个免费的Slack插件，帮助你在Slack中不再丢失任何东西。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們今天在ProductHunt上推出了OnlyThreads。這是一個免費的Slack插件，幫助你在Slack中不再丟失任何東西。"
+    }
+  ]
 }
