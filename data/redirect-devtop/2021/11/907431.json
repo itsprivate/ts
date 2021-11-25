@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-24T06:50:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MGCQ8jMP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zj3tpeji12wpk40sqolr.jpg",
   "author": "Swastik Yadav",
-  "author_url": "https://dev.to/swastikyadav"
+  "author_url": "https://dev.to/swastikyadav",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは。この記事では、JavaScriptのオブジェクト指向プログラミングパラダイムについてご紹介します。....",
+      "title": "JavaScriptのOOPsパラダイムを理解する。"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，在这篇文章中，我们将探讨JavaScript中的面向对象编程范式....。",
+      "title": "了解JavaScript中的OOPs范式。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，在這篇文章中，我們將探討JavaScript中的面向對象編程範式....。",
+      "title": "瞭解JavaScript中的OOPs範式。"
+    }
+  ]
 }
