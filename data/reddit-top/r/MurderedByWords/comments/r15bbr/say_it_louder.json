@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もっと大きな声で言ってください"
+    },
+    {
+      "locale": "zh",
+      "title": "大声点说吧!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "大聲點說吧!"
+    }
+  ]
 }
