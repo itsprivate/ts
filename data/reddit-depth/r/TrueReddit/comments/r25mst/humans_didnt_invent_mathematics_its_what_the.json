@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "人類は数学を発明したのではなく、世界は数学でできている"
+    },
+    {
+      "locale": "zh",
+      "title": "人类没有发明数学，它是世界的产物"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "人類沒有發明數學，它是世界的產物"
+    }
+  ]
 }
