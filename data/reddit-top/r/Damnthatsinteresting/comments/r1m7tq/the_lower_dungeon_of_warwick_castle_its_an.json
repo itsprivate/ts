@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ワーウィック城の下段のダンジョン。囚人が落とされ、忘れ去られていた「オブリエット」だ"
+    },
+    {
+      "locale": "zh",
+      "title": "沃里克城堡的下层地牢。这是一个'oubliette'，囚犯被丢在那里，被遗忘在那里。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "沃裏克城堡的下層地牢。這是一個'oubliette'，囚犯被丟在那裏，被遺忘在那裏。"
+    }
+  ]
 }
