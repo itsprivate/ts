@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "インスタグラムのリンクインビオのプラットフォームに加え、URL短縮サービスを作ってみた"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个Instagram的io中链接平台，外加一个URL缩短器服务"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個Instagram的io中鏈接平臺，外加一個URL縮短器服務"
+    }
+  ]
 }
