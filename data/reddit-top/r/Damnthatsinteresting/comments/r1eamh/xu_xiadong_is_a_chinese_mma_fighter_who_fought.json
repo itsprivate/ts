@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Xu Xiadongは、中国のMMAファイターで、偽のカンフーマスターを暴くために大陸を転戦しました。"
+    },
+    {
+      "locale": "zh",
+      "title": "徐霞客是中国的综合格斗选手，在大陆各地打拼，揭露假功夫的高手。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "徐霞客是中國的綜合格鬥選手，在大陸各地打拼，揭露假功夫的高手。"
+    }
+  ]
 }
