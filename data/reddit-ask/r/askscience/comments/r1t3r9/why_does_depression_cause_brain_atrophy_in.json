@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Is it reversible?"
+  "the_new_excerpt": "Is it reversible?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "リバーシブルですか？",
+      "title": "うつ病になると、なぜ特定の部位の脳が萎縮するのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "它是可逆的吗？",
+      "title": "为什么抑郁症会导致某些区域的大脑萎缩？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "它是可逆的嗎？",
+      "title": "爲什麼抑鬱症會導致某些區域的大腦萎縮？"
+    }
+  ]
 }
