@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-24T23:01:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--caUn5_Tz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rz3tlmv83tcq3h4p7n8w.png",
   "author": "Maxim Wheatley",
-  "author_url": "https://dev.to/maximwheatley"
+  "author_url": "https://dev.to/maximwheatley",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "やあ、デヴの友人たちよ。恥知らずな宣伝をお許しください。私は自分のチームメイトをとても誇りに思っており、共有したいと思っています。",
+      "title": "オープンソースのDevOpsダッシュボード"
+    },
+    {
+      "locale": "zh",
+      "description": "嗨，开发部的朋友们！我是一个很好的朋友。请原谅我无耻的宣传，我为我的队友们感到骄傲，并想分享，...",
+      "title": "开源的DevOps仪表板"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嗨，開發部的朋友們！我是一個很好的朋友。請原諒我無恥的宣傳，我爲我的隊友們感到驕傲，並想分享，...",
+      "title": "開源的DevOps儀表板"
+    }
+  ]
 }
