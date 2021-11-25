@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-22T18:05:54Z",
   "image": "https://dev.to/social_previews/article/905848.png",
   "author": "Mike Levan",
-  "author_url": "https://dev.to/thenjdevopsguy"
+  "author_url": "https://dev.to/thenjdevopsguy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今日のテクノロジーの世界では、その速さを実感しています。",
+      "title": "DevOpsとSREに参入するために必要なこと"
+    },
+    {
+      "locale": "zh",
+      "description": "在当今世界的整个技术领域中，人们看到和感受到的是如何快速地...",
+      "title": "闯入DevOps和SRE需要什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在當今世界的整個技術領域中，人們看到和感受到的是如何快速地...",
+      "title": "闖入DevOps和SRE需要什麼？"
+    }
+  ]
 }
