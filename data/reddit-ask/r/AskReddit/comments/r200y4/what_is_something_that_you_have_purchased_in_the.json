@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "過去に購入したものの、その後一度も使っていないものはありますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "什么东西是你过去购买的，但此后一次也没有使用过？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "什麼東西是你過去購買的，但此後一次也沒有使用過？"
+    }
+  ]
 }
