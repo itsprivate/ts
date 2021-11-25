@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-24T13:03:41Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xX7d7m2b--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cb033h9s69dmw79jfwme.jpg",
   "author": "Alex Omeyer",
-  "author_url": "https://dev.to/alexomeyer"
+  "author_url": "https://dev.to/alexomeyer",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あなたは、開発初心者、コーディングアカデミー受講者、新卒者かもしれません。あるいは、年老いて皮肉屋になっているかもしれませんが...。",
+      "title": "ソフトウェア・エンジニアリングのベストプラクティスと保存するための最高のリソース🚀。"
+    },
+    {
+      "locale": "zh",
+      "description": "也许你是一个新手开发者，在一个编码学院，或者刚毕业。也可能你已经老了，并且愤世嫉俗......",
+      "title": "软件工程的最佳实践+节省的最佳资源🚀"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "也許你是一個新手開發者，在一個編碼學院，或者剛畢業。也可能你已經老了，並且憤世嫉俗......",
+      "title": "軟件工程的最佳實踐+節省的最佳資源🚀"
+    }
+  ]
 }
