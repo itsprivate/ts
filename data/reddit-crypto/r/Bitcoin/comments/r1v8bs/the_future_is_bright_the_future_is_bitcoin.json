@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "未来は明るい、未来はBitcoin"
+    },
+    {
+      "locale": "zh",
+      "title": "未来是光明的，未来是比特币的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "未來是光明的，未來是比特幣的。"
+    }
+  ]
 }
