@@ -82,5 +82,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-24T08:01:00Z"
+  "original_createdAt": "2021-11-24T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Equinoxは、macOSのダイナミックな壁紙を作成するためのアプリです。macOS Mojaveでは、「ダイナミックデスクトップ」や「ライト＆ダークデスクトップ」などのクールな壁紙が用意されています。Equinoxアプリを使えば、数回のクリックで簡単にそれらの壁紙を作成することができます。",
+      "tagline": "macOS用のダイナミックな壁紙を作成"
+    },
+    {
+      "locale": "zh",
+      "description": "Equinox是一款用于创建macOS动态壁纸的应用程序。从macOS Mojave开始，我们有了诸如 \"动态桌面\"、\"明暗桌面 \"类型的壁纸等很酷的东西。在Equinox应用程序的帮助下，你只需点击几下就可以轻松创建这些壁纸。",
+      "tagline": "为MacOS创建动态墙纸"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Equinox是一款用於創建macOS動態壁紙的應用程序。從macOS Mojave開始，我們有了諸如 \"動態桌面\"、\"明暗桌面 \"類型的壁紙等很酷的東西。在Equinox應用程序的幫助下，你只需點擊幾下就可以輕鬆創建這些壁紙。",
+      "tagline": "爲MacOS創建動態牆紙"
+    }
+  ]
 }
