@@ -43,5 +43,22 @@
   "original_created_at": "2021-11-23T18:10:24Z",
   "image": "https://dev.to/social_previews/article/907046.png",
   "author": "Karson Kalt",
-  "author_url": "https://dev.to/karsonkalt"
+  "author_url": "https://dev.to/karsonkalt",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Memoizationとは？  Memoizationとは、効果的なアルゴリズムを設計するためのアプローチで、...",
+      "title": "JavaScriptのメモライゼーションとクロージャを用いた効率的なアルゴリズムの構築"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是记忆化？  Memoization是一种通过设计有效算法的方法。",
+      "title": "在JavaScript中使用记忆化和闭包构建高效算法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是記憶化？  Memoization是一種通過設計有效算法的方法。",
+      "title": "在JavaScript中使用記憶化和閉包構建高效算法"
+    }
+  ]
 }
