@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] 都市の自動生成。オープンデータからの構築（パリ）"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC] 自动城市生成。从开放数据中构建（巴黎）"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC] 自動城市生成。從開放數據中構建（巴黎）"
+    }
+  ]
 }
