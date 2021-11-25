@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-23T06:32:08Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cUzfAdU_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iavbig98vwpirzx1nu6e.jpg",
   "author": "Yatharth Nigam",
-  "author_url": "https://dev.to/yatharthnigam"
+  "author_url": "https://dev.to/yatharthnigam",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに ReactとMaterial UIを使ったプロジェクトを進めていました。このプロジェクトでは、...",
+      "title": "ReactでAxiosを使用してAPIリクエストを行う"
+    },
+    {
+      "locale": "zh",
+      "description": "简介：我正在做一个使用React和Material UI的项目。在这个项目中，我的目标是：\"在这个项目中，我的目标是：\"在这个项目中，我的目标是：\"在这个项目中，我的目标是：",
+      "title": "用Axios和React来进行API请求"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介：我正在做一個使用React和Material UI的項目。在這個項目中，我的目標是：\"在這個項目中，我的目標是：\"在這個項目中，我的目標是：\"在這個項目中，我的目標是：",
+      "title": "用Axios和React來進行API請求"
+    }
+  ]
 }
