@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "SUMMARY\n\nThis proposal is for sorting comments by newest first after a post is submitted.\nThe intended goal is to level the playing field between early bird low-effort\ncomments and more meaningful high-effort comments by limiting visibility for the\nformer.\n\n\nPROBLEM STATEMENT\n\nAfter a post is…"
+  "the_new_excerpt": "SUMMARY\n\nThis proposal is for sorting comments by newest first after a post is submitted.\nThe intended goal is to level the playing field between early bird low-effort\ncomments and more meaningful high-effort comments by limiting visibility for the\nformer.\n\n\nPROBLEM STATEMENT\n\nAfter a post is…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "概要\n\nこの提案は、投稿後にコメントを新しいものから順に並べるものです。\n意図した目的は、早い者勝ちで労力のかからないコメントと、意味のあるコメントとの間の競争条件を平準化することです。\nコメントの可視性を制限することで、早い者勝ちの低努力コメントと、意味のある高努力コメントの\n前者の可視性を制限することで、早起きの低労力コメントと意味のある高労力コメントの間の競争を公平にすることです。\n\n\n問題提起\n\n投稿された後...",
+      "title": "CCIP-021 - 投稿されたコメントを一時的に新しい順に並べ替える。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "摘要\n\n这个建议是为了在帖子提交后，按最新的先进行分类。\n其目的是为了在早起的低努力的评论和更有意义的高努力的评论之间建立公平的竞争环境。\n的评论和更有意义的高努力的评论之间的公平竞争，限制前者的可见度。\n前者。\n\n\n问题陈述\n\n在一个帖子提交后...",
+      "title": "CCIP-021 - 在帖子提交后，暂时按最新的评论排序。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "摘要\n\n這個建議是爲了在帖子提交後，按最新的先進行分類。\n其目的是爲了在早起的低努力的評論和更有意義的高努力的評論之間建立公平的競爭環境。\n的評論和更有意義的高努力的評論之間的公平競爭，限制前者的可見度。\n前者。\n\n\n問題陳述\n\n在一個帖子提交後...",
+      "title": "CCIP-021 - 在帖子提交後，暫時按最新的評論排序。"
+    }
+  ]
 }
