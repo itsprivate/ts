@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] 太陽周期の3次元曲面図"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]太阳周期三维表面图"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]太陽週期三維表面圖"
+    }
+  ]
 }
