@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Vanify - カジュアルなソーシャルネットワーク"
+    },
+    {
+      "locale": "zh",
+      "title": "Vanify - 休闲社交网络"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Vanify - 休閒社交網絡"
+    }
+  ]
 }
