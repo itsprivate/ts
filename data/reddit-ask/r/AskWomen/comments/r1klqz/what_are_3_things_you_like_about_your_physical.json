@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "自分の外見で気に入っているところを3つ教えてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "你喜欢自己身体外表的哪三点？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你喜歡自己身體外表的哪三點？"
+    }
+  ]
 }

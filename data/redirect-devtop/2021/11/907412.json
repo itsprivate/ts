@@ -50,5 +50,22 @@
   "original_created_at": "2021-11-24T06:03:57Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_SCyoKQz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nu1vuucpfvhkblml2af2.jpeg",
   "author": "DhiWise",
-  "author_url": "https://dev.to/dhiwise"
+  "author_url": "https://dev.to/dhiwise",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "概要 ここでは、20以上のデザインパターンの説明をjavascriptで行っています。今回はその中から",
+      "title": "高度なJavascriptデザインパターン"
+    },
+    {
+      "locale": "zh",
+      "description": "概述 我在这里介绍了20多个javascript设计模式的解释。我们将...",
+      "title": "先进的Javascript设计模式"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "概述 我在這裏介紹了20多個javascript設計模式的解釋。我們將...",
+      "title": "先進的Javascript設計模式"
+    }
+  ]
 }

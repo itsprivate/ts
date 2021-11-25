@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "インドは、資産クラスとしてのビットコインを禁止する計画はありません。決済手段としてのみ（自国のCBDCを守るため）。"
+    },
+    {
+      "locale": "zh",
+      "title": "印度没有计划禁止比特币作为一种资产类别。只是作为支付方式（保护他们的CBDC）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "印度沒有計劃禁止比特幣作爲一種資產類別。只是作爲支付方式（保護他們的CBDC）。"
+    }
+  ]
 }
