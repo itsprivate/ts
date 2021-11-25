@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-23T12:29:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Jy8BibYr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/avqp5f6an0dtrgxr06km.png",
   "author": "Avneesh Agarwal",
-  "author_url": "https://dev.to/avneesh0612"
+  "author_url": "https://dev.to/avneesh0612",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "アプリケーションを作っていると、Arrayをよく使うことに気がつきます。ここでは、そんな配列についてご紹介します。",
+      "title": "知っておきたい、JavaScriptのArrayメソッド5選"
+    },
+    {
+      "locale": "zh",
+      "description": "在构建应用程序时，你会注意到自己经常使用数组。所以让我们来看看...",
+      "title": "你需要知道的5个JavaScript阵列方法!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在構建應用程序時，你會注意到自己經常使用數組。所以讓我們來看看...",
+      "title": "你需要知道的5個JavaScript陣列方法!"
+    }
+  ]
 }
