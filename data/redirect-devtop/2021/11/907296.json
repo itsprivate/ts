@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-24T02:11:12Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--f3P1l52r--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ls6847wivld8yp3f9jeb.png",
   "author": "Alex E",
-  "author_url": "https://dev.to/alexeagleson"
+  "author_url": "https://dev.to/alexeagleson",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このプロジェクトをフォークしたい方は、コードとチュートリアルをGithubで公開しています。 もしあなたが...",
+      "title": "IndexedDBを使ってWebアプリのローカルデータを保存する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你想分叉这个项目，代码和教程可以在Github上找到。 如果你是...",
+      "title": "如何使用IndexedDB来为你的网络应用程序存储本地数据"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你想分叉這個項目，代碼和教程可以在Github上找到。 如果你是...",
+      "title": "如何使用IndexedDB來爲你的網絡應用程序存儲本地數據"
+    }
+  ]
 }
