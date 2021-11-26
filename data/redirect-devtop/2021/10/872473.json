@@ -50,5 +50,22 @@
   "original_created_at": "2021-10-22T13:08:25Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Oygp-4Hm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3gdozwnq7c7dk8f7yzj6.jpg",
   "author": "Adit Modi",
-  "author_url": "https://dev.to/aditmodi"
+  "author_url": "https://dev.to/aditmodi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "従来のストレージメーカーは、クラウドが自社のビジネスに与える影響について語りたがらないが、...",
+      "title": "AWSによるストレージの紹介"
+    },
+    {
+      "locale": "zh",
+      "description": "尽管传统的存储企业已经厌倦了谈论云对其业务的影响，但...",
+      "title": "使用AWS的存储介绍"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "儘管傳統的存儲企業已經厭倦了談論雲對其業務的影響，但...",
+      "title": "使用AWS的存儲介紹"
+    }
+  ]
 }
