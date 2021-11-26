@@ -52,5 +52,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "https://finance.yahoo.com/news/singapore-approves-bitcoin-fund-trades-143736863.html"
+  "the_new_excerpt": "https://finance.yahoo.com/news/singapore-approves-bitcoin-fund-trades-143736863.html",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "https://finance.yahoo.com/news/singapore-approves-bitcoin-fund-trades-143736863.html",
+      "title": "シンガポール、現物のBTCを取引するビットコイン・ファンドを承認"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "https://finance.yahoo.com/news/singapore-approves-bitcoin-fund-trades-143736863.html",
+      "title": "新加坡批准交易实物BTC的比特币基金"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "https://finance.yahoo.com/news/singapore-approves-bitcoin-fund-trades-143736863.html",
+      "title": "新加坡批准交易實物BTC的比特幣基金"
+    }
+  ]
 }
