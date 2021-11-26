@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-26T05:32:10Z",
   "image": "https://dev.to/social_previews/article/909507.png",
   "author": "Junaid",
-  "author_url": "https://dev.to/__junaidshah"
+  "author_url": "https://dev.to/__junaidshah",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Javasciptは素晴らしい言語であり、今日の世界のすべてのウェブ開発者は...と信じています。",
+      "title": "JSのインタビュー質問"
+    },
+    {
+      "locale": "zh",
+      "description": "Javascipt是一种伟大的语言，我相信当今世界的每一个网络开发人员都应该...",
+      "title": "JS的面试问题"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Javascipt是一種偉大的語言，我相信當今世界的每一個網絡開發人員都應該...",
+      "title": "JS的面試問題"
+    }
+  ]
 }
