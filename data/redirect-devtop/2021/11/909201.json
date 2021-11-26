@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-25T19:08:33Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QFSRWYbY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ds01f13g2cts62zgdhv3.png",
   "author": "Jaakko",
-  "author_url": "https://dev.to/bjakyt"
+  "author_url": "https://dev.to/bjakyt",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ユーザーインターフェースとAPIで構成されるアプリケーションを構築するとしたら、どのような技術...",
+      "title": "次のWebプロジェクトでは、どの技術を選択しますか？"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你正在建立一个由用户界面和API组成的应用程序，什么技术...",
+      "title": "你会为你的下一个网络项目选择哪些技术？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你正在建立一個由用戶界面和API組成的應用程序，什麼技術...",
+      "title": "你會爲你的下一個網絡項目選擇哪些技術？"
+    }
+  ]
 }
