@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "It's not connected to anything but is (static?) clinging to the \"nut\"/legume\nitself, it must have dried off of something?"
+  "the_new_excerpt": "It's not connected to anything but is (static?) clinging to the \"nut\"/legume\nitself, it must have dried off of something?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "何かに接続されているわけではなく、\"ナッツ \"や \"マメ \"にまとわりついている（静的に？\nが付着しているので、何かから乾燥したのでは？",
+      "title": "ピーナッツの殻の中にある乾いた紙のような層は、何のためにあるのですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "它没有连接到任何东西上，而是（静电？\n它本身，它一定是从什么东西上干下来的？",
+      "title": "花生壳内干燥的纸质层是什么，它有什么作用？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "它沒有連接到任何東西上，而是（靜電？\n它本身，它一定是從什麼東西上幹下來的？",
+      "title": "花生殼內乾燥的紙質層是什麼，它有什麼作用？"
+    }
+  ]
 }
