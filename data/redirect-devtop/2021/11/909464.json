@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-26T02:29:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qwAGU-B0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zh3zyrwgl9wlh9z7emli.jpg",
   "author": "All About Ishaan",
-  "author_url": "https://dev.to/allaboutishaan"
+  "author_url": "https://dev.to/allaboutishaan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Notionは最近かなり人気があり、私も2年ほど前から持っています。試行錯誤していますが...。",
+      "title": "プログラミング学習時のNotionの使い方"
+    },
+    {
+      "locale": "zh",
+      "description": "Notion最近很流行，我已经用了将近2年了。我一直在试验...",
+      "title": "我如何在学习编程时使用Notion"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Notion最近很流行，我已經用了將近2年了。我一直在試驗...",
+      "title": "我如何在學習編程時使用Notion"
+    }
+  ]
 }
