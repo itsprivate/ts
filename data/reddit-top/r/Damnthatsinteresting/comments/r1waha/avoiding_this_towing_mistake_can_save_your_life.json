@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの命を守るために、このような失敗は避けてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "避免这种拖车错误可以拯救你的生命"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "避免這種拖車錯誤可以拯救你的生命"
+    }
+  ]
 }
