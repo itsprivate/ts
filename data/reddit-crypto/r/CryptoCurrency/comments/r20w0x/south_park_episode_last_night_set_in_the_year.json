@@ -4,7 +4,7 @@
   "title": "South Park episode last night set in the year 2040 : We only take Bitcoin",
   "created_utc": 1637888285,
   "selftext_html": null,
-  "score": 262,
+  "score": 276,
   "preview": {
     "images": [
       {
@@ -41,22 +41,22 @@
   "id": "r20w0x",
   "is_self": false,
   "media": {
-    "type": "youtube.com",
     "oembed": {
       "provider_url": "https://www.youtube.com/",
-      "version": "1.0",
       "title": "South Park: The year is 2040. We only take Bitcoin",
-      "type": "video",
+      "html": "<iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/ozOdhFcEbCg?feature=oembed&enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "thumbnail_width": 480,
       "height": 200,
       "width": 356,
-      "html": "<iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/ozOdhFcEbCg?feature=oembed&enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "version": "1.0",
       "author_name": "La Tang",
       "provider_name": "YouTube",
       "thumbnail_url": "https://i.ytimg.com/vi/ozOdhFcEbCg/hqdefault.jpg",
+      "type": "video",
       "thumbnail_height": 360,
       "author_url": "https://www.youtube.com/channel/UCgjwQ1CtL_7_DdKxL5ak6ig"
-    }
+    },
+    "type": "youtube.com"
   },
   "is_video": false,
   "the_new_excerpt": "",
