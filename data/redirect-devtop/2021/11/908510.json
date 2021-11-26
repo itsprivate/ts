@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-25T06:05:45Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4bGpov_N--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8xnyt7kvknywlhu0uwmc.png",
   "author": "Rohidul Islam",
-  "author_url": "https://dev.to/rohidhub"
+  "author_url": "https://dev.to/rohidhub",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ここでは何が取り上げられるのでしょうか？  10個の必須のVisual Studio Code拡張機能について説明しています。",
+      "title": "ReactのためのVSCode拡張機能トップ10"
+    },
+    {
+      "locale": "zh",
+      "description": "这里将涵盖哪些内容？  我们将涵盖10个基本的visual studio代码扩展...",
+      "title": "十大VSCode Extensions for React"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這裏將涵蓋哪些內容？  我們將涵蓋10個基本的visual studio代碼擴展...",
+      "title": "十大VSCode Extensions for React"
+    }
+  ]
 }
