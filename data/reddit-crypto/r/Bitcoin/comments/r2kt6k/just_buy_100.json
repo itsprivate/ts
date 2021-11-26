@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "100ドルを買うだけ"
+    },
+    {
+      "locale": "zh",
+      "title": "只需购买100美元"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "只需購買100美元"
+    }
+  ]
 }
