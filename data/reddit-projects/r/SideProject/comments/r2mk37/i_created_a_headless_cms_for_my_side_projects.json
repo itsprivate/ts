@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "サイドプロジェクトのためにヘッドレスCMSを作った"
+    },
+    {
+      "locale": "zh",
+      "title": "我为我的副业项目创建了一个无头CMS"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我爲我的副業項目創建了一個無頭CMS"
+    }
+  ]
 }
