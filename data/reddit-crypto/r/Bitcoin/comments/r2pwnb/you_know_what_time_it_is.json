@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今何時なのか"
+    },
+    {
+      "locale": "zh",
+      "title": "你知道现在是什么时候"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你知道現在是什麼時候"
+    }
+  ]
 }
