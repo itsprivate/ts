@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-24T18:37:24Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FJR5Hy6c--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/80t0m2gepf4ghboixxg8.jpeg",
   "author": "Amy Oulton",
-  "author_url": "https://dev.to/amyoulton"
+  "author_url": "https://dev.to/amyoulton",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事は私がCodeCastのために書いたものです。  もし、あなたがこの世界に足を踏み入れたばかりならば...。",
+      "title": "コーディング用語の基本を理解する。業界の基本✏️。"
+    },
+    {
+      "locale": "zh",
+      "description": "这篇文章最初是由我为CodeCast写的。  如果你刚开始进入这个世界...",
+      "title": "了解基本的编码术语。行业基础知识 ✏️"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這篇文章最初是由我爲CodeCast寫的。  如果你剛開始進入這個世界...",
+      "title": "瞭解基本的編碼術語。行業基礎知識 ✏️"
+    }
+  ]
 }
