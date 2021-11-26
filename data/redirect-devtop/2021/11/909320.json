@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-25T20:21:13Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tSd5dO_k--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ezd3br47yhpdzxzi92z4.png",
   "author": "Serge Jabo Byusa",
-  "author_url": "https://dev.to/byusa"
+  "author_url": "https://dev.to/byusa",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reduxは、人気の高いReactおよびReact Nativeの状態管理ライブラリです。ここでは、Reduxのすべてのコンポーネントを...",
+      "title": "1ページでReact Reduxをゼロから理解する "
+    },
+    {
+      "locale": "zh",
+      "description": "Redux是一个流行的React和React Native状态管理库。这里是Redux的所有组件。",
+      "title": "在一页纸上从头开始了解React Redux "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Redux是一個流行的React和React Native狀態管理庫。這裏是Redux的所有組件。",
+      "title": "在一頁紙上從頭開始瞭解React Redux "
+    }
+  ]
 }
