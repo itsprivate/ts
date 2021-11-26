@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Lets go"
+    },
+    {
+      "locale": "zh",
+      "title": "我们走吧"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們走吧"
+    }
+  ]
 }
