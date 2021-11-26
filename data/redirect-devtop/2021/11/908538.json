@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-25T07:01:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--n8bmH_Xc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/txwj8wdjnowig11vbyf8.png",
   "author": "Siddharth",
-  "author_url": "https://dev.to/siddharthshyniben"
+  "author_url": "https://dev.to/siddharthshyniben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ドラッグ＆ドロップは、プロセスの大部分を簡略化することができるため、アプリケーションにおいて非常に便利なツールです。",
+      "title": "🚀 わずか16行のJavaScriptで強力なドラッグ＆ドロップを実装しています。"
+    },
+    {
+      "locale": "zh",
+      "description": "拖放是应用程序中一个非常有用的工具，因为它可以简化很大一部分过程...",
+      "title": "🚀 仅用16行的JavaScript就能实现强大的拖放功能"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "拖放是應用程序中一個非常有用的工具，因爲它可以簡化很大一部分過程...",
+      "title": "🚀 僅用16行的JavaScript就能實現強大的拖放功能"
+    }
+  ]
 }
