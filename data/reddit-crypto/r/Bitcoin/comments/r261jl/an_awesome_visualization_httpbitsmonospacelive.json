@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "素晴らしいビジュアライゼーション - http://bits.monospace.live"
+    },
+    {
+      "locale": "zh",
+      "title": "一个令人敬畏的视觉化 - http://bits.monospace.live"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個令人敬畏的視覺化 - http://bits.monospace.live"
+    }
+  ]
 }
