@@ -35,5 +35,22 @@
   "original_created_at": "2021-11-24T18:58:52Z",
   "image": "https://dev.to/social_previews/article/908165.png",
   "author": "Hrn Svncハルン Харун Севиндж",
-  "author_url": "https://dev.to/harsvnc"
+  "author_url": "https://dev.to/harsvnc",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コードの行数が多い巨大なファイルを持っていて、そのファイルからジャンプして...という状況を知っていますか？",
+      "title": "時間を大幅に節約できたVisual Studio Code Lifehack!"
+    },
+    {
+      "locale": "zh",
+      "description": "你是否知道这种情况，当你有一个巨大的文件，其中有很多行的VS代码，你从...",
+      "title": "Visual Studio Code Lifehack，为我节省了大量的时间!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你是否知道這種情況，當你有一個巨大的文件，其中有很多行的VS代碼，你從...",
+      "title": "Visual Studio Code Lifehack，爲我節省了大量的時間!"
+    }
+  ]
 }
