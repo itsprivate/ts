@@ -52,5 +52,22 @@
   "original_created_at": "2021-11-25T12:57:58Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tAtMUnS2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/47klimidb875xrcso17i.png",
   "author": "Pramit Marattha",
-  "author_url": "https://dev.to/pramit_armpit"
+  "author_url": "https://dev.to/pramit_armpit",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このブログのチュートリアルでは、...を使ってフルスタックのノートブック・アプリケーションを設定し、構築することにします。",
+      "title": "ReactとFirebaseを使ってフルスタックのノートブックアプリを作る "
+    },
+    {
+      "locale": "zh",
+      "description": "在这个博客教程中，我们将使用 \"S \"来设置和构建全栈的笔记本应用程序。",
+      "title": "使用React和Firebase构建一个全栈式的笔记本应用程序 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這個博客教程中，我們將使用 \"S \"來設置和構建全棧的筆記本應用程序。",
+      "title": "使用React和Firebase構建一個全棧式的筆記本應用程序 "
+    }
+  ]
 }
