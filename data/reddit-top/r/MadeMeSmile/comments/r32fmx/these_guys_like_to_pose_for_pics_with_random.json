@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この人たちは、公共の場で不特定多数の人と写真を撮るのが好きなんだ。"
+    },
+    {
+      "locale": "zh",
+      "title": "这些人喜欢在公共场合与随机的人合影留念。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這些人喜歡在公共場合與隨機的人合影留念。"
+    }
+  ]
 }

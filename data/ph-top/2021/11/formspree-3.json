@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-27T08:01:00Z"
+  "original_createdAt": "2021-11-27T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "独自のフロントエンドコードを使用します。私たちのAPIに送信してください。あとは私たちにお任せください。思い通りのフォームを構築 パワフルなJavaScriptフォーム シンプルなHTMLフォーム Formbutton - 簡単なポップアップフォーム 50万人以上のフリーランサー、代理店、Fortune 500企業から信頼を得ています。",
+      "tagline": "あらゆる開発者のためのフォームソリューション"
+    },
+    {
+      "locale": "zh",
+      "description": "使用你自己的前台代码。提交给我们的API。我们会处理剩下的事情。用你的方式构建表单 强大的JavaScript表单 简单的HTML表单 Formbutton - 简单的弹出式表单 被50万以上的自由职业者、机构和财富500强公司所信任",
+      "tagline": "适用于任何开发者的表单解决方案"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用你自己的前臺代碼。提交給我們的API。我們會處理剩下的事情。用你的方式構建表單 強大的JavaScript表單 簡單的HTML表單 Formbutton - 簡單的彈出式表單 被50萬以上的自由職業者、機構和財富500強公司所信任",
+      "tagline": "適用於任何開發者的表單解決方案"
+    }
+  ]
 }
