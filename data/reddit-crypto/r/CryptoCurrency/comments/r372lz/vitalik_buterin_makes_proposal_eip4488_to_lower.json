@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Vitalik Buterin氏、Ethereum Layer-2のガス料金を短期的に引き下げる提案EIP-4488を行う"
+    },
+    {
+      "locale": "zh",
+      "title": "Vitalik Buterin提出建议EIP-4488，在短期内降低Ethereum Layer-2的气体费用"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Vitalik Buterin提出建議EIP-4488，在短期內降低Ethereum Layer-2的氣體費用"
+    }
+  ]
 }
