@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "トライアルキャンセルのリマインダーを自動的に追加するクローム拡張機能を作ってみました!"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个chrome扩展，可以自动添加取消试用的提醒!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個chrome擴展，可以自動添加取消試用的提醒!"
+    }
+  ]
 }
