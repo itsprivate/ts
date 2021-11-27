@@ -91,5 +91,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "そして、なぜか計算は完璧"
+    },
+    {
+      "locale": "zh",
+      "title": "而不知何故，计算结果是完美的"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "而不知何故，計算結果是完美的"
+    }
+  ]
 }
