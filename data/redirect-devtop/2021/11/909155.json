@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-25T18:07:49Z",
   "image": "https://dev.to/social_previews/article/909155.png",
   "author": "Nadia Makarevich",
-  "author_url": "https://dev.to/adevnadia"
+  "author_url": "https://dev.to/adevnadia",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あなたはどうか知らないが、私はタイプスクリプトのドキュメントを読もうとするたびに眠りに落ちる....。",
+      "title": "React開発者のためのTypescriptジェネリック"
+    },
+    {
+      "locale": "zh",
+      "description": "我不知道你的情况，但我每次在试图阅读排版文件时都会睡着，....。",
+      "title": "面向React开发者的Typescript泛型"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我不知道你的情況，但我每次在試圖閱讀排版文件時都會睡着，....。",
+      "title": "面向React開發者的Typescript泛型"
+    }
+  ]
 }
