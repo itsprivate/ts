@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-26T22:47:43Z",
   "image": "https://dev.to/social_previews/article/910226.png",
   "author": "Jaakko",
-  "author_url": "https://dev.to/bjakyt"
+  "author_url": "https://dev.to/bjakyt",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactアプリケーションをファイルやフォルダに構造化することは、意見の分かれるトピックです。",
+      "title": "私のReact.jsプロジェクトの構成方法"
+    },
+    {
+      "locale": "zh",
+      "description": "将React应用结构化为文件和文件夹是一个众说纷纭的话题，因为没有任何...",
+      "title": "我如何构建我的React.js项目"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "將React應用結構化爲文件和文件夾是一個衆說紛紜的話題，因爲沒有任何...",
+      "title": "我如何構建我的React.js項目"
+    }
+  ]
 }
