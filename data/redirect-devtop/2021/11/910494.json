@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-27T08:20:34Z",
   "image": "https://dev.to/social_previews/article/910494.png",
   "author": "javinpaul",
-  "author_url": "https://dev.to/javinpaul"
+  "author_url": "https://dev.to/javinpaul",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "2021年にプロの開発者が身につけるべき必須の技術スキルのリスト。このリストには、Java開発に最適なフレームワーク、ライブラリ、ツール、プラットフォームが含まれています。",
+      "title": "Javaプログラマが2022年に習得できる22の技術スキル"
+    },
+    {
+      "locale": "zh",
+      "description": "2021年专业开发人员可以学习的基本技术技能清单。该列表包括Java开发的最佳框架、库、工具和平台。",
+      "title": "22项Java程序员在2022年可以学习的技术技能"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "2021年專業開發人員可以學習的基本技術技能清單。該列表包括Java開發的最佳框架、庫、工具和平臺。",
+      "title": "22項Java程序員在2022年可以學習的技術技能"
+    }
+  ]
 }
