@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-26T13:15:29Z",
   "image": "https://dev.to/social_previews/article/909794.png",
   "author": "Sadee",
-  "author_url": "https://dev.to/codewithsadee"
+  "author_url": "https://dev.to/codewithsadee",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "htmlとcssだけでnftのプレビューカードを作成する方法。    こんにちは👋 私はSadee (webdev)です この...",
+      "title": "HTML CSSによるNFTプレビューカードの作成方法"
+    },
+    {
+      "locale": "zh",
+      "description": "如何只用html和css创建nft预览卡。    我是Sadee (webdev)。",
+      "title": "如何用HTML CSS创建NFT预览卡"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如何只用html和css創建nft預覽卡。    我是Sadee (webdev)。",
+      "title": "如何用HTML CSS創建NFT預覽卡"
+    }
+  ]
 }
