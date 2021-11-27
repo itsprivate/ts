@@ -14,5 +14,19 @@
   "tags": [
     "The New York Times"
   ],
-  "image": "https://static01.nyt.com/images/2021/11/27/world/27virus-briefing-spread/27virus-briefing-spread-facebookJumbo.jpg"
+  "image": "https://static01.nyt.com/images/2021/11/27/world/27virus-briefing-spread/27virus-briefing-spread-facebookJumbo.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Covid-19のニュースです。オミクロン・バリアントの事例と最新情報"
+    },
+    {
+      "locale": "zh",
+      "title": "Covid-19新闻。欧米茄变体案例和更新"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Covid-19新聞。歐米茄變體案例和更新"
+    }
+  ]
 }
