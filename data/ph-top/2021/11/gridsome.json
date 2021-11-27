@@ -48,5 +48,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-26T08:01:00Z"
+  "original_createdAt": "2021-11-26T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Gridsomeは、開発者が静的に生成されたWebサイト＆アプリを簡単に構築でき、デフォルトで高速に動作します 🚀 簡単でローカルな開発 PWA対応 簡単で安全なデプロイ サーバーはありません。データベースもない。ファイルのみ。サイト全体をCDNにデプロイし、それを忘れることができます。",
+      "tagline": "Vue.js用のJamstackフレームワーク、デフォルトで高速なアプリを構築"
+    },
+    {
+      "locale": "zh",
+      "description": "Gridsome让开发者很容易建立静态生成的网站和应用程序，默认情况下速度很快 🚀 简单，本地开发 PWA-ready 简单，安全部署 没有服务器。没有数据库。只有文件。将你的整个网站部署到CDN上，然后就可以忘记它。",
+      "tagline": "用于Vue.js的Jamstack框架，默认情况下可快速构建应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Gridsome讓開發者很容易建立靜態生成的網站和應用程序，默認情況下速度很快 🚀 簡單，本地開發 PWA-ready 簡單，安全部署 沒有服務器。沒有數據庫。只有文件。將你的整個網站部署到CDN上，然後就可以忘記它。",
+      "tagline": "用於Vue.js的Jamstack框架，默認情況下可快速構建應用程序"
+    }
+  ]
 }
