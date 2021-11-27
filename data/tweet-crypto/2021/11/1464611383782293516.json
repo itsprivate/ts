@@ -128,5 +128,22 @@
     "retweet_count": 538,
     "favorite_count": 2477,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @therationalroot です。私は、@100trillionUSDのクロスアセットモデルをベースに、ブロックタイ...",
+      "retweeted_status_full_text": "私は、@100trillionUSDのクロスアセットモデルをベースに、ブロックタイム/ハルビングを取り入れた#ビットコインS2Fクロスアセットスパイラルを発表します。S2Fに対応するマーケットキャップを求めて、ビットコインの外向きのスパイラルを視覚的に表現しています。https://t.co/6AqPJPcWP5"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @therationalroot: 我提出了基于@100trillionUSD的交叉资产模型的#比特币S2F交叉资产螺旋，但加入了块状资产。",
+      "retweeted_status_full_text": "我提出了#比特币S2F跨资产螺旋，基于@100trillionUSD的跨资产模型，但加入了区块时间/波动。https://t.co/6AqPJPcWP5，直观地展示了比特币向外螺旋式上升，寻找其与S2F对应的市值。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @therationalroot: 我提出了基於@100trillionUSD的交叉資產模型的#比特幣S2F交叉資產螺旋，但加入了塊狀資產。",
+      "retweeted_status_full_text": "我提出了#比特幣S2F跨資產螺旋，基於@100trillionUSD的跨資產模型，但加入了區塊時間/波動。https://t.co/6AqPJPcWP5，直觀地展示了比特幣向外螺旋式上升，尋找其與S2F對應的市值。"
+    }
+  ]
 }
