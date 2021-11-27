@@ -37,5 +37,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Here is the link https://www.brainpick.co.uk/ to the site. The idea is to\nsupport experts so they can contribute more. Especially in the enterprise, some\nanswers require a lot of efforts"
+  "the_new_excerpt": "Here is the link https://www.brainpick.co.uk/ to the site. The idea is to\nsupport experts so they can contribute more. Especially in the enterprise, some\nanswers require a lot of efforts",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "こちらはリンク https://www.brainpick.co.uk/ です。考え方としては\nエキスパートがより多くの貢献ができるようにサポートすることです。特に企業では、いくつかの\n回答には多くの努力が必要です。",
+      "title": "StackOverflowの質問に答えてお金をもらうChrome拡張を作ってみた"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "以下是该网站的链接https://www.brainpick.co.uk/。这个想法是为了\n支持专家，以便他们能够做出更多贡献。特别是在企业中，一些\n答案需要大量的努力",
+      "title": "我做了一个Chrome扩展，可以在StackOverflow上回答问题并获得报酬"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "以下是該網站的鏈接https://www.brainpick.co.uk/。這個想法是爲了\n支持專家，以便他們能夠做出更多貢獻。特別是在企業中，一些\n答案需要大量的努力",
+      "title": "我做了一個Chrome擴展，可以在StackOverflow上回答問題並獲得報酬"
+    }
+  ]
 }
