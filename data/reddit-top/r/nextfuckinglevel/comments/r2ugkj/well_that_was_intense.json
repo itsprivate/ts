@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "いやー、強烈でした"
+    },
+    {
+      "locale": "zh",
+      "title": "嗯，这很激烈"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "嗯，這很激烈"
+    }
+  ]
 }
