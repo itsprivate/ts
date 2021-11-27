@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-01T20:03:23Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YhDP3THH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kfvbdrvrhk7vx3sd4mj4.png",
   "author": "Daniel Reis",
-  "author_url": "https://dev.to/danielhe4rt"
+  "author_url": "https://dev.to/danielhe4rt",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "プロローグ ここしばらく、私は視聴者のリポジトリでコードレビューを行ってきましたが、それは...",
+      "title": "GRAMMATICでテストを改善する"
+    },
+    {
+      "locale": "zh",
+      "description": "序言 一段时间以来，我一直在对我的观众的存储库进行代码审查，这...",
+      "title": "用GRAMMATIC改善你的测试"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "序言 一段時間以來，我一直在對我的觀衆的存儲庫進行代碼審查，這...",
+      "title": "用GRAMMATIC改善你的測試"
+    }
+  ]
 }
