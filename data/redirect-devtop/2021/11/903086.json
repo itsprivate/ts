@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-19T15:05:08Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--e9sopw2u--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/37si3af2tee1mcmjx9r9.png",
   "author": "@calebbenjin",
-  "author_url": "https://dev.to/calebbenjin"
+  "author_url": "https://dev.to/calebbenjin",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "概要   ご挨拶！皆さん、もしあなたがJWTトークンをクライアントサイドに保存したくないのであれば、...",
+      "title": "Next.jsでJWTとHttp-Only Cookiesの認証を扱う方法"
+    },
+    {
+      "locale": "zh",
+      "description": "摘要。  问候！伙计们，如果你不想在客户端保存你的JWT-令牌，那么...",
+      "title": "如何用Next.js处理JWT和Http-Only Cookies认证"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "摘要。  問候！夥計們，如果你不想在客戶端保存你的JWT-令牌，那麼...",
+      "title": "如何用Next.js處理JWT和Http-Only Cookies認證"
+    }
+  ]
 }
