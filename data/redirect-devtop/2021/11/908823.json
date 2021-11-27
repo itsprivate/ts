@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-25T13:10:19Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--eZRvtSGU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fo3g5nni6peif7iv0gzr.png",
   "author": "Deepankar Bhade",
-  "author_url": "https://dev.to/deepcodes"
+  "author_url": "https://dev.to/deepcodes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "新しいメッセージを受信すると、チャットフィードが自動的に下にスクロールします。このガイドでは、たった1行のコードでこの機能を実現する方法を説明します。",
+      "title": "チャットアプリの自動スクロールを1行のコードで実現 + Reactフック"
+    },
+    {
+      "locale": "zh",
+      "description": "每当你收到一条新消息时，聊天资料就会自动滚动到底部。本指南解释了你如何只用1行代码就能做到这一点。",
+      "title": "1行代码中的聊天应用自动滚动+React挂钩"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "每當你收到一條新消息時，聊天資料就會自動滾動到底部。本指南解釋了你如何只用1行代碼就能做到這一點。",
+      "title": "1行代碼中的聊天應用自動滾動+React掛鉤"
+    }
+  ]
 }

@@ -43,5 +43,22 @@
   "original_created_at": "2021-11-25T14:59:05Z",
   "image": "https://dev.to/social_previews/article/909071.png",
   "author": "Dahye Ji",
-  "author_url": "https://dev.to/daaahailey"
+  "author_url": "https://dev.to/daaahailey",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Sass(SCSS)とは何ですか？  Sassは、プリプロセッサ・スクリプティング言語で、インタープリタまたは...",
+      "title": "初心者のためのSass(SCSS)"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是Sass(SCSS)？  Sass是一种预处理器脚本语言，可以解释或...",
+      "title": "Sass(SCSS)的初学者"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是Sass(SCSS)？  Sass是一種預處理器腳本語言，可以解釋或...",
+      "title": "Sass(SCSS)的初學者"
+    }
+  ]
 }
