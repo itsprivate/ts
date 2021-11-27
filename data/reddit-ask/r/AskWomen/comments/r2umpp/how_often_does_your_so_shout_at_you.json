@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたのSOはどのくらいの頻度であなたを怒鳴りつけますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你的SO多久会对你大喊大叫？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你的SO多久會對你大喊大叫？"
+    }
+  ]
 }
