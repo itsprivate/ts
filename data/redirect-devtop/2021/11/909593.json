@@ -50,5 +50,22 @@
   "original_created_at": "2021-11-26T08:01:31Z",
   "image": "https://dev.to/social_previews/article/909593.png",
   "author": "DhiWise",
-  "author_url": "https://dev.to/dhiwise"
+  "author_url": "https://dev.to/dhiwise",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "目標：時間の経過に伴う変化に強いコードにする 簡単な紹介...",
+      "title": "クリーンコードアーキテクチャの特徴｜Node.js"
+    },
+    {
+      "locale": "zh",
+      "description": "目标：使我们的代码能够抵御随着时间推移而产生的变化 简单介绍一下...",
+      "title": "清洁代码架构的特点 | Node.js"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "目標：使我們的代碼能夠抵禦隨着時間推移而產生的變化 簡單介紹一下...",
+      "title": "清潔代碼架構的特點 | Node.js"
+    }
+  ]
 }
