@@ -136,5 +136,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "オープンソースのFireStore UIツールを作って、Firestoreでの開発を楽にしました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个开源的FireStore UI工具，使Firestore的开发不再那么痛苦"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個開源的FireStore UI工具，使Firestore的開發不再那麼痛苦"
+    }
+  ]
 }
