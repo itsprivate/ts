@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "パワーライト"
+    },
+    {
+      "locale": "zh",
+      "title": "电源灯"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "電源燈"
+    }
+  ]
 }
