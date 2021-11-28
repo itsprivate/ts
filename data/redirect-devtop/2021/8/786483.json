@@ -45,5 +45,22 @@
   "original_created_at": "2021-08-09T18:09:07Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MnWOev5e--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n6jyxs2wpxs8xmflf9g5.jpeg",
   "author": "MirAli Mobasheri",
-  "author_url": "https://dev.to/alimobasheri"
+  "author_url": "https://dev.to/alimobasheri",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "状態を維持するのは大変です。UIを維持するのはもっと難しい。そして、ユーザーを満足させることは不可能に近い。 いや...",
+      "title": "A Story Of React States」です。"
+    },
+    {
+      "locale": "zh",
+      "description": "要维持一个状态是很难的。维护一个用户界面更难。而且几乎不可能让用户满意。 不...",
+      "title": "反应国的故事。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "要維持一個狀態是很難的。維護一個用戶界面更難。而且幾乎不可能讓用戶滿意。 不...",
+      "title": "反應國的故事。"
+    }
+  ]
 }
