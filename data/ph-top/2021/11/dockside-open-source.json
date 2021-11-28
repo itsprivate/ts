@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-28T08:00:00Z"
+  "original_createdAt": "2021-11-28T08:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Docksideは、軽量でアクセス制御されたIDE、ステージング環境、サンドボックス（別名「devtainers」）を、ローカルマシン、オンプレミス（ローメタルまたはVM）、またはクラウド上にプロビジョニングするためのオープンソースのツールです。",
+      "tagline": "IDEによる開発コンテナとステージング環境の提供"
+    },
+    {
+      "locale": "zh",
+      "description": "Dockside是一个开源工具，用于在本地机器上（原始金属或虚拟机）或在云中提供轻量级访问控制的IDE、暂存环境和沙箱（又称 \"devtainers\"）。",
+      "tagline": "用IDE提供开发容器和暂存环境"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Dockside是一個開源工具，用於在本地機器上（原始金屬或虛擬機）或在雲中提供輕量級訪問控制的IDE、暫存環境和沙箱（又稱 \"devtainers\"）。",
+      "tagline": "用IDE提供開發容器和暫存環境"
+    }
+  ]
 }
