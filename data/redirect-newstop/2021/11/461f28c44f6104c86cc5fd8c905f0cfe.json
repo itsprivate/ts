@@ -14,5 +14,19 @@
   "tags": [
     "Reuters"
   ],
-  "image": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=60"
+  "image": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=60",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ペルー北部でマグニチュード7.5の地震が発生 - USGS"
+    },
+    {
+      "locale": "zh",
+      "title": "秘鲁北部发生7.5级地震 - 美国地质调查局"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "祕魯北部發生7.5級地震 - 美國地質調查局"
+    }
+  ]
 }
