@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Just made my day"
+    },
+    {
+      "locale": "zh",
+      "title": "让我大开眼界"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "讓我大開眼界"
+    }
+  ]
 }
