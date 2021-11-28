@@ -52,5 +52,22 @@
   "original_created_at": "2021-11-25T07:35:04Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QYyQtwbD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3nk62ek9ls0ws2kave7n.png",
   "author": "Ankit Anand ✨",
-  "author_url": "https://dev.to/ankit01oss"
+  "author_url": "https://dev.to/ankit01oss",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "FastAPIは、Pythonの標準的なタイプヒントをベースにしたモダンなPythonウェブフレームワークで、簡単に...",
+      "title": "OpenTelemetry📊🚀を使用したFastAPIアプリケーションのモニタリング"
+    },
+    {
+      "locale": "zh",
+      "description": "FastAPI是一个现代的Python网络框架，基于标准的Python类型提示，使得它很容易...",
+      "title": "使用OpenTelemetry📊🚀监控你的FastAPI应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "FastAPI是一個現代的Python網絡框架，基於標準的Python類型提示，使得它很容易...",
+      "title": "使用OpenTelemetry📊🚀監控你的FastAPI應用程序"
+    }
+  ]
 }
