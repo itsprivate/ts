@@ -57,5 +57,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "I've always wondered who Satoshi Nakamoto is and why he made bitcoin and has not\ntouched his 55b fortune yet. I've read a lot about it and I'm fairly sure it\nisn't Craig Wright, who claims to be Satoshi Nakamoto and sued bitcoin.org\n[https://bitcoin.org/] (and won) for copyright infringements for…"
+  "the_new_excerpt": "I've always wondered who Satoshi Nakamoto is and why he made bitcoin and has not\ntouched his 55b fortune yet. I've read a lot about it and I'm fairly sure it\nisn't Craig Wright, who claims to be Satoshi Nakamoto and sued bitcoin.org\n[https://bitcoin.org/] (and won) for copyright infringements for…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "サトシ・ナカモトとは何者なのか、なぜ彼はビットコインを作ったのか、彼の55億円の財産にまだ手をつけていないのか、いつも不思議に思っていました。\nなぜ彼はビットコインを作り、550億円の財産に手をつけていないのか。いろいろと読んでみましたが、サトシ・ナカモトであると主張しているクレイグ・ライトではないと確信しています。\nサトシ・ナカモトと名乗り、bitcoin.orgを訴えたCraig Wright氏ではないと思います。\n[https://bitcoin.org/] を著作権侵害で訴えた（そして勝訴した）クレイグ・ライトではないと確信しています...",
+      "title": "本物のサトシ・ナカモト？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我一直想知道中本聪是谁，为什么他创造了比特币，却还没有\n他为什么创造了比特币却没有动用他的550亿财富。我读了很多关于这个问题的文章，我相当肯定它是\n不是克雷格-莱特，他声称自己是中本聪并起诉了bitcoin.org\n[https://bitcoin.org/]（并赢得了）版权侵权，因为...",
+      "title": "真正的中本聪？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我一直想知道中本聰是誰，爲什麼他創造了比特幣，卻還沒有\n他爲什麼創造了比特幣卻沒有動用他的550億財富。我讀了很多關於這個問題的文章，我相當肯定它是\n不是克雷格-萊特，他聲稱自己是中本聰並起訴了bitcoin.org\n[https://bitcoin.org/]（並贏得了）版權侵權，因爲...",
+      "title": "真正的中本聰？"
+    }
+  ]
 }
