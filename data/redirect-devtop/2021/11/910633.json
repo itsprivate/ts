@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-27T11:43:17Z",
   "image": "https://dev.to/social_previews/article/910633.png",
   "author": "Melvin Carvalho",
-  "author_url": "https://dev.to/melvincarvalho"
+  "author_url": "https://dev.to/melvincarvalho",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "概要 私はdev.toの投稿をダウンロードして、gitに保存できるようにすることにしました。 それは...",
+      "title": "dev.toの投稿一覧をAPIから取得する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "概述 我决定下载我的dev.to帖子，以便我可以把它们储存在git中。 这...",
+      "title": "如何从API获得dev.to帖子的列表"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "概述 我決定下載我的dev.to帖子，以便我可以把它們儲存在git中。 這...",
+      "title": "如何從API獲得dev.to帖子的列表"
+    }
+  ]
 }

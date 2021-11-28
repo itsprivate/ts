@@ -50,5 +50,22 @@
   "original_created_at": "2021-11-27T00:11:17Z",
   "image": "https://dev.to/social_previews/article/910247.png",
   "author": "Nitzan Hen",
-  "author_url": "https://dev.to/nitzanhen"
+  "author_url": "https://dev.to/nitzanhen",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは！Reactのプロジェクトでstyle-componentsを使ったことはありますか？そして、より一般的には、どのような...",
+      "title": "Styled Componentsをどのように使っていますか？"
+    },
+    {
+      "locale": "zh",
+      "description": "你好！你以前在React项目中使用过style-components吗？而且，更广泛地说，什么是...",
+      "title": "你是如何使用风格化组件的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好！你以前在React項目中使用過style-components嗎？而且，更廣泛地說，什麼是...",
+      "title": "你是如何使用風格化組件的？"
+    }
+  ]
 }
