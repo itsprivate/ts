@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-27T08:38:06Z",
   "image": "https://dev.to/social_previews/article/910503.png",
   "author": "Carlo Gino Catapang",
-  "author_url": "https://dev.to/codegino"
+  "author_url": "https://dev.to/codegino",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "目次 アプリの概要 前提条件 Supabaseのセットアップ Remixを作成...",
+      "title": "リミックスとデータベースの統合"
+    },
+    {
+      "locale": "zh",
+      "description": "目录 应用程序概述 先决条件 Supabase设置 创建Remix...",
+      "title": "与数据库整合的混音"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "目錄 應用程序概述 先決條件 Supabase設置 創建Remix...",
+      "title": "與數據庫整合的混音"
+    }
+  ]
 }
