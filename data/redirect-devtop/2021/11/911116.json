@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-28T04:53:57Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--b7RRPK-E--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/si1txhgv68vu9ha3kxqo.png",
   "author": "Andrew Lee",
-  "author_url": "https://dev.to/andyrewlee"
+  "author_url": "https://dev.to/andyrewlee",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "新しいアプリケーション（例：app.example.com）を作るのに、CRA（Create React App）を使っていました。これは...",
+      "title": "新規プロジェクトでCRAではなくNextJSを選ぶ理由"
+    },
+    {
+      "locale": "zh",
+      "description": "我曾经使用Create React App（CRA）来构建新的应用程序（即app.example.com）。对于...",
+      "title": "为什么我在新项目中选择NextJS而不是CRA？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我曾經使用Create React App（CRA）來構建新的應用程序（即app.example.com）。對於...",
+      "title": "爲什麼我在新項目中選擇NextJS而不是CRA？"
+    }
+  ]
 }
