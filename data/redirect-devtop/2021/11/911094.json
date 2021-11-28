@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-28T03:23:50Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--p2vPapJU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pinwifhk5e3m4kitgb9g.png",
   "author": "Tapajyoti Bose",
-  "author_url": "https://dev.to/ruppysuppy"
+  "author_url": "https://dev.to/ruppysuppy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactアプリケーションで親から子にデータを渡す最も簡単な方法は、データを...に渡すことです。",
+      "title": "Redux vs Context API: どのような場合に使用するか"
+    },
+    {
+      "locale": "zh",
+      "description": "在React应用程序中，将数据从父代传递给子代的最简单方法是将其传递给...",
+      "title": "Redux与Context API。何时使用它们"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在React應用程序中，將數據從父代傳遞給子代的最簡單方法是將其傳遞給...",
+      "title": "Redux與Context API。何時使用它們"
+    }
+  ]
 }
