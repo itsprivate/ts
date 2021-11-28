@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Poor Lawernce..."
+    },
+    {
+      "locale": "zh",
+      "title": "可怜的Lawernce..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "可憐的Lawernce..."
+    }
+  ]
 }

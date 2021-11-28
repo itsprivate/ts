@@ -65,5 +65,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "それがライフスタイルなんだよ。"
+    },
+    {
+      "locale": "zh",
+      "title": "这是一种生活方式，贝贝。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是一種生活方式，貝貝。"
+    }
+  ]
 }
