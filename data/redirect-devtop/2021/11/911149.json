@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-28T07:37:26Z",
   "image": "https://dev.to/social_previews/article/911149.png",
   "author": "javinpaul",
-  "author_url": "https://dev.to/javinpaul"
+  "author_url": "https://dev.to/javinpaul",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "2022年にAWS Developer Associate認定試験に合格し、認定AWS Developerになるための完全ガイド（コース、書籍、模擬試験へのリンク付き",
+      "title": "2022年にAWS認定デベロッパーになるには"
+    },
+    {
+      "locale": "zh",
+      "description": "通过AWS开发员助理认证考试并在2022年成为认证的AWS开发员的完整指南，包括课程、书籍和练习测试的链接",
+      "title": "如何在2022年成为认证的AWS开发人员"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "通過AWS開發員助理認證考試並在2022年成爲認證的AWS開發員的完整指南，包括課程、書籍和練習測試的鏈接",
+      "title": "如何在2022年成爲認證的AWS開發人員"
+    }
+  ]
 }
