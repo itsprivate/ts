@@ -41,5 +41,22 @@
   "original_created_at": "2021-11-27T08:14:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qkT1f96a--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aey05egqhildtk54j0ie.png",
   "author": "sndp",
-  "author_url": "https://dev.to/lizardkinglk"
+  "author_url": "https://dev.to/lizardkinglk",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ユーザー名はフォーマットされていなければなりませんし、何らかの検証に従わなければなりません。",
+      "title": "ユーザー名検証ツール"
+    },
+    {
+      "locale": "zh",
+      "description": "用户名应该被格式化，它们应该符合遵循一些验证...",
+      "title": "用户名验证器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "用戶名應該被格式化，它們應該符合遵循一些驗證...",
+      "title": "用戶名驗證器"
+    }
+  ]
 }
