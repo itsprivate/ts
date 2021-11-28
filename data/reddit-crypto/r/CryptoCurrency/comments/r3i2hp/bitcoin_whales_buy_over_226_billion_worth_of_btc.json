@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Bitcoin Whalesは、最近の暗号修正の間に22.6億ドル相当のBTCを購入"
+    },
+    {
+      "locale": "zh",
+      "title": "比特币鲸鱼在最近的加密货币调整中买入价值超过22.6亿美元的BTC"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比特幣鯨魚在最近的加密貨幣調整中買入價值超過22.6億美元的BTC"
+    }
+  ]
 }
