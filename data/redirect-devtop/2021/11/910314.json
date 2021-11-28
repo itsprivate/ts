@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-27T03:07:04Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LYZbPv3Y--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/133ei1akzfrbk8fqbj6w.jpeg",
   "author": "SeattleDataGuy",
-  "author_url": "https://dev.to/seattledataguy"
+  "author_url": "https://dev.to/seattledataguy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Photo by Chris Ainsworth on Unsplash 2022年に向けて、データエンジニアリングは重要な役割を担うことになるでしょう。",
+      "title": "データエンジニアになる前に知っておきたかったこと"
+    },
+    {
+      "locale": "zh",
+      "description": "图片来源：Chris Ainsworth on Unsplash 随着2022年的临近，数据工程已经准备好成为其中的一员。",
+      "title": "我希望我在成为数据工程师之前就知道的事情"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "圖片來源：Chris Ainsworth on Unsplash 隨着2022年的臨近，數據工程已經準備好成爲其中的一員。",
+      "title": "我希望我在成爲數據工程師之前就知道的事情"
+    }
+  ]
 }
