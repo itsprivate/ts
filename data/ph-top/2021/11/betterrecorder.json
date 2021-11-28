@@ -62,5 +62,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-27T08:31:16Z"
+  "original_createdAt": "2021-11-27T08:31:16Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "BetterRecorderは、Mac用のスクリーンレコーダーで、デスクトップの内部オーディオ、ウェブカメラのビデオ、マイクのオーディオでスクリーンを録画することができます。使い方は簡単です。",
+      "tagline": "Macで画面、ビデオ、オーディオを録画"
+    },
+    {
+      "locale": "zh",
+      "description": "BetterRecorder是一款适用于Mac的屏幕录像机，它可以录制屏幕与桌面内部音频、网络摄像头视频和麦克风音频。它很容易使用。",
+      "tagline": "在Mac上录制屏幕、视频和音频"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "BetterRecorder是一款適用於Mac的屏幕錄像機，它可以錄製屏幕與桌面內部音頻、網絡攝像頭視頻和麥克風音頻。它很容易使用。",
+      "tagline": "在Mac上錄製屏幕、視頻和音頻"
+    }
+  ]
 }
