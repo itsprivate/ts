@@ -42,5 +42,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "操作の順番を覚えていれば、これらは流行らない。"
+    },
+    {
+      "locale": "zh",
+      "title": "如果人们记住了操作顺序，这些就不会成为病毒。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果人們記住了操作順序，這些就不會成爲病毒。"
+    }
+  ]
 }
