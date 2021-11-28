@@ -66,5 +66,19 @@
   "retweet_count": 272,
   "favorite_count": 2258,
   "possibly_sensitive": false,
-  "original_created_at": "Sun Nov 28 13:56:48 +0000 2021"
+  "original_created_at": "Sun Nov 28 13:56:48 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "現在、#bitcoinは約1890万枚あります。\n1M (5%) 2009年に作られたか最後に取引された (Satoshi!)\n8M (40%) 2021年に作成または最後の取引が行われた https://t.co/VI4spB7X3w"
+    },
+    {
+      "locale": "zh",
+      "full_text": "目前有~18.9M个#比特币 \n1M (5%) 创建或最后一次交易是在2009年（中本聪！）。\n8M (40%) 创建或最后一次交易是在2021年 https://t.co/VI4spB7X3w"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "目前有~18.9M個#比特幣 \n1M (5%) 創建或最後一次交易是在2009年（中本聰！）。\n8M (40%) 創建或最後一次交易是在2021年 https://t.co/VI4spB7X3w"
+    }
+  ]
 }

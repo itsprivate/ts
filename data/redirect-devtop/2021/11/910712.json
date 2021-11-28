@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-27T15:33:47Z",
   "image": "https://dev.to/social_previews/article/910712.png",
   "author": "Muhammad Rauf",
-  "author_url": "https://dev.to/softcodeon"
+  "author_url": "https://dev.to/softcodeon",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ブラウザのスクロールバーにスタイルを与えたいと考えている方は、ぜひ参考にしてみてください。あなたは...",
+      "title": "CSSによるカスタムスクロールバーの作成"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你正在考虑对浏览器的滚动条进行造型，那么你就来对了。你可能...",
+      "title": "使用CSS创建自定义滚动条"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你正在考慮對瀏覽器的滾動條進行造型，那麼你就來對了。你可能...",
+      "title": "使用CSS創建自定義滾動條"
+    }
+  ]
 }
