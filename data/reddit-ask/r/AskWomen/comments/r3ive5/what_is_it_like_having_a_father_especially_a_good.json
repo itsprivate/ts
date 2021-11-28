@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "父親がいるというのはどういうことですか？特に良い父親？それはあなたの人生にどのような影響を与えますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "有一个父亲是什么感觉？特别是一个好的父亲？它是如何影响你的生活的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有一個父親是什麼感覺？特別是一個好的父親？它是如何影響你的生活的？"
+    }
+  ]
 }
