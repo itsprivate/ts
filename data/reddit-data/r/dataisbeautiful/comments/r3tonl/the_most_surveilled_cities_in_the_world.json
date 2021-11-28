@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "世界で最も監視されている都市"
+    },
+    {
+      "locale": "zh",
+      "title": "世界上被调查最多的城市"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "世界上被調查最多的城市"
+    }
+  ]
 }
