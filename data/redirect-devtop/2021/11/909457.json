@@ -52,5 +52,22 @@
   "original_created_at": "2021-11-26T01:51:39Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7cpqu1rg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hw17ig1e70p7rjkor2qw.png",
   "author": "Michelle Mannering",
-  "author_url": "https://dev.to/mishmanners"
+  "author_url": "https://dev.to/mishmanners",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "製品の新バージョンを出荷する際に、一番気になるのがリリース時の問題です。",
+      "title": "プロジェクトのリリースノートを自動生成する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "当你为你的产品运送一个新版本时，你最不想担心的是发布的问题。",
+      "title": "如何为你的项目自动生成发布说明"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當你爲你的產品運送一個新版本時，你最不想擔心的是發佈的問題。",
+      "title": "如何爲你的項目自動生成發佈說明"
+    }
+  ]
 }
