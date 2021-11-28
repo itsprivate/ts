@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] 緯度の違いによる日の出と日の入りの変化を表現した円形カレンダーを作ってみた"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC] 我制作的显示不同纬度地区一年中日出和日落变化的循环日历"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC] 我製作的顯示不同緯度地區一年中日出和日落變化的循環日曆"
+    }
+  ]
 }
