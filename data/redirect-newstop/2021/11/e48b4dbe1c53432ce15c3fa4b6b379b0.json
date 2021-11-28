@@ -14,5 +14,19 @@
   "tags": [
     "The Wall Street Journal"
   ],
-  "image": "https://images.wsj.net/im-442197/social"
+  "image": "https://images.wsj.net/im-442197/social",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "オミクロン・バリアントはより多くの国で報告されており、当局はその対応に苦慮している。"
+    },
+    {
+      "locale": "zh",
+      "title": "越来越多的国家报告了Omicron变体，官员们正在努力应对。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "越來越多的國家報告了Omicron變體，官員們正在努力應對。"
+    }
+  ]
 }
