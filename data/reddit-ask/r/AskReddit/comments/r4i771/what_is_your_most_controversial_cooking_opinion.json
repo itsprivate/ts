@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "最も議論を呼んだ料理の意見は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你最有争议的烹饪观点是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你最有爭議的烹飪觀點是什麼？"
+    }
+  ]
 }
