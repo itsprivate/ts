@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-19T19:24:28Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mlw5VM0a--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v0vvmvad7zbfey8wlbcz.png",
   "author": "Ludal 🚀",
-  "author_url": "https://dev.to/iamludal"
+  "author_url": "https://dev.to/iamludal",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "カスタムReactフックシリーズの最終回では、useLocalStorageフックを実装して...",
+      "title": "Custom React Hooks: useNetworkState"
+    },
+    {
+      "locale": "zh",
+      "description": "在自定义React钩子系列的最后一集，我们已经实现了useLocalStorage钩子，以...",
+      "title": "Custom React Hooks: useNetworkState"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在自定義React鉤子系列的最後一集，我們已經實現了useLocalStorage鉤子，以...",
+      "title": "Custom React Hooks: useNetworkState"
+    }
+  ]
 }
