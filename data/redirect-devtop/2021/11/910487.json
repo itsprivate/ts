@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-27T08:00:17Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kZGFk9kR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ud749z0cwq04cs9ldps4.png",
   "author": "Francisco Mendes",
-  "author_url": "https://dev.to/franciscomendes10866"
+  "author_url": "https://dev.to/franciscomendes10866",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "概要 フォームの送信前にユーザーの入力内容を検証することは、最も重要なことの1つです。",
+      "title": "FormikとYupを使ったReactのフォームバリデーション "
+    },
+    {
+      "locale": "zh",
+      "description": "概述 在提交表格之前验证用户的输入是最重要的工作之一。",
+      "title": "用Formik和Yup进行React表单验证 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "概述 在提交表格之前驗證用戶的輸入是最重要的工作之一。",
+      "title": "用Formik和Yup進行React表單驗證 "
+    }
+  ]
 }
