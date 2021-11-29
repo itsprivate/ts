@@ -63,5 +63,22 @@
     "retweet_count": 190,
     "favorite_count": 396,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @nytimes: イスラエルの国内情報機関が、国内の人々の電話データにアクセスする一時的な許可を得た...",
+      "retweeted_status_full_text": "イスラエルの国内諜報機関は、連絡先の追跡のために、オミクロン・バリアントの感染が確認された国内の人々の電話データにアクセスすることを一時的に許可された。https://t.co/78ndtWqKvN"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @nytimes: 以色列的国内情报机构已经获得临时许可，可以访问该国人民的电话数据...",
+      "retweeted_status_full_text": "以色列国内情报机构已经获得临时许可，可以访问该国已确认的Omicron变体病例的人的电话数据，用于追踪联系人。https://t.co/78ndtWqKvN"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @nytimes: 以色列的國內情報機構已經獲得臨時許可，可以訪問該國人民的電話數據...",
+      "retweeted_status_full_text": "以色列國內情報機構已經獲得臨時許可，可以訪問該國已確認的Omicron變體病例的人的電話數據，用於追蹤聯繫人。https://t.co/78ndtWqKvN"
+    }
+  ]
 }
