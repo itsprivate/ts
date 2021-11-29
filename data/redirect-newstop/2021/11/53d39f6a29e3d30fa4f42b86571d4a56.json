@@ -14,5 +14,19 @@
   "tags": [
     "BBC News"
   ],
-  "image": "https://ichef.bbci.co.uk/news/1024/branded_news/17E35/production/_121854879_pa-59250492.jpg"
+  "image": "https://ichef.bbci.co.uk/news/1024/branded_news/17E35/production/_121854879_pa-59250492.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Covid社：英国でOmicronバリアントの3例目を検出"
+    },
+    {
+      "locale": "zh",
+      "title": "Covid：在英国发现第三例Omicron变体"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Covid：在英國發現第三例Omicron變體"
+    }
+  ]
 }
