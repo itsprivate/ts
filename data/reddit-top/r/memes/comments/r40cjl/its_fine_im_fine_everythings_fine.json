@@ -106,5 +106,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "It's fine, I'm fine... everything's fine"
+    },
+    {
+      "locale": "zh",
+      "title": "很好，我很好，一切都很好。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "很好，我很好，一切都很好。"
+    }
+  ]
 }
