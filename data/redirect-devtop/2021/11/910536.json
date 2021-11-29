@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-27T10:12:50Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--x_e8K_8h--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ufqakt6j6rv17h6is4ca.jpg",
   "author": "Ericawanja",
-  "author_url": "https://dev.to/ericawanja"
+  "author_url": "https://dev.to/ericawanja",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "収録内容 バージョン管理システムの紹介 GitとGitHub ブランチとマージ How to...",
+      "title": "初心者のためのGitとGitHub"
+    },
+    {
+      "locale": "zh",
+      "description": "涵盖的主题介绍版本控制系统Git和GitHub 分支和合并 如何使用Git...",
+      "title": "初学者的Git和GitHub"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "涵蓋的主題介紹版本控制系統Git和GitHub 分支和合並 如何使用Git...",
+      "title": "初學者的Git和GitHub"
+    }
+  ]
 }

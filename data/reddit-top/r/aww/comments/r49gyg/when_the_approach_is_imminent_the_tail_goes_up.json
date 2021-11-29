@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "アプローチが迫るとテールが上がる"
+    },
+    {
+      "locale": "zh",
+      "title": "当接近时，尾巴就会升起"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當接近時，尾巴就會升起"
+    }
+  ]
 }
