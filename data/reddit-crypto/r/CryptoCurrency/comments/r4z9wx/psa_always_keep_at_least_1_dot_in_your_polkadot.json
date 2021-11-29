@@ -26,5 +26,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Polkadot is a bit strange in many ways and most of it is not explained in a way\nthat is obvious to non-programmers.\n\n(For example, I could not figure out why I couldn't see my funds in my wallet\nuntil someone explained to me the difference between polkadot. js the app/site\nand polkadot. js the…"
+  "the_new_excerpt": "Polkadot is a bit strange in many ways and most of it is not explained in a way\nthat is obvious to non-programmers.\n\n(For example, I could not figure out why I couldn't see my funds in my wallet\nuntil someone explained to me the difference between polkadot. js the app/site\nand polkadot. js the…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "Polkadotは多くの点でちょっと変わっていて、そのほとんどがプログラマーではない人にもわかるように説明されていません。\nプログラマーでない人にもわかるように説明されていません。\n\n(例えば、なぜ財布の中の資金が見えないのか、誰かがポルカドットの違いを説明してくれるまでわかりませんでした。\nアプリ/サイトのpolkadot.jsと本体のpolkadot.jsの違いを誰かが説明してくれるまでは\nとPolkadot.js the...",
+      "title": "PSA: Polkadotの財布には常に最低1つのDOTを入れておかないと、全てを失ってしまいます。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "Polkadot在很多方面都有点奇怪，而且大部分都没有以非程序员明显的方式来解释\n对非程序员来说是显而易见的。\n\n(例如，我无法理解为什么我无法看到我钱包里的资金。\n直到有人向我解释Polkadot.js这个应用/网站与Polkadot.js之间的区别。\n和polkadot.js的区别。",
+      "title": "PSA：在你的Polkadot钱包里至少要保留1个DOT，否则你会失去所有东西。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "Polkadot在很多方面都有點奇怪，而且大部分都沒有以非程序員明顯的方式來解釋\n對非程序員來說是顯而易見的。\n\n(例如，我無法理解爲什麼我無法看到我錢包裏的資金。\n直到有人向我解釋Polkadot.js這個應用/網站與Polkadot.js之間的區別。\n和polkadot.js的區別。",
+      "title": "PSA：在你的Polkadot錢包裏至少要保留1個DOT，否則你會失去所有東西。"
+    }
+  ]
 }
