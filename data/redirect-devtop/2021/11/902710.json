@@ -52,5 +52,22 @@
   "original_created_at": "2021-11-19T07:21:51Z",
   "image": "https://dev.to/social_previews/article/902710.png",
   "author": "Amy Lin",
-  "author_url": "https://dev.to/amyatforem"
+  "author_url": "https://dev.to/amyatforem",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "素晴らしいDEVコミュニティの皆さん、こんにちは。 私はForemでプロダクトマネージャーをしています。私が入社したのは...",
+      "title": "機能アップデート フィード"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，精彩的DEV社区!  我叫Amy，是Forem的一名产品经理。我开始...",
+      "title": "功能更新。饲料"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，精彩的DEV社區!  我叫Amy，是Forem的一名產品經理。我開始...",
+      "title": "功能更新。飼料"
+    }
+  ]
 }
