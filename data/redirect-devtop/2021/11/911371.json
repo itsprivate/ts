@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-28T14:15:26Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DHYyiSEj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qrzoor02c1ztqqlbfv65.png",
   "author": "Nikhil Bobade ",
-  "author_url": "https://dev.to/nikhil27b"
+  "author_url": "https://dev.to/nikhil27b",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは。前回の投稿ではお返事をいただき、ありがとうございました。今日は、プロフィールカードのアニメーションを作ってみました...",
+      "title": "HTML CSS & GSAPを使ったアニメーションプロフィールカード"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，感谢你们对我上一个帖子的回应。今天，我创建了一个动画档案卡，使用的是 \"A\"。",
+      "title": "使用HTML、CSS和GSAP的动画简介卡"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，感謝你們對我上一個帖子的迴應。今天，我創建了一個動畫檔案卡，使用的是 \"A\"。",
+      "title": "使用HTML、CSS和GSAP的動畫簡介卡"
+    }
+  ]
 }
