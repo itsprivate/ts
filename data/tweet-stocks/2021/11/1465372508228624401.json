@@ -52,5 +52,22 @@
     },
     "retweet_count": 214,
     "favorite_count": 1389
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @wallstmemes です。インフレの影響でCOVID-19がCOVID-20になりました。",
+      "retweeted_status_full_text": "インフレの影響でCOVID-19がCOVID-20になっている178。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @wallstmemes: 由于通货膨胀，COVID-19现在是COVID-20.178",
+      "retweeted_status_full_text": "由于通货膨胀，COVID-19现在是COVID-20.178。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @wallstmemes: 由於通貨膨脹，COVID-19現在是COVID-20.178",
+      "retweeted_status_full_text": "由於通貨膨脹，COVID-19現在是COVID-20.178。"
+    }
+  ]
 }
