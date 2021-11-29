@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-29T03:23:28Z",
   "image": "https://dev.to/social_previews/article/911707.png",
   "author": "Muhammad Rauf",
-  "author_url": "https://dev.to/softcodeon"
+  "author_url": "https://dev.to/softcodeon",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "カレンダーウィジェットは、イベント関連のウェブサイトにとって最も重要なコンポーネントです。ユーザーはカレンダーを見ることができます。",
+      "title": "HTMLとCSSでカレンダーを作る"
+    },
+    {
+      "locale": "zh",
+      "description": "日历小部件是事件相关网站最重要的组成部分。它可以帮助用户看到...",
+      "title": "在HTML和CSS中创建一个日历"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "日曆小部件是事件相關網站最重要的組成部分。它可以幫助用戶看到...",
+      "title": "在HTML和CSS中創建一個日曆"
+    }
+  ]
 }
