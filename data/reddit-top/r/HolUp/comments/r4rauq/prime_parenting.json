@@ -50,5 +50,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "プライムペアレント"
+    },
+    {
+      "locale": "zh",
+      "title": "首要的育儿方式"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "首要的育兒方式"
+    }
+  ]
 }

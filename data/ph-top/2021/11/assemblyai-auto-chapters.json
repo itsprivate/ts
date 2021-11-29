@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-29T13:55:56Z"
+  "original_createdAt": "2021-11-29T13:55:56Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "AssemblyAI社のAuto Chaptersを使えば、話題の変化に合わせて、オーディオファイルやビデオファイルの「時間経過による要約」を自動的に生成することができます。",
+      "tagline": "音声・映像ファイルをAPIで自動的にまとめる"
+    },
+    {
+      "locale": "zh",
+      "description": "通过AssemblyAI的自动章节，你可以随着谈话主题的变化，为你的音频和视频文件自动生成 \"随时间变化的摘要\"。",
+      "tagline": "用API自动总结音频和视频文件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "通過AssemblyAI的自動章節，你可以隨着談話主題的變化，爲你的音頻和視頻文件自動生成 \"隨時間變化的摘要\"。",
+      "tagline": "用API自動總結音頻和視頻文件"
+    }
+  ]
 }
