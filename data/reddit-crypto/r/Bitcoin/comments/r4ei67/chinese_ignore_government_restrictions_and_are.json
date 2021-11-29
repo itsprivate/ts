@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "中国人は政府の規制を無視して暗号を使って日本に送金している"
+    },
+    {
+      "locale": "zh",
+      "title": "中国人无视政府限制，正在使用加密货币向日本汇款"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "中國人無視政府限制，正在使用加密貨幣向日本匯款"
+    }
+  ]
 }
