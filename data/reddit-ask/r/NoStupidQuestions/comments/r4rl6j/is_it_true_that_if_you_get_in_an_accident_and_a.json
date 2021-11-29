@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Or is this a myth?"
+  "the_new_excerpt": "Or is this a myth?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "それともこれは神話なのか？",
+      "title": "もしあなたが事故に遭い、救急隊員があなたの免許証に臓器提供者であることを確認したら、あなたを一生懸命助けようとはしないというのは本当ですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "还是说这是一个神话？",
+      "title": "如果你遇到事故，而救护人员在你的驾照上看到你是器官捐赠者，他们就不会那么努力去救你，这是真的吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "還是說這是一個神話？",
+      "title": "如果你遇到事故，而救護人員在你的駕照上看到你是器官捐贈者，他們就不會那麼努力去救你，這是真的嗎？"
+    }
+  ]
 }
