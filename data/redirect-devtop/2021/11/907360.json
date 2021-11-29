@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-24T04:02:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Rzq2vsV3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3ke0h8jc0i3dg9gum1o8.jpeg",
   "author": "Tyler Hawkins",
-  "author_url": "https://dev.to/thawkin3"
+  "author_url": "https://dev.to/thawkin3",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ロバート・C・マーティンの「Clean Code」は、最もおすすめのプログラミング書籍です。どのリストを検索しても...",
+      "title": "In Defense of Clean Code: ボブおじさんからの時代を超えた100以上のアドバイス"
+    },
+    {
+      "locale": "zh",
+      "description": "罗伯特-C-马丁的《清洁代码》是最值得推荐的编程书籍。搜索任何列表...",
+      "title": "为清洁代码辩护。鲍勃叔叔的100多条永恒的建议"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "羅伯特-C-馬丁的《清潔代碼》是最值得推薦的編程書籍。搜索任何列表...",
+      "title": "爲清潔代碼辯護。鮑勃叔叔的100多條永恆的建議"
+    }
+  ]
 }
