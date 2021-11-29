@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "1946年、三つ子の赤ちゃんに初めて会った父は気絶してしまう。超音波が発明される前のことです。"
+    },
+    {
+      "locale": "zh",
+      "title": "1946年，父亲第一次见到他的三胞胎婴儿时晕倒了。那时候还没有发明超声检查。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "1946年，父親第一次見到他的三胞胎嬰兒時暈倒了。那時候還沒有發明超聲檢查。"
+    }
+  ]
 }
