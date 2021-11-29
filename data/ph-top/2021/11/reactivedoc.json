@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-28T08:00:00Z"
+  "original_createdAt": "2021-11-28T08:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Markdown、HTML、JSを使って、ダイナミックなドキュメント、コードスニペット、シンプルなアプリ、自動化機能を作成します。",
+      "tagline": "プレーンテキストでインタラクティブな文書を作成"
+    },
+    {
+      "locale": "zh",
+      "description": "用Markdown、HTML和JS创建动态文档、代码片段、简单应用和自动程序",
+      "tagline": "用纯文本创建交互式文档"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "用Markdown、HTML和JS創建動態文檔、代碼片段、簡單應用和自動程序",
+      "tagline": "用純文本創建交互式文檔"
+    }
+  ]
 }
