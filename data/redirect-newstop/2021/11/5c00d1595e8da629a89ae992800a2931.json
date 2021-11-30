@@ -14,5 +14,19 @@
   "tags": [
     "WLWT Cincinnati"
   ],
-  "image": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-c552c008f3807059deaff583dee09caf-h-fe4f771484bcdeb3c04f76c3f6d7a46b-1638231914.jpg?crop=1.00xw:0.848xh;0,0&resize=1200:*"
+  "image": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-c552c008f3807059deaff583dee09caf-h-fe4f771484bcdeb3c04f76c3f6d7a46b-1638231914.jpg?crop=1.00xw:0.848xh;0,0&resize=1200:*",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "オミクロンバリアントのため、ワクチン接種を受けたすべての成人はCOVID-19のブースターショットを受けるべきであるとCDCが発表"
+    },
+    {
+      "locale": "zh",
+      "title": "疾病预防控制中心说，所有接种过疫苗的成年人都应该注射COVID-19加强针，因为有奥米加的变体。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "疾病預防控制中心說，所有接種過疫苗的成年人都應該注射COVID-19加強針，因爲有奧米加的變體。"
+    }
+  ]
 }
