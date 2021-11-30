@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-29T04:17:01Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--F_dn8eeL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/no5umh4x15krankemrbl.jpg",
   "author": "Nick Scialli (he/him)",
-  "author_url": "https://dev.to/nas5w"
+  "author_url": "https://dev.to/nas5w",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "人間は絶対的なものを扱うのが好きだ。それは簡単だ。ニュアンスは難しい。私たちにとって残念なことに、すべての物事にはニュアンスが含まれています。",
+      "title": "JavaScriptでは「変異」が必ずしも悪いことではない"
+    },
+    {
+      "locale": "zh",
+      "description": "我们人类喜欢以绝对的方式处理问题。这很容易。细微差别是困难的。对我们来说，不幸的是，一切都涉及细微差别。",
+      "title": "在JavaScript中，突变并不总是坏事"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們人類喜歡以絕對的方式處理問題。這很容易。細微差別是困難的。對我們來說，不幸的是，一切都涉及細微差別。",
+      "title": "在JavaScript中，突變並不總是壞事"
+    }
+  ]
 }

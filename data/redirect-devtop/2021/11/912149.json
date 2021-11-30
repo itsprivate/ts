@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-29T14:26:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--i44Y5N8_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ck0mw554yiqm8jfvd0le.jpg",
   "author": "Dylan Oh",
-  "author_url": "https://dev.to/ohdylan"
+  "author_url": "https://dev.to/ohdylan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Javascriptは、GC（ガベージコレクション）が行われている高レベルの言語で、現代の...",
+      "title": "Javascriptのメモリ管理"
+    },
+    {
+      "locale": "zh",
+      "description": "Javascript是一种高水平的语言，它的GC（垃圾收集）是由现代人完成的。",
+      "title": "Javascript中的内存管理"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Javascript是一種高水平的語言，它的GC（垃圾收集）是由現代人完成的。",
+      "title": "Javascript中的內存管理"
+    }
+  ]
 }

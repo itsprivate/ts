@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-29T11:40:25Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_bL9gRW---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v1devaaz0103imvjdy9w.png",
   "author": "PuruVJ",
-  "author_url": "https://dev.to/puruvj"
+  "author_url": "https://dev.to/puruvj",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Jotaiは、比較的新しいReact用の状態管理ライブラリです。シンプルですが、間違いなく、...",
+      "title": "Jotaiです。究極のReact State Management"
+    },
+    {
+      "locale": "zh",
+      "description": "Jotai是一个相对较新的React的状态管理库。它很简单，但不要犯错，它是...",
+      "title": "Jotai: 最终的React状态管理"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Jotai是一個相對較新的React的狀態管理庫。它很簡單，但不要犯錯，它是...",
+      "title": "Jotai: 最終的React狀態管理"
+    }
+  ]
 }
