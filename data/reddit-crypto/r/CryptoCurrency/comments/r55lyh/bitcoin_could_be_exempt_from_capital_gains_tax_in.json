@@ -42,5 +42,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインは、エルサルバドルでは法定通貨になっているため、イギリスではキャピタルゲイン税が免除される可能性があります。"
+    },
+    {
+      "locale": "zh",
+      "title": "比特币在英国可以免征资本利得税，因为它现在在萨尔瓦多是合法货币。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比特幣在英國可以免徵資本利得稅，因爲它現在在薩爾瓦多是合法貨幣。"
+    }
+  ]
 }
