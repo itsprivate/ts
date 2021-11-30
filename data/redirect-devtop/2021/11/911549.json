@@ -43,5 +43,22 @@
   "original_created_at": "2021-11-28T19:48:04Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7o1-Ckup--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/661jf66h4rc8xmv9mr4k.png",
   "author": "The Dev Drawer",
-  "author_url": "https://dev.to/thedevdrawer"
+  "author_url": "https://dev.to/thedevdrawer",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "以前は、console.logをよく使っていました。今でもそうですが、以前は私もそうでした。しかし、私の使い方は...",
+      "title": "JavaScriptコンソールのエキスパートになる"
+    },
+    {
+      "locale": "zh",
+      "description": "我过去经常使用console.log。我现在还是这样，但我以前也是这样。然而，我的使用情况是",
+      "title": "成为JavaScript控制台专家"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我過去經常使用console.log。我現在還是這樣，但我以前也是這樣。然而，我的使用情況是",
+      "title": "成爲JavaScript控制檯專家"
+    }
+  ]
 }
