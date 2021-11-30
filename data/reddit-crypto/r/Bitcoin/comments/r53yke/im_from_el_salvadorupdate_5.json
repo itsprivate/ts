@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Hi, it’s time for another update!\n\nAt this point in time the hype is fading away and things are settling down.\n\nFor starters, the chivo app still have problems doing transactions (tx) to\nexternal wallets like muun or coinomi. Tx between chivo wallets are fine,\nalthough they use a btc L1 QR code, the…"
+  "the_new_excerpt": "Hi, it’s time for another update!\n\nAt this point in time the hype is fading away and things are settling down.\n\nFor starters, the chivo app still have problems doing transactions (tx) to\nexternal wallets like muun or coinomi. Tx between chivo wallets are fine,\nalthough they use a btc L1 QR code, the…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "こんにちは、またまた更新のお時間です。\n\n現時点では、誇大広告が消え、物事が落ち着いてきています。\n\n手始めに、chivoアプリでは、まだ\nmuunやcoinomiなどの外部ウォレットとの取引（Tx）に問題があります。chivoのウォレット間のTxは問題ありません。\nbtc L1のQRコードを使用していますが、...",
+      "title": "エルサルバドルから来ました...UPDATE 5"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你好，又到了更新的时候了\n\n在这个时间点上，炒作正在消退，事情正在稳定下来。\n\n首先，chivo应用程序仍然有问题，做交易（tx）到\n外部钱包，如muun或coinomi。chivo钱包之间的交易是正常的。\n虽然他们使用的是btc L1的二维码，但...",
+      "title": "我来自萨尔瓦多...更新5"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你好，又到了更新的時候了\n\n在這個時間點上，炒作正在消退，事情正在穩定下來。\n\n首先，chivo應用程序仍然有問題，做交易（tx）到\n外部錢包，如muun或coinomi。chivo錢包之間的交易是正常的。\n雖然他們使用的是btc L1的二維碼，但...",
+      "title": "我來自薩爾瓦多...更新5"
+    }
+  ]
 }
