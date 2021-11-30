@@ -4,7 +4,9 @@ on:
       - https://www.reddit.com/r/booksuggestions/top/
       - https://www.reddit.com/r/books/top/
     source: json
+    client: puppeteer-fetch
     config:
+      active: false
       # limit: 2
       # force: true
       outputsMode: combine

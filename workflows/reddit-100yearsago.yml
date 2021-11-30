@@ -4,6 +4,7 @@ on:
       - https://www.reddit.com/r/100yearsago/top/?t=week
     # url: https://www.reddit.com/r/all/top/
     source: json
+    client: puppeteer-fetch
     config:
       # limit: 2
       # force: true

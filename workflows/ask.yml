@@ -1,21 +1,20 @@
 on:
   reddit:
     url:
-      # - https://www.reddit.com/r/AskReddit/top/
+      - https://www.reddit.com/r/AskReddit/top/
       - https://www.reddit.com/r/Ask_Politics/top/
       - https://www.reddit.com/r/AskHistorians/top/
-      # - https://www.reddit.com/r/AskMen/top/
       - https://www.reddit.com/r/AskWomen/top/
       - https://www.reddit.com/r/TooAfraidToAsk/top/
       - https://www.reddit.com/r/NoStupidQuestions/top/
       - https://www.reddit.com/r/TrueAskReddit/top/
       - https://www.reddit.com/r/askscience/top/
       - https://www.reddit.com/r/askphilosophy/top/
-    # url: https://www.reddit.com/r/all/top/
+    client: puppeteer-fetch
     source: json
     config:
       # limit: 2
-      active: false
+      # active: false
       # force: true
       outputsMode: combine
       exportOutputs: true

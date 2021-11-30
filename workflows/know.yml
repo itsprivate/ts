@@ -3,6 +3,7 @@ on:
     url:
       - https://www.reddit.com/r/YouShouldKnow/top/?t=week
     source: json
+    client: puppeteer-fetch
     config:
       # limit: 2
       # force: true

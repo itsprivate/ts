@@ -5,6 +5,7 @@ on:
       - https://www.reddit.com/r/Foodforthought/top/
     # url: https://www.reddit.com/r/all/top/
     source: json
+    client: puppeteer-fetch
     config:
       # limit: 2
       # force: true

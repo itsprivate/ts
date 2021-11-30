@@ -5,6 +5,7 @@ on:
     # url: https://www.reddit.com/r/all/top/
     source: json
     config:
+      active: false
       # limit: 2
       # force: true
       every: "30 * * * *"
