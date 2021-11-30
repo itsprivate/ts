@@ -136,5 +136,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1638264266,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今日のために必要なニュース"
+    },
+    {
+      "locale": "zh",
+      "title": "新闻，我们今天都需要"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "新聞，我們今天都需要"
+    }
+  ]
 }
