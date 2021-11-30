@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "Some cars have weird, confusingly shaped lights on the dash, or maybe you just\ndidn't read the manual. Either way, you don't necessarily need to know what\nevery light means as long as you pay attention to the color.\n\nGreen: Non issue, just a notification. Things like fog lights, or ready to move\non…"
+  "the_new_excerpt": "Some cars have weird, confusingly shaped lights on the dash, or maybe you just\ndidn't read the manual. Either way, you don't necessarily need to know what\nevery light means as long as you pay attention to the color.\n\nGreen: Non issue, just a notification. Things like fog lights, or ready to move\non…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "車によっては、ダッシュに変な形のランプが付いていたり、マニュアルを読んでいないだけだったりします。\n説明書を読んでいないだけかもしれません。いずれにしても、何も知らなくても大丈夫です。\nいずれにしても、色に注意を払えば、すべてのランプの意味を知る必要はありません。\n\n緑。問題はなく、単なる通知です。フォグランプのようなもの、または移動の準備が\n次のステップへ...",
+      "title": "車のダッシュボードにある警告灯の色が問題の緊急度を示しているというYSK"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "有些车的仪表盘上有奇怪的、形状混乱的灯，或者你只是\n没有阅读手册。无论如何，你不一定需要知道每一个灯是什么意思\n每一个灯的意思，只要你注意其颜色。\n\n绿色。没有问题，只是一个通知。像雾灯，或准备继续前进的事情\n雾灯，或准备行动......。",
+      "title": "YSK认为，你的汽车仪表盘上的警告灯的颜色表明了问题的紧迫性"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "有些車的儀表盤上有奇怪的、形狀混亂的燈，或者你只是\n沒有閱讀手冊。無論如何，你不一定需要知道每一個燈是什麼意思\n每一個燈的意思，只要你注意其顏色。\n\n綠色。沒有問題，只是一個通知。像霧燈，或準備繼續前進的事情\n霧燈，或準備行動......。",
+      "title": "YSK認爲，你的汽車儀表盤上的警告燈的顏色表明了問題的緊迫性"
+    }
+  ]
 }
