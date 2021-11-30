@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-30T08:01:00Z"
+  "original_createdAt": "2021-11-30T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Browserflowは、あらゆるWebサイト上のあらゆるタスクを自動化できるChrome拡張機能です。Webサイトのスクレイピング、ワークフローの自動化、スプレッドシートへの入力など、コーディング不要で様々なことが可能です。",
+      "tagline": "あらゆるウェブサイトで作業を自動化"
+    },
+    {
+      "locale": "zh",
+      "description": "Browserflow是一个Chrome扩展，可以让你在任何网站上自动完成任何任务。刮取网站，自动化工作流程，填写电子表格，以及更多--无需编码。",
+      "tagline": "在任何网站上实现工作自动化"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Browserflow是一個Chrome擴展，可以讓你在任何網站上自動完成任何任務。刮取網站，自動化工作流程，填寫電子表格，以及更多--無需編碼。",
+      "tagline": "在任何網站上實現工作自動化"
+    }
+  ]
 }
