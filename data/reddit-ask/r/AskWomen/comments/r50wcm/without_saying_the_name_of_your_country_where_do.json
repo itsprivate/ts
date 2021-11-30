@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの国名を言わずに、どこに住んでいるのですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果不说你的国家名称，你住在哪里？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果不說你的國家名稱，你住在哪裏？"
+    }
+  ]
 }
