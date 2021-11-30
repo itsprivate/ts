@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "メッセージを送信したい場合 ウォレットを閉じる"
+    },
+    {
+      "locale": "zh",
+      "title": "想发信息？关闭你的钱包"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "想發信息？關閉你的錢包"
+    }
+  ]
 }

@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "それは創造的な提案方法です"
+    },
+    {
+      "locale": "zh",
+      "title": "这是个有创意的求婚方式"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是個有創意的求婚方式"
+    }
+  ]
 }
