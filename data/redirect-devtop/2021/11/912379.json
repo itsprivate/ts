@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-29T16:35:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7ZZ22pEa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/474aw8ri0ds2uxnnbqvt.jpg",
   "author": "Kirk Shillingford",
-  "author_url": "https://dev.to/kirkcodes"
+  "author_url": "https://dev.to/kirkcodes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "\"シンタックスではなく、セマンティクスである。\" - リチャード・フェルドマン この記事は、ただのコレクション...",
+      "title": "セマンティクス、ノットシンタックス：機能優先プログラミングによる開発者のエンパワーメント"
+    },
+    {
+      "locale": "zh",
+      "description": "\"这不是语法问题，而是语义问题\"。- 理查德-费尔德曼（Richard Feldman） 这篇文章只是一个集合...",
+      "title": "语义，而非语法；使用功能优先的编程方式增强开发人员的能力"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "\"這不是語法問題，而是語義問題\"。- 理查德-費爾德曼（Richard Feldman） 這篇文章只是一個集合...",
+      "title": "語義，而非語法；使用功能優先的編程方式增強開發人員的能力"
+    }
+  ]
 }

@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-11-30T09:36:40Z"
+  "original_createdAt": "2021-11-30T09:36:40Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Androidアプリを使って、測定結果を持ち歩こう ChartMogul Subscription Data Platformでは、課金データを簡単にインポートし、業界をリードするサブスクリプション分析でプロのように分析することができます。",
+      "tagline": "外出先でもSaaSの評価指標を把握できるようになりました。"
+    },
+    {
+      "locale": "zh",
+      "description": "用我们的安卓应用程序把你的指标带在路上! ChartMogul订阅数据平台使你可以很容易地导入你的账单数据，然后像专家一样用行业领先的订阅分析来分析它。",
+      "tagline": "在旅途中跟踪你的SaaS指标，现在在安卓系统上"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "用我們的安卓應用程序把你的指標帶在路上! ChartMogul訂閱數據平臺使你可以很容易地導入你的賬單數據，然後像專家一樣用行業領先的訂閱分析來分析它。",
+      "tagline": "在旅途中跟蹤你的SaaS指標，現在在安卓系統上"
+    }
+  ]
 }

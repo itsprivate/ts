@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-30T06:50:12Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s---kHI_7aI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d5bxkps09taz1in4a0tn.png",
   "author": "Swastik Yadav",
-  "author_url": "https://dev.to/swastikyadav"
+  "author_url": "https://dev.to/swastikyadav",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、プログラマーの皆さん、私たちの多くはアルゴリズムを怖がっていて、なかなか学習を始めようとしません。しかし、私たちは...",
+      "title": "アルゴリズムをJavaScriptで視覚的な例を用いて説明しています。"
+    },
+    {
+      "locale": "zh",
+      "description": "程序员你好，我们大多数人都害怕算法，从来没有开始学习它。但是我们...",
+      "title": "JavaScript中的算法与可视化实例。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "程序員你好，我們大多數人都害怕算法，從來沒有開始學習它。但是我們...",
+      "title": "JavaScript中的算法與可視化實例。"
+    }
+  ]
 }
