@@ -52,5 +52,22 @@
   "original_created_at": "2021-11-25T11:49:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Ak75sBaq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/81u7wij4wa5wdsgejagr.png",
   "author": "Pramit Marattha",
-  "author_url": "https://dev.to/pramit_armpit"
+  "author_url": "https://dev.to/pramit_armpit",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このブログのチュートリアルでは、フルスタックのアプリを設定して、MERN...を使ってCRUD操作を行います。",
+      "title": "MERNスタックを使って魅力的なCRUDアプリケーションを作る🔥。"
+    },
+    {
+      "locale": "zh",
+      "description": "在这个博客教程中，我们将建立一个全栈的应用程序，使用MERN来执行CRUD操作。",
+      "title": "用MERN堆栈制作一个令人惊叹的CRUD应用程序 🔥 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這個博客教程中，我們將建立一個全棧的應用程序，使用MERN來執行CRUD操作。",
+      "title": "用MERN堆棧製作一個令人驚歎的CRUD應用程序 🔥 "
+    }
+  ]
 }
