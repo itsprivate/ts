@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] もしもTwitchが国だったら、最も不平等な所得分配をしているだろう（ジニ係数とローレンツ曲線）。"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]如果Twitch是一个国家，它将拥有最不平等的收入分配（基尼系数和洛伦兹曲线）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]如果Twitch是一個國家，它將擁有最不平等的收入分配（基尼係數和洛倫茲曲線）。"
+    }
+  ]
 }
