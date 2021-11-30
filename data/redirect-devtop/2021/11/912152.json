@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-29T14:34:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8x2yV8I8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1iol9vfv8d0ryj6o94oh.png",
   "author": "Mansour Mahamat",
-  "author_url": "https://dev.to/mahamatmans"
+  "author_url": "https://dev.to/mahamatmans",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Javascriptの変数は、一度に1つのデータしか保存することができません。しかし、しばしば...",
+      "title": "Array cheatsheet Javascript"
+    },
+    {
+      "locale": "zh",
+      "description": "Javascript中的变量一次只允许存储一个数据。然而，鉴于它经常...",
+      "title": "阵列作弊器 Javascript"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Javascript中的變量一次只允許存儲一個數據。然而，鑑於它經常...",
+      "title": "陣列作弊器 Javascript"
+    }
+  ]
 }
