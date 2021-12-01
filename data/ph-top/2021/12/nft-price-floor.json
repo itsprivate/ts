@@ -83,5 +83,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-01T08:30:00Z"
+  "original_createdAt": "2021-12-01T08:30:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "NFT Price Floorは、プライスフロア、平均価格、上場比率など、NFTアートコレクターが最も利用する指標を表示し、それらをまとめて表示します（NFTにとってのcoingeckoのようなものです）。",
+      "tagline": "NFTの価格とキュレートされたデータのハブとなるNFTランキング・ダッシュボード"
+    },
+    {
+      "locale": "zh",
+      "description": "NFT价格底线显示了NFT艺术收藏家最常用的指标，如价格底线、平均价格、上市比例等，并将它们合在一起显示（有点像NFT的coingecko。",
+      "tagline": "NFT排名仪表板，一个NFT价格和策划数据的中心"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "NFT價格底線顯示了NFT藝術收藏家最常用的指標，如價格底線、平均價格、上市比例等，並將它們合在一起顯示（有點像NFT的coingecko。",
+      "tagline": "NFT排名儀表板，一個NFT價格和策劃數據的中心"
+    }
+  ]
 }

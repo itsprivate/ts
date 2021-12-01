@@ -52,5 +52,22 @@
   "original_created_at": "2021-11-25T21:41:34Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--38fcHbar--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/stppr2jbqrk5trs03fah.png",
   "author": "Jess Mitchell",
-  "author_url": "https://dev.to/gemontracks"
+  "author_url": "https://dev.to/gemontracks",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "React Nativeモバイルアプリで多人数参加型のビデオ通話を作成・参加する",
+      "title": "React Nativeでリアルタイムビデオチャットアプリを作る"
+    },
+    {
+      "locale": "zh",
+      "description": "在React Native移动应用中创建并加入一个多人视频电话",
+      "title": "用React Native构建一个实时视频聊天应用"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在React Native移動應用中創建並加入一個多人視頻電話",
+      "title": "用React Native構建一個實時視頻聊天應用"
+    }
+  ]
 }

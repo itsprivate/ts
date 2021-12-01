@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-30T12:48:19Z",
   "image": "https://dev.to/social_previews/article/913150.png",
   "author": "javinpaul",
-  "author_url": "https://dev.to/javinpaul"
+  "author_url": "https://dev.to/javinpaul",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Quarkus、Spring Boot、MicroNaut、Vert.x、Eclipse MicroProfileは、JavaでMicroservicesを作成するための最適なJavaフレームワークです。",
+      "title": "マイクロサービスとクラウドネイティブ開発のために2022年に学ぶべき5つのベストJavaフレームワーク"
+    },
+    {
+      "locale": "zh",
+      "description": "Quarkus、Spring Boot、MicroNaut、Vert.x和Eclipse MicroProfile是用Java创建微服务的最佳Java框架。",
+      "title": "2022年学习微服务和云原生开发的5个最佳Java框架"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Quarkus、Spring Boot、MicroNaut、Vert.x和Eclipse MicroProfile是用Java創建微服務的最佳Java框架。",
+      "title": "2022年學習微服務和雲原生開發的5個最佳Java框架"
+    }
+  ]
 }

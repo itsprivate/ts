@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-01T08:39:58Z",
   "image": "https://dev.to/social_previews/article/914028.png",
   "author": "Robbie Cahill",
-  "author_url": "https://dev.to/ciphercode"
+  "author_url": "https://dev.to/ciphercode",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに この5つの生産性向上のためのヒントは、Node...としてのあなたの生産性を高めます。",
+      "title": "ノード開発者としての生産性を飛躍的に高める6つの方法"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍：这五个生产力技巧将提高你作为一个节点的生产力。",
+      "title": "作为一名节点开发人员，有六种方法可以极大地提高你的工作效率"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹：這五個生產力技巧將提高你作爲一個節點的生產力。",
+      "title": "作爲一名節點開發人員，有六種方法可以極大地提高你的工作效率"
+    }
+  ]
 }

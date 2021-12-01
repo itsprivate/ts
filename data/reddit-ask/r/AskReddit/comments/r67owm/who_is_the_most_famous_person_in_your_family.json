@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "家族の中で一番有名な人は誰ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "谁是你家族中最有名的人？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "誰是你家族中最有名的人？"
+    }
+  ]
 }

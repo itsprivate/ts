@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-26T13:49:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--iGJiPsxk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1eqbq6yxdgi72tn727lo.png",
   "author": "Esther Agbaje",
-  "author_url": "https://dev.to/estheragbaje"
+  "author_url": "https://dev.to/estheragbaje",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Storybookは、開発者がコンポーネントを使って対話することができるUI開発環境です。",
+      "title": "ReactプロジェクトでのStorybookJSの使い方を学ぶ"
+    },
+    {
+      "locale": "zh",
+      "description": "Storybook是一个UI开发环境，允许开发人员与组件进行互动。",
+      "title": "学习在你的React项目中使用StorybookJS"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Storybook是一個UI開發環境，允許開發人員與組件進行互動。",
+      "title": "學習在你的React項目中使用StorybookJS"
+    }
+  ]
 }

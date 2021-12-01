@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-01T13:06:12Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RUY7UitY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3frk3uc4jc6rv7qhg7u1.jpeg",
   "author": "CAST AI",
-  "author_url": "https://dev.to/castai"
+  "author_url": "https://dev.to/castai",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "自動化されたクラウドのコスト最適化についてはご存知かと思いますが、自律的なクラウドのコスト最適化についてはどうでしょうか？",
+      "title": "自律的なクラウドコスト最適化とは何か、それによって何が得られるのか。"
+    },
+    {
+      "locale": "zh",
+      "description": "你可能听说过自动化的云计算成本优化--但自主的云计算成本呢？",
+      "title": "什么是自主云成本优化，你能从中获得什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你可能聽說過自動化的雲計算成本優化--但自主的雲計算成本呢？",
+      "title": "什麼是自主雲成本優化，你能從中獲得什麼？"
+    }
+  ]
 }

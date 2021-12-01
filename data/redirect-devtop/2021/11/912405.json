@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-29T17:08:39Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--aCohNdil--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fyg83goywyh6y3uwhizl.png",
   "author": "JB ",
-  "author_url": "https://dev.to/jbrocher"
+  "author_url": "https://dev.to/jbrocher",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "フォームは、Reactではうまくいかないことが多いです。formikやReact...のような素晴らしいライブラリがありますが",
+      "title": "ReactのTips & Tricksです。プログレスバーを使ってファイルをアップロードする"
+    },
+    {
+      "locale": "zh",
+      "description": "在React中，表单往往是很棘手的。虽然有很好的库，如formik或React...",
+      "title": "React技巧和窍门。用进度条上传文件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在React中，表單往往是很棘手的。雖然有很好的庫，如formik或React...",
+      "title": "React技巧和竅門。用進度條上傳文件"
+    }
+  ]
 }

@@ -52,5 +52,22 @@
   "original_created_at": "2021-11-30T11:57:16Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bECTMwjG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1ijnpa2r9j028clx3sej.png",
   "author": "Saji Wang",
-  "author_url": "https://dev.to/sewangco"
+  "author_url": "https://dev.to/sewangco",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今年の感謝祭では、特にJavascriptに感謝しています。12月に発表されて以来...",
+      "title": "Javascriptでできるとは知らなかった10のこと"
+    },
+    {
+      "locale": "zh",
+      "description": "在这个感恩节里，我特别感谢Javascript。自从它在12月公布以来...",
+      "title": "10件你不知道可以用Javascript做的事"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這個感恩節裏，我特別感謝Javascript。自從它在12月公佈以來...",
+      "title": "10件你不知道可以用Javascript做的事"
+    }
+  ]
 }

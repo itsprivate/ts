@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "一過性のインフレーションが（公式に）REALインフレーションと宣言された。"
+    },
+    {
+      "locale": "zh",
+      "title": "暂时性通货膨胀现在（官方）宣布为真实通货膨胀"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "暫時性通貨膨脹現在（官方）宣佈爲真實通貨膨脹"
+    }
+  ]
 }

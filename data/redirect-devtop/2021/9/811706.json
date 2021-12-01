@@ -48,5 +48,22 @@
   "original_created_at": "2021-09-02T16:52:23Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--C_fkIHAU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.pexels.com/photos/4587991/pexels-photo-4587991.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D2%26h%3D650%26w%3D940",
   "author": "Victor Ocnarescu",
-  "author_url": "https://dev.to/victorocna"
+  "author_url": "https://dev.to/victorocna",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactにおける単一責任主義 Reactにおけるコンポーネントの考え方と書き方のポイント。",
+      "title": "優れたReactコンポーネントを書くための私の秘策"
+    },
+    {
+      "locale": "zh",
+      "description": "React中的单一责任原则。React中思考和编写组件的关键。",
+      "title": "我编写优秀React组件的秘诀"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "React中的單一責任原則。React中思考和編寫組件的關鍵。",
+      "title": "我編寫優秀React組件的祕訣"
+    }
+  ]
 }

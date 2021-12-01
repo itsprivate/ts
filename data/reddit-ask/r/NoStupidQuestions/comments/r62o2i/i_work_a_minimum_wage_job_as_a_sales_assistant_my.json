@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>My boss is cheap. I know he’s asking me\nbecause he’s aware of how much it usually costs to have batches of images\nedited</p> </div><!-- SC_ON -->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>My boss is cheap. I know he’s asking me\nbecause he’s aware of how much it usually costs to have batches of images\nedited</p> </div><!-- SC_ON -->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!--SC_OFF --><div class=\"md\"><p>私の上司はケチです。私に頼んでいるのは分かっています。\n私に頼んでいるのは、大量の画像を編集するのにどれだけの費用がかかるかを知っているからです。\nedited</p> </div><!-- SC_ON -->",
+      "title": "私は最低賃金で販売アシスタントの仕事をしていますが、上司は私がフォトショップに長けていることを知り、フロアで働く代わりに写真の編集をしてほしいと言ってきました。写真編集は通常、最低賃金以上の報酬を得ることができますが、追加報酬を求めるべきでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<！--SC_OFF --><div class=\"md\"><p>我的老板很吝啬。我知道他在问我\nbecause he’s aware of how much it usually costs to have batches of images\nedited</p> </div><!-- SC_ON -->",
+      "title": "我做着一份最低工资的工作，是一名销售助理，我的老板发现我擅长Photoshop，想让我编辑一些照片，而不是在地板上工作。考虑到照片编辑通常比最低工资要高，我是否应该要求额外的报酬？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<！--SC_OFF --><div class=\"md\"><p>我的老闆很吝嗇。我知道他在問我\nbecause he’s aware of how much it usually costs to have batches of images\nedited</p> </div><!-- SC_ON -->",
+      "title": "我做着一份最低工資的工作，是一名銷售助理，我的老闆發現我擅長Photoshop，想讓我編輯一些照片，而不是在地板上工作。考慮到照片編輯通常比最低工資要高，我是否應該要求額外的報酬？"
+    }
+  ]
 }

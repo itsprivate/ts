@@ -13,5 +13,19 @@
   ],
   "objectID": "29403320",
   "original_created_at": "2021-12-01T13:10:27.000Z",
-  "image": "https://www.betrfs.org/images/betrfs.png"
+  "image": "https://www.betrfs.org/images/betrfs.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "BetrFS: Bεツリーを用いてディスク上のストレージを整理するインカーネル・ファイルシステム"
+    },
+    {
+      "locale": "zh",
+      "title": "BetrFS：一个内核文件系统，使用Bε树来组织磁盘存储。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "BetrFS：一個內核文件系統，使用Bε樹來組織磁盤存儲。"
+    }
+  ]
 }

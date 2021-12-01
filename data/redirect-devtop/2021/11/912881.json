@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-30T06:48:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JkCqmYfL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c7ot0p0qpeen2oqgp98y.jpg",
   "author": "aidelojep",
-  "author_url": "https://dev.to/aidelojep"
+  "author_url": "https://dev.to/aidelojep",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Write with Faunaプログラムに関連して書かれたものです。 この記事は、チュートリアルのステップに焦点を当てています...",
+      "title": "Rest API、Spring Boot、Maven、Faunaを使ったタスク管理アプリケーションの構築 "
+    },
+    {
+      "locale": "zh",
+      "description": "与 \"与动物一起写 \"计划有关而写。 这篇文章重点介绍了教程的步骤...",
+      "title": "使用Rest API、Spring Boot、Maven和Fauna构建一个任务管理应用程序 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "與 \"與動物一起寫 \"計劃有關而寫。 這篇文章重點介紹了教程的步驟...",
+      "title": "使用Rest API、Spring Boot、Maven和Fauna構建一個任務管理應用程序 "
+    }
+  ]
 }

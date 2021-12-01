@@ -50,5 +50,22 @@
   "original_created_at": "2021-09-26T21:31:52Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bM-sw7FN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3ugijvsvtozxuayqclse.jpg",
   "author": "Alvaro Montoro",
-  "author_url": "https://dev.to/alvaromontoro"
+  "author_url": "https://dev.to/alvaromontoro",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "35行のコードです。これが、CSSで機能的な直交座標系を構築するのに必要なものです。",
+      "title": "CSSとHTMLで座標系を構築する"
+    },
+    {
+      "locale": "zh",
+      "description": "三十五行代码。这就是用CSS建立一个功能性的喀斯特坐标系统所需要的。",
+      "title": "在CSS和HTML中建立一个坐标系统"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "三十五行代碼。這就是用CSS建立一個功能性的喀斯特座標系統所需要的。",
+      "title": "在CSS和HTML中建立一個座標系統"
+    }
+  ]
 }

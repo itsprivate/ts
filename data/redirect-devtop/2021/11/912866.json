@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-30T06:46:07Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mqYowY9E--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7zed2qw6or5tlyp8c35w.png",
   "author": "Alex E",
-  "author_url": "https://dev.to/alexeagleson"
+  "author_url": "https://dev.to/alexeagleson",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このチュートリアルのビデオ版に興味のある方は、以下のリンクをご覧ください。フォローしてください。",
+      "title": "Create React App」プロダクションビルドの分析と改善方法"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你对本教程的视频版本感兴趣，请查看以下链接。你可以跟...",
+      "title": "如何分析和改进你的 \"创建React应用程序 \"生产构建"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你對本教程的視頻版本感興趣，請查看以下鏈接。你可以跟...",
+      "title": "如何分析和改進你的 \"創建React應用程序 \"生產構建"
+    }
+  ]
 }

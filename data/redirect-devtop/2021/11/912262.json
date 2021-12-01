@@ -43,5 +43,22 @@
   "original_created_at": "2021-11-29T15:44:16Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ApzDHaJO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5rzw9g5p4k326bfwpabv.png",
   "author": "Salma Alam-Naylor",
-  "author_url": "https://dev.to/whitep4nth3r"
+  "author_url": "https://dev.to/whitep4nth3r",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私たちは、Fast ForwardでContentful Images APIの新しい画像フォーマットAVIFのサポートをリリースしました...",
+      "title": "HTMLのpicture要素を使ってAVIFやWebPのレスポンシブ画像を読み込む方法"
+    },
+    {
+      "locale": "zh",
+      "description": "在我们的Fast Forward大会上，我们发布了对Contentful Images API上新的AVIF图像格式的支持...",
+      "title": "如何使用HTML图片元素加载AVIF和WebP的响应式图片"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在我們的Fast Forward大會上，我們發佈了對Contentful Images API上新的AVIF圖像格式的支持...",
+      "title": "如何使用HTML圖片元素加載AVIF和WebP的響應式圖片"
+    }
+  ]
 }
