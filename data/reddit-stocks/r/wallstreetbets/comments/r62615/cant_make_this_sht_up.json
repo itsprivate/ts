@@ -156,5 +156,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1638319740,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このクソを作ることはできません。"
+    },
+    {
+      "locale": "zh",
+      "title": "这是不可能的事!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是不可能的事!"
+    }
+  ]
 }

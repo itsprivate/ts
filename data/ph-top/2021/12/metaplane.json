@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-01T08:05:00Z"
+  "original_createdAt": "2021-12-01T08:05:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Metaplaneは、データのためのDatadogであり、データスタックを継続的に監視し、何か問題が発生したときに警告を発し、関連するメタデータを提供してデバッグを支援するデータ観測ツールです。",
+      "tagline": "Datadog for data - ユーザーからの問い合わせが来る前に、データ品質に関するアラートを表示します。"
+    },
+    {
+      "locale": "zh",
+      "description": "Metaplane是数据的Datadog--一个数据可观察性工具，它持续监控你的数据堆栈，当出现问题时提醒你，并提供相关元数据以帮助你调试。",
+      "tagline": "用于数据的Datadog--在用户ping你之前发出数据质量警报"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Metaplane是數據的Datadog--一個數據可觀察性工具，它持續監控你的數據堆棧，當出現問題時提醒你，並提供相關元數據以幫助你調試。",
+      "tagline": "用於數據的Datadog--在用戶ping你之前發出數據質量警報"
+    }
+  ]
 }

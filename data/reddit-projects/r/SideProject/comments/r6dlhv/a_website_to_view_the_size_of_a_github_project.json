@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "GitHubのプロジェクトの規模や使用されている言語を確認できるサイト"
+    },
+    {
+      "locale": "zh",
+      "title": "查看GitHub项目规模和使用何种语言的网站"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "查看GitHub項目規模和使用何種語言的網站"
+    }
+  ]
 }

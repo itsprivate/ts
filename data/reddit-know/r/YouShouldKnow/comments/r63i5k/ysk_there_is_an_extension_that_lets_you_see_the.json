@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Not sure about the policy of linking directly\nto things, but if you just google: &quot;Return Youtube Dislike&quot; you can\nfind the right extension. It works for Chrome and Firefox.</p> <p>Why YSK:\napparently I have to explain why youtube dislike counts are…"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Not sure about the policy of linking directly\nto things, but if you just google: &quot;Return Youtube Dislike&quot; you can\nfind the right extension. It works for Chrome and Firefox.</p> <p>Why YSK:\napparently I have to explain why youtube dislike counts are…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!--SC_OFF --><div class=\"md\"><p>直リンクのポリシーについてはわかりませんが\nしかし、「Return Youtube Dislike&quot;」でググれば、適切な拡張機能が見つかります。\n</p> <p>直リンクのポリシーはわかりませんが、「&quot;Return Youtube & &quot;」でググると、適切な拡張機能が見つかります。</p> <p>なぜYSKなのか。\nYouTubeのDislikeカウントの理由を説明する必要があります。",
+      "title": "YSK: youtubeの動画についた「いいね！」の数を見ることができる拡張機能があります。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>不清楚直接链接到事物的政策。\n但如果你在谷歌上搜索：&quot;Return Youtube Dislike&quot;你就可以找到正确的扩展。\n找到正确的扩展。它适用于Chrome和Firefox。</p> <p>为什么是YSK。\n显然，我必须解释为什么Youtube的不喜欢计数是...",
+      "title": "YSK: 有一个扩展，可以让你看到YouTube视频上的不喜欢的数量。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>不清楚直接鏈接到事物的政策。\n但如果你在谷歌上搜索：&quot;Return Youtube Dislike&quot;你就可以找到正確的擴展。\n找到正確的擴展。它適用於Chrome和Firefox。</p> <p>爲什麼是YSK。\n顯然，我必須解釋爲什麼Youtube的不喜歡計數是...",
+      "title": "YSK: 有一個擴展，可以讓你看到YouTube視頻上的不喜歡的數量。"
+    }
+  ]
 }

@@ -42,5 +42,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>NOTE: The title should have read “my bank paid\nme £0.01 interest this month based on ~£2000. I would be 77100%+ better off had\ni staked that £2000” . This is because it’s mathematically impossible for\nsomething to be more than 100% less. It would be 99.999…</p>…"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>NOTE: The title should have read “my bank paid\nme £0.01 interest this month based on ~£2000. I would be 77100%+ better off had\ni staked that £2000” . This is because it’s mathematically impossible for\nsomething to be more than 100% less. It would be 99.999…</p>…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!--SC_OFF --><div class=\"md\"><p>注：タイトルは「銀行がこの月に0.01ポンドの利息を払ってくれた」とすべきでした。\n私の銀行は今月、2000ポンドに基づいて0.01ポンドの利息を支払いました。その2000ポンドを賭けていたら、77100％以上も得をしていた。\nその2000ポンドを賭けていたら、77100％以上も得をしていた」とすべきでした。これは、数学的には100％以上の減少は不可能だからです。\n数学的に不可能だからです。99.999...</p>...となります。",
+      "title": "私の銀行は今月、～£2,000に基づいて£0.01の利息を支払ってくれました。安定したコインに同じ額を賭けた場合、暗号通貨が私に与えたであろう利益よりも77100%以上も低い。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>注意：标题应该是 \"我的银行向我支付了0.01英镑的国际汇款\"。\n0.01英镑的利息，基于~2000英镑。如果我用这2000英镑做赌注，我的日子会好过77100%以上。\n我拿这2000英镑做赌注\"。这是因为从数学上来说，不可能\n因为从数学上来说，某样东西不可能少100%以上。它将是99.999...</p>...",
+      "title": "我的银行这个月支付给我0.01英镑的利息，基于~2000英镑。如果我在稳定币中押注同样的金额，比加密货币给我带来的收益要少77100%+。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>注意：標題應該是 \"我的銀行向我支付了0.01英鎊的國際匯款\"。\n0.01英鎊的利息，基於~2000英鎊。如果我用這2000英鎊做賭注，我的日子會好過77100%以上。\n我拿這2000英鎊做賭注\"。這是因爲從數學上來說，不可能\n因爲從數學上來說，某樣東西不可能少100%以上。它將是99.999...</p>...",
+      "title": "我的銀行這個月支付給我0.01英鎊的利息，基於~2000英鎊。如果我在穩定幣中押注同樣的金額，比加密貨幣給我帶來的收益要少77100%+。"
+    }
+  ]
 }

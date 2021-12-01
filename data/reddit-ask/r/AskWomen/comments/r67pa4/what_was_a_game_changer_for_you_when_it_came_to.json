@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "メンタルヘルスに関して、あなたにとってのゲームチェンジャーは何でしたか？"
+    },
+    {
+      "locale": "zh",
+      "title": "当涉及到你的心理健康时，对你来说，什么是改变游戏规则的因素？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當涉及到你的心理健康時，對你來說，什麼是改變遊戲規則的因素？"
+    }
+  ]
 }

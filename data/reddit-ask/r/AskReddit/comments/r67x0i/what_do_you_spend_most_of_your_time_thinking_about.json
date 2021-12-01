@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたは何を考えて過ごすことが多いですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你花在思考上的时间最多的是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你花在思考上的時間最多的是什麼？"
+    }
+  ]
 }

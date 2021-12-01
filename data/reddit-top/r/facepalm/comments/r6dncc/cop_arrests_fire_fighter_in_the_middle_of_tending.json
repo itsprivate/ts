@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "消防車が1mmオーバーしていたため、警官が負傷した一般市民の手当てをしている最中に消防士を逮捕した。"
+    },
+    {
+      "locale": "zh",
+      "title": "警察逮捕了正在照顾受伤平民的消防员，因为消防车超线1毫米。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "警察逮捕了正在照顧受傷平民的消防員，因爲消防車超線1毫米。"
+    }
+  ]
 }
