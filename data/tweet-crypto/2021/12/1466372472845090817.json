@@ -135,5 +135,22 @@
       "favorite_count": 909,
       "possibly_sensitive": false
     }
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @woonomic: ツイッターで投稿するのはこんな感じです。",
+      "retweeted_status_full_text": "ツイッターに投稿するのはこんな感じです。https://t.co/h8iM2KufOl"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @woonomic: 这就是在Twitter上发帖的感觉。",
+      "retweeted_status_full_text": "这就是在Twitter上发帖的感觉。https://t.co/h8iM2KufOl"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @woonomic: 這就是在Twitter上發帖的感覺。",
+      "retweeted_status_full_text": "這就是在Twitter上發帖的感覺。https://t.co/h8iM2KufOl"
+    }
+  ]
 }
