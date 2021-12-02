@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-24T10:23:02Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IcBJo0jo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e724tcazfpx8lakzcbpd.png",
   "author": "Arinze",
-  "author_url": "https://dev.to/heydamali"
+  "author_url": "https://dev.to/heydamali",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あなたがEthereumの開発に慣れておらず、どのようにピースを組み合わせればEthereumを構築できるのか疑問に思っているのであれば、私はあなたをサポートします。",
+      "title": "Truffle、Ethers.js、Ganache、Reactを使って初めてのDAppを構築、テスト、デプロイするためのガイドです。"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你是以太坊开发的新手，并想知道如何把这些碎片拼凑起来建立一个新的以太坊。",
+      "title": "使用Truffle、Ethers.js、Ganache和React构建、测试和部署你的第一个DApp的指南。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你是以太坊開發的新手，並想知道如何把這些碎片拼湊起來建立一個新的以太坊。",
+      "title": "使用Truffle、Ethers.js、Ganache和React構建、測試和部署你的第一個DApp的指南。"
+    }
+  ]
 }
