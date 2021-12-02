@@ -138,5 +138,22 @@
     "retweet_count": 83,
     "favorite_count": 331,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @_rospearce: ハチは巣がダニに感染すると、社会的距離を置く練習をする。\n\n#dataviz with @AinslieJstone https://t.co/tKF9ovBtO...",
+      "retweeted_status_full_text": "巣がダニに感染すると、ハチは社会的な距離を置くようになる\n\n#dataviz with @AinslieJstone https://t.co/tKF9ovBtOZ https://t.co/rAsHbv9OsV"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @_rospearce: 当蜜蜂的蜂巢被螨虫感染时，蜜蜂会进行社交疏远。\n\n#dataviz与@AinslieJstone https://t.co/tKF9ovBtO...",
+      "retweeted_status_full_text": "当蜜蜂的蜂巢被螨虫感染时，蜜蜂会进行社交疏远。\n\n#dataviz与@AinslieJstone https://t.co/tKF9ovBtOZ https://t.co/rAsHbv9OsV"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @_rospearce: 當蜜蜂的蜂巢被蟎蟲感染時，蜜蜂會進行社交疏遠。\n\n#dataviz與@AinslieJstone https://t.co/tKF9ovBtO...",
+      "retweeted_status_full_text": "當蜜蜂的蜂巢被蟎蟲感染時，蜜蜂會進行社交疏遠。\n\n#dataviz與@AinslieJstone https://t.co/tKF9ovBtOZ https://t.co/rAsHbv9OsV"
+    }
+  ]
 }
