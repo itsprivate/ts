@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-02T08:01:00Z"
+  "original_createdAt": "2021-12-02T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Zen Wireframeは、Webサイトやモバイルアプリなど、あらゆるプロジェクトのワイヤーフレームをわずか数分で作成できる、最もシンプルなツールです。",
+      "tagline": "最もシンプルなワイヤーフレームツール"
+    },
+    {
+      "locale": "zh",
+      "description": "Zen Wireframe是最简单的工具，可以在短短几分钟内为您的网站、移动应用和任何项目创建线框。",
+      "tagline": "最简单的线框工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Zen Wireframe是最簡單的工具，可以在短短几分鐘內爲您的網站、移動應用和任何項目創建線框。",
+      "tagline": "最簡單的線框工具"
+    }
+  ]
 }
