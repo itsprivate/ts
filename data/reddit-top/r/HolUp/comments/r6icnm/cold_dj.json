@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "冷たいDj"
+    },
+    {
+      "locale": "zh",
+      "title": "寒冷的Dj"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "寒冷的Dj"
+    }
+  ]
 }
