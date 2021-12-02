@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-24T20:59:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jQliuAvs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/p5l1ug2gsjjm2m3btv35.png",
   "author": "Damian Demasi",
-  "author_url": "https://dev.to/colocodes"
+  "author_url": "https://dev.to/colocodes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私がReactを使い始めた頃は、ほとんどが関数コンポーネントを使用していました。",
+      "title": "React: クラス・コンポーネントとファンクション・コンポーネント"
+    },
+    {
+      "locale": "zh",
+      "description": "当我刚开始使用React的时候，我大多使用函数组件，特别是因为我读过...",
+      "title": "React：类组件与函数组件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當我剛開始使用React的時候，我大多使用函數組件，特別是因爲我讀過...",
+      "title": "React：類組件與函數組件"
+    }
+  ]
 }
