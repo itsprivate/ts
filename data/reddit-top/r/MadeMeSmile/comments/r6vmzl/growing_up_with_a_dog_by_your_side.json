@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "犬のそばで育つ"
+    },
+    {
+      "locale": "zh",
+      "title": "在狗的陪伴下成长"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在狗的陪伴下成長"
+    }
+  ]
 }

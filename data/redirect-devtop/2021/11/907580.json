@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-24T09:31:56Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2Ezdg_9y--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ig2ll3md9lpdh0cx63ck.jpg",
   "author": "Fatih Telis",
-  "author_url": "https://dev.to/fatihtelis"
+  "author_url": "https://dev.to/fatihtelis",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは👋 私はイスタンブール在住のフロントエンド開発者のFatihです。",
+      "title": "🌟最大の「オンラインツール」コレクション。10015.io 🧰"
+    },
+    {
+      "locale": "zh",
+      "description": "嗨👋，我是Fatih，一个位于伊斯坦布尔的前端开发人员，这是我项目的简短故事：...",
+      "title": "🌟 最大的 \"在线工具 \"集合。10015.io 🧰"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嗨👋，我是Fatih，一個位於伊斯坦布爾的前端開發人員，這是我項目的簡短故事：...",
+      "title": "🌟 最大的 \"在線工具 \"集合。10015.io 🧰"
+    }
+  ]
 }
