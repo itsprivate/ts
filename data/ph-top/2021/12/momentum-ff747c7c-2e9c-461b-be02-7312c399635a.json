@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-01T19:01:01Z"
+  "original_createdAt": "2021-12-01T19:01:01Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Momentumは、良い習慣を身につけ、悪い習慣を断ち切り、目標を達成し、ストリークやチャートでモチベーションを保つことができる習慣トラッカーです。すべてはNotionで。",
+      "tagline": "表で習慣を把握し、同期したチャートでモチベーションを維持"
+    },
+    {
+      "locale": "zh",
+      "description": "Momentum是一个习惯跟踪器，帮助你建立好的习惯，打破坏的习惯，达到你的目标，并通过连环画和图表保持动力。都在Notion上。",
+      "tagline": "用表格追踪习惯，用同步的图表保持动力"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Momentum是一個習慣跟蹤器，幫助你建立好的習慣，打破壞的習慣，達到你的目標，並通過連環畫和圖表保持動力。都在Notion上。",
+      "tagline": "用表格追蹤習慣，用同步的圖表保持動力"
+    }
+  ]
 }
