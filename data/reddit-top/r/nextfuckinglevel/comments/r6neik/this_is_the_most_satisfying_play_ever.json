@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今までで一番満足度の高いプレイです。"
+    },
+    {
+      "locale": "zh",
+      "title": "这是最令人满意的戏剧。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是最令人滿意的戲劇。"
+    }
+  ]
 }
