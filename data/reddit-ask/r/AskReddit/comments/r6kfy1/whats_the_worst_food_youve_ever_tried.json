@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今まで食べた中で一番まずかった食べ物は？"
+    },
+    {
+      "locale": "zh",
+      "title": "你曾试过的最糟糕的食物是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你曾試過的最糟糕的食物是什麼？"
+    }
+  ]
 }
