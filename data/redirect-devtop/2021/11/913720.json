@@ -50,5 +50,22 @@
   "original_created_at": "2021-11-30T23:52:25Z",
   "image": "https://dev.to/social_previews/article/913720.png",
   "author": "Ted Ngeene",
-  "author_url": "https://dev.to/tngeene"
+  "author_url": "https://dev.to/tngeene",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近の私は、システムをモノリシックに構成する傾向があります。",
+      "title": "マイクロサービスはどのような場合に適していますか？"
+    },
+    {
+      "locale": "zh",
+      "description": "最近，我一直倾向于在系统中采用单一的方法。",
+      "title": "什么时候适合使用微服务？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "最近，我一直傾向於在系統中採用單一的方法。",
+      "title": "什麼時候適合使用微服務？"
+    }
+  ]
 }
