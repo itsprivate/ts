@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Is there something that you didn’t like before\nmeeting your partner but you started to like it because of them?</p> </div><!--\nSC_ON -->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Is there something that you didn’t like before\nmeeting your partner but you started to like it because of them?</p> </div><!--\nSC_ON -->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!--SC_OFF --><div class=\"md\"><p>相手と出会う前は好きじゃなかったけど、相手のおかげで好きになったことはありますか？\nmeeting your partner but you started to like it because of them?</p> </div><!--\nSC_ON -->",
+      "title": "パートナーのおかげで愛せるようになったことは？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>在遇到你的伴侣之前，是否有一些你不喜欢的东西，但因为他们而开始喜欢？\n但因为他们，你开始喜欢上了它？</p> </div><!\nSC_ON -->",
+      "title": "你因为你的伴侣而学会了爱什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>在遇到你的伴侶之前，是否有一些你不喜歡的東西，但因爲他們而開始喜歡？\n但因爲他們，你開始喜歡上了它？</p> </div><!\nSC_ON -->",
+      "title": "你因爲你的伴侶而學會了愛什麼？"
+    }
+  ]
 }
