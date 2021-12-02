@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "異なる種類のミルクを生産するために使用される水の量"
+    },
+    {
+      "locale": "zh",
+      "title": "生产不同类型牛奶的用水量"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "生產不同類型牛奶的用水量"
+    }
+  ]
 }
