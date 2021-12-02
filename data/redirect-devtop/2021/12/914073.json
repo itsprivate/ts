@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-01T10:03:59Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--U98iprts--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xzhupmjflx7p3av4mdn8.png",
   "author": "Andrew Lee",
-  "author_url": "https://dev.to/andyrewlee"
+  "author_url": "https://dev.to/andyrewlee",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "前置きが長くなりましたが、私はフロントエンド・エンジニアとしてGraphQLが大好きです。GraphQLは、私に...",
+      "title": "新しいプロジェクトにGraphQLを使わなくなった理由"
+    },
+    {
+      "locale": "zh",
+      "description": "在我进一步介绍之前，我想澄清的是，作为一名前端工程师，我喜欢GraphQL。它使我能够...",
+      "title": "为什么我不再为新项目使用GraphQL？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在我進一步介紹之前，我想澄清的是，作爲一名前端工程師，我喜歡GraphQL。它使我能夠...",
+      "title": "爲什麼我不再爲新項目使用GraphQL？"
+    }
+  ]
 }
