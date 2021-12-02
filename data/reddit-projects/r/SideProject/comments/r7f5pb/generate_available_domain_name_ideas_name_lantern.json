@@ -57,5 +57,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Hello Reddit! 🙌</p> <p>Since our last post in\nthis subreddit, we have built the mobile layout, fixed bugs, and implemented\nsuggested features such as having links to multiple domain registrars to\neffectively buy the domains generated on <a…"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Hello Reddit! 🙌</p> <p>Since our last post in\nthis subreddit, we have built the mobile layout, fixed bugs, and implemented\nsuggested features such as having links to multiple domain registrars to\neffectively buy the domains generated on <a…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!--SC_OFF --><div class=\"md\"><p>Hello Reddit! 🙌</p> <p>このsubredditに最後に投稿してから\nこのサブレディットでは、モバイルレイアウトの構築、バグの修正、提案された機能の実装を行いました。\nまた、<a.m.b.c.>で生成されたドメインを効果的に購入するために、複数のドメインレジストラへのリンクを設けるなど、提案された機能を実装しました。\nまた、<a...",
+      "title": "利用可能なドメイン名のアイデアを生成（Name Lantern）"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>Hello Reddit! 🙌</p> <p>自从我们上次在\n我们已经建立了移动布局，修复了错误，并实施了一些建议的功能，例如：有多个链接。\n建议的功能，如拥有多个域名注册商的链接以\n有效地购买在<a...",
+      "title": "生成可用的域名创意 (Name Lantern)"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>Hello Reddit! 🙌</p> <p>自從我們上次在\n我們已經建立了移動佈局，修復了錯誤，並實施了一些建議的功能，例如：有多個鏈接。\n建議的功能，如擁有多個域名註冊商的鏈接以\n有效地購買在<a...",
+      "title": "生成可用的域名創意 (Name Lantern)"
+    }
+  ]
 }
