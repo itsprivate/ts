@@ -13,5 +13,19 @@
   ],
   "objectID": "29408341",
   "original_created_at": "2021-12-01T19:53:42.000Z",
-  "image": "https://imagemagick.org/image/logo.png"
+  "image": "https://imagemagick.org/image/logo.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ImageMagickです。画像編集のためのCLI"
+    },
+    {
+      "locale": "zh",
+      "title": "ImageMagick: 用于图像编辑的CLI"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "ImageMagick: 用於圖像編輯的CLI"
+    }
+  ]
 }
