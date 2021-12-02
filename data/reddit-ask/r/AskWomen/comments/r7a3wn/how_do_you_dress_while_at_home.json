@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Do you care about being presentable when\nyou’re at home, or prefer to be au natural?</p> <p>EDIT: I also want to know\nabout your makeup and hair at home!</p> </div><!-- SC_ON -->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Do you care about being presentable when\nyou’re at home, or prefer to be au natural?</p> <p>EDIT: I also want to know\nabout your makeup and hair at home!</p> </div><!-- SC_ON -->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!--SC_OFF --><div class=\"md\"><p>家にいるときの身だしなみには気を使いますか？\nyou’re at home, or prefer to be au natural?</p> <p>EDIT: I also want to know\nabout your makeup and hair at home!</p> </div><!-- SC_ON -->",
+      "title": "家にいるときの服装はどうしていますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>当你在家里的时候，你是关心自己的形象，还是喜欢自然？\nyou’re at home, or prefer to be au natural?</p> <p>EDIT: I also want to know\nabout your makeup and hair at home!</p> </div><!-- SC_ON -->",
+      "title": "你在家里时如何穿衣？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>當你在家裏的時候，你是關心自己的形象，還是喜歡自然？\nyou’re at home, or prefer to be au natural?</p> <p>EDIT: I also want to know\nabout your makeup and hair at home!</p> </div><!-- SC_ON -->",
+      "title": "你在家裏時如何穿衣？"
+    }
+  ]
 }

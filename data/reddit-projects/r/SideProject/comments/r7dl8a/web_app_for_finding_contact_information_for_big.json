@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "大企業の連絡先を検索できるウェブアプリ"
+    },
+    {
+      "locale": "zh",
+      "title": "寻找大公司联系信息的网络应用"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "尋找大公司聯繫信息的網絡應用"
+    }
+  ]
 }
