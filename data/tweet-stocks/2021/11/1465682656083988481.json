@@ -134,5 +134,22 @@
     "retweet_count": 350,
     "favorite_count": 4674,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @ParikPatelCFA: RIP my portfolio https://t.co/LFrE4zjd5R",
+      "retweeted_status_full_text": "RIP my portfolio https://t.co/LFrE4zjd5R"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @ParikPatelCFA: RIP my portfolio https://t.co/LFrE4zjd5R",
+      "retweeted_status_full_text": "RIP我的投资组合https://t.co/LFrE4zjd5R"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @ParikPatelCFA: RIP my portfolio https://t.co/LFrE4zjd5R",
+      "retweeted_status_full_text": "RIP我的投資組合https://t.co/LFrE4zjd5R"
+    }
+  ]
 }
