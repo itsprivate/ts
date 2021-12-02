@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの最悪の敵は、一生、一種類の食べ物しか食べられません。あなたは彼らのために何を選びますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你最大的敌人一生只能吃一种食物。你为他们选择什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你最大的敵人一生只能喫一種食物。你爲他們選擇什麼？"
+    }
+  ]
 }
