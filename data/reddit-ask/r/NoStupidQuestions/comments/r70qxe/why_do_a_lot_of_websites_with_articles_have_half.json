@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>No sign-in, no paywall, no page load,\nnothing... just an extra, completely unnecessary click to instantly show the\nrest of the text. Why even bother? What&#39;s the purpose?</p> </div><!-- SC_ON\n-->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>No sign-in, no paywall, no page load,\nnothing... just an extra, completely unnecessary click to instantly show the\nrest of the text. Why even bother? What&#39;s the purpose?</p> </div><!-- SC_ON\n-->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!--SC_OFF --><div class=\"md\"><p>サインインもペイウォールもページロードもありません。\n瞬時に残りのテキストを表示するための、まったく必要のない余分なクリックをするだけです。\n不必要なクリックをするだけで、残りのテキストを表示します。なぜわざわざそんなことをするのでしょうか？</p> </div><!--SC_ON\n-->",
+      "title": "記事を掲載しているウェブサイトの多くが、本文の半分を「続きを読む」ボタンで隠しているのはなぜですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>没有登录，没有付费墙，没有页面加载。\n什么都没有......只是一个额外的、完全不必要的点击来立即显示出\n其余的文字。为什么要这样做呢？目的是什么？</p> </div><！--SC_ON\n-->",
+      "title": "为什么很多网站的文章有一半的文字被隐藏在 \"继续阅读 \"按钮后面？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>沒有登錄，沒有付費牆，沒有頁面加載。\n什麼都沒有......只是一個額外的、完全不必要的點擊來立即顯示出\n其餘的文字。爲什麼要這樣做呢？目的是什麼？</p> </div><！--SC_ON\n-->",
+      "title": "爲什麼很多網站的文章有一半的文字被隱藏在 \"繼續閱讀 \"按鈕後面？"
+    }
+  ]
 }

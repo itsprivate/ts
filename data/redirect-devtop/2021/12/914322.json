@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-01T13:24:44Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ah2LrgOW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5ew4k338se6hhvfsb5qo.jpg",
   "author": "Alex Omeyer",
-  "author_url": "https://dev.to/alexomeyer"
+  "author_url": "https://dev.to/alexomeyer",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに Reactは、コンポーネントベースのオープンソースのJavaScriptライブラリで、ユーザ...",
+      "title": "クリーンなコードを書くために必須のReactデベロッパーツール10選💻🔥。"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍：React是一个基于组件的开源JavaScript库，用于构建用户的网络。",
+      "title": "10个必备的React开发工具来编写简洁的代码💻🔥"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹：React是一個基於組件的開源JavaScript庫，用於構建用戶的網絡。",
+      "title": "10個必備的React開發工具來編寫簡潔的代碼💻🔥"
+    }
+  ]
 }
