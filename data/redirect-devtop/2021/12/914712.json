@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-01T21:11:14Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Te1BsL50--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4e7on8oka6h1o4ppb1tp.png",
   "author": "Astrodevil",
-  "author_url": "https://dev.to/astrodevil"
+  "author_url": "https://dev.to/astrodevil",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "開発者の仕事を楽にするためのウェブサイトはたくさんあります。誰もがすべてを知っているわけではありません。これでは...。",
+      "title": "開発者にとって必見のキラーサイト25選"
+    },
+    {
+      "locale": "zh",
+      "description": "有这么多的网站可以让开发者的工作更容易。每个人都不知道所有。在这一点上...",
+      "title": "25个开发者必须访问的杀手级网站"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有這麼多的網站可以讓開發者的工作更容易。每個人都不知道所有。在這一點上...",
+      "title": "25個開發者必須訪問的殺手級網站"
+    }
+  ]
 }
