@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-30T17:27:59Z",
   "image": "https://dev.to/social_previews/article/913448.png",
   "author": "Muhammad Rauf",
-  "author_url": "https://dev.to/softcodeon"
+  "author_url": "https://dev.to/softcodeon",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "プリローダーは、ユーザーフレンドリーなインターフェースの重要な要素の一つです。それを示すのが...",
+      "title": "HTMLページにプリローダを追加する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "预加载器是用户友好界面的重要元素之一。它表明，...",
+      "title": "如何在HTML页面中添加预加载器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "預加載器是用戶友好界面的重要元素之一。它表明，...",
+      "title": "如何在HTML頁面中添加預加載器"
+    }
+  ]
 }
