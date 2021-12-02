@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>What’s the truth?</p> </div><!-- SC_ON -->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>What’s the truth?</p> </div><!-- SC_ON -->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>What’s the truth?</p> </div><!-- SC_ON -->",
+      "title": "ロビンフッドのような市場で「ビットコインを購入」しても、実際にはビットコインを所有していないというのは本当ですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>What’s the truth?</p> </div><!-- SC_ON -->",
+      "title": "如果你在Robinhood这样的市场上 \"购买比特币\"，那么你实际上并不拥有比特币，这是真的吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>What’s the truth?</p> </div><!-- SC_ON -->",
+      "title": "如果你在Robinhood這樣的市場上 \"購買比特幣\"，那麼你實際上並不擁有比特幣，這是真的嗎？"
+    }
+  ]
 }
