@@ -39,5 +39,22 @@
   "original_created_at": "2021-12-01T09:19:14Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hYQKqx7Z--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/p4f69jk6f2xvpypao3mj.jpg",
   "author": "Chris Bongers",
-  "author_url": "https://dev.to/dailydevtips1"
+  "author_url": "https://dev.to/dailydevtips1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JavaScriptのstartsWithメソッドをご存じでしょうか。このメソッドは、特定の文字列が...で始まるかどうかをチェックすることができます。",
+      "title": "JavaScriptのstartsWithと複数条件"
+    },
+    {
+      "locale": "zh",
+      "description": "你可能听说过JavaScript的 startsWith方法。它可以检查一个特定的字符串是否始于...",
+      "title": "JavaScript startsWith和多个条件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你可能聽說過JavaScript的 startsWith方法。它可以檢查一個特定的字符串是否始於...",
+      "title": "JavaScript startsWith和多個條件"
+    }
+  ]
 }
