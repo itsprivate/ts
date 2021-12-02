@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-02T08:00:00Z"
+  "original_createdAt": "2021-12-02T08:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "UX Notionは、Notionで作られたUXツールキットで、ソロプレナー、インディーハッカー、Jr. UXデザイナー、初めての創業者が短時間でUXの知識を高められるようにNotionで作られたツールキットです。",
+      "tagline": "週末にUXデザインを学べるツールキット"
+    },
+    {
+      "locale": "zh",
+      "description": "UX Notion是一个在Notion中建立的用户体验工具包，以帮助独行侠、独立创客、Jr. 用户体验设计师和首次创业者在短时间内提高他们的用户体验知识。",
+      "tagline": "在周末学习用户体验设计的工具箱"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "UX Notion是一個在Notion中建立的用戶體驗工具包，以幫助獨行俠、獨立創客、Jr. 用戶體驗設計師和首次創業者在短時間內提高他們的用戶體驗知識。",
+      "tagline": "在週末學習用戶體驗設計的工具箱"
+    }
+  ]
 }

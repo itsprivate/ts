@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-05T06:37:42Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--j68wJtEf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3mbr3pfqyqn2xsqt82ui.png",
   "author": "Chetan Atrawalkar👉CA.",
-  "author_url": "https://dev.to/chetan_atrawalkar"
+  "author_url": "https://dev.to/chetan_atrawalkar",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Halo Guys 👋 このチュートリアルでは、ページを上部にスクロールさせる方法を紹介します...",
+      "title": "🔝JavaScriptを使ったSmooth Scroll-To-Top機能[Easy Way]。"
+    },
+    {
+      "locale": "zh",
+      "description": "Halo Guys 👋 在本教程中，我们将向你展示如何将页面滚动添加到顶部。",
+      "title": "🔝使用JavaScript实现平滑滚动到顶部的功能[简易方法]。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Halo Guys 👋 在本教程中，我們將向你展示如何將頁面滾動添加到頂部。",
+      "title": "🔝使用JavaScript實現平滑滾動到頂部的功能[簡易方法]。"
+    }
+  ]
 }
