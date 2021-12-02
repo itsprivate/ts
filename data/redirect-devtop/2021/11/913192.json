@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-30T14:12:04Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--k0Uq168B--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hfhvnr33c1og15dgd31y.png",
   "author": "Linh Truong Cong Hong",
-  "author_url": "https://dev.to/linhtch90"
+  "author_url": "https://dev.to/linhtch90",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "MongoDB、ExpressJS、ReactJS、NodeJSの頭文字をとった「メルン」スタックが、...",
+      "title": "ReactJS、ExpressJS、MongoDBで構築されたEコマースWebアプリのサンプル"
+    },
+    {
+      "locale": "zh",
+      "description": "MERN堆栈是MongoDB、ExpressJS、ReactJS和NodeJS的缩写，已经成为一个流行的选择。",
+      "title": "一个用ReactJS、ExpressJS和MongoDB构建的电子商务网络应用样本"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "MERN堆棧是MongoDB、ExpressJS、ReactJS和NodeJS的縮寫，已經成爲一個流行的選擇。",
+      "title": "一個用ReactJS、ExpressJS和MongoDB構建的電子商務網絡應用樣本"
+    }
+  ]
 }
