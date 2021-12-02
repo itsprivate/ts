@@ -70,5 +70,19 @@
   "retweet_count": 51,
   "favorite_count": 255,
   "possibly_sensitive": false,
-  "original_created_at": "Wed Dec 01 05:17:34 +0000 2021"
+  "original_created_at": "Wed Dec 01 05:17:34 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "$FB\n https://t.co/lig2wcoOEx"
+    },
+    {
+      "locale": "zh",
+      "full_text": "$FB\n https://t.co/lig2wcoOEx"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "$FB\n https://t.co/lig2wcoOEx"
+    }
+  ]
 }
