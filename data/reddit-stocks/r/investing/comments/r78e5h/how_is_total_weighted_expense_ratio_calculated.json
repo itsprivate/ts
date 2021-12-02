@@ -103,5 +103,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1638454522,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Here is an example where you invest 10K into 4\ndifferent ETFs with various expense ratios, but how much you put into each ETF\nvaries.</p> <p>So let&#39;s say the 4 expense ratios of the ETFs are .04, 0.12,\n0.2, 0.5</p> <p>And 50% of that is in 0.04, 20% is in 0.12,…"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Here is an example where you invest 10K into 4\ndifferent ETFs with various expense ratios, but how much you put into each ETF\nvaries.</p> <p>So let&#39;s say the 4 expense ratios of the ETFs are .04, 0.12,\n0.2, 0.5</p> <p>And 50% of that is in 0.04, 20% is in 0.12,…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!--SC_OFF --><div class=\"md\"><p>ここでは、1万円を経費率の異なる4つのETFに投資するという例を挙げています。\n</p> <p>ここでは、1万円を様々な経費率の4つの異なるETFに投資し、それぞれのETFにどれだけ入れたかが異なる場合を考えてみましょう。\n</p> <p>例えば、4つのETFの経費率が0.04、0.12、0.2、0.5</p>だったとします。\n</p> <p>そして、そのうちの50％を0.04に、20％を0.12に、...とします。",
+      "title": "総括原価率はどのように計算されるのですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>这里有一个例子，你把1万块钱投资到4个不同的ETF中，并以不同的方式投资。\n支出比率不同的ETF，但你在每个ETF中投入的金额不同。\n</p> <p>因此，我们假设这4只ETF的费用率分别为0.04、0.12、0.2、0.5</p><p>。\n0.2, 0.5</p> <p>而其中的50%是在0.04，20%是在0.12，...",
+      "title": "总加权费用率是如何计算的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>這裏有一個例子，你把1萬塊錢投資到4個不同的ETF中，並以不同的方式投資。\n支出比率不同的ETF，但你在每個ETF中投入的金額不同。\n</p> <p>因此，我們假設這4只ETF的費用率分別爲0.04、0.12、0.2、0.5</p><p>。\n0.2, 0.5</p> <p>而其中的50%是在0.04，20%是在0.12，...",
+      "title": "總加權費用率是如何計算的？"
+    }
+  ]
 }
