@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "マイアミ市が米国初のブロックチェーン「Algorand（ALGO）」による大気質モニタリングネットワークを導入"
+    },
+    {
+      "locale": "zh",
+      "title": "迈阿密成为美国第一个部署基于Algorand（ALGO）区块链的空气质量监测网络的城市"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "邁阿密成爲美國第一個部署基於Algorand（ALGO）區塊鏈的空氣質量監測網絡的城市"
+    }
+  ]
 }
