@@ -42,5 +42,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "気に入らない？That'll be $1.98"
+    },
+    {
+      "locale": "zh",
+      "title": "不喜欢它？那将是1.98美元"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不喜歡它？那將是1.98美元"
+    }
+  ]
 }
