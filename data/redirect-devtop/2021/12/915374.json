@@ -50,5 +50,22 @@
   "original_created_at": "2021-12-02T13:10:57Z",
   "image": "https://dev.to/social_previews/article/915374.png",
   "author": "Suzanne Aitchison (she/her)",
-  "author_url": "https://dev.to/s_aitchison"
+  "author_url": "https://dev.to/s_aitchison",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今週、エディタに新機能が追加されたのをご存知でしょうか。マークダウンツールバーです。",
+      "title": "マークダウンツールバーができるまで"
+    },
+    {
+      "locale": "zh",
+      "description": "你可能已经看到本周编辑器中出现了一个新功能--标记工具栏：...",
+      "title": "我们是如何制作马克顿工具条的"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你可能已經看到本週編輯器中出現了一個新功能--標記工具欄：...",
+      "title": "我們是如何製作馬克頓工具條的"
+    }
+  ]
 }
