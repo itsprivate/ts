@@ -14,5 +14,19 @@
   "tags": [
     "MarketWatch"
   ],
-  "image": "https://images.mktw.net/im-445761/social"
+  "image": "https://images.mktw.net/im-445761/social",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "オミクロン・バリアントによる死亡例は報告されていないが、デルタ・バリアントが依然として主流であるため、パニックに陥らないようにとWHOは呼びかけている。"
+    },
+    {
+      "locale": "zh",
+      "title": "世卫组织没有看到任何由欧米茄变体引起的死亡报告，敦促人们不要恐慌，因为欧米茄仍然占主导地位"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "世衛組織沒有看到任何由歐米茄變體引起的死亡報告，敦促人們不要恐慌，因爲歐米茄仍然占主導地位"
+    }
+  ]
 }
