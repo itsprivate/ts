@@ -93,5 +93,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-03T08:01:00Z"
+  "original_createdAt": "2021-12-03T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Introducing Kizie, the new way to browse Twitter 🐤 ✨ すっきりとした、より良い、広告のないホームタイムラインとプロフィールタイムライン ⚡️ Twitterでより多くのことをするためのプロの機能(リストは最初のコメントを読んでください👇) 📱はウェブとPWAとして動作します 👉 try it: https://kizie.co",
+      "tagline": "よりクリーンで優れたTwitterの閲覧方法"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍一下Kizie，一个浏览Twitter的新方式 ✨ 更干净，更好，无广告的主页和简介时间线 ⚡️ 专业功能，可以用twitter做更多事情（阅读第一条评论的清单👇） 㱮在网页和PWA上工作 👉试试吧：https://kizie.co",
+      "tagline": "一个更干净、更好的方式来浏览Twitter"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹一下Kizie，一個瀏覽Twitter的新方式 ✨ 更乾淨，更好，無廣告的主頁和簡介時間線 ⚡️ 專業功能，可以用twitter做更多事情（閱讀第一條評論的清單👇） 殨在網頁和PWA上工作 👉試試吧：https://kizie.co",
+      "tagline": "一個更乾淨、更好的方式來瀏覽Twitter"
+    }
+  ]
 }
