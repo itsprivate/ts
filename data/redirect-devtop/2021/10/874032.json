@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-24T03:31:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UisR2wi5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/p16yqv2ipsy8ncs0panv.jpg",
   "author": "Amod Shinde",
-  "author_url": "https://dev.to/amoled27"
+  "author_url": "https://dev.to/amoled27",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Node.jsの人気は急上昇しており、ますます多くのユニコーン企業が適応しています...",
+      "title": "Node.js開発のベスト・プラクティス"
+    },
+    {
+      "locale": "zh",
+      "description": "Node.js的受欢迎程度正在快速增长，越来越多的独角兽公司正在适应。",
+      "title": "Node.js开发的最佳实践"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Node.js的受歡迎程度正在快速增長，越來越多的獨角獸公司正在適應。",
+      "title": "Node.js開發的最佳實踐"
+    }
+  ]
 }
