@@ -111,5 +111,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-03T08:01:00Z"
+  "original_createdAt": "2021-12-03T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Sandpackは、ブラウザ上で完全に動作するライブコーディング体験を構築するためのツールキットです。✨ フル機能のエディタ体験 ✨ 超高速のブラウザバンドルラー ✨ CodeSandboxとの直接統合",
+      "tagline": "ブラウザ上でライブコーディングを体験できるツールキット"
+    },
+    {
+      "locale": "zh",
+      "description": "Sandpack是一个工具包，用于构建完全在浏览器中运行的实时编码体验。全功能的编辑器体验 ✨ 闪电般快速的浏览器捆绑器 ✨ 直接与CodeSandbox集成",
+      "tagline": "用于在浏览器中构建实时编码体验的工具包"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Sandpack是一個工具包，用於構建完全在瀏覽器中運行的實時編碼體驗。全功能的編輯器體驗 ✨ 閃電般快速的瀏覽器捆綁器 ✨ 直接與CodeSandbox集成",
+      "tagline": "用於在瀏覽器中構建實時編碼體驗的工具包"
+    }
+  ]
 }

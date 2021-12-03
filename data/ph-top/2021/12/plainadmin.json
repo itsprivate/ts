@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-03T08:04:49Z"
+  "original_createdAt": "2021-12-03T08:04:49Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "PlainAdminは、オープンソースのフリーミアムBootstrap 5ベースのバニラJS多目的管理テンプレートで、ダッシュボードのコンポーネント、ページ、UIエレメント、チャート、グラフ、ライブラリなど、データリッチなバックエンドに必要なものがすべて揃っています。",
+      "tagline": "オープンソースの多目的ダッシュボード・テンプレート"
+    },
+    {
+      "locale": "zh",
+      "description": "PlainAdmin是一个开源免费的基于Bootstrap 5的vanilla JS多用途管理模板，它包含了所有基本的仪表盘组件、页面、UI元素、图表、图形、库和所有你可能需要的数据丰富的后台。",
+      "tagline": "开源的多用途仪表板模板"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "PlainAdmin是一個開源免費的基於Bootstrap 5的vanilla JS多用途管理模板，它包含了所有基本的儀表盤組件、頁面、UI元素、圖表、圖形、庫和所有你可能需要的數據豐富的後臺。",
+      "tagline": "開源的多用途儀表板模板"
+    }
+  ]
 }
