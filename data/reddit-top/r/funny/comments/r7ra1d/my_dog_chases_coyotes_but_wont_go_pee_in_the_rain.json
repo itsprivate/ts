@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私の犬はコヨーテを追いかけますが、ビニール袋をかぶせないと雨の中ではおしっこをしません。"
+    },
+    {
+      "locale": "zh",
+      "title": "我的狗追赶土狼，但不会在雨中撒尿，除非我用塑料袋盖住它。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我的狗追趕土狼，但不會在雨中撒尿，除非我用塑料袋蓋住它。"
+    }
+  ]
 }
