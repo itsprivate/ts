@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-03T08:01:00Z"
+  "original_createdAt": "2021-12-03T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Google Search Scannerは、検索アシスタント＆Web Highlightingサービス「LINER」の新機能です。LINERは、Googleの検索結果全体をスキャンし、自分に関連するものだけを返すことで、調査に費やす時間を大幅に削減します。",
+      "tagline": "無関係な検索結果をフィルタリングして、時間を節約します。"
+    },
+    {
+      "locale": "zh",
+      "description": "谷歌搜索扫描器是搜索助手和网络高亮服务的一项新功能，即LINER。LINER扫描整个谷歌搜索结果，只返回与你有关的结果，节省了大量的研究时间。",
+      "tagline": "过滤掉不相关的搜索结果，节省您的时间"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "谷歌搜索掃描器是搜索助手和網絡高亮服務的一項新功能，即LINER。LINER掃描整個谷歌搜索結果，只返回與你有關的結果，節省了大量的研究時間。",
+      "tagline": "過濾掉不相關的搜索結果，節省您的時間"
+    }
+  ]
 }
