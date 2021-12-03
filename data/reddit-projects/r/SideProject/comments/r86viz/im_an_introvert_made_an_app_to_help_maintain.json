@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>&#x200B;</p>…"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>&#x200B;</p>…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!--SC_OFF --><div class=\"md\"><p>&#x200B;</p>...。",
+      "title": "私は内向的なので、人とのつながりを保つためのアプリを作りました"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>&#x200B;</p>...",
+      "title": "我是一个内向的人--做了一个应用程序来帮助保持与人的联系"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>&#x200B;</p>...",
+      "title": "我是一個內向的人--做了一個應用程序來幫助保持與人的聯繫"
+    }
+  ]
 }
