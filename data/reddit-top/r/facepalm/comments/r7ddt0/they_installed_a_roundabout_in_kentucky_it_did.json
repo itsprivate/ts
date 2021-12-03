@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ケンタッキーではラウンドアバウトを設置しました。うまくいきませんでしたが"
+    },
+    {
+      "locale": "zh",
+      "title": "他们在肯塔基州安装了一个环形路。它并不顺利"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他們在肯塔基州安裝了一個環形路。它並不順利"
+    }
+  ]
 }
