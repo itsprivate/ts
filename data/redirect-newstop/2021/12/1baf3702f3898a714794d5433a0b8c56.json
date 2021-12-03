@@ -14,5 +14,19 @@
   "tags": [
     "The Hill"
   ],
-  "image": "https://thehill.com/sites/default/files/ca_beer_istock.jpg"
+  "image": "https://thehill.com/sites/default/files/ca_beer_istock.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "世界的な調査の結果、世界で最も酒に酔っている国はアメリカではありませんでした。"
+    },
+    {
+      "locale": "zh",
+      "title": "全球调查发现世界上最醉的国家--不是美国"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "全球調查發現世界上最醉的國家--不是美國"
+    }
+  ]
 }
