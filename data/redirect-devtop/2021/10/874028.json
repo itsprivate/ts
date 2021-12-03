@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-24T03:25:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--aezUKkLO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rmjvuquzye7c990l9hxk.png",
   "author": "Amod Shinde",
-  "author_url": "https://dev.to/amoled27"
+  "author_url": "https://dev.to/amoled27",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "前回のブログでは、Node.jsのメモリ管理について理解し、ガーベジコレクタ（GC）がどのように動作するかを理解しました。",
+      "title": "メモリリークを回避するためのベストプラクティス"
+    },
+    {
+      "locale": "zh",
+      "description": "在上一篇博客中，我们了解了Node.js的内存管理，以及垃圾收集器（GC）是如何工作的。",
+      "title": "避免内存泄漏的最佳做法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在上一篇博客中，我們瞭解了Node.js的內存管理，以及垃圾收集器（GC）是如何工作的。",
+      "title": "避免內存泄漏的最佳做法"
+    }
+  ]
 }
