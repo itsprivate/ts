@@ -14,5 +14,19 @@
   "tags": [
     "Fox News"
   ],
-  "image": "https://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png"
+  "image": "https://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "オミクロン・バリアント 米国の複数の州で患者が確認されました。ライブアップデイト"
+    },
+    {
+      "locale": "zh",
+      "title": "Omicron的变体。美国多个州确认有病例。实时更新"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Omicron的變體。美國多個州確認有病例。實時更新"
+    }
+  ]
 }
