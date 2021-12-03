@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-24T04:02:08Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kd11hLOE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/45qnf11lwff1d1lzo9z3.png",
   "author": "Amod Shinde",
-  "author_url": "https://dev.to/amoled27"
+  "author_url": "https://dev.to/amoled27",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、あなたのコードを遠ざけるライブラリであるReact.jsがなぜ...を調査します。",
+      "title": "React.jsでのrefの使用"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我们将调查为什么React.js这个库能让你的代码远离...",
+      "title": "在React.js中使用refs"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我們將調查爲什麼React.js這個庫能讓你的代碼遠離...",
+      "title": "在React.js中使用refs"
+    }
+  ]
 }
