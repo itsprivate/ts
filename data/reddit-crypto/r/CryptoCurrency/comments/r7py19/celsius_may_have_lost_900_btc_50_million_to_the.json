@@ -32,5 +32,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I just came across <a\nhref=\"https://twitter.com/BigTimeCali/status/1466556925127000065\">this twitter\nthread</a> saying Celsius lost 900 BTC to the Badger DAO hack</p> <p>Recently\nBadger DAO (a defi protocol Celsius might have been using)…"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I just came across <a\nhref=\"https://twitter.com/BigTimeCali/status/1466556925127000065\">this twitter\nthread</a> saying Celsius lost 900 BTC to the Badger DAO hack</p> <p>Recently\nBadger DAO (a defi protocol Celsius might have been using)…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!--SC_OFF --><div class=\"md\"><p>今、<a>を見つけました。\nhref=\"https://twitter.com/BigTimeCali/status/1466556925127000065\">このツイッターの\nスレッド</a>によると、CelsiusはBadger DAOのハッキングで900BTCを失ったそうです</p> <p>最近では\nBadger DAO (Celsiusが使っていたかもしれないdefiプロトコル)...",
+      "title": "セルシオはBadger DAOのハッキングにより900BTC（5000万ドル）を失った可能性がある"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>我刚刚看到<a\nhref=\"https://twitter.com/BigTimeCali/status/1466556925127000065\">这个twitter\n线程</a>说Celsius在Badger DAO黑客攻击中损失了900 BTC</p> <p>最近\nBadger DAO（Celsius可能使用的一种defi协议）...",
+      "title": "Celsius可能因Badger DAO黑客攻击而损失900 BTC（5000万美元）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>我剛剛看到<a\nhref=\"https://twitter.com/BigTimeCali/status/1466556925127000065\">這個twitter\n線程</a>說Celsius在Badger DAO黑客攻擊中損失了900 BTC</p> <p>最近\nBadger DAO（Celsius可能使用的一種defi協議）...",
+      "title": "Celsius可能因Badger DAO黑客攻擊而損失900 BTC（5000萬美元）。"
+    }
+  ]
 }
