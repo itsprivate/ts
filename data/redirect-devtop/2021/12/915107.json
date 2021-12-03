@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-02T07:22:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_MxijMR_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1d1isavqfdm6mpekrmzo.jpg",
   "author": "Harsh Choudhary",
-  "author_url": "https://dev.to/harshkc"
+  "author_url": "https://dev.to/harshkc",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ダジャレではありません。  Kent氏のEpic React Workshopで学んだuseAsync()フックの作り方です。",
+      "title": "このフックは1000行以上の非同期コードを吹き飛ばすことを約束します。"
+    },
+    {
+      "locale": "zh",
+      "description": "没有双关的意思!   我从Kent的Epic React Workshop中学到的useAsync()钩子的构建方法。",
+      "title": "我保证这个钩子会让你的1000多行Async代码大跌眼镜的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "沒有雙關的意思!   我從Kent的Epic React Workshop中學到的useAsync()鉤子的構建方法。",
+      "title": "我保證這個鉤子會讓你的1000多行Async代碼大跌眼鏡的。"
+    }
+  ]
 }
