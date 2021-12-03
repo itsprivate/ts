@@ -150,5 +150,22 @@
     "retweet_count": 152,
     "favorite_count": 443,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @Schuldensuehner さん。物事を整理してみましょう。#ドイツのDAXはECBのバランスシートと連動しています。 https://t.co/NFhP398ILJ",
+      "retweeted_status_full_text": "物事を整理するために #ドイツのDAXはECBのバランスシートと連動しています。https://t.co/NFhP398ILJ"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @Schuldensuehner: 只是为了把事情看清楚。#德国的Dax指数与欧洲央行的资产负债表同步交易。https://t.co/NFhP398ILJ",
+      "retweeted_status_full_text": "只是为了把事情看清楚。#德国的Dax指数与欧洲央行的资产负债表同步交易。https://t.co/NFhP398ILJ"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @Schuldensuehner: 只是爲了把事情看清楚。#德國的Dax指數與歐洲央行的資產負債表同步交易。https://t.co/NFhP398ILJ",
+      "retweeted_status_full_text": "只是爲了把事情看清楚。#德國的Dax指數與歐洲央行的資產負債表同步交易。https://t.co/NFhP398ILJ"
+    }
+  ]
 }

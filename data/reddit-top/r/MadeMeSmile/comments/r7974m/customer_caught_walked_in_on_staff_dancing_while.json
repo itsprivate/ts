@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "掃除中にスタッフが踊っているところをお客様に見られてしまった。"
+    },
+    {
+      "locale": "zh",
+      "title": "顾客在打扫卫生时撞见工作人员在跳舞，被抓个正着"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "顧客在打掃衛生時撞見工作人員在跳舞，被抓個正着"
+    }
+  ]
 }

@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "美しいWebflowランディングテンプレートが完成しました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我们又做了一个漂亮的Webflow登陆模板--欢迎在你的副业中使用它（评论中的链接）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們又做了一個漂亮的Webflow登陸模板--歡迎在你的副業中使用它（評論中的鏈接）。"
+    }
+  ]
 }
