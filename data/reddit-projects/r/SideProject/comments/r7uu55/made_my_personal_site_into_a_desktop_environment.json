@@ -65,5 +65,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私の個人的なサイトをデスクトップ環境にしました。ウインドウズとマックOSの影響を受けています。💓"
+    },
+    {
+      "locale": "zh",
+      "title": "把我的个人网站做成一个桌面环境，受windows和macos的影响。💓"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "把我的個人網站做成一個桌面環境，受windows和macos的影響。💓"
+    }
+  ]
 }
