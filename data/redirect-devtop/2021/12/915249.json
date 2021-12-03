@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-02T09:19:36Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cpKH2O_u--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k61bjspl1x1x0shqbea8.png",
   "author": "Somnath Singh",
-  "author_url": "https://dev.to/polymathsomnath"
+  "author_url": "https://dev.to/polymathsomnath",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、命を守るためのGitコマンドをご紹介します。 この記事で学ぶのは、単に...",
+      "title": "あなたの仕事を救うGitコマンド "
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我们将学习一些拯救生命的Git命令。 我们不仅会学习...",
+      "title": "能拯救你工作的Git命令 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我們將學習一些拯救生命的Git命令。 我們不僅會學習...",
+      "title": "能拯救你工作的Git命令 "
+    }
+  ]
 }
