@@ -83,5 +83,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-03T08:04:17Z"
+  "original_createdAt": "2021-12-03T08:04:17Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "すべてのCIワークフローとテストを同時に監視します！主要なCIメトリクスにアクセスすることで、すべてのCIワークフローとテストに対する洞察を得ることができます。",
+      "tagline": "ForesightによるCIパイプラインとテストの監視とデバッグ"
+    },
+    {
+      "locale": "zh",
+      "description": "用Foresight监控和调试你的CI管道和测试。同时监控你所有的CI工作流程和测试！通过访问关键的CI指标，深入了解你所有的CI工作流程和测试。",
+      "tagline": "用Foresight监控和调试你的CI管道和测试"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "用Foresight監控和調試你的CI管道和測試。同時監控你所有的CI工作流程和測試！通過訪問關鍵的CI指標，深入瞭解你所有的CI工作流程和測試。",
+      "tagline": "用Foresight監控和調試你的CI管道和測試"
+    }
+  ]
 }
