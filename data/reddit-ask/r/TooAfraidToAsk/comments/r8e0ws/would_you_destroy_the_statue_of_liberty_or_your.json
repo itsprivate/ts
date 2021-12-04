@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>That’s it. That’s the question.</p> </div><!--\nSC_ON -->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>That’s it. That’s the question.</p> </div><!--\nSC_ON -->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>That’s it. That’s the question.</p> </div><!--\nSC_ON -->",
+      "title": "一度も会ったことのない一人の人間の命を救うために、自由の女神像（または自国のそれに相当するもの）を破壊しますか？なぜですか、なぜそうしないのですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>这就是了。That’s the question.</p> </div><!--\nSC_ON -->",
+      "title": "你会为了拯救一个素不相识的人的生命而摧毁自由女神像（或你本国的同类建筑）吗？为什么或为什么不呢？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>這就是了。That’s the question.</p> </div><!--\nSC_ON -->",
+      "title": "你會爲了拯救一個素不相識的人的生命而摧毀自由女神像（或你本國的同類建築）嗎？爲什麼或爲什麼不呢？"
+    }
+  ]
 }

@@ -65,5 +65,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "すべてがうまくいく。"
+    },
+    {
+      "locale": "zh",
+      "title": "一切都会好起来的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一切都會好起來的。"
+    }
+  ]
 }
