@@ -52,5 +52,17 @@
   "original_created_at": "2020-12-25T08:48:35Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MTKxTTrx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/htob22ctk7q3s0seb2kf.png",
   "author": "LUKESHIRU",
-  "author_url": "https://dev.to/lukeshiru"
+  "author_url": "https://dev.to/lukeshiru",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "这是我在科技高中最后一年的第一天。新的编程老师来了，他说：\"我想让你知道，你是怎么做的。",
+      "title": "你不需要 \"如果\""
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是我在科技高中最後一年的第一天。新的編程老師來了，他說：\"我想讓你知道，你是怎麼做的。",
+      "title": "你不需要 \"如果\""
+    }
+  ]
 }
