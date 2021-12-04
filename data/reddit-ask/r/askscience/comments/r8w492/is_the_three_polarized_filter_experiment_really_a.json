@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I just watched <a\nhref=\"https://www.youtube.com/watch?v=zcqZHYo7ONs&amp;ab_channel=minutephysics\">this\nvideo</a> where I&#39;ve just now learned of the polarizing filter experiment\ndemonstrating Bell&#39;s theorem. But it&#39;s done my head in a bit because…"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I just watched <a\nhref=\"https://www.youtube.com/watch?v=zcqZHYo7ONs&amp;ab_channel=minutephysics\">this\nvideo</a> where I&#39;ve just now learned of the polarizing filter experiment\ndemonstrating Bell&#39;s theorem. But it&#39;s done my head in a bit because…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!--SC_OFF --><div class=\"md\"><p>今、<a>を見ました。\nhref=\"https://www.youtube.com/watch?v=zcqZHYo7ONs&amp;ab_channel=minutephysics\">この動画</a>を見ました。\n偏光フィルターの実験でベルの定理が証明されたことを今頃知りました。\nベルの定理を実証しています。でも、ちょっと頭が混乱してしまって...。",
+      "title": "3枚の偏光フィルターを使った実験は、本当に量子の不確定性を示すものなのか、それとももっと単純な説明があるのか。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>我刚刚看了<a\nhref=\"https://www.youtube.com/watch?v=zcqZHYo7ONs&amp;ab_channel=minutephysics\">这个\n视频</a>，我刚刚了解到偏振滤光片的实验\n证明了贝尔定理。但它让我有点头大了，因为...",
+      "title": "三个偏振滤光片实验真的是量子不确定性的证明，还是有一个更简单的解释？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>我剛剛看了<a\nhref=\"https://www.youtube.com/watch?v=zcqZHYo7ONs&amp;ab_channel=minutephysics\">這個\n視頻</a>，我剛剛瞭解到偏振濾光片的實驗\n證明了貝爾定理。但它讓我有點頭大了，因爲...",
+      "title": "三個偏振濾光片實驗真的是量子不確定性的證明，還是有一個更簡單的解釋？"
+    }
+  ]
 }
