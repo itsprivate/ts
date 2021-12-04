@@ -43,5 +43,22 @@
   "original_created_at": "2021-11-28T15:30:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uC4oNhFL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y8d8jn33tj5iir13zgkv.jpg",
   "author": "Ustariz Enzo",
-  "author_url": "https://dev.to/ziratsu"
+  "author_url": "https://dev.to/ziratsu",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "クリエイターの皆さん、アプリにローダーを追加したいけど、どこから手をつけていいかわからないですよね？そんなときは、このページをご覧ください。",
+      "title": "ローダーの作り方"
+    },
+    {
+      "locale": "zh",
+      "description": "嘿，各位创作者，你想在你的应用程序中添加一个加载器，但不知道从哪里开始？不妨看看...",
+      "title": "如何创建一个装载机!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嘿，各位創作者，你想在你的應用程序中添加一個加載器，但不知道從哪裏開始？不妨看看...",
+      "title": "如何創建一個裝載機!"
+    }
+  ]
 }
