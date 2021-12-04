@@ -1,0 +1,32 @@
+{
+  "author": "eivelyn",
+  "original_created_utc": 1632441571,
+  "title": "YSK that Apple's new Mail Privacy Protection feature will flag your email address as valid to any marketer (or scammer).",
+  "created_utc": 1632503584,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>If you use the Apple Mail App and enable MPP, here’s what happens: Apple first routes emails through a proxy server to pre-load message content—including tracking pixels—before serving it to you. This happens even if you don’t actually open those emails.</p>\n\n<p>This means that when you open an email, you essentially access Apple&#39;s version instead of the sender&#39;s, disguising your IP address and time of opening to the sender.  However, when Apple initially downloads the images, it sends a signal to the sender that their email has reached a valid and active address. This has the potential to actually <em>increase</em> the amount of unwanted emails you receive, as a scammer will know they&#39;ve hit a live address and will undoubtedly make use of it. </p>\n\n<p><strong>Why YSK:</strong> To help you make an informed decision about your privacy. </p>\n\n<p><strong>Note:</strong> This is my understanding of the following article by Magan Le at Litmus <a href=\"https://www.litmus.com/blog/apple-mail-privacy-protection-for-marketers/\">https://www.litmus.com/blog/apple-mail-privacy-protection-for-marketers/</a></p>\n</div><!-- SC_ON -->",
+  "score": 54,
+  "permalink": "/r/YouShouldKnow/comments/pu7y8k/ysk_that_apples_new_mail_privacy_protection/",
+  "subreddit": "YouShouldKnow",
+  "id": "pu7y8k",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "If you use the Apple Mail App and enable MPP, here’s what happens: Apple first\nroutes emails through a proxy server to pre-load message content—including\ntracking pixels—before serving it to you. This happens even if you don’t\nactually open those emails.\n\nThis means that when you open an email, you…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "Apple Mail Appを使用してMPPを有効にすると、以下のようになります。アップルはまず\nメールをプロキシサーバ経由で転送し、トラッキングピクセルを含むメッセージコンテンツを事前にロードします。\nトラッキングピクセルを含むメッセージコンテンツを事前にロードしてから、お客様に提供します。これは、お客様が実際にメールを開かなくても\nこれは、お客様がそのメールを実際に開かなくても起こります。\n\nつまり、お客様がメールを開くと、そのメールは...",
+      "title": "YSKは、Appleの新しいメールプライバシー保護機能により、あらゆるマーケティング担当者（または詐欺師）に対して、あなたのメールアドレスが有効であることを示すフラグを立てます。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "如果你使用苹果邮件应用程序并启用MPP，会发生以下情况。苹果公司首先\n将邮件通过代理服务器来预装邮件内容，包括\n追踪像素，然后再提供给你。即使你没有\n实际打开这些邮件。\n\n这意味着，当你打开一封电子邮件时，你...",
+      "title": "YSK认为，苹果公司新的邮件隐私保护功能将向任何营销人员（或骗子）标记你的电子邮件地址为有效。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "如果你使用蘋果郵件應用程序並啓用MPP，會發生以下情況。蘋果公司首先\n將郵件通過代理服務器來預裝郵件內容，包括\n追蹤像素，然後再提供給你。即使你沒有\n實際打開這些郵件。\n\n這意味着，當你打開一封電子郵件時，你...",
+      "title": "YSK認爲，蘋果公司新的郵件隱私保護功能將向任何營銷人員（或騙子）標記你的電子郵件地址爲有效。"
+    }
+  ]
+}

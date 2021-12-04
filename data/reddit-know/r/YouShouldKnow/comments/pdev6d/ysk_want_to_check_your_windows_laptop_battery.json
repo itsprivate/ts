@@ -1,0 +1,32 @@
+{
+  "author": "TheRavenSayeth",
+  "original_created_utc": 1630174339,
+  "title": "YSK: Want to check your Windows laptop battery health/capacity? No need to install some other software, Windows can do it all as a built in feature.",
+  "created_utc": 1630180468,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><ol>\n<li><p>Click the start button and start typing Powershell. When it comes up, right click it and choose to run as administrator.</p></li>\n<li><p>When the prompt opens up, paste the below command and hit enter:</p>\n\n<blockquote>\n<p>powercfg /batteryreport /output “C:\\battery-report.html”</p>\n</blockquote></li>\n<li><p>Go to your C drive folder and click the battery report file. Within the file search for two important bits:</p></li>\n</ol>\n\n<ul>\n<li>  “DESIGN CAPACITY”: This is how much the battery is supposed to be able to hold</li>\n<li>  “FULL CHARGE CAPACITY”: This is how much charge the battery is actually holding now on average</li>\n</ul>\n\n<p><strong>Why YSK:</strong> There is no magical percentage that you should change your battery, but this should give you a good overall picture of how your battery is doing so you can make a more informed decision about whether you really need to replace your battery.</p>\n</div><!-- SC_ON -->",
+  "score": 55,
+  "permalink": "/r/YouShouldKnow/comments/pdev6d/ysk_want_to_check_your_windows_laptop_battery/",
+  "subreddit": "YouShouldKnow",
+  "id": "pdev6d",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": " 1. Click the start button and start typing Powershell. When it comes up, right\n    click it and choose to run as administrator.\n\n 2. When the prompt opens up, paste the below command and hit enter:\n    \n    > powercfg /batteryreport /output “C:\\battery-report.html”\n\n 3. Go to your C drive folder…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": " 1. スタートボタンをクリックし、Powershellと入力し始める。表示されたら、右\n    して、管理者として実行することを選択します。\n\n 2. プロンプトが表示されたら、以下のコマンドをペーストしてEnterキーを押します。\n    \n    > powercfg /batteryreport /output \"C:‾battery-report.html\"\n\n 3. Cドライブのフォルダに移動します...",
+      "title": "YSK: Windowsノートパソコンのバッテリー残量をチェックしませんか？他のソフトウェアをインストールする必要はなく、Windowsに内蔵されている機能ですべて行うことができます。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": " 1. 点击开始按钮，开始输入Powershell。当它出现的时候，右键\n    点击它并选择以管理员身份运行。\n\n 2. 当提示符打开时，粘贴以下命令并点击回车。\n    \n    > powercfg /batteryreport /output \"C:\\battery-report.html\" 。\n\n 3. 转到您的C盘文件夹...",
+      "title": "YSK：想检查你的Windows笔记本电池健康/容量？不需要安装其他软件，Windows的内置功能就可以做到这一切。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": " 1. 點擊開始按鈕，開始輸入Powershell。當它出現的時候，右鍵\n    點擊它並選擇以管理員身份運行。\n\n 2. 當提示符打開時，粘貼以下命令並點擊回車。\n    \n    > powercfg /batteryreport /output \"C:\\battery-report.html\" 。\n\n 3. 轉到您的C盤文件夾...",
+      "title": "YSK：想檢查你的Windows筆記本電池健康/容量？不需要安裝其他軟件，Windows的內置功能就可以做到這一切。"
+    }
+  ]
+}

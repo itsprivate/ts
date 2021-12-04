@@ -1,0 +1,57 @@
+{
+  "name": "actionsflow-workflow-default",
+  "private": true,
+  "description": "A simple workflow to get up and build quickly with Actionsflow",
+  "version": "1.0.0",
+  "author": "Owen Young <theowenyoung@gmail.com>",
+  "devDependencies": {
+    "@vercel/ncc": "^0.25.1",
+    "actionsflow": "^1.12.0",
+    "jest": "^27.0.4",
+    "prettier": "^2.2.0"
+  },
+  "keywords": [
+    "actionsflow",
+    "workflow"
+  ],
+  "license": "0BSD",
+  "scripts": {
+    "build": "actionsflow build",
+    "start": "ACTIONS_LOCAL=true actionsflow start --verbose -- -b",
+    "watch": "actionsflow start -w --verbose --interval 1 -- -b",
+    "act": "act --workflows ./dist/workflows --secret-file ./dist/.secrets --eventpath ./dist/event.json --env-file ./dist/.env -P ubuntu-latest=actionsflow/act-environment:v1 -P ubuntu-18.04=actionsflow/act-environment:v1 -b",
+    "clean": "actionsflow clean",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:action": "ncc build .github/actions/translate/src/index.js -e ../locales/zh.json -e puppeteer -o .github/actions/translate/dist",
+    "build:format": "ncc build .github/actions/format/src/index.js -o .github/actions/format/dist",
+    "build:meta": "ncc build ./scripts/src/get-metadata.js -o ./scripts/get-metadata",
+    "build:update": "ncc build ./scripts/src/update-resource.js -o ./scripts/update-resource",
+    "build:issues": "ncc build ./scripts/src/generate-issues.js -o ./scripts/generate-issues",
+    "upsite": "node scripts/update-site-info.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/actionsflow/actionsflow-workflow-default"
+  },
+  "bugs": {
+    "url": "https://github.com/actionsflow/actionsflow-workflow-default/issues"
+  },
+  "dependencies": {
+    "@actions/core": "^1.2.6",
+    "axios": "^0.21.4",
+    "dotenv": "^8.2.0",
+    "ellipsize": "^0.1.0",
+    "got": "^11.8.1",
+    "html-to-text": "^6.0.0",
+    "metascraper": "^5.16.0",
+    "metascraper-image": "^5.16.0",
+    "micromatch": "^4.0.2",
+    "opencc": "^1.1.1",
+    "puppeteer": "^11.0.0",
+    "reddit": "^1.2.1",
+    "string.prototype.replaceall": "^1.0.4",
+    "tencentcloud-sdk-nodejs": "^4.0.16",
+    "twit": "^2.2.11",
+    "youtube-api": "^3.0.1"
+  }
+}

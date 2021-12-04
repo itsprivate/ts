@@ -1,0 +1,32 @@
+{
+  "author": "Wolfeur",
+  "original_created_utc": 1630929017,
+  "title": "YSK: there is a file called rockyou.txt that contains the most common passwords in the world. If your password is on it, you should change it asap.",
+  "created_utc": 1630950361,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Link to download the text file (133 MB): <a href=\"https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt\">https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt</a></p>\n\n<p>Why YSK: when trying to brute force your password, hackers will resort to lists of common passwords, and rockyou.txt is the most exhaustive and well-known source. Those lists allow to hack a ton of accounts in a short time thanks to the limited amount of trials necessary for statistically good results. If a hacker is going to try and get into your account, this list will be used. If your password isn&#39;t on it, he will most likely not try further and your account should be safe from brute force attacks.</p>\n\n<p>This is the best thing you can do to prevent your account from randomly getting hacked. To note that your password should still be long enough to prevent brute forcing with <em>all</em> character combinations (recommended 8+ characters) and that will not prevent social engineering attacks.</p>\n</div><!-- SC_ON -->",
+  "score": 53,
+  "permalink": "/r/YouShouldKnow/comments/pixx5e/ysk_there_is_a_file_called_rockyoutxt_that/",
+  "subreddit": "YouShouldKnow",
+  "id": "pixx5e",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Link to download the text file (133 MB):\nhttps://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt\n\nWhy YSK: when trying to brute force your password, hackers will resort to lists\nof common passwords, and rockyou.txt is the most exhaustive and well-known\nsource. Those lists…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "テキストファイル(133MB)をダウンロードするためのリンクです。\nhttps://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt\n\nなぜYSKかというと、ハッカーはパスワードを総当りで調べようとするとき、一般的なパスワードのリストに頼るからです。\nrockyou.txtは、最も網羅的で有名なパスワードのリストです。\nのようなものです。それらのリストは...",
+      "title": "YSK: rockyou.txtというファイルがあって、そこには世界で最も一般的なパスワードが書かれています。もしあなたのパスワードがそこに載っていたら、すぐに変更してください。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "链接下载文本文件（133MB）。\nhttps://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt\n\n为什么是YSK：当试图对你的密码进行暴力破解时，黑客会求助于常见的密码列表。\n列表，而rockyou.txt是最详尽和最著名的密码来源。\n来源。这些列表...",
+      "title": "YSK：有一个叫rockyou.txt的文件，包含了世界上最常见的密码。如果你的密码在上面，你应该尽快改变它。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "鏈接下載文本文件（133MB）。\nhttps://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt\n\n爲什麼是YSK：當試圖對你的密碼進行暴力破解時，黑客會求助於常見的密碼列表。\n列表，而rockyou.txt是最詳盡和最著名的密碼來源。\n來源。這些列表...",
+      "title": "YSK：有一個叫rockyou.txt的文件，包含了世界上最常見的密碼。如果你的密碼在上面，你應該儘快改變它。"
+    }
+  ]
+}

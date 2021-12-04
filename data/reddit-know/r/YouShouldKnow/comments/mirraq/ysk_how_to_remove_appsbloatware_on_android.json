@@ -1,0 +1,37 @@
+{
+  "author": "bountyman34",
+  "the_new_excerpt": "Why YSK:\n\nI've seen a few posts stating that you need root or other complex modifications\nto remove apps and that's not entirely true. This post is not meant to tell you\nthe benefits of using root/how to get it but rather how to remove apps and other\nbloatware off Android devices using ADB. In an…",
+  "original_created_utc": 1617392098,
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么是YSK。\n\nI've seen a few posts stating that you need root or other complex modifications 我看到一些帖子说你需要root或者其他复杂的修改\n来删除应用程序，这并不完全正确。这篇文章并不是要告诉你\n使用root的好处/如何获得它，而是如何删除应用程序和其他。\n臃肿软件关闭Android设备使用ADB。在一个...",
+      "title": "YSK：如何在没有root的情况下删除Android设备上的应用/漏洞软件。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼是YSK。\n\nI've seen a few posts stating that you need root or other complex modifications 我看到一些帖子說你需要root或者其他複雜的修改\n來刪除應用程序，這並不完全正確。這篇文章並不是要告訴你\n使用root的好處/如何獲得它，而是如何刪除應用程序和其他。\n臃腫軟件關閉Android設備使用ADB。在一個...",
+      "title": "YSK：如何在沒有root的情況下刪除Android設備上的應用/漏洞軟件。"
+    },
+    {
+      "locale": "ja-JA",
+      "the_new_excerpt": "なぜYSKなのか。\n\nrootやその他の複雑な改造が必要だという書き込みをいくつか見ました。\nこの投稿は、アプリを削除するにはroot権限が必要だとか、複雑な改造が必要だとかいう内容のものを見たことがありますが、それは全くの事実ではありません。この記事は以下のことを伝えるためのものではありません。\n今回の記事は、rootを取ることのメリットや方法をお伝えするものではなく、ADBを使ってAndroid端末からアプリやその他の\nADBを使ってAndroid端末からアプリやその他の付属品を削除する方法を紹介します。この記事では...",
+      "title": "YSK: Android端末のアプリ/ブロートウェアをrootなしで削除する方法。"
+    },
+    {
+      "locale": "ja",
+      "the_new_excerpt": "なぜYSKなのか。\n\nrootやその他の複雑な改造が必要だという書き込みをいくつか見ました。\nこの投稿は、アプリを削除するにはroot権限が必要だとか、複雑な改造が必要だとかいう内容のものを見たことがありますが、それは全くの事実ではありません。この記事は以下のことを伝えるためのものではありません。\n今回の記事は、rootを取ることのメリットや方法をお伝えするものではなく、ADBを使ってAndroid端末からアプリやその他の\nADBを使ってAndroid端末からアプリやその他の付属品を削除する方法を紹介します。この記事では...",
+      "title": "YSK: Android端末のアプリ/ブロートウェアをrootなしで削除する方法。"
+    }
+  ],
+  "title": "YSK: How to remove apps/bloatware on Android devices without root.",
+  "created_utc": 1617406868,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Why YSK:</p>\n\n<p>I&#39;ve seen a few posts stating that you need root or other complex modifications to remove apps and that&#39;s not entirely true. This post is not meant to tell you the benefits of using root/how to get it but rather how to remove apps and other bloatware off Android devices using ADB. In an ideal world, phones will ship without any bloatware or unnecessary apps but that&#39;s not usually the case. </p>\n\n<hr/>\n\n<p>My guide is based on this <a href=\"https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/\">article</a> from XDA. I&#39;ve simplified some steps and omitted others. I <strong>highly recommend</strong> reading this article as it goes into far more detail. The article also has a video guide in case you want to watch instead of read.</p>\n\n<p>This guide requires a little bit of Android knowledge as well as the ability to access an admin/elevated command prompt or powershell window. I would highly recommend reading the guide and linked article before beginning this process. I understand that this post is a little text-blocky but it is in your best interest to read all of it.</p>\n\n<p><strong>Warning</strong>: Do not delete or disable apps that you are unsure about. Some apps may be system apps necessary for your device to function. You can accidentally remove a crucial app and then have to factory reset in order for your device to be usable. </p>\n\n<hr/>\n\n<p><strong>Step 1</strong>: Install Android Debug Bridge (ADB) from <a href=\"https://forum.xda-developers.com/t/official-tool-windows-adb-fastboot-and-drivers-15-seconds-adb-installer-v1-4-3.2588979/\">here</a>. The linked article provides a link to the entire ADB sdk platform which is still fine to use but not necessary.</p>\n\n<p><strong>Step 2</strong>: Enable developer mode on your android device. This is typically done by going into settings -&gt;About phone -&gt; software information -&gt;tapping on &quot;build number&quot; several times. Once developer mode has been activated, enable usb debugging and plug in your device to your computer with ADB. </p>\n\n<p><strong>Step 3</strong>: Install an app inspector on your device. I personally use this <a href=\"https://play.google.com/store/apps/details?id=com.ubqsoft.sec01\">app</a> but any similar app would work fine. The purpose of the app inspector is to get the name of the package for the app(s) you&#39;ll uninstall. </p>\n\n<p><strong>Step 4</strong>: Launch an elevated or admin command prompt or powershell window</p>\n\n<p><strong>Step 5</strong>: Within the terminal, type and execute the following command</p>\n\n<pre><code>adb devices\n</code></pre>\n\n<p>If done correctly, you should see something like <a href=\"https://www.xda-developers.com/files/2021/02/Windows-PowerShell-adb-devices.jpg\">this</a>.</p>\n\n<p><strong>Step 6</strong>: Type and execute the following command</p>\n\n<pre><code>adb shell\n</code></pre>\n\n<p><strong>Step 7</strong>: Type the following command to delete apps. From within the app inspector, look at the particular app name and retrieve it&#39;s entire package title. For instance, Google+ has the package title com.google.android.apps.plus as seen <a href=\"https://i.ibb.co/vLbJHFL/unnamed.png\">here</a>. Replace &quot;insert package name&quot; with the name of the actual package without quotations.</p>\n\n<pre><code>pm uninstall -k --user 0 &quot;insert package name&quot;\n</code></pre>\n\n<p><strong>Optional Step 8</strong>: If you want to disable apps instead of deleting them, type and execute the following command. From before, replace the name of app where it says &quot;insert package name&quot;.</p>\n\n<pre><code>pm disable-user --user 0 &quot;insert package name&quot;\n</code></pre>\n\n<p><strong>Step 9</strong>: Repeat Step 7 and/or 8 as necessary. This may be a bit tedious depending on the number of apps you want to remove or disable. </p>\n\n<hr/>\n\n<p>Common questions</p>\n\n<p>Q: Will the apps I remove/disable persist across system updates?</p>\n\n<p>A: In my experience yes but I can&#39;t promise anything for your device.</p>\n\n<p>Q: I accidentally deleted a system app and my device is acting weird, what do I do?</p>\n\n<p>A: You will most likely need to factory reset</p>\n\n<p>Q: How do I re-install a deleted app?</p>\n\n<p>A: While I never tried this personally, the linked article says to type and execute the following</p>\n\n<pre><code> adb shell cmd package install-existing &quot;insert package name&quot;\n</code></pre>\n\n<p>Q: How to re-enable a disabled app?</p>\n\n<p>A: I have not tried this personally either but type and execute the following</p>\n\n<pre><code>pm enable &quot;insert package name&quot;\n</code></pre>\n</div><!-- SC_ON -->",
+  "score": 51,
+  "permalink": "/r/YouShouldKnow/comments/mirraq/ysk_how_to_remove_appsbloatware_on_android/",
+  "subreddit": "YouShouldKnow",
+  "id": "mirraq",
+  "is_self": true,
+  "media": null,
+  "is_video": false
+}

@@ -1,0 +1,32 @@
+{
+  "author": "_EnterUsernameHere-",
+  "original_created_utc": 1632516720,
+  "title": "YSK if you're given a school or county-based Chromebook, how to bypass website admin blocks.",
+  "created_utc": 1632749495,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Why YSK: Us students know schools go absolutely overboard on website restrictions. Completely locked down with browser management extensions and admin blocks. For gosh-sake sometimes I just wanna scroll Reddit or watch Twitch when there&#39;s nothing else going on. And for those of you who a school Chromebook is the only access you have to internet, you&#39;re going to want to take a break and relax sometimes. Without further delay, here&#39;s how to bypass website blocks on school Chromebooks on which website &quot;security&quot; is managed by extensions</p>\n\n<p>1: Google search the website you want to visit. Don&#39;t click the link yet.</p>\n\n<p>2: In the top right corner you should see three vertical dots. Click that</p>\n\n<p>3: Head over to more tools and click task manager</p>\n\n<p>4: End the processes associated with your Chromebook&#39;s &quot;security&quot; (e.g. cisco umbrella extension) </p>\n\n<p>5: After that, quickly click the website you want to visit. Do this fast as the &quot;security&quot; processes reinstate themselves and you may have to spam &#39;end process&#39; multiple times for the request to go through. Refresh the page and end &quot;security&quot; extensions as needed.</p>\n\n<p>Once the website loads in, you should not have to spam close the &quot;security&quot; extensions, and most of the website features should run as normal. You should also be able to visit those websites in the future without having to complete the process above. The only exception Ive seen where consistent buffering occurs is crunchyroll and the Reddit media player.</p>\n\n<p>Hope this helps some people :D</p>\n\n<p>Edit: This solution only works if your school didn&#39;t block task manager. If they did, you gotta resort to a dual boot process off an external drive if your processor supports windows/linux</p>\n\n<p>I don&#39;t exactly know the process, but I&#39;m sure you could find a youtube video that shows you how to do it.</p>\n\n<p>AMD and Intel processors support both Windows 10 and some versions of Linux.</p>\n\n<p>Thank you to <a href=\"/u/enderwiggin42\">u/enderwiggin42</a> for the info!</p>\n</div><!-- SC_ON -->",
+  "score": 51,
+  "permalink": "/r/YouShouldKnow/comments/pusbj0/ysk_if_youre_given_a_school_or_countybased/",
+  "subreddit": "YouShouldKnow",
+  "id": "pusbj0",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Why YSK: Us students know schools go absolutely overboard on website\nrestrictions. Completely locked down with browser management extensions and\nadmin blocks. For gosh-sake sometimes I just wanna scroll Reddit or watch Twitch\nwhen there's nothing else going on. And for those of you who a school…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "なぜYSKなのか：私たち学生は、学校がWebサイトの制限をやりすぎていることを知っています。\n制限があります。ブラウザ管理用の拡張機能や管理者ブロックで完全にロックされています。\n管理者がブロックします。何もしていない時にRedditを見たり、Twitchを見たりしたい時があります。\nを見たいと思うことがあります。そして、学校に通っている人のために...",
+      "title": "学校や県のChromebookを渡されたらYSK、ウェブサイトの管理ブロックを回避する方法。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么是YSK：我们学生知道学校在网站上的限制绝对是过分的。\n限制。通过浏览器管理扩展和管理封锁完全锁定了\n管理区块。看在上帝的份上，有时我只是想滚动Reddit或观看Twitch\n当没有其他事情发生的时候。而对于那些在学校...",
+      "title": "YSK如果你得到的是学校或县城的Chromebook，如何绕过网站管理封锁。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼是YSK：我們學生知道學校在網站上的限制絕對是過分的。\n限制。通過瀏覽器管理擴展和管理封鎖完全鎖定了\n管理區塊。看在上帝的份上，有時我只是想滾動Reddit或觀看Twitch\n當沒有其他事情發生的時候。而對於那些在學校...",
+      "title": "YSK如果你得到的是學校或縣城的Chromebook，如何繞過網站管理封鎖。"
+    }
+  ]
+}

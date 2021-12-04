@@ -1,0 +1,27 @@
+{
+  "author": "GameAndHike",
+  "the_new_excerpt": "Why YSK: There is currently text bot sending very convincing texts claiming to\nbe Venmo's fraud service. They ask you to follow a link that looks like it's\nVenmo's and sign in. The link uses \"venmo\" as its third level domain so it\nappears legit, but the second level domain is something else meaning…",
+  "original_created_utc": 1614476789,
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么是YSK：目前有短信机器人发送非常有说服力的短信，自称是\n是Venmo的欺诈服务。他们要求你按照一个链接，看起来像它的\nVenmo的和登录。该链接使用 \"venmo \"作为其三级域名，所以它的\n看起来是合法的，但二级域名是别的意思... ...",
+      "title": "YSK有一个基于文本的网络钓鱼活动，以入侵人们的Venmos。如果你收到一个看起来像Venmo的短信，并声称有可疑的活动，报告它。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼是YSK：目前有短信機器人發送非常有說服力的短信，自稱是\n是Venmo的欺詐服務。他們要求你按照一個鏈接，看起來像它的\nVenmo的和登錄。該鏈接使用 \"venmo \"作爲其三級域名，所以它的\n看起來是合法的，但二級域名是別的意思... ...",
+      "title": "YSK有一個基於文本的網絡釣魚活動，以入侵人們的Venmos。如果你收到一個看起來像Venmo的短信，並聲稱有可疑的活動，報告它。"
+    }
+  ],
+  "title": "YSK there is a text based phishing campaign to hack people's venmos. If you get a text that looks like Venmo and claims there is suspicious activity, report it.",
+  "created_utc": 1614519751,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Why YSK: There is currently text bot sending very convincing texts claiming to be Venmo&#39;s fraud service.  They ask you to follow a link that looks like it&#39;s Venmo&#39;s and sign in.  The link uses &quot;venmo&quot; as its third level domain so it appears legit, but the second level domain is something else meaning any sign in information is NOT going to venmo, but a scammer who will then access and drain your account.</p>\n\n<p>Venmo will not send you texts asking you to sign in.  NO BANK WILL.  Instead, any legitimate fraud alert will ask you to sign in to their app/website <strong>without</strong> providing the link.  This scam exists solely to trick people into &quot;logging in&quot; on the fake website and stealing your credentials.</p>\n\n<p>Do not fall for this scam.  Report it if you happen to get this specific text, and remember NEVER to sign in on any links delivered to you (unrequested).</p>\n\n<p>Also, remember that third level domains have no relation to the company.  All websites follow the {xxxx}.{yyyyy}.{zzzzz} format.  {yyyyy} tells you the domain (in the sense most people think about it).  {xxxxx} tells you where in the domain to look.  Therefore {Signup}.{Google}.{com} is Google but {Google}.{Signup}.{com} is someone called &quot;Signup&quot; pretending to be google.</p>\n</div><!-- SC_ON -->",
+  "score": 4123,
+  "permalink": "/r/YouShouldKnow/comments/lu2jcq/ysk_there_is_a_text_based_phishing_campaign_to/",
+  "subreddit": "YouShouldKnow",
+  "id": "lu2jcq",
+  "is_self": true,
+  "media": null,
+  "is_video": false
+}
