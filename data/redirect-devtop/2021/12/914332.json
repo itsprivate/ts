@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-01T13:57:55Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CCPx3GXc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cnyeobbchn9cenliurcy.png",
   "author": "Techworld with Nana",
-  "author_url": "https://dev.to/techworld_with_nana"
+  "author_url": "https://dev.to/techworld_with_nana",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "This is written version of my new youtube video ✍️ 🙂 In this Redis tutorial, you will learn...",
+      "title": "Redis - Redisをプライマリデータベースとして使用するためのポイント、理由、方法"
+    },
+    {
+      "locale": "zh",
+      "description": "这是我的新youtube视频的书面版本 ✍️ 🙂 在这个Redis教程中，你将学习...",
+      "title": "Redis - 什么、为什么和如何使用Redis作为主要数据库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是我的新youtube視頻的書面版本 ✍️ 🙂 在這個Redis教程中，你將學習...",
+      "title": "Redis - 什麼、爲什麼和如何使用Redis作爲主要數據庫"
+    }
+  ]
 }
