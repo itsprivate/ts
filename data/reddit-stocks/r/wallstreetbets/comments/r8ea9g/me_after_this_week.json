@@ -146,5 +146,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1638581419,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今週の私"
+    },
+    {
+      "locale": "zh",
+      "title": "本周之后的我"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "本週之後的我"
+    }
+  ]
 }
