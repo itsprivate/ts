@@ -48,5 +48,22 @@
   "original_created_at": "2021-12-03T04:52:33Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WT8HnR_w--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y8214wmw56743rin6lo9.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "GitHub Actionsを使って素晴らしいワークフローを構築し、賞品を手に入れましょう。",
+      "title": "2021年「GitHub Actions」ハッカソンへの参加はDEVがラストチャンス！？"
+    },
+    {
+      "locale": "zh",
+      "description": "不要错过使用GitHub Actions建立一个惊人的工作流程的机会--同时还能获得奖品 ",
+      "title": "参加2021年GitHub Actions黑客马拉松的最后机会！--DEV"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "不要錯過使用GitHub Actions建立一個驚人的工作流程的機會--同時還能獲得獎品 ",
+      "title": "參加2021年GitHub Actions黑客馬拉松的最後機會！--DEV"
+    }
+  ]
 }

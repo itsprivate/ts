@@ -42,5 +42,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I built a Telegram Bot that will reply to you\nwith a screenshot of TradingView charts. It is my first public open-source\nproject based on <a href=\"https://chart-img.com\">CHART-IMG</a> API that I made a\nfew weeks ago. I am planning to improve and add more features…"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I built a Telegram Bot that will reply to you\nwith a screenshot of TradingView charts. It is my first public open-source\nproject based on <a href=\"https://chart-img.com\">CHART-IMG</a> API that I made a\nfew weeks ago. I am planning to improve and add more features…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!--SC_OFF --><div class=\"md\"><p>あなたに返信するTelegram Botを作りました。\nTradingViewのチャートのスクリーンショットを返信するTelegram Botを作りました。これは私が初めて公開したオープンソースの\n数週間前に作った<a href=\"https://chart-img.com\">CHART-IMG</a> APIをベースにした私の最初の公開プロジェクトです。\nに基づいた私の最初のオープンソースプロジェクトです。改良してもっと機能を追加しようと思っています。",
+      "title": "TradingViewチャートのスクリーンショットでオープンソースのTelegram Botを作ってみた"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>我建立了一个Telegram Bot，它将回复你\n的TradingView图表的截图。这是我第一个公开的开源\n它是我第一个基于<a href=\"https://chart-img.com\">CHART-IMG</a> API的公开开源项目，我做了一个\n几周前做的。我正计划改进并增加更多的功能...",
+      "title": "我利用TradingView图表截图建立了开源的Telegram机器人"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>我建立了一個Telegram Bot，它將回復你\n的TradingView圖表的截圖。這是我第一個公開的開源\n它是我第一個基於<a href=\"https://chart-img.com\">CHART-IMG</a> API的公開開源項目，我做了一個\n幾周前做的。我正計劃改進並增加更多的功能...",
+      "title": "我利用TradingView圖表截圖建立了開源的Telegram機器人"
+    }
+  ]
 }

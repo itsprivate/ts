@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-04T08:01:00Z"
+  "original_createdAt": "2021-12-04T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "InstaaSnapは、オープンソースのInstagram投稿保存用API、WebApp、iOS、Andoidアプリです。私はInstagramからいくつかの重要なフィードを保存するためにそれを作成しました。プライバシーに配慮し、データベース、アナリティクス、ログ、クッキーを使用せず、オープンソースで提供しています。",
+      "tagline": "Instagramの公開投稿やリールを保存、オープンソース化"
+    },
+    {
+      "locale": "zh",
+      "description": "InstaaSnap是一个开源的Instagram帖子保存器API、WebApp、iOS和Andoid应用。我创建它是为了保存Instagram上的一些重要信息。它是隐私友好的，没有数据库，没有分析，没有日志，没有cookies，加上开源的。",
+      "tagline": "保存Instagram的公共帖子和卷轴，开源节流"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "InstaaSnap是一個開源的Instagram帖子保存器API、WebApp、iOS和Andoid應用。我創建它是爲了保存Instagram上的一些重要信息。它是隱私友好的，沒有數據庫，沒有分析，沒有日誌，沒有cookies，加上開源的。",
+      "tagline": "保存Instagram的公共帖子和卷軸，開源節流"
+    }
+  ]
 }

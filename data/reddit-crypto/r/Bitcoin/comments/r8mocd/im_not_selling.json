@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "🎙売らない"
+    },
+    {
+      "locale": "zh",
+      "title": "🎙我不卖"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "🎙我不賣"
+    }
+  ]
 }

@@ -48,5 +48,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-04T08:01:00Z"
+  "original_createdAt": "2021-12-04T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "W3Schoolsでは、自分のウェブサイトを作成し、それを他の人と共有することができます。",
+      "tagline": "W3Schools Spacesで自分のウェブサイトを作る"
+    },
+    {
+      "locale": "zh",
+      "description": "W3Schools允许你创建自己的网站并与他人分享。",
+      "tagline": "用W3Schools Spaces建立您自己的网站"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "W3Schools允許你創建自己的網站並與他人分享。",
+      "tagline": "用W3Schools Spaces建立您自己的網站"
+    }
+  ]
 }
