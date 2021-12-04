@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-02T17:06:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--N64kbo71--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1gawvendrasxebzk8f6k.png",
   "author": "Jatin Sharma",
-  "author_url": "https://dev.to/j471n"
+  "author_url": "https://dev.to/j471n",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "タイピングのアニメーションを掲載しているサイトを見たことがあるかもしれません。かっこいいですよね。",
+      "title": "CSSを用いた打ち込み効果"
+    },
+    {
+      "locale": "zh",
+      "description": "你可能已经看到一些网站有一些打字的动画。它看起来很酷...",
+      "title": "使用CSS的打字效果"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你可能已經看到一些網站有一些打字的動畫。它看起來很酷...",
+      "title": "使用CSS的打字效果"
+    }
+  ]
 }
