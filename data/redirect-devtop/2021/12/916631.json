@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-03T16:01:35Z",
   "image": "https://dev.to/social_previews/article/916631.png",
   "author": "Muhammad Rauf",
-  "author_url": "https://dev.to/softcodeon"
+  "author_url": "https://dev.to/softcodeon",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、あなたのウェブサイト/ブログにカスタム404エラーページを追加する必要がありますか？404エラーは、ユーザーが...",
+      "title": "カスタム404エラーページの作成方法"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，你需要在你的网站/博客上添加一个自定义404错误页面吗？404错误发生在一个用户...",
+      "title": "如何创建自定义404错误页面"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，你需要在你的網站/博客上添加一個自定義404錯誤頁面嗎？404錯誤發生在一個用戶...",
+      "title": "如何創建自定義404錯誤頁面"
+    }
+  ]
 }
