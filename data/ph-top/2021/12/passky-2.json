@@ -74,5 +74,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-04T08:01:00Z"
+  "original_createdAt": "2021-12-04T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Passkyは、シンプルでモダン、軽量、オープンソースで安全なパスワードマネージャーです。",
+      "tagline": "Passkyは、シンプルでモダンなオープンソースのパスワードマネージャです。"
+    },
+    {
+      "locale": "zh",
+      "description": "Passky是一个简单、现代、轻便、开源和安全的密码管理器。",
+      "tagline": "Passky是一个简单、现代和开源的密码管理器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Passky是一個簡單、現代、輕便、開源和安全的密碼管理器。",
+      "tagline": "Passky是一個簡單、現代和開源的密碼管理器"
+    }
+  ]
 }

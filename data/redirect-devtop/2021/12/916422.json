@@ -57,5 +57,22 @@
   "original_created_at": "2021-12-03T12:53:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qyax38bk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mwu2774smlfyyh2yv5ph.jpg",
   "author": "Lars Grammel",
-  "author_url": "https://dev.to/lgrammel"
+  "author_url": "https://dev.to/lgrammel",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "多くのVS Code拡張機能がマーケットプレイスで提供されています。 どのようなものがあるのか興味があります（...",
+      "title": "JSやTSを扱う上で、お気に入りのVS Code拡張機能はありますか？"
+    },
+    {
+      "locale": "zh",
+      "description": "市场上有大量的VS Code扩展。 我很好奇，哪些是（除了...",
+      "title": "在使用JS和TS时，你最喜欢的VS Code扩展是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "市場上有大量的VS Code擴展。 我很好奇，哪些是（除了...",
+      "title": "在使用JS和TS時，你最喜歡的VS Code擴展是什麼？"
+    }
+  ]
 }
