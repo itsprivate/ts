@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "PNGの周りの透明なピクセルを自動的に切り抜くmacOSアプリを作ってみた"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个macOS应用程序，用于自动裁剪出PNG周围的透明像素。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個macOS應用程序，用於自動裁剪出PNG周圍的透明像素。"
+    }
+  ]
 }
