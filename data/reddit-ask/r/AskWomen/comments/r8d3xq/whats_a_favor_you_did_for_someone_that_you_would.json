@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが誰かにしてあげた、二度としないような頼みごとは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你为某人做了什么好事，而你再也不会为任何人做了？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你爲某人做了什麼好事，而你再也不會爲任何人做了？"
+    }
+  ]
 }
