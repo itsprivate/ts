@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これを元にした映画を見てみたい"
+    },
+    {
+      "locale": "zh",
+      "title": "我很想看一部以此为基础的电影"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我很想看一部以此爲基礎的電影"
+    }
+  ]
 }
