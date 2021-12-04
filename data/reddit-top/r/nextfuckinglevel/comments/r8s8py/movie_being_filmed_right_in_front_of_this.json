@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "目の前で映画が撮影されている"
+    },
+    {
+      "locale": "zh",
+      "title": "电影就在这个小区门口拍摄"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "電影就在這個小區門口拍攝"
+    }
+  ]
 }
