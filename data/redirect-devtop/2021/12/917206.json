@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-04T09:31:15Z",
   "image": "https://dev.to/social_previews/article/917206.png",
   "author": "javinpaul",
-  "author_url": "https://dev.to/javinpaul"
+  "author_url": "https://dev.to/javinpaul",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "フロントエンドの開発者は、Firebaseを使ってダミーのバックエンドを作成し、APIを呼び出してデータベースとやりとりすることができますが、実際のバックエンドの準備を待つ必要はありません。",
+      "title": "2022年にフロントエンド開発者がFirebaseを学ぶべき理由"
+    },
+    {
+      "locale": "zh",
+      "description": "前端开发者可以学习Firebase来创建假的后台，在那里他们调用API并与数据库进行交互，而不必等待实际的后台准备好。",
+      "title": "为什么在2022年前端开发者应该学习Firebase？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "前端開發者可以學習Firebase來創建假的後臺，在那裏他們調用API並與數據庫進行交互，而不必等待實際的後臺準備好。",
+      "title": "爲什麼在2022年前端開發者應該學習Firebase？"
+    }
+  ]
 }
