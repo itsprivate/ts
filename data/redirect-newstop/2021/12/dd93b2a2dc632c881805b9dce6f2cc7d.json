@@ -14,5 +14,19 @@
   "tags": [
     "The Wall Street Journal"
   ],
-  "image": "https://images.wsj.net/im-445631/social"
+  "image": "https://images.wsj.net/im-445631/social",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "オミクロン・バリアントが少なくとも米国の10州で検出される"
+    },
+    {
+      "locale": "zh",
+      "title": "至少在美国10个州检测到Omicron变体"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "至少在美國10個州檢測到Omicron變體"
+    }
+  ]
 }
