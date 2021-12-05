@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ログイン機能と多彩な投稿スタイルオプションを備えた、写真、ビデオ、その他のRedditコンテンツを閲覧するためのReddit用ウェブクライアント - Troddit.com"
+    },
+    {
+      "locale": "zh",
+      "title": "Reddit的网络客户端，用于浏览图片、视频和其他Reddit内容，并集成了登录功能和各种帖子风格选项 - Troddit.com"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Reddit的網絡客戶端，用於瀏覽圖片、視頻和其他Reddit內容，並集成了登錄功能和各種帖子風格選項 - Troddit.com"
+    }
+  ]
 }
