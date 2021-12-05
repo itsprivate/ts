@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "前にも来たことがある。もう大丈夫ですよ。"
+    },
+    {
+      "locale": "zh",
+      "title": "我们以前来过这里。这一切都很好。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們以前來過這裏。這一切都很好。"
+    }
+  ]
 }
