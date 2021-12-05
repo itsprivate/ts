@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Redditのコメントや投稿タイトルで「fucking」ではなく「f*cking」と書いている人たち、あなたのターゲットは誰ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "在Reddit评论和帖子标题中写 \"f*cking \"而不是 \"fucking \"的人，谁是你的目标受众？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在Reddit評論和帖子標題中寫 \"f*cking \"而不是 \"fucking \"的人，誰是你的目標受衆？"
+    }
+  ]
 }
