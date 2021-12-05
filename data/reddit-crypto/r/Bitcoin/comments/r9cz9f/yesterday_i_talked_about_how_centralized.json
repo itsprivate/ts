@@ -32,5 +32,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>So in the last 24hrs Teather printed $500\nmillion USDT. Including $1 billion USDT for &quot;inventory&quot; on the Tron\nNetwork </p>…"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>So in the last 24hrs Teather printed $500\nmillion USDT. Including $1 billion USDT for &quot;inventory&quot; on the Tron\nNetwork </p>…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!--SC_OFF --><div class=\"md\"><p>この24時間で、Teatherは5億ドルをプリントしました。\nUSDTを5億ドル刷りました。</p> <p>この24時間でTeatherは5億USドルを売り上げました。\nネットワーク </p>...",
+      "title": "昨日、私は中央集権的な取引所がBTCの価格を制限しているという話をしました。以下はその反対側です。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>因此，在过去的24小时内，Teather打印了5亿美元的USDT\n亿美元。包括用于Tron上的&quot;库存&quot; 的10亿美元USDT。\n网络</p>...",
+      "title": "昨天我谈到了中心化交易所是如何限制BTC价格的。这里是另一个方面"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>因此，在過去的24小時內，Teather打印了5億美元的USDT\n億美元。包括用於Tron上的&quot;庫存&quot; 的10億美元USDT。\n網絡</p>...",
+      "title": "昨天我談到了中心化交易所是如何限制BTC價格的。這裏是另一個方面"
+    }
+  ]
 }
