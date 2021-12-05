@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-04T12:37:41Z",
   "image": "https://dev.to/social_previews/article/917338.png",
   "author": "Fab",
-  "author_url": "https://dev.to/fabcodingzest"
+  "author_url": "https://dev.to/fabcodingzest",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これから、React、Chakra UI、NoCodeAPIを使って、シンプルなウェブサイト「Fungram」を構築し、フェッチ...",
+      "title": "ReactとChakra UIを使ったNoCodeAPI Google Sheetチュートリアル"
+    },
+    {
+      "locale": "zh",
+      "description": "我们将用React、Chakra UI和NoCodeAPI建立一个简单的网站 \"Fungram\"，用于获取信息。",
+      "title": "使用React和Chakra UI的NoCodeAPI Google Sheet教程"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們將用React、Chakra UI和NoCodeAPI建立一個簡單的網站 \"Fungram\"，用於獲取信息。",
+      "title": "使用React和Chakra UI的NoCodeAPI Google Sheet教程"
+    }
+  ]
 }
