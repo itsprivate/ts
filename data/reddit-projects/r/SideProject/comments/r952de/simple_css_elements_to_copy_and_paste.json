@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "コピー＆ペーストできるシンプルなCSS要素"
+    },
+    {
+      "locale": "zh",
+      "title": "可以复制和粘贴的简单CSS元素"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "可以複製和粘貼的簡單CSS元素"
+    }
+  ]
 }
