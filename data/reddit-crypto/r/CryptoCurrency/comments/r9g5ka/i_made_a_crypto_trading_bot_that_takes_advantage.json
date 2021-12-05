@@ -59,5 +59,22 @@
     }
   },
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>As some of you have noticed, new listings tend\nto spike up quite a bit once they are announced on a big exchange. The aim of\nthis tool is to take advantage of this initial spike, at the moment that the\nannouncement is made, not once the listing is actually trade…"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>As some of you have noticed, new listings tend\nto spike up quite a bit once they are announced on a big exchange. The aim of\nthis tool is to take advantage of this initial spike, at the moment that the\nannouncement is made, not once the listing is actually trade…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!--SC_OFF --><div class=\"md\"><p>お気づきの方もいらっしゃると思いますが、新規出品は大きな取引所で発表されると、かなり高騰する傾向があります。\nお気づきの方もいらっしゃると思いますが、大きな取引所で発表されると、新規出品がかなり高騰する傾向にあります。このツールの目的は\nこのツールの目的は、発表された瞬間のこの最初のスパイクを利用することです。\nこのツールの目的は、上場が実際に取引された後ではなく、発表された瞬間に、この最初のスパイクを利用することです...",
+      "title": "Kucoinの上場発表を利用したcrypto trading botを作ってみました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>正如你们中的一些人已经注意到的那样，新的上市项目往往会在安静的时候激增。\n一旦在大的交易所公布，就会有相当大的飙升。这个工具的目的\n这个工具的目的是利用这个最初的峰值，在宣布的那一刻，而不是在上市后的\n而不是在上市后的实际交易中。",
+      "title": "我做了一个加密货币交易机器人，利用Kucoin上市公告的优势"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>正如你們中的一些人已經注意到的那樣，新的上市項目往往會在安靜的時候激增。\n一旦在大的交易所公佈，就會有相當大的飆升。這個工具的目的\n這個工具的目的是利用這個最初的峯值，在宣佈的那一刻，而不是在上市後的\n而不是在上市後的實際交易中。",
+      "title": "我做了一個加密貨幣交易機器人，利用Kucoin上市公告的優勢"
+    }
+  ]
 }
