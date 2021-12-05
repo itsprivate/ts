@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-04T11:58:03Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--eyyPOiRz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/27xwyfl12bqjx2edj5s7.png",
   "author": "Jakub Smetanka",
-  "author_url": "https://dev.to/smetankajakub"
+  "author_url": "https://dev.to/smetankajakub",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コードフォーマッターを使用することで、コードの読みやすさが向上し、同じスタイルを維持することができます...",
+      "title": "Husky、ESLint、Prettierを15分以内にプロジェクトに統合する方法（ステップバイステップガイド）"
+    },
+    {
+      "locale": "zh",
+      "description": "代码格式化的使用增加了代码的可读性，并有助于保持代码的相同风格。",
+      "title": "如何在15分钟内将Husky、ESLint、Prettier整合到项目中（分步骤指南）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "代碼格式化的使用增加了代碼的可讀性，並有助於保持代碼的相同風格。",
+      "title": "如何在15分鐘內將Husky、ESLint、Prettier整合到項目中（分步驟指南）。"
+    }
+  ]
 }
