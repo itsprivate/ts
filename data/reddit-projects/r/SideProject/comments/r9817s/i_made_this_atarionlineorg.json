@@ -52,5 +52,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p><a\nhref=\"https://AtariOnline.org\">AtariOnline.org</a> is dedicated to protect and\nto share the Atari game library in the form of online emulation. Currently,\nthere are 650+ Atari 2600 games available to play online.</p> <p>Hope you enjoy\nthe site. Any feedback is…"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p><a\nhref=\"https://AtariOnline.org\">AtariOnline.org</a> is dedicated to protect and\nto share the Atari game library in the form of online emulation. Currently,\nthere are 650+ Atari 2600 games available to play online.</p> <p>Hope you enjoy\nthe site. Any feedback is…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!--SC_OFF --><div class=\"md\"><p><a\nhref=\"https://AtariOnline.org\">AtariOnline.org</a>は、オンライン・エミュレーションという形で、アタリのゲーム・ライブラリを保護・共有することを目的としています。\nAtariOnline.orgは、Atariのゲームライブラリをオンラインエミュレーションの形で保護し、共有することを目的としています。現在\n</p> <p>このサイトを楽しんでいただけたら幸いです。\n</p> <p>このサイトを楽しんでいただければ幸いです。どんなフィードバックでも...",
+      "title": "作ってみました -&gt; AtariOnline.org"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<！--SC_OFF --><div class=\"md\"><p><a\nhref=\"https://AtariOnline.org\">AtariOnline.org</a>致力于保护和\n以在线模拟的形式分享Atari游戏库。目前。\n</p> <p>希望你喜欢这个网站。\n该网站。任何反馈都是...",
+      "title": "我做了这个 -&gt; AtariOnline.org"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<！--SC_OFF --><div class=\"md\"><p><a\nhref=\"https://AtariOnline.org\">AtariOnline.org</a>致力於保護和\n以在線模擬的形式分享Atari遊戲庫。目前。\n</p> <p>希望你喜歡這個網站。\n該網站。任何反饋都是...",
+      "title": "我做了這個 -&gt; AtariOnline.org"
+    }
+  ]
 }
