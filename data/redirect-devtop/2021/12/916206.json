@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-03T07:48:07Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--U0sZAwAS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mhl9e495816vj644j583.jpg",
   "author": "Mansour Mahamat",
-  "author_url": "https://dev.to/mahamatmans"
+  "author_url": "https://dev.to/mahamatmans",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactでアプリケーションを作成したことがありますか？このアプリケーションでは、外部のAPIを使用していて、...",
+      "title": "React API KeyをGitHubにプッシュするのをやめる😪。"
+    },
+    {
+      "locale": "zh",
+      "description": "你是否曾经用React创建过一个应用程序，在这个应用程序中，你使用了外部的API，并且你...",
+      "title": "停止在GitHub上推送你的React API Key 😪"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你是否曾經用React創建過一個應用程序，在這個應用程序中，你使用了外部的API，並且你...",
+      "title": "停止在GitHub上推送你的React API Key 😪"
+    }
+  ]
 }
