@@ -48,5 +48,22 @@
   "original_created_at": "2021-11-30T15:07:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yN0n1HeH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d6j78xht6n1ev02yuh1u.png",
   "author": "Rakesh Potnuru",
-  "author_url": "https://dev.to/rakeshpotnuru"
+  "author_url": "https://dev.to/rakeshpotnuru",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactは最大のJavaScriptフレームワークの1つで、その後、NextJs、...など多くのReactフレームワークが登場しました。",
+      "title": "2つの新しいリアクトフレームワーク"
+    },
+    {
+      "locale": "zh",
+      "description": "React是最大的JavaScript框架之一，从那时起，许多反应框架，如NextJs，...",
+      "title": "两个新的反应框架"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "React是最大的JavaScript框架之一，從那時起，許多反應框架，如NextJs，...",
+      "title": "兩個新的反應框架"
+    }
+  ]
 }
