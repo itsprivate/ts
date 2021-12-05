@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-03T11:25:40Z",
   "image": "https://dev.to/social_previews/article/916382.png",
   "author": "Sadee",
-  "author_url": "https://dev.to/codewithsadee"
+  "author_url": "https://dev.to/codewithsadee",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "htmlとcssだけでアコーディオンを作成する方法。このチュートリアルでは、アコーディオンを作成する方法を紹介します。",
+      "title": "HTML CSSでアコーディオンを作成する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "如何只用html和css来创建手风琴。在本教程中，我将向你展示如何创建手风琴。",
+      "title": "如何用HTML CSS创建Accordion"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如何只用html和css來創建手風琴。在本教程中，我將向你展示如何創建手風琴。",
+      "title": "如何用HTML CSS創建Accordion"
+    }
+  ]
 }
