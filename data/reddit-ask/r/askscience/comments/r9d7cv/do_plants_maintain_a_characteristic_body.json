@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "植物には特徴的な「体温」があり、その温度はどのようにして調節されているのでしょうか。"
+    },
+    {
+      "locale": "zh",
+      "title": "植物是否保持一种特有的 \"体温\"，如果是的话，这种温度是如何调节的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "植物是否保持一種特有的 \"體溫\"，如果是的話，這種溫度是如何調節的？"
+    }
+  ]
 }
