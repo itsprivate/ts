@@ -43,5 +43,22 @@
   "original_created_at": "2021-11-28T15:24:17Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fU36ufEm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1ufh6e65i9hhr2izxtu3.jpg",
   "author": "Ustariz Enzo",
-  "author_url": "https://dev.to/ziratsu"
+  "author_url": "https://dev.to/ziratsu",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "クリエイターの皆さん、こんにちは！ SASSプリプロセッサーを使って、CSSでループを使う方法をご紹介します。",
+      "title": "CSSでループを使うには？"
+    },
+    {
+      "locale": "zh",
+      "description": "嘿，各位创作者，在SASS预处理程序的帮助下，学习如何在CSS中使用循环。",
+      "title": "如何在CSS中使用循环!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嘿，各位創作者，在SASS預處理程序的幫助下，學習如何在CSS中使用循環。",
+      "title": "如何在CSS中使用循環!"
+    }
+  ]
 }
