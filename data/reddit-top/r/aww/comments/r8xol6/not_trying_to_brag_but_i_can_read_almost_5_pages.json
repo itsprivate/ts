@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "自慢ではありませんが、1時間に5ページ近く読めます。"
+    },
+    {
+      "locale": "zh",
+      "title": "不是想吹牛，但我每小时几乎能读5页。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不是想吹牛，但我每小時幾乎能讀5頁。"
+    }
+  ]
 }
