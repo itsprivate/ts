@@ -150,5 +150,22 @@
     "retweet_count": 3009,
     "favorite_count": 23504,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @100trillionUSD: #ビットコインの状況 https://t.co/HyxYwtOBMz",
+      "retweeted_status_full_text": "#ビットコインの状況 https://t.co/HyxYwtOBMz"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @100trillionUSD: #比特币的地位 https://t.co/HyxYwtOBMz",
+      "retweeted_status_full_text": "#Bitcoin status https://t.co/HyxYwtOBMz"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @100trillionUSD: #比特幣的地位 https://t.co/HyxYwtOBMz",
+      "retweeted_status_full_text": "#Bitcoin status https://t.co/HyxYwtOBMz"
+    }
+  ]
 }
