@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "VoltSim: 私の長年のサイドプロジェクトである、直感的なUIのリアルタイム回路シミュレーターアプリ"
+    },
+    {
+      "locale": "zh",
+      "title": "VoltSim。一个具有直观用户界面的实时电路模拟器应用程序，我长期以来的副业项目"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "VoltSim。一個具有直觀用戶界面的實時電路模擬器應用程序，我長期以來的副業項目"
+    }
+  ]
 }
