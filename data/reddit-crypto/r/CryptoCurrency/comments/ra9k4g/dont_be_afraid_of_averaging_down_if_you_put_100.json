@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Let&#39;s say you buy a coin priced at $20\nwith $100 = you get 5 coins</p> <p>Then it dipped to $10, you put $100 again =\nget 10 coins.</p> <p>Some of you might think the average is:</p> <p>30 / 2 =\n$15</p> <h2>Wrong!!</h2> <p>You have 15 coins and $200…"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Let&#39;s say you buy a coin priced at $20\nwith $100 = you get 5 coins</p> <p>Then it dipped to $10, you put $100 again =\nget 10 coins.</p> <p>Some of you might think the average is:</p> <p>30 / 2 =\n$15</p> <h2>Wrong!!</h2> <p>You have 15 coins and $200…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!--SC_OFF --><div class=\"md\"><p>例えば、20ドルの価格のコインを買ったとしましょう。\nwith $100 = you get 5 coins</p> <p>Then it dipped to $10, you put $100 again =\nget 10 coins.</p> <p>Some of you might think the average is:</p> <p>30 / 2 =\n$15</p> <h2>Wrong!!</h2> <p>You have 15 coins and $200…",
+      "title": "平均化することを恐れてはいけない。20ドルで100ドルをコインに入れ、10ドルで同じ額を再度購入した場合、平均は15ドルではありません !!!!"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>假设你买了一个价格为20美元的硬币\n用100美元=你得到5个硬币</p> <p>然后它跌到了10美元，你又用100美元=得到10个硬币。\nget 10 coins.</p> <p>Some of you might think the average is:</p> <p>30 / 2 =\n$15</p> <h2>Wrong!!</h2> <p>You have 15 coins and $200…",
+      "title": "不要害怕平均数的下降。如果你在20美元时投入100美元的硬币，然后在10美元时再次买入相同数量的硬币，那么平均数不是15美元!!!!。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>假設你買了一個價格爲20美元的硬幣\n用100美元=你得到5個硬幣</p> <p>然後它跌到了10美元，你又用100美元=得到10個硬幣。\nget 10 coins.</p> <p>Some of you might think the average is:</p> <p>30 / 2 =\n$15</p> <h2>Wrong!!</h2> <p>You have 15 coins and $200…",
+      "title": "不要害怕平均數的下降。如果你在20美元時投入100美元的硬幣，然後在10美元時再次買入相同數量的硬幣，那麼平均數不是15美元!!!!。"
+    }
+  ]
 }
