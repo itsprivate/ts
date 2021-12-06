@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Overlayed - electronとreactで構築されたdiscordのオーバーレイ。"
+    },
+    {
+      "locale": "zh",
+      "title": "叠加--用电子和反应建立的不和谐叠加"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "疊加--用電子和反應建立的不和諧疊加"
+    }
+  ]
 }
