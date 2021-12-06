@@ -52,5 +52,22 @@
     },
     "retweet_count": 178,
     "favorite_count": 672
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @Fxhedgers 中国のデベロッパーである常熟は、正式なデフォルトの可能性を認め、1月だけで100億ドルの不動産債券が満期を迎える -RTRS",
+      "retweeted_status_full_text": "中国のデベロッパーevergrandeが正式にデフォルトの可能性を認め、1月だけで100億ドルの不動産債券が満期を迎える -RTRS"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @Fxhedgers: 中国开发商恒大承认可能正式违约，仅1月就有100亿美元的房地产债券到期--RTRS",
+      "retweeted_status_full_text": "中国开发商恒大承认可能正式违约，仅1月就有100亿美元的地产债券到期-RTRS"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @Fxhedgers: 中國開發商恆大承認可能正式違約，僅1月就有100億美元的房地產債券到期--RTRS",
+      "retweeted_status_full_text": "中國開發商恆大承認可能正式違約，僅1月就有100億美元的地產債券到期-RTRS"
+    }
+  ]
 }
