@@ -65,5 +65,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] 10Kのオリジナル画像から平均的なCryptoPunkを作ってみた（ソースコードはコメントにあります）"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]我已经从原始的10k图片中创建了平均的CryptoPunk（源代码在评论中）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]我已經從原始的10k圖片中創建了平均的CryptoPunk（源代碼在評論中）。"
+    }
+  ]
 }
