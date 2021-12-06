@@ -108,5 +108,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-06T09:14:05Z"
+  "original_createdAt": "2021-12-06T09:14:05Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "AIビジョン、音声認識、3Dプリント、レーザー彫刻、吸盤、ペンツールなどを備えたロボットアーム。ブロックコード、python、Arduino C++、Gコードでのプログラミングも可能です。",
+      "tagline": "メーカー向けAIカメラとモジュール式ロボットアーム"
+    },
+    {
+      "locale": "zh",
+      "description": "该机械臂，它具有人工智能视觉、语音识别、3D打印、激光雕刻、吸盘抓取器和笔工具。它也可以通过块状编码、python、Arduino C++或G代码进行编程。",
+      "tagline": "面向创客的AI相机和模块化机械臂"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "該機械臂，它具有人工智能視覺、語音識別、3D打印、激光雕刻、吸盤抓取器和筆工具。它也可以通過塊狀編碼、python、Arduino C++或G代碼進行編程。",
+      "tagline": "面向創客的AI相機和模塊化機械臂"
+    }
+  ]
 }
