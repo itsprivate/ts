@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m not telling you buy this instant, but\nget your money ready and wait for the crash to end. Opportunity is here, can you\ncatch it?</p> </div><!-- SC_ON -->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m not telling you buy this instant, but\nget your money ready and wait for the crash to end. Opportunity is here, can you\ncatch it?</p> </div><!-- SC_ON -->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!--SC_OFF --><div class=\"md\"><p>この瞬間に買えとは言いませんが\nお金を用意して、暴落が終わるのを待ちましょう。チャンスはここにある、あなたはそれをつかめるか？\ncatch it?</p> </div><!-- SC_ON -->",
+      "title": "過去にBTCの大きなディップを見て、買わなかったことを後悔したことはありませんか？それが今起こっているのです。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>我不是告诉你立即买入，但\n准备好你的钱，等着崩盘结束。机会就在这里，你能\ncatch it?</p> </div><!-- SC_ON -->",
+      "title": "过去有没有看到BTC大跌而后悔没买？这种情况现在正在发生。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>我不是告訴你立即買入，但\n準備好你的錢，等着崩盤結束。機會就在這裏，你能\ncatch it?</p> </div><!-- SC_ON -->",
+      "title": "過去有沒有看到BTC大跌而後悔沒買？這種情況現在正在發生。"
+    }
+  ]
 }

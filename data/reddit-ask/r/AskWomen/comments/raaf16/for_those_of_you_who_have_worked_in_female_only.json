@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "女性だけのチームで働いたことがある方は、どのように感じましたか？"
+    },
+    {
+      "locale": "zh",
+      "title": "对于那些曾经在只有女性的团队中工作过的人来说，你们觉得这种经历如何？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "對於那些曾經在只有女性的團隊中工作過的人來說，你們覺得這種經歷如何？"
+    }
+  ]
 }

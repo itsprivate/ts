@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "こいつはヤバい奴だ。😎"
+    },
+    {
+      "locale": "zh",
+      "title": "这家伙是个坏蛋。😎"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這傢伙是個壞蛋。😎"
+    }
+  ]
 }
