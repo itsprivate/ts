@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "イントロを聞いただけで、すぐにわかる人はどんな曲を知っていますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "什么歌曲是人们仅凭前奏就能一眼认出的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "什麼歌曲是人們僅憑前奏就能一眼認出的？"
+    }
+  ]
 }
