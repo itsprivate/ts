@@ -110,5 +110,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-06T08:01:00Z"
+  "original_createdAt": "2021-12-06T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "https://teamble.com を通じて、シンプルで継続的、かつ実用的なフィードバックを得ることができます。https://slack.com/apps/AS8DW2X44-teamble と https://teams.microsoft.com/l/app/ee7907e3-f0b3-4e18-b882-baa83e87812f でシームレスに利用できます。パワフルなツール、テンプレート、ナッジを活用して、あなたのチームに継続的なフィードバック文化を築きましょう。teambleを無料でご利用いただけます。",
+      "tagline": "Slack & Teams上でのシンプルで継続的、かつ実用的なフィードバック"
+    },
+    {
+      "locale": "zh",
+      "description": "通过https://teamble.com，给予并获得👍简单、🔁连续和🎯可操作的反馈。在https://slack.com/apps/AS8DW2X44-teamble 和 https://teams.microsoft.com/l/app/ee7907e3-f0b3-4e18-b882-baa83e87812f 上无缝连接。利用强大的工具、模板和提示，在你的团队中建立一个持续的反馈文化。开始免费使用teamble。",
+      "tagline": "在Slack & Teams上提供简单、持续和可操作的反馈"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "通過https://teamble.com，給予並獲得👍簡單、🔁連續和🎯可操作的反饋。在https://slack.com/apps/AS8DW2X44-teamble 和 https://teams.microsoft.com/l/app/ee7907e3-f0b3-4e18-b882-baa83e87812f 上無縫連接。利用強大的工具、模板和提示，在你的團隊中建立一個持續的反饋文化。開始免費使用teamble。",
+      "tagline": "在Slack & Teams上提供簡單、持續和可操作的反饋"
+    }
+  ]
 }

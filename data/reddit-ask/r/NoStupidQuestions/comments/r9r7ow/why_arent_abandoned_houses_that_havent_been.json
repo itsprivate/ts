@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I always see these mansions or even small\nhouses that haven’t been touched but they are for sale for a lot of money still.\nWhy?</p> </div><!-- SC_ON -->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I always see these mansions or even small\nhouses that haven’t been touched but they are for sale for a lot of money still.\nWhy?</p> </div><!-- SC_ON -->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!--SC_OFF --><div class=\"md\"><p>いつも見かけるのは、大邸宅や小さな家でも、手を加えられていないことです。\nhouses that haven’t been touched but they are for sale for a lot of money still.\nWhy?</p> </div><!-- SC_ON -->",
+      "title": "何年も人の手が入っていない廃屋がなぜ無料にならないのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>我总是看到这些豪宅，甚至是小房子，它们没有被动过，但却以很多价格出售。\nhouses that haven’t been touched but they are for sale for a lot of money still.\nWhy?</p> </div><!-- SC_ON -->",
+      "title": "为什么多年来没有人碰过的废弃房屋不免费？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>我總是看到這些豪宅，甚至是小房子，它們沒有被動過，但卻以很多價格出售。\nhouses that haven’t been touched but they are for sale for a lot of money still.\nWhy?</p> </div><!-- SC_ON -->",
+      "title": "爲什麼多年來沒有人碰過的廢棄房屋不免費？"
+    }
+  ]
 }
