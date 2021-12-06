@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの仕事内容と給料は？"
+    },
+    {
+      "locale": "zh",
+      "title": "你的工作是什么，你的工资是多少？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你的工作是什麼，你的工資是多少？"
+    }
+  ]
 }

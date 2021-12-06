@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-04T20:12:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QElhqLOo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iu5b1anob2ra82u27h4z.png",
   "author": "Pratik Singh",
-  "author_url": "https://dev.to/kitarp"
+  "author_url": "https://dev.to/kitarp",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事は、Paypal APIの統合についてです。 開発者として、APIを自分のプロジェクトに統合することは...",
+      "title": "PayPal APIの統合"
+    },
+    {
+      "locale": "zh",
+      "description": "这篇文章是关于整合Paypal API 作为一个开发者，将API整合到你的项目中是非常重要的。",
+      "title": "整合PayPal API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這篇文章是關於整合Paypal API 作爲一個開發者，將API整合到你的項目中是非常重要的。",
+      "title": "整合PayPal API"
+    }
+  ]
 }
