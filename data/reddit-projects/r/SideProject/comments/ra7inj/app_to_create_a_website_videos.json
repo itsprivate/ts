@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ウェブサイトの動画を作成するアプリ"
+    },
+    {
+      "locale": "zh",
+      "title": "创建网站视频的应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "創建網站視頻的應用程序"
+    }
+  ]
 }
