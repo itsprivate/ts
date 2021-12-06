@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-06T08:01:00Z"
+  "original_createdAt": "2021-12-06T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Nifty Generatorでは、様々な特徴を持つNFTコレクションを生成し、SolanaやEthereum用のメタデータを付けて、コーディング不要で作成することができます。画像レイヤーをツールに接続するだけで、生成が可能になります。",
+      "tagline": "NFTコレクションをコードレスで作成"
+    },
+    {
+      "locale": "zh",
+      "description": "Nifty Generator让你生成具有不同特征的NFT集合，并为Solana或Ethereum提供完整的元数据--不需要编码。只需将你的图像层连接到我们的工具，我们就能处理好生成的问题。",
+      "tagline": "生成你的NFT集合，无需代码"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Nifty Generator讓你生成具有不同特徵的NFT集合，併爲Solana或Ethereum提供完整的元數據--不需要編碼。只需將你的圖像層連接到我們的工具，我們就能處理好生成的問題。",
+      "tagline": "生成你的NFT集合，無需代碼"
+    }
+  ]
 }
