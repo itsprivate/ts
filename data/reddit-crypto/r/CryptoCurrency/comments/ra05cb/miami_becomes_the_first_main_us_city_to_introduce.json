@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "マイアミは、Algorandブロックチェーン上に構築された分散型の屋内外の大気質モニタリングネットワークを導入した最初の米国主要都市となります。"
+    },
+    {
+      "locale": "zh",
+      "title": "迈阿密成为美国第一个引入建立在Algorand区块链上的去中心化室内外空气质量监测网络的主要城市。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "邁阿密成爲美國第一個引入建立在Algorand區塊鏈上的去中心化室內外空氣質量監測網絡的主要城市。"
+    }
+  ]
 }
