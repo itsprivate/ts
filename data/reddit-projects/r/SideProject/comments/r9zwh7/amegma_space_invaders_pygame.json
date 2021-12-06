@@ -65,5 +65,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "アメジスト スペースインベーダー PyGame"
+    },
+    {
+      "locale": "zh",
+      "title": "Amegma Space Invaders PyGame"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Amegma Space Invaders PyGame"
+    }
+  ]
 }
