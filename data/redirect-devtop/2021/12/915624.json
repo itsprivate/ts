@@ -43,5 +43,22 @@
   "original_created_at": "2021-12-02T16:33:28Z",
   "image": "https://dev.to/social_previews/article/915624.png",
   "author": "Aris Zagakos",
-  "author_url": "https://dev.to/zagaris"
+  "author_url": "https://dev.to/zagaris",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JavaScriptのArrayクラスは、配列を構築する際に使用されるグローバルオブジェクトです。Arrayは、...",
+      "title": "JavaScriptの配列メソッドをゼロから実装する"
+    },
+    {
+      "locale": "zh",
+      "description": "JavaScript数组类是一个全局对象，用于构建数组。阵列是一个...",
+      "title": "从零开始实现JavaScript数组方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "JavaScript數組類是一個全局對象，用於構建數組。陣列是一個...",
+      "title": "從零開始實現JavaScript數組方法"
+    }
+  ]
 }
