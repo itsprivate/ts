@@ -119,5 +119,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "警察は家主を強盗と勘違いし、名乗っても逮捕してしまう。"
+    },
+    {
+      "locale": "zh",
+      "title": "警方将房主误认为窃贼，在表明身份后仍将其逮捕。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "警方將房主誤認爲竊賊，在表明身份後仍將其逮捕。"
+    }
+  ]
 }
