@@ -41,5 +41,22 @@
   "original_created_at": "2021-12-05T17:29:33Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7vTmy0iB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kpx7u5e5i2g0nxtsv07f.jpeg",
   "author": "Uday Yadav",
-  "author_url": "https://dev.to/dev117uday"
+  "author_url": "https://dev.to/dev117uday",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "フックとは Reactのフックは、アンカー（船が海に落として...",
+      "title": "React Hooks : ゼロからヒーロー"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是钩子 反应钩子就像锚一样（就像船在海洋中投放的东西一样）。",
+      "title": "反应钩：从零到英雄"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是鉤子 反應鉤子就像錨一樣（就像船在海洋中投放的東西一樣）。",
+      "title": "反應鉤：從零到英雄"
+    }
+  ]
 }
