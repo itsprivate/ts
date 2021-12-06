@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "年を重ねるごとに、トムが好きになり、ジェリーが嫌いになる。"
+    },
+    {
+      "locale": "zh",
+      "title": "你越长大，就越喜欢汤姆，讨厌杰瑞"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你越長大，就越喜歡湯姆，討厭傑瑞"
+    }
+  ]
 }
