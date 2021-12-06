@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-05T02:59:06Z",
   "image": "https://dev.to/social_previews/article/917732.png",
   "author": "Muhammad Rauf",
-  "author_url": "https://dev.to/softcodeon"
+  "author_url": "https://dev.to/softcodeon",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "HTML &amp; CSSを使って、レスポンシブなプロフィールカードを作りたいと思いませんか？もしあなたが初心者で...",
+      "title": "HTMLとCSSによるプロフィールカードの作成"
+    },
+    {
+      "locale": "zh",
+      "description": "你想用HTML&amp; CSS创建一个响应式的个人资料卡吗？如果你是一个初学者，并想在这里创建一个新的个人档案。",
+      "title": "使用HTML和CSS创建简介卡"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你想用HTML&amp; CSS創建一個響應式的個人資料卡嗎？如果你是一個初學者，並想在這裏創建一個新的個人檔案。",
+      "title": "使用HTML和CSS創建簡介卡"
+    }
+  ]
 }
