@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私は統合失調感情障害を患っています。対処するために作品を作っています。これは私の最新の作品です。"
+    },
+    {
+      "locale": "zh",
+      "title": "我与精神分裂症作斗争。我通过创作艺术品来应对。这是我最近的作品"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我與精神分裂症作鬥爭。我通過創作藝術品來應對。這是我最近的作品"
+    }
+  ]
 }
