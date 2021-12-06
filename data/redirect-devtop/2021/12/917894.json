@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-05T11:34:32Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RtXS8DQG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/431p4uj47yue2yodijmr.jpg",
   "author": "Mark Vassilevskiy",
-  "author_url": "https://dev.to/markfusion"
+  "author_url": "https://dev.to/markfusion",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Windowsは仕事をこなすのに最適なプラットフォームですが、Linuxには多くの機能や利点があります...",
+      "title": "WindowsではなくUbuntuを使うべき5つの理由"
+    },
+    {
+      "locale": "zh",
+      "description": "Windows是一个完成工作的伟大平台，但Linux提供了许多功能和好处。",
+      "title": "使用Ubuntu而不是Windows的5个理由"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Windows是一個完成工作的偉大平臺，但Linux提供了許多功能和好處。",
+      "title": "使用Ubuntu而不是Windows的5個理由"
+    }
+  ]
 }
