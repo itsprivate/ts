@@ -11,5 +11,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "前回のブルランでは、このような規模のクラッシュが普通に発生していたことを思い出してください。"
+    },
+    {
+      "locale": "zh",
+      "title": "友情提醒：在以前的牛市中，这种规模的崩溃是完全正常的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "友情提醒：在以前的牛市中，這種規模的崩潰是完全正常的。"
+    }
+  ]
 }
