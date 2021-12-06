@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "1週間のうち、どのくらいの頻度で髪を洗いますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你一周内多久洗一次头？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你一週內多久洗一次頭？"
+    }
+  ]
 }
