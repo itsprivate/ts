@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "撮影が始まる前の1分間、この状態が続いていたらしいです😳。"
+    },
+    {
+      "locale": "zh",
+      "title": "显然，这在拍摄开始前已经进行了好几分钟了😳。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "顯然，這在拍攝開始前已經進行了好幾分鐘了😳。"
+    }
+  ]
 }
