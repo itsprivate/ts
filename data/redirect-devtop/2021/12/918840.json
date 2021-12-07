@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-06T17:31:07Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1qkfi7vr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l83zmwh00exm941kmez2.png",
   "author": "Ali Spittel",
-  "author_url": "https://dev.to/aspittel"
+  "author_url": "https://dev.to/aspittel",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事は@theswaminatorと一緒に書きました 先週木曜日のre:Inventでは、私が働くチームであるAWS Amplify...",
+      "title": "Amplify Studioの8つの新機能"
+    },
+    {
+      "locale": "zh",
+      "description": "这篇文章是和@theswaminator一起写的 上周四在re:Invent，AWS Amplify，我工作的团队。",
+      "title": "Amplify Studio的8个新功能"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這篇文章是和@theswaminator一起寫的 上週四在re:Invent，AWS Amplify，我工作的團隊。",
+      "title": "Amplify Studio的8個新功能"
+    }
+  ]
 }
