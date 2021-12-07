@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-07T06:31:43Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0cKr1W4d--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v3r39rhzu0ylq585ixni.jpg",
   "author": "Digvijay Jadhav",
-  "author_url": "https://dev.to/digvijayjadhav98"
+  "author_url": "https://dev.to/digvijayjadhav98",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "前回のブログでは、なぜフロントエンドにreactを使うべきなのかについてお話しました。....",
+      "title": "React JS 2022のロードマップ"
+    },
+    {
+      "locale": "zh",
+      "description": "在上一篇博客中，我谈到了为什么应该选择Frontend.... 的反应。",
+      "title": "React JS 2022的路线图"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在上一篇博客中，我談到了爲什麼應該選擇Frontend.... 的反應。",
+      "title": "React JS 2022的路線圖"
+    }
+  ]
 }
