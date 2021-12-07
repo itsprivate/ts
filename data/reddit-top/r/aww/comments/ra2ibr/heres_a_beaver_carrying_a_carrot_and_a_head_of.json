@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "人参とレタスを家に持ち帰るビーバー。"
+    },
+    {
+      "locale": "zh",
+      "title": "这是一只海狸扛着一根胡萝卜和一头生菜回到他的家。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是一隻海狸扛着一根胡蘿蔔和一頭生菜回到他的家。"
+    }
+  ]
 }
