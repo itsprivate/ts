@@ -52,5 +52,22 @@
   "original_created_at": "2021-12-05T20:04:33Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4FT8RINA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k6tsymdnql3argnece67.png",
   "author": "Rizèl Scarlett",
-  "author_url": "https://dev.to/blackgirlbytes"
+  "author_url": "https://dev.to/blackgirlbytes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "現在、世界中で7300万人以上のソフトウェアエンジニアがGitHubを利用しています。GitHubには多くの機能がありますが...",
+      "title": "コードをバックアップする3つの方法（Gitを知らなくてもOK）"
+    },
+    {
+      "locale": "zh",
+      "description": "今天，全球有超过7300万软件工程师在使用GitHub。虽然GitHub提供了许多...",
+      "title": "3种备份代码的方法（即使你不懂Git）"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "今天，全球有超過7300萬軟件工程師在使用GitHub。雖然GitHub提供了許多...",
+      "title": "3種備份代碼的方法（即使你不懂Git）"
+    }
+  ]
 }
