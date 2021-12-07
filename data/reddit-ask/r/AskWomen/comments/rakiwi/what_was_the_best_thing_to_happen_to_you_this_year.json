@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今年一番の出来事は何でしたか？"
+    },
+    {
+      "locale": "zh",
+      "title": "今年发生在你身上最好的事情是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "今年發生在你身上最好的事情是什麼？"
+    }
+  ]
 }
