@@ -103,5 +103,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1638825797,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>60% global stock index fund</p> <p>30% real\nestate (personal home)</p> <p>10% bonds/cash</p> </div><!-- SC_ON -->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>60% global stock index fund</p> <p>30% real\nestate (personal home)</p> <p>10% bonds/cash</p> </div><!-- SC_ON -->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!--SC_OFF --><div class=\"md\"><p>60%全世界株式インデックスファンド</p> <p>30%リアル\nestate (personal home)</p> <p>10% bonds/cash</p> </div><!-- SC_ON -->",
+      "title": "これは、家を持っている30歳の人にとって、まともなポートフォリオの分け方だと思えるのか、それともひどいのか。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>60%的全球股票指数基金</p> <p>30%的实物\nestate (personal home)</p> <p>10% bonds/cash</p> </div><!-- SC_ON -->",
+      "title": "对于一个30岁有房的人来说，这似乎是一个体面的投资组合分割，还是很糟糕？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>60%的全球股票指數基金</p> <p>30%的實物\nestate (personal home)</p> <p>10% bonds/cash</p> </div><!-- SC_ON -->",
+      "title": "對於一個30歲有房的人來說，這似乎是一個體面的投資組合分割，還是很糟糕？"
+    }
+  ]
 }
