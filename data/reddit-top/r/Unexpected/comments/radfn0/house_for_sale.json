@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "販売中の家"
+    },
+    {
+      "locale": "zh",
+      "title": "出售的房屋"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "出售的房屋"
+    }
+  ]
 }
