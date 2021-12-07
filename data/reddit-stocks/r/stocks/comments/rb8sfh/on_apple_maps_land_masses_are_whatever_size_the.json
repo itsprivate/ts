@@ -104,5 +104,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1638909239,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>&quot;Sometime in 2014 or early 2015,\nChina&#39;s State Bureau of Surveying and Mapping told members of the Apple Maps\nteam to make the Diaoyu Islands, the objects of a long running territorial\ndispute between China and Japan, appear large even when users zoomed out…"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>&quot;Sometime in 2014 or early 2015,\nChina&#39;s State Bureau of Surveying and Mapping told members of the Apple Maps\nteam to make the Diaoyu Islands, the objects of a long running territorial\ndispute between China and Japan, appear large even when users zoomed out…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!--SC_OFF --><div class=\"md\"><p>&quot;2014年か2015年の初め頃には。\n中国国家測量製図局は、アップルマップチームのメンバーに対して\n釣魚島は、中国と日本の間で長年続いている領土問題の対象となっています。\n中国と日本の間で長く続いている領土問題の対象である釣魚島を、ユーザーがズームアウトしても大きく表示するように、中国国家測量地図局がアップルマップチームに指示しました。",
+      "title": "アップルマップでは、中国政府が言う通りの大きさの土地が表示されています。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>&quot;在2014年或2015年初的某个时候。\n中国国家测绘局告诉苹果地图的成员\n中国国家测绘局告诉苹果地图团队成员，要让中日之间长期存在的领土争端的对象--钓鱼岛看起来很大。\n钓鱼岛是中国和日本之间长期存在的领土争端的对象，即使在用户放大的情况下也显得很大......",
+      "title": "在苹果地图上，中国政府说多大的地块就是多大的地块。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>&quot;在2014年或2015年初的某個時候。\n中國國家測繪局告訴蘋果地圖的成員\n中國國家測繪局告訴蘋果地圖團隊成員，要讓中日之間長期存在的領土爭端的對象--釣魚島看起來很大。\n釣魚島是中國和日本之間長期存在的領土爭端的對象，即使在用戶放大的情況下也顯得很大......",
+      "title": "在蘋果地圖上，中國政府說多大的地塊就是多大的地塊。"
+    }
+  ]
 }
