@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-06T20:55:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UpCCOtra--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j50mld6ii7wv7f9yscab.jpeg",
   "author": "EstherWanjiru",
-  "author_url": "https://dev.to/estherwanjiru"
+  "author_url": "https://dev.to/estherwanjiru",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "いつだったか、Gitに関する面白い読み物があったので、ここで紹介したいと思います。 誰かが言った...",
+      "title": "GitとGitHubの紹介"
+    },
+    {
+      "locale": "zh",
+      "description": "我有一个关于Git的有趣的阅读，我想我可以在这里介绍一下。 有人说...",
+      "title": "Git和GitHub的介绍"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我有一個關於Git的有趣的閱讀，我想我可以在這裏介紹一下。 有人說...",
+      "title": "Git和GitHub的介紹"
+    }
+  ]
 }
