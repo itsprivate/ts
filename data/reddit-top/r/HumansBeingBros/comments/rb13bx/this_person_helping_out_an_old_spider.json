@@ -65,5 +65,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "年老いたクモを助ける人。"
+    },
+    {
+      "locale": "zh",
+      "title": "这个人在帮助一只老蜘蛛。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個人在幫助一隻老蜘蛛。"
+    }
+  ]
 }
