@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "モーメンタム。Notionのためのスマートな習慣トラッカー"
+    },
+    {
+      "locale": "zh",
+      "title": "势头。智能习惯跟踪器的Notion"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "勢頭。智能習慣跟蹤器的Notion"
+    }
+  ]
 }
