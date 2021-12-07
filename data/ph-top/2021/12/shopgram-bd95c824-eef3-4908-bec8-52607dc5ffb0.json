@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-07T08:01:00Z"
+  "original_createdAt": "2021-12-07T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Shopgramは、Shopifyの店舗や商品の検索エンジンです。120万以上のShopifyストアや商品のデータや分析結果に、さまざまな指標に基づいて瞬時にアクセスすることができます。",
+      "tagline": "オールインワンのShopifyデータツール"
+    },
+    {
+      "locale": "zh",
+      "description": "Shopgram是一个针对Shopify商店和产品的搜索引擎。它可以让你即时访问超过120万个Shopify商店和产品的数据和分析，基于不同的衡量标准。",
+      "tagline": "一体化的Shopify数据工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Shopgram是一個針對Shopify商店和產品的搜索引擎。它可以讓你即時訪問超過120萬個Shopify商店和產品的數據和分析，基於不同的衡量標準。",
+      "tagline": "一體化的Shopify數據工具"
+    }
+  ]
 }
