@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-06T05:24:38Z",
   "image": "https://dev.to/social_previews/article/918348.png",
   "author": "Mohan Murali",
-  "author_url": "https://dev.to/_mohanmurali"
+  "author_url": "https://dev.to/_mohanmurali",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Dependency Injection（依存性注入）は、初心者にとってかなり複雑なテーマです。知る必要はないかもしれませんが...。",
+      "title": "JavaScriptのディペンデンシー・インジェクションを理解する"
+    },
+    {
+      "locale": "zh",
+      "description": "对于初学者来说，依赖性注入是一个相当复杂的话题。也许没有必要知道...",
+      "title": "了解JavaScript中的依赖注入"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "對於初學者來說，依賴性注入是一個相當複雜的話題。也許沒有必要知道...",
+      "title": "瞭解JavaScript中的依賴注入"
+    }
+  ]
 }
