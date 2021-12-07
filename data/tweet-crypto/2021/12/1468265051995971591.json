@@ -150,5 +150,22 @@
     "retweet_count": 3443,
     "favorite_count": 33086,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @100trillionUSD: #Bitcoin https://t.co/ipKK2OruvQ",
+      "retweeted_status_full_text": "#Bitcoin https://t.co/ipKK2OruvQ"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @100trillionUSD: #比特币https://t.co/ipKK2OruvQ",
+      "retweeted_status_full_text": "#Bitcoin https://t.co/ipKK2OruvQ"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @100trillionUSD: #比特幣https://t.co/ipKK2OruvQ",
+      "retweeted_status_full_text": "#Bitcoin https://t.co/ipKK2OruvQ"
+    }
+  ]
 }
