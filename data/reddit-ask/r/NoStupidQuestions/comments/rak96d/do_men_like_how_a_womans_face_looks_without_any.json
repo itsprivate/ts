@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I want honest answers please. Makeup is\nsomething that always made me feel insecure about my face without it. I’d prefer\nnever wearing it again.</p> </div><!-- SC_ON -->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I want honest answers please. Makeup is\nsomething that always made me feel insecure about my face without it. I’d prefer\nnever wearing it again.</p> </div><!-- SC_ON -->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!--SC_OFF --><div class=\"md\"><p>正直な回答をお願いします。化粧は\nいつも自分の顔に不安を感じていました。I’d prefer\nnever wearing it again.</p> </div><!-- SC_ON -->",
+      "title": "男性は、女性の素顔が好きですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>我想要诚实的答案，请。化妆品是\n的东西，总是让我对我的脸感到不安全，没有它。I’d prefer\nnever wearing it again.</p> </div><!-- SC_ON -->",
+      "title": "男人喜欢女人的脸不化妆的样子吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>我想要誠實的答案，請。化妝品是\n的東西，總是讓我對我的臉感到不安全，沒有它。I’d prefer\nnever wearing it again.</p> </div><!-- SC_ON -->",
+      "title": "男人喜歡女人的臉不化妝的樣子嗎？"
+    }
+  ]
 }
