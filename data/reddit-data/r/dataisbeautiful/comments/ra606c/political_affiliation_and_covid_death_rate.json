@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "所属政党とCOVID死亡率"
+    },
+    {
+      "locale": "zh",
+      "title": "政治派别和COVID死亡率"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "政治派別和COVID死亡率"
+    }
+  ]
 }
