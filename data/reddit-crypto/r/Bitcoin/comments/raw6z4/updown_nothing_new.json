@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Up&amp;Down, nothing new"
+    },
+    {
+      "locale": "zh",
+      "title": "上升&amp;下降，没有新意"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "上升&amp;下降，沒有新意"
+    }
+  ]
 }

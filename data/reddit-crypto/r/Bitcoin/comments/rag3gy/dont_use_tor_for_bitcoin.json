@@ -57,5 +57,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>For some time now, I&#39;ve been getting\nreports from <a href=\"https://walletrecovery.info/\">customers</a> that Bitcoin\nmixers are stealing their coins. I now have a pretty good guess what&#39;s\nhappening:</p> <p>It&#39;s common for Bitcoiners to use Tor to…"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>For some time now, I&#39;ve been getting\nreports from <a href=\"https://walletrecovery.info/\">customers</a> that Bitcoin\nmixers are stealing their coins. I now have a pretty good guess what&#39;s\nhappening:</p> <p>It&#39;s common for Bitcoiners to use Tor to…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!--SC_OFF --><div class=\"md\"><p>しばらく前から、私は\n<a href=\"https://walletrecovery.info/\">お客さま</a>から、ビットコインの\n業者がコインを盗んでいるという報告を受けています。何が起こっているのか、私にはかなりの推測ができます。\n</p> <p>BitcoinerがTorを使ってコインを盗むのはよくあることです。",
+      "title": "ビットコインにはTorを使わない"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>一段时间以来，我一直在收到\n来自<a href=\"https://walletrecovery.info/\">客户</a>的报告，说比特币\n混合器正在窃取他们的硬币。我现在有一个很好的猜测，那就是\n</p> <p>对于比特币玩家来说，使用Tor来偷窃他们的硬币是很常见的。",
+      "title": "不要为比特币使用Tor"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>一段時間以來，我一直在收到\n來自<a href=\"https://walletrecovery.info/\">客戶</a>的報告，說比特幣\n混合器正在竊取他們的硬幣。我現在有一個很好的猜測，那就是\n</p> <p>對於比特幣玩家來說，使用Tor來偷竊他們的硬幣是很常見的。",
+      "title": "不要爲比特幣使用Tor"
+    }
+  ]
 }
