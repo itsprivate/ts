@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "複数のYouTube動画を同時に表示したり、レイアウトをカスタマイズすることができる"
+    },
+    {
+      "locale": "zh",
+      "title": "同时查看多个YouTube视频，并定制你的布局"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "同時查看多個YouTube視頻，並定製你的佈局"
+    }
+  ]
 }
