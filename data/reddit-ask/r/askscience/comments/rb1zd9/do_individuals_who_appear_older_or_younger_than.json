@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I understand there are various confounding\nvariables (ex. those appearing older than stated age may smoke, drink, have a\npoorly balanced diet, etc.) but if those factors are controlled as much as\npossible, is there a correlation between appearing age and life…"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I understand there are various confounding\nvariables (ex. those appearing older than stated age may smoke, drink, have a\npoorly balanced diet, etc.) but if those factors are controlled as much as\npossible, is there a correlation between appearing age and life…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!--SC_OFF --><div class=\"md\"><p>様々な交絡変数があることは理解しています。\n例：記載されている年齢より上に見える人は、喫煙、飲酒、バランスの悪い食事をしている可能性がある。\n喫煙、飲酒、バランスの悪い食事など）様々な交絡因子があると思いますが、それらを可能な限りコントロールした場合、見た目の年齢との相関はあるのでしょうか？\nしかし、それらの要因を可能な限りコントロールした場合、見た目の年齢と人生の間には相関関係があるのでしょうか？",
+      "title": "生物学的な年齢よりも老けて見える人、若く見える人は、それぞれ寿命が短いのか、長いのか。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<！--SC_OFF --><div class=\"md\"><p>我知道有各种混杂的\n变化因素（例如，那些看起来比所述年龄大的人可能吸烟、喝酒、有\n但是，如果这些因素被尽可能地控制住了\n但是，如果这些因素被尽可能地控制住了，那么看起来的年龄和寿命之间是否有关联？",
+      "title": "看起来比生理年龄大或小的人，其寿命是否分别较短或较长？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<！--SC_OFF --><div class=\"md\"><p>我知道有各種混雜的\n變化因素（例如，那些看起來比所述年齡大的人可能吸菸、喝酒、有\n但是，如果這些因素被儘可能地控制住了\n但是，如果這些因素被儘可能地控制住了，那麼看起來的年齡和壽命之間是否有關聯？",
+      "title": "看起來比生理年齡大或小的人，其壽命是否分別較短或較長？"
+    }
+  ]
 }
