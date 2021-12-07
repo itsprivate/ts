@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] 米国におけるCOVID-19によるワクチン接種の有無別死亡数"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]按疫苗状态分类的美国COVID-19死亡人数"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]按疫苗狀態分類的美國COVID-19死亡人數"
+    }
+  ]
 }

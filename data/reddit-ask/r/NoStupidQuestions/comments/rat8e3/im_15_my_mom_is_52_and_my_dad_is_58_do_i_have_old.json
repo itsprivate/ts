@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私は15歳です。母は52歳、父は58歳です。私の両親は年寄りですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "我15岁了。我妈妈是52岁，我爸爸是58岁。我有老的父母吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我15歲了。我媽媽是52歲，我爸爸是58歲。我有老的父母嗎？"
+    }
+  ]
 }
