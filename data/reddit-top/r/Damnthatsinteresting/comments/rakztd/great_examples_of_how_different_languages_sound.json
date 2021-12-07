@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "外国人にとって、異なる言語がどのように聞こえるかの素晴らしい例です。"
+    },
+    {
+      "locale": "zh",
+      "title": "不同语言在外国人听来是什么样子的好例子"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不同語言在外國人聽來是什麼樣子的好例子"
+    }
+  ]
 }
