@@ -43,5 +43,22 @@
   "original_created_at": "2021-12-05T12:32:42Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2YphWrpb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/iczmzu0j54ngchvwoeho.png",
   "author": "Eric The Coder",
-  "author_url": "https://dev.to/ericchapman"
+  "author_url": "https://dev.to/ericchapman",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Follow me! Follow @EricTheCoder_ ここでは、私が学習の過程で作成したチートシートを紹介します。もし...",
+      "title": "PHPチートシート(PHP8.1に更新)"
+    },
+    {
+      "locale": "zh",
+      "description": "关注我！。Follow @EricTheCoder_ 这是我在学习过程中创建的小抄。如果...",
+      "title": "PHP小抄（更新至PHP8.1）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "關注我！。Follow @EricTheCoder_ 這是我在學習過程中創建的小抄。如果...",
+      "title": "PHP小抄（更新至PHP8.1）。"
+    }
+  ]
 }
