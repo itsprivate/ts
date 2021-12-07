@@ -134,5 +134,22 @@
     "retweet_count": 4023,
     "favorite_count": 14232,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @Lukewearechange: ハリウッドにはたくさんの偶然がある！ https://t.co/4HvuHVLWjH",
+      "retweeted_status_full_text": "ハリウッドにはたくさんの偶然がある！ https://t.co/4HvuHVLWjH"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @Lukewearechange: 好莱坞有很多巧合！https://t.co/4HvuHVLWjH",
+      "retweeted_status_full_text": "好莱坞有很多的巧合！https://t.co/4HvuHVLWjH"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @Lukewearechange: 好萊塢有很多巧合！https://t.co/4HvuHVLWjH",
+      "retweeted_status_full_text": "好萊塢有很多的巧合！https://t.co/4HvuHVLWjH"
+    }
+  ]
 }
