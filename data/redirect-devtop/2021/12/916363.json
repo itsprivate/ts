@@ -52,5 +52,22 @@
   "original_created_at": "2021-12-03T10:57:13Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MHUOi6aE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k6x5ihv3z6n1r5o112kw.png",
   "author": "Pawel Zubkiewicz",
-  "author_url": "https://dev.to/pzubkiewicz"
+  "author_url": "https://dev.to/pzubkiewicz",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、最近リリースされたStreams Filteringの機能を利用する方法をご紹介します。",
+      "title": "NEW: Serverless FrameworkでのDynamoDBストリームのフィルタリング"
+    },
+    {
+      "locale": "zh",
+      "description": "从这篇文章中，你将了解到如何利用最近发布的流过滤功能...",
+      "title": "新：无服务器框架中的DynamoDB流过滤"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "從這篇文章中，你將瞭解到如何利用最近發佈的流過濾功能...",
+      "title": "新：無服務器框架中的DynamoDB流過濾"
+    }
+  ]
 }
