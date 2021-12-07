@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-07T02:50:35Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--z9S1MctW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ap98uk74e697320s86ee.png",
   "author": "Temp-insta",
-  "author_url": "https://dev.to/harryholland"
+  "author_url": "https://dev.to/harryholland",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "3Dレンダリング用のWebGLフレームワークとWebAudio APIであるTHREE.jsを学ぼうと、あるものを作ってみました。",
+      "title": "Three.JSによるミュージックビジュアライザー"
+    },
+    {
+      "locale": "zh",
+      "description": "为了学习THREE.js--3D渲染的WebGL框架和WebAudio API，我做了一些东西。",
+      "title": "使用Three.JS的音乐可视化器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "爲了學習THREE.js--3D渲染的WebGL框架和WebAudio API，我做了一些東西。",
+      "title": "使用Three.JS的音樂可視化器"
+    }
+  ]
 }
