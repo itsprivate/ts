@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "単細胞の生物が死ぬ。"
+    },
+    {
+      "locale": "zh",
+      "title": "单细胞生物体死亡。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "單細胞生物體死亡。"
+    }
+  ]
 }
