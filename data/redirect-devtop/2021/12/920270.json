@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-07T21:36:58Z",
   "image": "https://dev.to/social_previews/article/920270.png",
   "author": "Stas Melnikov",
-  "author_url": "https://dev.to/melnik909"
+  "author_url": "https://dev.to/melnik909",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "視覚障がいのあるユーザーが検索できるようにする 通常は、検索の置き方を知っている...",
+      "title": "12月のフロントエンドの3つの短所"
+    },
+    {
+      "locale": "zh",
+      "description": "帮助有视力障碍的用户找到搜索 通常我们知道如何放置一个搜索...",
+      "title": "12月的3个简短的前端提示"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "幫助有視力障礙的用戶找到搜索 通常我們知道如何放置一個搜索...",
+      "title": "12月的3個簡短的前端提示"
+    }
+  ]
 }
