@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "女性として、社会が問題にしていないと思われる、あなたにとって不快なことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "作为一个女人，有哪些事情让你感到不舒服，而社会似乎对此没有意见？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "作爲一個女人，有哪些事情讓你感到不舒服，而社會似乎對此沒有意見？"
+    }
+  ]
 }
