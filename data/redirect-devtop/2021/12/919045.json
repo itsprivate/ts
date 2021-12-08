@@ -52,5 +52,22 @@
   "original_created_at": "2021-12-06T22:03:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ThtY_w0s--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vqhg0r56myhugw17kgam.jpg",
   "author": "Kartik Grewal",
-  "author_url": "https://dev.to/kartik0709"
+  "author_url": "https://dev.to/kartik0709",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ダッシュボードは、データを可視化し、すべてを包括的に把握することができます。",
+      "title": "ReactとRechartsでPostgres dbのダッシュボードを作成する"
+    },
+    {
+      "locale": "zh",
+      "description": "仪表盘为我们提供了数据的可见性，并为我们提供了一切的整体视图。",
+      "title": "用React和Recharts为Postgres db创建一个仪表盘"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "儀表盤爲我們提供了數據的可見性，併爲我們提供了一切的整體視圖。",
+      "title": "用React和Recharts爲Postgres db創建一個儀表盤"
+    }
+  ]
 }
