@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-06T13:23:37Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IY0vCxlm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x77r5wv9s9kencc0d39a.jpg",
   "author": "Dylan Oh",
-  "author_url": "https://dev.to/ohdylan"
+  "author_url": "https://dev.to/ohdylan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JavaScriptに触れたばかりの方は、「...」と言われると戸惑ってしまうかもしれません。",
+      "title": "JavaScript、シングルスレッド、ノンブロッキング"
+    },
+    {
+      "locale": "zh",
+      "description": "对于那些刚刚接触到JavaScript的人来说，当听到人们说...",
+      "title": "JavaScript，单线程但不阻塞"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "對於那些剛剛接觸到JavaScript的人來說，當聽到人們說...",
+      "title": "JavaScript，單線程但不阻塞"
+    }
+  ]
 }
