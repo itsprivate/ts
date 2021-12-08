@@ -134,5 +134,22 @@
     "retweet_count": 5941,
     "favorite_count": 16935,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @EgoAndIts0wn: これは裁判トラッカーを核としたツイートだと思う https://t.co/DjKEpclcF5",
+      "retweeted_status_full_text": "トライアルトラッカー https://t.co/DjKEpclcF5 を核としたツイートだと思ってください。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @EgoAndIts0wn: 我猜这就是那条扼杀了审判追踪器的推文 https://t.co/DjKEpclcF5",
+      "retweeted_status_full_text": "我猜这就是扼杀审判追踪器的那条推文https://t.co/DjKEpclcF5"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @EgoAndIts0wn: 我猜這就是那條扼殺了審判追蹤器的推文 https://t.co/DjKEpclcF5",
+      "retweeted_status_full_text": "我猜這就是扼殺審判追蹤器的那條推文https://t.co/DjKEpclcF5"
+    }
+  ]
 }
