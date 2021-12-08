@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Reddit Recap 2021"
+    },
+    {
+      "locale": "zh",
+      "title": "红网回顾2021年"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "紅網回顧2021年"
+    }
+  ]
 }
