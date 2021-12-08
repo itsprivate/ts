@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-08T06:04:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CgqkokAW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/97wyi6wlp96kurtshl9i.png",
   "author": "Alex E",
-  "author_url": "https://dev.to/alexeagleson"
+  "author_url": "https://dev.to/alexeagleson",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このチュートリアルのすべてのコードはこのリポジトリで公開されており、ビデオバージョンも...",
+      "title": "Reactでダークモードコンポーネントを作成する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "本教程的所有代码都可以在这个资源库中找到，本教程的视频版本也是如此。",
+      "title": "如何在React中创建一个黑暗模式组件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "本教程的所有代碼都可以在這個資源庫中找到，本教程的視頻版本也是如此。",
+      "title": "如何在React中創建一個黑暗模式組件"
+    }
+  ]
 }
