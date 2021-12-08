@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-06T07:40:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7kowHVsz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/71a87oagqr7lsdtdtnp3.jpg",
   "author": "Anthony .H",
-  "author_url": "https://dev.to/tonydhong"
+  "author_url": "https://dev.to/tonydhong",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに React.jsが最も人気のあるJavaScriptライブラリであることは疑いの余地がありません...",
+      "title": "React.js：Reactの基本的なフック。"
+    },
+    {
+      "locale": "zh",
+      "description": "简介 毫无疑问，React.js是最受欢迎的JavaScript库。",
+      "title": "React.js: Basic React Hooks."
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介 毫無疑問，React.js是最受歡迎的JavaScript庫。",
+      "title": "React.js: Basic React Hooks."
+    }
+  ]
 }
