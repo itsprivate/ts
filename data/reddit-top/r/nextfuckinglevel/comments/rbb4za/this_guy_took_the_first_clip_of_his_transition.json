@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この男は、自分のトランジションの最初の映像を見て、「俺はこれをやるぞ」と言った。"
+    },
+    {
+      "locale": "zh",
+      "title": "这家伙拿着他转型的第一个片段说，我他妈要去做。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這傢伙拿着他轉型的第一個片段說，我他媽要去做。"
+    }
+  ]
 }

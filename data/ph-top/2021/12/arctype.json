@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-08T08:02:00Z"
+  "original_createdAt": "2021-12-08T08:02:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Arctypeは、開発者やチームのための、高速で美しいデータベースGUIです。SQLオートコンプリート、スプレッドシートスタイルの編集、ワンクリックでのビジュアライゼーション、コラボレーション、そしてPostgres、MySQL、PlanetScaleの最高のサポートを備えており、最終的にはDBでの作業が好きになるでしょう。",
+      "tagline": "開発者やチームのための高性能なSQLクライアントです。"
+    },
+    {
+      "locale": "zh",
+      "description": "Arctype是一个为开发人员和团队提供的快速、漂亮的数据库GUI。它具有SQL自动完成、电子表格式的编辑、一键式可视化、协作以及对Postgres、MySQL和PlanetScale的最佳支持--你将最终爱上与你的数据库一起工作。",
+      "tagline": "为开发者和团队提供的超强的SQL客户端。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Arctype是一個爲開發人員和團隊提供的快速、漂亮的數據庫GUI。它具有SQL自動完成、電子表格式的編輯、一鍵式可視化、協作以及對Postgres、MySQL和PlanetScale的最佳支持--你將最終愛上與你的數據庫一起工作。",
+      "tagline": "爲開發者和團隊提供的超強的SQL客戶端。"
+    }
+  ]
 }
