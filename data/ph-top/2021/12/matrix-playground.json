@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-08T08:01:00Z"
+  "original_createdAt": "2021-12-08T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Splineでは、Matrixが大好きなので、みんなで遊べる楽しいサイドプロジェクトを作りました。3Dモデルをアップロードしたり、ウェブカメラを使ってMatrixコードの中の自分を見たり、パーティクルのパラメータを変更したりすることができます。",
+      "tagline": "マトリックスの中を垣間見る"
+    },
+    {
+      "locale": "zh",
+      "description": "在Spline，我们喜欢Matrix，所以我们建立了一个有趣的辅助项目，供大家玩耍。你可以上传你的3D模型，使用网络摄像头看到自己在Matrix代码中的样子，并改变粒子的参数。",
+      "tagline": "矩阵内部的一瞥"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在Spline，我們喜歡Matrix，所以我們建立了一個有趣的輔助項目，供大家玩耍。你可以上傳你的3D模型，使用網絡攝像頭看到自己在Matrix代碼中的樣子，並改變粒子的參數。",
+      "tagline": "矩陣內部的一瞥"
+    }
+  ]
 }

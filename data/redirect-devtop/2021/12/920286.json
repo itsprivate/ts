@@ -41,5 +41,22 @@
   "original_created_at": "2021-12-07T22:32:36Z",
   "image": "https://dev.to/social_previews/article/920286.png",
   "author": "Heru Hartanto",
-  "author_url": "https://dev.to/elukuro"
+  "author_url": "https://dev.to/elukuro",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "簡単な例を挙げて説明しましょう。 console.log('First log'); console.log('Second...",
+      "title": "javascriptでの非同期の理解 "
+    },
+    {
+      "locale": "zh",
+      "description": "让我用一个简单的例子来解释： console.log('First log'); console.log('Second...",
+      "title": "了解javascript中的异步 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "讓我用一個簡單的例子來解釋： console.log('First log'); console.log('Second...",
+      "title": "瞭解javascript中的異步 "
+    }
+  ]
 }
