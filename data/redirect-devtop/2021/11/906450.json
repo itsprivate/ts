@@ -43,5 +43,22 @@
   "original_created_at": "2021-11-23T09:11:51Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oFwFwStS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7ngz9iwqs92uz2lgx8r8.jpg",
   "author": "Ustariz Enzo",
-  "author_url": "https://dev.to/ziratsu"
+  "author_url": "https://dev.to/ziratsu",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、クリエイターの皆さん、Reactでリストをレンダリングする方法を知りませんか？このページでは、その方法をご紹介します...",
+      "title": "Reactでリストをレンダリングする方法"
+    },
+    {
+      "locale": "zh",
+      "description": "嘿，各位创作者，你不知道如何用React渲染一个列表？快来学习一下如何做吧。",
+      "title": "如何用React渲染一个列表"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嘿，各位創作者，你不知道如何用React渲染一個列表？快來學習一下如何做吧。",
+      "title": "如何用React渲染一個列表"
+    }
+  ]
 }
