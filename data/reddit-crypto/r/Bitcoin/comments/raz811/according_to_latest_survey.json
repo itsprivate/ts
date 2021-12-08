@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "最新の調査によると"
+    },
+    {
+      "locale": "zh",
+      "title": "据最新调查显示"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "據最新調查顯示"
+    }
+  ]
 }
