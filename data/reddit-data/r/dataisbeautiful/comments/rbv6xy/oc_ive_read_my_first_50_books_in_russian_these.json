@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] 最初の50冊はロシア語で読みました。これらは私が理解した％の単語です。"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]我已经读了我的前50本俄语书。这些是我理解的%的单词。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]我已經讀了我的前50本俄語書。這些是我理解的%的單詞。"
+    }
+  ]
 }
