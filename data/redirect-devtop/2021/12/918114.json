@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-05T19:16:52Z",
   "image": "https://dev.to/social_previews/article/918114.png",
   "author": "Abdul Haseeb",
-  "author_url": "https://dev.to/haseeb1009"
+  "author_url": "https://dev.to/haseeb1009",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "フロー制御は、プログラマーとして最初に学ぶことのひとつです。ここでは、いくつかのフロー制御について学びます。",
+      "title": "if/elseは必要なのか？"
+    },
+    {
+      "locale": "zh",
+      "description": "流程控制是我们作为程序员最先学会的东西之一。我们要学习的是一些...",
+      "title": "我们甚至需要if/else吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "流程控制是我們作爲程序員最先學會的東西之一。我們要學習的是一些...",
+      "title": "我們甚至需要if/else嗎？"
+    }
+  ]
 }
