@@ -77,5 +77,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-08T08:04:21Z"
+  "original_createdAt": "2021-12-08T08:04:21Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "倫理的なハッカーのコミュニティによって発見されたセキュリティの脆弱性について、お客様のすべてのWordPressサイトを監視します。最大99サイトまで無料で追加できます。",
+      "tagline": "WordPressスタックへのパッチ適用"
+    },
+    {
+      "locale": "zh",
+      "description": "监控您所有的WordPress网站，以防止我们的道德黑客社区发现安全漏洞。免费添加多达99个网站!",
+      "tagline": "给你的WordPress堆栈打补丁"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "監控您所有的WordPress網站，以防止我們的道德黑客社區發現安全漏洞。免費添加多達99個網站!",
+      "tagline": "給你的WordPress堆棧打補丁"
+    }
+  ]
 }
