@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "税金の説明。"
+    },
+    {
+      "locale": "zh",
+      "title": "税收的解释。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "稅收的解釋。"
+    }
+  ]
 }
