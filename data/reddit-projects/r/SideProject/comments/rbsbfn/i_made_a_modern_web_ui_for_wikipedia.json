@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "WikipediaのモダンなウェブUIを作ってみた"
+    },
+    {
+      "locale": "zh",
+      "title": "我为维基百科做了一个现代的网页用户界面"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我爲維基百科做了一個現代的網頁用戶界面"
+    }
+  ]
 }
