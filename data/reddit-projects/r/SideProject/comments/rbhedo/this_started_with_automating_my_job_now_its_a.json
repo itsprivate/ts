@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これは、私の仕事を自動化することから始まりました。今では完全なSaaSになっています。"
+    },
+    {
+      "locale": "zh",
+      "title": "这是从我的工作自动化开始的。现在，它是一个完整的SaaS。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是從我的工作自動化開始的。現在，它是一個完整的SaaS。"
+    }
+  ]
 }
