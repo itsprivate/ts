@@ -57,5 +57,22 @@
   "original_created_at": "2021-12-06T22:22:55Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Z9qv6-YV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/my3gsewpsnjyyvhd1hbc.jpg",
   "author": "KOR Connect",
-  "author_url": "https://dev.to/kor_connect"
+  "author_url": "https://dev.to/kor_connect",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "フロントエンドで、セキュリティを確保しながら、APIをすばやく（数分で）統合します。APIキーを保護。",
+      "title": "フロントエンドでAPIキーを保護する最も簡単な方法（数分で完了）"
+    },
+    {
+      "locale": "zh",
+      "description": "在前端快速整合API（几分钟内），并保证安全。API密钥安全。",
+      "title": "在前端保护API密钥的最快方法（几分钟内）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在前端快速整合API（幾分鐘內），並保證安全。API密鑰安全。",
+      "title": "在前端保護API密鑰的最快方法（幾分鐘內）。"
+    }
+  ]
 }
