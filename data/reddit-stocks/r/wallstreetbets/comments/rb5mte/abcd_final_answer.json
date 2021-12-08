@@ -161,5 +161,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1638901551,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "a-b-c-d - 最終回答"
+    },
+    {
+      "locale": "zh",
+      "title": "A-B-C-D - 最终答案。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "A-B-C-D - 最終答案。"
+    }
+  ]
 }
