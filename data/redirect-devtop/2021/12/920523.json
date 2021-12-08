@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-08T06:04:35Z",
   "image": "https://dev.to/social_previews/article/920523.png",
   "author": "javinpaul",
-  "author_url": "https://dev.to/javinpaul"
+  "author_url": "https://dev.to/javinpaul",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これらは、Pythonプログラマーが生産性を向上させ、より良い、より有能なPython開発者になるために2022年に学ぶことができる素晴らしいツールです。",
+      "title": "Pythonプログラマーが2022年に学べる10のツール"
+    },
+    {
+      "locale": "zh",
+      "description": "这些是一个Python程序员可以在2022年学习的很棒的工具，以提高他的生产力，成为一个更好、更有能力的Python开发者",
+      "title": "2022年Python程序员可以学习的10个工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這些是一個Python程序員可以在2022年學習的很棒的工具，以提高他的生產力，成爲一個更好、更有能力的Python開發者",
+      "title": "2022年Python程序員可以學習的10個工具"
+    }
+  ]
 }
