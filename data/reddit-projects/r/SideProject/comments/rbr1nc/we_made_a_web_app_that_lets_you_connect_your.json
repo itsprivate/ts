@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "分析アプリを接続してレポートを自動化できるウェブアプリを作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我们做了一个网络应用，让你连接你的分析应用并自动报告"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們做了一個網絡應用，讓你連接你的分析應用並自動報告"
+    }
+  ]
 }
