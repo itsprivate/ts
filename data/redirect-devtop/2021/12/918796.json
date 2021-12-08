@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-06T15:58:52Z",
   "image": "https://dev.to/social_previews/article/918796.png",
   "author": "Valeria",
-  "author_url": "https://dev.to/valeriavg"
+  "author_url": "https://dev.to/valeriavg",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Goはウェブの言語だと言われています。もちろん、Googleがバックアップしていることもあり、その響きは非常に...",
+      "title": "あなたの次のプロジェクトにGoを使わない10の理由"
+    },
+    {
+      "locale": "zh",
+      "description": "他们说Go是网络的语言。当然，在谷歌的支持下，这听起来非常...",
+      "title": "不在下一个项目中使用Go的10个理由"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "他們說Go是網絡的語言。當然，在谷歌的支持下，這聽起來非常...",
+      "title": "不在下一個項目中使用Go的10個理由"
+    }
+  ]
 }
