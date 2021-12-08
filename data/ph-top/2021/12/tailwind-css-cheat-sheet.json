@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-08T08:05:24Z"
+  "original_createdAt": "2021-12-08T08:05:24Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Tailwind CSSのすべてのユーティリティクラスに1ページでアクセスして検索し、開発プロセスを加速します。",
+      "tagline": "Tailwind CSSのすべてのクラス名を1つのページに集約"
+    },
+    {
+      "locale": "zh",
+      "description": "在一个页面上访问和搜索Tailwind CSS的每一个实用类，并加速你的开发过程。",
+      "tagline": "在一个页面上来自Tailwind CSS的每一个类名"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在一個頁面上訪問和搜索Tailwind CSS的每一個實用類，並加速你的開發過程。",
+      "tagline": "在一個頁面上來自Tailwind CSS的每一個類名"
+    }
+  ]
 }
