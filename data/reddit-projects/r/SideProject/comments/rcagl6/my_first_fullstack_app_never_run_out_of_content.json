@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "初めてのフルスタック・アプリ。Twitterでのコンテンツのアイデアが尽きない"
+    },
+    {
+      "locale": "zh",
+      "title": "我的第一个全栈式应用程序。永远不会为Twitter的内容创意耗尽"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我的第一個全棧式應用程序。永遠不會爲Twitter的內容創意耗盡"
+    }
+  ]
 }
