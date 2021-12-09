@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Webサイトのフォントを識別して操作できる拡張機能を作ってみた"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个扩展，可以让你识别和玩转网站上的字体"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個擴展，可以讓你識別和玩轉網站上的字體"
+    }
+  ]
 }
