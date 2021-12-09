@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "傑作だと思う曲は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你认为哪一首歌曲是杰作？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你認爲哪一首歌曲是傑作？"
+    }
+  ]
 }
