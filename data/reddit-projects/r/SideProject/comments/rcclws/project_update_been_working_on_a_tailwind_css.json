@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Project Update: tailwind css visual builderに取り組んできました。美しいHTML/React/Vuejsのウェブサイト、プロトタイプ、ウェブページを視覚的に作成することができます。これにより、プロジェクトをより早く製品化することができます。フィードバックやアイデア、ご意見をお聞かせください。ありがとうございました。"
+    },
+    {
+      "locale": "zh",
+      "title": "项目更新：一直在开发一个tailwind css可视化生成器，现在可以帮助你可视化地创建漂亮的HTML/ React / Vuejs网站、原型和网页。因此，你可以更快地将项目运往生产。感谢所有对此的反馈、想法或意见。谢谢你！\"。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "項目更新：一直在開發一個tailwind css可視化生成器，現在可以幫助你可視化地創建漂亮的HTML/ React / Vuejs網站、原型和網頁。因此，你可以更快地將項目運往生產。感謝所有對此的反饋、想法或意見。謝謝你！\"。"
+    }
+  ]
 }
