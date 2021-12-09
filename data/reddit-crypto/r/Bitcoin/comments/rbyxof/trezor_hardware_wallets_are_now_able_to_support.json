@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Trezorハードウェアウォレットは、最近のBitcoin Taprootアップデートに対応できるようになりました。"
+    },
+    {
+      "locale": "zh",
+      "title": "Trezor硬件钱包现在能够支持最近的比特币Taproot更新。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Trezor硬件錢包現在能夠支持最近的比特幣Taproot更新。"
+    }
+  ]
 }
