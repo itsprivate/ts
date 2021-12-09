@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "covid-19のオリジナル株はまだ検出されているのでしょうか、それとも後続の亜種に吸収されてしまったのでしょうか。"
+    },
+    {
+      "locale": "zh",
+      "title": "covid-19的原始菌株是否仍然被检测到，还是已经被后来的变体所取代？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "covid-19的原始菌株是否仍然被檢測到，還是已經被後來的變體所取代？"
+    }
+  ]
 }
