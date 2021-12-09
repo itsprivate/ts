@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-09T08:29:51Z"
+  "original_createdAt": "2021-12-09T08:29:51Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "クールなプログレスバーを生成して、夢の目標に向かってMRRの進捗状況を表示します。🤑 オープンなスタートアップを公開している、インディーハッカーや起業家に最適です。",
+      "tagline": "TwitterやInstagramのプロフィールに使えるASCIIプログレスバー"
+    },
+    {
+      "locale": "zh",
+      "description": "生成很酷的进度条，展示你的MRR朝着你的梦想目标的进展。🤑非常适合独立黑客和创业者在公开场合建立他们的开放式创业公司。",
+      "tagline": "为你的Twitter和Instagram简历提供ASCII进度条"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "生成很酷的進度條，展示你的MRR朝着你的夢想目標的進展。🤑非常適合獨立黑客和創業者在公開場合建立他們的開放式創業公司。",
+      "tagline": "爲你的Twitter和Instagram簡歷提供ASCII進度條"
+    }
+  ]
 }
