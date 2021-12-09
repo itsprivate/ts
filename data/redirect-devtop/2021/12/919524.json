@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-07T06:27:41Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5JcUHiC9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/irk6qrmay5vnia41grtw.png",
   "author": "Shubham Athawane",
-  "author_url": "https://dev.to/shubhamathawane"
+  "author_url": "https://dev.to/shubhamathawane",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "MongoDBとは？  MongoDBはドキュメント指向のNoSQLデータベースで、大容量のデータを扱う際に使用されます...",
+      "title": "初心者向けMongoDBチートシート"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是MongoDB？  MongoDB是一个面向文档的NoSQL数据库，用于高价值的数据。",
+      "title": "MongoDB初学者小贴士"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是MongoDB？  MongoDB是一個面向文檔的NoSQL數據庫，用於高價值的數據。",
+      "title": "MongoDB初學者小貼士"
+    }
+  ]
 }
