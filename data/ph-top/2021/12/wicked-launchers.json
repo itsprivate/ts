@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-09T09:19:53Z"
+  "original_createdAt": "2021-12-09T09:19:53Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Wicked Launchersは、Tailwind CSSを使って作られた13人のヒーローのコレクションで、Sign Upsを得る準備ができていて、あなたのデータベースに接続し、あなたのコピーを使えば準備完了です。",
+      "tagline": "HTML、Tailwind CSSを使用した13種類のランチャー＆Coming Soonテンプレート"
+    },
+    {
+      "locale": "zh",
+      "description": "Wicked Launchers是一个用Tailwind CSS制作的13个英雄的集合，准备好获得注册，将它连接到你的数据库，使用你的副本，你就可以开始了",
+      "tagline": "13个带有HTML、Tailwind CSS的启动器和即将推出的模板"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Wicked Launchers是一個用Tailwind CSS製作的13個英雄的集合，準備好獲得註冊，將它連接到你的數據庫，使用你的副本，你就可以開始了",
+      "tagline": "13個帶有HTML、Tailwind CSS的啓動器和即將推出的模板"
+    }
+  ]
 }
