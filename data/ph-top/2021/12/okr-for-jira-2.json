@@ -93,5 +93,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-08T08:01:00Z"
+  "original_createdAt": "2021-12-08T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JiraでOKRを管理する最善の方法。OKRで日々の仕事を会社の戦略に合わせる。JiraでOKRをトラッキングすることで、本当に重要なことに集中できます。",
+      "tagline": "OKRで日々の仕事を会社の戦略に合わせる"
+    },
+    {
+      "locale": "zh",
+      "description": "在Jira中管理你的OKRs的最佳方式。通过OKRs使你的日常工作与公司战略保持一致。通过在Jira中跟踪你的OKRs，关注真正重要的事情。",
+      "tagline": "用OKRs使你的日常工作与公司战略保持一致"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在Jira中管理你的OKRs的最佳方式。通過OKRs使你的日常工作與公司戰略保持一致。通過在Jira中跟蹤你的OKRs，關注真正重要的事情。",
+      "tagline": "用OKRs使你的日常工作與公司戰略保持一致"
+    }
+  ]
 }
