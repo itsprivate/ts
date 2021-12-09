@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-08T23:44:35Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hgO1GZE6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x7pzwieb30ejnhd9d94x.png",
   "author": "Alex Eagleson",
-  "author_url": "https://dev.to/alexeagleson"
+  "author_url": "https://dev.to/alexeagleson",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "先日、デジタルReact Conf 2021に参加して、いくつかの講演を聞く機会がありました。",
+      "title": "React Conf 2021からの学び"
+    },
+    {
+      "locale": "zh",
+      "description": "我最近有机会参加了2021年的数字React Conf，并听取了一些来自于美国的会谈。",
+      "title": "从2021年的React大会中得到的启示"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我最近有機會參加了2021年的數字React Conf，並聽取了一些來自於美國的會談。",
+      "title": "從2021年的React大會中得到的啓示"
+    }
+  ]
 }

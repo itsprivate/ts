@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが誰かとデートをして、相手がお湯を注文したとします。あなたは最初に何を思いましたか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你和某人约会，他们点了一杯热水。你的第一个想法是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你和某人約會，他們點了一杯熱水。你的第一個想法是什麼？"
+    }
+  ]
 }
