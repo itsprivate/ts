@@ -113,5 +113,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Thu Dec 09 10:00:10 +0000 2021"
+  "original_created_at": "Thu Dec 09 10:00:10 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "\"このレッスンでは、私が2016年の選挙に勝っていたら伝えたかったスピーチを皆さんと共有することで、私の最も公然とした敗北の一つに正面から向き合います。\"ヒラリー・クリントンはマスタークラスのビデオでこう語っています。\"I've never shared this with anyone.\" https://t.co/TfigRB6rTl"
+    },
+    {
+      "locale": "zh",
+      "full_text": "\"在这一课中，我将直面我最公开的失败之一，与你们分享我曾希望在赢得2016年大选时发表的演讲，\"希拉里-克林顿在大师班的视频中说。\"我从来没有和任何人分享过这个。\" https://t.co/TfigRB6rTl"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "\"在這一課中，我將直面我最公開的失敗之一，與你們分享我曾希望在贏得2016年大選時發表的演講，\"希拉里-克林頓在大師班的視頻中說。\"我從來沒有和任何人分享過這個。\" https://t.co/TfigRB6rTl"
+    }
+  ]
 }
