@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-06T10:06:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s---oIqN9wN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8faewjowr7h83i7wlg5y.jpg",
   "author": "Kritika Srivastava",
-  "author_url": "https://dev.to/kritika27"
+  "author_url": "https://dev.to/kritika27",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "開発者の皆さん、こんにちは。私は、プログラミングを始める前に、プログラミングとは...の一つであることを知っていればよかったと思います。",
+      "title": "製品を作ってコーディングを学ぶ"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，开发部的朋友们。我希望在开始学习编程之前，我就知道它是一个...",
+      "title": "建立产品，学习编码。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，開發部的朋友們。我希望在開始學習編程之前，我就知道它是一個...",
+      "title": "建立產品，學習編碼。"
+    }
+  ]
 }
