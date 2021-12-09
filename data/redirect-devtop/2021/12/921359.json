@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-08T23:24:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hANU0ajK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://i.imgur.com/wusuFL2.png",
   "author": "Paula Santamaría",
-  "author_url": "https://dev.to/paulasantamaria"
+  "author_url": "https://dev.to/paulasantamaria",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "GitHub Actions×DEVハッカソン2021」に応募しました このオープンソースのゲームで、あなたの貢献を内側から体験してください。",
+      "title": "GitHub Actionsを使って、貢献者をオープンソースゲームのヒーローにする"
+    },
+    {
+      "locale": "zh",
+      "description": "我向GitHub Actions x DEV黑客马拉松2021提交的材料! 在这个开源游戏中从内部体验你的贡献。",
+      "title": "使用GitHub Actions将贡献者变成开源游戏的英雄"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我向GitHub Actions x DEV黑客馬拉松2021提交的材料! 在這個開源遊戲中從內部體驗你的貢獻。",
+      "title": "使用GitHub Actions將貢獻者變成開源遊戲的英雄"
+    }
+  ]
 }
