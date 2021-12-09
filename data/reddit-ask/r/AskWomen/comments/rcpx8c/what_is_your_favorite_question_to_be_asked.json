@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "聞かれて嬉しい質問は？"
+    },
+    {
+      "locale": "zh",
+      "title": "你最喜欢被问到的问题是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你最喜歡被問到的問題是什麼？"
+    }
+  ]
 }
