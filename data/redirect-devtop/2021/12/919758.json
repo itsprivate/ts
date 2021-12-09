@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-07T12:08:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fhcx65_5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dvjsurwtvgw7lqyunwo8.jpeg",
   "author": "Domagoj Vidovic",
-  "author_url": "https://dev.to/domagojvidovic"
+  "author_url": "https://dev.to/domagojvidovic",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "レイアウトが難しい。 最近では様々なCSS/HTMLのアプローチがありますが、そのほとんどが...",
+      "title": "コンポーネント間のスペーシングに余白を使わず、隙間を利用する"
+    },
+    {
+      "locale": "zh",
+      "description": "布局很硬。 现在有许多不同的CSS/HTML方法，但大多数都是...",
+      "title": "不要用边距来表示组件之间的间距，要用间隙。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "佈局很硬。 現在有許多不同的CSS/HTML方法，但大多數都是...",
+      "title": "不要用邊距來表示組件之間的間距，要用間隙。"
+    }
+  ]
 }
