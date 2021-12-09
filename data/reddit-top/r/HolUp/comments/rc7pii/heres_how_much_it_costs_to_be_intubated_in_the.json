@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "COVID-19により米国で60日間ICUで挿管された場合の費用は以下の通りです。"
+    },
+    {
+      "locale": "zh",
+      "title": "以下是在美国因COVID-19而在ICU插管60天的费用。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "以下是在美國因COVID-19而在ICU插管60天的費用。"
+    }
+  ]
 }
