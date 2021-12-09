@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-08T23:54:42Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8ZwU-rrZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/srhqau6owwi8exhbfi1x.jpg",
   "author": "Thuwarakesh Murallie",
-  "author_url": "https://dev.to/thuwarakesh"
+  "author_url": "https://dev.to/thuwarakesh",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "パイソンはここ2、3年で信じられないほどの成功を収めました。 この数年、Pythonは大きな成功を収めました。",
+      "title": "Pythonでデスクトップ、Web、さらにはモバイルアプリケーションを作成する"
+    },
+    {
+      "locale": "zh",
+      "description": "在过去的几年里，Python取得了令人难以置信的成功。 它已经成为了人们的首选语言。",
+      "title": "用Python创建桌面、网络甚至是移动应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在過去的幾年裏，Python取得了令人難以置信的成功。 它已經成爲了人們的首選語言。",
+      "title": "用Python創建桌面、網絡甚至是移動應用程序"
+    }
+  ]
 }
