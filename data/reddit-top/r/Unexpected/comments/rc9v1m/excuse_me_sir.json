@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "失礼しました。"
+    },
+    {
+      "locale": "zh",
+      "title": "对不起，先生？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "對不起，先生？"
+    }
+  ]
 }
