@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-09T08:01:00Z"
+  "original_createdAt": "2021-12-09T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "複数のデータソース（例：Airtable、REST API、XANO、PostgreSQL）への接続 - フロントエンドのビジュアルデザインやカスタムコンポーネント（vue.js / react）の追加 - ノーコードのワークフローの構築やカスタムJSの追加",
+      "tagline": "バックエンドに依存しない、唯一のコードレスフロントエンドビルダー"
+    },
+    {
+      "locale": "zh",
+      "description": "WeWeb是建立生产就绪的网络应用程序的最快方式： - 连接多个数据源（如Airtable、REST APIs、XANO、PostgreSQL） - 可视化设计你的前端或添加自定义组件（vue.js / react） - 建立无代码工作流或添加自定义JS",
+      "tagline": "唯一一个与后端无关的无代码前端构建器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "WeWeb是建立生產就緒的網絡應用程序的最快方式： - 連接多個數據源（如Airtable、REST APIs、XANO、PostgreSQL） - 可視化設計你的前端或添加自定義組件（vue.js / react） - 建立無代碼工作流或添加自定義JS",
+      "tagline": "唯一一個與後端無關的無代碼前端構建器"
+    }
+  ]
 }
