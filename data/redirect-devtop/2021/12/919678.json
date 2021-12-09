@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-07T09:23:41Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zoTasfIE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bivi320dui6qjokszvgg.png",
   "author": "Sumudu Siriwardana",
-  "author_url": "https://dev.to/sumusiriwardana"
+  "author_url": "https://dev.to/sumusiriwardana",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事はDashaに掲載されたものです。 因みに、Dashaは...",
+      "title": "JavaScriptの配列をプロのようにスライス＆スプライスする"
+    },
+    {
+      "locale": "zh",
+      "description": "这篇文章最初发表在Dasha上。 如果你想知道，Dasha是一个...",
+      "title": "像专业人员一样切分和拼接JavaScript数组"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這篇文章最初發表在Dasha上。 如果你想知道，Dasha是一個...",
+      "title": "像專業人員一樣切分和拼接JavaScript數組"
+    }
+  ]
 }

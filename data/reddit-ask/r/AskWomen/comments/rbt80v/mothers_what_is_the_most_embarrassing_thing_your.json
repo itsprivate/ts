@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>What has your kid ever done in public that\nleft you mortified? Tell the story and make us laugh.</p> </div><!-- SC_ON -->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>What has your kid ever done in public that\nleft you mortified? Tell the story and make us laugh.</p> </div><!-- SC_ON -->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!--SC_OFF --><div class=\"md\"><p>あなたのお子さんが人前で何かしてしまって、恥ずかしい思いをしたことはありますか？\n </p> </div><!--SC_ON -->",
+      "title": "お母さん、あなたのお子さんが今までにした一番恥ずかしいことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>你的孩子曾经在公共场合做过什么让你感到羞愧的事？\n让你感到羞耻？说说这个故事，让我们笑一笑。</p> </div><!-- SC_ON -->",
+      "title": "母亲们，你们的孩子做过的最难堪的事情是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>你的孩子曾經在公共場合做過什麼讓你感到羞愧的事？\n讓你感到羞恥？說說這個故事，讓我們笑一笑。</p> </div><!-- SC_ON -->",
+      "title": "母親們，你們的孩子做過的最難堪的事情是什麼？"
+    }
+  ]
 }
