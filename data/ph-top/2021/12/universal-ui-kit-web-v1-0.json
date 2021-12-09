@@ -88,5 +88,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-08T15:41:14Z"
+  "original_createdAt": "2021-12-08T15:41:14Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Figmaでランディングページ、ウェブサイト、ダッシュボードを作成するための強力なWeb UIキットです。当社のUIキットで何百時間も節約できます。",
+      "tagline": "Figmaでウェブサイトを作成するための強力なWeb UIコンポーネント"
+    },
+    {
+      "locale": "zh",
+      "description": "强大的 Web UI 套件，用于在 Figma 中创建登陆页面、网站和仪表板。使用我们的 UI 套件可节省数百个小时。",
+      "tagline": "用于在Figma中创建网站的强大的Web UI组件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "強大的 Web UI 套件，用於在 Figma 中創建登陸頁面、網站和儀表板。使用我們的 UI 套件可節省數百個小時。",
+      "tagline": "用於在Figma中創建網站的強大的Web UI組件"
+    }
+  ]
 }
