@@ -42,5 +42,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Warは、世界的に採用されているProof-of-Work型の社会的合意形成プロトコルで、ノード（国）が財産の合法的な状態とその管理の連鎖を検証するために使用します。"
+    },
+    {
+      "locale": "zh",
+      "title": "战争是全球采用的工作证明社会共识协议，节点（国家）用它来验证财产的合法状态及其监管链。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "戰爭是全球採用的工作證明社會共識協議，節點（國家）用它來驗證財產的合法狀態及其監管鏈。"
+    }
+  ]
 }
