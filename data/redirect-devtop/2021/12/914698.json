@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-01T20:29:26Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--c1oLOQkg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zvpfyvr11mhvswk5w6lx.png",
   "author": "Damian Demasi",
-  "author_url": "https://dev.to/colocodes"
+  "author_url": "https://dev.to/colocodes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私がウェブ開発の世界に足を踏み入れた当初は、その量の多さに圧倒されました。",
+      "title": "Notionを使ったプログラミングトピックの整理"
+    },
+    {
+      "locale": "zh",
+      "description": "当我第一次开始潜入网络开发领域时，我对大量的网络开发感到不知所措。",
+      "title": "使用Notion来组织编程主题"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當我第一次開始潛入網絡開發領域時，我對大量的網絡開發感到不知所措。",
+      "title": "使用Notion來組織編程主題"
+    }
+  ]
 }
