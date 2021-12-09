@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "SARS-CoV-2のオミクロン変異体と、懸念されるその他の主要または過去の変異体を、遺伝的距離で放射状に拡大した樹木で表現したもの。"
+    },
+    {
+      "locale": "zh",
+      "title": "在一棵树上描述了SARS-CoV-2的Omicron变体和其他主要的或以前关注的变体，这些变体按遗传距离在径向上进行缩放。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在一棵樹上描述了SARS-CoV-2的Omicron變體和其他主要的或以前關注的變體，這些變體按遺傳距離在徑向上進行縮放。"
+    }
+  ]
 }
