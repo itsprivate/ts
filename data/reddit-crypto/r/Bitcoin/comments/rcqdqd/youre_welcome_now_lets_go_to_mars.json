@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "どういたしまして。さあ、火星に行きましょう。"
+    },
+    {
+      "locale": "zh",
+      "title": "不客气。现在我们去火星吧。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不客氣。現在我們去火星吧。"
+    }
+  ]
 }
