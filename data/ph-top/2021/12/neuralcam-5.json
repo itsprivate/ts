@@ -92,5 +92,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-10T08:03:28Z"
+  "original_createdAt": "2021-12-10T08:03:28Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "NeuralCam 5は、iPhone用の最先端の計算機写真カメラアプリで、夜と昼の両方の写真を撮影できます。AIによる48MP超解像、マクロモード、NeuralHDRでより良い写真を撮ることができます。詳細はこちら： https://neural.cam/news/ https://neural.cam/news/nightmode5/",
+      "tagline": "iPhoneで4800万画素の写真、NightMode、HDR＆マクロモード"
+    },
+    {
+      "locale": "zh",
+      "description": "NeuralCam 5是iPhone上最先进的计算摄影相机应用程序，可用于拍摄夜间和白天的照片。通过人工智能驱动的4800万像素超级分辨率、微距模式和NeuralHDR捕捉更好的照片。更多详情请见：https://neural.cam/news/ https://neural.cam/news/nightmode5/",
+      "tagline": "4800万像素的iPhone照片，夜间模式，HDR和微距模式"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "NeuralCam 5是iPhone上最先進的計算攝影相機應用程序，可用於拍攝夜間和白天的照片。通過人工智能驅動的4800萬像素超級分辨率、微距模式和NeuralHDR捕捉更好的照片。更多詳情請見：https://neural.cam/news/ https://neural.cam/news/nightmode5/",
+      "tagline": "4800萬像素的iPhone照片，夜間模式，HDR和微距模式"
+    }
+  ]
 }

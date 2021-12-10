@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-10T08:01:00Z"
+  "original_createdAt": "2021-12-10T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "YouNoteは、YouTubeの動画を見ながら、その横にリッチテキスト形式でメモを取ることができる、非常にシンプルなウェブアプリケーションです。現在ベータ版です。",
+      "tagline": "YouTubeの動画をシームレスにメモすることができる"
+    },
+    {
+      "locale": "zh",
+      "description": "YouNote是一个极其简单的网络应用程序，允许用户观看YouTube视频并在旁边以RichText格式做笔记。目前处于测试阶段。",
+      "tagline": "无缝记下YouTube视频"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "YouNote是一個極其簡單的網絡應用程序，允許用戶觀看YouTube視頻並在旁邊以RichText格式做筆記。目前處於測試階段。",
+      "tagline": "無縫記下YouTube視頻"
+    }
+  ]
 }
