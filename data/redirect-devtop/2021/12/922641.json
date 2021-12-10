@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-10T10:29:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--R5uF2xBU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jvn6eowkvx1s2q4fe2ff.jpeg",
   "author": "CAST AI",
-  "author_url": "https://dev.to/castai"
+  "author_url": "https://dev.to/castai",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "AWSはKarpenterと呼ばれる新しいオープンソースのツールを一般公開した。このツールがどのように使われているのかをご紹介します。",
+      "title": "AWS Karpenter - AWSオープンソースKubernetes Autoscalerはあなたに合っていますか？"
+    },
+    {
+      "locale": "zh",
+      "description": "AWS刚刚普遍提供了一个新的开源工具，名为Karpenter。我将挖掘它是如何...",
+      "title": "AWS Karpenter - AWS开源Kubernetes Autoscaler是否适合您？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "AWS剛剛普遍提供了一個新的開源工具，名爲Karpenter。我將挖掘它是如何...",
+      "title": "AWS Karpenter - AWS開源Kubernetes Autoscaler是否適合您？"
+    }
+  ]
 }
