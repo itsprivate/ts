@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-10T08:04:27Z"
+  "original_createdAt": "2021-12-10T08:04:27Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Airplane Runbookを使えば、少量のコードを複雑な社内ワークフローに簡単に変えることができます。オンボーディング・フロー、管理者の操作、cronのようなスケジュールなどをモデル化し、チームで共有できます。Zapierに似ていますが、プロッドデータに触れるファーストパーティの操作に適しています。",
+      "tagline": "スクリプトやSQLなどを内部のワークフローに変換します。"
+    },
+    {
+      "locale": "zh",
+      "description": "Airplane Runbooks可以轻松地将少量的代码变成复杂的内部工作流程。模拟入职流程、管理操作、类似于cron的时间表等等，并与你的团队分享。它就像Zapier，但适用于触及prod数据的第一方操作。",
+      "tagline": "将脚本、SQL等转化为内部工作流程"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Airplane Runbooks可以輕鬆地將少量的代碼變成複雜的內部工作流程。模擬入職流程、管理操作、類似於cron的時間表等等，並與你的團隊分享。它就像Zapier，但適用於觸及prod數據的第一方操作。",
+      "tagline": "將腳本、SQL等轉化爲內部工作流程"
+    }
+  ]
 }
