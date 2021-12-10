@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-10T08:11:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EkqcE2ic--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/26fy1r4kyznqqoaa7f45.png",
   "author": "Anjali Kumawat",
-  "author_url": "https://dev.to/anjalikumawat2002"
+  "author_url": "https://dev.to/anjalikumawat2002",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "PythonでのGUI グラフィカル・インターフェースを作成するためのPythonライブラリ。  Tkinter Python...",
+      "title": "Tkinterを使ったPythonのGUI"
+    },
+    {
+      "locale": "zh",
+      "description": "在Python中创建GUI Python库来创建图形界面。  Tkinter Python...",
+      "title": "使用Tkinter的Python图形用户界面"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在Python中創建GUI Python庫來創建圖形界面。  Tkinter Python...",
+      "title": "使用Tkinter的Python圖形用戶界面"
+    }
+  ]
 }
