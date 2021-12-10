@@ -138,5 +138,22 @@
     "retweet_count": 259,
     "favorite_count": 1677,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @scottmelker 暗号のクリスマス。\n\nクマがすべてを台無しにする。https://t.co/eS8IamLn56",
+      "retweeted_status_full_text": "暗号のクリスマス。\n\nすべてを台無しにするクマ https://t.co/eS8IamLn56"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @scottmelker: 低碳水化合物的圣诞节。\n\n熊毁了一切。https://t.co/eS8IamLn56",
+      "retweeted_status_full_text": "低碳水化合物的圣诞节。\n\n熊孩子毁了一切。https://t.co/eS8IamLn56"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @scottmelker: 低碳水化合物的聖誕節。\n\n熊毀了一切。https://t.co/eS8IamLn56",
+      "retweeted_status_full_text": "低碳水化合物的聖誕節。\n\n熊孩子毀了一切。https://t.co/eS8IamLn56"
+    }
+  ]
 }
