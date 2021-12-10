@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "勇気のある人だけが申し込む"
+    },
+    {
+      "locale": "zh",
+      "title": "只有最勇敢的人才会报名参加这个活动"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "只有最勇敢的人才會報名參加這個活動"
+    }
+  ]
 }
