@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-04T13:40:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YuWulnlC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5v8xzo7wrx8up1t9798g.png",
   "author": "Deon Rich",
-  "author_url": "https://dev.to/zippcodder"
+  "author_url": "https://dev.to/zippcodder",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私がWeb制作を始めたばかりの頃、私はやがてHTML...",
+      "title": " ブラウザでゲームを作るための完全ガイド "
+    },
+    {
+      "locale": "zh",
+      "description": "早在我刚开始从事网络开发的时候，我最终偶然发现了HTML...",
+      "title": " 在浏览器中构建游戏的完整指南 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "早在我剛開始從事網絡開發的時候，我最終偶然發現了HTML...",
+      "title": " 在瀏覽器中構建遊戲的完整指南 "
+    }
+  ]
 }
