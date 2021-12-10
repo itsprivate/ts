@@ -42,5 +42,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Today I&#39;d like to share a side project\nI&#39;ve been working on together with a few friends over the past few months:\n<a href=\"https://Codeprints.dev\">https://Codeprints.dev</a> is a tool that takes\nyour personal GitHub contributions and allows you to purchase a…"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Today I&#39;d like to share a side project\nI&#39;ve been working on together with a few friends over the past few months:\n<a href=\"https://Codeprints.dev\">https://Codeprints.dev</a> is a tool that takes\nyour personal GitHub contributions and allows you to purchase a…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!--SC_OFF --><div class=\"md\"><p>今日は、サイドプロジェクトを紹介したいと思います。\nここ数ヶ月、数人の友人と一緒に取り組んできました。\n<a href=\"https://Codeprints.dev\">https://Codeprints.dev</a>は、あなたの個人的なGitHubへのコントリビューションを取り込んで\nこのツールは、あなたのGitHubへの個人的なコントリビューションを利用して、あなたがそのコントリビューションを購入できるようにするものです。",
+      "title": "Codeprints.dev - あなたのGitHubへのコントリビューション（またはgitリポジトリ）をパーソナライズして印刷します。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>今天我想和大家分享一个侧面项目\n在过去的几个月里，我和几个朋友一直在一起工作。\n<a href=\"https://Codeprints.dev\">https://Codeprints.dev</a>是一个工具，它可以利用你的个人GitHub贡献，并允许你将你的个人贡献与GitHub上的其他人分享。\n你的个人GitHub贡献，并允许你购买一个...",
+      "title": "Codeprints.dev - 为你的GitHub贡献（或git仓库）获得个性化的打印。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>今天我想和大家分享一個側面項目\n在過去的幾個月裏，我和幾個朋友一直在一起工作。\n<a href=\"https://Codeprints.dev\">https://Codeprints.dev</a>是一個工具，它可以利用你的個人GitHub貢獻，並允許你將你的個人貢獻與GitHub上的其他人分享。\n你的個人GitHub貢獻，並允許你購買一個...",
+      "title": "Codeprints.dev - 爲你的GitHub貢獻（或git倉庫）獲得個性化的打印。"
+    }
+  ]
 }

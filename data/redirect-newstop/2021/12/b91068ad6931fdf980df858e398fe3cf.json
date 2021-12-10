@@ -14,5 +14,19 @@
   "tags": [
     "MarketWatch"
   ],
-  "image": "https://images.mktw.net/im-449818/social"
+  "image": "https://images.mktw.net/im-449818/social",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Fauci氏によると、オミクロンに特化したワクチンは必要ないかもしれないが、新しい研究では、T細胞による防御がバリアントに対しても有効であることが示されている。"
+    },
+    {
+      "locale": "zh",
+      "title": "Fauci说可能不需要Omicron特异性疫苗，而新的研究表明T细胞保护可能对变异体起作用"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Fauci說可能不需要Omicron特異性疫苗，而新的研究表明T細胞保護可能對變異體起作用"
+    }
+  ]
 }
