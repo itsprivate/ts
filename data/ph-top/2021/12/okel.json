@@ -173,5 +173,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-09T08:30:00Z"
+  "original_createdAt": "2021-12-09T08:30:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Okelは、地元のレストランでの食事を共有することでユーザーをつなぐソーシャルプラットフォームです。デートアプリの機能と同様に、Okelは共通の趣味や好きな料理、空いている時間帯などに基づいてユーザーをマッチングします。キャンセル待ち 👉 https://www.joinokel.com/",
+      "tagline": "見知らぬ人と食事を共にすることは変ではない"
+    },
+    {
+      "locale": "zh",
+      "description": "Okel是一个社交平台，通过分享当地餐馆的饭菜将用户联系起来。与约会软件的功能类似，Okel根据共同的兴趣、最喜欢的美食和可用的时间来匹配用户。等待名单 👉 https://www.joinokel.com/",
+      "tagline": "与合适的陌生人分享膳食并不奇怪"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Okel是一個社交平臺，通過分享當地餐館的飯菜將用戶聯繫起來。與約會軟件的功能類似，Okel根據共同的興趣、最喜歡的美食和可用的時間來匹配用戶。等待名單 👉 https://www.joinokel.com/",
+      "tagline": "與合適的陌生人分享膳食並不奇怪"
+    }
+  ]
 }
