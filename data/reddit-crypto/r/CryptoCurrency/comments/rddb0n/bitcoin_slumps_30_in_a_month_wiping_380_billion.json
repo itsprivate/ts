@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインが1ヶ月で30％下落し、3800億ドルが消失。"
+    },
+    {
+      "locale": "zh",
+      "title": "比特币一个月内暴跌30%，抹去3800亿美元，疯狂的通货膨胀给市场带来混乱"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比特幣一個月內暴跌30%，抹去3800億美元，瘋狂的通貨膨脹給市場帶來混亂"
+    }
+  ]
 }
