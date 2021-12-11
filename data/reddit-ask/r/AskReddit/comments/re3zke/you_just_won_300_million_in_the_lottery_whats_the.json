@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたは宝くじで3億円を当てました。そのお金で最初にすることは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你刚刚在彩票中赢了3亿美元。你用这笔钱做的第一件事是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你剛剛在彩票中贏了3億美元。你用這筆錢做的第一件事是什麼？"
+    }
+  ]
 }
