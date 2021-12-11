@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私はあなたの給食を見て、私はあなたに米国海軍の船上での夕食を上げる。"
+    },
+    {
+      "locale": "zh",
+      "title": "我看到你的学校午餐，我给你在美国海军舰艇上的晚餐。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我看到你的學校午餐，我給你在美國海軍艦艇上的晚餐。"
+    }
+  ]
 }
