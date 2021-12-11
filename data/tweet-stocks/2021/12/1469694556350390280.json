@@ -99,5 +99,22 @@
     "retweet_count": 158,
     "favorite_count": 608,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @charliebilello: S&amp;P 500は、今年67回目の史上最高値で終了。一年の間に史上最高値を記録したのは1995年のみ。",
+      "retweeted_status_full_text": "S&amp;P 500の終値が史上最高値を記録したのは、今年で67回目。1暦年で史上最高値を記録したのは1995年のみ。$SPX https://t.co/9YhfRcrjOi"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @charliebilello: S&amp;P 500指数今年第67次创下历史新高。只有1995年在一个日历中出现过更多的历史高点。",
+      "retweeted_status_full_text": "S&amp;P 500指数今年第67次收于历史新高。只有1995年在一个日历年内有更多的历史高点。$SPX https://t.co/9YhfRcrjOi"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @charliebilello: S&amp;P 500指數今年第67次創下歷史新高。只有1995年在一個日曆中出現過更多的歷史高點。",
+      "retweeted_status_full_text": "S&amp;P 500指數今年第67次收於歷史新高。只有1995年在一個日曆年內有更多的歷史高點。$SPX https://t.co/9YhfRcrjOi"
+    }
+  ]
 }
