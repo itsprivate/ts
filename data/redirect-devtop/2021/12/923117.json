@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-10T17:57:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4HLGXkvE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zorheetn1qfw1cijwwoi.jpeg",
   "author": "Andrew (he/him)",
-  "author_url": "https://dev.to/awwsmm"
+  "author_url": "https://dev.to/awwsmm",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "スタティック・サイト・ジェネレーター（SSG）は、簡単なブログを立ち上げるための手っ取り早い方法です...",
+      "title": "15分で4つのブログを構築した方法"
+    },
+    {
+      "locale": "zh",
+      "description": "静态网站生成器（SSG）是一种快速而简单的方法，可以让一个简单的博客运行起来。",
+      "title": "我如何在15分钟内建立4个博客"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "靜態網站生成器（SSG）是一種快速而簡單的方法，可以讓一個簡單的博客運行起來。",
+      "title": "我如何在15分鐘內建立4個博客"
+    }
+  ]
 }
