@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>&#x200B;</p>…"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>&#x200B;</p>…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!--SC_OFF --><div class=\"md\"><p>&#x200B;</p>...。",
+      "title": "社内ツールからサイドのSaaSプロジェクトを作った方法 [parsio.io] [メールパーサ］"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>&#x200B;</p>...",
+      "title": "我是如何从一个内部工具创建一个侧面的SaaS项目的[parsio.io] [电子邮件解析器]"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>&#x200B;</p>...",
+      "title": "我是如何從一個內部工具創建一個側面的SaaS項目的[parsio.io] [電子郵件解析器]"
+    }
+  ]
 }
