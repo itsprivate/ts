@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-11T08:41:04Z"
+  "original_createdAt": "2021-12-11T08:41:04Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "- ブラウザ上でstyle-dictionaryを使った実験が可能 - ライブプレビューウィンドウ - モバイル - デスクトップ表示 - プロジェクトを共有するための共有URL - オープンソース - サインアップ不要 / ログイン不要 👉 https://www.style-dictionary-play.dev",
+      "tagline": "アマゾンのデザイントークンライブラリーの無料オンラインプレイグラウンド"
+    },
+    {
+      "locale": "zh",
+      "description": "- 在你的浏览器中实验风格字典 - 实时预览窗口 - 移动 - 桌面视图 - 分享URL以分享项目 - 开放源代码 - 无需注册/无需登录 👉https://www.style-dictionary-play.dev",
+      "tagline": "亚马逊设计令牌库的免费在线游乐场所"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "- 在你的瀏覽器中實驗風格字典 - 實時預覽窗口 - 移動 - 桌面視圖 - 分享URL以分享項目 - 開放源代碼 - 無需註冊/無需登錄 👉https://www.style-dictionary-play.dev",
+      "tagline": "亞馬遜設計令牌庫的免費在線遊樂場所"
+    }
+  ]
 }
