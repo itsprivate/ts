@@ -138,5 +138,22 @@
     "retweet_count": 327,
     "favorite_count": 883,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @Breaking911 です。見てください。Viral video shows tornado that hit Sacramento, Kentucky - ABC\n\nhttps://t.co/ln3MzUFND6",
+      "retweeted_status_full_text": "WATCH ケンタッキー州サクラメントで発生した竜巻の動画が公開されました - ABC\n\nhttps://t.co/ln3MzUFND6"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @Breaking911: 观看。病毒视频显示龙卷风袭击了肯塔基州的萨克拉门托 - ABC\n\nhttps://t.co/ln3MzUFND6",
+      "retweeted_status_full_text": "观看。病毒视频显示龙卷风袭击肯塔基州萨克拉门托市 - ABC\n\nhttps://t.co/ln3MzUFND6"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @Breaking911: 觀看。病毒視頻顯示龍捲風襲擊了肯塔基州的薩克拉門託 - ABC\n\nhttps://t.co/ln3MzUFND6",
+      "retweeted_status_full_text": "觀看。病毒視頻顯示龍捲風襲擊肯塔基州薩克拉門託市 - ABC\n\nhttps://t.co/ln3MzUFND6"
+    }
+  ]
 }
