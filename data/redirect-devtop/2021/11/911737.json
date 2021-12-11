@@ -52,5 +52,22 @@
   "original_created_at": "2021-11-29T05:30:04Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dMpnYKR1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4s14xi24avki915gn4oq.png",
   "author": "Michelle Mannering",
-  "author_url": "https://dev.to/mishmanners"
+  "author_url": "https://dev.to/mishmanners",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "GitHub Actionsハッカソンが終了しました。アクションを投稿してくださった皆さん、おめでとうございます！....",
+      "title": "GitHubアクションとワークフローの違いは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "GitHub Actions黑客马拉松刚刚结束。祝贺所有提交行动的人....。",
+      "title": "GitHub动作和工作流有什么区别？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "GitHub Actions黑客馬拉松剛剛結束。祝賀所有提交行動的人....。",
+      "title": "GitHub動作和工作流有什麼區別？"
+    }
+  ]
 }
