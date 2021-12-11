@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの意見では、必要以上に高価なものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "在你看来，什么东西比它应该的要贵得多？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在你看來，什麼東西比它應該的要貴得多？"
+    }
+  ]
 }
