@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-10T13:24:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--njCce5hB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/feylovuxwk3g58rwnomb.png",
   "author": "Tapas Adhikary",
-  "author_url": "https://dev.to/atapas"
+  "author_url": "https://dev.to/atapas",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JavaScript入門 関数 関数を使うと、コードを論理的に配置して...",
+      "title": "JavaScriptの純粋関数とSide Effectsとは？"
+    },
+    {
+      "locale": "zh",
+      "description": "JavaScript函数简介 函数允许我们将代码逻辑地放置到...",
+      "title": "什么是JavaScript中的纯函数和副作用？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "JavaScript函數簡介 函數允許我們將代碼邏輯地放置到...",
+      "title": "什麼是JavaScript中的純函數和副作用？"
+    }
+  ]
 }
