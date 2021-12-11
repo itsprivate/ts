@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I’m fairly new to bitcoin. I only have about\n$450 in. Do you think 1 sat will ever equal $1? Or do you believe that the sat\nwill overpower the dollar?</p> </div><!-- SC_ON -->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I’m fairly new to bitcoin. I only have about\n$450 in. Do you think 1 sat will ever equal $1? Or do you believe that the sat\nwill overpower the dollar?</p> </div><!-- SC_ON -->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!--SC_OFF --><div class=\"md\"><p>私はビットコインのかなりの初心者です。私が持っているのは約\n450ドルしか持っていません。Do you think 1 sat will ever equal $1? Or do you believe that the sat\nwill overpower the dollar?</p> </div><!-- SC_ON -->",
+      "title": "サトシが1ドルになることがあると思いますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>我对比特币相当陌生。我只有大约\n450美元。你认为1比特币会等于1美元吗？或者你认为比特币\nwill overpower the dollar?</p> </div><!-- SC_ON -->",
+      "title": "你认为一个中本聪会不会等于1美元？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>我對比特幣相當陌生。我只有大約\n450美元。你認爲1比特幣會等於1美元嗎？或者你認爲比特幣\nwill overpower the dollar?</p> </div><!-- SC_ON -->",
+      "title": "你認爲一箇中本聰會不會等於1美元？"
+    }
+  ]
 }
