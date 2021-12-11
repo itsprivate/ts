@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-11T08:31:22Z",
   "image": "https://dev.to/social_previews/article/923537.png",
   "author": "javinpaul",
-  "author_url": "https://dev.to/javinpaul"
+  "author_url": "https://dev.to/javinpaul",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "完全なガイドはマイクロソフトの検査98-381を渡すために。Introduction to Programming Using Python in 2022」に合格し、Python開発者として認定されるための完全ガイドです。",
+      "title": "2022年にPython開発者認定資格を取得する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "通过微软98-381考试的完整指南。2022年使用Python编程的介绍，并成为一个合格的Python开发人员。",
+      "title": "如何在2022年成为一名认证的Python开发人员"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "通過微軟98-381考試的完整指南。2022年使用Python編程的介紹，併成爲一個合格的Python開發人員。",
+      "title": "如何在2022年成爲一名認證的Python開發人員"
+    }
+  ]
 }
