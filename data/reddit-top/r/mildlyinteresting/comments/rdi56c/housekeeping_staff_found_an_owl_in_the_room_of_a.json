@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "昨日チェックアウトしたお客様の部屋にフクロウがいるのをハウスキーピングスタッフが発見しました。"
+    },
+    {
+      "locale": "zh",
+      "title": "房务人员在昨天退房的客人的房间里发现了一只猫头鹰。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "房務人員在昨天退房的客人的房間裏發現了一隻貓頭鷹。"
+    }
+  ]
 }
