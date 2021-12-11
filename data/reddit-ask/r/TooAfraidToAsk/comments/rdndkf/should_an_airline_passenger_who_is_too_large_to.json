@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>It should be common sense, right?</p> <ul>\n<li>If the airline isn&#39;t booked and there&#39;s plenty of room, I would\nthink not.</li> <li>If the airline is booked and he only paid for one seat, then\nthere isn&#39;t going to be room for him on the plane without…"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>It should be common sense, right?</p> <ul>\n<li>If the airline isn&#39;t booked and there&#39;s plenty of room, I would\nthink not.</li> <li>If the airline is booked and he only paid for one seat, then\nthere isn&#39;t going to be room for him on the plane without…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!--SC_OFF --><div class=\"md\"><p>常識的に考えればわかるはずですよね？</p> <ul>。\n<li>航空会社が予約されておらず、空席がある場合、私はそうは思いません。\n</li> <li>航空会社が予約されていて、彼が1席分しかお金を払っていないのであれば、私はそうは思いません。\n</li> <li>もし航空会社が予約されていて、彼が1席分しかお金を払っていないのであれば、彼を飛行機に乗せるスペースはありません。",
+      "title": "体が大きくて1つの座席に収まらない航空会社の乗客には、2つのチケットを請求すべきでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>这应该是一个常识，对吗？</p> <ul>\n<li>如果航空公司没有订票，而且有足够的空间，我想不会。\n</li> <li>如果航空公司被预订了，而他只付了一个座位的钱，那么就不会有什么问题。\n如果他只付了一个座位的钱，那么飞机上就不会有他的位置了。",
+      "title": "航空公司的乘客如果体型太大，无法坐在一个座位上，是否应该收取两张机票？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>這應該是一個常識，對嗎？</p> <ul>\n<li>如果航空公司沒有訂票，而且有足夠的空間，我想不會。\n</li> <li>如果航空公司被預訂了，而他只付了一個座位的錢，那麼就不會有什麼問題。\n如果他只付了一個座位的錢，那麼飛機上就不會有他的位置了。",
+      "title": "航空公司的乘客如果體型太大，無法坐在一個座位上，是否應該收取兩張機票？"
+    }
+  ]
 }
