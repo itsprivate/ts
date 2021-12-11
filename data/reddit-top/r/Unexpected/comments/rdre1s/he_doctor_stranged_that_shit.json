@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼は、そのクソを医者が撃った。"
+    },
+    {
+      "locale": "zh",
+      "title": "他是个医生，他把那东西弄坏了"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他是個醫生，他把那東西弄壞了"
+    }
+  ]
 }
