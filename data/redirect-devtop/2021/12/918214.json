@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-05T22:40:25Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0tY99H59--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/80u70srpqn5p5m2w92r7.png",
   "author": "freeOne",
-  "author_url": "https://dev.to/free_one"
+  "author_url": "https://dev.to/free_one",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "現在、最も人気のあるソフトウェア開発環境であるVisual Studio Code。これは...",
+      "title": "VSコード : 美学"
+    },
+    {
+      "locale": "zh",
+      "description": "Visual Studio Code是目前最流行的软件开发环境。它是...",
+      "title": "VS代码 : 美学"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Visual Studio Code是目前最流行的軟件開發環境。它是...",
+      "title": "VS代碼 : 美學"
+    }
+  ]
 }
