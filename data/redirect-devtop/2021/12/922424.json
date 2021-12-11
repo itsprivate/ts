@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-10T02:08:45Z",
   "image": "https://dev.to/social_previews/article/922424.png",
   "author": "Toby Parent",
-  "author_url": "https://dev.to/parenttobias"
+  "author_url": "https://dev.to/parenttobias",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "The Why Mentoring on FreeCodeCamp」や「The Odin Project」では、「Thermometer」をよく目にします。",
+      "title": "Javascriptのゲッターとセッター。ポイントは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "在FreeCodeCamp和The Odin Project上的 \"为什么辅导\"，你会经常看到温度计...",
+      "title": "Javascript中的获取器和设置器。重点是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在FreeCodeCamp和The Odin Project上的 \"爲什麼輔導\"，你會經常看到溫度計...",
+      "title": "Javascript中的獲取器和設置器。重點是什麼？"
+    }
+  ]
 }
