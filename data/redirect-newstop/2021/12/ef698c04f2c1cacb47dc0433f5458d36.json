@@ -14,5 +14,19 @@
   "tags": [
     "The Wall Street Journal"
   ],
-  "image": "https://images.wsj.net/im-450150/social"
+  "image": "https://images.wsj.net/im-450150/social",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "米国におけるOmicron Covid-19の症例は、これまでのところほとんどが軽度であることがCDCのデータで示されています。"
+    },
+    {
+      "locale": "zh",
+      "title": "疾病预防控制中心的数据显示，到目前为止，美国的Omicron Covid-19病例大多是温和的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "疾病預防控制中心的數據顯示，到目前爲止，美國的Omicron Covid-19病例大多是溫和的。"
+    }
+  ]
 }
