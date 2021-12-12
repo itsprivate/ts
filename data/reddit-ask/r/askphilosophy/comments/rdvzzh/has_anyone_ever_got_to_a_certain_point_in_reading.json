@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Is there a way to get out of this without\ncompletely giving up?</p> </div><!-- SC_ON -->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Is there a way to get out of this without\ncompletely giving up?</p> </div><!-- SC_ON -->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!--SC_OFF --><div class=\"md\"><p>なしで抜け出す方法はありますか？\ncompletely giving up?</p> </div><!-- SC_ON -->",
+      "title": "哲学を読んでいて、ある段階で完全に混乱してしまったという人はいませんか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Is there a way to get out of this without\ncompletely giving up?</p> </div><!-- SC_ON -->",
+      "title": "有没有人在阅读哲学的过程中到了一定的程度，就完全迷惑了？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Is there a way to get out of this without\ncompletely giving up?</p> </div><!-- SC_ON -->",
+      "title": "有沒有人在閱讀哲學的過程中到了一定的程度，就完全迷惑了？"
+    }
+  ]
 }
