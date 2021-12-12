@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-10T12:38:24Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ChXXYxec--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ascfa51yt1bcds3915ng.jpg",
   "author": "Grant McNamara",
-  "author_url": "https://dev.to/grantrocks"
+  "author_url": "https://dev.to/grantrocks",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "シンプルなフォローが始まります いや、本当にフォローしないと、何かを見逃してしまうかもしれません。",
+      "title": "HTMLを使ってゼロからウェブサイトを立ち上げる方法"
+    },
+    {
+      "locale": "zh",
+      "description": "一个简单的跟随是它的开始 没有真的请跟随，否则你可能会错过一些...",
+      "title": "如何从零开始使用HTML建立网站"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個簡單的跟隨是它的開始 沒有真的請跟隨，否則你可能會錯過一些...",
+      "title": "如何從零開始使用HTML建立網站"
+    }
+  ]
 }
