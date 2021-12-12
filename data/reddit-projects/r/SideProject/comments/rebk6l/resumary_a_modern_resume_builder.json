@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Resumary: モダンな履歴書作成ツール"
+    },
+    {
+      "locale": "zh",
+      "title": "Resumary：一个现代的简历制作工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Resumary：一個現代的簡歷製作工具"
+    }
+  ]
 }
