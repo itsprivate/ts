@@ -52,5 +52,22 @@
   "original_created_at": "2021-12-08T15:04:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rog8fVli--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cjgiz4bh47afxqvwrdha.png",
   "author": "Erika Heidi",
-  "author_url": "https://dev.to/erikaheidi"
+  "author_url": "https://dev.to/erikaheidi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ライブストリームシリーズ「Laravel入門」の第一弾では、SailとDockerを使って、PHPが不要な新しいLaravelアプリケーションをブートストラップする方法をご紹介します。",
+      "title": "SailとDockerを使った新しいLaravelアプリケーションの作成（PHPの設定は必要なし）"
+    },
+    {
+      "locale": "zh",
+      "description": "在我们的直播系列 \"Laravel入门 \"的第一部分, 我们将看到如何用Sail和Docker启动一个新的Laravel应用程序, 不需要PHP.",
+      "title": "用Sail和Docker创建一个新的Laravel应用（不需要PHP设置）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在我們的直播系列 \"Laravel入門 \"的第一部分, 我們將看到如何用Sail和Docker啓動一個新的Laravel應用程序, 不需要PHP.",
+      "title": "用Sail和Docker創建一個新的Laravel應用（不需要PHP設置）。"
+    }
+  ]
 }
