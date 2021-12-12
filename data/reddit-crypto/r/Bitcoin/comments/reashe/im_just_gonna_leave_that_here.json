@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ここに置いておこうと思います。"
+    },
+    {
+      "locale": "zh",
+      "title": "我只是要把它留在这里。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我只是要把它留在這裏。"
+    }
+  ]
 }
