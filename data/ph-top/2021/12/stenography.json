@@ -92,5 +92,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-12T08:17:23Z"
+  "original_createdAt": "2021-12-12T08:17:23Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Stenographyは、最先端のAI技術（OpenAI Codex）とコード解析技術を組み合わせて、スマートなコードベース・ドキュメンターを実現します。Stenographyは、自然な開発の流れに合わせて設計されており、開発ツールが常に約束してきたこと、つまり認知的負荷の軽減を実現します。",
+      "tagline": "AIとコードパーシングを組み合わせたスマートなコードベース・ドキュメンター"
+    },
+    {
+      "locale": "zh",
+      "description": "Stenography结合了最先进的人工智能技术（OpenAI Codex）和代码解析技术，创造了一个智能的代码库文档器。Stenography的设计是为了适应自然的开发流程，并做到开发工具一直以来对我们的承诺：减少认知负荷",
+      "tagline": "一个结合了人工智能和代码解析的智能代码库文档器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Stenography結合了最先進的人工智能技術（OpenAI Codex）和代碼解析技術，創造了一個智能的代碼庫文檔器。Stenography的設計是爲了適應自然的開發流程，並做到開發工具一直以來對我們的承諾：減少認知負荷",
+      "tagline": "一個結合了人工智能和代碼解析的智能代碼庫文檔器"
+    }
+  ]
 }
