@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが考える名作で、誰もが読むべきだと思う本は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你认为哪本书是杰作，并认为每个人都应该阅读？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你認爲哪本書是傑作，並認爲每個人都應該閱讀？"
+    }
+  ]
 }
