@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-11T09:24:32Z",
   "image": "https://dev.to/social_previews/article/923545.png",
   "author": "Dollar Dhingra",
-  "author_url": "https://dev.to/dollardhingra"
+  "author_url": "https://dev.to/dollardhingra",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに この記事は、よりイディオムなPythonコードを作るためのベストプラクティスを集めたものです...",
+      "title": "Pythonコードのベスト・プラクティス"
+    },
+    {
+      "locale": "zh",
+      "description": "简介：本文是一个最佳实践的集合，以获得更多的python代码的成语。",
+      "title": "Python代码最佳实践"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介：本文是一個最佳實踐的集合，以獲得更多的python代碼的成語。",
+      "title": "Python代碼最佳實踐"
+    }
+  ]
 }
