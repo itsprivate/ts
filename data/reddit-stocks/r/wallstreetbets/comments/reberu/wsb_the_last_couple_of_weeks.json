@@ -183,5 +183,19 @@
   },
   "is_video": true,
   "original_created_utc": 1639264708,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ここ数週間のWSB"
+    },
+    {
+      "locale": "zh",
+      "title": "过去几周的WSB"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "過去幾周的WSB"
+    }
+  ]
 }
