@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-11T17:17:33Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IEX65tP_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ghw6e0r68ep5r3yilroa.jpg",
   "author": "InHuOfficial",
-  "author_url": "https://dev.to/inhuofficial"
+  "author_url": "https://dev.to/inhuofficial",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CSSは適切に使用すれば、HTMLをより良くすることができます。 今回のミニシリーズでは、CSSを使って...",
+      "title": "CSSでHTMLが変わる⁉ - Ep 1: alt属性"
+    },
+    {
+      "locale": "zh",
+      "description": "如果使用得当，CSS可以使你的HTML变得更好!  在这个迷你系列中，我将使用CSS来实现。",
+      "title": "CSS可以帮助改善你的HTML⁉ - Ep 1: alt属性"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果使用得當，CSS可以使你的HTML變得更好!  在這個迷你係列中，我將使用CSS來實現。",
+      "title": "CSS可以幫助改善你的HTML⁉ - Ep 1: alt屬性"
+    }
+  ]
 }
