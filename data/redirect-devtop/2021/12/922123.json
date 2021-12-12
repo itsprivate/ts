@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-09T19:23:33Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RRms1_OK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c8i4szbq16f5d2hfaxn8.png",
   "author": "Jatin Sharma",
-  "author_url": "https://dev.to/j471n"
+  "author_url": "https://dev.to/j471n",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今回の記事では、ナビゲーションメニューを作りますが、それは縦長の形になりますので、...",
+      "title": "CSSによるクリエイティブなホバーメニュー"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我们将制作导航菜单，但它将是垂直形式的，我将...",
+      "title": "使用CSS的创意悬停菜单"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我們將製作導航菜單，但它將是垂直形式的，我將...",
+      "title": "使用CSS的創意懸停菜單"
+    }
+  ]
 }
