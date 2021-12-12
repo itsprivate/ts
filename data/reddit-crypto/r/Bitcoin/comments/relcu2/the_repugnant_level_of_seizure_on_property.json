@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "財産を差し押さえるという反感を買うレベル。"
+    },
+    {
+      "locale": "zh",
+      "title": "对财产的扣押达到了令人厌恶的程度。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "對財產的扣押達到了令人厭惡的程度。"
+    }
+  ]
 }
