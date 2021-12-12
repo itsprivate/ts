@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-09T20:47:57Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dNd3ggb3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n8rpr4bdkfr5jc3tx3pp.png",
   "author": "Matheus Tanaka",
-  "author_url": "https://dev.to/matheustanaka"
+  "author_url": "https://dev.to/matheustanaka",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "React.jsは、ユーザーインターフェースを構築するためのJavascriptライブラリです。主に3つのコンセプトがあります...",
+      "title": "React.jsを学ぶ"
+    },
+    {
+      "locale": "zh",
+      "description": "React.js是一个Javascript库，可以构建用户界面。有三个主要概念...",
+      "title": "学习React.js"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "React.js是一個Javascript庫，可以構建用戶界面。有三個主要概念...",
+      "title": "學習React.js"
+    }
+  ]
 }

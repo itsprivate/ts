@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Basically what the title says. Why do people\ncare so much about leaves in their yard? I don’t get it. Why would people waste\ntheir time and money on this?</p> </div><!-- SC_ON -->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Basically what the title says. Why do people\ncare so much about leaves in their yard? I don’t get it. Why would people waste\ntheir time and money on this?</p> </div><!-- SC_ON -->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!--SC_OFF --><div class=\"md\"><p>基本的にはタイトルの通りです。なぜ人々は\n庭に落ちている葉っぱにそこまでこだわるのか？私には理解できません。なぜ、人はこのようなことに\ntheir time and money on this?</p> </div><!-- SC_ON -->",
+      "title": "なぜ人は庭の落ち葉を気にするのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<！--SC_OFF --><div class=\"md\"><p>基本上就是标题所说的那样。为什么人们\n对院子里的树叶如此关心？我不明白。为什么人们会在这个问题上浪费\n</p> </div><!--SC_ON--><p>人们为什么要把时间和金钱浪费在这上面？",
+      "title": "为什么人们关心他们院子里的树叶？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<！--SC_OFF --><div class=\"md\"><p>基本上就是標題所說的那樣。爲什麼人們\n對院子裏的樹葉如此關心？我不明白。爲什麼人們會在這個問題上浪費\n</p> </div><!--SC_ON--><p>人們爲什麼要把時間和金錢浪費在這上面？",
+      "title": "爲什麼人們關心他們院子裏的樹葉？"
+    }
+  ]
 }
