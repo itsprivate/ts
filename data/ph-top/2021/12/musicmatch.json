@@ -77,5 +77,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-12T08:01:00Z"
+  "original_createdAt": "2021-12-12T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "音楽は共有するのが一番です。MusicMatchを使えば、友達がSpotifyやApple Musicなどの異なるストリーミングサービスを使っていても、音楽リンクを共有したり開いたりすることができます。",
+      "tagline": "あらゆるアプリで音楽リンクを開くことができます。SpotifyまたはApple Music"
+    },
+    {
+      "locale": "zh",
+      "description": "音乐在分享时是最好的。通过MusicMatch，朋友们可以分享和打开音乐链接，即使他们使用不同的流媒体服务，如Spotify和Apple Music。",
+      "tagline": "在任何应用程序中打开音乐链接。Spotify或苹果音乐"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "音樂在分享時是最好的。通過MusicMatch，朋友們可以分享和打開音樂鏈接，即使他們使用不同的流媒體服務，如Spotify和Apple Music。",
+      "tagline": "在任何應用程序中打開音樂鏈接。Spotify或蘋果音樂"
+    }
+  ]
 }
