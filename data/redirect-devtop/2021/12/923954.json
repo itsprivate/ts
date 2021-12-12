@@ -52,5 +52,22 @@
   "original_created_at": "2021-12-11T22:36:59Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--x8CXDlB6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jzqhrujxqrbwij5hru9g.jpg",
   "author": "Kartik Grewal",
-  "author_url": "https://dev.to/kartik0709"
+  "author_url": "https://dev.to/kartik0709",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "異なるサービス間でのコミュニケーションには、統合が大きな役割を果たします。このガイドでは...",
+      "title": "Reactを使ったマーケティングダッシュボード(twitter & youtube)の作り方"
+    },
+    {
+      "locale": "zh",
+      "description": "整合在不同服务之间的沟通中发挥了巨大的作用。在本指南中，我们将建立...",
+      "title": "如何用React建立一个营销仪表板（twitter & youtube）？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "整合在不同服務之間的溝通中發揮了巨大的作用。在本指南中，我們將建立...",
+      "title": "如何用React建立一個營銷儀表板（twitter & youtube）？"
+    }
+  ]
 }

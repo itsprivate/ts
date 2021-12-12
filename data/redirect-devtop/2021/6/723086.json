@@ -52,5 +52,22 @@
   "original_created_at": "2021-06-09T14:41:59Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RxirdkgA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5w2u25vibm3t2iqr7ilu.png",
   "author": "Adit Modi",
-  "author_url": "https://dev.to/aditmodi"
+  "author_url": "https://dev.to/aditmodi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "AWSを利用することで、お客様はビジネスの俊敏性を高めるための環境を実現し、プロビジョニングし、運用することができます...",
+      "title": "AWSによるマネジメント、ガバナンス、マイグレーションの紹介 - パート1"
+    },
+    {
+      "locale": "zh",
+      "description": "通过AWS，客户可以启用、配置和运行他们的环境，以实现业务的敏捷性...",
+      "title": "使用AWS的管理、治理和迁移介绍 - 第一部分"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "通過AWS，客戶可以啓用、配置和運行他們的環境，以實現業務的敏捷性...",
+      "title": "使用AWS的管理、治理和遷移介紹 - 第一部分"
+    }
+  ]
 }

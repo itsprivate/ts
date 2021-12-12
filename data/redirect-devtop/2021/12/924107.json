@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-12T07:00:14Z",
   "image": "https://dev.to/social_previews/article/924107.png",
   "author": "Rohit Sharma",
-  "author_url": "https://dev.to/devrohit0"
+  "author_url": "https://dev.to/devrohit0",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さんこんにちは。この記事では、シンプルなCSS.... を使用して、ローディングアニメーションを作成します。",
+      "title": "CSSによるシンプルなローダアニメーション"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，在这篇文章中，我们将使用简单的CSS....，来创建加载动画。",
+      "title": "用CSS做简单的加载器动画"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，在這篇文章中，我們將使用簡單的CSS....，來創建加載動畫。",
+      "title": "用CSS做簡單的加載器動畫"
+    }
+  ]
 }
