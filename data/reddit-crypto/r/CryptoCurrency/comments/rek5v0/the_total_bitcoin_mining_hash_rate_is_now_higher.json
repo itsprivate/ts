@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインのマイニングハッシュレートの合計は、中国のマイナー禁止令以前よりも高くなっている"
+    },
+    {
+      "locale": "zh",
+      "title": "现在的比特币挖矿总哈希率比中国禁止矿工之前还要高"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "現在的比特幣挖礦總哈希率比中國禁止礦工之前還要高"
+    }
+  ]
 }

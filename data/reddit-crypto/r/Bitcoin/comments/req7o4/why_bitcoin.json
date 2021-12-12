@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "なぜビットコインなのか"
+    },
+    {
+      "locale": "zh",
+      "title": "为什么是比特币"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲什麼是比特幣"
+    }
+  ]
 }
