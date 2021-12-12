@@ -113,5 +113,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Sat Dec 11 18:30:07 +0000 2021"
+  "original_created_at": "Sat Dec 11 18:30:07 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "ホワイトハウスの声明によると、バイデン大統領は、5つの州を襲った竜巻の被害が最も大きかった地域に、連邦政府の資源を「直ちに投入する」よう指示しました。https://t.co/luBCqfCA3L"
+    },
+    {
+      "locale": "zh",
+      "full_text": "根据白宫的一份声明，拜登总统指示将联邦资源 \"立即涌向 \"受一夜之间横扫五个州的龙卷风影响最大的地区。https://t.co/luBCqfCA3L。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "根據白宮的一份聲明，拜登總統指示將聯邦資源 \"立即湧向 \"受一夜之間橫掃五個州的龍捲風影響最大的地區。https://t.co/luBCqfCA3L。"
+    }
+  ]
 }
