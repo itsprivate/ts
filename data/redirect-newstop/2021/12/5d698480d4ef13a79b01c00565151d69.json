@@ -14,5 +14,19 @@
   "tags": [
     "BBC News"
   ],
-  "image": "https://ichef.bbci.co.uk/news/1024/branded_news/147FE/production/_122066938_hi072468181.jpg"
+  "image": "https://ichef.bbci.co.uk/news/1024/branded_news/147FE/production/_122066938_hi072468181.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Covid社：Omicronの拡散により英国の警戒レベルを4に引き上げ"
+    },
+    {
+      "locale": "zh",
+      "title": "Covid：由于Omicron的扩散，英国的警报级别提高到四级"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Covid：由於Omicron的擴散，英國的警報級別提高到四級"
+    }
+  ]
 }
