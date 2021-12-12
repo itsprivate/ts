@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-11T14:16:23Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--D3B7FGnU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mzhbotgsy8q0eev9rkpt.png",
   "author": "Naveen Kamath",
-  "author_url": "https://dev.to/naveenkamath"
+  "author_url": "https://dev.to/naveenkamath",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Hello Readers, Keep Reading this Blog to know more about Closures .... これを見てください...",
+      "title": "JavaScriptのクロージャーとは？"
+    },
+    {
+      "locale": "zh",
+      "description": "读者朋友们，请继续阅读本博客，了解更多关于关闭的信息 .... 让我们来看看这个...",
+      "title": "什么是JavaScript中的闭包？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "讀者朋友們，請繼續閱讀本博客，瞭解更多關於關閉的信息 .... 讓我們來看看這個...",
+      "title": "什麼是JavaScript中的閉包？"
+    }
+  ]
 }
