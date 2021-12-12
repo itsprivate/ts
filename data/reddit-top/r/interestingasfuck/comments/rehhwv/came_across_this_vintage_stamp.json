@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このヴィンテージスタンプに出会いました。"
+    },
+    {
+      "locale": "zh",
+      "title": "遇到了这个古老的邮票。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "遇到了這個古老的郵票。"
+    }
+  ]
 }
