@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-12T22:33:22Z",
   "image": "https://dev.to/social_previews/article/924529.png",
   "author": "Pepper.",
-  "author_url": "https://dev.to/peppermints"
+  "author_url": "https://dev.to/peppermints",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "まず、新しいプロジェクトを作成します。 プロジェクトのフォルダにCDを入れて、npm initを実行します。その手順を、次のように実行します。",
+      "title": "Node.JSでMongoDBを使う"
+    },
+    {
+      "locale": "zh",
+      "description": "首先，创建一个新的项目。 CD进入项目文件夹，运行npm init。按照这些步骤，直到...",
+      "title": "在Node.JS中使用MongoDB"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "首先，創建一個新的項目。 CD進入項目文件夾，運行npm init。按照這些步驟，直到...",
+      "title": "在Node.JS中使用MongoDB"
+    }
+  ]
 }
