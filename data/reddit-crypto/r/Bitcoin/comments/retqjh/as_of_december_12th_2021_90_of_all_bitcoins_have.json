@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Stats according to bitbo.io</p> </div><!--\nSC_ON -->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Stats according to bitbo.io</p> </div><!--\nSC_ON -->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Stats according to bitbo.io</p> </div><!--\nSC_ON -->",
+      "title": "2021年12月12日現在、全ビットコインの90％が発行されています。まだ10％しか採掘されていません。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Stats according to bitbo.io</p> </div><!--\nSC_ON -->",
+      "title": "截至2021年12月12日，90%的比特币已经被发行。只有10%还没有被开采出来。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Stats according to bitbo.io</p> </div><!--\nSC_ON -->",
+      "title": "截至2021年12月12日，90%的比特幣已經被髮行。只有10%還沒有被開採出來。"
+    }
+  ]
 }
