@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの国では普通だけど、他の国では変だと思われるものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "有什么东西在你的国家是正常的，但在其他地方会被认为是奇怪的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有什麼東西在你的國家是正常的，但在其他地方會被認爲是奇怪的？"
+    }
+  ]
 }
