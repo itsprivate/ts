@@ -66,5 +66,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-12T08:01:00Z"
+  "original_createdAt": "2021-12-12T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Gitploy は、あなたのチームや組織が GitHub を中心としたデプロイメントシステムを数分で構築できるようにします。これで、デプロイメント・システムの構築にかかる時間を無駄にすることはありません。",
+      "tagline": "GitHubを中心としたデプロイメントシステムを数分で構築することができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "Gitploy使你的团队或组织在几分钟内围绕GitHub建立部署系统。现在，不要浪费时间来建立部署系统。",
+      "tagline": "在几分钟内围绕GitHub建立部署系统。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Gitploy使你的團隊或組織在幾分鐘內圍繞GitHub建立部署系統。現在，不要浪費時間來建立部署系統。",
+      "tagline": "在幾分鐘內圍繞GitHub建立部署系統。"
+    }
+  ]
 }
