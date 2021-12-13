@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "週末にタイピングゲームを作りました。タイピングの速さに応じて視覚的なフィードバックがあります。[コメント欄にリンク］"
+    },
+    {
+      "locale": "zh",
+      "title": "我在周末创建了一个打字游戏，根据打字速度进行视觉反馈。[链接在评论中] 。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我在週末創建了一個打字遊戲，根據打字速度進行視覺反饋。[鏈接在評論中] 。"
+    }
+  ]
 }
