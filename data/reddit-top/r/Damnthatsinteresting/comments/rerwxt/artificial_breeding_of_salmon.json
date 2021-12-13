@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "鮭の人工飼育"
+    },
+    {
+      "locale": "zh",
+      "title": "鲑鱼的人工繁育"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "鮭魚的人工繁育"
+    }
+  ]
 }
