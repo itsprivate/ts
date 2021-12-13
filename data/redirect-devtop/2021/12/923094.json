@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-10T17:02:38Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Mh8xsYc---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bxtx3wru3rgwmt1znoch.jpg",
   "author": "Harsh Choudhary",
-  "author_url": "https://dev.to/harshkc"
+  "author_url": "https://dev.to/harshkc",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "表紙の開発者は明らかに不機嫌そうだ。いやいや、これは何の関係もありません。",
+      "title": "Reactのカスタムフックをテストするためのクイックガイド"
+    },
+    {
+      "locale": "zh",
+      "description": "封面上的开发者显然看起来不高兴。不不，这与...",
+      "title": "测试自定义React Hooks的快速指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "封面上的開發者顯然看起來不高興。不不，這與...",
+      "title": "測試自定義React Hooks的快速指南"
+    }
+  ]
 }
