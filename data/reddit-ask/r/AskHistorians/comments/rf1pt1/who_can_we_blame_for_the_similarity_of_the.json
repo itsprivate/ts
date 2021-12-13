@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "大文字の \"I \"と小文字の \"l \"が似ているのは、誰のせいでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "我们能为大写字母 \"I \"和小写字母 \"l \"的相似性责备谁呢？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們能爲大寫字母 \"I \"和小寫字母 \"l \"的相似性責備誰呢？"
+    }
+  ]
 }
