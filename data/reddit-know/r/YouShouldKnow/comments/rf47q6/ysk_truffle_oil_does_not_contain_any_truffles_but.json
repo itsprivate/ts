@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Why YSK: Once upon a time, truffle oil was\njust oil infused with truffles. <a\nhref=\"https://en.m.wikipedia.org/wiki/Truffle_oil\">These days, it is oil infused\nwith 2,4-dithiapentane,</a> a hydrocarbon with a flavor that can best be\ndescribed as a parody of…"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Why YSK: Once upon a time, truffle oil was\njust oil infused with truffles. <a\nhref=\"https://en.m.wikipedia.org/wiki/Truffle_oil\">These days, it is oil infused\nwith 2,4-dithiapentane,</a> a hydrocarbon with a flavor that can best be\ndescribed as a parody of…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>なぜYSKなのか：その昔、トリュフオイルはトリュフを煎じただけのオイルでした。\nトリュフオイルとは、トリュフを使ったオイルのことです。<a\nhref=\"https://en.m.wikipedia.org/wiki/Truffle_oil\">最近では、2,4-ジチアペンタブルを注入したオイルです。\n最近では、2,4-ジチアペンタン</a>という炭化水素を使ったオイルです。\nのパロディと言っても過言ではありません。",
+      "title": "YSK: トリュフオイルは、トリュフが入っているわけではなく、化学薬品を使って香りをうまく模倣しています。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>为什么YSK: 很久以前，松露油是\n只是注入了松露的油。<a\nhref=\"https://en.m.wikipedia.org/wiki/Truffle_oil\">现在，它是注入了\n2,4-dithiapentane,</a>一种碳氢化合物，其味道可以最好地描述为\n可以被描述为对...",
+      "title": "YSK: 松露油并不含有任何松露，而是使用一种化学物质来拙劣地模仿松露的香气。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>爲什麼YSK: 很久以前，松露油是\n只是注入了松露的油。<a\nhref=\"https://en.m.wikipedia.org/wiki/Truffle_oil\">現在，它是注入了\n2,4-dithiapentane,</a>一種碳氫化合物，其味道可以最好地描述爲\n可以被描述爲對...",
+      "title": "YSK: 松露油並不含有任何松露，而是使用一種化學物質來拙劣地模仿松露的香氣。"
+    }
+  ]
 }
