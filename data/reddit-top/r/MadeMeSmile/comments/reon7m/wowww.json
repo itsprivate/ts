@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "わーい"
+    },
+    {
+      "locale": "zh",
+      "title": "哇哦"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "哇哦"
+    }
+  ]
 }
