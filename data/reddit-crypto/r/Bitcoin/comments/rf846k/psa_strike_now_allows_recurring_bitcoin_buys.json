@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "PSA: Strikeでは、1時間ごとのビットコイン購入も可能になりました - はい、1時間ごとです。"
+    },
+    {
+      "locale": "zh",
+      "title": "PSA: Strike现在允许重复购买比特币，包括每小时-是的每小时。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "PSA: Strike現在允許重複購買比特幣，包括每小時-是的每小時。"
+    }
+  ]
 }
