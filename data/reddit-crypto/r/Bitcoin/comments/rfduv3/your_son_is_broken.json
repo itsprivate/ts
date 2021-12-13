@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの息子は壊れている"
+    },
+    {
+      "locale": "zh",
+      "title": "你的儿子已经崩溃了"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你的兒子已經崩潰了"
+    }
+  ]
 }
