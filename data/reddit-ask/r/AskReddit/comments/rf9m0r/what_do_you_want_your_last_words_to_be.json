@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "自分の最後の言葉は何にしたいですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你希望你的遗言是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你希望你的遺言是什麼？"
+    }
+  ]
 }
