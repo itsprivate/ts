@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "キャンセルされた脳性麻痺"
+    },
+    {
+      "locale": "zh",
+      "title": "取消的脑瘫"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "取消的腦癱"
+    }
+  ]
 }
