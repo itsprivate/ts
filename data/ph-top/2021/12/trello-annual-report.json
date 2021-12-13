@@ -87,5 +87,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-13T08:01:00Z"
+  "original_createdAt": "2021-12-13T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今年のTrelloで何が起こったか知りたいですか？Say *Trello* to Your New Favorite Power-Up 😎 Fun & Free, the Trello Annual Report Power-Up is generated interesting stats and awards from your team's Trello activities over the past year",
+      "tagline": "Trelloでの年次に応じたチームの統計と表彰"
+    },
+    {
+      "locale": "zh",
+      "description": "想知道今年在Trello发生了什么吗？对你最喜欢的新功能说*Trello* 😎 Trello年度报告功能既有趣又免费，它能从你的团队过去一年的Trello活动中生成有趣的统计数据和奖项。",
+      "tagline": "根据你的团队在Trello中的年份，为他们提供统计资料和奖励"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "想知道今年在Trello發生了什麼嗎？對你最喜歡的新功能說*Trello* 😎 Trello年度報告功能既有趣又免費，它能從你的團隊過去一年的Trello活動中生成有趣的統計數據和獎項。",
+      "tagline": "根據你的團隊在Trello中的年份，爲他們提供統計資料和獎勵"
+    }
+  ]
 }
