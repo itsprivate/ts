@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "バーでよく飲むお酒は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你在酒吧里最常喝的饮料是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你在酒吧裏最常喝的飲料是什麼？"
+    }
+  ]
 }
