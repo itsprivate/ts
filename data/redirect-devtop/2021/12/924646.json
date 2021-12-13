@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-13T03:01:48Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3Jp0KetW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5zkd43dzeebl67w2d15s.jpg",
   "author": "Pankaj Kumar",
-  "author_url": "https://dev.to/pankajkumar"
+  "author_url": "https://dev.to/pankajkumar",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ブラウザ上で運営されているウェブサイトには、ユーザーのデータを保存するためのメモリがありません。ユーザーは...",
+      "title": "localStorageとsessionStorageの違い"
+    },
+    {
+      "locale": "zh",
+      "description": "托管在浏览器上的网站没有任何内存来存储用户的数据。一个用户...",
+      "title": "localStorage和sessionStorage的区别"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "託管在瀏覽器上的網站沒有任何內存來存儲用戶的數據。一個用戶...",
+      "title": "localStorage和sessionStorage的區別"
+    }
+  ]
 }
