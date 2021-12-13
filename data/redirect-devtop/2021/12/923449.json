@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-11T05:38:33Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8tWy_1tr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rjp8pqnqvkqdougfpyk7.png",
   "author": "Anil Seervi",
-  "author_url": "https://dev.to/anilseervi"
+  "author_url": "https://dev.to/anilseervi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "forEach()、map()、filter()などの配列メソッドは、高次の配列関数の一部であり、...",
+      "title": "高次の配列関数 forEach, map, filter"
+    },
+    {
+      "locale": "zh",
+      "description": "数组方法，如forEach()、map()和filter()是一些高阶数组函数。",
+      "title": "高阶数组函数 forEach, map 和 filter"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "數組方法，如forEach()、map()和filter()是一些高階數組函數。",
+      "title": "高階數組函數 forEach, map 和 filter"
+    }
+  ]
 }
