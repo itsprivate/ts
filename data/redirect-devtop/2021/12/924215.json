@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-12T11:04:44Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0go51YNc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ksdpwmmq3dhctzd30zar.jpg",
   "author": "Emmanuel Yusuf",
-  "author_url": "https://dev.to/emmanueloluwafemi"
+  "author_url": "https://dev.to/emmanueloluwafemi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近のプロジェクトでは、スピードメーターが機能部品の一つであることに気づきました。",
+      "title": "再利用可能な速度計コンポーネントの作成。"
+    },
+    {
+      "locale": "zh",
+      "description": "最近在一个项目上工作时，我注意到速度表是一个功能部件，...",
+      "title": "创建一个可重复使用的测速器组件。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "最近在一個項目上工作時，我注意到速度表是一個功能部件，...",
+      "title": "創建一個可重複使用的測速器組件。"
+    }
+  ]
 }
