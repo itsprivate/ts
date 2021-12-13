@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-13T11:09:56Z"
+  "original_createdAt": "2021-12-13T11:09:56Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あなたのGitHubでの活動を記録した、パーソナライズされたYear in Reviewビデオを入手してください。名前を入力すると、ダウンロードしたビデオがすぐに生成されます ハッシュタグ&nbsp;#GithubWrappedをつけて、ソーシャルメディアに投稿してください。",
+      "tagline": "GitHubユーザーのために用意されたスローバックビデオ"
+    },
+    {
+      "locale": "zh",
+      "description": "获取你的GitHub活动的个性化年度回顾视频。输入你的名字，一个下载的视频将立即生成! 使用标签&nbsp;#GithubWrapped在社交媒体上发布。",
+      "tagline": "为每个GitHub用户提供个性化的回放视频"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "獲取你的GitHub活動的個性化年度回顧視頻。輸入你的名字，一個下載的視頻將立即生成! 使用標籤&nbsp;#GithubWrapped在社交媒體上發佈。",
+      "tagline": "爲每個GitHub用戶提供個性化的回放視頻"
+    }
+  ]
 }
