@@ -50,5 +50,22 @@
   "original_created_at": "2021-12-11T20:11:54Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gQ6-ElGy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hcty97f2h410dz6rc1u1.png",
   "author": "Lucia Cerchie",
-  "author_url": "https://dev.to/cerchie"
+  "author_url": "https://dev.to/cerchie",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これは、ソフトウェア・エンジニア、メカニカル・エンジニア、そして......の3人に何が起こるかという物語です。",
+      "title": "我が家はコードチャレンジ🎁を解く"
+    },
+    {
+      "locale": "zh",
+      "description": "这是一个关于当你给一个软件工程师、一个机械工程师和一个工程师带来什么的故事。",
+      "title": "我的家庭解决了一个密码挑战 🎁"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是一個關於當你給一個軟件工程師、一個機械工程師和一個工程師帶來什麼的故事。",
+      "title": "我的家庭解決了一個密碼挑戰 🎁"
+    }
+  ]
 }
