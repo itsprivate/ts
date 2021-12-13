@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-12T15:08:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--N-dYZuyS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4xz8xe48bb368kruw4k6.png",
   "author": "CHP",
-  "author_url": "https://dev.to/chp"
+  "author_url": "https://dev.to/chp",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "GitHubのリポジトリは、プログラミングやリーダーシップのスキルを学ぶのに最適な方法です。長い目で見れば、It's a...",
+      "title": "開発者が知っておくべきGitHubリポジトリ"
+    },
+    {
+      "locale": "zh",
+      "description": "GitHub资源库是学习编程和领导技能的一种神奇方式。从长远来看，这也是一个很好的机会。",
+      "title": "GitHub存储库 开发者应该知道"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "GitHub資源庫是學習編程和領導技能的一種神奇方式。從長遠來看，這也是一個很好的機會。",
+      "title": "GitHub存儲庫 開發者應該知道"
+    }
+  ]
 }
