@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-11T16:57:29Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--m0cwHsxV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ck66s5zrgwue4emz64f5.jpeg",
   "author": "Mukund Madhav",
-  "author_url": "https://dev.to/mukundmadhav"
+  "author_url": "https://dev.to/mukundmadhav",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "12月11日にPOCを通じて発見されたLog4Jの脆弱性は、我々が知る限り最大の脆弱性の一つです。",
+      "title": "大規模なLog4jのJava脆弱性。どのようなもので、どのように修正するのか？"
+    },
+    {
+      "locale": "zh",
+      "description": "12月11日通过POC发现，Log4J的漏洞是我们最大的漏洞之一。",
+      "title": "大规模的Log4j Java漏洞。它是什么以及如何修复它？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "12月11日通過POC發現，Log4J的漏洞是我們最大的漏洞之一。",
+      "title": "大規模的Log4j Java漏洞。它是什麼以及如何修復它？"
+    }
+  ]
 }
