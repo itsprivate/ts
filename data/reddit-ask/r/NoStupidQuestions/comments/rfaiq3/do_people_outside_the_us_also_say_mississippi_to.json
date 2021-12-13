@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>One Mississippi, two Mississippi, three\nMississippi….</p> </div><!-- SC_ON -->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>One Mississippi, two Mississippi, three\nMississippi….</p> </div><!-- SC_ON -->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!--SC_OFF --><div class=\"md\"><p>1つのミシシッピ、2つのミシシッピ、3つのミシシッピ。\nMississippi….</p> </div><!-- SC_ON -->",
+      "title": "アメリカ以外の人も、1秒の時間を見積もるためにMississippiと言うのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>One Mississippi, two Mississippi, three\nMississippi….</p> </div><!-- SC_ON -->",
+      "title": "美国以外的人也说密西西比州估计一秒钟的时间吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>One Mississippi, two Mississippi, three\nMississippi….</p> </div><!-- SC_ON -->",
+      "title": "美國以外的人也說密西西比州估計一秒鐘的時間嗎？"
+    }
+  ]
 }
