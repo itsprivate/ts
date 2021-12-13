@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-12T08:15:04Z"
+  "original_createdAt": "2021-12-12T08:15:04Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Task Muncherは#EverydayHustleのAdam Ali氏によって開発されました。一週間のタスクをこなすことに集中してください。私たちのスマートでシンプルでパワフルなタスク管理アプリで、重要なことに優先順位をつけましょう。今すぐそれらのタスクをムシャムシャしましょう!",
+      "tagline": "タスクに集中するためのアプリです。"
+    },
+    {
+      "locale": "zh",
+      "description": "Task Muncher是由#EverydayHustle的Adam Ali开发的。保持激光聚焦于咀嚼你的每周任务。通过我们的智能、简单和强大的任务管理应用程序，对重要的事情进行优先排序。现在开始啃食这些任务吧！!",
+      "tagline": "一个帮助你保持激光专注于咀嚼你的任务的应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Task Muncher是由#EverydayHustle的Adam Ali開發的。保持激光聚焦於咀嚼你的每週任務。通過我們的智能、簡單和強大的任務管理應用程序，對重要的事情進行優先排序。現在開始啃食這些任務吧！!",
+      "tagline": "一個幫助你保持激光專注於咀嚼你的任務的應用程序"
+    }
+  ]
 }
