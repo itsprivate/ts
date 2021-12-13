@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Spotify Wrapped」のファンの方は、時系列のストリーミング履歴をダウンロードして、より詳細な分析ができます。ジャンルやムードはありませんが、再生したすべての曲をタイムスタンプとともに提供します。[OC]."
+    },
+    {
+      "locale": "zh",
+      "title": "对于Spotify Wrapped的粉丝，你可以下载你的按时间顺序排列的流媒体历史，以获得更详细的分析。没有流派或情绪，但他们提供每首播放的歌曲和时间戳。[OC]"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "對於Spotify Wrapped的粉絲，你可以下載你的按時間順序排列的流媒體歷史，以獲得更詳細的分析。沒有流派或情緒，但他們提供每首播放的歌曲和時間戳。[OC]"
+    }
+  ]
 }
