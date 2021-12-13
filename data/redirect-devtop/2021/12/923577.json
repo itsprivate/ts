@@ -52,5 +52,22 @@
   "original_created_at": "2021-12-11T10:54:55Z",
   "image": "https://dev.to/social_previews/article/923577.png",
   "author": "Alen Duda",
-  "author_url": "https://dev.to/aduda091"
+  "author_url": "https://dev.to/aduda091",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "フロントエンドの開発者であれば、遅かれ早かれ、以下のようなCORSエラーに遭遇するでしょう。",
+      "title": "カスタムプロキシバックエンドによるCORSの回避"
+    },
+    {
+      "locale": "zh",
+      "description": "作为一个前端开发者，你迟早会遇到一个CORS错误，类似...",
+      "title": "通过自定义代理后端绕过CORS"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "作爲一個前端開發者，你遲早會遇到一個CORS錯誤，類似...",
+      "title": "通過自定義代理後端繞過CORS"
+    }
+  ]
 }

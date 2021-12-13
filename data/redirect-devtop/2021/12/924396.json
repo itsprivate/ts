@@ -46,5 +46,22 @@
   "original_created_at": "2021-12-12T17:52:43Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bKVBnOvf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m8eddxbs3bd07m9rvqd1.png",
   "author": "Vicki (she/they)",
-  "author_url": "https://dev.to/vickilanger"
+  "author_url": "https://dev.to/vickilanger",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "もし、数学的な例を用いたコードについて読むことが苦痛であれば、このまま読み進めてください。この記事では...",
+      "title": "Pythonがマッチケースに切り替える"
+    },
+    {
+      "locale": "zh",
+      "description": "如果阅读有数学例子的代码是你的祸根，请继续阅读。这篇文章使用了...",
+      "title": "Python切换到匹配大小写"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果閱讀有數學例子的代碼是你的禍根，請繼續閱讀。這篇文章使用了...",
+      "title": "Python切換到匹配大小寫"
+    }
+  ]
 }
