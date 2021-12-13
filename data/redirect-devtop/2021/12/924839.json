@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-13T10:19:26Z",
   "image": "https://dev.to/social_previews/article/924839.png",
   "author": "javinpaul",
-  "author_url": "https://dev.to/javinpaul"
+  "author_url": "https://dev.to/javinpaul",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これらはPythonのデータ構造とアルゴリズムを学ぶのに最適なオンラインコースです。これらはPythonの必須データ構造をカバーするだけでなく、Pythonプログラミング言語で例が与えられています。",
+      "title": "Python開発者のための5つのベストデータ構造とアルゴリズムコース"
+    },
+    {
+      "locale": "zh",
+      "description": "这些是用Python学习数据结构和算法的最佳在线课程。这些课程不仅涵盖了基本的Python数据结构，而且还提供了Python编程语言的例子。",
+      "title": "5个最适合Python开发人员的数据结构和算法课程"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這些是用Python學習數據結構和算法的最佳在線課程。這些課程不僅涵蓋了基本的Python數據結構，而且還提供了Python編程語言的例子。",
+      "title": "5個最適合Python開發人員的數據結構和算法課程"
+    }
+  ]
 }
