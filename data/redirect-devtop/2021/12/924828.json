@@ -50,5 +50,22 @@
   "original_created_at": "2021-12-13T09:54:48Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--v0jcBSQ8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e22ak9jhn961suhvbsur.png",
   "author": "Sokaribo Senibo",
-  "author_url": "https://dev.to/sokaribosenibo"
+  "author_url": "https://dev.to/sokaribosenibo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "テクニカルライティングのキャリアをスタートさせることは、その膨大な量から挫折しがちなプロセスです。",
+      "title": "テクニカルライティングの基礎"
+    },
+    {
+      "locale": "zh",
+      "description": "在技术写作领域开始职业生涯可能是一个令人沮丧的过程，因为有大量的...",
+      "title": "技术写作的基础知识"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在技術寫作領域開始職業生涯可能是一個令人沮喪的過程，因爲有大量的...",
+      "title": "技術寫作的基礎知識"
+    }
+  ]
 }

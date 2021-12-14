@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-13T06:53:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--d9wa4uBp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t6ci7w7qelfhc463esnx.jpg",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Bootstrap 5フレームワークの上に作られたオープンソースのDjangoテンプレート（Pixel Lite, Material Kit, Soft UI）の厳選されたリスト。",
+      "title": "Bootstrap 5 - 無料のDjangoテンプレート"
+    },
+    {
+      "locale": "zh",
+      "description": "在Bootstrap 5框架上精心制作的开源Django模板列表--Pixel Lite、Material Kit、Soft UI。",
+      "title": "Bootstrap 5 - 免费Django模板"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在Bootstrap 5框架上精心製作的開源Django模板列表--Pixel Lite、Material Kit、Soft UI。",
+      "title": "Bootstrap 5 - 免費Django模板"
+    }
+  ]
 }
