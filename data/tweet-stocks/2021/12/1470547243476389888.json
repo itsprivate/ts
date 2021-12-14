@@ -134,5 +134,22 @@
     "retweet_count": 253,
     "favorite_count": 806,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @BritMartinez: 2008年の記事 https://t.co/8q3AIjZNnv",
+      "retweeted_status_full_text": "2008年の記事 https://t.co/8q3AIjZNnv"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @BritMartinez: 2008年的一篇文章https://t.co/8q3AIjZNnv",
+      "retweeted_status_full_text": "2008年的一篇文章https://t.co/8q3AIjZNnv"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @BritMartinez: 2008年的一篇文章https://t.co/8q3AIjZNnv",
+      "retweeted_status_full_text": "2008年的一篇文章https://t.co/8q3AIjZNnv"
+    }
+  ]
 }
