@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-13T15:53:40Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fkd5RBJJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aos2neuktj563eox38ag.jpg",
   "author": "Braydon Coyer",
-  "author_url": "https://dev.to/braydoncoyer"
+  "author_url": "https://dev.to/braydoncoyer",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これを読んでいるということは、私のブログフォリオが新しく生まれ変わったということです。私はとても興奮しています...",
+      "title": "新しいブログフォリオのご紹介"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你正在读这篇文章，这意味着我新改版的博客组合已经上线了 我很高兴...",
+      "title": "介绍我的新博客组合"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你正在讀這篇文章，這意味着我新改版的博客組合已經上線了 我很高興...",
+      "title": "介紹我的新博客組合"
+    }
+  ]
 }
