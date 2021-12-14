@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I know over a long period of time you can\ndevelop poison resistance from poisoning yourself constantly. How does this\napply to tazers?</p> </div><!-- SC_ON -->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I know over a long period of time you can\ndevelop poison resistance from poisoning yourself constantly. How does this\napply to tazers?</p> </div><!-- SC_ON -->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!--SC_OFF --><div class=\"md\"><p>長い時間をかけて、絶えず自分を毒することで、毒耐性ができることは知っています。\n絶えず自分を毒することで毒物耐性を身につけることができます。これは\n</p> </div><!-- SC_ON -->",
+      "title": "自分でテーザー銃を撃っても抵抗力があるのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>我知道在很长一段时间内，你可以通过不断地给自己下毒而产生抗毒能力。\n我知道在很长一段时间内，你会因为不断地给自己下毒而产生抗毒能力。这怎么会\napply to tazers?</p> </div><!-- SC_ON -->",
+      "title": "你能用电击器使自己对电击器有抵抗力吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>我知道在很長一段時間內，你可以通過不斷地給自己下毒而產生抗毒能力。\n我知道在很長一段時間內，你會因爲不斷地給自己下毒而產生抗毒能力。這怎麼會\napply to tazers?</p> </div><!-- SC_ON -->",
+      "title": "你能用電擊器使自己對電擊器有抵抗力嗎？"
+    }
+  ]
 }
