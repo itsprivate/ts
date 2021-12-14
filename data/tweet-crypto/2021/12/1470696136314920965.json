@@ -52,5 +52,22 @@
     },
     "retweet_count": 4677,
     "favorite_count": 17037
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @RedWingGrips: 75年間もデータを隠し続けてきたことほど、「科学を信頼する」という言葉はありません。",
+      "retweeted_status_full_text": "75年間もデータを隠蔽してきたことほど、「科学を信頼する」という言葉はありません。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @RedWingGrips: 没有什么比埋藏和隐藏数据75年更能说明 \"相信科学 \"了。",
+      "retweeted_status_full_text": "没有什么比把数据埋藏和隐藏75年更能说明 \"相信科学\"。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @RedWingGrips: 沒有什麼比埋藏和隱藏數據75年更能說明 \"相信科學 \"了。",
+      "retweeted_status_full_text": "沒有什麼比把數據埋藏和隱藏75年更能說明 \"相信科學\"。"
+    }
+  ]
 }
