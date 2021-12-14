@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "象は私の友人よりもユーモアのセンスがある"
+    },
+    {
+      "locale": "zh",
+      "title": "大象比我的朋友更有幽默感"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "大象比我的朋友更有幽默感"
+    }
+  ]
 }
