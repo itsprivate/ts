@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私が使っている、あるいは面白いと思っている優れた開発ツールをリストアップするウェブサイトを作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个网站，列出了我使用的或觉得有趣的超级开发工具。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個網站，列出了我使用的或覺得有趣的超級開發工具。"
+    }
+  ]
 }
