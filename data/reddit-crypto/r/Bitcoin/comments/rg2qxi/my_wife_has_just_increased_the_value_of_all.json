@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I had sent her 240 sats via Lightning to a\nmobile wallet to show her how great it is.</p> <p>Now she has deleted the app.\nAnd we had not saved the seed phrase.</p> <p>You&#39;re welcome.</p> </div><!--\nSC_ON -->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I had sent her 240 sats via Lightning to a\nmobile wallet to show her how great it is.</p> <p>Now she has deleted the app.\nAnd we had not saved the seed phrase.</p> <p>You&#39;re welcome.</p> </div><!--\nSC_ON -->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!--SC_OFF --><div class=\"md\"><p>私は彼女に240サットをライトニング経由でおサイフケータイに送っていました。\nmobile wallet to show her how great it is.</p> <p>Now she has deleted the app.\nAnd we had not saved the seed phrase.</p> <p>You&#39;re welcome.</p> </div><!--\nSC_ON -->",
+      "title": "私の妻は、すべてのビットコインの価値を高めました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>我曾通过闪电向她发送了240个sats到一个移动钱包。\nmobile wallet to show her how great it is.</p> <p>Now she has deleted the app.\nAnd we had not saved the seed phrase.</p> <p>You&#39;re welcome.</p> </div><!--\nSC_ON -->",
+      "title": "我的妻子刚刚增加了所有比特币的价值"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>我曾通過閃電向她發送了240個sats到一個移動錢包。\nmobile wallet to show her how great it is.</p> <p>Now she has deleted the app.\nAnd we had not saved the seed phrase.</p> <p>You&#39;re welcome.</p> </div><!--\nSC_ON -->",
+      "title": "我的妻子剛剛增加了所有比特幣的價值"
+    }
+  ]
 }
