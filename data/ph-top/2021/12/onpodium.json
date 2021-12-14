@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-14T08:14:06Z"
+  "original_createdAt": "2021-12-14T08:14:06Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これは、昨年立ち上げた私の前プロジェクト「Podsite」の後継プロジェクトです。既存のお客様からいただいたフィードバックに従って、OnPodiumを常に改良しています。",
+      "tagline": "リスナーを惹きつけ、増やすためのポッドキャストWebサイト"
+    },
+    {
+      "locale": "zh",
+      "description": "这是我去年推出的Podsite项目的继承者。我们正在根据现有客户的反馈，不断改进OnPodium。",
+      "tagline": "播客网站，吸引并扩大你的听众群"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是我去年推出的Podsite項目的繼承者。我們正在根據現有客戶的反饋，不斷改進OnPodium。",
+      "tagline": "播客網站，吸引並擴大你的聽衆羣"
+    }
+  ]
 }
