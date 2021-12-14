@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビールをたくさん飲むとどうなるのですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你喝了很多啤酒会怎样？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你喝了很多啤酒會怎樣？"
+    }
+  ]
 }
