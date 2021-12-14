@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-10T15:05:41Z",
   "image": "https://dev.to/social_previews/article/922882.png",
   "author": "Grant McNamara",
-  "author_url": "https://dev.to/grantrocks"
+  "author_url": "https://dev.to/grantrocks",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ウェブブラウザに拡張機能をインストールしたことはありますか？広告ブロッカー、ゲーム、ツール？ほぼ確実に...",
+      "title": "EdgeやChromeの拡張機能の作り方"
+    },
+    {
+      "locale": "zh",
+      "description": "有没有在你的网络浏览器上安装过一个扩展。一个广告拦截器，一个游戏，一个工具？它几乎可以保证...",
+      "title": "如何为Edge或Chrome制作一个扩展"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有沒有在你的網絡瀏覽器上安裝過一個擴展。一個廣告攔截器，一個遊戲，一個工具？它幾乎可以保證...",
+      "title": "如何爲Edge或Chrome製作一個擴展"
+    }
+  ]
 }
