@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-13T10:50:59Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--x1cX2BPA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f0parj3t9jmez2b0697h.png",
   "author": "David Whitney",
-  "author_url": "https://dev.to/david_whitney"
+  "author_url": "https://dev.to/david_whitney",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コンバインなタイトル。  うまくいくタイトルがないんです。 恐ろしくて、難しくて、、、。",
+      "title": "オープンソースエクスプロイト"
+    },
+    {
+      "locale": "zh",
+      "description": "组合式的标题。  我没有一个合适的标题。 它是可怕的，它是困难的，...",
+      "title": "开放源代码的利用"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "組合式的標題。  我沒有一個合適的標題。 它是可怕的，它是困難的，...",
+      "title": "開放源代碼的利用"
+    }
+  ]
 }
