@@ -133,5 +133,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-14T08:01:00Z"
+  "original_createdAt": "2021-12-14T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "NativeBase Startup+は、レスポンシブで、アクセシブルで、ダークモードに対応した、制作に適した100以上のReact Nativeスクリーンをモバイルとウェブ向けにバンドルしたものです。NativeBase v3の信頼を頼りに、これらのテーマ性の高いスクリーンを使って、次の夢のプロジェクトを構築しましょう。",
+      "tagline": "100以上のレスポンシブなReact Nativeスクリーンをウェブ＆モバイルに提供"
+    },
+    {
+      "locale": "zh",
+      "description": "NativeBase Startup+是一个由100多个响应性的、可访问的、支持黑暗模式的、可生产的React Native屏幕组成的捆绑包，用于移动和网络。依靠NativeBase v3的信任，使用这些高度主题化的屏幕来构建你的下一个梦想项目。",
+      "tagline": "100多个用于网页和手机的响应式React Native屏幕"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "NativeBase Startup+是一個由100多個響應性的、可訪問的、支持黑暗模式的、可生產的React Native屏幕組成的捆綁包，用於移動和網絡。依靠NativeBase v3的信任，使用這些高度主題化的屏幕來構建你的下一個夢想項目。",
+      "tagline": "100多個用於網頁和手機的響應式React Native屏幕"
+    }
+  ]
 }
