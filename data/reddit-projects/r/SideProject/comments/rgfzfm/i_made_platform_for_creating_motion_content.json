@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "モーションコンテンツを作るためのプラットフォームを作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了创建运动内容的平台。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了創建運動內容的平臺。"
+    }
+  ]
 }
