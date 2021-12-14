@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "最近、自分自身について気づいた不快なことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你最近对自己有什么不舒服的认识？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你最近對自己有什麼不舒服的認識？"
+    }
+  ]
 }
