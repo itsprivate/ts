@@ -121,5 +121,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "海面水温[OC]の過去30日分"
+    },
+    {
+      "locale": "zh",
+      "title": "过去30天的海面温度[OC]"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "過去30天的海面溫度[OC]"
+    }
+  ]
 }
