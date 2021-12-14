@@ -35,5 +35,22 @@
   "original_created_at": "2021-12-13T09:24:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--egHCGa80--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://res.cloudinary.com/dkfptto8m/image/upload/v1639387825/blog/Frame_43.png",
   "author": "victory",
-  "author_url": "https://dev.to/vickywane"
+  "author_url": "https://dev.to/vickywane",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Svelteをストアフロント、Medusaをコマースエンジンとして使用したeコマースストアのセットアップ方法をご紹介します。",
+      "title": "SvelteとMedusaでモダンなeコマースを構築"
+    },
+    {
+      "locale": "zh",
+      "description": "如何用Svelte作为店面和Medusa作为商务引擎建立一个电子商务商店的操作指南。",
+      "title": "用Svelte和Medusa建立现代电子商务"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如何用Svelte作爲店面和Medusa作爲商務引擎建立一個電子商務商店的操作指南。",
+      "title": "用Svelte和Medusa建立現代電子商務"
+    }
+  ]
 }
