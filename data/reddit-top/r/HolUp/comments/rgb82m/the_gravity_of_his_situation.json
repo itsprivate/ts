@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼の置かれた状況の深刻さ"
+    },
+    {
+      "locale": "zh",
+      "title": "他情况的严重性"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他情況的嚴重性"
+    }
+  ]
 }
