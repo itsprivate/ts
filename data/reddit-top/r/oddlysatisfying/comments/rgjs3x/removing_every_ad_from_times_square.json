@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "タイムズスクエアからすべての広告を撤去"
+    },
+    {
+      "locale": "zh",
+      "title": "删除时代广场上的每一个广告"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "刪除時代廣場上的每一個廣告"
+    }
+  ]
 }
