@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Hey guys,</p> <p>I was thinking of creating a\nchrome extension that will let you type emojis just like you do on Discord,\nSlack, or Github.</p> <p>An example is typing :smile: and having it bring up the\nemoji </p> <p>&#x200B;</p>…"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Hey guys,</p> <p>I was thinking of creating a\nchrome extension that will let you type emojis just like you do on Discord,\nSlack, or Github.</p> <p>An example is typing :smile: and having it bring up the\nemoji </p> <p>&#x200B;</p>…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Hey guys,</p> <p>この度、私は、この「asahi!\nクロームの拡張機能で、Discordで行うように絵文字を入力することができます。\nSlack, or Github.</p> <p>An example is typing :smile: and having it bring up the\nemoji </p> <p>&#x200B;</p>…",
+      "title": "どうでしょうか？作るべきですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>大家好，</p> <p>我在考虑创建一个\nchrome extension that will let you type emojis just like you do on Discord,\nSlack, or Github.</p> <p>An example is typing :smile: and having it bring up the\nemoji </p> <p>&#x200B;</p>…",
+      "title": "你怎么看？我应该创建一个吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>大家好，</p> <p>我在考慮創建一個\nchrome extension that will let you type emojis just like you do on Discord,\nSlack, or Github.</p> <p>An example is typing :smile: and having it bring up the\nemoji </p> <p>&#x200B;</p>…",
+      "title": "你怎麼看？我應該創建一個嗎？"
+    }
+  ]
 }
