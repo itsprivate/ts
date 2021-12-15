@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p><strong>What is it?</strong> A browser\nextension to take notes on websites. It&#39;s a bit bare bones at the moment,\nbut has the basics. You can create sticky notes on a website that will reappear\non subsequent visits. There&#39;s also a list and search view with…"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p><strong>What is it?</strong> A browser\nextension to take notes on websites. It&#39;s a bit bare bones at the moment,\nbut has the basics. You can create sticky notes on a website that will reappear\non subsequent visits. There&#39;s also a list and search view with…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p><strong>What is it?</strong> ブラウザの一つです。\nWebサイトのメモを取るための拡張機能です。今のところ、ちょっと骨っぽい。\nが、基本的なものは揃っています。ウェブサイト上に付箋を作成し、それを再表示させることができます。\nを表示します。また、リスト表示や検索表示も可能で、...",
+      "title": "WebStickiesです。インターネット上でメモを取るためのブラウザ拡張機能を作ってみました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p><strong>什么是？</strong>一个浏览器\n在网站上做笔记的扩展。目前，它还有点简陋。\n但它有基本的功能。你可以在一个网站上创建便签，并在以后的访问中重新出现\n在随后的访问中重新出现。还有一个列表和搜索视图。",
+      "title": "WebStickies。我做了一个浏览器扩展，用于在互联网上做笔记。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p><strong>什麼是？</strong>一個瀏覽器\n在網站上做筆記的擴展。目前，它還有點簡陋。\n但它有基本的功能。你可以在一個網站上創建便籤，並在以後的訪問中重新出現\n在隨後的訪問中重新出現。還有一個列表和搜索視圖。",
+      "title": "WebStickies。我做了一個瀏覽器擴展，用於在互聯網上做筆記。"
+    }
+  ]
 }
