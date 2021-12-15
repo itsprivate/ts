@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これは本当にひどい"
+    },
+    {
+      "locale": "zh",
+      "title": "这真的是太可怕了"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這真的是太可怕了"
+    }
+  ]
 }

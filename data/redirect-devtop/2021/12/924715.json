@@ -50,5 +50,22 @@
   "original_created_at": "2021-12-13T05:43:39Z",
   "image": "https://dev.to/social_previews/article/924715.png",
   "author": "Christine Shu",
-  "author_url": "https://dev.to/christineshu"
+  "author_url": "https://dev.to/christineshu",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あなたは、自分が詐欺師であることを同僚に知られるかもしれない...という計り知れない恐怖と疑念を感じたことがありますか？",
+      "title": "プログラマーインポスター症候群とは何か、どうすれば克服できるのか"
+    },
+    {
+      "locale": "zh",
+      "description": "你是否曾经感到巨大的恐惧和怀疑，担心你的同事可能会发现你只是一个骗子？",
+      "title": "什么是程序员冒名顶替综合症以及如何克服它"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你是否曾經感到巨大的恐懼和懷疑，擔心你的同事可能會發現你只是一個騙子？",
+      "title": "什麼是程序員冒名頂替綜合症以及如何克服它"
+    }
+  ]
 }
