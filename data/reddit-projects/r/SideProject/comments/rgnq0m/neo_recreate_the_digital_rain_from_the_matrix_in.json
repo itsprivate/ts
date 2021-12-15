@@ -91,5 +91,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "neo - 「マトリックス」のデジタルレインを32ビットカラーとユニコードで端末に再現。"
+    },
+    {
+      "locale": "zh",
+      "title": "neo - 在你的终端上用32位颜色和Unicode重现《黑客帝国》中的数字雨。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "neo - 在你的終端上用32位顏色和Unicode重現《黑客帝國》中的數字雨。"
+    }
+  ]
 }
