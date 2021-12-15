@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-13T06:00:38Z",
   "image": "https://dev.to/social_previews/article/924729.png",
   "author": "Jamund Ferguson",
-  "author_url": "https://dev.to/xjamundx"
+  "author_url": "https://dev.to/xjamundx",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私がこれまで経験した中で、最もコストパフォーマンスに優れていたのは、2本のラインを削除したことです。",
+      "title": "ウェブサイトパフォーマンスを高速化するクールなトリック(Not Really)"
+    },
+    {
+      "locale": "zh",
+      "description": "我曾经有过的真正最大的物有所值的性能影响是去除两行的...",
+      "title": "加快你的网站性能的一个很酷的技巧（不是真的）"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我曾經有過的真正最大的物有所值的性能影響是去除兩行的...",
+      "title": "加快你的網站性能的一個很酷的技巧（不是真的）"
+    }
+  ]
 }
