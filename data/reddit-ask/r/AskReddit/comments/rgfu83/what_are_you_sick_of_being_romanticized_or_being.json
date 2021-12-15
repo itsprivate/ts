@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ロマンチックに描かれたり、ポジティブに描かれたりすることにうんざりしているのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你对被浪漫化或被正面描绘的东西感到厌恶吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你對被浪漫化或被正面描繪的東西感到厭惡嗎？"
+    }
+  ]
 }
