@@ -52,5 +52,22 @@
   "original_created_at": "2021-11-04T08:15:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--eHSiF9qN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qkj7bco6fcj8ia2y4ds2.jpg",
   "author": "Adit Modi",
-  "author_url": "https://dev.to/aditmodi"
+  "author_url": "https://dev.to/aditmodi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あらゆる規模の組織において、データは、その増加および...",
+      "title": "データメッシュの紹介"
+    },
+    {
+      "locale": "zh",
+      "description": "各种规模的组织都已认识到，数据是增加和提高的关键因素之一。",
+      "title": "数据网格简介"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "各種規模的組織都已認識到，數據是增加和提高的關鍵因素之一。",
+      "title": "數據網格簡介"
+    }
+  ]
 }

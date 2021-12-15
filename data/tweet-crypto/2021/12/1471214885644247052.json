@@ -52,5 +52,22 @@
     },
     "retweet_count": 540,
     "favorite_count": 2778
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @DeItaone: パウエル：暗号通貨を金融安定化の懸念と見なさないでください。",
+      "retweeted_status_full_text": "パウエル：暗号通貨を金融安定の懸念材料と見なさないでください。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @DeItaone: 鲍威尔：不认为加密货币是一个金融稳定问题",
+      "retweeted_status_full_text": "鲍威尔：不认为加密货币是一个金融稳定问题"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @DeItaone: 鮑威爾：不認爲加密貨幣是一個金融穩定問題",
+      "retweeted_status_full_text": "鮑威爾：不認爲加密貨幣是一個金融穩定問題"
+    }
+  ]
 }

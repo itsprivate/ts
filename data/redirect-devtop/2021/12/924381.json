@@ -50,5 +50,22 @@
   "original_created_at": "2021-12-12T17:17:29Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6G2s9M8n--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wmiomqpq1bhht77nfc09.png",
   "author": "Evertson Croes",
-  "author_url": "https://dev.to/evertsoncroes"
+  "author_url": "https://dev.to/evertsoncroes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ソフトウェア開発の方法は、私たちを取り巻く世界とともに、急速に、そしてますます変化しています。そのひとつが...",
+      "title": "アンプリファイシリーズ、第1弾。AWS Amplifyとは？"
+    },
+    {
+      "locale": "zh",
+      "description": "我们开发软件的方式正随着我们周围的世界迅速地、越来越多地发生变化。其中一个原因是，我们在开发软件的过程中会遇到很多困难。",
+      "title": "扩增系列，第一部分。什么是AWS Amplify？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們開發軟件的方式正隨着我們周圍的世界迅速地、越來越多地發生變化。其中一個原因是，我們在開發軟件的過程中會遇到很多困難。",
+      "title": "擴增系列，第一部分。什麼是AWS Amplify？"
+    }
+  ]
 }
