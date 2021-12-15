@@ -43,5 +43,22 @@
   "original_created_at": "2021-12-13T20:22:42Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_k1GRyKc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tryciic0ci55dahlr445.png",
   "author": "Ali Spittel",
-  "author_url": "https://dev.to/aspittel"
+  "author_url": "https://dev.to/aspittel",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "アンプリファイ・スタジオとは？  私のキャリアの中で最もエキサイティングなプロジェクトの1つであるAWS...",
+      "title": "Amplify Studioでバケーションレンタルサイトを構築する"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是Amplify Studio？  这是我职业生涯中最激动人心的项目之一，AWS...",
+      "title": "用Amplify Studio建立一个度假租赁网站"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是Amplify Studio？  這是我職業生涯中最激動人心的項目之一，AWS...",
+      "title": "用Amplify Studio建立一個度假租賃網站"
+    }
+  ]
 }
