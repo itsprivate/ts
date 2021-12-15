@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-13T20:51:38Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--csepUpKP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eeqgo20p6k4lip14kp9x.jpg",
   "author": "Michael Bromley",
-  "author_url": "https://dev.to/michlbrmly"
+  "author_url": "https://dev.to/michlbrmly",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Vendureは、TypeScriptで書かれたモダンなヘッドレスEコマースフレームワークであり、...",
+      "title": "Vendureで10分以内にNode.jsのeコマースアプリをセットアップする"
+    },
+    {
+      "locale": "zh",
+      "description": "Vendure是一个用TypeScript编写的现代无头电子商务框架，并在其基础上构建。",
+      "title": "用Vendure在10分钟内建立一个Node.js电子商务应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Vendure是一個用TypeScript編寫的現代無頭電子商務框架，並在其基礎上構建。",
+      "title": "用Vendure在10分鐘內建立一個Node.js電子商務應用程序"
+    }
+  ]
 }

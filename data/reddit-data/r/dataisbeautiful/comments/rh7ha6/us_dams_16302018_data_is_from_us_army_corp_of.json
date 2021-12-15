@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "米国のダム1630-2018。データは、米国陸軍工兵隊のダム全国目録より。[OC] Esri ArcGIS Pro と Adobe Photoshop ソフトウェアを使用して構築されています。"
+    },
+    {
+      "locale": "zh",
+      "title": "美国大坝1630-2018。数据来自美国陆军工程兵团国家大坝目录。[OC] 在Esri ArcGIS Pro和Adobe Photoshop软件中构建。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "美國大壩1630-2018。數據來自美國陸軍工程兵團國家大壩目錄。[OC] 在Esri ArcGIS Pro和Adobe Photoshop軟件中構建。"
+    }
+  ]
 }

@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私はDevTunes FMを作りました：28のステーションと約13kのトラックを持つオンラインラジオです 📻🎵。"
+    },
+    {
+      "locale": "zh",
+      "title": "我创建了DevTunes FM：一个拥有28个电台和大约13000首歌曲的在线电台 📻🎵。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我創建了DevTunes FM：一個擁有28個電臺和大約13000首歌曲的在線電臺 📻🎵。"
+    }
+  ]
 }

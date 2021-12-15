@@ -43,5 +43,22 @@
   "original_created_at": "2021-12-13T00:03:36Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zjEDk4vg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/51yh3bscs66uegg5f3t1.png",
   "author": "Guilherme dos Reis Meira",
-  "author_url": "https://dev.to/kindsloth"
+  "author_url": "https://dev.to/kindsloth",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "モナドは1960年に数学者によって作られ、1990年にコンピュータ科学者によって再認識された...",
+      "title": "モナドの簡単な使い方"
+    },
+    {
+      "locale": "zh",
+      "description": "单体是由数学家在1960年创造的，1990年被计算机科学家重新发现，作为一种...",
+      "title": "单体的简单方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "單體是由數學家在1960年創造的，1990年被計算機科學家重新發現，作爲一種...",
+      "title": "單體的簡單方法"
+    }
+  ]
 }

@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ランディングページのデザインを、できるだけプロらしくないものに作り直しました"
+    },
+    {
+      "locale": "zh",
+      "title": "我重新设计了我的登陆页面，使之尽可能地不专业!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我重新設計了我的登陸頁面，使之儘可能地不專業!"
+    }
+  ]
 }
