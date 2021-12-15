@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-03T16:56:03Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OygfGGd---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gs6i54ah41dlrpxa8r6k.jpeg",
   "author": "Michael Mangialardi",
-  "author_url": "https://dev.to/michaelmangial1"
+  "author_url": "https://dev.to/michaelmangial1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事はいったい何なのか？  というところから始めるとわかりやすいかもしれません。",
+      "title": "プロのJavaScript開発者のための34のヒント"
+    },
+    {
+      "locale": "zh",
+      "description": "这篇文章是关于什么的？  说它是什么可能更容易开始。",
+      "title": "给专业JavaScript开发者的34个提示"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這篇文章是關於什麼的？  說它是什麼可能更容易開始。",
+      "title": "給專業JavaScript開發者的34個提示"
+    }
+  ]
 }
