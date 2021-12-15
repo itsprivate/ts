@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-14T16:55:24Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--H7ifINUG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zpsckl53ynytogr8qvw6.png",
   "author": "Sadee",
-  "author_url": "https://dev.to/codewithsadee"
+  "author_url": "https://dev.to/codewithsadee",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Eコマースサイトのhtml、css、javascriptのための応答性の高いショッピングカートの作り方。",
+      "title": "どのようにeコマースサイトのHTML CSS JSの応答性のショッピングカートを作成する。"
+    },
+    {
+      "locale": "zh",
+      "description": "如何为电子商务网站制作响应式购物车html css javascript。创建一个购物车。",
+      "title": "如何为电子商务网站创建响应式购物车 HTML CSS JS"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如何爲電子商務網站製作響應式購物車html css javascript。創建一個購物車。",
+      "title": "如何爲電子商務網站創建響應式購物車 HTML CSS JS"
+    }
+  ]
 }
