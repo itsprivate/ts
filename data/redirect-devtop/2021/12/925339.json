@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-13T16:43:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--57W_T40F--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xb84d87u93rlw72jpknk.png",
   "author": "Chaoo Charles",
-  "author_url": "https://dev.to/chaoocharles"
+  "author_url": "https://dev.to/chaoocharles",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この講座では、Reactを使って自分のポートフォリオサイトをどのように刷新し、どのようにスタイリングしたかを紹介します。",
+      "title": "ReactとStyled Componentsを使ったレスポンシブポートフォリオの構築とデプロイメント💅。"
+    },
+    {
+      "locale": "zh",
+      "description": "在这个课程中，我将向你展示我如何使用React改造我的投资组合网站，并对其进行风格化。",
+      "title": "使用React和Styled组件构建和部署响应式组合 💅"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這個課程中，我將向你展示我如何使用React改造我的投資組合網站，並對其進行風格化。",
+      "title": "使用React和Styled組件構建和部署響應式組合 💅"
+    }
+  ]
 }
