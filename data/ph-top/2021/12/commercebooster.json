@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-15T10:01:00Z"
+  "original_createdAt": "2021-12-15T10:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CommerceBoosterは、B2B eコマースのための初のオープンソース、UIテンプレートです。Figma Communityで無料で公開されており、commercytoolsとVue Storefrontに最適化されています。B2Bのeコマースプロジェクトを始める人にとって、文字通り数ヶ月の作業を軽減することができます。",
+      "tagline": "eコマースのためのオープンソースB2B UIテンプレート"
+    },
+    {
+      "locale": "zh",
+      "description": "CommerceBooster是第一个开源的B2B电子商务的UI模板。它可以在Figma社区免费使用，并针对commercetools和Vue Storefront进行了优化。它实际上为任何开始B2B电子商务项目的人节省了几个月的工作。",
+      "tagline": "一个用于电子商务的开源B2B UI模板"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "CommerceBooster是第一個開源的B2B電子商務的UI模板。它可以在Figma社區免費使用，並針對commercetools和Vue Storefront進行了優化。它實際上爲任何開始B2B電子商務項目的人節省了幾個月的工作。",
+      "tagline": "一個用於電子商務的開源B2B UI模板"
+    }
+  ]
 }

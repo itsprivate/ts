@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-14T16:14:24Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VyNSOwRN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qxtg1mnhotudqfynbxpu.png",
   "author": "Amrin",
-  "author_url": "https://dev.to/coderamrin"
+  "author_url": "https://dev.to/coderamrin",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私たちが作るCSSプロジェクトでは、レスポンシブ・ナビゲーションバーは必須アイテムです。 そこで、本日は",
+      "title": "HTML、CSS、Javascriptを使ったレスポンシブ・ナビゲーション・バー"
+    },
+    {
+      "locale": "zh",
+      "description": "对于我们建立的每一个CSS项目，响应式导航栏是必须的。 所以，今天我们将...",
+      "title": "使用HTML、CSS和Javascript的响应式导航条"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "對於我們建立的每一個CSS項目，響應式導航欄是必須的。 所以，今天我們將...",
+      "title": "使用HTML、CSS和Javascript的響應式導航條"
+    }
+  ]
 }
