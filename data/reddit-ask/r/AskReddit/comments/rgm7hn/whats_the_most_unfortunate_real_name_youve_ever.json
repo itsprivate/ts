@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今までで一番残念な本名を教えてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "你听过的最不幸的真实名字是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你聽過的最不幸的真實名字是什麼？"
+    }
+  ]
 }
