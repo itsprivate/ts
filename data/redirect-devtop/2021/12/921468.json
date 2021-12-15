@@ -52,5 +52,22 @@
   "original_created_at": "2021-12-09T01:23:27Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--F0FkmmIF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jaditwghjok3f2ard82p.jpg",
   "author": "Ryan Carniato",
-  "author_url": "https://dev.to/ryansolid"
+  "author_url": "https://dev.to/ryansolid",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、ある方から \"一般的な意味でのサスペンスとは何か？\"と連絡をいただきました。彼らが言うには、すべて...",
+      "title": "なぜサスペンスなのか？JavaScriptフレームワークにおける非同期一貫性を理解する"
+    },
+    {
+      "locale": "zh",
+      "description": "最近有人主动问我：\"一般意义上的悬疑是什么？\" 他们说所有...",
+      "title": "为什么有这么多悬念？理解JavaScript框架中的异步连贯性"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "最近有人主動問我：\"一般意義上的懸疑是什麼？\" 他們說所有...",
+      "title": "爲什麼有這麼多懸念？理解JavaScript框架中的異步連貫性"
+    }
+  ]
 }
