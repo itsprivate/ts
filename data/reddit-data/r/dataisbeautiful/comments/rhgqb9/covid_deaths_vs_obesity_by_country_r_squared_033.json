@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "国別COVID死亡数 vs 肥満度（R2乗=0.33）[OC]の推移"
+    },
+    {
+      "locale": "zh",
+      "title": "各国COVID死亡人数与肥胖人数对比（R平方=0.33）[OC]。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "各國COVID死亡人數與肥胖人數對比（R平方=0.33）[OC]。"
+    }
+  ]
 }
