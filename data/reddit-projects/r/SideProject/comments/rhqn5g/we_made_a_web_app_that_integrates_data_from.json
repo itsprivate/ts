@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "複数のソースからのデータを統合し、レポーティングを自動化するWebアプリを作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我们做了一个网络应用，整合了来自多个来源的数据，并使报告自动化。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們做了一個網絡應用，整合了來自多個來源的數據，並使報告自動化。"
+    }
+  ]
 }
