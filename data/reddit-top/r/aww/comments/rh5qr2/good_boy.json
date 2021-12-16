@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "いい子"
+    },
+    {
+      "locale": "zh",
+      "title": "好孩子"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "好孩子"
+    }
+  ]
 }
