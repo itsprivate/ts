@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "父は曲芸師。彼の娘は彼の才能の遺伝子をすべて受け継いだ。"
+    },
+    {
+      "locale": "zh",
+      "title": "父亲是一名杂技演员。他的女儿继承了他所有的天赋基因。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "父親是一名雜技演員。他的女兒繼承了他所有的天賦基因。"
+    }
+  ]
 }

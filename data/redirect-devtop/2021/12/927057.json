@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-15T10:00:59Z",
   "image": "https://dev.to/social_previews/article/927057.png",
   "author": "Patryk Jeziorowski",
-  "author_url": "https://dev.to/pjeziorowski"
+  "author_url": "https://dev.to/pjeziorowski",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに クラウド上でアプリケーションを無人で展開することを夢見たことはありませんか？",
+      "title": "AWS上のNextJS、NodeJS、MongoDBの超高速プレビュー環境"
+    },
+    {
+      "locale": "zh",
+      "description": "简介：你是否曾梦想过在没有任何限制的情况下将你的应用程序部署在云端？",
+      "title": "为AWS上的NextJS、NodeJS和MongoDB提供极快的预览环境"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介：你是否曾夢想過在沒有任何限制的情況下將你的應用程序部署在雲端？",
+      "title": "爲AWS上的NextJS、NodeJS和MongoDB提供極快的預覽環境"
+    }
+  ]
 }
