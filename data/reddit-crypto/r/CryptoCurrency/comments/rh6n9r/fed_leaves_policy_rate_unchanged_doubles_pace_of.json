@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "FRBは政策金利を据え置き、債券のテーパリングを1月中旬から2倍のペースで実施"
+    },
+    {
+      "locale": "zh",
+      "title": "美联储维持政策利率不变，从1月中旬起将缩减债券的步伐加倍"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "美聯儲維持政策利率不變，從1月中旬起將縮減債券的步伐加倍"
+    }
+  ]
 }
