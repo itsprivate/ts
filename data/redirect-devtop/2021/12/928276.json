@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-16T13:44:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KlqLgFky--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vuk7p8sh2q9788rxgdvh.png",
   "author": "Modern Web",
-  "author_url": "https://dev.to/kunaal438"
+  "author_url": "https://dev.to/kunaal438",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "初心者の方も、プロの方も。このブログは、自分のポートフォリオを作りたいすべての人のためのものです。",
+      "title": "HTML、CSS、JSを使用した素晴らしいポートフォリオサイト 🔥🤯 です。"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你是一个初学者或专业人员。这个博客是为每一个想让他/她的作品集成为经典的人准备的。",
+      "title": "🔥🤯 惊人的组合网站，使用HTML、CSS和JS。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你是一個初學者或專業人員。這個博客是爲每一個想讓他/她的作品集成爲經典的人準備的。",
+      "title": "🔥🤯 驚人的組合網站，使用HTML、CSS和JS。"
+    }
+  ]
 }
