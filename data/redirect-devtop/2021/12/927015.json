@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-15T08:28:09Z",
   "image": "https://dev.to/social_previews/article/927015.png",
   "author": "javinpaul",
-  "author_url": "https://dev.to/javinpaul"
+  "author_url": "https://dev.to/javinpaul",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Dockerは単なるツールではなく、ゲームチェンジャーであり、Dockerを学ぶことで開発者はより有能になり、効率的になることができるのです。また、マイクロサービスの開発・デプロイにも役立ちます。",
+      "title": "2022年、すべてのデベロッパーがDockerを学ぶべき理由"
+    },
+    {
+      "locale": "zh",
+      "description": "Docker不只是另一个工具，它是一个游戏规则的改变者，学习Docker可以使开发者更有能力和效率。它还有助于微服务的开发和部署。",
+      "title": "为什么每个开发人员在2022年都要学习Docker？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Docker不只是另一個工具，它是一個遊戲規則的改變者，學習Docker可以使開發者更有能力和效率。它還有助於微服務的開發和部署。",
+      "title": "爲什麼每個開發人員在2022年都要學習Docker？"
+    }
+  ]
 }
