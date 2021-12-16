@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-15T07:49:52Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--w_h6q74q--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mkby3dc6roxdyb3xcjyu.png",
   "author": "Alexey Antipov",
-  "author_url": "https://dev.to/aantipov"
+  "author_url": "https://dev.to/aantipov",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "まえがき UIアプリケーションを開発する場合、コンポーネントから構成します。それぞれのUI...",
+      "title": "ウィジェット・ドリブン開発"
+    },
+    {
+      "locale": "zh",
+      "description": "前言 在开发UI应用程序时，我们用组件来组成它们。每一个UI应用都是由组件组成的。",
+      "title": "小工具驱动的开发"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "前言 在開發UI應用程序時，我們用組件來組成它們。每一個UI應用都是由組件組成的。",
+      "title": "小工具驅動的開發"
+    }
+  ]
 }
