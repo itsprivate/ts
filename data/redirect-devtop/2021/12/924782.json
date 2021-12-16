@@ -43,5 +43,22 @@
   "original_created_at": "2021-12-13T08:30:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7DrkHheX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7w0n5dgtl531x4s9v32e.jpg",
   "author": "Creative Tim",
-  "author_url": "https://dev.to/creativetim_official"
+  "author_url": "https://dev.to/creativetim_official",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "バックエンドデベロッパーに興味がある方 あなたは正しい場所に来ています。もしあなたがコーディングの経験を持っているならば...",
+      "title": "バックエンドデベロッパーになるための完全なロードマップ。ステップ・バイ・ステップの説明"
+    },
+    {
+      "locale": "zh",
+      "description": "有兴趣成为一名后端开发人员？你已经来到了正确的地方。如果你已经有了一些编码的经验，那么你就可以在这里工作。",
+      "title": "成为后端开发人员的完整路线图。一步一步的说明"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有興趣成爲一名後端開發人員？你已經來到了正確的地方。如果你已經有了一些編碼的經驗，那麼你就可以在這裏工作。",
+      "title": "成爲後端開發人員的完整路線圖。一步一步的說明"
+    }
+  ]
 }
