@@ -63,5 +63,22 @@
     "retweet_count": 102,
     "favorite_count": 179,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @DSORennie: 大使館が外交官全員の身の安全を確保するために、中国から避難させるのは大変なことだ。しかし、そこで...",
+      "retweeted_status_full_text": "大使館が外交官を中国から避難させ、身の安全を確保するのを見るのは大変なことです。でも、それが私たちの現状なのです。リトアニアが中国の最も怒れるいじめのターゲットになったという私のニュース記事 https://t.co/vpNfYYxojk"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @DSORennie: 看着一个大使馆从中国撤离其所有外交官，以确保他们的人身安全，是件很了不起的事。但这就是...",
+      "retweeted_status_full_text": "看着一个大使馆从中国撤走所有外交官，以确保他们的人身安全，这是很有意义的。但这就是我们所处的位置。我关于立陶宛成为中国最愤怒的欺凌对象的新闻报道 https://t.co/vpNfYYxojk"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @DSORennie: 看着一個大使館從中國撤離其所有外交官，以確保他們的人身安全，是件很了不起的事。但這就是...",
+      "retweeted_status_full_text": "看着一個大使館從中國撤走所有外交官，以確保他們的人身安全，這是很有意義的。但這就是我們所處的位置。我關於立陶宛成爲中國最憤怒的欺凌對象的新聞報道 https://t.co/vpNfYYxojk"
+    }
+  ]
 }
