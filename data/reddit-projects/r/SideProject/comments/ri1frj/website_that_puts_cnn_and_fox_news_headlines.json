@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "CNNとFox Newsのヘッドラインを並べて表示するサイト"
+    },
+    {
+      "locale": "zh",
+      "title": "将CNN和福克斯新闻头条并列的网站"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "將CNN和福克斯新聞頭條並列的網站"
+    }
+  ]
 }
