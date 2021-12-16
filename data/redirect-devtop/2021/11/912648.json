@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-29T22:26:57Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RVUSIUe4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ge1j3fkm4m5kdgmju52g.png",
   "author": "Jorge Rubiano",
-  "author_url": "https://dev.to/jorger"
+  "author_url": "https://dev.to/jorger",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、私が開発した最新のゲームの開発過程を紹介したいと思います。",
+      "title": "Part 1/2 - ReactJSでゲーム - Cuzzle"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我想与你分享我的最新游戏的开发过程。",
+      "title": "第1/2部分 - ReactJS中的游戏 - Cuzzle"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我想與你分享我的最新遊戲的開發過程。",
+      "title": "第1/2部分 - ReactJS中的遊戲 - Cuzzle"
+    }
+  ]
 }
