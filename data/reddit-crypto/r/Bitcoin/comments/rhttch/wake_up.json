@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "目覚め"
+    },
+    {
+      "locale": "zh",
+      "title": "醒来"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "醒來"
+    }
+  ]
 }
