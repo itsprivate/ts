@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-13T10:44:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MIpqbRDv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ms86xxo3w8r7656k6trq.png",
   "author": "Rakesh Potnuru",
-  "author_url": "https://dev.to/itsrakesh"
+  "author_url": "https://dev.to/itsrakesh",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "reactでアプリケーションを作ったことがある人なら、たくさんのreactパッケージを使ったことがあるはずです。今まで...",
+      "title": "はじめてのリアクトパッケージ作成ガイド"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你曾经用react制作过一个应用程序，那么你一定使用过很多react包。曾经...",
+      "title": "制作你的第一个反应包指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你曾經用react製作過一個應用程序，那麼你一定使用過很多react包。曾經...",
+      "title": "製作你的第一個反應包指南"
+    }
+  ]
 }
