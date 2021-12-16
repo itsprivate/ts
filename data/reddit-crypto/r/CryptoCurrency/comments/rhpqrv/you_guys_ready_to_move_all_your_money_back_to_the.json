@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "お前ら、全財産を銀行に戻す準備はできたか？この金利は異常だ！皮肉"
+    },
+    {
+      "locale": "zh",
+      "title": "你们准备好把你们的钱都转回银行了吗？这些利率太疯狂了! 讽刺"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你們準備好把你們的錢都轉回銀行了嗎？這些利率太瘋狂了! 諷刺"
+    }
+  ]
 }

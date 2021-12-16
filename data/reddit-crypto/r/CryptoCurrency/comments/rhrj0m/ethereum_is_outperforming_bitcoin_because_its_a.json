@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "イーサリアムがビットコインを上回っているのは、インフレに賭けるのではなく、テクノロジーに賭けるからである。"
+    },
+    {
+      "locale": "zh",
+      "title": "以太坊的表现优于比特币，因为它是一个技术赌注而不是对通货膨胀的赌注"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "以太坊的表現優於比特幣，因爲它是一個技術賭注而不是對通貨膨脹的賭注"
+    }
+  ]
 }
