@@ -39,5 +39,22 @@
   "original_created_at": "2021-12-14T14:07:57Z",
   "image": "https://dev.to/social_previews/article/926273.png",
   "author": "martin tyeman",
-  "author_url": "https://dev.to/martintyeman"
+  "author_url": "https://dev.to/martintyeman",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "新しい技術には、新しい名称や用語が市場に出てきます。最新技術の一つである...",
+      "title": "ハッシュレートとは何か、マイニングにおけるハッシュレートの役割とは何か"
+    },
+    {
+      "locale": "zh",
+      "description": "新技术给市场带来了新的名称和术语。它是目前最新的技术之一...",
+      "title": "什么是哈希率，它在采矿中的作用是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "新技術給市場帶來了新的名稱和術語。它是目前最新的技術之一...",
+      "title": "什麼是哈希率，它在採礦中的作用是什麼？"
+    }
+  ]
 }
