@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-14T03:53:37Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IZEErDPf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iwkspwwemax5zpya2p9x.jpg",
   "author": "Jordan Smith",
-  "author_url": "https://dev.to/jordan_smith"
+  "author_url": "https://dev.to/jordan_smith",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、私は新しいReactアプリをゼロから始める必要があることに気づきましたが、その理由は...",
+      "title": "React Router v6を使用してReactアプリを構築する方法（create-react-appを使用しない場合"
+    },
+    {
+      "locale": "zh",
+      "description": "最近我发现自己需要从头开始一个新的React应用，但由于...",
+      "title": "如何使用React Router v6构建一个React应用程序而不使用create-react-app？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "最近我發現自己需要從頭開始一個新的React應用，但由於...",
+      "title": "如何使用React Router v6構建一個React應用程序而不使用create-react-app？"
+    }
+  ]
 }
