@@ -72,5 +72,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-16T10:01:00Z"
+  "original_createdAt": "2021-12-16T10:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "NFLファンタジーやスポーツベッティングの疑問を解決するSIRI。NFLの統計、選手やチームの情報、オーバー/アンダー予想、オッズなどに関する質問を、音声またはテキスト入力で行うことができます。",
+      "tagline": "NFLフットボールファンタジー＆スポーツベッティングデータ用SIRI"
+    },
+    {
+      "locale": "zh",
+      "description": "你所有的NFL幻想或体育投注问题的SIRI。通过语音或文字输入询问有关NFL统计数据、球员和球队信息、大/小球预测、赔率等问题。",
+      "tagline": "SIRI用于NFL橄榄球幻想和体育投注数据"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你所有的NFL幻想或體育投注問題的SIRI。通過語音或文字輸入詢問有關NFL統計數據、球員和球隊信息、大/小球預測、賠率等問題。",
+      "tagline": "SIRI用於NFL橄欖球幻想和體育投注數據"
+    }
+  ]
 }
