@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-16T02:18:43Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7ZfNUh7f--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t0lc281d1c3t6mgq84g5.jpg",
   "author": "aruna-x",
-  "author_url": "https://dev.to/aruna"
+  "author_url": "https://dev.to/aruna",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これが何を出力しているかわかりますか？ for (let i=0; i&lt;3; i++) { setTimeout(() =&gt;...",
+      "title": "クロージャの不思議な世界とその有用性"
+    },
+    {
+      "locale": "zh",
+      "description": "你能猜到这个打印出来的是什么吗？ for (let i=0; i&lt;3; i++) { setTimeout(() =&gt; 。",
+      "title": "闭合器的古怪世界和使其有用的原因"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你能猜到這個打印出來的是什麼嗎？ for (let i=0; i&lt;3; i++) { setTimeout(() =&gt; 。",
+      "title": "閉合器的古怪世界和使其有用的原因"
+    }
+  ]
 }
