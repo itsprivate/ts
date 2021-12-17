@@ -13,5 +13,19 @@
   ],
   "objectID": "29584698",
   "original_created_at": "2021-12-16T22:11:28.000Z",
-  "image": "https://raw.githubusercontent.com/pola-rs/polars-static/master/web/splash.png"
+  "image": "https://raw.githubusercontent.com/pola-rs/polars-static/master/web/splash.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ポーラー RustとPythonのための高速DataFrameライブラリ"
+    },
+    {
+      "locale": "zh",
+      "title": "Polars: 用于Rust和Python的快速数据框架库"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Polars: 用於Rust和Python的快速數據框架庫"
+    }
+  ]
 }
