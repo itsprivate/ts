@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "出口のない"
+    },
+    {
+      "locale": "zh",
+      "title": "无路可走"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "無路可走"
+    }
+  ]
 }
