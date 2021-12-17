@@ -113,5 +113,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Thu Dec 16 18:45:07 +0000 2021"
+  "original_created_at": "Thu Dec 16 18:45:07 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "今週、ニューヨーク市の少なくとも12軒のレストランやバーが、従業員からコビッドの陽性反応が出たため、一時的に閉店しました。市内で報告された新たな感染者数は1日平均3,554人に上り、2週間前の平均値から135％増加しています。https://t.co/RFCod5Rzr6。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "纽约市至少有十几家餐馆和酒吧本周暂时关闭，因为工人对Covid检测呈阳性。该市报告的新病例数量已经上升到平均每天3,554例，比两周前的平均数增加了135%。https://t.co/RFCod5Rzr6"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "紐約市至少有十幾家餐館和酒吧本週暫時關閉，因爲工人對Covid檢測呈陽性。該市報告的新病例數量已經上升到平均每天3,554例，比兩週前的平均數增加了135%。https://t.co/RFCod5Rzr6"
+    }
+  ]
 }

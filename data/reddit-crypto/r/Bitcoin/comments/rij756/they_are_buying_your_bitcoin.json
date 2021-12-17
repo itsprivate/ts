@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼らはあなたのビットコインを買っている"
+    },
+    {
+      "locale": "zh",
+      "title": "他们正在购买你的比特币"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他們正在購買你的比特幣"
+    }
+  ]
 }

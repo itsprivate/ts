@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今日、あなたがしたことの中で、誇りに思うことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你今天做了一件什么事让你感到骄傲？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你今天做了一件什麼事讓你感到驕傲？"
+    }
+  ]
 }
