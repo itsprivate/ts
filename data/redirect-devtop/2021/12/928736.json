@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-17T04:10:52Z",
   "image": "https://dev.to/social_previews/article/928736.png",
   "author": "Daniel Jackson",
-  "author_url": "https://dev.to/tbihitesh"
+  "author_url": "https://dev.to/tbihitesh",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "技術の進歩に伴い、モバイルフレンドリーなWebアプリケーションの開発は...",
+      "title": "React JsでユニークなWebアプリケーションを構築するには？"
+    },
+    {
+      "locale": "zh",
+      "description": "随着技术的进步，移动友好型网络应用程序的开发已成为...",
+      "title": "如何用React Js构建一个独特的Web应用？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "隨着技術的進步，移動友好型網絡應用程序的開發已成爲...",
+      "title": "如何用React Js構建一個獨特的Web應用？"
+    }
+  ]
 }
