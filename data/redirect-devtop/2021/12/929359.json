@@ -55,5 +55,22 @@
   "original_created_at": "2021-12-17T19:25:40Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oSFPnbHQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kbwhxf3bpkovyp4lp2fw.png",
   "author": "Gracie Gregory (she/her)",
-  "author_url": "https://dev.to/graciegregory"
+  "author_url": "https://dev.to/graciegregory",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "DEVでGitHub Actions Hackathonの入賞を祝う!",
+      "title": "2021年GitHub Actionsハッカソン入賞者、おめでとうございます。"
+    },
+    {
+      "locale": "zh",
+      "description": "庆祝GitHub Actions黑客马拉松的获胜者，DEV!",
+      "title": "祝贺我们2021年GitHub行动黑客马拉松获奖者"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "慶祝GitHub Actions黑客馬拉松的獲勝者，DEV!",
+      "title": "祝賀我們2021年GitHub行動黑客馬拉松獲獎者"
+    }
+  ]
 }
