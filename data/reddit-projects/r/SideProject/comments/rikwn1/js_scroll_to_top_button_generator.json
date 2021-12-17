@@ -136,5 +136,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "JS Scroll to Top ボタンジェネレータ"
+    },
+    {
+      "locale": "zh",
+      "title": "JS 滚动到顶部按钮生成器"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "JS 滾動到頂部按鈕生成器"
+    }
+  ]
 }
