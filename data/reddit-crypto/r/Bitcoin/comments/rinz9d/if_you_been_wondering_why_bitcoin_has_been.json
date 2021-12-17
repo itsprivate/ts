@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインがなぜ下落しているのか、疑問に思っている方。ここに答えがあります。"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你一直想知道为什么比特币一直在下挫。这就是你的答案。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你一直想知道爲什麼比特幣一直在下挫。這就是你的答案。"
+    }
+  ]
 }
