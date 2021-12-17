@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "車にガソリンを入れるだけで、いつ..."
+    },
+    {
+      "locale": "zh",
+      "title": "只是为你的汽车泵送汽油，当..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "只是爲你的汽車泵送汽油，當..."
+    }
+  ]
 }
