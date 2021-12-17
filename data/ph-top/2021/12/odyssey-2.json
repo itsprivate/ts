@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-17T08:03:00Z"
+  "original_createdAt": "2021-12-17T08:03:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Odysseyは、Web3に次の100万人を乗せることを使命とする学習型DAOです。 我々は、Web3入門、DeFi、DAO、NFTなどのための高品質なELI5ガイドを書いています。今すぐ学習を開始しましょう👇。",
+      "tagline": "私たちは、質の高い無料のWeb3教育を作成する学習DAOです。"
+    },
+    {
+      "locale": "zh",
+      "description": "Odyssey是一个学习型DAO，其使命是让下一个100万人加入web3。 我们已经为web3的入门、DeFi、DAO、NFT等编写了高质量的ELI5指南。现在就开始学习👇",
+      "tagline": "我们是一个学习型DAO，创造高质量的免费web3教育。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Odyssey是一個學習型DAO，其使命是讓下一個100萬人加入web3。 我們已經爲web3的入門、DeFi、DAO、NFT等編寫了高質量的ELI5指南。現在就開始學習👇",
+      "tagline": "我們是一個學習型DAO，創造高質量的免費web3教育。"
+    }
+  ]
 }
