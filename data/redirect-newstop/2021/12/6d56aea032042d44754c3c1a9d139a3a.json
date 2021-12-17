@@ -14,5 +14,19 @@
   "tags": [
     "The New York Times"
   ],
-  "image": "https://static01.nyt.com/images/2021/12/17/world/17japan-fire-1/17japan-fire-1-facebookJumbo.jpg"
+  "image": "https://static01.nyt.com/images/2021/12/17/world/17japan-fire-1/17japan-fire-1-facebookJumbo.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "日本での火災、死者数十人に放火の疑い"
+    },
+    {
+      "locale": "zh",
+      "title": "日本大火可能造成数十人死亡，怀疑是人为纵火"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "日本大火可能造成數十人死亡，懷疑是人爲縱火"
+    }
+  ]
 }
