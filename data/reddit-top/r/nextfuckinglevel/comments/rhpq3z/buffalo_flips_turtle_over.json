@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "バッファローが亀をひっくり返した"
+    },
+    {
+      "locale": "zh",
+      "title": "水牛将乌龟翻转过来"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "水牛將烏龜翻轉過來"
+    }
+  ]
 }
