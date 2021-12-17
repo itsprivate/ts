@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-15T22:12:38Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XZQhJB_u--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hvs7omi774bi6w7s1s6u.jpg",
   "author": "Amy Oulton",
-  "author_url": "https://dev.to/amyoulton"
+  "author_url": "https://dev.to/amyoulton",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事はCodecastに掲載されたものです。  オンラインで自分をブランディングすることは、ますます重要になってきています...",
+      "title": "開発者としてのブランディングの方法"
+    },
+    {
+      "locale": "zh",
+      "description": "这篇文章最初是为Codecast发布的。  塑造自己的网络品牌已经变得越来越重要。",
+      "title": "如何：将自己打造成开发者的品牌"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這篇文章最初是爲Codecast發佈的。  塑造自己的網絡品牌已經變得越來越重要。",
+      "title": "如何：將自己打造成開發者的品牌"
+    }
+  ]
 }
