@@ -43,5 +43,22 @@
   "original_created_at": "2021-12-14T21:03:20Z",
   "image": "https://dev.to/social_previews/article/926612.png",
   "author": "Yawar Amin",
-  "author_url": "https://dev.to/yawaramin"
+  "author_url": "https://dev.to/yawaramin",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "脆弱性修正のプレッシャーは、週末に小さなチームに押しつけられた。",
+      "title": "log4jのメンテナンスに伴う人的被害"
+    },
+    {
+      "locale": "zh",
+      "description": "修复漏洞的压力是如何在一个疯狂的周末甩给一个小团队的？",
+      "title": "log4j维护的人力成本"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "修復漏洞的壓力是如何在一個瘋狂的週末甩給一個小團隊的？",
+      "title": "log4j維護的人力成本"
+    }
+  ]
 }
