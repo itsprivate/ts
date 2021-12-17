@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-17T08:01:00Z"
+  "original_createdAt": "2021-12-17T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Project Shastaは、AIを活用した音声録音・編集をダウンロード不要でWebに提供します。プロでなくても、誰でもプロ並みの音声を作ることができるようになりました。",
+      "tagline": "AIを活用したWebでの音声録音・編集機能"
+    },
+    {
+      "locale": "zh",
+      "description": "Project Shasta将人工智能驱动的音频录制和编辑带入网络，无需下载。现在，任何人都可以创建听起来很专业的音频，而不需要成为专业人士。",
+      "tagline": "AI驱动的网络音频录制和编辑"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Project Shasta將人工智能驅動的音頻錄製和編輯帶入網絡，無需下載。現在，任何人都可以創建聽起來很專業的音頻，而不需要成爲專業人士。",
+      "tagline": "AI驅動的網絡音頻錄製和編輯"
+    }
+  ]
 }
