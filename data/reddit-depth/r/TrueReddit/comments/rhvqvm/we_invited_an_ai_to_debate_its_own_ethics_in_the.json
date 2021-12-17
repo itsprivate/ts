@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"オックスフォードユニオンでAIを招き、自らの倫理観について討論させたところ、その発言には驚かされた\""
+    },
+    {
+      "locale": "zh",
+      "title": "\"我们邀请了一个人工智能在牛津大学联盟辩论它自己的道德规范--它说的话令人震惊\""
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"我們邀請了一個人工智能在牛津大學聯盟辯論它自己的道德規範--它說的話令人震驚\""
+    }
+  ]
 }
