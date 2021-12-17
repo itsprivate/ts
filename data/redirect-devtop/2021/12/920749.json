@@ -52,5 +52,22 @@
   "original_created_at": "2021-12-08T10:07:56Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--C10jnk7---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/52qwbacxx85e6384lwh5.png",
   "author": "Luca Del Puppo",
-  "author_url": "https://dev.to/puppo"
+  "author_url": "https://dev.to/puppo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、連載2回目です。 本日は、プロジェクトのセットアップ方法をご紹介します。",
+      "title": "プリズマの時間 - セットアップ"
+    },
+    {
+      "locale": "zh",
+      "description": "嗨，伙计们，欢迎来到本系列的第二篇文章。 今天我将告诉你如何设置一个项目...",
+      "title": "现在是Prisma时间--设置"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嗨，夥計們，歡迎來到本系列的第二篇文章。 今天我將告訴你如何設置一個項目...",
+      "title": "現在是Prisma時間--設置"
+    }
+  ]
 }
