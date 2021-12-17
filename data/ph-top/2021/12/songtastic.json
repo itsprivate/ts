@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-17T08:00:00Z"
+  "original_createdAt": "2021-12-17T08:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Spotify Wrappedは、私たちの曲に対する愛情をあちこちで紹介しています。しかし、あなたが最もよく聴いている曲のことを本当によく知っていますか？Songtasticを試してみて、あなたのスコアを知ってください。",
+      "tagline": "音楽の知識が試される楽しいクイズ"
+    },
+    {
+      "locale": "zh",
+      "description": "Spotify Wrapped无处不在，展示了我们对歌曲的热爱。但是，你对你最常听的歌曲到底有多了解？带上Songtastic转一转，了解一下你的分数吧!",
+      "tagline": "一个有趣的测试，测试你的音乐知识"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Spotify Wrapped無處不在，展示了我們對歌曲的熱愛。但是，你對你最常聽的歌曲到底有多瞭解？帶上Songtastic轉一轉，瞭解一下你的分數吧!",
+      "tagline": "一個有趣的測試，測試你的音樂知識"
+    }
+  ]
 }
