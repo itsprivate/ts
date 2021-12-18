@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "台風による洪水で破壊される前に、20年前のピアノを最後に弾く男。"
+    },
+    {
+      "locale": "zh",
+      "title": "一名男子在台风带来的洪水将其摧毁之前，最后一次弹奏他的二十年前的钢琴。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一名男子在臺風帶來的洪水將其摧毀之前，最後一次彈奏他的二十年前的鋼琴。"
+    }
+  ]
 }
