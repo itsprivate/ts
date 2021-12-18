@@ -13,5 +13,19 @@
   ],
   "objectID": "29599132",
   "original_created_at": "2021-12-17T22:27:35.000Z",
-  "image": "https://webapp.io/blog/content/images/2019/11/postgres.png"
+  "image": "https://webapp.io/blog/content/images/2019/11/postgres.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Postgresはパブ・サブ、ジョブサーバーとして最適です（2019年版）"
+    },
+    {
+      "locale": "zh",
+      "title": "Postgres是一个伟大的pub/sub和job服务器(2019)"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Postgres是一個偉大的pub/sub和job服務器(2019)"
+    }
+  ]
 }
