@@ -14,5 +14,19 @@
   "tags": [
     "BBC News"
   ],
-  "image": "https://ichef.bbci.co.uk/news/1024/branded_news/A453/production/_122276024_072655165.jpg"
+  "image": "https://ichef.bbci.co.uk/news/1024/branded_news/A453/production/_122276024_072655165.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "コビット：オミクロンの上昇により、ロンドンの「重大インシデント」が宣言される"
+    },
+    {
+      "locale": "zh",
+      "title": "Covid：由于Omicron上升，伦敦宣布发生 \"重大事件"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Covid：由於Omicron上升，倫敦宣佈發生 \"重大事件"
+    }
+  ]
 }
