@@ -57,5 +57,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>A lot of people have been asking me about the\ndifferent types of bitcoin addresses they see in wallets and the difference\nbetween each of them. Understandability, for a nontech person, it can be a bit\nconfusing to see different types of addresses in their wallet and…"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>A lot of people have been asking me about the\ndifferent types of bitcoin addresses they see in wallets and the difference\nbetween each of them. Understandability, for a nontech person, it can be a bit\nconfusing to see different types of addresses in their wallet and…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>A lot of people has asked me about the\nウォレットで見かけるビットコインアドレスの種類と違いについて\nということです。技術者でない人にとって、理解するのは少し難しいかもしれません。\nウォレットにさまざまな種類のアドレスが表示されることに戸惑い、...",
+      "title": "ビットコインのアドレスの種類とその意味について、よく質問されます。簡単に説明すると..."
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>很多人一直在问我关于\n他们在钱包里看到的不同类型的比特币地址，以及它们之间的区别。\n之间的区别。可以理解的是，对于一个非技术人员来说，看到不同的比特币地址可能会有点\n感到困惑的是，在他们的钱包中看到不同类型的地址和...",
+      "title": "人们一直在问我关于不同类型的比特币地址和它们的含义。这里有一个简单的分类..."
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>很多人一直在問我關於\n他們在錢包裏看到的不同類型的比特幣地址，以及它們之間的區別。\n之間的區別。可以理解的是，對於一個非技術人員來說，看到不同的比特幣地址可能會有點\n感到困惑的是，在他們的錢包中看到不同類型的地址和...",
+      "title": "人們一直在問我關於不同類型的比特幣地址和它們的含義。這裏有一個簡單的分類..."
+    }
+  ]
 }
