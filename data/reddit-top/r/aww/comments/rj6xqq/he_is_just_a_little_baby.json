@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼はまだ小さな赤ちゃんです。"
+    },
+    {
+      "locale": "zh",
+      "title": "他只是一个小婴儿。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他只是一個小嬰兒。"
+    }
+  ]
 }
