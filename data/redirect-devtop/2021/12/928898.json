@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-17T07:31:24Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vMmTWh-Z--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dwzhh17pv04l2bie04hy.png",
   "author": "Alex Eagleson",
-  "author_url": "https://dev.to/alexeagleson"
+  "author_url": "https://dev.to/alexeagleson",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このチュートリアルの全コードは、このリポジトリで公開されています。 あなたは、...",
+      "title": "GitサブモジュールでReact Typescript Monorepoを作成する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "本教程的所有代码作为一个完整的包，可在这个资源库中找到。 你是否在使用...",
+      "title": "如何用Git Submodules创建React Typescript Monorepo"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "本教程的所有代碼作爲一個完整的包，可在這個資源庫中找到。 你是否在使用...",
+      "title": "如何用Git Submodules創建React Typescript Monorepo"
+    }
+  ]
 }
