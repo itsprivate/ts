@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-18T00:32:54Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SO7sGoyu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pdb1nbnrh24pqgpr6f4k.png",
   "author": "Mopharr",
-  "author_url": "https://dev.to/mopharr"
+  "author_url": "https://dev.to/mopharr",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ほとんどのフロントエンド開発者は、CORSの問題に遭遇し、その解決策を講じようとする傾向があります。",
+      "title": "フロントエンドからCROSS Origin Resource Sharing (CORS)を修正する。"
+    },
+    {
+      "locale": "zh",
+      "description": "大多数前端开发人员往往会遇到CORS问题，他们试图用一个解决方案来解决它。",
+      "title": "从前端修复CROSS Origin Resource Sharing（CORS）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大多數前端開發人員往往會遇到CORS問題，他們試圖用一個解決方案來解決它。",
+      "title": "從前端修復CROSS Origin Resource Sharing（CORS）。"
+    }
+  ]
 }
