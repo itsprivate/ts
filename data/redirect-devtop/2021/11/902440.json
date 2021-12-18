@@ -45,5 +45,22 @@
   "original_created_at": "2021-11-18T22:29:19Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DMuY9BZM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1lo9l9tm4ajnnze56u93.png",
   "author": "Angel Daniel Munoz Gonzalez",
-  "author_url": "https://dev.to/tunaxor"
+  "author_url": "https://dev.to/tunaxor",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Fable 3は、私がしばらく気づかなかったことをしました。それは、ESM Moduleの発光に移行し、残す...",
+      "title": "F#でWebpackの代替品を作る"
+    },
+    {
+      "locale": "zh",
+      "description": "寓言3》做了一些我不知道的事情，它转而发射ESM模块，离开...",
+      "title": "用F#构建一个Webpack的替代品"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "寓言3》做了一些我不知道的事情，它轉而發射ESM模塊，離開...",
+      "title": "用F#構建一個Webpack的替代品"
+    }
+  ]
 }
