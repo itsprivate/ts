@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "聞きかじり"
+    },
+    {
+      "locale": "zh",
+      "title": "带着这些信息生活"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "帶着這些信息生活"
+    }
+  ]
 }
