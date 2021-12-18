@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "マルチカラムビュー、ギャラリーモード、ログインをサポートしたReddit用のウェブアプリを作りました。無料でオープンソースです - troddit.com"
+    },
+    {
+      "locale": "zh",
+      "title": "我为Reddit做了一个网络应用，有多栏视图，有画廊模式，还支持登录。它是免费和开源的 - troddit.com"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我爲Reddit做了一個網絡應用，有多欄視圖，有畫廊模式，還支持登錄。它是免費和開源的 - troddit.com"
+    }
+  ]
 }
