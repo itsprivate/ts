@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Found Lotta money on a street near a fast food\njoint..I know it came from there..but is returning it going to really do\nanything for this fast food chain? I definitely could use this cash for the\nholidays..</p> </div><!-- SC_ON -->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Found Lotta money on a street near a fast food\njoint..I know it came from there..but is returning it going to really do\nanything for this fast food chain? I definitely could use this cash for the\nholidays..</p> </div><!-- SC_ON -->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Found Lotta money on a street near a fast food (ファーストフードの近くの道でお金を見つけました)\nを返すと、本当にどうなるんだろう？\nこのファーストフードチェーンのために何かすることはありますか？私は間違いなくこの現金を使用することができます\n</p> </div><!-- SC_ON -->。",
+      "title": "もし、あなたが街でお金を見つけたら、それを返しますか、それとも持っておきますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>在一个快餐店附近的街道上发现了很多钱。\n我知道它是从那里来的......但归还它真的能起到什么作用吗？\nanything for this fast food chain? I definitely could use this cash for the\nholidays..</p> </div><!-- SC_ON -->",
+      "title": "如果你在街上捡到钱......你会归还还是保留它？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>在一個快餐店附近的街道上發現了很多錢。\n我知道它是從那裏來的......但歸還它真的能起到什麼作用嗎？\nanything for this fast food chain? I definitely could use this cash for the\nholidays..</p> </div><!-- SC_ON -->",
+      "title": "如果你在街上撿到錢......你會歸還還是保留它？"
+    }
+  ]
 }
