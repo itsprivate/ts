@@ -175,5 +175,22 @@
     "retweet_count": 771,
     "favorite_count": 4028,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @naiiveclub: #ビットコイン @100trillionUSD https://t.co/kzUou3boqo",
+      "retweeted_status_full_text": "#Bitcoin @100trillionUSD https://t.co/kzUou3boqo"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @naiiveclub: #Bitcoin @100trillionUSD https://t.co/kzUou3boqo",
+      "retweeted_status_full_text": "#比特币 @100trillionUSD https://t.co/kzUou3boqo"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @naiiveclub: #Bitcoin @100trillionUSD https://t.co/kzUou3boqo",
+      "retweeted_status_full_text": "#比特幣 @100trillionUSD https://t.co/kzUou3boqo"
+    }
+  ]
 }
