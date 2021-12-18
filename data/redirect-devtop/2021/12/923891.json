@@ -52,5 +52,22 @@
   "original_created_at": "2021-12-11T19:48:43Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cIyT1ya7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g2bnx0s8pq7t5n50pmue.png",
   "author": "Rizèl Scarlett",
-  "author_url": "https://dev.to/blackgirlbytes"
+  "author_url": "https://dev.to/blackgirlbytes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "GitHub Pagesは、Jekyllのビルドログを見る方法がなかったので、いつも不思議な感じがしていました...。",
+      "title": "GitHubページのビルドログを表示する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "GitHub Pages一直给人一种神奇的感觉，因为我们从来没有办法看到Jekyll的构建日志...",
+      "title": "如何查看GitHub页面的构建日志"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "GitHub Pages一直給人一種神奇的感覺，因爲我們從來沒有辦法看到Jekyll的構建日誌...",
+      "title": "如何查看GitHub頁面的構建日誌"
+    }
+  ]
 }
