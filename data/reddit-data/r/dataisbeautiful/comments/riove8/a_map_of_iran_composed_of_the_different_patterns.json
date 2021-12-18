@@ -42,5 +42,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "絨毯の柄の違いを、それぞれの地域の代表的なものとして構成したイランの地図です。"
+    },
+    {
+      "locale": "zh",
+      "title": "伊朗地图，由地毯中的不同图案组成，因为它们是各自地区的典型。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "伊朗地圖，由地毯中的不同圖案組成，因爲它們是各自地區的典型。"
+    }
+  ]
 }
