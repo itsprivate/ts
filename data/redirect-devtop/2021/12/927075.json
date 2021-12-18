@@ -43,5 +43,22 @@
   "original_created_at": "2021-12-15T10:37:43Z",
   "image": "https://dev.to/social_previews/article/927075.png",
   "author": "Ludivine A",
-  "author_url": "https://dev.to/lachouri"
+  "author_url": "https://dev.to/lachouri",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "スプレッドシートからデータを取得し、JSONに変換する必要があるのでしょうか？それは🚀科学ではないですね...。",
+      "title": "XLSXからJSONへの変換方法"
+    },
+    {
+      "locale": "zh",
+      "description": "你是否需要从电子表格中获取数据并将其转化为JSON？这不是科学...。",
+      "title": "如何将XLSX转换为JSON"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你是否需要從電子表格中獲取數據並將其轉化爲JSON？這不是科學...。",
+      "title": "如何將XLSX轉換爲JSON"
+    }
+  ]
 }

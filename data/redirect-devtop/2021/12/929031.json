@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-17T11:01:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QV29HqMf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/az7n3yoliijz6m125qht.png",
   "author": "notmahnoor",
-  "author_url": "https://dev.to/notmahnoor"
+  "author_url": "https://dev.to/notmahnoor",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ここでは、主にフロントエンドの開発者に役立つと思われる拡張機能の一部を紹介します...",
+      "title": "VS Code Extensionsであなたの生活をより快適に。"
+    },
+    {
+      "locale": "zh",
+      "description": "这里列出了一些可能对主要是前端开发人员有用的扩展，这些人...",
+      "title": "让你的生活更轻松的Kickass VS代码扩展"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這裏列出了一些可能對主要是前端開發人員有用的擴展，這些人...",
+      "title": "讓你的生活更輕鬆的Kickass VS代碼擴展"
+    }
+  ]
 }
