@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ハイパービットコイニゼーションに到達したとき"
+    },
+    {
+      "locale": "zh",
+      "title": "当我们达到超比特币化时"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當我們達到超比特幣化時"
+    }
+  ]
 }
