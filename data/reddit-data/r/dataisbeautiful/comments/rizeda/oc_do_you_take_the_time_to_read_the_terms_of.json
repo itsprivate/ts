@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC】最新のアプリやソフトをダウンロードする際、利用規約をじっくり読んでから同意していますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]在下载最新的应用程序或软件时，你在同意之前会花时间阅读服务条款吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]在下載最新的應用程序或軟件時，你在同意之前會花時間閱讀服務條款嗎？"
+    }
+  ]
 }
