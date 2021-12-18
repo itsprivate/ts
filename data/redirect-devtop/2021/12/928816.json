@@ -50,5 +50,22 @@
   "original_created_at": "2021-12-17T05:14:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TcvInvtX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j3u0n3rkzu91tcvc2z8y.png",
   "author": "Lewis kori",
-  "author_url": "https://dev.to/lewiskori"
+  "author_url": "https://dev.to/lewiskori",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、あるプロジェクトをDigitalOceanのドロップレットにデプロイする必要がありました。私が本当に欲しかった機能の1つは...",
+      "title": "GithubアクションとDockerを使ってNext.jsのアプリをVPSにデプロイする"
+    },
+    {
+      "locale": "zh",
+      "description": "最近，我不得不将一个项目部署到DigitalOcean的droplet上。我真正想要的一个功能是...",
+      "title": "使用Github行动和Docker将Next.js应用程序部署到VPS上"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "最近，我不得不將一個項目部署到DigitalOcean的droplet上。我真正想要的一個功能是...",
+      "title": "使用Github行動和Docker將Next.js應用程序部署到VPS上"
+    }
+  ]
 }
