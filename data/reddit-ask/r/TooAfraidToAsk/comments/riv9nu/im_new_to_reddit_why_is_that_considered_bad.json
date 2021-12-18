@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I recently joined Reddit. Someone commented\nthat I only joined 12 days ago. It seemed like they were trying to dismiss my\ncomment by saying that. Why?</p> </div><!-- SC_ON -->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I recently joined Reddit. Someone commented\nthat I only joined 12 days ago. It seemed like they were trying to dismiss my\ncomment by saying that. Why?</p> </div><!-- SC_ON -->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>最近、Redditに参加しました。誰かがコメントした\n12日前に参加したばっかりなのに。それはまるで、私が12日前に参加したことを否定しようとしているように思えました。\nというコメント。</p> </div><!-- SC_ON --> </p> <p>なぜでしょうか？",
+      "title": "Redditは初めてです。なぜそれが悪いとされるのですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<！--SC_OFF --><div class=\"md\"><p>我最近加入了Reddit。有人评论说\n说我在12天前才加入。他们这样说似乎是想否定我的\n我的评论。为什么？</p> </div><!-- SC_ON -->",
+      "title": "我是Reddit的新手。为什么这被认为是坏事呢？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<！--SC_OFF --><div class=\"md\"><p>我最近加入了Reddit。有人評論說\n說我在12天前才加入。他們這樣說似乎是想否定我的\n我的評論。爲什麼？</p> </div><!-- SC_ON -->",
+      "title": "我是Reddit的新手。爲什麼這被認爲是壞事呢？"
+    }
+  ]
 }
