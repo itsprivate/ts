@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私は馬鹿ではないし、誰にでも起こりうることだと思うのですが、皆さんは妻のために確認できますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你们能替我妻子确认一下，我不是傻子，这可能发生在任何人身上？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你們能替我妻子確認一下，我不是傻子，這可能發生在任何人身上？"
+    }
+  ]
 }
