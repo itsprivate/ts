@@ -43,5 +43,22 @@
   "original_created_at": "2021-12-15T22:41:04Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--blqqyzFY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qngxbxzxed2ejsx02s9v.png",
   "author": "Jose",
-  "author_url": "https://dev.to/josec"
+  "author_url": "https://dev.to/josec",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "インストール reactアプリを作成したら、react router v6ライブラリをインストールする必要があります。",
+      "title": "React - リアクトルーターv6入門"
+    },
+    {
+      "locale": "zh",
+      "description": "安装 在创建了我们的react应用后，我们必须安装react router v6库...",
+      "title": "React - React路由器v6简介"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "安裝 在創建了我們的react應用後，我們必須安裝react router v6庫...",
+      "title": "React - React路由器v6簡介"
+    }
+  ]
 }
