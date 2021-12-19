@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-19T01:51:44Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nODK7EkG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9wsa9birs767uv5ry9gc.jpg",
   "author": "Wade Zimmerman",
-  "author_url": "https://dev.to/wadecodez"
+  "author_url": "https://dev.to/wadecodez",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "先日、TailwindCSSはバージョン3.0をリリースしましたが、このフレームワークは依然として高い人気を誇っています。皆さんは、TailwindCSSをご存知でしょうか？",
+      "title": "TailwindCSSプロジェクトのためのライフプロヒント"
+    },
+    {
+      "locale": "zh",
+      "description": "最近，TailwindCSS发布了3.0版本，该框架仍然非常受欢迎。你是否知道所有...",
+      "title": "尾风社项目的生活专业提示"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "最近，TailwindCSS發佈了3.0版本，該框架仍然非常受歡迎。你是否知道所有...",
+      "title": "尾風社項目的生活專業提示"
+    }
+  ]
 }
