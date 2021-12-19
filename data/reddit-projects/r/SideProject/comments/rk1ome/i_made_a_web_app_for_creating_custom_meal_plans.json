@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "カスタムミールプランをより早く作成するためのウェブアプリを作りました：calories-in.com"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个网络应用，可以更快地创建自定义膳食计划：calories-in.com"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個網絡應用，可以更快地創建自定義膳食計劃：calories-in.com"
+    }
+  ]
 }

@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-18T16:47:39Z",
   "image": "https://dev.to/social_previews/article/930022.png",
   "author": "Prakhar Tandon",
-  "author_url": "https://dev.to/prakhart111"
+  "author_url": "https://dev.to/prakhart111",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この投稿では、色をランダムに生成するために考えられるいくつかの方法をまとめます。",
+      "title": "JSで色をランダムに生成するために考えられるさまざまな方法"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我将总结几种可能的方法，以随机地生成一个颜色。",
+      "title": "在JS中随机生成颜色的不同可能方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我將總結幾種可能的方法，以隨機地生成一個顏色。",
+      "title": "在JS中隨機生成顏色的不同可能方法"
+    }
+  ]
 }
