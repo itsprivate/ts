@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-19T08:01:00Z"
+  "original_createdAt": "2021-12-19T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ParrotBayは、あなたがそれに対して任意のタイプのHTTPリクエストを実行することができますユニークなURLを提供します。あなたのHTTPリクエストを検査し、Webhookを設計し、静的および動的なJSON応答であなたの全体のバックエンドエンドポイントを模倣することができます。",
+      "tagline": "HTTPリクエストの検査、APIレスポンスの模擬、HTTPプロキシ"
+    },
+    {
+      "locale": "zh",
+      "description": "ParrotBay提供了一个独特的URL，你可以针对它执行任何类型的HTTP请求。允许你检查你的HTTP请求，设计Webhooks，并通过静态和动态JSON响应模仿你的整个后端端点。",
+      "tagline": "HTTP请求检查，模拟的API响应，HTTP代理"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "ParrotBay提供了一個獨特的URL，你可以針對它執行任何類型的HTTP請求。允許你檢查你的HTTP請求，設計Webhooks，並通過靜態和動態JSON響應模仿你的整個後端端點。",
+      "tagline": "HTTP請求檢查，模擬的API響應，HTTP代理"
+    }
+  ]
 }
