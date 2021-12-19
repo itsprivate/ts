@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "カスタムアンビグラムの作成方法を説明するガイさん"
+    },
+    {
+      "locale": "zh",
+      "title": "盖伊演示了如何创建一个自定义的歧义图"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "蓋伊演示瞭如何創建一個自定義的歧義圖"
+    }
+  ]
 }
