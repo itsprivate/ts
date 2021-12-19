@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-18T08:00:00Z"
+  "original_createdAt": "2021-12-18T08:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "OtpNinjaは、2Authレイヤーを追加し、クライアントのためにSMSでコード検証を送信したいアプリケーションやビジネスのためのプラグアンドプレイOtpサービスです。このApiは非常に簡単に作成でき、SMSでコードを送信し、検証結果をアプリに送り返します。",
+      "tagline": "OTP APIを簡単に設定"
+    },
+    {
+      "locale": "zh",
+      "description": "OtpNinja是一个即插即用的Otp服务，适用于希望为客户添加2Auth层并通过短信发送验证码的应用程序和企业。该应用程序非常容易创建并通过短信发送代码，并将验证结果发回给应用程序。",
+      "tagline": "轻松设置OTP API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "OtpNinja是一個即插即用的Otp服務，適用於希望爲客戶添加2Auth層並通過短信發送驗證碼的應用程序和企業。該應用程序非常容易創建並通過短信發送代碼，並將驗證結果發回給應用程序。",
+      "tagline": "輕鬆設置OTP API"
+    }
+  ]
 }
