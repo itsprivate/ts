@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-19T08:00:00Z"
+  "original_createdAt": "2021-12-19T08:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "EmailEngineは、登録されたメールアカウントに対してIMAPおよびSMTP接続を開き、APIリクエストをIMAPコマンドに変換し、メールを送信し、これらのアカウントの変更を監視するセルフホストアプリケーションです。アカウントの更新ごとにWebhookを送信します。",
+      "tagline": "任意のメールアカウントにアクセスし、APIでメールを受信/送信することが可能"
+    },
+    {
+      "locale": "zh",
+      "description": "EmailEngine是一个自我托管的应用程序，它针对注册的电子邮件账户打开IMAP和SMTP连接，将API请求翻译成IMAP命令，发送电子邮件，并监控这些账户的变化。它为账户上的每一个更新发送一个Webhook。",
+      "tagline": "通过API访问任何电子邮件账户以接收/发送电子邮件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "EmailEngine是一個自我託管的應用程序，它針對註冊的電子郵件賬戶打開IMAP和SMTP連接，將API請求翻譯成IMAP命令，發送電子郵件，並監控這些賬戶的變化。它爲賬戶上的每一個更新發送一個Webhook。",
+      "tagline": "通過API訪問任何電子郵件賬戶以接收/發送電子郵件"
+    }
+  ]
 }
