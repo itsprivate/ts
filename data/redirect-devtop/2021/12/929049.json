@@ -43,5 +43,22 @@
   "original_created_at": "2021-12-17T11:25:25Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1koyFse4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wrar4zlr3hmqoxgmybfv.png",
   "author": "Fernando Doglio",
-  "author_url": "https://dev.to/deleteman123"
+  "author_url": "https://dev.to/deleteman123",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ビッグ・オー記法は、通常、私たちが何らかの正式な手続きを経て学ぶことのできるものの一つです。",
+      "title": "JavaScript開発者のための実践的ビッグオー記法"
+    },
+    {
+      "locale": "zh",
+      "description": "大O记号是我们通常在通过某种正式课程时了解的东西之一。",
+      "title": "为JavaScript开发者提供的实用大O符号"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大O記號是我們通常在通過某種正式課程時瞭解的東西之一。",
+      "title": "爲JavaScript開發者提供的實用大O符號"
+    }
+  ]
 }
