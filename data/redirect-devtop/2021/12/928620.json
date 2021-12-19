@@ -52,5 +52,22 @@
   "original_created_at": "2021-12-16T23:12:26Z",
   "image": "https://dev.to/social_previews/article/928620.png",
   "author": "Franck Pachot",
-  "author_url": "https://dev.to/franckpachot"
+  "author_url": "https://dev.to/franckpachot",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "グラフデータベースがなくても、ノードの階層をたどることができます。SQLでは結合や自己結合、さらには...",
+      "title": "5つのステップでSQL再帰的CTEを記述する方法を学ぶ"
+    },
+    {
+      "locale": "zh",
+      "description": "你不需要一个Graph数据库来遵循节点的层次结构。SQL可以做连接、自连接，甚至是...",
+      "title": "学习如何用5个步骤编写SQL递归CTE"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你不需要一個Graph數據庫來遵循節點的層次結構。SQL可以做連接、自連接，甚至是...",
+      "title": "學習如何用5個步驟編寫SQL遞歸CTE"
+    }
+  ]
 }
