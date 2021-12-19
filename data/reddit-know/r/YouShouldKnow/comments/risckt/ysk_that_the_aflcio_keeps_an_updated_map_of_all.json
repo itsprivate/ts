@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Why YSK: if you&#39;re trying to avoid\ncrossing picket lines this should aid you greatly.</p> <p><a\nhref=\"https://aflcio.org/strike-map\">Strike Map</a></p> </div><!-- SC_ON -->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Why YSK: if you&#39;re trying to avoid\ncrossing picket lines this should aid you greatly.</p> <p><a\nhref=\"https://aflcio.org/strike-map\">Strike Map</a></p> </div><!-- SC_ON -->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Why YSK: if you&#39;re trying to avoid\ncrossing picket lines this should aid you greatly.</p> <p><a\nhref=\"https://aflcio.org/strike-map\">Strike Map</a></p> </div><!-- SC_ON -->",
+      "title": "YSKは、AFL-CIOが米国内のすべての有効な労働者ストライキの最新マップを保持していることを知りました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Why YSK: if you&#39;re trying to avoid\ncrossing picket lines this should aid you greatly.</p> <p><a\nhref=\"https://aflcio.org/strike-map\">Strike Map</a></p> </div><!-- SC_ON -->",
+      "title": "YSK，AFL-CIO保持着美国所有活跃工人罢工的最新地图"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Why YSK: if you&#39;re trying to avoid\ncrossing picket lines this should aid you greatly.</p> <p><a\nhref=\"https://aflcio.org/strike-map\">Strike Map</a></p> </div><!-- SC_ON -->",
+      "title": "YSK，AFL-CIO保持着美國所有活躍工人罷工的最新地圖"
+    }
+  ]
 }
