@@ -11,5 +11,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "SankeyDiagram.net - 予算のような流れを可視化するツール [フリー+オープンソース］"
+    },
+    {
+      "locale": "zh",
+      "title": "SankeyDiagram.net - 一个可视化流程的工具，如你的预算[免费+开源]"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "SankeyDiagram.net - 一個可視化流程的工具，如你的預算[免費+開源]"
+    }
+  ]
 }
