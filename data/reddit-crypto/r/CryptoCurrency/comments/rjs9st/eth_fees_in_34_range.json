@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Quick, do your transactions people!</p> <p>ETH\ntransaction Gas - $3.53</p> <p>But ERC-20 or uniswap will naturally still be\nhigher</p> <p>ERC-20 transaction Gas - $10.36 Uniswap transaction Gas -\n$31.88</p> <p>While fees should still be way lower, for some this may…"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Quick, do your transactions people!</p> <p>ETH\ntransaction Gas - $3.53</p> <p>But ERC-20 or uniswap will naturally still be\nhigher</p> <p>ERC-20 transaction Gas - $10.36 Uniswap transaction Gas -\n$31.88</p> <p>While fees should still be way lower, for some this may…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Quick, do your transactions people!</p> <p>ETH\ntransaction Gas - $3.53</p> <p>But ERC-20 or uniswap will naturally still be\n</p> <p>ERC-20取引ガス - $10.36 ユニスワップ取引ガス - 10.36\n31.88ドル</p> <p>手数料はまだまだ安いはずですが、人によっては...。",
+      "title": "ETH手数料が3～4ドル台！？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Quick, do your transactions people!</p> <p>ETH\n交易气--3.53美元</p> <p>但ERC-20或uniswap自然仍将是\nhigher</p> <p>ERC-20 transaction Gas - $10.36 Uniswap transaction Gas -\n31.88美元</p> <p>虽然费用应该仍然很低，但对一些人来说，这可能...",
+      "title": "ETH费用在3-4美元之间!"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Quick, do your transactions people!</p> <p>ETH\n交易氣--3.53美元</p> <p>但ERC-20或uniswap自然仍將是\nhigher</p> <p>ERC-20 transaction Gas - $10.36 Uniswap transaction Gas -\n31.88美元</p> <p>雖然費用應該仍然很低，但對一些人來說，這可能...",
+      "title": "ETH費用在3-4美元之間!"
+    }
+  ]
 }
