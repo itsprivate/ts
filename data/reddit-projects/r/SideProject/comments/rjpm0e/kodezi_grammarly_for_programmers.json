@@ -11,5 +11,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Kodezi - プログラマーのためのGrammarly"
+    },
+    {
+      "locale": "zh",
+      "title": "Kodezi - 程序员的Grammarly"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Kodezi - 程序員的Grammarly"
+    }
+  ]
 }
