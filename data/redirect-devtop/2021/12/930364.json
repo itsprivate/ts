@@ -41,5 +41,22 @@
   "original_created_at": "2021-12-19T08:31:41Z",
   "image": "https://dev.to/social_previews/article/930364.png",
   "author": "Anders Björkland",
-  "author_url": "https://dev.to/andersbjorkland"
+  "author_url": "https://dev.to/andersbjorkland",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "要点だけ PHPの批判として珍しくないのが、セキュリティに欠けているということです。悲しいことに、私たちは...",
+      "title": "世界で最も安全でないコードである"
+    },
+    {
+      "locale": "zh",
+      "description": "主要内容 对 PHP 的一个常见的批评是它缺乏安全性。可悲的是，我们...",
+      "title": "这是世界上最不安全的代码"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "主要內容 對 PHP 的一個常見的批評是它缺乏安全性。可悲的是，我們...",
+      "title": "這是世界上最不安全的代碼"
+    }
+  ]
 }
