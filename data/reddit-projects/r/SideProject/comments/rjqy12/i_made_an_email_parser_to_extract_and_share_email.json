@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Link - <a\nhref=\"https://moogle.cc/nirvaancms.html\">https://moogle.cc/nirvaancms.html</a>\n</p> <p>I was getting tired of uploading content to S3 before using it on my\nproject so I built a system to extract attachments from emails and store it in a\npublic location.…"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Link - <a\nhref=\"https://moogle.cc/nirvaancms.html\">https://moogle.cc/nirvaancms.html</a>\n</p> <p>I was getting tired of uploading content to S3 before using it on my\nproject so I built a system to extract attachments from emails and store it in a\npublic location.…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Link - <a.\nhref=\"https://moogle.cc/nirvaancms.html\">https://moogle.cc/nirvaancms.html</a>\n</p> <p>コンテンツを使う前にS3にアップロードするのが面倒になった。\nそこで、メールから添付ファイルを抽出して保存するシステムを構築してみました。\n公開されている場所...。",
+      "title": "メールの添付ファイルを抽出して共有するためのメールパーサーを作りました"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>链接 - <a\nhref=\"https://moogle.cc/nirvaancms.html\">https://moogle.cc/nirvaancms.html</a\n</p> <p>我已经厌倦了在我的项目中使用内容之前将其上传到S3，所以我建立了一个系统，从电子邮件中提取附件并将其存储在\n所以我建立了一个系统，从电子邮件中提取附件并将其存储在一个\n公共位置....",
+      "title": "我做了一个电子邮件分析器来提取和分享电子邮件附件"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>鏈接 - <a\nhref=\"https://moogle.cc/nirvaancms.html\">https://moogle.cc/nirvaancms.html</a\n</p> <p>我已經厭倦了在我的項目中使用內容之前將其上傳到S3，所以我建立了一個系統，從電子郵件中提取附件並將其存儲在\n所以我建立了一個系統，從電子郵件中提取附件並將其存儲在一個\n公共位置....",
+      "title": "我做了一個電子郵件分析器來提取和分享電子郵件附件"
+    }
+  ]
 }
