@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "PUT/POSTでスマホにプッシュ通知を送ることができるものを作りました！Webhookとしても使えます。100%無料のオープンソースで、サインアップもセットアップも不要です。"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个东西，让你通过PUT/POST向你的手机发送推送通知，它也可以作为webhook使用。它是100%免费和开源的，不需要注册或设置。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個東西，讓你通過PUT/POST向你的手機發送推送通知，它也可以作爲webhook使用。它是100%免費和開源的，不需要註冊或設置。"
+    }
+  ]
 }
