@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC】英国Covid-19の日次症例（年齢別"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]英国的Covid-19每日病例按年龄划分"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]英國的Covid-19每日病例按年齡劃分"
+    }
+  ]
 }
