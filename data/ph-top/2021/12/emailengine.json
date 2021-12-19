@@ -1,0 +1,57 @@
+{
+  "id": "323201",
+  "commentsCount": 5,
+  "createdAt": "2021-12-19T13:46:49.968Z",
+  "description": "EmailEngine is a self-hosted application that opens IMAP and SMTP connections against registered email accounts to translate API requests to IMAP commands, send emails, and monitor changes on these accounts. It sends a webhook for every update on the account.",
+  "featuredAt": "2021-12-19T08:00:00Z",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ffc4e4ab-cbad-4bbf-8170-170028fa45e4.png?auto=format",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/0e49e4ff-7ea8-46b4-ae00-a998ad28161e.png?auto=format",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/b617fe46-e1cf-41be-8cc7-4aa45e0d0fa2.png?auto=format",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/7d913171-f3fb-4fc6-bbcf-78803915d9eb.png?auto=format",
+      "videoUrl": null
+    }
+  ],
+  "name": "EmailEngine",
+  "productLinks": [
+    {
+      "type": "Website",
+      "url": "https://www.producthunt.com/r/d22bbb77f19d88?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    }
+  ],
+  "user": {
+    "name": "Andris Reinman",
+    "url": "https://www.producthunt.com/@andrisreinman?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+  },
+  "reviewsCount": 1,
+  "reviewsRating": 5,
+  "slug": "emailengine",
+  "tagline": "Access any email account to receive/send emails with an API",
+  "url": "https://www.producthunt.com/posts/emailengine?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "votesCount": 53,
+  "website": "https://www.producthunt.com/r/d22bbb77f19d88?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "topics": {
+    "edges": [
+      {
+        "node": {
+          "name": "Developer Tools"
+        }
+      }
+    ]
+  },
+  "original_createdAt": "2021-12-19T08:00:00Z"
+}
