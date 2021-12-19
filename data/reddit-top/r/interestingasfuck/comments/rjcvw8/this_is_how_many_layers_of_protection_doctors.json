@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "感染力の強い病気には、医師はこれだけの防護策を講じます。"
+    },
+    {
+      "locale": "zh",
+      "title": "这就是医生在处理高度传染性疾病时的几层保护措施"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這就是醫生在處理高度傳染性疾病時的幾層保護措施"
+    }
+  ]
 }
