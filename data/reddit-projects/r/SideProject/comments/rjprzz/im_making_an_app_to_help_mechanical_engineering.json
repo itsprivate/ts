@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "機械工学の学生が効率的に学習できるアプリを作っています"
+    },
+    {
+      "locale": "zh",
+      "title": "我正在制作一个应用程序，帮助机械工程学生更有效地学习"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我正在製作一個應用程序，幫助機械工程學生更有效地學習"
+    }
+  ]
 }
