@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Watching the news where immigrants die\ncrossing from France to Britain. The news presenter said ‘x’ amount of people\ndied including ‘x’ amount of women and children. I can get to grips with the\nchildren getting highlighted as they are pretty much defenceless but why…"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Watching the news where immigrants die\ncrossing from France to Britain. The news presenter said ‘x’ amount of people\ndied including ‘x’ amount of women and children. I can get to grips with the\nchildren getting highlighted as they are pretty much defenceless but why…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p> 移民が死亡するニュースを見る。\nフランスからイギリスへ渡る ニュースキャスターは「○○人」と言った。\n女性や子供を含む「○○人」が死亡しました。というのは理解できるのですが\n子供たちは無防備なので、強調されていますが、なぜ......。",
+      "title": "なぜ、悲しいニュースの中で女性や子どもがクローズアップされるのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>观看移民死亡的新闻\n从法国穿越到英国。新闻主持人说'x'数量的人\n包括'x'数量的妇女和儿童死亡。我可以理解的是\n我可以理解孩子们被强调，因为他们几乎没有任何防卫能力，但为什么......",
+      "title": "为什么妇女和儿童在悲伤的新闻中被强调？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>觀看移民死亡的新聞\n從法國穿越到英國。新聞主持人說'x'數量的人\n包括'x'數量的婦女和兒童死亡。我可以理解的是\n我可以理解孩子們被強調，因爲他們幾乎沒有任何防衛能力，但爲什麼......",
+      "title": "爲什麼婦女和兒童在悲傷的新聞中被強調？"
+    }
+  ]
 }
