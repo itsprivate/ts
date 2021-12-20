@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Why YSK: your data can often still be\nrecovered, and hacked, even after your request that it be deleted was confirmed\nby a company.</p> <p>I worked as a data scientist in big tech, and observed that\ndata deletion is tricky business. Data governance laws vary by…"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Why YSK: your data can often still be\nrecovered, and hacked, even after your request that it be deleted was confirmed\nby a company.</p> <p>I worked as a data scientist in big tech, and observed that\ndata deletion is tricky business. Data governance laws vary by…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Why YSK: あなたのデータは、しばしばまだ残っていることがあります。\n削除依頼が確認された後でも、復元され、ハッキングされる。\n</p> <p>私はビッグテックでデータサイエンティストとして働き、次のことを観察しました。\nデータ削除は厄介なビジネスです。データガバナンスの法律は、...",
+      "title": "データを削除しても削除されるとは限らないYSK"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>为什么YSK：你的数据往往仍然可以被恢复\n你的数据经常可以被恢复，并被黑客攻击，甚至在你要求删除数据的请求被公司确认后也是如此。\n</p> <p>我曾在大技术领域担任数据科学家，并观察到数据删除是一件棘手的事情。\n数据删除是一件棘手的事情。数据治理法律因人而异。",
+      "title": "YSK认为，删除你的数据并不总是删除它"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>爲什麼YSK：你的數據往往仍然可以被恢復\n你的數據經常可以被恢復，並被黑客攻擊，甚至在你要求刪除數據的請求被公司確認後也是如此。\n</p> <p>我曾在大技術領域擔任數據科學家，並觀察到數據刪除是一件棘手的事情。\n數據刪除是一件棘手的事情。數據治理法律因人而異。",
+      "title": "YSK認爲，刪除你的數據並不總是刪除它"
+    }
+  ]
 }
