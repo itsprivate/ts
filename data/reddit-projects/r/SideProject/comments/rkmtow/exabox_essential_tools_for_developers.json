@@ -52,5 +52,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone 👋,</p> <p>I&#39;d like to\nintroduce you exabox, a side project I&#39;ve been working on in the last few\nmonths. It is a set of 30+ tools for developers: convert/format JSON/YAML,\nencode/decode Base64, generate fake data, parse JWTs, transform a text…"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone 👋,</p> <p>I&#39;d like to\nintroduce you exabox, a side project I&#39;ve been working on in the last few\nmonths. It is a set of 30+ tools for developers: convert/format JSON/YAML,\nencode/decode Base64, generate fake data, parse JWTs, transform a text…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone 👋,</p> <p>I&#39;d't like to be a lot.\nここ数年、私が取り組んでいるサイドプロジェクト、exaboxを紹介します。\nこの数ヶ月 これは開発者のための30以上のツールのセットである：JSON/YAMLを変換/フォーマットする。\nBase64のエンコード/デコード、フェイクデータの生成、JWTのパース、テキストの変換...。",
+      "title": "Exabox - デベロッパーのための必須ツール (macOS/Windows) - exabox.app"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>大家好👋,</p> <p>我想向大家介绍exabox。\n介绍一下exabox，一个我在过去几个月里一直在做的副业。\n几个月来一直在做的一个副业。它为开发者提供了一套30多个工具：转换/格式化JSON/YAML。\n编码/解码Base64，生成假数据，解析JWTs，转换文本。",
+      "title": "Exabox - 开发人员的基本工具（macOS/Windows） - exabox.app"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>大家好👋,</p> <p>我想向大家介紹exabox。\n介紹一下exabox，一個我在過去幾個月裏一直在做的副業。\n幾個月來一直在做的一個副業。它爲開發者提供了一套30多個工具：轉換/格式化JSON/YAML。\n編碼/解碼Base64，生成假數據，解析JWTs，轉換文本。",
+      "title": "Exabox - 開發人員的基本工具（macOS/Windows） - exabox.app"
+    }
+  ]
 }
