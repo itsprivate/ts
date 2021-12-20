@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-20T08:01:00Z"
+  "original_createdAt": "2021-12-20T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "アイソメトリックデザインにより、立体感のある図形のパターンを簡単に生成できるSVGジェネレーターです。",
+      "tagline": "アイソメトリックな3D風パターンのSVGジェネレーター"
+    },
+    {
+      "locale": "zh",
+      "description": "一个SVG生成器，由于采用了等距设计，可以很容易地生成具有3D外观和感觉的形状图案。",
+      "tagline": "等距三维模式的SVG生成器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個SVG生成器，由於採用了等距設計，可以很容易地生成具有3D外觀和感覺的形狀圖案。",
+      "tagline": "等距三維模式的SVG生成器"
+    }
+  ]
 }
