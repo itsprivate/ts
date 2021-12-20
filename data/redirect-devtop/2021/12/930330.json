@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-19T07:06:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--h5K0KCfa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tk8pj3s1b7b73zcramlb.jpg",
   "author": "Mysterio",
-  "author_url": "https://dev.to/shubhamtiwari909"
+  "author_url": "https://dev.to/shubhamtiwari909",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、皆さん。今日は、VSCode Extensionを紹介します。",
+      "title": "Web 開発に最適な VS code 拡張機能"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，今天我将向大家展示一些VSCode扩展，它帮助我提高了我的工作效率。",
+      "title": "网络开发的最佳VS代码扩展"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，今天我將向大家展示一些VSCode擴展，它幫助我提高了我的工作效率。",
+      "title": "網絡開發的最佳VS代碼擴展"
+    }
+  ]
 }
