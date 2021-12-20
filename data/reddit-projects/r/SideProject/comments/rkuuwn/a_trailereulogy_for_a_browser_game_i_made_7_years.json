@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "7年前に作ったブラウザゲームのトレイラー/エウロギーです。Flashなので、もうオンラインでは遊べません。"
+    },
+    {
+      "locale": "zh",
+      "title": "这是我7年前做的一个浏览器游戏的预告片/悼词。由于它是Flash，你不能再在网上玩它了。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是我7年前做的一個瀏覽器遊戲的預告片/悼詞。由於它是Flash，你不能再在網上玩它了。"
+    }
+  ]
 }
