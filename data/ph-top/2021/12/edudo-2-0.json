@@ -72,5 +72,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-20T08:03:00Z"
+  "original_createdAt": "2021-12-20T08:03:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "EduDoは、ビデオディスカッションのプラットフォームです",
+      "tagline": "動画を使ったディスカッションプラットフォーム"
+    },
+    {
+      "locale": "zh",
+      "description": "EduDo是一个视频讨论平台",
+      "tagline": "基于视频的讨论平台"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "EduDo是一個視頻討論平臺",
+      "tagline": "基於視頻的討論平臺"
+    }
+  ]
 }
