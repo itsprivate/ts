@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-19T07:10:36Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PSBL2JYq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eqmhy2ekxlo8lg0k0eb2.png",
   "author": "Kishan Sheth",
-  "author_url": "https://dev.to/koolkishan"
+  "author_url": "https://dev.to/koolkishan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "動画の説明文にあるリンクからテンプレートを入手することができます。          ...",
+      "title": "Rechartsを使ったReact Admin Dashboard"
+    },
+    {
+      "locale": "zh",
+      "description": "你可以从视频描述中的链接中获得模板。          ...",
+      "title": "使用Recharts的React管理仪表板"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你可以從視頻描述中的鏈接中獲得模板。          ...",
+      "title": "使用Recharts的React管理儀表板"
+    }
+  ]
 }
