@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-19T08:49:50Z",
   "image": "https://dev.to/social_previews/article/930377.png",
   "author": "SnowBit",
-  "author_url": "https://dev.to/snowbit"
+  "author_url": "https://dev.to/snowbit",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ハローワールド また新しい記事をお届けします🎉...。 今日は、私が使っているエディタについてお話します。",
+      "title": "VSCodeのようなテキストエディタを自作する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，世界! 我又回来了，带来了一篇新的文章 🎉....  今天，我将谈一谈我所使用的编辑器。",
+      "title": "我如何制作自己的文本编辑器，如VSCode"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，世界! 我又回來了，帶來了一篇新的文章 🎉....  今天，我將談一談我所使用的編輯器。",
+      "title": "我如何製作自己的文本編輯器，如VSCode"
+    }
+  ]
 }
