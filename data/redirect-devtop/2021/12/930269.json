@@ -43,5 +43,22 @@
   "original_created_at": "2021-12-19T04:46:17Z",
   "image": "https://dev.to/social_previews/article/930269.png",
   "author": "Young Yoshie",
-  "author_url": "https://dev.to/youngyoshie"
+  "author_url": "https://dev.to/youngyoshie",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Go用Dockerfile",
+      "title": "Go用Dockerfile"
+    },
+    {
+      "locale": "zh",
+      "description": "Dockerfile for Go",
+      "title": "Dockerfile for Go"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Dockerfile for Go",
+      "title": "Dockerfile for Go"
+    }
+  ]
 }
