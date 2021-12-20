@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ポーズ"
+    },
+    {
+      "locale": "zh",
+      "title": "暂停"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "暫停"
+    }
+  ]
 }
