@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "NextJS、TypeScript、ChakraUIを使って、SSG（Static Site Generation）ブログサイトを作りました。このテンプレートはご自由にお使いください。"
+    },
+    {
+      "locale": "zh",
+      "title": "我使用NextJS、TypeScript和ChakraUI创建了一个静态网站生成（SSG）博客网站。请自由使用这个模板。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我使用NextJS、TypeScript和ChakraUI創建了一個靜態網站生成（SSG）博客網站。請自由使用這個模板。"
+    }
+  ]
 }
