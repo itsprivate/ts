@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Atlas - クロームのホームページに必要なものがすべて表示されます（メモ、Todo、画像/ビデオアップロードなど）。"
+    },
+    {
+      "locale": "zh",
+      "title": "Atlas - 你需要的一切都在你的chrome主页上（笔记、Todos、图片/视频上传，以及更多）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Atlas - 你需要的一切都在你的chrome主頁上（筆記、Todos、圖片/視頻上傳，以及更多）。"
+    }
+  ]
 }
