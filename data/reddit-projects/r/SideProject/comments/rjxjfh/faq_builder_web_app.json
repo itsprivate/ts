@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Hey!</p> <p>I would like to share an\napplication that I built that lets you build FAQ sections that you can either\nembed on your website or share via URL.</p> <p>The FAQ section component is\nbuilt as a web component which makes it platform independent and should…"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Hey!</p> <p>I would like to share an\napplication that I built that lets you build FAQ sections that you can either\nembed on your website or share via URL.</p> <p>The FAQ section component is\nbuilt as a web component which makes it platform independent and should…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Hey!</p> <p>今回は、この「某有名企業」が開発した「某有名企業」を紹介します。\nこのアプリケーションでは、FAQセクションを作成することができます。\n</p> <p>FAQセクションコンポーネントは、あなたのウェブサイトに埋め込んだり、URLで共有したりすることができます。\nWebコンポーネントとして構築されているため、プラットフォームに依存せず、...",
+      "title": "FAQ作成用Webアプリ"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>嗨！</p> <p>我想分享一个\n我建立了一个应用程序，它可以让你建立FAQ部分，你可以将其嵌入你的网站或通过URL共享。\n</p> <p>常见问题部分的组件是作为一个网络组件构建的，这使得它可以在您的网站上嵌入或通过URL共享。\n</p> <p>该 FAQ 部分组件是作为一个 Web 组件构建的，这使得它与平台无关，并且应该...",
+      "title": "常见问题构建器网络应用"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>嗨！</p> <p>我想分享一個\n我建立了一個應用程序，它可以讓你建立FAQ部分，你可以將其嵌入你的網站或通過URL共享。\n</p> <p>常見問題部分的組件是作爲一個網絡組件構建的，這使得它可以在您的網站上嵌入或通過URL共享。\n</p> <p>該 FAQ 部分組件是作爲一個 Web 組件構建的，這使得它與平臺無關，並且應該...",
+      "title": "常見問題構建器網絡應用"
+    }
+  ]
 }
