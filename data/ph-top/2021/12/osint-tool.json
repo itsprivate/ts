@@ -67,5 +67,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-19T08:00:00Z"
+  "original_createdAt": "2021-12-19T08:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "OSINT-tool.comは、2つの意味を持っています。1) 公開されているリンクや、APIを通じてお気に入りのエンリッチメントプロバイダーを使って調べられるウェブサイトと、2) テキストや画像をハイライトして、1)を使ってエンリッチメントできるChrome拡張機能です。",
+      "tagline": "Chrome拡張機能でAPI経由で電話/メール/IP/人を検索する。"
+    },
+    {
+      "locale": "zh",
+      "description": "OSINT-tool.com是两件事。1）一个网站，你可以使用公共可用的链接，或通过API使用你最喜欢的丰富的供应商来查询东西；2）一个Chrome扩展，允许你突出显示文本或图像，并使用1) 丰富它。",
+      "tagline": "Chrome扩展程序通过API查找电话/电子邮件/IP/人的信息"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "OSINT-tool.com是兩件事。1）一個網站，你可以使用公共可用的鏈接，或通過API使用你最喜歡的豐富的供應商來查詢東西；2）一個Chrome擴展，允許你突出顯示文本或圖像，並使用1) 豐富它。",
+      "tagline": "Chrome擴展程序通過API查找電話/電子郵件/IP/人的信息"
+    }
+  ]
 }
