@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Disclaimer: I&#39;m not a vegan.</p> <p>A few\nexamples of what I mean with the title.</p> <p>&quot;You still use banks? I\nunbanked myself.&quot; = &quot;You still eat meat? I&#39;m vegan.&quot;</p>\n<p>&quot;Bank refuses to process my payment to a crypto…"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Disclaimer: I&#39;m not a vegan.</p> <p>A few\nexamples of what I mean with the title.</p> <p>&quot;You still use banks? I\nunbanked myself.&quot; = &quot;You still eat meat? I&#39;m vegan.&quot;</p>\n<p>&quot;Bank refuses to process my payment to a crypto…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Disclaimer: I&#39;m not a vegan.</p> <p>いくつかの例を挙げます。\n</p> <p>&quot;まだ銀行を使ってるんですか？I\nを、自分で銀行から外す。私はビーガンです。\n<p>&quot;Bank refuses my payment to a crypto...銀行が私の支払いを処理することを拒否しました。",
+      "title": "暗号に投資していますか？クールですね。ヴィーガンにならないようにね。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>免责声明：我不是一个素食主义者。</p> <p>几个例子\n</p> <p>&quot;你还在使用银行？I\n自己没有银行。&quot;=&quot;你还吃肉？我是素食主义者。&quot;</p> <p>&quot;你还吃肉吗？\n<p>&quot;银行拒绝处理我对一个加密货币的付款。",
+      "title": "你是否投资于加密货币？很好。不要在这方面成为一个素食主义者。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>免責聲明：我不是一個素食主義者。</p> <p>幾個例子\n</p> <p>&quot;你還在使用銀行？I\n自己沒有銀行。&quot;=&quot;你還喫肉？我是素食主義者。&quot;</p> <p>&quot;你還喫肉嗎？\n<p>&quot;銀行拒絕處理我對一個加密貨幣的付款。",
+      "title": "你是否投資於加密貨幣？很好。不要在這方面成爲一個素食主義者。"
+    }
+  ]
 }
