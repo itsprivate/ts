@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>We should treat it the same as other\ncurrencies</p> </div><!-- SC_ON -->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>We should treat it the same as other\ncurrencies</p> </div><!-- SC_ON -->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>We should treat it the same as other\ncurrencies</p> </div><!-- SC_ON -->",
+      "title": "なぜエルサルバドルの通貨にはキャピタルゲイン税を支払う必要があり、他の通貨には必要ないのですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>We should treat it the same as other\ncurrencies</p> </div><!-- SC_ON -->",
+      "title": "为什么我需要为我的萨尔瓦多货币支付资本利得税，而不是任何其他货币？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>We should treat it the same as other\ncurrencies</p> </div><!-- SC_ON -->",
+      "title": "爲什麼我需要爲我的薩爾瓦多貨幣支付資本利得稅，而不是任何其他貨幣？"
+    }
+  ]
 }
