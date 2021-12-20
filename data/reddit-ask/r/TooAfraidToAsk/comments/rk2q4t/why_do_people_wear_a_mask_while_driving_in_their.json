@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m sure you&#39;ve seen it. People\ndriving around (alone) wearing a face mask. Why is this?</p> </div><!-- SC_ON\n-->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m sure you&#39;ve seen it. People\ndriving around (alone) wearing a face mask. Why is this?</p> </div><!-- SC_ON\n-->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;can't you have seen it. 人\ndriving around (alone) wearing a face mask. Why is this?</p> </div><!-- SC_ON\n-->",
+      "title": "なぜ、人は一人でクルマを運転するときにマスクをするのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<！--SC_OFF --><div class=\"md\"><p>我相信你已经看到了。人们\n独自一人）戴着面罩开车到处跑。这是为什么？</p> </div><!-- SC_ON\n-->",
+      "title": "为什么人们在独自开车时要戴上口罩？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<！--SC_OFF --><div class=\"md\"><p>我相信你已經看到了。人們\n獨自一人）戴着面罩開車到處跑。這是爲什麼？</p> </div><!-- SC_ON\n-->",
+      "title": "爲什麼人們在獨自開車時要戴上口罩？"
+    }
+  ]
 }
