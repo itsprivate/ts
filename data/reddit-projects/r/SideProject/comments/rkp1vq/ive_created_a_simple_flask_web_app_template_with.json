@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私は、3つのタブ（Home-Login-Logout）とFlask-Login、sessioning、Cookieを使用したセキュリティでシンプルなFlask Webアプリテンプレートを作成しました。これは、複数ページのアプリ（私はよく作ります）の出発点であり、完全にカスタマイズすることができます。"
+    },
+    {
+      "locale": "zh",
+      "title": "我创建了一个简单的flask web应用模板，有三个标签（主页-登录-注销），并使用Flask-Login、sessioning和Cookies来保证安全。它是多页应用（我经常做这种应用）的一个起点，可以完全定制。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我創建了一個簡單的flask web應用模板，有三個標籤（主頁-登錄-註銷），並使用Flask-Login、sessioning和Cookies來保證安全。它是多頁應用（我經常做這種應用）的一個起點，可以完全定製。"
+    }
+  ]
 }
