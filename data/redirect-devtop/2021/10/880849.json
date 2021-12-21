@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-29T09:49:19Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ESvFICW2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4a9kxjw1wnlt3t4wdl5g.png",
   "author": "Jakub Andrzejewski",
-  "author_url": "https://dev.to/baroshem"
+  "author_url": "https://dev.to/baroshem",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Nuxt.jsでキャッシュを活用する 私が初めてキャッシュの話題に触れたのは、Nuxt.jsを使ったアプリケーションを実装しているときでした。",
+      "title": "Nuxt.jsでキャッシュを活用する"
+    },
+    {
+      "locale": "zh",
+      "description": "在Nuxt.js中利用缓存 我第一次接触到缓存这个话题，是在我实现了一个 \"Nuxt.js \"项目之后。",
+      "title": "在Nuxt.js中利用缓存"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在Nuxt.js中利用緩存 我第一次接觸到緩存這個話題，是在我實現了一個 \"Nuxt.js \"項目之後。",
+      "title": "在Nuxt.js中利用緩存"
+    }
+  ]
 }
