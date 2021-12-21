@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC】COVIDによる住民一人当たりの死亡数（郡別"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]各县居民人均COVID死亡人数"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]各縣居民人均COVID死亡人數"
+    }
+  ]
 }
