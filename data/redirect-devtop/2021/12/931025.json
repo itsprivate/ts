@@ -41,5 +41,22 @@
   "original_created_at": "2021-12-20T10:59:30Z",
   "image": "https://dev.to/social_previews/article/931025.png",
   "author": "Wojciech Maj",
-  "author_url": "https://dev.to/wojtekmaj"
+  "author_url": "https://dev.to/wojtekmaj",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "React 17 Enzyme adapter のメンテナからの警告です。",
+      "title": "酵素が死んだ。今度は何だ？"
+    },
+    {
+      "locale": "zh",
+      "description": "来自React 17 Enzyme适配器维护者的警告。",
+      "title": "酶已经死亡。现在怎么办？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "來自React 17 Enzyme適配器維護者的警告。",
+      "title": "酶已經死亡。現在怎麼辦？"
+    }
+  ]
 }
