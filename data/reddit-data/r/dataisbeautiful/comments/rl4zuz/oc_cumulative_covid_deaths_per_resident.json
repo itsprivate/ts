@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] 住民一人当たりのCOVIDによる累積死亡数（州別集計"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]按州汇总的居民人均COVID累计死亡数"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]按州彙總的居民人均COVID累計死亡數"
+    }
+  ]
 }
