@@ -50,5 +50,22 @@
   "original_created_at": "2021-12-20T20:58:03Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--reJeD6_k--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4runq46hnho7pcko1248.png",
   "author": "Temani Afif",
-  "author_url": "https://dev.to/afif"
+  "author_url": "https://dev.to/afif",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "またまた、CSSアートをご紹介します。大好きなアニメ（Attack On Titan）に戻って描いてみました。 CSSだけの絵です。",
+      "title": "巨大なCSSアート!"
+    },
+    {
+      "locale": "zh",
+      "description": "在这里，我有另一个CSS艺术。我又回到了我最喜欢的动漫（《攻壳机动队》）来画。 一个纯CSS的艺术作品。",
+      "title": "一个巨大的CSS艺术!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這裏，我有另一個CSS藝術。我又回到了我最喜歡的動漫（《攻殼機動隊》）來畫。 一個純CSS的藝術作品。",
+      "title": "一個巨大的CSS藝術!"
+    }
+  ]
 }
