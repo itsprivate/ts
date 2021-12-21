@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-20T14:46:42Z",
   "image": "https://dev.to/social_previews/article/931272.png",
   "author": "Nadia Makarevich",
-  "author_url": "https://dev.to/adevnadia"
+  "author_url": "https://dev.to/adevnadia",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "本記事は「React開発者のための上級typescript」シリーズの第3回目です。その中で...",
+      "title": "React開発者のための高度なtypescript - パート3"
+    },
+    {
+      "locale": "zh",
+      "description": "这是 \"React开发者的高级类型语言 \"系列的第三篇文章。在这篇文章中",
+      "title": "为React开发者提供的高级typescript - 第三部分"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是 \"React開發者的高級類型語言 \"系列的第三篇文章。在這篇文章中",
+      "title": "爲React開發者提供的高級typescript - 第三部分"
+    }
+  ]
 }
