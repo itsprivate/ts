@@ -59,5 +59,19 @@
     }
   },
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "音声をリアルタイムでイラスト化するアプリを作りました"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个应用程序，可以实时说明口语化的音频"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個應用程序，可以實時說明口語化的音頻"
+    }
+  ]
 }
