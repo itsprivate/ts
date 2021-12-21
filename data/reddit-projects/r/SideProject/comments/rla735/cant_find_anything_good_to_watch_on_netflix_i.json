@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Netflixでいい作品が見つからない？Netflixの隠れた名作を即座に発見できるサイトを作りました！Product Huntで公開中です。"
+    },
+    {
+      "locale": "zh",
+      "title": "在Netflix上找不到好东西看？我做了一个网站，帮助你立即发现Netflix的顶级隐藏精品，它现在已经在Product Hunt上上线了!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在Netflix上找不到好東西看？我做了一個網站，幫助你立即發現Netflix的頂級隱藏精品，它現在已經在Product Hunt上上線了!"
+    }
+  ]
 }
