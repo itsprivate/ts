@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-21T08:01:00Z"
+  "original_createdAt": "2021-12-21T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Ambire Walletは、DeFiの共通のペインポイントを解決し、パワーと使いやすさを兼ね備えた最初のDeFi暗号通貨ウォレットです。Ethereum、Polygon、Avalanche、BSCで利用可能です。",
+      "tagline": "DeFiエクスペリエンスのスピードアップとガス管理の自動化"
+    },
+    {
+      "locale": "zh",
+      "description": "Ambire钱包是第一个DeFi加密货币钱包，结合了强大的功能和易用性，解决了DeFi的常见痛点。可在以太坊、Polygon、Avalanche和BSC上使用。",
+      "tagline": "加快你的DeFi体验并实现气体管理自动化"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Ambire錢包是第一個DeFi加密貨幣錢包，結合了強大的功能和易用性，解決了DeFi的常見痛點。可在以太坊、Polygon、Avalanche和BSC上使用。",
+      "tagline": "加快你的DeFi體驗並實現氣體管理自動化"
+    }
+  ]
 }
