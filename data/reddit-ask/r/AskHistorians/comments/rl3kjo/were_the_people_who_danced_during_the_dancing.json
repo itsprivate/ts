@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>were they possesed? what happened to those who\nsurvived, what did they say afterwards?</p> <p>this is a historical event that I\njust don’t understand.</p> </div><!-- SC_ON -->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>were they possesed? what happened to those who\nsurvived, what did they say afterwards?</p> <p>this is a historical event that I\njust don’t understand.</p> </div><!-- SC_ON -->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>彼らは憑依されたのか、その人たちはどうなったのか。\n</p> <p>これは歴史的な出来事で、私には理解できません。\n</p> </div><!",
+      "title": "1518年の「踊るペスト」で踊った人たちは、正気だったのだろうか？他の人が彼らに話しかけるとどうなったのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>他们被占有了吗？ 那些幸存的人发生了什么？\n</p> <p>这是一个历史事件，我只是不知道。\njust don’t understand.</p> </div><!-- SC_ON -->",
+      "title": "在1518年的舞蹈瘟疫中跳舞的人是理智的吗？当其他人试图与他们交谈时发生了什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>他們被佔有了嗎？ 那些倖存的人發生了什麼？\n</p> <p>這是一個歷史事件，我只是不知道。\njust don’t understand.</p> </div><!-- SC_ON -->",
+      "title": "在1518年的舞蹈瘟疫中跳舞的人是理智的嗎？當其他人試圖與他們交談時發生了什麼？"
+    }
+  ]
 }
