@@ -68,5 +68,22 @@
     },
     "retweet_count": 447,
     "favorite_count": 3492
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @adam3us: #ビットコインは偉大なリセットだ。",
+      "retweeted_status_full_text": "#ビットコイン は偉大なるリセット。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @adam3us: #比特币是伟大的重置。",
+      "retweeted_status_full_text": "#比特币是伟大的重置。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @adam3us: #比特幣是偉大的重置。",
+      "retweeted_status_full_text": "#比特幣是偉大的重置。"
+    }
+  ]
 }
