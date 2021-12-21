@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "好きな色についてのアンケートでは、紫が最も男女で意見が分かれる[OC]。"
+    },
+    {
+      "locale": "zh",
+      "title": "在一项关于最喜欢的颜色的调查中，紫色在两性之间的意见分歧最大[OC] 。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在一項關於最喜歡的顏色的調查中，紫色在兩性之間的意見分歧最大[OC] 。"
+    }
+  ]
 }
