@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-20T08:54:19Z",
   "image": "https://dev.to/social_previews/article/930955.png",
   "author": "David Lorenz",
-  "author_url": "https://dev.to/activenode"
+  "author_url": "https://dev.to/activenode",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "基本的なアクセシビリティは難しいことではありませんし、多くの場合、選択するものでもありません。難しいのは、あなたのクソッタレ...",
+      "title": "嫌なこと言うなよ。フロントエンドエンジニアとアクセシビリティ"
+    },
+    {
+      "locale": "zh",
+      "description": "基本无障碍设施并不难，而且往往甚至不是一种选择。难的是你那该死的...",
+      "title": "不要成为一个刺头。前端工程师与可及性"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "基本無障礙設施並不難，而且往往甚至不是一種選擇。難的是你那該死的...",
+      "title": "不要成爲一個刺頭。前端工程師與可及性"
+    }
+  ]
 }

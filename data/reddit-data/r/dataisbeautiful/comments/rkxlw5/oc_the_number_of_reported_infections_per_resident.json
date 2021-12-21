@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC】州民一人当たりの感染症報告数。5人に1人が感染していても、20％が感染しているとは限らない。データ元：NYTimesが管理しているGithubリポジトリ。使用したツール：git，FFmpeg，その他さまざまなUnixコマンド，すべて Mathematica でラッピングされています．"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]该州每个居民报告的感染数量。1/5不一定意味着20%的人已经被感染。数据来自：纽约时报维护的Github repo。使用的工具：git、FFmpeg和其他各种Unix命令，全部用Mathematica包装。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]該州每個居民報告的感染數量。1/5不一定意味着20%的人已經被感染。數據來自：紐約時報維護的Github repo。使用的工具：git、FFmpeg和其他各種Unix命令，全部用Mathematica包裝。"
+    }
+  ]
 }
