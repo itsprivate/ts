@@ -42,5 +42,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この人はチリの大統領選に出る人"
+    },
+    {
+      "locale": "zh",
+      "title": "这家伙是智利的当选总统"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這傢伙是智利的當選總統"
+    }
+  ]
 }

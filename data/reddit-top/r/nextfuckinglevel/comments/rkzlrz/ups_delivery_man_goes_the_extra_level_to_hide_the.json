@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "UPSの配達員は、荷物を隠すために余計なことをする。"
+    },
+    {
+      "locale": "zh",
+      "title": "UPS送货员多此一举地隐藏包裹。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "UPS送貨員多此一舉地隱藏包裹。"
+    }
+  ]
 }
