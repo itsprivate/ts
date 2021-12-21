@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-21T08:01:00Z"
+  "original_createdAt": "2021-12-21T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "感謝は、私たちがいつももっと感じたいと思い、もっと与えたいと感じているものです。では、なぜもっと簡単にできるようにしないのでしょうか？そのために、この無料のSlackbotを作りました。SamosaBot by Threadoは、あなたのSlackコミュニティで感謝の気持ちを伝えるための楽しくてシンプルな方法です。",
+      "tagline": "地域で感謝を育むSlackbot"
+    },
+    {
+      "locale": "zh",
+      "description": "感恩是我们总是喜欢感受到更多的东西，并且总是觉得给予更多的东西很好。那么，为什么不使它更容易做到呢？我们制作了这个免费的Slackbot来帮助做到这一点。Threado的SamosaBot是一种有趣的、简单的方式，可以在你的Slack社区中表达感激之情。",
+      "tagline": "在你的社区增长感激之情的Slackbot"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "感恩是我們總是喜歡感受到更多的東西，並且總是覺得給予更多的東西很好。那麼，爲什麼不使它更容易做到呢？我們製作了這個免費的Slackbot來幫助做到這一點。Threado的SamosaBot是一種有趣的、簡單的方式，可以在你的Slack社區中表達感激之情。",
+      "tagline": "在你的社區增長感激之情的Slackbot"
+    }
+  ]
 }
