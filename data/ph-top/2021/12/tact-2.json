@@ -48,5 +48,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-21T12:13:05Z"
+  "original_createdAt": "2021-12-21T12:13:05Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Tactは、iOS、iPadOS、macOS用のシンプルなネイティブチャットアプリです。iCloudと連動し、アカウントを作成する必要がありません。つまり、プライベートで、不要な接続がないことを意味します。",
+      "tagline": "シンプルなチャットアプリ"
+    },
+    {
+      "locale": "zh",
+      "description": "Tact是一个简单的原生聊天应用，适用于iOS、iPadOS和macOS。它与iCloud一起工作，不需要你创建一个账户--这意味着它是私密的，没有不需要的连接。",
+      "tagline": "一个简单的聊天应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Tact是一個簡單的原生聊天應用，適用於iOS、iPadOS和macOS。它與iCloud一起工作，不需要你創建一個賬戶--這意味着它是私密的，沒有不需要的連接。",
+      "tagline": "一個簡單的聊天應用程序"
+    }
+  ]
 }
