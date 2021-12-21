@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この人は、本当に聞く価値がある。"
+    },
+    {
+      "locale": "zh",
+      "title": "这家伙知道...真的值得一听"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這傢伙知道...真的值得一聽"
+    }
+  ]
 }
