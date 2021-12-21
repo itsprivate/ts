@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "控えめに言っても、予想外"
+    },
+    {
+      "locale": "zh",
+      "title": "至少可以说是意想不到的"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "至少可以說是意想不到的"
+    }
+  ]
 }
