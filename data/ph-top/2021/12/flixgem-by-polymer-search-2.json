@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-21T08:01:00Z"
+  "original_createdAt": "2021-12-21T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Netflixの隠れた名作を見つける最高の方法を構築しました： 💯 トップクラスの映画と番組だけが含まれています。🔍 何千もの属性を探索する唯一の方法 🎥 あまり知られていない高評価のコンテンツを見つける Polymer Searchを使って、ゼロコードで構築しました。",
+      "tagline": "Netflixの隠れた名作を即座に発見することができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "我们建立了寻找Netflix上隐藏的宝石的最佳方式： 💯 只包括最高评级的电影和节目。没有垃圾 🔍 探索数以千计的属性的唯一方法 🎥 找到高评级的内容，而不是那么知名 使用Polymer Search，以零代码建立。",
+      "tagline": "立即发现Netflix的顶级隐藏景点"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們建立了尋找Netflix上隱藏的寶石的最佳方式： 💯 只包括最高評級的電影和節目。沒有垃圾 🔍 探索數以千計的屬性的唯一方法 🎥 找到高評級的內容，而不是那麼知名 使用Polymer Search，以零代碼建立。",
+      "tagline": "立即發現Netflix的頂級隱藏景點"
+    }
+  ]
 }

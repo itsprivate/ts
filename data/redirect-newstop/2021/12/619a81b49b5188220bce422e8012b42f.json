@@ -14,5 +14,19 @@
   "tags": [
     "BBC News"
   ],
-  "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7585/production/_122358003_dino.jpg"
+  "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7585/production/_122358003_dino.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "中国で完全保存された恐竜の胚が発見される"
+    },
+    {
+      "locale": "zh",
+      "title": "在中国发现保存完好的恐龙胚胎"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在中國發現保存完好的恐龍胚胎"
+    }
+  ]
 }
