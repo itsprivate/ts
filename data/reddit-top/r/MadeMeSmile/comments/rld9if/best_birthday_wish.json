@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ベストバースデーウィッシュ"
+    },
+    {
+      "locale": "zh",
+      "title": "最好的生日祝愿"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "最好的生日祝願"
+    }
+  ]
 }
