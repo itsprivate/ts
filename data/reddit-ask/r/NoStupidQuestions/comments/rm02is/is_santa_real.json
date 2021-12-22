@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>My mom says santa real but my friend says he\nisn&#39;t.</p> </div><!-- SC_ON -->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>My mom says santa real but my friend says he\nisn&#39;t.</p> </div><!-- SC_ON -->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p> 私の母はサンタは実在すると言っていますが、私の友達はサンタは実在すると言っています。\n</p> </div><!-- SC_ON -->。",
+      "title": "サンタは実在するのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>我妈妈说圣诞老人是真的，但我的朋友说他不是。\n</p> </div><!-- SC_ON -->",
+      "title": "桑塔是真的吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>我媽媽說聖誕老人是真的，但我的朋友說他不是。\n</p> </div><!-- SC_ON -->",
+      "title": "桑塔是真的嗎？"
+    }
+  ]
 }

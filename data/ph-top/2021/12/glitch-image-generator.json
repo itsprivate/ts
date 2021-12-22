@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-22T08:01:00Z"
+  "original_createdAt": "2021-12-22T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ユニークなグリッチ画像を作成・保存できるジェネレーティブツールです。⚡️",
+      "tagline": "グリッチ画像を作成するためのジェネレーティブツール"
+    },
+    {
+      "locale": "zh",
+      "description": "一个生成工具，允许你创建和保存独特的突变图像。⚡️",
+      "tagline": "一个生成工具来创建突变的图像"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個生成工具，允許你創建和保存獨特的突變圖像。⚡️",
+      "tagline": "一個生成工具來創建突變的圖像"
+    }
+  ]
 }
