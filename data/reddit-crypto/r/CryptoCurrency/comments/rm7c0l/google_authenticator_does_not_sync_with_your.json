@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Google Authenticator (GA) does not sync with\nyour google account!</p> <p>If your phone dies there is no way to get your 2FAs\nback.</p> <p>&#x200B;</p> <p><strong>You should backup your GA Account as fast\nas possible on another phone/device! This way the GA runs…"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Google Authenticator (GA) does not sync with\nyour google account!</p> <p>If your phone dies there is no way to get your 2FAs\nback.</p> <p>&#x200B;</p> <p><strong>You should backup your GA Account as fast\nas possible on another phone/device! This way the GA runs…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Google Authenticator (GA) does not sync with\nyour google account!</p> <p>If your phone dies there is no way to get your 2FAs\n</p> <p>&#x200B;</p> <p><strong>できるだけ早くGAアカウントをバックアップする必要があります。\n別の携帯電話やデバイスで可能な限り! こうすることで、GAが実行される...",
+      "title": "Google Authenticatorはgoogleアカウントと同期しません。携帯電話やデバイスが故障したら大変です。Google Authenticatorのキーを他の電話機やデバイスにバックアップするか、QRコードを印刷してください。(案内)"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>谷歌认证器（GA）不会与你的谷歌账户同步！</p> <p>如果你的手机死了，就没有办法获得你的2FA。\n</p> <p>如果你的手机死了，就没有办法让你的2FAs恢复。\n</p> <p>&#x200B;</p> <p><strong>您应该尽快在另一部手机/设备上备份您的GA账户。\n尽快在另一部手机/设备上备份你的GA账户! 这样一来，GA的运行...",
+      "title": "谷歌认证器并不与你的谷歌账户同步! 如果你的手机/设备坏了，你就完蛋了。请确保在另一部手机/设备上备份您的谷歌认证器密钥，或打印QR码 (指南)"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>谷歌認證器（GA）不會與你的谷歌賬戶同步！</p> <p>如果你的手機死了，就沒有辦法獲得你的2FA。\n</p> <p>如果你的手機死了，就沒有辦法讓你的2FAs恢復。\n</p> <p>&#x200B;</p> <p><strong>您應該儘快在另一部手機/設備上備份您的GA賬戶。\n儘快在另一部手機/設備上備份你的GA賬戶! 這樣一來，GA的運行...",
+      "title": "谷歌認證器並不與你的谷歌賬戶同步! 如果你的手機/設備壞了，你就完蛋了。請確保在另一部手機/設備上備份您的谷歌認證器密鑰，或打印QR碼 (指南)"
+    }
+  ]
 }
