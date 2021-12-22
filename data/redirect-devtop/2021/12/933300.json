@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-22T13:56:02Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PzuOdW7I--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j0zvwcrp5zjkq1dd6yl0.jpg",
   "author": "Harsh Choudhary",
-  "author_url": "https://dev.to/harshkc"
+  "author_url": "https://dev.to/harshkc",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "確かに、コードベースの中で最も頻繁にコピーペーストされるコードを抽象化することに、誰もが高揚感を覚えます。",
+      "title": "UIコンポーネントをこのように構築するのはやめましょう❌。"
+    },
+    {
+      "locale": "zh",
+      "description": "诚然，每个人都对将代码库中最常复制粘贴的代码抽象成一个 \"小 \"字感到欣喜。",
+      "title": "不要再像这样构建你的UI组件了❌"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "誠然，每個人都對將代碼庫中最常複製粘貼的代碼抽象成一個 \"小 \"字感到欣喜。",
+      "title": "不要再像這樣構建你的UI組件了❌"
+    }
+  ]
 }
