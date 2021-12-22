@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、あなたの友人が、あなたに魅力を感じない人を紹介しようとしたら、あなたはどうしますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你的朋友试图给你安排一个你不喜欢的人，你会怎么做？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你的朋友試圖給你安排一個你不喜歡的人，你會怎麼做？"
+    }
+  ]
 }
