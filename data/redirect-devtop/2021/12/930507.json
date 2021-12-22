@@ -43,5 +43,22 @@
   "original_created_at": "2021-12-19T15:13:24Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--C922HvH_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/de72e38qq1koq6ve2coq.png",
   "author": "Nikhil Taneja",
-  "author_url": "https://dev.to/itsnikhil"
+  "author_url": "https://dev.to/itsnikhil",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに 「Done is better than perfect（完璧より良いものを）」というのは、ある企業で働いたときに学んだ教訓です。",
+      "title": "過ぎたるは及ばざるがごとし"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍：\"完成比完美好 \"是我在一家公司工作时学到的教训。",
+      "title": "完成比完美更好"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹：\"完成比完美好 \"是我在一家公司工作時學到的教訓。",
+      "title": "完成比完美更好"
+    }
+  ]
 }
