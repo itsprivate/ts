@@ -11,5 +11,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私の住んでいる地域は、1950年代のアメリカの小さな町のような雰囲気です。"
+    },
+    {
+      "locale": "zh",
+      "title": "我住在日本的一个社区，感觉就像一个直接来自于20世纪50年代的美国小镇。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我住在日本的一個社區，感覺就像一個直接來自於20世紀50年代的美國小鎮。"
+    }
+  ]
 }
