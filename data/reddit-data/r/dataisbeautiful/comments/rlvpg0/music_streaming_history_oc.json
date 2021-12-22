@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "音楽ストリーミングの歴史【OC"
+    },
+    {
+      "locale": "zh",
+      "title": "音乐流媒体的历史 [OC]"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "音樂流媒體的歷史 [OC]"
+    }
+  ]
 }
