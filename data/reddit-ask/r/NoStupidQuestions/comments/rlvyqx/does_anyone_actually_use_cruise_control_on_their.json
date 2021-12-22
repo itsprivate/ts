@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>If so, how and when? (Not relating to Tesla\nautopilot).</p> </div><!-- SC_ON -->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>If so, how and when? (Not relating to Tesla\nautopilot).</p> </div><!-- SC_ON -->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>そうだとしたら、いつ、どのようにしてですか？(テスラとは関係ないですが\n</p> </div><!-- SC_ON --> </p> </div> <!",
+      "title": "実際にクルマでクルーズコントロールを使っている人はいるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>如果是，怎么做，何时做？(Not relating to Tesla\nautopilot).</p> </div><!-- SC_ON -->",
+      "title": "是否有人真的在他们的车上使用巡航控制？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>如果是，怎麼做，何時做？(Not relating to Tesla\nautopilot).</p> </div><!-- SC_ON -->",
+      "title": "是否有人真的在他們的車上使用巡航控制？"
+    }
+  ]
 }
