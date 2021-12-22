@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-22T02:48:16Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VccCktWN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cwxtgpuwsc2kuvyzxtoq.png",
   "author": "Michael Hungbo",
-  "author_url": "https://dev.to/heymich"
+  "author_url": "https://dev.to/heymich",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、友人から、彼らのMongoDBデータベースとAtlasクラスタと連携できないか...という質問を受けました。",
+      "title": "VS CodeでMongoDBをローカルに使用する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "最近，一个朋友问我是否有可能与他们的MongoDB数据库和Atlas集群合作...",
+      "title": "如何用VS代码在本地使用MongoDB"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "最近，一個朋友問我是否有可能與他們的MongoDB數據庫和Atlas集羣合作...",
+      "title": "如何用VS代碼在本地使用MongoDB"
+    }
+  ]
 }
