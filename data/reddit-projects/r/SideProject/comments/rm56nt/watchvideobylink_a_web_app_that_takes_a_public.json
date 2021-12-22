@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "公開されている動画のURLを取得し、MP4/WebM/HLS/MPEG-DASHの動画タイプをダウンロード・整理する機能で視聴体験を楽しくする機能を持つ動画プレーヤーに表示するWebアプリ「WatchVideoByLink」。"
+    },
+    {
+      "locale": "zh",
+      "title": "WatchVideoByLink是一款网络应用，可以获取公共视频URL并在视频播放器中显示，其功能使观看体验成为一种享受，能够下载和组织MP4/WebM/HLS/MPEG-DASH视频类型。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "WatchVideoByLink是一款網絡應用，可以獲取公共視頻URL並在視頻播放器中顯示，其功能使觀看體驗成爲一種享受，能夠下載和組織MP4/WebM/HLS/MPEG-DASH視頻類型。"
+    }
+  ]
 }
