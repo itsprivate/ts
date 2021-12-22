@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-21T13:04:51Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--I6uLBqk_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9uttcjnqjpkvwlfvnfn0.jpg",
   "author": "Lars Grammel",
-  "author_url": "https://dev.to/lgrammel"
+  "author_url": "https://dev.to/lgrammel",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "プログラミングをするとき、目的を達成するためにテキストを直接編集することがよくあります。このような手作業による編集は、時間がかかることがあります...",
+      "title": "VS Codeの60のクイックフィックスであなたのJavaScriptをレベルアップする"
+    },
+    {
+      "locale": "zh",
+      "description": "在编程时，我们经常直接编辑文本以实现我们的目标。这种手动编辑可能很慢...",
+      "title": "用这60个VS代码的快速修复来提高你的JavaScript水平"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在編程時，我們經常直接編輯文本以實現我們的目標。這種手動編輯可能很慢...",
+      "title": "用這60個VS代碼的快速修復來提高你的JavaScript水平"
+    }
+  ]
 }
