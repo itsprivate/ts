@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "サウスパークは時々、ちょっとリアルになりすぎちゃうんですよね...。"
+    },
+    {
+      "locale": "zh",
+      "title": "有时南方公园变得有点过于真实..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有時南方公園變得有點過於真實..."
+    }
+  ]
 }
