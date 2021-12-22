@@ -42,5 +42,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "開発者、デザイナー、Web制作者のための厳選されたリソース。ほとんど無料です。"
+    },
+    {
+      "locale": "zh",
+      "title": "为开发人员、设计师和网络制作者手工挑选的资源。大部分是免费的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲開發人員、設計師和網絡製作者手工挑選的資源。大部分是免費的。"
+    }
+  ]
 }
