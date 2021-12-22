@@ -43,5 +43,22 @@
   "original_created_at": "2021-11-01T18:19:07Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yhy4yRDO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tx50gly0hhteewhgmhjw.png",
   "author": "LUKESHIRU",
-  "author_url": "https://dev.to/lukeshiru"
+  "author_url": "https://dev.to/lukeshiru",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "DEVでは毎日のように、TypeScriptがいかに素晴らしいか、あるいはいかに悪いかという記事を目にします。",
+      "title": "そのTypeScriptの引..."
+    },
+    {
+      "locale": "zh",
+      "description": "在DEV，你几乎每天都能看到一篇关于TypeScript是多么伟大或多么糟糕的文章，而...",
+      "title": "那个TypeScript参数..."
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在DEV，你幾乎每天都能看到一篇關於TypeScript是多麼偉大或多麼糟糕的文章，而...",
+      "title": "那個TypeScript參數..."
+    }
+  ]
 }

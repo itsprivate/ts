@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ロボットが複雑な物体をつかむ問題を解決する方法"
+    },
+    {
+      "locale": "zh",
+      "title": "解决机器人抓取复杂物体问题的方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "解決機器人抓取複雜物體問題的方法"
+    }
+  ]
 }
