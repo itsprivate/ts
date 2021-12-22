@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>After takeoff the space shuttle always\nperformed a roll maneuver. Why couldn&#39;t it be oriented on the pad to avoid\nhaving to make such an adjustment?</p> </div><!-- SC_ON -->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>After takeoff the space shuttle always\nperformed a roll maneuver. Why couldn&#39;t it be oriented on the pad to avoid\nhaving to make such an adjustment?</p> </div><!-- SC_ON -->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>After takeoff the space shuttle always\nperformed a roll maneuver. Why couldn&#39;t it be oriented on the pad to avoid\nhaving to make such an adjustment?</p> </div><!-- SC_ON -->",
+      "title": "なぜ、スペースシャトルは「ロールマニューバー」をしなければならなかったのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>航天飞机起飞后总是\n进行滚动操作。为什么它不能在停机坪上调整方向以避免\n</p> </div><!-- SC_ON -->",
+      "title": "为什么航天飞机要做'滚动机动'？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>航天飛機起飛後總是\n進行滾動操作。爲什麼它不能在停機坪上調整方向以避免\n</p> </div><!-- SC_ON -->",
+      "title": "爲什麼航天飛機要做'滾動機動'？"
+    }
+  ]
 }
