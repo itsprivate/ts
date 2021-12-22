@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ロングコビド（測定可能なダメージを受けたわけではないが、体に何か異常があるように感じる人）について、私たちはどのようなことを知っていますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "我们对Long-Covid（即没有任何可测量的损害但感觉身体有问题的人）了解多少？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們對Long-Covid（即沒有任何可測量的損害但感覺身體有問題的人）瞭解多少？"
+    }
+  ]
 }
