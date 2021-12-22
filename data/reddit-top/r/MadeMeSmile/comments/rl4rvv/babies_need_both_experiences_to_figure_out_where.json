@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "赤ちゃんは自分の立ち位置を知るために、両方の経験が必要なのです。"
+    },
+    {
+      "locale": "zh",
+      "title": "婴儿需要这两种经验来弄清楚他们的位置。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "嬰兒需要這兩種經驗來弄清楚他們的位置。"
+    }
+  ]
 }
