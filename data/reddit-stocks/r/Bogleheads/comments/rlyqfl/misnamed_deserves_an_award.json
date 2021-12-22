@@ -103,5 +103,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1640153591,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>this person responds to so many people with\ngood advice and no snark</p> </div><!-- SC_ON -->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>this person responds to so many people with\ngood advice and no snark</p> </div><!-- SC_ON -->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>この方は、多くの人にレスしていますね。\ngood advice and no snark</p> </div><!-- SC_ON -->",
+      "title": "賞が必要なのは、@misnamed"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>this person responds to so many people with\ngood advice and no snark</p> </div><!-- SC_ON -->",
+      "title": "@misnamed应该得到一个奖项"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>this person responds to so many people with\ngood advice and no snark</p> </div><!-- SC_ON -->",
+      "title": "@misnamed應該得到一個獎項"
+    }
+  ]
 }
