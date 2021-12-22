@@ -14,5 +14,19 @@
   "tags": [
     "BBC News"
   ],
-  "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7710/production/_122308403_gettyimages-1333335753.jpg"
+  "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7710/production/_122308403_gettyimages-1333335753.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "コビット：自己隔離期間を10日間から7日間に短縮、検査は陰性化"
+    },
+    {
+      "locale": "zh",
+      "title": "Covid：自我隔离从10天缩短到7天，测试结果为阴性"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Covid：自我隔離從10天縮短到7天，測試結果爲陰性"
+    }
+  ]
 }
