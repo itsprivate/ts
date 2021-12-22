@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "#ビットコインは1時間ごとに買っているので0になることはない。PS. 私はFIAT貧乏です。"
+    },
+    {
+      "locale": "zh",
+      "title": "#比特币永远不会归零，因为我每小时都在购买。PS. 我是FIAT穷人。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "#比特幣永遠不會歸零，因爲我每小時都在購買。PS. 我是FIAT窮人。"
+    }
+  ]
 }
