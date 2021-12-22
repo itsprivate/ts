@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "通りすがりの人が、襲ってきた他の犬からその犬と飼い主を助けます。"
+    },
+    {
+      "locale": "zh",
+      "title": "路过的人帮助这只狗和狗主人摆脱了另一只正在攻击他们的狗。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "路過的人幫助這隻狗和狗主人擺脫了另一隻正在攻擊他們的狗。"
+    }
+  ]
 }

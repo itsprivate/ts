@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-21T17:57:42Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TSf_lwZm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q0q8kt07eoel8m7ephoo.gif",
   "author": "Vladimír Macháček",
-  "author_url": "https://dev.to/machy8"
+  "author_url": "https://dev.to/machy8",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Stylifyは、書いたものを元にCSSを動的に生成するライブラリです。HTMLを書く。CSSを取得する....",
+      "title": "Stylify.dev. 流暢で迅速な開発のための動的なCSSジェネレータ。"
+    },
+    {
+      "locale": "zh",
+      "description": "Stylify是一个库，可以根据你写的东西动态生成CSS。写HTML。获取CSS....",
+      "title": "Stylify.dev. 用于流畅和快速开发的动态CSS生成器。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Stylify是一個庫，可以根據你寫的東西動態生成CSS。寫HTML。獲取CSS....",
+      "title": "Stylify.dev. 用於流暢和快速開發的動態CSS生成器。"
+    }
+  ]
 }
