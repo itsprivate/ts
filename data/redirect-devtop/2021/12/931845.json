@@ -50,5 +50,22 @@
   "original_created_at": "2021-12-21T07:00:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LMZt97zE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m7a88sty06nqv8aht38m.png",
   "author": "Ingo Steinke",
-  "author_url": "https://dev.to/ingosteinke"
+  "author_url": "https://dev.to/ingosteinke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "なんで「Tech Twitter」をフォローしないと良いニュースが分からないんだろうと思い、私が書くことに...。",
+      "title": "CSS :has(.parent-selectors)"
+    },
+    {
+      "locale": "zh",
+      "description": "我想知道为什么我必须关注 \"科技推特 \"才能发现好消息，所以我是一个写...",
+      "title": "CSS :have(.parent-selectors)"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我想知道爲什麼我必須關注 \"科技推特 \"才能發現好消息，所以我是一個寫...",
+      "title": "CSS :have(.parent-selectors)"
+    }
+  ]
 }
