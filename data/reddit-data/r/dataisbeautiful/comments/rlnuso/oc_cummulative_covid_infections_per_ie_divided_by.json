@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] 累積COVID感染者数（住民数で割ったもの）：郡別"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]各县居民累计COVID感染数（即除以）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]各縣居民累計COVID感染數（即除以）。"
+    }
+  ]
 }
