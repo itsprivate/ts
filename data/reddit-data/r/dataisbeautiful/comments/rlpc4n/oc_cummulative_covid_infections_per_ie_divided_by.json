@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC】州別の住民あたりのCOVID累積感染数（＝住民数で割った値"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]各州居民人均COVID感染数（即除以）的累积值"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]各州居民人均COVID感染數（即除以）的累積值"
+    }
+  ]
 }
