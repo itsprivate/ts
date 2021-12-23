@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ペットについてどのように感じていますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你对宠物有什么感觉？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你對寵物有什麼感覺？"
+    }
+  ]
 }

@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ああ、セルフサービスだ*yoink*。"
+    },
+    {
+      "locale": "zh",
+      "title": "哦，自助服务 *yoink*"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "哦，自助服務 *yoink*"
+    }
+  ]
 }
