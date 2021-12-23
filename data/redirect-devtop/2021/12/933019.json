@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-22T08:26:04Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PXSppsib--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ucucxxlv5o1bve1yen55.png",
   "author": "Alex Eagleson",
-  "author_url": "https://dev.to/alexeagleson"
+  "author_url": "https://dev.to/alexeagleson",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このチュートリアルのすべてのコードを完全なパッケージとして、このリポジトリで公開しています。 もしあなたがこれを見つけたら...",
+      "title": "Javascript開発者のためのDocker入門 (feat Node.js and PostgreSQL)"
+    },
+    {
+      "locale": "zh",
+      "description": "本教程的所有代码作为一个完整的包都可以在这个资源库中找到。 如果你发现这个...",
+      "title": "为Javascript开发者介绍Docker（壮举Node.js和PostgreSQL）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "本教程的所有代碼作爲一個完整的包都可以在這個資源庫中找到。 如果你發現這個...",
+      "title": "爲Javascript開發者介紹Docker（壯舉Node.js和PostgreSQL）。"
+    }
+  ]
 }
