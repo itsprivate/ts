@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Summary:</p> <p>Give post authors a way to\nremove the post and all comments from the Moons payment system, ie demonetize\nthe post and all comments.</p> <p>Problem:</p> <p>I feel that there have been\nmany negative issues caused by the direct monetization of posts…"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Summary:</p> <p>Give post authors a way to\nremove the post and all comments from the Moons payment system, ie demonetize\nthe post and all comments.</p> <p>Problem:</p> <p>I feel that there have been\nmany negative issues caused by the direct monetization of posts…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Summary:</p> <p>記事作成者に、以下の方法を提供します。\nムーンペイメントシステムから投稿とすべてのコメントを削除する、つまり悪魔化する。\n</p> <p>問題点:</p> <p>私は、これまでにも、「痒いところに手が届く」「痒いところに手が届く」「痒いところに手が届く」「痒いところに手が届く」といったことがあったと感じています。\n投稿の直接的な収益化によって引き起こされる多くの負の問題...。",
+      "title": "CCIP-024 - 投稿者がムーンリワードから自分の投稿とすべてのコメントを削除できるようにするための提案"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>摘要：</p> <p>为帖子作者提供一种方法，将帖子和所有的评论从Moons的支付系统中删除，也就是将其去掉。\n从Moons的支付系统中删除帖子和所有评论，即把帖子和所有评论非货币化。\n</p> <p>问题：</p> <p>我认为，由于直接货币支付系统造成了许多负面问题。\n我觉得有很多负面的问题是由帖子的直接货币化引起的......",
+      "title": "CCIP-024 - 关于允许帖子作者删除其帖子和所有月球奖励的评论的建议"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>摘要：</p> <p>爲帖子作者提供一種方法，將帖子和所有的評論從Moons的支付系統中刪除，也就是將其去掉。\n從Moons的支付系統中刪除帖子和所有評論，即把帖子和所有評論非貨幣化。\n</p> <p>問題：</p> <p>我認爲，由於直接貨幣支付系統造成了許多負面問題。\n我覺得有很多負面的問題是由帖子的直接貨幣化引起的......",
+      "title": "CCIP-024 - 關於允許帖子作者刪除其帖子和所有月球獎勵的評論的建議"
+    }
+  ]
 }
