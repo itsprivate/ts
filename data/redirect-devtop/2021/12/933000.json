@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-22T07:52:46Z",
   "image": "https://dev.to/social_previews/article/933000.png",
   "author": "Emmanuel Yusuf",
-  "author_url": "https://dev.to/emmanueloluwafemi"
+  "author_url": "https://dev.to/emmanueloluwafemi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "プロジェクトのUIをスタイリングすることは、ほとんどの場合、開発者にとって大きな問題です。特に、開発者が...",
+      "title": "Styled Componentsを簡単にマスターする。"
+    },
+    {
+      "locale": "zh",
+      "description": "为一个项目的用户界面设计造型对开发者来说大多是一件大事，特别是当开发者有一个...",
+      "title": "轻松掌握风格化组件。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "爲一個項目的用戶界面設計造型對開發者來說大多是一件大事，特別是當開發者有一個...",
+      "title": "輕鬆掌握風格化組件。"
+    }
+  ]
 }
