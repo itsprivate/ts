@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m still living at home because I&#39;m\nin grad school. My mom has always taken care of me and I don&#39;t think she\nwill stop until I move out</p> </div><!-- SC_ON -->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m still living at home because I&#39;m\nin grad school. My mom has always taken care of me and I don&#39;t think she\nwill stop until I move out</p> </div><!-- SC_ON -->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;s s まだ実家で暮らしています。\n大学院にいるからです。My mom has always taken care of me and I don&#39;t think she\nwill stop until I move out</p> </div><!-- SC_ON -->",
+      "title": "私は24歳ですが、母親が私の洗濯、ゴミ出し、部屋の掃除をしてくれますか？これって異常ですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>我仍然住在家里，因为我在读研究生。\n在读研究生。我妈妈一直在照顾我，我不认为她会停止照顾我。\n我不认为她会停止，直到我搬出去</p> </div><!--SC_ON -->",
+      "title": "我24岁了，我妈妈为我洗衣服，倒垃圾，打扫房间？这是不正常的吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>我仍然住在家裏，因爲我在讀研究生。\n在讀研究生。我媽媽一直在照顧我，我不認爲她會停止照顧我。\n我不認爲她會停止，直到我搬出去</p> </div><!--SC_ON -->",
+      "title": "我24歲了，我媽媽爲我洗衣服，倒垃圾，打掃房間？這是不正常的嗎？"
+    }
+  ]
 }
