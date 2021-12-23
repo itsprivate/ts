@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ありがとう」のジェスチャーをするゾウ。"
+    },
+    {
+      "locale": "zh",
+      "title": "大象做出 \"感谢 \"的手势。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "大象做出 \"感謝 \"的手勢。"
+    }
+  ]
 }
