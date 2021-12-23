@@ -88,5 +88,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-23T08:00:00Z"
+  "original_createdAt": "2021-12-23T08:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "BikeSpot.frは、GPS自転車ルートを共有し、ダウンロードするためのクラウドソーシングアプリです。私たちのミッションは ライダーが未踏の地を発見し、それらを繋ぐことを可能にします。BikeSpotで次のライドを見つけよう!",
+      "tagline": "私たちの世界を探索し、冒険者たちと出会うお手伝いをします。"
+    },
+    {
+      "locale": "zh",
+      "description": "BikeSpot.fr是一个用于分享和下载GPS自行车路线的众包应用。我们的使命。让骑行者发现未曾探索过的地方，并将他们联系在一起。在BikeSpot上寻找您的下一次骑行",
+      "tagline": "我们帮助你探索我们的世界，认识冒险家"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "BikeSpot.fr是一個用於分享和下載GPS自行車路線的衆包應用。我們的使命。讓騎行者發現未曾探索過的地方，並將他們聯繫在一起。在BikeSpot上尋找您的下一次騎行",
+      "tagline": "我們幫助你探索我們的世界，認識冒險家"
+    }
+  ]
 }
