@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-22T09:54:55Z",
   "image": "https://dev.to/social_previews/article/933138.png",
   "author": "Yehezkiel Gunawan",
-  "author_url": "https://dev.to/yehezkielgunawan"
+  "author_url": "https://dev.to/yehezkielgunawan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "免責事項 これはあくまでフロントエンドエンジニアとして転職する際の体験談ですが...。",
+      "title": "応募せずに採用される方法"
+    },
+    {
+      "locale": "zh",
+      "description": "免责声明 这只是我在寻找一份新的前端工程师工作时的经验....。",
+      "title": "如何在不申请的情况下获得聘用"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "免責聲明 這只是我在尋找一份新的前端工程師工作時的經驗....。",
+      "title": "如何在不申請的情況下獲得聘用"
+    }
+  ]
 }
