@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "銀行は暗号を殺そうとし、失敗しました。今、彼らはゆっくりとそれを受け入れています"
+    },
+    {
+      "locale": "zh",
+      "title": "银行曾试图杀死加密货币，但没有成功。现在他们正在慢慢拥抱它"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "銀行曾試圖殺死加密貨幣，但沒有成功。現在他們正在慢慢擁抱它"
+    }
+  ]
 }
