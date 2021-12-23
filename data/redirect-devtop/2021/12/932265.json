@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-21T13:45:22Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bR2_lGTo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8aih0yff5cth5gttdgcq.png",
   "author": "Sangy K",
-  "author_url": "https://dev.to/sansk"
+  "author_url": "https://dev.to/sansk",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このチュートリアルでは、ポモドーロ・タイマーをコーディングしています。このチュートリアルでは、ポモドーロタイマーのコーディングについて説明します。",
+      "title": "HTML、CSS、Javascriptでポモドーロタイマーを作る"
+    },
+    {
+      "locale": "zh",
+      "description": "在本教程中，我们要编写一个Pomodoro计时器。⏲ 我遇到了Advent Of CSS和Advent of JS...",
+      "title": "使用HTML、CSS和Javascript建立一个Pomodoro计时器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在本教程中，我們要編寫一個Pomodoro計時器。⏲ 我遇到了Advent Of CSS和Advent of JS...",
+      "title": "使用HTML、CSS和Javascript建立一個Pomodoro計時器"
+    }
+  ]
 }
