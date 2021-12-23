@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが子供の頃、一番人気のあったおもちゃは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "当你还是个孩子时，最受欢迎的玩具是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當你還是個孩子時，最受歡迎的玩具是什麼？"
+    }
+  ]
 }
