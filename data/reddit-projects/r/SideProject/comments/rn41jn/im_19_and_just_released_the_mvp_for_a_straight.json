@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私は19歳で、ストレートフォワードの習慣トラッカー（ダウンロードやアカウント不要）のMVPをリリースしたところです。"
+    },
+    {
+      "locale": "zh",
+      "title": "我19岁，刚刚发布了一个直接的习惯跟踪器的MVP（无需下载或账户）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我19歲，剛剛發佈了一個直接的習慣跟蹤器的MVP（無需下載或賬戶）。"
+    }
+  ]
 }
