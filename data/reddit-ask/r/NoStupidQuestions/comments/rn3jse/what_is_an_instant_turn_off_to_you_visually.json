@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Just curious, for me the first thing that\ncomes to mind is sagging pants.</p> </div><!-- SC_ON -->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Just curious, for me the first thing that\ncomes to mind is sagging pants.</p> </div><!-- SC_ON -->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Just curious, for me the first thing that\ncomes to mind is sagging pants.</p> </div><!-- SC_ON -->",
+      "title": "ビジュアル的に即効性のあるものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>只是好奇，对我来说，第一件事就是\n</p> </div><!--SC_ON--><div class=\"md\">对我来说，首先想到的是下垂的裤子。",
+      "title": "在视觉上，什么是让你立即感到厌恶的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>只是好奇，對我來說，第一件事就是\n</p> </div><!--SC_ON--><div class=\"md\">對我來說，首先想到的是下垂的褲子。",
+      "title": "在視覺上，什麼是讓你立即感到厭惡的？"
+    }
+  ]
 }
