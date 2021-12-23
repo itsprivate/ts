@@ -91,5 +91,22 @@
     "retweet_count": 341,
     "favorite_count": 666,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @TadeuszGiczan: ロシアのショイグ国防相は、アメリカのPMCがドーハで化学成分を使用した挑発行為を準備していると発言した。",
+      "retweeted_status_full_text": "ロシアのショイグ国防相は、アメリカのPMCがドンバスで化学成分を使った挑発行為を準備していると発言した。彼によると、未知の化学物質がアヴディフカとクラスニィ・ライマンに届けられた。https://t.co/4KpM2HsHL8。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @TadeuszGiczan: 俄罗斯国防部长绍伊古表示，一个美国PMC正在准备使用化学成分在多哈进行挑衅。",
+      "retweeted_status_full_text": "俄罗斯国防部长绍伊古表示，一个美国PMC正在准备在顿巴斯使用化学成分进行挑衅。据他说，未知的化学品被运送到阿夫迪夫卡和克拉斯尼利曼。https://t.co/4KpM2HsHL8"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @TadeuszGiczan: 俄羅斯國防部長紹伊古表示，一個美國PMC正在準備使用化學成分在多哈進行挑釁。",
+      "retweeted_status_full_text": "俄羅斯國防部長紹伊古表示，一個美國PMC正在準備在頓巴斯使用化學成分進行挑釁。據他說，未知的化學品被運送到阿夫迪夫卡和克拉斯尼利曼。https://t.co/4KpM2HsHL8"
+    }
+  ]
 }
