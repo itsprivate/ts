@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "アメリカ人でない場合は、混乱しがちです。"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你不是美国人，很容易被混淆，tbh。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你不是美國人，很容易被混淆，tbh。"
+    }
+  ]
 }
