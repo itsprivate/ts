@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ドナルド・トランプ氏が暗号を「危険」と呼ぶのは、私見では非常に強気である。"
+    },
+    {
+      "locale": "zh",
+      "title": "唐纳德-特朗普称加密货币为 \"危险\"，在我看来是非常看涨的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "唐納德-特朗普稱加密貨幣爲 \"危險\"，在我看來是非常看漲的。"
+    }
+  ]
 }
