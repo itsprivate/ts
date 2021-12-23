@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-21T17:03:12Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s---0Zrpzef--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5cxmqiguvoaoqjk3po9t.jpg",
   "author": "Nasirul Islam",
-  "author_url": "https://dev.to/nasirulislam"
+  "author_url": "https://dev.to/nasirulislam",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "javascriptのこのキーワードは何ですか？  JavaScriptの \"this \"キーワードは、ある関数を...",
+      "title": "このキーワードと .call(), .apply(), .bind() メソッド。"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是javascript中的this关键字？  JavaScript中的 \"this \"关键字允许一个函数被...",
+      "title": "this关键字和.call()、.apply()、.bind()方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是javascript中的this關鍵字？  JavaScript中的 \"this \"關鍵字允許一個函數被...",
+      "title": "this關鍵字和.call()、.apply()、.bind()方法"
+    }
+  ]
 }
