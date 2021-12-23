@@ -14,5 +14,19 @@
   "tags": [
     "BBC News"
   ],
-  "image": "https://ichef.bbci.co.uk/news/1024/branded_news/13D41/production/_122471218_microsoftteams-image.png"
+  "image": "https://ichef.bbci.co.uk/news/1024/branded_news/13D41/production/_122471218_microsoftteams-image.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "恥ずべき柱：香港の天安門像が撤去される"
+    },
+    {
+      "locale": "zh",
+      "title": "耻辱之柱：香港的天安门广场雕像被移除"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "恥辱之柱：香港的天安門廣場雕像被移除"
+    }
+  ]
 }
