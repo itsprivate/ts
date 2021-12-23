@@ -14,5 +14,19 @@
   "tags": [
     "Newsday"
   ],
-  "image": "https://cdn.newsday.com/polopoly_fs/1.50459900.1640294191!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg"
+  "image": "https://cdn.newsday.com/polopoly_fs/1.50459900.1640294191!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "COVID-19の陽性反応が出た場合の対処方法について説明します。"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你的COVID-19检测结果呈阳性，该怎么做？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你的COVID-19檢測結果呈陽性，該怎麼做？"
+    }
+  ]
 }
