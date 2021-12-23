@@ -74,5 +74,22 @@
     "retweet_count": 243,
     "favorite_count": 727,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @libsoftiktok: これは正気じゃない https://t.co/PJEs3lcWyG",
+      "retweeted_status_full_text": "これは非常識だ https://t.co/PJEs3lcWyG"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @libsoftiktok: 这真是太疯狂了 https://t.co/PJEs3lcWyG",
+      "retweeted_status_full_text": "这是很疯狂的https://t.co/PJEs3lcWyG"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @libsoftiktok: 這真是太瘋狂了 https://t.co/PJEs3lcWyG",
+      "retweeted_status_full_text": "這是很瘋狂的https://t.co/PJEs3lcWyG"
+    }
+  ]
 }
