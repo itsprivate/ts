@@ -13,5 +13,19 @@
   ],
   "objectID": "29661539",
   "original_created_at": "2021-12-23T13:19:08.000Z",
-  "image": "https://freefilesync.org/images/FreeFileSync.png"
+  "image": "https://freefilesync.org/images/FreeFileSync.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "FreeFileSyncです。オープンソースのファイル同期とバックアップ"
+    },
+    {
+      "locale": "zh",
+      "title": "FreeFileSync。开源的文件同步和备份"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "FreeFileSync。開源的文件同步和備份"
+    }
+  ]
 }
