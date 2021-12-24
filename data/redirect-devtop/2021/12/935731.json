@@ -52,5 +52,22 @@
   "original_created_at": "2021-12-24T12:33:47Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vbhoLlm6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/urisj7hzjasecys2opn2.jpg",
   "author": "Alex Inkin",
-  "author_url": "https://dev.to/waterplea"
+  "author_url": "https://dev.to/waterplea",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Taiga UIは、巨大なAngularコンポーネントライブラリです。私たちティンコフでは、このライブラリをクローズドソースで開発し...",
+      "title": "タイガのUI。オープンソースの1年"
+    },
+    {
+      "locale": "zh",
+      "description": "Taiga UI是一个巨大的Angular组件库。我们在Tinkoff开发它时是闭源的。",
+      "title": "泰加用户界面。开源的一年"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Taiga UI是一個巨大的Angular組件庫。我們在Tinkoff開發它時是閉源的。",
+      "title": "泰加用戶界面。開源的一年"
+    }
+  ]
 }
