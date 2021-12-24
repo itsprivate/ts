@@ -68,5 +68,22 @@
     },
     "retweet_count": 234,
     "favorite_count": 1801
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @Excellion: ビットコインが20kドルから40kドルへ倍増するのに22日かかった。5万ドルから10万ドルならもっと早いだろう。",
+      "retweeted_status_full_text": "ビットコインが20kドルから40kドルに倍増するのに22日かかりました。50kドルから100kドルはおそらくもっと早いでしょう。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @Excellion: 比特币花了22天时间从2万美元翻倍到4万美元。5万美金到10万美金可能会更快。",
+      "retweeted_status_full_text": "#比特币花了22天时间从2万美元翻倍到4万美元。5万美元到10万美元可能会更快。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @Excellion: 比特幣花了22天時間從2萬美元翻倍到4萬美元。5萬美金到10萬美金可能會更快。",
+      "retweeted_status_full_text": "#比特幣花了22天時間從2萬美元翻倍到4萬美元。5萬美元到10萬美元可能會更快。"
+    }
+  ]
 }
