@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-22T11:33:33Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ANExWJzP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sgtbuotjw93ddsrwo4ii.png",
   "author": "Dotnetsafer",
-  "author_url": "https://dev.to/dotnetsafer"
+  "author_url": "https://dev.to/dotnetsafer",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "もう2022年も終わりですが（私はまだ2019年を消化しています）、皆さんも納得されるのではないでしょうか...",
+      "title": "C# 11の機能がリーク! マイクロソフトからの最高のクリスマスプレゼント？"
+    },
+    {
+      "locale": "zh",
+      "description": "现在已经是2022年年底了（我还在消化2019年），我想我们都会同意，它已经...",
+      "title": "泄露的C#11功能! 微软最好的圣诞礼物？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "現在已經是2022年年底了（我還在消化2019年），我想我們都會同意，它已經...",
+      "title": "泄露的C#11功能! 微軟最好的聖誕禮物？"
+    }
+  ]
 }
