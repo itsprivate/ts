@@ -107,5 +107,22 @@
     "retweet_count": 690,
     "favorite_count": 3243,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @therationalroot: ボラティリティはまだ前のサイクルの範囲内です。すべてのサイクルがパラボリックランで終了している。#Bitcoin https://t.co/QbpNdn...",
+      "retweeted_status_full_text": "ボラティリティはまだ過去のサイクルの範囲内にある。すべてのサイクルがパラボリックランで終了。#ビットコイン https://t.co/QbpNdnh1eF"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @therationalroot: 波动性仍然在前几个周期的范围内。所有的周期都以抛物线运行结束。#比特币https://t.co/QbpNdn...",
+      "retweeted_status_full_text": "波动性仍在前几个周期的范围内。所有周期都以抛物线运行结束。#比特币https://t.co/QbpNdnh1eF"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @therationalroot: 波動性仍然在前幾個週期的範圍內。所有的週期都以拋物線運行結束。#比特幣https://t.co/QbpNdn...",
+      "retweeted_status_full_text": "波動性仍在前幾個週期的範圍內。所有周期都以拋物線運行結束。#比特幣https://t.co/QbpNdnh1eF"
+    }
+  ]
 }
