@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I know of dozens of people who tested positive\nin the last week (Colorado) and all of them with an at home test. Case numbers\nare spiking like crazy in surrounding counties, but I have to imagine with how\nmany people are discovering they&#39;re infected outside the…"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I know of dozens of people who tested positive\nin the last week (Colorado) and all of them with an at home test. Case numbers\nare spiking like crazy in surrounding counties, but I have to imagine with how\nmany people are discovering they&#39;re infected outside the…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I know of dozen people who tested positive.\n先週（コロラド州）、自宅で検査した人ばかりです。症例数\n周辺の郡では異常なほど急増していますが、私は、このような状況を想像しなければなりません。\n多くの人が外で感染していることを発見している...",
+      "title": "家庭用迅速検査で陽性と判定された人は、集計やR0の数字にどのように計上されるのですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>我知道有几十个人在上周（科罗拉多州）的测试中呈阳性。\n在上周（科罗拉多州），所有这些人都是在家里进行的测试。案件数量\n但我不得不想象，有多少人在发现自己被感染的时候，会有多大的反应。\n我不得不想象有多少人发现他们在外面被感染了。",
+      "title": "在家快速检测呈阳性的人如何计入总数和R0数字？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>我知道有幾十個人在上週（科羅拉多州）的測試中呈陽性。\n在上週（科羅拉多州），所有這些人都是在家裏進行的測試。案件數量\n但我不得不想象，有多少人在發現自己被感染的時候，會有多大的反應。\n我不得不想象有多少人發現他們在外面被感染了。",
+      "title": "在家快速檢測呈陽性的人如何計入總數和R0數字？"
+    }
+  ]
 }
