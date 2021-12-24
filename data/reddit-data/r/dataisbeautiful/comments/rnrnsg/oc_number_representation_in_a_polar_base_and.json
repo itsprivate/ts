@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] 極座標による数の表現とDirichletの定理の証明"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]极基中的数字表示和迪里希勒定理的证明"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]極基中的數字表示和迪裏希勒定理的證明"
+    }
+  ]
 }
