@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] パンデミック開始以来のCOVIDによる死亡者数の日次推移。"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]自大流行开始以来，每日COVID死亡人数。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]自大流行開始以來，每日COVID死亡人數。"
+    }
+  ]
 }
