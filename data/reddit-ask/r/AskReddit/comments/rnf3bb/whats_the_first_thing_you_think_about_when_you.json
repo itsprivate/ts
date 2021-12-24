@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "皆さんは「日本」と聞いて、まず何を思い浮かべますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "当你听到 \"日本 \"时，你首先想到的是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當你聽到 \"日本 \"時，你首先想到的是什麼？"
+    }
+  ]
 }
