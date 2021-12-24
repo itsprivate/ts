@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC】パンデミック開始以降のCOVID感染者数日分。"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]自大流行开始以来的每日COVID感染情况。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]自大流行開始以來的每日COVID感染情況。"
+    }
+  ]
 }
