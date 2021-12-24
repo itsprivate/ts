@@ -43,5 +43,22 @@
   "original_created_at": "2021-12-23T15:59:33Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--enSAD025--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sxzhwjiv5z9of9cm22kd.jpeg",
   "author": "Nader Dabit",
-  "author_url": "https://dev.to/dabit3"
+  "author_url": "https://dev.to/dabit3",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この8ヵ月間、働き、研究し、実験し、ものを作ってみて、私が学んだことを共有したいと思います。",
+      "title": "web3スタックの定義"
+    },
+    {
+      "locale": "zh",
+      "description": "在过去8个月里，经过工作、研究、实验和制造东西，我想分享我的经验。",
+      "title": "定义web3栈"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在過去8個月裏，經過工作、研究、實驗和製造東西，我想分享我的經驗。",
+      "title": "定義web3棧"
+    }
+  ]
 }
