@@ -48,5 +48,22 @@
   "original_created_at": "2021-12-23T14:00:41Z",
   "image": "https://dev.to/social_previews/article/934703.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "個人的な「知っている」の定義は、ご自由にどうぞ😅。",
+      "title": "あなたはいくつのプログラミング言語を知っていますか？"
+    },
+    {
+      "locale": "zh",
+      "description": "欢迎提供 \"知道 \"的个人定义😅。",
+      "title": "你知道多少种编程语言？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "歡迎提供 \"知道 \"的個人定義😅。",
+      "title": "你知道多少種編程語言？"
+    }
+  ]
 }
