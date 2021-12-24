@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-23T08:21:28Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--l-98ijsS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x8pw2x8xvur5iujrm6cg.png",
   "author": "Som Shekhar Mukherjee",
-  "author_url": "https://dev.to/ssmkhrj"
+  "author_url": "https://dev.to/ssmkhrj",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今回は、react-domが提供するflushSyncユーティリティについて説明します。 試しに...",
+      "title": "Reactで`flushSync`を使ったことがありますか？"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我们将讨论 react-dom 提供的 flushSync 工具。 让我们试着...",
+      "title": "你在React中使用过`flushSync`吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我們將討論 react-dom 提供的 flushSync 工具。 讓我們試着...",
+      "title": "你在React中使用過`flushSync`嗎？"
+    }
+  ]
 }
