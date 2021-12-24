@@ -41,5 +41,22 @@
   "original_created_at": "2021-12-22T16:47:08Z",
   "image": "https://dev.to/social_previews/article/933852.png",
   "author": "Nico Zerpa (he/him)",
-  "author_url": "https://dev.to/nicozerpa"
+  "author_url": "https://dev.to/nicozerpa",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "React、Angular、Vue.jsなどのJavaScriptライブラリ（またはフレームワーク）が、この分野の主役となっています。",
+      "title": "JavaScriptを使いすぎている"
+    },
+    {
+      "locale": "zh",
+      "description": "像React、Angular或Vue.js这样的JavaScript库(或框架)一直是该领域的主角。",
+      "title": "你使用了太多的JavaScript"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "像React、Angular或Vue.js這樣的JavaScript庫(或框架)一直是該領域的主角。",
+      "title": "你使用了太多的JavaScript"
+    }
+  ]
 }
