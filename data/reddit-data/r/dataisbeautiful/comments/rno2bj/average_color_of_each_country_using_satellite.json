@@ -11,5 +11,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "衛星画像による各国の平均色"
+    },
+    {
+      "locale": "zh",
+      "title": "使用卫星图像的每个国家的平均颜色"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "使用衛星圖像的每個國家的平均顏色"
+    }
+  ]
 }
