@@ -52,5 +52,22 @@
   "original_created_at": "2021-08-16T02:52:09Z",
   "image": "https://dev.to/social_previews/article/793090.png",
   "author": "Adit Modi",
-  "author_url": "https://dev.to/aditmodi"
+  "author_url": "https://dev.to/aditmodi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Dev.toブログへようこそ!   クラウドとテクノロジーのすべて クラウドテックの目標は...",
+      "title": "DEV, CLOUD TECHへようこそ!"
+    },
+    {
+      "locale": "zh",
+      "description": "欢迎来到我们的Dev.to博客!   关于云和技术的一切 在CloudTech，我们的目标是...",
+      "title": "欢迎来到DEV, CLOUD TECH!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "歡迎來到我們的Dev.to博客!   關於雲和技術的一切 在CloudTech，我們的目標是...",
+      "title": "歡迎來到DEV, CLOUD TECH!"
+    }
+  ]
 }

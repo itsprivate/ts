@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-22T16:14:43Z",
   "image": "https://dev.to/social_previews/article/933544.png",
   "author": "Jay Clark",
-  "author_url": "https://dev.to/jayeclark"
+  "author_url": "https://dev.to/jayeclark",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ニーモニックデバイスのオタクと言ったのは、冗談ではありません。もし、チェックリストが...",
+      "title": "このニモニックを使って、コードのバグをキャッチしてください。"
+    },
+    {
+      "locale": "zh",
+      "description": "当我说我对记忆装置很痴迷时，我并不是在开玩笑。如果一份检查表可以变成一种记忆工具，那么它就会成为一种 \"工具\"。",
+      "title": "使用这个记忆法来捕捉你代码中的错误。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當我說我對記憶裝置很癡迷時，我並不是在開玩笑。如果一份檢查表可以變成一種記憶工具，那麼它就會成爲一種 \"工具\"。",
+      "title": "使用這個記憶法來捕捉你代碼中的錯誤。"
+    }
+  ]
 }
