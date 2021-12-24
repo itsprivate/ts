@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Had a hysterectomy 2 months ago at 32. They\ntook everything but my ovaries. Weird random pelvic pain has been my most\nunexpected symptom.</p> </div><!-- SC_ON -->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Had a hysterectomy 2 months ago at 32. They\ntook everything but my ovaries. Weird random pelvic pain has been my most\nunexpected symptom.</p> </div><!-- SC_ON -->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>2ヶ月前に32歳で子宮摘出手術をしました。その時\ntook everything but my ovaries. Weird random pelvic pain has been my most\nunexpected symptom.</p> </div><!-- SC_ON -->",
+      "title": "子宮摘出手術を受けた女性で、手術後に最も予期しなかった副作用は何でしたか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Had a hysterectomy 2 months ago at 32. They\ntook everything but my ovaries. Weird random pelvic pain has been my most\nunexpected symptom.</p> </div><!-- SC_ON -->",
+      "title": "做过子宫切除术的妇女，你手术后最意外的副作用是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Had a hysterectomy 2 months ago at 32. They\ntook everything but my ovaries. Weird random pelvic pain has been my most\nunexpected symptom.</p> </div><!-- SC_ON -->",
+      "title": "做過子宮切除術的婦女，你手術後最意外的副作用是什麼？"
+    }
+  ]
 }
