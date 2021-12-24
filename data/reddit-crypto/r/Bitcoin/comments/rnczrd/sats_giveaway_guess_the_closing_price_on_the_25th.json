@@ -62,5 +62,22 @@
     "type": "twitter.com"
   },
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>One guess per account. Will use Coinbase\nclosing price. Closest guess to the closing price wins. Must have a lightning\nwallet. Comments eligible will be all those who commented before the 24th daily\ncandle close (4pm pst). You can also participate in my twitter post…"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>One guess per account. Will use Coinbase\nclosing price. Closest guess to the closing price wins. Must have a lightning\nwallet. Comments eligible will be all those who commented before the 24th daily\ncandle close (4pm pst). You can also participate in my twitter post…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>1アカウントにつき1回の推測です。Coinbaseを使用します。\n終値。終値に最も近い数字が採用されます。ライトニングをお持ちの方\nウォレットです。コメント対象者は、24日の日報までにコメントされた方すべてです。\nキャンドルクローズ（日本時間午後4時）。また、私のツイッターの投稿でも参加できます...",
+      "title": "*12月25日の終値を予想してください。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<！--SC_OFF --><div class=\"md\"><p>每个账户只能猜一次。将使用Coinbase\n收盘价。与收盘价最接近的猜测获胜。必须有一个闪电\n钱包。符合条件的评论将是所有在24日每日\n蜡烛收盘（太平洋时间下午4点）的人。你也可以在我的微博上参与...",
+      "title": "*猜测12月25日的收盘价*。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<！--SC_OFF --><div class=\"md\"><p>每個賬戶只能猜一次。將使用Coinbase\n收盤價。與收盤價最接近的猜測獲勝。必須有一個閃電\n錢包。符合條件的評論將是所有在24日每日\n蠟燭收盤（太平洋時間下午4點）的人。你也可以在我的微博上參與...",
+      "title": "*猜測12月25日的收盤價*。"
+    }
+  ]
 }

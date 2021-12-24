@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-24T08:01:00Z"
+  "original_createdAt": "2021-12-24T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "minulleは、YouTubeのホーム、検索、購読ページで、YouTubeのサムネイルとタイトルをプレビューすることができます。たった3時間でSaaSアプリを作ることに挑戦し、その結果がこれです🚀。",
+      "tagline": "アップロード前にYouTubeのサムネイルやタイトルをプレビューすることができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "minulle允许你在YouTube的主页、搜索和订阅页面上预览你的YouTube缩略图和标题。我挑战自己，在短短3个小时内建立一个SaaS应用程序，这就是这个结果🚀。",
+      "tagline": "在上传前预览YouTube缩略图和标题"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "minulle允許你在YouTube的主頁、搜索和訂閱頁面上預覽你的YouTube縮略圖和標題。我挑戰自己，在短短3個小時內建立一個SaaS應用程序，這就是這個結果🚀。",
+      "tagline": "在上傳前預覽YouTube縮略圖和標題"
+    }
+  ]
 }
