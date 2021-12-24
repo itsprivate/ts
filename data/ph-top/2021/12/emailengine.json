@@ -42,7 +42,7 @@
   "slug": "emailengine",
   "tagline": "Access any email account to receive/send emails with an API",
   "url": "https://www.producthunt.com/posts/emailengine?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
-  "votesCount": 53,
+  "votesCount": 166,
   "website": "https://www.producthunt.com/r/d22bbb77f19d88?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
   "topics": {
     "edges": [
@@ -70,5 +70,6 @@
       "description": "EmailEngine是一個自我託管的應用程序，它針對註冊的電子郵件賬戶打開IMAP和SMTP連接，將API請求翻譯成IMAP命令，發送電子郵件，並監控這些賬戶的變化。它爲賬戶上的每一個更新發送一個Webhook。",
       "tagline": "通過API訪問任何電子郵件賬戶以接收/發送電子郵件"
     }
-  ]
+  ],
+  "source_updated_at": 1640338939583
 }
