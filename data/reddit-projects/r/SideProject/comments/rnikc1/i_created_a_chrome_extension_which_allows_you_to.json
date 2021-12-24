@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Twitterで銘柄のキャッシュタグにカーソルを合わせると、リアルタイムの株価データを見ることができるクロームエクステンションを作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我创建了一个chrome扩展，允许你直接在Twitter上看到实时的股票数据，通过悬停在股票标签上。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我創建了一個chrome擴展，允許你直接在Twitter上看到實時的股票數據，通過懸停在股票標籤上。"
+    }
+  ]
 }

@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "たった3時間でSaaS(minulle.xyz)を作りました! ProductHuntで公開されたばかりです！応援よろしくお願いします。"
+    },
+    {
+      "locale": "zh",
+      "title": "我在短短3个小时内做出了一个SaaS（minulle.xyz）! 我们刚刚在ProductHunt上上线，请向我们展示你的支持。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我在短短3個小時內做出了一個SaaS（minulle.xyz）! 我們剛剛在ProductHunt上上線，請向我們展示你的支持。"
+    }
+  ]
 }
