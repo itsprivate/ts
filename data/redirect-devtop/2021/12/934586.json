@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-23T10:45:32Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mBjUhuNk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fmww7zspaf49cgkuaxu2.png",
   "author": "Atul Bhatt",
-  "author_url": "https://dev.to/atulbhattsystem32"
+  "author_url": "https://dev.to/atulbhattsystem32",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "そこで、今回はブログの2回目として、皆さんがつまずきそうな、より重要な質問を紹介します...。",
+      "title": "React JS インタビュー(Part-2)"
+    },
+    {
+      "locale": "zh",
+      "description": "因此，这是第二篇博文，我将分享一些更重要的问题，你可能会偶然发现...",
+      "title": "React JS面试（第二部分）"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "因此，這是第二篇博文，我將分享一些更重要的問題，你可能會偶然發現...",
+      "title": "React JS面試（第二部分）"
+    }
+  ]
 }
