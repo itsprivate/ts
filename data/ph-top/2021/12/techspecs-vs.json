@@ -88,5 +88,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-24T08:01:00Z"
+  "original_createdAt": "2021-12-24T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "スマートフォンを手動で比較するのはやめましょう。TechSpecs の AI 技術を使用して、自動的にスマートフォンを比較し、最適なスマートフォンを見つけます。",
+      "tagline": "スマートフォンを自動で比較するAI"
+    },
+    {
+      "locale": "zh",
+      "description": "产品猎手们好，不要再手动比较智能手机了。使用TechSpecs的人工智能技术，自动比较并找到最好的智能手机。",
+      "tagline": "能为你自动比较智能手机的人工智能"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "產品獵手們好，不要再手動比較智能手機了。使用TechSpecs的人工智能技術，自動比較並找到最好的智能手機。",
+      "tagline": "能爲你自動比較智能手機的人工智能"
+    }
+  ]
 }
