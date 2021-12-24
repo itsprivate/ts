@@ -3,7 +3,7 @@
   "title": "Log4j 2.16: Certain strings can cause infinite recursion",
   "url": "https://issues.apache.org/jira/browse/LOG4J2-3230",
   "author": "scblzn",
-  "points": 142,
+  "points": 226,
   "num_comments": 92,
   "_tags": [
     "story",
@@ -27,5 +27,6 @@
       "locale": "zh-Hant",
       "title": "Log4j 2.16: 某些字符串會導致無限遞歸"
     }
-  ]
+  ],
+  "source_updated_at": 1640338938163
 }
