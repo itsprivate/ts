@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "手を触れず、2人で頭を合わせて100段の階段を53秒で登る。"
+    },
+    {
+      "locale": "zh",
+      "title": "没有手的接触，两个人头对头在53秒内爬完100级楼梯"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "沒有手的接觸，兩個人頭對頭在53秒內爬完100級樓梯"
+    }
+  ]
 }
