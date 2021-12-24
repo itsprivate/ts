@@ -97,5 +97,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-23T10:30:06Z"
+  "original_createdAt": "2021-12-23T10:30:06Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "新バージョンのGlitchéは、再現不可能なランダムデータに基づくグリッチフィルタを搭載した完璧なNFT-artツールです。カメラロールから最大3つのビデオをデータモッシュしたり、リアルタイムレコーディングの実験ができます。",
+      "tagline": "数回のタップでNFTアートを作成"
+    },
+    {
+      "locale": "zh",
+      "description": "新版本的Glitché是一个完美的NFT-艺术工具，它的glitch-filters是基于无法重现的随机数据。从你的相机胶卷中最多有三个视频的数据，或实验实时记录。",
+      "tagline": "点击几下就可以创建NFT艺术"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "新版本的Glitché是一個完美的NFT-藝術工具，它的glitch-filters是基於無法重現的隨機數據。從你的相機膠捲中最多有三個視頻的數據，或實驗實時記錄。",
+      "tagline": "點擊幾下就可以創建NFT藝術"
+    }
+  ]
 }
