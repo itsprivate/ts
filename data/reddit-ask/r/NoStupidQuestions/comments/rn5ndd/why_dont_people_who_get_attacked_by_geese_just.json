@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I haven’t been attacked by a goose (yet) but\ntheir long necks certainly seem like most people could fit their hands around\nthem.</p> </div><!-- SC_ON -->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I haven’t been attacked by a goose (yet) but\ntheir long necks certainly seem like most people could fit their hands around\nthem.</p> </div><!-- SC_ON -->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I haven’t been attacked by a goose (yet) but\ntheir long necks certainly seem like most people could fit their hands around\nthem.</p> </div><!-- SC_ON -->",
+      "title": "雁に襲われた人は、なぜ首をつかまないのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I haven’t been attacked by a goose (yet) but\ntheir long necks certainly seem like most people could fit their hands around\n</p> </div><!-- SC_ON -->",
+      "title": "为什么被鹅攻击的人不直接抓住它们的脖子？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I haven’t been attacked by a goose (yet) but\ntheir long necks certainly seem like most people could fit their hands around\n</p> </div><!-- SC_ON -->",
+      "title": "爲什麼被鵝攻擊的人不直接抓住它們的脖子？"
+    }
+  ]
 }

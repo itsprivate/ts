@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このビデオは、私の頭の中でレンタルフリーで生活しています。"
+    },
+    {
+      "locale": "zh",
+      "title": "这段视频在我的脑海里是免租的"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這段視頻在我的腦海裏是免租的"
+    }
+  ]
 }
