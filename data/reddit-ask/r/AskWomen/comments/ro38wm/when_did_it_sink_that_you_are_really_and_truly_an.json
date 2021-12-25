@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Some days it feels like I’ve always just been\nmy age, and then others it’s as if I’m so old compared to the newer\ngenerations.</p> </div><!-- SC_ON -->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Some days it feels like I’ve always just been\nmy age, and then others it’s as if I’m so old compared to the newer\ngenerations.</p> </div><!-- SC_ON -->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p> ある日、私はいつも同じように感じることがあります。\nmy age, and then others it’s as if I’m so old compared to the newer\ngenerations.</p> </div><!-- SC_ON -->",
+      "title": "自分が本当に本当に大人なんだということが、いつの間にか沈んでいたんですね。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Some days it feels like I’ve always just been\nmy age, and then others it’s as if I’m so old compared to the newer\ngenerations.</p> </div><!-- SC_ON -->",
+      "title": "从什么时候开始，你才发现自己真的是一个成年人了呢？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Some days it feels like I’ve always just been\nmy age, and then others it’s as if I’m so old compared to the newer\ngenerations.</p> </div><!-- SC_ON -->",
+      "title": "從什麼時候開始，你才發現自己真的是一個成年人了呢？"
+    }
+  ]
 }
