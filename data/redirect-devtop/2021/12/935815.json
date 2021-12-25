@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-24T16:07:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6mhX1C7u--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7vx1ntk1reuhqo3tafbo.png",
   "author": "Elijah Trillionz",
-  "author_url": "https://dev.to/elijahtrillionz"
+  "author_url": "https://dev.to/elijahtrillionz",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "さて、この記事は、Reactやその他...の学習や使用を止めようとするようなものではありません。",
+      "title": "今、ReactJSを学ぶ必要はない"
+    },
+    {
+      "locale": "zh",
+      "description": "现在，这不是另一篇试图阻止你学习和使用React和其他的文章。",
+      "title": "你现在不需要学习ReactJS"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "現在，這不是另一篇試圖阻止你學習和使用React和其他的文章。",
+      "title": "你現在不需要學習ReactJS"
+    }
+  ]
 }

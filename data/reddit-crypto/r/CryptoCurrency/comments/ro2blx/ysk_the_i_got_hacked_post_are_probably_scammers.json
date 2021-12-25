@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>It seems everyday, there is a new post where\nsomeone&#39;s metamask gets hacked for 6 figures of ETH. They post the victim\nand scammer addresses and go on about reaching out to law enforcement blah blah.\nIf you have ever seen a real scammers account, there are…"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>It seems everyday, there is a new post where\nsomeone&#39;s metamask gets hacked for 6 figures of ETH. They post the victim\nand scammer addresses and go on about reaching out to law enforcement blah blah.\nIf you have ever seen a real scammers account, there are…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p> 毎日、新しい投稿があるようです。\n誰かのメタマスクがハッキングされ、6桁のETHを手に入れた。彼らは被害者を投稿する\nと詐欺師のアドレスが表示され、法執行機関に連絡することについて説明しています。\nもしあなたが本物の詐欺師のアカウントを見たことがあるのなら、そこには...",
+      "title": "YSK: 「ハッキングされた」という投稿は、おそらく詐欺師自身が寄付を望んでいるのでしょうから、彼らにお金を送ってはいけません。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>似乎每天都有一个新的帖子，其中有人的metamask被黑掉，获得了6位数的ETH。\n某个人的面具被黑掉了，获得了6位数的ETH。他们公布了受害者\n他们公布了受害者和诈骗者的地址，并说要联系执法部门，等等等等。\n如果你见过一个真正的骗子账户，有...",
+      "title": "YSK：\"我被黑了 \"的帖子可能是骗子自己希望得到捐款，你不应该给他们送钱。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>似乎每天都有一個新的帖子，其中有人的metamask被黑掉，獲得了6位數的ETH。\n某個人的面具被黑掉了，獲得了6位數的ETH。他們公佈了受害者\n他們公佈了受害者和詐騙者的地址，並說要聯繫執法部門，等等等等。\n如果你見過一個真正的騙子賬戶，有...",
+      "title": "YSK：\"我被黑了 \"的帖子可能是騙子自己希望得到捐款，你不應該給他們送錢。"
+    }
+  ]
 }
