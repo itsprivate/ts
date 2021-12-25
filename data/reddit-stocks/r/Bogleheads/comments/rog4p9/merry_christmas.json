@@ -103,5 +103,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1640461769,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Merry Christmas Bogleheads! Hope you are\nrelaxing, spending time with loved ones, and ignoring the stock market. To those\nwho don&#39;t celebrate Christmas, happy holidays.</p> </div><!-- SC_ON -->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Merry Christmas Bogleheads! Hope you are\nrelaxing, spending time with loved ones, and ignoring the stock market. To those\nwho don&#39;t celebrate Christmas, happy holidays.</p> </div><!-- SC_ON -->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Merry Christmas Bogleheads! あなたが\nリラックスし、愛する人と時間を過ごし、株式市場を無視する。そして\n</p> </div><!-- SC_ON --> クリスマスにお祝いをしない人、おめでとうございます。",
+      "title": "メリークリスマス"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>圣诞快乐 Bogleheads! 希望你在\nrelaxing, spending time with loved ones, and ignoring the stock market. To those\nwho don&#39;t celebrate Christmas, happy holidays.</p> </div><!-- SC_ON -->",
+      "title": "圣诞快乐"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>聖誕快樂 Bogleheads! 希望你在\nrelaxing, spending time with loved ones, and ignoring the stock market. To those\nwho don&#39;t celebrate Christmas, happy holidays.</p> </div><!-- SC_ON -->",
+      "title": "聖誕快樂"
+    }
+  ]
 }
