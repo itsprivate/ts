@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I gather that they’re just ink particles\nbetween our skin, but how are they not at least extremely deformed after every\ncell next to the tattoo has been replaced?</p> </div><!-- SC_ON -->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I gather that they’re just ink particles\nbetween our skin, but how are they not at least extremely deformed after every\ncell next to the tattoo has been replaced?</p> </div><!-- SC_ON -->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>つまり、インクの粒なのでしょう。\nbetween our skin, but how are they not at least extremely deformed after every\ncell next to the tattoo has been replaced?</p> </div><!-- SC_ON -->",
+      "title": "体のすべての細胞が7年で入れ替わるのなら、なぜタトゥーは7年経っても消えないのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>我认为它们只是墨水颗粒\n但在我们的皮肤之间，它们怎么会不至少是极度变形的呢？\n</p> </div><!-- SC_ON -->",
+      "title": "如果你身体的每一个细胞都在7年内被替换；为什么纹身在7年后不会消失？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>我認爲它們只是墨水顆粒\n但在我們的皮膚之間，它們怎麼會不至少是極度變形的呢？\n</p> </div><!-- SC_ON -->",
+      "title": "如果你身體的每一個細胞都在7年內被替換；爲什麼紋身在7年後不會消失？"
+    }
+  ]
 }

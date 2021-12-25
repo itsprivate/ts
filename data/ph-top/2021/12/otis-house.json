@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-24T08:01:00Z"
+  "original_createdAt": "2021-12-24T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Otis Houseは、Ethereum上に構築された、マーケットプレイス、オークションプラットフォーム、物理的なアイテムのための金庫です。物理的なアイテムはオーチスによって保管、保護、保険がかけられています。そして、各アイテムに対して、資産の所有権を表すNFTを鋳造します。",
+      "tagline": "IRL 🤝 NFT"
+    },
+    {
+      "locale": "zh",
+      "description": "Otis House是一个建立在以太坊之上的市场、拍卖平台和实体物品的保险库。实物项目由奥的斯储存、保护和保险。然后，我们为每件物品铸造一个NFT，代表该资产的所有权。",
+      "tagline": "IRL 🤝 NFT"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Otis House是一個建立在以太坊之上的市場、拍賣平臺和實體物品的保險庫。實物項目由奧的斯儲存、保護和保險。然後，我們爲每件物品鑄造一個NFT，代表該資產的所有權。",
+      "tagline": "IRL 🤝 NFT"
+    }
+  ]
 }
