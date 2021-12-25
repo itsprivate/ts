@@ -14,5 +14,19 @@
   "tags": [
     "Reuters"
   ],
-  "image": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=66"
+  "image": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=66",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ギリシャの難破船で少なくとも16人の移民が死亡"
+    },
+    {
+      "locale": "zh",
+      "title": "希腊沉船事故中至少有16名移民死亡"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "希臘沉船事故中至少有16名移民死亡"
+    }
+  ]
 }
