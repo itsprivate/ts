@@ -82,5 +82,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-25T11:31:40Z"
+  "original_createdAt": "2021-12-25T11:31:40Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "BRICKSは、! オープンソース ♻️ 50以上のコンポーネント 🔥デザイントークンシステム 📚インタラクティブドキュメント 🌗ダークモード",
+      "tagline": "カスタマイズ可能な無料のMaterialUIデザインシステム"
+    },
+    {
+      "locale": "zh",
+      "description": "BRICKS是一个完整的设计系统，基于! ♻️开源 🔥 50+组件 🎨设计令牌系统 📚嵌入式互动文档 🌗黑暗模式",
+      "tagline": "一个免费的、可定制的MaterialUI设计系统"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "BRICKS是一個完整的設計系統，基於! ♻️開源 🔥 50+組件 🎨設計令牌系統 📚嵌入式互動文檔 🌗黑暗模式",
+      "tagline": "一個免費的、可定製的MaterialUI設計系統"
+    }
+  ]
 }
