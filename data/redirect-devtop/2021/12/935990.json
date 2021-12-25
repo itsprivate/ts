@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-24T20:23:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--exER9TPI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hsxcwba7u3mbysk20sp1.png",
   "author": "Suprabha",
-  "author_url": "https://dev.to/suprabhasupi"
+  "author_url": "https://dev.to/suprabhasupi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ご存知のように、オンラインコースや電子書籍は、Frontendを学ぶための最良のリソースです...",
+      "title": "フロントエンドデバイスのための無料の電子書籍とコース"
+    },
+    {
+      "locale": "zh",
+      "description": "正如我们所知，在线课程或电子书是学习Frontend的最佳资源。",
+      "title": "前端开发的免费电子书和课程"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "正如我們所知，在線課程或電子書是學習Frontend的最佳資源。",
+      "title": "前端開發的免費電子書和課程"
+    }
+  ]
 }
