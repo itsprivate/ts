@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "X-Madridで見つけたこのATM"
+    },
+    {
+      "locale": "zh",
+      "title": "我在X-Madrid发现的这个ATM机"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我在X-Madrid發現的這個ATM機"
+    }
+  ]
 }
