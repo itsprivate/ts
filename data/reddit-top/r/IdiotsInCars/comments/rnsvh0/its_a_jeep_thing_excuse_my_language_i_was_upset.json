@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ジープのこと？(動揺していたので言葉遣いが悪かったことをお許しください)"
+    },
+    {
+      "locale": "zh",
+      "title": "这是吉普车的事？(原谅我的语言，我很不高兴)"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是吉普車的事？(原諒我的語言，我很不高興)"
+    }
+  ]
 }
