@@ -67,5 +67,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-25T08:01:00Z"
+  "original_createdAt": "2021-12-25T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Flickcallは、映画やテレビ番組を一緒に見るための、プライバシーに配慮したブラウザ拡張機能です。あなたの個人的なチャット＆ビデオストリームは、ピア（バックエンドサーバなし）に直接配信されます。Netflix、Youtube、Primevideo、Hotstar、＆Zee5をサポートしています。",
+      "tagline": "お気に入りのストリーミングプラットフォームで一緒に視聴する"
+    },
+    {
+      "locale": "zh",
+      "description": "Flickcall是一个注重隐私的浏览器扩展，可以一起观看电影和电视节目。你的个人聊天和视频流直接传递给同伴（没有后端服务器）。支持Netflix, Youtube, Primevideo, Hotstar, & Zee5。",
+      "tagline": "在你喜欢的流媒体平台上一起观看"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Flickcall是一個注重隱私的瀏覽器擴展，可以一起觀看電影和電視節目。你的個人聊天和視頻流直接傳遞給同伴（沒有後端服務器）。支持Netflix, Youtube, Primevideo, Hotstar, & Zee5。",
+      "tagline": "在你喜歡的流媒體平臺上一起觀看"
+    }
+  ]
 }
