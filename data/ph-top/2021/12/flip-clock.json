@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-25T08:03:32Z"
+  "original_createdAt": "2021-12-25T08:03:32Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "インターネット上でよく見かける有名なフリップクロックのウェブ版です",
+      "tagline": "ウェブ上で利用できる有名なフリップクロック"
+    },
+    {
+      "locale": "zh",
+      "description": "这是我们在互联网上看到的著名的翻转钟的网络版。",
+      "tagline": "网络上著名的翻转钟"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是我們在互聯網上看到的著名的翻轉鐘的網絡版。",
+      "tagline": "網絡上著名的翻轉鍾"
+    }
+  ]
 }
