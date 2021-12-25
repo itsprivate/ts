@@ -41,5 +41,22 @@
   "original_created_at": "2021-12-24T06:29:39Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NGnPgymj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uqrnb8jafam8t7ykk0zp.jpg",
   "author": "Silvestar Bistrović",
-  "author_url": "https://dev.to/starbist"
+  "author_url": "https://dev.to/starbist",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私はここで、私が最も好きなプログラミング言語であるCSSを守るために立ち上がりました。そんなことより...",
+      "title": "CSSを守るために"
+    },
+    {
+      "locale": "zh",
+      "description": "我在这里表明立场，为CSS，我最喜欢的编程语言辩护。我并不关心它是否...",
+      "title": "为CSS辩护"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我在這裏表明立場，爲CSS，我最喜歡的編程語言辯護。我並不關心它是否...",
+      "title": "爲CSS辯護"
+    }
+  ]
 }
