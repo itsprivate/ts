@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-24T11:19:45Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rSe5tEL9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sd2cymxgapfiojpxiql1.jpg",
   "author": "Matti Bar-Zeev",
-  "author_url": "https://dev.to/mbarzeev"
+  "author_url": "https://dev.to/mbarzeev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今回は、既存のmonorepoにReactコンポーネントのパッケージを追加してみます（...",
+      "title": "MonorepoへのReact Componentsパッケージの追加"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我将把一个React组件包添加到一个现有的monorepo中（连同...",
+      "title": "将React组件包添加到Monorepo中"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我將把一個React組件包添加到一個現有的monorepo中（連同...",
+      "title": "將React組件包添加到Monorepo中"
+    }
+  ]
 }
