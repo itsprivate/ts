@@ -52,5 +52,22 @@
   "original_created_at": "2021-12-19T02:51:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wjRXdF8c--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bi9dwvoqhan5wlha573q.png",
   "author": "Conor Bronsdon",
-  "author_url": "https://dev.to/conorbronsdon"
+  "author_url": "https://dev.to/conorbronsdon",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事は、Tellspin Codeの創始者であるDan Willoughby氏によってdevinterruptedに寄稿されたものである。",
+      "title": "コードの臭いを抑える7つのステップ🦨。"
+    },
+    {
+      "locale": "zh",
+      "description": "这篇文章是由Dan Willoughby贡献给devinterrupted的，他是Tellspin Code smell的创始人是...",
+      "title": "减少代码气味的7个步骤 🦨"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這篇文章是由Dan Willoughby貢獻給devinterrupted的，他是Tellspin Code smell的創始人是...",
+      "title": "減少代碼氣味的7個步驟 🦨"
+    }
+  ]
 }
