@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインの供給は減少しており、暗号通貨取引所で流通しているトークンは6％程度しか残っていません"
+    },
+    {
+      "locale": "zh",
+      "title": "比特币的供应正在减少，在加密货币交易所流通的代币只剩下约6%。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比特幣的供應正在減少，在加密貨幣交易所流通的代幣只剩下約6%。"
+    }
+  ]
 }
