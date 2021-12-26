@@ -137,5 +137,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1640456694,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p><a\nhref=\"https://www.reddit.com/poll/roeomu\">View Poll</a></p> </div><!-- SC_ON -->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p><a\nhref=\"https://www.reddit.com/poll/roeomu\">View Poll</a></p> </div><!-- SC_ON -->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p><a\nhref=\"https://www.reddit.com/poll/roeomu\">世論調査を見る</a></p> </div><!-- SC_ON -->。",
+      "title": "どこの証券会社を使っていますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<！--SC_OFF --><div class=\"md\"><p><a\nhref=\"https://www.reddit.com/poll/roeomu\">查看投票</a></p> </div><!-- SC_ON -->",
+      "title": "您使用的是哪家经纪公司？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<！--SC_OFF --><div class=\"md\"><p><a\nhref=\"https://www.reddit.com/poll/roeomu\">查看投票</a></p> </div><!-- SC_ON -->",
+      "title": "您使用的是哪家經紀公司？"
+    }
+  ]
 }
