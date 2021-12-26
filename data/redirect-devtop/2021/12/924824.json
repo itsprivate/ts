@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-13T09:45:48Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fxuiPMRa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hqyz9thji40a1bfcfiw0.jpeg",
   "author": "EneasLari",
-  "author_url": "https://dev.to/eneaslari"
+  "author_url": "https://dev.to/eneaslari",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、webRTCとsocket.ioを使用して、2つのアプリケーション間のピアツーピアチャットアプリを作成する方法を説明します。",
+      "title": "webRTCでPeer to Peerのチャットアプリを作成する"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我们将使用webRTC和socket.io来创建两个人之间的点对点聊天应用程序。",
+      "title": "用webRTC创建一个点对点的聊天应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我們將使用webRTC和socket.io來創建兩個人之間的點對點聊天應用程序。",
+      "title": "用webRTC創建一個點對點的聊天應用程序"
+    }
+  ]
 }

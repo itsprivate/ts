@@ -50,5 +50,22 @@
   "original_created_at": "2021-12-25T16:00:23Z",
   "image": "https://dev.to/social_previews/article/936408.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Official post YJIT: 新しい実験的インプロセスJITコンパイラをデフォルトで無効化（要...",
+      "title": "Ruby 3.1.0リリース"
+    },
+    {
+      "locale": "zh",
+      "description": "官方帖子YJIT：新的实验性进程内JIT编译器默认禁用（需...",
+      "title": "红宝石3.1.0版发布"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "官方帖子YJIT：新的實驗性進程內JIT編譯器默認禁用（需...",
+      "title": "紅寶石3.1.0版發佈"
+    }
+  ]
 }
