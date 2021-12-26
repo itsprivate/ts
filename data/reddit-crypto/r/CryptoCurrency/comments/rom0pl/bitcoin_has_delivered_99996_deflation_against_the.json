@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインは過去10年間、米ドルに対して99.996％のデフレを実現した"
+    },
+    {
+      "locale": "zh",
+      "title": "过去十年，比特币对美元的通货紧缩率达到99.996%。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "過去十年，比特幣對美元的通貨緊縮率達到99.996%。"
+    }
+  ]
 }

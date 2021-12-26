@@ -57,5 +57,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>In case you are not familiar, <a\nhref=\"https://bisq.network\">bisq</a> is a pure P2P system for\nBTC-Fiat/BTC-crypto trading. It offers a unique alternative to centralized\nexchanges, as it is a fully decentralized system.</p> <p>With the year nearing\nit&#39;s end,…"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>In case you are not familiar, <a\nhref=\"https://bisq.network\">bisq</a> is a pure P2P system for\nBTC-Fiat/BTC-crypto trading. It offers a unique alternative to centralized\nexchanges, as it is a fully decentralized system.</p> <p>With the year nearing\nit&#39;s end,…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>In case you are not familiar, <a\nhref=\"https://bisq.network\">bisq</a> is a pure P2P system for\nBTC-Fiat/BTC-crypto trading. 中央集権的な取引に代わるユニークな選択肢を提供します。\n</p> <p>今年も残すところあとわずかとなりました。\nを、...",
+      "title": "bisqは成長中!"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>如果你不熟悉，<a\nhref=\"https://bisq.network\">bisq</a>是一个纯P2P系统，用于\nBTC-Fiat/BTC-Crypto交易的纯P2P系统。它提供了一个独特的替代中心化的\n</p> <p>随着今年接近尾声，...\n它&#39;的结束，...",
+      "title": "bisq正在成长!"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>如果你不熟悉，<a\nhref=\"https://bisq.network\">bisq</a>是一個純P2P系統，用於\nBTC-Fiat/BTC-Crypto交易的純P2P系統。它提供了一個獨特的替代中心化的\n</p> <p>隨着今年接近尾聲，...\n它&#39;的結束，...",
+      "title": "bisq正在成長!"
+    }
+  ]
 }
