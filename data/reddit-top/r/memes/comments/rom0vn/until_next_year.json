@@ -106,5 +106,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "来年まで"
+    },
+    {
+      "locale": "zh",
+      "title": "直到明年"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "直到明年"
+    }
+  ]
 }
