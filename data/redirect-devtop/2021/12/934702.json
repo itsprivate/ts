@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-23T14:00:26Z",
   "image": "https://dev.to/social_previews/article/934702.png",
   "author": "Richard Knoche (He/Him)",
-  "author_url": "https://dev.to/richardknoche2"
+  "author_url": "https://dev.to/richardknoche2",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "木のトラバースの方法を説明した記事や動画はたくさんありますが、なかなか良いものが見つかりませんでした。",
+      "title": "JSでバイナリサーチツリーを走査する"
+    },
+    {
+      "locale": "zh",
+      "description": "你可以找到很多解释如何穿越树的文章和视频，但我找不到一个好的...",
+      "title": "在JS中遍历二进制搜索树"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你可以找到很多解釋如何穿越樹的文章和視頻，但我找不到一個好的...",
+      "title": "在JS中遍歷二進制搜索樹"
+    }
+  ]
 }

@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この1年、何事もなかったかのように流されてきた奇妙な出来事とは何だったのだろうか。"
+    },
+    {
+      "locale": "zh",
+      "title": "在过去的一年里，有哪些奇怪的事件被掩盖了，就像它们根本没有发生一样？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在過去的一年裏，有哪些奇怪的事件被掩蓋了，就像它們根本沒有發生一樣？"
+    }
+  ]
 }

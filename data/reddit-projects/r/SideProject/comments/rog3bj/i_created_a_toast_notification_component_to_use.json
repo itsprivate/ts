@@ -57,5 +57,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>👋🏻 Hi There</p> <p>I&#39;ve recently learned\nabout web components and trying to build a simple component to understand how it\nworks. I&#39;ve loved react-hot-toast so I&#39;m trying to recreate it using web\ncomponents and share it to npm so I can reuse it on my…"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>👋🏻 Hi There</p> <p>I&#39;ve recently learned\nabout web components and trying to build a simple component to understand how it\nworks. I&#39;ve loved react-hot-toast so I&#39;m trying to recreate it using web\ncomponents and share it to npm so I can reuse it on my…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>👋🏻 こんにちは</p> <p>最近知ったのですが。\nウェブコンポーネントについて理解するために簡単なコンポーネントを作成しようとしています。\nは動作します。私はreact-hot-toastが好きなので、それをwebで再現しようとしています。\nを作成し、npmで共有することで、自分の会社で再利用することができます。",
+      "title": "トースト通知コンポーネントを作成し、使用したJavaScriptフレームワークで使用できるようにしました"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>👋🏻 Hi There</p> <p>我最近学习了\n试图建立一个简单的组件来了解它的工作原理。\n运作。我很喜欢 react-hot-toast，所以我想用 web\n组件，并将其分享给npm，这样我就可以在我的网站上重新使用它。",
+      "title": "我创建了一个敬酒通知组件，可以在你使用的任何JavaScript框架上使用"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>👋🏻 Hi There</p> <p>我最近學習了\n試圖建立一個簡單的組件來了解它的工作原理。\n運作。我很喜歡 react-hot-toast，所以我想用 web\n組件，並將其分享給npm，這樣我就可以在我的網站上重新使用它。",
+      "title": "我創建了一個敬酒通知組件，可以在你使用的任何JavaScript框架上使用"
+    }
+  ]
 }
