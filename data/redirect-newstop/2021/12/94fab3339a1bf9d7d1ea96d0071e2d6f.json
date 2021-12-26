@@ -14,5 +14,19 @@
   "tags": [
     "The New York Times"
   ],
-  "image": "https://static01.nyt.com/images/2021/12/26/world/26myanmar/26myanmar-facebookJumbo.jpg"
+  "image": "https://static01.nyt.com/images/2021/12/26/world/26myanmar/26myanmar-facebookJumbo.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ミャンマー軍、数十人の市民を虐殺したと非難される"
+    },
+    {
+      "locale": "zh",
+      "title": "缅甸军队被指控屠杀了数十名平民"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "緬甸軍隊被指控屠殺了數十名平民"
+    }
+  ]
 }
