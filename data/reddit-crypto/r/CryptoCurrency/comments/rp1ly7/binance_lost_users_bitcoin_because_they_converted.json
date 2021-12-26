@@ -47,5 +47,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Taproot is a soft-fork which was introduced to\nthe Bitcoin network on 14th Nov (last month). Binance made an announcement\nsaying that they would support the Bitcoin Taproot upgrade for all withdrawals\nand deposits. </p> <p><em>&quot;Binance will handle all technical…"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Taproot is a soft-fork which was introduced to\nthe Bitcoin network on 14th Nov (last month). Binance made an announcement\nsaying that they would support the Bitcoin Taproot upgrade for all withdrawals\nand deposits. </p> <p><em>&quot;Binance will handle all technical…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Taproot is a soft-fork which was introduced to\nthe Bitcoin network on 14th Nov (last month). Binance made an announcement\nsaying that they would support the Bitcoin Taproot upgrade for all withdrawals\nand deposits. </p> <p><em>&quot;バイナンスは、すべての技術的な問題を処理します。",
+      "title": "Binanceは、ユーザーから提供されたアドレスを別のアドレス（BitcoinのTaprootフォークをサポートしていると思われる）に変換し、間違ったアドレスに送信してすべての資金を燃やすことになったため、ユーザーのBitcoinを失いました。今になって、ユーザーのせいだと言っている。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Taproot is a soft-fork which was introduced to\nthe Bitcoin network on 14th Nov (last month). Binance made an announcement\nsaying that they would support the Bitcoin Taproot upgrade for all withdrawals\nand deposits. </p> <p><em>&quot;Binance将处理所有技术...",
+      "title": "Binance丢失了用户的比特币，因为他们将用户提供的地址转换为一个不同的地址（他们认为这个地址支持比特币的Taproot分叉），最后通过发送错误的地址烧毁了所有资金。现在说这是用户的错。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Taproot is a soft-fork which was introduced to\nthe Bitcoin network on 14th Nov (last month). Binance made an announcement\nsaying that they would support the Bitcoin Taproot upgrade for all withdrawals\nand deposits. </p> <p><em>&quot;Binance將處理所有技術...",
+      "title": "Binance丟失了用戶的比特幣，因爲他們將用戶提供的地址轉換爲一個不同的地址（他們認爲這個地址支持比特幣的Taproot分叉），最後通過發送錯誤的地址燒燬了所有資金。現在說這是用戶的錯。"
+    }
+  ]
 }
