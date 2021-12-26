@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが誰かとイチャイチャしているとき、相手に一番してほしいこと、してほしくないことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "当你和某人亲热时，你最希望对方做什么/避免做什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當你和某人親熱時，你最希望對方做什麼/避免做什麼？"
+    }
+  ]
 }
