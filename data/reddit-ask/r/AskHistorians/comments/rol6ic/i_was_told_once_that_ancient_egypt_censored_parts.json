@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>This was a passing comment in a review of game\nthat went into a ramble about ancient Egypt based on an account by Plutarch\nwhich alone raises red flags.</p>…"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>This was a passing comment in a review of game\nthat went into a ramble about ancient Egypt based on an account by Plutarch\nwhich alone raises red flags.</p>…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>これはゲームのレビューの中のひと言です。\nプルタークの記述に基づく古代エジプトについての雑談に入った。\nそれだけで赤信号になります。",
+      "title": "古代エジプトでは、悪を語ることはさらなる悪を招くと考え、民間伝承の一部を検閲していたと聞いたことがあります。これは本当なのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>这是一篇游戏评论中的一句顺口溜。\n这句话是在一篇游戏评论中的顺口溜，它根据普鲁塔克的记载，对古埃及进行了漫谈。\n</p>...",
+      "title": "曾经有人告诉我，古埃及对他们的部分民间传说进行了审查，因为他们认为谈论邪恶会给世界带来更多邪恶。这是真的吗，为什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>這是一篇遊戲評論中的一句順口溜。\n這句話是在一篇遊戲評論中的順口溜，它根據普魯塔克的記載，對古埃及進行了漫談。\n</p>...",
+      "title": "曾經有人告訴我，古埃及對他們的部分民間傳說進行了審查，因爲他們認爲談論邪惡會給世界帶來更多邪惡。這是真的嗎，爲什麼？"
+    }
+  ]
 }
