@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "弾丸をかわしたことはよく知られていますが、基本的に走った弾丸は何でしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "我们都知道被躲避的子弹，但什么是你基本上碰到的子弹？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們都知道被躲避的子彈，但什麼是你基本上碰到的子彈？"
+    }
+  ]
 }
