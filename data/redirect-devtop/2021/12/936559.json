@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-26T00:29:37Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gnouIzuE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dof8jnxpksie5w66hwsi.png",
   "author": "Cess",
-  "author_url": "https://dev.to/cesscode"
+  "author_url": "https://dev.to/cesscode",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CSSについて知っている人、あるいはウェブ開発者でCSSを使っている人は、CSSにおける色の重要性について知っていると思いますが......。",
+      "title": "無料ツールを使って、パーフェクトなカラーパレットを見つけよう。"
+    },
+    {
+      "locale": "zh",
+      "description": "了解CSS的人或使用CSS的网络开发者都知道颜色在CSS中的重要性....。",
+      "title": "使用这些免费工具找到完美的调色板。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "瞭解CSS的人或使用CSS的網絡開發者都知道顏色在CSS中的重要性....。",
+      "title": "使用這些免費工具找到完美的調色板。"
+    }
+  ]
 }
