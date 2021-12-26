@@ -42,5 +42,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ハッカーがHP 9000サーバーにアクセスし、11万ドル相当の暗号を採掘。"
+    },
+    {
+      "locale": "zh",
+      "title": "黑客进入惠普9000服务器并挖掘出价值11万美元的加密货币"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "黑客進入惠普9000服務器並挖掘出價值11萬美元的加密貨幣"
+    }
+  ]
 }
