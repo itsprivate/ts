@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>And yes without being muted 😂</p> </div><!--\nSC_ON -->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>And yes without being muted 😂</p> </div><!--\nSC_ON -->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>そしてミュートされずにはいります😂</p> </div><!\nSC_ON -->",
+      "title": "字幕を有効にすることで、視聴体験がより簡単になることはありませんか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>而且是在没有被静音的情况下😂</p> </div><!\nSC_ON -->",
+      "title": "是否有人发现他们的观看体验在启用字幕的情况下更容易观看&amp;理解？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>而且是在沒有被靜音的情況下😂</p> </div><!\nSC_ON -->",
+      "title": "是否有人發現他們的觀看體驗在啓用字幕的情況下更容易觀看&amp;理解？"
+    }
+  ]
 }
