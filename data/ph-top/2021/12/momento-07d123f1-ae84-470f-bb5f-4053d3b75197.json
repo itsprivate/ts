@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-26T08:00:00Z"
+  "original_createdAt": "2021-12-26T08:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Momentoは、行動を起こすためのツールです。あなたの人生はとても貴重なので、それを価値あるものにしましょう。",
+      "tagline": "ミニマリストの生活備忘録"
+    },
+    {
+      "locale": "zh",
+      "description": "Momento是一个帮助你采取行动的工具。你的生命是非常宝贵的，所以要让它变得有价值。",
+      "tagline": "极简主义的生活提醒"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Momento是一個幫助你採取行動的工具。你的生命是非常寶貴的，所以要讓它變得有價值。",
+      "tagline": "極簡主義的生活提醒"
+    }
+  ]
 }
