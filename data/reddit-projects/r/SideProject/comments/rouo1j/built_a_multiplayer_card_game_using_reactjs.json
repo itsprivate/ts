@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ReactJS、NodeJs、Socket.ioを使用したマルチプレイヤーカードゲームの構築"
+    },
+    {
+      "locale": "zh",
+      "title": "使用ReactJS、NodeJs和Socket.io构建了一个多人纸牌游戏"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "使用ReactJS、NodeJs和Socket.io構建了一個多人紙牌遊戲"
+    }
+  ]
 }
