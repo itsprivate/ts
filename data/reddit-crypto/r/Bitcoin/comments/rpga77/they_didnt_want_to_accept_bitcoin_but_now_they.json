@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインを受け入れたくなかったのに、受け入れなければならなくなったのです。暗号化されたカードがビットコインの購買力を高めている"
+    },
+    {
+      "locale": "zh",
+      "title": "他们本来不想接受比特币，但现在他们不得不接受了! 加密货币卡让比特币有了购买力"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他們本來不想接受比特幣，但現在他們不得不接受了! 加密貨幣卡讓比特幣有了購買力"
+    }
+  ]
 }

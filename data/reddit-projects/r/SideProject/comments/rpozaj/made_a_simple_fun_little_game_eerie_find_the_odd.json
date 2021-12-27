@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "シンプルで楽しい小さなゲーム「Eerie, Find the Odd one (Sound On)」を作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "做了一个简单有趣的小游戏《阴森恐怖，寻找怪人》（声音打开）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "做了一個簡單有趣的小遊戲《陰森恐怖，尋找怪人》（聲音打開）。"
+    }
+  ]
 }

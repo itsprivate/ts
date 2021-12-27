@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの停車駅で、この扉が開くとき"
+    },
+    {
+      "locale": "zh",
+      "title": "当它是你的一站，门打开了，这"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當它是你的一站，門打開了，這"
+    }
+  ]
 }

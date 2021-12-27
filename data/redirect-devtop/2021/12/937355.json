@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-27T09:40:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--toT-UEpZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9xoq0mll9gv3iulyazf9.png",
   "author": "Ritesh Kumar",
-  "author_url": "https://dev.to/wordssaysalot"
+  "author_url": "https://dev.to/wordssaysalot",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JavaScriptは、信じられないほど高速で効率的なプログラミング言語で、さまざまな用途に使用できます......。",
+      "title": "ES6によるJavascriptのコーディング方法!"
+    },
+    {
+      "locale": "zh",
+      "description": "JavaScript是一种令人难以置信的快速和高效的编程语言，可用于各种目的....。",
+      "title": "ES6编码Javascript的方式!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "JavaScript是一種令人難以置信的快速和高效的編程語言，可用於各種目的....。",
+      "title": "ES6編碼Javascript的方式!"
+    }
+  ]
 }

@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC】時価総額上位50の暗号通貨"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC] 按市值计算的前50种加密货币"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC] 按市值計算的前50種加密貨幣"
+    }
+  ]
 }

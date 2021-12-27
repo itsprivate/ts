@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I know she’s gonna build this up and explode\nand idk what she wants me to do.</p> </div><!-- SC_ON -->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I know she’s gonna build this up and explode\nand idk what she wants me to do.</p> </div><!-- SC_ON -->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I know she's gonna build up this and explosed\n</p> </div><!-- SC_ON -->.",
+      "title": "明らかに大丈夫じゃないのに、どうしたのと聞くと、大丈夫と言う女性にどうしろというのか。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I know she’s gonna build this up and explode\nand idk what she wants me to do.</p> </div><!-- SC_ON -->",
+      "title": "当一个女人说她很好的时候，我问她怎么了，显然不是很好，我应该怎么做？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I know she’s gonna build this up and explode\nand idk what she wants me to do.</p> </div><!-- SC_ON -->",
+      "title": "當一個女人說她很好的時候，我問她怎麼了，顯然不是很好，我應該怎麼做？"
+    }
+  ]
 }

@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このレストランでは、食事ができないときは無料で提供しています"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你买不起，这家餐厅提供免费的食物"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你買不起，這家餐廳提供免費的食物"
+    }
+  ]
 }
