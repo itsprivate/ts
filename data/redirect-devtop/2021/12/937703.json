@@ -43,5 +43,22 @@
   "original_created_at": "2021-12-27T15:32:37Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--udNxMxPR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r223kzsqfmwmzzwa9gng.jpeg",
   "author": "swyx",
-  "author_url": "https://dev.to/swyx"
+  "author_url": "https://dev.to/swyx",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TurboRepoは、monorepoの問題に正面から取り組み、ビルド速度を85％向上させ、優れたアーキテクチャ/ドキュメント/マーケティングを実現したため、JSコミュニティにとって大きな意味を持つことになりました。",
+      "title": "ターボリポが2022年最初のビッグトレンドになる理由"
+    },
+    {
+      "locale": "zh",
+      "description": "TurboRepo对JS社区来说是一件大事，因为它正面解决了monorepo的问题，带来了85%的构建速度和伟大的架构/文档/营销。",
+      "title": "为什么TurboRepo将成为2022年的第一个大趋势？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "TurboRepo對JS社區來說是一件大事，因爲它正面解決了monorepo的問題，帶來了85%的構建速度和偉大的架構/文檔/營銷。",
+      "title": "爲什麼TurboRepo將成爲2022年的第一個大趨勢？"
+    }
+  ]
 }

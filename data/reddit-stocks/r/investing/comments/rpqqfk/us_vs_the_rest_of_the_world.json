@@ -103,5 +103,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1640621318,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>In the past year US market outperformed (by\nfar) pretty much everything else, including the Japanese Nikkei, the Korean\nKOSPI, and the EU (DAX, etc).</p> <p>Comparing, for example, NASDAQ vs. KOSPI\nperformance year-to-day the former is up 25% while the latter is…"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>In the past year US market outperformed (by\nfar) pretty much everything else, including the Japanese Nikkei, the Korean\nKOSPI, and the EU (DAX, etc).</p> <p>Comparing, for example, NASDAQ vs. KOSPI\nperformance year-to-day the former is up 25% while the latter is…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p> 過去1年間、米国市場は（圧倒的に）アウトパフォームしています。\n日本の日経平均株価や韓国の株価も含め、他のすべての株価をはるかに凌駕しています。\n</p> <p>たとえば、NASDAQとKOSPIを比較すると、以下のようになります。\n前者は25％増、後者は...。",
+      "title": "米国 vs. その他の国"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>在过去的一年里，美国市场的表现（到目前为止）超过了其他几乎所有的东西，包括日本的日经指数、韩国的\n在过去的一年里，美国市场的表现几乎超过了其他所有的东西，包括日本的日经指数、韩国的\n</p> <p>例如，比较纳斯达克与KOSPI指数的年度表现，前者上涨了2.5%，后者上涨了1.5%。\n的表现，前者上升了25%，而后者则是......",
+      "title": "美国与世界其他国家的对比"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>在過去的一年裏，美國市場的表現（到目前爲止）超過了其他幾乎所有的東西，包括日本的日經指數、韓國的\n在過去的一年裏，美國市場的表現幾乎超過了其他所有的東西，包括日本的日經指數、韓國的\n</p> <p>例如，比較納斯達克與KOSPI指數的年度表現，前者上漲了2.5%，後者上漲了1.5%。\n的表現，前者上升了25%，而後者則是......",
+      "title": "美國與世界其他國家的對比"
+    }
+  ]
 }
