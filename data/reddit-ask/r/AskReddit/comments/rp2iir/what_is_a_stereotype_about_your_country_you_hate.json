@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが嫌いな国についてのステレオタイプは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你讨厌的关于你的国家的刻板印象是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你討厭的關於你的國家的刻板印象是什麼？"
+    }
+  ]
 }
