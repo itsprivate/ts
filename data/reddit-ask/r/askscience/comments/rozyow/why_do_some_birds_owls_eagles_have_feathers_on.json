@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Is it to do with flight? Warmth? Other? Does\nthis factor into taxonomy?</p> </div><!-- SC_ON -->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Is it to do with flight? Warmth? Other? Does\nthis factor into taxonomy?</p> </div><!-- SC_ON -->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p> 飛行と関係あるのでしょうか？Warmth? Other? Does\nthis factor into taxonomy?</p> </div><!-- SC_ON -->",
+      "title": "足に羽がある鳥（フクロウ、ワシ）とない鳥（カモメ、ハシブトガラス）がいるのはなぜか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Is it to do with flight? Warmth? Other? Does\nthis factor into taxonomy?</p> </div><!-- SC_ON -->",
+      "title": "为什么有些鸟类（猫头鹰、老鹰）腿上有羽毛，而其他鸟类（海鸥、鸟类）却没有？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Is it to do with flight? Warmth? Other? Does\nthis factor into taxonomy?</p> </div><!-- SC_ON -->",
+      "title": "爲什麼有些鳥類（貓頭鷹、老鷹）腿上有羽毛，而其他鳥類（海鷗、鳥類）卻沒有？"
+    }
+  ]
 }
