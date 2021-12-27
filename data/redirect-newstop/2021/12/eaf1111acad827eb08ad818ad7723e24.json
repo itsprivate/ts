@@ -14,5 +14,19 @@
   "tags": [
     "The New York Times"
   ],
-  "image": "https://static01.nyt.com/images/2021/12/27/world/27virus-briefing-lede-item/27virus-briefing-lede-item-facebookJumbo.jpg"
+  "image": "https://static01.nyt.com/images/2021/12/27/world/27virus-briefing-lede-item/27virus-briefing-lede-item-facebookJumbo.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Covid-19とオミクロンニュース。ライブアップデート"
+    },
+    {
+      "locale": "zh",
+      "title": "Covid-19和Omicron新闻。实时更新"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Covid-19和Omicron新聞。實時更新"
+    }
+  ]
 }
