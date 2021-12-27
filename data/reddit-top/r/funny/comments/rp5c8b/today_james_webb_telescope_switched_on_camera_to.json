@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "本日、ジェームス・ウェッブ望遠鏡がカメラのスイッチを入れ、深宇宙からの最初の画像を取得しました。"
+    },
+    {
+      "locale": "zh",
+      "title": "今天，詹姆斯-韦伯望远镜打开相机，从深空获取第一张图像"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "今天，詹姆斯-韋伯望遠鏡打開相機，從深空獲取第一張圖像"
+    }
+  ]
 }
