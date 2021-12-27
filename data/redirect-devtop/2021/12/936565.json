@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-26T01:13:51Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HTK0HqiH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/70utzdojkvcspxmwtecl.png",
   "author": "Brian",
-  "author_url": "https://dev.to/yaku"
+  "author_url": "https://dev.to/yaku",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、皆さん。このgithubリポジトリは、私のチュートリアルのコードをホストしています。",
+      "title": "WebRTCとSvelteの使用"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，请查看这个github repo，里面有我的教程的代码，是关于如何使用...",
+      "title": "使用WebRTC和Svelte"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，請查看這個github repo，裏面有我的教程的代碼，是關於如何使用...",
+      "title": "使用WebRTC和Svelte"
+    }
+  ]
 }
