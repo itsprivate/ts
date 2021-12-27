@@ -43,5 +43,22 @@
   "original_created_at": "2021-12-26T19:17:45Z",
   "image": "https://dev.to/social_previews/article/937013.png",
   "author": "Mahmoud Ehab",
-  "author_url": "https://dev.to/mahmoudehab"
+  "author_url": "https://dev.to/mahmoudehab",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに ReactJSコンポーネントのアニメーションを高速かつ簡単に行いたい場合、以下の方法があります。",
+      "title": "アニメートコンポーネント - ReactJS"
+    },
+    {
+      "locale": "zh",
+      "description": "简介 如果你想以快速和简单的方式为你的ReactJS组件制作动画，...",
+      "title": "Animate Components - ReactJS"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介 如果你想以快速和簡單的方式爲你的ReactJS組件製作動畫，...",
+      "title": "Animate Components - ReactJS"
+    }
+  ]
 }

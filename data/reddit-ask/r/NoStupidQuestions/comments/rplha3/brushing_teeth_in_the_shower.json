@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>So my girlfriend thinks I&#39;m weird for\nbrushing my teeth in the shower, I say it&#39;s a normal thing most people do,\nwhat do everyone else think? Weird or not?</p> </div><!-- SC_ON -->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>So my girlfriend thinks I&#39;m weird for\nbrushing my teeth in the shower, I say it&#39;s a normal thing most people do,\nwhat do everyone else think? Weird or not?</p> </div><!-- SC_ON -->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>So my girlfriend thinks I'm weird for I&#39;for\nシャワーを浴びながら歯を磨くのは、ほとんどの人がやっている普通のことだと言います。\nwhat do everyone else think? Weird or not?</p> </div><!-- SC_ON -->",
+      "title": "シャワーで歯を磨く"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>所以我的女朋友认为我很奇怪，因为我在洗澡时刷牙。\n淋浴时刷牙，我说这是大多数人做的正常事情。\nwhat do everyone else think? Weird or not?</p> </div><!-- SC_ON -->",
+      "title": "淋浴时刷牙"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>所以我的女朋友認爲我很奇怪，因爲我在洗澡時刷牙。\n淋浴時刷牙，我說這是大多數人做的正常事情。\nwhat do everyone else think? Weird or not?</p> </div><!-- SC_ON -->",
+      "title": "淋浴時刷牙"
+    }
+  ]
 }

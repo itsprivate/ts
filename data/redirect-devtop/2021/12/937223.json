@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-27T05:50:53Z",
   "image": "https://dev.to/social_previews/article/937223.png",
   "author": "javinpaul",
-  "author_url": "https://dev.to/javinpaul"
+  "author_url": "https://dev.to/javinpaul",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "React.jsをフックで学ぶための、私のお気に入りのオンラインコースです。これらのベストReact.jsコースは、Udemy、Coursera、Pluralsight、LinkedIn Learningなどの人気サイトから厳選されたものです。",
+      "title": "2022年、フックを使ったReact.jsを学ぶのに最適なオンラインコース5選"
+    },
+    {
+      "locale": "zh",
+      "description": "这些是我最喜欢的在线课程，可以用钩子学习React.js。这些最好的React.js课程是由Udemy、Coursera、Pluralsight和LinkedIn Learning等流行网站策划的。",
+      "title": "2022年学习React.js与Hooks的5个最佳在线课程"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這些是我最喜歡的在線課程，可以用鉤子學習React.js。這些最好的React.js課程是由Udemy、Coursera、Pluralsight和LinkedIn Learning等流行網站策劃的。",
+      "title": "2022年學習React.js與Hooks的5個最佳在線課程"
+    }
+  ]
 }

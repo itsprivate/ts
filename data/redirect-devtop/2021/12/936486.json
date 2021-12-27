@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-25T18:20:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2aYi2O3Y--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w7h1hordbypwpd1ouhzi.png",
   "author": "Kiran Raj R",
-  "author_url": "https://dev.to/kiranrajvjd"
+  "author_url": "https://dev.to/kiranrajvjd",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、私はあなたのプロジェクトで使用することができますいくつかの簡単なCSSテキストエフェクトを作った。",
+      "title": "シンプルなCSSテキストアニメーション"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，我做了一些简单的CSS文本效果，可以在你的项目中使用，这些是初级水平。",
+      "title": "简单的CSS文本动画"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，我做了一些簡單的CSS文本效果，可以在你的項目中使用，這些是初級水平。",
+      "title": "簡單的CSS文本動畫"
+    }
+  ]
 }

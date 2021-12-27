@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-24T21:33:49Z",
   "image": "https://dev.to/social_previews/article/936005.png",
   "author": "marcelkatz",
-  "author_url": "https://dev.to/marcelkatz"
+  "author_url": "https://dev.to/marcelkatz",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事には大きく分けて2つのステージがあります。(1)Node.jsサーバアプリケーションとRedis...をコンテナ化する。",
+      "title": "Node.jsとRedisをDockerコンテナにデプロイし、Docker Composeを使用 - Node.jsサーバをNginxでロードバランシング"
+    },
+    {
+      "locale": "zh",
+      "description": "本文包含两个主要阶段。(1) 容器化一个Node.js服务器应用程序和一个Redis...",
+      "title": "使用Docker Compose将Node.js和Redis部署在Docker容器中，然后用Nginx对Node.js服务器进行负载平衡。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "本文包含兩個主要階段。(1) 容器化一個Node.js服務器應用程序和一個Redis...",
+      "title": "使用Docker Compose將Node.js和Redis部署在Docker容器中，然後用Nginx對Node.js服務器進行負載平衡。"
+    }
+  ]
 }
