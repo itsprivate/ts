@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "オスカーを受賞"
+    },
+    {
+      "locale": "zh",
+      "title": "奥斯卡奖颁给了..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "奧斯卡獎頒給了..."
+    }
+  ]
 }
