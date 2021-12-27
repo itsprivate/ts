@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "pdflow - PDF から情報を抽出するためのローコードソリューション"
+    },
+    {
+      "locale": "zh",
+      "title": "pdflow - 一个从PDF中提取信息的低代码解决方案"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "pdflow - 一個從PDF中提取信息的低代碼解決方案"
+    }
+  ]
 }
