@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "二人きりでエレベーターに乗り込むとレジェンド。"
+    },
+    {
+      "locale": "zh",
+      "title": "当他们单独进入电梯时的传说。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當他們單獨進入電梯時的傳說。"
+    }
+  ]
 }
