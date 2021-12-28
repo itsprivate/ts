@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-27T09:40:41Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JNgMnb4Q--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5uyexef1nz25ba8lnaha.png",
   "author": "Chris",
-  "author_url": "https://dev.to/zirkelc"
+  "author_url": "https://dev.to/zirkelc",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私のチームと一緒に、複数のパッケージを持つ1つのプロジェクトリポジトリで作業しています。",
+      "title": "Git Pull時にNPMの依存関係を自動でインストールする"
+    },
+    {
+      "locale": "zh",
+      "description": "我和我的团队一直在为一个项目库工作，该项目库有多个软件包---------。",
+      "title": "在Git Pull上自动安装NPM的依赖项"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我和我的團隊一直在爲一個項目庫工作，該項目庫有多個軟件包---------。",
+      "title": "在Git Pull上自動安裝NPM的依賴項"
+    }
+  ]
 }
