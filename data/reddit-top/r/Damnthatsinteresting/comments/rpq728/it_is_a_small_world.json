@@ -47,5 +47,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "It is a small world"
+    },
+    {
+      "locale": "zh",
+      "title": "这是个小世界"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是個小世界"
+    }
+  ]
 }
