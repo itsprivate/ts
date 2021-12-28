@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "眠りにつくのが怖いと感じるのは、明日起きてまた同じことをしなければならないからでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "害怕入睡是不是很奇怪，因为这意味着你明天必须醒来再做一遍？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "害怕入睡是不是很奇怪，因爲這意味着你明天必須醒來再做一遍？"
+    }
+  ]
 }
