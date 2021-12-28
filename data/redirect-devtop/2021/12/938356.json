@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-28T10:44:57Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qo5R2Yqs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wkszv5dzd5cxd7mjkl6o.jpg",
   "author": "Visualway",
-  "author_url": "https://dev.to/visualway"
+  "author_url": "https://dev.to/visualway",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "1. セマンティックヘッダーとフッター Divにはセマンティックな構造がない。divを使う代わりに...",
+      "title": "HTMLでよくある5つの間違い。"
+    },
+    {
+      "locale": "zh",
+      "description": "1. 语义式页眉和页脚 Divs没有语义结构。与其使用divs来...",
+      "title": "你应该避免的5个常见的HTML错误。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "1. 語義式頁眉和頁腳 Divs沒有語義結構。與其使用divs來...",
+      "title": "你應該避免的5個常見的HTML錯誤。"
+    }
+  ]
 }
