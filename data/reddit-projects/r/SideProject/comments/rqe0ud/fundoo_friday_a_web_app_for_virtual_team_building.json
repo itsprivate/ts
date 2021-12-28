@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Fundoo Friday - バーチャルチームビルディングのためのウェブアプリケーション"
+    },
+    {
+      "locale": "zh",
+      "title": "Fundoo Friday - 一个用于虚拟团队建设的网络应用"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Fundoo Friday - 一個用於虛擬團隊建設的網絡應用"
+    }
+  ]
 }
