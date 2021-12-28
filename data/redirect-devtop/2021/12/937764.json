@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-27T18:06:19Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DFPqIbPE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iz1f31v8880hpsq1glvq.png",
   "author": "jarvispact",
-  "author_url": "https://dev.to/jarvispact"
+  "author_url": "https://dev.to/jarvispact",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに このブログは、あなたがこのような状態に陥っていることを発見したときのためにあります。",
+      "title": "Typescript - 基礎のその先へ"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍：如果你发现自己像这样，这篇博文是为你而写的。",
+      "title": "排版--超越基础知识"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹：如果你發現自己像這樣，這篇博文是爲你而寫的。",
+      "title": "排版--超越基礎知識"
+    }
+  ]
 }
