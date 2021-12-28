@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-11T10:12:59Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Ea88jOCy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dgerzejmpibbpsmj33dt.jpg",
   "author": "Phylis Jepchumba",
-  "author_url": "https://dev.to/phylis"
+  "author_url": "https://dev.to/phylis",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに Dockerは、ビルド、デプロイ、および管理をより簡単、シンプル、かつ安全にします...",
+      "title": "DockerとFlaskをはじめよう。"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍：Docker使构建、部署和管理的工作更容易、更简单、更安全。",
+      "title": "开始使用Docker和Flask。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹：Docker使構建、部署和管理的工作更容易、更簡單、更安全。",
+      "title": "開始使用Docker和Flask。"
+    }
+  ]
 }
