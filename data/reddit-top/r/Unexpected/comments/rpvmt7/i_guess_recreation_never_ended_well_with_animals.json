@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "動物とのレクリエーションはうまくいかないものですね。"
+    },
+    {
+      "locale": "zh",
+      "title": "我想，娱乐活动在动物身上从来没有好结果"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我想，娛樂活動在動物身上從來沒有好結果"
+    }
+  ]
 }
