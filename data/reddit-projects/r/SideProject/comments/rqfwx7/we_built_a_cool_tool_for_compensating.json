@@ -32,5 +32,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Some friends and I built a cool thing and I\nwanted to show it off. It&#39;s an Ethereum-based tool that lets you pay out\ncommitments to pay contributors in the future at defined milestones. (we\nhappened to need that). </p> <p>Here’s the webapp if you want to play…"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Some friends and I built a cool thing and I\nwanted to show it off. It&#39;s an Ethereum-based tool that lets you pay out\ncommitments to pay contributors in the future at defined milestones. (we\nhappened to need that). </p> <p>Here’s the webapp if you want to play…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>友人と一緒にクールなものを作りました。\nを紹介したいと思います。これはEthereumをベースにしたツールで、このツールを使うと\n将来、定義されたマイルストーンでコントリビューターに支払うことを約束します。(私たち\nたまたま必要だったんです。） </p> <p>以下がそのWebアプリですが、遊んでみたい方は...。",
+      "title": "初期段階のプロジェクトの貢献者に報酬を与えるためのクールなツールを作りました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>我和一些朋友建造了一个很酷的东西，我想展示一下。\n我想展示一下它。它是一个基于以太坊的工具，可以让你支付给\n承诺在未来规定的里程碑上支付给贡献者。(我们\n碰巧需要这个）。</p> <p>如果你想玩，这里是网络应用程序...",
+      "title": "我们建立了一个很酷的工具来补偿早期项目的贡献者"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>我和一些朋友建造了一個很酷的東西，我想展示一下。\n我想展示一下它。它是一個基於以太坊的工具，可以讓你支付給\n承諾在未來規定的里程碑上支付給貢獻者。(我們\n碰巧需要這個）。</p> <p>如果你想玩，這裏是網絡應用程序...",
+      "title": "我們建立了一個很酷的工具來補償早期項目的貢獻者"
+    }
+  ]
 }
