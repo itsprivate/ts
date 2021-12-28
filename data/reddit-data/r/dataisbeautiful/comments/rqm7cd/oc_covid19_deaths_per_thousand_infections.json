@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] Covid-19 感染者数あたりの死亡者数"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]每千名感染者的Covid-19死亡人数"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]每千名感染者的Covid-19死亡人數"
+    }
+  ]
 }
