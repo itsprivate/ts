@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-27T12:02:45Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_Ytqb6xu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nu92q7k6z2h216t5sehi.PNG",
   "author": "Arpan Bandyopadhyay",
-  "author_url": "https://dev.to/arpanforgeek"
+  "author_url": "https://dev.to/arpanforgeek",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "GraphQLは、宣言的なアプローチで作業を行いたい場合に最適です。なぜなら、GraphQLでは...",
+      "title": "GraphQLはRestより良い選択肢ですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你想以声明的方式工作，GraphQL是很好的，因为它使你能够只选择...",
+      "title": "GraphQL是比Rest更好的选择吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你想以聲明的方式工作，GraphQL是很好的，因爲它使你能夠只選擇...",
+      "title": "GraphQL是比Rest更好的選擇嗎？"
+    }
+  ]
 }
