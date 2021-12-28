@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "許してくれ"
+    },
+    {
+      "locale": "zh",
+      "title": "请原谅我"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "請原諒我"
+    }
+  ]
 }
