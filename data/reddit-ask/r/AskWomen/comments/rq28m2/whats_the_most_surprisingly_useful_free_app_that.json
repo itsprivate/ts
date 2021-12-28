@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>i.e not obvious like Facebook or Google\nMaps.</p> </div><!-- SC_ON -->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>i.e not obvious like Facebook or Google\nMaps.</p> </div><!-- SC_ON -->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>i.e. FacebookやGoogleのような明白なものではありません。\n</p> </div><!",
+      "title": "スマホに入っている無料アプリで、意外と便利なものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>i.e not obvious like Facebook or Google\nMaps.</p> </div><!-- SC_ON -->",
+      "title": "你的手机上最令人惊讶的有用的免费应用程序是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>i.e not obvious like Facebook or Google\nMaps.</p> </div><!-- SC_ON -->",
+      "title": "你的手機上最令人驚訝的有用的免費應用程序是什麼？"
+    }
+  ]
 }
