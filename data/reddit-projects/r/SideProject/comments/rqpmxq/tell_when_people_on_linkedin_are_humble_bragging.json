@@ -32,5 +32,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I got annoyed at all the humble brags on\nLinkedIn, and I wanted to see if I could at least make it more explicit on my\nfeed when something was a humblebrag. I built this…"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I got annoyed at all the humble brags on\nLinkedIn, and I wanted to see if I could at least make it more explicit on my\nfeed when something was a humblebrag. I built this…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I was annoying to all humble brags on.\nLinkedInでは、少なくとももっと明確に表示できないかと考えていました。\nフィードに表示されます。私はこれを作りました...",
+      "title": "Chrome拡張機能でLinkedInの人々が謙遜して自慢していることを見分けることができます。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>我对LinkedIn上所有谦虚的吹嘘感到恼火。\n我想看看我是否至少可以在我的\n我想看看我能否至少在我的饲料中更明确地说明什么是谦虚的吹嘘。我建立了这个...",
+      "title": "用我的Chrome扩展告诉LinkedIn上的人何时在谦虚地吹牛"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>我對LinkedIn上所有謙虛的吹噓感到惱火。\n我想看看我是否至少可以在我的\n我想看看我能否至少在我的飼料中更明確地說明什麼是謙虛的吹噓。我建立了這個...",
+      "title": "用我的Chrome擴展告訴LinkedIn上的人何時在謙虛地吹牛"
+    }
+  ]
 }
