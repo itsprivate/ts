@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの身長はどのくらいですか？また、人前で背が低いと感じますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你有多高，你在公共场合是否感到矮小？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你有多高，你在公共場合是否感到矮小？"
+    }
+  ]
 }
