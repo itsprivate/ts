@@ -50,5 +50,22 @@
   "original_created_at": "2021-12-27T11:18:09Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nKgY_MA9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://blog.shahednasser.com/static/d92acf9981f2bc3be20eb786938ba4a7/proxyclick-visitor-management-system-EPeK7w5Eeic-unsplash-2.jpg",
   "author": "Shahed Nasser",
-  "author_url": "https://dev.to/shahednasser"
+  "author_url": "https://dev.to/shahednasser",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事は、私の個人ブログに掲載されたものです。 QRコードとは、四角いコードで、人が...",
+      "title": "Reactで10種類のQRコードを生成する"
+    },
+    {
+      "locale": "zh",
+      "description": "这篇文章最初发表在我的个人博客上。 二维码是一种方形的代码，人们可以通过它来识别。",
+      "title": "用React生成10种QR码类型"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這篇文章最初發表在我的個人博客上。 二維碼是一種方形的代碼，人們可以通過它來識別。",
+      "title": "用React生成10種QR碼類型"
+    }
+  ]
 }
