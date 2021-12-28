@@ -103,5 +103,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1640655461,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Ex. VTV, SCHV</p> <p>What role do these have\nin the Boglehead portfolio, if any?</p> <p>Is anyone holding any value ETFs? If\nso, what is your reason to own them? Which ones? What percent of your\nportfolio?</p> <p>Thanks</p> </div><!-- SC_ON -->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Ex. VTV, SCHV</p> <p>What role do these have\nin the Boglehead portfolio, if any?</p> <p>Is anyone holding any value ETFs? If\nso, what is your reason to own them? Which ones? What percent of your\nportfolio?</p> <p>Thanks</p> </div><!-- SC_ON -->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Ex. VTV、SCHV</p> <p>これらはどのような役割を担っているのでしょうか。\n</p> <p>どなたか、バリューETFをお持ちの方はいらっしゃいますか？もしあれば\nその理由は何ですか？どのようなものですか？何パーセント\n</p> <p>ありがとうございました</p> </div><!-- SC_ON -->。",
+      "title": "バリューETF"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>Ex. VTV, SCHV</p> <p>这些在Boglehead投资组合中的作用是什么？\n</p> <p>有人持有任何价值型ETF吗？如果是的话，你持有这些ETF的理由是什么？\n如果是这样，你拥有它们的理由是什么？哪些是？What percent of your\nportfolio?</p> <p>Thanks</p> </div><!-- SC_ON -->",
+      "title": "价值型ETF"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>Ex. VTV, SCHV</p> <p>這些在Boglehead投資組合中的作用是什麼？\n</p> <p>有人持有任何價值型ETF嗎？如果是的話，你持有這些ETF的理由是什麼？\n如果是這樣，你擁有它們的理由是什麼？哪些是？What percent of your\nportfolio?</p> <p>Thanks</p> </div><!-- SC_ON -->",
+      "title": "價值型ETF"
+    }
+  ]
 }
