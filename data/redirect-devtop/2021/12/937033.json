@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-26T20:26:48Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--d1_yWHJA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/du4vrnmqdejw2gdjdbjq.png",
   "author": "Cason Adams",
-  "author_url": "https://dev.to/casonadams"
+  "author_url": "https://dev.to/casonadams",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "もし、VSCodeをターミナルエディタに置き換えるよりもっと簡単な解決策をお探しなら、私は次のことをお勧めします。",
+      "title": "VSCodeの後継となるNeovim LSPを発表"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你正在寻找一个更简单的解决方案，用终端编辑器取代VSCode，我建议...",
+      "title": "Neovim LSP将取代VSCode"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你正在尋找一個更簡單的解決方案，用終端編輯器取代VSCode，我建議...",
+      "title": "Neovim LSP將取代VSCode"
+    }
+  ]
 }
