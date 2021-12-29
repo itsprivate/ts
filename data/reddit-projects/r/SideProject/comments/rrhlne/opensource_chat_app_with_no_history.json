@@ -57,5 +57,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Inspired by Facebook&#39;s whistleblower\nconfession about how Facebook cares more about negative content and doesn&#39;t\ncare about privacy, I decided to create an open-source chat app.</p> <p>This\nchat app doesn&#39;t save any history in the database. Chat history…"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Inspired by Facebook&#39;s whistleblower\nconfession about how Facebook cares more about negative content and doesn&#39;t\ncare about privacy, I decided to create an open-source chat app.</p> <p>This\nchat app doesn&#39;t save any history in the database. Chat history…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Inspired by Facebook#39;s whistleblower</p> <p>Facebook#39;s html?\nFacebookがいかにネガティブなコンテンツを重視するか、そしていかに\n</p> <p>私はオープンソースのチャットアプリを作成することにしました。\nチャットアプリはデータベースに履歴を残しません。チャット履歴...",
+      "title": "履歴の残らないオープンソースのチャットアプリ"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>受Facebook&#39;的举报人的启发，Facebook&#39;坦承自己更关心负面内容，并没有对其进行任何干预。\n我决定创建一个开源的聊天应用程序。\n</p> <p>这款聊天软件并不保存在电脑上。\n聊天应用程序不在数据库中保存任何历史记录。聊天历史...",
+      "title": "没有历史记录的开源聊天应用"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>受Facebook&#39;的舉報人的啓發，Facebook&#39;坦承自己更關心負面內容，並沒有對其進行任何干預。\n我決定創建一個開源的聊天應用程序。\n</p> <p>這款聊天軟件並不保存在電腦上。\n聊天應用程序不在數據庫中保存任何歷史記錄。聊天曆史...",
+      "title": "沒有歷史記錄的開源聊天應用"
+    }
+  ]
 }
