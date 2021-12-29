@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-29T04:41:07Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--O6ijnwPi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6ey3d53fgjq35k8gvjnb.png",
   "author": "Alex Eagleson",
-  "author_url": "https://dev.to/alexeagleson"
+  "author_url": "https://dev.to/alexeagleson",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このチュートリアルのすべてのコードを完全なパッケージとして、このリポジトリで公開しています。 もしあなたがこれを見つけたら...",
+      "title": "Node.jsを使って個人的なファイルをバックアップする方法（ついでにウェブデバイスのスキルも学べる）"
+    },
+    {
+      "locale": "zh",
+      "description": "本教程的所有代码作为一个完整的包都可以在这个资源库中找到。 如果你发现这个...",
+      "title": "如何使用Node.js来备份你的个人文件（并顺便学习一些webdev技能）"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "本教程的所有代碼作爲一個完整的包都可以在這個資源庫中找到。 如果你發現這個...",
+      "title": "如何使用Node.js來備份你的個人文件（並順便學習一些webdev技能）"
+    }
+  ]
 }
