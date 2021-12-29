@@ -14,5 +14,19 @@
   "tags": [
     "BBC News"
   ],
-  "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1795B/production/_122530669_mediaitem122530668.jpg"
+  "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1795B/production/_122530669_mediaitem122530668.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "コビット：ラテラルフローテスト供給のパッチテストに関する警告"
+    },
+    {
+      "locale": "zh",
+      "title": "Covid：对横向流动测试供应不完整的警告"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Covid：對橫向流動測試供應不完整的警告"
+    }
+  ]
 }
