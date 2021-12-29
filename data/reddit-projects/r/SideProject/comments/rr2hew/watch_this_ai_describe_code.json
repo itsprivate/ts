@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このAIがコードを記述する様子をご覧ください"
+    },
+    {
+      "locale": "zh",
+      "title": "看这个AI描述代码!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "看這個AI描述代碼!"
+    }
+  ]
 }
