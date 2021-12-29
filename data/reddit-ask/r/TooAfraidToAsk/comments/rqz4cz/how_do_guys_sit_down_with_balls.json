@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>There just there hanging like how do you sit\ndown comfortably with them there??</p> </div><!-- SC_ON -->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>There just there hanging like how do you sit\ndown comfortably with them there??</p> </div><!-- SC_ON -->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>There just there hanging like how do you sit（どうやって座るの？\n</p> <!-- SC_ON --> </div><!",
+      "title": "男はどうやって玉の輿に乗るんだ？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>There just there hanging like how do you sit\n</p> </div><!-- SC_ON -->",
+      "title": "男人如何带着蛋蛋坐下来？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>There just there hanging like how do you sit\n</p> </div><!-- SC_ON -->",
+      "title": "男人如何帶着蛋蛋坐下來？"
+    }
+  ]
 }
