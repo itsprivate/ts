@@ -92,5 +92,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-29T08:01:00Z"
+  "original_createdAt": "2021-12-29T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Remmoは、iPhoneやiPadをパソコンのリモコンにするアプリです。MacbookやiMacをお持ちの方は、ぜひご利用ください。",
+      "tagline": "iPhoneでMacをリモートコントロール"
+    },
+    {
+      "locale": "zh",
+      "description": "Remmo是一款将你的iPhone或iPad变成电脑遥控器的应用程序。无论你是Macbook还是iMac，我们都能为你提供服务!",
+      "tagline": "通过iPhone远程控制你的Mac"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Remmo是一款將你的iPhone或iPad變成電腦遙控器的應用程序。無論你是Macbook還是iMac，我們都能爲你提供服務!",
+      "tagline": "通過iPhone遠程控制你的Mac"
+    }
+  ]
 }
