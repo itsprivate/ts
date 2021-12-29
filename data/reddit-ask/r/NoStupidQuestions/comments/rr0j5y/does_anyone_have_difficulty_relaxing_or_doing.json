@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>It could be 10am and you have an appointment\nat 4pm but it makes you unable to enjoy yourself or relax until the appointment\nis completed.</p> </div><!-- SC_ON -->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>It could be 10am and you have an appointment\nat 4pm but it makes you unable to enjoy yourself or relax until the appointment\nis completed.</p> </div><!-- SC_ON -->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p> それは午前10時で、あなたは約束をしているかもしれません。\nat 4pm but it makes you unable to enjoy yourself or relax until the appointment\nis completed.</p> </div><!-- SC_ON -->",
+      "title": "予定が迫っていると、なかなかリラックスできなかったり、物事がうまくいかなかったりする人はいませんか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>现在可能是上午10点，而你有个约会在4点。\nat 4pm but it makes you unable to enjoy yourself or relax until the appointment\nis completed.</p> </div><!-- SC_ON -->",
+      "title": "当你有一个即将到来的约会时，是否有人难以放松或做事情？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>現在可能是上午10點，而你有個約會在4點。\nat 4pm but it makes you unable to enjoy yourself or relax until the appointment\nis completed.</p> </div><!-- SC_ON -->",
+      "title": "當你有一個即將到來的約會時，是否有人難以放鬆或做事情？"
+    }
+  ]
 }
