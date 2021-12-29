@@ -155,5 +155,22 @@
     "retweet_count": 170,
     "favorite_count": 780,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @MessagesRUS: @JanWues 完成間近です。 https://t.co/zSefYIaCv3",
+      "retweeted_status_full_text": "@JanWues 完成間近です。https://t.co/zSefYIaCv3。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @MessagesRUS: @JanWues 几乎完成了。https://t.co/zSefYIaCv3",
+      "retweeted_status_full_text": "@JanWues 已经接近完成。https://t.co/zSefYIaCv3"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @MessagesRUS: @JanWues 幾乎完成了。https://t.co/zSefYIaCv3",
+      "retweeted_status_full_text": "@JanWues 已經接近完成。https://t.co/zSefYIaCv3"
+    }
+  ]
 }
