@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>stole from a tweet but I still need to know\nthe answer.</p> </div><!-- SC_ON -->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>stole from a tweet but I still need to know\nthe answer.</p> </div><!-- SC_ON -->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>stole from a tweet but I still need to know\nthe answer.</p> </div><!-- SC_ON -->",
+      "title": "夜寝るのはつらいのに、朝はふわふわとした雲の上にいるような気分で眠れるのはなぜだろう。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>偷换了一条推特，但我仍然需要知道\n</p> </div><!-- SC_ON -->",
+      "title": "为什么晚上睡觉那么难，而早上睡觉就像在柔软的绒毛云上飘走一样？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>偷換了一條推特，但我仍然需要知道\n</p> </div><!-- SC_ON -->",
+      "title": "爲什麼晚上睡覺那麼難，而早上睡覺就像在柔軟的絨毛雲上飄走一樣？"
+    }
+  ]
 }
