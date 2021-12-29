@@ -121,5 +121,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼はメシアである"
+    },
+    {
+      "locale": "zh",
+      "title": "他是弥赛亚"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他是彌賽亞"
+    }
+  ]
 }
