@@ -87,5 +87,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-29T08:11:26Z"
+  "original_createdAt": "2021-12-29T08:11:26Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Naviは、SharePlayを通じてFaceTimeに文字起こしやライブ翻訳を提供します。このアプリは、FaceTimeを聴覚障害者やその他の障害を持つ人々に開放し、ビデオ通話環境に容易に参加することを可能にします。",
+      "tagline": "FaceTimeのトランスクリプションとライブトランスレーション"
+    },
+    {
+      "locale": "zh",
+      "description": "Navi通过SharePlay为FaceTime带来转录和实时翻译。该应用程序向有听力障碍和其他残疾的人开放了FaceTime，使他们无法轻松地参与视频通话环境。",
+      "tagline": "FaceTime的转录和现场翻译"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Navi通過SharePlay爲FaceTime帶來轉錄和實時翻譯。該應用程序向有聽力障礙和其他殘疾的人開放了FaceTime，使他們無法輕鬆地參與視頻通話環境。",
+      "tagline": "FaceTime的轉錄和現場翻譯"
+    }
+  ]
 }
