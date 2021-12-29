@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私が働いているスーパーでは、水平にスライスされたパンが売られています。"
+    },
+    {
+      "locale": "zh",
+      "title": "我工作的超市卖的是横向切片的面包。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我工作的超市賣的是橫向切片的麪包。"
+    }
+  ]
 }
