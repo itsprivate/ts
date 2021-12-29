@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-27T15:56:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6VxsrIGv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/01245diaafj64alxtsoc.png",
   "author": "Iaan Mesquita",
-  "author_url": "https://dev.to/ianito"
+  "author_url": "https://dev.to/ianito",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "何度か失敗した後、ようやくmacOSを仮想化してテストを実行することに成功しました。",
+      "title": "Dockerを使用してLinuxでiOSを構築する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "经过几次不成功的尝试，我终于成功地虚拟了一个macOS，以便在一台电脑上运行测试。",
+      "title": "如何利用Docker在Linux上运行iOS？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "經過幾次不成功的嘗試，我終於成功地虛擬了一個macOS，以便在一臺電腦上運行測試。",
+      "title": "如何利用Docker在Linux上運行iOS？"
+    }
+  ]
 }

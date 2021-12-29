@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが食べたい食べられないものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你想吃的不可食用的物体是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你想喫的不可食用的物體是什麼？"
+    }
+  ]
 }
