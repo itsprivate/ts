@@ -48,5 +48,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-28T11:53:28Z"
+  "original_createdAt": "2021-12-28T11:53:28Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ロック画面でタスクリストを見る。使い方は？- リストにタスクを追加 - 優先度を選択 - デバイスフレームをクリック - エクスポート - ロック画面として設定 https://twitter.com/vyshnav_xyz/status/1475784509790601216?s=20",
+      "tagline": "ロックスクリーンでタスクリストを確認"
+    },
+    {
+      "locale": "zh",
+      "description": "在你的锁屏上看到你的任务列表。如何使用它？- 将任务添加到列表中 - 选择优先级 - 点击设备框架 - 输出 - 设置为锁屏 https://twitter.com/vyshnav_xyz/status/1475784509790601216?s=20",
+      "tagline": "在你的锁屏上看到你的任务列表"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在你的鎖屏上看到你的任務列表。如何使用它？- 將任務添加到列表中 - 選擇優先級 - 點擊設備框架 - 輸出 - 設置爲鎖屏 https://twitter.com/vyshnav_xyz/status/1475784509790601216?s=20",
+      "tagline": "在你的鎖屏上看到你的任務列表"
+    }
+  ]
 }
