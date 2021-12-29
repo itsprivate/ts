@@ -52,5 +52,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "毎月10ドル分のビットコインを5年間購入すると、610ドルが6,978ドル（+1,043%）になった。"
+    },
+    {
+      "locale": "zh",
+      "title": "每月购买价值10美元的比特币，持续5年，会将610美元变成6,978美元（+1,043%）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "每月購買價值10美元的比特幣，持續5年，會將610美元變成6,978美元（+1,043%）。"
+    }
+  ]
 }
