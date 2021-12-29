@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "米国教育省によると、米国の成人の54％が識字能力を欠き、小学校6年生レベルの読解力しか持っていないことが分かっています。"
+    },
+    {
+      "locale": "zh",
+      "title": "根据美国教育部的数据，54%的美国成年人缺乏识字能力，阅读能力低于六年级水平。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "根據美國教育部的數據，54%的美國成年人缺乏識字能力，閱讀能力低於六年級水平。"
+    }
+  ]
 }
