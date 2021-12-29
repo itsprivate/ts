@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "議会は日常的にSTOCK法に違反し、罰則は不均等。分散型ブロックチェーンを使えば、議会を監視・監査できるようになる"
+    },
+    {
+      "locale": "zh",
+      "title": "国会经常违反《股票法》；处罚不均衡。去中心化的区块链将使我们能够监视和审计我们的国会"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "國會經常違反《股票法》；處罰不均衡。去中心化的區塊鏈將使我們能夠監視和審計我們的國會"
+    }
+  ]
 }
