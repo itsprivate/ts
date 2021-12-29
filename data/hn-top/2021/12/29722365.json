@@ -13,5 +13,19 @@
   ],
   "objectID": "29722365",
   "original_created_at": "2021-12-29T06:05:16.000Z",
-  "image": "https://s0.wp.com/i/blank.jpg"
+  "image": "https://s0.wp.com/i/blank.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "glibc はデフォルトではまだ Y2038 に準拠していません。"
+    },
+    {
+      "locale": "zh",
+      "title": "glibc在默认情况下仍然不符合Y2038标准"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "glibc在默認情況下仍然不符合Y2038標準"
+    }
+  ]
 }
