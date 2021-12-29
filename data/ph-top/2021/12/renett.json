@@ -76,5 +76,22 @@
       }
     ]
   },
-  "original_createdAt": "2021-12-29T08:01:00Z"
+  "original_createdAt": "2021-12-29T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ReNettは、コミュニティにおける非同期グループビデオメッセージのための場所です。RedditとSnapchatの出会いをイメージしてください。新製品は、コミュニティでのビデオコミュニケーションのためのモバイルアプリ「ReNett」と、ウェブサイト用のビデオ解説プラグイン「ReCommentt」です。",
+      "tagline": "コミュニティでのグループビデオ通話に便利な場所"
+    },
+    {
+      "locale": "zh",
+      "description": "ReNett是一个在社区中进行异步群组视频信息交流的地方。想想Reddit和Snapchat。新产品包括一个用于社区视频交流的移动应用ReNett和一个用于网站的视频评论插件ReCommentt。",
+      "tagline": "社区内群组视频信息的便利场所"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "ReNett是一個在社區中進行異步羣組視頻信息交流的地方。想想Reddit和Snapchat。新產品包括一個用於社區視頻交流的移動應用ReNett和一個用於網站的視頻評論插件ReCommentt。",
+      "tagline": "社區內羣組視頻信息的便利場所"
+    }
+  ]
 }
