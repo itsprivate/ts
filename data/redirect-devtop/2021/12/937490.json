@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-27T13:21:07Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--q6_s0q-u--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c4vte8sxdgwbl4y05e8x.jpg",
   "author": "Dylan Oh",
-  "author_url": "https://dev.to/ohdylan"
+  "author_url": "https://dev.to/ohdylan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "MDNの定義によると、JavaScriptにおける「スコープ」とは、現在の実行状況のことです。どういうことかというと...",
+      "title": "JavaScriptのスコープ"
+    },
+    {
+      "locale": "zh",
+      "description": "根据MDN的定义，JavaScript中的 \"范围 \"是指当前的执行环境。什么是...",
+      "title": "JavaScript的范围"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "根據MDN的定義，JavaScript中的 \"範圍 \"是指當前的執行環境。什麼是...",
+      "title": "JavaScript的範圍"
+    }
+  ]
 }

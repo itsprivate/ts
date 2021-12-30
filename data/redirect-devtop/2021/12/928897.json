@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-17T07:23:27Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ihUT8SCp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m868wx2q330ff5mbycr8.png",
   "author": "ThemeSelection",
-  "author_url": "https://dev.to/theme_selection"
+  "author_url": "https://dev.to/theme_selection",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ご存知の通り、AngularはJavaScriptの代表的なフレームワークの1つです。このフレームワークは...",
+      "title": "究極のAngularリソース🛠 開発者向け👨💻2022"
+    },
+    {
+      "locale": "zh",
+      "description": "我们都知道，Angular是领先的JavaScript框架之一。它是一个被高度推荐的框架。",
+      "title": "开发人员的终极Angular资源🛠👨💻2022"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們都知道，Angular是領先的JavaScript框架之一。它是一個被高度推薦的框架。",
+      "title": "開發人員的終極Angular資源🛠👨💻2022"
+    }
+  ]
 }
