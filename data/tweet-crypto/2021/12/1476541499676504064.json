@@ -86,5 +86,22 @@
     "retweet_count": 2006,
     "favorite_count": 9597,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @saylor: MicroStrategyは、1,914ビットコインを現金で9,420万ドル、平均価格49,229ドル/ビットコインで追加購入しました。",
+      "retweeted_status_full_text": "MicroStrategyは1,914ビットコインを現金で9,420万ドル、1ビットコインあたりの平均価格は49,229ドルで追加購入しました。12/29/21現在、私たちは124,391ビットコインを平均価格30,159ドル、37.5億ドルで取得しています。MSTR\nhttps://t.co/tNxDwaT8VD"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @saylor: 微策略公司以9420万美元的现金购买了1914枚比特币，平均每枚比特币价格为49229美元。",
+      "retweeted_status_full_text": "微策略公司又以9420万美元的现金购买了1914个比特币，平均价格为每枚比特币49229美元。截至12/29/21，我们以37.5亿美元收购了124,391个比特币，每个比特币的平均价格为30,159美元。币价\nhttps://t.co/tNxDwaT8VD"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @saylor: 微策略公司以9420萬美元的現金購買了1914枚比特幣，平均每枚比特幣價格爲49229美元。",
+      "retweeted_status_full_text": "微策略公司又以9420萬美元的現金購買了1914個比特幣，平均價格爲每枚比特幣49229美元。截至12/29/21，我們以37.5億美元收購了124,391個比特幣，每個比特幣的平均價格爲30,159美元。幣價\nhttps://t.co/tNxDwaT8VD"
+    }
+  ]
 }
