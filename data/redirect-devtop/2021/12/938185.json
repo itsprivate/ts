@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-28T07:47:17Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GhPy6ED---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/orq0d75tpgszu71u2ngs.png",
   "author": "Damian Piwowarczyk",
-  "author_url": "https://dev.to/przpiw"
+  "author_url": "https://dev.to/przpiw",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今日は、Nivo &amp; を使ってウェブサイトにインタラクティブなグラフを作成する方法を説明します。",
+      "title": "ReactとNivoによるデータビジュアライゼーション"
+    },
+    {
+      "locale": "zh",
+      "description": "今天，我将指导你如何在你的网站上用Nivo &amp;建立互动图表。",
+      "title": "用React和Nivo实现数据可视化"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "今天，我將指導你如何在你的網站上用Nivo &amp;建立互動圖表。",
+      "title": "用React和Nivo實現數據可視化"
+    }
+  ]
 }

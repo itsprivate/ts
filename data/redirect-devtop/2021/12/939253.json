@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-29T08:21:38Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OQXVOsl8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://i.imgur.com/aglkI3m.png",
   "author": "Visualway",
-  "author_url": "https://dev.to/visualway"
+  "author_url": "https://dev.to/visualway",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "1. JAKOB'S LAW ユーザーはほとんどの時間を他のサイトに費やしている。つまり、ユーザーが好むのは...",
+      "title": "開発者が知っておくべき5つのWeb UXの法則"
+    },
+    {
+      "locale": "zh",
+      "description": "1. JAKOB'S LAW 用户将大部分时间花在其他网站上。这意味着，用户更喜欢...",
+      "title": "每个开发者都应该知道的5条网络用户体验法则"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "1. JAKOB'S LAW 用戶將大部分時間花在其他網站上。這意味着，用戶更喜歡...",
+      "title": "每個開發者都應該知道的5條網絡用戶體驗法則"
+    }
+  ]
 }
