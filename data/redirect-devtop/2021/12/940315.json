@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-30T12:20:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZgEOlUr7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4btlh3myaaevx9io1kwj.jpeg",
   "author": "CAST AI",
-  "author_url": "https://dev.to/castai"
+  "author_url": "https://dev.to/castai",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "自動化というのは、どれも魅力的な響きですね。その上、自動化されたタスクは...",
+      "title": "クラウドの自動最適化は、あなたのDevOpsの仕事を代替するのか？"
+    },
+    {
+      "locale": "zh",
+      "description": "关于自动化的一切听起来都很诱人。除了它将做的任务之外...",
+      "title": "自动化的云优化会取代你的DevOps工作吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "關於自動化的一切聽起來都很誘人。除了它將做的任務之外...",
+      "title": "自動化的雲優化會取代你的DevOps工作嗎？"
+    }
+  ]
 }
