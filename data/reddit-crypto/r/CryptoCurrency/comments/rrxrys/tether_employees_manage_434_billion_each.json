@@ -32,5 +32,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>USDT has a market capitalisation of <a\nhref=\"https://coinmarketcap.com/currencies/tether/\">$78.1 billion</a>, while\nTether has only <a href=\"https://www.linkedin.com/company/tether/\">18 employees\non LinkedIn</a>*</p> <p>This means that each employee manages $78.1…"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>USDT has a market capitalisation of <a\nhref=\"https://coinmarketcap.com/currencies/tether/\">$78.1 billion</a>, while\nTether has only <a href=\"https://www.linkedin.com/company/tether/\">18 employees\non LinkedIn</a>*</p> <p>This means that each employee manages $78.1…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>USDT の時価総額は<a href = \"/stock/stock_detail.html?\nhref=\"https://coinmarketcap.com/currencies/tether/\">$78.1 billion</a>, while\nTether has only <a href=\"https://www.linkedin.com/company/tether/\">18 employees\non LinkedIn</a>*</p> <p>This means that each employee manages $78.1…",
+      "title": "テザー社の社員が43億4000万ドルを一人一人「管理」。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>USDT的市值为<a\nhref=\"https://coinmarketcap.com/currencies/tether/\">$78.1 billion</a>, while\nTether has only <a href=\"https://www.linkedin.com/company/tether/\">18 employees\n在LinkedIn上</a>*</p> <p>这意味着每个员工管理着78.1亿美元。",
+      "title": "Tether员工每人 \"管理 \"43.4亿美元"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>USDT的市值爲<a\nhref=\"https://coinmarketcap.com/currencies/tether/\">$78.1 billion</a>, while\nTether has only <a href=\"https://www.linkedin.com/company/tether/\">18 employees\n在LinkedIn上</a>*</p> <p>這意味着每個員工管理着78.1億美元。",
+      "title": "Tether員工每人 \"管理 \"43.4億美元"
+    }
+  ]
 }
