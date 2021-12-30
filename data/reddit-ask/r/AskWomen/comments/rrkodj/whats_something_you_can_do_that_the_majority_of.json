@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Personally, I can sleep with bras on.\nThey&#39;re so comfortable to me, I don&#39;t even feel them. Any and all kinds\nof bras.</p> </div><!-- SC_ON -->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Personally, I can sleep with bras on.\nThey&#39;re so comfortable to me, I don&#39;t even feel them. Any and all kinds\nof bras.</p> </div><!-- SC_ON -->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p> 個人的には、ブラジャーはつけたまま寝られます。\nThey&#39;re so comfortable to me, I don&#39;t even feel them. Any and all kinds\nof bras.</p> </div><!-- SC_ON -->",
+      "title": "大多数の人ができないと言うことで、あなたにできることは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>个人而言，我可以戴着胸罩睡觉。\n它们对我来说是如此舒适，我甚至感觉不到它们。Any and all kinds\nof bras.</p> </div><!-- SC_ON -->",
+      "title": "有什么事情是你能做到的，而大多数人说他们做不到的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>個人而言，我可以戴着胸罩睡覺。\n它們對我來說是如此舒適，我甚至感覺不到它們。Any and all kinds\nof bras.</p> </div><!-- SC_ON -->",
+      "title": "有什麼事情是你能做到的，而大多數人說他們做不到的？"
+    }
+  ]
 }
