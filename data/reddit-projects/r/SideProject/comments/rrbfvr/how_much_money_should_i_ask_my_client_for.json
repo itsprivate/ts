@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I have developed this site for a client. This\nis my first freelance project and I don&#39;t have any idea how much to ask for.\nSo kindly help me with that.</p> <p>site - <a\nhref=\"https://biocloud.vercel.app/\">https://biocloud.vercel.app/</a></p>\n</div><!-- SC_ON -->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I have developed this site for a client. This\nis my first freelance project and I don&#39;t have any idea how much to ask for.\nSo kindly help me with that.</p> <p>site - <a\nhref=\"https://biocloud.vercel.app/\">https://biocloud.vercel.app/</a></p>\n</div><!-- SC_ON -->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p> 私はあるクライアントのためにこのサイトを開発しました。この\nこのような場合、どのようにすればよいのでしょうか？\nだから親切にそれを私を助けてください。</p> <p>サイト - <a\nhref=\"https://biocloud.vercel.app/\">https://biocloud.vercel.app/</a></p>\n</div><!-- SC_ON -->",
+      "title": "クライアントにどれくらいの金額を要求すればいいのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>我为一个客户开发了这个网站。这\n是我的第一个自由职业项目，我不知道该要求多少钱。\n所以请帮助我。</p> <p>网站 - <a\nhref=\"https://biocloud.vercel.app/\">https://biocloud.vercel.app/</a></p>\n</div><!-- SC_ON -->",
+      "title": "我应该向客户要多少钱？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>我爲一個客戶開發了這個網站。這\n是我的第一個自由職業項目，我不知道該要求多少錢。\n所以請幫助我。</p> <p>網站 - <a\nhref=\"https://biocloud.vercel.app/\">https://biocloud.vercel.app/</a></p>\n</div><!-- SC_ON -->",
+      "title": "我應該向客戶要多少錢？"
+    }
+  ]
 }
