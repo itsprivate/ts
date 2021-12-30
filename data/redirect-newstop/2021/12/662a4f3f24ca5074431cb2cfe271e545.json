@@ -14,5 +14,19 @@
   "tags": [
     "The New York Times"
   ],
-  "image": "https://static01.nyt.com/images/2021/12/29/multimedia/29-virusbrief-chinalockdown/29-virusbrief-chinalockdown-facebookJumbo.jpg"
+  "image": "https://static01.nyt.com/images/2021/12/29/multimedia/29-virusbrief-chinalockdown/29-virusbrief-chinalockdown-facebookJumbo.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "中国、西安で1300万人を厳重監禁"
+    },
+    {
+      "locale": "zh",
+      "title": "中国对西安的1300万人进行严格封锁"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "中國對西安的1300萬人進行嚴格封鎖"
+    }
+  ]
 }
