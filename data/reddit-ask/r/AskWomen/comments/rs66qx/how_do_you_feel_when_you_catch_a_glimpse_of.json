@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Do you cover yourself as soon as you get out\nof the shower just to avoid seeing yourself naked?</p> </div><!-- SC_ON -->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Do you cover yourself as soon as you get out\nof the shower just to avoid seeing yourself naked?</p> </div><!-- SC_ON -->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>外に出たらすぐに身を隠すか。\n</p> </div><!",
+      "title": "裸の自分を鏡に映したとき、どのような気持ちになりますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Do you cover yourself as soon as you get out\nof the shower just to avoid seeing yourself naked?</p> </div><!-- SC_ON -->",
+      "title": "当你瞥见镜子里的自己一丝不挂时，你有什么感觉？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Do you cover yourself as soon as you get out\nof the shower just to avoid seeing yourself naked?</p> </div><!-- SC_ON -->",
+      "title": "當你瞥見鏡子裏的自己一絲不掛時，你有什麼感覺？"
+    }
+  ]
 }
