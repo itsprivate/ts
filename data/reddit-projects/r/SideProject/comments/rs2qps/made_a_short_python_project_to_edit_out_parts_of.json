@@ -59,5 +59,19 @@
     }
   },
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Pythonのショートプロジェクトで、動画のアクティビティがない部分を編集するものを作りました"
+    },
+    {
+      "locale": "zh",
+      "title": "做了一个简短的Python项目，编辑掉视频中没有任何活动的部分。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "做了一個簡短的Python項目，編輯掉視頻中沒有任何活動的部分。"
+    }
+  ]
 }
