@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-27T19:21:17Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PmzpvafL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f6zta5vbv9ipb5mngbrn.png",
   "author": "Jeremy Kahn",
-  "author_url": "https://dev.to/jeremyckahn"
+  "author_url": "https://dev.to/jeremyckahn",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "1年近く前に、オープンソースでWebベースの農作業ツールであるFarmhandにマルチプレイ機能を導入しました...",
+      "title": "不正使用防止、フォールトトレラント、ゼロコスト、多人数参加型オンラインゲームを設計した方法"
+    },
+    {
+      "locale": "zh",
+      "description": "将近一年前，我为Farmhand部署了一个多人游戏功能，Farmhand是一个开源的、基于网络的耕作。",
+      "title": "我是如何设计一个抗滥用、容错、零成本的多人在线游戏的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "將近一年前，我爲Farmhand部署了一個多人遊戲功能，Farmhand是一個開源的、基於網絡的耕作。",
+      "title": "我是如何設計一個抗濫用、容錯、零成本的多人在線遊戲的？"
+    }
+  ]
 }
