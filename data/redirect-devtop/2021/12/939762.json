@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-29T18:25:08Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YquCGtIk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xcy8ya6mwh73o165zitr.jpeg",
   "author": "Anibal",
-  "author_url": "https://dev.to/anibalardid"
+  "author_url": "https://dev.to/anibalardid",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに みなさん、こんにちは。 私は技術リーダーで、Pull Request/Mergeのチェックを担当しています...",
+      "title": "git hooksでコミットメッセージとブランチ名を確認する方法（新規インストール不要"
+    },
+    {
+      "locale": "zh",
+      "description": "简介 大家好  我是一名技术负责人，我负责检查Pull Request/Merge...",
+      "title": "如何用git钩子检查提交信息和分支名称，而不需要任何新的安装"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介 大家好  我是一名技術負責人，我負責檢查Pull Request/Merge...",
+      "title": "如何用git鉤子檢查提交信息和分支名稱，而不需要任何新的安裝"
+    }
+  ]
 }
