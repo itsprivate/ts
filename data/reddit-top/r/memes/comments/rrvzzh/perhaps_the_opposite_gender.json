@@ -91,5 +91,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "おそらく異性"
+    },
+    {
+      "locale": "zh",
+      "title": "也许是相反的性别"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "也許是相反的性別"
+    }
+  ]
 }
