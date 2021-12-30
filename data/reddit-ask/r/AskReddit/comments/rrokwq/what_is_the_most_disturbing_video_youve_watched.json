@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今まで見た中で一番気になった映像は？"
+    },
+    {
+      "locale": "zh",
+      "title": "你看过的最令人不安的视频是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你看過的最令人不安的視頻是什麼？"
+    }
+  ]
 }

@@ -91,5 +91,22 @@
     "retweet_count": 10289,
     "favorite_count": 25455,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @jennybethm: Twitterがコビドワクチンに関する「誤報」を流したとして、mRNA技術の発明者を停止した時点で、私たちは...。",
+      "retweeted_status_full_text": "TwitterがCovidワクチンに関する「誤報」を流したとして、mRNA技術の発明者を停止した時点で、我々は問題を抱えていることがわかる。https://t.co/p6K8hnE5b6。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @jennybethm: 当Twitter暂停mRNA技术的发明者传播有关Covid疫苗的 \"错误信息 \"时，你知道我们正在...",
+      "retweeted_status_full_text": "当推特因传播有关科威德疫苗的 \"错误信息 \"而暂停mRNA技术的发明者时，你知道我们有麻烦了。https://t.co/p6K8hnE5b6"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @jennybethm: 當Twitter暫停mRNA技術的發明者傳播有關Covid疫苗的 \"錯誤信息 \"時，你知道我們正在...",
+      "retweeted_status_full_text": "當推特因傳播有關科威德疫苗的 \"錯誤信息 \"而暫停mRNA技術的發明者時，你知道我們有麻煩了。https://t.co/p6K8hnE5b6"
+    }
+  ]
 }
