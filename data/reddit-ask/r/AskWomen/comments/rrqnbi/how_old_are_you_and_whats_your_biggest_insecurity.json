@@ -11,5 +11,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたは何歳で、何が一番不安ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你多大了，你最大的不安全感是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你多大了，你最大的不安全感是什麼？"
+    }
+  ]
 }

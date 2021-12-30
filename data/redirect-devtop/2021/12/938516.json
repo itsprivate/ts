@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-28T14:59:25Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s---gpDB3s1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/142p91fmnosvmyim4bd1.png",
   "author": "Anjan Shomooder",
-  "author_url": "https://dev.to/thatanjan"
+  "author_url": "https://dev.to/thatanjan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このブログでは、Reactjsでinstagramのようなカルーセルポストカードを構築する方法を学びます...",
+      "title": "Reactjs、Material-UI、SwiperjsでInstagramのようなカルーセルポストカードを作ろう"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇博客中，你将学习如何用Reactjs建立一个像instagram那样的旋转木马post card，...",
+      "title": "用Reactjs、Material-UI和Swiperjs建立一个像Instagram那样的旋转木马明信片"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇博客中，你將學習如何用Reactjs建立一個像instagram那樣的旋轉木馬post card，...",
+      "title": "用Reactjs、Material-UI和Swiperjs建立一個像Instagram那樣的旋轉木馬明信片"
+    }
+  ]
 }
