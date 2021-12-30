@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-27T08:10:48Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mjhrP64L--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nkyvxz1qhxop7y314fd1.jpg",
   "author": "Zack Webster",
-  "author_url": "https://dev.to/zaxwebs"
+  "author_url": "https://dev.to/zaxwebs",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "さて、これはJWTについて学ぶ、ちょっと変わった方法です。しかし、正しく行えば...",
+      "title": "JWTを数式で説明"
+    },
+    {
+      "locale": "zh",
+      "description": "好吧，这是一种相当不同的学习JWT的方式。但我认为，如果做得好，它可以...",
+      "title": "解释为公式的JWT"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "好吧，這是一種相當不同的學習JWT的方式。但我認爲，如果做得好，它可以...",
+      "title": "解釋爲公式的JWT"
+    }
+  ]
 }
