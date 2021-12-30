@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Its really awkward some sweaty dude staring\ninto the camera playing drums always on my feed why am I seeing this and why is\nit always the same dude</p> </div><!-- SC_ON -->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Its really awkward some sweaty dude staring\ninto the camera playing drums always on my feed why am I seeing this and why is\nit always the same dude</p> </div><!-- SC_ON -->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Its really awkward some sweaty dude staring.\nカメラに向かってドラムを叩く姿がいつもフィードに表示される。\nいつも同じ男</p> </div><!-- SC_ON --> <!",
+      "title": "なぜredditはいつもネクタイをした汗臭い男がドラムを演奏しているのを私のニュースフィードに載せるのですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>我真的很尴尬，一些汗流浃背的家伙盯着镜头打鼓，总是在我的饲料中出现。\n在我看来，为什么我看到的是这样的画面，为什么是这样的画面？\n</p> </div><!-- SC_ON -->",
+      "title": "为什么reddit总是把一些打着领带的汗流浃背的人放在我的新闻联播上？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>我真的很尷尬，一些汗流浹背的傢伙盯着鏡頭打鼓，總是在我的飼料中出現。\n在我看來，爲什麼我看到的是這樣的畫面，爲什麼是這樣的畫面？\n</p> </div><!-- SC_ON -->",
+      "title": "爲什麼reddit總是把一些打着領帶的汗流浹背的人放在我的新聞聯播上？"
+    }
+  ]
 }
