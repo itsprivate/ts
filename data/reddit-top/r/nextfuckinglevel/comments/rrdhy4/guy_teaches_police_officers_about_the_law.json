@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ガイが警察官に法律を教える"
+    },
+    {
+      "locale": "zh",
+      "title": "盖伊向警察传授法律知识"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "蓋伊向警察傳授法律知識"
+    }
+  ]
 }
