@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "川縁に暮らすこの街。"
+    },
+    {
+      "locale": "zh",
+      "title": "这个生活在河边的城市。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個生活在河邊的城市。"
+    }
+  ]
 }
