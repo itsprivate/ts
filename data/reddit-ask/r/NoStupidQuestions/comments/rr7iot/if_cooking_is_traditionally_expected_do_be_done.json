@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Just to be clear: English is not first\nlanguage and i did not know how phrase it better. I do not think that women\nshould do all the cooking or stay in the kitchen. I hope you can still\nunderstand my question.</p> </div><!-- SC_ON -->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Just to be clear: English is not first\nlanguage and i did not know how phrase it better. I do not think that women\nshould do all the cooking or stay in the kitchen. I hope you can still\nunderstand my question.</p> </div><!-- SC_ON -->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Just to be clear: English is not first (英語は第一言語ではありません)\nというのも、私はどう表現したらいいのかわからなかったからです。私は、女性が\n料理は全部やるか、台所にいるべき。それでも\n</p> </div><!-- SC_ON --> 質問を理解する。",
+      "title": "料理は女性がするものだと思われているのに、なぜ有名な料理人は男性ばかりなのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>我想说的是：英语不是我的母语，我不知道该如何表达。\n语言，我不知道如何更好地表达它。我不认为女性\nshould do all the cooking or stay in the kitchen. I hope you can still\nunderstand my question.</p> </div><!-- SC_ON -->",
+      "title": "如果在我们的社会中，烹饪在传统上应该由女性来做，为什么最知名的厨师都是男性？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>我想說的是：英語不是我的母語，我不知道該如何表達。\n語言，我不知道如何更好地表達它。我不認爲女性\nshould do all the cooking or stay in the kitchen. I hope you can still\nunderstand my question.</p> </div><!-- SC_ON -->",
+      "title": "如果在我們的社會中，烹飪在傳統上應該由女性來做，爲什麼最知名的廚師都是男性？"
+    }
+  ]
 }
