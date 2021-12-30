@@ -70,5 +70,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "シンプルでクリーンなHackerNews投稿リーダー - hackerscroll.com"
+    },
+    {
+      "locale": "zh",
+      "title": "一个简单而干净的HackerNews投稿阅读器 - hackerscroll.com"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個簡單而乾淨的HackerNews投稿閱讀器 - hackerscroll.com"
+    }
+  ]
 }
