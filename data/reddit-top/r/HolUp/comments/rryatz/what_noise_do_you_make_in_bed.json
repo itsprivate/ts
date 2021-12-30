@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ベッドではどんな音がするのですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你在床上发出什么声音？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你在牀上發出什麼聲音？"
+    }
+  ]
 }
