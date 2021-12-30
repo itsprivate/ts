@@ -74,5 +74,22 @@
     "retweet_count": 76,
     "favorite_count": 420,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @duncanrobinson: 最後のコラムです。さようなら！ https://t.co/33t7r6WSSQ",
+      "retweeted_status_full_text": "最終コラム さようなら！ https://t.co/33t7r6WSSQ"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @duncanrobinson: 最后的专栏。再见！https://t.co/33t7r6WSSQ",
+      "retweeted_status_full_text": "最后一栏。再见！https://t.co/33t7r6WSSQ"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @duncanrobinson: 最後的專欄。再見！https://t.co/33t7r6WSSQ",
+      "retweeted_status_full_text": "最後一欄。再見！https://t.co/33t7r6WSSQ"
+    }
+  ]
 }
