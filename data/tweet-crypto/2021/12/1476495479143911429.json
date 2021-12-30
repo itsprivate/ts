@@ -52,5 +52,22 @@
     },
     "retweet_count": 5396,
     "favorite_count": 24416
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @AndySwan: MRNA技術の発明者はツイッターから追放され、明日、ジョー・ローガンのポッドキャストに出演する予定だ。",
+      "retweeted_status_full_text": "MRNAテクノロジーの発明者がツイッターを禁止され、明日のジョー・ローガンのポッドキャストに登場する予定。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @AndySwan: MRNA技术的发明者被禁止在TWITTER上出现，明天将出现在JOE ROGAN PODCAST上。",
+      "retweeted_status_full_text": "MRNA技术的发明者被禁止在Twitter上发表言论，明天将出现在乔-罗根的播客节目中"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @AndySwan: MRNA技術的發明者被禁止在TWITTER上出現，明天將出現在JOE ROGAN PODCAST上。",
+      "retweeted_status_full_text": "MRNA技術的發明者被禁止在Twitter上發表言論，明天將出現在喬-羅根的播客節目中"
+    }
+  ]
 }
