@@ -47,5 +47,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Hello!</p> <p>I am a very small <a\nhref=\"https://www.youtube.com/c/BaralTech\">programming YouTuber</a> with about\n150 subscribers. I only make super simple Python tutorials. Nothing to do with\nCrypto at all.</p> <p>Now, this guy emails me and says he has a project…"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Hello!</p> <p>I am a very small <a\nhref=\"https://www.youtube.com/c/BaralTech\">programming YouTuber</a> with about\n150 subscribers. I only make super simple Python tutorials. Nothing to do with\nCrypto at all.</p> <p>Now, this guy emails me and says he has a project…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>こんにちは！</p> <p>私はとても小さな<a\nhref=\"https://www.youtube.com/c/BaralTech\">プログラミング系YouTuber</a>で、約30名。\n150人の登録者がいます。超簡単なPythonのチュートリアルしか作ってません。何もしていません。\n</p> <p>さて、ある男が私にメールを送ってきて、プロジェクトがあると言ってきたのですが...。",
+      "title": "ビットコイン取引の方程式があると言う男が、私に自動化ソフトを書いて欲しいと言う。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Hello!</p> <p>I am a very small <a\nhref=\"https://www.youtube.com/c/BaralTech\">programming YouTuber</a> with about\n150 subscribers. 我只做超级简单的 Python 教程。完全不涉及\n</p> <p>现在，这个人给我发电子邮件，说他有一个项目......",
+      "title": "伙记说他有一个比特币交易的公式，想让我为他写自动软件"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Hello!</p> <p>I am a very small <a\nhref=\"https://www.youtube.com/c/BaralTech\">programming YouTuber</a> with about\n150 subscribers. 我只做超級簡單的 Python 教程。完全不涉及\n</p> <p>現在，這個人給我發電子郵件，說他有一個項目......",
+      "title": "夥記說他有一個比特幣交易的公式，想讓我爲他寫自動軟件"
+    }
+  ]
 }
