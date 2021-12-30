@@ -42,5 +42,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I just launched a new version of the subtitle\ntool I built on product hunt today. I&#39;m really excited to finally get this\nreleased after a year of work.</p>…"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I just launched a new version of the subtitle\ntool I built on product hunt today. I&#39;m really excited to finally get this\nreleased after a year of work.</p>…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Subtitle の新バージョンをリリースしたところです。\n今日、プロダクトハントで作ったツールです。ついにこれを手に入れることができ、とても興奮しています。\n</p> <p>1年間の作業を経てリリースされました。",
+      "title": "サブタイトルソフトはパートタイムで1年以上かけて完成させた"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>我今天刚刚推出了一个新版本的副标题工具\n工具的新版本，我今天在product hunt上建立的。我真的很兴奋，在一年后终于把它\n</p>......在经过一年的工作后，终于发布了这一版本。",
+      "title": "副标题 软件花了一年多时间完成了兼职工作"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>我今天剛剛推出了一個新版本的副標題工具\n工具的新版本，我今天在product hunt上建立的。我真的很興奮，在一年後終於把它\n</p>......在經過一年的工作後，終於發佈了這一版本。",
+      "title": "副標題 軟件花了一年多時間完成了兼職工作"
+    }
+  ]
 }
