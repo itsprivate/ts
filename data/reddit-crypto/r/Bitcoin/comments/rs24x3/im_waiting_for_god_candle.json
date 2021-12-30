@@ -60,5 +60,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ゴッドキャンドルを待っている"
+    },
+    {
+      "locale": "zh",
+      "title": "我在等待上帝的蜡烛"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我在等待上帝的蠟燭"
+    }
+  ]
 }

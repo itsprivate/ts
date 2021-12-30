@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-29T13:11:12Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NiKLHr4c--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ov8tu3lwtveaw2hjbat1.png",
   "author": "Nitzan Hen",
-  "author_url": "https://dev.to/nitzanhen"
+  "author_url": "https://dev.to/nitzanhen",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これまでAgrippaを制作してきた中で、最も大きな学びは、テストがいかに重要かということです。",
+      "title": "テストにDockerを使用した理由 "
+    },
+    {
+      "locale": "zh",
+      "description": "也许到目前为止，我从创建阿格里帕中学到的最大教训是测试是多么重要。",
+      "title": "为什么我们使用Docker进行测试 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "也許到目前爲止，我從創建阿格里帕中學到的最大教訓是測試是多麼重要。",
+      "title": "爲什麼我們使用Docker進行測試 "
+    }
+  ]
 }
