@@ -91,5 +91,22 @@
     "retweet_count": 194,
     "favorite_count": 595,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @AndySwan: ファウチは、「入院」のデータはでたらめで、それはほとんどの人が「感染」しているからであり、「感染」していないからだという「陰謀論」を再掲しています。",
+      "retweeted_status_full_text": "Fauciは、ほとんどの人がCOVIDからではなく、COVIDとともに入院しているので、「入院」のデータはでたらめであるという詐欺理論を再掲載しています。https://t.co/hZBPa40klC。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @AndySwan: Fauci重申了阴谋论，即 \"住院 \"数据是胡说八道的，因为大多数人都是感染了病毒，而不是来自病毒。",
+      "retweeted_status_full_text": "Fauci重申了 \"住院 \"数据是胡说八道，因为大多数人都是带着病菌而不是从病菌中进入的。https://t.co/hZBPa40klC"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @AndySwan: Fauci重申了陰謀論，即 \"住院 \"數據是胡說八道的，因爲大多數人都是感染了病毒，而不是來自病毒。",
+      "retweeted_status_full_text": "Fauci重申了 \"住院 \"數據是胡說八道，因爲大多數人都是帶着病菌而不是從病菌中進入的。https://t.co/hZBPa40klC"
+    }
+  ]
 }
