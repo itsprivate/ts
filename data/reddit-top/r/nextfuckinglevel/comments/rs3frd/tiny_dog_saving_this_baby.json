@@ -55,5 +55,19 @@
     }
   },
   "is_video": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "小さな犬がこの子を救う。"
+    },
+    {
+      "locale": "zh",
+      "title": "小狗救了这个宝贝。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "小狗救了這個寶貝。"
+    }
+  ]
 }
