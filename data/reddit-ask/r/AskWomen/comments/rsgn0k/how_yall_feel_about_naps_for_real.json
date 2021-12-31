@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I need one.</p> </div><!-- SC_ON -->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I need one.</p> </div><!-- SC_ON -->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I need one.</p> </div><!-- SC_ON -->。",
+      "title": "昼寝について、みなさんはどのようにお感じになりますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>我需要一个。</p> </div><! -- SC_ON -->",
+      "title": "你们对小睡的真实感受如何？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>我需要一個。</p> </div><! -- SC_ON -->",
+      "title": "你們對小睡的真實感受如何？"
+    }
+  ]
 }
