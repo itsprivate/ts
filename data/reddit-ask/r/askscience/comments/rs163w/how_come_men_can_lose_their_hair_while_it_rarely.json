@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>What biological processes exist for women that\nmake them much less likely to go bald?</p> </div><!-- SC_ON -->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>What biological processes exist for women that\nmake them much less likely to go bald?</p> </div><!-- SC_ON -->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p> 女性にはどのような生物学的過程があるのでしょうか。\n</p> <!-- SC_ON --> </div><!",
+      "title": "女性にはほとんどないのに、どうして男性には髪が抜けることがあるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>What biological processes exist for women that\nmake them much less likely to go bald?</p> </div><!-- SC_ON -->",
+      "title": "为什么男人会脱发，而女人却很少发生？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>What biological processes exist for women that\nmake them much less likely to go bald?</p> </div><!-- SC_ON -->",
+      "title": "爲什麼男人會脫髮，而女人卻很少發生？"
+    }
+  ]
 }
