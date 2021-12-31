@@ -1,0 +1,32 @@
+{
+  "author": "cosmicgoku",
+  "original_created_utc": 1638644171,
+  "title": "YSK: Most corporations and ISPs track you through DNS and by using open source servers like Adguard DNS, you can block ads/trackers/malware on entire devices",
+  "created_utc": 1638657742,
+  "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Why YSK: DNS servers are required for anyone to connect to the internet. Corporations and ISPs like to track you as much as humanly possible within the law. They do this mostly through the DNS servers they automatically configure your devices to use. By switching to an encrypted dns server with filters that block these tracking/ad domains you won&amp;#39;t see any more on your entire device. DNS is being used for tracking/ads more than any time previously in the last twenty years. It&amp;#39;s only a few numbers, it&amp;#39;s an easy and effortless switch. Adguard is open source and free to use like Bitcoin and Ethereum, Linux, Firefox and Tor for example.&lt;/p&gt;\n\n&lt;p&gt;Edit (for no confusion): &lt;a href=\"https://adguard-dns.com/en/public-dns.html\"&gt;https://adguard-dns.com/en/public-dns.html&lt;/a&gt;.&lt;/p&gt;\n\n&lt;p&gt;Edit 2: May not work with streaming services or youtube on phones or xboxes, play stations. Google loads all their ads on one domain, so to block those domains you&amp;#39;d be blocking youtube itself, alas. You can sideload cercube youtube through altstore on IOS or use youtube vanced on Android to get premium for free though (I myself use altstore, also have spotify premium for free)&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+  "score": 133,
+  "permalink": "/r/YouShouldKnow/comments/r8wdhg/ysk_most_corporations_and_isps_track_you_through/",
+  "subreddit": "YouShouldKnow",
+  "id": "r8wdhg",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Why YSK: DNS servers are required for anyone to connect to the internet.\nCorporations and ISPs like to track you as much as humanly possible within the\nlaw. They do this mostly through the DNS servers they automatically configure\nyour devices to use. By switching to an encrypted dns server with…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!--SC_OFF --><div class=\"md\"><p>なぜYSKなのか：DNSサーバーは誰にとっても必要なものです。\nインターネットに接続するために必要です。企業やISPは、法律の範囲内で可能な限りあなたを追跡したいと考えています。\n企業やISPは、法律の範囲内で可能な限りあなたを追跡したいと考えています。これは主にDNSサーバーを通して行われます。\nそのために、あなたのデバイスが自動的に使用するように設定します。切り替えて...",
+      "title": "YSK: ほとんどの企業やISPは、DNSを通じてあなたを追跡しています。Adguard DNSのようなオープンソースのサーバを使えば、デバイス全体で広告/トラッカー/マルウェアをブロックすることができます。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>为什么YSK：任何人都需要DNS服务器来连接互联网。\n连接到互联网。公司和ISP喜欢在法律允许的范围内尽可能多地追踪你。\n在法律允许的范围内尽可能地跟踪你。他们主要是通过DNS服务器来做到这一点\n他们自动配置你的设备来使用。通过切换到...",
+      "title": "YSK：大多数公司和ISP通过DNS追踪你，通过使用Adguard DNS这样的开源服务器，你可以阻止整个设备上的广告/追踪器/恶意软件。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>爲什麼YSK：任何人都需要DNS服務器來連接互聯網。\n連接到互聯網。公司和ISP喜歡在法律允許的範圍內儘可能多地追蹤你。\n在法律允許的範圍內儘可能地跟蹤你。他們主要是通過DNS服務器來做到這一點\n他們自動配置你的設備來使用。通過切換到...",
+      "title": "YSK：大多數公司和ISP通過DNS追蹤你，通過使用Adguard DNS這樣的開源服務器，你可以阻止整個設備上的廣告/追蹤器/惡意軟件。"
+    }
+  ]
+}

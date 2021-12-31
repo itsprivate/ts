@@ -1,0 +1,32 @@
+{
+  "author": "acvdk",
+  "original_created_utc": 1630080991,
+  "title": "CMV: Businesses should use rolling periods to calculate bonuses/targets/quotas, not arbitrary periods as this creates perverse incentives by employees to game the numbers.",
+  "created_utc": 1630111487,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>So for example, if you are an employee of a car dealership, you may have a goal to sell, say, 30 cars a month and if you sell more, you get a bonus of, say $500 per car above 30. I believe this kind of things encourages employees and customers to act in ways that are damaging to the business and that these  negative behaviors could be reduced if bonuses/quotas were instead calculated on a trailing rolling basis. So for example, in the above example you would get a daily bonus calculated by the formula: (Average cars sold per day for past 30 days - target cars sold per day)*$500. Yes, this is slightly more complicated, but in the days of automated tracking the added complexity is negligible.</p>\n\n<p>By going to this system, it would stop the employee from doing things like offering price discounts, etc. in order to game the numbers in an arbitrary accounting period provided the commission they lost from being negotiable on price was less than their volume bonus. It might also cause an employee to try to shift sales in to a later month if they were below the bonus quota (so they would have a better chance of making bonus next month) and risk losing the deal as a result of the delay. Furthermore, if customers knew they no longer could get pricing power by coming in on the last day of the month/year, they would stop trying and stop expecting a discount from doing so.</p>\n\n<p>I have personally seen time and again, companies and individuals making horrible business decisions because they want to close deals or achieve certain goals within an arbitrary accounting period. Employees sloppily finishing a project by an arbitrary deadline, or cutting scope out of a job so they can book/complete it by a certain date. I once literally saw a team in my company find a BS reason to cut $30M of scope out of a job so they could get the contract signed by the end of the bonus period. Every time I see this, I think to myself that this most of this could be fixed by just having incentive structures that was based on trailing averages and not based arbitrary hard deadlines.</p>\n\n<p>While I acknowledge that the reason for using arbitrary accounting periods is also because reporting periods for public companies are also based on arbitrary periods, I feel that this is circular reasoning. If companies moved away from arbitrary accounting periods to using better thought out incentive periods, so might their investors take a longer view at financial results. I would also say that only a tiny fraction of companies are publicly traded.</p>\n</div><!-- SC_ON -->",
+  "score": 51,
+  "permalink": "/r/changemyview/comments/pcqisj/cmv_businesses_should_use_rolling_periods_to/",
+  "subreddit": "changemyview",
+  "id": "pcqisj",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "So for example, if you are an employee of a car dealership, you may have a goal\nto sell, say, 30 cars a month and if you sell more, you get a bonus of, say $500\nper car above 30. I believe this kind of things encourages employees and\ncustomers to act in ways that are damaging to the business and…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "例えば、あなたが自動車ディーラーの従業員であれば、月に30台の車を販売するという目標を持ち、それ以上販売すれば、500ドルのボーナスを得ることができます。\n月に30台の車を売ることを目標とし、それ以上売れた場合には、30台以上の車1台につき500ドルのボーナスを得ることができるとします。\nボーナスは30台を超えるごとに500ドル。私はこのようなことは、従業員や顧客が損害を与えるような行動をすることを助長すると思います。\nこのようなことは、従業員や顧客がビジネスに損害を与えるような行動をとることを助長し、...",
+      "title": "CMV: 企業は、ボーナス/ターゲット/クオータの計算に、任意の期間ではなく、ローリング期間を使用すべきです。これは、従業員が数字を操作しようとする逆インセンティブを生み出すからです。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "因此，例如，如果你是一个汽车经销商的员工，你可能有一个目标\n一个月卖出30辆车，如果你卖得更多，你会得到奖金，比如说每卖出30辆车就有500美元的奖金。\n每辆车超过30辆，你会得到500美元的奖金。我相信这种事情鼓励员工和\n损害业务的方式行事，并且......",
+      "title": "CMV：企业应该使用滚动期来计算奖金/目标/配额，而不是任意的时期，因为这造成了员工对数字的不正当刺激。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "因此，例如，如果你是一個汽車經銷商的員工，你可能有一個目標\n一個月賣出30輛車，如果你賣得更多，你會得到獎金，比如說每賣出30輛車就有500美元的獎金。\n每輛車超過30輛，你會得到500美元的獎金。我相信這種事情鼓勵員工和\n損害業務的方式行事，並且......",
+      "title": "CMV：企業應該使用滾動期來計算獎金/目標/配額，而不是任意的時期，因爲這造成了員工對數字的不正當刺激。"
+    }
+  ]
+}

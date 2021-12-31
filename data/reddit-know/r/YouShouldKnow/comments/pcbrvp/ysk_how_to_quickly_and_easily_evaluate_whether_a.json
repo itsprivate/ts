@@ -1,0 +1,32 @@
+{
+  "author": "Tbone139",
+  "original_created_utc": 1630022466,
+  "title": "YSK how to quickly and easily evaluate whether a study's sample size is \"too small\" and convince others",
+  "created_utc": 1630028498,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Why YSK: I&#39;ve seen informative (edit: country/world population) studies involving over 100 or even 1000 participants dismissed with the unbacked claim that the sample size is too small to be representative of the population.</p>\n\n<p>Let us suppose we are discussing a peer-reviewed study claiming 79% of the US population believes &#39;blorp&#39;, and the sample-size is 427 randomly-selected participants. Let us next suppose that someone replies 427 is too small to say anything about the US population.</p>\n\n<p>First, open a &#39;margin-of-error&#39; calculator such as: <a href=\"https://www.calculator.net/sample-size-calculator.html\">https://www.calculator.net/sample-size-calculator.html</a> (2nd section of the page) and plug in the following values:</p>\n\n<ul>\n<li>Confidence level: 99% (This can be increased or decreased.)</li>\n<li>Sample Size: 427</li>\n<li>Population proportion: 79%</li>\n<li>Population: 332,677,777</li>\n</ul>\n\n<p>You can see the inputs and output here: <a href=\"https://www.calculator.net/sample-size-calculator.html?type=2&amp;cl2=99&amp;ss2=427&amp;pc2=79&amp;ps2=332677777&amp;x=74&amp;y=24#findci\">https://www.calculator.net/sample-size-calculator.html?type=2&amp;cl2=99&amp;ss2=427&amp;pc2=79&amp;ps2=332677777&amp;x=74&amp;y=24#findci</a></p>\n\n<p>This results in &#39;margin of error&#39; 5.09%, which means there is a 99% chance the actual value is between (79% - 5.09%) and (79% + 5.09%)</p>\n\n<p>= approximately between 74% and 84%.</p>\n\n<p>You can now phrase your reply this way, along with the calculation link (test your link after commenting and edit if needed) :</p>\n\n<blockquote>\n<p>For a sample-size of 427, a population of 332,677,777, and a finding of 79%, there is a 99% chance the actual value is between 74% and 84%.</p>\n\n<p><a href=\"https://www.calculator.net/sample-size-calculator.html?type=2&amp;cl2=99&amp;ss2=427&amp;pc2=79&amp;ps2=332677777&amp;x=74&amp;y=24#findci\">https://www.calculator.net/sample-size-calculator.html?type=2&amp;cl2=99&amp;ss2=427&amp;pc2=79&amp;ps2=332677777&amp;x=74&amp;y=24#findci</a></p>\n</blockquote>\n\n<p>Citation showing the math being done by the calculator: <a href=\"http://crab.rutgers.edu/%7Egoertzel/marginsoferror.htm\">Guide to Computing Margins of Error for Percentages and Means</a> (Rutgers University)</p>\n\n<p>Feedback encouraged!</p>\n</div><!-- SC_ON -->",
+  "score": 611,
+  "permalink": "/r/YouShouldKnow/comments/pcbrvp/ysk_how_to_quickly_and_easily_evaluate_whether_a/",
+  "subreddit": "YouShouldKnow",
+  "id": "pcbrvp",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Why YSK: I've seen informative (edit: country/world population) studies\ninvolving over 100 or even 1000 participants dismissed with the unbacked claim\nthat the sample size is too small to be representative of the population.\n\nLet us suppose we are discussing a peer-reviewed study claiming 79% of the…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "YSK: 私は、100人以上、あるいは1000人以上の参加者を対象とした、有益な（編集部注：国や世界の人口を対象とした）研究を見てきました。\nサンプル数が少なすぎて母集団を代表していない」という裏付けのない主張で\nサンプル数が少なすぎて母集団を代表していないという根拠のない主張で却下されています。\n\n例えば、79％の人々が、このような研究に参加していると主張する査読付きの研究を議論するとしましょう。",
+      "title": "YSKは、研究のサンプルサイズが「小さすぎる」かどうかを素早く簡単に評価し、他の人を納得させる方法を紹介します。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么是YSK：我已经看到了内容丰富的（编辑：国家/世界人口）研究\n涉及超过100个甚至1000个参与者，却被毫无根据的说法所否定\n样本量太小，不能代表人口。\n\n让我们假设我们在讨论一项经同行评审的研究，声称79%的...",
+      "title": "YSK如何快速、轻松地评估一项研究的样本量是否 \"太小\"，并说服他人"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼是YSK：我已經看到了內容豐富的（編輯：國家/世界人口）研究\n涉及超過100個甚至1000個參與者，卻被毫無根據的說法所否定\n樣本量太小，不能代表人口。\n\n讓我們假設我們在討論一項經同行評審的研究，聲稱79%的...",
+      "title": "YSK如何快速、輕鬆地評估一項研究的樣本量是否 \"太小\"，並說服他人"
+    }
+  ]
+}

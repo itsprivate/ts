@@ -1,0 +1,32 @@
+{
+  "author": "PoppaB13",
+  "original_created_utc": 1632790463,
+  "title": "YSK that the Chrome browser now tracks if you're idle, and how to disable it.",
+  "created_utc": 1632796625,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Why YSK: \nThis is a setting that is enabled by default with the latest release. The concern here is that knowing you&#39;re not looking at a particular screen is a signal that sites can use on you, for good (pausing a video when you&#39;re not watching), or bad (your job using it to track your activity).  </p>\n\n<p>If you use Chrome or Brave, here&#39;s how to disable it:</p>\n\n<p><code>chrome://settings/content/idleDetection</code></p>\n\n<p>Look for &quot;Don’t allow sites to know when you’re actively using your device&quot;</p>\n</div><!-- SC_ON -->",
+  "score": 119,
+  "permalink": "/r/YouShouldKnow/comments/pwuvxl/ysk_that_the_chrome_browser_now_tracks_if_youre/",
+  "subreddit": "YouShouldKnow",
+  "id": "pwuvxl",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Why YSK: This is a setting that is enabled by default with the latest release.\nThe concern here is that knowing you're not looking at a particular screen is a\nsignal that sites can use on you, for good (pausing a video when you're not\nwatching), or bad (your job using it to track your activity).\n\nIf…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "なぜYSKなのか：これは、最新のリリースではデフォルトで有効になっている設定です。\nここでの懸念は、あなたが特定の画面を見ていないことを知ることは、サイトがあなたに対して利用できるシグナルであるということです。\nサイトがあなたに良い意味でのシグナルを与えることができるということです（あなたが見ていないときにビデオを一時停止するなど）。\n視聴していないときにビデオを一時停止する）、あるいは（仕事であなたの行動を追跡するために使用する）悪い意味で。\n\nもし...",
+      "title": "YSKは、Chromeブラウザがアイドル状態を追跡するようになったことと、それを無効にする方法について説明します。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么是YSK：这是在最新版本中默认启用的一个设置。\n这里的问题是，知道你没有在看某个特定的屏幕是一个\n网站可以利用这个信号，对你有好处（当你不看的时候暂停视频\n好的（当你不看时暂停视频），或坏的（你的工作用它来跟踪你的活动）。\n\n如果...",
+      "title": "YSK：Chrome浏览器现在会追踪你是否处于闲置状态，以及如何禁用它。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼是YSK：這是在最新版本中默認啓用的一個設置。\n這裏的問題是，知道你沒有在看某個特定的屏幕是一個\n網站可以利用這個信號，對你有好處（當你不看的時候暫停視頻\n好的（當你不看時暫停視頻），或壞的（你的工作用它來跟蹤你的活動）。\n\n如果...",
+      "title": "YSK：Chrome瀏覽器現在會追蹤你是否處於閒置狀態，以及如何禁用它。"
+    }
+  ]
+}

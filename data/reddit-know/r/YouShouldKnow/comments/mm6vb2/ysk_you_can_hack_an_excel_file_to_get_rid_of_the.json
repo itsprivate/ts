@@ -1,0 +1,32 @@
+{
+  "author": "ChiggaOG",
+  "the_new_excerpt": "Why YSK:\n\nIf you've been in a situation where you have a password-protected excel file and\ncan't make changes or you forgot your password. There is a way to remove that\nprotection. If you did not know, Excel files are also zip files with coding. The\npassword protection is SHA-512\n\nChanging the excel…",
+  "original_created_utc": 1617815429,
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "なぜYSKなのか。\n\nパスワードで保護されたエクセルファイルを持っていて、変更できない、またはパスワードを忘れてしまったという状況になったことがあります。\nパスワードを忘れてしまって変更できないという状況に陥ったことがあります。その保護を解除する方法があります。\n保護を解除する方法があります。ご存知なかったかもしれませんが、エクセルファイルはコーディングされたZIPファイルでもあ のです。\nパスワード保護はSHA-512\n\nエクセルの変更...",
+      "title": "YSK: エクセルファイルをハックしてパスワード保護を解除することができる"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么选择YSK。\n\n如果你有一个受密码保护的excel文件，并且\n不能进行修改或忘记密码。有一种方法可以删除\n的保护。如果你不知道，Excel文件也是带编码的压缩文件。该\n密码保护是SHA-512\n\n改变excel的...",
+      "title": "YSK：你可以黑掉一个excel文件来摆脱密码保护。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼選擇YSK。\n\n如果你有一個受密碼保護的excel文件，並且\n不能進行修改或忘記密碼。有一種方法可以刪除\n的保護。如果你不知道，Excel文件也是帶編碼的壓縮文件。該\n密碼保護是SHA-512\n\n改變excel的...",
+      "title": "YSK：你可以黑掉一個excel文件來擺脫密碼保護。"
+    }
+  ],
+  "title": "YSK: You can hack an excel file to get rid of the password protection",
+  "created_utc": 1617824472,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Why YSK:  </p>\n\n<p>If you&#39;ve been in a situation where you have a password-protected excel file and can&#39;t make changes or you forgot your password. There is a way to remove that protection. If you did not know, Excel files are also zip files with coding. The password protection is SHA-512</p>\n\n<p>Changing the excel file extension from .xlsx to .zip allows full access.</p>\n\n<p>Editing the .XML of the workbook and worksheets is where the encrypted password is added near the end of that file that literally says, &quot;sheetProtection&quot; or &quot;workbookProtection&quot; with SHA-512 scrambling. Deleting that string of code removes password protection.</p>\n\n<p>When done. Rezip the file back up and change it from .zip to .xlsx and it will function as a normal excel file that you can edit.</p>\n\n<p>It&#39;s much easier to learn this through video than pure explanation.</p>\n</div><!-- SC_ON -->",
+  "score": 303,
+  "permalink": "/r/YouShouldKnow/comments/mm6vb2/ysk_you_can_hack_an_excel_file_to_get_rid_of_the/",
+  "subreddit": "YouShouldKnow",
+  "id": "mm6vb2",
+  "is_self": true,
+  "media": null,
+  "is_video": false
+}

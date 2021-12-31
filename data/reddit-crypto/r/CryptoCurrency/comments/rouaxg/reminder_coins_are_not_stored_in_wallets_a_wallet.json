@@ -1,0 +1,32 @@
+{
+  "author": "Petrolstatus4",
+  "original_created_utc": 1640513976,
+  "title": "Reminder: Coins are not ‘stored’ in wallets. A wallet is more akin to a keychain, with coins always living on the blockchain itself",
+  "created_utc": 1640539858,
+  "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;This means if you import a private key into a new wallet, you are not ‘moving’ the coins from one wallet to another - you are making a copy of that key for that new ‘keychain’ (wallet). The coins will be accessible from both wallets at once.&lt;/p&gt;\n\n&lt;p&gt;If you don’t want to do this, you can sometimes ‘sweep’ the coins from one wallet into another. This is like having a new key cut and changing the lock.&lt;/p&gt;\n\n&lt;p&gt;This is quite a fundamental mechanism of crypto wallets, but is quite a common misunderstanding - one I had myself until fairly recently!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+  "score": 153,
+  "permalink": "/r/CryptoCurrency/comments/rouaxg/reminder_coins_are_not_stored_in_wallets_a_wallet/",
+  "subreddit": "CryptoCurrency",
+  "id": "rouaxg",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "This means if you import a private key into a new wallet, you are not ‘moving’\nthe coins from one wallet to another - you are making a copy of that key for\nthat new ‘keychain’ (wallet). The coins will be accessible from both wallets at\nonce.\n\nIf you don’t want to do this, you can sometimes ‘sweep’…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p> つまり、秘密鍵をインポートした場合、その秘密鍵は、その秘密鍵を使用するために使用されます。\n新しいウォレットは、あるウォレットから別のウォレットにコインを「移動」しているのではなく、「移動」しているのです。\n新しい「キーチェーン」（ウォレット）用にその鍵のコピーを作成します。コインは\n</p> <p>もし、あなたが...",
+      "title": "注意喚起 コインはウォレットに「保管」されるものではありません。ウォレットはむしろキーチェーンに近く、コインは常にブロックチェーン自体に住んでいます"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>这意味着如果你将私钥导入到一个新的钱包中\n这意味着，如果你将私钥导入一个新的钱包，你并不是在将硬币从一个钱包 \"转移 \"到另一个钱包--你是在为新的 \"钥匙链\"（钱包）制作一个钥匙副本。\n你是在为新的 \"钥匙链\"（钱包）制作一个钥匙的副本。这些硬币将\n</p> <p>如果你不想要...",
+      "title": "提醒您。硬币不是 \"储存 \"在钱包里。钱包更类似于钥匙链，硬币始终生活在区块链本身上。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>這意味着如果你將私鑰導入到一個新的錢包中\n這意味着，如果你將私鑰導入一個新的錢包，你並不是在將硬幣從一個錢包 \"轉移 \"到另一個錢包--你是在爲新的 \"鑰匙鏈\"（錢包）製作一個鑰匙副本。\n你是在爲新的 \"鑰匙鏈\"（錢包）製作一個鑰匙的副本。這些硬幣將\n</p> <p>如果你不想要...",
+      "title": "提醒您。硬幣不是 \"儲存 \"在錢包裏。錢包更類似於鑰匙鏈，硬幣始終生活在區塊鏈本身上。"
+    }
+  ]
+}

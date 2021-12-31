@@ -1,0 +1,65 @@
+{
+  "author": "Syntaximus",
+  "original_created_utc": 1638513788,
+  "title": "[OC] The first 9 Principle Components(aka \"Eigenfaces\") of a dataset of over 13,000 pictures of faces. Using just these 9 building blocks, you can re-create over 50% of the information in the entire dataset. So much of the variance we see is explained by angle of illumination.",
+  "created_utc": 1638519820,
+  "selftext_html": null,
+  "score": 174,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://preview.redd.it/bjvq4y8ut9381.png?auto=webp&amp;s=bc70802fb382d4cf317727542080ccd4cb114a01",
+          "width": 754,
+          "height": 750
+        },
+        "resolutions": [
+          {
+            "url": "https://preview.redd.it/bjvq4y8ut9381.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=65be6c2476d0c187317d0732509a0803fead5a56",
+            "width": 108,
+            "height": 107
+          },
+          {
+            "url": "https://preview.redd.it/bjvq4y8ut9381.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=eae9e9eaad39f55fb980bc482cf49c0ab15d28c9",
+            "width": 216,
+            "height": 214
+          },
+          {
+            "url": "https://preview.redd.it/bjvq4y8ut9381.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=e3f8bf6dea15df4e12baa8e41fd51db638493d61",
+            "width": 320,
+            "height": 318
+          },
+          {
+            "url": "https://preview.redd.it/bjvq4y8ut9381.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0c942a2e0bdcfff007e571e903c06e46bb2c1f61",
+            "width": 640,
+            "height": 636
+          }
+        ],
+        "variants": {},
+        "id": "CMME-Kf69zVsmHknqXnbutKBScnNK-YK-b0-tzBqeuM"
+      }
+    ],
+    "enabled": true
+  },
+  "permalink": "/r/dataisbeautiful/comments/r7ssxg/oc_the_first_9_principle_componentsaka_eigenfaces/",
+  "subreddit": "dataisbeautiful",
+  "id": "r7ssxg",
+  "is_self": false,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] 13,000枚以上の顔写真からなるデータセットの最初の9つの主成分（別名「固有顔」）。この9つの構成要素だけで、データセット全体の情報の50％以上を再現することができる。私たちが見ているもののばらつきの多くは、照明の角度によって説明されます。"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC]超过13,000张人脸图片的数据集的前9个原则成分（又称 \"特征面\"）。仅仅使用这9个构件，你就可以在整个数据集中重新创建超过50%的信息。我们看到的很多差异都是由光照角度解释的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC]超過13,000張人臉圖片的數據集的前9個原則成分（又稱 \"特徵面\"）。僅僅使用這9個構件，你就可以在整個數據集中重新創建超過50%的信息。我們看到的很多差異都是由光照角度解釋的。"
+    }
+  ]
+}
