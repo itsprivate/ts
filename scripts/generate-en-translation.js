@@ -5,7 +5,7 @@ const fsPure = require("fs");
 const fs = fsPure.promises;
 const { readdir, readFile, writeFile } = fs;
 async function main() {
-  const folder = "reddit-stocks";
+  const folder = "reddit-top";
   const files = await getFiles(resolve(__dirname, `../data/${folder}`));
   const jsonFiles = micromatch(files, "**/*.json");
   const allLocaleFiles = {};
@@ -40,6 +40,7 @@ async function main() {
     const fileValue = allLocaleFiles[filePath];
     const finalPath = resolve(__dirname, "../i18n/post-resource/en", filePath);
     console.log("finalPath", finalPath);
+    // is exists
 
     // write file
     await fs.writeFile(finalPath, JSON.stringify(fileValue, null, 2));
