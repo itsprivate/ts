@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "顕微鏡で見ると、人間の手はこんな感じです。"
+    },
+    {
+      "locale": "zh",
+      "title": "这就是人的手在显微镜下的样子。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這就是人的手在顯微鏡下的樣子。"
+    }
+  ]
 }
