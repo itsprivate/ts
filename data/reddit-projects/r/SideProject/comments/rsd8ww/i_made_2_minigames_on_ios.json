@@ -11,5 +11,22 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Hello Reddit !</p> <p>9 months ago, I released\nmy first apps to the App Store, I wanted to begin with something pretty simple\nbefore beginning to develop bigger applications.</p> <p>So here are my 2 mini\ngames : Janken and Toss it.</p> <p>FYI, Toss it is inspired by…"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Hello Reddit !</p> <p>9 months ago, I released\nmy first apps to the App Store, I wanted to begin with something pretty simple\nbefore beginning to develop bigger applications.</p> <p>So here are my 2 mini\ngames : Janken and Toss it.</p> <p>FYI, Toss it is inspired by…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Hello Reddit !</p> <p>9ヶ月前に、私は以下のものをリリースしました。\nApp Storeに初めてアプリを出したので、まずは簡単なものから始めようと思っていました。\n</p> <p>そこで、私の2つのミニアプリケーションを紹介します。\n</p> <p>ちなみに、「Toss it」は、「Janken」と「Toss it」にインスパイアされたゲームです。",
+      "title": "iOSでミニゲームを2つ作りました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>Hello Reddit !</p> <p>9个月前，我在App Store发布了我的第一个应用程序。\n我想在开始开发大的应用程序之前，先从简单的东西开始。\n</p> <p>所以这里是我的2个迷你游戏：Janken和Toss。\n游戏：Janken和Toss it。</p> <p>FYI，Toss it的灵感来自...",
+      "title": "我在iOS上做了2个小游戏 !"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>Hello Reddit !</p> <p>9個月前，我在App Store發佈了我的第一個應用程序。\n我想在開始開發大的應用程序之前，先從簡單的東西開始。\n</p> <p>所以這裏是我的2個迷你遊戲：Janken和Toss。\n遊戲：Janken和Toss it。</p> <p>FYI，Toss it的靈感來自...",
+      "title": "我在iOS上做了2個小遊戲 !"
+    }
+  ]
 }
