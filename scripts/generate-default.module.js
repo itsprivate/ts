@@ -2,7 +2,9 @@ const path = require("path");
 const fsPure = require("fs");
 const fs = fsPure.promises;
 const getMeta = require("./get-metadata");
-
+const { symlink, mkdir } = fs;
+const { existsSync } = fsPure;
+const { dirname, relative } = path;
 const main = async ({
   dest = "data/default-newstop",
   name = "default-newstop",
@@ -76,6 +78,8 @@ const main = async ({
             }
           });
       });
+    const targetLink = getTargetLink(type, item);
+    await createSymLink(hnFilePath, targetLink);
     const title = item.title;
     let tags = item.tags || [];
 
@@ -147,4 +151,37 @@ const main = async ({
 
   return outputs.length;
 };
+async function createSymLink(from, to) {
+  if (!existsSync(to)) {
+    // if parent exists
+    if (!existsSync(dirname(to))) {
+      // mkdir
+      await mkdir(dirname(to), { recursive: true });
+    }
+    // create link
+    // relative link
+    // console.log("from ", from, "to", to);
+    const relativeLink = relative(dirname(to), from);
+    // console.log("relativeLink", relativeLink);
+
+    await symlink(relativeLink, to);
+  }
+}
+
+function getTargetLink(fileType, json) {
+  let slug = json.id;
+  if (fileType == "hn") {
+    slug = `/${json.objectID}/`;
+  } else if (fileType == "reddit") {
+    slug = json.permalink;
+  } else if (fileType == "youtube") {
+    slug = `/${json.videoId}/`;
+  } else if (fileType == "ph") {
+    slug = `/${json.slug}/`;
+  } else if (fileType == "tweet") {
+    slug = `/${json.id_str}/`;
+  }
+  const targetPath = resolve(__dirname, "../", `ref/${fileType}${slug}.json`);
+  return targetPath;
+}
 module.exports = main;

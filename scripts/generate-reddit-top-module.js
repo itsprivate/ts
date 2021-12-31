@@ -1,6 +1,9 @@
 const path = require("path");
 const fsPure = require("fs");
 const fs = fsPure.promises;
+const { symlink, mkdir } = fs;
+const { existsSync } = fsPure;
+const { dirname, relative } = path;
 const writeJson = require("./write-json");
 async function main({ dest = "data/reddit-top", name = "reddit-top" } = {}) {
   const outputs = require(`${process.env.GITHUB_WORKSPACE}/${process.env.OUTPUTS_PATH}`);
@@ -26,8 +29,6 @@ async function main({ dest = "data/reddit-top", name = "reddit-top" } = {}) {
       }
     }
 
-    // is ln link exists
-
     await fs
       .mkdir(path.dirname(redditFilePath), {
         recursive: true,
@@ -36,6 +37,9 @@ async function main({ dest = "data/reddit-top", name = "reddit-top" } = {}) {
         return writeJson(redditFilePath, item);
       });
     console.log(`Write reddit json ${redditFilePath} success.`);
+    // is ln link exists
+    const targetLink = getTargetLink("reddit", item);
+    await createSymLink(redditFilePath, targetLink);
     const title = item.title;
     const id = item.id;
     const excerpt = item.the_new_excerpt;
@@ -103,5 +107,38 @@ async function main({ dest = "data/reddit-top", name = "reddit-top" } = {}) {
     console.log("\n");
   }
   return true;
+}
+async function createSymLink(from, to) {
+  if (!existsSync(to)) {
+    // if parent exists
+    if (!existsSync(dirname(to))) {
+      // mkdir
+      await mkdir(dirname(to), { recursive: true });
+    }
+    // create link
+    // relative link
+    // console.log("from ", from, "to", to);
+    const relativeLink = relative(dirname(to), from);
+    // console.log("relativeLink", relativeLink);
+
+    await symlink(relativeLink, to);
+  }
+}
+
+function getTargetLink(fileType, json) {
+  let slug = json.id;
+  if (fileType == "hn") {
+    slug = `/${json.objectID}/`;
+  } else if (fileType == "reddit") {
+    slug = json.permalink;
+  } else if (fileType == "youtube") {
+    slug = `/${json.videoId}/`;
+  } else if (fileType == "ph") {
+    slug = `/${json.slug}/`;
+  } else if (fileType == "tweet") {
+    slug = `/${json.id_str}/`;
+  }
+  const targetPath = resolve(__dirname, "../", `ref/${fileType}${slug}.json`);
+  return targetPath;
 }
 module.exports = main;
