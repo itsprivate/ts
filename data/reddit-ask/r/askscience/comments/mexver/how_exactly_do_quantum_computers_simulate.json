@@ -11,5 +11,15 @@
   "id": "mexver",
   "is_self": true,
   "media": null,
-  "is_video": false
+  "is_video": false,
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我很难理解为什么量子计算机可以比经典计算机更好地模拟自然界\n比经典计算机更好地模拟自然。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我很難理解爲什麼量子計算機可以比經典計算機更好地模擬自然界\n比經典計算機更好地模擬自然。"
+    }
+  ]
 }
