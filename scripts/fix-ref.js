@@ -38,7 +38,7 @@ async function main() {
         const targetPath = resolve(
           __dirname,
           "../",
-          `ref/${fileType}${slug}.json`
+          `ref/${fileType}${slug}data.json`
         );
         // console.log("targetPath", targetPath);
 

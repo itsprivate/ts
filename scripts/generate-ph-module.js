@@ -157,7 +157,11 @@ function getTargetLink(fileType, json) {
   } else if (fileType == "tweet") {
     slug = `/${json.id_str}/`;
   }
-  const targetPath = resolve(__dirname, "../", `ref/${fileType}${slug}.json`);
+  const targetPath = resolve(
+    __dirname,
+    "../",
+    `ref/${fileType}${slug}data.json`
+  );
   return targetPath;
 }
 module.exports = main;
