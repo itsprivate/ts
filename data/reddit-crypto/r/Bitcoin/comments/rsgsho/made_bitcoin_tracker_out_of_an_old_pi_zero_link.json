@@ -57,5 +57,19 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "古いπゼロからビットコイントラッカーを作りました。開発元へのリンクと使い方はコメント欄に"
+    },
+    {
+      "locale": "zh",
+      "title": "用一个旧的pi zero做了比特币追踪器。在评论中提供设计和说明的链接"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "用一箇舊的pi zero做了比特幣追蹤器。在評論中提供設計和說明的鏈接"
+    }
+  ]
 }
