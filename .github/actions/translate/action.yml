@@ -10,7 +10,7 @@ inputs:
     required: true
     default: "World"
   timeout:
-    description: "time out",
+    description: "time out"
     required: false
     default: "-1"
   provider:
