@@ -182,9 +182,8 @@ module.exports = /******/ (() => {
                     lang: res["result"]["source_lang"].toLowerCase(),
                     ...(sourceLanguage === "auto"
                       ? {
-                          confident: !!res["result"][
-                            "source_lang_is_confident"
-                          ],
+                          confident:
+                            !!res["result"]["source_lang_is_confident"],
                         }
                       : {}),
                     sentence,
@@ -231,7 +230,8 @@ module.exports = /******/ (() => {
               res.sourceLanguages.push(match[1]);
           }
           {
-            const regExp = /translator\/selectLang\.target\.(?:([a-z]{2})'|[a-z]{2}\.([a-z]{2}-[A-Z]{2}))/g;
+            const regExp =
+              /translator\/selectLang\.target\.(?:([a-z]{2})'|[a-z]{2}\.([a-z]{2}-[A-Z]{2}))/g;
             let match;
             while ((match = regExp.exec(data)))
               res.targetLanguages.push(
@@ -304,10 +304,15 @@ module.exports = /******/ (() => {
         const locales = ["zh", "ja"];
         const allFiles = await getFiles("./i18n/post-resource/en");
         // console.log("allFiles", allFiles);
-
+        console.log("totalTimeout", totalTimeout);
         for (let i = 0; i < allFiles.length; i++) {
           const nowTime = Date.now();
-          if (totalTimeout > 0 && nowTime - startTime > totalTimeout * 60 * 1000) {
+          const diff = nowTime - startTime;
+          console.log("diff", diff);
+          const shouldStop = diff > totalTimeout * 60 * 1000;
+          console.log("shouldStop", shouldStop);
+
+          if (totalTimeout > 0 && shouldStop) {
             break;
           }
           const file = allFiles[i];
@@ -655,13 +660,11 @@ module.exports = /******/ (() => {
         let preSourceText = sourceText;
         let untranslatedText;
         if (source === "en" && provider === "tencent") {
-          const {
-            text,
-            untranslatedText: untranslatedTextResult,
-          } = preTranslate({
-            text: sourceText,
-            lang: target,
-          });
+          const { text, untranslatedText: untranslatedTextResult } =
+            preTranslate({
+              text: sourceText,
+              lang: target,
+            });
           preSourceText = text;
           untranslatedText = untranslatedTextResult;
         }
@@ -4846,9 +4849,8 @@ module.exports = /******/ (() => {
           createDebug.skips = [];
 
           let i;
-          const split = (typeof namespaces === "string"
-            ? namespaces
-            : ""
+          const split = (
+            typeof namespaces === "string" ? namespaces : ""
           ).split(/[\s,]+/);
           const len = split.length;
 
@@ -5026,82 +5028,12 @@ module.exports = /******/ (() => {
           (supportsColor.stderr || supportsColor).level >= 2
         ) {
           exports.colors = [
-            20,
-            21,
-            26,
-            27,
-            32,
-            33,
-            38,
-            39,
-            40,
-            41,
-            42,
-            43,
-            44,
-            45,
-            56,
-            57,
-            62,
-            63,
-            68,
-            69,
-            74,
-            75,
-            76,
-            77,
-            78,
-            79,
-            80,
-            81,
-            92,
-            93,
-            98,
-            99,
-            112,
-            113,
-            128,
-            129,
-            134,
-            135,
-            148,
-            149,
-            160,
-            161,
-            162,
-            163,
-            164,
-            165,
-            166,
-            167,
-            168,
-            169,
-            170,
-            171,
-            172,
-            173,
-            178,
-            179,
-            184,
-            185,
-            196,
-            197,
-            198,
-            199,
-            200,
-            201,
-            202,
-            203,
-            204,
-            205,
-            206,
-            207,
-            208,
-            209,
-            214,
-            215,
-            220,
-            221,
+            20, 21, 26, 27, 32, 33, 38, 39, 40, 41, 42, 43, 44, 45, 56, 57, 62,
+            63, 68, 69, 74, 75, 76, 77, 78, 79, 80, 81, 92, 93, 98, 99, 112,
+            113, 128, 129, 134, 135, 148, 149, 160, 161, 162, 163, 164, 165,
+            166, 167, 168, 169, 170, 171, 172, 173, 178, 179, 184, 185, 196,
+            197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209,
+            214, 215, 220, 221,
           ];
         }
       } catch (error) {
@@ -7309,9 +7241,8 @@ module.exports = /******/ (() => {
         Object.keys(protocols).forEach(function (scheme) {
           var protocol = scheme + ":";
           var nativeProtocol = (nativeProtocols[protocol] = protocols[scheme]);
-          var wrappedProtocol = (exports[scheme] = Object.create(
-            nativeProtocol
-          ));
+          var wrappedProtocol = (exports[scheme] =
+            Object.create(nativeProtocol));
 
           // Executes a request, following redirects
           function request(input, options, callback) {
@@ -7750,8 +7681,10 @@ module.exports = /******/ (() => {
       var $replace = bind.call(Function.call, String.prototype.replace);
 
       /* adapted from https://github.com/lodash/lodash/blob/4.17.15/dist/lodash.js#L6735-L6744 */
-      var rePropName = /[^%.[\]]+|\[(?:(-?\d+(?:\.\d+)?)|(["'])((?:(?!\2)[^\\]|\\.)*?)\2)\]|(?=(?:\.|\[\])(?:\.|\[\]|%$))/g;
-      var reEscapeChar = /\\(\\)?/g; /** Used to match backslashes in property paths. */
+      var rePropName =
+        /[^%.[\]]+|\[(?:(-?\d+(?:\.\d+)?)|(["'])((?:(?!\2)[^\\]|\\.)*?)\2)\]|(?=(?:\.|\[\])(?:\.|\[\]|%$))/g;
+      var reEscapeChar =
+        /\\(\\)?/g; /** Used to match backslashes in property paths. */
       var stringToPath = function stringToPath(string) {
         var result = [];
         $replace(
@@ -8900,82 +8833,12 @@ module.exports = /******/ (() => {
           (supportsColor.stderr || supportsColor).level >= 2
         ) {
           exports.colors = [
-            20,
-            21,
-            26,
-            27,
-            32,
-            33,
-            38,
-            39,
-            40,
-            41,
-            42,
-            43,
-            44,
-            45,
-            56,
-            57,
-            62,
-            63,
-            68,
-            69,
-            74,
-            75,
-            76,
-            77,
-            78,
-            79,
-            80,
-            81,
-            92,
-            93,
-            98,
-            99,
-            112,
-            113,
-            128,
-            129,
-            134,
-            135,
-            148,
-            149,
-            160,
-            161,
-            162,
-            163,
-            164,
-            165,
-            166,
-            167,
-            168,
-            169,
-            170,
-            171,
-            172,
-            173,
-            178,
-            179,
-            184,
-            185,
-            196,
-            197,
-            198,
-            199,
-            200,
-            201,
-            202,
-            203,
-            204,
-            205,
-            206,
-            207,
-            208,
-            209,
-            214,
-            215,
-            220,
-            221,
+            20, 21, 26, 27, 32, 33, 38, 39, 40, 41, 42, 43, 44, 45, 56, 57, 62,
+            63, 68, 69, 74, 75, 76, 77, 78, 79, 80, 81, 92, 93, 98, 99, 112,
+            113, 128, 129, 134, 135, 148, 149, 160, 161, 162, 163, 164, 165,
+            166, 167, 168, 169, 170, 171, 172, 173, 178, 179, 184, 185, 196,
+            197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209,
+            214, 215, 220, 221,
           ];
         }
       } catch (error) {} // Swallow - we only care if `supports-color` is available; it doesn't have to be.
@@ -9605,9 +9468,10 @@ module.exports = /******/ (() => {
         if (str.length > 100) {
           return;
         }
-        var match = /^(-?(?:\d+)?\.?\d+) *(milliseconds?|msecs?|ms|seconds?|secs?|s|minutes?|mins?|m|hours?|hrs?|h|days?|d|weeks?|w|years?|yrs?|y)?$/i.exec(
-          str
-        );
+        var match =
+          /^(-?(?:\d+)?\.?\d+) *(milliseconds?|msecs?|ms|seconds?|secs?|s|minutes?|mins?|m|hours?|hrs?|h|days?|d|weeks?|w|years?|yrs?|y)?$/i.exec(
+            str
+          );
         if (!match) {
           return;
         }
@@ -10256,13 +10120,15 @@ module.exports = /******/ (() => {
 
         // html4
         if (!res && str) {
-          res = /<meta[\s]+?http-equiv=(['"])content-type\1[\s]+?content=(['"])(.+?)\2/i.exec(
-            str
-          );
-          if (!res) {
-            res = /<meta[\s]+?content=(['"])(.+?)\1[\s]+?http-equiv=(['"])content-type\3/i.exec(
+          res =
+            /<meta[\s]+?http-equiv=(['"])content-type\1[\s]+?content=(['"])(.+?)\2/i.exec(
               str
             );
+          if (!res) {
+            res =
+              /<meta[\s]+?content=(['"])(.+?)\1[\s]+?http-equiv=(['"])content-type\3/i.exec(
+                str
+              );
             if (res) {
               res.pop(); // drop last quote
             }
@@ -13453,8 +13319,10 @@ module.exports = /******/ (() => {
       var $replace = bind.call(Function.call, String.prototype.replace);
 
       /* adapted from https://github.com/lodash/lodash/blob/4.17.15/dist/lodash.js#L6735-L6744 */
-      var rePropName = /[^%.[\]]+|\[(?:(-?\d+(?:\.\d+)?)|(["'])((?:(?!\2)[^\\]|\\.)*?)\2)\]|(?=(?:\.|\[\])(?:\.|\[\]|%$))/g;
-      var reEscapeChar = /\\(\\)?/g; /** Used to match backslashes in property paths. */
+      var rePropName =
+        /[^%.[\]]+|\[(?:(-?\d+(?:\.\d+)?)|(["'])((?:(?!\2)[^\\]|\\.)*?)\2)\]|(?=(?:\.|\[\])(?:\.|\[\]|%$))/g;
+      var reEscapeChar =
+        /\\(\\)?/g; /** Used to match backslashes in property paths. */
       var stringToPath = function stringToPath(string) {
         var result = [];
         $replace(
@@ -13740,11 +13608,15 @@ module.exports = /******/ (() => {
 
       module.exports = function shimReplaceAll() {
         var polyfill = getPolyfill();
-        define(String.prototype, { replaceAll: polyfill }, {
-          replaceAll: function () {
-            return String.prototype.replaceAll !== polyfill;
-          },
-        });
+        define(
+          String.prototype,
+          { replaceAll: polyfill },
+          {
+            replaceAll: function () {
+              return String.prototype.replaceAll !== polyfill;
+            },
+          }
+        );
         return polyfill;
       };
 
