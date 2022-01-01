@@ -84606,8 +84606,12 @@ LimitTypes取值范围：
           for (let k = 0; k < enKeys.length; k++) {
             const nowTranslateTime = Date.now();
             const diffTranslateTime = nowTranslateTime - startTime;
+            console.log('diffTranslateTime',diffTranslateTime);
+            
             const shouldTranslateStop =
               diffTranslateTime > totalTimeout * 60 * 1000;
+              console.log('shouldTranslateStop',shouldTranslateStop);
+              
 
             if (totalTimeout > 0 && shouldTranslateStop) {
               break;
