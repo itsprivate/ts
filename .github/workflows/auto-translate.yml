@@ -43,7 +43,7 @@ jobs:
           provider: deepl
           secret_id: ${{ secrets.TENCENT_TRANSLATION_SECRET_ID }}
           secret_key: ${{ secrets.TENCENT_TRANSLATION_SECRET_KEY }}
-          timeout: 1
+          timeout: ${{ github.event.inputs.timeout || '-1'}}
       - name: Sync to source
         uses: actions/github-script@v3
         with:
