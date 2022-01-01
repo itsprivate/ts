@@ -306,10 +306,11 @@ module.exports = /******/ (() => {
         // console.log("allFiles", allFiles);
         console.log("totalTimeout", totalTimeout);
         for (let i = 0; i < allFiles.length; i++) {
+          console.log("file",i);
           const nowTime = Date.now();
           const diff = nowTime - startTime;
           console.log("diff", diff);
-          const shouldStop = diff > totalTimeout * 60 * 1000;
+          const shouldStop = diff > 1 * 60 * 1000;
           console.log("shouldStop", shouldStop);
 
           if (totalTimeout > 0 && shouldStop) {
