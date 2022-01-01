@@ -30,12 +30,6 @@ async function main() {
     },
   };
 
-  const client = new TmtClient(clientConfig);
-  const deeplClient = new DeeplClient();
-  const clientMap = {
-    tencent: client,
-    deepl: deeplClient,
-  };
   const locales = ["zh", "ja"];
   const allFiles = await getFiles("./i18n/post-resource/en");
   // console.log("allFiles", allFiles);
@@ -104,6 +98,12 @@ async function main() {
       );
       const tempZhHantObj = JSON.parse(tempZhHantTargetJSON);
       let isZhHantChanged = false;
+      const client = new TmtClient(clientConfig);
+      const deeplClient = new DeeplClient();
+      const clientMap = {
+        tencent: client,
+        deepl: deeplClient,
+      };
       for (let k = 0; k < enKeys.length; k++) {
         const nowTranslateTime = Date.now();
         const diffTranslateTime = nowTranslateTime - startTime;

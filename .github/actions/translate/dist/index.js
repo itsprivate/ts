@@ -84523,12 +84523,6 @@ LimitTypes取值范围：
         },
       };
 
-      const client = new TmtClient(clientConfig);
-      const deeplClient = new DeeplClient();
-      const clientMap = {
-        tencent: client,
-        deepl: deeplClient,
-      };
       const locales = ["zh", "ja"];
       const allFiles = await getFiles("./i18n/post-resource/en");
       // console.log("allFiles", allFiles);
@@ -84603,15 +84597,20 @@ LimitTypes取值范围：
           );
           const tempZhHantObj = JSON.parse(tempZhHantTargetJSON);
           let isZhHantChanged = false;
+          const client = new TmtClient(clientConfig);
+          const deeplClient = new DeeplClient();
+          const clientMap = {
+            tencent: client,
+            deepl: deeplClient,
+          };
           for (let k = 0; k < enKeys.length; k++) {
             const nowTranslateTime = Date.now();
             const diffTranslateTime = nowTranslateTime - startTime;
-            console.log('diffTranslateTime',diffTranslateTime);
-            
+            console.log("diffTranslateTime", diffTranslateTime);
+
             const shouldTranslateStop =
               diffTranslateTime > totalTimeout * 60 * 1000;
-              console.log('shouldTranslateStop',shouldTranslateStop);
-              
+            console.log("shouldTranslateStop", shouldTranslateStop);
 
             if (totalTimeout > 0 && shouldTranslateStop) {
               break;
