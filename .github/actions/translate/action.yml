@@ -12,7 +12,7 @@ inputs:
   timeout:
     description: "time out",
     required: false
-    default: -1
+    default: "-1"
   provider:
     description: provider
     required: true
