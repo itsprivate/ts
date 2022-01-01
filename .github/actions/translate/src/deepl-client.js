@@ -48,6 +48,7 @@ module.exports = class DeeplClient {
   async quit() {
     if (this.page) {
       this.page.close().catch(() => {});
+      this.page = null;
     }
     if (browser) await browser.close();
   }

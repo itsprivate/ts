@@ -11,8 +11,10 @@ const githubWorkspace =
   process.env.GITHUB_WORKSPACE || path.resolve(__dirname, "../../../../");
 async function main() {
   let startTime = Date.now();
-  const totalTimeout = parseInt(core.getInput("timeout"));
-
+  let totalTimeout = parseInt(core.getInput("timeout"));
+  if (isNaN(totalTimeout)) {
+    totalTimeout = 1 * 60 * 60 * 1000;
+  }
   const TmtClient = tencentcloud.tmt.v20180321.Client;
   const provider = core.getInput("provider") || "tencent";
   const clientConfig = {
@@ -103,6 +105,13 @@ async function main() {
       const tempZhHantObj = JSON.parse(tempZhHantTargetJSON);
       let isZhHantChanged = false;
       for (let k = 0; k < enKeys.length; k++) {
+        const nowTranslateTime = Date.now();
+        const diffTranslateTime = nowTranslateTime - startTime;
+        const shouldTranslateStop = diffTranslateTime > 1 * 60 * 1000;
+
+        if (totalTimeout > 0 && shouldTranslateStop) {
+          break;
+        }
         const key = enKeys[k];
         const value = enSourceObj[key];
         if (value && targetObj[key] === undefined) {
@@ -135,7 +144,8 @@ async function main() {
             if (provider === "deepl") {
               await deeplClient.quit();
             }
-            throw error;
+            // throw error;
+            break;
           }
         }
       }

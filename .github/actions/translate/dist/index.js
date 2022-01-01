@@ -279,7 +279,10 @@ module.exports = /******/ (() => {
         process.env.GITHUB_WORKSPACE || path.resolve(__dirname, "../../../../");
       async function main() {
         let startTime = Date.now();
-        const totalTimeout = parseInt(core.getInput("timeout"));
+        let totalTimeout = parseInt(core.getInput("timeout"));
+        if (isNaN(totalTimeout)) {
+          totalTimeout = 1 * 60 * 60 * 1000;
+        }
         const TmtClient = tencentcloud.tmt.v20180321.Client;
         const provider = core.getInput("provider") || "tencent";
         const clientConfig = {
@@ -304,18 +307,7 @@ module.exports = /******/ (() => {
         const locales = ["zh", "ja"];
         const allFiles = await getFiles("./i18n/post-resource/en");
         // console.log("allFiles", allFiles);
-        console.log("totalTimeout", totalTimeout);
         for (let i = 0; i < allFiles.length; i++) {
-          console.log("file", i);
-          const nowTime = Date.now();
-          const diff = nowTime - startTime;
-          console.log("diff", diff);
-          const shouldStop = diff > 1 * 60 * 1000;
-          console.log("shouldStop", shouldStop);
-
-          if (totalTimeout > 0 && shouldStop) {
-            break;
-          }
           const file = allFiles[i];
           const enSourceObj = require(`${githubWorkspace}/${file}`);
 
@@ -381,12 +373,9 @@ module.exports = /******/ (() => {
             const tempZhHantObj = JSON.parse(tempZhHantTargetJSON);
             let isZhHantChanged = false;
             for (let k = 0; k < enKeys.length; k++) {
-              console.log("file", i);
               const nowTranslateTime = Date.now();
               const diffTranslateTime = nowTranslateTime - startTime;
-              console.log("diffTranslateTime", diffTranslateTime);
               const shouldTranslateStop = diffTranslateTime > 1 * 60 * 1000;
-              console.log("shouldTranslateStop", shouldTranslateStop);
 
               if (totalTimeout > 0 && shouldTranslateStop) {
                 break;
