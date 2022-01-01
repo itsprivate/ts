@@ -107,7 +107,8 @@ async function main() {
       for (let k = 0; k < enKeys.length; k++) {
         const nowTranslateTime = Date.now();
         const diffTranslateTime = nowTranslateTime - startTime;
-        const shouldTranslateStop = diffTranslateTime > 1 * 60 * 1000;
+        const shouldTranslateStop =
+          diffTranslateTime > totalTimeout * 60 * 1000;
 
         if (totalTimeout > 0 && shouldTranslateStop) {
           break;
