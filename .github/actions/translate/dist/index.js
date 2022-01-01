@@ -55,7 +55,7 @@ module.exports = /******/ (() => {
           // console.log("setence", source, target, setence);
           return await translate(this.page, setence, source, target).then(
             (data) => {
-              console.log("result", data.target.translation);
+              // console.log("result", data.target.translation);
               return {
                 TargetText: data.target.translation,
               };
