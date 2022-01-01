@@ -1,6 +1,11 @@
 name: Auto translate
 on:
   workflow_dispatch:
+    inputs:
+      timeout:
+        description: "--timeout: minutes"
+        required: false
+        default: "-1"
   # schedule:
   #   - cron: "45 */2 * * *"
   push:
