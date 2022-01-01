@@ -154,6 +154,9 @@ async function main() {
 
       // if changed
       if (isChanged) {
+        if (provider === "deepl") {
+          await deeplClient.quit();
+        }
         // write
         console.log(`Write ${targetAbsoluteFilePath}`);
         await fs.writeFile(
