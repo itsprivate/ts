@@ -10,6 +10,9 @@ const { resolve, relative } = path;
 const githubWorkspace =
   process.env.GITHUB_WORKSPACE || path.resolve(__dirname, "../../../../");
 async function main() {
+  let startTime = Date.now();
+  const totalTimeout = parseInt(core.getInput("timeout"));
+
   const TmtClient = tencentcloud.tmt.v20180321.Client;
   const provider = core.getInput("provider") || "tencent";
   const clientConfig = {
@@ -36,6 +39,11 @@ async function main() {
   // console.log("allFiles", allFiles);
 
   for (let i = 0; i < allFiles.length; i++) {
+    const nowTime = Date.now();
+    if (totalTimeout > 0 && nowTime - startTime > totalTimeout * 60 * 1000) {
+      break;
+    }
+
     const file = allFiles[i];
     const enSourceObj = require(`${githubWorkspace}/${file}`);
 

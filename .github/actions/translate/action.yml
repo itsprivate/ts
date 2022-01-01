@@ -9,6 +9,10 @@ inputs:
     description: "Who to greet"
     required: true
     default: "World"
+  timeout:
+    description: "time out",
+    required: false
+    default: -1
   provider:
     description: provider
     required: true
