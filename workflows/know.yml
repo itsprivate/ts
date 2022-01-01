@@ -7,6 +7,7 @@ on:
     config:
       # limit: 2
       # force: true
+      active: false
       outputsMode: combine
       exportOutputs: true
       filterScript: |

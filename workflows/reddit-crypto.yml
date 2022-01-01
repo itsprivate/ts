@@ -12,7 +12,7 @@ on:
       outputsMode: combine
       exportOutputs: true
       filterScript: |
-        if(item.score>150){
+        if(item.score>300){
           return true
         }
       format: |
