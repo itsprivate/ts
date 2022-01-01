@@ -306,7 +306,7 @@ module.exports = /******/ (() => {
         // console.log("allFiles", allFiles);
         console.log("totalTimeout", totalTimeout);
         for (let i = 0; i < allFiles.length; i++) {
-          console.log("file",i);
+          console.log("file", i);
           const nowTime = Date.now();
           const diff = nowTime - startTime;
           console.log("diff", diff);
@@ -381,6 +381,16 @@ module.exports = /******/ (() => {
             const tempZhHantObj = JSON.parse(tempZhHantTargetJSON);
             let isZhHantChanged = false;
             for (let k = 0; k < enKeys.length; k++) {
+              console.log("file", i);
+              const nowTranslateTime = Date.now();
+              const diffTranslateTime = nowTranslateTime - startTime;
+              console.log("diffTranslateTime", diffTranslateTime);
+              const shouldTranslateStop = diffTranslateTime > 1 * 60 * 1000;
+              console.log("shouldTranslateStop", shouldTranslateStop);
+
+              if (totalTimeout > 0 && shouldTranslateStop) {
+                break;
+              }
               const key = enKeys[k];
               const value = enSourceObj[key];
               if (value && targetObj[key] === undefined) {
@@ -413,7 +423,7 @@ module.exports = /******/ (() => {
                   if (provider === "deepl") {
                     await deeplClient.quit();
                   }
-                  throw error;
+                  // throw error;
                 }
               }
             }
