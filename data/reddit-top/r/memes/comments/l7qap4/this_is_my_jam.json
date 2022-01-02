@@ -92,5 +92,15 @@
   "is_self": false,
   "media": null,
   "is_video": false,
-  "source_updated_at": 1612518506204
+  "source_updated_at": 1612518506204,
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "这是我的果酱"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是我的果醬"
+    }
+  ]
 }
