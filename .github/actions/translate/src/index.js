@@ -201,7 +201,7 @@ async function main() {
         try {
           const data = await translate({
             provider,
-            client,
+            client: null,
             sourceText: value,
             source: "zh",
             target: "zh-Hant",

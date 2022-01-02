@@ -84703,7 +84703,7 @@ LimitTypes取值范围：
             try {
               const data = await translate({
                 provider,
-                client,
+                client: null,
                 sourceText: value,
                 source: "zh",
                 target: "zh-Hant",

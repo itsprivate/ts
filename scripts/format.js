@@ -17,6 +17,7 @@ function format(type, item) {
       original_created_utc,
       source_updated_at,
       author,
+      over_18,
     } = item;
     return {
       author,
@@ -35,6 +36,7 @@ function format(type, item) {
       media,
       is_video,
       source_updated_at,
+      sensitive: over_18,
     };
   } else if (type === "hn") {
     const {
