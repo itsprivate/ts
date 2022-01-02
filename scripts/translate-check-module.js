@@ -1,11 +1,14 @@
 // check files validate
-const { resolve, relative } = require("path");
+const { resolve, relative, basename } = require("path");
 const fsPure = require("fs");
 const https = require("https");
 const fs = fsPure.promises;
 const { readdir, readFile } = fs;
+const githubWorkspace =
+  process.env.GITHUB_WORKSPACE || resolve(__dirname, "../");
 const main = async () => {
   const files = await getFiles("./i18n");
+  let untranslatedCount = 0;
   for (let i = 0; i < files.length; i++) {
     if (files[i].endsWith(".json")) {
       const jsonPath = resolve(__dirname, "../", files[i]);
@@ -28,6 +31,62 @@ const main = async () => {
       }
     }
   }
+
+  // check untranslated count
+  const locales = ["zh", "ja"];
+  const allFiles = await getFiles("./i18n/post-resource/en");
+  // console.log("allFiles", allFiles);
+
+  for (let i = 0; i < allFiles.length; i++) {
+    const file = allFiles[i];
+
+    const enSourceObj = require(`${githubWorkspace}/${file}`);
+
+    const filename = basename(file, ".json");
+    for (let j = 0; j < locales.length; j++) {
+      const locale = locales[j];
+
+      // skip for ja-JA before 202104
+      const filenameArr = filename.split("_--_");
+      if (filenameArr.length < 4) {
+        throw new Error(`file name invalid: ${filename}`);
+      }
+      // console.log("filenameArr", filenameArr);
+
+      const yearField = filenameArr[3];
+      const monthField = filenameArr[4];
+      const year = Number(yearField);
+      const month = Number(monthField);
+
+      if (locale === "ja" && (year < 2021 || (year === 2021 && month < 4))) {
+        continue;
+      }
+      const targetFilePath = `i18n/post-resource/${locale}/${filename}.json`;
+
+      const targetAbsoluteFilePath = resolve(githubWorkspace, targetFilePath);
+      // console.log("targetAbsoluteFilePath", targetAbsoluteFilePath);
+
+      const ifLocaleFileExist = fsPure.existsSync(targetAbsoluteFilePath);
+
+      const targetJSON = ifLocaleFileExist
+        ? await fs.readFile(targetAbsoluteFilePath, "utf8")
+        : "{}";
+      const targetObj = JSON.parse(targetJSON);
+      // check
+      const enKeys = Object.keys(enSourceObj);
+      let isChanged = false;
+
+      for (let k = 0; k < enKeys.length; k++) {
+        const key = enKeys[k];
+        const value = enSourceObj[key];
+        if (value && targetObj[key] === undefined) {
+          isChanged = true;
+          untranslatedCount++;
+        }
+      }
+    }
+  }
+  console.log("untranslatedCount: ", untranslatedCount);
 };
 module.exports = main;
 function sleep(time) {
