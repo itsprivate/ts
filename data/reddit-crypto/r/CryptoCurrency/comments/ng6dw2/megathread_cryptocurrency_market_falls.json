@@ -58,5 +58,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "source_updated_at": 1621590801370
+  "source_updated_at": 1621590801370,
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "暗号通貨市場全体が、ここ1日で大きく下落しました。\n\n\nニュース記事\n\n * https://www.marketwatch.com/story/bitcoin-tumbles-below-40-000-after-china-issues-crypto-warning-11621411944\n * https://www.cnn.com/2021/05/19/investing/bitcoin-price-drop-china-crypto-intl..."
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "整个加密货币市场在过去一天大幅下跌。\n\n\n新闻文章\n\n * https://www.marketwatch.com/story/bitcoin-tumbles-below-40-000-after-china-issues-crypto-warning-11621411944\n * https://www.cnn.com/2021/05/19/investing/bitcoin-price-drop-china-crypto-intl..."
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "整個加密貨幣市場在過去一天大幅下跌。\n\n\n新聞文章\n\n * https://www.marketwatch.com/story/bitcoin-tumbles-below-40-000-after-china-issues-crypto-warning-11621411944\n * https://www.cnn.com/2021/05/19/investing/bitcoin-price-drop-china-crypto-intl..."
+    }
+  ]
 }

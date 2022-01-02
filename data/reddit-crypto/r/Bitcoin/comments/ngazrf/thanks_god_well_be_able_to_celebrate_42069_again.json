@@ -12,5 +12,19 @@
   "is_self": true,
   "media": null,
   "is_video": false,
-  "source_updated_at": 1621590795293
+  "source_updated_at": 1621590795293,
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "パーティーの予定は？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "有什么聚会计划吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "有什麼聚會計劃嗎？"
+    }
+  ]
 }
