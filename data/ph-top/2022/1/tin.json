@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-02T08:35:30Z"
+  "original_createdAt": "2022-01-02T08:35:30Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Tinは、手動で環境を設定することなく、瞬時に実行可能なアプリケーションを生成できるTeamCodeの製品です。",
+      "tagline": "実行可能なアプリケーションを即座に生成"
+    },
+    {
+      "locale": "zh",
+      "description": "Tin是TeamCode的一个产品，可以即时生成可执行的应用程序，而不需要手动配置环境。",
+      "tagline": "即时生成可执行的应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Tin是TeamCode的一個產品，可以即時生成可執行的應用程序，而不需要手動配置環境。",
+      "tagline": "即時生成可執行的應用程序"
+    }
+  ]
 }
