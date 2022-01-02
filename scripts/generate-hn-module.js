@@ -4,7 +4,7 @@ const fs = fsPure.promises;
 const getMeta = require("./get-metadata");
 const { symlink, mkdir } = fs;
 const { existsSync } = fsPure;
-const { dirname, relative } = path;
+const { dirname, relative, resolve } = path;
 const main = async ({ dest = "data/hn-top", name = "hn-top" } = {}) => {
   const outputs = require(`${process.env.GITHUB_WORKSPACE}/${process.env.OUTPUTS_PATH}`);
   for (let i = 0; i < outputs.length; i++) {
