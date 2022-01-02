@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "世の中の食べられないものが、一瞬で食べられるようになる。最初に食べるものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "世界上所有不能吃的东西都会立刻变成可以吃的。你第一个吃的东西是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "世界上所有不能喫的東西都會立刻變成可以喫的。你第一個喫的東西是什麼？"
+    }
+  ]
 }
