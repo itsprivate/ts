@@ -10,6 +10,7 @@ on:
       - count: 200
         screen_name: spectatorindex
     config:
+      active: false
       # force: true
       every: "35 * * * *"
       exportOutputs: true
