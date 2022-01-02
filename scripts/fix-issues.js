@@ -9,28 +9,20 @@ async function main() {
   const jsonFiles = micromatch(files, "data/*-issues/**/*.json");
   for (let i = 0; i < jsonFiles.length; i++) {
     const jsonPath = resolve(__dirname, "../", jsonFiles[i]);
+    const thedirname = jsonFiles[i].split("/")[1];
     // console.log("jsonPath", jsonPath);
     const jsonString = await readFile(jsonPath, "utf8");
     let jsonContent = JSON.parse(jsonString);
 
-    if (jsonContent) {
+    if (jsonContent.id) {
       // console.log("Empty file found");
       // console.log(jsonPath);
-      if (jsonContent.items) {
-        let isChanged = false;
-        for (let j = 0; j < jsonContent.items.length; j++) {
-          // console.log("jsonContent.items[j].slug", jsonContent.items[j].slug);
+      let isChanged = true;
+      jsonContent.id = thedirname + "-" + jsonContent.id;
+      if (isChanged) {
+        console.log("write", jsonPath, jsonContent.id);
 
-          if (!jsonContent.items[j].slug.endsWith("/")) {
-            isChanged = true;
-            jsonContent.items[j].slug = jsonContent.items[j].slug + "/";
-          }
-        }
-        if (isChanged) {
-          console.log("write", jsonPath);
-
-          await writeFile(jsonPath, JSON.stringify(jsonContent, null, 2));
-        }
+        await writeFile(jsonPath, JSON.stringify(jsonContent, null, 2));
       }
     }
   }

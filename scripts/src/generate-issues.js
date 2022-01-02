@@ -57,22 +57,14 @@ async function main() {
       },
       sort: "group",
     },
-    {
-      folders: ["data/reddit-changemyview"],
-      issueDir: "data/reddit-changemyview-issues",
-      config: {
-        reddit: 20,
-      },
-      sort: "simple",
-    },
-    {
-      folders: ["data/reddit-ask"],
-      issueDir: "data/reddit-ask-issues",
-      config: {
-        reddit: 20,
-      },
-      sort: "group",
-    },
+    // {
+    //   folders: ["data/reddit-changemyview"],
+    //   issueDir: "data/reddit-changemyview-issues",
+    //   config: {
+    //     reddit: 20,
+    //   },
+    //   sort: "simple",
+    // },
     {
       folders: ["data/reddit-ask"],
       issueDir: "data/reddit-ask-issues",
@@ -306,7 +298,7 @@ async function main() {
         updatedAt: now,
         startedAt: currentIssueStartedAt,
         endedAt: currentIssueEndedAt,
-        id: currentIssueNumber,
+        id: basename(issuesDirRelative) + "-" + currentIssueNumber,
         issueNumber: currentIssueNumber,
         year: currentYear,
         draft: false,
