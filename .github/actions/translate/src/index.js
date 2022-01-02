@@ -132,7 +132,7 @@ async function main() {
 
               const tempZhHantData = await translate({
                 provider,
-                client,
+                client: null,
                 sourceText: targetObj[key],
                 source: "zh",
                 target: "zh-Hant",
@@ -262,7 +262,7 @@ async function main() {
       if (value) {
         isChanged = true;
         const data = await translate({
-          client,
+          client: null,
           provider,
           sourceText: value,
           source: "zh",
@@ -279,10 +279,6 @@ async function main() {
 
       await fs.writeFile(finalFile, JSON.stringify(localeTitle, null, 2));
     }
-  }
-  // clean
-  if (provider === "deepl") {
-    await deeplClient.quit();
   }
 }
 async function getFiles(dir) {

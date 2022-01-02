@@ -84634,7 +84634,7 @@ LimitTypes取值范围：
 
                   const tempZhHantData = await translate({
                     provider,
-                    client,
+                    client: null,
                     sourceText: targetObj[key],
                     source: "zh",
                     target: "zh-Hant",
