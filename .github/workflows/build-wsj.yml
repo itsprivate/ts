@@ -1,4 +1,4 @@
-name: Build wsj Site
+name: wsj
 on:
   workflow_dispatch:
   push:
@@ -16,5 +16,6 @@ jobs:
         uses: peter-evans/repository-dispatch@v1
         with:
           token: ${{ secrets.PERSONAL_TOKEN }}
-          repository: itsprivate/wsj
+          repository: itsprivate/universe
           event-type: redeploy
+          client-payload: '{"project": "${{github.workflow}}"}'

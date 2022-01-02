@@ -1,13 +1,13 @@
 name: Build books Site
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - main
-    paths:
-      - "content/**"
-      - "i18n/i18next/zh/**"
-      - "i18n/post-resource/zh/reddit_--_reddit-books*.json"
+  # push:
+  #   branches:
+  #     - main
+  #   paths:
+  #     - "content/**"
+  #     - "i18n/i18next/zh/**"
+  #     - "i18n/post-resource/zh/reddit_--_reddit-books*.json"
 jobs:
   run:
     runs-on: ubuntu-latest

@@ -71,7 +71,7 @@ async function main() {
       config: {
         reddit: 20,
       },
-      sort: "group",
+      sort: "simple",
     },
   ];
   const now = Date.now();
