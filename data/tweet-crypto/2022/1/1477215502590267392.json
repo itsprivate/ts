@@ -74,5 +74,22 @@
     "retweet_count": 6407,
     "favorite_count": 27727,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @joerogan: 写真を投稿しました https://t.co/B7diwplNlq",
+      "retweeted_status_full_text": "写真を掲載したところ https://t.co/B7diwplNlq"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @joerogan: 刚刚发布了一张照片https://t.co/B7diwplNlq。",
+      "retweeted_status_full_text": "刚刚发布了一张照片https://t.co/B7diwplNlq"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @joerogan: 剛剛發佈了一張照片https://t.co/B7diwplNlq。",
+      "retweeted_status_full_text": "剛剛發佈了一張照片https://t.co/B7diwplNlq"
+    }
+  ]
 }

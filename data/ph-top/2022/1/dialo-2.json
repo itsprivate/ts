@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-02T08:30:03Z"
+  "original_createdAt": "2022-01-02T08:30:03Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "QRコードやショートリンクで簡単にデジタル名刺をデザインし、共有することができます。連絡先アプリに直接、他の人の名刺を追加できます。",
+      "tagline": "デジタル名刺をデザインする"
+    },
+    {
+      "locale": "zh",
+      "description": "轻松设计并通过QR码和短链接分享你的数字名片。将他人的Dialo直接添加到你的联系人应用程序。",
+      "tagline": "设计你的数字名片"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "輕鬆設計並通過QR碼和短鏈接分享你的數字名片。將他人的Dialo直接添加到你的聯繫人應用程序。",
+      "tagline": "設計你的數字名片"
+    }
+  ]
 }
