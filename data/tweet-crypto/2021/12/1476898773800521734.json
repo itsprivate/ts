@@ -1,0 +1,113 @@
+{
+  "created_at": "Sun Jan 02 17:46:45 +0000 2022",
+  "id_str": "1476898773800521734",
+  "full_text": "RT @adam3us: i am curious if people commenting on s2f know that price volatility is typically calculated as standard deviation, or standard…",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "adam3us",
+        "name": "Adam Back",
+        "id": 213236426,
+        "id_str": "213236426",
+        "indices": [
+          3,
+          11
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "user": {
+    "name": "PlanB",
+    "screen_name": "100trillionUSD",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407223894600302594/gBUVNH89_normal.jpg"
+  },
+  "retweet_count": 153,
+  "favorite_count": 0,
+  "original_created_at": "Fri Dec 31 12:51:21 +0000 2021",
+  "retweeted_status": {
+    "created_at": "Fri Dec 31 12:37:34 +0000 2021",
+    "id_str": "1476895304783904770",
+    "full_text": "i am curious if people commenting on s2f know that price volatility is typically calculated as standard deviation, or standard deviation of natural log (aka LN). given annualized #bitcoin volatility .BVOL = 90% or higher at times https://t.co/4j5YUzafeN https://t.co/rlPR7HJKrm",
+    "display_text_range": [
+      0,
+      253
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "bitcoin",
+          "indices": [
+            179,
+            187
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/4j5YUzafeN",
+          "expanded_url": "https://www.bitmex.com/app/index/.BVOL",
+          "display_url": "bitmex.com/app/index/.BVOL",
+          "indices": [
+            230,
+            253
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1476895110260535300,
+          "id_str": "1476895110260535299",
+          "indices": [
+            254,
+            277
+          ],
+          "media_url": "http://pbs.twimg.com/media/FH78RyGXMAMOmzI.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FH78RyGXMAMOmzI.jpg",
+          "url": "https://t.co/rlPR7HJKrm",
+          "display_url": "pic.twitter.com/rlPR7HJKrm",
+          "expanded_url": "https://twitter.com/adam3us/status/1476895304783904770/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 478,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 816,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 271,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "user": {
+      "name": "Adam Back",
+      "screen_name": "adam3us",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1364645619705511936/IGTT_tnL_normal.jpg"
+    },
+    "retweet_count": 153,
+    "favorite_count": 1299,
+    "possibly_sensitive": false
+  }
+}
