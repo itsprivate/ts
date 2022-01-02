@@ -12,5 +12,21 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Someone had just found an exploit on\nAlgo&#39;s Tinyman liquidity pools for both goBTC and goETH. Some how they\nfigured it out and a bunch of projects have pulled their liquidity out to\nprotect it, Tinycharts for example, which I have stake in. </p>…"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>Someone had just found an exploit on\nAlgo&#39;s Tinyman liquidity pools for both goBTC and goETH. Some how they\nfigured it out and a bunch of projects have pulled their liquidity out to\nprotect it, Tinycharts for example, which I have stake in. </p>…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>ある人が、ちょうどその時\nAlgo&#39;s Tinyman liquidity pools for both goBTC and goETH. なぜか\n多くのプロジェクトが流動性を引き上げたのは、それが分かったからです。\n例えば、私が出資しているTinychartsは、それを守っています。</p>...",
+      "title": "TinymanのgoBTCとgoETHの流動性プールを流出させたものもあります。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>有人刚刚发现了一个利用\nAlgo&#39;的Tinyman流动性资金池，用于goBTC和goETH。他们如何\n他们发现了这个问题，而且有很多项目已经把他们的流动性撤出来以保护它。\n保护它，例如Tinycharts，我在其中有股份。</p>..."
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<! -- SC_OFF --><div class=\"md\"><p>有人剛剛發現了一個利用\nAlgo&#39;的Tinyman流動性資金池，用於goBTC和goETH。他們如何\n他們發現了這個問題，而且有很多項目已經把他們的流動性撤出來以保護它。\n保護它，例如Tinycharts，我在其中有股份。</p>...",
+      "title": "TinymanのgoBTCとgoETHの流動性プールを流出させたものもあります。"
+    }
+  ]
 }

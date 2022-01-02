@@ -12,5 +12,21 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I just bought. </p> <p>Let&#39;s start the\nyear right!</p> </div><!-- SC_ON -->"
+  "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I just bought. </p> <p>Let&#39;s start the\nyear right!</p> </div><!-- SC_ON -->",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "<!-- SC_OFF --><div class=\"md\"><p>I just bought. </p> <p>Let&#39;s start the\nyear right!</p> </div><!-- SC_ON -->",
+      "title": "では、今、誰が買っているのでしょうか？市場は疲弊し、Googleトレンドは低迷、Crypto Fear &amp; Greed Indexは「Extreme Fear」、小売は見向きもされない。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "<！--SC_OFF --><div class=\"md\"><p>我刚刚买了。</p> <p>Let&#39;s start the\nyear right!</p> </div><!-- SC_ON -->"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "<！--SC_OFF --><div class=\"md\"><p>我剛剛買了。</p> <p>Let&#39;s start the\nyear right!</p> </div><!-- SC_ON -->",
+      "title": "では、今、誰が買っているのでしょうか？市場は疲弊し、Googleトレンドは低迷、Crypto Fear &amp; Greed Indexは「Extreme Fear」、小売は見向きもされない。"
+    }
+  ]
 }
