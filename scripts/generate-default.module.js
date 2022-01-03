@@ -79,7 +79,9 @@ const main = async ({
           });
       });
     const targetLink = getTargetLink(type, item);
-    await createSymLink(hnFilePath, targetLink);
+    if (targetLink) {
+      await createSymLink(hnFilePath, targetLink);
+    }
     const title = item.title;
     let tags = item.tags || [];
 
@@ -180,6 +182,8 @@ function getTargetLink(fileType, json) {
     slug = `/${json.slug}/`;
   } else if (fileType == "tweet") {
     slug = `/${json.id_str}/`;
+  } else {
+    return null;
   }
   const targetPath = resolve(
     __dirname,
