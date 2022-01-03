@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "切り絵で作ったアニメーションです。"
+    },
+    {
+      "locale": "zh",
+      "title": "这个动画是用剪纸制作的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個動畫是用剪紙製作的。"
+    }
+  ]
 }
