@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "人気のブログプラットフォームでNotionのページを超簡単に公開できるツールを作りました"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个工具，使在流行的博客平台上发布Notion页面变得超级简单"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個工具，使在流行的博客平臺上發佈Notion頁面變得超級簡單"
+    }
+  ]
 }

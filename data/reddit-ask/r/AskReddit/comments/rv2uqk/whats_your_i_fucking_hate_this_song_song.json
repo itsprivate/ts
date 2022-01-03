@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの「この曲はクソ嫌い」な曲は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你的 \"我他妈的讨厌这首歌 \"是什么歌？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你的 \"我他媽的討厭這首歌 \"是什麼歌？"
+    }
+  ]
 }
