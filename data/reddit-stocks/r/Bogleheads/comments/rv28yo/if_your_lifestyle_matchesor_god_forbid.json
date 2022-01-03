@@ -103,5 +103,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1641218140,
-  "the_new_excerpt": "Not native english speaker. What does this saying actually means?"
+  "the_new_excerpt": "Not native english speaker. What does this saying actually means?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "英語は母国語ではありません。このことわざの本当の意味を教えてください。",
+      "title": "もし、あなたのライフスタイルがあなたの収入に見合うものであるなら、あるいは、もし、あなたが収入を上回るようなことがあれば、あなたは金ピカの奴隷に過ぎないのです。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "不是母语为英语的人。这句话到底是什么意思？",
+      "title": "如果你的生活方式与你的收入相匹配，或者上帝保佑，超过了你的收入，你就不过是一个镀金的奴隶。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "不是母語爲英語的人。這句話到底是什麼意思？",
+      "title": "如果你的生活方式與你的收入相匹配，或者上帝保佑，超過了你的收入，你就不過是一個鍍金的奴隸。"
+    }
+  ]
 }

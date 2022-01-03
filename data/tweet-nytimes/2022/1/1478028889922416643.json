@@ -113,5 +113,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Mon Jan 03 15:42:02 +0000 2022"
+  "original_created_at": "Mon Jan 03 15:42:02 +0000 2022",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "速報です。FDAは12歳から15歳までのファイザー社製バイオテックワクチンのブースターを許可しました。CDCは接種前に署名する予定。 https://t.co/LZo7bUwn50"
+    },
+    {
+      "locale": "zh",
+      "full_text": "突发新闻。美国食品和药物管理局批准为12至15岁的儿童提供辉瑞-生物技术公司的疫苗加强剂。预计CDC将在注射前签字。https://t.co/LZo7bUwn50"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "突發新聞。美國食品和藥物管理局批准爲12至15歲的兒童提供輝瑞-生物技術公司的疫苗加強劑。預計CDC將在注射前簽字。https://t.co/LZo7bUwn50"
+    }
+  ]
 }
