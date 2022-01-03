@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今まで乗らなかったお菓子は？"
+    },
+    {
+      "locale": "zh",
+      "title": "什么是你一直无法接受的糖果？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "什麼是你一直無法接受的糖果？"
+    }
+  ]
 }

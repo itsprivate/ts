@@ -66,5 +66,19 @@
   "retweet_count": 59,
   "favorite_count": 350,
   "possibly_sensitive": false,
-  "original_created_at": "Sun Jan 02 16:55:57 +0000 2022"
+  "original_created_at": "Sun Jan 02 16:55:57 +0000 2022",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "googlで検閲が行われている https://t.co/iiBadQlIya"
+    },
+    {
+      "locale": "zh",
+      "full_text": "在$googl正在进行审查 https://t.co/iiBadQlIya"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "在$googl正在進行審查 https://t.co/iiBadQlIya"
+    }
+  ]
 }

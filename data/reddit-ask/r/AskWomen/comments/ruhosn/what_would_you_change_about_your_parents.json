@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "両親のどこを変えたいですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你会改变你父母的什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你會改變你父母的什麼？"
+    }
+  ]
 }

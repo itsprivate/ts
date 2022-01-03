@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-03T08:01:00Z"
+  "original_createdAt": "2022-01-03T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "https://pika.rishimohan.me 無料・http://github.com/rishimohan/pika スクリーンショットを素早く美化するウェブアプリです。背景グラデーションの追加、影の調整、角丸の追加、間隔の調整などができます。PNGファイルとして保存したり、クリップボードにコピーすることができます。",
+      "tagline": "退屈なスクリーンショットを美しい共有可能な画像に変換"
+    },
+    {
+      "locale": "zh",
+      "description": "https://pika.rishimohan.me 免费和http://github.com/rishimohan/pika 网络应用，快速美化你的屏幕截图。你可以添加背景渐变，调整阴影，添加圆角，调整间距等等。你可以把图片保存为PNG文件或复制到剪贴板。",
+      "tagline": "把无聊的屏幕截图变成美丽的可分享图片"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "https://pika.rishimohan.me 免費和http://github.com/rishimohan/pika 網絡應用，快速美化你的屏幕截圖。你可以添加背景漸變，調整陰影，添加圓角，調整間距等等。你可以把圖片保存爲PNG文件或複製到剪貼板。",
+      "tagline": "把無聊的屏幕截圖變成美麗的可分享圖片"
+    }
+  ]
 }

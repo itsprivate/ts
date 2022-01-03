@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "地下鉄駅での乱闘騒ぎ"
+    },
+    {
+      "locale": "zh",
+      "title": "地铁站里的争吵"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "地鐵站裏的爭吵"
+    }
+  ]
 }

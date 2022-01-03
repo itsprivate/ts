@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "風邪の原因となるウイルスは、コビド菌のように体のどこかにダメージを残すのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "导致普通感冒的病毒是否像covid变种那样对身体的任何部分留下持久的损害？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "導致普通感冒的病毒是否像covid變種那樣對身體的任何部分留下持久的損害？"
+    }
+  ]
 }

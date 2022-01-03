@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-02T03:23:38Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--G_nIFYJ4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8vpfdrzwrkpd27ipah23.png",
   "author": "Tapajyoti Bose",
-  "author_url": "https://dev.to/ruppysuppy"
+  "author_url": "https://dev.to/ruppysuppy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "gitの基本的な使い方に慣れてきたけれども、高度な概念に辟易している方はいらっしゃいませんか？",
+      "title": "知っておくべきGitの高度な概念"
+    },
+    {
+      "locale": "zh",
+      "description": "你是否已经习惯了git的基础知识，但高级概念让你抓耳挠腮。",
+      "title": "你应该知道的高级Git概念"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你是否已經習慣了git的基礎知識，但高級概念讓你抓耳撓腮。",
+      "title": "你應該知道的高級Git概念"
+    }
+  ]
 }

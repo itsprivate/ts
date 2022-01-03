@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "現在、最もよく聴いているアーティストを教えてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "你目前最常听的艺术家是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你目前最常聽的藝術家是什麼？"
+    }
+  ]
 }

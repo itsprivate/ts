@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "MrBeastは、#teamseasのゴールを達成しました... このキャンペーンでは、600k以上の人が寄付をしました。"
+    },
+    {
+      "locale": "zh",
+      "title": "MrBeast已经完成了#teamseas的目标...。在这个活动中，有超过60万的人进行了捐款"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "MrBeast已經完成了#teamseas的目標...。在這個活動中，有超過60萬的人進行了捐款"
+    }
+  ]
 }

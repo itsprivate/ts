@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの「○○な人は信用できない」は？"
+    },
+    {
+      "locale": "zh",
+      "title": "你的 \"我不相信那些______\"的人是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你的 \"我不相信那些______\"的人是什麼？"
+    }
+  ]
 }

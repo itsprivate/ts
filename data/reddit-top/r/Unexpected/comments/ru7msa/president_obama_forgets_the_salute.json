@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "オバマ大統領、敬礼を忘れる"
+    },
+    {
+      "locale": "zh",
+      "title": "奥巴马总统忘了敬礼"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "奧巴馬總統忘了敬禮"
+    }
+  ]
 }
