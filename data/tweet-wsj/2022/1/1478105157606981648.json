@@ -41,5 +41,19 @@
   "retweet_count": 33,
   "favorite_count": 95,
   "possibly_sensitive": false,
-  "original_created_at": "Mon Jan 03 20:45:06 +0000 2022"
+  "original_created_at": "Mon Jan 03 20:45:06 +0000 2022",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "WSJopinionより。オミクロンの変異体は、以前のバージョンよりもはるかに致死率が低く、その急速な広がりは、最終的に群れ免疫に押し上げるかもしれないと、ロブ・アーノット氏は書いている https://t.co/jhN9Ioy5UT"
+    },
+    {
+      "locale": "zh",
+      "full_text": "来自@WSJopinion。Rob Arnott写道，Omicron变体的致命性远低于以前的版本，它的快速传播可能最终推动我们实现群体免疫，https://t.co/jhN9Ioy5UT"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "來自@WSJopinion。Rob Arnott寫道，Omicron變體的致命性遠低於以前的版本，它的快速傳播可能最終推動我們實現羣體免疫，https://t.co/jhN9Ioy5UT"
+    }
+  ]
 }

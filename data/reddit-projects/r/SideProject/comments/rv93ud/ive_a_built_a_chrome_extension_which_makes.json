@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私は、ハニークーポンを適用するように簡単に定期購読の解約通知を設定するクロームの拡張機能を構築しました。あなたの感想をお聞かせください。"
+    },
+    {
+      "locale": "zh",
+      "title": "我建立了一个chrome扩展，使设置取消订阅提醒像应用蜂蜜优惠券一样简单，它在chrome上已经有100个用户。很想听听你的想法？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我建立了一個chrome擴展，使設置取消訂閱提醒像應用蜂蜜優惠券一樣簡單，它在chrome上已經有100個用戶。很想聽聽你的想法？"
+    }
+  ]
 }
