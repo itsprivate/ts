@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-02T10:02:57Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TGKB6taX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9ryct3yfl56142s4i5vr.png",
   "author": "Alex Menor",
-  "author_url": "https://dev.to/alexmenor"
+  "author_url": "https://dev.to/alexmenor",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Typescript で最も多く行うことの1つは、オブジェクトの形状を...で定義することです。",
+      "title": "あなたは本当にTypeScriptを知っていますか？(3): 型とインターフェース"
+    },
+    {
+      "locale": "zh",
+      "description": "你用Typescript做得最多的一件事就是用它来定义对象的形状。",
+      "title": "你真的了解TypeScript吗？(3): 类型和接口"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你用Typescript做得最多的一件事就是用它來定義對象的形狀。",
+      "title": "你真的瞭解TypeScript嗎？(3): 類型和接口"
+    }
+  ]
 }

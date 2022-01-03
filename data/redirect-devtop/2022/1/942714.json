@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-02T19:18:47Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WPgzzQ9V--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3lkbnkt0z24nnkbvc0z3.jpeg",
   "author": "guiga",
-  "author_url": "https://dev.to/guigacodes"
+  "author_url": "https://dev.to/guigacodes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "シンプルなリファクタリングで、多くのことを実現できることもあるのです。今回紹介する例は...",
+      "title": "スイッチの代わりにオブジェクトを使用する"
+    },
+    {
+      "locale": "zh",
+      "description": "有时，我们可以做一个简单的重构，并取得很大的成就! 我将展示的例子是...",
+      "title": "使用一个对象而不是一个开关"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有時，我們可以做一個簡單的重構，並取得很大的成就! 我將展示的例子是...",
+      "title": "使用一個對象而不是一個開關"
+    }
+  ]
 }
