@@ -1,13 +1,13 @@
 name: yt
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - main
-    paths:
-      - "content/**"
-      - "i18n/i18next/zh/**"
-      - "i18n/post-resource/zh/youtube_--_youtube-top*.json"
+  # push:
+  #   branches:
+  #     - main
+  #   paths:
+  #     - "content/**"
+  #     - "i18n/i18next/zh/**"
+  #     - "i18n/post-resource/zh/youtube_--_youtube-top*.json"
 jobs:
   run:
     runs-on: ubuntu-latest
