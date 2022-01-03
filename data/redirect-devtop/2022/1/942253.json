@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-02T03:51:57Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--S_jJwv3Q--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/puvg944kx31j9gzk4sc7.png",
   "author": "Amrin",
-  "author_url": "https://dev.to/coderamrin"
+  "author_url": "https://dev.to/coderamrin",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "divをセンタリングすることは、Web開発者にとって非常に重要なスキルです。そこで今日は、div を中央揃えにする 3 つの方法をご紹介します...",
+      "title": "divを水平方向と垂直方向にセンタリングする3つの方法"
+    },
+    {
+      "locale": "zh",
+      "description": "将div居中是网页开发者的一项重要技能。因此，今天我将分享3种将div居中的方法。",
+      "title": "3种将div水平和垂直居中的方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "將div居中是網頁開發者的一項重要技能。因此，今天我將分享3種將div居中的方法。",
+      "title": "3種將div水平和垂直居中的方法"
+    }
+  ]
 }
