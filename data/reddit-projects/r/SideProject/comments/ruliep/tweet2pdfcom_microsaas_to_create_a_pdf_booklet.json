@@ -58,5 +58,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Hi everyone,\n\nI'm working on https://tweet2pdf.com/ and talking to potential users to make\nthis better and more useful.\n\nYou can use this service to create a PDF of all of your (or anyone else's)\ntweets. So you will have an offline, searchable backup of those tweets.\n\nPlease let me know if you have…"
+  "the_new_excerpt": "Hi everyone,\n\nI'm working on https://tweet2pdf.com/ and talking to potential users to make\nthis better and more useful.\n\nYou can use this service to create a PDF of all of your (or anyone else's)\ntweets. So you will have an offline, searchable backup of those tweets.\n\nPlease let me know if you have…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "皆さん、こんにちは。\n\n私は、https://tweet2pdf.com/、潜在的なユーザーと話しながら、より良いものを作るために努力しています。\nをより良いもの、より便利なものにするためです。\n\nこのサービスを利用すると、自分（または他の人）の全データをPDFにすることができます。\nツイートすることができます。つまり、それらのツイートのオフラインで検索可能なバックアップを持つことができるようになるわけです。\n\nもしあれば教えてください...",
+      "title": "Tweet2PDF．ツイートからPDFの冊子を作成するMicroSaaS"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "大家好。\n\n我正在https://tweet2pdf.com/，并与潜在用户交谈，以使\n变得更好、更有用。\n\n你可以使用这项服务来创建一个你（或其他人）的所有PDF文件\n推文。因此，你将有一个离线的、可搜索的这些推文的备份。\n\n请让我知道，如果你有...",
+      "title": "Tweet2PDF.com。从推文中创建一个PDF小册子的微型SaaS系统"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "大家好。\n\n我正在https://tweet2pdf.com/，並與潛在用戶交談，以使\n變得更好、更有用。\n\n你可以使用這項服務來創建一個你（或其他人）的所有PDF文件\n推文。因此，你將有一個離線的、可搜索的這些推文的備份。\n\n請讓我知道，如果你有...",
+      "title": "Tweet2PDF.com。從推文中創建一個PDF小冊子的微型SaaS系統"
+    }
+  ]
 }

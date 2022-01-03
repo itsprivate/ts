@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "CSSライブラリをファンタジーマップ＋オープンソースの物語としてビジュアル化し、その開発に貢献する"
+    },
+    {
+      "locale": "zh",
+      "title": "将CSS库可视化为一个幻想的地图+一个开源的故事，你可以帮助开发。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "將CSS庫可視化爲一個幻想的地圖+一個開源的故事，你可以幫助開發。"
+    }
+  ]
 }

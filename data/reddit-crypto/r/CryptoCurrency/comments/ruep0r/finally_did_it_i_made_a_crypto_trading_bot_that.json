@@ -60,5 +60,22 @@
   },
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "So I've been working on this project for over 6 months now, and I've learned\nquite a bit about how new listings behave, and how important the Binance and\nKucoin Annoucement pages are.\n\nMy initial idea was to create a crypto trading bot in Python, that constantly\nchecks if a new listing is added on…"
+  "the_new_excerpt": "So I've been working on this project for over 6 months now, and I've learned\nquite a bit about how new listings behave, and how important the Binance and\nKucoin Annoucement pages are.\n\nMy initial idea was to create a crypto trading bot in Python, that constantly\nchecks if a new listing is added on…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "このプロジェクトに参加してから半年以上が経ちました。\n新規上場がどのように行われるのか、BinanceとBinanceがいかに重要であるかということがよくわかりました。\nKucoin Annoucementのページがあります。\n\n私の最初のアイデアは、Pythonで暗号の取引ボットを作ることでした。\n新しいリストが追加されているかどうかをチェックする。",
+      "title": "ついにやりましたね。BinanceやKucoinに追加される前に、新しいリストに自動的に注文を出す暗号取引ボットを作りました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "因此，我已经在这个项目上工作了6个多月，我已经学会了\n关于新上市的行为，以及Binance和Kucoin公告页面的重要性。\nKucoin公告页面的重要性。\n\n我最初的想法是在Python中创建一个加密货币交易机器人，它不断地\n检查是否有新的上市信息...",
+      "title": "终于做到了。我做了一个加密货币交易机器人，在Binance或Kucoin上的新上市项目被添加之前自动下单。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "因此，我已經在這個項目上工作了6個多月，我已經學會了\n關於新上市的行爲，以及Binance和Kucoin公告頁面的重要性。\nKucoin公告頁面的重要性。\n\n我最初的想法是在Python中創建一個加密貨幣交易機器人，它不斷地\n檢查是否有新的上市信息...",
+      "title": "終於做到了。我做了一個加密貨幣交易機器人，在Binance或Kucoin上的新上市項目被添加之前自動下單。"
+    }
+  ]
 }

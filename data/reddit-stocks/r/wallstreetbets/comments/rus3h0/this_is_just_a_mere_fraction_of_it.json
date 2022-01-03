@@ -159,5 +159,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1641181573,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これはそのほんの一部です"
+    },
+    {
+      "locale": "zh",
+      "title": "这仅仅是其中的一小部分"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這僅僅是其中的一小部分"
+    }
+  ]
 }

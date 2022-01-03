@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ワーテルローの戦い（ナポレオンの最期を飾る戦い）で大砲の弾により負傷したフランス兵の鎧。"
+    },
+    {
+      "locale": "zh",
+      "title": "在滑铁卢战役（标志着拿破仑的终结）中被炮弹打伤的法国士兵的盔甲。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在滑鐵盧戰役（標誌着拿破崙的終結）中被炮彈打傷的法國士兵的盔甲。"
+    }
+  ]
 }

@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-01T17:58:17Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--i8hrj1bC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/58pyk6tmndn2wkk5hngs.jpg",
   "author": "Hassan Tahir",
-  "author_url": "https://dev.to/thehassantahir"
+  "author_url": "https://dev.to/thehassantahir",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私たちは皆、リンクを新しいウィンドウのタブに開くためにtarget=\"_blank \"を使用していますが、誰もが知っているはずです...",
+      "title": "target=\"_blank \"はセキュリティリスク？"
+    },
+    {
+      "locale": "zh",
+      "description": "由于我们都使用target=\"_blank \"来打开链接到一个窗口的新标签，但每个人都应该知道一个新标签。",
+      "title": "target=\"_blank \"是一种安全风险？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "由於我們都使用target=\"_blank \"來打開鏈接到一個窗口的新標籤，但每個人都應該知道一個新標籤。",
+      "title": "target=\"_blank \"是一種安全風險？"
+    }
+  ]
 }

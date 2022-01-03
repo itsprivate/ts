@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-02T15:18:18Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0prtf11S--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6jcfgd4eb8zzoy6es4ci.jpeg",
   "author": "Julien Maury",
-  "author_url": "https://dev.to/jmau111"
+  "author_url": "https://dev.to/jmau111",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "macOSは、デフォルトのファイルマネージャーであるFinderでフォルダを開くと、自動的に.DS_Storeを作成します...。",
+      "title": "その.DS_Storeを削除してください。"
+    },
+    {
+      "locale": "zh",
+      "description": "当你用Finder（默认的文件管理器）打开一个文件夹时，macOS会自动创建.DS_Store....。",
+      "title": "请删除该.DS_Store"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當你用Finder（默認的文件管理器）打開一個文件夾時，macOS會自動創建.DS_Store....。",
+      "title": "請刪除該.DS_Store"
+    }
+  ]
 }

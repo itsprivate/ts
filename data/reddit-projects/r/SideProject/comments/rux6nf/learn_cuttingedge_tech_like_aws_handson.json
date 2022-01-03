@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "AWSなどの最先端技術をハンズオンで学ぶことができます。Rehearse.shは、受け身で見るだけでなく、調べたり作ったりして技術を学ぶためのプラットフォームです。"
+    },
+    {
+      "locale": "zh",
+      "title": "亲手学习AWS等前沿技术。Rehearse.sh是一个通过研究和构建来学习技术的平台，而不仅仅是被动地观看。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "親手學習AWS等前沿技術。Rehearse.sh是一個通過研究和構建來學習技術的平臺，而不僅僅是被動地觀看。"
+    }
+  ]
 }

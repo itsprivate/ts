@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-02T04:04:01Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kYF4n_WY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iqq1exoupz3qieeo3lyl.jpeg",
   "author": "Sachin Chaurasiya",
-  "author_url": "https://dev.to/sachinchaurasiya"
+  "author_url": "https://dev.to/sachinchaurasiya",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactjsは、ユーザーインターフェースを高速に構築できるUIライブラリです。",
+      "title": "次のReactJsプロジェクトで使用する5つの素晴らしいライブラリ"
+    },
+    {
+      "locale": "zh",
+      "description": "我们都知道Reactjs是一个UI库，使用它我们可以快速构建用户界面。但Reactjs...",
+      "title": "在你的下一个ReactJs项目中使用的5个很棒的库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們都知道Reactjs是一個UI庫，使用它我們可以快速構建用戶界面。但Reactjs...",
+      "title": "在你的下一個ReactJs項目中使用的5個很棒的庫"
+    }
+  ]
 }
