@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-25T02:49:40Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6EmMXN18--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x4n8ipl1v9dy7uvpp1dt.jpg",
   "author": "Dylan Oh",
-  "author_url": "https://dev.to/ohdylan"
+  "author_url": "https://dev.to/ohdylan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "前回は、JavaScriptのコードをテストするためのJestの使い方を紹介しました。 テストを始める...",
+      "title": "Reactコンポーネントのテスト"
+    },
+    {
+      "locale": "zh",
+      "description": "在上一篇文章中，我们介绍了Jest的用法，以测试我们的JavaScript代码。",
+      "title": "反应组件测试"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在上一篇文章中，我們介紹了Jest的用法，以測試我們的JavaScript代碼。",
+      "title": "反應組件測試"
+    }
+  ]
 }
