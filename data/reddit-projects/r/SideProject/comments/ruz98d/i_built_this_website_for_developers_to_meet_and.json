@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このウェブサイトは、開発者が出会い、プロジェクトで協力し、ネットワークを広げ、チーム環境での経験を積むために作りました。kollabdev.com"
+    },
+    {
+      "locale": "zh",
+      "title": "我为开发人员建立了这个网站，让他们在项目上会面和合作，尝试发展他们的网络，同时也在团队环境中获得经验。 kollabdev.com"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我爲開發人員建立了這個網站，讓他們在項目上會面和合作，嘗試發展他們的網絡，同時也在團隊環境中獲得經驗。 kollabdev.com"
+    }
+  ]
 }
