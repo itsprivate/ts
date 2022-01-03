@@ -43,5 +43,22 @@
   "original_created_at": "2022-01-01T15:00:22Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--O89eJigk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bt7km3dfocrmtg0wov4y.png",
   "author": "Kenta Takeuchi",
-  "author_url": "https://dev.to/bmf_san"
+  "author_url": "https://dev.to/bmf_san",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "概要 この記事はGolangでロードバランサーを実装するための翻訳です この記事は24番目の...",
+      "title": "Golangでロードバランサーを実装する"
+    },
+    {
+      "locale": "zh",
+      "description": "概述 本文是对Golangでロードバランサーを実装する的翻译 本文是第24个...",
+      "title": "在Golang中实现一个负载平衡器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "概述 本文是對Golangでロードバランサーを実裝する的翻譯 本文是第24個...",
+      "title": "在Golang中實現一個負載平衡器"
+    }
+  ]
 }

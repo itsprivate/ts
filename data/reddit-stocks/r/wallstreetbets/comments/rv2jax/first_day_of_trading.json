@@ -161,5 +161,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1641219013,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "取引開始日"
+    },
+    {
+      "locale": "zh",
+      "title": "第一个交易日。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "第一個交易日。"
+    }
+  ]
 }
